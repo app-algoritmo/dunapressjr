@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duna Press | Jornal e Revista - Assuntos Globais</title>
+    <meta name="description" content="Duna Press: Análise independente de notícias globais, política, economia, ciência e tecnologia.">
+    
+    <!-- Google Analytics & AdSense (IDs mantidos conforme original) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NTPJFB7G2T"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-NTPJFB7G2T');
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        duna: {
+                            50:'#fdf4f3', 100:'#fce7e5', 200:'#f8d5d1', 300:'#f2b8b0',
+                            400:'#ea8e80', 500:'#e06552', 600:'#c94d3a', 700:'#a83e32', // Rust Principal
+                            800:'#8b342a', 900:'#742f26', 950:'#3f1612'
+                        },
+                        sand: { 100:'#f5f5f0', 900:'#1a1a18' }
+                    },
+                    fontFamily: {
+                        serif: ['Playfair Display','Georgia','serif'],
+                        sans:  ['Inter','system-ui','sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+    <style>
+        body { background-color: #121212; color: #e2e8f0; font-family: 'Inter', sans-serif; }
+        .duna-gradient { background: linear-gradient(135deg, #121212 0%, #1a1514 100%); }
+        .glass-header { background: rgba(20, 20, 20, 0.95); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(168, 62, 50, 0.2); }
+        .card-hover:hover { transform: translateY(-4px); box-shadow: 0 10px 30px rgba(168, 62, 50, 0.15); transition: all 0.3s ease; }
+        
+        /* Badges das Categorias */
+        .badge { padding: 4px 10px; border-radius: 999px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: white; display: inline-block; margin-bottom: 8px; }
+        .badge-noticias { background: #a83e32; }
+        .badge-politica { background: #7f1d1d; }
+        .badge-economia { background: #b45309; }
+        .badge-ciencia { background: #047857; }
+        .badge-tecnologia { background: #334155; }
+        .badge-saude { background: #be185d; }
+        .badge-educacao { background: #4338ca; }
+        .badge-default { background: #475569; }
+
+        /* Social Icons Hover */
+        .social-icon { transition: all 0.3s ease; }
+        .social-icon:hover { transform: scale(1.15) translateY(-2px); color: #e06552; }
+    </style>
+</head>
+<body class="duna-gradient min-h-screen flex flex-col">
+
+    <!-- Top Bar com Redes Sociais (Links Originais Preservados) -->
+    <div class="bg-duna-950 border-b border-slate-800/50">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between text-xs text-slate-400">
+            <div class="flex items-center gap-4">
+                <span id="liveClock" class="font-mono tabular-nums text-slate-300"></span>
+                <span class="text-slate-700">|</span>
+                <span id="currentDate"></span>
+            </div>
+            <div class="flex items-center gap-2">
+                <!-- Links Originais do Grupo -->
+                <a href="https://x.com/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                <a href="https://t.me/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+                <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header Principal -->
+    <header class="glass-header sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
+            <a href="/" class="flex items-center gap-3 group">
+                <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-duna-600 to-duna-900 flex items-center justify-center shadow-lg border border-duna-500/30 group-hover:scale-105 transition">
+                    <span class="text-white font-serif font-bold text-xl">D</span>
+                </div>
+                <div>
+                    <h1 class="text-xl font-serif font-bold text-white tracking-tight">Duna Press</h1>
+                    <p class="text-[10px] text-duna-300 uppercase tracking-widest">Jornal e Revista</p>
+                </div>
+            </a>
+            
+            <!-- Menu Desktop -->
+            <nav class="hidden md:flex items-center gap-6 text-sm font-medium text-slate-300">
+                <a href="/artigos/noticias/" class="hover:text-duna-400 transition">Notícias</a>
+                <a href="/artigos/politica/" class="hover:text-duna-400 transition">Política</a>
+                <a href="/artigos/economia/" class="hover:text-duna-400 transition">Economia</a>
+                <a href="/artigos/ciencia/" class="hover:text-duna-400 transition">Ciência</a>
+                <a href="/artigos/tecnologia/" class="hover:text-duna-400 transition">Tecnologia</a>
+            </nav>
+
+            <!-- Botão Mobile -->
+            <button class="md:hidden text-white p-2 hover:bg-slate-800 rounded-lg transition" onclick="alert('Menu mobile em desenvolvimento')">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 py-8 w-full">
+        
+        <!-- Banner Publicitário Topo -->
+        <div class="mb-8 rounded-xl overflow-hidden border border-slate-700/30 bg-slate-800/20 p-3 text-center">
+            <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+
+        <!-- Título da Seção -->
+        <div class="flex items-center justify-between mb-6">
+            <h2 class="text-2xl font-serif font-bold text-white">Últimas Notícias</h2>
+            <div class="h-[1px] bg-slate-800 flex-grow ml-4"></div>
+        </div>
+
+        <!-- Grid de Artigos -->
+        <div id="articlesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Loading Spinner -->
+            <div class="col-span-full flex justify-center py-12">
+                <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-duna-500"></div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-black border-t border-slate-800 mt-12 py-8">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <div class="flex items-center justify-center gap-2 mb-4">
+                 <div class="w-8 h-8 rounded bg-duna-800 flex items-center justify-center">
+                    <span class="text-white font-serif font-bold text-sm">D</span>
+                </div>
+                <span class="text-white font-serif font-bold">Duna Press</span>
+            </div>
+            <p class="text-slate-500 text-sm">© 2026 Duna Press | App Algoritmo. Todos os direitos reservados.</p>
+            <div class="flex justify-center gap-4 mt-4 text-xs text-slate-400">
+                <a href="/privacy-policy" class="hover:text-white">Privacidade</a>
+                <a href="/terms-of-use" class="hover:text-white">Termos</a>
+                <a href="mailto:post@borealtimes.org" class="hover:text-white">Contato</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Relógio e Data em PT-BR
+        function updateClock() {
+            const t = new Date();
+            const pad = n => String(n).padStart(2,'0');
+            const el = document.getElementById('liveClock');
+            if (el) el.textContent = pad(t.getHours())+':'+pad(t.getMinutes())+':'+pad(t.getSeconds());
+        }
+        updateClock(); setInterval(updateClock, 1000);
+        document.getElementById('currentDate').textContent = new Date().toLocaleDateString('pt-BR', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+
+        // Configuração do Repositório
+        const REPO_OWNER = 'app-algoritmo';
+        const REPO_NAME = 'dunapressjr';
+        const BRANCH = 'main'; 
+
+        // Mapeamento de Categorias para Badges (PT-BR)
+        const categoryColors = {
+            'noticias': 'badge-noticias',
+            'política': 'badge-politica',
+            'politica': 'badge-politica',
+            'economia': 'badge-economia',
+            'ciência': 'badge-ciencia',
+            'ciencia': 'badge-ciencia',
+            'tecnologia': 'badge-tecnologia',
+            'saúde': 'badge-saude',
+            'saude': 'badge-saude',
+            'educação': 'badge-educacao',
+            'educacao': 'badge-educacao'
+        };
+
+        async function loadArticles() {
+            try {
+                // Busca a lista de arquivos na pasta /artigos/ via API do GitHub
+                const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos`;
+                
+                const response = await fetch(apiUrl);
+                if (!response.ok) throw new Error('Falha ao carregar artigos');
+                
+                const contents = await response.json();
+                
+                // Filtra apenas pastas (categorias)
+                const categories = contents.filter(item => item.type === 'dir');
+                
+                let allArticles = [];
+
+                // Para cada categoria, busca os arquivos .md dentro dela
+                for (const cat of categories) {
+                    const catApiUrl = `${cat.url}`; 
+                    try {
+                        const catRes = await fetch(catApiUrl);
+                        const files = await catRes.json();
+                        
+                        // Filtra apenas arquivos .md
+                        const mdFiles = files.filter(f => f.name.endsWith('.md'));
+                        
+                        mdFiles.forEach(file => {
+                            const parts = file.path.split('/');
+                            const category = parts[1]; 
+                            const slug = file.name.replace('.md', '');
+                            
+                            // Formata o título a partir do slug (ex: eleicoes-2026 -> Eleicoes 2026)
+                            const titleFormatted = slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                            
+                            allArticles.push({
+                                title: titleFormatted,
+                                category: category,
+                                url: `/artigos/${category}/${slug}`,
+                                date: new Date().toLocaleDateString('pt-BR'),
+                                excerpt: 'Clique para ler a análise completa deste assunto global...'
+                            });
+                        });
+                    } catch (e) {
+                        console.error(`Erro ao ler categoria ${cat.name}`, e);
+                    }
+                }
+
+                // Ordena por data (simulada) e pega os 9 mais recentes
+                renderArticles(allArticles.slice(0, 9)); 
+
+            } catch (error) {
+                console.error(error);
+                document.getElementById('articlesGrid').innerHTML = `
+                    <div class="col-span-full text-center text-slate-400 py-10">
+                        <p>Não foi possível carregar os artigos automaticamente.</p>
+                        <p class="text-xs mt-2">Verifique se o repositório é público e se a estrutura /artigos/ existe.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderArticles(articles) {
+            const grid = document.getElementById('articlesGrid');
+            grid.innerHTML = '';
+
+            if (articles.length === 0) {
+                grid.innerHTML = '<p class="text-slate-400 col-span-full text-center">Nenhum artigo encontrado ainda.</p>';
+                return;
+            }
+
+            articles.forEach(article => {
+                const badgeClass = categoryColors[article.category.toLowerCase()] || 'badge-default';
+                
+                const card = `
+                    <a href="${article.url}" class="block bg-slate-900/50 border border-slate-800 rounded-xl p-6 card-hover group h-full flex flex-col">
+                        <div class="mb-3">
+                            <span class="badge ${badgeClass}">${article.category}</span>
+                        </div>
+                        <h3 class="text-xl font-serif font-bold text-white mb-2 group-hover:text-duna-400 transition line-clamp-2">
+                            ${article.title}
+                        </h3>
+                        <p class="text-slate-400 text-sm mb-4 line-clamp-3 flex-grow">
+                            ${article.excerpt}
+                        </p>
+                        <div class="flex items-center justify-between mt-auto pt-4 border-t border-slate-800">
+                            <span class="text-xs text-slate-500">${article.date}</span>
+                            <span class="text-xs text-duna-400 font-semibold flex items-center gap-1">
+                                Ler mais 
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+                            </span>
+                        </div>
+                    </a>
+                `;
+                grid.innerHTML += card;
+            });
+        }
+
+        // Inicia o carregamento
+        loadArticles();
+    </script>
+</body>
+</html>

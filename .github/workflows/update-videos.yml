@@ -1,0 +1,41 @@
+name: Update Videos from YouTube RSS
+
+on:
+  # Runs every hour automatically
+  schedule:
+    - cron: '0 * * * *'
+
+  # Also allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch YouTube RSS and update index.html
+        run: python scripts/update_videos.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git diff --quiet && echo "No changes to commit" || (
+            git add index.html
+            git commit -m "chore: auto-update videos from YouTube RSS [skip ci]"
+            git push
+          )
