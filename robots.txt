@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://app-algoritmo.github.io/dunapress/sitemap.xml
+
+# Disallow admin/scripts
+Disallow: /scripts/
+Disallow: /.github/
