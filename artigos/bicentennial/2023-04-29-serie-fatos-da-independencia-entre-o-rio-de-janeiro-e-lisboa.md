@@ -1,0 +1,18 @@
+---
+title: "Série Fatos Da Independência: Entre o Rio De Janeiro e Lisboa"
+date: 2023-04-29
+status: publish
+author: joicemariasc
+categories:
+  - Bicentennial
+---
+
+Em 1808, Dona Maria I, seu filho, o Príncipe Regente Dom João, e grande parte da Corte portuguesa chegaram ao Brasil e, após passarem pela Bahia, se instalaram no Rio de Janeiro. Esse evento não fez mais do que trazer dores de cabeça para os habitantes do Maranhão. A comunicação com Lisboa era muito mais fácil. Em 6 de julho de 1808, o clérigo e futuro arcebispo primaz do Brasil, Romualdo de Seixas, embarcou em Belém com destino ao Rio de Janeiro em visita à Família Real que acabava de desembarcar, não sem antes considerar como “a navegação da costa do Brasil do Norte para o Sul é quase sempre penosa e difícil, porque não se navega só contra vento, mas é preciso ainda vencer corrente d’agua, que é adversa e os mares, cujo choque retarda as embarcações”.
+
+O deslocamento para o Rio de Janeiro não forçou apenas outros caminhos ao Maranhão. Impôs um novo centro de poder aos negociantes e administradores da capitania. O Sul cada vez mais impunha seus interesses políticos e econômicos frente ao Norte, que passou a custear, por meio de novos tributos, não apenas a transferência, mas também a manutenção da Corte na nova sede. Quase três quartos da renda do Maranhão foram comprometidos com as novas taxações. A insatisfação era crescente. A população reclamava de cobranças feitas por quem consideravam uma corja burocrata disfarçada em apoiadores de Dom João. Esses homens estariam arruinando o Império com taxações contestáveis, impostas aos demais súditos da Coroa. Algo precisaria ser feito antes que fosse tarde demais e a capitania se rebelasse.
+
+Do outro lado do Atlântico havia Lisboa e foi com Portugal que os homens de negócio continuaram a comercializar. Desde 1621, com a criação por Felipe II do Estado do Maranhão, com sede em São Luís, e por quase todo o período colonial, esse território mantinha-se independente do Estado do Brasil. Assim como o Grão-Pará, o Maranhão dirigia-se diretamente ao ultramar sem precisar comunicar-se com Salvador ou com o Rio de Janeiro, que a partir de 1763 passou a ser sede do vice-reino do Brasil. A comunicação com Lisboa corria de forma mais rápida e contínua, havia um intenso comércio de exportação e importação entres essas duas partes do Império português. De 1812 a 1820, cerca de 59,78% de toda embarcação que aportava em São Luís eram portuguesas. Além disso, alguns proprietários de terras negociavam no Maranhão, mas viviam em Portugal. Não é de se estranhar que essa capitania tenha ficado entre as primeiras a aderir à Revolução do Porto. Os dois lugares compartilhavam quase tudo: o Atlântico, amizades, negócios, tradições, recordações.
+
+Quando as notícias sobre o levante em Portugal chegaram a São Luís, no início de 1821, vieram pelo navio *Paquete Maranhão*. O rebuliço não foi tão grande, ao contrário da província vizinha do Grão-Pará, primeira a aderir aos constitucionalistas portugueses. Mas, quando em 4 de abril de 1821, o navio *Jequiá*, saído da Bahia, chegou a São Luís com a notícia de que essa província também aderira e Juntas eleitas substituíram as autoridades nomeadas diretamente pelo Rei, o Maranhão reagiu. Como temia Dom Pedro, lá do Rio de Janeiro, a influência dos acontecimentos na Bahia não poderia ser desconsiderada. Quando o então Governador-Geral Bernardo da Silveira Pinto da Fonseca foi informado das novidades, declarou a adesão e dois dias depois oficializou o ato. Em poucas horas, a notícia se espalhou, tornando-se o tema principal nas discussões e debates públicos feitos pelas ruas, praças e comércios da capital.
+
+Fonte: [http://projetorepublica.org](http://projetorepublica.org)

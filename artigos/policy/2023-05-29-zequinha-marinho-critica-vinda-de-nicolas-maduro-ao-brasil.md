@@ -1,0 +1,18 @@
+---
+title: "Zequinha Marinho critica vinda de Nicolás Maduro ao Brasil"
+date: 2023-05-29
+status: publish
+author: edicleiaalveslima
+categories:
+  - Policy
+---
+
+O senador Zequinha Marinho (PL-PA) criticou em pronunciamento nesta segunda-feira (29) a presença de Nicolás Maduro, presidente da Venezuela, na cúpula de líderes da América do Sul. O evento vai acontecer na terça-feira (30) em Brasília. Para o parlamentar, o Brasil "deu mais um exemplo de retrocesso e ataque frontal à democracia ao receber Maduro com tapete vermelho e honras de chefe de Estado".
+
+Zequinha disse que, a pedido do Conselho de Direitos Humanos da Organização das Nações Unidas (ONU), a equipe da Missão Internacional Independente para a Determinação de Fatos da República Bolivariana da Venezuela constatou, em setembro de 2020, a ocorrência de gravíssimas violações dos direitos fundamentais da população venezuelana. O documento elaborado pela missão, ressaltou, apresentou "numerosas evidências de desaparecimentos forçados, sequestros e execuções extrajudiciais", além de mostrar que o governo Maduro "trabalhou de forma progressiva no fechamento do espaço democrático, instrumentalizando o Poder Judiciário para violentar os direitos civis e políticos do povo".
+
+O senador também ressaltou que os Estados Unidos seguem considerando o regime de Maduro como ilegítimo, e que "essa é a opinião de grande parte do mundo". Para Zequinha, o Brasil dá sinais negativos à comunidade internacional ao "flertar com o autoritarismo de um dos ditadores mais cruéis da história".
+
+— O que nós estamos fazendo como país neste momento? O que nós queremos restabelecer? Uma relação que o presidente Bolsonaro cortou, porque a considerava criminosa. Quantos milhares de venezuelanos estão aqui perambulando pelo Brasil, pedindo esmola nas esquinas, nos sinais de trânsito? É uma coisa constrangedora, sabendo que aquele camarada morava no seu país, mas o seu governo o levou àquela situação de miséria, de alguém como se não tivesse pátria, de alguém como se não tivesse casa para viver, morar ou emprego. Um país que, num passado não tão remoto, era considerado o mais rico aqui na América do Sul, com um potencial extraordinário. Mas [...] regimes autoritários [...] levaram a Venezuela a ser o que ela é neste momento.
+
+Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2023/05/29/zequinha-marinho-critica-vinda-de-nicolas-maduro-ao-brasil)

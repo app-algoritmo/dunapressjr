@@ -1,0 +1,18 @@
+---
+title: "Série Fatos Da Independência: A junta do governo"
+date: 2024-04-07
+status: publish
+author: joicemariasc
+categories:
+  - Bicentennial
+---
+
+Contagiada pela aclamação de Independência em Sergipe, a Câmara de São Cristóvão procedeu imediatamente à eleição de uma Junta provisória de Governo. A elite local teria de deixar de lado suas divergências sobre a Independência para assumir o controle da Junta. Seus membros eram compostos por absolutistas, caso de José Martins Leite Sampaio, por apoiadores da reanexação de Sergipe, como o coronel Domingos Dias Coelho, e de entusiastas de Dom Pedro, a exemplo do vigário Serafim Alves da Rocha e do padre José Francisco de Menezes Sobral. Apesar das diferentes posições políticas, a aclamação em São Cristóvão representou a oportunidade para formar uma frente unida e recuperar a proeminência da capital.
+
+Apesar da formação da Junta de Governo, Labatut continuou a interferir na política local. Exigiu daqueles que haviam apoiado as Cortes de Lisboa a contribuição material com o Exército Pacificador; para alguns mais “encarniçados”, dizia o general, não haveria perdão, pois eram considerados “inimigos de nossa causa”. O confisco de bens se converteu em uma das discussões mais controvertidas para a consolidação da província. Houve denúncias de usurpação de dinheiro, sem finalidade bélica, de fundos da Caixa de Órfãos e de Ausentes, destinados para o custeio das comodidades de Labatut. A ingerência chegou a ponto de Labatut dissolver a Junta, que não possuía qualquer meio para enfrentar a força militar do general, e nomear como presidente homens de sua confiança, a exemplo de José Barros Pimentel, um dos homens mais ricos da província, e do tenente-coronel José Elói Pessoa.
+
+Apenas a partir de janeiro de 1823 que a situação iria mudar. Em carta régia, Dom Pedro I instruiu a formação de nova Junta de Governo em Sergipe, bem como a eleição dos deputados para a composição da Assembleia Constituinte brasileira. A organização da Junta e das eleições representou a confirmação do decreto de Dom João VI, de 1820, que havia tornado Sergipe uma província independente. No entanto, José Barros Pimentel, então presidente provincial, recusou-se a deixar o cargo, mesmo com a oferta diplomática da Junta para o cargo de Governador das Armas. Pimentel se deslocou para Laranjeiras, onde acreditava ter maior apoio, e começou a reunir os militares sob seu comando para marchar sobre a capital e derrubar a Junta à força. Durante a noite, porém, os oficiais se reuniram em sigilo e mudaram o rumo da história. No dia seguinte, impuseram ao comandante o cargo de Governador das Armas, de modo que desistisse do confronto que certamente traria muito sangue. Sem apoio de suas próprias tropas para uma batalha, Pimentel não teve outra saída senão aceitar o cargo.
+
+Apesar dos esforços, a reconciliação foi apenas temporária. As eleições para a nova Junta de Governo e para a Assembleia Constituinte foram intensamente concorridas. À medida que o Império brasileiro independente tomava forma, novos espaços de poder se abriam e se tornavam alvo de disputa. Durante a apuração das atas eleitorais, conforme ficava clara a vitória dos partidários pela submissão do Sergipe à Bahia, a Junta de Governo buscou impedir a contagem dos votos. A Câmara de São Cristóvão, tentando preservar a integridade do processo, recolheu as atas e terminou a contagem. Em reação, a Junta cercou o edifício da Câmara, prendeu todos seus membros e tomou o poder à força. Para selar o golpe, todos os candidatos eleitos para a Junta efetiva foram perseguidos. O regime representativo, que mal havia se colocado de pé, amanhecia falseado.
+
+Fonte: [http://projetorepublica.org](http://projetorepublica.org)

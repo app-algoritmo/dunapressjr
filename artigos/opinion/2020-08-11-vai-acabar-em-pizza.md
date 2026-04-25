@@ -1,0 +1,20 @@
+---
+title: "Vai Acabar em Pizza!"
+date: 2020-08-11
+status: publish
+author: Marcos Ferreira
+categories:
+  - Opinion
+---
+
+É mais do que certo que o Brasil é um pais projetado para não dar certo, onde enquanto a classe política planeja cortes e mais cortes na carne da população, com redução de salário em meio a pandemia e extensão do tempo de serviço por meio de reformas previdenciárias, onde o cidadão comum dificilmente irá ver-se aposentado antes de morrer, ao passo que a *casta superior* da classe política, descaradamente propõe aumentos salariais bem como não corta da própria carne no que tange a redução dos benefícios previdenciários, vivendo em uma realidade paralela onde não existe crise. Já no que tange a aplicação das leis, a indecência fica ainda maior, pois com um layout legislativo engenhosamente projetado para que a impunidade vigore em meio aos *inatingíveis*, onde tudo acaba em pizza!
+
+Mas de onde surgiu a expressão “acabar em pizza”? E qual a sua relação com a política atual?
+
+Ao contrário da maioria das expressões, cuja origem histórica remete séculos atrás, e tem raízes transnacionais, o termo “acabar em pizza” tem sua origem em solo brasileiro, bem como tem menos de um século de seu nascimento. Tendo sua origem em meados dos anos 60, onde o clube futebolístico do Palmeiras enfrentava uma crise entre seus dirigentes, e por isso, a fim de dirimir todos os impasses internos do clube, foi iniciada uma reunião entre todos os cartolas do Palmeiras. Todavia, os entraves eram tantos, que a reunião alongou-se por demais, e após quatorze horas entorno de uma mesa trocando rusgas, a fome abateu os enchapelados, e como a situação não avançava, decidiram transferir a reunião para um pizzaria próxima, onde após alguns litros de vinho e dezoito pizzas gigantes, os ânimos que estavam aflorados resfriaram, e os dirigentes do Palmeiras, com o estomago cheio, chegaram a um denominador comum. Na manhã seguinte, o jornalista Milton Peruzzi, que cobria com exclusividade o impasse palmeirense, publicou na Gazeta Esportiva uma matéria intitulada: *Crise do Palmeiras Termina em Pizza!*
+
+De lá para cá, a frase migrou do esporte para a política, onde atualmente *acabar em pizza* é sinônimo de impunidade para as autoridades políticas, que fazendo uso de suas prerrogativas esquivam-se da punibilidade de seus atos de improbidade, levando a crer que a igualdade na aplicação das leis só é válida quando é em desfavor da *plebe (*no qual o politicamente correto não permite descrever de quais palavras iniciadas em P é composta*) *, ao passo que os crimes cometidos pelos membros do legislativo são levados a passo lentos e discretamente varridos para debaixo do tapete.
+
+De forma mais amoral ainda ocorre no judiciário, onde Têmis a deusa da justiça ergue sua balança de olhos vendados para o que alguns magistrados praticam, onde seus atos de improbidade são recompensados com uma aposentadoria compulsória, o que leva ao questionamento, de onde mais no mundo que uma pessoa seria punida por seus atos perversos com o adiantamento de sua aposentadoria, com direito a todos os rendimentos integrais?, acabando desta forma a farra dos togados em pizza de caviar.
+
+E por falar em pizza e caviar, outro caso que sabe-se que acabará em pizza é o caso que corre na corregedoria do Tribunal de Justiça do Estado de São Paulo, relacionado ao incidente recentemente vinculado as mídias sociais, onde um Deusembargador, cujo nome este mero mortal não ousa proferir, humilha um guarda municipal que cobrava da divindade o uso de máscara, e o togado além de achincalhar o servidor público de *casta inferior*, ainda rasga a multa que lhe era aplicada, ao passo que no mundo dos mortais, vários estabelecimentos comerciais estão sendo diariamente lacrados por não respeitarem o toque de recolher ou o distanciamento social, enquanto o diviníssimo Deusembargador continua a passear pelas praias sem máscaras ciente de sua impunidade, afinal entre os Deuses não existe antropofagia, e com absoluta certeza, seu caso terminará em pizza.

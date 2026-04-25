@@ -1,0 +1,34 @@
+---
+title: "Projeto mundial sobre mudanças climáticas com participação de estudantes brasileiros"
+date: 2020-11-06
+status: publish
+author: debarrospaulo
+categories:
+  - News
+---
+
+Por meio do Climate Action Project, mais de um milhão de jovens, em seis continentes, estudam os problemas mundiais e locais relacionados às mudanças climáticas, com o objetivo de encontrar soluções e “colocar a mão na massa” para melhorar o planeta. Para isso, os alunos de 100 países diferentes interagem entre si para troca de ideias e constatações.
+
+Com apoio do Greenpeace, ONU, WWF e NASA, Climate Action Project proporciona troca de experiências e estimula busca de soluções para problema ambiental mundial
+
+O Climate Action Project é realizado há 4 anos no mundo todo com apoio de cientistas, figuras públicas renomadas e entidades como Greenpeace, ONU, WWF e até a NASA, para onde os estudantes brasileiros vão mandar uma mensagem no término dos estudos. O projeto começou, simultaneamente em todos os países envolvidos, no dia 28 de setembro, e tem a duração de seis semanas. Na primeira semana, os alunos estudaram o que são as mudanças climáticas e anotaram, numa longa lista, as causas para o problema na cidade onde moram. Na segunda semana, eles estudaram quais são os efeitos das mudanças climáticas localmente. A semana três também buscou as causas e efeitos, porém globalmente. Para isso, eles se conectaram com estudantes de escolas em outros países para debaterem o assunto.
+
+Na semana 4, eles discutiram as soluções para os problemas que detectaram nas primeiras semanas. Na semana de 26 de outubro, por meio de interações online, os alunos discutem as soluções encontradas com estudantes de escolas em outros países, além de participarem de webinars com experts no assunto. A última semana, do dia 2 de novembro, é a de colocar em ação o que constataram e entenderem que são parte da mudança. Cada semana é encerrada com um vídeo, produzido pelos alunos e enviado às turmas de outros países, com os trabalhos desenvolvidos.
+
+**Botando a mão na massa**
+
+Ana Paula Teixeira, coordenadora do Ensino Bilíngue do CIPP - Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento do Colégio Positivo e facilitadora do Climate Action Project nas escolas da rede, avalia que está sendo uma experiência única não só do ponto de vista do aprendizado, mas também do enriquecimento cultural dos jovens e crianças participantes. “Sempre foi nosso desejo despertar nos alunos essa consciência multicultural, porém indo além de celebrações e datas importantes em outros países. Essa troca sobre experiências climáticas com alunos estrangeiros os coloca em outro patamar de conhecimento internacional. Eles aprendem a se colocar no lugar dos outros, ver o problema de outras perspectivas. Sem contar o desenvolvimento do Inglês. E esse aspecto nos surpreendeu, porque além da comunicação em si, eles têm usado fluentemente termos relacionados ao meio ambiente na conversação”, diz a professora.
+
+Camila Bombonato, professora e Assessora do Ensino Bilíngue nos anos iniciais no CIPP, conta que os alunos brasileiros presenciaram algumas descobertas ambientais interessantes de outros países. "Na Índia, por exemplo, os alunos relataram que não existem mais vagalumes onde moram. Sem contar que a poluição do ar é tão grande que não se enxerga nada quando há nevoeiro. Já na Espanha, uma turma comentou que, em certa época do ano, sempre aparecia na cidade uma espécie de pássaro de outro país, que sumiu. E isso se tornou um marco ambiental para os jovens espanhóis, que entendem que a ausência do pássaro é resultado de algum desequilíbrio climático. Na Sérvia, a percepção foi inversa. Os alunos disseram que os brasileiros possuem coisas que lá não tem, como queimada de florestas. No entanto, na Sérvia, uma vez por ano, há inundação de um rio, que força as pessoas a esvaziarem a cidade", conta.
+
+**Encontrando soluções**
+
+Serena Rodrigues Barbosa, de 11 anos, de Curitiba (PR), é uma das estudantes que está envolvida ativamente no projeto: ela pesquisa assuntos e está sempre levando dicas e conclusões à sala de aula. Serena já vem de uma família preocupada com questões ambientais, como reduzir o consumo, reaproveitar tudo o que pode e trocar o carro pela caminhada a pé em trajetos curtos. Apesar de considerar que ainda é criança e que não sabe o que pode fazer já com pouca idade, ela e os colegas de turma já constataram na cidade em que moram problemas como poluição do ar, poluição sonora, e as ilhas de calor que se formam nos grandes centros urbanos. “Esse vapor quente vindo de fábricas, carros e chaminés é um dos grandes causadores do aquecimento global”, diz ela.
+
+Como solução para isso, Serena entende que o ser humano precisa plantar mais árvores e revitalizar as florestas, principalmente as que estão sendo consumidas pelos incêndios. Não bastasse a solução, Serena ainda filosofa sobre a evolução das espécies: “A Terra não precisa da gente. É a gente que precisa dela. É cientificamente provado que a Terra tem capacidade de se reconstruir e servir a uma espécie mais evoluída do que o ser humano. O homem já chegou ao ponto de estudar a própria história, criar teorias científicas e religiosas sobre nossas origens. Isso nos diferencia dos animais: essa consciência e sede de saber. Porém o ser humano tem maldade, raiva, vingança, o egoísmo de ter que estocar, ter mais que todo mundo. O homem encara tudo ao redor como estrutura. Os animais não possuem nada disso. Com algumas exceções, os animais não destroem e pensam no coletivo. Por isso, são mais evoluídos que o humano”, diz Serena, que no auge dos seus 11 anos dá uma aula de civilidade e consideração ao meio ambiente.
+
+**Sobre o Colégio Positivo **
+
+O Colégio Positivo compreende oito unidades na cidade de Curitiba, onde nasceu e desenvolveu o modelo de ensino levado a todo o país e ao exterior. O Colégio Positivo - Júnior, o Colégio Positivo - Jardim Ambiental, o Colégio Positivo -  Ângelo Sampaio, o Colégio Positivo - Hauer, o Colégio Positivo - Internacional, o Colégio Positivo - Água Verde, o Colégio Positivo - Boa Vista e o Colégio Positivo - Batel atendem alunos da Educação Infantil ao Ensino Médio, sempre combinando tecnologia aplicada à Educação, material didático atualizado e professores qualificados, com o compromisso de formar cidadãos conscientes e solidários. Em 2016, o grupo chegou em Santa Catarina - onde hoje fica o Colégio Positivo - Joinville e o Colégio Positivo - Joinville Jr. Em 2017, foi incorporado ao grupo o Colégio Positivo – Santa Maria, em Londrina (PR). Em 2018, o Positivo chegou a Ponta Grossa (PR), onde hoje está o Colégio Positivo - Master. Em 2019, somaram-se ao Grupo duas unidades da escola Passo Certo, em Cascavel (PR), e o Colégio Semeador, em Foz do Iguaçu (PR).
+
+Release Central Press para Duna Press Jornal e Magazine

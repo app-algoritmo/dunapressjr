@@ -1,0 +1,18 @@
+---
+title: "Ao estilo chinês, Brasil aposta pela censura"
+date: 2020-07-01
+status: publish
+author: debarrospaulo
+categories:
+  - News
+---
+
+Alguns dizem democracia, outros de país soberano e até mesmo que todo o poder emana do povo, tudo isso é fake news!
+
+(**PL 2630/2020**) 
+
+### Lista dos senadores que votaram SIM a censura
+
+**Senador****Partido****UF****Voto**Contra sua  LiberdadeXAcir GurgaczPDTROSIMXXAlessandro VieiraCidadaniaSESIMXAlvaro DiasPodemosPRNÃOXAngelo CoronelPSDBASIMXXAntonio AnastasiaPSDMGSIMXArolde de OliveiraPSDRJNÃOXCarlos FávaroPSDMTSIMXCarlos VianaPSDMGNÃOXChico RodriguesDEMRRSIMXXCid GomesPDTCESIMXXCiro NogueiraPROGRESPISIMXXConfúcio MouraMDBROSIMXXDaniella RibeiroPROGRESPBSIMXXDário BergerMDBSCSIMXXEduardo BragaMDBAMSIMXEduardo GirãoPodemosCENÃOEduardo GomesMDBTONÃOXEliziane GamaCidadaniaMASIMXElmano FérrerPodemosPINÃOEsperidião AminPROGRESSCNÃOXFabiano ContaratoREDEESSIMXFernando CoelhoMDBPENÃOFernando CollorPROSALNÃOFlávio BolsonaroRepublicaRJNÃOXHumberto CostaPTPESIMXXIrajáPSDTOSIMXIzalci LucasPSDBDFNÃOXJader BarbalhoMDBPASIMXXJaques WagnerPTBASIMXXJarbas VasconcelosMDBPESIMXXJayme CamposDEMMTSIMXXJean Paul PratesPTRNSIMXJorge KajuruCidadaniaGONÃOJorginho MelloPLSCNÃOXJosé MaranhãoMDBPBSIMXJosé SerraPSDBSPABSTENÇÃOXKátia AbreuPROGRESTOSIMXLasier MartinsPodemosRSNÃOLeila BarrosPSBDFNÃOXLucas BarretoPSDAPSIMXLuis Carlos HeinzePROGRESRSNÃOLuiz do CarmoMDBGONÃOMailza GomesPROGRESACNÃOMajor OlimpioPSLSPNÃOMarcelo CastroMDBPISIMMarcio BittarMDBACNÃOMarcos do ValPodemosESNÃOXMarcos RogérioDEMROSIMXXMaria do Carmo AlvesDEMSESIMXXMecias de JesusRepublicaRRSIMXXNelsinho TradPSDMSSIMXXOmar AzizPSDAMSIMXOriovisto GuimarãesPodemosPRNÃOXOtto AlencarPSDBASIMXXPaulo PaimPTRSSIMXXPaulo RochaPTPASIMXPlínio ValérioPSDBAMNÃOXRandolfe RodriguesREDEAPSIMXReguffePodemosDFNÃORenan CalheirosMDBALABSTENÇÃORoberto RochaPSDBMANÃORodrigo CunhaPSDBALNÃOXRodrigo PachecoDEMMGSIMXXRogério CarvalhoPTSESIMXRomárioPodemosRJNÃOXRose de FreitasPodemosESSIMXXSérgio PetecãoPSDACSIMXXSimone TebetMDBMSSIMXSoraya ThronickePSLMSNÃOStyvenson ValentimPodemosRNNÃOXTasso JereissatiPSDBCESIMXTelmário MotaPROSRRSIMXVanderlan CardosoPSDGONÃOXVeneziano Vital do RêgoPSBPBSIMXXWellington FagundesPLMTSIMXXWevertonPDTMASIMXZenaide MaiaPROSRNNÃOZequinha MarinhoPSCPANÃO
+
+Imagem de destaque: Senado Federal senador **Angelo Coronel** (PSD-BA)

@@ -1,0 +1,69 @@
+---
+title: "Exportações chinesas voltam a cair, afetadas por guerra comercial com EUA"
+date: 2019-12-08
+status: publish
+author: joabsonjoao
+categories:
+  - News
+---
+
+As exportações da China registraram queda em novembro, pelo
+quarto mês consecutivo, e sem um horizonte de melhora, devido à guerra
+comercial com os Estados Unidos e à interminável espera para se alcançar um
+acordo bilateral.
+
+O excedente chinês em relação aos Estados Unidos teve uma
+queda significativa (-6,9%), passando de US$ 26,42 bilhões para US$ 24,61
+bilhões em um mês, de acordo com números divulgados pelas autoridades chinesas
+neste domingo (8).
+
+Esta última notícia deve soar bem aos ouvidos do presidente
+americano, Donald Trump, que iniciou uma guerra comercial com Pequim em 2018, à
+base da imposição de tarifas. Trump afirma que seu objetivo é, principalmente,
+reequilibrar o comércio bilateral.
+
+As vendas da China no exterior em geral retrocederam 1,1% no
+mês passado em um ano, após um recuo de 0,9% em outubro, em um contexto de
+menor demanda mundial.
+
+Trata-se de uma surpresa relativa, já que os especialistas
+entrevistados pela agência Bloomberg esperavam um aumento das exportações
+(+0,8%).
+
+As importações chinesas passaram, por sua vez, para o outro
+lado da balança (+0,3%) após seis longos meses de queda. Também aqui, os
+analistas esperavam a tendência contrária, prevendo um recuo de 1,4%.
+
+"Estes números são um pouco surpreendentes",
+comentou Zhou Hao, economista do Commerzbank em Singapura, citado pela
+Bloomberg.
+
+"A situação ainda pode melhorar em relação às
+importações de dezembro, devido a uma base comparativa favorável com o ano
+anterior. Em geral, porém, não há uma melhora significativa à vista",
+acrescentou.
+
+Estes números são divulgados no momento em que as duas
+principais economias do mundo buscam um acordo preliminar que encerre a disputa
+comercial. Entre as mercadorias afetadas, estão celulares e roupas esportivas.
+
+Apesar das recentes tensões diplomáticas bilaterais, devido
+à política chinesa em Hong Kong e em Xinjiang, o porta-voz do Ministério chinês
+do Comércio, Gao Fengo, declarou na última quinta-feira que "as equipes de
+negociação continuam em estreito contato".
+
+"Se for assinado um acordo preliminar e se não houver
+outra escalada das tensões comerciais entre China e Estados Unidos, o efeito do
+aumento das tarifas americanas sobre as exportações chinesas deve se atenuar em
+2020", avaliou, recentemente, a analista Sylvia Sheng, do escritório do JP
+Morgan em Hong Kong.
+
+Neste contexto de incerteza, centenas de lideranças
+políticas, economistas e presidentes de bancos centrais se reúnem em Pequim,
+nos próximos dias, para um grande encontro anual. Na reunião, deve-se
+estabelecer metas de crescimento para 2020, assim como sobre política monetária
+e fiscal.
+
+Imagem: AFP / STR
+
+Fonte: AFP

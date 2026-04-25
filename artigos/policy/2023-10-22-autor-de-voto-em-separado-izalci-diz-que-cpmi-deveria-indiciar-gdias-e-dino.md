@@ -1,0 +1,18 @@
+---
+title: "Autor de voto em separado, Izalci diz que CPMI deveria indiciar GDias e Dino"
+date: 2023-10-22
+status: publish
+author: edicleiaalveslima
+categories:
+  - Policy
+---
+
+Em pronunciamento no Plenário nesta terça-feira (17), depois de apresentar voto em separado na CPMI de 8 de janeiro, o senador Izalci Lucas (PSDB-DF) defendeu a responsabilização civil e criminal do ministro da Justiça, Flávio Dino, e do ex-ministro do Gabinete de Segurança Institucional (GSI), General Gonçalves Dias. Para ele, GDias e Dino ignoraram alertas de inteligência sobre o risco de invasão às sedes dos três Poderes. Izalci apresentou um relatório de 2.576 páginas, segundo o qual o governo foi “omisso”. 
+
+— No dia 8, em especial, de manhã, às 8h54, o ministro GDias recebeu uma mensagem do Saulo, da Abin, adjunto da Abin, dizendo e reforçando a necessidade de realmente tomar providências [...]. O mais grave é que o ministro Flávio Dino não tomou as providências. Ele recebeu também 29 alertas, que foram encaminhados ao Ministério da Justiça, e sequer tomou qualquer providência — disse Izalci. 
+
+Izalci Lucas sugeriu alterações sobre a forma de atuação das CPMIs para, segundo ele, aprimorar o trabalho de investigação parlamentar. Entre outras medidas, afastar "relatores parciais" e proibir trocas de informações com depoentes. 
+
+— Não se pode fazer o que a relatora [senadora Eliziane Gama] fez: quebrar o sigilo de todo mundo, pessoa jurídica, pessoa física, sem fundamentação, e ficar pescando onde é que seria encontrada alguma coisa para sustentar uma narrativa [...]. Na quebra de sigilo do GDias, no e-mail institucional, foi encontrado o diálogo entre o gabinete da relatora e o depoente [...]. Nós temos que reforçar a mudança do regimento para proibir esse tipo de coisa e também que os autores ou o autor do requerimento possam participar da Mesa — concluiu.
+
+Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2023/10/18/autor-de-voto-em-separado-izalci-diz-que-cpmi-deveria-indiciar-gdias-e-dino)

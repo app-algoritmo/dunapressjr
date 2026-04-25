@@ -1,0 +1,28 @@
+---
+title: "Empresas criam iniciativas de valorização e capacitação de comunidades no entorno de fábricas"
+date: 2023-02-03
+status: publish
+author: joicemariasc
+categories:
+  - News
+---
+
+“Mais do que uma oportunidade profissional, ter a chance de fazer o curso de mecânica básica me fez bem como ser humano”, diz Ariana Cardoso, 36 anos, empregada doméstica. “A vida acaba se resumindo em limpar a casa, cuidar dos filhos e acabei esquecendo de mim. Estudar, além de aumentar minhas chances no mercado de trabalho, me fez querer não parar mais”, complementa. A dona de casa está entre os moradores da Vila Augusta B, na Cidade Industrial de Curitiba, que tiveram a oportunidade de atualizarem seus currículos profissionais e participarem de cursos de capacitação, em uma iniciativa da indústria de implantes dentários Neodent, que tem suas fábricas vizinhas da comunidade. 
+
+O objetivo da ação é capacitar os moradores da comunidade para que possam participar dos processos seletivos da Neodent, para vagas em que o curso de mecânica básica é pré-requisito para ingressar na empresa. Luiz Ferreira dos Santos, 44 anos, fez o curso de Mecânica Básica Industrial, necessário para operar máquinas em indústrias dos mais variados ramos, junto com os dois filhos, de 23 e 19 anos. “Já tinha levado meu currículo na Neodent algumas vezes e sempre me alertavam sobre a necessidade do curso de mecânica básica. Quando ofereceram essa possibilidade, resolvi aproveitar e incentivar meus filhos que, aliás, também já concluíram o curso.”
+
+Os dois participaram do Dia do Sorrir, evento promovido no primeiro semestre de 2022 no bairro onde estão instaladas as fábricas da Neodent. Além de elaborar os currículos profissionais, com apoio do setor de recursos humanos da empresa, os moradores do entorno puderam se inscrever em cursos de capacitação necessários para desenvolver as atividades operacionais na área de produção da fábrica. “Nossa intenção é fazer com que essa região se desenvolva, e acreditamos que a melhor forma para isso é oferecendo conhecimento e melhores oportunidades de trabalho para a comunidade próxima das nossas unidades, e sabemos o quanto a capacitação é importante para o ingresso não só na Neodent, mas em outras indústrias. Além disso, também incentivamos nossos colaboradores a participarem dos cursos de capacitação que ofertamos e que abrem portas ao crescimento profissional”, explica a diretora de Comunicação e Responsabilidade Corporativa, Raphaela Borba.
+
+**Qualificação e crescimento profissional**
+
+Foram abertas três turmas de mecânica básica exclusivas para moradores dos arredores das fábricas da Neodent e da ClearCorrect. No total, 85 pessoas participaram do projeto de capacitação. Na Casa da Comunidade (pertencente à Associação de Moradores da Vila Augusta B) foram 50 pessoas, com a CNC Treinamentos, empresa parceira no projeto e especializada nesse tipo de capacitação, e outras 35 fizeram a formação no Senai. Ao todo, 67 delas já receberam o certificado e estão qualificadas para desenvolver funções na área de produção de fábricas. O curso é dividido em módulos: matemática básica, desenho técnico e metrologia e CNC. Até agora, 18 alunos já foram contratados e estão atuando na Neodent. Para 2023, a Neodent apoiará a realização de novos cursos e abertura de outras turmas para cursos semelhantes, visando a formação de colaboradores e o desenvolvimento de mais profissionais para atuarem nas indústrias da região.
+
+Para quem já trabalha na empresa também há programas de qualificação, visando o crescimento profissional dos colaboradores. Um deles é o programa de Formação CNC, que é oferecido para quem tem interesse em atuar como Programador de CNC. Desde 2019, colaboradores são convidados a se capacitarem e, para isso, é feito um remanejamento de escalas: profissional e empresa doam uma hora e meia do tempo de cada um. 
+
+“O mercado está cada vez mais competitivo. Tanto para os candidatos, que precisam se capacitar e se desenvolver para conquistar habilidades e estarem aptos aos cargos bem como ter experiências relevantes para seus currículos, assim como para as empresas, que disputam pelos melhores profissionais no mercado”, declara a vice-presidente de Recursos Humanos da Neodent, Cristiane Ribas. “Faz sentido para as empresas investirem em cursos e treinamentos, para garantir que os profissionais possam também conquistar novas promoções, assumir novos desafios, e garantir que a cultura e o legado de conhecimento sejam compartilhados e repassados aos novos colegas que chegam à empresa”, reforça Cristiane. 
+
+Cynthia Magalhães, 42 anos, é um dos exemplos. Trabalhando há pouco mais de três anos na empresa, ela se inscreveu para a Formação em CNC. Finalizou a qualificação no mês de dezembro de 2021 e logo depois já foi promovida. Cynthia viu no CNC uma oportunidade de crescer profissionalmente e oferecer uma vida melhor para as duas filhas. “Procuro aproveitar as chances e acredito que todo mundo é capaz de fazer o mesmo. A empresa sempre está ofertando cursos e, como gosto de trabalhar em máquinas, vi a possibilidade de evoluir e decidi agarrar”, conta. 
+
+O vice-presidente de produção, Almir Zvetz, é mais um exemplo de como a empresa possibilita o crescimento do colaborador. “Cheguei como programador de CNC, sem graduação, mas busquei e alcancei. Acho que não existem limites para os sonhos, e quando nos dedicamos à realização deles, nada nos detém. O programa de Formação CNC aqui na Neodent é uma das oportunidades de qualificação. Nós temos orgulho dos profissionais que crescem com a gente”, reconhece Almir, que hoje comanda um time com mais de 650 profissionais na área de produção.
+
+Release Central Press para Duna Press

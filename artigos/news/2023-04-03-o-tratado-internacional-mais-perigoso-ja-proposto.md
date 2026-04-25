@@ -1,0 +1,58 @@
+---
+title: "O tratado internacional mais perigoso já proposto"
+date: 2023-04-03
+status: publish
+author: edicleiaalveslima
+categories:
+  - News
+---
+
+A história da humanidade é uma história de lições esquecidas. Apesar do colapso catastrófico da democracia europeia na década de 1930, parece que a história do século XX – em que os cidadãos, intimidados por ameaças existenciais, aceitaram a rejeição da liberdade e da verdade em favor da obediência e da propaganda, enquanto permitiam que líderes despóticos se apoderassem poderes cada vez mais absolutos - perigosamente perto de serem esquecidos.
+
+Em nenhum lugar isso fica mais claro do que em relação à aparente indiferença com que estão sendo tratados dois instrumentos jurídicos internacionais que atualmente tramitam na Organização Mundial da Saúde: um novo Tratado Pandêmico e emendas ao Regulamento Sanitário Internacional de 2005, ambos pertencentes à OMS órgão governante, a Assembléia Mundial da Saúde, a ser apresentada em maio do próximo ano.
+
+Como cientistas preocupados e especialistas jurídicos apontaram, esses acordos ameaçam transformar o relacionamento entre a OMS, os governos nacionais e os indivíduos.
+
+Eles consagrariam no direito internacional uma abordagem supranacional e de cima para baixo da saúde pública, sob a qual a OMS, agindo em alguns casos a critério exclusivo de uma única pessoa, seu Diretor-Geral, teria o poder de fornecer aos Estados Membros e seus cidadãos de longo alcance, para emitir diretivas juridicamente vinculativas que vão desde exigir que os estados individuais façam contribuições financeiras até exigir a produção e troca internacional de vacinas e outros produtos de saúde; a ponto de solicitar a cessão de direitos de propriedade intelectual; para substituir os processos nacionais de aprovação de segurança para vacinas, terapia genética, dispositivos médicos e diagnósticos; à imposição de quarentenas nacionais, regionais e globais,
+
+Um sistema global de "certificados de saúde" digitais para verificar o status de vacinação ou os resultados dos testes seria implantado rotineiramente, e uma rede de biovigilância, cujo objetivo seria identificar vírus e variantes preocupantes - e, neste caso, monitorar membros conformidade dos estados com as diretrizes da OMS – seria incorporada e expandida.
+
+Para que qualquer um desses amplos poderes seja invocado, não precisaria haver uma emergência de saúde 'real' causando danos mensuráveis ​​às pessoas; em vez disso, bastaria que o DG tivesse, a seu exclusivo critério, identificado o "potencial" absoluto para tal evento.
+
+O impacto destas propostas na soberania dos Estados-Membros, nos direitos humanos individuais, nos princípios fundamentais da ética médica e no bem-estar das crianças dificilmente pode ser subestimado. Tal como estão, essas propostas retirariam a soberania e autonomia governamental do Reino Unido sobre políticas sociais e de saúde, e através dos efeitos indiretos de bloqueios e quarentenas forçadas, e exigindo que cada Estado-Membro gaste pelo menos cinco por cento de seu orçamento de saúde e um ainda não deve gastar uma porcentagem específica de seu PIB na prevenção e controle da pandemia da OMS, incluindo aspectos críticos da política econômica.
+
+Os novos poderes propostos violariam não apenas a Declaração Universal dos Direitos Humanos, mas também a Convenção das Nações Unidas sobre os Direitos da Criança. Eles anunciariam uma nova virada em nossa compreensão dos direitos humanos fundamentais: uma emenda explícita ao RSI removeria a redação atual "[a] implementação deste Regulamento será realizada com total respeito pela dignidade, direitos humanos e direitos fundamentais liberdades das pessoas" e substituído por uma afirmação nebulosa de que "[a] implementação destes regulamentos é baseada nos princípios de igualdade, inclusão, coerência...".
+
+As disposições que obrigam especificamente a OMS (ênfase minha) a acelerar as diretrizes para a aprovação "rápida" (também conhecida como livre) de uma ampla gama de produtos de saúde, incluindo vacinas, terapias genéticas, dispositivos médicos e diagnósticos, representam uma ameaça, de acordo com estudiosos, "padrões de direito médico há muito combatidos com o objetivo de garantir a segurança e a eficácia de dispositivos médicos" e devem ser motivo de preocupação, principalmente para os pais.
+
+De fato, esses documentos não obrigam a OMS a diferenciar sua orientação obrigatória quanto ao seu impacto nas crianças, permitindo medidas indiscriminadas, como testagem em massa, isolamento, restrições de viagens e vacinas - possivelmente de produtos experimentais e experimentais que são acelerados - para crianças saudáveis populações podem ser ordenadas com base em uma emergência de saúde real ou "potencial" declarada unilateralmente pela Direção-Geral.
+
+Como se isso não fosse preocupante o suficiente, como escreve Thomas Fazi, "a OMS caiu em grande parte sob o controle do capital privado e de outros grupos de interesse". Como ele e outros explicam, a evolução da estrutura de financiamento da organização e, particularmente, a influência de organizações corporativas focadas em soluções de resposta a pandemias (principalmente vacinas), tirou a OMS de seu ethos original de promover uma abordagem democrática e holística da saúde pública, afastada da saúde e para abordagens corporativistas baseadas em commodities que "geram lucros para seus patrocinadores privados e corporativos" (David Bell). Mais de 80 por cento do orçamento da OMS está agora "destinado" na forma de contribuições voluntárias,
+
+**Lição de história**
+
+"A história pode familiarizar e deve alertar", diz o prólogo do livro de Timothy Snyder On Tyranny: Twenty Lessons from the Twentieth Century. Se ao menos estivéssemos dispostos a ser ensinados, poderíamos aprender com isso até onde o autoritarismo pandêmico já nos levou no caminho da tirania e que, se os planos da OMS forem adiante, a pandemia de Covid pode ser apenas o começo.
+
+“Obediência preventiva é uma tragédia política”, adverte a Lição Um e, de fato, agora parece que a obediência voluntária tão imprudentemente exibida pelos cidadãos do mundo em 2020-22 - usando máscaras - está prestes a ser incluída em uma nova maneira de aceitar vacinas. Todas estas medidas e outras estão agora consagradas nas propostas como diretivas potencialmente vinculativas, vinculativas tanto para os Estados-Membros como para os cidadãos individuais.
+
+“Defenda as instituições”, aconselha a Lição Dois, porque “as instituições não se protegem a si mesmas” – uma advertência séria dada a autodesignação da OMS nessas propostas como “autoridade líder e coordenadora para ação internacional de saúde pública”: uma designação que esta organização explicitamente elevar acima dos ministérios da saúde nacionais e dos parlamentos soberanos eleitos.
+
+A lição três, "Cuidado com o estado de partido único", nos lembra que "os partidos que remodelam os estados e suprimem os rivais não eram onipotentes desde o início". A OMS não se apresenta como um partido político, mas não terá de o fazer, tendo-se autoproclamado o único cão de guarda global não só para a deteção de pandemias e potenciais pandemias, mas também para o planeamento e implementação de medidas antipandémicas. para si uma extensa rede de vigilância de saúde e uma equipe global - financiada em parte pelos contribuintes das nações sobre as quais ascenderá - condizente com seu novo status supremo.
+
+Relembrar a ética profissional - Lição Cinco - teria sido um conselho sábio em 2020, mas por mais que possamos lamentar o abandono da ética médica em 2023, a nosso ver ("se os médicos tivessem aceitado a regra de que nenhuma cirurgia é realizada sem consentimento", Synder rants, referindo-se à tirania do século 20), as propostas da OMS garantiriam que tais desvios dos princípios básicos da ética médica – consentimento informado, desrespeito pela dignidade humana, autonomia corporal, até mesmo a liberdade de experimentar – se tornassem a norma aceita. de ser uma exceção desprezível.
+
+Cuidado, adverte Synder, com a “catástrofe repentina que exigirá a cessação de controles e equilíbrio; … esteja ciente das noções fatais de emergência e exceção.” As propostas da OMS, vistas como um próximo passo necessário para a coordenação e colaboração global da saúde pública, criariam uma infraestrutura de vigilância global permanente e uma burocracia criada cuja razão de ser é detectar e suprimir emergências de saúde.
+
+O financiamento para esta rede virá dos interesses privados e corporativos que se beneficiarão financeiramente das intervenções planejadas baseadas em vacinas. E ampliando e antecipando as circunstâncias em que esses poderes podem ser acionados – não mais exigindo uma emergência de saúde pública “real”, apenas o “potencial” para tal evento – podemos esperar que a ameaça do estado de emergência está se tornando uma característica semi-permanente da vida moderna.
+
+“Acredite na verdade”, diz a Lição Dez – pois “desistir dos fatos é desistir da liberdade”, o que é de fato verdadeiro em nossa era orwelliana de pensamento duplo, quando os slogans recebem o status de religião e a ideologia se disfarça de integridade: “Esteja seguro , seja inteligente, seja gentil” (Dr. Tedros Adhanom Ghebreyesus, Diretor-Geral da OMS, 2020). O que, é de se perguntar, Orwell pensaria da Unidade de Contra-Desinformação do Reino Unido e do Ministério da Verdade dos EUA, ou de quaisquer propostas que não apenas permitiriam, mas obrigariam a OMS a construir capacidade institucional para impedir a disseminação de Para prevenir a desinformação e desinformação - e, portanto, ungi-lo como a única fonte da verdade pandêmica?
+
+O que Hannah Arendt de 2020-22 diria sobre a intrusão do estado na vida privada de indivíduos e famílias e os longos períodos de isolamento resultantes e - por meio da adoção do isolamento e segregação forçados como ferramentas respeitosas de saúde pública - a elevação de tal destruição da vida privada, digamos, para um padrão globalmente aceito? "Assuma a responsabilidade pela face do mundo", diz Snyder na lição quatro. Poderia haver um símbolo mais revelador das manifestações visíveis de lealdade da sociedade ao seu novo normal do que os rostos mascarados do mundo em 2020-2021?
+
+"A vigilância eterna é o preço da liberdade" é uma citação não menos verdadeira por ser erroneamente atribuída a Jefferson, mas vivi em meio aos destroços do autoritarismo falido de Covid por três anos. Talvez estejamos muito perto agora para entender o quanto já nos afastamos da democracia liberal.
+
+Mesmo se alguém concordasse totalmente com o foco da OMS na preparação para uma pandemia e nas intervenções que ela provoca, seria surpreendente conferir a uma organização supranacional (e muito menos a um indivíduo dentro dessa organização) poderes tão abrangentes. Que, como a resposta à pandemia demonstrou de forma tão brutal, a versão otimizada para o lucro do bem comum perseguido pela OMS muitas vezes colide com a saúde e o bem-estar das crianças, nos prepara para um crime grotesco contra nossas crianças e jovens.
+
+A lição mais importante de Snyder pode ser: "Para se destacar - no momento em que você dá um exemplo, o feitiço do status quo é quebrado." O Reino Unido estava tão preocupado com sua soberania nacional que se retirou da UE - um garoto-propaganda da democracia em comparação com a OMS não eleita; certamente seria impensável agora acenar com propostas que forçariam o Reino Unido a ceder sua soberania sobre as principais políticas nacionais de saúde, sociais e econômicas para a OMS.
+
+Fonte: [Uncut-News](https://uncutnews.ch/der-gefaehrlichste-internationale-vertrag-der-je-vorgeschlagen-wurde/)

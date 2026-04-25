@@ -1,0 +1,32 @@
+---
+title: "De Macacos Assassinos à Emus em Guerra - A verdadeira Revolução dos Bichos!"
+date: 2022-02-20
+status: publish
+author: Marcos Ferreira
+categories:
+  - Opinion
+---
+
+Pouco tempo atrás os noticiários internacionais divulgaram uma notícia um tanto quanto inusitada. Na província de Maharashtra, na Índia, após uma matilha de cachorros de rua terem matado um filhote de macaco, os primatas em ato de vingança começaram a capturar os cães da região e arremessarem de lugares altos. Estima-se que mais de duzentos e cinquenta cães já tenham sido mortos. Sobraram poucos cães na região, e desta forma aparentemente a vida imita a arte, e em um arremedo ao que foi retratado no filme O Planeta dos Macacos, os símios começaram a atacar seres humanos, tendo atacado uma criança de oito anos, que só sobreviveu após os esforços dos moradores locais em afugentar os animais. Fato não é inédito na região, pois em 2018, em Agra, também na Índia, um macaco invadiu uma casa e arrancou do colo da mãe um bebê recém-nascido, que o primata assassinou com uma mordida na cabeça. São vários os relatos de ataques de primatas a seres humanos na índia, onde o mais recente ocorreu em nove de fevereiro, onde no estado de Uttar Pradesh, macacos feriram e mataram uma menina de cinco anos. Estaria a Índia sendo palco de uma revolução dos bichos?
+
+Aparentemente, os símios menos evoluídos deram o primeiro passo para deflagrar uma guerra contra a humanidade.
+
+Apesar de surreal todo o incidente na índia é trágico.
+
+Mas e quando os seres humanos que resolvem dar o primeiro passo, e compram uma guerra no qual não conseguem vencer?
+
+E quando os inimigos na guerra, não são os símios primos próximos da cadeia evolutiva, mas são aves de cérebro pouco desenvolvido e desengonçadas?
+
+Em 1932 a Austrália vivenciava uma mudança radical em seu cenário geo-social, pois com o término da primeira guerra mundial, vários veteranos australianos e ingleses tornaram-se agricultores no país, com o mundo sendo assolado pela Grande Depressão, os fazendeiros foram encorajados a aumentarem sua produção, após o governo prometer subsídios a agricultura, porém mesmo assim o preço do trigo continuava a cair. Não bastando a crise financeira que levava a bancarrota os fazendeiros, a Austrália foi invadida por mais de vinte mil emus, que migraram após o período reprodutivo para a região leste do país, onde as aves viram nos solos férteis e irrigados um lugar ideal para fixarem-se, vindo, portanto, a devastar as plantações de trigo da Austrália ocidental, causando prejuízo ainda maior para o setor pecuário.
+
+Com a economia abalada, atendendo ao clamor dos fazendeiros, o ministro da defesa Sir George Pearce, declarou guerra aos emus, que nada mais são que os parentes mais glamorosos das emas e menos famosos dos avestruzes. A estratégia do ministro da defesa consistia em não permitir que civis entrassem em combate atirando a esmo, por e enviou um contingente de veteranos da primeira guerra , composto pelo major G. P. W. Meredith e pelos sargentos S. McMurray e Gunner J. O’Hallora, para abaterem os animais, sendo condicionado aos fazendeiros o custeio da alimentação, moradia e munição dos soldados.
+
+Assim sendo, no dia 02 de novembro os veteranos de guerra, fortemente armados com duas metralhadoras Lewis começaram a abater as aves de grande porte. Porém o que não esperavam é o fato de que as aves eram extremamente ágeis e se mostravam resilientes e resistentes aos ferimentos dos projeteis, oferecendo desta forma uma resistência pacifica ao ataque dos veteranos australianos. Além do fato das aves terem adotado o astuto estratagema de espalharem-se para aumentar sua área de alcance e reduzir as chances de acerto dos atiradores, fazendo com que pouquíssimos animais fossem efetivamente abatidos. Com um resultado nada satisfatória no primeiro round, a segunda investida ocorreu dois dias depois, onde o major G. P. W. Meredith, que era o primeiro em comando na operação, observou o agrupamento dos emus próximo a uma represa e buscando encurralar suas oponentes, ordenou aos seus dois subordinados, a iniciarem uma salva de tiros contra as aves, entretanto as eficientes metralhadoras Lewins, que deveriam desmantelar suas concorrentes, as metralhadoras Vickers, acabaram apresentando falhas mecânicas e travando, fazendo com que as aves que estavam indefesamente flanqueadas, pudessem bater em retirada, trazendo mais um resultado agridoce ao embate.
+
+Nos dias que se seguiram, novas investidas foram deflagradas, porém o major Meredith cada vez se via mais frustrado pelo parco efetivo abatido em comparação com a quantidade de munição deflagrada, e mesmo com elaboradas manobras logísticas, cada vez tornava-se mais difícil abater as aves, que passaram a organizar-se em pequenos bandos, onde o líder de cada célula ao observar a aproximação humana, alertava os colegas emplumados, que batiam em retirada.
+
+Diante do patético resultado da operação, em oito de novembro do mesmo ano parlamento australiano decidiu pelo encerramento da operação, entretanto, com os militares batendo em retirada, os emus voltaram a destruir as plantações, e por isso em doze de novembro o ministro da defesa autorizou uma nova investida, ou seja, uma tentativa de revanche. Diante disto, no dia seguinte novos ataques as aves iniciaram com um sucesso inicial, abatendo aproximadamente quarenta aves, porém gradativamente os resultados foram mostrando uma efetividade reduzida, onde o saldo final relatado foi de 986 aves abatidas ao custo de 9860 projeteis, uma relação custo-benefício nem um pouco satisfatória para a operação.
+
+Mesmo com o massivo ataque das tropas australianas de resultado embaraçoso, houve novo clamor por parte dos agricultores por novas incursões contra os emus nos anos de 1934, 1943 e 1948, que diante da vergonhosa derrota em 1932, foram recusadas as investidas por parte das forças armadas australianas, poupando o vexame de novas derrotas ou empates técnicos.
+
+Com a vergonhosa derrota do exército australiano, é possível crer que a posição do ser humano como animal dominante, encontra-se gravemente ameaçada, pois se até mesmo aves desengonçadas de cérebro minúsculo conseguem resistir as forças armadas de um país, a humanidade não seria páreo para um levante organizado de animais um pouco mais desenvolvidos como os macacos indianos, ou até quem sabe uma dupla de porquinhos maquiavélicos chamados Napoleão e Bola de Neve, em uma pequena fazenda?

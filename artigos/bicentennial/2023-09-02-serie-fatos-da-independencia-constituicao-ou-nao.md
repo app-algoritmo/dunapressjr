@@ -1,0 +1,16 @@
+---
+title: "Série Fatos Da Independência: Constituição ou não?"
+date: 2023-09-02
+status: publish
+author: joicemariasc
+categories:
+  - Bicentennial
+---
+
+A Revolução de 1817 deixou uma tensão no ar. O temor de novas agitações semelhantes rondava o Ceará e, de fato, elas não tardaram a acontecer. Em abril de 1821, um levante de tropas cercou a Câmara de Fortaleza e forçou o governador do Ceará a tomar uma atitude um tanto à contragosto: ele foi obrigado a jurar à Constituição que havia sido elaborada em Portugal. Nosso país, na época, era parte do Reino Unido de Portugal, Brasil e Algarve e, portanto, seria regido pela mesma Constituição que Portugal. O Ceará foi, assim, novamente sacudido, mas agora os ventos sopraram do além-mar: desde 1920, quando eclodiu a Revolução do Porto, o debate político girava em torno da construção de uma Constituição. O desejo pela independência não foi esquecido e grande parte da população e dos dirigentes do Ceará desejava mais autonomia. Quem organizou o tal levante de tropas havia sido, afinal, a Câmara de Fortaleza que, contrária ao alinhamento do governador do Ceará ao Antigo Regime, queria limitações aos poderes do rei.
+
+E essa Constituição não foi elaborada só por mãos portuguesas: havia deputados brasileiros nas Cortes de Lisboa, entre os quais cearenses. Um rosto conhecido era o de José Martiniano, que já havia saído do cárcere em função da sua participação na Revolução de 1817. O processo de construção da Constituição de Portugal não foi nem um pouco tranquilo e muitos desacordos tiveram de ser driblados para que, em 23 de setembro de 1822, ela fosse enfim aprovada. Os quatro deputados cearenses que foram enviados às Cortes assinaram embaixo.
+
+Apesar da participação do Ceará nas Cortes, havia ainda muitos desentendimentos com relação ao apoio – ou não – ao movimento constitucionalista português. Para alguns, além do desejo de criar uma Constituição, havia também o desejo de recolonização: afinal, uma vez limitados os poderes do rei, ele nada poderia fazer caso Portugal apertasse o cerco para o lado brasileiro e voltasse a exigir a sua submissão. No Ceará, a Constituição chegou a ser chamada de “lei do Diabo” por essa razão. Para outros, como era o caso dos membros da Câmara de Fortaleza, a Revolução do Porto significou o momento ideal para assegurar a autonomia local: junto com a movimentação em Portugal, veio a transformação das capitanias em províncias e, a partir de então, elas poderiam ser governadas por Juntas de Governo, escolhidas pela população, que responderiam diretamente a Lisboa.
+
+A maior autonomia para os poderes políticos locais fez as discordâncias aparecerem ainda mais. Se, por um lado, o antigo governador do Ceará era contrário à monarquia constitucional e decidiu que ele próprio seria o organizador da Junta, por outro, havia parcela da população que desejava escolher os seus representantes. Entre idas e vindas – e algumas deposições acompanhas de agitações nas ruas – foram eleitas três Juntas de Governo no Ceará, o que denota a instabilidade política local. Por fim, um acontecimento, ocorrido no Rio de Janeiro, fez aparecerem, de vez, as divergências: em 12 de outubro de 1822, Dom Pedro foi aclamado Imperador do Brasil.

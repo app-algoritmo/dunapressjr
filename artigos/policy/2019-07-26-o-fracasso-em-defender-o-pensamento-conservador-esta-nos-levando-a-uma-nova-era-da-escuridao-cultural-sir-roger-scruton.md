@@ -1,0 +1,32 @@
+---
+title: "O fracasso em defender o pensamento conservador está nos levando a uma nova era da escuridão cultural, Sir Roger Scruton"
+date: 2019-07-26
+status: publish
+author: debarrospaulo
+categories:
+  - Policy
+---
+
+A vida intelectual britânica sempre abriu espaço para a voz conservadora. De Burke e Hume a Maitland e Oakeshott, os filósofos britânicos ofereceram uma reflexão contínua sobre nossa herança social e cultural, com o objetivo de entender a ideia fundamental sobre a qual se fundou o conservadorismo - a ideia de pertencer. Eles insistiram que o objetivo de nossa vida terrena não é refazer o mundo, mas pertencer a ele, e que as verdadeiras virtudes políticas são paciência, compreensão e humildade, em vez de indignação ou raiva revolucionária.
+
+Quando, nos últimos anos, entrei na batalha contra o comunismo, colaborei com Norman, cuja visão histórica permitiu-lhe perceber a profundidade espiritual sob a superfície maligna do Império Soviético.
+
+A voz conservadora soou claramente em Cambridge, onde estudei nos anos 60. Absorvi da atmosfera daquela universidade uma concepção única de ordem social, na qual a justiça do common law, a excentricidade aristocrática e a suspeita de um governo de cima para baixo estavam amarrados em um nó inextricável. Essa ordem social, eu aprendi, é propriedade da pessoa comum e não da preservação do estado. A tentativa dos fascistas e dos comunistas de se apropriarem dela havia sido derrotada, e nosso dever era tanto restaurar nossa herança cultural quanto recuperá-la como nossa.
+
+Eu absorvi a lição de Cambridge do ranzinza Maurice Cowling; outros a absorveram de FR Leavis, outros dos dons mais jovens (John Casey em inglês, Michael Tanner em filosofia, Norman Stone na história), todos os quais viam o currículo como um legado cultural. Nós não aceitamos esse legado como dogma, mas fomos encorajados a absorvê-lo e também a questioná-lo. Aprendemos que as lições da história estão longe de ser simples, e que a verdade nunca surgirá de afirmações dogmáticas, mas apenas de argumentos céticos e de mente aberta, nos quais o conhecimento real, em vez de uma opinião confortável, fornece os elos.
+
+Entre os mais desafiadores de nossos mentores, estava o falecido Norman Stone, o historiador de Glasgow cuja capacidade de comunicar o quadro geral deixou uma impressão duradoura em seus alunos. Norman era um defensor forte, embora irônico, de nossa identidade herdada, mas, como escocês, ele entendia que a identidade tem muitas camadas: um escocês não é forçado a escolher entre ser escocês e britânico, assim como não é forçado a escolher entre uísque e vinho - Norman sendo, em matéria de álcool, um crente em uma comunidade sem fronteiras dos Iluminados. Ele tinha um profundo conhecimento dos impérios europeus, um amor pela Austro-Hungria e uma notável familiaridade com as línguas da Europa Central. Ele deu um exemplo de envolvimento imaginativo com outras culturas que foi ainda mais impressionante pela sagacidade sarcástica com que ele perfurou nossas ilusões patrióticas.
+
+Quando, nos últimos anos, entrei na batalha contra o comunismo, colaborei com Norman, cuja visão histórica permitiu-lhe perceber a profundidade espiritual sob a superfície maligna do Império Soviético. A identidade nacional, ele ensinou, é da primeira importância; mas é sempre parte de uma comunidade mais ampla na qual forças legais, espirituais e linguísticas fazem e refazem o tecido social. Viajei com ele na Polônia comunista, onde ele me mostrou a vida oculta sob a superfície poluída.
+
+Minha educação em Cambridge foi completada por aquelas viagens por trás da cortina de ferro. Cheguei a ver que, a menos que a investigação livre seja mantida pelas universidades e pela mídia, a voz conservadora será silenciada. O resultado será o tipo de paralisia totalitária que eu testemunhei na Europa Oriental.
+
+Refletindo sobre as recentes caçadas às bruxas, incluindo a minha, fiquei particularmente impressionado com as cartas de denúncia em massa que agora são comuns em nossas universidades. Cartas contra Jordan Peterson e Noah Carl, com muitas assinaturas, excluíram recentemente dois importantes dissidentes da Universidade de Cambridge. Lembrei-me das petições que os acadêmicos dos países comunistas foram forçados a assinar, implorando pela punição de seus colegas dissidentes. Mas essas novas denúncias são ainda mais vergonhosas porque os signatários não têm a polícia secreta à sua disposição, guiando sua pena. Os acusadores são entusiastas, inspirados por uma ideologia que vê visões e atitudes conservadoras como o mal - não para ser discutido, mas para ser silenciado.
+
+Tendo acabado de sobreviver a um julgamento de esquerda, sem ajuda do governo conservador da Sra. May, sinto um certo alarme com a mudança na cultura pública deste país. A ideia de um crime de pensamento está conosco há muito tempo, é claro. Costumávamos olhar espantados para os julgamentos de Moscou, nos quais a vítima, convencida de desvio ideológico, do idealismo burguês, do neo-Schellingismo, do imperialismo sionista ou qualquer outra coisa, é dada uma breve chance de confessar entusiasticamente sua culpa, antes de ser levada para o pelotão de fuzilamento. Onde estavam as provas, perguntávamos, e qual era exatamente o crime?
+
+Agora vemos pensadores respeitáveis acusados de racismo, sexismo, homofobia, transfobia, islamofobia e uma série de outros crimes mentais, com a força de uma palavra fora do contexto, uma amizade há muito esquecida ou (como com Jordan Peterson) uma fotografia provando que você é capaz de ficar ao lado de alguém vestindo o tipo errado de camiseta. As punições são brandas em comparação com as dos julgamentos de Moscou. Mas elas são severas o suficiente, como eu e Peterson descobrimos. E em todos os casos não há defesa. Pois toda tentativa de defesa fortalece a acusação. Se você apontar que os crimes de pensamento são em grande parte escolhidos para significar o que quer que o acusador deseje que eles signifiquem, então isso é prova certa de que você é culpado.
+
+Somos, parece-me, entrando em um reino de escuridão cultural, no qual o argumento racional e o respeito pelo oponente estão desaparecendo do discurso público, e no qual cada vez mais, em cada questão que importa, há apenas uma visão permitida, e uma licença para perseguir todos os hereges que não a subscrevam. Isso significa, para meu modo de pensar, a morte de nossa cultura política e a ascensão de uma espécie de religião ímpia em seu lugar.
+
+Sir Roger Scruton

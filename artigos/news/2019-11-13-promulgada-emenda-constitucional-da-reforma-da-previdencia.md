@@ -1,0 +1,128 @@
+---
+title: "Promulgada Emenda Constitucional da reforma da Previdência"
+date: 2019-11-13
+status: publish
+author: joabsonjoao
+categories:
+  - News
+---
+
+O Congresso promulgou nesta terça-feira (12) a Emenda
+Constitucional 103, de 2019, que altera o sistema de Previdência Social e
+estabelece regras de transição e disposições transitórias. Apresentada pelo
+governo em fevereiro, a Proposta de Emenda à Constituição (PEC) [6/2019
+](http://www25.senado.leg.br/web/atividade/materias/-/materia/137999)tramitou por seis meses na Câmara e quase três no Senado. O objetivo da
+medida, segundo o Executivo, é reduzir o déficit nas contas da Previdência
+Social. A estimativa de economia é de cerca de R$ 800 bilhões em 10 anos.
+
+O presidente do Congresso, Davi Alcolumbre, classificou o
+dia como histórico e considerou a reforma da Previdência como uma das mais
+importantes alterações feitas na Carta Magna, em seus 31 anos de existência.
+Ele destacou o esforço coletivo dos parlamentares para aprovação da matéria
+ainda em 2019 e explicou que o Senado, como Casa da Federação, tinha o dever de
+acelerar a tramitação da proposta, a fim de promover ajustes nas contas da União,
+dos estados e municípios. Davi adiantou que a atenção, agora, deve se voltar à
+PEC Paralela ([PEC
+133/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/138555)) e às demais reformas propostas pelo Poder Executivo.
+
+— Temos consciência do tamanho da nossa responsabilidade. O
+Senado e a Câmara estão construindo um caminho para unirmos as forças do
+Parlamento, com a participação do governo federal, para realizarmos também uma
+reforma tributária em que o grande beneficiado será o povo brasileiro —
+declarou.
+
+O presidente da Câmara, Rodrigo Maia, disse que o Congresso
+concluiu um ciclo importante a respeito de um tema decisivo para o futuro do
+país. Ele ponderou que a Emenda Constitucional 103, aliada a outras reformas,
+como a tributária, reduz desigualdades ao taxar mais quem ganha mais. Maia
+disse que o Parlamento precisa ter coragem para enfrentar esses temas, porque o
+país não pode continuar a crescer com base no atendimento a interesses
+particulares.
+
+—Todos nós precisamos entender que a reforma da Previdência
+é a primeira de várias neste objetivo. A política é a solução dos nossos
+problemas, e é aqui, nesta Casa, que nós vamos construir todas as soluções, de
+forma transparente, com diálogo, mas, acima de tudo, respeitando a nossa Constituição,
+reformando-a onde podemos reformá-la, respeitando-a e protegendo-a. Este é o
+nosso papel, se queremos viver numa democracia forte.
+
+Foram preparados cinco exemplares da Emenda, destinados ao
+Senado, à Câmara, ao Supremo Tribunal Federal, à Presidência da República e ao
+Arquivo Nacional. O relator da matéria na Comissão de Constituição e Justiça
+(CCJ), senador Tasso Jereissati (PSDB-CE), destacou a importância da medida.
+Ele classificou o tema como um dos mais difíceis, embora fundamentais para nortear
+os caminhos do país. Tasso elogiou o grupo do governo que deu apoio à
+elaboração do relatório, as assessorias do Senado e da Câmara, bem como os
+funcionários do seu gabinete e a presidente da CCJ, senadora Simone Tebet
+(MDB-MS).
+
+— É muito difícil fazer um texto em que se equilibre a
+consciência social, tão forte neste Congresso, com a preocupação com as
+populações mais vulneráveis e, ao mesmo tempo, ter em mente a importância do
+equilíbrio fiscal. Mas nós conseguimos fazer isso, tenho convicção.
+
+O deputado Samuel Moreira (PSDB-SP), relator da proposta na
+comissão especial da Câmara, disse que a Emenda Constitucional 103 contribui
+para a justiça social e corrige injustiças, “na medida em que 62% dos
+aposentados ganham até um salário mínimo e, 85% dos aposentados, ganham até
+dois salários mínimos”.
+
+— Todos os brasileiros, especialmente estes, precisam de um
+sistema de Previdência forte, seguro e justo — declarou.
+
+O líder do governo, senador Fernando Bezerra Coelho
+(MDB-PE), destacou a iniciativa de Jair Bolsonaro, a atuação do ministro da
+Economia, Paulo Guedes, e disse que a promulgação da Emenda 103 só foi possível
+graças à coordenação política dos presidentes do Senado e da Câmara. Fernando
+Bezerra Coelho mencionou a articulação de Rodrigo Maia junto aos mais de 30
+partidos, “para apreciar uma reforma tão complexa e tão difícil”. Ele elogiou o
+trabalho de Davi Alcolumbre para o andamento da matéria, “numa Casa também
+marcada pela pluralidade”.
+
+— Quero registrar aqui a participação dos relatores, que puderam
+dar o toque do equilíbrio entre responsabilidade fiscal e seguridade social,
+mantendo as conquistas vivas da Constituição de 1988, mas atendendo aos
+reclamos de uma economia pressionada pelos indicadores demográficos, por um
+deficit crescente da Previdência e pelo crescimento veloz da dívida pública
+nacional. Hoje, aqui, nós o coroamos com a promulgação desse instrumento, que,
+com certeza, marca um novo momento na história do nosso país.
+
+O líder do MDB, senador Eduardo Braga (AM), disse que o
+sacrifício exigido de todos os brasileiros com a reforma tem o mérito de evitar
+o colapso fiscal da Previdência, garantindo um sistema mais sustentável.
+Segundo ele, a expressão-chave que norteou o trabalho do Congresso foi a
+responsabilidade com o Brasil e os brasileiros.
+
+— Responsabilidade não apenas com as contas públicas, mas
+acima de tudo, com o justo direito de futuras gerações a todos os benefícios
+previdenciários.
+
+O senador Roberto Rocha (PSDB-MA) reconheceu o empenho dos
+presidentes do Senado e da Câmara, bem como dos líderes partidários, para a
+promulgação da Emenda. Segundo ele, além de promover justiça, a medida vai
+garantir a sustentabilidade fiscal da Previdência Social. No entanto, Rocha
+ponderou que não é apenas a reforma previdenciária que vai resolver os
+problemas do país.
+
+—É, mais ou menos, como se ela tivesse uma função de
+estancar uma sangria, com um foco um pouco mais nas despesas, pisando no freio.
+Claro que isso, por si só, não basta: é preciso um tratamento para o paciente,
+e aí, vêm outras reformas, como por exemplo, a tributária. Esta, sim, foca na
+receita; essa, sim, promove justiça social.
+
+**Mudanças**
+
+A Emenda Constitucional 103 institui novas alíquotas de
+contribuição para a Previdência, além da exigência de idade mínima para que
+homens e mulheres se aposentem. As novas regras entram em vigor imediatamente,
+exceto para alguns pontos específicos, que valerão a partir de 1º de março de
+2020. É o caso, por exemplo, das novas alíquotas de contribuição que começarão
+a ser aplicadas sobre o salário de março, que em geral é pago em abril.
+Veja [aqui](http://www12.senado.leg.br/noticias/infograficos/2019/10/a-reforma-da-previdencia-aprovada-no-senado)
+as principais mudanças.
+
+https://www.youtube.com/watch?v=zYylkTtpR9I
+
+Imagem: Geraldo Magela/Agência Senado
+
+Fonte: Agência Senado

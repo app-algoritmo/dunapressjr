@@ -1,0 +1,26 @@
+---
+title: "Com transferências e investimentos nas pontas dos dedos, bancos investem em novos data centers para acompanhar mudanças do mercado"
+date: 2023-06-05
+status: publish
+author: joicemariasc
+categories:
+  - Global Economy
+---
+
+A digitalização está mudando a forma como as instituições financeiras operam. Com papéis e filas no passado, os aplicativos se tornaram o principal caminho para clientes se relacionarem com bancos, sem precisar pisar em uma agência física. A Pesquisa de Tecnologia Bancária 2022, da Federação Brasileira de Bancos (Febraban), mostra que sete em cada dez transações bancárias são realizadas em canais digitais. Uma mudança de comportamento dos consumidores que impulsiona o segmento a investir em inovações que garantam a segurança e eficiência dos serviços. Para dar conta dessas novas demandas, o olhar deve estar voltado para o cérebro da era digital: o data center.
+
+Desenvolver um centro de processamento de dados completo, sem deixar de seguir todos os protocolos de segurança, é um obstáculo considerável frente ao dinamismo da transformação digital. Por isso, empresas de tecnologia têm apostado em serviços especializados para o desenvolvimento de projetos que demandem conhecimento de alto nível. "No setor financeiro, por exemplo, o funcionamento 24 horas por dia e sete dias por semana torna complexa a implementação de novas tecnologias. É preciso estar atento às regulamentações, o que exige um malabarismo de desenvolvimento por parte da equipe de TI", salienta Rodrigo Ricardo, executivo de negócios do Grupo LUME, que vem reunindo experiências nesse setor cada vez mais demandado. 
+
+Segundo pesquisa da International Data Corporation (IDC), são aproximadamente 2,5 quintilhões de bytes de dados gerados a cada dia. Com mais informações à disposição do que nunca, empresas de todos os segmentos seguem a passos largos para a incorporação de data centers mais modernos. E as instituições financeiras percebem a necessidade de adotar uma infraestrutura robusta para funcionamento ininterrupto de redes de servidores. "Nesse ponto, as empresas de tecnologia são importantes aliadas para que bancos e *fintechs* alcancem um crescimento escalável com alta disponibilidade, agilidade nas operações e facilidade de gestão", explica o *head* de tecnologia do Grupo LUME, Augusto Zettermann Ziomkowski.
+
+O mercado financeiro se reinventa a cada dia. Impulsionado pela chegada de novos meios de pagamento digital e do Open Finance no Brasil, o momento é de modernizar o setor e aumentar o acesso da população aos serviços financeiros. Para lidar com esse cenário, a pesquisa da Febraban mostra que as instituições financeiras têm investido em tecnologia: a estimativa é de que o orçamento dos bancos nessa área tenha chegado a R$ 35,5 bilhões em 2022, 18% a mais do que em 2021. É nesse contexto que está inserido o banco Finaxis, especializado em administração e custódia de fundos de investimento. "A evolução tecnológica se mostrou essencial para alavancarmos o crescimento, elevarmos o nível de qualidade e estarmos bem posicionados em um mercado altamente competitivo, exigente e regulado", revela o diretor de tecnologia do banco, Felipe Castro Dezotti.
+
+**Tecnologia para ir além**
+
+Como parte dos avanços em Tecnologia da Informação (TI), os bancos decidiram turbinar seus data centers. Em 2022, foi a vez do Finaxis, com uma nova estrutura para suportar o crescimento projetado para os próximos anos. O investimento traz ao banco um aumento de 60% na capacidade em sua cloud privada e mais de 30% em processamento. "A evolução da arquitetura de infraestrutura com a implementação de uma solução de cloud híbrida permite mais disponibilidade, robustez, confiabilidade e resistência, além de aumentar a tolerância às falhas e aos incidentes", conta o gerente de infraestrutura e operações de TI do Finaxis, Rubens Dzibanskei.
+
+Com o uso de servidores IBM *Power Scale Out*, IBM *Storage Storwize*, NVidia *Networking *e *Vmware vSphere*, o aparato tecnológico permite não apenas que a capacidade total de armazenamento e processamento sejam expandidos de maneira relevante, mas também o *throughput* de rede seja fortemente incrementado para dar vazão a esta nova estrutura. "Trouxemos os data centers para Curitiba, ligamos um com o outro e fizemos um ambiente de alta disponibilidade, com soluções muito reconhecidas no mercado e equipamentos de missão crítica que foram testados e desenvolvidos para empresas que não podem parar", explica Rodrigo Ricardo. 
+
+Com mais de 100 fundos de investimento e R$ 17 bilhões sob administração, o Finaxis precisa de uma base sólida. Agora, a implementação do novo data center reforça o propósito do banco de viabilizar o atendimento de seus clientes com qualidade e robustez, além de evoluir a maturidade em relação às falhas no ambiente de TI. "Além de olhar pelo retrovisor e ver tudo o que foi construído até aqui, o momento também é de buscar oportunidades e estar preparado para as tendências que estão próximas de se concretizar. E nosso atual modelo de infraestrutura nos permite aproveitar estas oportunidades e atendermos o mercado com qualidade, robustez e integridade ", completa Felipe Dezotti. 
+
+Release Central Press para Duna Press

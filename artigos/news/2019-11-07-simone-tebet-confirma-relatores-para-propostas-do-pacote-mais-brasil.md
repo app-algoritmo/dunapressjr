@@ -1,0 +1,48 @@
+---
+title: "Simone Tebet confirma relatores para propostas do pacote Mais Brasil"
+date: 2019-11-07
+status: publish
+author: joabsonjoao
+categories:
+  - News
+---
+
+*Márcio Bittar relata PEC do Pacto Federativo: "Isso significa mais recursos, hoje concentrados na União"*
+
+A presidente da Comissão de Constituição e Justiça (CCJ),
+senadora Simone Tebet (MDB-MS), confirmou nesta quinta-feira (7) o nome dos
+três senadores que foram designados para relatar as propostas do pacote Mais
+Brasil. O senador Márcio Bittar (MDB-AC) será o relator da PEC do Pacto
+Federativo ([188/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/139704));
+o senador Otto Alencar (PSD-BA), da PEC da Revisão dos Fundos ([187/2019)](https://www25.senado.leg.br/web/atividade/materias/-/materia/139703)
+e o senador Oriovisto Guimarães (Podemos-PR), da PEC Emergencial ([186/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/139702)).
+
+Bittar se manifestou a favor das propostas e disse que as
+considera essenciais para o desenvolvimento econômico do país. O pacto
+federativo, para ele, é o primeiro passo para “modernizar e fazer o Brasil
+avançar”. O texto da PEC do pacto federativo traz mudanças na divisão de
+recursos de União, estados e municípios e prevê, entre outros pontos, a
+descentralização de recursos do pré-sal, a criação de um Conselho Fiscal da
+República e medidas de desvinculação, desindexação e desobrigação do Orçamento.
+
+— Isso significa muito mais recursos, que hoje são
+concentrados na União, indo para municípios e para os estados do Brasil.
+Estima-se que cerca de R$ 400 bilhões em um período de 10 a 15 anos. O pacto
+federativo é dinheiro indo para prefeitura e estado, que são os locais onde as
+pessoas são atendidas na saúde, na educação e na segurança pública — disse
+Márcio Bittar em vídeo publicado no Twitter.
+
+A PEC da revisão dos Fundos (187/2019) cria fundos públicos
+e extingue aqueles que não foram ratificados até o final do segundo exercício
+subsequente à promulgação dessa emenda constitucional. Já a PEC Emergencial
+(186/2019) institui uma espécie de regra de ouro para os estados, com o intuito
+de proibir o endividamento público para pagar as despesas correntes, como
+salários de servidores públicos, benefícios de aposentadoria, contas de energia
+e outros custeios. Entre as medidas, está a possibilidade de redução de
+jornadas e salários de servidores públicos.
+
+Conheça o plano “Mais Brasil”:
+
+Imagem: Marcos Oliveira/Agência Senado
+
+Fonte: Agência Senado

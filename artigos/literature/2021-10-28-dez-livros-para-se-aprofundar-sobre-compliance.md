@@ -1,0 +1,59 @@
+---
+title: "Dez livros para se aprofundar sobre Compliance"
+date: 2021-10-28
+status: publish
+author: joicemariasc
+categories:
+  - Literature
+---
+
+O *compliance* está cada vez mais presente no dia a dia das empresas. O termo se fortaleceu após a promulgação da lei em 2013 e ficou conhecida como Lei Anticorrupção. Mas, na teoria, o que realmente é o* compliance*? “Estar em conformidade com as leis, com os padrões éticos, regulamentos internos e externos, são algumas das definições que podemos utilizar para definir o* compliance*”, explica a analista de compliance da Tecnobank, Thais Takagi.
+
+O *compliance *remonta à virada do século XX, junto com a criação do Banco Central dos Estados Unidos, visando ser um ambiente mais seguro e estável. Contudo, segundo Thais, no Brasil o tema ganhou força somente em 2014, com a entrada em vigor da lei anticorrupção, quase 40 anos após o combate a corrupção dos EUA ter iniciado. “É uma vitória o Brasil estar em patamares tão avançados em compliance, comparado com muitos países dito de primeiro mundo. Essa prática vem sendo cada vez mais difundida, pois o mercado não quer mais se relacionar com empresas desatentas ao *compliance*, afirma Thais. Para ajudar quem tem interesse no tema, e deseja se aprofundar sobre o *compliance*, especialistas fizeram algumas indicações de livros.
+
+- **Compliance Programs for the Prevention of Economic Crimes
+
+**Livro que Ulrich Sieber e Marc Engelhart publicaram, em 2014, com o apoio do Instituto Max Planck. Editado pela Duncker e Humboldt, de Berlim, trata-se de uma extensa pesquisa empírica com base científica feita com diversas empresas alemãs e seus gestores e colaboradores, para entender, dentre outros fatores, o que leva corporações a adotar programas de *compliance* para torná-las mais efetivas. Com 333 páginas, é a primeira publicação que não apenas analisa a existência, o conteúdo e a eficácia dos programas de *compliance* alemães, mas também aborda a eficácia de várias estratégias na prevenção do crime e no incentivo à implementação de programas de *compliance*. "O trabalho se destaca pela originalidade e traz conclusões importantíssimas, como, por exemplo, que deve ser disciplinado em lei um formato de atuação colaborativa público-privada para otimizar a prevenção de crimes econômicos", analisa o coordenador do Núcleo Criminal na Dotti Advogados, Gustavo Scandelari.
+- **A (honesta) verdade sobre a desonestidade
+**O economista comportamental Dan Ariely explora de que forma o desvio de conduta ocorre nos âmbitos pessoal, profissional e político, e como isso afeta até mesmo aqueles que todos acreditam ter os mais elevados padrões morais. O autor revela que são as forças irracionais, aquelas que não levamos em conta, que frequentemente determinam nosso comportamento – e demonstra que a desonestidade é inerente à condição humana. "O autor trata de modo leve e perspicaz como as pessoas tendem a equilibrar a verdade com a trapaça, a fim de criar uma ilusão de integridade. O livro é uma imersão na honestidade, na ética e na necessidade de termos regras claras acerca do que é fazer a coisa certa", avalia o professor do mestrado em Direito da Universidade Positivo, Fernando Mânica.
+- **Manual Prático de Compliance Antissuborno: guia de implementação da ISO 37001
+**O livro é o primeiro guia prático para auxiliar empresas e órgãos públicos a implementar ou aprimorar seu programa de *compliance* e integridade, com vistas a obter a Certificação ISO 37001 (Sistema de Gestão Antissuborno). Os autores Daniel Lança (Compliance Officer do Instituto Inhotim) e Rodolfo Viana Pereira (advogado e professor da UFMG), ambos sócios da empresa SG Compliance, abordam, passo a passo, os requisitos da norma ISO 37001, com dicas e observações oriundas de suas experiências pessoais em consultorias para obtenção da certificação. Para Rodolfo Viana, cada vez mais, os órgãos encarregados de aplicar a legislação anticorrupção e as boas práticas de mercado exigem que as organizações adotem programas robustos de *compliance* e integridade. “Nesse contexto, a obtenção da ISO 37001 torna-se primordial, sobretudo para as empresas que planejam captar investimento, que contratam com o poder público, que estão na cadeia de fornecimento de grandes empresas, que atuam em mercados regulados, que possuem capital aberto ou que pretendem ter relevância para além do âmbito local”, afirma.
+- **Fraudes corporativas e programas de compliance
+**O livro analisa as fraudes corporativas, indagando seus elementos centrais e o tratamento jurídico que recebem no sistema jurídico brasileiro. Além disso, analisa detalhadamente os programas de *compliance*, um dos mecanismos, por excelência, de prevenção à ocorrência de fraudes no âmbito corporativo, explicando os pilares que constituem o programa de *compliance*, suas funções e seus objetivos, além da influência exercida por cada elemento que o constitui para a construção de um resultado satisfatório para a organização. Segundo Francisco Monteiro Rocha Jr, professor de Direito da UFPR, o livro explica como ocorrem as fraudes no ambiente corporativo. “Ele mostra quais as motivações dos agentes, como elas são mais comuns do que se pensa, e de que forma os programas de *compliance* podem combatê-las", comenta.
+- **Manual de Compliance – Col. Compliance Mastermind Vol. 1
+**Esse livro foi elaborado por um grupo formado pelos profissionais mais experientes da área de *compliance* do mercado, para o qual trazem um olhar amplo a partir de uma abordagem real do funcionamento da área. Disponibilizam ferramentas e compartilham informações de forma simples e acessível para que todos tenham uma visão prática de como implementar um programa de *compliance*. Segundo a analista de compliance da Tecnobank, Thais Takagi, o livro traz uma estrutura organizada, baseada na metodologia usada nos cursos da LEC - Legal, Ethics & Compliance, uma instituição de ensino que se tornou uma das maiores dedicada à difusão da cultura de *compliance* no mundo. “Cada um dos nove pilares de *compliance* são apresentados em artigos específicos com abordagens fáceis. Não se trata de um livro 'de prateleira', mas, de uma obra que permite guiar o leitor na construção de um efetivo programa de* compliance*”, afirma.
+- **Governança, Riscos e Compliance: Mudando a Conduta nos Negócios
+**O livro analisa as práticas de governança corporativa, gestão de riscos e de *compliance*, com o objetivo de discutir temas que vieram à tona, como os escândalos de corrupção corporativa. Para o presidente da Comissão de Estudos sobre Compliance e Anticorrupção Empresarial da OAB Paraná, Ubirajara Costódio Filho, a obra é de leitura fundamental para profissionais e estudantes de graduação e pós-graduação das áreas financeira, contábil, fiscal, jurídica e de auditoria. “O livro apresenta metodologias para que o leitor compreenda a conduta corporativa, fundamentada na ética a partir de recursos de gestão de riscos, *compliance* e controles internos”, recomenda.
+- **Compliance: incentivo à adoção de medidas anticorrupção
+**Como estimular as empresas a colaborarem com o Estado na prevenção da corrupção? Quais os elementos que compõem um programa de *compliance* e uma política anticorrupção? Essas são algumas das perguntas que a obra procura responder. O livro também é indicação do presidente da Comissão de Estudos sobre Compliance e Anticorrupção Empresarial da OAB Paraná, Ubirajara Costódio Filho. “Essa obra é fruto da tese de doutorado defendida por Carla Veríssimo, Procuradora Regional da República e integrante da força-tarefa da Operação Lava Jato em Curitiba/PR, no Programa de Pós-Graduação em Direito da Faculdade de Direito da UFRGS, em cotutela com o Programa de Doutorado 'Estado de Derecho y Gobernanza Global' da Universidade de Salamanca, na Espanha”, conta. A tese recebeu o Premio Extraordinario de Doctorado da Universidade de Salamanca e foi indicada pela UFRGS para concorrer ao Prêmio Capes de Tese, na edição 2017.
+- **A máfia das próteses: Uma ameaça à saúde
+**O livro “A máfia das próteses: Uma ameaça à saúde”, escrito por Pedro Ramos, aborda o paradigmático episódio de corrupção no qual um grupo formado por médicos, funcionários de hospitais e representantes de uma empresa foi denunciado, em 2016, por utilizar próteses e órteses vencidas ou de baixa qualidade em cirurgias. Ofereciam propinas a médicos e profissionais da saúde no Brasil para maximizar vendas e lucros, acarretando práticas ultrajantes de operações desnecessárias e superfaturamento de valores cobrados aos planos de saúde para compra de equipamentos destinados às cirurgias, em especialidades como ortopedia, cardiologia, neurologia e odontologia. "Com o objetivo de maximizar lucros decorrentes da venda do material, faziam pagamentos aos médicos que prescreviam as próteses, a título de comissão, bonificação ou consultoria. A vantagem indevida oferecida aos profissionais era proporcional à quantidade mensal de material utilizado, variando de 20% a 40% do valor comercializado", revela o desembargador do Tribunal de Justiça do Estado do Paraná, Miguel Kfouri Neto, autor de diversas obras jurídicas sobre Direito Médico. Segundo ele, o esquema de corrupção atuou num mercado que movimenta cerca de R$ 20 bilhões por ano no Brasil. "Diante desse crítico episódio relatado no livro, são trazidas reflexões sobre a importância do papel do *compliance* no setor da saúde, a fim de criar mecanismos para que as empresas e instituições de saúde não violem regras, leis e valores do mercado no qual operam, bem como protejam e criem um ambiente corporativo mais justo, sustentável e transparente, pautado em valores condizentes ao esperado pela sociedade, que envolva toda a sua cadeia produtiva e rede de parceiros", ressalta.
+- **Integridade Governamental e Empresarial
+**O livro “Integridade Governamental e Empresarial”, de Marcelo Zenkner, é a indicação do procurador da República no Ministério Público Federal, Deltan Dallagnol. A obra traz uma análise de todo o arcabouço normativo afeto ao conceito de corrupção *lato sensu*, tanto no Brasil como em Portugal, proporcionando uma visão clara e completa dos principais problemas que gravitam em torno do tema, bem como seus efeitos diretos para a Administração Pública, assim como na seara corporativa.
+- **Compliance Bancário: Um Manual Descomplicado
+**Também recomendada pelo procurador da República no Ministério Público Federal, Deltan Dallagnol, a obra do procurador da Fazenda André Almeida Rodrigues Martinez, ex-superintendente de *compliance* do Banco Itaú e ex-procurador na Advocacia Geral da União (AGU), e do procurador da Lava Jato e especialista em *compliance* criminal, Carlos Fernando dos Santos Lima está na terceira edição. “O livro é um verdadeiro manual de *compliance*, focado na área bancária, mas também útil para outros setores, com apontamentos práticos, mas sempre com sólida base nas normas nacionais e internacionais sobre a matéria”, disse o ex-ministro da Justiça Sérgio Moro, no prefácio da obra.
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Fonte: Central Press
+
+**Ver também:**
+
+[Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
+
+[Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
+
+ [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
+
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
+
+Gratuitamente, clique e comece já!
+
+[](https://dunapress.org/edu/?ref=barrosprojectmanager)

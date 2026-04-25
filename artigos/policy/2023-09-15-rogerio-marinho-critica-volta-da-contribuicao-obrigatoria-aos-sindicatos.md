@@ -1,0 +1,22 @@
+---
+title: "Rogério Marinho critica volta da contribuição obrigatória aos sindicatos"
+date: 2023-09-15
+status: publish
+author: edicleiaalveslima
+categories:
+  - Policy
+---
+
+O senador Rogério Marinho (PL-RN) criticou, em pronunciamento na terça-feira (12), decisão do Supremo Tribunal Federal (STF) pela constitucionalidade da contribuição assistencial para os sindicatos, imposta por acordo ou convenção coletiva a trabalhadores, mesmo aqueles não sindicalizados, desde que assegurado o direito de oposição. Trata-se do retorno da cobrança obrigatória da contribuição sindical, fixada em até 1% do rendimento anual do trabalhador.
+
+— Quero falar a respeito das evidentes posições de hipertrofia de um Poder sobre o outro. Em 2017, o Congresso Nacional reformou uma legislação de mais de 70 anos, a legislação trabalhista. E quando o fez, determinou, por uma questão de justiça, de livre escrutínio e arbítrio, que o trabalhador brasileiro deveria, prévia e expressamente, de forma individual, expressar a sua vontade de aderir a remunerar um sindicato que o representasse — enfatizou.
+
+Ele destacou que até 2017 era descontado um dia de trabalho por ano e agora é até um centésimo da renda, valores até três vezes mais altos do que os registrados anteriormente. Na sua opinião, essa decisão vai "irrigar os cofres" de mais de 17 mil sindicatos no Brasil, já que existem cerca de 40 milhões de trabalhadores com carteira assinada, o que significa que mais de R$ 10 bilhões poderão ser destinados às entidades sindicais.
+
+— O que nós estamos, na prática, realizando é uma espécie de pacto da mediocridade, porque aqueles sindicatos que já trabalham, que já fazem o seu papel de mediar, de negociar, de buscar a melhoria para os seus trabalhadores, esses já são remunerados pelos seus sindicalizados e recebem a contribuição assistencial na ocasião da celebração dos acordos que são celebrados por ocasião das ações impetradas entre quem trabalha e entre quem produz — afirmou.
+
+### **Regulação**
+
+Marinho pediu ainda ao presidente do Senado, Rodrigo Pacheco, para analisar o requerimento ([RQS 790/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159860)), de sua autoria, para que três projetos de lei sobre o tema — [PL 2.099/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157065), [PL 4.218/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159584) e [PL 4.300/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159749) — sejam apensados e a Casa decida como deverá ser feito o financiamento dos sindicatos, não de forma "abusiva e coercitiva", contra o espírito da lei já aprovada pelo Parlamento.
+
+Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2023/09/13/rogerio-marinho-critica-volta-da-contribuicao-obrigatoria-aos-sindicatos)
