@@ -1554,15 +1554,34 @@
         }
 
         // ==================== NEWSLETTER ====================
-        function handleNewsletterSubmit(event) {
-            event.preventDefault();
-            const email = document.getElementById('newsletterEmail').value;
-            const subject = encodeURIComponent('Inscrição Newsletter — Duna Press');
-            const body = encodeURIComponent('Novo assinante: ' + email + '\n\nDuna Press — contato@dunapress.com');
-            window.location.href = `mailto:contato@dunapress.com?subject=${subject}&body=${body}`;
+        async function handleNewsletterSubmit(event){
+    event.preventDefault();
+    const email = document.getElementById('newsletterEmail').value.trim();
+    const btn = event.target.querySelector('button[type="submit"]');
+    const originalText = btn.textContent;
+    btn.disabled = true;
+    btn.textContent = '...';
+    try {
+        const { error } = await _supabase
+            .from('newsletter')
+            .insert([{ email: email }]);
+        if (error) {
+            if (error.code === '23505') {
+                showToast('Este e-mail já está inscrito! 📧', 'success');
+            } else {
+                throw error;
+            }
+        } else {
             showToast(translations[currentLang].toastNewsletterSuccess, 'success');
             event.target.reset();
         }
+    } catch(e) {
+        showToast('Erro ao inscrever. Tente novamente.', 'error');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = originalText;
+    }
+}
 
         // ==================== TOAST ====================
         let toastTimer;
