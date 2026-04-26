@@ -1659,7 +1659,143 @@
                 if (menu && !e.target.closest('.group')) menu.classList.add('hidden');
             });
         });
+// ==================== DYNAMIC ARTICLES ====================
+const REPO_OWNER = 'app-algoritmo';
+const REPO_NAME  = 'dunapressjr';
+const GH_API     = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`;
+const PER_PAGE   = 6;
 
+let allArticles      = [];
+let filteredArticles = [];
+let displayedCount   = 0;
+
+const CAT_MAP = {
+    'politics-and-society': { label:'Política',    badge:'badge-politics',     filter:'politics'  },
+    'global-economy':       { label:'Economia',    badge:'badge-economy',      filter:'economy'   },
+    'science':              { label:'Ciência',     badge:'badge-science',      filter:'science'   },
+    'technology':           { label:'Tecnologia',  badge:'badge-tech',         filter:'technology'},
+    'health':               { label:'Saúde',       badge:'badge-politics',     filter:'health'    },
+    'opinion':              { label:'Opinião',     badge:'badge-regulation',   filter:'opinion'   },
+    'international-relations':{ label:'Int. Relations', badge:'badge-regulation', filter:'politics'},
+    'international-politics': { label:'Int. Politics',  badge:'badge-politics',   filter:'politics'},
+    'history':              { label:'História',    badge:'badge-science',      filter:'science'   },
+    'culture-and-history':  { label:'Cultura',     badge:'badge-environment',  filter:'science'   },
+    'education':            { label:'Educação',    badge:'badge-regulation',   filter:'science'   },
+    'environment':          { label:'Ambiente',    badge:'badge-environment',  filter:'science'   },
+    'geopolitics':          { label:'Geopolítica', badge:'badge-politics',     filter:'politics'  },
+    'news':                 { label:'Notícias',    badge:'badge-politics',     filter:'politics'  },
+};
+
+function parseArticle(file, catSlug) {
+    const name  = file.name;
+    const dateM = name.match(/^(\d{4}-\d{2}-\d{2})-/);
+    const date  = dateM ? dateM[1] : '';
+    const slug  = name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace('.md','');
+    const title = slug.replace(/-/g,' ').replace(/\b\w/g, c => c.toUpperCase());
+    const cat   = CAT_MAP[catSlug] || { label: catSlug, badge:'badge-politics', filter:'politics' };
+    return { title, date, slug, category: catSlug, catLabel: cat.label, badge: cat.badge, filter: cat.filter, path: file.path };
+}
+
+function fmtDate(d) {
+    if (!d) return '';
+    const [y,m,day] = d.split('-');
+    const months = ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+    return `${parseInt(day)} ${months[parseInt(m)-1]} ${y}`;
+}
+
+function renderBatch() {
+    const grid = document.getElementById('articleGrid');
+    if (!grid) return;
+    const batch = filteredArticles.slice(displayedCount, displayedCount + PER_PAGE);
+    if (batch.length === 0 && displayedCount === 0) {
+        grid.innerHTML += `<div class="col-span-full text-center text-slate-400 py-10">Nenhum artigo encontrado.</div>`;
+        return;
+    }
+    batch.forEach(art => {
+        const card = document.createElement('article');
+        card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer';
+        card.dataset.category = art.filter;
+        card.onclick = () => window.location = `/dunapressjr/artigo.html?file=/${art.path}`;
+        card.innerHTML = `
+            <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
+                <div class="absolute top-3 md:top-4 left-3 md:left-4">
+                    <span class="${art.badge} px-2 py-1 rounded-full text-[10px] font-bold text-white">${art.catLabel}</span>
+                </div>
+                <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full">
+                    <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                    5 min
+                </div>
+            </div>
+            <div class="p-4 md:p-5">
+                <h3 class="text-base md:text-lg font-serif font-bold text-white mb-2 leading-snug hover:text-duna-200 transition-colors">${art.title}</h3>
+                <div class="flex items-center justify-between mt-3">
+                    <span class="text-xs text-slate-500">${fmtDate(art.date)}</span>
+                    <button class="text-duna-400 hover:text-duna-300 transition-colors">
+                        <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </button>
+                </div>
+            </div>`;
+        grid.appendChild(card);
+    });
+    displayedCount += batch.length;
+}
+
+async function loadArticlesFromGitHub() {
+    try {
+        const res  = await fetch(`${GH_API}/contents/artigos`);
+        if (!res.ok) throw new Error('Falha ao carregar');
+        const cats = (await res.json()).filter(i => i.type === 'dir');
+
+        const results = await Promise.all(cats.map(async cat => {
+            try {
+                const r = await fetch(cat.url);
+                if (!r.ok) return [];
+                const files = await r.json();
+                return files
+                    .filter(f => f.name.endsWith('.md'))
+                    .map(f => parseArticle(f, cat.name));
+            } catch(e) { return []; }
+        }));
+
+        // Junta todos, ordena por data DESC, remove duplicados dos 6 cards estáticos
+        const staticPaths = [
+            'artigos/politics-and-society/2026-04-14-a-corrida-pelo-artico.md',
+            'artigos/global-economy/2026-04-13-desdolarizacao-mito-ou-realidade.md',
+            'artigos/science/2026-04-12-edicao-genica-etica-aprimoramento-humano.md',
+            'artigos/politics-and-society/2026-04-11-direito-espacial-governando-fronteira-final.md',
+            'artigos/global-economy/2026-04-10-mercado-green-bonds-financas-sustentaveis.md',
+            'artigos/politics-and-society/2026-04-09-diplomacia-digital-midia-social-politica-externa.md',
+        ];
+
+        allArticles = results
+            .flat()
+            .filter(a => !staticPaths.includes(a.path))
+            .sort((a, b) => b.date.localeCompare(a.date));
+
+        filteredArticles = [...allArticles];
+        renderBatch();
+
+        // Botão "Carregar Mais"
+        const loadMoreBtn = document.querySelector('[data-i18n="loadMore"]');
+        if (loadMoreBtn && loadMoreBtn.closest('section#articles') === null) {
+            // Adicionar botão carregar mais na secção de artigos
+            const artSection = document.getElementById('articles');
+            if (artSection) {
+                const btn = document.createElement('div');
+                btn.className = 'text-center mt-6 md:mt-8';
+                btn.innerHTML = `<button onclick="loadMore()" class="px-6 md:px-8 py-2.5 md:py-3 bg-slate-800/50 border border-slate-700/50 rounded-xl text-sm font-medium text-slate-300 hover:text-white hover:border-duna-500/50 transition-all">Carregar Mais Artigos</button>`;
+                artSection.appendChild(btn);
+            }
+        }
+
+    } catch(e) {
+        console.error('Erro ao carregar artigos:', e);
+    }
+}
+
+function loadMore() {
+    renderBatch();
+}
         // ==================== SEARCH ====================
         document.getElementById('searchInput')?.addEventListener('input', function(e) {
     const q = e.target.value.toLowerCase().trim();
