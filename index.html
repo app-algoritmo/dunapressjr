@@ -1661,11 +1661,25 @@
 
         // ==================== SEARCH ====================
         document.getElementById('searchInput')?.addEventListener('input', function(e) {
-            const q=e.target.value.toLowerCase();
-            if (q.length<2) { document.querySelectorAll('#videoGrid .video-card,#articleGrid .article-card').forEach(c=>c.style.display=''); return; }
-            document.querySelectorAll('#videoGrid .video-card').forEach(c=>c.style.display=c.textContent.toLowerCase().includes(q)?'':'none');
-            document.querySelectorAll('#articleGrid .article-card').forEach(c=>c.style.display=c.textContent.toLowerCase().includes(q)?'':'none');
-        });
+    const q = e.target.value.toLowerCase().trim();
+    // Filtra vídeos (estáticos)
+    document.querySelectorAll('#videoGrid .video-card').forEach(c => {
+        c.style.display = (!q || c.textContent.toLowerCase().includes(q)) ? '' : 'none';
+    });
+    // Filtra artigos dinâmicos
+    if (!q) {
+        filteredArticles = [...allArticles];
+    } else {
+        filteredArticles = allArticles.filter(a =>
+            a.title.toLowerCase().includes(q) ||
+            a.catLabel.toLowerCase().includes(q) ||
+            a.category.toLowerCase().includes(q)
+        );
+    }
+    displayedCount = 0;
+    document.getElementById('articleGrid').innerHTML = '';
+    renderBatch();
+});
 
         // ==================== KEYBOARD ====================
         document.addEventListener('keydown', e => { if(e.key==='Escape'){closeAuthModal();closeVideoModal();} });
