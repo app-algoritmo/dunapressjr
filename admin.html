@@ -503,6 +503,11 @@ async function handleLogin(e) {
         return;
     }
 
+    const ADMINS = ['paulofernandodebarros@gmail.com'];
+if (!ADMINS.includes(data.user.email)) {
+    await _supabase.auth.signOut();
+    throw new Error('Acesso negado. Utilizador não autorizado.');
+}
     currentUser = data.user;
     showAdmin();
 }
