@@ -6,16 +6,14 @@
     <title id="pageTitle">Categoria — Duna Press</title>
     <meta name="description" id="pageDesc" content="Navegue por artigos na Duna Press">
 
-    <!-- Google Analytics GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NTPJFB7G2T"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5PT3E74WQB"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-NTPJFB7G2T');
+        gtag('config', 'G-5PT3E74WQB');
     </script>
 
-    <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-7977428997189299">
 
@@ -28,7 +26,7 @@
                     colors: {
                         duna: {
                             50:'#fdf4f3', 100:'#fce7e5', 200:'#f8d5d1', 300:'#f2b8b0',
-                            400:'#ea8e80', 500:'#e06552', 600:'#c94d3a', 700:'#a83e32', // Rust Principal
+                            400:'#ea8e80', 500:'#e06552', 600:'#c94d3a', 700:'#a83e32',
                             800:'#8b342a', 900:'#742f26', 950:'#3f1612'
                         },
                         sand: { 100:'#f5f5f0', 900:'#1a1a18' }
@@ -49,74 +47,35 @@
     <style>
         * { margin:0; padding:0; box-sizing:border-box; }
         body { font-family:'Inter',system-ui,sans-serif; background:#121212; color:#e2e8f0; overflow-x:hidden; }
-
         .duna-gradient { background:linear-gradient(135deg,#121212 0%,#1a1514 25%,#251a18 50%,#121212 100%); }
-
-        .glass {
-            background:rgba(20,20,20,0.90);
-            backdrop-filter:blur(20px);
-            -webkit-backdrop-filter:blur(20px);
-            border-bottom:1px solid rgba(168, 62, 50, 0.2);
-        }
-
+        .glass { background:rgba(20,20,20,0.90); backdrop-filter:blur(20px); -webkit-backdrop-filter:blur(20px); border-bottom:1px solid rgba(168,62,50,0.2); }
         .social-icon { transition:all 0.3s ease; }
-        .social-icon:hover { transform:scale(1.15) translateY(-2px); color: #e06552; }
-
+        .social-icon:hover { transform:scale(1.15) translateY(-2px); color:#e06552; }
         .lang-btn { transition:all 0.2s ease; }
         .lang-btn.active { background:linear-gradient(135deg,#a83e32,#8b342a); color:white; }
-
         .progress-bar { position:fixed; top:0; left:0; height:3px; background:linear-gradient(90deg,#a83e32,#e06552,#f2b8b0); z-index:9999; transition:width 0.1s; }
-
-        /* Article card */
-        .art-card {
-            background:rgba(30,30,30,0.6);
-            border:1px solid rgba(255,255,255,0.06);
-            border-radius:14px;
-            transition:all 0.3s ease;
-            cursor:pointer;
-            display:flex;
-            flex-direction:column;
-        }
-        .art-card:hover {
-            transform:translateY(-5px);
-            border-color:rgba(168, 62, 50, 0.4);
-            box-shadow:0 16px 48px rgba(168, 62, 50, 0.15);
-        }
-
-        /* Category color strip */
+        .art-card { background:rgba(30,30,30,0.6); border:1px solid rgba(255,255,255,0.06); border-radius:14px; transition:all 0.3s ease; cursor:pointer; display:flex; flex-direction:column; }
+        .art-card:hover { transform:translateY(-5px); border-color:rgba(168,62,50,0.4); box-shadow:0 16px 48px rgba(168,62,50,0.15); }
         .cat-strip { height:4px; border-radius:14px 14px 0 0; }
-
-        /* Badge */
         .badge { display:inline-block; padding:3px 10px; border-radius:999px; font-size:10px; font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:.5px; }
-        
-        /* Cores das Badges em PT-BR */
-        .badge-noticias     { background:linear-gradient(135deg,#a83e32,#8b342a); }
-        .badge-politica     { background:linear-gradient(135deg,#7f1d1d,#991b1b); }
-        .badge-economia     { background:linear-gradient(135deg,#b45309,#d97706); }
-        .badge-ciencia      { background:linear-gradient(135deg,#047857,#059669); }
-        .badge-tecnologia   { background:linear-gradient(135deg,#334155,#475569); }
-        .badge-saude        { background:linear-gradient(135deg,#be185d,#db2777); }
-        .badge-educacao     { background:linear-gradient(135deg,#4338ca,#4f46e5); }
-        .badge-default      { background:linear-gradient(135deg,#475569,#334155); }
-
-        /* Pagination */
+        .badge-politics    { background:linear-gradient(135deg,#7f1d1d,#991b1b); }
+        .badge-economy     { background:linear-gradient(135deg,#b45309,#d97706); }
+        .badge-science     { background:linear-gradient(135deg,#047857,#059669); }
+        .badge-tech        { background:linear-gradient(135deg,#334155,#475569); }
+        .badge-health      { background:linear-gradient(135deg,#be185d,#db2777); }
+        .badge-culture     { background:linear-gradient(135deg,#7c3aed,#6d28d9); }
+        .badge-geo         { background:linear-gradient(135deg,#a83e32,#8b342a); }
+        .badge-default     { background:linear-gradient(135deg,#475569,#334155); }
         .page-btn { padding:8px 14px; border-radius:8px; font-size:13px; font-weight:600; transition:all 0.2s; border:1px solid rgba(255,255,255,0.08); cursor:pointer; }
-        .page-btn:hover { background:rgba(168, 62, 50, 0.2); border-color:rgba(168, 62, 50, 0.4); color:#fff; }
+        .page-btn:hover { background:rgba(168,62,50,0.2); border-color:rgba(168,62,50,0.4); color:#fff; }
         .page-btn.active { background:linear-gradient(135deg,#c94d3a,#a83e32); border-color:transparent; color:#fff; }
         .page-btn:disabled { opacity:0.3; cursor:not-allowed; }
-
-        /* Spinner */
         .spinner { border:3px solid rgba(255,255,255,0.1); border-top:3px solid #a83e32; border-radius:50%; width:36px; height:36px; animation:spin 0.8s linear infinite; margin:60px auto; }
         @keyframes spin { 0%{transform:rotate(0deg)} 100%{transform:rotate(360deg)} }
-
-        /* Search */
         .search-input { background:rgba(30,30,30,0.7); border:1px solid rgba(255,255,255,0.08); color:#e2e8f0; }
         .search-input::placeholder { color:#64748b; }
-        .search-input:focus { outline:none; border-color:rgba(168, 62, 50, 0.5); box-shadow:0 0 0 3px rgba(168, 62, 50, 0.1); }
-
-        @media(max-width:640px) {
-            .art-grid { grid-template-columns:1fr !important; }
-        }
+        .search-input:focus { outline:none; border-color:rgba(168,62,50,0.5); box-shadow:0 0 0 3px rgba(168,62,50,0.1); }
+        @media(max-width:640px) { .art-grid { grid-template-columns:1fr !important; } }
     </style>
 </head>
 <body class="duna-gradient min-h-screen">
@@ -132,9 +91,8 @@
                 <span id="currentDate"></span>
             </div>
             <div class="flex items-center gap-2">
-                <!-- Links Sociais Originais Preservados -->
                 <a href="https://x.com/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
-                <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                <a href="https://www.youtube.com/@borealtimesPT" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
                 <a href="https://t.me/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
                 <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
             </div>
@@ -145,7 +103,7 @@
     <header class="glass sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4">
             <div class="flex items-center justify-between py-3 md:py-4">
-                <a href="/" class="flex items-center gap-3 group">
+                <a href="https://app-algoritmo.github.io/dunapressjr/" class="flex items-center gap-3 group">
                     <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-duna-600 via-duna-700 to-sand-900 flex items-center justify-center shadow-lg border border-duna-500/30">
                         <span class="text-white font-serif font-bold text-xl">D</span>
                     </div>
@@ -155,22 +113,19 @@
                     </div>
                 </a>
                 <div class="flex items-center gap-3">
-                    <!-- Search Desktop -->
                     <div class="relative hidden md:block">
                         <input type="text" id="searchInput" placeholder="Buscar artigos..." class="search-input w-52 pl-9 pr-4 py-2 rounded-xl text-sm transition-all">
                         <svg class="w-4 h-4 text-slate-500 absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
                     </div>
-                    <!-- Lang Switcher -->
                     <div class="flex items-center bg-slate-800/50 rounded-lg p-1 gap-1">
                         <button class="lang-btn active px-3 py-1.5 rounded-md text-xs font-semibold" data-lang="pt">PT</button>
                         <button class="lang-btn px-3 py-1.5 rounded-md text-xs font-semibold text-slate-400" data-lang="en">EN</button>
                     </div>
-                    <a href="/" class="px-4 py-2 bg-slate-800/50 border border-slate-700/50 rounded-lg text-xs font-medium text-slate-300 hover:text-white transition-colors">← Início</a>
+                    <a href="https://app-algoritmo.github.io/dunapressjr/" class="px-4 py-2 bg-slate-800/50 border border-slate-700/50 rounded-lg text-xs font-medium text-slate-300 hover:text-white transition-colors">← Início</a>
                 </div>
             </div>
-            <!-- Breadcrumb -->
             <nav class="flex items-center gap-2 py-2 border-t border-slate-800/50 text-xs text-slate-400">
-                <a href="/" class="hover:text-white transition-colors">Início</a>
+                <a href="https://app-algoritmo.github.io/dunapressjr/" class="hover:text-white transition-colors">Início</a>
                 <span>›</span>
                 <span id="breadcrumbCat" class="text-slate-300 capitalize">Categoria</span>
             </nav>
@@ -190,13 +145,11 @@
             </div>
         </div>
 
-        <!-- Mobile search -->
         <div class="relative md:hidden mb-4">
             <input type="text" id="searchInputMobile" placeholder="Buscar nesta categoria..." class="search-input w-full pl-9 pr-4 py-2.5 rounded-xl text-sm transition-all">
             <svg class="w-4 h-4 text-slate-500 absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
         </div>
 
-        <!-- Sort -->
         <div class="flex items-center gap-2 flex-wrap">
             <span class="text-xs text-slate-500 uppercase tracking-wider">Ordenar:</span>
             <button onclick="sortArticles('newest')" class="sort-btn page-btn active text-slate-300 text-xs" data-sort="newest">Mais recentes</button>
@@ -208,36 +161,28 @@
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 pb-16">
 
-        <!-- Ad Top -->
         <div class="mb-8 rounded-xl overflow-hidden border border-slate-700/30 bg-slate-800/20 p-3 text-center">
             <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
 
-        <!-- Loading -->
         <div id="loadingSpinner"><div class="spinner"></div></div>
-
-        <!-- Article Grid -->
         <div id="articleGrid" class="art-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 hidden"></div>
 
-        <!-- No results -->
         <div id="noResults" class="hidden text-center py-20">
             <p class="text-slate-400 text-lg">Nenhum artigo encontrado.</p>
             <button onclick="clearSearch()" class="mt-4 px-6 py-2 bg-duna-700 text-white rounded-lg text-sm hover:bg-duna-600 transition-colors">Limpar busca</button>
         </div>
 
-        <!-- Ad Mid (shown after page 1) -->
         <div id="adMid" class="my-10 rounded-xl overflow-hidden border border-slate-700/30 bg-slate-800/20 p-3 text-center hidden">
             <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
 
-        <!-- Pagination -->
         <div id="pagination" class="flex items-center justify-center gap-2 mt-10 flex-wrap hidden"></div>
 
-        <!-- Ad Bottom -->
         <div class="mt-10 rounded-xl overflow-hidden border border-slate-700/30 bg-slate-800/20 p-3 text-center">
             <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -260,10 +205,10 @@
                     </div>
                 </div>
                 <div class="flex flex-wrap justify-center gap-4 text-xs text-slate-400">
-                    <a href="/" class="hover:text-white transition-colors">Início</a>
-                    <a href="/privacy-policy" class="hover:text-white transition-colors">Privacidade</a>
-                    <a href="/terms-of-use" class="hover:text-white transition-colors">Termos</a>
-                    <a href="/cookie-notice" class="hover:text-white transition-colors">Cookies</a>
+                    <a href="https://app-algoritmo.github.io/dunapressjr/" class="hover:text-white transition-colors">Início</a>
+                    <a href="https://app-algoritmo.github.io/dunapressjr/privacy-policy.md" class="hover:text-white transition-colors">Privacidade</a>
+                    <a href="https://app-algoritmo.github.io/dunapressjr/terms-of-use.md" class="hover:text-white transition-colors">Termos</a>
+                    <a href="https://app-algoritmo.github.io/dunapressjr/cookie-notice.md" class="hover:text-white transition-colors">Cookies</a>
                     <a href="mailto:post@borealtimes.org" class="hover:text-white transition-colors">Contato</a>
                 </div>
             </div>
@@ -274,7 +219,7 @@
     </footer>
 
     <script>
-    // ── Clock & Date (PT-BR) ──────────────────────────────────────────────────
+    // ── Clock & Date ──────────────────────────────────────────────────────────
     function updateClock() {
         const t = new Date(), pad = n => String(n).padStart(2,'0');
         const el = document.getElementById('liveClock');
@@ -291,20 +236,35 @@
     });
 
     // ── Config ────────────────────────────────────────────────────────────────
+    const BASE = '/dunapressjr';
     const ARTICLES_PER_PAGE = 12;
     const REPO_OWNER = 'app-algoritmo';
-    const REPO_NAME = 'dunapressjr';
+    const REPO_NAME  = 'dunapressjr';
 
-    // Category metadata (PT-BR)
+    // Todas as categorias do repositório (slugs em inglês → label PT-BR)
     const CAT_META = {
-        'noticias':       { label:'Notícias',      desc:'Últimas notícias e atualizações globais.', color:'badge-noticias',    strip:'#a83e32' },
-        'politica':       { label:'Política',      desc:'Análise política, eleições e debates de políticas públicas.', color:'badge-politica',      strip:'#7f1d1d' },
-        'economia':       { label:'Economia',      desc:'Mercados, comércio, finanças e tendências econômicas.', color:'badge-economia',       strip:'#b45309' },
-        'ciencia':        { label:'Ciência',       desc:'Pesquisa, descobertas e avanços científicos.', color:'badge-ciencia',        strip:'#047857' },
-        'tecnologia':     { label:'Tecnologia',    desc:'Inovações, IA, tendências digitais e tecnologia emergente.', color:'badge-tecnologia',    strip:'#334155' },
-        'saude':          { label:'Saúde',         desc:'Pesquisa médica, bem-estar e saúde pública.', color:'badge-saude',         strip:'#be185d' },
-        'educacao':       { label:'Educação',      desc:'Ensino, aprendizado e desenvolvimento educacional.', color:'badge-educacao',      strip:'#4338ca' },
-        'default':        { label:'Geral',         desc:'Artigos diversos.', color:'badge-default',      strip:'#475569' },
+        'politics-and-society':    { label:'Política & Sociedade', desc:'Análise política e debates sociais.',           color:'badge-politics', strip:'#7f1d1d' },
+        'global-economy':          { label:'Economia Global',      desc:'Mercados, finanças e tendências econômicas.',   color:'badge-economy',  strip:'#b45309' },
+        'science':                 { label:'Ciência',              desc:'Pesquisa e descobertas científicas.',           color:'badge-science',  strip:'#047857' },
+        'technology':              { label:'Tecnologia',           desc:'Inovações e tendências digitais.',              color:'badge-tech',     strip:'#334155' },
+        'health':                  { label:'Saúde',                desc:'Saúde, medicina e bem-estar.',                  color:'badge-health',   strip:'#be185d' },
+        'culture-and-history':     { label:'Cultura & História',   desc:'Arte, cultura e história mundial.',             color:'badge-culture',  strip:'#7c3aed' },
+        'international-relations': { label:'Relações Internacionais', desc:'Diplomacia e geopolítica global.',          color:'badge-geo',      strip:'#a83e32' },
+        'international-politics':  { label:'Política Internacional', desc:'Cenário político mundial.',                  color:'badge-politics', strip:'#7f1d1d' },
+        'geopolitics':             { label:'Geopolítica',          desc:'Conflitos, poder e estratégia global.',         color:'badge-geo',      strip:'#a83e32' },
+        'environment':             { label:'Meio Ambiente',        desc:'Clima, ecologia e sustentabilidade.',           color:'badge-science',  strip:'#047857' },
+        'education':               { label:'Educação',             desc:'Ensino e desenvolvimento educacional.',         color:'badge-culture',  strip:'#4338ca' },
+        'opinion':                 { label:'Opinião',              desc:'Análises e editoriais.',                        color:'badge-default',  strip:'#475569' },
+        'history':                 { label:'História',             desc:'Eventos e personagens históricos.',             color:'badge-culture',  strip:'#7c3aed' },
+        'philosophy':              { label:'Filosofia',            desc:'Pensamento e filosofia.',                       color:'badge-default',  strip:'#475569' },
+        'religiosity':             { label:'Religiosidade',        desc:'Religião, espiritualidade e fé.',              color:'badge-default',  strip:'#475569' },
+        'news':                    { label:'Notícias',             desc:'Últimas notícias e atualizações.',             color:'badge-politics', strip:'#a83e32' },
+        'headlines':               { label:'Manchetes',            desc:'As principais manchetes do dia.',              color:'badge-politics', strip:'#a83e32' },
+        'chronicle':               { label:'Crônica',              desc:'Crônicas e narrativas.',                       color:'badge-default',  strip:'#475569' },
+        'magazine':                { label:'Revista',              desc:'Reportagens especiais.',                       color:'badge-culture',  strip:'#7c3aed' },
+        'books':                   { label:'Livros',               desc:'Resenhas e literatura.',                       color:'badge-culture',  strip:'#7c3aed' },
+        'video-library':           { label:'Vídeos',               desc:'Biblioteca de vídeos.',                        color:'badge-tech',     strip:'#334155' },
+        'default':                 { label:'Geral',                desc:'Artigos diversos.',                            color:'badge-default',  strip:'#475569' },
     };
 
     // ── State ─────────────────────────────────────────────────────────────────
@@ -318,47 +278,42 @@
     // ── Get category from URL ─────────────────────────────────────────────────
     function getCategoryFromURL() {
         const params = new URLSearchParams(window.location.search);
-        if (params.get('cat')) return params.get('cat');
-        // Infer from pathname: /artigos/CATEGORY/
-        const parts = window.location.pathname.split('/').filter(Boolean);
-        if (parts[0] === 'artigos' && parts[1]) return parts[1];
-        return 'noticias';
+        return params.get('cat') || 'news';
     }
 
-    // ── Fetch article list for category ──────────────────────────────────────
+    // ── Fetch article list via search-index.json ──────────────────────────────
     async function fetchArticleList(cat) {
-        // GitHub API to list files in the category folder - UPDATED REPO
-        const apiURL = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos/${cat}`;
         try {
-            const res = await fetch(apiURL);
-            if (!res.ok) return [];
-            const files = await res.json();
-            return files.filter(f => f.name.endsWith('.md')).map(f => ({
-                filename: f.name,
-                path: f.path,
-                downloadUrl: f.download_url
-            }));
-        } catch(e) { return []; }
-    }
-
-    // ── Load article metadata (title, date from filename) ────────────────────
-    function parseFilename(filename) {
-        // Format: YYYY-MM-DD-slug.md OR just slug.md
-        const match = filename.match(/^(\d{4}-\d{2}-\d{2})-(.+)\.md$/);
-        if (!match) return { date:'', slug: filename.replace('.md',''), title: filename.replace('.md','').replace(/-/g,' ') };
-        const date = match[1];
-        const slug = match[2];
-        const title = slug.replace(/-/g,' ').replace(/\b\w/g, c => c.toUpperCase());
-        return { date, slug, title };
+            const res = await fetch(BASE + '/search-index.json');
+            if (!res.ok) throw new Error('index not found');
+            const all = await res.json();
+            return all.filter(a => a.category === cat);
+        } catch(e) {
+            // Fallback: GitHub API
+            try {
+                const apiURL = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos/${cat}`;
+                const r = await fetch(apiURL);
+                if (!r.ok) return [];
+                const files = await r.json();
+                return files.filter(f => f.name.endsWith('.md')).map(f => {
+                    const m = f.name.match(/^(\d{4}-\d{2}-\d{2})-(.+)\.md$/);
+                    const date  = m ? m[1] : '';
+                    const slug  = m ? m[2] : f.name.replace('.md','');
+                    const title = slug.replace(/-/g,' ').replace(/\b\w/g, c => c.toUpperCase());
+                    return { title, date, path: f.path, category: cat };
+                });
+            } catch(e2) { return []; }
+        }
     }
 
     // ── Render article card ───────────────────────────────────────────────────
-    function renderCard(article, cat) {
-        const meta = CAT_META[cat] || CAT_META['default'];
-        const articleUrl = `/artigo.html?file=/artigos/${cat}/${article.filename}`;
-        const title = article.metaTitle || article.title;
-        // Formata data para PT-BR se existir
-        const date  = article.date ? new Date(article.date + 'T00:00:00').toLocaleDateString('pt-BR',{year:'numeric',month:'short',day:'numeric'}) : '';
+    function renderCard(article) {
+        const meta = CAT_META[article.category] || CAT_META['default'];
+        const articleUrl = BASE + '/artigo.html?file=/' + article.path;
+        const title = article.title || '';
+        const date  = article.date
+            ? new Date(article.date + 'T00:00:00').toLocaleDateString('pt-BR',{year:'numeric',month:'short',day:'numeric'})
+            : '';
 
         return `
         <div class="art-card" onclick="window.location='${articleUrl}'">
@@ -391,11 +346,10 @@
         } else {
             document.getElementById('noResults').classList.add('hidden');
             grid.classList.remove('hidden');
-            grid.innerHTML = pageArticles.map(a => renderCard(a, categorySlug)).join('');
+            grid.innerHTML = pageArticles.map(a => renderCard(a)).join('');
         }
 
         renderPagination();
-        // Show mid ad after first page
         document.getElementById('adMid').classList.toggle('hidden', page === 1);
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
@@ -408,7 +362,6 @@
         pag.classList.remove('hidden');
 
         let html = `<button class="page-btn text-slate-300" onclick="renderPage(${currentPage-1})" ${currentPage===1?'disabled':''}>← Anterior</button>`;
-
         for (let i = 1; i <= total; i++) {
             if (total > 7 && i > 2 && i < total-1 && Math.abs(i-currentPage) > 1) {
                 if (i === 3 || i === total-2) html += `<span class="text-slate-600 px-2">…</span>`;
@@ -416,7 +369,6 @@
             }
             html += `<button class="page-btn text-slate-300 ${i===currentPage?'active':''}" onclick="renderPage(${i})">${i}</button>`;
         }
-
         html += `<button class="page-btn text-slate-300" onclick="renderPage(${currentPage+1})" ${currentPage===total?'disabled':''}>Próxima →</button>`;
         pag.innerHTML = html;
     }
@@ -431,16 +383,16 @@
         applyFilters();
     }
 
-    // ── Search ────────────────────────────────────────────────────────────────
+    // ── Filter + Search ───────────────────────────────────────────────────────
     function applyFilters() {
         filtered = allArticles.filter(a => {
             if (!searchQuery) return true;
-            return (a.metaTitle||a.title).toLowerCase().includes(searchQuery.toLowerCase());
+            return a.title.toLowerCase().includes(searchQuery.toLowerCase());
         });
 
         if (currentSort === 'newest') filtered.sort((a,b) => b.date.localeCompare(a.date));
         else if (currentSort === 'oldest') filtered.sort((a,b) => a.date.localeCompare(b.date));
-        else filtered.sort((a,b) => (a.metaTitle||a.title).localeCompare(b.metaTitle||b.title));
+        else filtered.sort((a,b) => a.title.localeCompare(b.title));
 
         document.getElementById('articleCount').textContent = filtered.length;
         renderPage(1);
@@ -457,35 +409,31 @@
     // ── Init ──────────────────────────────────────────────────────────────────
     async function init() {
         categorySlug = getCategoryFromURL();
-        const meta = CAT_META[categorySlug] || { label: categorySlug.replace(/-/g,' '), desc:'', color:'badge-default', strip:'#475569' };
+        const meta = CAT_META[categorySlug] || {
+            label: categorySlug.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()),
+            desc: '', color: 'badge-default', strip: '#475569'
+        };
 
-        // Set UI
-        document.getElementById('pageTitle').textContent    = meta.label + ' — Duna Press';
-        document.getElementById('pageDesc').content         = meta.desc;
-        document.getElementById('catTitle').textContent     = meta.label;
-        document.getElementById('catDesc').textContent      = meta.desc;
-        document.getElementById('breadcrumbCat').textContent= meta.label;
+        document.getElementById('pageTitle').textContent     = meta.label + ' — Duna Press';
+        document.getElementById('pageDesc').content          = meta.desc;
+        document.getElementById('catTitle').textContent      = meta.label;
+        document.getElementById('catDesc').textContent       = meta.desc;
+        document.getElementById('breadcrumbCat').textContent = meta.label;
         const badge = document.getElementById('catBadge');
         badge.textContent = meta.label;
         badge.className   = 'badge ' + meta.color + ' mb-3 inline-block text-sm px-4 py-1.5';
 
-        // Fetch file list
         const files = await fetchArticleList(categorySlug);
 
         if (files.length === 0) {
-            document.getElementById('loadingSpinner').innerHTML = '<p class="text-center text-slate-400 py-20">Nenhum artigo encontrado nesta categoria ainda.</p>';
+            document.getElementById('loadingSpinner').innerHTML =
+                '<p class="text-center text-slate-400 py-20">Nenhum artigo encontrado nesta categoria ainda.</p>';
             return;
         }
 
-        // Build article list from filenames
-        allArticles = files.map(f => {
-            const parsed = parseFilename(f.filename);
-            return { ...f, ...parsed, metaTitle: parsed.title };
-        });
-
+        allArticles = files;
         document.getElementById('loadingSpinner').classList.add('hidden');
         document.getElementById('articleCount').textContent = allArticles.length;
-
         applyFilters();
     }
 
@@ -493,7 +441,6 @@
     ['searchInput','searchInputMobile'].forEach(id => {
         document.getElementById(id)?.addEventListener('input', function() {
             searchQuery = this.value;
-            // Sync both inputs
             document.getElementById('searchInput') && (document.getElementById('searchInput').value = this.value);
             document.getElementById('searchInputMobile') && (document.getElementById('searchInputMobile').value = this.value);
             applyFilters();
@@ -505,7 +452,6 @@
         btn.addEventListener('click', function() {
             document.querySelectorAll('.lang-btn').forEach(b=>{ b.classList.remove('active'); b.classList.add('text-slate-400'); });
             this.classList.add('active'); this.classList.remove('text-slate-400');
-            if (this.dataset.lang !== 'pt') alert('Tradução em breve!');
         });
     });
 
