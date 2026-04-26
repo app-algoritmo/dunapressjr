@@ -5,11 +5,17 @@ on:
       - 'artigos/**'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate search index
         run: |
           python3 << 'EOF'
@@ -19,7 +25,7 @@ jobs:
               for f in sorted(files, reverse=True):
                   if f.endswith('.md'):
                       path = os.path.join(root, f).replace('\\','/')
-                      cat = root.replace('artigos/','')
+                      cat = root.replace('artigos/','').replace('artigos','')
                       slug = f.replace('.md','')
                       date = slug[:10] if len(slug) > 10 else ''
                       title = slug[11:].replace('-',' ').title() if len(slug) > 10 else slug
@@ -28,10 +34,11 @@ jobs:
               json.dump(articles, out, ensure_ascii=False)
           print(f"Indexados: {len(articles)} artigos")
           EOF
+
       - name: Commit index
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add search-index.json
           git diff --staged --quiet || git commit -m "Atualiza índice de busca"
           git push
