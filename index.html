@@ -1783,82 +1783,78 @@
         function loadMoreArticles() { renderBatch(); }
 
         
-        // ==================== SEARCH ====================
-        // ==================== SEARCH ====================
-let searchIndex = null;
+        
+// ==================== SEARCH ====================
+        let searchIndex = null;
 
-async function loadSearchIndex() {
-    if (searchIndex) return searchIndex;
-    try {
-        const res = await fetch('/dunapressjr/search-index.json');
-        searchIndex = await res.json();
-    } catch(e) { searchIndex = []; }
-    return searchIndex;
-}
+        async function loadSearchIndex() {
+            if (searchIndex) return searchIndex;
+            try {
+                const res = await fetch('/dunapressjr/search-index.json');
+                searchIndex = await res.json();
+            } catch(e) { searchIndex = []; }
+            return searchIndex;
+        }
 
-document.getElementById('searchInput')?.addEventListener('input', async function(e) {
-    const q = e.target.value.toLowerCase().trim();
+        document.getElementById('searchInput')?.addEventListener('input', async function(e) {
+            const q = e.target.value.toLowerCase().trim();
 
-    // Filtra vídeos
-    document.querySelectorAll('#videoGrid .video-card').forEach(c => {
-        c.style.display = (!q || c.textContent.toLowerCase().includes(q)) ? '' : 'none';
-    });
+            document.querySelectorAll('#videoGrid .video-card').forEach(c => {
+                c.style.display = (!q || c.textContent.toLowerCase().includes(q)) ? '' : 'none';
+            });
 
-    if (!q) {
-        // Restaura artigos originais
-        document.querySelectorAll('#articleGrid .article-card').forEach(c => c.style.display = '');
-        filteredArticles = [...allArticles];
-        return;
-    }
+            const grid = document.getElementById('articleGrid');
 
-    // Busca no índice completo
-    const index = await loadSearchIndex();
-    const results = index.filter(a =>
-        a.title.toLowerCase().includes(q) ||
-        a.category.toLowerCase().includes(q)
-    );
+            if (!q) {
+                grid.innerHTML = '';
+                displayedCount = 0;
+                filteredArticles = [...allArticles];
+                renderBatch();
+                return;
+            }
 
-    // Mostra resultados no grid
-    const grid = document.getElementById('articleGrid');
-    grid.innerHTML = '';
-    displayedCount = 0;
+            const index = await loadSearchIndex();
+            const results = index.filter(a =>
+                a.title.toLowerCase().includes(q) ||
+                a.category.toLowerCase().includes(q)
+            );
 
-    if (!results.length) {
-        grid.innerHTML = `<div class="col-span-full text-center text-slate-400 py-10">Nenhum artigo encontrado para "<strong>${q}</strong>"</div>`;
-        return;
-    }
+            grid.innerHTML = '';
 
-    const CAT_MAP_LOCAL = CAT_MAP;
-    results.slice(0, 18).forEach(art => {
-        const catInfo = CAT_MAP_LOCAL[art.category] || { label: art.category, badge:'badge-politics', filter:'politics' };
-        const card = document.createElement('article');
-        card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer';
-        card.dataset.category = catInfo.filter;
-        card.onclick = () => window.location = `/dunapressjr/artigo.html?file=/${art.path}`;
-        card.innerHTML = `
-            <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
-                <div class="absolute top-3 left-3">
-                    <span class="${catInfo.badge} px-2 py-1 rounded-full text-[10px] font-bold text-white">${catInfo.label}</span>
-                </div>
-            </div>
-            <div class="p-4 md:p-5">
-                <h3 class="text-base md:text-lg font-serif font-bold text-white mb-2 leading-snug hover:text-duna-200 transition-colors">${art.title}</h3>
-                <div class="flex items-center justify-between mt-3">
-                    <span class="text-xs text-slate-500">${art.date || ''}</span>
-                    <button class="text-duna-400 hover:text-duna-300 transition-colors">
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
-                    </button>
-                </div>
-            </div>`;
-        grid.appendChild(card);
-    });
+            if (!results.length) {
+                grid.innerHTML = `<div class="col-span-full text-center text-slate-400 py-10">Nenhum artigo encontrado para "<strong>${q}</strong>"</div>`;
+                return;
+            }
 
-    // Mostra contagem
-    const info = document.createElement('div');
-    info.className = 'col-span-full text-center text-xs text-slate-500 py-2';
-    info.textContent = `${results.length} artigos encontrados para "${q}"`;
-    grid.appendChild(info);
-});
+            results.slice(0, 18).forEach(art => {
+                const catInfo = CAT_MAP[art.category] || { label: art.category, badge:'badge-politics', filter:'politics' };
+                const card = document.createElement('article');
+                card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer';
+                card.dataset.category = catInfo.filter;
+                card.onclick = () => window.location = `/dunapressjr/artigo.html?file=/${art.path}`;
+                card.innerHTML = `
+                    <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
+                        <div class="absolute top-3 left-3">
+                            <span class="${catInfo.badge} px-2 py-1 rounded-full text-[10px] font-bold text-white">${catInfo.label}</span>
+                        </div>
+                    </div>
+                    <div class="p-4 md:p-5">
+                        <h3 class="text-base md:text-lg font-serif font-bold text-white mb-2 leading-snug hover:text-duna-200 transition-colors">${art.title}</h3>
+                        <div class="flex items-center justify-between mt-3">
+                            <span class="text-xs text-slate-500">${art.date || ''}</span>
+                            <button class="text-duna-400 hover:text-duna-300 transition-colors">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                            </button>
+                        </div>
+                    </div>`;
+                grid.appendChild(card);
+            });
+
+            const info = document.createElement('div');
+            info.className = 'col-span-full text-center text-xs text-slate-500 py-2';
+            info.textContent = `${results.length} artigos encontrados para "${q}"`;
+            grid.appendChild(info);
+        });
 
 
         // ==================== KEYBOARD ====================
