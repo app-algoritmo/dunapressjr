@@ -503,7 +503,10 @@ async function handleLogin(e) {
         return;
     }
 
-    const ADMINS = ['paulofernandodebarros@gmail.com'];
+    const ADMINS = [
+    'paulofernandodebarros@gmail.com',
+    'nataliabellan@gmail.com'
+];
 if (!ADMINS.includes(data.user.email)) {
     await _supabase.auth.signOut();
     throw new Error('Acesso negado. Utilizador não autorizado.');
