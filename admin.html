@@ -602,6 +602,23 @@ function fmt(type) {
 }
 
 // ── SLUG & STATUS ──────────────────────────────────────────────────────────
+function toggleSlugEdit() {
+    const input = document.getElementById('artSlug');
+    const isReadonly = input.hasAttribute('readonly');
+    if (isReadonly) {
+        input.removeAttribute('readonly');
+        input.style.background = 'var(--bg3)';
+        input.style.cursor = 'text';
+        input.style.opacity = '1';
+        input.focus();
+    } else {
+        input.setAttribute('readonly', true);
+        input.style.background = 'var(--bg4)';
+        input.style.cursor = 'default';
+        input.style.opacity = '.7';
+    }
+}
+                    
 function slugify(text) {
     return text.toLowerCase().trim()
         .replace(/[áàãâä]/g, 'a').replace(/[éèêë]/g, 'e')
