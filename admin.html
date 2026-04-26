@@ -398,10 +398,12 @@
                         <input type="text" id="artAuthor" placeholder="Nome do autor">
                     </div>
                     <div class="sidebar-field">
-                        <label>Slug (URL)</label>
-                        <input type="text" id="artSlug" placeholder="meu-artigo">
-                        <div class="slug-preview" id="slugPreview">artigos/news/2026-04-26-meu-artigo.md</div>
-                    </div>
+    <label>Slug (URL)
+        <button onclick="toggleSlugEdit()" title="Editar slug" style="background:none;border:none;cursor:pointer;color:var(--text-dim);margin-left:6px;font-size:13px;">✏️</button>
+    </label>
+    <input type="text" id="artSlug" placeholder="meu-artigo" readonly style="background:var(--bg4);cursor:default;opacity:.7;" oninput="updateSlugPreview()">
+    <div class="slug-preview" id="slugPreview">artigos/news/2026-04-26-meu-artigo.md</div>
+</div>
                 </div>
 
                 <!-- GitHub config -->
