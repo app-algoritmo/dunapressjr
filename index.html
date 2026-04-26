@@ -1783,126 +1783,141 @@
         function loadMoreArticles() { renderBatch(); }
 
         
-      // ==================== SEARCH OTIMIZADO (GLOBAL + PAGINAÇÃO) ====================
-let searchResults = [];
-let displayedSearchCount = 0;
-const SEARCH_PER_PAGE = 10; // Carrega 10 resultados por vez
+     // ==================== SEARCH OTIMIZADO (GLOBAL + VÍDEOS + GITHUB API) ====================
+let searchTimeout;
+let isSearching = false;
 
-// Função principal de busca
-async function performGlobalSearch(query) {
+// Mapeamento de categorias para filtros internos
+const SEARCH_CATEGORIES = [
+    'politics-and-society', 'global-economy', 'science', 
+    'technology', 'health', 'opinion', 'international-relations'
+];
+
+async function performSmartSearch(query) {
+    const q = query.toLowerCase().trim();
     const grid = document.getElementById('articleGrid');
     const videoGrid = document.getElementById('videoGrid');
     
-    if (!query || query.trim() === '') {
-        // Se vazio, restaura visão normal
+    // Limpa estados anteriores
+    clearTimeout(searchTimeout);
+    
+    if (!q) {
         resetView();
         return;
     }
 
-    const q = query.toLowerCase().trim();
-    
-    // 1. Filtrar Vídeos (Client-side, rápido)
-    let videoMatches = 0;
-    document.querySelectorAll('#videoGrid .video-card').forEach(card => {
-        const text = card.textContent.toLowerCase();
-        if (text.includes(q)) {
-            card.style.display = '';
-            videoMatches++;
-        } else {
-            card.style.display = 'none';
-        }
-    });
-
-    // 2. Filtrar Artigos Estáticos (Client-side, rápido)
-    // Os artigos estáticos já estão no DOM se foram carregados inicialmente
-    // Mas como usamos loadArticlesFromGitHub, vamos focar na busca dinâmica
-    
-    // Limpa grid de artigos para mostrar resultados da busca
-    grid.innerHTML = '<div class="col-span-full flex justify-center items-center py-10"><div class="spinner"></div><span class="ml-3 text-slate-400">Buscando em todo o acervo...</span></div>';
-    
-    try {
-        // 3. Buscar nos Arquivos do GitHub (Metadados)
-        // Vamos buscar a lista de arquivos das categorias principais
-        const categories = ['politics-and-society', 'global-economy', 'science', 'technology', 'health', 'opinion'];
-        let allMatches = [];
-
-        // Busca paralela nas pastas
-        const promises = categories.map(async (cat) => {
-            try {
-                // Usa a API do GitHub para listar conteúdos da pasta
-                const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos/${cat}`);
-                if (!res.ok) return [];
-                const files = await res.json();
-                
-                // Filtra apenas .md e verifica se o título (nome do arquivo) bate com a busca
-                return files.filter(f => f.name.endsWith('.md')).map(f => {
-                    // Extrai data e slug do nome do arquivo: YYYY-MM-DD-slug.md
-                    const match = f.name.match(/^(\d{4}-\d{2}-\d{2})-(.+)\.md$/);
-                    if (!match) return null;
-                    
-                    const date = match[1];
-                    const slug = match[2].replace(/-/g, ' '); // Transforma "meu-titulo" em "meu titulo"
-                    
-                    // Verifica se o slug ou a categoria contém o termo
-                    if (slug.toLowerCase().includes(q) || cat.replace(/-/g, ' ').includes(q)) {
-                        const catInfo = CAT_MAP[cat] || { label: cat, badge: 'badge-politics', filter: 'politics' };
-                        return {
-                            title: slug.charAt(0).toUpperCase() + slug.slice(1), // Capitaliza primeira letra
-                            date: date,
-                            path: f.path,
-                            category: cat,
-                            catLabel: catInfo.label,
-                            badge: catInfo.badge,
-                            filter: catInfo.filter,
-                            type: 'github'
-                        };
-                    }
-                    return null;
-                }).filter(item => item !== null);
-            } catch (e) {
-                console.warn(`Erro ao buscar categoria ${cat}:`, e);
-                return [];
+    // Debounce: espera 500ms após o usuário parar de digitar
+    searchTimeout = setTimeout(async () => {
+        isSearching = true;
+        
+        // 1. Filtrar Vídeos Instantaneamente (Client-side)
+        let visibleVideos = 0;
+        document.querySelectorAll('#videoGrid .video-card').forEach(card => {
+            const text = card.textContent.toLowerCase();
+            if (text.includes(q)) {
+                card.style.display = '';
+                visibleVideos++;
+            } else {
+                card.style.display = 'none';
             }
         });
 
-        const resultsArrays = await Promise.all(promises);
-        allMatches = resultsArrays.flat().sort((a, b) => b.date.localeCompare(a.date)); // Ordena por data (mais recente primeiro)
+        // 2. Preparar Grid de Artigos para Busca
+        grid.innerHTML = `<div class="col-span-full flex justify-center items-center py-10">
+            <div class="spinner"></div>
+            <span class="ml-3 text-slate-400 text-sm">Buscando em todo o acervo...</span>
+        </div>`;
 
-        searchResults = allMatches;
-        displayedSearchCount = 0;
-        
-        // Renderiza os primeiros resultados
-        renderSearchResultsBatch();
+        try {
+            // 3. Buscar Metadados no GitHub (Leve e Rápido)
+            // Em vez de baixar 4MB, baixamos apenas listas de arquivos das pastas
+            const allMatches = [];
+            
+            // Promessas paralelas para cada categoria
+            const promises = SEARCH_CATEGORIES.map(async (cat) => {
+                try {
+                    // Lista arquivos da pasta
+                    const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos/${cat}`);
+                    if (!res.ok) return [];
+                    const files = await res.json();
+                    
+                    // Filtra apenas .md e verifica se o NOME DO ARQUIVO (slug) contém o termo
+                    return files.filter(f => f.name.endsWith('.md')).map(f => {
+                        // Extrai data e slug: YYYY-MM-DD-slug.md
+                        const match = f.name.match(/^(\d{4}-\d{2}-\d{2})-(.+)\.md$/);
+                        if (!match) return null;
+                        
+                        const date = match[1];
+                        const slug = match[2].replace(/-/g, ' '); // "meu-titulo" -> "meu titulo"
+                        
+                        // Critério de busca: Slug OU Categoria
+                        if (slug.toLowerCase().includes(q) || cat.replace(/-/g, ' ').includes(q)) {
+                            const catInfo = CAT_MAP[cat] || { label: cat, badge: 'badge-politics', filter: 'politics' };
+                            return {
+                                title: slug.charAt(0).toUpperCase() + slug.slice(1),
+                                date: date,
+                                path: f.path,
+                                category: cat,
+                                catLabel: catInfo.label,
+                                badge: catInfo.badge,
+                                filter: catInfo.filter,
+                                type: 'github'
+                            };
+                        }
+                        return null;
+                    }).filter(item => item !== null);
+                } catch (e) {
+                    console.warn(`Erro ao buscar categoria ${cat}:`, e);
+                    return [];
+                }
+            });
 
-    } catch (error) {
-        console.error("Erro na busca global:", error);
-        grid.innerHTML = `<div class="col-span-full text-center text-red-400 py-10">Erro ao realizar busca. Tente novamente.</div>`;
-    }
+            // Aguarda todas as categorias
+            const resultsArrays = await Promise.all(promises);
+            let matches = resultsArrays.flat();
+            
+            // Ordena por data (mais recente primeiro)
+            matches.sort((a, b) => b.date.localeCompare(a.date));
+
+            // Renderiza Resultados
+            renderSearchResults(matches, q);
+
+        } catch (error) {
+            console.error("Erro na busca global:", error);
+            grid.innerHTML = `<div class="col-span-full text-center text-red-400 py-10">
+                Erro de conexão ao buscar artigos. Tente novamente.
+            </div>`;
+        } finally {
+            isSearching = false;
+        }
+    }, 500);
 }
 
-function renderSearchResultsBatch() {
+function renderSearchResults(results, query) {
     const grid = document.getElementById('articleGrid');
-    
-    // Remove mensagem de loading se existir
-    const loader = grid.querySelector('.spinner')?.parentElement;
-    if (loader) loader.remove();
+    grid.innerHTML = ''; // Limpa loading
 
-    const batch = searchResults.slice(displayedSearchCount, displayedSearchCount + SEARCH_PER_PAGE);
-    
-    if (batch.length === 0 && displayedSearchCount === 0) {
-        grid.innerHTML = `<div class="col-span-full text-center text-slate-400 py-10">Nenhum resultado encontrado para "<strong>${document.getElementById('searchInput').value}</strong>"</div>`;
-        // Remove botão de carregar mais se houver
+    if (results.length === 0) {
+        grid.innerHTML = `<div class="col-span-full text-center text-slate-400 py-10">
+            Nenhum resultado encontrado para "<strong>${query}</strong>"<br>
+            <span class="text-xs mt-2 block">Tente termos como "Noruega", "Quantum", "China"</span>
+        </div>`;
+        // Remove botão de carregar mais se existir
         const btn = document.getElementById('loadMoreSearchBtn');
         if (btn) btn.remove();
         return;
     }
 
-    batch.forEach(art => {
+    // Mostra os primeiros 10 resultados
+    const initialBatch = results.slice(0, 10);
+    
+    initialBatch.forEach(art => {
         const card = document.createElement('article');
         card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer animate-fade-in';
         card.dataset.category = art.filter;
-        // Link para o artigo
         card.onclick = () => window.location = `/dunapressjr/artigo.html?file=/${art.path}`;
+        
+        // Destaque do termo buscado no título (opcional, simples CSS bold não funciona bem aqui sem regex complexo, mantemos limpo)
         
         card.innerHTML = `
             <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
@@ -1926,19 +1941,25 @@ function renderSearchResultsBatch() {
         grid.appendChild(card);
     });
 
-    displayedSearchCount += batch.length;
-
-    // Gerencia botão "Carregar Mais"
+    // Gerencia botão "Carregar Mais" se houver mais de 10 resultados
     let btnContainer = document.getElementById('loadMoreSearchBtn');
-    if (displayedSearchCount < searchResults.length) {
+    if (results.length > 10) {
         if (!btnContainer) {
             btnContainer = document.createElement('div');
             btnContainer.id = 'loadMoreSearchBtn';
             btnContainer.className = 'col-span-full text-center mt-6';
-            btnContainer.innerHTML = `<button onclick="loadMoreSearchResults()" class="px-6 md:px-8 py-2.5 md:py-3 bg-duna-600 hover:bg-duna-500 text-white rounded-xl text-sm font-medium transition-all shadow-lg shadow-duna-600/20">Carregar Mais Resultados (${searchResults.length - displayedSearchCount} restantes)</button>`;
-            grid.parentNode.insertBefore(btnContainer, grid.nextSibling); // Insere após o grid
+            // Armazena todos os resultados no dataset do botão para usar depois
+            btnContainer.dataset.results = JSON.stringify(results);
+            btnContainer.dataset.displayed = "10";
+            
+            btnContainer.innerHTML = `<button onclick="loadMoreSearchResults()" class="px-6 md:px-8 py-2.5 md:py-3 bg-duna-600 hover:bg-duna-500 text-white rounded-xl text-sm font-medium transition-all shadow-lg shadow-duna-600/20">
+                Carregar Mais Resultados (${results.length - 10} restantes)
+            </button>`;
+            grid.parentNode.insertBefore(btnContainer, grid.nextSibling);
         } else {
-            btnContainer.querySelector('button').textContent = `Carregar Mais Resultados (${searchResults.length - displayedSearchCount} restantes)`;
+            btnContainer.dataset.results = JSON.stringify(results);
+            btnContainer.dataset.displayed = "10";
+            btnContainer.querySelector('button').textContent = `Carregar Mais Resultados (${results.length - 10} restantes)`;
             btnContainer.style.display = 'block';
         }
     } else {
@@ -1947,25 +1968,70 @@ function renderSearchResultsBatch() {
 }
 
 function loadMoreSearchResults() {
-    renderSearchResultsBatch();
+    const btnContainer = document.getElementById('loadMoreSearchBtn');
+    if (!btnContainer) return;
+    
+    const allResults = JSON.parse(btnContainer.dataset.results);
+    let displayed = parseInt(btnContainer.dataset.displayed);
+    const nextBatch = allResults.slice(displayed, displayed + 10);
+    
+    const grid = document.getElementById('articleGrid');
+    
+    nextBatch.forEach(art => {
+        const card = document.createElement('article');
+        card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer animate-fade-in';
+        card.dataset.category = art.filter;
+        card.onclick = () => window.location = `/dunapressjr/artigo.html?file=/${art.path}`;
+        card.innerHTML = `
+            <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
+                <div class="absolute top-3 md:top-4 left-3 md:left-4">
+                    <span class="${art.badge} px-2 py-1 rounded-full text-[10px] font-bold text-white">${art.catLabel}</span>
+                </div>
+                <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full">
+                    <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                    Leitura
+                </div>
+            </div>
+            <div class="p-4 md:p-5">
+                <h3 class="text-base md:text-lg font-serif font-bold text-white mb-2 leading-snug hover:text-duna-200 transition-colors">${art.title}</h3>
+                <div class="flex items-center justify-between mt-3">
+                    <span class="text-xs text-slate-500">${fmtDate(art.date)}</span>
+                    <button class="text-duna-400 hover:text-duna-300 transition-colors">
+                        <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </button>
+                </div>
+            </div>`;
+        grid.appendChild(card);
+    });
+    
+    displayed += nextBatch.length;
+    btnContainer.dataset.displayed = displayed;
+    
+    // Atualiza texto do botão ou esconde se acabou
+    const remaining = allResults.length - displayed;
+    if (remaining > 0) {
+        btnContainer.querySelector('button').textContent = `Carregar Mais Resultados (${remaining} restantes)`;
+    } else {
+        btnContainer.style.display = 'none';
+    }
 }
 
 function resetView() {
     // Restaura vídeos
     document.querySelectorAll('#videoGrid .video-card').forEach(c => c.style.display = '');
     
-    // Restaura artigos
+    // Restaura artigos normais
     const grid = document.getElementById('articleGrid');
     grid.innerHTML = '';
     displayedCount = 0;
-    filteredArticles = [...allArticles]; // Usa a lista já carregada
-    renderBatch(); // Função original de renderização de artigos
+    filteredArticles = [...allArticles]; // Usa a lista já carregada dinamicamente
+    renderBatch(); // Função original de renderização
     
-    // Remove botão de carregar mais da busca se existir
+    // Remove botão de carregar mais da busca
     const btn = document.getElementById('loadMoreSearchBtn');
     if (btn) btn.remove();
     
-    // Restaura botão de carregar mais normal se necessário
+    // Restaura botão normal de carregar mais artigos se necessário
     const sec = document.getElementById('articles');
     if (sec && allArticles.length > PER_PAGE && !document.getElementById('loadMoreArticlesBtn')) {
          const btnNormal = document.createElement('div');
@@ -1979,15 +2045,10 @@ function resetView() {
 // Event Listener para o Input de Busca
 const searchInput = document.getElementById('searchInput');
 if (searchInput) {
-    let debounceTimer;
     searchInput.addEventListener('input', (e) => {
-        clearTimeout(debounceTimer);
-        // Espera 500ms após o usuário parar de digitar para fazer a busca (evita muitas chamadas à API)
-        debounceTimer = setTimeout(() => {
-            performGlobalSearch(e.target.value);
-        }, 500);
+        performSmartSearch(e.target.value);
     });
-}  
+}
 
     
 
