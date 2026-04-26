@@ -663,8 +663,16 @@ function saveToken() {
     showToast('Token salvo! ✓', 'success');
 }
 
-function getToken() {
-    return localStorage.getItem('gh_token') || document.getElementById('ghToken').value.trim();
+let GH_TOKEN_CACHED = null;
+async function getToken() {
+    if (GH_TOKEN_CACHED) return GH_TOKEN_CACHED;
+    const { data } = await _supabase
+        .from('config')
+        .select('value')
+        .eq('key', 'gh_token')
+        .single();
+    GH_TOKEN_CACHED = data?.value || '';
+    return GH_TOKEN_CACHED;
 }
 
 // ── PUBLISH TO GITHUB ──────────────────────────────────────────────────────
