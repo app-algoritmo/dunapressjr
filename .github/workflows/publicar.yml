@@ -1,20 +1,20 @@
 name: Duna Press — Publicacao Automatica IA
 on:
   schedule:
-    - cron: '0 9 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 15 * * *'
-    - cron: '0 18 * * *'
-    - cron: '0 21 * * *'
-    - cron: '0 0 * * *'
+    - cron: '0 9 * * *'    # 06:00 BRT
+    - cron: '0 12 * * *'   # 09:00 BRT
+    - cron: '0 15 * * *'   # 12:00 BRT
+    - cron: '0 18 * * *'   # 15:00 BRT
+    - cron: '0 21 * * *'   # 18:00 BRT
+    - cron: '0 0 * * *'    # 21:00 BRT
   workflow_dispatch:
     inputs:
       modo:
-        description: 'agendado | todos | gastos'
+        description: 'todos | gastos'
         required: true
-        default: 'agendado'
+        default: 'todos'
         type: choice
-        options: [agendado, todos, gastos]
+        options: [todos, gastos]
 jobs:
   publicar:
     runs-on: ubuntu-latest
@@ -27,12 +27,21 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install anthropic requests
-      - run: python auto_publicar.py ${{ github.event.inputs.modo || 'agendado' }}
+      - name: Publicar artigo da hora
+        run: |
+          HORA=$(date -u +%H)
+          if [ "$HORA" = "09" ]; then CAT="tecnologia"
+          elif [ "$HORA" = "12" ]; then CAT="economia"
+          elif [ "$HORA" = "15" ]; then CAT="ciencia"
+          elif [ "$HORA" = "18" ]; then CAT="geopolitica"
+          elif [ "$HORA" = "21" ]; then CAT="saude"
+          elif [ "$HORA" = "00" ]; then CAT="ambiente"
+          else CAT="${{ github.event.inputs.modo || 'todos' }}"
+          fi
+          python auto_publicar.py $CAT
         env:
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
           GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
-          SUPABASE_URL:  ${{ secrets.SUPABASE_URL }}
-          SUPABASE_KEY:  ${{ secrets.SUPABASE_KEY }}
       - run: |
           git config user.name "Duna Press Bot"
           git config user.email "bot@dunapress.org"
