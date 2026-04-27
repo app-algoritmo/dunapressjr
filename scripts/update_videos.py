@@ -169,7 +169,7 @@ def patch_index(new_video_data_js: str) -> bool:
     return True
 
 def main():
-    if CHANNEL_ID == "UCiXYKVWDEwjULv6QpPj2dZA":
+    if not CHANNEL_ID:
         print("ERROR: Please set your YouTube CHANNEL_ID in scripts/update_videos.py")
         print("Get it at: youtube.com/@borealtimesPT → View Page Source → search 'channel/'")
         sys.exit(1)
