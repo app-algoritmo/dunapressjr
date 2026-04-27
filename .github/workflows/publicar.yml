@@ -1,12 +1,12 @@
 name: Duna Press — Publicacao Automatica IA
 on:
   schedule:
-    - cron: '0 9 * * *'    # 06:00 BRT
-    - cron: '0 12 * * *'   # 09:00 BRT
-    - cron: '0 15 * * *'   # 12:00 BRT
-    - cron: '0 18 * * *'   # 15:00 BRT
-    - cron: '0 21 * * *'   # 18:00 BRT
-    - cron: '0 0 * * *'    # 21:00 BRT
+    - cron: '0 9 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 15 * * *'
+    - cron: '0 18 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       modo:
@@ -23,28 +23,33 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - run: pip install anthropic requests
-      - name: Publicar artigo da hora
+      - name: Publicar artigo
         run: |
           HORA=$(date -u +%H)
-          if [ "$HORA" = "09" ]; then CAT="tecnologia"
-          elif [ "$HORA" = "12" ]; then CAT="economia"
-          elif [ "$HORA" = "15" ]; then CAT="ciencia"
-          elif [ "$HORA" = "18" ]; then CAT="geopolitica"
-          elif [ "$HORA" = "21" ]; then CAT="saude"
-          elif [ "$HORA" = "00" ]; then CAT="ambiente"
-          else CAT="${{ github.event.inputs.modo || 'todos' }}"
+          MODO="${{ github.event.inputs.modo }}"
+          if [ -n "$MODO" ]; then
+            python auto_publicar.py $MODO
+          elif [ "$HORA" = "09" ]; then python auto_publicar.py tecnologia
+          elif [ "$HORA" = "12" ]; then python auto_publicar.py economia
+          elif [ "$HORA" = "15" ]; then python auto_publicar.py ciencia
+          elif [ "$HORA" = "18" ]; then python auto_publicar.py geopolitica
+          elif [ "$HORA" = "21" ]; then python auto_publicar.py saude
+          elif [ "$HORA" = "00" ]; then python auto_publicar.py ambiente
+          else echo "Hora $HORA sem categoria definida"
           fi
-          python auto_publicar.py $CAT
         env:
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
           GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
-      - run: |
+      - name: Commit e push
+        run: |
           git config user.name "Duna Press Bot"
           git config user.email "bot@dunapress.org"
+          git pull origin main --rebase
           git add artigos/ || true
           git diff --staged --quiet || git commit -m "auto: $(date +'%Y-%m-%d %H:%M')"
-          git push
+          git push origin HEAD:main
