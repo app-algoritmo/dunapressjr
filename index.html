@@ -479,7 +479,7 @@
         <section id="home" class="mb-10 md:mb-12 animate-fade-in">
             <div class="grid grid-cols-1 lg:grid-cols-12 gap-4 md:gap-6">
                 <!-- Featured Video -->
-                <div class="relative group cursor-pointer" onclick="openVideoModal('featured')" style="background-image:url('https://img.youtube.com/vi/gVVgKYhgRis/maxresdefault.jpg');background-size:cover;background-position:center;">
+                <div class="lg:col-span-8 relative group cursor-pointer" onclick="openVideoModal('featured')">
                     <div class="relative aspect-video rounded-xl md:rounded-2xl overflow-hidden bg-slate-800">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-10"></div>
                         <div class="absolute inset-0 bg-gradient-to-br from-duna-900 to-duna-800 flex items-center justify-center">
@@ -504,7 +504,7 @@
 
                 <!-- Side Articles -->
                 <div class="lg:col-span-4 flex flex-col gap-3 md:gap-4 side-articles-mobile lg:side-articles-mobile-reset">
-                    <div class="relative group cursor-pointer" onclick="openVideoModal('side1')" style="background-image:url('https://img.youtube.com/vi/AJCCiYb7hy0/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side1')">
                         <div class="absolute inset-0 bg-gradient-to-br from-duna-900/40 to-duna-800/40"></div>
                         <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                             <div><span class="badge-economy px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Economia</span>
@@ -516,7 +516,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="relative group cursor-pointer" onclick="openVideoModal('side2')" style="background-image:url('https://img.youtube.com/vi/dh0F67soz28/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side2')">
                         <div class="absolute inset-0 bg-gradient-to-br from-duna-700/40 to-duna-900/40"></div>
                         <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                             <div><span class="badge-politics px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Geopolítica</span>
@@ -528,7 +528,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="relative group cursor-pointer" onclick="openVideoModal('side3')" style="background-image:url('https://img.youtube.com/vi/ROrvV0zIVHo/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side3')">
                         <div class="absolute inset-0 bg-gradient-to-br from-duna-600/40 to-duna-900/40"></div>
                         <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                             <div><span class="badge-tech px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Tecnologia</span>
@@ -571,7 +571,7 @@
             <div id="videoGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
                 <!-- Video Card v1: Eletricidade invisível -->
                 <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="technology">
-                    <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('v1')" style="background-image:url('https://img.youtube.com/vi/IL15ZTpfcX8/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="relative aspect-video bg-gradient-to-br from-duna-900/30 to-duna-800/30 cursor-pointer group" onclick="openVideoModal('v1')">
                         <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all"><svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
                         <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">14:10</span>
                     </div>
@@ -583,7 +583,7 @@
                 </div>
                 <!-- Video Card v2: China vende computador quântico -->
                 <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="science">
-                    <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('v2')" style="background-image:url('https://img.youtube.com/vi/G370HuKxwUM/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="relative aspect-video bg-gradient-to-br from-duna-800/30 to-duna-900/30 cursor-pointer group" onclick="openVideoModal('v2')">
                         <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all"><svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
                         <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">19:45</span>
                     </div>
@@ -595,7 +595,7 @@
                 </div>
                 <!-- Video Card v3: Elon Musk enganar a morte -->
                 <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="technology">
-                    <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('v3')" style="background-image:url('https://img.youtube.com/vi/fJN1kk-LS_8/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="relative aspect-video bg-gradient-to-br from-duna-700/30 to-duna-800/30 cursor-pointer group" onclick="openVideoModal('v3')">
                         <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all"><svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
                         <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">16:30</span>
                     </div>
@@ -607,7 +607,7 @@
                 </div>
                 <!-- Video Card v4: Teoria da Informação Integrada -->
                 <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="science">
-                    <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('v4')" style="background-image:url('https://img.youtube.com/vi/a5enrBhFi-A/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="relative aspect-video bg-gradient-to-br from-duna-900/30 to-duna-800/30 cursor-pointer group" onclick="openVideoModal('v4')">
                         <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all"><svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
                         <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">15:10</span>
                     </div>
@@ -619,7 +619,7 @@
                 </div>
                 <!-- Video Card v5: Esgotamento Digital -->
                 <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="health">
-                    <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('v5')" style="background-image:url('https://img.youtube.com/vi/YZZmkRCXxmc/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="relative aspect-video bg-gradient-to-br from-duna-800/30 to-duna-900/30 cursor-pointer group" onclick="openVideoModal('v5')">
                         <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all"><svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
                         <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">13:50</span>
                     </div>
@@ -631,7 +631,7 @@
                 </div>
                 <!-- Video Card v6: Matéria Programável -->
                 <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="technology">
-                    <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('v6')" style="background-image:url('https://img.youtube.com/vi/nhnz26PUMh0/maxresdefault.jpg');background-size:cover;background-position:center;">
+                    <div class="relative aspect-video bg-gradient-to-br from-duna-700/30 to-duna-900/30 cursor-pointer group" onclick="openVideoModal('v6')">
                         <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all"><svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
                         <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">17:20</span>
                     </div>
