@@ -1784,45 +1784,40 @@
         function loadMoreArticles() { renderBatch(); }
 
         
-   // ==================== SEARCH ROBUSTO (ÍNDICE + FALLBACK GITHUB) ====================
+// ==================== SEARCH CORRIGIDO PARA DUNAPRESS.ORG ====================
 let searchIndex = null;
 let isSearchLoading = false;
 
-// Tenta carregar o índice JSON gerado pelo seu workflow
 async function loadSearchIndex() {
     if (searchIndex) return searchIndex;
-    if (isSearchLoading) return await new Promise(r => setTimeout(r, 500)); // Espera se já estiver carregando
+    if (isSearchLoading) return await new Promise(r => setTimeout(r, 500));
     
     isSearchLoading = true;
     try {
-        // Caminho absoluto relativo à raiz do domínio GitHub Pages
-        // Se seu site for dunapress.org/, o arquivo deve estar em /dunapressjr/search-index.json
-        const res = await fetch('/dunapressjr/search-index.json');
+        // CORREÇÃO 1: Caminho correto para a raiz do domínio dunapress.org
+        const res = await fetch('/search-index.json');
         if (!res.ok) throw new Error('JSON não encontrado');
         searchIndex = await res.json();
-        console.log(`Índice de busca carregado: ${searchIndex.length} artigos.`);
+        console.log(`Índice carregado: ${searchIndex.length} artigos.`);
     } catch (e) {
-        console.warn("Não foi possível carregar search-index.json. Usando fallback da API GitHub.", e);
-        searchIndex = []; // Marca como vazio para usar o fallback
+        console.warn("Erro ao carregar índice. Usando fallback.", e);
+        searchIndex = []; 
     } finally {
         isSearchLoading = false;
     }
     return searchIndex;
 }
 
-// Função principal de busca com Debounce
 let searchTimeout;
 document.getElementById('searchInput')?.addEventListener('input', function(e) {
     const q = e.target.value.toLowerCase().trim();
     clearTimeout(searchTimeout);
     
-    // Se vazio, reseta a view
     if (!q) {
         resetView();
         return;
     }
 
-    // Debounce de 500ms
     searchTimeout = setTimeout(async () => {
         performSmartSearch(q);
     }, 500);
@@ -1832,48 +1827,40 @@ async function performSmartSearch(query) {
     const grid = document.getElementById('articleGrid');
     const videoGrid = document.getElementById('videoGrid');
     
-    // 1. Filtra Vídeos Instantaneamente (Client-side)
-    let visibleVideos = 0;
-    document.querySelectorAll('#videoGrid .video-card').forEach(card => {
-        const text = card.textContent.toLowerCase();
-        if (text.includes(query)) {
-            card.style.display = '';
-            visibleVideos++;
-        } else {
-            card.style.display = 'none';
-        }
-    });
+    // Filtra Vídeos Instantaneamente
+    if (videoGrid) {
+        document.querySelectorAll('#videoGrid .video-card').forEach(card => {
+            const text = card.textContent.toLowerCase();
+            card.style.display = text.includes(query) ? '' : 'none';
+        });
+    }
 
-    // 2. Prepara Grid de Artigos
-    grid.innerHTML = `<div class="col-span-full flex justify-center items-center py-10">
-        <div class="spinner"></div>
-        <span class="ml-3 text-slate-400 text-sm">Buscando...</span>
-    </div>`;
+    // Loading State
+    if (grid) {
+        grid.innerHTML = `<div class="col-span-full flex justify-center items-center py-10">
+            <div class="spinner"></div>
+            <span class="ml-3 text-slate-400 text-sm">Buscando...</span>
+        </div>`;
+    }
 
-    // 3. Tenta usar o Índice JSON (Mais rápido e busca no conteúdo)
     let results = [];
     const index = await loadSearchIndex();
     
     if (index && index.length > 0) {
-        // Busca no Título E no Conteúdo (se disponível no JSON)
+        // Busca no Título e Categoria
         results = index.filter(art => {
             const titleMatch = art.title.toLowerCase().includes(query);
-            const contentMatch = art.content ? art.content.toLowerCase().includes(query) : false;
             const catMatch = art.category.toLowerCase().includes(query);
-            return titleMatch || contentMatch || catMatch;
+            // Se quiser buscar no conteúdo, descomente a linha abaixo (se o JSON tiver campo 'content')
+            // const contentMatch = art.content && art.content.toLowerCase().includes(query);
+            return titleMatch || catMatch;
         });
         
-        // Ordena por relevância (título primeiro) e data
-        results.sort((a, b) => {
-            const aTitle = a.title.toLowerCase().includes(query);
-            const bTitle = b.title.toLowerCase().includes(query);
-            if (aTitle && !bTitle) return -1;
-            if (!aTitle && bTitle) return 1;
-            return b.date.localeCompare(a.date); // Mais recente primeiro
-        });
+        // Ordena por data (mais recente primeiro)
+        results.sort((a, b) => b.date.localeCompare(a.date));
 
     } else {
-        // FALLBACK: Se o JSON falhou, busca apenas títulos via API do GitHub (mais lento, mas funcional)
+        // Fallback: Busca via API do GitHub se o JSON falhar
         console.log("Usando fallback da API GitHub...");
         results = await searchViaGitHubAPI(query);
     }
@@ -1881,14 +1868,12 @@ async function performSmartSearch(query) {
     renderSearchResults(results, query);
 }
 
-// Fallback: Busca títulos via API do GitHub (se o JSON não estiver disponível)
 async function searchViaGitHubAPI(query) {
     const categories = ['politics-and-society', 'global-economy', 'science', 'technology', 'health', 'opinion'];
     let allMatches = [];
 
     const promises = categories.map(async (cat) => {
         try {
-            // Limita a 100 itens por pasta para não estourar a API
             const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos/${cat}?per_page=100`);
             if (!res.ok) return [];
             const files = await res.json();
@@ -1900,7 +1885,6 @@ async function searchViaGitHubAPI(query) {
                 const date = match[1];
                 const slug = match[2].replace(/-/g, ' ');
                 
-                // Busca APENAS no título (slug) pois não temos o conteúdo
                 if (slug.toLowerCase().includes(query) || cat.replace(/-/g, ' ').includes(query)) {
                     const catInfo = CAT_MAP[cat] || { label: cat, badge: 'badge-politics', filter: 'politics' };
                     return {
@@ -1916,9 +1900,7 @@ async function searchViaGitHubAPI(query) {
                 }
                 return null;
             }).filter(item => item !== null);
-        } catch (e) {
-            return [];
-        }
+        } catch (e) { return []; }
     });
 
     const resultsArrays = await Promise.all(promises);
@@ -1927,12 +1909,14 @@ async function searchViaGitHubAPI(query) {
 
 function renderSearchResults(results, query) {
     const grid = document.getElementById('articleGrid');
+    if (!grid) return;
+    
     grid.innerHTML = '';
 
     if (results.length === 0) {
         grid.innerHTML = `<div class="col-span-full text-center text-slate-400 py-10">
             Nenhum resultado encontrado para "<strong>${query}</strong>"<br>
-            <span class="text-xs mt-2 block opacity-70">Tente termos curtos como "Jesus", "Brasil", "Quantum"</span>
+            <span class="text-xs mt-2 block opacity-70">Tente termos curtos como "Noruega", "China", "Quantum"</span>
         </div>`;
         removeLoadMoreBtn();
         return;
@@ -1942,7 +1926,6 @@ function renderSearchResults(results, query) {
     const initialBatch = results.slice(0, 10);
     initialBatch.forEach(art => createArticleCard(art, grid));
 
-    // Gerencia botão "Carregar Mais"
     manageLoadMoreButton(results, 10);
 }
 
@@ -1950,7 +1933,9 @@ function createArticleCard(art, container) {
     const card = document.createElement('article');
     card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer animate-fade-in';
     card.dataset.category = art.filter;
-    card.onclick = () => window.location = `/dunapressj/artigo.html?file=/${art.path}`;
+    
+    // CORREÇÃO 2: Link correto para o domínio próprio (sem /dunapressjr/)
+    card.onclick = () => window.location = `/artigo.html?file=/${art.path}`;
     
     card.innerHTML = `
         <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
@@ -2035,10 +2020,12 @@ function resetView() {
     
     // Restaura artigos normais
     const grid = document.getElementById('articleGrid');
-    grid.innerHTML = '';
-    displayedCount = 0;
-    filteredArticles = [...allArticles];
-    renderBatch();
+    if (grid) {
+        grid.innerHTML = '';
+        displayedCount = 0;
+        filteredArticles = [...allArticles];
+        renderBatch();
+    }
     
     removeLoadMoreBtn();
     
@@ -2052,7 +2039,6 @@ function resetView() {
          sec.appendChild(btnNormal);
     }
 }
-
     
 
 
