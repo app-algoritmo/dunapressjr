@@ -3,286 +3,592 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Duna Press | Jornal e Revista - Assuntos Globais</title>
-    <meta name="description" content="Duna Press: Análise independente de notícias globais, política, economia, ciência e tecnologia.">
-    
-    <!-- Google Analytics & AdSense (IDs mantidos conforme original) -->
+    <title id="pageTitle">Artigo — Duna Press</title>
+    <meta name="description" id="pageDesc" content="Leia análises independentes na Duna Press">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-NTPJFB7G2T"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-NTPJFB7G2T');
-    </script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-NTPJFB7G2T');</script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
-
     <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        duna: {
-                            50:'#fdf4f3', 100:'#fce7e5', 200:'#f8d5d1', 300:'#f2b8b0',
-                            400:'#ea8e80', 500:'#e06552', 600:'#c94d3a', 700:'#a83e32', // Rust Principal
-                            800:'#8b342a', 900:'#742f26', 950:'#3f1612'
-                        },
-                        sand: { 100:'#f5f5f0', 900:'#1a1a18' }
-                    },
-                    fontFamily: {
-                        serif: ['Playfair Display','Georgia','serif'],
-                        sans:  ['Inter','system-ui','sans-serif'],
-                    }
-                }
-            }
-        }
-    </script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700;800&display=swap" rel="stylesheet">
-
+    <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
     <style>
-        body { background-color: #121212; color: #e2e8f0; font-family: 'Inter', sans-serif; }
-        .duna-gradient { background: linear-gradient(135deg, #121212 0%, #1a1514 100%); }
-        .glass-header { background: rgba(20, 20, 20, 0.95); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(168, 62, 50, 0.2); }
-        .card-hover:hover { transform: translateY(-4px); box-shadow: 0 10px 30px rgba(168, 62, 50, 0.15); transition: all 0.3s ease; }
-        
-        /* Badges das Categorias */
-        .badge { padding: 4px 10px; border-radius: 999px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: white; display: inline-block; margin-bottom: 8px; }
-        .badge-noticias { background: #a83e32; }
-        .badge-politica { background: #7f1d1d; }
-        .badge-economia { background: #b45309; }
-        .badge-ciencia { background: #047857; }
-        .badge-tecnologia { background: #334155; }
-        .badge-saude { background: #be185d; }
-        .badge-educacao { background: #4338ca; }
-        .badge-default { background: #475569; }
-
-        /* Social Icons Hover */
-        .social-icon { transition: all 0.3s ease; }
-        .social-icon:hover { transform: scale(1.15) translateY(-2px); color: #e06552; }
+        *{margin:0;padding:0;box-sizing:border-box;}
+        body{font-family:'Inter',sans-serif;background:#121212;color:#e2e8f0;overflow-x:hidden;}
+        .duna-bg{background:linear-gradient(135deg,#121212 0%,#1a1514 50%,#121212 100%);}
+        .glass{background:rgba(18,18,18,0.95);backdrop-filter:blur(20px);border-bottom:1px solid rgba(168,62,50,0.2);}
+        .progress-bar{position:fixed;top:0;left:0;height:3px;background:linear-gradient(90deg,#a83e32,#e06552);z-index:9999;transition:width 0.1s;}
+        .social-icon{transition:all 0.3s ease;}
+        .social-icon:hover{transform:scale(1.15) translateY(-2px);color:#e06552;}
+        .badge{display:inline-block;padding:4px 14px;border-radius:999px;font-size:11px;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:.6px;}
+        .badge-noticias,.badge-news{background:linear-gradient(135deg,#a83e32,#8b342a);}
+        .badge-politica,.badge-politics,.badge-policy{background:linear-gradient(135deg,#7f1d1d,#991b1b);}
+        .badge-economia,.badge-economy{background:linear-gradient(135deg,#b45309,#d97706);}
+        .badge-ciencia,.badge-science{background:linear-gradient(135deg,#047857,#059669);}
+        .badge-tecnologia,.badge-technology,.badge-tech{background:linear-gradient(135deg,#334155,#475569);}
+        .badge-saude,.badge-health{background:linear-gradient(135deg,#be185d,#db2777);}
+        .badge-educacao,.badge-education{background:linear-gradient(135deg,#4338ca,#4f46e5);}
+        .badge-opinion,.badge-opiniao{background:linear-gradient(135deg,#7c3aed,#5b21b6);}
+        .badge-history,.badge-historia{background:linear-gradient(135deg,#854d0e,#713f12);}
+        .badge-culture,.badge-cultura{background:linear-gradient(135deg,#0e7490,#155e75);}
+        .badge-default{background:linear-gradient(135deg,#475569,#334155);}
+        .article-body{font-size:1.1rem;line-height:1.9;color:#cbd5e1;}
+        .article-body h1,.article-body h2,.article-body h3,.article-body h4{font-family:'Playfair Display',serif;color:#f1f5f9;margin:2.5rem 0 1rem;font-weight:700;line-height:1.3;}
+        .article-body h2{font-size:1.6rem;border-bottom:1px solid rgba(168,62,50,0.3);padding-bottom:.6rem;}
+        .article-body h3{font-size:1.3rem;}
+        .article-body p{margin-bottom:1.6rem;}
+        .article-body strong,.article-body b{color:#f1f5f9;font-weight:600;}
+        .article-body a{color:#ea8e80;text-decoration:underline;text-underline-offset:3px;}
+        .article-body ul,.article-body ol{margin:1rem 0 1.5rem 1.5rem;}
+        .article-body li{margin-bottom:.5rem;}
+        .article-body blockquote{border-left:4px solid #a83e32;padding:1rem 1.5rem;background:rgba(168,62,50,0.08);border-radius:0 8px 8px 0;margin:1.5rem 0;color:#94a3b8;font-style:italic;}
+        .article-body img{max-width:100%;border-radius:12px;margin:1.5rem auto;display:block;}
+        .article-body hr{border:none;border-top:1px solid rgba(255,255,255,0.08);margin:2rem 0;}
+        .spinner{border:3px solid rgba(255,255,255,0.1);border-top:3px solid #a83e32;border-radius:50%;width:40px;height:40px;animation:spin .8s linear infinite;margin:80px auto;}
+        @keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+        .share-btn{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:8px;font-size:13px;font-weight:600;transition:all .2s;cursor:pointer;border:none;}
+        .share-btn:hover{transform:translateY(-2px);}
+        /* Sidebar */
+        .sidebar-card{background:rgba(25,25,25,0.8);border:1px solid rgba(255,255,255,0.06);border-radius:14px;padding:20px;margin-bottom:20px;}
+        .sidebar-card h4{font-family:'Playfair Display',serif;font-size:1rem;font-weight:700;color:#f1f5f9;margin-bottom:14px;padding-bottom:10px;border-bottom:2px solid rgba(168,62,50,0.4);}
+        .related-item{display:flex;flex-direction:column;gap:4px;padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.05);cursor:pointer;transition:all .2s;}
+        .related-item:last-child{border-bottom:none;padding-bottom:0;}
+        .related-item:hover .related-title{color:#ea8e80;}
+        .related-title{font-size:.875rem;font-weight:600;color:#e2e8f0;line-height:1.4;transition:color .2s;}
+        .related-date{font-size:.75rem;color:#64748b;}
+        .cat-pill{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:8px;background:rgba(30,30,30,0.8);border:1px solid rgba(255,255,255,0.06);font-size:.8rem;color:#cbd5e1;cursor:pointer;transition:all .2s;text-decoration:none;}
+        .cat-pill:hover{border-color:rgba(168,62,50,0.5);background:rgba(168,62,50,0.1);color:#fff;}
+        .cat-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+        /* Sticky sidebar */
+        @media(min-width:1024px){
+            .sidebar-sticky{position:sticky;top:80px;}
+        }
     </style>
 </head>
-<body class="duna-gradient min-h-screen flex flex-col">
+<body class="duna-bg min-h-screen">
+<div id="progressBar" class="progress-bar" style="width:0%"></div>
 
-    <!-- Top Bar com Redes Sociais (Links Originais Preservados) -->
-    <div class="bg-duna-950 border-b border-slate-800/50">
-        <div class="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between text-xs text-slate-400">
-            <div class="flex items-center gap-4">
-                <span id="liveClock" class="font-mono tabular-nums text-slate-300"></span>
-                <span class="text-slate-700">|</span>
-                <span id="currentDate"></span>
-            </div>
-            <div class="flex items-center gap-2">
-                <!-- Links Originais do Grupo -->
-                <a href="https://x.com/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
-                <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
-                <a href="https://t.me/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
-                <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
-            </div>
+<!-- Top Bar -->
+<div class="bg-black border-b border-slate-800/50">
+    <div class="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between text-xs text-slate-400">
+        <div class="flex items-center gap-3">
+            <span id="liveClock" class="font-mono text-slate-300"></span>
+            <span class="text-slate-700">|</span>
+            <span id="currentDate" class="hidden sm:inline"></span>
+        </div>
+        <div class="flex items-center gap-2">
+            <a href="https://x.com/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+            <a href="https://www.linkedin.com/showcase/theborealtimes/" target="_blank" class="social-icon text-slate-400 hover:text-white hidden sm:block"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+            <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+            <a href="https://t.me/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+            <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
         </div>
     </div>
+</div>
 
-    <!-- Header Principal -->
-    <header class="glass-header sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-            <a href="/" class="flex items-center gap-3 group">
-                <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-duna-600 to-duna-900 flex items-center justify-center shadow-lg border border-duna-500/30 group-hover:scale-105 transition">
-                    <span class="text-white font-serif font-bold text-xl">D</span>
-                </div>
-                <div>
-                    <h1 class="text-xl font-serif font-bold text-white tracking-tight">Duna Press</h1>
-                    <p class="text-[10px] text-duna-300 uppercase tracking-widest">Jornal e Revista</p>
-                </div>
+<!-- Header -->
+<header class="glass sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+        <!-- Logo -->
+        <a href="/" class="flex items-center gap-3">
+            <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-duna-600 to-duna-800 flex items-center justify-center">
+                <span class="text-white font-serif font-bold text-xl">D</span>
+            </div>
+            <div>
+                <h1 class="text-lg font-serif font-bold text-white">Duna Press</h1>
+                <p class="text-[10px] text-duna-300 uppercase tracking-widest">Jornal e Revista</p>
+            </div>
+        </a>
+
+        <!-- Botões de Navegação -->
+        <div class="flex items-center gap-2">
+            <a href="/" class="px-3 py-2 bg-slate-800/50 border border-slate-700/50 rounded-lg text-xs font-medium text-slate-300 hover:text-white transition-colors">
+                ← Início
             </a>
-            
-            <!-- Menu Desktop -->
-            <nav class="hidden md:flex items-center gap-6 text-sm font-medium text-slate-300">
-                <a href="/artigos/noticias/" class="hover:text-duna-400 transition">Notícias</a>
-                <a href="/artigos/politica/" class="hover:text-duna-400 transition">Política</a>
-                <a href="/artigos/economia/" class="hover:text-duna-400 transition">Economia</a>
-                <a href="/artigos/ciencia/" class="hover:text-duna-400 transition">Ciência</a>
-                <a href="/artigos/tecnologia/" class="hover:text-duna-400 transition">Tecnologia</a>
-            </nav>
-
-            <!-- Botão Mobile -->
-            <button class="md:hidden text-white p-2 hover:bg-slate-800 rounded-lg transition" onclick="alert('Menu mobile em desenvolvimento')">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
-            </button>
+            <!-- Este link será atualizado dinamicamente pelo JS, mas o href inicial deve ser correto -->
+            <a id="catLink" href="/categoria.html" class="px-3 py-2 bg-duna-900/50 border border-duna-700/50 rounded-lg text-xs font-medium text-duna-200 hover:text-white transition-colors hidden">
+                ← Categoria
+            </a>
         </div>
-    </header>
+    </div>
+    
+    <!-- Breadcrumb (Opcional, mas bom para SEO) -->
+    <div class="max-w-7xl mx-auto px-4 py-1.5 border-t border-slate-800/50 text-xs text-slate-500 flex items-center gap-2">
+        <a href="/" class="hover:text-white">Início</a>
+        <span>›</span>
+        <a id="breadcrumbCat" href="#" class="hover:text-white capitalize">Categoria</a>
+        <span>›</span>
+        <span id="breadcrumbTitle" class="text-slate-300 truncate max-w-xs">Título do Artigo</span>
+    </div>
+</header>
 
-    <!-- Conteúdo Principal -->
-    <main class="flex-grow max-w-7xl mx-auto px-4 py-8 w-full">
-        
-        <!-- Banner Publicitário Topo -->
-        <div class="mb-8 rounded-xl overflow-hidden border border-slate-700/30 bg-slate-800/20 p-3 text-center">
-            <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </div>
+<!-- Main Layout: Article + Sidebar -->
+<main class="max-w-7xl mx-auto px-4 py-8">
+    <div class="flex flex-col lg:flex-row gap-10">
 
-        <!-- Título da Seção -->
-        <div class="flex items-center justify-between mb-6">
-            <h2 class="text-2xl font-serif font-bold text-white">Últimas Notícias</h2>
-            <div class="h-[1px] bg-slate-800 flex-grow ml-4"></div>
-        </div>
+        <!-- ── ARTICLE COLUMN ── -->
+        <div class="flex-1 min-w-0 max-w-3xl">
+            <div id="loadingSpinner"><div class="spinner"></div></div>
 
-        <!-- Grid de Artigos -->
-        <div id="articlesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Loading Spinner -->
-            <div class="col-span-full flex justify-center py-12">
-                <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-duna-500"></div>
+            <div id="errorBox" class="hidden text-center py-20">
+                <p class="text-4xl mb-4">📄</p>
+                <p class="text-slate-400 text-lg mb-2">Artigo não encontrado.</p>
+                <p class="text-slate-500 text-sm mb-6">Verifique o endereço ou volte ao início.</p>
+                <a href="https://dunapress.org/" class="px-6 py-2 rounded-lg text-sm text-white" style="background:#a83e32">Voltar ao início</a>
             </div>
-        </div>
 
-    </main>
-
-    <!-- Footer -->
-    <footer class="bg-black border-t border-slate-800 mt-12 py-8">
-        <div class="max-w-7xl mx-auto px-4 text-center">
-            <div class="flex items-center justify-center gap-2 mb-4">
-                 <div class="w-8 h-8 rounded bg-duna-800 flex items-center justify-center">
-                    <span class="text-white font-serif font-bold text-sm">D</span>
+            <article id="articleContainer" class="hidden">
+                <!-- Ad Top -->
+                <div class="mb-8 rounded-xl border border-slate-700/30 bg-slate-800/20 p-3 text-center">
+                    <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-1">Publicidade</span>
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                 </div>
-                <span class="text-white font-serif font-bold">Duna Press</span>
+
+                <header class="mb-8">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span id="artBadge" class="badge badge-default"></span>
+                        <span id="artDate" class="text-sm text-slate-500"></span>
+                    </div>
+                    <h1 id="artTitle" class="text-3xl md:text-4xl font-bold text-white leading-tight mb-6" style="font-family:'Playfair Display',serif"></h1>
+                    <div class="flex flex-wrap items-center gap-3 py-4 border-t border-b border-slate-800/50">
+                        <div class="flex items-center gap-2 flex-1">
+                            <div id="artAuthorAvatar" class="w-8 h-8 rounded-full flex items-center justify-center text-white text-xs font-bold flex-shrink-0" style="background:linear-gradient(135deg,#c94d3a,#a83e32)">D</div>
+                            <div>
+                                <p id="artAuthor" class="text-sm font-medium text-white"></p>
+                                <p class="text-xs text-slate-500">Duna Press</p>
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <button onclick="shareArticle('copy')" class="share-btn bg-slate-800 text-slate-300 hover:text-white">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
+                                <span class="hidden sm:inline">Copiar</span>
+                            </button>
+                            <button onclick="shareArticle('whatsapp')" class="share-btn text-green-400 hover:text-white" style="background:rgba(21,128,61,0.2)">
+                                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                                <span class="hidden sm:inline">WhatsApp</span>
+                            </button>
+                            <button onclick="shareArticle('twitter')" class="share-btn bg-slate-900 text-slate-300 hover:text-white border border-slate-700">
+                                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                                <span class="hidden sm:inline">X</span>
+                            </button>
+                        </div>
+                    </div>
+                </header>
+
+                <div id="artContent" class="article-body"></div>
+
+                <!-- Ad Mid -->
+                <div class="my-10 rounded-xl border border-slate-700/30 bg-slate-800/20 p-3 text-center">
+                    <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-1">Publicidade</span>
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
+
+                <!-- More articles from same category -->
+                <div id="relatedBottom" class="mt-10 pt-8 border-t border-slate-800/50 hidden">
+                    <h3 class="text-xl font-bold text-white mb-5" style="font-family:'Playfair Display',serif">Mais artigos da mesma categoria</h3>
+                    <div id="relatedBottomGrid" class="grid grid-cols-1 sm:grid-cols-2 gap-4"></div>
+                </div>
+
+                <div class="mt-10 pt-8 border-t border-slate-800/50 flex items-center justify-between">
+                    <a href="https://dunapress.org/" class="flex items-center gap-2 text-slate-400 hover:text-white text-sm">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
+                        Voltar ao início
+                    </a>
+                    <a id="catLinkBottom" href="https://dunapress.org/" class="flex items-center gap-2 text-red-400 hover:text-white text-sm">
+                        Ver mais artigos
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+                    </a>
+                </div>
+            </article>
+        </div>
+
+        <!-- ── SIDEBAR ── -->
+        <aside class="w-full lg:w-80 flex-shrink-0">
+            <div class="sidebar-sticky">
+
+                <!-- Ad Sidebar -->
+                <div class="sidebar-card !p-3 text-center">
+                    <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
+                    <ins class="adsbygoogle" style="display:block;min-height:250px" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
+
+                <!-- Related Articles -->
+                <div class="sidebar-card">
+                    <h4>📰 Artigos Relacionados</h4>
+                    <div id="sidebarRelated">
+                        <div class="spinner" style="width:24px;height:24px;margin:20px auto;border-width:2px;"></div>
+                    </div>
+                </div>
+
+                <!-- Newsletter -->
+                <div class="sidebar-card" style="background:linear-gradient(135deg,rgba(168,62,50,0.15),rgba(30,20,20,0.9));border-color:rgba(168,62,50,0.2);">
+                    <h4>✉️ Newsletter</h4>
+                    <p class="text-slate-400 text-sm mb-4 leading-relaxed">Receba as melhores análises semanais directo no seu e-mail.</p>
+                    <form id="sidebarNewsletterForm" onsubmit="handleSidebarNewsletter(event)">
+                        <input type="email" id="sidebarEmail" required placeholder="seu@email.com"
+                            class="w-full px-3 py-2.5 rounded-lg text-sm text-white placeholder-slate-500 mb-3"
+                            style="background:rgba(0,0,0,0.4);border:1px solid rgba(255,255,255,0.1);">
+                        <button type="submit" id="sidebarNewsBtn"
+                            class="w-full py-2.5 rounded-lg text-sm font-bold text-white transition-all hover:opacity-90"
+                            style="background:linear-gradient(135deg,#c94d3a,#a83e32);">
+                            Inscrever-se
+                        </button>
+                    </form>
+                    <p id="sidebarNewsMsg" class="text-xs text-green-400 mt-2 hidden text-center">✅ Inscrito com sucesso!</p>
+                </div>
+
+                        <!-- Categories -->
+<div class="sidebar-card">
+    <h4>🗂️ Categorias</h4>
+    <div class="flex flex-wrap gap-2">
+        <!-- Política -->
+        <a href="/categoria.html?cat=politics-and-society" class="cat-pill">
+            <span class="cat-dot" style="background:#991b1b"></span>Política
+        </a>
+        <!-- Economia -->
+        <a href="/categoria.html?cat=global-economy" class="cat-pill">
+            <span class="cat-dot" style="background:#d97706"></span>Economia
+        </a>
+        <!-- Ciência -->
+        <a href="/categoria.html?cat=science" class="cat-pill">
+            <span class="cat-dot" style="background:#059669"></span>Ciência
+        </a>
+        <!-- Tecnologia -->
+        <a href="/categoria.html?cat=technology" class="cat-pill">
+            <span class="cat-dot" style="background:#475569"></span>Tecnologia
+        </a>
+        <!-- Saúde -->
+        <a href="/categoria.html?cat=health" class="cat-pill">
+            <span class="cat-dot" style="background:#db2777"></span>Saúde
+        </a>
+        <!-- Cultura -->
+        <a href="/categoria.html?cat=culture-and-history" class="cat-pill">
+            <span class="cat-dot" style="background:#0e7490"></span>Cultura
+        </a>
+        <!-- Geopolítica -->
+        <a href="/categoria.html?cat=geopolitics" class="cat-pill">
+            <span class="cat-dot" style="background:#a83e32"></span>Geopolítica
+        </a>
+        <!-- Ambiente -->
+        <a href="/categoria.html?cat=environment" class="cat-pill">
+            <span class="cat-dot" style="background:#047857"></span>Ambiente
+        </a>
+        <!-- Opinião -->
+        <a href="/categoria.html?cat=opinion" class="cat-pill">
+            <span class="cat-dot" style="background:#7c3aed"></span>Opinião
+        </a>
+        <!-- História -->
+        <a href="/categoria.html?cat=history" class="cat-pill">
+            <span class="cat-dot" style="background:#854d0e"></span>História
+        </a>
+    </div>
+</div>
+                    </div>
+                </div>
+
+                <!-- Social Follow -->
+                <div class="sidebar-card">
+                    <h4>🌐 Siga-nos</h4>
+                    <div class="flex flex-col gap-2">
+                        <a href="https://www.youtube.com/@borealtimes" target="_blank" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all hover:bg-red-900/20 text-slate-300 hover:text-white">
+                            <svg class="w-5 h-5 text-red-500" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                            <span class="text-sm font-medium">YouTube</span>
+                        </a>
+                        <a href="https://t.me/borealtimes" target="_blank" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all hover:bg-blue-900/20 text-slate-300 hover:text-white">
+                            <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
+                            <span class="text-sm font-medium">Telegram</span>
+                        </a>
+                        <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all hover:bg-green-900/20 text-slate-300 hover:text-white">
+                            <svg class="w-5 h-5 text-green-400" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                            <span class="text-sm font-medium">WhatsApp</span>
+                        </a>
+                        <a href="https://x.com/borealtimes" target="_blank" class="flex items-center gap-3 px-3 py-2 rounded-lg transition-all hover:bg-slate-700/40 text-slate-300 hover:text-white">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                            <span class="text-sm font-medium">X / Twitter</span>
+                        </a>
+                    </div>
+                </div>
+
             </div>
-            <p class="text-slate-500 text-sm">© 2026 Duna Press | App Algoritmo. Todos os direitos reservados.</p>
-            <div class="flex justify-center gap-4 mt-4 text-xs text-slate-400">
-                <a href="/privacy-policy" class="hover:text-white">Privacidade</a>
-                <a href="/terms-of-use" class="hover:text-white">Termos</a>
-                <a href="mailto:post@borealtimes.org" class="hover:text-white">Contato</a>
+        </aside>
+    </div>
+</main>
+
+<!-- Footer (igual ao index.html) -->
+<footer class="bg-duna-950 border-t border-slate-800/50" style="background:#3f1612;">
+    <div class="max-w-7xl mx-auto px-4 py-10 md:py-12">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 mb-6 md:mb-8">
+            <div class="sm:col-span-2 lg:col-span-1">
+                <div class="flex items-center gap-3 mb-3 md:mb-4">
+                    <div class="w-9 md:w-10 h-9 md:h-10 rounded-lg flex items-center justify-center" style="background:linear-gradient(135deg,#c94d3a,#a83e32)"><span class="text-white font-serif font-bold text-lg md:text-xl">D</span></div>
+                    <h3 class="text-base md:text-lg font-serif font-bold text-white">Duna Press</h3>
+                </div>
+                <p class="text-xs md:text-sm text-slate-400 mb-3 md:mb-4">Jornal e revista com análises independentes sobre assuntos globais, economia, ciência e regulação.</p>
+                <div class="flex flex-wrap items-center gap-2">
+                    <a href="https://x.com/borealtimes" target="_blank" class="social-icon w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                    <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                    <a href="https://t.me/borealtimes" target="_blank" class="social-icon w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+                    <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+                </div>
+            </div>
+            <div>
+                <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4">Links Rápidos</h4>
+                <ul class="space-y-1.5 md:space-y-2">
+                    <li><a href="https://dunapress.org/" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Início</a></li>
+                    <li><a href="https://dunapress.org/#videos" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Vídeos</a></li>
+                    <li><a href="https://dunapress.org/#articles" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Artigos</a></li>
+                    <li><a href="https://dunapress.org/#about" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Sobre</a></li>
+                    <li><a href="https://dunapress.org/admin.html" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Admin-Editor</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4">Categorias</h4>
+                <ul class="space-y-1.5 md:space-y-2">
+                    <li><a href="https://dunapress.org/categoria.html?cat=politics-and-society" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Política</a></li>
+                    <li><a href="https://dunapress.org/categoria.html?cat=global-economy" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Economia</a></li>
+                    <li><a href="https://dunapress.org/categoria.html?cat=science" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Ciência</a></li>
+                    <li><a href="https://dunapress.org/categoria.html?cat=technology" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Tecnologia</a></li>
+                    <li><a href="https://dunapress.org/categoria.html?cat=geopolitics" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Geopolítica</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4">Legal</h4>
+                <ul class="space-y-1.5 md:space-y-2">
+                    <li><a href="https://dunapress.org/privacy-policy" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Política de Privacidade</a></li>
+                    <li><a href="https://dunapress.org/terms-of-use" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Termos de Uso</a></li>
+                    <li><a href="https://dunapress.org/cookie-notice" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Aviso de Cookies</a></li>
+                    <li><a href="mailto:post@borealtimes.org" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors">Contate-nos</a></li>
+                </ul>
             </div>
         </div>
-    </footer>
+        <div class="border-t border-slate-800/50 pt-6 md:pt-8 flex flex-col md:flex-row items-center justify-between gap-3 md:gap-4">
+            <p class="text-xs md:text-sm text-slate-500">© 2026 Duna Press. Todos os direitos reservados.</p>
+            <p class="text-xs text-slate-600">
+                <a href="https://app-algoritmo.github.io/digital-solutions" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:#e06552;">Desenvolvido por Digital Solutions</a>
+            </p>
+        </div>
+    </div>
+</footer>
 
-    <script>
-        // Relógio e Data em PT-BR
-        function updateClock() {
-            const t = new Date();
-            const pad = n => String(n).padStart(2,'0');
-            const el = document.getElementById('liveClock');
-            if (el) el.textContent = pad(t.getHours())+':'+pad(t.getMinutes())+':'+pad(t.getSeconds());
+<div id="toast" class="fixed bottom-6 right-6 z-50 hidden">
+    <div class="px-5 py-3 bg-slate-800 border border-slate-700 rounded-xl shadow-2xl text-sm text-white flex items-center gap-2">
+        <svg class="w-4 h-4 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+        <span id="toastMsg">Copiado!</span>
+    </div>
+</div>
+
+<script>
+const SUPABASE_URL='https://ohsaqzwtqliiwshecumk.supabase.co';
+const SUPABASE_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9oc2Fxend0cWxpaXdzaGVjdW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxMjYxMjQsImV4cCI6MjA5MjcwMjEyNH0.Aaa4I01uYNNl1nOff5NIkOhn454uNBQYjDiLDh-aaYs';
+const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+const REPO_OWNER='app-algoritmo', REPO_NAME='dunapressjr';
+const RAW_BASE=`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main`;
+const BASE='';
+
+// Clock
+function updateClock(){const t=new Date(),p=n=>String(n).padStart(2,'0'),el=document.getElementById('liveClock');if(el)el.textContent=p(t.getHours())+':'+p(t.getMinutes())+':'+p(t.getSeconds());}
+updateClock();setInterval(updateClock,1000);
+const dateEl=document.getElementById('currentDate');if(dateEl)dateEl.textContent=new Date().toLocaleDateString('pt-BR',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+
+// Progress
+window.addEventListener('scroll',()=>{
+    const s=document.documentElement.scrollTop,h=document.documentElement.scrollHeight-document.documentElement.clientHeight;
+    document.getElementById('progressBar').style.width=(s/h*100)+'%';
+});
+
+function getBadgeClass(cat){
+    const c=(cat||'').toLowerCase().trim();
+    const map={'news':'badge-noticias','noticias':'badge-noticias','politics':'badge-politica','politics-and-society':'badge-politica','policy':'badge-politica','opinion':'badge-opinion','global-economy':'badge-economia','economy':'badge-economia','science':'badge-ciencia','technology':'badge-tecnologia','tech':'badge-tecnologia','health':'badge-saude','education':'badge-educacao','history':'badge-history','culture':'badge-culture','culture-and-history':'badge-culture','geopolitics':'badge-politica','international-relations':'badge-politica'};
+    return map[c]||'badge-default';
+}
+
+function parseFrontmatter(raw){
+    const meta={title:'',date:'',author:'',categories:[],status:''};
+    let content=raw;
+    const fm=raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
+    if(fm){
+        const block=fm[1];content=fm[2];
+        const tM=block.match(/^title:\s*["']?(.*?)["']?\s*$/m);if(tM)meta.title=tM[1].trim().replace(/^["']|["']$/g,'');
+        const dM=block.match(/^date:\s*(.+)\s*$/m);if(dM)meta.date=dM[1].trim();
+        const aM=block.match(/^author:\s*(.+)\s*$/m);if(aM)meta.author=aM[1].trim();
+        const cBlock=block.match(/^categories:\s*\n((?:[ \t]+-[ \t]*.+\n?)+)/m);
+        if(cBlock){meta.categories=(cBlock[1].match(/[ \t]+-[ \t]*(.+)/g)||[]).map(l=>l.replace(/[ \t]+-[ \t]*/,'').trim());}
+        else{const ci=block.match(/^categories:\s*\[(.+)\]/m);if(ci)meta.categories=ci[1].split(',').map(s=>s.trim());}
+    }
+    return{meta,content};
+}
+
+function formatDate(d){
+    if(!d)return'';
+    try{return new Date(d+'T12:00:00').toLocaleDateString('pt-BR',{year:'numeric',month:'long',day:'numeric'});}
+    catch(e){return d;}
+}
+
+function getFilePath(){
+    const p=new URLSearchParams(window.location.search);
+    if(p.get('file'))return p.get('file');
+    if(p.get('cat')&&p.get('slug'))return`/artigos/${p.get('cat')}/${p.get('slug')}.md`;
+    return null;
+}
+
+function getCatFromPath(path){
+    const parts=(path||'').split('/').filter(Boolean);
+    if(parts[0]==='artigos'&&parts[1])return parts[1];
+    return'';
+}
+
+// Load related articles from search-index.json
+async function loadRelated(category, currentPath) {
+    try {
+        const res = await fetch(BASE + '/search-index.json');
+        if (!res.ok) throw new Error();
+        const all = await res.json();
+        const related = all
+            .filter(a => a.category === category && a.path !== currentPath.replace(/^\//,''))
+            .sort(() => Math.random() - 0.5)
+            .slice(0, 6);
+
+        // Sidebar
+        const sidebarEl = document.getElementById('sidebarRelated');
+        if (related.length === 0) {
+            sidebarEl.innerHTML = '<p class="text-slate-500 text-sm">Sem artigos relacionados.</p>';
+        } else {
+            sidebarEl.innerHTML = related.slice(0,5).map(a => {
+                const title = a.title || '';
+                const date = a.date ? new Date(a.date+'T00:00:00').toLocaleDateString('pt-BR',{day:'numeric',month:'short',year:'numeric'}) : '';
+                const url = BASE + '/artigo.html?file=/' + a.path;
+                return `<div class="related-item" onclick="window.location='${url}'">
+                    <span class="related-title">${title}</span>
+                    <span class="related-date">${date}</span>
+                </div>`;
+            }).join('');
         }
-        updateClock(); setInterval(updateClock, 1000);
-        document.getElementById('currentDate').textContent = new Date().toLocaleDateString('pt-BR', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
 
-        // Configuração do Repositório
-        const REPO_OWNER = 'app-algoritmo';
-        const REPO_NAME = 'dunapressjr';
-        const BRANCH = 'main'; 
-
-        // Mapeamento de Categorias para Badges (PT-BR)
-        const categoryColors = {
-            'noticias': 'badge-noticias',
-            'política': 'badge-politica',
-            'politica': 'badge-politica',
-            'economia': 'badge-economia',
-            'ciência': 'badge-ciencia',
-            'ciencia': 'badge-ciencia',
-            'tecnologia': 'badge-tecnologia',
-            'saúde': 'badge-saude',
-            'saude': 'badge-saude',
-            'educação': 'badge-educacao',
-            'educacao': 'badge-educacao'
-        };
-
-        async function loadArticles() {
-            try {
-                // Busca a lista de arquivos na pasta /artigos/ via API do GitHub
-                const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos`;
-                
-                const response = await fetch(apiUrl);
-                if (!response.ok) throw new Error('Falha ao carregar artigos');
-                
-                const contents = await response.json();
-                
-                // Filtra apenas pastas (categorias)
-                const categories = contents.filter(item => item.type === 'dir');
-                
-                let allArticles = [];
-
-                // Para cada categoria, busca os arquivos .md dentro dela
-                for (const cat of categories) {
-                    const catApiUrl = `${cat.url}`; 
-                    try {
-                        const catRes = await fetch(catApiUrl);
-                        const files = await catRes.json();
-                        
-                        // Filtra apenas arquivos .md
-                        const mdFiles = files.filter(f => f.name.endsWith('.md'));
-                        
-                        mdFiles.forEach(file => {
-                            const parts = file.path.split('/');
-                            const category = parts[1]; 
-                            const slug = file.name.replace('.md', '');
-                            
-                            // Formata o título a partir do slug (ex: eleicoes-2026 -> Eleicoes 2026)
-                            const titleFormatted = slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-                            
-                            allArticles.push({
-                                title: titleFormatted,
-                                category: category,
-                                url: `/artigos/${category}/${slug}`,
-                                date: new Date().toLocaleDateString('pt-BR'),
-                                excerpt: 'Clique para ler a análise completa deste assunto global...'
-                            });
-                        });
-                    } catch (e) {
-                        console.error(`Erro ao ler categoria ${cat.name}`, e);
-                    }
-                }
-
-                // Ordena por data (simulada) e pega os 9 mais recentes
-                renderArticles(allArticles.slice(0, 9)); 
-
-            } catch (error) {
-                console.error(error);
-                document.getElementById('articlesGrid').innerHTML = `
-                    <div class="col-span-full text-center text-slate-400 py-10">
-                        <p>Não foi possível carregar os artigos automaticamente.</p>
-                        <p class="text-xs mt-2">Verifique se o repositório é público e se a estrutura /artigos/ existe.</p>
+        // Bottom grid
+        if (related.length >= 2) {
+            const bottomGrid = document.getElementById('relatedBottomGrid');
+            bottomGrid.innerHTML = related.slice(0,4).map(a => {
+                const title = a.title || '';
+                const date = a.date ? new Date(a.date+'T00:00:00').toLocaleDateString('pt-BR',{day:'numeric',month:'short'}) : '';
+                const url = BASE + '/artigo.html?file=/' + a.path;
+                const badgeClass = getBadgeClass(a.category);
+                return `<div onclick="window.location='${url}'" class="cursor-pointer p-4 rounded-xl border border-slate-700/50 hover:border-red-900/40 transition-all" style="background:rgba(25,25,25,0.6)">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="badge ${badgeClass}" style="font-size:9px;padding:2px 8px;">${a.category.replace(/-/g,' ')}</span>
+                        <span class="text-xs text-slate-500">${date}</span>
                     </div>
-                `;
-            }
+                    <p class="text-sm font-semibold text-white leading-snug hover:text-red-400 transition-colors">${title}</p>
+                </div>`;
+            }).join('');
+            document.getElementById('relatedBottom').classList.remove('hidden');
+        }
+    } catch(e) {
+        document.getElementById('sidebarRelated').innerHTML = '<p class="text-slate-500 text-sm">Sem artigos relacionados.</p>';
+    }
+}
+
+async function loadArticle(){
+    const filePath=getFilePath();
+    if(!filePath){
+        document.getElementById('loadingSpinner').classList.add('hidden');
+        document.getElementById('errorBox').classList.remove('hidden');
+        return;
+    }
+    const category=getCatFromPath(filePath);
+    try{
+        const res=await fetch(RAW_BASE+filePath);
+        if(!res.ok)throw new Error('404');
+        const raw=await res.text();
+        const{meta,content}=parseFrontmatter(raw);
+
+        if(!meta.title){
+            const fname=filePath.split('/').pop().replace('.md','').replace(/^\d{4}-\d{2}-\d{2}-/,'');
+            meta.title=fname.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
+        }
+        if(!meta.date){
+            const dm=filePath.split('/').pop().match(/^(\d{4}-\d{2}-\d{2})/);
+            if(dm)meta.date=dm[1];
         }
 
-        function renderArticles(articles) {
-            const grid = document.getElementById('articlesGrid');
-            grid.innerHTML = '';
+        const displayCat=meta.categories[0]||category||'Geral';
+        const catSlug=category||displayCat.toLowerCase();
 
-            if (articles.length === 0) {
-                grid.innerHTML = '<p class="text-slate-400 col-span-full text-center">Nenhum artigo encontrado ainda.</p>';
-                return;
-            }
+        document.getElementById('pageTitle').textContent=meta.title+' — Duna Press';
+        document.getElementById('pageDesc').content=meta.title;
 
-            articles.forEach(article => {
-                const badgeClass = categoryColors[article.category.toLowerCase()] || 'badge-default';
-                
-                const card = `
-                    <a href="${article.url}" class="block bg-slate-900/50 border border-slate-800 rounded-xl p-6 card-hover group h-full flex flex-col">
-                        <div class="mb-3">
-                            <span class="badge ${badgeClass}">${article.category}</span>
-                        </div>
-                        <h3 class="text-xl font-serif font-bold text-white mb-2 group-hover:text-duna-400 transition line-clamp-2">
-                            ${article.title}
-                        </h3>
-                        <p class="text-slate-400 text-sm mb-4 line-clamp-3 flex-grow">
-                            ${article.excerpt}
-                        </p>
-                        <div class="flex items-center justify-between mt-auto pt-4 border-t border-slate-800">
-                            <span class="text-xs text-slate-500">${article.date}</span>
-                            <span class="text-xs text-duna-400 font-semibold flex items-center gap-1">
-                                Ler mais 
-                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
-                            </span>
-                        </div>
-                    </a>
-                `;
-                grid.innerHTML += card;
-            });
-        }
+        const badge=document.getElementById('artBadge');
+        badge.textContent=displayCat;
+        badge.className='badge '+getBadgeClass(catSlug);
 
-        // Inicia o carregamento
-        loadArticles();
-    </script>
+        document.getElementById('artDate').textContent=formatDate(meta.date);
+        document.getElementById('artTitle').textContent=meta.title;
+        const author=meta.author||'Redação Duna Press';
+        document.getElementById('artAuthor').textContent=author;
+        document.getElementById('artAuthorAvatar').textContent=author.charAt(0).toUpperCase();
+
+        const catUrl=BASE+`/categoria.html?cat=${catSlug}`;
+        document.getElementById('breadcrumbCat').textContent=displayCat;
+        document.getElementById('breadcrumbCat').href=catUrl;
+        document.getElementById('breadcrumbTitle').textContent=meta.title;
+
+        const catLink=document.getElementById('catLink');
+        catLink.href=catUrl;catLink.textContent=`← ${displayCat}`;catLink.classList.remove('hidden');
+        document.getElementById('catLinkBottom').href=catUrl;
+        document.getElementById('catLinkBottom').textContent=`Ver mais em ${displayCat}`;
+
+        marked.setOptions({breaks:true,gfm:true});
+        document.getElementById('artContent').innerHTML=marked.parse(content);
+
+        document.getElementById('loadingSpinner').classList.add('hidden');
+        document.getElementById('articleContainer').classList.remove('hidden');
+
+        // Load related after article is shown
+        loadRelated(catSlug, filePath);
+
+    }catch(e){
+        document.getElementById('loadingSpinner').classList.add('hidden');
+        document.getElementById('errorBox').classList.remove('hidden');
+    }
+}
+
+function shareArticle(p){
+    const url=window.location.href,title=document.getElementById('artTitle').textContent;
+    const t=encodeURIComponent(title+' — Duna Press'),eu=encodeURIComponent(url);
+    if(p==='copy')navigator.clipboard.writeText(url).then(()=>showToast('🔗 Link copiado!')).catch(()=>prompt('Copiar:',url));
+    else if(p==='whatsapp')window.open(`https://wa.me/?text=${t}%20${eu}`,'_blank');
+    else if(p==='twitter')window.open(`https://x.com/intent/tweet?text=${t}&url=${eu}`,'_blank');
+}
+
+async function handleSidebarNewsletter(event) {
+    event.preventDefault();
+    const email = document.getElementById('sidebarEmail').value.trim();
+    const btn = document.getElementById('sidebarNewsBtn');
+    const msg = document.getElementById('sidebarNewsMsg');
+    btn.disabled = true; btn.textContent = '...';
+    try {
+        const { error } = await _supabase.from('newsletter').insert([{ email }]);
+        if (error && error.code !== '23505') throw error;
+        msg.classList.remove('hidden');
+        document.getElementById('sidebarNewsletterForm').classList.add('hidden');
+    } catch(e) {
+        btn.disabled = false; btn.textContent = 'Inscrever-se';
+        showToast('Erro ao inscrever. Tente novamente.', 'error');
+    }
+}
+
+let toastTimer;
+function showToast(msg){
+    clearTimeout(toastTimer);
+    document.getElementById('toastMsg').textContent=msg;
+    document.getElementById('toast').classList.remove('hidden');
+    toastTimer=setTimeout(()=>document.getElementById('toast').classList.add('hidden'),3000);
+}
+
+loadArticle();
+</script>
 </body>
 </html>

@@ -1,8 +1,15 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://app-algoritmo.github.io/dunapress/sitemap.xml
+# Bloquear áreas administrativas
+Disallow: /dunapressjr/admin.html
+Disallow: /dunapressjr/admin/
 
-# Disallow admin/scripts
-Disallow: /scripts/
-Disallow: /.github/
+# Permitir todos os artigos e páginas públicas
+Allow: /dunapressjr/
+Allow: /dunapressjr/artigo.html
+Allow: /dunapressjr/categoria.html
+Allow: /dunapressjr/artigos/
+
+# Sitemap
+Sitemap: https://app-algoritmo.github.io/dunapressjr/sitemap.xml

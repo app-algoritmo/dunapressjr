@@ -6,14 +6,15 @@
     <title>Duna Press - Jornal e Revista</title>
     <meta name="description" content="Jornal e revista com análises independentes sobre assuntos globais, economia, ciência e regulação.">
 
-    <!-- Google Analytics GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NTPJFB7G2T"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-NTPJFB7G2T');
-    </script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5QG9N24BHH');
+</script>
 
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
@@ -26,21 +27,21 @@
 
     <!-- ============================================================
          SUPABASE — ACTIVE AUTH INTEGRATION
-         Project: Boreal Times | https://lyqepfvrvuimfuimwity.supabase.co
+         Project: Boreal Times | https://ohsaqzwtqliiwshecumk.supabase.co
          
          Future server-side setup (Next.js / Node):
          1. npm install @supabase/supabase-js @supabase/ssr
          2. .env.local:
-            NEXT_PUBLIC_SUPABASE_URL=https://lyqepfvrvuimfuimwity.supabase.co
-            NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_Jkd7VOiozb4AVCJjguDRQQ__fsA4tdf
+            NEXT_PUBLIC_SUPABASE_URL=https://ohsaqzwtqliiwshecumk.supabase.co
+            NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_ESNxcuoiwnm3BnOQ7R3RMQ_NtM05HrY
          3. utils/supabase/client.ts — createBrowserClient(url, key)
          4. utils/supabase/server.ts — createServerClient with cookie helpers
          5. utils/supabase/middleware.ts — wrap NextResponse for session refresh
     ============================================================ -->
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
     <script>
-        const SUPABASE_URL = 'https://lyqepfvrvuimfuimwity.supabase.co';
-        const SUPABASE_KEY = 'sb_publishable_Jkd7VOiozb4AVCJjguDRQQ__fsA4tdf';
+        const SUPABASE_URL = 'https://ohsaqzwtqliiwshecumk.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9oc2Fxend0cWxpaXdzaGVjdW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxMjYxMjQsImV4cCI6MjA5MjcwMjEyNH0.Aaa4I01uYNNl1nOff5NIkOhn454uNBQYjDiLDh-aaYs';
         const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
     </script>
 
@@ -406,7 +407,7 @@
         <div class="max-w-7xl mx-auto px-4">
             <div class="flex items-center justify-between py-3 md:py-4 header-inner">
                 <!-- Logo -->
-                <a href="#" class="flex items-center gap-2 md:gap-3 group flex-shrink-0">
+                <a href="https://dunapress.org/" class="flex items-center gap-2 md:gap-3 group flex-shrink-0">
                     <div class="w-9 h-9 md:w-10 md:h-10 rounded-lg bg-gradient-to-br from-rust-400 via-duna-500 to-duna-700 flex items-center justify-center shadow-lg shadow-duna-500/20 group-hover:shadow-duna-500/40 transition-shadow">
                         <span class="text-white font-serif font-bold text-lg md:text-xl">D</span>
                     </div>
@@ -672,7 +673,7 @@
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6" id="articleGrid">
                 <!-- Artigo 1: Política -->
-                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="politics" onclick="window.location='/artigo.html?file=/artigos/world-affairs/2025-01-07-usa-election-results-officially-certified-on-january-6-2025.md'">
+                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="politics" onclick="window.location='/artigo.html?file=/artigos/politics-and-society/2026-04-14-a-corrida-pelo-artico.md'">
                     <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
                         <div class="absolute top-3 md:top-4 left-3 md:left-4"><span class="badge-politics px-2 py-1 rounded-full text-[10px] font-bold text-white">Política</span></div>
                         <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>8 min</div>
@@ -684,7 +685,7 @@
                     </div>
                 </article>
                 <!-- Artigo 2: Economia -->
-                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="economy" onclick="window.location='/artigo.html?file=/artigos/economy/2025-01-06-the-looming-silver-squeeze-will-shortages-drive-prices-to-new-heights-in-2026.md'">
+                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="economy" onclick="window.location='/artigo.html?file=/artigos/global-economy/2026-04-13-desdolarizacao-mito-ou-realidade.md'">
                     <div class="h-40 md:h-48 bg-gradient-to-br from-duna-600/40 to-duna-700/40 relative">
                         <div class="absolute top-3 md:top-4 left-3 md:left-4"><span class="badge-economy px-2 py-1 rounded-full text-[10px] font-bold text-white">Economia</span></div>
                         <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>12 min</div>
@@ -696,7 +697,7 @@
                     </div>
                 </article>
                 <!-- Artigo 3: Ciência -->
-                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="science" onclick="window.location='/artigo.html?file=/artigos/technology/2026-01-31-the-looming-silver-squeeze-will-shortages-drive-prices-to-new-heights-in-2026.md'">
+                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="science" onclick="window.location='/artigo.html?file=/artigos/science/2026-04-12-edicao-genica-etica-aprimoramento-humano.md'">
                     <div class="h-40 md:h-48 bg-gradient-to-br from-duna-800/40 to-duna-900/40 relative">
                         <div class="absolute top-3 md:top-4 left-3 md:left-4"><span class="badge-science px-2 py-1 rounded-full text-[10px] font-bold text-white">Ciência</span></div>
                         <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>6 min</div>
@@ -708,7 +709,7 @@
                     </div>
                 </article>
                 <!-- Artigo 4: Regulação -->
-                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="regulation" onclick="window.location='/artigo.html?file=/artigos/space-exploration/2026-02-01-the-secret-to-life-on-other-worlds-unveiling-dark-oxygen.md'">
+                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="regulation" onclick="window.location='/artigo.html?file=/artigos/politics-and-society/2026-04-11-direito-espacial-governando-fronteira-final.md'">
                     <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-600/40 relative">
                         <div class="absolute top-3 md:top-4 left-3 md:left-4"><span class="badge-regulation px-2 py-1 rounded-full text-[10px] font-bold text-white">Regulação</span></div>
                         <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>10 min</div>
@@ -720,7 +721,7 @@
                     </div>
                 </article>
                 <!-- Artigo 5: Economia -->
-                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="economy" onclick="window.location='/artigo.html?file=/artigos/sustainability/2025-06-29-regenerative-agriculture-a-sustainable-solution-for-food-security.md'">
+                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="economy" onclick="window.location='/artigo.html?file=/artigos/global-economy/2026-04-10-mercado-green-bonds-financas-sustentaveis.md'">
                     <div class="h-40 md:h-48 bg-gradient-to-br from-duna-800/40 to-duna-900/40 relative">
                         <div class="absolute top-3 md:top-4 left-3 md:left-4"><span class="badge-economy px-2 py-1 rounded-full text-[10px] font-bold text-white">Economia</span></div>
                         <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>9 min</div>
@@ -732,7 +733,7 @@
                     </div>
                 </article>
                 <!-- Artigo 6: Política -->
-                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="politics" onclick="window.location='/artigo.html?file=/artigos/world-affairs/2025-01-19-ceasefire-begins-transfer-of-first-hostages-and-presence-of-hamas-members.md'">
+                <article class="article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer" data-category="politics" onclick="window.location='/artigo.html?file=/artigos/politics-and-society/2026-04-09-diplomacia-digital-midia-social-politica-externa.md'">
                     <div class="h-40 md:h-48 bg-gradient-to-br from-duna-600/40 to-duna-800/40 relative">
                         <div class="absolute top-3 md:top-4 left-3 md:left-4"><span class="badge-politics px-2 py-1 rounded-full text-[10px] font-bold text-white">Política</span></div>
                         <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>11 min</div>
@@ -869,10 +870,11 @@
                 <div>
                     <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4" data-i18n="footerLegal">Legal</h4>
                     <ul class="space-y-1.5 md:space-y-2">
-                        <li><a href="https://borealtimes.org/privacy-policy" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerPrivacy">Política de Privacidade</a></li>
-                        <li><a href="https://borealtimes.org/terms-of-use" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerTerms">Termos de Uso</a></li>
-                        <li><a href="https://borealtimes.org/cookie-notice" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerCookies">Aviso de Cookies</a></li>
+                        <li><a href="https://dunapress.org/privacy-policy" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerPrivacy">Política de Privacidade</a></li>
+                        <li><a href="https://dunapress.org/terms-of-use" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerTerms">Termos de Uso</a></li>
+                        <li><a href="https://dunapress.org/cookie-notice" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerCookies">Aviso de Cookies</a></li>
                         <li><a href="mailto:post@borealtimes.org" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerContact">Contate-nos</a></li>
+                        <li><a href="https://dunapress.org/admin.html" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="editor">Admin-Editor</a></li>
                     </ul>
                 </div>
             </div>
@@ -1554,15 +1556,34 @@
         }
 
         // ==================== NEWSLETTER ====================
-        function handleNewsletterSubmit(event) {
-            event.preventDefault();
-            const email = document.getElementById('newsletterEmail').value;
-            const subject = encodeURIComponent('Inscrição Newsletter — Duna Press');
-            const body = encodeURIComponent('Novo assinante: ' + email + '\n\nDuna Press — contato@dunapress.com');
-            window.location.href = `mailto:contato@dunapress.com?subject=${subject}&body=${body}`;
+        async function handleNewsletterSubmit(event){
+    event.preventDefault();
+    const email = document.getElementById('newsletterEmail').value.trim();
+    const btn = event.target.querySelector('button[type="submit"]');
+    const originalText = btn.textContent;
+    btn.disabled = true;
+    btn.textContent = '...';
+    try {
+        const { error } = await _supabase
+            .from('newsletter')
+            .insert([{ email: email }]);
+        if (error) {
+            if (error.code === '23505') {
+                showToast('Este e-mail já está inscrito! 📧', 'success');
+            } else {
+                throw error;
+            }
+        } else {
             showToast(translations[currentLang].toastNewsletterSuccess, 'success');
             event.target.reset();
         }
+    } catch(e) {
+        showToast('Erro ao inscrever. Tente novamente.', 'error');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = originalText;
+    }
+}
 
         // ==================== TOAST ====================
         let toastTimer;
@@ -1621,6 +1642,7 @@
             else switchLanguage('pt');
 
             buildTicker();
+            loadArticlesFromGitHub();
 
             window.addEventListener('scroll', updateProgress);
             window.addEventListener('scroll', handleHeaderScroll);
@@ -1639,13 +1661,386 @@
             });
         });
 
-        // ==================== SEARCH ====================
-        document.getElementById('searchInput')?.addEventListener('input', function(e) {
-            const q=e.target.value.toLowerCase();
-            if (q.length<2) { document.querySelectorAll('#videoGrid .video-card,#articleGrid .article-card').forEach(c=>c.style.display=''); return; }
-            document.querySelectorAll('#videoGrid .video-card').forEach(c=>c.style.display=c.textContent.toLowerCase().includes(q)?'':'none');
-            document.querySelectorAll('#articleGrid .article-card').forEach(c=>c.style.display=c.textContent.toLowerCase().includes(q)?'':'none');
+// ==================== DYNAMIC ARTICLES ====================
+        const REPO_OWNER = 'app-algoritmo';
+        const REPO_NAME  = 'dunapressjr';
+        const GH_API     = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`;
+        const PER_PAGE   = 6;
+        let allArticles = [], filteredArticles = [], displayedCount = 0;
+
+        const CAT_MAP = {
+            'politics-and-society':   { label:'Política',    badge:'badge-politics',   filter:'politics'  },
+            'global-economy':         { label:'Economia',    badge:'badge-economy',    filter:'economy'   },
+            'science':                { label:'Ciência',     badge:'badge-science',    filter:'science'   },
+            'technology':             { label:'Tecnologia',  badge:'badge-tech',       filter:'technology'},
+            'health':                 { label:'Saúde',       badge:'badge-politics',   filter:'health'    },
+            'opinion':                { label:'Opinião',     badge:'badge-regulation', filter:'opinion'   },
+            'international-relations':{ label:'Internacional',badge:'badge-regulation',filter:'politics'  },
+            'international-politics': { label:'Int. Política',badge:'badge-politics',  filter:'politics'  },
+            'history':                { label:'História',    badge:'badge-science',    filter:'science'   },
+            'culture-and-history':    { label:'Cultura',     badge:'badge-environment',filter:'science'   },
+            'education':              { label:'Educação',    badge:'badge-regulation', filter:'science'   },
+            'environment':            { label:'Ambiente',    badge:'badge-environment',filter:'science'   },
+            'geopolitics':            { label:'Geopolítica', badge:'badge-politics',   filter:'politics'  },
+            'news':                   { label:'Notícias',    badge:'badge-politics',   filter:'politics'  },
+        };
+
+        const STATIC_PATHS = [
+            'artigos/politics-and-society/2026-04-14-a-corrida-pelo-artico.md',
+            'artigos/global-economy/2026-04-13-desdolarizacao-mito-ou-realidade.md',
+            'artigos/science/2026-04-12-edicao-genica-etica-aprimoramento-humano.md',
+            'artigos/politics-and-society/2026-04-11-direito-espacial-governando-fronteira-final.md',
+            'artigos/global-economy/2026-04-10-mercado-green-bonds-financas-sustentaveis.md',
+            'artigos/politics-and-society/2026-04-09-diplomacia-digital-midia-social-politica-externa.md',
+        ];
+
+        function fmtDate(d) {
+            if (!d) return '';
+            const [y,m,day] = d.split('-');
+            const months = ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+            return `${parseInt(day)} ${months[parseInt(m)-1]} ${y}`;
+        }
+
+        function renderBatch() {
+            const grid = document.getElementById('articleGrid');
+            if (!grid) return;
+            const batch = filteredArticles.slice(displayedCount, displayedCount + PER_PAGE);
+            if (!batch.length) return;
+            batch.forEach(art => {
+                const card = document.createElement('article');
+                card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer';
+                card.dataset.category = art.filter;
+                card.onclick = () => window.location = `/dunapressjr/artigo.html?file=/${art.path}`;
+                card.innerHTML = `
+                    <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
+                        <div class="absolute top-3 md:top-4 left-3 md:left-4">
+                            <span class="${art.badge} px-2 py-1 rounded-full text-[10px] font-bold text-white">${art.catLabel}</span>
+                        </div>
+                        <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full">
+                            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                            5 min
+                        </div>
+                    </div>
+                    <div class="p-4 md:p-5">
+                        <h3 class="text-base md:text-lg font-serif font-bold text-white mb-2 leading-snug hover:text-duna-200 transition-colors">${art.title}</h3>
+                        <div class="flex items-center justify-between mt-3">
+                            <span class="text-xs text-slate-500">${fmtDate(art.date)}</span>
+                            <button class="text-duna-400 hover:text-duna-300 transition-colors">
+                                <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                            </button>
+                        </div>
+                    </div>`;
+                grid.appendChild(card);
+            });
+            displayedCount += batch.length;
+        }
+
+        async function loadArticlesFromGitHub() {
+            try {
+                const res = await fetch(`${GH_API}/contents/artigos`);
+                if (!res.ok) return;
+                const cats = (await res.json()).filter(i => i.type === 'dir');
+                const results = await Promise.all(cats.map(async cat => {
+                    try {
+                        const r = await fetch(cat.url);
+                        if (!r.ok) return [];
+                        const files = await r.json();
+                        const catInfo = CAT_MAP[cat.name] || { label: cat.name, badge:'badge-politics', filter:'politics' };
+                        return files.filter(f => f.name.endsWith('.md')).map(f => {
+                            const dateM = f.name.match(/^(\d{4}-\d{2}-\d{2})-/);
+                            const slug  = f.name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace('.md','');
+                            return {
+                                title:    slug.replace(/-/g,' ').replace(/\b\w/g, c => c.toUpperCase()),
+                                date:     dateM ? dateM[1] : '',
+                                path:     f.path,
+                                category: cat.name,
+                                catLabel: catInfo.label,
+                                badge:    catInfo.badge,
+                                filter:   catInfo.filter
+                            };
+                        });
+                    } catch(e) { return []; }
+                }));
+
+                allArticles = results.flat()
+                    .filter(a => !STATIC_PATHS.includes(a.path))
+                    .sort((a, b) => b.date.localeCompare(a.date));
+
+                filteredArticles = [...allArticles];
+                renderBatch();
+
+                // Botão carregar mais
+                const sec = document.getElementById('articles');
+                if (sec && allArticles.length > PER_PAGE) {
+                    const btn = document.createElement('div');
+                    btn.className = 'text-center mt-6 md:mt-8';
+                    btn.id = 'loadMoreArticlesBtn';
+                    btn.innerHTML = `<button onclick="loadMoreArticles()" class="px-6 md:px-8 py-2.5 md:py-3 bg-slate-800/50 border border-slate-700/50 rounded-xl text-sm font-medium text-slate-300 hover:text-white hover:border-duna-500/50 transition-all">Carregar Mais Artigos</button>`;
+                    sec.appendChild(btn);
+                }
+            } catch(e) { console.error('Erro:', e); }
+        }
+
+        function loadMoreArticles() { renderBatch(); }
+
+        
+// ==================== SEARCH CORRIGIDO PARA DUNAPRESS.ORG ====================
+let searchIndex = null;
+let isSearchLoading = false;
+
+async function loadSearchIndex() {
+    if (searchIndex) return searchIndex;
+    if (isSearchLoading) return await new Promise(r => setTimeout(r, 500));
+    
+    isSearchLoading = true;
+    try {
+        // CORREÇÃO 1: Caminho correto para a raiz do domínio dunapress.org
+        const res = await fetch('/search-index.json');
+        if (!res.ok) throw new Error('JSON não encontrado');
+        searchIndex = await res.json();
+        console.log(`Índice carregado: ${searchIndex.length} artigos.`);
+    } catch (e) {
+        console.warn("Erro ao carregar índice. Usando fallback.", e);
+        searchIndex = []; 
+    } finally {
+        isSearchLoading = false;
+    }
+    return searchIndex;
+}
+
+let searchTimeout;
+document.getElementById('searchInput')?.addEventListener('input', function(e) {
+    const q = e.target.value.toLowerCase().trim();
+    clearTimeout(searchTimeout);
+    
+    if (!q) {
+        resetView();
+        return;
+    }
+
+    searchTimeout = setTimeout(async () => {
+        performSmartSearch(q);
+    }, 500);
+});
+
+async function performSmartSearch(query) {
+    const grid = document.getElementById('articleGrid');
+    const videoGrid = document.getElementById('videoGrid');
+    
+    // Filtra Vídeos Instantaneamente
+    if (videoGrid) {
+        document.querySelectorAll('#videoGrid .video-card').forEach(card => {
+            const text = card.textContent.toLowerCase();
+            card.style.display = text.includes(query) ? '' : 'none';
         });
+    }
+
+    // Loading State
+    if (grid) {
+        grid.innerHTML = `<div class="col-span-full flex justify-center items-center py-10">
+            <div class="spinner"></div>
+            <span class="ml-3 text-slate-400 text-sm">Buscando...</span>
+        </div>`;
+    }
+
+    let results = [];
+    const index = await loadSearchIndex();
+    
+    if (index && index.length > 0) {
+        // Busca no Título e Categoria
+        results = index.filter(art => {
+            const titleMatch = art.title.toLowerCase().includes(query);
+            const catMatch = art.category.toLowerCase().includes(query);
+            // Se quiser buscar no conteúdo, descomente a linha abaixo (se o JSON tiver campo 'content')
+            // const contentMatch = art.content && art.content.toLowerCase().includes(query);
+            return titleMatch || catMatch;
+        });
+        
+        // Ordena por data (mais recente primeiro)
+        results.sort((a, b) => b.date.localeCompare(a.date));
+
+    } else {
+        // Fallback: Busca via API do GitHub se o JSON falhar
+        console.log("Usando fallback da API GitHub...");
+        results = await searchViaGitHubAPI(query);
+    }
+
+    renderSearchResults(results, query);
+}
+
+async function searchViaGitHubAPI(query) {
+    const categories = ['politics-and-society', 'global-economy', 'science', 'technology', 'health', 'opinion'];
+    let allMatches = [];
+
+    const promises = categories.map(async (cat) => {
+        try {
+            const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/artigos/${cat}?per_page=100`);
+            if (!res.ok) return [];
+            const files = await res.json();
+            
+            return files.filter(f => f.name.endsWith('.md')).map(f => {
+                const match = f.name.match(/^(\d{4}-\d{2}-\d{2})-(.+)\.md$/);
+                if (!match) return null;
+                
+                const date = match[1];
+                const slug = match[2].replace(/-/g, ' ');
+                
+                if (slug.toLowerCase().includes(query) || cat.replace(/-/g, ' ').includes(query)) {
+                    const catInfo = CAT_MAP[cat] || { label: cat, badge: 'badge-politics', filter: 'politics' };
+                    return {
+                        title: slug.charAt(0).toUpperCase() + slug.slice(1),
+                        date: date,
+                        path: f.path,
+                        category: cat,
+                        catLabel: catInfo.label,
+                        badge: catInfo.badge,
+                        filter: catInfo.filter,
+                        type: 'github-api'
+                    };
+                }
+                return null;
+            }).filter(item => item !== null);
+        } catch (e) { return []; }
+    });
+
+    const resultsArrays = await Promise.all(promises);
+    return resultsArrays.flat().sort((a, b) => b.date.localeCompare(a.date));
+}
+
+function renderSearchResults(results, query) {
+    const grid = document.getElementById('articleGrid');
+    if (!grid) return;
+    
+    grid.innerHTML = '';
+
+    if (results.length === 0) {
+        grid.innerHTML = `<div class="col-span-full text-center text-slate-400 py-10">
+            Nenhum resultado encontrado para "<strong>${query}</strong>"<br>
+            <span class="text-xs mt-2 block opacity-70">Tente termos curtos como "Noruega", "China", "Quantum"</span>
+        </div>`;
+        removeLoadMoreBtn();
+        return;
+    }
+
+    // Renderiza os primeiros 10
+    const initialBatch = results.slice(0, 10);
+    initialBatch.forEach(art => createArticleCard(art, grid));
+
+    manageLoadMoreButton(results, 10);
+}
+
+function createArticleCard(art, container) {
+    const card = document.createElement('article');
+    card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer animate-fade-in';
+    card.dataset.category = art.filter;
+    
+    // CORREÇÃO 2: Link correto para o domínio próprio (sem /dunapressjr/)
+    card.onclick = () => window.location = `/artigo.html?file=/${art.path}`;
+    
+    card.innerHTML = `
+        <div class="h-40 md:h-48 bg-gradient-to-br from-duna-700/40 to-duna-800/40 relative">
+            <div class="absolute top-3 md:top-4 left-3 md:left-4">
+                <span class="${art.badge} px-2 py-1 rounded-full text-[10px] font-bold text-white">${art.catLabel}</span>
+            </div>
+            <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full">
+                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                Leitura
+            </div>
+        </div>
+        <div class="p-4 md:p-5">
+            <h3 class="text-base md:text-lg font-serif font-bold text-white mb-2 leading-snug hover:text-duna-200 transition-colors">${art.title}</h3>
+            <div class="flex items-center justify-between mt-3">
+                <span class="text-xs text-slate-500">${fmtDate(art.date)}</span>
+                <button class="text-duna-400 hover:text-duna-300 transition-colors">
+                    <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                </button>
+            </div>
+        </div>`;
+    container.appendChild(card);
+}
+
+function manageLoadMoreButton(allResults, currentCount) {
+    let btnContainer = document.getElementById('loadMoreSearchBtn');
+    
+    if (currentCount < allResults.length) {
+        if (!btnContainer) {
+            btnContainer = document.createElement('div');
+            btnContainer.id = 'loadMoreSearchBtn';
+            btnContainer.className = 'col-span-full text-center mt-6';
+            btnContainer.dataset.results = JSON.stringify(allResults);
+            btnContainer.dataset.displayed = currentCount;
+            
+            btnContainer.innerHTML = `<button onclick="loadMoreSearchResults()" class="px-6 md:px-8 py-2.5 md:py-3 bg-duna-600 hover:bg-duna-500 text-white rounded-xl text-sm font-medium transition-all shadow-lg shadow-duna-600/20">
+                Carregar Mais Resultados (${allResults.length - currentCount} restantes)
+            </button>`;
+            
+            const grid = document.getElementById('articleGrid');
+            grid.parentNode.insertBefore(btnContainer, grid.nextSibling);
+        } else {
+            btnContainer.dataset.results = JSON.stringify(allResults);
+            btnContainer.dataset.displayed = currentCount;
+            btnContainer.querySelector('button').textContent = `Carregar Mais Resultados (${allResults.length - currentCount} restantes)`;
+            btnContainer.style.display = 'block';
+        }
+    } else {
+        removeLoadMoreBtn();
+    }
+}
+
+function loadMoreSearchResults() {
+    const btnContainer = document.getElementById('loadMoreSearchBtn');
+    if (!btnContainer) return;
+    
+    const allResults = JSON.parse(btnContainer.dataset.results);
+    let displayed = parseInt(btnContainer.dataset.displayed);
+    const nextBatch = allResults.slice(displayed, displayed + 10);
+    
+    const grid = document.getElementById('articleGrid');
+    nextBatch.forEach(art => createArticleCard(art, grid));
+    
+    displayed += nextBatch.length;
+    btnContainer.dataset.displayed = displayed;
+    
+    const remaining = allResults.length - displayed;
+    if (remaining > 0) {
+        btnContainer.querySelector('button').textContent = `Carregar Mais Resultados (${remaining} restantes)`;
+    } else {
+        btnContainer.style.display = 'none';
+    }
+}
+
+function removeLoadMoreBtn() {
+    const btn = document.getElementById('loadMoreSearchBtn');
+    if (btn) btn.remove();
+}
+
+function resetView() {
+    // Restaura vídeos
+    document.querySelectorAll('#videoGrid .video-card').forEach(c => c.style.display = '');
+    
+    // Restaura artigos normais
+    const grid = document.getElementById('articleGrid');
+    if (grid) {
+        grid.innerHTML = '';
+        displayedCount = 0;
+        filteredArticles = [...allArticles];
+        renderBatch();
+    }
+    
+    removeLoadMoreBtn();
+    
+    // Restaura botão normal de carregar mais artigos se necessário
+    const sec = document.getElementById('articles');
+    if (sec && allArticles.length > PER_PAGE && !document.getElementById('loadMoreArticlesBtn')) {
+         const btnNormal = document.createElement('div');
+         btnNormal.className = 'text-center mt-6 md:mt-8';
+         btnNormal.id = 'loadMoreArticlesBtn';
+         btnNormal.innerHTML = `<button onclick="loadMoreArticles()" class="px-6 md:px-8 py-2.5 md:py-3 bg-slate-800/50 border border-slate-700/50 rounded-xl text-sm font-medium text-slate-300 hover:text-white hover:border-duna-500/50 transition-all">Carregar Mais Artigos</button>`;
+         sec.appendChild(btnNormal);
+    }
+}
+    
+
 
         // ==================== KEYBOARD ====================
         document.addEventListener('keydown', e => { if(e.key==='Escape'){closeAuthModal();closeVideoModal();} });

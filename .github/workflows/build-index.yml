@@ -1,0 +1,44 @@
+name: Build Search Index
+on:
+  push:
+    paths:
+      - 'artigos/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate search index
+        run: |
+          python3 << 'EOF'
+          import os, json
+          articles = []
+          for root, dirs, files in os.walk('artigos'):
+              for f in sorted(files, reverse=True):
+                  if f.endswith('.md'):
+                      path = os.path.join(root, f).replace('\\','/')
+                      cat = root.replace('artigos/','').replace('artigos','')
+                      slug = f.replace('.md','')
+                      date = slug[:10] if len(slug) > 10 else ''
+                      title = slug[11:].replace('-',' ').title() if len(slug) > 10 else slug
+                      articles.append({'title':title,'path':path,'category':cat,'date':date})
+          with open('search-index.json','w',encoding='utf-8') as out:
+              json.dump(articles, out, ensure_ascii=False)
+          print(f"Indexados: {len(articles)} artigos")
+          EOF
+
+      - name: Commit index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add search-index.json
+          git diff --staged --quiet || git commit -m "Atualiza índice de busca"
+          git push
