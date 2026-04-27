@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import anthropic, requests, json, base64, re, os, sys, time, uuid
 from datetime import datetime
 
@@ -7,11 +6,19 @@ GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO   = "app-algoritmo/dunapressjr"
 SUPABASE_URL  = os.environ.get("SUPABASE_URL", "")
 SUPABASE_KEY  = os.environ.get("SUPABASE_KEY", "")
-
 ORCAMENTO_MENSAL_USD   = 2.00
 PRECO_INPUT_POR_TOKEN  = 1.50 / 1_000_000
 PRECO_OUTPUT_POR_TOKEN = 7.50 / 1_000_000
 FICHEIRO_GASTOS = "/tmp/dunapress_gastos.json"
+AUTOR = "Duna Press Redacao"
+AGENDA = [
+    {"slug": "tecnologia",  "nome": "Tecnologia",   "hora": "06:00"},
+    {"slug": "economia",    "nome": "Economia",     "hora": "09:00"},
+    {"slug": "ciencia",     "nome": "Ciencia",      "hora": "12:00"},
+    {"slug": "geopolitica", "nome": "Geopolitica",  "hora": "15:00"},
+    {"slug": "saude",       "nome": "Saude",        "hora": "18:00"},
+    {"slug": "ambiente",    "nome": "Meio Ambiente", "hora": "21:00"},
+]
 
 def carregar_gastos():
     try:
@@ -38,51 +45,51 @@ def registar_custo(input_tokens, output_tokens):
 def verificar_orcamento():
     dados = carregar_gastos()
     gasto = dados["total_usd"]
-    print(f"  💰 Gasto: ${gasto:.4f} / ${ORCAMENTO_MENSAL_USD:.2f}")
+    print(f"  Gasto: ${gasto:.4f} / ${ORCAMENTO_MENSAL_USD:.2f}")
     if gasto >= ORCAMENTO_MENSAL_USD:
-        print(f"  🚫 ORCAMENTO ESGOTADO")
+        print("  ORCAMENTO ESGOTADO")
         return False
     return True
 
-AGENDA = [
-    {"slug": "tecnologia",  "nome": "Tecnologia",   "hora": "06:00"},
-    {"slug": "economia",    "nome": "Economia",     "hora": "09:00"},
-    {"slug": "ciencia",     "nome": "Ciencia",      "hora": "12:00"},
-    {"slug": "geopolitica", "nome": "Geopolitica",  "hora": "15:00"},
-    {"slug": "saude",       "nome": "Saude",        "hora": "18:00"},
-    {"slug": "ambiente",    "nome": "Meio Ambiente", "hora": "21:00"},
-]
-AUTOR = "Duna Press Redacao"
-
 def montar_prompt(categoria):
     hoje = datetime.now().strftime("%d/%m/%Y")
-    return (f"Jornalista senior da Duna Press. Artigo original sobre {categoria['nome']} ({hoje}). "
-            f"Tom analitico, relevante, sem sensacionalismo. Autor: \"{AUTOR}\". "
-            f"Retorne APENAS JSON valido (sem markdown): "
-            f"{{\"titulo\":\"max 85 chars\",\"subtitulo\":\"lead max 150 chars\","
-            f"\"autor\":\"{AUTOR}\",\"categoria\":\"{categoria['slug']}\","
-            f"\"tempo_leitura\":7,\"tags\":[\"{categoria['slug']}\",\"analise\",\"duna press\"],"
-            f"\"resumo\":\"2 linhas para meta description\","
-            f"\"conteudo\":\"Markdown com ## subtitulos, min 650 palavras\"}}")
+    slug = categoria["slug"]
+    nome = categoria["nome"]
+    return (
+        "Jornalista senior da Duna Press. "
+        f"Artigo original sobre {nome} ({hoje}). "
+        "Tom analitico, relevante. "
+        f"Autor: {AUTOR}. "
+        "Retorne APENAS JSON valido sem markdown: "
+        "{" + f'"titulo":"titulo aqui","subtitulo":"lead aqui",'
+        f'"autor":"{AUTOR}","categoria":"{slug}",'
+        '"tempo_leitura":7,'
+        f'"tags":["{slug}","analise","duna press"],'
+        '"resumo":"resumo aqui",'
+        '"conteudo":"artigo markdown min 650 palavras"' + "}"
+    )
 
 def gerar_artigo_batch(categoria):
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
     prompt = montar_prompt(categoria)
     req_id = f"dp-{categoria['slug']}-{uuid.uuid4().hex[:8]}"
-    print(f"  → Submetendo Batch para '{categoria['nome']}'...")
+    print(f"  Submetendo Batch para {categoria['nome']}...")
     batch = client.messages.batches.create(requests=[{
         "custom_id": req_id,
-        "params": {"model": "claude-sonnet-4-6", "max_tokens": 1800,
-                   "messages": [{"role": "user", "content": prompt}]}
+        "params": {
+            "model": "claude-sonnet-4-6",
+            "max_tokens": 1800,
+            "messages": [{"role": "user", "content": prompt}]
+        }
     }])
-    print(f"  → Batch id: {batch.id}. Aguardando...")
+    print(f"  Batch id: {batch.id}. Aguardando...")
     for tentativa in range(60):
         time.sleep(10)
         status = client.messages.batches.retrieve(batch.id)
         if status.processing_status == "ended":
             break
         if tentativa % 6 == 5:
-            print(f"     ... {(tentativa+1)*10}s")
+            print(f"  ... {(tentativa+1)*10}s")
     resultado = None
     for item in client.messages.batches.results(batch.id):
         if item.custom_id == req_id and item.result.type == "succeeded":
@@ -91,7 +98,7 @@ def gerar_artigo_batch(categoria):
     if not resultado:
         raise RuntimeError("Batch sem resultado")
     custo = registar_custo(resultado.usage.input_tokens, resultado.usage.output_tokens)
-    print(f"  💵 Custo: ${custo:.5f} (in:{resultado.usage.input_tokens} out:{resultado.usage.output_tokens})")
+    print(f"  Custo: ${custo:.5f}")
     texto = resultado.content[0].text.strip()
     texto = re.sub(r"^```json\s*", "", texto)
     texto = re.sub(r"\s*```$", "", texto)
@@ -103,61 +110,74 @@ def salvar_github(artigo, categoria_slug):
     caminho = f"artigos/{categoria_slug}/{slug}.xml"
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <artigo>
-  <titulo><![CDATA[{artigo['titulo']}]]></titulo>
-  <subtitulo><![CDATA[{artigo['subtitulo']}]]></subtitulo>
-  <autor>{artigo['autor']}</autor>
+  <titulo><![CDATA[{artigo["titulo"]}]]></titulo>
+  <subtitulo><![CDATA[{artigo["subtitulo"]}]]></subtitulo>
+  <autor>{artigo["autor"]}</autor>
   <categoria>{categoria_slug}</categoria>
-  <data>{agora.strftime('%Y-%m-%dT%H:%M:%S')}</data>
-  <tempo_leitura>{artigo.get('tempo_leitura', 7)}</tempo_leitura>
-  <tags>{','.join(artigo.get('tags', []))}</tags>
-  <resumo><![CDATA[{artigo['resumo']}]]></resumo>
-  <conteudo><![CDATA[{artigo['conteudo']}]]></conteudo>
+  <data>{agora.strftime("%Y-%m-%dT%H:%M:%S")}</data>
+  <tempo_leitura>{artigo.get("tempo_leitura", 7)}</tempo_leitura>
+  <tags>{",".join(artigo.get("tags", []))}</tags>
+  <resumo><![CDATA[{artigo["resumo"]}]]></resumo>
+  <conteudo><![CDATA[{artigo["conteudo"]}]]></conteudo>
 </artigo>"""
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{caminho}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
     payload = {"message": f"auto: {artigo['titulo'][:60]}", "content": base64.b64encode(xml.encode("utf-8")).decode()}
-    print(f"  → GitHub: {caminho}")
+    print(f"  GitHub: {caminho}")
     r = requests.put(url, json=payload, headers=headers, timeout=30)
     if r.status_code not in (200, 201):
-        print(f"  ⚠️  GitHub erro {r.status_code}: {r.text[:200]}")
+        print(f"  GitHub erro {r.status_code}: {r.text[:200]}")
     return slug
 
 def inserir_supabase(artigo, slug, categoria_slug):
     url = f"{SUPABASE_URL}/rest/v1/artigos"
-    headers = {"apikey": SUPABASE_KEY, "Authorization": f"Bearer {SUPABASE_KEY}",
-               "Content-Type": "application/json", "Prefer": "return=minimal"}
-    payload = {"slug": slug, "titulo": artigo["titulo"], "subtitulo": artigo["subtitulo"],
-               "autor": artigo["autor"], "categoria_slug": categoria_slug,
-               "tempo_leitura": artigo.get("tempo_leitura", 7), "tags": artigo.get("tags", []),
-               "resumo": artigo["resumo"], "conteudo": artigo["conteudo"],
-               "publicado": True, "visualizacoes": 0, "criado_em": datetime.now().isoformat()}
-    print(f"  → Supabase: inserindo...")
+    headers = {
+        "apikey": SUPABASE_KEY,
+        "Authorization": f"Bearer {SUPABASE_KEY}",
+        "Content-Type": "application/json",
+        "Prefer": "return=minimal"
+    }
+    payload = {
+        "slug": slug,
+        "titulo": artigo["titulo"],
+        "subtitulo": artigo["subtitulo"],
+        "autor": artigo["autor"],
+        "categoria_slug": categoria_slug,
+        "tempo_leitura": artigo.get("tempo_leitura", 7),
+        "tags": artigo.get("tags", []),
+        "resumo": artigo["resumo"],
+        "conteudo": artigo["conteudo"],
+        "publicado": True,
+        "visualizacoes": 0,
+        "criado_em": datetime.now().isoformat()
+    }
+    print("  Supabase: inserindo...")
     r = requests.post(url, json=payload, headers=headers, timeout=30)
     if r.status_code not in (200, 201):
-        print(f"  ⚠️  Supabase erro {r.status_code}: {r.text[:200]}")
+        print(f"  Supabase erro {r.status_code}: {r.text[:200]}")
 
 def publicar(categoria):
-    print(f"\n[{datetime.now().strftime('%H:%M:%S')}] Publicando: {categoria['nome']}")
+    print(f"\nPublicando: {categoria['nome']}")
     if not verificar_orcamento():
         return False
     try:
         artigo = gerar_artigo_batch(categoria)
         slug = salvar_github(artigo, categoria["slug"])
-        inserir_supabase(artigo, slug, categoria["sl
-ug"])
-        print(f"  ✅ \"{artigo['titulo']}\"")
+        inserir_supabase(artigo, slug, categoria["slug"])
+        print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
-        print(f"  ❌ Erro: {e}")
+        print(f"  ERRO: {e}")
         return False
 
 def publicar_todos():
     sucesso = 0
     for cat in AGENDA:
-        if publicar(cat): sucesso += 1
+        if publicar(cat):
+            sucesso += 1
         time.sleep(3)
     dados = carregar_gastos()
-    print(f"\n✅ {sucesso}/{len(AGENDA)} publicados | 💰 ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}")
+    print(f"\nTotal: {sucesso}/{len(AGENDA)} | ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}")
 
 def publicar_agendado():
     hora_atual = datetime.now().strftime("%H:%M")
@@ -169,10 +189,13 @@ def publicar_agendado():
 
 def mostrar_gastos():
     dados = carregar_gastos()
-    print(f"\n📊 {dados['mes']} | Artigos: {dados.get('artigos',0)} | ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}\n")
+    print(f"\n{dados['mes']} | {dados.get('artigos',0)} artigos | ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}\n")
 
 if __name__ == "__main__":
     modo = sys.argv[1] if len(sys.argv) > 1 else "agendado"
-    if   modo == "todos":  publicar_todos()
-    elif modo == "gastos": mostrar_gastos()
-    else:                  publicar_agendado()
+    if modo == "todos":
+        publicar_todos()
+    elif modo == "gastos":
+        mostrar_gastos()
+    else:
+        publicar_agendado()
