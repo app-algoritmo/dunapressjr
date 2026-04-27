@@ -45,11 +45,15 @@ jobs:
         env:
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
           GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit e push
-        run: |
-          git config user.name "Duna Press Bot"
-          git config user.email "bot@dunapress.org"
-          git pull origin main --rebase
-          git add artigos/ || true
-          git diff --staged --quiet || git commit -m "auto: $(date +'%Y-%m-%d %H:%M')"
-          git push origin HEAD:main --force-with-lease
+    - name: Commit e push
+      run: |
+        git config user.name "Duna Press Bot"
+        git config user.email "bot@dunapress.org"
+        git add artigos/ || true
+        git diff --staged --quiet && echo 'Nada para commit' && exit 0
+        git commit -m "auto: $(date +'%Y-%m-%d %H:%M')"
+        for i in 1 2 3; do
+          git pull origin main --rebase && git push origin HEAD:main && break
+          echo 'Tentativa $i falhou, a aguardar...'
+          sleep 5
+        done
