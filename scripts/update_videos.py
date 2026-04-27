@@ -14,10 +14,11 @@ HOW TO GET YOUR CHANNEL ID:
   5. Paste it in CHANNEL_ID below.
 """
 
-import renimport os
+import re
+import os
 import sys
 import xml.etree.ElementTree as ET
-import renimport osquests
+import requests
 from datetime import datetime, timezone
 
 # ─────────────────────────────────────────────────────────────────────────────
