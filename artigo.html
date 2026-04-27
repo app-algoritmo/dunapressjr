@@ -387,7 +387,7 @@ const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
 const REPO_OWNER='app-algoritmo', REPO_NAME='dunapressjr';
 const RAW_BASE=`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main`;
-const BASE='/dunapressjr';
+const BASE='';
 
 // Clock
 function updateClock(){const t=new Date(),p=n=>String(n).padStart(2,'0'),el=document.getElementById('liveClock');if(el)el.textContent=p(t.getHours())+':'+p(t.getMinutes())+':'+p(t.getSeconds());}
