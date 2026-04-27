@@ -144,3 +144,35 @@ def publicar(categoria):
         artigo = gerar_artigo_batch(categoria)
         slug = salvar_github(artigo, categoria["slug"])
         inserir_supabase(artigo, slug, categoria["sl
+ug"])
+        print(f"  ✅ \"{artigo['titulo']}\"")
+        return True
+    except Exception as e:
+        print(f"  ❌ Erro: {e}")
+        return False
+
+def publicar_todos():
+    sucesso = 0
+    for cat in AGENDA:
+        if publicar(cat): sucesso += 1
+        time.sleep(3)
+    dados = carregar_gastos()
+    print(f"\n✅ {sucesso}/{len(AGENDA)} publicados | 💰 ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}")
+
+def publicar_agendado():
+    hora_atual = datetime.now().strftime("%H:%M")
+    for cat in AGENDA:
+        if cat["hora"] == hora_atual:
+            publicar(cat)
+            return
+    print(f"[{hora_atual}] Nenhuma publicacao agendada.")
+
+def mostrar_gastos():
+    dados = carregar_gastos()
+    print(f"\n📊 {dados['mes']} | Artigos: {dados.get('artigos',0)} | ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}\n")
+
+if __name__ == "__main__":
+    modo = sys.argv[1] if len(sys.argv) > 1 else "agendado"
+    if   modo == "todos":  publicar_todos()
+    elif modo == "gastos": mostrar_gastos()
+    else:                  publicar_agendado()
