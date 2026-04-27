@@ -52,4 +52,4 @@ jobs:
           git pull origin main --rebase
           git add artigos/ || true
           git diff --staged --quiet || git commit -m "auto: $(date +'%Y-%m-%d %H:%M')"
-          git push origin HEAD:main
+          git push origin HEAD:main --force-with-lease
