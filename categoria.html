@@ -89,6 +89,129 @@
         .search-input:focus { outline:none; border-color:rgba(168,62,50,0.5); box-shadow:0 0 0 3px rgba(168,62,50,0.1); }
         
         @media(max-width:640px) { .art-grid { grid-template-columns:1fr !important; } }
+        /* ── BANNER DIGITAL SOLUTIONS ── */
+.ds-banner {
+    display: block;
+    width: 100%;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(120deg, #f97316 0%, #ef4444 35%, #ec4899 70%, #a855f7 100%);
+    box-shadow: 0 4px 24px rgba(249, 115, 22, 0.4);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    font-family: 'Inter', sans-serif;
+}
+.ds-banner:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 38px rgba(249, 115, 22, 0.55);
+}
+.ds-banner::before {
+    content: '';
+    position: absolute;
+    top: 0; left: -75%;
+    width: 50%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.18), transparent);
+    transform: skewX(-20deg);
+    animation: dsShine 4s infinite;
+    pointer-events: none;
+    z-index: 1;
+}
+@keyframes dsShine { 0% { left: -75% } 65%, 100% { left: 130% } }
+@keyframes dsPulse { 0%,100% { transform: scale(1) } 50% { transform: scale(1.1) } }
+.ds-blob1 {
+    position: absolute; width: 220px; height: 220px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 70%);
+    top: -90px; right: -50px; pointer-events: none;
+    animation: dsPulse 5s ease-in-out infinite;
+}
+.ds-blob2 {
+    position: absolute; width: 140px; height: 140px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
+    bottom: -55px; left: 80px; pointer-events: none;
+    animation: dsPulse 6s ease-in-out infinite reverse;
+}
+.ds-grid {
+    position: absolute; inset: 0; pointer-events: none;
+    background-image:
+        linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+    background-size: 28px 28px;
+}
+.ds-inner {
+    position: relative; z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 16px 24px;
+    flex-wrap: wrap;
+}
+.ds-brand {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    flex-shrink: 0;
+}
+.ds-icon {
+    width: 48px; height: 48px; border-radius: 12px;
+    background: rgba(255,255,255,0.18);
+    border: 1.5px solid rgba(255,255,255,0.28);
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+}
+.ds-eyebrow {
+    font-size: 9px; font-weight: 700;
+    letter-spacing: 0.18em; text-transform: uppercase;
+    color: rgba(255,255,255,0.7);
+    margin-bottom: 3px;
+}
+.ds-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 19px; font-weight: 800;
+    color: #fff; line-height: 1.1;
+    white-space: nowrap;
+}
+.ds-divider {
+    width: 1px; height: 42px;
+    background: rgba(255,255,255,0.25);
+    flex-shrink: 0;
+}
+.ds-tag {
+    font-size: 13px;
+    color: rgba(255,255,255,0.85);
+    line-height: 1.45;
+    flex: 1;
+    min-width: 160px;
+}
+.ds-cta {
+    background: #fff;
+    color: #ea580c;
+    padding: 11px 24px;
+    border-radius: 25px;
+    font-size: 12px; font-weight: 800;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+    flex-shrink: 0;
+    box-shadow: 0 3px 14px rgba(0,0,0,0.2);
+    transition: transform 0.2s;
+}
+.ds-banner:hover .ds-cta { transform: scale(1.04); }
+@media (max-width: 640px) {
+    .ds-inner { padding: 14px 16px; gap: 12px; }
+    .ds-divider { display: none; }
+    .ds-tag { display: none; }
+    .ds-icon { width: 40px; height: 40px; border-radius: 10px; }
+    .ds-title { font-size: 15px; }
+    .ds-eyebrow { font-size: 8px; }
+    .ds-brand { flex: 1; }
+    .ds-cta { padding: 9px 16px; font-size: 11px; }
+}
+@media (max-width: 400px) {
+    .ds-title { font-size: 13px; white-space: normal; }
+    .ds-cta { padding: 8px 12px; font-size: 10px; }
+}
     </style>
 </head>
 <body class="duna-gradient min-h-screen">
@@ -177,11 +300,33 @@
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 pb-16">
 
-        <div class="mb-8 rounded-xl overflow-hidden border border-slate-700/30 bg-slate-800/20 p-3 text-center">
-            <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7977428997189299" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <!-- Ad Bloco 1 — Digital Solutions -->
+<div class="mb-8 text-center">
+    <span class="text-[10px] text-slate-500 uppercase tracking-widest block mb-2">Publicidade</span>
+    <a href="https://ds.barros.no/" target="_blank" rel="noopener noreferrer" class="ds-banner">
+        <div class="ds-blob1"></div>
+        <div class="ds-blob2"></div>
+        <div class="ds-grid"></div>
+        <div class="ds-inner">
+            <div class="ds-brand">
+                <div class="ds-icon">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z" stroke="white" stroke-width="1.8" stroke-linejoin="round"/>
+                        <path d="M2 17l10 5 10-5" stroke="white" stroke-width="1.8" stroke-linejoin="round"/>
+                        <path d="M2 12l10 5 10-5" stroke="white" stroke-width="1.8" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <div>
+                    <div class="ds-eyebrow">Desenvolvimento Web</div>
+                    <div class="ds-title">Digital Solutions</div>
+                </div>
+            </div>
+            <div class="ds-divider"></div>
+            <div class="ds-tag">Sites, portais e aplicações que transformam ideias em resultados digitais</div>
+            <div class="ds-cta">Conheça agora →</div>
         </div>
+    </a>
+</div>
 
         <div id="loadingSpinner"><div class="spinner"></div></div>
         <div id="articleGrid" class="art-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 hidden"></div>
