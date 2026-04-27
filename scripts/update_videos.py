@@ -14,17 +14,17 @@ HOW TO GET YOUR CHANNEL ID:
   5. Paste it in CHANNEL_ID below.
 """
 
-import re
+import renimport os
 import sys
 import xml.etree.ElementTree as ET
-import requests
+import renimport osquests
 from datetime import datetime, timezone
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURE THIS — replace with your real Channel ID (starts with UC...)
 # Get it at: youtube.com/@borealtimes → View Page Source → search "channel/"
 # ─────────────────────────────────────────────────────────────────────────────
-CHANNEL_ID = "UCiXYKVWDEwjULv6QpPj2dZA"
+CHANNEL_ID = os.environ.get("YOUTUBE_CHANNEL_ID", "UCiXYKVWDEwjULv6QpPj2dZA")
 
 RSS_URL    = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 INDEX_FILE = "index.html"
