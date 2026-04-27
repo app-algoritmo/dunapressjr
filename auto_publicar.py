@@ -163,7 +163,6 @@ def publicar(categoria):
     try:
         artigo = gerar_artigo_batch(categoria)
         slug = salvar_github(artigo, categoria["slug"])
-        inserir_supabase(artigo, slug, categoria["slug"])
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
