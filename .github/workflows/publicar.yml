@@ -1,0 +1,41 @@
+name: Duna Press — Publicacao Automatica IA
+on:
+  schedule:
+    - cron: '0 9 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 15 * * *'
+    - cron: '0 18 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'agendado | todos | gastos'
+        required: true
+        default: 'agendado'
+        type: choice
+        options: [agendado, todos, gastos]
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install anthropic requests
+      - run: python auto_publicar.py ${{ github.event.inputs.modo || 'agendado' }}
+        env:
+          ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
+          GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
+          SUPABASE_URL:  ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY:  ${{ secrets.SUPABASE_KEY }}
+      - run: |
+          git config user.name "Duna Press Bot"
+          git config user.email "bot@dunapress.org"
+          git add artigos/ || true
+          git diff --staged --quiet || git commit -m "auto: $(date +'%Y-%m-%d %H:%M')"
+          git push
