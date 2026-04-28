@@ -196,5 +196,10 @@ if __name__ == "__main__":
         publicar_todos()
     elif modo == "gastos":
         mostrar_gastos()
+    elif modo in ["tecnologia", "economia", "ciencia", "geopolitica", "saude", "ambiente"]:
+        for cat in AGENDA:
+            if cat["slug"] == modo:
+                publicar(cat)
+                break
     else:
         publicar_agendado()
