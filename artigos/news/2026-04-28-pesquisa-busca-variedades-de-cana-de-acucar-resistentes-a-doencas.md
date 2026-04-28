@@ -1,0 +1,10 @@
+---
+title: "Pesquisa busca variedades de cana-de-açúcar resistentes a doenças"
+date: 2026-04-28
+status: publish
+author: joicemariasc
+categories:
+  - News
+---
+
+## Desenvolvido por pesquisadores de São Paulo, estudo foi publicado na Revista Scientific Reports.
