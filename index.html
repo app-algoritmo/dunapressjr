@@ -2378,7 +2378,45 @@ function resetView() {
     }
 }
     
-<!-- Mobile Search Overlay -->
+
+        // ==================== KEYBOARD ====================
+        document.addEventListener('keydown', e => { if(e.key==='Escape'){closeMobileSearch();closeAuthModal();closeVideoModal();} });
+
+        // ==================== MOBILE SEARCH ====================
+        function openMobileSearch() {
+            document.getElementById('mobileSearchOverlay').classList.add('open');
+            document.body.style.overflow = 'hidden';
+            setTimeout(() => document.getElementById('mobileSearchInput').focus(), 100);
+        }
+        function closeMobileSearch() {
+            document.getElementById('mobileSearchOverlay').classList.remove('open');
+            document.getElementById('mobileSearchInput').value = '';
+            document.getElementById('mobileSearchResults').innerHTML = '';
+            document.body.style.overflow = '';
+        }
+        let mobileSearchTimeout;
+        function handleMobileSearch(query) {
+            const q = query.toLowerCase().trim();
+            clearTimeout(mobileSearchTimeout);
+            const results = document.getElementById('mobileSearchResults');
+            if (!q) { results.innerHTML = ''; return; }
+            results.innerHTML = `<div style="display:flex;align-items:center;gap:10px;padding:20px 0;color:#64748b;"><div class="spinner"></div><span>Buscando...</span></div>`;
+            mobileSearchTimeout = setTimeout(async () => {
+                const videoResults = Object.entries(videoData)
+                    .filter(([,v]) => v.title.toLowerCase().includes(q))
+                    .map(([key,v]) => ({ type:'video', key, title:v.title, category:v.category }));
+                const index = await loadSearchIndex();
+                const artResults = (index||[]).filter(a => a.title.toLowerCase().includes(q)||a.category.toLowerCase().includes(q)).slice(0,8).map(a=>({type:'article',...a}));
+                const all = [...videoResults, ...artResults];
+                if (!all.length) { results.innerHTML = `<p style="color:#64748b;padding:24px 0;text-align:center;">Nenhum resultado para "<strong style="color:#e2e8f0">${q}</strong>"</p>`; return; }
+                results.innerHTML = all.map(item => item.type==='video'
+                    ? `<div onclick="closeMobileSearch();openVideoModal('${item.key}')" style="display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:0.5px solid rgba(255,255,255,0.06);cursor:pointer;"><div style="width:36px;height:36px;border-radius:8px;background:linear-gradient(135deg,#c94d3a,#a83e32);display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="14" height="14" fill="white" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div><div><div style="font-size:13px;color:#e2e8f0;line-height:1.4;">${item.title}</div><div style="font-size:11px;color:#64748b;margin-top:2px;">${item.category}</div></div></div>`
+                    : `<div onclick="closeMobileSearch();window.location='/artigo.html?file=/${item.path}'" style="display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:0.5px solid rgba(255,255,255,0.06);cursor:pointer;"><div style="width:36px;height:36px;border-radius:8px;background:rgba(30,41,59,0.8);display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="14" height="14" fill="none" stroke="#94a3b8" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg></div><div><div style="font-size:13px;color:#e2e8f0;line-height:1.4;">${item.title}</div><div style="font-size:11px;color:#64748b;margin-top:2px;">${(CAT_MAP[item.category]||{label:item.category}).label} · ${fmtDate(item.date)}</div></div></div>`
+                ).join('');
+            }, 400);
+        }
+    </script>
+    <!-- Mobile Search Overlay -->
 <div id="mobileSearchOverlay">
     <div style="display:flex;align-items:center;gap:10px;">
         <div style="position:relative;flex:1;">
@@ -2389,9 +2427,5 @@ function resetView() {
     </div>
     <div id="mobileSearchResults"></div>
 </div>
-
-        // ==================== KEYBOARD ====================
-        document.addEventListener('keydown', e => { if(e.key==='Escape'){closeAuthModal();closeVideoModal();} });
-    </script>
 </body>
 </html>
