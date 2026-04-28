@@ -183,9 +183,18 @@
             box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
         }
 
-        /* Ticker */
-        .ticker-wrap { overflow: hidden; white-space: nowrap; }
-        .ticker-content { display: inline-flex; animation: ticker 55s linear infinite; }
+        /* Ticker — CORRIGIDO */
+@keyframes ticker {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.ticker-wrap { overflow: hidden; white-space: nowrap; }
+.ticker-content {
+  display: inline-flex;
+  animation: ticker 55s linear infinite;
+  will-change: transform;
+}
+.ticker-content:hover { animation-play-state: paused; }
 
         /* Loading spinner */
         .spinner {
