@@ -1594,7 +1594,10 @@
             const order = ['featured','side1','side2','side3','v1','v2','v3','v4','v5','v6'];
             const titles = order.map(k => videoData[k]?.title).filter(Boolean);
             const recent = titles.slice(0, 10);
-            const spans = [...recent, ...recent].map(t => `<span class="mx-6 md:mx-8 cursor-pointer hover:text-white transition-colors">• ${t}</span>`).join('');
+            const spans = [...recent, ...recent].map(t =>
+  `<span style="padding:0 2rem;cursor:pointer;flex-shrink:0;color:#cbd5e1;transition:color 0.2s"
+        onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'">• ${t}</span>`
+).join('');
             el.innerHTML = spans;
             el.querySelectorAll('span').forEach((span, i) => {
                 const key = order[i % recent.length];
