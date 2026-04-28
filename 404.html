@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 — Página não encontrada | Duna Press Jr</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;1,8..60,300&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet">
+
+  <!-- Google Analytics GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5QG9N24BHH');
+  </script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --sand:    #f5f0e8;
+      --sand-d:  #e8e0cc;
+      --ink:     #1a1714;
+      --ink-mid: #3d3830;
+      --ink-lt:  #7a7060;
+      --gold:    #b8963e;
+      --gold-d:  #8a6e28;
+      --rule:    rgba(26,23,20,.15);
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--sand);
+      color: var(--ink);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ───────────────────────────────────── */
+    header {
+      border-bottom: 1px solid var(--rule);
+      padding: 0 2rem;
+    }
+    .header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.1rem 0 .9rem;
+    }
+    .wordmark {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.55rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .wordmark span {
+      color: var(--gold);
+    }
+    .header-tag {
+      font-family: 'Source Serif 4', serif;
+      font-style: italic;
+      font-size: .8rem;
+      color: var(--ink-lt);
+      letter-spacing: .04em;
+    }
+    nav {
+      border-top: 1px solid var(--rule);
+      display: flex;
+      gap: 1.6rem;
+      padding: .55rem 0;
+      font-size: .78rem;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--ink-mid);
+    }
+    nav a {
+      text-decoration: none;
+      color: inherit;
+      transition: color .2s;
+    }
+    nav a:hover { color: var(--gold-d); }
+
+    /* ── MAIN ─────────────────────────────────────── */
+    main {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4rem 2rem;
+    }
+
+    .card {
+      max-width: 720px;
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr 1px 1fr;
+      gap: 0;
+    }
+
+    .divider {
+      background: var(--rule);
+      margin: 0 2.5rem;
+    }
+
+    /* left — typographic number */
+    .left {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-end;
+      padding-right: 2.5rem;
+      text-align: right;
+    }
+    .img-wrap {
+      margin-bottom: 1.4rem;
+      text-align: right;
+    }
+    .img-wrap img {
+      max-width: 260px;
+      width: 100%;
+      display: block;
+      margin-left: auto;
+    }
+
+    .edition-label {
+      font-size: .68rem;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--ink-lt);
+      margin-bottom: .5rem;
+    }
+    .big-num {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(5rem, 14vw, 9rem);
+      font-weight: 700;
+      line-height: 1;
+      color: var(--ink);
+      letter-spacing: -.02em;
+    }
+    .gold-rule {
+      width: 56px;
+      height: 2px;
+      background: var(--gold);
+      margin: 1rem 0 1rem auto;
+    }
+    .dateline {
+      font-family: 'Source Serif 4', serif;
+      font-style: italic;
+      font-size: .78rem;
+      color: var(--ink-lt);
+      letter-spacing: .02em;
+    }
+
+    /* right — editorial copy */
+    .right {
+      padding-left: 2.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .kicker {
+      font-size: .68rem;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--gold-d);
+      margin-bottom: .75rem;
+      font-weight: 400;
+    }
+    .headline {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.35rem, 3vw, 1.9rem);
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+      color: var(--ink);
+    }
+    .body-copy {
+      font-family: 'Source Serif 4', serif;
+      font-size: .92rem;
+      line-height: 1.75;
+      color: var(--ink-mid);
+      margin-bottom: 1.6rem;
+    }
+
+    /* actions */
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .65rem;
+      margin-bottom: 1.8rem;
+    }
+    .btn-primary {
+      display: inline-block;
+      background: var(--ink);
+      color: var(--sand);
+      font-family: 'DM Sans', sans-serif;
+      font-size: .75rem;
+      font-weight: 400;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: .6rem 1.4rem;
+      transition: background .2s;
+    }
+    .btn-primary:hover { background: var(--gold-d); }
+    .btn-outline {
+      display: inline-block;
+      border: 1px solid var(--rule);
+      color: var(--ink-mid);
+      font-family: 'DM Sans', sans-serif;
+      font-size: .75rem;
+      font-weight: 400;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: .6rem 1.4rem;
+      transition: border-color .2s, color .2s;
+    }
+    .btn-outline:hover { border-color: var(--gold); color: var(--gold-d); }
+
+    /* suggested links */
+    .suggest-label {
+      font-size: .7rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--ink-lt);
+      margin-bottom: .6rem;
+    }
+    .suggest-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: .3rem;
+    }
+    .suggest-list li::before {
+      content: '→ ';
+      color: var(--gold);
+      font-size: .8rem;
+    }
+    .suggest-list a {
+      font-family: 'Source Serif 4', serif;
+      font-size: .82rem;
+      color: var(--ink-mid);
+      text-decoration: none;
+      transition: color .2s;
+    }
+    .suggest-list a:hover { color: var(--gold-d); text-decoration: underline; }
+
+    /* ── FOOTER ───────────────────────────────────── */
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 1.1rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: .5rem;
+    }
+    .footer-brand {
+      font-family: 'Playfair Display', serif;
+      font-size: .85rem;
+      font-weight: 700;
+      color: var(--ink-lt);
+    }
+    .footer-brand span { color: var(--gold); }
+    .footer-copy {
+      font-size: .72rem;
+      color: var(--ink-lt);
+      letter-spacing: .03em;
+    }
+
+    /* ── RESPONSIVE ───────────────────────────────── */
+    @media (max-width: 600px) {
+      .card {
+        grid-template-columns: 1fr;
+        gap: 0;
+      }
+      .divider { display: none; }
+      .left {
+        align-items: flex-start;
+        text-align: left;
+        padding-right: 0;
+        padding-bottom: 1.5rem;
+        margin-bottom: 1.5rem;
+        border-bottom: 1px solid var(--rule);
+      }
+      .img-wrap { text-align: left; }
+      .img-wrap img { margin-left: 0; max-width: 200px; }
+      .gold-rule { margin: 1rem 0; }
+      .right { padding-left: 0; }
+      nav { gap: 1rem; flex-wrap: wrap; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-top">
+      <a class="wordmark" href="/index.html">Duna Press<span>Jr</span></a>
+      <span class="header-tag">Análises independentes · Global</span>
+    </div>
+    <nav>
+      <a href="/index.html">Início</a>
+      <a href="/index.html#videos">Vídeos</a>
+      <a href="/index.html#artigos">Artigos</a>
+      <a href="/index.html#categorias">Categorias</a>
+      <a href="/index.html#newsletter">Newsletter</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="card">
+
+      <div class="left">
+        <div class="img-wrap">
+          <img src="https://raw.githubusercontent.com/app-algoritmo/dunapressjr/main/404.jpg" alt="Duna Press Jr" />
+        </div>
+        <p class="edition-label">Erro de edição</p>
+        <p class="big-num">404</p>
+        <div class="gold-rule"></div>
+        <p class="dateline" id="dateline">Duna Press Jr</p>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="right">
+        <p class="kicker">Página não encontrada</p>
+        <h1 class="headline">Esta página saiu de circulação</h1>
+        <p class="body-copy">
+          O artigo que procura pode ter sido removido, renomeado ou simplesmente nunca ter existido nesta edição. Os nossos arquivos estão intactos — tente navegar pelas categorias ou regressar à primeira página.
+        </p>
+        <div class="actions">
+          <a class="btn-primary" href="/index.html">Primeira página</a>
+          <a class="btn-outline" href="/index.html#categorias">Ver categorias</a>
+        </div>
+        <p class="suggest-label">Pode também explorar</p>
+        <ul class="suggest-list">
+          <li><a href="/index.html#economia">Economia & Negócios</a></li>
+          <li><a href="/index.html#tecnologia">Ciência & Tecnologia</a></li>
+          <li><a href="/index.html#magazine">Magazine</a></li>
+          <li><a href="/index.html#videos">Vídeos em destaque</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </main>
+
+  <footer>
+    <span class="footer-brand">Duna Press<span>Jr</span></span>
+    <span class="footer-copy">© <span id="year"></span> Duna Press Jr · Análises independentes sobre assuntos globais</span>
+  </footer>
+
+  <script>
+    const months = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
+    const d = new Date();
+    document.getElementById('dateline').textContent =
+      d.getDate() + ' de ' + months[d.getMonth()] + ' de ' + d.getFullYear();
+    document.getElementById('year').textContent = d.getFullYear();
+  </script>
+
+</body>
+</html>
