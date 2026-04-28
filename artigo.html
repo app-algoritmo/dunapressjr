@@ -584,15 +584,15 @@ async function loadArticle(){
         document.getElementById('loadingSpinner').classList.add('hidden');
         document.getElementById('articleContainer').classList.remove('hidden');
         loadRelated(catSlug, filePath);
+   
     }catch(e){
         document.getElementById('loadingSpinner').classList.add('hidden');
         document.getElementById('errorBox').classList.remove('hidden');
-        // Set error date
         const ed = document.getElementById('errorDate');
         if(ed) ed.textContent = new Date().toLocaleDateString('pt-BR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-        // Load random suggestions from search-index
         loadErrorSuggestions();
     }
+}
 }
 function shareArticle(p){const url=window.location.href,title=document.getElementById('artTitle').textContent;const t=encodeURIComponent(title+' — Duna Press'),eu=encodeURIComponent(url);if(p==='copy')navigator.clipboard.writeText(url).then(()=>showToast('🔗 Link copiado!')).catch(()=>prompt('Copiar:',url));else if(p==='whatsapp')window.open(`https://wa.me/?text=${t}%20${eu}`,'_blank');else if(p==='twitter')window.open(`https://x.com/intent/tweet?text=${t}&url=${eu}`,'_blank');}
 async function handleSidebarNewsletter(event) {event.preventDefault();const email = document.getElementById('sidebarEmail').value.trim();const btn = document.getElementById('sidebarNewsBtn');const msg = document.getElementById('sidebarNewsMsg');btn.disabled = true; btn.textContent = '...';try {const { error } = await _supabase.from('newsletter').insert([{ email }]);if (error && error.code !== '23505') throw error;msg.classList.remove('hidden');document.getElementById('sidebarNewsletterForm').classList.add('hidden');} catch(e) {btn.disabled = false; btn.textContent = 'Inscrever-se';showToast('Erro ao inscrever. Tente novamente.', 'error');}}
