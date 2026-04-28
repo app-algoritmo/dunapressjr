@@ -2,7 +2,7 @@
 title: Revogação de Decisão sobre Aborto nos EUA Causa Disputa Política
 date: 2024-03-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

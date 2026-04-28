@@ -3,7 +3,7 @@ title: Seif critica investigação contra Bolsonaro e pede ajuda para vítimas d
   em SC
 date: 2023-11-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: 'The Great Famine Reset: Você não terá nada e passará fome'
 date: 2023-07-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

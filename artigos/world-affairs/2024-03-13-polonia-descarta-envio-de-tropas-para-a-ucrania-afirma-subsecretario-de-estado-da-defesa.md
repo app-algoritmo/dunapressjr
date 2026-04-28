@@ -3,7 +3,7 @@ title: Polônia descarta envio de tropas para a Ucrânia, afirma subsecretário 
   da Defesa
 date: 2024-03-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

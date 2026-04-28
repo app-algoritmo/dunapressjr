@@ -2,7 +2,7 @@
 title: Os perigos da carne falsa, a carne mais tóxica do mundo, eles enganaram você
 date: 2023-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

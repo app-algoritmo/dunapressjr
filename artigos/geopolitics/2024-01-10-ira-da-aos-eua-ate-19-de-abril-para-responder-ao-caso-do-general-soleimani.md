@@ -2,7 +2,7 @@
 title: Irã dá aos EUA até 19 de abril para responder ao caso do general Soleimani
 date: 2024-01-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

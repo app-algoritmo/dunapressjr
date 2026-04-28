@@ -3,7 +3,7 @@ title: Como o Partido Comunista Chinês explorou COVID e Big Pharma para travar 
   contra os EUA
 date: 2023-05-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Policial que atuou na defesa do Congresso no 8 de janeiro fala à CPMI na quinta
 date: 2023-10-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

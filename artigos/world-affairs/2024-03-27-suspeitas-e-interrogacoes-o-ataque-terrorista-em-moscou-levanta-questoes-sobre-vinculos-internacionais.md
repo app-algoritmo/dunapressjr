@@ -3,7 +3,7 @@ title: 'Suspeitas e Interrogações: O Ataque Terrorista em Moscou Levanta Quest
   Sobre Vínculos Internacionais'
 date: 2024-03-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

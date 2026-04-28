@@ -2,7 +2,7 @@
 title: Alunos de um instituto canadense se rebelam contra os 'banheiros transgêneros'
 date: 2023-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

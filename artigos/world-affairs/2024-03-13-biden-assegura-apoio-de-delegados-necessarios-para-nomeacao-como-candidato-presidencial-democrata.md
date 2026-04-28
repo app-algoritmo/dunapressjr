@@ -3,7 +3,7 @@ title: Biden assegura apoio de delegados necessários para nomeação como candi
   presidencial democrata
 date: 2024-03-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

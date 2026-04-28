@@ -3,7 +3,7 @@ title: Cientistas estão perplexos depois de descobrir que a Antártica não esq
   há mais de 70 anos
 date: 2023-05-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

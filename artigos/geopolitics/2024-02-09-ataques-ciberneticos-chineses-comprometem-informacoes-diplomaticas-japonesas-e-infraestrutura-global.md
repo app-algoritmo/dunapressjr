@@ -3,7 +3,7 @@ title: Ataques Cibernéticos Chineses Comprometem Informações Diplomáticas Ja
   e Infraestrutura Global
 date: 2024-02-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

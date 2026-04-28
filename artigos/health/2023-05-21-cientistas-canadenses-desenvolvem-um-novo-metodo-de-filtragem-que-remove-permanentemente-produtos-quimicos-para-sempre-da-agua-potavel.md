@@ -3,7 +3,7 @@ title: Cientistas canadenses desenvolvem um novo método de filtragem que remove
   produtos químicos “para sempre” da água potável
 date: 2023-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

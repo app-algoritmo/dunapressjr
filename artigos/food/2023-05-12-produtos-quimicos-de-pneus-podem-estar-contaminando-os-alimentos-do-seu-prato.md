@@ -2,7 +2,7 @@
 title: Produtos químicos de pneus podem estar contaminando os alimentos do seu prato
 date: 2023-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

@@ -2,7 +2,7 @@
 title: Múcio descarta envolvimento de Forças Armadas em atos no dia 8
 date: 2023-01-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: 'Vacinas Climáticas: A Nova Fronteira da Agenda Globalista'
 date: 2024-06-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

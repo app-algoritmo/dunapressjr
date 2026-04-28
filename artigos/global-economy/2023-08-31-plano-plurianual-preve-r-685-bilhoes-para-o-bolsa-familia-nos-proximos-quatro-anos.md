@@ -3,7 +3,7 @@ title: Plano Plurianual prevê R$ 685 bilhões para o Bolsa Família nos próxim
   anos
 date: 2023-08-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

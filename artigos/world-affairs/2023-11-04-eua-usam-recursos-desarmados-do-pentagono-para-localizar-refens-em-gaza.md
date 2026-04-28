@@ -2,7 +2,7 @@
 title: EUA usam recursos desarmados do Pentágono para localizar reféns em Gaza
 date: 2023-11-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

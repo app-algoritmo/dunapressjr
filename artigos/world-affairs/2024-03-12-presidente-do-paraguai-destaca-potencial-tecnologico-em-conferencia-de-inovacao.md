@@ -2,7 +2,7 @@
 title: Presidente do Paraguai destaca potencial tecnológico em conferência de inovação
 date: 2024-03-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

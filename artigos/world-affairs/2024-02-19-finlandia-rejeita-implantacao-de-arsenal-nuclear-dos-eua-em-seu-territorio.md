@@ -2,7 +2,7 @@
 title: Finlândia rejeita implantação de arsenal nuclear dos EUA em seu território
 date: 2024-02-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

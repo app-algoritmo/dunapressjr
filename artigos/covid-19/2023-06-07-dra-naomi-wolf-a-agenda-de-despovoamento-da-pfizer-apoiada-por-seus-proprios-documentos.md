@@ -3,7 +3,7 @@ title: 'Dra Naomi Wolf: a agenda de despovoamento da Pfizer, apoiada por seus pr
   documentos'
 date: 2023-06-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

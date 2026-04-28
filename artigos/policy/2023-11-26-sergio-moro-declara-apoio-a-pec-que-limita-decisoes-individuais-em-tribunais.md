@@ -2,7 +2,7 @@
 title: Sergio Moro declara apoio a PEC que limita decisões individuais em tribunais
 date: 2023-11-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

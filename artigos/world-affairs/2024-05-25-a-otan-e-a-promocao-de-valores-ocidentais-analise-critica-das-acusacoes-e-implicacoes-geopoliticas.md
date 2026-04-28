@@ -3,7 +3,7 @@ title: 'A OTAN e a Promoção de ''Valores Ocidentais'': Análise Crítica das A
   e Implicações Geopolíticas'
 date: 2024-05-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

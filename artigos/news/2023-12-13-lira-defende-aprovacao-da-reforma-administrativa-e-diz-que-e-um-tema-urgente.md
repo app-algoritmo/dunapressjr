@@ -2,7 +2,7 @@
 title: Lira defende aprovação da reforma administrativa e diz que é um tema urgente
 date: 2023-12-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 'Tensão Nuclear: Rússia Alerta para Resposta Direcionada às Bases da OTAN'
 date: 2024-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

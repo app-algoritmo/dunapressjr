@@ -2,7 +2,7 @@
 title: Quase um Terço dos Americanos Considera Trump e Biden Ineficazes como Líderes
 date: 2024-04-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

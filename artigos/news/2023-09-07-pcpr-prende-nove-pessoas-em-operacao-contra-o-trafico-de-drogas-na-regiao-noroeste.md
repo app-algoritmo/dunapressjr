@@ -2,7 +2,7 @@
 title: PCPR prende nove pessoas em operação contra o tráfico de drogas na região Noroeste
 date: 2023-09-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

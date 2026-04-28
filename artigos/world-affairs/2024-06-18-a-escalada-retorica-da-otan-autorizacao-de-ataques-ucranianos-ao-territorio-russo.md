@@ -3,7 +3,7 @@ title: 'A Escalada Retórica da OTAN: Autorização de Ataques Ucranianos ao Ter
   Russo'
 date: 2024-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Documentos do Facebook mostram a censura aberta e agressiva
 date: 2023-08-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

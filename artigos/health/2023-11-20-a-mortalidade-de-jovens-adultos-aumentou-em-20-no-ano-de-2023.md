@@ -2,7 +2,7 @@
 title: A mortalidade de jovens adultos aumentou em 20% no ano de 2023
 date: 2023-11-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

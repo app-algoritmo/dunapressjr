@@ -2,7 +2,7 @@
 title: Os 10 principais combustíveis para o câncer
 date: 2023-04-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Após concurso histórico, Macrorregião de Curitiba ganha 1.452 policiais militares
 date: 2023-09-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

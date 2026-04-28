@@ -3,7 +3,7 @@ title: Os planos do Ocidente para enfraquecer a autonomia da Rússia não funcio
   diz Lavrov
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

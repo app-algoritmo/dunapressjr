@@ -2,7 +2,7 @@
 title: Chico Rodrigues se manifesta contra a descriminalização do porte de drogas
 date: 2023-09-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

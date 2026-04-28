@@ -2,7 +2,7 @@
 title: Confúcio Moura aponta alguns motivos que impedem o crescimento do país
 date: 2023-09-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Erdogan discute com Rutte a escolha do próximo chefe da OTAN em telefonema
 date: 2024-04-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

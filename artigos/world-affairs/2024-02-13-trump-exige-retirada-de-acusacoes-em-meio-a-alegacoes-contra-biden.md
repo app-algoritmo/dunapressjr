@@ -2,7 +2,7 @@
 title: Trump Exige Retirada de Acusações em Meio a Alegações Contra Biden
 date: 2024-02-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

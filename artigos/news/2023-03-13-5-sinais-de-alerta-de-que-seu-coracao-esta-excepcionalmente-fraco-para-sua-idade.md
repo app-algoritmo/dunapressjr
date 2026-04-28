@@ -3,7 +3,7 @@ title: 5 sinais de alerta de que seu coração está excepcionalmente fraco para
   idade
 date: 2023-03-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

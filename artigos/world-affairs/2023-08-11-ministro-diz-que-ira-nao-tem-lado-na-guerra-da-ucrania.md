@@ -2,7 +2,7 @@
 title: Ministro diz que Irã não tem lado na guerra da Ucrânia
 date: 2023-08-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

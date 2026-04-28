@@ -3,7 +3,7 @@ title: 'Do zero líquido ao glifosato: a tomada de poder corporativa esverdeada 
   Agritech'
 date: 2023-06-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

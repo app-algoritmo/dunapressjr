@@ -3,7 +3,7 @@ title: Biden roubou US $ 1 bilhão dos contribuintes dos EUA ao pagar a mais por
   de “teste” chineses
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

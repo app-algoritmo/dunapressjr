@@ -3,7 +3,7 @@ title: 'Projeto de Lei C-63 no Canadá: Proteção infantil ou ameaça à liberd
   expressão?'
 date: 2024-03-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Tesouro de evidências incriminatórias sobre a origem do COVID
 date: 2023-08-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

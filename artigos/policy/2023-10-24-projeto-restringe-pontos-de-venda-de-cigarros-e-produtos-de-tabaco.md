@@ -2,7 +2,7 @@
 title: Projeto restringe pontos de venda de cigarros e produtos de tabaco
 date: 2023-10-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

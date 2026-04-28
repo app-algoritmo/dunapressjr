@@ -3,7 +3,7 @@ title: Secretário estadual de Segurança Pública presta contas na Alesp e dest
   com municípios
 date: 2023-10-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

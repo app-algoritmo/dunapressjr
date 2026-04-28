@@ -2,7 +2,7 @@
 title: China apela à moderação após ataques dos EUA à Síria e ao Iraque
 date: 2024-02-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

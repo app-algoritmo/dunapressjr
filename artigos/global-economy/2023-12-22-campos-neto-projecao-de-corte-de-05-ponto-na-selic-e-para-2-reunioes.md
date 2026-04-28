@@ -2,7 +2,7 @@
 title: 'Campos Neto: projeção de corte de 0,5 ponto na Selic é para 2 reuniões'
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

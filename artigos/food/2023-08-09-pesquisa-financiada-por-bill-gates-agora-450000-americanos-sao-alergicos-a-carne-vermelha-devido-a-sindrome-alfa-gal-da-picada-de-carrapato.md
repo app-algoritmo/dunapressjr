@@ -3,7 +3,7 @@ title: 'Pesquisa financiada por Bill Gates: agora 450.000 americanos são alérg
   a carne vermelha devido à ''síndrome alfa-gal'' da picada de carrapato'
 date: 2023-08-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

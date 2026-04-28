@@ -2,7 +2,7 @@
 title: 'Os arquivos do gene da vacina: uma descoberta acidental'
 date: 2023-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

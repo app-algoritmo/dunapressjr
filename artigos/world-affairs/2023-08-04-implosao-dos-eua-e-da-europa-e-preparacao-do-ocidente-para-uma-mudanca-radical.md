@@ -2,7 +2,7 @@
 title: Implosão dos EUA e da Europa e preparação do Ocidente para uma mudança radical
 date: 2023-08-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

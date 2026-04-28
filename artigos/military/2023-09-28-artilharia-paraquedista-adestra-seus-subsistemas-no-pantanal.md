@@ -2,7 +2,7 @@
 title: Artilharia Paraquedista adestra seus subsistemas no Pantanal
 date: 2023-09-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

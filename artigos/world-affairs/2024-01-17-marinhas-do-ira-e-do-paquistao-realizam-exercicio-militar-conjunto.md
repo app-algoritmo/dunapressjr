@@ -2,7 +2,7 @@
 title: Marinhas do Irã e do Paquistão realizam exercício militar conjunto
 date: 2024-01-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

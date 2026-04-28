@@ -3,7 +3,7 @@ title: Comissão da Câmara dos EUA Propõe Proibição do TikTok e Outros aplic
   Empresas Estrangeiras
 date: 2024-03-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

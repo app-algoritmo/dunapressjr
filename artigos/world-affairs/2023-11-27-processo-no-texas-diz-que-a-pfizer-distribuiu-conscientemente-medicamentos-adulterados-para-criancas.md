@@ -3,7 +3,7 @@ title: Processo no Texas diz que a Pfizer “distribuiu conscientemente” medic
   adulterados para crianças
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

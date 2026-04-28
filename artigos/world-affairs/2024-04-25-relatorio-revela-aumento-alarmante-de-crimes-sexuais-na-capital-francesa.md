@@ -2,7 +2,7 @@
 title: Relatório Revela Aumento Alarmante de Crimes Sexuais na Capital Francesa
 date: 2024-04-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'A Geoeconomia em Disputa: China e UE Competem pelo Sul Global'
 date: 2024-05-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

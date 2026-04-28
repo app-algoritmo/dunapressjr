@@ -3,7 +3,7 @@ title: Estudo mostra que as cerejas podem promover a perda de peso, melhorar a s
   do coração e tratar a gota
 date: 2023-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

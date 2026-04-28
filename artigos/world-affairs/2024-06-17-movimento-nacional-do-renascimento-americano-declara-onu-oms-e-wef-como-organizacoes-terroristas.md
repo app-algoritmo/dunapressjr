@@ -3,7 +3,7 @@ title: Movimento Nacional do Renascimento Americano Declara ONU, OMS e WEF como 
   Terroristas
 date: 2024-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

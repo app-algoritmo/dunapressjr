@@ -2,7 +2,7 @@
 title: A mídia encobre a perseguição aos não vacinados
 date: 2023-04-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

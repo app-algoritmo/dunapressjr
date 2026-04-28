@@ -3,7 +3,7 @@ title: ONU tomando medidas rápidas após acusações contra vários funcionári
   diz Guterres
 date: 2024-01-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

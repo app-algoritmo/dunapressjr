@@ -3,7 +3,7 @@ title: Comissão aprova projeto que obriga motorista alcoolizado a pagar custos 
   atendimento a vítimas
 date: 2023-10-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

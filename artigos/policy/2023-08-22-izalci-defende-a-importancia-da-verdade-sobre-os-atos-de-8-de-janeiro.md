@@ -2,7 +2,7 @@
 title: Izalci defende a importância da verdade sobre os atos de 8 de janeiro
 date: 2023-08-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

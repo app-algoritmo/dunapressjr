@@ -3,7 +3,7 @@ title: Lula, apoiado por Biden e pela CIA, anuncia que tem orgulho de ser chamad
   de comunista e socialista
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

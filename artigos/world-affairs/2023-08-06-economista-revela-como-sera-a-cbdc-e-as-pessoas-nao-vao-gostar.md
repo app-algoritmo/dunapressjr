@@ -2,7 +2,7 @@
 title: Economista revela como será a CBDC (e as pessoas não vão gostar)
 date: 2023-08-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

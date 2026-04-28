@@ -2,7 +2,7 @@
 title: Kajuru elogia medidas do CNJ para elevar grau de confiança no Judiciário
 date: 2023-10-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

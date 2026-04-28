@@ -3,7 +3,7 @@ title: UE apoia plano de Bill Gates para 'combater o aquecimento global' bloquea
   a luz solar
 date: 2023-08-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

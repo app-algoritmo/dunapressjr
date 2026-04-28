@@ -2,7 +2,7 @@
 title: A Importância Vital da Leitura na Construção Social Humana
 date: 2024-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Books
 ---

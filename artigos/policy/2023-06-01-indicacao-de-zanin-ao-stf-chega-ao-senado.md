@@ -2,7 +2,7 @@
 title: Indicação de Zanin ao STF chega ao Senado
 date: 2023-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

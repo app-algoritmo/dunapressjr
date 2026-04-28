@@ -2,7 +2,7 @@
 title: 'A automação da guerra nuclear: um aviso de Scott Ritter'
 date: 2024-06-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

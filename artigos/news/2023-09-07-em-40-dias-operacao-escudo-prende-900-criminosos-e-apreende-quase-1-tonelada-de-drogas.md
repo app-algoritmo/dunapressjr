@@ -3,7 +3,7 @@ title: Em 40 dias, Operação Escudo prende 900 criminosos e apreende quase 1 to
   de drogas
 date: 2023-09-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

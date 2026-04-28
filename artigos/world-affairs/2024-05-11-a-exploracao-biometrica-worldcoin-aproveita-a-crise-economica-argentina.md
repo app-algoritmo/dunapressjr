@@ -2,7 +2,7 @@
 title: 'A Exploração Biométrica: Worldcoin Aproveita a Crise Econômica Argentina'
 date: 2024-05-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

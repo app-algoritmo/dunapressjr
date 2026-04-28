@@ -2,7 +2,7 @@
 title: Justiça proíbe apreensão sem motivo de crianças e adolescentes no Rio
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

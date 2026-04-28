@@ -3,7 +3,7 @@ title: Pelo menos 90% dos alimentos processados, incluindo orgânicos, agora con
   Óleo de Canola entorpecente e indutor de obesidade
 date: 2023-06-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

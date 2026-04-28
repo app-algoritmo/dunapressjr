@@ -2,7 +2,7 @@
 title: Crise na segurança pública é analisada de forma equivocada e covarde, diz Kajuru
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

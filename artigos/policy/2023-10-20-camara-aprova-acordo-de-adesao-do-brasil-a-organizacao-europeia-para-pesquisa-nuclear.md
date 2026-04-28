@@ -3,7 +3,7 @@ title: Câmara aprova acordo de adesão do Brasil à Organização Europeia para
   Nuclear
 date: 2023-10-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Descobriu-se que a iniciativa de notícias liderada pela BBC contribuiu m
   para as mortes de COVID ao censurar informações
 date: 2023-05-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

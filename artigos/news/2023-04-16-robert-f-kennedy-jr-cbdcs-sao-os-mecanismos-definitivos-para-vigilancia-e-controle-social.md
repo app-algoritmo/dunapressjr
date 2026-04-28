@@ -3,7 +3,7 @@ title: 'Robert F. Kennedy Jr: “CBDCs são os mecanismos definitivos para vigil
   e controle social”'
 date: 2023-04-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

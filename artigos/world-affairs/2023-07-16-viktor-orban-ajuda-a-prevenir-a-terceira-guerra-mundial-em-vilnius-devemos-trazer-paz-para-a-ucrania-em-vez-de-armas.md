@@ -3,7 +3,7 @@ title: 'Viktor Orbán ajuda a prevenir a Terceira Guerra Mundial em Vilnius: ''D
   trazer paz para a Ucrânia em vez de armas''!'
 date: 2023-07-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

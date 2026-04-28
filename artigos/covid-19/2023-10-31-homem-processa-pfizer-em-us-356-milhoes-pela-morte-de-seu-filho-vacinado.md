@@ -2,7 +2,7 @@
 title: Homem processa Pfizer em US$ 35,6 milhões pela morte de seu filho vacinado
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Biometria de Pulso Ganha Força com Parcerias Estratégicas e Expansão Global
 date: 2024-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Technology
 ---

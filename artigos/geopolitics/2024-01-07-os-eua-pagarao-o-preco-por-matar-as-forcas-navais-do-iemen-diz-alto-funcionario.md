@@ -2,7 +2,7 @@
 title: Os EUA pagarão o preço por matar as forças navais do Iêmen, diz alto funcionário
 date: 2024-01-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

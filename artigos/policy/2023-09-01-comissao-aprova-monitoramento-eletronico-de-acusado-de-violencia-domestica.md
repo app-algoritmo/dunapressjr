@@ -2,7 +2,7 @@
 title: Comissão aprova monitoramento eletrônico de acusado de violência doméstica
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

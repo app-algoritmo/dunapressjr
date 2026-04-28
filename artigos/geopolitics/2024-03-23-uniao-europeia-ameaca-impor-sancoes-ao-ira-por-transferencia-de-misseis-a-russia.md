@@ -2,7 +2,7 @@
 title: União Europeia Ameaça Impor Sanções ao Irã por Transferência de Mísseis à Rússia
 date: 2024-03-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

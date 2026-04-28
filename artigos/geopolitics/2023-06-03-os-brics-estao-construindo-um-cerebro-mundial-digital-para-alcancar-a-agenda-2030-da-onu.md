@@ -3,7 +3,7 @@ title: Os BRICS estão construindo um cérebro mundial digital para alcançar a 
   2030 da ONU
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

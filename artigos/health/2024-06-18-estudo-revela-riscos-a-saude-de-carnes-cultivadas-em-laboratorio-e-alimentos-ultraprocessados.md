@@ -3,7 +3,7 @@ title: Estudo Revela Riscos à Saúde de Carnes Cultivadas em Laboratório e Ali
   Ultraprocessados
 date: 2024-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

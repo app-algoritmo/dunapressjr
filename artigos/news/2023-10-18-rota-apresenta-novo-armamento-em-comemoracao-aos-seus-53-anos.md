@@ -2,7 +2,7 @@
 title: Rota apresenta novo armamento em comemoração aos seus 53 anos
 date: 2023-10-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

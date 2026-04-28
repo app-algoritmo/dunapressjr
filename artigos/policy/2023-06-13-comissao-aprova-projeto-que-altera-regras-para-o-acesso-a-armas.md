@@ -2,7 +2,7 @@
 title: Comissão aprova projeto que altera regras para o acesso a armas
 date: 2023-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Cientista do Deep State fala sobre clonagem
 date: 2023-04-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

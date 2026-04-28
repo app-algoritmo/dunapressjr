@@ -3,7 +3,7 @@ title: Chefe da OMS Desencadeia Controvérsia ao Declarar Guerra à Carne e à A
   em Nome do Clima
 date: 2024-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

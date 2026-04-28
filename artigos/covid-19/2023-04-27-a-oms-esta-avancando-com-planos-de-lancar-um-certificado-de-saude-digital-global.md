@@ -2,7 +2,7 @@
 title: A OMS está avançando com planos de lançar um certificado de saúde digital global
 date: 2023-04-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

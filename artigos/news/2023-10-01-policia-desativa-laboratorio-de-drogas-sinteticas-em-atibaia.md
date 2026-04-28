@@ -2,7 +2,7 @@
 title: Polícia desativa laboratório de drogas sintéticas em Atibaia
 date: 2023-10-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

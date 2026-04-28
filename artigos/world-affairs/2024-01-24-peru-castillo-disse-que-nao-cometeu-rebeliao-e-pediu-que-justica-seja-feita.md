@@ -2,7 +2,7 @@
 title: 'Peru: Castillo disse que não cometeu rebelião e pediu que “justiça seja feita”'
 date: 2024-01-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

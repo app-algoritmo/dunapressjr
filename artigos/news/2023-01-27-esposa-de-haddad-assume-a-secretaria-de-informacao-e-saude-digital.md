@@ -2,7 +2,7 @@
 title: Esposa de Haddad assume a Secretaria de Informação e Saúde Digital
 date: 2023-01-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

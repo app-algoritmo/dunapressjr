@@ -3,7 +3,7 @@ title: Senado envia ao Executivo sugestão de cidadão pelo fim da pensão de fi
   filha de militar
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

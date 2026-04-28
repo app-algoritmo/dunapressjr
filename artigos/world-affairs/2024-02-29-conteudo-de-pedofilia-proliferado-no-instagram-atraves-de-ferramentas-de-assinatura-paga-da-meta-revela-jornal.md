@@ -3,7 +3,7 @@ title: Conteúdo de pedofilia proliferado no Instagram através de ferramentas d
   paga da Meta, revela jornal
 date: 2024-02-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

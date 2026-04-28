@@ -2,7 +2,7 @@
 title: 'Kajuru: STF tem maioria para permitir que governo pague precatórios até 2026'
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

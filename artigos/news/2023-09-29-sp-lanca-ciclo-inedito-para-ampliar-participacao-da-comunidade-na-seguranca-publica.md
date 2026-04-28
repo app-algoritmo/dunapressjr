@@ -3,7 +3,7 @@ title: SP lança ciclo inédito para ampliar participação da comunidade na seg
   pública
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

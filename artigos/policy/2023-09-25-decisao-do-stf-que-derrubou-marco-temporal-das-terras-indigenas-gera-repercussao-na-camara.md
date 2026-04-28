@@ -3,7 +3,7 @@ title: Decisão do STF que derrubou marco temporal das terras indígenas gera re
   na Câmara
 date: 2023-09-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

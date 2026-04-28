@@ -3,7 +3,7 @@ title: Rússia Envia Navios de Guerra para o Caribe em Resposta a Ataques Ucrani
   Autorizados pelos EUA
 date: 2024-06-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

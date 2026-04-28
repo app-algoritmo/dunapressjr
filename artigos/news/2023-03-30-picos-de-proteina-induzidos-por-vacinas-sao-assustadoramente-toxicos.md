@@ -2,7 +2,7 @@
 title: Picos de proteína induzidos por vacinas são assustadoramente tóxicos
 date: 2023-03-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: A carne é importante para a saúde humana, dizem os cientistas, pedindo 
   dos 'fanáticos' que promovem dietas vegetarianas e veganas
 date: 2023-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

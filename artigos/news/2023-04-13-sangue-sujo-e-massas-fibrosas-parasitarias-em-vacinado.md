@@ -2,7 +2,7 @@
 title: '''Sangue sujo'' e massas fibrosas parasitárias em ''vacinado'''
 date: 2023-04-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

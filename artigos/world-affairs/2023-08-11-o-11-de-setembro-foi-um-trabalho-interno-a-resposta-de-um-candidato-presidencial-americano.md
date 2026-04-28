@@ -3,7 +3,7 @@ title: O 11 de setembro foi um trabalho interno? A resposta de um candidato pre
   americano
 date: 2023-08-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

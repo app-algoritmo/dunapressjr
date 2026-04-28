@@ -3,7 +3,7 @@ title: FDA aprova primeiros testes em humanos para a empresa de chips cerebrais 
   Elon Musk, Neuralink
 date: 2023-05-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Technology
 ---

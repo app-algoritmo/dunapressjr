@@ -3,7 +3,7 @@ title: Estudo mostra que cerca de 13 milhões de pessoas morreram por causa das 
   da Covid
 date: 2023-02-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

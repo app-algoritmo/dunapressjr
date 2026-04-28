@@ -2,7 +2,7 @@
 title: One Health dará ao ditador-geral da OMS o poder de impor bloqueios climáticos
 date: 2023-05-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Biden está prestes a declarar uma “emergência climática”
 date: 2023-08-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

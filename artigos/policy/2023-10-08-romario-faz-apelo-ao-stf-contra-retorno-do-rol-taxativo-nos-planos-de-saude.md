@@ -2,7 +2,7 @@
 title: Romário faz apelo ao STF contra retorno do rol taxativo nos planos de saúde
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

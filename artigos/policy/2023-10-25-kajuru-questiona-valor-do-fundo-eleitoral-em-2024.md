@@ -2,7 +2,7 @@
 title: Kajuru questiona valor do fundo eleitoral em 2024
 date: 2023-10-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

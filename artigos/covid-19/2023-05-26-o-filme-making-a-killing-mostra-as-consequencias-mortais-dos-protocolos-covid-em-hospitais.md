@@ -3,7 +3,7 @@ title: O filme 'Making A Killing' mostra as consequências mortais dos protocolo
   em hospitais
 date: 2023-05-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

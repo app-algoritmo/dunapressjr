@@ -2,7 +2,7 @@
 title: A Escalada do Envolvimento da OTAN e da Romênia na Guerra da Ucrânia
 date: 2024-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

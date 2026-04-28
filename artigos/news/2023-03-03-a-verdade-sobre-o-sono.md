@@ -2,7 +2,7 @@
 title: A verdade sobre o sono
 date: 2023-03-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

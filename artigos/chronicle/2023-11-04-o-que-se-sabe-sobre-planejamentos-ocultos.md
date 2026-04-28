@@ -2,7 +2,7 @@
 title: O que se sabe sobre  planejamentos ocultos?
 date: 2023-11-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Chronicle
 ---

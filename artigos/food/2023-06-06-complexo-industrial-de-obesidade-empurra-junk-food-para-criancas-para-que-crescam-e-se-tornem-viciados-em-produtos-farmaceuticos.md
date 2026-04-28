@@ -3,7 +3,7 @@ title: Complexo Industrial de Obesidade empurra junk food para crianças para qu
   e se tornem viciados em produtos farmacêuticos
 date: 2023-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

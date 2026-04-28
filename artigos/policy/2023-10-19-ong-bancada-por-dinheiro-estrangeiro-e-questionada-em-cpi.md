@@ -2,7 +2,7 @@
 title: ONG bancada por dinheiro estrangeiro é questionada em CPI
 date: 2023-10-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

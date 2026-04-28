@@ -2,7 +2,7 @@
 title: Derretimento das calotas polares e o mundo em chamas vs. realidade
 date: 2023-08-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

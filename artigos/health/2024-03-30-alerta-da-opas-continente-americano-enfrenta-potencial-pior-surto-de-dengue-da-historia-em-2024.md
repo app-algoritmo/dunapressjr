@@ -3,7 +3,7 @@ title: 'Alerta da Opas: Continente Americano enfrenta potencial pior surto de de
   da história em 2024'
 date: 2024-03-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

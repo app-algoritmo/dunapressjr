@@ -3,7 +3,7 @@ title: Evidências de crimes de “vacinas” entregues ao governador e procurad
   do Tennessee
 date: 2023-09-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Biden Vetará Projeto de Lei de Financiamento para Israel sem Apoio à Uc
   e Proteção de Fronteiras
 date: 2024-02-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

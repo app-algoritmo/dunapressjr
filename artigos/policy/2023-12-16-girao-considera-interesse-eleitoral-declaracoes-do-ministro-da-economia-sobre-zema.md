@@ -3,7 +3,7 @@ title: Girão considera 'interesse eleitoral' declarações do ministro da Econo
   Zema
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

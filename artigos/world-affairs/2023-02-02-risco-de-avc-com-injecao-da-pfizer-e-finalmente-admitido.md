@@ -2,7 +2,7 @@
 title: Risco de AVC com injeção da Pfizer é finalmente admitido
 date: 2023-02-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

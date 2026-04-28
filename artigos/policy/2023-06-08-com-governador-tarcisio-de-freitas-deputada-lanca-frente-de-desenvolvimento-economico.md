@@ -3,7 +3,7 @@ title: Com governador Tarcísio de Freitas, deputada lança Frente de Desenvolvi
   Econômico
 date: 2023-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

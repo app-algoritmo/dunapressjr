@@ -2,7 +2,7 @@
 title: Congresso aprova créditos adicionais de R$ 634 milhões no Orçamento deste ano
 date: 2023-12-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

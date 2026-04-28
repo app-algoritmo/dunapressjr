@@ -3,7 +3,7 @@ title: OMS pede soberania e controle sobre todos os países membros por causa da
   climática'
 date: 2023-05-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

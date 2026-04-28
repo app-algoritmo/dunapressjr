@@ -3,7 +3,7 @@ title: 'Repatriação do Ouro: África Rompe Vínculos com o Ocidente em Meio à
   Global'
 date: 2024-05-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

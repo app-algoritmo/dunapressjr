@@ -3,7 +3,7 @@ title: 'Revelações Chocantes: Cientistas da Pfizer Advertem sobre Vacinas mRNA
   COVID-19'
 date: 2024-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

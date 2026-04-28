@@ -3,7 +3,7 @@ title: George Clooney Ajuda Biden a Arrecadar Mais de US$ 30 Milhões em Evento 
   Arrecadação de Fundos
 date: 2024-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

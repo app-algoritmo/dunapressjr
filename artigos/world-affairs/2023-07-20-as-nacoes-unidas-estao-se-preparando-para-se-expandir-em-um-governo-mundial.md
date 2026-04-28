@@ -2,7 +2,7 @@
 title: As Nações Unidas estão se preparando para se expandir em um governo mundial
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

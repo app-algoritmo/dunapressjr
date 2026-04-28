@@ -3,7 +3,7 @@ title: Rishi Sunak Alerta para Risco de Escalada Nuclear em Lançamento de Campa
   Eleitoral
 date: 2024-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

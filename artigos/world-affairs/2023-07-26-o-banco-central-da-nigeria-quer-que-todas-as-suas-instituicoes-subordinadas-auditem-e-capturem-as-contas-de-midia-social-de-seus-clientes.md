@@ -3,7 +3,7 @@ title: O banco central da Nigéria quer que todas as suas instituições subordi
   auditem e capturem as contas de mídia social de seus clientes
 date: 2023-07-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Por que a vacina COVID causou um desastre de saúde pública e milhões de mortes?
 date: 2023-03-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

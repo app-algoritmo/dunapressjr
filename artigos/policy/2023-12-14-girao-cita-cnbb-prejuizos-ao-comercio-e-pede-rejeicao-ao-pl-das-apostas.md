@@ -2,7 +2,7 @@
 title: Girão cita CNBB, prejuízos ao comércio e pede rejeição ao PL das apostas
 date: 2023-12-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

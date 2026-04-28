@@ -3,7 +3,7 @@ title: A tendência crescente de cultivo de alimentos em laboratórios e as raz�
   quais isso está acontecendo
 date: 2023-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

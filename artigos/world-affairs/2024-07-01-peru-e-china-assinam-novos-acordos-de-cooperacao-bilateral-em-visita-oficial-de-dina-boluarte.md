@@ -3,7 +3,7 @@ title: Peru e China Assinam Novos Acordos de Cooperação Bilateral em Visita Of
   de Dina Boluarte
 date: 2024-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: A engenharia climática é real? A Casa Branca reitera que bloquear a lu
   não é mais uma conspiração
 date: 2023-07-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

@@ -2,7 +2,7 @@
 title: Moscou não gosta do novo programa de cooperação OTAN-Ucrânia, diz Kremlin
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

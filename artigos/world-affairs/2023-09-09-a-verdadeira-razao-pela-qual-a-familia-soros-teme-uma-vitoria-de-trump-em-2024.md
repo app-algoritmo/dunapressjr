@@ -2,7 +2,7 @@
 title: A verdadeira razão pela qual a família Soros teme uma vitória de Trump em 2024
 date: 2023-09-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

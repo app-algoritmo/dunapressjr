@@ -3,7 +3,7 @@ title: China Condena Práticas Discriminatórias dos EUA e Exige Correção de E
   Assédio e Deportação
 date: 2024-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

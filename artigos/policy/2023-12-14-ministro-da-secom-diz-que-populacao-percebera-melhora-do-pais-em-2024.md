@@ -2,7 +2,7 @@
 title: Ministro da Secom diz que população perceberá melhora do país em 2024
 date: 2023-12-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

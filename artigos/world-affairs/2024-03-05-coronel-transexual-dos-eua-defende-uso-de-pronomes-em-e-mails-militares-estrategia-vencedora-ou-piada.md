@@ -3,7 +3,7 @@ title: 'Coronel transexual dos EUA Defende Uso de Pronomes em E-mails Militares:
   Vencedora ou Piada?'
 date: 2024-03-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

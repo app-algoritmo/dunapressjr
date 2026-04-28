@@ -2,7 +2,7 @@
 title: 'A Ideologia Agressiva dos EUA: Um Paralelo com o Comunismo?'
 date: 2024-05-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

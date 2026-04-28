@@ -3,7 +3,7 @@ title: Após três dias em Paranaguá, navio-patrulha da Marinha segue em missã
   costa brasileira
 date: 2023-08-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

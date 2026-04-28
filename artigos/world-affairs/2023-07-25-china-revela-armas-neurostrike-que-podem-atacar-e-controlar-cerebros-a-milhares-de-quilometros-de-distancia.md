@@ -3,7 +3,7 @@ title: China revela 'armas Neurostrike' que podem atacar e controlar 'cérebros'
   milhares de quilômetros de distância
 date: 2023-07-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

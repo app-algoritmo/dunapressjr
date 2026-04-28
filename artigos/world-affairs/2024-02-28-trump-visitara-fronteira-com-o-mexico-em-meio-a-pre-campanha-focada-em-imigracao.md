@@ -2,7 +2,7 @@
 title: Trump Visitará Fronteira com o México em Meio a Pré-Campanha Focada em Imigração
 date: 2024-02-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

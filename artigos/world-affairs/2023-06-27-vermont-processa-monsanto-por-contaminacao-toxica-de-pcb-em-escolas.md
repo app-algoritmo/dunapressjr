@@ -2,7 +2,7 @@
 title: Vermont processa Monsanto por contaminação tóxica de PCB em escolas
 date: 2023-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

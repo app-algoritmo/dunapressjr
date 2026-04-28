@@ -3,7 +3,7 @@ title: 'A Polêmica das Cidades de 15 Minutos em Edmonton: Planejamento Urbano o
   Social?'
 date: 2024-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

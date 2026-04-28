@@ -2,7 +2,7 @@
 title: França Envia Tropas para a Ucrânia, Aumentando Tensões na Região de Slavyansk
 date: 2024-05-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

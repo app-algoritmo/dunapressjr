@@ -2,7 +2,7 @@
 title: Relator quer aprovar reforma tributária na CCJ e no Plenário até 9 de novembro
 date: 2023-10-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

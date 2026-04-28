@@ -2,7 +2,7 @@
 title: Presidente Francês Anuncia Projeto de Lei para Legalizar Morte Assistida
 date: 2024-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

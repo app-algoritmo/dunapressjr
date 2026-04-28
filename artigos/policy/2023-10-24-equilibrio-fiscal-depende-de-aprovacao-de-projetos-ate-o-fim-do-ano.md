@@ -2,7 +2,7 @@
 title: Equilíbrio fiscal depende de aprovação de projetos até o fim do ano
 date: 2023-10-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

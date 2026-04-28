@@ -3,7 +3,7 @@ title: Avanço do Programa de Identificação Digital Levanta Preocupações sob
   Individuais nos EUA
 date: 2024-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

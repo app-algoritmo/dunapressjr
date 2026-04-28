@@ -2,7 +2,7 @@
 title: 'Internista adverte sobre mRNA em alimentos: ''Muito preocupante!'''
 date: 2023-04-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

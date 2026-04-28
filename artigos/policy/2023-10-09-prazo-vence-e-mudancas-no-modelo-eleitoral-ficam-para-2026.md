@@ -2,7 +2,7 @@
 title: Prazo vence, e mudanças no modelo eleitoral ficam para 2026
 date: 2023-10-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

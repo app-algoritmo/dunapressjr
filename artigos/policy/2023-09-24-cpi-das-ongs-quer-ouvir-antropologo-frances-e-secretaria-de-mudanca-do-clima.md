@@ -2,7 +2,7 @@
 title: CPI das ONGs quer ouvir antropólogo francês e secretária de Mudança do Clima
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: O Tribunal de Justiça da Argentina torpedeia a reforma trabalhista propo
   por Milei
 date: 2024-02-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Filipinas: Supremo Tribunal proíbe arroz geneticamente modificado'
 date: 2024-05-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

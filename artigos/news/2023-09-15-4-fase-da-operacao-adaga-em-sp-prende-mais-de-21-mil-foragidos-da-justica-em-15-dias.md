@@ -3,7 +3,7 @@ title: 4ª fase da Operação Adaga em SP prende mais de 2,1 mil foragidos da Ju
   em 15 dias
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

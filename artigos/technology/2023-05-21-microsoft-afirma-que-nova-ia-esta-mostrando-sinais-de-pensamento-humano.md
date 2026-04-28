@@ -2,7 +2,7 @@
 title: Microsoft afirma que nova IA está mostrando sinais de pensamento humano
 date: 2023-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Technology
 ---

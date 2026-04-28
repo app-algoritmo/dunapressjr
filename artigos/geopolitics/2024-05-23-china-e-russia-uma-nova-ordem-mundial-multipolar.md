@@ -2,7 +2,7 @@
 title: 'China e Rússia: Uma Nova Ordem Mundial Multipolar'
 date: 2024-05-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

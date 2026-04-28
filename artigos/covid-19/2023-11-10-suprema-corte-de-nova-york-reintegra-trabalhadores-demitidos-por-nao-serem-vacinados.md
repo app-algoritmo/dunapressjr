@@ -3,7 +3,7 @@ title: Suprema Corte de Nova York reintegra trabalhadores demitidos por não ser
   vacinados
 date: 2023-11-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: CPMI do 8 de janeiro ouve Braga Netto na semana que vem
 date: 2023-09-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

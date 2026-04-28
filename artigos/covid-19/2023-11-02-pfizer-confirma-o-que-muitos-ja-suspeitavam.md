@@ -2,7 +2,7 @@
 title: Pfizer confirma o que muitos já suspeitavam
 date: 2023-11-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

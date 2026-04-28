@@ -2,7 +2,7 @@
 title: Conflito central no século 21 será entre EUA e China, diz diplomata alemão
 date: 2023-07-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

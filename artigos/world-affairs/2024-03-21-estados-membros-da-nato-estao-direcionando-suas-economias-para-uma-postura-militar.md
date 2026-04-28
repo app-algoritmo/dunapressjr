@@ -3,7 +3,7 @@ title: Estados membros da NATO estão direcionando suas economias para uma postu
   militar
 date: 2024-03-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: CPI das ONGs deve ouvir presidente do Instituto de Pesquisas Ecológicas
 date: 2023-09-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

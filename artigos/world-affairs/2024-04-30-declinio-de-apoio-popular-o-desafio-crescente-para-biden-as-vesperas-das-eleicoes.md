@@ -3,7 +3,7 @@ title: 'Declínio de Apoio Popular: O Desafio Crescente para Biden às Vésperas
   Eleições'
 date: 2024-04-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

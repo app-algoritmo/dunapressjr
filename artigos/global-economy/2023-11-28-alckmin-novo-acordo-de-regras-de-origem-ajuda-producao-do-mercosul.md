@@ -2,7 +2,7 @@
 title: 'Alckmin: novo Acordo de Regras de Origem ajuda produção do Mercosul'
 date: 2023-11-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

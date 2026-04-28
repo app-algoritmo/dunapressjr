@@ -2,7 +2,7 @@
 title: 'Retaliação: ataque com mísseis do Paquistão ao Irã'
 date: 2024-01-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

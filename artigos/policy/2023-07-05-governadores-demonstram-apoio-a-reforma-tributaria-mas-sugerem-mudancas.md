@@ -2,7 +2,7 @@
 title: Governadores demonstram apoio à reforma tributária, mas sugerem mudanças
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

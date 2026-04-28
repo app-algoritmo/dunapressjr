@@ -2,7 +2,7 @@
 title: O número de atletas com problemas cardíacos está aumentando
 date: 2023-11-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

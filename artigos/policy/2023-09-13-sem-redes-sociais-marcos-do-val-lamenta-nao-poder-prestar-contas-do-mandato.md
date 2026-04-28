@@ -2,7 +2,7 @@
 title: Sem redes sociais, Marcos do Val lamenta não poder prestar contas do mandato
 date: 2023-09-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

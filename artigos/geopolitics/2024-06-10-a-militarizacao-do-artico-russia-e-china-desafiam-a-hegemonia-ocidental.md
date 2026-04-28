@@ -2,7 +2,7 @@
 title: 'A Militarização do Ártico: Rússia e China Desafiam a Hegemonia Ocidental'
 date: 2024-06-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

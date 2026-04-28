@@ -2,7 +2,7 @@
 title: Estudos Revelam Que Mortes e Danos Relacionados ao Clima Estão Diminuindo
 date: 2024-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Republicanos da Câmara investigam que o Departamento de Estado está sub
   a censura de conservadores
 date: 2023-05-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

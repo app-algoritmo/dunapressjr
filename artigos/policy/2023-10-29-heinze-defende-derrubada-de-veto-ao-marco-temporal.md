@@ -2,7 +2,7 @@
 title: Heinze defende derrubada de veto ao marco temporal
 date: 2023-10-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: 'Paraguai: Justiça Eleitoral implementa sistema pioneiro de combate à l
   de dinheiro'
 date: 2023-12-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

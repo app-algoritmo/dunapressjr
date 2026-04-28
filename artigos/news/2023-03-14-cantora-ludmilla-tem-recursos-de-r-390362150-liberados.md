@@ -2,7 +2,7 @@
 title: Cantora Ludmilla tem recursos de R$ 3.903.621,50 liberados
 date: 2023-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

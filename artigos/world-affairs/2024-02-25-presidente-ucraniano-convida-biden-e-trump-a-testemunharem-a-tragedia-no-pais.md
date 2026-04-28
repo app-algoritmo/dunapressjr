@@ -3,7 +3,7 @@ title: Presidente Ucraniano Convida Biden e Trump a Testemunharem a 'Tragédia' 
   País
 date: 2024-02-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

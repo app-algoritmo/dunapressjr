@@ -2,7 +2,7 @@
 title: Paraná bate recorde de contratações via Agências do Trabalhador no mês de agosto
 date: 2023-09-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: China mantém meta de crescimento do PIB em 5% para 2024 em meio a desafi
   internos e externos
 date: 2024-03-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

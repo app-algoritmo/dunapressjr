@@ -3,7 +3,7 @@ title: Afirmações de que o “aquecimento global” causou o derretimento da c
   gelo da Groenlândia são absurdas
 date: 2023-08-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

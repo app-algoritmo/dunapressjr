@@ -2,7 +2,7 @@
 title: Academia Militar das Agulhas Negras realiza Operação Pirapitinga
 date: 2023-11-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

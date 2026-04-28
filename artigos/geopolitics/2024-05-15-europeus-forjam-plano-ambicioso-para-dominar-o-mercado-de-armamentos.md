@@ -2,7 +2,7 @@
 title: Europeus Forjam Plano Ambicioso para Dominar o Mercado de Armamentos
 date: 2024-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

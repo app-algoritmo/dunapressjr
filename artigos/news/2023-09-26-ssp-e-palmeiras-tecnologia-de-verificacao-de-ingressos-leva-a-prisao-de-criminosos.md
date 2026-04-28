@@ -2,7 +2,7 @@
 title: 'SSP e Palmeiras: tecnologia de verificação de ingressos leva à prisão de criminosos'
 date: 2023-09-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Oficiais da Gestapo da Alemanha nazista acompanharam investigação sobre
   de Katyn
 date: 2024-04-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

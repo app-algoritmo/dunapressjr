@@ -2,7 +2,7 @@
 title: Países da NATO enfrentam déficit de € 56 bilhões anuais em despesas de defesa
 date: 2024-03-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

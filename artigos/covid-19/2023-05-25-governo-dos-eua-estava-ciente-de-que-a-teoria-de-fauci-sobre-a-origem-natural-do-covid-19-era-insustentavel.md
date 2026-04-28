@@ -3,7 +3,7 @@ title: Governo dos EUA estava ciente de que a teoria de Fauci sobre a origem nat
   do COVID-19 era insustentável
 date: 2023-05-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

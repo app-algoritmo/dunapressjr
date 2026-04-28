@@ -2,7 +2,7 @@
 title: EUA Advertem Hungria sobre Atrasos na Adesão da Suécia à OTAN
 date: 2024-02-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

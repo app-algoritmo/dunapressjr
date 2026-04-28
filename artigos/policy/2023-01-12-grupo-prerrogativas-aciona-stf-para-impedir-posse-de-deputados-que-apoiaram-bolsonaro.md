@@ -3,7 +3,7 @@ title: Grupo Prerrogativas aciona STF para impedir posse de deputados que apoiar
   Bolsonaro
 date: 2023-01-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: China planeja recorde de 100 missões espaciais em 2024
 date: 2024-02-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

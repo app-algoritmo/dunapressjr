@@ -2,7 +2,7 @@
 title: Peixes radioativos encontrados perto de Fukushima levantam novas preocupações
 date: 2023-08-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

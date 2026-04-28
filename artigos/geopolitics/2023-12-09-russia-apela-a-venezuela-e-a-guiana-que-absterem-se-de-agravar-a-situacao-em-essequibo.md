@@ -3,7 +3,7 @@ title: Rússia apela à Venezuela e à Guiana que 'absterem-se' de agravar a sit
   em Essequibo
 date: 2023-12-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

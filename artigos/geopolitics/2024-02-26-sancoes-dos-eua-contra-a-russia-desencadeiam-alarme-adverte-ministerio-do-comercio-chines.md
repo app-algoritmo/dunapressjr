@@ -3,7 +3,7 @@ title: Sanções dos EUA Contra a Rússia Desencadeiam Alarme, Adverte Ministér
   Comércio Chinês
 date: 2024-02-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

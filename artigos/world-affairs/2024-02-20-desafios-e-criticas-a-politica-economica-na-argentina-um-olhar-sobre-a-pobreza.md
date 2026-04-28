@@ -2,7 +2,7 @@
 title: 'Desafios e Críticas à Política Econômica na Argentina: Um Olhar sobre a Pobreza'
 date: 2024-02-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

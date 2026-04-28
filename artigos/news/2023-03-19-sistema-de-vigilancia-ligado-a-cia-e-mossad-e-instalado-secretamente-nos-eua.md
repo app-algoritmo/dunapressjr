@@ -2,7 +2,7 @@
 title: Sistema de vigilância ligado à CIA e Mossad é instalado secretamente nos EUA
 date: 2023-03-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

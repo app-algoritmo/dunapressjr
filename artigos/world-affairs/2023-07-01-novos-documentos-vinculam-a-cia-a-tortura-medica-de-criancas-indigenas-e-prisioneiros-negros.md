@@ -3,7 +3,7 @@ title: Novos documentos vinculam a CIA à tortura médica de crianças indígena
   negros
 date: 2023-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

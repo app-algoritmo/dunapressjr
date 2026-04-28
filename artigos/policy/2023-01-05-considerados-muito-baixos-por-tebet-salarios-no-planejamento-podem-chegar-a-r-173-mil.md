@@ -3,7 +3,7 @@ title: Considerados 'muito baixos' por Tebet, salários no Planejamento podem ch
   a R$ 17,3 mil
 date: 2023-01-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

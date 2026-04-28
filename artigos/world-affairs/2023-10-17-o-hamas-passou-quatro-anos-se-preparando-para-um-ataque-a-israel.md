@@ -2,7 +2,7 @@
 title: O Hamas passou quatro anos se preparando para um ataque a Israel
 date: 2023-10-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

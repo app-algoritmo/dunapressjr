@@ -3,7 +3,7 @@ title: O ex-secretário de saúde do Reino Unido, Matt Hancock, transformou as c
   de repouso britânicas em campos de eutanásia
 date: 2023-08-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

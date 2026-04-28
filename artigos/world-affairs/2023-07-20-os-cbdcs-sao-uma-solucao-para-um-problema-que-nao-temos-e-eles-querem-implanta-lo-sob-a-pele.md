@@ -3,7 +3,7 @@ title: Os CBDCs são uma solução para um problema que não temos e eles querem
   sob a pele
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

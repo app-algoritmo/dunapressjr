@@ -2,7 +2,7 @@
 title: Oposição diz ter votos para derrubar veto ao marco temporal das terras indígenas
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

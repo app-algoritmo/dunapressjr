@@ -2,7 +2,7 @@
 title: Os “departamentos médicos” da OTAN desenvolveram poeira inteligente nanoparticulada
 date: 2023-09-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

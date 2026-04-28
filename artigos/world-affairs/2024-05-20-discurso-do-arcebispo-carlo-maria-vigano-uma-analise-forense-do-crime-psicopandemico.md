@@ -2,7 +2,7 @@
 title: 'Discurso do Arcebispo Carlo Maria Viganò: Uma Análise Forense do Crime Psicopandêmico'
 date: 2024-05-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

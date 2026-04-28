@@ -2,7 +2,7 @@
 title: CPI das Pirâmides Financeiras ouve o ex-jogador Ronaldinho Gaúcho na terça
 date: 2023-08-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

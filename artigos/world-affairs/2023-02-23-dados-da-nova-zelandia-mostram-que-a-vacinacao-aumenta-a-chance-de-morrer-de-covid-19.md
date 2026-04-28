@@ -3,7 +3,7 @@ title: Dados da Nova Zelândia mostram que a vacinação aumenta a chance de mor
   Covid-19
 date: 2023-02-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

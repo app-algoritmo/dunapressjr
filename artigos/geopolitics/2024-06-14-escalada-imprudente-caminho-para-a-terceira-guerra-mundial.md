@@ -2,7 +2,7 @@
 title: 'Escalada Imprudente: Caminho para a Terceira Guerra Mundial'
 date: 2024-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

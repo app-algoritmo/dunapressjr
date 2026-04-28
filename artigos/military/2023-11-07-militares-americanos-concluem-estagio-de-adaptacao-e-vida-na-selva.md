@@ -2,7 +2,7 @@
 title: Militares americanos concluem Estágio de Adaptação e Vida na Selva
 date: 2023-11-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: O número de atletas que morrem repentinamente aumentou em 3.800%
 date: 2023-03-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: '''Os generais pagarão caro por essa deslealdade'', diz brigadeiro em du
   carta ao ministro da defesa de Bolsonaro'
 date: 2023-01-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

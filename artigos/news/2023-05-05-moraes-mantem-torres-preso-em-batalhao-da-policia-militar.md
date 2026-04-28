@@ -2,7 +2,7 @@
 title: Moraes mantém Torres preso em batalhão da Polícia Militar
 date: 2023-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

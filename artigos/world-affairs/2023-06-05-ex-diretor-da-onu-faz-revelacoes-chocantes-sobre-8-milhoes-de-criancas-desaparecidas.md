@@ -2,7 +2,7 @@
 title: Ex-diretor da ONU faz revelações chocantes sobre 8 milhões de crianças desaparecidas
 date: 2023-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

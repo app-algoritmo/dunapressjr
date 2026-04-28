@@ -3,7 +3,7 @@ title: Professor Jeffrey Sachs Surpreende Tucker Carlson com Teoria sobre Agress
   da OTAN
 date: 2024-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

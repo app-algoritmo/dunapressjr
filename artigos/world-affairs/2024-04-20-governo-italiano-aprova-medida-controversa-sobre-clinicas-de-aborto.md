@@ -2,7 +2,7 @@
 title: Governo Italiano Aprova Medida Controversa sobre Clínicas de Aborto
 date: 2024-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

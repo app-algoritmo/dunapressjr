@@ -3,7 +3,7 @@ title: Robert F. Kennedy Jr. discute a pressão do governo federal sobre as empr
   de mídia social para censurar os cidadãos americanos
 date: 2023-07-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

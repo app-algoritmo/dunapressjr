@@ -2,7 +2,7 @@
 title: Servidores e empregados do Poder Executivo têm reajuste de 9%
 date: 2023-09-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

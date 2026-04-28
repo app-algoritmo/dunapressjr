@@ -2,7 +2,7 @@
 title: 'Queda nos preços: Paraná registra deflação pelo terceiro mês consecutivo'
 date: 2023-09-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: HAARP é de importância global por causa de suas implicações de longo alcance
 date: 2023-08-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

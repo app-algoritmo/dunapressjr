@@ -2,7 +2,7 @@
 title: Reunião define novos objetivos da Conferência dos Exércitos Americanos
 date: 2023-11-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

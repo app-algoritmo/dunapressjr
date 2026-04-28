@@ -3,7 +3,7 @@ title: Entre 82% e 97% das mulheres grávidas vacinadas perderam o bebê durante
   clínico em andamento
 date: 2023-04-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

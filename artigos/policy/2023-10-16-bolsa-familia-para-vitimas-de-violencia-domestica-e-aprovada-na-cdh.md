@@ -2,7 +2,7 @@
 title: Bolsa Família para vítimas de violência doméstica é aprovada na CDH
 date: 2023-10-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

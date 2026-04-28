@@ -2,7 +2,7 @@
 title: Operação Cidade Segura apreende drogas, faz prisões e retém veículos em Curitiba
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

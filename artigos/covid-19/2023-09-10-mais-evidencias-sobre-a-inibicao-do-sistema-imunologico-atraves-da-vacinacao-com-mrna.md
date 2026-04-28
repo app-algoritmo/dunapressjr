@@ -3,7 +3,7 @@ title: Mais evidências sobre a inibição do sistema imunológico através da v
   com mRNA
 date: 2023-09-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

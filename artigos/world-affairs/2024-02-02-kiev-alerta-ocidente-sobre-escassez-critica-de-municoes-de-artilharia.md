@@ -2,7 +2,7 @@
 title: Kiev alerta Ocidente sobre escassez crítica de munições de artilharia
 date: 2024-02-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Militares da Marinha promovem Natal Solidário a moradores de rua da regi
   portuária do Rio de Janeiro
 date: 2023-12-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

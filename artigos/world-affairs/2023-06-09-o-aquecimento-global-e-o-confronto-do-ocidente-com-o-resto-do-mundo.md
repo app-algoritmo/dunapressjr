@@ -2,7 +2,7 @@
 title: O aquecimento global e o confronto do Ocidente com o resto do mundo
 date: 2023-06-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

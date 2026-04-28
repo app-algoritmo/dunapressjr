@@ -2,7 +2,7 @@
 title: Para Marcos Pontes, CPMI do 8 de Janeiro foi tomada pelos governistas
 date: 2023-08-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

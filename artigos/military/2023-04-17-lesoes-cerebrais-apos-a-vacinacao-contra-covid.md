@@ -2,7 +2,7 @@
 title: Lesões cerebrais após a vacinação contra COVID
 date: 2023-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: As empresas pagam para desenvolver e comercializar vacinas rapidamente
 date: 2023-05-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

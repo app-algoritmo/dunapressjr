@@ -2,7 +2,7 @@
 title: Vacinação é uma história de ofuscação
 date: 2023-07-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

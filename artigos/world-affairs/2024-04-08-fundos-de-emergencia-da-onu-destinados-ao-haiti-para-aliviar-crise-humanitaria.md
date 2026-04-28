@@ -2,7 +2,7 @@
 title: Fundos de Emergência da ONU destinados ao Haiti para Aliviar Crise Humanitária
 date: 2024-04-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Trump acusa Biden de gastar dinheiro em “sangue e guerras”: “Isso é uma pena”'
 date: 2024-01-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

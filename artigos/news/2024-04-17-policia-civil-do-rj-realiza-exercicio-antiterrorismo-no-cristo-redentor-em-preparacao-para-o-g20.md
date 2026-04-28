@@ -3,7 +3,7 @@ title: Polícia Civil do RJ realiza exercício antiterrorismo no Cristo Redentor
   preparação para o G20
 date: 2024-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

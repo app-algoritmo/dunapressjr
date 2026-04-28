@@ -3,7 +3,7 @@ title: 'CDC: A vacina contra a gripe do ano passado foi menos de 50% eficaz em c
   e adolescentes'
 date: 2023-11-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

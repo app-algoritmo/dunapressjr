@@ -3,7 +3,7 @@ title: Kajuru elogia operação da Polícia Federal contra o tráfico internacio
   armas
 date: 2023-12-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

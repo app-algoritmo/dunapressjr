@@ -3,7 +3,7 @@ title: Democratas americanos enfrentam obstáculos na aprovação de lei de imig
   vinculada à ajuda internacional
 date: 2024-02-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

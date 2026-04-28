@@ -2,7 +2,7 @@
 title: Moraes autoriza devolução de celular do senador Marcos do Val
 date: 2023-02-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

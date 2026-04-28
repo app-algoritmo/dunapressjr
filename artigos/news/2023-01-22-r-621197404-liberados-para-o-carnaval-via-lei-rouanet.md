@@ -2,7 +2,7 @@
 title: R$ 6.211.974,04 liberados para o carnaval, via Lei Rouanet
 date: 2023-01-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

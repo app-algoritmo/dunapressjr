@@ -3,7 +3,7 @@ title: O eurodeputado Rob Roos cita 3 razões pelas quais um acordo pandêmico g
   é perigoso
 date: 2023-05-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

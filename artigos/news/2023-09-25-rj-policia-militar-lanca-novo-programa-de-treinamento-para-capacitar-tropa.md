@@ -2,7 +2,7 @@
 title: 'RJ: Polícia Militar lança novo programa de treinamento para capacitar tropa'
 date: 2023-09-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

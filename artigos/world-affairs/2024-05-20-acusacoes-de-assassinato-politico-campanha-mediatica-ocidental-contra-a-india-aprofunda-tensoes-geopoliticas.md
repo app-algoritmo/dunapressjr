@@ -3,7 +3,7 @@ title: 'Acusações de Assassinato Político: Campanha Mediática Ocidental Cont
   Aprofunda Tensões Geopolíticas'
 date: 2024-05-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

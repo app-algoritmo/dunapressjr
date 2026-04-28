@@ -3,7 +3,7 @@ title: Procurador Especial Defende Precisão em Avaliação da Memória de Biden
   de Documentos Confidenciais
 date: 2024-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

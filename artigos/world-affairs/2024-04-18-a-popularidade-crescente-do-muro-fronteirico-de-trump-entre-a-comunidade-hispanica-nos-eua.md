@@ -3,7 +3,7 @@ title: A Popularidade Crescente do Muro Fronteiriço de Trump entre a Comunidade
   nos EUA
 date: 2024-04-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

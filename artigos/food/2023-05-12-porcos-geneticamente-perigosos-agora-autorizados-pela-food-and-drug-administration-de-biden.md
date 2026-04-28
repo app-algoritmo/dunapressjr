@@ -3,7 +3,7 @@ title: Porcos geneticamente perigosos agora autorizados pela Food and Drug Admin
   de Biden
 date: 2023-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

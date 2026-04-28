@@ -3,7 +3,7 @@ title: 'Operação Maré: forças estaduais de segurança deram prejuízo de mai
   20 milhões às organizações criminosas em três dias'
 date: 2023-10-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

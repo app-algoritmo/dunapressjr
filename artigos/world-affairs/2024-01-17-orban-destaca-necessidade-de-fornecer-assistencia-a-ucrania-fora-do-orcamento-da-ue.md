@@ -3,7 +3,7 @@ title: Orban destaca necessidade de fornecer assistência à Ucrânia fora do or
   da UE
 date: 2024-01-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Vaticano autoriza bênçãos sob condições para casais do mesmo sexo
 date: 2023-12-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

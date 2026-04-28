@@ -2,7 +2,7 @@
 title: Previsão da inflação brasileira em 2024 cai para 3,87%
 date: 2024-01-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

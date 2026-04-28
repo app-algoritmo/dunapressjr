@@ -3,7 +3,7 @@ title: Educação de SP deposita R$ 450 milhões em bônus para 181 mil profissi
   da rede
 date: 2023-10-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

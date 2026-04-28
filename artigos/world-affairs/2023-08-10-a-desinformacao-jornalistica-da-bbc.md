@@ -2,7 +2,7 @@
 title: A desinformação jornalística da BBC
 date: 2023-08-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

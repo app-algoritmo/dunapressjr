@@ -2,7 +2,7 @@
 title: Jayme Campos defende a derrubada dos vetos ao marco temporal
 date: 2023-10-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

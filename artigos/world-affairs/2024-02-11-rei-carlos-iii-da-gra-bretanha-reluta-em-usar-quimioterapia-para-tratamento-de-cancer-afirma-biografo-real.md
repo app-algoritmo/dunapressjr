@@ -3,7 +3,7 @@ title: Rei Carlos III da Grã-Bretanha Reluta em Usar Quimioterapia para Tratame
   de Câncer, Afirma Biógrafo Real
 date: 2024-02-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

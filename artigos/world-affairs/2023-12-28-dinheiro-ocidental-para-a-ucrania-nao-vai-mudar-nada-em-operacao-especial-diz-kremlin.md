@@ -3,7 +3,7 @@ title: Dinheiro ocidental para a Ucrânia não vai mudar nada em operação espe
   diz Kremlin
 date: 2023-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

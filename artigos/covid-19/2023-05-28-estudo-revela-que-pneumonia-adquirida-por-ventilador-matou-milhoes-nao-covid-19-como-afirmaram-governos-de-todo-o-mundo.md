@@ -3,7 +3,7 @@ title: Estudo revela que pneumonia adquirida por ventilador matou milhões, não
   como afirmaram governos de todo o mundo
 date: 2023-05-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

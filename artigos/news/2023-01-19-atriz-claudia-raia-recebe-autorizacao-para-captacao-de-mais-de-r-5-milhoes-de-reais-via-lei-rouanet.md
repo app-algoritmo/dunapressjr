@@ -3,7 +3,7 @@ title: Atriz Cláudia Raia, recebe autorização para captação de mais de R$ 5
   de reais via Lei Rouanet
 date: 2023-01-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

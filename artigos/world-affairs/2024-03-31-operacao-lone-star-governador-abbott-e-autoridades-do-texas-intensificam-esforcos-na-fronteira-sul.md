@@ -3,7 +3,7 @@ title: 'Operação Lone Star: Governador Abbott e Autoridades do Texas Intensifi
   Esforços na Fronteira Sul'
 date: 2024-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

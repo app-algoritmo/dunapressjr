@@ -3,7 +3,7 @@ title: Joe Biden tenta atrair uma garotinha para a Casa Branca e a convida para 
   com ele”
 date: 2023-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

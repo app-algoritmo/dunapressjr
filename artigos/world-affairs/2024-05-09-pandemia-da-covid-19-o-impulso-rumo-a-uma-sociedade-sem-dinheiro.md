@@ -2,7 +2,7 @@
 title: 'Pandemia da COVID-19: O Impulso Rumo a uma Sociedade sem Dinheiro'
 date: 2024-05-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

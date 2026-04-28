@@ -3,7 +3,7 @@ title: Professor de biologia demitido do Texas College FORES por ensinar aos alu
   o fato biológico de que os cromossomos determinam o sexo
 date: 2023-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

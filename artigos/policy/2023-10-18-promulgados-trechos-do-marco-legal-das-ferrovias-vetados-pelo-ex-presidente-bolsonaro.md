@@ -3,7 +3,7 @@ title: Promulgados trechos do marco legal das ferrovias vetados pelo ex-presiden
   Bolsonaro
 date: 2023-10-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

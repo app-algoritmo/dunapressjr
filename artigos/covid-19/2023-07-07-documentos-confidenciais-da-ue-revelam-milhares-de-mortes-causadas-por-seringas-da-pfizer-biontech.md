@@ -3,7 +3,7 @@ title: Documentos confidenciais da UE revelam milhares de mortes causadas por se
   da Pfizer BioNTech
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

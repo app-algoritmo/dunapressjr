@@ -2,7 +2,7 @@
 title: Grandes guerras não surgem do nada.
 date: 2024-06-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

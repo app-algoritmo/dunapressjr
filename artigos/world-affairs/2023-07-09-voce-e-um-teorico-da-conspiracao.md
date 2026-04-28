@@ -2,7 +2,7 @@
 title: Você é um teórico da conspiração?
 date: 2023-07-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

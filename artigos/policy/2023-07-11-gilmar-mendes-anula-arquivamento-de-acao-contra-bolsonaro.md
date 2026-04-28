@@ -2,7 +2,7 @@
 title: Gilmar Mendes anula arquivamento de ação contra Bolsonaro
 date: 2023-07-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

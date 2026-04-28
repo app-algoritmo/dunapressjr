@@ -2,7 +2,7 @@
 title: 'CPAC 2024: Trump continua a moldar o Partido Republicano e a agenda conservadora'
 date: 2024-02-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

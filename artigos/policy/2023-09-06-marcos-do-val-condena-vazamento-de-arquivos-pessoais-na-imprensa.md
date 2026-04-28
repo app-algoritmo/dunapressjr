@@ -2,7 +2,7 @@
 title: Marcos do Val condena vazamento de arquivos pessoais na imprensa
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Fossas tóxicas de cremação dos militares dos EUA no Iraque causam cân
   outras doenças
 date: 2023-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

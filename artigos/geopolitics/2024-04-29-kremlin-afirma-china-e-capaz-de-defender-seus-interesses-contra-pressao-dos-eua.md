@@ -3,7 +3,7 @@ title: 'Kremlin Afirma: China √© Capaz de Defender seus Interesses Contra Press√
   EUA'
 date: 2024-04-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

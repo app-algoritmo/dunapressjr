@@ -3,7 +3,7 @@ title: Centro de Operações de Paz reforça o compromisso com capacitação de 
   militares
 date: 2023-12-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

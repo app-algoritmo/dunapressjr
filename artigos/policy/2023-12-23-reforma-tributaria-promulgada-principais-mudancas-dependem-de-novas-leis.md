@@ -2,7 +2,7 @@
 title: 'Reforma tributária promulgada: principais mudanças dependem de novas leis'
 date: 2023-12-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

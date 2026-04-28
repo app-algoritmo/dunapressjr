@@ -3,7 +3,7 @@ title: Militares brasileiros participam da comemoração aos 213° Aniversário 
   do México
 date: 2023-09-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -2,7 +2,7 @@
 title: Documentos mostram que Pfizer sabia da pouca eficiência das vacinas
 date: 2023-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

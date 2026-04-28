@@ -2,7 +2,7 @@
 title: Operação Ônix reúne oficiais superiores e capitães em grande exercício de simulação
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

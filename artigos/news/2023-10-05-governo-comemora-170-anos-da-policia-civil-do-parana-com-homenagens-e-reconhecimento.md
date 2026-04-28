@@ -2,7 +2,7 @@
 title: Governo comemora 170 anos da Polícia Civil do Paraná com homenagens e reconhecimento
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

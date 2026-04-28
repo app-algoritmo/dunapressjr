@@ -2,7 +2,7 @@
 title: Bolsonaro usou cartão corporativo para resgatar brasileiros na China em 2020
 date: 2023-01-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

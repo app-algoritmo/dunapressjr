@@ -2,7 +2,7 @@
 title: Roubos caem 33% na segunda semana de outubro no centro de São Paulo
 date: 2023-10-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

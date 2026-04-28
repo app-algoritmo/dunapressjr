@@ -3,7 +3,7 @@ title: Donald Trump considera Marco Rubio como possível companheiro de chapa pa
   as eleições de novembro
 date: 2024-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

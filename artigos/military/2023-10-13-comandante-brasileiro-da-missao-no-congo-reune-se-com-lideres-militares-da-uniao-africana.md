@@ -3,7 +3,7 @@ title: Comandante brasileiro da Missão no Congo reúne-se com líderes militare
   União Africana
 date: 2023-10-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: Perspectivas Sombrias à Medida que Zelensky Enfrenta um Futuro Incerto n
   de Batalha
 date: 2024-04-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Crianças e jovens não devem ser vacinados contra a Covid
 date: 2023-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: 5 alimentos que podem desencadear inflamação do intestino
 date: 2023-03-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

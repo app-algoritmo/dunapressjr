@@ -2,7 +2,7 @@
 title: STF revoga medidas cautelares impostas ao deputado Zé Trovão
 date: 2023-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

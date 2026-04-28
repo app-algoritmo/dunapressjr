@@ -3,7 +3,7 @@ title: Líder do Partido Verde Celebra Aprovação de Projeto de Lei Contra o Ra
   Ambiental no Canadá
 date: 2024-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

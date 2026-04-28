@@ -2,7 +2,7 @@
 title: Presidente sérvio elogia Putin por impedir que tentativa de motim piorasse
 date: 2023-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

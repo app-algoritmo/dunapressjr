@@ -2,7 +2,7 @@
 title: Presidente Biden Condena Decisão do Supremo da Flórida sobre Lei de Aborto
 date: 2024-04-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

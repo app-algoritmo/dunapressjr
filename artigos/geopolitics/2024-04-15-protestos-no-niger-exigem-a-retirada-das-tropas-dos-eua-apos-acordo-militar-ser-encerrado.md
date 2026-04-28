@@ -3,7 +3,7 @@ title: Protestos no Níger exigem a retirada das tropas dos EUA após acordo mil
   ser encerrado
 date: 2024-04-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

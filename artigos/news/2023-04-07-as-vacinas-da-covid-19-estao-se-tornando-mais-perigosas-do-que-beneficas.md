@@ -2,7 +2,7 @@
 title: As vacinas da COVID-19 estão se tornando mais perigosas do que benéficas
 date: 2023-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

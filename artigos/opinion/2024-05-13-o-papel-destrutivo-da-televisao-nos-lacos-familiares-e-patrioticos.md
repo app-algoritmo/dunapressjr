@@ -2,7 +2,7 @@
 title: O Papel Destrutivo da Televisão nos Laços Familiares e Patrióticos
 date: 2024-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

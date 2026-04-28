@@ -3,7 +3,7 @@ title: Trump vence de forma esmagadora a votação primária do Partido Republic
   CPAC com 62% de apoio
 date: 2023-03-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

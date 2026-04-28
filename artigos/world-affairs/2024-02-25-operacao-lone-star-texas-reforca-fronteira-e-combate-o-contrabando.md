@@ -2,7 +2,7 @@
 title: 'Operação Lone Star: Texas Reforça Fronteira e Combate o Contrabando'
 date: 2024-02-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'Sociedade Alemã de Nutrição: Apenas UMA salsicha por mês para parar 
   global'
 date: 2023-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

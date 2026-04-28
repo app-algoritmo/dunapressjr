@@ -3,7 +3,7 @@ title: 'Alerta Sobre a Gripe Aviária: Médico Prevê Nova ''Doença X'' e Poss
   de Saúde Pública'
 date: 2024-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

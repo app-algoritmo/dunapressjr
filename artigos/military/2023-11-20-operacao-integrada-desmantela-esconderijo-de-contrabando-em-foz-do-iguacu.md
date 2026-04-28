@@ -2,7 +2,7 @@
 title: Operação integrada desmantela esconderijo de contrabando em Foz do Iguaçu
 date: 2023-11-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

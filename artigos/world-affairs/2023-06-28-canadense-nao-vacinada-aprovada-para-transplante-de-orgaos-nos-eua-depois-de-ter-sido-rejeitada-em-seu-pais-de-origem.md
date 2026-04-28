@@ -3,7 +3,7 @@ title: Canadense não vacinada aprovada para transplante de órgãos nos EUA dep
   ter sido rejeitada em seu país de origem
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

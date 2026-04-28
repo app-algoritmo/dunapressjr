@@ -2,7 +2,7 @@
 title: O Ocidente poderia ter evitado a guerra na Ucrânia, mas não quis
 date: 2023-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

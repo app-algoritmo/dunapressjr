@@ -3,7 +3,7 @@ title: Lira diz que minirreforma eleitoral deve ser votada pela Câmara na próx
   semana
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

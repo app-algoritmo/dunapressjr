@@ -2,7 +2,7 @@
 title: 'Macquarie Bank Anuncia Plano Radical: Fim do Dinheiro e Cheques à Vista'
 date: 2024-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

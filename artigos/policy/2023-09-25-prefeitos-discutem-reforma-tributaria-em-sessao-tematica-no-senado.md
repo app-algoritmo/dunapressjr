@@ -2,7 +2,7 @@
 title: Prefeitos discutem reforma tributária em sessão temática no Senado
 date: 2023-09-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

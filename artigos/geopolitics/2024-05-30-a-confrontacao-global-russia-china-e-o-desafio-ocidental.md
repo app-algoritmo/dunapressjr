@@ -2,7 +2,7 @@
 title: 'A Confrontação Global: Rússia, China e o Desafio Ocidental'
 date: 2024-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

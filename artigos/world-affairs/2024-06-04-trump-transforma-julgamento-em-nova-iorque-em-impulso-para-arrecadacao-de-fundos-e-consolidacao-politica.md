@@ -3,7 +3,7 @@ title: Trump Transforma Julgamento em Nova Iorque em Impulso para Arrecadação 
   e Consolidação Política
 date: 2024-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

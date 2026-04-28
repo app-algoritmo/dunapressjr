@@ -3,7 +3,7 @@ title: Comissão aprova projeto que prevê salas de acolhimento no SUS para mulh
   vítimas de violência
 date: 2023-10-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

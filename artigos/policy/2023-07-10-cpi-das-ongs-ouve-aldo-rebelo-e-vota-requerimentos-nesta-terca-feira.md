@@ -2,7 +2,7 @@
 title: CPI das ONGs ouve Aldo Rebelo e vota requerimentos nesta terça-feira
 date: 2023-07-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

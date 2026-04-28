@@ -3,7 +3,7 @@ title: '5 meses para a morte: a ligação assustadora entre mortes e vacinação
   a Covid-19'
 date: 2023-04-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

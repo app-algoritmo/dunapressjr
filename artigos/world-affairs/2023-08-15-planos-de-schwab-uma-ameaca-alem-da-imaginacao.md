@@ -2,7 +2,7 @@
 title: 'Planos de Schwab: Uma Ameaça Além da Imaginação'
 date: 2023-08-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

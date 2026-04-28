@@ -3,7 +3,7 @@ title: 'Presidente Equatoriano e Ministra de Governo: Defendendo a Luta Contra o
   em Meio a Críticas na Assembleia Nacional'
 date: 2024-02-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

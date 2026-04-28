@@ -2,7 +2,7 @@
 title: PIB goiano avança 3,4% no segundo trimestre do ano
 date: 2023-10-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

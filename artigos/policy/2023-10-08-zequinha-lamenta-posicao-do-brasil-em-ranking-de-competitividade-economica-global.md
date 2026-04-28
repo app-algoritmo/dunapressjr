@@ -3,7 +3,7 @@ title: Zequinha lamenta posição do Brasil em ranking de competitividade econô
   global
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

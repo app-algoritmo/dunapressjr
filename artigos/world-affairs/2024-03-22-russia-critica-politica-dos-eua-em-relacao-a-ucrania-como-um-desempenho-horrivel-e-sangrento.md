@@ -3,7 +3,7 @@ title: Rússia critica política dos EUA em relação à Ucrânia como um 'desem
   e sangrento'
 date: 2024-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

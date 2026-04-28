@@ -2,7 +2,7 @@
 title: Lei que atualiza Código Penal Militar é sancionada com vetos
 date: 2023-09-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Juristas criticam excesso de poder da minoria no projeto de lei do impeachment
 date: 2023-09-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Corinthians chega ao tetra e iguala rival como maior campeão paulista
 date: 2023-11-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Soccer
 ---

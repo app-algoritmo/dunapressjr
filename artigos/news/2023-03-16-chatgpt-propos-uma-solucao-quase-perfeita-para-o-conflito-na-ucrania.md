@@ -2,7 +2,7 @@
 title: ChatGPT propôs uma solução quase perfeita para o conflito na Ucrânia
 date: 2023-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

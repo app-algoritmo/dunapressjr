@@ -3,7 +3,7 @@ title: Governador da Flórida Assina Lei Proibindo Menores de 14 Anos de Terem C
   em Redes Sociais
 date: 2024-03-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

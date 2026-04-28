@@ -2,7 +2,7 @@
 title: Painel da FDA recomenda nova vacina contra RSV para uso em bebês saudáveis
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

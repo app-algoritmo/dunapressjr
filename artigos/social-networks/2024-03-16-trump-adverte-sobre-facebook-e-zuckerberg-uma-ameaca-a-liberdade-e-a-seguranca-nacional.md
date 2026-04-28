@@ -3,7 +3,7 @@ title: 'Trump Adverte sobre Facebook e Zuckerberg: Uma Ameaça à Liberdade e à
   Nacional'
 date: 2024-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Social networks
 - World Affairs

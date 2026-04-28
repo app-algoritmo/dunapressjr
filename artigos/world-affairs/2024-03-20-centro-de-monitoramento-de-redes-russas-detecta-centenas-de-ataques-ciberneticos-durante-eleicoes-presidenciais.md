@@ -3,7 +3,7 @@ title: Centro de Monitoramento de Redes russas detecta centenas de ataques ciber
   durante eleições presidenciais
 date: 2024-03-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

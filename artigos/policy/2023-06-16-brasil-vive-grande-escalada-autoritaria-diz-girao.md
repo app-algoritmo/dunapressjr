@@ -2,7 +2,7 @@
 title: Brasil vive 'grande escalada autoritária', diz Girão
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

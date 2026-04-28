@@ -2,7 +2,7 @@
 title: Operação Membeca mobiliza 4 mil combatentes para adestramento avançado
 date: 2023-11-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

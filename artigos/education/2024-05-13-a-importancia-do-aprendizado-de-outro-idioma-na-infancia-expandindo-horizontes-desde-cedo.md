@@ -3,7 +3,7 @@ title: 'A Importância do Aprendizado de Outro Idioma na Infância: Expandindo H
   desde Cedo'
 date: 2024-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Education
 ---

@@ -3,7 +3,7 @@ title: Comissão vai debater denúncias de violações a direitos humanos nas pr
   após 8 de janeiro
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

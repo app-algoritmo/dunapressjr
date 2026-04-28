@@ -3,7 +3,7 @@ title: Agricultor holandês “as famílias choram na mesa da cozinha todos os d
   cometendo suicídio por causa da tirania globalista da mudança climática
 date: 2023-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

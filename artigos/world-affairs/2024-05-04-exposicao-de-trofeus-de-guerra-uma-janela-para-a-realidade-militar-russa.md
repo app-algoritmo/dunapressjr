@@ -2,7 +2,7 @@
 title: 'Exposição de Troféus de Guerra: Uma Janela para a Realidade Militar Russa'
 date: 2024-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

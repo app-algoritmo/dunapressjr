@@ -2,7 +2,7 @@
 title: CCJ fará debates sobre limites das Forças Armadas na política e ativismo judicial
 date: 2023-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

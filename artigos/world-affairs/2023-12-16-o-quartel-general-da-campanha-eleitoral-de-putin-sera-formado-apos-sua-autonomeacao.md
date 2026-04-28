@@ -2,7 +2,7 @@
 title: O quartel-general da campanha eleitoral de Putin será formado após sua autonomeação
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

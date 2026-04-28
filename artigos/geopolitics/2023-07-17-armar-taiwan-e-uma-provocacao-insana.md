@@ -2,7 +2,7 @@
 title: Armar Taiwan é uma provocação insana
 date: 2023-07-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

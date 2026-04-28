@@ -2,7 +2,7 @@
 title: Marinha e Receita Federal intensificam fiscalização no Porto de Itaguaí
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

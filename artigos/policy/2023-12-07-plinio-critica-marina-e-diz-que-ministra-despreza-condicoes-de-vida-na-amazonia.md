@@ -2,7 +2,7 @@
 title: Plínio critica Marina e diz que ministra 'despreza' condições de vida na Amazônia
 date: 2023-12-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

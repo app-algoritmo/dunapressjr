@@ -3,7 +3,7 @@ title: China e Rússia Fortalecem Cooperação Estratégica no Contexto do BRICS
   OCX, Afirma Xi Jinping
 date: 2024-04-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

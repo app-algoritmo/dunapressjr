@@ -3,7 +3,7 @@ title: Paraguai parabeniza presidente eleito do Equador e comemora dia eleitoral
   sucesso
 date: 2023-10-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

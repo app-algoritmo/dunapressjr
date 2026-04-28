@@ -3,7 +3,7 @@ title: 'Trump oficializa candidatura à Casa Branca: Uma nação dividida enfren
   escolha crucial'
 date: 2024-03-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

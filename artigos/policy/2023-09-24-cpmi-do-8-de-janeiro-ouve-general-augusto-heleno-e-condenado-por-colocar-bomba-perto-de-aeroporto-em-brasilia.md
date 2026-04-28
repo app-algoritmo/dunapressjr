@@ -3,7 +3,7 @@ title: CPMI do 8 de Janeiro ouve general Augusto Heleno e condenado por colocar 
   perto de aeroporto em Brasília
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

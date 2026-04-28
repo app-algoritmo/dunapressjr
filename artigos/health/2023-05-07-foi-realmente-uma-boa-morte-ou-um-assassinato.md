@@ -2,7 +2,7 @@
 title: Foi realmente uma boa morte? Ou um assassinato?
 date: 2023-05-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 - World Affairs

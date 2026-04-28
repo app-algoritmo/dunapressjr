@@ -3,7 +3,7 @@ title: 'Especialistas: vacinas de mRNA-COVID podem desencadear ''turbocâncer'' 
   jovens'
 date: 2023-08-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Reduzir a ingestão diária de açúcar para menos de 6 colheres de chá 
   a saúde geral
 date: 2023-05-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

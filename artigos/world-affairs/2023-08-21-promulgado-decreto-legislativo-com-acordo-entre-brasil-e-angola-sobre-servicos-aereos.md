@@ -3,7 +3,7 @@ title: Promulgado decreto legislativo com acordo entre Brasil e Angola sobre ser
   aéreos
 date: 2023-08-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

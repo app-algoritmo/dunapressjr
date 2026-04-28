@@ -3,7 +3,7 @@ title: Presidente chinês Xi Jinping afirma que a modernização da China está 
   uma nova civilização humana
 date: 2024-03-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Torres deixa sede da PF após depoimento sobre ação da PRF nas eleições
 date: 2023-05-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

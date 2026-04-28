@@ -2,7 +2,7 @@
 title: O BID triplicará o financiamento para mudanças climáticas na América Latina
 date: 2023-12-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

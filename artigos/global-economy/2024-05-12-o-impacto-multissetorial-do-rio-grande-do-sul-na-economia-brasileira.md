@@ -2,7 +2,7 @@
 title: O Impacto Multissetorial do Rio Grande do Sul na Economia Brasileira
 date: 2024-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

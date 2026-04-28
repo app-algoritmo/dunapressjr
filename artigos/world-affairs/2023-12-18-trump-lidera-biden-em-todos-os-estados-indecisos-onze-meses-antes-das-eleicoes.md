@@ -2,7 +2,7 @@
 title: Trump lidera Biden em todos os estados indecisos onze meses antes das eleições
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Homem de Brooklyn Condenado a 10 Anos por Construir 'Armas Fantasmas' em Casa
 date: 2024-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

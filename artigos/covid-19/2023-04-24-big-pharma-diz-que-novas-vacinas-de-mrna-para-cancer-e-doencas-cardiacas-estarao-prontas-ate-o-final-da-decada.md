@@ -3,7 +3,7 @@ title: Big Pharma diz que novas “vacinas” de mRNA para câncer e doenças ca
   estarão “prontas até o final da década”
 date: 2023-04-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

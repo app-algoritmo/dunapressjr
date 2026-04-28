@@ -2,7 +2,7 @@
 title: Marinha e PF encontram 2 toneladas de haxixe em veleiro na Bahia
 date: 2023-11-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

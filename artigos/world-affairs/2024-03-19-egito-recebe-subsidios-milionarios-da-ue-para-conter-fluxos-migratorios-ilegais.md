@@ -2,7 +2,7 @@
 title: Egito Recebe Subsídios Milionários da UE para Conter Fluxos Migratórios Ilegais
 date: 2024-03-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

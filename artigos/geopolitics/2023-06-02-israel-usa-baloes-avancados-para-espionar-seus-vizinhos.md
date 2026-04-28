@@ -2,7 +2,7 @@
 title: Israel usa balões avançados para espionar seus vizinhos
 date: 2023-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

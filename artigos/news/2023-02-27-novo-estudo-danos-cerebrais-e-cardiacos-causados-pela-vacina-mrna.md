@@ -2,7 +2,7 @@
 title: 'Novo estudo: danos cerebrais e cardíacos causados ​​pela vacina mRNA'
 date: 2023-02-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

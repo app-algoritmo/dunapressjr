@@ -3,7 +3,7 @@ title: Comissão aprova destinação de no mínimo 50% do FNDTC para regiões No
   e Centro-Oeste
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

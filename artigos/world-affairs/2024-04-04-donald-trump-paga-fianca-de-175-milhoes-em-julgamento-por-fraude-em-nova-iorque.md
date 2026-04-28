@@ -2,7 +2,7 @@
 title: Donald Trump Paga Fiança de $175 Milhões em Julgamento por Fraude em Nova Iorque
 date: 2024-04-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

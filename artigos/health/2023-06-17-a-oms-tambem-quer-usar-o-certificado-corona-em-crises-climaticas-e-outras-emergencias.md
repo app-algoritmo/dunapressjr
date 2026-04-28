@@ -2,7 +2,7 @@
 title: A OMS também quer usar o certificado Corona em crises climáticas e outras “emergências”
 date: 2023-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

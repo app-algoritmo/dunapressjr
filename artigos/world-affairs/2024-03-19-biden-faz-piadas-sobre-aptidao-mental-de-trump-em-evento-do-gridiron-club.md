@@ -2,7 +2,7 @@
 title: Biden Faz Piadas sobre Aptidão Mental de Trump em Evento do Gridiron Club
 date: 2024-03-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

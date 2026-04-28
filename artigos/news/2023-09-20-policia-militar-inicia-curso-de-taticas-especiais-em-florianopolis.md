@@ -2,7 +2,7 @@
 title: Polícia Militar inicia curso de Táticas Especiais em Florianópolis
 date: 2023-09-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

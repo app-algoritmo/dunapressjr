@@ -2,7 +2,7 @@
 title: Comissão de Segurança Pública aprova Lei Geral da Polícia Civil
 date: 2023-10-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: 'Bielorrússia Impõe Lei Marcial na Fronteira com a Ucrânia: 140.000 So
   Prontos para Cercar Kiev'
 date: 2024-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

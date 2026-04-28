@@ -3,7 +3,7 @@ title: A vida e obra do Diretor-Geral da OMS como terrorista etíope e violador 
   direitos humanos
 date: 2023-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

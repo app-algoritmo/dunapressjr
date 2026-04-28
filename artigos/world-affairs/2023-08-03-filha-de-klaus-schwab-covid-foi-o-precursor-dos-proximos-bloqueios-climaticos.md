@@ -2,7 +2,7 @@
 title: 'Filha de Klaus Schwab: Covid foi o precursor dos próximos ''bloqueios climáticos'''
 date: 2023-08-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Analistas políticos: as tropas dos EUA não deixarão o Iraque tão cedo'
 date: 2024-01-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

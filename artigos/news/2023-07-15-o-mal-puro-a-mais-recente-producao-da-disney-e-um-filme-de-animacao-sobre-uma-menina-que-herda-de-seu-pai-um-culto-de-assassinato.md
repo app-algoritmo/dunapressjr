@@ -3,7 +3,7 @@ title: 'O mal puro: A mais recente produção da Disney é um filme de animaçã
   uma menina que herda de seu pai um culto de assassinato'
 date: 2023-07-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Exército apresenta resultados do apoio à população atingida no Rio Gr
   Sul
 date: 2023-09-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

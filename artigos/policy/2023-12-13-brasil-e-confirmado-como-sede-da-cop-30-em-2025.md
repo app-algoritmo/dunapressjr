@@ -2,7 +2,7 @@
 title: Brasil é confirmado como sede da COP 30 em 2025
 date: 2023-12-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

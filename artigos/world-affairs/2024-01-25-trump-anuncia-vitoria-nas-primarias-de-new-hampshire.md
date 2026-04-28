@@ -2,7 +2,7 @@
 title: Trump anuncia vitória nas primárias de New Hampshire
 date: 2024-01-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

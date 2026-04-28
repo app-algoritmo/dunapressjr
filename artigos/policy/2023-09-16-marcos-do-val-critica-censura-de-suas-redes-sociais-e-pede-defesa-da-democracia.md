@@ -2,7 +2,7 @@
 title: Marcos do Val critica 'censura' de suas redes sociais e pede defesa da democracia
 date: 2023-09-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

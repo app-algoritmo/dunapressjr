@@ -2,7 +2,7 @@
 title: Escola de Saúde e Formação Complementar do Exército forma 110 novos oficiais
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: 'Renúncia de Klaus Schwab do Fórum Económico Mundial: Um Mau Pressági
   Catherine Austin Fitts'
 date: 2024-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

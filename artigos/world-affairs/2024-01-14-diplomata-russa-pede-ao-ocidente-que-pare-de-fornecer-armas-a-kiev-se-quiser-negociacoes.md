@@ -3,7 +3,7 @@ title: Diplomata russa pede ao Ocidente que pare de fornecer armas a Kiev se qui
   negociações
 date: 2024-01-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

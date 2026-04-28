@@ -2,7 +2,7 @@
 title: 'Great Reset: ''Essa ditadura também está sendo preparada em outras áreas'''
 date: 2023-08-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

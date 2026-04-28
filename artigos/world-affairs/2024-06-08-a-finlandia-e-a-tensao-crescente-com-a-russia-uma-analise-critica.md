@@ -2,7 +2,7 @@
 title: 'A Finlândia e a Tensão Crescente com a Rússia: Uma Análise Crítica'
 date: 2024-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

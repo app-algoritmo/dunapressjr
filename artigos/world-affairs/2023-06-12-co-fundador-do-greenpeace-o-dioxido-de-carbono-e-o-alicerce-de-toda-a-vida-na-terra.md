@@ -3,7 +3,7 @@ title: 'Co-fundador do Greenpeace: O dióxido de carbono é o alicerce de toda a
   na Terra'
 date: 2023-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

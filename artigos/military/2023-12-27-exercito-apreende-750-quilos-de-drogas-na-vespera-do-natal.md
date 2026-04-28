@@ -2,7 +2,7 @@
 title: Exército apreende 750 quilos de drogas na véspera do Natal
 date: 2023-12-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

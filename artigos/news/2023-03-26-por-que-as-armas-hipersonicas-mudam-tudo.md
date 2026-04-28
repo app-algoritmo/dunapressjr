@@ -2,7 +2,7 @@
 title: Por que as armas hipersônicas mudam tudo?
 date: 2023-03-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

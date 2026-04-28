@@ -2,7 +2,7 @@
 title: Ministra do Turismo tem ligação com outro suspeito de ser miliciano
 date: 2023-01-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

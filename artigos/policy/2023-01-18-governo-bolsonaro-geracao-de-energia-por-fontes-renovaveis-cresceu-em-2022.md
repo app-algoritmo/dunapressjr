@@ -2,7 +2,7 @@
 title: 'Governo Bolsonaro: Geração de energia por fontes renováveis cresceu em 2022'
 date: 2023-01-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

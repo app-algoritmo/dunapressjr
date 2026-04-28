@@ -3,7 +3,7 @@ title: Senador russo vê risco no retorno da Suécia à energia nuclear emparelh
   aspirações da OTAN
 date: 2023-06-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

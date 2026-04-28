@@ -2,7 +2,7 @@
 title: Amin manifesta preocupação com julgamento do STF sobre a Lei das&nbsp;Estatais
 date: 2023-12-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

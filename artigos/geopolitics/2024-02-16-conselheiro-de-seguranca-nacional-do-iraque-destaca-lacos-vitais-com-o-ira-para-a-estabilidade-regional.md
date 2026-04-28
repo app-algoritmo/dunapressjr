@@ -3,7 +3,7 @@ title: Conselheiro de Segurança Nacional do Iraque destaca laços vitais com o 
   para a estabilidade regional
 date: 2024-02-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

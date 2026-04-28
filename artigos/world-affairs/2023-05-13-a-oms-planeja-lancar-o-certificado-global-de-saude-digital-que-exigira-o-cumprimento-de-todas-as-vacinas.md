@@ -3,7 +3,7 @@ title: A OMS planeja lançar o Certificado Global de Saúde Digital que exigirá
   de todas as vacinas
 date: 2023-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

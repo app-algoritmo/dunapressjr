@@ -2,7 +2,7 @@
 title: Relator da CPI do MST pede o indiciamento de 11 pessoas
 date: 2023-09-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

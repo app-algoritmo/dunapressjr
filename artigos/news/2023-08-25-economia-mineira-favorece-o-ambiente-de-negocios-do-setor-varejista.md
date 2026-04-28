@@ -2,7 +2,7 @@
 title: Economia mineira favorece o ambiente de negócios do setor varejista
 date: 2023-08-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

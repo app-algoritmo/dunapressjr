@@ -2,7 +2,7 @@
 title: OTAN vs BRICS, Armagedom Nuclear!
 date: 2023-02-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: América Latina mostrando grande interesse no uso não energético de tec
   nucleares
 date: 2023-11-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

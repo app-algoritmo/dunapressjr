@@ -3,7 +3,7 @@ title: O que não lhe foi dito sobre os planos ultrajantes de dar poder à OMS s
   sua vida
 date: 2023-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

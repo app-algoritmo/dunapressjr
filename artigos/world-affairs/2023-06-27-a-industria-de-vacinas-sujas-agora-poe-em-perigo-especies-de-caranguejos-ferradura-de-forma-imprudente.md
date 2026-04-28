@@ -3,7 +3,7 @@ title: A indústria de vacinas sujas agora põe em perigo espécies de caranguej
   de forma imprudente
 date: 2023-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

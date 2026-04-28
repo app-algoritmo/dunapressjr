@@ -3,7 +3,7 @@ title: CPI do MST faz audiência sobre feiras promovidas por movimentos sociais 
   campo
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

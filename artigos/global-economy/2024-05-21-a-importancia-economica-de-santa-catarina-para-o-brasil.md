@@ -2,7 +2,7 @@
 title: A Importância Econômica de Santa Catarina para o Brasil
 date: 2024-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

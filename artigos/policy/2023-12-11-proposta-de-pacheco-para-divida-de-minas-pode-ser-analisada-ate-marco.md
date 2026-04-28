@@ -2,7 +2,7 @@
 title: Proposta de Pacheco para dívida de Minas pode ser analisada até março
 date: 2023-12-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Orbán, da Hungria, sugere que a UE adie a concessão de ajuda financeira
   por 5 anos
 date: 2023-12-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

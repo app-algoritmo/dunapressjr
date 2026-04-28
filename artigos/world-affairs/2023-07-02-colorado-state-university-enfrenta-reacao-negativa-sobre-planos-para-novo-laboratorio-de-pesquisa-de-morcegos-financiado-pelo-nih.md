@@ -3,7 +3,7 @@ title: Colorado State University enfrenta reação negativa sobre planos para no
   de pesquisa de morcegos financiado pelo NIH
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

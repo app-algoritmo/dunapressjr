@@ -2,7 +2,7 @@
 title: Até Onde a Mídia Irá para Proteger Joe Biden?
 date: 2024-06-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

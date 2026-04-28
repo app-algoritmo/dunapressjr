@@ -3,7 +3,7 @@ title: 'Altas Taxas de Complicações em Cirurgias de Redesignação de Sexo: Re
   Chocantes'
 date: 2024-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

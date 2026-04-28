@@ -3,7 +3,7 @@ title: Canadenses se enfurecem depois que Trudeau afirma que nunca “obrigou”
   a tomar vacinas
 date: 2023-04-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

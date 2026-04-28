@@ -2,7 +2,7 @@
 title: Em Lisboa, Girão denuncia 'militância ideológica do STF'
 date: 2023-10-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

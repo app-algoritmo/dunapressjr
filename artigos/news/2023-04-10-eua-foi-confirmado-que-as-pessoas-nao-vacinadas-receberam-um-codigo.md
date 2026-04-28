@@ -2,7 +2,7 @@
 title: 'EUA: Foi confirmado que as pessoas não vacinadas receberam um código'
 date: 2023-04-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

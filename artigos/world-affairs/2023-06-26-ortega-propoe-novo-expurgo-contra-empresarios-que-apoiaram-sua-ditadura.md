@@ -2,7 +2,7 @@
 title: Ortega propõe novo expurgo contra empresários que apoiaram sua ditadura
 date: 2023-06-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

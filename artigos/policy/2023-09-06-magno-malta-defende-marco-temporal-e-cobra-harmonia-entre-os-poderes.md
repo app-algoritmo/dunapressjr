@@ -2,7 +2,7 @@
 title: Magno Malta defende marco temporal e cobra harmonia entre os Poderes
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

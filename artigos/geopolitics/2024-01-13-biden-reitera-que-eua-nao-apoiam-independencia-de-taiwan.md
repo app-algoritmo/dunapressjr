@@ -2,7 +2,7 @@
 title: Biden reitera que EUA não apoiam independência de Taiwan
 date: 2024-01-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

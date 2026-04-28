@@ -3,7 +3,7 @@ title: Biden está se preparando para declarar uma 'emergência climática semel
   a uma pandemia'
 date: 2023-08-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

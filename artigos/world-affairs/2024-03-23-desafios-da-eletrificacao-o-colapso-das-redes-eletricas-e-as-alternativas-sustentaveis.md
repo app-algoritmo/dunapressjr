@@ -3,7 +3,7 @@ title: 'Desafios da Eletrificação: O Colapso das Redes Elétricas e as Alterna
   Sustentáveis'
 date: 2024-03-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Cacique Serere está morrendo na prisão no Brasil
 date: 2023-03-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

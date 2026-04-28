@@ -3,7 +3,7 @@ title: 'Paralelos Ameaçadores: Como a História de Borodino se Reflete nas Tens
   Atuais entre o Ocidente, Rússia e China'
 date: 2024-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

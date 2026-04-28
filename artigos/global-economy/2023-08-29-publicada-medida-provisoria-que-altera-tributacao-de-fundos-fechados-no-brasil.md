@@ -2,7 +2,7 @@
 title: Publicada medida provisória que altera tributação de fundos fechados no Brasil
 date: 2023-08-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

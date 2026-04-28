@@ -2,7 +2,7 @@
 title: Girão critica julgamento de ação sobre aborto no STF e anuncia manifestações
 date: 2023-09-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Jovens concluem ano de instrução em Tiros de Guerra em todo o Brasil
 date: 2023-12-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

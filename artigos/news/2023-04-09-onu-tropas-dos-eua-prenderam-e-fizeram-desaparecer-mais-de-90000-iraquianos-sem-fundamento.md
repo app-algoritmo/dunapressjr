@@ -3,7 +3,7 @@ title: 'ONU: tropas dos EUA prenderam e fizeram desaparecer mais de 90.000 iraqu
   sem fundamento'
 date: 2023-04-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

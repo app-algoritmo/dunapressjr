@@ -2,7 +2,7 @@
 title: A crise de fertilidade nos países do mRNA está se aprofundando
 date: 2023-07-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Joe Biden, uma ameaça para a paz Mundial
 date: 2023-07-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

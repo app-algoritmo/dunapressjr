@@ -2,7 +2,7 @@
 title: Com resultado de US$ 19 bilhões, exportações crescem 12,7% no Paraná em 2023
 date: 2023-10-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

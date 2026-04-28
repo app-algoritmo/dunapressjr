@@ -3,7 +3,7 @@ title: 'Regulamentação das Redes Sociais: A Perspectiva de Lula e os Desafios 
   Digital'
 date: 2024-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

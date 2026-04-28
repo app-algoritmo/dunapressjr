@@ -3,7 +3,7 @@ title: Novo estudo mostra que a miocardite da 'vacinação' Covid provavelmente 
   centenas de jovens adultos saudáveis
 date: 2023-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

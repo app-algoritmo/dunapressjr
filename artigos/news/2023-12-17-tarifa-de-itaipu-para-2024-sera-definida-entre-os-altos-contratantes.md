@@ -2,7 +2,7 @@
 title: Tarifa de Itaipu para 2024 será definida entre os altos contratantes
 date: 2023-12-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

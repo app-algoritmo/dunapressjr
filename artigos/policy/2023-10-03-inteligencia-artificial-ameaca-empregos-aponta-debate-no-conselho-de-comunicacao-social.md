@@ -3,7 +3,7 @@ title: Inteligência Artificial ameaça empregos, aponta debate no Conselho de C
   Social
 date: 2023-10-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Irã apreende navio-tanque dos EUA no Mar de Omã
 date: 2024-01-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Governo lista obras em execução que devem receber recursos de emendas n
   de 2024
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

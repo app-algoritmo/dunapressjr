@@ -2,7 +2,7 @@
 title: Israel negociará libertação de reféns em Gaza, diz primeiro-ministro
 date: 2023-12-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

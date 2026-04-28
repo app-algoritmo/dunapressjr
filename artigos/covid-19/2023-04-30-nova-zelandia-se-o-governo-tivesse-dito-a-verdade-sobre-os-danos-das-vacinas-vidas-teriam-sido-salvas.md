@@ -3,7 +3,7 @@ title: 'Nova Zelândia: se o governo tivesse dito a verdade sobre os danos das v
   vidas teriam sido salvas'
 date: 2023-04-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

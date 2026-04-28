@@ -3,7 +3,7 @@ title: Análise de obituários mostra aumento de 40% nas mortes entre pilotos ma
   em 2021
 date: 2023-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

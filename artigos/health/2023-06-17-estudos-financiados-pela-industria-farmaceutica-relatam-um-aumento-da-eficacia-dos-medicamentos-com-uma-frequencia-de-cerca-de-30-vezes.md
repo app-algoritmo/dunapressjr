@@ -3,7 +3,7 @@ title: Estudos financiados pela indústria farmacêutica relatam um aumento da e
   dos medicamentos com uma frequência de cerca de 30 vezes
 date: 2023-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: Comissão aprova criação de cadastro nacional de condenados por violên
   mulheres
 date: 2023-08-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

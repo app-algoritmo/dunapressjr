@@ -3,7 +3,7 @@ title: Estudo mostra que medidas da Covid atrasam o desenvolvimento de  criança
   de 5 anos em 4,4 meses
 date: 2023-07-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

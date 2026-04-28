@@ -3,7 +3,7 @@ title: 'RFK Jr .: Biden deve se desculpar com a América e a Ucrânia por promov
   “guerra por procuração”'
 date: 2023-06-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

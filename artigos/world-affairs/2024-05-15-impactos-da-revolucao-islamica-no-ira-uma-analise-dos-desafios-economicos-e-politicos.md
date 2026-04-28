@@ -3,7 +3,7 @@ title: 'Impactos da Revolução Islâmica no Irã: Uma Análise dos Desafios Eco
   e Políticos'
 date: 2024-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

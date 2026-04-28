@@ -2,7 +2,7 @@
 title: O ator Jim Caviezel implica agências dos EUA em tráfico sexual infantil
 date: 2023-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

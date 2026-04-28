@@ -3,7 +3,7 @@ title: Pesquisadores italianos encontram recorrência de miocardite causada pela
   Covid em adolescentes após recuperação aparentemente completa
 date: 2023-08-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

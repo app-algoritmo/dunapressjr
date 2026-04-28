@@ -2,7 +2,7 @@
 title: Equipe brasileira de Guerra na Selva auxilia na instrução do Batalhão do Malawi
 date: 2023-10-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

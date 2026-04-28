@@ -3,7 +3,7 @@ title: Dmitry Medvedev Convoca Russos a Infligir 'Dano Máximo' ao Ocidente em R
   às Sanções
 date: 2024-06-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

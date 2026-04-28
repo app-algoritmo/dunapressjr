@@ -2,7 +2,7 @@
 title: Marinha participa de mais um exercício de segurança marítima no Golfo da Guiné
 date: 2023-11-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

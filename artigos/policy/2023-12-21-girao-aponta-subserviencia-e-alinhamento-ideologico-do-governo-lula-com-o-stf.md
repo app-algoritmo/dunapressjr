@@ -2,7 +2,7 @@
 title: Girão aponta subserviência e alinhamento ideológico do governo Lula com o STF
 date: 2023-12-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

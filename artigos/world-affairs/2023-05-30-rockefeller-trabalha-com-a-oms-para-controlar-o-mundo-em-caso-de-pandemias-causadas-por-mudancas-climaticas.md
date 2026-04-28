@@ -3,7 +3,7 @@ title: Rockefeller trabalha com a OMS para controlar o mundo em caso de 'pandemi
   causadas por 'mudanças climáticas'
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

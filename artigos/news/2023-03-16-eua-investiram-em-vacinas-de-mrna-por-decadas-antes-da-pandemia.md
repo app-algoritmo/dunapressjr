@@ -2,7 +2,7 @@
 title: EUA investiram em vacinas de mRNA por décadas antes da pandemia
 date: 2023-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

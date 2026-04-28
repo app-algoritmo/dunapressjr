@@ -2,7 +2,7 @@
 title: Governo de SP envia à Alesp proposta de aumento salarial para policiais
 date: 2023-05-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

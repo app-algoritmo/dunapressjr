@@ -2,7 +2,7 @@
 title: Projeto regulamenta indenização ao trabalhador demitido sem justa causa
 date: 2023-08-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

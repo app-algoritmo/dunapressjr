@@ -3,7 +3,7 @@ title: Putin e ministro das Relações Exteriores da Coreia do Norte afirmam com
   com a paz global e a cooperação
 date: 2024-01-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

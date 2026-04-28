@@ -3,7 +3,7 @@ title: Minas Gerais é destaque em ranking dos estados com um dos melhores índi
   educacionais do país
 date: 2023-08-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

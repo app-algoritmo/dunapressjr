@@ -2,7 +2,7 @@
 title: 'O Declínio do Império Americano: Paralelos Históricos Entre Roma e os EUA'
 date: 2024-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

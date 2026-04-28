@@ -2,7 +2,7 @@
 title: Os cidadãos se defendem contra os perigos da vigilância da cidade inteligente
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

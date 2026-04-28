@@ -3,7 +3,7 @@ title: O Banco Central Europeu fornece seus dados a provedores dos EUA, dos quai
   supostamente deseja se tornar independente com o euro digital
 date: 2023-07-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

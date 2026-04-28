@@ -2,7 +2,7 @@
 title: 'Protegendo as Fronteiras: Operação Lone Star do Texas em Ação'
 date: 2024-03-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

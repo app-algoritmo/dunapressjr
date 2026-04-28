@@ -3,7 +3,7 @@ title: O que realmente está por trás da redefinição global e da Agenda 2030 
   Desenvolvimento Sustentável
 date: 2023-07-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

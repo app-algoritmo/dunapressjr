@@ -3,7 +3,7 @@ title: Magno Malta critica apoio do MST ao Hamas e expressa solidariedade ao pov
   judeu
 date: 2023-10-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

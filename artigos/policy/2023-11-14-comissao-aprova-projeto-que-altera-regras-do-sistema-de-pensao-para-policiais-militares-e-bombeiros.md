@@ -3,7 +3,7 @@ title: Comissão aprova projeto que altera regras do sistema de pensão para pol
   militares e bombeiros
 date: 2023-11-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

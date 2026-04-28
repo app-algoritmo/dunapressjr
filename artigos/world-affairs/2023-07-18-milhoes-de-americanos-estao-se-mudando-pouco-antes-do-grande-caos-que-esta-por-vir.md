@@ -3,7 +3,7 @@ title: Milhões de americanos estão se mudando pouco antes do grande caos que e
   por vir
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

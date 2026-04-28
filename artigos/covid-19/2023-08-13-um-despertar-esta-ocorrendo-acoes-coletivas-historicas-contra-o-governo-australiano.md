@@ -3,7 +3,7 @@ title: 'Um “despertar” está ocorrendo: ações coletivas “históricas” 
   australiano'
 date: 2023-08-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

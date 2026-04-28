@@ -3,7 +3,7 @@ title: China pede que EUA interrompam intimidação e restrição a estudantes c
   em nome da segurança nacional, diz porta-voz
 date: 2024-01-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

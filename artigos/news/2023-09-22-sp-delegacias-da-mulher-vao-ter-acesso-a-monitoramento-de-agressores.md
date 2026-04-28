@@ -2,7 +2,7 @@
 title: 'SP: Delegacias da Mulher vão ter acesso a monitoramento de agressores'
 date: 2023-09-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Rússia se defenderá de traição interna, diz Putin
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

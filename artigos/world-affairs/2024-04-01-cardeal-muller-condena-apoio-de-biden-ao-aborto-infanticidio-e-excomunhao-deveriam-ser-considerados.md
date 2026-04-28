@@ -3,7 +3,7 @@ title: 'Cardeal Müller Condena Apoio de Biden ao Aborto: ''Infanticídio'' e ''
   Deveriam Ser Considerados'
 date: 2024-04-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

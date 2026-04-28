@@ -2,7 +2,7 @@
 title: Problemas bancários nos EUA anunciam o fim do sistema de reservas em dólares
 date: 2023-03-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

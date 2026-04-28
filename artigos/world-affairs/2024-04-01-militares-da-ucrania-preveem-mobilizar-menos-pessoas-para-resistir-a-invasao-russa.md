@@ -3,7 +3,7 @@ title: Militares da Ucrânia Preveem Mobilizar Menos Pessoas para Resistir à In
   Russa
 date: 2024-04-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

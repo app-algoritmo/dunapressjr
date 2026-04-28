@@ -3,7 +3,7 @@ title: Airbus prevê que China será o maior mercado mundial de serviços de avi
   até 2042
 date: 2023-12-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

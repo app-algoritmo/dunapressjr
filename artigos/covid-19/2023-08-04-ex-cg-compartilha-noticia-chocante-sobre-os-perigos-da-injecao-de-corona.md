@@ -2,7 +2,7 @@
 title: Ex-CG compartilha 'notícia chocante' sobre os perigos da injeção de corona
 date: 2023-08-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

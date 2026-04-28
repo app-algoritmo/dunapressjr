@@ -2,7 +2,7 @@
 title: 'Fundação Gates Financia Modificação do Vírus H5N1: Implicações e Controvérsias'
 date: 2024-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

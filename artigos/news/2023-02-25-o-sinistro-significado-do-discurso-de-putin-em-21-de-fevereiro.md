@@ -2,7 +2,7 @@
 title: O sinistro significado do discurso de Putin em 21 de fevereiro
 date: 2023-02-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Professor Ryszard Legutko recebe o Prêmio János Hunyadi em reconhecimen
   defesa dos valores europeus
 date: 2024-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

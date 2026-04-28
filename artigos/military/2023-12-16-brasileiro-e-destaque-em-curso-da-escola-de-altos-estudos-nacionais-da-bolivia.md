@@ -2,7 +2,7 @@
 title: Brasileiro é destaque em curso da Escola de Altos Estudos Nacionais da Bolívia
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

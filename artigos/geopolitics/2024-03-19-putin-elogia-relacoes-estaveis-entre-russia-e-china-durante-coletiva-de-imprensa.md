@@ -2,7 +2,7 @@
 title: Putin Elogia Relações Estáveis entre Rússia e China durante Coletiva de Imprensa
 date: 2024-03-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

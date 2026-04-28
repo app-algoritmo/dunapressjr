@@ -2,7 +2,7 @@
 title: Câmara Municipal de SP cria CPI para investigar atuação da Enel
 date: 2023-11-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

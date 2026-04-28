@@ -3,7 +3,7 @@ title: 'O Peso da Burocracia: Um Impedimento ao Progresso e um Convite à Corrup
   no Brasil'
 date: 2024-05-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Projeto abre crédito suplementar de R$ 398 milhões para investimentos de estatais
 date: 2023-10-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

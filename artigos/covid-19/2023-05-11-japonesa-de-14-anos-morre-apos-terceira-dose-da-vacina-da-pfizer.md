@@ -2,7 +2,7 @@
 title: Japonesa de 14 anos morre após terceira dose da vacina da Pfizer
 date: 2023-05-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

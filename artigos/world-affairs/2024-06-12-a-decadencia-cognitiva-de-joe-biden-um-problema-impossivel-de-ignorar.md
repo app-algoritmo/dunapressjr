@@ -2,7 +2,7 @@
 title: 'A Decadência Cognitiva de Joe Biden: Um Problema Impossível de Ignorar'
 date: 2024-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

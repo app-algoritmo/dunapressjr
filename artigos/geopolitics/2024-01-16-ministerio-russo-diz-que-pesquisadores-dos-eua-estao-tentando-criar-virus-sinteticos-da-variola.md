@@ -3,7 +3,7 @@ title: Ministério russo diz que pesquisadores dos EUA estão tentando criar ví
   da varíola
 date: 2024-01-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: O controle da IA pode ser semelhante às regras de não proliferação nu
   diz Putin
 date: 2023-11-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

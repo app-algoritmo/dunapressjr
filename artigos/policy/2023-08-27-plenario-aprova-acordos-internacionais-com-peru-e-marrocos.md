@@ -2,7 +2,7 @@
 title: Plenário aprova acordos internacionais com Peru e Marrocos
 date: 2023-08-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

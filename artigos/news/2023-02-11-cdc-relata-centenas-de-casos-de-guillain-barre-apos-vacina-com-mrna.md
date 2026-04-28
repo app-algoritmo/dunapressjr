@@ -2,7 +2,7 @@
 title: CDC relata centenas de casos de Guillain-Barre após vacina com mRNA
 date: 2023-02-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: A Rússia está passando pela maior mudança geopolítica em 300 anos
 date: 2023-08-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

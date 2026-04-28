@@ -2,7 +2,7 @@
 title: Blinken e Wang Yi discutem cooperação e diferenças entre EUA e China
 date: 2023-10-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

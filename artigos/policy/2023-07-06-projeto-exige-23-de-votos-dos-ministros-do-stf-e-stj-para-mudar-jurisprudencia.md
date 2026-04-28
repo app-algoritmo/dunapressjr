@@ -2,7 +2,7 @@
 title: Projeto exige 2/3 de votos dos ministros do STF e STJ para mudar jurisprudência
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Autópsia de dois adolescentes que morreram logo após a segunda injeçã
   revela 'danos no músculo cardíaco'
 date: 2023-02-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

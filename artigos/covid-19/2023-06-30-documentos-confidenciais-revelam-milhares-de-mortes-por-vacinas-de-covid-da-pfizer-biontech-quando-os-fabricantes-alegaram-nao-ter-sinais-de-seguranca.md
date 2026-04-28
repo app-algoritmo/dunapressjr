@@ -3,7 +3,7 @@ title: Documentos confidenciais revelam milhares de mortes por Vacinas de covid 
   Pfizer-BioNTech quando os fabricantes alegaram não ter “sinais de segurança”
 date: 2023-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

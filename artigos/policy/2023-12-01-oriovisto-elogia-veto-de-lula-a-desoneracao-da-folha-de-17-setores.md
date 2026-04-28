@@ -2,7 +2,7 @@
 title: Oriovisto elogia veto de Lula à desoneração da folha de 17 setores
 date: 2023-12-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

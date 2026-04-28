@@ -2,7 +2,7 @@
 title: Brasil Registra Mais de 1,5 Milhão de Casos Prováveis de Dengue em 2024
 date: 2024-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

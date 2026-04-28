@@ -2,7 +2,7 @@
 title: Esta guerra irá aumentar rapidamente os preços globais dos alimentos
 date: 2023-11-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

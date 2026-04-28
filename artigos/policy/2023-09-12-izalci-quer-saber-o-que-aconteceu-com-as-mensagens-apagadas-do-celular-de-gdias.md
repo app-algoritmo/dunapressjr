@@ -2,7 +2,7 @@
 title: Izalci quer saber o que aconteceu com as mensagens apagadas do celular de GDias
 date: 2023-09-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

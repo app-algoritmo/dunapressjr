@@ -2,7 +2,7 @@
 title: Atuação de ONG na Amazônia é questionada por senadores em CPI
 date: 2023-10-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

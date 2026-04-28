@@ -3,7 +3,7 @@ title: Dados oficiais mostram que as mortes por insuficiência cardíaca são 26
   aos níveis pré-pandemia
 date: 2023-10-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

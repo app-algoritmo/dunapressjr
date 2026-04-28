@@ -2,7 +2,7 @@
 title: 'EUA: Vacinas monovalentes Pfizer e Moderna COVID-19 não são mais autorizadas'
 date: 2023-04-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

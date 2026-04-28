@@ -2,7 +2,7 @@
 title: Série de manobras militares marcam o Dia D da Operação Agulhas Negras
 date: 2023-09-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: Os globalistas estão prestes a dar passos realmente grandes que mudariam
   a maneira como nossa sociedade funciona
 date: 2023-07-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

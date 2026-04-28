@@ -2,7 +2,7 @@
 title: Produtos COVID contaminados e vírus do macaco verde
 date: 2023-07-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Girão diz que violência no Ceará equivale à de países em guerra
 date: 2023-10-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

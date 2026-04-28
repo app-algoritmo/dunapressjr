@@ -2,7 +2,7 @@
 title: 'Vladimir Putin: O Conflito na Ucrânia e os Acordos de Minsk'
 date: 2024-06-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: N-acetilcisteína superantioxidante ajuda a limpar o corpo de toxinas jab
   mRNA
 date: 2023-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

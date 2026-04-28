@@ -3,7 +3,7 @@ title: A busca do Japão pela grandeza militar em meio à sombra cada vez maior 
   EUA-China
 date: 2023-07-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

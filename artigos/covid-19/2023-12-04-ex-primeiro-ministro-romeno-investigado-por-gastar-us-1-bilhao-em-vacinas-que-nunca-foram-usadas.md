@@ -3,7 +3,7 @@ title: Ex-primeiro-ministro romeno investigado por gastar US$ 1 bilhão em vacin
   que nunca foram usadas
 date: 2023-12-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

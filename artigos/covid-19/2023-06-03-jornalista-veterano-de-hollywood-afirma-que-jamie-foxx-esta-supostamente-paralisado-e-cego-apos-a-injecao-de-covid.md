@@ -3,7 +3,7 @@ title: Jornalista veterano de Hollywood afirma que Jamie Foxx está supostamente
   e cego após a injeção de Covid
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

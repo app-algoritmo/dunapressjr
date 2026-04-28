@@ -2,7 +2,7 @@
 title: Magno Malta critica governo por não classificar Hamas como grupo terrorista
 date: 2023-12-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: 'Transplante de Rim de Porco Genéticamente Modificado: Um Avanço Médico Histórico'
 date: 2024-03-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -2,7 +2,7 @@
 title: TSE rejeita multar Bolsonaro por propaganda antecipada em 2022
 date: 2023-05-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

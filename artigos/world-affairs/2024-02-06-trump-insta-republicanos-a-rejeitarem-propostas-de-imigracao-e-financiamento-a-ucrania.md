@@ -3,7 +3,7 @@ title: Trump Insta Republicanos a Rejeitarem Propostas de Imigração e Financia
   à Ucrânia
 date: 2024-02-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

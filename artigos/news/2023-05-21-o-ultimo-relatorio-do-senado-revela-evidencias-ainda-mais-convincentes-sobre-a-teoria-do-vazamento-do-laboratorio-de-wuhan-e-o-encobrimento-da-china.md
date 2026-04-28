@@ -3,7 +3,7 @@ title: O último relatório do Senado revela evidências ainda mais convincentes
   a teoria do vazamento do laboratório de Wuhan e o encobrimento da China
 date: 2023-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Cidade de tendas para migrantes em Brooklyn: uma realidade oculta sob os
   dos nova-iorquinos'
 date: 2024-03-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Senador Girão levanta preocupações sobre democracia brasileira e pede 
   de ministro do STF
 date: 2024-04-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

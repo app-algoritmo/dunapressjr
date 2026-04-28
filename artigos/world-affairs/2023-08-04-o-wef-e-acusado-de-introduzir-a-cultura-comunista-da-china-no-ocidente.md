@@ -2,7 +2,7 @@
 title: O WEF é acusado de introduzir a 'cultura' comunista da China no Ocidente
 date: 2023-08-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

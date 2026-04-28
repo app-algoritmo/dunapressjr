@@ -3,7 +3,7 @@ title: O governo indonésio está sendo processado por causa da vacinação obri
   da Covid-19
 date: 2023-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: 100 milhões de animais já foram injetados com tecnologia de mRNA
 date: 2023-03-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

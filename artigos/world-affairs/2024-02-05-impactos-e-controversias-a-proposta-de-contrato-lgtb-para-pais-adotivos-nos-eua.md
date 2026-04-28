@@ -3,7 +3,7 @@ title: 'Impactos e Controvérsias: A Proposta de Contrato LGTB para Pais Adotivo
   EUA'
 date: 2024-02-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

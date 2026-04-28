@@ -3,7 +3,7 @@ title: As ações de Israel em Gaza representam uma ameaça para toda a região,
   presidente turco
 date: 2023-12-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Cleitinho diz que Bolsonaro sofre 'perseguição política'
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: 'Chega de teoria da conspiração: óxido de grafeno nas vacinas da Pfizer'
 date: 2023-03-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Entrevista de Putin a Tucker Carlson Desvela Verdades: Reações Ocident
   em Debate'
 date: 2024-02-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

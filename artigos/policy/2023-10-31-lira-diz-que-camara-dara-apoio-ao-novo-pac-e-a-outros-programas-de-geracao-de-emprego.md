@@ -3,7 +3,7 @@ title: Lira diz que Câmara dará apoio ao Novo PAC e a outros programas de gera
   de emprego
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

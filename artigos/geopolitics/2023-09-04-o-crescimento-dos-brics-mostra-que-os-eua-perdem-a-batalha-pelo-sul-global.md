@@ -2,7 +2,7 @@
 title: O crescimento dos BRICS mostra que os EUA perdem a batalha pelo Sul Global
 date: 2023-09-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

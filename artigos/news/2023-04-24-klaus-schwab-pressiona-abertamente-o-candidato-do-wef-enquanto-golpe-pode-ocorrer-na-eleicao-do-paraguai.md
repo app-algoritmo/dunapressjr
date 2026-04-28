@@ -3,7 +3,7 @@ title: Klaus Schwab pressiona abertamente o candidato do WEF enquanto 'golpe' po
   ocorrer na eleição do Paraguai
 date: 2023-04-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

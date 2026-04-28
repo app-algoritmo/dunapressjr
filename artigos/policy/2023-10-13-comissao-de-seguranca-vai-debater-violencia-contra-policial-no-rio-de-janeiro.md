@@ -2,7 +2,7 @@
 title: Comissão de Segurança vai debater violência contra policial no Rio de Janeiro
 date: 2023-10-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

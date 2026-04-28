@@ -3,7 +3,7 @@ title: RPDC destruirá a Coreia do Sul se for provocada militarmente, diz Kim Jo
   Un
 date: 2024-01-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

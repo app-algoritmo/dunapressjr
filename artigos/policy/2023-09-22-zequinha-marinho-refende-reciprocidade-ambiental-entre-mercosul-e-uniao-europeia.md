@@ -2,7 +2,7 @@
 title: Zequinha Marinho refende 'reciprocidade ambiental' entre Mercosul e União Europeia
 date: 2023-09-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Governo de SP abre concurso para contratar 3,5 mil policiais civis
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Kremlin Repudia Declarações Ocidentais sobre Morte de Navalny como 'Rai
   e 'Inaceitáveis'
 date: 2024-02-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

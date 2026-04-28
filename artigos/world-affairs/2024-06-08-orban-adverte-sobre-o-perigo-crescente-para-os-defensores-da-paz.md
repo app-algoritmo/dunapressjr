@@ -2,7 +2,7 @@
 title: Orbán Adverte Sobre o Perigo Crescente para os Defensores da Paz
 date: 2024-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Brasil e Estados Unidos iniciam projeto de munição de morteiro 120 mm
 date: 2023-12-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

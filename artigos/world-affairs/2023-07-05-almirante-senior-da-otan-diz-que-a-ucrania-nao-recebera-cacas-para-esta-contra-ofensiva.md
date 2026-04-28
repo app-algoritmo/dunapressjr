@@ -2,7 +2,7 @@
 title: Almirante sênior da OTAN diz que a Ucrânia não receberá caças para esta contra-ofensiva
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

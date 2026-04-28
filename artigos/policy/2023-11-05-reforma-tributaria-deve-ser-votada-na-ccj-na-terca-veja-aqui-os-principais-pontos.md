@@ -3,7 +3,7 @@ title: Reforma tributária deve ser votada na CCJ na terça; veja aqui os princi
   pontos
 date: 2023-11-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

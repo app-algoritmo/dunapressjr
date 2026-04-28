@@ -3,7 +3,7 @@ title: Presidentes do Irã e do Iraque Concordam Sobre Expansão de Relações B
   e Solidariedade para com Gaza
 date: 2024-04-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

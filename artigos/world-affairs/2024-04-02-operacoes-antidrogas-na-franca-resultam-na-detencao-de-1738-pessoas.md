@@ -2,7 +2,7 @@
 title: Operações antidrogas na França resultam na detenção de 1.738 pessoas
 date: 2024-04-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

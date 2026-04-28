@@ -2,7 +2,7 @@
 title: Diplomata Russa Responsabiliza os EUA pela Crise Atual no Oriente Médio
 date: 2024-04-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

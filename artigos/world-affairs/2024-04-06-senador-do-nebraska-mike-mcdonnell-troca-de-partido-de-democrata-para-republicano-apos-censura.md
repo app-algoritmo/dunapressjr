@@ -3,7 +3,7 @@ title: Senador do Nebraska, Mike McDonnell, Troca de Partido de Democrata para R
   Após Censura
 date: 2024-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

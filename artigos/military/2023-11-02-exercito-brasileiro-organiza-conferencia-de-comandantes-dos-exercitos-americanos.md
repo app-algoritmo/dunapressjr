@@ -2,7 +2,7 @@
 title: Exército Brasileiro organiza Conferência de Comandantes dos Exércitos Americanos
 date: 2023-11-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

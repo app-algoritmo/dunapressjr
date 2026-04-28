@@ -2,7 +2,7 @@
 title: Violência psicológica foi o crime que mais atingiu mulheres no Rio
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

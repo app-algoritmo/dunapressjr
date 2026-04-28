@@ -3,7 +3,7 @@ title: EUA e China precisam evitar que a concorrência se transforme em conflito
   Sullivan a Wang Yi
 date: 2024-01-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

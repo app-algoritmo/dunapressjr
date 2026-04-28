@@ -2,7 +2,7 @@
 title: A América acabou de destruir um grande império
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

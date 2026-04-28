@@ -2,7 +2,7 @@
 title: Zequinha Marinho critica vinda de Nicolás Maduro ao Brasil
 date: 2023-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

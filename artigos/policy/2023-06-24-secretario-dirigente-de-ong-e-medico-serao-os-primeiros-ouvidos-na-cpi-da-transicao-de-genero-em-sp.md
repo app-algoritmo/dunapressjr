@@ -3,7 +3,7 @@ title: Secretário, dirigente de ONG e médico serão os primeiros ouvidos na CP
   Transição de Gênero em SP
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

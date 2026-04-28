@@ -3,7 +3,7 @@ title: Pesquisa revela possível maioria absoluta para o partido de Marine Le Pe
   Assembleia Nacional francesa
 date: 2024-03-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

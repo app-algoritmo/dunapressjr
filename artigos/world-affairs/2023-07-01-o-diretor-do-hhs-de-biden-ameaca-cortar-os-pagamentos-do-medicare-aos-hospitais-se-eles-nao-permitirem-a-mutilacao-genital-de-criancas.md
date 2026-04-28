@@ -3,7 +3,7 @@ title: O diretor do HHS de Biden ameaça cortar os pagamentos do Medicare aos ho
   se eles não permitirem a mutilação genital de crianças
 date: 2023-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

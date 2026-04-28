@@ -2,7 +2,7 @@
 title: Moro celebra aprovação do marco temporal
 date: 2023-09-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

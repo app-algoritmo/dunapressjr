@@ -3,7 +3,7 @@ title: 'A Propagação Alarmante da Canção Proibida ''Ausländer Raus'' na Ale
   Um Fenômeno que Preocupa as Autoridades'
 date: 2024-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

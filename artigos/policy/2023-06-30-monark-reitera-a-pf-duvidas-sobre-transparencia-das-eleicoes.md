@@ -2,7 +2,7 @@
 title: Monark reitera à PF dúvidas sobre transparência das eleições
 date: 2023-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

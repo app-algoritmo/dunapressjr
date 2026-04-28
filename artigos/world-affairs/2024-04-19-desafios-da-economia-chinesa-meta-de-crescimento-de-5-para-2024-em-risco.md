@@ -2,7 +2,7 @@
 title: 'Desafios da Economia Chinesa: Meta de Crescimento de 5% para 2024 em Risco'
 date: 2024-04-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

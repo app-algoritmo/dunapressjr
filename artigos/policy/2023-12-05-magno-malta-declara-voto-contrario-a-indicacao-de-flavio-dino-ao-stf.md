@@ -2,7 +2,7 @@
 title: Magno Malta declara voto contrário à indicação de Flávio Dino ao STF
 date: 2023-12-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

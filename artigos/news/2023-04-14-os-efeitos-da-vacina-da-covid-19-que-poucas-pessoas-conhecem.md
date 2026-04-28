@@ -2,7 +2,7 @@
 title: Os efeitos da vacina da COVID-19 que poucas pessoas conhecem
 date: 2023-04-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

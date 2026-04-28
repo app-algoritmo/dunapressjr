@@ -2,7 +2,7 @@
 title: 'A Ilusão da Carne Artificial: Impactos na Saúde e no Meio Ambiente'
 date: 2024-05-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

@@ -2,7 +2,7 @@
 title: Lula trilha 'caminho do ativismo político e ideológico', diz Marcos Rogério
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

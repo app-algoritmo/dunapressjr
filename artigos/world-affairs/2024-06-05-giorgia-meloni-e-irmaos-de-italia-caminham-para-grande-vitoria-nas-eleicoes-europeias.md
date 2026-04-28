@@ -3,7 +3,7 @@ title: Giorgia Meloni e Irmãos de Itália Caminham para Grande Vitória nas Ele
   Europeias
 date: 2024-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

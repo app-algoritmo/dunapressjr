@@ -3,7 +3,7 @@ title: 'Preocupações Crescentes: Profissionais de Saúde Questionam Práticas 
   de Gênero em Crianças'
 date: 2024-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

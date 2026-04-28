@@ -3,7 +3,7 @@ title: Comissão aprova projeto que prevê abatimento no Fies para formados que 
   no serviço público
 date: 2023-09-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

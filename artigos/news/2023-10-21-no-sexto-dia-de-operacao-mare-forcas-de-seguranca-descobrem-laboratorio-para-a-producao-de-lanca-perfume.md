@@ -3,7 +3,7 @@ title: No sexto dia de Operação Maré forças de segurança descobrem laborat�
   a produção de lança-perfume
 date: 2023-10-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

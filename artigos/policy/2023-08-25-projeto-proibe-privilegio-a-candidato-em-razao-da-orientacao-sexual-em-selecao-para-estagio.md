@@ -3,7 +3,7 @@ title: Projeto proíbe privilégio a candidato em razão da orientação sexual 
   para estágio
 date: 2023-08-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

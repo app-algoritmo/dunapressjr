@@ -2,7 +2,7 @@
 title: Incêndio no Pantanal tem cenário de animais em fuga e muita ventania
 date: 2023-11-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

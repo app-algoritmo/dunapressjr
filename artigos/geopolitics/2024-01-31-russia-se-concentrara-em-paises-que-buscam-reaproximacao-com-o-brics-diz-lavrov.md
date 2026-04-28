@@ -2,7 +2,7 @@
 title: Rússia se concentrará em países que buscam reaproximação com o BRICS, diz Lavrov
 date: 2024-01-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

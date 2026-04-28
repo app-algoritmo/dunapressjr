@@ -3,7 +3,7 @@ title: Tribunal Constitucional do Peru Rejeita Pedido de Habeas Corpus de Pedro 
   por Tentativa de Golpe
 date: 2024-04-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

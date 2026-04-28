@@ -2,7 +2,7 @@
 title: Pentágono prepara deepfakes para enganar o público em todo o mundo
 date: 2023-03-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

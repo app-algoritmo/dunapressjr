@@ -3,7 +3,7 @@ title: Portaria assinada pelo presidente Bolsonaro, estabelece procedimentos par
   intervenção da União em processos arbitrais
 date: 2022-12-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Agora, a 'reentrada' para reescrever as entradas da ciência climática n
   está sendo financiada pelos estados
 date: 2023-07-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

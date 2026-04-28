@@ -3,7 +3,7 @@ title: 'Villaruel: filha de militar e defensora da verdade histórica sobre terr
   de esquerda na Argentina'
 date: 2023-12-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Chefe da ONU, Guterres, alerta que a terra está 'fervendo' e a internet 
   respondendo
 date: 2023-08-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

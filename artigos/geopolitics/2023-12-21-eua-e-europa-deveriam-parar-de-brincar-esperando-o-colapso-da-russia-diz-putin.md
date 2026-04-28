@@ -3,7 +3,7 @@ title: EUA e Europa deveriam ‘parar de brincar’ esperando o colapso da Rúss
   Putin
 date: 2023-12-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: STF deve julgar descriminalização do porte de drogas no próximo ano
 date: 2023-12-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

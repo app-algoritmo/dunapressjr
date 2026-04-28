@@ -3,7 +3,7 @@ title: França eleva nível de alerta antiterrorista após ataque em sala de con
   em Moscou
 date: 2024-03-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

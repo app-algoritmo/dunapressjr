@@ -3,7 +3,7 @@ title: Hackers brasileiros ligados a Lula sob investigação em esquema de fraud
   no Paraguai
 date: 2023-04-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

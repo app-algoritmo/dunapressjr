@@ -2,7 +2,7 @@
 title: Força Nacional vai apoiar Polícia Federal em Novo Progresso, no Pará
 date: 2023-08-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

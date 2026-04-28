@@ -3,7 +3,7 @@ title: Trump Reafirma Apoio dos Conservadores Cristãos e Anuncia Escolha de Vic
   para 2024
 date: 2024-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

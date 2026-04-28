@@ -3,7 +3,7 @@ title: 'Economista de destaque: banqueiros centrais planejam implantar CBDC ''so
   a pele'''
 date: 2023-07-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

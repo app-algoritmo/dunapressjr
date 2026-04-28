@@ -3,7 +3,7 @@ title: Governador Abbott Elogia Guarda Nacional do Texas por Esfor√ßos na Prote√
   da Fronteira Sul
 date: 2024-03-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

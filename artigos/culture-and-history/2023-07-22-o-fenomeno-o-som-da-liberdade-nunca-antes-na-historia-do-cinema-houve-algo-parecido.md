@@ -3,7 +3,7 @@ title: O Fenômeno 'O Som da Liberdade' - Nunca antes na história do cinema hou
   parecido
 date: 2023-07-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Culture and History
 - Video library

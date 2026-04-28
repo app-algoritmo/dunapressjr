@@ -3,7 +3,7 @@ title: O fornecimento de petróleo iraniano para a China diminui enquanto Teerã
   preços mais altos
 date: 2024-01-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

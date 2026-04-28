@@ -2,7 +2,7 @@
 title: 'SP: CPI da Transição de Gênero aprova convites para mais dez pessoas'
 date: 2023-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

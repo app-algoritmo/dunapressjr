@@ -2,7 +2,7 @@
 title: 'Um Marco Histórico: Pela Primeira Vez em 700 Anos, a População Mundial Declina'
 date: 2024-03-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

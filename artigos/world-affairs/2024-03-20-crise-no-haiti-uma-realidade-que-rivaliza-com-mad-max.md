@@ -2,7 +2,7 @@
 title: 'Crise no Haiti: Uma Realidade que Rivaliza com Mad Max'
 date: 2024-03-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

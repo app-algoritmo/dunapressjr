@@ -3,7 +3,7 @@ title: Ministro da Defesa da Alemanha diz que temos que nos habituar à ideia de
   na Europa
 date: 2023-11-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

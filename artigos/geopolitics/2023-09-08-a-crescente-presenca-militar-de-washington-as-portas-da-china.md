@@ -2,7 +2,7 @@
 title: A crescente presença militar de Washington às portas da China
 date: 2023-09-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

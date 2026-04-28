@@ -2,7 +2,7 @@
 title: Piloto CBDC mostra que o banco central está no controle total
 date: 2023-08-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

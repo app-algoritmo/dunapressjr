@@ -3,7 +3,7 @@ title: Flórida proíbe venda de carne cultivada em laboratório em defesa da ag
   local
 date: 2024-05-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

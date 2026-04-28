@@ -2,7 +2,7 @@
 title: Turquia pronta para atuar como fiador na resolução da crise de Gaza
 date: 2023-11-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

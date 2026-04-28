@@ -2,7 +2,7 @@
 title: Governadores do Sul e Sudeste unem esforços para o combate ao crime e sustentabilidade
 date: 2023-10-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

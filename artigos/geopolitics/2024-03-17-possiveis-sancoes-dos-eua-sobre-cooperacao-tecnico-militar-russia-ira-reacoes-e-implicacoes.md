@@ -3,7 +3,7 @@ title: 'Possíveis sanções dos EUA sobre cooperação técnico-militar Rússia
   e implicações'
 date: 2024-03-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

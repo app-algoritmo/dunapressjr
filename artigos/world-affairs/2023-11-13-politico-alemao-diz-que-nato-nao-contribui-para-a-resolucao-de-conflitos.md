@@ -2,7 +2,7 @@
 title: Político alemão diz que NATO não contribui para a resolução de conflitos
 date: 2023-11-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

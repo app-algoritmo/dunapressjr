@@ -2,7 +2,7 @@
 title: Reforma da iluminação do Obelisco de SP utilizará R$ 3.002.292,50 da Lei Rouanet
 date: 2023-01-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

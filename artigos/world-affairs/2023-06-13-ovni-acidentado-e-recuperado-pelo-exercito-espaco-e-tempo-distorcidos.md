@@ -2,7 +2,7 @@
 title: OVNI acidentado é recuperado pelo exército; 'espaço e tempo distorcidos'
 date: 2023-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

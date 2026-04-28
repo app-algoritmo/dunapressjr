@@ -3,7 +3,7 @@ title: Um bebê morre e oito estão em terapia intensiva após contrair um conju
   de uma infecção normalmente inofensiva
 date: 2023-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

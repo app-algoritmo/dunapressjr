@@ -2,7 +2,7 @@
 title: Girão diz que Marcos do Val é 'vítima do sistema'
 date: 2023-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

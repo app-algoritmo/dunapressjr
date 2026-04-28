@@ -2,7 +2,7 @@
 title: China se Compromete a Promover a Ética e Governança em Inteligência Artificial
 date: 2024-02-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

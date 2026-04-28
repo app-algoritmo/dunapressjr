@@ -3,7 +3,7 @@ title: Projeto obriga escolas públicas a realizar palestras sobre os riscos do 
   inseguro
 date: 2023-11-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: A Câmara Federal de Buenos Aires reabre investigação judicial contra C
   Kirchner
 date: 2023-11-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

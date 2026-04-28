@@ -2,7 +2,7 @@
 title: FMI atento a riscos de potencial apreensão de ativos congelados russos
 date: 2023-12-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

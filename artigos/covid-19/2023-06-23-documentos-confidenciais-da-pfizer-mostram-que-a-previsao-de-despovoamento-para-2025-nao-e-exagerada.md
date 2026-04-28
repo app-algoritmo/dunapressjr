@@ -3,7 +3,7 @@ title: Documentos confidenciais da Pfizer mostram que a previsão de despovoamen
   para 2025 não é exagerada
 date: 2023-06-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Legislador do Partido Republicano diz que Biden 'advogou' em meio a inves
   de suborno
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

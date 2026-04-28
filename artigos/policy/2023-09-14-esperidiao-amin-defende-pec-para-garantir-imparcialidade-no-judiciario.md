@@ -2,7 +2,7 @@
 title: Esperidião Amin defende PEC para garantir imparcialidade no Judiciário
 date: 2023-09-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Moraes também determina multa para usuários que utilizar o Telegram após suspensão
 date: 2023-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

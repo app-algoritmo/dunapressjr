@@ -3,7 +3,7 @@ title: Denunciante Revela Supostas Práticas Ilegais de Transição de Gênero n
   Children's Hospital
 date: 2024-06-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

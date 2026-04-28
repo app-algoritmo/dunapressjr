@@ -2,7 +2,7 @@
 title: A 'cooperação de segurança' entre a UE e os EUA
 date: 2023-08-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

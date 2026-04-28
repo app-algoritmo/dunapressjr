@@ -2,7 +2,7 @@
 title: Comissão de Trabalho debate crime de demissão por motivo ideológico
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

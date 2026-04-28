@@ -2,7 +2,7 @@
 title: O que não saber sobre carne cultivada em laboratório
 date: 2023-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 - News

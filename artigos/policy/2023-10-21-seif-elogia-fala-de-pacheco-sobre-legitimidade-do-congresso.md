@@ -2,7 +2,7 @@
 title: Seif elogia fala de Pacheco sobre legitimidade do Congresso
 date: 2023-10-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

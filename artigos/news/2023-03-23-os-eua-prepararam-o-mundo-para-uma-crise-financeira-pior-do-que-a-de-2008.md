@@ -2,7 +2,7 @@
 title: Os EUA prepararam o mundo para uma crise financeira pior do que a de 2008
 date: 2023-03-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

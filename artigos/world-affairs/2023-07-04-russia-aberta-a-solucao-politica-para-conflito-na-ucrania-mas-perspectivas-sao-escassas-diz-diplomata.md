@@ -3,7 +3,7 @@ title: Rússia aberta a solução política para conflito na Ucrânia, mas 'pers
   são escassas', diz diplomata
 date: 2023-07-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

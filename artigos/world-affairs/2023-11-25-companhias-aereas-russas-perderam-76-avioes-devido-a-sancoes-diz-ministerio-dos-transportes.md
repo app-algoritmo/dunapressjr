@@ -3,7 +3,7 @@ title: Companhias aéreas russas ‘perderam’ 76 aviões devido a sanções, d
   dos Transportes
 date: 2023-11-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

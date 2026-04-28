@@ -2,7 +2,7 @@
 title: A Rússia será soberana ou inexistente, diz Putin
 date: 2023-12-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

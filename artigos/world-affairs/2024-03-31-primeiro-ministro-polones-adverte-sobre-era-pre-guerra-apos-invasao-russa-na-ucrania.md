@@ -3,7 +3,7 @@ title: Primeiro-Ministro Polonês Adverte sobre 'Era Pré-Guerra' após Invasão
   na Ucrânia
 date: 2024-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

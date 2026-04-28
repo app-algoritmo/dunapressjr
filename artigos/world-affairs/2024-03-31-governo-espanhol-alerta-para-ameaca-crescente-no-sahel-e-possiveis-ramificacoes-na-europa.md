@@ -3,7 +3,7 @@ title: Governo Espanhol Alerta para Ameaça Crescente no Sahel e Possíveis Rami
   na Europa
 date: 2024-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Funcionários aposentados do FBI acusam Joe Biden de ter facilitado a “
   suave” de homens em idade militar
 date: 2024-01-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Cães da PM de SP localizaram 2, 5 toneladas de drogas e 38 explosivos em
   meses
 date: 2023-09-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Metade dos americanos diz que estão em situação pior na era Biden
 date: 2023-02-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

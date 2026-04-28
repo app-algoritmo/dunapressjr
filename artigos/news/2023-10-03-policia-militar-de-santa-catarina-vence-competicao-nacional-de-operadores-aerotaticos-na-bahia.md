@@ -3,7 +3,7 @@ title: Polícia Militar de Santa Catarina vence competição nacional de Operado
   na Bahia
 date: 2023-10-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

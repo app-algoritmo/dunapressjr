@@ -2,7 +2,7 @@
 title: Os Impactos Devastadores da Colonização Europeia na África
 date: 2024-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - History
 ---

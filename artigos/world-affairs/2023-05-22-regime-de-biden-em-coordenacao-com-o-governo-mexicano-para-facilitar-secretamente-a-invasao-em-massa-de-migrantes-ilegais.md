@@ -3,7 +3,7 @@ title: Regime de Biden em coordenação com o governo mexicano para facilitar se
   a invasão em massa de migrantes ilegais
 date: 2023-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Embaixada dos EUA em Moscou alertou sobre risco iminente de ataque terror
   há duas semanas
 date: 2024-03-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: É improvável que Wagner abra uma frente norte após o golpe fracassado de Prigozhin
 date: 2023-06-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

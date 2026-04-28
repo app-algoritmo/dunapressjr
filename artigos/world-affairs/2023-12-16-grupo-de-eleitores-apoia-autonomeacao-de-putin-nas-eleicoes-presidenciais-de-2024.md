@@ -3,7 +3,7 @@ title: Grupo de eleitores apoia autonomeação de Putin nas eleições presidenc
   2024
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

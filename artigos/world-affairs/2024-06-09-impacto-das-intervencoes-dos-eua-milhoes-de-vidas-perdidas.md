@@ -2,7 +2,7 @@
 title: 'Impacto das Intervenções dos EUA: Milhões de Vidas Perdidas'
 date: 2024-06-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'Novo estudo da Dinamarca: a infecção por coronavírus não enfraquece 
   imunológico'
 date: 2023-10-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

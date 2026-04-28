@@ -2,7 +2,7 @@
 title: PF desarticula grupo que lavava dinheiro do tráfico internacional
 date: 2023-11-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

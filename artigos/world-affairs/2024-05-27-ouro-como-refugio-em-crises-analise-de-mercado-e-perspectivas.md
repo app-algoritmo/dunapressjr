@@ -2,7 +2,7 @@
 title: 'Ouro como Refúgio em Crises: Análise de Mercado e Perspectivas'
 date: 2024-05-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

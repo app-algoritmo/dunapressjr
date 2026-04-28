@@ -2,7 +2,7 @@
 title: Pacheco afirma a empresários que reforma tributária será votada em outubro
 date: 2023-08-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

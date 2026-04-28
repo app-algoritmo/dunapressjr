@@ -2,7 +2,7 @@
 title: Os tambores da guerra com a China estão ficando muito mais altos agora
 date: 2023-03-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

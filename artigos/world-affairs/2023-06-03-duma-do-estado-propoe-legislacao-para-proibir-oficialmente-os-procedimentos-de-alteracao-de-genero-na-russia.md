@@ -3,7 +3,7 @@ title: Duma do Estado propõe legislação para proibir oficialmente os procedim
   de alteração de gênero na Rússia
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

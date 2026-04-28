@@ -2,7 +2,7 @@
 title: Girao aciona PGE com acusação de abuso de poder do governador do Ceará
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

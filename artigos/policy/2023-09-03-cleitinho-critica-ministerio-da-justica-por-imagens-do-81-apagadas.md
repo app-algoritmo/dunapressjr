@@ -2,7 +2,7 @@
 title: Cleitinho critica Ministério da Justiça por imagens do 8/1 apagadas
 date: 2023-09-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

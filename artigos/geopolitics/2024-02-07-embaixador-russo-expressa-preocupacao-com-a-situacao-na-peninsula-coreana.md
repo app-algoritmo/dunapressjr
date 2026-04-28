@@ -2,7 +2,7 @@
 title: Embaixador russo expressa preocupação com a situação na Península Coreana
 date: 2024-02-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

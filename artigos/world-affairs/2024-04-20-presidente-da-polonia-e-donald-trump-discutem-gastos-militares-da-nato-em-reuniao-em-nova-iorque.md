@@ -3,7 +3,7 @@ title: Presidente da Polônia e Donald Trump Discutem Gastos Militares da NATO e
   em Nova Iorque
 date: 2024-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

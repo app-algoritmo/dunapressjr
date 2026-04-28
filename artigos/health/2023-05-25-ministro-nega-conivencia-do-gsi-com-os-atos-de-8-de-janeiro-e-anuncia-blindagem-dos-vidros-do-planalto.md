@@ -3,7 +3,7 @@ title: Ministro nega conivência do GSI com os atos de 8 de janeiro e anuncia bl
   dos vidros do Planalto
 date: 2023-05-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

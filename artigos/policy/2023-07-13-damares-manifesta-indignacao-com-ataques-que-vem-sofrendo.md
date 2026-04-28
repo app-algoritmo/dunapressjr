@@ -2,7 +2,7 @@
 title: Damares manifesta indignação com ataques que vem sofrendo
 date: 2023-07-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

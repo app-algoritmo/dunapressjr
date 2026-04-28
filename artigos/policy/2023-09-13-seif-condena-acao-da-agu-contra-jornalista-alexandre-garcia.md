@@ -2,7 +2,7 @@
 title: Seif condena ação da AGU contra jornalista Alexandre Garcia
 date: 2023-09-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

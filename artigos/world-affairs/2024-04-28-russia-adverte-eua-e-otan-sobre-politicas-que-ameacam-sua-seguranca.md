@@ -2,7 +2,7 @@
 title: Rússia Adverte EUA e OTAN sobre Políticas que Ameaçam sua Segurança
 date: 2024-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

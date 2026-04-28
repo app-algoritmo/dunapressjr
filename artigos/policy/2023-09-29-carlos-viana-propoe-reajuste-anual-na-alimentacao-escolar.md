@@ -2,7 +2,7 @@
 title: Carlos Viana propõe reajuste anual na alimentação escolar
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

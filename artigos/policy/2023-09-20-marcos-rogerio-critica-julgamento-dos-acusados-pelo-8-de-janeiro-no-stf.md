@@ -2,7 +2,7 @@
 title: Marcos Rogério critica julgamento dos acusados pelo 8 de janeiro no STF
 date: 2023-09-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

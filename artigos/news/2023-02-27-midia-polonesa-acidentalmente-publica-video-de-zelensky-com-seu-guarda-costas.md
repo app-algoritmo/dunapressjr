@@ -2,7 +2,7 @@
 title: Mídia polonesa acidentalmente publica vídeo de Zelensky com seu guarda-costas
 date: 2023-02-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

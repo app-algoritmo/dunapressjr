@@ -2,7 +2,7 @@
 title: Para Plínio, reforma tributária ameaça benefícios da Zona Franca de Manaus
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

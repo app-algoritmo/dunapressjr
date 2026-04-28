@@ -2,7 +2,7 @@
 title: Senado terá agenda apertada no final do ano, dizem senadores
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Oncologista britânico alerta para rápido desenvolvimento de câncer ap�
   contra Covid
 date: 2023-03-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

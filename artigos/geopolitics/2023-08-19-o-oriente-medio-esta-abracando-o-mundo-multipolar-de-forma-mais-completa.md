@@ -2,7 +2,7 @@
 title: O Oriente Médio está abraçando o mundo multipolar de forma mais completa
 date: 2023-08-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

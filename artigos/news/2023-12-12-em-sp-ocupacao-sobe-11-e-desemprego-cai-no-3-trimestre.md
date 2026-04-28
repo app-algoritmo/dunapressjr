@@ -2,7 +2,7 @@
 title: Em SP, ocupação sobe 1,1% e desemprego cai no 3º trimestre
 date: 2023-12-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

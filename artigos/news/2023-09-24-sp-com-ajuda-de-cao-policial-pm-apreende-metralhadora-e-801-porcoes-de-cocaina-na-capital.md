@@ -3,7 +3,7 @@ title: 'SP: Com ajuda de cão policial, PM apreende metralhadora e 801 porções
   na capital'
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

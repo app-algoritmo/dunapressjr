@@ -2,7 +2,7 @@
 title: Senado autoriza operação de crédito de US$ 40 milhões ao estado de Alagoas
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

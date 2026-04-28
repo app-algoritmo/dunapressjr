@@ -2,7 +2,7 @@
 title: Kajuru critica aumento no preço dos combustíveis para consumidor final
 date: 2023-08-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

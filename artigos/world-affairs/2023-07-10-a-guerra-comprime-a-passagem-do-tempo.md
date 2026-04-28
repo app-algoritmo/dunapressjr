@@ -2,7 +2,7 @@
 title: A guerra comprime a passagem do tempo
 date: 2023-07-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

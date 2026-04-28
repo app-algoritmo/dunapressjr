@@ -3,7 +3,7 @@ title: 'Cofundador do Greenpeace adverte: Se chegarmos a zero emissões, pelo me
   50% da população morrerá'
 date: 2023-06-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

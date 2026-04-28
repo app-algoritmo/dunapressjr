@@ -2,7 +2,7 @@
 title: Mauro Carvalho anuncia proposta para reintegrar idosos no mercado de trabalho
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Alemanha anuncia novo pacote de ajuda militar à Ucrânia no valor de 1,1
   de euros
 date: 2024-02-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

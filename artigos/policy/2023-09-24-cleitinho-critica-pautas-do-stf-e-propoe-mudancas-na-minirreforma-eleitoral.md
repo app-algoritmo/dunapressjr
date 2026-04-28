@@ -2,7 +2,7 @@
 title: Cleitinho critica pautas do STF e propõe mudanças na minirreforma eleitoral
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

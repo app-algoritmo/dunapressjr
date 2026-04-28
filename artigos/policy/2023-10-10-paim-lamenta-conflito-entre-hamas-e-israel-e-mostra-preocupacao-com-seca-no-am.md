@@ -3,7 +3,7 @@ title: Paim lamenta conflito entre Hamas e Israel e mostra preocupação com sec
   AM
 date: 2023-10-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

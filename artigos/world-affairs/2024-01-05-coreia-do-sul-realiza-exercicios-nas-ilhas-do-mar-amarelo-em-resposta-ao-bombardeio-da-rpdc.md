@@ -3,7 +3,7 @@ title: Coreia do Sul realiza exercícios nas ilhas do Mar Amarelo em resposta ao
   da RPDC
 date: 2024-01-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

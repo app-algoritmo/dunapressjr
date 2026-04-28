@@ -2,7 +2,7 @@
 title: 'Um ladrão silencioso da visão: você está em risco?'
 date: 2023-05-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

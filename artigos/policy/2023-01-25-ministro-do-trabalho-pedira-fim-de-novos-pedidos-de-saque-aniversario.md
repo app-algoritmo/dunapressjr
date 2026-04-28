@@ -2,7 +2,7 @@
 title: Ministro do Trabalho pedirá fim de novos pedidos de saque-aniversário
 date: 2023-01-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

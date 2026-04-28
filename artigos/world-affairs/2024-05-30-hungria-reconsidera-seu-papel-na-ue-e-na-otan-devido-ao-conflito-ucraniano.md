@@ -2,7 +2,7 @@
 title: Hungria Reconsidera seu Papel na UE e na OTAN devido ao Conflito Ucraniano
 date: 2024-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

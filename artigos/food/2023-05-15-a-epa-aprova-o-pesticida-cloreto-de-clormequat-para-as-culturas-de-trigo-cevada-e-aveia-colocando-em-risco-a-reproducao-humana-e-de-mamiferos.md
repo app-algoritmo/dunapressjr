@@ -3,7 +3,7 @@ title: A EPA aprova o pesticida cloreto de clormequat para as culturas de trigo,
   e aveia, colocando em risco a reprodução humana e de mamíferos
 date: 2023-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

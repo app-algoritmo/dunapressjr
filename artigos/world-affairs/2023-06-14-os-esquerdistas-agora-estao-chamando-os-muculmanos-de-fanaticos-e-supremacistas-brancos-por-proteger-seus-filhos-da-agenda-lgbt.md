@@ -3,7 +3,7 @@ title: Os esquerdistas agora estão chamando os muçulmanos de “fanáticos” 
   brancos” por proteger seus filhos da agenda LGBT
 date: 2023-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

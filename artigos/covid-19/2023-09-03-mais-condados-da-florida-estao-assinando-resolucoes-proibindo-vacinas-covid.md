@@ -2,7 +2,7 @@
 title: Mais condados da Flórida estão assinando resoluções proibindo ‘vacinas’ COVID
 date: 2023-09-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

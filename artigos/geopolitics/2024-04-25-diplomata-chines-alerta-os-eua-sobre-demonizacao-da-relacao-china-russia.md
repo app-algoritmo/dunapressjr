@@ -2,7 +2,7 @@
 title: Diplomata Chinês Alerta os EUA sobre 'Demonização' da Relação China-Rússia
 date: 2024-04-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

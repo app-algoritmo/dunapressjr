@@ -2,7 +2,7 @@
 title: Seif apoia PEC que criminaliza porte ou posse de qualquer quantidade de droga
 date: 2023-11-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

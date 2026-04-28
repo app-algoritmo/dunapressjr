@@ -2,7 +2,7 @@
 title: 'Ataques dos EUA no Iraque: Uma Violenta Sombra na Soberania Iraquiana'
 date: 2024-02-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

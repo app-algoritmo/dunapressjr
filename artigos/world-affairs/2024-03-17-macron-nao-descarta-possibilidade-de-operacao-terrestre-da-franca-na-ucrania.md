@@ -2,7 +2,7 @@
 title: Macron não descarta possibilidade de operação terrestre da França na Ucrânia
 date: 2024-03-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

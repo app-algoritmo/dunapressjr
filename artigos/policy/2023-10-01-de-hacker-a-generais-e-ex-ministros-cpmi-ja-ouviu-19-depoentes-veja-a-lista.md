@@ -2,7 +2,7 @@
 title: De hacker a generais e ex-ministros, CPMI já ouviu 19 depoentes; veja a lista
 date: 2023-10-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

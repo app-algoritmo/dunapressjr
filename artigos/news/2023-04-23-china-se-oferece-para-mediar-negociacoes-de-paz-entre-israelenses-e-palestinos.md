@@ -2,7 +2,7 @@
 title: China se oferece para mediar negociações de paz entre israelenses e palestinos
 date: 2023-04-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

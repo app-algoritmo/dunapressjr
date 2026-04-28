@@ -2,7 +2,7 @@
 title: Covid-19 e o McDonald's
 date: 2023-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

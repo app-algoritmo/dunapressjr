@@ -3,7 +3,7 @@ title: SP cria comitê para desburocratizar compras de medicamentos em 39 unidad
   de saúde
 date: 2023-11-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

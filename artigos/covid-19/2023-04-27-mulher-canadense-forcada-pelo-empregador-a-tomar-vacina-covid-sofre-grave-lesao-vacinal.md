@@ -3,7 +3,7 @@ title: Mulher canadense forçada pelo empregador a tomar vacina COVID sofre grav
   vacinal
 date: 2023-04-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

@@ -3,7 +3,7 @@ title: 'Pressões Islâmicas nas Escolas Alemãs: Pais Alarmados com Exigências
   e Ameaças aos Professores'
 date: 2024-04-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

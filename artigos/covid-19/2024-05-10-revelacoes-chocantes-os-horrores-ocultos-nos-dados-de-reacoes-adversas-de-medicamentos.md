@@ -3,7 +3,7 @@ title: 'Revelações Chocantes: Os Horrores Ocultos nos Dados de Reações Adver
   Medicamentos'
 date: 2024-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

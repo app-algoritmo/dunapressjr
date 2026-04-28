@@ -3,7 +3,7 @@ title: Girão vai denunciar à PGR deputado que teria recebido propina para defe
   apostas esportivas
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

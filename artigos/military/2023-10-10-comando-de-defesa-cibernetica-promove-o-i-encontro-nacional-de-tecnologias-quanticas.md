@@ -3,7 +3,7 @@ title: Comando de Defesa Cibernética promove o I Encontro Nacional de Tecnologi
   Quânticas
 date: 2023-10-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

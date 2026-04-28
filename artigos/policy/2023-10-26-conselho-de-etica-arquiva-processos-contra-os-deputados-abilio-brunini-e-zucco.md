@@ -2,7 +2,7 @@
 title: Conselho de Ética arquiva processos contra os deputados Abílio Brunini e Zucco
 date: 2023-10-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

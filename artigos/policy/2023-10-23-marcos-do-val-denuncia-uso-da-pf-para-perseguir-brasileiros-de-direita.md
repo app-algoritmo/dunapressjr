@@ -2,7 +2,7 @@
 title: Marcos do Val denuncia uso da PF para perseguir brasileiros de direita
 date: 2023-10-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

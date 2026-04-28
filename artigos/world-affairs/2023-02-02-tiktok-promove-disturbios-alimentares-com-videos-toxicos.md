@@ -2,7 +2,7 @@
 title: TikTok promove distúrbios alimentares com vídeos tóxicos
 date: 2023-02-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

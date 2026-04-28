@@ -2,7 +2,7 @@
 title: Bielorrússia entrega nota de intenção de se unir ao BRICS ao Brasil
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

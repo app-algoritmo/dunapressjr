@@ -3,7 +3,7 @@ title: 'Daniel Noboa assume a presidência do Equador: “Tenho uma visão renov
   jovem”'
 date: 2023-11-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

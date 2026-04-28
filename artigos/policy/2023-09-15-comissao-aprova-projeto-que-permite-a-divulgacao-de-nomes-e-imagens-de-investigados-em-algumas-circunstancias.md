@@ -3,7 +3,7 @@ title: Comissão aprova projeto que permite a divulgação de nomes e imagens de
   em algumas circunstâncias
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

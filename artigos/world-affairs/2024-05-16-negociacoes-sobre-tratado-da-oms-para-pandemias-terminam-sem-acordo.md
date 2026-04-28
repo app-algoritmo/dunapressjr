@@ -2,7 +2,7 @@
 title: Negociações sobre Tratado da OMS para Pandemias Terminam Sem Acordo
 date: 2024-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

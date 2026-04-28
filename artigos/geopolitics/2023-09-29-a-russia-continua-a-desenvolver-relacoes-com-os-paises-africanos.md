@@ -2,7 +2,7 @@
 title: A Rússia continua a desenvolver relações com os países africanos
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

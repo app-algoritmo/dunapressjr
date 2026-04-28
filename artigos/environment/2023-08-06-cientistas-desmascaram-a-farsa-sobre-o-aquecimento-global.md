@@ -2,7 +2,7 @@
 title: Cientistas desmascaram a farsa sobre o aquecimento global
 date: 2023-08-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

@@ -3,7 +3,7 @@ title: Jim Caviezel pede unidade para lutar contra o mal e 'fanatismo anti-crist
   de esquerdistas
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

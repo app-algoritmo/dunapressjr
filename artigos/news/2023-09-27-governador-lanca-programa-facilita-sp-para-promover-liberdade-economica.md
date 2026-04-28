@@ -2,7 +2,7 @@
 title: Governador lança programa Facilita SP para promover liberdade econômica
 date: 2023-09-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

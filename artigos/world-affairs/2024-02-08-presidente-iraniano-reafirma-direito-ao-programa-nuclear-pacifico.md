@@ -2,7 +2,7 @@
 title: Presidente iraniano reafirma direito ao programa nuclear pacífico
 date: 2024-02-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

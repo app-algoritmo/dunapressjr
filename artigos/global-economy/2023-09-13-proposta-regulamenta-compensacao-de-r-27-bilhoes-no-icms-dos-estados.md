@@ -2,7 +2,7 @@
 title: Proposta regulamenta compensação de R$ 27 bilhões no ICMS dos estados
 date: 2023-09-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

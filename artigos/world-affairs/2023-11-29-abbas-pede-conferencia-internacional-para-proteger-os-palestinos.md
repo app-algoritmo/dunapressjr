@@ -2,7 +2,7 @@
 title: Abbas pede conferência internacional para proteger os palestinos
 date: 2023-11-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

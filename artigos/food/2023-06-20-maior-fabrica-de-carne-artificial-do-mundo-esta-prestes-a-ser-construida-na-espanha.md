@@ -3,7 +3,7 @@ title: Maior fábrica de carne artificial do mundo está prestes a ser construí
   Espanha
 date: 2023-06-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

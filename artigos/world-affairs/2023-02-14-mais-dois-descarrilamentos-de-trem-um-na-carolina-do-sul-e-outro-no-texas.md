@@ -2,7 +2,7 @@
 title: Mais dois descarrilamentos de trem, um na Carolina do Sul e outro no Texas
 date: 2023-02-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

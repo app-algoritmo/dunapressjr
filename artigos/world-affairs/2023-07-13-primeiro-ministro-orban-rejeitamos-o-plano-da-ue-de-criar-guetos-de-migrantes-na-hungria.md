@@ -3,7 +3,7 @@ title: 'Primeiro Ministro Orbán: Rejeitamos o plano da UE de criar ''guetos de 
   na Hungria'
 date: 2023-07-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

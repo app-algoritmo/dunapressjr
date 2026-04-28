@@ -2,7 +2,7 @@
 title: A OMS está planejando desencadear bloqueios climáticos como a próxima “pandemia?”
 date: 2023-06-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

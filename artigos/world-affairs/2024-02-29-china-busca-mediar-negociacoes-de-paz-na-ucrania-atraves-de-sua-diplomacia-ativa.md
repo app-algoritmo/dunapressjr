@@ -3,7 +3,7 @@ title: China busca mediar negociações de paz na Ucrânia através de sua diplo
   ativa
 date: 2024-02-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

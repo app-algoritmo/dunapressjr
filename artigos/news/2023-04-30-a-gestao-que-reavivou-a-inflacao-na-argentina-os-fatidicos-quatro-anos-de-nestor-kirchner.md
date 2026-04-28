@@ -3,7 +3,7 @@ title: 'A gestão que reavivou a inflação na Argentina: os fatídicos quatro a
   Néstor Kirchner'
 date: 2023-04-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: A Crucial Necessidade da Integridade Territorial Brasileira em Meio às D
   Políticas, Econômicas e Culturais
 date: 2024-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

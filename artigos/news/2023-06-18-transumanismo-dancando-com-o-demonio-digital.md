@@ -2,7 +2,7 @@
 title: 'Transumanismo: Dançando com o Demônio Digital'
 date: 2023-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

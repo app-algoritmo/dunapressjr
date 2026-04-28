@@ -2,7 +2,7 @@
 title: Presidente da CPMI denunciará Mauro Cid ao STF
 date: 2023-07-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

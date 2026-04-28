@@ -2,7 +2,7 @@
 title: Sul-coreano preso na Rússia por espionagem sob a fachada de escritor
 date: 2024-03-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

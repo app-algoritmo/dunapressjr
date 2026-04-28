@@ -3,7 +3,7 @@ title: Pesquisa Sugere Vitória de Álvaro Uribe sobre Gustavo Petro em Cenário
   de Eleição na Colômbia
 date: 2024-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

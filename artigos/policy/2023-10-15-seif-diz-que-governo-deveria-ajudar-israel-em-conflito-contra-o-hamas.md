@@ -2,7 +2,7 @@
 title: Seif diz que governo deveria ajudar Israel em conflito contra o Hamas
 date: 2023-10-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

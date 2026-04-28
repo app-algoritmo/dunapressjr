@@ -2,7 +2,7 @@
 title: Cleitinho propõe fim do sigilo de cartão corporativo e critica gastos do governo
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

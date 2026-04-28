@@ -2,7 +2,7 @@
 title: Putin argumenta que a Ucrânia é um estado artificial criado pela União Soviética
 date: 2024-02-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

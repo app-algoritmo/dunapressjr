@@ -2,7 +2,7 @@
 title: 'Contradições na Transparência: Schwab e o WEF'
 date: 2023-08-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Ucrânia atinge posições russas perto de Soledar com munições químicas
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

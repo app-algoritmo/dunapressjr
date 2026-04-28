@@ -2,7 +2,7 @@
 title: OMS pede guia sobre 'sexualidade para crianças pequenas'
 date: 2023-05-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

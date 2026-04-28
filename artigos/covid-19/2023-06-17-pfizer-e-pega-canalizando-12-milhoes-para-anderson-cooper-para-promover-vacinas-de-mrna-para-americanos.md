@@ -3,7 +3,7 @@ title: Pfizer é pega canalizando $ 12 milhões para Anderson Cooper para promov
   de mRNA para americanos
 date: 2023-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

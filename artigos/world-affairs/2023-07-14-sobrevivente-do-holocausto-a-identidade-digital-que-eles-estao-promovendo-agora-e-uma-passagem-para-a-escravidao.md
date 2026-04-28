@@ -3,7 +3,7 @@ title: 'Sobrevivente do Holocausto: ''A identidade digital que eles estão promo
   agora é uma passagem para a escravidão!'''
 date: 2023-07-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

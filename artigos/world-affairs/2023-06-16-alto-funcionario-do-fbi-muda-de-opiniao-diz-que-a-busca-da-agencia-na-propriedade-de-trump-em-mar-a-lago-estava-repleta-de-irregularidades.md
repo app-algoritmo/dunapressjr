@@ -3,7 +3,7 @@ title: Alto funcionário do FBI muda de opinião, diz que a busca da agência na
   de Trump em Mar-a-Lago estava repleta de irregularidades
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

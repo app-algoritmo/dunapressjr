@@ -2,7 +2,7 @@
 title: Taiwan relata um aumento de 18 vezes nas lesões causadas por vacinas
 date: 2023-09-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

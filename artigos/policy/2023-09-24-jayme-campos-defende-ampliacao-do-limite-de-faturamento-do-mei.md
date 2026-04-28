@@ -2,7 +2,7 @@
 title: Jayme Campos defende ampliação do limite de faturamento do MEI
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

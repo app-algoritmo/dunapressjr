@@ -3,7 +3,7 @@ title: Projeto aumenta pena para crimes de estupro e importunação sexual comet
   em carro de aplicativo
 date: 2023-08-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

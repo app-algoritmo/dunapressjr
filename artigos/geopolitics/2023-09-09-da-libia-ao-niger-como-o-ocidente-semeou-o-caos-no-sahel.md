@@ -2,7 +2,7 @@
 title: 'Da Líbia ao Níger: como o Ocidente semeou o caos no Sahel'
 date: 2023-09-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

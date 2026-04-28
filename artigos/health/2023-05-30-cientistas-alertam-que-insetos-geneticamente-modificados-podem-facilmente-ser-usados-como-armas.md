@@ -3,7 +3,7 @@ title: Cientistas alertam que insetos geneticamente modificados podem facilmente
   usados ​​como armas
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: DeSantis assina projeto de lei que põe fim ao voto unânime obrigatório
   para pena de morte
 date: 2023-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

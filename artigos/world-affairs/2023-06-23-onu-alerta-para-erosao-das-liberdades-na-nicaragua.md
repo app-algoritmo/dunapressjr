@@ -2,7 +2,7 @@
 title: ONU alerta para 'erosão' das liberdades na Nicarágua
 date: 2023-06-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

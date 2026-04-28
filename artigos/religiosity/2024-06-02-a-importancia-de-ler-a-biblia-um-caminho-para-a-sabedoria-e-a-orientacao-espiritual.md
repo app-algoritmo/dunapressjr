@@ -3,7 +3,7 @@ title: 'A Importância de Ler a Bíblia: Um Caminho para a Sabedoria e a Orienta
   Espiritual'
 date: 2024-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Religiosity
 ---

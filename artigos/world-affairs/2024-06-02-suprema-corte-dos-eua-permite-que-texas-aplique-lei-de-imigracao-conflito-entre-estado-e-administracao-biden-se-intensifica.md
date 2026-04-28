@@ -3,7 +3,7 @@ title: 'Suprema Corte dos EUA Permite que Texas Aplique Lei de Imigração: Conf
   entre Estado e Administração Biden se Intensifica'
 date: 2024-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

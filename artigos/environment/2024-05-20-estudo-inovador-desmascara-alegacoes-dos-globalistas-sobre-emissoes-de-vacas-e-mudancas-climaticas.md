@@ -3,7 +3,7 @@ title: Estudo Inovador Desmascara Alegações dos Globalistas sobre Emissões de
   e Mudanças Climáticas
 date: 2024-05-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

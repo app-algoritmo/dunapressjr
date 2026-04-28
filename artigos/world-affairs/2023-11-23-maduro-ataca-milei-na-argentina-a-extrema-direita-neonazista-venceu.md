@@ -2,7 +2,7 @@
 title: 'Maduro ataca Milei: “Na Argentina a extrema direita neonazista venceu”'
 date: 2023-11-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Medvedev destaca a necessidade de os russos se unirem em torno do presidente
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

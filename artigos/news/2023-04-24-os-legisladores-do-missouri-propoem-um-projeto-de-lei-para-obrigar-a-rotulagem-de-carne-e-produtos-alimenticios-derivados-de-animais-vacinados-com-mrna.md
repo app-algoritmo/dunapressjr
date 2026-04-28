@@ -3,7 +3,7 @@ title: Os legisladores do Missouri propõem um projeto de lei para obrigar a rot
   de carne e produtos alimentícios derivados de animais vacinados com mRNA
 date: 2023-04-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

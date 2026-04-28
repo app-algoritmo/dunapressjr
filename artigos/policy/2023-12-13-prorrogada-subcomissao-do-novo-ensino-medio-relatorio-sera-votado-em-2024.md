@@ -2,7 +2,7 @@
 title: Prorrogada Subcomissão do Novo Ensino Médio; relatório será votado em 2024
 date: 2023-12-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

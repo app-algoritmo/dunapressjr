@@ -3,7 +3,7 @@ title: Paraná envia policiais civis e militares para auxiliar o Rio de Janeiro 
   30 dias
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

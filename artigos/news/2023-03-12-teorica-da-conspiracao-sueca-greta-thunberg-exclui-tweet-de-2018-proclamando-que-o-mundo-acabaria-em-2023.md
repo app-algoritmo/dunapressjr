@@ -3,7 +3,7 @@ title: Teórica da conspiração, sueca Greta Thunberg exclui tweet de 2018 proc
   que o mundo acabaria em 2023
 date: 2023-03-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

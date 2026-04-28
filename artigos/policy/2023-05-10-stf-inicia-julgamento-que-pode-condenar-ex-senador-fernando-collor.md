@@ -2,7 +2,7 @@
 title: STF inicia julgamento que pode condenar ex-senador Fernando Collor
 date: 2023-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

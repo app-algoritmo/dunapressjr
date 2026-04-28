@@ -3,7 +3,7 @@ title: 'Lavrov desafia o Ocidente a abandonar a ''fórmula'' de Zelensky: ''Deix
   dizer isso'''
 date: 2024-04-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

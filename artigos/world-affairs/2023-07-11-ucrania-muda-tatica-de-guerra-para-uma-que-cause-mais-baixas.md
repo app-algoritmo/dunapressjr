@@ -2,7 +2,7 @@
 title: Ucrânia muda tática de guerra para uma que cause mais baixas
 date: 2023-07-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

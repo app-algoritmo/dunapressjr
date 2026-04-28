@@ -2,7 +2,7 @@
 title: Se as tendências atuais se mantiverem, a guerra civil na Europa será inevitável
 date: 2023-10-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Chronicle
 ---

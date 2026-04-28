@@ -2,7 +2,7 @@
 title: UNESCO lança “diretrizes” para regular todo conteúdo online
 date: 2023-11-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

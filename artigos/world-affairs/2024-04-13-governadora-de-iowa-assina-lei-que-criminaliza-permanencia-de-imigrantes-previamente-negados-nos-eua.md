@@ -3,7 +3,7 @@ title: Governadora de Iowa assina lei que criminaliza permanência de imigrantes
   negados nos EUA
 date: 2024-04-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

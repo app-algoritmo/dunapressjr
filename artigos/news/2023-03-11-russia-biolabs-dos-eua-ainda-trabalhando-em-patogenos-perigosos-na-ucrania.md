@@ -2,7 +2,7 @@
 title: 'Rússia: Biolabs dos EUA ainda trabalhando em patógenos perigosos na Ucrânia'
 date: 2023-03-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

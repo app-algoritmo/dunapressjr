@@ -2,7 +2,7 @@
 title: Heinze afirma que Macron não tem autoridade para criticar a agricultura brasileira
 date: 2023-12-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

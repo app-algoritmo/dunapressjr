@@ -3,7 +3,7 @@ title: Trump chama Biden de 'presidente mais corrupto da história' após ameaç
   tráfico de influência
 date: 2023-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Presidente Chinês Xi Jinping Recebe o Secretário de Estado dos EUA em B
   para Fortalecer Relações Bilaterais
 date: 2024-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

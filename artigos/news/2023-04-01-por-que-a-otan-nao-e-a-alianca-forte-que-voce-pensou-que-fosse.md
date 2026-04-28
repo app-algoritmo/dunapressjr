@@ -2,7 +2,7 @@
 title: Por que a OTAN não é a aliança forte que você pensou que fosse
 date: 2023-04-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

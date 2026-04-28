@@ -2,7 +2,7 @@
 title: Marcos Rogério condena 'ataques' do governo contra jornalista
 date: 2023-11-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

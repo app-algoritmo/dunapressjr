@@ -2,7 +2,7 @@
 title: Como as injeções de RNA alteram geneticamente você de forma permanente
 date: 2023-05-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

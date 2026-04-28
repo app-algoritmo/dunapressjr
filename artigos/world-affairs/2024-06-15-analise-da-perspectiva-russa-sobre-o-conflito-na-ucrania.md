@@ -2,7 +2,7 @@
 title: Análise da Perspectiva Russa Sobre o Conflito na Ucrânia
 date: 2024-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

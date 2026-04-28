@@ -3,7 +3,7 @@ title: Polícia estoura casa bomba e apreende 12 mil porções de K9 que iriam p
   Cracolândia
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

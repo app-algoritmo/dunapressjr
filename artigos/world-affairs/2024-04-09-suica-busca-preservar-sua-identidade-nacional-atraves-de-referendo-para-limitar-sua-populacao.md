@@ -3,7 +3,7 @@ title: Suíça busca preservar sua identidade nacional através de referendo par
   sua população
 date: 2024-04-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

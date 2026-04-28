@@ -2,7 +2,7 @@
 title: Donald Trump Acusa Departamento de Justiça de Interferência Eleitoral
 date: 2024-02-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

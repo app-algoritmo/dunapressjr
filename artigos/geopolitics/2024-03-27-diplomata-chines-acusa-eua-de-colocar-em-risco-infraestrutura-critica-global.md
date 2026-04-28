@@ -2,7 +2,7 @@
 title: Diplomata Chinês Acusa EUA de Colocar em Risco Infraestrutura Crítica Global
 date: 2024-03-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

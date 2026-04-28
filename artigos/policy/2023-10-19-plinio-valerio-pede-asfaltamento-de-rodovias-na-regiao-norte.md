@@ -2,7 +2,7 @@
 title: Plínio Valério pede asfaltamento de rodovias na Região Norte
 date: 2023-10-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

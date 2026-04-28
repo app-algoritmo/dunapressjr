@@ -3,7 +3,7 @@ title: 'Coma suas vacinas: terapia genética de mRNA deve estar disponível em a
   este mês'
 date: 2023-04-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

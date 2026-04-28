@@ -3,7 +3,7 @@ title: Chanceleres chinês e brasileiro elogiam significado estratégico e impac
   da cooperação bilateral
 date: 2024-01-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Viktor Orbán Reafirma Compromisso da Hungria com a Preservação da Iden
   Nacional
 date: 2024-04-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

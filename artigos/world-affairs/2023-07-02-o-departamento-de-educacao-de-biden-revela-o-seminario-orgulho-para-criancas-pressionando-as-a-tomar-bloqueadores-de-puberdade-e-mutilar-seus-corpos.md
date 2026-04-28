@@ -3,7 +3,7 @@ title: O departamento de educação de Biden revela o seminário “Orgulho” p
   pressionando-as a tomar bloqueadores de puberdade e mutilar seus corpos
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

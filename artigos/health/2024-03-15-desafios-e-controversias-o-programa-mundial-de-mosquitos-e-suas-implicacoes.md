@@ -2,7 +2,7 @@
 title: 'Desafios e Controvérsias: O Programa Mundial de Mosquitos e suas Implicações'
 date: 2024-03-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

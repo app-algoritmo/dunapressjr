@@ -2,7 +2,7 @@
 title: Regulamentação da IA exige foco na centralidade humana, aponta debate
 date: 2023-10-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

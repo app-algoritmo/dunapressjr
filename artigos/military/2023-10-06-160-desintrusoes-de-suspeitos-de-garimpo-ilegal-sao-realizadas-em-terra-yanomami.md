@@ -2,7 +2,7 @@
 title: 160 desintrusões de suspeitos de garimpo ilegal são realizadas em Terra Yanomami
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

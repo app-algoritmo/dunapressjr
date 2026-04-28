@@ -2,7 +2,7 @@
 title: Como a ficção dos EUA e seus aliados engana o público
 date: 2023-02-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

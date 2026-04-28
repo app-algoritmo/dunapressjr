@@ -2,7 +2,7 @@
 title: Jornal acusa Elon Musk de hipocrisia
 date: 2024-04-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Social networks
 ---

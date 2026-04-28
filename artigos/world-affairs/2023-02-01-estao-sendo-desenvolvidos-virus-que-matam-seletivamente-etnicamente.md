@@ -2,7 +2,7 @@
 title: Estão sendo desenvolvidos vírus que matam seletivamente etnicamente?
 date: 2023-02-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

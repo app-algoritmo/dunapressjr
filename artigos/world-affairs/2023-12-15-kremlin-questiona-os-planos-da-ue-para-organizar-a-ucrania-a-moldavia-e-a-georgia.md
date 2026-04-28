@@ -3,7 +3,7 @@ title: Kremlin questiona os planos da UE para organizar a Ucrânia, a Moldávia 
   Geórgia
 date: 2023-12-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

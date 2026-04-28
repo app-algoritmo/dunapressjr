@@ -3,7 +3,7 @@ title: 'De soldados a civis: o governo dos EUA agora quer usar a tecnologia de s
   DARPA com civis'
 date: 2023-08-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

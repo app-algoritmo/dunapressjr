@@ -2,7 +2,7 @@
 title: 'Cosud: governadores discutem integração de dados para combater o crime organizado'
 date: 2023-10-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

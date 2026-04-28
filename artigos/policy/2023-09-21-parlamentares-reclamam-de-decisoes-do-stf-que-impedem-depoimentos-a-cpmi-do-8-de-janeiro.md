@@ -3,7 +3,7 @@ title: Parlamentares reclamam de decisões do STF que impedem depoimentos à CPM
   8 de Janeiro
 date: 2023-09-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

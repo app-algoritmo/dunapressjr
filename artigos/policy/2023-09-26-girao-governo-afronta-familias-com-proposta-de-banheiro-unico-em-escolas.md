@@ -2,7 +2,7 @@
 title: 'Girão: governo afronta famílias com proposta de banheiro único em escolas'
 date: 2023-09-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

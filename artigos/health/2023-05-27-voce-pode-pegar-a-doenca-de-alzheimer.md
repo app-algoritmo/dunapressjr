@@ -2,7 +2,7 @@
 title: Você pode 'pegar' a doença de Alzheimer?
 date: 2023-05-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

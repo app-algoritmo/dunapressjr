@@ -2,7 +2,7 @@
 title: Senado deve ouvir prefeitos sobre reforma tributária, diz Pacheco
 date: 2023-08-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

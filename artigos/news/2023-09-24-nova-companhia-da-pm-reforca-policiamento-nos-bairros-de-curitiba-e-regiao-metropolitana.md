@@ -3,7 +3,7 @@ title: Nova Companhia da PM reforça policiamento nos bairros de Curitiba e Regi
   Metropolitana
 date: 2023-09-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

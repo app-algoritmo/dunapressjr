@@ -2,7 +2,7 @@
 title: Produtores familiares de leite pedem apoio para estancar crise no setor
 date: 2023-08-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

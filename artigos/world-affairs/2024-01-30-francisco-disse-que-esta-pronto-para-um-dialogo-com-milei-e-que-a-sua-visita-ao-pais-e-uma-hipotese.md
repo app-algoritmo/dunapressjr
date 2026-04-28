@@ -3,7 +3,7 @@ title: Francisco disse que está “pronto” para um diálogo com Milei e que a
   ao país é “uma hipótese”
 date: 2024-01-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

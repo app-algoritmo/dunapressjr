@@ -3,7 +3,7 @@ title: O mundo árabe será o epicentro da mudança global em 2024, diz chefe da
   russa
 date: 2023-12-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

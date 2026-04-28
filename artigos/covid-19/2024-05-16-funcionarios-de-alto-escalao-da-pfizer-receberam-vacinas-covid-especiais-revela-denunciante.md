@@ -3,7 +3,7 @@ title: Funcionários de Alto Escalão da Pfizer Receberam Vacinas Covid Especiai
   Denunciante
 date: 2024-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

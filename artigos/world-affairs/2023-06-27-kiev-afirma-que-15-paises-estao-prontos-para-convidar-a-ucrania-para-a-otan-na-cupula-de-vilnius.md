@@ -3,7 +3,7 @@ title: Kiev afirma que 15 países estão prontos para convidar a Ucrânia para a
   na cúpula de Vilnius
 date: 2023-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

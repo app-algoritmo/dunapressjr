@@ -2,7 +2,7 @@
 title: Desde 2001 já foram mais de 20 simulações de pandemias
 date: 2023-04-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

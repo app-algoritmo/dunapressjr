@@ -2,7 +2,7 @@
 title: Marcos Rogério critica decisão do STF sobre função social de terras produtivas
 date: 2023-09-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

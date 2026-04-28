@@ -2,7 +2,7 @@
 title: Lira indica que votação do novo arcabouço fiscal fica para agosto
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

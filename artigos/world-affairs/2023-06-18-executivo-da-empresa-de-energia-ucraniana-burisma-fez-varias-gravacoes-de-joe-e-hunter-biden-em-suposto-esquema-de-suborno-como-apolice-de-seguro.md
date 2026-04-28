@@ -3,7 +3,7 @@ title: Executivo da empresa de energia ucraniana Burisma fez várias gravações
   e Hunter Biden em suposto esquema de suborno como 'apólice de seguro'
 date: 2023-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

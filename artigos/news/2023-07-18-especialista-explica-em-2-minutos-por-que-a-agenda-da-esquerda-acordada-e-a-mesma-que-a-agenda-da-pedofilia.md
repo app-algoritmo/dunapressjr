@@ -3,7 +3,7 @@ title: Especialista explica em 2 minutos por que a agenda da esquerda acordada Ã
   mesma que a agenda da pedofilia
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Desafios Financeiros na África Subsaariana: Queda da Dívida, Mas Novos
   Escassos, Alerta FMI'
 date: 2024-04-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

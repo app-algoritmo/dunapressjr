@@ -2,7 +2,7 @@
 title: O que você percebe sobre o tempo da acusação contra Trump?
 date: 2023-08-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

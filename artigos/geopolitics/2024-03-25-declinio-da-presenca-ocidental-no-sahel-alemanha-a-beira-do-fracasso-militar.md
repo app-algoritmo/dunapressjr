@@ -2,7 +2,7 @@
 title: 'Declínio da Presença Ocidental no Sahel: Alemanha à Beira do Fracasso Militar'
 date: 2024-03-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

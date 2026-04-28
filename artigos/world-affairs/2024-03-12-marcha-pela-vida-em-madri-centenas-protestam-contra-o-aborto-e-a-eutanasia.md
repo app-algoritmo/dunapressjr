@@ -2,7 +2,7 @@
 title: 'Marcha pela Vida em Madri: Centenas Protestam Contra o Aborto e a Eutanásia'
 date: 2024-03-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

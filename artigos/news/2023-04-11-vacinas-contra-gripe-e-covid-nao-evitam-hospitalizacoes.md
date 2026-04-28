@@ -2,7 +2,7 @@
 title: Vacinas contra gripe e covid não evitam hospitalizações
 date: 2023-04-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

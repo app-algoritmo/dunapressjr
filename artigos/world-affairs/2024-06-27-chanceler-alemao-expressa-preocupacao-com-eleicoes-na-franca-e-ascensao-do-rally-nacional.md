@@ -3,7 +3,7 @@ title: Chanceler Alemão Expressa Preocupação com Eleições na França e Asce
   Rally Nacional
 date: 2024-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

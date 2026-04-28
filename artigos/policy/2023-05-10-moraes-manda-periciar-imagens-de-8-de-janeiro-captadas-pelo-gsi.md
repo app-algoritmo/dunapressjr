@@ -2,7 +2,7 @@
 title: Moraes manda periciar imagens de 8 de janeiro captadas pelo GSI
 date: 2023-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

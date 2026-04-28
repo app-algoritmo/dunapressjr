@@ -2,7 +2,7 @@
 title: Jovens militares são declarados Aspirantes a Oficial da Reserva
 date: 2023-12-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

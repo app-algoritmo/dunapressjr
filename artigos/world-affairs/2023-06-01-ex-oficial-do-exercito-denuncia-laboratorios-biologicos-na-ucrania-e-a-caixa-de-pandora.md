@@ -3,7 +3,7 @@ title: 'Ex-oficial do exército denuncia laboratórios biológicos na Ucrânia: 
   caixa de Pandora'''
 date: 2023-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

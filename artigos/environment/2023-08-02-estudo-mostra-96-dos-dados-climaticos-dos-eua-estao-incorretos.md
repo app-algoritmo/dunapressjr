@@ -2,7 +2,7 @@
 title: 'Estudo mostra: 96% dos dados climáticos dos EUA estão incorretos'
 date: 2023-08-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

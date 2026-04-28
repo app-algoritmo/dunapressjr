@@ -2,7 +2,7 @@
 title: Fundação Gates Financia Pesquisa sobre H5N1, Levantando Preocupações
 date: 2024-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: Ataques de Drones a Sistemas de Radar Russos Aumentam Tensão e Risco de 
   Global
 date: 2024-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

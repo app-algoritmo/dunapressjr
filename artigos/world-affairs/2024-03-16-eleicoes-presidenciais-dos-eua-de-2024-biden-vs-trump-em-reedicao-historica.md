@@ -2,7 +2,7 @@
 title: 'Eleições Presidenciais dos EUA de 2024: Biden vs. Trump em Reedição Histórica'
 date: 2024-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

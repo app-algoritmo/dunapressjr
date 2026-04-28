@@ -3,7 +3,7 @@ title: Esses documentos judiciais explosivos sugerem que alguns dos sequestrador
   do 11 de setembro eram agentes da CIA
 date: 2023-04-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

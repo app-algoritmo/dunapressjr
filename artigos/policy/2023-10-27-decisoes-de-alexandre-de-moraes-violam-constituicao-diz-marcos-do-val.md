@@ -2,7 +2,7 @@
 title: Decisões de Alexandre de Moraes violam Constituição, diz Marcos do Val
 date: 2023-10-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

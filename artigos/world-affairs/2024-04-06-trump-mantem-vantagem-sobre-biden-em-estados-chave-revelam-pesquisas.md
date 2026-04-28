@@ -2,7 +2,7 @@
 title: Trump Mantém Vantagem sobre Biden em Estados-Chave, Revelam Pesquisas
 date: 2024-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

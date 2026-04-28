@@ -3,7 +3,7 @@ title: Presidente do Tribunal Eleitoral da Guatemala Sob Investigação por Supo
   Obstrução da Justiça
 date: 2024-02-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

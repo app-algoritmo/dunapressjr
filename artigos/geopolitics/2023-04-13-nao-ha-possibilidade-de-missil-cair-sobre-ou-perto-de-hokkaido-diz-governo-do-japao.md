@@ -3,7 +3,7 @@ title: Não há possibilidade de míssil cair sobre ou perto de Hokkaido, diz go
   do Japão
 date: 2023-04-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 - World Affairs

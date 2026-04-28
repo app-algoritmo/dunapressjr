@@ -3,7 +3,7 @@ title: 'Aterrorizante relatório final da Rússia: EUA trabalhando em arma biol�
   “universal” geneticamente modificada'
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

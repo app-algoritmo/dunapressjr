@@ -3,7 +3,7 @@ title: Prefeito de Nova York busca alterar políticas de 'cidade santuário' par
   imigrantes criminosos ao ICEA
 date: 2024-03-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

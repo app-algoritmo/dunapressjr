@@ -2,7 +2,7 @@
 title: Diego Arria acusa a “acomodação” do Governo Biden com a narcotirania de Maduro
 date: 2023-12-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

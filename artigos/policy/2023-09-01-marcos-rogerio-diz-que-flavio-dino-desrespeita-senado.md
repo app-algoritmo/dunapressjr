@@ -2,7 +2,7 @@
 title: Marcos Rogério diz que Flávio Dino desrespeita Senado
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

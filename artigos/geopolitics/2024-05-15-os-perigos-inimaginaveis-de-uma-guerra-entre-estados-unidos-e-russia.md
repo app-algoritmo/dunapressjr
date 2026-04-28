@@ -2,7 +2,7 @@
 title: Os Perigos Inimagináveis de uma Guerra entre Estados Unidos e Rússia
 date: 2024-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Secretário de Estado da Virgínia Ocidental diz que as eleições de 202
   “roubadas pela CIA”
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

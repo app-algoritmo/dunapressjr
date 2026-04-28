@@ -2,7 +2,7 @@
 title: Especialistas pedem atuação maior dos bancos no combate aos golpes financeiros
 date: 2023-10-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

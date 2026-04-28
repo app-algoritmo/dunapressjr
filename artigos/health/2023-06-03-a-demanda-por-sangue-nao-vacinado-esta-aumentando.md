@@ -2,7 +2,7 @@
 title: A demanda por sangue não vacinado está aumentando
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

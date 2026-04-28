@@ -3,7 +3,7 @@ title: Governo Lula vira ‘cabide de emprego’ para deputados não eleitos e p
   esquecidos
 date: 2023-01-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

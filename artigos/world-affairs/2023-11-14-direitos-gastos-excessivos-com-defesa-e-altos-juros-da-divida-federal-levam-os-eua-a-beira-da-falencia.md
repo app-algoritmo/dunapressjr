@@ -3,7 +3,7 @@ title: Direitos, gastos excessivos com defesa e altos juros da dívida federal l
   os EUA à beira da falência
 date: 2023-11-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

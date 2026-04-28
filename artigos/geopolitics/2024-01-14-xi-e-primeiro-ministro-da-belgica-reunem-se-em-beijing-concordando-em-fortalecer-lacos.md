@@ -3,7 +3,7 @@ title: Xi e primeiro-ministro da Bélgica reúnem-se em Beijing, concordando em 
   laços
 date: 2024-01-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: CEO do Twitter com laços com o WEF revela nova agenda anti-liberdade
 date: 2023-08-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

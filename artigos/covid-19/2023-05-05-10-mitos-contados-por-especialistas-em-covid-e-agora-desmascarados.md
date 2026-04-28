@@ -2,7 +2,7 @@
 title: 10 mitos contados por 'especialistas em COVID' e agora desmascarados
 date: 2023-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

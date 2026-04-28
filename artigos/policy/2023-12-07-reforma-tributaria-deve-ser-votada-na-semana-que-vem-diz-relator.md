@@ -2,7 +2,7 @@
 title: Reforma tributária deve ser votada na semana que vem, diz relator
 date: 2023-12-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

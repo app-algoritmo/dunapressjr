@@ -3,7 +3,7 @@ title: Um número impressionante de pessoas com problemas de memória após a 'p
   do corona'
 date: 2023-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

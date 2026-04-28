@@ -2,7 +2,7 @@
 title: Supremo anula condenação de Cunha na Lava Jato
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

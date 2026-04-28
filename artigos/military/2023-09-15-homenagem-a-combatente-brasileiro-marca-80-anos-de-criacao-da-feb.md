@@ -2,7 +2,7 @@
 title: Homenagem a combatente brasileiro marca 80 anos de criação da FEB
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

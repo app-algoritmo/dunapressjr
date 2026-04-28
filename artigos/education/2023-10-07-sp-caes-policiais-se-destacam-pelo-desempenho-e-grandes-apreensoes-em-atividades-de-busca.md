@@ -3,7 +3,7 @@ title: 'SP: Cães policiais se destacam pelo desempenho e grandes apreensões em
   de busca'
 date: 2023-10-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Education
 - Pets

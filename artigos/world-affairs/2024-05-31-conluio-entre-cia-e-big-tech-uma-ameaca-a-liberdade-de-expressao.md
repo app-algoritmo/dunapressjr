@@ -2,7 +2,7 @@
 title: 'Conluio entre CIA e Big Tech: Uma Ameaça à Liberdade de Expressão?'
 date: 2024-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'Estudo: Crianças vacinadas transmitem COVID até 3 vezes mais do que as
   vacinadas'
 date: 2023-11-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

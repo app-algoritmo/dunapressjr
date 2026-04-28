@@ -2,7 +2,7 @@
 title: Série de vacinas contra coqueluche são ineficazes e perigosas, mostram evidências
 date: 2023-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

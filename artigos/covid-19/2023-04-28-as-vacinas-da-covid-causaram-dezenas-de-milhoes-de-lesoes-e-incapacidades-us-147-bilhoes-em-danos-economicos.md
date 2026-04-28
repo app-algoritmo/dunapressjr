@@ -3,7 +3,7 @@ title: As “vacinas” da Covid causaram dezenas de milhões de lesões e incap
   US$ 147 bilhões em danos econômicos
 date: 2023-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

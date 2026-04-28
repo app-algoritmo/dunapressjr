@@ -2,7 +2,7 @@
 title: Governo afirma que novas receitas no Orçamento são apenas 'correções de erros'
 date: 2023-09-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

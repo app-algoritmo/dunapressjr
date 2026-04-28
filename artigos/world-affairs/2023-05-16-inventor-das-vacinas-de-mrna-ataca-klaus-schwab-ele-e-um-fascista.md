@@ -2,7 +2,7 @@
 title: 'Inventor das vacinas de mRNA ataca Klaus Schwab: ''Ele é um fascista'''
 date: 2023-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

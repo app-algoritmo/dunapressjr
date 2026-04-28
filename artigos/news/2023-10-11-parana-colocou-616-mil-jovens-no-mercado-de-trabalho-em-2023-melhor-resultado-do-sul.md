@@ -3,7 +3,7 @@ title: Paraná colocou 61,6 mil jovens no mercado de trabalho em 2023, melhor re
   do Sul
 date: 2023-10-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

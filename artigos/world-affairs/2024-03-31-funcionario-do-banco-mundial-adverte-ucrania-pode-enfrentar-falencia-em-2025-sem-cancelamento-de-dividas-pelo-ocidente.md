@@ -3,7 +3,7 @@ title: 'Funcionário do Banco Mundial Adverte: Ucrânia Pode Enfrentar Falência
   sem Cancelamento de Dívidas pelo Ocidente'
 date: 2024-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

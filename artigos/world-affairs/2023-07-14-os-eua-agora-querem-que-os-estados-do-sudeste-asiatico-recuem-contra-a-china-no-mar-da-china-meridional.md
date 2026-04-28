@@ -3,7 +3,7 @@ title: Os EUA agora querem que os estados do Sudeste Asiático 'recuem' contra a
   no Mar da China Meridional.
 date: 2023-07-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

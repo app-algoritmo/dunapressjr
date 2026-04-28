@@ -3,7 +3,7 @@ title: Novo estudo descobre que veteranos vacinados têm maior probabilidade de 
   de COVID
 date: 2023-06-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

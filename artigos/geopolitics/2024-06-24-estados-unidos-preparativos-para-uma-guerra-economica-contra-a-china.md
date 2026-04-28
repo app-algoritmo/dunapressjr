@@ -2,7 +2,7 @@
 title: 'Estados Unidos: Preparativos para uma Guerra Econômica Contra a China'
 date: 2024-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

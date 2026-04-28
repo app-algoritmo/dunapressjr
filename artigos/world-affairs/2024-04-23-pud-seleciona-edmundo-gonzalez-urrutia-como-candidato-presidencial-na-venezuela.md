@@ -2,7 +2,7 @@
 title: PUD seleciona Edmundo González Urrutia como candidato presidencial na Venezuela
 date: 2024-04-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

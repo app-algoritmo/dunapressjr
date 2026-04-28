@@ -3,7 +3,7 @@ title: '''A Caminho da Escalada: EUA Consideram Apoio a Ataques Ucranianos no In
   da Rússia'''
 date: 2024-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

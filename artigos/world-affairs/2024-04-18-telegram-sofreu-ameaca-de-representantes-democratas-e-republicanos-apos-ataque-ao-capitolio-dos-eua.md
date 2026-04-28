@@ -3,7 +3,7 @@ title: Telegram Sofreu Ameaça de Representantes Democratas e Republicanos Após
   ao Capitólio dos EUA
 date: 2024-04-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

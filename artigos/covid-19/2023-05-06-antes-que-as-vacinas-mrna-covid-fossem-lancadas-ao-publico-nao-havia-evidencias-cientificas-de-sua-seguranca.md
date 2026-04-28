@@ -3,7 +3,7 @@ title: Antes que as 'vacinas' mRNA Covid fossem lançadas ao público, não havi
   científicas de sua segurança
 date: 2023-05-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

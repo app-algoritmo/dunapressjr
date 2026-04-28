@@ -3,7 +3,7 @@ title: Mastercard e Banco Africano de Desenvolvimento Lançam Programa de Identi
   Digital na África
 date: 2024-06-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

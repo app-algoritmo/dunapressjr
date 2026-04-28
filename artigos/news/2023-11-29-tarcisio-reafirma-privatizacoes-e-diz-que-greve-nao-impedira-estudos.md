@@ -2,7 +2,7 @@
 title: Tarcísio reafirma privatizações e diz que greve não impedirá estudos
 date: 2023-11-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

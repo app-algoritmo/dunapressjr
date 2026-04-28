@@ -3,7 +3,7 @@ title: 'Peste Suína Africana: Uma Ameaça Global à Produção de Suínos e à 
   Rural'
 date: 2024-05-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

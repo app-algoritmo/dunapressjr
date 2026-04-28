@@ -2,7 +2,7 @@
 title: Como eles vão explicar os dados inflacionados de mortalidade na Austrália?
 date: 2023-03-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

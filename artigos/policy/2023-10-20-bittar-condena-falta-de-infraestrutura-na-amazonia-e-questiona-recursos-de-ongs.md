@@ -3,7 +3,7 @@ title: Bittar condena falta de infraestrutura na Amazônia e questiona recursos 
   ONGs
 date: 2023-10-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

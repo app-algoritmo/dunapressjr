@@ -2,7 +2,7 @@
 title: Golpe em Kiev resultou em tragédias atuais na Ucrânia, diz Kremlin
 date: 2023-11-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

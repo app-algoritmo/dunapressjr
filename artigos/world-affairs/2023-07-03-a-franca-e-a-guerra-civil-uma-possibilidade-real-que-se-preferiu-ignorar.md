@@ -2,7 +2,7 @@
 title: 'A França e a guerra civil: uma possibilidade real que se preferiu ignorar'
 date: 2023-07-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Cleitinho critica visita de Maduro e pede que Venezuela pague dívida ao Brasil
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

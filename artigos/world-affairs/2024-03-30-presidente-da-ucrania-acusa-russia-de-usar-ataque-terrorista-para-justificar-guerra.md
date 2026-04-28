@@ -3,7 +3,7 @@ title: Presidente da Ucrânia Acusa Rússia de Usar Ataque Terrorista para Justi
   Guerra
 date: 2024-03-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

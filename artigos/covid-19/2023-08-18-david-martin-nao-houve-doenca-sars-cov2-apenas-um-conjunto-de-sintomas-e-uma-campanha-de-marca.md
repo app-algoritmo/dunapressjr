@@ -3,7 +3,7 @@ title: 'David Martin: Não houve doença SARS-Cov2, apenas um conjunto de sintom
   uma campanha de marca'
 date: 2023-08-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

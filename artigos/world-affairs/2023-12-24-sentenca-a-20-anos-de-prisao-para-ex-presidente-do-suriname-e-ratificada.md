@@ -2,7 +2,7 @@
 title: Sentença a 20 anos de prisão para ex-presidente do Suriname é ratificada
 date: 2023-12-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

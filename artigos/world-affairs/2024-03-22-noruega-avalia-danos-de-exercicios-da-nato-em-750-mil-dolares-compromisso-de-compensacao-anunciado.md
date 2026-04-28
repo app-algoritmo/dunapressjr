@@ -3,7 +3,7 @@ title: Noruega Avalia Danos de Exercícios da NATO em $750 Mil Dólares; Comprom
   de Compensação Anunciado
 date: 2024-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

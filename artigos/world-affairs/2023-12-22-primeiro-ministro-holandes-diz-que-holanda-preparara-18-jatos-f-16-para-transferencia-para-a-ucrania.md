@@ -3,7 +3,7 @@ title: Primeiro-ministro holandês diz que Holanda preparará 18 jatos F-16 para
   para a Ucrânia
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

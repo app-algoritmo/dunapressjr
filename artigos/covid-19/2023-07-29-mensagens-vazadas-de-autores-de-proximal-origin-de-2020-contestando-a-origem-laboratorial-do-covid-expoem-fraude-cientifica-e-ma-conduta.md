@@ -3,7 +3,7 @@ title: Mensagens vazadas de autores de 'Proximal Origin' de 2020 contestando a o
   laboratorial do COVID expõem fraude científica e má conduta
 date: 2023-07-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Chefe de educação do Pentágono preso por tráfico humano na Geórgia
 date: 2023-11-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

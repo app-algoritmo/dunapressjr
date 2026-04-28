@@ -2,7 +2,7 @@
 title: Como a indústria farmacêutica está lidando com a queda na aceitação de vacinas
 date: 2023-03-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: 'Descoberta na Ilha de Páscoa: A Fascinante Jornada da Rapamicina como E
   da Vida'
 date: 2024-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Science
 ---

@@ -2,7 +2,7 @@
 title: O que o WEF realmente quer dizer com 'Você não terá nada e será feliz'
 date: 2023-07-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

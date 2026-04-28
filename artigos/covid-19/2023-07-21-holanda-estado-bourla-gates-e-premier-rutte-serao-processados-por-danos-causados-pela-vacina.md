@@ -3,7 +3,7 @@ title: 'Holanda: Estado, Bourla, Gates e Premier Rutte serão processados por da
   causados pela vacina'
 date: 2023-07-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Turquia não ratificará a adesão da Suécia à OTAN a tempo da próxima
   dos principais diplomatas
 date: 2023-11-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

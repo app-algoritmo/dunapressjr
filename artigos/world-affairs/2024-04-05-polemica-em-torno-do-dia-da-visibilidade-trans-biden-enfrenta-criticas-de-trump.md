@@ -3,7 +3,7 @@ title: 'Polêmica em torno do Dia da Visibilidade Trans: Biden enfrenta crítica
   Trump'
 date: 2024-04-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

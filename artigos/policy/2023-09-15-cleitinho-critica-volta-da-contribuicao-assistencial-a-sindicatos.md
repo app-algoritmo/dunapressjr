@@ -2,7 +2,7 @@
 title: Cleitinho critica volta da contribuição assistencial a sindicatos
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

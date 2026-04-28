@@ -2,7 +2,7 @@
 title: 'Pesquisa: as vacinas aumentam o risco de autismo e doenças autoimunes'
 date: 2023-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: 'Pilotos ucranianos pilotando aviões F-16 seriam alvos voadores: aqui es
   o porquê'
 date: 2023-07-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'SP: Deputado apresenta PL para proibir a destinação de recursos públi
   eventos Pró-Drogas'
 date: 2023-06-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

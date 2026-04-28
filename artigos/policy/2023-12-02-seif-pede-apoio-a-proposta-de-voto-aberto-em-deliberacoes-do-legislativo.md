@@ -2,7 +2,7 @@
 title: Seif pede apoio a proposta de voto aberto em deliberações do Legislativo
 date: 2023-12-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

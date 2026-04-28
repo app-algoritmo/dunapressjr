@@ -2,7 +2,7 @@
 title: Elon Musk Refuta Relatos Sobre Convite para Ser Conselheiro de Trump
 date: 2024-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Biden Declara Dia da Visibilidade Trans no Domingo de Páscoa, Desencadea
   Controvérsia
 date: 2024-04-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

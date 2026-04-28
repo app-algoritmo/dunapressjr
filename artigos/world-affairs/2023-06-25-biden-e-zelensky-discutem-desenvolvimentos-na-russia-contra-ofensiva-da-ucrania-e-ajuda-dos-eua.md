@@ -3,7 +3,7 @@ title: Biden e Zelensky discutem desenvolvimentos na Rússia, contra-ofensiva da
   e ajuda dos EUA
 date: 2023-06-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

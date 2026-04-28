@@ -2,7 +2,7 @@
 title: Alto diplomata ucraniano diz que a Europa não sabe como travar a guerra
 date: 2023-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

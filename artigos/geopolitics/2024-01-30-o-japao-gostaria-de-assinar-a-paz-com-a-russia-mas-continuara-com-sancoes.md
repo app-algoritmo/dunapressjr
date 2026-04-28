@@ -2,7 +2,7 @@
 title: O Japão gostaria de assinar a paz com a Rússia, mas continuará com sanções
 date: 2024-01-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

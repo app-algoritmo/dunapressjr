@@ -2,7 +2,7 @@
 title: Biden se complica, Trump vira o jogo
 date: 2023-01-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

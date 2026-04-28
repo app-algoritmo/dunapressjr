@@ -2,7 +2,7 @@
 title: A OMS mudou e agora é uma ameaça
 date: 2023-05-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

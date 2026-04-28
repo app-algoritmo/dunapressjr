@@ -2,7 +2,7 @@
 title: Você pode explicar o que deu errado com a América?
 date: 2023-07-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'A Queda da Quarta Emenda: A Vigilância Total em Nossas Vidas Privadas'
 date: 2024-05-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

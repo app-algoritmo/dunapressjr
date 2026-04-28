@@ -3,7 +3,7 @@ title: Insulto de Biden a Putin evidencia fraqueza da política externa dos EUA,
   embaixador russo
 date: 2024-03-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: 'Novo estudo no Lancet esclarece: a vacina COVID é responsável pela mai
   das pessoas encontradas mortas após a injeção'
 date: 2023-07-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

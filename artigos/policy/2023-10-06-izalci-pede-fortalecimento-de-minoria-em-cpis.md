@@ -2,7 +2,7 @@
 title: Izalci pede fortalecimento de minoria em CPIs
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

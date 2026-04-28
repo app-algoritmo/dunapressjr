@@ -2,7 +2,7 @@
 title: EUA Intensificam Envolvimento em Myanmar para Conter a Influência da China
 date: 2024-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

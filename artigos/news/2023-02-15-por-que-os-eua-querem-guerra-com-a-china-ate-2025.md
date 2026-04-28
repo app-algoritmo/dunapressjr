@@ -2,7 +2,7 @@
 title: Por que os EUA querem guerra com a China até 2025?
 date: 2023-02-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

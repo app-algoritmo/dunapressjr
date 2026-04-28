@@ -2,7 +2,7 @@
 title: Médicos indianos agora querem uma revisão da vacina da Covid
 date: 2023-02-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

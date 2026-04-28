@@ -2,7 +2,7 @@
 title: Em meio a um ciclo de conquistas, PCPR comemora 170 anos
 date: 2023-09-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

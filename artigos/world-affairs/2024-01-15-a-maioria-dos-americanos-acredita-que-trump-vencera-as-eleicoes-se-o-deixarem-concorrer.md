@@ -3,7 +3,7 @@ title: A maioria dos americanos acredita que Trump vencerá as eleições se o d
   concorrer
 date: 2024-01-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

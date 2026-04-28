@@ -3,7 +3,7 @@ title: 'Mercenário australiano: “Meus camaradas morreram na Ucrânia e contin
   É um moedor de carne!”'
 date: 2023-07-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

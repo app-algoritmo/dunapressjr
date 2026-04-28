@@ -3,7 +3,7 @@ title: Grupo Edmond de Rothschild Expande-se para a Arábia Saudita, Alinhando-s
   a Visão Saudita 2030
 date: 2024-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

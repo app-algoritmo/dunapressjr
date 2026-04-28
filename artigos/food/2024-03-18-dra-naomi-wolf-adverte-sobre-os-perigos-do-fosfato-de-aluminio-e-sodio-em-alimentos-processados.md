@@ -3,7 +3,7 @@ title: Dra. Naomi Wolf adverte sobre os perigos do fosfato de alumínio e sódio
   alimentos processados
 date: 2024-03-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

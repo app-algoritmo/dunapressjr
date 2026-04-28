@@ -3,7 +3,7 @@ title: O ano é 2023 e os pacientes ainda estão sem tratamento médico devido �
   COVID-19
 date: 2023-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: Plínio diz que ONGs ambientais isolam Amazônia e geram pobreza
 date: 2023-08-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Rússia Condena Combatentes Neonazistas Ucranianos e Mercenários Estrang
   em Julgamentos Rigorosos
 date: 2024-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Brasil é réu na Corte Interamericana por negar cirurgia a mulher trans
 date: 2023-11-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

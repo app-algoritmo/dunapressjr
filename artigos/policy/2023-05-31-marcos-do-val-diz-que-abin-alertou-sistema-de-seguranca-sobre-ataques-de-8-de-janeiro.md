@@ -3,7 +3,7 @@ title: Marcos do Val diz que Abin alertou sistema de segurança sobre ataques de
   de janeiro
 date: 2023-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

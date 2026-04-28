@@ -2,7 +2,7 @@
 title: Carlos Viana defende impenhorabilidade de salários e critica decisão do STJ
 date: 2023-09-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: 'Bélgica: Pesquisa sobre os danos da injeção de Covid pinta uma imagem
   de um enorme tabu'
 date: 2023-07-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

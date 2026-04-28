@@ -2,7 +2,7 @@
 title: Putin ordena a destruição de todas as vacinas Covid-19 na Rússia
 date: 2023-03-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Presidentes da Venezuela e Guiana realizarão conversações sobre disput
   em 14 de dezembro
 date: 2023-12-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

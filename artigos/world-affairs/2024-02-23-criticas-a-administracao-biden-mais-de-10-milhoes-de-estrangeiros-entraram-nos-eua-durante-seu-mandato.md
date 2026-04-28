@@ -3,7 +3,7 @@ title: 'Críticas à Administração Biden: Mais de 10 Milhões de Estrangeiros 
   nos EUA Durante seu Mandato'
 date: 2024-02-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

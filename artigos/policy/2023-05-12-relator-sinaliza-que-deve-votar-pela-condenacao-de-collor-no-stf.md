@@ -2,7 +2,7 @@
 title: Relator sinaliza que deve votar pela condenação de Collor no STF
 date: 2023-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

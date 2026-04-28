@@ -3,7 +3,7 @@ title: Assembleia Republicana do Condado de Lee Declara ONU, OMS e WEF como Orga
   Terroristas
 date: 2024-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

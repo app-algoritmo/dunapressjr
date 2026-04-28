@@ -3,7 +3,7 @@ title: Relator da LDO acredita que queda da arrecadação pode impedir déficit 
   em 2024
 date: 2023-09-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

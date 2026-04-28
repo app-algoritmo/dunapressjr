@@ -2,7 +2,7 @@
 title: Palestra sobre Força Expedicionária Brasileira é apresentada em São Paulo
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

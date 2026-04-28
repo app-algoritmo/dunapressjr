@@ -3,7 +3,7 @@ title: 'Vídeo viral de RFK Jr. excluído por ‘X’: Aqui está o que eles nã
   que você visse'
 date: 2023-09-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

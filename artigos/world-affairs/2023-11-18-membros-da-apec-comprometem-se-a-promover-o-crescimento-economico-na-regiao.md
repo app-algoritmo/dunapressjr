@@ -2,7 +2,7 @@
 title: Membros da APEC comprometem-se a promover o crescimento económico na região
 date: 2023-11-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

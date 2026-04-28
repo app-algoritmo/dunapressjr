@@ -3,7 +3,7 @@ title: O Patriarca Kirill apela aos líderes cristãos para que trabalhem pela p
   Terra Santa
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

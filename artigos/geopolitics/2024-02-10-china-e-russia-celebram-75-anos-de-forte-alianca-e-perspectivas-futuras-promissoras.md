@@ -2,7 +2,7 @@
 title: China e Rússia Celebram 75 Anos de Forte Aliança e Perspectivas Futuras Promissoras
 date: 2024-02-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

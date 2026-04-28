@@ -3,7 +3,7 @@ title: Erdogan acusa EUA e Grã-Bretanha de tentarem transformar Mar Vermelho nu
   de sangue”
 date: 2024-01-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

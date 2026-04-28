@@ -2,7 +2,7 @@
 title: 'Paraguai: A bandeira foi hasteada pelos 212 anos da Independência'
 date: 2023-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Grãos geneticamente modificados contaminam outros países
 date: 2023-03-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

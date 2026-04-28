@@ -2,7 +2,7 @@
 title: Aprovados R$ 89 milhões para Brasil pagar contribuições a organismos internacionais
 date: 2023-10-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

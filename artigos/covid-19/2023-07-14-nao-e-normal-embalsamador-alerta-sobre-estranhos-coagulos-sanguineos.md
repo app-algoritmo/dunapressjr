@@ -2,7 +2,7 @@
 title: '''Não é normal'': Embalsamador alerta sobre estranhos coágulos sanguíneos'
 date: 2023-07-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

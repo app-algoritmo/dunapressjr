@@ -2,7 +2,7 @@
 title: Não, uma moeda do BRICS não substituirá o dólar americano
 date: 2023-07-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

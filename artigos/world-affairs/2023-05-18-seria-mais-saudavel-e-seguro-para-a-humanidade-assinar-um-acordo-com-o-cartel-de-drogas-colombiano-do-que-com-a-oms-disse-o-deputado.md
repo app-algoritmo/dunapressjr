@@ -3,7 +3,7 @@ title: Seria mais saudável e seguro para a humanidade assinar um acordo com o c
   de drogas colombiano do que com a OMS, disse o deputado
 date: 2023-05-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

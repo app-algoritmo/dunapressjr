@@ -2,7 +2,7 @@
 title: Izalci critica indicação de Flávio Dino para o STF
 date: 2023-11-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

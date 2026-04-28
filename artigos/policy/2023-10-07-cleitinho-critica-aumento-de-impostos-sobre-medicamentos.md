@@ -2,7 +2,7 @@
 title: Cleitinho critica aumento de impostos sobre medicamentos
 date: 2023-10-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

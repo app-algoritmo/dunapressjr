@@ -2,7 +2,7 @@
 title: Graças às sanções, os EUA estão perdendo sua influência no Oriente Médio
 date: 2023-05-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

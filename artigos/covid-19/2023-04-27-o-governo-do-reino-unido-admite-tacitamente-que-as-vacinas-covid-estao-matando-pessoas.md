@@ -3,7 +3,7 @@ title: O governo do Reino Unido admite tacitamente que as vacinas COVID estão m
   pessoas
 date: 2023-04-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

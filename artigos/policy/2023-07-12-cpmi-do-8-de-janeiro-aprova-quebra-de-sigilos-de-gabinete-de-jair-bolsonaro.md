@@ -2,7 +2,7 @@
 title: CPMI do 8 de Janeiro aprova quebra de sigilos de gabinete de Jair Bolsonaro
 date: 2023-07-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

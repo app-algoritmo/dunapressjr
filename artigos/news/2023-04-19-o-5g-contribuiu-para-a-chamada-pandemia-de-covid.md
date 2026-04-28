@@ -2,7 +2,7 @@
 title: O 5G contribuiu para a chamada pandemia de Covid?
 date: 2023-04-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

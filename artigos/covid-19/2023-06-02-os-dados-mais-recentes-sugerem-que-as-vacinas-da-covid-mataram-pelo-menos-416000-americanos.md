@@ -3,7 +3,7 @@ title: Os dados mais recentes sugerem que as vacinas da Covid mataram pelo menos
   americanos
 date: 2023-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

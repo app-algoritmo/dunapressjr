@@ -2,7 +2,7 @@
 title: CCJ aprova proibição de guarda compartilhada quando há risco de violência doméstica
 date: 2023-08-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

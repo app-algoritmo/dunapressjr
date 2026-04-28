@@ -3,7 +3,7 @@ title: 'Zakharova: Kiev está usando dinheiro dos EUA para exterminar populaçõ
   na Ucrânia'
 date: 2024-04-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: O copresidente do grupo da OMS pede “priorização de medidas que possa
   as liberdades individuais”
 date: 2023-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

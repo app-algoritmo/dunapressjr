@@ -2,7 +2,7 @@
 title: Girão condena propostas que visam regulamentar apostas esportivas
 date: 2023-09-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

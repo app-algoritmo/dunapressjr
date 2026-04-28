@@ -2,7 +2,7 @@
 title: 'Fortalecendo Laços e Definindo Rumos: Visita de Luis Lacalle Pou ao Paraguai'
 date: 2024-04-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

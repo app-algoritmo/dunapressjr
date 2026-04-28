@@ -3,7 +3,7 @@ title: O mundo terá que ‘limpar a bagunça’ criada pelos EUA em torno do co
   Oriente Médio, diz diplomata
 date: 2023-10-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

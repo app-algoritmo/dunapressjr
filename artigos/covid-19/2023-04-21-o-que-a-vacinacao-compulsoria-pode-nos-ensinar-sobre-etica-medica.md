@@ -2,7 +2,7 @@
 title: O que a vacinação compulsória pode nos ensinar sobre ética médica?
 date: 2023-04-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

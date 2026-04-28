@@ -3,7 +3,7 @@ title: Documentos de ensaios clínicos sugerem que Moderna economizou em autóps
   descontou ferimentos graves - o FDA sabia?
 date: 2023-07-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: A crise do Adrenocromo
 date: 2023-01-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

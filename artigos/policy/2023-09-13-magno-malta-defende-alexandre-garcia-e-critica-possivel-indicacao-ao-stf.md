@@ -2,7 +2,7 @@
 title: Magno Malta defende Alexandre Garcia e critica possível indicação ao STF
 date: 2023-09-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Izalci aponta omissão federal nos atos de 8/1 e cobra informações
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

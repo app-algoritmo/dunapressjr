@@ -2,7 +2,7 @@
 title: Descobriu-se que os carotenóides da cenoura melhoram e protegem a saúde ocular
 date: 2023-05-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

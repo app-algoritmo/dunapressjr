@@ -2,7 +2,7 @@
 title: O presidente de Portugal veta a lei sobre autodeterminação de género infantil
 date: 2024-01-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

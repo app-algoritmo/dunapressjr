@@ -2,7 +2,7 @@
 title: 'Propaganda em ação: como a mídia minimiza os danos da vacina de mRNA'
 date: 2023-07-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

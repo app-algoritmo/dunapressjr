@@ -2,7 +2,7 @@
 title: Flávio Bolsonaro lamenta morte de preso do 8 de janeiro na Papuda
 date: 2023-11-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

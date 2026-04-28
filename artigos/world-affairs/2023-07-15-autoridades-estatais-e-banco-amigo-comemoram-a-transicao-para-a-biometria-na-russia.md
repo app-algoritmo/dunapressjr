@@ -3,7 +3,7 @@ title: Autoridades estatais e banco amigo comemoram a 'transição para a biomet
   na Rússia
 date: 2023-07-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: A vitória de Trump nas eleições presidenciais de 2024 pode levar à re
   dos EUA da OTAN, diz o NYT
 date: 2023-12-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

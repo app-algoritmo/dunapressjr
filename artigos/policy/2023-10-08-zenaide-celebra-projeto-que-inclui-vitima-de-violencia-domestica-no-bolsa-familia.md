@@ -2,7 +2,7 @@
 title: Zenaide celebra projeto que inclui vítima de violência doméstica no Bolsa Família
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

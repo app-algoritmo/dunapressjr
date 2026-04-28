@@ -3,7 +3,7 @@ title: O líder LGBT do Partido Democrata de Maryland, pego por enviar mensagens
   a um menino de 14 anos
 date: 2024-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

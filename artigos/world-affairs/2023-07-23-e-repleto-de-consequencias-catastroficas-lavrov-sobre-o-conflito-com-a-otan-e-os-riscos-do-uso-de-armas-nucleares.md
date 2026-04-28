@@ -3,7 +3,7 @@ title: '''É repleto de consequências catastróficas'' Lavrov sobre o conflito 
   OTAN e os riscos do uso de armas nucleares'
 date: 2023-07-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

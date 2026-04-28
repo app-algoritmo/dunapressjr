@@ -2,7 +2,7 @@
 title: 'Desconectando para Conectar: Os Perigos de Passar Muito Tempo nas Redes Sociais'
 date: 2024-05-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

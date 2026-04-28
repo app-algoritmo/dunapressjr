@@ -2,7 +2,7 @@
 title: Para Girão, judiciário interferiu nas primárias da oposição na Venezuela
 date: 2023-11-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

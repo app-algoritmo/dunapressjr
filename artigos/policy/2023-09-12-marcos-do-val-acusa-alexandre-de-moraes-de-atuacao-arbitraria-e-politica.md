@@ -2,7 +2,7 @@
 title: Marcos do Val acusa Alexandre de Moraes de atuação 'arbitrária e política'
 date: 2023-09-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

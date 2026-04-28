@@ -2,7 +2,7 @@
 title: Taiwan detecta 11 navios de guerra chineses e 70 aeronaves ao redor da ilha
 date: 2023-04-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

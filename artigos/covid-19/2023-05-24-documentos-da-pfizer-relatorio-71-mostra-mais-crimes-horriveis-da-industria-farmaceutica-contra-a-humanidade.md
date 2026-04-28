@@ -3,7 +3,7 @@ title: 'Documentos da Pfizer: “Relatório 71” mostra mais crimes horríveis 
   farmacêutica contra a humanidade'
 date: 2023-05-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -3,7 +3,7 @@ title: Biden interrompe construção de usinas de gás devido à “ameaça” d
   climáticas
 date: 2024-01-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Ataque de Drone à Unidade Militar da Transnístria: Rússia Denuncia Provocação'
 date: 2024-04-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

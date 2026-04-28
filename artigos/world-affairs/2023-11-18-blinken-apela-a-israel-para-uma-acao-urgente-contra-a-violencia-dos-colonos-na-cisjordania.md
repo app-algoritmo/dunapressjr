@@ -3,7 +3,7 @@ title: Blinken apela a Israel para uma ação “urgente” contra a violência 
   na Cisjordânia
 date: 2023-11-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

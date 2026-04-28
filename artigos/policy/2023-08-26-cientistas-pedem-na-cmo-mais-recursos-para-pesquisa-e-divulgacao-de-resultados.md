@@ -2,7 +2,7 @@
 title: Cientistas pedem na CMO mais recursos para pesquisa e divulgação de resultados
 date: 2023-08-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

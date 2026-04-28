@@ -3,7 +3,7 @@ title: Jornalista brasileiro perseguido relata sua tortura, “Deus, Pátria, Fa
   e Liberdade, Levaram Tudo”
 date: 2023-01-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

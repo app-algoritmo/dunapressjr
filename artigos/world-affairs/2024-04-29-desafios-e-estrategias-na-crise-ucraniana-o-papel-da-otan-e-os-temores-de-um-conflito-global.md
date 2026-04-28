@@ -3,7 +3,7 @@ title: 'Desafios e Estratégias na Crise Ucraniana: O Papel da OTAN e os Temores
   um Conflito Global'
 date: 2024-04-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

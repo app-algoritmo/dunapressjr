@@ -2,7 +2,7 @@
 title: 'Pesquisa de ''Ganho de Função'' em Vírus da Gripe Aviária: Riscos e Controvérsias'
 date: 2024-05-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

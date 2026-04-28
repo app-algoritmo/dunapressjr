@@ -2,7 +2,7 @@
 title: Confúcio Moura destaca importância da educação para o crescimento do país
 date: 2023-10-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

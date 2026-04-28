@@ -3,7 +3,7 @@ title: Estudo do Irã mostra que efeitos colaterais neurológicos ocorrem após 
   os tipos de vacinas Covid
 date: 2023-05-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

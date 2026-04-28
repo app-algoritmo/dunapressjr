@@ -2,7 +2,7 @@
 title: Biden confirma que pediu a Netanyahu uma “pausa” na ofensiva militar
 date: 2023-11-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

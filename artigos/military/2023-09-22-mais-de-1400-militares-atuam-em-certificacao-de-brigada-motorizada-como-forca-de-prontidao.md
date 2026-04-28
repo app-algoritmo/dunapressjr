@@ -3,7 +3,7 @@ title: Mais de 1400 militares atuam em certificação de Brigada Motorizada como
   de Prontidão
 date: 2023-09-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

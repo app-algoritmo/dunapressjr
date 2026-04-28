@@ -2,7 +2,7 @@
 title: Comissão aprova proposta de renegociação de dívidas dos caminhoneiros
 date: 2023-09-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

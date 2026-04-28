@@ -3,7 +3,7 @@ title: Elon Musk Alerta para Perigo de 3ª Guerra Mundial devido à Possível Ad
   da Ucrânia à NATO
 date: 2024-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

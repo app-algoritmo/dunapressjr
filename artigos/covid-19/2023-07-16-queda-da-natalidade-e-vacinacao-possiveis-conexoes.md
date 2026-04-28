@@ -2,7 +2,7 @@
 title: 'Queda da natalidade e vacinação: possíveis conexões'
 date: 2023-07-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

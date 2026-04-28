@@ -2,7 +2,7 @@
 title: 'Operação Lone Star: O Texas Mantém a Linha Contra o Contrabando na Fronteira'
 date: 2024-02-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

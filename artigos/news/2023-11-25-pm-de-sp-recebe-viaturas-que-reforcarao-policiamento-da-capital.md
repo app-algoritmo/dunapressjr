@@ -2,7 +2,7 @@
 title: PM de SP recebe viaturas que reforçarão policiamento da capital
 date: 2023-11-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

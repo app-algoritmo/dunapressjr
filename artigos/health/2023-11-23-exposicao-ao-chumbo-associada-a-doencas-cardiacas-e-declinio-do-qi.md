@@ -2,7 +2,7 @@
 title: Exposição ao chumbo associada a doenças cardíacas e declínio do QI
 date: 2023-11-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

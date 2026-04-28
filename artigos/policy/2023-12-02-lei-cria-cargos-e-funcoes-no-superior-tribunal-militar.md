@@ -2,7 +2,7 @@
 title: Lei cria cargos e funções no Superior Tribunal Militar
 date: 2023-12-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

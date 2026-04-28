@@ -2,7 +2,7 @@
 title: Lira vê fatiamento como alternativa para aprovar PL das Fake News
 date: 2023-05-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

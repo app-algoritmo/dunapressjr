@@ -2,7 +2,7 @@
 title: '''Quem financiou e incentivou atos golpistas será punido'', diz Moraes'
 date: 2023-01-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

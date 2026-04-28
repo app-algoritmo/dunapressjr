@@ -2,7 +2,7 @@
 title: Presidente Argentino Javier Milei se Encontra com o Papa Francisco no Vaticano
 date: 2024-02-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

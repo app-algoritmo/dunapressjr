@@ -2,7 +2,7 @@
 title: Controle total através das Moedas digitais emitidas por bancos centrais
 date: 2023-08-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

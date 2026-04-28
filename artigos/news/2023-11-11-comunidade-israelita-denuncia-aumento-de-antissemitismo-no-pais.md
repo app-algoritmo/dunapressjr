@@ -2,7 +2,7 @@
 title: Comunidade israelita denuncia aumento de antissemitismo no país
 date: 2023-11-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

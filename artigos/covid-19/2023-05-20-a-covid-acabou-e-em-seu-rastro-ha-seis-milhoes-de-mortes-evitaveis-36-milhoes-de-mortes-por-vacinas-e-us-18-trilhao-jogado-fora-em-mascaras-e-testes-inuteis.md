@@ -3,7 +3,7 @@ title: A Covid acabou e, em seu rastro, há seis milhões de mortes evitáveis, 
   de mortes por “vacinas” e US$ 1,8 trilhão jogado fora em máscaras e testes inúteis
 date: 2023-05-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

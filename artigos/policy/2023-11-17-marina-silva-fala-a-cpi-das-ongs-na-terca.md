@@ -2,7 +2,7 @@
 title: Marina Silva fala à CPI das ONGs na terça
 date: 2023-11-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

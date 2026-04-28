@@ -2,7 +2,7 @@
 title: CNJ abre processo contra desembargador do TJRJ por postagens políticas
 date: 2023-11-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

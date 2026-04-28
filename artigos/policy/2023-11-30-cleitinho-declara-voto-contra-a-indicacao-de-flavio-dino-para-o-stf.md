@@ -2,7 +2,7 @@
 title: Cleitinho declara voto contra a indicação de Flávio Dino para o STF
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

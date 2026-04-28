@@ -2,7 +2,7 @@
 title: Nanotecnologia demonstrada em vacinados e não vacinados
 date: 2023-08-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

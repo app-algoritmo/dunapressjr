@@ -2,7 +2,7 @@
 title: Rodrigues faz apelo ao presidente Lula para sancionar projeto do marco temporal
 date: 2023-10-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

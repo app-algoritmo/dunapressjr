@@ -2,7 +2,7 @@
 title: 'Girão: matéria de revista desrespeita cristãos e reforça ''campanha antinatalista'''
 date: 2023-09-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

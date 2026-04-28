@@ -2,7 +2,7 @@
 title: Paraguai Lidera Previsões de Crescimento Econômico na América Latina em 2024
 date: 2024-03-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: O mundo está passando por um colapso populacional em nível de extinção?
 date: 2023-05-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

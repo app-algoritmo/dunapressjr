@@ -2,7 +2,7 @@
 title: Orçamento de 2024 prevê salário mínimo de R$ 1.421, com aumento de 7,65%
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

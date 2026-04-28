@@ -3,7 +3,7 @@ title: Bill Gates está escondendo seus interesses financeiros em investimentos 
   europeus
 date: 2023-08-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

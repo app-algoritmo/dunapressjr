@@ -2,7 +2,7 @@
 title: Izalci expressa preocupação com educação no país
 date: 2023-10-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

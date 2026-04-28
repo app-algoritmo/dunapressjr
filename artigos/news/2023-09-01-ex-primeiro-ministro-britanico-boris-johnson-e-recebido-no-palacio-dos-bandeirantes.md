@@ -2,7 +2,7 @@
 title: Ex-primeiro-ministro britânico Boris Johnson é recebido no Palácio dos Bandeirantes
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Elon Musk adverte para queda dos EUA devido ao fluxo de migrantes ilegais
 date: 2024-03-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

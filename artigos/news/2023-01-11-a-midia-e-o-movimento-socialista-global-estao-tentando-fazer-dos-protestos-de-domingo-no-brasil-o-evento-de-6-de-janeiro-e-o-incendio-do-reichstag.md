@@ -3,7 +3,7 @@ title: A mídia e o movimento socialista global estão tentando fazer dos protes
   de domingo no Brasil o evento de 6 de janeiro e o incêndio do Reichstag?
 date: 2023-01-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

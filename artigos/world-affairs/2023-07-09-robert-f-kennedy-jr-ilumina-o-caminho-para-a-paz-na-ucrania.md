@@ -2,7 +2,7 @@
 title: Robert F. Kennedy Jr. ilumina o caminho para a paz na Ucrânia
 date: 2023-07-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

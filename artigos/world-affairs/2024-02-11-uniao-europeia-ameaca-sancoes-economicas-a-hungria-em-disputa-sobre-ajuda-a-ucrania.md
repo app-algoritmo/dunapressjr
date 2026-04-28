@@ -3,7 +3,7 @@ title: União Europeia Ameaça Sanções Econômicas à Hungria em Disputa Sobre
   Ucrânia
 date: 2024-02-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

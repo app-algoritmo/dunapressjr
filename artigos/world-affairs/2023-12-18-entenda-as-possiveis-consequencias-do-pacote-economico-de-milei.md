@@ -2,7 +2,7 @@
 title: Entenda as possíveis consequências do pacote econômico de Milei
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

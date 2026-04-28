@@ -3,7 +3,7 @@ title: 'Pepe Escobar: O tabuleiro de xadrez geopolítico está se movendo contra
   dos EUA'
 date: 2023-08-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

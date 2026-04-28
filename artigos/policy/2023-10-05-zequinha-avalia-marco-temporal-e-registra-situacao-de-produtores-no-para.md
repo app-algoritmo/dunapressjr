@@ -2,7 +2,7 @@
 title: Zequinha avalia marco temporal e registra situação de produtores no Pará
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

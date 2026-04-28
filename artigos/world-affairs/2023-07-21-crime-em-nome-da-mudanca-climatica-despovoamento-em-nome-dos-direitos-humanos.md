@@ -2,7 +2,7 @@
 title: Crime em nome da mudança climática - despovoamento em nome dos direitos humanos
 date: 2023-07-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

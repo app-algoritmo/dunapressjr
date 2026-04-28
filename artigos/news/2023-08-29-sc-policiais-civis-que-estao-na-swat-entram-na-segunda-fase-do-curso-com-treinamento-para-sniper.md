@@ -3,7 +3,7 @@ title: 'SC: Policiais civis que estão na S.W.A.T entram na segunda fase do curs
   treinamento para sniper'
 date: 2023-08-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

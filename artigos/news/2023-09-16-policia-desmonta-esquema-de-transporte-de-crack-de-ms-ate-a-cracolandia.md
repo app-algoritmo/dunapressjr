@@ -2,7 +2,7 @@
 title: Polícia desmonta esquema de transporte de crack de MS até a Cracolândia
 date: 2023-09-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

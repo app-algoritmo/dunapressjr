@@ -3,7 +3,7 @@ title: 'Donald Trump Elogia Santiago Abascal e Expressa Apoio à VOX: Uma Alian�
   Global em Ascensão?'
 date: 2024-02-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

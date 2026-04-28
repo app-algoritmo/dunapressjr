@@ -3,7 +3,7 @@ title: Eurodeputada do Fidesz, partido de Orbán Condena Lei de Mídia da UE com
   e Ataque à Soberania Nacional
 date: 2024-03-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

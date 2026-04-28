@@ -2,7 +2,7 @@
 title: Mísseis atingem base de ocupação dos EUA no maior campo de gás da Síria
 date: 2023-08-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

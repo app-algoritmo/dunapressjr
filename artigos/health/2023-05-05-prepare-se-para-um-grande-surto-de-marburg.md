@@ -2,7 +2,7 @@
 title: Prepare-se para um grande surto de Marburg
 date: 2023-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -2,7 +2,7 @@
 title: O Ocidente está mostrando pelo que realmente está lutando
 date: 2023-03-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Primeiro-Ministro do Iraque Anuncia Próximo Capítulo após Saída da Co
   Internacional
 date: 2024-02-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

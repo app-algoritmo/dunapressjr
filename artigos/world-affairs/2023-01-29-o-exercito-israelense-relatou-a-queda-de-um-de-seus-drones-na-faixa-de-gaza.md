@@ -2,7 +2,7 @@
 title: O exército israelense relatou a queda de um de seus drones na Faixa de Gaza
 date: 2023-01-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

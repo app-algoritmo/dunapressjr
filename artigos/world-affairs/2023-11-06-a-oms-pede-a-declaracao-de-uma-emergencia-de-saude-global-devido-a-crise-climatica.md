@@ -3,7 +3,7 @@ title: A OMS pede a declaração de uma “emergência de saúde global” devid
   climática”
 date: 2023-11-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

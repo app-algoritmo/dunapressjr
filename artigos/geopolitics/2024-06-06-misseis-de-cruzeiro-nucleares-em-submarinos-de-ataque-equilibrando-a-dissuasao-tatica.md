@@ -3,7 +3,7 @@ title: 'Mísseis de Cruzeiro Nucleares em Submarinos de Ataque: Equilibrando a D
   Tática'
 date: 2024-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 - News

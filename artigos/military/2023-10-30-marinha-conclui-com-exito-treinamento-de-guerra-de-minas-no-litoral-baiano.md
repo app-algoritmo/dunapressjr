@@ -2,7 +2,7 @@
 title: Marinha conclui com êxito treinamento de Guerra de Minas no litoral baiano
 date: 2023-10-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

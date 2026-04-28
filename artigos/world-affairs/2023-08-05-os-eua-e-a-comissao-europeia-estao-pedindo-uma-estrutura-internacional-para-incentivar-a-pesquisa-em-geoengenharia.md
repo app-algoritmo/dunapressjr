@@ -3,7 +3,7 @@ title: Os EUA e a Comissão Europeia estão pedindo uma 'estrutura internacional
   incentivar a pesquisa em geoengenharia
 date: 2023-08-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: A luta por recursos estratégicos na África está aumentando
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

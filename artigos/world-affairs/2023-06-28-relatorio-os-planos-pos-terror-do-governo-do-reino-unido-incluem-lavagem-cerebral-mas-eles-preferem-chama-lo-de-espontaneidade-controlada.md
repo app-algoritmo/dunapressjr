@@ -3,7 +3,7 @@ title: 'Relatório: os planos pós-terror do governo do Reino Unido incluem lava
   cerebral – mas eles preferem chamá-lo de “espontaneidade controlada”'
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

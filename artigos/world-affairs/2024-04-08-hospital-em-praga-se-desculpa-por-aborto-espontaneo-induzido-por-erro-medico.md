@@ -2,7 +2,7 @@
 title: Hospital em Praga se Desculpa por Aborto Espontâneo Induzido por Erro Médico
 date: 2024-04-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

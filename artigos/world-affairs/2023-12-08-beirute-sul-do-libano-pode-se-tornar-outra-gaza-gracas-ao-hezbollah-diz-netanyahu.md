@@ -2,7 +2,7 @@
 title: Beirute, sul do Líbano pode se tornar outra Gaza graças ao Hezbollah, diz Netanyahu
 date: 2023-12-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

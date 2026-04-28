@@ -3,7 +3,7 @@ title: 'Crescimento Sustentável no Delta do Yangtze: Um Exemplo de Desenvolvime
   Ecológico na China'
 date: 2024-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

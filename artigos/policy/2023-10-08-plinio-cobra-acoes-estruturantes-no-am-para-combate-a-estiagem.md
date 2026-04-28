@@ -2,7 +2,7 @@
 title: Plínio cobra ações estruturantes no AM para combate à estiagem
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

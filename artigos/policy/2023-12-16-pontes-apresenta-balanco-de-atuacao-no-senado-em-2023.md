@@ -2,7 +2,7 @@
 title: Pontes apresenta balanço de atuação no Senado em 2023
 date: 2023-12-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

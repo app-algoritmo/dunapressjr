@@ -3,7 +3,7 @@ title: Implicações Estratégico-Militares das Instalações de Armas Nucleares
   no Norte da Europa
 date: 2024-03-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

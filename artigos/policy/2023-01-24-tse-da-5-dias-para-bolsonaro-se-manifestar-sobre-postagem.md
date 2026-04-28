@@ -2,7 +2,7 @@
 title: TSE dá 5 dias para Bolsonaro se manifestar sobre postagem
 date: 2023-01-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

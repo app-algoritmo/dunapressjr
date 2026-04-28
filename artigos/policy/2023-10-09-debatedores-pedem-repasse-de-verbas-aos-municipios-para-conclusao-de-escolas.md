@@ -2,7 +2,7 @@
 title: Debatedores pedem repasse de verbas aos municípios para conclusão de escolas
 date: 2023-10-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

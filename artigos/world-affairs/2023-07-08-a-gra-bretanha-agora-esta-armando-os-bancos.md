@@ -2,7 +2,7 @@
 title: A Grã-Bretanha agora está armando os bancos
 date: 2023-07-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

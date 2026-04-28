@@ -3,7 +3,7 @@ title: Prepare-se; a moeda digital do banco central está em ascensão... e est�
   rápido
 date: 2023-07-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

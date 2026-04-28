@@ -2,7 +2,7 @@
 title: Governo publica MP com medidas para buscar déficit zero em 2024&nbsp;
 date: 2023-12-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

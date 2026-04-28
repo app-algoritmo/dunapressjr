@@ -2,7 +2,7 @@
 title: O que a mídia não conta sobre os incêndios florestais no Canadá
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Um pequeno estado no 'chifre' da África está a tornar-se um hotspot geopolítico
 date: 2023-11-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

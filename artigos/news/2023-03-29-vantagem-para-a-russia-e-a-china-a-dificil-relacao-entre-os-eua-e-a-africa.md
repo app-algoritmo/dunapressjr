@@ -2,7 +2,7 @@
 title: 'Vantagem para a Rússia e a China: A difícil relação entre os EUA e a África'
 date: 2023-03-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

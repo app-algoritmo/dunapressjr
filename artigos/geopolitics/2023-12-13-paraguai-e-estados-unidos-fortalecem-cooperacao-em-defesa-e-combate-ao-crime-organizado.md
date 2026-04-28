@@ -3,7 +3,7 @@ title: Paraguai e Estados Unidos fortalecem cooperação em defesa e combate ao 
   organizado
 date: 2023-12-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

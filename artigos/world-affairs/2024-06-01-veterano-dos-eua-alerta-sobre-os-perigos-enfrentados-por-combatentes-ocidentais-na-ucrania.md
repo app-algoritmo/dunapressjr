@@ -3,7 +3,7 @@ title: Veterano dos EUA Alerta sobre os Perigos Enfrentados por Combatentes Ocid
   na Ucrânia
 date: 2024-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

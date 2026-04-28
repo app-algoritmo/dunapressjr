@@ -2,7 +2,7 @@
 title: Governador Ron DeSantis Combate a 'Praga' da Ocupação Doméstica na Flórida
 date: 2024-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

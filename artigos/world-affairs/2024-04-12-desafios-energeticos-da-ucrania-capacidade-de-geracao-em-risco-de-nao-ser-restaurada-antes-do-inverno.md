@@ -3,7 +3,7 @@ title: 'Desafios Energéticos da Ucrânia: Capacidade de Geração em Risco de N
   Restaurada Antes do Inverno'
 date: 2024-04-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

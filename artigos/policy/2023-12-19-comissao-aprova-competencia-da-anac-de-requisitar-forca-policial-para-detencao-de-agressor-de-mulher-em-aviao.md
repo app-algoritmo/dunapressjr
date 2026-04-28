@@ -3,7 +3,7 @@ title: Comissão aprova competência da Anac de requisitar força policial para 
   de agressor de mulher em avião
 date: 2023-12-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

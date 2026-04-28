@@ -3,7 +3,7 @@ title: A dinastia bancária Rothschild promete “reconstruir a Ucrânia”. El
   'fraqueza' por Zelensky
 date: 2023-08-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

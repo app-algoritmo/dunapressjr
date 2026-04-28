@@ -2,7 +2,7 @@
 title: Scholz pede forte indústria de defesa alemã
 date: 2024-01-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

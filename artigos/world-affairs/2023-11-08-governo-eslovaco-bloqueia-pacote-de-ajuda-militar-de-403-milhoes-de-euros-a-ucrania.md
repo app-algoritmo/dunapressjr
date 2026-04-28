@@ -3,7 +3,7 @@ title: Governo eslovaco bloqueia pacote de ajuda militar de 40,3 milhões de eur
   à Ucrânia
 date: 2023-11-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

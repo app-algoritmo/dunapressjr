@@ -2,7 +2,7 @@
 title: Erdogan vê Netanyahu à beira do colapso
 date: 2023-12-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

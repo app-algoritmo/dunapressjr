@@ -3,7 +3,7 @@ title: China e Rússia estabelecem bases sólidas para expansão da cooperação
   diz Xi Jinping
 date: 2023-12-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

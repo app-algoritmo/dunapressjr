@@ -2,7 +2,7 @@
 title: Romênia proíbe grilos e gafanhotos em alimentos e a Holanda quer seguir o exemplo
 date: 2023-04-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

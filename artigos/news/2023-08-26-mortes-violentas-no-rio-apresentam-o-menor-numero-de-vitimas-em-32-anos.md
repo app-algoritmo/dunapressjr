@@ -2,7 +2,7 @@
 title: Mortes violentas no Rio apresentam o menor número de vítimas em 32 anos
 date: 2023-08-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

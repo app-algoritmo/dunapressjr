@@ -3,7 +3,7 @@ title: PIB do novo BRICS expandido excederá significativamente o dos países do
   diz Lavrov
 date: 2023-12-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

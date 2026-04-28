@@ -3,7 +3,7 @@ title: Ações Legais Contra Pfizer Aumentam em Vários Estados dos EUA por Ques
   de Segurança da Vacina Covid-19
 date: 2024-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

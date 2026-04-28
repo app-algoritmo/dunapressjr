@@ -2,7 +2,7 @@
 title: 'Chefe da Pfizer: “O câncer é o nosso novo Covid”'
 date: 2024-05-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: Ex-assistente da Polícia de Nova York processa prefeito Eric Adams por a
   sexual em 1993
 date: 2024-03-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

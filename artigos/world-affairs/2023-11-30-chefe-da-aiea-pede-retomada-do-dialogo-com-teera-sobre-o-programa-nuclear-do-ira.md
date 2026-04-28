@@ -3,7 +3,7 @@ title: Chefe da AIEA pede retomada do diálogo com Teerã sobre o programa nucle
   Irã
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

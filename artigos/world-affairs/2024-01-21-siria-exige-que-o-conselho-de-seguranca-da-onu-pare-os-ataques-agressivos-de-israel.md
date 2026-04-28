@@ -3,7 +3,7 @@ title: Síria exige que o Conselho de Segurança da ONU pare 'os ataques agressi
   de Israel'
 date: 2024-01-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

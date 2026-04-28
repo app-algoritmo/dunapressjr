@@ -2,7 +2,7 @@
 title: Superintendente de Oklahoma Ordena Ensino da Bíblia em Escolas Públicas
 date: 2024-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

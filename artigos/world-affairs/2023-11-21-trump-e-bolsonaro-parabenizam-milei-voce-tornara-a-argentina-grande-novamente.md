@@ -2,7 +2,7 @@
 title: 'Trump e Bolsonaro parabenizam Milei: “Você tornará a Argentina grande novamente”'
 date: 2023-11-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

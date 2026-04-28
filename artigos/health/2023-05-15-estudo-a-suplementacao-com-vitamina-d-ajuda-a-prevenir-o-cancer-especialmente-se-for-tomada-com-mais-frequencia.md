@@ -3,7 +3,7 @@ title: 'Estudo: A suplementação com vitamina D ajuda a prevenir o câncer, esp
   se for tomada com mais frequência'
 date: 2023-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

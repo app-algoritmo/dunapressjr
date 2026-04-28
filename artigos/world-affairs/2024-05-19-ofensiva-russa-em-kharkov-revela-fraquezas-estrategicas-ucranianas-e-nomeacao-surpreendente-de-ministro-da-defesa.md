@@ -3,7 +3,7 @@ title: Ofensiva Russa em Kharkov Revela Fraquezas Estratégicas Ucranianas e Nom
   Surpreendente de Ministro da Defesa
 date: 2024-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

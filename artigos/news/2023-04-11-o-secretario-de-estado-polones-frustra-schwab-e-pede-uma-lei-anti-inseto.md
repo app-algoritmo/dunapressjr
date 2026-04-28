@@ -2,7 +2,7 @@
 title: O secretário de estado polonês frustra Schwab e pede uma 'lei anti-inseto'
 date: 2023-04-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

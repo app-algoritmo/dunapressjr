@@ -2,7 +2,7 @@
 title: Noboa nomeia 16 ministros após ser empossado como presidente do Equador
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

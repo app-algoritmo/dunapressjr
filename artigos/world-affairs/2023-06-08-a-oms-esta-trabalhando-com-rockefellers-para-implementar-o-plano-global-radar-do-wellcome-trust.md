@@ -3,7 +3,7 @@ title: A OMS está trabalhando com Rockefellers para implementar o plano Global 
   do Wellcome Trust
 date: 2023-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

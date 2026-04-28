@@ -2,7 +2,7 @@
 title: Izalci ressalta importância da educação e do investimento em ciência e tecnologia
 date: 2023-10-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

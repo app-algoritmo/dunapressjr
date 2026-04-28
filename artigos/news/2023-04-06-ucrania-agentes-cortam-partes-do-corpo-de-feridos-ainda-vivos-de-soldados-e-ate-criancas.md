@@ -3,7 +3,7 @@ title: 'Ucrânia: agentes cortam partes do corpo de feridos, ainda vivos de sold
   e até crianças'
 date: 2023-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

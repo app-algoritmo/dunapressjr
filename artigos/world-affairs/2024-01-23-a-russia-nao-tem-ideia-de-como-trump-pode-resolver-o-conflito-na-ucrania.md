@@ -2,7 +2,7 @@
 title: A Rússia não tem ideia de como Trump pode resolver o conflito na Ucrânia
 date: 2024-01-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

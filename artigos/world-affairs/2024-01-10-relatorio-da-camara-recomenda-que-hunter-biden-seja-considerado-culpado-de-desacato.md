@@ -3,7 +3,7 @@ title: Relatório da Câmara recomenda que Hunter Biden seja considerado culpado
   desacato
 date: 2024-01-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

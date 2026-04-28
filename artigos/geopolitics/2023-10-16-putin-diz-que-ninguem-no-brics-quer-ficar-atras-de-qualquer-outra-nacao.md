@@ -2,7 +2,7 @@
 title: Putin diz que ninguém no BRICS quer ficar atrás de qualquer outra nação
 date: 2023-10-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

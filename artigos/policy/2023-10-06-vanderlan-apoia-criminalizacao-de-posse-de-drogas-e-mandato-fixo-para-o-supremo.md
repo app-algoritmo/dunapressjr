@@ -2,7 +2,7 @@
 title: Vanderlan apoia criminalização de posse de drogas e mandato fixo para o Supremo
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: O aquecimento global não é assustador o suficiente
 date: 2023-08-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

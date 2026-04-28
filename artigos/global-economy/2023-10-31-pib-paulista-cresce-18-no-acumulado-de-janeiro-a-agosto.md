@@ -2,7 +2,7 @@
 title: PIB paulista cresce 1,8% no acumulado de janeiro a agosto
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

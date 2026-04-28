@@ -3,7 +3,7 @@ title: A doença transmitida por carrapatos foi originalmente desenvolvida como 
   arma biológica
 date: 2023-03-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Bolsonaro convoca reunião com aliados e poderá fazer pronunciamento amanhã
 date: 2022-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

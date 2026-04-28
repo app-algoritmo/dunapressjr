@@ -2,7 +2,7 @@
 title: A OMS finalmente mostrou suas verdadeiras intenções
 date: 2023-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

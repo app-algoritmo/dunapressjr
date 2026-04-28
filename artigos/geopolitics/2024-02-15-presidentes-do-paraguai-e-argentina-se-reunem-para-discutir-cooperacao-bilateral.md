@@ -2,7 +2,7 @@
 title: Presidentes do Paraguai e Argentina se Reúnem para Discutir Cooperação Bilateral
 date: 2024-02-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: ONG alerta sobre subnotificação e pede amplo combate ao casamento infan
   no Brasil
 date: 2023-06-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

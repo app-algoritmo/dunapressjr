@@ -3,7 +3,7 @@ title: 'Presidente Sérvio Aleksandar Vucic Prevê Guerra Mundial em Breve: ''Es
   no Limite'''
 date: 2024-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

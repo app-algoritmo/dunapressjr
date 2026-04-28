@@ -3,7 +3,7 @@ title: Proteína Spike detectada no sangue de adolescentes que desenvolveram mio
   pós vacina de mRNA
 date: 2023-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

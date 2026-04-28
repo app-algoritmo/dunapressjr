@@ -2,7 +2,7 @@
 title: Irã Reivindica Papel de Vanguarda na Luta Antidrogas
 date: 2024-04-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

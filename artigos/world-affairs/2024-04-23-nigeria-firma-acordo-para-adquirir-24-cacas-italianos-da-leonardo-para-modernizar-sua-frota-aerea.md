@@ -3,7 +3,7 @@ title: Nigéria firma acordo para adquirir 24 caças italianos da Leonardo para 
   sua frota aérea
 date: 2024-04-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

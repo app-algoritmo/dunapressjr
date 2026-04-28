@@ -2,7 +2,7 @@
 title: A bomba de encobrimento de OVNIs chega na hora certa, e isso deve preocupá-lo
 date: 2023-06-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

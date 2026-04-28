@@ -3,7 +3,7 @@ title: A Suprema Corte dos EUA admite o recurso de Trump contra a decisão de ex
   das primárias do Colorado
 date: 2024-01-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

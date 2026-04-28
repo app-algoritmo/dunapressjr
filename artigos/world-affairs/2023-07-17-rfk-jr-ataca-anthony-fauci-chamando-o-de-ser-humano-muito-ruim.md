@@ -2,7 +2,7 @@
 title: RFK Jr. ataca Anthony Fauci, chamando-o de 'ser humano muito ruim'
 date: 2023-07-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

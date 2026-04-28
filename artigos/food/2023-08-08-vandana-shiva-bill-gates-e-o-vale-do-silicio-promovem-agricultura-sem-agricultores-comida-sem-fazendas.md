@@ -3,7 +3,7 @@ title: 'Vandana Shiva: Bill Gates e o Vale do Silício promovem ''Agricultura se
   comida sem fazendas'''
 date: 2023-08-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

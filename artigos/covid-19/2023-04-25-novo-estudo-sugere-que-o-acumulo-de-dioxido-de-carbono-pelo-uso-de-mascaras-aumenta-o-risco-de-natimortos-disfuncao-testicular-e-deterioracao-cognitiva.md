@@ -3,7 +3,7 @@ title: Novo estudo sugere que o acúmulo de dióxido de carbono pelo uso de más
   aumenta o risco de natimortos, disfunção testicular e deterioração cognitiva
 date: 2023-04-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

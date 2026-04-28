@@ -2,7 +2,7 @@
 title: O fim da liberdade de expressão!
 date: 2023-07-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

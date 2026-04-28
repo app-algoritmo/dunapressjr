@@ -2,7 +2,7 @@
 title: Moro defende convocação de GDias na CPMI do 8 de Janeiro
 date: 2023-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

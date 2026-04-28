@@ -2,7 +2,7 @@
 title: Cobalto e o Sacrifício de Crianças Africanas no Altar Verde
 date: 2023-07-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

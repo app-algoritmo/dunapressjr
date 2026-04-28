@@ -2,7 +2,7 @@
 title: Senado sabatina e vota indicação de Zanin ao STF em 21 de junho
 date: 2023-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Ocidente usa o dólar como arma para resolver questões políticas, diz i
   diplomata russo
 date: 2024-02-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

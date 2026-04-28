@@ -3,7 +3,7 @@ title: Vacinas de mRNA contra COVID-19 Apresentam Risco de Danos Maiores que Ben
   Pesquisadores Pedem Moratória Global
 date: 2024-03-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

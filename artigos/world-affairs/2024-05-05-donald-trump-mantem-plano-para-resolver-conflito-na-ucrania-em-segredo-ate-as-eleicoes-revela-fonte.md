@@ -3,7 +3,7 @@ title: Donald Trump mantém plano para resolver conflito na Ucrânia em segredo 
   as eleições, revela fonte
 date: 2024-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

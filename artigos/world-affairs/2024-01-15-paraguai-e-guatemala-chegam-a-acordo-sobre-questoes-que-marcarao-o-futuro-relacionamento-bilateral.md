@@ -3,7 +3,7 @@ title: Paraguai e Guatemala chegam a acordo sobre questões que marcarão o futu
   bilateral
 date: 2024-01-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

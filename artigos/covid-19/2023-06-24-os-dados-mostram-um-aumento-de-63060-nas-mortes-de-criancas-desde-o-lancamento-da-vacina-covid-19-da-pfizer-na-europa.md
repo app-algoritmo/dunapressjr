@@ -3,7 +3,7 @@ title: Os dados mostram um aumento de 63.060% nas mortes de crianças desde o la
   da vacina COVID-19 da Pfizer na Europa
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

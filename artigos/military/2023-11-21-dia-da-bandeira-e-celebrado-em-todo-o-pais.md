@@ -2,7 +2,7 @@
 title: Dia da Bandeira é celebrado em todo o país
 date: 2023-11-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

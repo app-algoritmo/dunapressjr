@@ -2,7 +2,7 @@
 title: Primeiro-ministro japonês reafirma compromisso com tratado de paz com a Rússia
 date: 2024-02-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

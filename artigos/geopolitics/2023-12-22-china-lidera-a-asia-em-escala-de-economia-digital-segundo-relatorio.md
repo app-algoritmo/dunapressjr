@@ -2,7 +2,7 @@
 title: China lidera a Ásia em escala de economia digital, segundo relatório
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

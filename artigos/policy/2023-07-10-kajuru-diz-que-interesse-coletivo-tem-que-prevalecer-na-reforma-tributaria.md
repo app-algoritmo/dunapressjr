@@ -2,7 +2,7 @@
 title: Kajuru diz que interesse coletivo tem que prevalecer na reforma tributária
 date: 2023-07-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

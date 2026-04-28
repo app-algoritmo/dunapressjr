@@ -2,7 +2,7 @@
 title: Marcos do Val elogia fala de Pacheco sobre independência dos Poderes
 date: 2023-10-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

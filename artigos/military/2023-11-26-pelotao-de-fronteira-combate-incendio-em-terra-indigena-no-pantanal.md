@@ -2,7 +2,7 @@
 title: Pelotão de Fronteira combate incêndio em terra indígena no Pantanal
 date: 2023-11-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

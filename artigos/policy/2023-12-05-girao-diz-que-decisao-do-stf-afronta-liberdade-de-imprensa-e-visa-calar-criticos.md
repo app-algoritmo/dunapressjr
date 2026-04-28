@@ -2,7 +2,7 @@
 title: Girão diz que decisão do STF afronta liberdade de imprensa e visa calar críticos
 date: 2023-12-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: EUA consideram operação secreta contra o Irã
 date: 2024-01-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

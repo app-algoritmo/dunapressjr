@@ -2,7 +2,7 @@
 title: Girão critica indicação de Dino para o STF e celebra ato na Avenida Paulista
 date: 2023-11-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

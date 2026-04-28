@@ -2,7 +2,7 @@
 title: Decisão sobre taxação de compras online não sai mais este ano
 date: 2023-12-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

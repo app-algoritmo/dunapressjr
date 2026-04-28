@@ -3,7 +3,7 @@ title: Reino Unido vai parar de prescrever bloqueadores de puberdade para crianÃ
   com disforia de gÃªnero
 date: 2023-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

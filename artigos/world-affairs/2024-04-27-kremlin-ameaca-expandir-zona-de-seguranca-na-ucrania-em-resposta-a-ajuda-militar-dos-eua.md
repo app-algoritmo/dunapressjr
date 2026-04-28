@@ -3,7 +3,7 @@ title: Kremlin Ameaça Expandir Zona de Segurança na Ucrânia em Resposta à Aj
   dos EUA
 date: 2024-04-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

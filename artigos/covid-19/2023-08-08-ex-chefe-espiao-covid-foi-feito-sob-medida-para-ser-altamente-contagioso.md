@@ -2,7 +2,7 @@
 title: 'Ex-chefe espião: Covid foi ''feito sob medida'' para ser ''altamente contagioso'''
 date: 2023-08-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

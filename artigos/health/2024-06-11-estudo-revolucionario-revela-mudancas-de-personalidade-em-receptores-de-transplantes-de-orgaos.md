@@ -3,7 +3,7 @@ title: Estudo Revolucionário Revela Mudanças de Personalidade em Receptores de
   de Órgãos
 date: 2024-06-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

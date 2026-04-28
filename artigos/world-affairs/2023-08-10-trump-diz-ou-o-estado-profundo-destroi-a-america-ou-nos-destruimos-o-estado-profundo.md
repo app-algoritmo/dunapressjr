@@ -3,7 +3,7 @@ title: 'Trump diz: “Ou o estado profundo destrói a América ou nós destruím
   profundo”'
 date: 2023-08-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

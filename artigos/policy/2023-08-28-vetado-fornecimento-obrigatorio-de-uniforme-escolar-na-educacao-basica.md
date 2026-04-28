@@ -2,7 +2,7 @@
 title: Vetado fornecimento obrigatório de uniforme escolar na educação básica
 date: 2023-08-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

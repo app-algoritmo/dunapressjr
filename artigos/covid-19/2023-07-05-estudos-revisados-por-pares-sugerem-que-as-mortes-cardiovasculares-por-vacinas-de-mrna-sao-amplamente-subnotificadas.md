@@ -3,7 +3,7 @@ title: Estudos revisados por pares sugerem que as mortes cardiovasculares por va
   de mRNA são amplamente subnotificadas
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

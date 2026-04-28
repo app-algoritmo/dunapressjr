@@ -2,7 +2,7 @@
 title: Lira diz ao STF que tramitação de MPs é assunto interno do Congresso
 date: 2023-03-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

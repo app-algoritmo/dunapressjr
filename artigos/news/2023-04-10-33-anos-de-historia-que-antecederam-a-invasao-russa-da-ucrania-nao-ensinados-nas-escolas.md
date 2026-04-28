@@ -3,7 +3,7 @@ title: 33 anos de história que antecederam a invasão russa da Ucrânia não en
   nas escolas
 date: 2023-04-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

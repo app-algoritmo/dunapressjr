@@ -2,7 +2,7 @@
 title: PSOL pede prisão de Bolsonaro e apreensão de seu passaporte
 date: 2023-01-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

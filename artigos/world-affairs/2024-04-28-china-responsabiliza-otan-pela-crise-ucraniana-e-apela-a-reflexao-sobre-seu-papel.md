@@ -3,7 +3,7 @@ title: China Responsabiliza OTAN pela Crise Ucraniana e Apela à Reflexão sobre
   Papel
 date: 2024-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

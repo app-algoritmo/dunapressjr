@@ -2,7 +2,7 @@
 title: Rio vai pagar R$ 5 mil para policial a cada fuzil apreendido
 date: 2023-08-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

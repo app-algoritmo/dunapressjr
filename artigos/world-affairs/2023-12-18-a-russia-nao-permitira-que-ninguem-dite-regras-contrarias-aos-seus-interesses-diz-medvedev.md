@@ -3,7 +3,7 @@ title: A Rússia não permitirá que ninguém dite regras contrárias aos seus i
   diz Medvedev
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

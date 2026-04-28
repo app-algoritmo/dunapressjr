@@ -2,7 +2,7 @@
 title: Substâncias químicas diárias que perturbam severamente seus hormônios
 date: 2023-03-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 - News

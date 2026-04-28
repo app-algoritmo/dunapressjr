@@ -2,7 +2,7 @@
 title: Disputa sobre Marco Temporal colocou Congresso e STF em lados opostos
 date: 2023-12-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

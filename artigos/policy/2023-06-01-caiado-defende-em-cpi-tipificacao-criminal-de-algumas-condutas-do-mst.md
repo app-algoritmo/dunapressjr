@@ -2,7 +2,7 @@
 title: Caiado defende em CPI tipificação criminal de algumas condutas do MST
 date: 2023-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

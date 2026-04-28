@@ -2,7 +2,7 @@
 title: Lula pede a Gonet que não se submeta a pressões políticas
 date: 2023-12-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

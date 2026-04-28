@@ -3,7 +3,7 @@ title: Justiça suíça confirma repatriação de R$ 80 milhões desviados por P
   para o Brasil
 date: 2024-03-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

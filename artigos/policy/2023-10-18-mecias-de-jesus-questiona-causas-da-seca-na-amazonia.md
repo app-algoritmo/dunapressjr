@@ -2,7 +2,7 @@
 title: Mecias de Jesus questiona causas da seca na Amazônia
 date: 2023-10-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

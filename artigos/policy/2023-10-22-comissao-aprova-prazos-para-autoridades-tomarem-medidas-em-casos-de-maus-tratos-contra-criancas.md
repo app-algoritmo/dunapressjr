@@ -3,7 +3,7 @@ title: Comissão aprova prazos para autoridades tomarem medidas em casos de maus
   contra crianças
 date: 2023-10-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

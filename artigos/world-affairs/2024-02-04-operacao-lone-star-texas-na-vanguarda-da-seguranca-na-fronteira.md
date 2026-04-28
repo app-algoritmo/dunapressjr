@@ -2,7 +2,7 @@
 title: 'Operação Lone Star: Texas na Vanguarda da Segurança na Fronteira'
 date: 2024-02-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

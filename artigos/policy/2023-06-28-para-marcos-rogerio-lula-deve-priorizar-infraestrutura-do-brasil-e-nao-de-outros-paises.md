@@ -3,7 +3,7 @@ title: Para Marcos Rogério, Lula deve priorizar infraestrutura do Brasil e não
   outros países
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

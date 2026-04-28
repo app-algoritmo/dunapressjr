@@ -2,7 +2,7 @@
 title: Marcos do Val critica 'parcialidade' no inquérito sobre 8 de janeiro
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

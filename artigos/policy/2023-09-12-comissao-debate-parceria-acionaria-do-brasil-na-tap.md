@@ -2,7 +2,7 @@
 title: Comissão debate parceria acionária do Brasil na TAP
 date: 2023-09-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

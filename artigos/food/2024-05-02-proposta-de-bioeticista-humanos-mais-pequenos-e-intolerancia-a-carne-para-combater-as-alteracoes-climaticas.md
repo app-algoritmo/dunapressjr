@@ -3,7 +3,7 @@ title: 'Proposta de Bioeticista: Humanos Mais Pequenos e Intolerância à Carne 
   Combater as Alterações Climáticas'
 date: 2024-05-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

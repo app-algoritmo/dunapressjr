@@ -2,7 +2,7 @@
 title: Blinken e primeiro-ministro grego discutem aumento da cooperação em defesa
 date: 2024-01-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Joe Biden chama Donald Trump de “o ex-presidente e talvez o futuro presidente”
 date: 2023-03-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

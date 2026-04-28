@@ -2,7 +2,7 @@
 title: As compras de ouro pelos bancos centrais permaneceram em nível elevado em julho
 date: 2023-09-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

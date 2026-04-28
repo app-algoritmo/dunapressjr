@@ -2,7 +2,7 @@
 title: Biden sanciona lei que suspende teto da dívida dos EUA
 date: 2023-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

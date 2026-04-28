@@ -2,7 +2,7 @@
 title: China adverte os EUA sobre apoio à independência de Taiwan
 date: 2024-04-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: CPMI ouvirá ex-subsecretária de Inteligência da Segurança do DF
 date: 2023-09-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

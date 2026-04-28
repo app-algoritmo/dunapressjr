@@ -2,7 +2,7 @@
 title: Orbán elogia a postura pró-paz da Hungria e da América Latina na cúpula UE-CELAC
 date: 2023-07-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

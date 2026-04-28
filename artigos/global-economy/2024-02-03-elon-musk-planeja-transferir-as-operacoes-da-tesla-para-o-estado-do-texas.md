@@ -2,7 +2,7 @@
 title: Elon Musk planeja transferir as operações da Tesla para o estado do Texas
 date: 2024-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

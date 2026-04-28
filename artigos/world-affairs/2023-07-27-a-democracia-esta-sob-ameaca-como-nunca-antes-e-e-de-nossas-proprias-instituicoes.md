@@ -2,7 +2,7 @@
 title: A democracia está sob ameaça como nunca antes, e é de nossas próprias instituições
 date: 2023-07-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

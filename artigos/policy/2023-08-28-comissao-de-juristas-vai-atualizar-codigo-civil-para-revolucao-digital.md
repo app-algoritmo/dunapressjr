@@ -2,7 +2,7 @@
 title: Comissão de juristas vai atualizar Código Civil para revolução digital
 date: 2023-08-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

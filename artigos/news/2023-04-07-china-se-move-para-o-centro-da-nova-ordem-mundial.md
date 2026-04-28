@@ -2,7 +2,7 @@
 title: China se move para o centro da nova ordem mundial
 date: 2023-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: O Líbano procura evitar aderir ao conflito, a escalada ainda é possíve
   o primeiro-ministro
 date: 2023-10-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

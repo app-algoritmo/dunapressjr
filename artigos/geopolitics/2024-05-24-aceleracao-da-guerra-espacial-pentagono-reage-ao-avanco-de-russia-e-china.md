@@ -2,7 +2,7 @@
 title: 'Aceleração da Guerra Espacial: Pentágono Reage ao Avanço de Rússia e China'
 date: 2024-05-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

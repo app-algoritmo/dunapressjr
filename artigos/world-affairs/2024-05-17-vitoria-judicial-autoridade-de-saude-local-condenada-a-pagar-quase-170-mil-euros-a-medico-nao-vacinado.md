@@ -3,7 +3,7 @@ title: 'Vitória Judicial: Autoridade de Saúde Local Condenada a Pagar Quase 17
   Euros a Médico Não Vacinado'
 date: 2024-05-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

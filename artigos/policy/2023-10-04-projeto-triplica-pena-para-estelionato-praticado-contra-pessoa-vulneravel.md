@@ -2,7 +2,7 @@
 title: Projeto triplica pena para estelionato praticado contra pessoa vulnerável
 date: 2023-10-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

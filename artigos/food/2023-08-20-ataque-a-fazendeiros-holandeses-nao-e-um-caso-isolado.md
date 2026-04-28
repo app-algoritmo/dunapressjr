@@ -2,7 +2,7 @@
 title: Ataque a fazendeiros holandeses não é um caso isolado
 date: 2023-08-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

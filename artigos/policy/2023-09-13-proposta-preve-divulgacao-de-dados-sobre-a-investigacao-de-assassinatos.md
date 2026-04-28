@@ -2,7 +2,7 @@
 title: Proposta prevê divulgação de dados sobre a investigação de assassinatos
 date: 2023-09-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

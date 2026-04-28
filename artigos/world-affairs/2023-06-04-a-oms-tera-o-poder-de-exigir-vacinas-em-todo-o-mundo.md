@@ -2,7 +2,7 @@
 title: A OMS terá o poder de exigir vacinas em todo o mundo
 date: 2023-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

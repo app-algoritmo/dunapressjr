@@ -3,7 +3,7 @@ title: 'Consequências Irreversíveis: A Submissão da UE à NATO Aumenta os Ris
   Guerra no Leste Europeu'
 date: 2024-06-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

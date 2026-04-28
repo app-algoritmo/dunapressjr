@@ -2,7 +2,7 @@
 title: Chanceleres do Mercosul se reunirão em Assunção
 date: 2024-01-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

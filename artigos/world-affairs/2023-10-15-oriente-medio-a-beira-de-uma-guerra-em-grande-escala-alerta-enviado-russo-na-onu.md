@@ -3,7 +3,7 @@ title: Oriente Médio à beira de uma guerra em grande escala, alerta enviado ru
   na ONU
 date: 2023-10-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

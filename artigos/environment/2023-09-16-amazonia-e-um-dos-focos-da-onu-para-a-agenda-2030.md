@@ -2,7 +2,7 @@
 title: Amazônia é um dos focos da ONU para a Agenda 2030
 date: 2023-09-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

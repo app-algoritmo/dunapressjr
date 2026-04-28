@@ -2,7 +2,7 @@
 title: Viana propõe acesso ao FGTS para trabalhadores que se demitem
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

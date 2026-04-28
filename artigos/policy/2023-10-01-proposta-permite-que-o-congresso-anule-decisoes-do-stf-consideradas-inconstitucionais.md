@@ -2,7 +2,7 @@
 title: Proposta permite que o Congresso anule decisões do STF consideradas inconstitucionais
 date: 2023-10-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: '''2º Simpósio sobre Segurança Pública'' debate, na Alesp, os princip
   do setor'
 date: 2023-08-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

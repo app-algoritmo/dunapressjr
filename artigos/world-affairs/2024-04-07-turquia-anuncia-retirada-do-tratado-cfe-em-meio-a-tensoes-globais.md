@@ -2,7 +2,7 @@
 title: Turquia Anuncia Retirada do Tratado CFE em Meio a Tensões Globais
 date: 2024-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: As 7 principais razões pelas quais a vacina com mRNA é muito mais morta
   que qualquer outra vacina já criada
 date: 2023-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

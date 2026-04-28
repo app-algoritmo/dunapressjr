@@ -2,7 +2,7 @@
 title: EUA Planejam Retirada de Soldados do Níger Após Cancelamento de Acordo Militar
 date: 2024-03-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

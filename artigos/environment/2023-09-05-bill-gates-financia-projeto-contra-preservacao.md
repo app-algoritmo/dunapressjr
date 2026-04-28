@@ -2,7 +2,7 @@
 title: Bill Gates financia projeto contra preservação
 date: 2023-09-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

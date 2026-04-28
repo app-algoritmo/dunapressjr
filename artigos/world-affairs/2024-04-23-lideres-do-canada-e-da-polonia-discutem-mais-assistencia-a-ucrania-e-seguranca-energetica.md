@@ -3,7 +3,7 @@ title: Líderes do Canadá e da Polônia discutem mais assistência à Ucrânia 
   energética
 date: 2024-04-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

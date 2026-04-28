@@ -2,7 +2,7 @@
 title: Zanin valida envio de dados do Coaf à polícia sem decisão judicial
 date: 2023-11-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

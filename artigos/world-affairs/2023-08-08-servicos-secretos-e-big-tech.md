@@ -2,7 +2,7 @@
 title: Serviços Secretos e Big Tech
 date: 2023-08-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

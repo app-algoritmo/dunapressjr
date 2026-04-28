@@ -3,7 +3,7 @@ title: Militares dos EUA conduzem mais ataques contra alvos Houthi no Iêmen, se
   Casa Branca
 date: 2024-01-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

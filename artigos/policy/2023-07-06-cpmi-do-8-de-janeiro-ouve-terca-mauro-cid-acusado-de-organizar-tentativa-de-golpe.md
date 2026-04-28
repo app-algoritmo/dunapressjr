@@ -3,7 +3,7 @@ title: CPMI do 8 de janeiro ouve terça, Mauro Cid, acusado de organizar tentati
   de golpe
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: 'A expansão das atribuições da Polícia Militar em São Paulo: implica
   debates'
 date: 2024-04-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

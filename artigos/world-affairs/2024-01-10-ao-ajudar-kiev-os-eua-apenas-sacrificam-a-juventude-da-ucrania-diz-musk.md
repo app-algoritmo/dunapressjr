@@ -2,7 +2,7 @@
 title: Ao ajudar Kiev, os EUA apenas sacrificam a juventude da Ucrânia, diz Musk
 date: 2024-01-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

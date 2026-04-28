@@ -2,7 +2,7 @@
 title: Scott Ritter Condena Ataque da Ucrânia a Sebastopol com Mísseis ATACMS
 date: 2024-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Projeto retoma taxação de rendimentos de offshores em paraísos fiscais
 date: 2023-08-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

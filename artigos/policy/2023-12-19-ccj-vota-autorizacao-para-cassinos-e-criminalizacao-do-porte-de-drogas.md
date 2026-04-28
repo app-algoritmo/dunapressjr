@@ -2,7 +2,7 @@
 title: CCJ vota autorização para cassinos e criminalização do porte de drogas
 date: 2023-12-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

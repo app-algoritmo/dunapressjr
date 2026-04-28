@@ -2,7 +2,7 @@
 title: Operação da PF contra tráfico internacional bloqueia R$ 126 milhões
 date: 2023-11-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

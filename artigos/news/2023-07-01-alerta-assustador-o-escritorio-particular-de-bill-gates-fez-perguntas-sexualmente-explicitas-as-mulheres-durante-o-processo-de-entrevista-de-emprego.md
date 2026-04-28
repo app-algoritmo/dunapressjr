@@ -3,7 +3,7 @@ title: 'Alerta assustador: o escritório particular de Bill Gates fez perguntas 
   explícitas às mulheres durante o processo de entrevista de emprego'
 date: 2023-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

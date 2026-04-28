@@ -3,7 +3,7 @@ title: 'O Plano 50 em 5: Construindo um Gulag Digital Global sob a égide da ONU
   Bill Gates'
 date: 2024-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

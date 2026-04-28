@@ -2,7 +2,7 @@
 title: 'Marrocos: terremoto vitimiza 296 pessoas'
 date: 2023-09-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

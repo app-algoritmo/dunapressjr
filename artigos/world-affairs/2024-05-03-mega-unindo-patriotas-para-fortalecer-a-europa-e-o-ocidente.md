@@ -2,7 +2,7 @@
 title: 'MEGA: Unindo Patriotas para Fortalecer a Europa e o Ocidente'
 date: 2024-05-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

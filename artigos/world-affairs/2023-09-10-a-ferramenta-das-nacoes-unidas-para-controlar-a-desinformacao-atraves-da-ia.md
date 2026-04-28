@@ -2,7 +2,7 @@
 title: A ferramenta das Nações Unidas para controlar a desinformação através da IA
 date: 2023-09-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

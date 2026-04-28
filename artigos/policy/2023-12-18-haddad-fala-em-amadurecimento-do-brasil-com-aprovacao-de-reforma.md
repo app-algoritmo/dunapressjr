@@ -2,7 +2,7 @@
 title: Haddad fala em “amadurecimento” do Brasil com aprovação de reforma
 date: 2023-12-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

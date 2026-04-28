@@ -2,7 +2,7 @@
 title: Os registros do Medicare mostram claramente que as vacinas estão matando pessoas
 date: 2023-04-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

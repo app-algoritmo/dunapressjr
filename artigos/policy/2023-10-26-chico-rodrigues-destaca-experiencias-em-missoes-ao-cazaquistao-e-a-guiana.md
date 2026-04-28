@@ -2,7 +2,7 @@
 title: Chico Rodrigues destaca experiências em missões ao Cazaquistão e à Guiana
 date: 2023-10-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

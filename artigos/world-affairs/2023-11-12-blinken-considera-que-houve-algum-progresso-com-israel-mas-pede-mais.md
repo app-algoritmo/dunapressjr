@@ -2,7 +2,7 @@
 title: Blinken considera que houve “algum progresso” com Israel mas pede “mais”
 date: 2023-11-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

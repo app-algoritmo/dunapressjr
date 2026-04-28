@@ -2,7 +2,7 @@
 title: Girão defende audiência sobre situação de presos do dia 8 de janeiro
 date: 2023-06-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

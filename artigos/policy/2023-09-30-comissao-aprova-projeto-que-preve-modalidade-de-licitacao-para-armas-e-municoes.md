@@ -2,7 +2,7 @@
 title: Comissão aprova projeto que prevê modalidade de licitação para armas e munições
 date: 2023-09-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

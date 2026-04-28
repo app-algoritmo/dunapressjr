@@ -3,7 +3,7 @@ title: Publicação dessa madrugada no DOU, trata da aquisição de material de 
   orgânica para GLO
 date: 2022-12-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

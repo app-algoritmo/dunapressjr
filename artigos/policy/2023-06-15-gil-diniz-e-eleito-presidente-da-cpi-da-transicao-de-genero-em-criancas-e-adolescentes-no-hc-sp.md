@@ -3,7 +3,7 @@ title: Gil Diniz é eleito presidente da CPI da transição de gênero em crian�
   no HC - SP
 date: 2023-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

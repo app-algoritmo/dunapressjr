@@ -3,7 +3,7 @@ title: As vacinas de RNA não contêm estritamente mRNA, elas contêm modRNA, qu
   geneticamente células humanas saudáveis
 date: 2023-04-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

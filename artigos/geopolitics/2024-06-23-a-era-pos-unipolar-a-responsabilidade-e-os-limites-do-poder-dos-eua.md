@@ -2,7 +2,7 @@
 title: 'A Era Pós-Unipolar: A Responsabilidade e os Limites do Poder dos EUA'
 date: 2024-06-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

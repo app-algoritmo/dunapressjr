@@ -3,7 +3,7 @@ title: Milei liderou sua primeira reunião de Gabinete para abordar a “reorgan
   do Estado”
 date: 2023-12-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

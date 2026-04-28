@@ -2,7 +2,7 @@
 title: 'Julian Assange: Riscos para o Jornalismo Investigativo'
 date: 2024-05-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

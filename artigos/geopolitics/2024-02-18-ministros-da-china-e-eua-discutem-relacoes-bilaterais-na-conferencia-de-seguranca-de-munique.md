@@ -3,7 +3,7 @@ title: Ministros da China e EUA discutem relações bilaterais na Conferência d
   de Munique
 date: 2024-02-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

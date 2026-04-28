@@ -2,7 +2,7 @@
 title: Um em cada três artigos científicos é falso, segundo pesquisa
 date: 2023-05-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

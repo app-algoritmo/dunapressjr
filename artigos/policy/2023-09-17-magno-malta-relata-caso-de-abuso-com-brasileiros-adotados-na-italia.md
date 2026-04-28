@@ -2,7 +2,7 @@
 title: Magno Malta relata caso de abuso com brasileiros adotados na Itália
 date: 2023-09-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

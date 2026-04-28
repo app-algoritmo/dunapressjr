@@ -2,7 +2,7 @@
 title: EUA não procuram guerra com o Irã, segundo alto oficial militar americano
 date: 2024-01-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

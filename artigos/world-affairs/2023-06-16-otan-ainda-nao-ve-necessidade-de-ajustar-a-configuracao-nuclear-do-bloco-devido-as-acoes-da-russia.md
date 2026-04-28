@@ -3,7 +3,7 @@ title: OTAN ainda não vê necessidade de ajustar a configuração nuclear do bl
   às ações da Rússia
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

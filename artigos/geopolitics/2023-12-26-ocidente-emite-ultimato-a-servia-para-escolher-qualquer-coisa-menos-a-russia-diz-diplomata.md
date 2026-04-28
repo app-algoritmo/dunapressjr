@@ -3,7 +3,7 @@ title: Ocidente emite ultimato à Sérvia para escolher ‘qualquer coisa menos 
   diz diplomata
 date: 2023-12-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

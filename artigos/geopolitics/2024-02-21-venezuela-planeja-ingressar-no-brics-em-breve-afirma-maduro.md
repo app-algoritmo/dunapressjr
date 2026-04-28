@@ -2,7 +2,7 @@
 title: Venezuela planeja ingressar no BRICS em breve, afirma Maduro
 date: 2024-02-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

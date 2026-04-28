@@ -3,7 +3,7 @@ title: Cientistas provam que os nanobots de grafeno estão nas vacinas Covid e p
   dos vacinados para os não vacinados
 date: 2023-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

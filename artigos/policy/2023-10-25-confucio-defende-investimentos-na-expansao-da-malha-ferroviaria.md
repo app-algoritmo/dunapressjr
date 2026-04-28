@@ -2,7 +2,7 @@
 title: Confúcio defende investimentos na expansão da malha ferroviária
 date: 2023-10-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

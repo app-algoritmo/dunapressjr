@@ -2,7 +2,7 @@
 title: Governo do México Confirma 12 Assassinatos de Candidatos Durante Eleições
 date: 2024-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

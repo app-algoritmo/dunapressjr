@@ -2,7 +2,7 @@
 title: Girão defende limite para mandato de ministro do STF e parabeniza Pacheco
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

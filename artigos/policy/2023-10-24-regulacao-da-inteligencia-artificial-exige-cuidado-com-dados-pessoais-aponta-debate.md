@@ -3,7 +3,7 @@ title: Regulação da inteligência artificial exige cuidado com dados pessoais,
   debate
 date: 2023-10-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

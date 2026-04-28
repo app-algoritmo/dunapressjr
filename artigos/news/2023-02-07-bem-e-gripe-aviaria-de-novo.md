@@ -2,7 +2,7 @@
 title: Bem, é gripe aviária... de novo
 date: 2023-02-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Autoridades negam a ligação entre vacinas e o número crescente de mort
   pilotos
 date: 2023-09-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

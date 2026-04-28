@@ -3,7 +3,7 @@ title: Mortes por doenças cardíacas são a causa de morte mais comum na Espanh
   2023
 date: 2023-12-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

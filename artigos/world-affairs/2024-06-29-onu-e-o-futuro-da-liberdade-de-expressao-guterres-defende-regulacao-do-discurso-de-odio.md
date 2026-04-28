@@ -3,7 +3,7 @@ title: 'ONU e o Futuro da Liberdade de Expressão: Guterres Defende Regulação 
   de Ódio'''
 date: 2024-06-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

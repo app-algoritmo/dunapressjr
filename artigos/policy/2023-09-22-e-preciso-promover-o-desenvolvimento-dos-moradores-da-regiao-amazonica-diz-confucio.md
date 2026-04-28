@@ -3,7 +3,7 @@ title: É preciso promover o desenvolvimento dos moradores da região Amazônica
   Confúcio
 date: 2023-09-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

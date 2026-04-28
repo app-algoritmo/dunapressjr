@@ -3,7 +3,7 @@ title: Steven Seagal Recebe Ordem da Amizade de Putin e Faz Declarações Polêm
   sobre a Ucrânia
 date: 2024-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

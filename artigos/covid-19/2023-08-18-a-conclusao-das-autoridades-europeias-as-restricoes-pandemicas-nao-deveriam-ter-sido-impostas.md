@@ -3,7 +3,7 @@ title: A conclusão das autoridades europeias: As restrições pandêmicas não
   ter sido impostas
 date: 2023-08-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

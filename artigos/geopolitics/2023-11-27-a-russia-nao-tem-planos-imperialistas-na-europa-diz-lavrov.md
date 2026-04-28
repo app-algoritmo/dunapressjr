@@ -2,7 +2,7 @@
 title: A Rússia não tem planos imperialistas na Europa, diz Lavrov
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

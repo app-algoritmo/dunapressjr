@@ -2,7 +2,7 @@
 title: Laércio Oliveira critica ministro por comparar terceirização a 'trabalho escravo'
 date: 2023-07-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

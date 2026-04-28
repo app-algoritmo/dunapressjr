@@ -3,7 +3,7 @@ title: Sargentos brasileiros são destaques no Curso de Aperfeiçoamento do Exé
   Nacional Uruguaio
 date: 2023-11-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

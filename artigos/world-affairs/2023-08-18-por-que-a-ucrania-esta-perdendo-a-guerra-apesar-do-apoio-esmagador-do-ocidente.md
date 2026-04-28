@@ -2,7 +2,7 @@
 title: Por que a Ucrânia está perdendo a guerra, apesar do apoio esmagador do Ocidente?
 date: 2023-08-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

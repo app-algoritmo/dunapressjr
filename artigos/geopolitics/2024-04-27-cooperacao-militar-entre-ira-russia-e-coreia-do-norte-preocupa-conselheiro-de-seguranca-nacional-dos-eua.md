@@ -3,7 +3,7 @@ title: Cooperação Militar entre Irã, Rússia e Coreia do Norte Preocupa Conse
   de Segurança Nacional dos EUA
 date: 2024-04-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

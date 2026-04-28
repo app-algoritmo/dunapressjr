@@ -2,7 +2,7 @@
 title: CCJ aprova 740 novos cargos no Superior Tribunal Militar
 date: 2023-10-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

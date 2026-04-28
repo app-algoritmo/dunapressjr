@@ -2,7 +2,7 @@
 title: Lira defende maior inserção de produtos 'verdes' brasileiros no mercado internacional
 date: 2023-10-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

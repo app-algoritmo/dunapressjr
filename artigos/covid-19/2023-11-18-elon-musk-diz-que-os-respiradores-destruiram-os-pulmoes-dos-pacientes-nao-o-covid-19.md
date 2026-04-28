@@ -3,7 +3,7 @@ title: Elon Musk diz que os respiradores destruíram os pulmões dos pacientes, 
   o COVID-19
 date: 2023-11-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

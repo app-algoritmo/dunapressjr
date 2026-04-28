@@ -3,7 +3,7 @@ title: Governo de SP regulamenta lei que permite distribuição de remédios à 
   canabidiol
 date: 2023-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

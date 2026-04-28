@@ -2,7 +2,7 @@
 title: Ditador Maduro Revela Tentativa de Assassinato Durante Comício em Caracas
 date: 2024-03-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

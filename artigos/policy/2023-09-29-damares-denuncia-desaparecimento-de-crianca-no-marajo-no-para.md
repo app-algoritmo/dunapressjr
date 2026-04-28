@@ -2,7 +2,7 @@
 title: Damares denuncia desaparecimento de criança no Marajó, no Pará
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

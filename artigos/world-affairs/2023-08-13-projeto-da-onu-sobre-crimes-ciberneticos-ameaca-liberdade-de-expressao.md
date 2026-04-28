@@ -2,7 +2,7 @@
 title: Projeto da ONU sobre crimes cibernéticos ameaça liberdade de expressão
 date: 2023-08-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Lira diz que governo sinalizou mudanças na articulação política
 date: 2023-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

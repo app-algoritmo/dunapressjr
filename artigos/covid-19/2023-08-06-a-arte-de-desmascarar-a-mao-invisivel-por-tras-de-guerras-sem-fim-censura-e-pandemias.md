@@ -3,7 +3,7 @@ title: A arte de desmascarar a mão invisível por trás de guerras sem fim, cen
   e pandemias
 date: 2023-08-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

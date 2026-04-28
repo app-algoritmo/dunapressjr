@@ -3,7 +3,7 @@ title: Câmara aprova aumento de 3 para 20 anos no prazo de prescrição de crim
   contra crianças
 date: 2023-12-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

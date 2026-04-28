@@ -3,7 +3,7 @@ title: Putin Acusa Ucrânia de Torturar Jornalista Americano até a Morte e Crit
   Biden por Inação
 date: 2024-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

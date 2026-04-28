@@ -3,7 +3,7 @@ title: 'Casa Branca defende envio de armamentos a Israel: Entenda o contexto e o
   argumentos'
 date: 2024-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

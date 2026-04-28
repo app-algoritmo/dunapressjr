@@ -3,7 +3,7 @@ title: STF rejeita ação do ex-presidente Bolsonaro sobre aplicação do Códig
   à Mata Atlântica
 date: 2023-06-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

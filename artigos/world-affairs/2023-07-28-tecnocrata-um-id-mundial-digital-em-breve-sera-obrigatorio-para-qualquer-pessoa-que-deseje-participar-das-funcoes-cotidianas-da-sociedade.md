@@ -3,7 +3,7 @@ title: 'Tecnocrata: Um ''ID Mundial'' digital em breve será obrigatório para q
   pessoa que deseje participar das funções cotidianas da sociedade'
 date: 2023-07-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

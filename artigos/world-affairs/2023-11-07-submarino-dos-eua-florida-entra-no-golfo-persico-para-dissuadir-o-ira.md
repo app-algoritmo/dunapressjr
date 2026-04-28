@@ -2,7 +2,7 @@
 title: Submarino dos EUA Florida entra no Golfo Pérsico para dissuadir o Irã
 date: 2023-11-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

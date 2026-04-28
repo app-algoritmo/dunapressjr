@@ -2,7 +2,7 @@
 title: Estado-Maior do Exército realiza painel sobre Liderança e Ética
 date: 2023-10-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

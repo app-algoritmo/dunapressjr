@@ -2,7 +2,7 @@
 title: Girão denuncia continuidade de violação de direitos dos presos do 8 de janeiro
 date: 2023-12-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

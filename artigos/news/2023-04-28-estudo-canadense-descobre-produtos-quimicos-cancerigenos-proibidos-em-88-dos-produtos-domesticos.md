@@ -3,7 +3,7 @@ title: Estudo canadense descobre produtos químicos cancerígenos proibidos em 8
   produtos domésticos
 date: 2023-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

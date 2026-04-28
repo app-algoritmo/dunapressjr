@@ -3,7 +3,7 @@ title: Irã Condena Renovação de Sanções dos EUA Contra a Venezuela como Vio
   Econômica
 date: 2024-04-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

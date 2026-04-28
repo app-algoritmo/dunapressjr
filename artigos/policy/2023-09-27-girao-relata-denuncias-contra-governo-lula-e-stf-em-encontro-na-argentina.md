@@ -2,7 +2,7 @@
 title: Girão relata denúncias contra governo Lula e STF em encontro na Argentina
 date: 2023-09-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

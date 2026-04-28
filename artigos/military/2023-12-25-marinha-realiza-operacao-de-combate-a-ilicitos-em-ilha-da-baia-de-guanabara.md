@@ -2,7 +2,7 @@
 title: Marinha realiza operação de combate a ilícitos em ilha da Baía de Guanabara
 date: 2023-12-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: Governo Brasileiro Repudia Declaração de 'Persona Non Grata' de Israel 
   Lula por Comentários sobre Conflito em Gaza
 date: 2024-02-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Irã e Arábia Saudita podem desempenhar papel importante na economia glo
   diz enviado
 date: 2023-06-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

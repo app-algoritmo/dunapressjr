@@ -3,7 +3,7 @@ title: Irã denuncia ataques aéreos dos EUA e do Reino Unido no Iêmen como vio
   à soberania nacional
 date: 2024-02-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Girão elogia advogado por questionar STF em julgamento de réu do 8 de janeiro
 date: 2023-09-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

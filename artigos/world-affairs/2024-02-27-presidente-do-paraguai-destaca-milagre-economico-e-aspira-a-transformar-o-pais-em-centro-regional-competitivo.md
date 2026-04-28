@@ -3,7 +3,7 @@ title: Presidente do Paraguai destaca 'milagre econômico' e aspira a transforma
   país em centro regional competitivo
 date: 2024-02-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

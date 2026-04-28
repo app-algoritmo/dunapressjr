@@ -2,7 +2,7 @@
 title: '''Long Vax'' uma ampla gama de sintomas de efeitos colaterais da vacina Covid'
 date: 2023-08-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

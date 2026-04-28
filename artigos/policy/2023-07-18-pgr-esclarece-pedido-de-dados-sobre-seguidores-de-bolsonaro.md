@@ -2,7 +2,7 @@
 title: PGR esclarece pedido de dados sobre seguidores de Bolsonaro
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

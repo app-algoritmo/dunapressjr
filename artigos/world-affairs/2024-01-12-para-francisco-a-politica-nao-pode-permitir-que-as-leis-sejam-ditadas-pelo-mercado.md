@@ -3,7 +3,7 @@ title: Para Francisco, a política “não pode permitir que as leis sejam ditad
   mercado
 date: 2024-01-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

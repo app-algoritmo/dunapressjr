@@ -2,7 +2,7 @@
 title: Mandado de prisão para Putin? Para Bush e Blair, isso existe há muito tempo
 date: 2023-03-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

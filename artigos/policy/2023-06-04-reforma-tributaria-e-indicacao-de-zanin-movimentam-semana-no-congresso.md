@@ -2,7 +2,7 @@
 title: Reforma tributária e indicação de Zanin movimentam semana no Congresso
 date: 2023-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

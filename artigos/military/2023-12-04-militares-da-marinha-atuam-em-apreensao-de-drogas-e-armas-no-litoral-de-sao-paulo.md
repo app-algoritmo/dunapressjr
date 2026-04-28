@@ -3,7 +3,7 @@ title: Militares da Marinha atuam em apreensão de drogas e armas no litoral de 
   Paulo
 date: 2023-12-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

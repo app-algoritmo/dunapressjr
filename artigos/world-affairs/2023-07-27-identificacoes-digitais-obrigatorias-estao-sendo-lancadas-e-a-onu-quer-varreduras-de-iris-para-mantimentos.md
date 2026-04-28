@@ -3,7 +3,7 @@ title: Identificações digitais obrigatórias estão sendo lançadas e a ONU qu
   de íris para mantimentos
 date: 2023-07-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

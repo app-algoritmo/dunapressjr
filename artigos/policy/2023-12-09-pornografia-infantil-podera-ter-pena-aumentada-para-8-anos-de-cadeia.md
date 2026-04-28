@@ -2,7 +2,7 @@
 title: Pornografia infantil poderá ter pena aumentada para 8 anos de cadeia
 date: 2023-12-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

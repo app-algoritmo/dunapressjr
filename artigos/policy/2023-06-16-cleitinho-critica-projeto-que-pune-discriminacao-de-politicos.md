@@ -2,7 +2,7 @@
 title: Cleitinho critica projeto que pune discriminação de políticos
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

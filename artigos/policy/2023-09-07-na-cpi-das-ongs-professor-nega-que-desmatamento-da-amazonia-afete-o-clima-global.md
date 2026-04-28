@@ -3,7 +3,7 @@ title: Na CPI das ONGs, professor nega que desmatamento da Amazônia afete o cli
   global
 date: 2023-09-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

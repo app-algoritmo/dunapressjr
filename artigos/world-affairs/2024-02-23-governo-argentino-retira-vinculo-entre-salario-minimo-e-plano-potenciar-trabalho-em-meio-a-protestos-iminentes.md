@@ -3,7 +3,7 @@ title: Governo argentino retira vínculo entre Salário Mínimo e Plano Potencia
   em meio a protestos iminentes
 date: 2024-02-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

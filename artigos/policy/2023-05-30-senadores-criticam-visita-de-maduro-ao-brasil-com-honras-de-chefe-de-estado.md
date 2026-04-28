@@ -2,7 +2,7 @@
 title: Senadores criticam visita de Maduro ao Brasil com honras de chefe de Estado
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

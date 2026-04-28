@@ -3,7 +3,7 @@ title: A maioria das mortes por COVID-19 pode ser resultado de uma infecção co
   diferente
 date: 2023-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

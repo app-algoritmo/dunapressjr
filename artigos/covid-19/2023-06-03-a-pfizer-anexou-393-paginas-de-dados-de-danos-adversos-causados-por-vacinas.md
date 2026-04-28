@@ -2,7 +2,7 @@
 title: A Pfizer anexou 393 páginas de dados de danos adversos causados ​​por vacinas
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

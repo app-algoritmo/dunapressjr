@@ -2,7 +2,7 @@
 title: França expulsa condenado por terrorismo para Marrocos
 date: 2024-04-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

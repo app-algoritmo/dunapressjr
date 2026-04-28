@@ -2,7 +2,7 @@
 title: Bolsonaro diz esperar julgamento justo e sem revanchismo do TSE
 date: 2023-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

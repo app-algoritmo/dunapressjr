@@ -3,7 +3,7 @@ title: 'Real ID: Nova Política do Governo dos EUA Levanta Preocupações sobre 
   e Liberdade de Movimento'
 date: 2024-06-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Prates descarta manter atual política de preços da Petrobras
 date: 2023-03-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

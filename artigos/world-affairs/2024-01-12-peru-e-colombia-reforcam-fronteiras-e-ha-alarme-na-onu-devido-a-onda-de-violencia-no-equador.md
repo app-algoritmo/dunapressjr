@@ -3,7 +3,7 @@ title: Peru e Colômbia reforçam fronteiras e há alarme na ONU devido à onda 
   no Equador
 date: 2024-01-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

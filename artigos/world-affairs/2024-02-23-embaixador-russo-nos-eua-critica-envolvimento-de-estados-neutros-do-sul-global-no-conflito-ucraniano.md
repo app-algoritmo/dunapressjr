@@ -3,7 +3,7 @@ title: Embaixador Russo nos EUA Critica Envolvimento de Estados Neutros do Sul G
   no Conflito Ucraniano
 date: 2024-02-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

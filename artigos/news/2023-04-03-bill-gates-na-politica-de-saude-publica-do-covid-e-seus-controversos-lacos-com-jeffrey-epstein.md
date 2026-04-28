@@ -3,7 +3,7 @@ title: Bill Gates na política de saúde pública do COVID e seus controversos l
   com Jeffrey Epstein
 date: 2023-04-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

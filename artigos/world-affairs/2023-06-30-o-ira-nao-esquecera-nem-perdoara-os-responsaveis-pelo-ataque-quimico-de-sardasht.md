@@ -2,7 +2,7 @@
 title: O Irã não esquecerá nem perdoará os responsáveis ​​pelo ataque químico de Sardasht
 date: 2023-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

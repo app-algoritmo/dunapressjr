@@ -2,7 +2,7 @@
 title: Rosa Weber vota por anulação de decreto que beneficiou Daniel Silveira
 date: 2023-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

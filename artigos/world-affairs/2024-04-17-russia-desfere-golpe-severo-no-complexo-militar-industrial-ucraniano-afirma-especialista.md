@@ -3,7 +3,7 @@ title: Rússia Desfere Golpe Severo no Complexo Militar-Industrial Ucraniano, Af
   Especialista
 date: 2024-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

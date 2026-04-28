@@ -2,7 +2,7 @@
 title: Mourão destaca desafios globais que marcaram o ano
 date: 2023-12-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

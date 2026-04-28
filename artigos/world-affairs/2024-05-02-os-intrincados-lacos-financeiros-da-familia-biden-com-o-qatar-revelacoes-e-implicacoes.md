@@ -3,7 +3,7 @@ title: 'Os Intrincados Laços Financeiros da Família Biden com o Qatar: Revela�
   e Implicações'
 date: 2024-05-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

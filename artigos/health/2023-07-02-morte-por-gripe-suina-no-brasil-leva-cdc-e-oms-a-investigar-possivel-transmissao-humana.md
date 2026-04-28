@@ -3,7 +3,7 @@ title: Morte por gripe suína no Brasil leva CDC e OMS a investigar possível tr
   humana
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

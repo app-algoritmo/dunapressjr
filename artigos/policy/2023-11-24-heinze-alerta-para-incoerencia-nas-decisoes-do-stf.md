@@ -2,7 +2,7 @@
 title: Heinze alerta para incoerência nas decisões do STF
 date: 2023-11-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Comando Conjunto inicia ação de combate a crimes na fronteira oeste
 date: 2023-09-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

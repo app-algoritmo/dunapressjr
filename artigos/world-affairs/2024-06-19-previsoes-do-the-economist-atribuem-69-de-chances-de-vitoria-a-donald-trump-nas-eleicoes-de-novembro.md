@@ -3,7 +3,7 @@ title: Previsões do The Economist Atribuem 69% de Chances de Vitória a Donald 
   nas Eleições de Novembro
 date: 2024-06-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

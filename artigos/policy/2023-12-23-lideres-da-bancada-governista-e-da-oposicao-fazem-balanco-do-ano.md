@@ -2,7 +2,7 @@
 title: Líderes da bancada governista e da oposição fazem balanço do ano
 date: 2023-12-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

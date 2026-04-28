@@ -2,7 +2,7 @@
 title: 46 jogadores de futebol morreram de junho a novembro de 2023
 date: 2023-11-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

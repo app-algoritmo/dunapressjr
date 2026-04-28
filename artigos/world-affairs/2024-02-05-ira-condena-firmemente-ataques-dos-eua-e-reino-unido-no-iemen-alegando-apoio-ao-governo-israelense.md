@@ -3,7 +3,7 @@ title: Irã Condena Firmemente Ataques dos EUA e Reino Unido no Iêmen, Alegando
   ao governo Israelense
 date: 2024-02-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

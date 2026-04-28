@@ -3,7 +3,7 @@ title: Claro que essas doações da Pfizer para várias organizações em 2021 n
   impacto…
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

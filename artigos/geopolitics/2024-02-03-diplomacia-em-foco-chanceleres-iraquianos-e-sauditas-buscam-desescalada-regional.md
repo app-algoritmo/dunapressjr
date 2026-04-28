@@ -2,7 +2,7 @@
 title: 'Diplomacia em Foco: Chanceleres Iraquianos e Sauditas Buscam Desescalada Regional'
 date: 2024-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

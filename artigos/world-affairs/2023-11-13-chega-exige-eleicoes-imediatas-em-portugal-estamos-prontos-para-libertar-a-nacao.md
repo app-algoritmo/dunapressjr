@@ -3,7 +3,7 @@ title: 'CHEGA! exige eleições imediatas em Portugal: “Estamos prontos para 
   a nação”'
 date: 2023-11-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

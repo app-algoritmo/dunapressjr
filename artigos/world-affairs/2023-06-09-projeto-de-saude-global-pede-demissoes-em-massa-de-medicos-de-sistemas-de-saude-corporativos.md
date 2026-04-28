@@ -3,7 +3,7 @@ title: Projeto de saúde global pede demissões em massa de médicos de sistemas
   corporativos
 date: 2023-06-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

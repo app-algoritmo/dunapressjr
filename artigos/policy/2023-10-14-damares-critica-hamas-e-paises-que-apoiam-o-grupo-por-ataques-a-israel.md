@@ -2,7 +2,7 @@
 title: Damares critica Hamas e países que apoiam o grupo por ataques a Israel
 date: 2023-10-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

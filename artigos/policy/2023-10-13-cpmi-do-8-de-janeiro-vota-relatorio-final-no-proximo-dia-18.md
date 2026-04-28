@@ -2,7 +2,7 @@
 title: CPMI do 8 de Janeiro vota relatório final no próximo dia 18
 date: 2023-10-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

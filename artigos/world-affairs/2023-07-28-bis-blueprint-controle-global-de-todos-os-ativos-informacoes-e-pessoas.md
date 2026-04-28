@@ -2,7 +2,7 @@
 title: 'BIS Blueprint: Controle global de todos os ativos, informações e pessoas'
 date: 2023-07-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

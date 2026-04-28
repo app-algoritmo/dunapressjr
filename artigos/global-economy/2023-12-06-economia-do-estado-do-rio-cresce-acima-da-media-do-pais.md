@@ -2,7 +2,7 @@
 title: Economia do Estado do Rio cresce acima da média do país
 date: 2023-12-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

@@ -2,7 +2,7 @@
 title: A maioria das grandes “ameaças” hoje em dia são baseadas em mentiras
 date: 2023-03-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

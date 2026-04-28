@@ -2,7 +2,7 @@
 title: Como o excesso de ferro aumenta o risco de Alzheimer
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

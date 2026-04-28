@@ -3,7 +3,7 @@ title: PEC que limita decisões individuais em tribunais foi histórica, diz Esp
   Amin
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

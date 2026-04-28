@@ -3,7 +3,7 @@ title: Medvedev aconselha a Europa a não se deixar levar pelos seus 'jogos de a
   de brincar'
 date: 2023-08-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

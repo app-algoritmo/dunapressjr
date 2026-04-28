@@ -2,7 +2,7 @@
 title: Meios de comunicação na Austrália relatam aumento de paradas cardíacas fatais
 date: 2023-01-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

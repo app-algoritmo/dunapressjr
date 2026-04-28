@@ -2,7 +2,7 @@
 title: Desintegração da OTAN é Impossível de Evitar, Afirma Politico
 date: 2024-02-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Nunes Marques relatará ação que questiona privatização da Eletrobras
 date: 2023-05-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

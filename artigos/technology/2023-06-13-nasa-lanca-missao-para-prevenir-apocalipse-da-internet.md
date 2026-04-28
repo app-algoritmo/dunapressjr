@@ -2,7 +2,7 @@
 title: NASA lança missão para prevenir 'apocalipse da Internet'
 date: 2023-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Technology
 ---

@@ -2,7 +2,7 @@
 title: É assim que a mídia espanhola usa a linguagem para manipular a opinião pública
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

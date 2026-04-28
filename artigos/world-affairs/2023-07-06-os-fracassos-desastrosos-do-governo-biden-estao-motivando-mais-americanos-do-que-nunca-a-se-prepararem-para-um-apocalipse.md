@@ -3,7 +3,7 @@ title: Os fracassos desastrosos do governo Biden estão motivando mais americano
   que nunca a se prepararem para um apocalipse
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Oficiais brasileiros concluem Curso Internacional de Comando e Estado-Mai
   na Alemanha
 date: 2023-12-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

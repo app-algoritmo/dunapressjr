@@ -2,7 +2,7 @@
 title: Arcebispo Viganò fala da relação do globalismo com o Anticristo
 date: 2023-09-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

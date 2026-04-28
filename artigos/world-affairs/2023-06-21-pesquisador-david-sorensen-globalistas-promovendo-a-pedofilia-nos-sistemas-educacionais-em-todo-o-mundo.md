@@ -3,7 +3,7 @@ title: 'Pesquisador David Sorensen: Globalistas promovendo a pedofilia nos siste
   educacionais em todo o mundo'
 date: 2023-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

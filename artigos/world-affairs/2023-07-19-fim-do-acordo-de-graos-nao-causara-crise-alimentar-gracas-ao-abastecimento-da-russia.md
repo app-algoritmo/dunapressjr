@@ -3,7 +3,7 @@ title: Fim do acordo de grãos não causará crise alimentar graças ao abasteci
   da Rússia
 date: 2023-07-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

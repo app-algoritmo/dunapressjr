@@ -3,7 +3,7 @@ title: Especialista explica diferen√ßas entre golpes com Pix e clonagem de cart√
   em CPI da Alesp
 date: 2023-08-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

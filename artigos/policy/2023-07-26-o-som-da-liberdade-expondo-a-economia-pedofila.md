@@ -2,7 +2,7 @@
 title: 'O som da liberdade: Expondo a economia pedófila'
 date: 2023-07-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 - World Affairs

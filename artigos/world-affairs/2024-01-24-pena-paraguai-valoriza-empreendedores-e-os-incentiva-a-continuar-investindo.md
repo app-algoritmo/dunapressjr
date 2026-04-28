@@ -2,7 +2,7 @@
 title: 'Peña: Paraguai valoriza empreendedores e os incentiva a continuar investindo'
 date: 2024-01-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

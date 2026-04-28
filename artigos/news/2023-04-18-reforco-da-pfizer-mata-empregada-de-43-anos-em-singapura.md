@@ -2,7 +2,7 @@
 title: Reforço da Pfizer mata empregada de 43 anos em Singapura
 date: 2023-04-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

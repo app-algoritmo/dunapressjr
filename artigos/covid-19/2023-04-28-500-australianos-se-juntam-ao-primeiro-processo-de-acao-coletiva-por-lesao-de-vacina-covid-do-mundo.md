@@ -3,7 +3,7 @@ title: 500 australianos se juntam ao primeiro processo de ação coletiva por le
   de vacina COVID do mundo
 date: 2023-04-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

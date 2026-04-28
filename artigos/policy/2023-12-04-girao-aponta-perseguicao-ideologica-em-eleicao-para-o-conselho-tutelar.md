@@ -2,7 +2,7 @@
 title: Girão aponta perseguição ideológica em eleição para o conselho tutelar
 date: 2023-12-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

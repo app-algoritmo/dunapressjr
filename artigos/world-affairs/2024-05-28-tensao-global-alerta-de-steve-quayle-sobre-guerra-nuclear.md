@@ -2,7 +2,7 @@
 title: 'Tensão Global: Alerta de Steve Quayle sobre Guerra Nuclear'
 date: 2024-05-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

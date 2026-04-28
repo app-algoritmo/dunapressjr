@@ -3,7 +3,7 @@ title: Oficial do Partido Likud alega que Putin apoia o Hamas e alerta que a Rú
   “pagará o preço”
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

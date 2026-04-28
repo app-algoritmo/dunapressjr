@@ -2,7 +2,7 @@
 title: Jim Caviezel acusa a mídia de notícias falsas de ser uma ferramenta do diabo
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

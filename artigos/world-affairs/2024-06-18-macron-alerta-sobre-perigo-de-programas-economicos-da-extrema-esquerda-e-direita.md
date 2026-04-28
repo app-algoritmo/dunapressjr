@@ -3,7 +3,7 @@ title: Macron Alerta sobre 'Perigo' de Programas Econômicos da Extrema Esquerda
   Direita
 date: 2024-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

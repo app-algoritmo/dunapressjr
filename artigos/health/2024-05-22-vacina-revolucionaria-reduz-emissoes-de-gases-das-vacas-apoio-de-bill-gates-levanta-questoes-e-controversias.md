@@ -3,7 +3,7 @@ title: 'Vacina Revolucionária Reduz Emissões de Gases das Vacas: Apoio de Bill
   Levanta Questões e Controvérsias'
 date: 2024-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -2,7 +2,7 @@
 title: 'Base Aérea 201 no Níger: A Batalha pelos Recursos e a Terceira Guerra Mundial'
 date: 2024-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

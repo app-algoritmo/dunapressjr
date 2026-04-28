@@ -3,7 +3,7 @@ title: O governo dos EUA anuncia um novo escritório de 'Preparação e Resposta
   que se parece com um programa militar
 date: 2023-07-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

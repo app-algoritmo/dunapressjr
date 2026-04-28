@@ -2,7 +2,7 @@
 title: CCJ pode votar coleta de DNA para todos os condenados por crime doloso
 date: 2023-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

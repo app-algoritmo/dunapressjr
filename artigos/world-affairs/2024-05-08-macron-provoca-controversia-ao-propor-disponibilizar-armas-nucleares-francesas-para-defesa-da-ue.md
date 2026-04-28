@@ -3,7 +3,7 @@ title: Macron Provoca Controvérsia ao Propor Disponibilizar Armas Nucleares Fra
   para Defesa da UE
 date: 2024-05-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

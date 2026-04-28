@@ -3,7 +3,7 @@ title: Traficante de crianças pego tentando sequestrar bebê de 11 meses da Ucr
   para “vendê-lo para transplantes de órgãos”
 date: 2023-07-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

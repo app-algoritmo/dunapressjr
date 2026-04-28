@@ -2,7 +2,7 @@
 title: Chanceler Argentina Critica Iniciativas Ideológicas na OEA
 date: 2024-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Relatório Revela Entrada de 320 Mil Imigrantes Ilegais nos EUA por Voos 
   em 2023
 date: 2024-04-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

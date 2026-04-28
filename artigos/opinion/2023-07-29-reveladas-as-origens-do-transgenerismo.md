@@ -2,7 +2,7 @@
 title: Reveladas as origens do transgenerismo
 date: 2023-07-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 - World Affairs

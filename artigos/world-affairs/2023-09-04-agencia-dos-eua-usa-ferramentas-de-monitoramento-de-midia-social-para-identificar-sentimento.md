@@ -3,7 +3,7 @@ title: Agência dos EUA usa ferramentas de monitoramento de mídia social para i
   sentimento
 date: 2023-09-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

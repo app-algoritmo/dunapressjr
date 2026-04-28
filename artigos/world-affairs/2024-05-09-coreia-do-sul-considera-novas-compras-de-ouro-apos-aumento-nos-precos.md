@@ -2,7 +2,7 @@
 title: Coreia do Sul Considera Novas Compras de Ouro Após Aumento nos Preços
 date: 2024-05-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

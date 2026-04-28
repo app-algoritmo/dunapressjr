@@ -3,7 +3,7 @@ title: Desafios e Implicações do Programa de Redução de Emissões de Carbono
   Bovina
 date: 2024-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

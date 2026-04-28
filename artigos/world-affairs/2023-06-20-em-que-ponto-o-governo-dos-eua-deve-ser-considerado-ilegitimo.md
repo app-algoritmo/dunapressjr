@@ -2,7 +2,7 @@
 title: Em que ponto o governo dos EUA deve ser considerado ilegítimo?
 date: 2023-06-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

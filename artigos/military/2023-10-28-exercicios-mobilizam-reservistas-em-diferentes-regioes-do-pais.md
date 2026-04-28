@@ -2,7 +2,7 @@
 title: Exercícios mobilizam reservistas em diferentes regiões do país
 date: 2023-10-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

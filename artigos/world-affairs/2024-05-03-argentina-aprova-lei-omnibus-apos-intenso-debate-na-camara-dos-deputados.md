@@ -2,7 +2,7 @@
 title: Argentina aprova 'lei omnibus' após intenso debate na Câmara dos Deputados
 date: 2024-05-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

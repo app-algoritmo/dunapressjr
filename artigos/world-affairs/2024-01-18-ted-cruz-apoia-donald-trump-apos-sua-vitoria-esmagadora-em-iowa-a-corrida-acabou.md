@@ -3,7 +3,7 @@ title: 'Ted Cruz apoia Donald Trump após sua vitória esmagadora em Iowa: “A 
   acabou”'
 date: 2024-01-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

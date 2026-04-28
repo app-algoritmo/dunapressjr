@@ -3,7 +3,7 @@ title: Contaminação por DNA e agente causador de câncer SV40 encontrado em va
   de mRNA
 date: 2023-05-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

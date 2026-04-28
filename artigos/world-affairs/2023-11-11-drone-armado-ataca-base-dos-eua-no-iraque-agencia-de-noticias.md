@@ -2,7 +2,7 @@
 title: Drone armado ataca base dos EUA no Iraque – agência de notícias
 date: 2023-11-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Girão lista críticas a governo Lula e STF por acontecimentos recentes
 date: 2023-09-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

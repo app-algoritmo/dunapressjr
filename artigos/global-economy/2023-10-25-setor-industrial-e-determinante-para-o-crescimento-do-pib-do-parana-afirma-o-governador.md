@@ -3,7 +3,7 @@ title: Setor industrial é determinante para o crescimento do PIB do Paraná, af
   o governador
 date: 2023-10-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

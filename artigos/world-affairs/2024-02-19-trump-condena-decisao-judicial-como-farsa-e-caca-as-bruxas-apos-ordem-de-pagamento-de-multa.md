@@ -3,7 +3,7 @@ title: Trump Condena Decisão Judicial como 'Farsa' e 'Caça às Bruxas' após O
   Pagamento de Multa
 date: 2024-02-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

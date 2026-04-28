@@ -2,7 +2,7 @@
 title: 'Declínio de Qualidade de Vida: Nova Iorque Sob o Governo Progressista'
 date: 2024-03-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

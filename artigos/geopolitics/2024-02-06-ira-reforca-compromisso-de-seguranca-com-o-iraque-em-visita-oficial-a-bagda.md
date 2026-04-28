@@ -2,7 +2,7 @@
 title: Irã Reforça Compromisso de Segurança com o Iraque em Visita Oficial a Bagdá
 date: 2024-02-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

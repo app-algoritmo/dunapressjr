@@ -2,7 +2,7 @@
 title: Oposição questiona indicação de Flávio Dino ao STF; governistas defendem ministro
 date: 2023-11-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

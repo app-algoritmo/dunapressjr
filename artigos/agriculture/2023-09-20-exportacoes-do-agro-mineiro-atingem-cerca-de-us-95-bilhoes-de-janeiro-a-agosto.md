@@ -2,7 +2,7 @@
 title: Exportações do agro mineiro atingem cerca de US$ 9,5 bilhões de janeiro a agosto
 date: 2023-09-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Agriculture
 ---

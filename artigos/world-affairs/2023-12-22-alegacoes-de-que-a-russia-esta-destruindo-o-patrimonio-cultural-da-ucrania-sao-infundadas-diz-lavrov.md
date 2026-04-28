@@ -3,7 +3,7 @@ title: Alegações de que a Rússia está destruindo o patrimônio cultural da U
   são infundadas, diz Lavrov
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

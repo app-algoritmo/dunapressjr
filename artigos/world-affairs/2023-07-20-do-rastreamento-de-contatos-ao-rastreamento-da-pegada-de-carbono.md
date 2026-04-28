@@ -2,7 +2,7 @@
 title: Do rastreamento de contatos ao rastreamento da pegada de carbono
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

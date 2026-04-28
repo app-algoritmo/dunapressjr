@@ -3,7 +3,7 @@ title: Mulher vacinada 4 vezes afirma ter sua décima infecção por Covid e esp
   mais doses de vacina a salvem
 date: 2023-07-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

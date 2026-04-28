@@ -2,7 +2,7 @@
 title: Como smartphones e mídias sociais criam um estado de esquizofrenia
 date: 2023-03-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

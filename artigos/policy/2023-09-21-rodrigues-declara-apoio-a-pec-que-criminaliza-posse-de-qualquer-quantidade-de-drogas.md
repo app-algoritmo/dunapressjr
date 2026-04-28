@@ -3,7 +3,7 @@ title: Rodrigues declara apoio a PEC que criminaliza posse de qualquer quantidad
   de drogas
 date: 2023-09-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

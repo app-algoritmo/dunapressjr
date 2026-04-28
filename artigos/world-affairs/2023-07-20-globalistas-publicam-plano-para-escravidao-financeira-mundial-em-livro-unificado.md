@@ -2,7 +2,7 @@
 title: Globalistas publicam plano para escravidão financeira mundial em “livro unificado”
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Confúcio defende investimentos na educação e ensino técnico contra evasão
 date: 2023-09-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

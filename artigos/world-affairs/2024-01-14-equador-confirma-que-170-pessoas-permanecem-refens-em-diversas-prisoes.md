@@ -2,7 +2,7 @@
 title: Equador confirma que 170 pessoas permanecem reféns em diversas prisões
 date: 2024-01-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

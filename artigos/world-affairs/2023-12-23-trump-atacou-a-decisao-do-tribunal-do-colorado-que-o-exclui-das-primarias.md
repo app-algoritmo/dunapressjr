@@ -2,7 +2,7 @@
 title: Trump atacou a decisão do Tribunal do Colorado que o exclui das primárias
 date: 2023-12-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

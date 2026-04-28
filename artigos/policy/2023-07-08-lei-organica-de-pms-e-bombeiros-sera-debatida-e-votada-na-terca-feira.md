@@ -2,7 +2,7 @@
 title: Lei orgânica de PMs e bombeiros será debatida e votada na terça-feira
 date: 2023-07-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

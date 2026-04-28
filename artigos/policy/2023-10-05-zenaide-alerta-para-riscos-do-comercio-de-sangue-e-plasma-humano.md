@@ -2,7 +2,7 @@
 title: Zenaide alerta para riscos do comércio de sangue e plasma humano
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

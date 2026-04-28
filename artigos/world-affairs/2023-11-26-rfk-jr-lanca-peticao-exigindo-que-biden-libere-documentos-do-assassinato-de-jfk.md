@@ -3,7 +3,7 @@ title: RFK Jr. lança petição exigindo que Biden libere documentos do assassin
   JFK
 date: 2023-11-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

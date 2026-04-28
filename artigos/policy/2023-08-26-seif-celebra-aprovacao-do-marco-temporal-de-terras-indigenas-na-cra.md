@@ -2,7 +2,7 @@
 title: Seif celebra aprovação do marco temporal de terras indígenas na CRA
 date: 2023-08-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

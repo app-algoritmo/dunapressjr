@@ -3,7 +3,7 @@ title: As cadeias de fast-food estão atraindo rapidamente os clientes, vendendo
   de frango que são apenas cerca de 60% de carne real
 date: 2023-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

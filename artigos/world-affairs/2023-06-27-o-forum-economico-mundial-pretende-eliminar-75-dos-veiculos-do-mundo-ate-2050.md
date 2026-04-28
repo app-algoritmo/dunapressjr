@@ -2,7 +2,7 @@
 title: O Fórum Econômico Mundial pretende eliminar 75% dos veículos do mundo até 2050
 date: 2023-06-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

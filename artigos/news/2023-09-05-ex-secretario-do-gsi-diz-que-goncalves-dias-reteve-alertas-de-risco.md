@@ -2,7 +2,7 @@
 title: Ex-secretário do GSI diz que Gonçalves Dias reteve alertas de risco
 date: 2023-09-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

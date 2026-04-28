@@ -3,7 +3,7 @@ title: Processo judicial revela conexão entre Jeffrey Epstein, conselheiro da C
   Branca de Obama, e JPMorgan Chase
 date: 2023-08-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

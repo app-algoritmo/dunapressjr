@@ -3,7 +3,7 @@ title: A “guerra santa” de Israel contra Gaza já se expande para incluir a 
   o Iémen
 date: 2023-11-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

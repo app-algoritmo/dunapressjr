@@ -3,7 +3,7 @@ title: Ação judicial nas escolas da Califórnia alega que mídias sociais est�
   crise de saúde mental em crianças e adolescentes
 date: 2023-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

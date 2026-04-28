@@ -3,7 +3,7 @@ title: 'Deixe-os comer insetos: o WEF desafia a redefinição de alimentos lider
   pelas empresas'
 date: 2023-08-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

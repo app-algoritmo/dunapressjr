@@ -3,7 +3,7 @@ title: Existem razões pelas quais os cidadãos carregam a bandeira da Rússia n
   dos países da África Ocidental e Central
 date: 2023-08-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

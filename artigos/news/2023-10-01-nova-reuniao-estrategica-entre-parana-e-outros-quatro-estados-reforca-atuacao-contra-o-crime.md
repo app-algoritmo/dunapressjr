@@ -3,7 +3,7 @@ title: Nova reunião estratégica entre Paraná e outros quatro estados reforça
   contra o crime
 date: 2023-10-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

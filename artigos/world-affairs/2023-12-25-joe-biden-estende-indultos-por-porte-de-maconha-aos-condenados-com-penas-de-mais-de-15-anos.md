@@ -3,7 +3,7 @@ title: Joe Biden estende indultos por porte de maconha aos condenados com penas 
   mais de 15 anos
 date: 2023-12-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

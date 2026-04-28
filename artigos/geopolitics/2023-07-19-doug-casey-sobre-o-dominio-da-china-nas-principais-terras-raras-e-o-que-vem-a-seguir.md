@@ -3,7 +3,7 @@ title: Doug Casey sobre o domínio da China nas principais terras raras e o que 
   a seguir
 date: 2023-07-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

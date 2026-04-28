@@ -3,7 +3,7 @@ title: 'Governo Bolsonaro: Plano Safra concede crédito de mais de R$ 340 bilhõ
   produtores rurais'
 date: 2023-01-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

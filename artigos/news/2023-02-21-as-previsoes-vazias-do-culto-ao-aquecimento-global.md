@@ -2,7 +2,7 @@
 title: As previsões vazias do culto ao aquecimento global
 date: 2023-02-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

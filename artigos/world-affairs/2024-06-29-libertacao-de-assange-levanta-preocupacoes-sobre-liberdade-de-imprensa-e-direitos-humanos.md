@@ -3,7 +3,7 @@ title: Libertação de Assange Levanta Preocupações Sobre Liberdade de Imprens
   Humanos
 date: 2024-06-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

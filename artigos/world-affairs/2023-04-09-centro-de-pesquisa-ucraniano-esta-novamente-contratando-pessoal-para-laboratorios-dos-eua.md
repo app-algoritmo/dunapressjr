@@ -3,7 +3,7 @@ title: Centro de Pesquisa Ucraniano está novamente contratando pessoal para lab
   dos EUA
 date: 2023-04-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

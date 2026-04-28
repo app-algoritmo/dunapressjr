@@ -2,7 +2,7 @@
 title: Portinho questiona atraso no repasse de recursos para municípios
 date: 2023-09-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

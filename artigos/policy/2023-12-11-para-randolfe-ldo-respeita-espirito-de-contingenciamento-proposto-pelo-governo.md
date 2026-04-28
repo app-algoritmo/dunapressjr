@@ -2,7 +2,7 @@
 title: Para Randolfe, LDO “respeita espírito” de contingenciamento proposto pelo governo
 date: 2023-12-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Como está se desenrolando o confronto OTAN-Rússia no norte da África
 date: 2023-03-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

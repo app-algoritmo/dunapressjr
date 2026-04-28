@@ -3,7 +3,7 @@ title: Especialistas sugerem desoneração tributária para baratear custo de re
   para doenças raras
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

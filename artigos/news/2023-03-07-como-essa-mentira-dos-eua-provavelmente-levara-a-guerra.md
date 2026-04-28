@@ -2,7 +2,7 @@
 title: Como essa mentira dos EUA provavelmente levará à guerra
 date: 2023-03-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

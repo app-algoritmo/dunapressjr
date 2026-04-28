@@ -3,7 +3,7 @@ title: Comando Militar do Norte realiza operação inédita de defesa do litoral
   do Amazonas
 date: 2023-09-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: 'EUA à Beira do Abismo: Reflexões sobre Paralelos Históricos e Possív
   de Colapso'
 date: 2024-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

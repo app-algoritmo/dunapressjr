@@ -3,7 +3,7 @@ title: Eslováquia se Opõe à Adesão da Ucrânia à NATO, Mas Apoia sua Entrad
   Europeia
 date: 2024-04-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

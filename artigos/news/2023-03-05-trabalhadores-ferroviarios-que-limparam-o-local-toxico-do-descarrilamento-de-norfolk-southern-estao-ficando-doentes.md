@@ -3,7 +3,7 @@ title: Trabalhadores ferroviários que limparam o local tóxico do descarrilamen
   Norfolk Southern estão ficando doentes
 date: 2023-03-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

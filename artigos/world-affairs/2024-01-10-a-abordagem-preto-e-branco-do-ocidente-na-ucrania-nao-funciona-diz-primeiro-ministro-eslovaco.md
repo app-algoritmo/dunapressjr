@@ -3,7 +3,7 @@ title: A abordagem 'preto e branco' do Ocidente na Ucrânia não funciona, diz p
   eslovaco
 date: 2024-01-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

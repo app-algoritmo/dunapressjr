@@ -2,7 +2,7 @@
 title: Raisi diz que ataques dos EUA ao Iêmen revelaram sua natureza agressiva
 date: 2024-01-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

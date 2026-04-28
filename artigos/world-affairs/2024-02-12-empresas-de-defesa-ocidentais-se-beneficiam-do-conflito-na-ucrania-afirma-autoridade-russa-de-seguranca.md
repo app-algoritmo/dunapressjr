@@ -3,7 +3,7 @@ title: Empresas de defesa ocidentais se beneficiam do conflito na Ucrânia, afir
   autoridade russa de segurança
 date: 2024-02-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

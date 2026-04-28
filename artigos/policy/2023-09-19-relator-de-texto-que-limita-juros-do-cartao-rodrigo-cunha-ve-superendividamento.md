@@ -2,7 +2,7 @@
 title: Relator de texto que limita juros do cartão, Rodrigo Cunha vê superendividamento
 date: 2023-09-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

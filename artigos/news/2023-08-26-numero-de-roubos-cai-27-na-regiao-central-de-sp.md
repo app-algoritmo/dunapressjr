@@ -2,7 +2,7 @@
 title: Número de roubos cai 27% na região central de SP
 date: 2023-08-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

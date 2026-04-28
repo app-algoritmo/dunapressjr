@@ -3,7 +3,7 @@ title: Como os incêndios florestais canadenses estão tornando a mudança clim�
   uma 'emergência de saúde pública'
 date: 2023-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Alemanha anuncia doação de 200 milhões de euros para ações ambientais
 date: 2023-01-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

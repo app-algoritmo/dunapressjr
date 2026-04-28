@@ -2,7 +2,7 @@
 title: Izalci lamenta morte de preso do 8 de janeiro na Papuda
 date: 2023-11-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

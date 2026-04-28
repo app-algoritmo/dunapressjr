@@ -3,7 +3,7 @@ title: Girão aciona PGR e MP após denúncias de Ciro Gomes sobre corrupção n
   cearense
 date: 2023-11-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

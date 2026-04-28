@@ -3,7 +3,7 @@ title: Ainda não há declarações de Putin sobre a candidatura às eleições 
   diz Kremlin
 date: 2023-11-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

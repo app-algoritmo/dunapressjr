@@ -2,7 +2,7 @@
 title: Na reta final da formação, 2,5 mil praças da PMPR passam por ciclo de palestras
 date: 2023-08-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

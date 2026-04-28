@@ -3,7 +3,7 @@ title: 'Lavrov: Não temos escolha a não ser tratar os F-16 na Ucrânia como um
   nuclear'
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: A vacina Covid não salvou ,'milhares de vidas' em Israel e a Suécia est
   isso
 date: 2023-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

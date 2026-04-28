@@ -2,7 +2,7 @@
 title: Ucrânia tem apenas um mês para contra-ofensiva, prevê general dos EUA
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

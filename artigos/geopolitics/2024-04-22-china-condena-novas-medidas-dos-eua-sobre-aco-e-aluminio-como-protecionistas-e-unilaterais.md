@@ -3,7 +3,7 @@ title: China Condena Novas Medidas dos EUA sobre Aço e Alumínio como Protecion
   e Unilaterais
 date: 2024-04-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

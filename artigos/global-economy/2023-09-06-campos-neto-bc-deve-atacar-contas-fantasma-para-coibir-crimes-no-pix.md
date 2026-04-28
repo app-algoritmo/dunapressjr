@@ -2,7 +2,7 @@
 title: 'Campos Neto: BC deve atacar contas fantasma para coibir crimes no PIX'
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

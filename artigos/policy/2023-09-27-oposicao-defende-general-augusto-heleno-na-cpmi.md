@@ -2,7 +2,7 @@
 title: Oposição defende general Augusto Heleno na CPMI
 date: 2023-09-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

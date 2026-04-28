@@ -2,7 +2,7 @@
 title: Procuradoria do Equador Desencadeia Operação contra Corrupção no Sistema Judicial
 date: 2024-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

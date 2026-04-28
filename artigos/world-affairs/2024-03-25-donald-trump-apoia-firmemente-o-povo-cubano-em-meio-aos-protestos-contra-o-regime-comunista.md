@@ -3,7 +3,7 @@ title: Donald Trump apoia firmemente o povo cubano em meio aos protestos contra 
   regime comunista
 date: 2024-03-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

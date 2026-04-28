@@ -2,7 +2,7 @@
 title: 'Estudo: Químico em adoçante artificial popular encontrado danifica o DNA'
 date: 2023-06-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

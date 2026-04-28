@@ -2,7 +2,7 @@
 title: Cleitinho faz relato sobre a saúde do pai e defende posição contra o aborto
 date: 2023-10-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

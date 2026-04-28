@@ -2,7 +2,7 @@
 title: Proposta veta repasse para ações de defesa civil a município sem plano de contingência
 date: 2023-08-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

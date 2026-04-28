@@ -2,7 +2,7 @@
 title: Projeto regulamenta destinação de recursos públicos para festas juninas
 date: 2023-10-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

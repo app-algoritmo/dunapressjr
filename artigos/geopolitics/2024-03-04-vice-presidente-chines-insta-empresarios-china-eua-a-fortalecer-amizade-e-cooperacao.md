@@ -2,7 +2,7 @@
 title: Vice-presidente Chinês Insta Empresários China-EUA a Fortalecer Amizade e Cooperação
 date: 2024-03-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

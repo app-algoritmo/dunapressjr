@@ -3,7 +3,7 @@ title: Ministros da Defesa da OTAN Discutem Aumento dos Gastos Militares e Prepa
   para Cimeira
 date: 2024-02-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

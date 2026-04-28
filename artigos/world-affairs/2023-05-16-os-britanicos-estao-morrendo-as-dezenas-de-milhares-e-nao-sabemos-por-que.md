@@ -2,7 +2,7 @@
 title: '''Os britânicos estão morrendo às dezenas de milhares, e não sabemos por quê'''
 date: 2023-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

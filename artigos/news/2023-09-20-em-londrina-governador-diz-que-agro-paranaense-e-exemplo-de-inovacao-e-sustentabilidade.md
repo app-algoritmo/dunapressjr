@@ -2,7 +2,7 @@
 title: Em Londrina, governador diz que agro paranaense é exemplo de inovação e sustentabilidade
 date: 2023-09-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

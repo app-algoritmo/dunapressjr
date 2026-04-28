@@ -2,7 +2,7 @@
 title: Comissão aprova programa para combater tráfico de pessoas em aeroportos e aeronaves
 date: 2023-09-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

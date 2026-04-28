@@ -2,7 +2,7 @@
 title: Kremlin diz que não sabe como Navalny morreu
 date: 2024-02-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

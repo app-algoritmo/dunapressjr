@@ -3,7 +3,7 @@ title: 'Legislador: O apoio de Erdogan ao Hamas contradiz o compromisso da Turqu
   com a OTAN'
 date: 2023-11-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

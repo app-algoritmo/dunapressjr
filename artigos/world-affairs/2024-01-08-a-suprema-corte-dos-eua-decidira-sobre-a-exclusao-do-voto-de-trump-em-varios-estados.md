@@ -3,7 +3,7 @@ title: A Suprema Corte dos EUA decidirá sobre a exclusão do voto de Trump em v
   estados
 date: 2024-01-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

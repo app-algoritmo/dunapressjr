@@ -2,7 +2,7 @@
 title: Humberto Costa presidirá Comissão Mista sobre Mudanças Climáticas
 date: 2023-11-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

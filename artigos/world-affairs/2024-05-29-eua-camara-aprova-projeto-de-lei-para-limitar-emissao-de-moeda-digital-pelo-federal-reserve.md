@@ -3,7 +3,7 @@ title: 'EUA: Câmara Aprova Projeto de Lei para Limitar Emissão de Moeda Digita
   Federal Reserve'
 date: 2024-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

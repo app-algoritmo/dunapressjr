@@ -2,7 +2,7 @@
 title: O que é VPN? Saiba a importância de se usar uma rede privada virtual
 date: 2023-01-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Technology
 ---

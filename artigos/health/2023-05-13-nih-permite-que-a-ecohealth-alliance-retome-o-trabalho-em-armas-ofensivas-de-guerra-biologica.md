@@ -3,7 +3,7 @@ title: NIH permite que a EcoHealth Alliance retome o trabalho em armas ofensivas
   guerra biológica
 date: 2023-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

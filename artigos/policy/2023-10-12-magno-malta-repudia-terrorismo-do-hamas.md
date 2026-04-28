@@ -2,7 +2,7 @@
 title: Magno Malta repudia terrorismo do Hamas
 date: 2023-10-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

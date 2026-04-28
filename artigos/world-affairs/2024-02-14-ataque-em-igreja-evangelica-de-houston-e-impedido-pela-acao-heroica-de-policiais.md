@@ -2,7 +2,7 @@
 title: Ataque em Igreja Evangélica de Houston é Impedido pela Ação Heróica de Policiais
 date: 2024-02-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

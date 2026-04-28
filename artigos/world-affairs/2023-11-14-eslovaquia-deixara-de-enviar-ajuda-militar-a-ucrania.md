@@ -2,7 +2,7 @@
 title: Eslováquia deixará de enviar ajuda militar à Ucrânia
 date: 2023-11-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

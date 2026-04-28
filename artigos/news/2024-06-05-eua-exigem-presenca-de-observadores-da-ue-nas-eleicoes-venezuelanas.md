@@ -2,7 +2,7 @@
 title: EUA Exigem Presença de Observadores da UE nas Eleições Venezuelanas
 date: 2024-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

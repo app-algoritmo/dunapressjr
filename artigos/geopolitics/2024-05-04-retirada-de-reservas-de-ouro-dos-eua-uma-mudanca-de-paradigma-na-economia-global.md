@@ -3,7 +3,7 @@ title: 'Retirada de Reservas de Ouro dos EUA: Uma Mudança de Paradigma na Econo
   Global'
 date: 2024-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

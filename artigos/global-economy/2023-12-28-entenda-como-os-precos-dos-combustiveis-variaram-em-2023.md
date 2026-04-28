@@ -2,7 +2,7 @@
 title: Entenda como os preços dos combustíveis variaram em 2023
 date: 2023-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

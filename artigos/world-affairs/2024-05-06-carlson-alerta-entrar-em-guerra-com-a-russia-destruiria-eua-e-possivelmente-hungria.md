@@ -3,7 +3,7 @@ title: 'Carlson alerta: Entrar em guerra com a Rússia destruiria EUA e possivel
   Hungria'
 date: 2024-05-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Zequinha destaca carta aberta de evangélicos contra o aborto
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Coreia do Norte dispara vários mísseis no Mar Amarelo, segundo militares sul-coreanos
 date: 2024-01-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

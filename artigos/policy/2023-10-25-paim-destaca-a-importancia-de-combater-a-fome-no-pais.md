@@ -2,7 +2,7 @@
 title: Paim destaca a importância de combater a fome no país
 date: 2023-10-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

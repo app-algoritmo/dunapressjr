@@ -2,7 +2,7 @@
 title: Lucas Barreto lamenta falta de licença de exploração de petróleo no Amapá
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

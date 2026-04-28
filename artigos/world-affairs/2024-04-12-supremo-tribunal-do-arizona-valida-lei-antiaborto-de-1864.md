@@ -2,7 +2,7 @@
 title: Supremo Tribunal do Arizona valida lei antiaborto de 1864
 date: 2024-04-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

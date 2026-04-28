@@ -3,7 +3,7 @@ title: 'A Importância Fundamental da Liberdade de Expressão: Defendendo o Pila
   Democracia'
 date: 2024-04-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

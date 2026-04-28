@@ -2,7 +2,7 @@
 title: Holanda quer expandir regras de eutanásia para crianças
 date: 2023-07-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

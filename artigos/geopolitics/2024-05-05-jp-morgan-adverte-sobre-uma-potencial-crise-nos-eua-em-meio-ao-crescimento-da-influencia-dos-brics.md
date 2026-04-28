@@ -3,7 +3,7 @@ title: JP Morgan Adverte sobre uma Potencial Crise nos EUA em Meio ao Cresciment
   da Influência dos BRICS
 date: 2024-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

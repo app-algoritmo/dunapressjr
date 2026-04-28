@@ -3,7 +3,7 @@ title: Como uma experiência de quase morte mudou a perspectiva deste neurologis
   sobre a consciência
 date: 2023-07-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

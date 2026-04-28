@@ -2,7 +2,7 @@
 title: Finlândia Se Prepara para Vacinar Grupos de Risco Contra Gripe Aviária
 date: 2024-06-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

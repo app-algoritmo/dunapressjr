@@ -2,7 +2,7 @@
 title: Girão critica leniência do governo Lula sobre denúncias contra ministro Juscelino
 date: 2023-12-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

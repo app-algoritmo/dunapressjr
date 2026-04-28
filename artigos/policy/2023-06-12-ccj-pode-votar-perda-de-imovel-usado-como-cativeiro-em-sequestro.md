@@ -2,7 +2,7 @@
 title: CCJ pode votar perda de imóvel usado como cativeiro em sequestro
 date: 2023-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: A Importância da Paz Interior e da Presença do Espírito Santo
 date: 2024-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Religiosity
 ---

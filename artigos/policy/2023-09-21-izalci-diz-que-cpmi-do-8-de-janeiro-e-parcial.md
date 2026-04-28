@@ -2,7 +2,7 @@
 title: Izalci diz que CPMI do 8 de Janeiro é parcial
 date: 2023-09-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

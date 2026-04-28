@@ -2,7 +2,7 @@
 title: Plínio chama de ´hipócritas` países que criticam exploração na Amazônia
 date: 2023-08-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

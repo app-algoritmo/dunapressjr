@@ -3,7 +3,7 @@ title: Se a Terceira Guerra Mundial estourar, ela não começará em tanques ou 
   russos, alerta Medvedev
 date: 2023-01-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

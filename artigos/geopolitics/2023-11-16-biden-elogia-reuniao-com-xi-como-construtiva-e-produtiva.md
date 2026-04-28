@@ -2,7 +2,7 @@
 title: Biden elogia reunião com Xi como construtiva e produtiva
 date: 2023-11-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

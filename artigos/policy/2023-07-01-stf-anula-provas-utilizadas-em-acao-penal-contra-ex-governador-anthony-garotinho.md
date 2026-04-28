@@ -2,7 +2,7 @@
 title: STF anula provas utilizadas em ação penal contra ex-governador Anthony Garotinho
 date: 2023-07-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

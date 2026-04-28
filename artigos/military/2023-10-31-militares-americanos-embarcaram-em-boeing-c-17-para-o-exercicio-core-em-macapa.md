@@ -2,7 +2,7 @@
 title: Militares americanos embarcaram em Boeing C-17 para o Exercício CORE em Macapá
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: Presidente da Câmara Propõe Restrição na Apresentação de Ações no
   Reformas durante Mandato
 date: 2024-04-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

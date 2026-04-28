@@ -2,7 +2,7 @@
 title: Maioria dos ministros do STF vota pela condenação de Collor
 date: 2023-05-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

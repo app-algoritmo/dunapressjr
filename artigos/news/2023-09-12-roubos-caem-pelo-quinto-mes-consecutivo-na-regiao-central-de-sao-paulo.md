@@ -2,7 +2,7 @@
 title: Roubos caem pelo quinto mês consecutivo na região central de São Paulo
 date: 2023-09-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

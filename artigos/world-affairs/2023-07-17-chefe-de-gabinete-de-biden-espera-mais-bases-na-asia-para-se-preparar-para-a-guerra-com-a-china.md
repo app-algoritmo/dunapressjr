@@ -3,7 +3,7 @@ title: Chefe de gabinete de Biden espera mais bases na Ásia para se preparar pa
   a guerra com a China
 date: 2023-07-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

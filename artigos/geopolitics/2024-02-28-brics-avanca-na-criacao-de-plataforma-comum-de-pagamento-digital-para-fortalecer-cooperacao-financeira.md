@@ -3,7 +3,7 @@ title: BRICS avança na criação de plataforma comum de pagamento digital para 
   cooperação financeira
 date: 2024-02-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

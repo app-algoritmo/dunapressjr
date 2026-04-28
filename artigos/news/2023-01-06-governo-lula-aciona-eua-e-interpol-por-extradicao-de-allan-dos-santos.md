@@ -2,7 +2,7 @@
 title: Governo Lula aciona EUA e Interpol por extradição de Allan dos Santos
 date: 2023-01-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

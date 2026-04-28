@@ -3,7 +3,7 @@ title: Uma breve história dos experimentos militares secretos dos EUA que levar
   a epidemias
 date: 2023-07-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

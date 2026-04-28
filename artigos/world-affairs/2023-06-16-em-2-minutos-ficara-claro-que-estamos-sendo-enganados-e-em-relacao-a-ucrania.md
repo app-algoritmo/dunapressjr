@@ -2,7 +2,7 @@
 title: Em 2 minutos ficará claro que estamos sendo enganados e em relação à Ucrânia
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

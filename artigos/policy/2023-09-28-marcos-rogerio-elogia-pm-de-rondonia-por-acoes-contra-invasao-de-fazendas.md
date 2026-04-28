@@ -2,7 +2,7 @@
 title: Marcos Rogério elogia PM de Rondônia por ações contra invasão de fazendas
 date: 2023-09-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

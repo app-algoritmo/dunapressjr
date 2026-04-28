@@ -2,7 +2,7 @@
 title: Girão apoia Marcha pela Vida, mobilização contra o aborto promovida nesta terça
 date: 2023-06-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

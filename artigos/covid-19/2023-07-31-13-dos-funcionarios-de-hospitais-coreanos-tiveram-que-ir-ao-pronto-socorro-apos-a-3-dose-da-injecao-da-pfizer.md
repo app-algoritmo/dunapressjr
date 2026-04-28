@@ -3,7 +3,7 @@ title: 1,3% dos funcionários de hospitais coreanos tiveram que ir ao pronto-soc
   após a 3ª dose da injeção da Pfizer
 date: 2023-07-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

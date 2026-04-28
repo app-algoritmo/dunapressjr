@@ -3,7 +3,7 @@ title: Cresce a Probabilidade de Conflito Total entre Rússia e Ocidente, Advert
   do RIAC
 date: 2024-06-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Nova Jersey processada por colheita secreta de sangue de recém-nascidos 
   consentimento dos pais
 date: 2023-11-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

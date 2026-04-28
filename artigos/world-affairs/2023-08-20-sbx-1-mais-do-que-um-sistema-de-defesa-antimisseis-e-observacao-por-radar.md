@@ -2,7 +2,7 @@
 title: 'SBX-1: Mais do que um sistema de defesa antimísseis e observação por radar?'
 date: 2023-08-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

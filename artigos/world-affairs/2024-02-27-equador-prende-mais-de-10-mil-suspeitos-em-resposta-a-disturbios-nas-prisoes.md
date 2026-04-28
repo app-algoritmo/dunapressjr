@@ -2,7 +2,7 @@
 title: Equador prende mais de 10 mil suspeitos em resposta a distúrbios nas prisões
 date: 2024-02-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

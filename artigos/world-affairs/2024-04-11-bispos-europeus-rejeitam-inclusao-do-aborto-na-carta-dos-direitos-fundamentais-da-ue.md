@@ -3,7 +3,7 @@ title: Bispos Europeus Rejeitam Inclusão do Aborto na Carta dos Direitos Fundam
   da UE
 date: 2024-04-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

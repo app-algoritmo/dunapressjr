@@ -3,7 +3,7 @@ title: Organização Conservadora Pede Fim do Envio de Formulários Eleitorais a
   Cidadãos nos EUA
 date: 2024-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

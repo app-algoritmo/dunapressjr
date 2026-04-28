@@ -2,7 +2,7 @@
 title: O presidente russo Putin aponta para mudanças geopolíticas globais fundamentais
 date: 2023-03-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

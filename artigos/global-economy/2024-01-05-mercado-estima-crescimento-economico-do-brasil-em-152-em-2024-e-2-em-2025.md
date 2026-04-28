@@ -2,7 +2,7 @@
 title: Mercado estima crescimento econômico do Brasil em 1,52% em 2024 e 2% em 2025
 date: 2024-01-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

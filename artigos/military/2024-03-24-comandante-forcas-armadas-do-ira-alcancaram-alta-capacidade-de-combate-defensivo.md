@@ -2,7 +2,7 @@
 title: 'Comandante: Forças Armadas do Irã Alcançaram Alta Capacidade de Combate Defensivo'
 date: 2024-03-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

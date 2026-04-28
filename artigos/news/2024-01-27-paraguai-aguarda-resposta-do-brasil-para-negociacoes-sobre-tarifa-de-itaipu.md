@@ -2,7 +2,7 @@
 title: Paraguai aguarda resposta do Brasil para negociações sobre tarifa de Itaipu
 date: 2024-01-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

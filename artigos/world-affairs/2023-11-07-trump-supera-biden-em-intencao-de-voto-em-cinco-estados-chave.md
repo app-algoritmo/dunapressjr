@@ -2,7 +2,7 @@
 title: Trump supera Biden em intenção de voto em cinco estados-chave
 date: 2023-11-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

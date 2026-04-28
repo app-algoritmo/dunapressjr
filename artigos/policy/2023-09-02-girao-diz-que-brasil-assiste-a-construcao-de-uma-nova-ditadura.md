@@ -2,7 +2,7 @@
 title: Girão diz que 'Brasil assiste à construção de uma nova ditadura'
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Mourão volta a criticar 'Honras de Estado' a Maduro e cobra posição do Parlamento
 date: 2023-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

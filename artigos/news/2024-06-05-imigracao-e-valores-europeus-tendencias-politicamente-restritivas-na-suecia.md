@@ -2,7 +2,7 @@
 title: 'Imigração e Valores Europeus: Tendências Politicamente Restritivas na Suécia'
 date: 2024-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 - World Affairs

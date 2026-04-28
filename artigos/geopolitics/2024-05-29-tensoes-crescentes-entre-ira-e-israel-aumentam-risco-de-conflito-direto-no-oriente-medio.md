@@ -3,7 +3,7 @@ title: Tensões Crescentes entre Irã e Israel Aumentam Risco de Conflito Direto
   Oriente Médio
 date: 2024-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -2,7 +2,7 @@
 title: Alvo de operação da PF, Pablo Marçal diz ser “perseguido político”
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

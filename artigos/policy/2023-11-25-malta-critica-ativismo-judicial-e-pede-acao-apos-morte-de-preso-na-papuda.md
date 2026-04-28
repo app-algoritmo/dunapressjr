@@ -2,7 +2,7 @@
 title: Malta critica 'ativismo judicial' e pede ação após morte de preso na Papuda
 date: 2023-11-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

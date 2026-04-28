@@ -3,7 +3,7 @@ title: Primeiro-ministro do Reino Unido descarta envio de tropas para a Ucrânia
   conflito
 date: 2023-10-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Marcos do Val faz alerta sobre 'ameaças' à democracia
 date: 2023-10-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Donald Trump promete libertar presos do 'assalto' ao Capitólio se eleito
   em novembro
 date: 2024-03-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Magno Malta critica julgamento do STF sobre porte de drogas
 date: 2023-08-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

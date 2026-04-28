@@ -2,7 +2,7 @@
 title: A chocante verdade sobre doenças crônicas segundo RFK Jr
 date: 2024-05-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

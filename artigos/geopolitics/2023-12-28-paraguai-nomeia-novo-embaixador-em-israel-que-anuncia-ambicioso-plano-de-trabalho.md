@@ -2,7 +2,7 @@
 title: Paraguai nomeia novo embaixador em Israel que anuncia “ambicioso plano de trabalho”
 date: 2023-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

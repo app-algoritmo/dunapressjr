@@ -2,7 +2,7 @@
 title: 'A Gripe Aviária: Atualizações Recentes e Preocupações Emergentes'
 date: 2024-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

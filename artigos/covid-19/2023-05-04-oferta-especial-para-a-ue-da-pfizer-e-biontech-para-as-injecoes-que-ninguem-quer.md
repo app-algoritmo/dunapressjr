@@ -3,7 +3,7 @@ title: Oferta especial para a UE da Pfizer e BioNTech para as injeções que nin
   quer
 date: 2023-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

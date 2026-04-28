@@ -2,7 +2,7 @@
 title: A Guerra Fria está voltando com força total? Ele nunca realmente terminou
 date: 2023-07-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Denunciante do Ministério da Defesa vem a público e exige investigaçã
   novos dados sobre danos às vacinas
 date: 2023-09-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

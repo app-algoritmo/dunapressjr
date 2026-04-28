@@ -2,7 +2,7 @@
 title: A Disney tem um problema de pedofilia, essas pessoas são doentes
 date: 2023-07-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

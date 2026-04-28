@@ -2,7 +2,7 @@
 title: Magno Malta critica Conselho Nacional de Saúde e defende bandeiras conservadoras
 date: 2023-08-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

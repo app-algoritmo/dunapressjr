@@ -2,7 +2,7 @@
 title: Conspirações ocidentais para enfraquecer a Rússia saem pela culatra
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

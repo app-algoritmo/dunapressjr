@@ -3,7 +3,7 @@ title: Primeira infecção humana por H10N5, vírus da gripe aviária, registrad
   diz OMS
 date: 2024-02-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

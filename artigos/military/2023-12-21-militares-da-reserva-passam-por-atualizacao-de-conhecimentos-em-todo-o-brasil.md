@@ -2,7 +2,7 @@
 title: Militares da Reserva passam por atualização de conhecimentos em todo o Brasil
 date: 2023-12-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

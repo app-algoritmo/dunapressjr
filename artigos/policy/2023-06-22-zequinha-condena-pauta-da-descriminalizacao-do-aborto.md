@@ -2,7 +2,7 @@
 title: Zequinha condena pauta da descriminalização do aborto
 date: 2023-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

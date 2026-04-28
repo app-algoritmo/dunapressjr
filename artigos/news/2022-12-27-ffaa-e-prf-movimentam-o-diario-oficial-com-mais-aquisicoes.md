@@ -2,7 +2,7 @@
 title: FFAA e PRF movimentam o Diário Oficial com mais aquisições
 date: 2022-12-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

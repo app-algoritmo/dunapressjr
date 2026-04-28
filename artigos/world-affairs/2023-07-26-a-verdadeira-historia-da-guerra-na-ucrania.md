@@ -2,7 +2,7 @@
 title: A verdadeira história da guerra na Ucrânia
 date: 2023-07-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

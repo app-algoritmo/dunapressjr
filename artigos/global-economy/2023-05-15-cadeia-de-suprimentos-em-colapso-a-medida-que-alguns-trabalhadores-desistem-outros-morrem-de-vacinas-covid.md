@@ -3,7 +3,7 @@ title: Cadeia de suprimentos em colapso à medida que alguns trabalhadores desis
   outros morrem de “vacinas” COVID
 date: 2023-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

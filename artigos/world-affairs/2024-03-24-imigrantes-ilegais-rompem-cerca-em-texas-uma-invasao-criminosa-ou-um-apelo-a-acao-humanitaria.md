@@ -3,7 +3,7 @@ title: 'Imigrantes ilegais rompem cerca em Texas: Uma invasão criminosa ou um a
   à ação humanitária?'
 date: 2024-03-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

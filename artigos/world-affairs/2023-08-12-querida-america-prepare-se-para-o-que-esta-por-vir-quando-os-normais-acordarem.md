@@ -2,7 +2,7 @@
 title: Querida América, prepare-se para o que está por vir quando os normais acordarem!
 date: 2023-08-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

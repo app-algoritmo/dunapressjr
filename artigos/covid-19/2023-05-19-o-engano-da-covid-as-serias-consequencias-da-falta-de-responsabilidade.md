@@ -2,7 +2,7 @@
 title: 'O engano da Covid: as sérias consequências da falta de responsabilidade'
 date: 2023-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

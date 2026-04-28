@@ -3,7 +3,7 @@ title: A agência governamental dos EUA também quer acelerar a introdução da 
   digital
 date: 2023-09-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

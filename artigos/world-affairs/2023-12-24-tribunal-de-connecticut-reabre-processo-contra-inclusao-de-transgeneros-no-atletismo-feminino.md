@@ -3,7 +3,7 @@ title: Tribunal de Connecticut reabre processo contra inclusão de transgêneros
   atletismo feminino
 date: 2023-12-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

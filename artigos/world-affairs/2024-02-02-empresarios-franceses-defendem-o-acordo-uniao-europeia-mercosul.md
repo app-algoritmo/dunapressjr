@@ -2,7 +2,7 @@
 title: Empresários franceses defendem o acordo União Europeia-Mercosul
 date: 2024-02-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

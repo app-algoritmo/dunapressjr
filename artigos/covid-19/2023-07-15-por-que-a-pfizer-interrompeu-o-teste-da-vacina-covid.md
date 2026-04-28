@@ -2,7 +2,7 @@
 title: Por que a Pfizer interrompeu o teste da vacina COVID
 date: 2023-07-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

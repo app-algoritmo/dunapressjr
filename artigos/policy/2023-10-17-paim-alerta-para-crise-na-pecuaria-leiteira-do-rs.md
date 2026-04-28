@@ -2,7 +2,7 @@
 title: Paim alerta para crise na pecuária leiteira do RS
 date: 2023-10-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

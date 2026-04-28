@@ -2,7 +2,7 @@
 title: Escalada de Tensão Nuclear Entre Rússia e NATO Aumenta Risco de Conflito
 date: 2024-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

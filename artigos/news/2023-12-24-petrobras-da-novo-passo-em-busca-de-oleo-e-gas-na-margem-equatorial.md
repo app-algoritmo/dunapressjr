@@ -2,7 +2,7 @@
 title: Petrobras dá novo passo em busca de óleo e gás na Margem Equatorial
 date: 2023-12-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

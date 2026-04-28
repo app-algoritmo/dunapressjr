@@ -2,7 +2,7 @@
 title: A Emergência de um Ecossistema Monetário Descentralizado BRICS+
 date: 2024-05-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

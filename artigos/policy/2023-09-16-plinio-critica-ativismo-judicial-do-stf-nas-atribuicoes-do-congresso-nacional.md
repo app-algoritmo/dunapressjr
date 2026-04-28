@@ -2,7 +2,7 @@
 title: Plínio critica ativismo judicial do STF nas atribuições do Congresso Nacional
 date: 2023-09-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

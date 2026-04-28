@@ -2,7 +2,7 @@
 title: Israel Afirma Compromisso de Permanecer na ONU para Contrapor Desinformação
 date: 2024-04-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

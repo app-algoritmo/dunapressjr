@@ -2,7 +2,7 @@
 title: Vacina contra gripe não impede internações e mortes
 date: 2023-05-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

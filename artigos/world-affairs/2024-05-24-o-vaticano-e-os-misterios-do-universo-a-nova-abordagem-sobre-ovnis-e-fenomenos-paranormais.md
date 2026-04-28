@@ -3,7 +3,7 @@ title: 'O Vaticano e os Mistérios do Universo: A Nova Abordagem sobre OVNIs e F
   Paranormais'
 date: 2024-05-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

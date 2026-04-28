@@ -2,7 +2,7 @@
 title: A China anunciou que duplicará o seu número de ogivas nucleares até 2030
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

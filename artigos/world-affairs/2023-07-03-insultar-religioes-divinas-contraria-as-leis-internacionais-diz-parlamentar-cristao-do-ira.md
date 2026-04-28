@@ -3,7 +3,7 @@ title: Insultar religiões divinas contrária às leis internacionais, diz parla
   cristão do Irã
 date: 2023-07-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

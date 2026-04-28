@@ -3,7 +3,7 @@ title: Exército participa da 71ª reunião do Conselho Superior da Agência Esp
   Brasileira
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

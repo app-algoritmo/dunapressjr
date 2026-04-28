@@ -2,7 +2,7 @@
 title: Reforma tributária se impôs ao país, afirma Pacheco
 date: 2023-11-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

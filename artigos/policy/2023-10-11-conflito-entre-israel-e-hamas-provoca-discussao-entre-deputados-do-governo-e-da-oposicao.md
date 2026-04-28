@@ -3,7 +3,7 @@ title: Conflito entre Israel e Hamas provoca discussão entre deputados do gover
   e da oposição
 date: 2023-10-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

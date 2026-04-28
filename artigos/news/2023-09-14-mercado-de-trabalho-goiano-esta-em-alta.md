@@ -2,7 +2,7 @@
 title: Mercado de trabalho goiano está em alta
 date: 2023-09-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

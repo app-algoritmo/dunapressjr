@@ -3,7 +3,7 @@ title: Discurso de Biden sobre Vacinas COVID e Resposta de Trump Desencadeiam De
   e Reflexões
 date: 2024-03-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: China Adverte Filipinas sobre Invasão de Território e Promete Resposta Resoluta
 date: 2024-03-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

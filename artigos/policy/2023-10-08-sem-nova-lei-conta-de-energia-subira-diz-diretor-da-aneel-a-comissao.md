@@ -2,7 +2,7 @@
 title: Sem nova lei, conta de energia subirá, diz diretor da Aneel a comissão
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

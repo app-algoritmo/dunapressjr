@@ -2,7 +2,7 @@
 title: Entrevista de Putin a Tucker Carlson Provoca Reações Incendiárias na NATO
 date: 2024-02-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

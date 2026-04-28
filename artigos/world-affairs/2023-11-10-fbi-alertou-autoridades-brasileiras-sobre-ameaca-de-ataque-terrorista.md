@@ -2,7 +2,7 @@
 title: FBI alertou autoridades brasileiras sobre ameaça de ataque terrorista
 date: 2023-11-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

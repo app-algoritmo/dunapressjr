@@ -3,7 +3,7 @@ title: Cleitinho critica Alexandre de Moraes por morte de preso do 8 de janeiro 
   Papuda
 date: 2023-11-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

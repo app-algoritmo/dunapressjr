@@ -2,7 +2,7 @@
 title: 'SP: PM Rodoviária apreende carreta com mais de 2 toneladas de maconha em Itatinga'
 date: 2023-09-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Plínio Valério alerta para possível tentativa de demissão do presiden
   BC
 date: 2023-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

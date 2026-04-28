@@ -2,7 +2,7 @@
 title: Trump Critica Paris e Londres por Políticas de Imigração e Segurança
 date: 2024-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

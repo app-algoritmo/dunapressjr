@@ -2,7 +2,7 @@
 title: PIB do Paraná cresce 3,5% e bate R$ 550 bilhões em 2021
 date: 2023-11-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

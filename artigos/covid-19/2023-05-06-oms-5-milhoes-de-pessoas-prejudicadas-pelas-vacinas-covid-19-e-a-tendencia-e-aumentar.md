@@ -3,7 +3,7 @@ title: 'OMS: 5 milhões de pessoas prejudicadas pelas vacinas Covid-19, e a tend
   é aumentar'
 date: 2023-05-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

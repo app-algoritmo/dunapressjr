@@ -2,7 +2,7 @@
 title: Governador apresenta projeto paulista de transição energética ao setor automotivo
 date: 2023-08-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

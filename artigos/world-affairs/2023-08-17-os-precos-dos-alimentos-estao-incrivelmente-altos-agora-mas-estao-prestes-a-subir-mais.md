@@ -3,7 +3,7 @@ title: Os preços dos alimentos estão incrivelmente altos agora, mas estão pre
   a subir mais
 date: 2023-08-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

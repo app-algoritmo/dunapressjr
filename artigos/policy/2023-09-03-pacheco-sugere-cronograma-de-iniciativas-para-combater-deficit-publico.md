@@ -2,7 +2,7 @@
 title: Pacheco sugere cronograma de iniciativas para combater déficit público
 date: 2023-09-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

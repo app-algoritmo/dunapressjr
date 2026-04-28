@@ -3,7 +3,7 @@ title: Abortos em Illinois aumentam 54% quando estados vizinhos promulgam legisl
   pró-vida
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

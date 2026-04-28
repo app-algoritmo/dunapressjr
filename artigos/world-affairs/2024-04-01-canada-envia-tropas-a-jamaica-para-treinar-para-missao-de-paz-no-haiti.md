@@ -2,7 +2,7 @@
 title: Canadá Envía Tropas à Jamaica para Treinar para Missão de Paz no Haiti
 date: 2024-04-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

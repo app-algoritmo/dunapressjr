@@ -3,7 +3,7 @@ title: The New York Times Pede a Biden que Abandone a Corrida Eleitoral Após De
   Contra Trump
 date: 2024-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

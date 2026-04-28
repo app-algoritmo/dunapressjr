@@ -2,7 +2,7 @@
 title: Número de estupros aumenta 14,9% no Brasil, com 34 mil em seis meses
 date: 2023-11-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

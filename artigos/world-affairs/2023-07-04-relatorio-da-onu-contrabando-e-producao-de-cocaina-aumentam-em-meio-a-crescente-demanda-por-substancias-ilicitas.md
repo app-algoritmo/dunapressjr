@@ -3,7 +3,7 @@ title: 'Relatório da ONU: Contrabando e produção de cocaína aumentam em meio
   demanda por substâncias ilícitas'
 date: 2023-07-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

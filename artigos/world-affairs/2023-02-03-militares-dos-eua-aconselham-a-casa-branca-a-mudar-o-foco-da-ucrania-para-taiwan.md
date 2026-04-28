@@ -2,7 +2,7 @@
 title: Militares dos EUA aconselham a Casa Branca a mudar o foco da Ucrânia para Taiwan
 date: 2023-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

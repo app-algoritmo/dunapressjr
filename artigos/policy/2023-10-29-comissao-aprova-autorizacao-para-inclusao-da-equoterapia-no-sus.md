@@ -2,7 +2,7 @@
 title: Comissão aprova autorização para inclusão da equoterapia no SUS
 date: 2023-10-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

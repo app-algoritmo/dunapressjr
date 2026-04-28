@@ -2,7 +2,7 @@
 title: 'Cúpula de Paz na Suíça: Ilusão de Diálogo ou Estratégia de Guerra?'
 date: 2024-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

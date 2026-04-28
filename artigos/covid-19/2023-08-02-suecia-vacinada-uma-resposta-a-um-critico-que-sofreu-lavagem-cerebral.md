@@ -2,7 +2,7 @@
 title: 'Suécia ''vacinada'': uma resposta a um crítico que sofreu lavagem cerebral'
 date: 2023-08-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

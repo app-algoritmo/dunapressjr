@@ -2,7 +2,7 @@
 title: 'Reforma Tributária: representantes da indústria pedem limite para isenções'
 date: 2023-08-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: ONU, OMS e Bill Gates estão trabalhando para normalizar a pedofilia em t
   o mundo
 date: 2023-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

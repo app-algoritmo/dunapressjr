@@ -3,7 +3,7 @@ title: O colapso econômico ameaçou a Rússia após o início das sanções, ma
   diz Kremlin
 date: 2023-11-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

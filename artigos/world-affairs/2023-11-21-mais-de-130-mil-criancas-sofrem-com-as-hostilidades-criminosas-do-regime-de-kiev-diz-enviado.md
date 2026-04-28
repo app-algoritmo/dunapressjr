@@ -3,7 +3,7 @@ title: Mais de 130 mil crianças sofrem com as hostilidades criminosas do regime
   Kiev, diz enviado
 date: 2023-11-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

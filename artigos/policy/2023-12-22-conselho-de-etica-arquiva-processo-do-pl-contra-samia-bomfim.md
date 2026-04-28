@@ -2,7 +2,7 @@
 title: Conselho de Ética arquiva processo do PL contra Sâmia Bomfim
 date: 2023-12-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

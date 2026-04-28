@@ -3,7 +3,7 @@ title: Fechamento de consulados na Alemanha é parte do corte de relações com 
   diz diplomata
 date: 2023-12-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

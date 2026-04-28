@@ -2,7 +2,7 @@
 title: Líder do Hamas aponta Netanyahu como uma das causas do conflito
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

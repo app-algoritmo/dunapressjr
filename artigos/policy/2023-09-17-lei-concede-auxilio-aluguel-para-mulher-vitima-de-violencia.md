@@ -2,7 +2,7 @@
 title: Lei concede auxílio-aluguel para mulher vítima de violência
 date: 2023-09-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

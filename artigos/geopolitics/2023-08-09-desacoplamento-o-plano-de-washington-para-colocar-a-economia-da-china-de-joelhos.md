@@ -3,7 +3,7 @@ title: '''Desacoplamento'': o plano de Washington para colocar a economia da Chi
   de joelhos'
 date: 2023-08-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

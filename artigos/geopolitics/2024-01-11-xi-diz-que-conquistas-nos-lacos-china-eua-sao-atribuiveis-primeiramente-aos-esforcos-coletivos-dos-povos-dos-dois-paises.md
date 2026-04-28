@@ -3,7 +3,7 @@ title: Xi diz que conquistas nos laços China-EUA são atribuíveis primeirament
   esforços coletivos dos povos dos dois países
 date: 2024-01-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

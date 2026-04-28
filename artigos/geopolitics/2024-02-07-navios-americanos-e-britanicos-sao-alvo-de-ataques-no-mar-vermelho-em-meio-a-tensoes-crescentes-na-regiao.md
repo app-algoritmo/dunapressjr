@@ -3,7 +3,7 @@ title: Navios americanos e britânicos são alvo de ataques no Mar Vermelho em m
   a tensões crescentes na região
 date: 2024-02-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

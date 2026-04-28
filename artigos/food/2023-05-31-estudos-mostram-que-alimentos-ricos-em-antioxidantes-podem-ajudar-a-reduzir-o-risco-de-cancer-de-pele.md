@@ -3,7 +3,7 @@ title: Estudos mostram que alimentos ricos em antioxidantes podem ajudar a reduz
   o risco de câncer de pele
 date: 2023-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

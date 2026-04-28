@@ -2,7 +2,7 @@
 title: Agosto tem recorde de empresas abertas em SP em 2023
 date: 2023-09-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

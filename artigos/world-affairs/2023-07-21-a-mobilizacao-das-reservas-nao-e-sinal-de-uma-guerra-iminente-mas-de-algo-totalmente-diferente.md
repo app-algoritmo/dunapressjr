@@ -3,7 +3,7 @@ title: A mobilização das reservas não é sinal de uma guerra iminente, mas de
   totalmente diferente
 date: 2023-07-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

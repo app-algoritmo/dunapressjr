@@ -2,7 +2,7 @@
 title: Grupo encena primeiro tiro da Artilharia brasileira na Segunda Guerra Mundial
 date: 2023-09-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

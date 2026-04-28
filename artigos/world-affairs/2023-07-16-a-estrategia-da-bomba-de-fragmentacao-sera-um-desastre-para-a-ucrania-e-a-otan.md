@@ -2,7 +2,7 @@
 title: A estratégia da bomba de fragmentação será um desastre para a Ucrânia e a OTAN
 date: 2023-07-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: É hora de dissipar as mentiras e equívocos que cercam o termo 'anarquia'
 date: 2023-07-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

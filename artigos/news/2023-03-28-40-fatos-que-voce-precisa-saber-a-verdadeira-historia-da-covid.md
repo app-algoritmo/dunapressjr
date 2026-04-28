@@ -2,7 +2,7 @@
 title: '40 fatos que você precisa saber: a verdadeira história da ''Covid'''
 date: 2023-03-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Putin afirma aumento do interesse de estrangeiros em trabalhar na Rússia
 date: 2024-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

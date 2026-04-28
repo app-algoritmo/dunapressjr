@@ -3,7 +3,7 @@ title: 'Arcebispo Viganò: A cabala globalista quer estabelecer o império do An
   na terra'
 date: 2024-03-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

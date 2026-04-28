@@ -3,7 +3,7 @@ title: 'Política Independente da Sérvia Sob Pressão: Presidente Vucic Reafirm
   em Meio a Conflitos Regionais'
 date: 2024-03-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

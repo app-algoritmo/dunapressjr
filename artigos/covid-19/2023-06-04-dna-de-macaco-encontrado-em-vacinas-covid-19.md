@@ -2,7 +2,7 @@
 title: DNA de macaco encontrado em vacinas COVID-19
 date: 2023-06-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: EUA fornecerão US$ 250 milhões em ajuda militar a Kiev, incluindo munições
 date: 2023-12-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

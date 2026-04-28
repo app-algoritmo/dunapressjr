@@ -3,7 +3,7 @@ title: China insta o Japão a aderir ao Desenvolvimento Pacífico após Aprovaç
   Orçamento Militar Recorde
 date: 2024-03-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

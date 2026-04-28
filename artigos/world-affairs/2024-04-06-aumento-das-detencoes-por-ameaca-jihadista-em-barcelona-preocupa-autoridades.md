@@ -2,7 +2,7 @@
 title: Aumento das Detenções por Ameaça Jihadista em Barcelona Preocupa Autoridades
 date: 2024-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

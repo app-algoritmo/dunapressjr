@@ -2,7 +2,7 @@
 title: Relatório prevê que a próxima pandemia virá da carne
 date: 2023-08-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

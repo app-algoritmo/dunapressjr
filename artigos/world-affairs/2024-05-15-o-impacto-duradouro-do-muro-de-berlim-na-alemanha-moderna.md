@@ -2,7 +2,7 @@
 title: O Impacto Duradouro do Muro de Berlim na Alemanha Moderna
 date: 2024-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

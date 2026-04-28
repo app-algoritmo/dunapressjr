@@ -2,7 +2,7 @@
 title: Comissão aprova projeto que permite trabalho de jovem junto a pais
 date: 2023-12-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

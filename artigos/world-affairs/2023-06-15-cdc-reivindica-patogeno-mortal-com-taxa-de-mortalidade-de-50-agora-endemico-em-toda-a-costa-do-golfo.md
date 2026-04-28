@@ -3,7 +3,7 @@ title: CDC reivindica pat√≥geno mortal com taxa de mortalidade de 50% agora end√
   em toda a costa do Golfo
 date: 2023-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

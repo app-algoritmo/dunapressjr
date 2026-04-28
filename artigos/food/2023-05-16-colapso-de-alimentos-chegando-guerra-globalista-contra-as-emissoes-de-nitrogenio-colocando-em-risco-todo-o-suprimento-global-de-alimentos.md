@@ -3,7 +3,7 @@ title: 'Colapso de alimentos chegando: guerra globalista contra as emissões de 
   colocando em risco todo o suprimento global de alimentos'
 date: 2023-05-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

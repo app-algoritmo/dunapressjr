@@ -3,7 +3,7 @@ title: 'Kremlin: militares dos EUA queriam fazer experimentos em africanos para 
   empresas farmacêuticas'
 date: 2023-07-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: 'Limpeza: é assim que os países agora estão ajustando secretamente a '
   de mortalidade por Covid'''
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

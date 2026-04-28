@@ -2,7 +2,7 @@
 title: OMS provoca reação em emenda controversa para forçar nações a bloqueios
 date: 2023-05-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

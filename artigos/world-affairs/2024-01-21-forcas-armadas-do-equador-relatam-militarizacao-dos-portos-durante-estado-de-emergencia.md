@@ -3,7 +3,7 @@ title: Forças Armadas do Equador relatam militarização dos portos durante est
   emergência
 date: 2024-01-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

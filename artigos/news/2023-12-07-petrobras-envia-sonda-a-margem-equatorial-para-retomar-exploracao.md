@@ -2,7 +2,7 @@
 title: Petrobras envia sonda à Margem Equatorial para retomar exploração
 date: 2023-12-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

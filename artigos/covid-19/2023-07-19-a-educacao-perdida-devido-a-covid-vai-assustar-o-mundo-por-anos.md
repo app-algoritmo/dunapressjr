@@ -2,7 +2,7 @@
 title: A educação perdida devido à Covid vai “assustar o mundo por anos”
 date: 2023-07-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

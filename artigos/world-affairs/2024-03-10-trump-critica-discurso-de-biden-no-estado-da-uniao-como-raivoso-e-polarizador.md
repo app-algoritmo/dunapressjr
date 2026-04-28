@@ -2,7 +2,7 @@
 title: Trump Critica Discurso de Biden no Estado da União como 'Raivoso e Polarizador'
 date: 2024-03-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

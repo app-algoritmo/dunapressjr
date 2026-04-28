@@ -3,7 +3,7 @@ title: Ataque cibernético à mídia independente! Prova de que a verdade é a 
   vítima da guerra
 date: 2023-09-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

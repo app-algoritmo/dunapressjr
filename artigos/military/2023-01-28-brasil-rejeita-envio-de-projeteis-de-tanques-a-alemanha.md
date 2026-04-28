@@ -2,7 +2,7 @@
 title: Brasil rejeita envio de projéteis de tanques à Alemanha
 date: 2023-01-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

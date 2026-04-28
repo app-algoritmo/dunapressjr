@@ -2,7 +2,7 @@
 title: Trump critica administração atual dos EUA após ataque do Irã a Israel
 date: 2024-04-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Golpe global e o “Grande Reinício”
 date: 2023-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

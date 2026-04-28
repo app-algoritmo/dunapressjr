@@ -2,7 +2,7 @@
 title: Arábia Saudita e Iraque firmam-se em defesa dos combustíveis fósseis na COP28
 date: 2023-12-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

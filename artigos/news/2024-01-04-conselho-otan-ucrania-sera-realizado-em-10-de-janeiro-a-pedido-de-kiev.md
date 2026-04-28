@@ -2,7 +2,7 @@
 title: Conselho OTAN-Ucrânia será realizado em 10 de janeiro a pedido de Kiev
 date: 2024-01-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

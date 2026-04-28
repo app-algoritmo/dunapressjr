@@ -2,7 +2,7 @@
 title: Israel desferirá duro golpe em seus inimigos, diz Netanyahu
 date: 2023-10-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

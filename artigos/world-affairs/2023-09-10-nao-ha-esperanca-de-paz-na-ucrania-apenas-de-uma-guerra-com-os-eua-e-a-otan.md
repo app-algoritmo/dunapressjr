@@ -2,7 +2,7 @@
 title: Não há esperança de paz na Ucrânia - apenas de uma guerra com os EUA e a OTAN
 date: 2023-09-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

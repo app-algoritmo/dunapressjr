@@ -2,7 +2,7 @@
 title: Novo governo da Polônia quer compensação da Alemanha pelos abusos dos nazistas
 date: 2024-02-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'NATO Adverte: Ucrânia Deve Resistir até 2025 para um Contra-Ataque'
 date: 2024-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

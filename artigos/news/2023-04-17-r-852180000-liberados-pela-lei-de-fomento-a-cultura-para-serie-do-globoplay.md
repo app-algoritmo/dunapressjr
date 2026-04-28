@@ -2,7 +2,7 @@
 title: R$ 8.521.800,00 liberados pela Lei de Fomento a Cultura para série do GloboPlay
 date: 2023-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

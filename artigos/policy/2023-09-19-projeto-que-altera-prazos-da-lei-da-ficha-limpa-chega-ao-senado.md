@@ -2,7 +2,7 @@
 title: Projeto que altera prazos da Lei da Ficha Limpa chega ao Senado
 date: 2023-09-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

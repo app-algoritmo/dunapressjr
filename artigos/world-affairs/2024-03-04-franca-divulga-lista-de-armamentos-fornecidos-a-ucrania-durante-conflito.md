@@ -2,7 +2,7 @@
 title: França divulga lista de armamentos fornecidos à Ucrânia durante conflito
 date: 2024-03-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

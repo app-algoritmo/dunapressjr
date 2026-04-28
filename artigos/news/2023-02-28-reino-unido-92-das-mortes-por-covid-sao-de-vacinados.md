@@ -2,7 +2,7 @@
 title: 'Reino Unido: 92% das mortes por Covid são de vacinados'
 date: 2023-02-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

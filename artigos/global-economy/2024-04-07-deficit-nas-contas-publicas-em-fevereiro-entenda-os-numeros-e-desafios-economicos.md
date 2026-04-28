@@ -2,7 +2,7 @@
 title: 'Déficit nas contas públicas em fevereiro: Entenda os números e desafios econômicos'
 date: 2024-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

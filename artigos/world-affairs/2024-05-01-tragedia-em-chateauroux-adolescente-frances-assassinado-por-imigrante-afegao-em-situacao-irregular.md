@@ -3,7 +3,7 @@ title: 'Tragédia em Châteauroux: Adolescente Francês Assassinado por Imigrant
   em Situação Irregular'
 date: 2024-05-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

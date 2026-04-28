@@ -2,7 +2,7 @@
 title: OMS adverte que a gripe aviária H5N1 ainda é uma grande ameaça pandêmica
 date: 2023-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -2,7 +2,7 @@
 title: 'Emergência Nacional: A Epidemia de Fentanil e a Crise das Fronteiras nos EUA'
 date: 2024-03-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

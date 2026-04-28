@@ -3,7 +3,7 @@ title: EUA e Japão Planejam Atualização Histórica do Acordo de Segurança pa
   China e Coreia do Norte
 date: 2024-03-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

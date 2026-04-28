@@ -3,7 +3,7 @@ title: Secretários da Segurança firmam acordo de cooperação para combater cr
   divisas
 date: 2023-10-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

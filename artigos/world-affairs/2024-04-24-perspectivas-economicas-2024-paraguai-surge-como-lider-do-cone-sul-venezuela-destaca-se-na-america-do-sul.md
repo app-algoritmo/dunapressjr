@@ -3,7 +3,7 @@ title: 'Perspectivas Econômicas 2024: Paraguai Surge como Líder do Cone Sul, V
   Destaca-se na América do Sul'
 date: 2024-04-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

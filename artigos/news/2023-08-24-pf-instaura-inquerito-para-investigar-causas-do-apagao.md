@@ -2,7 +2,7 @@
 title: PF instaura inquérito para investigar causas do apagão
 date: 2023-08-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

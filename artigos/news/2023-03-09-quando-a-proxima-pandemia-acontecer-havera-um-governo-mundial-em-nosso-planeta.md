@@ -2,7 +2,7 @@
 title: Quando a próxima pandemia acontecer, haverá um governo mundial em nosso planeta
 date: 2023-03-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

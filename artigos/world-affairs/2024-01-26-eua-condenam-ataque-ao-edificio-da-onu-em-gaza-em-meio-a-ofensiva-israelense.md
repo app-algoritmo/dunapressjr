@@ -2,7 +2,7 @@
 title: EUA condenam ataque ao edifício da ONU em Gaza em meio à ofensiva israelense
 date: 2024-01-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

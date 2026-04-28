@@ -2,7 +2,7 @@
 title: Donald Trump finalmente vai contar a verdade sobre a Big Pharma
 date: 2023-06-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

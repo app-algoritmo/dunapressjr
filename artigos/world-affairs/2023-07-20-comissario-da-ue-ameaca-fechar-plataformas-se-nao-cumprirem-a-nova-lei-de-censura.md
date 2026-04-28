@@ -2,7 +2,7 @@
 title: Comissário da UE ameaça fechar plataformas se não cumprirem a nova lei de censura
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

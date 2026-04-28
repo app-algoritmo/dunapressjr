@@ -3,7 +3,7 @@ title: Chanceleres do Irã e da Argélia conferem sobre os últimos desenvolvime
   na região
 date: 2024-01-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

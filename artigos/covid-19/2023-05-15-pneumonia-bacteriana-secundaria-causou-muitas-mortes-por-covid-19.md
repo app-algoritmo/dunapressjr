@@ -2,7 +2,7 @@
 title: Pneumonia bacteriana secundária causou muitas mortes por COVID-19
 date: 2023-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

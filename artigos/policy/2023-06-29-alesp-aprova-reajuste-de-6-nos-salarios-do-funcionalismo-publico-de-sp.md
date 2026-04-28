@@ -2,7 +2,7 @@
 title: Alesp aprova reajuste de 6% nos salários do funcionalismo público de SP
 date: 2023-06-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

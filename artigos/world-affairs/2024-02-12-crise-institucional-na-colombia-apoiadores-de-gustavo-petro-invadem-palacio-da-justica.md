@@ -3,7 +3,7 @@ title: 'Crise Institucional na Colômbia: Apoiadores de Gustavo Petro Invadem Pa
   da Justiça'
 date: 2024-02-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

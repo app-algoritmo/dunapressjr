@@ -3,7 +3,7 @@ title: Presidente do Paraguai reforça compromisso contra a insegurança e desta
   das forças militares
 date: 2024-05-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

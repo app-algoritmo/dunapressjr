@@ -2,7 +2,7 @@
 title: Alarme no Ocidente - Os árabes estabelecem o monopólio do petróleo!
 date: 2023-07-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

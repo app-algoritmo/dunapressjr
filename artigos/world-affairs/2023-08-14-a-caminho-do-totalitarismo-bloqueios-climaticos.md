@@ -2,7 +2,7 @@
 title: 'A caminho do totalitarismo: Bloqueios climáticos'
 date: 2023-08-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

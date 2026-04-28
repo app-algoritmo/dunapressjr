@@ -2,7 +2,7 @@
 title: Lira destaca avanços institucionais e diz que democracia está consolidada
 date: 2023-08-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

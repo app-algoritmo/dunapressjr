@@ -3,7 +3,7 @@ title: 'Paraguai: Deputados aprovam prorrogação de lei de emergência penitenc
   por um ano'
 date: 2023-12-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

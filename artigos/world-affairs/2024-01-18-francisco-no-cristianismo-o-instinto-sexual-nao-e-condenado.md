@@ -2,7 +2,7 @@
 title: 'Francisco: “no cristianismo o instinto sexual não é condenado”'
 date: 2024-01-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

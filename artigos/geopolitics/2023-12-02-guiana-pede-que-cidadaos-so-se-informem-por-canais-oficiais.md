@@ -2,7 +2,7 @@
 title: Guiana pede que cidadãos só se informem por canais oficiais
 date: 2023-12-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Rede italiana detecta múltiplos efeitos colaterais neurológicos após v
   contra COVID-19
 date: 2023-11-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

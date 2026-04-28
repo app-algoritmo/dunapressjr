@@ -2,7 +2,7 @@
 title: Forças Especiais do Brasil e dos EUA realizam atividade de integração na Amazônia
 date: 2023-11-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

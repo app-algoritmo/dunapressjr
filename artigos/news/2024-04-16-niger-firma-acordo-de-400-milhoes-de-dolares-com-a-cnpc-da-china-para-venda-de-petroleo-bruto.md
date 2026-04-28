@@ -3,7 +3,7 @@ title: Níger firma acordo de 400 milhões de dólares com a CNPC da China para 
   de petróleo bruto
 date: 2024-04-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

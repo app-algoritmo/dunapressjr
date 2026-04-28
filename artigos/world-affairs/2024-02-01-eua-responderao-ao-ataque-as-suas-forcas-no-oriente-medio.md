@@ -2,7 +2,7 @@
 title: EUA responderão ao ataque às suas forças no Oriente Médio
 date: 2024-02-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

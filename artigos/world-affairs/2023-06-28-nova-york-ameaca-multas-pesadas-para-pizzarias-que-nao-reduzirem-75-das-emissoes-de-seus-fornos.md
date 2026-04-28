@@ -3,7 +3,7 @@ title: Nova York ameaça multas pesadas para pizzarias que não reduzirem 75% da
   de seus fornos
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

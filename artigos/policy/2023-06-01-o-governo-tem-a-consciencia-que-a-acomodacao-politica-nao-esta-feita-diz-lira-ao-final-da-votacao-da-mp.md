@@ -3,7 +3,7 @@ title: “O governo tem a consciência que a acomodação política não está f
   Lira ao final da votação da MP
 date: 2023-06-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

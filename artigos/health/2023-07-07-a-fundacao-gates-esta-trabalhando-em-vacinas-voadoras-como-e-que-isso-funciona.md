@@ -2,7 +2,7 @@
 title: A Fundação Gates está trabalhando em 'vacinas voadoras'. Como é que isso funciona?
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

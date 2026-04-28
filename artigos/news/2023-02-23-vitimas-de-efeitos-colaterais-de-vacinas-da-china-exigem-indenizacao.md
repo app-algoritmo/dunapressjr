@@ -2,7 +2,7 @@
 title: Vítimas de efeitos colaterais de vacinas da China, exigem indenização
 date: 2023-02-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

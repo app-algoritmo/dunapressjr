@@ -2,7 +2,7 @@
 title: Pequim exige que os EUA cessem as maquinações para a “independência de Taiwan”
 date: 2023-12-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

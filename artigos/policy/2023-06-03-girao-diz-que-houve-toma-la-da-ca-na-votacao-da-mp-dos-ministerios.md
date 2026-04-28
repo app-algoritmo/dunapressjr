@@ -2,7 +2,7 @@
 title: Girão diz que houve 'toma lá, dá cá' na votação da MP dos ministérios
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

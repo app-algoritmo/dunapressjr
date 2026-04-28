@@ -3,7 +3,7 @@ title: Engenharia climática para combater o aquecimento global? O que poderia d
   errado!
 date: 2023-07-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Environment
 ---

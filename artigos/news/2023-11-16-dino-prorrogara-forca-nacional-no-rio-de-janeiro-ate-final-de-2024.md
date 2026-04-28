@@ -2,7 +2,7 @@
 title: Dino prorrogará Força Nacional no Rio de Janeiro até final de 2024
 date: 2023-11-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

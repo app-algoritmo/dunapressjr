@@ -2,7 +2,7 @@
 title: Relatório sobre tráfico de crianças e bebês
 date: 2023-09-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

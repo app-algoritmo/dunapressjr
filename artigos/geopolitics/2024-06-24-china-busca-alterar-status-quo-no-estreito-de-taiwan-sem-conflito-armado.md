@@ -2,7 +2,7 @@
 title: China Busca Alterar Status Quo no Estreito de Taiwan sem Conflito Armado
 date: 2024-06-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

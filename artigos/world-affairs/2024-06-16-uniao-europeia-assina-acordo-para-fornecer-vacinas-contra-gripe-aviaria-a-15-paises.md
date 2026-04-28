@@ -3,7 +3,7 @@ title: União Europeia Assina Acordo para Fornecer Vacinas contra Gripe Aviária
   Países
 date: 2024-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

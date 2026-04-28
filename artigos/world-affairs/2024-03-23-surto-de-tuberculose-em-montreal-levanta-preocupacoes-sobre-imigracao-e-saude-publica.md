@@ -3,7 +3,7 @@ title: Surto de Tuberculose em Montreal Levanta Preocupações sobre Imigração
   Pública
 date: 2024-03-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

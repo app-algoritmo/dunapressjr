@@ -2,7 +2,7 @@
 title: Rogerio Marinho critica discurso de Lula na Assembleia Geral da ONU
 date: 2023-09-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Chico Rodrigues critica STF por pautar a descriminalização do aborto
 date: 2023-09-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

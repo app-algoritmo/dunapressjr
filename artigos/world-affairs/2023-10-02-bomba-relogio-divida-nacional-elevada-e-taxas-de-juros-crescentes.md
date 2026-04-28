@@ -2,7 +2,7 @@
 title: 'Bomba-relógio: dívida nacional elevada e taxas de juros crescentes'
 date: 2023-10-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

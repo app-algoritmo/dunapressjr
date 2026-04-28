@@ -3,7 +3,7 @@ title: Bill Gates Investe em Vacinação de Gado para 'Reduzir Emissões de Meta
   Combater Mudanças Climáticas'
 date: 2024-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

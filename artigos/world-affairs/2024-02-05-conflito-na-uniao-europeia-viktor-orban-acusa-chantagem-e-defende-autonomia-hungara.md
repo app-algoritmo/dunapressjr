@@ -3,7 +3,7 @@ title: 'Conflito na União Europeia: Viktor Orban Acusa Chantagem e Defende Auto
   Húngara'
 date: 2024-02-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

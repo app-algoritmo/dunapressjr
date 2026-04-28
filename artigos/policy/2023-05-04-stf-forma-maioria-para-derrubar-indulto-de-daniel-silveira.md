@@ -2,7 +2,7 @@
 title: STF forma maioria para derrubar indulto de Daniel Silveira
 date: 2023-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

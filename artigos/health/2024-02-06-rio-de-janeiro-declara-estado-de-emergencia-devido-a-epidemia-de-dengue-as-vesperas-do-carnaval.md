@@ -3,7 +3,7 @@ title: Rio de Janeiro Declara Estado de Emergência devido a Epidemia de Dengue 
   Vésperas do Carnaval
 date: 2024-02-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

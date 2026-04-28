@@ -3,7 +3,7 @@ title: 'EUA Anunciam Retaliação: Biden Garante Resposta Firme a Ataques contra
   na Jordânia'
 date: 2024-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

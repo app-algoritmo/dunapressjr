@@ -2,7 +2,7 @@
 title: Nudistas na maior Parada do Orgulho do Canadá se expuseram a crianças na platéia
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

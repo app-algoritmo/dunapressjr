@@ -3,7 +3,7 @@ title: Itália Proíbe Instalação de Painéis Solares em Terras Agrícolas em 
   Proteção Ambiental
 date: 2024-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

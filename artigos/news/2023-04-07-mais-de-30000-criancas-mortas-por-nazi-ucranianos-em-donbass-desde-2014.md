@@ -2,7 +2,7 @@
 title: Mais de 30.000 crianças mortas por nazi-ucranianos em Donbass desde 2014
 date: 2023-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

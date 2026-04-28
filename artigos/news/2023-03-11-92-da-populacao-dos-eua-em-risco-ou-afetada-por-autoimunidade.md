@@ -2,7 +2,7 @@
 title: 92% da população dos EUA em risco ou afetada por autoimunidade
 date: 2023-03-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

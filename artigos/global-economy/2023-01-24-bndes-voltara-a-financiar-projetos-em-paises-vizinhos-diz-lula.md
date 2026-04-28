@@ -2,7 +2,7 @@
 title: BNDES voltará a financiar projetos em países vizinhos, diz Lula
 date: 2023-01-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

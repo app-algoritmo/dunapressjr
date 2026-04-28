@@ -2,7 +2,7 @@
 title: Magno Malta questiona falta de imagens do Ministério da Justiça no 8 de janeiro
 date: 2023-08-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

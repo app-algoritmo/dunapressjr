@@ -2,7 +2,7 @@
 title: Moro chama atenção para audiência pública com líder da oposição da Venezuela
 date: 2023-07-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

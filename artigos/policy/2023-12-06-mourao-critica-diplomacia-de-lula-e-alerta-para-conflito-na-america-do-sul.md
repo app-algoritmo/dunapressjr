@@ -2,7 +2,7 @@
 title: Mourão critica diplomacia de Lula e alerta para conflito na América do Sul
 date: 2023-12-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

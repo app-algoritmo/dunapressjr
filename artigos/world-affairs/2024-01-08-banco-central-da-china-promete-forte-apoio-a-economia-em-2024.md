@@ -2,7 +2,7 @@
 title: Banco central da China promete forte apoio à economia em 2024
 date: 2024-01-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

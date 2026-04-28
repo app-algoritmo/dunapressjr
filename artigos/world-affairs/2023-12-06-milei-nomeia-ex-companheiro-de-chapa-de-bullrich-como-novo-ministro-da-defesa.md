@@ -2,7 +2,7 @@
 title: Milei nomeia ex-companheiro de chapa de Bullrich como novo Ministro da Defesa
 date: 2023-12-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

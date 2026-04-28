@@ -3,7 +3,7 @@ title: Senadora Damares Alves critica atuação do ministro Alexandre de Moraes 
   pró-Bolsonaro
 date: 2024-04-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

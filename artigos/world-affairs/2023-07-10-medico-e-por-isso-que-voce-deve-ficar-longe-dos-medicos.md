@@ -2,7 +2,7 @@
 title: 'Médico: É por isso que você deve ficar longe dos médicos'
 date: 2023-07-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

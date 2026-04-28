@@ -3,7 +3,7 @@ title: 'Propaganda para promover a aceitação de chips implantados: “Cada vez
   pessoas usarão dispositivos vestíveis para monitorar sua saúde”'
 date: 2023-08-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Cleitinho critica declaração do presidente Lula em live de que 'não come bem'
 date: 2023-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

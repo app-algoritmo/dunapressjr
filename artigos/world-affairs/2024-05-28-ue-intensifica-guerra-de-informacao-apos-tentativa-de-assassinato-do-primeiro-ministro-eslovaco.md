@@ -3,7 +3,7 @@ title: UE Intensifica Guerra de Informação Após Tentativa de Assassinato do P
   Eslovaco
 date: 2024-05-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

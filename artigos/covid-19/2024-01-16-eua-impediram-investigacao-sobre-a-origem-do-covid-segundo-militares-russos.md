@@ -2,7 +2,7 @@
 title: EUA impediram investigação sobre a origem do COVID, segundo militares russos
 date: 2024-01-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

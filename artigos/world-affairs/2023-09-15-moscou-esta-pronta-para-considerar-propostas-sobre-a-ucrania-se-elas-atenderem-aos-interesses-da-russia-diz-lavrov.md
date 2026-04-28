@@ -3,7 +3,7 @@ title: Moscou está pronta para considerar propostas sobre a Ucrânia se elas at
   aos interesses da Rússia, diz Lavrov
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

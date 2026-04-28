@@ -3,7 +3,7 @@ title: Quase 2 bilhões de pessoas no mundo não veem as alterações climática
   uma ameaça
 date: 2023-11-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Coreia do Norte Testa com Sucesso Novo Míssil Balístico Intermediário 
   Hipersônica
 date: 2024-04-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

@@ -3,7 +3,7 @@ title: Sinais de rádio enigmáticos chegam à Terra vindos de uma galáxia anã
   de anos-luz de distância
 date: 2023-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Astronomy
 ---

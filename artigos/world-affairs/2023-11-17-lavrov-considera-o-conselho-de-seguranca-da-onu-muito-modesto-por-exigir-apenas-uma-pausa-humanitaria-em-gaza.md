@@ -3,7 +3,7 @@ title: Lavrov considera o Conselho de Segurança da ONU muito modesto por exigir
   uma pausa humanitária em Gaza
 date: 2023-11-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Canadá: Pierre Poilievre promete mudança radical em comício'
 date: 2024-03-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

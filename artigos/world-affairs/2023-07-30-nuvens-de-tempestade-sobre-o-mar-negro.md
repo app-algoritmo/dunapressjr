@@ -2,7 +2,7 @@
 title: Nuvens de tempestade sobre o Mar Negro
 date: 2023-07-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

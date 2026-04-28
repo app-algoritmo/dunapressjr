@@ -2,7 +2,7 @@
 title: Os danos do pico C-19
 date: 2023-08-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

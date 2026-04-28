@@ -3,7 +3,7 @@ title: 'Putin: tentativas do Ocidente de manter a influência exacerbam a tensã
   Oriente Médio e na Ucrânia'
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

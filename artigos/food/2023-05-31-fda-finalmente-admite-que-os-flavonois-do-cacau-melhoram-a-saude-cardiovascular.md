@@ -2,7 +2,7 @@
 title: FDA finalmente admite que os flavonóis do cacau melhoram a saúde cardiovascular
 date: 2023-05-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

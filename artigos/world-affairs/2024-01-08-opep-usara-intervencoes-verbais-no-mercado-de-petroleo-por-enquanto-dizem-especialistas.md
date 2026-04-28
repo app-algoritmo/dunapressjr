@@ -3,7 +3,7 @@ title: OPEP+ usará intervenções verbais no mercado de petróleo por enquanto,
   especialistas
 date: 2024-01-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

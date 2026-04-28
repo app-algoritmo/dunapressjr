@@ -3,7 +3,7 @@ title: 'Preparativos em Nova York para o Eclipse Solar Total de 2024: Autoridade
   lertam Residentes e Desenvolvem Planos de Emergência'
 date: 2024-03-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

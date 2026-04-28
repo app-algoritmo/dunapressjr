@@ -2,7 +2,7 @@
 title: Por que os países precisam sair da Organização Mundial da Saúde?
 date: 2023-06-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

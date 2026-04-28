@@ -2,7 +2,7 @@
 title: 'A Singularidade do Estado: O Coletivismo Moderno e a Erosão da Liberdade Individual'
 date: 2024-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

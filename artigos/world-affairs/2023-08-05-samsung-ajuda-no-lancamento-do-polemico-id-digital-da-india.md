@@ -2,7 +2,7 @@
 title: Samsung ajuda no lançamento do polêmico ID digital da Índia
 date: 2023-08-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

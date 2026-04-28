@@ -2,7 +2,7 @@
 title: Contra-ofensiva ucraniana será 'longa, dura e sangrenta', diz Milley nos EUA
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: China pede ao Reino Unido que pare de abrigar desestabilizadores anti-Chi
   e de Hong Kong
 date: 2023-12-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

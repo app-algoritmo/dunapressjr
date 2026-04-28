@@ -2,7 +2,7 @@
 title: 'Tensões na Europa: A Crise Imersa entre a NATO, a Rússia e a Ucrânia'
 date: 2024-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

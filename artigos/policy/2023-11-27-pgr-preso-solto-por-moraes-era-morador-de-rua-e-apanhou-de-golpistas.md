@@ -2,7 +2,7 @@
 title: 'PGR: preso solto por Moraes era morador de rua e apanhou de golpistas'
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

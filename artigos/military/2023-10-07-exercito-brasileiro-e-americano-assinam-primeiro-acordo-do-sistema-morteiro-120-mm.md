@@ -3,7 +3,7 @@ title: Exército Brasileiro e Americano assinam primeiro acordo do sistema morte
   120 mm
 date: 2023-10-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

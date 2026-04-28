@@ -3,7 +3,7 @@ title: Enviado russo critica recusa do chefe da ONU em condenar ataques israelen
   contra alvos civis
 date: 2023-11-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Ocidente Subestima a Rússia e Aproxima Mundo de Conflito Nuclear, Avisa 
   dos EUA
 date: 2024-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

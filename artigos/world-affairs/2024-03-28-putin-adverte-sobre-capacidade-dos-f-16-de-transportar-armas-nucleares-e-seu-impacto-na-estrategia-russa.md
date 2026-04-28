@@ -3,7 +3,7 @@ title: Putin adverte sobre capacidade dos F-16 de transportar armas nucleares e 
   impacto na estratégia russa
 date: 2024-03-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

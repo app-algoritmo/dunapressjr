@@ -2,7 +2,7 @@
 title: 'A Nova Era de Putin: Rússia Busca Paridade e Identidade Própria'
 date: 2024-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

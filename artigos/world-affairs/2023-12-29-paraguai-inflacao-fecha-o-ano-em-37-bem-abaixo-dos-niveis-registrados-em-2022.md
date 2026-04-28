@@ -3,7 +3,7 @@ title: 'Paraguai: Inflação fecha o ano em 3,7%, bem abaixo dos níveis registr
   em 2022'
 date: 2023-12-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

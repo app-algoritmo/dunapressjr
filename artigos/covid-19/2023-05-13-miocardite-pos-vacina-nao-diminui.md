@@ -2,7 +2,7 @@
 title: Miocardite pós vacina não diminui
 date: 2023-05-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

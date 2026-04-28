@@ -2,7 +2,7 @@
 title: Prerrogativas do Legislativo estão sendo 'atropeladas', diz Sérgio Moro
 date: 2023-09-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Maduro Atribui Conflito na Ucrânia aos Estados Unidos em Entrevista
 date: 2024-02-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

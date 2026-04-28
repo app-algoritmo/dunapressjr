@@ -3,7 +3,7 @@ title: Mãe argentina está indignada por perder a filha de 8 anos que tomou a v
   contra a COVID
 date: 2023-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Especialista adverte sobre iminência da guerra nuclear e suas catastróf
   consequências
 date: 2024-04-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

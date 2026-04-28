@@ -2,7 +2,7 @@
 title: Vanderlan celebra aprovação de texto que compensa ICMS a estados e municípios
 date: 2023-10-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

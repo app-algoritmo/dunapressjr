@@ -2,7 +2,7 @@
 title: Hospitalização com miocardite/pericardite na Suíça mostra um enorme aumento
 date: 2023-02-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

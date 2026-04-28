@@ -3,7 +3,7 @@ title: Comitê da Câmara dos EUA Intensifica Investigação sobre Negócios de 
   Biden
 date: 2024-03-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

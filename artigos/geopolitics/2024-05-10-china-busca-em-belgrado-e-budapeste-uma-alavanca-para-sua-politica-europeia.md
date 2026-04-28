@@ -2,7 +2,7 @@
 title: China busca em Belgrado e Budapeste uma alavanca para sua política europeia
 date: 2024-05-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

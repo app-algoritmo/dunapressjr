@@ -3,7 +3,7 @@ title: WEF publica o último documento pedindo limites ao “uso de carros parti
   e redução drástica no número de carros até 2050
 date: 2023-06-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

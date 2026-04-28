@@ -3,7 +3,7 @@ title: A situação em Gaza afeta o mundo inteiro, não apenas o Oriente Médio,
   iraniano
 date: 2023-12-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Fauci admite que as máscaras não funcionam
 date: 2023-09-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

@@ -2,7 +2,7 @@
 title: 'UE Impõe Ultimato a Orbán: Apoie Ajuda à Ucrânia ou Perca Direito de Voto'
 date: 2024-02-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

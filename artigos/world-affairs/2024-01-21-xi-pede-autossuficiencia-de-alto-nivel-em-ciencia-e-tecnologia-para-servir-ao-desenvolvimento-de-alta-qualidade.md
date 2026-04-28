@@ -3,7 +3,7 @@ title: Xi pede autossuficiência de alto nível em ciência e tecnologia para se
   ao desenvolvimento de alta qualidade
 date: 2024-01-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

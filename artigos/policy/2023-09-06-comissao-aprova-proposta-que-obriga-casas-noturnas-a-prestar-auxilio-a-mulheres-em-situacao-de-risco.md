@@ -3,7 +3,7 @@ title: Comissão aprova proposta que obriga casas noturnas a prestar auxílio a 
   em situação de risco
 date: 2023-09-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

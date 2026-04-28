@@ -2,7 +2,7 @@
 title: O poder de cura da vitamina D
 date: 2023-09-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

@@ -3,7 +3,7 @@ title: Senadores Republicanos Instam Biden a Rotular 'Trem de Aragua' como Organ
   Criminosa Transnacional
 date: 2024-03-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

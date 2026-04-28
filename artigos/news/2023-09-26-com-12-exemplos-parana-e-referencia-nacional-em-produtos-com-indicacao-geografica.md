@@ -2,7 +2,7 @@
 title: Com 12 exemplos, Paraná é referência nacional em produtos com indicação geográfica
 date: 2023-09-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

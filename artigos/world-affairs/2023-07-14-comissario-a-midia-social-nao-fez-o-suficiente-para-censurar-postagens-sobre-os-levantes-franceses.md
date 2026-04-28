@@ -3,7 +3,7 @@ title: 'Comissário: A mídia social não fez o suficiente para censurar postage
   os levantes franceses'
 date: 2023-07-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

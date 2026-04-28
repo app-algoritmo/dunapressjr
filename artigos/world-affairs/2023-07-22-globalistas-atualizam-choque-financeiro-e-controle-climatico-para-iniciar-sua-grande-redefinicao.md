@@ -3,7 +3,7 @@ title: 'Globalistas atualizam: “choque financeiro” e controle climático par
   sua grande redefinição'
 date: 2023-07-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

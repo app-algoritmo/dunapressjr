@@ -3,7 +3,7 @@ title: Documentos bancários mostram que mais de US $ 20 milhões foram para a f
   e funcionários de Biden
 date: 2023-08-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

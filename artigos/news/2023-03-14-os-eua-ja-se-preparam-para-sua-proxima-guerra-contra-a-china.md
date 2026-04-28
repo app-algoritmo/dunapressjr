@@ -2,7 +2,7 @@
 title: 'Os EUA já se preparam para sua próxima guerra: contra a China'
 date: 2023-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

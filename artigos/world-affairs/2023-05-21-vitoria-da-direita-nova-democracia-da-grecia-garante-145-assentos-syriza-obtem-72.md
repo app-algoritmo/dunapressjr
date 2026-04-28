@@ -3,7 +3,7 @@ title: 'Vitória da Direita: Nova Democracia da Grécia garante 145 assentos, SY
   obtém 72'
 date: 2023-05-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

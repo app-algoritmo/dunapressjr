@@ -2,7 +2,7 @@
 title: Projeto abre crédito no Orçamento para pagar benefícios a servidores
 date: 2023-10-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

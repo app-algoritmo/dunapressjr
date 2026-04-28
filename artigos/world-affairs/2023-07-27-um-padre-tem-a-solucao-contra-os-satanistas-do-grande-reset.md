@@ -2,7 +2,7 @@
 title: Um padre tem a solução contra os satanistas do Grande Reset
 date: 2023-07-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

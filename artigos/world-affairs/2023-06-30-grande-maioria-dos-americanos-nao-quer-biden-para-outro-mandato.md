@@ -2,7 +2,7 @@
 title: Grande maioria dos americanos não quer Biden para outro mandato
 date: 2023-06-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Nova Descoberta de Investigadores Espanhóis Levanta Questões sobre Pres
   de Grafeno em Vacinas
 date: 2024-03-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

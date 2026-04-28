@@ -2,7 +2,7 @@
 title: Exército Colombiano Mata Comandante de Dissidência das FARC no Cauca
 date: 2024-06-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

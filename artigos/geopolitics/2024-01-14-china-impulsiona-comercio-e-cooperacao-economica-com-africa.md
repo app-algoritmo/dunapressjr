@@ -2,7 +2,7 @@
 title: China impulsiona comércio e cooperação econômica com África
 date: 2024-01-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

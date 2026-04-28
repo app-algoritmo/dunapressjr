@@ -3,7 +3,7 @@ title: Governadora de Dakota do Sul envia tropas para fronteira sul dos EUA em r
   à crise de imigração
 date: 2024-02-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

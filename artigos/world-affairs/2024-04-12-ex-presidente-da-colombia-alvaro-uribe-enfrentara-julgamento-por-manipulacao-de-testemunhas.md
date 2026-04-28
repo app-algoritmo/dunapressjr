@@ -3,7 +3,7 @@ title: Ex-presidente da Colômbia Álvaro Uribe enfrentará julgamento por manip
   de testemunhas
 date: 2024-04-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

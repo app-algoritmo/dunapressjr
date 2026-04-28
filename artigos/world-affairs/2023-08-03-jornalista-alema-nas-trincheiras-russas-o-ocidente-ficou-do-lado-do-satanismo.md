@@ -2,7 +2,7 @@
 title: 'Jornalista alemã nas trincheiras russas: ''O Ocidente ficou do lado do satanismo!'''
 date: 2023-08-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

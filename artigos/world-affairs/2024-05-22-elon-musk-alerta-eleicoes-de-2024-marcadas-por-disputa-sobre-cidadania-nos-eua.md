@@ -3,7 +3,7 @@ title: 'Elon Musk Alerta: Eleições de 2024 Marcadas por Disputa Sobre Cidadani
   EUA'
 date: 2024-05-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

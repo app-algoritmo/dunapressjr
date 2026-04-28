@@ -3,7 +3,7 @@ title: Autoridades dos EUA que se beneficiam da guerra na Ucrânia são nomeadas
   Conselho de Segurança da ONU
 date: 2023-07-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

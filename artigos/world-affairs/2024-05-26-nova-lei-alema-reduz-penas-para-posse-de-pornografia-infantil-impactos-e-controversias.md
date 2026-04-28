@@ -3,7 +3,7 @@ title: 'Nova lei alemã reduz penas para posse de pornografia infantil: impactos
   controvérsias'
 date: 2024-05-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

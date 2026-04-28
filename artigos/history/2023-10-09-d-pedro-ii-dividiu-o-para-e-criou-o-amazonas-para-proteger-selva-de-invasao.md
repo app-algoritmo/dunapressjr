@@ -2,7 +2,7 @@
 title: D. Pedro II dividiu o Pará e criou o Amazonas para proteger selva de invasão
 date: 2023-10-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - History
 ---

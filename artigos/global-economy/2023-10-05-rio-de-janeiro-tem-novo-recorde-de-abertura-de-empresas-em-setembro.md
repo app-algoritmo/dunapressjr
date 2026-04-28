@@ -2,7 +2,7 @@
 title: Rio de Janeiro tem novo recorde de abertura de empresas em setembro
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

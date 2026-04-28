@@ -3,7 +3,7 @@ title: Marcos Pereira afirma que há clima para votar taxação de offshores na 
   terça-feira
 date: 2023-10-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

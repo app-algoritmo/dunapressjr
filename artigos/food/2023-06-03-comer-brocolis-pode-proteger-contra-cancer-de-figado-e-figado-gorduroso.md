@@ -2,7 +2,7 @@
 title: Comer brócolis pode proteger contra câncer de fígado e fígado gorduroso
 date: 2023-06-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Food
 ---

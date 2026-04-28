@@ -2,7 +2,7 @@
 title: Relatórios e estudos são mal utilizados como meio de propaganda
 date: 2023-07-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -2,7 +2,7 @@
 title: Irã condena veementemente ataques dos EUA e do Reino Unido contra o Iêmen
 date: 2024-01-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

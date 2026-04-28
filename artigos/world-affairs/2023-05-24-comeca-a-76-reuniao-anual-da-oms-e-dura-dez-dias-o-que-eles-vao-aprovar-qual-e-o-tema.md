@@ -3,7 +3,7 @@ title: Começa a 76ª reunião anual da OMS e dura dez dias. O que eles vão apr
   Qual é o tema?
 date: 2023-05-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -3,7 +3,7 @@ title: Comissão aprova projeto que prevê a presença de três policiais milita
   cada viatura
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

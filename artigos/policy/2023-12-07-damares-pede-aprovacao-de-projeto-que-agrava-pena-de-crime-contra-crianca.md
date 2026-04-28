@@ -2,7 +2,7 @@
 title: Damares pede aprovação de projeto que agrava pena de crime contra criança
 date: 2023-12-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

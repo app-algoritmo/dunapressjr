@@ -2,7 +2,7 @@
 title: Girão pede reação do Senado após STF pautar a descriminalização do aborto
 date: 2023-09-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

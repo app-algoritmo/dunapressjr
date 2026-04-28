@@ -2,7 +2,7 @@
 title: Marinha do Brasil realiza Exercício de Defesa de Porto em Fortaleza
 date: 2023-10-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

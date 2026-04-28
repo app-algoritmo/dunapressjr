@@ -2,7 +2,7 @@
 title: 'A Nova Guerra Fria: Estados Unidos e China na Encruzilhada Global'
 date: 2024-04-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

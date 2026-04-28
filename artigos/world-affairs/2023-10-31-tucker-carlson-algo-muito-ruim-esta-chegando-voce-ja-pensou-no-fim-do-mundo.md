@@ -3,7 +3,7 @@ title: 'Tucker Carlson: ''Algo muito ruim está chegando... Você já pensou no 
   mundo?'''
 date: 2023-10-31
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

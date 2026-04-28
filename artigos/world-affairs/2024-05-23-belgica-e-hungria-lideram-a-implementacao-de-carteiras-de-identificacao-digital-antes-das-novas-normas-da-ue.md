@@ -3,7 +3,7 @@ title: Bélgica e Hungria Lideram a Implementação de Carteiras de Identificaç
   antes das Novas Normas da UE
 date: 2024-05-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

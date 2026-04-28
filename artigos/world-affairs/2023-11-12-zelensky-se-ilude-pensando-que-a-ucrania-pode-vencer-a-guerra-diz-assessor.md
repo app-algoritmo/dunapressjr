@@ -2,7 +2,7 @@
 title: Zelensky “se ilude” pensando que a Ucrânia pode vencer a guerra, diz assessor
 date: 2023-11-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

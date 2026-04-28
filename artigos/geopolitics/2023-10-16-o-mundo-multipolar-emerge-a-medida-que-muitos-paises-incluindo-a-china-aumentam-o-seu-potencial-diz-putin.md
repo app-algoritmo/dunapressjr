@@ -3,7 +3,7 @@ title: O mundo multipolar emerge à medida que muitos países, incluindo a China
   o seu potencial, diz Putin
 date: 2023-10-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

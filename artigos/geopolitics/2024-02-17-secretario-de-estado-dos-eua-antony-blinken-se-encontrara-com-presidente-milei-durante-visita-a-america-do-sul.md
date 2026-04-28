@@ -3,7 +3,7 @@ title: Secretário de Estado dos EUA, Antony Blinken, se encontrará com Preside
   Milei durante visita à América do Sul
 date: 2024-02-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

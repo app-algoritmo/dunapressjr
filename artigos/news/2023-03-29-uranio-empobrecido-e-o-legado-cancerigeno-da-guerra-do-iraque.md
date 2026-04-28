@@ -2,7 +2,7 @@
 title: Urânio empobrecido e o legado cancerígeno da Guerra do Iraque
 date: 2023-03-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Mais de 170 vítimas das tropas de Kiev encontradas em sepulturas improvi
   em Lugansk na semana passada
 date: 2023-06-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

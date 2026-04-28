@@ -2,7 +2,7 @@
 title: Lewandowski encerra três ações contra Lula que estavam suspensas
 date: 2023-02-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

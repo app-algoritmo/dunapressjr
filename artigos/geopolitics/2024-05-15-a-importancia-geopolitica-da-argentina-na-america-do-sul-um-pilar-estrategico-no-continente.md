@@ -3,7 +3,7 @@ title: 'A Importância Geopolítica da Argentina na América do Sul: Um Pilar Es
   no Continente'
 date: 2024-05-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

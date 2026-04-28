@@ -3,7 +3,7 @@ title: Comissão debate criação do Dia Nacional de Conscientização sobre a D
   nas Escolas
 date: 2023-08-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

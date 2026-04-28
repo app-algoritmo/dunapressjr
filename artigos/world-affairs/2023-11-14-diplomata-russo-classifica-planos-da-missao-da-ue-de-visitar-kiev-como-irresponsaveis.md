@@ -2,7 +2,7 @@
 title: Diplomata russo classifica planos da missão da UE de visitar Kiev como irresponsáveis
 date: 2023-11-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

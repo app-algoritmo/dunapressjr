@@ -3,7 +3,7 @@ title: A Importância de Estoque de Alimentos, Água e Combustíveis para Enfren
   Futuras
 date: 2024-05-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

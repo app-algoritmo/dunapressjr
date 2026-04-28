@@ -2,7 +2,7 @@
 title: 'Cardiologista: Como tirar a proteína spike do corpo após a vacinação'
 date: 2023-02-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

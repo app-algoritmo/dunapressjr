@@ -3,7 +3,7 @@ title: 'Alemanha: relatórios de danos causados ​​por vacinas a escritórios
   estão crescendo exponencialmente'
 date: 2023-06-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

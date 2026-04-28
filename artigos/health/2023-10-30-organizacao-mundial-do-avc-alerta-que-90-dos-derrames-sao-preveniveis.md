@@ -2,7 +2,7 @@
 title: Organização Mundial do AVC alerta que 90% dos derrames são preveníveis
 date: 2023-10-30
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

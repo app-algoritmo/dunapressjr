@@ -3,7 +3,7 @@ title: 'Ausência de Vontade Política: O Kremlin Aponta para a Falta de Desejo 
   EUA em Negociar com Putin'
 date: 2024-02-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

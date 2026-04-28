@@ -3,7 +3,7 @@ title: 'Alerta de Edward Dowd: Uma Chamada para um Reinício Económico Global D
   da Explosão da Dívida'
 date: 2024-05-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

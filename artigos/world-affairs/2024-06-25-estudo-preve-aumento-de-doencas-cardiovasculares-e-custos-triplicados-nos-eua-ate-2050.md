@@ -3,7 +3,7 @@ title: Estudo Prevê Aumento de Doenças Cardiovasculares e Custos Triplicados n
   até 2050
 date: 2024-06-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

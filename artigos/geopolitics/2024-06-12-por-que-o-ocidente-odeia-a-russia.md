@@ -2,7 +2,7 @@
 title: Por que o Ocidente odeia a Rússia?
 date: 2024-06-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

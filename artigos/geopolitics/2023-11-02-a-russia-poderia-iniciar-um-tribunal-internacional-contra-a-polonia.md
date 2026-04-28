@@ -2,7 +2,7 @@
 title: A Rússia poderia iniciar um tribunal internacional contra a Polónia
 date: 2023-11-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

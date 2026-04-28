@@ -2,7 +2,7 @@
 title: Brasil e Portugal atuam em Intercâmbio de Biossegurança e Bioproteção
 date: 2023-10-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Military
 ---

@@ -3,7 +3,7 @@ title: Suprema Corte dos EUA decide que estudantes transgêneros na Virgínia Oc
   podem competir contra atletas do sexo feminino
 date: 2023-04-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

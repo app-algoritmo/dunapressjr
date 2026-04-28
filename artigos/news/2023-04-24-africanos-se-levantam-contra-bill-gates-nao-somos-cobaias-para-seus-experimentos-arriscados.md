@@ -3,7 +3,7 @@ title: 'Africanos se levantam contra Bill Gates: não somos ''cobaias'' para seu
   ''arriscados'''
 date: 2023-04-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

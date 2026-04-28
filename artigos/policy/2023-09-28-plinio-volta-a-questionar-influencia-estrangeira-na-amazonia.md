@@ -2,7 +2,7 @@
 title: Plínio volta a questionar influência estrangeira na Amazônia
 date: 2023-09-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

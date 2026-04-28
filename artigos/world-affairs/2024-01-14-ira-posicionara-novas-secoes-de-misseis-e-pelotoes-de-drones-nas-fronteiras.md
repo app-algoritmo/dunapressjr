@@ -2,7 +2,7 @@
 title: Irã posicionará novas seções de mísseis e pelotões de drones nas fronteiras
 date: 2024-01-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

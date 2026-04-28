@@ -2,7 +2,7 @@
 title: Putin Declara o Surgimento de uma Rússia Mais Soberana e Confidente
 date: 2024-02-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

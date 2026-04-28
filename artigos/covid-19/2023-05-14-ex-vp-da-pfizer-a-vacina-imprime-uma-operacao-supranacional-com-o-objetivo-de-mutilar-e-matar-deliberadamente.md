@@ -3,7 +3,7 @@ title: 'Ex-VP da Pfizer: A vacina imprime uma ''operação supranacional'' com o
   de ''mutilar e matar deliberadamente'''
 date: 2023-05-14
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

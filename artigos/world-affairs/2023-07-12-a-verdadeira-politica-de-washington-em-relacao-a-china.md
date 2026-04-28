@@ -2,7 +2,7 @@
 title: A verdadeira política de Washington em relação à China
 date: 2023-07-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: 'Abono salarial: valores podem ser consultados a partir deste domingo'
 date: 2023-02-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

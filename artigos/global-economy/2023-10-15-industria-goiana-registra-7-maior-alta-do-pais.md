@@ -2,7 +2,7 @@
 title: Indústria goiana registra 7ª maior alta do país
 date: 2023-10-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Global Economy
 ---

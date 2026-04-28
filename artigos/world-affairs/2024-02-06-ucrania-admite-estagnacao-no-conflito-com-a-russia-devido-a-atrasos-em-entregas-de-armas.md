@@ -3,7 +3,7 @@ title: Ucrânia Admite Estagnação no Conflito com a Rússia devido a Atrasos e
   de Armas
 date: 2024-02-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

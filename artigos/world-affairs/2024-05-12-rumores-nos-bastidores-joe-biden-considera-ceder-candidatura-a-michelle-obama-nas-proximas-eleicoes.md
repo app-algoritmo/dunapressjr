@@ -3,7 +3,7 @@ title: 'Rumores nos Bastidores: Joe Biden Considera Ceder Candidatura a Michelle
   nas Próximas Eleições'
 date: 2024-05-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

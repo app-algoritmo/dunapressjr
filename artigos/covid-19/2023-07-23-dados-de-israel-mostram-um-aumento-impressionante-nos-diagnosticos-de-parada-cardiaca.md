@@ -3,7 +3,7 @@ title: Dados de Israel mostram um aumento impressionante nos diagnósticos de pa
   cardíaca
 date: 2023-07-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

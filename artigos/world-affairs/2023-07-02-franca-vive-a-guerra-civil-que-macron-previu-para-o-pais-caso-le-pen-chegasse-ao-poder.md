@@ -3,7 +3,7 @@ title: França vive a 'guerra civil' que Macron previu para o país caso Le Pen 
   ao poder
 date: 2023-07-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Ação movida contra a Pfizer no Supremo Tribunal Sul-Africano
 date: 2023-04-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

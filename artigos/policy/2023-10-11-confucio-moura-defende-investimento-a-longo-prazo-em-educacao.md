@@ -2,7 +2,7 @@
 title: Confúcio Moura defende investimento a longo prazo em educação
 date: 2023-10-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

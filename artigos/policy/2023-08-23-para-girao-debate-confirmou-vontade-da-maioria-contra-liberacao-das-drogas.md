@@ -2,7 +2,7 @@
 title: Para Girão, debate confirmou vontade da maioria contra liberação das drogas
 date: 2023-08-23
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

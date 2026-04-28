@@ -2,7 +2,7 @@
 title: Paim lamenta mortes em conflito Hamas-Israel
 date: 2023-10-12
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

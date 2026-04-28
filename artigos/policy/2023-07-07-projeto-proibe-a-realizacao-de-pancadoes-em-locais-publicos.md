@@ -2,7 +2,7 @@
 title: Projeto proíbe a realização de “pancadões” em locais públicos
 date: 2023-07-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Legalização do aborto contradiz princípios de uma sociedade civilizada
   Eduardo Girão
 date: 2023-11-27
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

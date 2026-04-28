@@ -3,7 +3,7 @@ title: Marjorie Taylor Greene relata tentativa de espionagem por meio da televis
   de sua casa
 date: 2023-06-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

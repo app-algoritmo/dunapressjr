@@ -2,7 +2,7 @@
 title: A nova gripe aviária tem potencial para uma pandemia?
 date: 2023-04-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

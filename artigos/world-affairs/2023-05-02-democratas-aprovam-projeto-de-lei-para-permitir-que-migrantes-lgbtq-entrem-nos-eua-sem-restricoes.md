@@ -3,7 +3,7 @@ title: Democratas aprovam projeto de lei para permitir que migrantes LGBTQ entre
   nos EUA sem restrições
 date: 2023-05-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

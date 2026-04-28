@@ -2,7 +2,7 @@
 title: Primeira-ministra francesa, Elisabeth Borne, renuncia
 date: 2024-01-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

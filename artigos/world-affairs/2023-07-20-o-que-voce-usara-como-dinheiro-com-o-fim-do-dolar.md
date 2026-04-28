@@ -2,7 +2,7 @@
 title: O que você usará como dinheiro com o fim do dólar?
 date: 2023-07-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

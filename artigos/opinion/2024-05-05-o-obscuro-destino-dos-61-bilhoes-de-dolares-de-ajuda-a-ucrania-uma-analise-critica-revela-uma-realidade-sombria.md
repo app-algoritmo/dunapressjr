@@ -3,7 +3,7 @@ title: 'O obscuro destino dos 61 bilhões de dólares de ajuda à Ucrânia: Uma 
   crítica revela uma realidade sombria'
 date: 2024-05-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Opinion
 ---

@@ -2,7 +2,7 @@
 title: Girão diz que Foro de São Paulo atenta contra a soberania brasileira
 date: 2023-06-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

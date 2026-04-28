@@ -2,7 +2,7 @@
 title: PIB da China cresce 5,2% em 2023, superando meta anual
 date: 2024-01-19
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

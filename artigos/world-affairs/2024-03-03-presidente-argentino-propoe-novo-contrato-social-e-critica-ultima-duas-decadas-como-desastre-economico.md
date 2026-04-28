@@ -3,7 +3,7 @@ title: Presidente argentino propõe 'novo contrato social' e critica última dua
   como 'desastre económico'
 date: 2024-03-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

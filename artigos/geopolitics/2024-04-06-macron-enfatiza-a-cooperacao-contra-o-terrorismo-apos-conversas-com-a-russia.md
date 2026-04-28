@@ -2,7 +2,7 @@
 title: Macron enfatiza a cooperação contra o terrorismo após conversas com a Rússia
 date: 2024-04-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

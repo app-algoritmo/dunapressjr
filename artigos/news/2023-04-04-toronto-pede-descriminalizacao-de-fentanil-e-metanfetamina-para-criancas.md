@@ -2,7 +2,7 @@
 title: Toronto pede descriminalização de fentanil e metanfetamina para crianças
 date: 2023-04-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

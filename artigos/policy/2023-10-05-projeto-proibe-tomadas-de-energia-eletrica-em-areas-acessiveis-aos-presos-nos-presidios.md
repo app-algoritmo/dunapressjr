@@ -3,7 +3,7 @@ title: Projeto proíbe tomadas de energia elétrica em áreas acessíveis aos pr
   presídios
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

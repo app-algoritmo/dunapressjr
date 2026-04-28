@@ -2,7 +2,7 @@
 title: Kajuru manifesta preocupação com tramitação da reforma tributária
 date: 2023-07-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

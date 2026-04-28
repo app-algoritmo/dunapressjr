@@ -2,7 +2,7 @@
 title: 'Tucker Carlson: Biden cometeu o maior ato de sabotagem industrial da história'
 date: 2023-09-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

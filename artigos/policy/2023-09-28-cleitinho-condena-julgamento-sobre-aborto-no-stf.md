@@ -2,7 +2,7 @@
 title: Cleitinho condena julgamento sobre aborto no STF
 date: 2023-09-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

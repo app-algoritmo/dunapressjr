@@ -2,7 +2,7 @@
 title: 'O Xeque-Mate Político: Trump à Conquista de Michigan Novamente?'
 date: 2024-03-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

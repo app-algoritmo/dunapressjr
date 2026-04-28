@@ -3,7 +3,7 @@ title: 'Os manifestantes do Orgulho de Nova York gritam assustadoramente nas rua
   “Estamos indo atrás de seus filhos!'''
 date: 2023-06-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

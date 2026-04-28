@@ -2,7 +2,7 @@
 title: A confiança nas vacinas infantis está diminuindo em todo o mundo
 date: 2023-04-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 - Health

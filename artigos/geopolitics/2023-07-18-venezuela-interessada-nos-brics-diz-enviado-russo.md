@@ -2,7 +2,7 @@
 title: Venezuela interessada nos BRICS, diz enviado russo
 date: 2023-07-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Geopolitics
 ---

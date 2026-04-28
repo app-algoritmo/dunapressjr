@@ -3,7 +3,7 @@ title: 'Revelação de Robert Kennedy Jr.: Lucros Obscuros e a Epidemia das Doen
   Crônicas'
 date: 2024-04-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

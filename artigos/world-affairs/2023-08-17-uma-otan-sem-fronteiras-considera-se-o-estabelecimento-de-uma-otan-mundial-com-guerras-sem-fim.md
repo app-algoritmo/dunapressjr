@@ -3,7 +3,7 @@ title: Uma OTAN sem fronteiras - Considera-se o estabelecimento de uma OTAN mund
   com guerras sem fim
 date: 2023-08-17
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

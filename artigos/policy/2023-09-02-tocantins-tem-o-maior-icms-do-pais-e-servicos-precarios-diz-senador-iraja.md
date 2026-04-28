@@ -2,7 +2,7 @@
 title: Tocantins tem o maior ICMS do país e serviços precários, diz senador Irajá
 date: 2023-09-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

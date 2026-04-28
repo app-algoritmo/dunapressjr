@@ -2,7 +2,7 @@
 title: Boulos ameaça o governador de São Paulo
 date: 2023-01-11
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Arma de brinquedo no roubo gera grave ameaça, decide STJ
 date: 2023-12-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

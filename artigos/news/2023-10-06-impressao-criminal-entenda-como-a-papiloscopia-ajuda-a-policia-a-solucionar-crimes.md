@@ -3,7 +3,7 @@ title: '‘Impressão criminal”: entenda como a papiloscopia ajuda a polícia 
   crimes'
 date: 2023-10-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

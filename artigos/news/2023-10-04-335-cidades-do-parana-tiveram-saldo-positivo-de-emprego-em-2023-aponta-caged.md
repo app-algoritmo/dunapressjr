@@ -2,7 +2,7 @@
 title: 335 cidades do Paraná tiveram saldo positivo de emprego em 2023, aponta Caged
 date: 2023-10-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

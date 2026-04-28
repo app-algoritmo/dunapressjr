@@ -3,7 +3,7 @@ title: Declarações recentes do ministro israelense confirmam que Israel possui
   nucleares
 date: 2023-11-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

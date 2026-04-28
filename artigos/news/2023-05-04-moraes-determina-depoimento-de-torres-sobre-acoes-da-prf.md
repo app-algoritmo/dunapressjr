@@ -2,7 +2,7 @@
 title: Moraes determina depoimento de Torres sobre ações da PRF
 date: 2023-05-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

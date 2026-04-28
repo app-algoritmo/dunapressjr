@@ -2,7 +2,7 @@
 title: Discurso Completo de Bolsonaro no CPAC
 date: 2023-03-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

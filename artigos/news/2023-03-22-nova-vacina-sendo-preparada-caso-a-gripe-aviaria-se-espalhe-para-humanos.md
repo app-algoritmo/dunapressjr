@@ -2,7 +2,7 @@
 title: Nova 'vacina' sendo preparada caso a gripe aviária se espalhe para humanos
 date: 2023-03-22
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

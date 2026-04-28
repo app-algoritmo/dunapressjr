@@ -2,7 +2,7 @@
 title: Explosão de mortes em países com alta taxa de vacinados
 date: 2023-02-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

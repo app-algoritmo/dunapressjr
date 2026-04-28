@@ -3,7 +3,7 @@ title: Kamala Harris Declara-se Pronta para Governar em Meio a Críticas à Saú
   de Biden
 date: 2024-02-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

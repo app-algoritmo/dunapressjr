@@ -2,7 +2,7 @@
 title: Biden Corre o Risco de Não Estar nas Urnas em Ohio devido a Prazos Eleitorais
 date: 2024-04-09
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

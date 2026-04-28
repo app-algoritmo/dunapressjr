@@ -2,7 +2,7 @@
 title: Sylvester Stallone Deixa a Califórnia em Busca da Liberdade na Flórida
 date: 2024-02-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

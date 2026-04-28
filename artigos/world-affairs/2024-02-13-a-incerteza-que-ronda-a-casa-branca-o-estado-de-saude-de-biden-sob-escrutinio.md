@@ -2,7 +2,7 @@
 title: 'A Incerteza que Ronda a Casa Branca: O Estado de Saúde de Biden Sob Escrutínio'
 date: 2024-02-13
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

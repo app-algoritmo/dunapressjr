@@ -3,7 +3,7 @@ title: Governo Biden sugere plano para impedir que a luz solar chegue à Terra p
   causa das 'mudanças climáticas'
 date: 2023-07-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

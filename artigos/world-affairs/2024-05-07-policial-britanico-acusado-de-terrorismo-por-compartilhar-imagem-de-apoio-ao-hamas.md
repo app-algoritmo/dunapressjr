@@ -3,7 +3,7 @@ title: Policial britânico acusado de terrorismo por compartilhar imagem de apoi
   Hamas
 date: 2024-05-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

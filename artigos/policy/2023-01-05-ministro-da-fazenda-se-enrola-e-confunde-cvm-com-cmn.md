@@ -2,7 +2,7 @@
 title: Ministro da Fazenda se enrola e confunde CVM com CMN
 date: 2023-01-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

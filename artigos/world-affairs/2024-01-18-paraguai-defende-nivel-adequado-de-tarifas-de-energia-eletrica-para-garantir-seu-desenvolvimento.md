@@ -3,7 +3,7 @@ title: Paraguai defende nível adequado de tarifas de energia elétrica para gar
   seu desenvolvimento
 date: 2024-01-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

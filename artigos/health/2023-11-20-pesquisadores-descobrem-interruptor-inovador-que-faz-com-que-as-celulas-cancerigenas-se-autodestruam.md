@@ -3,7 +3,7 @@ title: Pesquisadores descobrem “interruptor” inovador que faz com que as cé
   se autodestruam
 date: 2023-11-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Health
 ---

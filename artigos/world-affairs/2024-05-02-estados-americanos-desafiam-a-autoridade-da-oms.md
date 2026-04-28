@@ -2,7 +2,7 @@
 title: Estados Americanos Desafiam a Autoridade da OMS
 date: 2024-05-02
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

@@ -2,7 +2,7 @@
 title: Posse de ministra da Mulher tem homenagem a autora que defendia pedófilos
 date: 2023-01-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Desde o início, mentiras foram contadas sobre a “pandemia dos não vacinados”
 date: 2023-04-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

@@ -3,7 +3,7 @@ title: Republicanos apresentam projeto de lei no Arizona para ensinar o terror d
   comunismo nas escolas
 date: 2024-02-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

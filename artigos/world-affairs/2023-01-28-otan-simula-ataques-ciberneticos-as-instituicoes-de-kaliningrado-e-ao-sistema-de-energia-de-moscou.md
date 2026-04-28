@@ -3,7 +3,7 @@ title: OTAN 'simula' ataques cibernéticos às instituições de Kaliningrado e 
   de energia de Moscou
 date: 2023-01-28
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

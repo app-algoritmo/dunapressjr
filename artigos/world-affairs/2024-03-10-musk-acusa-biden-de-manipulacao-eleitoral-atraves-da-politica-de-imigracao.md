@@ -2,7 +2,7 @@
 title: Musk acusa Biden de manipulação eleitoral através da política de imigração
 date: 2024-03-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

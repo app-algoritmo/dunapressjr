@@ -3,7 +3,7 @@ title: Lavrov Critica Pedido de Apoio de Zelensky à Fórmula de Paz Antes de Co
   na Suíça
 date: 2024-05-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

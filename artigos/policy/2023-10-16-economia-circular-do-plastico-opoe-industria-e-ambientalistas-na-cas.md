@@ -2,7 +2,7 @@
 title: Economia circular do plástico opõe indústria e ambientalistas na CAS
 date: 2023-10-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -2,7 +2,7 @@
 title: Denunciante de OVNIs afirma que 'inteligências não humanas' mataram humanos
 date: 2023-06-18
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Astronomy
 ---

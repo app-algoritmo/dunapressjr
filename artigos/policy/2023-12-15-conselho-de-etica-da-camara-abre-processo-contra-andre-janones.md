@@ -2,7 +2,7 @@
 title: Conselho de Ética da Câmara abre processo contra André Janones
 date: 2023-12-15
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

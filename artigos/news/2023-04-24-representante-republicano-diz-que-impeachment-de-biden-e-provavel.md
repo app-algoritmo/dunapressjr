@@ -2,7 +2,7 @@
 title: Representante republicano diz que impeachment de Biden é provável
 date: 2023-04-24
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - News
 ---

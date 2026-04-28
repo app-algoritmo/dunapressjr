@@ -2,7 +2,7 @@
 title: CPMI do 8 de Janeiro contesta no STF decisão a favor de Silvinei Vasques
 date: 2023-10-10
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

@@ -3,7 +3,7 @@ title: China confiante em manter comércio exterior e participação no mercado 
   estáveis em 2023
 date: 2023-12-29
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

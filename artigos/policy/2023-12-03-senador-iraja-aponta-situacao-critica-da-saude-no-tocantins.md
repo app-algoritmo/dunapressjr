@@ -2,7 +2,7 @@
 title: Senador Irajá aponta situação crítica da saúde no Tocantins
 date: 2023-12-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

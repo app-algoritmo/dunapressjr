@@ -2,7 +2,7 @@
 title: Macacos verdes? A fábrica de mRNA da BioNTech e o vírus Marburg
 date: 2023-06-21
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

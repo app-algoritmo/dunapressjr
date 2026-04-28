@@ -3,7 +3,7 @@ title: Comissão aprova perda em favor da União de bens usados em qualquer ativ
   ilícita
 date: 2023-09-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

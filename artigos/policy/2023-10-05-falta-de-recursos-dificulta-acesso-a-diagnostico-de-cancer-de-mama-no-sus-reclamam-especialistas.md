@@ -3,7 +3,7 @@ title: Falta de recursos dificulta acesso a diagnóstico de câncer de mama no S
   reclamam especialistas
 date: 2023-10-05
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

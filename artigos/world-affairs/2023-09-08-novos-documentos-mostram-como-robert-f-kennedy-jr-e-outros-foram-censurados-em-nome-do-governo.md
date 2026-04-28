@@ -3,7 +3,7 @@ title: Novos documentos mostram como Robert F. Kennedy Jr. e outros foram censur
   em nome do governo
 date: 2023-09-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

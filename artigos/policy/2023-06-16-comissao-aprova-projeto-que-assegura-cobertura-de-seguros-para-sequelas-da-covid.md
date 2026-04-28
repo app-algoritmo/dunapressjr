@@ -3,7 +3,7 @@ title: Comissão aprova projeto que assegura cobertura de seguros para sequelas 
   Covid
 date: 2023-06-16
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

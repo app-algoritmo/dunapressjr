@@ -2,7 +2,7 @@
 title: EUA transformam Filipinas na “Ucrânia” do Sudeste Asiático
 date: 2023-11-07
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

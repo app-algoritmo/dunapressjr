@@ -3,7 +3,7 @@ title: Polónia espera convencer parceiros da OTAN da necessidade de ter armas n
   no país
 date: 2023-07-03
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

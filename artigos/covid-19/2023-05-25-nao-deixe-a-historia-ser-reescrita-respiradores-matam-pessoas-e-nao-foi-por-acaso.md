@@ -3,7 +3,7 @@ title: 'Não deixe a história ser reescrita: respiradores matam pessoas... e n�
   por acaso'
 date: 2023-05-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Covid-19
 ---

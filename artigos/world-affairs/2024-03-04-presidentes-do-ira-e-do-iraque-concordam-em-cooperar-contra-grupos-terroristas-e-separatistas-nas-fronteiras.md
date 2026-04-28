@@ -3,7 +3,7 @@ title: Presidentes do Irã e do Iraque Concordam em Cooperar Contra Grupos Terro
   e Separatistas nas Fronteiras
 date: 2024-03-04
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

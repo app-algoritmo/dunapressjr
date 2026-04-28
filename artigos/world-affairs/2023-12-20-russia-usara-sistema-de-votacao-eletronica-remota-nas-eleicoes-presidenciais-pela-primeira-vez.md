@@ -3,7 +3,7 @@ title: Rússia usará sistema de votação eletrônica remota nas eleições pre
   pela primeira vez
 date: 2023-12-20
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

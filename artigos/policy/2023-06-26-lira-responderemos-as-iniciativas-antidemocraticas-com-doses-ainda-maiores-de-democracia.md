@@ -3,7 +3,7 @@ title: 'Lira: ''Responderemos as iniciativas antidemocráticas com doses ainda m
   de democracia'''
 date: 2023-06-26
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

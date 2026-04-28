@@ -2,7 +2,7 @@
 title: Plínio diz que STF interfere nas atribuições do Congresso Nacional
 date: 2023-09-01
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---

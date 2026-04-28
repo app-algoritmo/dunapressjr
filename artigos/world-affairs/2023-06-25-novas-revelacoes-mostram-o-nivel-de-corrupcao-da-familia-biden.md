@@ -2,7 +2,7 @@
 title: Novas revelações mostram o nível de corrupção da família Biden
 date: 2023-06-25
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

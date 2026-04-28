@@ -2,7 +2,7 @@
 title: Regime de Ortega cancela registro de 15 ONGs na Nicarágua
 date: 2024-02-08
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - World Affairs
 ---

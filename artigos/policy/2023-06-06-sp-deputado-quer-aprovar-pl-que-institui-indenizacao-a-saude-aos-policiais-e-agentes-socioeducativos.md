@@ -3,7 +3,7 @@ title: 'SP: Deputado quer aprovar PL que institui indenização à saúde aos po
   e agentes socioeducativos'
 date: 2023-06-06
 status: publish
-author: Edicliea Alves Lima
+author: Edicleia Alves Lima
 categories:
 - Policy
 ---
