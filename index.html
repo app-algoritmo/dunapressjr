@@ -2378,7 +2378,17 @@ function resetView() {
     }
 }
     
-
+<!-- Mobile Search Overlay -->
+<div id="mobileSearchOverlay">
+    <div style="display:flex;align-items:center;gap:10px;">
+        <div style="position:relative;flex:1;">
+            <svg style="position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#64748b;width:16px;height:16px;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+            <input id="mobileSearchInput" type="search" placeholder="Pesquisar artigos e vídeos..." oninput="handleMobileSearch(this.value)" autocomplete="off" autocorrect="off" spellcheck="false"/>
+        </div>
+        <button onclick="closeMobileSearch()" style="padding:10px;color:#94a3b8;flex-shrink:0;background:none;border:none;cursor:pointer;font-size:14px;">Cancelar</button>
+    </div>
+    <div id="mobileSearchResults"></div>
+</div>
 
         // ==================== KEYBOARD ====================
         document.addEventListener('keydown', e => { if(e.key==='Escape'){closeAuthModal();closeVideoModal();} });
