@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Biblioteca — Duna Press Jr</title>
+<meta name="description" content="Leitura infantil, contos audíveis, vídeo-fábulas, jogos cognitivos, flipbooks e muito mais para crianças e famílias.">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5QG9N24BHH');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#f8f6f2;
+  --white:#ffffff;
+  --ink:#1e1b18;
+  --ink-mid:#4a4540;
+  --ink-lt:#8a8078;
+  --border:#e8e2d8;
+  --shadow:rgba(30,27,24,0.08);
+}
+html{scroll-behavior:smooth;}
+body{font-family:'Nunito',sans-serif;background:var(--bg);color:var(--ink);line-height:1.7;}
+
+/* ── HEADER ── */
+header{background:var(--white);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;box-shadow:0 2px 12px var(--shadow);}
+.header-inner{max-width:1100px;margin:0 auto;padding:.8rem 1.5rem;display:flex;align-items:center;justify-content:space-between;}
+.logo{font-family:'Lora',serif;font-size:1.4rem;font-weight:700;color:var(--ink);text-decoration:none;}
+.logo span{color:#e05c3a;}
+nav a{font-size:.82rem;font-weight:600;color:var(--ink-mid);text-decoration:none;margin-left:1.2rem;letter-spacing:.04em;text-transform:uppercase;transition:color .2s;}
+nav a:hover{color:#e05c3a;}
+nav a.active{color:#e05c3a;}
+
+/* ── HERO ── */
+.hero{background:linear-gradient(150deg,#fff8e1 0%,#fce4ec 40%,#e8f5e9 100%);padding:3rem 1.5rem 2.5rem;text-align:center;position:relative;overflow:hidden;}
+.hero::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle at 15% 60%,rgba(251,191,36,.1) 0%,transparent 50%),radial-gradient(circle at 85% 30%,rgba(240,98,146,.08) 0%,transparent 50%);pointer-events:none;}
+.hero-content{position:relative;z-index:2;max-width:680px;margin:0 auto;}
+.hero-svg{width:100%;max-width:520px;margin:0 auto 2rem;display:block;}
+.hero h1{font-family:'Lora',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:700;color:var(--ink);margin-bottom:.75rem;line-height:1.2;}
+.hero p{font-size:1rem;color:var(--ink-mid);max-width:480px;margin:0 auto;}
+
+/* ── ACORDEÃO ── */
+.accordion-wrap{max-width:860px;margin:2.5rem auto 3rem;padding:0 1.5rem;}
+.acc-item{border-radius:14px;overflow:hidden;margin-bottom:.85rem;box-shadow:0 2px 10px var(--shadow);}
+.acc-header{width:100%;display:flex;align-items:center;justify-content:space-between;padding:1.1rem 1.5rem;cursor:pointer;border:none;font-family:'Nunito',sans-serif;font-size:1.05rem;font-weight:800;letter-spacing:.01em;transition:filter .2s;}
+.acc-header:hover{filter:brightness(.96);}
+.acc-arrow{width:26px;height:26px;border-radius:50%;background:rgba(255,255,255,.4);display:flex;align-items:center;justify-content:center;transition:transform .3s;flex-shrink:0;margin-left:1rem;}
+.acc-arrow svg{width:13px;height:13px;}
+.acc-item.open .acc-arrow{transform:rotate(180deg);}
+.acc-body{background:var(--white);border:1px solid var(--border);border-top:none;border-radius:0 0 14px 14px;overflow:hidden;max-height:0;transition:max-height .45s ease;}
+.acc-item.open .acc-body{max-height:6000px;}
+.acc-inner{padding:1.6rem 2rem;}
+.acc-inner p{font-size:.92rem;color:var(--ink-mid);margin-bottom:1rem;line-height:1.8;}
+.acc-inner h3{font-family:'Lora',serif;font-size:1.05rem;font-weight:600;color:var(--ink);margin:1.4rem 0 .6rem;}
+.acc-inner h3:first-child{margin-top:0;}
+.acc-inner ul{padding-left:1.4rem;margin-bottom:1rem;}
+.acc-inner li{font-size:.9rem;color:var(--ink-mid);margin-bottom:.4rem;}
+.acc-inner a{color:#1a6fbf;text-decoration:none;font-weight:600;}
+.acc-inner a:hover{text-decoration:underline;}
+.acc-inner strong{color:var(--ink);}
+
+/* grid de cards de recursos */
+.resource-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1rem 0;}
+.resource-card{background:var(--bg);border:1.5px solid var(--border);border-radius:12px;padding:1rem;transition:all .2s;text-decoration:none;display:block;}
+.resource-card:hover{border-color:#e05c3a;transform:translateY(-2px);box-shadow:0 4px 16px var(--shadow);}
+.resource-card .rc-icon{font-size:2rem;margin-bottom:.5rem;}
+.resource-card .rc-title{font-size:.9rem;font-weight:700;color:var(--ink);margin-bottom:.25rem;}
+.resource-card .rc-desc{font-size:.78rem;color:var(--ink-lt);line-height:1.5;}
+
+/* video embed */
+.video-wrap{position:relative;padding-bottom:56.25%;height:0;border-radius:12px;overflow:hidden;margin:1rem 0;}
+.video-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:none;}
+
+/* badge colorido */
+.badge{display:inline-block;padding:.25rem .8rem;border-radius:999px;font-size:.75rem;font-weight:700;margin-bottom:.75rem;}
+
+/* lista de livros */
+.book-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:.75rem;margin:1rem 0;}
+.book-item{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:.8rem;text-align:center;}
+.book-item .bi-icon{font-size:2.2rem;margin-bottom:.3rem;}
+.book-item .bi-title{font-size:.78rem;font-weight:700;color:var(--ink);}
+
+/* jogo card */
+.game-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:1rem;margin:1rem 0;}
+.game-card{border-radius:12px;padding:1.2rem;text-align:center;border:2px solid transparent;}
+.game-card .gc-icon{font-size:2.5rem;margin-bottom:.5rem;}
+.game-card .gc-title{font-size:.88rem;font-weight:800;color:var(--ink);margin-bottom:.25rem;}
+.game-card .gc-desc{font-size:.75rem;color:var(--ink-lt);}
+
+@media(max-width:600px){
+  .header-inner{flex-direction:column;gap:.5rem;text-align:center;}
+  nav a{margin:0 .5rem;}
+  .acc-inner{padding:1.1rem 1.2rem;}
+  .resource-grid{grid-template-columns:1fr 1fr;}
+}
+
+/* ── FOOTER ── */
+footer{background:var(--ink);color:rgba(255,255,255,.6);text-align:center;padding:2rem 1.5rem;font-size:.82rem;}
+footer a{color:rgba(255,255,255,.8);text-decoration:none;}
+footer a:hover{color:#fff;}
+footer .ft-logo{font-family:'Lora',serif;font-size:1.1rem;font-weight:700;color:#fff;margin-bottom:.5rem;}
+footer .ft-logo span{color:#e05c3a;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="/index.html">Duna Press<span>Jr</span></a>
+    <nav>
+      <a href="/index.html">Início</a>
+      <a href="/escola.html">Escola</a>
+      <a href="/biblioteca.html" class="active">Biblioteca</a>
+      <a href="/index.html#categorias">Categorias</a>
+      <a href="/index.html#newsletter">Newsletter</a>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO SVG -->
+<section class="hero">
+  <div class="hero-content">
+    <svg class="hero-svg" viewBox="0 0 520 200" xmlns="http://www.w3.org/2000/svg" aria-label="Ilustração de biblioteca com livros, crianças lendo e elementos educativos">
+      <!-- fundo -->
+      <rect width="520" height="200" fill="none"/>
+      <!-- prateleira -->
+      <rect x="30" y="140" width="460" height="8" rx="4" fill="#c8b89a"/>
+      <rect x="30" y="148" width="8" height="40" rx="3" fill="#c8b89a"/>
+      <rect x="482" y="148" width="8" height="40" rx="3" fill="#c8b89a"/>
+
+      <!-- livros na prateleira -->
+      <rect x="50" y="100" width="22" height="40" rx="3" fill="#f472b6"/>
+      <rect x="74" y="95" width="18" height="45" rx="3" fill="#fbbf24"/>
+      <rect x="94" y="105" width="20" height="35" rx="3" fill="#34d399"/>
+      <rect x="116" y="98" width="16" height="42" rx="3" fill="#60a5fa"/>
+      <rect x="134" y="108" width="22" height="32" rx="3" fill="#f97316"/>
+      <rect x="158" y="102" width="18" height="38" rx="3" fill="#a78bfa"/>
+      <rect x="178" y="96" width="20" height="44" rx="3" fill="#fb7185"/>
+
+      <!-- linhas nos livros -->
+      <line x1="61" y1="110" x2="61" y2="130" stroke="white" stroke-width="1" opacity=".5"/>
+      <line x1="83" y1="105" x2="83" y2="128" stroke="white" stroke-width="1" opacity=".5"/>
+
+      <!-- criança lendo sentada -->
+      <circle cx="300" cy="75" r="20" fill="#fde68a"/>
+      <!-- corpo -->
+      <rect x="285" y="95" width="30" height="38" rx="8" fill="#7dd3fc"/>
+      <!-- pernas -->
+      <rect x="287" y="130" width="10" height="18" rx="4" fill="#7dd3fc"/>
+      <rect x="303" y="130" width="10" height="18" rx="4" fill="#7dd3fc"/>
+      <!-- livro aberto nas mãos -->
+      <rect x="275" y="108" width="50" height="30" rx="4" fill="white"/>
+      <line x1="300" y1="108" x2="300" y2="138" stroke="#e8e2d8" stroke-width="1.5"/>
+      <rect x="279" y="113" width="18" height="3" rx="1" fill="#60a5fa" opacity=".6"/>
+      <rect x="279" y="119" width="14" height="2" rx="1" fill="#4a4540" opacity=".4"/>
+      <rect x="279" y="124" width="16" height="2" rx="1" fill="#4a4540" opacity=".4"/>
+      <rect x="303" y="113" width="18" height="3" rx="1" fill="#34d399" opacity=".6"/>
+      <rect x="303" y="119" width="14" height="2" rx="1" fill="#4a4540" opacity=".4"/>
+      <rect x="303" y="124" width="16" height="2" rx="1" fill="#4a4540" opacity=".4"/>
+      <!-- olhos -->
+      <circle cx="293" cy="72" r="2.5" fill="#1e1b18"/>
+      <circle cx="307" cy="72" r="2.5" fill="#1e1b18"/>
+      <path d="M295 80 Q300 84 305 80" stroke="#1e1b18" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+      <!-- fones de ouvido criança -->
+      <path d="M280 68 Q280 50 300 50 Q320 50 320 68" stroke="#a78bfa" stroke-width="3" fill="none"/>
+      <rect x="276" y="66" width="8" height="12" rx="4" fill="#a78bfa"/>
+      <rect x="316" y="66" width="8" height="12" rx="4" fill="#a78bfa"/>
+
+      <!-- tablet/ebook lado direito -->
+      <rect x="390" y="80" width="70" height="55" rx="8" fill="#1a4b8c"/>
+      <rect x="394" y="84" width="62" height="43" rx="4" fill="#e8f4fd"/>
+      <rect x="398" y="90" width="40" height="4" rx="2" fill="#1a7abf" opacity=".7"/>
+      <rect x="398" y="98" width="30" height="3" rx="2" fill="#4a4540" opacity=".4"/>
+      <rect x="398" y="104" width="35" height="3" rx="2" fill="#4a4540" opacity=".4"/>
+      <rect x="398" y="110" width="25" height="3" rx="2" fill="#34d399" opacity=".5"/>
+      <circle cx="425" cy="162" r="5" fill="#c8b89a"/>
+
+      <!-- estrelas e decoração -->
+      <text x="240" y="50" font-size="16" fill="#fbbf24">★</text>
+      <text x="370" y="65" font-size="12" fill="#f472b6">✦</text>
+      <text x="120" y="75" font-size="10" fill="#34d399">✦</text>
+      <text x="460" y="100" font-size="14" fill="#a78bfa">★</text>
+
+      <!-- nuvem -->
+      <ellipse cx="450" cy="30" rx="35" ry="14" fill="white" opacity=".8"/>
+      <ellipse cx="470" cy="22" rx="22" ry="13" fill="white" opacity=".8"/>
+      <!-- avião pequeno -->
+      <path d="M60 30 L90 22 L87 28 L98 25 L87 34 L90 40 Z" fill="#93c5fd" opacity=".7"/>
+    </svg>
+
+    <h1>Biblioteca</h1>
+    <p>Livros, contos audíveis, vídeo-fábulas, jogos cognitivos e muito mais para crianças, famílias e educadores.</p>
+  </div>
+</section>
+
+<!-- ACORDEÃO -->
+<div class="accordion-wrap">
+
+  <!-- 1. Leitura Infantil -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#fff9c4;color:#f57f17;" onclick="toggle(this)">
+      <span>📖 Leitura Infantil</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Uma seleção de livros digitais e histórias para crianças de todas as idades. Acesse gratuitamente através das plataformas abaixo.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.dominiopublico.gov.br" target="_blank">
+            <div class="rc-icon">🏛️</div>
+            <div class="rc-title">Domínio Público</div>
+            <div class="rc-desc">Obras literárias brasileiras e internacionais gratuitas</div>
+          </a>
+          <a class="resource-card" href="https://www.gutenberg.org" target="_blank">
+            <div class="rc-icon">📚</div>
+            <div class="rc-title">Project Gutenberg</div>
+            <div class="rc-desc">Mais de 70.000 livros clássicos em formato digital</div>
+          </a>
+          <a class="resource-card" href="https://www.biblon.com.br" target="_blank">
+            <div class="rc-icon">🌟</div>
+            <div class="rc-title">Biblon</div>
+            <div class="rc-desc">Rede social de leitura infantil e juvenil</div>
+          </a>
+          <a class="resource-card" href="https://www.worldcat.org" target="_blank">
+            <div class="rc-icon">🌍</div>
+            <div class="rc-title">WorldCat</div>
+            <div class="rc-desc">Catálogo mundial de bibliotecas e acervos</div>
+          </a>
+        </div>
+        <div class="book-list">
+          <div class="book-item"><div class="bi-icon">🐭</div><div class="bi-title">O Ratinho, o Morango e a Grande Aranha</div></div>
+          <div class="book-item"><div class="bi-icon">🦁</div><div class="bi-title">A Lebre e a Tartaruga</div></div>
+          <div class="book-item"><div class="bi-icon">🌙</div><div class="bi-title">Boa Noite, Lua</div></div>
+          <div class="book-item"><div class="bi-icon">🐘</div><div class="bi-title">Elmer, o Elefante Xadrez</div></div>
+          <div class="book-item"><div class="bi-icon">🎩</div><div class="bi-title">O Gato no Chapéu</div></div>
+          <div class="book-item"><div class="bi-icon">🦊</div><div class="bi-title">A Raposa e as Uvas</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. Imprimir e Colorir -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#f3e5f5;color:#7b1fa2;" onclick="toggle(this)">
+      <span>🎨 Imprimir e Colorir</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Desenhos para colorir, atividades para imprimir e materiais pedagógicos para uso em casa ou na sala de aula.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.supercoloring.com/pt" target="_blank">
+            <div class="rc-icon">🖍️</div>
+            <div class="rc-title">Super Coloring</div>
+            <div class="rc-desc">Milhares de desenhos gratuitos para colorir e imprimir</div>
+          </a>
+          <a class="resource-card" href="https://www.educacaoinfantil.aix.com.br" target="_blank">
+            <div class="rc-icon">🎓</div>
+            <div class="rc-title">Educação Infantil</div>
+            <div class="rc-desc">Atividades pedagógicas para educação infantil</div>
+          </a>
+          <a class="resource-card" href="https://www.coroflot.com" target="_blank">
+            <div class="rc-icon">✏️</div>
+            <div class="rc-title">Atividades Criativas</div>
+            <div class="rc-desc">Materiais criativos para crianças</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Contos Audíveis -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#e1f5fe;color:#0277bd;" onclick="toggle(this)">
+      <span>🎧 Contos Audíveis</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Histórias narradas em áudio para ouvir em qualquer lugar — perfeito para a hora do banho, do sono ou da viagem de carro. Estimulam a imaginação e o vocabulário das crianças.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.youtube.com/@historinhasparacrianças" target="_blank">
+            <div class="rc-icon">▶️</div>
+            <div class="rc-title">Historinhas no YouTube</div>
+            <div class="rc-desc">Canal com histórias narradas em português</div>
+          </a>
+          <a class="resource-card" href="https://www.spotify.com" target="_blank">
+            <div class="rc-icon">🎵</div>
+            <div class="rc-title">Spotify Kids</div>
+            <div class="rc-desc">Podcasts e audiolivros infantis</div>
+          </a>
+          <a class="resource-card" href="https://www.audible.com.br" target="_blank">
+            <div class="rc-icon">📻</div>
+            <div class="rc-title">Audible</div>
+            <div class="rc-desc">Audiolivros infantis narrados por atores</div>
+          </a>
+          <a class="resource-card" href="https://www.storynory.com" target="_blank">
+            <div class="rc-icon">🌟</div>
+            <div class="rc-title">Storynory</div>
+            <div class="rc-desc">Histórias gratuitas em inglês para crianças</div>
+          </a>
+        </div>
+        <div class="video-wrap">
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PLozUEVFGT4bIMqgqFqITVXHmD7HVvmvEL" title="Contos Audíveis Infantis" allowfullscreen loading="lazy"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Vídeo-Fábulas -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#fce4ec;color:#c2185b;" onclick="toggle(this)">
+      <span>🎬 Vídeo-Fábulas</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Fábulas clássicas e histórias com lições de moral em formato de vídeo animado. Ideais para desenvolver valores e estimular o pensamento crítico nas crianças.</p>
+        <div class="game-grid">
+          <div class="game-card" style="background:#fff8e1;border-color:#fbbf24;">
+            <div class="gc-icon">🐢</div>
+            <div class="gc-title">A Lebre e a Tartaruga</div>
+            <div class="gc-desc">Perseverança e humildade</div>
+          </div>
+          <div class="game-card" style="background:#e8f5e9;border-color:#4caf50;">
+            <div class="gc-icon">🐦</div>
+            <div class="gc-title">A Cigarra e a Formiga</div>
+            <div class="gc-desc">Trabalho e previsão</div>
+          </div>
+          <div class="game-card" style="background:#e3f2fd;border-color:#2196f3;">
+            <div class="gc-icon">🐺</div>
+            <div class="gc-title">O Menino que Gritou Lobo</div>
+            <div class="gc-desc">Honestidade e confiança</div>
+          </div>
+          <div class="game-card" style="background:#f3e5f5;border-color:#9c27b0;">
+            <div class="gc-icon">🦁</div>
+            <div class="gc-title">O Leão e o Ratinho</div>
+            <div class="gc-desc">Gratidão e amizade</div>
+          </div>
+        </div>
+        <div class="video-wrap">
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PLozUEVFGT4bLhMfFgXn1w_OFzBSVbQJcZ" title="Vídeo-Fábulas para Crianças" allowfullscreen loading="lazy"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. Imprimir e Aprender -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#e8f5e9;color:#2e7d32;" onclick="toggle(this)">
+      <span>📝 Imprimir e Aprender</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Fichas de atividades, exercícios e materiais pedagógicos prontos para imprimir e usar em casa ou na escola. Organizados por faixa etária e matéria.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.escolakids.uol.com.br" target="_blank">
+            <div class="rc-icon">🏫</div>
+            <div class="rc-title">Escola Kids</div>
+            <div class="rc-desc">Atividades por série e disciplina</div>
+          </a>
+          <a class="resource-card" href="https://www.soportugues.com.br" target="_blank">
+            <div class="rc-icon">✍️</div>
+            <div class="rc-title">Só Português</div>
+            <div class="rc-desc">Exercícios de língua portuguesa</div>
+          </a>
+          <a class="resource-card" href="https://www.matematica.pt" target="_blank">
+            <div class="rc-icon">🔢</div>
+            <div class="rc-title">Matemática.pt</div>
+            <div class="rc-desc">Fichas e exercícios de matemática</div>
+          </a>
+          <a class="resource-card" href="https://www.teacherspayteachers.com" target="_blank">
+            <div class="rc-icon">🎒</div>
+            <div class="rc-title">Teachers Pay Teachers</div>
+            <div class="rc-desc">Recursos criados por professores</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Flipbooks -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#fce4ec;color:#ad1457;" onclick="toggle(this)">
+      <span>📚 Flipbooks</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Livros digitais interativos com efeito de folhear páginas — uma forma divertida e envolvente de ler. Perfeito para apresentações de trabalhos escolares ou leitura digital criativa.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://online.fliphtml5.com" target="_blank">
+            <div class="rc-icon">📄</div>
+            <div class="rc-title">FlipHTML5</div>
+            <div class="rc-desc">Crie e leia flipbooks gratuitos online</div>
+          </a>
+          <a class="resource-card" href="https://www.flipsnack.com" target="_blank">
+            <div class="rc-icon">📑</div>
+            <div class="rc-title">Flipsnack</div>
+            <div class="rc-desc">Revistas e livros digitais interativos</div>
+          </a>
+          <a class="resource-card" href="https://issuu.com" target="_blank">
+            <div class="rc-icon">📰</div>
+            <div class="rc-title">Issuu</div>
+            <div class="rc-desc">Publicações digitais e revistas</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. Jogos Cognitivos -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#ede7f6;color:#512da8;" onclick="toggle(this)">
+      <span>🧠 Jogos Cognitivos</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Jogos que estimulam o raciocínio lógico, a memória, a concentração e a criatividade. Indicados para crianças a partir dos 3 anos.</p>
+        <div class="game-grid">
+          <div class="game-card" style="background:#e8f4fd;border-color:#60a5fa;">
+            <div class="gc-icon">🧩</div>
+            <div class="gc-title">Quebra-Cabeças</div>
+            <div class="gc-desc">Raciocínio espacial e paciência</div>
+          </div>
+          <div class="game-card" style="background:#fef3e2;border-color:#fbbf24;">
+            <div class="gc-icon">♟️</div>
+            <div class="gc-title">Xadrez Infantil</div>
+            <div class="gc-desc">Estratégia e planeamento</div>
+          </div>
+          <div class="game-card" style="background:#edf7ed;border-color:#34d399;">
+            <div class="gc-icon">🔤</div>
+            <div class="gc-title">Palavras Cruzadas</div>
+            <div class="gc-desc">Vocabulário e ortografia</div>
+          </div>
+          <div class="game-card" style="background:#fce8f3;border-color:#f472b6;">
+            <div class="gc-icon">🔢</div>
+            <div class="gc-title">Sudoku Fácil</div>
+            <div class="gc-desc">Lógica e concentração</div>
+          </div>
+          <div class="game-card" style="background:#fff3e0;border-color:#f97316;">
+            <div class="gc-icon">🗺️</div>
+            <div class="gc-title">Labirintos</div>
+            <div class="gc-desc">Resolução de problemas</div>
+          </div>
+          <div class="game-card" style="background:#e0f2f1;border-color:#26a69a;">
+            <div class="gc-icon">🎯</div>
+            <div class="gc-title">Memória</div>
+            <div class="gc-desc">Memória e atenção</div>
+          </div>
+        </div>
+        <div class="resource-grid" style="margin-top:1.2rem;">
+          <a class="resource-card" href="https://www.lumosity.com" target="_blank">
+            <div class="rc-icon">🧠</div>
+            <div class="rc-title">Lumosity</div>
+            <div class="rc-desc">Treino cognitivo personalizado</div>
+          </a>
+          <a class="resource-card" href="https://www.chess.com/learn-how-to-play-chess" target="_blank">
+            <div class="rc-icon">♟️</div>
+            <div class="rc-title">Chess.com Kids</div>
+            <div class="rc-desc">Aprenda xadrez de forma divertida</div>
+          </a>
+          <a class="resource-card" href="https://www.coolmathgames.com" target="_blank">
+            <div class="rc-icon">➕</div>
+            <div class="rc-title">Cool Math Games</div>
+            <div class="rc-desc">Jogos matemáticos divertidos</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 8. Educação para o Saneamento -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#e8eaf6;color:#283593;" onclick="toggle(this)">
+      <span>💧 Educação para o Saneamento</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Materiais educativos sobre saúde, higiene, saneamento básico e meio ambiente para crianças e educadores. O acesso ao saneamento é um direito fundamental e começa com a educação.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.funasa.gov.br" target="_blank">
+            <div class="rc-icon">🏥</div>
+            <div class="rc-title">FUNASA</div>
+            <div class="rc-desc">Fundação Nacional de Saúde — materiais educativos</div>
+          </a>
+          <a class="resource-card" href="https://www.unicef.org/brazil" target="_blank">
+            <div class="rc-icon">🌍</div>
+            <div class="rc-title">UNICEF Brasil</div>
+            <div class="rc-desc">Recursos sobre água, higiene e saúde infantil</div>
+          </a>
+          <a class="resource-card" href="https://www.who.int/pt" target="_blank">
+            <div class="rc-icon">🏨</div>
+            <div class="rc-title">OMS</div>
+            <div class="rc-desc">Organização Mundial da Saúde — guias e dados</div>
+          </a>
+        </div>
+        <h3>Temas abordados</h3>
+        <ul>
+          <li>Higiene pessoal e lavagem das mãos</li>
+          <li>Água potável e tratamento da água</li>
+          <li>Descarte correto do lixo</li>
+          <li>Preservação dos rios e nascentes</li>
+          <li>Saneamento básico como direito humano</li>
+          <li>Doenças relacionadas à falta de saneamento</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- 9. Le Livros -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#fff8e1;color:#e65100;" onclick="toggle(this)">
+      <span>📕 Le Livros</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Uma seleção especial de livros recomendados pela equipa Duna Press para leitura em família. Obras que combinam entretenimento, aprendizagem e valores.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.skoob.com.br" target="_blank">
+            <div class="rc-icon">📗</div>
+            <div class="rc-title">Skoob</div>
+            <div class="rc-desc">Rede social de leitores brasileiros</div>
+          </a>
+          <a class="resource-card" href="https://www.goodreads.com" target="_blank">
+            <div class="rc-icon">📘</div>
+            <div class="rc-title">Goodreads</div>
+            <div class="rc-desc">Recomendações e avaliações de livros</div>
+          </a>
+          <a class="resource-card" href="https://www.leitura.com.br" target="_blank">
+            <div class="rc-icon">📙</div>
+            <div class="rc-title">Leitura.com.br</div>
+            <div class="rc-desc">Livraria e clube de leitura online</div>
+          </a>
+          <a class="resource-card" href="https://www.travessa.com.br" target="_blank">
+            <div class="rc-icon">📚</div>
+            <div class="rc-title">Livraria Travessa</div>
+            <div class="rc-desc">Curadoria de livros infantis e juvenis</div>
+          </a>
+        </div>
+        <h3>Recomendações para diferentes idades</h3>
+        <ul>
+          <li><strong>0–3 anos:</strong> Livros de pano, com texturas e imagens grandes</li>
+          <li><strong>4–6 anos:</strong> Histórias ilustradas com rimas e repetição</li>
+          <li><strong>7–9 anos:</strong> Aventuras curtas, fábulas e histórias em quadrinhos</li>
+          <li><strong>10–12 anos:</strong> Séries de aventura, ficção científica leve e biografias</li>
+          <li><strong>Família:</strong> Livros para ler em voz alta juntos</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- 10. Diversão com Pocoyo -->
+  <div class="acc-item">
+    <button class="acc-header" style="background:#e0f7fa;color:#00695c;" onclick="toggle(this)">
+      <span>🎉 Diversão e Entretenimento com Pocoyo</span>
+      <span class="acc-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></span>
+    </button>
+    <div class="acc-body">
+      <div class="acc-inner">
+        <p>Mini jogos e jogos online do Pocoyo — vídeos, aplicativos e atividades infantis para crianças pequenas. O Pocoyo estimula a curiosidade, a empatia e o vocabulário de forma divertida.</p>
+        <div class="resource-grid">
+          <a class="resource-card" href="https://www.pocoyo.com/pt-br" target="_blank">
+            <div class="rc-icon">🔵</div>
+            <div class="rc-title">Pocoyo.com</div>
+            <div class="rc-desc">Site oficial com jogos e episódios gratuitos</div>
+          </a>
+          <a class="resource-card" href="https://apps.apple.com/br/app/pocoyo" target="_blank">
+            <div class="rc-icon">📱</div>
+            <div class="rc-title">App Pocoyo</div>
+            <div class="rc-desc">Aplicativo para iOS e Android</div>
+          </a>
+        </div>
+        <div class="video-wrap">
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PLozUEVFGT4bI7LFxKJpjFm9qGkJq1dz1V" title="Pocoyo em Português" allowfullscreen loading="lazy"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /accordion-wrap -->
+
+<footer>
+  <p class="ft-logo">Duna Press<span>Jr</span></p>
+  <p>Análises independentes · Recursos educacionais globais</p>
+  <p style="margin-top:.5rem;">
+    <a href="/index.html">Início</a> ·
+    <a href="/escola.html">Escola</a> ·
+    <a href="/biblioteca.html">Biblioteca</a> ·
+    <a href="/index.html#newsletter">Newsletter</a>
+  </p>
+  <p style="margin-top:1rem;font-size:.75rem;opacity:.5;">© <span id="yr"></span> Duna Press Jr · Todos os direitos reservados</p>
+</footer>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+function toggle(btn) {
+  const item = btn.closest('.acc-item');
+  const isOpen = item.classList.contains('open');
+  document.querySelectorAll('.acc-item.open').forEach(i => i.classList.remove('open'));
+  if (!isOpen) item.classList.add('open');
+}
+</script>
+</body>
+</html>
