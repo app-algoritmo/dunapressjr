@@ -1,11 +1,12 @@
 ---
-title: "Contagem de passos: qual o número ideal para manter a saúde?"
+title: 'Contagem de passos: qual o número ideal para manter a saúde?'
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um, dois, três, dez mil. Na telinha do relógio ou do celular, a contagem progressiva vai mostrando quantos passos você deu para ir ao mercado, à padaria ou na caminhada no fim do dia. É uma forma de controlar sua atividade física, claro, mas, afinal, quantos passos é preciso dar por dia para se manter saudável? 
 

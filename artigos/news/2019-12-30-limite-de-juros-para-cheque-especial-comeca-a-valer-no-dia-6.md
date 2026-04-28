@@ -1,11 +1,12 @@
 ---
-title: "Limite de juros para cheque especial começa a valer no dia 6"
+title: Limite de juros para cheque especial começa a valer no dia 6
 date: 2019-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Modalidade de crédito com taxas que quadruplicam uma dívida
 em 12 meses, o cheque especial terá juros limitados a partir da

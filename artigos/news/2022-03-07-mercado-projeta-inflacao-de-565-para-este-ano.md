@@ -1,11 +1,12 @@
 ---
-title: "Mercado projeta inflação de 5,65% para este ano"
+title: Mercado projeta inflação de 5,65% para este ano
 date: 2022-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a oitava vez consecutiva para elevação do IPCA.
 

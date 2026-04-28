@@ -1,12 +1,14 @@
 ---
-title: "SP: Cães policiais se destacam pelo desempenho e grandes apreensões em atividades de busca"
+title: 'SP: Cães policiais se destacam pelo desempenho e grandes apreensões em atividades
+  de busca'
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Education
-  - Pets
+- Education
+- Pets
 ---
+
 
 ## A partir da aptidão de cada um, eles são treinados e direcionados para cada tipo de situação: busca de drogas, explosivos e de pessoas.
 

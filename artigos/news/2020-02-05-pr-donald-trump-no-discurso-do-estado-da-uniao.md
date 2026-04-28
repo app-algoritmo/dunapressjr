@@ -1,11 +1,12 @@
 ---
-title: "PR Donald Trump no discurso do Estado da União"
+title: PR Donald Trump no discurso do Estado da União
 date: 2020-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## "Destruímos a mentalidade do declínio americano"
 

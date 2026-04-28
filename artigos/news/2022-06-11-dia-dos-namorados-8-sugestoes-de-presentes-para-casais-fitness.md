@@ -1,11 +1,12 @@
 ---
-title: "Dia dos Namorados: 8 sugestões de presentes para casais fitness"
+title: 'Dia dos Namorados: 8 sugestões de presentes para casais fitness'
 date: 2022-06-11
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 A proximidade do dia 12 de junho pode ser motivo de aflição para muitos casais, pois é o momento de escolher o presente do Dia dos Namorados. Quem gosta de investir no estilo de vida saudável pode começar a busca por itens que tenham a ver com as atividades preferidas do parceiro — especialmente se os dois praticarem juntos. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Instrução Normativa regulamenta profissão de tradutor e intérprete público"
+title: Instrução Normativa regulamenta profissão de tradutor e intérprete público
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida permite que profissionais possam atuar em todo território brasileiro.
 

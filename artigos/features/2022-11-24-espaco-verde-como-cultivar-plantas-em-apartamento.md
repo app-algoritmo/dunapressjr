@@ -1,11 +1,12 @@
 ---
-title: "Espaço verde: como cultivar plantas em apartamento"
+title: 'Espaço verde: como cultivar plantas em apartamento'
 date: 2022-11-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Um ambiente decorado com plantas é bonito por natureza, e as vantagens de ter um espaço verde em casa vão além da aparência. É comprovado que as plantas melhoram a qualidade do ar, removendo até 87% das toxinas em um único dia.
 

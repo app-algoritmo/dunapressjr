@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança de Serviços (ICS) registra segunda queda consecutiva em setembro"
+title: Índice de Confiança de Serviços (ICS) registra segunda queda consecutiva em
+  setembro
 date: 2023-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Perspectivas pessimistas para os próximos meses impactam a confiança no setor de serviços.
 

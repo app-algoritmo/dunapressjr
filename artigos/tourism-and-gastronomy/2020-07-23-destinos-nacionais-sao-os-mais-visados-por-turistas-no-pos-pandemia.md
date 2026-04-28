@@ -1,11 +1,12 @@
 ---
-title: "Destinos nacionais são os mais visados por turistas no pós pandemia"
+title: Destinos nacionais são os mais visados por turistas no pós pandemia
 date: 2020-07-23
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Pesquisa indica que brasileiros pretendem viajar mais e procura por atrativos ao ar livre deve crescer.
 

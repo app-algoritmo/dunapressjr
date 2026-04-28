@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de extração e comercialização ilegal de recursos minerais"
+title: PF combate crime de extração e comercialização ilegal de recursos minerais
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal, em ação conjunta com a Agência Nacional de Mineração (ANM), deflagrou nesta sexta-feira (8/5) a Operação TERRA, com o objetivo de apurar e reprimir a extração e comercialização ilegal de argila, sem o devido título autorizativo e licenciamento ambiental.
 

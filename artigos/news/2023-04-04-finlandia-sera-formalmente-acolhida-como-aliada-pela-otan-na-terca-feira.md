@@ -1,11 +1,12 @@
 ---
-title: "Finlândia será formalmente acolhida como aliada pela OTAN na terça-feira"
+title: Finlândia será formalmente acolhida como aliada pela OTAN na terça-feira
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Finlândia será o 31º membro da OTAN, de acordo com o anúncio feito pelo secretário-geral da organização, Jens Stoltenberg. Isso fortalecerá ainda mais a Aliança.
 

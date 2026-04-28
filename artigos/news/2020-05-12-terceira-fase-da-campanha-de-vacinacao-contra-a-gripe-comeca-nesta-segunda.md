@@ -1,11 +1,12 @@
 ---
-title: "Terceira fase da campanha de vacinação contra a gripe começa nesta segunda"
+title: Terceira fase da campanha de vacinação contra a gripe começa nesta segunda
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### O Ministério da Saúde alerta que a parcela da população que integra os grupos prioritários deve ir até um posto de saúde para receber a vacina contra gripe, independente da pandemia.
 

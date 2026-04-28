@@ -1,11 +1,12 @@
 ---
-title: "MEI terá novo formato para o nome Empresarial"
+title: MEI terá novo formato para o nome Empresarial
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Essa alteração faz a adequação necessária para atender a Lei Geral de proteção de Dados (LGPD).
 

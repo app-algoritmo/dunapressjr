@@ -1,11 +1,12 @@
 ---
-title: "Seleção busca revelar talentos de roteiristas estreantes no Brasil"
+title: Seleção busca revelar talentos de roteiristas estreantes no Brasil
 date: 2020-07-02
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Concurso da Organização dos Estados Ibero-americanos, em parceria com a Secretaria do Audiovisual, vai premiar obras inéditas e qualificar seus autores.
 

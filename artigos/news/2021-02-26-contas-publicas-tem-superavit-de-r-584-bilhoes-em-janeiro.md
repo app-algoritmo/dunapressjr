@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm superávit de R$ 58,4 bilhões em janeiro"
+title: Contas públicas têm superávit de R$ 58,4 bilhões em janeiro
 date: 2021-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dívida bruta atinge 89,7% do PIB, o maior percentual da história.
 

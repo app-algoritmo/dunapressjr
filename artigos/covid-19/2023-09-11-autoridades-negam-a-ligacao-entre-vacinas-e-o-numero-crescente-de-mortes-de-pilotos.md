@@ -1,11 +1,13 @@
 ---
-title: "Autoridades negam a ligação entre vacinas e o número crescente de mortes de pilotos"
+title: Autoridades negam a ligação entre vacinas e o número crescente de mortes de
+  pilotos
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 As mortes de pilotos estão de volta ao noticiário, já que mais três pilotos morreram “repentinamente” este mês. O capitão do IndiGo, Manoj Subramanyam, 40, sofreu uma parada cardíaca ao embarcar no portão do aeroporto de Nagpur. Ele morreu a caminho do hospital. A Qatar Airlines perdeu um piloto sênior “em boa forma”, de 51 anos, que morreu enquanto viajava como passageiro no voo QR579 de Delhi para Doha. O voo LA505 da LATAM de Miami para Santiago, Chile, foi desviado para o Panamá depois que o capitão Ivan Andaur, 56, desmaiou no banheiro e morreu. No Alabama, um estudante piloto sofreu uma parada cardíaca e foi ressuscitado durante o voo. Ele foi capaz de ser revivido no chão. Existem agora relatos de 15 incidentes adicionais em que pilotos desmaiaram e morreram.
 

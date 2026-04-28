@@ -1,11 +1,12 @@
 ---
-title: "IBGE: setor de serviços avança 1,8% em setembro"
+title: 'IBGE: setor de serviços avança 1,8% em setembro'
 date: 2020-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na quarta alta consecutiva, o ganho acumulado foi de 13,4%.
 

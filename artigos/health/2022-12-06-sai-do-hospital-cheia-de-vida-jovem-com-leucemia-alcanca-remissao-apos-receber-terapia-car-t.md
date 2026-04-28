@@ -1,11 +1,13 @@
 ---
-title: "'Saí do hospital cheia de vida': jovem com leucemia alcança remissão após receber terapia CAR-T"
+title: '''Saí do hospital cheia de vida'': jovem com leucemia alcança remissão após
+  receber terapia CAR-T'
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Aline Luiz Oliveira, de 25 anos, foi diagnosticada com leucemia linfoblástica aguda de células B em 2019. Natural de São Lourenço (MG), a estudante de Ciências Contábeis sempre encarou seu tratamento com otimismo. Apesar dos desafios, ela diz que queria “tirar de letra” e que seu objetivo era sair daquela situação o quanto antes. Mas mesmo depois de nove meses de quimioterapia, acompanhada de vários efeitos colaterais, e de um transplante de medula óssea com um doador 100% compatível, o câncer resistiu e voltou em 2021. O sentimento era de derrota, mas Aline conseguiu encontrar um novo caminho com a terapia celular CAR-T – que usou as suas próprias células de defesa para combater a doença.
 

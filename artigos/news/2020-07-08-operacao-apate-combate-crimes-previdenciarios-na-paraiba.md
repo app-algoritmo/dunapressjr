@@ -1,11 +1,12 @@
 ---
-title: "Operação Apate combate crimes previdenciários na Paraíba"
+title: Operação Apate combate crimes previdenciários na Paraíba
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal deflagrou na manhã de terça feira (7/7) a operação Apate, que visa a desarticular crimes previdenciários ocorridos em detrimento do INSS, na Paraíba.
 

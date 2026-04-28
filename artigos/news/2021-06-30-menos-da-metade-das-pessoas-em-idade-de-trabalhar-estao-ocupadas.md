@@ -1,11 +1,12 @@
 ---
-title: "Menos da metade das pessoas em idade de trabalhar estão ocupadas"
+title: Menos da metade das pessoas em idade de trabalhar estão ocupadas
 date: 2021-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nível de ocupação está abaixo de 50% desde maio de 2020.
 

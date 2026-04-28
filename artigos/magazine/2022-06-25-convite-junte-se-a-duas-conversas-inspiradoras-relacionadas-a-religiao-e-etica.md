@@ -1,11 +1,12 @@
 ---
-title: "Convite: Junte-se a duas conversas inspiradoras relacionadas a religião e ética"
+title: Convite: Junte-se a duas conversas inspiradoras relacionadas a religião e ética
 date: 2022-06-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Geir Flikke, professor de estudos russos na Universidade de Oslo, com Hilde Vinje, professora associada de filosofia, e Vebjørn Horsfjord, professor de religião, filosofia e ética. [Juntos](https://fb.me/e/4N9PlqEzb), eles encontram linhas atuais e interessantes para o novo assunto.
 

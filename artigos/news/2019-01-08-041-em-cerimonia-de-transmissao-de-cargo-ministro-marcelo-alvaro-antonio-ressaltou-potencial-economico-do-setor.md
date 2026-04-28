@@ -1,11 +1,13 @@
 ---
-title: "04.1 Em cerimônia de transmissão de cargo, ministro Marcelo Álvaro Antônio ressaltou potencial econômico do setor"
+title: 04.1 Em cerimônia de transmissão de cargo, ministro Marcelo Álvaro Antônio
+  ressaltou potencial econômico do setor
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Turismo será área prioritária no governo federal, defende novo ministro
 

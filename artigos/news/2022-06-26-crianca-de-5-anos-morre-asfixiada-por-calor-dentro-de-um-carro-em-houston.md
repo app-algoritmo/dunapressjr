@@ -1,11 +1,12 @@
 ---
-title: "Criança de 5 anos morre asfixiada por calor dentro de um carro em Houston"
+title: Criança de 5 anos morre asfixiada por calor dentro de um carro em Houston
 date: 2022-06-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um menino de 5 anos morreu depois que sua mãe o deixou dentro de um carro do lado de fora da casa da família em Houston enquanto ela se preparava para a festa de aniversário de sua filha na segunda-feira, um oficial da lei [em KTRK](https://abc13.com/hot-car-death-homicide-investigation-child-died/11981689/).
 

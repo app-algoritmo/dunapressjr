@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que prevê a presença de três policiais militares em cada viatura"
+title: Comissão aprova projeto que prevê a presença de três policiais militares em
+  cada viatura
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em cidades com menos de 300 mil habitantes, poderá haver dois policiais por viatura.
 

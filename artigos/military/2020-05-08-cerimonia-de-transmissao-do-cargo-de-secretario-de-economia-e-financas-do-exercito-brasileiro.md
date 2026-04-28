@@ -1,11 +1,13 @@
 ---
-title: "Cerimônia de transmissão do cargo de Secretário de Economia e Finanças do Exército Brasileiro"
+title: Cerimônia de transmissão do cargo de Secretário de Economia e Finanças do Exército
+  Brasileiro
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF) ****–** Na manhã do dia 5 de maio, no Salão de Honra do Gabinete do Comandante do Exército, foi realizada a transmissão do cargo de Secretário de Economia e Finanças. O General de Exército **Valério Stumpf Trindade** passou o cargo para o General de Exército **Lourival Carvalho Silva**. A cerimônia foi presidida pelo General de Exército** Edson Leal Pujol**, Comandante do Exército.
 

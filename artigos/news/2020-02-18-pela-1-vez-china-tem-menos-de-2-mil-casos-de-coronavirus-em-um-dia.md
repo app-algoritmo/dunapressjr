@@ -1,11 +1,12 @@
 ---
-title: "Pela 1ª vez, China tem menos de 2 mil casos de coronavírus em um dia"
+title: Pela 1ª vez, China tem menos de 2 mil casos de coronavírus em um dia
 date: 2020-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Mais 98 pessoas morreram, a maioria na província de Hubei*
 

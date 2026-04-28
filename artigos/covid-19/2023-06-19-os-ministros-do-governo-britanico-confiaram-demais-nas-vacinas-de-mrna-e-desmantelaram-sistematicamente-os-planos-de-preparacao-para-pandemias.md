@@ -1,11 +1,13 @@
 ---
-title: "Os ministros do governo britânico confiaram demais nas vacinas de mRNA e “desmantelaram sistematicamente” os planos de preparação para pandemias"
+title: Os ministros do governo britânico confiaram demais nas vacinas de mRNA e “desmantelaram
+  sistematicamente” os planos de preparação para pandemias
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O ex-presidente da força-tarefa de vacina contra o coronavírus de Wuhan (COVID-19) do Reino Unido acusou o governo britânico de confiar demais em vacinas experimentais e mortais de mRNA COVID-19 a ponto de o governo “desmontar sistematicamente [” todos os outros planos de preparação para pandemias](https://www.theguardian.com/world/2023/jun/10/uk-recklessly-exposed-to-new-pandemics-expert-warns) .
 

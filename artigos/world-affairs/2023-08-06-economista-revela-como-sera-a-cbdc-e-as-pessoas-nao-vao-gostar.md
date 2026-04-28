@@ -1,11 +1,12 @@
 ---
-title: "Economista revela como será a CBDC (e as pessoas não vão gostar)"
+title: Economista revela como será a CBDC (e as pessoas não vão gostar)
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os bancos centrais têm um plano para lançar uma moeda digital do banco central, mas como exatamente será essa CBDC?
 

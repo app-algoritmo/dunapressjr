@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal investiga lavagem de dinheiro em esquema de desvio de recursos da Covid-19 no RN"
+title: Receita Federal investiga lavagem de dinheiro em esquema de desvio de recursos
+  da Covid-19 no RN
 date: 2020-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal (RFB), a Polícia Federal, a Controladoria Geral da União e o Ministério Público Federal deflagraram hoje (30) a Operação Vale Tudo, com o objetivo de combater organização criminosa suspeita de desvio de recursos públicos destinados prioritariamente ao combate à pandemia de Covid-19.
 

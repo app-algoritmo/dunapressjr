@@ -1,11 +1,13 @@
 ---
-title: "Presos em outros estados na operação 0² (oxigênio) são transferidos para Santa Catarina"
+title: Presos em outros estados na operação 0² (oxigênio) são transferidos para Santa
+  Catarina
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dois dos três presos preventivamente em outros Estados da federação na 2ª fase da Operação 0² (Oxigênio), realizada pela força tarefa entre a Polícia Civil de SC, Ministério Público de SC e Tribunal de Contas do Estado (TCE), estão sendo transferidos para Santa Catarina.
 

@@ -1,11 +1,12 @@
 ---
-title: "Itajaí é a economia que mais cresce em Santa Catarina"
+title: Itajaí é a economia que mais cresce em Santa Catarina
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí é mais uma vez a cidade que mais cresce na produção de riquezas em todo o estado de Santa Catarina. Números relacionados ao ano de 2018 somam R$ 25,4 bilhões de Produto Interno Bruto (PIB), com crescimento de 15,87% (R$ 3,4 bilhões) em relação a 2017. Itajaí é, também, o melhor PIB per capita entre as 12 maiores economias do estado. São R$ 117.712,00 de riquezas por habitante. Os dados foram divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 

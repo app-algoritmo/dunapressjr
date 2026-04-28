@@ -1,11 +1,12 @@
 ---
-title: "Policiais realizam a apreensão de 3 veículos carregados com 200 caixas de cigarros"
+title: Policiais realizam a apreensão de 3 veículos carregados com 200 caixas de cigarros
 date: 2020-05-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na noite desta sexta-feira, dia 22/05, mais um trabalho foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, CAOP/PF, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, GOA/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

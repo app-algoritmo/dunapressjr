@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro divulga cartilha para auxiliar pais de crianças com deficiência durante a quarentena"
+title: Governo Bolsonaro divulga cartilha para auxiliar pais de crianças com deficiência
+  durante a quarentena
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### O material tem estratégias para o acompanhamento escolar de crianças com deficiência. A cartilha é acessível e conta com interpretação em Libras.
 

@@ -1,12 +1,13 @@
 ---
-title: "Urgente: Comunicado da casa Imperial do Brasil sobre conta no twitter censurada"
+title: 'Urgente: Comunicado da casa Imperial do Brasil sobre conta no twitter censurada'
 date: 2022-12-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 COMUNICADO: BLOQUEIO DA CONTA DA PRÓ MONARQUIA NO TWITTER
 

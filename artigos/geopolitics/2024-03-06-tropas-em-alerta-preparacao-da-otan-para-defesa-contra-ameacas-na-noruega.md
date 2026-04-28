@@ -1,12 +1,13 @@
 ---
-title: "Tropas em Alerta: Preparação da OTAN para Defesa contra Ameaças na Noruega"
+title: 'Tropas em Alerta: Preparação da OTAN para Defesa contra Ameaças na Noruega'
 date: 2024-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Magazine
+- Geopolitics
+- Magazine
 ---
+
 
 Com cerca de 20.000 soldados atualmente estacionados no Norte da Noruega para treinar para um possível ataque russo, surgem questões sobre a preparação da OTAN para se defender. O exercício em andamento tem como objetivo abordar como a OTAN pode responder efetivamente a essa ameaça, segundo Rune Andersen, o líder do exercício Nordic Response e chefe do Quartel-General Operacional das Forças Armadas Norueguesas (FOH).
 

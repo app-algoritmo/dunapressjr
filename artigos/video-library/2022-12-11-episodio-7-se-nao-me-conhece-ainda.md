@@ -1,11 +1,12 @@
 ---
-title: "Episódio 7 - Se Não Me Conhece Ainda"
+title: Episódio 7 - Se Não Me Conhece Ainda
 date: 2022-12-11
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

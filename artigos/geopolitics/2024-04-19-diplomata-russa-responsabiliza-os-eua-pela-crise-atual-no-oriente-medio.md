@@ -1,11 +1,12 @@
 ---
-title: "Diplomata Russa Responsabiliza os EUA pela Crise Atual no Oriente Médio"
+title: Diplomata Russa Responsabiliza os EUA pela Crise Atual no Oriente Médio
 date: 2024-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A porta-voz do Ministério dos Negócios Estrangeiros da Rússia, Maria Zakharova, lançou duras críticas aos Estados Unidos, culpando-os pelo desenrolar da atual crise no Oriente Médio. Durante sua participação no programa de televisão "Evening With Vladimir Solovyev", Zakharova apontou para as ações dos EUA como responsáveis pelo caos na região.
 

@@ -1,11 +1,13 @@
 ---
-title: "Publicado pelo Mapa zoneamento das culturas de milho 1ª safra e sorgo para a safra 2020/2021"
+title: Publicado pelo Mapa zoneamento das culturas de milho 1ª safra e sorgo para
+  a safra 2020/2021
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estudos para o milho 1ª safra passaram por revisão metodológica da Embrapa e validação de entidades e produtores.
 

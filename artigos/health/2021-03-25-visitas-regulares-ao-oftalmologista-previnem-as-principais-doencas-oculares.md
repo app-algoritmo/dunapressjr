@@ -1,11 +1,12 @@
 ---
-title: "Visitas regulares ao oftalmologista previnem as principais doenças oculares"
+title: Visitas regulares ao oftalmologista previnem as principais doenças oculares
 date: 2021-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Admirar as cores, pessoas, objetos, a natureza e ter a percepção das coisas pelo olhar, traduzir a realidade pelos olhos faz parte de quem tem o privilégio da visão. Apesar disso, muitas vezes esquecemos de dar atenção necessária para esse órgão tão importante.
 

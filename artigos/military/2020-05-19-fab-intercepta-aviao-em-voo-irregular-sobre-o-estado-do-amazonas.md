@@ -1,11 +1,12 @@
 ---
-title: "FAB intercepta avião em voo irregular sobre o estado do Amazonas"
+title: FAB intercepta avião em voo irregular sobre o estado do Amazonas
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) interceptou, na tarde desta segunda-feira (18), um avião de pequeno porte em voo irregular sobre o estado do Amazonas. A ação, planejada previamente com a Polícia Federal,  envolveu duas aeronaves A-29 Super Tucano da FAB, além de todo o Sistema de Defesa Aeroespacial Brasileiro (SISDABRA).
 

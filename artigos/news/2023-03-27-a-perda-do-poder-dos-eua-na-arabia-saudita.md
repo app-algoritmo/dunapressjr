@@ -1,11 +1,12 @@
 ---
-title: "A perda do poder dos EUA na Arábia Saudita"
+title: A perda do poder dos EUA na Arábia Saudita
 date: 2023-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## **Contra a vontade dos EUA, a Arábia Saudita não está apenas se aproximando do Irã e da China, mas agora também da Síria. O fato de seu "aliado" mais próximo no mundo árabe estar ignorando os desejos dos Estados Unidos mostra a perda de poder dos Estados Unidos na região.**
 

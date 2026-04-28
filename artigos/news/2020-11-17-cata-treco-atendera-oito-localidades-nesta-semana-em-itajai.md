@@ -1,11 +1,12 @@
 ---
-title: "Cata Treco atenderá oito localidades nesta semana em Itajaí"
+title: Cata Treco atenderá oito localidades nesta semana em Itajaí
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Cata Treco, programa da Secretaria Municipal de Obras, divulgou a agenda para esta semana. Serão quatro localidades atendidas. Os atendimentos iniciam na segunda-feira (16) pelo bairro Cordeiros e seguem pelos bairros Murta, Salseiros e Volta de Cima. O caminhão estará nas ruas até sexta-feira (20), das 7h30 às 11h30 e das 13h30 às 17h30.
 

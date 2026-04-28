@@ -1,11 +1,12 @@
 ---
-title: "Compartilhar imagens de animais sofrendo maus-tratos está proibido por lei"
+title: Compartilhar imagens de animais sofrendo maus-tratos está proibido por lei
 date: 2023-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Já está vigor em Santa Catarina a lei que proíbe a divulgação nas redes sociais, para fins de entretenimento, de imagens e áudios que contenham atos de agressão, abuso, crueldade, abandono ou punição a animais. A medida aprovada na Alesc altera o Código Estadual de Proteção aos Animais.
 

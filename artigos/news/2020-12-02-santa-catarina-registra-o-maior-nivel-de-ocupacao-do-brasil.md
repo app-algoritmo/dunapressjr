@@ -1,11 +1,12 @@
 ---
-title: "Santa Catarina registra o maior nível de ocupação do Brasil"
+title: Santa Catarina registra o maior nível de ocupação do Brasil
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Catarina sai mais uma vez na frente e mantém índices acima da média nacional em relação ao emprego. O estado catarinense registrou o maior nível de ocupação do país em outubro: 57,6%. Eram 3,43 milhões de pessoas ocupadas, entre as 5,97 milhões que tinham idade de trabalhar, segundo dados divulgados na Pesquisa Nacional por Amostra de Domicílios (PNAD-Covid19), pelo Instituto Brasileiro de Geografia e Estatística (IBGE), nesta terça-feira, 1º. O nível nacional foi de 49,3%, e o da região Sul, 56%.  
 

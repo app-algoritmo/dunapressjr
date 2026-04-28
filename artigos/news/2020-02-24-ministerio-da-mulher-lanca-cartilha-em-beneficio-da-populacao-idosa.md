@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Mulher lança cartilha em benefício da população idosa"
+title: Ministério da Mulher lança cartilha em benefício da população idosa
 date: 2020-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou nesta segunda-feira (17) a cartilha “Curatela e Tomada de Decisão Apoiada: Vamos falar sobre isso?”. O material tem o objetivo de esclarecer dúvidas sobre os direitos da pessoa idosa no que diz respeito ao instrumento da curatela e da tomada de decisão apoiada, além de promover a conscientização a respeito do tema. 
 

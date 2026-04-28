@@ -1,11 +1,12 @@
 ---
-title: "Chefe de direitos humanos do Irã chama sanções dos EUA de 'ilegais'"
+title: Chefe de direitos humanos do Irã chama sanções dos EUA de 'ilegais'
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O principal funcionário de direitos humanos do Irã diz que os Estados Unidos impuseram sanções, que são ilegais, em quase 25 países, enquanto descrevem as sanções como o maior crime contra a humanidade.
 

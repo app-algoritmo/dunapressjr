@@ -1,11 +1,12 @@
 ---
-title: "Crise hídrica pressionará inflação, diz Campos Neto"
+title: Crise hídrica pressionará inflação, diz Campos Neto
 date: 2021-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BC também manifestou preocupação com preço de serviços.
 

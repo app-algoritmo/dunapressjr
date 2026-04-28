@@ -1,11 +1,12 @@
 ---
-title: "Operação Fatum Est Ananim combate o tráfico de drogas no Pará"
+title: Operação Fatum Est Ananim combate o tráfico de drogas no Pará
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belém/PA - A Polícia Federal, em conjunto com a Polícia Civil do Estado do Pará, deflagrou nesta quarta-feira (24/6) a Operação FATUM EST ANANIM, com o objetivo de combater o tráfico de entorpecentes na região de Ananindeua/PA. Estão sendo cumpridos 16 mandados de busca e apreensão no município. A deflagração contou com a participação de mais de 100 policiais, somando federais e civis
 

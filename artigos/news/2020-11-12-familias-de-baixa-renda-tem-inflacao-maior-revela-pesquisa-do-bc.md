@@ -1,11 +1,12 @@
 ---
-title: "Famílias de baixa renda têm inflação maior, revela pesquisa do BC"
+title: Famílias de baixa renda têm inflação maior, revela pesquisa do BC
 date: 2020-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Peso da alimentação em casa é maior para renda mais baixa.
 

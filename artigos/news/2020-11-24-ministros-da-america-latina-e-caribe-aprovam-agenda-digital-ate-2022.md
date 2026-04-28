@@ -1,11 +1,12 @@
 ---
-title: "Ministros da América Latina e Caribe aprovam agenda digital até 2022"
+title: Ministros da América Latina e Caribe aprovam agenda digital até 2022
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministro Marcos Pontes destacou as iniciativas tomadas pelo Governo Federal diante do cenário desafiador provocado pela Covid-19.
 

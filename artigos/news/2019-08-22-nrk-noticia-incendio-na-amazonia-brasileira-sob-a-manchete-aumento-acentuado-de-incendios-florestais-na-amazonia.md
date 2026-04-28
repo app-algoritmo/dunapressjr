@@ -1,11 +1,13 @@
 ---
-title: "NRK noticia incêndio na Amazônia brasileira sob a manchete 'aumento acentuado de incêndios florestais na Amazônia'"
+title: NRK noticia incêndio na Amazônia brasileira sob a manchete 'aumento acentuado
+  de incêndios florestais na Amazônia'
 date: 2019-08-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 NRK em minuciosa reportagem expõe o problema da Amazônia, comenta as declarações do presidente brasileiro e ainda apresenta a visão da Noruega em relação a todos os fatos, acompanhados por vídeos. Confira a seguir a tradução do artigo.
 

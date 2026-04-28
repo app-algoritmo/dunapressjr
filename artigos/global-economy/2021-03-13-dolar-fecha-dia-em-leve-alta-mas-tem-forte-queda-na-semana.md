@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha dia em leve alta, mas tem forte queda na semana"
+title: Dólar fecha dia em leve alta, mas tem forte queda na semana
 date: 2021-03-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa teve queda nesta sexta.
 

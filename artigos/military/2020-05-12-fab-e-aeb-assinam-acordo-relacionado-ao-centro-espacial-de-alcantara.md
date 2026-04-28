@@ -1,11 +1,12 @@
 ---
-title: "FAB e AEB assinam acordo relacionado ao Centro Espacial de Alcântara"
+title: FAB e AEB assinam acordo relacionado ao Centro Espacial de Alcântara
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) e a Agência Espacial Brasileira (AEB) assinaram, nesta segunda-feira (11/05), em Brasília (DF), o Acordo de Cooperação definindo atribuições e processos de trabalho na fase de implantação e na fase de operação do futuro Centro Espacial de Alcântara (CEA), no Maranhão. A assinatura do acordo é um dos passos para viabilizar o lançamento de veículos espaciais não militares empregando o CEA.
 

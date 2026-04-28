@@ -1,11 +1,13 @@
 ---
-title: "Mais de 10 mil militares por todo o Brasil doaram sangue no contexto da Operação Covid-19"
+title: Mais de 10 mil militares por todo o Brasil doaram sangue no contexto da Operação
+  Covid-19
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Dia Mundial do Doador de Sangue, foi comemorado neste último domingo (14), conscientiza os não-doadores sobre a importância desse ato de solidariedade que salva vidas. E no contexto das ações de combate à Covid-19, mais de 10 mil militares das Forças Armadas já doaram sangue por todo o Brasil, contribuindo para diminuir os efeitos nocivos do novo coronavírus. 
 

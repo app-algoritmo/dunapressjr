@@ -1,11 +1,12 @@
 ---
-title: "Urgente: O cerco ao STF"
+title: 'Urgente: O cerco ao STF'
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Índios protestam contra Lula, em Brasília, neste domingo (4). Militares cercaram o STF para impedir a passagem dos manifestantes.
 

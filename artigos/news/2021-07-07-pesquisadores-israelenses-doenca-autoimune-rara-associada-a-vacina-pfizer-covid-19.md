@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores israelenses: 'Doença autoimune rara' associada à vacina Pfizer Covid-19"
+title: 'Pesquisadores israelenses: ''Doença autoimune rara'' associada à vacina Pfizer
+  Covid-19'
 date: 2021-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## "O acúmulo de casos não se encaixou. Não era o que esperaríamos ver em um ano normal."
 

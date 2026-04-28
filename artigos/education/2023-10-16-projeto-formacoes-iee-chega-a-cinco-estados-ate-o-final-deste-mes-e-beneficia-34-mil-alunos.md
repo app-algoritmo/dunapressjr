@@ -1,12 +1,14 @@
 ---
-title: "Projeto Formações IEE chega a cinco estados até o final deste mês e beneficia 34 mil alunos"
+title: Projeto Formações IEE chega a cinco estados até o final deste mês e beneficia
+  34 mil alunos
 date: 2023-10-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Serão oito cidades recebendo a capacitação, com diferentes módulos da metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

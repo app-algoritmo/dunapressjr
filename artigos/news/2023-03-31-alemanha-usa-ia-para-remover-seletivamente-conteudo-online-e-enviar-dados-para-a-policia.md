@@ -1,11 +1,13 @@
 ---
-title: "Alemanha usa IA para remover seletivamente conteúdo online e enviar dados para a polícia"
+title: Alemanha usa IA para remover seletivamente conteúdo online e enviar dados para
+  a polícia
 date: 2023-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Já está sendo usado para pesquisar especificamente conteúdo adulto.
 

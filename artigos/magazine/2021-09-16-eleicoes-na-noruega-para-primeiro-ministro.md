@@ -1,12 +1,13 @@
 ---
-title: "Eleições na Noruega para Primeiro Ministro"
+title: Eleições na Noruega para Primeiro Ministro
 date: 2021-09-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 ## Jonas Gahr Støre do Partido dos Trabalhadores assume governo
 

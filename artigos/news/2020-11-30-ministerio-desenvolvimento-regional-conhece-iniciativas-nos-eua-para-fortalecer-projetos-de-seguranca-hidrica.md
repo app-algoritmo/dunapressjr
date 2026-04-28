@@ -1,11 +1,13 @@
 ---
-title: "Ministério Desenvolvimento Regional conhece iniciativas nos EUA para fortalecer projetos de segurança hídrica"
+title: Ministério Desenvolvimento Regional conhece iniciativas nos EUA para fortalecer
+  projetos de segurança hídrica
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal segue com os esforços para garantir a segurança hídrica na região Nordeste. Na quinta-feira (26), o ministro do Desenvolvimento Regional, Rogério Marinho, anunciou a [abertura do processo licitatório para a seleção da empresa que vai elaborar o projeto executivo e os estudos complementares para a construção do Sistema Seridó, no Rio Grande do Norte](https://www.gov.br/mdr/pt-br/noticias/mdr-e-codevasf-lancam-licitacao-de-projeto-do-sistema-serido-que-vai-abastecer-mais-de-280-mil-pessoas-no-rio-grande-do-norte). A empreitada será tocada pelo Ministério do Desenvolvimento Regional (MDR) em parceria com a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf).
 

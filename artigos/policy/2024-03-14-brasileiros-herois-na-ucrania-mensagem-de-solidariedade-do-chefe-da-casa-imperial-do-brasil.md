@@ -1,11 +1,13 @@
 ---
-title: "Brasileiros Heróis na Ucrânia: Mensagem de Solidariedade do Chefe da Casa Imperial do Brasil"
+title: 'Brasileiros Heróis na Ucrânia: Mensagem de Solidariedade do Chefe da Casa
+  Imperial do Brasil'
 date: 2024-03-14
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em comunicado oficial do Chefe da Casa Imperial do Brasil sobre os brasileiros que perderam suas vidas em combate na Ucrânia, expressa profundo pesar e reconhecimento pelo sacrifício dos brasileiros envolvidos no conflito entre Rússia e Ucrânia, destacando-os como heróis que defenderam uma causa justa. A mensagem destaca a importância de honrar a memória desses indivíduos e expressa solidariedade às famílias enlutadas, à comunidade ucraniana no Brasil e ao povo ucraniano em geral. O comunicado também ressalta a necessidade de permanecer firme na defesa dos princípios fundamentais da civilização cristã e de rejeitar qualquer tentativa de distorcer a realidade sobre o conflito. O Chefe da Casa Imperial do Brasil, Dom Bertrand de Orleans e Bragança, conclui o comunicado, pedindo a Deus pela derrota do invasor russo e pela restauração da paz na Europa e no mundo.
 

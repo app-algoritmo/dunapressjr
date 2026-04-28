@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,56 pressionado pelo mercado internacional"
+title: Dólar sobe para R$ 5,56 pressionado pelo mercado internacional
 date: 2022-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa resiste a quedas no exterior e fecha em alta.
 

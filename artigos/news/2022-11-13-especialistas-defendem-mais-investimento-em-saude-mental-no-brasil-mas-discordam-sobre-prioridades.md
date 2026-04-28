@@ -1,11 +1,13 @@
 ---
-title: "Especialistas defendem mais investimento em saúde mental no Brasil, mas discordam sobre prioridades"
+title: Especialistas defendem mais investimento em saúde mental no Brasil, mas discordam
+  sobre prioridades
 date: 2022-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em audiência pública na Câmara dos Deputados, especialistas em saúde mental foram unânimes em apontar a urgência de mais investimento em políticas públicas de saúde mental no Brasil, diante do aumento do número de casos de ansiedade, depressão e suicídio, mas há divergências sobre quais devem ser as prioridades. O debate foi promovido pela Comissão de Seguridade Social e Família nesta quinta-feira (10).
 

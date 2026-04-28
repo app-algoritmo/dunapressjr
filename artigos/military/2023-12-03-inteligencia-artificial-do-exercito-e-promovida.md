@@ -1,11 +1,12 @@
 ---
-title: "Inteligência artificial do Exército é promovida"
+title: Inteligência artificial do Exército é promovida
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Entre os mais de 500 sargentos que se formaram neste sábado (02), na Escola de Sargentos das Armas, um deles chamava atenção: Max, a Inteligência Artificial do Exército. O nome do assistente virtual é uma homenagem ao Sargento Max Wolff Filho, herói da Força Expedicionária Brasileira. O chatbot iniciou sua carreira em 2019, quando ingressou virtualmente nas fileiras do Exército. Desde então, suas funcionalidades evoluíram.
 

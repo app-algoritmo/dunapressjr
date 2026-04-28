@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba se reúne com bancada federal e assegura investimentos para obras no Estado"
+title: Governador da Paraíba se reúne com bancada federal e assegura investimentos
+  para obras no Estado
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo se reuniu, nesta quarta-feira (24), em Brasília, com a bancada federal paraibana, ocasião em que apresentou as demandas do estado para serem incluídas no orçamento geral da União no exercício financeiro de 2021. Foram discutidos investimentos em infraestrutura, turismo, saúde e educação. 
 

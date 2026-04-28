@@ -1,11 +1,12 @@
 ---
-title: "Seu vício no cigarro pode estar encobrindo o quê?"
+title: Seu vício no cigarro pode estar encobrindo o quê?
 date: 2021-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A lista de riscos que o cigarro oferece a saúde parece não ter fim. Além disso, ele tem um cheiro marcante e uma fumaça que incomoda, mas mesmo assim ainda existe muita gente que começa ou continua a fumar: de acordo com a pesquisa Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (Vigitel) de 2018, 9,3% dos brasileiros com 18 anos ou mais são fumantes. Além da dependência química, o que ainda mantém tantos cigarros acesos?
 

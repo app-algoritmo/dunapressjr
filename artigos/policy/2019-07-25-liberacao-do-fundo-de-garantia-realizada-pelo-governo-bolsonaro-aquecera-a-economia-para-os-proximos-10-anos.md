@@ -1,11 +1,13 @@
 ---
-title: "Liberação do fundo de garantia realizada pelo governo Bolsonaro aquecerá a economia para os próximos 10 anos"
+title: Liberação do fundo de garantia realizada pelo governo Bolsonaro aquecerá a
+  economia para os próximos 10 anos
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O governo de Jair Bolsonaro anunciou na quarta-feira 24.07.19 a liberação parcial do Fundo de Garantia por Tempo de Serviço para aquecer a economia com cerca de 42 bilhões de reais entre 2019 e 2020.
 

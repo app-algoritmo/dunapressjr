@@ -1,11 +1,12 @@
 ---
-title: "Os selecionados no Sisu podem matricular-se até esta terça-feira (21)"
+title: Os selecionados no Sisu podem matricular-se até esta terça-feira (21)
 date: 2020-07-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os não selecionados também têm até o dia 21 para participar da lista de espera.
 

@@ -1,11 +1,12 @@
 ---
-title: "PGR pede reconhecimento da omissão de governos na proteção ambiental"
+title: PGR pede reconhecimento da omissão de governos na proteção ambiental
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Procuradora em exercício destaca histórico de negligência do país.
 

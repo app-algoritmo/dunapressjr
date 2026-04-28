@@ -1,11 +1,12 @@
 ---
-title: "Estados Unidos: Preparativos para uma Guerra Econômica Contra a China"
+title: 'Estados Unidos: Preparativos para uma Guerra Econômica Contra a China'
 date: 2024-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em um vídeo de 17 de junho, Alexander Mercouris detalha os crescentes preparativos dos Estados Unidos para uma guerra econômica total contra a China e seu sistema econômico e financeiro. Mercouris explica que a administração Biden, por meio do Departamento do Tesouro, impôs sanções à China utilizando a justificativa das sanções contra a Rússia, sem a necessidade de aprovação presidencial ou do Congresso.
 

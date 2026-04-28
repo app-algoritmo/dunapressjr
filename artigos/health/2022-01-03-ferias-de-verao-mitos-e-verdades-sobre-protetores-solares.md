@@ -1,11 +1,12 @@
 ---
-title: "Férias de verão: mitos e verdades sobre protetores solares"
+title: 'Férias de verão: mitos e verdades sobre protetores solares'
 date: 2022-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a chegada do verão, grande parte da população passa as férias de final de ano – ou até mesmo apenas os finais de semana – na praia, no parque ou na piscina. E a exposição ao sol exige um item considerado imprescindível: o filtro solar, essencial para evitar queimaduras e até mesmo o câncer de pele, visto que, no Brasil, dois terços de todos os diagnósticos de câncer são desse tipo, com cerca de 185 mil novos casos registrados todo ano.
 

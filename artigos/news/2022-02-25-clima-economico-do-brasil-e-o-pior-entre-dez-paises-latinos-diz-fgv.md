@@ -1,11 +1,12 @@
 ---
-title: "Clima Econômico do Brasil é o pior entre dez países latinos, diz FGV"
+title: Clima Econômico do Brasil é o pior entre dez países latinos, diz FGV
 date: 2022-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Melhor índice ficou com o Uruguai, seguido por Paraguai e Colômbia.
 

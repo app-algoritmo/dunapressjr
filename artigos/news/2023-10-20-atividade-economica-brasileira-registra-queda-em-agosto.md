@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica brasileira registra queda em agosto"
+title: Atividade econômica brasileira registra queda em agosto
 date: 2023-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice do Banco Central (IBC-Br) aponta recuo de 0,77%.
 

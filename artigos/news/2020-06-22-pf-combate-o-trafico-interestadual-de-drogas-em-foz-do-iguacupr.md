@@ -1,11 +1,12 @@
 ---
-title: "PF combate o tráfico interestadual de drogas em Foz do Iguaçu/PR"
+title: PF combate o tráfico interestadual de drogas em Foz do Iguaçu/PR
 date: 2020-06-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR – A Polícia Federal deflagrou nesta segunda-feira (22/6) a Operação Fratis, com o objetivo de desarticular associação criminosa voltada ao tráfico interestadual de drogas. 
 

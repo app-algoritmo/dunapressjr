@@ -1,11 +1,13 @@
 ---
-title: "Brasil e Estados Unidos debatem parcerias em ciência e tecnologia de Cooperação Científica"
+title: Brasil e Estados Unidos debatem parcerias em ciência e tecnologia de Cooperação
+  Científica
 date: 2020-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os dois países estão trabalhando juntos no desenvolvimento de pesquisas para combater o coronavírus
 

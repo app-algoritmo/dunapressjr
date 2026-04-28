@@ -1,11 +1,13 @@
 ---
-title: "A OMS agora está alertando para um aumento 'incomum' de casos graves de miocardite em recém-nascidos e crianças pequenas"
+title: A OMS agora está alertando para um aumento 'incomum' de casos graves de miocardite
+  em recém-nascidos e crianças pequenas
 date: 2023-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## A Organização Mundial da Saúde (OMS) soou o alarme sobre um aumento acentuado de casos de "miocardite grave" em recém-nascidos e crianças pequenas no País de Gales e na Inglaterra.
 

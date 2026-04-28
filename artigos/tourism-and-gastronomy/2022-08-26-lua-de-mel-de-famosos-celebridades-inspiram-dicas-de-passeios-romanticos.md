@@ -1,11 +1,12 @@
 ---
-title: "Lua de mel de famosos: celebridades inspiram dicas de passeios românticos"
+title: 'Lua de mel de famosos: celebridades inspiram dicas de passeios românticos'
 date: 2022-08-26
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Cerimônias de casamento dos famosos viram verdadeiros eventos na internet. Detalhes do vestido, decoração da festa e lista de convidados são comentados pelos internautas nas redes sociais. Mas além de todos os itens que fazem parte da troca de votos das celebridades, há outro aspecto que gera comentários e inspira os noivos de plantão: a lua de mel. 
 

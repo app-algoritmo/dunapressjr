@@ -1,11 +1,13 @@
 ---
-title: "Revelações Chocantes: Cientistas da Pfizer Advertem sobre Vacinas mRNA e Reforços COVID-19"
+title: 'Revelações Chocantes: Cientistas da Pfizer Advertem sobre Vacinas mRNA e Reforços
+  COVID-19'
 date: 2024-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Novas revelações chocantes vieram à tona através de imagens do Projeto Veritas, mostrando que os principais cientistas da Pfizer tinham sérias preocupações sobre as vacinas COVID-19 e os reforços mRNA, mesmo enquanto a empresa garantia ao público que não havia preocupações sérias de segurança.
 

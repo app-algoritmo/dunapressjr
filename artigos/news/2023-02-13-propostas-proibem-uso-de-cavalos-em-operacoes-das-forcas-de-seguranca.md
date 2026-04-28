@@ -1,11 +1,12 @@
 ---
-title: "Propostas proíbem uso de cavalos em operações das forças de segurança"
+title: Propostas proíbem uso de cavalos em operações das forças de segurança
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Duas propostas em análise na Câmara dos Deputados acabam com a utilização de cavalos em operações policiais. As iniciativas foram motivadas pela agressão a animais durante atos de vandalismo ocorridos em Brasília, em 8 de janeiro.
 

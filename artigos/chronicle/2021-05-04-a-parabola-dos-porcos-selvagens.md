@@ -1,13 +1,14 @@
 ---
-title: "A parábola dos porcos selvagens"
+title: A parábola dos porcos selvagens
 date: 2021-05-04
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
-  - Features
-  - Literature
+- Chronicle
+- Features
+- Literature
 ---
+
 
 **Da série *Parábolas da vida***
 

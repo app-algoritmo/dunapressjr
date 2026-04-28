@@ -1,11 +1,13 @@
 ---
-title: "Petrobras busca reconsideração do Ibama para perfuração na Foz do Rio Amazonas, reforçando compromisso ambiental"
+title: Petrobras busca reconsideração do Ibama para perfuração na Foz do Rio Amazonas,
+  reforçando compromisso ambiental
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estatal alega cumprimento de requisitos legais e amplia medidas de proteção à fauna para obter licença ambiental.
 

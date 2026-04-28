@@ -1,11 +1,13 @@
 ---
-title: "Estudos para desestatização dos Correios avançam com nova contratação de avaliação financeira"
+title: Estudos para desestatização dos Correios avançam com nova contratação de avaliação
+  financeira
 date: 2021-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa BR Partners vence concorrência para fazer avaliação econômico-financeira independente da Empresa Brasileira de Correios e Telégrafos.
 

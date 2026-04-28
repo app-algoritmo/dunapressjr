@@ -1,11 +1,13 @@
 ---
-title: "Prazos para comunicados de sinistros e agendamento de vistorias no Programa de Seguro Rural definidos pelo Mapa"
+title: Prazos para comunicados de sinistros e agendamento de vistorias no Programa
+  de Seguro Rural definidos pelo Mapa
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa padronizar os procedimentos de comunicação de perdas dos produtores e agendamento de vistorias a campo pelos peritos das seguradoras.
 

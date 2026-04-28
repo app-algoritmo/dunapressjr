@@ -1,11 +1,12 @@
 ---
-title: "A América acabou de destruir um grande império"
+title: A América acabou de destruir um grande império
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Heródoto (Histórias, Livro 1.53) conta a história de Creso, rei da Lídia (cerca de 585-546 aC) no que hoje é o oeste da Turquia e na costa jônica do mar Mediterrâneo. Creso conquistou Éfeso, Mileto e os impérios vizinhos de língua grega, obtendo tributos e saques que o tornaram um dos governantes mais ricos de seu tempo. Mas essas vitórias e riqueza levaram à arrogância e arrogância. Creso voltou seu olhar para o leste e aspirou à conquista da Pérsia, governada por Ciro, o Grande.
 

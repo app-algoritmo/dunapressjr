@@ -1,11 +1,12 @@
 ---
-title: "Verão: confira truques para uma casa mais arejada sem abusar do ar-condicionado"
+title: 'Verão: confira truques para uma casa mais arejada sem abusar do ar-condicionado'
 date: 2024-01-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Altas temperaturas são alerta para iniciativas sustentáveis que mantêm o ambiente fresco de forma natural.
 

@@ -1,11 +1,12 @@
 ---
-title: "Leilão de três terminais portuários no Ceará, Bahia e Amapá rende R$ 38 milhões"
+title: Leilão de três terminais portuários no Ceará, Bahia e Amapá rende R$ 38 milhões
 date: 2021-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A perspectiva, agora, é de mais de R$ 100 milhões em investimentos para os três estados.
 

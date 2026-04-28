@@ -1,11 +1,12 @@
 ---
-title: "Governador da Paraíba se reuniu com embaixador dos Estados Unidos"
+title: Governador da Paraíba se reuniu com embaixador dos Estados Unidos
 date: 2020-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na reunião o Governador apresentou potencialidades e oportunidades de investimentos na Paraíba.
 

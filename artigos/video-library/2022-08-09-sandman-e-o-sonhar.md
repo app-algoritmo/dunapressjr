@@ -1,11 +1,12 @@
 ---
-title: "Sandman e o Sonhar"
+title: Sandman e o Sonhar
 date: 2022-08-09
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 O Homem não vive sem Sonhos
 

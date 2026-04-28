@@ -1,11 +1,12 @@
 ---
-title: "Felício Ramuth, vice-governador do Estado, depõe na CPI do Crack da Alesp"
+title: Felício Ramuth, vice-governador do Estado, depõe na CPI do Crack da Alesp
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ramuth é coordenador do plano de ações do Governo do Estado para o atendimento a dependentes químicos e foi sabatinado pela Comissão Comissão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Transparência: Acompanhe os gastos do governo destinados ao combate ao coronavírus"
+title: 'Transparência: Acompanhe os gastos do governo destinados ao combate ao coronavírus'
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Portal da Transparência, mantido pela Controladoria-Geral da União (CGU), divulga os valores orçamentários e a execução de despesas do Governo Federal relacionados especificamente ao enfrentamento da pandemia de coronavírus em todo o País. Por meio da ação orçamentária “21C0”, é possível consultar e detalhar gastos diretos, bem como transferências aos Estados e municípios.
 

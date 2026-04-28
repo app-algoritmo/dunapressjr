@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A Batalha de Jenipapo"
+title: 'Série Fatos Da Independência: A Batalha de Jenipapo'
 date: 2023-08-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Fidié suspeitou que as tropas em Piracuruca eram parte de um grupo mais numeroso, reunido em Campo Maior, pois a vila também havia proclamado ser favorável à independência. O Governador de Armas, então, seguiu para essa vila e, no dia 12 de março de 1823, acampou em uma fazenda próxima. Ao tomarem conhecimento da movimentação das tropas de Fidié, as forças lideradas pelo Capitão Rodrigues Chaves se mobilizaram. O apoio cearense foi essencial, pois aumentou o número de homens em luta pela causa. Muitas das tropas que vieram da província vizinha eram formadas por indígenas vindos de Ibiapaba.
 

@@ -1,11 +1,12 @@
 ---
-title: "Educação nos 200 dias de governo Bolsonaro"
+title: Educação nos 200 dias de governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Governo Federal trabalha pela educação brasileira
 

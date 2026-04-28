@@ -1,11 +1,12 @@
 ---
-title: "Legislação e Vida: o novo livro do Professor Hermes Nery"
+title: 'Legislação e Vida: o novo livro do Professor Hermes Nery'
 date: 2018-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Durante I Simpósio Internacional em Defesa da Vida, em novembro passado, o Professor Hermes Rodrigues Nery lançou o livro Legislação e Vida - A vitória da vida no parlamento brasileiro e a sua judicialização no Supremo Tribunal Federal. O livro traz um histórico de apontamentos e pronunciamentos do Professor tanto na Câmara dos Deputados, Senado Federal e Supremo Tribunal Federal bem como das mais relevantes votações que ocorreram no judiciário brasileiro, em especial a do PL 1135-91.
 

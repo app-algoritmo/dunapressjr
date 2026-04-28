@@ -1,11 +1,13 @@
 ---
-title: "Aumento na capacidade de armazenamento de grãos impulsiona setor agrícola no Brasil"
+title: Aumento na capacidade de armazenamento de grãos impulsiona setor agrícola no
+  Brasil
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa do IBGE revela crescimento na capacidade de armazenagem e variações nos estoques dos principais produtos agrícolas do país em 2022.
 

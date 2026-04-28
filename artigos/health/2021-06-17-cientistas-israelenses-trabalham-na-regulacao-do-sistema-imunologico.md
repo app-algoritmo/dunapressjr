@@ -1,11 +1,12 @@
 ---
-title: "Cientistas israelenses trabalham na regulação do sistema imunológico"
+title: Cientistas israelenses trabalham na regulação do sistema imunológico
 date: 2021-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Uma equipe do Technion afirma ter identificado o mecanismo de linfócitos T que desencadeia choques de citocinas, a causa de muitas mortes por coronavírus.
 

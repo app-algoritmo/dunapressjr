@@ -1,11 +1,13 @@
 ---
-title: "Amin quer que Advocacia do Senado aprecie notificação sobre requerimentos de impeachment"
+title: Amin quer que Advocacia do Senado aprecie notificação sobre requerimentos de
+  impeachment
 date: 2022-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O senador Espiridião Amin (PP-SC) solicitou que a Advocacia do Senado aprecie uma notificação extrajudicial, feita por um escritório de advocacia, que reclama providências da Casa sobre a não tramitação de requerimentos de *impeachment* de ministros do Supremo Tribunal Federal (STF).
 

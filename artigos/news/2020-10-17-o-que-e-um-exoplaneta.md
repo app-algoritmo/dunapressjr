@@ -1,11 +1,12 @@
 ---
-title: "O que é um exoplaneta?"
+title: O que é um exoplaneta?
 date: 2020-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Descobrimos milhares de exoplanetas – "mundos além do nosso sistema solar" – até agora. A maioria desses planetas distantes são diferentes de qualquer um dos mundos do nosso próprio sistema solar. Eles estão tão longe da Terra que são realmente difíceis de ver! Até as melhores fotos que temos deles mostram pouco mais do que pontos brilhantes de luz.
 

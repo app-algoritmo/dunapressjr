@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Banco Central afirmou que a inflação seria 9% sem os cortes de impostos"
+title: Presidente do Banco Central afirmou que a inflação seria 9% sem os cortes de
+  impostos
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Campo Neto defendeu a autonomia do Banco Central.
 

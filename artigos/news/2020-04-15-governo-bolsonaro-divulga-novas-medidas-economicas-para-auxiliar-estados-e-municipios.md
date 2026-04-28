@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro divulga novas medidas econômicas para auxiliar estados e municípios"
+title: Governo Bolsonaro divulga novas medidas econômicas para auxiliar estados e
+  municípios
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal apresentou nesta terça-feira (14), novas medidas de auxílio aos estados e municípios brasileiros. A proposta prevê ajuda financeira no valor de R$ 77,4 bilhões aos estados e municípios para o enfrentamento à pandemia do novo coronavírus (Covid-19).
 

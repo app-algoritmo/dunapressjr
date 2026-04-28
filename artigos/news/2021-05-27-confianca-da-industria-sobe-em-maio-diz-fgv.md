@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria sobe em maio, diz FGV"
+title: Confiança da indústria sobe em maio, diz FGV
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta veio depois de quatro quedas consecutivas.
 

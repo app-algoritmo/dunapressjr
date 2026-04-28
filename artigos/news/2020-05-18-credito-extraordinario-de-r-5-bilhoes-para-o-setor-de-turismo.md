@@ -1,11 +1,12 @@
 ---
-title: "Crédito extraordinário de R$ 5 bilhões para o setor de turismo"
+title: Crédito extraordinário de R$ 5 bilhões para o setor de turismo
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A [Medida Provisória nº 963](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv963.htm) abriu crédito extraordinário em favor do Ministério do Turismo no valor de R$ 5 bilhões de reais. 
 

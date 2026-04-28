@@ -1,11 +1,13 @@
 ---
-title: "Assinatura de Acordo de Cooperação Técnica entre a Procuradoria-Geral da União e o Exército Brasileiro"
+title: Assinatura de Acordo de Cooperação Técnica entre a Procuradoria-Geral da União
+  e o Exército Brasileiro
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 29 de setembro, foi assinado Acordo de Cooperação Técnica entre a Procuradoria-Geral da União, órgão de direção superior da Advocacia-Geral da União (AGU), e o Exército Brasileiro, representados no ato, respectivamente, pelo Procurador-Geral da União, Doutor **Marcelo Eugênio Feitosa Almeida**, e pelo Chefe do Gabinete do Comandante do Exército, General de Divisão **Francisco Humberto Montenegro Junior**.
 

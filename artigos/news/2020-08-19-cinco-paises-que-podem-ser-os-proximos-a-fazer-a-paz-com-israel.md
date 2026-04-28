@@ -1,11 +1,12 @@
 ---
-title: "Cinco países que podem ser os próximos a fazer a paz com Israel"
+title: Cinco países que podem ser os próximos a fazer a paz com Israel
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Alguns veem a decisão dos Emirados Árabes Unidos como um balão de ensaio e reagirão positivamente com base em como serão as próximas semanas e meses.
 

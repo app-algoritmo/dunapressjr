@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra operação Ikaro contra quadrilha de tráfico internacional de drogas"
+title: PF deflagra operação Ikaro contra quadrilha de tráfico internacional de drogas
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Salvador/BA – A Polícia Federal deflagrou, na manhã desta quarta-feira (10/6), a Operação Ikaro, com o objetivo de desarticular uma organização criminosa estabelecida na Bahia especializada no tráfico internacional de drogas. Como estratégia, o grupo usava o modal aéreo, cujo principal modus operandi era a cooptação de “mulas” para realização do transporte em voos comerciais para a Europa, sendo a droga, geralmente, escondida em bagagens.
 

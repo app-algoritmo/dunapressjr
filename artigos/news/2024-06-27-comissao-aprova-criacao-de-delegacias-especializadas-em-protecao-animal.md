@@ -1,12 +1,13 @@
 ---
-title: "Comissão aprova criação de delegacias especializadas em proteção animal"
+title: Comissão aprova criação de delegacias especializadas em proteção animal
 date: 2024-06-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara dos Deputados aprovou proposta que disciplina a criação e o funcionamento de delegacias especializadas em proteção animal, com a finalidade de atender animais vítimas de violência, maus-tratos, venda ilegal, prática de crime, exposição indevida e outras condutas cruéis.
 

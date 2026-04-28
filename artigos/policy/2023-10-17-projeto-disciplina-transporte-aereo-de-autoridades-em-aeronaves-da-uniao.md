@@ -1,11 +1,12 @@
 ---
-title: "Projeto disciplina transporte aéreo de autoridades em aeronaves da União"
+title: Projeto disciplina transporte aéreo de autoridades em aeronaves da União
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O transporte aéreo de autoridades em aeronaves de propriedade da União ou de suas entidades ou por elas fretadas somente poderá ser requerido pelo presidente ou vice-presidente da República, pelos presidentes do Senado Federal, da Câmara dos Deputados ou do Supremo Tribunal Federal, por ministro de Estado, por comandante de Força Armada ou pelo chefe do Estado-Maior Conjunto das Forças Armadas.
 

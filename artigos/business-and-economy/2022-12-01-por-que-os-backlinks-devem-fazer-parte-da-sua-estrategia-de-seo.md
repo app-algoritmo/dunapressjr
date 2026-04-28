@@ -1,11 +1,12 @@
 ---
-title: "Por que os backlinks devem fazer parte da sua estratégia de SEO"
+title: Por que os backlinks devem fazer parte da sua estratégia de SEO
 date: 2022-12-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 Backlinks são o que faz com que as estratégias de SEO sejam bem-sucedidas.
 

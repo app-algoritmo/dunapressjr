@@ -1,11 +1,12 @@
 ---
-title: "Inep divulga resultados brasileiros de pesquisa internacional de ensino e aprendizagem"
+title: Inep divulga resultados brasileiros de pesquisa internacional de ensino e aprendizagem
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 **No país, foram ouvidos 2.447 professores e diretores de 185 escolas da educação básica**
 

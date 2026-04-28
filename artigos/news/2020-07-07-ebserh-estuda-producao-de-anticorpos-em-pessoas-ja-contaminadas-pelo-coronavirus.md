@@ -1,11 +1,12 @@
 ---
-title: "Ebserh estuda produção de anticorpos em pessoas já contaminadas pelo coronavírus"
+title: Ebserh estuda produção de anticorpos em pessoas já contaminadas pelo coronavírus
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo do hucam-Ufes é saber como varia a defesa natural com o passar do tempo para, mais tarde, compará-la com o efeito de vacinas.
 

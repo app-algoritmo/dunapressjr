@@ -1,11 +1,12 @@
 ---
-title: "O que você percebe quando olha para essas fotos de guerra?"
+title: O que você percebe quando olha para essas fotos de guerra?
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A cidade portuária ucraniana de Odessa tornou-se alvo de um ataque russo na noite de sábado. Também é dito que houve danos a uma histórica catedral ortodoxa no centro da cidade.
 

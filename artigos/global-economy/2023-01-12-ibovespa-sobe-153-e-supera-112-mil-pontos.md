@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 1,53% e supera 112 mil pontos"
+title: Ibovespa sobe 1,53% e supera 112 mil pontos
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 5,18 e atinge menor valor em quase três semanas.
 

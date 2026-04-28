@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal revoga mais de 100 instruções normativas"
+title: Receita Federal revoga mais de 100 instruções normativas
 date: 2020-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medida faz parte de projeto que busca simplificar e racionalizar legislação do órgão
 

@@ -1,11 +1,12 @@
 ---
-title: "UFG desenvolve medicamento que reverte overdose de cocaína"
+title: UFG desenvolve medicamento que reverte overdose de cocaína
 date: 2019-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Lançamento no mercado depende de
 parceria com a indústria farmacêutica*

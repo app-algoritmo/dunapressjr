@@ -1,11 +1,13 @@
 ---
-title: "Inteligência dos EUA soube dos planos de Prigozhin em meados de junho, alertou Casa Branca"
+title: Inteligência dos EUA soube dos planos de Prigozhin em meados de junho, alertou
+  Casa Branca
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com o jornal, o plano de ação exato que Prigozhin pretendia realizar, bem como seu momento exato, ainda não está claro.
 

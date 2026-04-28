@@ -1,11 +1,12 @@
 ---
-title: "PF, PRF, e Brigada Militar apreendem 30 quilos de cocaína em carga de sal"
+title: PF, PRF, e Brigada Militar apreendem 30 quilos de cocaína em carga de sal
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pelotas/RS –  Ação integrada entre a Polícia
 Federal, Polícia Rodoviária Federal e Brigada Militar resultou na apreensão de

@@ -1,11 +1,12 @@
 ---
-title: "Ministério  Damares e CEF lançam parceria em Projeto Salve Uma Mulher"
+title: Ministério  Damares e CEF lançam parceria em Projeto Salve Uma Mulher
 date: 2020-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Caixa Econômica Federal (CEF) aderiu ao programa *Salve Uma Mulher*, iniciativa do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) que visa mobilizar a sociedade para o enfrentamento à violência contra as mulheres.
 

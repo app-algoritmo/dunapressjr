@@ -1,11 +1,12 @@
 ---
-title: "Guerra sombria entre Israel e Irã se transforma em conflito aberto"
+title: Guerra sombria entre Israel e Irã se transforma em conflito aberto
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O Estado judeu não vai esperar de braços cruzados até que o acordo nuclear falho entre o Irã e seis potências mundiais seja reativados.
 

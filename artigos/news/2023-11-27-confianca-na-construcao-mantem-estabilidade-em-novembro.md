@@ -1,11 +1,12 @@
 ---
-title: "Confiança na construção mantém estabilidade em novembro"
+title: Confiança na construção mantém estabilidade em novembro
 date: 2023-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## ICST registra leve variação de -0,1 ponto.
 

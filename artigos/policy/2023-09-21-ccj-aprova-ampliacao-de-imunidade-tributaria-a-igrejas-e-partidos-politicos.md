@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova ampliação de imunidade tributária a igrejas e partidos políticos"
+title: CCJ aprova ampliação de imunidade tributária a igrejas e partidos políticos
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta ainda vai passar por comissão especial e pelo Plenário.
 

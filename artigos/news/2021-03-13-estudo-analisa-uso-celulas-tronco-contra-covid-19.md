@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa uso células-tronco contra COVID-19"
+title: Estudo analisa uso células-tronco contra COVID-19
 date: 2021-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Conhecer a comunicação entre células de diferentes partes do corpo pode ser uma maneira de entender quais  são as moléculas liberadas durante a infecção pelo novo coronavírus. O estudo pode ajudar na aplicação de uma terapia desenvolvida a partir de células-tronco. O projeto da Escola Paulista de Medicina, da Universidade Federal de São Paulo (Unifesp), selecionado no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), tem o objetivo de compreender esse processo para poder enfrentar a COVID-19.
 

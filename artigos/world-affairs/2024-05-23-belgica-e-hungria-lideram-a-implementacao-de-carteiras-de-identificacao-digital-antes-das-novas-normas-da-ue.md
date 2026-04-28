@@ -1,11 +1,13 @@
 ---
-title: "Bélgica e Hungria Lideram a Implementação de Carteiras de Identificação Digital antes das Novas Normas da UE"
+title: Bélgica e Hungria Lideram a Implementação de Carteiras de Identificação Digital
+  antes das Novas Normas da UE
 date: 2024-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Bélgica e a Hungria estão na vanguarda da introdução de carteiras de identificação digital, antecipando-se aos regulamentos eIDAS 2.0 da União Europeia e às carteiras EUDI, que entram em vigor este mês.
 

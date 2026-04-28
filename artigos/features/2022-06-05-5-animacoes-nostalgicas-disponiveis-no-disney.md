@@ -1,12 +1,13 @@
 ---
-title: "5 animações nostálgicas disponíveis no Disney+"
+title: 5 animações nostálgicas disponíveis no Disney+
 date: 2022-06-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - Video library
+- Features
+- Video library
 ---
+
 
 **Quem não ama animações não é mesmo? Confira a seguir cinco séries animadas que vão te fazer voltar à infância!**
 

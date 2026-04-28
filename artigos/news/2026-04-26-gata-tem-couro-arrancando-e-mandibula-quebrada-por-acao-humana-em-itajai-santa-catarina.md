@@ -1,11 +1,13 @@
 ---
-title: "Gata tem couro arrancando e mandíbula quebrada por ação humana em Itajaí Santa Catarina"
+title: Gata tem couro arrancando e mandíbula quebrada por ação humana em Itajaí Santa
+  Catarina
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Urgente! lamentavelmente mais uma vítima da crueldade sem fim do ser humano aqui em Itajaí.**
 

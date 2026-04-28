@@ -1,11 +1,12 @@
 ---
-title: "A atuação dos departamentos de Trânsito, Resgate, Polícia e Bombeiros na Educação"
+title: A atuação dos departamentos de Trânsito, Resgate, Polícia e Bombeiros na Educação
 date: 2018-11-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 O sistema de educação infantil está pensado para o desenvolvimento do indivíduo enquanto cidadão. O foco está muito mais na competência social e nas habilidades da vida social cooperativa (sócio-cultural) de maneira que a grade curricular norueguesa enfatiza intensamente cinco áreas:
 

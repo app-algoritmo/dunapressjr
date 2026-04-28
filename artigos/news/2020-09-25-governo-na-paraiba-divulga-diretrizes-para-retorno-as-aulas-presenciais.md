@@ -1,11 +1,12 @@
 ---
-title: "Governo na Paraíba divulga Diretrizes para retorno às aulas presenciais"
+title: Governo na Paraíba divulga Diretrizes para retorno às aulas presenciais
 date: 2020-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Plano Novo Normal para a Educação da Paraíba.
 

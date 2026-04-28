@@ -1,11 +1,12 @@
 ---
-title: "Só o Povo salva o Povo"
+title: Só o Povo salva o Povo
 date: 2024-05-16
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ironicamente, foi preciso uma inundação para trazer à tona a verdade sobre o sistema de estado atual: caro, centralizado, burocrático, extremamente regulador e ineficaz. Organizado por um burocrata anônimo, e não pela sociedade presente nos acontecimentos, não estabelece vínculos entre os deveria entregar serviços com aqueles que os recebem e pagam os impostos.
 

@@ -1,11 +1,12 @@
 ---
-title: "“Seu sacrifício valeu a pena”, afirma Eduardo Bolsonaro ao seu pai"
+title: “Seu sacrifício valeu a pena”, afirma Eduardo Bolsonaro ao seu pai
 date: 2022-12-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Eduardo Bolsonaro usou as redes sociais poucas horas depois de seu pai embarcar para Orlando e disse se sentir “honrado” de fazer parte da história do país nos últimos quatro anos.
 

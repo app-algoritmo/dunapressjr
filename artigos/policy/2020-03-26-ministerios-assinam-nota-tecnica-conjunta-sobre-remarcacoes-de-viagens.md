@@ -1,11 +1,12 @@
 ---
-title: "Ministérios assinam nota técnica conjunta sobre remarcações de viagens"
+title: Ministérios assinam nota técnica conjunta sobre remarcações de viagens
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os ministérios do Turismo e da Justiça e Segurança Pública divulgaram, nesta segunda-feira (23.03), nota técnica conjunta que reforça a adesão de segmentos turísticos na plataforma oficial do governo [Consumidor.gov.br](https://www.consumidor.gov.br/). O site viabiliza a mediação entre as empresas e o consumidor em relação aos cancelamentos e remarcações de viagens e eventos causados pela pandemia do novo coronavírus. Clique [aqui](https://www.novo.justica.gov.br/news/mjsp-e-ministerio-do-turismo-divulgam-nota-tecnica-conjunta/nota-tecnica-no-11.pdf) e confira a nota na íntegra.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Parlamento britânico decidirá nesta segunda se governo pode votar acordo do Brexit novamente"
+title: Presidente do Parlamento britânico decidirá nesta segunda se governo pode votar
+  acordo do Brexit novamente
 date: 2019-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Câmara dos Comuns, John Bercow, afirmou que
 decidirá na segunda-feira se permitirá que o governo coloque em votação o

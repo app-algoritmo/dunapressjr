@@ -1,11 +1,13 @@
 ---
-title: "A maioria das mortes por COVID-19 pode ser resultado de uma infecção completamente diferente"
+title: A maioria das mortes por COVID-19 pode ser resultado de uma infecção completamente
+  diferente
 date: 2023-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## [O COVID-19](https://www.sciencealert.com/coronavirus) não é [mais classificado como uma emergência de saúde global](https://www.sciencealert.com/heres-what-it-means-that-the-who-says-covid-is-no-longer-a-global-health-emergency) pela [Organização Mundial da Saúde](https://www.sciencealert.com/what-does-the-world-health-organisation-do) , mas os cientistas ainda estão trabalhando duro para entender mais sobre o [vírus](https://www.sciencealert.com/virus) e seu impacto – incluindo como o [coronavírus](https://www.sciencealert.com/coronavirus) afeta o corpo e leva à morte.
 

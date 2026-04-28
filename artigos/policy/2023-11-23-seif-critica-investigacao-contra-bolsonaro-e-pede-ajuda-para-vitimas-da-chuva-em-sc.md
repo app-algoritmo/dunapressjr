@@ -1,11 +1,13 @@
 ---
-title: "Seif critica investigação contra Bolsonaro e pede ajuda para vítimas da chuva em SC"
+title: Seif critica investigação contra Bolsonaro e pede ajuda para vítimas da chuva
+  em SC
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif criticou o anúncio do Ministério Público Federal, feito na última sexta-feira (17), de que vai acompanhar o inquérito instaurado pela Polícia Federal para saber se o ex-presidente Jair Bolsonaro importunou uma baleia jubarte enquanto pilotava um jet ski no litoral paulista, em junho deste ano, no feriado de Corpus Christi. Em pronunciamento no Plenário nesta segunda-feira (20), o parlamentar disse "não acreditar" no tema investigado pela PF e afirmou que "as instituições estão desviando o foco de questões mais importantes para o país". Ele chamou a situação de "tragicômica":
 

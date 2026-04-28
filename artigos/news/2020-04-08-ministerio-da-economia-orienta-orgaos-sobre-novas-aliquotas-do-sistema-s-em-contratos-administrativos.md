@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Economia orienta órgãos sobre novas alíquotas do Sistema S em contratos administrativos"
+title: Ministério da Economia orienta órgãos sobre novas alíquotas do Sistema S em
+  contratos administrativos
 date: 2020-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida Provisória nº 932/2020 foi editada dentro do pacote emergencial de ações para o combate à Covid-19
 

@@ -1,11 +1,13 @@
 ---
-title: "Kremlin Repudia Declarações Ocidentais sobre Morte de Navalny como 'Raivosas' e 'Inaceitáveis'"
+title: Kremlin Repudia Declarações Ocidentais sobre Morte de Navalny como 'Raivosas'
+  e 'Inaceitáveis'
 date: 2024-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz do Kremlin, Dmitry Peskov, condenou veementemente as declarações vindas do Ocidente sobre a morte do ativista russo Alexey Navalny, caracterizando-as como "raivosas" e "totalmente inaceitáveis". Em meio à falta de informações oficiais sobre a causa da morte, Peskov enfatizou a ausência de relatórios médicos e periciais, tornando prematuras tais acusações.
 

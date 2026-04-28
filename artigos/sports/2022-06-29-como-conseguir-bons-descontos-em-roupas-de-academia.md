@@ -1,11 +1,12 @@
 ---
-title: "Como conseguir bons descontos em roupas de academia?"
+title: Como conseguir bons descontos em roupas de academia?
 date: 2022-06-29
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Sports
+- Sports
 ---
+
 
 Conseguir bons descontos em roupas de academia é o que você está procurando? Com essas dicas ficará fácil entender como econonizar comprando produtos bons e de qualidade.
 

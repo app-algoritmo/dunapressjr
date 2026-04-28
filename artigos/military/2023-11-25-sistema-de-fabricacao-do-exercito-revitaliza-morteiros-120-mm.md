@@ -1,11 +1,12 @@
 ---
-title: "Sistema de Fabricação do Exército revitaliza Morteiros 120 mm"
+title: Sistema de Fabricação do Exército revitaliza Morteiros 120 mm
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Sistema de Fabricação do Exército, por meio de seus arsenais de guerra, concluiu a manutenção e recuperação de 16 morteiros 120mm da 2ª Região Militar, no estado de São Paulo. Entre os dias 13 e 17 de novembro, uma equipe de engenheiros e técnicos militares realizaram uma série de testes e correções para solucionar avarias e recuperar em 100% da capacidade todas as peças de artilharia. 
 

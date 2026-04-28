@@ -1,12 +1,13 @@
 ---
-title: "Brasileiro sofre perseguição por denunciar rede criminosa em Portugal"
+title: Brasileiro sofre perseguição por denunciar rede criminosa em Portugal
 date: 2022-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Tourism and Gastronomy
+- News
+- Tourism and Gastronomy
 ---
+
 
 ## Vai mudar de país? cuidado com os enganos. Nestes tempos de mudan*ç*as são normais os desplazamentos de pessoas de um país ao outro. No entanto são cada vez mais as pessoas enganadas por estelionatários e vigaristas.
 

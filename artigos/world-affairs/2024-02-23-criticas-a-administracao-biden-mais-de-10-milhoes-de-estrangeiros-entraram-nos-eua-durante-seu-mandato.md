@@ -1,11 +1,13 @@
 ---
-title: "Críticas à Administração Biden: Mais de 10 Milhões de Estrangeiros Entraram nos EUA Durante seu Mandato"
+title: 'Críticas à Administração Biden: Mais de 10 Milhões de Estrangeiros Entraram
+  nos EUA Durante seu Mandato'
 date: 2024-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante o mandato do presidente Joe Biden, estima-se que mais de dez milhões de estrangeiros tenham ingressado nos Estados Unidos, sendo 7,2 milhões apenas pela fronteira com o México. Esses números alarmantes ultrapassam a população individual de muitos estados da União, lançando luz sobre a magnitude do desafio enfrentado pelas autoridades de imigração.
 

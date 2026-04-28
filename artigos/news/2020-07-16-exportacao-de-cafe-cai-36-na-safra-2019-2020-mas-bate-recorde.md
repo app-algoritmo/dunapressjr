@@ -1,11 +1,12 @@
 ---
-title: "Exportação de café cai 3,6% na safra 2019-2020, mas bate recorde"
+title: Exportação de café cai 3,6% na safra 2019-2020, mas bate recorde
 date: 2020-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Receita das vendas externas chegou a R$ 22,8 bilhões, com alta de 8,7%.
 

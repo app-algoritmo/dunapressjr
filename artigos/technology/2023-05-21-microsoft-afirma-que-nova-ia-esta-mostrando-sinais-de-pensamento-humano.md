@@ -1,11 +1,12 @@
 ---
-title: "Microsoft afirma que nova IA está mostrando sinais de pensamento humano"
+title: Microsoft afirma que nova IA está mostrando sinais de pensamento humano
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 *O desenvolvimento de modelos de IA para os principais idiomas começou por volta de 2017-2018 e já gerou modelos como o ChatGPT-4 da Open AI. Quão rápido e quão longe eles irão? No ritmo atual, a capacidade e os recursos estão dobrando a cada dois anos, em uma curva exponencial. Os pesquisadores estão descobrindo cada vez mais que a IA está se movendo em direção à senciência humana. ⁃ Editor TN*
 

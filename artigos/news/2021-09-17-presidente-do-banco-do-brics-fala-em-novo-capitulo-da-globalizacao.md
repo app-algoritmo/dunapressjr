@@ -1,11 +1,12 @@
 ---
-title: "Presidente do banco do Brics fala em 'novo capítulo da globalização'"
+title: Presidente do banco do Brics fala em 'novo capítulo da globalização'
 date: 2021-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Marcos Troyjo participou de audiência pública em comissão do Senado.
 

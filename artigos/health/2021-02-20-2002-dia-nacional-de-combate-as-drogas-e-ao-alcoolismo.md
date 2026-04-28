@@ -1,11 +1,12 @@
 ---
-title: "20/02 – Dia Nacional de Combate às Drogas e ao Alcoolismo"
+title: 20/02 – Dia Nacional de Combate às Drogas e ao Alcoolismo
 date: 2021-02-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O uso de álcool e de outras substâncias para busca de prazer ou para amenizar o sofrimento acompanha a história da humanidade desde seus primórdios. Às vezes, e para algumas pessoas, o uso pode gerar problemas como acidentes, desenvolvimento de dependência e danos ao organismo.
 

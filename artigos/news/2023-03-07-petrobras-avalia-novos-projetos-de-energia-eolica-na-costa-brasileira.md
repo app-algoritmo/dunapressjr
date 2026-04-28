@@ -1,11 +1,12 @@
 ---
-title: "Petrobras avalia novos projetos de energia eólica na costa brasileira"
+title: Petrobras avalia novos projetos de energia eólica na costa brasileira
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estatal firma acordo que amplia parceria com empresa privada.
 

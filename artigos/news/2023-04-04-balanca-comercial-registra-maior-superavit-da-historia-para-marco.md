@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra maior superávit da história para março"
+title: Balança comercial registra maior superávit da história para março
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Petróleo, milho e soja puxaram alta das exportações.
 

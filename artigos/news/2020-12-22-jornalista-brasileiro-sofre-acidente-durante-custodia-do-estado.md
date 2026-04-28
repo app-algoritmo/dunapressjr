@@ -1,11 +1,12 @@
 ---
-title: "Jornalista brasileiro sofre acidente durante custódia do Estado"
+title: Jornalista brasileiro sofre acidente durante custódia do Estado
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Jornalista e preso político na democrática república do Brasil |
 

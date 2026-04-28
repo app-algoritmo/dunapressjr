@@ -1,11 +1,13 @@
 ---
-title: "Alerta de Edward Dowd: Uma Chamada para um Reinício Económico Global Diante da Explosão da Dívida"
+title: 'Alerta de Edward Dowd: Uma Chamada para um Reinício Económico Global Diante
+  da Explosão da Dívida'
 date: 2024-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Edward Dowd, ex-gestor de fundos da BlackRock e fundador da Phinance Technologies, ecoa um alarme sobre a crescente dívida global, ultrapassando os 320 biliões de dólares, em uma entrevista franca com Greg Hunter. Dowd prevê que o dólar americano enfrentará um colapso inevitável devido a essa dívida inimaginável e insustentável, sinalizando a necessidade urgente de um "reset" no sistema económico.
 

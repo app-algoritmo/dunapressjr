@@ -1,11 +1,12 @@
 ---
-title: "Audiência pública debate Plano Nacional de Resíduos Sólidos"
+title: Audiência pública debate Plano Nacional de Resíduos Sólidos
 date: 2020-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plano Nacional de Resíduos Sólidos, conhecido como Planares, foi tema de audiência pública nesta sexta-feira (13). Previsto em lei, propõe metas para a melhoria da gestão de resíduos sólidos no Brasil, fornecendo diretrizes a serem seguidas e alcançadas com a responsabilidade compartilhada. É uma ferramenta fundamental para operacionalizar os direcionamentos da Política Nacional de Resíduos Sólidos (PNRS), lançada há 10 anos por meio de lei.
 

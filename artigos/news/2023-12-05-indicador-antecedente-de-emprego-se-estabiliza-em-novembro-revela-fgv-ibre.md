@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego se estabiliza em novembro, revela FGV IBRE"
+title: Indicador Antecedente de Emprego se estabiliza em novembro, revela FGV IBRE
 date: 2023-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mesmo com a estabilidade, perspectivas para o mercado de trabalho permanecem desafiadoras.
 

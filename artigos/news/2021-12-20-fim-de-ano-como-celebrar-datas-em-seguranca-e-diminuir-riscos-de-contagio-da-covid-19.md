@@ -1,11 +1,13 @@
 ---
-title: "Fim de ano: como celebrar datas em segurança e diminuir riscos de contágio da covid-19"
+title: 'Fim de ano: como celebrar datas em segurança e diminuir riscos de contágio
+  da covid-19'
 date: 2021-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após quase dois anos do início da pandemia, já é de conhecimento de todos como utilizar corretamente a máscara, o álcool em gel, assim como lavar as mãos e que é preciso evitar aglomerações. Com o avanço da vacinação e a diminuição dos casos ativos, o retorno de eventos com maior número de pessoas foi liberado em todo o país. Mesmo assim, o período de férias e fim de ano preocupam especialistas em relação ao possível aumento no número de casos. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Israel pronta para agir em Rafah, afirma Netanyahu"
+title: Israel pronta para agir em Rafah, afirma Netanyahu
 date: 2024-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro israelense Benjamin Netanyahu declarou a prontidão de Israel para tomar medidas na cidade de Rafah, localizada no sul da Faixa de Gaza. Falando em uma coletiva de imprensa, Netanyahu assegurou que Israel está empenhado em entregar ajuda humanitária a Rafah e que as Forças de Defesa de Israel (IDF) estão preparadas para evacuar os civis da área.
 

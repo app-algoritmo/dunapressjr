@@ -1,11 +1,12 @@
 ---
-title: "Vamos falar sobre sebos"
+title: Vamos falar sobre sebos
 date: 2019-02-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Primeiramente​ vamos tentar saber a origem da palavra, SEBO para as lojas de livros usados.
 

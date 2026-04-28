@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: 188.974 casos confirmados e 78.424 recuperados no Brasil"
+title: 'Coronavírus: 188.974 casos confirmados e 78.424 recuperados no Brasil'
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ate agora 41,5% dos pacientes estão recuperados da doença. Os dados foram atualizados até as 19h desta quarta-feira (13/5).
 

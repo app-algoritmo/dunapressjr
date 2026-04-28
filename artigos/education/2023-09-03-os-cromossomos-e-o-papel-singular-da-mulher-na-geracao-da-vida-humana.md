@@ -1,11 +1,12 @@
 ---
-title: "Os Cromossomos e o Papel Singular da Mulher na Geração da Vida Humana"
+title: Os Cromossomos e o Papel Singular da Mulher na Geração da Vida Humana
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## **Somente uma mulher é capaz de gerar um bebe humano**.
 

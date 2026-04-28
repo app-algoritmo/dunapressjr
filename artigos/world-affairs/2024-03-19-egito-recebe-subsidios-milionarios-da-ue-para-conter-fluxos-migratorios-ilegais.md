@@ -1,11 +1,12 @@
 ---
-title: "Egito Recebe Subsídios Milionários da UE para Conter Fluxos Migratórios Ilegais"
+title: Egito Recebe Subsídios Milionários da UE para Conter Fluxos Migratórios Ilegais
 date: 2024-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Egito adiciona-se à crescente lista de nações africanas que capitalizam sobre a imigração ilegal, com a aprovação de uma Europa que responde aos pedidos de seus líderes. Em uma demonstração de comprometimento financeiro, a presidente da Comissão Europeia, Ursula von der Leyen, concedeu ao Egipto uma soma substancial de mais de 7.000 milhões de euros, em resposta à ameaça persistente de uma grande onda de imigração ilegal para o continente europeu.
 

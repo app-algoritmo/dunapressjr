@@ -1,11 +1,12 @@
 ---
-title: "Tratamento com Ivermectina segue disponível no Centreventos e UBSs de Itajaí"
+title: Tratamento com Ivermectina segue disponível no Centreventos e UBSs de Itajaí
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Saúde informa que o tratamento profilático com ivermectina segue à disposição da população no Centreventos e nas Unidades Básicas de Saúde. Mais de dois milhões de comprimidos já foram entregues aos moradores.
 

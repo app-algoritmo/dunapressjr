@@ -1,11 +1,12 @@
 ---
-title: "Abono salarial: valores podem ser consultados a partir deste domingo"
+title: 'Abono salarial: valores podem ser consultados a partir deste domingo'
 date: 2023-02-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O benefício começa a ser pago em 15 de fevereiro.
 

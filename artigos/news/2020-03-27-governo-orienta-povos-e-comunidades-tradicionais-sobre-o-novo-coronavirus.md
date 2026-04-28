@@ -1,11 +1,12 @@
 ---
-title: "Governo orienta povos e comunidades tradicionais sobre o novo coronavírus"
+title: Governo orienta povos e comunidades tradicionais sobre o novo coronavírus
 date: 2020-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) preparou uma série de postagens de redes sociais com orientações para três grupos de povos e comunidades tradicionais: quilombolas, ciganos e indígenas. O objetivo é levar informações específicas a esses segmentos sobre a prevenção ao novo coronavírus (Covid-19).
 

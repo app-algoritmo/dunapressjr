@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que governo dá resposta certa a aumento de combustíveis"
+title: Ministro diz que governo dá resposta certa a aumento de combustíveis
 date: 2022-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Sachsida participou de audiência na Comissão de Defesa do Consumidor.
 

@@ -1,11 +1,12 @@
 ---
-title: "Medidas para reduzir o impacto do coronavírus foram foco da Caixa este ano"
+title: Medidas para reduzir o impacto do coronavírus foram foco da Caixa este ano
 date: 2020-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Entre as ações, o pagamento da primeira parcela do Auxílio Emergencial a mais de 52 milhões de brasileiros.
 

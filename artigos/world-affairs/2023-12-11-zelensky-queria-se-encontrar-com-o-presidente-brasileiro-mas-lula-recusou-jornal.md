@@ -1,11 +1,13 @@
 ---
-title: "Zelensky queria se encontrar com o presidente brasileiro, mas Lula recusou – jornal"
+title: Zelensky queria se encontrar com o presidente brasileiro, mas Lula recusou
+  – jornal
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo as fontes, o líder brasileiro não concordou com o encontro porque o pedido foi feito “no último momento”.
 

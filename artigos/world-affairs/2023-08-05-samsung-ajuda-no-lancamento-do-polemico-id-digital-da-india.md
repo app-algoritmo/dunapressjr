@@ -1,11 +1,12 @@
 ---
-title: "Samsung ajuda no lançamento do polêmico ID digital da Índia"
+title: Samsung ajuda no lançamento do polêmico ID digital da Índia
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em sua tentativa de se juntar ao esforço de digitalização do governo indiano, a Samsung está aprimorando a tecnologia de seus smartphones Galaxy, o que levanta uma série de preocupações com privacidade e vigilância. 
 

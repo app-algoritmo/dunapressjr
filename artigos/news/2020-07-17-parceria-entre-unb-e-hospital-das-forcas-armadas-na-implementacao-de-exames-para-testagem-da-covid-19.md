@@ -1,11 +1,13 @@
 ---
-title: "Parceria entre UnB e Hospital das Forças Armadas na implementação de exames para testagem da covid-19"
+title: Parceria entre UnB e Hospital das Forças Armadas na implementação de exames
+  para testagem da covid-19
 date: 2020-07-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Professor Ricardo Titze, da FAV, esteve à frente do treinamento de equipe da unidade, agora certificada para a realização dos testes.
 

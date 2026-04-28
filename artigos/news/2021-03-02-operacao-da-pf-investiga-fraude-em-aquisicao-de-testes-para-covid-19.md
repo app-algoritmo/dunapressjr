@@ -1,11 +1,12 @@
 ---
-title: "Operação da PF investiga fraude em aquisição de testes para covid-19"
+title: Operação da PF investiga fraude em aquisição de testes para covid-19
 date: 2021-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal e CGU tentam desarticular grupo no Maranhão.
 

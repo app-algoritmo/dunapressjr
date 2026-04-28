@@ -1,11 +1,12 @@
 ---
-title: "Ata do Copom veio com “termos mais condizentes”, afirma Ministro"
+title: Ata do Copom veio com “termos mais condizentes”, afirma Ministro
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Haddad pede ajuda ao Banco Central para coordenar políticas.
 

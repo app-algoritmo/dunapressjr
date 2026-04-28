@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra mais de 1 milhão de recuperados de Covid-19, diz ministério"
+title: Brasil registra mais de 1 milhão de recuperados de Covid-19, diz ministério
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Informações foram atualizadas até as 18h da quarta-feira (8). Quando considerado o parâmetro populacional, por milhão de habitantes, entre os países de todo o mundo, o Brasil ocupa a 10ª posição em relação aos casos (7.940) confirmados e a 12ª colocação no que se refere ao número de óbitos (318).
 

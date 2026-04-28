@@ -1,11 +1,13 @@
 ---
-title: "Operação Policial 'Correntes não Visíveis' combate tráfico internacional de pessoas"
+title: Operação Policial 'Correntes não Visíveis' combate tráfico internacional de
+  pessoas
 date: 2023-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal executa mandados de busca e apreensão em três cidades para desmantelar esquema de exploração sexual e trabalho forçado.
 

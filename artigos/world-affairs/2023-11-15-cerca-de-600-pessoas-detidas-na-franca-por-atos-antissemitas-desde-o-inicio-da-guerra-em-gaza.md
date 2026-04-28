@@ -1,11 +1,13 @@
 ---
-title: "Cerca de 600 pessoas detidas na França por atos antissemitas desde o início da guerra em Gaza"
+title: Cerca de 600 pessoas detidas na França por atos antissemitas desde o início
+  da guerra em Gaza
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro do Interior de França, Gérald Darmanin, informou esta terça-feira que **cerca de 600 pessoas foram detidas por cometerem atos antissemitas** desde o início da guerra em Gaza, após os ataques do movimento terrorista Hamas contra o território israelita.
 

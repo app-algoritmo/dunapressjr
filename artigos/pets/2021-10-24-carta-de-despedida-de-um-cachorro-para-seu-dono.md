@@ -1,11 +1,12 @@
 ---
-title: "Carta de despedida de um cachorro para seu dono"
+title: Carta de despedida de um cachorro para seu dono
 date: 2021-10-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 “Meu querido humano, vejo que você está chorando, pois chegou meu momento de partir."
 Não chore, por favor. Quero explicar a você algumas coisas.

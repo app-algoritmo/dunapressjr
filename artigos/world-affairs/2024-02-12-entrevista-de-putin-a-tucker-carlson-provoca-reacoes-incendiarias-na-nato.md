@@ -1,11 +1,12 @@
 ---
-title: "Entrevista de Putin a Tucker Carlson Provoca Reações Incendiárias na NATO"
+title: Entrevista de Putin a Tucker Carlson Provoca Reações Incendiárias na NATO
 date: 2024-02-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente **[entrevista do presidente russo, Vladimir Putin, ao jornalista norte-americano Tucker Carlson](https://dunapress.org/2024/02/09/entrevista-exclusiva-putin-revela-visao-sobre-eua-china-e-mudancas-climaticas/)** desencadeou uma onda de declarações incendiárias por parte dos apoiantes da OTAN nos meios de comunicação social. Florian Philippot, líder do partido Patriotas de França, descreveu a entrevista como um "verdadeiro golpe para a aliança", alegando que está causando uma reação adversa por desafiar a narrativa propagandística da OTAN.
 

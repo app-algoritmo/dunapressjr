@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública entrega viaturas para Guardas Civis Municipais de Pernambuco"
+title: Ministério da Justiça e Segurança Pública entrega viaturas para Guardas Civis
+  Municipais de Pernambuco
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria Nacional de Segurança Pública (Senasp), deu início nesta terça-feira (19), à entrega de 280 viaturas para as Guardas Civis Municipais de 54 cidades do estado de Pernambuco. Devido à pandemia do Covid-19, a cerimônia foi realizada por meio de videoconferência, e contou com a presença do secretário-executivo do MJSP, Tércio Tokano, o secretário Nacional de Segurança Pública Adjunto, Freibergue Rubem, o líder da Bancada Pernambucana na Câmara Federal, Augusto Coutinho, a prefeita de Lagoa do Carro (PE), Judith Botafogo e o vice-prefeito de Olinda (PE), Márcio Antoni Domingos Botelho.
 

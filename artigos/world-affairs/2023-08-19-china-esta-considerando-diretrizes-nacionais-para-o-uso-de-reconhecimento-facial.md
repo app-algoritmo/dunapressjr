@@ -1,11 +1,12 @@
 ---
-title: "China está considerando diretrizes nacionais para o uso de reconhecimento facial"
+title: China está considerando diretrizes nacionais para o uso de reconhecimento facial
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China lançou uma iniciativa nacional para buscar a opinião pública sobre projetos de regulamentação sobre tecnologia de reconhecimento facial. Esta é a primeira vez que o país tenta definir diretrizes nacionais abrangentes para o uso dessa tecnologia. 
 

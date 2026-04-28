@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que participou de manifestação contra cassação de Dallagnol"
+title: Girão diz que participou de manifestação contra cassação de Dallagnol
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) informou, em pronunciamento no Plenário nesta segunda-feira (5), que esteve presente em Curitiba no domingo (4) na manifestação contra a cassação da candidatura do deputado federal Deltan Dallagnol pelo Tribunal Superior Eleitoral (TSE). Para ele, Dallagnol é vítima de vingança de um sistema que ele classificou como “apodrecido”, existente no país.
 

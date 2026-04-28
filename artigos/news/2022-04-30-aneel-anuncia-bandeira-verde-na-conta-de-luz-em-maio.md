@@ -1,11 +1,12 @@
 ---
-title: "Aneel anuncia bandeira verde na conta de luz em maio"
+title: Aneel anuncia bandeira verde na conta de luz em maio
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Não haverá cobrança extra na conta de energia.
 

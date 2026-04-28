@@ -1,11 +1,12 @@
 ---
-title: "Como o cigarro prejudica quem está tratando um câncer"
+title: Como o cigarro prejudica quem está tratando um câncer
 date: 2021-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Receber o diagnóstico de câncer é algo difícil para qualquer pessoa. E mesmo sabendo da forte relação entre o tabagismo e essa doença, muitos pacientes tem dificuldade de parar de fumar.
 

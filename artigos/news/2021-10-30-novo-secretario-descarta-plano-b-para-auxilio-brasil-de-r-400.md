@@ -1,11 +1,12 @@
 ---
-title: "Novo secretário descarta Plano B para Auxílio Brasil de R$ 400"
+title: Novo secretário descarta Plano B para Auxílio Brasil de R$ 400
 date: 2021-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Elevação do teto permitirá sobra de R$ 10 bilhões em 2022.
 

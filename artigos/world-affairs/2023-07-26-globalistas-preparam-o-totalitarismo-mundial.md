@@ -1,11 +1,12 @@
 ---
-title: "Globalistas preparam o totalitarismo mundial"
+title: Globalistas preparam o totalitarismo mundial
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Os globalistas estão dando os passos finais para implementar o Grande Reset, seguido pelo totalitarismo mundial.**
 

@@ -1,11 +1,12 @@
 ---
-title: "O Pacto de Não Agressão Nazi-Soviético: Uma Aliança de Conveniência"
+title: 'O Pacto de Não Agressão Nazi-Soviético: Uma Aliança de Conveniência'
 date: 2024-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - History
+- History
 ---
+
 
 O Pacto de Não Agressão Nazi-Soviético, também conhecido como Pacto Molotov-Ribbentrop, foi um acordo surpreendente e estratégico entre duas potências ideologicamente opostas: a Alemanha Nazista e a União Soviética. Assinado em 23 de agosto de 1939, o pacto teve um impacto profundo e duradouro na geopolítica mundial, especialmente no contexto da Segunda Guerra Mundial.
 

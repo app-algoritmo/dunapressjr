@@ -1,11 +1,12 @@
 ---
-title: "Militares da FAB participam de campanha de doação de sangue"
+title: Militares da FAB participam de campanha de doação de sangue
 date: 2020-04-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os Militares da Guarnição de Aeronáutica de Porto Velho (RO) (GUARNAE-PV), juntamente com militares da Marinha do Brasil, do Exército Brasileiro, da Polícia Militar e do Corpo de Bombeiros do Estado de Rondônia iniciaram, no dia 2 de abril, uma campanha de doação de sangue na capital rondoniense.
 

@@ -1,11 +1,12 @@
 ---
-title: "Para quem interessa a cobrança do IPVA? – Deputado Luiz Philippe explica"
+title: Para quem interessa a cobrança do IPVA? – Deputado Luiz Philippe explica
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Somos um país com dezenas de impostos. Não temos nem noção do que pagamos, para que pagamos e o que é feito com nosso suado dinheiro. Nos roubam a oportunidade de investir por conta, buscar serviços que mais condizem com sua necessidade ou prioridade, bem como poupar para se tornar independente financeiramente em várias áreas da vida.
 

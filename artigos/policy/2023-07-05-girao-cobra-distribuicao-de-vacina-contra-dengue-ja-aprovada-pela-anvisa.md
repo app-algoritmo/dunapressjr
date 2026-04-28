@@ -1,11 +1,12 @@
 ---
-title: "Girão cobra distribuição de vacina contra dengue já aprovada pela Anvisa"
+title: Girão cobra distribuição de vacina contra dengue já aprovada pela Anvisa
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) cobrou em pronunciamento no Plenário na terça-feira (4) a rápida distribuição, pelo governo, da vacina contra dengue já aprovada pela Agência Nacional de Vigilância Sanitária (Anvisa). Para Girão, o governo federal não demonstra "nenhum interesse em incorporar a vacina ao Sistema Único de Saúde [SUS]". Ele ressaltou que a Anvisa já aprovou o registro da vacina Qdenga, com indicação para a população de 4 a 60 anos, mas ainda aguarda a análise da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec). 
 

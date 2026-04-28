@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Sul Considera Novas Compras de Ouro Após Aumento nos Preços"
+title: Coreia do Sul Considera Novas Compras de Ouro Após Aumento nos Preços
 date: 2024-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em 2011, quando os preços do ouro estavam em seu pico cíclico, a Coreia do Sul surpreendeu o mundo financeiro ao anunciar uma compra de ouro de mais de um bilhão de dólares, marcando seu retorno ao mercado após mais de uma década. Agora, com os preços do ouro atingindo novos recordes nas últimas semanas, o banco central sul-coreano está avaliando a possibilidade de novas aquisições a médio e longo prazo. Atualmente, o país detém 104,4 toneladas de ouro em suas reservas estrangeiras, representando 1,1% do total de suas reservas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesca ilegal liderada pela China ameaça Oceanos do mundo"
+title: Pesca ilegal liderada pela China ameaça Oceanos do mundo
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Já há algum tempo se sabe como os navios "piratas" praticam a pesca ilegal em alto mar não só de forma indiscriminada, como também recorrendo a técnicas enganosas para confundir radares ou mudar de bandeira para enganar outros sistemas de rastreamento. O resultado são saques de proporções gigantescas e o risco de conflitos políticos entre diversos países.
 

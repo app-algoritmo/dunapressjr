@@ -1,11 +1,12 @@
 ---
-title: "Donald Trump critica cobertura midiática"
+title: Donald Trump critica cobertura midiática
 date: 2024-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Donald Trump, ex-presidente dos Estados Unidos, está se preparando para concorrer novamente à Casa Branca nas eleições de novembro. Apesar das previsões da maioria das sondagens indicarem sua liderança, a retórica utilizada por Trump durante um comício em Ohio gerou controvérsia nos meios de comunicação. Trump afirmou que haveria um "banho de sangue" caso perdesse as eleições, porém, segundo seus apoiadores, a expressão foi utilizada no contexto da indústria automobilística, sendo equivalente a "desastre".
 

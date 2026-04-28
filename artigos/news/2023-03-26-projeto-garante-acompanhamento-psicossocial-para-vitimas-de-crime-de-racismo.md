@@ -1,11 +1,12 @@
 ---
-title: "Projeto garante acompanhamento psicossocial para vítimas de crime de racismo"
+title: Projeto garante acompanhamento psicossocial para vítimas de crime de racismo
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 749/23 assegura à pessoa vítima de crimes de racismo acompanhamento psicossocial com profissionais especializados ao longo de todos os atos processuais, cíveis e criminais.
 

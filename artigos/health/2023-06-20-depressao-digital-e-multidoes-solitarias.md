@@ -1,11 +1,12 @@
 ---
-title: "Depressão digital e multidões solitárias"
+title: Depressão digital e multidões solitárias
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Nossa sociedade está se desenvolvendo em velocidade recorde em um cosmos digital - uma sociedade em que a vida é amplamente digital. Na sociedade digital do futuro – de certa forma o futuro próximo – as pessoas estão trabalhando, festejando, jogando e amando online e até mesmo comendo comida impressa digitalmente.
 

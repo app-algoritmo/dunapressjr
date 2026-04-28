@@ -1,11 +1,12 @@
 ---
-title: "Problemas de visão em pacientes após vacinação contra COVID-19"
+title: Problemas de visão em pacientes após vacinação contra COVID-19
 date: 2023-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O deputado Mike Belcher (RN.H.) sofre de enxaqueca ocular há quase dois anos.
 

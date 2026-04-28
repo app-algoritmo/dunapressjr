@@ -1,11 +1,13 @@
 ---
-title: "Jornalista Alexandre Garcia fala sobre as oportunidades do Brasil e dispara no top trends"
+title: Jornalista Alexandre Garcia fala sobre as oportunidades do Brasil e dispara
+  no top trends
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Emocionou a platéia ao sugerir uma troca, "**Dois minutos para se pensar o Brasil**", e se destaca nas redes sociais situando-se nos assuntos mais comentados no** Twitter**.
 

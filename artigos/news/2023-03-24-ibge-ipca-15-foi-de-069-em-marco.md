@@ -1,11 +1,12 @@
 ---
-title: "IBGE: IPCA-15 foi de 0,69% em março"
+title: 'IBGE: IPCA-15 foi de 0,69% em março'
 date: 2023-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Índice de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,69% em março e ficou 0,07 ponto percentual (p.p.) abaixo do resultado de fevereiro (0,76%).
 

@@ -1,11 +1,12 @@
 ---
-title: "Mudanças nas normas cambiais abrem caminho para Pix internacional"
+title: Mudanças nas normas cambiais abrem caminho para Pix internacional
 date: 2021-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudança deve baratear e fortalecer pequenas transações entre moedas.
 

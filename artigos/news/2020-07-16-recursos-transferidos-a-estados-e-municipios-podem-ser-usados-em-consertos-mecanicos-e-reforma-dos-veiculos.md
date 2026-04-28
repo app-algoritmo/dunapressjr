@@ -1,11 +1,13 @@
 ---
-title: "Recursos transferidos a estados e municípios podem ser usados em consertos mecânicos e reforma dos veículos."
+title: Recursos transferidos a estados e municípios podem ser usados em consertos
+  mecânicos e reforma dos veículos.
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Para apoiar a política de transporte escolar nos estados e municípios brasileiros, o Fundo Nacional de Desenvolvimento da Educação (FNDE) liberou, no último dia 10 de junho, a sexta parcela do Programa Nacional de Apoio ao Transporte do Escolar (PNATE), no valor de R$ 70,8 milhões. A transferência é automática, sem necessidade de convênio, e os valores já estão disponíveis nas contas dos entes federativos.
 

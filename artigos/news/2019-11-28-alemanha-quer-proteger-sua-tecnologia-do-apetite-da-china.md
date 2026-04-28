@@ -1,11 +1,12 @@
 ---
-title: "Alemanha quer proteger sua tecnologia do apetite da China"
+title: Alemanha quer proteger sua tecnologia do apetite da China
 date: 2019-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo alemão quer reforçar o controle dos investimentos
 estrangeiros não europeus no setor sensível da alta tecnologia, uma medida

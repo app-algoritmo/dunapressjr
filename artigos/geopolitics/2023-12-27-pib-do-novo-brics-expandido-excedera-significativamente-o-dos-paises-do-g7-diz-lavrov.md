@@ -1,11 +1,13 @@
 ---
-title: "PIB do novo BRICS expandido excederá significativamente o dos países do G7, diz Lavrov"
+title: PIB do novo BRICS expandido excederá significativamente o dos países do G7,
+  diz Lavrov
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O principal diplomata russo observou que a participação dos países do Sul Global e do Leste Global na economia mundial em geral está a crescer.
 

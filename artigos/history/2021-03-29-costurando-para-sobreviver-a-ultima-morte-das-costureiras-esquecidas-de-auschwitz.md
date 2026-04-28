@@ -1,11 +1,13 @@
 ---
-title: "Costurando para sobreviver: a última morte das 'costureiras' esquecidas de Auschwitz"
+title: 'Costurando para sobreviver: a última morte das ''costureiras'' esquecidas
+  de Auschwitz'
 date: 2021-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## O último membro do 'círculo de costura' do campo de extermínio morre de complicações relacionadas ao COVID; livro de alto perfil baseado nas experiências das mulheres a ser publicado em setembro.
 

@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia com vitória no Australian Open"
+title: Luisa Stefani estreia com vitória no Australian Open
 date: 2024-01-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana vai buscar vaga nas oitavas de final já na noite desta quinta-feira (18) ao lado de holandesa Demi Schuurs. Luisa também estreia nas mistas com Rafael Matos.
 

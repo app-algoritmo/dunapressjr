@@ -1,11 +1,12 @@
 ---
-title: "PEC da Transição é promulgada pelo Congresso"
+title: PEC da Transição é promulgada pelo Congresso
 date: 2022-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As Mesas da Câmara dos Deputados e do Senado Federal promulgaram no final da noite desta quarta-feira (21) a PEC da Transição (PEC 32/22), que permite ao novo governo aumentar em R$ 145 bilhões o teto de gastos no Orçamento de 2023 para bancar despesas como o Bolsa Família, o Auxílio Gás, a Farmácia Popular e outras políticas públicas.
 

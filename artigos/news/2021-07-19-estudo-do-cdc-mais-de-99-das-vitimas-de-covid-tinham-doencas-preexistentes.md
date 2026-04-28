@@ -1,11 +1,12 @@
 ---
-title: "Estudo do CDC: Mais de 99% das vítimas de COVID tinham doenças preexistentes"
+title: 'Estudo do CDC: Mais de 99% das vítimas de COVID tinham doenças preexistentes'
 date: 2021-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Medo e ansiedade podem ser mortais quando se trata de COVID, descobriu um novo estudo, que mostra os principais fatores de risco para a morte por coronavírus.
 

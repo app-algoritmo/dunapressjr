@@ -1,11 +1,13 @@
 ---
-title: "Preocupações econômicas pioram, e bolsas de valores em todo o mundo tem dia sombrio"
+title: Preocupações econômicas pioram, e bolsas de valores em todo o mundo tem dia
+  sombrio
 date: 2020-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O medo de que a epidemia causada pelo novo coronavírus afete a economia global de maneira duradoura aumentou na segunda-feira, um dia sombrio para as bolsas de valores em todo o mundo, enquanto a Itália, por sua vez, estava parcialmente paralisada.
 

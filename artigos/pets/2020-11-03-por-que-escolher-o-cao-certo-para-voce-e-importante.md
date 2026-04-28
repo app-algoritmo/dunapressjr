@@ -1,11 +1,12 @@
 ---
-title: "Por que escolher o cão certo para você é importante"
+title: Por que escolher o cão certo para você é importante
 date: 2020-11-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Pets
+- Pets
 ---
+
 
 Cães vêm em todas as formas e tamanhos, de Wolfhounds irlandeses a Chihuahuas, com mais de 200 raças de cães reconhecidas apenas pelo Kennel Club. A coisa mais importante ao escolher um cão é olhar sensatamente para o seu estilo de vida e decidir qual raça se encaixa melhor. Os centros de resgate estão cheios de cães que as pessoas escolheram porque viram um na televisão e só mais tarde perceberam que eram inadequados.
 

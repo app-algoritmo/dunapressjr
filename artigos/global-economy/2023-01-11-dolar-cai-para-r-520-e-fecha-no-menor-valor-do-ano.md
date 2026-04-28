@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,20 e fecha no menor valor do ano"
+title: Dólar cai para R$ 5,20 e fecha no menor valor do ano
 date: 2023-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 1,55% e aproxima-se dos 111 mil pontos.
 

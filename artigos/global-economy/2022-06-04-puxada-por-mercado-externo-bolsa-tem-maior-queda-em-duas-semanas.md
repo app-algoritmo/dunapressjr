@@ -1,11 +1,12 @@
 ---
-title: "Puxada por mercado externo, bolsa tem maior queda em duas semanas"
+title: Puxada por mercado externo, bolsa tem maior queda em duas semanas
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Dólar caiu para R$ 4,77, mas tem primeira alta semanal desde maio.
 

@@ -1,11 +1,13 @@
 ---
-title: "Pequeno Cotolengo promove Festa de Natal com churrasco, apresentações e shows com artistas locais"
+title: Pequeno Cotolengo promove Festa de Natal com churrasco, apresentações e shows
+  com artistas locais
 date: 2023-11-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## A celebração também comemora o aniversário de 50 anos do tradicional churrasco da Organização. O evento acontece neste domingo, dia 03, a partir das 11h.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF investiga grupo responsável pelo tráfico de drogas em Pitangueiras/SP"
+title: PF investiga grupo responsável pelo tráfico de drogas em Pitangueiras/SP
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ribeirão Preto/SP - A Polícia Federal e o GAEGO/RP - Ministério Público Estadual, com o apoio da Polícia Militar, deflagraram nesta quinta-feira (25/6) a Operação Boca de Ouro, com o objetivo de combater o tráfico de drogas.
 

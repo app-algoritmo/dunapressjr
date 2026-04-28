@@ -1,11 +1,13 @@
 ---
-title: "Abordagem Editorial: O Caso Epstein nas Páginas do El País e as Alegações de Envolvimento com Trump"
+title: 'Abordagem Editorial: O Caso Epstein nas Páginas do El País e as Alegações
+  de Envolvimento com Trump'
 date: 2024-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um juiz de Nova Iorque (Estados Unidos) ordenou esta quarta-feira a desclassificação de mais de 2.000 páginas de documentos relacionados com o caso do bilionário Jeffrey Epstein, **acusado de pedofilia e tráfico de menores** e que em algum momento conviveu com personalidades como o príncipe André da Inglaterra – filho de Elizabeth II – e Bill Clinton.
 

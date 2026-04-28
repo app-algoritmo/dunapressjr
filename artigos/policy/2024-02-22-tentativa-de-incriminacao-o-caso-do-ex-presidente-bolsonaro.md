@@ -1,11 +1,12 @@
 ---
-title: "Tentativa de Incriminação: O Caso do Ex-Presidente Bolsonaro"
+title: 'Tentativa de Incriminação: O Caso do Ex-Presidente Bolsonaro'
 date: 2024-02-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O cenário político brasileiro mais uma vez se vê envolto em polêmicas e acusações, desta vez com a tentativa de incriminação do ex-presidente Jair Bolsonaro sem provas concretas. Na quinta-feira, 22 de fevereiro, Bolsonaro foi convocado a prestar depoimento à Polícia Federal (PF) em um inquérito que investiga uma suposta tentativa de golpe de Estado para mantê-lo no poder após as eleições de 2022.
 

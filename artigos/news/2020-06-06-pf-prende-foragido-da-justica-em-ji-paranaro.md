@@ -1,11 +1,12 @@
 ---
-title: "PF prende foragido da Justiça em Ji-Paraná/RO"
+title: PF prende foragido da Justiça em Ji-Paraná/RO
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO – A Polícia Federal deflagrou nesta sexta-feira (5/6) a Operação Multiple Identities, com o objetivo de dar cumprimento a mandados de prisão e de busca e apreensão em desfavor de indivíduo com antecedentes criminais por tráfico, roubo à mão armada e tentativa de sequestro de aeronave no Aeroporto José Coleto (JPR). 
 

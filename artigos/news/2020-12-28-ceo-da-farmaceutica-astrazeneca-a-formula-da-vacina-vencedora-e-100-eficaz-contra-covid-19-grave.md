@@ -1,11 +1,13 @@
 ---
-title: "CEO da farmacêutica AstraZeneca: A fórmula da vacina 'vencedora' é 100% eficaz contra COVID-19 grave"
+title: 'CEO da farmacêutica AstraZeneca: A fórmula da vacina ''vencedora'' é 100%
+  eficaz contra COVID-19 grave'
 date: 2020-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A vacina COVID-19 desenvolvida pelo grupo farmacêutico britânico AstraZeneca e pela Universidade de Oxford alcançou uma “fórmula vencedora” em eficácia, disse o presidente-executivo da empresa.
 

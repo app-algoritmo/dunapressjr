@@ -1,13 +1,14 @@
 ---
-title: "Por que as Crianças não Aprendem Educação Financeira nas Escolas"
+title: Por que as Crianças não Aprendem Educação Financeira nas Escolas
 date: 2023-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
-  - Financial Education
-  - Policy
+- Books
+- Financial Education
+- Policy
 ---
+
 
 A educação financeira é uma habilidade crucial para o sucesso na vida adulta, no entanto, muitas escolas ainda não incorporam de maneira adequada essa disciplina em seus currículos. O livro "Pai Rico, Pai Pobre" de Robert Kiyosaki oferece insights valiosos sobre o tema, destacando a importância de compreender as finanças desde cedo. Vamos explorar algumas razões pelas quais as crianças muitas vezes não aprendem educação financeira nas escolas, baseando-nos nas principais lições apresentadas na obra.
 

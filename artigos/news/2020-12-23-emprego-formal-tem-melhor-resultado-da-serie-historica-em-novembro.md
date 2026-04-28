@@ -1,11 +1,12 @@
 ---
-title: "Emprego formal tem melhor resultado da série histórica em novembro"
+title: Emprego formal tem melhor resultado da série histórica em novembro
 date: 2020-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Caged registra criação de 414,5 mil vagas com carteira assinada no mês.
 

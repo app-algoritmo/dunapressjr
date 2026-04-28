@@ -1,12 +1,14 @@
 ---
-title: "500 australianos se juntam ao primeiro processo de ação coletiva por lesão de vacina COVID do mundo"
+title: 500 australianos se juntam ao primeiro processo de ação coletiva por lesão
+  de vacina COVID do mundo
 date: 2023-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## A Dra. Melissa McCann levantou mais de $ 110.000 para financiar o caso, que acusa o governo australiano de negligência relacionada à aprovação e monitoramento das vacinas COVID-19.
 

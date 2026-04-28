@@ -1,11 +1,13 @@
 ---
-title: "A “guerra santa” de Israel contra Gaza já se expande para incluir a Síria e o Iémen"
+title: A “guerra santa” de Israel contra Gaza já se expande para incluir a Síria e
+  o Iémen
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Um porta-voz do Iêmen [confirmou que](https://halturnerradioshow.com/index.php/en/news-page/world/yemen-army-spox-we-have-launched-a-large-batch-of-missiles-at-israel-impact-time-30-minutes) o Exército do Iêmen se juntou à luta contra “o inimigo israelense nos territórios ocupados”.
 

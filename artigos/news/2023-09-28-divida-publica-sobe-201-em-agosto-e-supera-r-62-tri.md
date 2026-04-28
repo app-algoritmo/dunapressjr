@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública sobe 2,01% em agosto e supera R$ 6,2 tri"
+title: Dívida Pública sobe 2,01% em agosto e supera R$ 6,2 tri
 date: 2023-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Baixo volume de vencimento de títulos contribuiu para alta.
 

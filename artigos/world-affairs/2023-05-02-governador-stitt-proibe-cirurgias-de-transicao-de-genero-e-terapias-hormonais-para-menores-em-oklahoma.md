@@ -1,11 +1,13 @@
 ---
-title: "Governador Stitt proíbe cirurgias de transição de gênero e terapias hormonais para menores em Oklahoma"
+title: Governador Stitt proíbe cirurgias de transição de gênero e terapias hormonais
+  para menores em Oklahoma
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O governador Kevin Stitt sancionou a SB 613 em lei hoje, proibindo todas as cirurgias irreversíveis de transição de gênero e terapias hormonais para crianças menores de 18 anos.
 

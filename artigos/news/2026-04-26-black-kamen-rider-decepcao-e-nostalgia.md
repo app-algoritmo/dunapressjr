@@ -1,11 +1,12 @@
 ---
-title: "Black Kamen Rider: Decepção e  nostalgia"
+title: 'Black Kamen Rider: Decepção e  nostalgia'
 date: 2026-04-26
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 Esse reboot da nostálgica série da rede manchete foi repleto de ótimas atuações , boa fotografia, figurinos e maquiagem excelentes.
 

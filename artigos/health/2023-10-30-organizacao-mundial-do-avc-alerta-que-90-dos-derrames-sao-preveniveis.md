@@ -1,11 +1,12 @@
 ---
-title: "Organização Mundial do AVC alerta que 90% dos derrames são preveníveis"
+title: Organização Mundial do AVC alerta que 90% dos derrames são preveníveis
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Doença é uma das maiores causas de morte e incapacidade.
 

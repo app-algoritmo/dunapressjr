@@ -1,11 +1,12 @@
 ---
-title: "Correios ampliam produtos para captar doações e vendas online durante pandemia"
+title: Correios ampliam produtos para captar doações e vendas online durante pandemia
 date: 2020-06-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma nova solução dos Correios, para clientes que captam doações de recursos por meio de Mala Direta, está à disposição em tempos de pandemia. O serviço de [Entrega Digital](https://saladeimprensa.correios.com.br/noticias/2020/04/15/novas-solucoes-ampliam-a-comunicacao-digital-dos-clientes/) foi ampliado para que instituições religiosas, ONGs e hospitais, por exemplo, possam mobilizar a captação de recursos financeiros ou materiais, que auxiliam na manutenção dos projetos sociais que realizam esses entes.
 

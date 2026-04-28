@@ -1,11 +1,12 @@
 ---
-title: "ALPB cria comitê para debater retomada da economia no Estado"
+title: ALPB cria comitê para debater retomada da economia no Estado
 date: 2020-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Frente Parlamentar do Empreendedorismo e Desenvolvimento Econômico da Assembleia Legislativa da Paraíba (ALPB) realizou reunião remota, nesta sexta-feira (5), com objetivo de discutir o Plano de Retomada da Economia no Estado. Durante o debate, representantes do comércio paraibano, empresários e parlamentares definiram a criação de um comitê para contribuir com o retorno das atividades pós-pandemia do coronavírus (Covid-19).
 

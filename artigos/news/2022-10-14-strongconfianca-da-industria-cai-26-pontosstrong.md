@@ -1,11 +1,12 @@
 ---
-title: "<strong>Confiança da indústria cai 2,6 pontos</strong>"
+title: <strong>Confiança da indústria cai 2,6 pontos</strong>
 date: 2022-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisadores da CNI ouviram 1.459 empresas.
 

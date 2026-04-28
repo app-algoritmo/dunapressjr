@@ -1,11 +1,12 @@
 ---
-title: "Projeto propõe criação de delegacias especializadas em proteção animal"
+title: Projeto propõe criação de delegacias especializadas em proteção animal
 date: 2023-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 211/23 disciplina a criação e o funcionamento de Delegacias Especializadas em Proteção Animal (Depa), com a finalidade de atendimento de animais que tenham sido vítimas de violência, maus-tratos, venda ilegal, prática de crime, exposição indevida e outras condutas cruéis.
 

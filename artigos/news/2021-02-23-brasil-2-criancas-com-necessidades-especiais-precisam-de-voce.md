@@ -1,11 +1,12 @@
 ---
-title: "Brasil: 2 crianças com necessidades especiais precisam de você"
+title: 'Brasil: 2 crianças com necessidades especiais precisam de você'
 date: 2021-02-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Samuel(5) e Vitor(15) Bassani são dois irmãos com necessidades especiais. Samuel nasceu prematuro, teve paradas respiratórias, transfusões, hemorragias, paralisia cerebral e sofre de epilepsia. Vitor é deficiente mental, é epilético e sofre da síndrome de Sturge Webber. 
 

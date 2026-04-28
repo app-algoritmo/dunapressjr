@@ -1,11 +1,12 @@
 ---
-title: "Prosperidade e economia – 02 - Fluir da prosperidade financeira/dinheiro"
+title: Prosperidade e economia – 02 - Fluir da prosperidade financeira/dinheiro
 date: 2018-11-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Trabalhe para sua centelha divina. Siga sua intuição e não o ego (Entenda mais nos links ao final).
 

@@ -1,11 +1,13 @@
 ---
-title: "O fornecimento de petróleo iraniano para a China diminui enquanto Teerã exige preços mais altos"
+title: O fornecimento de petróleo iraniano para a China diminui enquanto Teerã exige
+  preços mais altos
 date: 2024-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## De acordo com a agência, em Novembro passado o Irã e a China fecharam acordos para o fornecimento de petróleo Brent com um desconto de 10 dólares por barril. No entanto, no início de Dezembro, Teerão informou Pequim que o desconto seria reduzido para 5-6 dólares para fornecimentos em Dezembro e Janeiro.
 

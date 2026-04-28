@@ -1,11 +1,13 @@
 ---
-title: "URGENTE: Brasil, Argentina, Uruguai e Paraguai somam quase 260 milhões de pessoas e é um mercado importante para a Noruega"
+title: 'URGENTE: Brasil, Argentina, Uruguai e Paraguai somam quase 260 milhões de
+  pessoas e é um mercado importante para a Noruega'
 date: 2019-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Em comunicado de imprensa oficial, agora há pouco, governo norueguês ratifica acordo de livre comércio entre EFTA (***European Free Trade Association***) E Mercosul.
 

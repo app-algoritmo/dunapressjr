@@ -1,11 +1,12 @@
 ---
-title: "Exercício no terreno para militares incorporados em 2020"
+title: Exercício no terreno para militares incorporados em 2020
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro ( RJ)** – Na quarta e quinta semanas de instrução, os Soldados do Efetivo Variável do 27° Batalhão de Infantaria Pára-Quedista (27º BI Pqdt), colocaram em prática, por meio de exercício no terreno realizado na Área de Instrução Coronel Ururahy (AICUR), os assuntos teóricos ministrados em sala de instrução.
 

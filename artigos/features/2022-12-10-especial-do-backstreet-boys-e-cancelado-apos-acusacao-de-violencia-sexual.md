@@ -1,12 +1,13 @@
 ---
-title: "Especial do Backstreet Boys é cancelado após acusação de violência sexual"
+title: Especial do Backstreet Boys é cancelado após acusação de violência sexual
 date: 2022-12-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Nick Carter é acusado de abuso sexual e nega acusação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Agroextrativismo brasileiro, uma indústria familiar em expansão"
+title: Agroextrativismo brasileiro, uma indústria familiar em expansão
 date: 2020-01-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 Neste artigo com o apoio da **Associação Aspacs**, apresentamos alguns produtos da Amazônia, extraídos diretamente da terra sem conservantes, corantes ou gorduras hidrogenadas, naturais e benéficos para a saúde humana na aplicação da medicina natural e em diversos tratamentos como,  rejuvenescimento, problemas dermatológicos, capilares, combate ao câncer de mama, saúde física, mental entre outros.
 

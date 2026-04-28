@@ -1,11 +1,12 @@
 ---
-title: "No Brasil, 76% das indústrias aplicam economia circular, diz pesquisa"
+title: No Brasil, 76% das indústrias aplicam economia circular, diz pesquisa
 date: 2019-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pesquisa da Confederação Nacional da Indústria (CNI) mostra
 que 76,4% das indústrias do país desenvolvem algum tipo de economia circular,

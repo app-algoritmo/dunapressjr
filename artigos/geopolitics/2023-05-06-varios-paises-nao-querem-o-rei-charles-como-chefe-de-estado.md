@@ -1,11 +1,12 @@
 ---
-title: "Vários países não querem o Rei Charles como chefe de Estado"
+title: Vários países não querem o Rei Charles como chefe de Estado
 date: 2023-05-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O primeiro-ministro da Nova Zelândia quer que o país se torne uma república. O governo da Austrália quer um referendo sobre a futura forma de governo.
 

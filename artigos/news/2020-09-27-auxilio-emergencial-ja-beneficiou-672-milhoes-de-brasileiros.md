@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Emergencial já beneficiou 67,2 milhões de brasileiros"
+title: Auxílio Emergencial já beneficiou 67,2 milhões de brasileiros
 date: 2020-09-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Caixa Econômica Federal alcançou, nesta sexta-feira (25), a marca de 304,5 milhões de pagamentos do Auxílio Emergencial, beneficiando 67,2 milhões de brasileiros. Os pagamentos somam investimento de R$ 207,9 bilhões disponibilizados pelo Governo Federal, com o objetivo de amenizar os impactos da crise da covid-19 na renda da população brasileira.
 

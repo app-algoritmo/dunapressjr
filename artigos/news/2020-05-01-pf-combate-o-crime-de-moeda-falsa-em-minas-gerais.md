@@ -1,11 +1,12 @@
 ---
-title: "PF combate o crime de moeda falsa em Minas Gerais"
+title: PF combate o crime de moeda falsa em Minas Gerais
 date: 2020-05-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Nesta quinta-feira (30/4), a Polícia Federal, em conjunto com as Polícias Civil e Militar de Minas Gerais, prendeu em flagrante um casal pelo crime de moeda falsa em Martinho Campos.
 

@@ -1,12 +1,14 @@
 ---
-title: "Arte da sustentabilidade: exposição gratuita apresenta itens decorativos inovadores feitos com resíduos da construção civil"
+title: 'Arte da sustentabilidade: exposição gratuita apresenta itens decorativos inovadores
+  feitos com resíduos da construção civil'
 date: 2024-02-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Events
+- Architecture and Art
+- Events
 ---
+
 
 ## Até 1.º de março, Instituto A.Yoshii destaca mais de 40 obras únicas criados nos projetos Obra&Arte e Criando Arte, em Londrina.
 

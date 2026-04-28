@@ -1,11 +1,12 @@
 ---
-title: "Consumo das famílias tem queda de 1,13% em setembro"
+title: Consumo das famílias tem queda de 1,13% em setembro
 date: 2021-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado de nove meses, o índice registrou alta de 3,13%.
 

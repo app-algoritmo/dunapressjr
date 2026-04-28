@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que Brasil “volta aos trilhos” com criação de empregos"
+title: Guedes diz que Brasil “volta aos trilhos” com criação de empregos
 date: 2020-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Suspensão de jornada poderá ser prorrogada por mais dois meses.
 

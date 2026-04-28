@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Governo Bolsonaro adquire 15 mil respiradores mecânicos para reforçar o atendimento no SUS"
+title: 'Coronavírus: Governo Bolsonaro adquire 15 mil respiradores mecânicos para
+  reforçar o atendimento no SUS'
 date: 2020-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde adquiriu mais 15 mil respiradores mecânicos, para ajudar pacientes graves de coronavírus (Covid-19). Os ventiladores ajudam pacientes que apresentam dificuldades respiratórias. Após a assinatura do contrato, feita no final de março, a empresa tem até 30 dias para entregar os equipamentos no Brasil.
 

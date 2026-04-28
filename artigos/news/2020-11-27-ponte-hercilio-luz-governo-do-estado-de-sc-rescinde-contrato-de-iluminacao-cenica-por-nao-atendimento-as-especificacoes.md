@@ -1,11 +1,13 @@
 ---
-title: "Ponte Hercílio Luz: Governo do Estado de SC, rescinde contrato de iluminação cênica por não atendimento às especificações"
+title: 'Ponte Hercílio Luz: Governo do Estado de SC, rescinde contrato de iluminação
+  cênica por não atendimento às especificações'
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo do Estado, por meio da Secretaria de Estado da Infraestrutura e Mobilidade (SIE), decidiu pela rescisão do contrato com a empresa Energiluz, responsável pela instalação da iluminação cênica na Ponte Hercílio Luz, em Florianópolis. O encerramento foi necessário, pois os equipamentos de iluminação adquiridos pela empresa (luminárias e projetores) não atendem às especificações previstas no edital de contratação, conforme projeto executivo da obra. A Secretaria abrirá processo para a contratação de novo fornecedor
 

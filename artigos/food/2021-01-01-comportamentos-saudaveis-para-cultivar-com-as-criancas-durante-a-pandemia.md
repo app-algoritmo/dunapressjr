@@ -1,11 +1,12 @@
 ---
-title: "Comportamentos saudáveis para cultivar com as crianças durante a pandemia"
+title: Comportamentos saudáveis para cultivar com as crianças durante a pandemia
 date: 2021-01-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 As famílias pelo mundo afora estão experimentando a nova realidade proporcionada pela chegada da Covid-19. As crianças estão se adaptando a uma vida mais caseira e virtual. Mas apesar do cenário parecer pouco propício, essa pode ser uma ótima oportunidade para a família ficar mais próxima e desenvolver em conjunto novas rotinas.
 

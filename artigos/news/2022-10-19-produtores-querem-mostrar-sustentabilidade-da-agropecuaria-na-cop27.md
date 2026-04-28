@@ -1,11 +1,12 @@
 ---
-title: "Produtores querem mostrar sustentabilidade da agropecuária na COP27"
+title: Produtores querem mostrar sustentabilidade da agropecuária na COP27
 date: 2022-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No Egito, produtores e governo vão mostrar potencial do país no setor.
 

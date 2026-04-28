@@ -1,11 +1,12 @@
 ---
-title: "Republicanos no Congresso dos EUA investigam a retirada do Afeganistão"
+title: Republicanos no Congresso dos EUA investigam a retirada do Afeganistão
 date: 2023-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Comissão de Relações Exteriores da Câmara dos Deputados dos Estados Unidos, agora controlada pelos republicanos, abriu uma investigação sobre [a caótica retirada de tropas](https://cnnespanol.cnn.com/2021/08/26/explosion-aeropuerto-kabul-afganistan-lo-que-sabemos-trax/) do Afeganistão sob o governo do presidente democrata Joe Biden.
 

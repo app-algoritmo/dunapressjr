@@ -1,11 +1,13 @@
 ---
-title: "Governo apresenta Centro de Coordenação das Operações do Comitê de Crise da Covid-19"
+title: Governo apresenta Centro de Coordenação das Operações do Comitê de Crise da
+  Covid-19
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta quarta-feira (25), foi apresentado à imprensa o Centro de Coordenação das Operações do Comitê de Crise da Covid-19, instalado na Sala de Reuniões Suprema, local de decisões máximas da Presidência da República, do Palácio do Planalto. Instituído por determinação do Presidente Jair Bolsonaro, o CCOP é subordinado ao Comitê de Crise da Covid-19, coordenado pela Casa Civil da Presidência da República, que articula e monitora as ações interministeriais de enfrentamento à pandemia.
 

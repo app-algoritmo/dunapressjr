@@ -1,11 +1,13 @@
 ---
-title: "HPV pode causar 6 tipos de câncer; vacina é a forma mais segura e eficaz de proteção"
+title: HPV pode causar 6 tipos de câncer; vacina é a forma mais segura e eficaz de
+  proteção
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cerca de 20% dos cânceres humanos são causados por vírus – e destes, 50% são provocados pelo papilomavírus humano (HPV). Esse vírus está envolvido em quase 100% dos casos de câncer de colo de útero, também chamado de câncer cervical, mas também pode levar a outros tipos de câncer, como anal, de vulva, de vagina, de pênis e de orofaringe. A vacina contra o HPV é a única forma de prevenir essas doenças e já se mostrou altamente segura e efetiva nos últimos 16 anos. O tema foi abordado na quarta (9) durante o workshop *Emerging Infectious Diseases: Biology, Prevention and Treatment*, sediado no Instituto Butantan e promovido pelo *International* *Centre for Genetic Engineering and Biotechnology* (ICGEB).
 

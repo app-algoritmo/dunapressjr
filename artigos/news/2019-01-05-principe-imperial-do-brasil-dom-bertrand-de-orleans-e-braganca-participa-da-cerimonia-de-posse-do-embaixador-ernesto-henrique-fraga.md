@@ -1,11 +1,13 @@
 ---
-title: "Príncipe Imperial do Brasil, Dom Bertrand de Orleans e Bragança, participa da cerimônia de posse do Embaixador Ernesto Henrique Fraga"
+title: Príncipe Imperial do Brasil, Dom Bertrand de Orleans e Bragança, participa
+  da cerimônia de posse do Embaixador Ernesto Henrique Fraga
 date: 2019-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Na última quarta-feira, dia 2, o Príncipe Imperial do Brasil, Dom Bertrand de Orleans e Bragança, foi especialmente convidado para a cerimônia de posse do Embaixador Ernesto Henrique Fraga Araújo como Ministro de Estado das Relações Exteriores, solenidade realizada no Palácio Itamaraty, Sede do Ministério das Relações Exteriores na Capital Federal, Brasília.**
 

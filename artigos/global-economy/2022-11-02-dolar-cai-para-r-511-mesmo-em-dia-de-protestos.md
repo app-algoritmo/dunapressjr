@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,11, mesmo em dia de protestos"
+title: Dólar cai para R$ 5,11, mesmo em dia de protestos
 date: 2022-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe 0,77% e atinge maior nível em dez dias.
 

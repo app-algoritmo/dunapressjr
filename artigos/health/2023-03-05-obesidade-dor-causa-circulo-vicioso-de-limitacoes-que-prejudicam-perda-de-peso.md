@@ -1,11 +1,13 @@
 ---
-title: "Obesidade: dor causa círculo vicioso de limitações que prejudicam perda de peso"
+title: 'Obesidade: dor causa círculo vicioso de limitações que prejudicam perda de
+  peso'
 date: 2023-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 "Perdi três anos com as limitações causadas pela dor. Não podia ir ao parque porque não conseguia caminhar muito nem ir ao cinema, pois era incômodo ficar muito tempo sentada. Agora estou recuperando o tempo perdido", conta a professora Anna Wisoczynski, 41 anos. O motivo da dor era uma hérnia de disco volumosa, que foi agravada por uma vida de sobrepeso. Com os quilos a mais vieram problemas de saúde como pressão alta e a piora da endometriose e hipotireoidismo. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo alarmante mostra um aumento repentino e sustentado de mortes e natimortos na Alemanha"
+title: Novo estudo alarmante mostra um aumento repentino e sustentado de mortes e
+  natimortos na Alemanha
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um novo estudo utilizou métodos atuariais de última geração para examinar as mortes na Alemanha. 
 

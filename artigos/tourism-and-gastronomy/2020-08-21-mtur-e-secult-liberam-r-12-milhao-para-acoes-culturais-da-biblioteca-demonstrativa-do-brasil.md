@@ -1,11 +1,13 @@
 ---
-title: "MTur e Secult liberam R$ 1,2 milhão para ações culturais da Biblioteca Demonstrativa do Brasil"
+title: MTur e Secult liberam R$ 1,2 milhão para ações culturais da Biblioteca Demonstrativa
+  do Brasil
 date: 2020-08-21
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Iniciativa faz parte do processo de reabertura e da comemoração do cinquentenário do local, comemorado em 2020.
 

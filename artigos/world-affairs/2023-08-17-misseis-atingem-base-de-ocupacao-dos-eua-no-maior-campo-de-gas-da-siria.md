@@ -1,11 +1,12 @@
 ---
-title: "Mísseis atingem base de ocupação dos EUA no maior campo de gás da Síria"
+title: Mísseis atingem base de ocupação dos EUA no maior campo de gás da Síria
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## *O ataque às tropas americanas no campo Conoco em Deir Ezzor ocorreu dois dias depois que o ISIS matou mais de duas dezenas de soldados do Exército Sírio na mesma região.*
 

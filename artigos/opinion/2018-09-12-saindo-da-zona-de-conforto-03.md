@@ -1,12 +1,13 @@
 ---
-title: "Saindo da zona de conforto! - 03"
+title: Saindo da zona de conforto! - 03
 date: 2018-09-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Em continuação aos dois artigos passados, de algumas semanas atrás, cujos links seguem ([https://dunapress.org/2018/08/02/saindo-da-zona-de-conforto-01](https://dunapress.org/2018/08/02/saindo-da-zona-de-conforto-01)/ - [https://dunapress.org/2018/08/08/saindo-da-zona-de-conforto-02/](https://dunapress.org/2018/08/08/saindo-da-zona-de-conforto-02/)), temos a lhe dizer:
 

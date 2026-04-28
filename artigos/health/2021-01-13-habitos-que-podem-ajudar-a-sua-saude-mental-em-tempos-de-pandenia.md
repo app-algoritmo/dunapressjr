@@ -1,11 +1,12 @@
 ---
-title: "Hábitos que podem ajudar a sua saúde mental em tempos de pandenia"
+title: Hábitos que podem ajudar a sua saúde mental em tempos de pandenia
 date: 2021-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No início de 2020 fomos surpreendidos com a chegada do novo Coronavírus, o agente que provoca a Covid-19, doença que afeta o sistema respiratório humano. Desde então, temos lidado com um turbilhão de sensações, que inclui o medo de adoecer, ou de ver algum ente querido adoecer, a preocupação ao sair de casa, a frustração de cancelar compromissos e a incerteza de quando tudo isso vai passar.
 

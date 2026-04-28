@@ -1,11 +1,12 @@
 ---
-title: "Censipam lança aplicativo para visualização de radares meteorológicos na Amazônia"
+title: Censipam lança aplicativo para visualização de radares meteorológicos na Amazônia
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Porto Velho, 27/02/2020 -**
 O Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam)

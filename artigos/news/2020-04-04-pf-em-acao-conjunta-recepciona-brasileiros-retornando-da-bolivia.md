@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, recepciona brasileiros retornando da Bolívia"
+title: PF, em ação conjunta, recepciona brasileiros retornando da Bolívia
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Corumbá/MS - A Polícia Federal, as Forças Armadas, a Receita Federal, a Polícia Rodoviária Federal, a Vigilância Sanitária, Órgãos de Segurança Pública e Órgãos de Saúde Pública Federais, Estaduais e Municipais realizaram um trabalho conjunto na recepção de 434 brasileiros que se encontravam em território boliviano.
 

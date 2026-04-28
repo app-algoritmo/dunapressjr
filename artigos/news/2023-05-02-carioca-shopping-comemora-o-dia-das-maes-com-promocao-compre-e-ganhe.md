@@ -1,11 +1,12 @@
 ---
-title: "Carioca Shopping comemora o Dia das Mães com promoção Compre e Ganhe"
+title: Carioca Shopping comemora o Dia das Mães com promoção Compre e Ganhe
 date: 2023-05-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## O cliente que juntar R$350 em compras poderá ganhar uma bolsa de mão Arezzo.
 

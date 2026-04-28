@@ -1,11 +1,12 @@
 ---
-title: "IPC-S: inflação recua nas sete capitais pesquisadas em janeiro"
+title: 'IPC-S: inflação recua nas sete capitais pesquisadas em janeiro'
 date: 2021-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na média nacional, o índice recuou 0,80 ponto percentual.
 

@@ -1,11 +1,12 @@
 ---
-title: "SP: Delegacias da Mulher vão ter acesso a monitoramento de agressores"
+title: 'SP: Delegacias da Mulher vão ter acesso a monitoramento de agressores'
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em uma semana, 11 infratores receberam tornozeleira eletrônica em audiência de custódia.
 

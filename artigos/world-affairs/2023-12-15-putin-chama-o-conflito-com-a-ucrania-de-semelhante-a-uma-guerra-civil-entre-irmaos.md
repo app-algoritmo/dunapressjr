@@ -1,11 +1,13 @@
 ---
-title: "Putin chama o conflito com a Ucrânia de semelhante a uma guerra civil entre irmãos"
+title: Putin chama o conflito com a Ucrânia de semelhante a uma guerra civil entre
+  irmãos
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder russo enfatizou que a constituição da Ucrânia “não previa qualquer terceiro turno”.
 

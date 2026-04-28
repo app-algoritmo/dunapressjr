@@ -1,11 +1,13 @@
 ---
-title: "São Paulo: Medidas para atenuar impactos da pandemia do coronavírus passam nas comissões permanentes"
+title: 'São Paulo: Medidas para atenuar impactos da pandemia do coronavírus passam
+  nas comissões permanentes'
 date: 2020-06-16
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 As comissões de Administração Pública e Relações do Trabalho (CAPRT), de Constituição, Justiça e Redação (CCJR) e de Finanças, Orçamento e Planejamento (CFOP), reunidas em Congresso de Comissões, finalizaram, nesta segunda-feira (15/6), a discussão e votação do Projeto de Lei 350/2020, de autoria coletiva, que cria mecanismos para o enfrentamento dos efeitos ocasionados pela Covid-19. A proposição deve ser votada em Plenário Virtual ainda nesta semana.
 

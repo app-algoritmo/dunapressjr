@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz a Brics que vacinas e recuperação econômica são prioridades"
+title: Guedes diz a Brics que vacinas e recuperação econômica são prioridades
 date: 2021-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro destacou importância de banco do bloco e pediu reforma no FMI.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saúde da mulher é mais do que cuidados ginecológicos"
+title: Saúde da mulher é mais do que cuidados ginecológicos
 date: 2021-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Tradicionalmente, nos sistemas de saúde por todo o mundo, a prioridade tem sido o cuidado da mulher no campo da saúde reprodutiva, com foco na atenção ao pré-natal e parto. É importante destacar que os serviços de saúde também ofertam ações relacionadas à promoção da saúde, a prevenção de agravos e doenças (cânceres de colo do útero e de mama, por exemplo), realização de vacinas, acompanhamento odontológico e nutricional, dentre outros.
 

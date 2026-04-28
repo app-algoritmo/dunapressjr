@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública lança aplicativo Sinesp Agente de Campo"
+title: Ministério da Justiça e Segurança Pública lança aplicativo Sinesp Agente de
+  Campo
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria Nacional de Segurança Pública (Senasp), lança, nesta segunda-feira (25), o aplicativo Sinesp Agente de Campo. Trata-se de uma ferramenta digital, rápida e gratuita para acesso policial imediato a mandados de prisão e para busca nacional de veículos roubados, entre outras operações cotidianas das polícias.
 

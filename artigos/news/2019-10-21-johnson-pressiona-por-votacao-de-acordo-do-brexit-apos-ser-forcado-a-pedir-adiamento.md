@@ -1,11 +1,13 @@
 ---
-title: "Johnson pressiona por votação de acordo do Brexit após ser forçado a pedir adiamento"
+title: Johnson pressiona por votação de acordo do Brexit após ser forçado a pedir
+  adiamento
 date: 2019-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O primeiro-ministro do Reino Unido, Boris Johnson, tentará
 submeter o acordo fechado com a União Europeia para a saída do Reino Unido do

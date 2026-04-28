@@ -1,11 +1,13 @@
 ---
-title: "Deputada Ana Campagnolo convida a população para se manifestar sobre a CPI do Aborto"
+title: Deputada Ana Campagnolo convida a população para se manifestar sobre a CPI
+  do Aborto
 date: 2022-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em vídeo a parlamentar convida a população a assistir de forma presencial ou online.
 

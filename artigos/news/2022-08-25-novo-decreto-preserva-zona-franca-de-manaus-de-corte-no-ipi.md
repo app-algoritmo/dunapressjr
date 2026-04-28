@@ -1,11 +1,12 @@
 ---
-title: "Novo decreto preserva Zona Franca de Manaus de corte no IPI"
+title: Novo decreto preserva Zona Franca de Manaus de corte no IPI
 date: 2022-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida atende a decisões recentes do Supremo Tribunal Federal.
 

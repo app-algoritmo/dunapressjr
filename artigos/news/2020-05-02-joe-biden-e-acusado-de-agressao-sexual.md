@@ -1,11 +1,12 @@
 ---
-title: "Joe Biden é acusado de agressão sexual"
+title: Joe Biden é acusado de agressão sexual
 date: 2020-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Tara Reade, 56, acusa o possível candidato democrata de ter agredido sexualmente em 1993, quando ele era senador e ela trabalhou para sua equipe em Washington.
 

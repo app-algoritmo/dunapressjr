@@ -1,11 +1,13 @@
 ---
-title: "Cleitinho critica Alexandre de Moraes por morte de preso do 8 de janeiro na Papuda"
+title: Cleitinho critica Alexandre de Moraes por morte de preso do 8 de janeiro na
+  Papuda
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) destacou em pronunciamento na terça-feira (21) a morte de Cleriston Pereira da Cunha, de 46 anos, que estava preso no Complexo Penitenciário da Papuda por conta da invasão e vandalismo das sedes dos três Poderes em 8 de janeiro. O parlamentar criticou o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), por ter pedido informações para averiguar possível falha dos agentes penitenciários. Para o senador, a falha foi do próprio ministro.
 

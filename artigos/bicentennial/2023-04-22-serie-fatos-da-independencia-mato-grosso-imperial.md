@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Mato Grosso Imperial?"
+title: 'Série Fatos Da Independência: Mato Grosso Imperial?'
 date: 2023-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A atitude da cidade de Mato Grosso é sintomática de uma série de questões: em primeiro lugar, revela aspectos sobre a sua localização e sobre todas as dificuldades pelas quais passou. Diante do seu próprio isolamento em solo brasileiro, a comunicação com as províncias da América hispânica certamente foi grande, o que permitiu contatos comerciais e políticos. Assim, a província estava muito mais próxima dos Vice-Reinos espanhóis do que das províncias brasileiras. Além do mais, cientes da demora na chegada das notícias ao outro lado do Brasil, os mato-grossenses não hesitaram em tomar uma decisão em caráter de urgência – não haveria tempo hábil, afinal, para consultar Dom Pedro.
 

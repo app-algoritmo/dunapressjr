@@ -1,12 +1,13 @@
 ---
-title: "República de Scholdra"
+title: República de Scholdra
 date: 2021-11-15
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
-  - History
+- Chronicle
+- History
 ---
+
 
 **ATUALIZAÇÃO DOS ATOS REPUBLICANOS**
 

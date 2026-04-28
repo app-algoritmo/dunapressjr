@@ -1,11 +1,12 @@
 ---
-title: "Instalação e uso correto do ar-condicionado fazem a diferença na conta de luz"
+title: Instalação e uso correto do ar-condicionado fazem a diferença na conta de luz
 date: 2023-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Mesmo após o fim do verão, o ar-condicionado se torna um grande aliado para manter o ambiente, seja fresco ou aquecido. A Câmara de Comercialização de Energia Elétrica (CCEE) anunciou um aumento no consumo de energia elétrica em todo o Brasil, na primeira quinzena de fevereiro, na comparação com o mesmo período de 2022, impulsionado pelo mercado das distribuidoras. As temperaturas mais altas em relação ao ano passado levaram a um maior uso de aparelhos de ar-condicionado, o que ajuda a explicar o resultado, de acordo com a entidade. O Conselho Regional de Engenharia e Agronomia do Paraná (CREA-PR) ressalta a importância de contar com profissionais especializados no projeto, na instalação e na manutenção periódica desses sistemas. 
 

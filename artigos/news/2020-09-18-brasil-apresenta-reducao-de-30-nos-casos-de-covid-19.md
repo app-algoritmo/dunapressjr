@@ -1,11 +1,12 @@
 ---
-title: "Brasil apresenta redução de 30% nos casos de Covid-19"
+title: Brasil apresenta redução de 30% nos casos de Covid-19
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Novo Boletim Epidemiológico também apresentou queda de 13% no número de óbitos, a maior registrada até o momento*
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA e Reino Unido aumentarão visitas de seus submarinos à Austrália"
+title: EUA e Reino Unido aumentarão visitas de seus submarinos à Austrália
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## A próxima visita de um submarino dos EUA está prevista para ocorrer no primeiro semestre de 2024.
 

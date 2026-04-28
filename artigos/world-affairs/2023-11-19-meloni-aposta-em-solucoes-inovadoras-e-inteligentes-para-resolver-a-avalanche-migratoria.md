@@ -1,11 +1,13 @@
 ---
-title: "Meloni aposta em soluções “inovadoras e inteligentes” para resolver a avalanche migratória"
+title: Meloni aposta em soluções “inovadoras e inteligentes” para resolver a avalanche
+  migratória
 date: 2023-11-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A primeira-ministra de Itália, Giorgia Meloni, garantiu que o acordo de envio de requerentes de asilo para a Albânia é “inovador” e “inteligente” e foi recebido “ **com grande interesse” por outros parceiros europeus, razão pela qual considera mesmo que “ pode ser um exemplo a replicar se funcionar" para outros países da UE.**
 

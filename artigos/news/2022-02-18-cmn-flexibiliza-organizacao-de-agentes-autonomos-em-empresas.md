@@ -1,11 +1,12 @@
 ---
-title: "CMN flexibiliza organização de agentes autônomos em empresas"
+title: CMN flexibiliza organização de agentes autônomos em empresas
 date: 2022-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Profissionais atuam na venda de títulos e de fundos.
 

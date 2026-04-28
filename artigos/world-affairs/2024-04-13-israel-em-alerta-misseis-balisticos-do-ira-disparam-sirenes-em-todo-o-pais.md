@@ -1,11 +1,12 @@
 ---
-title: "Israel em Alerta: Mísseis Balísticos do Irã Disparam Sirenes em Todo o País"
+title: 'Israel em Alerta: Mísseis Balísticos do Irã Disparam Sirenes em Todo o País'
 date: 2024-04-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Sirenes estridentes e estrondos ensurdecedores ecoaram por todo Israel quando o Irã lançou dezenas de mísseis balísticos em uma escalada repentina de hostilidades. A Força de Defesa de Israel (IDF) rapidamente entrou em ação, interceptando os mísseis antes que pudessem causar danos catastróficos.
 

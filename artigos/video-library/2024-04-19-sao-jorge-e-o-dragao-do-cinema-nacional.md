@@ -1,11 +1,12 @@
 ---
-title: "São Jorge e o dragão do cinema nacional"
+title: São Jorge e o dragão do cinema nacional
 date: 2024-04-19
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Video library
+- Video library
 ---
+
 
 Acabo de vir da sessão de estreia do filme “Jorge da Capadócia”, de Alexandre Machafer. Dia 23 é dia de São Jorge, e evidentemente não há melhor data para o lançamento nos cinemas. Por nenhum momento cheguei a duvidar de que esta obra de arte do jovem, mas talentoso e inteligente diretor fosse fugir às minhas expectativas. 
 

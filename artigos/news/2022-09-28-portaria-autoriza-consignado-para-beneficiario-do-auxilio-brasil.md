@@ -1,11 +1,12 @@
 ---
-title: "Portaria autoriza consignado para beneficiário do Auxílio Brasil"
+title: Portaria autoriza consignado para beneficiário do Auxílio Brasil
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Limite máximo de juros cobrado será de 3,5% ao mês.
 

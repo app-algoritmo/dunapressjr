@@ -1,11 +1,12 @@
 ---
-title: "PF combate evasão de divisas na fronteira com a Bolívia"
+title: PF combate evasão de divisas na fronteira com a Bolívia
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Corumbá/MS - A Polícia Federal deflagrou nesta quarta-feira (17/06), nas cidades de Corumbá/MS e Imperatriz/MA, a Operação Hipócrates, com a finalidade de desarticular organização criminosa voltada à lavagem de capitais e evasão de divisas. Foram empregados 30 policiais federais para o cumprimento de cinco mandados de prisão preventiva e cinco de busca e apreensão. Simultaneamente, foram realizados o sequestro de bens móveis e imóveis, o bloqueio de contas e a suspensão da atividade econômica das empresas constituídas pelos investigados. As ordens judiciais foram expedidas pelo Juízo da 3ª Vara Federal de Campo Grande/MS.
 

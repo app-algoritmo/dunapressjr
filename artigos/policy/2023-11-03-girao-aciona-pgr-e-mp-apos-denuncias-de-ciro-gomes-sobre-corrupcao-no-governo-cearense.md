@@ -1,11 +1,13 @@
 ---
-title: "Girão aciona PGR e MP após denúncias de Ciro Gomes sobre corrupção no governo cearense"
+title: Girão aciona PGR e MP após denúncias de Ciro Gomes sobre corrupção no governo
+  cearense
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento no Plenário nesta terça-feira (31), manifestou apoio às denúncias feitas pelo ex-candidato à Presidência da República Ciro Gomes contra o governo de Camilo Santana no Ceará. Atualmente senador afastado para exercer o cargo de ministro da Educação, Camilo foi governador do Ceará por dois mandatos, de 2015 a 2022. De acordo com Girão, a fala ocorreu durante encontro do PSDB em Fortaleza. 
 

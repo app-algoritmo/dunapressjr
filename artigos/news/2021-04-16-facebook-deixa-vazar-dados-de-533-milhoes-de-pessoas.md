@@ -1,11 +1,12 @@
 ---
-title: "Facebook deixa vazar dados de 533 milhões de pessoas"
+title: Facebook deixa vazar dados de 533 milhões de pessoas
 date: 2021-04-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os dados expostos incluem informações pessoais de mais de 533 milhões de usuários do Facebook de 106 países, incluindo mais de 32 milhões de postagens em usuários nos Estados Unidos, 11 milhões em usuários no Reino Unido e 6 milhões em usuários na Índia. Inclui números de telefone, IDs do Facebook, nomes completos, locais, datas de nascimento, arquivos biológicos e - em alguns casos - endereços de e-mail.
 

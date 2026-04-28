@@ -1,11 +1,13 @@
 ---
-title: "Julgamento de ações sobre cumprimento da pena após condenação em segunda instância continuará na quarta-feira (23)"
+title: Julgamento de ações sobre cumprimento da pena após condenação em segunda instância
+  continuará na quarta-feira (23)
 date: 2019-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Na sessão desta quinta-feira(17), após a leitura do relatório, falaram os representantes dos autores das ações e das entidades com interesse na questão admitidas pelo relator para manifestar seus pontos de vista no plenário.
 

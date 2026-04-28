@@ -1,11 +1,12 @@
 ---
-title: "Confiança da construção cai 0,8 ponto em março"
+title: Confiança da construção cai 0,8 ponto em março
 date: 2022-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Com o recuo, índice atinge 92,9 pontos em uma escala de 0 a 200.
 

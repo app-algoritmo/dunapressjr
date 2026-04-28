@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia realiza audiência pública para a privatização da Ceasaminas"
+title: Ministério da Economia realiza audiência pública para a privatização da Ceasaminas
 date: 2021-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Etapa precede envio do processo ao Tribunal de Contas da União; expectativa é de que leilão ocorra no primeiro trimestre de 2022.
 

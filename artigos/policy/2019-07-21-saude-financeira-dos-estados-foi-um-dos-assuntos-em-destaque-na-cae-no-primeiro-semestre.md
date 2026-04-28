@@ -1,11 +1,13 @@
 ---
-title: "Saúde financeira dos estados foi um dos assuntos em destaque na CAE no primeiro semestre"
+title: Saúde financeira dos estados foi um dos assuntos em destaque na CAE no primeiro
+  semestre
 date: 2019-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 No primeiro semestre, a Comissão de Assuntos Econômicos (CAE) aprovou projetos voltados para a saúde financeira de estados e para a saúde das mulheres, entre outras propostas.
 

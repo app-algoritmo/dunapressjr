@@ -1,11 +1,13 @@
 ---
-title: "O principal analista de seguros diz que 600.000 americanos morrem de vacinas Covid por ano"
+title: O principal analista de seguros diz que 600.000 americanos morrem de vacinas
+  Covid por ano
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *A guerra global travada pelos proponentes da tecnocracia é confirmada pelo acúmulo de cadáveres. Simplesmente não se pode dizer que essas mortes em excesso são meramente acidentais ou devidas ao azar da Big Pharma. Em vez disso, o mundo é invadido descaradamente. O fato de os programas de vacinas de mRNA não estarem sendo interrompidos é evidência de intenção maliciosa.⁃ Editor TN*
 

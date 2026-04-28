@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em alta e aproxima-se de R$ 5,40 após seis dias de queda"
+title: Dólar fecha em alta e aproxima-se de R$ 5,40 após seis dias de queda
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa caiu 1,13% em dia de realização de lucros.
 

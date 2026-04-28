@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora brasileira cria tijolo sustentável"
+title: Pesquisadora brasileira cria tijolo sustentável
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste domingo, 5 de junho, são comemorados o Dia Mundial do Meio Ambiente e o Dia Nacional da Reciclagem. As datas possuem um propósito comum: conscientizar a população sobre a importância da preservação do meio ambiente e dos recursos naturais. Trata-se de uma temática de peso para a CAPES, que apoia diversos projetos que visam à redução dos impactos ambientais e incentivam a reciclagem de resíduos e materiais.
 

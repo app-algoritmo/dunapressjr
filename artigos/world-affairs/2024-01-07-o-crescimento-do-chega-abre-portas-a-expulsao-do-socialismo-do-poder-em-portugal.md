@@ -1,11 +1,12 @@
 ---
-title: "O crescimento do CHEGA abre portas à expulsão do socialismo do poder em Portugal"
+title: O crescimento do CHEGA abre portas à expulsão do socialismo do poder em Portugal
 date: 2024-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Partido Socialista (PS) de Portugal caiu drasticamente na intenção de voto, mas venceria as eleições de 10 de março com 34,1% dos votos e 97 assentos. O Partido Social Democrata, parceiro do PP, **necessitaria absolutamente do apoio do CHEGA** , que já conta com 16,3% dos votos.
 

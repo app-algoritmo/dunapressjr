@@ -1,11 +1,13 @@
 ---
-title: "Os preços dos alimentos estão incrivelmente altos agora, mas estão prestes a subir mais"
+title: Os preços dos alimentos estão incrivelmente altos agora, mas estão prestes
+  a subir mais
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos últimos anos, os preços dos alimentos nos Estados Unidos e em outros países ricos aumentaram a taxas sem precedentes. Infelizmente, este é apenas o começo. Os suprimentos globais de alimentos estão se tornando cada vez mais escassos, enquanto, ao mesmo tempo, a demanda global por alimentos continua a aumentar. Durante décadas, muitos na elite estavam otimistas de que um dia seríamos capazes de eliminar completamente a fome no mundo porque grandes avanços estavam sendo feitos. No entanto, por volta de 2015, a maré começou a se inverter e agora a tendência está indo exatamente na direção errada. [Segundo as Nações Unidas , 2,4 bilhões de pessoas](http://theeconomiccollapseblog.com/store-food-while-you-still-can-because-2-4-billion-people-already-do-not-have-enough-food-as-this-new-global-famine-accelerates/) não tiveram o suficiente para comer no ano passado , e [900 milhões delas](http://theeconomiccollapseblog.com/store-food-while-you-still-can-because-2-4-billion-people-already-do-not-have-enough-food-as-this-new-global-famine-accelerates/)estavam gravemente em situação de insegurança alimentar. Esses números quase certamente serão maiores este ano, pois os países pobres encontram cada vez mais dificuldade para obter os alimentos de que precisam para alimentar suas populações.
 

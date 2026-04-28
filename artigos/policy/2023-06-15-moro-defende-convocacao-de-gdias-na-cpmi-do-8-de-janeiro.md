@@ -1,11 +1,12 @@
 ---
-title: "Moro defende convocação de GDias na CPMI do 8 de Janeiro"
+title: Moro defende convocação de GDias na CPMI do 8 de Janeiro
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sérgio Moro (União-PR) defendeu, em pronunciamento no Plenário nesta quarta-feira (14), a convocação do general Marco Edson Gonçalves Dias, ex-ministro do Gabinete de Segurança Institucional (GSI) da Presidência da República, para prestar esclarecimentos sobre sua atuação no dia dos ataques de 8 de janeiro aos Poderes da República. A CPMI do 8 de Janeiro rejeitou requerimento nesse sentido, mas Moro anunciou ter apresentado novo pedido para que o general preste depoimento. GDias, como é conhecido, foi exonerado do GSI após os ataques. 
 

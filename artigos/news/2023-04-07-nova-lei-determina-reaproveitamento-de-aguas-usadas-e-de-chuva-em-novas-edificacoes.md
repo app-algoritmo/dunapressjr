@@ -1,11 +1,12 @@
 ---
-title: "Nova lei determina reaproveitamento de águas usadas e de chuva em novas edificações"
+title: Nova lei determina reaproveitamento de águas usadas e de chuva em novas edificações
 date: 2023-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A [Lei 14.546/23](https://www2.camara.gov.br/legin/fed/lei/2023/lei-14546-4-abril-2023-794007-norma-pl.html), publicada no Diário Oficial da União desta quarta-feira (5), obriga o governo federal a estimular o uso de água das chuvas e o reaproveitamento não potável das águas cinzas em novas edificações e em atividades paisagísticas, agrícolas, florestais e industriais. As águas cinzas são as já utilizadas em chuveiros, pias, tanques e máquinas de lavar.
 

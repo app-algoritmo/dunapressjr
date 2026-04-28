@@ -1,11 +1,12 @@
 ---
-title: "Marinha britânica protegerá águas de pesca em caso de não acordo no Brexit"
+title: Marinha britânica protegerá águas de pesca em caso de não acordo no Brexit
 date: 2020-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Quatro navios de patrulha da Marinha Real estarão prontos em 1º de janeiro para ajudar a proteger as águas pesqueiras da Grã-Bretanha caso o período de transição do Brexit termine sem um acordo sobre futuros laços com a União Europeia, disse o Ministério da Defesa (MOD).
 

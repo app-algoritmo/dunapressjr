@@ -1,11 +1,12 @@
 ---
-title: "Suzano, tragédia em são Paulo. Extremistas culpam governo"
+title: Suzano, tragédia em são Paulo. Extremistas culpam governo
 date: 2019-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Assista coletiva no canal folha Brasil
 

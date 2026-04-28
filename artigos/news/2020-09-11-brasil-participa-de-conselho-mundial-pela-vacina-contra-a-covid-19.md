@@ -1,11 +1,12 @@
 ---
-title: "Brasil participa de conselho mundial pela vacina contra a Covid-19"
+title: Brasil participa de conselho mundial pela vacina contra a Covid-19
 date: 2020-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministro Eduardo Pazuello afirmou que o País estará ao lado de iniciativas que promovam o acesso justo a diagnósticos, tratamentos e vacinas. Objetivo da iniciativa é acelerar o fim da crise, apoiando o desenvolvimento e a distribuição de testes, tratamentos e vacinas. 
 

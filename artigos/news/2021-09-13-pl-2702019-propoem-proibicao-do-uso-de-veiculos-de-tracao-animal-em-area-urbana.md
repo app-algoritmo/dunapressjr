@@ -1,11 +1,13 @@
 ---
-title: "PL 270/2019, propõem proibição do uso de veículos de tração animal em área urbana"
+title: PL 270/2019, propõem proibição do uso de veículos de tração animal em área
+  urbana
 date: 2021-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Altera o Código de Trânsito Brasileiro e dispõe sobre a proibição do uso de veículos de tração animal em área urbana e a sua substituição por veículo de propulsão humana. 
 

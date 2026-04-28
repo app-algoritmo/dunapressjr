@@ -1,11 +1,12 @@
 ---
-title: "Secretário de Política Econômica diz que emprego crescerá em 2021"
+title: Secretário de Política Econômica diz que emprego crescerá em 2021
 date: 2020-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Retomada do setor de serviços estimulará contratações, afirma Sachsida.
 

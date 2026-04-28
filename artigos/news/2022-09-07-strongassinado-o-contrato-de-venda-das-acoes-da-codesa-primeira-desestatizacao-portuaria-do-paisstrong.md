@@ -1,11 +1,13 @@
 ---
-title: "<strong>Assinado o contrato de venda das ações da Codesa, primeira desestatização portuária do país</strong>"
+title: <strong>Assinado o contrato de venda das ações da Codesa, primeira desestatização
+  portuária do país</strong>
 date: 2022-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Próximo passo será a formalização do contrato de concessão dos portos de Vitória e Barra do Riacho, que receberão R$ 850 milhões em investimentos privados.
 

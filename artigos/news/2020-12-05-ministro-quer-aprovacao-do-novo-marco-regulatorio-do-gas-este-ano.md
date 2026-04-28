@@ -1,11 +1,12 @@
 ---
-title: "Ministro quer aprovação do novo marco regulatório do gás este ano"
+title: Ministro quer aprovação do novo marco regulatório do gás este ano
 date: 2020-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova legislação trará mais competitividade ao setor.
 

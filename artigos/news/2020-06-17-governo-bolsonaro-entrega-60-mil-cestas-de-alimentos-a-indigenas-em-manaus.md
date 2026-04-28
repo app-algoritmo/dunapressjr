@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega 60 mil cestas de alimentos a indígenas em Manaus"
+title: Governo Bolsonaro entrega 60 mil cestas de alimentos a indígenas em Manaus
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais uma ação do Governo Federal para minimizar os impactos do novo coronavírus em comunidades em situação de vulnerabilidade social. Nesta quarta-feira (17), a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, esteve em Manaus, capital do Amazonas, para fazer a entrega de 60 mil cestas de alimentos a indígenas, o equivalente a 1.300 toneladas.
 

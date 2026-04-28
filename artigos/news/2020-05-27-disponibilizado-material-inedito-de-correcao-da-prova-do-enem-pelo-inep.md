@@ -1,11 +1,12 @@
 ---
-title: "Disponibilizado material inédito de correção da prova do Enem pelo Inep"
+title: Disponibilizado material inédito de correção da prova do Enem pelo Inep
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Apostilas podem auxiliar candidatos na preparação para o exame.
 

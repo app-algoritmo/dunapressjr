@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto sobre responsabilização de sócios por dívidas de empresas"
+title: Câmara aprova projeto sobre responsabilização de sócios por dívidas de empresas
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### Deputados rejeitaram mudanças feitas pelo Senado. Texto seguirá para sanção
 

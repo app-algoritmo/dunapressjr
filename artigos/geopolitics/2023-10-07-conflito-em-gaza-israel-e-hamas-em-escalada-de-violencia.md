@@ -1,11 +1,12 @@
 ---
-title: "Conflito em Gaza: Israel e Hamas em Escalada de Violência"
+title: 'Conflito em Gaza: Israel e Hamas em Escalada de Violência'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A região do Oriente Médio mais uma vez testemunha um dramático aumento na tensão, com o recente conflito entre Israel e o grupo terrorista Hamas na Faixa de Gaza **[após ataque surpresa à Israel](https://dunapress.org/2023/10/07/ataque-surpresa-a-israel-pelo-menos-250-assassinados-dezenas-de-sequestrados-e-refens/)**. Os confrontos violentos e os ataques indiscriminados têm resultado em mortes e feridos, agravando ainda mais uma situação já complexa e tensa. Neste artigo, examinaremos os eventos mais recentes desse conflito em rápida escalada, destacando os posicionamentos do Primeiro-ministro israelense Benjamin Netanyahu e as preocupações com a segurança da população civil.
 

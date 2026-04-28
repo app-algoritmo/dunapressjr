@@ -1,11 +1,13 @@
 ---
-title: "Paraguai parabeniza presidente eleito do Equador e comemora dia eleitoral de sucesso"
+title: Paraguai parabeniza presidente eleito do Equador e comemora dia eleitoral de
+  sucesso
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Governo paraguaio parabenizou o presidente eleito do Equador, Daniel Noboa, pela vitória nas eleições deste domingo e estendeu seu reconhecimento ao povo equatoriano pela exemplar jornada eleitoral.
 

@@ -1,11 +1,12 @@
 ---
-title: "VI Caminhada da Família"
+title: VI Caminhada da Família
 date: 2018-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Duna aceita convite para participar da **VI Caminhada da Família** em João Pessoa em agosto de 2018.
 

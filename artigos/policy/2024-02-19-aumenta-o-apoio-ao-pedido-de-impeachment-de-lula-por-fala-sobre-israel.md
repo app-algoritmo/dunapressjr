@@ -1,11 +1,12 @@
 ---
-title: "Aumenta o apoio ao pedido de impeachment de Lula por fala sobre Israel"
+title: Aumenta o apoio ao pedido de impeachment de Lula por fala sobre Israel
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Um aumento significativo no apoio ao pedido de impeachment do ex-presidente Luiz Inácio Lula da Silva foi registrado, com 78 deputados endossando a iniciativa até o momento. Este movimento vem em meio a controvérsias geradas por comparações entre as ações militares de Israel na Faixa de Gaza e o Holocausto perpetrado por Adolf Hitler no século passado. As declarações provocativas foram feitas durante uma missão oficial do petista na Etiópia.
 

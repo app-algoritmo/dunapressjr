@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que prevê multa de R$ 3 mil para quem reprimir amamentação em público"
+title: Comissão aprova projeto que prevê multa de R$ 3 mil para quem reprimir amamentação
+  em público
 date: 2021-08-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Conforme a proposta, em caso de reincidência, a multa pode chegar a R$ 20 mil.
 

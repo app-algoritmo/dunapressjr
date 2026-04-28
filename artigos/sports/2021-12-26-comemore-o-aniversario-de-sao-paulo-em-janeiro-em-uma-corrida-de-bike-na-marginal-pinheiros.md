@@ -1,11 +1,13 @@
 ---
-title: "Comemore o aniversário de São Paulo, em janeiro, em uma corrida de bike na Marginal Pinheiros"
+title: Comemore o aniversário de São Paulo, em janeiro, em uma corrida de bike na
+  Marginal Pinheiros
 date: 2021-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## A Storm Riders contará com atletas de elite e amadores apaixonados pela modalidade. As largadas serão a partir das 6h do domingo, dia 23, no Parque do Povo, nas distâncias de 40 km e 80 km.
 

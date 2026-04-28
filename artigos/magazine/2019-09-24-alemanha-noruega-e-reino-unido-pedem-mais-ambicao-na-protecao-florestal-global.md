@@ -1,11 +1,12 @@
 ---
-title: "Alemanha, Noruega e Reino Unido pedem mais ambição na proteção florestal global"
+title: Alemanha, Noruega e Reino Unido pedem mais ambição na proteção florestal global
 date: 2019-09-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Nova York, 22 de setembro de 2019: os governos da Alemanha, Noruega e Reino Unido pedem maior ambição e ação da comunidade global para conservar e restaurar florestas tropicais.
 

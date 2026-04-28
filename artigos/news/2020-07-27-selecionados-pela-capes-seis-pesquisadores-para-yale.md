@@ -1,11 +1,12 @@
 ---
-title: "Selecionados pela CAPES seis pesquisadores para Yale"
+title: Selecionados pela CAPES seis pesquisadores para Yale
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Situação orçamentária permitiu acrescentar mais cinco bolsas ao Programa CAPES-Yale.
 

@@ -1,12 +1,14 @@
 ---
-title: "O Príncipe D. Gabriel de Orleans e Bragança Participou de Sessão Solene do Congresso Nacional"
+title: O Príncipe D. Gabriel de Orleans e Bragança Participou de Sessão Solene do
+  Congresso Nacional
 date: 2022-09-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
+- Bicentennial
+- News
 ---
+
 
 Sua Alteza, o Principe D. Gabriel de Orleans e Bragança, esteve presente na sessão solene comemorativa do Bicentenário da Independência do Brasil, promovida pelo Congresso Nacional.
 

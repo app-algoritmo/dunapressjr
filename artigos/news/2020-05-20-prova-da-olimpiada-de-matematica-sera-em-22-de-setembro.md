@@ -1,11 +1,12 @@
 ---
-title: "Prova da Olimpíada de Matemática será em 22 de Setembro"
+title: Prova da Olimpíada de Matemática será em 22 de Setembro
 date: 2020-05-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## 1ªfase da Obmep será em Setembro e já conta com 5.561 municípios inscritos, um novo recorde.
 

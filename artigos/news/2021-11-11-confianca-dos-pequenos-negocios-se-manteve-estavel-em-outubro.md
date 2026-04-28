@@ -1,11 +1,12 @@
 ---
-title: "Confiança dos pequenos negócios se manteve estável em outubro"
+title: Confiança dos pequenos negócios se manteve estável em outubro
 date: 2021-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de serviços apresentou a maior confiança dos últimos sete anos.
 

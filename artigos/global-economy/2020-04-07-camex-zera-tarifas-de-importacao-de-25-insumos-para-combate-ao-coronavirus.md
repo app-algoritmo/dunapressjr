@@ -1,11 +1,12 @@
 ---
-title: "Camex zera tarifas de importação de 25 insumos para combate ao coronavírus"
+title: Camex zera tarifas de importação de 25 insumos para combate ao coronavírus
 date: 2020-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medida facilita compra no mercado externo e reduz custo para a fabricação e operação de bens que serão utilizados na luta contra o coronavírus
 

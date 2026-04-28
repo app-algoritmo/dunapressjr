@@ -1,11 +1,13 @@
 ---
-title: "Um número impressionante de pessoas com problemas de memória após a 'pandemia do corona'"
+title: Um número impressionante de pessoas com problemas de memória após a 'pandemia
+  do corona'
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [De acordo com um estudo do RIVM e da Nivel](https://nos.nl/artikel/2477146-opmerkelijke-groei-aantal-volwassenen-met-geheugenproblemen-na-coronapandemie) sobre as consequências da "pandemia do coronavírus" , mais pessoas têm visitado o médico de família por problemas de memória e concentração desde este ano .
 

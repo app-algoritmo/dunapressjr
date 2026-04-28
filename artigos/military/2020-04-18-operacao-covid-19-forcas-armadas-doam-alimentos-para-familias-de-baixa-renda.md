@@ -1,11 +1,12 @@
 ---
-title: "Operação Covid-19: Forças Armadas doam alimentos para famílias de baixa renda"
+title: 'Operação Covid-19: Forças Armadas doam alimentos para famílias de baixa renda'
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Covid-19 está em atividade por todo o país, buscando mitigar os efeitos do Coronavírus. Até o momento, 29 mil militares, utilizando-se de 816 viaturas, 61 embarcações e 17 aeronaves participam ativamente desse combate. Uma das ações que se destaca é a entrega de água e de alimentos a famílias que se encontram em situação vulnerável, diante da impossibilidade de trabalho em face ao isolamento social.
 

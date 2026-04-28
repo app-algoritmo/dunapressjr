@@ -1,11 +1,12 @@
 ---
-title: "Ministério projeta superávit comercial recorde de US$ 84 bilhões"
+title: Ministério projeta superávit comercial recorde de US$ 84 bilhões
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Diminuição das importações puxaria melhora no saldo.
 

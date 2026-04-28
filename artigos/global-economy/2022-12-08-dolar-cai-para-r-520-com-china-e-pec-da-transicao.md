@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,20 com China e PEC da Transição"
+title: Dólar cai para R$ 5,20 com China e PEC da Transição
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa recua 1,02%, pressionada por commodities.
 

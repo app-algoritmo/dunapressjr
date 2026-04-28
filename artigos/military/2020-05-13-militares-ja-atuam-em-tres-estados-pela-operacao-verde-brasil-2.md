@@ -1,11 +1,12 @@
 ---
-title: "Militares já atuam em três Estados pela Operação Verde Brasil 2"
+title: Militares já atuam em três Estados pela Operação Verde Brasil 2
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Antes mesmo do lançamento oficial da Operação Verde Brasil 2, na segunda-feira (11), militares das Forças Armadas já atuavam sigilosamente em diversas ações dentro da área da Amazônia Legal. Em apoio a órgãos de controle ambiental e de segurança pública os militares previnem e reprimem delitos ambientais, como desmatamento ilegal e focos de incêndio.
 

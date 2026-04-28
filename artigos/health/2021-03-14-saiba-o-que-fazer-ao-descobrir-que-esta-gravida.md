@@ -1,11 +1,12 @@
 ---
-title: "Saiba o que fazer ao descobrir que está grávida"
+title: Saiba o que fazer ao descobrir que está grávida
 date: 2021-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Estou grávida! Para algumas mulheres, essa descoberta é uma alegria; para outras, um susto. São vivências intensas e por vezes sentimentos contraditórios, momentos de dúvidas, de ansiedade, especialmente se você for adolescente. Você pode estar sonhando com esse momento há muito tempo ou talvez tenha sido surpreendida por uma gravidez inesperada. Mas o que fazer quando uma gravidez é descoberta?
 

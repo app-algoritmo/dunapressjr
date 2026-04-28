@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública institui Secretaria de Gestão e Ensino em Segurança Pública"
+title: Ministério da Justiça e Segurança Pública institui Secretaria de Gestão e Ensino
+  em Segurança Pública
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para conduzir e priorizar assuntos ligados à segurança pública, como administração e gestão orçamentária dos recursos do Fundo Nacional de Segurança Pública (FNSP), licitações e contratação relativos à segurança pública, demanda prioritária da pasta, o Ministério da Justiça e Segurança Pública (MJSP) conta agora com a nova Secretaria de Gestão e Ensino em Segurança Pública (SEGEN), que passa a integrar, a partir de agora, o organograma do MJSP. Com essa nova implementação, assuntos desta natureza serão tratados de forma mais focada e eficiente.
 

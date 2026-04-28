@@ -1,11 +1,13 @@
 ---
-title: "A defesa das vacinas: prepare-se para a manipulação médica mais massiva da história mundial"
+title: 'A defesa das vacinas: prepare-se para a manipulação médica mais massiva da
+  história mundial'
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Depois que Bronny James tiver uma parada cardíaca, a mídia tentará limitar os danos à sua narrativa, e será mais feio do que nunca.
 

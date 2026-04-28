@@ -1,11 +1,12 @@
 ---
-title: "Marco Aurélio Mello isenta Bolsonaro e responsabiliza STF por atos de vandalismo"
+title: Marco Aurélio Mello isenta Bolsonaro e responsabiliza STF por atos de vandalismo
 date: 2023-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 No último domingo (8/1), o ministro aposentado do Supremo Tribunal Federal, Marco Aurélio Mello, isentou o ex-presidente Jair Bolsonaro de culpa dos atos que ocorreram, em Brasília. O ex-magistrado também responsabilizou o STF pelos atos de vandalismo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Piloto Tessa Naran, incentiva nova geração à profissão"
+title: Piloto Tessa Naran, incentiva nova geração à profissão
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Entrevista com Tessa Naran, Piloto da empresa aérea Norwegian,  **Posição :** Primeiro Oficial **,** Londres Gatwick, LGW.
 

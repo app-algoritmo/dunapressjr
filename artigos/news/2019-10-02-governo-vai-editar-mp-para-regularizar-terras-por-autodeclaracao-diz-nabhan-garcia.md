@@ -1,11 +1,13 @@
 ---
-title: "Governo vai editar MP para regularizar terras por autodeclaração, diz Nabhan Garcia"
+title: Governo vai editar MP para regularizar terras por autodeclaração, diz Nabhan
+  Garcia
 date: 2019-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo deve editar nos próximos dias uma medida
 provisória para facilitar a regularização fundiária no país, com a determinação

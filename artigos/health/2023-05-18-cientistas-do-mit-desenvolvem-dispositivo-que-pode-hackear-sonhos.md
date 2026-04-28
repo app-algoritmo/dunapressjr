@@ -1,11 +1,12 @@
 ---
-title: "Cientistas do MIT desenvolvem dispositivo que pode hackear sonhos"
+title: Cientistas do MIT desenvolvem dispositivo que pode hackear sonhos
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Isso é assustador.
 

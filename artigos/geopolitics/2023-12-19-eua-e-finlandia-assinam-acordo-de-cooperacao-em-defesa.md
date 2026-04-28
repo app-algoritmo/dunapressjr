@@ -1,11 +1,12 @@
 ---
-title: "EUA e Finlândia assinam acordo de cooperação em defesa"
+title: EUA e Finlândia assinam acordo de cooperação em defesa
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## A cerimónia de assinatura envolveu o secretário de Estado dos EUA, Antony Blinken, o ministro da Defesa finlandês, Antti Hakkanen, e a principal diplomata do país nórdico, Elina Valtonen.
 

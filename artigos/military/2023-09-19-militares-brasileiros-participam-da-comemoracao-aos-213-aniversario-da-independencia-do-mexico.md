@@ -1,11 +1,13 @@
 ---
-title: "Militares brasileiros participam da comemoração aos 213° Aniversário da Independência do México"
+title: Militares brasileiros participam da comemoração aos 213° Aniversário da Independência
+  do México
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Em 16 de setembro, no ambiente das Festas Pátrias Mexicanas, foi realizado o Desfile Cívico-Militar em comemoração aos 213° Aniversário da Independência do México.
 

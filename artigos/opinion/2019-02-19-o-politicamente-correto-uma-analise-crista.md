@@ -1,12 +1,13 @@
 ---
-title: "O Politicamente Correto - Uma análise Cristã"
+title: O Politicamente Correto - Uma análise Cristã
 date: 2019-02-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Policy
+- Opinion
+- Policy
 ---
+
 
 -Muitos conceitos literários trazem o politicamente correto como autoritário e tirânico, pois utiliza de todas as formas para ludibriar a mentalidade coletiva.
 

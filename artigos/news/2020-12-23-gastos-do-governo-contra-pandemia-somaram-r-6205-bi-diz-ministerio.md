@@ -1,11 +1,12 @@
 ---
-title: "Gastos do governo contra pandemia somaram R$ 620,5 bi, diz ministério"
+title: Gastos do governo contra pandemia somaram R$ 620,5 bi, diz ministério
 date: 2020-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção de déficit nas contas públicas caiu para R$ 831,2 bi.
 

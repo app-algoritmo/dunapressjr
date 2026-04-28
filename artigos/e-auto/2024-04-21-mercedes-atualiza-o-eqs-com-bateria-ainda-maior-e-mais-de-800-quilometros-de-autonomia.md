@@ -1,11 +1,13 @@
 ---
-title: "Mercedes atualiza o EQS com bateria ainda maior e mais de 800 quilômetros de autonomia"
+title: Mercedes atualiza o EQS com bateria ainda maior e mais de 800 quilômetros de
+  autonomia
 date: 2024-04-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 A Mercedes-Benz dá um passo significativo à frente com a atualização de seu carro-chefe EQS, que já estava entre os principais veículos elétricos do mercado. O fabricante alemão anunciou recentemente uma atualização que inclui uma bateria ainda maior e uma impressionante autonomia de mais de 800 quilômetros.
 

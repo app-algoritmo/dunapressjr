@@ -1,11 +1,12 @@
 ---
-title: "Covid-19, o vírus chinês de ameaça  pandêmica: recomendações e cuidados"
+title: 'Covid-19, o vírus chinês de ameaça  pandêmica: recomendações e cuidados'
 date: 2020-01-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em 31 de dezembro de 2019, a OMS foi alertada sobre vários casos de pneumonia na cidade de Wuhan, província de Hubei, na China. Não foi encontrado nenhum outro vírus conhecido. Isso causou preocupação porque, quando um vírus é novo, não sabemos como ele afeta as pessoas.
 

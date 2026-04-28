@@ -1,12 +1,13 @@
 ---
-title: "Ministro de Estado da Defesa emite Nota Oficial"
+title: Ministro de Estado da Defesa emite Nota Oficial
 date: 2020-05-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília, 04/05/2020 -**As Forças Armadas cumprem a sua missão Constitucional.
 

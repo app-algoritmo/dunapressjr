@@ -1,11 +1,12 @@
 ---
-title: "Otimismo pode aumentar a expectativa de vida"
+title: Otimismo pode aumentar a expectativa de vida
 date: 2021-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisadores da Universidade Hebraica acompanharam 1.200 residentes de Jerusalém por 30 anos, medindo sua visão positiva da vida.
 

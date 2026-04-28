@@ -1,11 +1,13 @@
 ---
-title: "Xi diz que conquistas nos laços China-EUA são atribuíveis primeiramente aos esforços coletivos dos povos dos dois países"
+title: Xi diz que conquistas nos laços China-EUA são atribuíveis primeiramente aos
+  esforços coletivos dos povos dos dois países
 date: 2024-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 As conquistas nas relações China-EUA são atribuíveis primeiramente aos esforços coletivos dos povos dos dois países, disse o presidente chinês, Xi Jinping.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lula abrirá as portas do Mercosul para Maduro voltar ao bloco"
+title: Lula abrirá as portas do Mercosul para Maduro voltar ao bloco
 date: 2022-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O presidente eleito do Brasil, Luiz Inácio Lula da Silva, está comprometido com a "expansão do Mercosul", buscando primeiro aliados como Nicolás Maduro para oferecer a volta da Venezuela ao bloco.
 

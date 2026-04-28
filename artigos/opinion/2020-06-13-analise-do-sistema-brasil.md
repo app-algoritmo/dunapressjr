@@ -1,11 +1,12 @@
 ---
-title: "Análise do sistema Brasil"
+title: Análise do sistema Brasil
 date: 2020-06-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Brasil talvez possa ser caracterizado como um exemplo de país que o sistema é uma balbúrdia. Começa pelas leis, política, igrejas, grandes bancos, empresas que possuem monopólios ou formam oligarquias. Benefícios gigantescos para poucos, favorecimentos “legalizados” para alguns e uma verdadeira anarquia em níveis jurídicos, sociais e econômicos.
 

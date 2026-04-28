@@ -1,11 +1,13 @@
 ---
-title: "Volkswagen e Mercedes-Benz anunciam suspensão temporária de trabalhadores em meio a desafios do mercado automobilístico"
+title: Volkswagen e Mercedes-Benz anunciam suspensão temporária de trabalhadores em
+  meio a desafios do mercado automobilístico
 date: 2023-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida afetará 800 metalúrgicos e reflete a complexidade econômica enfrentada pelas montadoras.
 

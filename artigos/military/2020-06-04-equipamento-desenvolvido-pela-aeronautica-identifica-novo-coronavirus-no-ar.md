@@ -1,11 +1,12 @@
 ---
-title: "Equipamento desenvolvido pela Aeronáutica identifica novo coronavírus no ar"
+title: Equipamento desenvolvido pela Aeronáutica identifica novo coronavírus no ar
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Na busca pelos melhores recursos científicos para serem usados na guerra contra a Covid-19, a corrida contra o tempo é fator decisivo e de extrema importância. Na terceira e última parte da série sobre o uso de tecnologias no combate ao novo coronavírus, o leitor acompanha as iniciativas da Aeronáutica.
 

@@ -1,11 +1,12 @@
 ---
-title: "A cara da Estátua da liberdade"
+title: A cara da Estátua da liberdade
 date: 2024-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A vida de Isabella Boyer é como um romance emocionante. Ela nasceu em Paris, numa família de um pai pasteleiro africano e uma mãe inglesa. O nome dela era Isabella, um nome lindo que deveria ter sido a base de um destino lindo. Rapidamente ficou claro que a natureza deu a Isabella uma beleza especial.
 

@@ -1,13 +1,14 @@
 ---
-title: "Séries Netflix tem mais de 1 bilhão de horas assistidas"
+title: Séries Netflix tem mais de 1 bilhão de horas assistidas
 date: 2022-12-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - Story
-  - Video library
+- Features
+- Story
+- Video library
 ---
+
 
 ## Quais séries Netflix tem mais de 1 bilhão de horas assistidas. Você sabe quais são?
 

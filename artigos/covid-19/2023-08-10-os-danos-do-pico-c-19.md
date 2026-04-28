@@ -1,11 +1,12 @@
 ---
-title: "Os danos do pico C-19"
+title: Os danos do pico C-19
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **A história num piscar de olhos**
 

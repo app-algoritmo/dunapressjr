@@ -1,11 +1,12 @@
 ---
-title: "A Nova Guerra Fria: Estados Unidos e China na Encruzilhada Global"
+title: 'A Nova Guerra Fria: Estados Unidos e China na Encruzilhada Global'
 date: 2024-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A rivalidade entre Estados Unidos e China está rapidamente evoluindo para uma nova Guerra Fria, marcando um período de tensões geopolíticas e competição acirrada em várias frentes. Desde disputas comerciais até questões tecnológicas e estratégicas, as duas potências mundiais estão cada vez mais envolvidas em um jogo de poder que está moldando o panorama global do século XXI.
 

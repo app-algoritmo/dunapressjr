@@ -1,11 +1,13 @@
 ---
-title: "Jerez Month: wine &amp; cocktail bar promove experiência enogastronômica inspirada nos vinhos fortificados espanhóis"
+title: 'Jerez Month: wine &amp; cocktail bar promove experiência enogastronômica inspirada
+  nos vinhos fortificados espanhóis'
 date: 2023-11-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Com riqueza de sabores e aromas a serviço da alta coquetelaria, o Jerez - um vinho fortificado, licoroso e típico da Espanha - é o protagonista da ação promovida pelo Five Lounge.
 

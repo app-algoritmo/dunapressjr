@@ -1,11 +1,13 @@
 ---
-title: "Estado e municípios receberam R$1,9 bilhão do Governo Federal e gastaram R$ 988,6 milhões no combate à pandemia"
+title: Estado e municípios receberam R$1,9 bilhão do Governo Federal e gastaram R$
+  988,6 milhões no combate à pandemia
 date: 2021-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estado e municípios da Paraíba receberam do Governo Federal R$ 1,9 bilhão em transferências extraordinárias em 2020 (recursos da LC nº 173/20 e valores transferidos pelo Governo Federal-Ação 21C0), destinados às ações de saúde, assistência social e compensação financeira em razão da queda na arrecadação, por causa da Covid-19, de acordo com relatório do Tribunal de Contas do Estado da Paraíba. No período, os mesmos informaram gastos da ordem de R$ 988,6 milhões com ações relacionadas à pandemia.
 

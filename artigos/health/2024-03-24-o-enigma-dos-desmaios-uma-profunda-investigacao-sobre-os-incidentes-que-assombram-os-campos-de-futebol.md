@@ -1,11 +1,13 @@
 ---
-title: "O Enigma dos Desmaios: Uma Profunda Investigação Sobre os Incidentes que Assombram os Campos de Futebol"
+title: 'O Enigma dos Desmaios: Uma Profunda Investigação Sobre os Incidentes que Assombram
+  os Campos de Futebol'
 date: 2024-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Nos últimos meses, uma série de eventos perturbadores tem abalado a comunidade do futebol, com jogadores repentinamente desabando durante as partidas. Os relatos de desmaios em massa têm se multiplicado, deixando tanto os fãs quanto os próprios atletas atônitos e ansiosos por respostas.
 

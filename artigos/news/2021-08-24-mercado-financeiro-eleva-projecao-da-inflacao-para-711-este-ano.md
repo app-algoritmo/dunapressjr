@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação para 7,11% este ano"
+title: Mercado financeiro eleva projeção da inflação para 7,11% este ano
 date: 2021-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para expansão do PIB caiu para 5,27 em 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "O WEF é a coroa da propaganda climática"
+title: O WEF é a coroa da propaganda climática
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 O ativista climático Mike Hudema, que já trabalhou para o Greenpeace, chama a atenção para um vídeo distópico do Fórum Econômico Mundial. encontrado [aqui no Facebook)](https://www.facebook.com/watch/?v=832938394063433&ref=sharing).
 

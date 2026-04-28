@@ -1,11 +1,12 @@
 ---
-title: "Dólar bate recorde com tensões no Brasil e no exterior"
+title: Dólar bate recorde com tensões no Brasil e no exterior
 date: 2020-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa de valores fecha com queda de 1,51%
 

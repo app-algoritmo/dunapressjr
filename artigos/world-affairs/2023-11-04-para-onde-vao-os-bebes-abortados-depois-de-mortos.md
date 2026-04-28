@@ -1,11 +1,12 @@
 ---
-title: "Para onde vão os bebês abortados depois de mortos?"
+title: Para onde vão os bebês abortados depois de mortos?
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Acontece que muitos deles são tratados como lixo biomédico e queimados como combustível – bebês com mãos e pés perfeitos, rostos, olhos e boquinhas.
 

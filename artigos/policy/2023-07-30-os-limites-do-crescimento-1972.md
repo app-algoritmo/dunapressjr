@@ -1,11 +1,12 @@
 ---
-title: "Os Limites do Crescimento 1972"
+title: Os Limites do Crescimento 1972
 date: 2023-07-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em 1968 o italiano Aurelio Pecce fundou o Clube de Roma. A organização não-governamental apelou ao uso sustentável dos recursos disponíveis. Caso contrário, existe a ameaça de um “fim do crescimento” mundial. 50 anos depois, o Clube de Roma está quieto – mas não é supérfluo.
 

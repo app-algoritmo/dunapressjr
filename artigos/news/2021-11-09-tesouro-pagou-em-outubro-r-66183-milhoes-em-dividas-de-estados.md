@@ -1,11 +1,12 @@
 ---
-title: "Tesouro pagou em outubro R$ 661,83 milhões em dívidas de estados"
+title: Tesouro pagou em outubro R$ 661,83 milhões em dívidas de estados
 date: 2021-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Este ano, já são R$ 6,82 bilhões de dívidas honradas pela União.
 

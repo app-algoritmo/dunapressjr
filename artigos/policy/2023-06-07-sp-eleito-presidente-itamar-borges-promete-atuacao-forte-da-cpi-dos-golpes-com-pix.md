@@ -1,11 +1,13 @@
 ---
-title: "SP: Eleito presidente, Itamar Borges promete atuação forte da CPI dos golpes com PIX"
+title: 'SP: Eleito presidente, Itamar Borges promete atuação forte da CPI dos golpes
+  com PIX'
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Maria Lúcia Amary (PSDB) será a vice-presidente, enquanto Altair Moraes (Republicanos) será o relator da Comissão; próxima reunião deve ocorrer em 15 dias.
 

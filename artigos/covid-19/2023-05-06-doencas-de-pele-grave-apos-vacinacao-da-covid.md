@@ -1,11 +1,12 @@
 ---
-title: "Doenças de pele grave após vacinação da Covid"
+title: Doenças de pele grave após vacinação da Covid
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## [Novas pesquisas](https://thecovidblog.com/2023/04/30/graphic-gruesome-post-injection-skin-diseases-continue-plaguing-people-all-over-the-world/) conduzidas por cientistas da [*Universidade de Ciências Médicas de Teerã,*](https://en.tums.ac.ir/en) no Irã, descobriram que as “vacinas” do coronavírus Wuhan (Covid-19) estão provocando doenças graves da pele em muitos receptores.
 

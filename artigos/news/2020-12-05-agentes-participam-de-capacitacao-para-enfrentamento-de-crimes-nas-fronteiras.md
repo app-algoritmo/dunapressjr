@@ -1,11 +1,12 @@
 ---
-title: "Agentes participam de capacitação para enfrentamento de crimes nas fronteiras"
+title: Agentes participam de capacitação para enfrentamento de crimes nas fronteiras
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 2.700 profissionais de segurança pública que atuam nas fronteiras do Brasil com Paraguai e Argentina estão sendo capacitados para o enfrentamento de crimes transfronteiriços. O curso Segurança Multidimensional nas Fronteiras é uma das ações contempladas no acordo de cooperação assinado, este ano, entre o Ministério da Justiça e Segurança Pública e a Universidade de São Paulo (USP). Além dos agentes que atuam no âmbito do Programa Nacional de Segurança nas Fronteiras e Divisas (V.I.G.I.A), participam agentes da Colômbia, Peru e Uruguai.
 

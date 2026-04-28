@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-ministro israelense rejeita novamente cessar-fogo em Gaza sem libertação de reféns"
+title: Primeiro-ministro israelense rejeita novamente cessar-fogo em Gaza sem libertação
+  de reféns
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Benjamin Netanyahu disse que tal palavra deveria ser riscada do vocabulário.
 

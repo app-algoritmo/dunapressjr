@@ -1,11 +1,13 @@
 ---
-title: "Facebook diz adeus ao Instant Articles após ganhar milhões com as notícias e histórias falsas de jornais"
+title: Facebook diz adeus ao Instant Articles após ganhar milhões com as notícias
+  e histórias falsas de jornais
 date: 2023-01-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## RIP Facebook Instant Articles: 2015-2023
 

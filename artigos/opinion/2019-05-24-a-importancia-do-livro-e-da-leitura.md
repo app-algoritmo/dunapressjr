@@ -1,11 +1,12 @@
 ---
-title: "A importância do livro e da leitura"
+title: A importância do livro e da leitura
 date: 2019-05-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Os escritos em livros tem uma importância tremenda ao longo dos últimos 5 mil anos, pelo menos.
 

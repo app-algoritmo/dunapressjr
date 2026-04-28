@@ -1,11 +1,12 @@
 ---
-title: "Confiança dos consumidores avança 3,8 pontos em abril, diz FGV"
+title: Confiança dos consumidores avança 3,8 pontos em abril, diz FGV
 date: 2022-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Maior nível registrado desde agosto de 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra 2ª fase da Operação Virus Infectio no Amapá"
+title: Polícia Federal deflagra 2ª fase da Operação Virus Infectio no Amapá
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Macapá/AP** - A Polícia Federal deflagrou, na manhã desta sexta-feira (29/5), a 2ª Fase da Operação ***Virus Infectio***, para desarticular organização criminosa que pratica crimes de fraude em licitação e corrupção, com desvio de recursos públicos utilizados no enfrentamento específico ao coronavírus, no estado do Amapá.
 

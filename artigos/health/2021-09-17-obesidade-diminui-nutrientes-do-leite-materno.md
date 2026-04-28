@@ -1,11 +1,12 @@
 ---
-title: "Obesidade diminui nutrientes do leite materno"
+title: Obesidade diminui nutrientes do leite materno
 date: 2021-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudo aponta que leite materno de mães obesas possui menores concentrações de compostos lipídicos, essenciais para o desenvolvimento do cérebro de bebês.
 

@@ -1,11 +1,12 @@
 ---
-title: "“Rare Exhibit” - O Brasil na ONU, em Genebra"
+title: “Rare Exhibit” - O Brasil na ONU, em Genebra
 date: 2020-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Min Damares Alves inaugura exposição sobre doenças raras na Sede europeia das Nações Unidas
 

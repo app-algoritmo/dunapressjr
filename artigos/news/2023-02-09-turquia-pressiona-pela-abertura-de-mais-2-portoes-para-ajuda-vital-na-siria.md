@@ -1,12 +1,13 @@
 ---
-title: "Turquia pressiona pela abertura de mais 2 portões para ajuda vital na Síria"
+title: Turquia pressiona pela abertura de mais 2 portões para ajuda vital na Síria
 date: 2023-02-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 ## O ministro das Relações Exteriores, Mevlüt Çavuşoğlu, disse que Türkiye está pressionando para que mais dois portões de fronteira sejam abertos no noroeste da Síria.
 

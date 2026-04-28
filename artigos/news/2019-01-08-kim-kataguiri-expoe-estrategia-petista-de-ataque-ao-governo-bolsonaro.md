@@ -1,11 +1,12 @@
 ---
-title: "Kim Kataguiri expõe estratégia petista de ataque ao governo Bolsonaro"
+title: Kim Kataguiri expõe estratégia petista de ataque ao governo Bolsonaro
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O coordenador Kim Kataguiri, eleito deputado federal por São Paulo, entrou no debate sobre os ataques terroristas liderados por facções criminosas no Ceará. O ativista demonstrou as incoerências no comportamento do governador reeleito Camilo Santana (PT), que alterou sua política prisional tão logo Bolsonaro assumiu o governo federal.
 

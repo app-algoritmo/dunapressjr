@@ -1,11 +1,12 @@
 ---
-title: "Girão pede CPMI do crime organizado após reuniões de 'dama do tráfico' em ministérios"
+title: Girão pede CPMI do crime organizado após reuniões de 'dama do tráfico' em ministérios
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário, nesta terça-feira (14), o senador Eduardo Girão (Novo-CE) abordou as denúncias feitas pela imprensa de reuniões que teriam sido realizadas no Ministério da Justiça e no Ministério dos Direitos Humanos com integrante do crime organizado. Ele informou que apresentou requerimento para que o ministro dos Direitos Humanos e da Cidadania, Silvio Almeida, preste esclarecimentos sobre reunião que teria ocorrido com Luciane Barbosa de Farias, esposa de Clemilson dos Santos, líder da facção criminosa Comando Vermelho no Amazonas.
 

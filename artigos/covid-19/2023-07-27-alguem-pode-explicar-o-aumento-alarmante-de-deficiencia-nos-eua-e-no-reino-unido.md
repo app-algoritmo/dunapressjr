@@ -1,11 +1,13 @@
 ---
-title: "Alguém pode explicar o aumento alarmante de deficiência nos EUA e no Reino Unido?"
+title: Alguém pode explicar o aumento alarmante de deficiência nos EUA e no Reino
+  Unido?
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Acabei de falar com Ed Dowd. A única coisa que pode explicar isso é a vacina COVID. Isso é 100% consistente. Mas se não é a vacina, por que NINGUÉM tem uma explicação melhor?
 

@@ -1,11 +1,12 @@
 ---
-title: "Denunciante do FBI Revela 'Teste Decisivo Político' na Agência"
+title: Denunciante do FBI Revela 'Teste Decisivo Político' na Agência
 date: 2024-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Documentos vazados mostram que o FBI estaria punindo agentes com opiniões políticas divergentes, levantando preocupações sobre imparcialidade e liberdade**.
 

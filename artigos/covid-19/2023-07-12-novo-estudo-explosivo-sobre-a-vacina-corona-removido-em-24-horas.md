@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo explosivo sobre a vacina corona removido em 24 horas"
+title: Novo estudo explosivo sobre a vacina corona removido em 24 horas
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A revista médica e científica The Lancet removeu um estudo controverso sobre a vacina corona de seu servidor de pré-impressão [em 24 horas .](https://dailysceptic.org/2023/07/06/lancet-study-on-covid-vaccine-autopsies-finds-74-were-caused-by-vaccine-journal-removes-study-within-24-hours/)
 

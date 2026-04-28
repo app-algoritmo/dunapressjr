@@ -1,11 +1,12 @@
 ---
-title: "Pesquisas indicam que um em cada quatro brasileiros será obeso em 2030"
+title: Pesquisas indicam que um em cada quatro brasileiros será obeso em 2030
 date: 2022-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Onze anos e 165 quilos separam André Martins do antes e pós-bariátrica. Apesar do sobrepeso, o gatilho para o vendedor cogitar o procedimento para redução de peso foi uma ciatalgia (dor no nervo isquiático) que o deixou 30 dias preso a uma cama. "Eu só levantava para ir ao banheiro e tomar banho, e literalmente chorava de dor. A bariátrica foi a decisão mais acertada da minha vida", relembra. 
 

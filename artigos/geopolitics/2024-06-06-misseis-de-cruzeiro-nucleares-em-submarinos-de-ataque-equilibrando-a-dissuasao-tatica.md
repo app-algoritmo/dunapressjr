@@ -1,12 +1,14 @@
 ---
-title: "Mísseis de Cruzeiro Nucleares em Submarinos de Ataque: Equilibrando a Dissuasão Tática"
+title: 'Mísseis de Cruzeiro Nucleares em Submarinos de Ataque: Equilibrando a Dissuasão
+  Tática'
 date: 2024-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
-  - News
+- Geopolitics
+- News
 ---
+
 
 **Mudança estratégica pode preencher lacuna de dissuasão tática, mas enfrenta complexidades e críticas**.
 

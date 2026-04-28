@@ -1,11 +1,12 @@
 ---
-title: "Mercado reage a declarações do presidente do Fed e ganhos em Wall Street"
+title: Mercado reage a declarações do presidente do Fed e ganhos em Wall Street
 date: 2023-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ibovespa fecha em alta após fala de Jerome Powell e mercado americano também registra movimentação. 
 

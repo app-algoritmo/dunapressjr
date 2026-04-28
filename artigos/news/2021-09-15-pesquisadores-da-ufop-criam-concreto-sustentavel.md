@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores da Ufop criam concreto sustentável"
+title: Pesquisadores da Ufop criam concreto sustentável
 date: 2021-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O material, além de ser menos danoso ao meio ambiente, apresenta resultados promissores quando comparados ao concreto convencional.
 

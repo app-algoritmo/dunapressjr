@@ -1,11 +1,12 @@
 ---
-title: "Do que eles têm tanto medo?"
+title: Do que eles têm tanto medo?
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Como esperado, a grande mídia tentou sabotar o filme Sound of Freedom, que explora a questão do tráfico de crianças. 
 

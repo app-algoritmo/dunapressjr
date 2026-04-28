@@ -1,11 +1,12 @@
 ---
-title: "Isabel: Ativista, Estadista e do Lar"
+title: 'Isabel: Ativista, Estadista e do Lar'
 date: 2020-05-13
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Esta é uma crônica em homenagem a todas as mulheres ativistas do Brasil. Porque 13 de Maio continua aqui, só nós é que não o vemos. Temos que lutar ainda muito para abolir a nossa escravatura. Proponho também esse exercício de despertar a pequena ou grande Princesa Isabel que mora em todas nós. Nossa inspiração é uma moça conservadora e recatada, que embora consciente de sua condição feminina, suas obrigações com o marido e os filhos, demonstra indignação com os desmandos de grupos de interesses que só querem o poder, mesmo à custa de vidas humanas e da escravização de homens, mulheres, idosos e crianças. Não, não estou me referindo às Tias do Zap e ao Dória.
 

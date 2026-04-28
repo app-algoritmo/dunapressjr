@@ -1,11 +1,12 @@
 ---
-title: "A imagem de uma geração castrada"
+title: A imagem de uma geração castrada
 date: 2019-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O que vemos nessa cena é mais profundo do que "homens frouxos" pegos em flagrante. A imagem nos fala sobre o resultado de décadas de uma guerra empreendida por grupos ideológicos contra a masculinidade.
 

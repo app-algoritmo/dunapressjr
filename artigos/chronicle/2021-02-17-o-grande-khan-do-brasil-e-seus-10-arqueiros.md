@@ -1,11 +1,12 @@
 ---
-title: "O grande Khan do Brasil e seus 10 arqueiros"
+title: O grande Khan do Brasil e seus 10 arqueiros
 date: 2021-02-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 ## Crônica | A Supremacia Xandi.
 

@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas empregaram mais de 18 mil militares na Operação Covid-19"
+title: Forças Armadas empregaram mais de 18 mil militares na Operação Covid-19
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Até o momento, mais de 18 mil militares das Forças Armadas (Marinha, Exército e Aeronáutica) foram empregados na Operação Covid-19. No enfrentamento à pandemia, os 10 Comandos Conjuntos, que cobrem todo o território nacional, e o Comando Aeroespacial (COMAE) utilizam cerca de 700 viaturas e 40 embarcações. As ações envolvem descontaminação de trens e metrôs, reconhecimento para emprego de Defesa Biológica, Nuclear, Química e Radiológica (BQRN), apoio a equipes de saúde e laboratórios militares, entre outros.  
 

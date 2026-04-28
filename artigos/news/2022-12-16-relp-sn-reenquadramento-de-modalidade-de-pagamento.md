@@ -1,11 +1,12 @@
 ---
-title: "RELP-SN – Reenquadramento de Modalidade de Pagamento"
+title: RELP-SN – Reenquadramento de Modalidade de Pagamento
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A adesão ao RELP-SN e a escolha da modalidade de pagamento da dívida parcelada pelo contribuinte deveria ser baseada no percentual de redução do faturamento entre março e dezembro de 2020 em comparação com o mesmo período de 2019.
 

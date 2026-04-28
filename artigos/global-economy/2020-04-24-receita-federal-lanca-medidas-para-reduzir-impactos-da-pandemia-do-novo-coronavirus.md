@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal lança medidas para reduzir impactos da pandemia do novo coronavírus"
+title: Receita Federal lança medidas para reduzir impactos da pandemia do novo coronavírus
 date: 2020-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Governo zerou impostos de produtos importados por via postal e lançou material com esclarecimentos sobre medidas tributárias
 

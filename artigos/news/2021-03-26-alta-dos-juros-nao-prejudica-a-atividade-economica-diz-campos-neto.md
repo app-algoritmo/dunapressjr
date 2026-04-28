@@ -1,11 +1,12 @@
 ---
-title: "Alta dos juros não prejudica a atividade econômica, diz Campos Neto"
+title: Alta dos juros não prejudica a atividade econômica, diz Campos Neto
 date: 2021-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na semana passada, o Copom elevou a Selic de 2% para 2,75% ao ano.
 

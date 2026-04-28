@@ -1,11 +1,12 @@
 ---
-title: "Tensões na Europa: A Crise Imersa entre a NATO, a Rússia e a Ucrânia"
+title: 'Tensões na Europa: A Crise Imersa entre a NATO, a Rússia e a Ucrânia'
 date: 2024-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Após os recentes comentários do Presidente francês Macron sobre a possível mobilização de tropas da NATO para a Ucrânia, o espectro de um conflito maior na Europa ganhou uma nova urgência. O debate sobre a expansão da NATO na região e a crescente tensão com a Rússia estão levando os países europeus à beira de uma possível guerra, desencadeada pela busca incessante de Washington por influência e pela incapacidade percebida da NATO em conter ou negociar com a Rússia.
 

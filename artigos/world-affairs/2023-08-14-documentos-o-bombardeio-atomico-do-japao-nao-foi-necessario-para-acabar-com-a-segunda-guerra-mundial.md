@@ -1,11 +1,13 @@
 ---
-title: "Documentos: O bombardeio atômico do Japão não foi necessário para acabar com a Segunda Guerra Mundial"
+title: 'Documentos: O bombardeio atômico do Japão não foi necessário para acabar com
+  a Segunda Guerra Mundial'
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## 
 Documentos do governo americano admitem que o bombardeio atômico de Hiroshima e Nagasaki não foi necessário para acabar com a Segunda Guerra Mundial. O Japão estava prestes a capitular. O ataque nuclear foi o primeiro golpe na Guerra Fria de Washington contra a União Soviética.

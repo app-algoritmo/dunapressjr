@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Os indígenas cearenses no ciclo da independência"
+title: 'Série Fatos Da Independência: Os indígenas cearenses no ciclo da independência'
 date: 2023-09-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Ações autoritárias, construção de uma Constituição infame, transformação de seus súditos em escravizados: assim os líderes indígenas denunciaram a atitude do recém-declarado Imperador do Brasil. Eles estavam presentes na sessão extraordinária sediada na Câmara de Fortaleza, no dia 26 de agosto de 1824, quando foi proclamada a Confederação do Equador no Ceará. Eles representavam as vilas de Arronches, Doure, Baturité, Monte-mor Novo e vila Viçosa, todas indígenas, e integraram o grupo de 400 homens que assinaram a ata da sessão, se opuseram ao centralismo de Dom Pedro e buscaram uma aliança entre as províncias do Norte para que estas tivessem mais autonomia. Os indígenas temiam, diante de tantas atitudes autoritárias, que o Imperador planejasse recolonizar tais províncias e, assim, submetê-los novamente ao regime de escravidão, como foi feito com seus antepassados. Além da sessão em Fortaleza, há registros de uma sessão de juramento feita à Confederação em uma vila indígena.
 

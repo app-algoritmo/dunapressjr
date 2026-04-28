@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde joga nesta sexta-feira (25) em busca da segunda vitória no Paulista"
+title: Osasco São Cristóvão Saúde joga nesta sexta-feira (25) em busca da segunda
+  vitória no Paulista
 date: 2023-08-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Após a estreia com um 3 a 0 sobre São Caetano, equipe de Camila Brait, Fabiana, Tifanny e cia. recebe o Campinas Vôlei no ginásio José Liberatti, a partir das 20. Osasco Vôlei TV transmite o jogo no Youtube.
 

@@ -1,11 +1,12 @@
 ---
-title: "Capitânia da Esquadra brasileira realiza exercício com navio francês"
+title: Capitânia da Esquadra brasileira realiza exercício com navio francês
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Transferência de Óleo no Mar eleva a capacidade operacional do NAM “Atlântico”.
 

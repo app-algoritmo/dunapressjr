@@ -1,11 +1,12 @@
 ---
-title: "Moraes determina avaliação do estado de saúde de Roberto Jefferson"
+title: Moraes determina avaliação do estado de saúde de Roberto Jefferson
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Decisão segue parecer enviado ao Supremo pela PGR.
 

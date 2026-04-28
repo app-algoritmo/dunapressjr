@@ -1,12 +1,13 @@
 ---
-title: "O Judaismo e os animais"
+title: O Judaismo e os animais
 date: 2023-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Nesta semana foi celebrado o dia nacional dos animais! 
 

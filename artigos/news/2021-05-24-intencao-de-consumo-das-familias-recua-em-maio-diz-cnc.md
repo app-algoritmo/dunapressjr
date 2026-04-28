@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo das famílias recua em maio, diz CNC"
+title: Intenção de consumo das famílias recua em maio, diz CNC
 date: 2021-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador tem o menor nível desde agosto de 2020.
 

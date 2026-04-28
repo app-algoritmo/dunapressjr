@@ -1,11 +1,12 @@
 ---
-title: "Operação Verde Brasil 2 acumula resultados"
+title: Operação Verde Brasil 2 acumula resultados
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A atuação dos militares da Marinha, do Exército e da Aeronáutica na Operação Verde Brasil 2 não cessa. Mesmo nos fins de semana e em horários alternativos, os Comandos Conjuntos Príncipe da Beira, Barão de Melgaço e Marechal Soares de Andrea dão sequência às atividades que visam à prevenção e à repressão de delitos ambientais. Apenas no domingo (24), cerca de 100 veículos e 100 embarcações foram revistados, ao passo que mais de 500 metros cúbicos de madeira extraída irregularmente foram apreendidos. Um total de R$ 580.592,89 foi aplicado em multas.
 

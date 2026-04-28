@@ -1,11 +1,13 @@
 ---
-title: "A expansão das atribuições da Polícia Militar em São Paulo: implicações e debates"
+title: 'A expansão das atribuições da Polícia Militar em São Paulo: implicações e
+  debates'
 date: 2024-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O governo de Tarcísio de Freitas, em São Paulo, tem ampliado o escopo de atuação da Polícia Militar (PM) no estado, gerando intensos debates sobre a militarização da segurança pública e a divisão de funções entre as polícias.
 

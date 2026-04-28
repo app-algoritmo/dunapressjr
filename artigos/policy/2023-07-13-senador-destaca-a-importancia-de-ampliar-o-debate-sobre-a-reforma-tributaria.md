@@ -1,11 +1,12 @@
 ---
-title: "Senador destaca a importância de ampliar o debate sobre a reforma tributária"
+title: Senador destaca a importância de ampliar o debate sobre a reforma tributária
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Marcos Rogério defende análise da proposta em comissões econômicas e ressalta os pilares essenciais da reforma. 
 

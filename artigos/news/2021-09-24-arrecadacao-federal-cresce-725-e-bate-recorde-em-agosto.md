@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal cresce 7,25% e bate recorde em agosto"
+title: Arrecadação federal cresce 7,25% e bate recorde em agosto
 date: 2021-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Melhora da economia e recolhimento atípico impulsionaram receita.
 

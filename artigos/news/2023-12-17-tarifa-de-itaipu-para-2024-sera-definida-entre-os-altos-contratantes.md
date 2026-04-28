@@ -1,11 +1,12 @@
 ---
-title: "Tarifa de Itaipu para 2024 será definida entre os altos contratantes"
+title: Tarifa de Itaipu para 2024 será definida entre os altos contratantes
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O chanceler Rubén Ramírez anunciou que a tarifa de energia de Itaipu para o ano de 2024 será definida entre os presidentes Santiago Peña e Lula Da Silva, em reunião que está prevista será antes do final deste ano.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governador Abbott lidera coalizão de 14 estados em apoio à defesa do Texas na crise fronteiriça"
+title: Governador Abbott lidera coalizão de 14 estados em apoio à defesa do Texas
+  na crise fronteiriça
 date: 2024-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador do Texas, Greg Abbott, junto com 13 governadores de outros estados americanos, reuniu-se em uma conferência de imprensa no Shelby Park, em Eagle Pass, para expressar solidariedade com o direito do Texas de se defender diante da crise fronteiriça atribuída às políticas do presidente Joe Biden.
 

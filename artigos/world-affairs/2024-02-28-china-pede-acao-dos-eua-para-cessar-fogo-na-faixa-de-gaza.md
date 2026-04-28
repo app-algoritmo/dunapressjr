@@ -1,11 +1,12 @@
 ---
-title: "China pede ação dos EUA para cessar-fogo na Faixa de Gaza"
+title: China pede ação dos EUA para cessar-fogo na Faixa de Gaza
 date: 2024-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China intensificou os apelos à ação internacional na segunda-feira, através de sua porta-voz do Ministério das Relações Exteriores, Mao Ning, instando os Estados Unidos a ouvirem as demandas da comunidade global por um cessar-fogo imediato na Faixa de Gaza. Em uma entrevista coletiva, Mao Ning destacou a urgência da situação, mencionando que o mais recente conflito palestino-israelense resultou em quase 30.000 civis mortos e aproximadamente 1,9 milhão de pessoas deslocadas.
 

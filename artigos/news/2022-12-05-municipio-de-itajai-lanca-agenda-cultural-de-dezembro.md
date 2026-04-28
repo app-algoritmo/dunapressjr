@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí lança Agenda Cultural de dezembro"
+title: Município de Itajaí lança Agenda Cultural de dezembro
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí divulga a Agenda Cultural de dezembro. A proposta foi retomada no mês passado e será lançada sempre no início de cada mês. O material, organizado pela Fundação Cultural, reúne informações sobre projetos, eventos e ações realizadas em equipamentos culturais da cidade. Confira a agenda deste mês ao final da matéria.
 

@@ -1,11 +1,12 @@
 ---
-title: "Professor Olavo de Carvalho morre aos 74 anos nos EUA"
+title: Professor Olavo de Carvalho morre aos 74 anos nos EUA
 date: 2022-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Faleceu um dos maiores pensadores da história do Brasil, o Filósofo e Professor **Olavo Luiz Pimentel de Carvalho**. - Olavo foi um gigante na luta pela liberdade e um farol para milhões de brasileiros. Seu exemplo e seus ensinamentos marcarão para sempre. “Há coisas que são boas por alguns instantes, outras por algum tempo. Só algumas são para sempre.” Olavo de Carvalho.
 

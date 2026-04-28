@@ -1,11 +1,12 @@
 ---
-title: "Inflação da indústria sobe 3,13% em março"
+title: Inflação da indústria sobe 3,13% em março
 date: 2022-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta decorre do aumento de custos internacionais.
 

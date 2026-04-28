@@ -1,11 +1,12 @@
 ---
-title: "Entidades empresariais aprovam nova queda da Selic"
+title: Entidades empresariais aprovam nova queda da Selic
 date: 2020-06-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Copom reduziu taxa básica de juros para 2,25% ao ano.
 

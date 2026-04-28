@@ -1,11 +1,12 @@
 ---
-title: "BC e Febraban lançam programa para projetos de educação financeira"
+title: BC e Febraban lançam programa para projetos de educação financeira
 date: 2020-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As inscrições começam hoje e vão até 9 de fevereiro.
 

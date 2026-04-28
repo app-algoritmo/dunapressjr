@@ -1,11 +1,13 @@
 ---
-title: "Terroristas de Gaza disparam barragens em Jerusalém, sul de Israel, aumentando o medo da guerra"
+title: Terroristas de Gaza disparam barragens em Jerusalém, sul de Israel, aumentando
+  o medo da guerra
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Homem israelense ferido quando míssil atinge seu carro perto de Sderot; IDF retalia, matando pelo menos 11 membros do Hamas disparando foguetes; Palestinos dizem que 20 mortos no total, incluindo 9 menores.
 

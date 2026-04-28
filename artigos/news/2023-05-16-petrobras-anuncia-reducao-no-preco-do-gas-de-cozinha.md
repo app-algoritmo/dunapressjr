@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia redução no preço do gás de cozinha"
+title: Petrobras anuncia redução no preço do gás de cozinha
 date: 2023-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida da empresa visa diminuir o preço médio de venda para distribuidoras, impactando o valor final ao consumidor
 

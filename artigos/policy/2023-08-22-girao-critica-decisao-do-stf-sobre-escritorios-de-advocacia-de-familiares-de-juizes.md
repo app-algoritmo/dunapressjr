@@ -1,11 +1,13 @@
 ---
-title: "Girão critica decisão do STF sobre escritórios de advocacia de familiares de juízes"
+title: Girão critica decisão do STF sobre escritórios de advocacia de familiares de
+  juízes
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento nesta segunda-feira (21) o julgamento da Ação Direta de Inconstitucionalidade (ADI) 5.953, em que ministros do STF formaram maioria para considerar inconstitucional uma regra do Código de Processo Civil (CPC) que impede que magistrados atuem em processos em que a parte seja cliente de escritório de advocacia de familiares. Para o senador, o caso é uma “verdadeira aberração”.
 

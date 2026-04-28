@@ -1,11 +1,12 @@
 ---
-title: "PF investiga envio de notas falsas via Correios no Espírito Santo"
+title: PF investiga envio de notas falsas via Correios no Espírito Santo
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal deflagrou nesta manhã (15/5) a operação policial Balaio de Gato,  com o objetivo de identificar os envolvidos com o recebimento de cédulas falsas por meio do serviço postal. Essa investigação é um desdobramento de ocorrência no dia 30/4/2020, encaminhada à PF em Cachoeiro de Itapemirim/ES.
 

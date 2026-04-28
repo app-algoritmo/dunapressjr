@@ -1,11 +1,12 @@
 ---
-title: "Venda de imóveis cresceu 9,7% em 2019"
+title: Venda de imóveis cresceu 9,7% em 2019
 date: 2020-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Lançamentos tiveram alta de 15,4%, segundo levantamento da CBIC
 

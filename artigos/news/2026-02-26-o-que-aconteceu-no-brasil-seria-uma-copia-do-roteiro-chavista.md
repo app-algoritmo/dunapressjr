@@ -1,11 +1,12 @@
 ---
-title: "O que aconteceu no Brasil seria uma cópia do roteiro chavista?"
+title: O que aconteceu no Brasil seria uma cópia do roteiro chavista?
 date: 2026-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O que se viveu nas últimas horas no Brasil não é novidade para o continente. Assim como a invasão deste domingo à sede dos poderes em Brasília é comparada ao assalto ao Capitólio em Washington em janeiro de 2021, a reação de Luiz Inácio Lula da Silva e o benefício que ele tira desse episódio é comparável à Venezuela de abril de 2002, quando Hugo Chávez se firmou no poder após superar uma suposta tentativa de golpe que lhe permitiu iniciar um expurgo nas instituições e intensificar a perseguição aos opositores com seu discurso contra os "golpistas".
 

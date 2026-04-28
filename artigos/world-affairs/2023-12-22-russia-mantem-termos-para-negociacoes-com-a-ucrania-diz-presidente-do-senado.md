@@ -1,11 +1,12 @@
 ---
-title: "Rússia mantém termos para negociações com a Ucrânia, diz presidente do Senado"
+title: Rússia mantém termos para negociações com a Ucrânia, diz presidente do Senado
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Valentina Matviyenko, a Rússia deve atingir os objetivos traçados na operação militar especial para que a Ucrânia deixe de ser utilizada como veículo anti-russo e como ameaça à segurança e soberania da Rússia.
 

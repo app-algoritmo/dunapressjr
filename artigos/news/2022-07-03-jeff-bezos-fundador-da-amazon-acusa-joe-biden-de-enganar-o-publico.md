@@ -1,11 +1,12 @@
 ---
-title: "Jeff Bezos, fundador da Amazon acusa Joe Biden de enganar o público"
+title: Jeff Bezos, fundador da Amazon acusa Joe Biden de enganar o público
 date: 2022-07-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O fundador da Amazon acusou o presidente dos EUA de não entender a economia básica após o apelo de Joe Biden às empresas de petróleo para reduzir os preços da gasolina, Jeff Bezos criticou o presidente dos EUA, dizendo que ele está enganando o público ou não tem uma compreensão básica de como funciona uma economia de mercado.
 

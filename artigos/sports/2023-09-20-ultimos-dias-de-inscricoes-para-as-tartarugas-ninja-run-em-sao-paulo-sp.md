@@ -1,11 +1,12 @@
 ---
-title: "Últimos dias de inscrições para As Tartarugas Ninja Run, em São Paulo (SP)"
+title: Últimos dias de inscrições para As Tartarugas Ninja Run, em São Paulo (SP)
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Quem quiser participar tem até a quarta-feira (20) para se inscrever. Evento conta com caminhada de 3 km e corrida de 6 km, no Parque Villa-Lobos, a partir das 8h, e a presença dos irmãos ninja, Raphael, Michelangelo, Donatello e Leonardo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk mostrou a verdadeira face do twitter e ainda jogou uma isca para seus usuários"
+title: Elon Musk mostrou a verdadeira face do twitter e ainda jogou uma isca para
+  seus usuários
 date: 2026-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O twitter é uma rede social que foi fundada em 21 de março de 2006 por Jack Dorsey, Evan Williams, Noah Glass e Biz Stone em São Francisco, Califórnia, Estados Unidos.
 

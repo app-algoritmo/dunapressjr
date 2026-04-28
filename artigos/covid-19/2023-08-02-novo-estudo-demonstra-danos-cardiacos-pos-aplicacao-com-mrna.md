@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo demonstra danos cardíacos pós aplicação com mRNA"
+title: Novo estudo demonstra danos cardíacos pós aplicação com mRNA
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **Novo estudo chocante mostra que a injeção de mRNA Covid causou danos cardíacos silenciosos em milhões**
 

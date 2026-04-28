@@ -1,11 +1,12 @@
 ---
-title: "Episodio 6 – Toma lá, Não dá cá"
+title: Episodio 6 – Toma lá, Não dá cá
 date: 2022-12-09
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

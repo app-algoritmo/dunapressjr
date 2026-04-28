@@ -1,11 +1,13 @@
 ---
-title: "Rondônia e Pará apresentam os maiores percentuais de crescimento de receitas correntes no 5º bimestre de 2022"
+title: Rondônia e Pará apresentam os maiores percentuais de crescimento de receitas
+  correntes no 5º bimestre de 2022
 date: 2022-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Por outro lado, Roraima (50%) e Rondônia (35%) foram os estados com os maiores crescimentos das despesas correntes no período.
 

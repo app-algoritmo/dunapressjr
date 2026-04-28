@@ -1,11 +1,12 @@
 ---
-title: "Consumo nos lares brasileiros registra aumento no primeiro quadrimestre"
+title: Consumo nos lares brasileiros registra aumento no primeiro quadrimestre
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desaceleração nos preços dos alimentos e medidas governamentais fortalecem o consumo doméstico, revela Associação Brasileira de Supermercados (Abras).
 

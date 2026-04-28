@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança do Comércio (ICOM) do FGV IBRE registra aumento de 2,2 pontos em agosto"
+title: Índice de Confiança do Comércio (ICOM) do FGV IBRE registra aumento de 2,2
+  pontos em agosto
 date: 2023-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresários mostram otimismo em relação ao futuro, mas desafios persistem diante da demanda ainda fraca.
 

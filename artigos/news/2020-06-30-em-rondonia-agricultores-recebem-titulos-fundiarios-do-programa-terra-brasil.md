@@ -1,11 +1,12 @@
 ---
-title: "Em Rondônia agricultores recebem títulos fundiários do Programa Terra Brasil"
+title: Em Rondônia agricultores recebem títulos fundiários do Programa Terra Brasil
 date: 2020-06-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A Secretaria de Agricultura de Rondônia estima que este ano serão distribuídos mais 350 títulos, ao custo de R$ 40 milhões.
 

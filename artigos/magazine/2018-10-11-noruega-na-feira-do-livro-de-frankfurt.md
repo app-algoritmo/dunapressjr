@@ -1,12 +1,13 @@
 ---
-title: "Noruega na Feira do Livro de Frankfurt"
+title: Noruega na Feira do Livro de Frankfurt
 date: 2018-10-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 Hoje, 11 de outubro, a Secretária de Estado no Ministério dos Negócios Estrangeiros Marianne Hagen, do Partido Conservador,  participou da abertura da Feira do Livro de Frankfurt. Em seu discurso ela declarou que a Noruega apresentará sua literatura ao mundo de forma mais abrangente do que nunca e que os trabalhos dos escritores noruegueses estarão amplamente disponíveis através de festivais literários, casas de literatura, livrarias e feiras de livros em toda a Alemanha. Para Marianne Hagen, a literatura é um ponto de partida único para o diálogo e para a troca de idéias e conhecimentos. À medida que os escritores viajam e participam de eventos, eles se tornam parte de um diálogo internacional sobre artes, democracia e liberdade de expressão, para o qual a feira do livro sempre foi uma importante plataforma.
 

@@ -1,11 +1,13 @@
 ---
-title: "Festival de Bike Street e Super Spine agita Parque Teresa Maia, em Cotia (SP), a partir desta sexta-feira (9)"
+title: Festival de Bike Street e Super Spine agita Parque Teresa Maia, em Cotia (SP),
+  a partir desta sexta-feira (9)
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Espaço de lazer e diversão na região da Granja Viana, em Cotia (SP), o Parque Teresa Maia ganhará uma atração a mais. Durante três dias, competidores e suas bikes estarão ali, com direito a manobras radicais, muita disputa e adrenalina. Entre esta sexta-feira (9) e domingo (11), o Festival de Bike Street e Super Spine movimentará o local. Uma competição Open, em que profissionais e amadores participam juntos.
 

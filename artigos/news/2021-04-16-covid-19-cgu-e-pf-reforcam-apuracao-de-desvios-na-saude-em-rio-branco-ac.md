@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF reforçam apuração de desvios na saúde em Rio Branco (AC)"
+title: 'Covid-19: CGU e PF reforçam apuração de desvios na saúde em Rio Branco (AC)'
 date: 2021-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Assepsia II aprofunda investigação de fraudes em aquisição de máscaras e álcool em gel para enfrentamento da pandemia do coronavírus.
 

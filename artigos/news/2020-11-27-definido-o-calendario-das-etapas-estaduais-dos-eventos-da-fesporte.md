@@ -1,11 +1,12 @@
 ---
-title: "Definido o calendário das etapas estaduais dos eventos da Fesporte"
+title: Definido o calendário das etapas estaduais dos eventos da Fesporte
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O calendário oficial das etapas estaduais dos eventos da Fesporte para 2021 está definido. Uma reunião entre dirigentes da Fesporte e representantes municipais concluiu, na quarta-feira, 25, os últimos ajustes. O encontro foi realizado na sede da Fesporte, em Florianópolis, e obedeceu todos os protocolos de segurança contra o coronavírus. O calendário será enviado ao Conselho Estadual de Esporte para ser homologado.
 

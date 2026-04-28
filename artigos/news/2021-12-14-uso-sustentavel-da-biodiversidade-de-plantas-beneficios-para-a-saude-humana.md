@@ -1,11 +1,12 @@
 ---
-title: "Uso sustentável da biodiversidade de plantas: benefícios para a saúde humana"
+title: 'Uso sustentável da biodiversidade de plantas: benefícios para a saúde humana'
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O uso de plantas na medicina popular é tão antigo quanto a humanidade. Dores de cabeça, reumatismos, diarreias, gripes e resfriados, por exemplo, são tratados muitas vezes com plantas que encontramos nos quintais ou nas matas próximas às residências. Chás, infusões e compressas são alguns exemplos de remédios caseiros que aliviam ou mesmo curam certas indisposições.
 

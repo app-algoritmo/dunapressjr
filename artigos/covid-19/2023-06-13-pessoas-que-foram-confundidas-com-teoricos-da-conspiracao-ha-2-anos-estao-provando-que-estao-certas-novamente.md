@@ -1,11 +1,13 @@
 ---
-title: "Pessoas que foram confundidas com 'teóricos da conspiração' há 2 anos estão provando que estão certas novamente"
+title: Pessoas que foram confundidas com 'teóricos da conspiração' há 2 anos estão
+  provando que estão certas novamente
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A OMS compartilhará o certificado europeu da Covid com o resto do mundo. Segundo a OMS e a UE, este certificado digital “comprovou-se” durante a pandemia de corona.
 

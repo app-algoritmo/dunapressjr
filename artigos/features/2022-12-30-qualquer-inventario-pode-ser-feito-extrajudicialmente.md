@@ -1,11 +1,12 @@
 ---
-title: "Qualquer inventário pode ser feito extrajudicialmente?"
+title: Qualquer inventário pode ser feito extrajudicialmente?
 date: 2022-12-30
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 Inventário é o procedimento de apuração e divisão dos bens, direitos e dívidas de uma pessoa falecida. Fala-se em [inventário extrajudicial](https://vilanovaebrandao.com.br/servicos/inventario-extrajudicial/), modalidade mais simples e rápida do processo, quando a divisão de bens é realizada em qualquer cartório de notas. Não é toda partilha, contudo, que pode ser feita de maneira simplificada, sendo necessário cumprir alguns requisitos previstos no Código de Processo Civil (CPC).
 

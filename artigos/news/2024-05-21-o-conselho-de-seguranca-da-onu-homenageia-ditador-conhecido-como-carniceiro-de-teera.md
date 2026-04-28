@@ -1,11 +1,13 @@
 ---
-title: "O Conselho de Segurança da ONU Homenageia Ditador Conhecido como 'Carniceiro de Teerã'"
+title: O Conselho de Segurança da ONU Homenageia Ditador Conhecido como 'Carniceiro
+  de Teerã'
 date: 2024-05-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No cenário político internacional, a recente homenagem do Conselho de Segurança da ONU a Ebrahim Raisi, conhecido como "o Carniceiro de Teerã", gerou uma onda de críticas e controvérsias. O deputado federal Luiz Philippe de Orleans e Bragança expressou sua indignação nas redes sociais, afirmando que "a instituição criada para preservar a democracia e paz mundial não existe mais… ou nunca existiu". Este comentário provocativo reflete o sentimento de muitos que veem a ação da ONU como uma traição aos seus princípios fundamentais.
 

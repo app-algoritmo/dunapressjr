@@ -1,11 +1,12 @@
 ---
-title: "Expectativa de vida em Santa Catarina é a maior do Brasil, aponta IBGE"
+title: Expectativa de vida em Santa Catarina é a maior do Brasil, aponta IBGE
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A expectativa de vida de um recém-nascido em Santa Catarina é a maior do Brasil: em média 79,9 anos. Os dados de 2019 são do relatório de mortalidade divulgado pelo IBGE nesta quinta-feira, 26. O índice de longevidade é reflexo da qualidade de vida de quem vive no estado e das ações do Governo do Estado em prol da população. A expectativa catarinense cresceu 0,2 ano em relação a 2018 (79,7) e foi 3,3 anos maior que a média brasileira (76,6 anos) em 2019.
 

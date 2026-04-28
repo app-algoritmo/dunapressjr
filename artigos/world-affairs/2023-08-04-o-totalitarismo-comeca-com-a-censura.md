@@ -1,11 +1,12 @@
 ---
-title: "O totalitarismo começa com a censura"
+title: O totalitarismo começa com a censura
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os princípios de uma sociedade livre estão sendo redefinidos pelos coletivistas.
 

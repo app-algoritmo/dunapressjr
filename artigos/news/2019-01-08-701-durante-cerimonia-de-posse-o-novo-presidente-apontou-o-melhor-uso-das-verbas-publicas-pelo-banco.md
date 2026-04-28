@@ -1,11 +1,13 @@
 ---
-title: "7.01 Durante cerimônia de posse, o novo presidente apontou o melhor uso das verbas públicas pelo banco"
+title: 7.01 Durante cerimônia de posse, o novo presidente apontou o melhor uso das
+  verbas públicas pelo banco
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Ao tomar posse, Levy garante menos recursos do Tesouro no BNDES
 

@@ -1,12 +1,13 @@
 ---
-title: "A missão sensível e necessária da cadela Catarinense que busca vítimas no RS"
+title: A missão sensível e necessária da cadela Catarinense que busca vítimas no RS
 date: 2024-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O latido incessante da cachorra Moana alertou que ela havia encontrado o que procurava. Infelizmente, era o corpo de uma criança vítima das enchentes no Rio Grande do Sul.
 

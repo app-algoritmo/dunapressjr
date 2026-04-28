@@ -1,11 +1,12 @@
 ---
-title: "Paraíba gera saldo positivo de emprego pelo 4º mês seguido"
+title: Paraíba gera saldo positivo de emprego pelo 4º mês seguido
 date: 2020-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Apontando para a retomada do crescimento econômico, a Paraíba gerou pelo quarto mês seguido saldo positivo no mercado de trabalho com carteira assinada. Em outubro, o Estado criou 13.000 novas vagas contra 11.563 desligamentos, o que resultou em um saldo de 1.437 postos. Os dados são da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, com base no Novo Cadastro Geral de Empregados e Desempregados (Novo Caged).
 

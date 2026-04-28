@@ -1,11 +1,13 @@
 ---
-title: "Pessoas e entidades jurídicas buscam justiça por crimes contra a humanidade atribuídos ao regime de Maduro"
+title: Pessoas e entidades jurídicas buscam justiça por crimes contra a humanidade
+  atribuídos ao regime de Maduro
 date: 2023-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Pessoas e entidades jurídicas buscam justiça por crimes contra a humanidade atribuídos ao regime de Maduro.
 

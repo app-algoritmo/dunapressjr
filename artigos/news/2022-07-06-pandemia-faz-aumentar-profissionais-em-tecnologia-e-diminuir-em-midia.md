@@ -1,11 +1,12 @@
 ---
-title: "Pandemia faz aumentar profissionais em tecnologia e diminuir em mídia"
+title: Pandemia faz aumentar profissionais em tecnologia e diminuir em mídia
 date: 2022-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Firjan divulgou mapeamento da indústria criativa.
 

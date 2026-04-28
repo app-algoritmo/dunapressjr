@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde: Crianças não podem tomar a vacina contra a Covid-19 junto com outras vacinas"
+title: 'Ministério da Saúde: Crianças não podem tomar a vacina contra a Covid-19 junto
+  com outras vacinas'
 date: 2022-02-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No início de 2022, o Ministério da Saúde anunciou a inclusão de crianças da faixa etária de 5 a 11 anos no Plano Nacional de Operacionalização da Vacinação contra a Covid-19 (PNO). Estima-se que esse público seja de 20 milhões de crianças.
 

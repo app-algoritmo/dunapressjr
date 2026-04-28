@@ -1,11 +1,13 @@
 ---
-title: "Oito municípios brasileiros recebem R$ 2,9 milhões da Defesa Civil Nacional após desastres"
+title: Oito municípios brasileiros recebem R$ 2,9 milhões da Defesa Civil Nacional
+  após desastres
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional de Proteção e Defesa Civil (Sedec), do Ministério do Desenvolvimento Regional (MDR), autorizou, através de portarias publicadas na edição de segunda-feira (23), do Diário Oficial da União, a liberação de R$ 2,9 milhões para o restabelecimento de serviços essenciais à população em sete municípios mineiros e para ações de assistência humanitária no Amapá (AP), em razão de um acidente aquaviário ocorrido no final de fevereiro.
 

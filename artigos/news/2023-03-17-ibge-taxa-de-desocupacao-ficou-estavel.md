@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Taxa de desocupação ficou estável"
+title: 'IBGE: Taxa de desocupação ficou estável'
 date: 2023-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa de subutilização foi de 18,7% no trimestre encerrado em janeiro.
 

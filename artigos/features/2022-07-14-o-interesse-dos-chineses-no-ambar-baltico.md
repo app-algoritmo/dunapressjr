@@ -1,11 +1,12 @@
 ---
-title: "O interesse dos chineses no âmbar báltico"
+title: O interesse dos chineses no âmbar báltico
 date: 2022-07-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 O interesse dos chineses pelo âmbar é tão grande que um mineral orgânico não precioso, já é considerado semiprecioso. Chegando até a ser falsificado, o âmbar está em grande moda entre os chineses. Muito utilizado como contas, rosários, amuletos, jóias de casamento e [colar de âmbar,](https://www.ambarinfinity.com.br/) esse minério está fazendo sucesso. 
 

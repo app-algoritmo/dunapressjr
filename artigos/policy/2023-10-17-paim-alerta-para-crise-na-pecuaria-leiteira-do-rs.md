@@ -1,11 +1,12 @@
 ---
-title: "Paim alerta para crise na pecuária leiteira do RS"
+title: Paim alerta para crise na pecuária leiteira do RS
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta segunda-feira (16), o senador Paulo Paim (PT-RS) alertou para a crise na cadeia produtiva de leite sofrida pelos pecuaristas e agricultores familiares do Rio Grande do Sul. Segundo o parlamentar, o motivo principal é o modelo de importação de produtos adotados pelos governos estadual e federal. 
 

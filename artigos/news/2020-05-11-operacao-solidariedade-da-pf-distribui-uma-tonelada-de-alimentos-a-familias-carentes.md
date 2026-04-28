@@ -1,11 +1,13 @@
 ---
-title: "Operação Solidariedade da PF distribui uma tonelada de alimentos a famílias carentes"
+title: Operação Solidariedade da PF distribui uma tonelada de alimentos a famílias
+  carentes
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dionísio Cerqueira/SC - Na tarde da sexta-feira (8/5), a Polícia Federal realizou a OPERAÇÃO SOLIDARIEDADE, distribuindo 121 cestas básicas (aproximadamente uma tonelada em alimentos) para famílias carentes de Dionísio Cerqueira/SC e Barracão/PR como gesto humanitário para com os mais necessitados que tiveram suas carências agravadas pelas restrições decorrentes do COVID 19.
 

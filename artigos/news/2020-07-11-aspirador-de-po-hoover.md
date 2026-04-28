@@ -1,11 +1,12 @@
 ---
-title: "Aspirador de pó Hoover"
+title: Aspirador de pó Hoover
 date: 2020-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Aspirador de pó Hoover.**
 

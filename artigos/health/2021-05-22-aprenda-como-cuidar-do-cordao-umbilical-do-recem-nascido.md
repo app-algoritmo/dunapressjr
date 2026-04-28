@@ -1,11 +1,12 @@
 ---
-title: "Aprenda como cuidar do cordão umbilical do recém-nascido"
+title: Aprenda como cuidar do cordão umbilical do recém-nascido
 date: 2021-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## *Não é preciso ter medo de limpar a região porque o bebê não sente dor alguma. Caso o umbigo não cicatrize, algumas doenças precisam ser avaliadas pelo profissional de saúde.*
 

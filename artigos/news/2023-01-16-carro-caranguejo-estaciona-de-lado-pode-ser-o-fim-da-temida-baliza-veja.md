@@ -1,12 +1,13 @@
 ---
-title: "“Carro caranguejo” estaciona de lado pode ser o fim da temida baliza; veja"
+title: “Carro caranguejo” estaciona de lado pode ser o fim da temida baliza; veja
 date: 2023-01-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 ## O e-Corner permite “deslizar” o carro para a vaga desejada sem a necessidade de fazer uma baliza. Você está preparado para essa novidade?
 

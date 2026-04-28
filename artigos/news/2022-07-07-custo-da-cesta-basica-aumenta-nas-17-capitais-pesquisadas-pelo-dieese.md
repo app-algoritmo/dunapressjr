@@ -1,11 +1,12 @@
 ---
-title: "Custo da cesta básica aumenta nas 17 capitais pesquisadas pelo Dieese"
+title: Custo da cesta básica aumenta nas 17 capitais pesquisadas pelo Dieese
 date: 2022-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### São Paulo foi a capital onde a cesta básica teve maior custo.
 

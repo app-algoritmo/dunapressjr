@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IGP-DI fica em 0,69% em maio, diz FGV"
+title: Inflação medida pelo IGP-DI fica em 0,69% em maio, diz FGV
 date: 2022-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice acumula taxa de 10,56% em 12 meses.
 

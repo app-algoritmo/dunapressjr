@@ -1,11 +1,12 @@
 ---
-title: "Embaixada do Brasil em Manila confirma suspeita de brasileiros com coronavírus"
+title: Embaixada do Brasil em Manila confirma suspeita de brasileiros com coronavírus
 date: 2020-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A embaixada brasileira em Manila, nas Filipinas, confirmou
 notícia de que há brasileiros naquele país com suspeita de terem contraído o

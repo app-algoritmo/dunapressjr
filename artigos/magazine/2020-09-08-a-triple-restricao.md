@@ -1,11 +1,12 @@
 ---
-title: "A triple restrição"
+title: A triple restrição
 date: 2020-09-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Gestão e Gerenciamento de Projetos |
 

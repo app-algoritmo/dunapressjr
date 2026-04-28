@@ -1,11 +1,12 @@
 ---
-title: "Pais educadores , filhos virtuosos"
+title: Pais educadores , filhos virtuosos
 date: 2022-11-25
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 Nunca pude compreender a total apatia de uma nova geração de pais, não tão nova assim, de fato, ela começou a chamar minha atenção na década de 90, quando eu ainda era adolescente, por seus filhos, seu legado, sua real eternidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Summit da NFS transforma São Paulo na capital da nutrição neste final de semana"
+title: Summit da NFS transforma São Paulo na capital da nutrição neste final de semana
 date: 2024-05-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Maior escola de negócios para nutricionistas da América Latina vai reunir 380 profissionais entre os mais renomados do setor para dois dias de imersão em técnicas empreendedoras.
 

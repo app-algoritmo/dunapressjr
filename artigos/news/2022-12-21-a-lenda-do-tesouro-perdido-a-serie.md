@@ -1,12 +1,13 @@
 ---
-title: "A Lenda do Tesouro Perdido - A Série"
+title: A Lenda do Tesouro Perdido - A Série
 date: 2022-12-21
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego (IAEmp) do FGV IBRE cai 1,1 ponto em agosto"
+title: Indicador Antecedente de Emprego (IAEmp) do FGV IBRE cai 1,1 ponto em agosto
 date: 2023-09-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Economista do FGV IBRE avalia que oscilação no segundo semestre pode afetar ritmo da recuperação do mercado de trabalho.
 

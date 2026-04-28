@@ -1,11 +1,12 @@
 ---
-title: "Valor da produção agropecuária de 2020 é o maior dos últimos 32 anos"
+title: Valor da produção agropecuária de 2020 é o maior dos últimos 32 anos
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Valor Bruto da Produção Agropecuária (VBP) de 2020 alcançou a cifra de R$ 871,3 bilhões, tornando-se o maior da série histórica dos últimos 32 anos. O crescimento real foi de 17%. O segundo melhor resultado ocorreu em 2015, com R$ 759,6 bilhões. Os dados já incluem as estatísticas de dezembro do ano passado.
 

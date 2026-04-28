@@ -1,11 +1,12 @@
 ---
-title: "FGV: Confiança da Indústria variou -0,2 ponto em janeiro"
+title: 'FGV: Confiança da Indústria variou -0,2 ponto em janeiro'
 date: 2023-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Nível de Utilização da Capacidade Instalada da Indústria apresentou queda de 0,8 ponto.
 

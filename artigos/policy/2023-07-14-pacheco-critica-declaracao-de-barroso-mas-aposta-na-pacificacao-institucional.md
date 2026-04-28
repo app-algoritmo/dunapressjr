@@ -1,11 +1,12 @@
 ---
-title: "Pacheco critica declaração de Barroso, mas aposta na pacificação institucional"
+title: Pacheco critica declaração de Barroso, mas aposta na pacificação institucional
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado, Rodrigo Pacheco, em entrevista coletiva nesta quinta-feira (13), classificou como “inadequada, inoportuna e infeliz” declaração do ministro do Supremo Tribunal Federal (STF) Luís Roberto Barroso, que, em congresso da União Nacional dos Estudantes (UNE), disse que “derrotamos o bolsonarismo”. Pacheco declarou seu empenho na pacificação institucional, criticou a presença de Barroso em evento de caráter político e disse esperar uma reflexão e uma retratação do ministro.
 

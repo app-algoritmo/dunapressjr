@@ -1,11 +1,12 @@
 ---
-title: "Noruega divulga declaração do Grupo de Reforma da OMC de Ottawa"
+title: Noruega divulga declaração do Grupo de Reforma da OMC de Ottawa
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Relações Exteriores:
 

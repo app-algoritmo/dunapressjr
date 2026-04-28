@@ -1,11 +1,13 @@
 ---
-title: "<strong>PIB sistematicamente acima das previsões sugere maior potencial de crescimento</strong>"
+title: <strong>PIB sistematicamente acima das previsões sugere maior potencial de
+  crescimento</strong>
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Nota da Secretaria de Política Econômica avalia mudança na tendência de crescimento da economia brasileira.
 

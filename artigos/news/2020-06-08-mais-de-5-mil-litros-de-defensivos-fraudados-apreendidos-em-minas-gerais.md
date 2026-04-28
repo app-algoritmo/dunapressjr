@@ -1,11 +1,12 @@
 ---
-title: "Mais de 5 mil litros de defensivos fraudados apreendidos em Minas Gerais"
+title: Mais de 5 mil litros de defensivos fraudados apreendidos em Minas Gerais
 date: 2020-06-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Também foram apreendidos 2.700 litros de fertilizantes sem registro no Mapa, com origem desconhecida.
 

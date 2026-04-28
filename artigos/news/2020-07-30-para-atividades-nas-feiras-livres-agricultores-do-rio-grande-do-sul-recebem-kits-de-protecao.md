@@ -1,11 +1,13 @@
 ---
-title: "Para atividades nas feiras livres, agricultores do Rio Grande do Sul recebem kits de proteção"
+title: Para atividades nas feiras livres, agricultores do Rio Grande do Sul recebem
+  kits de proteção
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Foram distribuídas máscaras, frascos de álcool em gel e cartazes no litoral gaúcho e no Vale do Rio Pardo. Ao todo, aproximadamente mil famílias de agricultores feirantes serão atendidas pela iniciativa.
 

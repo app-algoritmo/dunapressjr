@@ -1,11 +1,12 @@
 ---
-title: "Minha Mãe é uma Peça 3 - A Comédia Nacional não Morreu"
+title: Minha Mãe é uma Peça 3 - A Comédia Nacional não Morreu
 date: 2020-01-12
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 *Nossa vida é como uma comédia: ninguém repara se foi longa, e sim se foi bem representada. (Sêneca)*
 

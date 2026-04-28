@@ -1,11 +1,12 @@
 ---
-title: "Brasil pode se juntar a países que baniram o Twitter"
+title: Brasil pode se juntar a países que baniram o Twitter
 date: 2024-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Com as recentes ações antidemocráticas brasileiras e as declarações de Elon Musk, o Supremo Tribunal Federal (STF) do Brasil pode agir com força, impondo multas milionárias ou até mesmo bloqueando o acesso ao Twitter no país. Se isso acontecer, o Brasil se juntará a um seleto grupo de países onde a rede social é proibida por ordem judicial.
 

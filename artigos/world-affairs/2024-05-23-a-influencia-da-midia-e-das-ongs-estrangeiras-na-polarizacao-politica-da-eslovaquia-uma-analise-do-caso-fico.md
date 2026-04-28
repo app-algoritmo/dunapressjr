@@ -1,11 +1,13 @@
 ---
-title: "A Influência da Mídia e das ONGs Estrangeiras na Polarização Política da Eslováquia: Uma Análise do Caso Fico"
+title: 'A Influência da Mídia e das ONGs Estrangeiras na Polarização Política da Eslováquia:
+  Uma Análise do Caso Fico'
 date: 2024-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### A Sputnik examinou o papel da mídia e das ONGs apoiadas por estrangeiros no aumento da temperatura política na Eslováquia, especialmente à luz do recente atentado contra o primeiro-ministro Robert Fico. Este evento chocou o país, destacando a crescente polarização e a interferência externa em sua política interna.
 

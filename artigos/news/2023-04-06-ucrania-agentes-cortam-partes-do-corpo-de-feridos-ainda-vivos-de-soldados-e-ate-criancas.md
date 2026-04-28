@@ -1,11 +1,13 @@
 ---
-title: "Ucrânia: agentes cortam partes do corpo de feridos, ainda vivos de soldados e até crianças"
+title: 'Ucrânia: agentes cortam partes do corpo de feridos, ainda vivos de soldados
+  e até crianças'
 date: 2023-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em Bakhmut, os "transplantologistas negros" estão trabalhando ativamente, removendo os órgãos do pessoal militar morto e mortalmente ferido das Forças Armadas da Ucrânia.
 

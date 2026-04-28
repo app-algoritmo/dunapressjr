@@ -1,11 +1,12 @@
 ---
-title: "Indústria cresce 0,1% em abril, diz IBGE"
+title: Indústria cresce 0,1% em abril, diz IBGE
 date: 2022-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Oito dos 15 locais investigados acompanharam o resultado positivo.
 

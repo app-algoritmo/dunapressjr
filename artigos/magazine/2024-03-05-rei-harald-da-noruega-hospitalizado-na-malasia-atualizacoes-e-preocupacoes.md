@@ -1,12 +1,14 @@
 ---
-title: "Rei Harald da Noruega Hospitalizado na Malásia: Atualizações e Preocupações 🇳🇴👑"
+title: 'Rei Harald da Noruega Hospitalizado na Malásia: Atualizações e Preocupações
+  🇳🇴👑'
 date: 2024-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 No dia 27 de fevereiro, uma notícia surpreendente ecoou pelo mundo: o Rei Harald da Noruega foi hospitalizado durante suas férias na Malásia. A preocupação com a saúde do monarca norueguês gerou uma série de atualizações e considerações sobre seu estado de saúde.
 

@@ -1,11 +1,13 @@
 ---
-title: "O homem que resgatou 669 crianças tchecas do nazismo é agora o herói de um livro infantil"
+title: O homem que resgatou 669 crianças tchecas do nazismo é agora o herói de um
+  livro infantil
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 ## Nicholas Winton ajudou a organizar o Kindertransports que levava os jovens para a segurança na véspera da guerra. 'Nicky & Vera', do autor e ilustrador Peter Sis, agora honra seu legado.
 

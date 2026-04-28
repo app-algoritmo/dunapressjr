@@ -1,12 +1,13 @@
 ---
-title: "Dicas para escolher o violão ideal para iniciantes"
+title: Dicas para escolher o violão ideal para iniciantes
 date: 2022-07-12
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Architecture and Art
-  - Culture and History
+- Architecture and Art
+- Culture and History
 ---
+
 
 Braço direito de muitos cantores e responsável por dar melodia a canções de diferentes estilos musicais, o violão é um dos instrumentos mais populares do mundo. Sua sonoridade e versatilidade acumulam admiradores, fazendo com que muitos se interessem e queiram aprender a tocá-lo. 
 

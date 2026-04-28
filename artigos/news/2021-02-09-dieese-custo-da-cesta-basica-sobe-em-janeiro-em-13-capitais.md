@@ -1,11 +1,12 @@
 ---
-title: "Dieese: custo da cesta básica sobe em janeiro em 13 capitais"
+title: 'Dieese: custo da cesta básica sobe em janeiro em 13 capitais'
 date: 2021-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São Paulo foi a capital que teve a cesta mais cara do país.
 

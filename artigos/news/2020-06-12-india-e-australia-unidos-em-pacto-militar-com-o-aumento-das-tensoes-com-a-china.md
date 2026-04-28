@@ -1,11 +1,13 @@
 ---
-title: "Índia e Austrália unidos em  pacto militar com o aumento das tensões com a China"
+title: Índia e Austrália unidos em  pacto militar com o aumento das tensões com a
+  China
 date: 2020-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Acordo concede acesso a bases e fortalece parceria com Japão e EUA.
 

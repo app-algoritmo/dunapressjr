@@ -1,11 +1,13 @@
 ---
-title: "Viktor Orbán ajuda a prevenir a Terceira Guerra Mundial em Vilnius: 'Devemos trazer paz para a Ucrânia em vez de armas'!"
+title: 'Viktor Orbán ajuda a prevenir a Terceira Guerra Mundial em Vilnius: ''Devemos
+  trazer paz para a Ucrânia em vez de armas''!'
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto Joe Biden manteve a boca fechada na cúpula da OTAN em Vilnius, o primeiro-ministro húngaro, Viktor Orbán, ajudou a impedir que a Ucrânia ingressasse na OTAN. A adesão da Ucrânia à OTAN levaria a aliança defensiva a uma guerra com a Rússia e possivelmente desencadearia a Terceira Guerra Mundial. Embora a Hungria tenha sido o único estado membro a se opor publicamente à admissão do país mais corrupto da Europa na OTAN, muitos outros "aconselharam cautela a portas fechadas", segundo o ministro das Relações Exteriores húngaro, Péter Szijjártó.
 

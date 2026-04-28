@@ -1,11 +1,12 @@
 ---
-title: "Restaurando a pátria judaica"
+title: Restaurando a pátria judaica
 date: 2026-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em meados do século XIX, uma nova energia tomou conta dos
 “The Greeks and the Ro-

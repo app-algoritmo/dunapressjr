@@ -1,13 +1,14 @@
 ---
-title: "Mais Uma... Entrevista com o Vampiro"
+title: Mais Uma... Entrevista com o Vampiro
 date: 2022-07-28
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - News
-  - Video library
+- Books
+- News
+- Video library
 ---
+
 
 Lembro o exato momento em que pude ler o livro Entrevista com o Vampiro de Anne Rice. Eu estava com vinte anos. – Acreditem, minha mãe mantinha o livro guardado, pois acreditava que a leitura era muito densa para mim. – Ela é a responsável pelo meu melhor vício, o da leitura. – Peguei o livro e fui para meu quarto e comecei a ler, e garanto, nunca mais fui a mesma. – Sempre tive grande interesse pelo sobrenatural, principalmente sobre assuntos ligados a imortalidade. E o conjunto da obra de Anne Rice, simplesmente deu a nós leitores fãs do gênero, um novo mundo. Confesso que ainda é difícil aceitar que ela se foi no dia 11 e dezembro de 2021.
 

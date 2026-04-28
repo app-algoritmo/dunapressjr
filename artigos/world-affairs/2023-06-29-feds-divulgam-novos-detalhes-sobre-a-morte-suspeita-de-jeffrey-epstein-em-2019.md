@@ -1,11 +1,12 @@
 ---
-title: "Feds divulgam novos detalhes sobre a morte suspeita de Jeffrey Epstein em 2019"
+title: Feds divulgam novos detalhes sobre a morte suspeita de Jeffrey Epstein em 2019
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Uma investigação federal forneceu novos detalhes sobre a suspeita morte em 2019 do traficante de sexo Jeffrey Epstein.
 

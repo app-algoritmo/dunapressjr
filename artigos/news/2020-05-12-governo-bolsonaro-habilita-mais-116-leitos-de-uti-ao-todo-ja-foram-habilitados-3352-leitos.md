@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro habilita mais 116 leitos de UTI, ao todo, já foram habilitados 3.352 leitos"
+title: Governo Bolsonaro habilita mais 116 leitos de UTI, ao todo, já foram habilitados
+  3.352 leitos
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na sexta-feira (8), o Ministério da Saúde habilitou mais 116 leitos de UTI para atendimento exclusivo aos pacientes graves ou gravíssimos da Covid-19. As novas habilitações contemplam quatro estados brasileiros: Rio de Janeiro, Amapá, Tocantins e Mato Grosso do Sul. As portarias que autorizam o pagamento já estão publicadas no Diário Oficial da União (DOU).
 

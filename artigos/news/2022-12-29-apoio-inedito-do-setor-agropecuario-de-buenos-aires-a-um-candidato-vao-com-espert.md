@@ -1,11 +1,13 @@
 ---
-title: "Apoio inédito do setor agropecuário de Buenos Aires a um candidato: vão com Espert"
+title: 'Apoio inédito do setor agropecuário de Buenos Aires a um candidato: vão com
+  Espert'
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Parece uma analogia, precisamente, campo. A ideia de que, para colher bem, primeiro é preciso investir em um plantio adequado. Quando José Luis Espert decidiu se candidatar à presidência em 2019, em um contexto de total polarização macrismo-kirchnerismo, muitos consideraram uma loucura. Porém, aquela instância testemunhal (que deixou um excelente desempenho no debate), foi o teto para o que veio depois. Uma eleição histórica para deputado pelo liberalismo em 2021, em um dos distritos mais complicados da Argentina. Agora, na disputa pelo governo da província, o economista acaba de receber importante apoio do setor produtivo portenho.
 

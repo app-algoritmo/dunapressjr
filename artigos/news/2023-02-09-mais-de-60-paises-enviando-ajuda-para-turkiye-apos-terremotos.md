@@ -1,11 +1,12 @@
 ---
-title: "Mais de 60 países enviando ajuda para Türkiye após terremotos"
+title: Mais de 60 países enviando ajuda para Türkiye após terremotos
 date: 2023-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Mais de 60 países estão prestando assistência a Türkiye após os terremotos mortais no sudeste do país, disse o presidente Recep Tayyip Erdoğan na quarta-feira.
 

@@ -1,12 +1,14 @@
 ---
-title: "Arthur Zanetti participa da Caravana do Esporte, do IEE, em Diadema nesta terça-feira (5)"
+title: Arthur Zanetti participa da Caravana do Esporte, do IEE, em Diadema nesta terça-feira
+  (5)
 date: 2023-12-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## O medalhista de ouro e campeão mundial da ginástica estará no Parque Ecológico Fernando Vitor de Araújo Rodrigues. O projeto reunirá 1.400 crianças e jovens das escolas do município até quinta-feira (7).
 

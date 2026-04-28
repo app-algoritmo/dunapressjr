@@ -1,11 +1,13 @@
 ---
-title: "Aprovação da reforma tributária pela Câmara dos Deputados altera Constituição em relação a impostos estaduais e municipais além do ICMS e do ISS"
+title: Aprovação da reforma tributária pela Câmara dos Deputados altera Constituição
+  em relação a impostos estaduais e municipais além do ICMS e do ISS
 date: 2023-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta inclui mudanças no Imposto de Transmissão Causa Mortis e Doação (ITCMD), IPVA, IPTU e imunidade para templos religiosos. 
 

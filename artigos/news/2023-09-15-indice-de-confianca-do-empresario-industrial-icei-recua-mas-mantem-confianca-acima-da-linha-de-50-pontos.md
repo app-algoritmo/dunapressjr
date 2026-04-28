@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança do Empresário Industrial (ICEI) recua, mas mantém confiança acima da linha de 50 pontos"
+title: Índice de Confiança do Empresário Industrial (ICEI) recua, mas mantém confiança
+  acima da linha de 50 pontos
 date: 2023-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa da CNI mostra empresários industriais ainda confiantes, apesar da queda, mas com avaliação negativa sobre a economia brasileira.
 

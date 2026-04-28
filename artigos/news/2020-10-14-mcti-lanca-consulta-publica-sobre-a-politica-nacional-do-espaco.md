@@ -1,11 +1,12 @@
 ---
-title: "MCTI lança consulta pública sobre a Política Nacional do Espaço"
+title: MCTI lança consulta pública sobre a Política Nacional do Espaço
 date: 2020-10-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) lançou na sexta-feira (9) consulta pública sobre a Política Nacional do Espaço (PNE), para reunir contribuições da sociedade para o estabelecimento de diretrizes para o programa espacial brasileiro. O lançamento da consulta pública foi realizado na cerimônia de posse do novo diretor do Instituto Nacional de Pesquisas Espaciais Inpe, unidade de pesquisa vinculada ao MCTI, em São José dos Campos (SP).
 

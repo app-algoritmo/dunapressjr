@@ -1,11 +1,12 @@
 ---
-title: "Aborto somente é uma palavra para substituir uma atitude covarde"
+title: Aborto somente é uma palavra para substituir uma atitude covarde
 date: 2019-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Não consigo entender como uma mulher poder ser "assassina" de um ser que é seu, que possue suas características genéticas e principalmente totalmente indefeso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os Herdeiros do Dragão 1x1"
+title: Os Herdeiros do Dragão 1x1
 date: 2022-08-24
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 #  E viva aos Dragões
 

@@ -1,11 +1,13 @@
 ---
-title: "Atividade econômica brasileira registra crescimento no primeiro trimestre de 2023, aponta Banco Central"
+title: Atividade econômica brasileira registra crescimento no primeiro trimestre de
+  2023, aponta Banco Central
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, o indicador ficou positivo em 3,31%.
 

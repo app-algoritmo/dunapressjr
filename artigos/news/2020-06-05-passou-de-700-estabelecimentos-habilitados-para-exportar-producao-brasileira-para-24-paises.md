@@ -1,11 +1,13 @@
 ---
-title: "Passou de 700 estabelecimentos habilitados para exportar produção brasileira para 24 países"
+title: Passou de 700 estabelecimentos habilitados para exportar produção brasileira
+  para 24 países
 date: 2020-06-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Desde janeiro de 2019, Brasil abriu mais de 65 mercados para produtos agropecuários.
 

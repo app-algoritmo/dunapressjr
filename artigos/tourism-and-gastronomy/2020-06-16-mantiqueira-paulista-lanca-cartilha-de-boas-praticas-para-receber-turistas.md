@@ -1,11 +1,12 @@
 ---
-title: "Mantiqueira Paulista lança cartilha de boas práticas para receber turistas"
+title: Mantiqueira Paulista lança cartilha de boas práticas para receber turistas
 date: 2020-06-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Material lista cuidados que devem ser adotados pelos setores de hospedagem e alimentação.
 

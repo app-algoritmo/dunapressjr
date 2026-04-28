@@ -1,11 +1,12 @@
 ---
-title: "Malcolm Forest & Friends: o show"
+title: 'Malcolm Forest & Friends: o show'
 date: 2019-04-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Malcolm Forest convida para uma noite musical no dia 25 de abril, no Nacional Club, das 19h00 às 23h00. Malcolm preparou um repertório incrível que vai desde Beatles até Elton John, e com direito à músicas em italiano, e os grandes clássicos dos anos 70 e 80!
 

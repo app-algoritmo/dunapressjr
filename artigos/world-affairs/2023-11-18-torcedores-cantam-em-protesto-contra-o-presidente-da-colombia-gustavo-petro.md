@@ -1,11 +1,12 @@
 ---
-title: "Torcedores cantam em protesto contra o presidente da Colômbia, Gustavo Petro"
+title: Torcedores cantam em protesto contra o presidente da Colômbia, Gustavo Petro
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O presidente da Colômbia, Gustavo Petro , se tornou o protagonista da partida de futebol entre as seleções colombiana e brasileira no estádio Metropolitano de Barranquilla nesta quinta-feira.
 

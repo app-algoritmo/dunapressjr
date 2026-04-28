@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em baixa pela terceira sessão seguida"
+title: Dólar fecha em baixa pela terceira sessão seguida
 date: 2021-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Moeda americana teve queda na sexta, segunda e nesta terça.
 

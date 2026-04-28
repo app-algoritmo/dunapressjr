@@ -1,11 +1,13 @@
 ---
-title: "França vive a 'guerra civil' que Macron previu para o país caso Le Pen chegasse ao poder"
+title: França vive a 'guerra civil' que Macron previu para o país caso Le Pen chegasse
+  ao poder
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A França viveu esta quinta-feira a sua **terceira noite de violentos distúrbios** em diferentes cidades do país em protesto contra a morte de um jovem de 17 anos de origem argelina por um tiro num posto policial.
 

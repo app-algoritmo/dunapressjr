@@ -1,11 +1,12 @@
 ---
-title: "Sangue de pacientes curados é alvo de pesquisa para tratar Covid-19"
+title: Sangue de pacientes curados é alvo de pesquisa para tratar Covid-19
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pessoas que já tiveram a doença podem se candidatar para doação de sangue e contribuir com os estudos.
 

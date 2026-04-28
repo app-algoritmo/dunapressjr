@@ -1,12 +1,14 @@
 ---
-title: "Investigações avançam sobre o tiroteio contra Donald Trump, Serviço Secreto faz revelações"
+title: Investigações avançam sobre o tiroteio contra Donald Trump, Serviço Secreto
+  faz revelações
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 Na tarde de hoje, um trágico tiroteio ocorreu durante um comício do ex-presidente dos Estados Unidos, Donald Trump, em Butler, Pensilvânia. O evento, que se transformou em um cenário de terror, resultou na morte de um espectador e deixou dois feridos graves, além de Trump, que sofreu um ferimento na orelha direita. 
 

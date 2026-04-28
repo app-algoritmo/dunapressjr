@@ -1,11 +1,13 @@
 ---
-title: "Sereias brasileiras enfrentam as melhores do mundo no ArcelorMittal Wahine Bodyboarding Pro, em Serra (ES)"
+title: Sereias brasileiras enfrentam as melhores do mundo no ArcelorMittal Wahine
+  Bodyboarding Pro, em Serra (ES)
 date: 2024-04-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Etapa feminina do Circuito Mundial de Bodyboarding começa neste sábado (20). Categoria profissional terá 39 atletas, entre as quais 23 do Brasil, com destaque para quatro bodyboarders entre as top 10 do ranking mundial.
 

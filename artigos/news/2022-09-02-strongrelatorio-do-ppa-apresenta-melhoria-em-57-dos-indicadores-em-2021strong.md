@@ -1,11 +1,12 @@
 ---
-title: "<strong>Relatório do PPA apresenta melhoria em 57% dos indicadores em 2021</strong>"
+title: <strong>Relatório do PPA apresenta melhoria em 57% dos indicadores em 2021</strong>
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Apesar do impacto da pandemia de Covid-19 nas políticas públicas, documento informa que maioria das metas foi cumprida.
 

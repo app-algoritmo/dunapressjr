@@ -1,11 +1,12 @@
 ---
-title: "A crueldade por trás do comércio de plumas e penas no Carnaval"
+title: A crueldade por trás do comércio de plumas e penas no Carnaval
 date: 2024-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Enquanto o Carnaval desfila suas cores vibrantes e ritmos contagiantes, por trás das fantasias exuberantes de penas e plumas, uma realidade cruel se esconde. Gansos, faisões, pavões, patos e avestruzes têm suas penas arrancadas, submetendo esses seres vivos a uma dor insuportável e uma humilhação inimaginável.
 

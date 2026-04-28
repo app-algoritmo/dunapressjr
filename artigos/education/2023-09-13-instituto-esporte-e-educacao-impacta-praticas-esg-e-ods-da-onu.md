@@ -1,12 +1,13 @@
 ---
-title: "Instituto Esporte e Educação impacta práticas ESG e ODS da ONU"
+title: Instituto Esporte e Educação impacta práticas ESG e ODS da ONU
 date: 2023-09-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## IEE atua em consonância com os ODS (Objetivos de Desenvolvimento Sustentável) da ONU e com práticas Ambientais, Sociais e de Governança (ESG), buscando ampliar o acesso qualificado à educação física e esporte para impactar positivamente a sociedade.
 

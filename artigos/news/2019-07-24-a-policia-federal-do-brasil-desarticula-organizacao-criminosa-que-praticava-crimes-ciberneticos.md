@@ -1,11 +1,13 @@
 ---
-title: "A Polícia Federal do Brasil desarticula organização criminosa que praticava crimes cibernéticos"
+title: A Polícia Federal do Brasil desarticula organização criminosa que praticava
+  crimes cibernéticos
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Sete Mandados de Busca e Apreensão e quatro Mandados de Prisão Temporária foram cumpridos na operação “spoofing”
 

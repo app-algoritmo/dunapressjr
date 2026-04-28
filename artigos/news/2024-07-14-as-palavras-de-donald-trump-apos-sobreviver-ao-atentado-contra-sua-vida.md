@@ -1,12 +1,13 @@
 ---
-title: "As palavras de Donald Trump após sobreviver ao atentado contra sua vida"
+title: As palavras de Donald Trump após sobreviver ao atentado contra sua vida
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 No último domingo, o ex-presidente Donald Trump emitiu um comunicado comovente em sua rede social, Truth Social, após sobreviver a um atentado em Butler, Pensilvânia. O incidente, que resultou em uma vítima fatal e outra gravemente ferida, chocou a nação e gerou uma rápida resposta das autoridades. Leia o artigo sobre o atentado clicando aqui: **[URGENTE: Trump é Atingido Durante Comício na Pensilvânia](https://dunapress.org/2024/07/14/urgente-trump-e-atingido-durante-comicio-na-pensilvania/)** | English version:**[ BREAKING: Trump Shot During Pennsylvania Rally – Raises Fist in Defiance](https://dunapress.org/2024/07/14/breaking-trump-shot-during-pennsylvania-rally-raises-fist-in-defiance/)**
 

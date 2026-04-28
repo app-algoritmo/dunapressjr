@@ -1,11 +1,13 @@
 ---
-title: "Engenharia climática para combater o aquecimento global? O que poderia dar errado!"
+title: Engenharia climática para combater o aquecimento global? O que poderia dar
+  errado!
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 ## Dois anos atrás, um documentário, The Dimming: Exposing The Global Climate Engineering Cover-Up, foi lançado por Dane Wigington, da Geoengineering Watch. **O documentário afirmava que a engenharia climática estava em andamento há décadas e havia sido massivamente encoberta** .
 

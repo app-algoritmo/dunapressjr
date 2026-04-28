@@ -1,11 +1,12 @@
 ---
-title: "Programa Cidades+Verdes chega ao município paulista de Colômbia"
+title: Programa Cidades+Verdes chega ao município paulista de Colômbia
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Como parte do programa Cidades+Verdes, que busca ampliar em todo o país o número e a qualidade das áreas verdes urbanas, será criado o Parque do Mirante, em Colômbia, município de São Paulo. Nesta sexta-feira (11), o ministro do Meio Ambiente, Ricardo Salles, esteve na cidade e assinou um termo de convênio que libera recurso para a urbanização e a recuperação da área degradada conhecida como Mirante.
 

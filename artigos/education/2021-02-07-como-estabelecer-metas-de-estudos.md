@@ -1,11 +1,12 @@
 ---
-title: "Como estabelecer metas de estudos"
+title: Como estabelecer metas de estudos
 date: 2021-02-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 E o mais importante como fazer estas metas darem certo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Como ficar motivado no trabalho?"
+title: Como ficar motivado no trabalho?
 date: 2022-10-03
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 Pessoas motivadas tendem a ser muito mais felizes e mais produtivas dentro do trabalho. Você precisa aumentar a sua motivação?
 

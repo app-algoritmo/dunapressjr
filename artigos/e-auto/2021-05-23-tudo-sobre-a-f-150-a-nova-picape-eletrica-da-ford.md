@@ -1,11 +1,12 @@
 ---
-title: "Tudo sobre a F-150, a nova picape elétrica da Ford"
+title: Tudo sobre a F-150, a nova picape elétrica da Ford
 date: 2021-05-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 A Ford lança sua picape elétrica pesada Ford F-150 Lightning com chassi avançado que tem suspensão dianteira e traseira independentes, bateria de até  150kw e potências entre 426 e 563cv, com preços entre os 42.000 e 90.000 US$.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil assina acordos de cooperação em vários setores com Cuba"
+title: Brasil assina acordos de cooperação em vários setores com Cuba
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Os acordos ampliam a troca de tecnologias entre os dois países.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro faz acordo que levará internet de banda larga a 350 municípios com menos de 30 mil habitantes"
+title: Governo Bolsonaro faz acordo que levará internet de banda larga a 350 municípios
+  com menos de 30 mil habitantes
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Serão atendidas com tecnologia 4G as cidades que possuem o IDH abaixo da média nacional.
 

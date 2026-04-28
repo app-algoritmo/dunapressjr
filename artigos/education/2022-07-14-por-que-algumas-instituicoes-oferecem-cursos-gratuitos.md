@@ -1,11 +1,12 @@
 ---
-title: "Por que algumas instituições oferecem cursos gratuitos?"
+title: Por que algumas instituições oferecem cursos gratuitos?
 date: 2022-07-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Nos dias atuais, várias instituições governamentais (ou mesmo não governamentais), empresas e escolas que possuem suas próprias plataformas online disponibilizam diversos cursos de forma gratuita para os seus milhares de usuários que a acessam diariamente. 
 

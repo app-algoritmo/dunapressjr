@@ -1,11 +1,12 @@
 ---
-title: "Documentário: Um golpe devastador para a “Teoria do Gênero”"
+title: 'Documentário: Um golpe devastador para a “Teoria do Gênero”'
 date: 2018-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 ## -Em 05 de setembro 2012 o [Conselho de Ministros Nórdico](http://www.norden.org/en) (uma cooperação intergovernamental regional composta pela Noruega, Suécia, Finlândia, Dinamarca e Islândia) decidiu encerrar o [Instituto](http://www.nikk.no/English/) Nórdico de Gênero do [NIKK](http://www.nikk.no/English/).
 

@@ -1,11 +1,12 @@
 ---
-title: "A demanda por sangue não vacinado está aumentando"
+title: A demanda por sangue não vacinado está aumentando
 date: 2023-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 As mudanças nos regulamentos de triagem de HIV também levantam questões
 

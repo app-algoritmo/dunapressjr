@@ -1,11 +1,12 @@
 ---
-title: "A tentativa de ataque a Milei durante sua posse como presidente da Argentina"
+title: A tentativa de ataque a Milei durante sua posse como presidente da Argentina
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Javier Milei** tomou posse este domingo como presidente da Argentina, numa cerimónia realizada nas escadarias da sede do Congresso, em Buenos Aires, na qual apresentou a sua proposta de um plano de choque para a economia que, alertou, causará "no **curto prazo a situação vai piorar"** , embora lance as bases para a "reconstrução do país".
 

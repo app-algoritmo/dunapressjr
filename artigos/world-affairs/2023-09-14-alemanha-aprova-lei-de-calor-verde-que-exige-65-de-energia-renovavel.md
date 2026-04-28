@@ -1,11 +1,12 @@
 ---
-title: "Alemanha aprova lei de calor verde que exige 65% de energia renovável"
+title: Alemanha aprova lei de calor verde que exige 65% de energia renovável
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *Esta é a face da tecnocracia. Numa lei anterior, a Alemanha exigia que as famílias substituíssem o aquecimento a gás, carvão e óleo por aquecimento eléctrico. Agora exigem que os novos sistemas utilizem 65% de energia alternativa proveniente de turbinas eólicas e painéis solares. Estes “Verdes” estão a destruir o seu país. E agora John Kerry, Joe Biden e o pessoal do New Green Deal também estão prontos para nos enfiar goela abaixo na América. *
 

@@ -1,11 +1,12 @@
 ---
-title: "CSI: Vegas 2023 – AXN Brasil"
+title: 'CSI: Vegas 2023 – AXN Brasil'
 date: 2023-10-18
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha aqui:
 

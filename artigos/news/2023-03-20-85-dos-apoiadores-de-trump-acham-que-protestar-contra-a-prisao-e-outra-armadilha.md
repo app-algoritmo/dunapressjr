@@ -1,11 +1,12 @@
 ---
-title: "85% dos apoiadores de Trump acham que protestar contra a prisão é outra armadilha"
+title: 85% dos apoiadores de Trump acham que protestar contra a prisão é outra armadilha
 date: 2023-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Uma esmagadora maioria dos entrevistados na plataforma Truth Social de Donald Trump suspeita que as manifestações contra a prisão do ex-presidente tornarão os manifestantes suscetíveis a uma armação no estilo de 6 de janeiro.
 

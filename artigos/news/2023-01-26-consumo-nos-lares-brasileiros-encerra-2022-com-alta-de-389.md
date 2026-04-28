@@ -1,11 +1,12 @@
 ---
-title: "Consumo nos lares brasileiros encerra 2022 com alta de 3,89%"
+title: Consumo nos lares brasileiros encerra 2022 com alta de 3,89%
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em dezembro, houve alta de 15,19% ante novembro.
 

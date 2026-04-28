@@ -1,11 +1,12 @@
 ---
-title: "As distrações do sistema e a matrix – Tudo vem sendo feito para lhe distrair"
+title: As distrações do sistema e a matrix – Tudo vem sendo feito para lhe distrair
 date: 2020-08-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 -O filme Matrix foi lançado em 1999 e, na época, poucas pessoas entenderam o que realmente quis dizer o filme e o quanto seria atual mesmo após mais de 20 anos. Graças as técnicas de cinema utilizadas, a visão e percepção de tudo que vivemos hoje ainda, o filme foi e é algo inovador, presente e com vários significados importante de sabermos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Minas Gerais realiza o primeiro transplante de fígado em paciente com HIV"
+title: Minas Gerais realiza o primeiro transplante de fígado em paciente com HIV
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um paciente com o vírus da Imunodeficiência Humana (HIV) recebeu o primeiro transplante de fígado realizado pelo Hospital das Clínicas da Universidade Federal de Minas Gerais, que faz parte da rede da Empresa Brasileira de Serviços Hospitalares (EBSerH). A cirurgia, conduzida pela equipe de transplante hepático, foi realizada com sucesso e o paciente já teve alta hospitalar e passa bem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Machado de Assis e Zumbi Noel"
+title: Machado de Assis e Zumbi Noel
 date: 2020-05-15
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 Se há algo que a vida acadêmica nos ensina - e olhe que os ensinamentos por ali são poucos - é que um texto nunca conversa consigo mesmo, mas está em constante diálogo com outros textos e pessoas do passado, do presente e até do futuro, pois um raciocínio claro e fundamentado adquire um caráter de predição. Esse preâmbulo criei apenas para esclarecer por que defendo a posição do atual presidente da Fundação Palmares, Sérgio Camargo, que abriu espaço para a publicação do historiador, jornalista e professor Luiz Gustavo Chrispino, carinhosamente apelidado por mim de “Machado de Niterói”, em vista de sua semelhança física com o mulato órfão, autodidata e epilético que fundou a Academia Brasileira de Letras e se consagrou um dos maiores escritores do século 19.
 

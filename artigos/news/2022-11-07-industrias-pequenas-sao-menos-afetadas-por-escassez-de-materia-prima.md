@@ -1,11 +1,12 @@
 ---
-title: "Indústrias pequenas são menos afetadas por escassez de matéria-prima"
+title: Indústrias pequenas são menos afetadas por escassez de matéria-prima
 date: 2022-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### CNI aponta melhora na situação financeira de micro e pequenas empresas.
 

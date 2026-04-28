@@ -1,11 +1,12 @@
 ---
-title: "Desastre em grande escala, alertam humanitários da ONU"
+title: Desastre em grande escala, alertam humanitários da ONU
 date: 2023-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Último terremoto de Türkiye, Síria: desastre em grande escala ainda se desenrolando, alertam humanitários da ONU
 

@@ -1,11 +1,12 @@
 ---
-title: "Episodio 1 - Wandinha é só desgosto"
+title: Episodio 1 - Wandinha é só desgosto
 date: 2022-11-29
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha
 

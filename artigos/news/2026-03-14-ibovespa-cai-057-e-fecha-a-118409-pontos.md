@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 0,57% e fecha a 118.409 pontos"
+title: Ibovespa cai 0,57% e fecha a 118.409 pontos
 date: 2026-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar comercial encerrou o dia vendido a R$ 4,905. 
 

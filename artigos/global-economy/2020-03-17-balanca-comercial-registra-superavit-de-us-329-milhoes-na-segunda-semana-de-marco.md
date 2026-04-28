@@ -1,11 +1,13 @@
 ---
-title: "Balança comercial registra superávit de US$ 329 milhões na segunda semana de março"
+title: Balança comercial registra superávit de US$ 329 milhões na segunda semana de
+  março
 date: 2020-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Exportações somara US$ 3,850 bilhões e as importações, US$ 3,521 bilhões
 

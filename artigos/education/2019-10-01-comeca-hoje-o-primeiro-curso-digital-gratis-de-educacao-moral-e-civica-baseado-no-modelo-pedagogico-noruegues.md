@@ -1,12 +1,14 @@
 ---
-title: "Começa hoje o primeiro curso digital grátis de Educação Moral e Cívica baseado no modelo pedagógico norueguês"
+title: Começa hoje o primeiro curso digital grátis de Educação Moral e Cívica baseado
+  no modelo pedagógico norueguês
 date: 2019-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 O *Programa de Educação Moral e Cívica para os Tempos da Inteligência Artificial *desenvolvido para o de ensino primário e médio foi estruturado com base no resgate de princípios e valores, e à luz da metodologia técnica e teórica do modelo norueguês. O curso foi pensado para todo tipo de escola (pública, privada ou domiciliar) e também para o estudante de qualquer idade que desejar reforçar seus conhecimentos na área.
 

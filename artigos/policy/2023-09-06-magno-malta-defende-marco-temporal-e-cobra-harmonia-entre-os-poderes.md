@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta defende marco temporal e cobra harmonia entre os Poderes"
+title: Magno Malta defende marco temporal e cobra harmonia entre os Poderes
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES), em pronunciamento nesta segunda-feira (4), disse que o Senado deve cumprir seu dever constitucional e cobrar a defesa da harmonia entre os três Poderes, que considera ameaçada pelo ativismo judicial. Ele criticou a influência das organizações não governamentais sobre o governo e declarou-se preocupado com a possibilidade de derrubada do marco temporal pelo Supremo Tribunal Federal (STF): para ele, a decisão feriria o setor agropecuário e não atenderia às demandas dos povos indígenas.
 

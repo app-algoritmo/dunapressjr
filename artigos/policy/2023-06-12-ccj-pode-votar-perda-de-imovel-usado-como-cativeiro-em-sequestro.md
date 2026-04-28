@@ -1,11 +1,12 @@
 ---
-title: "CCJ pode votar perda de imóvel usado como cativeiro em sequestro"
+title: CCJ pode votar perda de imóvel usado como cativeiro em sequestro
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) pode votar na quarta-feira (14) um projeto que prevê a perda para a União de imóvel usado como cativeiro em crimes de sequestro. Também está na pauta um projeto que obriga o poder público a colher material genético de todos os condenados por qualquer tipo de crime doloso. A reunião está marcada para as 9h30.
 

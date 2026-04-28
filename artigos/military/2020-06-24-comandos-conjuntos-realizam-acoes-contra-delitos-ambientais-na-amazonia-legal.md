@@ -1,11 +1,12 @@
 ---
-title: "Comandos Conjuntos realizam ações contra delitos ambientais na Amazônia Legal"
+title: Comandos Conjuntos realizam ações contra delitos ambientais na Amazônia Legal
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Comando Conjunto Oeste, sediado em Campo Grande, capital de Mato Grosso do Sul, está à frente de inspeções nas localidades de Palmarito, Corixa e Fortuna. Diariamente, veículos que transitam pelas estradas são vistoriados.
 

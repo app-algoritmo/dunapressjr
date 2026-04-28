@@ -1,11 +1,12 @@
 ---
-title: "O que está por detrás da vacina chino-paulista aprovada  pela Anvisa?"
+title: O que está por detrás da vacina chino-paulista aprovada  pela Anvisa?
 date: 2020-06-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Butantan e Governo de SP vão testar e produzir vacina inédita contra coronavírus.
 

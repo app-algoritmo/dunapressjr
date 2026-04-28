@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Israel: 150 mortos e 12.855 infecções,  2.967 recuperados"
+title: 'Coronavírus Israel: 150 mortos e 12.855 infecções,  2.967 recuperados'
 date: 2020-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde atualizou a contagem de coronavírus em Israel para 12.855 casos, um aumento de 97 em relação à noite anterior.
 

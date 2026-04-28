@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 recua 0,14% em dezembro, diz FGV"
+title: IGP-10 recua 0,14% em dezembro, diz FGV
 date: 2021-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano, o índice acumulou alta de 17,3%.
 

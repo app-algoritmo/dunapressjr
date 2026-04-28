@@ -1,12 +1,13 @@
 ---
-title: "Com carta de drinks inédita, hotel NH Curitiba The Five promove festa de Halloween"
+title: Com carta de drinks inédita, hotel NH Curitiba The Five promove festa de Halloween
 date: 2022-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
-  - News
+- Events
+- News
 ---
+
 
 ## Doces ou Travessuras? Five Lounge será palco de evento com decoração "assustadora", bebidas exclusivas e DJ com setlist temático.
 

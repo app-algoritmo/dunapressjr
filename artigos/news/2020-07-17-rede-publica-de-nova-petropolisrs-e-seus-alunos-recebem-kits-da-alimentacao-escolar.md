@@ -1,11 +1,13 @@
 ---
-title: "Rede pública de Nova Petrópolis/RS e seus alunos recebem kits da alimentação escolar"
+title: Rede pública de Nova Petrópolis/RS e seus alunos recebem kits da alimentação
+  escolar
 date: 2020-07-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Escrito por Assessoria de Comunicação Social do FNDE.
 

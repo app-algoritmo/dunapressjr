@@ -1,11 +1,12 @@
 ---
-title: "PF combate crimes violentos de assalto a bancos e carros fortes na Região Nordeste"
+title: PF combate crimes violentos de assalto a bancos e carros fortes na Região Nordeste
 date: 2020-04-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal deflagrou nesta sexta-feira (24/4) a Operação ARATANHA, com objetivo de combater os crimes violentos de assalto a bancos e carros fortes na Região Nordeste. A operação contou com a participação de 15 policiais federais, sendo realizado o cumprimento de dois mandados de busca e apreensão nas residências dos investigados, na cidade de Campina Grande/PB. As ordens foram expedidas pela Vara de Entorpecentes da Campina Grande/PB.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os acercamentos e as hostilidades entre USA e Irã"
+title: Os acercamentos e as hostilidades entre USA e Irã
 date: 2020-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **19 de agosto de 1953:** O chefe de governo do Irã, Mohammed Mossadegh, é derrubado, com a colaboração dos serviços secretos dos Estados Unidos e do Reino Unido, com o fim de evitar a estatização das jazidas de petróleo do país. Nos anos seguintes, Estados do Ocidente apoiam o xá Reza Pahlevi.
 

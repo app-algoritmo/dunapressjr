@@ -1,11 +1,12 @@
 ---
-title: "Jornalista é presa no Brasil"
+title: Jornalista é presa no Brasil
 date: 2023-07-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 **"Um juiz de Alagoas ordenou a detenção da jornalista Maria Aparecida, baseando-se em um trecho da decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que foi usado para embasar a prisão do jornalista Allan dos Santos."**
 

@@ -1,11 +1,12 @@
 ---
-title: "A guerra comprime a passagem do tempo"
+title: A guerra comprime a passagem do tempo
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A história tem mostrado que grandes mudanças fundamentais, desenvolvimentos, ocorreram durante ou após as guerras. Desenvolvimentos que se pensava terem levado muito mais tempo para progredir. 
 

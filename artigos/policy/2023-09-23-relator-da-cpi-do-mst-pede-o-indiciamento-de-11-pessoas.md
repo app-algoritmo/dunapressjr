@@ -1,11 +1,12 @@
 ---
-title: "Relator da CPI do MST pede o indiciamento de 11 pessoas"
+title: Relator da CPI do MST pede o indiciamento de 11 pessoas
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ricardo Salles afirma que a reforma agrária é uma política ineficiente e acusa lideranças de abusarem dos assentados.
 

@@ -1,11 +1,12 @@
 ---
-title: "CGU e PF combatem desvio de recursos da saúde em Juazeiro (BA)"
+title: CGU e PF combatem desvio de recursos da saúde em Juazeiro (BA)
 date: 2020-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Efeitos Adversos investiga empresas de mesmo grupo familiar que fraudavam licitações destinadas à aquisição de medicamentos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Revisão histórica da economia brasileira revela mudanças significativas sob novo olhar"
+title: Revisão histórica da economia brasileira revela mudanças significativas sob
+  novo olhar
 date: 2023-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisador da FGV IBRE e colaboradores apresentam novas interpretações sobre a evolução econômica nos séculos XX e XIX.
 

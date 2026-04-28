@@ -1,11 +1,12 @@
 ---
-title: "Por que a obesidade é um fator de risco para pessoas com Coronavírus?"
+title: Por que a obesidade é um fator de risco para pessoas com Coronavírus?
 date: 2021-01-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Segundo dados da Organização Mundial da Saúde (OMS), pacientes com condições crônicas pré-existentes, como diabetes e hipertensão, apresentaram versões mais graves da doença causada pelo novo Coronavírus, a COVID-19. Isso significa dizer que a infecção se desenvolveu rapidamente para a síndrome do desconforto respiratório agudo, insuficiência respiratória aguda e outras complicações.
 

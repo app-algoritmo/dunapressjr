@@ -1,11 +1,13 @@
 ---
-title: "Novas fotos mostram de perto várias instalações usadas pelos soldados americanos em Al Asad destruídas na ofensiva iraniana"
+title: Novas fotos mostram de perto várias instalações usadas pelos soldados americanos
+  em Al Asad destruídas na ofensiva iraniana
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em 13 de janeiro, novas fotos foram publicadas mostrando as consequências do ataque perpetrado pelo Irã contra a Base Aérea de Al Asad (Iraque), que abrigava tropas americanas.
 

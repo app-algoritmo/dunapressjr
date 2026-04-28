@@ -1,12 +1,13 @@
 ---
-title: "General assume a função de Conselheiro Militar na Suíça"
+title: General assume a função de Conselheiro Militar na Suíça
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Genebra (Suíça), 28/03/2020 -** O General
 de Exército Carlos Alberto Neiva Barcellos assumiu o cargo de Conselheiro

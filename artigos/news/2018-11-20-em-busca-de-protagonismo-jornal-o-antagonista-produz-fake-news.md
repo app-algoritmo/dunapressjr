@@ -1,11 +1,12 @@
 ---
-title: "Em busca de protagonismo,  jornal 'o antagonista' produz Fake News"
+title: Em busca de protagonismo,  jornal 'o antagonista' produz Fake News
 date: 2018-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em sua desesperada busca por protagonismo em vendas de assinaturas o "jornal republicano antagonista"  consegue em uma única publicação mentir mais de uma vez aos seus leitores com o tendencioso artigo "o *Black Friday* da **Casa Imperial**" .
 

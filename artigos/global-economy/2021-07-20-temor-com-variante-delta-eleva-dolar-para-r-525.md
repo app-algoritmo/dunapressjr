@@ -1,11 +1,12 @@
 ---
-title: "Temor com variante delta eleva dólar para R$ 5,25"
+title: Temor com variante delta eleva dólar para R$ 5,25
 date: 2021-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa caiu para o menor nível desde o fim de maio.
 

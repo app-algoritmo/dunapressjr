@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro projeta inflação de 5,44% para este ano"
+title: Mercado financeiro projeta inflação de 5,44% para este ano
 date: 2022-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para a taxa básica de juros ficou estável: 11,75% ao ano.
 

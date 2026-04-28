@@ -1,11 +1,12 @@
 ---
-title: "FMI atento a riscos de potencial apreensão de ativos congelados russos"
+title: FMI atento a riscos de potencial apreensão de ativos congelados russos
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O FMI “está consciente dos riscos para o sistema monetário internacional de qualquer uma dessas iniciativas”, acrescentou o Chefe da Missão do FMI para a Ucrânia, Gavin Gray.
 

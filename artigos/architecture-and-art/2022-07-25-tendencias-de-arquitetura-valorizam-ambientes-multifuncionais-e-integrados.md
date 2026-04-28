@@ -1,12 +1,13 @@
 ---
-title: "Tendências de arquitetura valorizam ambientes multifuncionais e integrados"
+title: Tendências de arquitetura valorizam ambientes multifuncionais e integrados
 date: 2022-07-25
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Architecture and Art
-  - Features
+- Architecture and Art
+- Features
 ---
+
 
 Segundo uma pesquisa realizada pela revista Casa Vogue, cerca de 38% dos brasileiros pretendem [comprar imóvel](https://loft.com.br/) em 2022. No processo de escolha, a arquitetura vem ganhando cada vez mais relevância, principalmente quando inclui as principais novidades do setor imobiliário.
 

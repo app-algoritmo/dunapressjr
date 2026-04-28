@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação oficial fica em 0,48% em fevereiro"
+title: Prévia da inflação oficial fica em 0,48% em fevereiro
 date: 2021-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pela FGV.
 

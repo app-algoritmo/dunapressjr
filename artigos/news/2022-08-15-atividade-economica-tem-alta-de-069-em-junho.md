@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica tem alta de 0,69%, em junho"
+title: Atividade econômica tem alta de 0,69%, em junho
 date: 2022-08-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### IBC-Br foi divulgado, nesta segunda-feira, pelo Banco Central.
 

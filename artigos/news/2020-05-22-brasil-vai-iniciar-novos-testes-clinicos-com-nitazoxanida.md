@@ -1,11 +1,12 @@
 ---
-title: "Brasil vai iniciar novos testes clínicos com nitazoxanida"
+title: Brasil vai iniciar novos testes clínicos com nitazoxanida
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisadores ligados ao MCTIC vão testar eficácia do medicamento em pacientes com sintomas iniciais da Covid-19.
 

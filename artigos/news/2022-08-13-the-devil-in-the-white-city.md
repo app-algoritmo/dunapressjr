@@ -1,12 +1,13 @@
 ---
-title: "The Devil in the White City"
+title: The Devil in the White City
 date: 2022-08-13
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Hotel Infernal
 

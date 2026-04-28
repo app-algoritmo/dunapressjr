@@ -1,11 +1,13 @@
 ---
-title: "A Crise dos Desabrigados na Europa: Uma Tragédia Humanitária e uma Violação dos Direitos Humanos"
+title: 'A Crise dos Desabrigados na Europa: Uma Tragédia Humanitária e uma Violação
+  dos Direitos Humanos'
 date: 2024-07-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A crise de desabrigação na Europa é, sem dúvida, uma consequência das políticas catastróficas que têm sido implementadas ao longo dos anos. Está mais claro do que nunca que essas políticas desastrosas, muitas vezes justificadas por gestões sem parâmetros de gestão socialista, levaram a resultados absurdos e inaceitáveis. É inadmissível que, enquanto financiamos guerras e aumentamos de forma absurda os gastos per capita com a indústria militar, milhares de pessoas sofram e malvivam nas ruas. Esta situação é um ultraje e precisa ser revertida urgentemente. Priorizar o bem-estar humano deve ser a principal missão de qualquer governo, e não podemos permitir que recursos vitais sejam desviados para a maquinaria de guerra enquanto a população mais vulnerável é deixada para trás. A dignidade humana exige uma ação imediata e decisiva para acabar com essa tragédia humanitária.
 

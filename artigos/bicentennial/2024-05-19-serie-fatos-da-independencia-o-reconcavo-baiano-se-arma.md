@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O Recôncavo Baiano se arma"
+title: 'Série Fatos Da Independência: O Recôncavo Baiano se arma'
 date: 2024-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Foi na Vila de Nossa Senhora do Rosário do Porto da Cachoeira que a Guerra da Independência começou para valer no Recôncavo Baiano, em 25 de junho de 1822. Nesse dia, Cachoeira foi atacada por uma canhoneira portuguesa em meio às celebrações pela aclamação de dom Pedro, Regente e Defensor Perpétuo do Brasil. Cachoeira centralizou as ações em prol da Regência de D. Pedro no Rio de Janeiro e contra o Governador de Armas Madeira de Mello e seus homens, concentrados em Salvador.
 

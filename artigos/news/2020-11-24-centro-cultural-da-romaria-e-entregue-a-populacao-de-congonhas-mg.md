@@ -1,11 +1,12 @@
 ---
-title: "Centro Cultural da Romaria é entregue à população de Congonhas (MG)"
+title: Centro Cultural da Romaria é entregue à população de Congonhas (MG)
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por meio do Iphan, também serão investidos R$ 6 milhões nas obras do Parque da Romaria na cidade mineira. Construído em 1932, em forma circular, o Prédio da Romaria está localizado na Alameda Cidade de Matozinhos de Portugal.
 

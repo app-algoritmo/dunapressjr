@@ -1,11 +1,13 @@
 ---
-title: "SP: Com ajuda de cão policial, PM apreende metralhadora e 801 porções de cocaína na capital"
+title: 'SP: Com ajuda de cão policial, PM apreende metralhadora e 801 porções de cocaína
+  na capital'
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ainda foram apreendidas 300 porções de maconha, 716 de crack e 12 munições.
 

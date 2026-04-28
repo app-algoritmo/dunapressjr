@@ -1,11 +1,12 @@
 ---
-title: "Brasil retoma da produção de urânio na Bahia"
+title: Brasil retoma da produção de urânio na Bahia
 date: 2020-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é de produção de 260 toneladas de concentrado por ano.
 

@@ -1,11 +1,13 @@
 ---
-title: "Paranaense se destaca no Mundial de Paracanoagem e desponta entre os melhores do mundo"
+title: Paranaense se destaca no Mundial de Paracanoagem e desponta entre os melhores
+  do mundo
 date: 2023-09-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Na última semana, o atleta paranaense Raphael dos Santos conquistou um feito notável na Dinamarca, solidificando seu nome entre os melhores do mundo na paracanoagem.
 

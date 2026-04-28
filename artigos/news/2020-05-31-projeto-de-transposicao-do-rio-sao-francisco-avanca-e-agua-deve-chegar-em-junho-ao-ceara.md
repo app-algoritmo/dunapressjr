@@ -1,11 +1,13 @@
 ---
-title: "Projeto de transposição do Rio São Francisco avança e água deve chegar em junho ao Ceará"
+title: Projeto de transposição do Rio São Francisco avança e água deve chegar em junho
+  ao Ceará
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério do Desenvolvimento Regional informou que foram concluídas as obras que garantem funcionalidade ao Eixo Norte. Trecho concluído permite a integração entre os reservatórios Milagres, em Pernambuco, e Jati, em território cearense. Região Metropolitana de Fortaleza será atendida a partir do Cinturão das Águas.
 

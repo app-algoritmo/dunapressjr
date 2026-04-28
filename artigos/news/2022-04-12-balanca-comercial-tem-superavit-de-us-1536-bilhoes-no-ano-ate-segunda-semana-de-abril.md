@@ -1,11 +1,13 @@
 ---
-title: "Balança comercial tem superávit de US$ 15,36 bilhões no ano, até segunda semana de abril"
+title: Balança comercial tem superávit de US$ 15,36 bilhões no ano, até segunda semana
+  de abril
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Corrente de comércio atinge US$ 147,1 bilhões, com US$ 81,23 bilhões em exportações e US$ 65,87 bilhões de importações; no mês, superávit é de US$ 3,56 bilhões.
 

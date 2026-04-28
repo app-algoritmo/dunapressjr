@@ -1,13 +1,15 @@
 ---
-title: "Diz a lenda que os Trolls da Noruega foram extintos com a chegada do cristianismo ao país"
+title: Diz a lenda que os Trolls da Noruega foram extintos com a chegada do cristianismo
+  ao país
 date: 2022-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Features
-  - Literature
-  - Video library
+- Features
+- Literature
+- Video library
 ---
+
 
 ## Lançado no dia 1 de dezembro de 2022, distribuido por Netflix e dirigido por Roar Uthaug, o filme "[O Troll da Montanha](https://www.netflix.com/br/title/81245455?s=i&trkid=13747225&vlang=pt&clip=81622819)" é um longa infantil de Natal que inicia-se com um grupo desorganizado de pessoas que devem trabalhar juntos para parar um antigo troll que foi despertado em uma montanha.
 

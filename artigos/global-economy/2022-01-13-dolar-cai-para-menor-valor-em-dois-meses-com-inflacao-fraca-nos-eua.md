@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para menor valor em dois meses com inflação fraca nos EUA"
+title: Dólar cai para menor valor em dois meses com inflação fraca nos EUA
 date: 2022-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa zera perdas do ano e volta aos 105 mil pontos.
 

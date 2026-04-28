@@ -1,12 +1,14 @@
 ---
-title: "Inteligência Artificial e Neuralink: O Futuro das Interfaces Cérebro-Máquina e Dispositivos Médicos"
+title: 'Inteligência Artificial e Neuralink: O Futuro das Interfaces Cérebro-Máquina
+  e Dispositivos Médicos'
 date: 2024-09-19
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Innovation
-  - Technology
+- Innovation
+- Technology
 ---
+
 
 **Inteligência Artificial, Neuralink e as Tendências Inovadoras em Medical Devices**
 

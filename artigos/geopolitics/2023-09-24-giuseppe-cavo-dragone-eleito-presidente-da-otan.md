@@ -1,12 +1,13 @@
 ---
-title: "Giuseppe Cavo Dragone, eleito presidente da OTAN"
+title: Giuseppe Cavo Dragone, eleito presidente da OTAN
 date: 2023-09-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Military
+- Geopolitics
+- Military
 ---
+
 
 ## **OTAN Estende o Mandato do Almirante Rob Bauer e Elege Almirante Giuseppe Cavo Dragone como seu Sucessor**.
 

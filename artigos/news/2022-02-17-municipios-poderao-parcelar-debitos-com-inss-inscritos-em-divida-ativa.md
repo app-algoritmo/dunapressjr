@@ -1,11 +1,12 @@
 ---
-title: "Municípios poderão parcelar débitos com INSS inscritos em dívida ativa"
+title: Municípios poderão parcelar débitos com INSS inscritos em dívida ativa
 date: 2022-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parcelamento em até 20 anos terá desconto na multa e nos juros.
 

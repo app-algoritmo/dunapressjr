@@ -1,11 +1,12 @@
 ---
-title: "Sistema para auxílio no combate à Covid 19 desenvolvido pela UFSCar"
+title: Sistema para auxílio no combate à Covid 19 desenvolvido pela UFSCar
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Em virtude da preocupação mundial sobre o crescimento de casos da COVID-19 no Brasil e no mundo, a atenção dos pesquisadores voltados para a área da saúde ganhou destaque. Além da busca por soluções que evitem o contágio e transmissão do novo Coronavírus, a dinâmica dos ambientes hospitalares também apresenta fatores de risco, a exemplo do procedimento que pode estabilizar um quadro de falência respiratória: a intubação traqueal. Questionando a pouca disponibilidade de dispositivos para realizar o controle da pressão dos balonetes dos tubos traqueais visando preservar a respiração do paciente durante cirurgias que envolvem anestesia geral ou quadros de complicação respiratória grave, um pesquisador do Departamento de Medicina da UFSCar trouxe o tema para a universidade visando discutir uma solução que facilitasse o trabalho de todos os profissionais da área da saúde através da utilização de um dispositivo nacional. Foi assim que teve origem a patente de invenção "Sistema para aquisição, armazenamento e transmissão da pressão do balonete de próteses endotraqueais" - o Cuffômetro inteligente - cujo **depósito de pedido de patente foi realizado nesta sexta-feira (10/07) **junto ao Instituto Nacional da Propriedade Industrial com titularidade da Universidade Federal de São Carlos.
 

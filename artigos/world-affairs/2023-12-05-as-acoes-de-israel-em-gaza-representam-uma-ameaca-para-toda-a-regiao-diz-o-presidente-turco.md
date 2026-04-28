@@ -1,11 +1,13 @@
 ---
-title: "As ações de Israel em Gaza representam uma ameaça para toda a região, diz o presidente turco"
+title: As ações de Israel em Gaza representam uma ameaça para toda a região, diz o
+  presidente turco
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Recep Tayyip Erdogan, Ancara enviou dois aviões e dois navios civis com ajuda humanitária aos habitantes de Gaza, transferindo os doentes e feridos para a Turquia para tratamento médico.
 

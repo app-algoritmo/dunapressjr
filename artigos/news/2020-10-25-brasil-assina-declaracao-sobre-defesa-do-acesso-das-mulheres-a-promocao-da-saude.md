@@ -1,11 +1,13 @@
 ---
-title: "Brasil assina declaração sobre defesa do acesso das mulheres a promoção da saúde"
+title: Brasil assina declaração sobre defesa do acesso das mulheres a promoção da
+  saúde
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Trinta e um países, incluindo o Brasil, assinaram, em cerimônia virtual, a chamada Declaração de Consenso de Genebra, um documento no qual as nações defendem a importância de garantir o acesso das mulheres aos últimos avanços em termos de promoção da saúde e reforçar o papel da família como unidade fundamental da sociedade.
 

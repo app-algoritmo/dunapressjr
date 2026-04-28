@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial fica em 0,86% em fevereiro"
+title: Inflação oficial fica em 0,86% em fevereiro
 date: 2021-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço dos combustíveis influenciou alta do mês.
 

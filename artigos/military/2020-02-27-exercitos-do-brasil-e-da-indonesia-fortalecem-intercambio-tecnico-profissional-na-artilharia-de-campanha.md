@@ -1,11 +1,13 @@
 ---
-title: "Exércitos do Brasil e da Indonésia fortalecem intercâmbio técnico-profissional na Artilharia de Campanha"
+title: Exércitos do Brasil e da Indonésia fortalecem intercâmbio técnico-profissional
+  na Artilharia de Campanha
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Jakarta (Indonésia)**
 – Os Exércitos do Brasil e da Indonésia vêm realizando diversas ações de

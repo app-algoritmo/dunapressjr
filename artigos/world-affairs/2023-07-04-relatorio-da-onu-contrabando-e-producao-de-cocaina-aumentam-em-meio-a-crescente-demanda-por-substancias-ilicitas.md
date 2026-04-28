@@ -1,11 +1,13 @@
 ---
-title: "Relatório da ONU: Contrabando e produção de cocaína aumentam em meio à crescente demanda por substâncias ilícitas"
+title: 'Relatório da ONU: Contrabando e produção de cocaína aumentam em meio à crescente
+  demanda por substâncias ilícitas'
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Um novo relatório das Nações Unidas  revela que  [o uso e a produção de cocaína estão em alta](https://www.vice.com/en/article/7kxkb9/cocaine-drug-report-united-nations) .
 

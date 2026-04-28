@@ -1,11 +1,12 @@
 ---
-title: "Diplomata russo classifica planos da missão da UE de visitar Kiev como irresponsáveis"
+title: Diplomata russo classifica planos da missão da UE de visitar Kiev como irresponsáveis
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Mikhail Galuzin destacou que tal política apenas prolongava "a agonia sem sentido" do regime do presidente ucraniano Vladimir Zelensky, prolongando o conflito e aumentando as tensões na Europa Oriental e em todo o mundo.
 

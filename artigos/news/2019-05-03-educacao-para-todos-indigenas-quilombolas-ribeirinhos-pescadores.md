@@ -1,11 +1,12 @@
 ---
-title: "Educação para todos: indígenas, quilombolas, ribeirinhos, pescadores..."
+title: 'Educação para todos: indígenas, quilombolas, ribeirinhos, pescadores...'
 date: 2019-05-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Educação justa é educação para todos, e todos os esforços devem ser realizados para atender a todos de modo igualitário, seguro e com alta-qualidade. As populações indígena, quilombola, rural, ribeirinha, fronteiriça, insular, costeira, e as comunidades de pescadores e de refugiados não têm obtido acesso a uma boa educação. Sobre isso é preciso um olhar bastante cuidadoso e muito diálogo, especialmente com cada um desses grupos. E são muitos. E o Brasil é enorme. Que desafio!
 

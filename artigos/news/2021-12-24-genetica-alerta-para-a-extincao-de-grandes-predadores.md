@@ -1,11 +1,12 @@
 ---
-title: "Genética alerta para a extinção de grandes predadores"
+title: Genética alerta para a extinção de grandes predadores
 date: 2021-12-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Grandes predadores, como as onças, desempenham importante papel nos [ecossistemas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/236-genetica-alerta-para-a-extincao-de-grandes-predadores#). Por estarem no nível mais alto da cadeia alimentar, são também chamados de ‘predadores de topo de cadeia alimentar’ e controlam o crescimento de populações de herbívoros, como capivaras, veados e porcos-do-mato, bem como de predadores de menor porte, como jaguatiricas, raposas e mãos-peladas.
 

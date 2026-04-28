@@ -1,11 +1,12 @@
 ---
-title: "Itamaraty já auxiliou no retorno de cerca de 15.500 brasileiros"
+title: Itamaraty já auxiliou no retorno de cerca de 15.500 brasileiros
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O número é estimado aos brasileiros repatriados com apoio das Embaixadas e Consulados até o dia 21 de abril.
 

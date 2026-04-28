@@ -1,11 +1,12 @@
 ---
-title: "Governadores do Sul e Sudeste unem esforços para o combate ao crime e sustentabilidade"
+title: Governadores do Sul e Sudeste unem esforços para o combate ao crime e sustentabilidade
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Tarcísio de Freitas recebeu nesta quinta-feira (19) líderes estaduais na abertura do nono encontro do Consórcio de Integração Sul e Sudeste.
 

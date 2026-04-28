@@ -1,11 +1,12 @@
 ---
-title: "Comitê de crise é criado para coordenar as ações de combate à Covid-19 no Amazonas"
+title: Comitê de crise é criado para coordenar as ações de combate à Covid-19 no Amazonas
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em visita ao Centro Integrado de Comando e Controle do Governo do Amazonas, o ministro da Saúde, Eduardo Pazuello, anunciou a criação de um comitê de crise no estado. O objetivo é agilizar e aumentar a eficiência das tomadas de decisões acerca das ações de combate à Covid-19.
 

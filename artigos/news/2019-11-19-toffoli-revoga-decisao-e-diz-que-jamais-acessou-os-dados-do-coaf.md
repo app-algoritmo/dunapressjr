@@ -1,11 +1,12 @@
 ---
-title: "Toffoli revoga decisão e diz que “JAMAIS ACESSOU” os dados do Coaf"
+title: Toffoli revoga decisão e diz que “JAMAIS ACESSOU” os dados do Coaf
 date: 2019-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente do Supremo Tribunal Federal (STF), Dias
 Toffoli, revogou ontem (18) parte de sua decisão que determinou à Unidade de

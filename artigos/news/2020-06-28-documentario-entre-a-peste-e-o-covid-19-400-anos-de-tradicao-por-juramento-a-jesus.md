@@ -1,11 +1,13 @@
 ---
-title: "Documentário: Entre a peste e o Covid-19, 400 anos de tradição por juramento a Jesus"
+title: 'Documentário: Entre a peste e o Covid-19, 400 anos de tradição por juramento
+  a Jesus'
 date: 2020-06-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Arte / Cultura / Tradição / Fé.
 

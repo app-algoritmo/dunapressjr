@@ -1,11 +1,12 @@
 ---
-title: "IA pode detectar os primeiros sinais da doença de Alzheimer"
+title: IA pode detectar os primeiros sinais da doença de Alzheimer
 date: 2023-02-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 Os algoritmos de inteligência artificial por trás do programa chatbot ChatGPT – que chamou a atenção por sua capacidade de gerar respostas escritas semelhantes às humanas para algumas das perguntas mais criativas – podem um dia ajudar os médicos a detectar a doença de Alzheimer em seus estágios iniciais. Pesquisas da Escola de Engenharia Biomédica, Ciências e Sistemas de Saúde da Drexel University demonstraram recentemente que o programa GPT-3 da OpenAI pode identificar pistas da fala espontânea com 80% de precisão na previsão dos estágios iniciais da demência.
 

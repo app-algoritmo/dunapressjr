@@ -1,12 +1,13 @@
 ---
-title: "São Gonçalo Shopping recebe cães e gatos para Feira de Adoção PET"
+title: São Gonçalo Shopping recebe cães e gatos para Feira de Adoção PET
 date: 2023-05-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 ## Ação acontece em parceria com a ONG ''Leve um Anjo para Casa''.
 

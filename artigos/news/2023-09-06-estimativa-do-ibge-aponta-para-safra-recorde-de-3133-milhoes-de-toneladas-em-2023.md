@@ -1,11 +1,13 @@
 ---
-title: "Estimativa do IBGE aponta para safra recorde de 313,3 milhões de toneladas em 2023"
+title: Estimativa do IBGE aponta para safra recorde de 313,3 milhões de toneladas
+  em 2023
 date: 2023-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Soja, Milho e Sorgo Impulsionam Crescimento de 19% na Produção de Cereais, Leguminosas e Oleaginosas em Comparação com 2022.
 

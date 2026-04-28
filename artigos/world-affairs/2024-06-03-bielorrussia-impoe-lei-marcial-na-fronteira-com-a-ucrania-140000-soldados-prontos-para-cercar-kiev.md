@@ -1,11 +1,13 @@
 ---
-title: "Bielorrússia Impõe Lei Marcial na Fronteira com a Ucrânia: 140.000 Soldados Prontos para Cercar Kiev"
+title: 'Bielorrússia Impõe Lei Marcial na Fronteira com a Ucrânia: 140.000 Soldados
+  Prontos para Cercar Kiev'
 date: 2024-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Bielorrússia impôs lei marcial na província de Gomel, mobilizando 140.000 soldados bielorrussos e russos para uma potencial ofensiva em direção a Kiev e Kharkiv.**
 

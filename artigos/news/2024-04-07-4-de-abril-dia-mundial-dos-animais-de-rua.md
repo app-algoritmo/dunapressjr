@@ -1,12 +1,13 @@
 ---
-title: "4 de abril Dia mundial dos animais de rua"
+title: 4 de abril Dia mundial dos animais de rua
 date: 2024-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Neste 4 de abril celebramos o Dia Mundial dos Animais de Rua, uma data extremamente importante para conscientizar a sociedade em relação à situação de milhões de animais que não possuem um lar.
 

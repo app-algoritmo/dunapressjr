@@ -1,11 +1,13 @@
 ---
-title: "Depois do título em Laguna, André Baran disputa o BT 400 Garopaba de Beach Tennis"
+title: Depois do título em Laguna, André Baran disputa o BT 400 Garopaba de Beach
+  Tennis
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Motivado pelo título conquistado na cidade catarinense de Laguna, André Baran jogará entre esta sexta-feira (9) e domingo (11) mais um BT 400 de Beach Tennis ao lado do russo Nikita Burmakin. A disputa será, novamente, em Santa Catarina, agora em Garopaba, encerrando a temporada, em nova etapa do Campeonato Mundial: o BT 400 Garopaba Open de Beach Tennis. 
 

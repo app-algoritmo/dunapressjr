@@ -1,11 +1,12 @@
 ---
-title: "Interview: Jeffrey Sachs Schools Piers Morgan on Geopolitical History"
+title: 'Interview: Jeffrey Sachs Schools Piers Morgan on Geopolitical History'
 date: 2024-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Politics
+- International Politics
 ---
+
 
 ## **Jeffrey Sachs Schools Piers Morgan on Geopolitical History: A Lesson in US Hypocrisy and Broken Treaties**
 

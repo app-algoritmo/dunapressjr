@@ -1,11 +1,12 @@
 ---
-title: "Profissionais reforçam quadros em um cenário de enfrentamento à Covid-19"
+title: Profissionais reforçam quadros em um cenário de enfrentamento à Covid-19
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As universidades federais já formaram 1.241 novos profissionais da saúde durante a pandemia de Covid-19. São 1.058 médicos, 150 enfermeiros, 23 farmacêuticos e dez fisioterapeutas que tiveram as colações de grau antecipadas. A ideia é reforçar o quadro de profissionais no enfrentamento ao novo coronavírus.
 

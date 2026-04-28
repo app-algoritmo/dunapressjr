@@ -1,11 +1,12 @@
 ---
-title: "MP prorroga regras para empresas brasileiras que atuam no exterior"
+title: MP prorroga regras para empresas brasileiras que atuam no exterior
 date: 2022-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Congresso vai analisar no próximo ano a [MP 1.148/2022](http://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/155599), que renova  os créditos presumidos e o regime de consolidação da Tributação em Bases Universais (TBU), que beneficia as multinacionais brasileiras com subsidiárias no exterior. A MP com a prorrogação das regras foi publicada nesta quinta-feira (22) no Diário Oficial da União.
 

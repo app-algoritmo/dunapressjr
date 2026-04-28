@@ -1,11 +1,12 @@
 ---
-title: "Comitê criado pelo Mec para monitorar políticas Ead"
+title: Comitê criado pelo Mec para monitorar políticas Ead
 date: 2020-07-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A necessidade surgiu devido à expansão da modalidade frente aos esforços empreendidos pelo MEC no enfrentamento à pandemia de Covid-19.
 

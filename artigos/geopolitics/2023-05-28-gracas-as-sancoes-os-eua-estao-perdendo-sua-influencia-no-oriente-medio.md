@@ -1,11 +1,12 @@
 ---
-title: "Graças às sanções, os EUA estão perdendo sua influência no Oriente Médio"
+title: Graças às sanções, os EUA estão perdendo sua influência no Oriente Médio
 date: 2023-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Na sexta-feira, os membros da Liga Árabe deram as boas-vindas ao governo sírio de volta à organização. 
 

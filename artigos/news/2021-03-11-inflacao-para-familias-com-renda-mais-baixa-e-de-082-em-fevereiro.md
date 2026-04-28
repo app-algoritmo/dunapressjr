@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa é de 0,82% em fevereiro"
+title: Inflação para famílias com renda mais baixa é de 0,82% em fevereiro
 date: 2021-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## INPC acumula 1,09% no ano e 6,22% em 12 meses.
 

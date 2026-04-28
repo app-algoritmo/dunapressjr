@@ -1,11 +1,12 @@
 ---
-title: "Operação Estirpe combate irregularidades na Prefeitura de Alhandra (PB)"
+title: Operação Estirpe combate irregularidades na Prefeitura de Alhandra (PB)
 date: 2020-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 CGU, GAECO/MPPB, TCE/PB, SEFAZ/PB, Polícias Civil e Militar apuram licitações direcionadas a empresas ligadas a familiares e amigos de gestores municipais.
 

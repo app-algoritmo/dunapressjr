@@ -1,11 +1,12 @@
 ---
-title: "<strong>Conheça a profissão de confeitaria e veja onde estudar</strong>"
+title: <strong>Conheça a profissão de confeitaria e veja onde estudar</strong>
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Mesmo em tempos de crise, o setor gastronômico não para de crescer, abrindo novas oportunidades para várias áreas de atuação, como da confeitaria.
 

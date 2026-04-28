@@ -1,11 +1,12 @@
 ---
-title: "Noruega para imigrantes: 50 horas de aulas em Formação Cívica"
+title: 'Noruega para imigrantes: 50 horas de aulas em Formação Cívica'
 date: 2019-08-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Aos estrangeiros que desejam residir na Noruega, exige-se motivos legítimos para adquirirem a autorização de residência, pois tal autorização  concedida implica determinados direitos e deveres. Todos têm a responsabilidade de aprender leis, isto é, todos os residentes na Noruega têm a obrigação de aprender e respeitar as leis e as regras do país, e também têm a obrigação de fornecer informações corretas quando essas são exigidas pelas autoridades. 
 

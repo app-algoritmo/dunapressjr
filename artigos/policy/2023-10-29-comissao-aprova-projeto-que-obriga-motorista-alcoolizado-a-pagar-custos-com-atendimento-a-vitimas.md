@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que obriga motorista alcoolizado a pagar custos com atendimento a vítimas"
+title: Comissão aprova projeto que obriga motorista alcoolizado a pagar custos com
+  atendimento a vítimas
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Acidentes de trânsito são a segunda maior causa de atendimentos de urgência no SUS, diz Ministério da Saúde.
 

@@ -1,11 +1,13 @@
 ---
-title: "Relatório Revela Entrada de 320 Mil Imigrantes Ilegais nos EUA por Voos Secretos em 2023"
+title: Relatório Revela Entrada de 320 Mil Imigrantes Ilegais nos EUA por Voos Secretos
+  em 2023
 date: 2024-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um relatório divulgado pelo Centro de Estudos de Imigração (CIS) na quinta-feira levantou preocupações sobre a entrada de um grande número de imigrantes ilegais nos Estados Unidos por meio de voos secretos, totalizando pelo menos 320 mil em 2023. De acordo com o CIS, essa ação teria sido realizada com o conhecimento e consentimento do Departamento de Segurança Interna (DHS) dos EUA, em colaboração com o Escritório de Alfândega e Proteção de Fronteiras (CBP), utilizando o programa CBP One.
 

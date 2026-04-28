@@ -1,11 +1,12 @@
 ---
-title: "Debatedores cobram punição por rompimento da barragem em Brumadinho"
+title: Debatedores cobram punição por rompimento da barragem em Brumadinho
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Participantes de uma audiência pública na Comissão de Direitos Humanos (CDH), nesta segunda-feira (23), criticaram a demora na conclusão de processos judiciais, no Brasil e na Alemanha, de responsabilização pelo rompimento da barragem de rejeitos da mineradora Vale, em Brumadinho (MG), no dia 25 de janeiro de 2019, e a violação de direitos humanos que se seguiu a um dos maiores desastres ambientais do país. O rompimento causou a morte de 272 pessoas e poluiu o Rio Paraopeba com rejeitos de minério. O processo também tramita na Alemanha porque a empresa alemã Tüv Süd atestou a segurança da barragem antes do rompimento. 
 

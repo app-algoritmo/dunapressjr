@@ -1,12 +1,13 @@
 ---
-title: "Italianos elegem a conservadora Giorgia  Meloni para governar o país"
+title: Italianos elegem a conservadora Giorgia  Meloni para governar o país
 date: 2022-09-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Holmestrand (Duna Press)- Os eleitores italianos escolhem Giorgia Meloni para primeiro ministro com base nos resultados parciais da eleição. 
 

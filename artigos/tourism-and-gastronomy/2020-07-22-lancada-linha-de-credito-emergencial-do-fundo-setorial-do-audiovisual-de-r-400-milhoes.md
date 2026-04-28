@@ -1,11 +1,13 @@
 ---
-title: "Lançada linha de crédito emergencial do Fundo Setorial do Audiovisual de R$ 400 milhões"
+title: Lançada linha de crédito emergencial do Fundo Setorial do Audiovisual de R$
+  400 milhões
 date: 2020-07-22
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Recursos executados por BNDES e BRDE serão destinados à manutenção de empregos e à preservação das atividades da cadeia produtiva do setor.
 

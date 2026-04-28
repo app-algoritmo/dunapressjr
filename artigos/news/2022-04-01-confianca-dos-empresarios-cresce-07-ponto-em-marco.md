@@ -1,11 +1,12 @@
 ---
-title: "Confiança dos empresários cresce 0,7 ponto em março"
+title: Confiança dos empresários cresce 0,7 ponto em março
 date: 2022-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foi a primeira alta do indicador desde novembro do ano passado.
 

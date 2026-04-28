@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula grupo criminoso que desviava material de construção da Prefeitura de Cárceres"
+title: PF desarticula grupo criminoso que desviava material de construção da Prefeitura
+  de Cárceres
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cárceres/MT - A Polícia Federal, em operação conjunta com a Força Tática, Polícia Militar e o Sistema Penitenciário, deflagrou nesta quarta-feira (3/6) a Operação BETUME, com o objetivo de desarticular grupo criminoso que atuava desviando material de construção civil (piche asfáltico) da Prefeitura Municipal de Cáceres / MT.
 

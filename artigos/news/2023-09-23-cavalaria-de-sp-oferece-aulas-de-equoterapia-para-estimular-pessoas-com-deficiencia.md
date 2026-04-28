@@ -1,11 +1,12 @@
 ---
-title: "Cavalaria de SP oferece aulas de equoterapia para estimular pessoas com deficiência"
+title: Cavalaria de SP oferece aulas de equoterapia para estimular pessoas com deficiência
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Aulas trazem benefícios físicos e psicológicos aos pacientes.
 

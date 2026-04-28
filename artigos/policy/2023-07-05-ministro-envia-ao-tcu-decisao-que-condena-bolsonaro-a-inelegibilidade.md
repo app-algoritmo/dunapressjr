@@ -1,11 +1,12 @@
 ---
-title: "Ministro envia ao TCU decisão que condena Bolsonaro à inelegibilidade"
+title: Ministro envia ao TCU decisão que condena Bolsonaro à inelegibilidade
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Punição pode impedir ex-presidente de disputar eleições de 2030.
 

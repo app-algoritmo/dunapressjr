@@ -1,12 +1,13 @@
 ---
-title: "A confiança nas vacinas infantis está diminuindo em todo o mundo"
+title: A confiança nas vacinas infantis está diminuindo em todo o mundo
 date: 2023-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Os australianos têm menos confiança nas vacinas infantis do que antes da pandemia, e temem que o sentimento contra a vacina COVID-19 possa se espalhar para outras vacinas que salvam vidas.
 

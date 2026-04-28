@@ -1,11 +1,12 @@
 ---
-title: "Renda habitual do trabalhador teve queda de 6,6% no segundo trimestre"
+title: Renda habitual do trabalhador teve queda de 6,6% no segundo trimestre
 date: 2021-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A renda efetiva, no mesmo período, teve alta de 0,9%.
 

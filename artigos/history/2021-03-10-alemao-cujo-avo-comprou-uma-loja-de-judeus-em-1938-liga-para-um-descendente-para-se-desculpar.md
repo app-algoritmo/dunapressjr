@@ -1,11 +1,13 @@
 ---
-title: "Alemão cujo avô comprou uma loja de judeus em 1938 liga para um descendente para se desculpar"
+title: Alemão cujo avô comprou uma loja de judeus em 1938 liga para um descendente
+  para se desculpar
 date: 2021-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Benjamin Heidelberger foi forçado a vender para Wilhelm Edelmann devido às leis de Nuremberg; O neto de Edelmann encontrou a neta israelense de 83 anos de Heidelberger para pedir desculpas.
 

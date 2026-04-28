@@ -1,11 +1,12 @@
 ---
-title: "Governo repassa R$ 66,8 milhões para obras de saneamento"
+title: Governo repassa R$ 66,8 milhões para obras de saneamento
 date: 2020-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No total, serão 42 empreendimentos contemplados em 15 estados.
 

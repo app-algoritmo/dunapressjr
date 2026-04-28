@@ -1,11 +1,12 @@
 ---
-title: "Maior temporada de cruzeiros da história de Itajaí começa neste sábado (10)"
+title: Maior temporada de cruzeiros da história de Itajaí começa neste sábado (10)
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí dá início à maior temporada de cruzeiros de sua história a partir deste sábado (10), com a chegada do primeiro transatlântico. Mais de 71 mil passageiros devem passar pela cidade no período, número recorde entre todas as temporadas. Ao todo, serão 24 escalas de navios da MSC Cruzeiros, Costa Favolosa e MS Marina, além de 22,5 mil embarques e desembarques, até o dia 26 de fevereiro de 2023. A expectativa é movimentar quase R$ 26 milhões na economia local.
 

@@ -1,11 +1,13 @@
 ---
-title: "Nota conjunta da Defesa e da Cidadania: Forças Armadas entregam kits alimentação às famílias atendidas pelo PROFESP"
+title: 'Nota conjunta da Defesa e da Cidadania: Forças Armadas entregam kits alimentação
+  às famílias atendidas pelo PROFESP'
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A partir de quarta-feira (08), o Ministério da Defesa (MD) deu início à entrega de kits de alimentação às famílias das crianças e jovens atendidos pelo Programa Forças no Esporte (Profesp). A iniciativa é mais um resultado da parceria entre o MD e o Ministério da Cidadania (MC), que também integra o programa. A pasta disponibilizou o recurso financeiro para a montagem dos kits e as Forças Armadas, que executam o programa, estão responsáveis pela distribuição, utilizando sua capilaridade em todo o território nacional.
 

@@ -1,11 +1,13 @@
 ---
-title: "Consulta ao 4º lote de restituição do IRPF 2023 estará disponível a partir de quinta-feira"
+title: Consulta ao 4º lote de restituição do IRPF 2023 estará disponível a partir
+  de quinta-feira
 date: 2023-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pagamentos serão realizados até 31 de agosto.
 

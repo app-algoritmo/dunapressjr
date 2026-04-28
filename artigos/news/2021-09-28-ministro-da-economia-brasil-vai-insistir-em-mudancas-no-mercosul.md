@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Economia: Brasil vai insistir em mudanças no Mercosul"
+title: 'Ministro da Economia: Brasil vai insistir em mudanças no Mercosul'
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Guedes participou de evento da Câmara Internacional de Comércio.
 

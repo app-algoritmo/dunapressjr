@@ -1,11 +1,12 @@
 ---
-title: "Sylvester Stallone Deixa a Califórnia em Busca da Liberdade na Flórida"
+title: Sylvester Stallone Deixa a Califórnia em Busca da Liberdade na Flórida
 date: 2024-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O famoso ator americano Sylvester Stallone anunciou sua decisão de deixar definitivamente a Califórnia para se mudar para a Flórida. Em um vídeo divulgado nas redes sociais, Stallone explicou: "Sua mãe e eu decidimos que é hora de nos mudar e deixar permanentemente a Califórnia e vamos para a Flórida."
 

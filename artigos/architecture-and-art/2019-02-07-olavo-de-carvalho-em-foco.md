@@ -1,11 +1,12 @@
 ---
-title: "Olavo de Carvalho em foco"
+title: Olavo de Carvalho em foco
 date: 2019-02-07
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Guru. Filosofo. Ensaísta. Embusteiro. Jornalista. Professor. Tolo
 arrogante. Muitos de fato são os nomes dados para Olavo de Carvalho, dependendo

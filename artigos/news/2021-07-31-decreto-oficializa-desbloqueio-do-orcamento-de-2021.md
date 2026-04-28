@@ -1,11 +1,12 @@
 ---
-title: "Decreto oficializa desbloqueio do Orçamento de 2021"
+title: Decreto oficializa desbloqueio do Orçamento de 2021
 date: 2021-07-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Governo liberou R$ 4,52 bilhões que estavam contingenciados.
 

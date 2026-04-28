@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em queda seguindo fraqueza da moeda no exterior"
+title: Dólar fecha em queda seguindo fraqueza da moeda no exterior
 date: 2020-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar à vista caiu 0,86% e fechou a R$ 5,2722.
 

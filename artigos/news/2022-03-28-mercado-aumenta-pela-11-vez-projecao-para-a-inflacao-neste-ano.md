@@ -1,11 +1,12 @@
 ---
-title: "Mercado aumenta pela 11ª vez projeção para a inflação neste ano"
+title: Mercado aumenta pela 11ª vez projeção para a inflação neste ano
 date: 2022-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### IPCA deve fechar 2022 em 6,86%.
 

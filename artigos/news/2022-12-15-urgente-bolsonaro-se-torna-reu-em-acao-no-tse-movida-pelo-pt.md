@@ -1,12 +1,13 @@
 ---
-title: "Urgente: Bolsonaro se torna réu em ação no TSE movida pelo PT"
+title: 'Urgente: Bolsonaro se torna réu em ação no TSE movida pelo PT'
 date: 2022-12-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Expurgo conservador marca o início da era vermelha no Brasil, eleitos perderão mandatos antes mesmo de assumir suas funções representativas.
 

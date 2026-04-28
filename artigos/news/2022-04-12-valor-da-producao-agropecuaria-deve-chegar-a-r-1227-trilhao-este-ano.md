@@ -1,11 +1,12 @@
 ---
-title: "Valor da Produção Agropecuária deve chegar a R$ 1,227 trilhão este ano"
+title: Valor da Produção Agropecuária deve chegar a R$ 1,227 trilhão este ano
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A estimativa foi divulgada pela Secretaria de Política Agrícola.
 

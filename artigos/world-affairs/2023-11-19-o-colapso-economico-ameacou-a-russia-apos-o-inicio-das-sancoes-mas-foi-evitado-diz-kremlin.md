@@ -1,11 +1,13 @@
 ---
-title: "O colapso econômico ameaçou a Rússia após o início das sanções, mas foi evitado, diz Kremlin"
+title: O colapso econômico ameaçou a Rússia após o início das sanções, mas foi evitado,
+  diz Kremlin
 date: 2023-11-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Foi necessário mobilizar todos os recursos e forças internas, disse Dmitry Peskov.
 

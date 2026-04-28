@@ -1,11 +1,13 @@
 ---
-title: "Deputados aprovam urgência para projeto que proíbe alterações nos textos da Bíblia"
+title: Deputados aprovam urgência para projeto que proíbe alterações nos textos da
+  Bíblia
 date: 2022-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (4), por [358 votos a 32](https://www.camara.leg.br/presenca-comissoes/votacao-portal?reuniao=65046&itemVotacao=10783), o requerimento de urgência para [Projeto de Lei 4606/19](https://www.camara.leg.br/noticias/860487-PROJETO-VEDA-ALTERACAO,-EDICAO-OU-ADICAO-AOS-TEXTOS-DA-BIBLIA), do deputado [Pastor Sargento Isidório (Avante-BA)](https://www.camara.leg.br/deputados/204553), que proíbe qualquer alteração, edição, supressão, adição ou adaptação aos textos dos livros da Bíblia.
 

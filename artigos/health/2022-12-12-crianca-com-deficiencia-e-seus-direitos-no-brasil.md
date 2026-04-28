@@ -1,11 +1,12 @@
 ---
-title: "Criança com Deficiência e seus direitos no Brasil"
+title: Criança com Deficiência e seus direitos no Brasil
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Dia da Criança com Deficiência é comemorado anualmente no dia 9 de dezembro. A data tem como objetivo chamar a atenção da população para a necessidade de compreensão sobre esse universo e de respeito para com as crianças, além de incentivar a promoção da melhoria da sua qualidade de vida.
 

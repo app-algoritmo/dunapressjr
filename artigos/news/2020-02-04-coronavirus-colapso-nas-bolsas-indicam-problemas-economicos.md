@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Colapso nas bolsas indicam problemas econômicos"
+title: 'Coronavírus: Colapso nas bolsas indicam problemas econômicos'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O vírus está cobrando uma alta econômica crescente, fechando negócios, restringindo viagens internacionais e impactando as linhas de produção das principais marcas globais.
 

@@ -1,11 +1,13 @@
 ---
-title: "São Francisco em Crise: Lei de Proteção Alimentar e o Declínio das Cadeias Comerciais"
+title: 'São Francisco em Crise: Lei de Proteção Alimentar e o Declínio das Cadeias
+  Comerciais'
 date: 2024-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Com uma legislação que alguns consideram incrivelmente frouxa, permitindo furtos em lojas até certo valor, e uma oferta de forças policiais considerada insuficiente, São Francisco está enfrentando uma crise no setor comercial. Lojas estão fechando em toda a cidade, deixando bairros desabastecidos e mergulhados no caos.
 

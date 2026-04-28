@@ -1,11 +1,12 @@
 ---
-title: "Cortador de Grama Victa Rotomo"
+title: Cortador de Grama Victa Rotomo
 date: 2024-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Continuando a série "50 máquinas que mudaram o rumo da história", vamos falar sobre o Cortador de Grama Victa Rotomo.
 

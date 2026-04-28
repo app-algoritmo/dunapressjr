@@ -1,11 +1,13 @@
 ---
-title: "DCTFWeb :O Novo Instrumento para Declaração de Dívidas e Créditos Tributários do IRRF na Relação de Trabalho"
+title: DCTFWeb :O Novo Instrumento para Declaração de Dívidas e Créditos Tributários
+  do IRRF na Relação de Trabalho
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Veja as Mudanças e Benefícios da DCTFWeb na Prestação de Contas Fiscais e Tributárias
 

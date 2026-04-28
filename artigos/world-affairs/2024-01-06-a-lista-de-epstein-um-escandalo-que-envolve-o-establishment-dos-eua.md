@@ -1,11 +1,12 @@
 ---
-title: "A lista de Epstein: um escândalo que envolve o establishment dos EUA"
+title: 'A lista de Epstein: um escândalo que envolve o establishment dos EUA'
 date: 2024-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Eles nos fizeram esperar. Mais de quatro anos se passaram desde a morte na prisão de **Jeffrey Epstein** , o cafetão pedófilo que abastecia a elite internacional, e um pouco menos desde a acusação de sua companheira, **Ghislaine Maxwell** , e é agora que um juiz ordenou que se publicasse o lista de clientes famosos, ainda não completa.
 

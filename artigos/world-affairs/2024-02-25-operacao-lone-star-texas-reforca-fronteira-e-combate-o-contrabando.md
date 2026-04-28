@@ -1,11 +1,12 @@
 ---
-title: "Operação Lone Star: Texas Reforça Fronteira e Combate o Contrabando"
+title: 'Operação Lone Star: Texas Reforça Fronteira e Combate o Contrabando'
 date: 2024-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador Greg Abbott, em conjunto com o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas, continua a liderar esforços para proteger a fronteira, combater o contrabando de drogas, armas e pessoas, e prevenir atividades criminosas transnacionais entre os portos de entrada.
 

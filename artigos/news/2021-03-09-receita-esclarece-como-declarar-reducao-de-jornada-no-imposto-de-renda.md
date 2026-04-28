@@ -1,11 +1,12 @@
 ---
-title: "Receita esclarece como declarar redução de jornada no Imposto de Renda"
+title: Receita esclarece como declarar redução de jornada no Imposto de Renda
 date: 2021-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contribuinte deve conferir valores na Carteira de Trabalho Digital.
 

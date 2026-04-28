@@ -1,11 +1,12 @@
 ---
-title: "Leilão arrecada R$ 505 milhões com concessões no Porto de Santos"
+title: Leilão arrecada R$ 505 milhões com concessões no Porto de Santos
 date: 2020-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As vencedoras foram a Eldorado Celulose e Bracell Celulose.
 

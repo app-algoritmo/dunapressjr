@@ -1,11 +1,13 @@
 ---
-title: "Governadora Daniela Reinehr alinha diretrizes para desenvolvimento econômico do Estado"
+title: Governadora Daniela Reinehr alinha diretrizes para desenvolvimento econômico
+  do Estado
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A governadora Daniela Reinehr recebeu o novo secretário de Estado do Desenvolvimento Econômico Sustentável, Henry Quaresma, e o adjunto Luiz Eduardo Santos para as primeiras diretrizes e alinhamento de gestão. O encontro ocorreu na residência oficial, nesta quarta-feira, 25.
 

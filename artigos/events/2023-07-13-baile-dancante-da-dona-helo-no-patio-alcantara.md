@@ -1,11 +1,12 @@
 ---
-title: "Baile Dançante da Dona Helô no Pátio Alcântara"
+title: Baile Dançante da Dona Helô no Pátio Alcântara
 date: 2023-07-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Evento gratuito acontece nesta quinta-feira, dia 13 de julho.
 

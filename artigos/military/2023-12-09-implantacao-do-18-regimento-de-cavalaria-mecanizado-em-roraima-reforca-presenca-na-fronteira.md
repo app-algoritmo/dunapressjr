@@ -1,11 +1,13 @@
 ---
-title: "Implantação do 18° Regimento de Cavalaria Mecanizado em Roraima reforça presença na fronteira"
+title: Implantação do 18° Regimento de Cavalaria Mecanizado em Roraima reforça presença
+  na fronteira
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Localizado em Boa Vista (RR), o 12° Esquadrão de Cavalaria Mecanizado (12o Esq C Mec), unidade que fornece capacidade de emprego de veículos blindados na fronteira norte, está em processo de transformação para uma estrutura três vezes maior: o 18° Regimento de Cavalaria Mecanizado (18° R C Mec). Planejada pelo Exército Brasileiro desde 2009, essa evolução estava prevista para ser conduzida no atual biênio 2022-2023 pelo Plano Estratégico do Exército 2020-2023, documento plurianual de objetivos da Força que fora consolidado em 2019. 
 

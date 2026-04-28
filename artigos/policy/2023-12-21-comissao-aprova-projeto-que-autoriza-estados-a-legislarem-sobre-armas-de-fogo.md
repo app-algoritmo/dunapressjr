@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que autoriza estados a legislarem sobre armas de fogo"
+title: Comissão aprova projeto que autoriza estados a legislarem sobre armas de fogo
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta ainda depende de análise da Comissão de Constituição e Justiça e do Plenário da Câmara.
 

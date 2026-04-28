@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende três pessoas com 550 quilos de maconha em Ponta Grossa"
+title: Polícia Federal prende três pessoas com 550 quilos de maconha em Ponta Grossa
 date: 2020-04-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Ponta Grossa/PR** – A Polícia Federal prendeu em flagrante, na manhã de sábado (18/4), em uma ação conjunta com Polícia Rodoviária Federal - PRF, três suspeitos de tráfico de drogas, com os quais foram encontrados 550 quilos de maconha.
 

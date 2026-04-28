@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em R$ 5,76 com novas medidas de lockdown na Europa"
+title: Dólar fecha em R$ 5,76 com novas medidas de lockdown na Europa
 date: 2020-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa teve maior queda diária desde abril.
 

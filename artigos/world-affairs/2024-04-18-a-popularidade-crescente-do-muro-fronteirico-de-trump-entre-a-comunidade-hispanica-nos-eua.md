@@ -1,11 +1,13 @@
 ---
-title: "A Popularidade Crescente do Muro Fronteiriço de Trump entre a Comunidade Hispânica nos EUA"
+title: A Popularidade Crescente do Muro Fronteiriço de Trump entre a Comunidade Hispânica
+  nos EUA
 date: 2024-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A ideia do ex-presidente Donald Trump de priorizar a construção de um grande muro fronteiriço ao longo da fronteira com o México ganhou apoio significativo ao longo dos anos entre a comunidade hispânica nos Estados Unidos, conforme evidenciado por um estudo recente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os Vikings não usavam chifres! Mas e os reis?"
+title: Os Vikings não usavam chifres! Mas e os reis?
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Por muito tempo ao ouvir-se falar em vikings, a primeira coisa que vinha na cabeça das pessoas era a figura de loiros barbudos com elmos de chifres.
 

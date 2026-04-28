@@ -1,11 +1,12 @@
 ---
-title: "Conheça mais sobre a doação de medula óssea"
+title: Conheça mais sobre a doação de medula óssea
 date: 2021-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O transplante de medula óssea é uma opção de tratamento recomendada em alguns casos de doenças que afetam essas células, como leucemias e linfomas. O procedimento consiste na substituição de uma medula óssea doente ou deficitária por células normais desse tecido, para que se possa reconstituir uma medula nova e saudável.
 

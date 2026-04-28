@@ -1,11 +1,12 @@
 ---
-title: "Confira dicas de como usar e manusear sua máscara de proteção"
+title: Confira dicas de como usar e manusear sua máscara de proteção
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Para reforçar junto à sociedade a importância do uso da máscara como forma de proteção e combate ao novo coronavírus, a Agência Nacional de Saúde Suplementar (ANS) está fazendo uma campanha para incentivar a medida. As mensagens alertam que o cuidado é pessoal, mas os benefícios da utilização do equipamento são coletivos. Ao usar a máscara, além de se proteger contra o vírus que pode estar circulando à sua volta, a pessoa impede a transmissão do Covid-19 aos demais, caso esteja com a doença e ainda não saiba.
 

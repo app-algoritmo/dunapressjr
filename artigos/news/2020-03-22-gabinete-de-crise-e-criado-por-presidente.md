@@ -1,11 +1,12 @@
 ---
-title: "Gabinete de Crise é criado por Presidente"
+title: Gabinete de Crise é criado por Presidente
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi instituído,  pelo Presidente da República Jair Bolsonaro, um "Gabinete de Crise" para articular e monitorar as ações interministeriais de enfrentamento à COVID-19 e para assessoramento da presidência. O Comitê de Crise para Supervisão e Monitoramento dos Impactos da COVID-19 será coordenado pela Casa Civil e atuará de forma integrada com o Grupo Executivo Interministerial de Emergência em Saúde Pública de Importância Nacional e Internacional, de que trata o Decreto nº 10.211, de 30 de janeiro de 2020.
 

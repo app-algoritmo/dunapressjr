@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia nesta quarta-feira (17) no Australian Open"
+title: Luisa Stefani estreia nesta quarta-feira (17) no Australian Open
 date: 2024-01-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana jogará por volta das 2 da madrugada (horário de Brasília), ao lado da nova parceira, a holandesa Demi Schuurs.
 

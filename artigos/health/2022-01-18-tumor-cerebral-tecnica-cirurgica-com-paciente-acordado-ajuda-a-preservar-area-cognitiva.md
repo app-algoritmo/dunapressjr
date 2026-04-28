@@ -1,11 +1,13 @@
 ---
-title: "Tumor cerebral: técnica cirúrgica com paciente acordado ajuda a preservar área cognitiva"
+title: 'Tumor cerebral: técnica cirúrgica com paciente acordado ajuda a preservar
+  área cognitiva'
 date: 2022-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Sempre fui fã de Grey's Anatomy, mas nunca imaginei passar por uma cirurgia acordada. Foi muita adrenalina”. Com bom humor, Camila Rodrigues, 25 anos, relata sua experiência para retirada de um tumor no cérebro, comparando o seu caso com a série norte-americana. O procedimento realizado no Hospital Marcelino Champagnat, em Curitiba (PR), foi o segundo ao qual foi submetida a auxiliar administrativa que diz lembrar apenas de “alguns flashes” do que se passava no centro cirúrgico. 
 

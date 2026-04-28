@@ -1,11 +1,13 @@
 ---
-title: "Precedentes de falsos sobre a Alemanha nazista, e os perigos que isso representa hoje"
+title: Precedentes de falsos sobre a Alemanha nazista, e os perigos que isso representa
+  hoje
 date: 2021-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Após sua fuga do bunker em abril de 1945, Adolf Hitler tornou-se uma espécie de viajante. Ele foi visto em um balé na cidade brasileira de Cassino; em Dublin, disfarçado em roupas femininas; e em um canteiro de obras na cidade costeira argentina de Mar del Plata.
 

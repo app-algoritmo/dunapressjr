@@ -1,11 +1,13 @@
 ---
-title: "Centro de Operações de Paz reforça o compromisso com capacitação de mulheres militares"
+title: Centro de Operações de Paz reforça o compromisso com capacitação de mulheres
+  militares
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No início de dezembro, o Centro Conjunto de Operações de Paz do Brasil (CCOPAB) concluiu o Estágio Setorial de Preparação Específica de Militares do Segmento Feminino para Operações de Paz (EPESFOP). Capacitação que exigiu das mulheres militares, de forma prática, controle emocional e resistência à fadiga em situações de operações de paz, o Estágio firmou o compromisso do Centro com a consolidação da participação feminina em missões de paz e segurança internacionais. 
 

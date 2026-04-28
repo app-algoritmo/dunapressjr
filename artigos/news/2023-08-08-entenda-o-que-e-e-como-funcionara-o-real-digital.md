@@ -1,11 +1,12 @@
 ---
-title: "Entenda o que é e como funcionará o real digital"
+title: Entenda o que é e como funcionará o real digital
 date: 2023-08-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Atrelado ao papel-moeda, Drex só deve chegar ao público no fim de 2024. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Preso no Paraguai integrante da lista de mais procurados do Ministério da Justiça e Segurança Pública"
+title: Preso no Paraguai integrante da lista de mais procurados do Ministério da Justiça
+  e Segurança Pública
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Integrante da **[Lista de Procurados Nacional do Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/operacoes-integradas/procurados)** (MJSP), **[Fabio Costa](https://www.novo.justica.gov.br/procurados/paginas/fabio_costa.pdf)**, também conhecido como Pingo e Japonês, foi preso na noite deste domingo (11) na cidade de Salto Del Guairá, na fronteira do Paraguai com o Mato Grosso do Sul. Fabio foi preso por autoridades paraguaias com o apoio da Coordenação Geral de Combate ao Crime Organizado da Secretaria de Operações Integradas (Seopi), Agência Brasileira de Inteligência (Abin) e Polícia Federal.
 

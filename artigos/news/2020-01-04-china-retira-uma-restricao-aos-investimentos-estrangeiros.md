@@ -1,11 +1,12 @@
 ---
-title: "China retira uma restrição aos investimentos estrangeiros"
+title: China retira uma restrição aos investimentos estrangeiros
 date: 2020-01-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A China retirou uma grande restrição aos investimentos
 estrangeiros no setor financeiro, uma medida há muito exigida pelos Estados

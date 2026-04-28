@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cai 0,11% em maio, revela o Banco Central"
+title: Atividade econômica cai 0,11% em maio, revela o Banco Central
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o segundo mês seguido de recuo do IBC-Br.
 

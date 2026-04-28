@@ -1,11 +1,13 @@
 ---
-title: "Governo brasileiro recebe relatório sobre violações de direitos humanos na Venezuela"
+title: Governo brasileiro recebe relatório sobre violações de direitos humanos na
+  Venezuela
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A titular do Ministério da Mulher, da Família e dos Direitos Humanos, ministra Damares Alves, esteve com o ministro-conselheiro da Embaixada da Venezuela em Brasília, Tomás Alejandro Silva Guzmán, nesta quinta-feira (17). Durante o encontro, houve a entrega simbólica do relatório da Missão Internacional de Verificação de Fatos sobre a Venezuela. Estabelecida em 2019 pelo Conselho de Direitos Humanos (CDH) das Nações Unidas (ONU), a iniciativa teve o apoio do Brasil.
 

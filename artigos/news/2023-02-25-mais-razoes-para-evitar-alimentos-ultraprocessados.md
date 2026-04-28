@@ -1,11 +1,12 @@
 ---
-title: "Mais razões para evitar alimentos ultraprocessados"
+title: Mais razões para evitar alimentos ultraprocessados
 date: 2023-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Na avaliação mais abrangente até o momento, os alimentos ultraprocessados ​​foram associados a um risco aumentado de certas doenças.
 

@@ -1,11 +1,13 @@
 ---
-title: "Os legisladores do Missouri propõem um projeto de lei para obrigar a rotulagem de carne e produtos alimentícios derivados de animais vacinados com mRNA"
+title: Os legisladores do Missouri propõem um projeto de lei para obrigar a rotulagem
+  de carne e produtos alimentícios derivados de animais vacinados com mRNA
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Com a ajuda do advogado de Ohio, Thomas Renz, o deputado Holly Jones (R-Mo.), gerente de negócios de Renz, elaborou [e apresentou um novo projeto de lei](https://thecovidblog.com/2023/04/18/missouri-hb-1169-would-force-meat-food-producers-to-label-products-that-utilize-mrna-vaccines-in-animals-while-lobbyists-and-billionaires-fight-to-stop-the-bill-from-becoming-law/) que exigiria carne e outros produtores de alimentos para rotular seus produtos como tendo sido geneticamente modificados. -editado no caso de os animais e plantas de onde foram produzidos foram “vacinados” com mRNA (RNA mensageiro) para o coronavírus Wuhan (Covid-19).
 

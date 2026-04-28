@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal confirma a entrega de mais 272 respiradores mecânicos até o final de abril"
+title: Governo Federal confirma a entrega de mais 272 respiradores mecânicos até o
+  final de abril
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal entregará, até o final de abril, mais 272 respiradores produzidos no Brasil. Os contratos assinados no último dia garantem uma solução nacional para ajudar a atender as necessidades do Sistema Único de Saúde (SUS). Ao longo de três meses, mais de 15 instituições vão abastecer o sistema público de saúde, com 14.100 respiradores.
 

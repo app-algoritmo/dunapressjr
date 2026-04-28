@@ -1,11 +1,13 @@
 ---
-title: "General Flynn: Os congressistas estão 'comprometidos porque dormem com crianças' e são 'propriedade de globalistas'"
+title: 'General Flynn: Os congressistas estão ''comprometidos porque dormem com crianças''
+  e são ''propriedade de globalistas'''
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O General Michael Flynn fez uma declaração explosiva alegando que os membros do Congresso são “propriedade de globalistas” porque foram apanhados “dormindo com crianças”.
 

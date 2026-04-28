@@ -1,11 +1,12 @@
 ---
-title: "Bagattoli critica recepção a Nicolás Maduro"
+title: Bagattoli critica recepção a Nicolás Maduro
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jaime Bagattoli (PL-RO) criticou, em pronunciamento no Plenário, na terça-feira (30), o fato de o presidente da República, Luiz Inácio Lula da Silva, ter recebido esta semana o presidente da Venezuela, Nicolás Maduro, com "honras e homenagens" de chefe de Estado.
 

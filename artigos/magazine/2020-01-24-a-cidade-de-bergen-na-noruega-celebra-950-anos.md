@@ -1,11 +1,12 @@
 ---
-title: "A cidade de Bergen na Noruega celebra 950 anos"
+title: A cidade de Bergen na Noruega celebra 950 anos
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## -Em cooperação com Bergen Lights, o navio escolar "Statsraad Lehmkuhl" e o Museu da Cidade, o município organizou uma celebração em larga escala do ano de aniversário.
 

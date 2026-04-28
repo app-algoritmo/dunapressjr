@@ -1,11 +1,12 @@
 ---
-title: "<strong>Ministro do STF suspende aplicação do piso nacional da enfermagem</strong>"
+title: <strong>Ministro do STF suspende aplicação do piso nacional da enfermagem</strong>
 date: 2022-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Entes públicos e privados tem 60 dias para informar impacto financeiro.
 

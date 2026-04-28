@@ -1,11 +1,13 @@
 ---
-title: "Veppex declara presidente Lula 'persona non grata' por seu apoio ao regime de Maduro"
+title: Veppex declara presidente Lula 'persona non grata' por seu apoio ao regime
+  de Maduro
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Organização de venezuelanos exilados critica declarações de Lula e destaca violações de direitos humanos na Venezuela.
 

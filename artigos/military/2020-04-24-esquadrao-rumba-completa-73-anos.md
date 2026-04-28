@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão Rumba completa 73 Anos"
+title: Esquadrão Rumba completa 73 Anos
 date: 2020-04-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta sexta-feira (24), O Esquadrão Rumba - Primeiro Esquadrão do Quinto Grupo de Aviação (1º/5º GAV), sediado na Ala 10, em Parnamirim (RN), completa 73 anos de história. O Esquadrão teve sua origem diretamente ligada à criação do Quinto Grupo de Aviação (5º GAV), quando era responsável pela formação de pilotos de bombardeio utilizando inicialmente as aeronaves North American B-25* "Mitchell*" e, a partir de 1957, as aeronaves Douglas B-26 "*Invader*".
 

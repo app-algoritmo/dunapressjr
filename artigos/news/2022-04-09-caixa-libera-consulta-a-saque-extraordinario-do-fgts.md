@@ -1,11 +1,12 @@
 ---
-title: "Caixa libera consulta a saque extraordinário do FGTS"
+title: Caixa libera consulta a saque extraordinário do FGTS
 date: 2022-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informações podem ser consultadas a partir de hoje no site do banco.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo argentino oficializou convocação de sessões extraordinárias do Congresso"
+title: Governo argentino oficializou convocação de sessões extraordinárias do Congresso
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com a publicação do Decreto 76/2023 no Diário Oficial, o Poder Executivo oficializou a convocação de sessões extraordinárias do Congresso Nacional que ocorrerão até 31 de janeiro.
 

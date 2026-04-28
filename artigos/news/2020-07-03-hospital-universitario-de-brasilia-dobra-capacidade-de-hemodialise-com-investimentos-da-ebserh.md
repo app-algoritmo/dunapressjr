@@ -1,11 +1,13 @@
 ---
-title: "Hospital Universitário de Brasília dobra capacidade de hemodiálise, com investimentos da Ebserh"
+title: Hospital Universitário de Brasília dobra capacidade de hemodiálise, com investimentos
+  da Ebserh
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Expansão ajuda a liberar mais leitos de UTI no DF, importante a qualquer tempo, mas principalmente durante a pandemia de Covid-19.
 

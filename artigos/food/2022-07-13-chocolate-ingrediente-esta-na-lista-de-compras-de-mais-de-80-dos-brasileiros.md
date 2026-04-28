@@ -1,11 +1,12 @@
 ---
-title: "Chocolate: ingrediente está na lista de compras de mais de 80% dos brasileiros"
+title: 'Chocolate: ingrediente está na lista de compras de mais de 80% dos brasileiros'
 date: 2022-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Pesquisa da Associação Brasileira da Indústria de Chocolates, Amendoim e Balas (Abicab), realizada em parceria com o Instituto Kantar, revela que houve um aumento considerável na compra e consumo de chocolates, com crescimento de 1,5% nos últimos anos. Hoje, o chocolate já atinge 82,6% das casas brasileiras.
 

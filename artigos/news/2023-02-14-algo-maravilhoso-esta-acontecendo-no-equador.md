@@ -1,11 +1,12 @@
 ---
-title: "Algo maravilhoso está acontecendo no Equador"
+title: Algo maravilhoso está acontecendo no Equador
 date: 2023-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em 3 de fevereiro, os combatentes da liberdade no Equador obtiveram uma importante vitória legal contra o Ministério da Saúde, que agora é obrigado a divulgar contratos com fabricantes de vacinas. 
 

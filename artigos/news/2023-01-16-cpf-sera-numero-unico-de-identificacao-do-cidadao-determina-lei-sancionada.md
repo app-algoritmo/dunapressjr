@@ -1,11 +1,12 @@
 ---
-title: "CPF será número único de identificação do cidadão, determina lei sancionada"
+title: CPF será número único de identificação do cidadão, determina lei sancionada
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Luiz Inácio Lula da Silva sancionou na quarta-feira (11) a [Lei 14.534, de 2023,](http://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-01-11;14534) determinando que o número do Cadastro da Pessoa Física (CPF) seja adotado como único número do registro geral (RG) no Brasil. A nova identificação só passará a valer integralmente, no entanto, após adequações feitas por órgãos públicos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Açafrão: uma nova matéria-prima para curativos"
+title: 'Açafrão: uma nova matéria-prima para curativos'
 date: 2021-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pesquisa inovadora pode ajudar na cicatrização de pequenos ferimentos.
 

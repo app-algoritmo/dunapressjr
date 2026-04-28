@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí retoma reuniões da Sala de Situação de Combate à Dengue"
+title: Município de Itajaí retoma reuniões da Sala de Situação de Combate à Dengue
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí retomou nesta quinta-feira (17) as reuniões da Sala de Situação de Combate à Dengue. Em encontro no Gabinete do Prefeito, os membros definiram algumas ações de controle do mosquito Aedes aegypti para o verão. Entre as atividades, ficaram programadas fiscalizações conjuntas em locais com armazenamento irregular de materiais recicláveis, que acabam acumulando água. Também ficou definido que as reuniões serão mensais a partir de 2021.
 

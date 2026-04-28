@@ -1,11 +1,12 @@
 ---
-title: "Custo do desmatamento na Amazônia"
+title: Custo do desmatamento na Amazônia
 date: 2021-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Floresta Amazônica se distribui por diversos países, tendo uma porção considerável dentro do território brasileiro. Ela faz parte do bioma “floresta tropical úmida” e é rica em biodiversidade, possuindo pelo menos 40 mil espécies de plantas, 427 mamíferos, 1.294 aves, 378 répteis, 427 anfíbios, cerca de 3 mil peixes e mais de 96 mil invertebrados já descritos. Além da grande quantidade de seres vivos que a região abriga, a floresta também presta serviços diretos e indiretos ao ser humano.
 

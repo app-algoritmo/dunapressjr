@@ -1,11 +1,12 @@
 ---
-title: "Hemocentros precisam da doação de sangue"
+title: Hemocentros precisam da doação de sangue
 date: 2020-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Podem doar pessoas entre 16 e 69 anos, pesem no mínimo 50 kg e estejam em boas condições de saúde.
 

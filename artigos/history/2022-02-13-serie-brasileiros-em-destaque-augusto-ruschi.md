@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Augusto Ruschi"
+title: 'Série Brasileiros em Destaque: Augusto Ruschi'
 date: 2022-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Biólogo, topógrafo, advogado, pesquisador e professor, Augusto Ruschi nasceu na cidade de Santa Teresa, no Espírito Santo. Instigado e deslumbrado pela natureza desde muito criança, Ruschi viveu sua vida cercado pela exuberância da fauna e da flora brasileiras. Graduou-se em Agronomia, mas sua paixão era a Biologia, sobretudo, os beija-flores e as orquídeas, os quais estudava em um pequeno laboratório doméstico, montado por ele mesmo, durante sua juventude. As coleções que montou durante muitos anos receberam ilustres visitantes - do entomólogo italiano Filippo Silvestri e do zoólogo brasileiro Cândido Firmino de Mello Leitão.
 

@@ -1,12 +1,13 @@
 ---
-title: "Monark: O Mais Novo Influencer Exilado do direito de expressão"
+title: 'Monark: O Mais Novo Influencer Exilado do direito de expressão'
 date: 2023-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Social networks
+- Policy
+- Social networks
 ---
+
 
 A notícia abalou as redes sociais e a comunidade de criadores de conteúdo no Brasil. Bruno Aiub, popularmente conhecido como Monark, anunciou seu "exílio" em uma declaração intrigante nas redes sociais. Com mais de 6 milhões de seguidores, Monark é um influenciador digital renomado, mas a razão por trás de sua partida do Brasil é mais complexa do que se poderia imaginar.
 

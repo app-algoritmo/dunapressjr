@@ -1,11 +1,13 @@
 ---
-title: "Museu de Tel Aviv restaura obras de arte como itens de uma enorme coleção encontrada em Berlim"
+title: Museu de Tel Aviv restaura obras de arte como itens de uma enorme coleção encontrada
+  em Berlim
 date: 2021-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Enquanto Israel comemorava o Dia em Memória do Holocausto, o Museu de Arte de Tel Aviv está prestes a concluir a restituição de duas tapeçarias flamengas do século 17 saqueadas pelos nazistas durante a Segunda Guerra Mundial.
 

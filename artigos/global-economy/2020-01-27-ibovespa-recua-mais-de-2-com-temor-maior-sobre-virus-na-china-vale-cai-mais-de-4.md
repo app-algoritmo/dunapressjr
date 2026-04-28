@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa recua mais de 2% com temor maior sobre vírus na China; Vale cai mais de 4%"
+title: Ibovespa recua mais de 2% com temor maior sobre vírus na China; Vale cai mais
+  de 4%
 date: 2020-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O tom negativo prevalecia na
 bolsa paulista nesta segunda-feira(27), com o Ibovespa recuando mais de 2%,

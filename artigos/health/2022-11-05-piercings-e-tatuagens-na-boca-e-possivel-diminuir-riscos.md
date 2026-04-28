@@ -1,11 +1,12 @@
 ---
-title: "Piercings e tatuagens na boca: é possível diminuir riscos?"
+title: 'Piercings e tatuagens na boca: é possível diminuir riscos?'
 date: 2022-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Por ser uma área com alto número de bactérias, procedimentos feitos sem os devidos cuidados podem causar infecções e outras complicações.
 

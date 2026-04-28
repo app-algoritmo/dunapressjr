@@ -1,11 +1,12 @@
 ---
-title: "Seis filmes e séries que ajudam a ganhar repertório para o Enem"
+title: Seis filmes e séries que ajudam a ganhar repertório para o Enem
 date: 2023-09-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Lista traz indicações para estudantes que querem aproveitar até horário de lazer para se preparar para exame.
 

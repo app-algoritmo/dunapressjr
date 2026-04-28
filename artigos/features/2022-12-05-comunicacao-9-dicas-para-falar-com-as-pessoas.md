@@ -1,11 +1,12 @@
 ---
-title: "Comunicação: 9 Dicas para falar com as pessoas"
+title: 'Comunicação: 9 Dicas para falar com as pessoas'
 date: 2022-12-05
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Para estabelecer confiança, sentimentos e pensamentos são necessários algum tipo uma comunicação. O ser humano desde sempre quer se comunicar com os outros, tanto que desde os primórdios fazia gravura nas cavernas.
 

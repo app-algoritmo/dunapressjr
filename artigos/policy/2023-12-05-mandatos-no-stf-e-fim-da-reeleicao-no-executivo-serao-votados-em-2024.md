@@ -1,11 +1,12 @@
 ---
-title: "Mandatos no STF e fim da reeleição no Executivo serão votados em 2024"
+title: Mandatos no STF e fim da reeleição no Executivo serão votados em 2024
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O fim da reeleição no Executivo e a transformação dos cargos de ministros do Supremo Tribunal Federal em mandatos temporários estarão na pauta do Poder Legislativo em 2024. O presidente do Senado e do Congresso, Rodrigo Pacheco, já mencionou que pautará as propostas para votação no ano que vem. As mudanças são apoiadas por vários senadores. Os senadores Plínio Valério (PSDB-AM), Flávio Arns (PSB-PR) e Angelo Coronel (PSD-BA) têm propostas semelhantes que estão na Comissão de Constituição e Justiça (CCJ), mas ainda não tiveram a relatoria indicada.
 

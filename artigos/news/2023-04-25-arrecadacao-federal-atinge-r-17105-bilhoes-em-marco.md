@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal atinge R$ 171,05 bilhões em março"
+title: Arrecadação federal atinge R$ 171,05 bilhões em março
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve queda de 0,42% em relação ao mesmo mês de 2022.
 

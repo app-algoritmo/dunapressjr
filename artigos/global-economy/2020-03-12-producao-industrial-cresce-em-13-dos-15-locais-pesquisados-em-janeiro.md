@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cresce em 13 dos 15 locais pesquisados em janeiro"
+title: Produção industrial cresce em 13 dos 15 locais pesquisados em janeiro
 date: 2020-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Taxas são as maiores desde junho de 2018
 

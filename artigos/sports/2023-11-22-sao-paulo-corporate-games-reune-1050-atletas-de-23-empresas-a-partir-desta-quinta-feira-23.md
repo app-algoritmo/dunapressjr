@@ -1,11 +1,13 @@
 ---
-title: "São Paulo Corporate Games reúne 1.050 atletas de 23 empresas a partir desta quinta-feira (23)"
+title: São Paulo Corporate Games reúne 1.050 atletas de 23 empresas a partir desta
+  quinta-feira (23)
 date: 2023-11-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior olimpíada corporativa do mundo chega pela primeira vez ao Brasil, com disputas até este domingo (26), reunindo competidores em 11 modalidades, em quatro sedes, em chaves individuais, coletivas e por grupos de idade, para homens e mulheres.
 

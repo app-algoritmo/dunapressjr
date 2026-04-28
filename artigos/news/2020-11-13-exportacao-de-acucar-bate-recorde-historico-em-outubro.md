@@ -1,11 +1,12 @@
 ---
-title: "Exportação de açúcar bate recorde histórico em outubro"
+title: Exportação de açúcar bate recorde histórico em outubro
 date: 2020-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As exportações totais do agronegócio somaram mais de US$ 8 bilhões.
 

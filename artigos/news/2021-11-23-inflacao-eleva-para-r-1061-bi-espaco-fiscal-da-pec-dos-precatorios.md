@@ -1,11 +1,12 @@
 ---
-title: "Inflação eleva para R$ 106,1 bi espaço fiscal da PEC dos Precatórios"
+title: Inflação eleva para R$ 106,1 bi espaço fiscal da PEC dos Precatórios
 date: 2021-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo secretário, governo só terá R$ 1,1 bi livres desse total.
 

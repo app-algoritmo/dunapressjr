@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas levam alento à população durante distanciamento social"
+title: Forças Armadas levam alento à população durante distanciamento social
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 18/04/2020 -** Com a prática do distanciamento social, diversos artistas têm transmitido apresentações musicais por meio das redes sociais, buscando levar entretenimento e ter contato com o público, que permanece o máximo possível em suas residências. No âmbito do Ministério da Defesa, bandas de música das Forças Armadas também buscam levar alento à sociedade brasileira por meio do entretenimento, principalmente em unidades de saúde que recebem pacientes com casos suspeitos ou confirmados da doença causada pelo novo Coronavírus (COVID-19).
 

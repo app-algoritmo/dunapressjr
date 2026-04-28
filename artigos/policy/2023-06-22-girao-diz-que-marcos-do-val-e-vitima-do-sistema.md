@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que Marcos do Val é 'vítima do sistema'"
+title: Girão diz que Marcos do Val é 'vítima do sistema'
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O senador Eduardo Girão (Novo-CE) se solidarizou com o senador Marcos do Val (Podemos-ES), que pediu licença do cargo devido a problemas de saúde. 
 

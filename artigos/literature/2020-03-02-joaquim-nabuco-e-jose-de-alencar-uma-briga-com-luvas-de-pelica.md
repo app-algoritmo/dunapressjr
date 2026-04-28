@@ -1,11 +1,12 @@
 ---
-title: "Joaquim Nabuco e José de Alencar: Uma briga com luvas de pelica"
+title: 'Joaquim Nabuco e José de Alencar: Uma briga com luvas de pelica'
 date: 2020-03-02
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Nada como ir ao mais alto céu através do ato de pôr os pés nos ombros de gigantes, dito isso, com um grande gigante da crítica literária, Alfredo Bosi, começo minha análise: “Não foi espírito original: há, em *Minha Formação *(1898) não poucos lugares-comuns de cosmopolita e diletante, ainda preso a tipologias feitas como “o espírito inglês”, “a alma francesa”, “a democracia americana”, etc. Mas, sempre que volta à memória da infância, aos primeiros contatos com o negro (“Massangana” em *Minha Formação*) e, sobretudo, à imagem do pai, cuja vida recompôs nos volumes de *Um Estadista do Império *(1899), **demonstra o pulso do memorialista capaz de dar à História a altura de “ressurreição do passado” que lhe preconizava Michelet**. A proclamação da República não o demoveu dos ideais  monarquistas, mas também não o impediu de servir ao país, na qualidade de embaixador em Londres e em Washington, onde faleceu em 1910.” (grifo nosso).
 

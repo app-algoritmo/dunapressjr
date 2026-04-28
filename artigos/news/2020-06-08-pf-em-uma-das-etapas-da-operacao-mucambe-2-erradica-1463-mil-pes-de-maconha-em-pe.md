@@ -1,11 +1,13 @@
 ---
-title: "PF, em uma das etapas da Operação Muçambê 2, erradica 146,3 mil pés de maconha em PE"
+title: PF, em uma das etapas da Operação Muçambê 2, erradica 146,3 mil pés de maconha
+  em PE
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Salgueiro/PE – A Polícia Federal, com o apoio da Polícia Rodoviária Federal, PMPE e Corpo de Bombeiros de Pernambuco, realizou entre os dias 02 a 07 de junho, uma das etapas da Operação Muçambê 2. Nessa etapa foram erradicados 146,3 mil pés de maconha, localizados em 48 roças na região de Cabrobó e Belém de São Francisco, no Sertão de Pernambuco.
 

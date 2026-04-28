@@ -1,12 +1,13 @@
 ---
-title: "Livros para se Apaixonar"
+title: Livros para se Apaixonar
 date: 2022-08-01
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 Romance de Época 
 

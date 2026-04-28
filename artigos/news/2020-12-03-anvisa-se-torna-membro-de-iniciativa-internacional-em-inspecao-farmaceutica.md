@@ -1,11 +1,12 @@
 ---
-title: "Anvisa se torna membro de iniciativa internacional em inspeção farmacêutica"
+title: Anvisa se torna membro de iniciativa internacional em inspeção farmacêutica
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Agência Nacional de Vigilância Sanitária (Anvisa) foi formalmente comunicada da conclusão, com sucesso, do processo de adesão da Agência ao Esquema de Cooperação em Inspeção Farmacêutica (PIC/S, do inglês Pharmaceutical Inspection Co-operation Scheme). A Anvisa se tornará o 54º membro da iniciativa internacional em inspeção farmacêutica, passando a contar com o reconhecimento internacional da excelência das inspeções em Boas Práticas de Fabricação (BPF) de medicamentos e insumos farmacêuticos de uso humano.
 

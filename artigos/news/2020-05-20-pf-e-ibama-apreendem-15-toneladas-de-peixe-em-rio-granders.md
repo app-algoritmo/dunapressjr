@@ -1,11 +1,12 @@
 ---
-title: "PF e IBAMA apreendem 15 toneladas de peixe em Rio Grande/RS"
+title: PF e IBAMA apreendem 15 toneladas de peixe em Rio Grande/RS
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio Grande/RS –  Na manhã desta terça-feira (19/5), uma ação conjunta entre a Polícia Federal e o Ibama na 4ª Secção da Barra resultou na apreensão de 15 toneladas de peixes capturados irregularmente por uma embarcação de pesca oriunda de Itajaí/SC.
 

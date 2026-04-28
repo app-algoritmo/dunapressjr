@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha acima de R$ 5,50 em dia de tensão externa"
+title: Dólar fecha acima de R$ 5,50 em dia de tensão externa
 date: 2021-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai 1,43% e interrompe sequência de recordes.
 

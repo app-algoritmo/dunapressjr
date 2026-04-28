@@ -1,11 +1,12 @@
 ---
-title: "Lasier pede que Senado vote os pedidos de impeachment de Alexandre de Moraes"
+title: Lasier pede que Senado vote os pedidos de impeachment de Alexandre de Moraes
 date: 2022-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O senador Lasier Martins (Podemos-RS) destacou que o Senado não pode ficar omisso e até conivente com “as arbitrariedades do Superior Tribunal Eleitoral e do ministro Alexandre de Moraes” e pediu que sejam examinados os pedidos de impeachment desse ministro.
 

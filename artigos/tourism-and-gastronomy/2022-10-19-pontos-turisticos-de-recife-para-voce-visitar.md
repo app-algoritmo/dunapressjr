@@ -1,11 +1,12 @@
 ---
-title: "Pontos turísticos de Recife para você visitar"
+title: Pontos turísticos de Recife para você visitar
 date: 2022-10-19
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Capital de Pernambuco, a “Veneza Brasileira” é uma cidade rica em cultura, gastronomia e turismo. Conheça agora mais sobre o Recife
 

@@ -1,11 +1,12 @@
 ---
-title: "Televisor de Baird"
+title: Televisor de Baird
 date: 2021-05-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o televisor de Baird e conhecer um pouco da história da televisão e sua evolução até chegar à televisão eletrônica.
 

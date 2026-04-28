@@ -1,11 +1,13 @@
 ---
-title: "EUA envia ao Brasil 2 milhões de doses de hidroxicloroquina e programa o envio de 1000 respiradores"
+title: EUA envia ao Brasil 2 milhões de doses de hidroxicloroquina e programa o envio
+  de 1000 respiradores
 date: 2020-06-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Governo americano, emite declaração conjunta sobre cooperação em saúde.
 

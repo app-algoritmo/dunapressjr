@@ -1,11 +1,12 @@
 ---
-title: "CMN limita a 6% ao ano taxa de financiamento a produtores de leite"
+title: CMN limita a 6% ao ano taxa de financiamento a produtores de leite
 date: 2021-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa compensar alta dos custos do milho e da soja.
 

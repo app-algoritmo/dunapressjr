@@ -1,11 +1,13 @@
 ---
-title: "Plínio critica fala de Gilmar Mendes sobre prazo de mandato de ministro do STF"
+title: Plínio critica fala de Gilmar Mendes sobre prazo de mandato de ministro do
+  STF
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) criticou a declaração do ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), que disse ser contra as propostas que instituem mandato com prazo fixo aos ministros do STF. Nas redes sociais, Gilmar Mendes afirmou que a ideia é “inoportuna” e que o Congresso Nacional quer transformar a Corte em “agência reguladora desvirtuada”.
 

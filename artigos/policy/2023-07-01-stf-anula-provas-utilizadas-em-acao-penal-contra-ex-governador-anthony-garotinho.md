@@ -1,11 +1,12 @@
 ---
-title: "STF anula provas utilizadas em ação penal contra ex-governador Anthony Garotinho"
+title: STF anula provas utilizadas em ação penal contra ex-governador Anthony Garotinho
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em sua decisão, o ministro Dias Toffoli enfatiza que as provas se baseiam em sistemas da Odebrecht já considerados nulos pelo STF.
 

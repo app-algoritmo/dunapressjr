@@ -1,11 +1,12 @@
 ---
-title: "Putin está preparando uma guerra ainda maior na Ucrânia"
+title: Putin está preparando uma guerra ainda maior na Ucrânia
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma lei que permite ao Kremlin enviar centenas de milhares de soldados para o combate revela uma triste verdade: longe de buscar uma saída para a guerra na Ucrânia, Vladimir Putin está se preparando para uma guerra ainda maior.
 

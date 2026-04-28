@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: OMS declara emergência global"
+title: 'Coronavírus: OMS declara emergência global'
 date: 2020-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Organização Mundial da Saúde (OMS) declarou, na tarde desta quinta-feira (30), emergência de saúde pública internacional para o novo coronavírus (2019-nCoV). De acordo com Boletim Epidemiológico do organismo, já são 7.818 casos confirmados no mundo, sendo 7.736 na China. Outros 12.167 casos chineses notificados estão em investigação; ao todo, 1.370 pacientes estão em estado grave e 170 já vieram a óbito. Fora da China, há 82 casos confirmados da doença em 18 países, sem qualquer morte registrada.
 

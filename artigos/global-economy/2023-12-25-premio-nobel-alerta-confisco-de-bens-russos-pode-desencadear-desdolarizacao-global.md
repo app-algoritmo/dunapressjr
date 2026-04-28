@@ -1,11 +1,13 @@
 ---
-title: "Prêmio Nobel Alerta: Confisco de Bens Russos Pode Desencadear Desdolarização Global"
+title: 'Prêmio Nobel Alerta: Confisco de Bens Russos Pode Desencadear Desdolarização
+  Global'
 date: 2023-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O renomado ganhador do Prêmio Nobel de Economia, Robert Shiller, fez um alerta contundente no domingo, 24 de dezembro, ao comparar o planejado confisco de ativos russos pelos Estados Unidos a um cataclismo financeiro. O professor da Universidade de Yale ressaltou que tal medida, relacionada à assistência financeira à Ucrânia, pode não apenas abalar a segurança do dólar, mas também marcar o primeiro estágio da desdolarização global.
 

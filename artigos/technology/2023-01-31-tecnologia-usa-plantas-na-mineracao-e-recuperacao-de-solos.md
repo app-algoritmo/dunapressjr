@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia usa plantas na mineração e recuperação de solos"
+title: Tecnologia usa plantas na mineração e recuperação de solos
 date: 2023-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Graduado em Agronomia pela Universidade Federal Rural de Pernambuco, Luiz Henrique Vieira Lima é doutorando em Ciência do Solo pela mesma instituição. O cientista está na Universidade de Lorraine, na França, onde, com bolsa do Programa de Doutorado-Sanduíche no Exterior (PDSE), da CAPES, finaliza a sua tese sobre agromineração. O estudo mostra a eficácia de determinadas plantas na despoluição e recuperação mineral de solos enriquecidos por metais pesados.
 

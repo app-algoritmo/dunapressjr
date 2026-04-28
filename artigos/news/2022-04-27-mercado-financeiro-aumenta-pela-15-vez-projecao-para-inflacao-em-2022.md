@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta pela 15ª vez projeção para inflação em 2022"
+title: Mercado financeiro aumenta pela 15ª vez projeção para inflação em 2022
 date: 2022-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para 2023, a previsão é de crescimento de 1% no PIB.
 

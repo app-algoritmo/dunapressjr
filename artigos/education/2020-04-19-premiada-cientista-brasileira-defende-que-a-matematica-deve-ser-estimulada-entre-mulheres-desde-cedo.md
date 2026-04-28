@@ -1,11 +1,13 @@
 ---
-title: "Premiada Cientista  brasileira, defende que a matemática deve ser estimulada entre mulheres desde cedo"
+title: Premiada Cientista  brasileira, defende que a matemática deve ser estimulada
+  entre mulheres desde cedo
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Jaqueline já ganhou prêmio por pesquisa com equações diferenciais A ciência dos números sempre foi coisa de mulher para a doutora Jaqueline Godoy Mesquita, de 34 anos. Ainda adolescente, ela teve que convencer os pais de que a Matemática é uma carreira que pode contribuir para o progresso da humanidade. Hoje, ela integra o grupo de pesquisadores da Academia Mundial de Ciências, é bolsista na secular Universidade Humboldt, na Alemanha, e já ganhou prêmio por suas pesquisas.
 

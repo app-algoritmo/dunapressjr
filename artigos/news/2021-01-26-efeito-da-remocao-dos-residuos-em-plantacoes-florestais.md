@@ -1,11 +1,12 @@
 ---
-title: "Efeito da remoção dos resíduos em plantações florestais"
+title: Efeito da remoção dos resíduos em plantações florestais
 date: 2021-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Empresas que atuam na área florestal, como as produtoras de celulose, estão vendo os resíduos florestais (pequenos galhos, cascas de árvores e folhas) como matéria prima na geração de energia. Em alguns casos, a geração destes resíduos é tão grande que sua queima produz energia o bastante para garantir o funcionamento de uma ou mais fábricas de celulose. Entretanto, em sistemas naturais, os restos vegetais produzidos pela floresta permanecem no solo, onde sofrem decomposição pela ação de microrganismos, passando a constituir importantes fontes de nutrientes para as plantas. Sabendo da perda de nutrientes que a retirada dessa camada vegetal do solo causa, as empresas produtoras de florestas geralmente repõem tal carência de nutrientes com o uso de fertilizantes.
 

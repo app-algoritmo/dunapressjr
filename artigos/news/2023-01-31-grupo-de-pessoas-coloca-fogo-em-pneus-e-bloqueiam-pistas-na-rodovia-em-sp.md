@@ -1,11 +1,12 @@
 ---
-title: "Grupo de pessoas coloca fogo em pneus e bloqueiam pistas na rodovia em SP"
+title: Grupo de pessoas coloca fogo em pneus e bloqueiam pistas na rodovia em SP
 date: 2023-01-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Grupo ficou pela pista central com cartazes e equipes da Polícia Rodoviária Federal e Polícia Militar foram acionadas.
 

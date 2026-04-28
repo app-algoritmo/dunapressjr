@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal revoga mais de 120 instruções normativas relativas ao comércio exterior"
+title: Receita Federal revoga mais de 120 instruções normativas relativas ao comércio
+  exterior
 date: 2020-05-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida faz parte de Projeto Consolidação, que busca simplificar e racionalizar a legislação do órgão
 A Receita Federal revogou 122 instruções normativas, publicadas entre 1970 e 2019, que tratavam de assuntos relacionados ao comércio exterior. A medida faz parte do Projeto Consolidação, que busca adequar o estoque regulatório do órgão por meio da redução, consolidação e modernização das normas inferiores a decreto.

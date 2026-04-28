@@ -1,11 +1,12 @@
 ---
-title: "Marinho critica suposta fake news de Lula e defende liberdade de expressão"
+title: Marinho critica suposta fake news de Lula e defende liberdade de expressão
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rogério Marinho (PL-RN) expressou, em pronunciamento no Plenário nesta quarta-feira (13), preocupação com os acontecimentos recentes que, segundo ele, desafiam a liberdade de expressão no país. Ele mencionou como exemplo as críticas de membros do governo federal ao jornalista Alexandre Garcia sobre a suposta disseminação de fake news.
 

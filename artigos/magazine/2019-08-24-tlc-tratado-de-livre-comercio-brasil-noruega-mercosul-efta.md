@@ -1,12 +1,13 @@
 ---
-title: "TLC Tratado de Livre Comércio Brasil-Noruega, Mercosul-EFTA"
+title: TLC Tratado de Livre Comércio Brasil-Noruega, Mercosul-EFTA
 date: 2019-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 ## Noruega anuncia que não usará o tratado de livre comércio para pressionar o Brasil.
 

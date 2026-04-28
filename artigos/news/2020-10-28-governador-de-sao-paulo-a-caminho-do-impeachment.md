@@ -1,11 +1,12 @@
 ---
-title: "Governador de São Paulo a caminho do impeachment"
+title: Governador de São Paulo a caminho do impeachment
 date: 2020-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Redes sociais, organizações e movimentos conservadores querem a cabeça do governador do estado de São Paulo João Dória. 
 

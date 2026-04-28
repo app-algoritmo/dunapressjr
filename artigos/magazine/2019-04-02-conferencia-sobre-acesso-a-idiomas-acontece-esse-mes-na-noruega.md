@@ -1,11 +1,12 @@
 ---
-title: "Conferência sobre acesso a idiomas acontece esse mês na Noruega"
+title: Conferência sobre acesso a idiomas acontece esse mês na Noruega
 date: 2019-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Conferência 2019 sobre Acesso a Idiomas acontece dia 04 de abril em Oslo, Noruega, no Oslo Concert Hall (Oslo Konserthus, Lille Sal). 
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IGP-DI sobe 0,01% em fevereiro"
+title: Inflação pelo IGP-DI sobe 0,01% em fevereiro
 date: 2020-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Segundo a FGV, em fevereiro de 2019, a taxa registrou alta de 1,25%
 

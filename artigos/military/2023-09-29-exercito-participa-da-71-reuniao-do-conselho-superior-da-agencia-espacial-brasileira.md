@@ -1,11 +1,13 @@
 ---
-title: "Exército participa da 71ª reunião do Conselho Superior da Agência Espacial Brasileira"
+title: Exército participa da 71ª reunião do Conselho Superior da Agência Espacial
+  Brasileira
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF) – **O Estado-Maior do Exército participou da 71ª Reunião do Conselho Superior da Agência Espacial Brasileira, realizada na última semana. A reunião, de caráter deliberativo, discutiu o lançamento de satélites e dispositivos espaciais, a exploração das capacidades do Centro Espacial de Alcântara, no Maranhão, e a previsão orçamentária para as atividades da Agência em 2024.
 

@@ -1,11 +1,13 @@
 ---
-title: "Prazo para entrega da declaração do Imposto de Renda termina nesta terça-feira (31)"
+title: Prazo para entrega da declaração do Imposto de Renda termina nesta terça-feira
+  (31)
 date: 2022-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Atraso resultará em multa para quem é obrigado a declarar.
 

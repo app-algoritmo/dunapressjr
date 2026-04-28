@@ -1,11 +1,12 @@
 ---
-title: "PF investiga crimes contra agências dos Correios no interior pernambucano"
+title: PF investiga crimes contra agências dos Correios no interior pernambucano
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recife/PE - A Policia Federal, nos últimos 15 dias, deu cumprimento a três mandados de prisão preventiva em desfavor de dois assaltantes dos Correios de Chã Grande/PE e um dos Correios de Bom Jardim/PE.
 

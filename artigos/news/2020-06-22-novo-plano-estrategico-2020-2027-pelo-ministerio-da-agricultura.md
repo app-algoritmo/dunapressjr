@@ -1,11 +1,12 @@
 ---
-title: "Novo Plano Estratégico 2020-2027 pelo Ministério da Agricultura"
+title: Novo Plano Estratégico 2020-2027 pelo Ministério da Agricultura
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A versão preliminar do Plano Estratégico 2020-2027 do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) já está disponível no Portal da Agricultura. Desenvolvido de forma coletiva e colaborativa, por meio de oficinas realizadas desde 2019, e estruturado pela Coordenação de Planejamento Estratégico da Assessoria de Gestão Estratégica do Gabinete da Ministra , o Plano Estratégico 2020-2027 traz, de forma sintética, a missão, a visão de futuro, os valores organizacionais e as estratégias do Mapa para o período. 
 

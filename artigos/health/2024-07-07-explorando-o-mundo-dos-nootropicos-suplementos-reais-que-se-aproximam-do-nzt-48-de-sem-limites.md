@@ -1,11 +1,13 @@
 ---
-title: "Explorando o Mundo dos Nootrópicos: Suplementos Reais que se Aproximam do NZT-48 de 'Sem Limites'"
+title: 'Explorando o Mundo dos Nootrópicos: Suplementos Reais que se Aproximam do
+  NZT-48 de ''Sem Limites'''
 date: 2024-07-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 No filme "Sem Limites" ("Limitless"), o personagem principal transforma sua vida ao consumir uma droga chamada NZT-48, que desbloqueia o potencial completo de seu cérebro. Embora essa substância seja fictícia e não tem um equivalente direto no mundo real, a ideia de melhorar a função cognitiva e a memória não é. Diversos nootrópicos, como Modafinil, Adderall, Noopept, Piracetam e os naturais "*Bacopa Monnieri*, *Ginkgo Biloba*, *Coenzima Q10* e *Fosfatidilserina* têm sido estudados e usados para aumentar a capacidade cerebral de maneiras significativas e reais.
 

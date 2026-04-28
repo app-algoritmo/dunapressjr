@@ -1,11 +1,12 @@
 ---
-title: "Barômetros Globais aumentam pelo segundo mês consecutivo em diversas regiões"
+title: Barômetros Globais aumentam pelo segundo mês consecutivo em diversas regiões
 date: 2023-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicadores Econômicos Coincidentes e Antecedentes mostram tendências encorajadoras em agosto de 2023.
 

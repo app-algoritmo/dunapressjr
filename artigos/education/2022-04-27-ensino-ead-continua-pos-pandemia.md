@@ -1,11 +1,12 @@
 ---
-title: "Ensino EAD, continua pós pandemia?"
+title: Ensino EAD, continua pós pandemia?
 date: 2022-04-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 A educação a distância pós-pandemia mostrou um cenário de diversas oportunidades que serão encontradas pela frente. Seja um aluno que deseja continuar aprendendo remotamente ou uma universidade que pode oferecer mais cursos, como, por exemplo: [Curso de Inglês Online](https://certificadocursosonline.com/cursos/curso-de-ingles-basico-online-gratis/).
 

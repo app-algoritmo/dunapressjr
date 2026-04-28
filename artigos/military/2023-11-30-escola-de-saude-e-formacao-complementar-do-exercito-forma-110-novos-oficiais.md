@@ -1,11 +1,12 @@
 ---
-title: "Escola de Saúde e Formação Complementar do Exército forma 110 novos oficiais"
+title: Escola de Saúde e Formação Complementar do Exército forma 110 novos oficiais
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Neste dia 22 de novembro, 110 militares concluíram o Curso de Formação de Oficiais na Escola de Saúde e Formação Complementar do Exército. Sediada em Salvador, a Escola é responsável pela formação dos oficiais do Serviço de Saúde, do Serviço de Assistência Religiosa e do Quadro Complementar, que abrange diversas especialidades acadêmicas de interesse do Exército.
 

@@ -1,11 +1,12 @@
 ---
-title: "Contra-ofensiva ucraniana será 'longa, dura e sangrenta', diz Milley nos EUA"
+title: Contra-ofensiva ucraniana será 'longa, dura e sangrenta', diz Milley nos EUA
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O presidente do Joint Chiefs dos EUA, general Mark Milley, acrescentou que seu preço seria alto.
 

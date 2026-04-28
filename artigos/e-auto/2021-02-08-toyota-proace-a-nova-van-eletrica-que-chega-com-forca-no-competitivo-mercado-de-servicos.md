@@ -1,11 +1,13 @@
 ---
-title: "Toyota Proace, a nova van elétrica que chega com força no competitivo mercado de serviços"
+title: Toyota Proace, a nova van elétrica que chega com força no competitivo mercado
+  de serviços
 date: 2021-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 EV | A gama de novas vans elétricas disparará em 2021. Conheça as mais relevantes para os clientes noruegueses.
 

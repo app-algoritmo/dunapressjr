@@ -1,11 +1,12 @@
 ---
-title: "PIB de Santa Catarina cresce 6,8% e é o sexto maior do país"
+title: PIB de Santa Catarina cresce 6,8% e é o sexto maior do país
 date: 2023-11-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Com um Produto Interno Bruto (PIB) de R$ 428,6 bilhões em 2021, Santa Catarina manteve a participação do Estado diante da economia nacional. Entre 2020 e 2021, a variação em volume do PIB foi de 6,8%, a quarta entre os estados. Com esse valor, atualmente o PIB catarinense é o sexto maior do país. O dado foi apresentado oficialmente nesta sexta-feira, 17, pelo Instituto Brasileiro de Geografia e Estatística ( IBGE).
 

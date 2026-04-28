@@ -1,11 +1,12 @@
 ---
-title: "A ação que pode suspender a posse de Lula"
+title: A ação que pode suspender a posse de Lula
 date: 2022-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Um mandado de segurança coletivo pede a suspensão da posse do presidente eleito, Lula (PT). Protocolado na noite da terça-feira 27, no Supremo Tribunal Federal (STF), o documento sustenta que o Tribunal Superior Eleitoral ([**TSE**](https://twitter.com/TSEjusbr)) não considerou as sugestões feitas pelo Ministério da Defesa para resolver supostas vulnerabilidades nas urnas eletrônicas. A ação cita ainda a auditoria do Partido Liberal (PL), que identificou problemas em máquinas usadas na eleição, e pediu providências à Corte.
 

@@ -1,11 +1,12 @@
 ---
-title: "IBGE: 3,4 milhões estavam afastados do trabalho no início setembro"
+title: 'IBGE: 3,4 milhões estavam afastados do trabalho no início setembro'
 date: 2020-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O motivo foi o isolamento social imposto pela pandemia de covid-19.
 

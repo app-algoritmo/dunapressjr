@@ -1,11 +1,12 @@
 ---
-title: "Tecnologias para medicina a fim de beneficiar processos e pacientes"
+title: Tecnologias para medicina a fim de beneficiar processos e pacientes
 date: 2022-09-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Ao longo do tempo, a tecnologia deixou de estar restrita a computadores pessoais e celulares. Ela está presente em todos os lugares, e na medicina não é diferente, pois é onde ela pode ajudar a salvar vidas.
 

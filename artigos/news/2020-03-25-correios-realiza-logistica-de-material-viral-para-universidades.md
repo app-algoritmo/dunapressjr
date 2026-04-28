@@ -1,11 +1,12 @@
 ---
-title: "Correios realiza logística de material viral para universidades"
+title: Correios realiza logística de material viral para universidades
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os Correios estão atuando como apoio logístico para a RedeVírus MCTIC, comitê do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) responsável pela coleta de material viral (novo coronavirus e influenza). Os insumos serão utilizados em estudos sobre o contágio, proliferação dos vírus e vacina para as doenças.
 

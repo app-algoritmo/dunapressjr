@@ -1,11 +1,12 @@
 ---
-title: "Base Náutica Trarbach é inaugurada no Paraná para combater crime organizado"
+title: Base Náutica Trarbach é inaugurada no Paraná para combater crime organizado
 date: 2020-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Local é a primeira atuação interestadual do Programa Vigia e conta com ações conjuntas entre as forças de segurança federal e estaduais do Paraná e Mato Grosso do Sul. A Base Trarbach é a primeira atuação integrada do Programa Nacional de Segurança nas Fronteiras e Divisas (Vigia). 
 

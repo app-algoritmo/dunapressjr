@@ -1,11 +1,12 @@
 ---
-title: "A Paz que a Humanidade Nunca Conheceu"
+title: A Paz que a Humanidade Nunca Conheceu
 date: 2024-05-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nós, a humanidade estamos em um mato sem cachorros, o mundo está um caos, eu particularmente vivo bem, aliás, talvez todos que vivem onde vivo vivem bem, uma espécie de Pax Romana ou Pax Mongólia existe também a Pax Noruega, mas isso é regional e esse tempo pode acabar devido aos acontecimentos externos, as políticas catastróficas de homens ***irresponsáveis***, a ***ganância***, a falta de ***amor***, ***respeito*** etc…, notem essas palavras, todas imateriais, portanto logo de saída já sabemos quem são os culpados pela falta de paz.
 

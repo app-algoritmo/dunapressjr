@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro reduz projeção de queda do PIB para 5,77% neste ano"
+title: Mercado financeiro reduz projeção de queda do PIB para 5,77% neste ano
 date: 2020-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A informação foi divulgada hoje pelo Banco Central.
 

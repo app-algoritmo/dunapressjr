@@ -1,11 +1,12 @@
 ---
-title: "08/4 Dia Nacional do Sistema Braille"
+title: 08/4 Dia Nacional do Sistema Braille
 date: 2022-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Braille é um sistema de leitura através de pontos em relevo que podem ser lidos com os dedos por pessoas cegas ou com baixa visão.
 

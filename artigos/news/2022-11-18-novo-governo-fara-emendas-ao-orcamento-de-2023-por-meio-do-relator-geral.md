@@ -1,11 +1,12 @@
 ---
-title: "Novo governo fará emendas ao Orçamento de 2023 por meio do relator-geral"
+title: Novo governo fará emendas ao Orçamento de 2023 por meio do relator-geral
 date: 2022-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### PEC da Transição libera R$ 105 bilhões para atender demandas do governo eleito.
 

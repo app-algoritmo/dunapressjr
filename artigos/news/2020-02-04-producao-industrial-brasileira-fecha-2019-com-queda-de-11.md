@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial brasileira fecha 2019 com queda de 1,1%"
+title: Produção industrial brasileira fecha 2019 com queda de 1,1%
 date: 2020-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Barragem de Brumadinho teve impacto no recuo das indústrias extrativas*
 

@@ -1,11 +1,13 @@
 ---
-title: "Manifestantes em várias cidades queimando bandeiras e gritando pela destruição de Israel"
+title: Manifestantes em várias cidades queimando bandeiras e gritando pela destruição
+  de Israel
 date: 2023-10-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **"Dia de Fúria no Oriente Médio: Tensões e Consequências"**
 

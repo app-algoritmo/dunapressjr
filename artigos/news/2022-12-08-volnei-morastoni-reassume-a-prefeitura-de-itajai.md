@@ -1,11 +1,12 @@
 ---
-title: "Volnei Morastoni reassume a Prefeitura de Itajaí"
+title: Volnei Morastoni reassume a Prefeitura de Itajaí
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O prefeito de Itajaí Volnei Morastoni retornou ao cargo nesta terça-feira (06), reassumindo os trabalhos na Prefeitura após um período de licença.
 

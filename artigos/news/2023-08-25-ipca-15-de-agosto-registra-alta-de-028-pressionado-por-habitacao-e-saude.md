@@ -1,11 +1,12 @@
 ---
-title: "IPCA-15 de agosto registra alta de 0,28%, pressionado por habitação e saúde"
+title: IPCA-15 de agosto registra alta de 0,28%, pressionado por habitação e saúde
 date: 2023-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Energia elétrica residencial e cuidados pessoais são os principais impulsionadores da inflação no mês.
 

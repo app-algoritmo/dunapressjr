@@ -1,11 +1,12 @@
 ---
-title: "MEGA: Unindo Patriotas para Fortalecer a Europa e o Ocidente"
+title: 'MEGA: Unindo Patriotas para Fortalecer a Europa e o Ocidente'
 date: 2024-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma iniciativa para unificar os patriotas da Europa e de todo o Ocidente surgiu no coração da Europa, mais especificamente na capital da Roménia, Bucareste. O evento intitulado MEGA (Make Europe Great Again) reuniu indivíduos comprometidos com a defesa dos valores tradicionais e da soberania nacional.
 

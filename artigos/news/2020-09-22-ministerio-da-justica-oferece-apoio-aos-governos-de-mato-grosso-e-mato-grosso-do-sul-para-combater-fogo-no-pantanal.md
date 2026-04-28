@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça oferece apoio aos governos de Mato Grosso e Mato Grosso do Sul para combater fogo no Pantanal"
+title: Ministério da Justiça oferece apoio aos governos de Mato Grosso e Mato Grosso
+  do Sul para combater fogo no Pantanal
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ajuda consiste no custeio de diárias de bombeiros militares de outros estados que atuarão no combate às chamas. Ministro da Justiça e Segurança Pública, André Mendonça, ofereceu ajuda aos governos de Mato Grosso e Mato Grosso do Sul. 
 

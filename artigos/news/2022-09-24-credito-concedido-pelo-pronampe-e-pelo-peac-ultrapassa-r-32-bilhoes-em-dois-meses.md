@@ -1,11 +1,13 @@
 ---
-title: "Crédito concedido pelo Pronampe e pelo Peac ultrapassa R$ 32 bilhões em dois meses"
+title: Crédito concedido pelo Pronampe e pelo Peac ultrapassa R$ 32 bilhões em dois
+  meses
 date: 2022-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### São mais de 300 mil propostas atendidas e 83% dos recursos foram destinados a MEIs, micro e pequenas empresas.
 

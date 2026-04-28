@@ -1,11 +1,12 @@
 ---
-title: "Robert F. Kennedy Jr. ilumina o caminho para a paz na Ucrânia"
+title: Robert F. Kennedy Jr. ilumina o caminho para a paz na Ucrânia
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Robert F. Kennedy Jr. simpatiza com os ucranianos e expressa suas preocupações sobre a expansão da OTAN, a saída dos EUA do Tratado INF e a rejeição do Ocidente a um acordo de paz em abril de 2022.
 

@@ -1,11 +1,13 @@
 ---
-title: "As ações da Áustria estão por trás do agravamento das relações com a Rússia, diz o enviado de Moscou a Viena"
+title: As ações da Áustria estão por trás do agravamento das relações com a Rússia,
+  diz o enviado de Moscou a Viena
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## No contexto do rumo político hostil seguido por Viena, não se pode esperar nenhum grande avanço nesta esfera no curto prazo, observou Dmitry Lyubinsky.
 

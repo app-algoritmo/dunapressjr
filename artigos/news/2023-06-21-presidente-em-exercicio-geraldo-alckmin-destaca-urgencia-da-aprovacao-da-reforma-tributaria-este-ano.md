@@ -1,11 +1,13 @@
 ---
-title: "Presidente em exercício Geraldo Alckmin destaca urgência da aprovação da reforma tributária este ano"
+title: Presidente em exercício Geraldo Alckmin destaca urgência da aprovação da reforma
+  tributária este ano
 date: 2023-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alckmin ressalta janela de oportunidade para a discussão do texto constitucional e enfatiza apoio dos principais agentes políticos do país.
 

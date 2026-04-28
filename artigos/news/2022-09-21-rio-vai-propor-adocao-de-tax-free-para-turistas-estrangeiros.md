@@ -1,11 +1,12 @@
 ---
-title: "Rio vai propor adoção de tax free para turistas estrangeiros"
+title: Rio vai propor adoção de tax free para turistas estrangeiros
 date: 2022-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ideia é isentar produtos de ICMS para estimular vendas no comércio.
 

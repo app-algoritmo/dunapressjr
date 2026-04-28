@@ -1,11 +1,13 @@
 ---
-title: "Estudo analisa cultivo de planta com efeito antidiabético resultou em sete prêmios"
+title: Estudo analisa cultivo de planta com efeito antidiabético resultou em sete
+  prêmios
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Larissa Marina Pereira Silva é doutora em Desenvolvimento e Inovação Tecnológica em Medicamentos, pela Universidade Federal do Rio Grande do Norte (UFRN). Sua pesquisa analisou a *Moringa oleifera*, planta natural da Ásia e da África que foi trazida para o Brasil e se adaptou bem ao clima, em especial do Nordeste, e é usada  popularmente para tratar diabetes. Seu estudo recebeu dois prêmios nacionais e cinco internacionais.
 

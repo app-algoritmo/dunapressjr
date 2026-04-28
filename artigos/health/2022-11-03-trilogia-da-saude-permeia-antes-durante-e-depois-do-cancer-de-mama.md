@@ -1,11 +1,12 @@
 ---
-title: "Trilogia da saúde permeia antes, durante e depois do câncer de mama"
+title: Trilogia da saúde permeia antes, durante e depois do câncer de mama
 date: 2022-11-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Recentes relatórios mundiais revelam que 2,3 milhões de novos casos de câncer de mama são diagnosticados anualmente. A taxa de mortalidade, por sua vez, é de aproximadamente 450.000 mulheres por ano. Segundo o Instituto Nacional de Câncer (INCA), o câncer nas mamas é o mais incidente em todas as regiões, com as mais expressivas taxas nas regiões Sul e Sudeste. Apenas em 2022, foram estimados 66.280 novos casos, o que corresponde a uma taxa de incidência de 43,74 casos por 100 mil mulheres. Os altos índices também reforçam um novo marco: relatório recente da Organização Mundial da Saúde (OMS) aponta que o câncer de mama se tornou o mais comum do mundo, superando o de pulmão, que foi, por anos, o primeiro do *ranking*.
 

@@ -1,11 +1,13 @@
 ---
-title: "Sommelière Juli Rodrigues assume comando do wine &amp; cocktail bar Five Lounge do NH Hotel Curitiba"
+title: Sommelière Juli Rodrigues assume comando do wine &amp; cocktail bar Five Lounge
+  do NH Hotel Curitiba
 date: 2024-04-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Com mais de uma década de carreira, profissional traz consigo a experiência de trabalhar com a melhor chef mulher da América Latina, Manu Buffara.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Síndrome da Barata Tonta - cuidado, pode ser contagiosa!"
+title: A Síndrome da Barata Tonta - cuidado, pode ser contagiosa!
 date: 2018-10-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Venho há um bom tempo estudando as pessoas, suas atitudes, a economia, psicologia entre outros tantos temas que nos envolvem.
 

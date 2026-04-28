@@ -1,11 +1,12 @@
 ---
-title: "Geração nem-nem e idosos terão oportunidade de emprego, diz ministro"
+title: Geração nem-nem e idosos terão oportunidade de emprego, diz ministro
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa tem parceria com municípios e oferecerá bolsas e qualificação.
 

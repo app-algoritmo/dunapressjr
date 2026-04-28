@@ -1,11 +1,12 @@
 ---
-title: "Iniciadas as inscrições para Seleção de Avaliadores de Redações Enem"
+title: Iniciadas as inscrições para Seleção de Avaliadores de Redações Enem
 date: 2020-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As inscrições da Seleção de Avaliador de Redações do Exame Nacional do Ensino Médio (Enem) 2020 vão do dia 21 de setembro a 5 de outubro (às 17h horário de Brasília) e devem ser realizadas, exclusivamente, pela internet. Para exercer a função de avaliador, o candidato deve participar do curso de capacitação a distância, além de preencher os requisitos básicos e cumprir todas as etapas obrigatórias. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) é responsável por supervisionar a seleção dos profissionais.
 

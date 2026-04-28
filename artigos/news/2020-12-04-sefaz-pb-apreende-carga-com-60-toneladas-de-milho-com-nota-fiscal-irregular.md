@@ -1,11 +1,12 @@
 ---
-title: "Sefaz-PB apreende carga com 60 toneladas de milho com nota fiscal irregular"
+title: Sefaz-PB apreende carga com 60 toneladas de milho com nota fiscal irregular
 date: 2020-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Intensificando as ações fiscais de mercadoria em trânsito no fim de ano, a Secretaria de Estado da Fazenda (SEFAZ-PB) apreendeu, nesta quinta-feira (3), uma carga com 60 toneladas de milho, na BR 104, localidade de São Miguel, no município de Esperança. A carga, que transportava o produto com nota fiscal inidônea, foi coordenada pelo Supervisor Fiscal da 3ª Gerência Regional, Cândido Rondon, que fez a abordagem.
 

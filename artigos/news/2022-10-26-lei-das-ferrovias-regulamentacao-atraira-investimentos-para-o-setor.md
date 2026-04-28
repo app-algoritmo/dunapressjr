@@ -1,11 +1,12 @@
 ---
-title: "Lei das Ferrovias: regulamentação atrairá investimentos para o setor"
+title: 'Lei das Ferrovias: regulamentação atrairá investimentos para o setor'
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Até setembro, 89 pedidos do setor privados foram registrados.
 

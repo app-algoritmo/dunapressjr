@@ -1,11 +1,12 @@
 ---
-title: "Projeções da AEB para balança comercial apontam para novos recordes"
+title: Projeções da AEB para balança comercial apontam para novos recordes
 date: 2022-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Previsão é que as exportações cresçam 13,8% e as importações, 21%.
 

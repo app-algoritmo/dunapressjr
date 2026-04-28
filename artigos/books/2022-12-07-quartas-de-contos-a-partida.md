@@ -1,12 +1,13 @@
 ---
-title: "Quartas de Contos - A Partida"
+title: Quartas de Contos - A Partida
 date: 2022-12-07
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 Escute o conto A Partida Aqui.
 

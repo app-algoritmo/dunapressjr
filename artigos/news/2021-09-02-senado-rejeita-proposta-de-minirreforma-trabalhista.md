@@ -1,11 +1,12 @@
 ---
-title: "Senado rejeita proposta de minirreforma trabalhista"
+title: Senado rejeita proposta de minirreforma trabalhista
 date: 2021-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programas de incentivo à geração de emprego serão arquivados.
 

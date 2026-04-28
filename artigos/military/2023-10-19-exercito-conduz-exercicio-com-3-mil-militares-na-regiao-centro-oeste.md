@@ -1,11 +1,12 @@
 ---
-title: "Exército conduz exercício com 3 mil militares na região Centro-Oeste"
+title: Exército conduz exercício com 3 mil militares na região Centro-Oeste
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Exército Brasileiro, por meio do Comando Militar do Oeste, está conduzindo em diversas regiões dos estados do Mato Grosso e do Mato Grosso do Sul uma grande operação de preparação de suas tropas. Com previsão de se estender até o dia 22 de outubro, a Operação Pantanal reúne cerca de 3 mil militares e 400 viaturas, além de helicópteros, embarcações e meios do Sistema Integrado de Monitoramento de Fronteira (SISFRON), que permitem o acompanhamento em tempo real das atividades. A operação também conta com militares da Marinha do Brasil e da Força Aérea Brasileira. 
 

@@ -1,11 +1,12 @@
 ---
-title: "PF incinera 25 toneladas de maconha no Mato Grosso do Sul"
+title: PF incinera 25 toneladas de maconha no Mato Grosso do Sul
 date: 2020-07-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ponta Porã/MS - A Polícia Federal, com o apoio da Força Nacional, incinerou nesta sexta-feira, 3/7, cerca de 25 toneladas de maconha (“Cannabis sativa Lineu”).
 

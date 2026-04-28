@@ -1,11 +1,13 @@
 ---
-title: "Base de dados criada pelo Mec para cadastrar estudantes com deficiência no Brasil"
+title: Base de dados criada pelo Mec para cadastrar estudantes com deficiência no
+  Brasil
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A medida faz parte do Plano de Contingência para Pessoas com Deficiência, lançado pelo Governo Federal, nesta segunda-feira (06).
 

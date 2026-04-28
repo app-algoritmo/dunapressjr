@@ -1,11 +1,13 @@
 ---
-title: "Dicas de prevenção do câncer: 5 maneiras naturais de reduzir o risco de câncer de mama"
+title: 'Dicas de prevenção do câncer: 5 maneiras naturais de reduzir o risco de câncer
+  de mama'
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O câncer de mama é o [segundo câncer mais comum em mulheres](https://www.cdc.gov/cancer/breast/basic_info/index.htm) nos Estados Unidos, atrás apenas do câncer de pele. Embora as mortes por câncer de mama tenham diminuído nos últimos anos, ainda é a segunda principal causa de morte por câncer entre as mulheres.
 

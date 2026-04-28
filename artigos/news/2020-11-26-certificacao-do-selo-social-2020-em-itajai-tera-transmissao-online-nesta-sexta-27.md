@@ -1,11 +1,13 @@
 ---
-title: "Certificação do Selo Social 2020, em Itajaí terá transmissão online nesta sexta (27)"
+title: Certificação do Selo Social 2020, em Itajaí terá transmissão online nesta sexta
+  (27)
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Promoção da Cidadania realiza nesta sexta-feira (27), a partir das 16h, a certificação do Programa Selo Social 2020. Ao todo, 103 empresas serão certificadas. Neste ano, devido às restrições de saúde em decorrência da COVID-19, a cerimônia será realizada sem a presença de público e convidados. O evento será transmitido ao vivo pelas redes sociais da Prefeitura.
 

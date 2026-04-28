@@ -1,11 +1,12 @@
 ---
-title: "Parar ou não parar... Eis a Questão"
+title: Parar ou não parar... Eis a Questão
 date: 2020-03-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Parar tudo em possíveis pandemias não comprovadas, sem certeza dos resultados deve ser algo muito bem pensado. Será que fizeram isto no Brasil?
 

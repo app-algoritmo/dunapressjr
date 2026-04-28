@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro assina acordo para incentivar a presença de mulheres no setor de infraestrutura"
+title: Governo Bolsonaro assina acordo para incentivar a presença de mulheres no setor
+  de infraestrutura
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Acordo marca abertura de um ciclo de seminários para discutir arbitragem e mediação na administração pública. O ministro da Infraestrutura, Tarcísio Gomes de Freitas, assina protocolo de intenções com a Infra Women Brazil.
 

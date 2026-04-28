@@ -1,12 +1,13 @@
 ---
-title: "Por que estudar astronomia e onde iniciar"
+title: Por que estudar astronomia e onde iniciar
 date: 2023-12-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Astronomy
-  - Science
+- Astronomy
+- Science
 ---
+
 
 A astronomia é uma ciência fascinante que nos permite explorar o vasto universo e obter um entendimento mais profundo dos corpos celestes e dos fenômenos cósmicos. Estudar astronomia oferece uma perspectiva única sobre a nossa existência e nos inspira a buscar respostas para algumas das perguntas mais intrigantes da humanidade. Neste artigo, discutiremos por que estudar astronomia é tão importante, onde iniciar a jornada, as perspectivas de carreira e as melhores universidades para aqueles interessados ​​em se dedicar a essa área emocionante.
 

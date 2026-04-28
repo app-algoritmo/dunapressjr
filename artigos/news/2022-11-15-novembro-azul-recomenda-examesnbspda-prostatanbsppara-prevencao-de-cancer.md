@@ -1,11 +1,12 @@
 ---
-title: "Novembro Azul recomenda exames&nbsp;da próstata&nbsp;para prevenção de câncer"
+title: Novembro Azul recomenda exames&nbsp;da próstata&nbsp;para prevenção de câncer
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por falta de informação, preconceito e até vergonha, muitos homens deixam de fazer exames que poderiam detectar o câncer de próstata a tempo de curá-lo. Prevenção e tratamentos bem-sucedidos, que dependem em boa medida da detecção precoce, são a chave para frear a estatística de quase 16 mil mortes ao ano causadas pela doença.
 

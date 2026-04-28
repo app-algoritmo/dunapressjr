@@ -1,11 +1,13 @@
 ---
-title: "Funai irá distribuir 400 mil cestas básicas nas aldeias indígenas durante a pandemia"
+title: Funai irá distribuir 400 mil cestas básicas nas aldeias indígenas durante a
+  pandemia
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fundação Nacional do Índio (Funai) vai distribuir 400 mil cestas básicas nas aldeias indígenas do País. Esta é apenas uma das ações de proteção a 800 mil indígenas durante a pandemia do novo coronavírus. De acordo com o presidente da Funai, Marcelo Xavier, em entrevista à Voz do Brasil, as cestas básicas garantem a segurança alimentar dos indígenas e serão distribuídas até o fim do mês.
 

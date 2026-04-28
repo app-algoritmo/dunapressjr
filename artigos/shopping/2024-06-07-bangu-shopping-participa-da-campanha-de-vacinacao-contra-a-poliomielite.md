@@ -1,11 +1,12 @@
 ---
-title: "Bangu Shopping participa da campanha de vacinação contra a Poliomielite"
+title: Bangu Shopping participa da campanha de vacinação contra a Poliomielite
 date: 2024-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Ação acontece no dia 08 de junho e irá vacinar crianças de até 5 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Circuito Futebol Social em 2022: 992 jogadores, 222 jogos e 1.622 gols marcados"
+title: 'Circuito Futebol Social em 2022: 992 jogadores, 222 jogos e 1.622 gols marcados'
 date: 2022-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Dezembro, 2022 –** 2022 está terminando. E o Futebol Social só tem a comemorar. A temporada ainda não acabou, porque a última etapa do Circuito Futebol Social 2022 será em janeiro de 2023. Mas, o balanço já é mais do que positivo. Até agora, foram nove etapas – sete do calendário do Circuito e duas extras, que somaram 222 jogos, com 1.622 gols marcados. Ao longo das disputas, passaram pelo Circuito 124 equipes e 992 jogadores, no masculino e no feminino.
 

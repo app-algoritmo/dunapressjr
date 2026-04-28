@@ -1,11 +1,13 @@
 ---
-title: "O Governo Bolsonaro encerrará o mês com a entrega 272 respiradores produzidos no Brasil"
+title: O Governo Bolsonaro encerrará o mês com a entrega 272 respiradores produzidos
+  no Brasil
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Após o cancelamento de fornecedores internacionais, rede com mais de 15 instituições envolvidas dará suporte ao SUS para entregas ao longo de três meses*.
 

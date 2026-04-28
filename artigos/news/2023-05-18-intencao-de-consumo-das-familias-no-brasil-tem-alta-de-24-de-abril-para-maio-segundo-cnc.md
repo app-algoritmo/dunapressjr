@@ -1,11 +1,13 @@
 ---
-title: "Intenção de consumo das famílias no Brasil tem alta de 2,4% de abril para maio, Segundo CNC"
+title: Intenção de consumo das famílias no Brasil tem alta de 2,4% de abril para maio,
+  Segundo CNC
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda da inflação e aumento da renda impulsionam a Confiança dos Consumidores
 

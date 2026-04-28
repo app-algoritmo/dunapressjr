@@ -1,11 +1,12 @@
 ---
-title: "Japão: Rei Akihito abdica o trono."
+title: 'Japão: Rei Akihito abdica o trono.'
 date: 2019-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Hoje concluo meus deveres como imperador", disse o imperador do Japão no início de seu breve discurso durante a cerimônia, realizada hoje no Palácio Imperial diante de 294 participantes, incluindo representantes da família real e dos três ramos do governo
 

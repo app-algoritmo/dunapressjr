@@ -1,11 +1,13 @@
 ---
-title: "Boletim Focus: Índice Nacional de Preços ao Consumidor Amplo (IPCA) subiu para 5,89%"
+title: 'Boletim Focus: Índice Nacional de Preços ao Consumidor Amplo (IPCA) subiu
+  para 5,89%'
 date: 2023-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa básica de juros (Selic) foi mantida em 12,75%.
 

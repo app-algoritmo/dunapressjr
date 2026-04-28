@@ -1,11 +1,12 @@
 ---
-title: "Oficial da FAB é premiado na Academia da Força Aérea dos Estados Unidos"
+title: Oficial da FAB é premiado na Academia da Força Aérea dos Estados Unidos
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Oficial da Força Aérea Brasileira (FAB) Major Julio Cesar Noschang Junior recebeu, na terça-feira (19), o Prêmio Outstanding Academy Educator, concedido ao professor que mais se destacou em cada Departamento da Academia da Força Aérea dos Estados Unidos (United States Air Force Academy – USAFA). A cerimônia foi realizada on line.
 

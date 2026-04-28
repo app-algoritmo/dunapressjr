@@ -1,11 +1,12 @@
 ---
-title: "Camex torna definitivo corte de 10% de tarifa comum do Mercosul"
+title: Camex torna definitivo corte de 10% de tarifa comum do Mercosul
 date: 2022-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Órgão também reduziu tarifas de airbags e compostos alimentares.
 

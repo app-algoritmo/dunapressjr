@@ -1,12 +1,14 @@
 ---
-title: "<strong>Lançamento da Jasmine Alimentos é finalista no maior prêmio de inovação da indústria alimentícia</strong>"
+title: <strong>Lançamento da Jasmine Alimentos é finalista no maior prêmio de inovação
+  da indústria alimentícia</strong>
 date: 2022-10-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
-  - News
+- Food
+- News
 ---
+
 
 ## Wrap Sem Glúten Espinafre está entre os cinco finalistas na categoria "Produto Mais Inovador" no FI Innovation Awards 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dep. Bia Kicis protocola a Lei Constantino contra estupradores"
+title: Dep. Bia Kicis protocola a Lei Constantino contra estupradores
 date: 2020-11-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 5112/20 estabelece a castração química para inibição do desejo sexual como pré-requisito para a concessão de liberdade condicional para condenados por estupro.
 

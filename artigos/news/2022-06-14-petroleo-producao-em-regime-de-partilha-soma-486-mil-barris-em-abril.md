@@ -1,11 +1,12 @@
 ---
-title: "Petróleo: produção em regime de partilha soma 486 mil barris em abril"
+title: 'Petróleo: produção em regime de partilha soma 486 mil barris em abril'
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Produção de gás natural aumentou 19% em relação a março.
 

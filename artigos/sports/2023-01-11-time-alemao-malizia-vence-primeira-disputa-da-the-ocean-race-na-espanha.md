@@ -1,11 +1,12 @@
 ---
-title: "Time alemão Malizia vence primeira disputa da The Ocean Race na Espanha"
+title: Time alemão Malizia vence primeira disputa da The Ocean Race na Espanha
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O time alemão Malizia venceu a primeira disputa da The Ocean Race, maior regata transoceânica do mundo, realizada neste domingo (08) em Alicante, na Espanha. A In-Port Race da cidade espanhola reuniu os cinco barcos de classe IMOCA 60, que chegarão a Itajaí em abril deste ano, pela quarta vez consecutiva. Com a vitória, o Team Malizia (ALE) marcou 5 pontos na disputa.
 

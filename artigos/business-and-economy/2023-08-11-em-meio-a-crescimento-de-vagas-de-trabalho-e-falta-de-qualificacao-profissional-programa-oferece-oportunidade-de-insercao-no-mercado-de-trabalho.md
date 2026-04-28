@@ -1,12 +1,14 @@
 ---
-title: "Em meio a crescimento de vagas de trabalho e falta de qualificação profissional, programa oferece oportunidade de inserção no mercado de trabalho"
+title: Em meio a crescimento de vagas de trabalho e falta de qualificação profissional,
+  programa oferece oportunidade de inserção no mercado de trabalho
 date: 2023-08-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - Education
+- Business and Economy
+- Education
 ---
+
 
 ## Mais de 2.300 jovens participaram do programa Jovem Aprendiz em indústria farmacêutica ao longo de 18 anos; 35% foram efetivados e estão conquistando cargos cada vez mais altos.
 

@@ -1,12 +1,14 @@
 ---
-title: "Brionne Butler é o primeiro reforço internacional do Osasco São Cristóvão Saúde para a temporada 23/24"
+title: Brionne Butler é o primeiro reforço internacional do Osasco São Cristóvão Saúde
+  para a temporada 23/24
 date: 2023-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 Brionne Butler está no Brasília para defender a seleção dos Estados Unidos na etapa do Brasil na Liga das Nações. Neste domingo, às 10h, vai enfrentar o time da casa, no que será o primeiro de muitos duelos contra algumas das jogadoras brasileiras. Isso porque a central norte-americana vai defender o Osasco São Cristóvão Saúde na temporada 2023/24. Ela é o quinto nome anunciado, a primeira cara nova, já que o time renovou com Fabiana, Kenya, Giovana e trouxe Camila Brait de volta após a gravidez.
 

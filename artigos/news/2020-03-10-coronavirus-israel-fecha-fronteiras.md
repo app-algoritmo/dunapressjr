@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, Israel fecha fronteiras"
+title: Coronavírus, Israel fecha fronteiras
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 As autoridades israelenses estão tentando intensamente manter o vírus corona sob controle.
 

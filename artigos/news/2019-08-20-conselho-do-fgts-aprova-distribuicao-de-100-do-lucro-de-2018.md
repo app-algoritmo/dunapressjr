@@ -1,11 +1,12 @@
 ---
-title: "Conselho do FGTS aprova distribuição de 100% do lucro de 2018"
+title: Conselho do FGTS aprova distribuição de 100% do lucro de 2018
 date: 2019-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Medida Provisória (MP) 889 aumentou a rentabilidade do fundo. 
 

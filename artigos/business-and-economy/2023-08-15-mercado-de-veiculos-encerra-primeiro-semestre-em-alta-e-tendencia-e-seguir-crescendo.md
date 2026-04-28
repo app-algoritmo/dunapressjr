@@ -1,11 +1,13 @@
 ---
-title: "Mercado de veículos encerra primeiro semestre em alta e tendência é seguir crescendo"
+title: Mercado de veículos encerra primeiro semestre em alta e tendência é seguir
+  crescendo
 date: 2023-08-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 ## Cenário positivo deve garantir resultado anual favorável ao setor, analisam especialistas.
 

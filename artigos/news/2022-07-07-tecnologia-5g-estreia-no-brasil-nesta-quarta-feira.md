@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia 5G estreia no Brasil nesta quarta-feira"
+title: Tecnologia 5G estreia no Brasil nesta quarta-feira
 date: 2022-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Brasília será primeira cidade a receber nova tecnologia.
 

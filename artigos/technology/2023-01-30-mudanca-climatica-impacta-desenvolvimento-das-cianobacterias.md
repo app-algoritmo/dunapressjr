@@ -1,11 +1,12 @@
 ---
-title: "Mudança climática impacta desenvolvimento das cianobactérias"
+title: Mudança climática impacta desenvolvimento das cianobactérias
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Consideradas como um dos primeiros seres unicelulares a surgir no planeta, as cianobactérias, também chamadas de algas azuis, foram estudadas por um pesquisador da Universidade Rural Federal de Pernambuco (UFRPE). Em seu trabalho, Cihelio Alves Amorim, mestre e doutor em Botânica e vencedor do Prêmio CAPES de Tese 2022 em Biodiversidade, analisa os efeitos das mudanças climáticas e da poluição sobre as florações dessa espécie que existe há mais ou menos 3,5 bilhões de anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>Inadimplência no país é a maior da série histórica, diz FecomercioSP</strong>"
+title: <strong>Inadimplência no país é a maior da série histórica, diz FecomercioSP</strong>
 date: 2022-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Belo Horizonte é a capital com o maior índice de contas em atraso.
 

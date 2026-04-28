@@ -1,11 +1,12 @@
 ---
-title: "Três jogos on-line para ensinar ciências para crianças"
+title: Três jogos on-line para ensinar ciências para crianças
 date: 2021-08-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Gamificação de conteúdos atrai atenção de estudantes em tempos de smartphones e redes sociais e ajuda a ensinar brincando.
 

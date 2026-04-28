@@ -1,11 +1,12 @@
 ---
-title: "Número de empresas em funcionamento cresce em 252,8 mil em um mês"
+title: Número de empresas em funcionamento cresce em 252,8 mil em um mês
 date: 2020-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Salões de beleza e comércio de vestuário registram maiores retomadas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Putin Afirma que Atividades Espaciais Russas Não Divergem das Práticas de Outros Países, Incluindo os EUA"
+title: Putin Afirma que Atividades Espaciais Russas Não Divergem das Práticas de Outros
+  Países, Incluindo os EUA
 date: 2024-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante uma reunião com o ministro da Defesa, Sergey Shoigu, o presidente russo, Vladimir Putin, enfatizou que as atividades espaciais da Rússia estão alinhadas com as práticas de outros países, incluindo os Estados Unidos. Putin ressaltou que as ações russas no espaço exterior não diferem significativamente das realizadas por outras nações.
 

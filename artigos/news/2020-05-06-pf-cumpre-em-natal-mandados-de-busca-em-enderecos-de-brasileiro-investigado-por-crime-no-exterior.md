@@ -1,11 +1,13 @@
 ---
-title: "PF cumpre em Natal mandados de busca em endereços de brasileiro investigado por crime no exterior"
+title: PF cumpre em Natal mandados de busca em endereços de brasileiro investigado
+  por crime no exterior
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN – A Polícia Federal, representante regional da Organização Internacional de Polícia Criminal (INTERPOL), cumpriu nesta quarta-feira, 6/5, nos bairros de Santos Reis e Planalto, em Natal/RN, dois mandados de busca e apreensão em endereços de um cidadão brasileiro investigado pela prática de crime na Europa.
 

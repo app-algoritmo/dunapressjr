@@ -1,11 +1,12 @@
 ---
-title: "Abertura de empresas em Itajaí passa a ser totalmente digital"
+title: Abertura de empresas em Itajaí passa a ser totalmente digital
 date: 2021-01-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A transparência e a desburocratização dos processos, realidade em várias demandas e serviços da Administração Municipal de Itajaí, chega agora aos pedidos para a abertura de novas empresas, que a partir desta sexta-feira (08) passam a ser totalmente digitais no Município. Com a nova ferramenta, contadores e empreendedores em geral terão mais agilidade e facilidade para a abertura de novos negócios na cidade.
 

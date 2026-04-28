@@ -1,11 +1,12 @@
 ---
-title: "Pagamento da 3ª parcela do Auxílio Emergencial começou nesta quarta (17)"
+title: Pagamento da 3ª parcela do Auxílio Emergencial começou nesta quarta (17)
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os integrantes do Bolsa Família começaram a receber, nesta quarta-feira (17), a terceira parcela do Auxílio Emergencial do Governo Federal. Os repasses de R$ 600 a R$ 1.200 obedecem ao calendário habitual do programa, que segue até 30 de junho. Os primeiros a receber são os beneficiários com NIS final 1.
 

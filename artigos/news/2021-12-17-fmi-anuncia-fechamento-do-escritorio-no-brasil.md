@@ -1,11 +1,12 @@
 ---
-title: "FMI anuncia fechamento do escritório no Brasil"
+title: FMI anuncia fechamento do escritório no Brasil
 date: 2021-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Órgão deixará o país em junho de 2022, após 23 anos.
 

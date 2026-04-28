@@ -1,12 +1,13 @@
 ---
-title: "Cuidados contra Táticas de Manipulação de Massas"
+title: Cuidados contra Táticas de Manipulação de Massas
 date: 2023-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 Já se viu influenciado alguma vez? Possivelmente, você já passou por isso, mesmo sem perceber, arriscaria afirmar que, se alguma vez você fez uma compra, alguém em algum momento utilizou princípios psicológicos para incentivar sua decisão de compra, como se fosse uma escolha sua.
 

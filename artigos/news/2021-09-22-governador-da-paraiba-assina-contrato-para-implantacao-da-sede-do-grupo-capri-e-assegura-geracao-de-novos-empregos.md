@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina contrato para implantação da sede do Grupo Capri e assegura geração de novos empregos"
+title: Governador da Paraíba assina contrato para implantação da sede do Grupo Capri
+  e assegura geração de novos empregos
 date: 2021-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A nova unidade da Paraíba atenderá os estados de Maranhão, Piauí, Ceará, Rio Grande do Norte, Pernambuco, Alagoas, Sergipe e a própria Paraíba.
 

@@ -1,12 +1,13 @@
 ---
-title: "Advento, que tempo é esse?"
+title: Advento, que tempo é esse?
 date: 2017-12-03
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
-  - History
+- Culture and History
+- History
 ---
+
 
 ## Para todos os cristãos, é tempo de esperar a vinda de Jesus e comemorar seu nascimento.
 

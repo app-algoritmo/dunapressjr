@@ -1,11 +1,13 @@
 ---
-title: "Biden Declara Dia da Visibilidade Trans no Domingo de Páscoa, Desencadeando Controvérsia"
+title: Biden Declara Dia da Visibilidade Trans no Domingo de Páscoa, Desencadeando
+  Controvérsia
 date: 2024-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, provocou controvérsia ao proclamar o dia 31 de março, coincidindo com o Domingo de Páscoa, como o "dia da visibilidade trans". Em uma nota oficial, Biden destacou a "extraordinária bravura e contribuições dos transexuais norte-americanos", sem fazer qualquer menção à celebração religiosa.
 

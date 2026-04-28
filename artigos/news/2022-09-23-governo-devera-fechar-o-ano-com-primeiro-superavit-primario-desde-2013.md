@@ -1,11 +1,12 @@
 ---
-title: "Governo deverá fechar o ano com primeiro superávit primário desde 2013"
+title: Governo deverá fechar o ano com primeiro superávit primário desde 2013
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Relatório estima resultado positivo de R$ 13,548 bi neste ano.
 

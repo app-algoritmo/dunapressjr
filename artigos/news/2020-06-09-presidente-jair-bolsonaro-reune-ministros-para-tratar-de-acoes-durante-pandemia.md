@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro reúne ministros para tratar de ações durante pandemia"
+title: Presidente Jair Bolsonaro reúne ministros para tratar de ações durante pandemia
 date: 2020-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “O que mais queremos é voltar à normalidade, e o País retornar ao caminho da prosperidade”, disse Bolsonaro.
 

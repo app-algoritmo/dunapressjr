@@ -1,11 +1,13 @@
 ---
-title: "Caxias Shopping será um dos pontos oficiais de retirada de kits da 3ª edição do evento “Pedal no Paraíso”"
+title: Caxias Shopping será um dos pontos oficiais de retirada de kits da 3ª edição
+  do evento “Pedal no Paraíso”
 date: 2024-04-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Evento promovido pela Prefeitura Municipal de Duque de Caxias tem 9 mil inscritos.
 

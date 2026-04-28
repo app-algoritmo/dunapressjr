@@ -1,11 +1,12 @@
 ---
-title: "Autorizadas aulas on-line até dezembro no ensino superior pelo MEC"
+title: Autorizadas aulas on-line até dezembro no ensino superior pelo MEC
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Portaria também flexibiliza estágios e práticas em laboratório.
 

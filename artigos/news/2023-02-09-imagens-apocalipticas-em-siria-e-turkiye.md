@@ -1,11 +1,12 @@
 ---
-title: "Imagens apocalípticas em Síria e Türkiye"
+title: Imagens apocalípticas em Síria e Türkiye
 date: 2023-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A nova queda de neve na Síria na quarta-feira agravou a situação já desesperadora enfrentada por milhões de pessoas nas cinco províncias cujas vidas foram destruídas pelo desastre do terremoto, disse o principal funcionário humanitário da ONU no país.
 

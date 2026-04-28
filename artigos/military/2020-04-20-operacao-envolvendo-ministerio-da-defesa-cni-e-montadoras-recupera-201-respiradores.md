@@ -1,11 +1,12 @@
 ---
-title: "Operação envolvendo Ministério da Defesa, CNI e montadoras recupera 201 respiradores"
+title: Operação envolvendo Ministério da Defesa, CNI e montadoras recupera 201 respiradores
 date: 2020-04-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A operação de transporte e manutenção de respiradores hospitalares, envolvendo *Ministério da Defesa (MD), Confederação Nacional da Indústria (CNI)* e empresas, fechou duas primeiras semanas com a recuperação de 201 aparelhos e 1.290 recolhidos para reparo. A capilaridade conta com 15 pontos de manutenção de respiradores inutilizados em 13 estados: Bahia, Ceará, Espírito Santo, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Santa Catarina e São Paulo. A missão também conta com o apoio de algumas industrias automotivas, que alteraram seus processos produtivos para colaborar com tarefa.
 

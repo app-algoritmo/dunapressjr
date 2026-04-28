@@ -1,11 +1,12 @@
 ---
-title: "Presidente sanciona projeto que modifica regras do Pronampe"
+title: Presidente sanciona projeto que modifica regras do Pronampe
 date: 2022-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Microempreendedores individuais passam a ter direito a empréstimos.
 

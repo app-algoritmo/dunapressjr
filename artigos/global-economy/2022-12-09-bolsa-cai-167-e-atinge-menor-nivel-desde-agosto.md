@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 1,67% e atinge menor nível desde agosto"
+title: Bolsa cai 1,67% e atinge menor nível desde agosto
 date: 2022-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar tem dia estável e fecha vendido a R$ 5,21.
 

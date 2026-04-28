@@ -1,11 +1,13 @@
 ---
-title: "No Rio de Janeiro, Presidente Jair Bolsonaro inaugurou nova unidade operacional da Polícia Rodoviária Federal"
+title: No Rio de Janeiro, Presidente Jair Bolsonaro inaugurou nova unidade operacional
+  da Polícia Rodoviária Federal
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente Jair Bolsonaro entregou, nesta quinta-feira (24), à Superintendência da Polícia Rodoviária Federal no Rio de Janeiro, novas viaturas e armamentos que serão utilizados para patrulhar as estradas do estado. O Presidente também participou da entrega de novas estruturas no interior da superintendência, e inaugurou a Unidade Operacional (UOP), na alça de acesso à Linha Vermelha, em local estratégico da Via Dutra.
 

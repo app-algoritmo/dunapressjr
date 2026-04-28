@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde faz balanço das ações no combate à Covid-19"
+title: Ministério da Saúde faz balanço das ações no combate à Covid-19
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde o início da crise provocada pela Covid-19, o Governo Federal vem fortalecendo a estrutura do Sistema Único de Saúde (SUS) com entregas de equipamentos, insumos e recursos para o combate à doença. Por meio do Ministério da Saúde, o Governo já destinou aos 26 estados e ao Distrito Federal R$ 178,3 bilhões. Desse total, R$ 134,16 bilhões foram para serviços de rotina do SUS, e os outros R$ 44,17 bilhões para o enfrentamento da Covid-19.
 

@@ -1,11 +1,13 @@
 ---
-title: "O Quênia está servindo como campo de testes para rastreamento biométrico de vacinas infantis"
+title: O Quênia está servindo como campo de testes para rastreamento biométrico de
+  vacinas infantis
 date: 2023-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Uso de impressões digitais e dados de voz.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estromatólitos: Testemunhas Vivas da Antiga Terra"
+title: 'Estromatólitos: Testemunhas Vivas da Antiga Terra'
 date: 2024-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 Os estromatólitos são estruturas sedimentares rochosas formadas por camadas sucessivas de cianobactérias e sedimentos. Essas formações, muitas vezes encontradas em ambientes aquáticos rasos, representam um dos fósseis mais antigos e importantes da Terra, com uma história que remonta a mais de 3,5 bilhões de anos. Este artigo explora a fascinante história, a importância e a atualidade dos estromatólitos.
 

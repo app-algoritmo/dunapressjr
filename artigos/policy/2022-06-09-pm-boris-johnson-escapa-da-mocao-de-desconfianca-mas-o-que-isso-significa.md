@@ -1,11 +1,12 @@
 ---
-title: "PM Boris Johnson escapa da 'moção de desconfiança', mas o que isso significa?"
+title: PM Boris Johnson escapa da 'moção de desconfiança', mas o que isso significa?
 date: 2022-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 # Moções de desconfiança |
 

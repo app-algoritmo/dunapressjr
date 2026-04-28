@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra as Operações Famintos e Feudos para combater fraudes em licitações e contratos de merenda escolar em municípios paraibanos"
+title: Polícia Federal deflagra as Operações Famintos e Feudos para combater fraudes
+  em licitações e contratos de merenda escolar em municípios paraibanos
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # PF investiga desvios de recursos públicos destinados à compra de merenda escolar
 

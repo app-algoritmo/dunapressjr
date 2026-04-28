@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem pequena queda e fecha a R$ 5,26"
+title: Dólar tem pequena queda e fecha a R$ 5,26
 date: 2021-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fecha em alta, sustentada por commodities.
 

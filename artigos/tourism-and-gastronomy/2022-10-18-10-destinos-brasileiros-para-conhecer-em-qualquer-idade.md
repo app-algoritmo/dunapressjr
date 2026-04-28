@@ -1,11 +1,12 @@
 ---
-title: "10 destinos brasileiros para conhecer em qualquer idade"
+title: 10 destinos brasileiros para conhecer em qualquer idade
 date: 2022-10-18
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Confira opções de lugares incríveis em diferentes estados do Brasil
 

@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump promete libertar presos do 'assalto' ao Capitólio se eleito presidente em novembro"
+title: Donald Trump promete libertar presos do 'assalto' ao Capitólio se eleito presidente
+  em novembro
 date: 2024-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos e candidato do Partido Republicano à Casa Branca, Donald Trump, causou alvoroço nesta segunda-feira ao prometer libertar os presos envolvidos no "assalto" ao Capitólio em 6 de janeiro de 2021, caso vença as eleições de novembro. Em uma declaração feita através de seu perfil na rede social Truth Social, Trump afirmou que suas primeiras medidas como presidente serão fechar a fronteira e garantir a libertação dos considerados "reféns" dessa situação. Mais de 1.300 pessoas foram acusadas pelo incidente, resultando em aproximadamente 500 condenações de prisão, de acordo com dados do Departamento de Justiça.
 

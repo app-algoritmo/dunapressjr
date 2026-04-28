@@ -1,11 +1,12 @@
 ---
-title: "Calendário de pagamento do PIS é antecipado para 30 de abril"
+title: Calendário de pagamento do PIS é antecipado para 30 de abril
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O saque das Cotas do PIS, liberado para os titulares de conta participação pela Lei nº 13.932/2019, será encerrado nesta quinta-feira (30). A Lei disponibilizou aos titulares ou seus herdeiros legais o saque integral do seu saldo, constituído de depósitos realizados pelos empregadores no Fundo PIS/Pasep entre os anos de 1971 a 04/10/1988.
 

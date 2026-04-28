@@ -1,11 +1,13 @@
 ---
-title: "Arte do Quilombo: Fundação Cultural Palmares contemplará 100 projetos,  com premiação no valor total de R$ 688 mil"
+title: 'Arte do Quilombo: Fundação Cultural Palmares contemplará 100 projetos,  com
+  premiação no valor total de R$ 688 mil'
 date: 2020-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Detentores de manifestações culturais de Comunidades Remanescentes de Quilombos (CRQs) e não quilombolas autodeclarados negros (pretos ou pardos) podem participar da seleção pública “Arte do Quilombo”. Os interessados, que devem ser comprovadamente praticantes das expressões culturais afro-brasileiras, devem se inscrever até o dia 24 de agosto.
 

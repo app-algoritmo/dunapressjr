@@ -1,11 +1,12 @@
 ---
-title: "Copom eleva taxa básica de juros para 4,25% ao ano"
+title: Copom eleva taxa básica de juros para 4,25% ao ano
 date: 2021-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão de elevar a Selic pela terceira vez era esperada pelo mercado.
 

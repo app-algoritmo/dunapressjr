@@ -1,11 +1,12 @@
 ---
-title: "Como manter o peso saudável antes e depois da gravidez"
+title: Como manter o peso saudável antes e depois da gravidez
 date: 2021-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Ter um ganho de peso adequado durante a gravidez diminui o risco de algumas doenças, como diabetes e pressão alta. Mas o excesso de peso propicia complicações para a mãe na hora do parto e para o recém-nascido, além de contribuir para a retenção de peso pós-parto. Então afinal: existe um peso ideal para as gestantes?
 

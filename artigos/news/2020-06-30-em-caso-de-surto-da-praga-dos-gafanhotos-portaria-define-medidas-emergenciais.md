@@ -1,11 +1,12 @@
 ---
-title: "Em caso de surto da praga dos gafanhotos, portaria define medidas emergenciais"
+title: Em caso de surto da praga dos gafanhotos, portaria define medidas emergenciais
 date: 2020-06-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As diretrizes têm caráter preventivo, já que a nuvem de gafanhotos continua em território argentino, sem previsão de chegar ao Brasil.
 

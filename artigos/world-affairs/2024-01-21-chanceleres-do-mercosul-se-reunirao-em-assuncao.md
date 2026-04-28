@@ -1,11 +1,12 @@
 ---
-title: "Chanceleres do Mercosul se reunirão em Assunção"
+title: Chanceleres do Mercosul se reunirão em Assunção
 date: 2024-01-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os ministros das Relações Exteriores dos Estados Partes do Mercosul e da Bolívia se reunirão em Assunção nos dias 23 e 24 de janeiro, no âmbito da presidência pro tempore do Paraguai.
 

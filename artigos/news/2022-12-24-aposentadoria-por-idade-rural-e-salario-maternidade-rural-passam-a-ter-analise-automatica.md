@@ -1,11 +1,13 @@
 ---
-title: "Aposentadoria por idade rural e salário-maternidade rural passam a ter análise automática"
+title: Aposentadoria por idade rural e salário-maternidade rural passam a ter análise
+  automática
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova autodeclaração rural agora é eletrônica e vai permitir que INSS agilize a análise dos pedidos.
 

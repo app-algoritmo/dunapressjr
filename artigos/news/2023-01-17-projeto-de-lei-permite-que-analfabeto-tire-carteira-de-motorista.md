@@ -1,11 +1,12 @@
 ---
-title: "Projeto de Lei permite que analfabeto tire carteira de motorista"
+title: Projeto de Lei permite que analfabeto tire carteira de motorista
 date: 2023-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2675/22 altera o [Código de Trânsito Brasileiro](https://www2.camara.leg.br/legin/fed/lei/1997/lei-9503-23-setembro-1997-372348-norma-pl.html) para permitir que analfabetos tirem a Carteira Nacional de Habilitação (CNH). A proposta tramita na Câmara dos Deputados.
 

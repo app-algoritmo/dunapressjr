@@ -1,11 +1,12 @@
 ---
-title: "Os alarmistas do clima: absurdo infernal"
+title: 'Os alarmistas do clima: absurdo infernal'
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 É verão e, como todos os anos, a mídia está usando algumas ondas de calor para impulsionar sua agenda climática globalista e está avançando a todo vapor. Eles até começaram a dar nomes bobos às ondas de calor, como Cerberus. Há novas manchetes arrepiantes todos os dias, e é claro que todas fazem parte de uma campanha de propaganda bem coordenada.
 

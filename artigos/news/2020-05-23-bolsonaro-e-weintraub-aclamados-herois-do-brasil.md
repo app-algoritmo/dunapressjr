@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro e Weintraub aclamados heróis do Brasil"
+title: Bolsonaro e Weintraub aclamados heróis do Brasil
 date: 2020-05-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Pelegos no abismo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cobal do Leblon recebe Coletivo Balzak40 no final de semana"
+title: Cobal do Leblon recebe Coletivo Balzak40 no final de semana
 date: 2023-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Evento com entrada gratuita acontece das 11h às 19h.
 

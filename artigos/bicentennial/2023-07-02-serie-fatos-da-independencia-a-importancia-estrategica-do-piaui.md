@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A importância estratégica do Piauí"
+title: 'Série Fatos Da Independência: A importância estratégica do Piauí'
 date: 2023-07-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A ausência de controle da Coroa sobre o Piauí não era nem um pouco interessante para Portugal: a posição geográfica da capitania era estratégica. O território piauiense estava no encontro de diversas vias de comunicação do Norte. Era uma rota importante para o Maranhão, mas também estava próximo do Ceará, da Bahia e de Pernambuco. Além disso, seus currais eram a principal fonte de fornecimento de carnes para a região Norte. Foi buscando aumentar o controle sobre a região que, em 1811, a Coroa concedeu autonomia política ao Piauí, que na época já era uma capitania, mas tinha sua administração vinculada à do Maranhão. Assim, o Piauí ganhou uma representação própria. A capital foi estabelecida em Oeiras.
 

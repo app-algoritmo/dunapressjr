@@ -1,11 +1,13 @@
 ---
-title: "Ebserh terá etapas do concurso para Hospital das Clínicas de Uberlândia de forma virtual"
+title: Ebserh terá etapas do concurso para Hospital das Clínicas de Uberlândia de
+  forma virtual
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Avaliação de títulos e heteroidentificação estão com prazos abertos para recebimento de documentos.
 

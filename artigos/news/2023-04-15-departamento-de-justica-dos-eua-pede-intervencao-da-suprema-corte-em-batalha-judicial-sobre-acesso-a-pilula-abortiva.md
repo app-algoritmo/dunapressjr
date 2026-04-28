@@ -1,11 +1,13 @@
 ---
-title: "Departamento de Justiça dos EUA pede intervenção da Suprema Corte em batalha judicial sobre acesso à pílula abortiva"
+title: Departamento de Justiça dos EUA pede intervenção da Suprema Corte em batalha
+  judicial sobre acesso à pílula abortiva
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Disputa envolve aprovação sanitária da mifepristona e limitação de acesso pelo tribunal federal, enquanto mais da metade dos abortos nos EUA é realizado com a pílula.
 

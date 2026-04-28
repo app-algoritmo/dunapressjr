@@ -1,11 +1,12 @@
 ---
-title: "Neuralink, empresa de Musk, coloca primeiro implante no cérebro humano"
+title: Neuralink, empresa de Musk, coloca primeiro implante no cérebro humano
 date: 2024-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## O empresário acrescentou que o primeiro produto da Neuralink chama-se Telepatia e “permite controlar o seu telefone ou computador, e através deles quase qualquer dispositivo, apenas com o pensamento”.
 

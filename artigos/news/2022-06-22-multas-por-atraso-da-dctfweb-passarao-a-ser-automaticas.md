@@ -1,11 +1,12 @@
 ---
-title: "Multas por atraso da DCTFWeb passarão a ser automáticas"
+title: Multas por atraso da DCTFWeb passarão a ser automáticas
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prazo final para envio da declaração é dia 1º de julho.
 

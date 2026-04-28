@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra superávit de US$ 6,67 bi em novembro"
+title: Balança comercial registra superávit de US$ 6,67 bi em novembro
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Safra de grãos compensou queda nas exportações de ferro.
 

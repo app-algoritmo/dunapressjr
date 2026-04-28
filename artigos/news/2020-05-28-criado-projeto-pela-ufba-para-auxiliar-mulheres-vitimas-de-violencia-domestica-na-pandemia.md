@@ -1,11 +1,13 @@
 ---
-title: "Criado projeto pela UF/BA para auxiliar mulheres vítimas de violência doméstica na pandemia"
+title: Criado projeto pela UF/BA para auxiliar mulheres vítimas de violência doméstica
+  na pandemia
 date: 2020-05-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Bolsistas da Capes dão orientações para melhorar a saúde física e mental das mulheres atendidas.**
 

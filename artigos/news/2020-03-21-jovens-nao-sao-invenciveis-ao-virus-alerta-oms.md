@@ -1,11 +1,12 @@
 ---
-title: "Jovens 'não são invencíveis' ao vírus, alerta OMS"
+title: Jovens 'não são invencíveis' ao vírus, alerta OMS
 date: 2020-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Especialistas esperam que demore 12 a 18 meses para lançar uma vacina que estará disponível com base nas necessidades.
 

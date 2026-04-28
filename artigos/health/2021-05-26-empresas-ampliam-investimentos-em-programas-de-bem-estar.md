@@ -1,11 +1,12 @@
 ---
-title: "Empresas ampliam investimentos em programas de bem-estar"
+title: Empresas ampliam investimentos em programas de bem-estar
 date: 2021-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma recente pesquisa do Instituto Ipsos, encomendada pelo Fórum Econômico Mundial, revelou que a saúde mental de 53% dos brasileiros piorou nos últimos 12 meses. Os índices brasileiros colocam a nação em quinto lugar entre os trinta países que mais têm sentido as consequências da pandemia em seu bem-estar emocional, atrás apenas de Itália, Hungria, Chile e Turquia.
 

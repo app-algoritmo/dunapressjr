@@ -1,11 +1,12 @@
 ---
-title: "Projeto acaba com cotas baseadas em cor ou raça nas universidades"
+title: Projeto acaba com cotas baseadas em cor ou raça nas universidades
 date: 2022-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 4125/21 estabelece que as cotas para ingresso nas universidades públicas federais serão destinadas exclusivamente aos estudantes de baixa renda. O texto, do deputado [Kim Kataguiri (DEM-SP)](https://www.camara.leg.br/deputados/204536), está em análise na Câmara dos Deputados.
 

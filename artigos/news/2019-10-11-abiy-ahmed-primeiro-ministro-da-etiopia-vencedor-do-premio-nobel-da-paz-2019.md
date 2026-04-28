@@ -1,11 +1,12 @@
 ---
-title: "Abiy Ahmed, primeiro-ministro da Etiópia vencedor do Prêmio Nobel da Paz 2019"
+title: Abiy Ahmed, primeiro-ministro da Etiópia vencedor do Prêmio Nobel da Paz 2019
 date: 2019-10-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A brasileira Morgana Macena de Santana e a sueca Greta Thunberg também estavam na disputa
 

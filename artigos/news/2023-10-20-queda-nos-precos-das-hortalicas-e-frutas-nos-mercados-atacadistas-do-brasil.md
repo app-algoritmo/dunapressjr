@@ -1,11 +1,12 @@
 ---
-title: "Queda nos preços das hortaliças e frutas nos mercados atacadistas do Brasil"
+title: Queda nos preços das hortaliças e frutas nos mercados atacadistas do Brasil
 date: 2023-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Relatório da Conab revela redução de valores de produtos como alface, batata, cenoura e cebola, enquanto frutas como banana e mamão também sofrem desvalorização.
 

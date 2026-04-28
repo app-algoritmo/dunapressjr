@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica do país recua 0,1% no terceiro trimestre"
+title: Atividade econômica do país recua 0,1% no terceiro trimestre
 date: 2021-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Produto Interno Bruto foi estimado em R$ 6,338 trilhões.
 

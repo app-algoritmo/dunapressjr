@@ -1,11 +1,13 @@
 ---
-title: "UnB cria projeto que observa vulnerabilidade de idosos e cuidadores em face da pandemia"
+title: UnB cria projeto que observa vulnerabilidade de idosos e cuidadores em face
+  da pandemia
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Equipe do Departamento de Enfermagem acompanha o grupo por aplicativo de mensagens e videochamadas para promover cuidado e prevenção em saúde.
 

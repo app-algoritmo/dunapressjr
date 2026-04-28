@@ -1,11 +1,12 @@
 ---
-title: "Clássico, cool e confortável: um guia rápido do mocassim feminino"
+title: 'Clássico, cool e confortável: um guia rápido do mocassim feminino'
 date: 2022-04-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Quando o assunto é sapato, opção é o que não falta, principalmente dentro da **moda feminina**! Com salto, sem salto, sofisticados, profissionais, divertidos, discretos, funcionais… Existem alternativas para todos os gostos, ocasiões, temperaturas e estilos.
 

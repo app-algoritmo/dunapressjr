@@ -1,11 +1,12 @@
 ---
-title: "Alto funcionário da saúde diz que hospitais falsificaram mortes durante pandemia"
+title: Alto funcionário da saúde diz que hospitais falsificaram mortes durante pandemia
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um alto funcionário do governo britânico admitiu que os hospitais falsificaram dados sobre as causas de morte durante a pandemia.
 

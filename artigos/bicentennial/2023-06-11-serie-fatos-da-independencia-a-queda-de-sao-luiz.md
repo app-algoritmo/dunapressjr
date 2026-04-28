@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A queda de São Luiz"
+title: 'Série Fatos Da Independência: A queda de São Luiz'
 date: 2023-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Por volta de julho de 1823, o Maranhão estava bastante desgastado pela guerra, principalmente nas áreas próximas ao rio Itapecuru. Após sucessivas tentativas, finalmente a adesão ao Império do Brasil conquistou apoio entre os produtores da região. Não que essa cooperação fosse feita de bom grado, mas ao verem o exército inimigo cheio de libertos, pardos e indígenas marchando por suas terras e queimando suas produções, os fazendeiros temeram por um levante.
 

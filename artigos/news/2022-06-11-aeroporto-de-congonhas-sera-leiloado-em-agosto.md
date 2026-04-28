@@ -1,11 +1,12 @@
 ---
-title: "Aeroporto de Congonhas será leiloado em agosto"
+title: Aeroporto de Congonhas será leiloado em agosto
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Na mesma data serão concedidos terminais em outras regiões.
 

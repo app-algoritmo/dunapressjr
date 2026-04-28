@@ -1,11 +1,13 @@
 ---
-title: "O 11 de setembro foi um trabalho interno? A resposta de um candidato presidencial americano"
+title: O 11 de setembro foi um trabalho interno? A resposta de um candidato presidencial
+  americano
 date: 2023-08-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O apresentador da BlazeTV, Alex Stein, perguntou na quarta-feira ao candidato presidencial Vivek Ramaswamy se os ataques de 11 de setembro foram orquestrados pelo governo dos EUA ou executados por terroristas.
 

@@ -1,12 +1,13 @@
 ---
-title: "O Impacto do Saneamento na Saúde Pública e no Desenvolvimento Cognitivo"
+title: O Impacto do Saneamento na Saúde Pública e no Desenvolvimento Cognitivo
 date: 2024-06-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
-  - Health
+- Environment
+- Health
 ---
+
 
 O saneamento básico é amplamente reconhecido como um dos investimentos mais importantes em saúde pública, desempenhando um papel crucial na prevenção de doenças infecciosas transmitidas pela água. Esta perspectiva é respaldada por estudos científicos que demonstram a relação entre parasitas, saúde e desenvolvimento cognitivo. O doutorando em Biologia Christopher Eppig, da Universidade do Novo México (EUA), explora essa ligação, sugerindo que doenças parasitárias podem afetar negativamente o coeficiente de inteligência (QI) ao desviar energia vital do desenvolvimento cerebral para combater infecções.
 

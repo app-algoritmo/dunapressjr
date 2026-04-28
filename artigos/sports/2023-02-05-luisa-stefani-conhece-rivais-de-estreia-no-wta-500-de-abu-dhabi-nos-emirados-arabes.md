@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani conhece rivais de estreia no WTA 500 de Abu Dhabi, nos Emirados Árabes"
+title: Luisa Stefani conhece rivais de estreia no WTA 500 de Abu Dhabi, nos Emirados
+  Árabes
 date: 2023-02-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Luisa Stefani, número 36 do mundo de duplas, conheceu a chave de duplas no WTA 500 de Abu Dhabi, nos Emirados Árabes, evento no piso duro com premiação de US$ 780 mil. Luisa atua pela primeira vez com a chinesa Shuai Zhang, 26ª colocada, e vai enfrentar a dupla cabeça de chave 2 formada pela cazaque Anna Danilina e a ucraniana Lyudmila Kichenok em data ainda não confirmada.
 

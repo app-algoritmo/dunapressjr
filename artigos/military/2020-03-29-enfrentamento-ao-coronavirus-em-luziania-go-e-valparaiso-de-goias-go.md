@@ -1,11 +1,12 @@
 ---
-title: "Enfrentamento ao coronavírus em Luziânia (GO) e Valparaíso de Goiás (GO)"
+title: Enfrentamento ao coronavírus em Luziânia (GO) e Valparaíso de Goiás (GO)
 date: 2020-03-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF)** – No dia 24 de março, em uma ação coordenada pelo
 Comando Conjunto Planalto, viaturas do Exército Brasileiro, com militares do

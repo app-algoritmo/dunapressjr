@@ -1,11 +1,13 @@
 ---
-title: "Brazil Military Coup Convictions: High-Ranking Officials Sentenced in Historic Ruling"
+title: 'Brazil Military Coup Convictions: High-Ranking Officials Sentenced in Historic
+  Ruling'
 date: 2025-11-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Politics and Society
+- Politics and Society
 ---
+
 
 # Brazil Military Coup Convictions: A Turning Point in Brazilian Democracy
 

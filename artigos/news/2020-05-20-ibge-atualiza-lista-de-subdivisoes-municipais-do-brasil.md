@@ -1,11 +1,12 @@
 ---
-title: "IBGE atualiza lista de subdivisões municipais do Brasil"
+title: IBGE atualiza lista de subdivisões municipais do Brasil
 date: 2020-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento, referente a 2019, acrescenta 111 novos distritos municipais.A estrutura territorial brasileira mantém 5.568 municípios desde 2013.
 

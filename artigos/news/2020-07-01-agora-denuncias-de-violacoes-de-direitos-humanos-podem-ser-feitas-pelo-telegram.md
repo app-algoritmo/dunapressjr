@@ -1,11 +1,12 @@
 ---
-title: "Agora denúncias de violações de direitos humanos podem ser feitas pelo Telegram"
+title: Agora denúncias de violações de direitos humanos podem ser feitas pelo Telegram
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Com o Telegram, agora existem quatro ferramentas para o atendimento de vítimas e o registro de denúncias de violações de direitos humanos. Além da nova plataforma, há o canal telefônico (Disque 100 e Ligue 180), o aplicativo Direitos Humanos Brasil e o site da Ouvidoria.
 

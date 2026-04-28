@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil esgota novo limite do Pronampe em um dia"
+title: Banco do Brasil esgota novo limite do Pronampe em um dia
 date: 2020-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Instituição financeira emprestou quase R$ 5 bilhões.
 

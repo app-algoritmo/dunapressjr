@@ -1,11 +1,12 @@
 ---
-title: "Usuários de energia já pagaram R$ 25,8 bilhões em subsídios neste ano"
+title: Usuários de energia já pagaram R$ 25,8 bilhões em subsídios neste ano
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aneel cria ferramenta digital para dar transparência aos custos.
 

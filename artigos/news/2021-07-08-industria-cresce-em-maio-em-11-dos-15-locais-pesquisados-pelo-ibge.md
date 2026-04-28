@@ -1,11 +1,12 @@
 ---
-title: "Indústria cresce em maio em 11 dos 15 locais pesquisados pelo IBGE"
+title: Indústria cresce em maio em 11 dos 15 locais pesquisados pelo IBGE
 date: 2021-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Principais destaques foram Goiás, Minas Gerais, Ceará e Rio de Janeiro.
 

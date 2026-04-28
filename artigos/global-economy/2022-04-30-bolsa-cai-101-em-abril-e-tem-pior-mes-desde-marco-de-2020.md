@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 10,1% em abril e tem pior mês desde março de 2020"
+title: Bolsa cai 10,1% em abril e tem pior mês desde março de 2020
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Dólar fechou a R$ 4,94 e teve alta mensal de 3,81%.
 

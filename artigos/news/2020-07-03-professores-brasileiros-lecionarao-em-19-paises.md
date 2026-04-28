@@ -1,11 +1,12 @@
 ---
-title: "Professores brasileiros lecionarão em 19 países"
+title: Professores brasileiros lecionarão em 19 países
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativa interministerial envia 20 professores brasileiros para universidades no exterior
 

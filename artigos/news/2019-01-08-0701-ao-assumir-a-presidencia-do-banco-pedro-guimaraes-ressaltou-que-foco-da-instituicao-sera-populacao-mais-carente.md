@@ -1,11 +1,13 @@
 ---
-title: "07.01 Ao assumir a presidência do banco, Pedro Guimarães ressaltou que foco da instituição será população mais carente"
+title: 07.01 Ao assumir a presidência do banco, Pedro Guimarães ressaltou que foco
+  da instituição será população mais carente
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Microcrédito pode mudar o País, afirma novo presidente da Caixa
 

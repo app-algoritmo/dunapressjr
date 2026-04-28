@@ -1,11 +1,12 @@
 ---
-title: "Norte e Centro-Oeste têm recuperação econômica mais intensa, diz BC"
+title: Norte e Centro-Oeste têm recuperação econômica mais intensa, diz BC
 date: 2021-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é de maior crescimento no segundo semestre.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro inauguradas três estações de tratamento"
+title: Governo Bolsonaro inauguradas três estações de tratamento
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir desta sexta-feira (11), o serviço de coleta e tratamento de esgoto de Marília (SP) atenderá a todos os 260 mil moradores da cidade. Com participação do ministro do Desenvolvimento Regional, Rogério Marinho, foram entregues três estações de tratamento de esgotamento sanitário na cidade – das bacias do Pombo, Barbosa e Palmital. No total, foram investidos R$ 87 milhões nas estruturas, sendo R$ 63,7 milhões do Governo Federal e R$ 23,3 milhões de contrapartida do município.
 

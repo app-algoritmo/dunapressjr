@@ -1,11 +1,13 @@
 ---
-title: "SC: Aprovado PL que desburocratiza transferência de recursos para combate à estiagem"
+title: 'SC: Aprovado PL que desburocratiza transferência de recursos para combate
+  à estiagem'
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Projeto de lei (PL) aprovado na tarde desta quarta-feira (2) pelo plenário da Assembleia Legislativa vai facilitar as transferências voluntárias de recursos do Estado para municípios que estão sofrendo com a estiagem. Uma subemenda aditiva apresentada pelo deputado Coronel Mocellin (PSL) ao PL 323/2020 dispensa os municípios de algumas exigências formais quando os recursos forem repassados para combater os efeitos da seca enquanto estiver em vigor decreto municipal que tenha declarado estado de emergência ou calamidade pública.
 

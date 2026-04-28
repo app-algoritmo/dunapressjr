@@ -1,11 +1,12 @@
 ---
-title: "Taxa média de juros cai em agosto, mas segue tendência de alta"
+title: Taxa média de juros cai em agosto, mas segue tendência de alta
 date: 2022-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Endividamento das famílias chega a 53,1% em julho.
 

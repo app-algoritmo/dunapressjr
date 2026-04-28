@@ -1,11 +1,12 @@
 ---
-title: "Rússia Adverte a NATO sobre Implicações de Enviar Tropas para a Ucrânia"
+title: Rússia Adverte a NATO sobre Implicações de Enviar Tropas para a Ucrânia
 date: 2024-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A porta-voz do Ministério dos Negócios Estrangeiros da Rússia, Maria Zakharova, criticou as declarações recentes da NATO sobre a presença de suas forças na Ucrânia. Em uma entrevista ao jornal Izvestia, Zakharova argumentou que negar essa presença não faz sentido, referindo-se às afirmações do ministro dos Negócios Estrangeiros polaco, Radoslaw Sikorski, sobre a presença militar da NATO no país. Sikorski, durante uma conferência sobre o 25º aniversário da adesão da Polónia à NATO, sugeriu que tropas da aliança já estavam na Ucrânia, sem especificar a origem dessas tropas.
 

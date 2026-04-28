@@ -1,11 +1,12 @@
 ---
-title: "Infectologistas mudaram a forma como a saúde é vista na pandemia da Covid-19"
+title: Infectologistas mudaram a forma como a saúde é vista na pandemia da Covid-19
 date: 2021-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Construção de novos fluxos de atendimento, treinamento de equipes e novos hábitos da população foram norteados pela infectologia.
 

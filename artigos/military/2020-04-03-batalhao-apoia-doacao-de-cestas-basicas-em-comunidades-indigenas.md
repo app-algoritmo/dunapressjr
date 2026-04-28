@@ -1,11 +1,12 @@
 ---
-title: "Batalhão apoia doação de cestas básicas em comunidades indígenas"
+title: Batalhão apoia doação de cestas básicas em comunidades indígenas
 date: 2020-04-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Gabriel da Cachoeira (AM)** – Nos dias 31 de março e 1º de abril, o Comando de Fronteira Rio Negro e 5º Batalhão de Infantaria de Selva (CFRN/5ºBIS) apoiou a Secretaria Municipal de Educação de São Gabriel da Cachoeira (SEDUC-SGC) na distribuição de 130 cestas básicas para as comunidades indígenas que possuem escolas.
 

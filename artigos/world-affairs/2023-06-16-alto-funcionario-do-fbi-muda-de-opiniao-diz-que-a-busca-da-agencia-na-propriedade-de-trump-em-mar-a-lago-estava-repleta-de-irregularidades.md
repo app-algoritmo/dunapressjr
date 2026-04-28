@@ -1,11 +1,13 @@
 ---
-title: "Alto funcionário do FBI muda de opinião, diz que a busca da agência na propriedade de Trump em Mar-a-Lago estava repleta de irregularidades"
+title: Alto funcionário do FBI muda de opinião, diz que a busca da agência na propriedade
+  de Trump em Mar-a-Lago estava repleta de irregularidades
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um alto funcionário do FBI saiu para derramar o feijão sobre seu empregador, dizendo que a agência parece ter saído de seu caminho para politizar o ataque em agosto passado na propriedade do ex-presidente Donald Trump em Mar-a-Lago para ' obter 'registros que ele tinha direito de ter em sua posse.
 

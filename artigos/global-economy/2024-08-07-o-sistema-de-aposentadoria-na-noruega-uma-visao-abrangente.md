@@ -1,11 +1,12 @@
 ---
-title: "O Sistema de Aposentadoria na Noruega: Uma Visão Abrangente"
+title: 'O Sistema de Aposentadoria na Noruega: Uma Visão Abrangente'
 date: 2024-08-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A Noruega possui um dos sistemas de aposentadoria mais completos e robustos do mundo, projetado para garantir a segurança financeira dos seus cidadãos na velhice. Este sistema é composto por várias camadas, incluindo a pensão pública financiada pelo Estado e pensões ocupacionais fornecidas pelos empregadores. Neste artigo, exploraremos detalhadamente como funciona o sistema de aposentadoria na Noruega, destacando os direitos e benefícios oferecidos aos trabalhadores.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo destaca militares para Assuntos Estratégicos do Estado-Maior Conjunto das Forças Armadas"
+title: Governo destaca militares para Assuntos Estratégicos do Estado-Maior Conjunto
+  das Forças Armadas
 date: 2023-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Dia foi marcado por dispensas, exonerações e nomeações de militares em áreas estratégicas.
 

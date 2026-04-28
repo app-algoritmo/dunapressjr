@@ -1,11 +1,12 @@
 ---
-title: "IGP-DI acumula inflação de 5,03% em 2022, diz FGV"
+title: IGP-DI acumula inflação de 5,03% em 2022, diz FGV
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em dezembro, índice registrou alta de 0,31%.
 

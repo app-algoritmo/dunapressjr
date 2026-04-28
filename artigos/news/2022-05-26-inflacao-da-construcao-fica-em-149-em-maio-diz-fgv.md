@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção fica em 1,49% em maio, diz FGV"
+title: Inflação da construção fica em 1,49% em maio, diz FGV
 date: 2022-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### INCC-M acumula taxas de inflação de 4,27% no ano e 11,20% em 12 meses.
 

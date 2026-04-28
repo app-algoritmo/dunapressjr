@@ -1,11 +1,12 @@
 ---
-title: "Indicador de Incerteza da Economia sobe 0,6 ponto, revela FGV"
+title: Indicador de Incerteza da Economia sobe 0,6 ponto, revela FGV
 date: 2022-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador fecha o ano em nível insatisfatório, acima de 110 pontos.
 

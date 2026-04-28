@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro implanta rede nacional de dados da saúde em todo o País"
+title: Governo Bolsonaro implanta rede nacional de dados da saúde em todo o País
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O cidadão terá acesso a dados como: quais vacinas tomou, atendimentos, exames, internações e medicamentos usados, através do SUS por meio da Rede Nacional de Dados em Saúde.
 

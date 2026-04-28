@@ -1,11 +1,12 @@
 ---
-title: "BC: bancos estão preparados para enfrentar novos choques na economia"
+title: 'BC: bancos estão preparados para enfrentar novos choques na economia'
 date: 2021-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cenário exige cautela diante de crise hídrica e variantes da covid-19.
 

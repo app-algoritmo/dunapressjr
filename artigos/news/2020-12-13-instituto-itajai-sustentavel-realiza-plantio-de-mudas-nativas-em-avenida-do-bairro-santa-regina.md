@@ -1,11 +1,13 @@
 ---
-title: "Instituto Itajaí Sustentável realiza plantio de mudas nativas em avenida do bairro Santa Regina"
+title: Instituto Itajaí Sustentável realiza plantio de mudas nativas em avenida do
+  bairro Santa Regina
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Itajaí Sustentável (INIS) realizou na tarde desta quarta-feira (09) o plantio de mudas de árvores nativas no canteiro central da avenida Marcos Aurélio Seara, no bairro Santa Regina. A ação faz parte do Programa Itajaí Mais Verde, que tem como objetivo arborizar ruas e avenidas de diferentes bairros do município.
 

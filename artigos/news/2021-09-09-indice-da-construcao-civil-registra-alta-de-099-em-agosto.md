@@ -1,11 +1,12 @@
 ---
-title: "Índice da Construção Civil registra alta de 0,99% em agosto"
+title: Índice da Construção Civil registra alta de 0,99% em agosto
 date: 2021-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O acumulado de janeiro a agosto registrou 14,61%.
 

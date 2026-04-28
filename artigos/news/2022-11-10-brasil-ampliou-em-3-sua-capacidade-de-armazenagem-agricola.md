@@ -1,11 +1,12 @@
 ---
-title: "Brasil ampliou em 3% sua capacidade de armazenagem agrícola"
+title: Brasil ampliou em 3% sua capacidade de armazenagem agrícola
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Os silos predominam, com capacidade útil de 96,1 milhões de toneladas.
 

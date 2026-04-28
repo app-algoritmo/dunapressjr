@@ -1,11 +1,13 @@
 ---
-title: "Impressão de selo de 7.000 anos marca local pré-histórico como centro comercial inicial"
+title: Impressão de selo de 7.000 anos marca local pré-histórico como centro comercial
+  inicial
 date: 2021-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Uma pequena gota de argila com duas marcas antigas, descoberta em Tel Tsaf - junto com outras evidências - leva os pesquisadores a deduzirem uma complexa troca mercantil milenar.
 

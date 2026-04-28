@@ -1,11 +1,12 @@
 ---
-title: "Quem pode dar garantias de segurança à Ucrânia?"
+title: Quem pode dar garantias de segurança à Ucrânia?
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma das questões mais importantes para a Ucrânia desde sua independência é quem ou o que poderia garantir sua segurança.
 

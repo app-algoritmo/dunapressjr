@@ -1,11 +1,12 @@
 ---
-title: "Operação Recorrência investiga operações de câmbios ilegais no Rio"
+title: Operação Recorrência investiga operações de câmbios ilegais no Rio
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Na manhã de quarta-feira, 17/06, a Polícia Federal deflagrou a Operação RECORRÊNCIA, mais um desdobramento da Operação CÂMBIO DESLIGO, a partir da qual colaboradores indicaram a existência de um sistema de operações de câmbio ilegais.
 

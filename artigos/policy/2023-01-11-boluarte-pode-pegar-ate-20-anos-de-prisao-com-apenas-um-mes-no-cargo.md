@@ -1,11 +1,12 @@
 ---
-title: "Boluarte pode pegar até 20 anos de prisão, com apenas um mês no cargo"
+title: Boluarte pode pegar até 20 anos de prisão, com apenas um mês no cargo
 date: 2023-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A crise no Peru surpreende a cada dia com os capítulos de incerteza que acrescenta. Agora, a procuradora-geral Patrícia Benavides anunciou o início de uma investigação preliminar contra a presidente, Dina Boluarte; o chefe do Conselho de Ministros, Alberto Otárola; o Ministro do Interior, Víctor Rojas, e o Ministro da Defesa, Jorge Chávez, pelos supostos crimes de genocídio, homicídio qualificado e ferimentos graves durante os protestos que ameaçam a nação. De acordo com o Código Penal peruano, o crime de genocídio contempla pena de até 20 anos de prisão.
 

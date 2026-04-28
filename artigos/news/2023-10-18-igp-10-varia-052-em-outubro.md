@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 varia 0,52% em outubro"
+title: IGP-10 varia 0,52% em outubro
 date: 2023-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da FGV revelam aumento considerável no índice e fatores influenciadores na economia.
 

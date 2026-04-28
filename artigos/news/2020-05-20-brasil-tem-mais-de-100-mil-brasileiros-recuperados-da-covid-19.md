@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem mais de 100 mil brasileiros recuperados da Covid-19"
+title: Brasil tem mais de 100 mil brasileiros recuperados da Covid-19
 date: 2020-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma boa notícia: o Brasil ultrapassou a marca de 100.459 pessoas recuperadas da Covid-19. O número representa 39,5% do total de casos confirmados até o momento: 254.220 pessoas, segundo dados do Ministério da Saúde, desta segunda-feira (18). Outras 136.969 pessoas estão sendo acompanhadas (53,9%) por profissionais que monitoram a evolução da doença. As informações foram atualizadas até às 19h e repassadas pelas secretarias estaduais de Saúde de todo o Brasil.
 

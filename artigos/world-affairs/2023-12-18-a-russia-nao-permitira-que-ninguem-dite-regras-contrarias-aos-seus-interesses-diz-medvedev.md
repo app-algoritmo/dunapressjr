@@ -1,11 +1,13 @@
 ---
-title: "A Rússia não permitirá que ninguém dite regras contrárias aos seus interesses, diz Medvedev"
+title: A Rússia não permitirá que ninguém dite regras contrárias aos seus interesses,
+  diz Medvedev
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Rússia não permitirá que ninguém imponha quaisquer regras que contrariem as suas tradições e valores, disse o líder do partido governante da Rússia, Rússia Unida, Dmitry Medvedev.
 

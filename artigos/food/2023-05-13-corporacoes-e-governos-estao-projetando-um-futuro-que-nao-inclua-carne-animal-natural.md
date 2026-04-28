@@ -1,11 +1,13 @@
 ---
-title: "Corporações e governos estão projetando um futuro que não inclua carne animal natural"
+title: Corporações e governos estão projetando um futuro que não inclua carne animal
+  natural
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Corporações e governos estão trabalhando de mãos dadas [para alavancar os avanços da biotecnologia](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/) para que [interesses especiais e poderosos possam controlar o suprimento de alimentos](https://childrenshealthdefense.org/defender/ban-meat-control-food-supply-cola/) , experimentar a genética humana e manipular a população no nível celular. Esses avanços na biotecnologia vão além da engenharia genética de sementes que se tornou comum em todo o suprimento de alimentos nas últimas duas décadas.
 

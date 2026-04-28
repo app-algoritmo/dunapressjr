@@ -1,11 +1,12 @@
 ---
-title: "Confiança do Consumidor cai 0,4 ponto em outubro"
+title: Confiança do Consumidor cai 0,4 ponto em outubro
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice da Situação Atual subiu 1,2 ponto e chegou a 74,5 pontos.
 

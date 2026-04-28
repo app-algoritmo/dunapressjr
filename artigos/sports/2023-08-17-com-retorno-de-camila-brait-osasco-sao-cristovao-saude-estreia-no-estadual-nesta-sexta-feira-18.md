@@ -1,12 +1,14 @@
 ---
-title: "Com retorno de Camila Brait, Osasco São Cristóvão Saúde estreia no Estadual nesta sexta-feira (18)"
+title: Com retorno de Camila Brait, Osasco São Cristóvão Saúde estreia no Estadual
+  nesta sexta-feira (18)
 date: 2023-08-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe osasquense recebe o São Caetano às 20h, no ginásio José Liberatti. Ingressos estão esgotados, mas a partida terá transmissão na Osasco Vôlei TV, no Youtube.
 

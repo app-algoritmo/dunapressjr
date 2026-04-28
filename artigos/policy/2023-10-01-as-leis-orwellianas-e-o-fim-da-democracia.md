@@ -1,11 +1,12 @@
 ---
-title: "As Leis Orwellianas e o fim da democracia"
+title: As Leis Orwellianas e o fim da democracia
 date: 2023-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O termo "leis orwellianas" refere-se a leis que restringem a liberdade individual e a privacidade em nome da segurança ou do controle governamental, semelhante ao que é descrito no livro "**[1984](https://dunapress.org/?r3d=1984-george-orwell-duna-writers-editora-flipbook)**" de George Orwell.
 

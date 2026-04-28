@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear 2024 chega a Salvador (BA) em junho, com Passeio de Bike, Caminhada e Corrida Kids"
+title: Festival Vamos Passear 2024 chega a Salvador (BA) em junho, com Passeio de
+  Bike, Caminhada e Corrida Kids
 date: 2024-05-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## O evento apresentado pela Brasilprev será no dia 9, na Praça de Piatã, e contará também com diferentes atividades para o público em geral. Inscrições já estão abertas e custam R$ 20,00.
 

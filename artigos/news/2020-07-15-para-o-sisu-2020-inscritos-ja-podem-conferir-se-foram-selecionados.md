@@ -1,11 +1,12 @@
 ---
-title: "Para o Sisu 2020, inscritos já podem conferir se foram selecionados"
+title: Para o Sisu 2020, inscritos já podem conferir se foram selecionados
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Quem foi classificado deve ficar atento: prazo para matrícula será de 16 a 21 de julho.
 

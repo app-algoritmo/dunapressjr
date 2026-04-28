@@ -1,11 +1,12 @@
 ---
-title: "Incerteza da economia recua em novembro pelo 2º mês consecutivo"
+title: Incerteza da economia recua em novembro pelo 2º mês consecutivo
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O indicador é medido pela Fundação Getulio Vargas.
 

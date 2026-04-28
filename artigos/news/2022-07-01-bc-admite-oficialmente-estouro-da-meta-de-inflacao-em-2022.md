@@ -1,11 +1,12 @@
 ---
-title: "BC admite oficialmente estouro da meta de inflação em 2022"
+title: BC admite oficialmente estouro da meta de inflação em 2022
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informação consta do Relatório de Inflação do segundo trimestre.
 

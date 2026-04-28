@@ -1,11 +1,12 @@
 ---
-title: "Rosa Weber vota por anulação de decreto que beneficiou Daniel Silveira"
+title: Rosa Weber vota por anulação de decreto que beneficiou Daniel Silveira
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Indulto foi concedido por Jair Bolsonaro ao então deputado federal.
 

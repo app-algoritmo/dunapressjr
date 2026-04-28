@@ -1,11 +1,12 @@
 ---
-title: "Medida provisória altera regra de cálculo do PIS e da Cofins das empresas"
+title: Medida provisória altera regra de cálculo do PIS e da Cofins das empresas
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governo editou a Medida Provisória 1159/23, que retira da base de cálculo do PIS e da Contribuição para o Financiamento da Seguridade Social (Cofins), dois tributos federais, o valor do ICMS (imposto estadual) embutido em mercadorias ou serviços.
 

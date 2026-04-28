@@ -1,11 +1,12 @@
 ---
-title: "Tesouro paga R$ 1,29 bilhão em dívidas de estados em novembro"
+title: Tesouro paga R$ 1,29 bilhão em dívidas de estados em novembro
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Este ano, a União já quitou R$ 8,70 bilhões de dívidas garantidas.
 

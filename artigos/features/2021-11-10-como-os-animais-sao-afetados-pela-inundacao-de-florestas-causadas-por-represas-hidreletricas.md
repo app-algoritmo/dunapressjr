@@ -1,11 +1,13 @@
 ---
-title: "Como os animais são afetados pela inundação de florestas causadas por represas hidrelétricas?￼"
+title: Como os animais são afetados pela inundação de florestas causadas por represas
+  hidrelétricas?￼
 date: 2021-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 No Brasil, boa parte da energia que utilizamos no dia-a-dia é proveniente de hidrelétricas. Usinas assim são feitas ao longo de rios, construindo barragens que retém grande quantidade de água, a qual é usada para movimentar turbinas que geram energia elétrica. Embora seja uma fonte de energia que não produza tantos gases de efeito estufa como usinas a base de combustíveis fósseis, a instalação de hidrelétricas causa grandes impactos em seu ambiente. Mega represas representam um dos principais responsáveis por perdas de biodiversidade em países em desenvolvimento. A principal razão para isso é a inundação de áreas extensas que destroem a vegetação nativa e provocam a fragmentação de uma floresta que antes era contínua.
 

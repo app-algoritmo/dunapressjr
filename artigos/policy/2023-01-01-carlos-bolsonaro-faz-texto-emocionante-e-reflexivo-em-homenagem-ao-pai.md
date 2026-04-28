@@ -1,11 +1,12 @@
 ---
-title: "Carlos Bolsonaro faz texto emocionante e reflexivo em homenagem ao pai"
+title: Carlos Bolsonaro faz texto emocionante e reflexivo em homenagem ao pai
 date: 2023-01-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em postagem no seu instagram na manhã deste sábado (31), Carlos Bolsonaro escreve homenagem emocionante para seu pai, Jair Bolsonaro.[](https://vidverto.io/)
 

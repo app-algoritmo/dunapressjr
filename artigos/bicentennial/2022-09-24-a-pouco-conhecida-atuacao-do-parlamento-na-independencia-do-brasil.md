@@ -1,12 +1,13 @@
 ---
-title: "A pouco conhecida atuação do Parlamento na Independência do Brasil"
+title: A pouco conhecida atuação do Parlamento na Independência do Brasil
 date: 2022-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Embora seja por vezes ignorado pelos livros escolares, o Poder Legislativo teve um papel decisivo no processo político que levou o príncipe D. Pedro (futuro D. Pedro I) a declarar o Brasil independente de Portugal, no histórico 7 de setembro de 1822.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro assina parecer que garante aposentadoria a policiais civis da União e DF com integralidade e paridade"
+title: Presidente Bolsonaro assina parecer que garante aposentadoria a policiais civis
+  da União e DF com integralidade e paridade
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Policiais Civis da União e do Distrito Federal passam a ter direito à aposentadoria com integralidade e paridade. O presidente da República, Jair Bolsonaro, assinou, nesta quarta-feira (17), parecer vinculante da Advocacia-Geral da União sobre o tema.
 

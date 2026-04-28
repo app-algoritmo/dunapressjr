@@ -1,12 +1,13 @@
 ---
-title: "Cobaias 2030: Experimentos Sociais - Desvendando os Rumos da Humanidade"
+title: 'Cobaias 2030: Experimentos Sociais - Desvendando os Rumos da Humanidade'
 date: 2024-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
-  - Policy
+- Books
+- Policy
 ---
+
 
 À medida que avançamos em direção à próxima década, o mundo enfrenta uma série de desafios éticos, tecnológicos e sociais que moldarão o curso da humanidade. Em "**[Cobaias 2030, Experimentos Sociais](https://a.co/d/3G5oRLr)**", mergulhamos em um vasto oceano de possibilidades, explorando os dilemas e experimentos que definirão o futuro.
 

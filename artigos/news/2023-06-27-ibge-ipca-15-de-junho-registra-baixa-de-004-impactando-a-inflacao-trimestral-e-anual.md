@@ -1,11 +1,13 @@
 ---
-title: "IBGE: IPCA-15 de junho registra baixa de 0,04%, impactando a inflação trimestral e anual"
+title: 'IBGE: IPCA-15 de junho registra baixa de 0,04%, impactando a inflação trimestral
+  e anual'
 date: 2023-06-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Habitação lidera alta, enquanto Transportes e Alimentação apresentam queda no índice prévia de junho.
 

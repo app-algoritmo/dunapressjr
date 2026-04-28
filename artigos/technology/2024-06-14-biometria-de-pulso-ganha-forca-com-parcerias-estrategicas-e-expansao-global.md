@@ -1,11 +1,12 @@
 ---
-title: "Biometria de Pulso Ganha Força com Parcerias Estratégicas e Expansão Global"
+title: Biometria de Pulso Ganha Força com Parcerias Estratégicas e Expansão Global
 date: 2024-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 A biometria de pulso está se consolidando como um método promissor de autenticação para pagamentos pessoais, com a Mastercard firmando parcerias com empresas como Ingenico, Fulcrum, Fujitsu Frontech e Scanntech. Simultaneamente, a Amazon está reforçando seu compromisso nesta área, evidenciando o potencial crescente desta tecnologia.
 

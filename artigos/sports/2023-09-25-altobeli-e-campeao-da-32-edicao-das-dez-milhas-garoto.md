@@ -1,11 +1,12 @@
 ---
-title: "Altobeli é campeão da 32ª edição das Dez Milhas Garoto"
+title: Altobeli é campeão da 32ª edição das Dez Milhas Garoto
 date: 2023-09-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Com vitória no masculino e ocupando oito dos dez lugares no pódio da elite entre homens e mulheres, atletas nacionais fizeram a festa na prova deste domingo, no Espírito Santo. Scholastica Japkemboi, do Quênia, manteve hegemonia estrangeira no feminino.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasília, DF: Patrimônio Cultural da Humanidade, há 34 anos"
+title: 'Brasília, DF: Patrimônio Cultural da Humanidade, há 34 anos'
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Em dezembro de 1987, com apenas 27 anos de fundação, Brasília (DF) se tornava o primeiro conjunto urbano do século 20 reconhecido como Patrimônio Cultural da Humanidade pela Organização das Nações Unidas para a Educação a Ciência e a Cultura (Unesco). A conquista inseriu a capital federal no seleto grupo de monumentos igualmente agraciados com o título, a exemplo da Muralha da China, das pirâmides do Egito e da Acrópole de Atenas, na Grécia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Três motivos para as  mulheres cristãs terem interesse por política"
+title: Três motivos para as  mulheres cristãs terem interesse por política
 date: 2019-02-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Você conhece o sistema econômico vigente em nosso país? Sabe pra que serve o Congresso Nacional? Entende o papel que um presidente da república deve desempenhar? Se você não é do tipo que curte falar de política e só essa palavra já te dá vontade de bocejar, hoje eu irei apresentar 3 razões pelas quais você deve começar a se interessar pelo assunto.
 

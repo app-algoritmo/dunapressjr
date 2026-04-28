@@ -1,11 +1,12 @@
 ---
-title: "Em setembro o volume de vendas do comércio varejista cresceu 0,6%, diz IBGE"
+title: Em setembro o volume de vendas do comércio varejista cresceu 0,6%, diz IBGE
 date: 2023-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A média móvel trimestral variou 0,4% no trimestre encerrado em setembro.
 

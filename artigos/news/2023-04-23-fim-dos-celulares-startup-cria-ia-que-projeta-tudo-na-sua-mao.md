@@ -1,12 +1,13 @@
 ---
-title: "Fim dos celulares? Startup cria IA que projeta tudo na sua mão"
+title: Fim dos celulares? Startup cria IA que projeta tudo na sua mão
 date: 2023-04-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 ## A primeira demonstração do dispositivo de IA da startup Humane apresentou alguns recursos e funcionalidades.
 

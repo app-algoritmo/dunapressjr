@@ -1,11 +1,12 @@
 ---
-title: "O que seremos pós-Coronavírus?"
+title: O que seremos pós-Coronavírus?
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Aspectos principais de nossas vidas que provavelmente mudarão ou permanecerão os mesmos no mundo pós-Coronavírus.
 

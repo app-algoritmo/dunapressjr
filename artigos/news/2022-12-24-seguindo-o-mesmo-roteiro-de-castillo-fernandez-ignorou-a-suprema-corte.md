@@ -1,11 +1,12 @@
 ---
-title: "Seguindo o mesmo roteiro de Castillo, Fernández ignorou a Suprema Corte"
+title: Seguindo o mesmo roteiro de Castillo, Fernández ignorou a Suprema Corte
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Supremo Tribunal de Justiça determinou à Nação a devolução dos pontos retirados da coparticipação. O Poder Executivo simplesmente disse "não". 
 

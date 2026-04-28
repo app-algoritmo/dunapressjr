@@ -1,11 +1,13 @@
 ---
-title: "Mãe argentina está indignada por perder a filha de 8 anos que tomou a vacina contra a COVID"
+title: Mãe argentina está indignada por perder a filha de 8 anos que tomou a vacina
+  contra a COVID
 date: 2023-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Yamil Guevara, de Mendoza, Argentina, expressou indignação com a injeção de COVID-19 após a morte inesperada de sua filha.
 

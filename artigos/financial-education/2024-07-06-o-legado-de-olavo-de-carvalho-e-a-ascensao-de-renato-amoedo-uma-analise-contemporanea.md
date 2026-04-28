@@ -1,11 +1,12 @@
 ---
-title: "O Legado de Olavo de Carvalho e a Ascensão de Renato Amoedo: Uma Análise Contemporânea"
+title: 'O Legado de Olavo de Carvalho e a Ascensão de Renato Amoedo: Uma Análise Contemporânea'
 date: 2024-07-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Financial Education
+- Financial Education
 ---
+
 
 Com a partida de Olavo de Carvalho, uma figura central no pensamento conservador brasileiro, surge a necessidade de analisar o impacto de seu legado e a emergência de novas vozes que desafiam o status quo. Renato Amoedo, descrito como uma "[cópia 10 vezes mais formidável](https://youtu.be/rKtvR_L0pAs)", tem se destacado por suas críticas contundentes ao sistema educacional, político e social contemporâneo. Este artigo examina as ideias de Amoedo, suas contribuições para o debate público e as implicações para a liberdade de expressão no Brasil.
 

@@ -1,11 +1,13 @@
 ---
-title: "É ainda pior: cientistas alemães revelam a verdade sombria sobre a vacina da Pfizer"
+title: 'É ainda pior: cientistas alemães revelam a verdade sombria sobre a vacina
+  da Pfizer'
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Cientistas alemães descobriram que uma proporção significativa dos lotes de vacinas da Pfizer lançados na União Europeia parecem ser placebos. Ainda mais notável: o Paul-Ehrlich-Institut não submeteu esses lotes a nenhum controle de qualidade. O instituto considerou isso “não necessário”.
 

@@ -1,11 +1,12 @@
 ---
-title: "O uso da comida como arma está em pleno andamento"
+title: O uso da comida como arma está em pleno andamento
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *“Quem controla o abastecimento de alimentos controla as pessoas; quem controla a energia pode controlar continentes inteiros; quem controla o dinheiro pode controlar o mundo.”*
 

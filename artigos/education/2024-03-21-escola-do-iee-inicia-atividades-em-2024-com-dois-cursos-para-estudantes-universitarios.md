@@ -1,12 +1,13 @@
 ---
-title: "Escola do IEE inicia atividades em 2024 com dois cursos para estudantes universitários"
+title: Escola do IEE inicia atividades em 2024 com dois cursos para estudantes universitários
 date: 2024-03-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Aulas, gratuitas, são realizadas na sede do Instituto Esporte e Educação, na capital paulista. O próximo encontro está marcado para os dias 13 e 14 de abril, abordando diferentes temas na área de formação e capacitação, com a metodologia baseada no esporte educacional.
 

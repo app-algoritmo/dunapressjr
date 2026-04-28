@@ -1,11 +1,12 @@
 ---
-title: "México aprova asilo para família Castillo apesar das investigações"
+title: México aprova asilo para família Castillo apesar das investigações
 date: 2022-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Lilia Paredes, esposa de Pedro Castillo, assim como seus dois filhos, serão os beneficiários do asilo político aprovado pelo México.
 

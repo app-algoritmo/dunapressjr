@@ -1,11 +1,12 @@
 ---
-title: "China se move para o centro da nova ordem mundial"
+title: China se move para o centro da nova ordem mundial
 date: 2023-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *A China é indiscutivelmente uma tecnocracia moderna originalmente construída e ensinada por Zbigniew Brzezinski, co-fundador da Comissão Trilateral em 1973. Quando a China entrou na arena econômica mundial, não foram ensinados os princípios da livre iniciativa, mas a tecnocracia, ou a Nova Ordem Econômica Internacional proclamada pela própria Comissão.*
 

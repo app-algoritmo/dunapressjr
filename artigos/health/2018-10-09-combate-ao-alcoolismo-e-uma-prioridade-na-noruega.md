@@ -1,13 +1,14 @@
 ---
-title: "Combate ao alcoolismo é uma prioridade na Noruega"
+title: Combate ao alcoolismo é uma prioridade na Noruega
 date: 2018-10-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - Magazine
-  - Policy
+- Health
+- Magazine
+- Policy
 ---
+
 
 ## Proibições e restrições à venda e ao consumo de bebidas alcoólicas na Noruega.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IGP-10 sobe para 2,97% em fevereiro"
+title: Inflação medida pelo IGP-10 sobe para 2,97% em fevereiro
 date: 2021-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa é superior à de janeiro (1,33%).
 

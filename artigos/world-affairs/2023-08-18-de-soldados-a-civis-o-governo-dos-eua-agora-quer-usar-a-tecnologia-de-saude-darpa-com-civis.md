@@ -1,11 +1,13 @@
 ---
-title: "De soldados a civis: o governo dos EUA agora quer usar a tecnologia de saúde DARPA com civis"
+title: 'De soldados a civis: o governo dos EUA agora quer usar a tecnologia de saúde
+  DARPA com civis'
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De soldados a civis, o governo dos EUA planeja adaptar e expandir a tecnologia de saúde DARPA para todos os americanos por meio do programa ARPA-H “SHARE”
 

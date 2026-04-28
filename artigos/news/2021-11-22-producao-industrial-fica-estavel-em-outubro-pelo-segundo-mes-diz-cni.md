@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial fica estável em outubro pelo segundo mês, diz CNI"
+title: Produção industrial fica estável em outubro pelo segundo mês, diz CNI
 date: 2021-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice ficou em 50,1 pontos, ante os 50 pontos registrados em setembro.
 

@@ -1,11 +1,12 @@
 ---
-title: "A escravidão pelas dívidas - parte 03"
+title: A escravidão pelas dívidas - parte 03
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Como já tentamos demonstrar, portanto, via links ao final, em ambos os artigos, o endividamento deve parar. Criar prosperidade financeira deve ser feita com recursos próprios na esmagadora maioria das vezes. Como também, devemos sopesar a capacidade de endividamento saudável e criar o crescimento econômico próprio ou de seu negócio passo a passo, utilizando recursos já ganhos e poupados.
 

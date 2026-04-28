@@ -1,11 +1,12 @@
 ---
-title: "Membros do Comando Sul dos EUA chegaram à Colômbia para exercícios militares"
+title: Membros do Comando Sul dos EUA chegaram à Colômbia para exercícios militares
 date: 2020-01-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Mais de **100 membros do Comando Sul do Exército dos EUA** que realizarão exercícios militares juntamente com soldados colombianos chegaram ao  **Centro Nacional de Treinamento da** daquele país.
 

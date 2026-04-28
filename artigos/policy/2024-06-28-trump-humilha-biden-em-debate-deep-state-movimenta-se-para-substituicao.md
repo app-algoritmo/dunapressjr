@@ -1,12 +1,13 @@
 ---
-title: "Trump Humilha Biden em Debate: Deep State Movimenta-se para Substituição?"
+title: 'Trump Humilha Biden em Debate: Deep State Movimenta-se para Substituição?'
 date: 2024-06-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 Ontem, no tão aguardado debate entre Donald Trump e Joe Biden, o presidente Biden enfrentou um momento de grande tensão e embaraço. Segundo fontes confiáveis, a CNN, conhecida por sua tendência a apoiar Biden, foi a responsável por moderar o debate. Durante o evento, ficou claro que Biden teve um desempenho aquém do esperado, o que se refletiu nas avaliações pós-debate. De acordo com pesquisas divulgadas pela CNN, Biden obteve apenas 33% de aprovação, enquanto Trump conseguiu o dobro, com 67%.
 

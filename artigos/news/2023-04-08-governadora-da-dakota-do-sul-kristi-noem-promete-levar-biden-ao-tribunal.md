@@ -1,11 +1,12 @@
 ---
-title: "Governadora da Dakota do Sul, Kristi Noem, promete levar Biden ao tribunal"
+title: Governadora da Dakota do Sul, Kristi Noem, promete levar Biden ao tribunal
 date: 2023-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A governadora republicana de Dakota do Sul, Kristi Noem, está rebatendo o presidente Joe Biden e suas mudanças propostas nas regras do Título IX que proibiriam faculdades e escolas de ensino médio de proibir homens biológicos que são transgêneros de competir contra mulheres.
 

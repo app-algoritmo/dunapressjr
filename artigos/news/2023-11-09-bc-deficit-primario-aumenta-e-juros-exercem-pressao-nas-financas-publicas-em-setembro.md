@@ -1,11 +1,13 @@
 ---
-title: "BC: Déficit primário aumenta e juros exercem pressão nas finanças públicas em setembro"
+title: 'BC: Déficit primário aumenta e juros exercem pressão nas finanças públicas
+  em setembro'
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor público enfrenta desafios com déficit primário e encargos financeiros enquanto incorpora recursos do PIS/Pasep.
 

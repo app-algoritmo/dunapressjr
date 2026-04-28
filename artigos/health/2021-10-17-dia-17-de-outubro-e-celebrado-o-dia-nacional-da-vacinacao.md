@@ -1,11 +1,12 @@
 ---
-title: "Dia 17 de outubro, é celebrado o Dia Nacional da Vacinação"
+title: Dia 17 de outubro, é celebrado o Dia Nacional da Vacinação
 date: 2021-10-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O perigo de não se vacinar pode deixar sequelas e marcas na família para resto da vida. Foi o que aconteceu com Neusa Costa, que durante uma epidemia de sarampo no final de 1960 na cidade onde vivia, ela perdeu cinco irmãos. “Meus irmãos morreram praticamente no mesmo tempo, eu era muito nova, mas me lembro de muitos caixões na casa e muito sofrimento. Naquela época, eu não entendia realmente o que estava acontecendo, nem tinha ideia da gravidade do sarampo”, lembra.
 

@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresceu 1,7% em junho, aponta IBGE"
+title: Setor de serviços cresceu 1,7% em junho, aponta IBGE
 date: 2021-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Serviços que mais cresceram foram os de tecnologia e logística.
 

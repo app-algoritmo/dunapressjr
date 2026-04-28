@@ -1,11 +1,12 @@
 ---
-title: "Ex-presidente Michel Temer é preso pela Lava Jato do RJ"
+title: Ex-presidente Michel Temer é preso pela Lava Jato do RJ
 date: 2019-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Notícia esta aguarda por todos os brasileiros, que foi a manchete dos principais jornais no Brasil esta manhã, de quinta feira, 21 de março de 2019. 
 

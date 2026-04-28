@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-ministro palestino diz que Israel está travando guerra contra todos os palestinos, não apenas contra o Hamas"
+title: Primeiro-ministro palestino diz que Israel está travando guerra contra todos
+  os palestinos, não apenas contra o Hamas
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "A ajuda humanitária deve ser entregue em toda a Faixa de Gaza, não apenas nas áreas do sul. Caso contrário, parece um apelo direto aos residentes para se deslocarem do norte para o sul", prosseguiu Mohammad Shtayyeh.
 

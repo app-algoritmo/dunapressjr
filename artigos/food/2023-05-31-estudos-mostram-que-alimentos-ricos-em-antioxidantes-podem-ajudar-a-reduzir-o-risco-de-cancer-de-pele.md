@@ -1,11 +1,13 @@
 ---
-title: "Estudos mostram que alimentos ricos em antioxidantes podem ajudar a reduzir o risco de câncer de pele"
+title: Estudos mostram que alimentos ricos em antioxidantes podem ajudar a reduzir
+  o risco de câncer de pele
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 A dieta é um fator de risco importante para o câncer. De acordo com um estudo publicado no *JNCI Cancer Spectrum* , o baixo consumo de grãos integrais e laticínios e o alto consumo de carnes processadas podem [aumentar o risco de desenvolver câncer que, de outra forma, poderia ser evitado](https://academic.oup.com/jncics/article/3/2/pkz034/5492023) .
 

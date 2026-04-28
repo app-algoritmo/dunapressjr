@@ -1,11 +1,12 @@
 ---
-title: "OVNI acidentado é recuperado pelo exército; 'espaço e tempo distorcidos'"
+title: OVNI acidentado é recuperado pelo exército; 'espaço e tempo distorcidos'
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um OVNI acidentado recuperado pelos militares dos EUA "distorceu o espaço e o tempo" e era "maior por dentro". Pelo menos é o que afirma um importante advogado que coloca denunciantes de OVNIs em contato com o Congresso dos EUA.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governadores demonstram apoio à reforma tributária, mas sugerem mudanças"
+title: Governadores demonstram apoio à reforma tributária, mas sugerem mudanças
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Estados do Sul e Sudeste pedem novo modelo de governança do Conselho Federativo e transição mais lenta dos tributos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ditadura do Brasil é destaque na plataforma norueguesa Document.no"
+title: Ditadura do Brasil é destaque na plataforma norueguesa Document.no
 date: 2023-02-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Document.no é uma plataforma norueguesa líder em assuntos nacionais de notícias, análises e comentários de políticos.
 

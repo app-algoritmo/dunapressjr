@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa recua 0,59% com Americanas (AMER3) e mercado reage com os anúncios na economia"
+title: Ibovespa recua 0,59% com Americanas (AMER3) e mercado reage com os anúncios
+  na economia
 date: 2023-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 5,10.
 

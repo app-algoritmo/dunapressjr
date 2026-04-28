@@ -1,11 +1,12 @@
 ---
-title: "CNI diz que economia deve crescer 1,2% em 2022"
+title: CNI diz que economia deve crescer 1,2% em 2022
 date: 2021-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entidade estima expansão de 5,2% da indústria de transformação em 2021.
 

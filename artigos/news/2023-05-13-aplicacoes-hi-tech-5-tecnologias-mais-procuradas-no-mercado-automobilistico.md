@@ -1,11 +1,12 @@
 ---
-title: "Aplicações hi-tech: 5 tecnologias mais procuradas no mercado automobilístico"
+title: 'Aplicações hi-tech: 5 tecnologias mais procuradas no mercado automobilístico'
 date: 2023-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Conforto, segurança e inovação é a combinação do momento no setor automotivo. Até pouco tempo atrás, o foco do mercado era o estado geral do carro que entrava como parte do pagamento. Mas muita coisa mudou ao longo dos últimos anos. A intenção de compra agora está voltada aos veículos *hi-tech*, que oferecem tecnologias de bordo, com soluções de controle, conexões sem fio e aviso de manutenção do carro, por exemplo. Dos mais de cinco mil entrevistados pela  Webmotors Autoinsights, 72% optam pelo maior investimento em carros que tenham tecnologias de conectividade e proporcionam maior proteção e bem-estar.
 

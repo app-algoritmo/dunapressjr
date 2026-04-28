@@ -1,11 +1,12 @@
 ---
-title: "Galáxia infantil descoberta com ajuda do telescópio cósmico natural"
+title: Galáxia infantil descoberta com ajuda do telescópio cósmico natural
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Uma galáxia infantil em rotação desde os primeiros dias do universo foi observada pelos astrônomos pela primeira vez e pode mudar consideravelmente a maneira como entendemos o universo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Maria, a maior mulher que já existiu!"
+title: Maria, a maior mulher que já existiu!
 date: 2019-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Hoje, no dia da mulher,  quero trazer como exemplo, para reflexão Maria de Nazaré mãe do Senhor Jesus. 
 

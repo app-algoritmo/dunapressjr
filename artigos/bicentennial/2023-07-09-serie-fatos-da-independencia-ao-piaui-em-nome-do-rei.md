@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Ao Piauí em nome do Rei"
+title: 'Série Fatos Da Independência: Ao Piauí em nome do Rei'
 date: 2023-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O crescimento do apoio à causa da independência deixou Lisboa de cabelo em pé. Era essencial, para a boa condição econômica de Portugal, dependente das rendas que o Brasil lhe fornecia, que todo o Reino, principalmente as províncias do Norte, permanecessem sob o seu controle. Era dessas localidades, afinal, que vinham as maiores riquezas, devido ao amplo cultivo de cana-de-açúcar, algodão, arroz, entre outros produtos.
 

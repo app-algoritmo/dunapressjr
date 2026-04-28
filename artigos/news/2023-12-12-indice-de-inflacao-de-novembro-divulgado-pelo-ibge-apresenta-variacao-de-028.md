@@ -1,11 +1,13 @@
 ---
-title: "Índice de Inflação de novembro, divulgado pelo IBGE, apresenta Variação de 0,28%"
+title: Índice de Inflação de novembro, divulgado pelo IBGE, apresenta Variação de
+  0,28%
 date: 2023-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IPCA supera taxa do mês anterior, mas acumulado nos últimos 12 meses mostra desaceleração.
 

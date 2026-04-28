@@ -1,11 +1,12 @@
 ---
-title: "A Rússia está passando pela maior mudança geopolítica em 300 anos"
+title: A Rússia está passando pela maior mudança geopolítica em 300 anos
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A decisão de escolher São Petersburgo como sede da cúpula Rússia-África no final de julho não foi uma decisão acidental. Foi algo simbólico. Apesar de toda a complexidade e complicação no caminho até o cume, foi um sucesso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil cria 131 mil postos formais de trabalho em julho"
+title: Brasil cria 131 mil postos formais de trabalho em julho
 date: 2020-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## **Essa foi a primeira vez em cinco meses que houve criação de empregos**.
 

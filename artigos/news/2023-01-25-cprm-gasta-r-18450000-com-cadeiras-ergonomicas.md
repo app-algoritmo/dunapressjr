@@ -1,11 +1,12 @@
 ---
-title: "CPRM gasta R$ 184.500,00 com cadeiras ergonômicas"
+title: CPRM gasta R$ 184.500,00 com cadeiras ergonômicas
 date: 2023-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## EXTRATO DE CONTRATO Nº 17/2023 - UASG 495550
 

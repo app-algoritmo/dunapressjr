@@ -1,11 +1,12 @@
 ---
-title: "Senado inclui Marco do Saneamento nas votações da semana"
+title: Senado inclui Marco do Saneamento nas votações da semana
 date: 2020-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Proposta pretende levar água potável a 99% da população.
 

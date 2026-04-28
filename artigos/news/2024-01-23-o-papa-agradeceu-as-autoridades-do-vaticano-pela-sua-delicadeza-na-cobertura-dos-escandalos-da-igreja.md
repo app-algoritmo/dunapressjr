@@ -1,11 +1,13 @@
 ---
-title: "O Papa agradeceu às autoridades do Vaticano pela sua “delicadeza” na cobertura dos escândalos da Igreja"
+title: O Papa agradeceu às autoridades do Vaticano pela sua “delicadeza” na cobertura
+  dos escândalos da Igreja
 date: 2024-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Papa Francisco agradeceu aos jornalistas acreditados no Vaticano pela sua “delicadeza” na cobertura dos escândalos da Igreja e pediu-lhes que “não amenizassem as tensões” dentro da instituição, depois de os considerar seus “companheiros de viagem” pela cobertura que fazem em cada visita fora de Roma.
 

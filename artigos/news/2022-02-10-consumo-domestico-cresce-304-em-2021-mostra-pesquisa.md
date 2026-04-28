@@ -1,11 +1,12 @@
 ---
-title: "Consumo doméstico cresce 3,04% em 2021, mostra pesquisa"
+title: Consumo doméstico cresce 3,04% em 2021, mostra pesquisa
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cesta Abrasmercado fecha ano com alta acumulada de 10,32%.
 

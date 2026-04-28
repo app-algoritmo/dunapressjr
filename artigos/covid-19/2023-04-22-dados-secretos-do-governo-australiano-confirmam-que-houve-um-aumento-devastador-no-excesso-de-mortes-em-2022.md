@@ -1,12 +1,14 @@
 ---
-title: "Dados secretos do governo australiano confirmam que houve um aumento devastador no excesso de mortes em 2022"
+title: Dados secretos do governo australiano confirmam que houve um aumento devastador
+  no excesso de mortes em 2022
 date: 2023-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Dados secretos do governo australiano confirmam que o país viu um aumento devastador de 5162% no excesso de mortes em 2022 em comparação com o pico da pandemia de COVID em 2020
 

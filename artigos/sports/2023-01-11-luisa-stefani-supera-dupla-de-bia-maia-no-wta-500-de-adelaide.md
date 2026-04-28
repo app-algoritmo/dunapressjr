@@ -1,11 +1,12 @@
 ---
-title: "Luisa Stefani supera dupla de Bia Maia no WTA 500 de Adelaide"
+title: Luisa Stefani supera dupla de Bia Maia no WTA 500 de Adelaide
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Luisa Stefani, número 47 do mundo, estreou com o pé direito, na madrugada desta terça-feira, no WTA 500 de Adelaide, na Austrália, com premiação de US$ 780 mil. Luisa e a norte-americana Taylor Towsend, 24ª colocada, superaram a dupla de Beatriz Haddad Maia e da chinesa Shuai Zhang por 7/6 (7-4) 3/6 10/2. Este foi o segundo jogo de Luisa contra Bia. As duas fizeram a final no WTA 1000 de Guadalajara, no México, em outubro do ano passado com triunfo de Luisa que atuou com a australiana Storm Sanders enquanto que Bia jogou com a cazaque Anna Danilina.
 

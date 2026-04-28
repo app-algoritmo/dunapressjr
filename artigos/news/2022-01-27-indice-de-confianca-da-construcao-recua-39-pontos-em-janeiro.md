@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança da Construção recua 3,9 pontos em janeiro"
+title: Índice de Confiança da Construção recua 3,9 pontos em janeiro
 date: 2022-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em médias móveis trimestrais, o índice caiu 1,1 ponto.
 

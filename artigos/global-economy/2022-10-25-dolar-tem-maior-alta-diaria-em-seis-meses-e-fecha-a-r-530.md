@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior alta diária em seis meses e fecha a R$ 5,30"
+title: Dólar tem maior alta diária em seis meses e fecha a R$ 5,30
 date: 2022-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa cai 3,27% e tem maior queda para um dia em 11 meses.
 

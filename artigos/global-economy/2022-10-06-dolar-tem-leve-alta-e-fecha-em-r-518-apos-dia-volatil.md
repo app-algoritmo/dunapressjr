@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem leve alta e fecha em R$ 5,18, após dia volátil"
+title: Dólar tem leve alta e fecha em R$ 5,18, após dia volátil
 date: 2022-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa subiu 0,83%, impulsionada por corte na produção de petróleo.
 

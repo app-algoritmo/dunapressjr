@@ -1,11 +1,13 @@
 ---
-title: "Pergaminhos do Mar Morto: Inteligência Artificial lança uma nova luz sobre seus autores"
+title: 'Pergaminhos do Mar Morto: Inteligência Artificial lança uma nova luz sobre
+  seus autores'
 date: 2021-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Um projeto paleográfico baseado em inteligência artificial realizado por estudiosos na Holanda encontrou uma maneira de substituir o olho humano pela inteligência artificial.
 

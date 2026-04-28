@@ -1,11 +1,12 @@
 ---
-title: "Publicada MP que destina recursos para enfrentamento do coronavírus"
+title: Publicada MP que destina recursos para enfrentamento do coronavírus
 date: 2020-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Crédito em favor do Ministério da Defesa é de R$ 11,28 milhões*
 

@@ -1,11 +1,12 @@
 ---
-title: "TCE-PB acompanha contratos do Governo do Estado para compra de respiradores"
+title: TCE-PB acompanha contratos do Governo do Estado para compra de respiradores
 date: 2020-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Tribunal de Contas do Estado da Paraíba (TCE-PB) instaurou um novo procedimento de Inspeção Especial de Acompanhamento de Gestão (sob o número de processo 10409/20), para apurar as circunstâncias de dois contratos firmados pela Secretaria de Estado da Saúde, referente à aquisição, por meio do Consórcio Nordeste, de 105 ventiladores pulmonares, a um custo de 12,5 milhões, com dispensa de licitação, para atendimento de pacientes em estado grave infectados pela Covid-19, que não chegaram a ser entregues pelos fornecedores.
 

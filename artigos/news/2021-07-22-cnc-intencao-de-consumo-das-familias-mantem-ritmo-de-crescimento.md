@@ -1,11 +1,12 @@
 ---
-title: "CNC: intenção de consumo das famílias mantém ritmo de crescimento"
+title: 'CNC: intenção de consumo das famílias mantém ritmo de crescimento'
 date: 2021-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador atinge 68,4 pontos e tem o maior nível desde abril.
 

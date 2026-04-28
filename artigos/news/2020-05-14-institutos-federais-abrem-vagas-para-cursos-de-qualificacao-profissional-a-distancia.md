@@ -1,11 +1,13 @@
 ---
-title: "Institutos federais abrem vagas para cursos de qualificação profissional a distância"
+title: Institutos federais abrem vagas para cursos de qualificação profissional a
+  distância
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estão abertas 8.330 vagas de educação profissional a distância, do programa Novos Caminhos, do Ministério da Educação (MEC). As vagas oferecidas são gratuitas para 66 cursos diferentes. Parceria do Ministério com instituições de ensino, o projeto é uma alternativa de aprendizagem democrática para o isolamento social durante a pandemia de coronavírus. 
 

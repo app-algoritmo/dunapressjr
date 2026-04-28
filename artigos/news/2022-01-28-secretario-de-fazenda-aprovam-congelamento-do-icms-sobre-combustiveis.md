@@ -1,11 +1,12 @@
 ---
-title: "Secretário de Fazenda aprovam congelamento do ICMS sobre combustíveis"
+title: Secretário de Fazenda aprovam congelamento do ICMS sobre combustíveis
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor venceria no próximo dia 31 e agora vai até 31 de março.
 

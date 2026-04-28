@@ -1,11 +1,13 @@
 ---
-title: "Funai promove entrega de alimentos às comunidades indígenas do Rio Grande do Sul"
+title: Funai promove entrega de alimentos às comunidades indígenas do Rio Grande do
+  Sul
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Tribunal Regional Federal da 4ª Região (TRF4) atestou que não há omissão da Fundação Nacional do Índio (Funai) no atendimento aos povos indígenas do Rio Grande do Sul em meio à pandemia do novo coronavírus. A informação consta em despacho da desembargadora federal Vivian Josete Pantaleão Caminha, no qual acata recurso da fundação contra ação proposta pela Defensoria Pública da União (DPU). 
 

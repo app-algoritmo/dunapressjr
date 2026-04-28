@@ -1,11 +1,13 @@
 ---
-title: "SP: Deputado cobra reforma tributária para acabar com a guerra fiscal entre Estados"
+title: 'SP: Deputado cobra reforma tributária para acabar com a guerra fiscal entre
+  Estados'
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parlamentar luta pela manutenção e geração de empregos no Estado de São Paulo.
 

@@ -1,11 +1,12 @@
 ---
-title: "ABC Paulista recepciona S.A.I.R Dom Bertrand de Orleans e Bragança"
+title: ABC Paulista recepciona S.A.I.R Dom Bertrand de Orleans e Bragança
 date: 2019-07-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## I ENCONTRO MONÁRQUICO DO ABC PAULISTA
 

@@ -1,11 +1,13 @@
 ---
-title: "Polícia Militar de Santa Catarina vence competição nacional de Operadores Aerotáticos na Bahia"
+title: Polícia Militar de Santa Catarina vence competição nacional de Operadores Aerotáticos
+  na Bahia
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Uma delegação do Batalhão de Aviação da Polícia Militar de Santa Catarina (BAPM) embarcou em rumo à Bahia, com destino ao Encontro Nacional de Aviação de Segurança Pública (ENAVSEG). O evento foi realizado do dia 27 ao dia 29 de setembro e reuniu profissionais de todo o país.
 

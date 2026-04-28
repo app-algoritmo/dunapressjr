@@ -1,11 +1,12 @@
 ---
-title: "Banco Central aprova medidas adicionais de segurança para Pix"
+title: Banco Central aprova medidas adicionais de segurança para Pix
 date: 2021-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos poderão ser bloqueados por 72 horas em suspeitas de fraude.
 

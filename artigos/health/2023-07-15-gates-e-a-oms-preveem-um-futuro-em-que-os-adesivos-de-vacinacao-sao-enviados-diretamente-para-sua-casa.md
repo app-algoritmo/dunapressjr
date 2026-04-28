@@ -1,11 +1,13 @@
 ---
-title: "Gates e a OMS prevêem um futuro em que 'os adesivos de vacinação são enviados diretamente para sua casa'"
+title: Gates e a OMS prevêem um futuro em que 'os adesivos de vacinação são enviados
+  diretamente para sua casa'
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## *Gavi, a Vaccine Alliance, a Organização Mundial da Saúde e a Fundação Bill & Melinda Gates estão entre as organizações que promovem uma nova tecnologia de vacina que usa adesivos em vez de agulhas para "maximizar o alcance das vacinas nas áreas mais remotas".*
 

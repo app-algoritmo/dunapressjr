@@ -1,11 +1,13 @@
 ---
-title: "Reforma da Previdência: os senadores poderão, em sessão deliberativa, dar início à tramitação da matéria"
+title: 'Reforma da Previdência: os senadores poderão, em sessão deliberativa, dar
+  início à tramitação da matéria'
 date: 2019-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Chegou a vez de o Plenário do Senado se debruçar sobre a reforma da Previdência. A partir das 14h de hoje (10), iniciou-se a [sessão temática](http://www12.senado.leg.br/noticias/materias/2019/09/06/senado-chama-especialistas-pro-e-contra-reforma-da-previdencia-ao-plenario) com a participação de especialistas favoráveis e contrários à Proposta de Emenda à Constituição (PEC) [6/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/137999), que muda as regras para a aposentadoria. [O debate tem caráter interativo](http://www12.senado.leg.br/noticias/materias/2019/09/06/senado-chama-especialistas-pro-e-contra-reforma-da-previdencia-ao-plenario), o que permite a participação popular na formulação de questões.
 

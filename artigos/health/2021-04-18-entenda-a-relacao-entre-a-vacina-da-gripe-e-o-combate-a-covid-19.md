@@ -1,11 +1,12 @@
 ---
-title: "Entenda a relação entre a vacina da gripe e o combate à Covid-19"
+title: Entenda a relação entre a vacina da gripe e o combate à Covid-19
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a escalada de casos de Covid-19, a vacinação tem sido vista como a principal esperança para redução desses números. Enquanto profissionais da saúde e idosos são imunizados contra o coronavírus, o calendário da saúde também indica a importância de tomar a vacina da gripe, que começa a campanha em 12 de abril. Confira abaixo a relação entre as duas vacinas e como a imunização contra a gripe é ainda mais importante nesse momento de pandemia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo na Paraíba divulga edital para Programa de Residência Médica em Cirurgia Pediátrica, Endoscopia Ginecológica e Medicina Intensiva Pediátrica"
+title: Governo na Paraíba divulga edital para Programa de Residência Médica em Cirurgia
+  Pediátrica, Endoscopia Ginecológica e Medicina Intensiva Pediátrica
 date: 2021-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As atividades do programa iniciarão no dia 1º de março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Centros de pesquisa do Exército investem em soluções para combater pandemia"
+title: Centros de pesquisa do Exército investem em soluções para combater pandemia
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A comunidade científica respondeu de forma rápida à crise gerada pela Covid-19. Na segunda parte da série sobre tecnologias de combate ao novo coronavírus, o leitor acompanha o empenho do Exército Brasileiro na atual conjuntura. A Força Terrestre conta com o Departamento de Ciência e Tecnologia (DCT). O órgão é responsável pelo planejamento, organização, direção e controle das atividades científicas, tecnológicas e desenvolve uma série de atividades de assessoramento científico e tecnológico para atender às necessidades da Força, de órgãos governamentais e da sociedade em geral.
 

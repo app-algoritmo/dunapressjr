@@ -1,11 +1,12 @@
 ---
-title: "Análise - Inflação do mês de julho é a menor em cinco anos"
+title: Análise - Inflação do mês de julho é a menor em cinco anos
 date: 2019-08-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## IPCA acumulado recuou para 3,22%. Queda nos preços de vestuário e combustíveis seguram inflação.
 

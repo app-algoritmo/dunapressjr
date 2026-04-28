@@ -1,12 +1,14 @@
 ---
-title: "Pesquisa afirma que os humanos transmitem mais vírus para os animais do que os animais para os humanos"
+title: Pesquisa afirma que os humanos transmitem mais vírus para os animais do que
+  os animais para os humanos
 date: 2024-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Os animais têm uma péssima reputação quando se trata de propagação de vírus. Afinal, algumas das doenças infecciosas mais conhecidas em humanos — como COVID-19, Ebola ou gripe suína — são resultado de vírus que circulam naturalmente em animais.
 

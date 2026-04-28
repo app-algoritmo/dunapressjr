@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador goiano estuda a arte e a cultura da viola no passado brasileiro"
+title: Pesquisador goiano estuda a arte e a cultura da viola no passado brasileiro
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 A arte e a cultura da viola caipira estão de volta ao cenário musical no Brasil. O reaparecimento dessa expressão artística não está marcado apenas pelo grande volume de músicas na atualidade, mas também pelas novas formas e expressões das melodias executadas com o instrumento. Luiz Antônio Barbosa Guerra Marques, doutor em Sociologia pela Universidade de São Paulo (USP), venceu do Prêmio CAPES de Tese, na categoria Sociologia, de 2022 com esse estudo.
 

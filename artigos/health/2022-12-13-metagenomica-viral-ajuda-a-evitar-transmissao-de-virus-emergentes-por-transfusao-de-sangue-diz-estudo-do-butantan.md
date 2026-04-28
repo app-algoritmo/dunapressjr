@@ -1,11 +1,13 @@
 ---
-title: "Metagenômica viral ajuda a evitar transmissão de vírus emergentes por transfusão de sangue, diz estudo do Butantan"
+title: Metagenômica viral ajuda a evitar transmissão de vírus emergentes por transfusão
+  de sangue, diz estudo do Butantan
 date: 2022-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A transmissão de vírus por meio da transfusão de sangue é um risco que se tornou bastante conhecido na década de 1980, com a epidemia do vírus da imunodeficiência humana (HIV), que na época infectou 75 milhões de pessoas e matou cerca de 35 milhões. Segundo um artigo de revisão do Instituto Butantan [publicado na revista *Viruses*](https://www.mdpi.com/1999-4915/14/11/2448/htm), a metagenômica viral, estratégia que identifica material genético de vírus em amostras, pode ser uma importante aliada para evitar esse problema. O assunto foi abordado na terça (8) pelo pesquisador do Svetoslav Slavov, durante o workshop Emerging Infectious Diseases: Biology, Prevention and Treatment, evento internacional promovido pelo International Centre for Genetic Engineering and Biotechnology (ICGEB) e que está sendo sediado no Butantan.
 

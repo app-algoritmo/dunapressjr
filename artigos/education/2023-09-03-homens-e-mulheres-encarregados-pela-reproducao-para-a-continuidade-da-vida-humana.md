@@ -1,12 +1,14 @@
 ---
-title: "Homens e Mulheres encarregados pela Reprodução para a Continuidade da Vida Humana"
+title: Homens e Mulheres encarregados pela Reprodução para a Continuidade da Vida
+  Humana
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Science
+- Education
+- Science
 ---
+
 
 ## "A reprodução humana é uma exclusividade  da mulher e do homem" 
 

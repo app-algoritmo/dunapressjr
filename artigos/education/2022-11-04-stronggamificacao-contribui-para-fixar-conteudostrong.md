@@ -1,11 +1,12 @@
 ---
-title: "<strong>Gamificação contribui para fixar conteúdo</strong>"
+title: <strong>Gamificação contribui para fixar conteúdo</strong>
 date: 2022-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Com um tablet, computador ou mesmo celular nas mãos, crianças de todo o mundo têm acesso a uma infinidade de jogos on-line. De acordo com estudo realizado pela Universidade de Amsterdam, na Holanda, e pelo Instituto Karoliska, na Suécia, passar muito tempo jogando videogames pode aumentar a inteligência. Os resultados foram publicados na revista Scientific Reports e mostram um aumento de cerca de 2,5 pontos no QI de crianças que tinham esse hábito.
 

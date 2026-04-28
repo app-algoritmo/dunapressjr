@@ -1,11 +1,12 @@
 ---
-title: "Governo garante abastecimento da população, do campo à mesa consumidor"
+title: Governo garante abastecimento da população, do campo à mesa consumidor
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Garantir o abastecimento de alimentos para a população e a manutenção da segurança para os trabalhadores do campo e do transporte foi um desafio imposto pela chegada da pandemia do novo coronavírus ao Brasil, de acordo com a ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina.
 

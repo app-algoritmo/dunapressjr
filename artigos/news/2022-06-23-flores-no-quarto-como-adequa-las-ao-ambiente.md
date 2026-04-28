@@ -1,11 +1,12 @@
 ---
-title: "Flores no quarto: como adequá-las ao ambiente?"
+title: 'Flores no quarto: como adequá-las ao ambiente?'
 date: 2022-06-23
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Veja quais cuidados são necessários para usar flores na decoração do quarto e conheça algumas ideias de como adequá-las do jeito certo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Afinal, o COVID-19 é uma arma biológica, explica o Times"
+title: Afinal, o COVID-19 é uma arma biológica, explica o Times
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O Sars-Cov-2 é resultado da pesquisa de armas biológicas e do trabalho de Ralph Baric e Peter Daszak.
 

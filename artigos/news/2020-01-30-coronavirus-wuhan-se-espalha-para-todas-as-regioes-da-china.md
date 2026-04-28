@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Wuhan se espalha para todas as regiões da China"
+title: Coronavírus Wuhan se espalha para todas as regiões da China
 date: 2020-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ritmo do surto está causando preocupação 'aguda' em Pequim, na OMS e no resto do mundo
 

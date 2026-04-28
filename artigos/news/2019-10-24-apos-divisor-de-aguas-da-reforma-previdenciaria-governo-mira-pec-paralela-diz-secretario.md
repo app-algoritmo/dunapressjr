@@ -1,11 +1,13 @@
 ---
-title: "Após 'divisor de águas' da reforma previdenciária, governo mira PEC paralela, diz secretário"
+title: Após 'divisor de águas' da reforma previdenciária, governo mira PEC paralela,
+  diz secretário
 date: 2019-10-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O secretário especial adjunto de Previdência e Trabalho,
 Bruno Bianco, afirma que a reforma previdenciária aprovada nesta quarta-feira

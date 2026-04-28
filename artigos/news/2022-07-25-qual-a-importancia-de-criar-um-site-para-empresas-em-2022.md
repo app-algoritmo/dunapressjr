@@ -1,11 +1,12 @@
 ---
-title: "Qual a importância de criar um site para empresas em 2022"
+title: Qual a importância de criar um site para empresas em 2022
 date: 2022-07-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Qual a importância de criar um site para empresas em 2022? Por que é essencial criar um site da empresa ou uma loja virtual para realizar vendas online? 
 

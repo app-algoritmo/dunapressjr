@@ -1,11 +1,13 @@
 ---
-title: "Convite - XIV Prêmio Paul Donovan Kigar de honra ao mérito por realizações de vida"
+title: Convite - XIV Prêmio Paul Donovan Kigar de honra ao mérito por realizações
+  de vida
 date: 2018-11-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Malcolm Forest convida a todos para participar deste magnífico evento.
 

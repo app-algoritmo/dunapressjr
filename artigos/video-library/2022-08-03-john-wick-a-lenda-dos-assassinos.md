@@ -1,11 +1,12 @@
 ---
-title: "John Wick , A Lenda dos Assassinos"
+title: John Wick , A Lenda dos Assassinos
 date: 2022-08-03
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Wikipédia
 

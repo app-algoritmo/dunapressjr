@@ -1,11 +1,12 @@
 ---
-title: "Publicado decreto que aumenta IOF para custear Auxílio Brasil"
+title: Publicado decreto que aumenta IOF para custear Auxílio Brasil
 date: 2021-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novas alíquotas serão aplicadas de 20 de setembro a 31 de dezembro.
 

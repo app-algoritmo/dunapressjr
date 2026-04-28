@@ -1,11 +1,12 @@
 ---
-title: "CPI das Pirâmides Financeiras ouve o ex-jogador Ronaldinho Gaúcho na terça"
+title: CPI das Pirâmides Financeiras ouve o ex-jogador Ronaldinho Gaúcho na terça
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ronaldinho é sócio-proprietário da empresa 18K; e o irmão dele é empresário do atleta.
 

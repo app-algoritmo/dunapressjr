@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que cerca de 13 milhões de pessoas morreram por causa das vacinas da Covid"
+title: Estudo mostra que cerca de 13 milhões de pessoas morreram por causa das vacinas
+  da Covid
 date: 2023-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Isso é o dobro do número de mortos pelo vírus. Estima-se que 670.000 americanos foram mortos nos Estados Unidos. Talvez seja hora de declarar as vacinas uma emergência global?
 

@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí adota pagamento de boletos via pix"
+title: Município de Itajaí adota pagamento de boletos via pix
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí adere, a partir desta quinta-feira (08), ao sistema de pagamento de boletos via pix. Com isso, todos os boletos emitidos pela Administração Municipal contarão com QRCode para agilizar a quitação, que levará em torno de 20 minutos para dar baixa dentro do sistema.
 

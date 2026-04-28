@@ -1,11 +1,12 @@
 ---
-title: "As tranças de Lili Hirsch"
+title: As tranças de Lili Hirsch
 date: 2021-10-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Conheça Lili Hirsch, de 12 anos, que foi deportada para Auschwitz e assassinada em 1944. Lili estava entre os 1,5 milhão de crianças judias assassinadas durante o Holocausto.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Polônia celebram centenário nas relações diplomáticas"
+title: Brasil e Polônia celebram centenário nas relações diplomáticas
 date: 2020-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em conversa por videoconferência, presidente Jair Bolsonaro e Andrzej Duda consideraram aprofundar a cooperação bilateral em prol da prosperidade de seus povos e do fortalecimento da posição internacional de ambos os países.
 

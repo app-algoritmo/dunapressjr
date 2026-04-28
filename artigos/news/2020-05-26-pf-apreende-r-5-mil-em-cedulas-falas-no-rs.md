@@ -1,11 +1,12 @@
 ---
-title: "PF apreende R$ 5 mil em cédulas falas no RS"
+title: PF apreende R$ 5 mil em cédulas falas no RS
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Alegre/RS - A Polícia Federal, em ação conjunta com os Correios, apreendeu na sexta-feira (22/5), cinco mil reais em cédulas falsas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estudo indica que sistema imunológico monta uma defesa duradoura após a recuperação do COVID-19"
+title: Estudo indica que sistema imunológico monta uma defesa duradoura após a recuperação
+  do COVID-19
 date: 2021-01-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 À medida que o número de pessoas que lutam contra o SARS-CoV-2 aumenta cada vez mais, uma questão crítica se torna mais importante: quanto tempo durará sua imunidade ao novo coronavírus? Um novo estudo oferece uma resposta encorajadora, sugerindo que aqueles que se recuperam do COVID-19 estão protegidos contra o vírus por pelo menos seis meses, e provavelmente por muito mais tempo.
 

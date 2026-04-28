@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 0,41%, aos 107.593 com influências internas e externas"
+title: Ibovespa sobe 0,41%, aos 107.593 com influências internas e externas
 date: 2023-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 5,13, puxado por mercado externo.
 

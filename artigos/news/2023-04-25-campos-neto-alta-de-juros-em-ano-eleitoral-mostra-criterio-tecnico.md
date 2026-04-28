@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto: alta de juros em ano eleitoral mostra critério técnico"
+title: 'Campos Neto: alta de juros em ano eleitoral mostra critério técnico'
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do Banco Central participou de audiência no Senado.
 

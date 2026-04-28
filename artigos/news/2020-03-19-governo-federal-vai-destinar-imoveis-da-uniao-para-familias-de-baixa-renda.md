@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal vai destinar imóveis da União para famílias de baixa renda"
+title: Governo Federal vai destinar imóveis da União para famílias de baixa renda
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal vai destinar imóveis da União para fins de regularização fundiária a famílias com renda máxima de cinco salários mínimos, nos municípios de São Paulo, Aracaju e Macapá. A iniciativa, que faz parte das diretrizes habitacionais, está prevista em quatro portarias publicadas, nessa terça-feira (17), no *Diário Oficial da União (DOU)*. 
 

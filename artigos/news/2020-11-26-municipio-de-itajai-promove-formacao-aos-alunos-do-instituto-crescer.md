@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí promove formação aos alunos do Instituto Crescer"
+title: Município de Itajaí promove formação aos alunos do Instituto Crescer
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Desenvolvimento Econômico, por meio do POP – Programa de Orientação Profissional - oferece a oficina Como controlar seu dinheiro e não deixar que ele mande em você? para os alunos da turma de profissionalização do Instituto Crescer. A palestra gratuita será realizada na plataforma virtual Instituto Crescer, no dia 26 de novembro, no período da manhã.
 

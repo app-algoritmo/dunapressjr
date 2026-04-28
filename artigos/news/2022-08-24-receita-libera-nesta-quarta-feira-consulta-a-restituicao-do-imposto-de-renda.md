@@ -1,11 +1,12 @@
 ---
-title: "Receita libera nesta quarta-feira consulta a restituição do Imposto de Renda"
+title: Receita libera nesta quarta-feira consulta a restituição do Imposto de Renda
 date: 2022-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cerca de 4,46 milhões de contribuintes receberão R$ 6 bilhões.
 

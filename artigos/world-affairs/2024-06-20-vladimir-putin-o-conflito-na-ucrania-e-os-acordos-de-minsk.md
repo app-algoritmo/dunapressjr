@@ -1,11 +1,12 @@
 ---
-title: "Vladimir Putin: O Conflito na Ucrânia e os Acordos de Minsk"
+title: 'Vladimir Putin: O Conflito na Ucrânia e os Acordos de Minsk'
 date: 2024-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Numa declaração publicada recentemente, o presidente russo, Vladimir Putin, falou detalhadamente sobre as causas e o curso do conflito na Ucrânia. Putin critica a representação ocidental dos acontecimentos e acusa o regime de Kiev e os seus apoiantes de iniciar e continuar as hostilidades. Ele defende o papel da Rússia e sublinha que as nações ocidentais e Kiev minaram deliberadamente os acordos de Minsk.
 

@@ -1,11 +1,12 @@
 ---
-title: "A democracia está sob ameaça como nunca antes, e é de nossas próprias instituições"
+title: A democracia está sob ameaça como nunca antes, e é de nossas próprias instituições
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A democracia está ameaçada como nunca antes, por nossas próprias instituições "O próprio conceito de democracia, que tomamos como certo durante toda a nossa vida, está ameaçado como nunca antes", lamentou Andrew Bridgen.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro reduz estimativa de inflação este ano para 3,47%"
+title: Mercado financeiro reduz estimativa de inflação este ano para 3,47%
 date: 2020-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As instituições financeiras
 consultadas pelo Banco Central (BC) reduziram a estimativa para a inflação este

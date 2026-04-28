@@ -1,11 +1,12 @@
 ---
-title: "Bem-vindos a Terra Média, Tolkienianos !"
+title: Bem-vindos a Terra Média, Tolkienianos !
 date: 2020-01-18
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 J.R.R Tolkien foi um mestre erudito com um entendimento e sensibilidade única. Seu esmero e cuidados na hora de revisar suas obras revelam um espírito perfeccionista. Para celebrar seu legado, entrevistamos a defensora de alta cultura, designer e fotógrafa, ***Luma Costa***. Ela administra a página do Instagram* Tolkienianos* que como ela mesma define “é um apostolado de divulgação dos valores contidos nas obras de Tolkien”. Uma apaixonada pelas obras do grande Professor e uma mulher não somente inteligente como também cheia de grande conhecimento. Aproveitem a entrevista!
 

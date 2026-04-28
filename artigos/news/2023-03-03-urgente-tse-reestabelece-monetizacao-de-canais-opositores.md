@@ -1,11 +1,12 @@
 ---
-title: "Urgente: TSE reestabelece monetização de canais opositores"
+title: 'Urgente: TSE reestabelece monetização de canais opositores'
 date: 2023-03-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Os recursos obtidos devem seguir retidos e “à disposição do juízo, até posterior deliberação”.
 

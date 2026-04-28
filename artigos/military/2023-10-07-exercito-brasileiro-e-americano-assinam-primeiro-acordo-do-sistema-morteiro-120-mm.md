@@ -1,11 +1,13 @@
 ---
-title: "Exército Brasileiro e Americano assinam primeiro acordo do sistema morteiro 120 mm"
+title: Exército Brasileiro e Americano assinam primeiro acordo do sistema morteiro
+  120 mm
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Durante a realização do III Seminário do instrumento Bilateral BR-EUA "Research, Development, Test & Evaluation - RDT&E", foi assinado o primeiro acordo de projeto entre as duas nações amigas, destinado ao desenvolvimento de munições de alcance estendido para emprego em sistemas morteiro 120 mm.
 

@@ -1,11 +1,12 @@
 ---
-title: "Campanha de vacinação contra a gripe é prorrogada até 30 de junho"
+title: Campanha de vacinação contra a gripe é prorrogada até 30 de junho
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde anunciou na sexta-feira (29) a prorrogação da Campanha Nacional de Vacinação contra a Gripe para até 30 de junho em todo o País. A terceira e última fase teve início no dia 11 de maio, com prioridade aos grupos formados por pessoas com deficiência, crianças de seis meses a menores de seis anos, gestantes, puérperas, professores e pessoas de 55 a 59 anos de idade. A meta é vacinar 90% dos grupos prioritários, porém, até o momento, foram vacinadas 25,7% de 36,1 milhões de pessoas estimadas nesta terceira fase. Desde o início da ação nacional, em 23 de março, 50 milhões de pessoas foram vacinadas, faltando ainda 28,3 milhões que ainda não receberam a vacina.
 

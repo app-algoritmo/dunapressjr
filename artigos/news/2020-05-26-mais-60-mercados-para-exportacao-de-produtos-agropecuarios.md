@@ -1,11 +1,12 @@
 ---
-title: "Mais 60 mercados para exportação de produtos agropecuários"
+title: Mais 60 mercados para exportação de produtos agropecuários
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Entre os produtos que serão exportados estão castanhas e material genético avícola.
 

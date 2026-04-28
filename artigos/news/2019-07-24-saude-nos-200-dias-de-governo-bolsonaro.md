@@ -1,11 +1,12 @@
 ---
-title: "Saúde nos 200 dias de governo Bolsonaro"
+title: Saúde nos 200 dias de governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Ações que ampliam o atendimento à população
 

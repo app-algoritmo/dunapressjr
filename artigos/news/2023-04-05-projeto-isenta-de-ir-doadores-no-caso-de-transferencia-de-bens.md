@@ -1,11 +1,12 @@
 ---
-title: "Projeto isenta de IR doadores no caso de transferência de bens"
+title: Projeto isenta de IR doadores no caso de transferência de bens
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 1606/23 determina a isenção do Imposto de Renda (IR) para doadores em casos de transferência de direito de propriedade sobre bens para outras pessoas.
 

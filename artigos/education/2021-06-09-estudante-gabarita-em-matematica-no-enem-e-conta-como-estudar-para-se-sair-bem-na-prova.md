@@ -1,11 +1,13 @@
 ---
-title: "Estudante gabarita em Matemática no Enem e conta como estudar para se sair bem na prova"
+title: Estudante gabarita em Matemática no Enem e conta como estudar para se sair
+  bem na prova
 date: 2021-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A prova de Matemática do Enem costuma ser o pesadelo de muitos estudantes no final do Ensino Médio. E não é para menos. Além da grande quantidade de questões (25% do exame), muitos alunos costumam apresentar dificuldades com esse componente curricular. Gabaritar na prova de Matemática não é para qualquer um. Exige muita dedicação e, na opinião de quem conquistou este feito, também algumas estratégias. O estudante paranaense Vinicius Colini Gonçalves, de 17 anos, gabaritou a prova de Matemática da última edição do Enem e conseguiu uma vaga para cursar Medicina na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
 

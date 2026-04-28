@@ -1,11 +1,13 @@
 ---
-title: "O primeiro-ministro eslovaco, Fico, disse isso sobre a OMS e a Big Pharma há alguns meses"
+title: O primeiro-ministro eslovaco, Fico, disse isso sobre a OMS e a Big Pharma há
+  alguns meses
 date: 2024-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://twitter.com/i/status/1790772488651051477
 

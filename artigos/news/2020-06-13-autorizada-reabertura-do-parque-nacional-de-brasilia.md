@@ -1,11 +1,12 @@
 ---
-title: "Autorizada reabertura do Parque Nacional de Brasília"
+title: Autorizada reabertura do Parque Nacional de Brasília
 date: 2020-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parque volta a funcionar a partir de 15 de junho. Reabertura será gradual e monitorada. Número de visitantes será reduzido durante reabertura para evitar aglomerações.
 

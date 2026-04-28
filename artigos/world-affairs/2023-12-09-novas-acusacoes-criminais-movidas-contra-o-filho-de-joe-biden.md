@@ -1,11 +1,12 @@
 ---
-title: "Novas acusações criminais movidas contra o filho de Joe Biden"
+title: Novas acusações criminais movidas contra o filho de Joe Biden
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com o relatório, o procurador especial David Weiss tem reunido testemunhos e evidências sobre possíveis acusações fiscais criminais contra Hunter Biden nas últimas semanas.
 

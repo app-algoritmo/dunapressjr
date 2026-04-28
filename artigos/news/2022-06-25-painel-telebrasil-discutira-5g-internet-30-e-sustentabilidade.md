@@ -1,11 +1,12 @@
 ---
-title: "Painel Telebrasil discutirá 5G, internet 3.0 e sustentabilidade"
+title: Painel Telebrasil discutirá 5G, internet 3.0 e sustentabilidade
 date: 2022-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Evento terá participação dos ministros Fábio Faria e Paulo Guedes.
 

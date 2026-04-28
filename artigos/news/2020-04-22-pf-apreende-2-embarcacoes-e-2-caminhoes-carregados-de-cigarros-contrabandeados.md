@@ -1,11 +1,12 @@
 ---
-title: "PF apreende 2 embarcações e 2 caminhões carregados de cigarros contrabandeados"
+title: PF apreende 2 embarcações e 2 caminhões carregados de cigarros contrabandeados
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – No início da tarde desta terça-feira (21/4), policiais na cidade de Guaíra, após abordagem de um veículo  com placas de Umuarama/PR, localizou ocultado no compartimento do estepe, aproximadamente 60 aparelhos smartphone de última geração, importados ilegalmente do Guaíra/PR– Na madrugada desta quarta-feira, dia 22/04, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

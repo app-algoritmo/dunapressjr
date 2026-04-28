@@ -1,11 +1,12 @@
 ---
-title: "Após concurso histórico, Macrorregião de Curitiba ganha 1.452 policiais militares"
+title: Após concurso histórico, Macrorregião de Curitiba ganha 1.452 policiais militares
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Entre os novos formandos, 1.050 foram destacados para atuar no 1º e no 6º Comando Regional da Polícia Militar (CRPM), que abrangem a Capital, a Região Metropolitana e o Litoral do Estado. Os outros 402 soldados vão reforçar o trabalho do 4º CRPM, que atende os municípios dos Campos Gerais, Centro, Centro-Sul e Sul do Estado.
 

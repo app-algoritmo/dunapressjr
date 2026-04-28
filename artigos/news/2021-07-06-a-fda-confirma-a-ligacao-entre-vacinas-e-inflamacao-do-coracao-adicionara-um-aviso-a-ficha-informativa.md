@@ -1,11 +1,13 @@
 ---
-title: "A FDA confirma a ligação entre vacinas e inflamação do coração, adicionará um aviso à ficha informativa"
+title: A FDA confirma a ligação entre vacinas e inflamação do coração, adicionará
+  um aviso à ficha informativa
 date: 2021-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O CDC apresenta dados que mostram um aumento de 32 vezes na inflamação do coração entre meninos adolescentes após a vacinação com Covid-19.
 

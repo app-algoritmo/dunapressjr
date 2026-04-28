@@ -1,11 +1,13 @@
 ---
-title: "Novo livro esquecido, decifra guerra de inteligência que manteve os nazistas longe da Terra Santa"
+title: Novo livro esquecido, decifra guerra de inteligência que manteve os nazistas
+  longe da Terra Santa
 date: 2021-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## O livro profundamente pesquisado do autor israelense-americano Gershom Gorenberg serve como um corretivo, trazendo para o primeiro plano a história há muito esquecida da campanha do Norte da África na Segunda Guerra Mundial.
 

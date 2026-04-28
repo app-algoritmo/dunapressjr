@@ -1,11 +1,12 @@
 ---
-title: "Dar antibióticos a recém-nascidos pode retardar seu crescimento"
+title: Dar antibióticos a recém-nascidos pode retardar seu crescimento
 date: 2021-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Novo estudo da Universidade Bar-Ilan descobriu que expor meninos recém-nascidos a antibióticos pode reduzir seu crescimento - enquanto as meninas parecem não ser afetadas.
 

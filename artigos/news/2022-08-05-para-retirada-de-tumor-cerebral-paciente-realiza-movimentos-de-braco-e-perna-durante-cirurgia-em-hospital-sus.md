@@ -1,11 +1,13 @@
 ---
-title: "Para retirada de tumor cerebral, paciente realiza movimentos de braço e perna durante cirurgia em hospital SUS"
+title: Para retirada de tumor cerebral, paciente realiza movimentos de braço e perna
+  durante cirurgia em hospital SUS
 date: 2022-08-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "O momento é de fazer novos planos". A frase define o sentimento de Daiane Poulmann, 30 anos, após passar por uma neurocirurgia para retirada de tumor no cérebro. Durante o procedimento realizado no Hospital Universitário Cajuru, em Curitiba (PR), foi preciso que a paciente ficasse acordada. "Lembro deles me pedindo pra fazer algumas funções motoras durante a cirurgia e, também, perguntando como eu estava", conta Daiane.
 

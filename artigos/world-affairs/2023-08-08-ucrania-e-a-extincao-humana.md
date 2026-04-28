@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia e a extinção humana"
+title: Ucrânia e a extinção humana
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nunca devemos esquecer que a guerra na Ucrânia, planejada pelos estúpidos controladores do Necon de Biden, ameaça o mundo com destruição imediata. Se continuarmos a ameaçar e provocar Putin, o futuro é realmente assustador.
 

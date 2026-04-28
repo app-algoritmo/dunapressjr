@@ -1,11 +1,12 @@
 ---
-title: "TRE-RJ barra candidatura de Daniel Silveira a senador"
+title: TRE-RJ barra candidatura de Daniel Silveira a senador
 date: 2022-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Colegiado indeferiu registro do candidato.
 

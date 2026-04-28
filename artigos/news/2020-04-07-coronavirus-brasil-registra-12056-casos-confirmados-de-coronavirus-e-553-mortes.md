@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Brasil registra 12.056 casos confirmados de coronavírus e 553 mortes"
+title: 'Coronavírus: Brasil registra 12.056 casos confirmados de coronavírus e 553
+  mortes'
 date: 2020-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde; Segunda, 06 de Abril de 2020, 19h38. Última atualização em Segunda, 06 de Abril de 2020, 20h40.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa"
+title: PF combate crime de moeda falsa
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Maringá/PR – No sábado (16/5), um motorista de aplicativo procurou a Delegacia de Polícia Federal em Maringá/PR, para denunciar uma pessoa que lhe passou, em um dia anterior, um nota de R$ 50 falsa.
 

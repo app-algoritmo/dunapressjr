@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção cai para 0,56% em fevereiro, diz IBGE"
+title: Inflação da construção cai para 0,56% em fevereiro, diz IBGE
 date: 2022-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador ficou abaixo do observado em fevereiro de 2021 (1,33%).
 

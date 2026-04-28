@@ -1,11 +1,12 @@
 ---
-title: "Militares estão concentrados no combate a incêndios em MT e MS"
+title: Militares estão concentrados no combate a incêndios em MT e MS
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por meio do Ministério da Defesa (MD), militares das Forças Armadas estão concentrados no combate a focos de incêndio que atingem o Pantanal de Mato Grosso (MT) e Mato Grosso do Sul (MS). Em parceria com agências federais e estaduais, integrantes da Marinha, do Exército e da Aeronáutica empregam aeronaves que transportam brigadistas e despejam água, durante os sobrevoos, para conter as chamas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal prende, mais uma vez, empresário acusado de desvios na saúde do Rio"
+title: Polícia Federal prende, mais uma vez, empresário acusado de desvios na saúde
+  do Rio
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Na quinta-feira, 4/6, a Polícia Federal deu cumprimento a mandado de prisão preventiva expedido pela 7ª Vara Federal Criminal do Rio de Janeiro/RJ.
 

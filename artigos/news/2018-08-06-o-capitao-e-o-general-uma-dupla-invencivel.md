@@ -1,11 +1,12 @@
 ---
-title: "O Capitão e o General: uma dupla invencível"
+title: 'O Capitão e o General: uma dupla invencível'
 date: 2018-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em uma escolha de importância estratégica, o candidato **Jair Messias Bolsonaro** anunciou ontem que seu vice será o general **Antônio Hamilton Martins Mourão**. O General Mourão, como é conhecido, também é do Exército (Reserva) e juntamente com Bolsonaro passa a compor uma chapa bastante diferenciada e muito forte, e que representa a possibilidade de mudança e renovação política para o Brasil. O Príncipe **Luiz Philippe de Orléans e Bragança** deve seguir como Ministro das Relações Exteriores, o que em muito tem a ver com sua formação e sua atuação na política brasileira tanto como ativista político como escritor e palestrante.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, Itália confirma 2.036 contágios e 52 mortes"
+title: Coronavírus, Itália confirma 2.036 contágios e 52 mortes
 date: 2020-03-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **O governo da Itália aprovou um decreto-lei de emergência com medidas para impedir a propagação do coronavírus**
 

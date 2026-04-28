@@ -1,11 +1,13 @@
 ---
-title: "Audiência Pública no Brasil discutirá revogação do Acordo Ortográfico de 1990 (AO/90)"
+title: Audiência Pública no Brasil discutirá revogação do Acordo Ortográfico de 1990
+  (AO/90)
 date: 2019-09-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 No dia 03 de setembro na Câmara dos Deputados em Brasília (Brasil) serão apresentados, em Audiência Pública, argumentos em prol da revogação do Acordo Ortográfico de 1990 (AO/90). 
 

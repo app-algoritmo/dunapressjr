@@ -1,11 +1,13 @@
 ---
-title: "Brasil está fazendo dever de casa para se tornar mais atrativo a estrangeiros, diz Bolsonaro"
+title: Brasil está fazendo dever de casa para se tornar mais atrativo a estrangeiros,
+  diz Bolsonaro
 date: 2019-11-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro afirmou nesta quarta-feira(13)
 que o Brasil está fazendo seu dever de casa para se tornar um mercado cada vez

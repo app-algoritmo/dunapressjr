@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial sobe em março, mas queda no consumo preocupa"
+title: Produção industrial sobe em março, mas queda no consumo preocupa
 date: 2022-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### CNI considera o movimento normal para o primeiro trimestre.
 

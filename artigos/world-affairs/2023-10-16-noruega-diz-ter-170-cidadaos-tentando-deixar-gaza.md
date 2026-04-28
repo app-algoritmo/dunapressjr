@@ -1,11 +1,12 @@
 ---
-title: "Noruega diz ter 170 cidadãos tentando deixar Gaza"
+title: Noruega diz ter 170 cidadãos tentando deixar Gaza
 date: 2023-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo norueguês afirma que, até ontem à noite, 170 dos seus cidadãos queriam assistência da Noruega para deixar Gaza.
 

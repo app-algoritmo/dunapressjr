@@ -1,11 +1,12 @@
 ---
-title: "Como modificar sua experiência digital"
+title: Como modificar sua experiência digital
 date: 2022-10-21
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Em um mundo digital acelerado, como modificar sua experiência digital, afinal, é mais importante do que nunca ter uma ótima presença online. Seu site geralmente é a primeira impressão que os clientes em potencial terão de sua empresa, por isso é essencial que esteja à altura. Da mesma forma, suas táticas de marketing digital podem aumentar ou diminuir suas chances de sucesso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Queda do déficit primário deve-se a controle de gastos, diz ministro"
+title: Queda do déficit primário deve-se a controle de gastos, diz ministro
 date: 2022-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Guedes rebate críticas de que inflação ajudou contas públicas.
 

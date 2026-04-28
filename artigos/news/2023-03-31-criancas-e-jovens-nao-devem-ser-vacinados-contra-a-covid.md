@@ -1,11 +1,12 @@
 ---
-title: "Crianças e jovens não devem ser vacinados contra a Covid"
+title: Crianças e jovens não devem ser vacinados contra a Covid
 date: 2023-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## [Os funcionários da OMS agora afirmam](https://www.dailymail.co.uk/health/article-11915563/World-Health-Organization-says-healthy-kids-teens-dont-need-Covid-vaccinations.html) que não há necessidade de vacinar crianças e adolescentes saudáveis ​​depois de promover agressivamente sua injeção. 
 

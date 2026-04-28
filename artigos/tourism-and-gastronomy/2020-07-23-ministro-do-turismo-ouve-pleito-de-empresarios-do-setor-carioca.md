@@ -1,11 +1,12 @@
 ---
-title: "Ministro do Turismo ouve pleito de empresários do setor carioca"
+title: Ministro do Turismo ouve pleito de empresários do setor carioca
 date: 2020-07-23
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Entre os principais assuntos, estava a retomada do setor na capital do Rio de Janeiro.
 

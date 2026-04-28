@@ -1,11 +1,12 @@
 ---
-title: "Supremo anula condenação de Cunha na Lava Jato"
+title: Supremo anula condenação de Cunha na Lava Jato
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Decisão foi tomada por 3 votos a 2 em sessão virtual.
 

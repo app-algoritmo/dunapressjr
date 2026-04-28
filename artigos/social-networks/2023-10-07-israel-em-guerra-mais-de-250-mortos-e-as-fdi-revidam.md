@@ -1,11 +1,12 @@
 ---
-title: "Israel em guerra: mais de 250 mortos e as FDI revidam"
+title: 'Israel em guerra: mais de 250 mortos e as FDI revidam'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 Pelo menos 250 israelitas foram mortos nos ataques do Hamas contra Israel e pelo menos 1.590 pessoas ficaram feridas, informam as autoridades de saúde.
 

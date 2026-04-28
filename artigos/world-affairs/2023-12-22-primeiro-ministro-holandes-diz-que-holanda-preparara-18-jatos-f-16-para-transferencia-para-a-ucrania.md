@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-ministro holandês diz que Holanda preparará 18 jatos F-16 para transferência para a Ucrânia"
+title: Primeiro-ministro holandês diz que Holanda preparará 18 jatos F-16 para transferência
+  para a Ucrânia
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A recente decisão do Conselho Europeu de iniciar negociações de adesão com a Ucrânia também surgiu durante as negociações, segundo Mark Rutte.
 

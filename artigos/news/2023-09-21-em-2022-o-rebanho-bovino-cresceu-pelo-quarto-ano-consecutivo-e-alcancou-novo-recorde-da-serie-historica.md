@@ -1,11 +1,13 @@
 ---
-title: "Em 2022, o rebanho bovino cresceu pelo quarto ano consecutivo e alcançou novo recorde da série histórica"
+title: Em 2022, o rebanho bovino cresceu pelo quarto ano consecutivo e alcançou novo
+  recorde da série histórica
 date: 2023-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento de 4,3% impulsionou o número de cabeças a 234,4 milhões, enquanto exportações de carne impulsionaram o setor pecuário.
 

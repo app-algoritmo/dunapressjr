@@ -1,11 +1,13 @@
 ---
-title: "Entre 82% e 97% das mulheres grávidas vacinadas perderam o bebê durante o ensaio clínico em andamento"
+title: Entre 82% e 97% das mulheres grávidas vacinadas perderam o bebê durante o ensaio
+  clínico em andamento
 date: 2023-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os documentos confidenciais da Pfizer, que o FDA foi obrigado a liberar por ordem judicial, mostram que 82% a 97% das mulheres que foram tratadas por engano com injeção de mRNA para Covid-19 sofreram um aborto espontâneo ou morreram quando o recém-nascido teve que testemunhar no nascimento.
 

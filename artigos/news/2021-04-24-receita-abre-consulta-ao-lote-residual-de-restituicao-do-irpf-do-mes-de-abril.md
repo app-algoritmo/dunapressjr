@@ -1,11 +1,12 @@
 ---
-title: "Receita abre consulta ao lote residual de restituição do IRPF do mês de abril"
+title: Receita abre consulta ao lote residual de restituição do IRPF do mês de abril
 date: 2021-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crédito para mais de 120 mil contribuintes totaliza R$ 183 milhões.
 

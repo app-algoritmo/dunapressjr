@@ -1,11 +1,12 @@
 ---
-title: "Estudo sugere que cães são melhores amigos das mulheres e não dos homens"
+title: Estudo sugere que cães são melhores amigos das mulheres e não dos homens
 date: 2024-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Um estudo da Universidade do Estado de Washington (WSU) revelou novos aspectos sobre [o relacionamento](https://olhardigital.com.br/2020/11/23/coronavirus/dois-caes-sao-infectados-pelo-novo-coronavirus-em-curitiba/) entre cães e humanos. Segundo os pesquisadores, os cães, na realidade, são melhores amigos das mulheres, e não dos homens, como popularmente são conhecidos os animais domésticos.
 

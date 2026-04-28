@@ -1,11 +1,12 @@
 ---
-title: "Programa Tempo de Aprender tem adesão de mais de 3.800 secretarias de educação"
+title: Programa Tempo de Aprender tem adesão de mais de 3.800 secretarias de educação
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo de adesão foi estendido até 31 de agosto; inscrições são realizadas pelo site do programa.
 

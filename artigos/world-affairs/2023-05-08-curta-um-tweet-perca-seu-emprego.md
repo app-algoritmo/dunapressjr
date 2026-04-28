@@ -1,11 +1,12 @@
 ---
-title: "Curta um tweet, perca seu emprego"
+title: Curta um tweet, perca seu emprego
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Opresidente da Thomas Jefferson University pode perder o emprego por gostar de tweets de Alex Berenson em sua conta pessoal. O episódio marca um alerta contra aqueles em instituições tradicionais de que qualquer desvio da ortodoxia prevalecente – não importa o quão pequeno – não será tolerado. 
 

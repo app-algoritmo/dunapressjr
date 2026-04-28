@@ -1,11 +1,12 @@
 ---
-title: "Scott Ritter Condena Ataque da Ucrânia a Sebastopol com Mísseis ATACMS"
+title: Scott Ritter Condena Ataque da Ucrânia a Sebastopol com Mísseis ATACMS
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No domingo, as forças ucranianas atacaram Sebastopol, na Rússia, com mísseis ATACMS fabricados nos EUA, equipados com ogivas cluster. Quatro mísseis foram lançados, dos quais um foi desviado e explodiu sobre a cidade, causando preocupação e indignação internacional.
 

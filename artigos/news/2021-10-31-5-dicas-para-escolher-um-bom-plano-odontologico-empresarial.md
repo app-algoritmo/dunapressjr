@@ -1,11 +1,12 @@
 ---
-title: "5 dicas para escolher um bom plano odontológico empresarial"
+title: 5 dicas para escolher um bom plano odontológico empresarial
 date: 2021-10-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 A saúde da cavidade oral está diretamente relacionada com o bem-estar de todo o organismo, com a concentração e até com a facilidade com novos aprendizados. Por isso, o **plano odontológico empresarial** pode ser essencial para os negócios. 
 

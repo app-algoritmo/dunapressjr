@@ -1,11 +1,13 @@
 ---
-title: "Governo brasileiro realiza extradição de argentino condenado por crimes como homicídio e sequestro"
+title: Governo brasileiro realiza extradição de argentino condenado por crimes como
+  homicídio e sequestro
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi extraditado para a Argentina, nesta quinta-feira (14), o nacional argentino Gonzalo Sanchez. O Governo argentino havia apresentado ao Ministério da Justiça e Segurança Pública brasileiro pedido de extradição em dezembro de 2011, tendo por base crimes como cárcere privado, prática de tortura, homicídio e sequestro, sendo o pedido amparado por Tratado Bilateral de Extradição entre Brasil e Argentina firmado em 1961.
 

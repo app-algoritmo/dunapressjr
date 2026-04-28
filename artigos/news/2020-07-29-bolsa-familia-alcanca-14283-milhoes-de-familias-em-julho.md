@@ -1,11 +1,12 @@
 ---
-title: "Bolsa Família alcança 14,283 milhões de famílias em julho"
+title: Bolsa Família alcança 14,283 milhões de famílias em julho
 date: 2020-07-29
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 95% do público recebem os recursos via Auxílio Emergencial, com repasse médio de R$ 1.115. Investimento do Governo Federal é de R$ 15,2 bilhões.
 

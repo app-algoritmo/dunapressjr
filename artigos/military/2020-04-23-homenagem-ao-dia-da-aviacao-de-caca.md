@@ -1,11 +1,12 @@
 ---
-title: "Homenagem ao Dia da Aviação de Caça"
+title: Homenagem ao Dia da Aviação de Caça
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Foi realizada, nesta quarta-feira (22), na Ala 12 - Base Aérea de Santa Cruz, localizada no Rio de Janeiro (RJ), uma homenagem alusiva ao Dia da Aviação de Caça e aos integrantes da Força Aérea Brasileira (FAB) que participaram da Segunda Guerra Mundial na Europa.
 

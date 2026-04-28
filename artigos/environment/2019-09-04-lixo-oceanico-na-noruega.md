@@ -1,12 +1,13 @@
 ---
-title: "Lixo oceânico na Noruega"
+title: Lixo oceânico na Noruega
 date: 2019-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
-  - Magazine
+- Environment
+- Magazine
 ---
+
 
 O lixo oceânico está entre as maiores preocupações de Haakon Magnus, Príncipe da Noruega, ao lado dos desafios climáticos e do [bem-estar das crianças](https://amzn.to/44nME5K), razão pela qual ele se empenha fortemente em realizar uma ampla variedade de compromissos oficiais na Noruega todos os anos, concentrando-se em: natureza - com especial foco nos oceanos,  empreendedorismo e inovação nos negócios, e juventude e diversidade.
 

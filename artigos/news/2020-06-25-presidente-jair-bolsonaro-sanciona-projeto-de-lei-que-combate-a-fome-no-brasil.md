@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro sanciona projeto de lei que combate a fome no Brasil"
+title: Presidente Jair Bolsonaro sanciona projeto de lei que combate a fome no Brasil
 date: 2020-06-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é evitar desperdício de alimentos e dispor sobre doação para grupos vulneráveis.
 

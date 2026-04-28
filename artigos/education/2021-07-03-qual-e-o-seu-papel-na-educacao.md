@@ -1,11 +1,12 @@
 ---
-title: "Qual é o seu papel na Educação?"
+title: Qual é o seu papel na Educação?
 date: 2021-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Já parou para pensar e responder a essa pergunta? Você acha que possui alguma responsabilidade sobre a Educação em nosso país? De acordo com a Lei de Diretrizes e Bases da Educação Nacional, a Educação está inserida em praticamente tudo em nossas vidas: na família, no trabalho, nos relacionamentos, na escola, na universidade, na sociedade e até mesmo na cultura. A Constituição Federal de 1988 diz que a Educação é um direito de todos e dever da família e do Estado e que seu objetivo é garantir o pleno desenvolvimento da pessoa. Se cada um fizesse parte para cumprir com esse dever e assegurar esse direito, poderíamos promover a transformação por meio da Educação. 
 

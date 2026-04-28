@@ -1,11 +1,12 @@
 ---
-title: "Microrganismos ajudam a eliminar petróleo do oceano"
+title: Microrganismos ajudam a eliminar petróleo do oceano
 date: 2021-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Projeto multidisciplinar das áreas de Oceanografia, Biologia e Microbiologia das Universidades Federais do Rio de Janeiro (UFRJ), Brasília (UnB), Alagoas (Ufal) e da Estadual de Santa Cruz (UESC), na Bahia, investigam a ação de microrganismo na biodegradação do petróleo no oceano. A pesquisa faz parte das 12 propostas do [Programa Entre Mares](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-capes-2013-entre-mares), iniciativa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Anualmente, 600 mil toneladas deste material bruto são lançadas no mar por problemas nos navios-petroleiros, vazamentos nas plataformas e rompimentos de dutos. 
 

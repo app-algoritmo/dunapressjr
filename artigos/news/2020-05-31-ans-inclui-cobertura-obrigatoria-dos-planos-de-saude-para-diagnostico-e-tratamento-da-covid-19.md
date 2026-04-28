@@ -1,11 +1,13 @@
 ---
-title: "ANS inclui cobertura obrigatória dos planos de saúde para diagnóstico e tratamento da Covid-19"
+title: ANS inclui cobertura obrigatória dos planos de saúde para diagnóstico e tratamento
+  da Covid-19
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os planos de saúde deverão incluir no rol de cobertura obrigatória mais seis exames que auxiliam no diagnóstico e tratamento do novo coronavírus.  
 

@@ -1,11 +1,12 @@
 ---
-title: "SP: Polícia Civil estoura duas “casas bombas” e apreende 395 tijolos de maconha"
+title: 'SP: Polícia Civil estoura duas “casas bombas” e apreende 395 tijolos de maconha'
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Além dos tijolos de maconha, foram apreendidos galões de lança-perfume e celulares; cinco homens foram presos em flagrante.
 

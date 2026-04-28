@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,40 com investidores vendendo moeda"
+title: Dólar cai para R$ 5,40 com investidores vendendo moeda
 date: 2022-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa recua 0,4% após dados de inflação recorde nos EUA.
 

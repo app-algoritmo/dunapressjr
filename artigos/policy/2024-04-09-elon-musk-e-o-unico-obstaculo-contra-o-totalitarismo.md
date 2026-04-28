@@ -1,12 +1,13 @@
 ---
-title: "Elon Musk é o Único Obstáculo Contra o Totalitarismo"
+title: Elon Musk é o Único Obstáculo Contra o Totalitarismo
 date: 2024-04-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Technology
+- Policy
+- Technology
 ---
+
 
 Na noite do dia 7 de abril de 2024, por volta das 20h no horário local de São Paulo, Brasil, o Ministro do Supremo Tribunal Federal Alexandre de Moraes anunciou uma investigação criminal contra Elon Musk, proprietário da X, anteriormente conhecida como Twitter, por supostamente disseminar desinformação, obstruir a justiça e permitir que pessoas banidas por De Moraes das redes sociais expressem livremente suas opiniões. De Moraes afirmou que multaria a X vinte mil dólares por dia para cada pessoa banida que Musk permitisse falar relata o jornalista [Michael Shellenberger](https://twitter.com/shellenberger/status/1777321420277628968).
 

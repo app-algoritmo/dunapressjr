@@ -1,11 +1,13 @@
 ---
-title: "China pede que EUA interrompam intimidação e restrição a estudantes chineses em nome da segurança nacional, diz porta-voz"
+title: China pede que EUA interrompam intimidação e restrição a estudantes chineses
+  em nome da segurança nacional, diz porta-voz
 date: 2024-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A China pediu nesta quinta-feira aos Estados Unidos que parem de intimidar e restringir estudantes chineses em nome da segurança nacional, acrescentando que os EUA precisam garantir a segurança e os direitos e interesses legais de estudantes e acadêmicos chineses no país.
 

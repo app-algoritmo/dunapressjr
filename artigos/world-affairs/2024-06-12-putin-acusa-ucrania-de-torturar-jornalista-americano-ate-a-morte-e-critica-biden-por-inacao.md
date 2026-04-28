@@ -1,11 +1,13 @@
 ---
-title: "Putin Acusa Ucrânia de Torturar Jornalista Americano até a Morte e Critica Biden por Inação"
+title: Putin Acusa Ucrânia de Torturar Jornalista Americano até a Morte e Critica
+  Biden por Inação
 date: 2024-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante uma conferência de imprensa em São Petersburgo, o presidente russo Vladimir Putin acusou a Ucrânia de torturar até a morte o jornalista americano Gonzalo Lira e criticou o governo dos Estados Unidos por não investigar o caso. Putin destacou que Lira estava preso desde maio de 2023, acusado de justificar as operações militares russas contra a Ucrânia, e morreu em um hospital de Kharkiv após sofrer um colapso pulmonar e pneumonia.
 

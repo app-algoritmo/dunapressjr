@@ -1,11 +1,12 @@
 ---
-title: "Beijo na boca traz riscos à saúde? Como aproveitar o carnaval com segurança"
+title: Beijo na boca traz riscos à saúde? Como aproveitar o carnaval com segurança
 date: 2024-02-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Para muitas pessoas, carnaval é época de bloquinho e muitos beijos, mas hábito pode trazer riscos reais à saúde.
 

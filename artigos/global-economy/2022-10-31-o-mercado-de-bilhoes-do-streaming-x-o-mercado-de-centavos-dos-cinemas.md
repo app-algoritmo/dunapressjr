@@ -1,11 +1,12 @@
 ---
-title: "O Mercado de Bilhões do Streaming x O Mercado de Centavos dos Cinemas"
+title: O Mercado de Bilhões do Streaming x O Mercado de Centavos dos Cinemas
 date: 2022-10-31
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A tecnologia de streaming existe há muito tempo, mas o mercado tomou forma e cresceu dos últimos anos pra cá.
 

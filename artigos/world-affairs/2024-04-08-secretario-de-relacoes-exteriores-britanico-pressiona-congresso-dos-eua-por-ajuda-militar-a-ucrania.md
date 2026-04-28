@@ -1,11 +1,13 @@
 ---
-title: "Secretário de Relações Exteriores Britânico Pressiona Congresso dos EUA por Ajuda Militar a Ucrânia"
+title: Secretário de Relações Exteriores Britânico Pressiona Congresso dos EUA por
+  Ajuda Militar a Ucrânia
 date: 2024-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Secretário de Relações Exteriores Britânico, David Cameron, está se preparando para uma viagem aos Estados Unidos na próxima semana, onde ele buscará persuadir os políticos a aprovar um pacote de ajuda militar para a Ucrânia.
 

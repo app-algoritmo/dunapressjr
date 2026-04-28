@@ -1,11 +1,13 @@
 ---
-title: "Rússia Lidera Iniciativa para Disruptar o Mercado de Cereais Global: O Impacto da Bolsa dos BRICS"
+title: 'Rússia Lidera Iniciativa para Disruptar o Mercado de Cereais Global: O Impacto
+  da Bolsa dos BRICS'
 date: 2024-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **A Rússia propõe a criação de uma bolsa de cereais dos BRICS: Impacto no mercado mundial**
 

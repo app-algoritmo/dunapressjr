@@ -1,11 +1,12 @@
 ---
-title: "Calendário da 2ª parcela do auxílio emergencial sai na próxima semana"
+title: Calendário da 2ª parcela do auxílio emergencial sai na próxima semana
 date: 2020-05-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A informação é do presidente da Caixa, Pedro Guimarães
 O calendário para o pagamento da segunda parcela do auxílio emergencial de R$ 600 sai na próxima semana. A informação foi dada nesta sexta-feira (1) pelo presidente da Caixa Econômica Federal, Pedro Guimarães, durante videoconferência para apresentar balanço do pagamento da primeira parcela.

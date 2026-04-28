@@ -1,11 +1,12 @@
 ---
-title: "Cercada pelo coronavírus,  Noruega resiste à ameaça dos países vizinhos"
+title: Cercada pelo coronavírus,  Noruega resiste à ameaça dos países vizinhos
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Instituto Norueguês de Saúde Pública FHI, laboratório de referência para testes de coronavírus analisou 58 amostras de pessoas com sintomas. No laboratório do Instituto de Saúde Pública, foram analisadas as amostras de pessoas com sintomas respiratórios que sofreram recentemente surtos na China ou que tiveram contato com pessoas infectadas. Testes de amostras realizadas em outros laboratórios na Noruega são registrados na FHI. 
 

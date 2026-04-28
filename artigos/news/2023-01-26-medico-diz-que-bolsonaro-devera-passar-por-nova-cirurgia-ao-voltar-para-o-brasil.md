@@ -1,11 +1,12 @@
 ---
-title: "Médico diz que Bolsonaro deverá passar por nova cirurgia ao voltar para o Brasil"
+title: Médico diz que Bolsonaro deverá passar por nova cirurgia ao voltar para o Brasil
 date: 2023-01-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O ex-presidente Jair Bolsonaro (PL) terá que passar por uma nova cirurgia quando retornar ao Brasil. O retorno do ex-chefe executivo inicialmente está previsto para o fim deste mês.
 

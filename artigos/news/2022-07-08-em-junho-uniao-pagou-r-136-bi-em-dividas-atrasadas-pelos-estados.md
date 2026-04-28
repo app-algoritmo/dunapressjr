@@ -1,11 +1,12 @@
 ---
-title: "Em junho, União pagou R$ 1,36 bi em dívidas atrasadas pelos estados"
+title: Em junho, União pagou R$ 1,36 bi em dívidas atrasadas pelos estados
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Rio de Janeiro é responsável pela maior fatia da dívida.
 

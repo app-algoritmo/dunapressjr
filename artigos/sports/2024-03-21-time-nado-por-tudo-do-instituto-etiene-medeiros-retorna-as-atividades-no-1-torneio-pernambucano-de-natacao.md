@@ -1,12 +1,14 @@
 ---
-title: "Time Nado por Tudo, do Instituto Etiene Medeiros, retorna às atividades no 1º Torneio Pernambucano de Natação"
+title: Time Nado por Tudo, do Instituto Etiene Medeiros, retorna às atividades no
+  1º Torneio Pernambucano de Natação
 date: 2024-03-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Swimming
+- Sports
+- Swimming
 ---
+
 
 ## Campeonato foi realizado no Centro Esportivo Santos Dumont, no Recife, mesmo local em que neste sábado (23) os alunos do Projeto Braçadas que Transformam do IEM participam da primeira etapa de uma competição para não federados.
 

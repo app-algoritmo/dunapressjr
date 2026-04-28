@@ -1,11 +1,13 @@
 ---
-title: "Óculos de realidade virtual tornam-se aliados na reabilitação de pacientes em hospital SUS"
+title: Óculos de realidade virtual tornam-se aliados na reabilitação de pacientes
+  em hospital SUS
 date: 2022-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lucas Erichsen sentia-se triste. Ele estava internado na Unidade de Terapia Intensiva (UTI), do Hospital Universitário Cajuru, em Curitiba (PR), onde se viu novamente isolado e distante de sua rotina. O primeiro internamento havia sido em 2017, após sofrer um acidente vascular cerebral (AVC). Três anos depois, um aneurisma e uma pneumonia o fizeram retornar ao hospital para receber cuidados médicos. Mais uma vez, todos os seus planos foram suspensos e ele deu início ao período mais difícil: a luta pela vida.
 

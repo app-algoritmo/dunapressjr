@@ -1,11 +1,12 @@
 ---
-title: "Locomotiva Rocket de Stepheson"
+title: Locomotiva Rocket de Stepheson
 date: 2019-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Da série: “50 máquinas que mudaram o rumo da História”. Vamos falar da Locomotiva Rocket de Stepheson.
 

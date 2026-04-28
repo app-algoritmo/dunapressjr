@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa partículas importantes na evolução do universo"
+title: Estudo analisa partículas importantes na evolução do universo
 date: 2021-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O estudo trata de fenômenos que envolvem interações em escalas muito pequenas, mas com papel fundamental na evolução do universo. Pedro Simoni Pasquini, graduado, mestre e doutor em Física pela Universidade Estadual de Campinas (Unicamp), é o autor da tese e um dos 49 vencedores da premiação oferecida pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 

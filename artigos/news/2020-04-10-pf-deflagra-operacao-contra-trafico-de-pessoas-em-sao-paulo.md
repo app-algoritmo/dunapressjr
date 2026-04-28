@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra operação contra tráfico de pessoas em São Paulo"
+title: PF deflagra operação contra tráfico de pessoas em São Paulo
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP - A Polícia Federal deflagrou nesta quinta-feira (9/4) operação para combater o crime de tráfico de pessoas, em São Paulo. A PF representou à Justiça Criminal Federal de São Paulo pela concessão de mandados de busca e apreensão de uma adolescente paraguaia. Foram cumpridos também mandados de busca e apreensão, em dois endereços na Região do Brás/SP.
 

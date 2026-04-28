@@ -1,11 +1,13 @@
 ---
-title: "Insultar religiões divinas contrária às leis internacionais, diz parlamentar cristão do Irã"
+title: Insultar religiões divinas contrária às leis internacionais, diz parlamentar
+  cristão do Irã
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O representante dos cristãos assírio-caldeus do Irã no parlamento destacou que insultar as religiões divinas está em contradição com os convênios e regulamentos internacionais, bem como com os direitos de todos os seres humanos, em particular os irmãos muçulmanos.
 

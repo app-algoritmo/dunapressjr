@@ -1,11 +1,12 @@
 ---
-title: "OTAN diz não à Ucrânia"
+title: OTAN diz não à Ucrânia
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os EUA e seus aliados apóiam a mesma guerra que agora citam como a razão para excluir Kiev da adesão à OTAN.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trump anuncia vitória nas primárias de New Hampshire"
+title: Trump anuncia vitória nas primárias de New Hampshire
 date: 2024-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Donald Trump classificou-a como uma grande vitória ao falar com os seus apoiantes numa reunião transmitida pelo canal de televisão Fox News.
 

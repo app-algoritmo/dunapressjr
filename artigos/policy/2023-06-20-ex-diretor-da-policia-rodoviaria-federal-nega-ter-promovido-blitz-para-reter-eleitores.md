@@ -1,11 +1,13 @@
 ---
-title: "Ex-diretor da Polícia Rodoviária Federal nega ter promovido blitz para reter eleitores"
+title: Ex-diretor da Polícia Rodoviária Federal nega ter promovido blitz para reter
+  eleitores
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Silvinei Vasques se aposentou ao deixar o cargo, no final do governo Bolsonaro.
 

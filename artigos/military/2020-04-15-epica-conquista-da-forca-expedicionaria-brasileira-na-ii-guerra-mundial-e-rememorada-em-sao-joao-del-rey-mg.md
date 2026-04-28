@@ -1,11 +1,13 @@
 ---
-title: "Épica conquista da Força Expedicionária Brasileira na II Guerra Mundial é rememorada em São João Del-Rey (MG)"
+title: Épica conquista da Força Expedicionária Brasileira na II Guerra Mundial é rememorada
+  em São João Del-Rey (MG)
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São João del-Rei (MG)** – O 11º Batalhão de Infantaria de Montanha (11º BIMth) realizou, dia 14 de abril, uma homenagem aos 75 anos da "Tomada de Montese", no monumento aos integrantes da Força Expedicionária Brasileira (FEB). Para os militares, celebrar essa data é rememorar os feitos dos heróis brasileiros que participaram da luta contra o regime nazifascista que se alastrava pela Europa, por ocasião da 2ª Guerra Mundial. Homenagear esses homens, muitos deles filhos de São João del-Rei, é manter viva a chama do sentimento de liberdade, tão presente na terra onde nasceu Tiradentes, protomártir da Independência do Brasil.
 

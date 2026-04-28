@@ -1,11 +1,12 @@
 ---
-title: "Nanotecnologia pode ser saída para a queda de cabelo"
+title: Nanotecnologia pode ser saída para a queda de cabelo
 date: 2021-11-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Farmacêutico graduado pela [Universidade Presidente Antônio Carlos](https://www.escavador.com/sobre/24537558/universidade-presidente-antonio-carlos) (MG), Miguel Gontijo Siqueira Palmieri tem mestrado em Ciências Farmacêuticas pela Universidade Federal de Juiz de Fora (MG) e, atualmente, desenvolve pesquisa de doutorado também na mesma instituição. O bolsista encontra-se  na Itália, onde faz parte de seu doutorado-sanduíche na Universidade de Pisa. Seus estudos buscam uma nova estratégia para o tratamento da alopecia – conhecida popularmente como queda de cabelo –  a partir de  um medicamento nanotecnológico, de uso tópico, que não provoque efeitos colaterais.
 

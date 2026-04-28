@@ -1,11 +1,13 @@
 ---
-title: "Documentos vazados revelam que o 'Pausado' 'Conselho de Governança de Desinformação' está de volta online"
+title: Documentos vazados revelam que o 'Pausado' 'Conselho de Governança de Desinformação'
+  está de volta online
 date: 2022-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O 'Ministério da Verdade' da América não acabou: Washington oficial não abandonou seu plano de controlar as redes sociais.
 

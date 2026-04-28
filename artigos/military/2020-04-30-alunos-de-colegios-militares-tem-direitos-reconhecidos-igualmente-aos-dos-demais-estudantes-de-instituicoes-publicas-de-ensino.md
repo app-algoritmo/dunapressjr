@@ -1,11 +1,13 @@
 ---
-title: "Alunos de colégios militares têm direitos reconhecidos igualmente aos dos demais estudantes de instituições públicas de ensino"
+title: Alunos de colégios militares têm direitos reconhecidos igualmente aos dos demais
+  estudantes de instituições públicas de ensino
 date: 2020-04-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os alunos dos 14 Colégios Militares do Brasil são considerados como egressos de escolas públicas para todos os fins e direitos. Dessa forma, concorrem em igualdade de condições com os demais alunos de instituições públicas de ensino.
 

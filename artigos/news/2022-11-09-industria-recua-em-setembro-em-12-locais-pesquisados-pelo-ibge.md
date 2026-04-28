@@ -1,11 +1,12 @@
 ---
-title: "Indústria recua em setembro em 12 locais pesquisados pelo IBGE"
+title: Indústria recua em setembro em 12 locais pesquisados pelo IBGE
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Maiores quedas foram em Santa Catarina e no Paraná.
 

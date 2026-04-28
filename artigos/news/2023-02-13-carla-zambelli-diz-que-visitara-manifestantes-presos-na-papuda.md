@@ -1,11 +1,12 @@
 ---
-title: "Carla Zambelli diz que visitará manifestantes presos na Papuda"
+title: Carla Zambelli diz que visitará manifestantes presos na Papuda
 date: 2023-02-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Na manhã desta segunda-feira (13), a deputada federal Carla Zambelli (PL-SP) usou as redes sociais para anunciar fará uma visita aos presos no Complexo Penitenciário da Papuda.
 

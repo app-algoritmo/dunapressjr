@@ -1,11 +1,12 @@
 ---
-title: "Vendas de veículos novos crescem 0,22% no país"
+title: Vendas de veículos novos crescem 0,22% no país
 date: 2022-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em junho, foram vendidas 133.578 unidades.
 

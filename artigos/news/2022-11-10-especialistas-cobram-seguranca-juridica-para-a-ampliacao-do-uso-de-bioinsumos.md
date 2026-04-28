@@ -1,11 +1,12 @@
 ---
-title: "Especialistas cobram segurança jurídica para a ampliação do uso de bioinsumos"
+title: Especialistas cobram segurança jurídica para a ampliação do uso de bioinsumos
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores e representantes da agroindústria defenderam, na Câmara dos Deputados, a garantia de segurança jurídica para manter o crescimento do mercado de bioinsumos no Brasil. O debate, promovido pela Frente Parlamentar Mista da Bioeconomia nesta terça-feira (8), discutiu duas propostas legislativas sobre o tema e projetou perspectiva de movimentação global de 11 bilhões de dólares neste mercado a partir de 2025.
 

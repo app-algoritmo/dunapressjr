@@ -1,11 +1,12 @@
 ---
-title: "Medida provisória estabelece novas regras para o SIM Digital"
+title: Medida provisória estabelece novas regras para o SIM Digital
 date: 2022-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Programa oferece crédito para os empreendedores individuais.
 

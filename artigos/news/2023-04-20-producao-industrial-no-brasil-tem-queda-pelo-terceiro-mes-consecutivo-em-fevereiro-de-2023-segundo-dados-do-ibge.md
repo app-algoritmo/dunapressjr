@@ -1,11 +1,13 @@
 ---
-title: "Produção industrial no Brasil tem queda pelo terceiro mês consecutivo em fevereiro de 2023, segundo dados do IBGE"
+title: Produção industrial no Brasil tem queda pelo terceiro mês consecutivo em fevereiro
+  de 2023, segundo dados do IBGE
 date: 2023-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve recuo de 2,4% frente a fevereiro de 2022.
 

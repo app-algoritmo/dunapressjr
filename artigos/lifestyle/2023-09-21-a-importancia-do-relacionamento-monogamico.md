@@ -1,11 +1,12 @@
 ---
-title: "A importância do Relacionamento Monogâmico"
+title: A importância do Relacionamento Monogâmico
 date: 2023-09-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 # Relacionamento Monogâmico é uma utopia?
 

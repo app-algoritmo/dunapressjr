@@ -1,11 +1,12 @@
 ---
-title: "BC diz que 2022 deve fechar com inflação de 7,1%"
+title: BC diz que 2022 deve fechar com inflação de 7,1%
 date: 2022-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice deve cair para 3,4% em 2023.
 

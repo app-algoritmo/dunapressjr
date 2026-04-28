@@ -1,11 +1,13 @@
 ---
-title: "Medidas para conter o Covid resultaram em um aumento de 23 vezes nas mortes por Covid"
+title: Medidas para conter o Covid resultaram em um aumento de 23 vezes nas mortes
+  por Covid
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Os Amish não vacinados foram o grupo de controle. Sua taxa de mortalidade por COVID foi 23 vezes menor do que a das comunidades vizinhas. Seu segredo? Eles ignoraram TODAS as recomendações do CDC.
 

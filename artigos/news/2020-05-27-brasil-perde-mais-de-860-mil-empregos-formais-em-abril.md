@@ -1,11 +1,12 @@
 ---
-title: "Brasil perde mais de 860 mil empregos formais em abril"
+title: Brasil perde mais de 860 mil empregos formais em abril
 date: 2020-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 De janeiro a abril foram 4.999.981 admissões e 5.763.213 demissões.
 

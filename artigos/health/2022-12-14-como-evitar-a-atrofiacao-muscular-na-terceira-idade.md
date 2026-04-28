@@ -1,11 +1,12 @@
 ---
-title: "Como evitar a atrofiação muscular na terceira idade?"
+title: Como evitar a atrofiação muscular na terceira idade?
 date: 2022-12-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Durante a terceira idade muitos acabam perdendo a preocupação com a estética do corpo, diferente de quando somos mais jovens e estamos sempre em busca de uma versão melhor de nós mesmos. Porém, cuidar dos músculos não está relacionado apenas com a estética e sim com a saúde também. 
 

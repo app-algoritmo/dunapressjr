@@ -1,11 +1,12 @@
 ---
-title: "Bitcoin e Liberdade Individual: Reflexões de Renato Amoedo e Bruna Torlay"
+title: 'Bitcoin e Liberdade Individual: Reflexões de Renato Amoedo e Bruna Torlay'
 date: 2024-07-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Financial Education
+- Financial Education
 ---
+
 
 No cenário atual de crescente controle e centralização, muitos indivíduos buscam alternativas para preservar sua liberdade e privacidade. Uma dessas alternativas é o Bitcoin, frequentemente discutido por figuras como Renato Amoedo e Bruna Torlay, que enxergam na criptomoeda um potencial instrumento de resistência ao controle institucionalizado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Empoderando o ChatGPT como um 'Companheiro de Química'"
+title: Empoderando o ChatGPT como um 'Companheiro de Química'
 date: 2023-08-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 O desenvolvimento de novos materiais requer tempo e trabalho significativos, mas alguns químicos agora esperam que a inteligência artificial (IA) possa um dia arcar com grande parte desse fardo.
 

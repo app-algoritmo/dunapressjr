@@ -1,11 +1,13 @@
 ---
-title: "A Universidade revela o impacto negativo dos ultraprocessados no desenvolvimento do esqueleto das crianças"
+title: A Universidade revela o impacto negativo dos ultraprocessados no desenvolvimento
+  do esqueleto das crianças
 date: 2021-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Uma equipe de pesquisadores da Universidade Hebraica de Jerusalém provou as ligações entre os alimentos ultraprocessados ​​e a redução da qualidade óssea, revelando os danos desses alimentos, principalmente para crianças mais novas em seus anos de desenvolvimento.
 

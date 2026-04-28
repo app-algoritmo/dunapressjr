@@ -1,11 +1,13 @@
 ---
-title: "COVID-19: Governo Bolsonaro vai investir em produção nacional de equipamentos, testes e diagnósticos"
+title: 'COVID-19: Governo Bolsonaro vai investir em produção nacional de equipamentos,
+  testes e diagnósticos'
 date: 2020-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Ciência, Tecnologia, Inovações e Comunicações anunciou a liberação de R$ 352,8 milhões para cerca de cem projetos ligados ao enfrentamento à pandemia do novo coronavírus. Os recursos fazem parte da Medida Provisória 962 de 2020.
 

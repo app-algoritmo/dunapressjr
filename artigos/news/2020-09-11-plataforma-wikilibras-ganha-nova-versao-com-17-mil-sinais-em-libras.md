@@ -1,11 +1,12 @@
 ---
-title: "Plataforma Wikilibras ganha nova versão com 17 mil sinais em Libras"
+title: Plataforma Wikilibras ganha nova versão com 17 mil sinais em Libras
 date: 2020-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nova versão permite mais colaboração dos usuários e criação de sinais automatizada, além de cursos de capacitação. 
 

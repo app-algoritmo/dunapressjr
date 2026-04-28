@@ -1,11 +1,13 @@
 ---
-title: "A Importância de Estoque de Alimentos, Água e Combustíveis para Enfrentar Catástrofes Futuras"
+title: A Importância de Estoque de Alimentos, Água e Combustíveis para Enfrentar Catástrofes
+  Futuras
 date: 2024-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Diante de um mundo cada vez mais sujeito a eventos extremos, como desastres naturais, pandemias e crises econômicas, a preparação adequada torna-se essencial para garantir a segurança e o bem-estar de nossas famílias e comunidades. Uma parte fundamental dessa preparação é a manutenção de estoques de alimentos, água e combustíveis, que podem ser vitais para enfrentar catástrofes futuras.
 

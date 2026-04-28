@@ -1,11 +1,12 @@
 ---
-title: "Inflação acumulada em 12 meses passa de 10% em oito capitais"
+title: Inflação acumulada em 12 meses passa de 10% em oito capitais
 date: 2021-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Curitiba tem a maior alta, com IPCA de 12,08%, diz IBGE.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro contrata 267 profissionais de saúde para atuar no Amazonas"
+title: Governo Bolsonaro contrata 267 profissionais de saúde para atuar no Amazonas
 date: 2020-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A primeira equipe de profissionais de saúde cadastrados na estratégia “O Brasil Conta Comigo” segue neste domingo para Manaus.
 

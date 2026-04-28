@@ -1,11 +1,13 @@
 ---
-title: "O novo orçamento militar de US$ 53 bilhões do Japão visa tornar o país um representante dos EUA"
+title: O novo orçamento militar de US$ 53 bilhões do Japão visa tornar o país um representante
+  dos EUA
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A decisão do Ministério da Defesa japonês de solicitar um aumento recorde nos gastos militares ameaça a paz e a estabilidade na região Ásia-Pacífico, disse à Sputnik o analista geopolítico e ex-fuzileiro naval dos EUA Brian Berletic.
 

@@ -1,11 +1,12 @@
 ---
-title: "UFMG e Fiocruz desenvolvem teste Elisa para detectar coronavírus"
+title: UFMG e Fiocruz desenvolvem teste Elisa para detectar coronavírus
 date: 2020-06-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Método detecta a presença de anticorpos contra o vírus em laboratório.
 

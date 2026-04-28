@@ -1,11 +1,13 @@
 ---
-title: "A Rússia não está blefando: os exercícios nucleares táticos são um forte alerta à OTAN"
+title: 'A Rússia não está blefando: os exercícios nucleares táticos são um forte alerta
+  à OTAN'
 date: 2024-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os militares russos emitiram uma resposta contundente às recentes declarações beligerantes de autoridades e legisladores em Washington, Paris e Londres sobre o posicionamento de tropas na Ucrânia, anunciando exercícios de armas nucleares no campo de batalha. Em meio a crescentes tensões, a Sputnik consultou Earl Rasmussen, um veterano de 20 anos do Exército dos EUA que se tornou observador militar independente e analista de política externa, para interpretar os acontecimentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Linha de crédito para recuperação de cafezais aumenta para R$ 160 milhões"
+title: Linha de crédito para recuperação de cafezais aumenta para R$ 160 milhões
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi ampliada dos atuais R$ 10 milhões para R$ 160 milhões a linha de crédito para financiar a recuperação dos cafezais com recursos do Fundo de Defesa da Economia Cafeeira (Funcafé). A medida foi aprovada nessa quinta-feira (26) em reunião virtual do Conselho Monetário Nacional (CMN).
 

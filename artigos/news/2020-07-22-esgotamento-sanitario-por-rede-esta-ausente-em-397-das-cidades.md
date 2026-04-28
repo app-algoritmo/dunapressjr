@@ -1,11 +1,12 @@
 ---
-title: "Esgotamento sanitário por rede está ausente em 39,7% das cidades"
+title: Esgotamento sanitário por rede está ausente em 39,7% das cidades
 date: 2020-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 São gerados 21,3 milhões de metros cúbicos de esgoto por dia no país.
 

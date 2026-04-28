@@ -1,11 +1,12 @@
 ---
-title: "Setor industrial demonstra otimismo com a economia nos próximos meses"
+title: Setor industrial demonstra otimismo com a economia nos próximos meses
 date: 2022-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Confiança da indústria melhora pelo segundo mês consecutivo.
 

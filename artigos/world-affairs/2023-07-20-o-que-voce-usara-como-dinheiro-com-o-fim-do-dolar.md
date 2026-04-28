@@ -1,11 +1,12 @@
 ---
-title: "O que você usará como dinheiro com o fim do dólar?"
+title: O que você usará como dinheiro com o fim do dólar?
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O dólar americano poderia um dia seguir o caminho de todas as moedas fiduciárias do passado e ser queimado em um incêndio hiperinflacionário. Parece improvável, mas é possível. De certa forma, dada a política imprudente dos últimos três anos, talvez devêssemos nos surpreender por isso ainda não ter acontecido.
 

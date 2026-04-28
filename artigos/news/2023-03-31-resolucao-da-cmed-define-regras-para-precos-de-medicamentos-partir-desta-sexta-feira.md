@@ -1,11 +1,12 @@
 ---
-title: "Resolução da CMED define regras para preços de medicamentos partir desta sexta-feira"
+title: Resolução da CMED define regras para preços de medicamentos partir desta sexta-feira
 date: 2023-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A [Resolução CMED nº 1, de 30 de março de 2023](https://www.in.gov.br/en/web/dou/-/resolucao-cm-cmed-n-1-de-30-de-marco-de-2023-474521948), publicada no Diário Oficial da União desta quinta-feira (30) , define as regras para a definição do Preço Fabricante (PF) e do Preço Máximo ao Consumidor (PMC) dos medicamentos em 31 de março de 2023. A medida também estabelece a forma de apresentação do Relatório de Comercialização à Câmara de Regulação do Mercado de Medicamentos (CMED) e disciplina a publicidade dos preços dos produtos farmacêuticos.
 

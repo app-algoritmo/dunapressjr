@@ -1,11 +1,12 @@
 ---
-title: "Circo pega fogo e STF joga gasolina"
+title: Circo pega fogo e STF joga gasolina
 date: 2019-02-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## STF anula votação no Senado e eleição será secreta
 

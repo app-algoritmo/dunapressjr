@@ -1,11 +1,12 @@
 ---
-title: "Homicídios no Brasil registram queda de 20,3%"
+title: Homicídios no Brasil registram queda de 20,3%
 date: 2020-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil registrou redução de 20,3% no número de crimes de homicídios, de janeiro a novembro de 2019, comparado ao mesmo período do ano anterior. Os números foram divulgados nessa segunda-feira (16), e constam no Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas (Sinesp), do Ministério da Justiça e Segurança Pública.
 

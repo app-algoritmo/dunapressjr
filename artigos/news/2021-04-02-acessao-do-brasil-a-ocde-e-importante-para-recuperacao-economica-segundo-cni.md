@@ -1,11 +1,12 @@
 ---
-title: "Acessão do Brasil à OCDE é importante para recuperação econômica, segundo CNI"
+title: Acessão do Brasil à OCDE é importante para recuperação econômica, segundo CNI
 date: 2021-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## De um total de 245 instrumentos, o Brasil já aderiu a 99 das políticas públicas que fazem parte do acervo normativo da organização.
 

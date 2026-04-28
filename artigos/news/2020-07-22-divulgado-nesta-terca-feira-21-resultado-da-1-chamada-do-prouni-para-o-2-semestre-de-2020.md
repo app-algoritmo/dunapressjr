@@ -1,11 +1,13 @@
 ---
-title: "Divulgado nesta terça-feira (21) resultado da 1ª chamada do Prouni para o 2º semestre de 2020"
+title: Divulgado nesta terça-feira (21) resultado da 1ª chamada do Prouni para o 2º
+  semestre de 2020
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Em agosto serão divulgados os resultados da segunda chamada, dia 4, e da lista de espera, dia 24.
 

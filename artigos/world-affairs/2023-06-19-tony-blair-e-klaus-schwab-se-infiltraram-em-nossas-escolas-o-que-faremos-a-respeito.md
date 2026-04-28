@@ -1,11 +1,13 @@
 ---
-title: "Tony Blair e Klaus Schwab se infiltraram em nossas escolas, o que faremos a respeito?"
+title: Tony Blair e Klaus Schwab se infiltraram em nossas escolas, o que faremos a
+  respeito?
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os globalistas têm dinheiro e recursos para "educar" os jovens. Você tem um plano. Temos um?
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente afirma que o Paraguai se tornará em breve uma potência mundial na produção de arroz"
+title: Presidente afirma que o Paraguai se tornará em breve uma potência mundial na
+  produção de arroz
 date: 2024-01-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 “Assim como hoje já somos uma potência na soja, em breve seremos também uma potência no arroz”, afirmou o Presidente da República, Santiago Peña, na conferência técnica do arroz em que participou. Quinta-feira, na fazenda 7 Puntas, no departamento de Presidente Hayes, Chaco paraguaio.
 

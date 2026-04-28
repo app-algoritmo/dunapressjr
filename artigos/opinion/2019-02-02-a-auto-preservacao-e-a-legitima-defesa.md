@@ -1,11 +1,12 @@
 ---
-title: "A auto-preservação e a legítima defesa"
+title: A auto-preservação e a legítima defesa
 date: 2019-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A instrução do Senhor Jesus é mais do que uma orientação, é uma ordenança para estarmos preparados e guarnecidos para defender nossa vida e de nossa família, em cumprimento ao 6º mandamento: “Não matarás” (Êxodo 20:13), pois este engloba também a auto-preservação e a legítima defesa. 
 

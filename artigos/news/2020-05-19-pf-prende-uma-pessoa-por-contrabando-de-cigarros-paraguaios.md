@@ -1,11 +1,12 @@
 ---
-title: "PF prende uma pessoa por contrabando de cigarros paraguaios"
+title: PF prende uma pessoa por contrabando de cigarros paraguaios
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Na manhã de segunda-feira (18/5), a Polícia Federal prendeu em flagrante um homem de 54 anos pela prática de contrabando, em Minas Gerais. Policiais Federais flagraram o momento em que o homem utilizava um veículo como depósito de cigarros contrabandeados.
 

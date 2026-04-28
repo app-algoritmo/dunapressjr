@@ -1,11 +1,12 @@
 ---
-title: "Irã condena veementemente ataques dos EUA e do Reino Unido contra o Iêmen"
+title: Irã condena veementemente ataques dos EUA e do Reino Unido contra o Iêmen
 date: 2024-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O porta-voz do Ministério das Relações Exteriores do Irã, Nasser Kanaani, denunciou categoricamente os ataques lançados pelos EUA e pelo Reino Unido contra o Iêmen.
 

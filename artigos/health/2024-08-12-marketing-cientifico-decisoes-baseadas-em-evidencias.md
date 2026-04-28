@@ -1,11 +1,12 @@
 ---
-title: "Marketing Científico: Decisões Baseadas em Evidências"
+title: 'Marketing Científico: Decisões Baseadas em Evidências'
 date: 2024-08-12
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Health
+- Health
 ---
+
 
 ### Marketing Digital
 

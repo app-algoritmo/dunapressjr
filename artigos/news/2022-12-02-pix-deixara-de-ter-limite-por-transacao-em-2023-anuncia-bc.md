@@ -1,11 +1,12 @@
 ---
-title: "Pix deixará de ter limite por transação em 2023, anuncia BC"
+title: Pix deixará de ter limite por transação em 2023, anuncia BC
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aposentadorias e pensões passarão a ser pagos por essa modalidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "INSS pagará revisão de auxílios por incapacidade em maio"
+title: INSS pagará revisão de auxílios por incapacidade em maio
 date: 2022-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Último lote do calendário beneficiará 10.941 beneficiários.
 

@@ -1,11 +1,12 @@
 ---
-title: "Municípios começam a receber recursos destinados à assistência social"
+title: Municípios começam a receber recursos destinados à assistência social
 date: 2020-05-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O dinheiro é referente aos meses de abril, maio e junho
 Recursos da ordem de R$ 600 milhões serão transferidos para a assistência social de todos os municípios, a partir desta sexta-feira (8). A transferência do dinheiro é referente aos meses de abril, maio e junho e será feita pelo Ministério da Cidadania, por meio do Fundo Nacional de Assistência Social, e tem por objetivo proteger a população vulnerável, que mais tem sofrido as consequências da pandemia do novo coronavírus (covid-19).

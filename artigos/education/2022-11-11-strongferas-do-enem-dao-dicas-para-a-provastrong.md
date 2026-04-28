@@ -1,11 +1,12 @@
 ---
-title: "<strong>Feras do Enem dão dicas para a prova</strong>"
+title: <strong>Feras do Enem dão dicas para a prova</strong>
 date: 2022-11-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A menos de dois meses da realização da prova, o Exame Nacional do Ensino Médio (Enem) é atualmente a principal porta de entrada dos vestibulandos para a faculdade. De acordo com o Ministério da Educação, só no primeiro semestre de 2022, 1.054.474 pessoas se inscreveram no processo seletivo do Sistema de Seleção Unificada (Sisu), programa que utiliza a nota do Enem para o ingresso nas faculdades públicas do país. Já o Programa Universidade para Todos (ProUni), que oferece bolsas de estudos integrais e parciais nas instituições de ensino privadas do Brasil, também via nota do Enem, recebeu 544.755 inscrições no mesmo período.
 

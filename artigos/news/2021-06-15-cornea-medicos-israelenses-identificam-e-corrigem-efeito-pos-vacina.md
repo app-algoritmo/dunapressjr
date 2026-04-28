@@ -1,11 +1,12 @@
 ---
-title: "Córnea: médicos israelenses identificam e corrigem efeito pós-vacina"
+title: 'Córnea: médicos israelenses identificam e corrigem efeito pós-vacina'
 date: 2021-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Alguns pacientes com transplante de córnea relatam rejeição, mas as equipes agora sabem como tratá-la ou preveni-la com esteróides.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça detalhes do auxílio a pequenas e médias empresas"
+title: Conheça detalhes do auxílio a pequenas e médias empresas
 date: 2020-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medida beneficiará 1,4 milhão de empresas e 12,2 milhões de pessoas
 

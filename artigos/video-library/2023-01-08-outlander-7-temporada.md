@@ -1,11 +1,12 @@
 ---
-title: "Outlander 7 Temporada"
+title: Outlander 7 Temporada
 date: 2023-01-08
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

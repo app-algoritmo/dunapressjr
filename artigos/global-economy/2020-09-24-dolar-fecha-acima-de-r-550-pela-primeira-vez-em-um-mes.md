@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha acima de R$ 5,50 pela primeira vez em um mês"
+title: Dólar fecha acima de R$ 5,50 pela primeira vez em um mês
 date: 2020-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu para menor nível desde junho em dia de turbulências.
 

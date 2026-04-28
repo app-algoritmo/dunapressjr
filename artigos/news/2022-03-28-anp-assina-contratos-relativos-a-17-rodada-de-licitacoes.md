@@ -1,11 +1,12 @@
 ---
-title: "ANP assina contratos relativos à 17ª Rodada de Licitações"
+title: ANP assina contratos relativos à 17ª Rodada de Licitações
 date: 2022-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em outubro, leilão arrecadou R$ 37 milhões em bônus.
 

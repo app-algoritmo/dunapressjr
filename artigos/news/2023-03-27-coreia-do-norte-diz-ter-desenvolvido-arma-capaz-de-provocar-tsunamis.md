@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte diz ter desenvolvido arma capaz de provocar tsunamis"
+title: Coreia do Norte diz ter desenvolvido arma capaz de provocar tsunamis
 date: 2023-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Coreia do Norte disse na quinta-feira (23 de março) que estava realizando testes de um novo sistema balístico de drones para um ataque subaquático.
 

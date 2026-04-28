@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova aumento de pena para aliciamento de menores por meio da internet"
+title: Comissão aprova aumento de pena para aliciamento de menores por meio da internet
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou projeto de lei que altera o [Estatuto da Criança e do Adolescente (ECA)](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8069-13-julho-1990-372211-norma-pl.html) para aumentar em 1/3 a pena imposta a quem praticar o crime de aliciamento de crianças e adolescentes por meio de aplicativos de comunicação via internet. Com a mudança, a pena de reclusão passará a ser de 4 anos a 8 anos e multa.
 

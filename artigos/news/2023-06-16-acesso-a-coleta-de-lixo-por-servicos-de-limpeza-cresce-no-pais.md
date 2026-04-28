@@ -1,11 +1,12 @@
 ---
-title: "Acesso à coleta de lixo por serviços de limpeza cresce no país"
+title: Acesso à coleta de lixo por serviços de limpeza cresce no país
 date: 2023-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar dos avanços, queima de lixo ainda é comum em áreas rurais.
 

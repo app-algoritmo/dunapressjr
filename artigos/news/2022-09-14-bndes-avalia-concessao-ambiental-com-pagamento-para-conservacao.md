@@ -1,11 +1,12 @@
 ---
-title: "BNDES avalia concessão ambiental com pagamento para conservação"
+title: BNDES avalia concessão ambiental com pagamento para conservação
 date: 2022-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estudos serão realizados por consórcio contratado pelo banco.
 

@@ -1,11 +1,12 @@
 ---
-title: "Autonomia do Banco Central é aprovada pela Câmara"
+title: Autonomia do Banco Central é aprovada pela Câmara
 date: 2021-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria segue para sanção presidencial.
 

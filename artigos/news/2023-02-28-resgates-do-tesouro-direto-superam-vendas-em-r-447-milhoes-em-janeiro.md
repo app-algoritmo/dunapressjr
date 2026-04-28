@@ -1,11 +1,12 @@
 ---
-title: "Resgates do Tesouro Direto superam vendas em R$ 447 milhões em janeiro"
+title: Resgates do Tesouro Direto superam vendas em R$ 447 milhões em janeiro
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Número de investidores ativos passa de 2 milhões.
 

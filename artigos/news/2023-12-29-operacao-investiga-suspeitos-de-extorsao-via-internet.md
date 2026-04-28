@@ -1,11 +1,12 @@
 ---
-title: "Operação investiga suspeitos de extorsão via internet"
+title: Operação investiga suspeitos de extorsão via internet
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ### Vítimas eram escolhidas em grupos de aplicativos de troca de mensagens
 

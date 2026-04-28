@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro comemorou a data ao lado da Primeira-Dama e autoridades"
+title: Presidente Jair Bolsonaro comemorou a data ao lado da Primeira-Dama e autoridades
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A bordo do Rolls-Royce presidencial e acompanhado por crianças, o Presidente da República, Jair Bolsonaro, deu início às comemoração do 7 de Setembro, Dia da Independência, nesta manhã, no Palácio da Alvorada, em Brasília (DF).
 

@@ -1,11 +1,12 @@
 ---
-title: "Aneel aprova reajuste na conta de luz em quatro estados"
+title: Aneel aprova reajuste na conta de luz em quatro estados
 date: 2022-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Rio Grande do Norte, Sergipe, Bahia e Ceará terão novos valores.
 

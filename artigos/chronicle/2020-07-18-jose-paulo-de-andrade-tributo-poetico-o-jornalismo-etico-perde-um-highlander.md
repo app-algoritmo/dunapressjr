@@ -1,12 +1,13 @@
 ---
-title: "José Paulo de Andrade | Tributo poético | O jornalismo ético perde um Highlander"
+title: José Paulo de Andrade | Tributo poético | O jornalismo ético perde um Highlander
 date: 2020-07-18
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
-  - News
+- Chronicle
+- News
 ---
+
 
 **NON DVCOR; DVCO!** (Não sou conduzido; conduzo!) | Convidamos para celebrar o aniversário de São Paulo | Degustação por meio de uma das vidas que se tornou mais emblemática da Metrópole ao Brasil inteiro. A voz dele é a poesia de todos os patriotas e jornalistas éticos para a Capital Mundial do Cosmopolitanismo. Os herdeiros do Trabuco: Eis a homenagem...
 

@@ -1,11 +1,13 @@
 ---
-title: "Lançado edital de R$ 5 milhões para apoiar a inserção de pesquisadores em empresas incubadas"
+title: Lançado edital de R$ 5 milhões para apoiar a inserção de pesquisadores em empresas
+  incubadas
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Ciência, Tecnologia e Inovações lançou, nesta terça-feira (24), chamada pública de R$ 5 milhões para apoiar a inserção de pesquisadores em empresas vinculadas às melhores incubadoras do país. A iniciativa faz parte do Programa Nacional de Apoio aos Ambientes Inovadores (PNI) e é promovida pela pasta e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), em parceria com o Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap) e a Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores (Anprotec).
 

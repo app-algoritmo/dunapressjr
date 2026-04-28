@@ -1,11 +1,12 @@
 ---
-title: "Instituições tem prazo aberto para pedidos de reconsideração"
+title: Instituições tem prazo aberto para pedidos de reconsideração
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Instituições têm até o dia 21 de julho para solicitarem reconsideração ao resultado da Análise de Propostas de Cursos Novos para cursos de pós-graduação stricto sensu.
 

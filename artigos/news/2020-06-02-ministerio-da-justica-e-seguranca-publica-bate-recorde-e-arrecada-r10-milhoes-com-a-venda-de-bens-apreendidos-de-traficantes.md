@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública bate recorde e arrecada R$10 milhões com a venda de bens apreendidos de traficantes"
+title: Ministério da Justiça e Segurança Pública bate recorde e arrecada R$10 milhões
+  com a venda de bens apreendidos de traficantes
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP) realizou, nos últimos sete meses, 28 leilões, e ultrapassou a arrecadação de R$10 milhões com a venda de carros, motocicletas, caminhões, celulares e itens diversos. Todos esses bens são apreendidos do tráfico de drogas por meio de operações policiais. Desse montante, 10% foi arrecadado durante o leilão de São Paulo, realizado terça-feira (27).
 

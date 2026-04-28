@@ -1,11 +1,13 @@
 ---
-title: "Projeto de lei propõe punição mais rigorosa a líderes religiosos que cometerem abuso sexual"
+title: Projeto de lei propõe punição mais rigorosa a líderes religiosos que cometerem
+  abuso sexual
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em primeiro lugar, queremos o aumento da pena quando o crime for cometido por um líder religioso. Também tem a questão da prescrição, que é preciso subir de 70 para 80 anos". Disse a  ministra Damares Alves.
 

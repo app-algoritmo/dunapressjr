@@ -1,11 +1,12 @@
 ---
-title: "Concurso Beleza Negra 2020 será nesta sexta-feira (20) em Itajaí"
+title: Concurso Beleza Negra 2020 será nesta sexta-feira (20) em Itajaí
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Premiação com transmissão ao vivo pela internet é destaque na programação da Campanha Itajaí Sem Racismo.
 

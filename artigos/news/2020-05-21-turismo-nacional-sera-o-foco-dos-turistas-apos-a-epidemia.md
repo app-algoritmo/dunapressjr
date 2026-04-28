@@ -1,11 +1,12 @@
 ---
-title: "Turismo nacional será o foco dos turistas após a epidemia"
+title: Turismo nacional será o foco dos turistas após a epidemia
 date: 2020-05-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Agências esperam uma maior demanda por viagens a lazer e para visitar amigos e familiares.
 

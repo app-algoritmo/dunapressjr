@@ -1,11 +1,12 @@
 ---
-title: "Governo Central tem segundo maior déficit para meses de maio"
+title: Governo Central tem segundo maior déficit para meses de maio
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado primário ficou negativo em R$ 39,2 bilhões.
 

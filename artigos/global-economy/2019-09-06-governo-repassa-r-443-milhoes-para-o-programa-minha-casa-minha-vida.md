@@ -1,11 +1,12 @@
 ---
-title: "Governo repassa R$ 443 milhões para o programa Minha Casa Minha Vida"
+title: Governo repassa R$ 443 milhões para o programa Minha Casa Minha Vida
 date: 2019-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A preocupação do presidente Jair Bolsonaro é com as famílias de baixa renda. 
 

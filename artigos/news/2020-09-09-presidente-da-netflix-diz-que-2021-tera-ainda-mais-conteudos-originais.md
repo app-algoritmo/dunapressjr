@@ -1,11 +1,12 @@
 ---
-title: "Presidente da Netflix diz que 2021 terá ainda mais conteúdos originais"
+title: Presidente da Netflix diz que 2021 terá ainda mais conteúdos originais
 date: 2020-09-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 **Em entrevista à Variety, Reed Hastings, presidente da Netflix, diz que 2021 terá ainda mais conteúdos originais na plataforma.**
 

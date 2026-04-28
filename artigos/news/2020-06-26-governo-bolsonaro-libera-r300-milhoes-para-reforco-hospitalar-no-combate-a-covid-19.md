@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro libera R$300 milhões para reforço hospitalar no combate à Covid-19"
+title: Governo Bolsonaro libera R$300 milhões para reforço hospitalar no combate à
+  Covid-19
 date: 2020-06-26
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Crédito extraordinário atenderá unidades militares de saúde na aquisição de equipamentos, medicamentos e operações de segurança nas fronteiras.
 

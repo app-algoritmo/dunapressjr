@@ -1,11 +1,12 @@
 ---
-title: "IBGE prevê safra de 271,9 milhões de toneladas para 2022"
+title: IBGE prevê safra de 271,9 milhões de toneladas para 2022
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Arroz, milho e soja representam 93% da estimativa da produção.
 

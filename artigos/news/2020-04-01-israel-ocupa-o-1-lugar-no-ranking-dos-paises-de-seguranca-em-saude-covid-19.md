@@ -1,11 +1,12 @@
 ---
-title: "Israel ocupa o 1º lugar no ranking dos países de segurança em saúde Covid-19"
+title: Israel ocupa o 1º lugar no ranking dos países de segurança em saúde Covid-19
 date: 2020-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Israel foi classificado em primeiro lugar no Ranking de Países de Segurança em Saúde Covid-19 no site do Deep Knowledge Group.
 

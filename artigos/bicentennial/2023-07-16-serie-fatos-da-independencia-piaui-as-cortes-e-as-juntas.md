@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Piauí as cortes e as juntas"
+title: 'Série Fatos Da Independência: Piauí as cortes e as juntas'
 date: 2023-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Geralmente, quando se tem na história uma mudança na forma governo, há muita disputa política – quando não guerra. No Piauí foi assim. Em 4 de maio de 1821, chegou a notícia da aprovação das bases da constituição pelas Cortes de Lisboa e, junto com ela, a determinação sobre a mudança da organização política das capitanias. Estas, que se tornaram províncias, seriam governadas por Juntas de Governo eleitas. Mas e o antigo governador-geral, fica ou não fica? Algumas vilas, como era o caso de Parnaíba, que, devido à proximidade territorial, mantinha um intercâmbio de ideias com o Ceará – onde a autonomia era a bola da vez – posicionaram-se favoravelmente à adoção do modelo das Juntas. Para os parnaibanos, as Juntas garantiriam uma melhor representação dos interesses da província, pois seriam eleitas. Mas a decisão das Cortes não agradou os círculos mais próximos ao então governador-geral, Elias José Ribeiro.
 

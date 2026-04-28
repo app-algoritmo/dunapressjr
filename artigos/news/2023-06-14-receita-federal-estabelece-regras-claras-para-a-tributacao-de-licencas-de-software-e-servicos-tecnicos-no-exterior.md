@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal estabelece regras claras para a tributação de licenças de software e serviços técnicos no exterior"
+title: Receita Federal estabelece regras claras para a tributação de licenças de software
+  e serviços técnicos no exterior
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Solução de Consulta COSIT nº 107/2023 define alíquotas e incidências de impostos sobre remessas internacionais de royalties e serviços de manutenção de software.
 

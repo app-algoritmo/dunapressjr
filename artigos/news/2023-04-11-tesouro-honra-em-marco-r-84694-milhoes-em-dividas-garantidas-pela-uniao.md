@@ -1,11 +1,12 @@
 ---
-title: "Tesouro honra em março R$ 846,94 milhões em dívidas garantidas pela União"
+title: Tesouro honra em março R$ 846,94 milhões em dívidas garantidas pela União
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram honradas dívidas de oito estados; total pago em 2023 ultrapassa R$ 3 bilhões.
 

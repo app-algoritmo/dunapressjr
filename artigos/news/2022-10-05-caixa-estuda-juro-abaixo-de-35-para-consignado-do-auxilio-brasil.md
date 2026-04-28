@@ -1,11 +1,12 @@
 ---
-title: "Caixa estuda juro abaixo de 3,5% para consignado do Auxílio Brasil"
+title: Caixa estuda juro abaixo de 3,5% para consignado do Auxílio Brasil
 date: 2022-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Banco fará ação para conscientizar sobre riscos de empréstimo.
 

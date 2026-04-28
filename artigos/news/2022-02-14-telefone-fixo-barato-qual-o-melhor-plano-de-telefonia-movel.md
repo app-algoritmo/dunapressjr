@@ -1,11 +1,12 @@
 ---
-title: "Telefone fixo barato – Qual o melhor plano de telefonia móvel?"
+title: Telefone fixo barato – Qual o melhor plano de telefonia móvel?
 date: 2022-02-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Um **telefone fixo barato**, apesar de não ser mais uma hegemonia como no passado, é muito desejado por muitas pessoas. É um serviço que apesar de ter sido trocado pela telefonia móvel e pela própria internet, pode ser muito útil nos dias atuais, a depender da situação em que ele se encaixa.
 

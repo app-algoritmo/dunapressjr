@@ -1,11 +1,12 @@
 ---
-title: "Moro chama atenção para audiência pública com líder da oposição da Venezuela"
+title: Moro chama atenção para audiência pública com líder da oposição da Venezuela
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sérgio Moro (União-PR) registrou, em pronunciamento no Plenário nesta terça-feira (4), a aprovação do requerimento de sua autoria para a realização de uma audiência pública na Comissão de Segurança Pública com a líder da oposição venezuelana Maria Corina Machado, pré-candidata à presidência do país vizinho, declarada inelegível pela Controladoria-Geral da Venezuela. O senador disse que o Parlamento brasileiro precisa "dar voz" aos opositores de Nicolás Maduro. 
 

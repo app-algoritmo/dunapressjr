@@ -1,11 +1,13 @@
 ---
-title: "Carne cultivada em laboratório pode causar câncer? Especialistas levantam preocupações sobre novas tecnologias alimentares"
+title: Carne cultivada em laboratório pode causar câncer? Especialistas levantam preocupações
+  sobre novas tecnologias alimentares
 date: 2023-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 A carne cultivada em laboratório tem sido apresentada por alguns empresários e líderes globais como uma possível solução para desafios ambientais e para a produção sustentável de alimentos. Entre os defensores dessa tecnologia está Bill Gates, que já comentou sobre o potencial da carne sintética para reduzir emissões associadas à pecuária tradicional.
 

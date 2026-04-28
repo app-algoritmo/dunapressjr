@@ -1,11 +1,12 @@
 ---
-title: "O vírus chinês sofre mutação e ameaça um mundo com mais restrições"
+title: O vírus chinês sofre mutação e ameaça um mundo com mais restrições
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O governo britânico se esforçou na segunda-feira para diminuir o impacto das proibições de viagens de mais de 40 países, motivadas pelo temor de uma nova mutação do coronavírus que acredita-se ter se originado na Inglaterra.
 

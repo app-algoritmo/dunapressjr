@@ -1,11 +1,13 @@
 ---
-title: "Chanceler reafirma compromisso do País com a memória do Holocausto, em evento no Itamaraty"
+title: Chanceler reafirma compromisso do País com a memória do Holocausto, em evento
+  no Itamaraty
 date: 2022-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministro das Relações Exteriores, Carlos Alberto França, abriu o evento “O Brasil e a Memória do Holocausto – Legado e compromissos”, realizado no Itamaraty, lembrando o aniversário  terça-feira (19/04) do Levante do Gueto de Varsóvia e destacando o compromisso do País com a memória do Holocausto. França citou a atuação dos brasileiros Aracy de Carvalho Guimarães Rosa e do embaixador Luiz Martins de Souza Dantas, que arriscaram suas vidas para ajudar a salvar judeus dos campos de extermínio nazistas. “O Brasil se orgulha de ter em seus quadros membros que intercederam para salvar vidas do nazismo – Aracy de Carvalho e Luiz Martins de Souza Dantas, ambos reconhecidos pelo Yad Vashem como ‘Justos entre as nações’”. “A atuação de ambos coaduna-se com nossa politica contra qualquer forma de discriminação e temos orgulho de acolher a segunda maior comunidade judaica da América Latina”. França reafirmou a disposição de trabalhar através da Aliança Internacional para a Recordação do Holocausto (IHRA), da qual o Brasil atua como membro observador, em favor de politicas nacionais de recordação da Shoá. 
 

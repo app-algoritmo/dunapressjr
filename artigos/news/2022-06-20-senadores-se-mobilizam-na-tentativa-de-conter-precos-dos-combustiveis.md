@@ -1,11 +1,12 @@
 ---
-title: "Senadores se mobilizam na tentativa de conter preços dos combustíveis"
+title: Senadores se mobilizam na tentativa de conter preços dos combustíveis
 date: 2022-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os constantes aumentos dos preços dos combustíveis e o consequente reflexo na inflação têm mobilizado os senadores na busca de alternativas para aliviar o bolso dos brasileiros. Entre reuniões com governadores e com secretários estaduais de Fazenda, uma série de propostas legislativas para frear os aumentos foram votadas recentemente pelos parlamentares ou ainda estão sendo discutidas no Senado. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Comunidades Terapêuticas recebem orientações do governo para período de combate ao Covid-19"
+title: Comunidades Terapêuticas recebem orientações do governo para período de combate
+  ao Covid-19
 date: 2020-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As Comunidades Terapêuticas, a partir desta terça-feira (31.03), deverão seguir medidas de prevenção e cuidados, em todas as suas unidades, em função da Emergência em Saúde Pública de Importância Nacional decorrente de infecção humana pelo novo coronavírus (COVID-19). A orientação foi publicada no Diário Oficial da União pelo Ministério da Cidadania, por meio da **[Portaria 340](http://www.in.gov.br/en/web/dou/-/portaria-n-340-de-30-de-marco-de-2020-250405535)**.
 

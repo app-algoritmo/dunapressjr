@@ -1,11 +1,13 @@
 ---
-title: "Usando raros filmes de arquivo, o diretor ucraniano força os espectadores a enfrentar Babyn Yar"
+title: Usando raros filmes de arquivo, o diretor ucraniano força os espectadores a
+  enfrentar Babyn Yar
 date: 2021-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Indo para a escola em Kiev, Ucrânia, Sergei Loznitsa sempre se perguntava sobre o que aconteceu em Babyn Yar, ou “Ravina da Avó”. Ele ignorava o fato de que foi ali que 33.771 judeus foram assassinados durante uma onda de assassinatos de dois dias em setembro de 1941.
 

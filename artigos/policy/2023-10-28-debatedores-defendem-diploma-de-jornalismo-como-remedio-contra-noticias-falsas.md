@@ -1,11 +1,12 @@
 ---
-title: "Debatedores defendem diploma de jornalismo como remédio contra notícias falsas"
+title: Debatedores defendem diploma de jornalismo como remédio contra notícias falsas
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Audiência na Câmara dos Deputados discutiu proposta que torna o diploma requisito obrigatório para o exercício da profissão.
 

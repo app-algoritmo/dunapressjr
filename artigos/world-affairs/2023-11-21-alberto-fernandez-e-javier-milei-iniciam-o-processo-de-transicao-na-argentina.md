@@ -1,11 +1,12 @@
 ---
-title: "Alberto Fernández e Javier Milei iniciam o processo de transição na Argentina"
+title: Alberto Fernández e Javier Milei iniciam o processo de transição na Argentina
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Alberto Fernández reuniu-se esta manhã com o chefe de Estado eleito, Javier Milei, no âmbito da transição para o início da próxima administração, em 10 de dezembro.
 

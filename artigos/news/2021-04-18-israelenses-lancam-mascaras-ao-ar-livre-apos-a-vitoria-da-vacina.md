@@ -1,11 +1,12 @@
 ---
-title: "Israelenses lançam máscaras ao ar livre após a vitória da vacina"
+title: Israelenses lançam máscaras ao ar livre após a vitória da vacina
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Nem todo mundo está abrindo mão de suas coberturas faciais após a revogação da autorização, no entanto, já que as preocupações permanecem com as variantes.
 

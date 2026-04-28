@@ -1,11 +1,12 @@
 ---
-title: "Governo Central tem déficit primário de R$ 20,9 bilhões em maio"
+title: Governo Central tem déficit primário de R$ 20,9 bilhões em maio
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado veio melhor que a previsão dos analistas de mercado.
 

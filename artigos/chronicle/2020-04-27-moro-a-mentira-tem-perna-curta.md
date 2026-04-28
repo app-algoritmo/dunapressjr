@@ -1,11 +1,12 @@
 ---
-title: "Moro, a mentira tem perna curta"
+title: Moro, a mentira tem perna curta
 date: 2020-04-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 *Por Paulo M **Hoffmann.***
 

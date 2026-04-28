@@ -1,11 +1,12 @@
 ---
-title: "Saiba como obter a Carteira Digital de Trânsito"
+title: Saiba como obter a Carteira Digital de Trânsito
 date: 2020-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Carteira Digital de Trânsito (CDT) é disponibilizada por meio de um aplicativo e permite a obtenção das versões digitais da Carteira Nacional de Habilitação - CNH e do Certificado de Registro e Licenciamento de Veículo - CRLV (documento do veículo).
 

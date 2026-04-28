@@ -1,11 +1,12 @@
 ---
-title: "A era da robótica vs Renda Universal e o fim das aposentadorias"
+title: A era da robótica vs Renda Universal e o fim das aposentadorias
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os robôs não apenas realizarão todas as construções e a produção de alimentos, mas também garantirão a renda universal e as aposentadorias, todas pagas pelo trabalho automatizado. O comércio continuará a prosperar, pois as pessoas continuarão consumindo, e as máquinas serão os agentes dessa produção contínua. Para ler o artigo completo: **[Saber mais clicando aqui](https://open.substack.com/pub/paulofernandodebarros/p/a-era-da-robotica-vs-renda-universal?r=1p1pcm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**.
 

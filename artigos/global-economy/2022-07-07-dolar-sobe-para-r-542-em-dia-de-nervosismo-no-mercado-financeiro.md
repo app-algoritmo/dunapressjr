@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,42 em dia de nervosismo no mercado financeiro"
+title: Dólar sobe para R$ 5,42 em dia de nervosismo no mercado financeiro
 date: 2022-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa subiu 0,43% e teve primeira alta da semana.
 

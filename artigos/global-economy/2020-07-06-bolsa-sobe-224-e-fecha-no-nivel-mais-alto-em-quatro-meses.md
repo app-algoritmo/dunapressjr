@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 2,24% e fecha no nível mais alto em quatro meses"
+title: Bolsa sobe 2,24% e fecha no nível mais alto em quatro meses
 date: 2020-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar começou o dia em queda, mas fechou segunda em alta.
 

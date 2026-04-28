@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Cidadania oferece curso gratuito sobre atenção à primeira infância"
+title: Ministério da Cidadania oferece curso gratuito sobre atenção à primeira infância
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 já está disponível nas plataformas do Portal da Cidadania o curso “Programa Criança Feliz – Conhecendo a Família e a Comunidade”, elaborado pela Secretaria de Avaliação e Gestão da Informação e Secretaria Nacional de Atenção à Primeira Infância do Ministério da Cidadania juntamente com a Universidade de Brasília (UnB). O objetivo geral da iniciativa é ampliar os conhecimentos e promover uma atuação mais qualificada dos profissionais que trabalham no programa Criança Feliz e demais profissionais atuantes na rede socioassistencial, abordando temas como: território, comunidade, redes de serviços e as diversidades das famílias brasileiras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Número de mortos na Türkiye ultrapassa 6.000"
+title: Número de mortos na Türkiye ultrapassa 6.000
 date: 2023-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O número de mortos nos terremotos mortais em Türkiye ultrapassou 6.000, anunciou a Autoridade de Gerenciamento de Emergências e Desastres (AFAD) na quarta-feira.
 

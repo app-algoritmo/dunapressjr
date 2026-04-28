@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Economia prorroga os prazos das prestações dos parcelamentos tributários"
+title: Ministério da Economia prorroga os prazos das prestações dos parcelamentos
+  tributários
 date: 2020-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Montante dos recursos diferidos é de R$ 9,58 bilhões e parcelas poderão ser pagas, respectivamente, nos últimos dias úteis de agosto, outubro e dezembro de 2020
 

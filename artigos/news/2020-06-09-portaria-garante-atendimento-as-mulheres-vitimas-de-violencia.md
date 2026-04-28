@@ -1,11 +1,12 @@
 ---
-title: "Portaria garante atendimento às mulheres vítimas de violência"
+title: Portaria garante atendimento às mulheres vítimas de violência
 date: 2020-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é assegurar a continuidade do serviço de acolhimento, considerado essencial, e a segurança dos trabalhadores da rede socioassistencial.
 

@@ -1,11 +1,13 @@
 ---
-title: "Indicadores macroeconômicos confirmam recuperação da atividade e consolidação fiscal"
+title: Indicadores macroeconômicos confirmam recuperação da atividade e consolidação
+  fiscal
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Secretaria de Política Econômica do Ministério da Economia aponta que retomada está fundamentada no desempenho do setor de Serviços, investimentos e geração de empregos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Redução do IOF incidente sobre operações de crédito é prorrogada por mais por mais 90 dias"
+title: Redução do IOF incidente sobre operações de crédito é prorrogada por mais por
+  mais 90 dias
 date: 2020-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A medida foi inicialmente anunciada no mês de abril deste ano.
 

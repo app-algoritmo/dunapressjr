@@ -1,11 +1,12 @@
 ---
-title: "PIB brasileiro cresce 1,9% no primeiro trimestre de 2023"
+title: PIB brasileiro cresce 1,9% no primeiro trimestre de 2023
 date: 2023-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Agropecuária lidera expansão, enquanto indústria e investimentos apresentam desaceleração.
 

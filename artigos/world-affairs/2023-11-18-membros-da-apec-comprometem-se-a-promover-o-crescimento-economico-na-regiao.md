@@ -1,11 +1,12 @@
 ---
-title: "Membros da APEC comprometem-se a promover o crescimento económico na região"
+title: Membros da APEC comprometem-se a promover o crescimento económico na região
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Comprometemo-nos a promover um crescimento que traga benefícios palpáveis e maior saúde e bem-estar para todos, incluindo MPMEs pertencentes, lideradas e geridas por mulheres”, de acordo com a declaração ministerial conjunta da APEC adoptada.
 

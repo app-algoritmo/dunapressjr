@@ -1,11 +1,12 @@
 ---
-title: "PF apreende embarcação que transportava produtos ilícitos"
+title: PF apreende embarcação que transportava produtos ilícitos
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Nesta terça-feira (25/4), Policiais federais e da FNSP, no âmbito da Operação Hórus e do Programa Vigia, em patrulhamento terrestre pelas margens do Rio Paraná, nos locais conhecidos como Porto do Ivo e Escadinha, aprenderam uma embarcação que fazia o transporte de produtos ilícitos, uma carga de medicamentos e detiveram oito paraguaios e cinco brasileiros.
 

@@ -1,11 +1,12 @@
 ---
-title: "Kits de alimentação escolar continuam sendo entregues durante a pandemia"
+title: Kits de alimentação escolar continuam sendo entregues durante a pandemia
 date: 2020-06-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cidade do Pará já distribuiu mais de 40 mil kits a todos os estudantes da rede pública. Agricultores familiares são os principais fornecedores.
 

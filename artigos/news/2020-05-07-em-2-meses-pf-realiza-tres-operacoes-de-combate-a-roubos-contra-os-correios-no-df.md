@@ -1,11 +1,13 @@
 ---
-title: "Em 2 meses, PF realiza três operações de combate a roubos contra os Correios no DF"
+title: Em 2 meses, PF realiza três operações de combate a roubos contra os Correios
+  no DF
 date: 2020-05-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasília/DF – A Polícia Federal realizou, nos meses de março e abril de 2020, três operações de combate a roubos contra carteiros e veículos dos Correios. As investigações da PF proporcionaram a prisão de quatro homens e a identificação de um adolescente envolvidos nos assaltos.
 

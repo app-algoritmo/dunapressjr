@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova possibilidade de prisão preventiva de agressor de mulher que descumpra medidas protetivas"
+title: Comissão aprova possibilidade de prisão preventiva de agressor de mulher que
+  descumpra medidas protetivas
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o [Projeto de Lei 1214/22](https://www.camara.leg.br/noticias/878049-PROJETO-PERMITE-PRISAO-PREVENTIVA-DE-AGRESSOR-DE-MULHER-QUE-DESCUMPRA-MEDIDAS-PROTETIVAS), permitindo que, no caso de descumprimento de medidas protetivas de urgência impostas ao agressor de mulheres, o juiz substitua a medida por outras de maior eficácia, imponha outra em cumulação ou, em último caso, decrete a prisão preventiva.
 

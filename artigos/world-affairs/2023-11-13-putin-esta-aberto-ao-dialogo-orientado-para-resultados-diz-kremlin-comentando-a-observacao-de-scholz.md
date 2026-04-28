@@ -1,11 +1,13 @@
 ---
-title: "Putin está aberto ao diálogo orientado para resultados, diz Kremlin, comentando a observação de Scholz"
+title: Putin está aberto ao diálogo orientado para resultados, diz Kremlin, comentando
+  a observação de Scholz
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Embora os interesses da Rússia permaneçam em segundo plano neste momento, “as posições podem mudar com o tempo”, observou Dmitry Peskov.
 

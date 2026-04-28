@@ -1,11 +1,13 @@
 ---
-title: "França eleva nível de alerta antiterrorista após ataque em sala de concertos em Moscou"
+title: França eleva nível de alerta antiterrorista após ataque em sala de concertos
+  em Moscou
 date: 2024-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Governo francês tomou uma medida drástica neste domingo em resposta ao brutal ataque ocorrido na sexta-feira em uma sala de concertos em Moscou, onde mais de 130 pessoas perderam a vida. O primeiro-ministro francês, Gabriel Attal, anunciou a elevação do nível de alerta antiterrorista ao máximo, denominado "ataque de emergência", em virtude da reivindicação de responsabilidade pelo ataque feita pelo Estado Islâmico, bem como das ameaças iminentes que pairam sobre o país.
 

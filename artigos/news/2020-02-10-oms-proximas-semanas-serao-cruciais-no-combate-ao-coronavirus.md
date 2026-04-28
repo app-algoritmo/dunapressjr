@@ -1,11 +1,12 @@
 ---
-title: "OMS: próximas semanas serão cruciais no combate ao coronavírus"
+title: 'OMS: próximas semanas serão cruciais no combate ao coronavírus'
 date: 2020-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Afirmação é da conselheira sênior da OMS, Nahoko Shindo*
 

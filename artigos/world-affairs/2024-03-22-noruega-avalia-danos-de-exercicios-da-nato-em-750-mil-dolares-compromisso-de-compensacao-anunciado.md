@@ -1,11 +1,13 @@
 ---
-title: "Noruega Avalia Danos de Exercícios da NATO em $750 Mil Dólares; Compromisso de Compensação Anunciado"
+title: Noruega Avalia Danos de Exercícios da NATO em $750 Mil Dólares; Compromisso
+  de Compensação Anunciado
 date: 2024-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Autoridades norueguesas estimaram em até 8 milhões de coroas norueguesas (equivalente a $750 mil dólares) os danos causados pelo exercício de Resposta Nórdica da NATO, realizado entre 4 e 15 de março nas regiões do norte da Noruega, Suécia e Finlândia. 
 

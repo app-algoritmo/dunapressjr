@@ -1,11 +1,12 @@
 ---
-title: "Uma história verdadeiramente incrível"
+title: Uma história verdadeiramente incrível
 date: 2023-09-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A fotografia é de Digger, um bulldogue branco e castanho escuro.
 

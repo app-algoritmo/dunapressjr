@@ -1,11 +1,13 @@
 ---
-title: "Depreciação cambial contribui para que subsídios creditícios relacionados aos empréstimos ao BNDES voltem a recuar até o 4º bimestre"
+title: Depreciação cambial contribui para que subsídios creditícios relacionados aos
+  empréstimos ao BNDES voltem a recuar até o 4º bimestre
 date: 2020-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os subsídios financeiros caíram para R$ 663,8 milhões até agosto deste ano, de acordo com o [Boletim de Subsídios do Tesouro Nacional no âmbito do PSI e dos empréstimos ao BNDES referente ao quarto bimestre de 2020](https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:34392), divulgado nesta quarta-feira (30/09) pelo Tesouro Nacional. Em igual período do ano passado, eles somaram R$ 1,4 bilhão. A queda ao longo do tempo é natural, porque esses subsídios decorrem de equalização de taxas de juros no âmbito do PSI, em que não há mais contratação de novas operações desde 2015.
 

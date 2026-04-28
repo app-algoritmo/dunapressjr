@@ -1,11 +1,12 @@
 ---
-title: "Startups podem obter crédito para acessar soluções tecnológicas"
+title: Startups podem obter crédito para acessar soluções tecnológicas
 date: 2022-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Programa Serpro Booster apoia empresas em negócios inovadores.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estudiosos israelenses encontram vestígios humanos de milhões de anos na Caverna 'Milagre'"
+title: Estudiosos israelenses encontram vestígios humanos de milhões de anos na Caverna
+  'Milagre'
 date: 2021-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## “Agora podemos dizer com confiança que nossos ancestrais humanos estavam fazendo ferramentas de pedra simples de Oldowan dentro da Caverna Wonderwerk, há 1,8 milhão de anos."
 

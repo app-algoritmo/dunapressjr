@@ -1,11 +1,13 @@
 ---
-title: "Até 24 de julho para Instituições de educação superior se manifestarem sobre classificação de cursos"
+title: Até 24 de julho para Instituições de educação superior se manifestarem sobre
+  classificação de cursos
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O período para as instituições de educação superior se manifestarem a respeito da classiﬁcação preliminar de seus novos cursos inseridos no cadastro e-MEC termina em 24 de julho. A consulta e a manifestação em relação à classiﬁcação deverão ser realizadas no sistema do Exame Nacional de Desempenho dos Estudantes (Enade), no ambiente da Classiﬁcação Internacional Normalizada da Educação Adaptada para Cursos de Graduação e Sequenciais de Formação Especíﬁca (Cine Brasil). As manifestações estão sendo recebidas desde quinta-feira, 9 de julho. Os novos cursos foram inseridos no e-MEC entre 26 de fevereiro e 31 de maio de 2020.
 

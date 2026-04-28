@@ -1,11 +1,13 @@
 ---
-title: "Sanções dos EUA Contra a Rússia Desencadeiam Alarme, Adverte Ministério do Comércio Chinês"
+title: Sanções dos EUA Contra a Rússia Desencadeiam Alarme, Adverte Ministério do
+  Comércio Chinês
 date: 2024-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 No mais recente desenvolvimento das tensões geopolíticas, as sanções impostas pelos Estados Unidos contra a Rússia e seus parceiros comerciais geraram preocupações substanciais entre os líderes comerciais globais. O Ministério do Comércio da China ergueu a voz em um comunicado que ecoou os temores sobre os possíveis impactos negativos dessas medidas nas cadeias de abastecimento globais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Israel descobre uma inscrição de 3.500 anos da Canaã bíblica"
+title: Israel descobre uma inscrição de 3.500 anos da Canaã bíblica
 date: 2021-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## A escrita, uma combinação de seis letras em duas linhas distintas, é apresentada em um fragmento de cerâmica encontrado no local localizado na região de Shephelah, no centro-sul de Israel.
 

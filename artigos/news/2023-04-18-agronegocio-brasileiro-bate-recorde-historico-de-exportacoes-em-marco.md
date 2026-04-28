@@ -1,11 +1,12 @@
 ---
-title: "Agronegócio brasileiro bate recorde histórico de exportações em março"
+title: Agronegócio brasileiro bate recorde histórico de exportações em março
 date: 2023-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No primeiro trimestre, as exportações um aumento de 6,7% em relação ao mesmo período do ano passado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rússia lançará ensaios em massa da vacina COVID-19 na próxima semana"
+title: Rússia lançará ensaios em massa da vacina COVID-19 na próxima semana
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 40.000 pessoas participam do teste da vacina contra o coronavírus 'Sputnik V', que a Rússia afirma ser a primeira vacina COVID-19 do mundo.
 

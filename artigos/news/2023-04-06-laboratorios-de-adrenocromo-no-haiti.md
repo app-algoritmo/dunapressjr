@@ -1,11 +1,12 @@
 ---
-title: "Laboratórios de Adrenocromo no Haiti"
+title: Laboratórios de Adrenocromo no Haiti
 date: 2023-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Jimmy Chérizier também conhecido pelo pseudônimo "Babekyou" (ou "Churrasco"), é um líder de gangue haitiano e ex-policial que é o chefe do G9 um fanmi e alye (ou Família e Aliados do G9), uma federação de mais de uma dúzia de gangues haitianas sediada em Porto Príncipe. 
 

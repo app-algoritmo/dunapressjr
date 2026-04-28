@@ -1,10 +1,11 @@
 ---
-title: "Câmara aprova"
+title: Câmara aprova
 date: 2026-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 

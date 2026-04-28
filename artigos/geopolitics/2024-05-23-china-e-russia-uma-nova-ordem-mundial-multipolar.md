@@ -1,11 +1,12 @@
 ---
-title: "China e Rússia: Uma Nova Ordem Mundial Multipolar"
+title: 'China e Rússia: Uma Nova Ordem Mundial Multipolar'
 date: 2024-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Recentemente, a China e a Rússia emitiram uma declaração conjunta extraordinária, com quase 8.000 palavras, que destaca a importância dos países emergentes e apela a um mundo multipolar e à democratização das relações internacionais. Este documento pode ser considerado ainda mais significativo do que a famosa declaração de parceria "Sem Limites" de fevereiro de 2022.
 

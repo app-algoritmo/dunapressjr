@@ -1,11 +1,13 @@
 ---
-title: "Narcoterroristas do 'Los Lobos' reivindicam responsabilidade por ataque que resultou na trágica morte de Fernando Villavivencio"
+title: Narcoterroristas do 'Los Lobos' reivindicam responsabilidade por ataque que
+  resultou na trágica morte de Fernando Villavivencio
 date: 2023-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Grupo adverte sobre novos ataques a políticos ligados a recursos do narcotráfico.
 

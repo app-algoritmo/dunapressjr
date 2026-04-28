@@ -1,12 +1,13 @@
 ---
-title: "Passagem de Comando da 1ª RM"
+title: Passagem de Comando da 1ª RM
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Rio de Janeiro (RJ)** – No dia 27 de
 março, no Salão de Honra do Comando Militar do Leste, ocorreu a cerimônia de

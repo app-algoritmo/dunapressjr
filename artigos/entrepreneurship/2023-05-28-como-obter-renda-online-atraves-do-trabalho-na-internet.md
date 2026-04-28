@@ -1,12 +1,13 @@
 ---
-title: "Como Obter Renda Online através do Trabalho na Internet"
+title: Como Obter Renda Online através do Trabalho na Internet
 date: 2023-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Entrepreneurship
-  - Finances
+- Entrepreneurship
+- Finances
 ---
+
 
 ## Como Ganhar Dinheiro Trabalhando na Internet
 

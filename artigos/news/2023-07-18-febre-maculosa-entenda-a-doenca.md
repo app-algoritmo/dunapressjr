@@ -1,11 +1,12 @@
 ---
-title: "Febre maculosa: entenda a doença"
+title: 'Febre maculosa: entenda a doença'
 date: 2023-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A febre maculosa brasileira é uma doença infecciosa transmitida pelo carrapato-estrela ou micuim, da espécie *Amblyomma cajennense*, não sendo passada diretamente de pessoa para pessoa nem pelo contato com animais infectados. A bactéria *R. rickettsii* é propagada aos humanos e aos animais apenas por meio da picada de um carrapato infectado. Mais comum entre os meses de maio a novembro, a doença tem tratamento por meio de antibióticos. Quanto mais precoce for o diagnóstico, maior será a chance de cura. Em humanos, quando não tratada, a enfermidade consegue ter mais de 80% de letalidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba como prevenir as alergias"
+title: Saiba como prevenir as alergias
 date: 2021-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a proximidade do inverno, as pessoas com alergias respiratórias entram em pânico, não é mesmo? Não é à toa que no dia 07 de maio, é comemorado o Dia Nacional de Prevenção à Alergia. O tema é delicado e preocupa profissionais de saúde e pacientes por causa das inúmeras formas de reação do organismo ao problema.
 

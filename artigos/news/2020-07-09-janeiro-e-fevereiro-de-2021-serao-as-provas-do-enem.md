@@ -1,11 +1,12 @@
 ---
-title: "Janeiro e fevereiro de 2021 serão as provas do Enem"
+title: Janeiro e fevereiro de 2021 serão as provas do Enem
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Exame Nacional do Ensino Médio (Enem) 2020 será realizado nos dias 17 e 24 de janeiro de 2021 (versão impressa) e nos dias 31 de janeiro e 7 de fevereiro de 2021 (versão digital). As novas datas foram divulgadas pelo secretário-executivo do Ministério da Educação (MEC), Antonio Paulo Vogel, e o presidente do Inep, Alexandre Lopes, nesta quarta-feira, 8 de julho, em entrevista coletiva na sede do MEC, em Brasília, e por videoconferência.
 

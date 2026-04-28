@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro orienta instituições sobre ensino durante pandemia"
+title: Governo Bolsonaro orienta instituições sobre ensino durante pandemia
 date: 2020-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para repor aulas após isolamento social, algumas das recomendações são reprogramação de férias e utilização dos sábados. 
 

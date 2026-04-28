@@ -1,11 +1,13 @@
 ---
-title: "Melo e McDonald vencem na estreia no ATP 250 de Adelaide, quarta vitória na Austrália"
+title: Melo e McDonald vencem na estreia no ATP 250 de Adelaide, quarta vitória na
+  Austrália
 date: 2023-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Foi mais uma ótima atuação, agora na estreia no segundo ATP 250 de Adelaide, na Austrália. Na madrugada desta terça-feira (10), o mineiro Marcelo Melo e o norte-americano Mackenzie McDonald avançaram para as oitavas de final do torneio ao derrotar o bósnio Tomislav Brkic e o equatoriano Gonzalo Escobar por 2 sets a 0, com parciais de 6/4 e 6/1, em 1h08min.
 

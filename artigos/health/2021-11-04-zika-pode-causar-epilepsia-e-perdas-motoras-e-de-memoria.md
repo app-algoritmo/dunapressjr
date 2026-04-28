@@ -1,11 +1,12 @@
 ---
-title: "Zika pode causar epilepsia e perdas motoras e de memória"
+title: Zika pode causar epilepsia e perdas motoras e de memória
 date: 2021-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A pesquisa vencedora do Prêmio CAPES de Tese 2021 na área de Farmácia traz avanços para a compreensão dos efeitos a médio e longo prazo do zika vírus no organismo. Testes em laboratório mostraram uma maior ocorrência de epilepsia redução da sociabilidade e perda de memória e da coordenação motora. O trabalho se desdobrou em artigos publicados em importantes periódicos científicos internacionais, como *Nature *e *Science*. 
 

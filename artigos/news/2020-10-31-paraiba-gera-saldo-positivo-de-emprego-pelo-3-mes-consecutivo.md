@@ -1,11 +1,12 @@
 ---
-title: "Paraíba gera saldo positivo de emprego pelo 3º mês consecutivo"
+title: Paraíba gera saldo positivo de emprego pelo 3º mês consecutivo
 date: 2020-10-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em setembro, o setor da economia do Estado que mais contribuiu para o saldo positivo foi a indústria.
 

@@ -1,11 +1,12 @@
 ---
-title: "Canadá Envía Tropas à Jamaica para Treinar para Missão de Paz no Haiti"
+title: Canadá Envía Tropas à Jamaica para Treinar para Missão de Paz no Haiti
 date: 2024-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério da Defesa do Canadá anunciou neste sábado que aproximadamente 70 soldados foram enviados à Jamaica para treinar tropas de países caribenhos que participarão de uma missão autorizada pela ONU ao Haiti. Esta iniciativa tem como objetivo ajudar a polícia nacional do Haiti a combater gangues poderosas e lidar com a crescente violência que tem alimentado um desastre humanitário na região.
 

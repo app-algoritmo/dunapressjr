@@ -1,11 +1,12 @@
 ---
-title: "Indicador antecedente de emprego sobe 0,8 ponto, diz FGV"
+title: Indicador antecedente de emprego sobe 0,8 ponto, diz FGV
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Iaemp chegou a 74,7 pontos, mesmo patamar de dezembro de 2022.
 

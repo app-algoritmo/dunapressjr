@@ -1,11 +1,12 @@
 ---
-title: "Índice de depressão aumentou entre crianças durante pandemia"
+title: Índice de depressão aumentou entre crianças durante pandemia
 date: 2022-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Quase dois anos de aulas híbridas ou 100% on-line, incertezas, medos e perdas. A saúde mental da maior parte das pessoas foi afetada, em maior ou menor grau, pela pandemia de covid-19. Entre as crianças não foi diferente. De acordo com um levantamento da Universidade de Calgary, no Canadá, publicado no JAMA Pediatrics, uma em cada quatro crianças está sofrendo de depressão devido à pandemia. Os pesquisadores analisaram 29 estudos feitos com crianças e adolescentes de vários países.
 

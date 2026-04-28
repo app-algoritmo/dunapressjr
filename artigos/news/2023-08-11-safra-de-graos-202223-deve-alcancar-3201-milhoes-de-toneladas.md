@@ -1,11 +1,12 @@
 ---
-title: "Safra de Grãos 2022/23 deve alcançar 320,1 milhões de toneladas"
+title: Safra de Grãos 2022/23 deve alcançar 320,1 milhões de toneladas
 date: 2023-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Incremento de 17,4% na produção é reflexo de ganhos de área e produtividade. 
 

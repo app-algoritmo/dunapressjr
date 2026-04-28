@@ -1,11 +1,12 @@
 ---
-title: "Noruega Anuncia Expansão nas Forças Armadas!"
+title: Noruega Anuncia Expansão nas Forças Armadas!
 date: 2024-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 Noruega está se preparando para um impulso histórico nas capacidades de defesa, com um aumento proposto de 20 mil soldados! O Plano de Defesa de Longo Prazo do Governo Norueguês delineia um investimento inovador de 600 bilhões de coroas (aproximadamente 60 bilhões de dólares) ao longo de 12 anos, até 2036.
 

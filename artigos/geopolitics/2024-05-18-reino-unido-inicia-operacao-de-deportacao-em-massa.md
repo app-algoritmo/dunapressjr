@@ -1,11 +1,12 @@
 ---
-title: "Reino Unido Inicia Operação de Deportação em Massa"
+title: Reino Unido Inicia Operação de Deportação em Massa
 date: 2024-05-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Reino Unido, historicamente um santuário para indivíduos em busca de asilo, está passando por uma mudança radical em suas políticas de imigração. Recentemente, o país iniciou uma operação de detenção e deportação de estrangeiros cujos pedidos de asilo foram negados, numa escala nunca antes vista. Milhares de indivíduos que permaneceram anos no Reino Unido como ilegais graças a políticas mais frouxas de imigração agora estão sendo detidos e serão enviados para o Ruanda. Esta mudança radical de paradigma na política de imigração britânica vem como resposta aos crescentes desafios e tensões que o país tem enfrentado em relação à imigração ilegal.
 

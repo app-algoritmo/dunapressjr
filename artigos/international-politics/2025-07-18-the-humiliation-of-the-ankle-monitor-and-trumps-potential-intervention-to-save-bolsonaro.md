@@ -1,11 +1,13 @@
 ---
-title: "The Humiliation of the Ankle Monitor and Trump’s Potential Intervention to Save Bolsonaro"
+title: The Humiliation of the Ankle Monitor and Trump’s Potential Intervention to
+  Save Bolsonaro
 date: 2025-07-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Politics
+- International Politics
 ---
+
 
 ## Bolsonaro’s Ankle Monitor Humiliation and Trump’s Bid to Save Him | Dunapress Journal
 

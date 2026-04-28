@@ -1,11 +1,12 @@
 ---
-title: "O Realinhamento Geopolítico diante da Loucura Ocidental"
+title: O Realinhamento Geopolítico diante da Loucura Ocidental
 date: 2024-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nos dias de hoje, uma onda de loucura parece ter varrido o mundo ocidental, onde questões como a ideologia LGBT e queer se tornaram prioridade sobre qualquer outra coisa. O chamado "consenso desperto" está impondo uma agenda globalista que desafia os valores tradicionais e morais em favor de uma ideologia liberal radical.
 

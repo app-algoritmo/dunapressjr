@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova perda em favor da União de bens usados em qualquer atividade ilícita"
+title: Comissão aprova perda em favor da União de bens usados em qualquer atividade
+  ilícita
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara dos Deputados aprovou proposta que determina a perda em favor da União de qualquer bem apreendido em razão da prática de atividade ilícita, como tráfico de drogas e desmatamento.
 

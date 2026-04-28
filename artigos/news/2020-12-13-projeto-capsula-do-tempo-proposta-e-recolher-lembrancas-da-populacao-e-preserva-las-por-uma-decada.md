@@ -1,11 +1,13 @@
 ---
-title: "Projeto Cápsula do Tempo: Proposta é recolher lembranças da população e preservá-las por uma década"
+title: 'Projeto Cápsula do Tempo: Proposta é recolher lembranças da população e preservá-las
+  por uma década'
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação Genésio Miranda Lins informa que o prazo para o envio de materiais para o Projeto “Cápsula do Tempo – Memórias de 2020” será prorrogado até o dia 16 de dezembro. A iniciativa do Museu Etno-Arqueológico de Itajaí pretende reunir e guardar, por uma década, fotos e cartas enviadas pela população, contando um pouco de suas vivências durante a pandemia de coronavírus. O processo de lacre da cápsula será realizado no dia 18 de dezembro, às 16h, em cerimônia restrita aos servidores do Museu por conta da pandemia.
 

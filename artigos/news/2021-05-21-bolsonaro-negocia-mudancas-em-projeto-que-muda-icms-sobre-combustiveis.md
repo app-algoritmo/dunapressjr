@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro negocia mudanças em projeto que muda ICMS sobre combustíveis"
+title: Bolsonaro negocia mudanças em projeto que muda ICMS sobre combustíveis
 date: 2021-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova versão já foi apresentada ao presidente da Câmara.
 

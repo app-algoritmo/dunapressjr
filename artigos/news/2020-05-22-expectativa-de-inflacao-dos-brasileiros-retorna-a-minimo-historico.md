@@ -1,11 +1,12 @@
 ---
-title: "Expectativa de inflação dos brasileiros retorna a mínimo histórico"
+title: Expectativa de inflação dos brasileiros retorna a mínimo histórico
 date: 2020-05-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Projeção é que taxa acumulada fique em 4,8% nos próximos 12 meses.
 

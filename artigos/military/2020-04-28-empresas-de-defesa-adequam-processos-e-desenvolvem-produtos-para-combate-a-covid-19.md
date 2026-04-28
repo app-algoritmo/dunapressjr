@@ -1,11 +1,13 @@
 ---
-title: "Empresas de Defesa adequam processos e desenvolvem produtos para combate à COVID-19"
+title: Empresas de Defesa adequam processos e desenvolvem produtos para combate à
+  COVID-19
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 28/04/2020 -** A ação “COVID19-Produtos ao Alcance de Todos”, do Ministério da Defesa (MD), por meio da Secretaria de Produtos de Defesa (SEPROD), conta com mais de 470 produtos cadastrados, oferecidos por quase 240 empresas. Lançada em 27 de março, a ação convoca as empresas da Base Industrial de Defesa (BID) a promoverem a reconversão produtiva, que viabiliza o desenvolvimento de produtos para auxiliar no combate à COVID-19 e os oferecerem às instituições de saúde.
 

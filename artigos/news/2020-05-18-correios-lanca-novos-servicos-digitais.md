@@ -1,11 +1,12 @@
 ---
-title: "Correios lança novos serviços digitais"
+title: Correios lança novos serviços digitais
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para facilitar a vida das pessoas que, cada vez mais, precisam ficar em casa e continuar a resolver questões do dia a dia, os Correios lançaram três novas soluções de comunicação digital: a Entrega Digital, o AR Eletrônico e o e-Carta Fácil. 
 

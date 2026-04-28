@@ -1,11 +1,12 @@
 ---
-title: "UE Planeja Expansão Massiva de Vigilância em Massa"
+title: UE Planeja Expansão Massiva de Vigilância em Massa
 date: 2024-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A União Europeia (UE) está planejando a introdução de novas regras draconianas de vigilância em massa logo após as eleições europeias, conforme alertado pelo eurodeputado Patrick Breyer. Os planos surgiram de documentos online que detalham reuniões de grupos de trabalho denominados “Grupo(s) de Alto Nível sobre Acesso a Dados para uma Aplicação Eficaz da Lei”.
 

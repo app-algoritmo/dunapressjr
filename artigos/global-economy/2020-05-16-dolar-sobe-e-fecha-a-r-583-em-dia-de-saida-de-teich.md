@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe e fecha a R$ 5,83 em dia de saída de Teich"
+title: Dólar sobe e fecha a R$ 5,83 em dia de saída de Teich
 date: 2020-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa encerra dia com queda de 1,84%, depois de começar em alta.
 

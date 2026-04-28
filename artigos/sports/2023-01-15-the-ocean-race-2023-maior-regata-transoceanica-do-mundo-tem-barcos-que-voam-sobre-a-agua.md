@@ -1,11 +1,13 @@
 ---
-title: "The Ocean Race 2023, maior regata transoceânica do mundo tem barcos que voam sobre a água"
+title: The Ocean Race 2023, maior regata transoceânica do mundo tem barcos que voam
+  sobre a água
 date: 2023-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A The Ocean Race 2023, maior regata transoceânica do mundo, será mais rápida e mais difícil de vencer, com barcos que “voam” sobre a água. Os novos IMOCAs 60, que farão a volta ao globo a partir deste domingo (15), são extremamente velozes e podem atingir uma velocidade superior a 70 quilômetros por hora. Os cinco times que disputam a categoria devem chegar a Itajaí no início de abril deste ano, após a perna mais difícil da história do evento, com mais de 12 mil milhas náuticas. O primeiro desafio parte de Alicante, na Espanha, por volta do meio-dia (horário de Brasília) deste domingo rumo a Cabo Verde, na África.
 

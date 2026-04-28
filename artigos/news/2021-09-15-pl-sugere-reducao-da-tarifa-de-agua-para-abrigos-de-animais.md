@@ -1,11 +1,12 @@
 ---
-title: "PL sugere redução da tarifa de água para abrigos de animais"
+title: PL sugere redução da tarifa de água para abrigos de animais
 date: 2021-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## “A diminuição do custo com água impactará positivamente na atividade de ONGs, santuários, abrigos, protetores e veterinários voluntários"
 

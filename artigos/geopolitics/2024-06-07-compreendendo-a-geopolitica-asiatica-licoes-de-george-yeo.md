@@ -1,11 +1,12 @@
 ---
-title: "Compreendendo a Geopolítica Asiática: Lições de George Yeo"
+title: 'Compreendendo a Geopolítica Asiática: Lições de George Yeo'
 date: 2024-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 George Yeo, ex-ministro das Relações Exteriores de Cingapura, é uma das figuras mais perspicazes quando se trata de entender a geopolítica asiática. Em uma análise recente, ele oferece uma visão crítica sobre as relações entre os Estados Unidos e a China, destacando a falta de compreensão americana sobre a China e os impactos potencialmente devastadores dessa miopia.
 

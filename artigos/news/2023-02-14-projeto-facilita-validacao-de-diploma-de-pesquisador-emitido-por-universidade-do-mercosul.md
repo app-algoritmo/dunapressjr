@@ -1,11 +1,13 @@
 ---
-title: "Projeto facilita validação de diploma de pesquisador emitido por universidade do Mercosul"
+title: Projeto facilita validação de diploma de pesquisador emitido por universidade
+  do Mercosul
 date: 2023-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 37/23 determina a admissão e validação automáticas dos diplomas de pós-graduação expedidos por universidades de países do Mercosul (membros e associados) para professores e pesquisadores que desejam trabalhar no Brasil. A proposta tramita na Câmara dos Deputados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Doenças e vacinas, avances científicos e  revelações"
+title: Doenças e vacinas, avances científicos e  revelações
 date: 2020-01-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 -Muitas pessoas acreditam sinceramente que todas as vacinas são seguras, as reações adversas são raras e não existem estudos científicos revisados ​​por pares mostrando que as vacinas podem causar danos.
 

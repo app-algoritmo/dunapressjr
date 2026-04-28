@@ -1,11 +1,12 @@
 ---
-title: "Projeto impede apreensão de CNH e passaporte de devedor"
+title: Projeto impede apreensão de CNH e passaporte de devedor
 date: 2023-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 668/23 proíbe que devedores inadimplentes sejam impedidos de inscreverem-se em concursos públicos ou tenham a Carteira Nacional de Habilitação (CNH) e passaporte apreendidos por determinação da Justiça.
 

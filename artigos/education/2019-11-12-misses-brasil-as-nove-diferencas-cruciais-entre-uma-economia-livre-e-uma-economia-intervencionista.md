@@ -1,12 +1,14 @@
 ---
-title: "Misses Brasil: As nove diferenças cruciais entre uma economia livre e uma economia intervencionista"
+title: 'Misses Brasil: As nove diferenças cruciais entre uma economia livre e uma
+  economia intervencionista'
 date: 2019-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 ## Saber distinguir uma da outra é essencial para qualquer debate político e econômico
 

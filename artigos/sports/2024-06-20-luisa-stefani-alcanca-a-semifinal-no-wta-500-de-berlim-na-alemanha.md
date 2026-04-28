@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani alcança a semifinal no WTA 500 de Berlim, na Alemanha"
+title: Luisa Stefani alcança a semifinal no WTA 500 de Berlim, na Alemanha
 date: 2024-06-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs passaram em menos de uma hora por dupla alemã, nesta quarta-feira (19), e aguardam a definição das próximas adversárias.
 

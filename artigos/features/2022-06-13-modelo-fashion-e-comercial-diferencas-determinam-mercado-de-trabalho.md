@@ -1,11 +1,12 @@
 ---
-title: "Modelo fashion e comercial: diferenças determinam mercado de trabalho"
+title: 'Modelo fashion e comercial: diferenças determinam mercado de trabalho'
 date: 2022-06-13
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 Ser modelo é o sonho de muitas pessoas, afinal, trabalhar estampando capas de revistas ou desfilando para marcas renomadas pode ser bastante animador. Mas para brilhar nessa área, é preciso, antes de mais nada, conhecer um pouco mais sobre o mercado e principalmente, as carreiras que ele possui. 
 

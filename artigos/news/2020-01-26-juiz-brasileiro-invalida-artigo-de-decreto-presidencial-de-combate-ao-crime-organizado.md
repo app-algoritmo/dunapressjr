@@ -1,11 +1,13 @@
 ---
-title: "Juiz brasileiro inválida artigo de decreto presidencial de combate ao crime organizado"
+title: Juiz brasileiro inválida artigo de decreto presidencial de combate ao crime
+  organizado
 date: 2020-01-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O juiz federal Manoel Pedro Martins de Castro, da 6.ª Vara Federal, invalidou o artigo do Decreto do presidente Jair Bolsonaro que permitia aos policiais rodoviários federais lavrar termo circunstanciado de ocorrência.
 

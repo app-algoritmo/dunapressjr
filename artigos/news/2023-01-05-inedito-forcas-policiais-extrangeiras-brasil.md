@@ -1,11 +1,12 @@
 ---
-title: "Inédito: Forças policiais extrangeiras Brasil"
+title: 'Inédito: Forças policiais extrangeiras Brasil'
 date: 2023-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O novo ministro da justiça [Flavio Dino](https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Dino) inova ao dizer que trará policiais de outro país para a garantia do cumprimento das leis.
 

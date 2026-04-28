@@ -1,11 +1,12 @@
 ---
-title: "Ministério avalia concessão do Aeroporto Santos Dumont no Rio"
+title: Ministério avalia concessão do Aeroporto Santos Dumont no Rio
 date: 2022-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Portaria foi publicada hoje no Diário Oficial da União.
 

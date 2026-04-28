@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova campanha permanente de conscientização sobre a doença falciforme"
+title: Comissão aprova campanha permanente de conscientização sobre a doença falciforme
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou projeto que obriga o poder público a promover e coordenar, no âmbito do Sistema Único de Saúde (SUS), a Campanha Permanente de Conscientização, Orientação, Prevenção e Tratamento da Doença Falciforme.
 

@@ -1,12 +1,13 @@
 ---
-title: "Dicas para Gerenciar seu Dinheiro de Forma Inteligente"
+title: Dicas para Gerenciar seu Dinheiro de Forma Inteligente
 date: 2023-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 Educação Financeira em Foco:
 

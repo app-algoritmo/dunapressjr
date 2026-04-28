@@ -1,11 +1,13 @@
 ---
-title: "Serviço Militar Obrigatório: recursos humanos para atividades específicas das Forças Armadas"
+title: 'Serviço Militar Obrigatório: recursos humanos para atividades específicas
+  das Forças Armadas'
 date: 2020-02-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF) –** O Serviço Militar Obrigatório visa ao provimento
 de recursos humanos para o desempenho das atividades específicas das Forças

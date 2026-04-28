@@ -1,12 +1,13 @@
 ---
-title: "Eles queriam esconder isso por 75 anos: abortos espontâneos e bebês mortos"
+title: 'Eles queriam esconder isso por 75 anos: abortos espontâneos e bebês mortos'
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Pfizer tentou esconder seu relatório por 75 anos.
 

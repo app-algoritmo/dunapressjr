@@ -1,11 +1,13 @@
 ---
-title: "Queda de 0,18% no IPC-S da terceira quadrissemana de agosto de 2023, aponta FGV/Ibre"
+title: Queda de 0,18% no IPC-S da terceira quadrissemana de agosto de 2023, aponta
+  FGV/Ibre
 date: 2023-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula alta de 3,94% nos últimos 12 meses; Grupo Educação, Leitura e Recreação é destaque com variação de -1,57%.
 

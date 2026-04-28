@@ -1,11 +1,12 @@
 ---
-title: "Projeto triplica pena para estelionato praticado contra pessoa vulnerável"
+title: Projeto triplica pena para estelionato praticado contra pessoa vulnerável
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## As comissões da Câmara dos Deputados vão analisar a proposta.
 

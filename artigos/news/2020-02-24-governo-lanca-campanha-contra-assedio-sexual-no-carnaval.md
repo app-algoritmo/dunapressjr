@@ -1,11 +1,12 @@
 ---
-title: "Governo lança campanha contra assédio sexual no carnaval"
+title: Governo lança campanha contra assédio sexual no carnaval
 date: 2020-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal lançou nesta terça-feira (18) uma campanha de prevenção ao assédio sexual no carnaval - “Assédio é Crime. #NãoTemDesculpa”. A ação, que ocorrerá até o dia 29 de fevereiro, é uma resposta ao aumento dos registros de assédio sexual e violência contra a mulher nos dias de festa. 
 

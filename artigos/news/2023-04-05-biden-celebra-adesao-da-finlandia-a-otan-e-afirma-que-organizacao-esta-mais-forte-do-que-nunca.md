@@ -1,11 +1,13 @@
 ---
-title: "Biden celebra adesão da Finlândia à Otan e afirma que organização está 'mais forte do que nunca'"
+title: Biden celebra adesão da Finlândia à Otan e afirma que organização está 'mais
+  forte do que nunca'
 date: 2023-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, celebrou a adesão da Finlândia à Organização do Tratado do Atlântico Norte (Otan), nesta terça-feira (4). Segundo a EFE, Biden considera que a organização está "mais forte do que nunca" e "mais unida do que nunca", apesar das tentativas do presidente russo, Vladimir Putin, de "dividi-la" com a invasão da Ucrânia.
 

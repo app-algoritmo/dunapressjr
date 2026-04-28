@@ -1,11 +1,12 @@
 ---
-title: "Microgolpes de esquerda e retorno de Lula"
+title: Microgolpes de esquerda e retorno de Lula
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Após o estrondoso fracasso do macrogolpe de Pedro Castillo no Peru, a esquerda ibero-americana parece ter escolhido outro caminho, não por ser mais cirúrgico, mas menos danoso à democracia.
 

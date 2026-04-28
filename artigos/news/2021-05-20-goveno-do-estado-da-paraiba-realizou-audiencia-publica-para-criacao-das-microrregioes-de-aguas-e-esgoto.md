@@ -1,11 +1,13 @@
 ---
-title: "Goveno do Estado da Paraíba realizou Audiência Pública para criação das microrregiões de águas e esgoto"
+title: Goveno do Estado da Paraíba realizou Audiência Pública para criação das microrregiões
+  de águas e esgoto
 date: 2021-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo é atingir as metas de universalização previstas no marco legal do saneamento.
 

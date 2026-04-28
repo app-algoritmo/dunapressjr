@@ -1,11 +1,12 @@
 ---
-title: "Especialistas apontam atualizações necessárias na legislação eleitoral"
+title: Especialistas apontam atualizações necessárias na legislação eleitoral
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Relator vai apresentar anteprojeto na próxima semana; mudanças precisam ser aprovadas e publicadas até 5 de outubro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que Irã não tem lado na guerra da Ucrânia"
+title: Ministro diz que Irã não tem lado na guerra da Ucrânia
 date: 2023-08-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro das Relações Exteriores do Irã, Hossein Amirabdollahian, refutou as alegações de que seu país está apoiando a Rússia em sua guerra com a Ucrânia, enfatizando que a República Islâmica não tem um lado nesse conflito e continua a apoiar uma solução política.
 

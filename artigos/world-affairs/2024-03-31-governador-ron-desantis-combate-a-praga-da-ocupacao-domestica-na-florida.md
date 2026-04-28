@@ -1,11 +1,12 @@
 ---
-title: "Governador Ron DeSantis Combate a 'Praga' da Ocupação Doméstica na Flórida"
+title: Governador Ron DeSantis Combate a 'Praga' da Ocupação Doméstica na Flórida
 date: 2024-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nas últimas semanas, a preocupação com a crescente ocupação doméstica nos Estados Unidos ganhou destaque nas redes sociais, especialmente com a chegada de centenas de milhares de imigrantes ilegais. No entanto, o governador Ron DeSantis está determinado a impedir que essa praga se instale na Flórida.
 

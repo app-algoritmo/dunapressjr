@@ -1,11 +1,12 @@
 ---
-title: "1ª Mostra Haiti de Cultura ocorre entre os dias 16 e 19 de novembro em Itajaí"
+title: 1ª Mostra Haiti de Cultura ocorre entre os dias 16 e 19 de novembro em Itajaí
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De 16 a 19 de novembro, ocorrerá em Itajaí a 1ª Mostra Haiti de Cultura. O evento será realizado no CEU - Centro de Artes e Esportes Unificados, localizado no bairro São Vicente, e dará visibilidade a atividades e manifestações artísticas, além de colocar em destaque questões relacionadas ao comportamento e a cultura haitiana. No local, também haverá ação do CRAS para inclusão de pessoas no Cadastro Único para programas sociais do Governo Federal (CadÚnico).
 

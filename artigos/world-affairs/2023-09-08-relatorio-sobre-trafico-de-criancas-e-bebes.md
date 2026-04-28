@@ -1,11 +1,12 @@
 ---
-title: "Relatório sobre tráfico de crianças e bebês"
+title: Relatório sobre tráfico de crianças e bebês
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No X, antigo Twitter, a advogada Carine Knapen chama a atenção para uma [reportagem](https://www.youtube.com/watch?v=skOpDB3Fa-8) do jornalista investigativo polonês Patryk Vega sobre a elite satânica e a escravização, estupro, tortura e assassinato de crianças e recém-nascidos.
 

@@ -1,12 +1,13 @@
 ---
-title: "Alistamento militar obrigatório segue apenas pela internet"
+title: Alistamento militar obrigatório segue apenas pela internet
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 Os jovens que completam 18 anos em 2020 têm até o dia 30 de junho para fazer o alistamento militar obrigatório. Mas, em razão da epidemia do coronavírus (Covid-19), só é possível fazê-lo pela internet. A medida segue recomendações do Ministério da Saúde para que se evite aglomerações. Desta forma, a Junta Militar mais próxima à residência não receberá mais os candidatos. 
 

@@ -1,11 +1,13 @@
 ---
-title: "PF deflagra operação Amazônia Legal no Acre para combater grilagem e desmatamento de terras públicas"
+title: PF deflagra operação Amazônia Legal no Acre para combater grilagem e desmatamento
+  de terras públicas
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio Branco/AC – A Polícia Federal deu início à Operação Amazônia Legal e, com auxílio do Exército Brasileiro, do IBAMA e do ICMBio, cumpriu nesta data (13/5), 7 mandados de busca e apreensão em diversas sedes rurais no interior do PAE Antimary. A ação visou a apreensão de instrumentos do crime de desmatamento, posse irregular de armas e invasão de terras públicas na região.
 

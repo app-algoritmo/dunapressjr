@@ -1,11 +1,12 @@
 ---
-title: "Dólar atinge menor valor em mais de um ano"
+title: Dólar atinge menor valor em mais de um ano
 date: 2023-06-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores atinge nível mais alto em oito meses em dia de euforia no mercado financeiro.
 

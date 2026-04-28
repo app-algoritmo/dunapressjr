@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei torna abuso de autoridade remoção injustificada de página na internet de parlamentar"
+title: Projeto de Lei torna abuso de autoridade remoção injustificada de página na
+  internet de parlamentar
 date: 2023-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2782/22 torna crime de abuso de autoridade, sujeito a detenção de 1 a 4 anos e multa, a remoção injustificada de publicação, página ou perfil na internet de deputado ou senador, violando a imunidade parlamentar de suas opiniões e palavras. O texto tramita na Câmara dos Deputados.
 

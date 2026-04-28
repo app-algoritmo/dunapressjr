@@ -1,11 +1,12 @@
 ---
-title: "Rodovia que liga Amazonas à Rondônia é uma das prioridades do Governo"
+title: Rodovia que liga Amazonas à Rondônia é uma das prioridades do Governo
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A recuperação e a pavimentação da BR-319, importante via de ligação entre os estados do Amazonas e de Rondônia, vai trazer ganhos econômicos e sociais para a região, segundo o ministro da Infraestrutura, Tarcísio Gomes de Freitas. Em videoconferência realizada nesta segunda-feira (21), com governadores da Região Norte, o ministro afirmou que a pavimentação de trechos da rodovia é uma das prioridades do Governo na área de infraestrutura.
 

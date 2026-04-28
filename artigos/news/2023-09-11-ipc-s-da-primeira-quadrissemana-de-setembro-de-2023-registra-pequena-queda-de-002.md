@@ -1,11 +1,13 @@
 ---
-title: "IPC-S da primeira quadrissemana de setembro de 2023 registra pequena queda de 0,02%"
+title: IPC-S da primeira quadrissemana de setembro de 2023 registra pequena queda
+  de 0,02%
 date: 2023-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do FGV IBR revelam acumulado de 3,86% nos últimos 12 meses e variações nas classes de despesa.
 

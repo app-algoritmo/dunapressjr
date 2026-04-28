@@ -1,11 +1,12 @@
 ---
-title: "Nacionalismo ucraniano como “arma da Guerra Fria”"
+title: Nacionalismo ucraniano como “arma da Guerra Fria”
 date: 2023-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Organização dos Nacionalistas Ucranianos (OUN) foi fundada em 1929 no leste da Galícia (então localizada na Polônia) e clamava por uma Ucrânia independente e etnicamente homogênea. Desde o início, houve tensão na OUN entre os jovens estudantes radicais galegos e a liderança mais velha e militarmente experiente que havia crescido na moderada monarquia austro-húngara. A geração mais jovem só conhecia a opressão do novo domínio polonês e a guerra clandestina. Como resultado, a facção mais jovem tendia a ser mais impulsiva, violenta e imprudente.
 

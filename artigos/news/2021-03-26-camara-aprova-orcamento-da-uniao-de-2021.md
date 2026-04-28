@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova Orçamento da União de 2021"
+title: Câmara aprova Orçamento da União de 2021
 date: 2021-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto foi enviado para o Senado.
 

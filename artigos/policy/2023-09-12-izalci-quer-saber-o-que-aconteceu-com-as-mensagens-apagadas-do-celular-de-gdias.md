@@ -1,11 +1,12 @@
 ---
-title: "Izalci quer saber o que aconteceu com as mensagens apagadas do celular de GDias"
+title: Izalci quer saber o que aconteceu com as mensagens apagadas do celular de GDias
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) questionou, em pronunciamento no Plenário nesta segunda-feira (11), o fato de as mensagens do celular pessoal do general Marco Edson Gonçalves Dias, que comandava o Gabinete de Segurança Institucional (GSI) no dia dos ataques às sedes dos três Poderes, terem sido apagadas. Segundo o parlamentar, o aparelho passou por perícia da Polícia Civil do Distrito Federal (PCDF), que não encontrou nenhuma mensagem anterior a 1º de maio.
 

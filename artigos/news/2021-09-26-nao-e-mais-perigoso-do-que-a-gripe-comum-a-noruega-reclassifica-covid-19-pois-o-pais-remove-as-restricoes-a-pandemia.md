@@ -1,11 +1,13 @@
 ---
-title: "Não é mais perigoso do que a gripe comum: a Noruega reclassifica COVID-19, pois o país remove as restrições à pandemia"
+title: 'Não é mais perigoso do que a gripe comum: a Noruega reclassifica COVID-19,
+  pois o país remove as restrições à pandemia'
 date: 2021-09-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O governo da Noruega declarou que todas as limitações relacionadas ao COVID-19 sejam suspensas a partir de 25 de setembro de 2021, juntando-se a um número crescente de países e estados que já o fizeram e o país passa a ter uma vida cotidiana normal com maior preparação para emergências.
 

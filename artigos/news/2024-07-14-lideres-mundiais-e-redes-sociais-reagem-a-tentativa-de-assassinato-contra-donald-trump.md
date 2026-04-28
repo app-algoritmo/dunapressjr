@@ -1,12 +1,14 @@
 ---
-title: "Lideres mundiais e redes sociais reagem a tentativa de assassinato contra Donald Trump"
+title: Lideres mundiais e redes sociais reagem a tentativa de assassinato contra Donald
+  Trump
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 A tentativa de assassinato de Donald Trump, ocorrida durante um evento de campanha, chocou o mundo político e gerou uma onda de reações entre líderes de diversas nações. O ataque, que envolveu um atirador disparando de uma posição elevada e atingindo vários participantes, resultou em uma rápida evacuação do ex-presidente, que foi ferido por uma bala que perfurou a parte superior de sua orelha direita. O incidente está sendo investigado como uma grave tentativa de assassinato.
 

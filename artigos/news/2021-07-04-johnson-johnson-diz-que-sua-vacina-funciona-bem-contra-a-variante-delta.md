@@ -1,11 +1,12 @@
 ---
-title: "Johnson & Johnson diz que sua vacina funciona bem contra a variante delta"
+title: Johnson & Johnson diz que sua vacina funciona bem contra a variante delta
 date: 2021-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A Johnson & Johnson diz que sua vacina COVID-19 funciona bem contra a variante descoberta pela primeira vez na Índia e que a resposta imunológica dura pelo menos oito meses.
 

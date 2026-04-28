@@ -1,11 +1,13 @@
 ---
-title: "Liga Esportiva NESCAU® reúne mais de mil jovens em Belo Horizonte, com destaque para a participação feminina no skate"
+title: Liga Esportiva NESCAU® reúne mais de mil jovens em Belo Horizonte, com destaque
+  para a participação feminina no skate
 date: 2024-07-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior evento poliesportivo estudantil do país ocorreu no sábado (29) na AABB na capital mineira e contou com 50% de representatividade feminina.
 

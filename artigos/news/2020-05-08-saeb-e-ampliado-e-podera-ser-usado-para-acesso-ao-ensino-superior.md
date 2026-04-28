@@ -1,11 +1,12 @@
 ---
-title: "Saeb é ampliado e poderá ser usado para acesso ao ensino superior"
+title: Saeb é ampliado e poderá ser usado para acesso ao ensino superior
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A prova do Sistema de Avaliação da Educação Básica (Saeb) passou por mudanças. A avaliação, que era feita a cada dois anos, passará a ser anual e aplicada para todos os anos e séries a partir do 2º ano do ensino fundamental.
 

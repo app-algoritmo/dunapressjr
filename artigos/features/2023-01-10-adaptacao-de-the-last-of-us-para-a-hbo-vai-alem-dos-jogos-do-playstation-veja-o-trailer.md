@@ -1,12 +1,14 @@
 ---
-title: "Adaptação de The Last of Us para a HBO vai além dos jogos do PlayStation: Veja o Trailer"
+title: 'Adaptação de The Last of Us para a HBO vai além dos jogos do PlayStation:
+  Veja o Trailer'
 date: 2023-01-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Série de TV expande o universo do jogo, mantendo seu núcleo emocional. 
 

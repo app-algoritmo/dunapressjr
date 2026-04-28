@@ -1,11 +1,13 @@
 ---
-title: "17ª avaliação aponta 200 cidades paraibanas classificadas como bandeira amarela no Plano Novo Normal"
+title: 17ª avaliação aponta 200 cidades paraibanas classificadas como bandeira amarela
+  no Plano Novo Normal
 date: 2021-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Governo da Paraíba publicou, neste sábado (23), a 17ª avaliação do Plano Novo Normal Paraíba que passa a vigorar a partir desta segunda-feira (25) ([https://paraiba.pb.gov.br/diretas/saude/coronavirus/novonormalpb](https://paraiba.pb.gov.br/diretas/saude/coronavirus/novonormalpb) ). O documento aponta que 90% das cidades paraibanas (200) estão classificadas na cor amarela; 20 municípios devem ter a mobilidade restrita, uma vez que estão classificados em bandeira laranja; e os municípios de Cacimba de Dentro, Mulungu e Tacima são os únicos classificados na bandeira verde. Não há municípios avaliados na bandeira vermelha, que indica mobilidade impedida. 
 

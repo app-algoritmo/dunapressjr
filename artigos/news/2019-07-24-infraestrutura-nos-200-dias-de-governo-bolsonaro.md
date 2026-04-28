@@ -1,11 +1,12 @@
 ---
-title: "Infraestrutura nos 200 dias de governo Bolsonaro"
+title: Infraestrutura nos 200 dias de governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Leilões e obras são destaque nos primeiros 200 dias de governo
 

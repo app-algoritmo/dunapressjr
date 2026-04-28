@@ -1,11 +1,12 @@
 ---
-title: "IAEmp cai em janeiro, diz FGV"
+title: IAEmp cai em janeiro, diz FGV
 date: 2023-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice recuou 0,8 ponto de dezembro para janeiro.
 

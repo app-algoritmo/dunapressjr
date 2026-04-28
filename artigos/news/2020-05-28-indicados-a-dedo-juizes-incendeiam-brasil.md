@@ -1,11 +1,12 @@
 ---
-title: "Indicados a dedo, juizes incendeiam Brasil"
+title: Indicados a dedo, juizes incendeiam Brasil
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O número de pedidos de impeachment dos ministros do **Supremo Tribunal Federal (STF)** atingiu em 2019 um patamar recorde. Desde janeiro, já foram protocolados 14 pedidos contra integrantes da Corte, cinco a mais do que no ano passado.
 

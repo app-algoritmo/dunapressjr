@@ -1,11 +1,12 @@
 ---
-title: "BC altera regras sobre infrações e penalidades de participantes do Pix"
+title: BC altera regras sobre infrações e penalidades de participantes do Pix
 date: 2021-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resolução com as mudanças foi publicada no Diário Oficial desta sexta-feira (12).
 

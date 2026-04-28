@@ -1,11 +1,12 @@
 ---
-title: "Moda genderless"
+title: Moda genderless
 date: 2022-09-12
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Conceito não é novidade, mas é reforçado pelas novas gerações e mudanças nos hábitos de consumo
 

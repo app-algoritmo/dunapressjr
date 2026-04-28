@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo positivo de US$ 1,47 bilhão"
+title: Contas externas têm saldo positivo de US$ 1,47 bilhão
 date: 2020-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 É o 1º resultado positivo desde 2006, quando saldo foi de US$ 1,49 bi.
 

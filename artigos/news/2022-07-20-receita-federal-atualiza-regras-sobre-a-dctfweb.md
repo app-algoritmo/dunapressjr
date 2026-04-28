@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal atualiza regras sobre a DCTFWeb"
+title: Receita Federal atualiza regras sobre a DCTFWeb
 date: 2022-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Obrigatoriedade para órgãos públicos passa para novembro, fim da necessidade de enviar declaração sem movimento todos os anos e novos tributos, para 2023.
 

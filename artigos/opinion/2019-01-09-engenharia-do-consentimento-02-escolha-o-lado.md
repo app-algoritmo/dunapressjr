@@ -1,11 +1,12 @@
 ---
-title: "Engenharia do Consentimento - 02 - Escolha o lado"
+title: Engenharia do Consentimento - 02 - Escolha o lado
 date: 2019-01-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Sugiro ler o primeiro artigo sobre este tema, clicando [aqui](https://dunapress.org/2018/12/03/engenharia-do-consentimento-01-conheca-os-poderes-que-nos-dominam/).
 

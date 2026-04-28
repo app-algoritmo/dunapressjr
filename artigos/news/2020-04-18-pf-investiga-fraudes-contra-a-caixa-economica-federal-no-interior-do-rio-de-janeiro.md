@@ -1,11 +1,13 @@
 ---
-title: "PF investiga fraudes contra a Caixa Econômica Federal no interior do Rio de Janeiro"
+title: PF investiga fraudes contra a Caixa Econômica Federal no interior do Rio de
+  Janeiro
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Cachoeiras de Macacu/RJ **- Na tarde da sexta-feira (17/04), a Polícia Federal prendeu em flagrante um funcionário da Caixa Econômica Federal (CEF) suspeito de realizar pagamentos fraudulentos de cotas de PIS em agência bancária, no Município de Cachoeiras do Macacu/RJ.
 

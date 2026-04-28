@@ -1,11 +1,13 @@
 ---
-title: "Queda da qualidade do diesel e falta de mão de obra qualificada trazem prejuízo milionário ao setor de transportes"
+title: Queda da qualidade do diesel e falta de mão de obra qualificada trazem prejuízo
+  milionário ao setor de transportes
 date: 2021-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Além da flutuação do preço dos combustíveis, que impacta diretamente o setor de transportes e indiretamente outros setores da economia, a qualidade do óleo diesel consumido pelos brasileiros ficou ainda pior em fevereiro. O mais recente boletim do Programa de Monitoramento da Qualidade dos Combustíveis (PMQC) revelou que o nível de não conformidade do produto fechou o segundo mês do ano perto dos 6,3%. É mais do que o dobro dos 3,1% registrados em janeiro e o pior mês em dois anos e meio de pesquisas.
 

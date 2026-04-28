@@ -1,11 +1,12 @@
 ---
-title: "Fruto da lobeira: um potencial para a produção sustentável de bioetanol"
+title: 'Fruto da lobeira: um potencial para a produção sustentável de bioetanol'
 date: 2021-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o crescimento da população mundial e consequentemente a demanda por combustíveis fósseis, surgiu a necessidade de se buscar fontes de energia de origem renovável. Uma das soluções encontradas foi a introdução de biocombustíveis (combustíveis de origem vegetal), como o bioetanol de milho (EUA, União Europeia e China) e o de cana-de-açúcar (Brasil, Índia e Colômbia, principalmente), como fontes de energia.  
 

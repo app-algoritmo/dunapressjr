@@ -1,11 +1,12 @@
 ---
-title: "PF prende 2 pessoas por saque indevido de Auxílio Emergencial"
+title: PF prende 2 pessoas por saque indevido de Auxílio Emergencial
 date: 2020-05-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Luís/MA - A Polícia Federal realizou a prisão em flagrante de duas pessoas na madrugada desta quinta-feira (30/4), após o saque indevido da quantia de mais R$ 96 mil, valor corresponde ao Auxílio Emergencial do Governo Federal pago por conta da pandemia do coronavírus (Covid-19).
 

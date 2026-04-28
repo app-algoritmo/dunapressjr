@@ -1,11 +1,12 @@
 ---
-title: "Outubro bate recorde histórico na geração de emprego formal em Itajaí"
+title: Outubro bate recorde histórico na geração de emprego formal em Itajaí
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí atingiu a maior marca histórica da geração de empregos no mês outubro. São 1.652 novas carteiras assinadas no período. O resultado é o melhor mês de outubro desde a criação do Cadastro Geral de Empregados e Desempregados (Caged) e divulgação dos dados pelo extinto Ministério do Trabalho. Itajaí consolida sua recuperação econômica após o auge da pandemia de coronavírus no primeiro semestre com o quinto mês consecutivo de geração positiva de empregos.
 

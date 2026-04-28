@@ -1,11 +1,12 @@
 ---
-title: "Fazenda concluiu projeto de novo arcabouço fiscal, afirma Haddad"
+title: Fazenda concluiu projeto de novo arcabouço fiscal, afirma Haddad
 date: 2023-03-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo ele, próximo passo será tratar do modelo com área econômica.
 

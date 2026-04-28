@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal lançou a Nota Fiscal de Serviço Eletrônica"
+title: Receita Federal lançou a Nota Fiscal de Serviço Eletrônica
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O evento de lançamento ocorreu pelo canal do Youtube da Receita Federal.
 

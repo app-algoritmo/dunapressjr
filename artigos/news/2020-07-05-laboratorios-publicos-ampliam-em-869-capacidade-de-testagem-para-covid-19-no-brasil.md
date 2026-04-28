@@ -1,11 +1,13 @@
 ---
-title: "Laboratórios públicos ampliam em 869% capacidade de testagem para Covid-19 no Brasil"
+title: Laboratórios públicos ampliam em 869% capacidade de testagem para Covid-19
+  no Brasil
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Até o dia 30 de junho, foram realizados 1,4 milhão de exames de RT-PCR para Covid-19, sendo que 860.604 na rede nacional de laboratórios de saúde pública e 618.067 nos principais laboratórios privados do país. Sobre os testes rápidos, foram realizados no país, um total de 1,4 milhão. Importante destacar que se trata do total de testes realizados que foram registrados no e-SUS notifica até o dia 25/06.
 

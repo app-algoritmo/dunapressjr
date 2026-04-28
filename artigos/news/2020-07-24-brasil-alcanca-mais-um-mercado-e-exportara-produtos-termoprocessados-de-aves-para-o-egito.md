@@ -1,11 +1,13 @@
 ---
-title: "Brasil alcança mais um mercado e exportará produtos termoprocessados de aves para o Egito"
+title: Brasil alcança mais um mercado e exportará produtos termoprocessados de aves
+  para o Egito
 date: 2020-07-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Autorização será para as plantas que já estão habilitadas para o mercado egípcio e que, atualmente, embarcam frango inteiro.
 

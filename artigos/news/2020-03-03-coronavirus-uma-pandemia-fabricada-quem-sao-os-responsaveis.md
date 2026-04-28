@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, uma pandemia fabricada?, quem são os responsáveis?"
+title: Coronavírus, uma pandemia fabricada?, quem são os responsáveis?
 date: 2020-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Global Research, o Centro de Pesquisa sobre Globalização, dirigido pelo Prof. Michel Chossudovsky, publicou sobre o tema da origem do vírus, uma série de artigos de especialistas internacionais. Eles demonstram que “não se pode excluir que o vírus tenha sido criado em laboratório”. É um campo cercado pelo segredo mais denso, frequentemente sobre a cobertura de pesquisa científica civil. No entanto, surgem fatos:
 

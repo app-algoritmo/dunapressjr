@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa enfrenta nova queda e fecha a segunda-feira a 115 mil pontos"
+title: Ibovespa enfrenta nova queda e fecha a segunda-feira a 115 mil pontos
 date: 2023-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Perdas relacionadas a eventos internacionais e desempenho das commodities afetam o mercado brasileiro.
 

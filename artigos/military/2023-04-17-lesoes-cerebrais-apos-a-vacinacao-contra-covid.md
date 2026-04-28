@@ -1,11 +1,12 @@
 ---
-title: "Lesões cerebrais após a vacinação contra COVID"
+title: Lesões cerebrais após a vacinação contra COVID
 date: 2023-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 *Existem rotas secundárias para o cérebro. Os desenvolvedores de vacinas COVID percorreram um caminho por essas portas. E eles sabiam que haviam entrado no cérebro em novembro de 2020, antes do lançamento da vacina.*
 

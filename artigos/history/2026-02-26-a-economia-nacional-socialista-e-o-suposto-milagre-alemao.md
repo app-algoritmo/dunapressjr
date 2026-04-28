@@ -1,11 +1,12 @@
 ---
-title: "A economia nacional-socialista e o suposto milagre alemão"
+title: A economia nacional-socialista e o suposto milagre alemão
 date: 2026-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - History
+- History
 ---
+
 
 ## Hitler dispensou Schacht e deixou a economia nas mãos de Göring. Ele foi nomeado chefe do segundo plano quadrienal e responsável pelo comércio, controle de preços, câmbio e investimentos.
 

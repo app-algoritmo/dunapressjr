@@ -1,11 +1,13 @@
 ---
-title: "O Contraste na Produção Global: China Lidera na Manufatura de Bens e Infraestrutura Enquanto os EUA Sobressaem na Produção de Armamentos"
+title: 'O Contraste na Produção Global: China Lidera na Manufatura de Bens e Infraestrutura
+  Enquanto os EUA Sobressaem na Produção de Armamentos'
 date: 2024-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na atual paisagem econômica global, dois gigantes industriais emergem como potências dominantes em diferentes esferas da produção. De um lado, a China se destaca como líder incontestável na fabricação de uma ampla gama de bens e na construção de infraestrutura essencial. Por outro lado, os Estados Unidos emergem como o principal fabricante de armamentos, exercendo uma influência significativa nas questões geopolíticas mundiais. Este artigo examina o que cada país produz e como essa dinâmica molda o cenário internacional.
 

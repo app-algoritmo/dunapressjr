@@ -1,11 +1,12 @@
 ---
-title: "<strong>Presença feminina rompe preconceitos e ganha força no agronegócio</strong>"
+title: <strong>Presença feminina rompe preconceitos e ganha força no agronegócio</strong>
 date: 2022-11-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O último Censo Agro, realizado em 2017, pelo Instituto Brasileiro de Geografia e Estatística (IBGE), demonstrou que a cada dez lideranças do campo, pelo menos duas são mulheres. Buscando mudar o cenário, a Confederação da Agricultura e Pecuária do Brasil (CNA) apresentou, em agosto de 2022, a sua Comissão Nacional de Mulheres do Agro. O objetivo é ampliar a participação feminina no sistema, que, conforme apontam pesquisas, ainda é pequena. De acordo com o censo de 2017, as mulheres são proprietárias de somente 19% dos estabelecimentos agrícolas.
 

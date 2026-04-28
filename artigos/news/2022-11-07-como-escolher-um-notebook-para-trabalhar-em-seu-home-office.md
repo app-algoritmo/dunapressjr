@@ -1,11 +1,12 @@
 ---
-title: "Como escolher um notebook para trabalhar em seu home office"
+title: Como escolher um notebook para trabalhar em seu home office
 date: 2022-11-07
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Escolher o equipamento certo para produtividade e desempenho nunca foi fácil.
 

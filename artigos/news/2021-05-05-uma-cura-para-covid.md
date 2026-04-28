@@ -1,11 +1,12 @@
 ---
-title: "Uma cura para COVID?"
+title: Uma cura para COVID?
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O novo tratamento do hospital de Tel Aviv demonstrou ser 95% eficaz na cura de pacientes hospitalizados com coronavírus.
 

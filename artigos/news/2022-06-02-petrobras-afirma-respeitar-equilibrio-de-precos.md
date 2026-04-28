@@ -1,11 +1,12 @@
 ---
-title: "Petrobras afirma respeitar equilíbrio de preços"
+title: Petrobras afirma respeitar equilíbrio de preços
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em debate sobre a política de preços do mercado de combustíveis, a Petrobras reforçou que mantém equilíbrio com os preços praticados no mercado internacional e que não repassa oscilações do câmbio ao consumidor. A companhia foi ouvida nesta quarta-feira (01) pela Comissão de Finanças e Tributação da Câmara dos Deputados.
 

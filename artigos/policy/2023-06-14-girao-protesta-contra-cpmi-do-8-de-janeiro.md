@@ -1,11 +1,12 @@
 ---
-title: "Girão protesta contra CPMI do 8 de Janeiro"
+title: Girão protesta contra CPMI do 8 de Janeiro
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) afirmou, em pronunciamento no Plenário nesta terça-feira (13), que o governo “invadiu” a CPMI do 8 de Janeiro e “não deixou a oposição votar e aprovar uma série de requerimentos que iriam elucidar a verdade”. A maioria da comissão rejeitou requerimentos que solicitavam, por exemplo, acesso a imagens do Itamaraty e do Ministério da Justiça e Segurança Pública no dia do ataque. 
 

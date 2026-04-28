@@ -1,11 +1,12 @@
 ---
-title: "Após lucro recorde, Correios terão distribuição de lucros a empregados"
+title: Após lucro recorde, Correios terão distribuição de lucros a empregados
 date: 2022-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Presidente da empresa falou sobre novo acordo coletivo.
 

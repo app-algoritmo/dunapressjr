@@ -1,11 +1,13 @@
 ---
-title: "Hospital Universitário de Dourados tem mais 38 leitos para pacientes em tratamento da epidemia"
+title: Hospital Universitário de Dourados tem mais 38 leitos para pacientes em tratamento
+  da epidemia
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 São 17 leitos de Enfermaria (4 Obstétrica, 5 Adulto e 8 Pediátrica) e 21 leitos de terapia intensiva (5 Pediátrica, 2 Neonatal e 14 Adulto).
 

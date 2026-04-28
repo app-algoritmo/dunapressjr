@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra operação contra desvios no FNDE"
+title: Polícia Federal deflagra operação contra desvios no FNDE
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ex-ministro Milton Ribeiro foi preso; PF cumpre outras 4 prisões.
 

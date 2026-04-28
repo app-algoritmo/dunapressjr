@@ -1,11 +1,12 @@
 ---
-title: "Tensão Crescente no Mar da China Meridional: Uma Nova '1914' à Vista?"
+title: 'Tensão Crescente no Mar da China Meridional: Uma Nova ''1914'' à Vista?'
 date: 2024-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As tensões entre os Estados Unidos e a China, com as Filipinas em uma posição vulnerável, estão se intensificando no Mar da China Meridional. O anúncio da China de uma nova lei que prenderá cidadãos estrangeiros em águas reivindicadas por Pequim pode ser o gatilho para um confronto militar direto com os EUA. O regulamento, denominado Procedimentos Administrativos de Execução da Lei para Agências da Guarda Costeira, entrará em vigor em 15 de junho de 2024.
 

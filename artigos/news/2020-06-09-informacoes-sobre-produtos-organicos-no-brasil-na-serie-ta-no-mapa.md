@@ -1,11 +1,12 @@
 ---
-title: "Informações sobre produtos orgânicos no Brasil na série “Tá no Mapa”"
+title: Informações sobre produtos orgânicos no Brasil na série “Tá no Mapa”
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Vídeo está disponível nas redes sociais do Ministério.
 

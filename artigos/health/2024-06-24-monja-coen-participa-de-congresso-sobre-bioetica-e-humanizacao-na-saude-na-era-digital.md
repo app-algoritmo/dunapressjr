@@ -1,11 +1,13 @@
 ---
-title: "Monja Coen participa de congresso sobre bioética e humanização na saúde na era digital"
+title: Monja Coen participa de congresso sobre bioética e humanização na saúde na
+  era digital
 date: 2024-06-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Evento em Curitiba apresenta exemplos inspiradores implantados por hospitais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear tem atividades gratuitas para todas as idades no Parque da Cidade, em Brasília, no domingo (14)"
+title: Festival Vamos Passear tem atividades gratuitas para todas as idades no Parque
+  da Cidade, em Brasília, no domingo (14)
 date: 2024-07-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Crianças, jovens, adultos e idosos contarão com espaços voltados para a saúde, esporte e bem-estar, no evento apresentado pela Brasilprev, no Distrito Federal.
 

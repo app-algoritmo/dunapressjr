@@ -1,11 +1,12 @@
 ---
-title: "Para onde vai o lixo?"
+title: Para onde vai o lixo?
 date: 2018-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A quantidade de lixo que um ser humano produz é grande. Imagine o lixo de muitas famílias reunido. Imagine tudo isso jogado nas ruas. Para onde vai todo esse lixo? 
 

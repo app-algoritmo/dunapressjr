@@ -1,11 +1,13 @@
 ---
-title: "Estudo: Pessoas infectadas com COVID são provavelmente imunes para o resto da vida"
+title: 'Estudo: Pessoas infectadas com COVID são provavelmente imunes para o resto
+  da vida'
 date: 2021-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma nova pesquisa sugere que mesmo pessoas com casos leves de COVID desenvolvem imunidade duradoura ao coronavírus - apesar do declínio nos anticorpos.
 

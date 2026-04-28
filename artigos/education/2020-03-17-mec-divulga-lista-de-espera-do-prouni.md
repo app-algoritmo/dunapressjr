@@ -1,11 +1,12 @@
 ---
-title: "MEC divulga lista de espera do ProUni"
+title: MEC divulga lista de espera do ProUni
 date: 2020-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O prazo definido no edital era de 13 a 16 de março. Com o fechamento temporário de diversas instituições por conta do coronavírus, porém, o Ministério da Educação (MEC) decidiu dar mais tempo para os estudantes. 
 

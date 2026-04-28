@@ -1,11 +1,12 @@
 ---
-title: "Consequências Devastadoras do Bloqueio do X para Ciência e Tecnologia no Brasil"
+title: Consequências Devastadoras do Bloqueio do X para Ciência e Tecnologia no Brasil
 date: 2024-08-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 O bloqueio da rede social X (antigo Twitter) no Brasil, ordenado pelo ministro Alexandre de Moraes, não se limita apenas a uma questão de segurança e controle de conteúdos extremistas. A decisão tem implicações profundas e devastadoras para a ciência e a tecnologia no país, áreas que dependem fortemente do fluxo livre de informações e da comunicação global.
 

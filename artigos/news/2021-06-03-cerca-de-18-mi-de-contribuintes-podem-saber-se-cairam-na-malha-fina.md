@@ -1,11 +1,12 @@
 ---
-title: "Cerca de 1,8 mi de contribuintes podem saber se caíram na malha fina"
+title: Cerca de 1,8 mi de contribuintes podem saber se caíram na malha fina
 date: 2021-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Consulta pode ser feita pela internet, no portal e-CAC.
 

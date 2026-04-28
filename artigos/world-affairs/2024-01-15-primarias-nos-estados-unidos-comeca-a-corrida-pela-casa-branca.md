@@ -1,11 +1,12 @@
 ---
-title: "Primárias nos Estados Unidos: começa a corrida pela Casa Branca"
+title: 'Primárias nos Estados Unidos: começa a corrida pela Casa Branca'
 date: 2024-01-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A corrida à Casa Branca começa nos Estados Unidos com um processo **primário** em que os dois principais partidos devem escolher qual será a sua fórmula para aspirar ao mais alto cargo político do país. A Constituição não estipula o funcionamento desta complexa máquina pré-eleitoral, mas desde o início da década de 1970 vigora um método que atribui um **peso considerável aos cidadãos** , em detrimento das lideranças das principais formações políticas.
 

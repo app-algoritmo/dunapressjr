@@ -1,11 +1,12 @@
 ---
-title: "Entrevista com a Professora Doutora Gabriele Greggersen."
+title: Entrevista com a Professora Doutora Gabriele Greggersen.
 date: 2019-04-03
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Apresentamos ao leitor uma entrevista com uma grande admiradora da obra de C.S LEWIS, uma pesquisadora acadêmica com uma carreira de incansável dedicação, trabalho intenso e detentora de uma  inteligencia que vai além do que os numerosos títulos acadêmicos apontam: Gabriele Greggersen. 
 

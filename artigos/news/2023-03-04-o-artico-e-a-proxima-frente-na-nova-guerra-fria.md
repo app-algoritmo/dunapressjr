@@ -1,11 +1,12 @@
 ---
-title: "O Ártico é a próxima frente na nova Guerra Fria"
+title: O Ártico é a próxima frente na nova Guerra Fria
 date: 2023-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Localizado geoestrategicamente, com recursos naturais rentáveis, o Ártico está rapidamente se tornando uma zona militarizada de poder político na nova Guerra Fria, contestada pelos EUA e Europa, Rússia e China
 

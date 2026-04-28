@@ -1,11 +1,13 @@
 ---
-title: "Curitiba recebe projeto que estimula hábito de leitura entre profissionais da construção civil"
+title: Curitiba recebe projeto que estimula hábito de leitura entre profissionais
+  da construção civil
 date: 2023-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A 5**ª** edição da pesquisa "Retratos da Leitura no Brasil", realizada pelo Instituto Pró-Livro (IPL), indica que a quantidade de leitores no país caiu de 56% em 2015 para 52% em 2019. O levantamento, divulgado em 2020, ouviu 8.076 pessoas em 208 municípios e define como leitor a pessoa que leu pelo menos um livro, inteiro ou em partes, nos últimos três meses. Os dados revelaram, portanto, que o país perdeu cerca de 4,6 milhões de leitores em quatro anos, principalmente das classes A e B, com Ensino Superior, e menores de idade entre 11 e 17 anos. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Novos benefícios terão limite de prazo e de custo, diz Tesouro"
+title: Novos benefícios terão limite de prazo e de custo, diz Tesouro
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para secretário, PEC traz segurança jurídica para recursos.
 

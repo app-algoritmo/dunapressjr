@@ -1,12 +1,14 @@
 ---
-title: "Saiba como ajudar ONGs que atuam no resgate de animais vítimas das chuvas no RS"
+title: Saiba como ajudar ONGs que atuam no resgate de animais vítimas das chuvas no
+  RS
 date: 2024-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 São inúmeras as perdas causadas pelas fortes chuvas que atingem o Rio Grande do Sul desde o dia 29 de abril. As enchentes já afetaram mais de 1,3 milhão de pessoas em pelo menos 380 municípios do estado. Até o momento, 90 pessoas morreram na tragédia, e outras milhares estão desalojadas.
 

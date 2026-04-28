@@ -1,11 +1,12 @@
 ---
-title: "Imposto sobre valor agregado é questionado em debate na CCJ"
+title: Imposto sobre valor agregado é questionado em debate na CCJ
 date: 2019-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Senadores Jorginho Mello e Roberto Rocha coordenam debate sobre a reforma tributária.
 

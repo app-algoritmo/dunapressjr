@@ -1,11 +1,12 @@
 ---
-title: "Nova técnica protege cérebro de AVCs em cirurgias de troca da válvula cardíaca"
+title: Nova técnica protege cérebro de AVCs em cirurgias de troca da válvula cardíaca
 date: 2022-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Sempre me pergunto se foi trocada mesmo a válvula no meu coração. Tive alta após dois dias da cirurgia e uma semana depois já não sentia nenhum incômodo”, conta José Alberto Schimidt, 86 anos. O aposentado, com longo histórico de problemas cardíacos - como diabetes, ponte de safena e angioplastia - foi submetido a uma nova técnica cirúrgica, pioneira no estado, e que protege o paciente de AVC.
 

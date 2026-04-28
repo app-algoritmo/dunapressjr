@@ -1,11 +1,12 @@
 ---
-title: "Corinthians chega ao tetra e iguala rival como maior campeão paulista"
+title: Corinthians chega ao tetra e iguala rival como maior campeão paulista
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Soccer
+- Soccer
 ---
+
 
 ## Brabas derrotaram o São Paulo na Neo Química Arena, por 4 a 1, e empatam em número de títulos com o Santos.
 

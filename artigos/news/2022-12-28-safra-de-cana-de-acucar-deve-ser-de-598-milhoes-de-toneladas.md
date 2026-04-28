@@ -1,11 +1,12 @@
 ---
-title: "Safra de cana-de-açúcar deve ser de 598 milhões de toneladas"
+title: Safra de cana-de-açúcar deve ser de 598 milhões de toneladas
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expansão pode atingir 2,2% sobre a produção de 2021/2022.
 

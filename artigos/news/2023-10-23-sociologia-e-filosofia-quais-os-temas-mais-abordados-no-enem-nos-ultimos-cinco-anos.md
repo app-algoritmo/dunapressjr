@@ -1,11 +1,13 @@
 ---
-title: "Sociologia e Filosofia: quais os temas mais abordados no Enem nos últimos cinco anos?"
+title: 'Sociologia e Filosofia: quais os temas mais abordados no Enem nos últimos
+  cinco anos?'
 date: 2023-10-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Na estrutura do Exame Nacional do Ensino Médio (Enem), os componentes curriculares de Sociologia e Filosofia fazem parte das Ciências Humanas e Sociais.
 

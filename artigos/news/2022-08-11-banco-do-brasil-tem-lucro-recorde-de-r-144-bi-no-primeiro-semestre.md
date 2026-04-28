@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil tem lucro recorde de R$ 14,4 bi no primeiro semestre"
+title: Banco do Brasil tem lucro recorde de R$ 14,4 bi no primeiro semestre
 date: 2022-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Instituição elevou para R$ 27 bi a R$ 30 bi projeção de ganhos em 2022.
 

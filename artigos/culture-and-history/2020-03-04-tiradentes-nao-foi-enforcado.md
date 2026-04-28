@@ -1,11 +1,12 @@
 ---
-title: "Tiradentes não foi enforcado!"
+title: Tiradentes não foi enforcado!
 date: 2020-03-04
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 -"Pode-se enganar a todos por algum tempo; pode-se enganar alguns por todo o tempo; mas não se pode enganar a todos todo o tempo." Abraham Lincoln
 

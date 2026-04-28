@@ -1,11 +1,13 @@
 ---
-title: "ICIJ usa inteligência Artificial da U Stanford para identificar o sexo de 340 mil pessoas prejudicadas por dispositivos médicos"
+title: ICIJ usa inteligência Artificial da U Stanford para identificar o sexo de 340
+  mil pessoas prejudicadas por dispositivos médicos
 date: 2020-02-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Jornalistas que relataram o [Implant Files](https://www.icij.org/investigations/implant-files/) , a [investigação](https://www.icij.org/) premiada [do Consórcio Internacional de Jornalistas Investigativos](https://www.icij.org/) sobre a regulamentação negligente da indústria de dispositivos médicos de US $ 400 bilhões em todo o mundo, ouviram histórias de horror repetidas vezes. Pacientes prejudicados por dispositivos médicos vêm de todas as origens, mas a maioria dos milhares que ouvimos compartilharam uma característica definidora: eram mulheres.
 

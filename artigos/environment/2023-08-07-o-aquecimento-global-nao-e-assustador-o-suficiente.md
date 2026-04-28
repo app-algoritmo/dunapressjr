@@ -1,11 +1,12 @@
 ---
-title: "O aquecimento global não é assustador o suficiente"
+title: O aquecimento global não é assustador o suficiente
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 ## O aquecimento global não é assustador o suficiente. A mudança climática certamente não é assustadora o suficiente. 
 

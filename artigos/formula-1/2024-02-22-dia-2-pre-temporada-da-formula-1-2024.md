@@ -1,12 +1,13 @@
 ---
-title: "Dia 2 | Pré-Temporada da Fórmula 1 2024"
+title: Dia 2 | Pré-Temporada da Fórmula 1 2024
 date: 2024-02-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Formula 1
-  - Sports
+- Formula 1
+- Sports
 ---
+
 
 ## Ferrari na frente e Mercedes em ascensão. Saiba mais sobre os destaques do segundo dia de testes da da Fórmula 1. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear abre a temporada 2024 no Rio de Janeiro com mais de 4 mil participantes"
+title: Festival Vamos Passear abre a temporada 2024 no Rio de Janeiro com mais de
+  4 mil participantes
 date: 2024-05-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Além de Passeio de Bike, Caminhada e Corrida Kids, o evento contou com atividades gratuitas como vôlei, basquete, minipista de skate, Espaço Kids, serviço de massagem e muito mais.
 

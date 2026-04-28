@@ -1,11 +1,12 @@
 ---
-title: "Governo lança Plano de Contingência para Crianças e Adolescentes"
+title: Governo lança Plano de Contingência para Crianças e Adolescentes
 date: 2020-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ação integrada busca proteger os mais vulneráveis durante pandemia do coronavírus.
 

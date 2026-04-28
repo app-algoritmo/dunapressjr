@@ -1,11 +1,13 @@
 ---
-title: "Marinho diz que governo Da Silva pretende acabar com o saque-aniversário do FGTS"
+title: Marinho diz que governo Da Silva pretende acabar com o saque-aniversário do
+  FGTS
 date: 2023-01-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O ministro do Trabalho, Luiz Marinho, afirmou que o governo de da Silva (PT) pretende acabar com o saque-aniversário do Fundo de Garantia do Tempo de Serviço (FGTS). A afirmação foi feita em entrevista ao jornal O Globo. Marinho não deu detalhes de quando ou como isso pode ser feito.
 

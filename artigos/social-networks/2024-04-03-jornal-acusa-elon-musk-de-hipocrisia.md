@@ -1,11 +1,12 @@
 ---
-title: "Jornal acusa Elon Musk de hipocrisia"
+title: Jornal acusa Elon Musk de hipocrisia
 date: 2024-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 O visionário dos veículos elétricos (EV), Elon Musk, há muito tempo é aclamado como um ícone da inovação tecnológica. No entanto, por trás da fachada de suas aspirações libertárias, uma história sombria de hipocrisia emerge quando se trata da vigilância governamental.
 

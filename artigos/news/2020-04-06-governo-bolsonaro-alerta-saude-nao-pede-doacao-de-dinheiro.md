@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro alerta: Saúde não pede doação de dinheiro"
+title: 'Governo Bolsonaro alerta: Saúde não pede doação de dinheiro'
 date: 2020-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Diante dos relatos reiterados de golpes que vem sendo aplicados por estelionatários por meio de chamadas telefônicas ou mensagens de Whatsapp, o Ministério da Saúde informa que não pede nem recebe doações em dinheiro, assim como não há fundo exclusivo para receber recursos da população para combate à pandemia de covid-19.
 

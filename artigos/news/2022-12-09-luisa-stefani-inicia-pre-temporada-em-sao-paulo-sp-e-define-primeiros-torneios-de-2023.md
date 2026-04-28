@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani inicia pré-temporada em São Paulo (SP) e define primeiros torneios de 2023"
+title: Luisa Stefani inicia pré-temporada em São Paulo (SP) e define primeiros torneios
+  de 2023
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Luisa Stefani, número 48 do mundo, iniciou esta semana, em São Paulo (SP), sua pré-temporada para o novo ano de 2023, que começará ainda nos últimos dias de 2022. A tenista iniciou os trabalhos de preparação física com o Rede Tênis Brasil e definiu seus primeiros torneios da nova temporada. Ela embarca no próximo dia 22 para Brisbane, na Austrália, onde defende o Brasil na nova United Cup, competição mista de países. O Brasil encara a Itália e a Noruega na fase de grupos a partir do dia 29 de dezembro. Já no dia 9 de janeiro, ela inicia a disputa do WTA 500 de Adelaide e, no dia 16, o Australian Open. Sua parceira será definida nos próximos dias.
 

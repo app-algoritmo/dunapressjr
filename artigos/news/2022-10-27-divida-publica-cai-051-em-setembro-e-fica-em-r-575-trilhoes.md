@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública cai 0,51% em setembro e fica em R$ 5,75 trilhões"
+title: Dívida Pública cai 0,51% em setembro e fica em R$ 5,75 trilhões
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Vencimento de títulos vinculados à Selic contribui para queda.
 

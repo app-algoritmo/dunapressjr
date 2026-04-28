@@ -1,11 +1,12 @@
 ---
-title: "Os jogos da fome: descobrindo o segredo do interruptor da fome no cérebro"
+title: 'Os jogos da fome: descobrindo o segredo do interruptor da fome no cérebro'
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Uma estrutura 3D revela como um interruptor molecular único em nosso cérebro faz com que nos sintamos saciados - e pode ajudar a desenvolver drogas anti-obesidade aprimoradas.
 

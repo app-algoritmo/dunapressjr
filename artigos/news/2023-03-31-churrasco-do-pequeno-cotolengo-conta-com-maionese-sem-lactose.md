@@ -1,11 +1,12 @@
 ---
-title: "Churrasco do Pequeno Cotolengo conta com maionese sem lactose"
+title: Churrasco do Pequeno Cotolengo conta com maionese sem lactose
 date: 2023-03-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 O novo item do cardápio traz opções para que as pessoas com intolerância aproveitem o churrasco da Organização de forma segura e completa. 
 

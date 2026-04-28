@@ -1,11 +1,12 @@
 ---
-title: "Girão critica indicação de Dino para o STF e celebra ato na Avenida Paulista"
+title: Girão critica indicação de Dino para o STF e celebra ato na Avenida Paulista
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento no Plenário nesta segunda-feira (27), a indicação, pelo presidente Lula, do nome do ministro da Justiça, Flávio Dino, para a vaga de Rosa Weber no Supremo Tribunal Federal (STF). Girão enfatizou que Dino “boicotou” as investigações da CPMI do 8 de Janeiro, quando se recusou a entregar imagens de câmeras de segurança da área externa do Ministério da Justiça.
 

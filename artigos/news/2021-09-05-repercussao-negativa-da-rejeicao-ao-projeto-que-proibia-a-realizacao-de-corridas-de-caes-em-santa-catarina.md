@@ -1,11 +1,13 @@
 ---
-title: "Repercussão negativa da rejeição ao Projeto que proibia a realização de corridas de cães em Santa Catarina"
+title: Repercussão negativa da rejeição ao Projeto que proibia a realização de corridas
+  de cães em Santa Catarina
 date: 2021-09-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de Lei (PL) 70/2021, de autoria do deputado Marcius Machado (PL), que proibia a realização de corrida de cães no estado foi rejeitado, com a decisão, a proposta será arquivada.
 

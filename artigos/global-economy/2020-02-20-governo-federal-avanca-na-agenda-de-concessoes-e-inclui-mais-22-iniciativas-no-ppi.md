@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal avança na agenda de concessões e inclui mais 22 iniciativas no PPI"
+title: Governo Federal avança na agenda de concessões e inclui mais 22 iniciativas
+  no PPI
 date: 2020-02-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Concessões englobam projetos na área de turismo, infraestrutura, meio ambiente, energia e mineração 
 

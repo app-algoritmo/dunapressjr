@@ -1,11 +1,12 @@
 ---
-title: "Psicose: Hitchcock no Divã!"
+title: 'Psicose: Hitchcock no Divã!'
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Há 60 anos atrás, os espectadores nas salas de cinema eram surpreendidos com a icônica cena onde a protagonista Marion Crane vivida por Janet Leigh, enquanto tomava banho, era surpreendida por uma silhueta sinistra portando uma faca, enquanto a trilha sonora composta por violentos golpes em violino fazia o espectador encolher-se na poltrona, ao passo que a protagonista era esfaqueada e na metalinguagem utilizada na época por Hitchcock, o sangue da mulher escorria pelo ralo do banheiro.
 

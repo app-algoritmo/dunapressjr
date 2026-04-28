@@ -1,11 +1,12 @@
 ---
-title: "Comissão Mista de Orçamento aprova acréscimo de R$ 72 bi para 2022"
+title: Comissão Mista de Orçamento aprova acréscimo de R$ 72 bi para 2022
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com revisão, déficit orçamentário de 2022 está perto de ser zerado.
 

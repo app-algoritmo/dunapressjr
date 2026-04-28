@@ -1,11 +1,13 @@
 ---
-title: "Garantidos pelo Brasil abastecimento interno e exportação de alimentos durante pandemia"
+title: Garantidos pelo Brasil abastecimento interno e exportação de alimentos durante
+  pandemia
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pais registra recorde na produção de grãos e exportações cresceram comparativamente ao ano anterior.
 

@@ -1,11 +1,12 @@
 ---
-title: "As Consequências Desastrosas da Tentativa dos EUA de Eliminar a Rússia"
+title: As Consequências Desastrosas da Tentativa dos EUA de Eliminar a Rússia
 date: 2023-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A tentativa dos Estados Unidos de enviar a Rússia para o espaço não apenas desencadeou tensões geopolíticas, mas também resultou em um imenso prejuízo econômico global. A aplicação de sanções econômicas pelos EUA não apenas reverberou nos mercados mundiais, mas deixou cicatrizes profundas na economia global.
 

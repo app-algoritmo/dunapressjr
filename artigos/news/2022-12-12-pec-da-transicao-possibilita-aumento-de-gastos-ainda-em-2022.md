@@ -1,11 +1,12 @@
 ---
-title: "PEC da Transição possibilita aumento de gastos ainda em 2022"
+title: PEC da Transição possibilita aumento de gastos ainda em 2022
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Embora alguns deputados da oposição ao novo governo digam que vão votar contra a nova PEC da Transição (32/22) já aprovada pelo Senado, o deputado [Enio Verri (PT-PR)](https://www.camara.leg.br/deputados/132504), líder do PT na Comissão Mista de Orçamento, acredita que a proposta terá mais de 350 votos no Plenário da Câmara. São necessários 308 votos em dois turnos de votação.
 

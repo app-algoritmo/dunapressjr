@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial cai 0,36% em agosto, diz IBGE"
+title: Inflação oficial cai 0,36% em agosto, diz IBGE
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda teve influência da redução nos combustíveis e energia elétrica.
 

@@ -1,12 +1,13 @@
 ---
-title: "<strong>Aretha Duarte lança biografia, da 'Da Sucata ao Everest'</strong>"
+title: <strong>Aretha Duarte lança biografia, da 'Da Sucata ao Everest'</strong>
 date: 2022-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
-  - News
+- Books
+- News
 ---
+
 
 ## Primeira mulher negra latino-americana a chegar ao "Topo do Mundo", ativista socioambiental e líder ESG, vai autografar o livro na loja Decathlon EPIA Sul.
 

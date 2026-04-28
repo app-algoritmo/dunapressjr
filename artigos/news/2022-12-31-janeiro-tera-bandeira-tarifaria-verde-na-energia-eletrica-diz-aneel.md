@@ -1,11 +1,12 @@
 ---
-title: "Janeiro terá bandeira tarifária verde na energia elétrica, diz Aneel"
+title: Janeiro terá bandeira tarifária verde na energia elétrica, diz Aneel
 date: 2022-12-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Não haverá cobranças adicionais na conta de luz.
 

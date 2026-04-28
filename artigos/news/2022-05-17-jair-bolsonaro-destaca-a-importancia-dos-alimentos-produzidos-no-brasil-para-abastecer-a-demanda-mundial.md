@@ -1,11 +1,13 @@
 ---
-title: "Jair Bolsonaro, destaca a importância dos alimentos produzidos no Brasil para abastecer a demanda mundial"
+title: Jair Bolsonaro, destaca a importância dos alimentos produzidos no Brasil para
+  abastecer a demanda mundial
 date: 2022-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente da República, Jair Bolsonaro, participou, nesta segunda-feira (16/05), em São Paulo, da cerimônia de abertura da 36ª edição da APAS Show, feira do setor supermercadista que é considerada a maior do setor de alimentos e bebidas das Américas. O evento é realizado pela Associação Paulista de Supermercados (APAS).
 

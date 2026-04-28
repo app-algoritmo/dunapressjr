@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí oferece Programa de Apoio ao Empreendedor"
+title: Município de Itajaí oferece Programa de Apoio ao Empreendedor
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O programa busca ensinar empreendedores a divulgar seu produto através do marketing digital.
 

@@ -1,11 +1,12 @@
 ---
-title: "Melhores bancos digitais para MEI: os 3 melhores do mercado!"
+title: 'Melhores bancos digitais para MEI: os 3 melhores do mercado!'
 date: 2022-12-22
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Apesar de não ser obrigação legal, é muito importante que empresas e microempreendedores tenham uma conta bancária para organizar suas finanças e ter acesso a serviços que beneficiem seu negócio. Mas qual é o melhor banco para MEI?
 

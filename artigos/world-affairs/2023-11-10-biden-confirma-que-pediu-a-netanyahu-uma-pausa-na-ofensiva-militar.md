@@ -1,11 +1,12 @@
 ---
-title: "Biden confirma que pediu a Netanyahu uma “pausa” na ofensiva militar"
+title: Biden confirma que pediu a Netanyahu uma “pausa” na ofensiva militar
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, confirmou que pediu ao primeiro-ministro de Israel, Benjamin Netanyahu, uma **“pausa” na ofensiva militar lançada contra a Faixa de Gaza** após os ataques perpetrados em 7 de outubro pelos terroristas do Hamas. movimento.
 

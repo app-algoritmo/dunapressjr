@@ -1,11 +1,12 @@
 ---
-title: "O Eixo do Mal Ressurge"
+title: O Eixo do Mal Ressurge
 date: 2024-04-19
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Quando se esperava que o fascismo tivesse voltado às trevas de onde saiu, ditadores ressurgem graças à omissão dos ignorantes, e o governo brasileiro faz parte de um novo eixo do mal, encabeçado por países de esquerda. Todos os países desse eixo contam com sistemas mais fechados ou abertos, mas ainda assim, ditaduras. No maior grau estão Coreia do Norte, Cuba, Irã e Venezuela; no segundo, China, Rússia, Vietnã e Nicarágua; e a caminho de se tornar ditadura estão o Brasil e a Colômbia. 
 

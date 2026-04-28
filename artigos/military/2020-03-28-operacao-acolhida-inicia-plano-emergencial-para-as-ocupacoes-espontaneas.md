@@ -1,11 +1,12 @@
 ---
-title: "Operação Acolhida inicia plano emergencial para as ocupações espontâneas"
+title: Operação Acolhida inicia plano emergencial para as ocupações espontâneas
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília
 (DF) -** As ocupações espontâneas vêm sendo monitoradas pela

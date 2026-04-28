@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança comercial sobe 102,5% no ano e chega a US$ 16,81 bilhões"
+title: Superávit da balança comercial sobe 102,5% no ano e chega a US$ 16,81 bilhões
 date: 2021-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio até a quarta semana de abril atinge US$ 136,12 bilhões, com exportações no valor de US$ 76,46 bilhões e importações de US$ 59,66 bilhões.
 

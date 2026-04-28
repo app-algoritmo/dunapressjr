@@ -1,11 +1,13 @@
 ---
-title: "A Distopia de 1984 e os Paradoxos do Presente: Um Olhar Crítico sobre a Realidade Atual"
+title: 'A Distopia de 1984 e os Paradoxos do Presente: Um Olhar Crítico sobre a Realidade
+  Atual'
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A obra "1984" de George Orwell, escrita em 1949, continua a ser um ponto de referência crucial para compreender os desafios contemporâneos. O romance descreve uma sociedade totalitária onde a vigilância constante, a manipulação da verdade e o controle absoluto sobre a vida dos cidadãos são normais. Hoje, muitos observadores notam paralelos alarmantes entre o mundo ficcional de Orwell e diversas práticas e políticas atuais.
 

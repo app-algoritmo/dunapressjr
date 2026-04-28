@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro: Geração de energia por fontes renováveis cresceu em 2022"
+title: 'Governo Bolsonaro: Geração de energia por fontes renováveis cresceu em 2022'
 date: 2023-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Dados do Boletim Mensal de Energia apresentaram aumento da geração de energia por fonte hidráulica, solar e eólica.
 

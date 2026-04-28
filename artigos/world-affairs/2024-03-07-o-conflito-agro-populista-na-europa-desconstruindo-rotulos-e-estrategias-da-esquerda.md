@@ -1,11 +1,13 @@
 ---
-title: "O Conflito Agro-Populista na Europa: Desconstruindo Rótulos e Estratégias da Esquerda"
+title: 'O Conflito Agro-Populista na Europa: Desconstruindo Rótulos e Estratégias
+  da Esquerda'
 date: 2024-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A revolta agro-populista que está varrendo a Europa encontrou uma recepção uniformemente desdenhosa da esquerda em cada país, rotulando os trabalhadores do setor primário como "ultra-direita". Esta tática busca estigmatizar os protestos que escapam ao controle dos partidos e sindicatos de esquerda. No entanto, a esquerda europeia perdeu o contato com as ruas, adotando cada vez mais uma postura alinhada aos interesses financeiros. Se a esquerda optar por se opor às revoltas camponesas, corre o risco de ser ela mesma deixada para trás.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presos Políticos Brasileiros Diante do Congresso dos EUA: Um Alerta para as Violacões dos Direitos Humanos"
+title: 'Presos Políticos Brasileiros Diante do Congresso dos EUA: Um Alerta para as
+  Violacões dos Direitos Humanos'
 date: 2024-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No último testemunho perante o Subcommittee on Global Health, Global Human Rights and International Organizations do Congresso Americano, a presidente da Associação dos Familiares e Vítimas do 08 de Janeiro (ASFAV), Gabriela Ritter, juntamente com um grupo de advogados brasileiros, trouxe à luz uma realidade sombria: as violações dos direitos humanos e a perseguição política no Brasil. Esta audiência pública serviu como um palco crucial para expor as preocupações urgentes relacionadas aos presos políticos no país.
 

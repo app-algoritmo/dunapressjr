@@ -1,11 +1,12 @@
 ---
-title: "Em 9 meses, RJ apreendeu o maior número de fuzis dos últimos 16 anos"
+title: Em 9 meses, RJ apreendeu o maior número de fuzis dos últimos 16 anos
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 De janeiro a setembro deste ano, as forças estaduais de segurança retiraram das mãos de criminosos 4.980 armas de fogo. O número de fuzis apreendidos aumentou 27%, totalizando 487. Por dia, as polícias realizaram 103 prisões em flagrante e recuperaram, em média, 40 veículos roubados. É importante destacar também que outros indicadores criminais registraram números positivos.
 

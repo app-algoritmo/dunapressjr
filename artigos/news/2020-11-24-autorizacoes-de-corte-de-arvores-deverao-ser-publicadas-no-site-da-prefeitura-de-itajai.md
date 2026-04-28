@@ -1,11 +1,13 @@
 ---
-title: "Autorizações de corte de árvores deverão ser publicadas no site da Prefeitura de Itajaí"
+title: Autorizações de corte de árvores deverão ser publicadas no site da Prefeitura
+  de Itajaí
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em segunda discussão, a Câmara de Vereadores de Itajaí aprovou nesta terça-feira (24), durante a 56ª Sessão Ordinária, o [Projeto de Lei Ordinária (PLO) nº 144/2019](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria144_2019.pdf), do vereador Níkolas Reis (Podemos). O PLO, que dispõe sobre a divulgação eletrônica de autorizações e licenças ambientais em Itajaí recebeu 16 votos favoráveis.
  

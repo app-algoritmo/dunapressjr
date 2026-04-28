@@ -1,11 +1,13 @@
 ---
-title: "O Índice de Confiança Empresarial (ICE) do FGV IBRE caiu 0,7 ponto em setembro, para 94,1 pontos"
+title: O Índice de Confiança Empresarial (ICE) do FGV IBRE caiu 0,7 ponto em setembro,
+  para 94,1 pontos
 date: 2023-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quarto mês consecutivo de confiança moderadamente baixa reflete pessimismo empresarial.
 

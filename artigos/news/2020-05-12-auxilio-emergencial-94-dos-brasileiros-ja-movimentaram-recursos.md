@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Emergencial: 94% dos brasileiros já movimentaram recursos"
+title: 'Auxílio Emergencial: 94% dos brasileiros já movimentaram recursos'
 date: 2020-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em um mês, o Governo Federal liberou R$ 35,5 bilhões do benefício para mais de 50 milhões de brasileiros
 Dados da Caixa divulgados nesta segunda-feira (11) mostram que 94% dos brasileiros que receberam Auxílio Emergencial já movimentaram os recursos. A maior parte das 20.990.792 transações financeiras (70%) foram realizadas na forma digital, por meio de transferências, pagamentos e compras com o cartão de débito virtual.

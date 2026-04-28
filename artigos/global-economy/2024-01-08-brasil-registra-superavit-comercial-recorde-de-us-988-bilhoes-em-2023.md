@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra superávit comercial recorde de US$ 98,8 bilhões em 2023"
+title: Brasil registra superávit comercial recorde de US$ 98,8 bilhões em 2023
 date: 2024-01-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Queda nas importações faz Balança Comercial ter superávit histórico em 2023.
 

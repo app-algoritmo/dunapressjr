@@ -1,11 +1,12 @@
 ---
-title: "Estudo mostra que 33% dos trabalhadores não sabem como utilizar o FGTS"
+title: Estudo mostra que 33% dos trabalhadores não sabem como utilizar o FGTS
 date: 2022-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Levantamento foi feito pela Serasa e pelo Banco Pan.
 

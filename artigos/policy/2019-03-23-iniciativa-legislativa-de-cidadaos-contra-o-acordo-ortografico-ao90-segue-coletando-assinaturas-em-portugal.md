@@ -1,11 +1,13 @@
 ---
-title: "Iniciativa Legislativa de Cidadãos contra o Acordo Ortográfico (AO/90) segue coletando assinaturas em Portugal"
+title: Iniciativa Legislativa de Cidadãos contra o Acordo Ortográfico (AO/90) segue
+  coletando assinaturas em Portugal
 date: 2019-03-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Iniciativa Legislativa de Cidadãos contra o Acordo Ortográfico segue a todo o vapor em Portugal. O objetivo é enviar para votação no Parlamento Projeto de Lei que revogará o AO/90. Sim, o tema não foi "enterrado" e a batalha judicial continua. "Muita burocracia e pouca democracia" tem sido essa a visão do grande grupo de acadêmicos, escritores, tradutores e intelectuais contra o AO/90 especialmente em Portugal.  
 

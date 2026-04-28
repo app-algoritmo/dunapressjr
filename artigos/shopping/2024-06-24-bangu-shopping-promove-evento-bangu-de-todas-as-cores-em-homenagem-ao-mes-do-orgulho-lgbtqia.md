@@ -1,11 +1,13 @@
 ---
-title: "Bangu Shopping promove evento “Bangu de Todas as Cores” em homenagem ao Mês do Orgulho LGBTQIA+"
+title: Bangu Shopping promove evento “Bangu de Todas as Cores” em homenagem ao Mês
+  do Orgulho LGBTQIA+
 date: 2024-06-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Feira de Empreendedorismo do movimento LGBTQIAPN+, encaminhamento para retificação de nome e gênero e balcão de oportunidades estão na programação.
 

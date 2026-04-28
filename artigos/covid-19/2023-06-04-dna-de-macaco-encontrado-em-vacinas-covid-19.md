@@ -1,11 +1,12 @@
 ---
-title: "DNA de macaco encontrado em vacinas COVID-19"
+title: DNA de macaco encontrado em vacinas COVID-19
 date: 2023-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Os tiros COVID-19 estão provando ser uma bomba-relógio maior do que qualquer um jamais pensou.
 

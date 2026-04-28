@@ -1,11 +1,12 @@
 ---
-title: "Pequenas empresas são responsáveis por 76% dos novos empregos"
+title: Pequenas empresas são responsáveis por 76% dos novos empregos
 date: 2022-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa, referente a novembro de 2021, é do Sebrae.
 

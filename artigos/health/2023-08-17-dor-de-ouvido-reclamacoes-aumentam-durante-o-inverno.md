@@ -1,11 +1,12 @@
 ---
-title: "Dor de ouvido: reclamações aumentam durante o inverno"
+title: 'Dor de ouvido: reclamações aumentam durante o inverno'
 date: 2023-08-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Infecções e inflamações na região do ouvido, conhecidas como otites médias, frequentemente resultam de doenças respiratórias.
 

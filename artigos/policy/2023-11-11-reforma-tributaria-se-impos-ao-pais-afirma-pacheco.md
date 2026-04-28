@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária se impôs ao país, afirma Pacheco"
+title: Reforma tributária se impôs ao país, afirma Pacheco
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Mesmo com as dificuldades para chegar ao texto aprovado nesta quarta-feira (8) pelo Senado, a reforma tributária ([PEC 45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930)) se impôs porque o Brasil não podia mais conviver com o atraso. Essa é a avaliação do presidente do Senado, Rodrigo Pacheco, após a votação da proposta nesta quarta-feira (8). Para ele, a aprovação mostra que o diálogo é essencial para construir o Brasil do futuro.
 

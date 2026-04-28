@@ -1,11 +1,13 @@
 ---
-title: "Viktor Orbán fala a incômoda verdade: 'A Rússia não pode ser derrotada porque é uma potência nuclear'"
+title: 'Viktor Orbán fala a incômoda verdade: ''A Rússia não pode ser derrotada porque
+  é uma potência nuclear'''
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Por que os neocons em Washington não conseguem entender que não estão lidando com Saddam Hussein ou Muammar Gaddafi, mas com uma superpotência nuclear?
 

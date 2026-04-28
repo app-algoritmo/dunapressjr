@@ -1,11 +1,12 @@
 ---
-title: "O impacto positivo das energias renováveis no meio ambiente"
+title: O impacto positivo das energias renováveis no meio ambiente
 date: 2022-05-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 As energias renováveis ​​têm como objetivo aumentar a sustentabilidade e o impacto positivo no meio ambiente. A cada dia que passa, ambos os conceitos entram em diversos contextos a nível global e são uma das principais soluções para reduzir as emissões de gases de estufa. O artigo de hoje aborda o impacto de cada uma destas situações no nosso dia a dia.
 

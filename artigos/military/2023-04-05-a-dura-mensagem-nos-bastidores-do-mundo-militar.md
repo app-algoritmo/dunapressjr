@@ -1,12 +1,13 @@
 ---
-title: "A dura mensagem nos bastidores do mundo militar"
+title: A dura mensagem nos bastidores do mundo militar
 date: 2023-04-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 As Forças Armadas do Brasil sofreram a maior e mais devastadora derrota de sua história, sem guerra, sem batalha e nem mesmo uma simples escaramuça. Foram totalmente, literalmente derrotados em todos os sentidos possíveis e imagináveis.
 

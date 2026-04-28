@@ -1,11 +1,12 @@
 ---
-title: "Pequenos negócios lideram geração de empregos em julho"
+title: Pequenos negócios lideram geração de empregos em julho
 date: 2021-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de serviços foi o que teve maior expansão entre micro e pequenas.
 

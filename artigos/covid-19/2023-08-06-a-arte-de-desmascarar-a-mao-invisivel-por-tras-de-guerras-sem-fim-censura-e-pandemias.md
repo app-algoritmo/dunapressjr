@@ -1,11 +1,13 @@
 ---
-title: "A arte de desmascarar a mão invisível por trás de guerras sem fim, censura e pandemias"
+title: A arte de desmascarar a mão invisível por trás de guerras sem fim, censura
+  e pandemias
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O médico americano Robert Malone acreditou por muito tempo que os EUA eram os mocinhos. Agora ele relutantemente chega à conclusão de que não é esse o caso.
 

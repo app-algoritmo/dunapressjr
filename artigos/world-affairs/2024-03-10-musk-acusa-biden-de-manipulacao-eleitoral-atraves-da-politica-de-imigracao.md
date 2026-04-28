@@ -1,11 +1,12 @@
 ---
-title: "Musk acusa Biden de manipulação eleitoral através da política de imigração"
+title: Musk acusa Biden de manipulação eleitoral através da política de imigração
 date: 2024-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Elon Musk, o empresário e CEO de empresas como Tesla e SpaceX, criticou as políticas de imigração da administração Biden, alegando que visam alterar o equilíbrio de poder nas próximas eleições presidenciais. Musk levantou preocupações sobre a contagem de imigrantes ilegais para fins de distribuição de assentos no Congresso e votos no colégio eleitoral, destacando uma potencial mudança significativa no cenário político.
 

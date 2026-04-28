@@ -1,11 +1,12 @@
 ---
-title: "IGP-M acumula taxa de inflação de 6,22% em 12 meses"
+title: IGP-M acumula taxa de inflação de 6,22% em 12 meses
 date: 2020-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Índice foi divulgado hoje pela FGV.
 

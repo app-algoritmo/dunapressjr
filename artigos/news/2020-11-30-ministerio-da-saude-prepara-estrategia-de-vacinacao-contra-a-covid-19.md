@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde prepara estratégia de vacinação contra a Covid-19"
+title: Ministério da Saúde prepara estratégia de vacinação contra a Covid-19
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde divulgou, nesta quinta-feira (19), durante coletiva de imprensa, os dez eixos prioritários que vão guiar a campanha de vacinação dos brasileiros, a fim de reduzir a morbidade e mortalidade pela doença, além de diminuir a transmissão do vírus entre as pessoas.
 

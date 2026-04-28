@@ -1,11 +1,12 @@
 ---
-title: "Capo Viagens promove curso sobre como abrir uma agência de milhas"
+title: Capo Viagens promove curso sobre como abrir uma agência de milhas
 date: 2022-08-18
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O turismo é uma das principais apostas de crescimento da economia nacional. Com o avanço da vacinação contra a Covid-19 no país e a retomada das atividades, o setor vive um período de aquecimento, responsável por atrair não só clientes, mas também interessados em empreender. Para auxiliar quem pretende ingressar no mercado, a Capo Viagens irá promover o curso “[Especialização em Milhas](https://especializacaoemmilhas.com.br/)”.
 

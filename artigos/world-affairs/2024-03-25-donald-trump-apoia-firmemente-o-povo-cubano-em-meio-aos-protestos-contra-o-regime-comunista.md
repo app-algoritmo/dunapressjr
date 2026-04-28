@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump apoia firmemente o povo cubano em meio aos protestos contra o regime comunista"
+title: Donald Trump apoia firmemente o povo cubano em meio aos protestos contra o
+  regime comunista
 date: 2024-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos últimos dias, o ex-presidente dos Estados Unidos, Donald Trump, pronunciou-se veementemente em solidariedade ao povo cubano diante dos protestos em massa que eclodiram em Cuba contra o regime comunista. Em uma declaração pública, Trump condenou energicamente as violações dos direitos humanos perpetradas pelo governo cubano e fez um apelo claro e direto pela libertação imediata de todos os presos políticos detidos injustamente. Suas palavras ressoaram entre os manifestantes cubanos, que enfrentam a repressão e a violência do regime enquanto lutam por liberdade, democracia e justiça.
 

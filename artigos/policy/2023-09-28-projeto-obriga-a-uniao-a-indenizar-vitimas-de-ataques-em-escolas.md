@@ -1,11 +1,12 @@
 ---
-title: "Projeto obriga a União a indenizar vítimas de ataques em escolas"
+title: Projeto obriga a União a indenizar vítimas de ataques em escolas
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta será analisada pelas comissões da Câmara dos Deputados.
 

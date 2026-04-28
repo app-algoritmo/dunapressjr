@@ -1,11 +1,12 @@
 ---
-title: "Work Until You Die: Denmark's Proposed New Retirement Age"
+title: 'Work Until You Die: Denmark''s Proposed New Retirement Age'
 date: 2024-11-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Denmark is among the countries undergoing a significant transformation in its social security system, with a proposal to raise the retirement age to 75. This debate reflects a global trend of adjustments to retirement systems, driven by increasing life expectancy and mounting pressure on social security systems.
 

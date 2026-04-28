@@ -1,11 +1,12 @@
 ---
-title: "Veja como fazer declaração de Imposto de Renda para MEI"
+title: Veja como fazer declaração de Imposto de Renda para MEI
 date: 2022-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Imposto deve ser declarado se lucro ultrapassar R$ 28.559,70.
 

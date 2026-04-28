@@ -1,11 +1,12 @@
 ---
-title: "Kremlin diz que não sabe como Navalny morreu"
+title: Kremlin diz que não sabe como Navalny morreu
 date: 2024-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz do Kremlin, Dmitri Peskov, brevemente respondeu às perguntas dos jornalistas hoje, confirmando que o presidente russo, Vladimir Putin, foi informado sobre a morte de seu principal rival, Alexei Navalny, ocorrida na prisão no Ártico.
 

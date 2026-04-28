@@ -1,12 +1,13 @@
 ---
-title: "A Caminho do Verão"
+title: A Caminho do Verão
 date: 2022-08-15
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Video library
+- Books
+- Video library
 ---
+
 
 Along for the Ride
 

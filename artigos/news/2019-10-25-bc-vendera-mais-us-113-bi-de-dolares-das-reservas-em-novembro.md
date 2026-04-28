@@ -1,11 +1,12 @@
 ---
-title: "BC venderá mais US$ 11,3 bi de dólares das reservas em novembro"
+title: BC venderá mais US$ 11,3 bi de dólares das reservas em novembro
 date: 2019-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Depois de leiloar US$ 26,9 bilhões das reservas
 internacionais nos últimos meses, o Banco Central (BC) venderá mais US$ 11,3

@@ -1,11 +1,12 @@
 ---
-title: "Astronauta Marcos Pontes critica governo Lula e STF"
+title: Astronauta Marcos Pontes critica governo Lula e STF
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Astronauta Marcos Pontes (PL-SP) manifestou preocupação, em pronunciamento no Plenário nesta terça-feira (19), com "os rumos do país". Ele criticou a frase "o Brasil está de volta", usada pelo governo Lula, que a seu ver incentivaria o "conformismo". O senador afirmou que o país necessita de "uma economia forte, educação de qualidade, ciência, tecnologia e políticas públicas eficientes".
 

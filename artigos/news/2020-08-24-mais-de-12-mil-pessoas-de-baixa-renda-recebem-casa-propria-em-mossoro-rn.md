@@ -1,11 +1,12 @@
 ---
-title: "Mais de 1,2 mil pessoas de baixa renda recebem casa própria em Mossoró (RN)"
+title: Mais de 1,2 mil pessoas de baixa renda recebem casa própria em Mossoró (RN)
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ter moradia própria agora é uma realidade para 300 famílias de baixa renda de Mossoró (RN). Nesta sexta-feira (21), as unidades habitacionais foram entregues pelo Presidente Jair Bolsonaro no Residencial Mossoró I. O Ministério do Desenvolvimento Regional investiu R$ 18,3 milhões no empreendimento que vai beneficiar cerca de 1,2 mil pessoas.
 

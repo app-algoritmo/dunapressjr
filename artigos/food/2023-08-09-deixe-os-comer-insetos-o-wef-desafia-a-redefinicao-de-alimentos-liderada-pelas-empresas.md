@@ -1,11 +1,13 @@
 ---
-title: "Deixe-os comer insetos: o WEF desafia a redefinição de alimentos liderada pelas empresas"
+title: 'Deixe-os comer insetos: o WEF desafia a redefinição de alimentos liderada
+  pelas empresas'
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 O modelo agrário globalizado dominante é baseado em políticas comerciais injustas, alavancagem da dívida soberana, deslocamento populacional e expropriação de terras. Promove a monocultura de matérias-primas e a insegurança alimentar, além da degradação do solo e do meio ambiente.
 

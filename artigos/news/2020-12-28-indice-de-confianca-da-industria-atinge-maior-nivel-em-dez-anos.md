@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança da Indústria atinge maior nível em dez anos"
+title: Índice de Confiança da Indústria atinge maior nível em dez anos
 date: 2020-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo a FGV, índice registrou 114,9 pontos em dezembro.
 

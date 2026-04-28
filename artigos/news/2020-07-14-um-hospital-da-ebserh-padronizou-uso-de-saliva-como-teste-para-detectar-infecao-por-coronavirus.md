@@ -1,11 +1,13 @@
 ---
-title: "Um hospital da Ebserh padronizou uso de saliva como teste para detectar infeção por coronavírus"
+title: Um hospital da Ebserh padronizou uso de saliva como teste para detectar infeção
+  por coronavírus
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Procedimento apresenta menos desconforto para o paciente e menor risco de contaminação para funcionários, pois é autocoletado pela pessoa.
 

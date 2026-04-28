@@ -1,11 +1,13 @@
 ---
-title: "Porta-voz do Kremlin vê grande número de candidatos presidenciais russos como natural"
+title: Porta-voz do Kremlin vê grande número de candidatos presidenciais russos como
+  natural
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Dmitry Peskov sublinhou que algumas das ambições políticas são realizáveis e outras não.
 

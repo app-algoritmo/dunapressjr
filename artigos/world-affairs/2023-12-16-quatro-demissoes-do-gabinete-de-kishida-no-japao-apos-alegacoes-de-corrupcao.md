@@ -1,11 +1,12 @@
 ---
-title: "Quatro demissões do gabinete de Kishida no Japão após alegações de corrupção"
+title: Quatro demissões do gabinete de Kishida no Japão após alegações de corrupção
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Quatro ministros japoneses renunciaram aos seus cargos devido a um escândalo de suborno no partido no poder, que atingiu o governo do primeiro-ministro Fumio Kishida.
 

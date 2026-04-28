@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal recebe antecipação de mais de R$ 5 bilhões em contratos ferroviários"
+title: Governo Federal recebe antecipação de mais de R$ 5 bilhões em contratos ferroviários
 date: 2020-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura assinou acordo para receber valor das renovações dos contratos de concessão da Malha Paulista e da Ferrovia Norte-Sul. O acordo para o pagamento foi fechado pelo ministério, por meio da Agência Nacional de Transportes Terrestres (ANTT), com a empresa logística Rumo.
 

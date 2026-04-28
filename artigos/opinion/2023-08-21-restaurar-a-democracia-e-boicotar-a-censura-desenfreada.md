@@ -1,12 +1,13 @@
 ---
-title: "Restaurar a democracia e boicotar a censura desenfreada"
+title: Restaurar a democracia e boicotar a censura desenfreada
 date: 2023-08-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
-  - Policy
+- Opinion
+- Policy
 ---
+
 
 ## A censura ataca os direitos humanos, a comunicação e os  debates entre os povos - soluções:
 

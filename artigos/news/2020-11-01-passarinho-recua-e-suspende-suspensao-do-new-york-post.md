@@ -1,11 +1,12 @@
 ---
-title: "Passarinho recua e suspende suspensão do New York Post"
+title: Passarinho recua e suspende suspensão do New York Post
 date: 2020-11-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Após longo impasse sobre relatório Hunter Biden jornal comemorou em sua conta recém-desbloqueada, "Estamos de volta".
 

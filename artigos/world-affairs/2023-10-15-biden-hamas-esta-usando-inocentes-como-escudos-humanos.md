@@ -1,11 +1,12 @@
 ---
-title: "Biden: Hamas está usando inocentes como escudos humanos"
+title: 'Biden: Hamas está usando inocentes como escudos humanos'
 date: 2023-10-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Falando num jantar de gala da Campanha dos Direitos Humanos em Washington, o presidente dos EUA, Joe Biden, acusou o grupo terrorista Hamas de usar civis palestinos para se protegerem da retaliação israelita.
 

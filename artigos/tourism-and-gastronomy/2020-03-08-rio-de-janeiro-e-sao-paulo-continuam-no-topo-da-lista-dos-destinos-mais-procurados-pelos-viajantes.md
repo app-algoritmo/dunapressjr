@@ -1,11 +1,13 @@
 ---
-title: "Rio de Janeiro e São Paulo continuam no topo da lista dos destinos mais procurados pelos viajantes"
+title: Rio de Janeiro e São Paulo continuam no topo da lista dos destinos mais procurados
+  pelos viajantes
 date: 2020-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O Brasil está em alta como destino de viagens. Pesquisa do Expedia Group analisou o comportamento de mais de 800 milhões de usuários de suas plataformas online em 2019 e elencou as cinco cidades brasileiras mais procuradas por turistas nacionais e estrangeiros. Segundo o levantamento, os dois principais destinos do país, São Paulo e Rio de Janeiro, tiveram alta de 20% na demanda por viagens em relação a 2018.
 

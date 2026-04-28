@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Economia divulga lista dos setores mais afetados pela pandemia da Covid-19 no Brasil"
+title: Ministério da Economia divulga lista dos setores mais afetados pela pandemia
+  da Covid-19 no Brasil
 date: 2020-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O levantamento visa orientar instituições financeiras acerca dos setores mais impactados.
 

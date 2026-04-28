@@ -1,11 +1,12 @@
 ---
-title: "Dólar aproxima-se de R$ 5,30 com tensões no Reino Unido"
+title: Dólar aproxima-se de R$ 5,30 com tensões no Reino Unido
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa tem terceira queda seguida e cai 0,96%.
 

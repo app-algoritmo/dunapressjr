@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,27, influenciado pelo mercado externo"
+title: Dólar sobe para R$ 5,27, influenciado pelo mercado externo
 date: 2022-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores tem terceira alta seguida e ganha 0,46%.
 

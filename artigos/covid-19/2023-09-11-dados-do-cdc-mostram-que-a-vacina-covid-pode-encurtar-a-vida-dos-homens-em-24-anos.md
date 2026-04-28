@@ -1,11 +1,13 @@
 ---
-title: "Dados do CDC mostram que a vacina COVID pode encurtar a vida dos homens em 24 anos"
+title: Dados do CDC mostram que a vacina COVID pode encurtar a vida dos homens em
+  24 anos
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Lenta mas seguramente, os efeitos a longo prazo das vacinas contra a COVID-19 serão sentidos. De acordo com os Centros de Controle e Prevenção de Doenças, os homens que receberam a vacina de mRNA provavelmente perderão 24 anos de vida.
 

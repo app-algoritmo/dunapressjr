@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que medidas da Covid atrasam o desenvolvimento de  crianças japonesas de 5 anos em 4,4 meses"
+title: Estudo mostra que medidas da Covid atrasam o desenvolvimento de  crianças japonesas
+  de 5 anos em 4,4 meses
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Esta semana no JAMA Pediatrics, um estudo de Sato et al. intitulado *[Association Between the COVID-19 Pandemic and Early Childhood Development](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2807128)* . Então, vamos dar uma olhada no que eles fizeram.
 

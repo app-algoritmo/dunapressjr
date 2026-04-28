@@ -1,11 +1,12 @@
 ---
-title: "Preços de produtos na saída das fábricas sobem 1,18% em janeiro"
+title: Preços de produtos na saída das fábricas sobem 1,18% em janeiro
 date: 2022-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IPP acumula taxa de inflação de 25,51% em 12 meses.
 

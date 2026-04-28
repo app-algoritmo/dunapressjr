@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,45, mas tem segunda queda semanal seguida"
+title: Dólar sobe para R$ 5,45, mas tem segunda queda semanal seguida
 date: 2021-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 1,17%, mas fechou semana com alta de 1,44%.
 

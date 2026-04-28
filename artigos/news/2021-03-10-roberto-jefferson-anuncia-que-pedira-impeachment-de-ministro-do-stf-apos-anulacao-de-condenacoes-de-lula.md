@@ -1,11 +1,13 @@
 ---
-title: "Roberto Jefferson anuncia que pedirá impeachment de ministro do STF, após anulação de condenações de Lula"
+title: Roberto Jefferson anuncia que pedirá impeachment de ministro do STF, após anulação
+  de condenações de Lula
 date: 2021-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -O presidente do PTB, Roberto Jefferson, anunciou que o corpo jurídico do partido está elaborando um pedido de impeachment do ministro Edson Fachin, do STF, responsável por decisão que anulou condenações do ex-presidente Lula no âmbito da Operação Lava Jato. Neste contexto, ele ressaltou que não admitirá omissão da parte de Rodrigo Pacheco, presidente do Senado Federal.
 

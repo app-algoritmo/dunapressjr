@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro garante pagamento de R$ 250 milhões em multas ambientais relacionadas à Brumadinho"
+title: Governo Bolsonaro garante pagamento de R$ 250 milhões em multas ambientais
+  relacionadas à Brumadinho
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O valor foi depositado em conta judicial e será revertido integralmente em favor do meio ambiente e da sociedade. R$ 150 milhões serão destinados especificamente a sete Parques Nacionais no estado de Minas Gerais e os outros R$ 100 milhões serão utilizados na execução de projetos de saneamento básico.
 

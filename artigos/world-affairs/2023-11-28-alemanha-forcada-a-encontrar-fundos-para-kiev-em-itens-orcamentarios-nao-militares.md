@@ -1,11 +1,12 @@
 ---
-title: "Alemanha forçada a encontrar fundos para Kiev em itens orçamentários não militares"
+title: Alemanha forçada a encontrar fundos para Kiev em itens orçamentários não militares
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Alemanha enfrenta uma crise orçamental que poderá levar a ajustes no financiamento de vários projetos no próximo ano.
 

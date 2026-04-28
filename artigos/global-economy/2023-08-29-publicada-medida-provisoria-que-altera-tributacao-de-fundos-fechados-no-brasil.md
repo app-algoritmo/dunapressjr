@@ -1,11 +1,12 @@
 ---
-title: "Publicada medida provisória que altera tributação de fundos fechados no Brasil"
+title: Publicada medida provisória que altera tributação de fundos fechados no Brasil
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Fundos ficarão submetidos à tributação periódica pela alíquota de 15% (ou 20% para curto prazo), a exemplo dos fundos abertos.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, apreende mais uma embarcação carregada com maconha"
+title: PF, em ação integrada, apreende mais uma embarcação carregada com maconha
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Nesta segunda-feira (6/4), policiais federais e da FNSP, no âmbito da Operação Hórus e Programa VIGIA, em patrulhamento embarcado no Rio Paraná, avistaram a movimentação de uma embarcação oriunda de território paraguaio que atravessava para o território nacional, próximo à Ilha Acaray. 
 

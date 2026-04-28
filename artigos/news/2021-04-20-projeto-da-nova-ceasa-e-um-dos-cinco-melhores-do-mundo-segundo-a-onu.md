@@ -1,11 +1,12 @@
 ---
-title: "Projeto da Nova Ceasa é um dos cinco melhores do mundo segundo a ONU"
+title: Projeto da Nova Ceasa é um dos cinco melhores do mundo segundo a ONU
 date: 2021-04-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -A PPP da Nova Ceasa foi o único projeto do Brasil a ser selecionado pela ONU por sua relevância social e é considerado uma conquista do país contra a fome.
 

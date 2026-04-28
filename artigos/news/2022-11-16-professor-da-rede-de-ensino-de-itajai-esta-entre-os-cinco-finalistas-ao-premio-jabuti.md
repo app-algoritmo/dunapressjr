@@ -1,11 +1,13 @@
 ---
-title: "Professor da rede de ensino de Itajaí está entre os cinco finalistas ao Prêmio Jabuti"
+title: Professor da rede de ensino de Itajaí está entre os cinco finalistas ao Prêmio
+  Jabuti
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O professor de Arte da Rede Municipal de Ensino de Itajaí, Everson Bertucci, é um dos cinco finalistas do Eixo Literatura Infantil da 64ª edição do Prêmio Jabuti, referência entre os prêmios literários do país e considerado patrimônio cultural. O anúncio foi feito nesta terça-feira (08) pelo site oficial da premiação. Clique [**aqui**](https://www.premiojabuti.com.br/5-finalistas/) e veja a lista completa com todos os finalistas de cada uma das 20 categorias.
 

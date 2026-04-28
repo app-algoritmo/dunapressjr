@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Brasil confirma o primeiro caso positivo de infecção junto às secretarias estaduais e municipais de São Paulo"
+title: 'Coronavírus: Brasil confirma o primeiro caso positivo de infecção junto às
+  secretarias estaduais e municipais de São Paulo'
 date: 2020-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde do Brasil confirmou nesta quarta-feria 26 de fevereiro de 2020 o primeiro caso positivo de infecção pelo novo coronavírus junto às secretarias estaduais e municipais de São Paulo.
 

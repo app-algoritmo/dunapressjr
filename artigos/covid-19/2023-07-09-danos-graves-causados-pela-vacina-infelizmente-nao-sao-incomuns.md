@@ -1,11 +1,12 @@
 ---
-title: "Danos graves causados pela vacina infelizmente não são incomuns"
+title: Danos graves causados pela vacina infelizmente não são incomuns
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Reguladores de medicamentos e autoridades de saúde pública inundaram a mídia com alegações de que danos graves causados ​​por uma vacina COVID são "raros".
 

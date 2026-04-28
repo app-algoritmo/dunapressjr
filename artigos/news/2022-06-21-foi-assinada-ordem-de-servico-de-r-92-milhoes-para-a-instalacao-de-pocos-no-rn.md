@@ -1,11 +1,13 @@
 ---
-title: "Foi assinada ordem de serviço de R$ 92 milhões para a instalação de poços no RN"
+title: Foi assinada ordem de serviço de R$ 92 milhões para a instalação de poços no
+  RN
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cerca de 420 mil pessoas das regiões mais remotas do estado vão passar a ter acesso à água diariamente.
 

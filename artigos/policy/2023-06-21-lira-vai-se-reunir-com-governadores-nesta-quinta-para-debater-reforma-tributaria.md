@@ -1,11 +1,12 @@
 ---
-title: "Lira vai se reunir com governadores nesta quinta para debater reforma tributária"
+title: Lira vai se reunir com governadores nesta quinta para debater reforma tributária
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## “A reunião será decisiva para que parte da reforma esteja afinada com todos os governadores", disse Compartilhe Versão para impressão.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ganhos com injeção de Covid da Moderna caíram drasticamente, empresa visando novos mercados"
+title: Ganhos com injeção de Covid da Moderna caíram drasticamente, empresa visando
+  novos mercados
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Moderna está abrindo uma loja em Xangai, na China, para reforçar a demanda em queda.
 

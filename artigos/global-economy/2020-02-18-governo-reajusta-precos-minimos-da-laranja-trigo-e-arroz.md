@@ -1,11 +1,12 @@
 ---
-title: "Governo reajusta preços mínimos da laranja, trigo e arroz"
+title: Governo reajusta preços mínimos da laranja, trigo e arroz
 date: 2020-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Política de Garantia de Preços Mínimos diminuiu as oscilações na renda dos produtores rurais, assegura uma remuneração mínima aos agricultores e garante regularidade do abastecimento nacional*
 

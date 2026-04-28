@@ -1,11 +1,12 @@
 ---
-title: "Cuba e Nicarágua na lista negra da liberdade religiosa"
+title: Cuba e Nicarágua na lista negra da liberdade religiosa
 date: 2022-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### A Lei Internacional de Liberdade Religiosa de 1998 obriga o governo dos EUA a elaborar uma lista anual de países do mundo que cometem "graves violações da liberdade religiosa", como tortura, detenção e desaparecimento forçado de pessoas por causa de suas crenças. 
 

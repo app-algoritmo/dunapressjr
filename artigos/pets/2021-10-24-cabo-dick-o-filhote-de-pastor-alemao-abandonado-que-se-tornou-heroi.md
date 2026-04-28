@@ -1,11 +1,12 @@
 ---
-title: "Cabo Dick: O filhote de Pastor Alemão abandonado que se tornou herói"
+title: 'Cabo Dick: O filhote de Pastor Alemão abandonado que se tornou herói'
 date: 2021-10-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Em 1953 um homem abandonou um filhote de Pastor Alemão à porta do Canil da Polícia Militar no Barro Branco. Este pequeno e indefeso filhote foi então acolhido e treinado pela Polícia Militar, dentro de suas rígidas normas.
 

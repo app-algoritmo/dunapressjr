@@ -1,11 +1,12 @@
 ---
-title: "Pequenos empresários já podem pedir dinheiro do Pronampe"
+title: Pequenos empresários já podem pedir dinheiro do Pronampe
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Crédito ficará disponível até 31 de dezembro de 2024.
 

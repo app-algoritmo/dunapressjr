@@ -1,11 +1,12 @@
 ---
-title: "FGV: indicadores de mercado de trabalho mantêm tendência de piora"
+title: 'FGV: indicadores de mercado de trabalho mantêm tendência de piora'
 date: 2021-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador teve menor nível desde agosto de 2020.
 

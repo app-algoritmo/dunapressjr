@@ -1,11 +1,12 @@
 ---
-title: "Serviço Florestal Brasileiro lança edital para pedidos de movimentação de servidores"
+title: Serviço Florestal Brasileiro lança edital para pedidos de movimentação de servidores
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O servidor público interessado pode se inscrever até o dia 7 de agosto.
 

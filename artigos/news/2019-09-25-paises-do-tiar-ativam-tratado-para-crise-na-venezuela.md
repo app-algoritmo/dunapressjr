@@ -1,11 +1,12 @@
 ---
-title: "Países do Tiar ativam tratado para crise na Venezuela"
+title: Países do Tiar ativam tratado para crise na Venezuela
 date: 2019-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os países que formam o pacto de defesa interamericano Tiar
 decidiram nesta segunda-feira, por 16 votos, ativar o tratado com o objetivo de

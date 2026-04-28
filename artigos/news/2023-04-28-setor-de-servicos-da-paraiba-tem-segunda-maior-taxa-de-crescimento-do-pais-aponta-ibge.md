@@ -1,11 +1,13 @@
 ---
-title: "Setor de serviços da Paraíba tem segunda maior taxa de crescimento do país, aponta IBGE"
+title: Setor de serviços da Paraíba tem segunda maior taxa de crescimento do país,
+  aponta IBGE
 date: 2023-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em fevereiro, o setor teve expansão acima de dois dígitos e liderou o crescimento no primeiro bimestre de 2023, impulsionado pelos setores de informação e comunicação e de transportes.
 

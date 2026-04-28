@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que 'Brasil assiste à construção de uma nova ditadura'"
+title: Girão diz que 'Brasil assiste à construção de uma nova ditadura'
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) alertou, em pronunciamento nesta quinta-feira (31), sobre a existência de uma suposta tentativa de "construção de uma ditadura no Brasil", apontando para esquema envolvendo o governo Lula, o ministro da Justiça Flávio Dino e membros do Supremo Tribunal Federal (STF). O parlamentar listou uma série de eventos e declarações que, segundo ele, apontam para uma estratégia de "minar a democracia brasileira". 
 

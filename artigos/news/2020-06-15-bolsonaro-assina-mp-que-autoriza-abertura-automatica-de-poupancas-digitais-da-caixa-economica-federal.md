@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro assina MP que autoriza abertura automática de poupanças digitais da Caixa Econômica Federal"
+title: Bolsonaro assina MP que autoriza abertura automática de poupanças digitais
+  da Caixa Econômica Federal
 date: 2020-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste sábado (13), o presidente da República, Jair Bolsonaro, assinou a [Medida Provisória (MP) nº 982 ](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv982.htm)que autoriza a abertura automática de poupanças digitais da Caixa Econômica Federal para que todos os trabalhadores que possuem conta no Fundo de Garantia do Tempo de Serviço (FGTS) recebam até R$ 1.045,00 de seu saldo disponível. A estimativa é que cerca de R$ 37,8 bilhões sejam liberados para saque nesta modalidade. 
 

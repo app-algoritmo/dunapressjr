@@ -1,11 +1,12 @@
 ---
-title: "Copom reduz Selic para 3% ao ano para conter impacto de pandemia"
+title: Copom reduz Selic para 3% ao ano para conter impacto de pandemia
 date: 2020-05-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Cortes nos EUA e queda da inflação abriram espaço para novo corte
 Em meio à crise econômica decorrente da pandemia do novo coronavírus, o Banco Central (BC) diminuiu os juros básicos da economia pela sétima vez seguida. Por unanimidade, o Comitê de Política Monetária (Copom) reduziu a taxa Selic para 3% ao ano, com corte de 0,75 ponto percentual.

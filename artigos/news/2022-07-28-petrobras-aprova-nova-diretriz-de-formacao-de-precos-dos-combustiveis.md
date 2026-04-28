@@ -1,11 +1,12 @@
 ---
-title: "Petrobras aprova nova diretriz de formação de preços dos combustíveis"
+title: Petrobras aprova nova diretriz de formação de preços dos combustíveis
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Conselhos de Administração e Fiscal participam da supervisão de preços.
 

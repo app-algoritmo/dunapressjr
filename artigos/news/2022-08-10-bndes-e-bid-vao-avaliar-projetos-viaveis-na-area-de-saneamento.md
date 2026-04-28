@@ -1,11 +1,12 @@
 ---
-title: "BNDES e BID vão avaliar projetos viáveis na área de saneamento"
+title: BNDES e BID vão avaliar projetos viáveis na área de saneamento
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acordo tem foco em favelas e áreas rurais brasileiras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ford Ranger: nova geração da picape evolui no design, equipamentos e mecânica"
+title: 'Ford Ranger: nova geração da picape evolui no design, equipamentos e mecânica'
 date: 2023-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 A nova Ford Ranger 2024 foi apresentada pela primeira vez na Agrishow, em Ribeirão Preto (SP), com o lançamento no Brasil marcado para o segundo semestre de 2023. A picape é importada da Argentina e é resultado de uma transformação completa da planta de Pacheco, visando equipará-la às fábricas mais modernas da Ford em todo o mundo. A planta passou por melhorias em termos de qualidade, eficiência e ergonomia para os operadores, além de priorizar a sustentabilidade com a utilização de energia 100% renovável. 
 

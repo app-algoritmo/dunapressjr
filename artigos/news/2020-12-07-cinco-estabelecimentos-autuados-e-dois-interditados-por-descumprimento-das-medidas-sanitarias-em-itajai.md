@@ -1,11 +1,13 @@
 ---
-title: "Cinco estabelecimentos autuados e dois interditados por descumprimento das medidas sanitárias em Itajaí"
+title: Cinco estabelecimentos autuados e dois interditados por descumprimento das
+  medidas sanitárias em Itajaí
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cinco estabelecimentos comerciais foram autuados nesta quinta-feira (3) à noite e vão receber multa por descumprirem as medidas sanitárias contra a COVID-19. A notificação foi feita durante fiscalização das forças de segurança do município, que foi intensificada nesta semana. Dois destes locais também foram interditados por tempo indeterminado devido à aglomeração de pessoas e falta de cumprimento às medidas preventivas por clientes e funcionários, como uso de máscara, disponibilização de álcool em gel e distanciamento social.
 

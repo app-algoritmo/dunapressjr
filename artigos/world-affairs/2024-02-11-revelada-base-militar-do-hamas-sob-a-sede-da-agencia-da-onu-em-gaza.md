@@ -1,11 +1,12 @@
 ---
-title: "Revelada Base Militar do Hamas Sob a Sede da Agência da ONU em Gaza"
+title: Revelada Base Militar do Hamas Sob a Sede da Agência da ONU em Gaza
 date: 2024-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na cidade de Gaza, uma descoberta surpreendente lançou luz sobre as atividades secretas do grupo militante Hamas, com uma base complexa encontrada sob as instalações da Agência da ONU para Assistência aos Refugiados Palestinos (UNRWA). A revelação de uma sala climatizada com servidores de computador e escritórios subterrâneos tem levantado questões sobre a utilização de infraestrutura civil sensível como escudo para atividades militantes.
 

@@ -1,12 +1,13 @@
 ---
-title: "1000 Anos de Cristianismo na Noruega: Comemorando a Introdução da Cristandade"
+title: '1000 Anos de Cristianismo na Noruega: Comemorando a Introdução da Cristandade'
 date: 2024-06-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 Em 2024, a Noruega celebra um marco significativo em sua história: os 1000 anos da introdução da Cristandade, a legislação cristã que transformou o país. Este evento foi marcado pela presença de Suas Altezas Reais, o Príncipe Herdeiro Haakon e a Princesa Mette-Marit, que participaram das celebrações no histórico local de Moster, onde a Cristandade foi implementada em 1024. A participação da família real sublinhou a importância deste aniversário, destacando a contínua relevância das tradições e da herança cultural norueguesa. As festividades, que incluíram a assinatura da Tingsteinen e um Mostratinget para a juventude, refletiram sobre o impacto duradouro do cristianismo na formação da identidade nacional da Noruega.
 

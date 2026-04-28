@@ -1,11 +1,12 @@
 ---
-title: "Você sabia? Novo rei do Reino Unido visitou o Butantan nos anos 70"
+title: Você sabia? Novo rei do Reino Unido visitou o Butantan nos anos 70
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O novo rei do Reino Unido, Charles III, que tomou posse em setembro após o falecimento da Rainha Elizabeth II, já esteve em terras brasileiras e conheceu de perto a extensa coleção de serpentes do Instituto Butantan. Registros de 1978 mostram o então príncipe caminhando pelo corredor de cobras junto a lideranças políticas de São Paulo da época, ao então diretor do Butantan e a herpetólogos que atuavam no instituto. 
 

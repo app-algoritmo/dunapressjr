@@ -1,11 +1,12 @@
 ---
-title: "Fallen Angel conquista fãs do Eurovision em todo o mundo"
+title: Fallen Angel conquista fãs do Eurovision em todo o mundo
 date: 2021-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Lançado neste 4 de maio, o [videoclipe](https://eurovision.tv/video/tix-fallen-angel-norway-official-music-video-eurovision-2021) do cantor Tix é mais uma contribuição da Noruega para o Eurovision Song Contest, que nada mais ser publicado obteve mais de 36k em visualizações no YouTube. A canção conta a história pessoal de Tix, um menino que sofreu bullying já na escola primária. [Andreas Andresen Haukeland](https://no.wikipedia.org/wiki/TIX), mais conhecido como Tix, é um músico, produtor musical e compositor norueguês da cidade de Bærum, Noruega. Ele representará a Noruega no Eurovision Song Contest 2021 com a música "Fallen Angel". Andreas tem síndrome de Tourette, uma condição caracterizada por movimentos involuntários chamados tiques.
 

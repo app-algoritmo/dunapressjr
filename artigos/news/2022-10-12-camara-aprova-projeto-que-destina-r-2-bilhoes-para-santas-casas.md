@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que destina R$ 2 bilhões para Santas Casas"
+title: Câmara aprova projeto que destina R$ 2 bilhões para Santas Casas
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Projeto foi aprovado por 383 votos favoráveis e 3 votos contrários.
 

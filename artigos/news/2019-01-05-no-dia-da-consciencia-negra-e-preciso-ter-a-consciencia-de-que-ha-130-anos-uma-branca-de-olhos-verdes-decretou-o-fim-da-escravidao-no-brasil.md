@@ -1,11 +1,13 @@
 ---
-title: "No Dia da Consciência NEGRA, é preciso ter a consciência de que há 130 anos uma BRANCA de olhos verdes decretou o fim da escravidão no Brasil"
+title: No Dia da Consciência NEGRA, é preciso ter a consciência de que há 130 anos
+  uma BRANCA de olhos verdes decretou o fim da escravidão no Brasil
 date: 2019-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No dia 13 de Maio de 1888, Isabel Cristina Rafaela Gonzaga de Bourbon e Bragança; Princesa Imperial do Brasil; uma BRANCA de olhos verdes, brasileira e de descendência portuguesa, no exercício de suas funções como Chefe de Estado em substituição ao pai, sancionou a Terceira e mais importante Lei Abolicionista - A LEI ÁUREA - Lei Imperial n.º 3.353. com o texto: 
 

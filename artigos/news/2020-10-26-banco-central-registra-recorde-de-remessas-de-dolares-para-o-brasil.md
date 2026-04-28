@@ -1,11 +1,12 @@
 ---
-title: "Banco Central registra recorde de remessas de dólares para o Brasil"
+title: Banco Central registra recorde de remessas de dólares para o Brasil
 date: 2020-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta do dólar estimula transferências de brasileiros no exterior.
 

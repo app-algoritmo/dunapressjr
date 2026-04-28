@@ -1,11 +1,12 @@
 ---
-title: "Monumento reinaugurado para o bicentenário é depredado no Rio"
+title: Monumento reinaugurado para o bicentenário é depredado no Rio
 date: 2022-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estátua de D. Pedro I teve peças furtadas.
 

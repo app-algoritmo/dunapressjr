@@ -1,11 +1,13 @@
 ---
-title: "3ª edição do Summit da Liga Esportiva NESCAU® está com inscrições abertas para profissionais do esporte"
+title: 3ª edição do Summit da Liga Esportiva NESCAU® está com inscrições abertas para
+  profissionais do esporte
 date: 2023-10-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Em modelo híbrido, evento ocorre em 31 de outubro no Town Hall da Nestlé, em São Paulo, e conta com nomes como Daiane dos Santos, Etiene Medeiros e Flávia Saraiva.
 

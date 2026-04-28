@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, Itália fecha por decreto presidencial, toda a Lombardía, ninguém entra, ninguém sai"
+title: Coronavírus, Itália fecha por decreto presidencial, toda a Lombardía, ninguém
+  entra, ninguém sai
 date: 2020-03-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Com **366 mortos e 16 milhões de pessoas em quarentena**  pelo coronavírus número deste domingo, um aumento de 133 em relação ao sábado. Os casos de contágio já são 7.375, tendo aumentado em 1.326 em 24 horas. Lombardia é o marco zero.
 

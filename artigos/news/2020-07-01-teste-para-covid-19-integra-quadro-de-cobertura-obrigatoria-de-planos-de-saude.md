@@ -1,11 +1,12 @@
 ---
-title: "Teste para Covid-19 integra quadro de cobertura obrigatória de planos de saúde"
+title: Teste para Covid-19 integra quadro de cobertura obrigatória de planos de saúde
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Saúde Suplementar (ANS) incluiu na lista de coberturas obrigatórias dos planos de saúde o teste sorológico para o novo coronavírus. A decisão passa a valer a partir desta segunda-feira (29). Os exames sorológicos - pesquisa de anticorpos IgA, IgG ou IgM (com Diretriz de Utilização) detectam a presença de anticorpos produzidos pelo organismo após exposição ao vírus.  
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,18 um dia após eleições norte-americanas"
+title: Dólar sobe para R$ 5,18 um dia após eleições norte-americanas
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa cai 2,22% refletindo queda de lucro de bancos.
 

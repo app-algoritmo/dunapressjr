@@ -1,11 +1,12 @@
 ---
-title: "Cerca de 1,6 mi de pessoas resgatam R$ 62,1 mi em valores esquecidos"
+title: Cerca de 1,6 mi de pessoas resgatam R$ 62,1 mi em valores esquecidos
 date: 2023-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maior valor sacado no primeiro dia de resgate chega a R$ 328 mil.
 

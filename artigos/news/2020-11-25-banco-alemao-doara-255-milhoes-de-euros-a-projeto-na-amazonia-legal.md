@@ -1,11 +1,12 @@
 ---
-title: "Banco alemão doará 25,5 milhões de euros a projeto na Amazônia Legal"
+title: Banco alemão doará 25,5 milhões de euros a projeto na Amazônia Legal
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é expandir e fortalecer práticas produtivas sustentáveis nas cadeias da carne, da soja e da madeira. 
 

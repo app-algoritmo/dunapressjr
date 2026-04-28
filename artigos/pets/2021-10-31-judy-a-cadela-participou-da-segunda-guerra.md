@@ -1,11 +1,12 @@
 ---
-title: "Judy, a cadela participou da Segunda Guerra"
+title: Judy, a cadela participou da Segunda Guerra
 date: 2021-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Judy, uma perdigueira pura, foi a mascote de vários navios no Pacífico e foi capturada pelos japoneses em 1942, sendo depois levada para um campo de prisioneiros. Lá ela conheceu o aviador Frank Williams, que dividiu sua pequena porção de arroz com ela.
 

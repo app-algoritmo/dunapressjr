@@ -1,11 +1,12 @@
 ---
-title: "Luzia: o crânio mais antigo das Américas"
+title: 'Luzia: o crânio mais antigo das Américas'
 date: 2019-02-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Material recuperado na gruta conhecida como Lapa Vermelha IV, na década de 1970, durante uma missão de pesquisa franco-brasileira coordenada pela arqueóloga Annette Laming-Emperaire e com a participação de pesquisadores do Museu Nacional. 
 

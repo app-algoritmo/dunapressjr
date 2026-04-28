@@ -1,11 +1,12 @@
 ---
-title: "Rede Ebserh articula pesquisa internacional para tratar vacina contra o coronavírus"
+title: Rede Ebserh articula pesquisa internacional para tratar vacina contra o coronavírus
 date: 2020-07-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## HUB-UnB e CHC-UFPR receberão voluntários para aplicação de doses do produto criado por laboratório chinês.
 

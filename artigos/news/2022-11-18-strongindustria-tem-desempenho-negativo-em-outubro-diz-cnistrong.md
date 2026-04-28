@@ -1,11 +1,12 @@
 ---
-title: "<strong>Indústria tem desempenho negativo em outubro, diz CNI</strong>"
+title: <strong>Indústria tem desempenho negativo em outubro, diz CNI</strong>
 date: 2022-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Há expectativa de queda no emprego e nas exportações.
 

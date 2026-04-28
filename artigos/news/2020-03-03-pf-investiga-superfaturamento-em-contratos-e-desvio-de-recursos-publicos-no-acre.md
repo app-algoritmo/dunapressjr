@@ -1,11 +1,13 @@
 ---
-title: "PF investiga superfaturamento em contratos e desvio de recursos públicos no Acre"
+title: PF investiga superfaturamento em contratos e desvio de recursos públicos no
+  Acre
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio Branco/AC - A Polícia Federal deflagrou nesta
 terça-feira (3/3) a Operação Seringais, a fim de investigar grupo suspeito de

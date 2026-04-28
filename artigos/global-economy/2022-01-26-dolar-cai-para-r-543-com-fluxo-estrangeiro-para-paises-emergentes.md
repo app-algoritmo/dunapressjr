@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,43, com fluxo estrangeiro para países emergentes"
+title: Dólar cai para R$ 5,43, com fluxo estrangeiro para países emergentes
 date: 2022-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 2,1% e fecha no maior nível desde o fim de outubro.
 

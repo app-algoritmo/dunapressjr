@@ -1,11 +1,13 @@
 ---
-title: "Em Itajaí vacinação contra a gripe influenza para população em geral a partir de segunda-feira (06)"
+title: Em Itajaí vacinação contra a gripe influenza para população em geral a partir
+  de segunda-feira (06)
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí abrirá a vacinação contra a gripe influenza para toda a população, com seis meses de idade ou mais, a partir de segunda-feira (06). A imunização será ofertada nas 30 unidades básicas de saúde da cidade, conforme horário de atendimento de cada uma. Para se vacinar, é necessário apresentar um documento de identificação com foto e a caderneta de vacinação.
 

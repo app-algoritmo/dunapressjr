@@ -1,11 +1,13 @@
 ---
-title: "Estudo Revolucionário Revela Mudanças de Personalidade em Receptores de Transplantes de Órgãos"
+title: Estudo Revolucionário Revela Mudanças de Personalidade em Receptores de Transplantes
+  de Órgãos
 date: 2024-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Publicação na Revista Transplantology Desafia Entendimentos Convencionais da Ciência. 
 

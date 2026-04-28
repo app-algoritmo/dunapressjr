@@ -1,11 +1,12 @@
 ---
-title: "Como fortalecer vínculos familiares durante a pandemia"
+title: Como fortalecer vínculos familiares durante a pandemia
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, nesta sexta-feira (20), orientações de como aproveitar o isolamento para fortalecer os vínculos familiares durante a pandemia do novo coronavírus (Covide-19).
 

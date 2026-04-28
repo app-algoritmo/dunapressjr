@@ -1,11 +1,13 @@
 ---
-title: "Relator afirma que Bolsa Família poderá ficar fora do teto por dois anos e não quatro, como no texto original"
+title: Relator afirma que Bolsa Família poderá ficar fora do teto por dois anos e
+  não quatro, como no texto original
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O relator-geral do Orçamento de 2023, senador Marcelo Castro (MDB-PI), afirmou que as negociações para aprovar a chamada PEC da Transição indicam que o programa Bolsa Família poderá ficar fora do teto de gastos do setor público por dois anos, e não por quatro anos, como previsto no texto original proposto pela equipe de transição do novo governo.
 

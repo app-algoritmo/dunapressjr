@@ -1,11 +1,12 @@
 ---
-title: "Planejamento e pesquisa ajudam microempresa a ter crédito na pandemia"
+title: Planejamento e pesquisa ajudam microempresa a ter crédito na pandemia
 date: 2020-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Cooperativas, fintechs e empresas individuais emprestam a juros baixos.
 

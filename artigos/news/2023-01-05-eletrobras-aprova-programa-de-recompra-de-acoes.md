@@ -1,11 +1,12 @@
 ---
-title: "Eletrobras aprova programa de recompra de ações"
+title: Eletrobras aprova programa de recompra de ações
 date: 2023-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operações serão realizadas a preço de mercado.
 

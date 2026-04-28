@@ -1,11 +1,12 @@
 ---
-title: "7 foguetes disparados contra Jerusalém enquanto o ultimato do Hamas expira"
+title: 7 foguetes disparados contra Jerusalém enquanto o ultimato do Hamas expira
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O Knesset, a Cidade Velha, foi evacuado enquanto o Hamas cumpria as ameaças. Sirenes de alerta vermelho também ouvidas no sul.
 

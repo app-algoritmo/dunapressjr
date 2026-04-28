@@ -1,11 +1,12 @@
 ---
-title: "A parábola do sapo e o escorpião"
+title: A parábola do sapo e o escorpião
 date: 2020-06-20
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **DA SÉRIE: CRÔNICAS DA REALIDADE**
 

@@ -1,11 +1,13 @@
 ---
-title: "Câmara dos Deputados aprova suspensão de trechos de decretos de Lula sobre saneamento básico"
+title: Câmara dos Deputados aprova suspensão de trechos de decretos de Lula sobre
+  saneamento básico
 date: 2023-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de Decreto Legislativo é alvo de debates acalorados entre defensores de estatais e empresas privadas.
 

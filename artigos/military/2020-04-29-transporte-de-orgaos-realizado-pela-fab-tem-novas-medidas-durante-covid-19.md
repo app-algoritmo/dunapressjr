@@ -1,11 +1,12 @@
 ---
-title: "Transporte de órgãos realizado pela FAB tem novas medidas durante COVID-19"
+title: Transporte de órgãos realizado pela FAB tem novas medidas durante COVID-19
 date: 2020-04-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Centro de Gerenciamento de Navegação Aérea (CGNA), Organização do Departamento de Controle do Espaço Aéreo (DECEA), é o responsável pela coordenação da distribuição dos órgãos para transplante no Brasil. São duas posições da Central Nacional de Transplante (CNT), que operam 24 horas por dia, para gerenciar a logística. Porém, com os impactos da pandemia da COVID-19, precisou adotar medidas entre os órgãos de controle das entidades internacionais.
 

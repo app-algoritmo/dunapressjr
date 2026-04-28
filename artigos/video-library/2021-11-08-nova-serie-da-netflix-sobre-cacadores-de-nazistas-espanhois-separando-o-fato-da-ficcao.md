@@ -1,11 +1,13 @@
 ---
-title: "Nova série da Netflix sobre caçadores de nazistas espanhóis: separando o fato da ficção"
+title: 'Nova série da Netflix sobre caçadores de nazistas espanhóis: separando o fato
+  da ficção'
 date: 2021-11-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## A produção em espanhol 'Jaguar' oferece ação e emoção divertidas, às vezes aderindo intimamente à história - e às vezes contando com uma grande dose de licença dramática.
 

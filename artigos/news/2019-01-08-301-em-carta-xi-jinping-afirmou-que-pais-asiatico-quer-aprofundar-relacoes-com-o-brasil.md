@@ -1,11 +1,13 @@
 ---
-title: "3.01 Em carta, Xi Jinping afirmou que país asiático quer aprofundar relações com o Brasil"
+title: 3.01 Em carta, Xi Jinping afirmou que país asiático quer aprofundar relações
+  com o Brasil
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente chinês parabeniza Bolsonaro pela posse
 

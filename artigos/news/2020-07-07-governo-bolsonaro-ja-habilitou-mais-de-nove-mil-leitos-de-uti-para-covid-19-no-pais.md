@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro já habilitou mais de nove mil leitos de UTI para Covid-19 no País"
+title: Governo Bolsonaro já habilitou mais de nove mil leitos de UTI para Covid-19
+  no País
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Investimento é de R$ 1,283 bilhão para custeio de leitos destinados exclusivamente para o tratamento de pacientes graves e gravíssimos.
 

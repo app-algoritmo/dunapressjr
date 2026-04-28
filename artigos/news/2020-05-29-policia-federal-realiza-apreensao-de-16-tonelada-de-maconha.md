@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal realiza apreensão de 1,6 tonelada de maconha"
+title: Polícia Federal realiza apreensão de 1,6 tonelada de maconha
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – A Polícia Federal apreendeu na quinta-feira (28/5) 1,6 tonelada de maconha oculta em carga levada por um caminhão, na região de Ivaté.
 

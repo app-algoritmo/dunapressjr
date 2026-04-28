@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério critica julgamento dos acusados pelo 8 de janeiro no STF"
+title: Marcos Rogério critica julgamento dos acusados pelo 8 de janeiro no STF
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) criticou o julgamento do Supremo Tribunal Federal (STF) aos acusados de atos de vandalismo nas sedes dos três Poderes em 8 de janeiro. Em pronunciamento nesta terça-feira (19), o parlamentar afirmou que os réus estão sendo imputados por crimes “desconhecidos na História do Brasil”, como abolição do Estado democrático de direito, golpe de Estado, associação criminosa, dano qualificado ao patrimônio da União e deterioração do patrimônio tombado. 
 

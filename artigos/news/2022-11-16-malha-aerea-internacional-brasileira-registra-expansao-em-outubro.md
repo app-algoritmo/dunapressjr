@@ -1,11 +1,12 @@
 ---
-title: "Malha aérea internacional brasileira registra expansão em outubro"
+title: Malha aérea internacional brasileira registra expansão em outubro
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Período registrou o maior volume de voos desde a pandemia de covid-19.
 

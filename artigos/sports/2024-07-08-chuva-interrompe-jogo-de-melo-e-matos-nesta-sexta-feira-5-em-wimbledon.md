@@ -1,12 +1,13 @@
 ---
-title: "Chuva interrompe jogo de Melo e Matos nesta sexta-feira (5) em Wimbledon"
+title: Chuva interrompe jogo de Melo e Matos nesta sexta-feira (5) em Wimbledon
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Partida pela segunda rodada estava no terceiro set e será retomada neste sábado (6), por volta das 9 horas (horário de Brasília)
 

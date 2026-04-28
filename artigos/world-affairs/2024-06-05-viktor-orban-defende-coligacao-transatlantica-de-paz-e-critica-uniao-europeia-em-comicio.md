@@ -1,11 +1,13 @@
 ---
-title: "Viktor Orbán Defende 'Coligação Transatlântica de Paz' e Critica União Europeia em Comício"
+title: Viktor Orbán Defende 'Coligação Transatlântica de Paz' e Critica União Europeia
+  em Comício
 date: 2024-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro da Hungria, Viktor Orbán, garantiu este sábado que “uma coligação transatlântica de paz” liderada por forças patrióticas poderá pôr fim à guerra na Ucrânia, e acusou a União Europeia de querer “pressionar” o mundo ocidental a pegar em armas contra a Rússia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bancos poderão estender carência de pagamento do Pronampe por mais três meses"
+title: Bancos poderão estender carência de pagamento do Pronampe por mais três meses
 date: 2021-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Assembleia de cotistas do Fundo de Garantia de Operações (FGO) alterou regulamento do Pronampe para flexibilizar o prazo de carência das operações do programa.
 

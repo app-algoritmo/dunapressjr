@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai na véspera de Copom e Fed"
+title: Dólar cai na véspera de Copom e Fed
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa também fechou em queda.
 

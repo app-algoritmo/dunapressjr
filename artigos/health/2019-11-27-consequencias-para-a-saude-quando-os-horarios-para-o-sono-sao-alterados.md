@@ -1,11 +1,12 @@
 ---
-title: "Consequências para a saúde quando os horários para o sono são alterados"
+title: Consequências para a saúde quando os horários para o sono são alterados
 date: 2019-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 O Organismo fica exposto a alterações fisiológicas e psíquicas; alimentação regular ajuda a reequilibrar funções internas.
 

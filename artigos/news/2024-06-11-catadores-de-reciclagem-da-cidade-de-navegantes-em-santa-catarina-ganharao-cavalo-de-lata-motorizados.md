@@ -1,11 +1,13 @@
 ---
-title: "Catadores de reciclagem da cidade de Navegantes em Santa Catarina ganharão cavalo de lata motorizados"
+title: Catadores de reciclagem da cidade de Navegantes em Santa Catarina ganharão
+  cavalo de lata motorizados
 date: 2024-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Através da vereadora Sol Dapper (PSD) os catadores do município terão mais qualidade de vida e dignidade para efetuar seu trabalho diariamente.
 Esses trabalhadores tem um grande papel no desenvolvimento do município com seu árduo serviço de coleta de materiais recicláveis das ruas de Navegantes.

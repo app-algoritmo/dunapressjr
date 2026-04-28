@@ -1,11 +1,12 @@
 ---
-title: "Brunch, almoço e oficinas criativas são opções para comemorar Dia das Mães"
+title: Brunch, almoço e oficinas criativas são opções para comemorar Dia das Mães
 date: 2024-05-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Estabelecimentos de Curitiba capricharam na programação deste ano.
 

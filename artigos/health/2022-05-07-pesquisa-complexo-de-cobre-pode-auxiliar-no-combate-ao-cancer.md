@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Complexo de cobre pode auxiliar no combate ao câncer"
+title: 'Pesquisa: Complexo de cobre pode auxiliar no combate ao câncer'
 date: 2022-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma pesquisa conduzida por um bolsista da CAPES na Universidade Federal de Uberlândia (UFU) pode ser útil no combate ao câncer. O estudo levou à descoberta de uma molécula que se mostrou agressiva contra o câncer na pele (melanoma) e o câncer em ossos e músculos (sarcoma). Além disso,  ela é menos tóxica para as células não cancerosas. Os resultados estão descritos em [artigo](https://www.nature.com/articles/s41598-021-03909-1) publicado no *Scientific Reports*, jornal científico que pertence ao grupo Nature.
 

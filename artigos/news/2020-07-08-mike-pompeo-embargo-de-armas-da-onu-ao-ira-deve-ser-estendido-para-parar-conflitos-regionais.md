@@ -1,11 +1,13 @@
 ---
-title: "Mike Pompeo: embargo de armas da ONU ao Irã deve ser estendido para parar conflitos regionais"
+title: 'Mike Pompeo: embargo de armas da ONU ao Irã deve ser estendido para parar
+  conflitos regionais'
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O secretário de Estado dos EUA, Mike Pompeo, pediu na quarta-feira ao Conselho de Segurança da ONU que estenda o embargo de armas ao Irã e disse que as forças norte-americanas e parceiras apreenderam no mês passado uma embarcação que levava armas aos rebeldes houthis no Iêmen.
 

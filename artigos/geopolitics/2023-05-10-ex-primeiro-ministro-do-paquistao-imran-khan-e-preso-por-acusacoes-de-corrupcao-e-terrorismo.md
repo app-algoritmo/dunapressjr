@@ -1,11 +1,13 @@
 ---
-title: "Ex-primeiro-ministro do Paquistão, Imran Khan, é preso por acusações de corrupção e terrorismo"
+title: Ex-primeiro-ministro do Paquistão, Imran Khan, é preso por acusações de corrupção
+  e terrorismo
 date: 2023-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Khan é detido por força paramilitar durante busca por fiança pré-prisão em caso de corrupção envolvendo projeto de universidade multimilionário na província de Punjab.
 

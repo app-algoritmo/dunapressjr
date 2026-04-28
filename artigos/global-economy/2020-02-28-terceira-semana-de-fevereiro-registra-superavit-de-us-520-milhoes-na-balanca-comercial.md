@@ -1,11 +1,13 @@
 ---
-title: "Terceira semana de fevereiro registra superavit de US$ 520 milhões na balança comercial"
+title: Terceira semana de fevereiro registra superavit de US$ 520 milhões na balança
+  comercial
 date: 2020-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A corrente de comércio atingiu US$ 23,624 bilhões e o superavit chega a US$ 1,105 bilhão no mês
 

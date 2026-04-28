@@ -1,11 +1,13 @@
 ---
-title: "Redes sociais aclamam trineto do Imperador Pedro II para Presidência da Câmara dos deputados"
+title: Redes sociais aclamam trineto do Imperador Pedro II para Presidência da Câmara
+  dos deputados
 date: 2020-04-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Desgastadas, obsoletas, corruptas e contaminadas, as instituições do Estado brasileiro urgem nomes de peso, um recurso escasso após 130 anos de educação republicana. Mas, nem tudo esta perdido, no tabuleiro de xadrez Brasil, ainda existem peças que podem proporcionar uma vitória contra os apátridas.
 

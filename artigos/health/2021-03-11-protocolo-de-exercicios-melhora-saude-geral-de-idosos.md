@@ -1,11 +1,12 @@
 ---
-title: "Protocolo de exercícios melhora saúde geral de idosos"
+title: Protocolo de exercícios melhora saúde geral de idosos
 date: 2021-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Doutorando em Educação Física pela Universidade de Pernambuco (UPE), Bruno Remígio Cavalcante é bacharel e mestre em Educação Física pela mesma instituição. Em sua trajetória acadêmica tem se dedicado a desenvolver e colaborar com pesquisas sobre o papel preventivo e terapêutico da atividade física na saúde cardiovascular, física e cognitiva de idosos.
 

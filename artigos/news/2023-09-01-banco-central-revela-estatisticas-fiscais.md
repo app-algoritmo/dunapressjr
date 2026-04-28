@@ -1,11 +1,12 @@
 ---
-title: "Banco Central revela estatísticas fiscais"
+title: Banco Central revela estatísticas fiscais
 date: 2023-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados divulgados pelo Banco Central na última quinta-feira, 31 de agosto, apontam desafios econômicos em julho de 2023.
 

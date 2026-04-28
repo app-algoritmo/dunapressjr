@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra Operação Madset para combater venda de decisões judiciais no Tocantins"
+title: Polícia Federal deflagra Operação Madset para combater venda de decisões judiciais
+  no Tocantins
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Palmas/TO –** A Polícia Federal deflagrou, na manhã desta terça-feira (28/04), a Operação Madset, visando desarticular organização criminosa suspeita de negociar decisões judiciais no Tribunal de Justiça do Tocantins e branquear os ativos obtidos de forma ilícita.
 

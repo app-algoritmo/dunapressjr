@@ -1,11 +1,12 @@
 ---
-title: "Poderão ser prorrogadas bolsas de estudos de mestrado e doutorado em três meses"
+title: Poderão ser prorrogadas bolsas de estudos de mestrado e doutorado em três meses
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Medida implementada pela Capes vai auxiliar pesquisadores que foram prejudicados com as restrições do isolamento social.
 

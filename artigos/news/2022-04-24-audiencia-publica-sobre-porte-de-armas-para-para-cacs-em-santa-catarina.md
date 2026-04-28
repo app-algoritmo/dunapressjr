@@ -1,11 +1,12 @@
 ---
-title: "Audiência pública sobre porte de armas para para CACs em Santa Catarina"
+title: Audiência pública sobre porte de armas para para CACs em Santa Catarina
 date: 2022-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O PL estabelece que os colecionadores, atiradores e caçadores poderão transportar uma arma de fogo curta durante o trajeto entre o local de guarda do acervo e os locais de treinamento, de prova ou competição, de caça ou abate. Além disso, no certificado das armas de atiradores desportivos e caçadores será gravada a inscrição “autorizado o transporte”.
 

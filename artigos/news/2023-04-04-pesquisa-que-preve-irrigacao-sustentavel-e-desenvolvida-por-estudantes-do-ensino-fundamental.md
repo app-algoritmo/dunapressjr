@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa que prevê irrigação sustentável é desenvolvida por estudantes do ensino fundamental"
+title: Pesquisa que prevê irrigação sustentável é desenvolvida por estudantes do ensino
+  fundamental
 date: 2023-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os alunos Yohan Donat Passos, Leonardo de Oliveira Mugnaini e Cauã Pedro Eggert, todos de 13 anos, do Colégio Semeador, de Foz do Iguaçu, estiveram na final da Febrace (21.ª Feira Brasileira de Ciências e Engenharia), da Universidade de São Paulo (USP). Com o projeto “Hidroponia sustentável: sistema de irrigação que gera energia para pequenas propriedades rurais”, os estudantes têm como objetivo melhorar a produção hidropônica, tornando-a sustentável, com a ideia de reutilizar a água da irrigação para gerar energia suficiente para o sistema de irrigação se tornar autossustentável. Contribuindo, assim, para o pequeno produtor economizar energia, e, consequentemente, diminuir o custo da produção.
 

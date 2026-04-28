@@ -1,13 +1,14 @@
 ---
-title: "Um Grito para As Cruzadas!"
+title: Um Grito para As Cruzadas!
 date: 2020-03-31
 status: publish
 author: Marcos Ferreira
 categories:
-  - Chronicle
-  - History
-  - Opinion
+- Chronicle
+- History
+- Opinion
 ---
+
 
 Em 31 de março de 1146, a exatos
 874 anos atrás, Bernardo de Claraval, o santo católico, patrono e entusiasta da

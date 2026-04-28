@@ -1,11 +1,12 @@
 ---
-title: "Casa organizada: confira quatro dicas para organizar tudo em pouco tempo"
+title: 'Casa organizada: confira quatro dicas para organizar tudo em pouco tempo'
 date: 2023-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Com a chegada do novo ano, é comum programar aquela faxina para se desfazer do que não é mais necessário e liberar espaço. Os papéis acumulados, decorações de Natal, roupas em excesso, objetos dispensáveis e utensílios antigos que acumulam, bagunçam e impedem o aproveitamento dos espaços são o principal foco da organização. Assim, é possível preservar uma casa mais prática, organizada e que promova conforto e aconchego. E, vale lembrar, um lar pequeno não é limitador para ajustar móveis, organizar objetos, dispor dos objetos de maneira funcional e sem comprometer a estética.
 

@@ -1,11 +1,13 @@
 ---
-title: "Os níveis de anticorpos COVID diferem entre homens e mulheres, de acordo com estudo"
+title: Os níveis de anticorpos COVID diferem entre homens e mulheres, de acordo com
+  estudo
 date: 2021-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A idade também é, de acordo com este estudo, um fator importante na resposta imunológica, que pode levar a um tratamento direcionado com base no sexo biológico.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lançamento de astronautas desde solo americano"
+title: Lançamento de astronautas desde solo americano
 date: 2020-06-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pela primeira vez em nove anos, os astronautas da NASA foram lançados de solo americano em missão à [Estação Espacial Internacional](https://www.nasa.gov/mission_pages/station/main/index.html) (ISS). Pela primeira vez na história, esses astronautas voaram em uma nave espacial construída *e* operada comercialmente .
 

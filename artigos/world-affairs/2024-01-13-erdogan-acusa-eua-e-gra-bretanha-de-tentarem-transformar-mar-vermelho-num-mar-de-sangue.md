@@ -1,11 +1,13 @@
 ---
-title: "Erdogan acusa EUA e Grã-Bretanha de tentarem transformar Mar Vermelho num “mar de sangue”"
+title: Erdogan acusa EUA e Grã-Bretanha de tentarem transformar Mar Vermelho num “mar
+  de sangue”
 date: 2024-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder turco sublinhou que os Houthis estão a preparar uma resposta bem-sucedida.
 

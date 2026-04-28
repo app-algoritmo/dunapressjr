@@ -1,11 +1,13 @@
 ---
-title: "Nova terapia on-line para persistentes sintomas de depressão pode preencher lacuna importante no tratamento"
+title: Nova terapia on-line para persistentes sintomas de depressão pode preencher
+  lacuna importante no tratamento
 date: 2020-05-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A terapia on-line para persistentes sintomas depressivos desenvolveu maior acesso aos necessitados
 

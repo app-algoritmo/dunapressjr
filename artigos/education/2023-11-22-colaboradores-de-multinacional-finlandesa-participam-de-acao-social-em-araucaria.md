@@ -1,12 +1,13 @@
 ---
-title: "Colaboradores de multinacional finlandesa participam de ação social em Araucária"
+title: Colaboradores de multinacional finlandesa participam de ação social em Araucária
 date: 2023-11-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Events
+- Education
+- Events
 ---
+
 
 ## Ação de revitalização de pintura e reparos do Centro Municipal de Atendimento Educacional Especializado em Transtorno Global do Desenvolvimento contou com a colaboração de voluntários da Valmet e apoio de outras empresas locais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Tese estuda relação entre a ciência e os povos indígenas"
+title: Tese estuda relação entre a ciência e os povos indígenas
 date: 2021-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A vencedora do [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) 2020 em Interdisciplinaridade, Cristiane Tavares Feijó, aceitou o desafio de cruzar conhecimentos da sociologia, antropologia e geografia, a partir do método etnográfico, para estudar as relações entre indígenas *Guarani Mbyá* e pesquisadores da Empresa Brasileira de Pesquisa Agropecuária (Embrapa). A ideia era verificar como se estabelecem as mediações realizadas entre os indígenas e os pesquisadores ao longo da dinâmica de conservação das sementes extraídas do território brasileiro e armazenadas em repositórios criados para armazenar amostras vivas da biodiversidade brasileira, as chamadas “Arcas de Noé”.  
 

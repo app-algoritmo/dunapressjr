@@ -1,11 +1,12 @@
 ---
-title: "Quartos de 2.000 anos encontrados pelo Muro das Lamentações"
+title: Quartos de 2.000 anos encontrados pelo Muro das Lamentações
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um sistema subterrâneo singular de dois milênios de três quartos foi descoberto perto do Muro das Lamentações. O complexo de três cômodos - meticulosamente esculpido à mão na rocha antes da queda de Jerusalém em 70 EC - é a primeira evidência da vida cotidiana que se tornou subterrânea na cidade antiga.
 

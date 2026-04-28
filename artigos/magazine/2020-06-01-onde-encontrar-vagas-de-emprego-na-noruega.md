@@ -1,11 +1,12 @@
 ---
-title: "Onde encontrar vagas de emprego na Noruega?"
+title: Onde encontrar vagas de emprego na Noruega?
 date: 2020-06-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Dicas para candidatos estrangeiros.
 

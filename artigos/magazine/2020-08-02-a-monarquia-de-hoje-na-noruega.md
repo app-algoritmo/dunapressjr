@@ -1,11 +1,12 @@
 ---
-title: "A Monarquia de hoje na Noruega"
+title: A Monarquia de hoje na Noruega
 date: 2020-08-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **A Noruega é uma monarquia constitucional. Isso significa que Sua Majestade o Rei é o chefe formal do país, mas que seus deveres são principalmente representativos e cerimoniais. O poder legislativo e executivo é investido nos órgãos eleitos. Quando é declarado na Constituição que o poder executivo cabe ao rei, isso hoje significa o governo.** 
 

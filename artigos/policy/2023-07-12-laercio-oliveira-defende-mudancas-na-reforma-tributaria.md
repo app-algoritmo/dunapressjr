@@ -1,11 +1,12 @@
 ---
-title: "Laércio Oliveira defende mudanças na reforma tributária"
+title: Laércio Oliveira defende mudanças na reforma tributária
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Laércio Oliveira (PP-SE) disse, em pronunciamento no Plenário na terça-feira (11), que é imprescindível construir um consenso nacional em torno da reforma tributária. 
 

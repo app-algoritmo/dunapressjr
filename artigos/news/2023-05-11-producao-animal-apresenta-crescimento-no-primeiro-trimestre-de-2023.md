@@ -1,11 +1,12 @@
 ---
-title: "Produção animal apresenta crescimento no primeiro trimestre de 2023"
+title: Produção animal apresenta crescimento no primeiro trimestre de 2023
 date: 2023-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Abate de frangos, bovinos e suínos aumenta, enquanto aquisição de leite e produção de ovos sofrem quedas no período analisado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lavadora de Roupas com carregamento superior GE"
+title: Lavadora de Roupas com carregamento superior GE
 date: 2023-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Lavadora de Roupas com carregamento superior GE.
 

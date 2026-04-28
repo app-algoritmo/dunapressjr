@@ -1,11 +1,12 @@
 ---
-title: "Como a ficção dos EUA e seus aliados engana o público"
+title: Como a ficção dos EUA e seus aliados engana o público
 date: 2023-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O exemplo paradigmático de como a ficção funciona foi a mentira altamente eficaz lançada pelo presidente dos EUA e pelo primeiro-ministro britânico em uma coletiva de imprensa conjunta em 7 de setembro de 2002, de que a AIEA havia acabado de divulgar um "novo relatório" afirmando que o Iraque poderia ter uma bomba nuclear dentro de seis meses. 
 

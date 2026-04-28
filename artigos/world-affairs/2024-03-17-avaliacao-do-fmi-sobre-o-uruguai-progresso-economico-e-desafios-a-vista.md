@@ -1,11 +1,12 @@
 ---
-title: "Avaliação do FMI sobre o Uruguai: Progresso Econômico e Desafios à Vista"
+title: 'Avaliação do FMI sobre o Uruguai: Progresso Econômico e Desafios à Vista'
 date: 2024-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma equipe de especialistas do Fundo Monetário Internacional (FMI) desembarcou recentemente em Montevidéu para sua reunião anual com as autoridades econômicas do país. A vice-diretora-geral do FMI, Antoniette Sayeh, reconheceu os esforços do governo uruguaio em estabilizar a dívida, gerir as finanças públicas e promover políticas ambientais, durante seu encontro com a Ministra da Economia, Azucena Arbeleche.
 

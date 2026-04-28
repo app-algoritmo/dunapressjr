@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Banco Central prevê inflação negativa em junho e melhora no segundo semestre"
+title: Presidente do Banco Central prevê inflação negativa em junho e melhora no segundo
+  semestre
 date: 2023-06-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Roberto Campos Neto afirma que IPCA terminará o ano entre 4,5% e 5%.
 

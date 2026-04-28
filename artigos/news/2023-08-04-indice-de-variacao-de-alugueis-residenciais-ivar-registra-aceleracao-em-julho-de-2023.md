@@ -1,11 +1,13 @@
 ---
-title: "Índice de Variação de Aluguéis Residenciais (IVAR) registra aceleração em julho de 2023"
+title: Índice de Variação de Aluguéis Residenciais (IVAR) registra aceleração em julho
+  de 2023
 date: 2023-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa mensal apresenta variação positiva e quatro cidades componentes do IVAR registram altas em suas taxas de variação. 
 

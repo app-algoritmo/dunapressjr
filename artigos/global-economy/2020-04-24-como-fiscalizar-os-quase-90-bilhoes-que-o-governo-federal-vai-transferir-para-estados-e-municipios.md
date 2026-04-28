@@ -1,11 +1,13 @@
 ---
-title: "Como fiscalizar os quase 90 bilhões que o Governo Federal vai transferir para Estados e Municípios?"
+title: Como fiscalizar os quase 90 bilhões que o Governo Federal vai transferir para
+  Estados e Municípios?
 date: 2020-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Profissionais do Conselho Federal de Contabilidade e do Observatório Social do Brasil avaliam como poderá ser feito o controle dos recursos enviados para o enfrentamento da pandemia do coronavírus
 

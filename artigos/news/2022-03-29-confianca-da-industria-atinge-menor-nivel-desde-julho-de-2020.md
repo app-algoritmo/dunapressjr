@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria atinge menor nível desde julho de 2020"
+title: Confiança da indústria atinge menor nível desde julho de 2020
 date: 2022-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nível de Utilização da Capacidade Instalada avançou e foi para 80,2%.
 

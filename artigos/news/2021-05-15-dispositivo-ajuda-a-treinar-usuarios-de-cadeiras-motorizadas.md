@@ -1,11 +1,12 @@
 ---
-title: "Dispositivo ajuda a treinar usuários de cadeiras motorizadas"
+title: Dispositivo ajuda a treinar usuários de cadeiras motorizadas
 date: 2021-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Engenheira biomédica e pós-graduada em Administração Hospitalar e Gestão em Saúde pela Universidade Federal de Uberlândia (UFU), Daniela de Cássia Silva ingressou no mestrado em Engenharia Biomédica pela mesma instituição e criou um dispositivo que auxilia o treinamento de usuários de cadeira de rodas motorizadas.
 

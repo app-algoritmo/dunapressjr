@@ -1,11 +1,12 @@
 ---
-title: "Republicanos condicionam apoio a Biden para aumentar teto da dívida"
+title: Republicanos condicionam apoio a Biden para aumentar teto da dívida
 date: 2023-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Joe Biden atacou o Partido Republicano chamando-o de "caótico" por não querer aumentar o limite da dívida.****
 

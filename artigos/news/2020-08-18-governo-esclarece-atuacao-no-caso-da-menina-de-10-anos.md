@@ -1,11 +1,12 @@
 ---
-title: "Governo esclarece atuação no caso da menina de 10 anos"
+title: Governo esclarece atuação no caso da menina de 10 anos
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) vem esclarecer a atuação desta pasta em relação ao caso da menina de 10 anos que engravidou após ser estuprada pelo tio, em São Mateus (ES).
 

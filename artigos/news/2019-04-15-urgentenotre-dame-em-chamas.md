@@ -1,11 +1,12 @@
 ---
-title: "Urgente:Notre-Dame em chamas"
+title: Urgente:Notre-Dame em chamas
 date: 2019-04-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um dos símbolos da França e uma das mais visitadas catedrais, a Notre-Dame de Paris, foi atingida por incêndio hoje. Até o momento, notícias são de que o incêndio teria começado no teto e avançado velozmente para a torre. Há dificuldades em conter o fogo. 
 

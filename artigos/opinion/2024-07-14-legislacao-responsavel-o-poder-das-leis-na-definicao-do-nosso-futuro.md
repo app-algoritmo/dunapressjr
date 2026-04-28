@@ -1,11 +1,12 @@
 ---
-title: "Legislação Responsável: O Poder das Leis na Definição do Nosso Futuro"
+title: 'Legislação Responsável: O Poder das Leis na Definição do Nosso Futuro'
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Você tem certeza ao atribuir as responsabilidades por muitos dos problemas globais às famílias influentes como os Rothschild, os Rockefellers, os Soros, os Clintons, os Gates ou organizações como o WEF, a Vanguarda ou a BlackRoc? Questiono se todos nós não estamos seguindo na direção errada. Essas pessoas estão simplesmente trabalhando dentro de suas esferas de influência. Se suas ações são éticas ou morais é uma questão diferente. Em resumo, nós, trabalhadores normais que pagamos impostos, estamos buscando exatamente o que eles buscam: prosperidade.
 

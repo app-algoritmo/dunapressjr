@@ -1,11 +1,12 @@
 ---
-title: "Quais são os efeitos das 'vacinas' de mRNA na consciência humana?"
+title: Quais são os efeitos das 'vacinas' de mRNA na consciência humana?
 date: 2023-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As estratégias que estamos usando atualmente não estão funcionando. Contar com a ciência publicada, dados, debate racional e responsabilidade ética é uma gota no oceano. Governos de todo o mundo estão respondendo ocultando dados e atacando aqueles que fazem perguntas.
 

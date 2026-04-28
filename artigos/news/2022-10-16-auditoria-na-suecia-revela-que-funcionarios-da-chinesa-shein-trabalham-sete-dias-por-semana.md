@@ -1,11 +1,13 @@
 ---
-title: "Auditoria na Suécia revela que funcionários da chinesa Shein trabalham sete dias por semana"
+title: Auditoria na Suécia revela que funcionários da chinesa Shein trabalham sete
+  dias por semana
 date: 2022-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os funcionários trabalham até 18 horas por dia, sete dias por semana, por apenas 38 centavos por peça de roupa que produzem. A chinesa Shein é a maior empresa de fast fashion do mundo. Agora o Canal 4 da Suécia está revelando as condições terríveis nas fábricas da empresa.
 

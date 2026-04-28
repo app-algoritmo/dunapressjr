@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Machado de Assis"
+title: 'Série Brasileiros em Destaque: Machado de Assis'
 date: 2021-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Em 21 de junho de 1839, nasceu, no Rio de Janeiro, Joaquim Maria Machado de Assis, até hoje celebrado como o principal nome da literatura brasileira e um dos maiores escritores da língua portuguesa.
 

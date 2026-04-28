@@ -1,11 +1,13 @@
 ---
-title: "Uso excessivo do celular: reflexos vão de problemas psicológicos, neurológicos, de coluna e até intestinais"
+title: 'Uso excessivo do celular: reflexos vão de problemas psicológicos, neurológicos,
+  de coluna e até intestinais'
 date: 2023-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Tudo na palma da mão”. Muitos brasileiros aumentaram o tempo de uso de celulares na pandemia da covid-19 e a necessidade de distanciamento social levou a novas formas de relacionamento e de consumo. Uma pesquisa de saúde pública da Faculdade de Medicina da Universidade de Minas Gerais e publicada no periódico *American Journal of Health Promotion* indicou que o tempo gasto em lazer no celular, computador ou tablet passou de 1,7 hora para 2,2 horas por dia. A mesma pesquisa mostra que adultos ficam, no mínimo, três horas no celular diariamente e esse tempo excessivo pode acarretar problemas que se refletem no corpo todo. 
 

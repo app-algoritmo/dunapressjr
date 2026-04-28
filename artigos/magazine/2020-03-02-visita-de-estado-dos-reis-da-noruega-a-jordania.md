@@ -1,11 +1,12 @@
 ---
-title: "Visita de Estado dos Reis da Noruega à Jordânia"
+title: Visita de Estado dos Reis da Noruega à Jordânia
 date: 2020-03-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Hoje suas Majestades, o Rei e a Rainha, foram recebidas na Jordânia por suas Majestades, Rei Abdullah II e Rainha Rania. É a primeira vez que o casal do rei faz visitas de Estado no Oriente Médio
 

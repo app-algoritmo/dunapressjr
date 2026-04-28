@@ -1,11 +1,12 @@
 ---
-title: "Homeschooling ganha frente Parlamentar na Câmara"
+title: Homeschooling ganha frente Parlamentar na Câmara
 date: 2019-04-03
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 [gallery ids="13994,13995,13993" type="rectangular" orderby="rand"]
 

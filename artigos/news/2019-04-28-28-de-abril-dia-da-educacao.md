@@ -1,11 +1,12 @@
 ---
-title: "28 de abril: Dia da Educação!"
+title: '28 de abril: Dia da Educação!'
 date: 2019-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Grátis o livro Educação, Homeschooling e Família, promoção válida até o dia 30.04.2019.
 

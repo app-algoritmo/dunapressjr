@@ -1,11 +1,12 @@
 ---
-title: "Natal: presentes até R$ 130 agradam os gostos mais exigentes"
+title: 'Natal: presentes até R$ 130 agradam os gostos mais exigentes'
 date: 2022-12-21
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Natal é uma data repleta de tradições. Além da árvore-de-natal, canções natalinas e comidas típicas na ceia do dia 25 de dezembro, essa época do ano também é marcada pela troca de presentes entre amigos e familiares. Segundo uma pesquisa realizada pela All in, em parceria com Opinion Box, grande parte dos consumidores brasileiros deve manter a tradição da data e presentear mais de uma pessoa em 2022.
 

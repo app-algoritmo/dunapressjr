@@ -1,11 +1,12 @@
 ---
-title: "Great Reset: 'Essa ditadura também está sendo preparada em outras áreas'"
+title: 'Great Reset: ''Essa ditadura também está sendo preparada em outras áreas'''
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Harrie Salman, em seu livro The Great Reset. O Plano para o Mundo após o Corona' dá uma visão geral do que Klaus Schwab e seu WEF estão planejando e querem.
 

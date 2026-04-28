@@ -1,11 +1,12 @@
 ---
-title: "STF mantém validade da jornada de trabalho de 12 x 36 por acordo individual"
+title: STF mantém validade da jornada de trabalho de 12 x 36 por acordo individual
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Plenário do Supremo Tribunal Federal decide a favor da regra da Reforma Trabalhista, permitindo a adoção da jornada com 36 horas ininterruptas de descanso.
 

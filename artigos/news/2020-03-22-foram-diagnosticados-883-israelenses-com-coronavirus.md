@@ -1,11 +1,12 @@
 ---
-title: "Foram diagnosticados 883 israelenses com coronavírus"
+title: Foram diagnosticados 883 israelenses com coronavírus
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O primeiro-ministro Benjamin Netanyahu disse que quer localizar e isolar os doentes e deixar que os saudáveis ​​saiam para trabalhar."Ninguém sabe aonde isso vai acontecer", disse ele no sábado à noite durante uma entrevista ao Canal 12. Em uma entrevista separada, ele disse ao Canal 13: "Estou navegando pelo Titanic e há muitos icebergs diante de nós".  
 

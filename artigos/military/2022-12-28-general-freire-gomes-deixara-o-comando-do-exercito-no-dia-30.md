@@ -1,11 +1,12 @@
 ---
-title: "General Freire Gomes deixará o comando do Exército no dia 30"
+title: General Freire Gomes deixará o comando do Exército no dia 30
 date: 2022-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O *Diário Oficial da União* desta quarta-feira (28) oficializa a troca de comando no Exército. O primeiro decreto exonera Marco Antônio Freire Gomes do cargo de comandante do Exército enquanto o segundo nomeia o general Júlio Cesar de Arruda para exercer interinamente a função.
 

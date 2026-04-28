@@ -1,11 +1,12 @@
 ---
-title: "Cantor Sting diz que “batalha” de composição entre humanos e IA está chegando"
+title: Cantor Sting diz que “batalha” de composição entre humanos e IA está chegando
 date: 2023-05-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## "Os blocos de construção da música pertencem a nós, aos seres humanos" diz Sting.
 

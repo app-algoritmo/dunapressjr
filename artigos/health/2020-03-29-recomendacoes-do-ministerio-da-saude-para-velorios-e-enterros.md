@@ -1,11 +1,12 @@
 ---
-title: "Recomendações do Ministério da Saúde para velórios e enterros"
+title: Recomendações do Ministério da Saúde para velórios e enterros
 date: 2020-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Ministério da Saúde publicou o Guia para o [Manejo de Corpos no Contexto do Novo Coronavírus](http://https//www.saude.gov.br/images/pdf/2020/marco/25/manejo-corpos-coronavirus-versao1-25mar20-rev5.pdf) (Covid-19), com recomendações de como devem ser realizados os funerais e o manuseio do cadáver nos hospitais, em domicílio e em espaço público. O documento foi publicado na quarta-feira (25) para orientar as equipes de saúde de medicina legal e funerárias.
 

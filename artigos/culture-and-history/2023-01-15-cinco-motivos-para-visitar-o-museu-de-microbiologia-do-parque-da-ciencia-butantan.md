@@ -1,11 +1,12 @@
 ---
-title: "Cinco motivos para visitar o Museu de Microbiologia do Parque da Ciência Butantan"
+title: Cinco motivos para visitar o Museu de Microbiologia do Parque da Ciência Butantan
 date: 2023-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Uma das atrações mais tradicionais do[ Parque da Ciência Butantan](https://parquedaciencia.butantan.gov.br/) é o Museu de Microbiologia (MMB), que em 2022 completou 20 anos de trabalhos culturais e educativos no campo da ciência. Ele tem como missão estimular a curiosidade científica de crianças e adolescentes, além de promover oportunidade para aproximar a cultura científica do público em geral com exposições e oficinas.
 

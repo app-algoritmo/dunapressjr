@@ -1,11 +1,12 @@
 ---
-title: "Decoração sustentável: entenda o que é e como aderir"
+title: 'Decoração sustentável: entenda o que é e como aderir'
 date: 2022-09-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 A sustentabilidade se tornou tema central dos debates atuais, e, quando se trata do design de interiores, não é diferente. O conceito vem sendo discutido entre profissionais da área que buscam maneiras de manter o estilo e diminuir os impactos causados à natureza.
 

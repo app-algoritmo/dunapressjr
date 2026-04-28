@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha no menor nível em um ano com aprovação de PEC"
+title: Bolsa fecha no menor nível em um ano com aprovação de PEC
 date: 2021-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar caiu até o início da tarde, mas fechou com pequena alta.
 

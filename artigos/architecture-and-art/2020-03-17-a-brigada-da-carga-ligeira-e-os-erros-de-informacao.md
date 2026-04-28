@@ -1,12 +1,13 @@
 ---
-title: "A Brigada da Carga Ligeira e os erros de informação"
+title: A Brigada da Carga Ligeira e os erros de informação
 date: 2020-03-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
-  - History
+- Architecture and Art
+- History
 ---
+
 
 *Quem conta um conto aumenta um ponto*, versa o dito popular. E assim como uma informação mal averiguada ou distorcida pode mudar todo o rumo da história, e vidas podem ser perdidas por um erro de informação. Como ocorreu no episódio da *Guerra da Crimeia* conhecido como *A Carga da Brigada Ligeira*, onde por uma informação distorcida, várias vidas foram perdidas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comércio varejista tem alta de 1,4% nas vendas em maio"
+title: Comércio varejista tem alta de 1,4% nas vendas em maio
 date: 2021-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sete dos oito setores pesquisados registraram crescimento na comparação com o mês de abril.
 

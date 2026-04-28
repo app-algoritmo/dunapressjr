@@ -1,11 +1,12 @@
 ---
-title: "Harry Potter tem tradução em iídiche, e se esgota em apenas 48 horas"
+title: Harry Potter tem tradução em iídiche, e se esgota em apenas 48 horas
 date: 2020-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Esse sucesso de uma publicação em ídiche é sem precedentes, já que poucos ou nenhum livro em iídiche publicado fora do setor hassídico vendem 1.000 no período de um ano.
 

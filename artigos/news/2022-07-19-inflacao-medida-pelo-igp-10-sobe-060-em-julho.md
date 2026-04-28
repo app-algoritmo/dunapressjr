@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IGP-10 sobe 0,60% em julho"
+title: Inflação medida pelo IGP-10 sobe 0,60% em julho
 date: 2022-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No ano, o indicador da FGV acumula avanço de 9,18%.
 

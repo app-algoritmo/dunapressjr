@@ -1,11 +1,12 @@
 ---
-title: "Reforma da Previdência deve ser votada em segundo turno em duas semanas"
+title: Reforma da Previdência deve ser votada em segundo turno em duas semanas
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A
 senadora Simone Tebet afirmou que o projeto da reforma previdenciária deve

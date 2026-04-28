@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Fazenda institui Grupo de Trabalho para aprimorar legislação do DPVAT"
+title: Ministério da Fazenda institui Grupo de Trabalho para aprimorar legislação
+  do DPVAT
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Rediscussão se deve à dissolução do consórcio formado pelas sociedades seguradoras a partir de 1º de janeiro de 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "Veja as principais mudanças no novo Marco Legal do Saneamento"
+title: Veja as principais mudanças no novo Marco Legal do Saneamento
 date: 2020-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Novo marco legal define universalização de serviços sanitários.
 

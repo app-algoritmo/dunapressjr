@@ -1,11 +1,12 @@
 ---
-title: "Inovação em tecnologia de cadeira de rodas"
+title: Inovação em tecnologia de cadeira de rodas
 date: 2022-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais autonomia e eficiência: essas são as promessas da cadeira de rodas motorizada desenvolvida pelo bolsista da CAPES, Willian Ricardo Bispo Murbak Nunes. O pesquisador, coorientado pelo professor Ruberlei Gaino, trabalhou no modelo durante o mestrado em Engenharia Elétrica, na Universidade Estadual de Londrina (UEL).
 

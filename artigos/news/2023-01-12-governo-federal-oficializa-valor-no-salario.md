@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal oficializa valor no salário"
+title: Governo Federal oficializa valor no salário
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Salário segue portaria no ano passado.
 

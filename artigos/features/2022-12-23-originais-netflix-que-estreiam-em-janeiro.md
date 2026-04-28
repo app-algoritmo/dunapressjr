@@ -1,12 +1,13 @@
 ---
-title: "Originais Netflix que estreiam em janeiro"
+title: Originais Netflix que estreiam em janeiro
 date: 2022-12-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## A lista mais aguardada do mês ainda não chegou mas decidimos adiantar aqui, alguns dos originais NETFLIX que serão lançados em janeiro
 

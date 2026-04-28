@@ -1,11 +1,12 @@
 ---
-title: "Unidade de atendimento infantil de Itajaí muda de endereço"
+title: Unidade de atendimento infantil de Itajaí muda de endereço
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O atendimento de crianças até 14 anos, sem sintomas de doenças respiratórias, está em novo endereço. Desde 1º de dezembro, a Unidade de Atendimento Infantil do Município passou a funcionar junto ao Hospital Pequeno Anjo, que venceu a licitação para oferta do serviço. No local, as crianças são atendidas em recepção separada dos demais casos sintomáticos de COVID-19.
 

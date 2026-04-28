@@ -1,11 +1,12 @@
 ---
-title: "Turismo brasileiro experimenta retomada após pandemia"
+title: Turismo brasileiro experimenta retomada após pandemia
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### De maio para junho, conectividade aumentou 7,29% no país.
 

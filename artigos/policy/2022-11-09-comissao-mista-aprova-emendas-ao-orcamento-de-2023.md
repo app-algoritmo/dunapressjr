@@ -1,11 +1,12 @@
 ---
-title: "Comissão Mista aprova emendas ao Orçamento de 2023"
+title: Comissão Mista aprova emendas ao Orçamento de 2023
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### Votação final do Orçamento 2023 está prevista para 16 de dezembro.
 

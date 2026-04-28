@@ -1,11 +1,12 @@
 ---
-title: "Alta do emprego no Centro-Oeste e Sudeste puxa queda da desocupação"
+title: Alta do emprego no Centro-Oeste e Sudeste puxa queda da desocupação
 date: 2021-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São Paulo e Rio tiveram aumento na ocupação no segundo trimestre.
 

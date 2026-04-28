@@ -1,11 +1,12 @@
 ---
-title: "Procon-SP: self-service teve alta de 23% desde janeiro de 2020"
+title: 'Procon-SP: self-service teve alta de 23% desde janeiro de 2020'
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor médio por quilo passou de R$ 57,12 para R$ 70,69.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cientistas brasileiros integram “caça” a planetas"
+title: Cientistas brasileiros integram “caça” a planetas
 date: 2023-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Pesquisadores brasileiros vinculados à Universidade Federal do Rio Grande do Norte (UFRN), alguns deles financiados pela CAPES, colaboram com o desenvolvimento do NIRPS (*Near Infra Red Planet Searcher*). O instrumento, informalmente chamado de “caçador de planetas”, será um espectrômetro de operação em infravermelho, utilizado na busca por planetas extrassolares, ou seja, localizados fora do nosso Sistema Solar.
 

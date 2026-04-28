@@ -1,11 +1,12 @@
 ---
-title: "Banco Central tem lucro recorde de R$ 469,6 bilhões em 2020"
+title: Banco Central tem lucro recorde de R$ 469,6 bilhões em 2020
 date: 2021-02-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta do dólar no ano passado contribuiu para resultado.
 

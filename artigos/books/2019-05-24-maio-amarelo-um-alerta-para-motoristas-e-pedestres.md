@@ -1,11 +1,12 @@
 ---
-title: "Maio Amarelo: um alerta para motoristas e pedestres"
+title: 'Maio Amarelo: um alerta para motoristas e pedestres'
 date: 2019-05-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 Sinal amarelo e - ATENÇÃO! - Atenção motoristas e pedestres, a situação está crítica.
 

@@ -1,11 +1,13 @@
 ---
-title: "Educação Infantil: veja dicas para os pais conseguirem driblar as dificuldades na hora de ajudar os filhos com as aulas on-line"
+title: 'Educação Infantil: veja dicas para os pais conseguirem driblar as dificuldades
+  na hora de ajudar os filhos com as aulas on-line'
 date: 2021-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O longo período de suspensão das aulas presenciais e o vai e vem de reaberturas de escolas tem causado forte impacto na Educação, principalmente no segmento da Educação Infantil. O ensino remoto se tornou um desafio para os professores e também para os pais.
 

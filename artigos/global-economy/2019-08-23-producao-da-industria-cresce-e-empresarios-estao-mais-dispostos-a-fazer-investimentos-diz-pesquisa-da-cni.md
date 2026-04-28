@@ -1,11 +1,13 @@
 ---
-title: "Produção da indústria cresce e empresários estão mais dispostos a fazer investimentos, diz pesquisa da CNI"
+title: Produção da indústria cresce e empresários estão mais dispostos a fazer investimentos,
+  diz pesquisa da CNI
 date: 2019-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Sondagem Industrial indica que o setor continua acumulando estoques. Mas expectativas sobre a demanda, a compra de matérias-primas, o emprego e as exportações continuam positivas. 
 

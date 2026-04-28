@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,11, com temor de alta de juros nos EUA"
+title: Dólar fecha a R$ 5,11, com temor de alta de juros nos EUA
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa cai 2,73% e atinge pior nível desde janeiro.
 

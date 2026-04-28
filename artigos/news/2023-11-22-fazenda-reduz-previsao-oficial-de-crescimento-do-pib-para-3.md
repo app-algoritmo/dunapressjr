@@ -1,11 +1,12 @@
 ---
-title: "Fazenda reduz previsão oficial de crescimento do PIB para 3%"
+title: Fazenda reduz previsão oficial de crescimento do PIB para 3%
 date: 2023-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa para inflação em 2023 caiu para 4,66%.
 

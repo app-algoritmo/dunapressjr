@@ -1,11 +1,12 @@
 ---
-title: "O que é um implante de carga imediata e como funciona"
+title: O que é um implante de carga imediata e como funciona
 date: 2022-12-02
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Você já ouviu falar em **implante de carga imediata**? Esse tipo de tratamento nada mais é do que uma das muitas diferentes técnicas de implantes dentários. Nesse caso, o foco do tratamento é ter um tempo reduzido para a colocação da prótese. 
 

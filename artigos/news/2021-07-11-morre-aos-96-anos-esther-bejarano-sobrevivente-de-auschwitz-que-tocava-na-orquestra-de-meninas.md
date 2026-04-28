@@ -1,11 +1,13 @@
 ---
-title: "Morre aos 96 anos Esther Bejarano, sobrevivente de Auschwitz que tocava na orquestra de meninas"
+title: Morre aos 96 anos Esther Bejarano, sobrevivente de Auschwitz que tocava na
+  orquestra de meninas
 date: 2021-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bejarano adormeceu silenciosamente no sábado em um hospital em Hamburgo, na Alemanha, disse uma de suas amigas íntimas à agência de notícias alemã DPA.
 Ela nasceu na cidade alemã de Saarlouis em 1924. Em 1941, seus pais foram mortos pelos nazistas e deportados para Auschwitz. Seu talento para tocar acordeão provavelmente salvou sua vida quando ela foi colocada para tocar na orquestra feminina do campo de concentração.

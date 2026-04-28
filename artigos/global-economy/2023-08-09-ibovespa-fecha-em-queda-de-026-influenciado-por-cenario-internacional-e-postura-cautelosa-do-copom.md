@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em queda de 0,26%, influenciado por cenário internacional e postura cautelosa do Copom"
+title: Ibovespa fecha em queda de 0,26%, influenciado por cenário internacional e
+  postura cautelosa do Copom
 date: 2023-08-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Mercado reflete movimento global das bolsas e análise do Banco Central sobre Selic; varejo lidera perdas e educação impulsiona altas, enquanto dólar tem leve alta frente ao real. 
 

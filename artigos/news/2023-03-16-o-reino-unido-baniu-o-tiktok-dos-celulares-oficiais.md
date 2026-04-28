@@ -1,11 +1,12 @@
 ---
-title: "O Reino Unido baniu o TikTok dos celulares oficiais"
+title: O Reino Unido baniu o TikTok dos celulares oficiais
 date: 2023-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Reino Unido vai proibir a instalação do aplicativo chinês TikTok nos telemóveis oficiais do governo por motivos de segurança, anunciou esta quinta-feira (16) o canal britânico "Sky News".
 

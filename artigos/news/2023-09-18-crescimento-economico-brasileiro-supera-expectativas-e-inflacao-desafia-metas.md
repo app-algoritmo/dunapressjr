@@ -1,11 +1,12 @@
 ---
-title: "Crescimento econômico brasileiro supera expectativas e inflação desafia metas"
+title: Crescimento econômico brasileiro supera expectativas e inflação desafia metas
 date: 2023-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercado financeiro revisa projeções positivas e acompanha tendências de queda da Selic.
 

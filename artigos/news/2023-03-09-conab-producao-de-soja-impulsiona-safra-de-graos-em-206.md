@@ -1,11 +1,12 @@
 ---
-title: "CONAB: Produção de soja impulsiona safra de grãos em 20,6%"
+title: 'CONAB: Produção de soja impulsiona safra de grãos em 20,6%'
 date: 2023-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A produção brasileira de grãos na safra 2022/23 pode chegar a 309,9 milhões de toneladas.
 

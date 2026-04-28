@@ -1,11 +1,12 @@
 ---
-title: "Contingente brasileiro inicia Missão de Paz no Líbano"
+title: Contingente brasileiro inicia Missão de Paz no Líbano
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No dia 4 de dezembro, ocorreu, na Base Miguel de Cervantes (UNP 7-2), sede do Comando da Brigada Multinacional do Setor Leste na Missão Interina das Nações Unidas no Líbano (SECEAST/UNIFIL), a cerimônia de passagem de comando (Transfer of Authority) entre as brigadas espanholas de Infantaria Aragón I e Canárias XVI. A brigada assumiu a denominação de Brigada Líbano XXXVI (BRILIB XXXVI).
 

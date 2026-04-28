@@ -1,11 +1,12 @@
 ---
-title: "Morre o ator Paulo Gustavo da obra Minha mãe é uma peça"
+title: Morre o ator Paulo Gustavo da obra Minha mãe é uma peça
 date: 2021-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ator Paulo Gustavo Amaral Monteiro de Barros, de 42 anos, morreu neste último (4.5.21) vítima de complicações causadas pela covid-19. Ele estava internado desde 13 de março no Hospital Copa Star, em Copacabana, na zona sul do Rio de Janeiro.
 

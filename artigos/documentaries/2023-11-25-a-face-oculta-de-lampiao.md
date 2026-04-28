@@ -1,12 +1,13 @@
 ---
-title: "A face oculta de Lampião"
+title: A face oculta de Lampião
 date: 2023-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
-  - Video library
+- Documentaries
+- Video library
 ---
+
 
 Por trás de aclamadas personalidades há um lado obscuro que ninguém está olhando. Neste programa documental e cheio de mistérios, abordaremos a face oculta das principais personalidades e instituições.
 

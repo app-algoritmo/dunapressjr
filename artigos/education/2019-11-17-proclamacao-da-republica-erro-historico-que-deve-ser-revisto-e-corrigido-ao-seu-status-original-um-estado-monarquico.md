@@ -1,11 +1,13 @@
 ---
-title: "Proclamação da República, erro histórico que deve ser revisto e corrigido ao seu status original, um Estado Monárquico"
+title: Proclamação da República, erro histórico que deve ser revisto e corrigido ao
+  seu status original, um Estado Monárquico
 date: 2019-11-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Tratada como a "libertação", a proclamação da República, no Brasil e no Ocidente, marcou o início do Estado inchado, do populismo, da manipulação das massas – e também do genocídio.
 

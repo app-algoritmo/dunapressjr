@@ -1,11 +1,13 @@
 ---
-title: "Câmara dos Deputados dos EUA abrirá inquérito de impeachment contra Trump por controvérsia ucraniana"
+title: Câmara dos Deputados dos EUA abrirá inquérito de impeachment contra Trump por
+  controvérsia ucraniana
 date: 2019-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Câmara dos Deputados dos Estados Unidos iniciará um
 inquérito formal de impeachment contra o presidente Donald Trump, devido aos

@@ -1,11 +1,13 @@
 ---
-title: "Lançada cartilha de educação alimentar e nutricional para alunos do programa Bolsa Família em Itajaí"
+title: Lançada cartilha de educação alimentar e nutricional para alunos do programa
+  Bolsa Família em Itajaí
 date: 2020-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Assistência Social, por meio da gestão do Programa Bolsa Família e do setor de Segurança Alimentar e Nutricional, com o apoio da Câmara Municipal Intersetorial de Segurança Alimentar e Nutricional de Itajaí (Caisan) e do Conselho Municipal de Segurança Alimentar e Nutricional de Itajaí (Comsea), lançou uma cartilha com atividades de educação alimentar e nutricional, voltadas aos alunos beneficiários do Programa Bolsa Família em Itajaí.
 

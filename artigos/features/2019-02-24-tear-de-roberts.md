@@ -1,11 +1,12 @@
 ---
-title: "Tear de Roberts"
+title: Tear de Roberts
 date: 2019-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Features
+- Features
 ---
+
 
 ## 50 máquinas que mudaram o rumo da história
 

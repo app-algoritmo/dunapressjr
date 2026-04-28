@@ -1,11 +1,12 @@
 ---
-title: "Fiocruz dá início às operações da Unidade de Apoio ao Diagnóstico da Covid-19"
+title: Fiocruz dá início às operações da Unidade de Apoio ao Diagnóstico da Covid-19
 date: 2020-08-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma cerimônia, nesta segunda-feira (10), marcou o início das operações da Unidade de Apoio ao Diagnóstico da Covid-19, da Fundação Oswaldo Cruz (Fiocruz), no Rio de Janeiro, que vai ampliar a capacidade nacional de processamento de testes moleculares para detecção do novo coronavírus. Em seu pleno funcionamento, a unidade poderá processar até 15 mil testes por dia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Com alta demanda, setor de TI tem rotatividade de profissionais e vagas constantemente abertas"
+title: Com alta demanda, setor de TI tem rotatividade de profissionais e vagas constantemente
+  abertas
 date: 2021-08-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Somente em 2020, número de vagas oferecidas na área de TI teve um aumento de 310%.
 

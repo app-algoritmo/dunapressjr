@@ -1,11 +1,12 @@
 ---
-title: "Conab adota medidas para garantir abastecimento de hortifrutis"
+title: Conab adota medidas para garantir abastecimento de hortifrutis
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na última quinta-feira (16/04), a Companhia Nacional de Abastecimento (Conab) divulgou um boletim com medidas para garantir o abastecimento de hortifrutis no comércio durante a pandemia do coronavírus. A Conab vem adotando providências para atender usuários com segurança e qualidade. O órgão também monitora o aumento de preços e reforça que não haverá desabastecimento. 
 

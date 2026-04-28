@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus se espalha, 18 países, 5.578 contágios e 131 mortes confirmadas"
+title: Coronavírus se espalha, 18 países, 5.578 contágios e 131 mortes confirmadas
 date: 2020-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Surto mortal de coronavírus se espalha à medida que as proibições de viagens são reforçadas e o número de mortos aumenta
 

@@ -1,12 +1,14 @@
 ---
-title: "Trump Adverte sobre Facebook e Zuckerberg: Uma Ameaça à Liberdade e à Segurança Nacional"
+title: 'Trump Adverte sobre Facebook e Zuckerberg: Uma Ameaça à Liberdade e à Segurança
+  Nacional'
 date: 2024-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Social networks
-  - World Affairs
+- Social networks
+- World Affairs
 ---
+
 
 As tensões entre o ex-presidente Donald Trump e a gigante da tecnologia Facebook atingiram um novo ápice, à medida que Trump dobrou suas advertências sobre Mark Zuckerberg e a empresa, alegando que representam uma ameaça tanto à liberdade quanto à segurança nacional dos Estados Unidos.
 

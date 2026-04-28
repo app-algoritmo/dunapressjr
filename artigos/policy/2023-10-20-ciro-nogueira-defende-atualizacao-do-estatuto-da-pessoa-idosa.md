@@ -1,11 +1,12 @@
 ---
-title: "Ciro Nogueira defende atualização do Estatuto da Pessoa Idosa"
+title: Ciro Nogueira defende atualização do Estatuto da Pessoa Idosa
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Ciro Nogueira (PP-PI), em pronunciamento no Plenário nesta terça-feira (17), defendeu o aperfeiçoamento do [Estatuto da Pessoa Idosa](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741), que completou 20 anos no dia 1º de outubro. Ciro Nogueira reconheceu a relevância da lei em vigor como um “avanço inquestionável”, mas enfatizou que o “desafio digital” dos últimos anos tem dificultado a vida de muitos idosos. Segundo ele, é preciso adaptar a legislação às novas demandas do “tempo atual”, incluindo as novas tecnologias. 
 

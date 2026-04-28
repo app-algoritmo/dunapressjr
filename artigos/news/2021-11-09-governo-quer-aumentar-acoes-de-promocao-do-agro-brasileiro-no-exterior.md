@@ -1,11 +1,12 @@
 ---
-title: "Governo quer aumentar ações de promoção do agro brasileiro no exterior"
+title: Governo quer aumentar ações de promoção do agro brasileiro no exterior
 date: 2021-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Chanceler brasileiro participou da abertura de curso sobre agronegócio.
 

@@ -1,11 +1,13 @@
 ---
-title: "Missão humanitária retorna ao Brasil após doar 6 toneladas de alimentos e remédios ao Líbano"
+title: Missão humanitária retorna ao Brasil após doar 6 toneladas de alimentos e remédios
+  ao Líbano
 date: 2020-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A delegação brasileira de ajuda humanitária enviada nessa semana ao Líbano está de volta. A missão, presidida por Michel Temer, a convite do Presidente da República Jair Bolsonaro, doou seis toneladas de alimentos e medicamentos ao país afetado por uma forte explosão no início de agosto.
 

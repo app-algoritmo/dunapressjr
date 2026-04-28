@@ -1,11 +1,12 @@
 ---
-title: "Confúcio defende investimentos na educação e ensino técnico contra evasão"
+title: Confúcio defende investimentos na educação e ensino técnico contra evasão
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO), em pronunciamento no Plenário nesta segunda-feira (25), mais uma vez ressaltou a educação como um direito essencial e apontou a necessidade urgente de se destinar recursos por meio das emendas parlamentares ao orçamento da União para melhorar a qualidade do ensino no país.
 

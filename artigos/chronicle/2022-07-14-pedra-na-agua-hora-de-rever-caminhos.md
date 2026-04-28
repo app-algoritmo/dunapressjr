@@ -1,11 +1,12 @@
 ---
-title: "Pedra na água, hora de rever caminhos"
+title: Pedra na água, hora de rever caminhos
 date: 2022-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 *Por Marcos Pavesi**
 

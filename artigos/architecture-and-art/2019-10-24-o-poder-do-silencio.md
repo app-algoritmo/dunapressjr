@@ -1,12 +1,13 @@
 ---
-title: "O Poder do Silêncio"
+title: O Poder do Silêncio
 date: 2019-10-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Architecture and Art
-  - Education
+- Architecture and Art
+- Education
 ---
+
 
 Neste mundo de devassidão, perdição da
 juventude e mesmo dos adultos em promiscuidade e valores banais, tais como

@@ -1,11 +1,12 @@
 ---
-title: "Extrato das folhas de erva-mate pode ser herbicida natural"
+title: Extrato das folhas de erva-mate pode ser herbicida natural
 date: 2022-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A erva-mate, tradicionalmente consumida como chá mate, chimarrão ou tereré no Brasil, pode ganhar uma nova destinação. Foi o que apontou o estudo realizado por Fernanda Bruxel, bióloga, durante o mestrado em Biotecnologia, na Universidade do Vale do Taquari (Univates). Sua pesquisa mostrou que a erva-mate possui potencial para ser um herbicida natural.
 

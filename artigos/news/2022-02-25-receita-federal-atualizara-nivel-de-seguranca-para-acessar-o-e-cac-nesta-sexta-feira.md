@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal atualizará nível de segurança para acessar o e-CAC nesta sexta-feira"
+title: Receita Federal atualizará nível de segurança para acessar o e-CAC nesta sexta-feira
 date: 2022-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O acesso ao Portal e-CAC com a conta gov.br será permitido somente para contas com nível prata ou ouro.
 

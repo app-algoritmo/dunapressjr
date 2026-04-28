@@ -1,11 +1,12 @@
 ---
-title: "Japão: Naruhito presta homenagem ao pai em seu primeiro discurso como imperador"
+title: 'Japão: Naruhito presta homenagem ao pai em seu primeiro discurso como imperador'
 date: 2019-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Naruhito já é o novo imperador do Japão, número 126 na história do país, depois de duas breves cerimônias realizadas no Palácio Imperial em Tóquio. No primeiro, seguindo um rito ancestral, receberam os chamados tesouros sagrados, símbolo do poder imperial: os selos imperiais com uma réplica da lendária espada Kusanagi e outra de uma jóia de jade.
 

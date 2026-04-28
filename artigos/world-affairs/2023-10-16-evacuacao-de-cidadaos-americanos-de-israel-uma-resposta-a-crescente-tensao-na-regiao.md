@@ -1,11 +1,13 @@
 ---
-title: "Evacuação de Cidadãos Americanos de Israel: Uma Resposta à Crescente Tensão na Região"
+title: 'Evacuação de Cidadãos Americanos de Israel: Uma Resposta à Crescente Tensão
+  na Região'
 date: 2023-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O aumento das hostilidades entre Israel e o Hamas nas últimas semanas deixou muitos cidadãos dos Estados Unidos em Israel e seus familiares preocupados com sua segurança. Diante do cancelamento de voos comerciais e devido às crescentes preocupações com a segurança, várias dezenas de americanos e seus cônjuges foram convocados a se dirigir ao porto de Haifa para embarcar em um navio de evacuação com destino a Chipre. Este artigo aborda a situação, os motivos por trás dessa evacuação e as preocupações dos cidadãos afetados.
 

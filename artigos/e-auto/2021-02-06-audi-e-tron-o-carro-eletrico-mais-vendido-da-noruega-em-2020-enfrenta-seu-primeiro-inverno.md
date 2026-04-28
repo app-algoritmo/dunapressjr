@@ -1,11 +1,13 @@
 ---
-title: "Audi e-tron, o carro elétrico mais vendido da Noruega em 2020 enfrenta seu primeiro inverno"
+title: Audi e-tron, o carro elétrico mais vendido da Noruega em 2020 enfrenta seu
+  primeiro inverno
 date: 2021-02-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## EV | O que o frio representa necessariamente para um veículo elétrico?
 

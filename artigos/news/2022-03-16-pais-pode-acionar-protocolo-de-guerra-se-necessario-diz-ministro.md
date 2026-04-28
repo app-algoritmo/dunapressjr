@@ -1,11 +1,12 @@
 ---
-title: "País pode acionar protocolo de guerra se necessário, diz ministro"
+title: País pode acionar protocolo de guerra se necessário, diz ministro
 date: 2022-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para Paulo Guedues, Brasil está mais preparado que outros países.
 

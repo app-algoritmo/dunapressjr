@@ -1,11 +1,13 @@
 ---
-title: "Presidente Sérvio Aleksandar Vucic Prevê Guerra Mundial em Breve: 'Estamos no Limite'"
+title: 'Presidente Sérvio Aleksandar Vucic Prevê Guerra Mundial em Breve: ''Estamos
+  no Limite'''
 date: 2024-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente sérvio Aleksandar Vucic fez uma previsão alarmante durante uma entrevista ao semanário suíço *Weltwoche*, declarando que a Sérvia está controlando suas reservas de petróleo, farinha e açúcar em preparação para uma possível guerra mundial que ele acredita que ocorrerá dentro de três a quatro meses. Vucic, conhecido por suas boas relações com o presidente russo Vladimir Putin e Moscou, sugere que ele pode estar ciente de movimentações nos bastidores que indicam um aumento iminente das tensões globais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Deputado Luiz Philippe de Orleans e Bragança denuncia falta de debates e enfraquecimento do Congresso brasileiro"
+title: Deputado Luiz Philippe de Orleans e Bragança denuncia falta de debates e enfraquecimento
+  do Congresso brasileiro
 date: 2023-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parlamentar expressa preocupação com ineficácia dos discursos e falta de discussões cruciais, além de criticar negociações obscuras e desvalorização dos votos no Parlamento. 
 

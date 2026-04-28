@@ -1,11 +1,13 @@
 ---
-title: "Barreira aos avanços para acabar com a Aids como ameaça à saúde pública até 2030"
+title: Barreira aos avanços para acabar com a Aids como ameaça à saúde pública até
+  2030
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As desigualdades que perpetuam a pandemia de Aids não são inevitáveis e devem ser enfrentadas com ações que incluam:
 

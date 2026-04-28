@@ -1,11 +1,12 @@
 ---
-title: "Dólar descola-se das principais moedas e encerra o dia em alta"
+title: Dólar descola-se das principais moedas e encerra o dia em alta
 date: 2020-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fecha com pequena queda depois de oscilar ao longo do dia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os japoneses agora devem comer insetos também"
+title: Os japoneses agora devem comer insetos também
 date: 2023-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Da Covid aos grilos: o Japão depende de "insetos comestíveis"
 

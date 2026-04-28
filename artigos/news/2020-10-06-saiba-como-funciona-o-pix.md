@@ -1,11 +1,12 @@
 ---
-title: "Saiba como funciona o Pix"
+title: Saiba como funciona o Pix
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sistema de pagamentos e transferências é gratuito para pessoas físicas.
 

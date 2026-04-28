@@ -1,11 +1,12 @@
 ---
-title: "Além de combustíveis e energia, conta de celular também terá desconto"
+title: Além de combustíveis e energia, conta de celular também terá desconto
 date: 2022-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Descontos geram renda e oportunidades para população, disse ministro.
 

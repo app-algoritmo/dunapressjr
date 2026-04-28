@@ -1,11 +1,12 @@
 ---
-title: "Prevenção do Câncer Bucal"
+title: Prevenção do Câncer Bucal
 date: 2022-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O câncer de boca, também conhecido como câncer de lábio e cavidade oral, é um tumor maligno, que atinge a estrutura bucal (gengivas, bochechas, palato e a língua).
 

@@ -1,11 +1,13 @@
 ---
-title: "EUA e Reino Unido Intensificam Ataques no Iêmen: A Realidade dos Números e suas Consequências Devastadoras"
+title: 'EUA e Reino Unido Intensificam Ataques no Iêmen: A Realidade dos Números e
+  suas Consequências Devastadoras'
 date: 2024-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Desde o início da nova campanha de bombardeio contra os Houthis no Iêmen, conduzida pelos EUA e Reino Unido em janeiro, a região enfrentou uma intensificação alarmante dos ataques com mísseis, conforme revelado pelo Yemen Data Project (YDP).
 

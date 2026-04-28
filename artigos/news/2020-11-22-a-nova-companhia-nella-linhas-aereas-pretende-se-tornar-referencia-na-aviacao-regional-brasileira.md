@@ -1,11 +1,13 @@
 ---
-title: "A nova companhia Nella Linhas Aéreas pretende se tornar referência na aviação regional brasileira"
+title: A nova companhia Nella Linhas Aéreas pretende se tornar referência na aviação
+  regional brasileira
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais uma empresa aérea de baixo custo pretende investir no Brasil e operar voos dentro do país nos próximos meses. A nova companhia Nella Linhas Aéreas protocolou pedido na Agência Nacional de Aviação Civil (Anac) para iniciar operações regionais.
 

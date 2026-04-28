@@ -1,11 +1,12 @@
 ---
-title: "Dólar avança quase 2% com noticiário doméstico; FED contém alta"
+title: Dólar avança quase 2% com noticiário doméstico; FED contém alta
 date: 2020-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O dólar à vista subiu 1,92% e fechou a R$ 5,1421.
 

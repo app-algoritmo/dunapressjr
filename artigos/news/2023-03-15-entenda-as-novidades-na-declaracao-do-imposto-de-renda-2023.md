@@ -1,11 +1,12 @@
 ---
-title: "Entenda as novidades na declaração do Imposto de Renda 2023"
+title: Entenda as novidades na declaração do Imposto de Renda 2023
 date: 2023-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Restituições por Pix e para declaração pré-preenchida terão prioridade.
 

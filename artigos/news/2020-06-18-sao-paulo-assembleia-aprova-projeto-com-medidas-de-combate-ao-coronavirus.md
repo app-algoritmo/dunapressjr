@@ -1,11 +1,12 @@
 ---
-title: "São Paulo: Assembleia aprova projeto com medidas de combate ao coronavírus"
+title: 'São Paulo: Assembleia aprova projeto com medidas de combate ao coronavírus'
 date: 2020-06-18
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 Em sessão extraordinária em ambiente virtual realizada nesta terça-feira (16/6), o Plenário da Assembleia Legislativa aprovou o substitutivo ao Projeto de Lei 350/2020, construído de forma conjunta entre os parlamentares, que estabelece medidas emergenciais para auxiliar o Estado no combate ao coronavírus e suas consequências. Na votação, 64 parlamentares foram favoráveis ao projeto e 17 contrários.
 

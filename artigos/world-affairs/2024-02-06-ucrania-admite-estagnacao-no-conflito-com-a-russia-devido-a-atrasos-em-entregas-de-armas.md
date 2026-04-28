@@ -1,11 +1,13 @@
 ---
-title: "Ucrânia Admite Estagnação no Conflito com a Rússia devido a Atrasos em Entregas de Armas"
+title: Ucrânia Admite Estagnação no Conflito com a Rússia devido a Atrasos em Entregas
+  de Armas
 date: 2024-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente ucraniano, Volodimir Zelensky, reconheceu em uma entrevista ao primeiro canal da televisão estatal italiana RAI que o conflito terrestre com a Rússia enfrenta uma notável estagnação devido a demoras nas entregas de armas cruciais para as operações militares em curso.
 

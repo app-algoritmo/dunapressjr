@@ -1,11 +1,12 @@
 ---
-title: "Dólar e bolsa fecham estáveis com redução de bloqueios"
+title: Dólar e bolsa fecham estáveis com redução de bloqueios
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Cenário interno compensa instabilidade no mercado internacional.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dr Mercola: É por isso que os pediatras estão promovendo as vacinas?"
+title: 'Dr Mercola: É por isso que os pediatras estão promovendo as vacinas?'
 date: 2023-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Os médicos sem dúvida sofrem uma lavagem cerebral para acreditar que a "vacinação para todos" é para o bem maior e comum - e seus empregadores também podem tornar a vacinação obrigatória.
 

@@ -1,11 +1,12 @@
 ---
-title: "Francis é nova patrocinadora do circuito Rocky Mountain Games 2024"
+title: Francis é nova patrocinadora do circuito Rocky Mountain Games 2024
 date: 2024-06-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Marca brasileira de produtos para cuidados com a pele faz sua estreia em Juquitiba, em junho, na segunda etapa da temporada.
 

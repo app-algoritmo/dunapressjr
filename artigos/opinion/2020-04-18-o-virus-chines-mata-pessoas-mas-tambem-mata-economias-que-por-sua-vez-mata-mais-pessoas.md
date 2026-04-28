@@ -1,11 +1,13 @@
 ---
-title: "O vírus chinês mata pessoas, mas também mata economias, que por sua vez mata mais pessoas"
+title: O vírus chinês mata pessoas, mas também mata economias, que por sua vez mata
+  mais pessoas
 date: 2020-04-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 -Poucos países no mundo podem dar-se ao luxo de parar suas economias, suas produções de insumos, fecharem portos, aeroportos, estradas e fronteiras para salvar vidas durante algum tempo, o que não é o caso do Brasil.
 

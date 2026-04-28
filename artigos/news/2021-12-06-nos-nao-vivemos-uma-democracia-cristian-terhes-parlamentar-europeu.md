@@ -1,11 +1,12 @@
 ---
-title: "Nós não vivemos uma democracia, Cristian Terhes, Parlamentar Europeu"
+title: Nós não vivemos uma democracia, Cristian Terhes, Parlamentar Europeu
 date: 2021-12-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Em discurso épico, o euro-deputado Cristian Terheș votou no Parlamento Europeu contra a imposição do Certificado Verde a nível europeu, acusando que este certificado violaria direitos e liberdades fundamentais.
 

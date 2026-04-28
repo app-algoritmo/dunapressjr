@@ -1,11 +1,12 @@
 ---
-title: "Associação norueguesa alerta para a caça descontrolada de lobos"
+title: Associação norueguesa alerta para a caça descontrolada de lobos
 date: 2021-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **A associação** **norueguesa** amigos **da natureza** (Naturvernforbundet) informa que caçadores de lobos atiraram no casal de pais de uma família protegida de lobos que vivia em Slettås, dentro da zona dos lobos em Trysil. Os dois lobos foram mortos fora da zona dos lobos em 11 de dezembro deste ano.
 

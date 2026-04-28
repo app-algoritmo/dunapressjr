@@ -1,11 +1,12 @@
 ---
-title: "Escritores e tradutores contra Acordo Ortográfico de 1990"
+title: Escritores e tradutores contra Acordo Ortográfico de 1990
 date: 2018-08-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Não se deixe enganar. É importante estar por dentro dos acontecimentos relativos à nossa língua pátria. A língua portuguesa é a língua oficial do Brasil, uma língua que herdamos de Portugal e que mantemos até hoje.
 

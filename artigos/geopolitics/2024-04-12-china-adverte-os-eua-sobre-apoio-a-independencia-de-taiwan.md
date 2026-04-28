@@ -1,11 +1,12 @@
 ---
-title: "China adverte os EUA sobre apoio à independência de Taiwan"
+title: China adverte os EUA sobre apoio à independência de Taiwan
 date: 2024-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Nesta quarta-feira, a China lançou um apelo contundente aos Estados Unidos, solicitando que cumpram suas promessas de não apoiar a "independência de Taiwan" e cessem o envio de sinais contraditórios às forças separatistas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Sistema simplificará relação entre bancos e clientes"
+title: Sistema simplificará relação entre bancos e clientes
 date: 2021-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A implantação do Open Banking será feita de forma gradual este ano.
 

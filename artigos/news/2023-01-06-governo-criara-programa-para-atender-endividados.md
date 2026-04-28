@@ -1,11 +1,12 @@
 ---
-title: "Governo criará programa para atender endividados"
+title: Governo criará programa para atender endividados
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Beneficiados com o Auxílio Brasil serão atendidos pelo programa.
 

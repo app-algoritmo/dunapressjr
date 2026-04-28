@@ -1,11 +1,13 @@
 ---
-title: "Texas Anuncia Construção de Base Militar em Eagle Pass para Combater Imigração Ilegal"
+title: Texas Anuncia Construção de Base Militar em Eagle Pass para Combater Imigração
+  Ilegal
 date: 2024-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador republicano do Texas, Greg Abbott, confirmou planos para a construção de um "acampamento base" militar na cidade de Eagle Pass, como parte dos esforços do governo para lidar com a crescente onda de imigração ilegal que afeta o estado. A "Base de Operações Avançadas Eagle", com uma extensão prevista de 32 hectares, abrigará entre 1.800 e 2.300 militares da Guarda Nacional.
 

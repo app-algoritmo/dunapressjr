@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula associação criminosa envolvia em caça e pesca ilegais no Rio Tocantins"
+title: PF desarticula associação criminosa envolvia em caça e pesca ilegais no Rio
+  Tocantins
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO - A Polícia Federal deflagrou nesta quarta-feira (24/6) a Operação Dia da Caça, com objetivo de desarticular associação criminosa voltada para caça e pesca ilegais no Rio Tocantins e em cidades em seus arredores.   
 

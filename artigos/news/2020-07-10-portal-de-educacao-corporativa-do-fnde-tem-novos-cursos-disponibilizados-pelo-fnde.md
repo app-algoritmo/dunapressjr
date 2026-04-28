@@ -1,11 +1,13 @@
 ---
-title: "Portal de Educação Corporativa do FNDE tem novos cursos disponibilizados pelo FNDE"
+title: Portal de Educação Corporativa do FNDE tem novos cursos disponibilizados pelo
+  FNDE
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## São 16 opções de capacitação a distância sem tutoria.
 

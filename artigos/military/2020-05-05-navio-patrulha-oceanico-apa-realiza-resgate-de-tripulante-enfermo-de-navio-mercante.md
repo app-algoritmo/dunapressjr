@@ -1,11 +1,13 @@
 ---
-title: "Navio-Patrulha Oceânico “Apa” realiza resgate de tripulante enfermo de Navio Mercante"
+title: Navio-Patrulha Oceânico “Apa” realiza resgate de tripulante enfermo de Navio
+  Mercante
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 No período de 28 de abril a 1 de maio, o Navio-Patrulha Oceânico (NPaOc) “Apa”, subordinado ao Comando do Grupamento de Patrulha Naval do Sudeste, realizou o resgate de um tripulante do Navio Mercante (NM) “Egyptian Mike”, que navegava do porto de Paranaguá-PR com destino a Singapura.
 

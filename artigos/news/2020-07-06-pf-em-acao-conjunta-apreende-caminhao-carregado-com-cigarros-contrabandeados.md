@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende caminhão carregado com cigarros contrabandeados"
+title: PF, em ação conjunta, apreende caminhão carregado com cigarros contrabandeados
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na madrugada deste domingo, dia 5/7, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COE/BOPE e COBRA/BPFRON da PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

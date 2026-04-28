@@ -1,11 +1,12 @@
 ---
-title: "Equipe econômica monitora possíveis impactos da crise no Credit Suisse"
+title: Equipe econômica monitora possíveis impactos da crise no Credit Suisse
 date: 2023-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro da Fazenda diz também que arcabouço fiscal está no Planalto.
 

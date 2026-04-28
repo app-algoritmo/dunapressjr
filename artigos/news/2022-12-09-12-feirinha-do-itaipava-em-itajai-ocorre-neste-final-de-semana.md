@@ -1,11 +1,12 @@
 ---
-title: "12ª Feirinha do Itaipava em Itajaí ocorre neste final de semana"
+title: 12ª Feirinha do Itaipava em Itajaí ocorre neste final de semana
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A 12ª edição da Feirinha do Itaipava ocorre neste sábado (10) e domingo (11), das 9h às 17h, no Museu Etno-Arqueológico de Itajaí. O evento reúne feirantes de produtos artesanais, autorais e de pequeno escala. A entrada é gratuita e o estacionamento do próprio museu estará disponível.
 

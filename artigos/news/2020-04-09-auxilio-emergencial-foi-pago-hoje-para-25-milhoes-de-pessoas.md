@@ -1,11 +1,12 @@
 ---
-title: "Auxílio emergencial foi pago hoje para 2,5 milhões de pessoas"
+title: Auxílio emergencial foi pago hoje para 2,5 milhões de pessoas
 date: 2020-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Caixa depositou para 2 milhões e Banco do Brasil para 500 mil
 

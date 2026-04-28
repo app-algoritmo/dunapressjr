@@ -1,11 +1,13 @@
 ---
-title: "Enem 2020: Inep divulga alterações no calendário e nos procedimentos para este ano"
+title: 'Enem 2020: Inep divulga alterações no calendário e nos procedimentos para
+  este ano'
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 MEC anunciou o adiamento da versão digital do Enem para 22 e 29 de novembro. A aplicação da prova impressa permanece prevista para 1º e 8 de novembro.
 

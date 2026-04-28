@@ -1,11 +1,13 @@
 ---
-title: "Alegações de Interferência Americana: Embaixador Russo Critica Reação dos EUA à Morte de Navalny"
+title: 'Alegações de Interferência Americana: Embaixador Russo Critica Reação dos
+  EUA à Morte de Navalny'
 date: 2024-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O embaixador russo nos Estados Unidos, Anatoly Antonov, denunciou a resposta dos Estados Unidos à morte do blogueiro russo Alexey Navalny como mais uma tentativa de interferência nos assuntos internos da Rússia. Antonov criticou a precipitação dos políticos americanos em culpar as autoridades russas antes de investigar completamente o incidente, questionando quem tem o direito de julgar. Ele destacou que essa postura reflete uma política inaceitável e instou os líderes americanos a focarem nos problemas internos do país.
 

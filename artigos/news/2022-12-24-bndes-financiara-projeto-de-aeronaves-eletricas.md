@@ -1,11 +1,12 @@
 ---
-title: "BNDES financiará projeto de aeronaves elétricas"
+title: BNDES financiará projeto de aeronaves elétricas
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão é que o veículo esteja disponível em 2026.
 

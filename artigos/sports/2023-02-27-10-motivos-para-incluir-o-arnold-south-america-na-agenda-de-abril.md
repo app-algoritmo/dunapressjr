@@ -1,11 +1,12 @@
 ---
-title: "10 motivos para incluir o Arnold South America na agenda de abril"
+title: 10 motivos para incluir o Arnold South America na agenda de abril
 date: 2023-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Maior e mais completo evento multiesportivo, de nutrição, bem-estar e fitness da América do Sul, o Arnold South America 2023 será entre 14 e 16 de abril, no Expo Center Norte, em São Paulo. A versão brasileira do evento criado por Arnold Schwarzenegger – que chegou ao país em 2013, no Rio de Janeiro, e desde 2017 é sediado na capital paulista – será, uma vez mais o ponto de encontro de atletas, celebridades, influenciadores, pessoas que buscam qualidade de vida e grandes marcas ligadas ao esporte e alimentação saudável.
 

@@ -1,11 +1,13 @@
 ---
-title: "Para Marcos Rogério, Lula deve priorizar infraestrutura do Brasil e não de outros países"
+title: Para Marcos Rogério, Lula deve priorizar infraestrutura do Brasil e não de
+  outros países
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) voltou a criticar, em pronunciamento no Plenário nesta quarta-feira (28), o discurso do presidente Lula durante a Cúpula de Paris, no início da semana. Ele afirmou que Lula demonstrou interesse de financiar obras de infraestrutura nos países pobres, mas que deveria, antes, priorizar o Brasil. O senador destacou uma afirmação sobre a capacidade hídrica do Congo, na África, para a construção de três grandes hidrelétricas do mesmo porte da Itaipu. 
 

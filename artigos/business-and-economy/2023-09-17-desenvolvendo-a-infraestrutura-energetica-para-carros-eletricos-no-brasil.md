@@ -1,12 +1,13 @@
 ---
-title: "Desenvolvendo a Infraestrutura Energética para Carros Elétricos no Brasil"
+title: Desenvolvendo a Infraestrutura Energética para Carros Elétricos no Brasil
 date: 2023-09-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - E-auto
+- Business and Economy
+- E-auto
 ---
+
 
 O avanço tecnológico na indústria automobilística tem levado a uma crescente demanda por veículos elétricos em todo o mundo. Os carros elétricos (CEs) são uma alternativa sustentável aos veículos tradicionais movidos a combustíveis fósseis, contribuindo para a redução das emissões de gases de efeito estufa e a busca por um futuro mais limpo e verde. No entanto, para que essa transição seja bem-sucedida, é fundamental desenvolver uma infraestrutura energética robusta para atender às necessidades dos CEs no Brasil.
 

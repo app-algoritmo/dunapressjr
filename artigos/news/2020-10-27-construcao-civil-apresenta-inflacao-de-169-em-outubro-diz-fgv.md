@@ -1,11 +1,12 @@
 ---
-title: "Construção civil apresenta inflação de 1,69% em outubro, diz FGV"
+title: Construção civil apresenta inflação de 1,69% em outubro, diz FGV
 date: 2020-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A taxa é superior a 1,15% observado em setembro.
 

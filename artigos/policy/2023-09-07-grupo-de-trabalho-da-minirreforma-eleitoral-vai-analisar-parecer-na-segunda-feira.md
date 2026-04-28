@@ -1,11 +1,12 @@
 ---
-title: "Grupo de trabalho da minirreforma eleitoral vai analisar parecer na segunda-feira"
+title: Grupo de trabalho da minirreforma eleitoral vai analisar parecer na segunda-feira
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Para que regras possam valer para as eleições do ano que vem, propostas devem ser aprovadas pelo Congresso até 6 de outubro Compartilhe Versão para impressão.
 

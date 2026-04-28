@@ -1,11 +1,13 @@
 ---
-title: "Senador denuncia 'desperdício do dinheiro público' em gastos com publicidade estatal"
+title: Senador denuncia 'desperdício do dinheiro público' em gastos com publicidade
+  estatal
 date: 2024-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um pronunciamento contundente no Plenário na última quarta-feira (24), o senador Cleitinho (Republicanos-MG) lançou luz sobre os gastos excessivos do governo federal com comunicação e publicidade. Apresentando dados alarmantes, o parlamentar destacou uma lista que revela os valores destinados à publicidade por empresas estatais nos últimos 10 anos.
 

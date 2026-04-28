@@ -1,11 +1,12 @@
 ---
-title: "Tabata Amaral sofre tentativa de assalto em São Paulo"
+title: Tabata Amaral sofre tentativa de assalto em São Paulo
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Deputada teve escoriações quando vidro do carro foi quebrado.
 

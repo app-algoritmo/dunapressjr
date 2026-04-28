@@ -1,11 +1,13 @@
 ---
-title: "Cláudio Castro anuncia grupo de trabalho para investigar lavagem de dinheiro das máfias"
+title: Cláudio Castro anuncia grupo de trabalho para investigar lavagem de dinheiro
+  das máfias
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Anúncio foi feito após reunião com o secretário-executivo do Ministério da Justiça, Ricardo Cappelli. GT irá investigar as fontes de lavagem dos recursos das milícias e do tráfico de drogas.
 

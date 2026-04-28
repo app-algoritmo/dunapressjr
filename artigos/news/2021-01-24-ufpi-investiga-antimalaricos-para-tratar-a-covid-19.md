@@ -1,11 +1,12 @@
 ---
-title: "UFPI investiga antimaláricos para tratar a COVID-19"
+title: UFPI investiga antimaláricos para tratar a COVID-19
 date: 2021-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisa desenvolvida pelo Programa de Pós-Graduação em Química da Universidade Federal do Piauí (UFPI) investiga o potencial de medicamentos antimaláricos para tratar a COVID-19. O projeto foi selecionado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC), no Programa de Combate a Epidemias.
 

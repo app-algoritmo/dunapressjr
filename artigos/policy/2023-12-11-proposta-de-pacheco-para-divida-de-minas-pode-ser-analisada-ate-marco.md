@@ -1,11 +1,12 @@
 ---
-title: "Proposta de Pacheco para dívida de Minas pode ser analisada até março"
+title: Proposta de Pacheco para dívida de Minas pode ser analisada até março
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado, Rodrigo Pacheco, recebeu nesta quinta-feira (7) em sua residência oficial os ministros da Fazenda, Fernando Haddad, e de Minas e Energia, Alexandre Silveira de Oliveira, para discutir o pagamento das dívidas do estado de Minas Gerais com a União. Segundo Pacheco, será feito um pedido na Justiça para prorrogar para até 31 de março a obrigação de Minas Gerais de arcar com a dívida ante a União. A ideia é que haja mais tempo para os governos federal e estadual analisarem a proposta apresentada por Pacheco para negociação da dívida de R$ 160 bilhões do estado.
 

@@ -1,11 +1,13 @@
 ---
-title: "FNDE vai consolidar estratégias para alimentação aos estudantes através de pesquisa"
+title: FNDE vai consolidar estratégias para alimentação aos estudantes através de
+  pesquisa
 date: 2020-06-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## *Objetivo é desenvolver soluções a partir das informações enviadas por estados e municípios sobre a execução do PNAE no período de pandemia.*
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo tratamento para doença de pele"
+title: Novo tratamento para doença de pele
 date: 2021-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com o uso de nanotecnologia, Maíra Pereira apresentou uma alternativa para o tratamento da hidradenite supurativa, uma doença inflamatória crônica da pele. O trabalho, selecionado pelo [Prêmio CAPES de Tese 2021](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área de Medicina 2, foi desenvolvido no Laboratório de Tecnologia de Medicamentos, Alimentos e Cosméticos (LTMAC), junto ao Programa de Pós-Graduação em Ciências da Saúde, da Universidade de Brasília (UnB), sob orientação do professor Guilherme Gelfuso.
 

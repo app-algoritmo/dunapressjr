@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial tem queda de 0,1% em novembro"
+title: Produção industrial tem queda de 0,1% em novembro
 date: 2023-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa é do IBGE.
 

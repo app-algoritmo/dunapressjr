@@ -1,11 +1,12 @@
 ---
-title: "Movimentação de cargas nos portos cresce 9,4% no primeiro semestre"
+title: Movimentação de cargas nos portos cresce 9,4% no primeiro semestre
 date: 2021-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa da Antaq para este ano é de aumento de 5,5% do setor.
 

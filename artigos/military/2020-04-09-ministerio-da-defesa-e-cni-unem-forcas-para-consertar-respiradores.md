@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Defesa e CNI unem forças para consertar respiradores"
+title: Ministério da Defesa e CNI unem forças para consertar respiradores
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A demanda por respiradores mecânicos aumentou substancialmente com o surto da COVID-19, doença causada pelo novo coronavírus. Para incrementar a disponibilidade dos aparelhos nos hospitais, a Força Aérea Brasileira (FAB) realiza o transporte dos equipamentos que necessitam de manutenção para pontos de assistência coordenados pelo Serviço Nacional de Aprendizagem Industrial (SENAI). O SENAI começou, de forma voluntária e gratuita, a consertar ventiladores mecânicos que estavam quebrados em vários estados.
 

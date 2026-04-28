@@ -1,11 +1,13 @@
 ---
-title: "Vale dos Dinossauros recebe reforma em pontes e passarelas e melhora estrutura para visitantes"
+title: Vale dos Dinossauros recebe reforma em pontes e passarelas e melhora estrutura
+  para visitantes
 date: 2022-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O Vale dos Dinossauros irá proporcionar a seus visitantes uma maior acessibilidade e segurança.
 

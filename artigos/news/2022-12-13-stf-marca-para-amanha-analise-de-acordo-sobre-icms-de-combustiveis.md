@@ -1,11 +1,12 @@
 ---
-title: "STF marca para amanhã análise de acordo sobre ICMS de combustíveis"
+title: STF marca para amanhã análise de acordo sobre ICMS de combustíveis
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sessão será virtual extraordinária de 24 horas.
 

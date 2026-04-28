@@ -1,11 +1,12 @@
 ---
-title: "Sorvete especial reduz efeitos colaterais em pacientes que fazem quimioterapia"
+title: Sorvete especial reduz efeitos colaterais em pacientes que fazem quimioterapia
 date: 2021-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pesquisadores do Hospital Universitário da Universidade Federal de Santa Catarina (HU-UFSC), vinculado à Rede Ebserh, desenvolveram um sorvete especialmente para pacientes em tratamento oncológico. O produto ajuda a reduzir os efeitos colaterais da quimioterapia em pacientes com câncer e funciona como um complemento alimentar.
 

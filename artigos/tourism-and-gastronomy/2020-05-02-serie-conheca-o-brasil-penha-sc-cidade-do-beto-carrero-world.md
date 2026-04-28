@@ -1,11 +1,12 @@
 ---
-title: "Série conheça o Brasil: Penha /SC cidade do Beto Carrero World"
+title: 'Série conheça o Brasil: Penha /SC cidade do Beto Carrero World'
 date: 2020-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Beto Carrero World é o maior parque temático da América Latina. Fundado em 1991,  e, em 2014, foi considerado o 6° melhor parque de diversão do mundo por usuários do site TripAdvisor, localizado no município de Penha, no litoral norte do estado de Santa Catarina.
 

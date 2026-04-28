@@ -1,11 +1,12 @@
 ---
-title: "Em parceria público-privada, Governo inaugura terminal ferroviário de cargas"
+title: Em parceria público-privada, Governo inaugura terminal ferroviário de cargas
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura inaugurou, nesta sexta-feira (4), terminal ferroviário de cargas da empresa de combustíveis Petronac, localizado em Porto Nacional (TO). Com mais de seis hectares, a área pertence à Valec Engenharia, Construções e Ferrovias S.A. e foi concedida à empresa mediante pagamento de outorga à União.
 

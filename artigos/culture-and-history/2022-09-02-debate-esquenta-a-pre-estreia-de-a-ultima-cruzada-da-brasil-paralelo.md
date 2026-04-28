@@ -1,12 +1,13 @@
 ---
-title: "Debate esquenta a pré-estreia de “A última cruzada”, da Brasil Paralelo"
+title: Debate esquenta a pré-estreia de “A última cruzada”, da Brasil Paralelo
 date: 2022-09-02
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
-  - News
+- Culture and History
+- News
 ---
+
 
 Nova produção da Brasil Paralelo, a série atualiza a primeira edição, produzida em 2017, para garantir ao espectador uma experiência inédita de cinema.
 

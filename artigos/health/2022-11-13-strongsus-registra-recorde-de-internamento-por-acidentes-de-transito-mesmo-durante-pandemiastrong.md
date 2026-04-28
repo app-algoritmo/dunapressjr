@@ -1,11 +1,13 @@
 ---
-title: "<strong>SUS registra recorde de internamento por acidentes de trânsito, mesmo durante pandemia</strong>"
+title: <strong>SUS registra recorde de internamento por acidentes de trânsito, mesmo
+  durante pandemia</strong>
 date: 2022-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O número de pessoas internadas na rede pública de saúde com lesões causadas por acidentes de trânsito bateu recorde no ano passado. Conforme dados do Ministério da Saúde, foram, em média, 642 internamentos por dia. Em 2011, a média diária era de 480 internações. Ou seja, em dez anos houve um acréscimo de 34% nas hospitalizações por acidentes de trânsito. Os dados mostram que as medidas de distanciamento social da covid-19 não impediram o aumento da violência nas estradas. O país registrou, em 2020, aproximadamente 188 mil internações de pessoas envolvidas nesse tipo de acidente. Já em 2021, o número aumentou 24%, indo para 234 mil. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto regulamenta a capacitação de agentes de segurança para uso de armas não letais"
+title: Projeto regulamenta a capacitação de agentes de segurança para uso de armas
+  não letais
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 273/23 define regras gerais para o uso da força e de instrumentos de menor potencial ofensivo por agentes de segurança pública. O objetivo é padronizar a ação das forças de segurança conforme acordos e tratados internacionais firmados pelo Brasil. O texto está sendo analisado pela Câmara dos Deputados.
 

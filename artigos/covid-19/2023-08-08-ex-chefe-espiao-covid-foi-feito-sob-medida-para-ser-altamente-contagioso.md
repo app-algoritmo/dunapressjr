@@ -1,11 +1,12 @@
 ---
-title: "Ex-chefe espião: Covid foi 'feito sob medida' para ser 'altamente contagioso'"
+title: 'Ex-chefe espião: Covid foi ''feito sob medida'' para ser ''altamente contagioso'''
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O ex-chefe da agência de inteligência MI6 da Grã-Bretanha alertou o público de que o Covid foi projetado por cientistas do Instituto de Virologia de Wuhan (WIV) para ser "altamente contagioso".
 

@@ -1,11 +1,13 @@
 ---
-title: "Dra. Dulci quer mais um pódio na etapa de Paragominas do Circuito OAB de Corrida do Pará"
+title: Dra. Dulci quer mais um pódio na etapa de Paragominas do Circuito OAB de Corrida
+  do Pará
 date: 2023-09-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Advogada de Belém disputa a categoria Advocacia - 50 a 59 anos, em que foi ouro na abertura, em Ananindeua, no mês de agosto, e bronze em Marabá, no início de setembro.
 

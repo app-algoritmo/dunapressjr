@@ -1,11 +1,13 @@
 ---
-title: "The Creator: John David Washington luta contra IA no novo suspense sci-fi. Veja o trailer!"
+title: 'The Creator: John David Washington luta contra IA no novo suspense sci-fi.
+  Veja o trailer!'
 date: 2023-05-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## 20th Century Studios, New Regency e Entertainment One revelaram nesta quarta-feira o primeiro trailer de The Creator.
 

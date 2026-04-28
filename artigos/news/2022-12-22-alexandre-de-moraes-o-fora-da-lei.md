@@ -1,12 +1,13 @@
 ---
-title: "Alexandre de Moraes, o Fora da Lei"
+title: Alexandre de Moraes, o Fora da Lei
 date: 2022-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O servidor [Alexandre de Moraes](https://dunapress.org/2020/06/28/oswaldo-eustaquio-jornalista-preso-no-brasil-investigou-esposa-de-ministro-do-stf-e-descobriu-esquema-bomba/) está entrando para a história do Brasil com o pé esquerdo, "bem esquerdo", tido como tirano e ditador pelo povo, "o fora da lei" é uma figura despresível e odiado onde quer que se apresente dentro ou fora do Brasil, entra na mira do dep. Van Harttem.
 

@@ -1,11 +1,13 @@
 ---
-title: "Os cães podem farejar amostras positivas de coronavírus com 96% de precisão, segundo estudo"
+title: Os cães podem farejar amostras positivas de coronavírus com 96% de precisão,
+  segundo estudo
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## O uso de cães farejadores para detectar COVID não é novo, mas este método é particularmente único. Em breve, poderemos ver cães farejadores em todos os aeroportos para permitir viagens em meio à pandemia.
 

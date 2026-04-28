@@ -1,11 +1,12 @@
 ---
-title: "TCE-RJ aponta sobrepreço na compra de respiradores"
+title: TCE-RJ aponta sobrepreço na compra de respiradores
 date: 2020-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O tribunal apurou sobrepreço de R$ 123 milhões.
 

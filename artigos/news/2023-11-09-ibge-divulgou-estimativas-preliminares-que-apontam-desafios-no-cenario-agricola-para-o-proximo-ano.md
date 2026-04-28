@@ -1,11 +1,13 @@
 ---
-title: "IBGE divulgou estimativas preliminares que apontam desafios no cenário agrícola para o próximo ano"
+title: IBGE divulgou estimativas preliminares que apontam desafios no cenário agrícola
+  para o próximo ano
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeções para a safra nacional de grãos 2024 indicam queda de 2,8%.
 

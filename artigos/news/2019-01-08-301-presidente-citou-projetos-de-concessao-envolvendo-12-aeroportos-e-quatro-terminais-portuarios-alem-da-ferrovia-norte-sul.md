@@ -1,11 +1,13 @@
 ---
-title: "3.01 Presidente citou projetos de concessão envolvendo 12 aeroportos e quatro terminais portuários, além da Ferrovia Norte-Sul"
+title: 3.01 Presidente citou projetos de concessão envolvendo 12 aeroportos e quatro
+  terminais portuários, além da Ferrovia Norte-Sul
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## “Resgataremos o desenvolvimento inicial da infraestrutura do Brasil”, afirma Bolsonaro
 

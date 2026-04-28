@@ -1,11 +1,13 @@
 ---
-title: "Aplicativo para adolescentes em sofrimento mental leva prêmio em Feira Brasileira de Ciências"
+title: Aplicativo para adolescentes em sofrimento mental leva prêmio em Feira Brasileira
+  de Ciências
 date: 2023-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o MentalSaurus, aplicativo para auxiliar jovens e adolescentes em condição de sofrimento mental, a estudante Grazyella Luna Barlatti Fernandes, de apenas 16 anos, foi premiada na categoria Humanas, da Febrace (21.ª Feira Brasileira de Ciências e Engenharia). A feira aconteceu presencialmente, na USP (Universidade de São Paulo), e contou com 200 finalistas de todo o Brasil. O objetivo do aplicativo é auxiliar na identificação de alguma situação emocionalmente desgastante e recomendar exercícios respiratórios e atividades a serem feitas para aliviar o nível de estresse - ou até mesmo em casos mais graves, encaminhar o usuário para uma ajuda psicológica ou psiquiátrica mais efetiva.  
 

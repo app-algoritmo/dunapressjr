@@ -1,11 +1,12 @@
 ---
-title: "Qual a diferença entre medo e temor?"
+title: Qual a diferença entre medo e temor?
 date: 2019-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 De acordo com o dicionário "temor" é um substantivo masculino da língua portuguesa, usado para definir o ato ou efeito de temer, ou seja, o medo, receio, pavor ou terror de algo ou alguma coisa. A Bíblia tem muito a dizer sobre o medo mencionando-o duas vezes: "O Temor é benéfico e deve ser encorajado", "O medo é um detrimento e não só deve ser desencorajado, como também superado". O Temor, respeitoso a Deus é uma reverência pelo Seu poder e glória, também é um respeito adequado à Sua ira. Em outras palavras, é um reconhecimento total de tudo que Deus é através de um conhecimento mais profundo d'Ele e dos Seus atributos.
 

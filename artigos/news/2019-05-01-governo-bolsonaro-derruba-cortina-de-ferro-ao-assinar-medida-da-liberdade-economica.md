@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro derruba cortina de ferro ao assinar medida da liberdade econômica"
+title: Governo Bolsonaro derruba cortina de ferro ao assinar medida da liberdade econômica
 date: 2019-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Pronunciamento e assinatura do Presidente Jair Bolsonaro na Cerimônia de Assinatura da Medida Provisória da Liberdade Econômica com a participação de Paulo Guedes, Onyx Lorenzoni, Joice Hasselmann e membros da equipe.
 

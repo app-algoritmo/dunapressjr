@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda busca vincular desoneração da folha de pagamento à segunda fase da reforma tributária"
+title: Ministro da Fazenda busca vincular desoneração da folha de pagamento à segunda
+  fase da reforma tributária
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Haddad defende adiamento das discussões sobre a desoneração para o redesenho dos tributos sobre a renda.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nelson Teich toma posse como Ministro da Saúde"
+title: Nelson Teich toma posse como Ministro da Saúde
 date: 2020-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na transmissão da posse, o novo ministro da Saúde agradeceu a oportunidade de chefiar a saúde do país e assumiu o compromisso de assegurar o bem-estar dos brasileiros.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong> O inimigo Luso-baiano da Independência </strong>"
+title: <strong> O inimigo Luso-baiano da Independência </strong>
 date: 2022-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Às vezes, quando falamos na Independência do Brasil, parece que todo o processo de ruptura entre a metrópole lusitana e a imensa colônia cá deste lado do Atlântico fora relativamente simples, sem grandes percalços – como se o Grito do Ipiranga, dado por Pedro de Alcântara, ainda príncipe e mais português que brasileiro, fosse apenas a confirmação de um fato consumado. Na verdade, o movimento de separação entre Brasil e Portugal se arrastou de 1821 a 1825. Foi complexo, carregado de considerável morticínio e muito, mas muito debate, tanto via oral quanto por escrito. Havia mesmo quem na antiga colônia preferia permanecer sob a tutela das Cortes de Lisboa. Um exemplo? O Semanário Cívico, hoje aqui em destaque.
 

@@ -1,12 +1,13 @@
 ---
-title: "Workshop Imigração para Noruega: pessoal, familiar ou negócios"
+title: 'Workshop Imigração para Noruega: pessoal, familiar ou negócios'
 date: 2019-08-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 Noruega é um país em constante crescimento. Segurança, educação e economia fazem com que o país esteja no foco imigratório de pessoas com metas de crescimento profissional, pessoal ou familiar. 
 

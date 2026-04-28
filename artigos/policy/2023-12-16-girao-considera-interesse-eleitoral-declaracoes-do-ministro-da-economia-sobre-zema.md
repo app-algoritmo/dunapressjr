@@ -1,11 +1,13 @@
 ---
-title: "Girão considera 'interesse eleitoral' declarações do ministro da Economia sobre Zema"
+title: Girão considera 'interesse eleitoral' declarações do ministro da Economia sobre
+  Zema
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento em Plenário nesta quarta-feira (13), o ministro da Economia, Fernando Haddad, devido a uma atitude classificada pelo parlamentar como “desastrada e inconsequente” em relação ao governador de Minas Gerais, Romeu Zema. Segundo o senador, o ministro acusou o governo de Zema de aumentar a dívida do estado. Na opinião de Girão, um ministro não deveria utilizar seu cargo para fazer acusações políticas, que, em sua opinião, são “levianas e irresponsáveis” e servem aos interesses políticos do presidente Lula.
 

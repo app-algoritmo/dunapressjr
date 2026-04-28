@@ -1,11 +1,12 @@
 ---
-title: "Será realizado a partir de 10 de agosto cadastro dos locais do Enem Digital"
+title: Será realizado a partir de 10 de agosto cadastro dos locais do Enem Digital
 date: 2020-08-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, nesta sexta-feira, 31 de julho, a Portaria n.º 473, que cria o cadastro eletrônico de locais de aplicação para sediar o Exame Nacional do Ensino Médio (Enem) Digital, marcado para os dias 31 de janeiro e 7 de fevereiro de 2021, além de outros exames e avaliações do instituto. O objetivo é promover o cadastramento de instituições interessadas em compor a Rede Nacional de Postos Aplicadores (RNPA) e normatizar os procedimentos que serão adotados para seleção dos locais de aplicação.
 

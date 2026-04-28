@@ -1,11 +1,12 @@
 ---
-title: "Em que ponto o governo dos EUA deve ser considerado ilegítimo?"
+title: Em que ponto o governo dos EUA deve ser considerado ilegítimo?
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em 16 de dezembro de 1773, na costa de Boston, colonos americanos irados, fartos de pagar taxas de impostos excessivas e receber abuso político de seus mestres coloniais em troca, inundaram o mar com 342  [caixas de chá da Companhia Britânica das Índias Orientais](https://www.history.com/topics/american-revolution/boston-tea-party#:~:text=The%20Boston%20Tea%20Party%20was,India%20Company%20into%20the%20harbor.) .
 

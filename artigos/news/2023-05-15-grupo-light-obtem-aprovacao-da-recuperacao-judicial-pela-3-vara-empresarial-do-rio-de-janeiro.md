@@ -1,11 +1,13 @@
 ---
-title: "Grupo Light obtém aprovação da recuperação judicial pela 3ª Vara Empresarial do Rio de Janeiro"
+title: Grupo Light obtém aprovação da recuperação judicial pela 3ª Vara Empresarial
+  do Rio de Janeiro
 date: 2023-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão judicial permite ao grupo enfrentar dívidas de R$ 11 bilhões e reestruturar sua situação financeira e de capital.
 

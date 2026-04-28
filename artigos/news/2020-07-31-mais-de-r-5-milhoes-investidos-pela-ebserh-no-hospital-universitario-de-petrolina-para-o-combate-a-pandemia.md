@@ -1,11 +1,13 @@
 ---
-title: "Mais de R$ 5 milhões investidos pela Ebserh no Hospital Universitário de Petrolina para o combate à pandemia"
+title: Mais de R$ 5 milhões investidos pela Ebserh no Hospital Universitário de Petrolina
+  para o combate à pandemia
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Valor inclui o pagamento de julho do salário de 189 profissionais da área da saúde contratados para dar suporte aos atendimentos de Covid-19 na unidade hospitalar.
 

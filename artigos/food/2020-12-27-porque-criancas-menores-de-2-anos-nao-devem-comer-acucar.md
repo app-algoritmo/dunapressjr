@@ -1,11 +1,12 @@
 ---
-title: "Porque crianças menores de 2 anos não devem comer açúcar?"
+title: Porque crianças menores de 2 anos não devem comer açúcar?
 date: 2020-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Os alimentos oferecidos nesse período são decisivos para a formação de hábitos futuros.
 

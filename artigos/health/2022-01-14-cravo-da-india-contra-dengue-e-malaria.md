@@ -1,11 +1,12 @@
 ---
-title: "Cravo-da-índia contra dengue e malária"
+title: Cravo-da-índia contra dengue e malária
 date: 2022-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Mosquitos são responsáveis por transmitir diversas doenças como malária, [encefalite](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/190-cravo-da-india-contra-dengue-e-malaria#), dengue, febre amarela e [filariose](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/190-cravo-da-india-contra-dengue-e-malaria#). Nos países tropicais, devido ao calor e à umidade, é comum a proliferação de mosquitos das espécies *Aedes aegypti* e *Anopheles darlingi*. No Brasil e em outros países, o *Aedes aegypti* é o maior causador da dengue. A disseminação dessa doença tem sido uma grande preocupação, principalmente pela sua forma mais grave - a dengue hemorrágica, que pode afetar o sistema nervoso central. De acordo com a Organização Mundial de Saúde, um quinto (1/5) da população mundial tem risco de contrair dengue. Já o mosquito *Anopheles darlingi* é o maior transmissor da Malária no Brasil, principalmente na região Amazônica. Essa doença é um problema de saúde pública em mais de 100 países. Estima-se que quase um milhão de pessoas morreu por causa da malária, sendo que 90% dessas mortes ocorreram na África.
 

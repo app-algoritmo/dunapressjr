@@ -1,11 +1,12 @@
 ---
-title: "Produtores familiares de leite pedem apoio para estancar crise no setor"
+title: Produtores familiares de leite pedem apoio para estancar crise no setor
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Direitos Humanos e Legislação Participativa (CDH) reuniu nesta segunda-feira (28) representantes do governo federal e da cadeia de produtores familiares de leite da Região Sul em busca de soluções para o setor, em crise desde 2016. A reunião foi conduzida pelo presidente da CDH, senador Paulo Paim (PT-RS), segundo o qual dezenas de milhares de pequenos produtores já abandonaram o setor, entre outros motivos, por não conseguirem competir com as regras que facilitam a importação de leite da Argentina, Uruguai e Paraguai no âmbito do Mercosul.
 

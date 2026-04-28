@@ -1,11 +1,12 @@
 ---
-title: "Irregularidade em consignado gera sanções a correspondentes bancários"
+title: Irregularidade em consignado gera sanções a correspondentes bancários
 date: 2022-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Sistema de autorregulação já puniu quase 900 estabelecimentos.
 

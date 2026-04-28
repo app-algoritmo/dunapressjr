@@ -1,11 +1,12 @@
 ---
-title: "Tomar cuidados simples como se agasalhar bem previne o risco de infarto"
+title: Tomar cuidados simples como se agasalhar bem previne o risco de infarto
 date: 2021-06-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a chegada do inverno, muita gente se previne contra gripes, resfriados, problemas respiratórios e alergias. Mas, várias pessoas ainda desconhecem o risco de doenças circulatórias que a estação também costuma trazer, a exemplo dos problemas cardíacos. 
 

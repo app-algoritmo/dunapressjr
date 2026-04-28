@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Infraestrutura quer capital privado para expandir ferrovias"
+title: Ministro da Infraestrutura quer capital privado para expandir ferrovias
 date: 2019-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O ministro da Infraestrutura, Tarcísio de Freitas, anunciou nesta terça-feira (25) que o governo federal pretende expandir a malha ferroviária do país por meio de parcerias com a iniciativa privada. Além da prorrogação de contratos já existentes e da concessão de novos trechos, o Poder Executivo planeja autorizar que investidores particulares construam e operem suas próprias ferrovias.
 

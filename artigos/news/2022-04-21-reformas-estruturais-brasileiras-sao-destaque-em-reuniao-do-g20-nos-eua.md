@@ -1,11 +1,12 @@
 ---
-title: "Reformas estruturais brasileiras são destaque em reunião do G20, nos EUA"
+title: Reformas estruturais brasileiras são destaque em reunião do G20, nos EUA
 date: 2022-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ministro da Economia ressaltou que o país tem mais de US$ 200 milhões em investimentos privados para os próximos anos.
 

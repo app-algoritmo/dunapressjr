@@ -1,11 +1,12 @@
 ---
-title: "Anac flexibiliza resolução durante pandemia"
+title: Anac flexibiliza resolução durante pandemia
 date: 2020-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por causa do novo coronavírus, uma série de regras vem sendo revistas no setor aéreo. Recentemente, foi publicada no Diário Oficial da União, em caráter temporário, a flexibilização da resolução da Agência Nacional de Aviação Civil de número 400/2016, sobre os direitos e deveres dos passageiros e das empresas aéreas.
 

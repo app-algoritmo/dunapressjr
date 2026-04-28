@@ -1,11 +1,13 @@
 ---
-title: "Operação Tríade é desencadeada pela polícia civil em SC, Paraná e Mato Grosso do Sul para cumprir 42 ordens judiciais e prende 13 pessoas"
+title: Operação Tríade é desencadeada pela polícia civil em SC, Paraná e Mato Grosso
+  do Sul para cumprir 42 ordens judiciais e prende 13 pessoas
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Polícia Civil de Santa Catarina desencadeou nesta terça-feira (09) a Operação Tríade para cumprir 42 ordens judiciais, sendo 30 mandados de busca e apreensão e 12 mandados de prisão preventiva, em três Estados: Santa Catarina, Paraná e Mato Grosso do Sul. Foram presas 13 pessoas, apreendidos drogas, munições, joias e veículos.
 

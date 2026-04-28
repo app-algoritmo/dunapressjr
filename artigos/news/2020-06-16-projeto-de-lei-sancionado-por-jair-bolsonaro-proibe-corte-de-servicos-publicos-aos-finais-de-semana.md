@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei sancionado por Jair Bolsonaro proíbe corte de serviços públicos aos finais de semana"
+title: Projeto de Lei sancionado por Jair Bolsonaro proíbe corte de serviços públicos
+  aos finais de semana
 date: 2020-06-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Fornecedoras de serviços públicos, como água e energia elétrica, também serão proibidas de cobrar taxas dos consumidores para religar ou restabelecer serviço.
 

@@ -1,11 +1,12 @@
 ---
-title: "Tensões Aumentam na Península Coreana devido a Acusações de Espionagem"
+title: Tensões Aumentam na Península Coreana devido a Acusações de Espionagem
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 As autoridades norte-coreanas recentemente acusaram os Estados Unidos e a Coreia do Sul de realizarem atividades de espionagem, gerando um aumento significativo nas tensões na região. Segundo a agência de notícias sul-coreana Yonhap, Pyongyang denunciou as supostas atividades de espionagem como uma grave provocação, citando informações da Agência Central de Inteligência da Coreia.
 

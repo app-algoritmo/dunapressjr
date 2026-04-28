@@ -1,11 +1,12 @@
 ---
-title: "Pequenos negócios respondem por 71% dos empregos criados até setembro"
+title: Pequenos negócios respondem por 71% dos empregos criados até setembro
 date: 2023-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Agosto e setembro são os meses com melhores resultados.
 

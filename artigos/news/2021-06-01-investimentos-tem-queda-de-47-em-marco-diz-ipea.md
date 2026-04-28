@@ -1,11 +1,12 @@
 ---
-title: "Investimentos têm queda de 4,7% em março, diz Ipea"
+title: Investimentos têm queda de 4,7% em março, diz Ipea
 date: 2021-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção de máquinas e equipamentos caiu 11%.
 

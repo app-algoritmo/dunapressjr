@@ -1,11 +1,13 @@
 ---
-title: "Experiências educacionais compartilhadas durante pandemia entre escolas do Pecim"
+title: Experiências educacionais compartilhadas durante pandemia entre escolas do
+  Pecim
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Participantes do Programa conversaram em dois dias, por videoconferência.
 

@@ -1,11 +1,13 @@
 ---
-title: "Representante do governo diz que empresa precisa de recursos privados para voltar a investir"
+title: Representante do governo diz que empresa precisa de recursos privados para
+  voltar a investir
 date: 2022-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Participantes de audiência na Câmara dos Deputados criticaram pressa, falta de transparência e os valores envolvidos na privatização da Eletrobras. Representante do governo afirmou que o processo está maduro e que se trata de capitalização para retomar capacidade de investimentos da empresa.
 

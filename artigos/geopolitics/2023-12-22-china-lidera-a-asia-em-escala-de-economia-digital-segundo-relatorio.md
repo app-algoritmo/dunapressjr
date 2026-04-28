@@ -1,11 +1,12 @@
 ---
-title: "China lidera a Ásia em escala de economia digital, segundo relatório"
+title: China lidera a Ásia em escala de economia digital, segundo relatório
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A China está muito à frente na economia digital em termos de escala, com seu valor atingindo US$ 7,47 trilhões em 2022, segundo o Relatório de Economia Digital da Ásia 2023, divulgado nesta quinta-feira.
 

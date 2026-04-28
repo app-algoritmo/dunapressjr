@@ -1,11 +1,12 @@
 ---
-title: "Mais facilidade na distribuição de medicamentos pelo País"
+title: Mais facilidade na distribuição de medicamentos pelo País
 date: 2020-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o apoio logístico dos Correios Log Farma, instituições públicas e privadas podem realizar a distribuição de medicamentos para atender pacientes em tratamento continuado. Em meio à pandemia do novo coronavírus, a Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o transporte de medicamentos e insumos de saúde para todo território nacional.
 

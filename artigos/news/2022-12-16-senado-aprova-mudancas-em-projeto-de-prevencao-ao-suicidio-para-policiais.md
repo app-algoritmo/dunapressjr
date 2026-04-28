@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova mudanças em projeto de prevenção ao suicídio para policiais"
+title: Senado aprova mudanças em projeto de prevenção ao suicídio para policiais
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário do Senado aprovou nesta quinta-feira (15), de forma definitiva, o projeto de lei que prevê ações de apoio à saúde mental e de prevenção ao suicídio para profissionais de segurança pública ([PL 4.815/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/155220)). Ele já havia sido aprovado pelo Senado em 2021, foi modificado pela Câmara dos Deputados e agora os senadores confirmaram as mudanças. A proposta segue agora para sanção presidencial.
 

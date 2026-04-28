@@ -1,11 +1,12 @@
 ---
-title: "Erosões em bordas de reservatórios"
+title: Erosões em bordas de reservatórios
 date: 2022-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

@@ -1,12 +1,13 @@
 ---
-title: "Festa brasileira no Sand Series Brasília Decathlon de Beach Tennis"
+title: Festa brasileira no Sand Series Brasília Decathlon de Beach Tennis
 date: 2023-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ** **A festa foi brasileira na decisão do ITF Sand Series Brasília Classic Decathlon'23, apresentado pelo Banco BRB. Na noite deste sábado (17), o catarinense André Baran e o russo Nikita Burmakin comemoraram o título no masculino. E a paranaense Rafa Miiller e a venezuelana Patty Diaz foram as campeãs no feminino. O torneio está sendo realizado nas quadras da PlayTennis, centro esportivo localizado na Arena BRB BSB, no Distrito Federal.
 

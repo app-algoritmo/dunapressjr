@@ -1,11 +1,12 @@
 ---
-title: "Governo inaugura hospital universitário no RS"
+title: Governo inaugura hospital universitário no RS
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com cerca de R$ 22 milhões em investimentos, o Hospital Escola da Universidade Federal de Pelotas (UFPe), no Rio Grande do Sul, foi inaugurado nesta segunda-feira (5). A obra tinha sido iniciada em 2016. A estimativa é de que 230 leitos de internação sejam criados, o que vai aumentar a capacidade de UTIs e salas cirúrgicas. Nesta etapa, foi liberado o primeiro bloco da unidade. 
 

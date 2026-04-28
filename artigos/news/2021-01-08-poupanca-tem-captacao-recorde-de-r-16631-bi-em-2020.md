@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem captação recorde de R$ 166,31 bi em 2020"
+title: Poupança tem captação recorde de R$ 166,31 bi em 2020
 date: 2021-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Apenas em dezembro, depósitos superaram saques em R$ 20,6 bi.
 

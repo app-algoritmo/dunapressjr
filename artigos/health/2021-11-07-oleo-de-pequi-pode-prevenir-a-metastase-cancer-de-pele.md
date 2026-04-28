@@ -1,11 +1,12 @@
 ---
-title: "Óleo de pequi pode prevenir a metástase câncer de pele"
+title: Óleo de pequi pode prevenir a metástase câncer de pele
 date: 2021-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Patrícia Leite Costa, farmacêutica e mestre em nanotecnologia pela Universidade de Brasília (UnB), durante seu mestrado desenvolveu uma nanoemulsão para tratar o câncer de pele. Feita à base de óleo de pequi associado ao ácido anacárdico – composto bioativo derivado do líquido da casca de castanha de caju – possui capacidade antitumoral e promete ser uma alternativa eficaz na prevenção à metástase do câncer de pele (melanoma).
 

@@ -1,11 +1,12 @@
 ---
-title: "A fantástica industria da pesca na Noruega"
+title: A fantástica industria da pesca na Noruega
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Conhecida como a terceira industria do país, o setor exportou 2,7 milhões de toneladas de frutos do mar atingindo um recorde de $99 bilhões NOK em 2018. Isso representa um aumento no volume de 4% e um aumento no valor de 5%, ou $4,6 bilhões a mais que em 2017. Isso corresponde a 37 milhões de refeições de frutos do mar todos os dias durante todo o ano, ou 25.700 refeições por minuto.
 

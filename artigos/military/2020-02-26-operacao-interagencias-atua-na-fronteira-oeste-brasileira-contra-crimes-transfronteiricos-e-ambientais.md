@@ -1,11 +1,13 @@
 ---
-title: "Operação interagências atua na fronteira oeste brasileira contra crimes transfronteiriços e ambientais"
+title: Operação interagências atua na fronteira oeste brasileira contra crimes transfronteiriços
+  e ambientais
 date: 2020-02-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Corumbá (MS)** – No
 período de 13 a 21 de fevereiro, foi desencadeada a Operação Ágata Pantanal

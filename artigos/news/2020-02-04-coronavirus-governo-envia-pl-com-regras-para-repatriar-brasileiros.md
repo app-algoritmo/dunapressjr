@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: governo envia PL com regras para repatriar brasileiros"
+title: 'Coronavírus: governo envia PL com regras para repatriar brasileiros'
 date: 2020-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Projeto define medidas sanitárias para quem estiver vindo de Wuhan*
 

@@ -1,11 +1,13 @@
 ---
-title: "Jair Bolsonaro’s Historic Trial: Brazil’s Supreme Court Confronts an Alleged Coup Plot"
+title: 'Jair Bolsonaro’s Historic Trial: Brazil’s Supreme Court Confronts an Alleged
+  Coup Plot'
 date: 2025-06-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Politics
+- International Politics
 ---
+
 
 ## Jair Bolsonaro’s Coup Trial: Brazil’s Supreme Court Case Explained
 

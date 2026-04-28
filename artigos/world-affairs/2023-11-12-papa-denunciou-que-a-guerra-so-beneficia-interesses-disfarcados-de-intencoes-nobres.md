@@ -1,11 +1,13 @@
 ---
-title: "Papa denunciou que a guerra “só beneficia” interesses disfarçados “de intenções nobres”"
+title: Papa denunciou que a guerra “só beneficia” interesses disfarçados “de intenções
+  nobres”
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Papa Francisco denunciou que a guerra, o terrorismo e a violência “apenas” beneficiam interesses particulares disfarçados “de intenções nobres”, ao mesmo tempo que encorajam “a construção de um mundo mais justo, solidário e pacífico”.
 

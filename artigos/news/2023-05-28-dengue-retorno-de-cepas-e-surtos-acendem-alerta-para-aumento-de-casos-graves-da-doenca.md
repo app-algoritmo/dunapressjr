@@ -1,11 +1,13 @@
 ---
-title: "Dengue: retorno de cepas e surtos acendem alerta para aumento de casos graves da doença"
+title: 'Dengue: retorno de cepas e surtos acendem alerta para aumento de casos graves
+  da doença'
 date: 2023-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Depois de sete anos, a Fundação Oswaldo Cruz (Fiocruz) identificou quatro casos de pessoas infectadas com o sorotipo 3 da dengue, um deles em Curitiba, no Paraná. Segundo a instituição, a doença foi importada, pois a pessoa diagnosticada havia viajado para o Suriname, onde pode ter contraído a dengue. Os outros três casos foram autóctones, do estado de Roraima, com pacientes que não tinham histórico de viagens. 
 

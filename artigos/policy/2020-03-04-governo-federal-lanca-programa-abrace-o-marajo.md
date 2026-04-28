@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal lança  programa abrace o Marajó"
+title: Governo Federal lança  programa abrace o Marajó
 date: 2020-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Programa Abrace o Marajó é lançado para ampliar acesso dos marajoaras aos direitos humanos*.
 

@@ -1,11 +1,12 @@
 ---
-title: "Liga da Justiça Chegou na Netflix"
+title: Liga da Justiça Chegou na Netflix
 date: 2023-10-28
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute A Resenha Aqui
 

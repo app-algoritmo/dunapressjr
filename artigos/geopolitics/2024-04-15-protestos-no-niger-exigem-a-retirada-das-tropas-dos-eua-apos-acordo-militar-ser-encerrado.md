@@ -1,11 +1,13 @@
 ---
-title: "Protestos no Níger exigem a retirada das tropas dos EUA após acordo militar ser encerrado"
+title: Protestos no Níger exigem a retirada das tropas dos EUA após acordo militar
+  ser encerrado
 date: 2024-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Centenas de manifestantes inundaram as ruas da capital do Níger, Niamey, em um apelo veemente pela saída das tropas norte-americanas, após a junta governante romper um acordo militar com os Estados Unidos e receber instrutores militares russos. A marcha, que ecoou os protestos anti-franceses do ano passado, viu os manifestantes empunhando bandeiras do Níger e cartazes escritos à mão, como um que clamava "EUA saem correndo do Níger".
 

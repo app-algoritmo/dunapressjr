@@ -1,11 +1,12 @@
 ---
-title: "Cientistas de Wuhan jogados do telhado"
+title: Cientistas de Wuhan jogados do telhado
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **A história num piscar de olhos**
 

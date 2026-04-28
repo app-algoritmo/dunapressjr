@@ -1,11 +1,12 @@
 ---
-title: "Debatedores pedem repasse de verbas aos municípios para conclusão de escolas"
+title: Debatedores pedem repasse de verbas aos municípios para conclusão de escolas
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Medidas de apoio à infraestrutura educacional foram o tema do quarto debate sobre a Meta 7 do Plano Nacional de Educação (PNE), que é a política pública em análise pelo colegiado em 2023. Autora do requerimento, a senadora Damares Alves (Republicanos-DF) considerou "preocupante" a situação apresentada na reunião, com obras de escolas paradas, e disse que vai se debruçar sobre o tema, conversando com representantes da União. Para os debatedores que participaram da audiência pública, é preciso agilizar o repasse de recursos para os municípios.
 

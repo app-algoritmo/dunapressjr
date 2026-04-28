@@ -1,11 +1,12 @@
 ---
-title: "Izalci destaca importância da CPMI para esclarecer a verdade sobre 8 de janeiro"
+title: Izalci destaca importância da CPMI para esclarecer a verdade sobre 8 de janeiro
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) defendeu, em pronunciamento no Plenário nesta terça-feira (12), a importância da CPMI de 8 de Janeiro para esclarecer a verdade sobre a invasão das sedes dos três Poderes. Ele manifestou preocupação com a responsabilidade dos parlamentares na condução da CPMI que, segundo ele, está enfrentando problemas que podem prejudicar a sua credibilidade.
 

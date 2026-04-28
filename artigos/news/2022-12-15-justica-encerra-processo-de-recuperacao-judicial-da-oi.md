@@ -1,11 +1,12 @@
 ---
-title: "Justiça encerra processo de recuperação judicial da Oi"
+title: Justiça encerra processo de recuperação judicial da Oi
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dívida da operadora caiu de R$ 65 bi para R$ 22 bi em seis anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável com PEC dos Precatórios e dados de inflação"
+title: Dólar fecha estável com PEC dos Precatórios e dados de inflação
 date: 2021-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa encerra em alta pelo segundo dia consecutivo.
 

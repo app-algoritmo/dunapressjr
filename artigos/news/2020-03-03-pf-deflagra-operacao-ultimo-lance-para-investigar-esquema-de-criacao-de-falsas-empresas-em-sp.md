@@ -1,11 +1,13 @@
 ---
-title: "PF deflagra Operação último Lance para investigar esquema de criação de falsas empresas em SP"
+title: PF deflagra Operação último Lance para investigar esquema de criação de falsas
+  empresas em SP
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP – A Polícia Federal, com o apoio da
 Receita Federal do Brasil, deflagrou hoje a Operação Último Lance, para dar

@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula grupo criminoso suspeito de cometer furtos contra instituições financeiras"
+title: PF desarticula grupo criminoso suspeito de cometer furtos contra instituições
+  financeiras
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO – A Polícia Federal deflagrou na manhã desta quarta-feira (27) a Operação “Cara Dura”, visando desarticular um grupo criminoso envolvido em dezenas de furtos cometidos contra várias instituições financeiras em diversos estados da federação.
 

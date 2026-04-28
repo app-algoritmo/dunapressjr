@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que prevê modalidade de licitação para armas e munições"
+title: Comissão aprova projeto que prevê modalidade de licitação para armas e munições
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A ideia é fazer uma compra maior e conseguir preços menores; proposta continua em discussão na Câmara dos Deputados.
 

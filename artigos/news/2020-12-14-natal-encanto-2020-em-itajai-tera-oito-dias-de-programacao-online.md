@@ -1,11 +1,12 @@
 ---
-title: "Natal EnCanto 2020 em Itajaí terá oito dias de programação online"
+title: Natal EnCanto 2020 em Itajaí terá oito dias de programação online
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em tempos de pandemia, um dos grandes eventos do Município de Itajaí, o Natal EnCanto, neste ano será adaptado para acontecer online. Durante oito dias, transmissões pelas redes sociais da Prefeitura de Itajaí e em painéis de led trarão apresentações do Grande Coro, imagens das projeções mapeadas da Igreja Matriz e mensagens natalinas. Um caminhão com banda de música e Papai Noel também vai percorrer diversos bairros da cidade.
 

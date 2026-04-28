@@ -1,11 +1,12 @@
 ---
-title: "Receita quer intensificar fiscalização de impostos de importação"
+title: Receita quer intensificar fiscalização de impostos de importação
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é evitar fraudes por grandes empresas de comércio eletrônicos.
 

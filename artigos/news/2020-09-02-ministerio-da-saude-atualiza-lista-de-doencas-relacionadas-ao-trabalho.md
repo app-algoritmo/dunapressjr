@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde atualiza lista de doenças relacionadas ao trabalho"
+title: Ministério da Saúde atualiza lista de doenças relacionadas ao trabalho
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Novo documento foi elaborado com base em listas internacionais, consulta dirigida, oficina com especialistas e consulta pública com a população.
 

@@ -1,11 +1,12 @@
 ---
-title: "Primeira etapa das obras de saneamento em Floriano (PI) são entregues"
+title: Primeira etapa das obras de saneamento em Floriano (PI) são entregues
 date: 2020-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro do Desenvolvimento Regional inaugurou obra que deve beneficiar pelo menos 50 mil pessoas.
 

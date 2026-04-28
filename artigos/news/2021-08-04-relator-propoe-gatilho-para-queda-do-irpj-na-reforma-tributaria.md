@@ -1,11 +1,12 @@
 ---
-title: "Relator propõe gatilho para queda do IRPJ na reforma tributária"
+title: Relator propõe gatilho para queda do IRPJ na reforma tributária
 date: 2021-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parecer também prevê nova repatriação de recursos do exterior.
 

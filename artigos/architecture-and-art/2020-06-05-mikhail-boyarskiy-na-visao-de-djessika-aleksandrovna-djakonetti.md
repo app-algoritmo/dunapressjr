@@ -1,11 +1,12 @@
 ---
-title: "Mikhail Boyarskiy, na visão de Djessika Aleksandrovna Djakonetti"
+title: Mikhail Boyarskiy, na visão de Djessika Aleksandrovna Djakonetti
 date: 2020-06-05
 status: publish
-author: jesshutter
+author: Jessica Jaconetti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Aprecio imersões artísticas em geral, até mesmo por costume terapêutico para o sono e ansiedade. A escolha de Mikhail Boyarskiy ocorreu por comentar sobre seu trabalho artístico com um amigo próximo, que também é apreciador de arte. Tudo surgiu a partir de uma brincadeira, fazendo um teste de desenho dessa personalidade antes de outros nomes.
 

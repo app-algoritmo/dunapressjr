@@ -1,11 +1,12 @@
 ---
-title: "Em queda pela quinta sessão, dólar fecha no menor valor em um mês"
+title: Em queda pela quinta sessão, dólar fecha no menor valor em um mês
 date: 2020-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa oscilou bastante, mas fechou com pequena baixa.
 

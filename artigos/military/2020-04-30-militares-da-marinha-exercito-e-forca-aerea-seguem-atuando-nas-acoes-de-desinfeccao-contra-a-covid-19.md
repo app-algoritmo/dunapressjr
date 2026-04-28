@@ -1,11 +1,13 @@
 ---
-title: "Militares da Marinha, Exército e Força Aérea seguem atuando nas ações de desinfecção contra a Covid-19"
+title: Militares da Marinha, Exército e Força Aérea seguem atuando nas ações de desinfecção
+  contra a Covid-19
 date: 2020-04-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas empregam, diariamente, esforços no combate à Covid-19. Até o momento, o efetivo envolvido é de 29 mil militares, utilizando-se de 1022 viaturas, 102 embarcações e 34 aeronaves. Nesse contexto, o Comando Conjunto Rio Grande do Norte e Paraíba realizou desinfecção da Delegacia da Polícia Federal em Mossoró (RN). O mesmo Comando desinfectou o Hospital Municipal Paulina Targino, localizado no município de Messias Targino. No Nordeste, o Comando Conjunto realizou a limpeza das estações Afogados, Santa Luzia, Coqueiral e Werneck, em Pernambuco (RE).
 

@@ -1,11 +1,13 @@
 ---
-title: "Análise de obituários mostra aumento de 40% nas mortes entre pilotos mais jovens em 2021"
+title: Análise de obituários mostra aumento de 40% nas mortes entre pilotos mais jovens
+  em 2021
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## As alegações de que as mortes de pilotos estão aumentando exponencialmente com base na coluna "In Memoriam" da *Airline Pilot Magazine* continuam a circular nas mídias sociais - essas alegações são falsas. No entanto, uma análise detalhada das informações mostra que o número de mortes entre os pilotos mais jovens aumentará significativamente em 2021.
 

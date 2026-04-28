@@ -1,11 +1,12 @@
 ---
-title: "Em pronunciamento aos brasileiros afirma Bolsonaro 'Venceremos o vírus'"
+title: Em pronunciamento aos brasileiros afirma Bolsonaro 'Venceremos o vírus'
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na noite desta terça-feira (24), o presidente da República, Jair Bolsonaro, fez um pronunciamento em rede nacional de rádio e televisão, em que situou a população do momento atual que o País enfrenta em relação à pandemia do coronavírus (Covid-19) e como o Governo Federal está agindo para conter os efeitos do avanço do vírus.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conab: Brasil produzirá 265,9 milhões de toneladas de grãos"
+title: 'Conab: Brasil produzirá 265,9 milhões de toneladas de grãos'
 date: 2020-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve aumento de 3,5% no comparativo com a safra de 2019/2020.
 

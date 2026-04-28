@@ -1,11 +1,12 @@
 ---
-title: "Corrente de comércio chega a US$ 28,91 bilhões até terceira semana de janeiro"
+title: Corrente de comércio chega a US$ 28,91 bilhões até terceira semana de janeiro
 date: 2022-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com US$ 14,39 bilhões em exportações e US$ 14,51 bilhões em importações, balança comercial registra déficit de US$ 117 milhões no acumulado do mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A confederação do Equador"
+title: 'Série Fatos Da Independência: A confederação do Equador'
 date: 2024-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 2 de julho de 1824, Pernambuco hasteou mais uma vez a bandeira cravejada com representações da República e do federalismo, e conjurou nova revolução: a Confederação do Equador afirmou a autonomia de Pernambuco, reimplantou a República, e convidou os vizinhos do Norte a aderirem – Piauí, Ceará, Rio Grande do Norte, Alagoas, Sergipe, Paraíba. A dissolução da Assembléia Constituinte, no Rio de Janeiro, em 12 de novembro de 1823, deixava claro, numa conjuntura de forte polarização política, que as chances de um regime federalista haviam sido jogadas por terra. Aos pernambucanos restava criar o fato consumado de uma rebelião – para se separar de vez e instalar a República, bradavam alguns; para obrigar o Rio de Janeiro a negociar uma fórmula constitucional que garantisse autonomia provincial no âmbito do Império, defendiam outros.
 

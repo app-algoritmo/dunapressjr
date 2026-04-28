@@ -1,11 +1,12 @@
 ---
-title: "Reator Nuclear Magnox"
+title: Reator Nuclear Magnox
 date: 2024-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Continuando a série "50 máquinas que mudaram o rumo da história", vamos falar sobre o Reator Nuclear Magnox.
 

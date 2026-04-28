@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta questiona falta de imagens do Ministério da Justiça no 8 de janeiro"
+title: Magno Malta questiona falta de imagens do Ministério da Justiça no 8 de janeiro
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) questionou, em pronunciamento na quarta-feira (30), o fato das imagens internas do Ministério da Justiça em 8 de janeiro, dia da invasão as sedes dos Três Poderes, terem sido apagadas. De acordo com informações divulgadas pelo ministério, as imagens foram apagadas pela prestadora de serviço. Segundo o parlamentar, existem cerca de 100 câmeras no local.
 

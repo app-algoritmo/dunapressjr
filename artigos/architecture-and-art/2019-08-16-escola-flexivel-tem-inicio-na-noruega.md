@@ -1,13 +1,14 @@
 ---
-title: "Escola Flexível tem início na Noruega"
+title: Escola Flexível tem início na Noruega
 date: 2019-08-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
-  - Education
-  - Magazine
+- Architecture and Art
+- Education
+- Magazine
 ---
+
 
 Notícia da semana veiculada por vários meios de comunicação noruegueses, em plena semana de volta às aulas, foi o convite do governo a que municípios iniciem a “Escola Flexível”.
 

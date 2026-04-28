@@ -1,11 +1,12 @@
 ---
-title: "Alfie, Archie, Indi… a obsessão da Justiça britânica com a eutanásia de menores"
+title: Alfie, Archie, Indi… a obsessão da Justiça britânica com a eutanásia de menores
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No Reino Unido e nos últimos anos, multiplicaram-se os casos de **crianças sacrificadas** depois que o Estado, através de médicos e juízes, decidiu negar aos pais uma última esperança.
 

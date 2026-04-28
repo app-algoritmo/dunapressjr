@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial brasileira tem recuo de 0,6% em julho de 2023"
+title: Produção industrial brasileira tem recuo de 0,6% em julho de 2023
 date: 2023-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE revelam que a produção industrial nacional registrou queda no mês de julho, com 14 dos 15 locais pesquisados apresentando taxas negativas.
 

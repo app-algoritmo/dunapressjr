@@ -1,11 +1,12 @@
 ---
-title: "Viktor Orbán: O mundo caminha para uma colisão devido ao fim dos EUA"
+title: 'Viktor Orbán: O mundo caminha para uma colisão devido ao fim dos EUA'
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O primeiro-ministro húngaro, Viktor Orban, disse que o declínio do poder e da influência dos EUA deixará o mundo caminhando para um confronto internacional se os líderes não conseguirem encontrar um "novo equilíbrio".
 

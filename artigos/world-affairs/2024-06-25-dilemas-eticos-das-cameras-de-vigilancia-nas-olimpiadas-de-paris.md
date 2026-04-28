@@ -1,11 +1,12 @@
 ---
-title: "Dilemas Éticos das Câmeras de Vigilância nas Olimpíadas de Paris"
+title: Dilemas Éticos das Câmeras de Vigilância nas Olimpíadas de Paris
 date: 2024-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A implementação de uma rede de câmeras de vigilância em massa controladas por inteligência artificial (IA) para os Jogos Olímpicos de Paris deste ano está gerando preocupações entre grupos de direitos humanos sobre possíveis abusos governamentais. Cidadãos terão pouco ou nenhum controle sobre a vigilância, alertam os críticos.
 

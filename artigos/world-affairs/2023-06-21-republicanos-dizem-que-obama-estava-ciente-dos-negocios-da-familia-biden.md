@@ -1,11 +1,12 @@
 ---
-title: "Republicanos dizem que Obama estava ciente dos negócios da família Biden"
+title: Republicanos dizem que Obama estava ciente dos negócios da família Biden
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um importante investigador da Câmara acredita que o presidente Joe Biden provavelmente usou sua posição como vice-presidente na Casa Branca de Obama para estabelecer membros da família como consultores de negócios bem pagos no exterior.
 

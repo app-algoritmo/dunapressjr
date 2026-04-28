@@ -1,11 +1,12 @@
 ---
-title: "Alunos da Escola de Especialistas encerram período de quarentena"
+title: Alunos da Escola de Especialistas encerram período de quarentena
 date: 2020-02-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os 216 alunos do Curso de Formação de
 Sargentos (CFS), Turma Tupã, Esquadrão Amarelo, e os 183 alunos do Estágio de

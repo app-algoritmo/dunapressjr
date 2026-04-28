@@ -1,12 +1,13 @@
 ---
-title: "É apenas um gato…"
+title: É apenas um gato…
 date: 2023-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 De vez em quando escuto alguem dizer: " Para com isso! É apenas um gato!"
 Ou então: " Mas é muito dinheiro para se gastar com ele...é apenas um gato!"

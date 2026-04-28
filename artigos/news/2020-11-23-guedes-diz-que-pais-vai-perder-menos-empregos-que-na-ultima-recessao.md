@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que país vai perder menos empregos que na última recessão"
+title: Guedes diz que país vai perder menos empregos que na última recessão
 date: 2020-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro estima perda de cerca de 300 mil vagas formais neste ano.
 

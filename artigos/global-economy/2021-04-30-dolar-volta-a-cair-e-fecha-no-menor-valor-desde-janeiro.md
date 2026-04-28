@@ -1,11 +1,12 @@
 ---
-title: "Dólar volta a cair e fecha no menor valor desde janeiro"
+title: Dólar volta a cair e fecha no menor valor desde janeiro
 date: 2021-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores recua 0,82% em dia de realização de lucros.
 

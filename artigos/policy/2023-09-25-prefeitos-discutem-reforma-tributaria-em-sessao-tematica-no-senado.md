@@ -1,11 +1,12 @@
 ---
-title: "Prefeitos discutem reforma tributária em sessão temática no Senado"
+title: Prefeitos discutem reforma tributária em sessão temática no Senado
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em busca de um “consenso mínimo” em torno da proposta de emenda à Constituição da reforma tributária ([PEC 45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930)), prefeitos de todas as regiões do Brasil participarão de sessão temática agendada para quinta-feira (28), às 10h, no Plenário do Senado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Itajaí atualiza as regras para retomada gradual de atividades"
+title: Itajaí atualiza as regras para retomada gradual de atividades
 date: 2020-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio do **Decreto nº 12.024/2020**, informa que entram em vigor nesta sexta-feira (02) novas regras e permissões para a retomada gradual de atividades comerciais, sociais e recreativas. O documento leva em consideração os dados da Matriz de Risco Potencial de coronavírus, divulgados pelo Governo do Estado, que tiram a região de Itajaí do risco GRAVE para o risco ALTO.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo encaminha ao Congresso plano de redução de benefícios fiscais"
+title: Governo encaminha ao Congresso plano de redução de benefícios fiscais
 date: 2021-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida é fruto do compromisso firmado entre Legislativo e Executivo.
 

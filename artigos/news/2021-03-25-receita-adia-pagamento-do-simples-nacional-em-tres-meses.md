@@ -1,11 +1,12 @@
 ---
-title: "Receita adia pagamento do Simples Nacional em três meses"
+title: Receita adia pagamento do Simples Nacional em três meses
 date: 2021-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parcelas voltarão a ser pagas em julho em seis prestações.
 

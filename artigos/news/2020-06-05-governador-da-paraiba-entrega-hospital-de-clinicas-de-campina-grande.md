@@ -1,11 +1,12 @@
 ---
-title: "Governador da Paraíba entrega Hospital de Clínicas de Campina Grande"
+title: Governador da Paraíba entrega Hospital de Clínicas de Campina Grande
 date: 2020-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com a entrega do hospital estão assegurados mais 113 leitos para casos de coronavírus.
 

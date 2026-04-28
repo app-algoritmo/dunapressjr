@@ -1,11 +1,13 @@
 ---
-title: "Mapeamento da pandemia em São Carlos (SP) tem participação de hospital da Rede Ebserh"
+title: Mapeamento da pandemia em São Carlos (SP) tem participação de hospital da Rede
+  Ebserh
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 **São Carlos (SP)** – O Hospital Universitário da Universidade Federal de São Carlos, vinculado à Rede Ebserh (HU-UFSCar/Ebserh), participa, juntamente com outras instituições do município, do maior levantamento de identificação da prevalência da Covid-19 feito em uma cidade do país, tendo como critério as testagens por número de habitantes. O “Testar para Cuidar – Programa de Mapeamento da Covid-19” está na terceira de quatro etapas, com o objetivo de entrevistar e testar 5.600 pessoas.
 

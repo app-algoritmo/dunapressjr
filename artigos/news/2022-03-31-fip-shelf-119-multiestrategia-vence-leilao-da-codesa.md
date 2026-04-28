@@ -1,11 +1,12 @@
 ---
-title: "FIP Shelf 119 Multiestratégia vence leilão da Codesa"
+title: FIP Shelf 119 Multiestratégia vence leilão da Codesa
 date: 2022-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Leilão foi realizado na Bolsa de Valores de São Paulo.
 

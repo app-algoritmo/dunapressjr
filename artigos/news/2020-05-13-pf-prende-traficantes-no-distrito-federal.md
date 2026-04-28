@@ -1,11 +1,12 @@
 ---
-title: "PF prende traficantes no Distrito Federal"
+title: PF prende traficantes no Distrito Federal
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ponta Porã/MS – A Polícia Federal deflagrou nesta terça-feira (12/5) a Operação Pteridófita, com o objetivo de desarticular organização criminosa atuante no tráfico internacional de drogas, com atuação no Distrito Federal. Estão sendo cumpridos mandados de busca e apreensão e mandados de prisão, em decorrência de investigação conduzida pela Delegacia de Polícia Federal em Ponta Porã/MS.
 

@@ -1,11 +1,12 @@
 ---
-title: "Guerra Ideológica e Eleições de 2024"
+title: Guerra Ideológica e Eleições de 2024
 date: 2024-11-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Conservadores Enfrentam Pressão de ONGs e Mídia Globalista
 

@@ -1,11 +1,12 @@
 ---
-title: "Em meio a um ciclo de conquistas, PCPR comemora 170 anos"
+title: Em meio a um ciclo de conquistas, PCPR comemora 170 anos
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Nos últimos anos, a PCPR passou por diversas melhorias. Entre elas estão a maior renovação de frota da história, com 922 viaturas distribuídas em 146 municípios; reforço no efetivo, com 225 policiais civis se formando em dezembro; e a retirada dos presos de delegacias.
 

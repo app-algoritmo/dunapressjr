@@ -1,11 +1,13 @@
 ---
-title: "Governo vai começar reforma tributária com unificação de PIS e Cofins, diz secretário"
+title: Governo vai começar reforma tributária com unificação de PIS e Cofins, diz
+  secretário
 date: 2019-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A proposta é começar com uma reforma do PIS e Cofins. 
 

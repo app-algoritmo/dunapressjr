@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde conquista a oitava vitória consecutiva na Superliga"
+title: Osasco São Cristóvão Saúde conquista a oitava vitória consecutiva na Superliga
 date: 2023-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Osasco São Cristóvão Saúde conquistou a oitava vitória consecutiva na Superliga 1XBET em 2023. O time comandado pelo técnico Luizomar derrotou o Abel Moda Vôlei por 3 sets a 0, parciais de 25/13, 25/21 e 25/18, na noite desta quinta-feira (2), no ginásio José Liberatti, pela sétima rodada do returno. Com o resultado, a equipe vice-líder somou mais três pontos e segue com seis de vantagem para o terceiro colocado, o Minas Gerdau.
 

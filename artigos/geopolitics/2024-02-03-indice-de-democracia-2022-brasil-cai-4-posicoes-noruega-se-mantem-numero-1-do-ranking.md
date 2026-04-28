@@ -1,12 +1,14 @@
 ---
-title: "Índice de Democracia 2022: Brasil cai 4 posições,  Noruega se mantém número 1 do ranking"
+title: 'Índice de Democracia 2022: Brasil cai 4 posições,  Noruega se mantém número
+  1 do ranking'
 date: 2024-02-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 ## Estagnação, Soberania e a Batalha pela Ucrânia
 

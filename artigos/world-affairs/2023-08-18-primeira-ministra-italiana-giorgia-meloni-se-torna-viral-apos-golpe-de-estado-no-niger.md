@@ -1,11 +1,13 @@
 ---
-title: "Primeira-ministra italiana Giorgia Meloni se torna viral após golpe de Estado no Níger"
+title: Primeira-ministra italiana Giorgia Meloni se torna viral após golpe de Estado
+  no Níger
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A primeira-ministra italiana, Giorgia Meloni, literalmente atacou a França por se apropriar das riquezas do Níger e 13 outras ex-colônias francesas na África Ocidental e Central, criticando particularmente o presidente Macron pela imposição descarada e persistente do franco CFA apoiado pela França nesses países.
 

@@ -1,11 +1,13 @@
 ---
-title: "IPC-S da segunda quadrissemana de agosto de 2023 registra queda de 0,07%, com alta de 4,05% em 12 meses, revela FGV/Ibre"
+title: IPC-S da segunda quadrissemana de agosto de 2023 registra queda de 0,07%, com
+  alta de 4,05% em 12 meses, revela FGV/Ibre
 date: 2023-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cinco das oito classes de despesa do índice apresentam decréscimo nas taxas de variação.
 

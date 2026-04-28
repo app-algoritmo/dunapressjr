@@ -1,11 +1,13 @@
 ---
-title: "Após o acordo da Pfizer na UE, agora Bill Gates! 'É hora de denunciar essas práticas obscuras!'"
+title: Após o acordo da Pfizer na UE, agora Bill Gates! 'É hora de denunciar essas
+  práticas obscuras!'
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As publicações [mostram](https://www.metronieuws.nl/in-het-nieuws/buitenland/2023/07/bill-gates-klimaat-europese-commissie-klimaatbeleid/) que a Comissão Europeia está trabalhando em estreita colaboração com as iniciativas de Bill Gates sobre clima, medicamentos e identidade digital. Gates usa essas iniciativas para fortalecer seus interesses financeiros e sua influência na política europeia.
 

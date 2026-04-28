@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro habilita 499 leitos para doenças não relacionadas com Covid-19"
+title: Governo Bolsonaro habilita 499 leitos para doenças não relacionadas com Covid-19
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde tem traçado estratégias, junto com as secretarias estaduais e municipais, para cuidar dos pacientes com outros problemas de saúde não relacionados à Covid-19. Na última segunda-feira (15), foram habilitados 320 novos leitos em Hospitais de Pequeno Porte no Paraná, com investimento de R$ 5,7 milhões. Desde abril, quando a pasta publicou portaria prevendo essas habilitações, o Governo do Brasil habilitou 499 leitos em Hospitais de Pequeno Porte, com investimento de R$ 8,9 milhões.
 

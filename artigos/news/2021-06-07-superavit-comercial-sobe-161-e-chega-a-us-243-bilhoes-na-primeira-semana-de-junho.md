@@ -1,11 +1,13 @@
 ---
-title: "Superávit comercial sobe 161% e chega a US$ 2,43 bilhões na primeira semana de junho"
+title: Superávit comercial sobe 161% e chega a US$ 2,43 bilhões na primeira semana
+  de junho
 date: 2021-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações aumentam 94,1% e atingem US$ 4,85 bilhões, com importações de US$ 2,42 bilhões, em alta de 54,5%; no acumulado do ano, superávit é de US$ 29,55 bilhões, subindo 55,3%.
 

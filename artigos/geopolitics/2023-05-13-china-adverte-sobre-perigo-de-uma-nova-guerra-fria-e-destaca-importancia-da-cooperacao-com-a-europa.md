@@ -1,11 +1,13 @@
 ---
-title: "China adverte sobre perigo de uma 'nova' Guerra Fria e destaca importância da cooperação com a Europa"
+title: China adverte sobre perigo de uma 'nova' Guerra Fria e destaca importância
+  da cooperação com a Europa
 date: 2023-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Ministro das Relações Exteriores chinês ressalta consequências desastrosas de um confronto e insta a união entre China e Europa para promover o multilateralismo e fortalecer relações.
 

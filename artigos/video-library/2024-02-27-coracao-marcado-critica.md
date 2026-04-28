@@ -1,11 +1,12 @@
 ---
-title: "Coração Marcado | Crítica"
+title: Coração Marcado | Crítica
 date: 2024-02-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Coração Marcado é uma saga intensa de amor, vingança e reviravoltas imprevisíveis e retrata de forma ficcional temas sensíveis e obscuros da sociedade.
 

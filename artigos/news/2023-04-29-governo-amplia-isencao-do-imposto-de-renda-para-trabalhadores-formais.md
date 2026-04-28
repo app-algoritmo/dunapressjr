@@ -1,11 +1,12 @@
 ---
-title: "Governo amplia isenção do Imposto de Renda para trabalhadores formais"
+title: Governo amplia isenção do Imposto de Renda para trabalhadores formais
 date: 2023-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A partir de maio, trabalhadores formais que ganham até R$ 2.640 serão isentos do Imposto de Renda Pessoa Física (IRPF).
 

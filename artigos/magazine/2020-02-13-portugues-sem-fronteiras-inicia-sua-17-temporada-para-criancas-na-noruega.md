@@ -1,11 +1,12 @@
 ---
-title: "Português sem fronteiras inicia sua 17 temporada para crianças na Noruega"
+title: Português sem fronteiras inicia sua 17 temporada para crianças na Noruega
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O curso é aplicado pelo Clube da Pipoca, um clube de atividades que objetiva ensinar e incentivar as **crianças entre 3 e 6 anos **a aprenderem mais português e a usarem a língua em sua comunicação de famílias bilíngues. Como ocorre no jardim de infância, as crianças aprendem a língua portuguesa e suas expressões culturais por meio de atividades lúdicas e situações cotidianas.
 

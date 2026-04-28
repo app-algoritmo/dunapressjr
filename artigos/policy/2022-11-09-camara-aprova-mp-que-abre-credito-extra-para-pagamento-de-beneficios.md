@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova MP que abre crédito extra para pagamento de benefícios"
+title: Câmara aprova MP que abre crédito extra para pagamento de benefícios
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### Foco é no aumento de R$ 200 no programa Auxílio Brasil no ano que vem.
 

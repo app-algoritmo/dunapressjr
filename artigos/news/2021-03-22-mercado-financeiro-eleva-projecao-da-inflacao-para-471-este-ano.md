@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação para 4,71% este ano"
+title: Mercado financeiro eleva projeção da inflação para 4,71% este ano
 date: 2021-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa é que a taxa Selic fique em 5% ao ano, diz BC.
 

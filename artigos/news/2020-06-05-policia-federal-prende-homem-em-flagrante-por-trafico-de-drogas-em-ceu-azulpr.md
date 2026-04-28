@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende homem em flagrante por tráfico de drogas em Céu Azul/PR"
+title: Polícia Federal prende homem em flagrante por tráfico de drogas em Céu Azul/PR
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Na quinta-feira (4/6), policiais federais prenderam um indivíduo por tráfico de drogas. O flagrante ocorreu no posto da PRF em Céu Azul/PR.
 

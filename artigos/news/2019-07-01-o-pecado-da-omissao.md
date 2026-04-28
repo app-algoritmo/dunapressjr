@@ -1,11 +1,12 @@
 ---
-title: "O pecado da omissão"
+title: O pecado da omissão
 date: 2019-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O pecado faz separação entre o homem e Deus. … E quando tratamos da omissão como pecado parece que fica uma lacuna, e justamente essa falta, essa lacuna que definimos a omissão como pecado, que é a ausência de ação, inércia. 
 

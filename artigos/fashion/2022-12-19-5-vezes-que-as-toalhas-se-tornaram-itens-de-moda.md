@@ -1,11 +1,12 @@
 ---
-title: "5 Vezes que as toalhas se tornaram itens de moda"
+title: 5 Vezes que as toalhas se tornaram itens de moda
 date: 2022-12-19
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Fashion
+- Fashion
 ---
+
 
 Usualmente, as toalhas não passam de um utensílio de limpeza, decoração e higiene. Sua beleza está nas cores, bordados e estampas, mas não chegam a ser consideradas artigos de moda. Porém, não se pode negar que enrolar a toalha como vestido é um hábito da maioria das mulheres. 
 

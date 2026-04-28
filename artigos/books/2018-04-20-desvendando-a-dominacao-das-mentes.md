@@ -1,11 +1,12 @@
 ---
-title: "Desvendando a dominação das mentes"
+title: Desvendando a dominação das mentes
 date: 2018-04-20
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Books
+- Books
 ---
+
 
 ## -O livro "**A República Brasileira e o Plano Revolucionário Comunista**", de [Fábio Couto Lírio](https://www.facebook.com/fabio.couto.7923), obra polêmica e devastadora para o status quo republicano.
 

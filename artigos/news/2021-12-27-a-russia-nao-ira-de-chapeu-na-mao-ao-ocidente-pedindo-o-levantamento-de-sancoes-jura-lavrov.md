@@ -1,11 +1,13 @@
 ---
-title: "A Rússia não irá de chapéu na mão ao Ocidente, pedindo o levantamento de sanções, jura Lavrov"
+title: A Rússia não irá de chapéu na mão ao Ocidente, pedindo o levantamento de sanções,
+  jura Lavrov
 date: 2021-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ministro das Relações Exteriores da Rússia especificou que a Rússia nunca pediu a ninguém que levantasse as sanções contra ela.
 

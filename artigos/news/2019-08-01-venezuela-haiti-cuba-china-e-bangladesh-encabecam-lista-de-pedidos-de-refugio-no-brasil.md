@@ -1,11 +1,13 @@
 ---
-title: "Venezuela, Haiti, Cuba, China e Bangladesh encabeçam lista de pedidos de refúgio no Brasil"
+title: Venezuela, Haiti, Cuba, China e Bangladesh encabeçam lista de pedidos de refúgio
+  no Brasil
 date: 2019-08-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O número de pedidos de refúgio ao Brasil chegou a 80.057 mil pessoas no ano passado, sendo que a maior parte, 61.681 (77%) é formada por venezuelanos. Os dados fazem parte da 4ª edição do relatório "Refúgio em Números", apresentado pelo Ministério da Justiça e Segurança nesta quinta-feira (25).
 

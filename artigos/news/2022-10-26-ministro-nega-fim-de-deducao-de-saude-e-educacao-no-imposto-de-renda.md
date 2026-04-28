@@ -1,11 +1,12 @@
 ---
-title: "Ministro nega fim de dedução de saúde e educação no imposto de renda"
+title: Ministro nega fim de dedução de saúde e educação no imposto de renda
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes negou intenção de afetar empresários e classe média.
 

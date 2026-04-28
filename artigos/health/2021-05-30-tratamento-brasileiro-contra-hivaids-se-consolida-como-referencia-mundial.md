@@ -1,11 +1,12 @@
 ---
-title: "Tratamento brasileiro contra HIV/Aids se consolida como referência mundial"
+title: Tratamento brasileiro contra HIV/Aids se consolida como referência mundial
 date: 2021-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cerca de 585 mil pessoas que vivem com o vírus HIV no País realizam a terapia antirretroviral em unidades da rede pública de saúde. Esses pacientes encontram nesses locais uma realidade bem diferente daquela enfrentada na década de 1980, quando começaram a surgir os casos da doença no Brasil.
 

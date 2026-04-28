@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Economia e Climate Bonds Initiative assinam memorando para fortalecer agenda de finanças sustentáveis no país"
+title: Ministério da Economia e Climate Bonds Initiative assinam memorando para fortalecer
+  agenda de finanças sustentáveis no país
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O acordo tem finalidade de expandir fontes de financiamento verde para exportação no Brasil.
 

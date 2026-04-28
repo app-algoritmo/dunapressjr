@@ -1,11 +1,13 @@
 ---
-title: "Hospitais militares treinam profissionais da saúde que tratam de paciente da COVID-19"
+title: Hospitais militares treinam profissionais da saúde que tratam de paciente da
+  COVID-19
 date: 2020-05-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 04/05/2020 –** A partir de 5 de maio, profissionais de saúde que atuam em emergências clínicas e cuidados intensivos dos pacientes acometidos pela COVID-19 serão treinados por especialistas dos hospitais das Forças Armadas. A iniciativa é do Ministério da Defesa, por meio da Secretaria de Pessoal, Ensino, Saúde e Desportos (SEPESD), que, em virtude da pandemia da COVID-19, avaliou a necessidade de multiplicar conhecimentos entre o seu corpo de funcionários.
 

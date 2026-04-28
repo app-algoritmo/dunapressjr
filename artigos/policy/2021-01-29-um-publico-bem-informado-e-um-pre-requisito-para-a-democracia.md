@@ -1,12 +1,13 @@
 ---
-title: "Um público bem informado é um pré-requisito para a democracia"
+title: Um público bem informado é um pré-requisito para a democracia
 date: 2021-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Social networks
+- Policy
+- Social networks
 ---
+
 
 Mídias sociais, notícias falsas e personalização de informações podem fornecer motivos para câmaras de eco e polarização. A democracia norueguesa está sob pressão?
 

@@ -1,11 +1,12 @@
 ---
-title: "Projetos de saneamento e combate a lixões vão receber R$ 230 milhões"
+title: Projetos de saneamento e combate a lixões vão receber R$ 230 milhões
 date: 2020-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério do Meio Ambiente autorizou o repasse de R$ 232 milhões para obras e ações de saneamento básico do programa Lixão Zero. Os recursos, viabilizados nessa quarta-feira (9), são do Banco Nacional de Sesenvolvimento Econômico e Social (BNDES) e têm origem no Fundo Nacional de Mudanças do Clima (FNMC).
 

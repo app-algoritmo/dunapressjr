@@ -1,11 +1,13 @@
 ---
-title: "UE apoia plano de Bill Gates para 'combater o aquecimento global' bloqueando a luz solar"
+title: UE apoia plano de Bill Gates para 'combater o aquecimento global' bloqueando
+  a luz solar
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 A União Européia (UE) apóia o plano radical do co-fundador da Microsoft, Bill Gates, para combater o aquecimento global bloqueando a luz solar para baixar a temperatura na Terra.
 

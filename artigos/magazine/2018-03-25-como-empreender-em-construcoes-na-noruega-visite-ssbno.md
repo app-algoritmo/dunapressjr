@@ -1,11 +1,12 @@
 ---
-title: "Como empreender em construções na Noruega - visite: ssb.no"
+title: 'Como empreender em construções na Noruega - visite: ssb.no'
 date: 2018-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Oportunidade em empreendimentos imobiliários em construções e vendas na Noruega - saiba mais!
 

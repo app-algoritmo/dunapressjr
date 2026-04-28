@@ -1,11 +1,13 @@
 ---
-title: "S.A.I.R Dom Luiz de Orleans e Bragança, chefe da casa imperial do Brasil, emite comunicado de apoio à grupos orgânicos"
+title: S.A.I.R Dom Luiz de Orleans e Bragança, chefe da casa imperial do Brasil, emite
+  comunicado de apoio à grupos orgânicos
 date: 2020-02-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 COMUNICADO DO CHEFE DA CASA IMPERIAL DO BRASIL QUANTO À ORGANIZAÇÃO DO MOVIMENTO MONÁRQUICO
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo zera alíquotas de tributos incidentes na importação de milho"
+title: Governo zera alíquotas de tributos incidentes na importação de milho
 date: 2021-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida vale até 31 de dezembro.
 

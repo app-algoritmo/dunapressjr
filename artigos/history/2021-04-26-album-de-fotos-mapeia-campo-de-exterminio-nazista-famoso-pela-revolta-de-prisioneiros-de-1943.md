@@ -1,11 +1,13 @@
 ---
-title: "Álbum de fotos mapeia campo de extermínio nazista famoso pela revolta de prisioneiros de 1943"
+title: Álbum de fotos mapeia campo de extermínio nazista famoso pela revolta de prisioneiros
+  de 1943
 date: 2021-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## 'É difícil exagerar a importância desta coleção', diz o historiador, à medida que novas imagens do álbum pessoal do oficial da SS nazista esclarecem descobertas de escavações arqueológicas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Procurador Especial Defende Precisão em Avaliação da Memória de Biden em Caso de Documentos Confidenciais"
+title: Procurador Especial Defende Precisão em Avaliação da Memória de Biden em Caso
+  de Documentos Confidenciais
 date: 2024-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O procurador especial Robert Hur compareceu perante o Comité Judiciário da Câmara dos Representantes dos Estados Unidos nesta terça-feira para defender a precisão de suas declarações sobre a memória do Presidente Joe Biden no caso dos documentos confidenciais. Hur afirmou que sua avaliação foi necessária, precisa e justa, enquanto descartava a apresentação de acusações, caracterizando Biden como um "velho com má memória".
 

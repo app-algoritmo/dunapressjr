@@ -1,12 +1,13 @@
 ---
-title: "Porque Cuba não celebra a páscoa?"
+title: Porque Cuba não celebra a páscoa?
 date: 2023-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - News
+- Culture and History
+- News
 ---
+
 
 A Páscoa é uma celebração de grande importância para cristãos em todo o mundo, marcando a ressurreição de Jesus Cristo. No entanto, em Cuba, um país onde o catolicismo é a religião majoritária, a Páscoa não é amplamente celebrada. Neste artigo, vamos explorar os principais fatores históricos, políticos e culturais que explicam essa peculiaridade cubana.
 

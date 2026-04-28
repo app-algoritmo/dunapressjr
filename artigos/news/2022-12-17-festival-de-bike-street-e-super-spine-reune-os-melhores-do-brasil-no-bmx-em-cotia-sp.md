@@ -1,11 +1,13 @@
 ---
-title: "Festival de Bike Street e Super Spine reúne os melhores do Brasil no BMX em Cotia (SP)"
+title: Festival de Bike Street e Super Spine reúne os melhores do Brasil no BMX em
+  Cotia (SP)
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Manobras radicais, muita disputa e adrenalina, em um domingo (11) de sol e calor em Cotia (SP). Com a participação de competidores de diferentes estados, reunindo os melhores do Brasil no BMX, foi realizado, no Parque Teresa Maia, o Festival de Bike Street e Super Spine. Depois de três dias, de sexta a domingo, com treinos, classificatórias e finais, o paulista Douglas Leite de Oliveira, o Doguete, de 31 anos, de São Bernardo do Campo, venceu na Super Spine. Na Street, primeira colocação para o cearense Felipe Alexandre, o Manerim, 23 anos, de Fortaleza, que atualmente está representando a cidade de Taubaté (SP). No feminino da Street, vitória de Derlayne Roque, a Dê, de Brasília (DF).
 

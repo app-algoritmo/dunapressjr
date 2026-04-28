@@ -1,12 +1,13 @@
 ---
-title: "Outubro rosa, novembro azul"
+title: Outubro rosa, novembro azul
 date: 2018-10-26
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
-  - Opinion
+- Architecture and Art
+- Opinion
 ---
+
 
 O governo criou há alguns anos a campanha contra o câncer de mama e de próstata, respectivamente nos meses de Outubro e Novembro, mas eu nunca entendi bem por que associar o rosa e o azul, cores tradicionalmente femininas e masculinas, a uma doença tão terrível, cujo nome muitos se recusam a pronunciar. Achei a explicação e a inspiração no quadro de Pierre Auguste Renoir, "As Meninas Cahen d'Anvers", também conhecido como "Rosa e Azul", atualmente parte do acervo do MASP, e vale certamente uma visita.
 

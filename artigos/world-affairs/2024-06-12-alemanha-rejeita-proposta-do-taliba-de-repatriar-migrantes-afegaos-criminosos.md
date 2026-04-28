@@ -1,11 +1,12 @@
 ---
-title: "Alemanha Rejeita Proposta do Talibã de Repatriar Migrantes Afegãos Criminosos"
+title: Alemanha Rejeita Proposta do Talibã de Repatriar Migrantes Afegãos Criminosos
 date: 2024-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo federal alemão recusou uma oferta do regime Talibã para repatriar migrantes afegãos que cometeram crimes, citando que tal ação implicaria no reconhecimento do regime islâmico no Afeganistão. A oferta surgiu após o assassinato de um policial por um cidadão afegão em Manheim, o que levou o chanceler Olaf Scholz a inicialmente sugerir a deportação de criminosos violentos para países como a Síria e o Afeganistão.
 

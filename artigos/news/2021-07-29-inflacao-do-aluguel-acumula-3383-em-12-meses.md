@@ -1,11 +1,12 @@
 ---
-title: "Inflação do aluguel acumula 33,83% em 12 meses"
+title: Inflação do aluguel acumula 33,83% em 12 meses
 date: 2021-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IGP-M é de 15,98% no ano.
 

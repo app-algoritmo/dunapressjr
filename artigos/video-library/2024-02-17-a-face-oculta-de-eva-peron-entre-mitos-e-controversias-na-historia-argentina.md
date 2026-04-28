@@ -1,11 +1,12 @@
 ---
-title: "A face Oculta de Eva Perón: Entre Mitos e Controvérsias na História Argentina"
+title: 'A face Oculta de Eva Perón: Entre Mitos e Controvérsias na História Argentina'
 date: 2024-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Video library
+- Video library
 ---
+
 
 Eva Perón, também conhecida como Evita, foi uma figura controversa e influente na história argentina do século XX. Nascida em 1919, ela se tornou uma das figuras mais importantes do país durante o governo de seu marido, Juan Domingo Perón. Sua ascensão à proeminência política gerou uma divisão de opiniões, com alguns a venerando como uma heroína dos pobres e outros a criticando por seu estilo de vida extravagante e seu suposto envolvimento em corrupção.
 

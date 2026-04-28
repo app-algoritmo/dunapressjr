@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde bate Campinas e conquista segunda vitória no Paulista 2023"
+title: Osasco São Cristóvão Saúde bate Campinas e conquista segunda vitória no Paulista
+  2023
 date: 2023-08-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe de Camila Brait, Fabiana, Tifanny e cia. vai em busca da terceira vitória consecutiva na próxima quinta-feira (31), contra o Pinheiros, em São Paulo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Donald Trump anuncia perdões e comutações para 143 pessoas"
+title: Donald Trump anuncia perdões e comutações para 143 pessoas
 date: 2021-01-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O presidente Donald Trump [anunciou](https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-executive-grants-clemency-012021/) na noite de terça-feira que havia perdoado e comutado as sentenças de 143 pessoas nas horas finais de sua presidência.
 

@@ -1,11 +1,13 @@
 ---
-title: "Câmara dos Deputados aprova projeto de marco temporal de terras indígenas, gerando debate sobre direitos e meio ambiente"
+title: Câmara dos Deputados aprova projeto de marco temporal de terras indígenas,
+  gerando debate sobre direitos e meio ambiente
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta restringe demarcação a terras ocupadas antes de 1988, levantando preocupações sobre impactos e preservação cultural. Projeto segue para análise no Senado.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Singularidade do Estado: O Coletivismo Moderno e a Erosão da Liberdade Individual"
+title: 'A Singularidade do Estado: O Coletivismo Moderno e a Erosão da Liberdade Individual'
 date: 2024-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 À medida que o tempo passa, muitos ocidentais que acreditavam viver em sociedades livres estão percebendo que as autoridades têm cada vez mais controle sobre suas vidas. A liberdade de construir em sua própria terra, operar um negócio ou até mesmo educar seus filhos sem interferência estatal está cada vez mais restrita por uma miríade de licenças, regulamentações e impostos. Jeffrey Tucker descreve isso como uma tecnocracia todo-poderosa de três níveis que está moldando a sociedade contemporânea.
 

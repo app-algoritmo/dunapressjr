@@ -1,11 +1,12 @@
 ---
-title: "Noruega, o Brasil é o candidato natural à maior economia do continente, mas..."
+title: Noruega, o Brasil é o candidato natural à maior economia do continente, mas...
 date: 2020-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Brasil é o parceiro comercial mais importante da Noruega na América Latina e está se tornando um país cada vez mais importante para os negócios noruegueses. Já no século 19, comercializamos bacalhau e café, hoje exportamos a maior parte de petróleo e gás, peças de máquinas, peixes e produtos químicos, diz Innovation Norway
 

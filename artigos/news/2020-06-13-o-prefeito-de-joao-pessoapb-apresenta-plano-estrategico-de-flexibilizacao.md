@@ -1,11 +1,12 @@
 ---
-title: "O prefeito de João Pessoa/PB apresenta Plano Estratégico de Flexibilização"
+title: O prefeito de João Pessoa/PB apresenta Plano Estratégico de Flexibilização
 date: 2020-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O plano é composto de quatro etapas com reabertura gradual das atividades iniciando nesta segunda-feira (15).
 

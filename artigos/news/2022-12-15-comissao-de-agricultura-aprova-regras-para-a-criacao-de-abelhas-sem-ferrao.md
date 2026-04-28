@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Agricultura aprova regras para a criação de abelhas sem ferrão"
+title: Comissão de Agricultura aprova regras para a criação de abelhas sem ferrão
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou projeto de lei que regulamenta a meliponicultura – criação de abelhas sem ferrão. O objetivo é facilitar a comercialização do mel de abelhas melíponas e garantir a preservação da espécie.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trump: precisamos fazer para aliviar o impacto econômico da pandemia de coronavírus"
+title: 'Trump: precisamos fazer para aliviar o impacto econômico da pandemia de coronavírus'
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente dos EUA, Donald Trump, disse no domingo que agora acredita que até 100.000 americanos podem morrer na pandemia de coronavírus, depois que o número de mortes passou suas estimativas anteriores, mas disse que estava confiante de que uma vacina seria desenvolvida até o final do ano.
 

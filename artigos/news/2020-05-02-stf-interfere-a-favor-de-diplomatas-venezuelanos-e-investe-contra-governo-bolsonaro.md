@@ -1,11 +1,12 @@
 ---
-title: "STF interfere a favor de diplomatas venezuelanos e investe contra governo Bolsonaro"
+title: STF interfere a favor de diplomatas venezuelanos e investe contra governo Bolsonaro
 date: 2020-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 STF proteje corpo diplomático venezuelano, contrariando assim as medidas para a segurança nacional do Brasil decretadas pelo PR Jair Bolsonaro e Ministério de relações Exteriores.
 [c5ab_video c5_helper_title="" c5_title="URGENTE : BARROSO DERRUBA MAIS UMA MEDIDA DO PRESIDENTE" url="https://www.youtube.com/watch?v=BhSncVuTG7w" width="800" height="450" ]

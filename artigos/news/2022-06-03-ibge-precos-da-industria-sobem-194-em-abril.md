@@ -1,11 +1,12 @@
 ---
-title: "IBGE: preços da indústria sobem 1,94% em abril"
+title: 'IBGE: preços da indústria sobem 1,94% em abril'
 date: 2022-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado dos últimos 12 meses, taxa ficou em 18%.
 

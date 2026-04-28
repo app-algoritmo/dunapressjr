@@ -1,11 +1,13 @@
 ---
-title: "Governo Jair Bolsonaro através do MCTIC, inicia segundo protocolo de testes clínicos com a Nitazoxanida"
+title: Governo Jair Bolsonaro através do MCTIC, inicia segundo protocolo de testes
+  clínicos com a Nitazoxanida
 date: 2020-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes, afirmou, nesta terça-feira (9), que foram iniciados os novos testes com o vermífugo nitazoxanida em pacientes que tenham sido infectados pelo novo coronavírus. A novidade é que a partir de agora pacientes assintomáticos também serão testados. Basta ter a confirmação do coronavírus.
 

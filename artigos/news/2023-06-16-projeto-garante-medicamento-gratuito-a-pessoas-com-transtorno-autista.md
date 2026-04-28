@@ -1,11 +1,12 @@
 ---
-title: "Projeto garante medicamento gratuito a pessoas com transtorno autista"
+title: Projeto garante medicamento gratuito a pessoas com transtorno autista
 date: 2023-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 973/23 garante à pessoa com transtorno do espectro autista (TEA) o acesso gratuito a medicamentos, sob prescrição médica, por meio do Sistema Único de Saúde (SUS). Em análise na Câmara dos Deputados, a medida altera a [Lei 12.764/12](https://www2.camara.gov.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-norma-pl.html), que instituiu a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista.
 

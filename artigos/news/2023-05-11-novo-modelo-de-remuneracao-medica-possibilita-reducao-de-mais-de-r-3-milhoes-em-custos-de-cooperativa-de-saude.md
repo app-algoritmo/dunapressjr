@@ -1,11 +1,13 @@
 ---
-title: "Novo modelo de remuneração médica possibilita redução de mais de R$ 3 milhões em custos de cooperativa de saúde"
+title: Novo modelo de remuneração médica possibilita redução de mais de R$ 3 milhões
+  em custos de cooperativa de saúde
 date: 2023-05-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O modelo da remuneração médica é um dos temas mais debatidos na saúde suplementar. O mais usado é o pagamento por serviço, que acaba estimulando o volume e a complexidade do que é ofertado, encarecendo os custos das operadoras de saúde e também dos prestadores de serviços do setor. Os últimos números divulgados pela Agência Nacional de Saúde (ANS), relativos a 2022, indicam aumento expressivo da sinistralidade, que se refere ao uso dos planos de saúde pelos clientes. No terceiro semestre do ano passado, o percentual de sinistralidade chegou a 93,2% e a média acumulada no período foi de 90,3%.
 

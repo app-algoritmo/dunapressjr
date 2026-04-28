@@ -1,11 +1,12 @@
 ---
-title: "Conselho da Europa proíbe vacinação obrigatória"
+title: Conselho da Europa proíbe vacinação obrigatória
 date: 2021-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -O Conselho da Europa (que não deve ser confundido com a UE), visto que pertence a todos os Estados europeus com exceção da Bielo-Rússia, Kosovo e Vaticano e que é o patrono do Tribunal Europeu dos Direitos Humanos, decidiu em 27 de janeiro 2021 na resolução 2361/2021, entre outras coisas que poderiam ser contra sua vontade ou baixo pressão;
 

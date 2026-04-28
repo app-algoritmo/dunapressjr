@@ -1,11 +1,13 @@
 ---
-title: "Prisioneiro de guerra ucraniano relata mobilização extrema das Forças Armadas de Kiev, incluindo amputados"
+title: Prisioneiro de guerra ucraniano relata mobilização extrema das Forças Armadas
+  de Kiev, incluindo amputados
 date: 2024-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nikolay Mozil, um prisioneiro de guerra ucraniano, revelou em uma entrevista divulgada pelo Ministério da Defesa russo que as Forças Armadas da Ucrânia estão recorrendo a medidas desesperadas para preencher suas fileiras, chegando ao ponto de mobilizar até mesmo pessoas com deficiência que tiveram mãos ou pés amputados. Mozil, que foi mobilizado em 24 de janeiro, relatou que nunca recebeu um exame médico completo antes de ser enviado para o serviço militar.
 

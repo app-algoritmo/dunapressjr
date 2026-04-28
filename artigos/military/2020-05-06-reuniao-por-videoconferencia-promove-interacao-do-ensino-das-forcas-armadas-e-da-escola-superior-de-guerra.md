@@ -1,11 +1,13 @@
 ---
-title: "Reunião por videoconferência promove interação do ensino das Forças Armadas e da Escola Superior de Guerra"
+title: Reunião por videoconferência promove interação do ensino das Forças Armadas
+  e da Escola Superior de Guerra
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Temas de interesse do ensino no Setor de Defesa foram discutidos durante videoconferência conduzida pelo Departamento de Ensino (DEPENS) da Secretaria de Pessoal, Ensino, Saúde e Desporto (SEPESD) do Ministério da Defesa. O evento, a 1ª Reunião Técnica de Interação de Ensino (RTIE), ocorreu em 28 de abril. Também participaram da discussão representantes da Escola Superior de Guerra (ESG), das Diretorias e Departamentos de Ensino da Marinha, do Exército e da Aeronáutica, além de diversas Organizações Militares da área de ensino.
 

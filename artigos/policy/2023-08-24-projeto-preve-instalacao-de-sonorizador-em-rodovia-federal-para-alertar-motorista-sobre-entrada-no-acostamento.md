@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê instalação de sonorizador em rodovia federal para alertar motorista sobre entrada no acostamento"
+title: Projeto prevê instalação de sonorizador em rodovia federal para alertar motorista
+  sobre entrada no acostamento
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 1894/23 torna obrigatória a instalação de sinalizadores sonoros entre a pista de rodagem e o acostamento em rodovias federais que vierem a ser privatizadas. Segundo o texto, que tramita na Câmara dos Deputados, a medida deverá ser cláusula obrigatória em futuros contratos de concessão.
 

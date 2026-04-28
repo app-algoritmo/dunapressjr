@@ -1,11 +1,13 @@
 ---
-title: "Ministra Damares Alves falou com líderes religiosos sobre prevenção ao corona vírus"
+title: Ministra Damares Alves falou com líderes religiosos sobre prevenção ao corona
+  vírus
 date: 2020-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em reunião com líderes de 17 denominações evangélicas e católicas, nesta segunda-feira (16), a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, pediu apoio na divulgação das informações sobre a prevenção ao corona vírus e pediu que as igrejas evitassem grandes aglomerações neste período de crise.
 

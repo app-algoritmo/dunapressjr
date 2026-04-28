@@ -1,11 +1,12 @@
 ---
-title: "Noruega, conheça os avances da competência digital no ensino escolar"
+title: Noruega, conheça os avances da competência digital no ensino escolar
 date: 2020-03-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Em 2014 foi realizado um levantamento sobre as necessidades das escolas em Holmestrand, município norueguês do Condado de Vestfold., uma vez que fora constatado que o local não oferecia o suficiente para atender aos requisitos e diretrizes estatutárias. Tanto a falta de equipamento, competência e recursos na escola levaram a um processo de mapeamento de necessidades e áreas de foco para garantir que os alunos das escolas de Holmestrand recebessem a competência digital de que precisarão no futuro e da qual a sociedade precisará.
 

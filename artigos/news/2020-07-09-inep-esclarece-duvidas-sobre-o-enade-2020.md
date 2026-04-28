@@ -1,11 +1,12 @@
 ---
-title: "Inep esclarece dúvidas sobre o Enade 2020"
+title: Inep esclarece dúvidas sobre o Enade 2020
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Representantes do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) participaram de um bate-papo on-line promovido pela Associação Brasileira de Mantenedoras de Ensino Superior (ABMES), nesta terça-feira, 7 de julho, com o objetivo de esclarecer dúvidas sobre o Exame Nacional de Desempenho dos Estudantes (Enade) 2020. O exame precisou ser adiado para o próximo ano, em função das restrições impostas devido à pandemia de COVID-19, que impactaram o cronograma de aulas das instituições de educação superior em todo o país.
 

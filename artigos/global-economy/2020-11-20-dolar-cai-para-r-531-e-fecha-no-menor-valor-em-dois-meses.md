@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,31 e fecha no menor valor em dois meses"
+title: Dólar cai para R$ 5,31 e fecha no menor valor em dois meses
 date: 2020-11-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fechou em alta, beneficiada por cenário externo.
 

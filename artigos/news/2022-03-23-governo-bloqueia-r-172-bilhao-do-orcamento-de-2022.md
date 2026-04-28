@@ -1,11 +1,12 @@
 ---
-title: "Governo bloqueia R$ 1,72 bilhão do Orçamento de 2022"
+title: Governo bloqueia R$ 1,72 bilhão do Orçamento de 2022
 date: 2022-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Possível estouro do teto de gastos justificou corte de despesas.
 

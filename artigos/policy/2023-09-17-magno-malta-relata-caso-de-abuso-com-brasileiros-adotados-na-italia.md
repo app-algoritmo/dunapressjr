@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta relata caso de abuso com brasileiros adotados na Itália"
+title: Magno Malta relata caso de abuso com brasileiros adotados na Itália
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) relatou em pronunciamento nesta quarta-feira (13) o caso dos três irmãos de sua filha adotiva, que há 20 anos teriam sido entregues a um casal de pedófilos da Itália. O parlamentar solicitou ao presidente do Senado, Rodrigo Pacheco, que o acompanhe em visita à Embaixada da Itália para ajudá-lo a entrar em contato com as autoridades do país europeu e possibilitar o reencontro de Jaisliny com os irmãos, que hoje estariam sob cuidados de instituições italianas.
 

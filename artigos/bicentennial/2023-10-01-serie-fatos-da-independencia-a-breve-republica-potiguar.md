@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A breve republica potiguar"
+title: 'Série Fatos Da Independência: A breve republica potiguar'
 date: 2023-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Deposto o Governador, os revoltosos enviaram cartas pedindo ajuda à Paraíba e rumaram para Natal, deixando Borges encarcerado e vigiado nas proximidades do Engenho. O objetivo dos revoltosos era organizar um governo provisório. Chegaram na capital no dia 28 de março em meio a um grande rebuliço militar. Nem todos eram simpáticos ao movimento, mas também não fizeram nada em defesa da Coroa.
 

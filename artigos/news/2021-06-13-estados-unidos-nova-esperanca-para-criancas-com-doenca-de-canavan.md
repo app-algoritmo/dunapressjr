@@ -1,11 +1,12 @@
 ---
-title: "Estados Unidos: nova esperança para crianças com doença de Canavan"
+title: 'Estados Unidos: nova esperança para crianças com doença de Canavan'
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A doença de Canavan é uma doença neurológica incapacitante e fatal que causa danos cerebrais causados ​​pela presença de um gene herdado defeituoso. Esse gene prejudica a capacidade do corpo de produzir mielina, a substância branca, protetora e isolante do cérebro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Programa de Incentivo à Compra de Veículos é Prorrogado e Estendido a Empresas"
+title: Programa de Incentivo à Compra de Veículos é Prorrogado e Estendido a Empresas
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério da Fazenda anuncia ampliação do desconto e nova linha de subsídios devido à alta demanda.
 

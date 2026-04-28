@@ -1,11 +1,12 @@
 ---
-title: "Série conheça o Sul do Brasil: Antonina/PR"
+title: 'Série conheça o Sul do Brasil: Antonina/PR'
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Antonina tem seu conjunto histórico e paisagístico tombado como Patrimônio da União.
 

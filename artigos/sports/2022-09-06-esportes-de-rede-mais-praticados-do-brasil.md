@@ -1,11 +1,12 @@
 ---
-title: "Esportes de rede mais praticados do Brasil"
+title: Esportes de rede mais praticados do Brasil
 date: 2022-09-06
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Sports
+- Sports
 ---
+
 
 Os esportes em rede são um fenômeno global. Muitas categorias estão incluídas na proposta; por isso, é uma ótima ideia descobrir mais sobre elas. Não apenas para se divertir, mas também para opções de apostas adicionais.
 

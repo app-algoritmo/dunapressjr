@@ -1,11 +1,12 @@
 ---
-title: "Ministério ajusta previsão de crescimento econômico para 5,3% em 2021"
+title: Ministério ajusta previsão de crescimento econômico para 5,3% em 2021
 date: 2021-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção para inflação cresceu para 5,9%, mas deve diminuir em 2022.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF, com apoio do MPF e da CGU, combate fraude em licitações na área de saúde em Cabo Frio/RJ"
+title: PF, com apoio do MPF e da CGU, combate fraude em licitações na área de saúde
+  em Cabo Frio/RJ
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macaé/RJ - Na manhã de hoje, 15/06, a Polícia Federal, em ação conjunta com o MPF e CGU, deflagrou a operação EXAM, com o objetivo de investigar desvios de recursos na área de saúde do Município de Cabo Frio/RJ.
 

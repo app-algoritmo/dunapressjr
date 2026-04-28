@@ -1,11 +1,13 @@
 ---
-title: "Governo da Paraíba cumpre Lei que suspende cobrança de parcelas de consignados por 120 dias"
+title: Governo da Paraíba cumpre Lei que suspende cobrança de parcelas de consignados
+  por 120 dias
 date: 2020-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Um total de 50.070 servidores estão sendo beneficiados com a Lei.
 

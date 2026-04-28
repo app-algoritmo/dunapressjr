@@ -1,11 +1,12 @@
 ---
-title: "<strong>Emissão de debêntures incentivadas capta R$ 3 bilhões em julho</strong>"
+title: <strong>Emissão de debêntures incentivadas capta R$ 3 bilhões em julho</strong>
 date: 2022-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Volume total distribuído desde 2012 chega a R$ 191,2 bilhões; recursos são utilizados principalmente em projetos de investimento na área de infraestrutura.
 

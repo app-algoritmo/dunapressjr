@@ -1,11 +1,12 @@
 ---
-title: "Izalci diz que CPMI do 8 de Janeiro é parcial"
+title: Izalci diz que CPMI do 8 de Janeiro é parcial
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) criticou a CPMI do 8 de Janeiro e disse estar “estarrecido” com as coisas "absurdas" que estão acontecendo na comissão. Em pronunciamento na terça-feira (19), o parlamentar disse que a relatora, senadora Eliziane Gama (PSD-MA), está fazendo um trabalho “parcial” e já tem o relatório “pronto”.
 

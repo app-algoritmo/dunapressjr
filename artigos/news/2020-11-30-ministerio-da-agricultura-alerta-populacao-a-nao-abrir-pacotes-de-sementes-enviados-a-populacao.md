@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Agricultura alerta população a não abrir pacotes de sementes enviados à população"
+title: Ministério da Agricultura alerta população a não abrir pacotes de sementes
+  enviados à população
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasileiros de 24 estados e do Distrito Federal já relataram ter recebido pacotes de sementes não solicitadas vindas de países asiáticos como China, Malásia e Hong Kong. Um total de 258 pacotes chegaram ao Ministério da Agricultura Pecuária e Abastecimento encaminhados pela população. Nas amostras analisadas, foram encontrados fungos e bactérias.
 

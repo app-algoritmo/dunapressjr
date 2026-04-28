@@ -1,11 +1,12 @@
 ---
-title: "Documentário destaca atuação brasileira em Missão de Paz no Congo"
+title: Documentário destaca atuação brasileira em Missão de Paz no Congo
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O trabalho dos militares brasileiros na Missão das Nações Unidas na República Democrática do Congo (MONUSCO) é destaque na série especial *Congo: um país sem paz.* O documentário foi produzido pelo Jornal da Record, transmitido entre os dias 6 e 10 de novembro.
 

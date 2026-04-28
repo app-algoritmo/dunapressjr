@@ -1,11 +1,13 @@
 ---
-title: "Agricultor holandês “as famílias choram na mesa da cozinha todos os dias”, cometendo suicídio por causa da tirania globalista da mudança climática"
+title: Agricultor holandês “as famílias choram na mesa da cozinha todos os dias”,
+  cometendo suicídio por causa da tirania globalista da mudança climática
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Cerca de 3.000 fazendas em toda a Holanda estão no bloco de corte do governo.
 

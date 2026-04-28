@@ -1,11 +1,12 @@
 ---
-title: "Cosud: veja os compromissos dos Estados do Sul e Sudeste na Carta São Paulo"
+title: 'Cosud: veja os compromissos dos Estados do Sul e Sudeste na Carta São Paulo'
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O documento formaliza os compromissos do Sul e do Sudeste com o desenvolvimento econômico e social e encaminha as próximas ações do Cosud.
 

@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde faz amistoso internacional nesta sexta-feira (3) no Peru"
+title: Osasco São Cristóvão Saúde faz amistoso internacional nesta sexta-feira (3)
+  no Peru
 date: 2023-11-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar enfrenta o Alianza Lima como parte de sua preparação para a Superliga 2023/24.
 

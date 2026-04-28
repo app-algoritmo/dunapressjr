@@ -1,11 +1,12 @@
 ---
-title: "Presidente assina decreto para reduzir IOF sobre câmbio"
+title: Presidente assina decreto para reduzir IOF sobre câmbio
 date: 2022-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida é exigida aos países que querem fazer parte da OCDE.
 

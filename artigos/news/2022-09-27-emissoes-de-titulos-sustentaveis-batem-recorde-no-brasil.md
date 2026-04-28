@@ -1,11 +1,12 @@
 ---
-title: "Emissões de títulos sustentáveis batem recorde no Brasil"
+title: Emissões de títulos sustentáveis batem recorde no Brasil
 date: 2022-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 2020 e 2021, foram captados US$ 20 bi por esse tipo de papel.
 

@@ -1,12 +1,14 @@
 ---
-title: "A situação da Pfizer em relação às vacinas para a COVID-19 é gravíssima, relata Cristian Terhes"
+title: A situação da Pfizer em relação às vacinas para a COVID-19 é gravíssima, relata
+  Cristian Terhes
 date: 2022-10-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 Na última semana, houve uma conferência com a imprensa depois que o CEO da PFIZER Albert Bourla se recusou a responder questionamentos de membros do parlamento europeu.
 

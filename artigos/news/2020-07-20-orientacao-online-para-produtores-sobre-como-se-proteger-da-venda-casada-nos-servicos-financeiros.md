@@ -1,11 +1,13 @@
 ---
-title: "Orientação online para produtores sobre como se proteger da venda casada nos serviços financeiros"
+title: Orientação online para produtores sobre como se proteger da venda casada nos
+  serviços financeiros
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O evento será transmitido ao vivo pelos canais de YouTube tanto do Mapa quanto do MJSP.
 

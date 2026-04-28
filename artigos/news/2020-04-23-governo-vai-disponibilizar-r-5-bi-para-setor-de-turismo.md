@@ -1,11 +1,12 @@
 ---
-title: "Governo vai disponibilizar R$ 5 bi para setor de turismo"
+title: Governo vai disponibilizar R$ 5 bi para setor de turismo
 date: 2020-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Crédito extra vai reforçar o Fundo Geral do Turismo (Fungetur)
 

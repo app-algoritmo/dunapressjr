@@ -1,11 +1,12 @@
 ---
-title: "Governo propõe meta de déficit primário de R$ 247 bi para 2021"
+title: Governo propõe meta de déficit primário de R$ 247 bi para 2021
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto da LDO previa valor flexível, mas TCU foi contra ideia.
 

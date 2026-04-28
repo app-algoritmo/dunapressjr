@@ -1,11 +1,12 @@
 ---
-title: "Pequenos negócios geram renda de R$ 420 bilhões por ano"
+title: Pequenos negócios geram renda de R$ 420 bilhões por ano
 date: 2022-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Empresas de menor porte correspondem a 30% do PIB.
 

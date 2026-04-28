@@ -1,11 +1,13 @@
 ---
-title: "Países sul-americanos entram em acordo para garantir tráfego de alimentos durante pandemia"
+title: Países sul-americanos entram em acordo para garantir tráfego de alimentos durante
+  pandemia
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministros da Agricultura de diversos países da América do Sul participaram nesta segunda-feira (23), a convite da ministra Tereza Cristina, de uma videoconferência para debater a harmonização de normas e garantir a fluidez do trânsito de mercadorias e o abastecimento de alimentos na região durante a pandemia do Coronavírus. “É indispensável nosso alinhamento no mais alto nível político, que deverá também se refletir em instruções ágeis e claras para o plano operacional, sobretudo para a ponta, as autoridades fronteiriças”, argumentou a ministra brasileira.
 

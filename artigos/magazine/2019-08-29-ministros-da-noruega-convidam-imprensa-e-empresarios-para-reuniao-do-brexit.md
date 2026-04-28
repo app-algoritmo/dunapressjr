@@ -1,11 +1,12 @@
 ---
-title: "Ministros da Noruega convidam imprensa e empresários para reunião do Brexit"
+title: Ministros da Noruega convidam imprensa e empresários para reunião do Brexit
 date: 2019-08-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## A Ministra das Relações Exteriores Ine Eriksen Søreide, o Ministro do Comércio e Indústria Torbjørn Røe Isaksen e o Ministro da Pesca Harald Tom Nesvik convidam a comunidade empresarial para uma reunião na quarta-feira, 04 de setembro, com objetivo de discutir o *status* do Brexit e as conseqüências para os negócios noruegueses.
 

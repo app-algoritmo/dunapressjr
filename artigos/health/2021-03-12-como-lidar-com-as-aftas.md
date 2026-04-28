@@ -1,11 +1,12 @@
 ---
-title: "Como lidar com as aftas"
+title: Como lidar com as aftas
 date: 2021-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pequenas feridas que incomodam bastante! Assim são as aftas. Bem dolorosas, elas aparecem na boca, mais comumente nas mucosas dos lábios, língua e bochechas. Uma das características clínicas mais aparente é ser uma ferida recoberta por uma membrana amarelo-acinzentada, envolvida por um halo vermelho, cicatrizando em até 14 dias, normalmente.
 

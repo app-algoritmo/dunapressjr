@@ -1,11 +1,12 @@
 ---
-title: "CNC: Intenção de Consumo das Famílias melhora em dezembro"
+title: 'CNC: Intenção de Consumo das Famílias melhora em dezembro'
 date: 2020-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice apresentou o maior resultado desde maio de 2020.
 

@@ -1,11 +1,12 @@
 ---
-title: "Economia anuncia contingenciamento de R$ 8,7 bilhões do Orçamento"
+title: Economia anuncia contingenciamento de R$ 8,7 bilhões do Orçamento
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No primeiro semestre foram bloqueados R$ 1,7 bilhão.
 

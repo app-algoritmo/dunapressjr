@@ -1,11 +1,13 @@
 ---
-title: "Indicador de Incerteza da Economia (IIE-Br) registra queda significativa em julho, atingindo o menor nível em quase seis anos"
+title: Indicador de Incerteza da Economia (IIE-Br) registra queda significativa em
+  julho, atingindo o menor nível em quase seis anos
 date: 2023-07-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Melhoria das perspectivas macroeconômicas do país impulsiona redução do IIE-Br, aponta Fundação Getulio Vargas. 
 

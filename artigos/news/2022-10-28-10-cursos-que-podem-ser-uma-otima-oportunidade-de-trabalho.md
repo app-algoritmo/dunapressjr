@@ -1,11 +1,12 @@
 ---
-title: "10 Cursos que podem ser uma ótima oportunidade de trabalho"
+title: 10 Cursos que podem ser uma ótima oportunidade de trabalho
 date: 2022-10-28
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 Muitos jovens têm dúvida sobre o futuro da carreira ideal e, por conta disso, têm dúvidas sobre escolher um curso com o objetivo de se especializar. É importante sempre considerar as suas habilidades e o que você gosta de fazer. Uma questão que não pode ser deixada de lado neste momento, porém, é se haverá uma boa oportunidade de trabalho na área após a graduação.
 

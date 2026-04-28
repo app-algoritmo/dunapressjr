@@ -1,11 +1,13 @@
 ---
-title: "Avanço do Programa de Identificação Digital Levanta Preocupações sobre Liberdades Individuais nos EUA"
+title: Avanço do Programa de Identificação Digital Levanta Preocupações sobre Liberdades
+  Individuais nos EUA
 date: 2024-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Diretrizes para Identificação Digital Inicialmente Voluntária Despertam Suspeitas sobre Futuras Imposições**.
 

@@ -1,11 +1,13 @@
 ---
-title: "2.01 Presidente da República participou de cerimônia de transferência do cargo de Ministro da Defesa"
+title: 2.01 Presidente da República participou de cerimônia de transferência do cargo
+  de Ministro da Defesa
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro afirma ser soldado do Brasil e que buscará diálogo entre poderes
 

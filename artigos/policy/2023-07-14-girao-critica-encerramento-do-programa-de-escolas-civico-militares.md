@@ -1,11 +1,12 @@
 ---
-title: "Girão critica encerramento do programa de escolas cívico-militares"
+title: Girão critica encerramento do programa de escolas cívico-militares
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento no Plenário nessa quarta-feira (12), o encerramento do programa de escolas cívico-militares, decisão anunciada pelos Ministérios da Educação e da Defesa. Segundo o senador, a medida é "uma maldade" que demonstra atitude de "vingança e revanchismo" do atual governo contra uma das principais bandeiras de gestão do governo passado.
 

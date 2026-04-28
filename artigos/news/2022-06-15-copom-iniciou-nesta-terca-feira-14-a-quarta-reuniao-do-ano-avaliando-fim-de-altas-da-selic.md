@@ -1,11 +1,13 @@
 ---
-title: "Copom iniciou nesta terça-feira (14) a quarta reunião do ano avaliando fim de altas da Selic"
+title: Copom iniciou nesta terça-feira (14) a quarta reunião do ano avaliando fim
+  de altas da Selic
 date: 2022-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa é que taxa suba de 12,75% para 13,25% ao ano.
 

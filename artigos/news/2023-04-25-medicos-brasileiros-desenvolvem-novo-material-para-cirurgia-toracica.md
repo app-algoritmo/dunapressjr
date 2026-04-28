@@ -1,11 +1,12 @@
 ---
-title: "Médicos brasileiros desenvolvem novo material para cirurgia torácica"
+title: Médicos brasileiros desenvolvem novo material para cirurgia torácica
 date: 2023-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um afundamento assimétrico no tórax quando o adolescente Luiz Henrique Baggio tinha oito anos acendeu o sinal de alerta da mãe Ana Júlia Melo. “Além do incômodo estético, bateu uma preocupação muito grande sobre quais problemas de saúde esse ‘buraco’ poderia acarretar. Depois de consultas com especialistas veio o diagnóstico: Luiz tinha um problema congênito conhecido como *pectus excavatum*”, recorda a mãe.
 

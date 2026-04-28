@@ -1,11 +1,12 @@
 ---
-title: "Setor da construção permanece cauteloso após lançamento do Novo PAC"
+title: Setor da construção permanece cauteloso após lançamento do Novo PAC
 date: 2023-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança da Construção registra aumento, mas expectativas no segmento de infraestrutura sofrem queda após anúncio do programa de investimentos.
 

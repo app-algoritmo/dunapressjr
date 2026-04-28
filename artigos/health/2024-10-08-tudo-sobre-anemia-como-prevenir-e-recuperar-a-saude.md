@@ -1,12 +1,13 @@
 ---
-title: "Tudo sobre Anemia: Como Prevenir e Recuperar a Saúde"
+title: 'Tudo sobre Anemia: Como Prevenir e Recuperar a Saúde'
 date: 2024-10-08
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Health
-  - Lifestyle
+- Health
+- Lifestyle
 ---
+
 
 **Tudo sobre Anemia: Como Prevenir e Recuperar a Saúde**
 

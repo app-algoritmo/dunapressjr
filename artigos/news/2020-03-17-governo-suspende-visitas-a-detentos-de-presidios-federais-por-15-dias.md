@@ -1,11 +1,12 @@
 ---
-title: "Governo suspende visitas a detentos de presídios federais por 15 dias"
+title: Governo suspende visitas a detentos de presídios federais por 15 dias
 date: 2020-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) suspendeu, nesta segunda-feira (16), nos presídios federais, as visitas sociais por 15 (quinze) dias, os atendimentos de advogados por cinco dias - salvo necessidades urgentes ou que envolvam prazos processuais não suspensos, e escoltas - com exceção de requisições judiciais e inclusões emergenciais. 
 

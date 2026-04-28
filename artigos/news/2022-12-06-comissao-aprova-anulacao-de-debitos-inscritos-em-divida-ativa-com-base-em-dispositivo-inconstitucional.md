@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova anulação de débitos inscritos em dívida ativa com base em dispositivo inconstitucional"
+title: Comissão aprova anulação de débitos inscritos em dívida ativa com base em dispositivo
+  inconstitucional
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou o projeto que declara nulos todos os débitos tributários inscritos na dívida ativa da União com base em dispositivo da [Lei 8.620/93](https://www2.camara.leg.br/legin/fed/lei/1993/lei-8620-5-janeiro-1993-363190-norma-pl.html).
 

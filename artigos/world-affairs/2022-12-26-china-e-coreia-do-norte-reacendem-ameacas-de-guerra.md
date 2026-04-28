@@ -1,11 +1,12 @@
 ---
-title: "China e Coréia do Norte reacendem ameaças de guerra"
+title: China e Coréia do Norte reacendem ameaças de guerra
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Se Xi Jinping deixou claro uma coisa, mesmo quando conheceu Biden, é que ele invadirá Taiwan a qualquer custo.
 

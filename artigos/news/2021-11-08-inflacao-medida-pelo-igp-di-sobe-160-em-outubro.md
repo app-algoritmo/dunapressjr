@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IGP-DI sobe 1,60% em outubro"
+title: Inflação medida pelo IGP-DI sobe 1,60% em outubro
 date: 2021-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice acumula alta de 20,95% em 12 meses.
 

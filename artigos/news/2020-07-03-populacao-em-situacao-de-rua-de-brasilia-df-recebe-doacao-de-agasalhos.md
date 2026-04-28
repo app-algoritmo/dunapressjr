@@ -1,11 +1,12 @@
 ---
-title: "População em situação de rua de Brasília (DF) recebe doação de agasalhos"
+title: População em situação de rua de Brasília (DF) recebe doação de agasalhos
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Programa Nacional de Incentivo ao Voluntariado (Pátria Voluntária) realizou, no dia 30 de junho, entrega de doações de mantas e chinelos arrecadados na Esplanada dos Ministérios, em Brasília (DF), para beneficiar pessoas em situação de rua. A iniciativa partiu da presidente do Conselho do Programa, Michelle Bolsonaro, a partir de um pedido da ONG Mãos Solidárias, que precisava de ajuda para atender cerca de 200 homens que hoje estão abrigados no Alojamento Provisório da Ceilândia, a cerca de 30km na capital. 
 

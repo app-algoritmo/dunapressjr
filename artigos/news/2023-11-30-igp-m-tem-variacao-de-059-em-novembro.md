@@ -1,11 +1,12 @@
 ---
-title: "IGP-M tem variação de 0,59% em novembro"
+title: IGP-M tem variação de 0,59% em novembro
 date: 2023-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados divulgados pela FGV/Ibre indicam aceleração nos preços de commodities e influências climáticas na inflação ao consumidor.
 

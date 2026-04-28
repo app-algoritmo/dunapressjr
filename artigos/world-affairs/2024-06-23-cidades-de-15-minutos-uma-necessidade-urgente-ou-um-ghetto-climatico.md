@@ -1,11 +1,12 @@
 ---
-title: "Cidades de 15 minutos: Uma Necessidade Urgente ou Um Ghetto Climático?"
+title: 'Cidades de 15 minutos: Uma Necessidade Urgente ou Um Ghetto Climático?'
 date: 2024-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No norte da Califórnia, um grupo influente liderado por bilionários, como Reid Hoffman e Laurene Powell Jobs, está avançando com planos audaciosos para criar uma cidade "caminhável" em East Solano. Essa visão de uma cidade de 15 minutos, onde tudo está a uma curta distância a pé, promete não apenas reduzir o impacto ambiental ao desencorajar o uso de carros, mas também transformar a vida urbana em uma experiência mais comunitária e sustentável.
 

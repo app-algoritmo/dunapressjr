@@ -1,11 +1,12 @@
 ---
-title: "Primeira chamada do Prouni terá resultado divulgado nesta terça-feira (21)"
+title: Primeira chamada do Prouni terá resultado divulgado nesta terça-feira (21)
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Até às 11h da manhã dessa quinta-feira (16), o Programa já registrava 305.202 inscrições; prazo para concorrer às bolsas encerrou nesta sexta-feira (17).
 

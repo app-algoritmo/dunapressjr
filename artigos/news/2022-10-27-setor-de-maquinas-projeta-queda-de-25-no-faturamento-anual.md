@@ -1,11 +1,12 @@
 ---
-title: "Setor de máquinas projeta queda de 2,5% no faturamento anual"
+title: Setor de máquinas projeta queda de 2,5% no faturamento anual
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em relação ao mês anterior, houve crescimento de 4,7%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Eclipse Total Solar Deixa América do Norte na Escuridão"
+title: Eclipse Total Solar Deixa América do Norte na Escuridão
 date: 2024-04-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Astronomy
+- Astronomy
 ---
+
 
 No último dia 8 de abril, os céus da América do Norte foram tomados por um fenômeno celestial espetacular: um eclipse solar total (**[assista a retransmissão](https://dunapress.org/2024/04/08/assista-eclipse-solar-total-transmitido-pela-nasa-em-duna-press/)**). Este evento astronômico cativou a atenção de cientistas e curiosos, deixando alguns estados dos Estados Unidos e Canadá em estado de emergência.
 

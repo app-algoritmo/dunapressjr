@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova criação do Código de Defesa do Empreendedor"
+title: Câmara aprova criação do Código de Defesa do Empreendedor
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (21) projeto de lei que cria o Código de Defesa do Empreendedor, com normas de proteção à livre iniciativa e ao livre exercício da atividade econômica. A proposta será enviada ao Senado.
 

@@ -1,11 +1,12 @@
 ---
-title: "A verdade sobre as mudanças climáticas"
+title: A verdade sobre as mudanças climáticas
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Quer saber a verdade sobre as mudanças climáticas? Aqui está ela….**
 

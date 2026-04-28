@@ -1,11 +1,13 @@
 ---
-title: "O Assassinato dos Romanovs: Contexto Político e Tragédia Familiar para o império Russo"
+title: 'O Assassinato dos Romanovs: Contexto Político e Tragédia Familiar para o império
+  Russo'
 date: 2024-07-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O assassinato da família Romanov em 17 de julho de 1918 marca um dos eventos mais trágicos e significativos da Revolução Russa. O czar Nicolau II, sua esposa Alexandra Feodorovna, e seus cinco filhos foram brutalmente executados pelos bolcheviques, encerrando brutalmente a dinastia Romanov que governava a Rússia há mais de três séculos. Este evento foi o ápice das tensões políticas e ideológicas que permeavam a Rússia naquele período revolucionário.
 

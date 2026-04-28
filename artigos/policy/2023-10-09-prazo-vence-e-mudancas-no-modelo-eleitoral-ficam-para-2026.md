@@ -1,11 +1,12 @@
 ---
-title: "Prazo vence, e mudanças no modelo eleitoral ficam para 2026"
+title: Prazo vence, e mudanças no modelo eleitoral ficam para 2026
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Venceu nesta sexta-feira (6) o prazo para que qualquer alteração no modelo que rege os processos eleitorais no Brasil possam valer para as eleições de 2024, quando as 5.570 cidades elegerão, em outubro do próximo ano, prefeitos e vereadores para novos mandatos de 4 anos.
 

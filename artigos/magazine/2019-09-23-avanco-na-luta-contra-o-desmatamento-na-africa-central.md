@@ -1,11 +1,12 @@
 ---
-title: "Avanço na luta contra o desmatamento na África Central"
+title: Avanço na luta contra o desmatamento na África Central
 date: 2019-09-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## -O Acordo milionário entre o Gabão e a Noruega ajudará o país centro-africano à preservar suas valiosas florestas.
 

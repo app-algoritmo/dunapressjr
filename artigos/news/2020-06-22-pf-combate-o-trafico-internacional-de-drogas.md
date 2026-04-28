@@ -1,11 +1,12 @@
 ---
-title: "PF combate o tráfico internacional de drogas"
+title: PF combate o tráfico internacional de drogas
 date: 2020-06-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ilhéus/BA – A Polícia Federal deflagrou nesta segunda-feira (22/6) a Operação Ephestia, com o objetivo de dar continuidade às investigações que resultaram na apreensão de mais de 2 toneladas de cocaína no porto de Ilhéus, entre os dias 19 e 20 do mês em curso.
 

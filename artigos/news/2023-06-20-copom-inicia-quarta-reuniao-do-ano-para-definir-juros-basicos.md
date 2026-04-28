@@ -1,11 +1,12 @@
 ---
-title: "Copom inicia quarta reunião do ano para definir juros básicos"
+title: Copom inicia quarta reunião do ano para definir juros básicos
 date: 2023-06-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é que taxa Selic seja mantida em 13,75% ao ano.
 

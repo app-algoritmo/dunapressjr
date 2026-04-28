@@ -1,11 +1,13 @@
 ---
-title: "Estiagem em SC: Governo do Estado destina R$ 3 milhões para compra de reservatórios e transporte de água"
+title: 'Estiagem em SC: Governo do Estado destina R$ 3 milhões para compra de reservatórios
+  e transporte de água'
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo do Estado vai investir mais R$ 3 milhões, com recursos da Assembleia Legislativa do Estado de Santa Catarina (Alesc), em ações para amenizar os prejuízos causados pela estiagem em Santa Catarina. O recurso será usado na aquisição de reservatórios e no transporte de água para as localidades mais atingidas. A medida foi tomada durante reunião dos chefes da Casa Civil, Ricardo Miranda Aversa, e da Defesa Civil, Aldo Baptista Neto, com o presidente da Assembleia Legislativa de Santa Catarina (Alesc), Júlio Garcia, e com o deputado estadual Onir Mocellin na tarde desta segunda-feira, 16.
 

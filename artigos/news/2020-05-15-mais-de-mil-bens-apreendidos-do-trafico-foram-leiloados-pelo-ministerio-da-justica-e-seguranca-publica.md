@@ -1,11 +1,13 @@
 ---
-title: "Mais de mil bens apreendidos do tráfico foram leiloados pelo Ministério da Justiça e Segurança Pública"
+title: Mais de mil bens apreendidos do tráfico foram leiloados pelo Ministério da
+  Justiça e Segurança Pública
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os 26 leilões realizados em nove estados do país, em pouco menos de um ano, resultaram em uma arrecadação de aproximadamente R$ 10 milhões. Os recursos são provenientes da venda de mais de mil bens apreendidos pelo tráfico de drogas. Esse resultado é parte de um dos projetos prioritários da Secretaria Nacional de Políticas Sobre Drogas (Senad/MJSP) e vem contribuindo ativamente para destinar recursos ao Fundo Nacional de Drogas (Funad) e aos agentes policiais que atuam nessa frente.
 

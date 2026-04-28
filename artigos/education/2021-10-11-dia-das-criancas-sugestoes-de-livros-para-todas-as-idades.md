@@ -1,11 +1,12 @@
 ---
-title: "Dia das Crianças: sugestões de livros para todas as idades"
+title: 'Dia das Crianças: sugestões de livros para todas as idades'
 date: 2021-10-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Pesquisa mostra lista de livros infantis preferidos por crianças de até 15 anos.
 

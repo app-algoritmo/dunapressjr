@@ -1,11 +1,12 @@
 ---
-title: "PF promove incineração simbólica de drogas em Bauru/SP"
+title: PF promove incineração simbólica de drogas em Bauru/SP
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bauru/SP - A Polícia Federal promoveu, na manhã desta terça-feira (23/6), uma incineração simbólica de drogas para marcar a 22ª Semana Nacional de Políticas Sobre Drogas, realizada pelo Ministério da Justiça e Segurança Pública, em parceria com o Ministério da Cidadania, com o tema “Unidos Pela Vida”.
 

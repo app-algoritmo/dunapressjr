@@ -1,11 +1,12 @@
 ---
-title: "A Rússia continua a desenvolver relações com os países africanos"
+title: A Rússia continua a desenvolver relações com os países africanos
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Dmitry Peskov especificou que hoje Putin "realizará conversações entre a Rússia e o Sudão do Sul e depois terá um almoço de trabalho com o presidente Kiir".
 

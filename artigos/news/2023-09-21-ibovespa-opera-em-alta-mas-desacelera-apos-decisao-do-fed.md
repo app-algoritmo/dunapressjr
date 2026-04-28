@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa opera em alta, mas desacelera após decisão do Fed"
+title: Ibovespa opera em alta, mas desacelera após decisão do Fed
 date: 2023-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa brasileira atinge 119 mil pontos, mas encerra o dia com ganhos mais modestos.
 

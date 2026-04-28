@@ -1,11 +1,13 @@
 ---
-title: "Altas Taxas de Complicações em Cirurgias de Redesignação de Sexo: Revelações Chocantes"
+title: 'Altas Taxas de Complicações em Cirurgias de Redesignação de Sexo: Revelações
+  Chocantes'
 date: 2024-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Uma série de reportagens da Daily Caller News Foundation (DCNF) revelou a disposição de médicos em aceitar taxas de complicações de até 80% em cirurgias de redesignação de sexo. As investigações incluem vídeos mostrando a insensibilidade chocante de médicos que realizam essas cirurgias em jovens, alguns com apenas 12 anos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Após passar por cirurgia para retirada de tumor de 30 kg, jovem volta a fazer planos"
+title: Após passar por cirurgia para retirada de tumor de 30 kg, jovem volta a fazer
+  planos
 date: 2021-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Médico norte-americano especialista em grandes tumores veio a Curitiba (PR) especialmente para realizar procedimento, ainda raro no Brasil.
 

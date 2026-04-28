@@ -1,11 +1,12 @@
 ---
-title: "Arcebispo Viganò condena a  Nova Ordem Mundial"
+title: Arcebispo Viganò condena a  Nova Ordem Mundial
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nossa tarefa é proclamar a verdade e lembrar ao mundo que a salvação vem somente de Cristo, o Príncipe da Paz, cujo domínio sobre os povos e a Igreja, usurpados por uma autoridade rebelde e corrupta, deve ser restaurado.
 

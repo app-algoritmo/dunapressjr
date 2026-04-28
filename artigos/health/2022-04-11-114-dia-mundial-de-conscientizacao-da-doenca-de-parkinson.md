@@ -1,11 +1,12 @@
 ---
-title: "11/4 – Dia Mundial de Conscientização da Doença de Parkinson"
+title: 11/4 – Dia Mundial de Conscientização da Doença de Parkinson
 date: 2022-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O objetivo da campanha é conscientizar sobre a doença e incentivar as pessoas a agirem de forma a impactar o futuro da enfermidade, por meio da pesquisa, do cuidado e do planejamento de vida.
 

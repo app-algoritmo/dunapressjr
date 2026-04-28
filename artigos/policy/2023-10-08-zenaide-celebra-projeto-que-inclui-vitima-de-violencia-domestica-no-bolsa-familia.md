@@ -1,11 +1,12 @@
 ---
-title: "Zenaide celebra projeto que inclui vítima de violência doméstica no Bolsa Família"
+title: Zenaide celebra projeto que inclui vítima de violência doméstica no Bolsa Família
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Zenaide Maia (PSD-RN) comemorou, em pronunciamento no Plenário na quarta-feira (4), a aprovação na Comissão de Direitos Humanos (CDH) do projeto de sua autoria que inclui emergencialmente a mulher em situação de violência doméstica e familiar entre os beneficiários do Programa Bolsa Família ([PL 3.324/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158542)). A proposta altera a [Lei 14.601, de 2023,](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-06-19;14601) que instituiu o programa, e segue para análise da Comissão de Assuntos Sociais (CAS).
 

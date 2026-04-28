@@ -1,11 +1,12 @@
 ---
-title: "Jair Bolsonaro recebe embaixadores recém-nomeados"
+title: Jair Bolsonaro recebe embaixadores recém-nomeados
 date: 2020-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta segunda-feira (6), o presidente da República, Jair Bolsonaro, recebeu, no Palácio do Planalto, em Brasília (DF), os recém-nomeados embaixadores na cerimônia de entrega de cartas credenciais.
 

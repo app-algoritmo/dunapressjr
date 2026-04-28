@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional da Construção Civil fecha 2022 com alta de 10,9%"
+title: Índice Nacional da Construção Civil fecha 2022 com alta de 10,9%
 date: 2023-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a segunda maior taxa desde 2014.
 

@@ -1,11 +1,12 @@
 ---
-title: "Political death under Lula da Silva management"
+title: Political death under Lula da Silva management
 date: 2023-11-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## **Tragic Death of Cleriston Cunha Raises Questions about Justice in Brazil**
 

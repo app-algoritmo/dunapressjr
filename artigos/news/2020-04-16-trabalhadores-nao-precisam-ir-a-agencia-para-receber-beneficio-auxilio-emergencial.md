@@ -1,11 +1,12 @@
 ---
-title: "Trabalhadores não precisam ir à agência para receber benefício Auxílio Emergencial"
+title: Trabalhadores não precisam ir à agência para receber benefício Auxílio Emergencial
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Caixa Econômica Federal tem alertado aos trabalhadores que não é necessário ir até uma agência ou casa lotérica para cadastramento, consulta ou saque do Auxílio Emergencial.
 

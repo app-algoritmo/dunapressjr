@@ -1,11 +1,12 @@
 ---
-title: "US Debunks Visa Cancellation Rumor for Brazil's Top Army General"
+title: US Debunks Visa Cancellation Rumor for Brazil's Top Army General
 date: 2025-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Politics
+- International Politics
 ---
+
 
 In the swirling vortex of international diplomacy, where whispers in Washington can echo across the Atlantic to Brasília, a recent rumor has ignited a firestorm of speculation and concern. On social media platforms like Instagram and X (formerly Twitter), posts claiming that the United States had abruptly canceled the visa of General Tomás Miguel Ribeiro Paiva—the commander of the Brazilian Army—spread like wildfire. One particularly viral post, garnering over 33,000 likes, alleged that U.S. Secretary of State Marco Rubio personally issued the revocation on October 16, 2025, barring the general from entering American soil. The narrative painted a picture of escalating tensions, with the general's alleged ties to sanctioned Brazilian Supreme Court Justice Alexandre de Moraes as the smoking gun. But as fact-checkers and official statements have swiftly clarified, this story is nothing more than a fabrication—a classic case of misinformation exploiting genuine geopolitical frictions.
 

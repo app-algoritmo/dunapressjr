@@ -1,11 +1,12 @@
 ---
-title: "Arquivo Nacional adere ao programa TransformaGov"
+title: Arquivo Nacional adere ao programa TransformaGov
 date: 2020-04-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Órgão do Ministério da Justiça e Segurança Pública (MJSP), o Arquivo Nacional assinou na quinta-feira (16), sua adesão ao Programa de Gestão Estratégica e Transformação do Estado - TransformaGov, do Ministério da Economia. O programa propõe medidas de eficiência a partir de cinco pilares: governança e gestão estratégica; serviços aos cidadão e ao Governo Federal; gestão de pessoal; processos internos e estruturas organizacionais. Essas medidas foram consolidadas no Plano de Gestão Estratégica e Transformação Institucional do Arquivo Nacional, com validade até 2022, elaborado em conformidade com o Planejamento Estratégico da instituição .
 

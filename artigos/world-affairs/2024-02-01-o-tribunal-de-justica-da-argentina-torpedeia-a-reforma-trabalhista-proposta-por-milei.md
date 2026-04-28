@@ -1,11 +1,13 @@
 ---
-title: "O Tribunal de Justiça da Argentina torpedeia a reforma trabalhista proposta por Milei"
+title: O Tribunal de Justiça da Argentina torpedeia a reforma trabalhista proposta
+  por Milei
 date: 2024-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um tribunal argentino [decidiu](https://www.vozdeamerica.com/a/argentina-corte-de-apelaciones-inconstitucional-reforma-laboral-milei/7463831.html) que a reforma laboral que o presidente [Javier Milei](https://gaceta.es/iberosfera/el-gobierno-argentino-reduce-la-ley-omnibus-de-664-articulos-a-384-para-aprobarla-cuanto-antes-20240129-1238/) tentou implementar por decreto **é inconstitucional** , desferindo o mais recente golpe nos seus planos de reformar a economia do país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rede Ebserh alerta população para sinais do câncer de cabeça e pescoço"
+title: Rede Ebserh alerta população para sinais do câncer de cabeça e pescoço
 date: 2020-07-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Médico do Huac-UFCG/Ebserh explica que prevenção dos tumores passa pela mudança de hábitos nocivos.
 

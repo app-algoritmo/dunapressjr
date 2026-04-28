@@ -1,11 +1,12 @@
 ---
-title: "Empresa israelense lança aplicativo para ajudar a limpar mentes angustiadas"
+title: Empresa israelense lança aplicativo para ajudar a limpar mentes angustiadas
 date: 2021-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O novo aplicativo 'MindReset' usa tecnologia de rastreamento ocular móvel exclusiva para ajudar a curar traumas.
 

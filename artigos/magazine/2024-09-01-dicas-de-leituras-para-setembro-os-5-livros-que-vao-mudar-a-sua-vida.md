@@ -1,11 +1,12 @@
 ---
-title: "Dicas de leituras para Setembro: Os 5 Livros Que Vão Mudar a Sua Vida"
+title: 'Dicas de leituras para Setembro: Os 5 Livros Que Vão Mudar a Sua Vida'
 date: 2024-09-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Se você está buscando maneiras de transformar sua vida em setembro, nada melhor do que começar com leituras que oferecem insights poderosos e práticos. Estes cinco livros não só oferecem conhecimento, mas também estratégias que você pode aplicar imediatamente para ver mudanças reais. Prepare-se para uma jornada de autodescoberta, foco e crescimento com estas leituras essenciais.
 

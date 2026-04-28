@@ -1,11 +1,12 @@
 ---
-title: "Brasil comemora a abertura do mercado canadense para carne brasileira"
+title: Brasil comemora a abertura do mercado canadense para carne brasileira
 date: 2022-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministra da Agricultura está em missão no Canadá.
 

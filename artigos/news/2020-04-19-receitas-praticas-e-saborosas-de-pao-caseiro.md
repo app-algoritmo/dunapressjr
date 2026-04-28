@@ -1,11 +1,12 @@
 ---
-title: "Receitas  práticas e saborosas de Pão Caseiro"
+title: Receitas  práticas e saborosas de Pão Caseiro
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atenção, frase com potencial de despertar sensações: pão quentinho, saindo do forno. Sabe esse cheiro característico e cheio de nostalgia? Ele pode acontecer aí na sua casa! Afinal, nada melhor que preparar um café da manhã ou lanche da tarde com aquele tão amado pãozinho feito por você. Melhor ainda se for acompanhado de um café feito na hora!
 

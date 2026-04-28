@@ -1,12 +1,13 @@
 ---
-title: "Vai viajar com seu pet? Especialista indica cuidados necessários"
+title: Vai viajar com seu pet? Especialista indica cuidados necessários
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Com a chegada das férias de verão e festas de fim de ano, muitas famílias decidem viajar para aproveitar o descanso em outros locais. Em muitos casos, as pessoas que têm animais de estimação em casa não tem com quem deixá-los, e não resta outra opção a não ser levá-los para a viagem.
 

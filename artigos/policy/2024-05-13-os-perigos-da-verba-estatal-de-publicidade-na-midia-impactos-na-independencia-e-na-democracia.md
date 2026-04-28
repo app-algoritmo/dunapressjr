@@ -1,11 +1,13 @@
 ---
-title: "Os Perigos da Verba Estatal de Publicidade na Mídia: Impactos na Independência e na Democracia"
+title: 'Os Perigos da Verba Estatal de Publicidade na Mídia: Impactos na Independência
+  e na Democracia'
 date: 2024-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A mídia desempenha um papel fundamental na sociedade democrática, fornecendo informações, fiscalizando o poder público e promovendo o debate público. No entanto, quando a verba estatal de publicidade entra em jogo, surgem preocupações sérias sobre a independência e imparcialidade da imprensa. Este artigo explora os perigos associados ao uso da verba estatal de publicidade na mídia e seus impactos na democracia.
 

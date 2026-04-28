@@ -1,11 +1,12 @@
 ---
-title: "Sede Assassina"
+title: Sede Assassina
 date: 2023-08-04
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escolher um filme para assistir fora dos canais de streaming é sem dúvida uma aventura. É pode ser boa. Geralmente quando quero descobrir filmes novos vou para o Youtube e procuro trailers e lançamentos. Isso abre um leque de opções fora das indicações padrões pois tem muita coisa fora dos canais de streaming que são boas escolhas para uma noite de sábado.
 

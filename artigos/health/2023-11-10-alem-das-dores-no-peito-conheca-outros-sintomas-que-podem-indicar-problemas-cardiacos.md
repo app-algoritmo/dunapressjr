@@ -1,11 +1,13 @@
 ---
-title: "Além das dores no peito: conheça outros sintomas que podem indicar problemas cardíacos"
+title: 'Além das dores no peito: conheça outros sintomas que podem indicar problemas
+  cardíacos'
 date: 2023-11-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Dores nas costas, na mandíbula e no estômago, além de inchaço nas pernas e abdômen são sinais de atenção para a saúde do coração.
 

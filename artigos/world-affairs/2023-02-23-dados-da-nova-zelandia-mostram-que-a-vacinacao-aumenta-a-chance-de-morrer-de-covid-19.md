@@ -1,11 +1,13 @@
 ---
-title: "Dados da Nova Zelândia mostram que a vacinação aumenta a chance de morrer de Covid-19"
+title: Dados da Nova Zelândia mostram que a vacinação aumenta a chance de morrer de
+  Covid-19
 date: 2023-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Por fim, dados claros do governo da Nova Zelândia mostram que quanto mais você for vacinado, maior a probabilidade de morrer de COVID. Isso é o oposto do que as autoridades de saúde dos EUA e a comunidade médica têm nos dito.
 

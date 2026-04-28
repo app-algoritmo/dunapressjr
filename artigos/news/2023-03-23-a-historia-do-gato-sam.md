@@ -1,11 +1,12 @@
 ---
-title: "A História do Gato Sam"
+title: A História do Gato Sam
 date: 2023-03-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Você sabia que na Segunda Guerra Mundial as tropas aliadas afundaram o navio alemão Bismarck com 2200 soldados a bordo. Entre os sobreviventes existiram apenas 115 pessoas e especialmente um animal, os ingleses encontraram um gato flutuando que viajava no Bismarck.
 Ele foi resgatado e deu-lhe o nome de ′′ O Insumerível Sam ", que passou a ser parte da tripulação do navio inglês. Aquele navio também foi atacado e, de novo, Sam sobreviveu.

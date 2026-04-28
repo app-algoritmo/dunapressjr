@@ -1,11 +1,12 @@
 ---
-title: "Picos de proteína induzidos por vacinas são assustadoramente tóxicos"
+title: Picos de proteína induzidos por vacinas são assustadoramente tóxicos
 date: 2023-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A proteína spike, que o corpo humano produz em excesso por meio das nanopartículas de RNA mensageiro da vacina, é altamente tóxica. 
 

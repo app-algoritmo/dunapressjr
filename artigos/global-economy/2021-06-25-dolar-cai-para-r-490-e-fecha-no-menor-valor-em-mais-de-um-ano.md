@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 4,90 e fecha no menor valor em mais de um ano"
+title: Dólar cai para R$ 4,90 e fecha no menor valor em mais de um ano
 date: 2021-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,85% e volta a encostar nos 130 mil pontos.
 

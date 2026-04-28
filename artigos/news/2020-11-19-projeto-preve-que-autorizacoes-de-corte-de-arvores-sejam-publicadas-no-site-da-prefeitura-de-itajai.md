@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê que autorizações de corte de árvores sejam publicadas no site da Prefeitura de Itajaí"
+title: Projeto prevê que autorizações de corte de árvores sejam publicadas no site
+  da Prefeitura de Itajaí
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A publicação deverá ser feita com antecedência mínima de 15 dias do serviço.
 

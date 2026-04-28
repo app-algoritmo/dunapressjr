@@ -1,11 +1,12 @@
 ---
-title: "Cuidados com os primeiros dentes do bebê"
+title: Cuidados com os primeiros dentes do bebê
 date: 2021-10-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O nascimento dos **dentes do bebê** é um marco muito importante no processo de desenvolvimento da criança. 
 

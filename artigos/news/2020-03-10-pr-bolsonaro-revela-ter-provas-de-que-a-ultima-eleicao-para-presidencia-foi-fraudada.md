@@ -1,11 +1,13 @@
 ---
-title: "PR Bolsonaro revela ter provas de que a última eleição para presidência foi fraudada"
+title: PR Bolsonaro revela ter provas de que a última eleição para presidência foi
+  fraudada
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Fui eleito em primeiro turno, mas no meu entender houve fraude’, afirma Bolsonaro
 

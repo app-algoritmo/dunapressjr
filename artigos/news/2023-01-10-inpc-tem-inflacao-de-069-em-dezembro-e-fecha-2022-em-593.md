@@ -1,11 +1,12 @@
 ---
-title: "INPC tem inflação de 0,69% em dezembro e fecha 2022 em 5,93%"
+title: INPC tem inflação de 0,69% em dezembro e fecha 2022 em 5,93%
 date: 2023-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do ano, os alimentos tiveram taxa de 11,91%.
 

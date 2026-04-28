@@ -1,11 +1,12 @@
 ---
-title: "BNDES lança inclusão de MEIs em programa emergencial de crédito"
+title: BNDES lança inclusão de MEIs em programa emergencial de crédito
 date: 2022-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Operação terá vigência até dezembro de 2023.
 

@@ -1,11 +1,12 @@
 ---
-title: "Imagens Impactantes dos Horrores Cometidos pelo Hamas"
+title: Imagens Impactantes dos Horrores Cometidos pelo Hamas
 date: 2023-10-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **Revelando a Verdade por Trás das Lentes:**
 

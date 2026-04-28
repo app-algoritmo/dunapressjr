@@ -1,11 +1,13 @@
 ---
-title: "Carlson alerta: Entrar em guerra com a Rússia destruiria EUA e possivelmente Hungria"
+title: 'Carlson alerta: Entrar em guerra com a Rússia destruiria EUA e possivelmente
+  Hungria'
 date: 2024-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O jornalista norte-americano Tucker Carlson lançou um alerta preocupante em seu site na quinta-feira, ao divulgar uma entrevista com o conselheiro político do primeiro-ministro húngaro, Viktor Orban, Balazs Orban. De acordo com Orban, a Hungria poderia se encontrar envolvida em um conflito direto entre a OTAN e a Rússia, descrevendo-o como "o pior cenário possível". Ele ressaltou a falta de força para impedir tal desfecho.
 

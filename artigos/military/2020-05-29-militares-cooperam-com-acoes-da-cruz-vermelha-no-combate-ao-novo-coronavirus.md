@@ -1,11 +1,12 @@
 ---
-title: "Militares cooperam com ações da Cruz Vermelha no combate ao novo coronavírus"
+title: Militares cooperam com ações da Cruz Vermelha no combate ao novo coronavírus
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas realizam ações em parceria com diversas instituições e organizações para o enfrentamento à Covid-19. No Comando Militar do Sudeste, militares do 8º Batalhão de Polícia do Exército apoiam a Cruz Vermelha de São Paulo. A ação consiste na organização, triagem e preparação de kits de alimentação, de higiene e de limpeza destinados à população em situação de vulnerabilidade social.
 

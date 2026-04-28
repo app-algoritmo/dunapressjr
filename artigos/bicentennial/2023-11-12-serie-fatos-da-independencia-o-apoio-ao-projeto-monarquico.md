@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O apoio ao projeto monárquico"
+title: 'Série Fatos Da Independência: O apoio ao projeto monárquico'
 date: 2023-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Após a elevação do Brasil a Reino Unido em 1815, culminando em maior autonomia das capitanias, muitos recusavam a possibilidade de o Brasil retornar ao estatuto de colônia. O governo da Paraíba expressou apoio à permanência de Dom Pedro no Brasil e tratou de reconhecer a legitimidade de seu governo. Quando Dom Pedro decretou a formação de um Conselho Geral de Procuradores das Províncias em 16 de abril de 1822, a Junta da Paraíba enviou um representante, sendo a única província da atual região Nordeste a apoiar essa iniciativa. Por fim, no dia 8 de outubro de 1822 a província da Paraíba declarou seu desligamento de Portugal e aderiu, de uma vez por todas, ao Brasil independente. A Paraíba contribuiu militarmente com a Independência, enviando soldados para a Bahia e o Piauí, com o objetivo de expulsar as tropas portuguesas. O governo da província também atendeu ao pedido de ajuda do Ceará e enviou homens para lidar com insurgentes contrários à independência nas vilas de Icó e Crato.
 

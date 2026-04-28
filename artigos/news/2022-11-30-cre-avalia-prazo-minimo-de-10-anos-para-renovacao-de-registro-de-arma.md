@@ -1,11 +1,12 @@
 ---
-title: "CRE avalia prazo mínimo de 10 anos para renovação de registro de arma"
+title: CRE avalia prazo mínimo de 10 anos para renovação de registro de arma
 date: 2022-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Relações Exteriores e Defesa Nacional (CRE) tem nove projetos em pauta para análise na quarta-feira (30), às 10h. Entre eles, o [PLS 367/2018](http://https://www25.senado.leg.br/web/atividade/materias/-/materia/134195), que altera o [Estatuto do Desarmamento](http://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-12-22;10826) a fim de aumentar para 10 anos o prazo mínimo para renovação do Certificado de Registro de Arma de Fogo (Craf).
 

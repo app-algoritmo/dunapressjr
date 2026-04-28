@@ -1,11 +1,12 @@
 ---
-title: "Impacto de nova regra fiscal sobre juros ainda será avaliado, diz BC"
+title: Impacto de nova regra fiscal sobre juros ainda será avaliado, diz BC
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Arcabouço fiscal foi apresentado nesta quinta-feira pela Fazenda.
 

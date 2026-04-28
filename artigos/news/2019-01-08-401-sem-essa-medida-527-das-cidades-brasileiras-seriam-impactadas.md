@@ -1,11 +1,12 @@
 ---
-title: "4.01 Sem essa medida, 52,7% das cidades brasileiras seriam impactadas"
+title: 4.01 Sem essa medida, 52,7% das cidades brasileiras seriam impactadas
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente sanciona lei que mantém repasses a municípios com redução populacional
 

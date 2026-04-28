@@ -1,11 +1,12 @@
 ---
-title: "Biden está prestes a declarar uma “emergência climática”"
+title: Biden está prestes a declarar uma “emergência climática”
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Joe Biden está “perto de assinar uma ordem executiva para declarar uma “emergência climática” que daria ao presidente democrata novos poderes para impor bloqueios e outras medidas tirânicas para salvar o “planeta” do “aquecimento global”. tanque.
 

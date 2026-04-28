@@ -1,11 +1,12 @@
 ---
-title: "Irã negocia acordo de 25 anos com a China"
+title: Irã negocia acordo de 25 anos com a China
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O FM iraniano Zarif insiste 'nada de secreto' sobre um possível acordo com Pequim, diz que os detalhes serão publicados assim que finalizados.
 

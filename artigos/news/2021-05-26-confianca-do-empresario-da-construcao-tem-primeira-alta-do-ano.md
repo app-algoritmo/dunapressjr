@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário da construção tem primeira alta do ano"
+title: Confiança do empresário da construção tem primeira alta do ano
 date: 2021-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice chegou a 87,2 pontos, em escala de zero a 200 pontos, diz FGV.
 

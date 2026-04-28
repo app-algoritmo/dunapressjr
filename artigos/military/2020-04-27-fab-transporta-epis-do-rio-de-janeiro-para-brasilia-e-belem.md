@@ -1,11 +1,12 @@
 ---
-title: "FAB transporta EPIs do Rio de Janeiro para Brasília e Belém"
+title: FAB transporta EPIs do Rio de Janeiro para Brasília e Belém
 date: 2020-04-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) realizou, no sábado (25) e neste domingo (26), uma missão de Transporte Aéreo Logístico em apoio à Operação COVID-19. A aeronave C-105 Amazonas, pertencente ao Primeiro Esquadrão do Décimo Quinto Grupo de Aviação (1°/15° GAV) – Esquadrão Onça, transportou 3,4 toneladas de Equipamentos de Proteção Individual (EPIs), do Rio de Janeiro (RJ) para Brasília (DF) e Belém (PA). A missão foi coordenada pelo Comando de Operações Aeroespaciais (COMAE) junto ao Centro de Operações Conjuntas (COC) do Ministério da Defesa, em apoio ao Ministério da Saúde.
 

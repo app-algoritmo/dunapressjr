@@ -1,11 +1,13 @@
 ---
-title: "Operação Homem Anjo realiza apreensão de 8 embarcações preparadas para o transporte de ilícitos"
+title: Operação Homem Anjo realiza apreensão de 8 embarcações preparadas para o transporte
+  de ilícitos
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – A Polícia Federal em Guaíra deflagrou, em Guaíra/PR, hoje (20/5), a Operação Homem Anjo, buscando responsabilizar os envolvidos no atentado contra o militar do Exército Brasileiro, no último dia 10.
 

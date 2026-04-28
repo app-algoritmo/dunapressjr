@@ -1,11 +1,12 @@
 ---
-title: "Projeto de Lei cria programa para financiar ações de combate às mudanças climáticas"
+title: Projeto de Lei cria programa para financiar ações de combate às mudanças climáticas
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2860/22 cria o Programa de Financiamento do Combate às Mudanças Climáticas, para destinar recursos a ações ambientais, como preservação de biomas, projetos de desenvolvimento sustentável ou aproveitamento sustentável dos recursos naturais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nova versão acadêmica de Mein Kampf lançada na França"
+title: Nova versão acadêmica de Mein Kampf lançada na França
 date: 2021-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Nova versão adiciona notas críticas de historiadores que desmascaram o ponto de vista de Hitler ao longo do texto.
 

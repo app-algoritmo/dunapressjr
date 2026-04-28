@@ -1,11 +1,12 @@
 ---
-title: "Vice-Primeiro-Ministro Chinês e Ministro Francês Discutem Cooperação Econômica"
+title: Vice-Primeiro-Ministro Chinês e Ministro Francês Discutem Cooperação Econômica
 date: 2024-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Na sexta-feira, o vice-primeiro-ministro chinês, He Lifeng, realizou conversas online com o ministro da Economia e Finanças e Soberania Industrial e Digital da França, Bruno Le Maire, em resposta a um convite deste último.
 

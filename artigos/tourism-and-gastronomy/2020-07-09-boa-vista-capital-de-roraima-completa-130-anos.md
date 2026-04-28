@@ -1,11 +1,12 @@
 ---
-title: "Boa Vista, capital de Roraima, completa 130 anos"
+title: Boa Vista, capital de Roraima, completa 130 anos
 date: 2020-07-09
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Situada às margens do rio Branco, a capital mais ao norte do Brasil encanta por suas riquezas naturais.
 

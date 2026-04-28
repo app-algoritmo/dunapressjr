@@ -1,11 +1,13 @@
 ---
-title: "Ex-presidente Trump Expulso das Primárias em Illinois; Planeja Recorrer da Decisão Judicial"
+title: Ex-presidente Trump Expulso das Primárias em Illinois; Planeja Recorrer da
+  Decisão Judicial
 date: 2024-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, enfrenta mais um revés político, desta vez em Illinois, onde foi expulso das primárias após uma decisão judicial. A junta eleitoral do estado, apenas um mês antes, havia se recusado a retirá-lo das primárias, alegando falta de jurisdição para resolver o desafio legal.
 

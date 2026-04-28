@@ -1,11 +1,12 @@
 ---
-title: "TCU aprova concessão do metrô de Belo Horizonte/MG"
+title: TCU aprova concessão do metrô de Belo Horizonte/MG
 date: 2022-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Publicação do edital deve ocorrer em setembro e o leilão em novembro
 

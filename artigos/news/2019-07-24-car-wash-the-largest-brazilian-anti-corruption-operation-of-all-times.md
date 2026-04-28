@@ -1,11 +1,12 @@
 ---
-title: "Car Wash, the largest Brazilian anti-corruption operation of all times"
+title: Car Wash, the largest Brazilian anti-corruption operation of all times
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 On March 17, 2014, Federal Police of Brazil launched an operation that would later be known as Lava Jato (Car Wash), which fused four investigations that scrutinize financial crimes and misappropriation of public funds.
 

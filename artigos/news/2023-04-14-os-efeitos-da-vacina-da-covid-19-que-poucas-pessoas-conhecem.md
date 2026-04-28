@@ -1,11 +1,12 @@
 ---
-title: "Os efeitos da vacina da COVID-19 que poucas pessoas conhecem"
+title: Os efeitos da vacina da COVID-19 que poucas pessoas conhecem
 date: 2023-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Qual é o registro do grave impacto da campanha de vacinação contra a COVID-19? O Vaccine Damage Project 2022 revela os verdadeiros custos humanos e econômicos, que são piores do que a maioria das pessoas imagina.
 

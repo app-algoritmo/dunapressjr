@@ -1,11 +1,12 @@
 ---
-title: "Kajuru questiona valor do fundo eleitoral em 2024"
+title: Kajuru questiona valor do fundo eleitoral em 2024
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) chamou a atenção para a articulação feita no Congresso Nacional para definir o valor do fundo eleitoral em 2024, ano em que ocorrerão as eleições municipais. Em pronunciamento nesta segunda-feira (23), o parlamentar disse estranhar o valor de R$ 993 milhões proposto pelo Executivo no Projeto de Lei Orçamentária 2024 ([PLN 29/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/159659)). Segundo o senador, o número representa menos da metade do montante de 2020, ano das últimas eleições municipais, quando o valor chegou a R$ 2 bilhões.
 

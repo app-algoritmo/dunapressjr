@@ -1,11 +1,13 @@
 ---
-title: "Agência Fluvial de Penedo inicia operação de sistema de geração de energia solar"
+title: Agência Fluvial de Penedo inicia operação de sistema de geração de energia
+  solar
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Agência Fluvial de Penedo (AgPenedo) deu início, no dia 30 de abril, à operação do seu sistema de geração de energia solar fotovoltaica, com a substituição do medidor convencional de consumo de energia por um medidor digital bidirecional.
 

@@ -1,11 +1,12 @@
 ---
-title: "Netflix lança episódio surpresa de Sandman"
+title: Netflix lança episódio surpresa de Sandman
 date: 2022-08-22
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Um Sonho de Mil Gatos e Calíope
 

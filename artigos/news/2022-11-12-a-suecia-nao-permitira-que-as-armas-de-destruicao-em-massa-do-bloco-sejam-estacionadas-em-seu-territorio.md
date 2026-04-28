@@ -1,11 +1,13 @@
 ---
-title: "A Suécia não permitirá que as armas de destruição em massa do bloco sejam estacionadas em seu território"
+title: A Suécia não permitirá que as armas de destruição em massa do bloco sejam estacionadas
+  em seu território
 date: 2022-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Esperança da OTAN revela posição sobre hospedar armas nucleares.
 

@@ -1,11 +1,12 @@
 ---
-title: "Linha de crédito emergencial atinge R$ 495 milhões"
+title: Linha de crédito emergencial atinge R$ 495 milhões
 date: 2020-06-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Valor foi contratado até o dia 12 de junho, segundo relatório do Banco do Nordeste.
 

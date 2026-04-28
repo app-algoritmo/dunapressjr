@@ -1,11 +1,12 @@
 ---
-title: "Combatentes iraquianos atacam posições dos EUA no leste e nordeste da Síria"
+title: Combatentes iraquianos atacam posições dos EUA no leste e nordeste da Síria
 date: 2024-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Resistência Islâmica no Iraque (IRI) lançou uma nova ronda de ataques contra posições militares dos EUA na Síria.
 

@@ -1,11 +1,12 @@
 ---
-title: "Plano de paz Israel-Palestina Proposto pelo PR Donald Trump"
+title: Plano de paz Israel-Palestina Proposto pelo PR Donald Trump
 date: 2020-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O governo Trump divulgou na terça-feira seu tão esperado plano de paz para seu aliado Israel e o povo palestino. Apelidado de  "Acordo do Século".
 

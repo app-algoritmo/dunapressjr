@@ -1,11 +1,13 @@
 ---
-title: "Inflação na Argentina é a terceira pior do mundo, segundo levantamento da Revista Oeste"
+title: Inflação na Argentina é a terceira pior do mundo, segundo levantamento da Revista
+  Oeste
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do FMI mostram que aumento do custo de vida para argentinos foi de 94,7% em 2022, pior do que o de 188 países.
 

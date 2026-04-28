@@ -1,11 +1,12 @@
 ---
-title: "Projeto determina a apreensão de todos os bens usados em crime ambiental"
+title: Projeto determina a apreensão de todos os bens usados em crime ambiental
 date: 2023-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 809/23 altera a [Lei de Crimes Ambientais](https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-publicacaooriginal-1-pl.html) para prever a apreensão de todo os instrumentos, como máquinas, equipamentos e veículos, utilizados em infração ambiental, independentemente de uso específico, exclusivo e habitual para a prática criminosa. A proposta está sendo analisada pela Câmara dos Deputados.
 

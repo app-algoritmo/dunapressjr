@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa vai apurar hábitos de vida, alimentação e estresse durante a pandemia"
+title: Pesquisa vai apurar hábitos de vida, alimentação e estresse durante a pandemia
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Está disponível para qualquer indivíduo maior de 18 anos, até o dia 4 de setembro, o questionário online [Hábitos de vida, alimentação, comportamento alimentar e percepção de estresse durante a pandemia](https://docs.google.com/forms/d/e/1FAIpQLSfzdeo2qvIg-7ukqDpxa3jKuPA6YIHyQ85LItKqf-b3ey6dsw/viewform).
 

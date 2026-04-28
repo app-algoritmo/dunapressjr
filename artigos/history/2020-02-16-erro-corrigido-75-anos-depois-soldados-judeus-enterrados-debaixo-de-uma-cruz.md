@@ -1,11 +1,12 @@
 ---
-title: "Erro corrigido 75 anos depois, soldados judeus enterrados debaixo de uma cruz"
+title: Erro corrigido 75 anos depois, soldados judeus enterrados debaixo de uma cruz
 date: 2020-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Em uma cerimônia emocionante em Manila, cinco lápides de soldados judeus americanos que morreram durante a Segunda Guerra Mundial foram substituídas graças à Operação Benjamin.
 

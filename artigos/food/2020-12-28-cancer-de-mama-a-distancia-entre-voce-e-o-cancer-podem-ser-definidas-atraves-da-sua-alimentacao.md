@@ -1,11 +1,13 @@
 ---
-title: "Câncer de mama: A distância entre você e o câncer podem ser definidas através da sua alimentação"
+title: 'Câncer de mama: A distância entre você e o câncer podem ser definidas através
+  da sua alimentação'
 date: 2020-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Você já ouviu falar muitas vezes da importância da alimentação adequada e saudável para a manutenção da saúde e até mesmo para a prevenção de doenças como obesidade, hipertensão e diabetes. Mas talvez ainda não tenha ouvido falar da relação que a sua comida tem com o surgimento do câncer de mama.
 

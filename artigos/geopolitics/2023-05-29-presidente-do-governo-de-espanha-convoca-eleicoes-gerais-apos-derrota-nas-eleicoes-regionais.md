@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Governo de Espanha convoca eleições gerais após derrota nas eleições regionais"
+title: Presidente do Governo de Espanha convoca eleições gerais após derrota nas eleições
+  regionais
 date: 2023-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Pedro Sánchez anuncia antecipação das eleições legislativas para 23 de julho, após clara derrota do PSOE para a direita.
 

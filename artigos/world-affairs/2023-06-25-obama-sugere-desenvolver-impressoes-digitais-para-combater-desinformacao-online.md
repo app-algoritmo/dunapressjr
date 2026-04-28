@@ -1,11 +1,13 @@
 ---
-title: "Obama sugere desenvolver 'impressões digitais' para combater 'desinformação' online"
+title: Obama sugere desenvolver 'impressões digitais' para combater 'desinformação'
+  online
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Existe uma 'necessidade de, com o tempo, desenvolvermos tecnologias para criar marcas d'água ou impressões digitais para sabermos o que é verdade e o que não é', disse Barack Obama em uma entrevista recente.
 

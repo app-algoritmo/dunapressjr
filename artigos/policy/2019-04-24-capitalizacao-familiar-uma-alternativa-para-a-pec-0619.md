@@ -1,11 +1,12 @@
 ---
-title: "Capitalização familiar, uma alternativa para a PEC 06/19"
+title: Capitalização familiar, uma alternativa para a PEC 06/19
 date: 2019-04-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## ***Proposta de emenda ao art. 201A da PEC 06/2019, para que a capitalização seja complementar (e não substituta) ***
 

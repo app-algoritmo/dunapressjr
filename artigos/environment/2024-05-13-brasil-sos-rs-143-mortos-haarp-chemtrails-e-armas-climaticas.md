@@ -1,11 +1,12 @@
 ---
-title: "Brasil SOS RS: 143 mortos,  HAARP, Chemtrails e Armas Climáticas?"
+title: 'Brasil SOS RS: 143 mortos,  HAARP, Chemtrails e Armas Climáticas?'
 date: 2024-05-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 Uma tragédia assola o Brasil, com devastadoras inundações que tiraram a vida de 143 pessoas até o presente momento segundo dados oficiais, deixando milhares desabrigadas e desencadeando acalorados debates sobre as causas por trás da catástrofe. Enquanto a mídia convencional se apressa em descartar qualquer noção de jogo sujo, questões pairam sobre o papel do HAARP, chemtrails e manipulação do clima nesse desastre.
 

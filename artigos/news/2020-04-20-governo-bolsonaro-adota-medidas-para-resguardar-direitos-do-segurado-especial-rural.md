@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro adota medidas para resguardar direitos do segurado especial rural"
+title: Governo Bolsonaro adota medidas para resguardar direitos do segurado especial
+  rural
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional do Seguro Social (INSS) suspendeu a autenticação de documentos e prazos para cumprimento de exigências dos segurados especiais rurais. A medida visa estabelecer orientações e diretrizes preventivas para evitar o deslocamento de usuários às Agências da Previdência Social durante a pandemia do novo coronavírus.
 

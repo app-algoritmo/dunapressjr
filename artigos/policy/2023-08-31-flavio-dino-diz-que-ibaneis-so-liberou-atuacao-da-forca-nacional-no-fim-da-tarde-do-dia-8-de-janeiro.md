@@ -1,11 +1,13 @@
 ---
-title: "Flávio Dino diz que Ibaneis só liberou atuação da Força Nacional no fim da tarde do dia 8 de janeiro"
+title: Flávio Dino diz que Ibaneis só liberou atuação da Força Nacional no fim da
+  tarde do dia 8 de janeiro
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Segundo orientação do STF, a Força Nacional só pode agir com o aval do governador.
 

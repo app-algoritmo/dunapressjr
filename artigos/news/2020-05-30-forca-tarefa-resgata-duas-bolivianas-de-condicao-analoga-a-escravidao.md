@@ -1,11 +1,12 @@
 ---
-title: "Força tarefa resgata duas bolivianas de condição análoga à escravidão"
+title: Força tarefa resgata duas bolivianas de condição análoga à escravidão
 date: 2020-05-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP - Força tarefa contra o tráfico de pessoas, composta pela Polícia Federal, pelos auditores fiscais do Trabalho do Grupo Especial de Fiscalização Móvel (GEFM) da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, pelo Ministério Público Federal (MPF), pelo Ministério Público do Trabalho (MPT), e pela Secretaria de Justiça e Cidadania do Estado de São Paulo, atuou coordenadamente para o êxito da operação.
 

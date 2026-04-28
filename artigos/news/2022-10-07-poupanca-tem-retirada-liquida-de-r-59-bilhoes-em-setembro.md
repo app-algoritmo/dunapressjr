@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem retirada líquida de R$ 5,9 bilhões em setembro"
+title: Poupança tem retirada líquida de R$ 5,9 bilhões em setembro
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Este ano, saques superam depósitos em R$ 91,07 bilhões.
 

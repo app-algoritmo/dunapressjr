@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova prorrogação da desoneração da folha salarial por quatro anos"
+title: Senado aprova prorrogação da desoneração da folha salarial por quatro anos
 date: 2023-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa estimular a criação de empregos e manter a competitividade de setores-chave na economia brasileira.
 

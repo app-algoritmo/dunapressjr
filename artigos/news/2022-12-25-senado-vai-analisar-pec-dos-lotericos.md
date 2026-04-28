@@ -1,11 +1,12 @@
 ---
-title: "Senado vai analisar PEC dos Lotéricos"
+title: Senado vai analisar PEC dos Lotéricos
 date: 2022-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Senado vai analisar em 2023 a PEC dos Lotéricos ([PEC 43/2022](http://www25.senado.leg.br/web/atividade/materias/-/materia/155501)). Aprovada pela Câmara na quinta-feira (15), a proposta prorroga o prazo de vigência de contratos atuais de todos os agentes lotéricos com a Caixa Econômica Federal. Entre os beneficiados pela prorrogação estão mais de 6 mil lotéricos com contratos firmados antes da Constituição de 1988.
 

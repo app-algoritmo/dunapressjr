@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova limite da alíquota de ICMS sobre combustíveis"
+title: Câmara aprova limite da alíquota de ICMS sobre combustíveis
 date: 2022-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Projeto também limita alíquota para eletricidade e telecomunicações.
 

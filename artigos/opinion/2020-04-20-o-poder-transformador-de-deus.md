@@ -1,11 +1,12 @@
 ---
-title: "O Poder Transformador de Deus"
+title: O Poder Transformador de Deus
 date: 2020-04-20
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Segunda parte da resenha sobre o livro : O peregrino*
 

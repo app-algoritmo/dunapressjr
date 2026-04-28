@@ -1,11 +1,13 @@
 ---
-title: "Projeto torna obrigatória equiparação salarial entre homens e mulheres para funções idênticas"
+title: Projeto torna obrigatória equiparação salarial entre homens e mulheres para
+  funções idênticas
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 111/23 torna obrigatória a equiparação salarial entre homens e mulheres para funções ou cargos idênticos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo regulamenta acolhimento de adolescentes em comunidades terapêuticas"
+title: Governo regulamenta acolhimento de adolescentes em comunidades terapêuticas
 date: 2020-07-08
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## A reunião também reforçou a posição brasileira contrária ao relaxamento de políticas internacionais de drogas.
 

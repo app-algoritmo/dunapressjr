@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova isenção de Imposto de Renda para bolsas de universidades privadas"
+title: CCJ aprova isenção de Imposto de Renda para bolsas de universidades privadas
 date: 2022-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, em caráter conclusivo, o [Projeto de Lei 846/11](https://www.camara.leg.br/noticias/219805-projeto-isenta-de-ir-bolsas-de-estudo-de-entidades-privadas), do deputado [Hugo Leal (PSD-RJ)](https://www.camara.leg.br/deputados/141450), que concede isenção do Imposto de Renda a bolsa de estudos para alunos ou docentes de entidades públicas ou privadas de fomento. A proposta seguirá para o Senado, caso não haja recurso para votação no Plenário.
 

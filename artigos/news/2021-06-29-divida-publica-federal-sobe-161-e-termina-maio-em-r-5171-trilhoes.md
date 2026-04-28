@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública Federal sobe 1,61% e termina maio em R$ 5,171 trilhões"
+title: Dívida Pública Federal sobe 1,61% e termina maio em R$ 5,171 trilhões
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Títulos com mais de cinco anos alcançaram 20% da composição de vencimentos da DPF, ante 19,4% em abril.
 

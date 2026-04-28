@@ -1,11 +1,13 @@
 ---
-title: "Por que o principal espião do presidente Biden está participando de uma simulação de pandemia?"
+title: Por que o principal espião do presidente Biden está participando de uma simulação
+  de pandemia?
 date: 2023-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Em seu livro The Real Anthony Fauci, Robert F. Kennedy Jr. fala sobre o Evento 201, uma simulação de pandemia em outubro de 2019 em Nova York. O evento foi financiado por Bill Gates, o Fórum Econômico Mundial e o Centro de Controle e Prevenção de Doenças da China.
 

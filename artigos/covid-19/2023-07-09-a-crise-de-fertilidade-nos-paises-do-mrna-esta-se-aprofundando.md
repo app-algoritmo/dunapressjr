@@ -1,11 +1,12 @@
 ---
-title: "A crise de fertilidade nos países do mRNA está se aprofundando"
+title: A crise de fertilidade nos países do mRNA está se aprofundando
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Por que a queda de nascimentos após 2021 não está sendo estudada?
 

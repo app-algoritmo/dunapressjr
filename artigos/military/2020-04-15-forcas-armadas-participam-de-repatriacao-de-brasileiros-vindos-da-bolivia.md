@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas participam de repatriação de brasileiros vindos da Bolívia"
+title: Forças Armadas participam de repatriação de brasileiros vindos da Bolívia
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Brasileiros que estão no exterior continuam sendo repatriados pelo governo brasileiro com apoio das Forças Armadas, na Operação COVID-19. Nesse último final de semana, mais seis ônibus vindos da Bolívia chegaram a Corumbá (MS). Até terça-feira (14), está prevista a chegada de mais oito ônibus com brasileiros que estão na Bolívia e não conseguiram regressar ao Brasil, devido à pandemia do novo Coronavírus.
 

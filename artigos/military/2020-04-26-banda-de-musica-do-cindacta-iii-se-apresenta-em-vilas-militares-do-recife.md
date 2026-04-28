@@ -1,11 +1,12 @@
 ---
-title: "Banda de música do CINDACTA III se apresenta em vilas militares do Recife"
+title: Banda de música do CINDACTA III se apresenta em vilas militares do Recife
 date: 2020-04-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Integrantes da Banda de Música do Terceiro Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo (CINDACATA III) proporcionaram aos moradores das Vilas Militares da Guarnição de Aeronáutica de Recife (GUARNAE-RF) uma apresentação especial. A intenção foi elevar o sentimento de esperança, patriotismo e interação durante o momento de isolamento social provocado pela COVID-19.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente sérvio alerta para tendência de militarização total no Ocidente em confronto com a Rússia"
+title: Presidente sérvio alerta para tendência de militarização total no Ocidente
+  em confronto com a Rússia
 date: 2024-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente sérvio, Aleksandar Vucic, emitiu um alerta contundente sobre a crescente militarização no Ocidente, enfatizando a intenção de derrotar a Rússia através do desenvolvimento e expansão do seu poderio militar. Durante uma visita ao Instituto Técnico Militar de Belgrado, Vucic expressou preocupação com a atual escalada militar e a política agressiva de alguns países ocidentais.
 

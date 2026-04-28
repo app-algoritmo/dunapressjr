@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra saldo positivo de 2,6 milhões novas empresas em 2021"
+title: Brasil registra saldo positivo de 2,6 milhões novas empresas em 2021
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tempo médio de abertura de novos negócios no país caiu para 2 dias.
 

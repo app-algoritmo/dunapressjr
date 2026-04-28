@@ -1,11 +1,13 @@
 ---
-title: "Para não perder clientes em um clique, empresas traçam estratégias humanizadas e escalam negócios"
+title: Para não perder clientes em um clique, empresas traçam estratégias humanizadas
+  e escalam negócios
 date: 2022-08-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de um terço dos consumidores consideram a possibilidade de romper com uma marca depois de uma experiência ruim. A pesquisa da Sitel *Group* mostra que oferecer bons produtos já não é mais suficiente para deixar o consumidor feliz. Num mercado altamente competitivo e dinâmico, as empresas precisam melhorar cada vez mais o relacionamento com os clientes. Mas as formas de garantir a atração e a retenção mudaram radicalmente. O público demanda atendimento *omnichannel* e experiências humanizadas.
 

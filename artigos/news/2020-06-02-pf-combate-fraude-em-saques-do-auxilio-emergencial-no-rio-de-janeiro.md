@@ -1,11 +1,12 @@
 ---
-title: "PF combate fraude em saques do auxílio emergencial no Rio de Janeiro"
+title: PF combate fraude em saques do auxílio emergencial no Rio de Janeiro
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Nesta segunda-feira (1/6), policiais federais prenderam em flagrante um homem, de 23 anos, no momento em que tentava sacar benefícios do auxílio emergencial do Governo em nome de outras pessoas. O flagrante ocorreu na agência da CEF - Caixa Econômica Federal - localizada no Jardim Sulacap, bairro da Zona Oeste do município do Rio de Janeiro.
 

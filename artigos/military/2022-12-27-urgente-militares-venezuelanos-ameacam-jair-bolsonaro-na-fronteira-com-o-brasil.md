@@ -1,13 +1,15 @@
 ---
-title: "Urgente: Militares venezuelanos ameaçam Jair Bolsonaro na fronteira com o Brasil"
+title: 'Urgente: Militares venezuelanos ameaçam Jair Bolsonaro na fronteira com o
+  Brasil'
 date: 2022-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Policy
+- Military
+- News
+- Policy
 ---
+
 
 Em vídeo militares das forças especiais do exército venezuelano fazem ameaças ao presidente Jair Bolsonaro na fronteira em Pacaraima.
 

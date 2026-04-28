@@ -1,11 +1,12 @@
 ---
-title: "A medicação forçada de todos os cidadãos"
+title: A medicação forçada de todos os cidadãos
 date: 2023-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *a maioria dos homens e mulheres crescerá amando sua escravidão e nunca sonhará com uma revolução.”
 Aldous Huxley, Admirável Mundo Novo*

@@ -1,11 +1,12 @@
 ---
-title: "Como a indústria farmacêutica está lidando com a queda na aceitação de vacinas"
+title: Como a indústria farmacêutica está lidando com a queda na aceitação de vacinas
 date: 2023-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Embora não haja evidências, afirma-se que essas 3 vacinas protegem contra o COVID-19. 
 

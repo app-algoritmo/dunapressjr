@@ -1,11 +1,12 @@
 ---
-title: "Indicador de Incerteza da Economia recua em dezembro"
+title: Indicador de Incerteza da Economia recua em dezembro
 date: 2020-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pico de incerteza ocorreu no mês de abril.
 

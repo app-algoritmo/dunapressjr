@@ -1,11 +1,12 @@
 ---
-title: "Assista: Eclipse Solar Total Transmitido pela NASA em Duna Press!"
+title: 'Assista: Eclipse Solar Total Transmitido pela NASA em Duna Press!'
 date: 2024-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Astronomy
+- Astronomy
 ---
+
 
 Chegou o grande dia, 8 de abril de 2024, um espetáculo celestial, pois um eclipse solar total irá brindar os céus da América do Norte. Este fenômeno impressionante atravessará o México, passará pelos Estados Unidos, de Texas a Maine, e depois sairá graciosamente pela costa atlântica do Canadá. Para observadores do céu e entusiastas da astronomia, isso representa uma rara oportunidade de testemunhar a magia do universo.
 

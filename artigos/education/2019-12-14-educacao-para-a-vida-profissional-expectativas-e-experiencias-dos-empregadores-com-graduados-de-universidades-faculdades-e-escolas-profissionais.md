@@ -1,12 +1,14 @@
 ---
-title: "Educação para a vida profissional: expectativas e experiências dos empregadores com graduados de universidades, faculdades e escolas profissionais"
+title: 'Educação para a vida profissional: expectativas e experiências dos empregadores
+  com graduados de universidades, faculdades e escolas profissionais'
 date: 2019-12-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 ## Como usar o recurso de gerenciamento de conteúdo: provedores de acesso a recursos para usuários com o intuito de procurar universitários, Professores e profissionais de saúde
 

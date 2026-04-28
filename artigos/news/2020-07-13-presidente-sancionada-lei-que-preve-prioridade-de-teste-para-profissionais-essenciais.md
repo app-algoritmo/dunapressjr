@@ -1,11 +1,13 @@
 ---
-title: "Presidente sancionada lei que prevê prioridade de teste para profissionais essenciais"
+title: Presidente sancionada lei que prevê prioridade de teste para profissionais
+  essenciais
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é preservar a saúde e a vida de todos os profissionais considerados essenciais ao controle do novo coronavírus.
 

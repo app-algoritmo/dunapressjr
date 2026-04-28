@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra saldo positivo de US$ 8,06 bi no mês de julho"
+title: Balança comercial registra saldo positivo de US$ 8,06 bi no mês de julho
 date: 2020-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 É o maior superávit para um único mês desde o início da série histórica.
 

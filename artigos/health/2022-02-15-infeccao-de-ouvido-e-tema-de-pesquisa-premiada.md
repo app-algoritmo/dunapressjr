@@ -1,11 +1,12 @@
 ---
-title: "Infecção de ouvido é tema de pesquisa premiada"
+title: Infecção de ouvido é tema de pesquisa premiada
 date: 2022-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Avaliar a presença e o grau de perda de audição, assim como tontura e vertigem em pacientes com infecções de ouvido agudas ou crônicas. Esse foi o objetivo do projeto de Rafael Monsanto, médico otorrinolaringologista, vencedor do Prêmio CAPES de Tese 2021, pela área de Medicina III.
 

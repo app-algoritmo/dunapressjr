@@ -1,11 +1,12 @@
 ---
-title: "Tocantins tem o maior ICMS do país e serviços precários, diz senador Irajá"
+title: Tocantins tem o maior ICMS do país e serviços precários, diz senador Irajá
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (31), o senador Irajá (PSD-TO) demonstrou preocupação com o estado do Tocantins que, segundo ele, persiste em manter a maior alíquota de ICMS (Imposto sobre Circulação de Mercadorias e Serviços) do país, na contramão das discussões sobre a reforma tributária que tramita no Congresso Nacional. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega mais 1,3 milhão de Equipamentos de Proteção Individual"
+title: Governo Bolsonaro entrega mais 1,3 milhão de Equipamentos de Proteção Individual
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal entregou na sexta-feira (8) um carregamento de 1,3 milhão de Equipamentos de Proteção Individual (EPIS) ao estado do Rio de Janeiro, que serão usados pelos profissionais de saúde que estão na linha de frente fazendo atendimento aos pacientes com o novo coronavírus. A medida faz parte do pacote de ações em apoio ao estados e municípios para fortalecer os serviços de saúde.
 

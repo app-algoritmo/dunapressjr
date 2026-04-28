@@ -1,11 +1,12 @@
 ---
-title: "Mãe criou na gestação o hábito de leitura para a criança"
+title: Mãe criou na gestação o hábito de leitura para a criança
 date: 2020-05-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Education
+- Education
 ---
+
 
 ## **Ana Paula Melo lê todos os dias para Eva, de 5 anos, e é admiradora do Conta pra Mim**.
 

@@ -1,11 +1,12 @@
 ---
-title: "Detidos no Senado são denunciados por crime de golpe de Estado"
+title: Detidos no Senado são denunciados por crime de golpe de Estado
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Procuradoria-Geral da República (PGR) enviou ao Supremo Tribunal Federal (STF) denúncias contra 39 pessoas que participaram dos atos antidemocráticos do dia 8 de janeiro na Praça dos Três Poderes. Presos dentro do Senado, os invasores são denunciados por uma lista de cinco crimes — entre eles, golpe de Estado.  A representação com os nomes das pessoas presas e identificadas pela Polícia Legislativa do Senado foi entregue pelo presidente da Casa, Rodrigo Pacheco, ao procurador-geral da República, Augusto Aras, na semana passada.
 

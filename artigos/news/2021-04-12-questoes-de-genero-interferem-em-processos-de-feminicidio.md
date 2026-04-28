@@ -1,11 +1,12 @@
 ---
-title: "Questões de gênero interferem em processos de feminicídio"
+title: Questões de gênero interferem em processos de feminicídio
 date: 2021-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Análise de processos de feminicídios revela que mulheres seguem à mercê da própria sorte e que dados importantes sobre as vítimas são precários.
 

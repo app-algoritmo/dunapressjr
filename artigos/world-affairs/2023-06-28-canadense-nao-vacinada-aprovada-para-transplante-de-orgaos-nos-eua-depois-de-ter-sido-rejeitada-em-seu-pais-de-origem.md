@@ -1,11 +1,13 @@
 ---
-title: "Canadense não vacinada aprovada para transplante de órgãos nos EUA depois de ter sido rejeitada em seu país de origem"
+title: Canadense não vacinada aprovada para transplante de órgãos nos EUA depois de
+  ter sido rejeitada em seu país de origem
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A família de Sheila Annette Lewis está enfrentando uma enorme conta hospitalar após um procedimento que pode salvar sua vida.
 

@@ -1,11 +1,13 @@
 ---
-title: "Hospital universitário brasileiro cria robô virtual para tirar dúvidas sobre Covid-19"
+title: Hospital universitário brasileiro cria robô virtual para tirar dúvidas sobre
+  Covid-19
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Chatbot simula conversa humana e estará disponível no SUS.
 

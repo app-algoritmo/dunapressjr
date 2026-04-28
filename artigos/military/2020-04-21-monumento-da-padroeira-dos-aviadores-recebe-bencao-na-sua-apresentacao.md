@@ -1,11 +1,12 @@
 ---
-title: "Monumento da Padroeira dos Aviadores recebe bênção na sua apresentação"
+title: Monumento da Padroeira dos Aviadores recebe bênção na sua apresentação
 date: 2020-04-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Paróquia e Santuário de Nossa Senhora de Loreto apresentou, no dia 15 de abril, em Jacarepaguá, no Rio de Janeiro, a escultura da Padroeira dos Aviadores, a Nossa Senhora de Loreto. A obra, trazida de Goiânia (GO), tem 3,20 metros de altura, começou a ser instalada no começo deste mês e é uma homenagem da Força Aérea Brasileira (FAB) pelo centenário do título de Padroeira dos Aviadores e cinquentenário do Santuário.
 

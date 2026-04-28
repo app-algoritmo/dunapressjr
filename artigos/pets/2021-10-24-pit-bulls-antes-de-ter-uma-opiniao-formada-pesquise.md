@@ -1,11 +1,12 @@
 ---
-title: "Pit Bulls: Antes de ter uma opinião formada, pesquise"
+title: 'Pit Bulls: Antes de ter uma opinião formada, pesquise'
 date: 2021-10-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Pit Bulls não só eram usados como babás, como também eram a primeira escolha quando o assunto era a proteção de uma criança. Eles tinham uma reputação tão boa que eram conhecidos como “O cachorro babá”.
 

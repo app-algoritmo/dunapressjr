@@ -1,11 +1,12 @@
 ---
-title: "Selo Arte para cárneos vai colher sugestões por consulta pública"
+title: Selo Arte para cárneos vai colher sugestões por consulta pública
 date: 2020-07-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os interessados poderão enviar sugestões que vão subsidiar a elaboração da Instrução Normativa que vai definir os requisitos básicos pra a concessão do Selo Arte para esse segmento.
 

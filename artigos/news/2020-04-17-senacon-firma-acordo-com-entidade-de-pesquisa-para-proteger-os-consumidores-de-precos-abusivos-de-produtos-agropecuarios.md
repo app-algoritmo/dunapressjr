@@ -1,11 +1,13 @@
 ---
-title: "Senacon firma acordo com entidade de pesquisa para proteger os consumidores de preços abusivos de produtos agropecuários"
+title: Senacon firma acordo com entidade de pesquisa para proteger os consumidores
+  de preços abusivos de produtos agropecuários
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 17/04/2020 -** Acordo de cooperação técnica entre a Secretaria Nacional do Consumidor (Senacon) e a Sociedade Brasileira de Economia, Administração e Sociologia Rural (SOBER), firmado na quarta-feira (15), vai intensificar o monitoramento e as investigações sobre a prática de preços irregulares em produtos agropecuários, como leite, feijão e ovos.
 

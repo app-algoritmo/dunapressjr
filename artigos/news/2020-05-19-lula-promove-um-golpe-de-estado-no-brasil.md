@@ -1,11 +1,12 @@
 ---
-title: "Lula promove um golpe de Estado no Brasil"
+title: Lula promove um golpe de Estado no Brasil
 date: 2020-05-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A campanha de desestabilização contra Bolsonaro tem dois objetivos: primeiro, criar uma crise regional que serve para impedir a queda iminente de Maduro; e segundo, encobrir o envolvimento do Foro de São Paulo no narcotráfico.
 

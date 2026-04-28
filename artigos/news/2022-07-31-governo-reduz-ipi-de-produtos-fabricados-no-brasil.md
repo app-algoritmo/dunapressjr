@@ -1,11 +1,12 @@
 ---
-title: "Governo reduz IPI de produtos fabricados no Brasil"
+title: Governo reduz IPI de produtos fabricados no Brasil
 date: 2022-07-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decreto exclui produtos da Zona Franca de Manaus.
 

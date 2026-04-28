@@ -1,11 +1,12 @@
 ---
-title: "Bomba-relógio: dívida nacional elevada e taxas de juros crescentes"
+title: 'Bomba-relógio: dívida nacional elevada e taxas de juros crescentes'
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Qualquer pessoa que tenha previsto uma recessão nos EUA e uma crise associada no mercado de ações parece estar em apuros. Pelo menos parece que é assim. O produto interno bruto dos EUA cresceu 2,1% no segundo trimestre de 2023, após 2,0% no primeiro trimestre, a taxa de desemprego foi bastante baixa, 3,8% em agosto de 2023, e o S&P 500 ficou cerca de 10% abaixo disso, com 4.460 pontos. recorde de 4.818 pontos em janeiro de 2022. Mesmo assim, há muitas variáveis ​​que dão ponto aos profetas da perdição.
 

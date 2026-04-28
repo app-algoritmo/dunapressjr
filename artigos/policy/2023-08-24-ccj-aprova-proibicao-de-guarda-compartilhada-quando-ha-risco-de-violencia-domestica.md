@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova proibição de guarda compartilhada quando há risco de violência doméstica"
+title: CCJ aprova proibição de guarda compartilhada quando há risco de violência doméstica
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Nesse caso, a guarda será concedida apenas ao genitor que não representa risco à criança.
 

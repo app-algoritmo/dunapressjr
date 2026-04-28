@@ -1,11 +1,12 @@
 ---
-title: "Mercado reduz previsão de inflação pela oitava vez"
+title: Mercado reduz previsão de inflação pela oitava vez
 date: 2023-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação projetada para encerrar o ano em 4,95%, acima da meta. 
 

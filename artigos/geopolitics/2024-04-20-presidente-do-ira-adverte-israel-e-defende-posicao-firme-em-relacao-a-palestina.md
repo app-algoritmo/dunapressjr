@@ -1,11 +1,12 @@
 ---
-title: "Presidente do Irã adverte Israel e defende posição firme em relação à Palestina"
+title: Presidente do Irã adverte Israel e defende posição firme em relação à Palestina
 date: 2024-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente do Irã, Ebrahim Raisi, emitiu um aviso contundente ao regime israelense durante um discurso na cidade de Shahroud, na província de Semnan. Raisi alertou que qualquer ato de agressão contra o solo iraniano será respondido de forma que fará com que o regime e seus apoiadores se arrependam profundamente de suas ações.
 

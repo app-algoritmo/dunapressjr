@@ -1,11 +1,12 @@
 ---
-title: "Publicado edital do concurso da Polícia Federal"
+title: Publicado edital do concurso da Polícia Federal
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi publicado, nesta sexta-feira (15), o edital do concurso para os cargos de Delegado, Agente, Escrivão e Papiloscopista da Polícia Federal. No documento, disponibilizado no Diário Oficial da União (DOU), estão detalhados os requisitos para concorrer a uma das 1.500 vagas, além dos conteúdos programáticos e os prazos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Variedade de cores ajuda serpentes a buscar presas e sobreviver na natureza"
+title: Variedade de cores ajuda serpentes a buscar presas e sobreviver na natureza
 date: 2022-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 No mundo das serpentes, é normal vermos uma grande diversidade de cores entre as diferentes espécies: a cobra coral possui anéis pretos, vermelhos e brancos ou amarelados; a caninana é amarela com grandes manchas pretas; já a cascavel é marrom, com losangos em marrom mais escuro ao longo de seu corpo. Essas cores ajudam as cobras a se camuflar para se proteger e caçar as presas que se transformarão em alimento. Além disso, indicam quais são os comportamentos daquela espécie, ou seja, como e onde elas vivem e sobrevivem melhor.
 

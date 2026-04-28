@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona projeto que dá autonomia ao Banco Central"
+title: Bolsonaro sanciona projeto que dá autonomia ao Banco Central
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida prevê mandatos para dirigentes do órgão.
 

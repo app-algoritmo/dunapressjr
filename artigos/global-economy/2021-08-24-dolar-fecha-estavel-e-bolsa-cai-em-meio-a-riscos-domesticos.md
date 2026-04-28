@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável e bolsa cai em meio a riscos domésticos"
+title: Dólar fecha estável e bolsa cai em meio a riscos domésticos
 date: 2021-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Otimismo externo influencia pouco o mercado no Brasil.
 

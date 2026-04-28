@@ -1,11 +1,12 @@
 ---
-title: "Ministro do Trabalho pedirá fim de novos pedidos de saque-aniversário"
+title: Ministro do Trabalho pedirá fim de novos pedidos de saque-aniversário
 date: 2023-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Sugestão será apresentada ao Conselho Curador do FGTS em março.
 

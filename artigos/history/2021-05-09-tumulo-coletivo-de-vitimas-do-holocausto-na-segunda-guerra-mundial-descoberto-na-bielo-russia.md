@@ -1,11 +1,13 @@
 ---
-title: "Túmulo coletivo de vítimas do Holocausto na Segunda Guerra Mundial descoberto na Bielo-Rússia"
+title: Túmulo coletivo de vítimas do Holocausto na Segunda Guerra Mundial descoberto
+  na Bielo-Rússia
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O túmulo continha fragmentos de ossos e esqueletos, alguns com balas no crânio e outros com sapatos espalhados ao lado do corpo, além de munições e objetos pessoais.
 

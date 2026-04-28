@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova criação de cadastro nacional de condenados por violência contra mulheres"
+title: Comissão aprova criação de cadastro nacional de condenados por violência contra
+  mulheres
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Hoje, o CNJ já mantém o Cadastro Nacional de Pessoas Condenadas por Crime de Estupro.
 

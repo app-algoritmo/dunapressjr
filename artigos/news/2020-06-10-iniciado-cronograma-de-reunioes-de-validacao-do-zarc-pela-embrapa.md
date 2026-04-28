@@ -1,11 +1,12 @@
 ---
-title: "Iniciado cronograma de reuniões de validação do Zarc pela Embrapa"
+title: Iniciado cronograma de reuniões de validação do Zarc pela Embrapa
 date: 2020-06-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A primeira cultura é o milho, as reuniões serão realizadas por teleconferência.
 

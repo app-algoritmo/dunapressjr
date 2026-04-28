@@ -1,11 +1,12 @@
 ---
-title: "Pequena e espaçosa, a tartaruga-de-orelha-vermelha é uma notável intrusa"
+title: Pequena e espaçosa, a tartaruga-de-orelha-vermelha é uma notável intrusa
 date: 2022-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Conhecida pelas listras vermelhas na lateral da cabeça, a tartaruga-de-orelha-vermelha (*Trachemys scripta*) é uma das moradoras, junto com outros tipos de quelônio, do Reptiliário do Parque da Ciência Butantan. Ao contrário de boa parte dos répteis que vivem por lá, no entanto, essa tartaruga é exótica – ou seja, não é uma espécie nativa do Brasil.
 

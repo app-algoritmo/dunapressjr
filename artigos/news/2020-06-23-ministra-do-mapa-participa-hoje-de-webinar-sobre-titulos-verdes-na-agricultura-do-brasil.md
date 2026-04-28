@@ -1,11 +1,13 @@
 ---
-title: "Ministra do Mapa participa, hoje, de webinar sobre títulos verdes na agricultura do Brasil"
+title: Ministra do Mapa participa, hoje, de webinar sobre títulos verdes na agricultura
+  do Brasil
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A ministra Tereza Cristina (Agricultura, Pecuária e Abastecimento) participa nesta terça-feira (23) do webinar “Destravando o Potencial de Investimento Verdes para Agricultura no Brasil”, promovido pela Climate Bonds Initiative (CBI).
 

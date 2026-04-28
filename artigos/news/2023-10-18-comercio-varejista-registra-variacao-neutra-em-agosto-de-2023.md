@@ -1,11 +1,12 @@
 ---
-title: "Comércio varejista registra variação neutra em agosto de 2023"
+title: Comércio varejista registra variação neutra em agosto de 2023
 date: 2023-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados variados revelam equilíbrio no setor.
 

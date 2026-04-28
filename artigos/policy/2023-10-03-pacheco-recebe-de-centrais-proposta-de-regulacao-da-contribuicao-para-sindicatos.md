@@ -1,11 +1,12 @@
 ---
-title: "Pacheco recebe de centrais proposta de regulação da contribuição para sindicatos"
+title: Pacheco recebe de centrais proposta de regulação da contribuição para sindicatos
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente Rodrigo Pacheco se reuniu nesta segunda-feira (2) com representantes de centrais sindicais e recebeu uma proposta de regulação da contribuição assistencial, uma modalidade de financiamento para os sindicatos. O encontro ocorreu no dia anterior [à reunião da Comissão de Assuntos Econômicos (CAE) que pode votar um projeto de lei para proibir esse tipo de cobrança](/noticias/materias/2023/09/29/projeto-que-veda-contribuicao-sindical-obrigatoria-esta-na-pauta-da-cae) ([PL 2099/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157065)).
 

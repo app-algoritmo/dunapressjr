@@ -1,11 +1,13 @@
 ---
-title: "O diretor do HHS de Biden ameaça cortar os pagamentos do Medicare aos hospitais se eles não permitirem a mutilação genital de crianças"
+title: O diretor do HHS de Biden ameaça cortar os pagamentos do Medicare aos hospitais
+  se eles não permitirem a mutilação genital de crianças
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante anos, democratas e republicanos culparam uns aos outros por querer cortar o Medicare e o Medicaid, e agora isso pode finalmente acontecer. Como uma ordem direta de um regime comunista, os funcionários de Biden acabaram de revelar seu plano de cortar os pagamentos do Medicare e Medicaid a hospitais e estados se eles não permitirem universalmente a castração química e a mutilação genital de crianças.
 

@@ -1,11 +1,12 @@
 ---
-title: "Promulgado acordo Brasil-Marrocos para cooperação na área de defesa"
+title: Promulgado acordo Brasil-Marrocos para cooperação na área de defesa
 date: 2023-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O presidente do Senado e do Congresso Nacional, senador Rodrigo Pacheco (PSD-MG), promulgou o Decreto Legislativo 44/23, que trata do acordo entre Brasil e Marrocos sobre cooperação em matéria de defesa. O texto foi publicado nesta sexta-feira (2) no Diário Oficial da União.
 

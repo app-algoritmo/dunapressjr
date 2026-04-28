@@ -1,11 +1,13 @@
 ---
-title: "A Pfizer financiou um projeto de “mudança de comportamento” do CDC que visava críticos das vacinas"
+title: A Pfizer financiou um projeto de “mudança de comportamento” do CDC que visava
+  críticos das vacinas
 date: 2023-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um [novo relatório](https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics) lançou uma nova luz sobre a conexão entre os Centros de Controle e Prevenção de Doenças (CDC), a Food and Drug Administration (FDA) e várias empresas privadas de medicamentos, vacinas e assistência médica que têm têm trabalhado juntos para silenciar os críticos de vacinas de falar o que pensam.
 

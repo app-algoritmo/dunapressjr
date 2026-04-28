@@ -1,11 +1,12 @@
 ---
-title: "Com apoio de aplicativos e matches, empresas inovam nas estratégias de mentoring"
+title: Com apoio de aplicativos e matches, empresas inovam nas estratégias de mentoring
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 ## Reformulação para equipes mais diversas traz possibilidade de inversão de papéis de gestores e colaboradores; match une mentor e mentorado por competências e interesses.
 

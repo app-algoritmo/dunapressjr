@@ -1,12 +1,13 @@
 ---
-title: "Aos alimentadores"
+title: Aos alimentadores
 date: 2024-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Sob o manto da noite, silenciosamente e sem testemunhas, movem-se sombras bondosas entre becos e casacos.
 

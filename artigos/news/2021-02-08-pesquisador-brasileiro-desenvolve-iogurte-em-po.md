@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador brasileiro desenvolve iogurte em pó"
+title: Pesquisador brasileiro desenvolve iogurte em pó
 date: 2021-02-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em um exemplo concreto de inovação científica, o pesquisador Emanuel Neto Alves de Oliveira, professor e coordenador do *campus* de Pau dos Ferros, do Instituto Federal do Rio Grande do Norte (IFRN), desenvolveu ao longo do seu trabalho de doutorado na Universidade Federal de Campina Grande (UFCG), um produto inédito no mercado: o iogurte em pó. Com bolsa de pesquisa financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), a iniciativa já foi patenteada no Instituto Nacional de Propriedade Intelectual (INPI).
 

@@ -1,11 +1,12 @@
 ---
-title: "Tensões entre China e Taiwan elevam dólar para R$ 5,27"
+title: Tensões entre China e Taiwan elevam dólar para R$ 5,27
 date: 2022-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa subiu 1,11%, puxada por mineradoras e bancos.
 

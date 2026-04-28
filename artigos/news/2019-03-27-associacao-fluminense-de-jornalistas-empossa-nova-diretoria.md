@@ -1,11 +1,12 @@
 ---
-title: "Associação Fluminense de Jornalistas empossa nova Diretoria"
+title: Associação Fluminense de Jornalistas empossa nova Diretoria
 date: 2019-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No ano de 2020, a Associação Fluminense de Jornalistas, que completará 80 anos de existência. Para comemorar esta data importante, realizou a solenidade de posse de sua nova Diretoria na segunda-feira, dia 25 de março,  às 10 horas. Ela aconteceu no Plenário da Câmara Municipal de Niterói, na Av. Ernani do Amaral Peixoto nº 625, no centro do Município,  onde fica a sede da entidade.
 

@@ -1,11 +1,13 @@
 ---
-title: "Transparência Internacional critica novo ministro da Integração: 'condenado por desvio de recurso público'"
+title: 'Transparência Internacional critica novo ministro da Integração: ''condenado
+  por desvio de recurso público'''
 date: 2023-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Waldez Góes ganhou vaga na Esplanada graças à articulação de Davi Alcolumbre.
 

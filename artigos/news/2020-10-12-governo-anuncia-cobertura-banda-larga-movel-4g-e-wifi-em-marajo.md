@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia cobertura banda larga móvel 4G e  WiFi  em Marajó"
+title: Governo anuncia cobertura banda larga móvel 4G e  WiFi  em Marajó
 date: 2020-10-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O projeto WiFi na Praça permite o acesso gratuito e ilimitado à internet por meio de antena satelital, instalada pela Telebras em praças públicas de comunidades com baixa ou nenhuma conexão de internet. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Raças de cães mais leais"
+title: Raças de cães mais leais
 date: 2022-05-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Pets
+- Pets
 ---
+
 
 Conheça as raças de cachorros mais obedientes, companheiros e leais.  
 

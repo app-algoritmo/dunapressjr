@@ -1,12 +1,13 @@
 ---
-title: "Huawei pode ser banida da Noruega por motivos de segurança nacional"
+title: Huawei pode ser banida da Noruega por motivos de segurança nacional
 date: 2019-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 ## **Benedicte Bjørnland Diretora dos serviços de inteligência da Noruega alerta empresas de telecomunicação que operam com a chinesa Huawei**
 

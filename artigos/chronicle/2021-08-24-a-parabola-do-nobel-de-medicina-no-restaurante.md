@@ -1,11 +1,12 @@
 ---
-title: "A parábola do Nobel de Medicina  no restaurante"
+title: A parábola do Nobel de Medicina  no restaurante
 date: 2021-08-24
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Dr. Job Zelink, indicado ao Prêmio Nobel de Medicina, vem ao Brasil para uma série de conferências com autoridades médicas sobre descobertas fantásticas para tratamento de doentes, infectados por Covid-19.
 

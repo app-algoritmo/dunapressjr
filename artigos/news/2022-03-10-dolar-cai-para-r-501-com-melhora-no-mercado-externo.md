@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,01 com melhora no mercado externo"
+title: Dólar cai para R$ 5,01 com melhora no mercado externo
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa de valores sobe 2,43% e encosta em 114 mil pontos.
 

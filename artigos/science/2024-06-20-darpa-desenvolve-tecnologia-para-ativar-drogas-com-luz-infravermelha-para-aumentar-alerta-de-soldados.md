@@ -1,11 +1,13 @@
 ---
-title: "DARPA Desenvolve Tecnologia para Ativar Drogas com Luz Infravermelha para Aumentar Alerta de Soldados"
+title: DARPA Desenvolve Tecnologia para Ativar Drogas com Luz Infravermelha para Aumentar
+  Alerta de Soldados
 date: 2024-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Science
+- Science
 ---
+
 
 A Agência de Projetos de Pesquisa Avançada de Defesa dos EUA (DARPA) está desenvolvendo um programa inovador que utiliza luz infravermelha próxima (NIR) para ativar e desativar drogas no corpo sob demanda, potencialmente revolucionando o aumento de alerta em soldados após a perda de sono.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente inaugura a maior termoelétrica de gás natural da América Latina em Sergipe"
+title: Presidente inaugura a maior termoelétrica de gás natural da América Latina
+  em Sergipe
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O maior termoelétrica a gás natural da América Latina foi inaugurada nesta segunda-feira (17), no município de Barra dos Coqueiros, em Sergipe. A Usina Termoelétrica Porto de Sergipe I poderá atender 15% da demanda de energia do Nordeste, o equivalente a 16 milhões de pessoas. O Presidente Jair Bolsonaro e o ministro de Minas e Energia, Bento Albuquerque, participaram da inauguração. 
 

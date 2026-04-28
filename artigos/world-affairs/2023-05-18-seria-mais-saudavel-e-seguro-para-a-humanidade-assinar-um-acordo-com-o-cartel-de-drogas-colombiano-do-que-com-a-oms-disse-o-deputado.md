@@ -1,11 +1,13 @@
 ---
-title: "Seria mais saudável e seguro para a humanidade assinar um acordo com o cartel de drogas colombiano do que com a OMS, disse o deputado"
+title: Seria mais saudável e seguro para a humanidade assinar um acordo com o cartel
+  de drogas colombiano do que com a OMS, disse o deputado
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A terceira cimeira internacional da Covid decorreu na semana passada, dia 3 de maio, no Parlamento Europeu. Os deputados do Parlamento Europeu ("MEPs") presentes descreveram-no como um acontecimento histórico.
 

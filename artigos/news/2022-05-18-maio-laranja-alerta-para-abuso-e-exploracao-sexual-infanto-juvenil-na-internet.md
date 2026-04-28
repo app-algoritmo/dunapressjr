@@ -1,11 +1,12 @@
 ---
-title: "Maio Laranja alerta para abuso e exploração sexual infanto-juvenil na internet"
+title: Maio Laranja alerta para abuso e exploração sexual infanto-juvenil na internet
 date: 2022-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 1,5 mil denúncias de violência sexual na internet contra crianças e adolescentes foram registradas pela Ouvidoria Nacional dos Direitos Humanos (ONDH) em 2021. Para apoiar pais e familiares no enfrentamento a este tipo de situação, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) disponibiliza ferramentas que ajudam a prevenir e proteger os filhos do mau uso da tecnologia e ajudar na prevenção de abusos e outras práticas. 
 

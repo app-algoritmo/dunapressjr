@@ -1,11 +1,12 @@
 ---
-title: "CNI: faturamento da indústria de transformação tem alta em novembro"
+title: 'CNI: faturamento da indústria de transformação tem alta em novembro'
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Massa salarial e rendimento dos trabalhadores também tiveram leve alta.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Alcides Carvalho"
+title: 'Série Brasileiros em Destaque: Alcides Carvalho'
 date: 2021-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Frase“ Tive a rara oportunidade de trabalhar com café a vida toda. Achei que era extremamente importante trabalhar com uma planta que tanta riqueza trouxe a São Paulo. Não tive uma vocação especial. Gostei da ideia, da planta, e continuei trabalhando”.
 

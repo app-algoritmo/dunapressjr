@@ -1,11 +1,12 @@
 ---
-title: "PF apreende um carregamento de maconha na região de Guarapari/ES"
+title: PF apreende um carregamento de maconha na região de Guarapari/ES
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal e a Polícia Rodoviária Federal apreenderam nesta sexta-feira, 19/6, cerca de 180 kg de maconha, que seguiam em veículo na BR 101, na Região de Guarapari/ES. Na abordagem, também foi identificado outro veículo envolvido na ação delituosa, atuando como batedor do transporte.
 

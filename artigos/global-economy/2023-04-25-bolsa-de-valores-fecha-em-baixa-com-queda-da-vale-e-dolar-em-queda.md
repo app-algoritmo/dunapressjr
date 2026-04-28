@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de Valores fecha em baixa com queda da Vale e dólar em queda"
+title: Bolsa de Valores fecha em baixa com queda da Vale e dólar em queda
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar segue tendência de queda em relação a outras divisas de exportadores de commodities após dados econômicos mais fracos nos EUA.
 

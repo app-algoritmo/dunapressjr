@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova multa para suspensão de serviço público após pagamento de fatura"
+title: Comissão aprova multa para suspensão de serviço público após pagamento de fatura
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Defesa do Consumidor da Câmara dos Deputados aprovou projeto que prevê multa para as concessionárias de serviços públicos nos estados e no Distrito Federal no caso de suspensão da prestação do serviço mesmo após pagamento por parte do usuário.
 

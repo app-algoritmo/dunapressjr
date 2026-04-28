@@ -1,11 +1,12 @@
 ---
-title: "Saiba mais sobre acidentes por aranhas"
+title: Saiba mais sobre acidentes por aranhas
 date: 2022-01-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Acidentes por aranhas, ou araneísmo, é o quadro clínico de envenenamento decorrente da inoculação da peçonha de aranhas, através de um par de ferrões localizados na parte anterior do animal. Assim como os escorpiões, as aranhas são representantes da classe dos aracnídeos.
 

@@ -1,11 +1,12 @@
 ---
-title: "MJSP passa a divulgar mensalmente informações do Banco Nacional de Perfis Genéticos"
+title: MJSP passa a divulgar mensalmente informações do Banco Nacional de Perfis Genéticos
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP) torna público, através do Sistema Nacional de Informações de Segurança Pública (Sinesp), dados do Banco Nacional de Perfis Genéticos. De acordo com os dados disponíveis na plataforma, constam mais de 82 mil amostras de DNA cadastradas na Rede, 45% a mais do que no final do ano passado, quando havia 55 mil registradas. São informações de condenados, vestígios de locais de crimes, restos mortais não identificados e referências de pessoas desaparecidas.
 

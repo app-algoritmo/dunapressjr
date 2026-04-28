@@ -1,11 +1,13 @@
 ---
-title: "Dia Mundial do Doador de Sangue (14/06): com aumento nos acidentes de trânsito, transfusões de sangue são mais necessárias"
+title: 'Dia Mundial do Doador de Sangue (14/06): com aumento nos acidentes de trânsito,
+  transfusões de sangue são mais necessárias'
 date: 2021-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Motociclistas são principais vítimas em mais da metade dos acidentes em Curitiba neste ano; bancos de sangue reforçam a importância da doação nesse momento.
 

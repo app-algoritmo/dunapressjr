@@ -1,11 +1,12 @@
 ---
-title: "Oceanic Aquarium usa a criatividade para entreter as famílias"
+title: Oceanic Aquarium usa a criatividade para entreter as famílias
 date: 2020-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Por estar temporariamente fechado para visitação, o Oceanic Aquarium  em Balneário Camboriú SC, lança canal no YouTube com conteúdo interativo para as famílias.*
 

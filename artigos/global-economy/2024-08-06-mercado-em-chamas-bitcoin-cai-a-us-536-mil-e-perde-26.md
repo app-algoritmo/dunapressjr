@@ -1,11 +1,12 @@
 ---
-title: "Mercado em chamas: Bitcoin cai a US$ 53,6 mil e perde 26%"
+title: 'Mercado em chamas: Bitcoin cai a US$ 53,6 mil e perde 26%'
 date: 2024-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Nas últimas semanas, o Bitcoin, a maior e mais conhecida criptomoeda do mundo, sofreu uma queda significativa em seu valor. Em meio a um cenário de incertezas e volatilidade nos mercados financeiros globais, o preço do Bitcoin despencou para US$ 53,6 mil, registrando uma perda de 26% desde o seu recorde histórico. Esse desempenho negativo reflete uma tendência de fuga de investidores do risco, à medida que buscam refúgios mais seguros em meio a um ambiente econômico instável.
 

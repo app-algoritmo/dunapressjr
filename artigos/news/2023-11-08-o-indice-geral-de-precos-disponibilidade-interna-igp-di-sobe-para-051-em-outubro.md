@@ -1,11 +1,13 @@
 ---
-title: "O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) sobe para 0,51% em outubro"
+title: O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) sobe para 0,51%
+  em outubro
 date: 2023-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com aceleração no índice ao produtor e ao consumidor, o IGP-DI acumula variação de -4,40% no ano.
 

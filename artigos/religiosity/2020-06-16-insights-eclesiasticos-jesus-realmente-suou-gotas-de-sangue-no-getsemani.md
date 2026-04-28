@@ -1,11 +1,12 @@
 ---
-title: "Insights Eclesiásticos - Jesus realmente suou gotas de sangue no Getsêmani?"
+title: Insights Eclesiásticos - Jesus realmente suou gotas de sangue no Getsêmani?
 date: 2020-06-16
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 **Na oração do Getsêmani, Jesus transpirou sangue?**
 

@@ -1,11 +1,12 @@
 ---
-title: "Entenda tudo sobre carcinoma em animais"
+title: Entenda tudo sobre carcinoma em animais
 date: 2022-05-30
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Pets
+- Pets
 ---
+
 
 O carcinoma é um câncer de pele que atinge cães e gatos. Também pode ser conhecido como carcinoma de células escamosas ou carcinoma epidermóide. O problema está relacionado com a exposição ao sol, por isso é preciso cuidados com pets que amam tomar aquele solzinho.
 

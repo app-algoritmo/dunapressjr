@@ -1,11 +1,12 @@
 ---
-title: "Geração de empregos formais no Brasil atinge números recordes em maio"
+title: Geração de empregos formais no Brasil atinge números recordes em maio
 date: 2023-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de Serviços lidera o crescimento, impulsionando a economia do país e estimulando projeções otimistas para o mercado de trabalho.
 

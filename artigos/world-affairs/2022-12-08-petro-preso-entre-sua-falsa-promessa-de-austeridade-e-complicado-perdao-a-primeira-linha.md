@@ -1,11 +1,13 @@
 ---
-title: "Petro preso entre sua falsa promessa de austeridade e complicado perdão à Primeira Linha"
+title: Petro preso entre sua falsa promessa de austeridade e complicado perdão à Primeira
+  Linha
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Gustavo Petro tentou libertar os membros da Primeira Linha, designando-os como "gerentes da paz"
 

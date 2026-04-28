@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O Ceará na Assembleia Constituinte"
+title: 'Série Fatos Da Independência: O Ceará na Assembleia Constituinte'
 date: 2023-09-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Paralelamente aos acontecimentos nas províncias do Norte, no início de 1823, veio do Rio de Janeiro uma convocação para a Assembleia Constituinte: as províncias deveriam enviar deputados para construir uma Constituição própria. Os representantes cearenses defenderam um projeto que desse mais autonomia às províncias, opondo-se, por exemplo, à proposta de extinguir as Juntas de Governo. Também foi denunciada a atitude autoritária do Imperador ao longo da Constituinte: José Martiniano discursou afirmando a desconfiança e o desgosto dos membros em relação ao que consideravam como despotismo de Dom Pedro. Tal situação gerava, aos olhos de Martiniano, grande insegurança. Ele também percebeu a insatisfação do Imperador com os rumos da Constituinte e chegou a ponderar, em 11 de novembro de 1823, se Dom Pedro desejava dissolver a Assembleia. Para o cearense, isso seria um tiro no pé: sem Constituição, não poderia haver sequer Império, pois, insatisfeitas, as províncias poderiam se separar.
 

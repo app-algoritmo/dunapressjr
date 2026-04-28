@@ -1,11 +1,12 @@
 ---
-title: "As tristes consequências do pânico da Covid no Japão"
+title: As tristes consequências do pânico da Covid no Japão
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Após três anos completos de mascaramento público, funcionários do governo japonês declararam recentemente que as pessoas agora podem descobrir seus rostos, se assim o desejarem.
 

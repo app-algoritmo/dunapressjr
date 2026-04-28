@@ -1,11 +1,12 @@
 ---
-title: "Profissionais 50+ vencem os desafios da tecnologia"
+title: Profissionais 50+ vencem os desafios da tecnologia
 date: 2021-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No Brasil, mais de 54 milhões de brasileiros têm mais de 50 anos. Acima de 60, são 33 milhões de pessoas. Os dados do Instituto Brasileiro de Geografia e Estatística (IBGE) apontam para o envelhecimento da população. Segundo o Relatório Global de Sistemas Previdenciários, realizado pela seguradora Allianz, apenas 10% dos idosos brasileiros estão sem ocupação rentável. Mesmo com a pandemia da covid-19 e com as novas tendências tecnológicas, profissionais com mais de 50 anos provam que são capazes de assumir novos desafios e altos cargos.
 

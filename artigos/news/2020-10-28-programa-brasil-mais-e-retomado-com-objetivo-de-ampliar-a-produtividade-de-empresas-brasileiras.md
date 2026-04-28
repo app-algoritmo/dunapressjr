@@ -1,11 +1,13 @@
 ---
-title: "Programa Brasil Mais é retomado com objetivo de ampliar a produtividade de empresas brasileiras"
+title: Programa Brasil Mais é retomado com objetivo de ampliar a produtividade de
+  empresas brasileiras
 date: 2020-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Iniciativa vai oferecer capacitação para melhorar a gestão e apoiar a adoção de tecnologias digitais a cerca de 120 mil empresas.
 

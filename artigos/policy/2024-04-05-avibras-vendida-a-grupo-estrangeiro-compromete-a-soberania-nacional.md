@@ -1,11 +1,12 @@
 ---
-title: "Avibras vendida a grupo estrangeiro compromete a Soberania Nacional"
+title: Avibras vendida a grupo estrangeiro compromete a Soberania Nacional
 date: 2024-04-05
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Dia 30 de março a imprensa anunciou a venda da Avibras, empresa brasileira de equipamentos de defesa, mísseis e lançadores, para o grupo australiano Defendtex. O que esperar desse negócio? Se ao mesmo tempo a Avibras é reconhecidamente uma empresa de alta tecnologia e merece investimento estrangeiro, em se tratando de defesa nacional, estratégia e posição geopolítica será péssimo para o Brasil. 
 

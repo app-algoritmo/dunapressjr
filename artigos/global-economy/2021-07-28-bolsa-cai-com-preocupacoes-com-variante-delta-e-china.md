@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai com preocupações com variante delta e China"
+title: Bolsa cai com preocupações com variante delta e China
 date: 2021-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha estável à espera de reunião do Fed.
 

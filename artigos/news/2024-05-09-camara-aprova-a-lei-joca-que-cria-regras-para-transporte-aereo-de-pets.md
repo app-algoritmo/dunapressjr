@@ -1,12 +1,13 @@
 ---
-title: "Câmara aprova a “Lei Joca”, que cria regras para transporte aéreo de pets"
+title: Câmara aprova a “Lei Joca”, que cria regras para transporte aéreo de pets
 date: 2024-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O plenário da [Câmara dos Deputados](https://congressoemfoco.uol.com.br/tag/camara-dos-deputados/) aprovou nesta quarta-feira (8) um conjunto de novas regras para o transporte de animais de estimação em aviões. A votação veio depois da repercussão do caso de Joca, um cachorro de raça *golden retriever* que morreu enquanto era transportado pela Gollog, empresa da companhia Gol. O* pet* foi enviado equivocadamente para Fortaleza (CE), sendo que deveria ser em Sinop (MT).
 

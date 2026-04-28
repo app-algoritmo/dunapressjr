@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado da Paraíba lança chamada pública para contratação de operação de crédito de R$ 200 milhões"
+title: Governo do Estado da Paraíba lança chamada pública para contratação de operação
+  de crédito de R$ 200 milhões
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o secretário da Seplag, esse edital de chamada pública faz parte de um conjunto de ações do Governo, que possibilitarão acelerar a retomada da atividade econômica no estado.
 

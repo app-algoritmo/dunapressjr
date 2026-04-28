@@ -1,11 +1,12 @@
 ---
-title: "Conab diz que frutas registram queda de preços"
+title: Conab diz que frutas registram queda de preços
 date: 2023-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No entanto, houve alta na cotação do tomate e da batata.
 

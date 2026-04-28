@@ -1,11 +1,12 @@
 ---
-title: "Indicadores do mercado de trabalho da FGV apresentam melhora em agosto"
+title: Indicadores do mercado de trabalho da FGV apresentam melhora em agosto
 date: 2020-09-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice atingiu 74,7 pontos em uma escala de zero a 200 pontos.
 

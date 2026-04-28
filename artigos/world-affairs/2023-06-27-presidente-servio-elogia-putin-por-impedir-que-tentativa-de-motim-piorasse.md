@@ -1,11 +1,12 @@
 ---
-title: "Presidente sérvio elogia Putin por impedir que tentativa de motim piorasse"
+title: Presidente sérvio elogia Putin por impedir que tentativa de motim piorasse
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Aleksandar Vucic disse que o presidente da Bielorrússia, Alexander Lukashenko, deu uma contribuição séria para resolver a situação, mas foi Putin quem assumiu a responsabilidade por sua resolução final.
 

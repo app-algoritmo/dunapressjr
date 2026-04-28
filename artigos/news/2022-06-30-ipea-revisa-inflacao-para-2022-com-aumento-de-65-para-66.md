@@ -1,11 +1,12 @@
 ---
-title: "Ipea revisa inflação para 2022 com aumento de 6,5% para 6,6%"
+title: Ipea revisa inflação para 2022 com aumento de 6,5% para 6,6%
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Análise leva em conta impacto da elevação dos preços de commodities.
 

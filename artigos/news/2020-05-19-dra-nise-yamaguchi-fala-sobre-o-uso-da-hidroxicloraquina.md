@@ -1,11 +1,12 @@
 ---
-title: "Dra Nise Yamaguchi fala sobre o uso da hidroxicloraquina"
+title: Dra Nise Yamaguchi fala sobre o uso da hidroxicloraquina
 date: 2020-05-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dra Nise Yamaguchi é oncologista, imunologista, tem doutorado em Pneumologia, com foco em tratamento individualizado do paciente com câncer e na busca da melhor qualidade de Vida.
 

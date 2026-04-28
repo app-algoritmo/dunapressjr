@@ -1,11 +1,13 @@
 ---
-title: "Conteúdo de pedofilia proliferado no Instagram através de ferramentas de assinatura paga da Meta, revela jornal"
+title: Conteúdo de pedofilia proliferado no Instagram através de ferramentas de assinatura
+  paga da Meta, revela jornal
 date: 2024-02-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma investigação do The Wall Street Journal expôs uma perturbadora realidade: as novas ferramentas de assinatura paga implementadas pela empresa Meta estão sendo exploradas por adultos sem escrúpulos para vender conteúdo que alimenta redes de pedofilia, especialmente no Instagram.
 

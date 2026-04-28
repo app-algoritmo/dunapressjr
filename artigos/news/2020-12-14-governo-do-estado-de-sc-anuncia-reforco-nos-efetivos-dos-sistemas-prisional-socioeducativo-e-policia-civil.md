@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado de SC anuncia reforço nos efetivos dos sistemas prisional, socioeducativo e Polícia Civil"
+title: Governo do Estado de SC anuncia reforço nos efetivos dos sistemas prisional,
+  socioeducativo e Polícia Civil
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo do Estado anunciou nesta sexta-feira, 11, a chamada de novos servidores para os sistemas prisional, socioeducativo e para a Polícia Civil. As nomeações levam em conta as restrições impostas pela Lei Complementar 173/2020, que determinou as regras para a ajuda financeira a estados e municípios por conta da pandemia de Covid-19. O anúncio foi feito pelo governador Carlos Moisés na Casa d'Agronômica.
 

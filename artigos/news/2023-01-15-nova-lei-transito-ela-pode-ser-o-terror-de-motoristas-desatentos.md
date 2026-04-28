@@ -1,11 +1,12 @@
 ---
-title: "Nova lei trânsito: ela pode ser o terror de motoristas desatentos"
+title: 'Nova lei trânsito: ela pode ser o terror de motoristas desatentos'
 date: 2023-01-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Com a nova alteração, conversão à direita com o sinal vermelho já é permitida, porém apenas sob esta condição. Fiquem atentos, motoristas!
 

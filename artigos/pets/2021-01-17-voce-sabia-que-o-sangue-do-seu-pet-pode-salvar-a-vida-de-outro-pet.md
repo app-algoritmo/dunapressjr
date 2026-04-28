@@ -1,11 +1,12 @@
 ---
-title: "Você sabia que o sangue do seu pet pode salvar a vida de outro pet?"
+title: Você sabia que o sangue do seu pet pode salvar a vida de outro pet?
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Saiba que esse também é um procedimento comum e de suma importância no mundo pet.
 

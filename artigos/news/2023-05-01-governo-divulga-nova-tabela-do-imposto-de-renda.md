@@ -1,11 +1,12 @@
 ---
-title: "Governo divulga nova tabela do Imposto de Renda"
+title: Governo divulga nova tabela do Imposto de Renda
 date: 2023-05-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo federal publicou nesta segunda-feira, dia 1º de maio, [a Medida Provisória 1171](http://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Mpv/mpv1171.htm), que altera os valores da tabela mensal do Imposto sobre a Renda das Pessoas Físicas (IRPF). A medida começa a valer a partir de maio de 2023.
 

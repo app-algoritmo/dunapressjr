@@ -1,11 +1,12 @@
 ---
-title: "Projeto regulamenta destinação de recursos públicos para festas juninas"
+title: Projeto regulamenta destinação de recursos públicos para festas juninas
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 3083/23 regulamenta a destinação de recursos públicos para as festas juninas em todo o território nacional. O texto determina que, no mínimo, 80% dos recursos destinados à contratação de artistas e conjuntos musicais sejam usados para financiar apresentações de forró. Pela proposta, os 20% restantes serão destinados a atrações de qualquer gênero musical, com o intuito de promover a diversidade cultural e artística das festividades do São João.
 

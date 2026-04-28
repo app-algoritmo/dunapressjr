@@ -1,11 +1,12 @@
 ---
-title: "O presidente colombiano, Gustavo Petro, tem sua primeira derrota no congresso"
+title: O presidente colombiano, Gustavo Petro, tem sua primeira derrota no congresso
 date: 2023-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo colombiano retirou do Congresso nesta quinta-feira (23) a proposta de reforma política, alegando que com as modificações nos artigos a iniciativa não cumpriria o objetivo de fortalecer a democracia, os partidos e ampliar a participação das mulheres na política.
 

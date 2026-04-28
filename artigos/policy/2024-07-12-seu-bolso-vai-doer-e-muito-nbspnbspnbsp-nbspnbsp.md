@@ -1,11 +1,12 @@
 ---
-title: "Seu bolso vai doer, e muito! &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;"
+title: Seu bolso vai doer, e muito! &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 date: 2024-07-12
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Na última quarta-feira tivemos a votação mais importante do ano na Câmara dos Deputados, o Projeto de Lei Complementar 68/24, que regulamenta a Reforma Tributária, com várias mudanças em relação ao projeto original, de autoria do Poder Executivo. Agora a proposta será enviada ao Senado.
 

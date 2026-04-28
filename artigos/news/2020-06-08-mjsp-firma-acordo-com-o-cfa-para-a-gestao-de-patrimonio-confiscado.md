@@ -1,11 +1,12 @@
 ---
-title: "MJSP firma acordo com o CFA para a gestão de patrimônio confiscado"
+title: MJSP firma acordo com o CFA para a gestão de patrimônio confiscado
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional de Políticas sobre Drogas (Senad/MJSP) estabeleceu parceria com o Conselho Federal de Administração (CFA) para a criação de um banco de dados de profissionais habilitados para gerenciar empresas confiscadas em operações contra o crime organizado e o combate à lavagem de dinheiro no Brasil ou no exterior.
 

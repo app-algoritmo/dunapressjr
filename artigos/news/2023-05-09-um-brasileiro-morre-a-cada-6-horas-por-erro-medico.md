@@ -1,11 +1,12 @@
 ---
-title: "Um brasileiro morre a cada 6 horas por erro médico"
+title: Um brasileiro morre a cada 6 horas por erro médico
 date: 2023-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quase 55 mil pessoas morrem por ano no Brasil devido a erros médicos. Isso é o que aponta o Estudo de Saúde Suplementar, que analisou 182 hospitais nos anos anteriores à pandemia da covid-19. Todos os anos, 19,4 milhões de pessoas são atendidas em instituições hospitalares no país. Dessas, 1,3 milhão sofrem ao menos um efeito colateral causado por negligência ou imprudência durante o atendimento. Com o objetivo de promover a qualidade dos processos hospitalares e garantir a segurança clínica do paciente, cada vez mais hospitais buscam certificações e acreditações internacionais, como da Joint Commission International (JCI), considerada a mais importante do mundo.
 

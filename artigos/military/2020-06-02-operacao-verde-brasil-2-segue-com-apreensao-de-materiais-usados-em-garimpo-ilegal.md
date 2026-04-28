@@ -1,11 +1,13 @@
 ---
-title: "Operação Verde Brasil 2 segue com apreensão de materiais usados em garimpo ilegal"
+title: Operação Verde Brasil 2 segue com apreensão de materiais usados em garimpo
+  ilegal
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Verde Brasil 2 age, desde a última quinta-feira (28), no desmonte de um garimpo ilegal localizado no município de Pontes e Lacerda, no oeste de Mato Grosso. No domingo (31), as ações do Comando Conjunto Barão de Melgaço resultaram na apreensão de diversos equipamentos utilizados nas atividades ligadas a crimes ambientais. Ao todo, 58 pessoas foram presas, enquanto as apreensões somam 16 embarcações, uma motocicleta, duas motosserras, 16 maquinários diversos, dez artefatos menores e uma pequena quantidade de ouro e mercúrio. Ainda, dez balsas e 25 motores de garimpo foram inutilizados por agentes da Polícia Federal e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA).
 

@@ -1,11 +1,12 @@
 ---
-title: "Credenciados mais 11 grupos de inovação em universidades com apoio do MEC"
+title: Credenciados mais 11 grupos de inovação em universidades com apoio do MEC
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Novas unidades Embrapii receberão R$ 30 milhões para desenvolver projetos de inovação com a indústria.**
 

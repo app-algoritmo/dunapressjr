@@ -1,11 +1,13 @@
 ---
-title: "PF apreende material possivelmente usado para difusão de arquivos contendo pornografia infantil"
+title: PF apreende material possivelmente usado para difusão de arquivos contendo
+  pornografia infantil
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Teresina/PI – A Polícia Federal, na manhã de hoje (11/6), cumpriu mandados de busca e apreensão, nos bairros Dirceu II e Promorar, em residências de pessoas investigadas pelo armazenamento e difusão de arquivos informatizados com conteúdo de pornografia infantil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Oferta de bolsas de iniciação científica lançada pelo governo federal"
+title: Oferta de bolsas de iniciação científica lançada pelo governo federal
 date: 2020-05-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Estudantes de graduação e do ensino médio poderão concorrer a mais de 30 mil bolsas para a iniciação científica ofertadas pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
 

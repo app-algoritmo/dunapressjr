@@ -1,11 +1,12 @@
 ---
-title: "IGP-M acumula taxa de inflação de 28,64% em 12 meses, diz FGV"
+title: IGP-M acumula taxa de inflação de 28,64% em 12 meses, diz FGV
 date: 2021-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa é inferior à observada na segunda prévia de janeiro (2,37%).
 

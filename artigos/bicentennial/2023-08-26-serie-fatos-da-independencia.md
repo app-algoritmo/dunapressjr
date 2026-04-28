@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência:"
+title: 'Série Fatos Da Independência:'
 date: 2023-08-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Era o dia 3 de maio de 1817. A Igreja Matriz da vila do Crato, localizada no Ceará, estava apinhada de fiéis, pois estava sendo celebrada a Festa da Santa Cruz. No meio da matriz falava um padre e todos lá presentes ouviam com atenção. Mas – inesperadamente – esse padre não falava de Deus: falava da república. No centro da cena, era lido o Preciso, documento escrito por José Luiz de Mendonça, membro do Governo Provisório de Pernambuco, no qual eram narrados os acontecimentos da Revolução que se iniciou na província vizinha, no mês de março. Conclamando seus conterrâneos a apoiar a revolução dos pernambucanos, o jovem padre chamado José Martiniano defendia a importância da república e da independência: era lá que estava a liberdade do povo! Os abusos da Corte instalada no Rio de Janeiro e seus impostos altíssimos deveriam chegar ao fim. Ele foi aclamado pela multidão, que saiu exaltada pelas ruas dando vivas à república, à pátria e à liberdade!
 

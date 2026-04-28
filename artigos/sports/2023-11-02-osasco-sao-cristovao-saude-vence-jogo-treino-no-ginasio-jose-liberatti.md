@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde vence jogo-treino no ginásio José Liberatti"
+title: Osasco São Cristóvão Saúde vence jogo-treino no ginásio José Liberatti
 date: 2023-11-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Em ação que contou com a presença de sócios-torcedores do time osasquense, comandadas do técnico Luizomar bateram o Renasce Vôlei Sorocaba em quatro sets.
 

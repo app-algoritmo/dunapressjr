@@ -1,11 +1,12 @@
 ---
-title: "Comando da 7ª Região Militar realiza passagem de comando"
+title: Comando da 7ª Região Militar realiza passagem de comando
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Recife (PE)** – No dia 23 de abril, foi realizada no Quartel General do Comando da 7ª Região Militar, Região Matias de Albuquerque, a solenidade de passagem de Comando da 7ª Região Militar do Gen Div Pedro Paulo de Mello Braga para o Gen Div Ivan Ferreira Neiva Filho. A cerimonia foi presidida pelo Gen Ex Marco Antônio Freire Gomes, Comandante Militar do Nordeste.
 

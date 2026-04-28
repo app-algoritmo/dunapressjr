@@ -1,11 +1,12 @@
 ---
-title: "Blocos da área do pré-sal vão a leilão na oferta permanente"
+title: Blocos da área do pré-sal vão a leilão na oferta permanente
 date: 2022-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Regras da licitação foram aprovadas pela ANP.
 

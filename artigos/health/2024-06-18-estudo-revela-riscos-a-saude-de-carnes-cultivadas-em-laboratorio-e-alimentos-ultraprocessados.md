@@ -1,11 +1,13 @@
 ---
-title: "Estudo Revela Riscos à Saúde de Carnes Cultivadas em Laboratório e Alimentos Ultraprocessados"
+title: Estudo Revela Riscos à Saúde de Carnes Cultivadas em Laboratório e Alimentos
+  Ultraprocessados
 date: 2024-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **Produtos de Carne Artificial e Alimentos Ultraprocessados Aumentam Riscos de Doenças Cardiovasculares, Diz [estudo](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext)**.
 

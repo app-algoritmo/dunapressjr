@@ -1,11 +1,13 @@
 ---
-title: "Desafios da Eletrificação: O Colapso das Redes Elétricas e as Alternativas Sustentáveis"
+title: 'Desafios da Eletrificação: O Colapso das Redes Elétricas e as Alternativas
+  Sustentáveis'
 date: 2024-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto países como a Noruega comemoram o sucesso da adoção de carros elétricos, outros, como a Holanda, enfrentam um desafio crescente: o colapso das redes elétricas devido à demanda crescente de energia. Essa situação levanta questões cruciais sobre a capacidade das cidades em lidar com a eletrificação e destaca a necessidade urgente de soluções sustentáveis.
 

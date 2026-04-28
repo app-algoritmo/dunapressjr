@@ -1,11 +1,12 @@
 ---
-title: "Prêmio Nacional de Educação Fiscal vai distribuir R$ 43 mil"
+title: Prêmio Nacional de Educação Fiscal vai distribuir R$ 43 mil
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estão abertas até o dia 13 de julho as inscrições para a edição 2020 do Prêmio Nacional de Educação Fiscal. Já o prazo para reportagens publicadas sobre o tema vai até o dia 28 de setembro.
 

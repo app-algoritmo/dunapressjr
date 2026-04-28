@@ -1,11 +1,13 @@
 ---
-title: "Putin Reforça Doutrina Nuclear Russa: 'Estamos Preparados para Utilizar Todos os Meios'"
+title: 'Putin Reforça Doutrina Nuclear Russa: ''Estamos Preparados para Utilizar Todos
+  os Meios'''
 date: 2024-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um discurso recente, o presidente russo Vladimir Putin reafirmou a doutrina nuclear da Rússia, destacando a disposição do país em usar todos os meios necessários para proteger sua soberania e integridade territorial. Putin sublinhou a seriedade das ameaças nucleares, lembrando que os Estados Unidos foram o único país a usar armas nucleares, em Hiroshima e Nagasaki durante a Segunda Guerra Mundial, e comparando essas bombas de 20 quilotons com as armas nucleares táticas da Rússia, que variam entre 70 e 75 quilotons.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senado conclui votação da reforma da Previdência"
+title: Senado conclui votação da reforma da Previdência
 date: 2019-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Paulo Paim defendeu em Plenário a aprovação do destaque que mantém possibilidade de aposentadoria especial para trabalhador exposto a atividade perigosa*
 

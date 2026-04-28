@@ -1,11 +1,12 @@
 ---
-title: "Qual a diferença entre gripe e resfriado? Quais os sintomas de cada doença?"
+title: Qual a diferença entre gripe e resfriado? Quais os sintomas de cada doença?
 date: 2022-11-16
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Apesar de causarem sintomas muito parecidos e serem tratados basicamente com os mesmos cuidados, é importante destacar que os casos de gripe e [resfriados](https://brasilemergenciasmedicas.com.br/pneumonia-tudo-sobre-a-doenca/) comuns não são a mesma coisa, trata-se de doenças diferentes, causadas por vírus diferentes e cada uma com seu risco.
 

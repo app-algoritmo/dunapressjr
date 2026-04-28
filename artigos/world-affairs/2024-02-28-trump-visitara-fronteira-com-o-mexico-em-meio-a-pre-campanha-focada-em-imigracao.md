@@ -1,11 +1,12 @@
 ---
-title: "Trump Visitará Fronteira com o México em Meio a Pré-Campanha Focada em Imigração"
+title: Trump Visitará Fronteira com o México em Meio a Pré-Campanha Focada em Imigração
 date: 2024-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na próxima quinta-feira, o ex-presidente dos Estados Unidos, Donald Trump, está programado para visitar a fronteira com o México, em um movimento que destaca a imigração como uma das principais questões em sua pré-campanha. A decisão de Trump de realizar essa visita veio após ele censurar o presidente Biden por sua abordagem em relação à fronteira, rotulando-a como "falsa e precipitada".
 

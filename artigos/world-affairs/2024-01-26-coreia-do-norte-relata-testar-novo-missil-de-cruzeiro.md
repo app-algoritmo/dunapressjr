@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte relata testar novo míssil de cruzeiro"
+title: Coreia do Norte relata testar novo míssil de cruzeiro
 date: 2024-01-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os testes foram realizados pela Administração de Mísseis da RPDC.
 

@@ -1,11 +1,12 @@
 ---
-title: "Variação positiva do PIB é influenciada por serviços e indústria"
+title: Variação positiva do PIB é influenciada por serviços e indústria
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### PIB soma R$ 2,544 trilhões em valores correntes no terceiro trimestre.
 

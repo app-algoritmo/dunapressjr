@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro entrega mais de 20 mil cestas e kits de higiene para 208 asilos"
+title: Governo Bolsonaro entrega mais de 20 mil cestas e kits de higiene para 208
+  asilos
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Campanha Solidarize-se, do Ministério da Mulher, da Família e dos Direitos Humanos, já alcançou 208 Instituições de Longa Permanência para Idosos (ILPIs) com suas doações. Os idosos de quatro regiões do País, que vivem nesses abrigos, receberam mais de 150 mil máscaras de proteção individual, cerca de 14,1 mil cestas básicas e 7,5 mil kits de higiene. 
 

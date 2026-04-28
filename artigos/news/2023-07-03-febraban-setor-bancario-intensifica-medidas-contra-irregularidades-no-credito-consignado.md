@@ -1,11 +1,13 @@
 ---
-title: "FEBRABAN: Setor bancário intensifica medidas contra irregularidades no crédito consignado"
+title: 'FEBRABAN: Setor bancário intensifica medidas contra irregularidades no crédito
+  consignado'
 date: 2023-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novas sanções são aplicadas a correspondentes bancários para assegurar a observância das regras de Autorregulação e proteger os consumidores.
 

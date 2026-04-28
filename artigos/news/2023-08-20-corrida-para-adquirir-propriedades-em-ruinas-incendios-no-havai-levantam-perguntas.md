@@ -1,11 +1,13 @@
 ---
-title: "Corrida para Adquirir Propriedades em Ruínas: Incêndios no Havaí Levantam Perguntas"
+title: 'Corrida para Adquirir Propriedades em Ruínas: Incêndios no Havaí Levantam
+  Perguntas'
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **Por que há tanta pressa para comprar as propriedades que acabaram de queimar nos incêndios do Havaí?**
 

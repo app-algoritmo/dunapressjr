@@ -1,11 +1,12 @@
 ---
-title: "Voluntários retomam aos poucos ações em hospitais"
+title: Voluntários retomam aos poucos ações em hospitais
 date: 2021-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palhaços, músicos e até cachorros estão voltando a circular pelos corredores dos hospitais. Após quase dois anos longe, diferentes grupos de voluntários retornam aos poucos e com todos os cuidados para visitas curtas que humanizam o atendimento de pacientes e aliviam a rotina de profissionais de saúde. “O avanço da vacinação contra a covid-19 e a redução do número de casos permitem a volta desses momentos inesquecíveis, em visitas repletas de encantamento, risadas e carinho”, conta a coordenadora do voluntariado e pastoral dos hospitais Universitário Cajuru (HUC) e Marcelino Champagnat (HMC), Nilza Brenny.
 

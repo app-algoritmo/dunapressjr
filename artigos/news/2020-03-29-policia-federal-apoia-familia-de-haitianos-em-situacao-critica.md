@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apoia família de haitianos em situação crítica"
+title: Polícia Federal apoia família de haitianos em situação crítica
 date: 2020-03-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Corumbá/MS - A Polícia Federal acolheu neste sábado (28/03) uma
 família de cidadãos haitianos que, retirada da Bolívia por situação migratória

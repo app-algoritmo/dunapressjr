@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro vai repassar seis milhões para mulheres chefes de família através de Auxílio Emergencial"
+title: Governo Bolsonaro vai repassar seis milhões para mulheres chefes de família
+  através de Auxílio Emergencial
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Caixa Econômica Federal começou a pagar nesta quinta-feira (16) a primeira parcela do Auxílio Emergencial para os beneficiários do Bolsa Família. Seis milhões de famílias monoparentais e chefiadas por mulheres cadastradas no Bolsa Família vão receber automaticamente o auxílio emergencial. Serão 1,1 milhão com direito a receber R$ 1.800, e 4,9 milhões que receberão R$ 1.200. O pagamento obedece ao cronograma habitual do programa.
 

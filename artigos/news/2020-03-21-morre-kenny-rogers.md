@@ -1,11 +1,12 @@
 ---
-title: "Morre Kenny Rogers"
+title: Morre Kenny Rogers
 date: 2020-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O cantor e ator Kenny Rogers, o suave balladeer vencedor do Grammy, que tocou jazz, folk, country e pop com sucessos como "Lucille", "Lady" e "Islands in the Stream" e abraçou sua persona como "The Gambler" em gravar e na TV morreu sexta à noite. Ele tinha 81 anos.
 

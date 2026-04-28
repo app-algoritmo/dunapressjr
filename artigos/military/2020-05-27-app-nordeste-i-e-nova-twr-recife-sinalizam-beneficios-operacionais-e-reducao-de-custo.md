@@ -1,11 +1,13 @@
 ---
-title: "APP Nordeste I e nova TWR Recife sinalizam benefícios operacionais e redução de custo"
+title: APP Nordeste I e nova TWR Recife sinalizam benefícios operacionais e redução
+  de custo
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A utilização racional e otimizada do espaço aéreo, com a adoção de novos conceitos para a navegação aérea, utilizando soluções de alta tecnologia na coordenação eficiente, eficaz e segura da crescente demanda de tráfego aéreo, são princípios do Programa Sirius Brasil, desenvolvido pelo Departamento de Controle do Espaço Aéreo (DECEA).
 

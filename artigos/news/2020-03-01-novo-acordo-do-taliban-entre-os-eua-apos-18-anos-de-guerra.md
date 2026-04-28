@@ -1,11 +1,12 @@
 ---
-title: "Novo acordo do Taliban entre os EUA após 18 anos de guerra"
+title: Novo acordo do Taliban entre os EUA após 18 anos de guerra
 date: 2020-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os americanos nascidos em 11 de setembro de 2001 têm idade suficiente para servir na guerra do Afeganistão, que começou após os ataques do 11 de setembro . Essa guerra pode agora estar terminando - e o Talibã, que parecia ter sido expulso do Afeganistão em 2012, está vencendo. Trata-se de uma reviravolta extraordinária, pois os EUA buscaram um acordo com o Talibã, ignorando seus próprios aliados no governo afegão, como parte da política geral do presidente Donald Trump de reduzir o papel global da América e levar outros a fazer mais. 
 

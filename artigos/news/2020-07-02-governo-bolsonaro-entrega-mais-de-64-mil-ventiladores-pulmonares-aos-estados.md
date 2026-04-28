@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega mais de 6,4 mil ventiladores pulmonares aos estados"
+title: Governo Bolsonaro entrega mais de 6,4 mil ventiladores pulmonares aos estados
 date: 2020-07-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde entregou 6.410 ventiladores pulmonares, aos estados e ao Distrito Federal, para auxílio no atendimento aos pacientes com Covid-19.  Somente entre os dias 22 e 29 de junho foram entregues 1.553 equipamentos. A compra e distribuição dos ventiladores pulmonares é parte do apoio estratégico do Governo do Brasil no combate à pandemia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Zakharova: Kiev está usando dinheiro dos EUA para exterminar populações indígenas na Ucrânia"
+title: 'Zakharova: Kiev está usando dinheiro dos EUA para exterminar populações indígenas
+  na Ucrânia'
 date: 2024-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Lei de mobilização na Ucrânia suspende serviços consulares para homens no exterior.
 

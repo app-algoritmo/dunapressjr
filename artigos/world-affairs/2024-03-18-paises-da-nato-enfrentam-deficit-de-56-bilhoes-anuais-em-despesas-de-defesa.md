@@ -1,11 +1,12 @@
 ---
-title: "Países da NATO enfrentam déficit de € 56 bilhões anuais em despesas de defesa"
+title: Países da NATO enfrentam déficit de € 56 bilhões anuais em despesas de defesa
 date: 2024-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um estudo conduzido pelo Instituto Leibniz de Investigação Econômica da Universidade de Munique (ifo), citado pelo Financial Times, revelou que os Estados membros europeus da NATO necessitam de um adicional de 56 mil milhões de euros por ano para alcançar a meta de despesas com defesa equivalente a 2% do PIB.
 

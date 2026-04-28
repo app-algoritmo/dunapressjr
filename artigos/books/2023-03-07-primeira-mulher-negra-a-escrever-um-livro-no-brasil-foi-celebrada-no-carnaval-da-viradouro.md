@@ -1,12 +1,14 @@
 ---
-title: "Primeira mulher negra a escrever um livro no Brasil foi celebrada no Carnaval da Viradouro"
+title: Primeira mulher negra a escrever um livro no Brasil foi celebrada no Carnaval
+  da Viradouro
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
-  - Culture and History
+- Books
+- Culture and History
 ---
+
 
 “Rosa Maria Egipcíaca”. Importante personagem histórica, Rosa Maria Egipcíaca foi escravizada e, depois, ganhou fama de profetiza e tornou-se a primeira mulher negra a escrever um livro.
 

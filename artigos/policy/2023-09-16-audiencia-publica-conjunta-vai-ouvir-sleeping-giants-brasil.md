@@ -1,11 +1,12 @@
 ---
-title: "Audiência pública conjunta vai ouvir Sleeping Giants Brasil"
+title: Audiência pública conjunta vai ouvir Sleeping Giants Brasil
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 As comissões de Comunicação; e de Fiscalização Financeira e Controle da Câmara dos Deputados vão realizar audiência pública conjunta na quarta-feira (20) para ouvir os representantes da empresa Sleeping Giants Brasil (SGB), que é o desdobramento de um movimento ativista criado em 2016 nos Estados Unidos para inviabilizar economicamente sites, páginas e perfis que propagavam desinformação, discursos de ódio, intolerância e extremismo.
 

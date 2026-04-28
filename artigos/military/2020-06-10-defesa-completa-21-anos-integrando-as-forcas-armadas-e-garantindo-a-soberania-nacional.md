@@ -1,11 +1,13 @@
 ---
-title: "Defesa completa 21 anos integrando as Forças Armadas e garantindo a soberania nacional"
+title: Defesa completa 21 anos integrando as Forças Armadas e garantindo a soberania
+  nacional
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Neste dia em que completa 21 anos de existência, o Ministério da Defesa encontra-se no epicentro de duas grandes operações que atuam diretamente na defesa do País e no fortalecimento da soberania nacional: Covid-19 e Verde Brasil 2. A tradicional cerimônia em comemoração ao aniversário não será realizada, mas, diante de todos os resultados alcançados, nas mais diversas frentes, em prol de toda a Nação, fica latente a certeza do rumo certo e do dever cumprido.
 

@@ -1,11 +1,13 @@
 ---
-title: "2.01 Luiz Henrique Mandetta afirmou que cada centavo economizado deve ser investido em assistência à população"
+title: 2.01 Luiz Henrique Mandetta afirmou que cada centavo economizado deve ser investido
+  em assistência à população
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Novo ministro defende transparência e equidade no sistema público de saúde
 

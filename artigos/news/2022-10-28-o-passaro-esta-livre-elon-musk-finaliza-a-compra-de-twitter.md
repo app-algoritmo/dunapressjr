@@ -1,11 +1,12 @@
 ---
-title: "O Pássaro está livre, Elon Musk finaliza a compra de twitter"
+title: O Pássaro está livre, Elon Musk finaliza a compra de twitter
 date: 2022-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Eu queria entrar em contato pessoalmente para compartilhar minha motivação em adquirir o Twitter. Tem havido muita especulação sobre por que comprei o Twitter e o que penso sobre publicidade.
 

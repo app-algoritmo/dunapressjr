@@ -1,11 +1,12 @@
 ---
-title: "Miocardite após vacinas de mRNA"
+title: Miocardite após vacinas de mRNA
 date: 2023-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Tenho idade suficiente para me lembrar da época em que as novas injeções de mRNA eram consideradas completamente seguras e eficazes. Claro que você não poderia saber disso, era uma mentira desde o início.
 

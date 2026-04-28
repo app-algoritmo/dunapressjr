@@ -1,12 +1,13 @@
 ---
-title: "Um dado curioso: 'A história que inspirou a série 'Coragem, cão covarde'."
+title: 'Um dado curioso: ''A história que inspirou a série ''Coragem, cão covarde''.'
 date: 2023-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 Esta casa feita de madeira que está longe de toda civilização, está localizada no Novo México, Estados Unidos.
 Diz-se que nos anos 70 os donos eram um casal de idosos, e que tinham um cachorro que era como um filho para eles.

@@ -1,12 +1,13 @@
 ---
-title: "Vídeo: Bolsonaro diz adeus"
+title: 'Vídeo: Bolsonaro diz adeus'
 date: 2022-12-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## AO VIVO: PRONUNCIAMENTO DO PRESIDENTE JAIR BOLSONARO À NAÇÃO BRASILEIRA - DISCURSO
 

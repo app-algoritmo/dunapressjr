@@ -1,11 +1,12 @@
 ---
-title: "Dívida bruta cairá para 76,2% do PIB após acordo com BNDES"
+title: Dívida bruta cairá para 76,2% do PIB após acordo com BNDES
 date: 2022-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Tesouro mantém previsão de superávit primário próximo de R$ 40 bilhões.
 

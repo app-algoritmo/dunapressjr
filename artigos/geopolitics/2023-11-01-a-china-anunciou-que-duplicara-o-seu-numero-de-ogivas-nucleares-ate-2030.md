@@ -1,11 +1,12 @@
 ---
-title: "A China anunciou que duplicará o seu número de ogivas nucleares até 2030"
+title: A China anunciou que duplicará o seu número de ogivas nucleares até 2030
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Regime de Biden anuncia nova arma nuclear mais de 20 vezes mais poderosa do que a lançada sobre Hiroshima, poucos dias depois de a China ter dito que duplicaria o seu número de ogivas nucleares até 2030
 

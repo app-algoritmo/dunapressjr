@@ -1,14 +1,15 @@
 ---
-title: "Kirk Cameron rejeitado pelas bibliotecas"
+title: Kirk Cameron rejeitado pelas bibliotecas
 date: 2022-12-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
-  - Education
-  - News
-  - Policy
+- Books
+- Education
+- News
+- Policy
 ---
+
 
 ## O ator de Growing Pains tem um novo livro infantil intitulado As You Grow (conforme você cresce), que gira em torno de temas de fé e família.
 

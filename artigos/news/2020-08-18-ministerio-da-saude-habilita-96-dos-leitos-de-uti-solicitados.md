@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde habilita 96% dos leitos de UTI solicitados"
+title: Ministério da Saúde habilita 96% dos leitos de UTI solicitados
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde maio, o Ministério da Saúde já habilitou 11.827 dos 12.233 leitos solicitados por estados e municípios para o tratamento exclusivo de pacientes da Covid-19, mais de 96% da demanda. Desse total, 247 são de UTI pediátrica. O valor investido é de R$ 1,69 bilhão, pago em parcela única, para que os entes federativos façam o custeio dessas unidades pelos próximos 90 dias, ou enquanto houver necessidade em decorrência da pandemia. O anúncio foi feito na sexta-feira (14), durante coletiva de imprensa on-line, pelo secretário-executivo da Pasta, Élcio Franco, e pelo secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde, Hélio Angotti Neto.
 

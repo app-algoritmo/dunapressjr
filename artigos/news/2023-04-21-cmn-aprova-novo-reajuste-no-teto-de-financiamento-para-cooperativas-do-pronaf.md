@@ -1,11 +1,12 @@
 ---
-title: "CMN aprova novo reajuste no teto de financiamento para cooperativas do Pronaf"
+title: CMN aprova novo reajuste no teto de financiamento para cooperativas do Pronaf
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cooperativas que acessam a linha de crédito Pronaf Industrialização de Agroindústria terão até R$ 30 milhões para financiamentos a serem contratados até 30.06.2023.
 

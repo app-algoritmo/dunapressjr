@@ -1,11 +1,12 @@
 ---
-title: "IPCA tem deflação de 0,68% em julho, menor taxa da série histórica"
+title: IPCA tem deflação de 0,68% em julho, menor taxa da série histórica
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda na inflação oficial foi puxada pela redução nos combustíveis.
 

@@ -1,11 +1,13 @@
 ---
-title: "A maioria dos americanos acredita que Trump vencerá as eleições se o deixarem concorrer"
+title: A maioria dos americanos acredita que Trump vencerá as eleições se o deixarem
+  concorrer
 date: 2024-01-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A maioria dos eleitores registados prevê que **Donald Trump** reconquistará a Casa Branca, independentemente do seu rival democrata, se vencer – se o deixarem vencer – a nomeação republicana, de acordo com uma sondagem da Economist-YouGov.
 

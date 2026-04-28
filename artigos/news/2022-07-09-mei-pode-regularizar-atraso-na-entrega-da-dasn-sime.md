@@ -1,11 +1,12 @@
 ---
-title: "MEI pode regularizar atraso na entrega da DASN-SIME"
+title: MEI pode regularizar atraso na entrega da DASN-SIME
 date: 2022-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A multa será de até 20% do valor dos tributos declarados.
 

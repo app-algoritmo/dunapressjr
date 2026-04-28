@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,47 e sobe mais de 3% na semana"
+title: Dólar fecha a R$ 5,47 e sobe mais de 3% na semana
 date: 2021-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa teve perdas pela segunda semana consecutiva.
 

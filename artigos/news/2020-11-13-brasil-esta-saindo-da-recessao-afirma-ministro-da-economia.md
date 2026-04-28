@@ -1,11 +1,12 @@
 ---
-title: "Brasil está saindo da recessão, afirma ministro da Economia"
+title: Brasil está saindo da recessão, afirma ministro da Economia
 date: 2020-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 “A economia está voltando, saímos da recessão agora, vamos oficialmente sair da recessão. Estamos retomando o crescimento econômico”, ressaltou Guedes.
 

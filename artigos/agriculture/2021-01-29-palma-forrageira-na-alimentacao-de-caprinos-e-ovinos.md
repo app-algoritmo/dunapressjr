@@ -1,11 +1,12 @@
 ---
-title: "Palma forrageira na alimentação de caprinos e ovinos"
+title: Palma forrageira na alimentação de caprinos e ovinos
 date: 2021-01-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 As variedades[ ](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/338-palma-forrageira-na-alimentacao-de-caprinos-e-ovinos#)de palma forrageira cultivadas no semiárido brasileiro são de origem mexicana. Adaptadas às condições ambientais da região, essas forrageiras são de grande importância para o fornecimento de nutrientes e suprimento de parte das necessidades de água dos animais no período seco do ano. Essas cactáceas são imprescindíveis para garantira segurança alimentar dos rebanhos caprinos e ovinos. O Brasil possui um rebanho de aproximadamente 27 milhões de ovinos e caprinos. Desse contingente de bodes, cabras e ovelhas, cerca de 18 milhões são criados na região Nordeste e cerca de 15 milhões encontram-se no semiárido.
 

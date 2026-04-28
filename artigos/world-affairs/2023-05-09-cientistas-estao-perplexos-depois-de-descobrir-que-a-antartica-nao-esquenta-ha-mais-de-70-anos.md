@@ -1,11 +1,13 @@
 ---
-title: "Cientistas estão perplexos depois de descobrir que a Antártica não esquenta há mais de 70 anos"
+title: Cientistas estão perplexos depois de descobrir que a Antártica não esquenta
+  há mais de 70 anos
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os cientistas estão achando difícil explicar por que o continente da Antártica apresentou aquecimento líquido zero nas últimas sete décadas... e provavelmente por muito mais tempo.
 

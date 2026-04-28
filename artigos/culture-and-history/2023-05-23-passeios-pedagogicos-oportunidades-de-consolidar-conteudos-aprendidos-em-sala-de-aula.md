@@ -1,12 +1,14 @@
 ---
-title: "Passeios pedagógicos: oportunidades de consolidar conteúdos aprendidos em sala de aula"
+title: 'Passeios pedagógicos: oportunidades de consolidar conteúdos aprendidos em
+  sala de aula'
 date: 2023-05-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Culture and History
-  - Education
+- Culture and History
+- Education
 ---
+
 
 ## Fazenda Faraó possibilita aos visitantes vivenciar experiências fundamentais para a construção da cidadania.
 

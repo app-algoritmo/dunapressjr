@@ -1,11 +1,12 @@
 ---
-title: "Em tempos da covid-19, pessoas com doenças crônicas precisam reforçar o autocuidado"
+title: Em tempos da covid-19, pessoas com doenças crônicas precisam reforçar o autocuidado
 date: 2022-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Desde 2020, início da pandemia, o novo Coronavírus surgiu como uma grande incógnita para a comunidade científica e a população em geral. Muitas eram as dúvidas que cercavam o novo vírus, e várias delas ainda continuam sem resposta, mesmo pouco mais de um ano depois. Apesar de muitos estudos ainda estarem em desenvolvimento, uma informação já está bem clara: as comorbidades, condições de saúde que agravam uma doença, também podem estar associadas à piora do quadro clínico em uma pessoa com covid-19. 
 

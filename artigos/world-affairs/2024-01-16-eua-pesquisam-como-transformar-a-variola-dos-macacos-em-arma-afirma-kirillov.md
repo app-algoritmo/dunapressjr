@@ -1,11 +1,12 @@
 ---
-title: "EUA pesquisam como transformar a varíola dos macacos em arma, afirma Kirillov"
+title: EUA pesquisam como transformar a varíola dos macacos em arma, afirma Kirillov
 date: 2024-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Igor Kirillov lembrou que trabalhar com este vírus só é permitido em duas instituições - os Centros de Controle e Prevenção de Doenças nos EUA e o centro científico estatal Vector na Rússia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rumble Bloqueado na Rússia por Recusar Censura"
+title: Rumble Bloqueado na Rússia por Recusar Censura
 date: 2024-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo russo tomou medidas oficiais para bloquear o acesso à plataforma de vídeo Rumble, após a empresa se recusar a atender às demandas de censura. O CEO da Rumble, Chris Pavlovski, confirmou o bloqueio, reiterando o compromisso da plataforma com a liberdade de expressão e sua resistência à pressão externa.
 

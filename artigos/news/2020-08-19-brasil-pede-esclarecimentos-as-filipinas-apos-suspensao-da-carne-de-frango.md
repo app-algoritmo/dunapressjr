@@ -1,11 +1,12 @@
 ---
-title: "Brasil pede esclarecimentos às Filipinas após suspensão da carne de frango"
+title: Brasil pede esclarecimentos às Filipinas após suspensão da carne de frango
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Agricultura considerou a medida desproporcional e pediu explicações as autoridades filipinas. O Mapa reafirma que permanece em apuração a suposta detecção de ácido nucleico do coronavírus. 
 

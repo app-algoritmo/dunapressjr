@@ -1,11 +1,12 @@
 ---
-title: "Nova ferramenta transforma automaticamente matemática em imagens"
+title: Nova ferramenta transforma automaticamente matemática em imagens
 date: 2020-06-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Visualizações preparadas para enriquecer o ensino, a comunicação científica
 

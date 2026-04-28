@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde amplia recursos para atendimento às populações ribeirinhas"
+title: Ministério da Saúde amplia recursos para atendimento às populações ribeirinhas
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde está investindo na ampliação dos atendimentos e no cuidado à saúde das populações ribeirinhas, comunidades que habitam nas proximidades ou margens de rios, das regiões da Amazônia Legal e do Pantanal Sul Mato-Grossense. As equipes de Saúde da Família Ribeirinha que atuam nos serviços locais receberão um reforço financeiro para ampliar e qualificar o atendimento.
 

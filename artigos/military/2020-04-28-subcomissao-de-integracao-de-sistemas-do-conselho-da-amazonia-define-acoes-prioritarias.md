@@ -1,11 +1,13 @@
 ---
-title: "Subcomissão de Integração de Sistemas do Conselho da Amazônia define ações prioritárias"
+title: Subcomissão de Integração de Sistemas do Conselho da Amazônia define ações
+  prioritárias
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 28/04/2020 –** Integrantes da Subcomissão de Integração de Sistemas do Conselho da Amazônia realizaram, na segunda-feira (27/4), a primeira reunião do grupo. Os participantes, reunidos por videoconferência, definiram ações prioritárias visando a proteção, preservação e desenvolvimento da Amazônia Legal brasileira.
 

@@ -1,11 +1,12 @@
 ---
-title: "CMN revoga normas de antigo fundo do Pasep"
+title: CMN revoga normas de antigo fundo do Pasep
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Órgão também atualizou regras do Fundo da Marinha Mercante.
 

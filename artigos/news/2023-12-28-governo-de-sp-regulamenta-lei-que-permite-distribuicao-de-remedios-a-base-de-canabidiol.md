@@ -1,11 +1,13 @@
 ---
-title: "Governo de SP regulamenta lei que permite distribuição de remédios à base de canabidiol"
+title: Governo de SP regulamenta lei que permite distribuição de remédios à base de
+  canabidiol
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Pacientes que fazem tratamento para as síndromes de Dravet, Lennox-Gastaut e para Esclerose Tuberosa serão os primeiros a terem acesso.
 

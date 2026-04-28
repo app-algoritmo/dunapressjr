@@ -1,11 +1,12 @@
 ---
-title: "Relatório Revela Aumento Alarmante de Crimes Sexuais na Capital Francesa"
+title: Relatório Revela Aumento Alarmante de Crimes Sexuais na Capital Francesa
 date: 2024-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Faltando apenas três meses para a realização dos Jogos Olímpicos de Paris 2024, novos números alertam para a situação de insegurança que a França, e especificamente a capital, atravessa.
 

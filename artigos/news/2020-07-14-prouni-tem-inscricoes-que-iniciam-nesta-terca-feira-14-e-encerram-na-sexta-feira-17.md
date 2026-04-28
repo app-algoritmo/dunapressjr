@@ -1,11 +1,13 @@
 ---
-title: "ProUni tem inscrições que iniciam nesta terça-feira (14) e encerram na sexta-feira (17)"
+title: ProUni tem inscrições que iniciam nesta terça-feira (14) e encerram na sexta-feira
+  (17)
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Nesta edição, candidatos podem concorrer a 167.780 bolsas oferecidas em 1.061 instituições de ensino superior.
 

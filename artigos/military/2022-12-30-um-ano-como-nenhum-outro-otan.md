@@ -1,14 +1,15 @@
 ---
-title: "Um ano como nenhum outro, OTAN"
+title: Um ano como nenhum outro, OTAN
 date: 2022-12-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Policy
-  - World Affairs
+- Military
+- News
+- Policy
+- World Affairs
 ---
+
 
 ## Mensagem de fim de ano do Secretário-Geral às tropas e veteranos da OTAN
 

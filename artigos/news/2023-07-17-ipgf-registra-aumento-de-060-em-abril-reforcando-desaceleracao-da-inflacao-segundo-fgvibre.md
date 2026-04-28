@@ -1,11 +1,13 @@
 ---
-title: "IPGF registra aumento de 0,60% em abril, reforçando desaceleração da inflação, segundo FGV/Ibre"
+title: IPGF registra aumento de 0,60% em abril, reforçando desaceleração da inflação,
+  segundo FGV/Ibre
 date: 2023-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação acumulada nos últimos 12 meses fica em 3,51%, enquanto índice oficial atinge 4,18%. 
 

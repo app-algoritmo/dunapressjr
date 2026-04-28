@@ -1,11 +1,12 @@
 ---
-title: "Banco Central divulga estatísticas monetárias e de crédito"
+title: Banco Central divulga estatísticas monetárias e de crédito
 date: 2023-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Banco Central do Brasil divulgou nesta segunda-feira (28) as últimas estatísticas monetárias e de crédito referentes ao mês de julho. Os números revelam movimentos no setor de crédito e agregados monetários que apontam para dinâmicas interessantes na economia.
 

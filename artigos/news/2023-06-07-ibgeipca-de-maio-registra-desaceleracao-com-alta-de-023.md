@@ -1,11 +1,12 @@
 ---
-title: "IBGE:IPCA de maio registra desaceleração, com alta de 0,23%"
+title: IBGE:IPCA de maio registra desaceleração, com alta de 0,23%
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice Nacional de Preços ao Consumidor Amplo fica abaixo da taxa de abril e acumula alta de 2,95% no ano.
 

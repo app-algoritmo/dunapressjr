@@ -1,11 +1,12 @@
 ---
-title: "Skyward: Conquiste as estrelas"
+title: 'Skyward: Conquiste as estrelas'
 date: 2022-07-30
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
+- Books
 ---
+
 
 Hoje a dica é de livro, [Skyward](https://amzn.to/3bky5JJ), é a leitura perfeita para jovens de 12 anos para cima, que gostam de histórias sobre outros planetas, naves espaciais e alienígenas, resumindo ficção cientifica. – A linguagem é fácil e envolvente. – Começou, só larga depois que terminar de ler a última página.  
 

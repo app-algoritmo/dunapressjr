@@ -1,11 +1,12 @@
 ---
-title: "OMS falhou no mundo com a pandemia de COVID-19, senador Rick Scoth"
+title: OMS falhou no mundo com a pandemia de COVID-19, senador Rick Scoth
 date: 2020-05-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Em meio à pandemia de coronavírus e à Nova Guerra Fria da China Comunista com os Estados Unidos, a Organização Mundial da Saúde (OMS) serviu como fantoche para o Partido Comunista Chinês", escreve o senador Rick Scott (R-FL) na Fox News.
 

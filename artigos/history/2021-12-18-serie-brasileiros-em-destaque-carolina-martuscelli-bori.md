@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Carolina Martuscelli Bori"
+title: 'Série Brasileiros em Destaque: Carolina Martuscelli Bori'
 date: 2021-12-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Psicóloga.
 

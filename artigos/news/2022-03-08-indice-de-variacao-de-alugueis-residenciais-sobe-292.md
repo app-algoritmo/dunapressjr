@@ -1,11 +1,12 @@
 ---
-title: "Índice de Variação de Aluguéis Residenciais sobe 2,92%"
+title: Índice de Variação de Aluguéis Residenciais sobe 2,92%
 date: 2022-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São Paulo teve ligeira desaceleração: de 2,45% para 2,38%.
 

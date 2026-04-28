@@ -1,11 +1,12 @@
 ---
-title: "Permissão para viajar para o admirável mundo novo das vacinas"
+title: Permissão para viajar para o admirável mundo novo das vacinas
 date: 2023-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Se você não sabe o que é liberdade, agora é a hora de descobrir.
 

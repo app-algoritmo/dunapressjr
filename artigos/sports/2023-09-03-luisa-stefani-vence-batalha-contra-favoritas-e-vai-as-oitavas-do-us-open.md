@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani vence batalha contra favoritas e vai às oitavas do US Open"
+title: Luisa Stefani vence batalha contra favoritas e vai às oitavas do US Open
 date: 2023-09-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e norte-americana Brady derrotaram russas e buscam vaga nas quartas neste domingo (3) às 13h30.
 

@@ -1,11 +1,12 @@
 ---
-title: "Quantidade de neurônios explica a superioridade da inteligência humana"
+title: Quantidade de neurônios explica a superioridade da inteligência humana
 date: 2022-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O que torna os seres humanos tão superiores intelectualmente em relação a outros animais? Um dos possíveis motivos é que humanos simplesmente possuem mais [neurônios](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/191-quantidade-de-neuronios-explica-a-superioridade-da-inteligencia-humana#) do que outros animais, e possuir mais dessas unidades de processamento no cérebro seria um passo necessário para o desenvolvimento de habilidades complexas, como linguagem e matemática. Mas será que humanos realmente possuem mais neurônios? 
 

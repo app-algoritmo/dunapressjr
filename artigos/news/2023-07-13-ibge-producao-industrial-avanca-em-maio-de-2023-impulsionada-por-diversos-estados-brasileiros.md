@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Produção industrial avança em maio de 2023, impulsionada por diversos estados brasileiros"
+title: 'IBGE: Produção industrial avança em maio de 2023, impulsionada por diversos
+  estados brasileiros'
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Amazonas, Pernambuco e Paraná lideram o crescimento, enquanto Santa Catarina e Bahia apresentam recuos mais intensos. 
 

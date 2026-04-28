@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores mostram inclinação de Saturno causada por suas luas"
+title: Pesquisadores mostram inclinação de Saturno causada por suas luas
 date: 2021-01-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dois cientistas do CNRS e da Universidade Sorbonne que trabalham no Instituto de Mecânica Celeste e Cálculo de Efemérides (Observatório de Paris - PSL / CNRS) acabam de mostrar que a influência dos satélites de Saturno pode explicar a inclinação do eixo de rotação do gigante gasoso. Seu trabalho, publicado em 18 de janeiro de 2021 na revista *Nature Astronomy* , também prevê que a inclinação aumentará ainda mais nos próximos bilhões de anos.
 

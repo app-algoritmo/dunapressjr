@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Segurança Pública aprova Lei Geral da Polícia Civil"
+title: Comissão de Segurança Pública aprova Lei Geral da Polícia Civil
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública (CSP) aprovou nesta terça-feira (3) o Projeto de Lei (PL) [4.503/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159997), que cria a Lei Geral da Polícia Civil. O projeto institui princípios e diretrizes a serem seguidas pelos estados quando elaborarem ou reformularem suas leis orgânicas sobre essas organizações. Os senadores aprovaram o relatório do senador Alessandro Vieira (MDB-SE), que manteve o texto como veio da Câmara dos Deputados. Agora, o projeto segue para análise na Comissão de Constituição e Justiça (CCJ).
 

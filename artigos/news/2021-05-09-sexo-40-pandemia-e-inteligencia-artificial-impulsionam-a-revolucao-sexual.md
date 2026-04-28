@@ -1,11 +1,12 @@
 ---
-title: "Sexo 4.0: pandemia e inteligência artificial impulsionam a revolução sexual"
+title: 'Sexo 4.0: pandemia e inteligência artificial impulsionam a revolução sexual'
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O que Alexa, Siri, Google Assistente e pandemia têm a ver com sexo? Tudo. É o que profissionais e pesquisadores de sexualidade humana do mundo todo estão constatando em atendimentos e estudos voltados a entender os efeitos do distanciamento social sobre o comportamento humano. Na visão dos especialistas, assim como o *home office* já era uma tendência que foi acentuada pela necessidade do distanciamento social, a revolução sexual em curso também foi acelerada, consolidando tendências como a busca por formas artificiais de prazer que farão parte do novo normal daqui por diante.
 

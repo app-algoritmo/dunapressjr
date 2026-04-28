@@ -1,11 +1,12 @@
 ---
-title: "Ministério mantém previsão de crescimento da economia em 5,3% este ano"
+title: Ministério mantém previsão de crescimento da economia em 5,3% este ano
 date: 2021-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção para inflação cresceu para 7,9%, mas deve diminuir em 2022.
 

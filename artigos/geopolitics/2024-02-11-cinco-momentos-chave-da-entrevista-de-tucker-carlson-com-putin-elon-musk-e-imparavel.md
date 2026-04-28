@@ -1,12 +1,14 @@
 ---
-title: "Cinco momentos-chave da entrevista de Tucker Carlson com Putin: Elon Musk é imparável"
+title: 'Cinco momentos-chave da entrevista de Tucker Carlson com Putin: Elon Musk
+  é imparável'
 date: 2024-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Technology
+- Geopolitics
+- Technology
 ---
+
 
 ## Navegando pelas Complexidades da Inovação e da Diplomacia em um Mundo em Transformação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Revelações Perturbadoras de um Pediatra"
+title: Revelações Perturbadoras de um Pediatra
 date: 2024-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Em uma entrevista reveladora conduzida no ônibus "Vax-Unvax" da Children's Health Defense, o Dr. Paul Thomas compartilhou detalhes surpreendentes sobre os incentivos financeiros que os pediatras recebem para administrar vacinas. Essa exposição lança luz sobre os desafios enfrentados pelos médicos na manutenção de suas práticas, ao mesmo tempo em que levanta questões profundas sobre os riscos associados à vacinação em massa.
 

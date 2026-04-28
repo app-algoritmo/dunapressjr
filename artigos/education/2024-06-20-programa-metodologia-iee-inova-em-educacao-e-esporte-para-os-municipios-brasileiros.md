@@ -1,12 +1,13 @@
 ---
-title: "Programa Metodologia IEE inova em educação e esporte para os municípios brasileiros"
+title: Programa Metodologia IEE inova em educação e esporte para os municípios brasileiros
 date: 2024-06-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Uma formação pioneira e exclusiva, com os princípios do Esporte Educacional, já adotados em mais de 1.400 cidades e apoiados por 63 mil educadores. Capivari, no interior de São Paulo, recebeu o novo projeto do Instituto Esporte e Educação.
 

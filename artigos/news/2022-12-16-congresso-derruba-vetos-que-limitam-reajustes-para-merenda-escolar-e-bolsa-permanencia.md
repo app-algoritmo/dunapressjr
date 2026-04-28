@@ -1,11 +1,13 @@
 ---
-title: "Congresso derruba vetos que limitam reajustes para merenda escolar e bolsa permanência"
+title: Congresso derruba vetos que limitam reajustes para merenda escolar e bolsa
+  permanência
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O deputado [Pompeo de Mattos (PDT-RS)](https://www.camara.leg.br/deputados/73486) defendeu a derrubada dos vetos relacionados à educação. “[A medida beneficia] estudantes pobres, estudantes de graduação que não têm condições de pagar e que têm a bolsa permanência. Os nossos institutos federais, as nossas universidades vivem uma penúria”, afirmou.
 

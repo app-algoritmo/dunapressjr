@@ -1,11 +1,13 @@
 ---
-title: "Irã denuncia ataques aéreos dos EUA e do Reino Unido no Iêmen como violações à soberania nacional"
+title: Irã denuncia ataques aéreos dos EUA e do Reino Unido no Iêmen como violações
+  à soberania nacional
 date: 2024-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O porta-voz do Ministério das Relações Exteriores do Irã, Nasser Kanaani, expressou veementes críticas no domingo contra os recentes ataques aéreos conduzidos pelos Estados Unidos e pelo Reino Unido no Iêmen, afirmando que tais ações representam uma flagrante violação da soberania e da integridade territorial do país.
 

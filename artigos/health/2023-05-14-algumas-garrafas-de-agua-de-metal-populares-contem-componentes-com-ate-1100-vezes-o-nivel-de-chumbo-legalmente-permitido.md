@@ -1,11 +1,13 @@
 ---
-title: "Algumas garrafas de água de metal populares contêm componentes com até 1.100 vezes o nível de chumbo legalmente permitido"
+title: Algumas garrafas de água de metal populares contêm componentes com até 1.100
+  vezes o nível de chumbo legalmente permitido
 date: 2023-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Garrafas de água reutilizáveis ​​estão se tornando mais populares porque são melhores para o meio ambiente. O uso de garrafas de água de metal pode ajudar a reduzir o desperdício de plástico que você produz, pois elimina a necessidade de comprar água engarrafada e pode preservar a temperatura de bebidas quentes ou frias.
 

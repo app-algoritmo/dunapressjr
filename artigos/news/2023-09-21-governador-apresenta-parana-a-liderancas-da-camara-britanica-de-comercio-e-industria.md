@@ -1,11 +1,13 @@
 ---
-title: "Governador apresenta Paraná a lideranças da Câmara Britânica de Comércio e Indústria"
+title: Governador apresenta Paraná a lideranças da Câmara Britânica de Comércio e
+  Indústria
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Foi o maior encontro entre representantes britânicos e autoridades estaduais dos últimos anos. A Britcham é uma associação sem fins lucrativos cujo objetivo é incrementar as relações de negócios entre Brasil e Reino Unido.
 

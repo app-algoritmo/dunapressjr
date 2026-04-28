@@ -1,11 +1,13 @@
 ---
-title: "Um dos maiores aquários do Brasil é inaugurado em Santa Catarina com recursos do Fungetur"
+title: Um dos maiores aquários do Brasil é inaugurado em Santa Catarina com recursos
+  do Fungetur
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Linha de crédito do MTur, o Fundo Geral do Turismo, financiou R$ 7,2 milhões para a construção do novo atrativo, que deve gerar mais de 400 empregos.* *Oceanic Aquarium conta com 25 habitats e mais de 100 espécies de peixes e animais. * 
 

@@ -1,11 +1,13 @@
 ---
-title: "Lira defende ampliar turismo sustentável para geração de empregos e preservação ambiental"
+title: Lira defende ampliar turismo sustentável para geração de empregos e preservação
+  ambiental
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente da Câmara falou na abertura do Salão Nacional do Turismo 2023.
 

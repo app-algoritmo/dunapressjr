@@ -1,12 +1,13 @@
 ---
-title: "Melo e Matos estão na final do ATP 250 de Stuttgart, na Alemanha"
+title: Melo e Matos estão na final do ATP 250 de Stuttgart, na Alemanha
 date: 2024-06-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Mineiro e gaúcho derrotaram os alemães Frantzen e Jebens em um jogo muito equilibrado, nesta sexta-feira (14). Marcelo vai em busca de seu 38º título na carreira. Decisão será neste domingo (16).
 

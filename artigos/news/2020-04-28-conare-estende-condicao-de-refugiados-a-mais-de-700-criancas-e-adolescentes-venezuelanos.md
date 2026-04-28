@@ -1,11 +1,13 @@
 ---
-title: "Conare estende condição de refugiados a mais de 700 crianças e adolescentes venezuelanos"
+title: Conare estende condição de refugiados a mais de 700 crianças e adolescentes
+  venezuelanos
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 28/04/2020 – **O Comitê Nacional para os Refugiados (Conare) do Ministério da Justiça e Segurança Pública (MJSP) estendeu os efeitos da condição de refugiado a 722 crianças e adolescentes venezuelanos. Em votação em bloco, em reunião online nesta terça-feira (28), a decisão segue novo modelo adotado em dezembro de 2019 e janeiro de 2020, quando o colegiado reconheceu o instituto do refúgio a, ao todo, cerca de 37 mil nacionais da Venezuela.
 

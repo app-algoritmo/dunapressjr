@@ -1,11 +1,13 @@
 ---
-title: "Tragédia Desencadeada pelo Cyberbullying: A Comovente História de Jessica Vitória Canedo"
+title: 'Tragédia Desencadeada pelo Cyberbullying: A Comovente História de Jessica
+  Vitória Canedo'
 date: 2023-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 Recentemente, Jessica Vitória Canedo (22), uma jovem, tornou-se vítima de cyberbullying nas redes sociais, levando à devastadora consequência de ela tirar a própria vida. O contexto em torno de sua experiência, juntamente com uma mensagem comovente que ela enviou àqueles que contribuíram para seu sofrimento, lança luz sobre as sérias consequências do assédio online.
 

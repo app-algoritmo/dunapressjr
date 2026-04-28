@@ -1,12 +1,13 @@
 ---
-title: "Presos trabalham na produção de máscaras de proteção para o combate ao Covid-19"
+title: Presos trabalham na produção de máscaras de proteção para o combate ao Covid-19
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 Brasília, 01/04/2020 - Nos estados brasileiros, presos de unidades prisionais produzem máscaras de proteção em combate ao Coranavírus, a estimativa é que cheguem a fabricar cerca de 300 mil máscaras semanais. Cada unidade federativa dará destinação para o que for produzido, a maioria delas será para o próprio consumo. Em São Paulo, maior população carcerária do Brasil, a fabricação pode chegar a 33 mil máscaras por dia.
 

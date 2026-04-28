@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Volume de serviços recua em janeiro de 2023"
+title: 'IBGE: Volume de serviços recua em janeiro de 2023'
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em relação a janeiro de 2022, o volume de serviços cresceu 6,1%.
 

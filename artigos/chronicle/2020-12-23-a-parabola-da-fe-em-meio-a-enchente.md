@@ -1,11 +1,12 @@
 ---
-title: "A parábola da fé em meio a enchente"
+title: A parábola da fé em meio a enchente
 date: 2020-12-23
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Você acha que estamos numa guerra entre esquerda e direita? Ledo engano! Já estamos na Guerra Mundial entre Verdade e Mentira.**
 

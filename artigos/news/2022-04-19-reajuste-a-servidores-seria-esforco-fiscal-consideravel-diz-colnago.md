@@ -1,11 +1,12 @@
 ---
-title: "Reajuste a servidores seria “esforço fiscal considerável”, diz Colnago"
+title: Reajuste a servidores seria “esforço fiscal considerável”, diz Colnago
 date: 2022-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Secretário diz que percentual de reajuste ainda não foi decidido.
 

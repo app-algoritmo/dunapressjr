@@ -1,11 +1,12 @@
 ---
-title: "Dólar reverte queda e fecha com pequena alta, a R$ 5,31"
+title: Dólar reverte queda e fecha com pequena alta, a R$ 5,31
 date: 2021-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe pelo terceiro dia seguido e retoma os 114 mil pontos.
 

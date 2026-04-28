@@ -1,11 +1,12 @@
 ---
-title: "Facebook e Instagram vão reativar as contas de Donald Trump"
+title: Facebook e Instagram vão reativar as contas de Donald Trump
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Demorou apenas três meses para a Meta, big tech criada por Mark Zuckerberg, replicar a decisão tomada pelo Twitter, agora comandado por Elon Musk, a respeito das restrições impostas ao ex-presidente de Donald Trump. O republicano voltará a ter suas contas no Facebook e Instagram ativas, [segundo](https://about.fb.com/news/2023/01/trump-facebook-instagram-account-suspension/) comunicado da empresa.
 

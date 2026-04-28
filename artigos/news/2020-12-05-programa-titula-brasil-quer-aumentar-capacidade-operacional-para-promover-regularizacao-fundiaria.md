@@ -1,11 +1,13 @@
 ---
-title: "Programa Titula Brasil quer aumentar capacidade operacional para promover regularização fundiária"
+title: Programa Titula Brasil quer aumentar capacidade operacional para promover regularização
+  fundiária
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo criou o Programa Titula Brasil para ampliar os procedimentos de titulação e regularização fundiária das áreas rurais sob domínio da União ou do Instituto Nacional de Colonização e Reforma Agrária (Incra). A [portaria](https://www.in.gov.br/en/web/dou/-/portaria-conjunta-n-1-de-2-de-dezembro-de-2020-291801586) foi publicada nessa quinta-feira (3), no Diário Oficial da União (DOU).
 

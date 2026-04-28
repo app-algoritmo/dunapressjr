@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,16 um dia após segundo turno das eleições"
+title: Dólar cai para R$ 5,16 um dia após segundo turno das eleições
 date: 2022-11-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe 1,31% com entrada de fluxos estrangeiros.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem sexta alta seguida com atenções a Copom; exterior pesa"
+title: Dólar tem sexta alta seguida com atenções a Copom; exterior pesa
 date: 2020-06-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Mercado ficou atento ante à possibilidade de cortes na Selic.
 

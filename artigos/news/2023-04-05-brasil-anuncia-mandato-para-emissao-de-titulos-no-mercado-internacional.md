@@ -1,11 +1,12 @@
 ---
-title: "Brasil anuncia mandato para emissão de títulos no mercado internacional"
+title: Brasil anuncia mandato para emissão de títulos no mercado internacional
 date: 2023-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Tesouro Nacional brasileiro informou nesta quarta-feira (05) que concedeu mandato para emissão de títulos em dólares no mercado internacional. A operação consistirá na emissão de um novo benchmark de 10 anos, com vencimento em 2033. O objetivo da operação é dar continuidade à estratégia do Tesouro Nacional de promover a liquidez da curva de juros soberana em dólar no mercado externo, provendo referência para o setor corporativo e antecipar o financiamento de vencimentos em moeda estrangeira.
 

@@ -1,11 +1,13 @@
 ---
-title: "Plano de avaliação e monitoramento de cursos de Bolsa de Formação instituído pelo MEC"
+title: Plano de avaliação e monitoramento de cursos de Bolsa de Formação instituído
+  pelo MEC
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 [Foi publicada nesta terça-feira (07), no Diário Oficial da União, uma portaria](http://www.in.gov.br/web/dou/-/portaria-n-407-de-6-de-julho-de-2020-265460371) que institui plano para o monitoramento e a avaliação de cursos de educação profissional e tecnológica fomentados pelo Ministério da Educação (MEC) no âmbito da Bolsa Formação. O novo normativo estabelece critérios e indicadores que serão utilizados pelo MEC para analisar entregas e resultados obtidos pelas instituições parceiras ofertantes dos cursos, como órgãos e entidades estaduais, distritais e municipais, além da Rede Federal de Educação Profissional, Científica e Tecnológica.
 

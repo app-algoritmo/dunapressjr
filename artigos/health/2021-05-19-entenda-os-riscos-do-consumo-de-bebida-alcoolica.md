@@ -1,11 +1,12 @@
 ---
-title: "Entenda os riscos do consumo de bebida alcoólica"
+title: Entenda os riscos do consumo de bebida alcoólica
 date: 2021-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O consumo de qualquer tipo de bebida alcoólica pode trazer danos imediatos à saúde ou a médio e longo prazo. Isso sem contar com os riscos de acidentes de trânsito causados pela combinação de álcool e volante. Mas, afinal, que riscos são esses e como evitá-los?
 

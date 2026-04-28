@@ -1,11 +1,13 @@
 ---
-title: "Príncipe deputado debate sobre a importância de uma  reforma constitucional para o Brasil"
+title: Príncipe deputado debate sobre a importância de uma  reforma constitucional
+  para o Brasil
 date: 2020-06-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Estamos como uma biruta no aeroporto que muda conforme o vento, "Luiz Philippe de Orleans e Bragança".
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasil sobe cinco posições e se torna o líder da América Latina no Índice Global de Inovação"
+title: Brasil sobe cinco posições e se torna o líder da América Latina no Índice Global
+  de Inovação
 date: 2023-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País avança no ranking mundial, mas ainda tem potencial não explorado na área de inovação.
 

@@ -1,11 +1,13 @@
 ---
-title: "Perda de memória e dificuldade para andar: covid longa impacta qualidade de vida de idosos e produtividade de jovens, mostra pesquisa"
+title: 'Perda de memória e dificuldade para andar: covid longa impacta qualidade de
+  vida de idosos e produtividade de jovens, mostra pesquisa'
 date: 2022-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Passados mais de dois anos do início da pandemia, os sistemas de saúde do mundo todo enfrentam um novo desafio. Como lidar com a queda da qualidade de vida e de produtividade dos sobreviventes das infecções graves da covid-19? São, em média, oito sintomas que prevalecem mesmo recebendo alta. A gravidade dessas sequelas está diretamente relacionada à idade dos pacientes e o quanto foi grave a fase aguda da doença. Essas são algumas das observações trazidas por um estudo recente sobre covid longa realizado no ambulatório montado pelo Hospital Universitário Cajuru, em Curitiba (PR), em parceria com a PUCPR.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio tem segunda queda consecutiva"
+title: Confiança do comércio tem segunda queda consecutiva
 date: 2023-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança do Comércio (ICOM) recua 3,0 pontos em outubro, segundo dados da FGV IBRE.
 

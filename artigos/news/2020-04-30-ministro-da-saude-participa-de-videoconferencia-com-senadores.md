@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Saúde participa de videoconferência com senadores"
+title: Ministro da Saúde participa de videoconferência com senadores
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nelson Teich explicou as ações adotadas para enfrentamento ao coronavírus. A audiência pública foi transmitida pela Internet e contou com a participação de parlamentares de todos os estados.
 

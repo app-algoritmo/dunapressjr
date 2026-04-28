@@ -1,11 +1,12 @@
 ---
-title: "Drone Valkyrie controlado por IA projetado para uso contra a China"
+title: Drone Valkyrie controlado por IA projetado para uso contra a China
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **A Força Aérea dos EUA está usando IA para testar e refinar o drone XQ-58A, uma arma autônoma que provavelmente seria usada em uma guerra de Taiwan.**
 

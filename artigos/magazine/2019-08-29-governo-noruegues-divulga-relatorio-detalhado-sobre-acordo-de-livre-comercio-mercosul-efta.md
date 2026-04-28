@@ -1,11 +1,13 @@
 ---
-title: "Governo norueguês divulga relatório detalhado sobre Acordo de Livre Comércio Mercosul-EFTA"
+title: Governo norueguês divulga relatório detalhado sobre Acordo de Livre Comércio
+  Mercosul-EFTA
 date: 2019-08-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Comunicado de Imprensa revela como será o comércio de mercadorias no Acordo de Livre Comércio
 

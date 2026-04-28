@@ -1,11 +1,12 @@
 ---
-title: "Internet via rádio, como funciona? – Leia e descubra!"
+title: Internet via rádio, como funciona? – Leia e descubra!
 date: 2022-02-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 **Internet via rádio, como funciona**? Os avanços da tecnologia permitiram, ao longo dos anos, uma conexão à internet cada vez mais rápida e ativa. Ter internet em casa, no escritório, e nas dependências em geral é hoje uma necessidade para todos e muitas das ações diárias são realizadas através da internet.
 

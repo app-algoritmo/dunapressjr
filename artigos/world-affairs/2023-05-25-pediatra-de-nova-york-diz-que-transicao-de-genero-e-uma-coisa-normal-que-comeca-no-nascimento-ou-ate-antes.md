@@ -1,11 +1,13 @@
 ---
-title: "Pediatra de Nova York diz que transição de gênero é uma “coisa normal” que “começa no nascimento ou até antes”"
+title: Pediatra de Nova York diz que transição de gênero é uma “coisa normal” que
+  “começa no nascimento ou até antes”
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As escolas de medicina nos Estados Unidos estão tentando rapidamente normalizar os “cuidados de afirmação de gênero” (mutilação e castração química) para crianças. A Dra. Lauren T. Roth, professora de pediatria no Albert Einstein College of Medicine e médica assistente no Children's Hospital em Montefiore no Bronx, Nova York, acredita que as reformas educacionais são necessárias para que as escolas médicas possam fazer da transição de gênero uma “transição normal”. coisa” para adolescentes, incluindo crianças e bebês. A professora de pediatria defendeu recentemente que a transição de gênero “ [começa no nascimento ou até antes. ](https://americanwirenews.com/starts-at-birth-or-even-before-med-school-professor-says-gender-transition-is-a-normal-thing/)" [enfase adicionada]
 

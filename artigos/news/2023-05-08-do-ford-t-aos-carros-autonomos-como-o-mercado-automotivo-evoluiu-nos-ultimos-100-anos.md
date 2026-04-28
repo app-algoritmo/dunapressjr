@@ -1,11 +1,13 @@
 ---
-title: "Do Ford T aos carros autônomos: como o mercado automotivo evoluiu nos últimos 100 anos"
+title: 'Do Ford T aos carros autônomos: como o mercado automotivo evoluiu nos últimos
+  100 anos'
 date: 2023-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Carros híbridos, elétricos, autônomos e inteligentes são alguns modelos que já fazem parte do dia a dia de muita gente, após uma escalada tecnológica vertiginosa nos últimos tempos. Porém, essa evolução começou há mais de 100 anos, quando o empreendedor Henry Ford tinha o desejo de produzir um carro barato e acessível ao cidadão comum. O primeiro automóvel da Ford foi desenvolvido em 1904, chamado de “Modelo A”. Porém, a grande inovação veio em 1908, com o revolucionário “Ford T”. O veículo inovou não só em sua parte técnica, mas também ajudou a mudar a indústria com a produção em série, marcando o nascimento da era do automóvel, que celebra o seu dia em 13 de maio. Até hoje, a linha de montagem é considerada a maior inovação da indústria automobilística.
 

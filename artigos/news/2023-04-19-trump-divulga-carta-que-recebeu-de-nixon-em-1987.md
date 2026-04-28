@@ -1,11 +1,12 @@
 ---
-title: "Trump divulga carta que recebeu de Nixon em 1987"
+title: Trump divulga carta que recebeu de Nixon em 1987
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Richard Nixon enviou uma carta ao ex-presidente Donald Trump na década de 1980, na qual previa que o 45º comandante-em-chefe do país seria vitorioso se decidisse concorrer a um cargo público.
 

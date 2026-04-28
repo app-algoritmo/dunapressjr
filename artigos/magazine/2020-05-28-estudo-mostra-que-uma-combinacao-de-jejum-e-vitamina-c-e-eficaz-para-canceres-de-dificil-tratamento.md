@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que uma combinação de jejum e vitamina C é eficaz para cânceres de difícil tratamento"
+title: Estudo mostra que uma combinação de jejum e vitamina C é eficaz para cânceres
+  de difícil tratamento
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Os pesquisadores descobriram que uma dieta que imita o jejum pode ser mais eficaz no tratamento de alguns tipos de câncer quando combinados com a vitamina C. Em estudos com ratos, os pesquisadores descobriram que a combinação atrasava a progressão do tumor em vários modelos de câncer colorretal; em alguns ratos, causou regressão da doença.
 

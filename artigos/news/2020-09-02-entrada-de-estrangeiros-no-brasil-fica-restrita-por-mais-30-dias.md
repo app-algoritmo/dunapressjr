@@ -1,11 +1,12 @@
 ---
-title: "Entrada de estrangeiros no Brasil fica restrita por mais 30 dias"
+title: Entrada de estrangeiros no Brasil fica restrita por mais 30 dias
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governo federal prorrogou, por mais 30 dias, as restrições para entrada de estrangeiros no país. A Portaria Interministerial [nº ](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=29/07/2020&jornal=600&pagina=1)419, publicada em edição extra do Diário Oficial da União na quarta-feira (26), foi assinada pelos ministros da Justiça e Segurança Pública, André Mendonça; da Casa Civil, Braga Netto; da Infraestrutura, Tarcísio Gomes de Freitas, e da Saúde (interino), Eduardo Pazuello.
 

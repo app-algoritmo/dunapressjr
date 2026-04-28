@@ -1,11 +1,13 @@
 ---
-title: "Brasil organiza Assembleia da Associação Latino-Americana de Centros de Treinamento para Operações de Paz"
+title: Brasil organiza Assembleia da Associação Latino-Americana de Centros de Treinamento
+  para Operações de Paz
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 **O** **Centro Conjun**to de Operações de Paz do Brasil organizou a XV Assembleia Anual da Associação Latino-Americana de Centros de Treinamento para Operações de Paz. A Assembleia reuniu cerca de 70 autoridades militares, policiais e civis, representando instituições de diversos países, incluindo associados plenos, observadores e convidados, além de autoridades brasileiras, palestrantes e painelistas. 
 

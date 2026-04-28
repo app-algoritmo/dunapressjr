@@ -1,11 +1,12 @@
 ---
-title: "Tomógrafo EMI"
+title: Tomógrafo EMI
 date: 2026-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Continuando a série "50 máquinas que mudaram o rumo da história", vamos falar sobre o Tomógrafo EMI.
 

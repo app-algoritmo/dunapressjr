@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas atuarão na Garantia da Lei e da Ordem no período de 11 de maio a 10 de junho de 2020 nos Estados da Amazônia Legal"
+title: Forças Armadas atuarão na Garantia da Lei e da Ordem no período de 11 de maio
+  a 10 de junho de 2020 nos Estados da Amazônia Legal
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, autorizou a atuação das Forças Armadas, na Garantia da Lei e da Ordem (GLO), no combate ao desmatamento ilegal e a focos de incêndio na Amazônia Legal, que engloba os estados do Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins e parte do Maranhão. O [decreto nº 10.341](http://www.in.gov.br/en/web/dou/-/decreto-n-10.341-de-6-de-maio-de-2020-255615699) foi publicado nesta quinta-feira (7) no Diário Oficial da União.
 

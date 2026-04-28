@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo no Lancet esclarece: a vacina COVID é responsável pela maioria das pessoas encontradas mortas após a injeção"
+title: 'Novo estudo no Lancet esclarece: a vacina COVID é responsável pela maioria
+  das pessoas encontradas mortas após a injeção'
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 As vacinas COVID mataram um grande número de pessoas e o governo tem encoberto isso. O trabalho, publicado como pré-impressão, mostra que 74% das mortes pós-vacinação são devidas à vacinação.
 

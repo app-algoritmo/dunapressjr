@@ -1,11 +1,13 @@
 ---
-title: "Presentes que estavam expostos no Salão Verde, alguns foram destruídos, e outros foram levadas durante invasão da Câmara"
+title: Presentes que estavam expostos no Salão Verde, alguns foram destruídos, e outros
+  foram levadas durante invasão da Câmara
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma pérola do Catar e uma bola de futebol autografada por Neymar, que foram presenteadas à Câmara dos Deputados e estavam expostas no Salão Verde, sumiram depois da invasão da Câmara dos Deputados no domingo (8) por radicais defensores de um golpe de Estado.
 

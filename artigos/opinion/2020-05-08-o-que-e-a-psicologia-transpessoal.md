@@ -1,11 +1,12 @@
 ---
-title: "O que é a Psicologia Transpessoal?"
+title: O que é a Psicologia Transpessoal?
 date: 2020-05-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Por Gabriela Garcia.
 

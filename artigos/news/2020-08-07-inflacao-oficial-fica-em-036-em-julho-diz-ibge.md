@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial fica em 0,36% em julho, diz IBGE"
+title: Inflação oficial fica em 0,36% em julho, diz IBGE
 date: 2020-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Este é o maior índice para um mês de julho desde 2016.
 

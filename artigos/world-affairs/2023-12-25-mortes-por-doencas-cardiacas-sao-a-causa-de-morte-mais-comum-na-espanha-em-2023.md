@@ -1,11 +1,13 @@
 ---
-title: "Mortes por doenças cardíacas são a causa de morte mais comum na Espanha em 2023"
+title: Mortes por doenças cardíacas são a causa de morte mais comum na Espanha em
+  2023
 date: 2023-12-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No total,  **221.462 pessoas perderam a vida nos primeiros seis meses de 2023** , menos 14.245 ( **menos ****6%**  ) do que no mesmo período de 2022, segundo dados preliminares divulgados terça-feira pelo Instituto Nacional de Estatística (INE) **[.](https://www.20minutos.es/minuteca/ine/)********[](https://www.20minutos.es/minuteca/ine/)**
 

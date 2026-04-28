@@ -1,11 +1,12 @@
 ---
-title: "Ataques dos EUA no Iraque: Uma Violenta Sombra na Soberania Iraquiana"
+title: 'Ataques dos EUA no Iraque: Uma Violenta Sombra na Soberania Iraquiana'
 date: 2024-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, a relação entre os Estados Unidos e o Iraque foi marcada por eventos tumultuados, com os ataques aéreos norte-americanos na cidade de Al-Qa'im e nas áreas fronteiriças do oeste do Iraque sendo condenados pela presidência iraquiana como uma violação direta de sua soberania. Este artigo explora os desenvolvimentos recentes, a reação do governo iraquiano e os desdobramentos geopolíticos desse episódio tenso.
 

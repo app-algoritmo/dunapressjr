@@ -1,11 +1,12 @@
 ---
-title: "Microempreendedor fica dispensado de obter alvará de funcionamento"
+title: Microempreendedor fica dispensado de obter alvará de funcionamento
 date: 2020-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resolução entrou em vigor nesta terça-feira (01).
 

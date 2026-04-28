@@ -1,11 +1,13 @@
 ---
-title: "O Massacre da Praça Tiananmen: Protestos Pró-Democracia e Repressão Violenta na China"
+title: 'O Massacre da Praça Tiananmen: Protestos Pró-Democracia e Repressão Violenta
+  na China'
 date: 2024-06-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Massacre da Praça Tiananmen, ocorrido em 4 de junho de 1989, foi um evento crucial na história contemporânea da China, marcado por protestos pró-democracia e sua subsequente repressão violenta pelo governo chinês.
 

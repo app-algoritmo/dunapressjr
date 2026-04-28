@@ -1,11 +1,12 @@
 ---
-title: "Introdução ao Curso Escolar Digital para Pais, Professores e Tutores"
+title: Introdução ao Curso Escolar Digital para Pais, Professores e Tutores
 date: 2024-05-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 No mundo atual, onde a tecnologia se torna cada vez mais presente em todas as esferas da vida, a educação não poderia ficar para trás. Pensando nisso, o curso Professorado surge como uma solução inovadora e gratuita, oferecendo a pais, professores e tutores as ferramentas necessárias para iniciar atividades de ensino digital, mesmo utilizando métodos tradicionais em papel. Este curso é versátil e pode ser aplicado em diversas configurações, seja em salas de aula, em casa, na empresa ou em qualquer outro local com acesso à internet.
 

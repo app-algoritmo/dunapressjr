@@ -1,11 +1,12 @@
 ---
-title: "Priscilla Stevaux sobe ao pódio na Copa Ciudad Deportiva de BMX, na Argentina"
+title: Priscilla Stevaux sobe ao pódio na Copa Ciudad Deportiva de BMX, na Argentina
 date: 2023-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Priscilla Stevaux chegou em terceiro lugar na Copa Ciudad Deportiva, competição disputada neste sábado (22). Em San Juan, na Argentina, a biker paulista, patrocinada pela Shimano, subiu ao pódio na prova com pontuação olímpica. Priscilla representou o Brasil no ciclismo BMX nos Jogos do Rio de Janeiro e Tóquio e busca estar em Paris na Olimpíada de 2024, na França. A vitória foi da brasileira Paola Reis, seguida da argentina Agustina Cavalli.
 

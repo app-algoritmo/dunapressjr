@@ -1,11 +1,12 @@
 ---
-title: "Zuckerberg: 'Facebook não será intimidado pelo boicote à publicidade'"
+title: 'Zuckerberg: ''Facebook não será intimidado pelo boicote à publicidade'''
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Não vamos mudar nossas regras ou nossa abordagem a nada por causa de uma ameaça à nossa renda", disse o chefe do Facebook. Mais de 400 empresas suspenderam suas compras de anúncios na rede social para 1,73 bilhão de usuários diários.
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA investiram em vacinas de mRNA por décadas antes da pandemia"
+title: EUA investiram em vacinas de mRNA por décadas antes da pandemia
 date: 2023-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## No primeiro estudo a examinar sistematicamente o investimento público em vacinas de mRNA, os pesquisadores descobriram que o governo dos EUA fez investimentos significativos em tecnologia de vacinas de mRNA antes mesmo da pandemia de COVID.
 

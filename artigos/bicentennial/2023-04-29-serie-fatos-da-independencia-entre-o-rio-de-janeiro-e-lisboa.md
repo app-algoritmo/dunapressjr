@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Entre o Rio De Janeiro e Lisboa"
+title: 'Série Fatos Da Independência: Entre o Rio De Janeiro e Lisboa'
 date: 2023-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 1808, Dona Maria I, seu filho, o Príncipe Regente Dom João, e grande parte da Corte portuguesa chegaram ao Brasil e, após passarem pela Bahia, se instalaram no Rio de Janeiro. Esse evento não fez mais do que trazer dores de cabeça para os habitantes do Maranhão. A comunicação com Lisboa era muito mais fácil. Em 6 de julho de 1808, o clérigo e futuro arcebispo primaz do Brasil, Romualdo de Seixas, embarcou em Belém com destino ao Rio de Janeiro em visita à Família Real que acabava de desembarcar, não sem antes considerar como “a navegação da costa do Brasil do Norte para o Sul é quase sempre penosa e difícil, porque não se navega só contra vento, mas é preciso ainda vencer corrente d’agua, que é adversa e os mares, cujo choque retarda as embarcações”.
 

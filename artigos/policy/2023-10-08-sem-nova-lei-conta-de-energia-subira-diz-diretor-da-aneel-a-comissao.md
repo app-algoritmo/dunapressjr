@@ -1,11 +1,12 @@
 ---
-title: "Sem nova lei, conta de energia subirá, diz diretor da Aneel a comissão"
+title: Sem nova lei, conta de energia subirá, diz diretor da Aneel a comissão
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A tarifa de energia elétrica em estados menos desenvolvidos continuará aumentando se o Congresso Nacional não alterar as atuais leis sobre o tema. A afirmação foi feita pelo diretor-geral da Agência Nacional de Energia Elétrica (Aneel), Sandoval Feitosa, em audiência pública realizada nesta quinta-feira (5) na Comissão de Infraestrutura (CI). O convite atendeu a requerimentos dos senadores Lucas Barreto (PSD-AP), Jader Barbalho (MDB-PA), Randolfe Rodrigues (Rede-AP) e Esperidião Amin (PP-SC), que presidiu a reunião.
 

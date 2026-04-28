@@ -1,11 +1,12 @@
 ---
-title: "Acompanhe oportunidades e perspectivas para produção de Açaí"
+title: Acompanhe oportunidades e perspectivas para produção de Açaí
 date: 2020-05-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade à iniciativa de debate com atores das principais cadeias de valor da sociobiodiversidade da Amazônia, foi realizado na última semana o terceiro workshop virtual dos Diálogos Pró-Açaí, uma iniciativa do Projeto Mercados Verdes e Consumo Sustentável, parceria entre o Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por meio da Secretaria de Agricultura Familiar e Cooperativismo (SAF), e a Cooperação Alemã para o Desenvolvimento Sustentável (GIZ). 
 

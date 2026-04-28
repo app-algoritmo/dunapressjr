@@ -1,11 +1,12 @@
 ---
-title: "Proposta veta repasse para ações de defesa civil a município sem plano de contingência"
+title: Proposta veta repasse para ações de defesa civil a município sem plano de contingência
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 1425/23 proíbe a União de financiar ações de defesa civil em municípios sem Plano de Contingência de Proteção e Defesa Civil ou que abriguem barragens com risco de colapso. O texto tramita na Câmara dos Deputados.
 

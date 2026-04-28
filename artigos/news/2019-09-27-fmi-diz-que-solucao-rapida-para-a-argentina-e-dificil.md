@@ -1,11 +1,12 @@
 ---
-title: "FMI diz que solução rápida para a Argentina 'é difícil'"
+title: FMI diz que solução rápida para a Argentina 'é difícil'
 date: 2019-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Fundo Monetário Internacional (FMI) "continua
 totalmente comprometido" a tentar ajudar a Argentina, mas uma solução

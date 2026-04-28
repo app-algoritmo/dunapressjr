@@ -1,11 +1,12 @@
 ---
-title: "Turismo nacional deve encerrar o ano com crescimento de 16%"
+title: Turismo nacional deve encerrar o ano com crescimento de 16%
 date: 2021-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A estimativa de faturamento é de R$ 130 bilhões, diz FecomercioSP.
 

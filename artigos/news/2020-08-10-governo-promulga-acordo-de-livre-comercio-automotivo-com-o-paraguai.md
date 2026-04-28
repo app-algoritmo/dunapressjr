@@ -1,11 +1,12 @@
 ---
-title: "Governo promulga acordo de livre comércio automotivo com o Paraguai"
+title: Governo promulga acordo de livre comércio automotivo com o Paraguai
 date: 2020-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Brasil já assinou acordos semelhantes com a Argentina e o Uruguai.
 

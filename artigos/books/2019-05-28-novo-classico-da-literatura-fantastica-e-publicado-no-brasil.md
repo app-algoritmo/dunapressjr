@@ -1,11 +1,12 @@
 ---
-title: "Novo clássico da literatura fantástica é publicado no Brasil"
+title: Novo clássico da literatura fantástica é publicado no Brasil
 date: 2019-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 Essa é uma história que vai encantar a todos os que são fãs de séries como Harry Potter, Percy Jackson e Crepúsculo. Londres, lordes, clãs, confrarias, lobos, vampiros, magos, escolas, aulas de esgrima, escudos mágicos e olimpíadas tornam este livro um promissor clássico juvenil da literatura fantástica e de alta fantasia no Brasil.  
 

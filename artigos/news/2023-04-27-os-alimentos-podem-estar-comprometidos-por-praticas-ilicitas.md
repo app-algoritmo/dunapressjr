@@ -1,11 +1,12 @@
 ---
-title: "Os alimentos podem estar comprometidos por práticas ilícitas?"
+title: Os alimentos podem estar comprometidos por práticas ilícitas?
 date: 2023-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **O armamento genético e biológico continua a ser implantado em todo o abastecimento de alimentos?**
 

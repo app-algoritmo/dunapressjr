@@ -1,12 +1,13 @@
 ---
-title: "Conheça Alguns Alimentos Tóxicos Para Cães"
+title: Conheça Alguns Alimentos Tóxicos Para Cães
 date: 2024-04-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 ## **Confira uma lista de alimentos tóxicos para cães**
 

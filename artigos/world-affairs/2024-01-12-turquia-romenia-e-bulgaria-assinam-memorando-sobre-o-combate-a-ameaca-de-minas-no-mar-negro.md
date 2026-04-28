@@ -1,11 +1,13 @@
 ---
-title: "Turquia, Romênia e Bulgária assinam memorando sobre o combate à ameaça de minas no Mar Negro"
+title: Turquia, Romênia e Bulgária assinam memorando sobre o combate à ameaça de minas
+  no Mar Negro
 date: 2024-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Yasar Guler afirmou que apenas as forças navais dos três signatários do memorando estariam envolvidas no combate à ameaça das minas no Mar Negro.
 

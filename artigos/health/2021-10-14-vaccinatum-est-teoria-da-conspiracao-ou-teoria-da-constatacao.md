@@ -1,11 +1,12 @@
 ---
-title: "Vaccinatum est! Teoria da Conspiração ou Teoria da Constatação?"
+title: Vaccinatum est! Teoria da Conspiração ou Teoria da Constatação?
 date: 2021-10-14
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 A matéria pode ser vista por todos nesta plataforma, bastando: 1) fechar as propagandas; ou, 2) baixar gratuitamente em pdf. Aos nossos queridos leitores e seguidores inscritos, a veiculação de publicidade é diferenciada. Nos escreve um colega: "Procuro ler todas as suas publicações, por saber que seus textos são ricos em verdades. Você escreve de uma maneira bastante explicativa, traduzindo do técnico para o popular, sem perder a base (como que fazendo a linguagem do médico ser compreendida pelo padeiro ou feirante). Suas matérias baseadas em fatos reais nos informam sem doutrinações; as criticas são construtivas e transmite confiança no que escreve! Por essas e outras, leio sempre e compartilho suas postagens com amigos, principalmente com aqueles que sei possuírem bom senso e inteligência! Continue nos trazendo mais textos informativos ou mesmo de críticas eu denúncias: Eu confio no seu talento de escrever sobre qualquer assunto (sem ser bajulador ou piegas)! Sua honestidade e sabedoria nos ajudam discernir o certo do errado! Parabéns por seu trabalho, e conte com meu apoio sempre! Um abraço!" (**Valter Colaneri Júnior**, alquimista, filho do químico Valter Colaneri, um dos pioneiros na fabricação de essências - Santo André – SP, e pai das princesas Laura e Lorena)
 

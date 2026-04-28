@@ -1,11 +1,12 @@
 ---
-title: "Bolsa ignora exterior misto e baixa do petróleo e sobe 1,16%"
+title: Bolsa ignora exterior misto e baixa do petróleo e sobe 1,16%
 date: 2023-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 5,14
 

@@ -1,11 +1,12 @@
 ---
-title: "Kajuru critica aumento no preço dos combustíveis para consumidor final"
+title: Kajuru critica aumento no preço dos combustíveis para consumidor final
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) criticou, em pronunciamento no Plenário nesta terça-feira (29), o aumento no preço dos combustíveis para o consumidor final. Segundo o parlamentar, o valor está acima do projetado pela Petrobras ao reajustar os valores nas refinarias em 15 de agosto.
 

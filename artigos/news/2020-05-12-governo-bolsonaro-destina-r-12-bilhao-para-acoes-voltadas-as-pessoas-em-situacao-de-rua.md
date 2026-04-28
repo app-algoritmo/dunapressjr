@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro destina R$ 1,2 bilhão para ações voltadas às pessoas em situação de rua"
+title: Governo Bolsonaro destina R$ 1,2 bilhão para ações voltadas às pessoas em situação
+  de rua
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Recurso será pago em duas parcelas para o Sistema Único de Assistência Social.
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo ataque com mísseis Katyusha em objetivos americanos no Iraque"
+title: Novo ataque com mísseis Katyusha em objetivos americanos no Iraque
 date: 2020-01-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dois foguetes caíram, nesta quarta-feira à noite, na Zona Verde de Bagdá, onde fica a embaixada americana no Iraque, sirenes soavam dentro da Zona Verde. Fontes policiais disseram que pelo menos um dos foguetes caiu a 100 metros da embaixada dos EUA. Não houve reivindicação imediata de responsabilidade.
 

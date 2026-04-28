@@ -1,11 +1,12 @@
 ---
-title: "BC revisa previsão de crescimento do PIB de 2,7% para 2,9%, neste ano"
+title: BC revisa previsão de crescimento do PIB de 2,7% para 2,9%, neste ano
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para 2023, a estimativa permanece em 1%.
 

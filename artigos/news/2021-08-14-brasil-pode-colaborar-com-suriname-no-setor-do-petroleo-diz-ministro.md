@@ -1,11 +1,12 @@
 ---
-title: "Brasil pode colaborar com Suriname no setor do petróleo, diz ministro"
+title: Brasil pode colaborar com Suriname no setor do petróleo, diz ministro
 date: 2021-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Especialistas apontam o país como novo ator petrolífero sul-americano.
 

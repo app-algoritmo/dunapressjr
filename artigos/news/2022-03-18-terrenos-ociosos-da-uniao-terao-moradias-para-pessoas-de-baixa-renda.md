@@ -1,11 +1,12 @@
 ---
-title: "Terrenos ociosos da União terão moradias para pessoas de baixa renda"
+title: Terrenos ociosos da União terão moradias para pessoas de baixa renda
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Serão atendidas famílias com renda bruta mensal de até cinco salários.
 

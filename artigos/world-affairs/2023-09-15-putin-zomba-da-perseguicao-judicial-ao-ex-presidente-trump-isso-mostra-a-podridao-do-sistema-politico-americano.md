@@ -1,11 +1,13 @@
 ---
-title: "Putin zomba da perseguição judicial ao ex-presidente Trump: “Isso mostra a podridão do sistema político americano”"
+title: 'Putin zomba da perseguição judicial ao ex-presidente Trump: “Isso mostra a
+  podridão do sistema político americano”'
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Quando o seu inimigo autoritário, famoso pelas suas vinganças sombrias, tiver motivos para zombar da interferência política no seu sistema judicial, talvez seja altura de olhar mais de perto o que está a acontecer no seu país.
 

@@ -1,12 +1,14 @@
 ---
-title: "O cão que liderou a missão mais perigosa para levar o soro que salvou muitas vidas"
+title: O cão que liderou a missão mais perigosa para levar o soro que salvou muitas
+  vidas
 date: 2023-06-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
-  - Pets
+- Books
+- Pets
 ---
+
 
 Togo comandou uma equipe de trenó puxado por cães na parte mais longa e perigosa da "corrida do soro", que seria usado para combater uma epidemia mortal de difteria no Alasca, em 1925.
 

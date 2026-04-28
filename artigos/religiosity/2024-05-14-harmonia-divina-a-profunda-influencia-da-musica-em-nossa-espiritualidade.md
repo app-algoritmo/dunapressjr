@@ -1,11 +1,12 @@
 ---
-title: "Harmonia Divina: A Profunda Influência da Música em Nossa Espiritualidade"
+title: 'Harmonia Divina: A Profunda Influência da Música em Nossa Espiritualidade'
 date: 2024-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 A música tem o poder extraordinário de transcender os limites físicos e tocar as fibras mais profundas de nossa alma. Ao longo da história, tem sido uma ferramenta poderosa para expressar e explorar aspectos essenciais de nossa espiritualidade. Desde cânticos religiosos até composições inspiradas, a música tem desempenhado um papel vital na busca pela transcendência e conexão com o divino.
 

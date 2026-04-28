@@ -1,11 +1,12 @@
 ---
-title: "Quilombolas de Goiás recebem do Governo Federal quase 3 mil cestas de alimentos"
+title: Quilombolas de Goiás recebem do Governo Federal quase 3 mil cestas de alimentos
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os quilombolas de sete municípios de Goiás (GO) vão receber quase 3 mil cestas de alimentos. Os itens serão entregues neste mês de agosto.
 

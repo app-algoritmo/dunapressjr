@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova obrigação de fabricante de celular disponibilizar aplicativos de proteção à mulher"
+title: Comissão aprova obrigação de fabricante de celular disponibilizar aplicativos
+  de proteção à mulher
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## App deverá informar a localização em tempo real da vítima e do agressor; notificações serão enviadas à polícia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto caracteriza assédio moral no trabalho como dano extrapatrimonial"
+title: Projeto caracteriza assédio moral no trabalho como dano extrapatrimonial
 date: 2023-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2590/22 caracteriza como dano de natureza extrapatrimonial a ofensa, o prejuízo ou a redução de direitos praticada por empregadores em razão da liberdade de consciência e opinião dos empregados. A proposta, em análise na Câmara dos Deputados, altera a [Consolidação das Leis do Trabalho (CLT)](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-norma-pe.html).
 

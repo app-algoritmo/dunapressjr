@@ -1,11 +1,13 @@
 ---
-title: "Índice de Variação de Aluguéis Residenciais (IVAR) acelera para 1,86% em agosto de 2023"
+title: Índice de Variação de Aluguéis Residenciais (IVAR) acelera para 1,86% em agosto
+  de 2023
 date: 2023-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa acumulada em 12 meses atinge 7,49%.
 

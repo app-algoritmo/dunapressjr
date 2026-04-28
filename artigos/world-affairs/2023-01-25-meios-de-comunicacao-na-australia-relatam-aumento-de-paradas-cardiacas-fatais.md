@@ -1,11 +1,12 @@
 ---
-title: "Meios de comunicação na Austrália relatam aumento de paradas cardíacas fatais"
+title: Meios de comunicação na Austrália relatam aumento de paradas cardíacas fatais
 date: 2023-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os meios de comunicação na Austrália têm relatado o aumento repentino de mortes cardíacas fatais que ocorreram nos últimos meses.
 

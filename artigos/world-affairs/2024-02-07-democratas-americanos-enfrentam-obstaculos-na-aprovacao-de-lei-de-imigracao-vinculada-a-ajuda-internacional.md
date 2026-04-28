@@ -1,11 +1,13 @@
 ---
-title: "Democratas americanos enfrentam obstáculos na aprovação de lei de imigração vinculada à ajuda internacional"
+title: Democratas americanos enfrentam obstáculos na aprovação de lei de imigração
+  vinculada à ajuda internacional
 date: 2024-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os democratas americanos estão enfrentando desafios na aprovação de uma lei de imigração que busca alcançar consenso com os republicanos para aprovar a ajuda à Ucrânia, Israel e Taiwan. A proposta, que incluiria a entrada anual de dois milhões de imigrantes ilegais, está encontrando mais oposição do que o esperado, até mesmo do líder da minoria no Senado, Mitch McConnell.
 

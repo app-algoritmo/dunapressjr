@@ -1,11 +1,13 @@
 ---
-title: "Forte de 3.200 anos, local de batalhas épicas na era bíblica, encontrado no sul de Israel"
+title: Forte de 3.200 anos, local de batalhas épicas na era bíblica, encontrado no
+  sul de Israel
 date: 2021-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Uma cidadela cananéia de 3.200 anos, onde batalhas épicas foram travadas durante os tempos bíblicos, foi desenterrada perto da cidade israelense de Kiryat Gat, anunciou a Autoridade de Antiguidades de Israel (IAA) no domingo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Entidades elogiam manutenção da taxa de juros"
+title: Entidades elogiam manutenção da taxa de juros
 date: 2022-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para CNI e Firjan, novos aumentos ameaçariam recuperação econômica.
 

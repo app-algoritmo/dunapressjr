@@ -1,11 +1,12 @@
 ---
-title: "O incrível encolhimento da OTAN"
+title: O incrível encolhimento da OTAN
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde a cúpula da OTAN em Vilnius, Lituânia, em 11 e 12 de julho de 2023, tenho esperado que o tumulto diminua e que alguém - qualquer um - apresente a razão óbvia pela qual o mascote ucraniano cheirador de cocaína, o presidente Zelensky, que estava sendo elogiado há apenas um ano, caiu repentinamente em desgraça com esta organização.
 

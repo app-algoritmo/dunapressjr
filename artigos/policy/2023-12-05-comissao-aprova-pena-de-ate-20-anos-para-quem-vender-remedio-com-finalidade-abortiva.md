@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova pena de até 20 anos para quem vender remédio com finalidade abortiva"
+title: Comissão aprova pena de até 20 anos para quem vender remédio com finalidade
+  abortiva
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A proposta ainda será analisada de forma [[ conclusiva]] pelas comissões de Defesa dos Direitos da Mulher; de Saúde; e de Constituição e Justiça e de Cidadania.
 

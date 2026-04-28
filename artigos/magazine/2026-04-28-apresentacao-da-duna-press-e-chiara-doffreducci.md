@@ -1,11 +1,12 @@
 ---
-title: "Apresentação da Duna Press e Chiara d’Offreducci"
+title: Apresentação da Duna Press e Chiara d’Offreducci
 date: 2026-04-28
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **Missão**
 

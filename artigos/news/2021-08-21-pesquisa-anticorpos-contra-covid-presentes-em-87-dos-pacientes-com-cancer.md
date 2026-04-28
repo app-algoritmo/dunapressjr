@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Anticorpos contra COVID presentes em 87% dos pacientes com câncer"
+title: 'Pesquisa: Anticorpos contra COVID presentes em 87% dos pacientes com câncer'
 date: 2021-08-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Uma pesquisa "tranquilizadora" realizada em pacientes que completaram o curso de vacinação é um bom presságio para os imunocomprometidos que receberão uma dose de reforço, de acordo com os médicos.
 

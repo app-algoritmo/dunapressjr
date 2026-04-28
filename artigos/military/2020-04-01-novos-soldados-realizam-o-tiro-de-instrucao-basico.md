@@ -1,11 +1,12 @@
 ---
-title: "Novos soldados realizam o Tiro de Instrução Básico"
+title: Novos soldados realizam o Tiro de Instrução Básico
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Maceió (AL)** – Visando o preparo da tropa e seguindo as diretrizes de instrução militar, o 59º Batalhão de Infantaria Motorizado (59º BI Mtz) realizou, no período de 23 a 25 de março, o tiro de instrução básico (TIB) com os soldados do efetivo variável incorporados em 2020.
 

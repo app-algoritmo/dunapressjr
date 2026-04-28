@@ -1,11 +1,12 @@
 ---
-title: "Arquivos do Twitter: Dr. Anthony Fauci 'mentiu sob juramento'"
+title: 'Arquivos do Twitter: Dr. Anthony Fauci ''mentiu sob juramento'''
 date: 2023-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A tão esperada parcela de hoje dos 'Arquivos do Twitter' é trazida a nós pelo jornalista Paul Thacker, ex-investigador principal do senador Chuck Grassley, via The DisInformation Chronicle.
 

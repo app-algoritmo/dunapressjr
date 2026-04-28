@@ -1,11 +1,12 @@
 ---
-title: "Fama póstuma de Richard Gerstl"
+title: Fama póstuma de Richard Gerstl
 date: 2020-06-12
 status: publish
-author: jesshutter
+author: Jessica Jaconetti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 A arte é algo pelo qual tenho paixão. Sempre visito museus, ficando intrigada com as obras, querendo saber mais sobre seus autores e suas narrativas visuais.
 

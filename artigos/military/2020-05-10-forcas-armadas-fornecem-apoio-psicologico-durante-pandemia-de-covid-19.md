@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas fornecem apoio psicológico durante pandemia de COVID-19"
+title: Forças Armadas fornecem apoio psicológico durante pandemia de COVID-19
 date: 2020-05-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Durante a pandemia causada pelo novo Coronavírus em todo mundo, a preocupação de exposição à doença e o distanciamento social podem gerar períodos de estresse além do usual na população. Por isso, as equipes especializadas em psicologia das Forças Armadas se prepararam para enfrentar possíveis problemas psicológicos causados pelo panorama atual. Diversas ações visam cuidar e auxiliar pessoas que passam por eventos potencialmente traumáticos, entre militares, civis e, principalmente, aqueles que atuam efetivamente contra a COVID-19.
 

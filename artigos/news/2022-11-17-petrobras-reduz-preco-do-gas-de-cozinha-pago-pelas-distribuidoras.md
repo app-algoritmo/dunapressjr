@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço do gás de cozinha pago pelas distribuidoras"
+title: Petrobras reduz preço do gás de cozinha pago pelas distribuidoras
 date: 2022-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Redução média é de R$ 2,60 por botijão de 13 quilos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mais de mil moradores de seis cidades do Brasil são beneficiadas por consultório móvel"
+title: Mais de mil moradores de seis cidades do Brasil são beneficiadas por consultório
+  móvel
 date: 2022-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Não tenho muita instrução. Quando criança, estudava e trabalhava na roça e meus pais nunca me levavam ao médico. Em casa, não tinha nem escova de dentes. E depois, já adulta, esse cuidado nunca foi prioridade”. Maria José Pereira do Nascimento, 57 anos, é moradora de Altinópolis (SP) e o único contato que teve até então com um dentista foi para extrair três dentes. Nunca tinha recebido informações sobre como evitar cáries, escovar os dentes, diminuir a inflamação da gengiva, ou mesmo feito limpeza de profilaxia. Nascida em São Bento do Una (PE), Maria é mais uma brasileira que não teve acesso ao atendimento básico na área da saúde bucal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Copom inicia hoje reunião para definir taxa Selic"
+title: Copom inicia hoje reunião para definir taxa Selic
 date: 2020-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nova taxa será anunciada amanhã (17) após 2ª parte da reunião.
 

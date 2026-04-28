@@ -1,11 +1,13 @@
 ---
-title: "Itajaí iniciará vacinação contra COVID-19 em até 24 horas após o recebimento de doses"
+title: Itajaí iniciará vacinação contra COVID-19 em até 24 horas após o recebimento
+  de doses
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Saúde, vai iniciar a vacinação contra COVID-19 em até 24 horas após a entrega das doses pelo Governo do Estado. O prazo foi definido pela Secretaria de Saúde em reunião nesta tarde com participação do prefeito Volnei Morastoni e é necessário em função da logística de distribuição das vacinas para as unidades básicas de saúde e o Centreventos da cidade. Ao todo, serão 34 locais de imunização.
 

@@ -1,11 +1,12 @@
 ---
-title: "Base de Alcântara (MA): aprovada urgência para acordo com EUA"
+title: 'Base de Alcântara (MA): aprovada urgência para acordo com EUA'
 date: 2019-09-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mérito da proposta só será votado após decisão sobre questionamento de Chinaglia. 
 

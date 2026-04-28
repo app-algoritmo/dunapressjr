@@ -1,11 +1,12 @@
 ---
-title: "FMI Aplaude Novo Pacote de Reformas Econômicas do Governo Argentino"
+title: FMI Aplaude Novo Pacote de Reformas Econômicas do Governo Argentino
 date: 2024-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Fundo Monetário Internacional (FMI) emitiu um comunicado nesta sexta-feira, elogiando o novo pacote de reformas econômicas anunciado pelo governo do presidente argentino, Javier Milei. “Saudamos as medidas anunciadas pelo ministro Luis Caputo e pelo presidente do Banco Central, Santiago Bausili, para fortalecer o quadro de política monetária”, afirmou um porta-voz do FMI, conforme relatado pela imprensa argentina.
 

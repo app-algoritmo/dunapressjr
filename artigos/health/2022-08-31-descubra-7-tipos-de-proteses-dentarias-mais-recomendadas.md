@@ -1,11 +1,12 @@
 ---
-title: "Descubra 7 tipos de próteses dentárias mais recomendadas"
+title: Descubra 7 tipos de próteses dentárias mais recomendadas
 date: 2022-08-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 As **próteses dentárias** evoluíram muito com o avanço da tecnologia, assim como diversas outras técnicas.
 

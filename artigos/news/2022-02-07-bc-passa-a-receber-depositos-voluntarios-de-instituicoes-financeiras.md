@@ -1,11 +1,12 @@
 ---
-title: "BC passa a receber depósitos voluntários de instituições financeiras"
+title: BC passa a receber depósitos voluntários de instituições financeiras
 date: 2022-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A medida serve para gerenciamento da quantidade de moeda em circulação.
 

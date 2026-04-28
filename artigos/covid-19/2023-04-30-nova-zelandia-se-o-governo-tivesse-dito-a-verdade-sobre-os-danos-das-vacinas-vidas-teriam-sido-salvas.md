@@ -1,11 +1,13 @@
 ---
-title: "Nova Zelândia: se o governo tivesse dito a verdade sobre os danos das vacinas, vidas teriam sido salvas"
+title: 'Nova Zelândia: se o governo tivesse dito a verdade sobre os danos das vacinas,
+  vidas teriam sido salvas'
 date: 2023-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Dados vazados do governo da região de Wellington, na Nova Zelândia, mostram que o número de ataques cardíacos que levaram à hospitalização aumentou 83%. O número de internações por miocardite aumentou em um terço, ou seja, em 33%. Abortos, natimortos e derrames aumentaram em um quarto, ou seja, em 25%. E as lesões renais agudas aumentaram 40%.
 

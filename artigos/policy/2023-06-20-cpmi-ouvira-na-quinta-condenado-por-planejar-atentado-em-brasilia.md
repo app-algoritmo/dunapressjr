@@ -1,11 +1,12 @@
 ---
-title: "CPMI ouvirá na quinta condenado por planejar atentado em Brasília"
+title: CPMI ouvirá na quinta condenado por planejar atentado em Brasília
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Também será ouvido o perito responsável pela elaboração do laudo da Polícia Civil sobre o evento, Valdir Pires Dantas Filho.
 

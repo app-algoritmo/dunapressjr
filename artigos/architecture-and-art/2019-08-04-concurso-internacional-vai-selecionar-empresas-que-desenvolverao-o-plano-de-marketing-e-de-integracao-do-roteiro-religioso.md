@@ -1,11 +1,13 @@
 ---
-title: "Concurso internacional vai selecionar empresas que desenvolverão o plano de marketing e de integração do roteiro religioso"
+title: Concurso internacional vai selecionar empresas que desenvolverão o plano de
+  marketing e de integração do roteiro religioso
 date: 2019-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 # BID abre edital para fortalecer as Missões Jesuíticas
 

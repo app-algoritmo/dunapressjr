@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto atingem R$ 42,417 bilhões em 2022"
+title: Vendas do Tesouro Direto atingem R$ 42,417 bilhões em 2022
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Total de investidores ativos aumenta 17,4% em 12 meses.
 

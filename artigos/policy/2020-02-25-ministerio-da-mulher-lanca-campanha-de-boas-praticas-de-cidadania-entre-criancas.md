@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Mulher lança campanha de boas práticas de cidadania entre crianças"
+title: Ministério da Mulher lança campanha de boas práticas de cidadania entre crianças
 date: 2020-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou no dia 14 de fevereiro a campanha “Palavras Mágicas”. O intuito é fomentar uma cultura de respeito, gentileza e empatia entre as crianças, características essenciais para o bom relacionamento interpessoal. 
 

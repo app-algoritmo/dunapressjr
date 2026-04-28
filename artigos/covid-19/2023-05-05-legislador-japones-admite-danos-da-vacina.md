@@ -1,11 +1,12 @@
 ---
-title: "Legislador japonês admite danos da vacina"
+title: Legislador japonês admite danos da vacina
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Posso apresentar: Kazuhiro Haraguchi. Atualmente é deputado pelo Partido Democrático Constitucional (CDP) na Câmara dos Comuns e foi Ministro da Administração Interna de 2009 a 2010.
 

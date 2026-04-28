@@ -1,11 +1,12 @@
 ---
-title: "PF cumpre mandado de busca e apreensão no âmbito da Operação Arquivo Proibido"
+title: PF cumpre mandado de busca e apreensão no âmbito da Operação Arquivo Proibido
 date: 2020-07-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE – A Polícia Federal deflagrou, na manhã desta sexta-feira (3/7), mais uma fase da Operação Arquivo Proibido, com o objetivo de combater a posse e/ou divulgação de imagens e/ou vídeos de pornografia infantojuvenil pela internet.
 

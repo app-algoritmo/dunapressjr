@@ -1,11 +1,13 @@
 ---
-title: "Parlamentares bolsonaristas criticam ação da PF contra acusados de envolvimento em atos antidemocráticos"
+title: Parlamentares bolsonaristas criticam ação da PF contra acusados de envolvimento
+  em atos antidemocráticos
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parlamentares aliados ao presidente Jair Bolsonaro aproveitaram a sessão do Congresso Nacional nesta quinta-feira (15) para criticar a ação da Polícia Federal contra pessoas acusadas de ligação com atos antidemocráticos iniciados após a vitória de Lula nas eleições presidenciais deste ano. A ação foi ordenada pelo ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes.
 

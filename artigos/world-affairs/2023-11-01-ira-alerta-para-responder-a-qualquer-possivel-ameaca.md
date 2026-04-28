@@ -1,11 +1,12 @@
 ---
-title: "Irã alerta para responder a qualquer possível ameaça"
+title: Irã alerta para responder a qualquer possível ameaça
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Embaixador do Irã e Representante Permanente nas Nações Unidas, Amir Saeed Iravani, alertou que a República Islâmica responderá a qualquer ameaça, ataque ou agressão.
 

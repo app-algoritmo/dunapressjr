@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump vence primárias republicanas na Carolina do Sul, solidificando sua liderança"
+title: Donald Trump vence primárias republicanas na Carolina do Sul, solidificando
+  sua liderança
 date: 2024-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, consolidou sua liderança nas primárias republicanas ao vencer de forma convincente no estado da Carolina do Sul. Enfrentando sua principal adversária, Nikki Haley, Trump obteve uma vitória esmagadora, conquistando 59,8% dos votos em comparação com os 39,5% de Haley. Essa vitória não apenas reforça a posição de Trump como favorito nas primárias, mas também praticamente elimina as chances de Haley de uma eventual vitória em seu estado natal.
 

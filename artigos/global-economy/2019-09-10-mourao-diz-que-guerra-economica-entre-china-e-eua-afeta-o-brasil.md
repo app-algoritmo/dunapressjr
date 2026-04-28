@@ -1,11 +1,12 @@
 ---
-title: "Mourão diz que guerra econômica entre China e EUA afeta o Brasil"
+title: Mourão diz que guerra econômica entre China e EUA afeta o Brasil
 date: 2019-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ele participou hoje em SP de evento com empresários chineses.
 

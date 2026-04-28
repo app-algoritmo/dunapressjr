@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, 19 vegetais que você pode cultivar facilmente em sua cozinha"
+title: Coronavírus, 19 vegetais que você pode cultivar facilmente em sua cozinha
 date: 2020-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 O mundo está em guerra contra um inimigo invisível e letal, prevenção e economia são as palavras do momento, não deixe que ele te pegue de surpresa. Preparamos algumas dicas de alimentos que você pode cultivar em sua casa facilmente em tempo curto.
 

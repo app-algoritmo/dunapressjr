@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Vendas do comércio varejista em fevereiro de 2023 apresenta queda de 0,1% em relação a janeiro"
+title: 'IBGE: Vendas do comércio varejista em fevereiro de 2023 apresenta queda de
+  0,1% em relação a janeiro'
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar da queda apresentada, houve um crescimento de 1,0% na comparação com fevereiro do ano anterior.
 

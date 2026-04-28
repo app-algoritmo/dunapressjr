@@ -1,12 +1,13 @@
 ---
-title: "A parábola de Moisés e o tempo perdido"
+title: A parábola de Moisés e o tempo perdido
 date: 2020-12-11
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
-  - Religiosity
+- Chronicle
+- Religiosity
 ---
+
 
 **Este ano é diferente? Sim. Perdido, jamais!**
 

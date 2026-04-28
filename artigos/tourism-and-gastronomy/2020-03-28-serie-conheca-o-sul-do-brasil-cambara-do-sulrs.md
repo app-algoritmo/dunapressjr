@@ -1,11 +1,12 @@
 ---
-title: "Série conheça o Sul do Brasil: Cambará do Sul/RS"
+title: 'Série conheça o Sul do Brasil: Cambará do Sul/RS'
 date: 2020-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Além dos atrativos naturais, o visitante encontra hospitalidade e uma população que preserva suas tradições, por meio dos grupos folclóricos, danças gaúchas e comidas típicas. Conhecido como a "terra dos cânions", o município de Cambará é o principal acesso aos parques nacionais Aparados da Serra e Serra Geral, com paisagens formadas por rios, cachoeiras e trilhas que levam aos cânions do Itaimbezinho, da Fortaleza e do Malacara.
 

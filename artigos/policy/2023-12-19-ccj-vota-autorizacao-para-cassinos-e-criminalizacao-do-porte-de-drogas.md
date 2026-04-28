@@ -1,11 +1,12 @@
 ---
-title: "CCJ vota autorização para cassinos e criminalização do porte de drogas"
+title: CCJ vota autorização para cassinos e criminalização do porte de drogas
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) poderá votar na quarta-feira (20), em reunião agendada para as 10h, o projeto da Câmara dos Deputados que autoriza o funcionamento de cassinos e bingos, legaliza o jogo do bicho e permite apostas em corridas de cavalos. O [PL 2.234/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/154401) tem voto favorável do senador Irajá (PSD-TO) em seu relatório.
 

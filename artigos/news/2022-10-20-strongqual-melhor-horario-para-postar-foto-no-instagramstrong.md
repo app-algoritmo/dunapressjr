@@ -1,11 +1,12 @@
 ---
-title: "<strong>Qual melhor horário para postar foto no Instagram</strong>"
+title: <strong>Qual melhor horário para postar foto no Instagram</strong>
 date: 2022-10-20
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O Instagram é uma plataforma usada no mundo todo e pela grandes empresas que desejam conquistar mais seguidores, crescer o seu perfil e consequentemente alavancar suas vendas.
 

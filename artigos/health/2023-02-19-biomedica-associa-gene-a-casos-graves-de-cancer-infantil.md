@@ -1,11 +1,12 @@
 ---
-title: "Biomédica associa gene a casos graves de câncer infantil"
+title: Biomédica associa gene a casos graves de câncer infantil
 date: 2023-02-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Lívia Fratini Dutra é graduada em Biomedicina pela Universidade Federal do Rio Grande do Sul (UFRGS), em 2016, mesma instituição onde se tornou mestre em Ciências Médicas e atualmente é doutoranda em Biologia Celular e Molecular. Em ambas as etapas recebeu bolsas da CAPES. Em sua pesquisa, a biomédica identificou a associação de um gene aos casos mais graves de meduloblastoma, um tipo de câncer no cérebro que afeta crianças. Os resultados da pesquisa [foram publicados](https://pubmed.ncbi.nlm.nih.gov/35716340/) no periódico internacional *NeuroMolecular Medicine*.
 

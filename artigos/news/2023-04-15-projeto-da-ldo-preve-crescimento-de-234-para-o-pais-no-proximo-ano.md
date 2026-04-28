@@ -1,11 +1,12 @@
 ---
-title: "Projeto da LDO prevê crescimento de 2,34% para o país no próximo ano"
+title: Projeto da LDO prevê crescimento de 2,34% para o país no próximo ano
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação cairá para 3,52% em 2024, depois de alcançar 5,31% em 2023.
 

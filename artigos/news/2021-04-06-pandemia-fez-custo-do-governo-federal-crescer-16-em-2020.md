@@ -1,11 +1,12 @@
 ---
-title: "Pandemia fez custo do governo federal crescer 16% em 2020"
+title: Pandemia fez custo do governo federal crescer 16% em 2020
 date: 2021-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sem Ministério da Saúde, gastos de funcionamento teriam caído 10%.
 

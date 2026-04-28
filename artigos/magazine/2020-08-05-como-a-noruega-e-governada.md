@@ -1,11 +1,12 @@
 ---
-title: "Como a Noruega é governada?"
+title: Como a Noruega é governada?
 date: 2020-08-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 De acordo com a Constituição, que foi adotada em 1814, a Noruega é uma monarquia na qual o poder é dividido entre três ramos: um ramo **legislativo** que também é responsável pelas apropriações, o Storting; um ramo **executivo**, o governo; e um ramo **judicial**, os tribunais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina protocolo de intenções para instalação de Centro de Distribuição de fabricante da Brastemp e Consul na Paraíba"
+title: Governador da Paraíba assina protocolo de intenções para instalação de Centro
+  de Distribuição de fabricante da Brastemp e Consul na Paraíba
 date: 2021-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo assinou, nesta segunda-feira (26), durante videoconferência com representantes da fabricante mundial de eletrodomésticos Whirlpool Corporation, dona das marcas Brastemp, Consul, KitchenAin e do sistema de e-commerce Compra Certa, o protocolo de intenções para a instalação do Centro de Distribuição do grupo no município de Alhandra, onde serão investidos, inicialmente, R$ 2,5 milhões em infraestrutura, contratações e consultorias e gerados 119 empregos diretos e indiretos. 
 

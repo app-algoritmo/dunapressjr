@@ -1,11 +1,12 @@
 ---
-title: "Atividade Física: importância dessa prática para a saúde"
+title: 'Atividade Física: importância dessa prática para a saúde'
 date: 2021-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Vamos deixar o sedentarismo de lado e colher os bons frutos que a prática regular de atividade física proporciona ao nosso corpo e mente. E não adianta pensar naquela velha desculpa de que é difícil começar, não tem tempo ou que é complicado dar continuidade aos exercícios físicos. Aderir à prática de atividades físicas, por ao menos três vezes por semana, só depende de nós.
 

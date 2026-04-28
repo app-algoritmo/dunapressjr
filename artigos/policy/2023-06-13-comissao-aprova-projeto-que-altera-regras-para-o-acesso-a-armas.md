@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que altera regras para o acesso a armas"
+title: Comissão aprova projeto que altera regras para o acesso a armas
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta modifica o Estatuto do Desarmamento.
 

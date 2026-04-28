@@ -1,11 +1,13 @@
 ---
-title: "Projeto obriga veículo de aplicativo a transportar passageiro com animal de estimação"
+title: Projeto obriga veículo de aplicativo a transportar passageiro com animal de
+  estimação
 date: 2024-02-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O Projeto de Lei 2548/23 assegura a donos de animais de estimação o direito de transportá-los em veículos de transporte por aplicativo. O texto está sendo analisado pela Câmara dos Deputados.
 

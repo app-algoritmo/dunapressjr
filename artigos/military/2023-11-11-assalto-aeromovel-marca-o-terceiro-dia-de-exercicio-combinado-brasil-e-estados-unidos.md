@@ -1,11 +1,13 @@
 ---
-title: "Assalto aeromóvel marca o terceiro dia de exercício combinado Brasil e Estados Unidos"
+title: Assalto aeromóvel marca o terceiro dia de exercício combinado Brasil e Estados
+  Unidos
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Assalto Aeromóvel foi realizado no terceiro dia do Exercício Combinado Brasil/EUA, CORE 23 (Combined Operations and Rotation Exercises), que reúne tropas brasileiras e norte-americanas na região da Amazônia Oriental, em Belém (PA), Macapá, Ferreira Gomes e Oiapoque (AP), até o dia 16 de novembro.
 

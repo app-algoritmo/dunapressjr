@@ -1,11 +1,13 @@
 ---
-title: "No sexto dia de Operação Maré forças de segurança descobrem laboratório para a produção de lança-perfume"
+title: No sexto dia de Operação Maré forças de segurança descobrem laboratório para
+  a produção de lança-perfume
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A ação integrada das polícias percorreu as comunidades Nova Holanda, Parque União e Sem Terra, onde três prisões foram efetuadas.
 

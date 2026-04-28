@@ -1,11 +1,12 @@
 ---
-title: "Governo Central registra superávit primário de R$ 2,1 bilhões em março"
+title: Governo Central registra superávit primário de R$ 2,1 bilhões em março
 date: 2021-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do primeiro trimestre, há superávit primário de R$ 24,443 bilhões.
 

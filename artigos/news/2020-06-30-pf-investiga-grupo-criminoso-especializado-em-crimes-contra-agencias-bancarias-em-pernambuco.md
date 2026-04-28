@@ -1,11 +1,13 @@
 ---
-title: "PF investiga grupo criminoso especializado em crimes contra agências bancárias em Pernambuco"
+title: PF investiga grupo criminoso especializado em crimes contra agências bancárias
+  em Pernambuco
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Caruaru/PE - A Polícia Federal deflagrou nesta terça-feira (30/6) a Operação Dissímulo, com a finalidade de descortinar a atuação de uma associação criminosa estabelecida na região dos municípios de Caruaru e Santa Cruz do Capibaribe, especializada na execução de crimes patrimoniais contra agências bancárias, na modalidade de roubo mediante sequestro e extorsão de funcionários, tendo como líder um homem, de 32 anos, natural da Bahia e residente em Caruaru/PE.
 

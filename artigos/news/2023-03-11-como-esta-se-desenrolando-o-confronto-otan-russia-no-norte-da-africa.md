@@ -1,11 +1,12 @@
 ---
-title: "Como está se desenrolando o confronto OTAN-Rússia no norte da África"
+title: Como está se desenrolando o confronto OTAN-Rússia no norte da África
 date: 2023-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Autoridades ocidentais agora admitem abertamente que a guerra contra a Rússia (e a China) é global e consiste em blocos concorrentes.
 

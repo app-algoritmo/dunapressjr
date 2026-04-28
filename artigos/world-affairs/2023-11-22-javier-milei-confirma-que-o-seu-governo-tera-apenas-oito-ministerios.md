@@ -1,11 +1,12 @@
 ---
-title: "Javier Milei confirma que o seu Governo terá apenas oito ministérios"
+title: Javier Milei confirma que o seu Governo terá apenas oito ministérios
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente eleito da Argentina, **Javier Milei** , confirmou esta segunda-feira que o seu gabinete será composto por **apenas oito ministérios** e anunciou que o advogado **Mariano Cúneo Libarona** será o responsável por assumir as funções da Justiça.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mais de 14,28 milhões de famílias receberam o benefício Bolsa Família em maio"
+title: Mais de 14,28 milhões de famílias receberam o benefício Bolsa Família em maio
 date: 2020-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 95% dos beneficiários do programa também receberam o Auxílio Emergencial, que superou R$ 15,2 bilhões em investimentos. Entre os dias 18 e 29 de maio, o Ministério da Cidadania realizou o pagamento dos benefícios do Bolsa Família e da segunda parcela do Auxílio Emergencial. 
 

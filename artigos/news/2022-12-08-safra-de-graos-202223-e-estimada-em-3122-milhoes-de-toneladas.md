@@ -1,11 +1,12 @@
 ---
-title: "Safra de grãos 2022/23 é estimada em 312,2 milhões de toneladas"
+title: Safra de grãos 2022/23 é estimada em 312,2 milhões de toneladas
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são do terceiro levantamento da Conab.
 

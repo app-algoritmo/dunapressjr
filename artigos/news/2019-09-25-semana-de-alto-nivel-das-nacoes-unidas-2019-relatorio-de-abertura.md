@@ -1,11 +1,12 @@
 ---
-title: "Semana de Alto Nível das Nações Unidas 2019: Relatório de abertura"
+title: 'Semana de Alto Nível das Nações Unidas 2019: Relatório de abertura'
 date: 2019-09-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A semana de alto nível da ONU, está em andamento! A primeira-ministra Erna Solberg chefia a delegação norueguesa, juntamente com o príncipe herdeiro, o ministro das Relações Exteriores, o ministro do Desenvolvimento, o ministro do Clima e Meio Ambiente e o ministro da Saúde. Uma das principais prioridades durante a semana de alto nível deste ano é a candidatura da Noruega ao Conselho de Segurança da ONU em 2021-22.
 

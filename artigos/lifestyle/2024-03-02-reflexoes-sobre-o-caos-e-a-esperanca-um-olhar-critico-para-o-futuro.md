@@ -1,11 +1,12 @@
 ---
-title: "Reflexões sobre o Caos e a Esperança: Um Olhar Crítico para o Futuro"
+title: 'Reflexões sobre o Caos e a Esperança: Um Olhar Crítico para o Futuro'
 date: 2024-03-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 Nos tempos tumultuados em que vivemos, é difícil escapar do eco das palavras proféticas que nos alertam para um futuro marcado pela desordem e insanidade. A citação inicial, com sua visão apocalíptica, oferece uma análise contundente da condição humana e das tendências globais que podem moldar nosso destino coletivo.
 

@@ -1,12 +1,14 @@
 ---
-title: "Pequeno Cotolengo promove Festa Julina com atrações musicais, comidas típicas e solidariedade"
+title: Pequeno Cotolengo promove Festa Julina com atrações musicais, comidas típicas
+  e solidariedade
 date: 2024-07-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Health
+- Events
+- Health
 ---
+
 
 ## O evento será realizado no domingo, 07 de julho, a programação começa às 10h com a Santa Missa e segue até às 18h com shows e apresentações. 
 

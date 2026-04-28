@@ -1,11 +1,13 @@
 ---
-title: "BTG ganha primeira batalha contra Americanas e consegue liminar para bloqueio de R$ 1,2 bilhão"
+title: BTG ganha primeira batalha contra Americanas e consegue liminar para bloqueio
+  de R$ 1,2 bilhão
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Tribunal de Justiça do Rio de Janeiro suspendeu nesta quarta-feira (18) a decisão judicial que havia [negado o pedido do BTG Pactual](https://trademap.com.br/agencia/mercados/btg-pactual-bpac11-perde-mais-uma-disputa-contra-a-americanas-amer3-na-justica) contra a decisão a favor da Americanas que impediu qualquer bloqueio ou arresto de bens da empresa até eventual apresentação de plano de recuperação judicial.
 

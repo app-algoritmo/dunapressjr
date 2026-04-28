@@ -1,11 +1,12 @@
 ---
-title: "Metaverso: programa de conformidade pode proteger usuários"
+title: 'Metaverso: programa de conformidade pode proteger usuários'
 date: 2022-07-27
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 O metaverso é o assunto da vez na era da transformação digital. A tecnologia insere o usuário num ambiente virtual compartilhado e, por meio da internet e de ferramentas digitais, é possível ter uma experiência de interação social e comercial semelhante à realidade. Como está intimamente ligado ao uso de dados pessoais dos usuários, o compartilhamento de informações no metaverso se relaciona com o[ conceito de compliance](https://clickcompliance.com/), impactando significativamente as organizações. 
 

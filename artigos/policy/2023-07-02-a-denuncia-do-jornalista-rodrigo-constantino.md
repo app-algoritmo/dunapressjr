@@ -1,11 +1,12 @@
 ---
-title: "A denúncia do Jornalista Rodrigo Constantino"
+title: A denúncia do Jornalista Rodrigo Constantino
 date: 2023-07-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A denúncia do jornalista Rodrigo Constantino aborda a divulgação de mensagens encontradas no celular do tenente-coronel Mauro Cid, ex-ajudante de ordens do presidente Bolsonaro, e critica a forma como a imprensa tem noticiado o caso, especialmente o grupo Globo. O autor alega que as palavras "golpe" e "fraude" estão sendo usadas repetidamente, assim como o PT fez para se referir a condenações de Lula e ao impeachment de Dilma.
 

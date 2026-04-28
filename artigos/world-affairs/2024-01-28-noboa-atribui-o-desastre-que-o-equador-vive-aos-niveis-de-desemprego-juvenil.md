@@ -1,11 +1,12 @@
 ---
-title: "Noboa atribui o “desastre” que o Equador vive aos níveis de desemprego juvenil"
+title: Noboa atribui o “desastre” que o Equador vive aos níveis de desemprego juvenil
 date: 2024-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do [Equador](https://gaceta.es/iberosfera/la-union-europea-ofrece-colaboracion-a-ecuador-para-fortalecer-su-politica-de-seguridad-20240125-2114/), Daniel Noboa, defendeu nesta quinta-feira que o país é "indiscutivelmente" uma "nação democrática" que conta com "apoio internacional", mas cujo verdadeiro problema foi permitir que "pessoas erradas" chegassem às instituições no passado, segundo a [Europa Press](https://www.europapress.es/internacional/noticia-noboa-dice-ecuador-pais-democratico-dejo-instituciones-manos-personas-erroneas-20240125175430.html).
 

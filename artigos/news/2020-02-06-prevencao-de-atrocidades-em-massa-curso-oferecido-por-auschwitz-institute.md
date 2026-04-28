@@ -1,11 +1,12 @@
 ---
-title: "Prevenção de atrocidades em massa, curso oferecido por Auschwitz Institute"
+title: Prevenção de atrocidades em massa, curso oferecido por Auschwitz Institute
 date: 2020-02-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Formação será ofertada virtualmente pela Auschwitz Institute for Peace and Reconciliation. Inscrições devem ser feitas até 10 de fevereiro
 

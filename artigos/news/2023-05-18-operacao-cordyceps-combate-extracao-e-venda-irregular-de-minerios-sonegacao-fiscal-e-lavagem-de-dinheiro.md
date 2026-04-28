@@ -1,11 +1,13 @@
 ---
-title: "Operação Cordyceps combate extração e venda irregular de minérios, sonegação fiscal e lavagem de dinheiro"
+title: Operação Cordyceps combate extração e venda irregular de minérios, sonegação
+  fiscal e lavagem de dinheiro
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## **Polícia Federal e Receita Federal unem esforços para combater crimes ambientais e econômicos**
 

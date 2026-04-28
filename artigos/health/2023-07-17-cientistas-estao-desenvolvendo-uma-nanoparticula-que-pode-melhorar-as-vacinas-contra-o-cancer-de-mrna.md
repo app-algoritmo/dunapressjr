@@ -1,11 +1,13 @@
 ---
-title: "Cientistas estão desenvolvendo uma nanopartícula que pode melhorar as vacinas contra o câncer de mRNA"
+title: Cientistas estão desenvolvendo uma nanopartícula que pode melhorar as vacinas
+  contra o câncer de mRNA
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Os cientistas da Johns Hopkins Medicine dizem ter desenvolvido uma nanopartícula – um recipiente biodegradável extremamente pequeno – que tem o potencial de facilitar a entrega de vacinas baseadas em ácido ribonucleico mensageiro (mRNA) contra doenças infecciosas como COVID-19 e vacinas para melhorar o tratamento de doenças não infecciosas, como o câncer.
 

@@ -1,11 +1,13 @@
 ---
-title: "Jornalista brasileiro perseguido relata sua tortura, “Deus, Pátria, Família e Liberdade, Levaram Tudo”"
+title: Jornalista brasileiro perseguido relata sua tortura, “Deus, Pátria, Família
+  e Liberdade, Levaram Tudo”
 date: 2023-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A repressão continua no Brasil, já que a rede conservadora Jovem Pan foi forçada a demitir jornalistas importantes, incluindo Paulo Figueiredo Filho, Rodrigo Constantino e Zoe Martinez. O Portal Pundit entrevistou Oswaldo Eustáquio, que foi preso três vezes por ordem do STF e torturado em 2020. Agora está na clandestinidade.
 

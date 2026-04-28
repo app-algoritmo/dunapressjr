@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve alta em dia de reunião do Copom"
+title: Dólar fecha em leve alta em dia de reunião do Copom
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Bolsa subiu 1,57% com divulgação de resultados de empresas**.
 

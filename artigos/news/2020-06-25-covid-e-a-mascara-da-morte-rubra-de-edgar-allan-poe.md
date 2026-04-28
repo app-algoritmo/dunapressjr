@@ -1,11 +1,12 @@
 ---
-title: "COVID e “A Máscara da Morte Rubra”, de Edgar Allan Poe"
+title: COVID e “A Máscara da Morte Rubra”, de Edgar Allan Poe
 date: 2020-06-25
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 "O conto de Poe no século 19 prevê pandemia do Covid, nesta pequena  rápida leitura do conto de Edgar Allan Poe, escritor americano, deixa claro que as mesmas medidas inócuas para tratar a peste negra da Idade Média se repetem na atualidade".
 

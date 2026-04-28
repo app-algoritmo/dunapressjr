@@ -1,11 +1,12 @@
 ---
-title: "Heinze pede investigação isenta e ampla do sistema eleitoral brasileiro"
+title: Heinze pede investigação isenta e ampla do sistema eleitoral brasileiro
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O senador Luís Carlos Heinze (PP-RS) pediu às instituições do País que investiguem de forma isenta e ampla o sistema eleitoral brasileiro, “não por Bolsonaro ou Lula”, mas porque o Brasil precisa fortalecer a sua relação com a democracia.
 

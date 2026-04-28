@@ -1,11 +1,13 @@
 ---
-title: "Experiência da pandemia aproxima fisioterapeutas de pacientes em busca da recuperação pós-UTI"
+title: Experiência da pandemia aproxima fisioterapeutas de pacientes em busca da recuperação
+  pós-UTI
 date: 2023-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Todos os dias eles se dedicam a avaliar pacientes internados, analisar exames laboratoriais e dados vitais, e ainda, verificar a necessidade de ventilação mecânica. Situações assim se repetem na rotina diária de fisioterapeutas de Unidades de Terapia Intensiva (UTI), que somam esforços para cuidar de pacientes e permitir uma rápida recuperação por meio dos movimentos do corpo. Quem é desafiado a dar pequenos passos, retomar a respiração espontânea ou reaprender a se alimentar, precisa descobrir na dificuldade a coragem para seguir em frente. "O principal objetivo é devolver a funcionalidade ao paciente, deixando-o novamente apto para funções básicas do dia a dia e, principalmente, minimizar os riscos de qualquer sequela", explica Rafael Cavalli, fisioterapeuta do Hospital Universitário Cajuru, de Curitiba (PR).
 

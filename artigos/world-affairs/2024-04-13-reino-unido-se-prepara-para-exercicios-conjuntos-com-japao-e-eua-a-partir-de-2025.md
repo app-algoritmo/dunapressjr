@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido se Prepara para Exercícios Conjuntos com Japão e EUA a Partir de 2025"
+title: Reino Unido se Prepara para Exercícios Conjuntos com Japão e EUA a Partir de
+  2025
 date: 2024-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Reino Unido anunciou planos para participar de exercícios conjuntos com o Japão e os Estados Unidos na região do Indo-Pacífico a partir de 2025, revelou o secretário de Estado da Defesa britânico, Grant Shapps. Essa medida reforça o compromisso do Reino Unido com a segurança e estabilidade na região, em meio a crescentes desafios geopolíticos.
 

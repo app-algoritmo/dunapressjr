@@ -1,11 +1,12 @@
 ---
-title: "Cinco estabelecimentos são autuados por descumprir medidas sanitárias"
+title: Cinco estabelecimentos são autuados por descumprir medidas sanitárias
 date: 2020-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cinco estabelecimentos foram autuados pelas forças de segurança do Município de Itajaí por descumprir as medidas sanitárias contra o coronavírus. Um dos locais também foi interditado por tempo indeterminado. Ao todo, 35 comércios foram vistoriados de quinta-feira (10) a domingo (13) pela Vigilância Sanitária, Guarda Armada e as Polícias Civil e Militar.
 

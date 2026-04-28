@@ -1,11 +1,12 @@
 ---
-title: "Cinco exercícios simples para aliviar a cólica menstrual"
+title: Cinco exercícios simples para aliviar a cólica menstrual
 date: 2023-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Aquela dor na região abdominal durante o período menstrual pode variar de leve a intensa e, geralmente, é causada pelas contrações do útero que ajudam a eliminar o revestimento uterino durante a menstruação.
 

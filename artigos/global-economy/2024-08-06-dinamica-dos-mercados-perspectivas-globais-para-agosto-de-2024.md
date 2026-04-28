@@ -1,11 +1,12 @@
 ---
-title: "Dinâmica dos Mercados: Perspectivas Globais para Agosto de 2024"
+title: 'Dinâmica dos Mercados: Perspectivas Globais para Agosto de 2024'
 date: 2024-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O mercado financeiro mundial está enfrentando um período misto neste 6 de agosto de 2024, com variações notáveis entre diferentes regiões e índices.
 

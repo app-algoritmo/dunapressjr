@@ -1,11 +1,12 @@
 ---
-title: "Adianta caminhar? Adianta sim!"
+title: Adianta caminhar? Adianta sim!
 date: 2021-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Se para você praticar alguma atividade física é sinônimo de treino chato, falta de tempo, cansaço e até gasto de dinheiro, pode ir pensando em uma outra desculpa para não colocar o corpo em movimento.
 

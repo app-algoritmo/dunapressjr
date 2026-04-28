@@ -1,11 +1,13 @@
 ---
-title: "Operação Ponto Final desmantela organização criminosa envolvida em fraudes contra a Previdência Social e a ordem tributária"
+title: Operação Ponto Final desmantela organização criminosa envolvida em fraudes
+  contra a Previdência Social e a ordem tributária
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## PF e Receita Federal combatem esquema de sonegação fiscal e desvio de recursos públicos em Minas Gerais
 

@@ -1,11 +1,12 @@
 ---
-title: "Você já cometeu este pecado?"
+title: Você já cometeu este pecado?
 date: 2024-04-19
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Explorando os Ensinamentos de Santo Inácio e Santo Agostinho para Respeitar a Liberdade de Escolha e Promover o Crescimento Interior.
 

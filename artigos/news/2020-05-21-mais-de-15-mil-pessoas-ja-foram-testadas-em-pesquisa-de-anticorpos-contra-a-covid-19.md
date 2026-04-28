@@ -1,11 +1,13 @@
 ---
-title: "Mais de 15 mil pessoas já foram testadas em pesquisa de anticorpos contra a covid-19"
+title: Mais de 15 mil pessoas já foram testadas em pesquisa de anticorpos contra a
+  covid-19
 date: 2020-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 100 mil pessoas devem ser testadas em todo o Brasil, o objetivo do estudo é avaliar como o coronavírus se propaga pelo país. 
 

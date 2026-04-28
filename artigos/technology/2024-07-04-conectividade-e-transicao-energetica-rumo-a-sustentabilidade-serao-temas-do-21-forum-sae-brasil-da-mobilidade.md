@@ -1,11 +1,13 @@
 ---
-title: "Conectividade e transição energética rumo à sustentabilidade serão temas do 21.° Fórum SAE BRASIL da Mobilidade"
+title: Conectividade e transição energética rumo à sustentabilidade serão temas do
+  21.° Fórum SAE BRASIL da Mobilidade
 date: 2024-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Tradicional evento da Seção Regional Paraná e Santa Catarina será realizado nos dias 7 e 8 de agosto na FIEP; inscrições estão com valores promocionais até 15 de julho.
 

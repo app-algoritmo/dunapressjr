@@ -1,11 +1,12 @@
 ---
-title: "Entenda a situação da economia britânica diante do Brexit"
+title: Entenda a situação da economia britânica diante do Brexit
 date: 2019-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A análise da saúde da economia britânica pode mudar rapidamente. 
 

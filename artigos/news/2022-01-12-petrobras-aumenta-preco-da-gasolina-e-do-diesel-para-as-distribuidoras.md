@@ -1,11 +1,12 @@
 ---
-title: "Petrobras aumenta preço da gasolina e do diesel para as distribuidoras"
+title: Petrobras aumenta preço da gasolina e do diesel para as distribuidoras
 date: 2022-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço da gasolina sobe de R$ 3,09 para R$ 3,24, por litro.
 

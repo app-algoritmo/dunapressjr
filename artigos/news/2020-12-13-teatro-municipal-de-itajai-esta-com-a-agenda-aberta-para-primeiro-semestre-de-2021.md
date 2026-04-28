@@ -1,11 +1,13 @@
 ---
-title: "Teatro Municipal de Itajaí está com a agenda aberta para primeiro semestre de 2021"
+title: Teatro Municipal de Itajaí está com a agenda aberta para primeiro semestre
+  de 2021
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação Cultural de Itajaí informa que o Teatro Municipal de Itajaí está com a agenda aberta aos interessados em realizar apresentações artísticas no primeiro semestre de 2021. Entretanto, ressalta que neste momento será apenas registrado o interesse dos promotores, uma vez que os espetáculos só poderão ocorrer mediante expressa autorização dos órgãos competentes no enfrentamento à Covid-19.
 

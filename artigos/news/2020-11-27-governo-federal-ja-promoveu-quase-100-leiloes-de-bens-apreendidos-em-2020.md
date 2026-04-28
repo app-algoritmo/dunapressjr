@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal já promoveu quase 100 leilões de bens apreendidos em 2020"
+title: Governo Federal já promoveu quase 100 leilões de bens apreendidos em 2020
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A venda de bens apreendidos pelas forças policiais no combate ao crime está sendo feita por meio de leilões do Ministério da Justiça e Segurança Pública. Estão sendo colocados à venda carros; motocicletas; aeronaves; terras; embarcações; apartamentos; itens de luxo, como diamantes e ouro; e cabeças de gado retidas em fazendas envolvidas com atividades criminosas.
 

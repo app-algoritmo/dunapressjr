@@ -1,11 +1,12 @@
 ---
-title: "No Brasil, 85,7% dos municípios têm coleta de esgoto"
+title: No Brasil, 85,7% dos municípios têm coleta de esgoto
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Diagnóstico do MDR também avaliou abastecimento de água tratada.
 

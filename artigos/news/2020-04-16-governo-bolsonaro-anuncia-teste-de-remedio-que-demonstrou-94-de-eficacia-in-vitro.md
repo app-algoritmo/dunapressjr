@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro anuncia teste de remédio que demonstrou 94% de eficácia in vitro"
+title: Governo Bolsonaro anuncia teste de remédio que demonstrou 94% de eficácia in
+  vitro
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério Ciência, Tecnologia, Inovações e Comunicações (MCTIC) anunciou, em coletiva de imprensa no Palácio do Planalto nesta quarta-feira (15), algumas pesquisas brasileiras que se destacam em busca de soluções de combate ao coronavírus. Uma pesquisa em andamento é sobre um remédio promissor contra a Covid-19, que começará a ser testado em 500 pacientes nas próximas semanas, segundo o ministro Marcos Pontes. Em análises *in vitro,* o medicamento reduziu em 94% a carga viral nas células infectadas pelo coronavírus. A estimativa é de que os resultados dos estudos clínicos em pacientes sejam concluídos até a metade do mês de maio.
 

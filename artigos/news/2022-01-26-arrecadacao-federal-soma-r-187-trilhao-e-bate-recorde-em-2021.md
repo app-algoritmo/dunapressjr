@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal soma R$ 1,87 trilhão e bate recorde em 2021"
+title: Arrecadação federal soma R$ 1,87 trilhão e bate recorde em 2021
 date: 2022-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recuperação da economia e impostos sobre lucros garantem crescimento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lista de espera do Sisu é divulgada na página do sistema"
+title: Lista de espera do Sisu é divulgada na página do sistema
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## É a primeira vez que o MEC disponibiliza a lista para consulta na página do Sisu, dando maior transparência ao processo.
 

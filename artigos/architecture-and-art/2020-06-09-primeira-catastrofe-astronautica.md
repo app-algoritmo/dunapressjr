@@ -1,11 +1,12 @@
 ---
-title: "Primeira catástrofe astronáutica"
+title: Primeira catástrofe astronáutica
 date: 2020-06-09
 status: publish
-author: jesshutter
+author: Jessica Jaconetti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ***Sentimentos que pousaram em meu coração***
 

@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em alta impulsionado por aprovação de urgência da regra fiscal e cenário externo positivo"
+title: Ibovespa fecha em alta impulsionado por aprovação de urgência da regra fiscal
+  e cenário externo positivo
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Principais ações brasileiras registram ganhos enquanto investidores reagem a notícias econômicas e declarações do Federal Reserve.
 

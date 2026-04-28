@@ -1,11 +1,12 @@
 ---
-title: "Novos sistemas de esgotamento sanitário beneficiarão cerca de 48 mil pessoas"
+title: Novos sistemas de esgotamento sanitário beneficiarão cerca de 48 mil pessoas
 date: 2020-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Governo Federal investiu quase R$ 32 milhões para garantir infraestrutura de coleta e tratamento à população de Minas Gerais.
 

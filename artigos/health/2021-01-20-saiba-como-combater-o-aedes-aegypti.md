@@ -1,11 +1,12 @@
 ---
-title: "Saiba como combater o Aedes Aegypti"
+title: Saiba como combater o Aedes Aegypti
 date: 2021-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O *Aedes aegypti* é o nome científico de um mosquito ou pernilongo que transmite a dengue, febre amarela urbana, além da zika e da chikungunya, doenças chamadas de arboviroses. Possui uma característica que o diferencia dos demais mosquitos, que é a presença de listras brancas no tronco, cabeça e pernas.
 

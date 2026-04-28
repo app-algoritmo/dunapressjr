@@ -1,11 +1,12 @@
 ---
-title: "MP do Crédito quer alavancar R$ 23 bi em financiamentos"
+title: MP do Crédito quer alavancar R$ 23 bi em financiamentos
 date: 2022-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Programa de apoio a empresas é lançado pelo Ministério da Economia.
 

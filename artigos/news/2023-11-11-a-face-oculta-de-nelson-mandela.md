@@ -1,11 +1,12 @@
 ---
-title: "A face oculta de Nelson Mandela"
+title: A face oculta de Nelson Mandela
 date: 2023-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Por trás de aclamadas personalidades há um lado obscuro que ninguém está olhando. Neste programa documental e cheio de mistérios, abordaremos a face oculta das principais personalidades e instituições. 
 

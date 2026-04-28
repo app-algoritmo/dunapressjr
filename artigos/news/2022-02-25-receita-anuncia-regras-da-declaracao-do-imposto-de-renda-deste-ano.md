@@ -1,11 +1,12 @@
 ---
-title: "Receita anuncia regras da Declaração do Imposto de Renda deste ano"
+title: Receita anuncia regras da Declaração do Imposto de Renda deste ano
 date: 2022-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O prazo para o envio da declaração será de 7 de março a 29 de abril.
 

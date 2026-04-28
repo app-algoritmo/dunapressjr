@@ -1,11 +1,12 @@
 ---
-title: "Âncora de pedra antiga usada por 2.000 anos encontrada na costa norte de Israel"
+title: Âncora de pedra antiga usada por 2.000 anos encontrada na costa norte de Israel
 date: 2021-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## A autoridade de parques diz que o artefato, descoberto em uma escavação subaquática em Tel Dor, foi usado pela primeira vez na Idade do Bronze.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pergunte aos ‘especialistas’"
+title: Pergunte aos ‘especialistas’
 date: 2022-01-31
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 **Pergunte aos ‘Izpessializtas’ ou às comunidades “Çientíficaz” que muitos seguem.**
 

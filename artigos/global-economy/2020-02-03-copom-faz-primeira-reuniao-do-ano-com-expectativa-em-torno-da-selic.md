@@ -1,11 +1,12 @@
 ---
-title: "Copom faz primeira reunião do ano com expectativa em torno da Selic"
+title: Copom faz primeira reunião do ano com expectativa em torno da Selic
 date: 2020-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Juros básicos podem cair para 4,25% ao ano*
 

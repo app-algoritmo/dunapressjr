@@ -1,11 +1,12 @@
 ---
-title: "Nova técnica aumenta teor de ômega 3 em hambúrgueres"
+title: Nova técnica aumenta teor de ômega 3 em hambúrgueres
 date: 2021-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rosane Heck é bacharel em Engenharia de Alimentos pela Universidade Federal do Pampa (Unipampa). Natural de Alecrim (RS), ela é mestre em Ciência e Tecnologia de Alimentos e doutoranda na Universidade Federal de Santa Maria (UFSM/RS). Também é licenciada pela mesma instituição no Programa Especial de Graduação de Formação de Professores para a Educação Profissional. Preocupada com a alimentação das pessoas e com a qualidade nutricional dos alimentos, ela trabalha atualmente em pesquisa inovadora sobre a introdução de ômega 3, por meio de microcápsulas, em produtos alimentícios.
 

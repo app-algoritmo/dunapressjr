@@ -1,11 +1,12 @@
 ---
-title: "Mourão destaca desafios globais que marcaram o ano"
+title: Mourão destaca desafios globais que marcaram o ano
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta segunda-feira (18), o senador Hamilton Mourão (Republicanos-RS) abordou os desafios globais que, em sua opinião, marcaram o ano. Ele enfatizou a disputa entre os Estados Unidos e a China pela hegemonia militar, tecnológica, política e econômica. Além disso, mencionou a situação enfrentada pela China devido às políticas adotadas durante a pandemia da covid-19, à bolha imobiliária e ao regime fechado do país. O senador citou ainda a guerra entre Rússia e Ucrânia e destacou a resiliência russa diante das sanções ocidentais. O parlamentar também manifestou preocupação com a guerra entre o Hamas e Israel.
 

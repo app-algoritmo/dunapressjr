@@ -1,11 +1,13 @@
 ---
-title: "PF investiga ocorrências de crimes eleitorais relacionados ao pagamento do auxílio emergencial no CE"
+title: PF investiga ocorrências de crimes eleitorais relacionados ao pagamento do
+  auxílio emergencial no CE
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Juazeiro do Norte/CE - A Polícia Federal deflagrou hoje (21/5) a Operação Arrebol, para investigar ocorrência de crime eleitoral em pagamentos do auxílio emergencial, no município de Aurora/CE.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,37, mas sobe 0,85% na semana"
+title: Dólar cai para R$ 5,37, mas sobe 0,85% na semana
 date: 2022-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa cai 0,76% e atinge menor nível desde o fim de setembro.
 

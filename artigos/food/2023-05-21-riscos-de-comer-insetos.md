@@ -1,11 +1,12 @@
 ---
-title: "Riscos de comer insetos"
+title: Riscos de comer insetos
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Nos últimos anos, a destruição de nosso suprimento de alimentos se acelerou. Ao mesmo tempo, há tentativas crescentes de nos persuadir a comer besouros. Ambos são comercializados sob os termos errados “mudanças climáticas antropogênicas” e “salvar o planeta”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Chico Rodrigues defende investimentos na educação técnica para jovens"
+title: Chico Rodrigues defende investimentos na educação técnica para jovens
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR) destacou a importância de enfrentar a "desocupação" de jovens entre 18 e 24 anos que não estudam nem trabalham. No Brasil, esse índice atinge 24,4% da população nessa faixa etária.
 

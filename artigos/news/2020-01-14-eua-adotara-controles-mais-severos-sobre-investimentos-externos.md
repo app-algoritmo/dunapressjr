@@ -1,11 +1,12 @@
 ---
-title: "EUA adotará controles mais severos sobre investimentos externos"
+title: EUA adotará controles mais severos sobre investimentos externos
 date: 2020-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Novas e mais estritas regras para o investimento estrangeiro
 em áreas sensíveis entrarão em vigor em um mês nos Estados Unidos, anunciaram

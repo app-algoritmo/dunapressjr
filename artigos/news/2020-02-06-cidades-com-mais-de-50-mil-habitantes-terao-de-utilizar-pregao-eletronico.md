@@ -1,11 +1,12 @@
 ---
-title: "Cidades com mais de 50 mil habitantes terão de utilizar pregão eletrônico"
+title: Cidades com mais de 50 mil habitantes terão de utilizar pregão eletrônico
 date: 2020-02-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Até junho de 2020, todos os municípios brasileiros passam a utilizar o sistema para aquisição de bens e contratação de serviços com recursos de transferências voluntárias da União*
 

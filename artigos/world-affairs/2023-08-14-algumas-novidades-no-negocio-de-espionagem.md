@@ -1,11 +1,12 @@
 ---
-title: "Algumas novidades no negócio de espionagem"
+title: Algumas novidades no negócio de espionagem
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A CIA está nas manchetes, mas não pelos motivos certos.
 

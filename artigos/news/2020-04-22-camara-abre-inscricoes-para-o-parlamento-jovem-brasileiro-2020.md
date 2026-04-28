@@ -1,11 +1,12 @@
 ---
-title: "Câmara abre inscrições para o Parlamento Jovem Brasileiro 2020"
+title: Câmara abre inscrições para o Parlamento Jovem Brasileiro 2020
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Programa, voltado para estudantes do ensino médio, simula uma jornada parlamentar.
 

@@ -1,12 +1,13 @@
 ---
-title: "Cooperação Internacional: Anvisa e FDA Assinam Acordo de Confidencialidade"
+title: 'Cooperação Internacional: Anvisa e FDA Assinam Acordo de Confidencialidade'
 date: 2024-10-02
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Health
-  - Science
+- Health
+- Science
 ---
+
 
 A Agência Nacional de Vigilância Sanitária (Anvisa) e a Food and Drug Administration (FDA) dos Estados Unidos assinaram um Acordo de Confidencialidade com o objetivo de fortalecer a cooperação regulatória entre os dois órgãos. Esse tipo de acordo permite a troca de informações confidenciais e sensíveis relacionadas a produtos e processos regulatórios, como medicamentos, dispositivos médicos e outros produtos sob vigilância sanitária.
 

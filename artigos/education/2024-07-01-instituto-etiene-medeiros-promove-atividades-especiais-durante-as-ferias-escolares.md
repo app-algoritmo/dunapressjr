@@ -1,12 +1,13 @@
 ---
-title: "Instituto Etiene Medeiros promove atividades especiais durante as férias escolares"
+title: Instituto Etiene Medeiros promove atividades especiais durante as férias escolares
 date: 2024-07-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Yoga, oficinas e contação de histórias estão na programação do IEM ao longo do mês de julho, no Complexo Esportivo Santos Dumont, em Boa Viagem, na Zona Sul do Recife (PE)
 

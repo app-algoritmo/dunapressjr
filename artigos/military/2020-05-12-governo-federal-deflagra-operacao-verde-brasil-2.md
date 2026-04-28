@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal deflagra Operação Verde Brasil 2"
+title: Governo Federal deflagra Operação Verde Brasil 2
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Governo Federal deflagrou a Operação Verde Brasil 2 para ações preventivas e repressivas contra delitos ambientais direcionadas ao desmatamento ilegal e focos de incêndio, na Amazônia Legal.
 

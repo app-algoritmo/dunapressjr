@@ -1,11 +1,13 @@
 ---
-title: "Alckmin, deputados e demais participantes de seminário defendem nova política de industrialização do Brasil"
+title: Alckmin, deputados e demais participantes de seminário defendem nova política
+  de industrialização do Brasil
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Especialistas apontaram defasagem do parque industrial e perda de espaço do setor na economia nacional.
 

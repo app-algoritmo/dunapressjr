@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Conselhos e dicas para crianças e famílias"
+title: 'Coronavírus: Conselhos e dicas para crianças e famílias'
 date: 2020-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 O surto do COVID19 mudou repentinamente nossa vida cotidiana. Escolas e jardins de infância estão fechados, mamãe e papai podem precisar de um escritório em casa e muitas pessoas estão em quarentena. Aqui estão alguns conselhos para pais e filhos sobre como lidar com o surto do COVID19.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara conclui votação de MP da Liberdade Econômica; texto vai ao Senado"
+title: Câmara conclui votação de MP da Liberdade Econômica; texto vai ao Senado
 date: 2019-08-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O ponto que mais causou polêmica entre os deputados é o fim das restrições de trabalho aos domingos e feriados. 
 

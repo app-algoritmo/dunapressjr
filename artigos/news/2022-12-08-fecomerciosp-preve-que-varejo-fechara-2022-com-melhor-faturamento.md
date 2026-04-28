@@ -1,11 +1,12 @@
 ---
-title: "FecomercioSP prevê que varejo fechará 2022 com melhor faturamento"
+title: FecomercioSP prevê que varejo fechará 2022 com melhor faturamento
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Crescimento é estimado em 9%.
 

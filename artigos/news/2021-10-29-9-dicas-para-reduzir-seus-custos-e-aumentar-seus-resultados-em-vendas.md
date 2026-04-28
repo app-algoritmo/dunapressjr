@@ -1,11 +1,12 @@
 ---
-title: "9 dicas para reduzir seus custos e aumentar seus resultados em vendas"
+title: 9 dicas para reduzir seus custos e aumentar seus resultados em vendas
 date: 2021-10-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Vender é o ato de entregar um produto ou serviço em troca de um valor proporcional a ele, gerando lucro para a empresa. No entanto, essa ação gera muitas despesas para a organização, o chamado custo de venda, sendo assim seguir alguns hábitos afeta positivamente os **resultados em vendas**.
 

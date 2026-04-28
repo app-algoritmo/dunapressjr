@@ -1,11 +1,13 @@
 ---
-title: "Secretário, dirigente de ONG e médico serão os primeiros ouvidos na CPI da Transição de Gênero em SP"
+title: Secretário, dirigente de ONG e médico serão os primeiros ouvidos na CPI da
+  Transição de Gênero em SP
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Convites foram aprovados em reunião nesta quinta, 22, juntamente com requerimento de informações do Governo; outros 33 itens da pauta tiveram a discussão adiada.
 

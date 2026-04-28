@@ -1,11 +1,12 @@
 ---
-title: "Senado regulamenta a profissão de despachante documentalista"
+title: Senado regulamenta a profissão de despachante documentalista
 date: 2021-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ele é o profissional que acompanha processos em órgãos públicos.
 

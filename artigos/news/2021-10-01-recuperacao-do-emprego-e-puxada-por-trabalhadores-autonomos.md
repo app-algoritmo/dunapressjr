@@ -1,11 +1,12 @@
 ---
-title: "Recuperação do emprego é puxada por trabalhadores autônomos"
+title: Recuperação do emprego é puxada por trabalhadores autônomos
 date: 2021-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contingente chegou ao recorde de 25,2 milhões de pessoas.
 

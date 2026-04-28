@@ -1,12 +1,13 @@
 ---
-title: "A arte de soltar"
+title: A arte de soltar
 date: 2018-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Quanto mais soltarmos, mais vem. Mas o que é soltar? Como é soltar? É uma forma de indiretamente fingir que esqueceu, largar nas mãos de Deus, desapegar, deixar que o Universo haja na sua vida e em suas dificuldades.
 

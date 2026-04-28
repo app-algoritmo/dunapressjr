@@ -1,11 +1,12 @@
 ---
-title: "Lançada pesquisa sobre reserva técnica de livros pelo FNDE"
+title: Lançada pesquisa sobre reserva técnica de livros pelo FNDE
 date: 2020-05-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Objetivo é receber opinião das secretarias de educação e escolas sobre entrega dos exemplares.**
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) lançou uma pesquisa para receber informações das redes de ensino sobre o acesso à reserva técnica de livros didáticos. As secretarias de educação e as escolas têm até sexta-feira, 29 de maio, para responder aos questionários, disponíveis no portal eletrônico do FNDE.

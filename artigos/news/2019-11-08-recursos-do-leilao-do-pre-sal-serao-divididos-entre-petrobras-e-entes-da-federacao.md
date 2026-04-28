@@ -1,11 +1,12 @@
 ---
-title: "Recursos do leilão do pré-sal serão divididos entre Petrobras e entes da Federação"
+title: Recursos do leilão do pré-sal serão divididos entre Petrobras e entes da Federação
 date: 2019-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Até 27 de dezembro de 2019, todos os entes da Federação vão
 receber recursos arrecadados com o megaleilão de campos do pré-sal, realizado

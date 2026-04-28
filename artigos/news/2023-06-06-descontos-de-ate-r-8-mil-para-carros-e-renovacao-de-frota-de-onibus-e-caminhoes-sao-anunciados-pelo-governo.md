@@ -1,11 +1,13 @@
 ---
-title: "Descontos de até R$ 8 mil para carros e renovação de frota de ônibus e caminhões são anunciados pelo governo"
+title: Descontos de até R$ 8 mil para carros e renovação de frota de ônibus e caminhões
+  são anunciados pelo governo
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa temporário visa incentivar a compra de veículos mais acessíveis, menos poluentes e impulsionar a indústria automotiva nacional.
 

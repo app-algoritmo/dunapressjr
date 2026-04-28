@@ -1,11 +1,13 @@
 ---
-title: "PCPR prende 596 pessoas em operação nacional de combate à violência contra mulher"
+title: PCPR prende 596 pessoas em operação nacional de combate à violência contra
+  mulher
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os policiais civis também apreenderam 24 armas e 3.029 munições irregulares. Além disso, 3.155 boletins de ocorrência foram registrados, 4.028 vítimas atendidas e 2.519 medidas protetivas solicitadas ao Poder Judiciário.
 

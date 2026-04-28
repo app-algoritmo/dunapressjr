@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga prazo de bolsas de mestrado e doutorado por até três meses"
+title: Governo prorroga prazo de bolsas de mestrado e doutorado por até três meses
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por meio da [Portaria nº 55](http://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=3762#anchor), publicada na edição desta quinta-feira (30) do Diário Oficial da União, a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) prorrogou por até três meses o prazo de vigência das bolsas de mestrado e doutorado no Brasil. A medida tem caráter excepcional e vai beneficiar bolsistas que estão com o andamento das pesquisas prejudicado devido à pandemia causada pelo coronavírus.
 

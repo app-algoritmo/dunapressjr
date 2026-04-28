@@ -1,11 +1,12 @@
 ---
-title: "Taxa de rejeição do Pix está em 6,5%, diz Campos Neto"
+title: Taxa de rejeição do Pix está em 6,5%, diz Campos Neto
 date: 2020-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BC comparou essa taxa com a do DOC que é de 5%.
 

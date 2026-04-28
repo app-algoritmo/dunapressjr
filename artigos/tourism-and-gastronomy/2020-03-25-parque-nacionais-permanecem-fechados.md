@@ -1,11 +1,12 @@
 ---
-title: "Parque nacionais permanecem fechados"
+title: Parque nacionais permanecem fechados
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O Ministério do Meio Ambiente informa que, por determinação do Presidente da República, será suspensa a visitação pública em todas as unidades de conservação federais pelo período de uma semana a contar da presente data. O turista que tiver comprado ingresso para algum atrativo em parque nacional deverá solicitar o cancelamento dos bilhetes, compra dos serviços e reembolso diretamente à concessionária que atua prestando essas atividades. Todos os concessionários já foram comunicados da decisão de fechamento das UCs.
 

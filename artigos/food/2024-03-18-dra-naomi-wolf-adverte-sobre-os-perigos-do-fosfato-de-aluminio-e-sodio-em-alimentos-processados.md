@@ -1,11 +1,13 @@
 ---
-title: "Dra. Naomi Wolf adverte sobre os perigos do fosfato de alumínio e sódio em alimentos processados"
+title: Dra. Naomi Wolf adverte sobre os perigos do fosfato de alumínio e sódio em
+  alimentos processados
 date: 2024-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 A renomada pesquisadora e ativista Dra. Naomi Wolf emitiu um alerta contundente sobre os riscos associados ao fosfato de alumínio e sódio, um aditivo alimentar encontrado em uma variedade de produtos assados ​​e alimentos processados. Citando estudos revisados por pares, Wolf destacou que a ingestão desses compostos de alumínio pode levar ao estresse oxidativo, danos ao DNA e diminuição dos níveis de testosterona e contagem de esperma em mamíferos machos.
 

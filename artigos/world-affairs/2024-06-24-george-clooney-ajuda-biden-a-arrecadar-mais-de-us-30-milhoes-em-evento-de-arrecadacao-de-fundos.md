@@ -1,11 +1,13 @@
 ---
-title: "George Clooney Ajuda Biden a Arrecadar Mais de US$ 30 Milhões em Evento de Arrecadação de Fundos"
+title: George Clooney Ajuda Biden a Arrecadar Mais de US$ 30 Milhões em Evento de
+  Arrecadação de Fundos
 date: 2024-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O astro de Hollywood George Clooney desempenhou um papel crucial na arrecadação de mais de US$ 30 milhões para a campanha de reeleição de Joe Biden em um evento realizado no dia 15 de junho. Clooney, que tem uma longa história de apoio ao Partido Democrata, usou sua influência e rede de contatos para mobilizar doações significativas.
 

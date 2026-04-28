@@ -1,11 +1,13 @@
 ---
-title: "Limpeza: é assim que os países agora estão ajustando secretamente a 'taxa de mortalidade por Covid'"
+title: 'Limpeza: é assim que os países agora estão ajustando secretamente a ''taxa
+  de mortalidade por Covid'''
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## **Coronel afirma que o Canadá está mudando secretamente a contagem de mortes por COVID**.
 

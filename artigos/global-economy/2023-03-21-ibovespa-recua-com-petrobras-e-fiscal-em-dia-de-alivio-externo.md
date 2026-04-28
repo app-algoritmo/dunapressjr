@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa recua com Petrobras e fiscal em dia de alívio externo"
+title: Ibovespa recua com Petrobras e fiscal em dia de alívio externo
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O [Ibovespa](https://br.investing.com/indices/bovespa) fechou em queda nesta segunda-feira (20), com o declínio das ações da Petrobras e receios sobre um novo arcabouço fiscal para o país descolando a bolsa paulista de pregões no exterior, onde prevaleceu o alívio após a aquisição do Credit Suisse (SIX:[CSGN](https://br.investing.com/equities/credit-suisse)) pelo UBS (NYSE:[UBS](https://br.investing.com/equities/ubs-group-n?cid=8132))e de uma ação coordenada de bancos centrais.
 

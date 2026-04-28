@@ -1,11 +1,13 @@
 ---
-title: "Marinha do Brasil acompanha desatracação de Navio de Cruzeiro após quarentena no Porto do Recife-PE"
+title: Marinha do Brasil acompanha desatracação de Navio de Cruzeiro após quarentena
+  no Porto do Recife-PE
 date: 2020-03-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Marinha do Brasil (MB), por intermédio da Capitania dos Portos de
 Pernambuco (CPPE), acompanhou a desatracação do Navio de Cruzeiro “*Silver

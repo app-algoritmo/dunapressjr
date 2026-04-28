@@ -1,11 +1,13 @@
 ---
-title: "Mulher vacinada 4 vezes afirma ter sua décima infecção por Covid e espera que mais doses de vacina a salvem"
+title: Mulher vacinada 4 vezes afirma ter sua décima infecção por Covid e espera que
+  mais doses de vacina a salvem
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Trago a vocês , via [Jordan Schachtel](https://twitter.com/JordanSchachtel/status/1678235796019593219?s=20) , o caso da totalmente vacinada e depois não vacinada Marion Carrett da Gold Coast , que acredita ter dez [infecções documentadas por Covid desde 2022 .](https://www.abc.net.au/news/2023-07-10/the-mystery-of-why-some-people-keep-getting-covid/102565846)
 

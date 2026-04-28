@@ -1,11 +1,12 @@
 ---
-title: "Mais da metade dos judeus que moram nos EUA, são pró-Israel"
+title: Mais da metade dos judeus que moram nos EUA, são pró-Israel
 date: 2020-02-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Cerca de 80% dos judeus dos EUA dizem que são pró-Israel, no entanto, críticos da política israelense, com 39% dizendo que o apoio do primeiro-ministro Netanyahu ao presidente dos EUA, Trump, os fez sentir-se menos conectados a Israel*
 

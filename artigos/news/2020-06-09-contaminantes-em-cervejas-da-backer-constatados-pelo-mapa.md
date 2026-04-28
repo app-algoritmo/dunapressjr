@@ -1,11 +1,12 @@
 ---
-title: "Contaminantes em cervejas da Backer constatados pelo Mapa"
+title: Contaminantes em cervejas da Backer constatados pelo Mapa
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A empresa permanecerá interditada até que cumpra todas as exigências do Ministério.
 

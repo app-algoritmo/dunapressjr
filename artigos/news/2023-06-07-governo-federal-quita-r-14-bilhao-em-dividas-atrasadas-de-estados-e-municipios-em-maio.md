@@ -1,11 +1,13 @@
 ---
-title: "Governo federal quita R$ 1,4 bilhão em dívidas atrasadas de estados e municípios em maio"
+title: Governo federal quita R$ 1,4 bilhão em dívidas atrasadas de estados e municípios
+  em maio
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## União desembolsa recursos para honrar garantias em operações de crédito e alerta para sanções em caso de inadimplência.
 

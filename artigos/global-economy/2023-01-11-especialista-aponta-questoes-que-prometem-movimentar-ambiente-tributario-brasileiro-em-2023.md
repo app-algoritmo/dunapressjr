@@ -1,11 +1,13 @@
 ---
-title: "Especialista aponta questões que prometem movimentar ambiente tributário brasileiro em 2023"
+title: Especialista aponta questões que prometem movimentar ambiente tributário brasileiro
+  em 2023
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ano após ano, uma coisa é sempre certa: há mudanças tributárias no Brasil. Mas o ano que se inicia promete ser agitado no contexto tributário, com destaque para alguns temas que os profissionais de contabilidade, de direito tributário e, sobretudo, os contribuintes - pessoas físicas e jurídicas - devem ficar de olho. “Depois de um ano praticamente ‘parado’ por conta das eleições, 2023 pode provocar uma virada tributária, especialmente porque o novo governo precisará mostrar serviço depois de  eleições tão conturbadas”, aponta o gerente de Contabilidade e Controladoria do Grupo Positivo e coordenador dos [programas de MBAs em Contabilidade e Finanças da Universidade Positivo (UP)](https://www.up.edu.br/pos-graduacao/?modalidade=tem_opcao_presencial%21tem_opcao_online%21tem_opcao_ead_4_0%21&pagina=1&tipo=MBA%21&area=?utm_source=assessoria-imprensa&utm_medium=noticia-imprensa&utm_campaign=processo-seletivo-presencial&utm_content=graduacao-2022-2&utm_term=up), Marco Aurélio Pitta. “A reforma tributária já foi prometida por diversos governos e não saiu do papel, mas se o Brasil pretende entrar na OCDE (Organização para a Cooperação e Desenvolvimento Econômico), reformas precisam acontecer urgentemente”, ressalta.
 

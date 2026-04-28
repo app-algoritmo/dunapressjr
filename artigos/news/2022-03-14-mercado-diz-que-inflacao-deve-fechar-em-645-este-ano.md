@@ -1,11 +1,12 @@
 ---
-title: "Mercado diz que inflação deve fechar em 6,45% este ano"
+title: Mercado diz que inflação deve fechar em 6,45% este ano
 date: 2022-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar deve encerrar 2022 cotado a R$ 5,30.
 

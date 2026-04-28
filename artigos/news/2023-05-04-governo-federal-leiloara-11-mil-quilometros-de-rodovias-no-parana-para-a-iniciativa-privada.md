@@ -1,11 +1,13 @@
 ---
-title: "Governo federal leiloará 1,1 mil quilômetros de rodovias no Paraná para a iniciativa privada"
+title: Governo federal leiloará 1,1 mil quilômetros de rodovias no Paraná para a iniciativa
+  privada
 date: 2023-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O valor estimado em investimentos com o leilão é de R$18 bilhões.
 

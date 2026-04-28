@@ -1,11 +1,12 @@
 ---
-title: "Uma perda de cada um e, de todos!"
+title: Uma perda de cada um e, de todos!
 date: 2018-09-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Independentemente do seu viés ideológico ou do que defende como causa política e social, ontem todos perdemos um pedaço de nossa história.
 

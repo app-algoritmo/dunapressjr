@@ -1,11 +1,12 @@
 ---
-title: "Como despertar o hábito da leitura em plena era digital?"
+title: Como despertar o hábito da leitura em plena era digital?
 date: 2023-12-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 Com tantas opções de entretenimento disponíveis nos meios digitais, surge uma questão relevante: a tecnologia está roubando um tempo que poderia ser dedicado à leitura? É fato que os jovens têm grande afinidade com jogos, redes sociais e vídeos. Entretanto, os adultos também acabam perdendo tempo com as inúmeras distrações disponíveis nas telas e, por vezes, deixam de incentivar o hábito da leitura em seus filhos. Esse pode ser um dos motivos pelos quais os jovens e as crianças estão se tornando cada vez menos leitores assíduos. “A família tem um papel extremamente importante nesse despertar do interesse pela leitura. Os pais que leem para as crianças na hora de dormir, por exemplo, criam uma memória afetiva que pode estimular esse interesse posteriormente”, ressalta a gerente de projetos no Instituto Pró-Livro, Zoara Failla.
 

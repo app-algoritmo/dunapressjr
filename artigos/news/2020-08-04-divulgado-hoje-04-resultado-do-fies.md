@@ -1,11 +1,12 @@
 ---
-title: "Divulgado hoje (04) resultado do Fies"
+title: Divulgado hoje (04) resultado do Fies
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os pré-selecionados devem complementar a inscrição até esta quinta-feira (06).
 

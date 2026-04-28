@@ -1,11 +1,12 @@
 ---
-title: "Íntegra da entrevista de Rodrigo Pimentel para o documentário Entre Lobos"
+title: Íntegra da entrevista de Rodrigo Pimentel para o documentário Entre Lobos
 date: 2022-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo I
 

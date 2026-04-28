@@ -1,11 +1,12 @@
 ---
-title: "Brics Summit 2023: Somos a favor de uma ordem mundial multipolar,  Putin"
+title: 'Brics Summit 2023: Somos a favor de uma ordem mundial multipolar,  Putin'
 date: 2023-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O desejo de hegemonia do Ocidente como a causa da crise na Ucrânia.
 

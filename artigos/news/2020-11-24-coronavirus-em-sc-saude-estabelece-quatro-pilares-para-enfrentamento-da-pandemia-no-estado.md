@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus em SC: Saúde estabelece quatro pilares para enfrentamento da pandemia no estado"
+title: 'Coronavírus em SC: Saúde estabelece quatro pilares para enfrentamento da pandemia
+  no estado'
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado da Saúde (SES) instituiu [**quatro pilares para o enfrentamento da Covid-19**](https://www.sc.gov.br/images/PILARES_COVID.pdf) no território catarinense. A Manutenção das Estruturas de UTI Covid-19, as Campanhas Publicitárias, a Abordagem dos Pacientes na Atenção Primária da Rede SUS e a Fiscalização e Vigilância são as estruturas que serão implantadas para fortalecer o combate ao novo coronavírus.
 

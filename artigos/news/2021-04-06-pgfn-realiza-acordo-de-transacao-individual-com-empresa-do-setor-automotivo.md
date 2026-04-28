@@ -1,11 +1,12 @@
 ---
-title: "PGFN realiza acordo de Transação Individual com empresa do setor automotivo"
+title: PGFN realiza acordo de Transação Individual com empresa do setor automotivo
 date: 2021-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Negociação teve como objetivo a regularização de débitos no valor de aproximadamente R$ 135 milhões.
 

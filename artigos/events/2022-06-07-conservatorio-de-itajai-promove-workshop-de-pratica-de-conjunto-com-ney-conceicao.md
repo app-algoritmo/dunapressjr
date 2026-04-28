@@ -1,11 +1,12 @@
 ---
-title: "Conservatório de Itajaí promove workshop de prática de conjunto com Ney Conceição"
+title: Conservatório de Itajaí promove workshop de prática de conjunto com Ney Conceição
 date: 2022-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 O programa de formação complementar do Conservatório de Música Popular de Itajaí Carlinhos Niehues recebe na quarta-feira (08), às 14h, o Workshop de Prática de Conjunto com o músico contrabaixista, arranjador e compositor, Ney Conceição. O evento acontece no auditório da Casa da Cultura Dide Brandão e tem entrada franca.
 

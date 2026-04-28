@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova autorização para inclusão da equoterapia no SUS"
+title: Comissão aprova autorização para inclusão da equoterapia no SUS
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Conforme a proposta, essa técnica pode ser realizada por meio de convênios com entidades públicas ou privadas.
 

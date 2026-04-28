@@ -1,11 +1,12 @@
 ---
-title: "Quatro músicas de Natal que vão alegrar o seu dia"
+title: Quatro músicas de Natal que vão alegrar o seu dia
 date: 2023-12-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Music
+- Music
 ---
+
 
 ## 4 hits da música pop e rock para o Natal, essa data tão especial no coração de muitas pessoas.
 

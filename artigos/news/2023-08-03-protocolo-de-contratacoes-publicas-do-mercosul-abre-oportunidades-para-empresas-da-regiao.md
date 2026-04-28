@@ -1,11 +1,13 @@
 ---
-title: "Protocolo de Contratações Públicas do Mercosul abre oportunidades para empresas da região"
+title: Protocolo de Contratações Públicas do Mercosul abre oportunidades para empresas
+  da região
 date: 2023-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acordos comerciais visam igualdade de condições e segurança regional nas licitações públicas e comércio de serviços. 
 

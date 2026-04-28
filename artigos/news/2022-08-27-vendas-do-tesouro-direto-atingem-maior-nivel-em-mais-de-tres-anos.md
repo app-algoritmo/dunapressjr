@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto atingem maior nível em mais de três anos"
+title: Vendas do Tesouro Direto atingem maior nível em mais de três anos
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Títulos mais procurados foram os corrigidos pela Selic.
 

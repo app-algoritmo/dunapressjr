@@ -1,11 +1,12 @@
 ---
-title: "Governo Central registra maior déficit primário em junho em dois anos"
+title: Governo Central registra maior déficit primário em junho em dois anos
 date: 2023-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda nas receitas da concessão da Eletrobras e de dividendos do BNDES contribuem para resultado desfavorável. 
 

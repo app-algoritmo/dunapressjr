@@ -1,11 +1,12 @@
 ---
-title: "FGV: IGP-DI varia 0,06% em janeiro de 2023"
+title: 'FGV: IGP-DI varia 0,06% em janeiro de 2023'
 date: 2023-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com este resultado, o índice acumula alta de 3,01% em 12 meses.
 

@@ -1,11 +1,13 @@
 ---
-title: "O Vaticano e os Mistérios do Universo: A Nova Abordagem sobre OVNIs e Fenômenos Paranormais"
+title: 'O Vaticano e os Mistérios do Universo: A Nova Abordagem sobre OVNIs e Fenômenos
+  Paranormais'
 date: 2024-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nas últimas décadas, o Vaticano tem mantido uma postura reservada sobre temas como OVNIs, alienígenas e outros mistérios do universo. No entanto, uma mudança significativa parece estar em andamento. Na quinta-feira, o Vaticano realizou uma coletiva de imprensa para discutir fantasmas e fenômenos paranormais pela primeira vez desde 1978, e anunciou novas diretrizes sobre encontros com alienígenas.
 

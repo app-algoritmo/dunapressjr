@@ -1,11 +1,13 @@
 ---
-title: "Primeira-dama, Michelle Bolsonaro lança projeto Arrecadação Solidária contra o coronavírus"
+title: Primeira-dama, Michelle Bolsonaro lança projeto Arrecadação Solidária contra
+  o coronavírus
 date: 2020-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal lançou, nesta terça-feira (7), em evento no Palácio do Planalto, o projeto Arrecadação Solidária, criado para apoiar instituições sem fins lucrativos que atuem com trabalho voluntário junto a grupos vulneráveis da sociedade. Pessoas físicas e jurídicas poderão, por meio de doações, apoiarem entidades que atuam em prol de serviços voluntários ao próximo. A prioridade será direcionar esforços aos grupos de riscos, principalmente os idosos, no entanto, também serão atendidas demandas de comunidades que sofrem com os efeitos sociais e econômicos da pandemia do coronavírus. O projeto é realização do programa [Pátria Voluntária](http://patriavoluntaria.org/pt-BR) em conjunto com a campanha[ Todos por Todos ](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/03/governo-lanca-plataforma-para-oferta-de-produtos-e-servicos-gratuitos-a-populacao) com a Fundação Banco do Brasil.
 

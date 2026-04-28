@@ -1,11 +1,12 @@
 ---
-title: "DEFESA EMPREGA MAIS DE 25 MIL MILITARES NO COMBATE À COVID – 19"
+title: DEFESA EMPREGA MAIS DE 25 MIL MILITARES NO COMBATE À COVID – 19
 date: 2020-04-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os militares das Forças Armadas permanecem em diversas frentes de trabalho para combater o novo coronavirus e apoiar a população. Coordenados com agentes do governo, estão sendo empregados em ações como montagem de barracas em apoio a hospitais, fiscalização da entrada e saída de passageiros nas fronteiras, nos aeroportos e nos portos, descontaminação de locais públicos e transporte de medicamentos.
 

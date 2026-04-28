@@ -1,11 +1,13 @@
 ---
-title: "O aumento de tropas da Finlândia na fronteira com a Rússia pode causar tensão, alerta o Kremlin"
+title: O aumento de tropas da Finlândia na fronteira com a Rússia pode causar tensão,
+  alerta o Kremlin
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Esta é uma concentração absolutamente não provocada e infundada de unidades armadas na fronteira com a Rússia”, enfatizou Dmitry Peskov.
 

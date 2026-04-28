@@ -1,11 +1,13 @@
 ---
-title: "Plenário da Câmara aprovou 271 propostas em 2022; confira os principais temas votados"
+title: Plenário da Câmara aprovou 271 propostas em 2022; confira os principais temas
+  votados
 date: 2022-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou, em 2022, 15 propostas de emenda à Constituição (PEC), como a que permitirá ao novo governo aumentar em R$ 145 bilhões o teto de gastos no Orçamento de 2023 para bancar despesas sociais e investir até R$ 22,9 bilhões do superávit financeiro por fora desse teto (PEC 32/22), que deverá ser revisto por projeto de lei complementar. A PEC foi promulgada como [Emenda Constitucional 126](https://www2.camara.leg.br/legin/fed/emecon/2022/emendaconstitucional-126-21-dezembro-2022-793528-norma-pl.html).
 

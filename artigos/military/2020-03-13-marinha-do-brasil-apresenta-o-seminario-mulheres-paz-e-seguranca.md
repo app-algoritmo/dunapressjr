@@ -1,11 +1,12 @@
 ---
-title: "Marinha do Brasil apresenta o Seminário 'Mulheres, Paz e Segurança'"
+title: Marinha do Brasil apresenta o Seminário 'Mulheres, Paz e Segurança'
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 A Marinha brasileira apresentou no último dia 10 de março, o Seminário “Mulheres, Paz e Segurança: 20 anos da agenda da Resolução ONU 1325 e os 40 anos da mulher na Marinha”
 

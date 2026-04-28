@@ -1,11 +1,12 @@
 ---
-title: "Rússia decepcionada com Áustria e Suíça abandonando a neutralidade"
+title: Rússia decepcionada com Áustria e Suíça abandonando a neutralidade
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Maria Zakharova disse que as nações neutras têm uma grande oportunidade de agir como mediadores na resolução de conflitos, ajudar na pacificação e na construção de confiança, com o consentimento das partes em conflito.
 

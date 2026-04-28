@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Do Jenipapos a Caxias"
+title: 'Série Fatos Da Independência: Do Jenipapos a Caxias'
 date: 2023-08-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A Batalha do Jenipapo foi uma perda para a causa da independência. Dos mais de quatro mil homens que participaram, entre 200 e 400 deles morreram no confronto. O número de feridos também foi significativo e, provavelmente, se aproxima da estimativa de mortes. As maiores perdas estavam entre as tropas de Chaves. Na paróquia de São Sebastião e na Igreja Matriz de Santo Antônio do Surubim, em Campo Maior, as mulheres fizeram vigília pelos maridos, filhos e irmãos que enviaram à luta. Os poucos que sobreviveram à batalha e não foram presos por Fidié retornaram. Cerca de 500 homens ficaram encarcerados sob às ordens do Governador e foram, posteriormente, incorporados às suas tropas. Nem todos permaneceram fiéis ao Governador de Armas: muitos debandaram.
 

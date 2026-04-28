@@ -1,11 +1,12 @@
 ---
-title: "Congresso e Planalto irão tentar mais uma vez aprovar a reforma tributária"
+title: Congresso e Planalto irão tentar mais uma vez aprovar a reforma tributária
 date: 2023-02-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 2023 o Congresso Nacional e o governo federal vão fazer uma nova tentativa de aprovar a reforma tributária. Na abertura do ano Legislativo, a simplificação dos impostos foi mais uma vez lembrada como prioridade para o país. O presidente da República, Luiz Inácio Lula da Silva, e o presidente do Senado e do Congresso, Rodrigo Pacheco, pediram a reforma em suas mensagens. Assim como o presidente da Câmara, Arthur Lira, e outros deputados e senadores. A reforma é [debatida há mais de 25 anos](http://www12.senado.leg.br/noticias/materias/1995/08/04/reforma-tributaria-sera-a-proxima-emenda-em-votacao).
 

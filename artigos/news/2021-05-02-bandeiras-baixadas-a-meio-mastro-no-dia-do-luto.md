@@ -1,11 +1,12 @@
 ---
-title: "Bandeiras baixadas a meio mastro no dia do luto"
+title: Bandeiras baixadas a meio mastro no dia do luto
 date: 2021-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Knesset, a Residência do Presidente abaixou as bandeiras a meio mastro em luto por 45 que morreram em Meron.
 

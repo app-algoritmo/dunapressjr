@@ -1,11 +1,12 @@
 ---
-title: "Mas afinal como funciona uma vacina?"
+title: Mas afinal como funciona uma vacina?
 date: 2021-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Você deve ter reparado que muita gente tem falado sobre vacinas ultimamente. Mas você já se perguntou como funciona uma vacina? E qual a importância das vacinas para a saúde das pessoas?
 

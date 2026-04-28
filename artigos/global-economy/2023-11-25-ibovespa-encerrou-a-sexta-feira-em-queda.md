@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa encerrou a sexta-feira em queda"
+title: Ibovespa encerrou a sexta-feira em queda
 date: 2023-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar registra leve alta na semana.
 

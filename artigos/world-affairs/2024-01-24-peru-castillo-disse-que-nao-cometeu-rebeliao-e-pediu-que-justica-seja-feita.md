@@ -1,11 +1,12 @@
 ---
-title: "Peru: Castillo disse que não cometeu rebelião e pediu que “justiça seja feita”"
+title: 'Peru: Castillo disse que não cometeu rebelião e pediu que “justiça seja feita”'
 date: 2024-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente peruano preso Pedro Castillo reiterou que não lidera uma organização criminosa e insistiu que não cometeu o crime de rebelião quando decidiu fechar o Congresso, em dezembro de 2022.
 

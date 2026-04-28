@@ -1,11 +1,12 @@
 ---
-title: "Provas de atletismo dos Jogos da Rede Municipal de Ensino de Itajaí são transferidas"
+title: Provas de atletismo dos Jogos da Rede Municipal de Ensino de Itajaí são transferidas
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 As provas de atletismo dos Jogos da Rede Municipal de Ensino (JORME), que aconteceriam nesta quarta (01) e quinta-feira (02), foram adiadas em virtude do mau tempo. As disputas foram reagendadas para os dias 23 e 24 de junho, na Pista de Atletismo, que fica atrás da Secretaria de Educação de Itajaí.
 

@@ -1,11 +1,13 @@
 ---
-title: "Veterano dos EUA Alerta sobre os Perigos Enfrentados por Combatentes Ocidentais na Ucrânia"
+title: Veterano dos EUA Alerta sobre os Perigos Enfrentados por Combatentes Ocidentais
+  na Ucrânia
 date: 2024-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um veterano norte-americano que lutou na Ucrânia alertou que muitos combatentes ocidentais foram mortos por subestimarem a gravidade da guerra. Segundo ele, alguns vieram com a expectativa de uma luta fácil e se depararam com uma realidade brutal e letal.
 

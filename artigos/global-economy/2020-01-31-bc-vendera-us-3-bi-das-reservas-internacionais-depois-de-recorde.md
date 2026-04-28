@@ -1,11 +1,12 @@
 ---
-title: "BC venderá US$ 3 bi das reservas internacionais depois de recorde"
+title: BC venderá US$ 3 bi das reservas internacionais depois de recorde
 date: 2020-01-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Dólar comercial encerrou dia próximo de R$ 4,26*
 

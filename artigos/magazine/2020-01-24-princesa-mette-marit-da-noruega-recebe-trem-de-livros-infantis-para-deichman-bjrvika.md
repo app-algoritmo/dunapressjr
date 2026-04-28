@@ -1,11 +1,13 @@
 ---
-title: "Princesa Mette-Marit da Noruega recebe trem de livros infantis para Deichman Bjørvika"
+title: Princesa Mette-Marit da Noruega recebe trem de livros infantis para Deichman
+  Bjørvika
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 850 crianças de escolas do centro de Oslo transferiram 6.000 livros da antiga Biblioteca Principal de Hammersborg para o novo Deichman Bjørvika na última quinta-feria 16 de janeiro de 2020. Em Bjørvika, as crianças foram recebidas por Sua Alteza Real, a Princesa.
 

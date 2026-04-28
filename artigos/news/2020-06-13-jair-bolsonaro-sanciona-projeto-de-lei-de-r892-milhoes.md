@@ -1,11 +1,12 @@
 ---
-title: "Jair Bolsonaro sanciona projeto de lei de R$892 milhões"
+title: Jair Bolsonaro sanciona projeto de lei de R$892 milhões
 date: 2020-06-13
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é assegurar auxílio emergencial para atender os Estados do Espírito Santo, Minas Gerais e Rio de Janeiro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Potencial energético e políticas de incentivos atraem empreendimentos para o Estado"
+title: Potencial energético e políticas de incentivos atraem empreendimentos para
+  o Estado
 date: 2020-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Paraíba possui um significativo potencial para a geração de energia fotovoltaica devido à sua alta incidência solar, com relação aos demais estados do País e se destaca na qualidade dos recursos energéticos (eólico e solar), que são abundantes e acessíveis. Para viabilizar o desenvolvimento do setor, o Estado conta com incentivos fiscais, infraestrutura, linhas de transmissão, agilidade nos licenciamentos ambientais e políticas de fomento e promoção de energias renováveis.
 

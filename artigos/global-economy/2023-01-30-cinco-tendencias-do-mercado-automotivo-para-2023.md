@@ -1,11 +1,12 @@
 ---
-title: "Cinco tendências do mercado automotivo para 2023"
+title: Cinco tendências do mercado automotivo para 2023
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dois anos de pandemia, disparada do dólar, aumento no preço dos combustíveis e falta de componentes para a fabricação mundial de veículos. O mercado automotivo vem sofrendo com queda de vendas e problemas na cadeia de produção desde o início de 2020. Por outro lado, as mudanças que aconteceram nesse segmento nos últimos dois anos foram maiores e mais rápidas que todas as registradas na década anterior. De acordo com o vice-presidente da [**Federação Nacional da Distribuição de Veículos Automotores**](http://www.fenabrave.org.br/portalv2) (Fenabrave), Luís Antônio Sebben, o mercado se transformou rapidamente devido, principalmente, à mudança brusca no comportamento do consumidor durante e pós-pandemia. "O cliente passou por uma transformação digital brusca que não teve volta, mesmo com o fim do *lockdown*", aponta.
 

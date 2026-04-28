@@ -1,11 +1,12 @@
 ---
-title: "Editor do Maui Times: “O governo mente sobre incêndios florestais no Havaí"
+title: 'Editor do Maui Times: “O governo mente sobre incêndios florestais no Havaí'
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O número de mortos nos incêndios florestais de Maui aumentou para 93, tornando os incêndios os mais mortais nos Estados Unidos em mais de 100 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Número de empresas no Brasil atinge 5,7 milhões em 2021"
+title: Número de empresas no Brasil atinge 5,7 milhões em 2021
 date: 2023-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE revelam aumento de 5,8% em relação ao ano anterior e geração de 2,2 milhões de empregos no país.
 

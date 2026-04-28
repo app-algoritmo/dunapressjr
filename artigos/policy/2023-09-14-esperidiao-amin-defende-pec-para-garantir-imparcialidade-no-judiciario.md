@@ -1,11 +1,12 @@
 ---
-title: "Esperidião Amin defende PEC para garantir imparcialidade no Judiciário"
+title: Esperidião Amin defende PEC para garantir imparcialidade no Judiciário
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Esperidião Amin (PP-SC), em pronunciamento no Plenário nesta terça-feira (12), pediu apoio a uma proposta de emenda à Constituição (PEC), apresentada por ele, que modifica o art. 95 da Constituição federal para impedir a atuação dos magistrados em processos ligados, direta ou indiretamente, a cônjuges, companheiros ou parentes até o 2º grau.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nova medida protege empresas exportadoras durante pandemia"
+title: Nova medida protege empresas exportadoras durante pandemia
 date: 2020-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os exportadores ganharam mais tempo para cumprir compromissos assumidos no regime aduaneiro de drawback
 

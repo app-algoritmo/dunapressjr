@@ -1,11 +1,12 @@
 ---
-title: "Campanha Itajaí Sem Racismo destaca concurso Beleza Negra e Prêmio Simeão"
+title: Campanha Itajaí Sem Racismo destaca concurso Beleza Negra e Prêmio Simeão
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palestras e oficinas de saúde integram a Semana da Consciência Negra; sem a presença de público, eventos terão transmissão ao vivo pela internet.
 

@@ -1,12 +1,15 @@
 ---
-title: "Covid-19 | Tratamento Precoce (Inicial, Imediato) | Audiência Pública entre governo e especialistas da saúde | ‘Achismos’ e fanatismos políticos são calados pela Ciência | Possibilidades de cura"
+title: Covid-19 | Tratamento Precoce (Inicial, Imediato) | Audiência Pública entre
+  governo e especialistas da saúde | ‘Achismos’ e fanatismos políticos são calados
+  pela Ciência | Possibilidades de cura
 date: 2021-05-08
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 **MORTES PODEM SER EVITADAS: O BRASIL ABRAÇA A ESPERANÇA! **
 

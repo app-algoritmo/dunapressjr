@@ -1,11 +1,13 @@
 ---
-title: "Segundo relatório o novo coronavírus pode durar 2 anos, a segunda onda pode ser pior"
+title: Segundo relatório o novo coronavírus pode durar 2 anos, a segunda onda pode
+  ser pior
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O relatório citou descobertas que sugerem que até mesmo os vírus pandêmicos graves da influenza, como a gripe espanhola, eram menos infecciosos do que o novo coronavírus.
 

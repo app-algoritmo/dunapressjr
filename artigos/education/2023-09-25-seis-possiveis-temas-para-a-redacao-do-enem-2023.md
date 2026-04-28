@@ -1,11 +1,12 @@
 ---
-title: "Seis possíveis temas para a redação do Enem 2023"
+title: Seis possíveis temas para a redação do Enem 2023
 date: 2023-09-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Garantir uma boa nota na redação do Exame Nacional do Ensino Médio (Enem) pode ser o diferencial para conquistar uma vaga na universidade.
 

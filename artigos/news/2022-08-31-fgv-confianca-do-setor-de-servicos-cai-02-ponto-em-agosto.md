@@ -1,11 +1,12 @@
 ---
-title: "FGV: confiança do setor de serviços cai 0,2 ponto em agosto"
+title: 'FGV: confiança do setor de serviços cai 0,2 ponto em agosto'
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Sondagem ouviu 1.548 empresas, entre os dias 1 e 26 deste mês.
 

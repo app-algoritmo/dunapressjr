@@ -1,11 +1,12 @@
 ---
-title: "Comissão de juristas vai atualizar Código Civil para revolução digital"
+title: Comissão de juristas vai atualizar Código Civil para revolução digital
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado, Rodrigo Pacheco, assinou nesta quinta-feira (24) o ato de criação da comissão de juristas que vai propôr atualização do Código Civil ([Lei 10.406, de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406)). A comissão será presidida pelo ministro Luis Felipe Salomão, do Superior Tribunal de Justiça (STJ), e terá 34 membros, incluindo o presidente, um vice-presidente e dois relatores.
 

@@ -1,11 +1,12 @@
 ---
-title: "O nascimento do Cristo e de uma nova oportunidade!"
+title: O nascimento do Cristo e de uma nova oportunidade!
 date: 2018-12-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Natal é uma data muito importante, embora devamos entender que todos os 365 dias do ano é um novo natal, a cada manhã e cada passo.
 

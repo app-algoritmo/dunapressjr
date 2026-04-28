@@ -1,11 +1,13 @@
 ---
-title: "Duquesa de Cambridge abre oficialmente nova exposição sobre o Holocausto no Imperial War Museum"
+title: Duquesa de Cambridge abre oficialmente nova exposição sobre o Holocausto no
+  Imperial War Museum
 date: 2021-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Duquesa de Cambridge se reuniu com os sobreviventes do Holocausto Yvonne Bernstein e Steven Frank em uma exposição de fotos de sobreviventes e refugiados - incluindo duas que ela tirou do casal como parte de um projeto do Jewish News.
 

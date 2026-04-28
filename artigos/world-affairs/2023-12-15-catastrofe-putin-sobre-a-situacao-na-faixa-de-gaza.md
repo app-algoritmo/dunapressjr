@@ -1,11 +1,12 @@
 ---
-title: "'Catástrofe': Putin sobre a situação na Faixa de Gaza"
+title: '''Catástrofe'': Putin sobre a situação na Faixa de Gaza'
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Falando de milhares de mulheres e crianças mortas em Gaza, o presidente russo reiterou que o secretário-geral da ONU, Antonio Guterres, “chamou a atual Faixa de Gaza de o maior cemitério de crianças do mundo”.
 

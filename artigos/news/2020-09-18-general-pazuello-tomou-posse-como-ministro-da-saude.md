@@ -1,11 +1,12 @@
 ---
-title: "General Pazuello tomou posse como Ministro da Saúde"
+title: General Pazuello tomou posse como Ministro da Saúde
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde 16 de maio no cargo de forma interina, o ministro está à frente das ações federais de enfrentamento ao novo coronavírus. O general Eduardo Pazuello assumiu, oficialmente, nesta quarta-feira (16), o comando do Ministério da Saúde, em cerimônia no Palácio do Planalto. 
 

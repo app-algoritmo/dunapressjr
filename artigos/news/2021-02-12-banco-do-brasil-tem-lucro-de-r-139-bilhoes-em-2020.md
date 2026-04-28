@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil tem lucro de R$ 13,9 bilhões em 2020"
+title: Banco do Brasil tem lucro de R$ 13,9 bilhões em 2020
 date: 2021-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado representa queda de 22% em relação ao ano anterior.
 

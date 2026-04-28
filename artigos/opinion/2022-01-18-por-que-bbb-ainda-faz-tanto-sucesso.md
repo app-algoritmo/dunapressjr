@@ -1,11 +1,12 @@
 ---
-title: "Por que BBB ainda faz tanto sucesso?"
+title: Por que BBB ainda faz tanto sucesso?
 date: 2022-01-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 **Se você é um consumidor de programas de televisão, provavelmente você já se pegou assistindo algum reality show, e um dos principais responsáveis por essa ascensão é o Big Brother Brasil.**
 

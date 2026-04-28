@@ -1,11 +1,12 @@
 ---
-title: "A imprensa se combate com a imprensa"
+title: A imprensa se combate com a imprensa
 date: 2020-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Dom Pedro II foi bastante sábio ao falar essa frase.
 

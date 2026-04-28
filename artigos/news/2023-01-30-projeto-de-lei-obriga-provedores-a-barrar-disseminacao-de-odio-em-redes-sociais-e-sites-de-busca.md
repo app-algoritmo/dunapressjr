@@ -1,11 +1,13 @@
 ---
-title: "Projeto de lei obriga provedores a barrar disseminação de ódio em redes sociais e sites de busca"
+title: Projeto de lei obriga provedores a barrar disseminação de ódio em redes sociais
+  e sites de busca
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um projeto apresentado pelo senador Fabiano Contarato (PT-ES) cria uma série de obrigações aos provedores de internet para reprimir a disseminação de conteúdos de ódio e a discriminação ou o preconceito nas redes sociais e nas plataformas de buscas ([PL 2.821/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/155169)).
 

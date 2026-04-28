@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro destaca medidas para ampliar  acesso à internet"
+title: Governo Bolsonaro destaca medidas para ampliar  acesso à internet
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entre as iniciativas, está o programa Wi-Fi na Praça que será instalado na comunidade Angélica, no Rio Grande do Norte. 
 

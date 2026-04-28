@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa indica que meninos leem menos: como melhorar esse cenário?"
+title: 'Pesquisa indica que meninos leem menos: como melhorar esse cenário?'
 date: 2021-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 As meninas brasileiras e da maior parte dos países do mundo, de todas as idades, leem mais que os meninos. Essa é a conclusão de uma pesquisa realizada recentemente pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE). No estudo *Education at Glance*, que analisa os resultados de leitura do Programa Internacional de Avaliação de Alunos (Pisa) 2018, ficaram claras as diferenças no desempenho de meninos e meninas. O exame é aplicado em jovens de 15 anos dos 38 países-membros da OCDE e também no Brasil, Argentina, Índia, China, Arábia Saudita, Rússia, Indonésia e África do Sul.
 

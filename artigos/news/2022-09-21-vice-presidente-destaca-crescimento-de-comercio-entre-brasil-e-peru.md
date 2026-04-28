@@ -1,11 +1,12 @@
 ---
-title: "Vice-presidente destaca crescimento de comércio entre Brasil e Peru"
+title: Vice-presidente destaca crescimento de comércio entre Brasil e Peru
 date: 2022-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Hamilton Mourão cumpre agenda oficial no país vizinho.
 

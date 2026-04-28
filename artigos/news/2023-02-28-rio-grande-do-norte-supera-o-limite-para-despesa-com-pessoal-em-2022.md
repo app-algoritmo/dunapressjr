@@ -1,11 +1,12 @@
 ---
-title: "Rio Grande do Norte supera o limite para despesa com pessoal em 2022"
+title: Rio Grande do Norte supera o limite para despesa com pessoal em 2022
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Esse item alcançou 53,52% da Receita Corrente Líquida no RN, aponta o Relatório de Gestão Fiscal, que apresenta dados relativos ao terceiro quadrimestre de 2022.
 

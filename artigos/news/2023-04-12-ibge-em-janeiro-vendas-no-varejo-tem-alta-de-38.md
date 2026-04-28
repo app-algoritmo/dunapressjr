@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Em janeiro, vendas no varejo têm alta de 3,8%"
+title: 'IBGE: Em janeiro, vendas no varejo têm alta de 3,8%'
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A média móvel trimestral para o varejo foi de 0,1% no trimestre encerrado em janeiro.
 

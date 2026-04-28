@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Rio Grande do Norte, março de 1817"
+title: 'Série Fatos Da Independência: Rio Grande do Norte, março de 1817'
 date: 2023-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O Governador-Geral da Capitania foi deposto. Na manhã de 25 de março de 1817, revoltosos potiguares lhe deram voz de prisão e se organizaram para criar um governo provisório no Rio Grande do Norte. Inspirados pela Independência das Treze Colônias, cujas ideias disseminavam-se a partir de Pernambuco em clubes, seminários, salões, lojas e ruas, palavras como Independência, Federalismo, República e Liberdade corriam de boca em boca. Na liderança do levante estava André de Albuquerque Maranhão, coronel da cavalaria miliciana e rico proprietário de terras. Em seu engenho do Cunhaú, os revolucionários se encontravam para criticar os rumos do governo da Corte instalada no Rio de Janeiro, desde 1808, e queixar dos altíssimos impostos cobrados para a sua sustentação.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro conclui primeiro hospital de campanha para pacientes com coronavírus"
+title: Governo Bolsonaro conclui primeiro hospital de campanha para pacientes com
+  coronavírus
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura concluiu, dentro do cronograma de 15 dias, a estrutura do primeiro hospital de campanha do Governo Federal, construído em Águas Lindas (GO), para atender pacientes diagnosticados com coronavírus. Na manhã desta quinta-feira (23), o secretário Nacional de Transportes Terrestres, Marcello Costa, esteve no local para realizar uma visita técnica à obra, e participou ainda de reunião com representantes do Ministério da Saúde e do município.
 

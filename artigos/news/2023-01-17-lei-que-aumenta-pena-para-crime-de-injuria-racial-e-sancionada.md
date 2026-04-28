@@ -1,11 +1,12 @@
 ---
-title: "Lei que aumenta pena para crime de injúria racial é sancionada"
+title: Lei que aumenta pena para crime de injúria racial é sancionada
 date: 2023-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Luiz Inácio Lula da Silva, sancionou sem vetos a [Lei 14.532/23](https://www2.camara.gov.br/legin/fed/lei/2023/lei-14532-11-janeiro-2023-793685-norma-pl.html), que aumenta a pena para a injúria relacionada a raça, cor, etnia ou procedência nacional. Com a norma, esse tipo de injúria pode ser punida com reclusão de 2 a 5 anos e a pena poderá ser dobrada se o crime for cometido por duas ou mais pessoas. Antes, a pena era de 1 a 3 anos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Incluída a cultura da banana no projeto-piloto para estimular a contratação de seguro rural entre os produtores enquadrados no Pronaf"
+title: Incluída a cultura da banana no projeto-piloto para estimular a contratação
+  de seguro rural entre os produtores enquadrados no Pronaf
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Serão destinados R$ 50 milhões para subvencionar a contratação de apólices de seguro rural em todo o país, R$ 10 milhões para banana, maçã e uva e R$ 40 milhões para soja e milho verão.
 

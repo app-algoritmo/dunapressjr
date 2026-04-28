@@ -1,11 +1,12 @@
 ---
-title: "Relator de texto que limita juros do cartão, Rodrigo Cunha vê superendividamento"
+title: Relator de texto que limita juros do cartão, Rodrigo Cunha vê superendividamento
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rodrigo Cunha (União-AL) destacou, em pronunciamento em Plenário nesta sexta-feira (15), que o superendividamento afeta mais de 70 milhões de pessoas. O senador ressaltou que essa é uma questão que precisa ser enfrentada de forma responsável.
 

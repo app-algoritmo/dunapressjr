@@ -1,11 +1,13 @@
 ---
-title: "Partido de Meloni defende medidas pró-vida contra as “sinistras políticas de morte” da esquerda"
+title: Partido de Meloni defende medidas pró-vida contra as “sinistras políticas de
+  morte” da esquerda
 date: 2024-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Parlamento italiano aprovou recentemente um pacote de iniciativas pró-vida, apresentado pelo governo de Meloni, que visa fortalecer o direito à vida e oferecer alternativas às mulheres que enfrentam gravidez indesejada. O pacote foi endossado pela Câmara dos Deputados por maioria absoluta, e espera-se que o Senado ratifique a norma em breve. Estas medidas, financiadas com os fundos de recuperação da pandemia COVID da União Europeia, destacam a mudança de abordagem em relação ao aborto, optando por fornecer apoio à maternidade e sensibilização social, em vez de criminalizar a prática.
 

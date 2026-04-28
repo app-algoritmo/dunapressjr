@@ -1,11 +1,13 @@
 ---
-title: "Primeira-ministra Theresa May apresenta sua demissão à Rainha Isabel no palácio de Buckhingam"
+title: Primeira-ministra Theresa May apresenta sua demissão à Rainha Isabel no palácio
+  de Buckhingam
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Minutos antes de ir ao palácio de Buckhingam apresentar a demissão à Rainha Isabel segunda, Theresa May falou pela última vez aos britânicos enquanto primeira-ministra.
 

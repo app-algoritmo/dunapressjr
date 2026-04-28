@@ -1,11 +1,13 @@
 ---
-title: "China e Rússia Fortalecem Cooperação Estratégica no Contexto do BRICS e da OCX, Afirma Xi Jinping"
+title: China e Rússia Fortalecem Cooperação Estratégica no Contexto do BRICS e da
+  OCX, Afirma Xi Jinping
 date: 2024-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente chinês, Xi Jinping, reiterou o compromisso da China em fortalecer os laços bilaterais com a Rússia e promover uma cooperação estratégica mais profunda dentro de organizações multilaterais como o BRICS e a Organização de Cooperação de Xangai (OCX). Durante uma reunião com o ministro das Relações Exteriores russo, Sergey Lavrov, Jinping enfatizou a importância de confiança mútua, igualdade e responsabilidade para unir os países do Sul Global e impulsionar reformas na governança global.
 

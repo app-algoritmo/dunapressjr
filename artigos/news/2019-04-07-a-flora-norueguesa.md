@@ -1,11 +1,12 @@
 ---
-title: "A flora norueguesa"
+title: A flora norueguesa
 date: 2019-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A flora norueguesa é exuberante e encantadora. E não se pode falar nela sem falar em uma árvore norueguesa chamada *Kongebjørka* (Vidoeiro Real), um símbolo nacional! Tudo começou devido a uma fotografia do Rei Haakon VII e do Príncipe (herdeiro) Olav abrigando-se debaixo da árvore em 1940, durante um bombardeio alemão na Segunda Guerra Mundial, e que inspirou o poeta Nordahl Grieg a escrever um poema inspirador chamado *Kongen* (O Rei).
 

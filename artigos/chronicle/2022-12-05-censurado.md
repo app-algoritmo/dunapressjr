@@ -1,11 +1,12 @@
 ---
-title: "CENSURADO"
+title: CENSURADO
 date: 2022-12-05
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
-  - Opinion
+- Chronicle
+- Opinion
 ---
+
 
 

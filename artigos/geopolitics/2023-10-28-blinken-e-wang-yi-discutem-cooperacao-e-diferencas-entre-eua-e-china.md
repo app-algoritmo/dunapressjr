@@ -1,11 +1,12 @@
 ---
-title: "Blinken e Wang Yi discutem cooperação e diferenças entre EUA e China"
+title: Blinken e Wang Yi discutem cooperação e diferenças entre EUA e China
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Segundo o Departamento de Estado, a reunião ocorreu “como parte dos esforços contínuos para manter linhas de comunicação abertas e gerir de forma responsável as relações EUA-China”.
 

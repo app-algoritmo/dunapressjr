@@ -1,11 +1,12 @@
 ---
-title: "Coronel Drigo: Uma história de muito amor, coragem e salvamentos"
+title: 'Coronel Drigo: Uma história de muito amor, coragem e salvamentos'
 date: 2020-07-13
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **História que nasce de São Caetano do Sul para o mundo**
 

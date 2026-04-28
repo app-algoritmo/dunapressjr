@@ -1,11 +1,13 @@
 ---
-title: "Índice Geral de Preços – Disponibilidade Interna (IGP-DI) registra variação de 0,50% em novembro"
+title: Índice Geral de Preços – Disponibilidade Interna (IGP-DI) registra variação
+  de 0,50% em novembro
 date: 2023-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação ao produtor e ao consumidor reflete cenário de commodities e serviços.
 

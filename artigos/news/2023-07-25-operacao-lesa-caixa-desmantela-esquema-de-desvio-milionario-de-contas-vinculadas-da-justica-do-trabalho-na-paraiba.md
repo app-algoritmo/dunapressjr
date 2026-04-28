@@ -1,11 +1,13 @@
 ---
-title: "Operação Lesa Caixa desmantela esquema de desvio milionário de contas vinculadas da Justiça do Trabalho na Paraíba"
+title: Operação Lesa Caixa desmantela esquema de desvio milionário de contas vinculadas
+  da Justiça do Trabalho na Paraíba
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Servidor da Caixa Econômica Federal é Alvo da Investigação e Prejuízo Aos Cofres Pode Chegar a R$ 23 Milhões; Polícia Federal Cumpre Mandados em Cinco Cidades da Região. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Julgamento de Paivi Rasanen: Defesa da Liberdade de Expressão e Religião na Finlândia"
+title: 'Julgamento de Paivi Rasanen: Defesa da Liberdade de Expressão e Religião na
+  Finlândia'
 date: 2024-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A ex-Ministra do Interior da Finlândia, Paivi Rasanen, apresentou sua defesa ao Supremo Tribunal do país, enfrentando acusações de "discurso de ódio" por um tweet que incluía versículos bíblicos. A controvérsia começou em junho de 2019, quando Rasanen, membro do partido Democratas Cristãos, criticou o patrocínio da Igreja Evangélica Luterana da Finlândia à parada do orgulho LGBT em Helsinque.
 

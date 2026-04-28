@@ -1,11 +1,13 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: integrantes do Bolsa Família começam a receber terceira parcela a partir desta quarta (17.06)"
+title: 'AUXÍLIO EMERGENCIAL: integrantes do Bolsa Família começam a receber terceira
+  parcela a partir desta quarta (17.06)'
 date: 2020-06-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Em maio, 14,28 milhões de famílias receberam o benefício, num investimento federal de R$ 15,2 bilhões. Calendário para outros públicos do Auxílio será divulgado em breve.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Deputado Alexandre Frota, obriga estudante a comprovar vacinação contra Covid-19 para assistir aulas"
+title: Projeto de Deputado Alexandre Frota, obriga estudante a comprovar vacinação
+  contra Covid-19 para assistir aulas
 date: 2022-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com a proposta, a exigência valerá para universidades e escolas públicas e particulares.
 

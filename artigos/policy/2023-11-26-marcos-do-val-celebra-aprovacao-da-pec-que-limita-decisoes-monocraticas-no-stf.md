@@ -1,11 +1,13 @@
 ---
-title: "Marcos do Val celebra aprovação da PEC que limita decisões monocráticas no STF"
+title: Marcos do Val celebra aprovação da PEC que limita decisões monocráticas no
+  STF
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) comemorou, em um pronunciamento nessa quarta-feira (22), a aprovação no Plenário do Senado da Proposta de Emenda à Constituição ([PEC 8/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148030)). O texto visa restringir decisões monocráticas nos tribunais superiores, como o Supremo Tribunal Federal (STF). A PEC recebeu o apoio de 52 senadores, 3 a mais do que o necessário para sua aprovação.
 

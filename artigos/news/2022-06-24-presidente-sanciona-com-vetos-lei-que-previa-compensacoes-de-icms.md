@@ -1,11 +1,12 @@
 ---
-title: "Presidente sanciona com vetos lei que previa compensações de ICMS"
+title: Presidente sanciona com vetos lei que previa compensações de ICMS
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Entre os vetos, está o que garantia mínimos em saúde e educação.
 

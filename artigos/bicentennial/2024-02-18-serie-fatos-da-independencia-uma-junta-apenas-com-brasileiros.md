@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Uma junta apenas com Brasileiros"
+title: 'Série Fatos Da Independência: Uma junta apenas com Brasileiros'
 date: 2024-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 29 de abril de 1821, quando as Cortes Portuguesas por Decreto transformaram as Capitanias do Reino do Brasil em Províncias, cada uma recebeu instruções para eleger representantes a serem enviados ao Soberano Congresso, instalado em Lisboa, e participarem da elaboração da Constituinte. Nesse mesmo documento, ficou estabelecido que a administração das Províncias deveria ser desempenhada por Juntas de Governo, cujos membros também deveriam ser eleitos. Em Alagoas, entre 1821 e 1825, três juntas foram organizadas: a primeira governou entre julho de 1821 e junho de 1822; a segunda assumiu em seguida e se manteve até 1825. No final de 1823, outra Junta foi formada e disputou o poder com a segunda até serem substituídas por um Presidente de Província, conforme determinado por Dom Pedro.
 

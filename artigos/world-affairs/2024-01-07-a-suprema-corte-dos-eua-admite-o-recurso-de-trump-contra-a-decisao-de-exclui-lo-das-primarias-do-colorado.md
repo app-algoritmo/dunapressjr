@@ -1,11 +1,13 @@
 ---
-title: "A Suprema Corte dos EUA admite o recurso de Trump contra a decisão de excluí-lo das primárias do Colorado"
+title: A Suprema Corte dos EUA admite o recurso de Trump contra a decisão de excluí-lo
+  das primárias do Colorado
 date: 2024-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Supremo Tribunal dos Estados Unidos [anunciou](https://www.europapress.es/internacional/noticia-supremo-eeuu-admite-tramite-recurso-contra-veto-colorado-trump-candidato-presidencial-20240105233416.html) esta sexta-feira que **admite processar um recurso interposto contra a** decisão inédita adotada pelo Supremo Tribunal do estado do Colorado de vetar [Donald Trump](https://gaceta.es/estados-unidos/trump-pide-al-supremo-de-estados-unidos-anular-el-fallo-de-los-tribunales-de-colorado-que-le-excluye-de-las-primarias-20240104-0243/) como candidato às eleições presidenciais de 05 de novembro.
 

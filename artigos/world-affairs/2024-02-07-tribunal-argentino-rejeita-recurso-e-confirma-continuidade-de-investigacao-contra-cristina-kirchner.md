@@ -1,11 +1,13 @@
 ---
-title: "Tribunal argentino rejeita recurso e confirma continuidade de investigação contra Cristina Kirchner"
+title: Tribunal argentino rejeita recurso e confirma continuidade de investigação
+  contra Cristina Kirchner
 date: 2024-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Câmara IV do Tribunal Federal de Cassação da Argentina emitiu uma decisão na segunda-feira que reverberou em todo o país: o recurso apresentado pela defesa da ex-presidente de esquerda, Cristina Fernández De Kirchner, foi rejeitado. Essa decisão confirma que a ex-presidente continuará sob investigação no âmbito do caso conhecido como "rota K-money".
 

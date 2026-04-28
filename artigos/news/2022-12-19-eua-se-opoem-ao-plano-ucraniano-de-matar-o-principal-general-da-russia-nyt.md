@@ -1,12 +1,13 @@
 ---
-title: "EUA se opõem ao plano ucraniano de matar o principal general da Rússia – NYT"
+title: EUA se opõem ao plano ucraniano de matar o principal general da Rússia – NYT
 date: 2022-12-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Washington temia que matar o chefe do Estado-Maior russo, Valery Gerasimov, desencadeasse um conflito direto entre a Rússia e os EUA, afirmou o jornal.
 

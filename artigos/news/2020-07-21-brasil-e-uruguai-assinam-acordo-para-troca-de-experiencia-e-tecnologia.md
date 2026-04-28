@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Uruguai assinam acordo para troca de experiência e tecnologia"
+title: Brasil e Uruguai assinam acordo para troca de experiência e tecnologia
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil vai compartilhar com o Uruguai a experiência e a tecnologia da plataforma [consumidor.gov.br](http://www.consumidor.gov.br/), um serviço público e gratuito implementado pelo governo brasileiro. A ferramenta permite a interlocução direta entre consumidores e empresas para solução de conflitos de consumo pela internet.
 

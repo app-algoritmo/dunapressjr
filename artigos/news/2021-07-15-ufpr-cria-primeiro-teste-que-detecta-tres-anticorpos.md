@@ -1,11 +1,12 @@
 ---
-title: "UFPR cria primeiro teste que detecta três anticorpos"
+title: UFPR cria primeiro teste que detecta três anticorpos
 date: 2021-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa usa o método da citometria de fluxo para ampliar a capacidade de diagnosticar a presença do vírus. 
 

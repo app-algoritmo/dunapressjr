@@ -1,11 +1,13 @@
 ---
-title: "Indústria e varejo querem rever isenção de imposto para compras internacionais até 50 dólares"
+title: Indústria e varejo querem rever isenção de imposto para compras internacionais
+  até 50 dólares
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Deputados vão se reunir com o ministro da Fazenda para pedir a revisão da norma que isentou essas pequenas compras.
 

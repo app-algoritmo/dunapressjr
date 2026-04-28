@@ -1,12 +1,13 @@
 ---
-title: "Youtuber cubana fala sobre coisas que não conhecia até chegar ao Brasil"
+title: Youtuber cubana fala sobre coisas que não conhecia até chegar ao Brasil
 date: 2026-03-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - News
+- Culture and History
+- News
 ---
+
 
 Coisas que não sabia que existia antes de morar no Brasil.
 

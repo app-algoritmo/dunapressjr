@@ -1,11 +1,12 @@
 ---
-title: "“ANIMAL NA CONTRAMÃO”: Uma jornada teatral que rompe barreiras e inspira consciências"
+title: '“ANIMAL NA CONTRAMÃO”: Uma jornada teatral que rompe barreiras e inspira consciências'
 date: 2023-08-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Espetáculo leva a plateia a uma experiência emocionante e transformadora.
 

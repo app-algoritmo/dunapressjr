@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro formaliza pedido de impeachment de Alexandre de Moraes"
+title: Bolsonaro formaliza pedido de impeachment de Alexandre de Moraes
 date: 2021-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ação foi protocolada no Senado nesta sexta-feira.
 

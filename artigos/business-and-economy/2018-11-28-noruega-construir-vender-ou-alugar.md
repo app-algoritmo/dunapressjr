@@ -1,12 +1,13 @@
 ---
-title: "Noruega: construir, vender ou alugar?"
+title: 'Noruega: construir, vender ou alugar?'
 date: 2018-11-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Magazine
+- Business and Economy
+- Magazine
 ---
+
 
 Nos últimos cinco anos, o mercado imobiliário norueguês tem experimentado um crescimento robusto, impulsionado por um ambiente de taxas de juros extremamente baixas e um estímulo fiscal substancial por parte do governo. Este cenário propiciou um mercado dinâmico onde os imóveis são vendidos rapidamente. Fatores como a fusão de municípios, investimentos governamentais em infraestrutura e a chegada de novas indústrias têm contribuído significativamente para a valorização dos empreendimentos imobiliários.
 

@@ -1,11 +1,12 @@
 ---
-title: "Indústria e sindicatos divergem sobre grau de redução dos juros"
+title: Indústria e sindicatos divergem sobre grau de redução dos juros
 date: 2023-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## CNI elogia queda, mas CUT e Força Sindical cobram cortes maiores.
 

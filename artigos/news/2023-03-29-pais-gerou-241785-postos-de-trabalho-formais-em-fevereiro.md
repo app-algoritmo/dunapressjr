@@ -1,11 +1,12 @@
 ---
-title: "País gerou 241.785 postos de trabalho formais em fevereiro"
+title: País gerou 241.785 postos de trabalho formais em fevereiro
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Cadastro Geral de Empregados e Desempregados (Novo Caged) divulgou nesta segunda-feira (29) que o Brasil gerou 241.785 postos de trabalho formais em fevereiro. Esse é o terceiro mês consecutivo em que o país registra saldo positivo na geração de empregos formais.
 

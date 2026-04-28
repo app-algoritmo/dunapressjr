@@ -1,11 +1,13 @@
 ---
-title: "Sefaz-SP participa de operação para desarticular esquema de sonegação de R$ 129 milhões"
+title: Sefaz-SP participa de operação para desarticular esquema de sonegação de R$
+  129 milhões
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Operação "Fio Condutor" investigou a sonegação fiscal de empresas fantasmas; a força-tarefa de SP trabalhou em conjunto com a Sefaz-BA.
 

@@ -1,11 +1,13 @@
 ---
-title: "Robert Malone MD, desenvolvedor da tecnologia mRNA para vacinas, alerta pais sobre os riscos da aplicação do produto experimental em crianças"
+title: Robert Malone MD, desenvolvedor da tecnologia mRNA para vacinas, alerta pais
+  sobre os riscos da aplicação do produto experimental em crianças
 date: 2021-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 Em vídeo o médico americano Robert Malone alerta sobre os possíveis riscos da vacinação em crianças contra a covid-19. Especificamente, ele afirma que as vacinas de RNA mensageiro (mRNA) podem "danificar o sistema reprodutivo", "reinicializar geneticamente o sistema imunológico" e que são necessários "cinco anos" para conhecer os riscos associados a essa tecnologia.
 

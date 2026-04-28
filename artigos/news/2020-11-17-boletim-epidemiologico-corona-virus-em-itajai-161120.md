@@ -1,11 +1,12 @@
 ---
-title: "Boletim epidemiológico Corona vírus em Itajaí 16/11/20"
+title: Boletim epidemiológico Corona vírus em Itajaí 16/11/20
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí soma nesta segunda-feira (16) 9.020 casos confirmados de COVID-19 e 183 mortes em decorrência da doença. Do total de contaminados, 7.996 pacientes já se recuperaram (88,64%) e 841 estão com o vírus ativo (28 internados e 813 em isolamento domiciliar). Há ainda 146 casos suspeitos aguardando resultado de exames.
 

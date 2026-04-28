@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani é superada na semi do US Open"
+title: Luisa Stefani é superada na semi do US Open
 date: 2023-09-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e norte-americana Jennifer Brady caíram diante de campeãs de 2020.
 

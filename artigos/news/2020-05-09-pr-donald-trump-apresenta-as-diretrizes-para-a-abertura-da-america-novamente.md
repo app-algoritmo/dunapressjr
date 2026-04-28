@@ -1,11 +1,12 @@
 ---
-title: "PR Donald Trump apresenta as diretrizes para a abertura da América novamente"
+title: PR Donald Trump apresenta as diretrizes para a abertura da América novamente
 date: 2020-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O presidente Trump apresentou as Diretrizes para a abertura da América novamente, uma abordagem trifásica com base nos conselhos de especialistas em saúde pública. Essas medidas ajudarão as autoridades estaduais e locais ao reabrir suas economias, levar as pessoas ao trabalho e continuar a proteger as vidas americanas.
 

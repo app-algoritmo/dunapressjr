@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas intensificam a segurança nas fronteiras com o Brasil"
+title: Forças Armadas intensificam a segurança nas fronteiras com o Brasil
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Militares das Forças Armadas, em parceria com órgãos governamentais nas áreas de Saúde e Segurança Pública, atuam nas fronteiras com o Brasil na fiscalização do fluxo de pessoas que transitam de um país para outro. A ação faz parte da Operação Covid-19, coordenada pelo Ministério da Defesa, que conta com 10 Comandos Conjuntos distribuídos por todo o Brasil, além de um Comando Aeroespacial de ativação permanente.
 

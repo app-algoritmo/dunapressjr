@@ -1,11 +1,12 @@
 ---
-title: "NRK,  jornal norueguês publica artigo capcioso indicando Bolsonaro"
+title: NRK,  jornal norueguês publica artigo capcioso indicando Bolsonaro
 date: 2021-05-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -Com as narrativas de Ricardo Della Coletta,  jornalista do jornal Folha de São Paulo e do senador Randolfe Rodrigues, o jornal NRK publica um artigo "editado" pela oposição da extrema esquerda.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Mongólia, Rússia e Nepal fecharam suas fronteiras terrestres"
+title: 'Coronavírus: Mongólia, Rússia e Nepal fecharam suas fronteiras terrestres'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Muitos países evacuaram centenas de seus cidadãos da China - com alguns forçando-os a entrar em quarentena em seu retorno - e mais companhias aéreas estão cancelando serviços para o continente.
 

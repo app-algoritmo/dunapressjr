@@ -1,11 +1,13 @@
 ---
-title: "A polícia de Oslo acusou 'uma pessoa da área local' por tentativa de homicídio depois de ter sido baleada em ou perto de uma mesquita em Bærum"
+title: A polícia de Oslo acusou 'uma pessoa da área local' por tentativa de homicídio
+  depois de ter sido baleada em ou perto de uma mesquita em Bærum
 date: 2019-08-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um cidadão norueguês com antecedentes noruegueses foi preso após relatos de tiros disparados contra uma mesquita em Bærum. A polícia diz a NRK TV que encontraram várias armas dentro da mesquita Al-Noor.
 

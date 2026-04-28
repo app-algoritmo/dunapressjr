@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro sanciona a lei que aumenta punição para maus-tratos de animais"
+title: Presidente Jair Bolsonaro sanciona a lei que aumenta punição para maus-tratos
+  de animais
 date: 2020-09-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A legislação abrange animais silvestres, domésticos ou domesticados, nativos ou exóticos e prevê pena de reclusão de dois a cinco anos para prática de abuso e maus tratos. A prática de abuso e maus tratos a animais será punida com pena de reclusão de dois a cinco anos, além de multa e a proibição de guarda.
 

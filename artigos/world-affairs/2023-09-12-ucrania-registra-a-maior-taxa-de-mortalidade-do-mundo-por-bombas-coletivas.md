@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia registra a maior taxa de mortalidade do mundo por bombas coletivas"
+title: Ucrânia registra a maior taxa de mortalidade do mundo por bombas coletivas
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O conflito em curso na Ucrânia está a resultar em mais mortes e feridos causados ​​por bombas de fragmentação do que em qualquer outro país, incluindo a Síria, de acordo com a Coligação contra Munições de Fragmentação.
 

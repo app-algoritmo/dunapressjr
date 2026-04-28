@@ -1,11 +1,13 @@
 ---
-title: "Bush, Obama e Clinton fazem parceria com corporações e ONG financiada por Soros para transportar migrantes para o interior dos EUA"
+title: Bush, Obama e Clinton fazem parceria com corporações e ONG financiada por Soros
+  para transportar migrantes para o interior dos EUA
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Uma organização não-governamental fundada pelos ex-presidentes Bush, Obama e Clinton fez parceria com a American Express Global Business Travel e a [Welcome.US](https://welcome.us/about#welcome-cochairs) para transportar migrantes para comunidades nos Estados Unidos.
 

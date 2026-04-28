@@ -1,11 +1,12 @@
 ---
-title: "Aumento das Detenções por Ameaça Jihadista em Barcelona Preocupa Autoridades"
+title: Aumento das Detenções por Ameaça Jihadista em Barcelona Preocupa Autoridades
 date: 2024-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A cidade de Barcelona está enfrentando um aumento preocupante nas detenções relacionadas à ameaça jihadista, com cinco detenções já registradas apenas neste ano, de acordo com dados do Ministério do Interior. Essa tendência alarmante levou as autoridades a intensificarem a vigilância sobre assuntos específicos, resultando em um aumento significativo no número de indivíduos identificados.
 

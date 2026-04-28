@@ -1,11 +1,12 @@
 ---
-title: "Substância desenvolvida por pesquisadores brasileiros, inibe ação da chikungunya"
+title: Substância desenvolvida por pesquisadores brasileiros, inibe ação da chikungunya
 date: 2021-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O vírus causador da chikungunya perdeu a capacidade de infectar, em 91%, ao ter contato com substância desenvolvida por pesquisadores da Universidade Federal de Uberlândia (UFU). Em alguns momentos do teste, a redução da atividade chegou a 100%. A experiência ainda apontou que isso ocorre sem toxicidade para as células. O estudo [foi publicado](https://www.frontiersin.org/articles/10.3389/fmicb.2020.608924/full) na revista científica internacional e de acesso aberto [*Frontiers*](https://www.frontiersin.org/).
 

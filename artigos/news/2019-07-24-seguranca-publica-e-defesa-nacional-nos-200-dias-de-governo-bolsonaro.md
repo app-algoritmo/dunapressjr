@@ -1,11 +1,12 @@
 ---
-title: "Segurança Pública e Defesa Nacional nos 200 dias de Governo Bolsonaro"
+title: Segurança Pública e Defesa Nacional nos 200 dias de Governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Durante evento de balanço de 200 dias de governo, que ocorreu na quinta-feira (18.07.19), foram apresentadas as entregas para os eixos de Segurança Pública e Defesa Nacional. As entregas envolvem áreas como combate ao crime organizado, adequação da governança das atividades espaciais no Brasil, entrega do primeiro satélite com sensor ótico e de órbita baixa, além de outras. A seguir, conheça as ações do período:
 

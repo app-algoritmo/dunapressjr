@@ -1,11 +1,13 @@
 ---
-title: "Conflito entre Israel e Hamas provoca discussão entre deputados do governo e da oposição"
+title: Conflito entre Israel e Hamas provoca discussão entre deputados do governo
+  e da oposição
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parlamentares manifestaram seus posicionamentos sobre o conflito na sessão do Plenário desta segunda-feira.
 

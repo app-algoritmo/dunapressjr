@@ -1,11 +1,13 @@
 ---
-title: "Projeção do Prisma indica que Dívida Bruta do Governo Central cai 0,4 pontos percentuais em relação ao PIB em 2023"
+title: Projeção do Prisma indica que Dívida Bruta do Governo Central cai 0,4 pontos
+  percentuais em relação ao PIB em 2023
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com uma trajetória do endividamento mais sustentável, abre-se espaço para o custeamento adequado das políticas públicas, com investimentos em infraestrutura, saúde, educação e outras áreas.
 

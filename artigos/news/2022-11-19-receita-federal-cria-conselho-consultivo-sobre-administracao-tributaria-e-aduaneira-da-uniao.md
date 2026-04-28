@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal cria Conselho Consultivo sobre Administração Tributária e Aduaneira da União"
+title: Receita Federal cria Conselho Consultivo sobre Administração Tributária e Aduaneira
+  da União
 date: 2022-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Fórum tem caráter permanente e será composto por ex-secretários da instituição e profissionais de elevada notoriedade em matéria tributária e aduaneira.
 

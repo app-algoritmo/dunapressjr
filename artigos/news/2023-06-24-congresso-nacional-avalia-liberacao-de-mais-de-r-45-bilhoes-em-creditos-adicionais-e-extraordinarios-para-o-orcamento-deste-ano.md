@@ -1,11 +1,13 @@
 ---
-title: "Congresso Nacional avalia liberação de mais de R$ 4,5 bilhões em créditos adicionais e extraordinários para o Orçamento deste ano"
+title: Congresso Nacional avalia liberação de mais de R$ 4,5 bilhões em créditos adicionais
+  e extraordinários para o Orçamento deste ano
 date: 2023-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos visam cobrir despesas não previstas e emergenciais do Poder Executivo.
 

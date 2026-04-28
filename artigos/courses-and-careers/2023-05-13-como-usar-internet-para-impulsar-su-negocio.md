@@ -1,12 +1,13 @@
 ---
-title: "Cómo usar Internet para impulsar su negocio"
+title: Cómo usar Internet para impulsar su negocio
 date: 2023-05-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Courses and Careers
-  - Personal Development
+- Courses and Careers
+- Personal Development
 ---
+
 
 ## Marketing digital: cómo usar Internet para impulsar su negocio.
 

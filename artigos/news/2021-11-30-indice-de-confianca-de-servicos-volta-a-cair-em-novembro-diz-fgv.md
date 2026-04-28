@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança de Serviços volta a cair em novembro, diz FGV"
+title: Índice de Confiança de Serviços volta a cair em novembro, diz FGV
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recuo foi de 2,3 pontos para 93,8 pontos, menor nível desde junho.
 

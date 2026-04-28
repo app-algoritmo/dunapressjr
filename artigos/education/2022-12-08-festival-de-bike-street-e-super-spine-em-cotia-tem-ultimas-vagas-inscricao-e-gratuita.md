@@ -1,11 +1,13 @@
 ---
-title: "Festival de Bike Street e Super Spine em Cotia tem últimas vagas. Inscrição é gratuita"
+title: Festival de Bike Street e Super Spine em Cotia tem últimas vagas. Inscrição
+  é gratuita
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O Festival de Bike Street e Super Spine, em Cotia (SP), está com inscrições abertas. Mas, quem quiser participar, tem de se apressar para garantir um lugar. A inscrição é gratuita e restam poucas vagas para o evento, que será realizado entre esta sexta-feira (9) e o domingo (11), no Parque Teresa Maia, na cidade da Região Metropolitana de São Paulo. O Festival Bike 2022 é uma competição Open, para profissionais e amadores disputarem juntos. 
 

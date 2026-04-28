@@ -1,11 +1,12 @@
 ---
-title: "Indicador do mercado de trabalho da FGV sobe 0,9 ponto e chega a 90,1"
+title: Indicador do mercado de trabalho da FGV sobe 0,9 ponto e chega a 90,1
 date: 2021-09-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é o melhor desde fevereiro de 2020, período pré-pandemia.
 

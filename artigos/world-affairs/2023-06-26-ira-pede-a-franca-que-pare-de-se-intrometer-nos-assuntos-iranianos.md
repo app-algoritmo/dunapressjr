@@ -1,11 +1,12 @@
 ---
-title: "Irã pede à França que pare de se intrometer nos assuntos iranianos"
+title: Irã pede à França que pare de se intrometer nos assuntos iranianos
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz do Ministério das Relações Exteriores do Irã, Nasser Kanaani, pediu ao governo francês que pare de fazer comentários intervencionistas sobre o Irã.
 

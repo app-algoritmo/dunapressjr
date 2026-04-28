@@ -1,11 +1,12 @@
 ---
-title: "Banco Central inicia testes com plataforma do real digital"
+title: Banco Central inicia testes com plataforma do real digital
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ferramenta deve estar à disposição da população no fim de 2024.
 

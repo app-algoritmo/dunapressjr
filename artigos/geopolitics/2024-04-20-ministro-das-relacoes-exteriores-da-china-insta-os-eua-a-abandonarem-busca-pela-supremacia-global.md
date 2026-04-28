@@ -1,11 +1,13 @@
 ---
-title: "Ministro das Relações Exteriores da China insta os EUA a abandonarem busca pela supremacia global"
+title: Ministro das Relações Exteriores da China insta os EUA a abandonarem busca
+  pela supremacia global
 date: 2024-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores da China, Wang Yi, em visita a Jacarta nesta quinta-feira, emitiu um apelo direto aos Estados Unidos, exortando-os a abandonarem sua busca pela supremacia global e a darem ouvidos às vozes da comunidade internacional. Wang, que também é membro do Birô Político do Comitê Central do Partido Comunista da China, fez essas declarações em uma coletiva de imprensa após um encontro com a ministra das Relações Exteriores da Indonésia, Retno Marsudi.
 

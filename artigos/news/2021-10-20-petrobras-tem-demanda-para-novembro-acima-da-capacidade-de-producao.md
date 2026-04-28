@@ -1,11 +1,12 @@
 ---
-title: "Petrobras tem demanda para novembro acima da capacidade de produção"
+title: Petrobras tem demanda para novembro acima da capacidade de produção
 date: 2021-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estatal diz que teve pedidos de gasolina e diesel muito acima da média.
 

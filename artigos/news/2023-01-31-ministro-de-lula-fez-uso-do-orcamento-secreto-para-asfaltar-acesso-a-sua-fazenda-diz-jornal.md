@@ -1,11 +1,13 @@
 ---
-title: "Ministro de Lula fez uso do orçamento secreto para asfaltar acesso à sua fazenda, diz jornal"
+title: Ministro de Lula fez uso do orçamento secreto para asfaltar acesso à sua fazenda,
+  diz jornal
 date: 2023-01-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Juscelino Filho utilizou R$ 5 milhões para beneficiar propriedades da família no Maranhão.
 

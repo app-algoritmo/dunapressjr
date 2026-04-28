@@ -1,11 +1,12 @@
 ---
-title: "O Oriente Médio está abraçando o mundo multipolar de forma mais completa"
+title: O Oriente Médio está abraçando o mundo multipolar de forma mais completa
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O acordo mediado pela China entre a Arábia Saudita e o Irã e o acordo mediado pela Rússia entre a Arábia Saudita e a Síria forneceram um vislumbre da dinâmica de mudança da geopolítica global que está mudando os alinhamentos regionais. A China e a Rússia precisam do Oriente Médio ao seu lado para desafiar efetivamente – e até mesmo reverter – o sistema dominado pelos EUA. 
 

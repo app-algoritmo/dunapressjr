@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Saúde visitará estados com casos mais críticos de Coronavírus"
+title: Ministro da Saúde visitará estados com casos mais críticos de Coronavírus
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Saúde, Nelson Teich, informou, nesta quinta-feira (7), que fará visitas aos estados que estão em situação crítica em relação à pandemia do novo coronavírus. O ministro já esteve em Manaus e, nesta sexta-feira (8), irá ao Rio de Janeiro. A previsão é que na próxima semana visite o Amapá.
 

@@ -1,11 +1,13 @@
 ---
-title: "Primeiro Conselho da Amazônia foca no combate às queimadas e ao desmatamento ilegal"
+title: Primeiro Conselho da Amazônia foca no combate às queimadas e ao desmatamento
+  ilegal
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No encontro de quarta-feira (25), foram apresentados o planejamento estratégico do colegiado e as ações imediatas, que precisam ser adotadas pelo governo federal na região. Entre elas despontam o controle das queimadas e o desmatamento ilegal, prevenção à expansão do COVID-19 na Amazônia Legal, reativação do Fundo Amazônia e financiamento internacional, e o uso da Garantia da Lei e da Ordem contra as queimadas.
 

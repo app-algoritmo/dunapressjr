@@ -1,11 +1,13 @@
 ---
-title: "Atividade física é aliada no controle de doenças crônicas que são responsáveis por 74% das mortes no mundo"
+title: Atividade física é aliada no controle de doenças crônicas que são responsáveis
+  por 74% das mortes no mundo
 date: 2022-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As doenças crônicas não transmissíveis representam sete das 10 principais causas de mortes no mundo. Muitas vezes evitáveis com estilo de vida saudável, doenças como colesterol alto, hipertensão e diabetes correspondem a 73,9% dos óbitos mundiais e a mais de 50% das mortes no Brasil. Dados do Ministério da Saúde indicam ainda que esses problemas de saúde são responsáveis por 62% dos anos de vida perdidos por incapacidade. Além disso, na pandemia, se mostraram agravantes da covid-19.
 

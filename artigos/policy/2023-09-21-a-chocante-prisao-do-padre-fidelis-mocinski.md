@@ -1,11 +1,12 @@
 ---
-title: "A chocante prisão do Padre Fidelis Mocinski"
+title: A chocante prisão do Padre Fidelis Mocinski
 date: 2023-09-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Padre preso por rezer contra o assassinato de bebês.
 

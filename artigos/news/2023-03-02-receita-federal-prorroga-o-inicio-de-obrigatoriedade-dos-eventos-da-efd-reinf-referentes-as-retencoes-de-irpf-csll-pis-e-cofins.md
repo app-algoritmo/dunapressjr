@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal prorroga o início de obrigatoriedade dos eventos da EFD-Reinf referentes às retenções de IRPF, CSLL, PIS e Cofins"
+title: Receita Federal prorroga o início de obrigatoriedade dos eventos da EFD-Reinf
+  referentes às retenções de IRPF, CSLL, PIS e Cofins
 date: 2023-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A obrigatoriedade do envio se iniciará a partir das 8h do dia 21 de setembro de 2023, em relação aos fatos geradores ocorridos a partir de 1º de setembro de 2023.
 

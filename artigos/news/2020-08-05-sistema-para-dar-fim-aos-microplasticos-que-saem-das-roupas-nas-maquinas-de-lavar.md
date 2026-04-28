@@ -1,11 +1,13 @@
 ---
-title: "Sistema para dar fim aos microplásticos que saem das roupas nas máquinas de lavar"
+title: Sistema para dar fim aos microplásticos que saem das roupas nas máquinas de
+  lavar
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## UFRJ e Cefet/RJ venceram o Invent for the Planet 2020 ao desenvolverem um sistema de filtragem de microplásticos na saída de água das casas.
 

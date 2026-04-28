@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,21 e fecha no menor valor em duas semanas"
+title: Dólar cai para R$ 5,21 e fecha no menor valor em duas semanas
 date: 2021-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa de valores tem segundo dia seguido de ganhos.
 

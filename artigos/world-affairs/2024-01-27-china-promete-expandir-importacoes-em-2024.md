@@ -1,11 +1,12 @@
 ---
-title: "China promete expandir importações em 2024"
+title: China promete expandir importações em 2024
 date: 2024-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China planeja aumentar as importações este ano para compartilhar com o mundo as oportunidades de negócios provenientes de seu enorme mercado, disse o ministro do Comércio, Wang Wentao, nesta sexta-feira.
 

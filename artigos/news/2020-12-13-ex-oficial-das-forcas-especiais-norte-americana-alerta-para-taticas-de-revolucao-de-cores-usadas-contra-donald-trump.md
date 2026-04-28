@@ -1,11 +1,13 @@
 ---
-title: "Ex-oficial das Forças Especiais norte americana  alerta para táticas de revolução de cores usadas contra Donald Trump"
+title: Ex-oficial das Forças Especiais norte americana  alerta para táticas de revolução
+  de cores usadas contra Donald Trump
 date: 2020-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 USA Eleições 2020 |
 

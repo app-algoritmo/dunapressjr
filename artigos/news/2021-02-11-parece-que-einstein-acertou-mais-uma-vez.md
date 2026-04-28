@@ -1,11 +1,12 @@
 ---
-title: "Parece que Einstein acertou mais uma vez"
+title: Parece que Einstein acertou mais uma vez
 date: 2021-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Localizado em uma galáxia distante da Terra, o buraco negro tem 40 bilhões de quilômetros de diâmetro - cerca de 3 milhões de vezes o tamanho de nosso planeta - e é descrito pelos cientistas como um "monstro".
 

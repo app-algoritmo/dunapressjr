@@ -1,11 +1,12 @@
 ---
-title: "Faça um passeio pela arte e cultura brasileira através dos Museus virtuais"
+title: Faça um passeio pela arte e cultura brasileira através dos Museus virtuais
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Em tempos de restrições ainda impostas pela pandemia do novo coronavírus, a tecnologia permite que turistas do Brasil e de todo o mundo conheçam uma grande variedade de acervos de museus do país disponível na internet. A partir de uma parceria junto ao Google Arts & Culture, importantes espaços da arte e da cultura nacional proporcionam uma verdadeira imersão nas suas produções.
 

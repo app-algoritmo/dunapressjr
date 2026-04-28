@@ -1,11 +1,12 @@
 ---
-title: "6 de janeiro “Dia de Reis” uma grande celebração em vários países do mundo!"
+title: 6 de janeiro “Dia de Reis” uma grande celebração em vários países do mundo!
 date: 2019-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O Dia de Reis, segundo a tradição cristã, seria aquele em que Jesus Cristo recém-nascido recebera a visita de "alguns magos do oriente" (Mateus 2:1) que, segundo o hagiológio, foram três Reis Magos, e que ocorrera no dia 6 de janeiro. A noite do dia 5 de janeiro e madrugada do dia 6 é conhecida como "Noite de Reis".
 A data marca, para os católicos, o dia para a veneração aos Reis Magos, que a tradição surgida no século VIII converteu nos santos Melchior, Gaspar e Baltazar. Nesta data, ainda, encerram-se para os católicos os festejos natalícios - sendo o dia em que são desarmados os presépios e por conseguinte são retirados todos os enfeites natalícios.

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,67, após duas quedas seguidas"
+title: Dólar sobe para R$ 5,67, após duas quedas seguidas
 date: 2022-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores iniciou semana com queda de 0,75%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga restrição para entrada de estrangeiros no Brasil"
+title: Governo prorroga restrição para entrada de estrangeiros no Brasil
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Prorrogação é por mais trinta dias e aplica-se a estrangeiros de qualquer nacionalidade. Medida proíbe entrada tanto por rodovias ou outros meios terrestres, via aérea e transporte aquaviário.
 

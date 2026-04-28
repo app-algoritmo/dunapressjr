@@ -1,11 +1,12 @@
 ---
-title: "Governo ativa Centro de Operações  para ações de combate à COVID-19"
+title: Governo ativa Centro de Operações  para ações de combate à COVID-19
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Defesa ativou, na última sexta-feira (20), o Centro de Operações Conjuntas para atuar na coordenação e planejamento do emprego das Forças Armadas no combate à Covid-19. Foram ativados também dez Comandos Conjuntos, que cobrem todo o território nacional, além do Comando Aeroespacial (COMAE), de funcionamento permanente.
 

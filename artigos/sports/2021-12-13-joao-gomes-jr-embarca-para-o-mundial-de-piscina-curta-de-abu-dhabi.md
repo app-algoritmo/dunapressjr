@@ -1,11 +1,12 @@
 ---
-title: "João Gomes Jr. embarca para o Mundial de Piscina Curta de Abu Dhabi"
+title: João Gomes Jr. embarca para o Mundial de Piscina Curta de Abu Dhabi
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O nadador João Gomes Jr. embarca neste domingo (12) para os Emirados Árabes Unidos, onde disputará entre os dias 16 e 21 de dezembro a edição de 2021 do Campeonato Mundial de Piscina Curta (25m) em Abu Dhabi. João Gomes faz parte da seleção brasileira e está confirmado para disputar os 50m peito, após ter garantido a vaga no Troféu José Finkel, realizado em Bauru, em agosto deste ano.
 

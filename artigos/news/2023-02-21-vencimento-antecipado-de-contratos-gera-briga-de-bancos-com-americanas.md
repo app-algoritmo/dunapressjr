@@ -1,11 +1,12 @@
 ---
-title: "Vencimento antecipado de contratos gera briga de bancos com Americanas"
+title: Vencimento antecipado de contratos gera briga de bancos com Americanas
 date: 2023-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para especialistas, fornecedores e funcionários são mais prejudicados.
 

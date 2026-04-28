@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí contrata nova empresa especializada em serviços médicos e de enfermagem"
+title: Município de Itajaí contrata nova empresa especializada em serviços médicos
+  e de enfermagem
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma nova empresa especializada em serviços médicos e de enfermagem começou a atuar no Município de Itajaí nesta quarta-feira (01). O Instituto Maria Schmitt (IMAS) vai fornecer horas de médicos especialistas em várias áreas, como pediatria, ginecologia e psiquiatria, além de profissionais de enfermagem. O contrato emergencial tem validade de 30 dias e atenderá às demandas da Secretaria de Saúde de Itajaí. O objetivo da mudança de empresa é aprimorar a qualidade dos serviços ofertados, com ampliação da cobertura médica e manutenção integral dos atendimentos à população, além de proporcionar economia nos gastos públicos.
 

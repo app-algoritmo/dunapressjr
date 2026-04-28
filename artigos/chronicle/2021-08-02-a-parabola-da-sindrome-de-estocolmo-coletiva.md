@@ -1,11 +1,12 @@
 ---
-title: "A parábola da Síndrome de Estocolmo Coletiva"
+title: A parábola da Síndrome de Estocolmo Coletiva
 date: 2021-08-02
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **QUANDO A FALSA IDEIA DE QUE ESTÁ TUDO BEM NOS FAZ FORTALECER O SISTEMA QUE NOS APRISIONA E DESTRÓI******
 

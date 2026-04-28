@@ -1,11 +1,12 @@
 ---
-title: "Sabe como pode fazer um contrato de energia e água em Portugal?"
+title: Sabe como pode fazer um contrato de energia e água em Portugal?
 date: 2022-06-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Anualmente muitos são os brasileiros que emigram para outros países, e se deparam com várias diferenças ao nível cultural, social e até mesmo no que diz respeito ao funcionamento dos serviços básicos, como a eletricidade e a água. 
 

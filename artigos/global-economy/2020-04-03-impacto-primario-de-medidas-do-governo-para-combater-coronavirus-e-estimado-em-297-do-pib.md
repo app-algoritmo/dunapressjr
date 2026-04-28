@@ -1,11 +1,13 @@
 ---
-title: "Impacto primário de medidas do governo para combater coronavírus é estimado em 2,97% do PIB"
+title: Impacto primário de medidas do governo para combater coronavírus é estimado
+  em 2,97% do PIB
 date: 2020-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Impacto é na ordem de R$ 224,6 bilhões. Medidas visam proteger população e manutenção de empregos
 

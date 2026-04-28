@@ -1,12 +1,13 @@
 ---
-title: "Charles Darwin e sua visita ao Brasil"
+title: Charles Darwin e sua visita ao Brasil
 date: 2022-11-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
-  - News
+- History
+- News
 ---
+
 
 Charles Darwin quando esteve no Recife, se impressionou com a brutalidade das pessoas e escreveu: "É uma terra de escravidão, portanto de decrepitude moral!"
 

@@ -1,11 +1,13 @@
 ---
-title: "Comandante do Exército acompanha as operações da COVID-19 no Comando Conjunto do Sudeste"
+title: Comandante do Exército acompanha as operações da COVID-19 no Comando Conjunto
+  do Sudeste
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Paulo (SP)** – O Comandante do Exército, General de Exército **Edson Leal Pujol**, visitou o Centro de Coordenação de Operações (CCOp) da Operação COVID-19 no Quartel-General Integrado, em São Paulo (SP), na terça-feira, dia 28 de abril.
 

@@ -1,12 +1,13 @@
 ---
-title: "Casal real agradece apoio e ajuda 'numa situação desafiadora'"
+title: Casal real agradece apoio e ajuda 'numa situação desafiadora'
 date: 2024-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 O Rei Harald e a Rainha Sonja da Noruega expressaram profunda gratidão pelo apoio e solidariedade do povo norueguês durante um momento delicado. Em uma nota de agradecimento divulgada na quarta-feira, o casal real destacou a calorosa demonstração de apoio que receberam após o **[Rei adoecer durante suas férias na Malásia](https://dunapress.org/2024/03/05/rei-harald-da-noruega-hospitalizado-na-malasia-atualizacoes-e-preocupacoes-%f0%9f%87%b3%f0%9f%87%b4%f0%9f%91%91/)**.
 

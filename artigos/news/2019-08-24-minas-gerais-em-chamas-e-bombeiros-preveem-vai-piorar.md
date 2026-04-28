@@ -1,11 +1,12 @@
 ---
-title: "Minas Gerais em chamas e bombeiros preveem: vai piorar"
+title: 'Minas Gerais em chamas e bombeiros preveem: vai piorar'
 date: 2019-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Imagens de satélite do Instituto Nacional de Pesquisas Espaciais (Inpe) mostram Minas Gerais em chamas – e, segundo especialistas, a situação tende a piorar. A série histórica indica elevação de 77% no número de focos de calor em todo o estado, em comparação com o mesmo período do ano passado. 
 

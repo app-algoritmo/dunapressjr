@@ -1,11 +1,12 @@
 ---
-title: "Como usar Arte para melhorar educação de crianças e adolescentes"
+title: Como usar Arte para melhorar educação de crianças e adolescentes
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Arte é ferramenta para desenvolvimento de compreensão do mundo.
 

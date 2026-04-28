@@ -1,11 +1,13 @@
 ---
-title: "O fracasso em defender o pensamento conservador está nos levando a uma nova era da escuridão cultural, Sir Roger Scruton"
+title: O fracasso em defender o pensamento conservador está nos levando a uma nova
+  era da escuridão cultural, Sir Roger Scruton
 date: 2019-07-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A vida intelectual britânica sempre abriu espaço para a voz conservadora. De Burke e Hume a Maitland e Oakeshott, os filósofos britânicos ofereceram uma reflexão contínua sobre nossa herança social e cultural, com o objetivo de entender a ideia fundamental sobre a qual se fundou o conservadorismo - a ideia de pertencer. Eles insistiram que o objetivo de nossa vida terrena não é refazer o mundo, mas pertencer a ele, e que as verdadeiras virtudes políticas são paciência, compreensão e humildade, em vez de indignação ou raiva revolucionária.
 

@@ -1,11 +1,12 @@
 ---
-title: "Em guerra, Rússia promete manter comércio de fertilizantes com Brasil"
+title: Em guerra, Rússia promete manter comércio de fertilizantes com Brasil
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Jair Bolsonaro e Vladimir Putin conversaram por telefone.
 

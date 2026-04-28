@@ -1,11 +1,12 @@
 ---
-title: "Máquina Injetora de Hyatt"
+title: Máquina Injetora de Hyatt
 date: 2019-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Seguindo a sequência do livro: “50
 máquinas que mudaram o rumo da história”. Vamos conhecer um pouco da Máquina

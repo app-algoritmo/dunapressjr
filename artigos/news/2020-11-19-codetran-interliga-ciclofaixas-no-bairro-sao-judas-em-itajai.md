@@ -1,11 +1,12 @@
 ---
-title: "Codetran interliga ciclofaixas no bairro São Judas em Itajaí"
+title: Codetran interliga ciclofaixas no bairro São Judas em Itajaí
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Coordenadoria de Trânsito de Itajaí (Codetran) iniciou nesta terça-feira (17) a interligação das ciclofaixas no trecho entre as ruas Carolina Vaillati e Heitor Liberado, no bairro São Judas. O trabalho de pintura das sinalizações deve ser finalizado ainda nesta semana.
 

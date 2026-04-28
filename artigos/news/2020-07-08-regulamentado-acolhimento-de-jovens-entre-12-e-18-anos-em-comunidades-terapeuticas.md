@@ -1,11 +1,12 @@
 ---
-title: "Regulamentado acolhimento de jovens entre 12 e 18 anos em comunidades terapêuticas"
+title: Regulamentado acolhimento de jovens entre 12 e 18 anos em comunidades terapêuticas
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Documento aprovado prevê a adesão de maneira voluntária e com autorização prévia, por escrito, de um dos pais ou responsável legal.
 

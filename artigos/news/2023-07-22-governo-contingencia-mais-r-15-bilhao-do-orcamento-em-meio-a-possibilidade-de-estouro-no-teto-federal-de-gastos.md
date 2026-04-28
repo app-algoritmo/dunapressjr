@@ -1,11 +1,13 @@
 ---
-title: "Governo contingencia mais R$ 1,5 bilhão do Orçamento em meio a possibilidade de estouro no teto federal de gastos"
+title: Governo contingencia mais R$ 1,5 bilhão do Orçamento em meio a possibilidade
+  de estouro no teto federal de gastos
 date: 2023-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativas indicam aumento no déficit primário e redução nas receitas primárias totais da União para 2023.
 

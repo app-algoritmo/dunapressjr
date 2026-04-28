@@ -1,11 +1,12 @@
 ---
-title: "<strong>Poupança deixa de perder para inflação após dois anos</strong>"
+title: <strong>Poupança deixa de perder para inflação após dois anos</strong>
 date: 2022-10-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aplicação rendeu 7,27% em 12 meses, contra IPCA de 7,17%.
 

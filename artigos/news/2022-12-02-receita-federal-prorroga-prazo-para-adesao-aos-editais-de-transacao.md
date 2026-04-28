@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal prorroga prazo para adesão aos Editais de Transação"
+title: Receita Federal prorroga prazo para adesão aos Editais de Transação
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contribuintes podem aderir até 31 de março de 2023.
 

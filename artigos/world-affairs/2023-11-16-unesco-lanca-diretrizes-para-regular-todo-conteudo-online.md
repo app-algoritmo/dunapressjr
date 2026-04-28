@@ -1,11 +1,12 @@
 ---
-title: "UNESCO lança “diretrizes” para regular todo conteúdo online"
+title: UNESCO lança “diretrizes” para regular todo conteúdo online
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A *Organização das Nações Unidas para a Educação, a Ciência e a Cultura* (UNESCO) publicou as suas chamadas "diretrizes" [para a regulamentação de conteúdos online](https://www.technocracy.news/unesco-seeks-to-regulate-all-internet-content/) .
 

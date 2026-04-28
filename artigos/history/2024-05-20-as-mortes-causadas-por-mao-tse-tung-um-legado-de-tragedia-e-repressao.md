@@ -1,11 +1,12 @@
 ---
-title: "As Mortes Causadas por Mao Tse Tung: Um Legado de Tragédia e Repressão"
+title: 'As Mortes Causadas por Mao Tse Tung: Um Legado de Tragédia e Repressão'
 date: 2024-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - History
+- History
 ---
+
 
 Mao Tse Tung, líder do Partido Comunista Chinês e fundador da República Popular da China, governou de 1949 até sua morte em 1976. Durante seu governo, diversas políticas e campanhas resultaram na morte de milhões de pessoas, marcando um período de grande tragédia na história chinesa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Contágio alcança 20.680 pessoas, 27 países e registra 427 mortes"
+title: 'Coronavírus: Contágio alcança 20.680 pessoas, 27 países e registra 427 mortes'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O número de mortos na China é de 427, excedendo as 349 mortes no continente pelo surto de Síndrome Respiratória Aguda Grave (SARS) de 2002-03, que matou quase 800 em todo o mundo.
 

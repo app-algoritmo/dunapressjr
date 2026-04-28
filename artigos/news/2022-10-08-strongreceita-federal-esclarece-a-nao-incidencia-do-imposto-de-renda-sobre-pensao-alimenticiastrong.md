@@ -1,11 +1,13 @@
 ---
-title: "<strong>Receita Federal esclarece a não incidência do Imposto de Renda sobre pensão alimentícia</strong>"
+title: <strong>Receita Federal esclarece a não incidência do Imposto de Renda sobre
+  pensão alimentícia</strong>
 date: 2022-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Após decisão do STF, valores decorrentes de direito de família, como pensão alimentícia, não são mais tributados, devendo, portanto, ser declarados como valores não tributáveis no imposto de renda.
 

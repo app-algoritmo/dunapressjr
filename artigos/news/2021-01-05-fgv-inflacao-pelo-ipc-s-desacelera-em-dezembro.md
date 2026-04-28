@@ -1,11 +1,12 @@
 ---
-title: "FGV: inflação pelo IPC-S desacelera em dezembro"
+title: 'FGV: inflação pelo IPC-S desacelera em dezembro'
 date: 2021-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Seis das sete capitais registraram decréscimo nas taxas de variação.
 

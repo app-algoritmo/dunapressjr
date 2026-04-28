@@ -1,11 +1,13 @@
 ---
-title: "SC: Policiais civis que estão na S.W.A.T entram na segunda fase do curso com treinamento para sniper"
+title: 'SC: Policiais civis que estão na S.W.A.T entram na segunda fase do curso com
+  treinamento para sniper'
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Os cinco policiais da Polícia Civil de SC, sendo dois delegados e três agentes, concluíram neste sábado, 26, a primeira parte do S.W.A.T. *Training*, formação ministrada pela West Jordan Departamento de Polícia, em West Jordan, Utah, nos Estados Unidos. Eles se preparam agora para a segunda etapa, que começa na segunda-feira, 28, que inclui um treinamento para atuar como *sniper*, policiais habilitados para efetuar tiros de até um quilômetro de distância e que possuem perfil psicológico diferenciado, pois precisam aprender a controlar a respiração e a emoção durante a missão policial. Essa fase vai até o dia 1º de setembro
 

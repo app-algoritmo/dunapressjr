@@ -1,11 +1,12 @@
 ---
-title: "Os arquivos do gene da vacina: uma descoberta acidental"
+title: 'Os arquivos do gene da vacina: uma descoberta acidental'
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *Aparentemente, a quantidade de DNA permitida nas vacinas é regulamentada pelo governo. As "vacinas" de mRNA da Pfizer e da Moderna excedem esse limite por um fator de 1.000. Isso foi descoberto por um geneticista de classe mundial especializado em sequenciamento de DNA. Os tecnocratas e transumanistas da Big Pharma irão obscurecer para sempre descobertas como esta e, enquanto isso, as ramificações para a saúde continuam.⁃ Editor da TN*
 

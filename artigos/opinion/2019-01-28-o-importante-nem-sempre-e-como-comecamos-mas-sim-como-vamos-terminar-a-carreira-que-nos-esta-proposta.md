@@ -1,12 +1,14 @@
 ---
-title: "O importante nem sempre é como começamos, mas sim como vamos terminar a carreira que nos esta proposta!"
+title: O importante nem sempre é como começamos, mas sim como vamos terminar a carreira
+  que nos esta proposta!
 date: 2019-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 E agora eis que o Senhor me conservou em vida, como disse; quarenta e cinco anos são passados, desde que o Senhor falou esta palavra a Moisés, andando Israel ainda no deserto; e agora eis que hoje tenho já oitenta e cinco anos; Josué 14:10.
 

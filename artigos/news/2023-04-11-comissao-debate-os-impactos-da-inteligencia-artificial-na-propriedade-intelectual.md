@@ -1,11 +1,12 @@
 ---
-title: "Comissão debate os impactos da inteligência artificial na propriedade intelectual"
+title: Comissão debate os impactos da inteligência artificial na propriedade intelectual
 date: 2023-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Cultura debate nesta terça-feira (11) os impactos da inteligência artificial na propriedade intelectual. De acordo com o deputado Aureo Ribeiro (Solidariedade-RJ), que propôs o debate, o crescimento e o aprimoramento dos recursos de inteligência, para que tenham comportamentos e ofereçam respostas cada vez mais independente da atuação humana, coloca em questão a autoria e a propriedade intelectual dos resultados. "Quem é o autor de um poema “original”, por exemplo, feito por um sistema de IA?", questiona.
 

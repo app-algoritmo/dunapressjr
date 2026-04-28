@@ -1,11 +1,12 @@
 ---
-title: "Governo Central tem superávit primário recorde para meses de julho"
+title: Governo Central tem superávit primário recorde para meses de julho
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado primário fica positivo em R$ 19,308 bilhões.
 

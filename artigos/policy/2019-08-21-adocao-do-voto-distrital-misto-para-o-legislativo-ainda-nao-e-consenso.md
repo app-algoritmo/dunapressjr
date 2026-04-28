@@ -1,11 +1,12 @@
 ---
-title: "Adoção do voto distrital misto para o Legislativo ainda não é consenso"
+title: Adoção do voto distrital misto para o Legislativo ainda não é consenso
 date: 2019-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Defensores acreditam que modelo facilita a fiscalização pelo eleitor. Críticos temem 'paroquialização' dos mandatos.
 

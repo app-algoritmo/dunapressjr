@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Justiça e Segurança Pública emite Nota de Pronunciamento"
+title: Ministro da Justiça e Segurança Pública emite Nota de Pronunciamento
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em tempos tão difíceis, é essencial voltarmos aos princípios:
 

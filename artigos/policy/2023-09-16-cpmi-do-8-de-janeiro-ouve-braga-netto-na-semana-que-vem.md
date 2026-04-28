@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de janeiro ouve Braga Netto na semana que vem"
+title: CPMI do 8 de janeiro ouve Braga Netto na semana que vem
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O general foi ministro da Defesa e da Casa Civil no governo Bolsonaro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Um convidado de um programa francês disse que celebridades estão tomando adrenocromo"
+title: Um convidado de um programa francês disse que celebridades estão tomando adrenocromo
 date: 2023-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um convidado de um programa francês disse que Celine Dion e outras celebridades estão tomando adrenocromo - "A mídia está sem palavras."  
 

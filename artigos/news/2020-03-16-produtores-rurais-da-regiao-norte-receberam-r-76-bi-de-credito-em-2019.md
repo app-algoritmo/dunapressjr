@@ -1,11 +1,12 @@
 ---
-title: "Produtores rurais da região Norte receberam R$ 7,6 bi de crédito em 2019"
+title: Produtores rurais da região Norte receberam R$ 7,6 bi de crédito em 2019
 date: 2020-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Fundo Constitucional de Financiamento do Norte apoiou mais de 16 mil projetos de empreendedores da região 
 

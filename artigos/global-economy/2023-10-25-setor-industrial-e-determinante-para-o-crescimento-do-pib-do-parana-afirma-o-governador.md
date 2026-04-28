@@ -1,11 +1,13 @@
 ---
-title: "Setor industrial é determinante para o crescimento do PIB do Paraná, afirma o governador"
+title: Setor industrial é determinante para o crescimento do PIB do Paraná, afirma
+  o governador
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ratinho Junior participou da solenidades de posse da nova diretoria da Federação das Indústrias do Paraná, encabeçada por Edson Vasconcelos. O setor industrial do Paraná é o quarto maior do País.
 

@@ -1,11 +1,12 @@
 ---
-title: "FGV: IGP-DI varia 0,04% em fevereiro"
+title: 'FGV: IGP-DI varia 0,04% em fevereiro'
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com André Braz, coordenador dos Índices de Preços, a inflação ao consumidor (de 0,80% para 0,34%) recuou dada a desaceleração do grupo Educação, Leitura e Recreação.
 

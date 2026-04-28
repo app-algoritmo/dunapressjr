@@ -1,11 +1,13 @@
 ---
-title: "Passagens de ônibus trocadas pelo aplicativo MovItajaí passam a ter utilização mais flexível em Itajaí/SC"
+title: Passagens de ônibus trocadas pelo aplicativo MovItajaí passam a ter utilização
+  mais flexível em Itajaí/SC
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O MovItajaí flexibilizou a utilização das passagens de ônibus trocadas por créditos de carbono evitados. Agora as recompensas obtidas através dos AYRs Itajaí, moeda digital convertida nos deslocamentos sustentáveis, poderão ser utilizadas em qualquer linha de ônibus, todos os dias da semana. A concessionária de transporte coletivo Transpiedade foi a primeira empresa parceira a garantir que os créditos virtuais do aplicativo se tornem realidade para os cidadãos.
 

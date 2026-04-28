@@ -1,11 +1,13 @@
 ---
-title: "Militares da Ucrânia Preveem Mobilizar Menos Pessoas para Resistir à Invasão Russa"
+title: Militares da Ucrânia Preveem Mobilizar Menos Pessoas para Resistir à Invasão
+  Russa
 date: 2024-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os militares da Ucrânia estão ajustando suas estratégias de mobilização em resposta à invasão russa em curso há dois anos, conforme revelado pelo principal general de Kiev em uma entrevista nesta sexta-feira. Embora o Presidente Volodymyr Zelenskiy tenha proposto inicialmente a mobilização de até 500 mil ucranianos para reforçar as forças armadas diante dos ataques intensificados da Rússia ao longo da linha de frente de 1.000 quilômetros, o número necessário foi reduzido significativamente após uma revisão dos recursos disponíveis.
 

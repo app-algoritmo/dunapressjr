@@ -1,11 +1,12 @@
 ---
-title: "Índice de Preços ao Produtor cai 3,11% em agosto"
+title: Índice de Preços ao Produtor cai 3,11% em agosto
 date: 2022-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o que revela pesquisa do IBGE.
 

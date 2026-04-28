@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,33, mas tem maior alta semanal desde maio de 2020"
+title: Dólar cai para R$ 5,33, mas tem maior alta semanal desde maio de 2020
 date: 2022-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe 2,26%, mas recua cerca de 5% na semana.
 

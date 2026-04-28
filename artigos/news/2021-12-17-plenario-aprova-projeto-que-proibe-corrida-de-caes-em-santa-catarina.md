@@ -1,11 +1,12 @@
 ---
-title: "Plenário aprova projeto que proíbe corrida de cães em Santa Catarina"
+title: Plenário aprova projeto que proíbe corrida de cães em Santa Catarina
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A aprovação foi por unanimidade do PL 339/2021, proposto pelo deputado Marcius Machado (PL) e assinado por vários parlamentares. Conforme a ementa, a proposição altera o Código Estadual de Proteção dos Animais para explicitar a proibição da realização de corrida de cães e do abandono de animais domésticos em Santa Catarina. Em agosto, outra iniciativa, também de autoria de Marcius e com o mesmo objetivo, foi rejeitada pelo Plenário da Assembleia.
 

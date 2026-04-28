@@ -1,11 +1,13 @@
 ---
-title: "Israelenses cantam Hatikvah pelos soldados mortos em conflitos, das varandas dos prédios"
+title: Israelenses cantam Hatikvah pelos soldados mortos em conflitos, das varandas
+  dos prédios
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dezenas de milhares de israelenses saíram às suas varandas nos prédios para cantar juntos o hino nacional de Israel Hatikvah, em vez de participar das cerimônias do Memorial Day canceladas em todo o país devido à crise do coronavírus.
 

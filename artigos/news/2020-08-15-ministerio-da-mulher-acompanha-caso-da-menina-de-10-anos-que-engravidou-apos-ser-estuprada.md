@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Mulher acompanha caso da menina de 10 anos que engravidou após ser estuprada"
+title: Ministério da Mulher acompanha caso da menina de 10 anos que engravidou após
+  ser estuprada
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde a última quarta-feira (12), integrantes do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) estão em São Mateus (ES) para acompanhar o caso da menina que era estuprada pelo tio desde os seis anos de idade. A criança, que agora tem dez, está grávida.
 

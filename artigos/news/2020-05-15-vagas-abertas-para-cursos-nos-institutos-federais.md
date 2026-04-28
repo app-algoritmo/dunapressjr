@@ -1,11 +1,12 @@
 ---
-title: "Vagas abertas para cursos nos Institutos Federais"
+title: Vagas abertas para cursos nos Institutos Federais
 date: 2020-05-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Estão abertas 8.330 vagas de educação profissional à distância, por meio do programa Novos Caminhos, do Ministério da Educação (MEC). As vagas oferecidas são gratuitas para 66 cursos diferentes. Furto de parceria do Ministério com instituições de ensino, o projeto é uma alternativa de aprendizagem democrática para o isolamento social durante a pandemia de coronavírus. 
 

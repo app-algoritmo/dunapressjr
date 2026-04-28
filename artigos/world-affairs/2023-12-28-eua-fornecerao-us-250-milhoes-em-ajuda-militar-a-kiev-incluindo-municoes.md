@@ -1,11 +1,12 @@
 ---
-title: "EUA fornecerão US$ 250 milhões em ajuda militar a Kiev, incluindo munições"
+title: EUA fornecerão US$ 250 milhões em ajuda militar a Kiev, incluindo munições
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O pacote inclui munições de defesa aérea, outros componentes do sistema de defesa aérea, munições adicionais para sistemas de foguetes de artilharia de alta mobilidade, munições de artilharia de 155 mm e 105 mm e munições antitanque.
 

@@ -1,11 +1,13 @@
 ---
-title: "Fim do acordo de grãos não causará crise alimentar graças ao abastecimento da Rússia"
+title: Fim do acordo de grãos não causará crise alimentar graças ao abastecimento
+  da Rússia
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A publicação também lembra que os países africanos não são os principais destinatários dos grãos ucranianos.
 

@@ -1,12 +1,13 @@
 ---
-title: "Naomi Wolf: Não há mais placentas normais desde o lançamento da vacina COVID-19"
+title: 'Naomi Wolf: Não há mais placentas normais desde o lançamento da vacina COVID-19'
 date: 2023-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## A denunciante e renomada escritora Naomi Wolf revelou recentemente que  [não foram mais vistas placentas normais](https://www.brighteon.com/d00923e2-8c98-420a-b7e5-8e4e15a6874e) desde que as vacinas contra o coronavírus de Wuhan (COVID-19) foram lançadas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Desenvolva a psiquê do seu filho ou aluno"
+title: Desenvolva a psiquê do seu filho ou aluno
 date: 2021-04-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -As pesquisas em psicologia cognitiva e em neurociências nos permitem compreender os mecanismos cognitivos e neurobiológicos que entram em ação na aprendizagem.
 

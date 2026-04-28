@@ -1,12 +1,14 @@
 ---
-title: "Canadenses se enfurecem depois que Trudeau afirma que nunca “obrigou” ninguém a tomar vacinas"
+title: Canadenses se enfurecem depois que Trudeau afirma que nunca “obrigou” ninguém
+  a tomar vacinas
 date: 2023-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Em um verdadeiro ato de gaslighting, o primeiro-ministro canadense Justin Trudeau está [fingindo que](https://www.zerohedge.com/political/trudeau-slammed-after-claiming-he-never-forced-anyone-take-covid-19-vaccine) nunca impôs nenhum mandato de “vacina” contra o coronavírus Wuhan (Covid-19) no Canadá.
 

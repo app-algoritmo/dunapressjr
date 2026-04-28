@@ -1,11 +1,12 @@
 ---
-title: "Câmara pode votar PEC da Transição nesta terça-feira"
+title: Câmara pode votar PEC da Transição nesta terça-feira
 date: 2022-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados pode votar nesta terça-feira (20) a PEC da Transição ([PEC 32/22](https://www.camara.leg.br/noticias/926709-CAMARA-ANALISA-A-PEC-DA-TRANSICAO,-QUE-GARANTE-BOLSA-FAMILIA-DE-R$-600)), em sessão do Plenário marcada para as 9 horas. Também estão na pauta vários outros projetos, entre os quais as prioridades da bancada feminina.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF cumpre mandados de prisão contra uma dos principais investigados na Operação Feldberg"
+title: PF cumpre mandados de prisão contra uma dos principais investigados na Operação
+  Feldberg
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vilhena/RO – A Polícia Federal informa que cumpriu na sexta-feira (15/5) três mandados de prisão contra um dos principais investigados na OPERAÇÃO FELDBERG.
 

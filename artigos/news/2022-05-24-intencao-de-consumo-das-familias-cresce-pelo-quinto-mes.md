@@ -1,11 +1,12 @@
 ---
-title: "Intenção de Consumo das Famílias cresce pelo quinto mês"
+title: Intenção de Consumo das Famílias cresce pelo quinto mês
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Desejo de comprar é maior nas famílias com renda mais baixa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Base Aérea 201 no Níger: A Batalha pelos Recursos e a Terceira Guerra Mundial"
+title: 'Base Aérea 201 no Níger: A Batalha pelos Recursos e a Terceira Guerra Mundial'
 date: 2024-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ### A Base Aérea 201: Símbolo da Influência dos EUA na África Subsaariana.
 

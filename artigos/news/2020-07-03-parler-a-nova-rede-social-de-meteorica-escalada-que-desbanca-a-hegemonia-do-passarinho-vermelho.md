@@ -1,11 +1,13 @@
 ---
-title: "Parler: a nova rede social de meteórica escalada que desbanca a hegemonia do passarinho vermelho"
+title: 'Parler: a nova rede social de meteórica escalada que desbanca a hegemonia
+  do passarinho vermelho'
 date: 2020-07-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Os Presidentes Donald Trump e Jair Bolsonaro fortes em Parler com milhões de adesões.
 

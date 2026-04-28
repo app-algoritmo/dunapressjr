@@ -1,11 +1,12 @@
 ---
-title: "Revogação de Decisão sobre Aborto nos EUA Causa Disputa Política"
+title: Revogação de Decisão sobre Aborto nos EUA Causa Disputa Política
 date: 2024-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A decisão histórica que transformou o aborto induzido em um "direito constitucional" nos Estados Unidos, durante os anos setenta do século passado, foi finalmente revogada pela maioria do atual Supremo Tribunal, cujas nomeações foram feitas durante a gestão de Donald Trump. Esta revogação permite agora que os estados legislem sobre o procedimento, desencadeando uma série de debates e ações em direção a leis mais restritivas em muitas partes do país.
 

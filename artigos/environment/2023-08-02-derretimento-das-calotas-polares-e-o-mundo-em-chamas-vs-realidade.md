@@ -1,11 +1,12 @@
 ---
-title: "Derretimento das calotas polares e o mundo em chamas vs. realidade"
+title: Derretimento das calotas polares e o mundo em chamas vs. realidade
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Todo ator sabe que quando o público começa a rir deles, é hora de deixar o palco. Com o recente show 'World on Fire' desmoronando sob o peso de estatísticas falsas, bolas de cristal, falácias científicas, estimativas fabricadas e Justin Rowlatt sendo levado para Alicante atingida pelo calor, certamente é hora de fechar a cortina neste encerramento. espetáculo cada vez mais ridículo. À medida que o público começa a se dividir, os mapas meteorológicos ficam pretos e os registros de calor disparam pelos escapamentos dos jatos Typhoon, pode ser que os eco-extremistas percebam que precisam melhorar seu jogo. Como mostrou a eleição suplementar de Uxbridge na semana passada, alguns votos podem ser suficientes
 

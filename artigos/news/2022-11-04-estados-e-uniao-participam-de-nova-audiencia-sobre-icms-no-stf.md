@@ -1,11 +1,12 @@
 ---
-title: "Estados e União participam de nova audiência sobre ICMS no STF"
+title: Estados e União participam de nova audiência sobre ICMS no STF
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trabalho seria encerrado nesta sexta-feira, mas partes concordaram em prorrogar.
 

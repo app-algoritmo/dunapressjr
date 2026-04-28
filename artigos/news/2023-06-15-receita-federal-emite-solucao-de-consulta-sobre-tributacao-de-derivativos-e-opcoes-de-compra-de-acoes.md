@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal emite solução de consulta sobre tributação de derivativos e opções de compra de ações"
+title: Receita Federal emite solução de consulta sobre tributação de derivativos e
+  opções de compra de ações
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova orientação esclarece aspectos do IRPJ, CSLL, PIS/Pasep e Cofins no contexto de ganhos provenientes de derivativos e opções de compra de ações.
 

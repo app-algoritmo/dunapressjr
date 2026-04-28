@@ -1,11 +1,13 @@
 ---
-title: "Senador dos EUA na TV: Nossas vidas estão sendo tomadas passo a passo por um poderoso grupo de pessoas"
+title: 'Senador dos EUA na TV: Nossas vidas estão sendo tomadas passo a passo por
+  um poderoso grupo de pessoas'
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Senador dos EUA na TV: A pandemia foi planejada por um grupo que realizou o "Evento 201".**
 

@@ -1,11 +1,13 @@
 ---
-title: "Bill Gates está escondendo seus interesses financeiros em investimentos climáticos europeus"
+title: Bill Gates está escondendo seus interesses financeiros em investimentos climáticos
+  europeus
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **O bilionário da tecnologia Bill Gates acha que tem a solução para a crise climática: Breakthrough Energy, uma combinação de caridade e fundo de investimento. Graças ao seu prestígio e bons contatos, o filantropo pode facilmente arrecadar os milhões necessários em Bruxelas. Mas para quê exatamente? Os interesses públicos e privados envolvidos dificilmente podem ser distinguidos.**
 

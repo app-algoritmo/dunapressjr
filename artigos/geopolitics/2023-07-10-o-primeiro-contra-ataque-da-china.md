@@ -1,11 +1,12 @@
 ---
-title: "O primeiro contra-ataque da China"
+title: O primeiro contra-ataque da China
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## A China se defende das sanções ocidentais e impõe controles de exportação de matérias-primas estratégicas. Na Alemanha, a indústria de semicondutores e a descarbonização estão em risco.
 

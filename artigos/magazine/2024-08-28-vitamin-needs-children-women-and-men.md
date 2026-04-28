@@ -1,11 +1,12 @@
 ---
-title: "Vitamin Needs: Children, Women and Men"
+title: 'Vitamin Needs: Children, Women and Men'
 date: 2024-08-28
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Vitamins are essential nutrients that play a crucial role in maintaining the health and proper functioning of the human body. They are needed in small amounts, but they are vital for biological processes such as metabolism, immunity, and cell development. A lack or excess of vitamins can lead to a variety of health problems, from nutritional deficiencies to chronic conditions. Let's explore the importance of specific vitamins for different groups: children, women, and men.
 

@@ -1,12 +1,14 @@
 ---
-title: "Inovação Eleitoral na Argentina: Novas Urnas Eletrônicas com Voto Auditável em Papel"
+title: 'Inovação Eleitoral na Argentina: Novas Urnas Eletrônicas com Voto Auditável
+  em Papel'
 date: 2023-08-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Technology
+- Policy
+- Technology
 ---
+
 
 As eleições são um pilar fundamental da democracia, e a busca por sistemas eleitorais mais transparentes e confiáveis é constante em muitos países ao redor do mundo. A Argentina está dando um passo importante nessa direção com a introdução de novas urnas eletrônicas que combinam a conveniência da tecnologia com a segurança do voto auditável em papel.
 

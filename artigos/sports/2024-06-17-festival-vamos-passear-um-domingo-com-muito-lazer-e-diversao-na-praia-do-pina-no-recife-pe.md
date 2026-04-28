@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear: um domingo com muito lazer e diversão na Praia do Pina, no Recife (PE)"
+title: 'Festival Vamos Passear: um domingo com muito lazer e diversão na Praia do
+  Pina, no Recife (PE)'
 date: 2024-06-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Evento, apresentado pela Brasilprev, levou 3.500 participantes para a avenida Boa Viagem. Famílias, amigos, pessoas de todas as idades, participando do Passeio de Bike, Caminhada e Corrida Kids, além de várias atrações gratuitas. Próxima parada será em Belém (PA).
 

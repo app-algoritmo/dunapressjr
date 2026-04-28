@@ -1,11 +1,13 @@
 ---
-title: "O Ministério Público colombiano acusa formalmente Nicolás Petro de lavagem de dinheiro"
+title: O Ministério Público colombiano acusa formalmente Nicolás Petro de lavagem
+  de dinheiro
 date: 2024-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério Público colombiano **acusou formalmente** Nicolás Petro, filho mais velho do presidente da Colômbia, [Gustavo Petro,](https://gaceta.es/iberosfera/petro-achaca-el-auge-de-la-violencia-en-ecuador-a-un-equivocado-enfoque-antidrogas-20240110-2234/) por alegados crimes de branqueamento de capitais e enriquecimento ilícito no âmbito da sua campanha eleitoral.
 

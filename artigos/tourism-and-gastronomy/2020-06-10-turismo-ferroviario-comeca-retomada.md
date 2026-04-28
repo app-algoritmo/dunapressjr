@@ -1,11 +1,12 @@
 ---
-title: "Turismo ferroviário começa retomada"
+title: Turismo ferroviário começa retomada
 date: 2020-06-10
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Autorização para viagens foi publicada no DOU; segmento atenderá protocolo sanitário recomendado pelo MTur.
 

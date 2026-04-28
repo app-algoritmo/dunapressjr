@@ -1,11 +1,12 @@
 ---
-title: "Outono: doenças respiratórias e alergias se agravam nesta estação"
+title: 'Outono: doenças respiratórias e alergias se agravam nesta estação'
 date: 2021-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 20 de março, nós do hemisfério sul damos as boas-vindas ao Outono, uma das estações do ano preferidas dos brasileiros, pois carrega características parecidas tanto com as do inverno como com as do verão. Afinal, ele separa estas duas estações.
 

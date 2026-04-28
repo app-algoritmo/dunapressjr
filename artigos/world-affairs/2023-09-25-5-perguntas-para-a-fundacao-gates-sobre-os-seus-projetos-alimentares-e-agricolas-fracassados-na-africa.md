@@ -1,11 +1,13 @@
 ---
-title: "5 perguntas para a Fundação Gates sobre os seus projetos alimentares e agrícolas fracassados na África"
+title: 5 perguntas para a Fundação Gates sobre os seus projetos alimentares e agrícolas
+  fracassados na África
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto o evento anual Goalkeeper da Fundação Bill & Melinda Gates acontece na semana passada, a imprensa que antecede o evento promete notícias inspiradoras para "pensadores e realizadores" que querem "salvar mães moribundas" e nutrir a esperança de um mundo melhor - mas os repórteres deveria colocar algumas questões importantes sobre o fracasso da "Revolução Verde" da fundação em África.
 

@@ -1,11 +1,12 @@
 ---
-title: "'Nunca permita a regra do estado'"
+title: '''Nunca permita a regra do estado'''
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Não gosto de discordar, apenas ressalto que as bases do exercício do poder estão assentadas nas doutrinas fraudulentas da natureza, da medicina e da economia, que a jurisprudência possibilita com os devidos enganos!
 

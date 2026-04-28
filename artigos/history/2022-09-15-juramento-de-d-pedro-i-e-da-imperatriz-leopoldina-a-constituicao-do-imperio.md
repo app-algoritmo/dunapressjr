@@ -1,11 +1,12 @@
 ---
-title: "Juramento de D. Pedro I e da Imperatriz  Leopoldina à Constituição do Império"
+title: Juramento de D. Pedro I e da Imperatriz  Leopoldina à Constituição do Império
 date: 2022-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Os trabalhos da Assembleia Geral, Constituinte e Legislativa do Império do Brasil[[1]](https://d.docs.live.net/088db22117329e12/Documentos/ARQUIVO_NACIONAL/2022/TBO/Secao_documentos/Juramento_imperador_imperatriz_constituicao/TBO_documentos_juramentos_constituicao_1824_v3.docx#_edn1) para elaborar a que viria a ser a primeira Constituição do país iniciaram-se em 17 de abril de 1823. Ocorriam já em meio à alguma tensão proveniente do discurso proferido pelo imperador durante a sessão solene de sua instalação. Após iniciar afirmando que aquele era o “[...] dia maior, que o Brasil tem tido, dia em que ele pela primeira vez começa a mostrar ao mundo, que é império, e império livre”[[2]](https://d.docs.live.net/088db22117329e12/Documentos/ARQUIVO_NACIONAL/2022/TBO/Secao_documentos/Juramento_imperador_imperatriz_constituicao/TBO_documentos_juramentos_constituicao_1824_v3.docx#_edn2), d. Pedro I (1798-1834) lembrou aos deputados constituintes o que dissera quando de sua coroação: “com a minha espada defenderia a pátria, a nação e a constituição, se fosse digna do Brasil e de mim”[[3]](https://d.docs.live.net/088db22117329e12/Documentos/ARQUIVO_NACIONAL/2022/TBO/Secao_documentos/Juramento_imperador_imperatriz_constituicao/TBO_documentos_juramentos_constituicao_1824_v3.docx#_edn3).
 

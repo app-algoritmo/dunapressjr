@@ -1,11 +1,13 @@
 ---
-title: "Promessa do kart brasileiro, Gustavo Bonk conta com novo patrocínio para buscar vaga no Bahrein"
+title: Promessa do kart brasileiro, Gustavo Bonk conta com novo patrocínio para buscar
+  vaga no Bahrein
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Garoto de 12 anos está com foco na competição mundial em dezembro; marca de alinhadores transparentes ClearCorrect vai apoiar jovem atleta nas disputas nacionais e internacionais.
 

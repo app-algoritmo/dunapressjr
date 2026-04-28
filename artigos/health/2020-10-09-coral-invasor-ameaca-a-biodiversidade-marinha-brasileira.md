@@ -1,11 +1,12 @@
 ---
-title: "Coral invasor ameaça a biodiversidade marinha brasileira"
+title: Coral invasor ameaça a biodiversidade marinha brasileira
 date: 2020-10-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No final da década de 1980, foram encontradas duas espécies de coral, nativas dos oceanos Índico e Pacífico, em plataformas de petróleo no estado do Rio de Janeiro, provavelmente advindas do Golfo do México. Já na década de 1990, aconteceu o que a comunidade científica temia: os visitantes indesejados, batizados de coral-sol por conta da sua aparência, foram detectados nos costões rochosos da Baía da Ilha Grande. O coral-sol também foi encontrado no casco do navio Cavo Artemidi, naufragado em Salvador na década de 80.
 

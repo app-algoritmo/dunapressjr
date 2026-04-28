@@ -1,12 +1,13 @@
 ---
-title: "Nadia Nadim, uma mulher exemplar"
+title: Nadia Nadim, uma mulher exemplar
 date: 2023-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
-  - Soccer
+- Features
+- Soccer
 ---
+
 
 ## **Nadia Nadim: A estrela do futebol que vai além dos gramados**
 

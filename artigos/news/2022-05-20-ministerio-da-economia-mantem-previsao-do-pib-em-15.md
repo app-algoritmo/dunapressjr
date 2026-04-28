@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia mantém previsão do PIB em 1,5%"
+title: Ministério da Economia mantém previsão do PIB em 1,5%
 date: 2022-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa para a inflação deste ano sobe para 7,9%.
 

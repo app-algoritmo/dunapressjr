@@ -1,11 +1,12 @@
 ---
-title: "Audição: importância da escuta segura na prevenção da perda auditiva"
+title: 'Audição: importância da escuta segura na prevenção da perda auditiva'
 date: 2022-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O termo “escuta segura’ refere-se, simplesmente, a um comportamento de escuta que não coloque a audição em risco. Esse risco depende de quão alto, por quanto tempo e com que frequência as pessoas são expostas a sons altos, seja através de dispositivos de áudio pessoais ou em locais de entretenimento, seja no ambiente ao seu redor, como no trânsito, no local de trabalho ou em casa.
 

@@ -1,11 +1,12 @@
 ---
-title: "O império da América está falido"
+title: O império da América está falido
 date: 2023-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O dólar está finalmente sendo destronado.
 

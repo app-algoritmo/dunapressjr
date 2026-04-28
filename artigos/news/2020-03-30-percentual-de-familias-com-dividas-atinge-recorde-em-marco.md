@@ -1,11 +1,12 @@
 ---
-title: "Percentual de famílias com dívidas atinge recorde em março"
+title: Percentual de famílias com dívidas atinge recorde em março
 date: 2020-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O aumentou foi de 66,2%, a maior taxa da série histórica desde 2010
 

@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende carga de cigarro transportada em motorhome"
+title: PF, em ação conjunta, apreende carga de cigarro transportada em motorhome
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio Grande/RS - Operação conjunta da Polícia Federal, Polícia Rodoviária Federal e Receita Federal apreendeu, na terça-feira (12/5), um ônibus “motorhome” carregado com 42,5 mil maços de cigarros de origem paraguaia.
 

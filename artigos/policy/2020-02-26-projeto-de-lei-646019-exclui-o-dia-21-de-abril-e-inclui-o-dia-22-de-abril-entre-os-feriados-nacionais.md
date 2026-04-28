@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei 6460/19 exclui o dia 21 de abril e inclui o dia 22 de abril entre os feriados nacionais"
+title: Projeto de Lei 6460/19 exclui o dia 21 de abril e inclui o dia 22 de abril
+  entre os feriados nacionais
 date: 2020-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 6460/19 exclui o dia 21 de abril e inclui o dia 22 de abril entre os feriados nacionais. A proposta, do deputado [Luiz Philippe de Orleans e Bragança (PSL-SP)](https://www.camara.leg.br/deputados/204526), tramita na Câmara dos Deputados e altera a [Lei 662/49](https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-662-6-abril-1949-347136-norma-pl.html), que trata do assunto.
 

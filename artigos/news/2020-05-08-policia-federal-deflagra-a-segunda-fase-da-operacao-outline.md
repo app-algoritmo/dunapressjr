@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra a segunda fase da Operação Outline"
+title: Polícia Federal deflagra a segunda fase da Operação Outline
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Recife/PE** - A Polícia Federal deflagrou, na manhã de hoje (08/5), a segunda fase da Operação *Outline *que visa desarticular organização criminosa que praticava desvios de recursos públicos destinados à obra de requalificação da BR-101, no trecho do Contorno Viário da Região Metropolitana de Recife/PE.
 

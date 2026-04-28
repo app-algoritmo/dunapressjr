@@ -1,11 +1,12 @@
 ---
-title: "Ufal prepara drones para monitorar litoral brasileiro"
+title: Ufal prepara drones para monitorar litoral brasileiro
 date: 2021-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Drones e embarcações autônomas podem vir, em breve, a monitorar as águas do litoral brasileiro para vigiar derramamento de óleo ou outros tipos de poluentes químicos. A ideia, desenvolvida por cientistas do Instituto de Computação da Universidade Federal de Alagoas (Ufal), faz parte da pesquisa financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), no [edital](https://www.gov.br/capes/pt-br/centrais-de-conteudo/22112019_EDITAL_26_2019_CAPES_ENTRE_MARES_SITE.pdf) [Entre Mares](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-capes-2013-entre-mares), que destinou R$ 1,3 milhão a 15 projetos selecionados.
 

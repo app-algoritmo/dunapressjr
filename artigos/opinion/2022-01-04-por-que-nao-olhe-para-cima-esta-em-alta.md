@@ -1,11 +1,12 @@
 ---
-title: "Por que Não Olhe Para Cima está em alta?"
+title: Por que Não Olhe Para Cima está em alta?
 date: 2022-01-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 **Sátira coloca em questão o pior da nossa sociedade atual**
 

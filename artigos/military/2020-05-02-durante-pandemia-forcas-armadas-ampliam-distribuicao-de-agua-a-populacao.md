@@ -1,11 +1,12 @@
 ---
-title: "Durante pandemia, Forças Armadas ampliam distribuição de água à população"
+title: Durante pandemia, Forças Armadas ampliam distribuição de água à população
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 02/05/2020 -** Durante a pandemia causada pelo novo Coronavírus, o Ministério da Defesa deflagrou a Operação COVID-19 para agir de diversas formas no auxílio à população afetada: doação de sangue, alimentos, desinfecção de áreas públicas, entre outros. E um produto não pode faltar durante o período distanciamento social da população: água potável. Nas regiões onde a estiagem prejudica o abastecimento, as Forças Armadas atuam para garantir que a água chegue nas casas dos brasileiros.
 

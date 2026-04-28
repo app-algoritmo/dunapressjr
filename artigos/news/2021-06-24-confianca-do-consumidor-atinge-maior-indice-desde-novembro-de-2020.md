@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor atinge maior índice desde novembro de 2020"
+title: Confiança do consumidor atinge maior índice desde novembro de 2020
 date: 2021-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador subiu 4,7 pontos de maio para junho.
 

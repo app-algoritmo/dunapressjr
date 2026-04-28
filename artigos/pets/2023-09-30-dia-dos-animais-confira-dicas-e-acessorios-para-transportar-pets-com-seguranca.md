@@ -1,11 +1,12 @@
 ---
-title: "Dia dos Animais: confira dicas e acessórios para transportar pets com segurança"
+title: 'Dia dos Animais: confira dicas e acessórios para transportar pets com segurança'
 date: 2023-09-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Cinto de segurança, assentos especiais e bolsas de transporte são algumas opções para os "melhores amigos".
 

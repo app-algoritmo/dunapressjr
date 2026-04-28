@@ -1,12 +1,13 @@
 ---
-title: "Hospitais de Curitiba promovem benção de animais aberta à comunidade"
+title: Hospitais de Curitiba promovem benção de animais aberta à comunidade
 date: 2023-09-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - Pets
+- Health
+- Pets
 ---
+
 
 ## Pets e tutores podem participar da cerimônia no estacionamento dos hospitais Universitário Cajuru e São Marcelino Champagnat.
 

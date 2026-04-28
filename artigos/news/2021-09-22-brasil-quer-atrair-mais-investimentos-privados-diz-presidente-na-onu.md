@@ -1,11 +1,12 @@
 ---
-title: "Brasil quer atrair mais investimentos privados, diz presidente na ONU"
+title: Brasil quer atrair mais investimentos privados, diz presidente na ONU
 date: 2021-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro disse que é contra adoção do passaporte da vacinação.
 

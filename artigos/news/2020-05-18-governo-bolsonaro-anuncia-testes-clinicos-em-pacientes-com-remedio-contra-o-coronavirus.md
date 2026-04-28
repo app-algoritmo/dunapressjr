@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro anuncia testes clínicos em pacientes com remédio contra o coronavírus"
+title: Governo Bolsonaro anuncia testes clínicos em pacientes com remédio contra o
+  coronavírus
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um remédio promissor contra a Covid-19 começou a ser testado em 500 pacientes, informou o ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes. Em análises in vitro, o medicamento reduziu em 94% a carga viral em células infectadas pelo novo coronavírus. A estimativa é de que os resultados dos estudos clínicos em pacientes sejam concluídos até a metade do mês de maio.
 

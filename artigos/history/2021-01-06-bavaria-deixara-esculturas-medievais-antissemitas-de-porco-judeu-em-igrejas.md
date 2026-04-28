@@ -1,11 +1,12 @@
 ---
-title: "Bavária deixará esculturas medievais antissemitas de 'porco judeu' em igrejas"
+title: Bavária deixará esculturas medievais antissemitas de 'porco judeu' em igrejas
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 As autoridades alemãs e as comunidades judaicas concordam que as esculturas antijudaicas devem permanecer intactas, com contexto fornecido.
 

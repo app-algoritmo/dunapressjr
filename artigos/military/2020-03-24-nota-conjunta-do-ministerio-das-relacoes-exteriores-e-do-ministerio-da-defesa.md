@@ -1,12 +1,13 @@
 ---
-title: "Nota conjunta do Ministério das Relações Exteriores e do Ministério da Defesa"
+title: Nota conjunta do Ministério das Relações Exteriores e do Ministério da Defesa
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília, 24/03/2020 -** Duas aeronaves
 C-130 (Hércules) da Força Aérea Brasileira decolaram, nesta terça-feira (24) de

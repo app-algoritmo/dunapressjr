@@ -1,12 +1,14 @@
 ---
-title: "Ex-enfermeira descreve protocolos hospitalares do Covid-19 como “assassinato médico”"
+title: Ex-enfermeira descreve protocolos hospitalares do Covid-19 como “assassinato
+  médico”
 date: 2023-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Uma ex-enfermeira da Califórnia que foi demitida por se recusar a ser “vacinada” para o coronavírus Wuhan (Covid-19) está [falando](https://alphanews.org/former-nurse-describes-covid-19-protocols-as-medical-murder/) sobre os horrores que testemunhou e suportou enquanto trabalhava durante a “pandemia”.
 

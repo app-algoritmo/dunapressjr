@@ -1,11 +1,12 @@
 ---
-title: "Produção de veículos cresce 33,4% em julho, diz Anfavea"
+title: Produção de veículos cresce 33,4% em julho, diz Anfavea
 date: 2022-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foram fabricadas 219 mil unidades em julho.
 

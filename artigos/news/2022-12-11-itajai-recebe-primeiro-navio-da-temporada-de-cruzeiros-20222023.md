@@ -1,11 +1,12 @@
 ---
-title: "Itajaí recebe primeiro navio da temporada de cruzeiros 2022/2023"
+title: Itajaí recebe primeiro navio da temporada de cruzeiros 2022/2023
 date: 2022-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 MSC Armonia atracou na cidade por volta das 7h e recebeu cerca de 1,5 mil embarques de passageiros durante o dia. Até fevereiro de 2023 são esperadas mais 23 escalas de transatlânticos em Itajaí. A expectativa é de uma movimentação de quase R$ 26 milhões na economia local.
 

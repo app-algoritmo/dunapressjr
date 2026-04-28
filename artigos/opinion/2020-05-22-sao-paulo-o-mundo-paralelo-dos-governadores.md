@@ -1,11 +1,12 @@
 ---
-title: "São Paulo: O mundo paralelo dos governadores"
+title: 'São Paulo: O mundo paralelo dos governadores'
 date: 2020-05-22
 status: publish
 author: Vitor Guerino
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nestas últimas semanas, a capital de São Paulo vem passando por uma série de errôneas decisões por parte de seus governadores, tanto vindas do Governador João Doria, quanto do prefeito da cidade, Bruno Covas. O intuito “aparente” de salvaguardar as vidas das pessoas esbarra na irrealidade destas decisões, tendo por fim um efeito que deveria ser de fácil premunição.
 

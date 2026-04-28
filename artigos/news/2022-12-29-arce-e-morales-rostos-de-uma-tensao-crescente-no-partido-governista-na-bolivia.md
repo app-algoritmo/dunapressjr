@@ -1,11 +1,12 @@
 ---
-title: "Arce e Morales, rostos de uma tensão crescente no partido governista na Bolívia"
+title: Arce e Morales, rostos de uma tensão crescente no partido governista na Bolívia
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente boliviano Luis Arce e o ex-presidente Evo Morales representam dois líderes que revelaram uma polarização latente dentro do Movimento ao Socialismo (MAS), que nunca havia afetado este bloco político em seus quase 16 anos no poder no país.
 

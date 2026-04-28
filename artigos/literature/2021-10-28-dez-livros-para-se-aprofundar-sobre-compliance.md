@@ -1,11 +1,12 @@
 ---
-title: "Dez livros para se aprofundar sobre Compliance"
+title: Dez livros para se aprofundar sobre Compliance
 date: 2021-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 O *compliance* está cada vez mais presente no dia a dia das empresas. O termo se fortaleceu após a promulgação da lei em 2013 e ficou conhecida como Lei Anticorrupção. Mas, na teoria, o que realmente é o* compliance*? “Estar em conformidade com as leis, com os padrões éticos, regulamentos internos e externos, são algumas das definições que podemos utilizar para definir o* compliance*”, explica a analista de compliance da Tecnobank, Thais Takagi.
 

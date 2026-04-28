@@ -1,11 +1,12 @@
 ---
-title: "IBGE: previsão da safra 2021 é de 263,1 milhões de toneladas"
+title: 'IBGE: previsão da safra 2021 é de 263,1 milhões de toneladas'
 date: 2021-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Soja teve aumento e continua batendo recordes.
 

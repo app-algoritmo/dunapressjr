@@ -1,11 +1,12 @@
 ---
-title: "Jovens militares são declarados Aspirantes a Oficial da Reserva"
+title: Jovens militares são declarados Aspirantes a Oficial da Reserva
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Após dez meses de formação militar, o Centro de Preparação de Oficiais da Reserva de São Paulo declarou, neste mês, 159 Aspirantes a Oficial da Reserva. A tropa passou a integrar a reserva não remunerada do Exército Brasileiro e pode ser mobilizada, conforme previsto em lei, em caso de guerra ou urgente necessidade da nação. Em todo o Brasil, milhares de jovens concluíram os treinamentos nos centros e núcleos de formação de oficiais da reserva.
 

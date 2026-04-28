@@ -1,11 +1,12 @@
 ---
-title: "Caixa disponibiliza crédito para pequenos empreendedores"
+title: Caixa disponibiliza crédito para pequenos empreendedores
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Uma das linhas de financiamento é o Crédito Assistido Sebrae, amparado pelo Fundo de Aval para as Micro e Pequenas Empresas.
 

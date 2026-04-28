@@ -1,11 +1,12 @@
 ---
-title: "Inauguração da preparação para a Páscoa da Cruz Vermelha 2021"
+title: Inauguração da preparação para a Páscoa da Cruz Vermelha 2021
 date: 2021-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O príncipe herdeiro e a princesa herdeira abriram hoje a preparação para a Páscoa da Cruz Vermelha. - O trabalho que os voluntários fazem - tanto agora na Páscoa como durante todo o ano - é extremamente importante, disse o Príncipe Regente.  25.03.2021
 

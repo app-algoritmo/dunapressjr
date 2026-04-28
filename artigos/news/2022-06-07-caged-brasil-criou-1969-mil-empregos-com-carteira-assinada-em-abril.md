@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil criou 196,9 mil empregos com carteira assinada em abril"
+title: 'Caged: Brasil criou 196,9 mil empregos com carteira assinada em abril'
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado do ano, o saldo é de 770 mil vagas.
 

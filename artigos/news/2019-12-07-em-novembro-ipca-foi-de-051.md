@@ -1,11 +1,12 @@
 ---
-title: "Em novembro, IPCA foi de 0,51%"
+title: Em novembro, IPCA foi de 0,51%
 date: 2019-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O **Índice Nacional de Preços ao Consumidor Amplo (IPCA)** de novembro teve variação de 0,51%, enquanto, em outubro, havia registrado 0,10%. Este foi o maior resultado para um mês de novembro desde 2015, quando o IPCA ficou em 1,01%. O acumulado do ano foi para 3,12% e o dos últimos doze meses, para 3,27%, acima dos 2,54% registrados nos 12 meses imediatamente anteriores. Em novembro de 2018, a taxa fora de -0,21%.
 

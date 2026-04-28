@@ -1,11 +1,13 @@
 ---
-title: "Paraguai: Justiça Eleitoral implementa sistema pioneiro de combate à lavagem de dinheiro"
+title: 'Paraguai: Justiça Eleitoral implementa sistema pioneiro de combate à lavagem
+  de dinheiro'
 date: 2023-12-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Superior Tribunal de Justiça Eleitoral (TSJE) com o apoio da Secretaria de Prevenção à Lavagem de Dinheiro ou de Bens (Seprelad) apresentou trabalho para a implementação de um sistema pioneiro contra a lavagem de dinheiro e o financiamento do terrorismo .
 

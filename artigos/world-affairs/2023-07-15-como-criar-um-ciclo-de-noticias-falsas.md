@@ -1,11 +1,12 @@
 ---
-title: "Como criar um ciclo de notícias falsas"
+title: Como criar um ciclo de notícias falsas
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Apesar dos esforços da grande mídia para denunciá-lo como um teórico da conspiração antivacina, Robert F. Kennedy, Jr. está tendo um momento de glória. 
 

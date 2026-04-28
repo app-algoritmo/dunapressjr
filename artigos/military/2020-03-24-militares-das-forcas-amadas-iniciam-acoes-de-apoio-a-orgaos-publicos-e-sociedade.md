@@ -1,11 +1,12 @@
 ---
-title: "Militares das Forças Amadas iniciam ações de apoio a órgãos públicos e sociedade"
+title: Militares das Forças Amadas iniciam ações de apoio a órgãos públicos e sociedade
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Entre as ações está a instalação de pontos para triagem de pacientes antes de acessarem os hospitais e os postos de saúde, oferecendo suporte a secretarias de saúde em campanhas voltadas para idosos, em ações de controle de segurança nas fronteiras e em embarcações.
 

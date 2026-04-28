@@ -1,11 +1,12 @@
 ---
-title: "Lira reúne líderes nesta segunda para discutir taxação de lucros da Petrobras"
+title: Lira reúne líderes nesta segunda para discutir taxação de lucros da Petrobras
 date: 2022-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Câmara dos Deputados, [Arthur Lira (PP-AL)](https://www.camara.leg.br/deputados/160541), vai reunir os líderes partidários nesta segunda-feira (20) para analisar proposta de taxação dos lucros da Petrobras e mudanças na política de preços praticada pela estatal. Em entrevista à *Globonews *nesta sexta-feira (17), ele fez duras críticas ao novo aumento anunciado ontem pela empresa: 5,18% na gasolina e 14,26% no diesel.
 

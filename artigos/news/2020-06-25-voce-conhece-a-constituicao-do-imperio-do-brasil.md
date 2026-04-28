@@ -1,11 +1,12 @@
 ---
-title: "Você conhece a constituição do Império do Brasil?"
+title: Você conhece a constituição do Império do Brasil?
 date: 2020-06-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A primeira Constituição do Brasil era avançada e, ainda pode ser considerada atual, apesar de não ter recebido as atualizações pertinentes ao longo dos séculos.
 

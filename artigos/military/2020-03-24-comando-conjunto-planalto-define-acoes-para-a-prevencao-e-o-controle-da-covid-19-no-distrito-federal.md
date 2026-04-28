@@ -1,12 +1,14 @@
 ---
-title: "Comando Conjunto Planalto define ações para a prevenção e o controle da COVID-19 no Distrito Federal"
+title: Comando Conjunto Planalto define ações para a prevenção e o controle da COVID-19
+  no Distrito Federal
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília (DF)** – No dia 22 de março, o Comando Conjunto Planalto
 reuniu-se com integrantes do governo do Distrito Federal, em cooperação com os

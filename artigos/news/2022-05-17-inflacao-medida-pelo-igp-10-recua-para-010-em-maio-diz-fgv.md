@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IGP-10 recua para 0,10% em maio, diz FGV"
+title: Inflação medida pelo IGP-10 recua para 0,10% em maio, diz FGV
 date: 2022-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador acumula taxa de inflação de 12,13% em 12 meses.
 

@@ -1,11 +1,13 @@
 ---
-title: "Crescimento econômico no Brasil: PIB registra avanço de 4,5% no primeiro trimestre de 2023"
+title: 'Crescimento econômico no Brasil: PIB registra avanço de 4,5% no primeiro trimestre
+  de 2023'
 date: 2023-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do Monitor do PIB/FGV apontam aumento na produção de bens e serviços, impulsionado pelo consumo das famílias e exportações em alta.
 

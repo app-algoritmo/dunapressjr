@@ -1,11 +1,12 @@
 ---
-title: "Venda de veículos acumula alta de 21% no primeiro trimestre"
+title: Venda de veículos acumula alta de 21% no primeiro trimestre
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No período, foram emplacadas 878.817 unidades.
 

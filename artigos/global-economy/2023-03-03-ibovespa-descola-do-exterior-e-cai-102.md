@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa descola do exterior e cai 1,02%"
+title: Ibovespa descola do exterior e cai 1,02%
 date: 2023-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Petrobras foi destaque negativo mesmo após apresentar maior lucro da história em 2022
 

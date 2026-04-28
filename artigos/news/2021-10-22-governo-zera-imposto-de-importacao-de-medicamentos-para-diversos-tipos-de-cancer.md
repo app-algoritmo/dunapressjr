@@ -1,11 +1,12 @@
 ---
-title: "Governo zera Imposto de Importação de medicamentos para diversos tipos de câncer"
+title: Governo zera Imposto de Importação de medicamentos para diversos tipos de câncer
 date: 2021-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida também inclui produtos para tratamento de anemia, esclerose múltipla e dermatite atópica, além de equipamentos utilizados em procedimentos cirúrgicos no quadril e joelho.
 

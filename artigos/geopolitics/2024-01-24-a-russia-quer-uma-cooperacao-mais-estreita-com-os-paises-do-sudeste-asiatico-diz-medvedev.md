@@ -1,11 +1,13 @@
 ---
-title: "A Rússia quer uma cooperação mais estreita com os países do Sudeste Asiático, diz Medvedev"
+title: A Rússia quer uma cooperação mais estreita com os países do Sudeste Asiático,
+  diz Medvedev
 date: 2024-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O vice-presidente do Conselho de Segurança russo observou que, apesar da crescente turbulência global, a cooperação entre a Rússia e a ASEAN está a correr bem porque se baseia “nas suas posições próximas sobre os problemas globais e regionais”.
 

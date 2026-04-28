@@ -1,11 +1,12 @@
 ---
-title: "Revelações sobre Obama"
+title: Revelações sobre Obama
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na quarta-feira, Tucker Carlson divulgou uma entrevista com Larry Sinclair, que afirma ter usado drogas e feito sexo com Barack Obama em 1999.
 

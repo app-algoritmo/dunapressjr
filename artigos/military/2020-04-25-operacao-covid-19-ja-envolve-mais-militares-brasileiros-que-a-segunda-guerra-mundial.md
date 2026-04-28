@@ -1,11 +1,13 @@
 ---
-title: "Operação COVID-19 já envolve mais militares brasileiros que a Segunda Guerra Mundial"
+title: Operação COVID-19 já envolve mais militares brasileiros que a Segunda Guerra
+  Mundial
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 25/04/2020 -** Em 20 de março, o Ministério da Defesa ativou o Centro de Operações Conjuntas para atuar na coordenação e no planejamento do emprego das Forças Armadas nas ações de combate à doença causada pelo novo Coronavírus. A iniciativa faz parte do esforço do governo federal no enfrentamento à pandemia e recebeu o nome de Operação COVID-19, envolvendo, até o momento, mais de 29 mil militares. O número é comparável, por exemplo, a um outro momento histórico das Forças Armadas do Brasil: a Segunda Guerra Mundial.
 

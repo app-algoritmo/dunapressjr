@@ -1,11 +1,12 @@
 ---
-title: "EUA impediram investigação sobre a origem do COVID, segundo militares russos"
+title: EUA impediram investigação sobre a origem do COVID, segundo militares russos
 date: 2024-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## De acordo com Igor Kirillov, a lista de pessoas envolvidas na fraude de ajuda humanitária do COVID-19 também inclui gestores de topo de uma série de organizações contratantes dos EUA, nomeadamente Nita Madhav, que foi CEO da Metabiota, e Peter Daszak, presidente da EcoHealth Alliance.
 

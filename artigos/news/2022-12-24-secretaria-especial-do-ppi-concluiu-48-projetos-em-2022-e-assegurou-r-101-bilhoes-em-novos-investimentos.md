@@ -1,11 +1,13 @@
 ---
-title: "Secretaria Especial do PPI concluiu 48 projetos em 2022 e assegurou R$ 101 bilhões em novos investimentos"
+title: Secretaria Especial do PPI concluiu 48 projetos em 2022 e assegurou R$ 101
+  bilhões em novos investimentos
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## SEPPI esteve presente na capitalização da Eletrobras, em concessões de aeroportos e reforçou apoio a estados e municípios ao longo do ano.
 

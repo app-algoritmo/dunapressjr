@@ -1,11 +1,12 @@
 ---
-title: "UAPA de Itajaí passa por obras de ampliação na estrutura"
+title: UAPA de Itajaí passa por obras de ampliação na estrutura
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A estrutura da Unidade de Acolhimento Provisório de Animais (UAPA) passa por obras de ampliação. A unidade, que é mantida pelo Instituto Itajaí Sustentável (INIS), recebe reforma e a construção de novos espaços para acolher os animais que são resgatados das ruas.
 

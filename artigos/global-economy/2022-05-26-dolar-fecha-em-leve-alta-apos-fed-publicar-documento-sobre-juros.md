@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve alta após Fed publicar documento sobre juros"
+title: Dólar fecha em leve alta após Fed publicar documento sobre juros
 date: 2022-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Ibovespa fechou o dia acima da marca de 110 mil pontos.
 

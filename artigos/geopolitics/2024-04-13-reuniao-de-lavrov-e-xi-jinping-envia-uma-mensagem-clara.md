@@ -1,11 +1,12 @@
 ---
-title: "Reunião de Lavrov e Xi Jinping envia uma mensagem clara"
+title: Reunião de Lavrov e Xi Jinping envia uma mensagem clara
 date: 2024-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores da Rússia, Sergei Lavrov, e o presidente chinês, Xi Jinping, realizaram uma reunião estratégica na terça-feira, evidenciando o compromisso mútuo entre os dois países em meio às crescentes tensões com o Ocidente. Esta demonstração de solidariedade ocorreu um dia após a visita da secretária do Tesouro dos EUA, Janet Yellen, à China, na qual ela alertou contra a colaboração sino-russa.
 

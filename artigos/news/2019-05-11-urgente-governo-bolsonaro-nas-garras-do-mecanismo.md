@@ -1,11 +1,12 @@
 ---
-title: "Urgente: Governo Bolsonaro nas garras do mecanismo"
+title: 'Urgente: Governo Bolsonaro nas garras do mecanismo'
 date: 2019-05-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Parlamento, Senado, Corte Suprema, contra o desenvolvimento do Brasil.
 

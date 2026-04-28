@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A revolução de 1817 no Sergipe"
+title: 'Série Fatos Da Independência: A revolução de 1817 no Sergipe'
 date: 2024-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Apenas parte do Sergipe aderiu à Revolução de 1817, insurreição de caráter republicano e independentista que estourou em Recife no dia seis de março. A Revolução de 1817 durou pouco mais de dois meses e, durante esse curto período de tempo, os acontecimentos foram acelerados e intensos. Naquele ano, Sergipe ainda era uma comarca da província da Bahia e fazia fronteira com Alagoas, que, por sua vez, pertencia à província de Pernambuco – epicentro do movimento republicano. Naquela ocasião, Sergipe se dividiu entre o apoio a Pernambuco, sede de uma república independente, e a Bahia, de onde partiram as forças militares da Coroa portuguesa para frear a revolução. Mesmo dividida, Sergipe contribuiu ao lado dos republicanos com 500 milicianos e 100 soldados da cavalaria.
 

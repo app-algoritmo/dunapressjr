@@ -1,11 +1,13 @@
 ---
-title: "Michelle Obama lança empresa para vender água açucarada carregada de produtos químicos para crianças"
+title: Michelle Obama lança empresa para vender água açucarada carregada de produtos
+  químicos para crianças
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Como um banheiro entupido que simplesmente não dá descarga, os Obamas se recusam a desaparecer dos holofotes, com Michelle Obama [anunciando o lançamento](https://threadreaderapp.com/thread/1654188254336528385.html) de uma nova empresa de junk food chamada PLEZi Nutrition, que quer levar mais crianças americanas a consumir bebidas com açúcar e produtos químicos. .
 

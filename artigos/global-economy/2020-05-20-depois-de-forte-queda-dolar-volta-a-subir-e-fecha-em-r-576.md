@@ -1,11 +1,12 @@
 ---
-title: "Depois de forte queda, dólar volta a subir e fecha em R$ 5,76"
+title: Depois de forte queda, dólar volta a subir e fecha em R$ 5,76
 date: 2020-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa de valores caiu 0,56% em dia de oscilações.
 

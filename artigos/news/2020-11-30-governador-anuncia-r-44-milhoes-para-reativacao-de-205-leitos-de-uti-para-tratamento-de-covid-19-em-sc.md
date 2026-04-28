@@ -1,11 +1,13 @@
 ---
-title: "Governador anuncia R$ 44 milhões para reativação de 205 leitos de UTI para tratamento de Covid-19 em SC"
+title: Governador anuncia R$ 44 milhões para reativação de 205 leitos de UTI para
+  tratamento de Covid-19 em SC
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O enfrentamento à Covid-19 foi retomado com prioridade pelo governador Carlos Moisés, na tarde deste sábado, 28. Em webconferência com presidentes de associações e diretores de hospitais filantrópicos, o chefe do Executivo estadual garantiu o repasse de R$ 44 milhões, até 31 de dezembro deste ano, para a reativação imediata de 205 leitos de UTI para tratamento da doença. Além disso, anunciou a prorrogação da Política Hospitalar Catarinense (PHC) - em teto máximo - por mais 10 meses.
 

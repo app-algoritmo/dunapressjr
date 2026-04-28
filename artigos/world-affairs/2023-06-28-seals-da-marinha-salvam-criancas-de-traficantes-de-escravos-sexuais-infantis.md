@@ -1,11 +1,12 @@
 ---
-title: "SEALs da Marinha salvam crianças de traficantes de escravos sexuais infantis"
+title: SEALs da Marinha salvam crianças de traficantes de escravos sexuais infantis
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os SEALs da Marinha dos Estados Unidos resgataram no domingo "centenas" de crianças escravizadas do porão de um petroleiro atracado na baía de São Francisco, disse uma fonte do escritório do general Eric M. Smith ao Real Raw News.
 

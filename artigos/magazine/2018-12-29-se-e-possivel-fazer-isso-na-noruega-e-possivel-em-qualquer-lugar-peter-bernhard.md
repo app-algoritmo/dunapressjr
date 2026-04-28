@@ -1,12 +1,14 @@
 ---
-title: "Se é possível fazer isso na Noruega, é possível em qualquer lugar - 'Peter Bernhard'."
+title: Se é possível fazer isso na Noruega, é possível em qualquer lugar - 'Peter
+  Bernhard'.
 date: 2018-12-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 ## Edifícios noruegueses geram mais energia do que consomem.
 

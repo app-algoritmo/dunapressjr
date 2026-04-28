@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação oficial sobe para 1,14% em setembro"
+title: Prévia da inflação oficial sobe para 1,14% em setembro
 date: 2021-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A taxa é superior ao 0,89% de agosto, diz IBGE.
 

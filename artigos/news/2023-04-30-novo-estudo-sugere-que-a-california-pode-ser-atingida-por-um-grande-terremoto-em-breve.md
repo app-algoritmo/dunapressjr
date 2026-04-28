@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo sugere que a Califórnia pode ser atingida por um grande terremoto em breve"
+title: Novo estudo sugere que a Califórnia pode ser atingida por um grande terremoto
+  em breve
 date: 2023-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um novo estudo sugere que Los Angeles (LA) e outras partes da Califórnia [podem ser atingidas por um grande  terremoto](https://www.dailymail.co.uk/sciencetech/article-12008633/More-1-200-shallow-earthquakes-detected-southern-California-lead-Big-One.html)  em breve.
 

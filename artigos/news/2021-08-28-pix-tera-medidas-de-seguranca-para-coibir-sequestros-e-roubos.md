@@ -1,11 +1,12 @@
 ---
-title: "Pix terá medidas de segurança para coibir sequestros e roubos"
+title: Pix terá medidas de segurança para coibir sequestros e roubos
 date: 2021-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Limite de transações entre pessoas físicas à noite cairá para R$ 1 mil.
 

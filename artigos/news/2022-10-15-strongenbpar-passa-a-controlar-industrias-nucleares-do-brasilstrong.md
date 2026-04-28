@@ -1,11 +1,12 @@
 ---
-title: "<strong>ENBPar passa a controlar Indústrias Nucleares do Brasil</strong>"
+title: <strong>ENBPar passa a controlar Indústrias Nucleares do Brasil</strong>
 date: 2022-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decreto foi publicado no Diário Oficial da União.
 

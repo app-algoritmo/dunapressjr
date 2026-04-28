@@ -1,11 +1,12 @@
 ---
-title: "Manifesto Monárquico de  Itu – 2019 “Amplior et liberior per me Brasilia”"
+title: Manifesto Monárquico de  Itu – 2019 “Amplior et liberior per me Brasilia”
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Há precisamente 130 anos, no fatídico dia 15 de novembro de 1889, um golpe promovido no Rio de Janeiro por uma pequena minoria de civis e militares derrubou o Império brasileiro, o qual – na frase de um diplomata hispano-americano sediado no Brasil – constituía na verdade a única autêntica democracia de toda a América do Sul.
 

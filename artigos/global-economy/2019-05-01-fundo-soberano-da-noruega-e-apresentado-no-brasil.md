@@ -1,12 +1,13 @@
 ---
-title: "Fundo soberano da Noruega é apresentado no Brasil"
+title: Fundo soberano da Noruega é apresentado no Brasil
 date: 2019-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
-  - Magazine
+- Global Economy
+- Magazine
 ---
+
 
 ## O maior fundo de pensões do mundo é apresentado no Brasil por Rune Bjåstad
 

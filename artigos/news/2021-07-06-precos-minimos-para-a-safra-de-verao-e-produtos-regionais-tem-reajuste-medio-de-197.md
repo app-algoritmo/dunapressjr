@@ -1,11 +1,13 @@
 ---
-title: "Preços mínimos para a safra de verão e produtos regionais têm reajuste médio de 19,7%"
+title: Preços mínimos para a safra de verão e produtos regionais têm reajuste médio
+  de 19,7%
 date: 2021-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os valores têm o papel de ser um dos balizadores do volume de recursos concedidos pelos agentes financeiros aos mutuários.
 

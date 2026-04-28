@@ -1,11 +1,12 @@
 ---
-title: "Verificação de antecedentes: Investigando o registro criminal de George Floyd"
+title: 'Verificação de antecedentes: Investigando o registro criminal de George Floyd'
 date: 2020-06-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Ninguém pensa que ele deveria ter morrido em sua prisão, mas o que eu acho desprezível é que todo mundo está fingindo que esse homem viveu um estilo de vida heróico quando não o fez. Recuso-me a aceitar a narrativa de que essa pessoa é um mártir ou deve ser homenageado na comunidade negra. Ele tem uma ficha de crimes que é longa, que é perigosa. Ele é um exemplo de um criminoso violento a vida inteira - até o último momento”, comenta Candace Owens. Vídeo na matéria.
 

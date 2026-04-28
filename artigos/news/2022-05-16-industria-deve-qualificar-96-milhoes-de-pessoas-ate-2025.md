@@ -1,11 +1,12 @@
 ---
-title: "Indústria deve qualificar 9,6 milhões de pessoas até 2025"
+title: Indústria deve qualificar 9,6 milhões de pessoas até 2025
 date: 2022-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Projeção é do Mapa do Trabalho Industrial, divulgado pela CNI.
 

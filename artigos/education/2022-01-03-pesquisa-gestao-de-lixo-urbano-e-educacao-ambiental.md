@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Gestão de lixo urbano e educação ambiental"
+title: 'Pesquisa: Gestão de lixo urbano e educação ambiental'
 date: 2022-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A pesquisa parte do estudo das características da formação histórica de Porto Nacional, isto é, de seu estabelecimento enquanto povoado, no final do século XVII, ainda durante o ciclo do ouro. Localizada nas margens do Alto Tocantins, a cidade era uma rota de passagem das mais importantes da região.
 

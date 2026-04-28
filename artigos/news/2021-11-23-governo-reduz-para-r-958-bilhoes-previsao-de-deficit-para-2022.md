@@ -1,11 +1,12 @@
 ---
-title: "Governo reduz para R$ 95,8 bilhões previsão de déficit para 2022"
+title: Governo reduz para R$ 95,8 bilhões previsão de déficit para 2022
 date: 2021-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Gastos discricionários poderão ser aumentados em R$ 4,57 bi.
 

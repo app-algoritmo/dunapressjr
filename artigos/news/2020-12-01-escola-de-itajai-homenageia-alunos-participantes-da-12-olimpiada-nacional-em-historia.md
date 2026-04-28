@@ -1,11 +1,13 @@
 ---
-title: "Escola de Itajaí homenageia alunos participantes da 12ª Olimpíada Nacional em História"
+title: Escola de Itajaí homenageia alunos participantes da 12ª Olimpíada Nacional
+  em História
 date: 2020-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nove alunos da Escola Básica Maria Rosa Heleno Schulte, no bairro Espinheiros, foram homenageados pela participação na 12ª Olimpíada Nacional em História do Brasil. A direção da unidade entregou certificados e medalhas aos alunos. Ao todo, quase 70 mil estudantes de várias partes do Brasil participaram da competição. Duas equipes da escola chegaram à 4ª fase da prova. 
 

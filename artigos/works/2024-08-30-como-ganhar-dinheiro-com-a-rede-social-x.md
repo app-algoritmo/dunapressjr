@@ -1,11 +1,12 @@
 ---
-title: "Como ganhar dinheiro com a rede social (X)"
+title: Como ganhar dinheiro com a rede social (X)
 date: 2024-08-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Works
+- Works
 ---
+
 
 ## Twitter Inicia Pagamentos para Criadores de Conteúdo com Valores de até US$ 40 Mil
 

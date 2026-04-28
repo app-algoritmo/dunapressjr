@@ -1,11 +1,12 @@
 ---
-title: "Impacto da pandemia é maior para trabalhadores jovens, diz Ipea"
+title: Impacto da pandemia é maior para trabalhadores jovens, diz Ipea
 date: 2021-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desemprego também afetou mais as pessoas com ensino médio incompleto.
 

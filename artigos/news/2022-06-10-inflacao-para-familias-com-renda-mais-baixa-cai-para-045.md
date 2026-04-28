@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa cai para 0,45%"
+title: Inflação para famílias com renda mais baixa cai para 0,45%
 date: 2022-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ela é menor que a de abril (1,04%) e maio de 2021 (0,96%).
 

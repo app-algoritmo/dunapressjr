@@ -1,11 +1,12 @@
 ---
-title: "Ministro Lewandowski prorroga atuação da Força Nacional no Rio de Janeiro"
+title: Ministro Lewandowski prorroga atuação da Força Nacional no Rio de Janeiro
 date: 2024-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Nesta quinta-feira (28), o ministro de Justiça e Segurança Pública, Ricardo Lewandowski, deu o aval para a prorrogação da presença da Força Nacional de Segurança Pública no estado do Rio de Janeiro. A decisão visa apoiar os órgãos de segurança pública federais e estaduais em suas atividades essenciais para a preservação da ordem pública e segurança dos cidadãos, conforme anunciado por autoridades. Os militares atuarão em caráter episódico e planejado, durante 30 dias, no período de 1º a 30 de abril.
 

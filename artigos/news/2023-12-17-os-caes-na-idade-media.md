@@ -1,11 +1,12 @@
 ---
-title: "Os cães na idade média"
+title: Os cães na idade média
 date: 2023-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os cães são considerados os animais mais antigos e fiéis que acompanham os seres humanos. A origem da domesticação dos cães remonta a cerca de 11 mil anos, no final da última Era do Gelo1. Desde então, os cães desempenharam diversos papéis na história da humanidade, tanto como companheiros, como auxiliares, como protetores e como símbolos.
 

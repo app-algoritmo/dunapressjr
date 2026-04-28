@@ -1,11 +1,12 @@
 ---
-title: "Gabiroba: planta tem potencial para proteger o sistema gástrico"
+title: 'Gabiroba: planta tem potencial para proteger o sistema gástrico'
 date: 2021-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Graduada em Farmácia-bioquímica, com habilitação em Análises Clínicas, pela Universidade Federal de Ouro Preto (UFOP) e mestra em Ciências Farmacêuticas pela mesma instituição, Nívea Cristina é doutoranda pelo Programa de Pós-Graduação em Ciências Farmacêuticas da Universidade Federal de Minas Gerais (UFMG). Bolsista do programa [CAPES-PrInt](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/capes-print), estuda a proteção gástrica oferecida pelo extrato da planta conhecida como gabiroba*.*
 

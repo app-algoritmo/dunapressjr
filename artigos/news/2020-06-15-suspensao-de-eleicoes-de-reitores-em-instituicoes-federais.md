@@ -1,11 +1,12 @@
 ---
-title: "Suspensão de eleições de reitores em instituições federais"
+title: Suspensão de eleições de reitores em instituições federais
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) informa que a Medida Provisória nº 979, publicada nesta quarta-feira, 10 de junho, no Diário Oficial da União (DOU), é constitucional e não fere a autonomia de universidades e institutos federais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dream Team Norway na UEFA EURO"
+title: Dream Team Norway na UEFA EURO
 date: 2019-03-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 Jogando na UEFA EURO dias 23 e 26 de março.
 

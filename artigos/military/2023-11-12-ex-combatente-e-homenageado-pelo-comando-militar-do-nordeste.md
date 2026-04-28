@@ -1,11 +1,12 @@
 ---
-title: "Ex-combatente é homenageado pelo Comando Militar do Nordeste"
+title: Ex-combatente é homenageado pelo Comando Militar do Nordeste
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Comando Militar do Nordeste (CMNE) realizou, no dia 9 de novembro, uma homenagem ao veterano Joaquim Patrício de Araújo, de 105 anos de idade, ex-combatente da Força Expedicionária Brasileira (FEB) durante a Segunda Guerra Mundial, em solo italiano, na defesa da liberdade e da democracia.
 

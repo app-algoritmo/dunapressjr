@@ -1,11 +1,13 @@
 ---
-title: "Bioterrorismo relegou Bahia à vassalagem das esquerdas e quer fazer o mesmo com o Brasil"
+title: Bioterrorismo relegou Bahia à vassalagem das esquerdas e quer fazer o mesmo
+  com o Brasil
 date: 2019-08-23
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Agora que grande imprensa comprada pelas ONGs e aliada ao retrógrado regime esquerdista anda pautando a Amazônia Internacional, cabe bem lembrar o maior escândalo do bioterrorismo perpetrado pelo PT e PDT, representantes majoritários da esquerda na década de 90.  Vassoura-de- bruxa e  incêndios na Amazônia são ambos ações terroristas cometidas pelos agentes da esquerda, hoje pluralizada em partidos e entidades internacionais que financiam a mídia para garantir o roubo de nossas riquezas.
 

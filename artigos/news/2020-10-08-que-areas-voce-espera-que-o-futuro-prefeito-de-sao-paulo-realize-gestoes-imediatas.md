@@ -1,11 +1,13 @@
 ---
-title: "Que área(s) você espera que o futuro prefeito de São Paulo realize gestões imediatas?"
+title: Que área(s) você espera que o futuro prefeito de São Paulo realize gestões
+  imediatas?
 date: 2020-10-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A pouco mais de um mês para as eleições, os nomes dos candidatos ao cargo de prefeito para o gigantesco estado de São Paulo vão tomando forma. Escolha no seguinte quatro, que área(s) você espera que o futuro prefeito de São Paulo realize gestões imediatas.
 

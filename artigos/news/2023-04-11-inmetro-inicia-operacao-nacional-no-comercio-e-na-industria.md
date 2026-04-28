@@ -1,11 +1,12 @@
 ---
-title: "Inmetro inicia operação nacional no comércio e na indústria"
+title: Inmetro inicia operação nacional no comércio e na indústria
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Plano Nacional de Vigilância de Mercado terá duração de 90 dias: foco é coibir irregularidades em 13 produtos.
 

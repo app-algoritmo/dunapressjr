@@ -1,11 +1,12 @@
 ---
-title: "O WEF é acusado de introduzir a 'cultura' comunista da China no Ocidente"
+title: O WEF é acusado de introduzir a 'cultura' comunista da China no Ocidente
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Fórum Econômico Mundial (WEF) e seu fundador Klaus Schwab foram acusados ​​por um think tank político internacional de importar a "cultura" da ditadura comunista da China para o Ocidente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Empregador tem até segunda-feira para pagar parcela de FGTS suspenso"
+title: Empregador tem até segunda-feira para pagar parcela de FGTS suspenso
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Adiamento ajudou empresas durante segunda onda da pandemia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar volta a subir e fecha no maior valor em quatro meses"
+title: Dólar volta a subir e fecha no maior valor em quatro meses
 date: 2020-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe quase 1%, com ajuda de ações da Petrobras.
 

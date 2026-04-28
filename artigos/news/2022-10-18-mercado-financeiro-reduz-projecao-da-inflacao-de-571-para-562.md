@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro reduz projeção da inflação de 5,71% para 5,62%"
+title: Mercado financeiro reduz projeção da inflação de 5,71% para 5,62%
 date: 2022-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Previsão para o PIB é de 2,71% em 2022.
 

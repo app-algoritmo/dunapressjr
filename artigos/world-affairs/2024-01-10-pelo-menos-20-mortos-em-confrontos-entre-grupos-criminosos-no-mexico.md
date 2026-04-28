@@ -1,11 +1,12 @@
 ---
-title: "Pelo menos 20 mortos em confrontos entre grupos criminosos no México"
+title: Pelo menos 20 mortos em confrontos entre grupos criminosos no México
 date: 2024-01-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Pelo menos vinte pessoas morreram devido a confrontos entre pelo menos dois grupos criminosos na cidade de Chicomuselo, **no estado mexicano de Chiapas** , perto da fronteira com a Guatemala.
 

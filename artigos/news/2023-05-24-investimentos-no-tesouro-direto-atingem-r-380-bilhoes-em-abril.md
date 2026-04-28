@@ -1,11 +1,12 @@
 ---
-title: "Investimentos no Tesouro Direto atingem R$ 3,80 bilhões em abril"
+title: Investimentos no Tesouro Direto atingem R$ 3,80 bilhões em abril
 date: 2023-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tesouro Selic é o título mais procurado pelos investidores, representando 60,9% das vendas.
 

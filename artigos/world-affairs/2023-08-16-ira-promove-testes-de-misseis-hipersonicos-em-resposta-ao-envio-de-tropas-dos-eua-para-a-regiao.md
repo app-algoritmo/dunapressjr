@@ -1,11 +1,13 @@
 ---
-title: "Irã promove testes de mísseis hipersônicos em resposta ao envio de tropas dos EUA para a região"
+title: Irã promove testes de mísseis hipersônicos em resposta ao envio de tropas dos
+  EUA para a região
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em novas declarações transmitidas pela mídia estatal e repetidas pela Al Jazeera e outras fontes internacionais, o Irã afirma que não apenas obteve a tecnologia para mísseis hipersônicos de cruzeiro, mas também está testando mísseis hipersônicos, marcando um avanço histórico para a República Islâmica.
 

@@ -1,11 +1,13 @@
 ---
-title: "Saiba quais empresas devem se cadastrar no Consumidor.gov.br e a Portaria nº 15"
+title: Saiba quais empresas devem se cadastrar no Consumidor.gov.br e a Portaria nº
+  15
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Justiça divulgou uma série de Perguntas e Respostas sobre a Portaria nº 15, que trata da obrigatoriedade de cadastro de empresas na plataforma Consumidor.gov.br. Confira abaixo. 
 

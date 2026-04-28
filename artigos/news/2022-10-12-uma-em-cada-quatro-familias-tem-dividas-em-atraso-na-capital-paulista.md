@@ -1,11 +1,12 @@
 ---
-title: "Uma em cada quatro famílias tem dívidas em atraso na capital paulista"
+title: Uma em cada quatro famílias tem dívidas em atraso na capital paulista
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Endividamento chega a 76,9% dos lares paulistanos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova permissão para venda de imóveis sem concordância do cônjuge"
+title: Comissão aprova permissão para venda de imóveis sem concordância do cônjuge
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou o Projeto de Lei 5022/20, que altera o [Código Civil](https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-norma-pl.html) para permitir que um dos cônjuges venda bens imóveis sem a autorização do outro sempre que o imóvel contar com cláusula de incomunicabilidade (que o separa do patrimônio comum do casal).
 

@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí intensifica fiscalização de estabelecimentos comerciais"
+title: Município de Itajaí intensifica fiscalização de estabelecimentos comerciais
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí intensifica a partir desta quinta-feira (03) a fiscalização das medidas sanitárias contra COVID-19 em estabelecimentos comerciais. A ação terá participação da Vigilância Sanitária, Guarda Municipal e Polícias Civil e Militar e ocorrerá no período noturno, de quinta a domingo. A intenção é garantir o cumprimento dos cuidados preventivos, coibir aglomerações e orientar a população sobre as medidas para controle do coronavírus.
 

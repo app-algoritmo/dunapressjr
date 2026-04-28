@@ -1,11 +1,13 @@
 ---
-title: "Ponto do Orçamento que identificava despesas ampliadas pela PEC da Transição é vetado por Lula"
+title: Ponto do Orçamento que identificava despesas ampliadas pela PEC da Transição
+  é vetado por Lula
 date: 2023-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Luiz Inácio Lula da Silva vetou um ponto do projeto de Lei Orçamentária Anual ([PLN 32/2022](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/154644)) que previa a identificação de recursos obtidos com a [Emenda Constitucional 126](http://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2022-12-21;126), promulgada em dezembro. Conhecida como PEC da Transição ([PEC 32/2022](https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pec-32-2022)), a proposta autoriza o Poder Executivo a deixar R$ 145 bilhões fora do teto de gastos.
 

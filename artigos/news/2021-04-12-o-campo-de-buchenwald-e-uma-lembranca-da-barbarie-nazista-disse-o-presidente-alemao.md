@@ -1,11 +1,13 @@
 ---
-title: "O campo de Buchenwald é uma lembrança da 'barbárie' nazista, disse o presidente alemão"
+title: O campo de Buchenwald é uma lembrança da 'barbárie' nazista, disse o presidente
+  alemão
 date: 2021-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Marcando o 76º aniversário da libertação do campo de concentração, Frank-Walter Steinmeier diz que significa 'fanatismo racial, tortura, assassinato e eliminação'.
 

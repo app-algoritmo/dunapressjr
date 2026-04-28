@@ -1,11 +1,12 @@
 ---
-title: "Especialistas pedem mudanças na legislação após caso Lojas Americanas"
+title: Especialistas pedem mudanças na legislação após caso Lojas Americanas
 date: 2023-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Lei em vigor não distingue gestão fraudulenta de crise comum.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Propaganda da Invencibilidade: A Estratégia Chinesa de Coerção Global"
+title: 'A Propaganda da Invencibilidade: A Estratégia Chinesa de Coerção Global'
 date: 2024-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China quer que o mundo acredite que já venceu de forma decisiva e que ninguém pode fazer nada a respeito. Zhao DaShuai, membro do Gabinete de Propaganda da Polícia Armada Popular, afirma abertamente: "Toda a mídia é propaganda, somos apenas mais honestos sobre isso." Essa franqueza é fundamental para entender a estratégia de propaganda e guerra política do Partido Comunista Chinês (PCC).
 

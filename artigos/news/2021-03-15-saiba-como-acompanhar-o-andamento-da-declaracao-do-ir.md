@@ -1,11 +1,12 @@
 ---
-title: "Saiba como acompanhar o andamento da declaração do IR"
+title: Saiba como acompanhar o andamento da declaração do IR
 date: 2021-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo para envio da declaração vai até 30 de abril.
 

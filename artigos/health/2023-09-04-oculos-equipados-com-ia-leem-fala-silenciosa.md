@@ -1,12 +1,13 @@
 ---
-title: "Óculos equipados com IA lêem fala silenciosa"
+title: Óculos equipados com IA lêem fala silenciosa
 date: 2023-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - Science
+- Health
+- Science
 ---
+
 
 Pesquisadores da Cornell University desenvolveram uma interface de reconhecimento de fala silenciosa que usa detecção acústica e inteligência artificial para reconhecer continuamente até 31 comandos não vocalizados, com base nos movimentos dos lábios e da boca.
 

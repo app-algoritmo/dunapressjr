@@ -1,11 +1,12 @@
 ---
-title: "Comissão sobre gastos do Executivo durante pandemia terá 24 reuniões"
+title: Comissão sobre gastos do Executivo durante pandemia terá 24 reuniões
 date: 2020-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministros, especialistas e governadores serão ouvidos
 

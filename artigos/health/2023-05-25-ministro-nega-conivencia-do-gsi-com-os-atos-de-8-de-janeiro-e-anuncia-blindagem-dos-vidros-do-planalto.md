@@ -1,11 +1,13 @@
 ---
-title: "Ministro nega conivência do GSI com os atos de 8 de janeiro e anuncia blindagem dos vidros do Planalto"
+title: Ministro nega conivência do GSI com os atos de 8 de janeiro e anuncia blindagem
+  dos vidros do Planalto
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 [](#comentario)
 

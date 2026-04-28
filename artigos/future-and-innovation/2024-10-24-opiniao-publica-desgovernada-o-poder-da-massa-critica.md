@@ -1,12 +1,13 @@
 ---
-title: "Opinião Pública Desgovernada: O Poder da Massa Crítica"
+title: 'Opinião Pública Desgovernada: O Poder da Massa Crítica'
 date: 2024-10-24
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Future and Innovation
-  - Policy
+- Future and Innovation
+- Policy
 ---
+
 
 Em Paris, anos 90, foi feita uma curiosa experiência social: colocaram um estudante para andar na calçada, seguindo o fluxo de pedestres. Em determinado momento, ele se virava bruscamente, correndo na contramão. O experimento buscava avaliar quantos estudantes, seguindo esse roteiro, seriam necessários para causar um efeito em massa. O resultado determinou que seriam necessários cerca de 10 estudantes simultaneamente, para gerar pânico nos demais pedestres, o que aconteceu. Isto é, um pequeno número de pessoas foi capaz de gerar efeito cascata em centenas de pessoas.
 

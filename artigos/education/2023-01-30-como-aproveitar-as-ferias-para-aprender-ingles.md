@@ -1,11 +1,12 @@
 ---
-title: "Como aproveitar as férias para aprender inglês"
+title: Como aproveitar as férias para aprender inglês
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Enquanto as aulas não voltam e o trabalho não chama, equilibrar o lazer e o aprimoramento pessoal pode ser uma boa maneira de começar melhor o ano. O período de férias é uma oportunidade única para manter ativo o aprendizado de algumas habilidades, entre elas idiomas estrangeiros, como o inglês. De acordo com o gerente de conteúdo do PES English, Luiz Fernando Schibelbain, “estudar nesse momento é uma boa ideia porque permite aprender com aquilo de que se gosta, sem a necessidade de manter uma rotina tão rígida. A melhor estratégia para isso é aprender um pouco todos os dias”. O especialista separou uma série de dicas para ajudar nessa empreitada.
 

@@ -1,11 +1,12 @@
 ---
-title: "CCJ do Senado aprova reforma tributária"
+title: CCJ do Senado aprova reforma tributária
 date: 2023-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Relator acolheu mais benefícios e incluiu gás de cozinha no cashback.
 

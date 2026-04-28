@@ -1,11 +1,12 @@
 ---
-title: "Dívidas: acaba hoje adesão a parcelamento especial criado na pandemia"
+title: 'Dívidas: acaba hoje adesão a parcelamento especial criado na pandemia'
 date: 2020-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 161 mil acordos foram fechados desde agosto.
 

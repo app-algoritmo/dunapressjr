@@ -1,11 +1,12 @@
 ---
-title: "Prisão De Papa Francisco – Quem Vai Cumprir A Ordem?"
+title: Prisão De Papa Francisco – Quem Vai Cumprir A Ordem?
 date: 2021-11-10
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - News
+- News
 ---
+
 
 **Ordem de prisão é emitida contra o Papa Francisco. Recompensa e anistia são oferecidas como atenuantes.**
 

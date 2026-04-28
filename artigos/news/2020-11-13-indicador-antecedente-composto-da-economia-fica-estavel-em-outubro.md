@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente Composto da Economia fica estável em outubro"
+title: Indicador Antecedente Composto da Economia fica estável em outubro
 date: 2020-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Trajetória do Iace nos últimos meses indica recuperação de atividades.
 

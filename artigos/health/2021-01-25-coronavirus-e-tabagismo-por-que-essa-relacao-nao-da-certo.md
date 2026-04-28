@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus e tabagismo: por que essa relação não dá certo?"
+title: 'Coronavírus e tabagismo: por que essa relação não dá certo?'
 date: 2021-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Covid-19, provocada pelo novo Coronavírus, é uma doença relativamente nova e, portanto, muitos estudos sobre seu comportamento ainda estão sendo desenvolvidos.
 

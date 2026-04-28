@@ -1,11 +1,12 @@
 ---
-title: "Governo estima déficit primário de R$ 65,91 bi em 2023"
+title: Governo estima déficit primário de R$ 65,91 bi em 2023
 date: 2022-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contas federais ficariam negativas até pelo menos 2024.
 

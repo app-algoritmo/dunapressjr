@@ -1,11 +1,13 @@
 ---
-title: "Trabalho integrado das forças de segurança do Estado resulta na prisão de 14 suspeitos de participar do assalto a banco em Criciúma"
+title: Trabalho integrado das forças de segurança do Estado resulta na prisão de 14
+  suspeitos de participar do assalto a banco em Criciúma
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governador Carlos Moisés participou nesta quinta-feira, 9, de entrevista coletiva para atualização das investigações sobre o assalto a uma agência bancária que assustou moradores de Criciúma, na madrugada do dia 1º. Até agora, 14 pessoas envolvidas na ação foram presas.
 

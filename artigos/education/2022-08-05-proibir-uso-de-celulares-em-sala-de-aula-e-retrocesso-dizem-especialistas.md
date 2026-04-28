@@ -1,11 +1,12 @@
 ---
-title: "Proibir uso de celulares em sala de aula é retrocesso, dizem especialistas"
+title: Proibir uso de celulares em sala de aula é retrocesso, dizem especialistas
 date: 2022-08-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Celulares desligados e guardados na mochila ou no bolso do uniforme ainda não são exatamente coisa do passado, mas estão perto disso. Pelo menos é o que defendem especialistas no uso de tecnologia voltada à Educação. O uso de aparelhos eletrônicos, mesmo durante o horário escolar, é, mais que uma tendência, uma realidade da qual pais, professores e equipes pedagógicas precisam parar de fugir.
 

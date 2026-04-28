@@ -1,11 +1,13 @@
 ---
-title: "O YouTube baniu Ruth Institute por alertar o público sobre a ligação aborto-câncer de mama"
+title: O YouTube baniu Ruth Institute por alertar o público sobre a ligação aborto-câncer
+  de mama
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A plataforma de vídeo YouTube, de propriedade do Google, [suspendeu temporariamente](https://stream.org/the-truth-about-transanity-from-an-insider/) a conta do Ruth Institute por compartilhar a verdade sobre como fazer um aborto aumenta o risco de uma mulher desenvolver câncer de mama.
 

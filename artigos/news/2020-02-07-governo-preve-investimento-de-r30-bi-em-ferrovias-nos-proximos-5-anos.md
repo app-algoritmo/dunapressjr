@@ -1,11 +1,12 @@
 ---
-title: "Governo prevê investimento de R$30 bi em ferrovias nos próximos 5 anos"
+title: Governo prevê investimento de R$30 bi em ferrovias nos próximos 5 anos
 date: 2020-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Ministério de Infraestrutura prevê investimentos de R$ 30 bilhões para ampliar a malha ferroviária do país. Os recursos seriam obtidos por meio de concessões. Informações foram detalhadas pelo ministro Tarcísio Gomes de Freitas, que participou nesta quinta-feira(7) do 1º Fórum de Desenvolvimento Sustentável da Costa Verde, realizado na Universidade Federal Rural do Rio de Janeiro (UFRRJ), na cidade de Seropédica (RJ).
 

@@ -1,11 +1,12 @@
 ---
-title: "Marinha do Brasil capacita militares em defesa NBQR no oeste do Paraná"
+title: Marinha do Brasil capacita militares em defesa NBQR no oeste do Paraná
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Capitania Fluvial do Rio Paraná (CFRP) concluiu, no dia 15 de abril, a qualificação de 29 militares em defesa Nuclear, Biológica, Química e Radiológica (NBQR) em Foz do Iguaçu-PR. A turma foi composta por 23 militares da Marinha do Brasil, quatro do Exército Brasileiro e dois do Corpo de Bombeiros do Paraná.
 

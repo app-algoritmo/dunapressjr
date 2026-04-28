@@ -1,11 +1,12 @@
 ---
-title: "G. K. Chesterton"
+title: G. K. Chesterton
 date: 2019-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Nascido em Londres, no ano de 1874, Gilbert Keith Chesterton era daqueles sujeitos que não conseguem passar despercebido aonde quer que estejam. A irreverência, o bom-humor e a eloquência, associados a dois metros e nove centímetros de altura e a um peso médio de 140 quilos, transformavam qualquer ambiente; quer uma festa de aniversário infantil ou um acalorado debate com Bertrand Russel. Chesterton era uma "máquina" intelectual. Escreveu mais de 4.000 artigos para jornais. 
 

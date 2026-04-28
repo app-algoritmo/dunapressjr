@@ -1,11 +1,13 @@
 ---
-title: "<strong>Setor de self storages cresce a dois dígitos no Brasil e Curitiba se destaca no cenário nacional</strong>"
+title: <strong>Setor de self storages cresce a dois dígitos no Brasil e Curitiba se
+  destaca no cenário nacional</strong>
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Utilização de boxes de armazenamento por MEIs e por pequenas e médias empresas impulsiona expansão, que cresceu 19% no ano passado.
 

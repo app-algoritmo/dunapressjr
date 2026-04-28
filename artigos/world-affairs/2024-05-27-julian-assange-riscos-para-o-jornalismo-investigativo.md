@@ -1,11 +1,12 @@
 ---
-title: "Julian Assange: Riscos para o Jornalismo Investigativo"
+title: 'Julian Assange: Riscos para o Jornalismo Investigativo'
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente decisão do Supremo Tribunal de Londres, que concede a Julian Assange o direito de recorrer contra sua extradição para os Estados Unidos, levanta questões críticas sobre o futuro do jornalismo e a liberdade de imprensa. Embora Assange tenha ganhado o direito de apelar, isso não garante que ele evitará a extradição ou será libertado da prisão de segurança máxima HMS Belmarsh, onde enfrenta condições desumanas descritas por Nils Melzer, relator especial da ONU sobre tortura, como uma “execução em câmara lenta”.
 

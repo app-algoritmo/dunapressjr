@@ -1,11 +1,12 @@
 ---
-title: "Dólar passa de R$ 5,50 e atinge maior valor desde novembro"
+title: Dólar passa de R$ 5,50 e atinge maior valor desde novembro
 date: 2021-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fecha no menor nível em quase três meses.
 

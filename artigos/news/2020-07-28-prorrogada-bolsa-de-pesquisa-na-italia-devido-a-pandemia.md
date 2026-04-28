@@ -1,11 +1,12 @@
 ---
-title: "Prorrogada bolsa de pesquisa na Itália devido à pandemia"
+title: Prorrogada bolsa de pesquisa na Itália devido à pandemia
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Maíra Colombarolli avalia motivos para novo ganho de peso em mulheres que passaram por cirurgia bariátrica.
 

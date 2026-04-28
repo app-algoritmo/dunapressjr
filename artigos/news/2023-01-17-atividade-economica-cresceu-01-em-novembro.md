@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cresceu 0,1% em novembro"
+title: Atividade econômica cresceu 0,1% em novembro
 date: 2023-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números são do Monitor do PIB-FGV.
 

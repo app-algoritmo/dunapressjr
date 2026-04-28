@@ -1,11 +1,12 @@
 ---
-title: "O casal não entendeu por que a foto se tornou viral até lerem os comentários"
+title: O casal não entendeu por que a foto se tornou viral até lerem os comentários
 date: 2020-07-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Eles eram um casal feliz e adoravam mostrá-lo ao mundo. Mas nunca esperavam que uma única imagem deles virasse suas vidas de cabeça para baixo.
 

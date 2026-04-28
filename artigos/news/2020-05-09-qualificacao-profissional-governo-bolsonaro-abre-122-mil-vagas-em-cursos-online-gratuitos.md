@@ -1,11 +1,13 @@
 ---
-title: "Qualificação profissional: Governo Bolsonaro abre 122 mil vagas em cursos online gratuitos"
+title: 'Qualificação profissional: Governo Bolsonaro abre 122 mil vagas em cursos
+  online gratuitos'
 date: 2020-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) investiu R$ 60 milhões para incentivar a abertura de 122 mil vagas em cursos de qualificação profissional a distância na rede federal de educação profissional, científica e tecnológica. Em abril, foram abertas 86.020 vagas, em diversos cursos, em parceira com 31 instituições de ensino.
 

@@ -1,11 +1,12 @@
 ---
-title: "San Martino Lorenzato de Ivrea questiona presença de Lula no Vaticano"
+title: San Martino Lorenzato de Ivrea questiona presença de Lula no Vaticano
 date: 2020-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Deputado de San Martino Lorenzato de Ivrea: recebi notícias que abalam a política e confundem os fiéis da maior nação católica do mundo, o Brasil!
 

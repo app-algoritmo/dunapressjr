@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val acusa Alexandre de Moraes de atuação 'arbitrária e política'"
+title: Marcos do Val acusa Alexandre de Moraes de atuação 'arbitrária e política'
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) voltou a criticar, em pronunciamento no Plenário nesta segunda-feira (11), atos do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. Segundo o parlamentar, o ministro tem agido de forma "arbitrária e política", usando suas prerrogativas para perseguir opositores e proteger autoridades do atual governo.
 

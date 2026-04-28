@@ -1,11 +1,12 @@
 ---
-title: "Feira do Podrão ganha versão julina no Caxias Shopping"
+title: Feira do Podrão ganha versão julina no Caxias Shopping
 date: 2023-06-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Nova edição do evento acontecerá em dois finais de semana consecutivos.
 

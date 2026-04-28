@@ -1,11 +1,13 @@
 ---
-title: "Previsão do mercado financeiro indica queda na estimativa de inflação para o IPCA, mas ainda acima da meta"
+title: Previsão do mercado financeiro indica queda na estimativa de inflação para
+  o IPCA, mas ainda acima da meta
 date: 2023-06-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeções apontam para redução da inflação no Brasil em 2023, porém acima do teto estabelecido pelo Banco Central.
 

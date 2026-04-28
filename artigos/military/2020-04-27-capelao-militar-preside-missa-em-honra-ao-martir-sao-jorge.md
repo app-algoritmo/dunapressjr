@@ -1,11 +1,12 @@
 ---
-title: "Capelão Militar preside missa em honra ao Mártir São Jorge"
+title: Capelão Militar preside missa em honra ao Mártir São Jorge
 date: 2020-04-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Campo Grande (MS)** – No dia 23 de abril, foi realizada a missa no 20º Regimento de Cavalaria Blindado, em honra ao Mártir São Jorge, Santo Padroeiro da Cavalaria do Exército Brasileiro. A missa foi presidida pelo Capelão Capitão Padre Daniel **Francisco de Sousa** com o objetivo de destacar na homilia as virtudes cristãs de **São Jorge** como fé, coragem, fidelidade e galhardia tão importantes para a vida do militar.
 

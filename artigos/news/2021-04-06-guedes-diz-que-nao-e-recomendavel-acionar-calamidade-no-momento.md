@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que não é recomendável acionar calamidade no momento"
+title: Guedes diz que não é recomendável acionar calamidade no momento
 date: 2021-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo o ministro, medida reforçaria instabilidade.
 

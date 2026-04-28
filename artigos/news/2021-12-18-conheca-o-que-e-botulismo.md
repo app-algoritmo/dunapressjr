@@ -1,11 +1,12 @@
 ---
-title: "Conheça o que é  Botulismo"
+title: Conheça o que é  Botulismo
 date: 2021-12-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O botulismo é uma doença bacteriana grave, não contagiosa, causada pela ação de uma potente toxina produzida pela bactéria *Clostridium botulinum*, encontrada no solo, nas fezes humanas ou de animais e nos alimentos. A doença pode levar à morte por paralisia da musculatura respiratória.
 

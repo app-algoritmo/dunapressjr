@@ -1,11 +1,12 @@
 ---
-title: "A “guerra contra a mudança climática” está chegando… de novo"
+title: A “guerra contra a mudança climática” está chegando… de novo
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Na TV, na semana passada, um importante parlamentar trabalhista pediu que o Reino Unido - talvez até o mundo inteiro - fosse colocado em um "estado de guerra" para enfrentar as mudanças climáticas.Falando na BBC Newsnight, o parlamentar Barry Gardiner pediu uma ação comum para enfrentar a "ameaça existencial" representada pelas mudanças climáticas:
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil participa de estudo para desenvolver vacina de prevenção à Covid-19"
+title: Brasil participa de estudo para desenvolver vacina de prevenção à Covid-19
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a realização de um estudo clínico no Brasil para testar uma potencial vacina desenvolvida pela Universidade de Oxford, no Reino Unido, para prevenir a Covid-19.  A portaria que autoriza a pesquisa foi publicada nesta terça-feira (2), em edição extra do Diário Oficial da União. 
 

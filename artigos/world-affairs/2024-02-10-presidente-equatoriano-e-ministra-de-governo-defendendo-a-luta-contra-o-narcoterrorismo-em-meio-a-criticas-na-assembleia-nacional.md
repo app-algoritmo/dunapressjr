@@ -1,11 +1,13 @@
 ---
-title: "Presidente Equatoriano e Ministra de Governo: Defendendo a Luta Contra o Narcoterrorismo em Meio a Críticas na Assembleia Nacional"
+title: 'Presidente Equatoriano e Ministra de Governo: Defendendo a Luta Contra o Narcoterrorismo
+  em Meio a Críticas na Assembleia Nacional'
 date: 2024-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Equador, Daniel Noboa, e a ministra de Governo, Mónica Palencia, enfrentaram uma intensa sessão na Assembleia Nacional, marcada por críticas e debates acalorados sobre questões de segurança nacional e o assassinato do candidato presidencial Fernando Villavicencio.
 

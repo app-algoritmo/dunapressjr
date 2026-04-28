@@ -1,11 +1,12 @@
 ---
-title: "Praias de Itajaí têm coleta diária de lixo orgânico na temporada de verão"
+title: Praias de Itajaí têm coleta diária de lixo orgânico na temporada de verão
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a chegada do verão, o Município de Itajaí reforçou a coleta de lixo nas orlas das praias da cidade, bairros litorâneos e avenidas à beira-mar. A coleta do lixo orgânico é diária e se inicia às 7h, quando os caminhões passam nas principais vias de acesso às praias Brava, Cabeçudas, Geremias, Atalaia e também na avenida Ministro Victor Konder, a Beira-Rio. Além disso, a empresa Ambiental, responsável pela limpeza e conservação das ruas, mantém uma equipe nas praias, das 7h às 15h20.
 

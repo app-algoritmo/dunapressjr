@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Chega ao Brasil, os aviões de resgate dos brasileiros que estavam em Wuhan na China"
+title: 'Coronavírus: Chega ao Brasil, os aviões de resgate dos brasileiros que estavam
+  em Wuhan na China'
 date: 2020-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Da China ao Brasil, tripulação, equipe médica e brasileiros repatriados deverão seguir orientações O Ministério da Saúde e a Agência Nacional de Vigilância Sanitária (Anvisa) publicaram, neste sábado (8/2), as recomendações com todo o detalhamento dos procedimentos para a quarentena dos brasileiros que partiram de Wuhan, na China, epicentro dos casos do novo coronavírus.
 

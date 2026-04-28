@@ -1,11 +1,13 @@
 ---
-title: "A produtora de 'Barbie', Margot Robbie, queria Gal Gadot no papel-título do filme"
+title: A produtora de 'Barbie', Margot Robbie, queria Gal Gadot no papel-título do
+  filme
 date: 2023-08-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Gal Gadot, estava sendo considerada para o papel de "Barbie".
 

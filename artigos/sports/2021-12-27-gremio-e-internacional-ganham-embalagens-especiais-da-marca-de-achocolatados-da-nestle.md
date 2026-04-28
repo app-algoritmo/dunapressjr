@@ -1,11 +1,13 @@
 ---
-title: "Grêmio e Internacional ganham embalagens especiais da marca de achocolatados da Nestlé"
+title: Grêmio e Internacional ganham embalagens especiais da marca de achocolatados
+  da Nestlé
 date: 2021-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O esporte está no DNA de NESCAU®. Em um movimento de incentivo a modalidade mais popular do Brasil, a marca de achocolatados da Nestlé traz aos torcedores do futebol do Rio Grande do Sul, latas litografadas especiais dos dois grandes times do estado: Internacional e Grêmio. Os produtos já estão disponíveis nos principais pontos de venda.
 

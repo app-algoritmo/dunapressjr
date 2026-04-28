@@ -1,11 +1,12 @@
 ---
-title: "Trump e Bolsonaro parabenizam Milei: “Você tornará a Argentina grande novamente”"
+title: 'Trump e Bolsonaro parabenizam Milei: “Você tornará a Argentina grande novamente”'
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A vitória esmagadora de **Javier Milei** sobre o Kirchnerismo nas eleições presidenciais argentinas provocou reações além das suas fronteiras, tanto entre líderes da região como de figuras ligadas ao conservadorismo, como o ex-presidente dos Estados Unidos Donald Trump ou o do Brasil **Jair Bolsonaro** , entre outros.
 

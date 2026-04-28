@@ -1,11 +1,12 @@
 ---
-title: "PF prende pessoa ao tentar receber fraudulentamente auxílio emergencial"
+title: PF prende pessoa ao tentar receber fraudulentamente auxílio emergencial
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vilhena/RO – Em ação da Polícia Federal em parceria com a Caixa Econômica Federal, uma pessoa foi detida em flagrante delito na manhã desta segunda-feira (11/05/2020) ao tentar receber parcela do auxílio emergencial de forma fraudulenta.
 

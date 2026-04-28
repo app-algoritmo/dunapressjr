@@ -1,11 +1,12 @@
 ---
-title: "Proposta prevê divulgação de dados sobre a investigação de assassinatos"
+title: Proposta prevê divulgação de dados sobre a investigação de assassinatos
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 5179/20 obriga os estados e o Distrito Federal a publicarem  anualmente, até 30 de julho, dados sobre as investigações de homicídios dolosos cometidos em sua área. O texto, que já foi aprovado pelo Senado e agora tramita na Câmara dos Deputados, altera o Sistema Único de Segurança Pública (Susp), criado pela [Lei 13.675/18](https://www2.camara.gov.br/legin/fed/lei/2018/lei-13675-11-junho-2018-786843-norma-pl.html).
 

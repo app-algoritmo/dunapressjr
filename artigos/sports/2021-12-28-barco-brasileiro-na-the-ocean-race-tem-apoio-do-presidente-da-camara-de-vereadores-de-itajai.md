@@ -1,11 +1,13 @@
 ---
-title: "Barco brasileiro na The Ocean Race tem apoio do presidente da Câmara de Vereadores de Itajaí"
+title: Barco brasileiro na The Ocean Race tem apoio do presidente da Câmara de Vereadores
+  de Itajaí
 date: 2021-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Marcelo Werner, presidente do Legislativo Municipal de Itajaí, no norte de Santa Catarina, cidade que vai receber pela quarta vez a The Ocean Race, anunciou pelo instagram seu apoio ao barco brasileiro SCBRasil Team, inscrito na The Ocean Race para a 14a edição, que ocorre a partir de 14 de janeiro de 2023. O ato se deu após uma reunião com diretores da SCBrasil Esporte Náutico, na Câmara Municipal de Vereadores, onde foi apresentado o projeto do único barco brasileiro inscrito na competição náutica internacional. 
 

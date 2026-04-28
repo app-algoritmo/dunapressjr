@@ -1,11 +1,12 @@
 ---
-title: "Contratação de crédito rural aumenta 21% nesta safra em relação a passada"
+title: Contratação de crédito rural aumenta 21% nesta safra em relação a passada
 date: 2020-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a produção no campo batendo seguidos recordes, nos quatro primeiros meses do Plano Safra 2020/2021, de julho a outubro, as contratações de crédito rural dos produtores, cooperativas e agroindústrias aumentaram 21%, quando comparado com o mesmo período do ano passado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aos que querem ser grande"
+title: Aos que querem ser grande
 date: 2019-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Começou uma discussão entre os discípulos acerca de qual deles seria o maior. Jesus, conhecendo os seus pensamentos, tomou uma criança e a colocou em pé, a seu lado. Então lhes disse: "Quem recebe esta criança em meu nome está me recebendo; e quem me recebe está recebendo aquele que me enviou. Pois aquele que entre vocês for o menor, este será o maior".
 

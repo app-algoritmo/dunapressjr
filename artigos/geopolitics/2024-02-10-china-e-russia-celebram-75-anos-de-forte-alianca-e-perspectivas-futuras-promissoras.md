@@ -1,11 +1,12 @@
 ---
-title: "China e Rússia Celebram 75 Anos de Forte Aliança e Perspectivas Futuras Promissoras"
+title: China e Rússia Celebram 75 Anos de Forte Aliança e Perspectivas Futuras Promissoras
 date: 2024-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente chinês, Xi Jinping, e seu homólogo russo, Vladimir Putin, reafirmaram a robustez de sua parceria em uma recente conversa telefônica, destacando os laços estreitos entre os dois países e delineando planos para o futuro. Com o 75º aniversário do estabelecimento das relações diplomáticas entre China e Rússia neste ano, ambos os líderes expressaram otimismo em relação às perspectivas de cooperação bilateral.
 

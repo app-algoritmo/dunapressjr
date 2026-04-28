@@ -1,11 +1,12 @@
 ---
-title: "Protocolada PL que proíbe corrida de cães em SC"
+title: Protocolada PL que proíbe corrida de cães em SC
 date: 2021-09-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Com a assinatura da maioria dos deputados, Projeto poder voltar a ser objeto de apreciação em 2021.
 

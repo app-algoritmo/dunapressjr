@@ -1,11 +1,13 @@
 ---
-title: "Segunda comunidade indígena atendida por militares da saúde não apresenta registro do novo coronavírus"
+title: Segunda comunidade indígena atendida por militares da saúde não apresenta registro
+  do novo coronavírus
 date: 2020-06-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em continuidade à ação de assistência à saúde nas comunidades indígenas do município de São Gabriel da Cachoeira, no Amazonas, médicos e enfermeiros militares, realizaram, na terça-feira (09), 86 atendimentos a moradores de Querari. Os profissionais também vacinaram 61 adultos e crianças. Essa é a segunda comunidade atendida pela ação deflagrada pelos Ministérios da Defesa e da Saúde. Até o momento não existe registro de pessoas contaminadas ou com suspeita de estarem infectadas pelo novo coronavírus na localidade.
 

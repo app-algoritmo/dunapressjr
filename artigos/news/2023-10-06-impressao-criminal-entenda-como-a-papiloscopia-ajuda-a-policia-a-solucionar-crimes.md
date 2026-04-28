@@ -1,11 +1,13 @@
 ---
-title: "‘Impressão criminal”: entenda como a papiloscopia ajuda a polícia a solucionar crimes"
+title: '‘Impressão criminal”: entenda como a papiloscopia ajuda a polícia a solucionar
+  crimes'
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Judiciária conta com setores que trabalham de forma integrada, buscando provas - a papiloscopia é um deles.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF registra o retorno de 2,2 mil brasileiros da Argentina desde o início de abril"
+title: PF registra o retorno de 2,2 mil brasileiros da Argentina desde o início de
+  abril
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uruguaiana/RS - A Polícia Federal registrou desde o início de abril a entrada de 2.228 brasileiros que estavam na Argentina. A maior parte (1.907) chegou ao país em ônibus fretados pelo Consulado-Geral do Brasil em Buenos Aires. No mesmo período, foi registrada a saída de 3.440 argentinos.
 

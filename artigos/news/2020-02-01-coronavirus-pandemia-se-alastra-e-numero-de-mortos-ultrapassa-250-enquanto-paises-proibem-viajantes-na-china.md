@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Pandemia se alastra e número de mortos ultrapassa 250 enquanto países proíbem viajantes na China"
+title: 'Coronavírus: Pandemia se alastra e número de mortos ultrapassa 250 enquanto
+  países proíbem viajantes na China'
 date: 2020-02-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O número de mortos pelo surto de coronavírus na China ultrapassou 250, informou o governo no sábado, quando nações estrangeiras restringiram as restrições aos viajantes da China em resposta à rápida disseminação da doença.
 

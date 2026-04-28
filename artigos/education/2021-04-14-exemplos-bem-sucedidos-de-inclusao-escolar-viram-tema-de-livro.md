@@ -1,11 +1,12 @@
 ---
-title: "Exemplos bem sucedidos de inclusão escolar viram tema de livro"
+title: Exemplos bem sucedidos de inclusão escolar viram tema de livro
 date: 2021-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Manter a concentração durante as aulas remotas é um desafio para a maior parte dos estudantes, de qualquer idade e em qualquer nível escolar. Mas, para alunos com necessidades especiais, a experiência de só ter contato com os professores e colegas por meio de uma tela de computador é ainda mais complexa. No Colégio Educar Guarulhos, em São Paulo, dos 60 alunos com necessidades especiais que estão atualmente matriculados, 15 são autistas. Entre eles está Arthur, de 12 anos, aluno do 7º ano do Ensino Fundamental. Diagnosticado desde cedo com o Transtorno do Espectro Autista (TEA), o menino está na mesma escola há sete anos. 
 

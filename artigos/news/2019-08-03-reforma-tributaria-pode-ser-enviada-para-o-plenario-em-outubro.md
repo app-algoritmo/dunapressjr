@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária pode ser enviada para o Plenário em outubro"
+title: Reforma tributária pode ser enviada para o Plenário em outubro
 date: 2019-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estados e municípios querem alterar proposta
 

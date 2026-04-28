@@ -1,11 +1,13 @@
 ---
-title: "A artista irlandesa-canadense Ciara Phillips é a ganhadora deste ano do principal prêmio gráfico do mundo"
+title: A artista irlandesa-canadense Ciara Phillips é a ganhadora deste ano do principal
+  prêmio gráfico do mundo
 date: 2020-11-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 44 artistas de todo o mundo foram indicados para o prêmio este ano. Curadores, museus e artistas de todo o mundo estavam por trás das indicações, mostrando a amplitude dos gráficos contemporâneos de hoje. Tanto os métodos tradicionais quanto novas abordagens com instalações, montagens e *desempenho* foram representados entre os indicados.
 

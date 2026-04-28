@@ -1,11 +1,12 @@
 ---
-title: "A condenada Cristina Kirchner não é proscrita... ela é condenada"
+title: A condenada Cristina Kirchner não é proscrita... ela é condenada
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O kirchnerismo decidiu há muito tempo embarcar em um caminho delirante no qual seus partidários parecem acompanhá-los. No desconhecimento da realidade e na adaptação de uma história delirante que tudo acomoda aos interesses do “patrão”. Após ser condenada a seis anos de prisão e inabilitação perpétua para o exercício de cargos públicos, Cristina Fernández de Kirchner reapareceu para dizer que a Justiça (que ela considera um "partido" de oposição) a baniu para que não pudesse concorrer.
 

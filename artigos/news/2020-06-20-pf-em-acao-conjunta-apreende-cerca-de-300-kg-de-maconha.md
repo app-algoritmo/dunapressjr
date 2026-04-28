@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende cerca de 300 kg de maconha"
+title: PF, em ação conjunta, apreende cerca de 300 kg de maconha
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na madrugada deste sábado, dia 20/6, mais um grande trabalho interagências foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Guedes pede contribuição de servidores públicos para superar crise"
+title: Guedes pede contribuição de servidores públicos para superar crise
 date: 2020-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro da Economia pede que Congresso não derrube veto a reajustes.
 

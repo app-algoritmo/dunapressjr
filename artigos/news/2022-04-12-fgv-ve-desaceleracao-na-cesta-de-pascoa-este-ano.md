@@ -1,11 +1,12 @@
 ---
-title: "FGV vê desaceleração na cesta de Páscoa este ano"
+title: FGV vê desaceleração na cesta de Páscoa este ano
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumento foi de 3,93% nos últimos 12 meses.
 

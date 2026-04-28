@@ -1,11 +1,12 @@
 ---
-title: "Reunião define novos objetivos da Conferência dos Exércitos Americanos"
+title: Reunião define novos objetivos da Conferência dos Exércitos Americanos
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta terça-feira, 7, reuniões da Conferência de Comandantes dos Exércitos Americanos definiram diversos aspectos dos novos rumos da Conferência dos Exércitos Americanos (CEA). 
 

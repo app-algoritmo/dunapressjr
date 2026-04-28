@@ -1,11 +1,12 @@
 ---
-title: "Plínio volta a questionar influência estrangeira na Amazônia"
+title: Plínio volta a questionar influência estrangeira na Amazônia
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM), em pronunciamento no Plenário nesta terça-feira (26), voltou a manifestar preocupação com a implantação do Centro de Cooperação Policial Internacional na capital amazonense, Manaus, para combater crimes ambientais e narcotráfico na Amazônia, sem que sejam avaliados os impactos da influência estrangeira na região. Lembrou que o projeto é financiado pelo Brasil.
 

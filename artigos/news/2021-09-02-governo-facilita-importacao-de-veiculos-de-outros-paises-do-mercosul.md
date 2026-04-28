@@ -1,11 +1,12 @@
 ---
-title: "Governo facilita importação de veículos de outros países do Mercosul"
+title: Governo facilita importação de veículos de outros países do Mercosul
 date: 2021-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Automóveis serão dispensados de exigência de licenciamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro estabelece regras para atividades espaciais no Brasil"
+title: Governo Bolsonaro estabelece regras para atividades espaciais no Brasil
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Espacial Brasileira estabeleceu as regras para conceder licença a pessoa jurídica que queira executar atividades espaciais a partir do território brasileiro. As regras estão em [portaria](http://www.in.gov.br/en/web/dou/-/portaria-n-182-de-28-de-maio-de-2020-259409306) publicada na edição desta segunda-feira (1) do Diário Oficial da União. 
 

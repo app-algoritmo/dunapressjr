@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro participa de reunião sobre programa de redução de impactos pós-pandemia"
+title: Bolsonaro participa de reunião sobre programa de redução de impactos pós-pandemia
 date: 2020-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, participou nesta quarta-feira (22), da reunião sobre o programa Pró-Brasil, iniciativa proativa do Governo Federal que tem como propósito reduzir os impactos do novo coronavírus nas áreas social e econômica com foco no período pós-pandemia. O ministro-chefe da Casa Civil, Braga Netto, apresentou o programa ao presidente, ao vice-presidente e demais ministros. 
 

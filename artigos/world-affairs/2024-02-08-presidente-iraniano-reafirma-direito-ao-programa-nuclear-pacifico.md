@@ -1,11 +1,12 @@
 ---
-title: "Presidente iraniano reafirma direito ao programa nuclear pacífico"
+title: Presidente iraniano reafirma direito ao programa nuclear pacífico
 date: 2024-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Irã, Ebrahim Raisi, reiterou o compromisso do país com o desenvolvimento pacífico do seu programa nuclear, independentemente das tentativas de interferência de outros países. Durante uma reunião com embaixadores de países com missões em Teerã, Raisi destacou que o Irã continuará exercendo seu direito legítimo, conforme estabelecido pela Agência Internacional de Energia Atômica (AIEA).
 

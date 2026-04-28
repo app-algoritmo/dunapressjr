@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro acompanha situação de Santa Catarina após ciclone"
+title: Presidente Jair Bolsonaro acompanha situação de Santa Catarina após ciclone
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bolsonaro esteve em Santa Catarina na manhã desta sábado (4). Ao desembarcar no aeroporto de Florianópolis, seguiu de helicóptero para sobrevoar uma das regiões mais atingidas pelo "ciclone bomba".
 

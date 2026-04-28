@@ -1,11 +1,12 @@
 ---
-title: "2. Histórias do Brasil: Os Portugueses e o Mar"
+title: '2. Histórias do Brasil: Os Portugueses e o Mar'
 date: 2020-08-22
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - History
+- History
 ---
+
 
 A história dos portugueses e o mar retrocede ao século XII, quando os lusitanos operavam rotas de comércio pelo mar com a Holanda, a França e a Inglaterra. O grande passo viria em 1249, quando o rei Dom Afonso III (1210-1279) expulsou os mouros da região sul de Portugal, unificando finalmente o país. Por volta desta época, a bússola já era utilizada em navios no Ocidente. Provavelmente, o instrumento chegou à Europa pelas mãos dos Árabes, que por sua vez a trouxeram da China. Todavia, o primeiro texto português a descrever o funcionamento e a aplicação da bússola - *Tratado da agulha de marear, *de João de Lisboa* - *só seria publicado em 1514.
 

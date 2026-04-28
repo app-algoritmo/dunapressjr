@@ -1,11 +1,12 @@
 ---
-title: "PF extradita uruguaio suspeito de roubo à casa de câmbio"
+title: PF extradita uruguaio suspeito de roubo à casa de câmbio
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pelotas/RS - A Polícia Federal extraditou, nesta segunda-feira (29/6), um uruguaio foragido de seu país por roubo a uma casa de câmbio em Cerro Largo, em janeiro de 2019. Durante perseguição policial, o suspeito escapou e fugiu para o Brasil.
 

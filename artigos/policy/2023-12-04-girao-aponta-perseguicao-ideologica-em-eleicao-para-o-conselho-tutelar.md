@@ -1,11 +1,12 @@
 ---
-title: "Girão aponta perseguição ideológica em eleição para o conselho tutelar"
+title: Girão aponta perseguição ideológica em eleição para o conselho tutelar
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) solidarizou-se com a advogada Rosana Rabelo, que, recentemente eleita para o Conselho Tutelar de São José dos Campos (SP), com mais de 7 mil votos, teve sua candidatura impugnada por suposto abuso de poder econômico durante a campanha. Para o senador, houve "perseguição ideológica" contra a advogada.
 

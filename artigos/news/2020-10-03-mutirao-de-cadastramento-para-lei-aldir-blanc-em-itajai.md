@@ -1,11 +1,12 @@
 ---
-title: "Mutirão de cadastramento para Lei Aldir Blanc em Itajaí"
+title: Mutirão de cadastramento para Lei Aldir Blanc em Itajaí
 date: 2020-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara Setorial de Produção Cultural informa que nos dias 5, 6 e 7 de outubro será feito um mutirão de cadastramento de artistas para o Inciso 1 da Lei Federal nº 14.017 (Lei Aldir Blanc). A ação será realizada em escolas dos bairros Murta, Dom Bosco e Cidade Nova. O Inciso 1 da Lei prevê um auxílio emergencial no valor de R$ 600, durante três meses, para artistas profissionais e amadores em virtude da pandemia de COVID-19.
 

@@ -1,11 +1,12 @@
 ---
-title: "Abate de animais cresce no terceiro trimestre com recorde de bovinos e suínos"
+title: Abate de animais cresce no terceiro trimestre com recorde de bovinos e suínos
 date: 2023-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE revelam recordes na produção pecuária brasileira.
 

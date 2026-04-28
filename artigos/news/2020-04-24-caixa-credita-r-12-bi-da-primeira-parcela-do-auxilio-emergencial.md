@@ -1,11 +1,12 @@
 ---
-title: "Caixa credita R$ 1,2 bi da primeira parcela do auxílio emergencial"
+title: Caixa credita R$ 1,2 bi da primeira parcela do auxílio emergencial
 date: 2020-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Beneficiários terão acesso aos recursos neste sábado (25)
 

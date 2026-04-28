@@ -1,11 +1,12 @@
 ---
-title: "Projeções subestimam crescimento do PIB, diz assessor da Economia"
+title: Projeções subestimam crescimento do PIB, diz assessor da Economia
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado é o 4º positivo seguido do indicador, segundo IBGE.
 

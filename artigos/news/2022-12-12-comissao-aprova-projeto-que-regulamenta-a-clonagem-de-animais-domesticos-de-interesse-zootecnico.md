@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que regulamenta a clonagem de animais domésticos de interesse zootécnico"
+title: Comissão aprova projeto que regulamenta a clonagem de animais domésticos de
+  interesse zootécnico
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou o [Projeto de Lei 5010/13](https://www.camara.leg.br/noticias/407448-PROJETO-REGULAMENTA-CLONAGEM-DE-ANIMAIS-DOMESTICOS), do Senado, que regulamenta a pesquisa, a produção e a comercialização de animais domésticos clonados.
 

@@ -1,11 +1,12 @@
 ---
-title: "FGV: Quase 30% da população recebia menos de R$ 500 por mês em 2021"
+title: 'FGV: Quase 30% da população recebia menos de R$ 500 por mês em 2021'
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cenário foi impactado por crises, entre elas a pandemia, diz estudo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Holanda quer expandir regras de eutanásia para crianças"
+title: Holanda quer expandir regras de eutanásia para crianças
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 [O gabinete decidiu](https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages) recentemente introduzir uma regra de fim de vida para crianças entre um e doze anos. Anteriormente havia apenas um regulamento para crianças a partir dos 12 anos e para bebés até um ano.
 

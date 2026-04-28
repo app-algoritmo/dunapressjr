@@ -1,11 +1,12 @@
 ---
-title: "Dr. Mercola: Crise encenada - HPV, hype e horror"
+title: 'Dr. Mercola: Crise encenada - HPV, hype e horror'
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## 
 Disseram a você que é uma droga milagrosa que não causa problemas e salva vidas. Mas, na verdade, tem sido associado a coágulos sanguíneos, derrame e parada cardíaca.

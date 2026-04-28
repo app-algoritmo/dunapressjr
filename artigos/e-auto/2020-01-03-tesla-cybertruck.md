@@ -1,11 +1,12 @@
 ---
-title: "Tesla Cybertruck"
+title: Tesla Cybertruck
 date: 2020-01-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 O Tesla Cybertruck representa uma visão radical de Elon Musk para a futura picape elétrica da Tesla. Aqui estão alguns dos principais pontos sobre o Cybertruck.
 

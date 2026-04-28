@@ -1,11 +1,12 @@
 ---
-title: "Os tambores da guerra com a China estão ficando muito mais altos agora"
+title: Os tambores da guerra com a China estão ficando muito mais altos agora
 date: 2023-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Declarações de Washington e Pequim repentinamente se tornaram muito mais contundentes e agressivas nos últimos dias, e a discussão de uma guerra quente está sendo vista não apenas como uma possibilidade real, mas em muitos casos como uma probabilidade. Vamos dar uma olhada em alguns dos principais desenvolvimentos recentes.
 

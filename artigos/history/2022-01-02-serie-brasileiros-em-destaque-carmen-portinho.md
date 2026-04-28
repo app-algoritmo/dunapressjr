@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Carmen Portinho"
+title: 'Série Brasileiros em Destaque: Carmen Portinho'
 date: 2022-01-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Engenheira Civil.
 

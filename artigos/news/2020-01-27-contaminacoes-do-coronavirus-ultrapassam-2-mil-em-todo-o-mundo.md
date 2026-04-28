@@ -1,11 +1,12 @@
 ---
-title: "Contaminações do coronavírus ultrapassam 2 mil em todo o mundo"
+title: Contaminações do coronavírus ultrapassam 2 mil em todo o mundo
 date: 2020-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Governo chinês ordenou bloqueio das estradas na cidade de Wuhan*
 

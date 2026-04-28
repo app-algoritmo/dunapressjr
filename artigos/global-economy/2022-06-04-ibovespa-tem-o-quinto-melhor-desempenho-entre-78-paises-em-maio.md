@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa tem o quinto melhor desempenho entre 78 países em maio"
+title: Ibovespa tem o quinto melhor desempenho entre 78 países em maio
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Alta registrada foi 8,48%.
 

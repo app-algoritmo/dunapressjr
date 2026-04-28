@@ -1,11 +1,12 @@
 ---
-title: "Dirty Dancing: Um filme icônico sobre a vida judaica nos Estados Unidos"
+title: 'Dirty Dancing: Um filme icônico sobre a vida judaica nos Estados Unidos'
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 O drama romântico de 1987 estrelado por Patrick Swayze e Jennifer Gray é conhecido por muitas coisas. É um dos romances mais emocionantes de Hollywood, ambientado em detalhes perfeitos do início dos anos 1960. Foi parte da memorável série de papéis de estrela de cinema de Swayze no final dos anos 80 e início dos anos 90, e aquele em que ele apresentou a linha mais famosa de sua carreira .
 

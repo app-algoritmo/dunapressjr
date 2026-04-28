@@ -1,12 +1,13 @@
 ---
-title: "Inovadora Refinaria de Lítio Tesla: Uma Visão para o Futuro Sustentável"
+title: 'Inovadora Refinaria de Lítio Tesla: Uma Visão para o Futuro Sustentável'
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - E-auto
+- Business and Economy
+- E-auto
 ---
+
 
 Em maio de 2023, um novo marco foi estabelecido no mundo da energia sustentável com o início das obras da refinaria interna de lítio da Tesla, estrategicamente posicionada na área metropolitana de Corpus Christi, no Texas. Um projeto ambicioso e inovador, essa refinaria não apenas ilustra o compromisso da Tesla com a sustentabilidade, mas também o seu papel como pioneira no setor de energia limpa.
 

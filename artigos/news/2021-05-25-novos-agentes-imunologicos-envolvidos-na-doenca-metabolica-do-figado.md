@@ -1,11 +1,12 @@
 ---
-title: "Novos agentes imunológicos envolvidos na doença metabólica do fígado"
+title: Novos agentes imunológicos envolvidos na doença metabólica do fígado
 date: 2021-05-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os tratamentos futuros podem envolver a manipulação de um subtipo de célula imunológica.
 

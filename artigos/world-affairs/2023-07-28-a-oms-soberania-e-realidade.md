@@ -1,11 +1,12 @@
 ---
-title: "A OMS, soberania e realidade"
+title: A OMS, soberania e realidade
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Diretor-Geral da Organização Mundial da Saúde (OMS) [garante](https://www.ungeneva.org/en/news-media/news/2023/03/79372/who-chief-warns-against-misinformation-over-global-pandemic-accord) que o “Acordo Pandêmico” (ou “Tratado”) da OMS não limitará a soberania dos Estados membros da OMS. QUEM confia nessas palavras vai distrair da realidade. Aqueles que pressionam a agenda perpétua de emergência de saúde pública planejam dar mais poder à OMS e menos aos estados. Esse sempre será o caso sempre que a OMS declarar uma Emergência de Saúde Pública de Interesse Internacional (PHEIC) ou estiver convencida de que podemos ser ameaçados por uma.
 

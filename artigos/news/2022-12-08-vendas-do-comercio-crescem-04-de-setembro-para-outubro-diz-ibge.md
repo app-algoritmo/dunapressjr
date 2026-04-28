@@ -1,11 +1,12 @@
 ---
-title: "Vendas do comércio crescem 0,4% de setembro para outubro, diz IBGE"
+title: Vendas do comércio crescem 0,4% de setembro para outubro, diz IBGE
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a terceira alta consecutiva do indicador.
 

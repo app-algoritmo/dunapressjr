@@ -1,11 +1,12 @@
 ---
-title: "Um Breve Esboço Sobre a Angústia"
+title: Um Breve Esboço Sobre a Angústia
 date: 2020-06-11
 status: publish
 author: Vitor Guerino
 categories:
-  - Philosophy
+- Philosophy
 ---
+
 
 A angústia é um estado em que estamos quando nosso espírito se encontra inquieto por aflições e dores. Ela é tão inerente ao homem quanto as penas é a um pássaro. Nós não podemos nos esquivar deste sentimento, e quando nos empossa, encontramo-nos então em completo dilema existencial.
 

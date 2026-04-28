@@ -1,11 +1,13 @@
 ---
-title: "Revelações Chocantes: Refugiados ou Soldados? O Intrigante Relato de um Agente Funerário Britânico"
+title: 'Revelações Chocantes: Refugiados ou Soldados? O Intrigante Relato de um Agente
+  Funerário Britânico'
 date: 2024-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://twitter.com/i/status/1789317957488685195
 

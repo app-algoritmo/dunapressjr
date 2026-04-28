@@ -1,11 +1,12 @@
 ---
-title: "No Dia do Dentista Dr. Luis Gustavo Lintz comenta a importância da data"
+title: No Dia do Dentista Dr. Luis Gustavo Lintz comenta a importância da data
 date: 2018-10-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dia 25 de outubro, Dia do Dentista, e Duna vem por meio de seu Diretor Dr. Lintz falar um pouco do que este dia representa para os profissionais da Odontologia.
 

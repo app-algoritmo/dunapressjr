@@ -1,11 +1,12 @@
 ---
-title: "Arqueólogos descobrem vestígios de rituais vikings na Islândia"
+title: Arqueólogos descobrem vestígios de rituais vikings na Islândia
 date: 2021-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Uma estrutura em forma de barco foi descoberta, bem como dezenas de contas, algumas delas tendo sua origem diretamente atribuída ao Iraque.
 

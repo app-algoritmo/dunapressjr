@@ -1,13 +1,14 @@
 ---
-title: "Bangu Shopping recebe Feira das Flores com agricultores e artistas florais"
+title: Bangu Shopping recebe Feira das Flores com agricultores e artistas florais
 date: 2023-07-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Agriculture
-  - Architecture and Art
-  - Events
+- Agriculture
+- Architecture and Art
+- Events
 ---
+
 
 ## Neste final de semana, até domingo, o Bangu Shopping vai receber mais uma edição do evento colaborativo Feira das Flores.
 

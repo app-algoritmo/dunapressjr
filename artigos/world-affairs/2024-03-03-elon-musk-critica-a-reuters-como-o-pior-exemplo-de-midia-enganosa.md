@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk Critica a Reuters como o Pior Exemplo de Mídia Enganosa"
+title: Elon Musk Critica a Reuters como o Pior Exemplo de Mídia Enganosa
 date: 2024-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O empresário Elon Musk mais uma vez disparou contra a mídia tradicional, expressando sua crença de que ela frequentemente mente para seus leitores. Em uma declaração contundente, Musk apontou a Reuters como o pior exemplo desse comportamento.
 

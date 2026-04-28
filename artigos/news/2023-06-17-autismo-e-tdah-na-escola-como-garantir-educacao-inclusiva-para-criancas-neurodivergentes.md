@@ -1,11 +1,12 @@
 ---
-title: "Autismo e TDAH na escola: como garantir educação inclusiva para crianças neurodivergentes"
+title: 'Autismo e TDAH na escola: como garantir educação inclusiva para crianças neurodivergentes'
 date: 2023-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De especialista em especialista, exame após exame, uma pessoa neurodivergente pode levar anos até chegar a um diagnóstico preciso. Transtornos como o autismo (TEA) ou o déficit de atenção com hiperatividade (TDAH), embora comuns, só passaram a receber atenção da sociedade há poucos anos, o que faz com que muitos convivam com essas condições sem ter conhecimento. Entender o diagnóstico e pesquisar sobre ele é uma das formas de oferecer mais qualidade de vida a quem o recebe - e a escola é responsável direta por boa parte do desenvolvimento de crianças e adolescentes com TEA ou TDAH.
 

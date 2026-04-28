@@ -1,11 +1,12 @@
 ---
-title: "Como criar consentimento: do clima à Covid e vice-versa"
+title: 'Como criar consentimento: do clima à Covid e vice-versa'
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## *O insidioso alarmismo empregado durante a Covid ainda está sendo usado hoje nas comunicações climáticas, onde foi originalmente desenvolvido.*
 

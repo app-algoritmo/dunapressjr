@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,30, mas acumula queda na semana"
+title: Dólar sobe para R$ 5,30, mas acumula queda na semana
 date: 2021-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa tem pior desempenho semanal em quase três meses.
 

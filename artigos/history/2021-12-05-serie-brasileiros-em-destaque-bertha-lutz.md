@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Bertha Lutz"
+title: 'Série Brasileiros em Destaque: Bertha Lutz'
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Bióloga.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rússia: Biolabs dos EUA ainda trabalhando em patógenos perigosos na Ucrânia"
+title: 'Rússia: Biolabs dos EUA ainda trabalhando em patógenos perigosos na Ucrânia'
 date: 2023-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Laboratórios de pesquisa biológica financiados pelos Estados Unidos continuam a operar na Ucrânia, apesar de declarações oficiais indicando que foram desativados, disse o Ministério da Defesa da Rússia na sexta-feira.
 

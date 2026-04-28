@@ -1,11 +1,12 @@
 ---
-title: "Produção de petróleo cresce 5,4% de dezembro para janeiro, diz ANP"
+title: Produção de petróleo cresce 5,4% de dezembro para janeiro, diz ANP
 date: 2021-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção da camada pré-sal chegou a 2,07 milhões de barris de petróleo.
 

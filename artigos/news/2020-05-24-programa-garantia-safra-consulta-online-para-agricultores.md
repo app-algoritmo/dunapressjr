@@ -1,11 +1,12 @@
 ---
-title: "Programa Garantia Safra – Consulta online para agricultores"
+title: Programa Garantia Safra – Consulta online para agricultores
 date: 2020-05-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Consultar, corrigir dados do cadastro e saber se o benefício está disponível são os principais serviços pela internet.
 

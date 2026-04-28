@@ -1,11 +1,13 @@
 ---
-title: "Girão vai denunciar à PGR deputado que teria recebido propina para defender apostas esportivas"
+title: Girão vai denunciar à PGR deputado que teria recebido propina para defender
+  apostas esportivas
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) anunciou, em pronunciamento no Plenário nesta quarta-feira (27), que vai apresentar denúncia junto à Procuradoria-Geral da República (PGR) contra deputadoda base do governo, citado em reportaem da revista *Veja* desta semana, que teria pedido propina para aprovar leis favoráveis a empresas de apostas esportivas e não pressioná-las na CPI sobre manipulação de resultado em partidas de futebol. A matéria afirma que o deputado, líder do PSB, estaria cobrando R$ 35 milhões do presidente da Associação Nacional de Jogos e Loterias.
 

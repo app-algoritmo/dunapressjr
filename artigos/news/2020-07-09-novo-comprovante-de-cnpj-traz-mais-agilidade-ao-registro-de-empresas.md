@@ -1,11 +1,12 @@
 ---
-title: "Novo comprovante de CNPJ traz mais agilidade ao registro de empresas"
+title: Novo comprovante de CNPJ traz mais agilidade ao registro de empresas
 date: 2020-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Comprovante tem código de autenticidade e pode ser acessado através do Portal Nacional da Redesim.
 

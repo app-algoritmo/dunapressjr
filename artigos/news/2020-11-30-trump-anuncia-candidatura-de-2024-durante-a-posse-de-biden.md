@@ -1,11 +1,12 @@
 ---
-title: "Trump anuncia candidatura de 2024 durante a posse de Biden"
+title: Trump anuncia candidatura de 2024 durante a posse de Biden
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Trump disse à Fox: “Esta eleição foi uma fraude. Foi uma eleição fraudada! ”
 

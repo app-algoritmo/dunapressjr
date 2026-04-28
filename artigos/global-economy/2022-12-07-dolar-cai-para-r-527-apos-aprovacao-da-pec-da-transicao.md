@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,27 após aprovação da PEC da Transição"
+title: Dólar cai para R$ 5,27 após aprovação da PEC da Transição
 date: 2022-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores sobe 0,72% e fecha acima de 110 mil pontos.
 

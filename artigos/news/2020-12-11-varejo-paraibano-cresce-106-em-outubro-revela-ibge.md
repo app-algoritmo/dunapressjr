@@ -1,11 +1,12 @@
 ---
-title: "Varejo paraibano cresce 10,6% em outubro, revela IBGE"
+title: Varejo paraibano cresce 10,6% em outubro, revela IBGE
 date: 2020-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com o quarto mês consecutivo de expansão, o volume de vendas do varejo paraibano registrou crescimento de 10,6% em outubro sobre o mesmo período do ano passado, segundo Pesquisa Mensal do Comércio (PMC), divulgada nesta quinta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Foi o quarto mês seguido de alta acima de dois dígitos. Os meses de julho (11,6%), agosto (16,1%), setembro (12,7%) tiveram também forte expansão acima de dois dígitos. A Paraíba também apresentou alta nas vendas de outubro sobre setembro de 2,3%, bem acima da média nacional (0,9%).
 

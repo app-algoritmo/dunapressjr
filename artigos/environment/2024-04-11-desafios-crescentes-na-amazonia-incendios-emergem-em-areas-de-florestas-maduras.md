@@ -1,11 +1,12 @@
 ---
-title: "Desafios Crescentes na Amazônia: Incêndios Emergem em Áreas de Florestas Maduras"
+title: 'Desafios Crescentes na Amazônia: Incêndios Emergem em Áreas de Florestas Maduras'
 date: 2024-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 **Estudo revela aumento alarmante de incêndios em bioma, colocando em risco a resiliência da floresta e comunidades locais.**
 

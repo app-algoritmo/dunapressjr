@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai pela terceira sessão seguida e continua abaixo de R$ 5"
+title: Dólar cai pela terceira sessão seguida e continua abaixo de R$ 5
 date: 2021-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa encostou em 130 mil pontos, mas fechou em baixa.
 

@@ -1,11 +1,13 @@
 ---
-title: "Possíveis sanções dos EUA sobre cooperação técnico-militar Rússia-Irã: Reações e implicações"
+title: 'Possíveis sanções dos EUA sobre cooperação técnico-militar Rússia-Irã: Reações
+  e implicações'
 date: 2024-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Os Estados Unidos estão considerando impor sanções à expansão da cooperação técnico-militar entre a Rússia e o Irã, afirmou John Kirby, conselheiro de comunicações de segurança nacional da Casa Branca. Essa decisão surge em meio às alegações do G7 sobre os planos do Irã de enviar mísseis balísticos e tecnologias relevantes para a Rússia, levantando preocupações significativas. Kirby afirmou que os EUA estão prontos para responder de forma rápida e coordenada, incluindo a possibilidade de medidas adicionais e significativas contra o Irã.
 

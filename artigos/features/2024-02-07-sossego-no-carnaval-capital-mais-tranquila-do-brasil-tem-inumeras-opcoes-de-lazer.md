@@ -1,11 +1,13 @@
 ---
-title: "Sossego no Carnaval: Capital mais tranquila do Brasil tem inúmeras opções de lazer"
+title: 'Sossego no Carnaval: Capital mais tranquila do Brasil tem inúmeras opções
+  de lazer'
 date: 2024-02-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Curitiba é excelente opção para quem pretende descansar longe do agito do feriado mais festivo do ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe pela primeira vez em quatro dias, mas cai na semana"
+title: Dólar sobe pela primeira vez em quatro dias, mas cai na semana
 date: 2020-09-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fecha sexta-feira com leve alta.
 

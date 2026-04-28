@@ -1,11 +1,13 @@
 ---
-title: "Receita prorroga para setembro prazo para entrega da Escrituração Contábil Fiscal"
+title: Receita prorroga para setembro prazo para entrega da Escrituração Contábil
+  Fiscal
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Prazo terminaria no último dia útil deste mês.
 

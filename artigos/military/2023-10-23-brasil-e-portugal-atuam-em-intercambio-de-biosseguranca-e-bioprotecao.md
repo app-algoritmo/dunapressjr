@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Portugal atuam em Intercâmbio de Biossegurança e Bioproteção"
+title: Brasil e Portugal atuam em Intercâmbio de Biossegurança e Bioproteção
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 **Lisboa (Portugal) – **O Laboratório Militar de Defesa Biológica e Química do Exército Português realizou o intercâmbio de "Imersão em Biossegurança e Bioproteção", com o objetivo de compartilhar conhecimentos e experiências para o fortalecimento da Rede Internacional de Laboratórios Especializados em Defesa Biológica. O Brasil foi representado pelo Tenente-Coronel Marcos Dornelas Ribeiro, do [Instituto de Biologia do Exército](https://www.ibex.eb.mil.br/). 
 

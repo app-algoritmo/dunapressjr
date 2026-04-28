@@ -1,11 +1,13 @@
 ---
-title: "Educação financeira para jovens: menos foco no dinheiro e mais no propósito de vida"
+title: 'Educação financeira para jovens: menos foco no dinheiro e mais no propósito
+  de vida'
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Em uma sociedade com jovens que desejam tudo o que o mundo capitalista pode oferecer, falar de educação financeira para estudantes torna-se um desafio cada vez maior. Os longos corredores nos supermercados repletos de rótulos sedutores, o e-commerce a um clique a qualquer hora e o estímulo desenfreado ao consumismo só pioram a situação. A consciência que leva à educação financeira deve ser uma luta travada em conjunto por família e escola, e iniciada o mais cedo possível. 
 

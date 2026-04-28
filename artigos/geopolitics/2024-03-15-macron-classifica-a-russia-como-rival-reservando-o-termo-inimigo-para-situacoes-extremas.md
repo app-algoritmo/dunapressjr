@@ -1,11 +1,13 @@
 ---
-title: "Macron classifica a Rússia como rival, reservando o termo 'inimigo' para situações extremas"
+title: Macron classifica a Rússia como rival, reservando o termo 'inimigo' para situações
+  extremas
 date: 2024-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em uma recente entrevista conjunta à TF1 e à France 2, o presidente francês, Emmanuel Macron, delineou sua visão em relação à Rússia, descrevendo-a como uma "rival". No entanto, Macron enfatizou que a França não está em estado de guerra com o país vizinho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 0,45% com ajuda de bancos e empresas de petróleo"
+title: Ibovespa sobe 0,45% com ajuda de bancos e empresas de petróleo
 date: 2023-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar avança 0,36%, alcançando R$ 4,80.
 

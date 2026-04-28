@@ -1,11 +1,13 @@
 ---
-title: "Frente Parlamentar Mista pela Reforma Política pretende descentralizar poder de Brasília"
+title: Frente Parlamentar Mista pela Reforma Política pretende descentralizar poder
+  de Brasília
 date: 2019-04-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Importante frente permitirá que congressistas discutam mudanças
 estruturais na política brasileira. 

@@ -1,11 +1,13 @@
 ---
-title: "Instituições públicas de ensino superior apresentam melhor desempenho no Enade em 2019"
+title: Instituições públicas de ensino superior apresentam melhor desempenho no Enade
+  em 2019
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os cursos das instituições públicas de ensino superior apresentaram desempenhos maiores que os das instituições privadas no Exame Nacional de Desempenho dos Estudantes (Enade) 2019. Os resultados do Enade foram divulgados nesta terça-feira (20) pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).
 

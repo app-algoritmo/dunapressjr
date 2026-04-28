@@ -1,11 +1,12 @@
 ---
-title: "Confiança de serviços cede 1,5 ponto em dezembro"
+title: Confiança de serviços cede 1,5 ponto em dezembro
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador cai pelo terceiro mês consecutivo.
 

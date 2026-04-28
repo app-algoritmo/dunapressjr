@@ -1,11 +1,12 @@
 ---
-title: "Palácio Imperial, Independência ou Morte"
+title: Palácio Imperial, Independência ou Morte
 date: 2019-09-06
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Em 2 de setembro de 2018, um domingo, um curto-circuito num aparelho de ar-condicionado deflagrou um incêndio que consumiu durante seis horas 80% do acervo do hoje chamado Museu Nacional. Entretanto, o que ardeu foi  o Palácio Imperial de São Cristóvão da Quinta da Boa Vista, construído por d. João VI, quando de sua permanência no Brasil, em junho de 1818. Tinha acabado de completar 200 anos.
 

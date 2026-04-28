@@ -1,11 +1,12 @@
 ---
-title: "Plataforma 'Juventudes contra o Corona' reunirá ações e organizações"
+title: Plataforma 'Juventudes contra o Corona' reunirá ações e organizações
 date: 2020-08-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os jovens brasileiros têm mostrado engajamento na promoção de ações para combater os efeitos negativos provocados pela pandemia da Covid-19. O Conselho Nacional da Juventude (Conjuve) lançou, nessa quarta-feira (12/8) a iniciativa ["Juventudes contra o Corona"](https://www.juventudescontraocorona.com.br/in%C3%ADcio), uma plataforma on-line que busca reunir esforços para solucionar problemas e estimular a colaboração.
 

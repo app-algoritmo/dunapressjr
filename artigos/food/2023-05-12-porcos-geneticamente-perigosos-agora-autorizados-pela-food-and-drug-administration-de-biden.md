@@ -1,11 +1,13 @@
 ---
-title: "Porcos geneticamente perigosos agora autorizados pela Food and Drug Administration de Biden"
+title: Porcos geneticamente perigosos agora autorizados pela Food and Drug Administration
+  de Biden
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## O consumo de porcos geneticamente modificados foi autorizado pela Food and Drug Administration (FDA) dos Estados Unidos para uso como salsichas de estilo alemão, [de acordo com um relatório do *NextGov*](https://www.nextgov.com/ideas/2023/05/fda-people-can-eat-these-gene-edited-pigs/386064/) .
 

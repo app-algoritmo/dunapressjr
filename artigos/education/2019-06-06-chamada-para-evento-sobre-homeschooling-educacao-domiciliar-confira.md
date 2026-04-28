@@ -1,12 +1,13 @@
 ---
-title: "Chamada para Evento sobre Homeschooling (Educação domiciliar), confira!"
+title: Chamada para Evento sobre Homeschooling (Educação domiciliar), confira!
 date: 2019-06-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Num país onde o Estado tenta controlar tudo, os poderes dão liberdades parcas para os cidadãos, ainda há quem busque garantir mais um direito tolhido ao longo das décadas, de forma despercebida, porém evidente atualmente.
 

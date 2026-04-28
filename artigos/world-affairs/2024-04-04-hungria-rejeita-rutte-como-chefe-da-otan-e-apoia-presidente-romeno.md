@@ -1,11 +1,12 @@
 ---
-title: "Hungria rejeita Rutte como chefe da OTAN e apoia presidente romeno"
+title: Hungria rejeita Rutte como chefe da OTAN e apoia presidente romeno
 date: 2024-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma reunião de ministros dos Negócios Estrangeiros da OTAN em Bruxelas, o Ministro das Relações Exteriores húngaro, Peter Szijjarto, anunciou a posição da Hungria em relação ao próximo secretário-geral da organização. Szijjarto afirmou que a Hungria não apoiará o primeiro-ministro holandês em exercício, Mark Rutte, para o cargo, citando ataques prévios de Rutte à Hungria e ameaças de expulsão da União Europeia. Em vez disso, a Hungria prefere o presidente romeno, Klaus Iohannis, para assumir a liderança da OTAN.
 

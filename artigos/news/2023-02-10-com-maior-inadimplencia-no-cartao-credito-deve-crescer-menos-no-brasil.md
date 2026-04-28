@@ -1,11 +1,12 @@
 ---
-title: "Com maior inadimplência no cartão, crédito deve crescer menos no Brasil"
+title: Com maior inadimplência no cartão, crédito deve crescer menos no Brasil
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice de atrasos chega a 7,7% com tendência de alta.
 

@@ -1,11 +1,12 @@
 ---
-title: "Setor de TI criou 20% das vagas remotas nas áreas mais procuradas em 2020"
+title: Setor de TI criou 20% das vagas remotas nas áreas mais procuradas em 2020
 date: 2021-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Pesquisa do LinkedIn mostra que, a cada cinco postos criados entre as 15 categorias de emprego mais promissoras, um deles é preenchido pelo setor de Tecnologia da Informação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senadores criticam visita de Maduro ao Brasil com honras de chefe de Estado"
+title: Senadores criticam visita de Maduro ao Brasil com honras de chefe de Estado
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os senadores Eduardo Girão (Novo-CE) e Jorge Seif (PL-SC) apresentaram em Plenário nesta segunda-feira (29) voto de repúdio ao presidente da República, Luiz Inácio Lula da Silva, em razão da visita do presidente da Venezuela, Nicolás Maduro, ao Brasil e de sua recepção no país com honras de chefe de Estado. Maduro está em Brasília para a cúpula de líderes da América do Sul que acontece nesta terça (30) e sua vinda provocou críticas dos senadores da oposição.
 

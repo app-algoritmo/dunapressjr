@@ -1,11 +1,12 @@
 ---
-title: "Nenhuma Bala Sequer para Ucrânia, Robert Fico"
+title: Nenhuma Bala Sequer para Ucrânia, Robert Fico
 date: 2023-10-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As recentes eleições legislativas na Eslováquia trouxeram uma reviravolta política que está causando preocupação tanto dentro como fora das fronteiras deste país de 5,4 milhões de habitantes, membro da União Europeia e da NATO. O partido populista Direção-social Democracia (Smer-SSD), liderado pelo antigo primeiro-ministro Robert Fico, emergiu como o vencedor das eleições com 23,3% dos votos, levantando sérias questões sobre o futuro da política externa eslovaca e, mais especificamente, sobre o apoio à Ucrânia.
 

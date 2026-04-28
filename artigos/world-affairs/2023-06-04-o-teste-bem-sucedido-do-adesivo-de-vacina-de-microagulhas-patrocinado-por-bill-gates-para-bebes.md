@@ -1,11 +1,13 @@
 ---
-title: "O teste 'bem-sucedido' do 'adesivo de vacina de microagulhas' patrocinado por Bill Gates para bebês"
+title: O teste 'bem-sucedido' do 'adesivo de vacina de microagulhas' patrocinado por
+  Bill Gates para bebês
 date: 2023-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma empresa de biotecnologia com sede em Atlanta anunciou na semana passada que, com o apoio da Fundação Bill & Melinda Gates, concluiu com sucesso o primeiro ensaio clínico de uma vacina sem injeção de microarray em crianças de até 9 meses de idade.
 

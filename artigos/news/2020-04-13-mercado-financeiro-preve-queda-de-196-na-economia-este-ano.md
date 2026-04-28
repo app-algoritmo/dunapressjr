@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê queda de 1,96% na economia este ano"
+title: Mercado financeiro prevê queda de 1,96% na economia este ano
 date: 2020-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Previsão do recuo de PIB passou de 1,18% para 1,96%
 

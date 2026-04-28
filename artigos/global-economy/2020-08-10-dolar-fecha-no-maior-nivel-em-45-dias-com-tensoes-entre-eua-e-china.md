@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no maior nível em 45 dias com tensões entre EUA e China"
+title: Dólar fecha no maior nível em 45 dias com tensões entre EUA e China
 date: 2020-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Bolsa de valores subiu 0,65%, depois de alternar altas e baixas**.
 

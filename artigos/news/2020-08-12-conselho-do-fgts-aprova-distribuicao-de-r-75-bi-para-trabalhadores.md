@@ -1,11 +1,12 @@
 ---
-title: "Conselho do FGTS aprova distribuição de R$ 7,5 bi para trabalhadores"
+title: Conselho do FGTS aprova distribuição de R$ 7,5 bi para trabalhadores
 date: 2020-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Dinheiro será depositado até 31 de agosto nas contas vinculadas**.
 

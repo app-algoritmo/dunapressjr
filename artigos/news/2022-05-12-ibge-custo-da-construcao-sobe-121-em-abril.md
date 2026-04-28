@@ -1,11 +1,12 @@
 ---
-title: "IBGE: custo da construção sobe 1,21% em abril"
+title: 'IBGE: custo da construção sobe 1,21% em abril'
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Taxa é superior ao 0,99% de março.
 

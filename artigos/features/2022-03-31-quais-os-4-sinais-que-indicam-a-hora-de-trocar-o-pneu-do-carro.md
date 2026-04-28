@@ -1,11 +1,12 @@
 ---
-title: "Quais os 4 sinais que indicam a hora de trocar o pneu do carro?"
+title: Quais os 4 sinais que indicam a hora de trocar o pneu do carro?
 date: 2022-03-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Os pneus podem ser a parte mais importante do seu veículo. Os pneus suportam a carga do veículo, absorvem os choques da estrada e mantêm a direção da viagem. Os pneus também são componentes essenciais para frenagem e tração em diferentes superfícies, incluindo cascalho, pavimento e, às vezes, até água e gelo.
 

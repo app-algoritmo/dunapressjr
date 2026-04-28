@@ -1,11 +1,13 @@
 ---
-title: "Paralelos Ameaçadores: Como a História de Borodino se Reflete nas Tensões Atuais entre o Ocidente, Rússia e China"
+title: 'Paralelos Ameaçadores: Como a História de Borodino se Reflete nas Tensões
+  Atuais entre o Ocidente, Rússia e China'
 date: 2024-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 À medida que observo as recentes ações ocidentais na Ucrânia e as crescentes ameaças dos EUA em relação à China, vejo paralelos preocupantes com a Batalha de Borodino. Vamos explorar como essa batalha histórica pode ser relevante para a situação atual.
 

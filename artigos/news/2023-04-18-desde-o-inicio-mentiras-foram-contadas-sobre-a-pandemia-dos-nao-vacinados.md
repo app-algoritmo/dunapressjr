@@ -1,11 +1,12 @@
 ---
-title: "Desde o início, mentiras foram contadas sobre a “pandemia dos não vacinados”"
+title: Desde o início, mentiras foram contadas sobre a “pandemia dos não vacinados”
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Isso não é surpresa, mas mais evidências são sempre boas. Desta vez ela é do estado de Maryland.
 

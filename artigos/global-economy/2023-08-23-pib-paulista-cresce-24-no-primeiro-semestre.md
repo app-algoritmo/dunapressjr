@@ -1,11 +1,12 @@
 ---
-title: "PIB paulista cresce 2,4% no primeiro semestre"
+title: PIB paulista cresce 2,4% no primeiro semestre
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Agropecuária e segmento de serviços impulsionam expansão da economia estadual entre janeiro e junho.
 

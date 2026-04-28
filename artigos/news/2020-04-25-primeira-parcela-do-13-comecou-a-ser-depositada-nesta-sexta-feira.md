@@ -1,11 +1,12 @@
 ---
-title: "Primeira parcela do 13º começou a ser depositada nesta sexta-feira"
+title: Primeira parcela do 13º começou a ser depositada nesta sexta-feira
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aposentados e pensionistas receberão a primeira parte do abono anual, conhecido como 13º, a partir desta sexta-feira (24). O depósito será realizado no período de 24 de abril a 8 de maio, conforme a Tabela de Pagamento de 2020.
 

@@ -1,11 +1,13 @@
 ---
-title: "Tensões em Escalada:  Presidente dos EUA Responsabiliza Grupos Radicais Apoiados pelo Irã por Ataque a Soldados na Jordânia"
+title: 'Tensões em Escalada:  Presidente dos EUA Responsabiliza Grupos Radicais Apoiados
+  pelo Irã por Ataque a Soldados na Jordânia'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em meio ao trágico ataque com drone na Jordânia, o presidente dos Estados Unidos afirmou que os três membros das Forças Armadas foram mortos durante um ataque aéreo em forças americanas estacionadas no nordeste da Jordânia, próximo à fronteira com a Síria. Enquanto os EUA buscam respostas, o presidente acusou grupos militantes radicalizados apoiados pelo Irã, operando em Síria e Iraque, pela execução do ataque. No entanto, nenhuma evidência específica foi citada
 

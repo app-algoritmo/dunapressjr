@@ -1,11 +1,13 @@
 ---
-title: "Projeto proíbe privilégio a candidato em razão da orientação sexual em seleção para estágio"
+title: Projeto proíbe privilégio a candidato em razão da orientação sexual em seleção
+  para estágio
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Alex Santana cita edital que vetava contratação de pessoa cisgênero heterossexual.
 

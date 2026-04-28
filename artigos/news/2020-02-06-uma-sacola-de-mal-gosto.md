@@ -1,11 +1,12 @@
 ---
-title: "Uma 'sacola' de mal gosto"
+title: Uma 'sacola' de mal gosto
 date: 2020-02-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *No Dia Internacional da Lembrança do Holocausto uma sacola com uma estrela de Davi contendo sabão e literatura antissemita foi deixada do lado de fora de uma exposição sobre o Holocausto*
 

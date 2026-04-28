@@ -1,11 +1,13 @@
 ---
-title: "Setor de crédito cooperativo apresenta crescimento sustentável e forte presença no Brasil"
+title: Setor de crédito cooperativo apresenta crescimento sustentável e forte presença
+  no Brasil
 date: 2023-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cooperativas expandem seu alcance e fortalecem o sistema financeiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Grupos mais expostos ao contágio terão prioridade para testes rápidos"
+title: Grupos mais expostos ao contágio terão prioridade para testes rápidos
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A estimativa, com base em dados de outros países, é de até 15% de incidência de COVID-19 nesses grupos, o que corresponderia, no Brasil, a cerca de 2 milhões de pessoas com potencial de utilização de pelo menos um teste rápido sorológico.
 

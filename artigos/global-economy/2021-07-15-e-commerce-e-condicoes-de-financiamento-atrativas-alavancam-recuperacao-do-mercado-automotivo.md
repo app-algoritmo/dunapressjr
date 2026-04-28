@@ -1,11 +1,13 @@
 ---
-title: "E-commerce e condições de financiamento atrativas alavancam recuperação do mercado automotivo"
+title: E-commerce e condições de financiamento atrativas alavancam recuperação do
+  mercado automotivo
 date: 2021-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Estudo realizado pela Tecnobank aponta setor em alta no primeiro quadrimestre, com perspectivas de crescimento ainda maiores ao longo de 2021.
 

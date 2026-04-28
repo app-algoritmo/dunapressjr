@@ -1,11 +1,13 @@
 ---
-title: "Brasil recebe aprovação da OCDE de novos instrumentos legais na área de Ciência e Tecnologia"
+title: Brasil recebe aprovação da OCDE de novos instrumentos legais na área de Ciência
+  e Tecnologia
 date: 2020-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 País possui o maior número de requisitos para entrada no organismo internacional.
 

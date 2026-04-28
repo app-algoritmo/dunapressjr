@@ -1,11 +1,13 @@
 ---
-title: "AUXÍLIO EMERGENCIAL DO GOVERNO FEDERAL: novo lote com mais de um milhão de pessoas é liberado para pagamento"
+title: 'AUXÍLIO EMERGENCIAL DO GOVERNO FEDERAL: novo lote com mais de um milhão de
+  pessoas é liberado para pagamento'
 date: 2020-06-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Pedidos feitos entre 27 de maio e 16 de junho foram encaminhados pelo Ministério da Cidadania à Caixa para contemplar mais pessoas com direito ao benefício.
 

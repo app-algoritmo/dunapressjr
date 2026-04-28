@@ -1,11 +1,12 @@
 ---
-title: "Caxias Shopping promove Feira de Adoção Pet neste sábado"
+title: Caxias Shopping promove Feira de Adoção Pet neste sábado
 date: 2023-05-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Ação em parceria com a ONG Gatinhos da Praça incentiva a adoção de cães e gatos.
 

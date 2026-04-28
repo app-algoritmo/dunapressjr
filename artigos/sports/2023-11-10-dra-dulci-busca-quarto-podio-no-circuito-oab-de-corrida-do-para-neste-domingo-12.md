@@ -1,11 +1,13 @@
 ---
-title: "Dra. Dulci busca quarto pódio no Circuito OAB de Corrida do Pará neste domingo (12)"
+title: Dra. Dulci busca quarto pódio no Circuito OAB de Corrida do Pará neste domingo
+  (12)
 date: 2023-11-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Advogada e professora de Belém soma dois ouros e um bronze na categoria Advocacia - 50 a 59 anos - da edição 2023 da prova, que terá sua penúltima etapa em Parauapebas, com largada às 6h, para 7 km de percurso.
 

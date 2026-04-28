@@ -1,11 +1,12 @@
 ---
-title: "PF incinera cerca de 490 kg de cocaína no interior de SP"
+title: PF incinera cerca de 490 kg de cocaína no interior de SP
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Jales/SP - A Polícia Federal incinerou, na manhã desta quarta-feira (10), em Jales/SP, cerca de 490 kg de cocaína que foram apreendidos na última sexta-feira (05) durante uma operação conjunta com a Polícia Militar no aeroporto da cidade de Fernandópolis/SP.
 

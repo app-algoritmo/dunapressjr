@@ -1,11 +1,12 @@
 ---
-title: "Grupo Positivo completa 50 anos em 2022 e comemora recuperação pós-pandemia"
+title: Grupo Positivo completa 50 anos em 2022 e comemora recuperação pós-pandemia
 date: 2022-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O grupo educacional paranaense Positivo completa 50 anos em 2022 com motivos para comemorar. Depois de dois anos de pandemia, entre o choque do isolamento, a adaptação ao ensino presencial, a perda de renda das famílias e a readaptação à nova realidade pós-pandemia, o Positivo começa a apresentar sinais de retomada de crescimento. "Em 2020 e 2021 fomos afetados sobremaneira por conta da crise econômica decorrente da covid-19. Muitas famílias perderam suas rendas e, embora tivéssemos adotado alguns programas de suporte a essas pessoas, muitos ficaram inadimplentes e outros não conseguiram manter os filhos na escola particular", conta Lucas Guimarães, presidente da Positivo Educacional.
 

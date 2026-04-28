@@ -1,11 +1,12 @@
 ---
-title: "América Latina e Caribe enfrentam desafios econômicos em 2023"
+title: América Latina e Caribe enfrentam desafios econômicos em 2023
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Baixo crescimento global, aumento das taxas de juros e volatilidade financeira afetam a região, segundo CEPAL.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ódio, vingança, perdão e fé: Luz e sombras nas áridas terras antigas"
+title: 'Ódio, vingança, perdão e fé: Luz e sombras nas áridas terras antigas'
 date: 2020-05-18
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Jean-Jacques Rousseau (Genebra, 28 de junho de 1712 — Ermenonville, 2 de julho de 1778)  foi um dos filósofos que mais relevância possui na formação do pensamento ocidental nas últimas décadas. Embora muito do que se apregoe sobre sua filosofia seja fruto de algo apreendido pelo imaginário popular e não o que a sua obra indica, devemos deixar claro que, de fato, para ele as estruturas educacionais e sociais eram responsáveis por denegrir a condição humana, pervertendo a sua natureza.  Claro essa é uma definição bem limitada, pois a obra, repito, possui um escopo mais denso e necessita ser lida.
 

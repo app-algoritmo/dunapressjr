@@ -1,11 +1,13 @@
 ---
-title: "Medvedev aconselha a Europa a não se deixar levar pelos seus 'jogos de aviões de brincar'"
+title: Medvedev aconselha a Europa a não se deixar levar pelos seus 'jogos de aviões
+  de brincar'
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A vice-presidente do Conselho de Segurança da Federação Russa chamou a atenção para as palavras da ministra das Relações Exteriores da Alemanha, Annalena Berbock, que chamou esta decisão de "um bom dia para a Ucrânia" e para a Europa.
 

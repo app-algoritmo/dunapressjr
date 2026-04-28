@@ -1,11 +1,12 @@
 ---
-title: "Órgãos de segurança e logística atuarão na aplicação do Enem 2020"
+title: Órgãos de segurança e logística atuarão na aplicação do Enem 2020
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Faltam cerca de três meses para a aplicação das provas do Exame Nacional do Ensino Médio (Enem) 2020, mas o planejamento de segurança e logística já começou. Afinal, são 5,7 milhões de inscritos que vão fazer o teste em mais de 1,7 mil municípios.
 

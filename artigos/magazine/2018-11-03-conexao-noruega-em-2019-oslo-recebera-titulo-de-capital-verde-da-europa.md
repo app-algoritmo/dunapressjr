@@ -1,11 +1,12 @@
 ---
-title: "Conexão Noruega – Em 2019 Oslo receberá título de Capital Verde da Europa"
+title: Conexão Noruega – Em 2019 Oslo receberá título de Capital Verde da Europa
 date: 2018-11-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Oslo, capital da Noruega, receberá o título “Capital Verde da Europa 2019”. A maior cidade norueguesa saiu vitoriosa graças aos seus investimentos em Educação nas áreas de biodiversidade, segurança viária, energias renováveis e saúde. Oslo competiu com Lahti (Finlândia), Tallinn (Estónia), Ghent (Bélgica) e Lisboa (Portugal).
 

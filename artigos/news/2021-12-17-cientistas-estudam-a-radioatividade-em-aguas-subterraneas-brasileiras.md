@@ -1,11 +1,12 @@
 ---
-title: "Cientistas estudam a radioatividade em águas subterrâneas brasileiras"
+title: Cientistas estudam a radioatividade em águas subterrâneas brasileiras
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As águas subterrâneas são importantes fontes de abastecimento de água, principalmente nas regiões rurais, onde as casas em geral utilizam poços artesianos para suprir suas necessidades. Normalmente a qualidade destas águas não passa por avaliações mais criteriosas, o que deixa em aberto a possibilidade da existência de riscos desconhecidos para a saúde da população. Por isso cientistas do Instituto de Radioproteção e Dosimetria, IRD/CNEN, associados á Rede de Geotecnologia em Águas Subterrâneas, RESUB, da Universidade Federal Fluminense, estão avaliando os níveis de concentrações de isótopos radioativos (átomos que emitem radiação) que ocorram naturalmente em depósitos de águas subterrâneas. Essa pesquisa busca identificar os principais fatores que influenciam as concentrações e estimar os níveis da exposição natural da população à radiação, devida ao consumo dessas águas.
 

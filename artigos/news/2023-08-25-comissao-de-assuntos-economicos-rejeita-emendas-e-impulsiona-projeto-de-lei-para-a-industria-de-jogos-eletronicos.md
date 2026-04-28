@@ -1,11 +1,13 @@
 ---
-title: "Comissão de Assuntos Econômicos rejeita emendas e impulsiona projeto de lei para a indústria de jogos eletrônicos"
+title: Comissão de Assuntos Econômicos rejeita emendas e impulsiona projeto de lei
+  para a indústria de jogos eletrônicos
 date: 2023-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Marco legal para jogos eletrônicos avança no Congresso. 
 

@@ -1,11 +1,12 @@
 ---
-title: "D. Pedro I e o Dia Do Fico"
+title: D. Pedro I e o Dia Do Fico
 date: 2022-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O primeiro ato formal de desobediência à Corte portuguesa, praticado pelo príncipe D. Pedro como regente do Brasil, corporificou-se no "Dia do Fico", que aconteceu em 9 de janeiro de 1822, no Paço Real, no Rio de Janeiro. Com esse gesto de insubordinação às Cortes Gerais, Extraordinárias e Constituintes da Nação Portuguesa, a separação do Brasil de Portugal estava informalmente realizada. Era o primeiro sintoma de franca desavença. O Príncipe havia recebido ordem de regressar a Portugal para aprimorar a sua educação. Mas, com ordem de embarque, acatou o pedido que lhe endereçaram os cariocas para permanecer no Brasil.
 

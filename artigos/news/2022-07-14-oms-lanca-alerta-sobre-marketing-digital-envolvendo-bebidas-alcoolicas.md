@@ -1,11 +1,12 @@
 ---
-title: "OMS lança alerta sobre marketing digital envolvendo bebidas alcoólicas"
+title: OMS lança alerta sobre marketing digital envolvendo bebidas alcoólicas
 date: 2022-07-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Em novo relatório, divulgado no dia 12 de maio pela Organização Mundial da Saúde (OMS), foi lançado o alerta sobre “técnicas sofisticadas de marketing digital”, envolvendo promoção de bebidas alcoólicas, e como isso afeta os menores de idade e jovens.
 

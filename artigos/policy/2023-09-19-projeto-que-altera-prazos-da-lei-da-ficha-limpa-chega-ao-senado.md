@@ -1,11 +1,12 @@
 ---
-title: "Projeto que altera prazos da Lei da Ficha Limpa chega ao Senado"
+title: Projeto que altera prazos da Lei da Ficha Limpa chega ao Senado
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Senado vai analisar o projeto que altera prazos da [Lei da Ficha Limpa](https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp135.htm#art2) e reduz o período de inelegibilidade em algumas situações. O [PLP 192/2023](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2387067) também unifica prazos de afastamento de candidatos de cargos públicos e concilia a ficha limpa com a nova regra sobre improbidade administrativa. 
 

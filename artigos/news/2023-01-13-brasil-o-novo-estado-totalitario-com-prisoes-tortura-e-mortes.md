@@ -1,12 +1,13 @@
 ---
-title: "Brasil, o novo Estado totalitário com prisões, tortura e mortes"
+title: Brasil, o novo Estado totalitário com prisões, tortura e mortes
 date: 2023-01-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Oslo, 13.1.23 - Paulo Fernando De Barros | Certamente ninguém poderia afirmar até o dia 31.12.22 que o Brasil seria um Estado totalitário no ano 2023.
 

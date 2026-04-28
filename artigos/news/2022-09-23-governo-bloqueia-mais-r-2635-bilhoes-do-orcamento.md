@@ -1,11 +1,12 @@
 ---
-title: "Governo bloqueia mais R$ 2,635 bilhões do Orçamento"
+title: Governo bloqueia mais R$ 2,635 bilhões do Orçamento
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Manutenção do teto de gastos justificou contingenciamento.
 

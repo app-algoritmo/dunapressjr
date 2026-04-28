@@ -1,11 +1,12 @@
 ---
-title: "Dead City Trouxe de Volta o Apocalipse Zumbi - AMC"
+title: Dead City Trouxe de Volta o Apocalipse Zumbi - AMC
 date: 2023-10-24
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

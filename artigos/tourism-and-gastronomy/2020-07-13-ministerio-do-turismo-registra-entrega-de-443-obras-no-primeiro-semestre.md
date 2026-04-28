@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Turismo registra entrega de 443 obras no primeiro semestre"
+title: Ministério do Turismo registra entrega de 443 obras no primeiro semestre
 date: 2020-07-13
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Intervenções em todo o país contaram com repasses de mais de R$ 200 milhões do órgão.
 

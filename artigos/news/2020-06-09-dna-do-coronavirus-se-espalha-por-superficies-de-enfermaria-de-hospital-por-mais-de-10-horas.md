@@ -1,11 +1,13 @@
 ---
-title: "DNA do coronavírus se espalha por superfícies de  enfermaria de hospital por mais de 10 horas"
+title: DNA do coronavírus se espalha por superfícies de  enfermaria de hospital por
+  mais de 10 horas
 date: 2020-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O DNA do vírus deixado no leito de um hospital foi encontrado em quase metade de todos os locais amostrados em uma enfermaria em 10 horas e persistiu por pelo menos cinco dias, de acordo com um novo estudo da UCL e do Great Ormond Street Hospital (GOSH).
 

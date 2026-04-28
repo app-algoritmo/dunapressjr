@@ -1,11 +1,12 @@
 ---
-title: "Comissão Nacional de Energia Nuclear completou 64 anos de existência"
+title: Comissão Nacional de Energia Nuclear completou 64 anos de existência
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No dia em que completou seus 64 anos de existência, a Comissão Nacional de Energia Nuclear (Cnen) promoveu na tarde desse sábado (10), nas atividades do Mês Nacional da Ciência, Tecnologia e Inovações – sob a coordenação do Ministério da Ciência, Tecnologia e Inovações (MCTI) – entrevista com o presidente da autarquia vinculada ao Ministério, Paulo Roberto Pertusi. Criada em 1956 e estruturada pela Lei n. 4.118/1962, que dispõe sobre a Política Nacional de Energia Nuclear, a Cnen é um órgão superior de planejamento, orientação, supervisão, fiscalização, além de estabelecer normas e regulamentos em radioproteção. É responsável por regular, licenciar e fiscalizar a produção e o uso da energia nuclear no Brasil.
 

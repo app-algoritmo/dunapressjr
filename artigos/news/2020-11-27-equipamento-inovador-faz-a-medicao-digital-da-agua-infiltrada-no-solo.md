@@ -1,11 +1,12 @@
 ---
-title: "Equipamento inovador faz a medição digital da água infiltrada no solo"
+title: Equipamento inovador faz a medição digital da água infiltrada no solo
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma parceria entre a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) Solos (RJ) e o também carioca Centro Brasileiro de Pesquisas Físicas (CBPF) desenvolveu solução inovadora para a automação da coleta de dados no campo, mais especificamente da infiltração e do fluxo de água no solo. Trata-se de um novo permeâmetro - equipamento mais usado no mundo para avaliar a condução da água nos solos - capaz de fazer essa coleta digitalmente, por meio de um microcomputador de baixo custo. Com isso, reduz o tempo e os custos da avaliação de parâmetros hidráulicos, que permite conhecer o processo de absorção de água pela terra. As instituições buscam agora um parceiro para produzir o equipamento em larga escala e inseri-lo no mercado.
 

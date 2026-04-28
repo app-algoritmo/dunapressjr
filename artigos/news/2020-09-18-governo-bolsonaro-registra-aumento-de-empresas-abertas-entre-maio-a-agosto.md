@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro registra aumento de empresas abertas entre maio a agosto"
+title: Governo Bolsonaro registra aumento de empresas abertas entre maio a agosto
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O tempo médio de abertura reduziu em 2 dias, o que mostra a retomada do crescimento da economia do País. 0 fornecimento de alimentos para consumo em casa está no ranking dos setores que mais abriram empresas no segundo quadrimestre.
 

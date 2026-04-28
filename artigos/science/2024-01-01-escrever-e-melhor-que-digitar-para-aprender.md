@@ -1,11 +1,12 @@
 ---
-title: "Escrever é Melhor que Digitar para Aprender"
+title: Escrever é Melhor que Digitar para Aprender
 date: 2024-01-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 Escrever e digitar são duas formas distintas de interação com a informação. No contexto do aprendizado, muitos argumentam que a ação de escrever à mão oferece benefícios únicos que não podem ser replicados pela digitação. Este artigo explora as razões por trás da crença de que escrever é uma abordagem mais eficaz para o processo de aprendizagem em comparação com digitar.
 

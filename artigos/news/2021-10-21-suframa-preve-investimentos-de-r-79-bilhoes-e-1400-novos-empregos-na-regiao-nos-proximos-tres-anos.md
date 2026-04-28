@@ -1,11 +1,13 @@
 ---
-title: "Suframa prevê investimentos de R$ 7,9 bilhões e 1.400 novos empregos na região nos próximos três anos"
+title: Suframa prevê investimentos de R$ 7,9 bilhões e 1.400 novos empregos na região
+  nos próximos três anos
 date: 2021-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na 300ª Reunião Ordinária de seu Conselho de Administração, autarquia avaliou pauta com 31 projetos industriais e de serviços para a área da Zona Franca de Manaus.
 

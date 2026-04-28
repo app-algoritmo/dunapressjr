@@ -1,11 +1,13 @@
 ---
-title: "Violência doméstica e familiar contra a mulher, o que fazer em diferentes casos ou situações?"
+title: Violência doméstica e familiar contra a mulher, o que fazer em diferentes casos
+  ou situações?
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Denunciar!  Sempre denunciar! Esse é o melhor caminho! Violência psicológica mediante ameaça ([art. 7, II](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)) é um crime previsto na Lei Maria da Penha ([Lei 11.340/2006](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)), e se encaixa perfeitamente nessa hipótese, tendo em vista que a mulher teve relação íntima e convive o conviveu com o agressor, independentemente de morar ou ter morado junto com ele ou não ([art. 5, III](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)).
 

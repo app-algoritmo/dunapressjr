@@ -1,11 +1,12 @@
 ---
-title: "Estado de SP gera 156,3 mil empregos formais no 3º trimestre"
+title: Estado de SP gera 156,3 mil empregos formais no 3º trimestre
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Alta é de 1,2% em relação ao trimestre imediatamente anterior; na comparação com 2022, são 396.975 postos de trabalho a mais.
 

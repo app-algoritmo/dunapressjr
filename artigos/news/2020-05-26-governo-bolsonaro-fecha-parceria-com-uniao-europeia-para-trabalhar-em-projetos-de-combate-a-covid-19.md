@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro fecha parceria com União Europeia para trabalhar em projetos de combate à Covid-19"
+title: Governo Bolsonaro fecha parceria com União Europeia para trabalhar em projetos
+  de combate à Covid-19
 date: 2020-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal fechou uma parceria entre pesquisadores do Brasil e da União Europeia para trabalharem em projetos relacionados a ações nas áreas de diagnóstico, tratamento e desenvolvimento de vacinas contra a Covid-19. O anúncio da parceria foi feito durante videoconferência realizada na sexta-feira (22). 
 

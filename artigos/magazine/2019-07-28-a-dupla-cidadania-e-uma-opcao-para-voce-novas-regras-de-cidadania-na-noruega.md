@@ -1,12 +1,13 @@
 ---
-title: "A dupla cidadania é uma opção para você? - novas regras de cidadania na Noruega"
+title: A dupla cidadania é uma opção para você? - novas regras de cidadania na Noruega
 date: 2019-07-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 “Durante o mês de maio, a Norwegians Worldwide (Nordmanns-Forbundet) realizou uma série de seminários sobre as novas leis de dupla cidadania na Noruega nas principais cidades dos Estados Unidos: São Francisco, Austin, Houston e Seattle. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro faz vistorias em agências do INSS para garantir retorno seguro"
+title: Governo Bolsonaro faz vistorias em agências do INSS para garantir retorno seguro
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Somente segurados agendados serão atendidos, por meio de marcações feitas pelo Meu INSS ou Central 135. Somente segurados agendados serão atendidos, por meio de marcações feitas pelo Meu INSS ou Central 135. 
 

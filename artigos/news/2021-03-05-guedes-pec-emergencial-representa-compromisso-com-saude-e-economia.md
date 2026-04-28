@@ -1,11 +1,12 @@
 ---
-title: "Guedes: PEC Emergencial representa compromisso com saúde e economia"
+title: 'Guedes: PEC Emergencial representa compromisso com saúde e economia'
 date: 2021-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro gravou vídeo ao lado de Márcio Bittar, relator do texto.
 

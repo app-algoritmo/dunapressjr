@@ -1,11 +1,13 @@
 ---
-title: "Online inscrição de veterinários no programa de combate à brucelose e tuberculose animal"
+title: Online inscrição de veterinários no programa de combate à brucelose e tuberculose
+  animal
 date: 2020-05-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Além da habilitação, será possível solicitar a atualização cadastral e a desabilitação.
 

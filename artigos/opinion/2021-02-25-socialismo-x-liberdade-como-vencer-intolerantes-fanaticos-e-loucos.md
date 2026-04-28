@@ -1,11 +1,12 @@
 ---
-title: "Socialismo X Liberdade: Como vencer intolerantes, fanáticos e loucos?"
+title: 'Socialismo X Liberdade: Como vencer intolerantes, fanáticos e loucos?'
 date: 2021-02-25
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Os judeus foram espancados nas ruas, não por soldados nazistas, mas por seus vizinhos, até mesmo por crianças. Como a história é editada, a maioria das pessoas hoje não percebe que, para chegar ao ponto em que os soldados nazistas poderiam facilmente prender milhares de judeus, **o governo primeiro fez com que seus próprios vizinhos os odiassem simplesmente por serem judeus. Como isso é diferente de odiar alguém por suas opiniões políticas?** (atriz Gina Carano) (grifo nosso) (retirado do site da rádio Jovem Pan)
 

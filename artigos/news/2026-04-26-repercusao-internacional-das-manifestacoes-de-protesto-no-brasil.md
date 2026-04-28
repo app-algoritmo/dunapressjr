@@ -1,11 +1,12 @@
 ---
-title: "Repercusao internacional das manifestacoes de protesto no Brasil"
+title: Repercusao internacional das manifestacoes de protesto no Brasil
 date: 2026-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mídia internacional destaca protestos no Brasil contra os Globalistas e o Grande Resert.
 

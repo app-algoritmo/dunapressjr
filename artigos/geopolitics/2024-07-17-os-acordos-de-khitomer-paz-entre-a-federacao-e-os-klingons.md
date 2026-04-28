@@ -1,12 +1,13 @@
 ---
-title: "Os Acordos de Khitomer: Paz entre a Federação e os Klingons"
+title: 'Os Acordos de Khitomer: Paz entre a Federação e os Klingons'
 date: 2024-07-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Video library
+- Geopolitics
+- Video library
 ---
+
 
 Nos anais da história diplomática, os acordos e tratados têm desempenhado papéis cruciais na transformação de conflitos em cooperação, como exemplificado pelos Acordos de Khitomer no universo de Star Trek e pelos eventos significativos da era soviética, incluindo a destruição de Chernobyl, a queda do Muro de Berlim e o Tratado de Não-Proliferação Nuclear (TNP). Esses eventos destacam a capacidade das civilizações, sejam fictícias ou reais, de enfrentar crises profundas e emergir transformadas através da diplomacia e da colaboração.
 

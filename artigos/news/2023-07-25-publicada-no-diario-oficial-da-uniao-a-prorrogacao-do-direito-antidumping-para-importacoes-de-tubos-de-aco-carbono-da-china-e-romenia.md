@@ -1,11 +1,13 @@
 ---
-title: "Publicada no Diário Oficial da União a prorrogação do direito antidumping para Importações de tubos de aço carbono da China e Romênia"
+title: Publicada no Diário Oficial da União a prorrogação do direito antidumping para
+  Importações de tubos de aço carbono da China e Romênia
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resolução GECEX Nº 497 estende o período de aplicação do antidumping por até cinco anos, visando proteger a indústria nacional.
 

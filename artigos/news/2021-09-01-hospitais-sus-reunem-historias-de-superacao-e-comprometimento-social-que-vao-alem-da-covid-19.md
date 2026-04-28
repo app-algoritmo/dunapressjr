@@ -1,11 +1,13 @@
 ---
-title: "Hospitais SUS reúnem histórias de superação e comprometimento social que vão além da covid-19"
+title: Hospitais SUS reúnem histórias de superação e comprometimento social que vão
+  além da covid-19
 date: 2021-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A técnica em enfermagem, Maria Olinda Alves Stoco, perdeu a conta de quantos pacientes já atendeu em duas décadas como profissional da linha de frente do sistema de saúde. Hoje, com 51 anos, ela dedicou quase metade de sua vida a salvar a dos outros, sem nunca esquecer o porquê de ter escolhido essa profissão, a qual chama de “chamado divino”. Com uma dedicação ininterrupta de 23 anos, a profissional faz parte do quadro de funcionários do Hospital Universitário Cajuru (HUC), instituição com atendimento 100% Sistema Único de Saúde (SUS), em Curitiba (PR), que completa 63 anos no próximo dia 30 de agosto.
 

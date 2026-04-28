@@ -1,11 +1,13 @@
 ---
-title: "Exame toxicológico anual obrigatório   para professores da rede pública no Brasil"
+title: Exame toxicológico anual obrigatório   para professores da rede pública no
+  Brasil
 date: 2020-12-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os exames para detecção do uso de drogas ilícitas deverão ser realizados antes da admissão do professor e depois anualmente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto de lei torna obrigatório socorrer animais atropelados"
+title: Projeto de lei torna obrigatório socorrer animais atropelados
 date: 2023-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 172/23 fixa a obrigação de prestar socorro a animais atropelados, independentemente de envolvimento no acidente, bem como de comunicar o caso a autoridade pública competente. Quem descumprir a medida estará sujeito à multa.
 

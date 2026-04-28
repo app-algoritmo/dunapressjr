@@ -1,11 +1,12 @@
 ---
-title: "Plataformas LMS para empresas: o que são e quais as vantagens"
+title: 'Plataformas LMS para empresas: o que são e quais as vantagens'
 date: 2022-06-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Você já ouviu falar em plataformas LMS para empresas? 
 

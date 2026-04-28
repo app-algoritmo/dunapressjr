@@ -1,11 +1,13 @@
 ---
-title: "Tragédia em Châteauroux: Adolescente Francês Assassinado por Imigrante Afegão em Situação Irregular"
+title: 'Tragédia em Châteauroux: Adolescente Francês Assassinado por Imigrante Afegão
+  em Situação Irregular'
 date: 2024-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No último sábado, a pacata localidade de Châteauroux, no departamento de Indre, foi palco de uma tragédia que chocou a comunidade. Mathis Marchais, um jovem de 15 anos, encontrou seu destino de maneira brutal nas mãos de um imigrante afegão em situação irregular. 
 

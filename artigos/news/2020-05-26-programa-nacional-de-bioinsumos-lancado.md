@@ -1,11 +1,12 @@
 ---
-title: "Programa Nacional de Bioinsumos lançado"
+title: Programa Nacional de Bioinsumos lançado
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O foco é aproveitar o potencial da biodiversidade brasileira para reduzir a dependência dos produtores rurais em relação aos insumos importados e ampliar oferta de matéria-prima para o setor.
 

@@ -1,11 +1,13 @@
 ---
-title: "COVID-19: IBGE vai ajudar o Ministério da Saúde a escolher a melhor forma de fazer testagens"
+title: 'COVID-19: IBGE vai ajudar o Ministério da Saúde a escolher a melhor forma
+  de fazer testagens'
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante coletiva à imprensa realizada no Palácio do Planalto nesta segunda-feira (27), a equipe do Ministério da Saúde tratou das ações mais recentes da Pasta e das novas informações sobre o novo coronavírus. O ministro Nelson Teich anunciou para esta semana a realização de reuniões com o Conselho Nacional de Secretários de Saúde (Conass) e Conselho Nacional de Secretarias Municipais de Saúde (Conasems).
 

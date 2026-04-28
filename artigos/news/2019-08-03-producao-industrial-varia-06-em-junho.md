@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial varia -0,6% em junho"
+title: Produção industrial varia -0,6% em junho
 date: 2019-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O setor industrial acumulou queda de 1,6% nos seis primeiros meses de 2019 
 

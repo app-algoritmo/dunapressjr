@@ -1,11 +1,12 @@
 ---
-title: "I Encontro Monárquico do ABC"
+title: I Encontro Monárquico do ABC
 date: 2019-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Movimento Nação Real São Paulo, tem o privilégio e a honra
 de receber Sua Alteza Imperial e Real o Príncipe Dom Bertrand de Orléans e

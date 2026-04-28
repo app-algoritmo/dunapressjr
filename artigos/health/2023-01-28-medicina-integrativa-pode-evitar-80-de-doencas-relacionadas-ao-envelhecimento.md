@@ -1,11 +1,12 @@
 ---
-title: "Medicina integrativa pode evitar 80% de doenças relacionadas ao envelhecimento"
+title: Medicina integrativa pode evitar 80% de doenças relacionadas ao envelhecimento
 date: 2023-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 80% das doenças atreladas ao processo de envelhecimento são completamente evitáveis com o apoio da medicina funcional e integrativa. Segundo um estudo da Universidade de Stanford, nos Estados Unidos, o estilo de vida e o ambiente são decisivos para uma pessoa viver mais de 65 anos. Por isso, hospitais públicos e privados têm dado novos passos na direção de tratamentos que olhem para além da doença do paciente. "A saúde precisa começar por dentro e levar em consideração todos os aspectos que formam o ser humano. É nesse ponto que entra a medicina integrativa, como um elo para guiar a promoção de saúde e qualidade de vida", afirma a clínica-geral dos hospitais Universitário Cajuru e Marcelino Champagnat, Larissa Hermann.
 

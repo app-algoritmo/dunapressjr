@@ -1,11 +1,12 @@
 ---
-title: "MEC vai lançar edital com novos prazos para o Prouni"
+title: MEC vai lançar edital com novos prazos para o Prouni
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estudantes que estão na lista de espera não serão prejudicados. Medida é necessária por conta da paralisação de atividades em diversas localidades do país; candidatos do Fies também terão novos prazos.
 

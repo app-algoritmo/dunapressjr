@@ -1,12 +1,13 @@
 ---
-title: "A missão de um gato"
+title: A missão de um gato
 date: 2024-06-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A maioria das pessoas pensa que gatos não fazem nada, são preguiçosos e só comem e dormem…
 Não é bem assim!!

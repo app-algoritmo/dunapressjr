@@ -1,11 +1,12 @@
 ---
-title: "Arqueólogos egípcios descobrem tumbas raras que datam de antes dos faraós"
+title: Arqueólogos egípcios descobrem tumbas raras que datam de antes dos faraós
 date: 2021-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Eles também encontraram tumbas próximas do período Hyksos posterior (1650 a 1500 aC), quando migrantes da Ásia Ocidental tomaram o país, pondo fim ao Império Médio do Egito.
 

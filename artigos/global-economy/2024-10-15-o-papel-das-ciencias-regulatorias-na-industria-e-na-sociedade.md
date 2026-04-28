@@ -1,11 +1,12 @@
 ---
-title: "O Papel das Ciências Regulatórias na Indústria e na Sociedade"
+title: O Papel das Ciências Regulatórias na Indústria e na Sociedade
 date: 2024-10-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As ciências regulatórias são um dos campos mais complexos e cruciais no desenvolvimento de produtos e serviços que afetam diretamente a saúde pública e a economia global. A professora Doutora Natália Bellan, com vasta experiência em ciências regulatórias e especialização em assuntos globais, destaca como essas regulamentações impactam diversos setores, especialmente a indústria farmacêutica, dispositivos médicos, cosméticos, e até produtos agrícolas e cigarros eletrônicos.
 

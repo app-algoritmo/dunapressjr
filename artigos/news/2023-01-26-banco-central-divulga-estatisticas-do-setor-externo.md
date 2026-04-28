@@ -1,11 +1,12 @@
 ---
-title: "Banco Central divulga estatísticas do setor Externo"
+title: Banco Central divulga estatísticas do setor Externo
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As transações correntes do balanço de pagamentos foram deficitárias em US$10,9 bilhões em dezembro de 2022, em relação a dezembro de 2021 resultado negativo de US$7,7 bilhões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Teto da aposentadoria do INSS sobe para R$ 7.087"
+title: Teto da aposentadoria do INSS sobe para R$ 7.087
 date: 2022-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Benefícios seguem variação do INPC e sobem 10,16%.
 

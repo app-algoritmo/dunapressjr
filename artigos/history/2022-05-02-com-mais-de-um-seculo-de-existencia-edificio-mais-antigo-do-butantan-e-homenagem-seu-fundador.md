@@ -1,11 +1,13 @@
 ---
-title: "Com mais de um século de existência, edifício mais antigo do Butantan é homenagem seu fundador"
+title: Com mais de um século de existência, edifício mais antigo do Butantan é homenagem
+  seu fundador
 date: 2022-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O prédio mais antigo do Instituto Butantan é uma homenagem ao médico sanitarista que foi seu fundador e primeiro diretor. Inaugurado em 1914 com o nome de Edifício Vital Brazil, foi um dos primeiros laboratórios usados por Vital para pesquisar e desenvolver seus soros e vacinas. Rebatizado em 2014 e atualmente conhecido como Prédio da Biblioteca ou Prédio Central, abriga a Biblioteca do Butantan, com importante acervo especializado de mais de 15 mil obras, e o Centro de Memória, além de laboratórios de pesquisa.
 

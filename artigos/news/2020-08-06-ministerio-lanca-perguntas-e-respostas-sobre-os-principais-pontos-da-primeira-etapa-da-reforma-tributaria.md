@@ -1,11 +1,13 @@
 ---
-title: "Ministério lança “Perguntas e Respostas” sobre os principais pontos da primeira etapa da Reforma Tributária"
+title: Ministério lança “Perguntas e Respostas” sobre os principais pontos da primeira
+  etapa da Reforma Tributária
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Documento explica as mudanças mais importantes previstas no Projeto de Lei nº 3.887/2020, entregue ao Congresso Nacional em 21 de julho.
 

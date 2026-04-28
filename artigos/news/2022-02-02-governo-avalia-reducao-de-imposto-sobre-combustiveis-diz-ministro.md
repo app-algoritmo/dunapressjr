@@ -1,11 +1,12 @@
 ---
-title: "Governo avalia redução de imposto sobre combustíveis, diz ministro"
+title: Governo avalia redução de imposto sobre combustíveis, diz ministro
 date: 2022-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Guedes questiona, porém, adoção de medida similar para a gasolina.
 

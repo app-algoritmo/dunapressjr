@@ -1,11 +1,12 @@
 ---
-title: "Total de empresas ativas cresceu 3,7% no Brasil em 2020"
+title: Total de empresas ativas cresceu 3,7% no Brasil em 2020
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Hoje, há 5,4 milhões de companhias no país, revela o IBGE.
 

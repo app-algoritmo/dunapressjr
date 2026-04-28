@@ -1,11 +1,12 @@
 ---
-title: "11 crianças sofreram parada cardíaca em escolas dos EUA no mês passado"
+title: 11 crianças sofreram parada cardíaca em escolas dos EUA no mês passado
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 “Existe uma bomba-relógio no peito do seu filho?”
 

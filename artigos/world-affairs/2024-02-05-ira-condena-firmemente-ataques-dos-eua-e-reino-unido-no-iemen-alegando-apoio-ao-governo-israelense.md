@@ -1,11 +1,13 @@
 ---
-title: "Irã Condena Firmemente Ataques dos EUA e Reino Unido no Iêmen, Alegando Apoio ao governo Israelense"
+title: Irã Condena Firmemente Ataques dos EUA e Reino Unido no Iêmen, Alegando Apoio
+  ao governo Israelense
 date: 2024-02-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No mais recente episódio de tensões na Ásia Ocidental, o porta-voz do Ministério das Relações Exteriores do Irã, Nasser Kanaani, expressou veemente repúdio aos novos ataques desferidos pelos Estados Unidos e pelo Reino Unido contra o Iêmen. Segundo Kanaani, as ações militares desses dois estados ocidentais estão alimentando o caos e a insegurança na região, sendo direcionadas para apoiar o governo israelense em sua guerra contínua contra Gaza.
 

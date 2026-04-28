@@ -1,11 +1,12 @@
 ---
-title: "Governo lança “Litígio Zero” para regularização de dívidas tributárias"
+title: Governo lança “Litígio Zero” para regularização de dívidas tributárias
 date: 2023-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Fazenda anunciou nesta quinta-feira (12) medidas para as empresas regularizarem a situação fiscal. Chamado de “Litígio Zero”, o programa irá dar descontos em multas, juros e valor do tributo, com direito a parcelamento em até 12 meses. O “Refis” do novo governo Lula tem como objetivo reduzir o volume de processos nas instâncias recursais.
 

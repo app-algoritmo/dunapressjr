@@ -1,11 +1,13 @@
 ---
-title: "A Importância de Ler a Bíblia: Um Caminho para a Sabedoria e a Orientação Espiritual"
+title: 'A Importância de Ler a Bíblia: Um Caminho para a Sabedoria e a Orientação
+  Espiritual'
 date: 2024-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 A Bíblia é mais do que um livro; é uma coleção de textos sagrados que têm influenciado bilhões de pessoas ao longo dos séculos. Para muitos, a leitura da Bíblia não é apenas um exercício religioso, mas uma fonte de sabedoria, orientação moral e conforto espiritual. Vamos explorar por que a leitura da Bíblia é tão importante em várias dimensões da vida.
 

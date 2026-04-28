@@ -1,11 +1,12 @@
 ---
-title: "Star Wars: A Ascenção Skywalker... Bom? Ruim? Ou apenas uma sequência?"
+title: 'Star Wars: A Ascenção Skywalker... Bom? Ruim? Ou apenas uma sequência?'
 date: 2020-01-08
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Quando fazemos a análise e crítica de um filme, buscamos compreender como este funciona, tanto como entretenimento e, claro, como obra de arte. Há filmes que trabalham bem ambos os aspectos e no decorrer do tempo continuam a atrair atenção do público, o apreço da crítica, a admiração de uma nova geração de diretores, produtores e atores, etc.  Mas, há àqueles que conseguem realizar somente um desses elementos, todavia, estes oferecem entretenimento e costumam ter *boa alta lucratividade*, pois, conseguem cativar o espectador, contudo, não conseguem vencer a barreira do tempo, estando fadados ao esquecimento e desapego. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Cerca de um terço do valor reservado a Eletrobras voltará ao FGTS"
+title: Cerca de um terço do valor reservado a Eletrobras voltará ao FGTS
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Devolução ocorre porque demanda total superou R$ 6 bilhões.
 

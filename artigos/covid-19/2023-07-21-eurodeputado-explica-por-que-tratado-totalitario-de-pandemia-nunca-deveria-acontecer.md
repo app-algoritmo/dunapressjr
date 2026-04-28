@@ -1,11 +1,13 @@
 ---
-title: "Eurodeputado explica por que 'tratado totalitário de pandemia' nunca deveria acontecer"
+title: Eurodeputado explica por que 'tratado totalitário de pandemia' nunca deveria
+  acontecer
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 As medidas apoiadas pela OMS eram um absurdo completo e nada tinham a ver com a nossa saúde. Isso disse o deputado Marcel de Graaff (FVD) na terça-feira [no Parlamento Europeu](https://marceldegraaff.nl/stop-het-totalitaire-pandemie-verdrag/) .
 

@@ -1,11 +1,12 @@
 ---
-title: "Publicado edital do Encceja 2020"
+title: Publicado edital do Encceja 2020
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, nessa quinta-feira (26), o Edital nº 101, de 23 de novembro de 2020, que dispõe sobre as diretrizes, os procedimentos e os prazos do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2020. A aplicação para o ensino fundamental e médio será no dia 25 de abril de 2021 e ocorrerá em todos os estados e no Distrito Federal.
 

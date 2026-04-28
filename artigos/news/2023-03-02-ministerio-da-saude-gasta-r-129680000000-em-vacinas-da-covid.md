@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde gasta R$ 1.296.800.000,00 em vacinas da Covid"
+title: Ministério da Saúde gasta R$ 1.296.800.000,00 em vacinas da Covid
 date: 2023-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## EXTRATO DE CONTRATO Nº 52/2023 - UASG 250005
 

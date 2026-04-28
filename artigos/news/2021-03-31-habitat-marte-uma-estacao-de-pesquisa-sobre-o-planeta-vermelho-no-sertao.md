@@ -1,11 +1,12 @@
 ---
-title: "Habitat Marte: uma estação de pesquisa sobre o planeta vermelho no sertão"
+title: 'Habitat Marte: uma estação de pesquisa sobre o planeta vermelho no sertão'
 date: 2021-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Professor do Departamento de Engenharia da Produção da Universidade Federal do Rio Grande do Norte (UFRN), Júlio Rezende teve a iniciativa de criar a estação espacial Habitat Marte bem no meio da caatinga nordestina, na zona rural da cidade de Caiçara do Rio do Vento (RN). O trabalho é resultado da investigação desenvolvida durante seu pós-doutorado, financiado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Com a simulação o cientista pretende fazer com que local seja um núcleo de pesquisas  que possam ser utilizadas no planeta vermelho, no futuro.
 

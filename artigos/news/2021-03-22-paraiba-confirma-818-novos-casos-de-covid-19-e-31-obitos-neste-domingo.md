@@ -1,11 +1,12 @@
 ---
-title: "Paraíba confirma 818 novos casos de Covid-19 e 31 óbitos neste domingo"
+title: Paraíba confirma 818 novos casos de Covid-19 e 31 óbitos neste domingo
 date: 2021-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado da Saúde (SES) registrou, neste domingo (21), 818 casos de Covid-19. Entre os confirmados hoje, 53 (6,47%) são casos de pacientes hospitalizados e 765 (93,52%) são leves. Agora, a Paraíba totaliza 246.382 casos confirmados da doença, que estão distribuídos por todos os 223 municípios. Até o momento, 715.743 testes para diagnóstico da Covid-19 já foram realizados.
 

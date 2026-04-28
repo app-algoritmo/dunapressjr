@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha com pequena queda, vendido a R$ 5,31"
+title: Dólar fecha com pequena queda, vendido a R$ 5,31
 date: 2021-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 1,44% em dia de ajustes.
 

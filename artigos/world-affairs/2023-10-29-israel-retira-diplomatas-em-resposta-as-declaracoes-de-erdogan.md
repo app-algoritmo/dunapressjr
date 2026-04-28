@@ -1,11 +1,12 @@
 ---
-title: "Israel Retira Diplomatas em Resposta às Declarações de Erdogan"
+title: Israel Retira Diplomatas em Resposta às Declarações de Erdogan
 date: 2023-10-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Festival de Ódio em Istambul.
 

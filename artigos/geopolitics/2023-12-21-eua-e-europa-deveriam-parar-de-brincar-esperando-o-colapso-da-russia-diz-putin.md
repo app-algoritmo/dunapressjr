@@ -1,11 +1,13 @@
 ---
-title: "EUA e Europa deveriam ‘parar de brincar’ esperando o colapso da Rússia, diz Putin"
+title: EUA e Europa deveriam ‘parar de brincar’ esperando o colapso da Rússia, diz
+  Putin
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O líder russo observou que os próprios EUA e a Europa devem contemplar o que os motiva.
 

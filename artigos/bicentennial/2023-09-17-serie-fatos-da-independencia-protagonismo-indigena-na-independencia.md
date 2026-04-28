@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Protagonismo indígena na Independência"
+title: 'Série Fatos Da Independência: Protagonismo indígena na Independência'
 date: 2023-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Chegaram na fronteira do Ceará com a Paraíba, no dia 23 de maio de 1817, 400 índios armados com arco e flecha, para dar fim a quaisquer agitações republicanas advindas da Revolução de 1817. Convocados pelo governador do Ceará, que se dirigiu a eles chamando-os de “intrépidos e valorosos”, os indígenas alinharam-se à Coroa e patrulharam as regiões até que ninguém ousasse resistir. Esse posicionamento pode ser explicado pelo fato de que o governador do Ceará era extremamente bem-quisto pelas comunidades indígenas, pois os protegia contra os abusos dos proprietários de terra. Em consequência, sentiam-se protegidos pela monarquia e lutaram para manter as poucas garantias que tinham. Além disso, a ação militar era uma forma de conseguir prestígio social e, em uma sociedade onde todos são desiguais perante a lei, qualquer honraria 56ajudaria em caso de punição.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ataques russos na Ucrânia deixam soldados estrangeiros mortos e feridos"
+title: Ataques russos na Ucrânia deixam soldados estrangeiros mortos e feridos
 date: 2024-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Centenas de caixões contendo corpos de soldados da OTAN retornam da Ucrânia em voos.
 

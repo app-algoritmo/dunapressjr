@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,07 e fecha no menor valor em quase um mês"
+title: Dólar cai para R$ 5,07 e fecha no menor valor em quase um mês
 date: 2021-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa tem queda em meio à divulgação de lucros de empresas.
 

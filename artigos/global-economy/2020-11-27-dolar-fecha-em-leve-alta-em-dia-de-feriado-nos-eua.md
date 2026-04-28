@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve alta em dia de feriado nos EUA"
+title: Dólar fecha em leve alta em dia de feriado nos EUA
 date: 2020-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu pouco e manteve-se acima dos 110 mil pontos.
 

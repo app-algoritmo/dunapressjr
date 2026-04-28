@@ -1,11 +1,13 @@
 ---
-title: "Centro de Documentação que registra memórias de imigrantes holandeses no Brasil completa 10 anos"
+title: Centro de Documentação que registra memórias de imigrantes holandeses no Brasil
+  completa 10 anos
 date: 2021-08-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Objetivo agora é digitalizar acervo e manter local como referência para estudiosos da história da imigração e das famílias que chegaram ao país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Macron não descarta possibilidade de operação terrestre da França na Ucrânia"
+title: Macron não descarta possibilidade de operação terrestre da França na Ucrânia
 date: 2024-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em declarações recentes, o presidente francês, Emmanuel Macron, levantou a possibilidade de Paris realizar uma operação terrestre na Ucrânia, caso necessário para combater as forças russas que ocupam o território. Macron enfatizou que tal ação não é desejada, mas pode se tornar inevitável para proteger os interesses da França e da Europa.
 

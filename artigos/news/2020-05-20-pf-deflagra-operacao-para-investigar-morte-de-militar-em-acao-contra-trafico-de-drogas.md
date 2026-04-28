@@ -1,11 +1,13 @@
 ---
-title: "PF deflagra operação para investigar morte de militar em ação contra tráfico de drogas"
+title: PF deflagra operação para investigar morte de militar em ação contra tráfico
+  de drogas
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – A Polícia Federal deflagrou hoje (20/5) a Operação Homem Anjo, visando cumprir mandados de busca e prisões de indivíduos envolvidos com o tráfico transnacional de drogas e também na morte do militar do Exército Brasileiro Daniel Henrique Trarbach Engelman ocorrida no dia 10 de maio de 2020.
 

@@ -1,12 +1,13 @@
 ---
-title: "Os cuidados essenciais que o seu pet merece"
+title: Os cuidados essenciais que o seu pet merece
 date: 2023-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 "Os cuidados essenciais que o seu pet merece": água fresquinha, uma boa ração, lambeijos, passear, sonequinha e muito amor.
 

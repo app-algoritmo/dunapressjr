@@ -1,11 +1,12 @@
 ---
-title: "Saúde Bucal: Cuidado com os dentes é fundamental"
+title: 'Saúde Bucal: Cuidado com os dentes é fundamental'
 date: 2021-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A boca desempenha importantes funções que repercutem na saúde de todo o organismo. Além de exercer papel fundamental na fala, mastigação e respiração, a boca é a maior cavidade do corpo a ter contato direto com o meio ambiente, sendo a porta de entrada para bactérias e outros microrganismos prejudiciais à saúde.
 

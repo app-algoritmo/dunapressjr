@@ -1,11 +1,12 @@
 ---
-title: "Health Tech Summit Rio 2023: mapeando o futuro da saúde"
+title: 'Health Tech Summit Rio 2023: mapeando o futuro da saúde'
 date: 2023-11-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Realizado pela Assespro-RJ, evento visa empoderar os usuários com a orientação a dados.
 

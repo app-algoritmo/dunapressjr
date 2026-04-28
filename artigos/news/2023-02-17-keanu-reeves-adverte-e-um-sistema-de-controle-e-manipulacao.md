@@ -1,11 +1,12 @@
 ---
-title: "Keanu Reeves adverte: 'É um sistema de controle e manipulação!'"
+title: 'Keanu Reeves adverte: ''É um sistema de controle e manipulação!'''
 date: 2023-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Keanu Reeves adverte sobre tecnologia de IA da deepfake.
 

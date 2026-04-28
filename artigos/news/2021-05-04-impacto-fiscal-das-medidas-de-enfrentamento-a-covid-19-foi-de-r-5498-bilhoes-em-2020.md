@@ -1,11 +1,13 @@
 ---
-title: "Impacto fiscal das medidas de enfrentamento à Covid-19 foi de R$ 549,8 bilhões em 2020"
+title: Impacto fiscal das medidas de enfrentamento à Covid-19 foi de R$ 549,8 bilhões
+  em 2020
 date: 2021-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Governo já investiu R$ 16,6 bilhões no combate à pandemia em 2021.
 

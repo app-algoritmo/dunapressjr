@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto: projeção de corte de 0,5 ponto na Selic é para 2 reuniões"
+title: 'Campos Neto: projeção de corte de 0,5 ponto na Selic é para 2 reuniões'
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Atualmente, taxa básica de juros está em 11,75% ao ano.
 

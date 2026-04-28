@@ -1,11 +1,12 @@
 ---
-title: "Exames toxicológicos de motoristas: vetos derrubados passam a valer"
+title: 'Exames toxicológicos de motoristas: vetos derrubados passam a valer'
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os condutores de veículos de carga, ônibus e afins que não realizarem exames toxicológicos a cada dois anos e meio serão punidos com infração gravíssima e multa multiplicada por cinco. Três trechos da [Lei 14.599, de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-06-19;14599), que alterou o [Código de Trânsito Brasileiro](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503) (CTB), foram restaurados após o Congresso Nacional [decidir pela derrubada dos vetos](/noticias/materias/2023/10/04/congresso-derruba-vetos-e-torna-ausencia-de-exame-toxicologico-infracao-de-transito) do presidente da República, Luiz Inácio Lula da Silva, ao texto que gerou a norma. Com a decisão, os trechos foram promulgados e publicados na edição do *Diário Oficial da União *desta segunda-feira (16). 
 

@@ -1,11 +1,12 @@
 ---
-title: "Jair Bolsonaro é destaque de capa em jornal norueguês"
+title: Jair Bolsonaro é destaque de capa em jornal norueguês
 date: 2018-10-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Sob o título "A América Latina está buscando um herói" o jornal norueguês Aftenposten traz fotos exclusivas do presidenciável Sr. Jair Bolsonaro, com duas páginas inteiras dedicadas a ele, em artigo em que comenta sobre sua candidatura, sua atuação e a questão de sua proteção pessoal. A matéria menciona inclusive que tanto a Polícia Federal quanto o Serviço Secreto estão preocupados com a presença de franco-atiradores neste período.
 

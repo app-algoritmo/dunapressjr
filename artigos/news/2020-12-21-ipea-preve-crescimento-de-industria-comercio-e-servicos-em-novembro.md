@@ -1,11 +1,12 @@
 ---
-title: "Ipea prevê crescimento de indústria, comércio e serviços em novembro"
+title: Ipea prevê crescimento de indústria, comércio e serviços em novembro
 date: 2020-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estimativa da atividade econômica no país é do Ipea.
 

@@ -1,11 +1,12 @@
 ---
-title: "Venezuela 23F - Caos em Ureña - Forças bolivarianas queimam ajuda humanitária"
+title: Venezuela 23F - Caos em Ureña - Forças bolivarianas queimam ajuda humanitária
 date: 2019-02-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Caminhões com alimentos e medicinas são queimados por ordem do ditador Maduro
 

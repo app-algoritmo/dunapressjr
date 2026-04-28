@@ -1,11 +1,12 @@
 ---
-title: "Por que a Pfizer interrompeu o teste da vacina COVID"
+title: Por que a Pfizer interrompeu o teste da vacina COVID
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A história num piscar de olhos
 

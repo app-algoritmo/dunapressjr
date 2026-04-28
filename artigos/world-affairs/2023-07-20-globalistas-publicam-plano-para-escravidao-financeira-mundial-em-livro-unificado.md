@@ -1,11 +1,12 @@
 ---
-title: "Globalistas publicam plano para escravidão financeira mundial em “livro unificado”"
+title: Globalistas publicam plano para escravidão financeira mundial em “livro unificado”
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Se você pensou que os planos da Moeda Digital do Banco Central (CBDC) soavam distópicos, espere para ler a nova agenda de "livro-razão unificado" lançada pelo Banco de Compensações Internacionais (BIS, conhecido como o "banco dos bancos centrais").
 

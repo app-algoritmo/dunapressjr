@@ -1,11 +1,12 @@
 ---
-title: "EUA 'caçam' especialistas em armas biológicas que escaparam da Ucrânia"
+title: EUA 'caçam' especialistas em armas biológicas que escaparam da Ucrânia
 date: 2023-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Em julho passado, Igor Kirillov apresentou um relatório, segundo o qual uma rede de mais de 30 biolaboratórios, tanto de pesquisa quanto sanitários e epidemiológicos, havia sido criada no território ucraniano 
 

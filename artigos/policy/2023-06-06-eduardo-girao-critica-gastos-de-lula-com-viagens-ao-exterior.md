@@ -1,11 +1,12 @@
 ---
-title: "Eduardo Girão critica gastos de Lula com viagens ao exterior"
+title: Eduardo Girão critica gastos de Lula com viagens ao exterior
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) afirmou, em pronunciamento no Plenário nesta terça-feira (6), que o governo atual age com “completa falta de pudor e gastanças exorbitantes em sucessivas viagens pelo mundo”. Segundo o parlamentar, o presidente Lula visitou nove países em cinco meses de mandato e ficou quase um mês fora do Brasil. 
 

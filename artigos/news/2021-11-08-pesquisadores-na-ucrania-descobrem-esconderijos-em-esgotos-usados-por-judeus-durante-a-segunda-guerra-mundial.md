@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores na Ucrânia descobrem esconderijos em esgotos usados ​​por judeus durante a Segunda Guerra Mundial"
+title: Pesquisadores na Ucrânia descobrem esconderijos em esgotos usados ​​por judeus
+  durante a Segunda Guerra Mundial
 date: 2021-11-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sob as ruas de paralelepípedos de Lviv, pesquisadores ucranianos descobriram novos esconderijos no sistema de esgoto subterrâneo da cidade que abrigava judeus que fugiam dos nazistas durante o Holocausto, de acordo com um relatório da terça-feira.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mudanças genéticas podem estar por trás dos sintomas de COVID de longo prazo"
+title: Mudanças genéticas podem estar por trás dos sintomas de COVID de longo prazo
 date: 2021-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Mesmo aqueles com infecções assintomáticas por COVID podem ter alterações de longa duração na expressão genética que podem estar por trás dos sintomas de longa duração em pacientes recuperados.
 

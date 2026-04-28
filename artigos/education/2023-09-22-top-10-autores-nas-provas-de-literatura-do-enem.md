@@ -1,11 +1,12 @@
 ---
-title: "TOP 10 autores nas provas de Literatura do Enem"
+title: TOP 10 autores nas provas de Literatura do Enem
 date: 2023-09-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Embora a organização do Enem não divulgue uma lista de leitura obrigatória, existem alguns autores e obras que costumam aparecer com frequência em todas as edições do exame nacional.
 

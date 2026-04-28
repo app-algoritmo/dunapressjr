@@ -1,11 +1,12 @@
 ---
-title: "<strong>Pequenos negócios geram 72% das vagas de emprego no primeiro semestre</strong>"
+title: <strong>Pequenos negócios geram 72% das vagas de emprego no primeiro semestre</strong>
 date: 2022-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Micro e pequenas empresas criam 961 mil postos no período no país.
 

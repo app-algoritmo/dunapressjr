@@ -1,11 +1,13 @@
 ---
-title: "As 8 principais habilidades que todo desenvolvedor de aplicativos móveis deve ter"
+title: As 8 principais habilidades que todo desenvolvedor de aplicativos móveis deve
+  ter
 date: 2021-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Artigo original em espanhol, release exclusivo enviado por ©Bash Sarmiento.
 

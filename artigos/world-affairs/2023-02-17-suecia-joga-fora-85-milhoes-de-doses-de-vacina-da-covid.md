@@ -1,11 +1,12 @@
 ---
-title: "Suécia joga fora 8,5 milhões de doses de vacina da Covid"
+title: Suécia joga fora 8,5 milhões de doses de vacina da Covid
 date: 2023-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Finalmente, há boas notícias, desta vez da Suécia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Para Biden, impedir o desenvolvimento da China é a tarefa mais importante"
+title: Para Biden, impedir o desenvolvimento da China é a tarefa mais importante
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O governo Biden impôs um bloqueio aos chips de computador modernos enviados para a China. Espera-se que esta medida desacelere o desenvolvimento tecnológico da China e cause sérios danos à economia em geral. A estratégia foi amplamente elogiada pela mídia e especialistas em política externa, mas um número crescente de analistas está se perguntando se o tiro pode sair pela culatra.
 

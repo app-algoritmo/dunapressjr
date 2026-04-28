@@ -1,12 +1,13 @@
 ---
-title: "Belgorod, o maior e mais letal submarino do mundo"
+title: Belgorod, o maior e mais letal submarino do mundo
 date: 2023-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Military
+- Geopolitics
+- Military
 ---
+
 
 Medindo mais de 600 pés de comprimento, o Belgorod é o maior submarino do mundo. É capaz de transportar drones de torpedo nuclear Poseidon do “dia do juízo final”, que, segundo a Rússia, poderiam desencadear tsunamis nucleares de 1.600 pés em cidades costeiras distantes, tornando-as inabitáveis.
 

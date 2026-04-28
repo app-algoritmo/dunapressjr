@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Defesa acompanha inauguração do Centro de Operações Espaciais (Cope)"
+title: Ministro da Defesa acompanha inauguração do Centro de Operações Espaciais (Cope)
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministro da Defesa, Fernando Azevedo, esteve juntamente com o Presidente da República, Jair Bolsonaro e o Vice-Presidente, Hamilton Mourão, na inauguração do Centro de Operações Especiais (COPE), no Comando da Aeronáutica. A cerimônia foi realizada nesta terça-feira (23).
 

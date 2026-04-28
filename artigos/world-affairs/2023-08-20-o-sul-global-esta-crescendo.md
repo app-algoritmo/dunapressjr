@@ -1,11 +1,12 @@
 ---
-title: "O Sul Global está crescendo"
+title: O Sul Global está crescendo
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 À medida que a contra-ofensiva da Ucrânia e as chances de vencer a guerra começam a diminuir, e à medida que começa a ganhar terreno a percepção de que a única maneira de a Ucrânia acabar com a guerra é por meio de negociações, Kiev lançou uma campanha de conferências para elevar a neutralidade do Sul Global. , ou puxando o que a Rússia agora chama de maioria global para seu lado diplomático.
 

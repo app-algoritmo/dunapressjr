@@ -1,12 +1,13 @@
 ---
-title: "Metodologia do Esporte Educacional, do IEE, traz benefícios para a saúde mental"
+title: Metodologia do Esporte Educacional, do IEE, traz benefícios para a saúde mental
 date: 2024-04-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## O Instituto Esporte e Educação proporciona aos seus alunos, além de conteúdo educativo, a prática regular de esportes, promovendo um dia a dia mais saudável para todos.
 

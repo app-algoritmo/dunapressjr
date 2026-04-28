@@ -1,11 +1,12 @@
 ---
-title: "Confiança dos consumidores avança 5,4 pontos em setembro"
+title: Confiança dos consumidores avança 5,4 pontos em setembro
 date: 2022-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta foi influenciada pela melhora dos indicadores sobre o momento.
 

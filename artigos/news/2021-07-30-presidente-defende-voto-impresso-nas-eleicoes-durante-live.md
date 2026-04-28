@@ -1,11 +1,12 @@
 ---
-title: "Presidente defende voto impresso nas eleições durante live"
+title: Presidente defende voto impresso nas eleições durante live
 date: 2021-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## TSE respondeu argumentações de Bolsonaro.
 

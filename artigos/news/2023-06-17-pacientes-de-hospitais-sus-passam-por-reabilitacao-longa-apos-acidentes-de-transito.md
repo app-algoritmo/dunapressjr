@@ -1,11 +1,13 @@
 ---
-title: "Pacientes de hospitais SUS passam por reabilitação longa após acidentes de trânsito"
+title: Pacientes de hospitais SUS passam por reabilitação longa após acidentes de
+  trânsito
 date: 2023-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Tudo foi muito rápido. Estávamos voltando de moto da nossa lua de mel, quando, num instante, eu e minha esposa já nos vimos dentro de uma ambulância, sendo levados para o hospital". O relato é de Domingos Moreira da Costa, que teve a viagem de celebração de casamento interrompida por um acidente de trânsito. O casal está entre os 13% de pacientes internados no Hospital Universitário Cajuru, em Curitiba (PR), devido a algum tipo de incidente nas ruas e estradas. Considerados um problema grave de saúde pública, as ocorrências com motos representam 54% de todos os acidentes de trânsito do Brasil, segundo a Associação Brasileira de Medicina do Tráfego.
 

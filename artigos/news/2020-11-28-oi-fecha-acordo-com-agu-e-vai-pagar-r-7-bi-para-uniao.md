@@ -1,11 +1,12 @@
 ---
-title: "Oi fecha acordo com AGU e vai pagar R$ 7 bi para União"
+title: Oi fecha acordo com AGU e vai pagar R$ 7 bi para União
 date: 2020-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operadora de telefonia está em recuperação judicial desde 2016.
 

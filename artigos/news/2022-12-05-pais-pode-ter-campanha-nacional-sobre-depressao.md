@@ -1,11 +1,12 @@
 ---
-title: "País pode ter campanha nacional sobre depressão"
+title: País pode ter campanha nacional sobre depressão
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Educação (CE) aprovou nesta quinta-feira (1º) projeto que cria no Brasil a Semana Nacional de Conscientização sobre a Depressão. Já aprovado na Câmara dos Deputados e na Comissão de Assuntos Sociais (CAS) do Senado, o projeto ([PL 2/2020](http://www25.senado.leg.br/web/atividade/materias/-/materia/140413)) segue agora para análise do Plenário.
 

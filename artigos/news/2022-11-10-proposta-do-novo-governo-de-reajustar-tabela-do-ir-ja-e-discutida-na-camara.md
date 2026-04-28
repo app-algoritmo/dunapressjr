@@ -1,11 +1,12 @@
 ---
-title: "Proposta do novo governo de reajustar tabela do IR já é discutida na Câmara"
+title: Proposta do novo governo de reajustar tabela do IR já é discutida na Câmara
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma das principais promessas de campanha do presidente eleito Luiz Inácio Lula da Silva, a correção da tabela do Imposto de Renda (IR) das pessoas físicas, é alvo de diversos projetos de lei na Câmara dos Deputados, tendo um deles já sido aprovado na atual legislatura. A maioria propõe o reajuste da tabela e das deduções em vigor, elevando o limite de isenção do tributo.
 

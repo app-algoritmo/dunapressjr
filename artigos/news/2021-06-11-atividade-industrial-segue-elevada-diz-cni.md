@@ -1,11 +1,12 @@
 ---
-title: "Atividade industrial segue elevada, diz CNI"
+title: Atividade industrial segue elevada, diz CNI
 date: 2021-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Horas trabalhadas na produção aumentaram 0,7% em abril.
 

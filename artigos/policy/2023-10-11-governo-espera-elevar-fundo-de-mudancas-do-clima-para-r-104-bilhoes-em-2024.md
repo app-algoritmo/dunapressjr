@@ -1,11 +1,12 @@
 ---
-title: "Governo espera elevar fundo de mudanças do clima para R$ 10,4 bilhões em 2024"
+title: Governo espera elevar fundo de mudanças do clima para R$ 10,4 bilhões em 2024
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Fundo foi criado em 2009 para financiar projetos, estudos e empreendimentos que visem à redução de emissões dos gases que provocam o aquecimento global.
 

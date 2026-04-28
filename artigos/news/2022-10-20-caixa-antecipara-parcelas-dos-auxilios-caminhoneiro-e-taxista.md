@@ -1,11 +1,12 @@
 ---
-title: "Caixa antecipará parcelas dos auxílios Caminhoneiro e Taxista"
+title: Caixa antecipará parcelas dos auxílios Caminhoneiro e Taxista
 date: 2022-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Benefícios serão pagos em 19 de novembro e 10 de dezembro.
 

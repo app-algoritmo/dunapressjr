@@ -1,13 +1,14 @@
 ---
-title: "Prêmio Nobel da Paz 2022"
+title: Prêmio Nobel da Paz 2022
 date: 2022-12-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Events
-  - News
-  - Policy
+- Events
+- News
+- Policy
 ---
+
 
 ## O prêmio deste ano foi concedido a uma pessoa e duas organizações que representam a sociedade civil em seus países de origem.
 

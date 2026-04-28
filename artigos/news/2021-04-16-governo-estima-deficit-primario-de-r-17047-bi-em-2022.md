@@ -1,11 +1,12 @@
 ---
-title: "Governo estima déficit primário de R$ 170,47 bi em 2022"
+title: Governo estima déficit primário de R$ 170,47 bi em 2022
 date: 2021-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contas federais ficariam negativas até pelo menos 2024.
 

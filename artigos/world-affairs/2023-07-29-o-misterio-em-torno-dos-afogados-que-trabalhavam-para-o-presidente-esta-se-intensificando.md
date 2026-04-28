@@ -1,11 +1,13 @@
 ---
-title: "O mistério em torno dos afogados que trabalhavam para o presidente está se intensificando"
+title: O mistério em torno dos afogados que trabalhavam para o presidente está se
+  intensificando
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Tafari Campbell, 43, [morreu](https://thepostmillennial.com/breaking-man-found-dead-on-obama-estate-identified-as-obamas-personal-chef) afogado na costa de Martha's Vineyard no domingo. Ele era o chefe particular de Barack e Michelle Obama. Campbell trabalhou anteriormente como chef da Casa Branca.
 

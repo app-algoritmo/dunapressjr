@@ -1,11 +1,12 @@
 ---
-title: "Polícia Militar inicia curso de Táticas Especiais em Florianópolis"
+title: Polícia Militar inicia curso de Táticas Especiais em Florianópolis
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Polícia Militar de Santa Catarina (PMSC) começou na segunda-feira, 18, em Florianópolis, o Curso de Ações Táticas Especiais de Santa Catarina (Cate). A aula inaugural foi realizada pelo comandante-geral da PMSC, coronel Aurélio José Pelozato da Rosa. Esta será a quarta edição do evento, sendo que as anteriores foram realizadas em 2003, 2017 e 2019.
 

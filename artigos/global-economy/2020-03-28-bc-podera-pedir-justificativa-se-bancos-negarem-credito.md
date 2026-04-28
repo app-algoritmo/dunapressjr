@@ -1,11 +1,12 @@
 ---
-title: "BC poderá pedir justificativa se bancos negarem crédito"
+title: BC poderá pedir justificativa se bancos negarem crédito
 date: 2020-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Pequenas e médias empresas têm linha para financiar folha de pagamento
 

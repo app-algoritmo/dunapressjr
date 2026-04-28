@@ -1,11 +1,12 @@
 ---
-title: "Violação dos direitos humanos e destruição do estado de direito na Argentina"
+title: Violação dos direitos humanos e destruição do estado de direito na Argentina
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Human Rights Watch alertou sobre a grave situação que a Argentina atravessa, enquanto o governo, a partir de uma realidade paralela, fala sobre suas imaginárias conquistas. Em relatório recente, a entidade questionou a situação dos direitos humanos no país, o avanço do Executivo no Supremo Tribunal de Justiça e alertou sobre a impunidade que ainda existe em torno do atentado contra a AMIA e da morte do procurador Alberto Nisman.
 

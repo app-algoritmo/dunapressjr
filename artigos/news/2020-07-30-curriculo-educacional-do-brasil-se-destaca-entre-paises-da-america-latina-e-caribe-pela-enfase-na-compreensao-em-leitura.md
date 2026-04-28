@@ -1,11 +1,13 @@
 ---
-title: "Currículo educacional do Brasil se destaca entre países da América Latina e Caribe pela ênfase na compreensão em leitura"
+title: Currículo educacional do Brasil se destaca entre países da América Latina e
+  Caribe pela ênfase na compreensão em leitura
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Laboratório Latino-americano de Avaliação da Qualidade da Educação (LLECE), ligado à Oficina Regional de Educação para América Latina e Caribe da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (OREALC/UNESCO Santiago), apresentou, nesta terça-feira, 28 de julho, um estudo que analisou currículos do Brasil e de 18 países latino-americanos: Argentina, Bolívia, Chile, Colômbia, Costa Rica, Cuba, Equador, El Salvador, Guatemala, Honduras, México, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela.
 

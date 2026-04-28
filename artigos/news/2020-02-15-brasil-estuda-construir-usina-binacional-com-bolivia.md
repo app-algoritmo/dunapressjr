@@ -1,11 +1,12 @@
 ---
-title: "Brasil estuda construir usina binacional com Bolívia"
+title: Brasil estuda construir usina binacional com Bolívia
 date: 2020-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Diretor de Itaipu disse que obra seria feita no Rio Mamoré
 

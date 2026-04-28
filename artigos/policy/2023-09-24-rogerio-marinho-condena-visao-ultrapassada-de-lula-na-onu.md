@@ -1,11 +1,12 @@
 ---
-title: "Rogerio Marinho condena 'visão ultrapassada' de Lula na ONU"
+title: Rogerio Marinho condena 'visão ultrapassada' de Lula na ONU
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rogerio Marinho (PL-RN), em pronunciamento no Plenário na quarta-feira (20), criticou a participação do presidente Luiz Inácio Lula da Silva na Assembleia Geral da ONU. O parlamentar repreendeu o posicionamento do presidente brasileiro e do Partido dos Trabalhadores (PT), alegando que o discurso de Lula defendeu uma visão "ultrapassada e anacrônica" de gestão, em descompasso com a era da tecnologia e da inovação. 
 

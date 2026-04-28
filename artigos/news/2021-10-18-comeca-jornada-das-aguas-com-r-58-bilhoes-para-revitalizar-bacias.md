@@ -1,11 +1,12 @@
 ---
-title: "Começa Jornada das Águas com R$ 5,8 bilhões para revitalizar bacias"
+title: Começa Jornada das Águas com R$ 5,8 bilhões para revitalizar bacias
 date: 2021-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos serão repassados ao longo de dez anos.
 

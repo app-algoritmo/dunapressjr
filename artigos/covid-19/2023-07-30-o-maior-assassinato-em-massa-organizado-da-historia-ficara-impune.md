@@ -1,11 +1,12 @@
 ---
-title: "O maior assassinato em massa organizado da história ficará impune?"
+title: O maior assassinato em massa organizado da história ficará impune?
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 As evidências reunidas são esmagadoras: **Covid foi uma pandemia encenada. **O uso deliberado de testes de PCR falhos, o relato deliberado de mortes de Covid devido às diretrizes da Organização Mundial da Saúde e incentivos financeiros para hospitais relatarem todas as mortes como mortes de Covid e o uso proibido de curas conhecidas combinados para criar altos níveis de medo que levaram as massas aceitaram a “vacinação” da Covid que trouxe enormes ganhos financeiros para as grandes empresas farmacêuticas e seus associados como Anthony Fauci, enquanto os governos usurpavam massivamente as liberdades civis.
 

@@ -1,11 +1,13 @@
 ---
-title: "O começo do fim do distanciamento social, Noruega apresenta o calendário para reativação socioeconômico"
+title: O começo do fim do distanciamento social, Noruega apresenta o calendário para
+  reativação socioeconômico
 date: 2020-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O plano do governo norueguês e os ajustes das medidas no combate ao surto do coronavírus.
 

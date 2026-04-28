@@ -1,11 +1,13 @@
 ---
-title: "Cartão Internacional de Vacinação e acompanhamento de abertura de empresas podem ser feitos pela internet"
+title: Cartão Internacional de Vacinação e acompanhamento de abertura de empresas
+  podem ser feitos pela internet
 date: 2020-06-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Desde o ano passado, 750 serviços para o cidadão já foram digitalizados com o apoio da Secretaria-Geral da Presidência da República.
 

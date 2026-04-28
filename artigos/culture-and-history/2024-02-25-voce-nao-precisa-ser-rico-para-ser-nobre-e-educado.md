@@ -1,11 +1,12 @@
 ---
-title: "Você não precisa ser rico para ser nobre e educado"
+title: Você não precisa ser rico para ser nobre e educado
 date: 2024-02-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Na sociedade contemporânea, onde o status e a riqueza muitas vezes parecem ser os principais indicadores de sucesso e respeito, é importante lembrar que nobreza e educação transcendem os limites financeiros. Ser verdadeiramente nobre e educado vai muito além do saldo bancário ou do sobrenome de uma pessoa; é uma questão de caráter e valores intrínsecos.
 

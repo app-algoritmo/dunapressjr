@@ -1,11 +1,12 @@
 ---
-title: "As implicações dessas descobertas do telescópio James Webb são enormes"
+title: As implicações dessas descobertas do telescópio James Webb são enormes
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Astronomy
+- Astronomy
 ---
+
 
 O Telescópio James Webb continua a causar entusiasmo em todo o mundo, pois descobriu recentemente seis galáxias primitivas que se pensava serem inexistentes.
 

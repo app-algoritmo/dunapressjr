@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Argentina fecham acordo para cortar tarifa do Mercosul em 10%"
+title: Brasil e Argentina fecham acordo para cortar tarifa do Mercosul em 10%
 date: 2021-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida foi anunciada por chanceleres dos dois países.
 

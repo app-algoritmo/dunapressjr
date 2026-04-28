@@ -1,11 +1,12 @@
 ---
-title: "Usuários podem opinar sobre direitos do consumidor em serviços de telecomunicações"
+title: Usuários podem opinar sobre direitos do consumidor em serviços de telecomunicações
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Telecomunicações (Anatel) abriu Consulta Pública, nessa quarta-feira (2), para que cidadãos possam enviar contribuições para a revisão do Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Apelo do governo: Doação de sangue não pode parar com pandemia"
+title: 'Apelo do governo: Doação de sangue não pode parar com pandemia'
 date: 2020-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Não deixe que o coronavírus quebre essa corrente do bem. Mas atenção, se estiver com sintomas de gripe, fique em casa. Ministério da Saúde lança parceria para ampliar o cadastro de doadores.
 

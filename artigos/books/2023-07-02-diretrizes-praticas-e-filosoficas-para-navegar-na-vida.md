@@ -1,11 +1,12 @@
 ---
-title: "Diretrizes práticas e filosóficas para navegar na vida"
+title: Diretrizes práticas e filosóficas para navegar na vida
 date: 2023-07-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 [Walker Lamond](https://www.goodreads.com/author/show/2919635.Walker_Lamond), autor do livro "Rules for My Unborn Son", fornece uma coleção de diretrizes práticas e filosóficas para navegar na vida.
 

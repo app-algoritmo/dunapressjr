@@ -1,11 +1,12 @@
 ---
-title: "CNI: Atividade industrial recua em janeiro com queda da produção e do emprego"
+title: 'CNI: Atividade industrial recua em janeiro com queda da produção e do emprego'
 date: 2023-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados apontam uma queda maior entre pequenas e médias empresas. Apesar da falta de impulso no início do ano, o comportamento é típico para os meses de janeiro.
 

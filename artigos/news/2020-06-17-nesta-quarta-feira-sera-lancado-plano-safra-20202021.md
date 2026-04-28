@@ -1,11 +1,12 @@
 ---
-title: "Nesta quarta-feira será lançado Plano Safra 2020/2021"
+title: Nesta quarta-feira será lançado Plano Safra 2020/2021
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) apresenta nesta quarta-feira (17) o Plano Safra 2020/2021. O lançamento será às 16h30, em cerimônia no Palácio do Planalto, com a presença da ministra Tereza Cristina.
 

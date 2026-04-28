@@ -1,12 +1,13 @@
 ---
-title: "Brasil da Monarquia para a República: Revolução ou Golpe de Estado?"
+title: 'Brasil da Monarquia para a República: Revolução ou Golpe de Estado?'
 date: 2023-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 O Brasil viveu um dos momentos mais infames de sua história quando um grupo de interesses promoveu e atuou para a queda do regime monárquico brasileiro. O que se seguiu após o golpe de Estado de 1889 arrasta-se até os dias atuais.
 

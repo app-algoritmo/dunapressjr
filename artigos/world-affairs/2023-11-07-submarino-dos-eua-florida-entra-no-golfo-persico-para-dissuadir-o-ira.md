@@ -1,11 +1,12 @@
 ---
-title: "Submarino dos EUA Florida entra no Golfo Pérsico para dissuadir o Irã"
+title: Submarino dos EUA Florida entra no Golfo Pérsico para dissuadir o Irã
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Coordenador de Comunicações Estratégicas do Conselho de Segurança Nacional dos EUA, John Kirby, disse anteriormente que os EUA enviaram um submarino da classe Ohip ao Oriente Médio para garantir a segurança das forças dos EUA no Oriente Médio.
 

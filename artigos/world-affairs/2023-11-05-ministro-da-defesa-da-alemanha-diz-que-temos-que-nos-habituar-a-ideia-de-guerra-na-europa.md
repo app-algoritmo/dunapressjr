@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Defesa da Alemanha diz que temos que nos habituar à ideia de guerra na Europa"
+title: Ministro da Defesa da Alemanha diz que temos que nos habituar à ideia de guerra
+  na Europa
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Já existe uma guerra na Europa, e bastante acirrada: aquela que começou com a invasão russa da Ucrânia, que não dá sinais de acabar tão cedo e que já virou de cabeça para baixo a economia e a capacidade energética dos países europeus. Portanto, não era a isto que o ministro da Defesa alemão, **Boris Pistorius,** se referia quando disse à comunicação social que os residentes alemães devem começar a habituar-se à ideia do espectro da guerra na Europa.
 

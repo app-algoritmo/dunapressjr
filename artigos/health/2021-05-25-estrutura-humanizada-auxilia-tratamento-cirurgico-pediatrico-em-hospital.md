@@ -1,11 +1,12 @@
 ---
-title: "Estrutura humanizada auxilia tratamento cirúrgico pediátrico em hospital"
+title: Estrutura humanizada auxilia tratamento cirúrgico pediátrico em hospital
 date: 2021-05-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A necessidade de preparação para uma cirurgia, seja ela de baixa ou alta complexidade, pode ser uma experiência traumática para pacientes e familiares. No caso das crianças, esse momento pode ser ainda mais angustiante e o apoio do corpo médico e da estrutura hospitalar podem fazer a diferença. Foi com esse objetivo que o Hospital Universitário Cajuru, em Curitiba (PR), adaptou suas estruturas para oferecer um ambiente mais acolhedor e aconchegante a esses pacientes. As obras, feitas em parceria com a PUCPR, incluíram a ampliação de uma sala do centro cirúrgico e a reforma de leitos de recuperação pós-anestésica. Os espaços ganharam decorações infantis para oferecer um atendimento mais humanizado às crianças e adolescentes que passam pelos corredores da instituição. 
 

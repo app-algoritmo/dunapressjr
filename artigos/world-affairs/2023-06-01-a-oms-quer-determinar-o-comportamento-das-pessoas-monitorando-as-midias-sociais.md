@@ -1,11 +1,12 @@
 ---
-title: "A OMS quer determinar o comportamento das pessoas monitorando as mídias sociais"
+title: A OMS quer determinar o comportamento das pessoas monitorando as mídias sociais
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A iniciativa da OMS visa promover “comportamentos desejáveis” por meio da vigilância nas redes sociais.
 

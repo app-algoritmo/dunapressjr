@@ -1,11 +1,12 @@
 ---
-title: "Fiesp: 66% das indústrias de SP não buscaram crédito em 2022"
+title: 'Fiesp: 66% das indústrias de SP não buscaram crédito em 2022'
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### 18% das companhias disseram que o motivo foi os juros altos.
 

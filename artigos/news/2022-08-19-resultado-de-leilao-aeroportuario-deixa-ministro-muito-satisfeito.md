@@ -1,11 +1,12 @@
 ---
-title: "Resultado de leilão aeroportuário deixa ministro muito satisfeito"
+title: Resultado de leilão aeroportuário deixa ministro muito satisfeito
 date: 2022-08-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Sampaio anuncia privatização de três portos até o fim do ano.
 

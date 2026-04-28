@@ -1,11 +1,12 @@
 ---
-title: "PIB do Paraná cresce 8,6% no primeiro semestre, mais que o dobro da média nacional"
+title: PIB do Paraná cresce 8,6% no primeiro semestre, mais que o dobro da média nacional
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## A taxa de crescimento do PIB estadual nos primeiros seis meses de 2023 refletiu principalmente a ampliação do setor primário (agricultura), impulsionado pela safra recorde de verão, em especial de soja. O PIB nacional cresceu 3,7% no mesmo período.
 

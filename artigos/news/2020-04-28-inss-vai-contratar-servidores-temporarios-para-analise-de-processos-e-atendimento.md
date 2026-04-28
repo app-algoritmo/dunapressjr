@@ -1,11 +1,12 @@
 ---
-title: "INSS vai contratar servidores temporários para análise de processos e atendimento"
+title: INSS vai contratar servidores temporários para análise de processos e atendimento
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Economia e o Instituto Nacional do Seguro Social (INSS) irão contratar 8.230 servidores para trabalharem no atendimento ao público e na análise de pedido de benefícios. A contratação foi autorizada nesta terça-feira (28) por meio da [portaria nº 10.736](http://www.in.gov.br/web/dou/-/portaria-n-10.736-de-27-de-abril-de-2020-254215694) publicada no Diário Oficial da União (DOU).
 

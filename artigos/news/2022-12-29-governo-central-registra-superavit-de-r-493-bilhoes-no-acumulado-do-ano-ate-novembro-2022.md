@@ -1,11 +1,13 @@
 ---
-title: "Governo Central registra superávit de R$ 49,3 bilhões no acumulado do ano até novembro 2022"
+title: Governo Central registra superávit de R$ 49,3 bilhões no acumulado do ano até
+  novembro 2022
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No mês de novembro, o resultado primário foi deficitário em R$ 14,7 bilhões.
 

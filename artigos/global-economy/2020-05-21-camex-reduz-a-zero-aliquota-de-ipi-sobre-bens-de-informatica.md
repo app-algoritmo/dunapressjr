@@ -1,11 +1,12 @@
 ---
-title: "Camex reduz a zero alíquota de IPI sobre bens de informática"
+title: Camex reduz a zero alíquota de IPI sobre bens de informática
 date: 2020-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Resolução foi publicada na edição de hoje do Diário Oficial.
 

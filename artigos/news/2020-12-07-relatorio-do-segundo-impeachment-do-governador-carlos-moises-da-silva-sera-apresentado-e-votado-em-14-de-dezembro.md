@@ -1,11 +1,13 @@
 ---
-title: "Relatório do segundo impeachment do governador Carlos Moisés da Silva, será apresentado e votado em 14 de dezembro"
+title: Relatório do segundo impeachment do governador Carlos Moisés da Silva, será
+  apresentado e votado em 14 de dezembro
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Está marcada para o dia 14 de dezembro, às 9 horas, a sessão do Tribunal Especial de Julgamento para leitura do relatório e votação da admissibilidade do segundo processo de impeachment do governador Carlos Moisés da Silva. A informação foi publicada no Diário da Assembleia Legislativa nesta segunda-feira (30). Este processo trata da compra dos 200 respiradores junto à empresa Veigamed e da tentativa de contratação do hospital de campanha de Itajaí, entre outras supostas irregularidades.
 

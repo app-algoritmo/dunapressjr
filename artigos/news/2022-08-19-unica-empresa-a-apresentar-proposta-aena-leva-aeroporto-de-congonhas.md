@@ -1,11 +1,12 @@
 ---
-title: "Única empresa a apresentar proposta, Aena leva Aeroporto de Congonhas"
+title: Única empresa a apresentar proposta, Aena leva Aeroporto de Congonhas
 date: 2022-08-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bloco adquirido por grupo espanhol inclui terminais em mais 3 estados.
 

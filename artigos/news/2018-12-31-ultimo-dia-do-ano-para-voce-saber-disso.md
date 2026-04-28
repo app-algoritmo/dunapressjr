@@ -1,11 +1,12 @@
 ---
-title: "Último dia do ano para você saber disso"
+title: Último dia do ano para você saber disso
 date: 2018-12-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Porque Duna se chama Duna?**
 

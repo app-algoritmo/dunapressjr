@@ -1,11 +1,12 @@
 ---
-title: "Terremoto na Síria ultrapassa 2.600 mortos"
+title: Terremoto na Síria ultrapassa 2.600 mortos
 date: 2023-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Número de mortos em terremoto na Síria ultrapassa 2.600, mas muitos ainda estão presos.
 

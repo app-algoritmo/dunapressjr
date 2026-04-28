@@ -1,11 +1,13 @@
 ---
-title: "Urgente: A Agência Européia de Medicamentos (EMA) recomendou que a BioNTech e a vacina Pfizer Comirnaty recebessem aprovação condicional"
+title: 'Urgente: A Agência Européia de Medicamentos (EMA) recomendou que a BioNTech
+  e a vacina Pfizer Comirnaty recebessem aprovação condicional'
 date: 2020-12-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Noruega | Comunicado - Data: 21.12.2020.
 

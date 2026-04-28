@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto de auxílio financeiro para famílias de baixa renda atingidas por desastres"
+title: Comissão aprova projeto de auxílio financeiro para famílias de baixa renda
+  atingidas por desastres
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Projeto será analisado por outras duas comissões da Câmara.
 

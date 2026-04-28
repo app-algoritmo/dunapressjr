@@ -1,11 +1,12 @@
 ---
-title: "Agora é a Saúde que está no balcão"
+title: Agora é a Saúde que está no balcão
 date: 2024-06-06
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Um fato curioso ocorreu no Congresso semana passada. A oposição obteve uma vitória significativa ao rejeitar os vetos presidenciais e manter os do presidente Bolsonaro, mas chamou atenção especial um PLN (Projeto de Lei do Congresso Nacional) com destinação para a área da Saúde, de quase 3 bilhões de reais.
 

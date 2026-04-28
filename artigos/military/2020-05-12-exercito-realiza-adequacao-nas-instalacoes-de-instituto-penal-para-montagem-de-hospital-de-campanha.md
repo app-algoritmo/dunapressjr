@@ -1,11 +1,13 @@
 ---
-title: "Exército realiza adequação nas instalações de instituto penal para montagem de hospital de campanha"
+title: Exército realiza adequação nas instalações de instituto penal para montagem
+  de hospital de campanha
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – No dia 9 de maio, militares do 1º Batalhão de Engenharia de Combate (Escola) iniciaram os trabalhos de adequação das instalações do Instituto Penal Santo Expedito (Presídio Feminino), para montagem de um hospital de campanha.
 

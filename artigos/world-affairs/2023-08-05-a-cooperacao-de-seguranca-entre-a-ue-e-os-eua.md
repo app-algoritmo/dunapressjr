@@ -1,11 +1,12 @@
 ---
-title: "A 'cooperação de segurança' entre a UE e os EUA"
+title: A 'cooperação de segurança' entre a UE e os EUA
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## *
 Os resultados vazados de uma reunião em Estocolmo de 16 a 17 de março de 2023 confirmam a transnacionalização contínua de dados pessoais.*

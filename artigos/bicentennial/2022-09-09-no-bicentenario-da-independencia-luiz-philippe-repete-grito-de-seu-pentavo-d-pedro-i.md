@@ -1,12 +1,14 @@
 ---
-title: "No Bicentenário da Independência, Luiz Philippe repete grito de seu pentavô, d. Pedro I"
+title: No Bicentenário da Independência, Luiz Philippe repete grito de seu pentavô,
+  d. Pedro I
 date: 2022-09-09
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Bicentennial
-  - News
+- Bicentennial
+- News
 ---
+
 
 Na Av. Paulista, em São Paulo, o deputado federal e membro da família imperial, Luiz Philippe, convoca população ao juramento de Liberdade que fundou o Brasil como estado soberano
 

@@ -1,11 +1,12 @@
 ---
-title: "Vulnerabilidade do Registro Eleitoral nos EUA: Impactos e Ação Legislativa"
+title: 'Vulnerabilidade do Registro Eleitoral nos EUA: Impactos e Ação Legislativa'
 date: 2024-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Associação de Operações Especiais da América (SOAA) emitiu um alerta preocupante sobre a vulnerabilidade do sistema de registro eleitoral dos Estados Unidos. Segundo a SOAA, estrangeiros ilegais e outros "não cidadãos" podem obter formulários de recenseamento eleitoral sem necessidade de apresentar prova de cidadania em pelo menos 49 estados. Essa falha é facilitada pela Lei Nacional de Registro Eleitoral (NVRA) de 1993, que exige que os estados ofereçam formulários de registro eleitoral em seus departamentos de veículos motorizados (DMVs) e outros escritórios de assistência social.
 

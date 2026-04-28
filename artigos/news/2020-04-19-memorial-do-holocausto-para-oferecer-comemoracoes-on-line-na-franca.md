@@ -1,11 +1,12 @@
 ---
-title: "Memorial do Holocausto para oferecer comemorações on-line na França"
+title: Memorial do Holocausto para oferecer comemorações on-line na França
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Memorial Shoah em Paris transmitirá ao vivo em seu site e nas páginas do Facebook as cerimônias do 77º aniversário da Revolta do Gueto de Varsóvia no domingo e a leitura dos nomes das vítimas de segunda a noite, anunciou. em um comunicado de imprensa.
 

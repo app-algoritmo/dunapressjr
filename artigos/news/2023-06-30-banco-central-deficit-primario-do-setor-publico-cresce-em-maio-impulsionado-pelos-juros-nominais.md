@@ -1,11 +1,13 @@
 ---
-title: "Banco Central: Déficit primário do setor público cresce em maio, impulsionado pelos juros nominais"
+title: 'Banco Central: Déficit primário do setor público cresce em maio, impulsionado
+  pelos juros nominais'
 date: 2023-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor público consolidado registra déficit de R$50,2 bilhões e dívida pública continua em alta.
 

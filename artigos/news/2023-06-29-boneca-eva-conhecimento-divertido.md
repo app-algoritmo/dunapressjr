@@ -1,11 +1,12 @@
 ---
-title: "Boneca Eva: Conhecimento divertido"
+title: 'Boneca Eva: Conhecimento divertido'
 date: 2023-06-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lembro-me de ter ido conhecer está boneca. Ela ficou exposta no pátio do Hiper Mercado em Itajaí Santa Catarina em 1987.
 

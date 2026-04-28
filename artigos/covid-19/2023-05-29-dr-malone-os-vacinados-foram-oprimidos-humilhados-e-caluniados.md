@@ -1,11 +1,12 @@
 ---
-title: "Dr Malone: ​​Os vacinados foram oprimidos, humilhados e caluniados"
+title: 'Dr Malone: ​​Os vacinados foram oprimidos, humilhados e caluniados'
 date: 2023-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## [A performance do Music for Hope](https://www.youtube.com/watch?v=bpXwOSHTwsY) de Andrea Bocelli no auge dos bloqueios globais do COVID foi vista 25 milhões de vezes.
 

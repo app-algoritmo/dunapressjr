@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Pais e responsáveis devem repassar informações confiáveis e esclarecer dúvidas"
+title: 'Coronavírus: Pais e responsáveis devem repassar informações confiáveis e esclarecer
+  dúvidas'
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um material com dicas e orientações para crianças e adolescentes sobre o novo coronavírus (Covid-19) foi lançado, nesta sexta-feira (20), pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH). [O informativo](https://www.mdh.gov.br/todas-as-noticias/2020-2/marco/ministerio-lanca-material-sobre-o-novo-coronavirus-para-criancas-e-adolescentes/bannercoronavirussndca.png) foi a maneira que a pasta encontrou de reforçar as orientações lançadas pelo Ministério da Saúde para o público mais jovem sobre a pandemia.
 

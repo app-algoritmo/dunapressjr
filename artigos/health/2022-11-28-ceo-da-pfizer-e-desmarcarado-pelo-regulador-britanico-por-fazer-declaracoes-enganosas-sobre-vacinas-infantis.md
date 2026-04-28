@@ -1,12 +1,14 @@
 ---
-title: "CEO da Pfizer é desmarcarado pelo regulador britânico por fazer declarações 'enganosas' sobre vacinas infantis"
+title: CEO da Pfizer é desmarcarado pelo regulador britânico por fazer declarações
+  'enganosas' sobre vacinas infantis
 date: 2022-11-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 ## Bourla afirmou que crianças de 5 a 11 anos se beneficiaram da vacinação, mas a agência farmacêutica disse que as observações enganaram o público.
 

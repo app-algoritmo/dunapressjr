@@ -1,11 +1,13 @@
 ---
-title: "Reduzir a ingestão diária de açúcar para menos de 6 colheres de chá beneficia a saúde geral"
+title: Reduzir a ingestão diária de açúcar para menos de 6 colheres de chá beneficia
+  a saúde geral
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 De acordo com a Organização Mundial da Saúde (OMS), o açúcar adicionado não deve representar mais de 10% de sua ingestão diária de energia. Um estudo recente também descobriu que [limitar a ingestão de açúcar a apenas seis colheres de chá por dia](https://studyfinds.org/6-teaspoons-of-sugar-health/) e tomar apenas uma bebida açucarada por semana pode melhorar significativamente seu bem-estar geral.
 

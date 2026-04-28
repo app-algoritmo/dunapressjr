@@ -1,11 +1,13 @@
 ---
-title: "O Líbano procura evitar aderir ao conflito, a escalada ainda é possível, diz o primeiro-ministro"
+title: O Líbano procura evitar aderir ao conflito, a escalada ainda é possível, diz
+  o primeiro-ministro
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Najib Mikati, o Líbano está “no meio de uma tempestade” causada pelo conflito.
 

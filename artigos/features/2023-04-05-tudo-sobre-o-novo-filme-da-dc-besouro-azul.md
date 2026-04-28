@@ -1,12 +1,13 @@
 ---
-title: "Tudo sobre o novo filme da DC Besouro Azul"
+title: Tudo sobre o novo filme da DC Besouro Azul
 date: 2023-04-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Besouro Azul está chegando! Uma das produções mais aguardadas da DC Comics está prestes a ganhar novidades.
 

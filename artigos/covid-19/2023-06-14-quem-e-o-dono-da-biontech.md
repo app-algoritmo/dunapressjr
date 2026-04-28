@@ -1,11 +1,12 @@
 ---
-title: "Quem é o dono da BioNTech?"
+title: Quem é o dono da BioNTech?
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Portanto, agora que está estabelecido que o principal beneficiário da corrida do ouro da “vacina” Covid-19 dos últimos dois anos não é a Pfizer, mas a ainda incrivelmente pouco conhecida e até agora pequena empresa alemã BioNTech, algo precisa ser dito sobre quem é o dono BioNTech .
 

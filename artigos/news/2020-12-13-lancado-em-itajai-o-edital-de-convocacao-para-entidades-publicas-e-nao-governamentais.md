@@ -1,11 +1,12 @@
 ---
-title: "Lançado em Itajaí o edital de convocação para entidades públicas e não-governamentais"
+title: Lançado em Itajaí o edital de convocação para entidades públicas e não-governamentais
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria Municipal de Desenvolvimento Urbano e Habitação, lançou o edital para a eleição e composição do Conselho Municipal de Gestão e Desenvolvimento Territorial. O documento convoca os interessados para audiência pública marcada para 21 de dezembro, às 18h30, no auditório da Prefeitura de Itajaí. Inscrições das entidades iniciaram na última sexta-feira (04) e vão até as 14h do dia da audiência.
 

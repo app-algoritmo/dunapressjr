@@ -1,11 +1,12 @@
 ---
-title: "Reforma Tributária: representantes da indústria pedem limite para isenções"
+title: 'Reforma Tributária: representantes da indústria pedem limite para isenções'
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O setor industrial está preocupado com a quantidade de isenções e alíquotas diferenciadas previstas no texto da reforma tributária em análise no Senado (PEC) [45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/137699). Em audiência pública na Comissão de Constituição e Justiça (CCJ) nesta quinta-feira (24), representantes da indústria apontaram que se a lista de isenções crescer, haverá aumento de carga para outros setores.  
 

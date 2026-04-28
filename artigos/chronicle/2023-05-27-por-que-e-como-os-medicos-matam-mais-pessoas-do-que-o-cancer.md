@@ -1,11 +1,12 @@
 ---
-title: "Por que e como os médicos matam mais pessoas do que o câncer"
+title: Por que e como os médicos matam mais pessoas do que o câncer
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Algumas décadas atrás, usei números de mortalidade para mostrar que os médicos são uma das três principais causas de morte, junto com doenças circulatórias e câncer. Na época, minha conclusão foi amplamente ridicularizada, mas hoje você dificilmente encontrará um médico que não concorde que eu estava certo.
 

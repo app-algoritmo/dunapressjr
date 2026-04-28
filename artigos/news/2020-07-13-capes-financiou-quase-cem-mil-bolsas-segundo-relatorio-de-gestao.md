@@ -1,11 +1,12 @@
 ---
-title: "Capes financiou quase cem mil bolsas, segundo relatório de gestão"
+title: Capes financiou quase cem mil bolsas, segundo relatório de gestão
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Disponível para consulta, o documento apresenta dados consolidados sobre financiamento e mostra que a pós-graduação brasileira recebeu mais de R$2 bi em 2019.
 

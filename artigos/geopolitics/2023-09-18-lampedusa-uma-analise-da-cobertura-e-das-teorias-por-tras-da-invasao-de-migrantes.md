@@ -1,11 +1,12 @@
 ---
-title: "Lampedusa: Uma Análise da Cobertura e das Teorias por Trás da Invasão de Migrantes"
+title: 'Lampedusa: Uma Análise da Cobertura e das Teorias por Trás da Invasão de Migrantes'
 date: 2023-09-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Nos últimos anos, a pequena ilha de Lampedusa, situada no sul da Itália, tem sido manchete de notícias devido à chegada de um grande número de migrantes africanos em suas costas. Entre os jornalistas que cobriram essa situação está Erik Tegner, um repórter francês que trouxe à tona informações intrigantes sobre a invasão e suas possíveis motivações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão lista críticas a governo Lula e STF por acontecimentos recentes"
+title: Girão lista críticas a governo Lula e STF por acontecimentos recentes
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) afirmou, em pronunciamento nesta segunda-feira (11), ser necessário que a população volte às ruas para protestar e demonstrar a insatisfação com as arbitrariedades do governo federal e do Supremo Tribunal Federal (STF). Girão informou que tem ouvido diversos segmentos da população, independente da corrente política. Segundo ele, há incertezas com relação ao rumo que o país está tomando sob a liderança do presidente Lula. 
 

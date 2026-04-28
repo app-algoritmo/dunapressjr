@@ -1,11 +1,12 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: Cadastro Único melhora e facilita fiscalização"
+title: 'AUXÍLIO EMERGENCIAL: Cadastro Único melhora e facilita fiscalização'
 date: 2020-06-18
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Detalhes técnicos e operacionais foram alterados e prometem avanços.
 

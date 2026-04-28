@@ -1,11 +1,13 @@
 ---
-title: "Uma cobra que se alimenta de cobras e é imune aos seus venenos: conheça a muçurana"
+title: 'Uma cobra que se alimenta de cobras e é imune aos seus venenos: conheça a
+  muçurana'
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Você sabia que existem cobras que comem cobras? Esse é o almoço preferido da muçurana, nome popular para diferentes espécies de cobra que se alimentam de outras serpentes, inclusive as venenosas. Também chamada de cobra-preta, ela ataca até suas primas mais perigosas, como a jararaca, pois é imune ao seu veneno. Esse “gosto” inusitado, chamado de ofiofagia, foi descoberto pelo médico Vital Brazil, fundador do Instituto Butantan, em 1909. A primeira muçurana estudada por ele (da espécie *Clelia clelia*) matou e comeu, em um ano, 17 jararacas.
 

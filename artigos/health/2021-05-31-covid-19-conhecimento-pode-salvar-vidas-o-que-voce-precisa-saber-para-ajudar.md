@@ -1,11 +1,12 @@
 ---
-title: "Covid-19 | Conhecimento pode salvar vidas | O que você precisa saber para ajudar"
+title: Covid-19 | Conhecimento pode salvar vidas | O que você precisa saber para ajudar
 date: 2021-05-31
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 **ORIENTAÇÃO MÉDICA PARA PREVENIR E TRATAR**
 

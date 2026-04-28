@@ -1,11 +1,13 @@
 ---
-title: "Após quatro anos de pesquisa, indústria brasileira produz insumo para medicamento do SUS e tem capacidade de atender parte da demanda mundial"
+title: Após quatro anos de pesquisa, indústria brasileira produz insumo para medicamento
+  do SUS e tem capacidade de atender parte da demanda mundial
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Brasil produz apenas 5% do total de IFAs que são utilizados na indústria farmacêutica nacional; iniciativa de empresa verticaliza ações para diminuir dependência de países como China e Índia.
 

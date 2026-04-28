@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro entrega novas moradias para mais de 400 famílias de São Paulo e Paraná"
+title: Governo Bolsonaro entrega novas moradias para mais de 400 famílias de São Paulo
+  e Paraná
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Foram investidos R$ 36,7 milhões na construção das unidades habitacionais do Minha Casa, Minha Vida. R$ 425 milhões foram destinada à continuidade das obras de 301 mil moradias para famílias que ganham até R$ 1.800.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta de 0,52%, atingindo maior nível desde fevereiro"
+title: Ibovespa fecha em alta de 0,52%, atingindo maior nível desde fevereiro
 date: 2023-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Principais indicadores do mercado acionário brasileiro e dos Estados Unidos movimentam o cenário financeiro nesta segunda-feira.
 

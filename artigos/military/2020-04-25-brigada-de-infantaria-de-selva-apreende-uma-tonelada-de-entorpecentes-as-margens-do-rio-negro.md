@@ -1,11 +1,13 @@
 ---
-title: "Brigada de Infantaria de Selva apreende uma tonelada de entorpecentes às margens do Rio Negro"
+title: Brigada de Infantaria de Selva apreende uma tonelada de entorpecentes às margens
+  do Rio Negro
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Gabriel da Cachoeira (AM) **– No contexto da Operação Escudo, cuja finalidade é coibir a ocorrência de crimes transfonteiriços e ambientais, conforme previsto na Lei Complementar nº 97, de 9 de junho de 1999, tropas da 2ª Brigada de Infantaria de Selva realizaram, no dia 22 de abril, a apreensão de cerca de uma tonelada de entorpecentes (Skunk), às margens do Rio Negro, próximo à área urbana de São Gabriel da Cachoeira.
 

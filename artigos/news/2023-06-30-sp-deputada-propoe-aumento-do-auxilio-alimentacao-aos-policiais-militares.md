@@ -1,11 +1,12 @@
 ---
-title: "SP: Deputada propõe aumento do auxílio-alimentação aos Policiais Militares"
+title: 'SP: Deputada propõe aumento do auxílio-alimentação aos Policiais Militares'
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A deputada Dani Alonso, vice-líder do Partido Liberal (PL) na Assembleia Legislativa do Estado de São Paulo (Alesp), apresentou a [Indicação Nº 2158/2023](https://www.al.sp.gov.br/propositura?id=1000492280), com o objetivo de sugerir ao governador a adoção de medidas para aumentar o valor do auxílio-alimentação concedido aos integrantes da Polícia Militar do Estado de São Paulo. A indicação foi protocolada em 15 de junho de 2023 e se encontra em tramitação.
 

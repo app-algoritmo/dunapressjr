@@ -1,11 +1,12 @@
 ---
-title: "IBGE: 32% dos solos do país têm potencial natural para a agricultura"
+title: 'IBGE: 32% dos solos do país têm potencial natural para a agricultura'
 date: 2022-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### País tem mais de 500 tipos de solos.
 

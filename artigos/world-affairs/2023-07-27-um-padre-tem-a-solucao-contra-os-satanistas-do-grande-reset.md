@@ -1,11 +1,12 @@
 ---
-title: "Um padre tem a solução contra os satanistas do Grande Reset"
+title: Um padre tem a solução contra os satanistas do Grande Reset
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O padre Sorin Croitoru da Itália, cujas declarações relevantes já foram publicadas pelo ActiveNews, tem uma solução simples, clara e eficaz para o Great Reset, que também apresentamos nas conferências ActiveNews - State of Freedom sobre este tema. Mas o padre Sorin Croitoru resume esta solução melhor do que nós, e é por isso que adotamos na íntegra seu curto e conciso discurso:
 

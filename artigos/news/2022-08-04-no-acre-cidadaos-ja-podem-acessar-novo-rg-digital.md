@@ -1,11 +1,12 @@
 ---
-title: "No Acre, cidadãos já podem acessar novo RG digital"
+title: No Acre, cidadãos já podem acessar novo RG digital
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Documento nacional de identificação será unificado pelo número do CPF.
 

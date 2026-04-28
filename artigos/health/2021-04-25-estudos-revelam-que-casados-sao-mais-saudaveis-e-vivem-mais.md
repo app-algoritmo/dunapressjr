@@ -1,11 +1,12 @@
 ---
-title: "Estudos revelam que casados são mais saudáveis e vivem mais"
+title: Estudos revelam que casados são mais saudáveis e vivem mais
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pesquisadores indicam ainda que maiores níveis de estresse, ansiedade e depressão durante a pandemia são identificados em solteiros.
 

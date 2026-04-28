@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, combate o tráfico de drogas em cidades mineiras"
+title: PF, em ação integrada, combate o tráfico de drogas em cidades mineiras
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Nesta sexta-feira (8/5), a Força Integrada de Combate ao Crime Organizado (FICCO), força-tarefa coordenada pela Polícia Federal e integrada pela Polícia Civil, pela Polícia Rodoviária Federal, Polícia Militar e pelo Departamento Penitenciário de Minas Gerais/Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais, deflagrou a Operação ANESTESIA, que investiga organização criminosa que controla vários pontos de tráfico de drogas na região metropolitana de Belo Horizonte.
 

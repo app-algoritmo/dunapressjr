@@ -1,11 +1,12 @@
 ---
-title: "Ex-Presidente do Peru ficará em prisão preventiva por 18 meses"
+title: Ex-Presidente do Peru ficará em prisão preventiva por 18 meses
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Castillo foi preso em 7 de dezembro após ser destituído pelo Congresso pouco depois de anunciar o fechamento do Congresso.
 

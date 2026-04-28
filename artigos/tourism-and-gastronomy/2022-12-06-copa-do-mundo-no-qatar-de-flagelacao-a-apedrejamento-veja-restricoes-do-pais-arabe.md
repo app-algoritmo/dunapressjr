@@ -1,11 +1,13 @@
 ---
-title: "Copa do Mundo no Qatar: de flagelação a apedrejamento, veja restrições do país árabe"
+title: 'Copa do Mundo no Qatar: de flagelação a apedrejamento, veja restrições do
+  país árabe'
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Um país absolutista, muito rico, dono da terceira maior reserva de gás natural do mundo, com apenas 3 milhões de habitantes e com leis e costumes bastante diferentes dos brasileiros. Mesmo com uma série de escândalos na preparação para o evento, como a morte de mais de 6 mil pessoas nas obras dos estádios e inúmeras violações aos direitos humanos, o Qatar  a sede da Copa do Mundo FIFA 2022, sendo a primeira vez que um país do Oriente Médio recebe um evento desse porte.
 

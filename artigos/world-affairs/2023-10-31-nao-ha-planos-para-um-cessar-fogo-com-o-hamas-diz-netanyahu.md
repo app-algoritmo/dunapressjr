@@ -1,11 +1,12 @@
 ---
-title: "Não há planos para um cessar-fogo com o Hamas, diz Netanyahu"
+title: Não há planos para um cessar-fogo com o Hamas, diz Netanyahu
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Ao combater o Hamas e o eixo iraniano de terror, Israel está a combater os inimigos da própria civilização”, acrescentou Benjamin Netanyahu.
 

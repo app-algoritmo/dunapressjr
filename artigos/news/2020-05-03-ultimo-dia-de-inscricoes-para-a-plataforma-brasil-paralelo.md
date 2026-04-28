@@ -1,11 +1,12 @@
 ---
-title: "Último Dia de Inscrições para a Plataforma Brasil Paralelo"
+title: Último Dia de Inscrições para a Plataforma Brasil Paralelo
 date: 2020-05-03
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 O Brasil Paralelo – um grupo de gaúchos com o ambicioso objetivo de reeducação do brasileiro – está em seu último dia (03/05/2020) de inscrições com uma promoção especial para se tornar membro, não perca esta chance!
 

@@ -1,11 +1,12 @@
 ---
-title: "Putin Adverte: A Questão Ucraniana é uma Questão de Vida ou Morte para a Rússia"
+title: 'Putin Adverte: A Questão Ucraniana é uma Questão de Vida ou Morte para a Rússia'
 date: 2024-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma **[entrevista](https://dunapress.org/2024/02/09/entrevista-de-tucker-carlson-a-vladimir-putin-dublagem-em-portugues/)** recente com o jornalista norte-americano **[Tucker Carlson](https://dunapress.org/2024/02/09/entrevista-de-tucker-carlson-a-vladimir-putin-dublagem-em-portugues/)**, o presidente russo, Vladimir Putin, fez declarações contundentes sobre a importância crucial da situação na Ucrânia para a Rússia. Putin destacou que, enquanto o Ocidente parece tratar a questão como uma mera estratégia tática, para a Rússia é uma questão de sobrevivência. Em suas palavras, "Para eles trata-se de melhorar a sua posição tática, mas para nós trata-se do nosso destino, uma questão de vida ou morte."
 

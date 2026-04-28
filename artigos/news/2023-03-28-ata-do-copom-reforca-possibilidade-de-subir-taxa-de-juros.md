@@ -1,11 +1,12 @@
 ---
-title: "Ata do Copom reforça possibilidade de subir taxa de juros"
+title: Ata do Copom reforça possibilidade de subir taxa de juros
 date: 2023-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## BC avalia se manter Selic pode assegurar convergência da inflação.
 

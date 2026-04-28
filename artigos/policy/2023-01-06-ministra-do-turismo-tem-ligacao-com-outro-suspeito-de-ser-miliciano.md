@@ -1,11 +1,12 @@
 ---
-title: "Ministra do Turismo tem ligação com outro suspeito de ser miliciano"
+title: Ministra do Turismo tem ligação com outro suspeito de ser miliciano
 date: 2023-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Terceiro-sargento bombeiro Márcio Pagniez tem dois parentes nomeados para cargos na prefeitura de Belfort Roxo, na gestão do marido de Daniela Carneiro.
 

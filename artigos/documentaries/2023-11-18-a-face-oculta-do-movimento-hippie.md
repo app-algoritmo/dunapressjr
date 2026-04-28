@@ -1,11 +1,12 @@
 ---
-title: "A face oculta do Movimento Hippie"
+title: A face oculta do Movimento Hippie
 date: 2023-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por trás de aclamadas personalidades há um lado obscuro que ninguém está olhando. Neste programa documental e cheio de mistérios, abordaremos a face oculta das principais personalidades e instituições. 
 

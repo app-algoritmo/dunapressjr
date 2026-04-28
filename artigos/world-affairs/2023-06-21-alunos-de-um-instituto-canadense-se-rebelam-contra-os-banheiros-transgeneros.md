@@ -1,11 +1,12 @@
 ---
-title: "Alunos de um instituto canadense se rebelam contra os 'banheiros transgêneros'"
+title: Alunos de um instituto canadense se rebelam contra os 'banheiros transgêneros'
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os alunos da Longfields-Davidson Secondary School (Canadá) organizaram na última quinta-feira um protesto nos arredores do centro contra a imposição da **ideologia de gênero** que é ensinada nas escolas de Ontário.
 

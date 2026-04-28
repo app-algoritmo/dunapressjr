@@ -1,11 +1,12 @@
 ---
-title: "CDC relata centenas de casos de Guillain-Barre após vacina com mRNA"
+title: CDC relata centenas de casos de Guillain-Barre após vacina com mRNA
 date: 2023-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um dos primeiros alertas veio em julho de 2021 no contexto da vacinação contra COVID-19: Síndrome de Guillain-Barre (GBS) ou paralisia ascendente com risco de vida com a vacina adenoviral COVID-19 da Janssen. 
 

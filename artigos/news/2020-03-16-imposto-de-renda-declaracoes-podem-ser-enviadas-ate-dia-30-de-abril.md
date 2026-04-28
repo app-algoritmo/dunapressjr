@@ -1,11 +1,12 @@
 ---
-title: "Imposto de renda: Declarações podem ser enviadas até dia 30 de abril"
+title: 'Imposto de renda: Declarações podem ser enviadas até dia 30 de abril'
 date: 2020-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal já recebeu, em pouco mais de 10 dias, 3,8 milhões de declarações do Imposto de Renda da Pessoa Física (IRPF) 2020, ano-base 2019. O início do envio das declarações foi dia 2 de março. O montante é 11,8% do total de 32 milhões de documentos esperados até 30 de abril, quando termina o prazo de entrega.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Defesa acompanha Presidente da República em visita ao Comando de Artilharia do Exército"
+title: Ministro da Defesa acompanha Presidente da República em visita ao Comando de
+  Artilharia do Exército
 date: 2020-06-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministro da Defesa, Fernando Azevedo, acompanhou o Presidente da República, Jair Bolsonaro, e o Comandante do Exército, Edson Leal Pujol, em visita ao Comando de Artilharia do Exército. A instalação fica no Forte Santa Bárbara, em Formosa, município goiano a quase 80 Km da capital federal.
 

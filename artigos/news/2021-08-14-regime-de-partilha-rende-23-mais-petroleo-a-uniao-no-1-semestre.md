@@ -1,11 +1,12 @@
 ---
-title: "Regime de partilha rende 23% mais petróleo à União no 1º semestre"
+title: Regime de partilha rende 23% mais petróleo à União no 1º semestre
 date: 2021-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contratos renderam à União 28,5 milhões de metros cúbicos de gás.
 

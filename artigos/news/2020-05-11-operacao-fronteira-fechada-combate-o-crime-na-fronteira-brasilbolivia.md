@@ -1,11 +1,12 @@
 ---
-title: "Operação Fronteira Fechada combate o crime na fronteira Brasil/Bolívia"
+title: Operação Fronteira Fechada combate o crime na fronteira Brasil/Bolívia
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guajará-Mirim/RO - A Polícia Federal, em mais uma ação da OPERAÇÃO FRONTEIRA FECHADA, com o apoio do Exército Brasileiro, deparou-se com indivíduos tentando cruzar o rio com dois veículos suspeitos.
 

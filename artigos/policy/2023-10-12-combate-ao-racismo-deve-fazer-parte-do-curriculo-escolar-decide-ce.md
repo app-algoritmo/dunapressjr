@@ -1,11 +1,12 @@
 ---
-title: "Combate ao racismo deve fazer parte do currículo escolar, decide CE"
+title: Combate ao racismo deve fazer parte do currículo escolar, decide CE
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Educação e Cultura (CE) aprovou no dia 3 de outubro um projeto de lei que obriga os currículos da educação infantil, do ensino fundamental e do ensino médio a abordarem o combate ao racismo. O [Projeto de Lei 288/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/151762), do senador Randolfe Rodrigues (Rede-AP), recebeu relatório favorável da senadora Professora Dorinha Seabra (União-TO).  
 

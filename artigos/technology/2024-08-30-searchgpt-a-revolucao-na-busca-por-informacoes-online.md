@@ -1,11 +1,12 @@
 ---
-title: "SearchGPT: A Revolução na Busca por Informações Online"
+title: 'SearchGPT: A Revolução na Busca por Informações Online'
 date: 2024-08-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 A evolução das ferramentas de busca é uma das mais significativas transformações na maneira como consumimos informações na era digital. Desde os primeiros motores de busca, como o AltaVista, até gigantes como o Google, a busca na internet tem se tornado cada vez mais sofisticada. Agora, com o lançamento do **[SearchGPT](https://openai.com/index/searchgpt-prototype/)**, estamos prestes a testemunhar uma nova revolução.
 

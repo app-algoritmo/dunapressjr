@@ -1,11 +1,12 @@
 ---
-title: "Safra de grãos deve ser 4,2% superior à produção de 2019, diz IBGE"
+title: Safra de grãos deve ser 4,2% superior à produção de 2019, diz IBGE
 date: 2020-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A área colhida deve chegar a 65,2 milhões de hectares.
 

@@ -1,11 +1,13 @@
 ---
-title: "Consumir bastante água faz bem, mas excesso pode indicar problemas físicos e mentais"
+title: Consumir bastante água faz bem, mas excesso pode indicar problemas físicos
+  e mentais
 date: 2021-11-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Que a água é um elemento essencial na rotina de todos e que traz diversos benefícios para a saúde não é nenhuma surpresa, mas o que poucos sabem é que o consumo excessivo pode trazer graves consequências para o organismo. "Cada um de nós tem necessidades e características físicas próprias, o que torna o consumo de água algo particular", explica a nefrologista, doutora em Ciências da Saúde e professora do curso de Medicina da Universidade Positivo (UP), Mariane Rigo. 
 

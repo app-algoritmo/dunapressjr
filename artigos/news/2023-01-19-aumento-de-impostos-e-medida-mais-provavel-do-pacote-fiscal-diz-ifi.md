@@ -1,11 +1,12 @@
 ---
-title: "Aumento de impostos é medida mais provável do pacote fiscal, diz IFI"
+title: Aumento de impostos é medida mais provável do pacote fiscal, diz IFI
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento de impostos é medida mais provável do pacote fiscal, diz IFI.
 

@@ -1,11 +1,12 @@
 ---
-title: "Laboratório Químico Farmacêutico do Exército intensifica a produção de cloroquina"
+title: Laboratório Químico Farmacêutico do Exército intensifica a produção de cloroquina
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – Após o surgimento de diversos casos da doença respiratória causada pelo coronavírus (COVID-19) na China, o governo brasileiro, preocupado com a proliferação do vírus, vem adotando medidas de preparação e orientação dos serviços de saúde e da população em todo o país.
 

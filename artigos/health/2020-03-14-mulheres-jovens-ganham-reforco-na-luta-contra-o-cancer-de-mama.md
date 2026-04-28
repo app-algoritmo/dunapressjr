@@ -1,11 +1,12 @@
 ---
-title: "Mulheres jovens ganham reforço na luta contra o câncer de mama"
+title: Mulheres jovens ganham reforço na luta contra o câncer de mama
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 *Governo altera lei para garantir acesso de mulheres jovens à ultrassonografia mamária*. *SUS vai garantir o exame de ultrassonografia mamária àquelas com elevado risco da doença*.
 

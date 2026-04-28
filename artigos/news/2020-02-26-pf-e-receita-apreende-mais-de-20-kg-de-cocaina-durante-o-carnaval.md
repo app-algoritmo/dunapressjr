@@ -1,11 +1,12 @@
 ---
-title: "PF e Receita apreende mais de 20 kg de cocaína durante o carnaval"
+title: PF e Receita apreende mais de 20 kg de cocaína durante o carnaval
 date: 2020-02-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guarulhos/SP
 – A Polícia Federal, em ação conjunta com a Receita, apreendeu mais de 20 kg de

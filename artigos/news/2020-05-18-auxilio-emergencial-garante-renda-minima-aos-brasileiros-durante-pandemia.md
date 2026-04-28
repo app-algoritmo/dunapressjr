@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Emergencial garante renda mínima aos brasileiros durante pandemia"
+title: Auxílio Emergencial garante renda mínima aos brasileiros durante pandemia
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Auxílio Emergencial foi um benefício criado para garantir uma renda mínima aos brasileiros em situação mais vulnerável durante a pandemia da Covid-19 (novo coronavírus). Em apenas um mês, o benefício já havia chegado a mais de 50 milhões de pessoas e mais de R$ 35 bilhões creditados. 
 

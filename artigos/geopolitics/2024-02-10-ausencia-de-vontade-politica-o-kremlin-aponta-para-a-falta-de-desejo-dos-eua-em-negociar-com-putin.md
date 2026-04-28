@@ -1,11 +1,13 @@
 ---
-title: "Ausência de Vontade Política: O Kremlin Aponta para a Falta de Desejo dos EUA em Negociar com Putin"
+title: 'Ausência de Vontade Política: O Kremlin Aponta para a Falta de Desejo dos
+  EUA em Negociar com Putin'
 date: 2024-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Autoridades russas afirmam que os Estados Unidos estão plenamente conscientes das mensagens chave de Vladimir Putin, mas a falta de desejo e vontade política por parte dos EUA está impedindo negociações. O porta-voz do Kremlin, Dmitry Peskov, destacou em uma entrevista à TASS que não se trata de falta de conhecimento sobre a posição russa, mas sim da ausência de interesse político por parte dos Estados Unidos.
 

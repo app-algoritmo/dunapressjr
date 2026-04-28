@@ -1,11 +1,13 @@
 ---
-title: "Governo adquire equipamento que acelera a análise de vestígios de violências sexuais contra mulheres"
+title: Governo adquire equipamento que acelera a análise de vestígios de violências
+  sexuais contra mulheres
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Afirma ministro Sergio Moro: "Investigações de crimes sexuais no Brasil vão ganhar celeridade".  Plataforma de extração de DNA atenderá a estados que não possuem infraestrutura.
 

@@ -1,11 +1,12 @@
 ---
-title: "Posse: Aeroporto de Brasília terá policiamento reforçado"
+title: 'Posse: Aeroporto de Brasília terá policiamento reforçado'
 date: 2022-12-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Operação integrada irá contar com contingente das polícias Militar, Civil e Federal.
 

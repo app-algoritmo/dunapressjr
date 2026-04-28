@@ -1,11 +1,12 @@
 ---
-title: "Adrenocromo, a super droga das elites"
+title: Adrenocromo, a super droga das elites
 date: 2023-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Soldados treinados em guerra subterrânea estão destruindo esses lugares. Eles resgatam as crianças e então destroem os túneis e outras áreas onde isso estava acontecendo. 
 

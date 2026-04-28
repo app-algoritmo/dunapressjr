@@ -1,12 +1,13 @@
 ---
-title: "WEF, Onde todas as decisões são tomadas"
+title: WEF, Onde todas as decisões são tomadas
 date: 2022-12-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 No Forum Economico Mundial (WEF), é onde são tomadas todas as decisões sobre fazer dinheiro, neste artigo falaremos sobre Florestas.
 

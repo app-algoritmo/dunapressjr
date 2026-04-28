@@ -1,11 +1,12 @@
 ---
-title: "Brasileiros criam partícula que mistura ouro e luz"
+title: Brasileiros criam partícula que mistura ouro e luz
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Experiência científica protagonizada por pesquisadores brasileiros e alemães conseguiu dar novo passo no universo da física quântica ao criar uma partícula de ouro-luz inédita no planeta.
 

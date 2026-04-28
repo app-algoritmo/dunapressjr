@@ -1,11 +1,12 @@
 ---
-title: "7 Tipos de massagem que trazem benefícios ao corpo"
+title: 7 Tipos de massagem que trazem benefícios ao corpo
 date: 2022-08-26
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 A massagem tem sido usada por muitos anos como uma técnica de tratamento. Originou-se no Oriente há milhares de anos e tem sido usado no Japão, China, Egito, Irã e outros países há mais de 4.000 anos. Existem diferentes variações de massagem descritas nesses países em escritos antigos.
 

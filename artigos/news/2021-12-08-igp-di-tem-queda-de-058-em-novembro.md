@@ -1,11 +1,12 @@
 ---
-title: "IGP-DI tem queda de 0,58% em novembro"
+title: IGP-DI tem queda de 0,58% em novembro
 date: 2021-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice tem inflação de 16,28% no ano.
 

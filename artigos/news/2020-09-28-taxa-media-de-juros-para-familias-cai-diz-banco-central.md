@@ -1,11 +1,12 @@
 ---
-title: "Taxa média de juros para famílias cai, diz Banco Central"
+title: Taxa média de juros para famílias cai, diz Banco Central
 date: 2020-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa do crédito pessoal (não consignado) chegou a 70,3% ao ano.
 

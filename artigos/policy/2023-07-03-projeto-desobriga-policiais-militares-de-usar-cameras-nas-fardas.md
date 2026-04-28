@@ -1,11 +1,12 @@
 ---
-title: "Projeto desobriga policiais militares de usar câmeras nas fardas"
+title: Projeto desobriga policiais militares de usar câmeras nas fardas
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Conforme a proposta, câmera só pode ser exigida depois que for estendida a todos os servidores públicos civis e militares.
 

@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo negativo de US$ 5,9 bilhões em dezembro"
+title: Contas externas têm saldo negativo de US$ 5,9 bilhões em dezembro
 date: 2022-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com o resultado, Brasil fechou 2021 com déficit de US$ 28,1 bilhões.
 

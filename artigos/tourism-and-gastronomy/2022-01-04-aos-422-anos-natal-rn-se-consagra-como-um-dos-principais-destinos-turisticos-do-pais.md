@@ -1,11 +1,13 @@
 ---
-title: "Aos 422 anos, Natal (RN) se consagra como um dos principais destinos turísticos do país"
+title: Aos 422 anos, Natal (RN) se consagra como um dos principais destinos turísticos
+  do país
 date: 2022-01-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Point dos buggys e reconhecida como terra do camarão, Natal (RN) comemorou 422 anos no dia  25 de Dezembro. Apesar de ser a segunda capital brasileira com a menor área territorial, a cidade potiguar guarda grandes atrativos turísticos, principalmente para os apaixonados por sol e mar. Além das praias deslumbrantes, os turistas podem aproveitar a culinária sem igual, uma arte ímpar, cultura e uma hospitalidade que só os natalenses têm. Para nos apresentar todos estes encantos, convidamos a guia de turismo Patrícia Araújo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Documentos de ensaios clínicos sugerem que Moderna economizou em autópsias, descontou ferimentos graves - o FDA sabia?"
+title: Documentos de ensaios clínicos sugerem que Moderna economizou em autópsias,
+  descontou ferimentos graves - o FDA sabia?
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## *Os documentos que a Moderna enviou ao FDA como parte do processo de aprovação da vacina Spikevax COVID-19 da Moderna forneceram detalhes de mortes inexplicadas e anormalidades fetais em estudos com animais.*
 

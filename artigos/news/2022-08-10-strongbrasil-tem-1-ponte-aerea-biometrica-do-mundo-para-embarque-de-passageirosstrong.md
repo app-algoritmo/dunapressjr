@@ -1,11 +1,12 @@
 ---
-title: "<strong>Brasil tem 1ª ponte aérea biométrica do mundo para embarque de passageiros</strong>"
+title: <strong>Brasil tem 1ª ponte aérea biométrica do mundo para embarque de passageiros</strong>
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aeroportos de Congonhas (SP) e Santos Dumont (RJ) iniciam check-in e embarque nas aeronaves com reconhecimento facial de forma definitiva, sem exigir bilhetes aéreos e documentos do viajante.
 

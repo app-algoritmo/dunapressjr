@@ -1,11 +1,13 @@
 ---
-title: "Câmara pode votar na terça-feira MP que autoriza participação privada na exploração de minérios nucleares"
+title: Câmara pode votar na terça-feira MP que autoriza participação privada na exploração
+  de minérios nucleares
 date: 2022-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados pode analisar, a partir de terça-feira (29), a [Medida Provisória 1133/22](https://www.camara.leg.br/noticias/903175-MEDIDA-PROVISORIA-AUTORIZA-PARTICIPACAO-PRIVADA-NA-EXPLORACAO-DE-MINERIOS-NUCLEARES), que permite a atuação da iniciativa privada na pesquisa e lavra de minérios nucleares, mas mantém o monopólio da atividade nas Indústrias Nucleares do Brasil S.A. (INB), conforme prevê a Constituição.
 

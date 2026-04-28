@@ -1,11 +1,13 @@
 ---
-title: "Estudo patrocinado pela FDA admite que a vacina COVID da Pfizer aumenta o risco de miocardite em crianças"
+title: Estudo patrocinado pela FDA admite que a vacina COVID da Pfizer aumenta o risco
+  de miocardite em crianças
 date: 2023-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Com alguns autores relatando conexões com a Pfizer, o estudo reconhece os perigos da inflamação cardíaca em crianças de 12 a 17 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Regras e novidades do Imposto de Renda 2021"
+title: Regras e novidades do Imposto de Renda 2021
 date: 2021-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Auxílio emergencial e criptomoedas deverão ser declarados.
 

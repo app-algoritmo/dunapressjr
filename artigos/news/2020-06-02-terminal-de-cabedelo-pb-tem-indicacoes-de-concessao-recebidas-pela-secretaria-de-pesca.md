@@ -1,11 +1,13 @@
 ---
-title: "Terminal de Cabedelo (PB) tem indicações de concessão recebidas pela Secretaria de Pesca"
+title: Terminal de Cabedelo (PB) tem indicações de concessão recebidas pela Secretaria
+  de Pesca
 date: 2020-06-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cabedelo deverá ser o primeiro terminal pesqueiro a ser privatizado no país. A concessão faz parte do Programa de Parcerias e Investimentos (PPI), do Governo Federal.
 

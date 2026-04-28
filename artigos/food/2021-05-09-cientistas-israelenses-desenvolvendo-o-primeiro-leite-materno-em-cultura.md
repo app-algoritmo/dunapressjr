@@ -1,11 +1,12 @@
 ---
-title: "Cientistas israelenses desenvolvendo o primeiro 'leite materno em cultura'"
+title: Cientistas israelenses desenvolvendo o primeiro 'leite materno em cultura'
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## “Eu quero fazer leite”, disse ela. “Eu quero fazer um superlite… com um impacto muito maior e positivo em nossa saúde”.
 

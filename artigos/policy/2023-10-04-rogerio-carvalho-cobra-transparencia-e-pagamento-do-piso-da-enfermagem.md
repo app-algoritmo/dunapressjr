@@ -1,11 +1,12 @@
 ---
-title: "Rogério Carvalho cobra transparência e pagamento do piso da enfermagem"
+title: Rogério Carvalho cobra transparência e pagamento do piso da enfermagem
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rogério Carvalho (PT-SE), em pronunciamento no Plenário, nesta segunda-feira (2), levantou questionamentos sobre a aplicação da lei em relação ao piso salarial dos enfermeiros. O parlamentar destacou a necessidade de um "compromisso sério" com os profissionais que estiveram na linha de frente durante a pandemia de convid-19. Ele alertou sobre o risco de "transformar" o reajuste concedido à categoria em outras modalidades de compensação, excluindo profissionais.
 

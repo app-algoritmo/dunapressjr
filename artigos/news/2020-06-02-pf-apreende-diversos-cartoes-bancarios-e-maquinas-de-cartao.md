@@ -1,11 +1,12 @@
 ---
-title: "PF apreende diversos cartões bancários e máquinas de cartão"
+title: PF apreende diversos cartões bancários e máquinas de cartão
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG - Nesta segunda-feira (1/6), a Polícia Federal apreendeu diversos cartões bancários, máquinas para pagamento com cartão e substância assemelhada a maconha.
 

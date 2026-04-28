@@ -1,11 +1,12 @@
 ---
-title: "Schwab traça o futuro: não precisamos mais de eleições"
+title: 'Schwab traça o futuro: não precisamos mais de eleições'
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Klaus Schwab conversou com o cofundador do Google, Sergey Brin, no Fórum Econômico Mundial de 2017. Fotos da conversa estão circulando na internet.
 

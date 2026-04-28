@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem leve queda e fecha a R$ 5,71"
+title: Dólar tem leve queda e fecha a R$ 5,71
 date: 2021-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa supera 119 mil pontos por primeira vez em dois meses.
 

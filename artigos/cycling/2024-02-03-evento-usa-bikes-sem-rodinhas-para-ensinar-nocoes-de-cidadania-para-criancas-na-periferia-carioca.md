@@ -1,12 +1,14 @@
 ---
-title: "Evento usa bikes sem rodinhas para ensinar noções de cidadania para crianças na periferia carioca"
+title: Evento usa bikes sem rodinhas para ensinar noções de cidadania para crianças
+  na periferia carioca
 date: 2024-02-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Com apoio da Shimano, projeto Bike de Cria tem primeira edição neste domingo (4), na cidade de Queimados, no Rio de Janeiro.
 

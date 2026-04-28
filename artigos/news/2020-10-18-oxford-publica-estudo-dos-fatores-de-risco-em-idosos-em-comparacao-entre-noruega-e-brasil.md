@@ -1,11 +1,13 @@
 ---
-title: "Oxford publica estudo dos fatores de risco em idosos em comparação entre Noruega e Brasil"
+title: Oxford publica estudo dos fatores de risco em idosos em comparação entre Noruega
+  e Brasil
 date: 2020-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Idosos igualmente ativos na Noruega e no Brasil. Ambas as nacionalidades apresentaram importantes fatores de risco cardiometabólicos. No entanto, quando considerados um baixo nível de escolaridade, os idosos brasileiros apresentaram mais fatores de risco cardiometabólicos do que os noruegueses.
 

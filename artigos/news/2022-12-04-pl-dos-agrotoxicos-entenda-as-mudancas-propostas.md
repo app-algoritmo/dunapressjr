@@ -1,11 +1,12 @@
 ---
-title: "PL dos agrotóxicos: entenda as mudanças propostas"
+title: 'PL dos agrotóxicos: entenda as mudanças propostas'
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Antes mesmo de chegar ao Senado, o Projeto de Lei (PL) [1.459/2022 ](http://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pls-526-1999)— que revoga a atual Lei dos Agrotóxicos e altera as regras de aprovação e comercialização desses produtos químicos — ensejou [manifestações dos senadores](https://www12.senado.leg.br/noticias/materias/2022/02/11/senadores-tem-divergencias-sobre-pl-dos-agrotoxicos) após aprovação em regime de urgência na Câmara dos Deputados, em fevereiro deste ano. Uma das matérias mais polêmicas em pauta na Comissão de Agricultura (CRA), o projeto passou por três audiências públicas, teve relatório lido duas vezes pelo relator, senador Acir Gurgacz (PDT-RO), pedido de vista coletiva e deliberação adiada em várias oportunidades.
 

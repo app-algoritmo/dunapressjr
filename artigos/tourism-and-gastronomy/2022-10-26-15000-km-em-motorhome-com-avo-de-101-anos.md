@@ -1,11 +1,12 @@
 ---
-title: "15.000 km em motorhome com avó de 101 anos"
+title: 15.000 km em motorhome com avó de 101 anos
 date: 2022-10-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Os inesquecíveis 15.000 km de motorhome de Fiona e sua avó de 101 anos por Anna Ashkova.
 

@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde recebe o Fluminense pela Copa Brasil nesta segunda-feira (22)"
+title: Osasco São Cristóvão Saúde recebe o Fluminense pela Copa Brasil nesta segunda-feira
+  (22)
 date: 2024-01-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe de Camila Brait, Giovana, Lorenne, Tifanny, Butler e cia. vai em busca da vitória para garantir a classificação para a fase final da competição nacional.
 

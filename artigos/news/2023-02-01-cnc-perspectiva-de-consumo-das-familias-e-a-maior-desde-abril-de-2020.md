@@ -1,11 +1,12 @@
 ---
-title: "CNC: Perspectiva de consumo das famílias é a maior desde abril de 2020"
+title: 'CNC: Perspectiva de consumo das famílias é a maior desde abril de 2020'
 date: 2023-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Intenção de consumo das famílias aumentou, mas consumidores com maiores salários estão mais frustrados com preços dos serviços, pouca perspectiva profissional e dificuldade de acesso ao crédito.
 

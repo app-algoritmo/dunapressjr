@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm déficit de R$ 11,77 bilhões em fevereiro"
+title: Contas públicas têm déficit de R$ 11,77 bilhões em fevereiro
 date: 2021-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dívida bruta atinge 90% do PIB, o maior percentual da história.
 

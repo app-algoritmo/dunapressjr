@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública suspende lote de sabão em pó por induzir sobre eficácia contra o Covid-19"
+title: Ministério da Justiça e Segurança Pública suspende lote de sabão em pó por
+  induzir sobre eficácia contra o Covid-19
 date: 2020-06-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria nacional de Defesa do Consumidor impôs medida cautelar contra a Química Amparo Ltda, proprietária da marca Ypê, para que suspenda as vendas dos produtos Lava Roupas Pó Tixan Ypê - versão maciez (embalagem azul), e Lava Roupas Pó Tixan Ypê - versão primavera (embalagem rosa).
 

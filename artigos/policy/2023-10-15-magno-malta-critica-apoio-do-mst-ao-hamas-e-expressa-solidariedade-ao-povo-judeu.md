@@ -1,11 +1,13 @@
 ---
-title: "Magno Malta critica apoio do MST ao Hamas e expressa solidariedade ao povo judeu"
+title: Magno Malta critica apoio do MST ao Hamas e expressa solidariedade ao povo
+  judeu
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) fez um pronunciamento no Plenário nesta terça-feira (10) criticando a declaração, segundo ele, de apoio do Movimento dos Trabalhadores Rurais Sem Terra (MST) ao grupo Hamas, posteriormente apagada das redes sociais da entidade. O parlamentar também apresentou um requerimento de solidariedade ao povo judeu e de repúdio ao Hamas e às atrocidades cometidas pelo grupo, mencionando o assassinato de crianças durantes os ataques. 
 

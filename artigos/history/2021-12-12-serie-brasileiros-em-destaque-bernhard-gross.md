@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Bernhard Gross"
+title: 'Série Brasileiros em Destaque: Bernhard Gross'
 date: 2021-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Físico.
 

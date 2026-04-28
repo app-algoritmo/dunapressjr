@@ -1,11 +1,12 @@
 ---
-title: "Rota apresenta novo armamento em comemoração aos seus 53 anos"
+title: Rota apresenta novo armamento em comemoração aos seus 53 anos
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Solenidade contou com presença do secretário de Segurança Pública, Guilherme Derrite, e do governador Tarcísio de Freitas.
 

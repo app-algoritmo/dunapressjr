@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa estuda produtos a partir da Indústria 4.0"
+title: Pesquisa estuda produtos a partir da Indústria 4.0
 date: 2022-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guilherme Benitez é mestre, doutor e pesquisador de pós-doutorado em Engenharia de Produção, pela Universidade Federal do Rio Grande do Sul (UFRGS). Ele faz parte do Núcleo de Engenharia Organizacional, o NEO, no Programa de Pós-Graduação (PPG) em Engenharia de Produção, um PPG de excelência, com conceito 7 na CAPES, e cria produtos inteligentes, dentro do conceito de integração e conectividade.
 

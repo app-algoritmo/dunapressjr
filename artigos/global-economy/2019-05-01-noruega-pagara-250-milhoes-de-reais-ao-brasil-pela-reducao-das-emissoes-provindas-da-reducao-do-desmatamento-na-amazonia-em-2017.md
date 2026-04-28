@@ -1,12 +1,14 @@
 ---
-title: "Noruega pagará 250 milhões de reais ao Brasil pela redução das emissões provindas da redução do desmatamento na Amazônia em 2017"
+title: Noruega pagará 250 milhões de reais ao Brasil pela redução das emissões provindas
+  da redução do desmatamento na Amazônia em 2017
 date: 2019-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
-  - Magazine
+- Global Economy
+- Magazine
 ---
+
 
 ## O Fundo Amazônia apoia a gestão e proteção de áreas protegidas de aproximadamente 1 milhão de km² de floresta. Isso corresponde à área da Noruega, Alemanha e Finlândia juntas
 

@@ -1,11 +1,12 @@
 ---
-title: "Dom Pedro II, o último imperador do Brasil, é destaque na TV pública francesa"
+title: Dom Pedro II, o último imperador do Brasil, é destaque na TV pública francesa
 date: 2019-08-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Essa semana o programa Secrets d'histoire, da TV France 2, canal da televisão pública da França, transmitiu durante 2 horas o episódio Pedro II, le dernier empereur du Brésil que contou com a participação dos atores Pierre Scott como Dom Pedro II, Lauren Miller como Princesa Isabel e Svetlana Stanislavovna Smirnova como Dona Teresa Cristina.
 

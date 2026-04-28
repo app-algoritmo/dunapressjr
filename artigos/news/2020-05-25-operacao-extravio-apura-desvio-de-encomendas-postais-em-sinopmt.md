@@ -1,11 +1,12 @@
 ---
-title: "Operação Extravio apura desvio de encomendas postais em Sinop/MT"
+title: Operação Extravio apura desvio de encomendas postais em Sinop/MT
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT - A Polícia Federal deflagrou na sexta-feira (22/5), em Sinop/MT, a Operação Extravio, com o objetivo de apurar o desvio de encomendas postais nos Correios (Centro de Distribuição Domiciliar).
 

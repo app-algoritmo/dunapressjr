@@ -1,11 +1,12 @@
 ---
-title: "Jaguar, o incrível e poderoso felino  brasileiro"
+title: Jaguar, o incrível e poderoso felino  brasileiro
 date: 2021-01-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Brasil | A Onça-Pintada (Jaguar) é o animal nacional do Brasil. Um felino em perigo de extinção, sua distribuição natural inclui América do Norte, América Central e América do Sul, desde o sudoeste dos Estados Unidos até o norte da Argentina. Nos Estados Unidos, o animal nacional do Brasil está praticamente exterminado.
 

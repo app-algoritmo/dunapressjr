@@ -1,11 +1,12 @@
 ---
-title: "Resíduos de madeira geram energia sustentável na Amazônia"
+title: Resíduos de madeira geram energia sustentável na Amazônia
 date: 2021-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Engenheiro Florestal formado pela Universidade Federal Rural da Amazônia (UFRA), Michael Douglas Roque Lima é mestre em Ciências Florestais pela mesma instituição e, atualmente, cursa um doutorado em Ciência e Tecnologia da Madeira, oferecido pela Universidade Federal de Lavras (UFLA), em Minas Gerais.
 

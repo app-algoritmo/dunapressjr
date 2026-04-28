@@ -1,11 +1,12 @@
 ---
-title: "Playlist melhora concentração e relaxamento para Enem"
+title: Playlist melhora concentração e relaxamento para Enem
 date: 2022-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Sentada em uma cadeira de rodas e com fones de ouvido, uma senhora de cabelos brancos e olhar curioso movimenta os braços com agilidade, repetindo os movimentos da coreografia d’O Lago dos Cisnes. A ex-bailarina Marta Gonzalez, que vivia em uma casa de repouso na Espanha, faleceu em 2019, mas a imagem de seus braços se movendo ao som da música do compositor russo Tchaikóvski chamou a atenção de todo o mundo porque, além da idade avançada, Marta tinha Alzheimer.
 

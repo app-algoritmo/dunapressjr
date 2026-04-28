@@ -1,11 +1,12 @@
 ---
-title: "União Europeia Ameaça Impor Sanções ao Irã por Transferência de Mísseis à Rússia"
+title: União Europeia Ameaça Impor Sanções ao Irã por Transferência de Mísseis à Rússia
 date: 2024-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A União Europeia anunciou que está pronta para impor sanções "significativas" ao Irã caso o país forneça mísseis balísticos à Rússia. A decisão foi tomada durante a cúpula em Bruxelas, onde o Conselho Europeu expressou extrema preocupação com relatos de possível transferência de tecnologia bélica para uso contra a Ucrânia.
 

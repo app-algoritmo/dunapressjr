@@ -1,11 +1,12 @@
 ---
-title: "Governo Brasileiro investiga vacina BCG na prevenção ao Covid-19"
+title: Governo Brasileiro investiga vacina BCG na prevenção ao Covid-19
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério repassou R$600 mil a um grupo de cientistas para estudos clínicos sobre a vacina contra tuberculose, a intenção é testar se vacinados são mais resistentes ao coronavírus. Vacina é aplicada logo no nascimento para prevenir formas graves de tuberculose em crianças, e dados recentes têm demonstrado que países que mantem o uso da BCG apresentaram menores proporções de Covid-19.
 

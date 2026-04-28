@@ -1,11 +1,13 @@
 ---
-title: "Novo Relatório Expõe Envolvimento da CIA na Censura da História do Laptop de Hunter Biden"
+title: Novo Relatório Expõe Envolvimento da CIA na Censura da História do Laptop de
+  Hunter Biden
 date: 2024-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um novo relatório revelou o papel significativo de agentes da CIA na tentativa de suprimir a história do laptop de Hunter Biden, que surgiu pouco antes das eleições de 2020. A controvérsia começou quando o **New York Post** publicou uma matéria explosiva baseada no conteúdo do laptop de Hunter Biden, que incluía evidências de tráfico de influência e comportamentos comprometedores do filho do então candidato à presidência, Joe Biden.
 

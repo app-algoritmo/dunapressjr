@@ -1,11 +1,12 @@
 ---
-title: "Saiba o que fazer para recuperar o direito a saque de R$ 1.045 do FGTS"
+title: Saiba o que fazer para recuperar o direito a saque de R$ 1.045 do FGTS
 date: 2020-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Trabalhadores com dados incompletos precisam concluir cadastro.
 

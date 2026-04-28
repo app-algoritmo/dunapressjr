@@ -1,11 +1,12 @@
 ---
-title: "Para Lira, reforma só será aprovada se alguns setores forem tratados com especificidade"
+title: Para Lira, reforma só será aprovada se alguns setores forem tratados com especificidade
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Todos que têm interesse na reforma podem discutir suas prioridades com o Parlamento, disse Lira.
 

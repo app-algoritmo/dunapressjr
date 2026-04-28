@@ -1,11 +1,12 @@
 ---
-title: "Construção civil tem inflação de 0,44% em setembro"
+title: Construção civil tem inflação de 0,44% em setembro
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 12 meses a alta é de 13,11%.
 

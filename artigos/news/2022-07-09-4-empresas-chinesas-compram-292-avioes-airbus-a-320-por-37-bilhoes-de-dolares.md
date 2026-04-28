@@ -1,11 +1,12 @@
 ---
-title: "4 empresas chinesas compram 292 aviões Airbus A 320 por 37 bilhões de dólares"
+title: 4 empresas chinesas compram 292 aviões Airbus A 320 por 37 bilhões de dólares
 date: 2022-07-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Encomenda de 37 bilhões de dólares para Airbus por 4 empresas chinesas é um pedido multimilionário para Airbus. O fabricante europeu recebeu um pedido de 292 aeronaves A 320 de quatro companhias aéreas chinesas. Os pedidos, destinados à **Air China, China Eastern, China Southern e Shenzhen Airlines**, totalizam quase US$ 37 bilhões. Para a Airbus, esses pedidos, que ainda não foram finalizados, “demonstram o momento positivo de recuperação e as perspectivas prósperas do mercado de aviação chinês”.
 

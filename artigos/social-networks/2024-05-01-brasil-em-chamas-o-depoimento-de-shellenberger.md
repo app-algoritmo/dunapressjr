@@ -1,11 +1,12 @@
 ---
-title: "Brasil em chamas: O depoimento de Shellenberger"
+title: 'Brasil em chamas: O depoimento de Shellenberger'
 date: 2024-05-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 O Brasil está no centro de uma controvérsia global sobre liberdade de expressão, com o presidente Lula e o ministro Alexandre de Moraes sob escrutínio internacional. O próximo capítulo dessa saga ocorrerá quando Michael Shellenberger testemunhar perante o Congresso em uma audiência crucial. Este evento é mais do que uma mera formalidade; é um passo essencial na defesa dos direitos fundamentais e na denúncia das violações flagrantes cometidas por autoridades brasileiras.
 

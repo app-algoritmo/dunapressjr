@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai para menor nível desde maio e dólar sobe para R$ 5,25"
+title: Bolsa cai para menor nível desde maio e dólar sobe para R$ 5,25
 date: 2021-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Mercado interno e exterior influenciaram negociações.
 

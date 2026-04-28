@@ -1,11 +1,13 @@
 ---
-title: "Ciclo XXXIV da Conferência de Exércitos Americanos destaca ações dos militares no combate à COVID-19"
+title: Ciclo XXXIV da Conferência de Exércitos Americanos destaca ações dos militares
+  no combate à COVID-19
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF) **– O Comandante do Exército Brasileiro, General de Exército **Edson Leal Pujol**, participou da abertura da Conferência de Exércitos Americanos (CEA) – Ciclo XXXIV. A atividade ocorreu nessa quinta-feira, 14 de maio, em sistema de videoconferência, reunindo os Comandantes dos Exércitos da Argentina e Uruguai, General de Brigada **Agustín Humberto Cejas **e General de Exército **Gerardo Daniel Fregossi Álvarez**, respectivamente, além de representantes dos Exércitos do Canadá, Chile, Colômbia, Equador, Estados Unidos, El Salvador, Espanha, Guatemala, Honduras, Jamaica, México, Nicarágua, Peru e República Dominicana.
 

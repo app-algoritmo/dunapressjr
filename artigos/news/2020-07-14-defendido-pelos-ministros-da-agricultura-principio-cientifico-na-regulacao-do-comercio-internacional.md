@@ -1,11 +1,13 @@
 ---
-title: "Defendido pelos Ministros da Agricultura  princípio científico na regulação do comércio internacional"
+title: Defendido pelos Ministros da Agricultura  princípio científico na regulação
+  do comércio internacional
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Tema foi debatido em encontro virtual, durante a 2ª Reunião Hemisférica de Ministros e Secretários de Agricultura.
 

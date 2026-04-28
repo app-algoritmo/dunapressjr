@@ -1,11 +1,13 @@
 ---
-title: "Governador de Santa Catarina, nomeia 172 novos policiais civis que se apresentam em janeiro"
+title: Governador de Santa Catarina, nomeia 172 novos policiais civis que se apresentam
+  em janeiro
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governador Carlos Moisés assinou a nomeação de 104 novos agentes e 68 escrivães para a Polícia Civil de Santa Catarina aprovados em concurso público de 2017. Os atos foram publicados no Diário Oficial do Estado de Santa Catarina na **edição de quinta-feira, 10**.
 

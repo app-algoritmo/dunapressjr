@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação registra queda de 0,01% em abril deste ano"
+title: Prévia da inflação registra queda de 0,01% em abril deste ano
 date: 2020-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Essa é a menor taxa desde o início do Plano Real, em 1994, diz IBGE
 

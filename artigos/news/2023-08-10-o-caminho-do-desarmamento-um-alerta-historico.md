@@ -1,11 +1,12 @@
 ---
-title: "O Caminho do Desarmamento: Um Alerta Histórico"
+title: 'O Caminho do Desarmamento: Um Alerta Histórico'
 date: 2023-08-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Amigos, é importante discutir assuntos cruciais que moldaram a história para garantir que jamais se repitam. O tema de hoje é o desarmamento da população civil por governantes de ditaduras, algo que demanda sensibilidade na abordagem. Vamos falar sobre como esse processo pode abrir caminho para sistemas presidenciais ditatoriais, usando lições históricas como exemplo.
 

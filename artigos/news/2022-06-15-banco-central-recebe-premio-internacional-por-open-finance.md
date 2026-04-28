@@ -1,11 +1,12 @@
 ---
-title: "Banco Central recebe prêmio internacional por open finance"
+title: Banco Central recebe prêmio internacional por open finance
 date: 2022-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Modelo é expansão do open banking.
 

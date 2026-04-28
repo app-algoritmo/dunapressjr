@@ -1,11 +1,12 @@
 ---
-title: "Deus continua acima de tudo!"
+title: Deus continua acima de tudo!
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante os últimos quatro anos, muitos líderes confundiram um político com um projeto divino. Fomos quase forçados a acreditar que uma liderança politica representava o ideal de Deus para o Brasil. 
 

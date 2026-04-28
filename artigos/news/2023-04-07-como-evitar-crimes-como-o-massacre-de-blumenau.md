@@ -1,11 +1,12 @@
 ---
-title: "Como evitar crimes como o massacre de Blumenau"
+title: Como evitar crimes como o massacre de Blumenau
 date: 2023-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O crime ocorrido em Blumenau é uma tragédia terrível e impactou profundamente a comunidade local e a sociedade como um todo. Para evitar que crimes como este ocorram novamente, é importante que sejam adotadas medidas preventivas e corretivas em várias áreas. Algumas ações que podem ajudar a evitar esses tipos de crimes incluem:
 

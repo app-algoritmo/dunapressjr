@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor cresce 0,5 ponto em julho"
+title: Confiança do consumidor cresce 0,5 ponto em julho
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a segunda alta do indicador que subiu 3,5 pontos, em junho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Luiz Philippe lança livro que propõe novo sistema político no Brasil"
+title: Luiz Philippe lança livro que propõe novo sistema político no Brasil
 date: 2024-08-22
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 *Cientista político, deputado federal e membro da família imperial brasileira, Luiz Philippe de Orleans e Bragança lança seu quinto livro dia 29 de agosto, na Livraria Drummond. *
 

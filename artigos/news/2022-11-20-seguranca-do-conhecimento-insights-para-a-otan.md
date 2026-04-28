@@ -1,11 +1,12 @@
 ---
-title: "Segurança do conhecimento: insights para a OTAN"
+title: 'Segurança do conhecimento: insights para a OTAN'
 date: 2022-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A segurança do conhecimento implica mitigar os riscos de espionagem, transferências indesejadas de conhecimento, roubo de propriedade intelectual, vazamento de dados e uso indevido de tecnologia de uso duplo (tecnologia que é principalmente “focada em mercados comerciais, mas também pode ter aplicações de defesa e segurança”).
 

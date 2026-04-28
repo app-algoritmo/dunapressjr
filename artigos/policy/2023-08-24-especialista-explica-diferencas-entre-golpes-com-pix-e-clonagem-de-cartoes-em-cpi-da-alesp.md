@@ -1,11 +1,13 @@
 ---
-title: "Especialista explica diferenças entre golpes com Pix e clonagem de cartões em CPI da Alesp"
+title: Especialista explica diferenças entre golpes com Pix e clonagem de cartões
+  em CPI da Alesp
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Participou da oitiva com os parlamentares o advogado criminalista Dr. Pedro Iokoi, a fim de esclarecer as principais características dos crimes de estelionato.
 

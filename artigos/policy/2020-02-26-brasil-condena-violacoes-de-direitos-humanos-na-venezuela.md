@@ -1,11 +1,12 @@
 ---
-title: "Brasil condena violações de direitos humanos na Venezuela"
+title: Brasil condena violações de direitos humanos na Venezuela
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em evento paralelo da 43ª Sessão da Comissão de Direitos Humanos das Nações Unidas, nesta terça-feira, o governo brasileiro afirmou que “condena com máxima veemência as graves violações dos direitos econômicos, sociais e culturais” ocorridas na Venezuela.
 

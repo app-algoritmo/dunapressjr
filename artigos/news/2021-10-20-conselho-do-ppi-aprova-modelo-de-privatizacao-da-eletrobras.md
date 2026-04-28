@@ -1,11 +1,12 @@
 ---
-title: "Conselho do PPI aprova modelo de privatização da Eletrobras"
+title: Conselho do PPI aprova modelo de privatização da Eletrobras
 date: 2021-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empregados da estatal terão prioridade para comprar 10% das ações.
 

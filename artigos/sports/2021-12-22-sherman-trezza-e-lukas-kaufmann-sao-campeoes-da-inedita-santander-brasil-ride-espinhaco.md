@@ -1,11 +1,13 @@
 ---
-title: "Sherman Trezza e Lukas Kaufmann são campeões da inédita Santander Brasil Ride Espinhaço"
+title: Sherman Trezza e Lukas Kaufmann são campeões da inédita Santander Brasil Ride
+  Espinhaço
 date: 2021-12-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A edição inédita da Santander Brasil Ride Espinhaço, prova de mountain bike por etapas de cinco dias, realizada em Conceição do Mato Dentro (MG), terminou na tarde deste sábado (18), coroando vencedores em 14 categorias. Em paralelo, teve ainda a realização da Maratona do Cipó, prova de um dia de duração. Na open e na feminina, as duplas Sherman Trezza/Lukas Kaufmann e Paula Gallan/Isabella Lacerda garantiram o lugar mais alto do pódio em suas categorias, respectivamente. Nas e-bikes, os líderes Andre Catatau e Isabella Ribeiro também confirmaram o título, sem grandes sustos na etapa final, com 37 km e 1.286 m de altimetria acumulada. Tiago Ferreira foi o destaque na solo, com o melhor tempo do acumulado após as cinco etapas.
 

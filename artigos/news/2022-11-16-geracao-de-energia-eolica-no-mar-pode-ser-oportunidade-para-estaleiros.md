@@ -1,11 +1,12 @@
 ---
-title: "Geração de energia eólica no mar pode ser oportunidade para estaleiros"
+title: Geração de energia eólica no mar pode ser oportunidade para estaleiros
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Plataformas flutuantes poderiam ser adaptadas, diz sindicato.
 

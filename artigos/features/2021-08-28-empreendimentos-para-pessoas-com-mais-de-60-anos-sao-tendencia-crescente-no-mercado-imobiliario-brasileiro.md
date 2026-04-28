@@ -1,11 +1,13 @@
 ---
-title: "Empreendimentos para pessoas com mais de 60 anos são tendência crescente no mercado imobiliário brasileiro"
+title: Empreendimentos para pessoas com mais de 60 anos são tendência crescente no
+  mercado imobiliário brasileiro
 date: 2021-08-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 ## Clientes têm potencial de compra, são mais questionadores e atentos a detalhes.
 

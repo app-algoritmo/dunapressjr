@@ -1,11 +1,12 @@
 ---
-title: "Ex-diretor da ONU faz revelações chocantes sobre 8 milhões de crianças desaparecidas"
+title: Ex-diretor da ONU faz revelações chocantes sobre 8 milhões de crianças desaparecidas
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma entrevista com Reiner Füllmich, o ex-diretor da ONU Calin Georgescu, da Romênia, descreve o processo de infiltração e aquisição global da ONU por oligarcas, em particular Klaus Schwab, do Fórum Econômico Mundial. Ele descreve as estruturas de poder da ONU, a manipulação secreta, exploração e subjugação de pessoas ao redor do mundo.
 

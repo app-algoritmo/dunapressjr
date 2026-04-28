@@ -1,11 +1,12 @@
 ---
-title: "As Vítimas de Lenin e Stalin: Um Legado de Terror e Repressão"
+title: 'As Vítimas de Lenin e Stalin: Um Legado de Terror e Repressão'
 date: 2024-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - History
+- History
 ---
+
 
 A história da União Soviética sob os regimes de Vladimir Lenin e Joseph Stalin é marcada por uma série de eventos trágicos e repressivos que resultaram na morte de milhões de pessoas. As políticas e ações implementadas por esses líderes, destinadas a consolidar o poder e transformar a sociedade russa, deixaram um rastro de sofrimento e destruição que ainda hoje ecoa na memória histórica.
 

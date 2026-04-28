@@ -1,11 +1,12 @@
 ---
-title: "Programa Brasil Mais quer aumentar digitalização de pequenos negócios"
+title: Programa Brasil Mais quer aumentar digitalização de pequenos negócios
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Também serão escolhidos projetos de tecnologia 4.0.
 

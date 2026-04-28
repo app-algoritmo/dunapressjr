@@ -1,11 +1,12 @@
 ---
-title: "O caso Dandik: Uma situação ruim que ficou ainda pior"
+title: 'O caso Dandik: Uma situação ruim que ficou ainda pior'
 date: 2021-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Dandik é um cachorro da raça **Bull Terrier** de aproximadamente 5 anos, sua história chegou a nossa redação com um pedido de socorro.
 

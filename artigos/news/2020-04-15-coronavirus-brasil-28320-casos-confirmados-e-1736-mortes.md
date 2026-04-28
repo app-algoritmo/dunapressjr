@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Brasil: 28.320 casos confirmados e 1.736 mortes"
+title: 'Coronavírus Brasil: 28.320 casos confirmados e 1.736 mortes'
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do ministério da Saúde em quarta, 15 de Abril de 2020, 16h20. Última atualização em quarta, 15 de Abril de 2020, 19h08. Foram 3.058 novas confirmações em 24 horas. São Paulo concentra a maior parte das notificações da lista nacional. Todos os estados agora registram mortes pela doença.
 

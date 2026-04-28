@@ -1,11 +1,13 @@
 ---
-title: "Presidentes do Irã e do Iraque Concordam em Cooperar Contra Grupos Terroristas e Separatistas nas Fronteiras"
+title: Presidentes do Irã e do Iraque Concordam em Cooperar Contra Grupos Terroristas
+  e Separatistas nas Fronteiras
 date: 2024-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante as conversações realizadas à margem da 7ª Cimeira dos Chefes de Estado do Fórum dos Países Exportadores de Gás (GECF) em Argel, Argélia, o presidente iraniano, Ebrahim Raisi, e seu homólogo iraquiano, Abdul Latif Rashid, destacaram a importância da cooperação bilateral para enfrentar grupos terroristas e separatistas que operam nas áreas fronteiriças entre os dois países.
 

@@ -1,11 +1,13 @@
 ---
-title: "O regime iraniano aprofunda seu isolamento global e enfrenta os maiores protestos em anos"
+title: O regime iraniano aprofunda seu isolamento global e enfrenta os maiores protestos
+  em anos
 date: 2022-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nos três meses de protestos, mais de 400 pessoas morreram e pelo menos 2.000 foram acusadas de vários crimes por sua participação nas mobilizações, das quais 11 foram condenadas à morte. 
 

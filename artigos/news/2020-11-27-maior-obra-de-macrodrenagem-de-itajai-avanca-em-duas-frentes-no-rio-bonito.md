@@ -1,11 +1,12 @@
 ---
-title: "Maior obra de macrodrenagem de Itajaí avança em duas frentes no Rio Bonito"
+title: Maior obra de macrodrenagem de Itajaí avança em duas frentes no Rio Bonito
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A implantação da maior de rede de macrodrenagem da história de Itajaí segue com os trabalhos no Rio Bonito. Para colocar mais de cinco quilômetros de tubos e galerias na localidade do bairro São Vicente, a equipe trabalha em duas frentes. As galerias já estão na rua Érico Veríssimo e a via recebe a base para a pavimentação. Na rua Bom Retiro, as lajotas já cobrem trechos da via e o trânsito logo será normalizado.
 

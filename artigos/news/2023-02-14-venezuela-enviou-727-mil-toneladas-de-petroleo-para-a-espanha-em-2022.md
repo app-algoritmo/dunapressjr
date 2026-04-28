@@ -1,11 +1,12 @@
 ---
-title: "Venezuela enviou 727 mil toneladas de petróleo para a Espanha em 2022"
+title: Venezuela enviou 727 mil toneladas de petróleo para a Espanha em 2022
 date: 2023-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2019, a Venezuela foi o primeiro fornecedor de petróleo das Américas para a Espanha.****
 

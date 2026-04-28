@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro se emociona em depoimento através de live com líderes cristãos"
+title: Presidente Bolsonaro se emociona em depoimento através de live com líderes
+  cristãos
 date: 2020-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Presidente Bolsonaro se reúne com líderes religiosos por videoconferência em celebração de Páscoa. Ele relembrou os momentos do atentado contra a sua vida, e também comentou sobre as perseguições e calunias contra ele e sua família. 
 

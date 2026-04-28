@@ -1,11 +1,12 @@
 ---
-title: "Fim da obrigatoriedade de declarar ações no IR exige atenção"
+title: Fim da obrigatoriedade de declarar ações no IR exige atenção
 date: 2023-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quem se enquadra em outros critérios precisa continuar declarando.
 

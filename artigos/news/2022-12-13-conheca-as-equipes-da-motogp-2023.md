@@ -1,12 +1,13 @@
 ---
-title: "Conheça as equipes da MotoGP 2023"
+title: Conheça as equipes da MotoGP 2023
 date: 2022-12-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## O campeonato mundial da principal categoria da motovelocidade reúne anualmente as melhores máquinas e os grandes pilotos. Conheça as equipes da MotoGP 2023 que vão competir pelo título.
 

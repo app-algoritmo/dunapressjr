@@ -1,11 +1,13 @@
 ---
-title: "Alemanha, Argentina e Reino Unido avaliam Ponto de Contato Nacional do Brasil para diretrizes da OCDE"
+title: Alemanha, Argentina e Reino Unido avaliam Ponto de Contato Nacional do Brasil
+  para diretrizes da OCDE
 date: 2022-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Processo de peer review do PCN vai resultar em diagnóstico com recomendações de aprimoramento, ajudando na acessão do país à organização internacional.
 

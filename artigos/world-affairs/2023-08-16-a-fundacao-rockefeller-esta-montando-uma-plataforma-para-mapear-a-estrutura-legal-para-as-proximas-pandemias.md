@@ -1,11 +1,13 @@
 ---
-title: "A Fundação Rockefeller está montando uma plataforma para mapear a estrutura legal para as próximas pandemias"
+title: A Fundação Rockefeller está montando uma plataforma para mapear a estrutura
+  legal para as próximas pandemias
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ***A Fundação Rockefeller está estabelecendo uma plataforma para mapear a estrutura regulatória para pandemias, para que estados e organizações internacionais possam entender melhor quais políticas estão em seu caminho.***
 

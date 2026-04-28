@@ -1,11 +1,12 @@
 ---
-title: "O ator Jim Caviezel implica agências dos EUA em tráfico sexual infantil"
+title: O ator Jim Caviezel implica agências dos EUA em tráfico sexual infantil
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ator Jim Caviezel se juntou a Steve Bannon em The War Room na noite de terça-feira.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo faz pedido de R$ 61,6 milhões para investimento em estatais"
+title: Governo faz pedido de R$ 61,6 milhões para investimento em estatais
 date: 2021-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crédito especial será destinado à Caixa, Ceagesp, Eletrosul e Emgepron.
 

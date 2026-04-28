@@ -1,11 +1,12 @@
 ---
-title: "Prorrogado até 30 de junho adesão ao programa Tempo de Aprender do MEC"
+title: Prorrogado até 30 de junho adesão ao programa Tempo de Aprender do MEC
 date: 2020-06-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 3,4 mil municípios já aderiram, o que representa quase 62% das cidades brasileiras.
 

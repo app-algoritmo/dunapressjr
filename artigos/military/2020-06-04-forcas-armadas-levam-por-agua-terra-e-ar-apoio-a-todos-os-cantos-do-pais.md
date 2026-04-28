@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas levam por água, terra e ar, apoio a todos os cantos do país"
+title: Forças Armadas levam por água, terra e ar, apoio a todos os cantos do país
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Militares da Força Aérea Brasileira transportaram, na manhã dessa quinta-feira (04), mais de 4 toneladas de álcool em gel e equipamentos de proteção individual para Boa Vista, em Roraima. Os itens, que foram carregados em um KC-390 Millennium, serão utilizados no combate ao novo coronavírus.
 

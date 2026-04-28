@@ -1,11 +1,12 @@
 ---
-title: "Reuniões bilaterais nos EUA fortalecem laços do Brasil com a economia mundial"
+title: Reuniões bilaterais nos EUA fortalecem laços do Brasil com a economia mundial
 date: 2022-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes se reuniu com a diretora-geral da OMC, o secretário-geral da OCDE e o ministro da Economia da Argentina, Sergio Massa.
 

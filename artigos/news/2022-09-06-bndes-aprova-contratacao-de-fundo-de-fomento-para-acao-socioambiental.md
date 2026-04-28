@@ -1,11 +1,12 @@
 ---
-title: "BNDES aprova contratação de fundo de fomento para ação socioambiental"
+title: BNDES aprova contratação de fundo de fomento para ação socioambiental
 date: 2022-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Boletim de subscrição de cotas do Bndespar deve ser assinado neste mês.
 

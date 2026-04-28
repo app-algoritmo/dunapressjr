@@ -1,11 +1,12 @@
 ---
-title: "Transformação das áreas de Tecnologia e Inovação é liderada pelo viés feminino"
+title: Transformação das áreas de Tecnologia e Inovação é liderada pelo viés feminino
 date: 2021-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Codar* na linguagem *[femme.com](http://femme.com/)* (lê-se ter um equilíbrio entre homens e mulheres nos times de tecnologia, inovação e liderança dos negócios) é um caminho sem volta na transformação digital em curso, tanto pela urgência social da equidade de gênero, quanto por resultados financeiros exponencialmente melhores. Basta pesquisar sobre empresas, negócios e até países que melhor souberam enfrentar os desafios impostos pela pandemia, para constatar o perfume inconfundível da soma das habilidades técnicas e pessoais do gênero feminino pautando as decisões mais acertadas. Prova disso foi a reeleição da primeira-ministra da Nova Zelândia, Jacinda Ardern, após ganhar notoriedade mundial pela eficiência nas medidas de contenção adotadas durante a pandemia.
 

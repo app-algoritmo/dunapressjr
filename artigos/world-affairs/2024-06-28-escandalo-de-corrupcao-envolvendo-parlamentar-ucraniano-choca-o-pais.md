@@ -1,11 +1,12 @@
 ---
-title: "Escândalo de Corrupção Envolvendo Parlamentar Ucraniano Choca o País"
+title: Escândalo de Corrupção Envolvendo Parlamentar Ucraniano Choca o País
 date: 2024-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O escândalo de corrupção envolvendo Mykola Tishchenko, membro do parlamento ucraniano e ministro sob a administração de Volodymyr Zelensky, continua a se desenrolar nos tribunais ucranianos. Tishchenko, que também tinha atribuições na área de combate à corrupção, foi preso por possuir enormes quantias de dinheiro, totalizando milhões, além de máquinas de criptomoeda.
 

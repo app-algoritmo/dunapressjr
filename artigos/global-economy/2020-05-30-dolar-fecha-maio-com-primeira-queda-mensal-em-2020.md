@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha maio com primeira queda mensal em 2020"
+title: Dólar fecha maio com primeira queda mensal em 2020
 date: 2020-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa de valores encerrou mês com alta de 8,57%.
 

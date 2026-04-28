@@ -1,11 +1,12 @@
 ---
-title: "Cata Treco atenderá comunidades do interior na próxima semana em Itajaí"
+title: Cata Treco atenderá comunidades do interior na próxima semana em Itajaí
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Cata Treco, programa da Secretaria Municipal de Obras, divulga a agenda para a próxima semana. Serão atendidas doze localidades do interior do município. Os atendimentos iniciam na segunda-feira (23) pelo bairro Loteamento São Pedro e seguem pelos bairros Rio do Meio, Canhanduba, Itaipava, Km 12, Baía, Paciência, Arraial dos Cunha, Brilhante I e Brilhante II, Campeche, Laranjeiras e Limoeiro. O caminhão estará nas ruas até sexta-feira (27), das 7h30 às 11h30 e das 13h30 às 17h30.
 

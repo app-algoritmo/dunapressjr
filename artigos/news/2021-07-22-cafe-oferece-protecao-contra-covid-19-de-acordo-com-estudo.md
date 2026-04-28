@@ -1,11 +1,12 @@
 ---
-title: "Café oferece proteção contra COVID-19, de acordo com estudo"
+title: Café oferece proteção contra COVID-19, de acordo com estudo
 date: 2021-07-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo recém-publicado mostra correlação entre o consumo de café e a redução do risco de coronavírus sintomático.
 

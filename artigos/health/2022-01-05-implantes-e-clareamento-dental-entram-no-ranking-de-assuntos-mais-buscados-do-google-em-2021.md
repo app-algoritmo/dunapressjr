@@ -1,11 +1,13 @@
 ---
-title: "Implantes e clareamento dental entram no ranking de assuntos mais buscados do Google em 2021"
+title: Implantes e clareamento dental entram no ranking de assuntos mais buscados
+  do Google em 2021
 date: 2022-01-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Qual é o valor de um implante dentário? E de um processo de clareamento nos dentes? Essas foram algumas das mais frequentes perguntas feitas no Brasil para o Google em 2021, na categoria Quanto Custa. O registro do site de busca mostra o chamado Efeito Zoom, que é o aumento da procura por tratamentos para um rosto mais harmônico, desejo causado pela maior frequência das reuniões por videoconferência.
 

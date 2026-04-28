@@ -1,11 +1,13 @@
 ---
-title: "A vacina contra o coronavírus não tem impacto na fertilidade, mostra estudo israelense"
+title: A vacina contra o coronavírus não tem impacto na fertilidade, mostra estudo
+  israelense
 date: 2021-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Uma equipe do Centro Médico da Universidade Hadassah-Hebraica comparou a função do folículo ovariano em mulheres que foram vacinadas, que se recuperaram do vírus e mulheres que não o fizeram.
 

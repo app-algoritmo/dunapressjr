@@ -1,11 +1,12 @@
 ---
-title: "Pernambuco inaugura primeira Estação Cidadania do estado"
+title: Pernambuco inaugura primeira Estação Cidadania do estado
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais uma unidade do Estação Cidadania-Esporte foi inaugurada nesta sexta-feira (11) no país. Dessa vez, em Serra Talhada, no sertão de Pernambuco, e contou com a presença do ministro da Cidadania, Onyx Lorenzoni. É a primeira no estado. O projeto tem como objetivo incentivar a iniciação esportiva em regiões de alta vulnerabilidade social.
 

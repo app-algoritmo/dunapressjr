@@ -1,12 +1,13 @@
 ---
-title: "Estratégias para o sucesso financeiro"
+title: Estratégias para o sucesso financeiro
 date: 2023-04-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 Se você deseja ter sucesso financeiro, é importante seguir algumas estratégias que podem ajudá-lo a alcançar seus objetivos. Confira abaixo 5 dicas financeiras para vencer na vida:
 

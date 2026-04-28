@@ -1,11 +1,12 @@
 ---
-title: "Índice de Custo da Construção apresenta aumento em maio, segundo a FGV"
+title: Índice de Custo da Construção apresenta aumento em maio, segundo a FGV
 date: 2023-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## INCC-M registra variação de 0,40%, com destaque para o aumento na taxa de Mão de Obra e queda nos materiais e serviços.
 

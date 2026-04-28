@@ -1,11 +1,12 @@
 ---
-title: "Equador confirma que 170 pessoas permanecem reféns em diversas prisões"
+title: Equador confirma que 170 pessoas permanecem reféns em diversas prisões
 date: 2024-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Equador confirmou que há 170 funcionários penitenciários que permanecem reféns em diversas prisões do país, no contexto da onda de violência ligada ao tráfico de drogas que abala aquela nação, enquanto em Guayaquil pelo menos cinco presos escaparam, numa fuga que gerou um espetacular perseguição policial por terra e ar.
 

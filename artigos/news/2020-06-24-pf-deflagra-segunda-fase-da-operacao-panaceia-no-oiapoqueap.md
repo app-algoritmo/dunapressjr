@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra Segunda Fase da Operação Panaceia no Oiapoque/AP"
+title: PF deflagra Segunda Fase da Operação Panaceia no Oiapoque/AP
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou nesta quarta-feira (24/6) a Operação Panaceia - Fase 2, para combater desvio de medicamentos e de teste de diagnósticos para Covid-19, além do uso indevido de serviços públicos de saúde, em Oiapoque/AP.
 

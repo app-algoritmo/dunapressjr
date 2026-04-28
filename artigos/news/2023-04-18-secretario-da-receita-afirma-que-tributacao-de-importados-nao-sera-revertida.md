@@ -1,11 +1,12 @@
 ---
-title: "Secretário da Receita afirma que tributação de importados não será revertida"
+title: Secretário da Receita afirma que tributação de importados não será revertida
 date: 2023-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Secretário da Receita Federal reforça alíquota de 60% sobre envio de mercadorias de até US$50 em todas as circunstâncias.
 

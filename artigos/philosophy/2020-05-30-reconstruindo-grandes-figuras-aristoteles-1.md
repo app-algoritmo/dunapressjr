@@ -1,11 +1,12 @@
 ---
-title: "Reconstruindo Grandes Figuras: Aristóteles #1"
+title: 'Reconstruindo Grandes Figuras: Aristóteles #1'
 date: 2020-05-30
 status: publish
 author: Vitor Guerino
 categories:
-  - Philosophy
+- Philosophy
 ---
+
 
 Entretanto, Aristóteles possui obras suficiente para argumentar em seu favor, de modo que não precisamos ir longe para encontrar as respostas que procuramos e assim vislumbrar a total incoerência narrativa feita por parte dos historiadores modernos.
 

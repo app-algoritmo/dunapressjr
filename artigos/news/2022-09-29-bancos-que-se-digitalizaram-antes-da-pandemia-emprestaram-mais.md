@@ -1,11 +1,12 @@
 ---
-title: "Bancos que se digitalizaram antes da pandemia emprestaram mais"
+title: Bancos que se digitalizaram antes da pandemia emprestaram mais
 date: 2022-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### BC estudou automatização do sistema financeiro.
 

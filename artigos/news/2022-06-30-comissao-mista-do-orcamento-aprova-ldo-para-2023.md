@@ -1,11 +1,12 @@
 ---
-title: "Comissão Mista do Orçamento aprova LDO para 2023"
+title: Comissão Mista do Orçamento aprova LDO para 2023
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Relator torna obrigatória as emendas de relator-geral.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional da Construção Civil desacelera para 0,38% em outubro"
+title: Índice Nacional da Construção Civil desacelera para 0,38% em outubro
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 2021, em outubro, o indicador teve alta de 1,01%.
 

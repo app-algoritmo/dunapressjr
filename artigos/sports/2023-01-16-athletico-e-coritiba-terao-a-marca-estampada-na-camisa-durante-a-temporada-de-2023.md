@@ -1,11 +1,13 @@
 ---
-title: "Athletico e Coritiba terão a marca estampada na camisa durante a temporada de 2023"
+title: Athletico e Coritiba terão a marca estampada na camisa durante a temporada
+  de 2023
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A empresa paranaense Neodent, líder em implantes dentários no Brasil, renovou seu patrocínio aos times Coritiba e Athletico Paranaense que iniciou em 2021. O Coritiba conta com a marca no uniforme do time principal e também na camisa dos jogadores da categoria de base, que disputam a Copa São Paulo de Futebol Júnior. Já o Athletico seguirá estampando o patrocínio no uniforme da equipe principal.
 

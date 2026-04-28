@@ -1,11 +1,13 @@
 ---
-title: "Projeto cria cadastro nacional de condenados por crimes contra crianças em escolas e creches"
+title: Projeto cria cadastro nacional de condenados por crimes contra crianças em
+  escolas e creches
 date: 2023-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2710/22 cria o cadastro nacional de informações sobre maus-tratos e abuso sexual praticados contra crianças em creches e pré-escolas da educação infantil. Segundo o texto, que tramita na Câmara dos Deputados, o cadastro reunirá informações de pessoas físicas condenadas em segunda instância por esses crimes e, em caso de culpa ou dolo, também dos estabelecimentos onde a prática ocorreu.
 

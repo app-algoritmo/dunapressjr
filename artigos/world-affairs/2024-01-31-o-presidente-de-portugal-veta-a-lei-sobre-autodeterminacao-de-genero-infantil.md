@@ -1,11 +1,12 @@
 ---
-title: "O presidente de Portugal veta a lei sobre autodeterminação de género infantil"
+title: O presidente de Portugal veta a lei sobre autodeterminação de género infantil
 date: 2024-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente de **[Portugal](https://gaceta.es/europa/rebelo-de-sousa-formaliza-la-dimision-del-gobierno-de-costa-que-tiene-competencias-limitadas-desde-este-viernes-20231208-0953/)** , **Marcelo Rebelo de Sousa** , **vetou a lei** que estabelecia as medidas que as escolas deviam aplicar para garantir o direito à **autodeterminação da identidade de género dos alunos** nas escolas.**[](https://gaceta.es/europa/rebelo-de-sousa-formaliza-la-dimision-del-gobierno-de-costa-que-tiene-competencias-limitadas-desde-este-viernes-20231208-0953/)**************
 

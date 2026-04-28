@@ -1,11 +1,12 @@
 ---
-title: "Consulta pública sobre fitossanitários para agricultura orgânica prorrogada"
+title: Consulta pública sobre fitossanitários para agricultura orgânica prorrogada
 date: 2020-08-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A proposta estabelece requisitos mínimos para a produção e para o aumento da segurança desse tipo de insumo dentro das propriedades agrícolas.
 

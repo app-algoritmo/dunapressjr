@@ -1,11 +1,12 @@
 ---
-title: "Exportações chinesas voltam a cair, afetadas por guerra comercial com EUA"
+title: Exportações chinesas voltam a cair, afetadas por guerra comercial com EUA
 date: 2019-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As exportações da China registraram queda em novembro, pelo
 quarto mês consecutivo, e sem um horizonte de melhora, devido à guerra

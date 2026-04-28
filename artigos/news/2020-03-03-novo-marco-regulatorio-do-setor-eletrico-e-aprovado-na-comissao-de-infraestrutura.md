@@ -1,11 +1,12 @@
 ---
-title: "Novo marco regulatório do setor elétrico é aprovado na Comissão de Infraestrutura"
+title: Novo marco regulatório do setor elétrico é aprovado na Comissão de Infraestrutura
 date: 2020-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Infraestrutura (CI) aprovou nesta terça-feira
 (3) o relatório do senador Marcos Rogério (DEM-RO) para o projeto que institui

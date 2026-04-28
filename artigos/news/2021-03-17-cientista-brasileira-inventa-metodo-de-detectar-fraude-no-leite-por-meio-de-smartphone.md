@@ -1,11 +1,13 @@
 ---
-title: "Cientista brasileira inventa método de detectar fraude no leite por meio de smartphone"
+title: Cientista brasileira inventa método de detectar fraude no leite por meio de
+  smartphone
 date: 2021-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Anna Flávia de Souza Silva, doutoranda em Ciências pelo Centro de Energia Nuclear da Universidade de São Paulo (USP), tem mestrado em Ciência e Tecnologia de Alimentos e é graduada em Ciências dos Alimentos, também pela mesma instituição. Bolsista da CAPES, Anna Flávia pesquisa metodologias que usam imagens para identificar adulterações em alimentos. Ela acaba de publicar artigo científico na Revista Internacional *Food Control* onde apresenta tecnologia que pode detectar fraude em leite usando técnica simples e um *smartphone*.
 

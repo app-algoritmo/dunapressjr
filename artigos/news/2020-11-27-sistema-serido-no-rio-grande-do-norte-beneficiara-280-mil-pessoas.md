@@ -1,11 +1,12 @@
 ---
-title: "Sistema Seridó, no Rio Grande do Norte, beneficiará 280 mil pessoas"
+title: Sistema Seridó, no Rio Grande do Norte, beneficiará 280 mil pessoas
 date: 2020-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro do Desenvolvimento Regional, Rogério Marinho, assina edital para contratação de empresa responsável pelo projeto executivo.
 

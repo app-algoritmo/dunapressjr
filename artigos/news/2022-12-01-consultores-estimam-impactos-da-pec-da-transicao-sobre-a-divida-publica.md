@@ -1,11 +1,12 @@
 ---
-title: "Consultores estimam impactos da PEC da Transição sobre a dívida pública"
+title: Consultores estimam impactos da PEC da Transição sobre a dívida pública
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nota técnica elaborada pela Consultoria de Orçamento da Câmara dos Deputados ([29/2022](https://www2.camara.leg.br/orcamento-da-uniao/estudos/2022/nota-tecnica-29-subsidios-a-apreciacao-da-pec-da-transicao-versao-30_11)) sobre a PEC da Transição ([PEC 32/22](https://www.camara.leg.br/noticias/922937-RELATOR-DO-ORCAMENTO-PROTOCOLA-PEC-QUE-PERMITE-A-CONTINUIDADE-DO-AUXILIO-BRASIL-DE-R$-600)) afirma que a dívida pública poderia passar de 79% do PIB em 2022 para 89,8% em quatro anos, caso todo o aumento de gastos permitido pela proposta seja suportado pela emissão de títulos públicos. Os técnicos sugerem a aprovação conjunta de alguma regra que sinalize para uma trajetória decrescente da dívida.
 

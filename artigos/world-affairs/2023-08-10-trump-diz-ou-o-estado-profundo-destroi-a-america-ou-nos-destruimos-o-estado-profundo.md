@@ -1,11 +1,13 @@
 ---
-title: "Trump diz: “Ou o estado profundo destrói a América ou nós destruímos o estado profundo”"
+title: 'Trump diz: “Ou o estado profundo destrói a América ou nós destruímos o estado
+  profundo”'
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Donald Trump [escreveu um artigo de opinião contundente](https://thepostmillennial.com/trump-either-the-deep-state-destroys-america-or-we-destroy-the-deep-state) destacando todos os crimes que seus oponentes estão alegando que ele cometeu e que ele diz nunca ter cometido.
 

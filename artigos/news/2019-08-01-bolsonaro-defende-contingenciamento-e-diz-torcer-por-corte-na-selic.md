@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro defende contingenciamento e diz torcer por corte na Selic"
+title: Bolsonaro defende contingenciamento e diz torcer por corte na Selic
 date: 2019-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Não é corte, é contingenciamento, tem uma diferença grande.**
 

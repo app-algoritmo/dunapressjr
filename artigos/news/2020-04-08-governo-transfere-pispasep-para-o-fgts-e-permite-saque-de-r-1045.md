@@ -1,11 +1,12 @@
 ---
-title: "Governo transfere PIS/Pasep para o FGTS e permite saque de R$ 1.045"
+title: Governo transfere PIS/Pasep para o FGTS e permite saque de R$ 1.045
 date: 2020-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Saques serão liberados a partir de 15 de junho
 

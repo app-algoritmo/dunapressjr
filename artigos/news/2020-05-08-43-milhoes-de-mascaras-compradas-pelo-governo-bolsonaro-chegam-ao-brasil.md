@@ -1,11 +1,12 @@
 ---
-title: "4,3 milhões de máscaras compradas pelo Governo Bolsonaro chegam ao Brasil"
+title: 4,3 milhões de máscaras compradas pelo Governo Bolsonaro chegam ao Brasil
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na noite de quarta-feira (6), mais 4,3 milhões de máscaras, das 250 milhões adquiridas pelo Governo Federal, chegaram ao Brasil pelo Aeroporto Internacional de Guarulhos (SP). Esse é o primeiro dos 42 voos fretados pelo Ministério da Infraestrutura para transportar as 960 toneladas de máscaras cirúrgicas e N95 compradas pelo Ministério da Saúde.
 

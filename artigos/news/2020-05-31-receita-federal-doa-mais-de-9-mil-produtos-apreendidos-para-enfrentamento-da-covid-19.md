@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal doa mais de 9 mil produtos apreendidos para enfrentamento da Covid-19"
+title: Receita Federal doa mais de 9 mil produtos apreendidos para enfrentamento da
+  Covid-19
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Equipamentos médico-hospitalares foram destinados a hospitais e instituições de ensino do Rio Grande do Sul. 
 

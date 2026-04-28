@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço da gasolina de aviação"
+title: Petrobras reduz preço da gasolina de aviação
 date: 2022-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a segunda redução do preço do combustível no mês.
 

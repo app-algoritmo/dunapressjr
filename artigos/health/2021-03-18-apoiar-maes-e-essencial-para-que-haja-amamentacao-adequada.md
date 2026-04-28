@@ -1,11 +1,12 @@
 ---
-title: "Apoiar mães é essencial para que haja amamentação adequada"
+title: Apoiar mães é essencial para que haja amamentação adequada
 date: 2021-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Após uma complicação no pós-parto, eu fiquei três dias sem conseguir amamentar, mas consegui superar, porque naquele momento, tive muito apoio do meu companheiro e principalmente da minha mãe e da minha irmã, para que meu filho não largasse meu peito. Para mim foi incrível ter esse apoio ”, descreve a assistente social, Rosângela da Silva de 35 anos. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Arrecadação bate novo recorde no mês de abril em linha com a retomada da atividade econômica"
+title: Arrecadação bate novo recorde no mês de abril em linha com a retomada da atividade
+  econômica
 date: 2021-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Receita Federal arrecadou mais de R$ 156,8 bilhões em abril de 2021; valor representa acréscimo (IPCA) de 45,22% em relação ao mesmo período de 2020.
 

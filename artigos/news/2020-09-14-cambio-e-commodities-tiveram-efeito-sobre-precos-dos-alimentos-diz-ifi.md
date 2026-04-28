@@ -1,11 +1,12 @@
 ---
-title: "Câmbio e commodities tiveram efeito sobre preços dos alimentos, diz IFI"
+title: Câmbio e commodities tiveram efeito sobre preços dos alimentos, diz IFI
 date: 2020-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Na avaliação do Instituto Fiscal Independente (IFI), os preços de alimentos para consumo no domicílio foram afetados pelo impacto do grupo de alimentação e bebidas no Índice Nacional de Preços ao Consumidor Amplo (IPCA).
 

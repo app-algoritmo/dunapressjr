@@ -1,11 +1,12 @@
 ---
-title: "EUA Enviam Segundo Porta-Aviões ao Oriente Médio para Dissuadir o Irã e o Hezbollah"
+title: EUA Enviam Segundo Porta-Aviões ao Oriente Médio para Dissuadir o Irã e o Hezbollah
 date: 2023-10-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A tensão no Oriente Médio atingiu um novo patamar com o anúncio de que os Estados Unidos enviarão um segundo porta-aviões para o Mediterrâneo Oriental. Essa movimentação tem como principal objetivo dissuadir o Irã e o grupo militante Hezbollah de atacar Israel, especialmente após o recente conflito com o grupo terrorista Hamas na Faixa de Gaza. Essa notícia é um sinal de que as complexas dinâmicas políticas e de segurança na região continuam a evoluir, deixando um impacto significativo nas relações internacionais.
 

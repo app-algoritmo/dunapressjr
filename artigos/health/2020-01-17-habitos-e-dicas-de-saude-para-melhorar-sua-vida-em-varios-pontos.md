@@ -1,11 +1,12 @@
 ---
-title: "Hábitos e dicas de saúde para melhorar sua vida em vários pontos"
+title: Hábitos e dicas de saúde para melhorar sua vida em vários pontos
 date: 2020-01-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Health
+- Health
 ---
+
 
 A água: como manejá-la, bebê-la e entendê-la em nosso corpo
 

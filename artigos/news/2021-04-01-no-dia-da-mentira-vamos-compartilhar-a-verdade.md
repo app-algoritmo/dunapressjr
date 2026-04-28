@@ -1,11 +1,12 @@
 ---
-title: "No Dia da Mentira, vamos compartilhar a verdade?"
+title: No Dia da Mentira, vamos compartilhar a verdade?
 date: 2021-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Fake News!”. É fake news”. “Não compartilhe, porque é fake news”. Talvez esta seja a palavra do momento. Está na língua do povo. Mas, afinal, o que significa fake news? Na tradução do inglês para o português é “notícia falsa”. Nada mais, nada menos do que nosso famoso termo “É mentira”! E essas notícias falsas ou mentirosas, como preferir, chegam até nós muito facilmente por meio das redes sociais e de aplicativos de mensagens. Há também aqueles que são impactados por elas em meio a uma conversa com a família ou com os amigos.
 

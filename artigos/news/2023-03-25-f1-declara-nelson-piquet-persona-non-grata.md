@@ -1,12 +1,13 @@
 ---
-title: "F1 declara Nelson Piquet Persona non grata"
+title: F1 declara Nelson Piquet Persona non grata
 date: 2023-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 Grande multa para [Piquet](https://dunapress.org/2020/03/26/nelson-piquet-injusticado/) após descarrilamento racista contra Hamilton.
 

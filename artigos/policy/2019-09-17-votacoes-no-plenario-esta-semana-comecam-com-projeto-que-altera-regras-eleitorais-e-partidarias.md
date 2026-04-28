@@ -1,11 +1,13 @@
 ---
-title: "Votações no Plenário esta semana começam com projeto que altera regras eleitorais e partidárias"
+title: Votações no Plenário esta semana começam com projeto que altera regras eleitorais
+  e partidárias
 date: 2019-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O projeto de lei que altera as legislações eleitoral e partidária está pautado como o primeiro item das votações no Plenário do Senado nesta terça-feira (17).
 

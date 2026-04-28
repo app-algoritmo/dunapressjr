@@ -1,11 +1,12 @@
 ---
-title: "Rogerio Marinho critica discurso de Lula na Assembleia Geral da ONU"
+title: Rogerio Marinho critica discurso de Lula na Assembleia Geral da ONU
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O senador Rogerio Marinho (PL-RN) criticou, em pronunciamento no Plenário na terça-feira (19), discurso do presidente Lula na abertura da 78ª Assembleia Geral da Organização das Nações Unidas (ONU), em Nova York (EUA). Segundo ele, a fala de Lula foi semelhante ao seu primeiro mandato, pois olha para o passado da história e culpa seus antecessores, além de usar palavras de ordem “como se estivesse em uma assembleia de metalúrgicos”.
 

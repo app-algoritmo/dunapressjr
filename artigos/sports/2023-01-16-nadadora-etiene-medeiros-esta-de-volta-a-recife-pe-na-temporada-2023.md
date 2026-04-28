@@ -1,11 +1,12 @@
 ---
-title: "Nadadora Etiene Medeiros está de volta a Recife (PE) na temporada 2023"
+title: Nadadora Etiene Medeiros está de volta a Recife (PE) na temporada 2023
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Ano novo, vida nova. A frase, tão comum a cada virada de ano, se encaixa perfeitamente nos planos da pernambucana Etiene Medeiros para 2023. Fundadora do Instituto Etiene Medeiros (IEM), com sede em Recife, Etiene está de mudança para a capital pernambucana, onde passará a frequentar mais de perto a instituição. O objetivo é colocar toda sua experiência, seu conhecimento, no dia a dia do Instituto, seguindo com sua carreira e, paralelamente, participando mais diretamente das atividades do IEM, que são realizadas no parque aquático do Centro Esportivo Santos Dumont, em Boa Viagem.
 

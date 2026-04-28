@@ -1,11 +1,12 @@
 ---
-title: "Comissão debate fortalecimento de Instituições de Longa Permanência"
+title: Comissão debate fortalecimento de Instituições de Longa Permanência
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara dos Deputados debate na próxima quarta-feira (16) a necessidade de fortalecer as Instituições de Longa Permanência (Ilpis). As Ilpis são instituições governamentais e não governamentais que oferecem acolhimento em caráter residencial, com atenção integral à saúde, especialmente para pessoas acima de 60 anos.
 

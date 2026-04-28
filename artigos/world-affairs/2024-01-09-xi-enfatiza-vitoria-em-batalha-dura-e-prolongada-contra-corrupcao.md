@@ -1,11 +1,12 @@
 ---
-title: "Xi enfatiza vitória em batalha dura e prolongada contra corrupção"
+title: Xi enfatiza vitória em batalha dura e prolongada contra corrupção
 date: 2024-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Xi Jinping, secretário-geral do Comitê Central do Partido Comunista da China (PCCh), pediu nesta segunda-feira o avanço da autorreforma do Partido e a vitória na batalha dura e prolongada contra a corrupção.
 

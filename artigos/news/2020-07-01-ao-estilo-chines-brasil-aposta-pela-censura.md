@@ -1,11 +1,12 @@
 ---
-title: "Ao estilo chinês, Brasil aposta pela censura"
+title: Ao estilo chinês, Brasil aposta pela censura
 date: 2020-07-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Alguns dizem democracia, outros de país soberano e até mesmo que todo o poder emana do povo, tudo isso é fake news!
 

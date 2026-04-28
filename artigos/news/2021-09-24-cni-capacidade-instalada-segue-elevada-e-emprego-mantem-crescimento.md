@@ -1,11 +1,12 @@
 ---
-title: "CNI: capacidade instalada segue elevada e emprego mantém crescimento"
+title: 'CNI: capacidade instalada segue elevada e emprego mantém crescimento'
 date: 2021-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estoques seguem abaixo do planejado pelas empresas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Justiça da Paraíba manda bloquear bens de envolvidos da Operação Calvário"
+title: Justiça da Paraíba manda bloquear bens de envolvidos da Operação Calvário
 date: 2020-06-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A decisão foi tomada pelo juiz José Guedes Cavalcanti Neto. Foi determinado pela justiça paraibana sequestro de bens dos envolvidos na Operação Calvário, totalizando o total de R$ 20 milhões.
 

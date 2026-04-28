@@ -1,11 +1,13 @@
 ---
-title: "Revelações incríveis de Israel: zero mortes de Covid entre pessoas com menos de 50 anos"
+title: 'Revelações incríveis de Israel: zero mortes de Covid entre pessoas com menos
+  de 50 anos'
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Seguindo uma ordem judicial, o Ministério da Saúde de Israel divulgou dados sobre a mortalidade por Covid. Segundo o médico israelense Eli David, o número total de mortes por Covid na faixa etária abaixo de 50 anos sem comorbidades é 0.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cinco ministérios terão crédito suplementar de R$ 1,29 bilhão"
+title: Cinco ministérios terão crédito suplementar de R$ 1,29 bilhão
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente da República, Luiz Inácio Lula da Silva, sancionou na sexta-feira (20) a [Lei 14.702, de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-20;14702), que abre crédito suplementar no Orçamento da União para reforçar os caixas de cinco ministérios, no valor de R$ 1,29 bilhão. Como é proveniente de remanejamento no Orçamento, não haverá aumento de despesas. O Ministério da Saúde ficará com 38,55% dos recursos, a serem gastos no âmbito do Fundo Nacional de Saúde, para o custeio dos serviços de assistência hospitalar e ambulatorial. O Ministério da Integração e do Desenvolvimento Regional terá 35,85% do montante, a serem usados no âmbito da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf). 
 

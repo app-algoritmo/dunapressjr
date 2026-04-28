@@ -1,11 +1,12 @@
 ---
-title: "Declarações do Imposto de Renda na malha fina chegam a 1,03 milhão"
+title: Declarações do Imposto de Renda na malha fina chegam a 1,03 milhão
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número representa 2,7% do total de documentos entregues neste ano.
 

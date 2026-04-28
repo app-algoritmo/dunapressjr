@@ -1,11 +1,13 @@
 ---
-title: "FGV: Índice de Variação de Aluguéis Residenciais varia 4,20% em janeiro de 2023"
+title: 'FGV: Índice de Variação de Aluguéis Residenciais varia 4,20% em janeiro de
+  2023'
 date: 2023-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com o resultado, a taxa acumulada em 12 meses passou de 8,25% em dezembro de 2022 para 10,74% em janeiro de 2023.
 

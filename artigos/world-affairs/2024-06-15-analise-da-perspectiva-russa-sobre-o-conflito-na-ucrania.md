@@ -1,11 +1,12 @@
 ---
-title: "Análise da Perspectiva Russa Sobre o Conflito na Ucrânia"
+title: Análise da Perspectiva Russa Sobre o Conflito na Ucrânia
 date: 2024-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma recente declaração, autoridades russas expressaram frustração com a narrativa predominante no Ocidente, que coloca a Rússia como principal responsável pelo conflito na Ucrânia. Afirmam que a Europa e os Estados Unidos esquecem convenientemente os eventos que, segundo eles, levaram à atual crise.
 

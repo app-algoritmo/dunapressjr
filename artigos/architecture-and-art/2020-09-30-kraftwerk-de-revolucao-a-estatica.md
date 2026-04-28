@@ -1,11 +1,12 @@
 ---
-title: "Kraftwerk: de revolução à estática"
+title: 'Kraftwerk: de revolução à estática'
 date: 2020-09-30
 status: publish
-author: jesshutter
+author: Jessica Jaconetti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## Uma reflexão sobre um dos mais influentes grupos de música eletrônica do século XX.
 

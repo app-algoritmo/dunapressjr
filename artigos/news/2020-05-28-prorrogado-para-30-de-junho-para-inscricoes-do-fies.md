@@ -1,11 +1,12 @@
 ---
-title: "Prorrogado para 30 de junho para inscrições do Fies"
+title: Prorrogado para 30 de junho para inscrições do Fies
 date: 2020-05-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Determinação vale para as inscrições vencidas até esta segunda-feira, 25 de maio**.
 

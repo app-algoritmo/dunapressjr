@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro defende cobrança de ICMS nas refinarias"
+title: Bolsonaro defende cobrança de ICMS nas refinarias
 date: 2020-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Presidente também quer liberar venda direta de etanol pelas usinas*
 

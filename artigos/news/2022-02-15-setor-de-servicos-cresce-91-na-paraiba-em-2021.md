@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresce 9,1% na Paraíba em 2021"
+title: Setor de serviços cresce 9,1% na Paraíba em 2021
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Essa é a maior taxa do indicador para o acumulado de janeiro a dezembro dos últimos nove anos.
 

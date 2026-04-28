@@ -1,11 +1,13 @@
 ---
-title: "O ano é 2023 e os pacientes ainda estão sem tratamento médico devido às vacinas COVID-19"
+title: O ano é 2023 e os pacientes ainda estão sem tratamento médico devido às vacinas
+  COVID-19
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O Epoch Times noticiou em 23 de abril o caso horrível de uma mulher de 41 anos da Geórgia que teve um transplante de rim [negado](https://12ft.io/proxy?ref=&q=https://www.theepochtimes.com/mother-of-7-denied-kidney-transplant-for-refusing-covid-shot-in-georgia_5212353.html) , apesar de estar em diálise e quase morrer. Devido à gravidade de sua condição, ela precisa fazer diálise três vezes por semana para sustentar sua vida.
 

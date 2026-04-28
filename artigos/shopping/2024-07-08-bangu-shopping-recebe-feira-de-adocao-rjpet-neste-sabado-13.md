@@ -1,11 +1,12 @@
 ---
-title: "Bangu Shopping recebe Feira de Adoção RJPET neste sábado (13)"
+title: Bangu Shopping recebe Feira de Adoção RJPET neste sábado (13)
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Evento vai incentivar a adoção responsável de cães e gatos.
 

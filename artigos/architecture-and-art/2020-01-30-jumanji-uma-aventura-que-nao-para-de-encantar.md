@@ -1,11 +1,12 @@
 ---
-title: "Jumanji : Uma aventura que não para de encantar."
+title: 'Jumanji : Uma aventura que não para de encantar.'
 date: 2020-01-30
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Há poucos, talvez raros, momentos onde o livro e suas adaptações cinematográficas possuem um brilho de igual intensidade e grande carisma. Chris Van Allsburg é o autor do livro infantil *Jumanji*, escrito por ele em 1981. Foi também convidado a escrever a primeira versão do roteiro que posteriormente receberia várias correções e revisões pelas mãos do diretor Joe Johnnton e os roteiristas Jonathan Hensleigh, Greg Taylos e Jim Strain. O grande ator Robin Williams, já falecido, deu vida ao personagem  Alan Parrish e não se pode negar o modo como este ator contribuiu para a beleza e sucesso do filme. 
 

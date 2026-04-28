@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: As juntas governamentais"
+title: 'Série Fatos Da Independência: As juntas governamentais'
 date: 2024-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Nos anos que se seguiram, Pernambuco contestou o projeto de Império brasileiro encabeçado pela Corte instalada no Rio de Janeiro, com uma longa seqüência de eventos políticos de natureza mais ou menos local: a insurreição de Goiana, em 1821; a junta de Gervásio Pires Ferreira, entre 1821 e 1822; a junta dos Matutos, entre 1822 e 1823.
 

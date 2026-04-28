@@ -1,11 +1,13 @@
 ---
-title: "Revelações de Hunter Biden expõem conexões controversas de seu pai com negócios estrangeiros"
+title: Revelações de Hunter Biden expõem conexões controversas de seu pai com negócios
+  estrangeiros
 date: 2024-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Hunter Biden, filho do presidente dos Estados Unidos, admitiu perante o Congresso sua participação nos negócios obscuros que envolveram influência política e tráfico de influências, com destaque para suas atividades na Ucrânia e na China. Em seu depoimento, ele confirmou que seu pai, o então vice-presidente Joe Biden, era o "figurão" mencionado em e-mails relacionados a acordos comerciais controversos.
 

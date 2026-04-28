@@ -1,11 +1,13 @@
 ---
-title: "Grupo Marista é reconhecido como Top Employer 2023 no Brasil, pelo quarto ano consecutivo"
+title: Grupo Marista é reconhecido como Top Employer 2023 no Brasil, pelo quarto ano
+  consecutivo
 date: 2023-01-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Com 57 empresas certificadas em diversos setores da economia, o Top Employer 2023, produzido pela consultoria internacional Top Employers Institute, reconheceu o Grupo Marista como uma das melhores empregadoras do Brasil. A certificação avalia organizações que tenham excelentes políticas de RH e práticas de gestão de pessoas, além de outros itens, como liderança, sustentabilidade, carreira, engajamento e diversidade. 
 

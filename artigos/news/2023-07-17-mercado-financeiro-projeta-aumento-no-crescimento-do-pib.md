@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro projeta aumento no crescimento do PIB"
+title: Mercado financeiro projeta aumento no crescimento do PIB
 date: 2023-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativas positivas indicam crescimento de 2,24% para o PIB em 2023, segundo o Boletim Focus do Banco Central.
 

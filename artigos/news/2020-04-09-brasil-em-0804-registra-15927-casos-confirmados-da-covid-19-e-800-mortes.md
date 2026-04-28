@@ -1,11 +1,12 @@
 ---
-title: "Brasil em 08/04 registra 15.927 casos confirmados da COVID-19 e 800 mortes"
+title: Brasil em 08/04 registra 15.927 casos confirmados da COVID-19 e 800 mortes
 date: 2020-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde em quarta, 08 de Abril de 2020, 17h39; Última atualização em quarta, 08 de Abril de 2020, 20h44. Todos os estados registraram casos e 26 têm óbitos: AC, AM, AP, PA, RO, RR, AL, BA, CE, MA, PB, PE, PI, RN, SE, ES, MG, RJ, SP, DF, GO, MS, MT, PR, RS e SC
 

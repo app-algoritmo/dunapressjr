@@ -1,12 +1,13 @@
 ---
-title: "Mas é só um cavalo…Não, senhor!"
+title: Mas é só um cavalo…Não, senhor!
 date: 2024-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 É um cavalo equilibrando-se no espaço mínimo de uma cumeeira, para não morrer. É um cavalo que lutará até o último fôlego antes de se curvar às águas. É um cavalo que ainda espera um pouco de pasto.
 

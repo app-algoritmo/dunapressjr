@@ -1,12 +1,13 @@
 ---
-title: "Nickelback | Crítica do novo álbum 'Get Rollin'."
+title: Nickelback | Crítica do novo álbum 'Get Rollin'.
 date: 2022-12-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## O Nickelback lançou seu novo álbum de estúdio 'Get Rollin'. Esse é o o 10º trabalho de inéditas do grupo canadense.
 

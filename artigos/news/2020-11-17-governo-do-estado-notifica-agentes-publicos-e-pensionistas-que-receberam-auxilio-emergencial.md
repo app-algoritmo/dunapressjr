@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado notifica agentes públicos e pensionistas que receberam auxílio emergencial"
+title: Governo do Estado notifica agentes públicos e pensionistas que receberam auxílio
+  emergencial
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Controladoria-Geral do Estado (CGE-SC) vai notificar 3.082 agentes públicos e pensionistas especiais do Executivo de Santa Catarina que receberam o auxílio emergencial disponibilizado pelo Governo Federal em função da epidemia do novo coronavírus. Desta lista, apenas 117 são servidores estatutários ativos, dos quais 60 já devolveram ou estão em processo de devolução do benefício. A maioria (96%) é de servidores Admitidos em Caráter Temporário (ACTs) ou pensionistas especiais não previdenciários (cidadãos que recebem pensão do Estado devido a situações de incapacitação ao trabalho, cuja renda familiar não ultrapassa dois salários mínimos).
 

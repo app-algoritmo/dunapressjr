@@ -1,11 +1,12 @@
 ---
-title: "Indústria brasileira recua 0,2% de outubro para novembro de 2021"
+title: Indústria brasileira recua 0,2% de outubro para novembro de 2021
 date: 2022-01-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi a sexta queda consecutiva do indicador.
 

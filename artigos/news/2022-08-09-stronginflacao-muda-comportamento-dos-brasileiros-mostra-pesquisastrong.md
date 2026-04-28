@@ -1,11 +1,12 @@
 ---
-title: "<strong>Inflação muda comportamento dos brasileiros, mostra pesquisa</strong>"
+title: <strong>Inflação muda comportamento dos brasileiros, mostra pesquisa</strong>
 date: 2022-08-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Uma em cada quatro pessoas não paga todas as contas no mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "Embaixador russo expressa preocupação com a situação na Península Coreana"
+title: Embaixador russo expressa preocupação com a situação na Península Coreana
 date: 2024-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A situação na Península Coreana está gerando preocupações crescentes, especialmente devido às políticas aventureiras dos Estados Unidos na região, alertou o embaixador russo em Pyongyang, Alexander Matsegora, em uma entrevista à TASS.
 

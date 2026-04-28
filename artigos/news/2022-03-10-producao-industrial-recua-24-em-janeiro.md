@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial recua 2,4% em janeiro"
+title: Produção industrial recua 2,4% em janeiro
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor fica abaixo do patamar antes da pandemia.
 

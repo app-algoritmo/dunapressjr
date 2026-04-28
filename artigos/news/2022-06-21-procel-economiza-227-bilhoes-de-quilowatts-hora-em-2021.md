@@ -1,11 +1,12 @@
 ---
-title: "Procel economiza 22,7 bilhões de quilowatts-hora em 2021"
+title: Procel economiza 22,7 bilhões de quilowatts-hora em 2021
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Economia equivale a 4,54% do consumo de energia elétrica do país.
 

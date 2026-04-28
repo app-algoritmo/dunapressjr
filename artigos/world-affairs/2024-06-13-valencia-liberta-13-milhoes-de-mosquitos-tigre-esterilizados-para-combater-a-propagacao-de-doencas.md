@@ -1,11 +1,13 @@
 ---
-title: "Valência Liberta 1,3 Milhões de Mosquitos Tigre Esterilizados para Combater a Propagação de Doenças"
+title: Valência Liberta 1,3 Milhões de Mosquitos Tigre Esterilizados para Combater
+  a Propagação de Doenças
 date: 2024-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O mosquito tigre (Aedes albopictus), vetor de doenças como dengue, zika e chikungunya, tem se espalhado rapidamente pela Espanha desde sua chegada em 2004. Em resposta à crescente preocupação com as picadas incômodas e os riscos à saúde, a Câmara Municipal de Valência anunciou a liberação de 1,3 milhões de mosquitos tigre esterilizados como parte de um projeto apoiado pelo Ministério da Agricultura, Pecuária e Pescas.
 

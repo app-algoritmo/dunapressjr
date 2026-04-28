@@ -1,13 +1,14 @@
 ---
-title: "Exercícios Respiratórios para Reduzir a Ansiedade"
+title: Exercícios Respiratórios para Reduzir a Ansiedade
 date: 2024-10-11
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Fitness
-  - Lifestyle
-  - Personal Development
+- Fitness
+- Lifestyle
+- Personal Development
 ---
+
 
 Os exercícios respiratórios são uma prática poderosa e acessível para ajudar a reduzir a ansiedade e promover um estado de equilíbrio emocional. A respiração é uma função vital que, além de sustentar a vida, tem um impacto profundo sobre o sistema nervoso e a saúde mental. A seguir, exploraremos a importância dos exercícios respiratórios e como eles podem contribuir para o bem-estar.
 

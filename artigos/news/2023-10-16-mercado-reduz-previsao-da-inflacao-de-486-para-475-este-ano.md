@@ -1,11 +1,12 @@
 ---
-title: "Mercado reduz previsão da inflação de 4,86% para 4,75% este ano"
+title: Mercado reduz previsão da inflação de 4,86% para 4,75% este ano
 date: 2023-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção de expansão da economia fica em 2,92%.
 

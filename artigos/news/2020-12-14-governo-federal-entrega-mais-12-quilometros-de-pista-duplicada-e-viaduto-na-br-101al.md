@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal entrega mais 12 quilômetros de pista duplicada e viaduto na BR-101/AL"
+title: Governo Federal entrega mais 12 quilômetros de pista duplicada e viaduto na
+  BR-101/AL
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o objetivo de promover mais segurança para os usuários da rodovia federal, o Ministério da Infraestrutura entregou, nesta sexta-feira (11), mais 12 quilômetros de pista duplicada na BR-101, em Alagoas, no trecho localizado entre o km 92 e o km 104. Além disso, será liberado ao tráfego o viaduto que possibilita a interseção entre a BR-101 e a BR-316. Os serviços fazem parte da segunda etapa de entregas no lote 4 da rodovia federal.
 

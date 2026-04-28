@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 2,83% puxada por forte queda da Petrobras"
+title: Ibovespa cai 2,83% puxada por forte queda da Petrobras
 date: 2022-06-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ações da estatal chegaram a cair mais de 10% ao longo do dia.
 

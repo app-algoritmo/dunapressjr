@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança do Agronegócio fecha 1º trimestre em 111,5 pontos"
+title: Índice de Confiança do Agronegócio fecha 1º trimestre em 111,5 pontos
 date: 2022-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultados acima de 100 pontos estão na faixa considerada otimista.
 

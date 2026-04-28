@@ -1,11 +1,12 @@
 ---
-title: "FGV: IGP-M varia 0,05% em março de 2023"
+title: 'FGV: IGP-M varia 0,05% em março de 2023'
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com este resultado, o índice acumula alta de 0,20% em 12 meses.
 

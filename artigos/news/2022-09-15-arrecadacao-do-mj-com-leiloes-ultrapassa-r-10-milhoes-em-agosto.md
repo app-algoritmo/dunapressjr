@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação do MJ com leilões ultrapassa R$ 10 milhões em agosto"
+title: Arrecadação do MJ com leilões ultrapassa R$ 10 milhões em agosto
 date: 2022-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foram feitos 50 leilões com 326 ativos arrematados.
 

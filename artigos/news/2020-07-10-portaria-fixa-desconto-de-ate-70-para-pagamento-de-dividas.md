@@ -1,11 +1,12 @@
 ---
-title: "Portaria fixa desconto de até 70% para pagamento de dívidas"
+title: Portaria fixa desconto de até 70% para pagamento de dívidas
 date: 2020-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida possibilitará parcelamento em até 145 meses.
 

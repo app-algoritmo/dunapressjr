@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí reforça ações preventivas no Dia Mundial de Luta contra AIDS"
+title: Município de Itajaí reforça ações preventivas no Dia Mundial de Luta contra
+  AIDS
 date: 2020-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 90% dos pacientes em tratamento contra HIV/AIDS em Itajaí têm carga viral indetectável, ou seja, não transmitem o vírus e mantém uma vida saudável. Os dados são do Centro de Referência de Doenças Infecciosas (Ceredi), que realiza o acompanhamento dos pacientes na cidade. Ao todo, há 2.688 pessoas realizando tratamento na unidade, sendo que 2.459 são indetectáveis. Nesta terça-feira (1º) em que é celebrado o Dia Mundial de Luta Contra AIDS, a Secretaria de Saúde reforça as ações de prevenção nas unidades de saúde em alusão à campanha Dezembro Vermelho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Setor mineral brasileiro tem resultado positivo no 3º trimestre"
+title: Setor mineral brasileiro tem resultado positivo no 3º trimestre
 date: 2020-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do ano, a indústria da mineração faturou R$ 126 bilhões.
 

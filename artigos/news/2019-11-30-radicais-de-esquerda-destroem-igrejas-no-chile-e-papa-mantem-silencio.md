@@ -1,11 +1,12 @@
 ---
-title: "Radicais de esquerda  destroem igrejas no Chile e Papa mantém silêncio"
+title: Radicais de esquerda  destroem igrejas no Chile e Papa mantém silêncio
 date: 2019-11-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Silvonei José - Cidade do Vaticano**
 

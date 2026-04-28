@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador cria bloco de gesso sustentável"
+title: Pesquisador cria bloco de gesso sustentável
 date: 2022-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde a graduação, Victor Valério Landim, engenheiro civil, tinha um sonho: criar uma solução ambientalmente correta para o setor da construção civil. Durante seu mestrado em Engenharia de Materiais, na Universidade Federal da Paraíba (UFPB), o bolsista da CAPES alcançou sua meta com os blocos de gesso sustentáveis. O novo produto, feito a partir de resíduos de pedras ornamentais, tem potencial para substituir os tradicionais blocos de vedação utilizados na construção de edificações.
 

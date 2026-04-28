@@ -1,11 +1,12 @@
 ---
-title: "Marinha entrega alimentos para participantes da Operação “Acolhida” em Sergipe"
+title: Marinha entrega alimentos para participantes da Operação “Acolhida” em Sergipe
 date: 2020-04-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Capitania dos Portos de Sergipe realizou, em 8 de abril, a distribuição de alimentos para famílias venezuelanas que participam da Operação “Acolhida” no estado. Na oportunidade, foram entregues mais de uma tonelada de gêneros, tanto secos quanto frigorificados. Antes do início da entrega, os representantes das famílias foram orientados quanto aos cuidados em relação ao coronavírus (Covid-19).
 

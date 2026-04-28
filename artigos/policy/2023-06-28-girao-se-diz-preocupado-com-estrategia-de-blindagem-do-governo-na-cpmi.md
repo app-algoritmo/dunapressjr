@@ -1,11 +1,12 @@
 ---
-title: "Girão se diz preocupado com estratégia de blindagem do governo na CPMI"
+title: Girão se diz preocupado com estratégia de blindagem do governo na CPMI
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento nesta quarta-feira (28), manifestou preocupação com o que considera o "sequestro, pelo governo Lula”, da CPMI que investiga os atos de vandalismo em Brasília, como uma "estratégia de blindagem" do governo federal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rio perdeu mais de 40% de embarques aéreos entre 2014 e 2022"
+title: Rio perdeu mais de 40% de embarques aéreos entre 2014 e 2022
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Total passou de 13,3 milhões, em 2014, para 7,8 milhões, no ano passado.
 

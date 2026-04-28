@@ -1,11 +1,12 @@
 ---
-title: "IPTU com 20% de desconto está disponível na internet no Município de Itajaí"
+title: IPTU com 20% de desconto está disponível na internet no Município de Itajaí
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Imposto Predial e Territorial Urbano (IPTU) poderá ser pago com 20% de desconto em Itajaí. Os carnês estarão disponíveis pela Internet a partir desta sexta-feira (15) e também serão entregues pelos Correios nos imóveis. Para garantir o desconto no tributo, basta realizar o pagamento da cota única até 26 de fevereiro. Quem paga o IPTU em dia contribui com o crescimento da cidade e desfruta de benefícios, como descontos no imposto.
 

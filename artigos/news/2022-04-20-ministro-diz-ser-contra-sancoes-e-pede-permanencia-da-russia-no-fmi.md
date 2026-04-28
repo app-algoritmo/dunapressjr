@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz ser contra sanções e pede permanência da Rússia no FMI"
+title: Ministro diz ser contra sanções e pede permanência da Rússia no FMI
 date: 2022-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes disse que Brasil condena invasão à Ucrânia.
 

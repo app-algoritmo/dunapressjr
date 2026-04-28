@@ -1,11 +1,12 @@
 ---
-title: "Cidades com mais de 50 mil habitantes começam a usar pregão eletrônico"
+title: Cidades com mais de 50 mil habitantes começam a usar pregão eletrônico
 date: 2020-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Obrigação vale para compras com recursos de convênios com União
 

@@ -1,11 +1,12 @@
 ---
-title: "O Silo #Episodio 1 - Dia da Liberdade"
+title: 'O Silo #Episodio 1 - Dia da Liberdade'
 date: 2023-08-19
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 https://youtu.be/xgijWjgHiFo
 

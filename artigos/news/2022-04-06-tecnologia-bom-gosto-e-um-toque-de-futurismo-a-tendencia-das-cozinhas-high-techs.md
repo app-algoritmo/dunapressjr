@@ -1,11 +1,13 @@
 ---
-title: "Tecnologia, bom gosto e um toque de futurismo: a tendência das cozinhas high techs"
+title: 'Tecnologia, bom gosto e um toque de futurismo: a tendência das cozinhas high
+  techs'
 date: 2022-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As tendências de decoração para 2022 reúnem diversas novidades para os cômodos do lar: minimalismo, design biofílico, uso de matéria-prima orgânica e natural e a valorização da estética *comfy*, aconchegante e prazerosa. Na contramão das escolhas que têm prevalecido quando o assunto é decoração e design de interiores, as cozinhas estão à frente do seu tempo e apresentam invenções tecnológicas surpreendentes que aliam design, eficiência e rapidez.
 

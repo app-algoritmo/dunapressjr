@@ -1,11 +1,12 @@
 ---
-title: "Nanotecnologia demonstrada em vacinados e não vacinados"
+title: Nanotecnologia demonstrada em vacinados e não vacinados
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## De acordo com o médico Charles Morgan, ex-agente da CIA e conselheiro militar dos EUA em ciências neurológicas, a nanotecnologia foi detectada no sangue de pessoas vacinadas e não vacinadas.
 

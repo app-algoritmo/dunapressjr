@@ -1,11 +1,13 @@
 ---
-title: "Navios americanos e britânicos são alvo de ataques no Mar Vermelho em meio a tensões crescentes na região"
+title: Navios americanos e britânicos são alvo de ataques no Mar Vermelho em meio
+  a tensões crescentes na região
 date: 2024-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Dois navios americanos e britânicos foram alvos de ataques pelo exército iemenita no Mar Vermelho, em meio a crescentes tensões na região relacionadas ao apoio de Washington e Londres à guerra em Gaza, liderada pelo regime sionista.
 

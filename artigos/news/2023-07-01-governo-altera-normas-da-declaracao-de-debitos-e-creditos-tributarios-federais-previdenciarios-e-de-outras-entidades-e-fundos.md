@@ -1,11 +1,13 @@
 ---
-title: "Governo altera normas da Declaração de Débitos e Créditos Tributários Federais Previdenciários e de Outras Entidades e Fundos"
+title: Governo altera normas da Declaração de Débitos e Créditos Tributários Federais
+  Previdenciários e de Outras Entidades e Fundos
 date: 2023-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instrução Normativa RFB nº 2.147/2023 promove mudanças na obrigatoriedade da DCTFWeb
 

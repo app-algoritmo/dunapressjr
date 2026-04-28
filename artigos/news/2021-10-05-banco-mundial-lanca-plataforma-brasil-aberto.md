@@ -1,11 +1,12 @@
 ---
-title: "Banco Mundial lança plataforma Brasil Aberto"
+title: Banco Mundial lança plataforma Brasil Aberto
 date: 2021-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ferramenta informará sobre ações da instituição no país de 2018 a 2023.
 

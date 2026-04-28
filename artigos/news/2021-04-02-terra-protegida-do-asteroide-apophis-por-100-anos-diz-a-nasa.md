@@ -1,11 +1,12 @@
 ---
-title: "Terra protegida do asteróide Apophis por 100 anos, diz a NASA"
+title: Terra protegida do asteróide Apophis por 100 anos, diz a NASA
 date: 2021-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A NASA deu à Terra a permissão para o próximo século de um asteróide particularmente ameaçador.
 

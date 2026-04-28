@@ -1,11 +1,12 @@
 ---
-title: "3 melhores destinos para viajar durante o inverno"
+title: 3 melhores destinos para viajar durante o inverno
 date: 2022-08-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 # 
 

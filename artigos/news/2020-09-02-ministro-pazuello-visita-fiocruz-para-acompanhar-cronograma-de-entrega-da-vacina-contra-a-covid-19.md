@@ -1,11 +1,13 @@
 ---
-title: "Ministro Pazuello visita Fiocruz para acompanhar cronograma de entrega da vacina contra a Covid-19"
+title: Ministro Pazuello visita Fiocruz para acompanhar cronograma de entrega da vacina
+  contra a Covid-19
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### A previsão é a de que as primeiras doses do insumo cheguem à população no início de 2021 e sejam distribuídas por meio do Programa Nacional de Imunização.
 

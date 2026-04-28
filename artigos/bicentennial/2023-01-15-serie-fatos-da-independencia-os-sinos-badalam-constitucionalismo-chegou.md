@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Os sinos badalam,  constitucionalismo chegou!"
+title: 'Série Fatos Da Independência: Os sinos badalam,  constitucionalismo chegou!'
 date: 2023-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 1º de janeiro de 1821, ao sinal de homens armados, Dom Romualdo Antônio de Seixas ordenou o toque dos sinos da Catedral de Belém. Esses homens faziam parte de um pequeno grupo de conspiradores acostumados a se reunir em um clube militar instalado na loja de José Batista da Silva, negociante e tenente de milícias da região. Nessa congregação, reuniam-se os principais militares de Belém, como o Coronel Francisco José Rodrigues Barata e o Coronel João Pereira Vilaça, comandantes dos regimentos de 2ª e de 1ª Linha. A discussão girava em torno da nova situação política gerada pela Revolução Liberal do Porto.
 

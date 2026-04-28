@@ -1,11 +1,12 @@
 ---
-title: "IPCA sobe 0,84% em fevereiro, informa IBGE"
+title: IPCA sobe 0,84% em fevereiro, informa IBGE
 date: 2023-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, alta ficou em 5,6%.
 

@@ -1,11 +1,13 @@
 ---
-title: "Auxílio Emergencial tem ajudado as famílias dos Grupos Populacionais Tradicionais e Específicos"
+title: Auxílio Emergencial tem ajudado as famílias dos Grupos Populacionais Tradicionais
+  e Específicos
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 2,6 milhões de famílias pertencentes a Grupos Populacionais Tradicionais e Específicos (GPTE) estão recebendo o Auxílio Emergencial do Governo Federal. São 15 grupos, entre eles indígenas, quilombolas, ribeirinhos, extrativistas, pescadores artesanais, agricultores familiares, assentados, acampados e pessoas em situação de rua, que receberam o auxílio para enfrentar o momento de crise causado pelo novo coronavírus.
 

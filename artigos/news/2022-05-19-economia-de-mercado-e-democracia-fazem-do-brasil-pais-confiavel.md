@@ -1,11 +1,12 @@
 ---
-title: "Economia de mercado e democracia fazem do Brasil país confiável"
+title: Economia de mercado e democracia fazem do Brasil país confiável
 date: 2022-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes falou em congresso sobre mercado global de carbono.
 

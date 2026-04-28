@@ -1,11 +1,12 @@
 ---
-title: "Viagens terrestres internacionais de passageiros estão suspensas por 60 dias"
+title: Viagens terrestres internacionais de passageiros estão suspensas por 60 dias
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 A Agência Nacional de Transportes Terrestres publicou, nesta quarta-feira (18), a [Resolução nº 5.875](https://anttlegis.antt.gov.br/action/UrlPublicasAction.php?acao=abrirAtoPublico&sgl_tipo=RES&num_ato=00005875&seq_ato=000&vlr_ano=2020&sgl_orgao=DG/ANTT/MI&cod_modulo=161&cod_menu=5411), em que suspende o transporte internacional de passageiros, além de determinar às empresas que façam o protocolo estabelecido de higienização dos veículos. A resolução já está em vigor e tem vigência de 60 dias, podendo ser prorrogada.
 

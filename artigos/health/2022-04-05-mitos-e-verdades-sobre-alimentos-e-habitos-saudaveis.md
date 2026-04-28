@@ -1,11 +1,12 @@
 ---
-title: "Mitos e verdades sobre alimentos e hábitos saudáveis"
+title: Mitos e verdades sobre alimentos e hábitos saudáveis
 date: 2022-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Constantemente, é possível se deparar com "dicas" sugerindo alimentos ditos saudáveis que não são e outros caracterizados como vilões que não são tão prejudiciais quanto parecem. 
 

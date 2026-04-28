@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa tem queda enquanto aguarda dados da Vale"
+title: Ibovespa tem queda enquanto aguarda dados da Vale
 date: 2023-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bancos apresentam resultados positivos no segundo trimestre.
 

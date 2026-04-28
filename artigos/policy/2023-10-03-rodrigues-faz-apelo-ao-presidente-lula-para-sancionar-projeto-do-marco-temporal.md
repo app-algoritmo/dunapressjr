@@ -1,11 +1,12 @@
 ---
-title: "Rodrigues faz apelo ao presidente Lula para sancionar projeto do marco temporal"
+title: Rodrigues faz apelo ao presidente Lula para sancionar projeto do marco temporal
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR) fez apelo nesta segunda-feira (2), em pronunciamento no Plenário, para que o presidente Lula sancione o projeto que regulamenta os direitos originários indígenas sobre suas terras ([PL 2.903/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157888)). Para ele, o marco temporal é essencial para a segurança jurídica do setor produtivo, além de dar mais transparência.
 

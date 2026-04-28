@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem captação líquida de R$ 6,37 bilhões em julho"
+title: Poupança tem captação líquida de R$ 6,37 bilhões em julho
 date: 2021-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Depósitos superam retiradas pelo quarto mês seguido.
 

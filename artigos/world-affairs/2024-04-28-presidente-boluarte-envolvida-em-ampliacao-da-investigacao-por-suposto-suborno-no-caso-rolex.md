@@ -1,11 +1,13 @@
 ---
-title: "Presidente Boluarte Envolvida em Ampliação da Investigação por Suposto Suborno no 'Caso Rolex'"
+title: Presidente Boluarte Envolvida em Ampliação da Investigação por Suposto Suborno
+  no 'Caso Rolex'
 date: 2024-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No epicentro de um turbilhão político no Peru, a presidente Dina Boluarte se vê no centro de uma investigação em expansão conduzida pela Procuradoria do país. A recente ampliação do escopo da investigação para incluir a acusação de suborno passivo indevido lança ainda mais luz sobre o que já é conhecido como o 'Caso Rolex', uma saga de corrupção e enriquecimento ilícito que tem abalado as estruturas do governo peruano.
 

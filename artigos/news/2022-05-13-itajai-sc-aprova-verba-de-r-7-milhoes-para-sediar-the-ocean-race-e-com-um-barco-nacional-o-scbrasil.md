@@ -1,11 +1,13 @@
 ---
-title: "Itajaí (SC) aprova verba de R$ 7 milhões para sediar The Ocean Race e com um barco nacional, o SCBrasil"
+title: Itajaí (SC) aprova verba de R$ 7 milhões para sediar The Ocean Race e com um
+  barco nacional, o SCBrasil
 date: 2022-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Maio, 2022 -** Com menos de sete meses para receber pela quarta vez a única parada da América do Sul e segunda no Continente Americano da The Ocean Race, o Legislativo Municipal da cidade catarinense de Itajaí aprovou a abertura de crédito adicional suplementar de R$ 7 milhões para a realização do evento. Com 13 votos favoráveis pelos vereadores, foi autorizado em primeira discussão o Projeto de Lei Ordinária nº 39/2022 para atender às despesas da Secretaria Municipal de Turismo e Eventos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pacientes encontram nos corredores de hospitais motivos para agradecer"
+title: Pacientes encontram nos corredores de hospitais motivos para agradecer
 date: 2022-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um vídeo, um bilhete, uma faixa, uma mensagem ou simplesmente um muito obrigado. A gratidão faz parte da rotina de unidades hospitalares, em que profissionais da saúde têm sido a única luz de esperança para muitos pacientes, principalmente durante a pandemia. Um sentimento que o curitibano Lucas Camargo, de 20 anos, conhece bem. O jovem passou a considerar como parte da sua família a equipe do hospital que o atendeu após ficar tetraplégico em uma queda de cama elástica. Desde novembro de 2018, tornaram-se recorrentes as suas idas ao Hospital Universitário Cajuru, de Curitiba (PR), 100% SUS e referência em traumas. 
 

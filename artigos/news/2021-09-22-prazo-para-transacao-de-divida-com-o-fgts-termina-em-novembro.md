@@ -1,11 +1,12 @@
 ---
-title: "Prazo para transação de dívida com o FGTS termina em novembro"
+title: Prazo para transação de dívida com o FGTS termina em novembro
 date: 2021-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Negociação envolve benefícios como desconto de até 70% e prazo de até 144 meses para pagamento.
 

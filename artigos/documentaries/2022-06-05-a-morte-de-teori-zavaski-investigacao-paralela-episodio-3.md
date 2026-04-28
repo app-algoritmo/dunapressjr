@@ -1,11 +1,12 @@
 ---
-title: "A morte de Teori Zavaski - Investigação Paralela - Episódio 3"
+title: A morte de Teori Zavaski - Investigação Paralela - Episódio 3
 date: 2022-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo |
 

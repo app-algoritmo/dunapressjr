@@ -1,11 +1,12 @@
 ---
-title: "Governo tenta minimizar impactos da crise na aviação civil"
+title: Governo tenta minimizar impactos da crise na aviação civil
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal anuncia medidas para minimizar impactos na aviação civil, medidas buscam evitar também que população seja prejudicada futuramente com desdobramentos de danos.
 

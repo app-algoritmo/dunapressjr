@@ -1,11 +1,13 @@
 ---
-title: "Na Polônia, o novo museu de Sobibor homenageia as vítimas por meio de pertences desenterrados"
+title: Na Polônia, o novo museu de Sobibor homenageia as vítimas por meio de pertences
+  desenterrados
 date: 2021-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Após mais de uma década de planejamento e construção, um novo museu foi inaugurado recentemente em Sobibor, o antigo campo de extermínio nazista alemão na Polônia.
 

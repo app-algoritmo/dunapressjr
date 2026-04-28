@@ -1,11 +1,12 @@
 ---
-title: "Venda de reservas externas é decisão do BC, diz secretário especial"
+title: Venda de reservas externas é decisão do BC, diz secretário especial
 date: 2020-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Waldery Rodrigues pede que Congresso vote LDO de 2021.
 

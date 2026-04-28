@@ -1,11 +1,13 @@
 ---
-title: "TCE-PB fixa prazo de 30 dias para Estado detalhar receitas e despesas para enfrentamento da COVID-19"
+title: TCE-PB fixa prazo de 30 dias para Estado detalhar receitas e despesas para
+  enfrentamento da COVID-19
 date: 2020-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Decisão Singular DSPL TC 030/2020 foi assinada pelo conselheiro Fernando Catão.
 

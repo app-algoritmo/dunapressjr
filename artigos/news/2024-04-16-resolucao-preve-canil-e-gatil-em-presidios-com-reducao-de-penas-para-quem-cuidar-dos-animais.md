@@ -1,12 +1,14 @@
 ---
-title: "Resolução prevê canil e gatil em presídios com redução de penas para quem cuidar dos animais"
+title: Resolução prevê canil e gatil em presídios com redução de penas para quem cuidar
+  dos animais
 date: 2024-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Uma iniciativa implementada pela primeira vez em Taubaté, no interior de São Paulo (SP), em 2019, agora pode ser ampliada para todo o país.
 

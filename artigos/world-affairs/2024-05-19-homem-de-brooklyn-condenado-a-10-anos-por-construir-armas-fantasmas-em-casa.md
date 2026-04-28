@@ -1,11 +1,12 @@
 ---
-title: "Homem de Brooklyn Condenado a 10 Anos por Construir 'Armas Fantasmas' em Casa"
+title: Homem de Brooklyn Condenado a 10 Anos por Construir 'Armas Fantasmas' em Casa
 date: 2024-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Dexter Taylor, de 53 anos, morador de Bushwick, Brooklyn, foi condenado a 10 anos de prisão após ser considerado culpado por acusações relacionadas à fabricação e posse de armas de fogo sem licença. Taylor, que gastou cerca de US$ 40 mil em peças e ferramentas, montava "armas fantasmas" a partir de kits adquiridos online, sem os devidos registros e verificações de antecedentes.
 

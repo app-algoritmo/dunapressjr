@@ -1,11 +1,12 @@
 ---
-title: "O establishment no Brasil e a PL 2630"
+title: O establishment no Brasil e a PL 2630
 date: 2020-08-16
 status: publish
-author: pmbizz
+author: Paulo Mello
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Sobre a PL2630, a lei da mordaça, O Senado tem de entender que suas decisões são analisadas e eventualmente criticadas na sociedade.
 

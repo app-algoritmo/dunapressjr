@@ -1,11 +1,12 @@
 ---
-title: "Copom eleva juros básicos da economia pela primeira vez em seis anos"
+title: Copom eleva juros básicos da economia pela primeira vez em seis anos
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa Selic passou de 2% para 2,75% ao ano e surpreendeu analistas.
 

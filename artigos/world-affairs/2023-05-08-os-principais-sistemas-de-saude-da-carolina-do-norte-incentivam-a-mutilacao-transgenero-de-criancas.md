@@ -1,11 +1,13 @@
 ---
-title: "Os principais sistemas de saúde da Carolina do Norte incentivam a mutilação transgênero de crianças"
+title: Os principais sistemas de saúde da Carolina do Norte incentivam a mutilação
+  transgênero de crianças
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As principais escolas de medicina da Carolina do Norte estão promovendo as chamadas “transições de gênero” em crianças pequenas, de acordo com um novo relatório.
 

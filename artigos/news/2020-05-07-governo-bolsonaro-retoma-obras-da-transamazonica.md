@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro retoma obras da Transamazônica"
+title: Governo Bolsonaro retoma obras da Transamazônica
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal vai retomar as obras na BR-230, também conhecida como rodovia Transamazônica. Nesta terça-feira (5), o ministro da Infraestrutura, Tarcísio Gomes de Freitas, reuniu-se por videoconferência, com a bancada federal da Paraíba, para a assinatura da Ordem de Serviço para retomada da obra de adequação de capacidade e segurança da BR-230/PB, no trecho entre Cabedelo e João Pessoa. O Exército Brasileiro, por meio do 1º Batalhão de Engenharia de Construção, e com o apoio do General de Brigada Rogério Cetrim de Siqueira, realizará a obra dos trechos do km 2 ao 10, com previsão de entrega em 2021.
 

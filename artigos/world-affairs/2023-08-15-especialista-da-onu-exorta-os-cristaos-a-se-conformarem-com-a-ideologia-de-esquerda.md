@@ -1,11 +1,13 @@
 ---
-title: "'Especialista' da ONU exorta os cristãos a se conformarem com a ideologia de esquerda"
+title: '''Especialista'' da ONU exorta os cristãos a se conformarem com a ideologia
+  de esquerda'
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## 
 Um "especialista" das Nações Unidas em orientação sexual divulgou um novo relatório exortando os cristãos a se curvarem à ideologia da extrema esquerda.

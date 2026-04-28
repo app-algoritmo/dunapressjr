@@ -1,12 +1,13 @@
 ---
-title: "Medidas elaboradas pelo Governo Federal auxiliarão estados do Sudeste"
+title: Medidas elaboradas pelo Governo Federal auxiliarão estados do Sudeste
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
-  - News
+- Global Economy
+- News
 ---
+
 
 Nesta quarta-feira (25), o presidente da República, Jair Bolsonaro, e ministros de Estado se reuniram por teleconferência com os governadores da região Sudeste do Brasil. O presidente lembrou que mais de 38 milhões de autônomos brasileiros já foram impactados pelo isolamento social. "Não é apenas um vírus que nos preocupa no momento, mas também o desemprego", defende Bolsonaro.
 

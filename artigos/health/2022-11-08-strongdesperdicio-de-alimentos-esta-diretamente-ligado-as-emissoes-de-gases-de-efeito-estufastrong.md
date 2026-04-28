@@ -1,11 +1,13 @@
 ---
-title: "<strong>Desperdício de alimentos está diretamente ligado às emissões de gases de efeito estufa</strong>"
+title: <strong>Desperdício de alimentos está diretamente ligado às emissões de gases
+  de efeito estufa</strong>
 date: 2022-11-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma estimativa do Programa das Nações Unidas para o Meio Ambiente (PNUMA) mostra que 17% dos alimentos disponíveis aos consumidores vão diretamente para o lixo. Os dados indicam que as perdas e os desperdícios alimentares são um problema global e responsáveis por até 10% das emissões de gases com efeito de estufa. Por isso, desde 2019, a Organização das Nações Unidas (ONU), instituiu o Dia Internacional de Conscientização sobre a Perda e o Desperdício de Alimentos, comemorado no dia 29 de setembro. 
 

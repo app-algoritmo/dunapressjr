@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que prevê benefício financeiro a medalhista olímpico ou paralímpico"
+title: Comissão aprova projeto que prevê benefício financeiro a medalhista olímpico
+  ou paralímpico
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão do Esporte da Câmara dos Deputados aprovou o [Projeto de Lei 3685/21](https://www.camara.leg.br/noticias/922464-projeto-preve-beneficio-financeiro-a-medalhista-olimpico-ou-paralimpico), que prevê a concessão de benefício financeiro a atletas que conquistarem medalhas em Jogos Olímpicos ou Paralímpicos. O texto altera a [Lei 10.891/04](https://www2.camara.gov.br/legin/fed/lei/2004/lei-10891-9-julho-2004-532976-norma-pl.html), que instituiu o Bolsa Atleta.
 

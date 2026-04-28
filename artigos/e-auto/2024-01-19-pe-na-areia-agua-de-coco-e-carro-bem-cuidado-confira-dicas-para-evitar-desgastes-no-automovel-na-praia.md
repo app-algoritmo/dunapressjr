@@ -1,11 +1,13 @@
 ---
-title: "Pé na areia, água de coco e carro bem cuidado: confira dicas para evitar desgastes no automóvel na praia"
+title: 'Pé na areia, água de coco e carro bem cuidado: confira dicas para evitar desgastes
+  no automóvel na praia'
 date: 2024-01-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Areia fina, maresia e exposição prolongada ao sol podem prejudicar veículos.
 

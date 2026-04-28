@@ -1,11 +1,12 @@
 ---
-title: "<strong>Prisma Fiscal passa a monitorar PIB, inflação e desemprego</strong>"
+title: <strong>Prisma Fiscal passa a monitorar PIB, inflação e desemprego</strong>
 date: 2022-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novos indicadores são relevantes para avaliar a política fiscal.
 

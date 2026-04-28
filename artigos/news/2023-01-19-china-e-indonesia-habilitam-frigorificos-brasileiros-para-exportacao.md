@@ -1,11 +1,12 @@
 ---
-title: "China e Indonésia habilitam frigoríficos brasileiros para exportação"
+title: China e Indonésia habilitam frigoríficos brasileiros para exportação
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pasta da Agricultura anuncia também abertura do mercado para o algodão.
 

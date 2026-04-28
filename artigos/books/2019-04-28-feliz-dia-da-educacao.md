@@ -1,11 +1,12 @@
 ---
-title: "Feliz dia da Educação"
+title: Feliz dia da Educação
 date: 2019-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 O Dia Mundial da Educação é
 celebrado anualmente em 28 de abril. A data nasceu no ano 2000, em Dakar, no

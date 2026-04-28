@@ -1,11 +1,13 @@
 ---
-title: "O ex-secretário de saúde do Reino Unido, Matt Hancock, transformou as casas de repouso britânicas em campos de eutanásia"
+title: O ex-secretário de saúde do Reino Unido, Matt Hancock, transformou as casas
+  de repouso britânicas em campos de eutanásia
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto todos estavam presos em casa durante as ordens de bloqueio do coronavírus de Wuhan (Covid-19), o ex-secretário de saúde britânico Matt Hancock estava ocupado assassinando [idosos](https://expose-news.com/2023/08/08/hancock-care-homes-euthanasia-midazolam/) em casas de repouso, dando-lhes midazolam e coquetéis *de eutanásia com morfina.*
 

@@ -1,12 +1,13 @@
 ---
-title: "Saindo da zona de conforto! - 04"
+title: Saindo da zona de conforto! - 04
 date: 2018-09-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Somos criados com uma falsa noção de que não temos controle e confiança para nada, que tudo segue um fluxo sem controle e que temos que ir empurrando com a barriga, pois as coisas são desse jeito mesmo.
 

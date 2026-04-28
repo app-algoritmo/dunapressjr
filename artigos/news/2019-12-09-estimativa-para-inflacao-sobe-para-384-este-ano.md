@@ -1,11 +1,12 @@
 ---
-title: "Estimativa para inflação sobe para 3,84% este ano"
+title: Estimativa para inflação sobe para 3,84% este ano
 date: 2019-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Mercado mudou projeção depois do anúncio do IPCA*
 

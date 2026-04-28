@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa em Parauapebas/PA"
+title: PF combate crime de moeda falsa em Parauapebas/PA
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Marabá/PA (05/05) - A Polícia federal, em conjunto com a Polícia Civil de Parauapebas/PA, prendeu em flagrante, na segunda-feira (4/5), um homem com R$ 1 mil em notas falsas.
 

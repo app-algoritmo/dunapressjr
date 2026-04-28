@@ -1,11 +1,12 @@
 ---
-title: "Toronto pede descriminalização de fentanil e metanfetamina para crianças"
+title: Toronto pede descriminalização de fentanil e metanfetamina para crianças
 date: 2023-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A cidade de Toronto revelou seu plano de longo alcance para descriminalizar todas as drogas pesadas, incluindo fentanil e crack, para todas as idades.
 

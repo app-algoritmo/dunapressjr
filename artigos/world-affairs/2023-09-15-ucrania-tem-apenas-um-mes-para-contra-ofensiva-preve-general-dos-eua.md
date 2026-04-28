@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia tem apenas um mês para contra-ofensiva, prevê general dos EUA"
+title: Ucrânia tem apenas um mês para contra-ofensiva, prevê general dos EUA
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O oficial militar de mais alta patente nas Forças Armadas dos EUA alertou que [falta apenas um mês para a Ucrânia](https://www.breitbart.com/politics/2023/09/11/ukraines-counteroffensive-only-has-a-month-left-predicts-gen-mark-milley24922777/) obter ganhos significativos na sua contra-ofensiva contra a Rússia.
 

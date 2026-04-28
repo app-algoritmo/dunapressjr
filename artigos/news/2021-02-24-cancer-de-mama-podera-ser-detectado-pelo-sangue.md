@@ -1,11 +1,12 @@
 ---
-title: "Câncer de mama poderá ser detectado pelo sangue"
+title: Câncer de mama poderá ser detectado pelo sangue
 date: 2021-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O câncer de mama pode vir a ser detectado pelo sangue, em um processo denominado biópsia líquida. Uma bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) trabalha com a mesma linha de pesquisa desde 2012 para concretizar o uso da tecnologia em hospitais, possibilitando diagnósticos mais rápidos e em um processo menos invasivo.
 

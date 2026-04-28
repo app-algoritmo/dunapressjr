@@ -1,11 +1,12 @@
 ---
-title: "Não há esperança de paz na Ucrânia - apenas de uma guerra com os EUA e a OTAN"
+title: Não há esperança de paz na Ucrânia - apenas de uma guerra com os EUA e a OTAN
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Quero colocá-lo da forma mais simples possível - se o artigo de Keith Gessen na New Yorker ("O caso para negociar com a Rússia") representa com precisão as duas únicas posições políticas que estão sendo discutidas em Washington em relação a uma resposta à invasão da Ucrânia pela Rússia, então uma guerra entre a Rússia e os EUA são inevitáveis. Não há caminho viável para a negociação.
 

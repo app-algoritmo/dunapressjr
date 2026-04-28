@@ -1,11 +1,12 @@
 ---
-title: "'Uma onda após a outra de pandemias está vindo em nossa direção!'"
+title: '''Uma onda após a outra de pandemias está vindo em nossa direção!'''
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chefe da OMS, Tedros, Bill Gates, Anthony Fauci e o desenvolvedor de vacinas, Peter Hotez, estão todos dizendo com entusiasmo que uma nova pandemia está chegando.
 

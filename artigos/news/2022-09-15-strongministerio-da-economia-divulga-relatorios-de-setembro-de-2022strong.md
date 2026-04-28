@@ -1,11 +1,12 @@
 ---
-title: "<strong>Ministério da Economia divulga relatórios de setembro de 2022</strong>"
+title: <strong>Ministério da Economia divulga relatórios de setembro de 2022</strong>
 date: 2022-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Confira as estatísticas para as previsões das variáveis fiscais e a distribuição de frequência.
 

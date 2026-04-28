@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Pernambuco e a Revolução de 1817"
+title: 'Série Fatos Da Independência: Pernambuco e a Revolução de 1817'
 date: 2023-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 o mês de março de 1817, foi proclamada a República no Brasil – no Recife. A Revolução de 1817, responsável pela proeza, prefigurou o ciclo revolucionário da Independência e impôs uma conjuntura política completamente nova nas possessões americanas do Império português. Pela primeira vez, parte do território do Brasil materializou um processo de emancipação e fez a experiência de autonomia provincial. Pernambuco rompeu com o centralismo da Corte instalada no Rio de Janeiro, propôs um projeto constitucional e vocalizou um programa político de governo na forma de uma República de vocação federalista.
 

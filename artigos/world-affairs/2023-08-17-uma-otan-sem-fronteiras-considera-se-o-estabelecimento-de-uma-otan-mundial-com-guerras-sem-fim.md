@@ -1,11 +1,13 @@
 ---
-title: "Uma OTAN sem fronteiras - Considera-se o estabelecimento de uma OTAN mundial com guerras sem fim"
+title: Uma OTAN sem fronteiras - Considera-se o estabelecimento de uma OTAN mundial
+  com guerras sem fim
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A analista política Jessica Berlin, escrevendo na revista online do Centre for European Policy Analysis, propôs uma OTAN sem fronteiras - uma extensão da Organização do Tratado do Atlântico Norte a todas as democracias.
 

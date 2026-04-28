@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro prioriza agenda de investimentos e concessões públicas"
+title: Governo Bolsonaro prioriza agenda de investimentos e concessões públicas
 date: 2020-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A 13ª reunião do Conselho do Programa de Parcerias de Investimentos foi realizada nesta quarta-feira no palácio do Planalto.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova medida que facilita reajustes de fretes rodoviários"
+title: Câmara aprova medida que facilita reajustes de fretes rodoviários
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### MP permite autorização de reajustes quando preço do diesel oscilar 5%.
 

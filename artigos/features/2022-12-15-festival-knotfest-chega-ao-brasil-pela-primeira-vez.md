@@ -1,12 +1,13 @@
 ---
-title: "Festival Knotfest chega ao Brasil pela primeira vez"
+title: Festival Knotfest chega ao Brasil pela primeira vez
 date: 2022-12-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Festival com curadoria do Slipknot irá unir grandes nomes do rock e metal em São Paulo.
 

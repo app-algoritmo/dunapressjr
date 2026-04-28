@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal investiga compra de votos na eleição de 2020"
+title: Polícia Federal investiga compra de votos na eleição de 2020
 date: 2023-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ação ocorre em três municípios da Paraíba e cumpre sete mandados.
 

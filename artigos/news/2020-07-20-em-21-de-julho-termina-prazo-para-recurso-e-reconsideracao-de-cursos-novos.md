@@ -1,11 +1,12 @@
 ---
-title: "Em 21 de Julho termina prazo para recurso e reconsideração de Cursos Novos"
+title: Em 21 de Julho termina prazo para recurso e reconsideração de Cursos Novos
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Dia 21 de julho é a data-limite para pedido de reconsideração à primeira análise das propostas de cursos novos. Já os recursos podem ser apresentados até o dia 22 deste mês.
 

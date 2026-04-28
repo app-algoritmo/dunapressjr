@@ -1,11 +1,12 @@
 ---
-title: "Ministério eleva a R$ 89,4 bi previsão de superávit comercial este ano"
+title: Ministério eleva a R$ 89,4 bi previsão de superávit comercial este ano
 date: 2021-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Alta das commodities e do consumo global motivaram nova projeção.
 

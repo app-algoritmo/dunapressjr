@@ -1,11 +1,12 @@
 ---
-title: "Comissão Desportiva Militar do Brasil completa 64 anos"
+title: Comissão Desportiva Militar do Brasil completa 64 anos
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 27/02/2020 -** Nesta
 quinta-feira (27), a Comissão Desportiva Militar do Brasil (CDMB) completa 64

@@ -1,11 +1,12 @@
 ---
-title: "Os políticos respondem mais aos eleitores através das redes sociais?"
+title: Os políticos respondem mais aos eleitores através das redes sociais?
 date: 2020-10-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Qual é a essência de um governo democrático? Algumas características são básicas para entendermos não só a existência ou não de uma democracia, mas a qualidade da representação sendo praticada. Entre os critérios básicos estão garantias constitucionas como o direito de votar e ser votado para cargos políticos e o direito de contestação pública aos representantes eleitos. Junto a estes critérios básicos, está a necessidade dos representantes, na medida do possível, escutarem os cidadãos e atenderem suas demandas. Neste ponto, a relação entre cidadãos e representantes é importante. A popularização da internet trouxe novas ferramentas que permitem, pelo menos em teoria, maior interação entre políticos e eleitores, possibilitando novas formas de transparência e participação do povo nos processos de decisões governamentais.
 

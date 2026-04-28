@@ -1,11 +1,12 @@
 ---
-title: "Decreto altera regras e obrigações para atividade de mineração"
+title: Decreto altera regras e obrigações para atividade de mineração
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Minerador será responsável pelo bem-estar das comunidades envolvidas.
 

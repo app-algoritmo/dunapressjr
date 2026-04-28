@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs: presidente e relator querem ouvir integrantes do governo"
+title: 'CPI das ONGs: presidente e relator querem ouvir integrantes do governo'
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs foi [instalada](/noticias/materias/2023/06/14/cpi-das-ongs-e-instalada-com-promessa-de-nao-demonizar-organizacoes) no último dia 14 de junho, com o objetivo de investigar a liberação de recursos públicos para essas entidades, bem como a correta aplicação dos repasses recebidos. A CPI tem o senador Plínio Valério (PSDB-AM) como presidente e o senador Marcio Bittar (União-AC) como relator.
 

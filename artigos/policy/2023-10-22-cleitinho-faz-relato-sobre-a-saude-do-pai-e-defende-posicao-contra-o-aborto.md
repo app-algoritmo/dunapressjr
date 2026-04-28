@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho faz relato sobre a saúde do pai e defende posição contra o aborto"
+title: Cleitinho faz relato sobre a saúde do pai e defende posição contra o aborto
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na terça-feira, o senador Cleitinho (Republicanos-MG) se emocionou ao abordar a situação de saúde de seu pai, José Maria de Azevedo, que enfrenta um câncer na bexiga. O parlamentar relacionou o drama familiar com a pauta de legalização do aborto que está sendo analisada pelo Supremo Tribunal Federal (STF). Cleitinho questionou a decisão de interromper a vida de um feto na barriga de uma mãe, quando seu próprio pai, aos 70 anos de idade, está lutando pela vida.
 

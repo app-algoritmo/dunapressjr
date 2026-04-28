@@ -1,11 +1,13 @@
 ---
-title: "A Transição para uma Economia Digital: O Papel Preponderante dos Tokens e a Responsabilidade do Banco Central"
+title: 'A Transição para uma Economia Digital: O Papel Preponderante dos Tokens e
+  a Responsabilidade do Banco Central'
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco Central busca promover uma transição ordenada para uma economia digital.
 

@@ -1,11 +1,13 @@
 ---
-title: "Receptores de vacina COVID feridos processam governos e Big Pharma em busca de restituição"
+title: Receptores de vacina COVID feridos processam governos e Big Pharma em busca
+  de restituição
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Advogados de Brisbane, Austrália, Reino Unido e outros lugares estão [processando governos e a indústria farmacêutica](https://greatgameindia.com/landmark-class-action-lawsuits-further-expose-startling-corruption-in-covid-vaccine-rollout/) pelo papel que desempenharam no lançamento de “vacinas” mortais para o coronavírus Wuhan (COVID-19) que feriram e mataram milhões de pessoas .
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba mais sobre o envelhecimento saudável"
+title: Saiba mais sobre o envelhecimento saudável
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Viver por mais tempo é um desejo que todos têm e, acima de tudo, viver com saúde, qualidade, liberdade e facilidade, aproveitando melhor a vida depois dos 60 anos.
 

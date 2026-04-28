@@ -1,11 +1,13 @@
 ---
-title: "Noruega, pela primeira vez, a taxa de aborto é inferior a 10 por cada 1.000 mulheres"
+title: Noruega, pela primeira vez, a taxa de aborto é inferior a 10 por cada 1.000
+  mulheres
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Os números do aborto caíram ainda mais de 2018 a 2019, de acordo com as novas estatísticas do Registro de Aborto publicadas pelo Instituto de Saúde Pública neste 13 de março.
 

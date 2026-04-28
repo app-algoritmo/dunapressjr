@@ -1,11 +1,12 @@
 ---
-title: "Páscoa, a Ressurreição de Jesus Cristo, o filho de Deus"
+title: Páscoa, a Ressurreição de Jesus Cristo, o filho de Deus
 date: 2021-04-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 ## -Jesus Ressuscita | [Lucas 24:39](https://bibel.no/Nettbibelen?query=c6r4KKs2UzZMeekVrjfl0BslzpOuNO0jtdSu9cV3Vdz03OS2HH7ntRItcRyYiaaC).
 

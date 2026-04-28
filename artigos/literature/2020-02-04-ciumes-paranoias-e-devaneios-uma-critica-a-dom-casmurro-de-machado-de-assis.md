@@ -1,11 +1,13 @@
 ---
-title: "Ciúmes, Paranoias e Devaneios... Uma crítica a Dom Casmurro, de Machado de Assis"
+title: Ciúmes, Paranoias e Devaneios... Uma crítica a Dom Casmurro, de Machado de
+  Assis
 date: 2020-02-04
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 *Um clássico é um livro que nunca terminou de dizer aquilo que tinha para dizer * ( Ítalo Calvino - Por Que Ler os Clássicos)
 

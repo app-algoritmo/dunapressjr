@@ -1,11 +1,12 @@
 ---
-title: "Disparidade de renda regional no Brasil revelada pelo IBGE em 2022"
+title: Disparidade de renda regional no Brasil revelada pelo IBGE em 2022
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Centro-Oeste se destaca com renda acima da média nacional, enquanto Nordeste e Norte enfrentam desafios econômicos.
 

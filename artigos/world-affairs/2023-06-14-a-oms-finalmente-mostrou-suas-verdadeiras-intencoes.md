@@ -1,11 +1,12 @@
 ---
-title: "A OMS finalmente mostrou suas verdadeiras intenções"
+title: A OMS finalmente mostrou suas verdadeiras intenções
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em 2 de junho, a Organização Mundial da Saúde (OMS) publicou um novo rascunho do tratado pandêmico que está sendo negociado pelos 194 estados membros, escreve [De Andere Krant](https://deanderekrant.nl/nieuws/who-wordt-de-baas-2023-06-10) .
 

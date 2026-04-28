@@ -1,11 +1,12 @@
 ---
-title: "Alemanha declarou guerra contra a Rússia?"
+title: Alemanha declarou guerra contra a Rússia?
 date: 2023-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Em Estrasburgo, ela pediu às nações europeias que aumentassem sua ajuda a Kiev e afirmou que os países europeus estavam travando uma guerra contra a Rússia, mas não uns contra os outros.
 

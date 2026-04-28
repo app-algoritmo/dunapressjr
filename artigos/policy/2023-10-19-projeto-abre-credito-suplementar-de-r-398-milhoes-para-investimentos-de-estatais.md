@@ -1,11 +1,12 @@
 ---
-title: "Projeto abre crédito suplementar de R$ 398 milhões para investimentos de estatais"
+title: Projeto abre crédito suplementar de R$ 398 milhões para investimentos de estatais
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Petrobras receberá maior parte do dinheiro, com prioridade para implantação de unidades de processamento de gás natural na Bacia de Santos.
 

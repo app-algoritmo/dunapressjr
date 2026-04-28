@@ -1,11 +1,12 @@
 ---
-title: "75 anos da participação da FAB na Segunda Guerra Mundial"
+title: 75 anos da participação da FAB na Segunda Guerra Mundial
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Era um sábado, dia 11 de novembro de 1944, quando o Primeiro Grupo de Aviação de Caça (1º GAVCA) voou, pela primeira vez, como unidade independente, para combater na Segunda Guerra Mundial. As aeronaves P-47D Thunderbolt decolaram de Tarquínia, na região central da Itália, para realizar missões de reconhecimento armado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Covid-19 pode causar danos irreversíveis à visão"
+title: Covid-19 pode causar danos irreversíveis à visão
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com mais de 14 milhões de casos confirmados e quase 400 mil mortes no Brasil, mesmo com mais de um ano de pandemia, continuam surgindo novas - e preocupantes - descobertas sobre os efeitos causados pela Covid-19. Uma pesquisa realizada por cientistas brasileiros, publicada na revista Ocular Immunology and Inflammation Journal, aponta que a doença pode causar sérias lesões vasculares nos olhos, comprometendo a retina de forma irreversível. O estudo estima que o problema pode afetar até 20% dos pacientes que contraíram a doença de forma mais severa.
 

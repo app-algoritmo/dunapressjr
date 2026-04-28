@@ -1,11 +1,12 @@
 ---
-title: "Inscrições para o Fies terminam nesta sexta-feira (31)"
+title: Inscrições para o Fies terminam nesta sexta-feira (31)
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo foi aberto nesta terça-feira (28), com oferta de 30 mil vagas.
 

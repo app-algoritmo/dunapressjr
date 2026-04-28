@@ -1,11 +1,12 @@
 ---
-title: "Decisão do Copom: Taxa de juros reduzida para estimular a economia"
+title: 'Decisão do Copom: Taxa de juros reduzida para estimular a economia'
 date: 2023-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco Central busca equilíbrio entre controle da inflação e impulso à atividade econômica.
 

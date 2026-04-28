@@ -1,11 +1,13 @@
 ---
-title: "Comando Conjunto Sudeste visita o Centro de Coordenação de Operações da Força Conjunta Bandeirantes"
+title: Comando Conjunto Sudeste visita o Centro de Coordenação de Operações da Força
+  Conjunta Bandeirantes
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Paulo (SP)** – No dia 13 de maio, o Subcomandante do Comando Conjunto Sudeste, General de Divisão **José Eduardo Pereira**, seu Chefe do Estado-Maior, Major Brigadeiro do Ar** Ricardo Augusto Fonseca Neubert**, e comitiva visitaram o Centro de Coordenação de Operações da Força Conjunta (FCj) Bandeirantes, instalado no 8º Batalhão de Polícia do Exército.
 

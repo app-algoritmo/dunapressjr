@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável, mas acumula quinta semana de queda"
+title: Dólar fecha estável, mas acumula quinta semana de queda
 date: 2022-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Tensões globais reduzem alta da bolsa de valores.
 

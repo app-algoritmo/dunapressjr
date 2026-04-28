@@ -1,11 +1,13 @@
 ---
-title: "Líder do governo manifesta apoio a  Jair Bolsonaro, enquanto ex-aliados defendem Moro"
+title: Líder do governo manifesta apoio a  Jair Bolsonaro, enquanto ex-aliados defendem
+  Moro
 date: 2020-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os líderes da maioria dos partidos representados na Câmara dos Deputados evitaram se manifestar sobre o pronunciamento desta sexta-feira (24) do presidente da República, Jair Bolsonaro. O líder do governo na Câmara, deputado [Vitor Hugo (PSL-GO)](https://www.camara.leg.br/deputados/179587), defendeu Bolsonaro no Twitter, dizendo que seu discurso foi "cirúrgico". Ex-aliados do presidente, porém, defenderam Moro.
 

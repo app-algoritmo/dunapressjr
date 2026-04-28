@@ -1,11 +1,12 @@
 ---
-title: "Caixa dobra crédito imobiliário em janeiro e eleva previsão para 2022"
+title: Caixa dobra crédito imobiliário em janeiro e eleva previsão para 2022
 date: 2022-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa de financiamentos passa de R$ 150 bi para R$ 155 bilhões.
 

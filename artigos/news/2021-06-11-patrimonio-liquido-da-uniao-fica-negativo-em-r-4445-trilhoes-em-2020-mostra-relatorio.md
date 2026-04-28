@@ -1,11 +1,13 @@
 ---
-title: "Patrimônio líquido da União fica negativo em R$ 4,445 trilhões em 2020, mostra relatório"
+title: Patrimônio líquido da União fica negativo em R$ 4,445 trilhões em 2020, mostra
+  relatório
 date: 2021-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os dados estão no Relatório Contábil do Tesouro Nacional (RCTN) de 2020, divulgado pelo Tesouro Nacional
 

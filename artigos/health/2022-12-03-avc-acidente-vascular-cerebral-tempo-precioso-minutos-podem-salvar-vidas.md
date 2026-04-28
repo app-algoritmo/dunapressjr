@@ -1,11 +1,12 @@
 ---
-title: "AVC (Acidente Vascular Cerebral): Tempo precioso, minutos podem salvar vidas"
+title: 'AVC (Acidente Vascular Cerebral): Tempo precioso, minutos podem salvar vidas'
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Somente no mês de julho de 2022 o AVC matou 8.758 brasileiros, o equivalente a 11 óbitos por hora, segundo dados do Portal de Transparência dos Cartórios de Registro Civil do Brasil. No primeiro semestre deste ano, foram 56.320 vítimas fatais, número acima das mortes por infarto (52.665) e por Covid-19 (48.865).
 

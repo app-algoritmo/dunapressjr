@@ -1,11 +1,12 @@
 ---
-title: "O Silmarillion"
+title: O Silmarillion
 date: 2020-12-23
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Início de tudo que você conhece na grande obra de Tolkin.
 

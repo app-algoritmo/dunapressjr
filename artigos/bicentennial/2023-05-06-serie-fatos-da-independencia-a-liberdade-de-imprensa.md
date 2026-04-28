@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A liberdade de imprensa"
+title: 'Série Fatos Da Independência: A liberdade de imprensa'
 date: 2023-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Até 1821, quando foi promulgada a liberdade de imprensa, a circulação de livros, jornais e panfletos no Maranhão era ilegal. Boa parte vinha contrabandeada em navios portugueses, escondida entre as mercadorias manufaturadas que cruzavam o Atlântico para abastecer o comércio de São Luís. Havia livros em boticas, armazéns e todo tipo de comércio cujo proprietário estivesse disposto a correr o risco. Com o fim da censura, o grande número de impressos em circulação preocupou as autoridades administrativas. Criticavam o despotismo, propunham leis para limitar o poder do Soberano. Eram um perigo. As discussões começavam nos portos, quando a própria tripulação dos navios divulgava para quem estivesse por perto o conteúdo e logo ganhavam espaço nas ruas e no comércio local. Afinal, se antes a política era um assunto privado discutido entre confrades, agora ela era publicizada nos panfletos, jornais e abaixo-assinados que, por vezes, eram lidos oralmente em praças e esquinas de São Luís.
 

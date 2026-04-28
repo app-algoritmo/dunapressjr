@@ -1,11 +1,12 @@
 ---
-title: "Pão caseiro integral norueguês |Norsk hjemme grovbrød"
+title: Pão caseiro integral norueguês |Norsk hjemme grovbrød
 date: 2019-11-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 Rápido, fácil, delicioso e saudável: 
 

@@ -1,11 +1,13 @@
 ---
-title: "André Baran é campeão em Laguna (SC) e subirá para o top 3 no ranking mundial de Beach Tennis"
+title: André Baran é campeão em Laguna (SC) e subirá para o top 3 no ranking mundial
+  de Beach Tennis
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma segunda-feira (5) de muita comemoração para André Baran. Jogando ao lado do russo Nikita Burmakin, o catarinense conquistou o título da etapa de Laguna (SC) do Campeonato Mundial de Beach Tennis, o ITF BT 400 de Laguna. Com o resultado, alcançará o top 3 do ranking mundial, subindo da quinta para a terceira colocação, quando for divulgado o novo ranking. Já Nikita passará de nono para quinto do mundo. Baran e Nikita venceram de virada, no super tie-break: 4/6, 6/0 e 10-7, diante do italiano Doriano Beccaccioli e do francês Theo Irigaray.
 

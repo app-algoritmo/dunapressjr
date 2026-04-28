@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus em SC: Aresc realiza mais de 3,2 mil ações de fiscalização desde início da pandemia"
+title: 'Coronavírus em SC: Aresc realiza mais de 3,2 mil ações de fiscalização desde
+  início da pandemia'
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para evitar a propagação do novo coronavírus, a Agência de Regulação dos Serviços Públicos de Santa Catarina - Aresc atua no controle do transporte público intermunicipal. O trabalho, iniciado pelas equipes desde o início da pandemia, resultou em mais 3,2 mil ações de fiscalização. O cronograma prevê intensificação das ações de monitoramento nos meses de dezembro e janeiro.
 

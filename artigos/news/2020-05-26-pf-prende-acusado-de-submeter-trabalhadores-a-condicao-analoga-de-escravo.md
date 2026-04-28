@@ -1,11 +1,12 @@
 ---
-title: "PF prende acusado de submeter trabalhadores a condição análoga de escravo"
+title: PF prende acusado de submeter trabalhadores a condição análoga de escravo
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Juazeiro do Norte - A Policia Federal prendeu no domingo , dia 24/5, no município pernambucano do Cedro , um homem acusado de submeter trabalhadores a condição análoga de escravo. A PF cumpriu mandado de prisão preventiva expedido pela 2 vara da Justiça Federal do Maranhão .
 

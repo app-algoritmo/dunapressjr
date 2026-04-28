@@ -1,11 +1,13 @@
 ---
-title: "Juiz brasileiro adiou interrogatório de Lula da Silva para que possa viajar a Itália"
+title: Juiz brasileiro adiou interrogatório de Lula da Silva para que possa viajar
+  a Itália
 date: 2020-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O juiz brasileiro **Ricardo Augusto Soares Leite** adiou uma audiência judicial para que o ex-presidente Luiz Inácio Lula da Silva viaje para o Vaticano , onde ele tem um encontro com o papa Francisco em 13 de fevereiro.
 

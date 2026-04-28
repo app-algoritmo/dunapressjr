@@ -1,11 +1,12 @@
 ---
-title: "Royalties sobre produção de petróleo somaram valor recorde em 2021"
+title: Royalties sobre produção de petróleo somaram valor recorde em 2021
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valores que superam em 65% o que foi arrecadado em 2020.
 

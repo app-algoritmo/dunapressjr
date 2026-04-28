@@ -1,11 +1,12 @@
 ---
-title: "IPCA-15 foi de 0,55% em janeiro, de acordo com o IBGE"
+title: IPCA-15 foi de 0,55% em janeiro, de acordo com o IBGE
 date: 2023-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prévia da inflação acumulou 5,87% nos últimos 12 meses.
 

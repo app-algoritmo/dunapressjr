@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs recebe mais lideranças indígenas nesta terça"
+title: CPI das ONGs recebe mais lideranças indígenas nesta terça
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs vai ouvir nesta terça-feira (4), três convidados: o conselheiro da área de prestação ambiental "Triunfo do Xingu", no Pará, Marcelo Norkey Duarte Pereira; o cacique da aldeia Bragança (Santarém, Pará) Miguel dos Santos Correa; e a liderança indígena Luciene Kujãesage Kayabi. Eles foram chamados após aprovação de requerimentos apresentados pelo presidente do colegiado, senador Plínio Valério (PSDB-AM), e pelo relator, Marcio Bittar (União-AC).
 

@@ -1,11 +1,13 @@
 ---
-title: "Síndrome pós-Covid: Confira cinco sequelas da doença que pesquisadores estudam se são permanentes ou temporárias"
+title: 'Síndrome pós-Covid: Confira cinco sequelas da doença que pesquisadores estudam
+  se são permanentes ou temporárias'
 date: 2021-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Dados analisados em ambulatório de hospital apontam que 90% dos pacientes entre 24 e 76 anos apresentam fadiga e 85% teve uma grande perda de massa muscular.
 

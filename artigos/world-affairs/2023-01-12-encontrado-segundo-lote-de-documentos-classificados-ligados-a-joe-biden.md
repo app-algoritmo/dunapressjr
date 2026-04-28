@@ -1,11 +1,12 @@
 ---
-title: "Encontrado segundo lote de documentos classificados ligados a Joe Biden"
+title: Encontrado segundo lote de documentos classificados ligados a Joe Biden
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Depois do escândalo da descoberta de um primeiro grupo de documentos classificados ligados a Joe Biden quando era vice-presidente de Barack Obama, acrescenta-se agora o facto de assistentes do atual presidente democrata terem encontrado outro lote de ficheiros em circunstâncias semelhantes. Segundo informações da [*NBC News*](https://www.nbcnews.com/politics/white-house/biden-aides-find-second-batch-classified-documents-new-location-rcna65371) , aconteceu em um local separado do escritório —em Washington— que ele usou depois de deixar o governo Obama.
 

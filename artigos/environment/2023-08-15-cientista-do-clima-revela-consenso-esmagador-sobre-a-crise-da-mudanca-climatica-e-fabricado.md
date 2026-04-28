@@ -1,11 +1,13 @@
 ---
-title: "Cientista do clima revela: 'Consenso esmagador' sobre a crise da mudança climática é 'fabricado'"
+title: 'Cientista do clima revela: ''Consenso esmagador'' sobre a crise da mudança
+  climática é ''fabricado'''
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Dizem-nos que a mudança climática é uma crise e que existe um "consenso científico esmagador".
 

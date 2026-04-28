@@ -1,12 +1,13 @@
 ---
-title: "Com 42 novas agências em 2024, Sicredi chega a duas mil cidades do país"
+title: Com 42 novas agências em 2024, Sicredi chega a duas mil cidades do país
 date: 2024-03-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - Finances
+- Features
+- Finances
 ---
+
 
 ## Instituição ultrapassou o marco de 2,7 mil agências, com mais de 890 nos estados do Paraná, São Paulo e Rio de Janeiro; projeção é de mais de 190 inaugurações ainda em 2024 em todo o Brasil.
 

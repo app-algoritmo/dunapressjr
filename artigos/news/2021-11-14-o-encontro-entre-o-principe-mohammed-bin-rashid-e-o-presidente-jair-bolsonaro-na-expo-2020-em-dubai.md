@@ -1,11 +1,13 @@
 ---
-title: "O encontro entre o Príncipe Mohammed bin Rashid e o Presidente Jair Bolsonaro na Expo 2020 em Dubai"
+title: O encontro entre o Príncipe Mohammed bin Rashid e o Presidente Jair Bolsonaro
+  na Expo 2020 em Dubai
 date: 2021-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 DUBAI, 13 de novembro de 2021 (WAM) - [Sua Alteza Sheikh Mohammed bin Rashid Al Maktoum](https://www.wam.ae/en/category/t2/HH_Sheikh_Mohammed_bin_Rashid_Al_Maktoum) , Vice-Presidente e Primeiro Ministro dos Emirados Árabes Unidos e Governante de Dubai, reuniu-se hoje com o Presidente do Brasil [Jair Bolsonaro](https://pt.wikipedia.org/wiki/Jair_Bolsonaro) na Expo 2020.
 

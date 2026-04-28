@@ -1,11 +1,12 @@
 ---
-title: "Governo cria Perfil do Cidadão Brasileiro Estudante"
+title: Governo cria Perfil do Cidadão Brasileiro Estudante
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal criou a solução de[ Perfil do Estudante do Cidadão Brasileiro Estudante](https://www.gov.br/pt-br/perfil_usuario/estudante), local em que os estudantes da educação básica e superior podem obter informações e serviços por meio da plataforma GOV.BR . Esse perfil concentra diversas informações e serviços voltados para o público estudantil, tornando mais fácil para o usuário navegar na plataforma e encontrar o que deseja.
 

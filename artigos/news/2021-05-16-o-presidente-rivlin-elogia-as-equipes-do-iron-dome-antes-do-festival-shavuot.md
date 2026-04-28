@@ -1,11 +1,12 @@
 ---
-title: "O presidente Rivlin elogia as equipes do Iron Dome antes do festival Shavuot"
+title: O presidente Rivlin elogia as equipes do Iron Dome antes do festival Shavuot
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Rivlin falou na tarde de domingo na rede de comunicações das FDI, falando ao centro de comando do Estado-Maior General das FDI e transmitindo os desejos do povo israelense a todos os soldados das FDI que montam guarda em terra, mar e ar.
 

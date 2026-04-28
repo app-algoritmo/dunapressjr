@@ -1,11 +1,12 @@
 ---
-title: "Receita recebeu mais de 36 milhões de declarações do Imposto de Renda"
+title: Receita recebeu mais de 36 milhões de declarações do Imposto de Renda
 date: 2022-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A partir desta quarta-feira (1°), quem não entregou documento no prazo pagará multa.
 

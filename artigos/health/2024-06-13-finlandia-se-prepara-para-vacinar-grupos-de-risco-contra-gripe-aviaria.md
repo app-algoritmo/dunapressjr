@@ -1,11 +1,12 @@
 ---
-title: "Finlândia Se Prepara para Vacinar Grupos de Risco Contra Gripe Aviária"
+title: Finlândia Se Prepara para Vacinar Grupos de Risco Contra Gripe Aviária
 date: 2024-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A Finlândia está se preparando para fornecer vacinas às pessoas em risco de contrair uma estirpe de gripe aviária que está se espalhando entre o gado e os animais selvagens. De acordo com autoridades de saúde finlandesas, a Finlândia poderá ser o primeiro país a tomar tal medida, à medida que crescem as preocupações sobre a ameaça que o vírus representa para os seres humanos.
 

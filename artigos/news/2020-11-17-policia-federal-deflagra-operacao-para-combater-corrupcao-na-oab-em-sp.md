@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra operação para combater corrupção na OAB em SP"
+title: Polícia Federal deflagra operação para combater corrupção na OAB em SP
 date: 2020-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram expedidos mandados de busca e apreensão em SP e Guarulhos.
 

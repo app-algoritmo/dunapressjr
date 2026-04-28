@@ -1,11 +1,12 @@
 ---
-title: "Raisi diz que ataques dos EUA ao Iêmen revelaram sua natureza agressiva"
+title: Raisi diz que ataques dos EUA ao Iêmen revelaram sua natureza agressiva
 date: 2024-01-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Irã, Ebrahim Raisi, condenou os ataques aéreos dos Estados Unidos ao Iêmen, dizendo que a ação de Washington revelou a sua verdadeira natureza, que é agressiva e contrária aos direitos humanos.
 

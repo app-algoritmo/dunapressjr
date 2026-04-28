@@ -1,11 +1,12 @@
 ---
-title: "Foicebook (Facebook) suspende contas vinculada a Jair Bolsonaro"
+title: Foicebook (Facebook) suspende contas vinculada a Jair Bolsonaro
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Facebook suspendeu na quarta-feira uma rede de contas de mídia social que, segundo ele, foram usadas para espalhar mensagens políticas divergentes online por funcionários do presidente brasileiro Jair Bolsonaro e dois de seus filhos.
 

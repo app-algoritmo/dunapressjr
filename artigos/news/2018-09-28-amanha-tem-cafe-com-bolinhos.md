@@ -1,11 +1,12 @@
 ---
-title: "Amanhã tem Café com Bolinhos!"
+title: Amanhã tem Café com Bolinhos!
 date: 2018-09-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Mais uma edição da Reunião café com Bolinhos. Amanhã 29 de setembro na Cafeteria Imperial, no Rio de Janeiro.
 

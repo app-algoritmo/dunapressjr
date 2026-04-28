@@ -1,11 +1,12 @@
 ---
-title: "MEC lança o diploma digital"
+title: MEC lança o diploma digital
 date: 2020-05-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O MEC lançou o diploma digital que será disponibilizado até o ano de 2021. Tudo para evitar fraudes, prover transparências entre alunos e instituições e junto ao próprio MEC. 
 

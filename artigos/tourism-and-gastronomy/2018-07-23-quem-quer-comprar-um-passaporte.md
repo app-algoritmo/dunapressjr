@@ -1,11 +1,12 @@
 ---
-title: "Quem quer comprar um passaporte?"
+title: Quem quer comprar um passaporte?
 date: 2018-07-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O que leva uma pessoa a comprar uma cidadania? O motivo parece ser segurança e tranquilidade garantidas, afinal, nunca se sabe quando o país de origem poderia entrar em caos em virtude de mudanças no regime político, colapso econômico ou conflitos armados. Em muitos países, a insegurança pública e econômica já é, lamentavelmente, uma realidade. Ter outro ou outros passaportes pode significar a salvaguarda de uma família e de seus bens pessoais também.
 

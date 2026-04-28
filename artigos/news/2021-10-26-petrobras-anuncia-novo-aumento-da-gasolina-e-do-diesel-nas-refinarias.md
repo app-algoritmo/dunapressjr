@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia novo aumento da gasolina e do diesel nas refinarias"
+title: Petrobras anuncia novo aumento da gasolina e do diesel nas refinarias
 date: 2021-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reajuste passa a valer nesta terça-feira (26).
 

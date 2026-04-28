@@ -1,11 +1,13 @@
 ---
-title: "Camarões x Brasil: onde assistir ao vivo, horário e escalações para o jogo da Seleção na Copa"
+title: 'Camarões x Brasil: onde assistir ao vivo, horário e escalações para o jogo
+  da Seleção na Copa'
 date: 2022-12-01
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Sports
+- Sports
 ---
+
 
 Acompanhe a partir das 15h00, a transmissão do jogaço entre [**Camarões x Brasil**](https://www.nitronewsbrasil.com.br/jogos-ao-vivo/2022/11/30/brasil-x-camaroes-ao-vivo-com-imagens-online/) em busca de mais um titulo na fase de grupos da Copa do Mundo com tranmissão do canal SPORTV e TV Globo
 

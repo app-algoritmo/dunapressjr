@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa sofre perdas mesmo após deflação, enquanto mercado aguarda corte de juros"
+title: Ibovespa sofre perdas mesmo após deflação, enquanto mercado aguarda corte de
+  juros
 date: 2023-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta na inflação de serviços gera preocupação, mas apostas indicam corte menor de juros em agosto.
 

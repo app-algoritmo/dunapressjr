@@ -1,11 +1,12 @@
 ---
-title: "Engenheiro desenvolve nova tecnologia para drones para diversas finalidades"
+title: Engenheiro desenvolve nova tecnologia para drones para diversas finalidades
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Alysson Nascimento de Lucena é mestre em Engenharia Mecânica e doutor em Engenharia Elétrica e de Computação, ambas as etapas cumpridas com bolsas da CAPES na Universidade Federal do Rio Grande do Norte (UFRN). O pesquisador desenvolveu um Veículo Aéreo Não Tripulado (Vant) que pode se comportar como um *drone* ou como um avião e é capaz de decolar verticalmente, sem precisar de pista. Essas características dão a ele maior tempo de voo do que um *drone* convencional. O cientista espera que sua invenção beneficie setores como agropecuária e segurança.
 

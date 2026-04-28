@@ -1,11 +1,13 @@
 ---
-title: "Relatórios da ONU e do Pentágono alertam para persistente ameaça do Estado Islâmico na Síria e no Iraque"
+title: Relatórios da ONU e do Pentágono alertam para persistente ameaça do Estado
+  Islâmico na Síria e no Iraque
 date: 2024-02-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Apesar da degradação militar do Estado Islâmico (EI) na Síria e no Iraque, onde há uma década estabeleceu seu "califado", relatórios do comité da ONU e do inspector-geral do Pentágono ressaltam que o grupo ainda representa uma ameaça significativa e adaptativa, exigindo vigilância contínua.
 

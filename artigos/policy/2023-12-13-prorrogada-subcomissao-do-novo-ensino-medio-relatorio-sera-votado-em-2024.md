@@ -1,11 +1,12 @@
 ---
-title: "Prorrogada Subcomissão do Novo Ensino Médio; relatório será votado em 2024"
+title: Prorrogada Subcomissão do Novo Ensino Médio; relatório será votado em 2024
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os membros da Subcomissão Temporária para Debater e Avaliar o Ensino Médio no Brasil (Ceensino) decidiram prorrogar os trabalhos do colegiado até 31 de setembro de 2024. Estava prevista para a reunião desta terça-feira (12) a apresentação e votação do relatório final, de autoria da senadora Professora Dorinha Seabra (União-TO). 
 

@@ -1,11 +1,12 @@
 ---
-title: "Força Aérea Brasileira transporta material em apoio à Operação COVID-19"
+title: Força Aérea Brasileira transporta material em apoio à Operação COVID-19
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) participou de mais uma ação da Operação COVID-19 nesta sexta-feira (03). Uma aeronave C-130 Hércules do Primeiro Esquadrão do Primeiro Grupo de Transporte (1º/1º GT) – Esquadrão Gordo – realizou Transporte Aéreo Logístico de material de saúde e outros itens, da Ala 11 – Base Aérea do Galeão, no Rio de Janeiro, até a Ala 8 – Base Aérea de Manaus, no Amazonas. A missão interministerial foi coordenada pelo Comando de Operações Aeroespaciais (COMAE) junto ao Centro de Operações Conjuntas do Ministério da Defesa, em apoio ao Ministério da Saúde.
 

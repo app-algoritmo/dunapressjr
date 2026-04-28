@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal bate recorde de apreensão de drogas"
+title: Polícia Federal bate recorde de apreensão de drogas
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - Na semana em que a Polícia Federal, em conjunto com a PRF, realizou a maior apreensão de drogas da história do Brasil - 28 toneladas de maconha apreendidas em Tacuru/MS -, policiais federais ainda apreenderam mais de duas toneladas de entorpecentes em ações pelo país.
 

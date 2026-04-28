@@ -1,11 +1,12 @@
 ---
-title: "Tráfico de seres humanos aumentou durante pandemia, alerta Washington"
+title: Tráfico de seres humanos aumentou durante pandemia, alerta Washington
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Os traficantes não estavam confinados", mas "encontraram maneiras de inovar e até tirar proveito do caos", disse o funcionário americano John Richmond.
 

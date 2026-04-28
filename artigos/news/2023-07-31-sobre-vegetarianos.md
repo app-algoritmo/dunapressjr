@@ -1,11 +1,12 @@
 ---
-title: "Sobre vegetarianos"
+title: Sobre vegetarianos
 date: 2023-07-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O jornalista e poeta alemão Edgar Kupfer-Koberwitz, 1906 - 1991, que foi preso no campo de concentração de Dachau, disse de si mesmo:
 

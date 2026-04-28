@@ -1,11 +1,12 @@
 ---
-title: "Big Festival: mais de 200 jogos serão exibidos no evento em 2022"
+title: 'Big Festival: mais de 200 jogos serão exibidos no evento em 2022'
 date: 2022-06-13
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Events
+- Events
 ---
+
 
 O segundo semestre de 2022 será movimentado para a indústria dos jogos. Do dia 7 a 10 de julho, ocorre o maior evento de games independentes da América Latina, o Big Festival. Com participação de grandes marcas como Playstation, Xbox, Google e Tencent, a edição de 2022 acontece no São Paulo Expo e promete trazer muitas novidades para o setor. 
 

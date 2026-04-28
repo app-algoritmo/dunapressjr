@@ -1,11 +1,12 @@
 ---
-title: "Custo da construção sobe 1,07% em fevereiro"
+title: Custo da construção sobe 1,07% em fevereiro
 date: 2021-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula taxas de 2% no ano e de 10,18% em 12 meses.
 

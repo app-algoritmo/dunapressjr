@@ -1,11 +1,12 @@
 ---
-title: "Frio extremo do inverno americano pode acontecer no Brasil?"
+title: Frio extremo do inverno americano pode acontecer no Brasil?
 date: 2023-02-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Com temperaturas abaixo de 22 graus negativos, os EUA vêm tendo um dos invernos mais rigorosos dos últimos anos. Brasil pode passar por isso? Descubra.
 

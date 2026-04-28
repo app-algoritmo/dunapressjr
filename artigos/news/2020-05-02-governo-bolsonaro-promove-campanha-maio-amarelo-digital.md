@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro promove Campanha Maio Amarelo Digital"
+title: Governo Bolsonaro promove Campanha Maio Amarelo Digital
 date: 2020-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A ação de conscientização sobre responsabilidade no trânsito tem como público-alvo profissionais que prestam serviços essenciais para o Brasil durante a pandemia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Relator setorial do Meio Ambiente pede mais recursos para unidades de conservação em 2023"
+title: Relator setorial do Meio Ambiente pede mais recursos para unidades de conservação
+  em 2023
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o objetivo de proteger os biomas nacionais, o senador Fabiano Contarato (PT-ES), relator setorial da área de Meio Ambiente do Orçamento de 2023 ([PLN 32/22](https://www.camara.leg.br/noticias/906580-orcamento-de-2023-traz-auxilio-brasil-de-r-405)), pediu em seu relatório que o relator-geral do Orçamento, senador Marcelo Castro (MDB-PI), destine mais R$ 81 milhões para o setor, a maior parte para a criação e manutenção de unidades de conservação.
 

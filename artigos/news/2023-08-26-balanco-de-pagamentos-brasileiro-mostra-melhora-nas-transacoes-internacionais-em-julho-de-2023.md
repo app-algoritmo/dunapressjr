@@ -1,11 +1,13 @@
 ---
-title: "Balanço de pagamentos brasileiro mostra melhora nas transações internacionais em julho de 2023"
+title: Balanço de pagamentos brasileiro mostra melhora nas transações internacionais
+  em julho de 2023
 date: 2023-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit comercial de bens e revisões estatísticas impulsionam a economia nacional no cenário global.
 

@@ -1,11 +1,13 @@
 ---
-title: "Assista ao vivo à conferência sobre como evitar racismo e discriminação devido à etnia e religião"
+title: Assista ao vivo à conferência sobre como evitar racismo e discriminação devido
+  à etnia e religião
 date: 2019-04-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O governo do Reino da Noruega está trabalhando em um plano de ação contra o racismo e a discriminação com base na etnia e na religião. Neste contexto, o Ministério da Infância, Juventude e Família organizou uma conferência em que serão apresentadas boas medidas para prevenir o racismo e a discriminação em diversos setores da sociedade e como se pode alcançar uma sociedade aberta e inclusiva com igualdade de oportunidades para todos. O grande destaque será sobre o papel da Educação e da Cultura no processo. O evento contará com a participação da Secretária de Estado do Ministério da Cultura, Frida Blomgren, e de Mikkel Berg-Nordli que falará pelos povos indígenas da Noruega. 
 

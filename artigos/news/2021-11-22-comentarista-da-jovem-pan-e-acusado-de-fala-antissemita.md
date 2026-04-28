@@ -1,11 +1,12 @@
 ---
-title: "Comentarista da Jovem Pan é acusado de  fala antissemita"
+title: Comentarista da Jovem Pan é acusado de  fala antissemita
 date: 2021-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante uma discussão com Amanda Klein, durante o Jornal da Manhã da última terça-feira (16)  José Carlos Bernardi sugeriu que a morte de judeus poderia fomentar a retomada econômica do Brasil. "É só assaltar todos os judeus que a gente consegue chegar lá. Se a gente matar um monte de judeus e se apropriar do poder econômico deles, o Brasil enriquece. Foi o que aconteceu com a Alemanha pós-guerra", disse o jornalista na ocasião.
 

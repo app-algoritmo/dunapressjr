@@ -1,11 +1,12 @@
 ---
-title: "Brasil de luto pela morte de 3 bebês, 1 professora e uma agente educacional"
+title: Brasil de luto pela morte de 3 bebês, 1 professora e uma agente educacional
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O atentado foi cometido por Fabiano Kipper Mai de 18 anos em uma escola municipal de educação infantil na manhã desta terça-feira (4.5.21), onde assassinou três crianças, uma professora e uma funcionária, na cidade de Saudades no estado de de Santa Catarina segundo a Rádio Ibirubá.
 

@@ -1,11 +1,12 @@
 ---
-title: "A parábola do filho, o lenço e a árvore"
+title: A parábola do filho, o lenço e a árvore
 date: 2021-08-07
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **A SOCIEDADE PODE SER MELHOR A PARTIR DE NÓS MESMOS?**
 

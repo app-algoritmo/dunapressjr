@@ -1,11 +1,13 @@
 ---
-title: "Os esquerdistas agora estão chamando os muçulmanos de “fanáticos” e “supremacistas brancos” por proteger seus filhos da agenda LGBT"
+title: Os esquerdistas agora estão chamando os muçulmanos de “fanáticos” e “supremacistas
+  brancos” por proteger seus filhos da agenda LGBT
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A ala esquerda do pássaro político americano está [tendo problemas](https://twitter.com/CitizenFreePres/status/1666637688034697219) para continuar a culpar apenas os “supremacistas brancos” por criar um tumulto sobre o aliciamento LGBT e a pedofilia nas escolas públicas, agora que muitas famílias muçulmanas também estão expressando sua oposição a tal sujeira sendo despejada sobre seus filhos na sala de aula.
 

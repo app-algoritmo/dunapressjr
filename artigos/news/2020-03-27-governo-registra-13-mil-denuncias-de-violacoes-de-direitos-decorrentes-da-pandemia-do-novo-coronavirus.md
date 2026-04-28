@@ -1,11 +1,13 @@
 ---
-title: "Governo registra 1,3 mil denúncias de violações de direitos decorrentes da pandemia do novo coronavírus"
+title: Governo registra 1,3 mil denúncias de violações de direitos decorrentes da
+  pandemia do novo coronavírus
 date: 2020-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) está recebendo denúncias de violações aos direitos humanos decorrentes do novo coronavírus (Covid-19). Entre os dias 14 e 24 de março, foram registrados 1.133 relatos no Disque 100 e no Ligue 180 antes mesmo da divulgação da abertura desses canais de atendimento para notificações relacionadas à pandemia. 
 

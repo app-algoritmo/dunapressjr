@@ -1,11 +1,12 @@
 ---
-title: "A Pandemia do COVID-19 e as Práticas Questionáveis"
+title: A Pandemia do COVID-19 e as Práticas Questionáveis
 date: 2023-09-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A pandemia do COVID-19 trouxe consigo não apenas uma crise de saúde global, mas também uma série de questões éticas e políticas profundamente preocupantes. Durante esse período de incerteza, a desqualificação das opiniões médicas e a influência da indústria farmacêutica foram temas que levantaram sérias preocupações.
 

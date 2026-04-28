@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia ferramenta para quem teve auxílio emergencial negado"
+title: Governo anuncia ferramenta para quem teve auxílio emergencial negado
 date: 2020-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Quem teve o auxílio negado poderá contestar por telefone, pelo site ou nas agências dos Correios.
 

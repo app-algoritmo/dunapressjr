@@ -1,11 +1,12 @@
 ---
-title: "Homens representam 80% das mortes em acidentes de trânsito"
+title: Homens representam 80% das mortes em acidentes de trânsito
 date: 2021-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Oito em cada dez pessoas que morrem em acidentes de trânsito no Brasil são homens. O trânsito brasileiro é o quarto mais violento do continente americano e a principal causa de mortes de jovens entre 20 e 30 anos, segundo  pesquisa divulgada pela Organização Mundial da Saúde (OMS). Em 2020, o país registrou a morte de 27,8 mil pessoas no trânsito, o que significa que, a cada dia, mais de 75 pessoas perderam a vida nas ruas e estradas. Os números são preocupantes e o que chama a atenção é que 80% das vítimas fatais são do sexo masculino. Os dados são da Associação Brasileira de Medicina de Tráfego (Abramet) e do DataSUS/DPVAT.
 

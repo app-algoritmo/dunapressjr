@@ -1,11 +1,13 @@
 ---
-title: "PF prende suspeito de praticar ataques contra agentes de segurança pública no RN"
+title: PF prende suspeito de praticar ataques contra agentes de segurança pública
+  no RN
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mossoró/RN - A Força-Tarefa de Combate ao Crime Organizado, coordenada pela Polícia Federal, em ação conjunta com a Delegacia Especializada em Narcóticos – DENARC/Mossoró/RN, e em colaboração com a Secretaria de Operações Integradas do Ministério da Justiça e Segurança Pública (SEOPI/MJSP) e com o Exército Brasileiro, deflagrou nesta quarta-feira, 24/6, a Operação Vértice, com o objetivo de realizar a prisão de uma liderança de facção criminosa na cidade de Mossoró/RN, vinculada à organização criminosa originada no Estado de São Paulo.
 

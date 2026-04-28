@@ -1,11 +1,13 @@
 ---
-title: "Apresentações da Orquestra Sinfônica Municipal de São Paulo estão disponíveis para acesso via internet"
+title: Apresentações da Orquestra Sinfônica Municipal de São Paulo estão disponíveis
+  para acesso via internet
 date: 2020-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Todo artista tem de ir aonde o povo está”. O trecho da música 'Nos Bailes da Vida', escrita em1981, parece mais atual do que nunca. Com teatros e centros culturais fechados por causa da pandemia de Covid-19, várias instituições do gênero “estão indo” aonde as pessoas estão: a casa delas. Theatro Municipal de SP, Sala São Paulo, Cineteatro São Luiz, Escola do Teatro Bolshoi do Brasil, entre outras, oferecem gratuitamente em seus canais nas redes socais vários tipos de espetáculos. Portanto, arrume a poltrona e se prepare: está na hora do show!
 

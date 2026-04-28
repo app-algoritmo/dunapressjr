@@ -1,11 +1,12 @@
 ---
-title: "IBGE: indústria cresce em dez dos 15 locais pesquisados em novembro"
+title: 'IBGE: indústria cresce em dez dos 15 locais pesquisados em novembro'
 date: 2021-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A média nacional ficou em 1,2% de crescimento.
 

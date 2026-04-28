@@ -1,11 +1,12 @@
 ---
-title: "A freira 2 | Crítica"
+title: A freira 2 | Crítica
 date: 2023-11-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Sequência do Invocação do Mal, a Freira 2 prova que essa continua sendo uma das melhores franquias de terror dos últimos anos.
 

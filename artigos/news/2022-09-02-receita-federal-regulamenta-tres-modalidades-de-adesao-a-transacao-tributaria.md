@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal regulamenta três modalidades de adesão à transação tributária"
+title: Receita Federal regulamenta três modalidades de adesão à transação tributária
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### As adesões devem ser formalizadas até 30 de novembro, mediante abertura de processo digital no Portal e-CAC.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pandemias na História: Gregos e sua relação com as doenças"
+title: 'Pandemias na História: Gregos e sua relação com as doenças'
 date: 2020-04-06
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 **Atenas em Grande Morticínio e Guerras******
 

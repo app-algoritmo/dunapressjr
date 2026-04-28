@@ -1,12 +1,14 @@
 ---
-title: "Bomba: Financial Times revela trama que levou ingerência dos EUA nas eleições brasileiras em 2022"
+title: 'Bomba: Financial Times revela trama que levou ingerência dos EUA nas eleições
+  brasileiras em 2022'
 date: 2024-02-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 A interferência ou ingerência de um país estrangeiro nas eleições de outro país é uma questão extremamente grave que compromete a soberania e a integridade do processo democrático. A revelação de uma trama que envolve a interferência dos Estados Unidos nas eleições de 2022, conforme reportado pelo Financial Times, é alarmante e deve ser tratada com a máxima seriedade.
 

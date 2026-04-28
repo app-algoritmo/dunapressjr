@@ -1,11 +1,12 @@
 ---
-title: "Governo lança cartilha com orientações para sociedade sobre prevenção ao suicídio"
+title: Governo lança cartilha com orientações para sociedade sobre prevenção ao suicídio
 date: 2020-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Documento elaborado pelo Ministério da Mulher, da Família e dos Direitos Humanos é destinado às famílias, educadores, conselhos tutelares, líderes comunitários e religiosos. 
 

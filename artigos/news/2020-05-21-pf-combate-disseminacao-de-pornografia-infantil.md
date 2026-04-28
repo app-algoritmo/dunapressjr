@@ -1,11 +1,12 @@
 ---
-title: "PF combate disseminação de pornografia infantil"
+title: PF combate disseminação de pornografia infantil
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta quarta-feira (20/5) a Operação NILO de repressão ao armazenamento e divulgação de imagens e vídeos de exploração sexual de crianças e adolescentes na internet.
 O mandado de busca e apreensão, expedido pela 7ª Vara Federal da Secção Judiciária de Rondônia, foi cumprido em uma residência no bairro Embratel, zona norte desta capital.

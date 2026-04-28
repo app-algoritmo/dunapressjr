@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apreende 540 quilos de cocaína em Fortaleza/CE"
+title: Polícia Federal apreende 540 quilos de cocaína em Fortaleza/CE
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Fortaleza/CE** – A Polícia Federal apreendeu, na noite de ontem (11/05), 540 quilos de cocaína e prendeu quatro homens, na capital cearense.
 

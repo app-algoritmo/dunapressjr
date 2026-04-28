@@ -1,11 +1,13 @@
 ---
-title: "Museus desenvolvem atividades para crianças e adultos como palestras e exibição de filmes"
+title: Museus desenvolvem atividades para crianças e adultos como palestras e exibição
+  de filmes
 date: 2020-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Obras vistas de perto, bem de pertinho, mas, dentro do ambiente virtual. Com o distanciamento social, por causa da Covid-19, e com algumas instituições fechadas, a 14ª Primavera dos Museus, que acontece até o dia 27 de setembro, teve de ser reinventada. Neste ano, os corredores percorridos e as obras podem ser visitadas no mundo da cultura digital, por meio de um click.
 

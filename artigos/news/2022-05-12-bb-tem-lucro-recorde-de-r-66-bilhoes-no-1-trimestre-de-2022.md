@@ -1,11 +1,12 @@
 ---
-title: "BB tem lucro recorde de R$ 6,6 bilhões no 1º trimestre de 2022"
+title: BB tem lucro recorde de R$ 6,6 bilhões no 1º trimestre de 2022
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado do período é explicado pelo crescimento do crédito.
 

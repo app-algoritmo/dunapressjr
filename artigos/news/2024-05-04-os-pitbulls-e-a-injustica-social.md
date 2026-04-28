@@ -1,11 +1,12 @@
 ---
-title: "Os pitbulls e a injustiça social"
+title: Os pitbulls e a injustiça social
 date: 2024-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Injustiçado pela fama de ser agressivo e pouco pacífico, o American Pitbull Terrier, mais conhecido no Brasil como apenas “Pitbull”, é uma raça completamente** amorosa e apegada**aos seus pais humanos. 
 

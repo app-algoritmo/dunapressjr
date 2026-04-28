@@ -1,11 +1,13 @@
 ---
-title: "Brasileiras e japonesas estão na semifinal do ArcelorMittal Wahine Bodyboarding Pro na categoria Profissional"
+title: Brasileiras e japonesas estão na semifinal do ArcelorMittal Wahine Bodyboarding
+  Pro na categoria Profissional
 date: 2024-04-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Nesta quinta-feira (25) foram disputadas as quartas de final na Praia de Jacaraípe, em Serra (ES). As capixabas Luna Hardman e Maylla Venturin garantiram vaga e vão se enfrentar em busca de um lugar na final. A outra bateria será entre Yuka Nishimura e Sari Ohhara.
 

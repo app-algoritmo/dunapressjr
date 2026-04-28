@@ -1,11 +1,12 @@
 ---
-title: "Seu sistema imunológico pode ser reprogramado para matar o câncer?"
+title: Seu sistema imunológico pode ser reprogramado para matar o câncer?
 date: 2021-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pesquisadores israelenses descobrem uma nova maneira de combater o câncer: reprogramando o sistema imunológico para combater o câncer. E tudo começa com as bactérias intestinais.
 

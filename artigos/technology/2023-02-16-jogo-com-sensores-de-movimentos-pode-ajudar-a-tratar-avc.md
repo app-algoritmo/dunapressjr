@@ -1,11 +1,12 @@
 ---
-title: "Jogo com sensores de movimentos pode ajudar a tratar AVC"
+title: Jogo com sensores de movimentos pode ajudar a tratar AVC
 date: 2023-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Gabriel Cyrino é bacharel em Sistemas de Informação pelo Centro Universitário de Patos de Minas (Unipam). Pela Universidade Federal de Uberlândia (UFU), tornou-se mestre e cursa doutorado em Engenharia Elétrica, sempre com bolsas da CAPES. Na primeira etapa, desenvolveu um jogo para promover uma reabilitação lúdica para pacientes que sofreram acidente vascular cerebral (AVC). Agora, ele se dedica a aperfeiçoar o *game*.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nas entranhas da Corrupção"
+title: Nas entranhas da Corrupção
 date: 2023-11-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Editorial
+- Editorial
 ---
+
 
 Devemos questionar a validade de um sistema "A República" que nos oferece entretenimento como uma forma de suborno social, impedindo que nos mobilizemos em prol de uma mudança significativa.
 

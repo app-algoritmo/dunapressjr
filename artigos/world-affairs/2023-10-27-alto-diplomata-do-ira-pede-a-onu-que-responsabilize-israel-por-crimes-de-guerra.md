@@ -1,11 +1,12 @@
 ---
-title: "Alto diplomata do Irã pede à ONU que responsabilize Israel por crimes de guerra"
+title: Alto diplomata do Irã pede à ONU que responsabilize Israel por crimes de guerra
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Hossein Amir Abdollahian sublinhou que a retórica das autoridades israelenses, juntamente com os contínuos ataques de Israel na Faixa de Gaza, indicam que esta é "uma campanha pelo genocídio do povo palestiniano".
 

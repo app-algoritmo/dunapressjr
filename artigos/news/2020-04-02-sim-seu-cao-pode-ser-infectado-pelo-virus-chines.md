@@ -1,11 +1,12 @@
 ---
-title: "Sim, seu cão pode ser infectado pelo vírus chinês"
+title: Sim, seu cão pode ser infectado pelo vírus chinês
 date: 2020-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dois cães e um gato foram infectados pelo coronavírus. Mas, animais de estimação dificilmente podem nos infectar.
 

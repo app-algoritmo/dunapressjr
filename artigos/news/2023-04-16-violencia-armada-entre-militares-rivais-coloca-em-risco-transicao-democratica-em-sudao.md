@@ -1,11 +1,13 @@
 ---
-title: "Violência armada entre militares rivais coloca em risco transição democrática em Sudão"
+title: Violência armada entre militares rivais coloca em risco transição democrática
+  em Sudão
 date: 2023-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Confrontos entre as Fuerzas de Apoyo Rápido (FAR) e o Exército sudanês deixam pelo menos 56 civis mortos e centenas de feridos
 

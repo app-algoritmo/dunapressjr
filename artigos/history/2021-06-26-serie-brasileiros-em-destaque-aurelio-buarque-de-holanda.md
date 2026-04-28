@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Aurélio Buarque de Holanda"
+title: 'Série Brasileiros em Destaque: Aurélio Buarque de Holanda'
 date: 2021-06-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Especialidade: crítico, ensaísta, tradutor, filólogo e lexicógrafo.
 

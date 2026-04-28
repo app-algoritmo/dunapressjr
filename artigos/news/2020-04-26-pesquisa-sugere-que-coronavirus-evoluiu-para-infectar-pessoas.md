@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa sugere que coronavírus evoluiu para infectar pessoas"
+title: Pesquisa sugere que coronavírus evoluiu para infectar pessoas
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Trabalho da UFRGS propõe que o vírus causador da COVID-19 sofreu modificações que aumentam seu poder de infecção em humanos.
 

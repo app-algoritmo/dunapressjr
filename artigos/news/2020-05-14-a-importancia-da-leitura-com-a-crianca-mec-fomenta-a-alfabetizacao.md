@@ -1,11 +1,12 @@
 ---
-title: "A importância da leitura com a criança - MEC fomenta a alfabetização"
+title: A importância da leitura com a criança - MEC fomenta a alfabetização
 date: 2020-05-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O governo brasileiro dispõe de vários vídeos educativos, que remetem a necessidade de interação entre pais e filhos, leitura e família, ou seja, pais lendo com os filhos, para criar e incentivar o hábito da leitura e propriamente a alfabetização desde a mais tenra idade, o que gera frutos no futuro acadêmico da criança.
 

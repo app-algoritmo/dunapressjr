@@ -1,11 +1,12 @@
 ---
-title: "BID estimula inclusão financeira diante de desafio migratório na A. Latina"
+title: BID estimula inclusão financeira diante de desafio migratório na A. Latina
 date: 2019-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O BID Invest, braço para o setor privado do Banco
 Interamericano de Desenvolvimento (BID), se aliou a várias instituições privadas

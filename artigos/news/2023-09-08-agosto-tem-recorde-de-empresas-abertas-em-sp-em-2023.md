@@ -1,11 +1,12 @@
 ---
-title: "Agosto tem recorde de empresas abertas em SP em 2023"
+title: Agosto tem recorde de empresas abertas em SP em 2023
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Registros da Jucesp mostram que 30,6 mil novos empreendimentos foram criados mês passado; Governo de SP prioriza geração de emprego e renda.
 

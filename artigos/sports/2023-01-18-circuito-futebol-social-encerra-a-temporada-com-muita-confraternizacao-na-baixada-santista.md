@@ -1,11 +1,13 @@
 ---
-title: "Circuito Futebol Social encerra a temporada com muita confraternização na Baixada Santista"
+title: Circuito Futebol Social encerra a temporada com muita confraternização na Baixada
+  Santista
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Foram 17 jogos, 109 gols marcados, com disputa, muita confraternização e diversão entre 13 times com jovens carentes de projetos sociais da região. A Etapa Baixada Santista encerrou neste fim de semana a temporada 2022 do Circuito Futebol Social. As equipes estiveram reunidas no sábado (14) na areia da Plataforma de Pesca, na cidade de Mongaguá, no litoral paulista. No masculino, o time do Craques da Bola – Jd. Leonor comemorou o título ao derrotar a Associação Chapecoense, por 8 a 4. No Feminino, as campeãs foram as meninas do Unidos do Itaóca, que venceram Craques da Bola por 3 a 1. Todos os finalistas representaram Mongaguá.
 

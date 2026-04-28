@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em queda de 0,48% impulsionado por empresas do setor de minério de ferro"
+title: Ibovespa fecha em queda de 0,48% impulsionado por empresas do setor de minério
+  de ferro
 date: 2023-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ações da Alpargatas têm forte alta, enquanto Cielo e MRV registram baixas no mercado acionário brasileiro.
 

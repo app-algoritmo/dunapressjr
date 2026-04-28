@@ -1,11 +1,13 @@
 ---
-title: "Lote residual de restituição do IRPF de outubro de 2023 ficará disponível para consulta nesta terça-"
+title: Lote residual de restituição do IRPF de outubro de 2023 ficará disponível para
+  consulta nesta terça-
 date: 2023-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Receita Federal divulga informações sobre o pagamento e consulta das restituições.
 

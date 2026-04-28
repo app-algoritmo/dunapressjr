@@ -1,11 +1,12 @@
 ---
-title: "Brasil e China reforçam cooperação, Ernesto Araújo recebe Wang Yi"
+title: Brasil e China reforçam cooperação, Ernesto Araújo recebe Wang Yi
 date: 2019-07-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 NA III Reunião do Diálogo Estratégico Global (DEG) Brasil-China, copresidida pelo Ministro de Estado das Relações Exteriores, Embaixador Ernesto Araújo, e pelo Conselheiro de Estado e Ministro das Relações Exteriores da China, Wang Yi. O referido Diálogo foi estabelecido em 2012, para promover a evolução da agenda bilateral, assim como para intercambiar opiniões sobre assuntos relevantes do contexto internacional.
 

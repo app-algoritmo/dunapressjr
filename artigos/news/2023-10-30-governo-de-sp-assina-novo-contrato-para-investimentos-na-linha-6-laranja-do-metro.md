@@ -1,11 +1,13 @@
 ---
-title: "Governo de SP assina novo contrato para investimentos na Linha 6-Laranja do Metrô"
+title: Governo de SP assina novo contrato para investimentos na Linha 6-Laranja do
+  Metrô
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Linha 6-Laranja terá 15 estações ao longo de 15,3 km de extensão e deverá transportar uma média de 630 mil passageiros por dia.
 

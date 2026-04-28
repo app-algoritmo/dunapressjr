@@ -1,11 +1,12 @@
 ---
-title: "Kremlin: Ocidente tenta desestabilizar a situação em torno de Nagorno-Karabakh"
+title: 'Kremlin: Ocidente tenta desestabilizar a situação em torno de Nagorno-Karabakh'
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## De acordo com o secretário de imprensa do Presidente russo, Dmitry Peskov, isto levou a parte do Azerbaijão a declarar oficialmente que estes países dificilmente podem reivindicar qualquer papel como mediadores, porque assumiram uma posição unilateral.
 

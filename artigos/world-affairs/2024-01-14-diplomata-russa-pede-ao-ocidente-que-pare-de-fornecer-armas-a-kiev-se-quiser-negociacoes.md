@@ -1,11 +1,13 @@
 ---
-title: "Diplomata russa pede ao Ocidente que pare de fornecer armas a Kiev se quiser negociações"
+title: Diplomata russa pede ao Ocidente que pare de fornecer armas a Kiev se quiser
+  negociações
 date: 2024-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Rússia não será atraída para a armadilha de um processo psicodélico, diz a porta-voz do Ministério das Relações Exteriores, Maria Zakharova.
 

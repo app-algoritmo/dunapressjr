@@ -1,11 +1,13 @@
 ---
-title: "Navio-Patrulha “Gurupá” presta socorro a tripulante de veleiro nas proximidades do Espírito Santo"
+title: Navio-Patrulha “Gurupá” presta socorro a tripulante de veleiro nas proximidades
+  do Espírito Santo
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Navio-Patrulha (NPa) “Gurupá”, pertencente ao Comando do Grupamento de
 Patrulha Naval do Sudeste, foi acionado, na manhã do dia 24 de fevereiro, pelo

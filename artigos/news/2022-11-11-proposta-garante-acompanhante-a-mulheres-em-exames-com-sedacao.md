@@ -1,11 +1,12 @@
 ---
-title: "Proposta garante acompanhante a mulheres em exames com sedação"
+title: Proposta garante acompanhante a mulheres em exames com sedação
 date: 2022-11-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2049/22 torna obrigatório o acompanhamento por profissional de saúde do sexo feminino durante exames ou procedimentos que utilizem sedação ou anestesia para induzir a inconsciência de paciente. Eventuais infrações sujeitarão o diretor responsável pela unidade de saúde a penalidades
 

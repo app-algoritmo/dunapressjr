@@ -1,11 +1,12 @@
 ---
-title: "Por que o sigilo em torno dos contratos de vacinas?"
+title: Por que o sigilo em torno dos contratos de vacinas?
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [Os principais governos internacionais assinaram](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7832682/) contratos multibilionários com empresas farmacêuticas para garantir o acesso às vacinas contra a Covid-19.
 

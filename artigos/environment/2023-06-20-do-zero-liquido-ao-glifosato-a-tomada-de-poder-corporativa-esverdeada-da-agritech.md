@@ -1,11 +1,13 @@
 ---
-title: "Do zero líquido ao glifosato: a tomada de poder corporativa esverdeada da Agritech"
+title: 'Do zero líquido ao glifosato: a tomada de poder corporativa esverdeada da
+  Agritech'
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Atualmente, fala-se muito no mainstream sobre uma “recuperação nutricional”. Grandes agronegócios e fundações “filantrópicas” se posicionam como os salvadores da humanidade com seus planos muito elogiados de “alimentar” o mundo com “agricultura de precisão”, agricultura “orientada por dados” e manufatura “sustentável”.
 

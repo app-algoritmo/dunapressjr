@@ -1,11 +1,13 @@
 ---
-title: "Adidos do Exército colaboram na repatriação de centenas de brasileiros que estavam no sudeste da Ásia"
+title: Adidos do Exército colaboram na repatriação de centenas de brasileiros que
+  estavam no sudeste da Ásia
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Jakarta (Indonésia) **– Em virtude da pandemia da COVID-19, o Exército Brasileiro, em âmbito nacional, desenvolveu diversas atividades para cooperar com o nosso país na mitigação dos problemas causados pelo vírus. No campo internacional, as atividades de intercâmbio militar tiveram que ser suspensas ou adiadas temporariamente. No entanto, em coordenação com o Ministério das Relações Exteriores, a repatriação dos brasileiros que ficaram retidos em diversos locais do globo pela inexistência de voos regulares que os trouxessem de volta foi feita em diversos locais, momento em que os adidos militares juntaram-se aos diplomatas e entraram em ação para desencadear esse esforço de cunho humanitário.
 

@@ -1,12 +1,13 @@
 ---
-title: "O estudo revela que existem 30,2 milhões de cães e gatos abandonados no Brasil"
+title: O estudo revela que existem 30,2 milhões de cães e gatos abandonados no Brasil
 date: 2024-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Atenção a todos os amantes dos animais! A entrevista do nosso diretor e **médico-veterinário, **Francis Flosi, sobre o alerta da campanha **Abril Laranja** contra os **maus-tratos** aos **animais** está gerando grande repercussão em todo o Brasil.
 

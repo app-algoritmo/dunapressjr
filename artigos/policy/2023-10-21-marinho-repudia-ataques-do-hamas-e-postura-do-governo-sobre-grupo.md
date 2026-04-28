@@ -1,11 +1,12 @@
 ---
-title: "Marinho repudia ataques do Hamas e postura do governo sobre grupo"
+title: Marinho repudia ataques do Hamas e postura do governo sobre grupo
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na terça-feira (17), o senador Rogério Marinho (PL-RN) condenou os ataques do Hamas contra Israel. O senador criticou a reação do governo brasileiro que não adotou a classificação de “terrorista” ao se referir ao grupo islâmico. Marinho também repudiou a posição do Partido dos Trabalhadores (PT) que, segundo ele, acusou Israel de “genocídio”, ignorando o histórico de perseguição e tragédia do povo judeu.
 

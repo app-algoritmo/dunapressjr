@@ -1,11 +1,12 @@
 ---
-title: "Qualquer pessoa que chegar em Israel vai ficar quarentena, anunciou o primeiro-ministro"
+title: Qualquer pessoa que chegar em Israel vai ficar quarentena, anunciou o primeiro-ministro
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *"Esta decisão será efetiva por duas semanas", disse o primeiro-ministro; 58 casos israelenses identificados; 25 nos territórios palestinos*
 

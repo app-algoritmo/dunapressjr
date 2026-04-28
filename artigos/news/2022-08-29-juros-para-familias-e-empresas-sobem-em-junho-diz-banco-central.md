@@ -1,11 +1,12 @@
 ---
-title: "Juros para famílias e empresas sobem em junho, diz Banco Central"
+title: Juros para famílias e empresas sobem em junho, diz Banco Central
 date: 2022-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Endividamento das famílias bate recorde de 52,8% em maio.
 

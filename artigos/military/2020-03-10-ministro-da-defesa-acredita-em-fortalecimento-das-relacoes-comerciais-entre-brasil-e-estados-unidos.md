@@ -1,12 +1,14 @@
 ---
-title: "Ministro da Defesa acredita em fortalecimento das relações comerciais entre Brasil e Estados Unidos"
+title: Ministro da Defesa acredita em fortalecimento das relações comerciais entre
+  Brasil e Estados Unidos
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
-  - Policy
+- Military
+- Policy
 ---
+
 
 O Ministro da Defesa, Fernando Azevedo, afirmou, nesta segunda-feira (9), que a visita do Presidente da República, Jair Bolsonaro, a Miami evidencia o fortalecimento das relações comerciais entre Brasil e Estados Unidos. A declaração ocorreu durante o painel sobre Inovação na Indústria de Defesa, no contexto do Seminário “Brazil - US Business Relations in Florida”, ocorrido em Miami (EUA).
 

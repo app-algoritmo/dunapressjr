@@ -1,11 +1,13 @@
 ---
-title: "Real ID: Nova Política do Governo dos EUA Levanta Preocupações sobre Privacidade e Liberdade de Movimento"
+title: 'Real ID: Nova Política do Governo dos EUA Levanta Preocupações sobre Privacidade
+  e Liberdade de Movimento'
 date: 2024-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A partir de 7 de maio de 2025, os americanos enfrentarão uma nova restrição que pode afetar significativamente sua liberdade de movimento. A implementação do programa Real ID, exigida pelo governo dos EUA para embarcar em voos domésticos e acessar certas instalações federais, está gerando críticas e preocupações entre defensores da privacidade e da liberdade individual.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde atende a solicitação do MJSP e antecipa vacinação dos profissionais da segurança pública"
+title: Ministério da Saúde atende a solicitação do MJSP e antecipa vacinação dos profissionais
+  da segurança pública
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministro da Justiça e Segurança Público, Sérgio Moro, fez uma solicitação ao Ministério da Saúde, por meio do OFÍCIO Nº 293/2020/GM, para que os servidores que atuam no sistema prisional fossem enquadrados na segunda fase da vacinação contra o vírus Influenza, tendo em vista a pandemia causada pelo Coronavírus - COVID-19, declarada pela Organização Mundial de Saúde.
 A segunda fase do calendário vacinal, que se inicia no dia 16 de abril, inclui os "profissionais das forças de segurança e salvamento", na qual também se enquadram os servidores de segurança do sistema prisional. Contudo, atualmente, esses servidores seriam contemplados somente na terceira fase "funcionários do sistema prisional", que iniciaria no dia 9 de maio, de acordo calendário divulgado pelo Ministério da Saúde.

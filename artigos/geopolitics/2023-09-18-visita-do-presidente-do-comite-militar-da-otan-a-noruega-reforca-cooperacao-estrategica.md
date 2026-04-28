@@ -1,12 +1,14 @@
 ---
-title: "Visita do Presidente do Comité Militar da OTAN à Noruega reforça cooperação estratégica"
+title: Visita do Presidente do Comité Militar da OTAN à Noruega reforça cooperação
+  estratégica
 date: 2023-09-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Military
+- Geopolitics
+- Military
 ---
+
 
 Nos dias 14 e 15 de setembro de 2023, a Noruega recebeu uma visita de alto nível, que ressalta a importância da cooperação estratégica entre este país nórdico e a Organização do Tratado do Atlântico Norte (OTAN). O Presidente do Comité Militar da OTAN, Almirante Rob Bauer, foi convidado pelo Chefe da Defesa norueguês, General Eirik Kristoffersen, para uma série de encontros e discussões que visam fortalecer os laços entre a Noruega e a Aliança Atlântica.
 

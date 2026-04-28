@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro amplia ações de assistência social durante pandemia"
+title: Governo Bolsonaro amplia ações de assistência social durante pandemia
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante a coletiva de imprensa desta quinta-feira (7), no Palácio do Planalto, a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, o ministro da Cidadania, Onyx Lorenzoni, e o ministro-chefe da Casa Civil, general Braga Netto, divulgaram algumas ações de assistência e auxílio do Governo Federal voltadas aos mais vulneráveis durante a pandemia do novo coronavírus no Brasil.
 

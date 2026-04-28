@@ -1,11 +1,12 @@
 ---
-title: "Regulamentação da IA exige foco na centralidade humana, aponta debate"
+title: Regulamentação da IA exige foco na centralidade humana, aponta debate
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Durante audiência pública nesta quinta-feira (26) senadores e especialistas defenderam que o projeto de lei que busca regulamentar o uso de inteligência artificial (IA) deve focar em princípios como a igualdade de direitos e a não discriminalização e na centralidade no elemento humano. O debate, promovido pela Comissão Temporária sobre Inteligência Artificial no Brasil (CTIA), apontou ainda como desafio a elaboração de uma norma equilibrada capaz de oferecer segurança jurídica sem implicar limitações para o desenvolvimento da educação, da tecnologia e na criação de novos negócios no país. 
 

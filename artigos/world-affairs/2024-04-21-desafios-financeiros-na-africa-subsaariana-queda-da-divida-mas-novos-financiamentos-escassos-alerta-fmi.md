@@ -1,11 +1,13 @@
 ---
-title: "Desafios Financeiros na África Subsaariana: Queda da Dívida, Mas Novos Financiamentos Escassos, Alerta FMI"
+title: 'Desafios Financeiros na África Subsaariana: Queda da Dívida, Mas Novos Financiamentos
+  Escassos, Alerta FMI'
 date: 2024-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Comissão Monetária Internacional (FMI) emitiu um alerta preocupante sobre a situação financeira da África Subsaariana, prevendo uma queda nos níveis de dívida após uma série de inadimplências soberanas, mas destacando a dificuldade persistente em obter novos financiamentos. O relatório semestral de Perspectivas Económicas Regionais do FMI prevê uma diminuição do rácio da dívida pública em relação ao PIB, embora os desafios permaneçam consideráveis.
 

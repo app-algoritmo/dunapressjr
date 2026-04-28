@@ -1,11 +1,13 @@
 ---
-title: "'Em nutrição, nada é à vontade e nada vale para todos': inclusive, para hidratação"
+title: '''Em nutrição, nada é à vontade e nada vale para todos'': inclusive, para
+  hidratação'
 date: 2022-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Copos e garrafas cheias d'água não são aspectos exclusivos do verão. A hidratação deve ser diária, visto que o organismo humano perde líquido constantemente. Essa perda ocorre   porque o organismo precisa manter uma temperatura adequada - entre 36,5ºC e 37ºC - e seu principal mecanismo para essa regulação é a transpiração, que faz aumentar a eliminação de água e sais minerais. A necessidade de reposição é vital, visto que a água *in natura *possibilita a manutenção da concentração de líquidos e eletrólitos (sódio, potássio, etc.) no corpo, assegurando que os processos do organismo ocorram adequadamente. 
 

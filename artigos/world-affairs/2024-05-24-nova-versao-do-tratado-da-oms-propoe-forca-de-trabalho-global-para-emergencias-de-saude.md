@@ -1,11 +1,13 @@
 ---
-title: "Nova Versão do Tratado da OMS Propõe 'Força de Trabalho Global para Emergências de Saúde'"
+title: Nova Versão do Tratado da OMS Propõe 'Força de Trabalho Global para Emergências
+  de Saúde'
 date: 2024-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A versão mais recente do novo tratado sobre pandemia da Organização Mundial da Saúde (OMS) introduz, pela primeira vez, a criação de uma "força de trabalho global para emergências de saúde", um corpo internacional de profissionais de saúde designado para combater pandemias. Esta nova adição foi descoberta por Elze van Hamelen e Karel Beckman e não estava presente nas versões anteriores do tratado.
 

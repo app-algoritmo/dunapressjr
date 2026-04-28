@@ -1,11 +1,12 @@
 ---
-title: "Caxias Shopping recebe Baile da Dona Helô na próxima segunda-feira"
+title: Caxias Shopping recebe Baile da Dona Helô na próxima segunda-feira
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Evento gratuito acontece das 17h às 21h.
 

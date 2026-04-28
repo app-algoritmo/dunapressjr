@@ -1,11 +1,12 @@
 ---
-title: "Lira marca votação da PEC do Voto Impresso para esta terça-feira (10)"
+title: Lira marca votação da PEC do Voto Impresso para esta terça-feira (10)
 date: 2021-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta prevê impressão de cédulas físicas conferíveis pelo eleitor.
 

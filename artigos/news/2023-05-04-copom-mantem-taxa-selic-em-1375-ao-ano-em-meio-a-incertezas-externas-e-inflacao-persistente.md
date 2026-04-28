@@ -1,11 +1,13 @@
 ---
-title: "Copom mantém taxa Selic em 13,75% ao ano em meio a incertezas externas e inflação persistente"
+title: Copom mantém taxa Selic em 13,75% ao ano em meio a incertezas externas e inflação
+  persistente
 date: 2023-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco Central destaca ambiente externo adverso e inflação acima da meta, mas indica desaceleração esperada da atividade econômica no cenário doméstico.
 

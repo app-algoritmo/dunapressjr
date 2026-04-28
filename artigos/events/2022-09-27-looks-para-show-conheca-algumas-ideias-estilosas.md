@@ -1,11 +1,12 @@
 ---
-title: "Looks para show: conheça algumas ideias estilosas"
+title: 'Looks para show: conheça algumas ideias estilosas'
 date: 2022-09-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Events
+- Events
 ---
+
 
 Após um longo período em isolamento social, causado pela pandemia de covid-19, finalmente, a nossa rotina está voltando ao normal. E, com essa retomada, os tão esperados shows estão com tudo, seja você uma pessoa apaixonada pelo gênero musical pop, rock, funk ou eletrônico. 
 

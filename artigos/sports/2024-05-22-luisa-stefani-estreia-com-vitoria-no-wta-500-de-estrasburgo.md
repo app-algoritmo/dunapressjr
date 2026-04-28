@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia com vitória no WTA 500 de Estrasburgo"
+title: Luisa Stefani estreia com vitória no WTA 500 de Estrasburgo
 date: 2024-05-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Torneio é o último preparatório para Roland Garros que começa na semana que vem.
 

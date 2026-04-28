@@ -1,11 +1,13 @@
 ---
-title: "Martha Louise da Noruega perde títulos reais e funções ao casar-se com Durek Verrett"
+title: Martha Louise da Noruega perde títulos reais e funções ao casar-se com Durek
+  Verrett
 date: 2022-11-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A família real da Noruega anunciou na terça-feira que a princesa Martha Louise deixaria seus deveres oficiais e renunciaria a seus patrocínios para se concentrar em seu relacionamento com Durek Verrett, um autoproclamado *“xamã”* das estrelas que vende amuletos mágicos.
 

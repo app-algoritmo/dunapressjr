@@ -1,12 +1,13 @@
 ---
-title: "Já pensou em trabalhar no Metaverso?"
+title: Já pensou em trabalhar no Metaverso?
 date: 2023-01-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 ## Realidade virtual em desenvolvimento pode se tornar uma importante plataforma social e para empresas. Entenda.
 

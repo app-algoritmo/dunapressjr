@@ -1,11 +1,13 @@
 ---
-title: "Confiança Empresarial registra queda em julho, afastando possibilidade de recuperação contínua"
+title: Confiança Empresarial registra queda em julho, afastando possibilidade de recuperação
+  contínua
 date: 2023-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança Empresarial (ICE) do FGV IBRE recua 0,5 ponto, impactado pelas piores expectativas em relação ao ambiente de negócios.
 

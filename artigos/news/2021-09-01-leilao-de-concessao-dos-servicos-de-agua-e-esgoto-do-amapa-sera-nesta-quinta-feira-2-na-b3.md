@@ -1,11 +1,13 @@
 ---
-title: "Leilão de concessão dos serviços de água e esgoto do Amapá será nesta quinta-feira (2), na B3"
+title: Leilão de concessão dos serviços de água e esgoto do Amapá será nesta quinta-feira
+  (2), na B3
 date: 2021-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto prevê R$ 3 bilhões em investimentos e vai universalizar os serviços em todo o estado, que possui apenas 7% de cobertura de esgotamento sanitário.
 

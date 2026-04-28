@@ -1,12 +1,13 @@
 ---
-title: "IEE lança Projeto Formação em Municípios com a Metodologia de Esporte Educacional"
+title: IEE lança Projeto Formação em Municípios com a Metodologia de Esporte Educacional
 date: 2024-05-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Capivari, no interior de São Paulo, será a primeira cidade a receber a ação, em parceria com o Instituto Esporte e Educação, para capacitação de mais de 30 profissionais a partir deste mês de maio.
 

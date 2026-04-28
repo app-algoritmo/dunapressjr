@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa visa contribuir para a aprendizagem escolar"
+title: Pesquisa visa contribuir para a aprendizagem escolar
 date: 2021-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Elton Oliveira de Moura doutorando em Administração pela Universidade Federal da Paraíba (UFPB) e professor de Administração no Instituto Federal de Alagoas (IFAL), observa como a prática da avaliação institucional pode contribuir para a aprendizagem da escola. O bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC) tem estudado a administração escolar no âmbito da gestão estratégica, estado, trabalho e sociedade, com ênfase em inovação e conhecimento.
 

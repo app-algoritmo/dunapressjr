@@ -1,11 +1,12 @@
 ---
-title: "A importância da atividade física para a prevenção do câncer"
+title: A importância da atividade física para a prevenção do câncer
 date: 2021-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com o fim do mês de outubro e a chegada do mês de novembro, a incidência dos principais cânceres que atingem homens e mulheres, o de próstata e o de mama, ganha ainda mais foco por conta das campanhas de conscientização e prevenção da doença. Apesar desse destaque, é importante lembrar que prevenção se faz todos os dias e que o cuidado à saúde deve nos acompanhar durante todos os meses do ano.
 

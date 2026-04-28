@@ -1,11 +1,12 @@
 ---
-title: "Ressurgimento da União Soviética? As possibilidades sob o governo de Putin"
+title: Ressurgimento da União Soviética? As possibilidades sob o governo de Putin
 date: 2024-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Desde a dissolução da União Soviética em 1991, especulações sobre a possibilidade de sua recriação têm sido frequentes, especialmente sob o governo do presidente russo, Vladimir Putin. Embora o Kremlin não tenha declarado abertamente a intenção de ressuscitar a União Soviética, várias políticas e movimentos geopolíticos sugerem um interesse em reafirmar a influência russa na antiga esfera soviética. Vamos explorar as diferentes facetas dessa possibilidade e as implicações que ela poderia ter.
 

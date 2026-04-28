@@ -1,11 +1,13 @@
 ---
-title: "Exército e órgãos de segurança combatem crimes na fronteira do Mato Grosso do Sul"
+title: Exército e órgãos de segurança combatem crimes na fronteira do Mato Grosso
+  do Sul
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 **Nesta última sem**ana de setembro, tropas da 4ª Brigada de Cavalaria Mecanizada desencadearam a Operação Ágata Guaicurus IV, para combate a ilícitos transnacionais e crimes ambientais na região da fronteira no Mato Grosso do Sul. A Operação inclui ações de enfrentamento ao contrabando, descaminho, crimes ambientais, tráfico de drogas e de armas, além de ações em benefício da população local.
 

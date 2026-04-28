@@ -1,12 +1,13 @@
 ---
-title: "Holanda zera a população de cachorros de rua em 2023"
+title: Holanda zera a população de cachorros de rua em 2023
 date: 2023-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A Holanda conseguiu zerar o número de cachorros de rua e agora, todos os cães têm um lar. O Fantástico, da TV Globo, contou no último domingo (09), que são quase dois milhões de ‘pets’ adotados, fazendo com que seja raríssimo encontrar um cachorro sem dono vagando pelas ruas.
 

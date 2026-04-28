@@ -1,11 +1,13 @@
 ---
-title: "Diminuição da renda familiar e segurança sanitária: novos fatores são levados em conta em época de matrículas escolares"
+title: 'Diminuição da renda familiar e segurança sanitária: novos fatores são levados
+  em conta em época de matrículas escolares'
 date: 2021-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Decidir qual a melhor escola para o filho sempre foi um desafio capaz de tirar o sono de qualquer pai. Com a pandemia, inúmeros fatores se somaram a essa questão, tornando a decisão ainda mais difícil. De um lado, escolas que tentam administrar não apenas o contexto pedagógico que precisou ser repensado por conta da pandemia, mas também a gestão operacional e financeira, abalada pela redução no número de alunos e pelos investimentos necessários para a implantação do ensino remoto e híbrido. E de outro, pais que precisam decidir em meio a uma pandemia que ainda não acabou qual a melhor (e mais segura) opção para o filho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Como as injeções de RNA alteram geneticamente você de forma permanente"
+title: Como as injeções de RNA alteram geneticamente você de forma permanente
 date: 2023-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Genes estranhos em seu corpo podem instantaneamente causar câncer e todos os tipos de inflamação, alertou o microbiologista Sucharit Bhakdi no CHD.TV. Esses genes também são transmitidos aos descendentes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil investe mais que a média dos países avançados no combate ao novo coronavírus"
+title: Brasil investe mais que a média dos países avançados no combate ao novo coronavírus
 date: 2020-05-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Balanço da Secretaria Especial de Fazenda aponta esforço fiscal de R$ 349,4 bilhões no enfrentamento ao coronavírus
 O Brasil está investindo mais que a média dos países avançados e quase o dobro do que as nações emergentes para combater os efeitos do novo coronavírus. As medidas brasileiras de combate à pandemia da Covid-19 já anunciadas representam um impacto primário equivalente a 4,81% do Produto Interno Bruto (PIB) em 2020. A média dos países avançados é de 4,3% do PIB. Entre os emergentes, a média é de 2,3%. Os números foram apresentados pelo secretário especial de Fazenda do Ministério da Economia, Waldery Rodrigues, nessa sexta-feira (01).

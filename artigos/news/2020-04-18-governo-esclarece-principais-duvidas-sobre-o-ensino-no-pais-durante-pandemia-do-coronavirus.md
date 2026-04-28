@@ -1,11 +1,13 @@
 ---
-title: "Governo esclarece principais dúvidas sobre o ensino no país durante pandemia do coronavírus"
+title: Governo esclarece principais dúvidas sobre o ensino no país durante pandemia
+  do coronavírus
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **1) As escolas das redes pública e privada de educação básica podem continuar com aulas e atividades a distância? Quem autoriza?**
 

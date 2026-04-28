@@ -1,11 +1,13 @@
 ---
-title: "Crise Institucional na Colômbia: Apoiadores de Gustavo Petro Invadem Palácio da Justiça"
+title: 'Crise Institucional na Colômbia: Apoiadores de Gustavo Petro Invadem Palácio
+  da Justiça'
 date: 2024-02-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma onda de apoiadores do presidente socialista da Colômbia, Gustavo Petro, causou tumulto esta semana ao invadir o Palácio da Justiça com o objetivo de pressionar os juízes do Supremo Tribunal a elegerem um procurador favorável ao governo. Após horas de cerco, ataques à imprensa e a alguns funcionários do tribunal, os magistrados tiveram que fugir de helicóptero para garantir sua segurança.
 

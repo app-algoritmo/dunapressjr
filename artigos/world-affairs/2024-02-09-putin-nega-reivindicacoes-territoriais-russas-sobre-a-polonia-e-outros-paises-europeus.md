@@ -1,11 +1,13 @@
 ---
-title: "Putin nega reivindicações territoriais russas sobre a Polônia e outros países europeus"
+title: Putin nega reivindicações territoriais russas sobre a Polônia e outros países
+  europeus
 date: 2024-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, rejeitou enfaticamente quaisquer reivindicações territoriais russas sobre a Polônia, a Letônia e outros países do continente europeu em uma recente entrevista concedida a Tucker Carlson e publicada no site do jornalista norte-americano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Melo e Cabal são vice-campeões do Rio Open"
+title: Melo e Cabal são vice-campeões do Rio Open
 date: 2023-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O mineiro Marcelo Melo e o colombiano Juan Sebastian Cabal são vice-campeões do Rio Open. Na final, encerrada já na madrugada deste domingo (26), no Jockey Club Brasileiro, no Rio de Janeiro, os argentinos Maximo Gonzalez e Andres Molteni marcaram 2 sets a 0, com parciais de 6/1 e 7/6 (7-3), em 1h31min, para ficar com o título do ATP 500. Melo e Cabal estiveram juntos pela primeira vez, parceria formada apenas para o torneio.
 

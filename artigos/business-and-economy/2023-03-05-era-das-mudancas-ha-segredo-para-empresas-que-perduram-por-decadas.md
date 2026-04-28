@@ -1,11 +1,12 @@
 ---
-title: "Era das mudanças: há segredo para empresas que perduram por décadas?"
+title: 'Era das mudanças: há segredo para empresas que perduram por décadas?'
 date: 2023-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 Mar calmo nunca fez bom marinheiro. Talvez essa seja uma das máximas mais verdadeiras se olharmos os acontecimentos mundiais nos últimos anos e que nos fazem questionar: haveria pontos em comum nas trajetórias de empresas que conseguem sobreviver às crises e mudanças de panoramas econômicos? No Brasil, manter uma empresa ativa por mais de cinco anos é algo raro. O que dirá então por mais de 10, 20 ou 30?
 

@@ -1,11 +1,12 @@
 ---
-title: "Investimentos no Tesouro Direto superaram resgates em R$ 330 milhões"
+title: Investimentos no Tesouro Direto superaram resgates em R$ 330 milhões
 date: 2020-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O valor médio por operação ficou em R$ 5.056,28.
 

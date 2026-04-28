@@ -1,11 +1,13 @@
 ---
-title: "Rogério Marinho critica posicionamento do governo sobre o conflito entre o Hamas e Israel"
+title: Rogério Marinho critica posicionamento do governo sobre o conflito entre o
+  Hamas e Israel
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um pronunciamento no Plenário nesta terça-feira (14), o senador Rogério Marinho (PL-RN) criticou o governo brasileiro por declarações do presidente Lula a respeito do conflito entre palestinos e israelenses, as quais, segundo o parlamentar, demonstram apoio a grupos terroristas. Marinho afirmou que os argumentos do presidente da República "não representam o sentimento da nação brasileira":
 

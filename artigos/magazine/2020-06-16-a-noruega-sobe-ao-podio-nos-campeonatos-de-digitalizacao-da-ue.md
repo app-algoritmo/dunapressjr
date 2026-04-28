@@ -1,11 +1,12 @@
 ---
-title: "A Noruega sobe ao pódio nos campeonatos de digitalização da UE"
+title: A Noruega sobe ao pódio nos campeonatos de digitalização da UE
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Noruega torna-se um dos países com os melhores índices de acesso à Internet e uso de serviços da rede em toda a Europa.
 

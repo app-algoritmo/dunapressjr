@@ -1,11 +1,13 @@
 ---
-title: "3.01 Diplomata Ernesto Araújo assumiu o cargo de chefe do Ministério das Relações Exteriores nesta quarta-feira"
+title: 3.01 Diplomata Ernesto Araújo assumiu o cargo de chefe do Ministério das Relações
+  Exteriores nesta quarta-feira
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Itamaraty vai reforçar acordos comerciais, defende novo ministro
 

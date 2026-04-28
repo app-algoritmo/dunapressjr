@@ -1,11 +1,13 @@
 ---
-title: "CPMI do 8 de janeiro ouve terça, Mauro Cid, acusado de organizar tentativa de golpe"
+title: CPMI do 8 de janeiro ouve terça, Mauro Cid, acusado de organizar tentativa
+  de golpe
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A comissão parlamentar mista de inquérito (CPMI) que investiga os ataques golpistas do dia 8 de janeiro vai ouvir nesta terça-feira (11) o tenente-coronel Mauro César Barbosa Cid, que foi ajudante de ordens do ex-presidente Jair Bolsonaro. Cid é suspeito de articular uma intervenção militar contra o Tribunal Superior Eleitoral (TSE) após as eleições do ano passado, em que Bolsonaro não conquistou um segundo mandato. Ele está preso desde 3 de maio, acusado de fraudar cartões de vacinação.
 

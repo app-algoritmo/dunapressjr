@@ -1,11 +1,12 @@
 ---
-title: "Amazônia é um dos focos da ONU para a Agenda 2030"
+title: Amazônia é um dos focos da ONU para a Agenda 2030
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 ## Movimento Impacto Amazônia é anunciado pela entidade.
 

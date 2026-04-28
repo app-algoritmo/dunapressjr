@@ -1,11 +1,13 @@
 ---
-title: "O Peso da Burocracia: Um Impedimento ao Progresso e um Convite à Corrupção no Brasil"
+title: 'O Peso da Burocracia: Um Impedimento ao Progresso e um Convite à Corrupção
+  no Brasil'
 date: 2024-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 No Brasil, a burocracia não é apenas uma característica irritante do sistema administrativo; é uma barreira substancial ao desenvolvimento econômico e social. O excesso de regulamentações, procedimentos complexos e papeladas intermináveis criam um ambiente propício para a corrupção florescer.
 

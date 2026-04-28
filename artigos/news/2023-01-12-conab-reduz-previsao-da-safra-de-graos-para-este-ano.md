@@ -1,11 +1,12 @@
 ---
-title: "Conab reduz previsão da safra de grãos para este ano"
+title: Conab reduz previsão da safra de grãos para este ano
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova estimativa prevê redução de 3,2 milhões de toneladas.
 

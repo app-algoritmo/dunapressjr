@@ -1,11 +1,13 @@
 ---
-title: "Brasil anuncia cooperação Brasil - Reino Unido para produção de vacina contra Covid-19"
+title: Brasil anuncia cooperação Brasil - Reino Unido para produção de vacina contra
+  Covid-19
 date: 2020-06-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Saúde anunciou o avanço no acordo de cooperação Brasil - Reino Unido para a produção de vacinas contra a Covid-19 e a transferência de tecnologia para o País. A informação foi dada durante coletiva de imprensa, neste sábado (27), no Palácio do Planalto. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Suspeitas e Interrogações: O Ataque Terrorista em Moscou Levanta Questões Sobre Vínculos Internacionais"
+title: 'Suspeitas e Interrogações: O Ataque Terrorista em Moscou Levanta Questões
+  Sobre Vínculos Internacionais'
 date: 2024-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades russas estão mergulhadas em uma investigação complexa após o devastador ataque a uma sala de concertos na região de Moscou, ocorrido na última sexta-feira. Com mais de 140 vidas perdidas e cerca de 100 pessoas gravemente feridas ainda hospitalizadas, o país enfrenta uma busca por respostas em meio à turbulência e à incerteza.
 

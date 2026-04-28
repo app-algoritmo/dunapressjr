@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Setor de serviços brasileiro apresenta crescimento modesto em maio de 2023"
+title: 'IBGE: Setor de serviços brasileiro apresenta crescimento modesto em maio de
+  2023'
 date: 2023-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setores de transporte e turismo contribuem para a expansão geral.
 

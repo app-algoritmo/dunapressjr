@@ -1,11 +1,13 @@
 ---
-title: "Produção de petróleo atinge novo recorde em 2022, impulsionada pelo pré-sal, revela ANP"
+title: Produção de petróleo atinge novo recorde em 2022, impulsionada pelo pré-sal,
+  revela ANP
 date: 2023-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reservas e exportações também registram crescimento significativo, enquanto setor de biocombustíveis enfrenta desafios.
 

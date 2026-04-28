@@ -1,11 +1,12 @@
 ---
-title: "PF e PRF apreendem quase 30 toneladas de maconha em Tacuru/MS"
+title: PF e PRF apreendem quase 30 toneladas de maconha em Tacuru/MS
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ponta Porã/MS – A Polícia Federal e a Polícia Rodoviária Federal fizeram hoje (20/5) a maior apreensão de drogas no Brasil  ao apreenderam um caminhão, entre Tacuru e Iguatemi/MS. No veículo, eram transportadas aproximadamente 28 toneladas de maconha.
 

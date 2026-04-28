@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 1,85% e fecha semana com recuo de quase 19%"
+title: Bolsa cai 1,85% e fecha semana com recuo de quase 19%
 date: 2020-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar teve forte queda e fechou em R$ 5,02
 

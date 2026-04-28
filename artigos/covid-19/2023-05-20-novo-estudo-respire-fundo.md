@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo: Respire fundo"
+title: 'Novo estudo: Respire fundo'
 date: 2023-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um novo estudo fornece novas evidências de que os ventiladores estavam matando pacientes com Covid e sugere que a pneumonia adquirida por ventiladores - e não a própria Covid - causou muitas mortes, enquanto o Sars-Cov-2 era relativamente benigno.
 

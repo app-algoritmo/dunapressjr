@@ -1,11 +1,12 @@
 ---
-title: "ANA define plano de recuperação dos reservatórios de água do Brasil"
+title: ANA define plano de recuperação dos reservatórios de água do Brasil
 date: 2021-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida foi tomada para aproveitar período chuvoso.
 

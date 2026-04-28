@@ -1,11 +1,12 @@
 ---
-title: "Vendas do comércio cresceram 1,6% em setembro, diz Serasa Experian"
+title: Vendas do comércio cresceram 1,6% em setembro, diz Serasa Experian
 date: 2021-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Material de construção registrou maior alta de 9,1%.
 

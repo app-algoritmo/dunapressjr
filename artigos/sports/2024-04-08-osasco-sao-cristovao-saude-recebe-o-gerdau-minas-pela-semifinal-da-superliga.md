@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde recebe o Gerdau Minas pela semifinal da Superliga"
+title: Osasco São Cristóvão Saúde recebe o Gerdau Minas pela semifinal da Superliga
 date: 2024-04-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar vai contar com o apoio de sua torcida, que vai lotar o ginásio José Liberatti nesta segunda-feira (8) para a abertura do playoff.
 

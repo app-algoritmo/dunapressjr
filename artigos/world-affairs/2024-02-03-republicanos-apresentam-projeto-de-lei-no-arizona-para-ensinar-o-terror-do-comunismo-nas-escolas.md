@@ -1,11 +1,13 @@
 ---
-title: "Republicanos apresentam projeto de lei no Arizona para ensinar o terror do comunismo nas escolas"
+title: Republicanos apresentam projeto de lei no Arizona para ensinar o terror do
+  comunismo nas escolas
 date: 2024-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Já é lugar-comum observar que o comunismo, apesar de ser tão criminoso quanto o nazismo, governando em muito mais países e por muito mais tempo, não teve Nuremberga. Pior ainda, **não houve qualquer condenação internacional explícita da devastação indescritível que causou a milhões de seres humanos.** E isso é algo que agora querem remediar, pelo menos no estado do Arizona.
 

@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val critica presença de Alexandre de Moraes no Congresso"
+title: Marcos do Val critica presença de Alexandre de Moraes no Congresso
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (10), o senador Marcos do Val (Podemos-ES) criticou a participação do ministro do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitral (TSE), Alexandre de Moraes, na cerimônia de comemoração dos 35 anos da Constituição, ocorrida no último dia 5. O senador considerou a presença do ministro como “uma agressão aos parlamentares”, devido às “graves violações cometidas contra a democracia”.
 

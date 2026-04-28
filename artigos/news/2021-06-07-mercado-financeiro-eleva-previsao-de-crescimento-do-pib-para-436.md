@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva previsão de crescimento do PIB para 4,36%"
+title: Mercado financeiro eleva previsão de crescimento do PIB para 4,36%
 date: 2021-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa de inflação sobe de 5,31% para 5,44%.
 

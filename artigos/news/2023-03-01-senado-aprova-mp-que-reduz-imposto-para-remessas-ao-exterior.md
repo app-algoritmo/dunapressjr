@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova MP que reduz imposto para remessas ao exterior"
+title: Senado aprova MP que reduz imposto para remessas ao exterior
 date: 2023-03-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida é válida para envios de até R$ 20 mil por mês.
 

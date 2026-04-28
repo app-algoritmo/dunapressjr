@@ -1,11 +1,12 @@
 ---
-title: "Pandemia muda percepção de segurança dos passageiros"
+title: Pandemia muda percepção de segurança dos passageiros
 date: 2021-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mesmo os meios de transporte mais seguros do mundo podem apresentar riscos de contaminação de Covid-19. Saiba o que fazer para aumentar a segurança a bordo.
 

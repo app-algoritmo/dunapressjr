@@ -1,11 +1,13 @@
 ---
-title: "ClearCorrect é reconhecida como uma das cinco melhores marcas de alinhadores ortodônticos pela Forbes"
+title: ClearCorrect é reconhecida como uma das cinco melhores marcas de alinhadores
+  ortodônticos pela Forbes
 date: 2024-01-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Análise incluiu a duração do tratamento, recomendações de especialistas e certificação.
 

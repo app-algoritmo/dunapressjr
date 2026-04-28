@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Grão-Pará e a independência do Brasil"
+title: 'Série Fatos Da Independência: Grão-Pará e a independência do Brasil'
 date: 2023-02-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Após os desdobramentos da chegada da escuna Maria da Glória, o governo do Grão-Pará rapidamente costurou uma aliança política entre as províncias regionais interessadas em se manter fiéis a Lisboa. A região norte de Goiás e o Mato Grosso – cujo acesso ao Pará, por meio de uma extensa rede de rios que os interligavam, mostrava-se fundamental para escoar mercadorias com destino a Europa – uniram-se ao Grão-Pará e ao Maranhão para resistir ao projeto de Independência.
 

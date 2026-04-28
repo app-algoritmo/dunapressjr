@@ -1,11 +1,12 @@
 ---
-title: "Projetos incentivam representatividade feminina em áreas da Odontologia"
+title: Projetos incentivam representatividade feminina em áreas da Odontologia
 date: 2021-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Antes desconhecido pelo mercado da saúde, o titânio trouxe inovação para a Medicina e a Odontologia. Usado em larga escala para a produção de implantes dentários, por exemplo, o material se destaca por características como força, resistência e resiliência. A chegada dos implantes de titânio ao Brasil coincide de certa forma com a entrada da cirurgiã-dentista Ivete Sartori, de 63 anos, na área. “Entrei na Implantodontia bem no começo do avanço da especialidade”, conta. Nascida em Fernandópolis (SP), ela viu na especialização uma chance de entrar na pesquisa e no ensino, áreas com as quais se identificava. Mas se hoje o setor ainda é predominantemente masculino, naquela época era mais ainda. 
 

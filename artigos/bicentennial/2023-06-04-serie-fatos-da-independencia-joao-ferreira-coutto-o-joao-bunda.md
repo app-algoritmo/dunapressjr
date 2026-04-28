@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: João Ferreira Coutto o João Bunda"
+title: 'Série Fatos Da Independência: João Ferreira Coutto o João Bunda'
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 João Ferreira Coutto, mais conhecido como João Bunda, era um ex-capitão do mato com cerca de 70 anos de idade. Apesar de sua idade avançada, Coutto coordenou uma grande operação estratégica em favor dos apoiadores de Pedro I. No dia 23 de maio de 1823, por volta das 5 ou 6 horas da manhã, com o apoio de quarenta homens armados, invadiu o povoado da vila da Manga do Iguará (atual Nina Rodrigues), emboscou as tropas de resistência e executou o capitão Manoel José de Magalhães enquanto este dormia em sua rede. Esperto, João Bunda permitiu a fuga do Coronel Comandante do Distrito para que alguém pudesse testemunhar seus feitos entre os partidários de Lisboa. Esperava também que o poupando, um pouco do medo inspirado por ele entre a população seria dissipado.
 

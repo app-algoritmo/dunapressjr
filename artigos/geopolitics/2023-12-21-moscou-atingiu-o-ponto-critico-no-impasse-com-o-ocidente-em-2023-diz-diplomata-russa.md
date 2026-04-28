@@ -1,11 +1,13 @@
 ---
-title: "Moscou atingiu o ponto crítico no impasse com o Ocidente em 2023, diz diplomata russa"
+title: Moscou atingiu o ponto crítico no impasse com o Ocidente em 2023, diz diplomata
+  russa
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Pode-se ver isso no terreno "onde os nossos combatentes pegaram em armas para provar a sua justeza, a justeza dos nossos pontos de vista, e - fazendo o que podem, arriscando as suas vidas - estão a implementar o conceito de política externa que foi adoptado este ano, " Maria Zakharova disse
 

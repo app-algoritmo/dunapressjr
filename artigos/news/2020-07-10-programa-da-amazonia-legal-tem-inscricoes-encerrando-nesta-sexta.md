@@ -1,11 +1,12 @@
 ---
-title: "Programa da Amazônia Legal tem inscrições encerrando nesta sexta"
+title: Programa da Amazônia Legal tem inscrições encerrando nesta sexta
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Serão apoiados até 90 projetos e financiadas 720 bolsas nos estados do Norte, Maranhão e Mato Grosso para desenvolver pós-graduação na região.
 

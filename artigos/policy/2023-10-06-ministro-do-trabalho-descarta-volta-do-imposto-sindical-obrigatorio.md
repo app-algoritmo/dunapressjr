@@ -1,11 +1,12 @@
 ---
-title: "Ministro do Trabalho descarta volta do imposto sindical obrigatório"
+title: Ministro do Trabalho descarta volta do imposto sindical obrigatório
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Segundo ele, o que está em debate é uma contribuição negocial aprovada em assembleia.
 

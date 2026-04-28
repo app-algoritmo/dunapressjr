@@ -1,11 +1,12 @@
 ---
-title: "CNJ abre processo contra desembargador do TJRJ por postagens políticas"
+title: CNJ abre processo contra desembargador do TJRJ por postagens políticas
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Marcelo Lima Buhatem publicou conteúdo favorável a Jair Bolsonaro.
 

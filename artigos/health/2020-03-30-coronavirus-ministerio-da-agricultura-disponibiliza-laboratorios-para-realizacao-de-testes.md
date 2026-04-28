@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Ministério da Agricultura disponibiliza laboratórios para realização de testes"
+title: 'Coronavírus: Ministério da Agricultura disponibiliza laboratórios para realização
+  de testes'
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Serão disponibilizados 84 laboratórios, com capacidade de análise de mais de 76 mil amostras por dia. 
 

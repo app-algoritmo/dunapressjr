@@ -1,11 +1,12 @@
 ---
-title: "Brasil exportou US$ 50,23 bi a mais do que importou em 2020"
+title: Brasil exportou US$ 50,23 bi a mais do que importou em 2020
 date: 2021-01-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit comercial cresceu 4,6% em relação a 2019.
 

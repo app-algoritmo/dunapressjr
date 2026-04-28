@@ -1,11 +1,12 @@
 ---
-title: "Confira as vagas disponíveis do Balcão de Empregos nesta semana em Itajaí"
+title: Confira as vagas disponíveis do Balcão de Empregos nesta semana em Itajaí
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Balcão de Empregos do Município de Itajaí disponibilizou 875 vagas para esta semana. As oportunidades são para variadas áreas em diversos bairros da cidade. Dentre as vagas disponíveis é possível encontrar desde Recepcionista até Pizzaiolo.
 

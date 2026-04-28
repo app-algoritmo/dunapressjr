@@ -1,11 +1,12 @@
 ---
-title: "Importante cardiologista diz: As injeções de Covid não são seguras para humanos"
+title: 'Importante cardiologista diz: As injeções de Covid não são seguras para humanos'
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um dos principais cardiologistas do mundo, Dr. Peter McCullough alertou inequivocamente o público e os funcionários do governo que as injeções de Covid são perigosas e “não seguras para uso humano”.
 

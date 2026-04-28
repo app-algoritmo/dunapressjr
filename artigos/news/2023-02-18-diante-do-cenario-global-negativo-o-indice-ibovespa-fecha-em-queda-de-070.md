@@ -1,11 +1,12 @@
 ---
-title: "Diante do cenário global negativo o índice Ibovespa fecha em queda de 0,70%"
+title: Diante do cenário global negativo o índice Ibovespa fecha em queda de 0,70%
 date: 2023-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar cai para R$ 5,16 na última sessão antes do carnaval.
 

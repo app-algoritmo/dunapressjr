@@ -1,12 +1,13 @@
 ---
-title: "Lockwood &amp; Co. - Você Já Ouviu Falar?"
+title: Lockwood &amp; Co. - Você Já Ouviu Falar?
 date: 2023-01-15
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 # Nova Série da Netflix Está chamando a atenção!
 

@@ -1,11 +1,13 @@
 ---
-title: "FBI Busca informações sobre indivíduos que incitam à violência durante manifestações pacíficas protegidas pela primeira emenda"
+title: FBI Busca informações sobre indivíduos que incitam à violência durante manifestações
+  pacíficas protegidas pela primeira emenda
 date: 2020-06-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O FBI respeita os direitos das pessoas de exercer pacificamente seus direitos da Primeira Emenda. Nossa missão de proteger o povo americano e defender a Constituição é dupla e simultânea, não contraditória.
 

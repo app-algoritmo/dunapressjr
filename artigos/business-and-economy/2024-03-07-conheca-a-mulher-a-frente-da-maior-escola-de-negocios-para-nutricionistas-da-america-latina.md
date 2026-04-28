@@ -1,12 +1,14 @@
 ---
-title: "Conheça a mulher à frente da maior escola de negócios para nutricionistas da América Latina"
+title: Conheça a mulher à frente da maior escola de negócios para nutricionistas da
+  América Latina
 date: 2024-03-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - Health
+- Business and Economy
+- Health
 ---
+
 
 ## Lais Vilar é CEO da Nutrição Sem Fronteiras, empresa que aumentou seu faturamento em 770% em um ano ensinando nutricionistas como receber melhores pagamentos, saltando de 3k para 10k ao mês, no mínimo.
 

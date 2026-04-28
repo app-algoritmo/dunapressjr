@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí divulga lista de casos de Coronavírus por bairros"
+title: Município de Itajaí divulga lista de casos de Coronavírus por bairros
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí divulga nesta quinta-feira (26) a lista atualizada de casos de coronavírus por bairro. Até quarta-feira (25), a cidade somava 9.985 casos positivos de COVID-19 e 191 mortes. Deste total, 8.657 pacientes já se recuperaram (86,7%) e 1.137 estão com o vírus ativo. Os bairros com mais casos registrados da doença até o momento são: São Vicente (1.522 infectados), Cordeiros (1.468), Cidade Nova (914), Centro (722), Fazenda (709), Espinheiros (667) e São João (619).
 

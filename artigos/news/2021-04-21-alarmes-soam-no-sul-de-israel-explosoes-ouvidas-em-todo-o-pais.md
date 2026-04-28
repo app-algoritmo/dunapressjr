@@ -1,11 +1,12 @@
 ---
-title: "Alarmes soam no sul de Israel, explosões ouvidas em todo o país"
+title: Alarmes soam no sul de Israel, explosões ouvidas em todo o país
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A explosão foi o resultado de uma bateria patriota em resposta a um míssil lançado contra Israel, de acordo com relatórios não confirmados.
 

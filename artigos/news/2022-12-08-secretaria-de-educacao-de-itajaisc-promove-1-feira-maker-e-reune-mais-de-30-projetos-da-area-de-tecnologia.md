@@ -1,11 +1,13 @@
 ---
-title: "Secretaria de Educação de Itajaí/SC promove 1ª Feira Maker e reúne mais de 30 projetos da área de tecnologia"
+title: Secretaria de Educação de Itajaí/SC promove 1ª Feira Maker e reúne mais de
+  30 projetos da área de tecnologia
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Educação, através da Diretoria de Tecnologias Educacionais (DITEC), realizou nesta quarta-feira (07) a 1ª Feira Maker, que reuniu 32 projetos desenvolvidos pelas unidades escolares da Rede Municipal de Ensino. Os trabalhos foram realizados em parceria entre os alunos, professores e instrutores de informática ao longo do ano e durante o contraturno escolar. O objetivo é desenvolver atividades que proporcionem aprendizagens práticas, criativas, interdisciplinares e com suporte da tecnologia.
 

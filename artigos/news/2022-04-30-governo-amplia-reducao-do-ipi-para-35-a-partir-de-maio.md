@@ -1,11 +1,12 @@
 ---
-title: "Governo amplia redução do IPI para 35% a partir de maio"
+title: Governo amplia redução do IPI para 35% a partir de maio
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida beneficia calçados, tecidos, carros, aparelhos de som e de TV.
 

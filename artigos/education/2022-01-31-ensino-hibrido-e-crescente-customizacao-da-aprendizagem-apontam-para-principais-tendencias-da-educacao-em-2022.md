@@ -1,11 +1,13 @@
 ---
-title: "Ensino híbrido e crescente customização da aprendizagem apontam para principais tendências da educação em 2022"
+title: Ensino híbrido e crescente customização da aprendizagem apontam para principais
+  tendências da educação em 2022
 date: 2022-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Cinco horas ou mais na escola todo dia, grade curricular engessada, provas em papel, apostilas, lousa e carteiras enfileiradas. Esse modelo de educação até funciona, mas não é de hoje que vem sendo questionado. Com a pandemia, as inovações no âmbito educacional tiveram que ser implantadas de modo acelerado e a tecnologia passou a ser indispensável, impondo muitos desafios para profissionais da educação e estudantes. Mesmo assim, a continuidade do ensino híbrido e a crescente customização da aprendizagem apontam para algumas das principais tendências para o futuro do ensino. Desenvolver habilidades cognitivas mais complexas, colocar o aluno como protagonista e democratizar a tecnologia são algumas das expectativas da educação para o ano de 2022.
 

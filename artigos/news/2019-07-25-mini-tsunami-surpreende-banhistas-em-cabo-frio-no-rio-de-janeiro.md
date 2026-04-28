@@ -1,11 +1,12 @@
 ---
-title: "Mini tsunami surpreende banhistas em Cabo Frio no Rio de Janeiro"
+title: Mini tsunami surpreende banhistas em Cabo Frio no Rio de Janeiro
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Famílias foram pegas de surpresa com uma grande onda que invadiu a faixa de areia da Praia do Forte. Nas imagens compartilhadas nas redes sociais, a forte ressaca assusta, assim como a reação das pessoas, adultos, crianças e objetos de todos os tamanhos foram arrastados para o mar. 
 

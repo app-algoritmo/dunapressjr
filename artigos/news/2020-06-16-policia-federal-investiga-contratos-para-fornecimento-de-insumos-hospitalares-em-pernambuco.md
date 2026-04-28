@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal investiga contratos para fornecimento de insumos hospitalares em Pernambuco"
+title: Polícia Federal investiga contratos para fornecimento de insumos hospitalares
+  em Pernambuco
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Recife/PE** - A Polícia Federal deflagrou, hoje (16/6),  a Operação Casa de Papel para investigar a contratação, sem licitação, por prefeituras pernambucanas, de empresa para fornecimento de materiais médico-hospitalares para enfrentamento à pandemia de COVID-19. A ação conta com a cooperação da Controladoria-Geral da União, e os contratos sob análise somam quase R$ 9 milhões.
 

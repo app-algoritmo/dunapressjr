@@ -1,11 +1,12 @@
 ---
-title: "Carta de Manoel Passos de Magalhães ao Imperador D. Pedro I"
+title: Carta de Manoel Passos de Magalhães ao Imperador D. Pedro I
 date: 2022-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Carta de Manoel dos Passos de Magalhães na qual roga ao Imperador d. Pedro I que lhe desse a liberdade ou o perdão do restante de sua pena para que pudesse sentar praça no batalhão de artilharia de libertos e “servir a nação”, dando “a última gota de sangue pelo Império”. Manoel havia sido sentenciado a 10 anos de prisão na Fortaleza da Laje, e já havia cumprido 6 anos e 7 meses, faltando, para concluir, 3 anos e cinco meses.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Rússia vê a ação da OTAN como uma escalada grave e ameaça uma resposta massiva"
+title: A Rússia vê a ação da OTAN como uma escalada grave e ameaça uma resposta massiva
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Dmitry Medvedev em seu canal Telegram:
 

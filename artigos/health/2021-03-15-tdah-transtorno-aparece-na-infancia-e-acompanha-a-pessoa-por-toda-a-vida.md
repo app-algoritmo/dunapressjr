@@ -1,11 +1,12 @@
 ---
-title: "TDAH: transtorno aparece na infância e acompanha a pessoa por toda a vida"
+title: 'TDAH: transtorno aparece na infância e acompanha a pessoa por toda a vida'
 date: 2021-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Nem sempre os pais levam a sério quando escutam que o filho não se concentra na sala de aula. Mas você sabia que isso pode ser Transtorno do Déficit de Atenção com Hiperatividade (TDAH)? Esse transtorno é neurobiológico, de causas genéticas, que aparece na infância e frequentemente acompanha o indivíduo por toda a sua vida e se caracteriza por sintomas de desatenção, inquietude e impulsividade.
 

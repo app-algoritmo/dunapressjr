@@ -1,11 +1,13 @@
 ---
-title: "Cardeal do Vaticano Condena Resposta de Israel ao Ataque do Hamas e Apela ao Fim da 'Carnificina' no Médio Oriente"
+title: Cardeal do Vaticano Condena Resposta de Israel ao Ataque do Hamas e Apela ao
+  Fim da 'Carnificina' no Médio Oriente
 date: 2024-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O secretário de Estado do Vaticano, cardeal italiano Pietro Parolin, fez uma condenação contundente da resposta de Israel ao ataque do grupo islâmico palestino Hamas, descrevendo-a como desproporcional e apelando ao fim da violência no Médio Oriente.
 

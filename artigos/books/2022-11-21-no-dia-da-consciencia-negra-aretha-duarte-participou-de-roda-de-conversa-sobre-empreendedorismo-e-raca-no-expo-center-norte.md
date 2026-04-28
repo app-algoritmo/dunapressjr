@@ -1,12 +1,14 @@
 ---
-title: "No Dia da Consciência Negra, Aretha Duarte participou de roda de conversa sobre empreendedorismo e raça no Expo Center Norte"
+title: No Dia da Consciência Negra, Aretha Duarte participou de roda de conversa sobre
+  empreendedorismo e raça no Expo Center Norte
 date: 2022-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
-  - News
+- Books
+- News
 ---
+
 
 ## A ativista socioambiental e líder ESG ao lado das diretoras Tatiana Lohmann e Roberta Estrela D'Alva na II Expo Internacional da Consciência Negra para falar de luminando Sonhos, documentário sobre a trajetória da montanhista.
 

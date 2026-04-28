@@ -1,11 +1,13 @@
 ---
-title: "Índice Geral de Preços – 10 (IGP-10) registra queda de 0,13% em agosto, segundo FGV/Ibre"
+title: Índice Geral de Preços – 10 (IGP-10) registra queda de 0,13% em agosto, segundo
+  FGV/Ibre
 date: 2023-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução na deflação é influenciada por variações positivas em commodities e produtos de peso relevante no índice ao produtor. 
 

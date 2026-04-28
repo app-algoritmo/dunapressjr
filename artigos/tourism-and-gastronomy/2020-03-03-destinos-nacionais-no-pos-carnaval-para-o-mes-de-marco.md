@@ -1,11 +1,12 @@
 ---
-title: "Destinos nacionais no pós-Carnaval para o mês de março"
+title: Destinos nacionais no pós-Carnaval para o mês de março
 date: 2020-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Calendário do Ministério do Turismo reúne alternativas para quem pretende manter a agenda de viagens pelos variados atrativos do país.*
 

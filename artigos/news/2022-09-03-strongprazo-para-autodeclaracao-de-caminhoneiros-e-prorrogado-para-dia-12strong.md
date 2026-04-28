@@ -1,11 +1,12 @@
 ---
-title: "<strong>Prazo para autodeclaração de caminhoneiros é prorrogado para dia 12</strong>"
+title: <strong>Prazo para autodeclaração de caminhoneiros é prorrogado para dia 12</strong>
 date: 2022-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cerca de 130 mil autodeclarações foram entregues.
 

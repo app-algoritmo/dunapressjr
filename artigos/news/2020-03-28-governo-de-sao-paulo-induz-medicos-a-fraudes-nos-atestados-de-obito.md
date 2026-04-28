@@ -1,11 +1,12 @@
 ---
-title: "Governo de São Paulo induz médicos a fraudes nos atestados de óbito"
+title: Governo de São Paulo induz médicos a fraudes nos atestados de óbito
 date: 2020-03-28
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 ## Jornalistas e veículos incompetentes e manipulados pelo poder público engolem os números falsos divulgados pela Secretaria da Saúde. Uma portaria publicada no dia 21 de março orienta médicos a colocar coronavírus como causa mortis das vítimas com os mesmos sintomas a partir de depoimentos dos familiares. Não, você não está lendo errado.
 

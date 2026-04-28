@@ -1,11 +1,12 @@
 ---
-title: "Paim diz que educação infantil é uma das prioridades do governo"
+title: Paim diz que educação infantil é uma das prioridades do governo
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) afirmou, em pronunciamento nesta terça-feira (17), que a educação infantil está no centro das prioridades do governo federal. O parlamentar destacou que a preocupação com o tema fica evidente em uma série de iniciativas tomadas pelo presidente Luiz Inácio Lula da Silva, como o aumento do suporte à merenda escolar. Segundo Paim, uma das primeiras medidas adotadas pelo governo foi reajustar o valor repassado pelo Programa Nacional de Alimentação Escolar, impactando positivamente cerca de 40 milhões de crianças e adolescentes.
 

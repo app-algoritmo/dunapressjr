@@ -1,11 +1,12 @@
 ---
-title: "A importância da educação religiosa"
+title: A importância da educação religiosa
 date: 2018-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 A Grade Educacional da Noruega para a Educação Infantil contempla um currículo riquíssimo que abrange uma filosofia educacional cujo objetivo é o desenvolvimento integral da criança, por esta razão sua filosofia é essencialmente alicerçada em princípios ético-cristãos. Diferentemente de um currículo tradicional, o ensino religioso, ou melhor, a aprendizagem dos valores cristãos não é oferecida à parte das demais matérias, e sim dentro das matérias, o que permite uma educação cristã contínua.
 

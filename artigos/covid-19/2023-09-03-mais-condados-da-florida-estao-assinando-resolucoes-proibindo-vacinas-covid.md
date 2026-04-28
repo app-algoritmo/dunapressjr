@@ -1,11 +1,12 @@
 ---
-title: "Mais condados da Flórida estão assinando resoluções proibindo ‘vacinas’ COVID"
+title: Mais condados da Flórida estão assinando resoluções proibindo ‘vacinas’ COVID
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Uma [resolução](https://slaynews.com/news/multiple-florida-counties-back-resolution-ban-covid-shots/) aprovada pelo Comitê Executivo Republicano do Condado de Brevard (BREC), na Flórida, em julho, está ganhando força em todo o Sunshine State, à medida que os conservadores avançam planos para impedir a venda e administração de "vacinas" contra o coronavírus Wuhan (COVID-19) 19) a serem banidas nesse estado.
 

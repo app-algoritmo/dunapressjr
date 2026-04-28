@@ -1,11 +1,12 @@
 ---
-title: "'Mutações silenciosas' ajudam a detectar câncer"
+title: '''Mutações silenciosas'' ajudam a detectar câncer'
 date: 2021-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo revisado por pares mostra que alterações do genoma anteriormente negligenciadas podem ser usadas para identificar tipos de câncer e prever chances de sobrevivência.
 

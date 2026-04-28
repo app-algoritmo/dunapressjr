@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Caspa (dermatite seborreica)"
+title: 'Dicas de Saúde: Caspa (dermatite seborreica)'
 date: 2021-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A caspa ou dermatite seborreica é uma inflamação na pele que causa principalmente descamação e vermelhidão em algumas áreas da face, como sobrancelhas e cantos do nariz, couro cabeludo, orelhas e tórax. Apresenta períodos de melhora e de piora dos sintomas.
 

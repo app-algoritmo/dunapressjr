@@ -1,11 +1,12 @@
 ---
-title: "Juros para empresas e famílias sobem em abril, diz BC"
+title: Juros para empresas e famílias sobem em abril, diz BC
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Taxa para as famílias chegou a 50,3% e para as empresas, 22,4% ao ano.
 

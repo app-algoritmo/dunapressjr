@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal apresenta a investidores estrangeiros oportunidades de investimento em infraestrutura de transportes"
+title: Governo Federal apresenta a investidores estrangeiros oportunidades de investimento
+  em infraestrutura de transportes
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 o longo desta semana, uma delegação brasileira está em Nova Iorque para apresentar a investidores estrangeiros o modelo brasileiro de concessões e o balanço da carteira de projetos do Governo Federal em infraestrutura de transportes, no chamado Roadshow. O grupo, liderado pelo ministro da Infraestrutura, Marcelo Sampaio, vai apresentar um portfólio que tem previsão de conceder 44 ativos e garantir R$ 110 bilhões em investimentos privados, somente em 2022.
 

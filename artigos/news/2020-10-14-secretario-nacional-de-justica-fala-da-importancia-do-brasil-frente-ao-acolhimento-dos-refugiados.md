@@ -1,11 +1,13 @@
 ---
-title: "Secretário Nacional de Justiça fala da importância do Brasil frente ao acolhimento dos refugiados"
+title: Secretário Nacional de Justiça fala da importância do Brasil frente ao acolhimento
+  dos refugiados
 date: 2020-10-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional de Justiça do Ministério da Justiça e Segurança Pública (Senajus/MJSP) participa de evento anual do Alto Comissariado das Nações Unidas para os Refugiados (Acnur). O encontro, que vai até o dia 09 de outubro, debate políticas de fortalecimento e cooperação internacional de refugiados e as dificuldades enfrentadas diante da crise da pandemia do novo coronavírus. A reunião ocorre de forma virtual, por conta das medidas de isolamento social recomendadas pelos organismos internacionais.
 

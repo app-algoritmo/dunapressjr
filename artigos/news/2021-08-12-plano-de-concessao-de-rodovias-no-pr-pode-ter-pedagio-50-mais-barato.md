@@ -1,11 +1,12 @@
 ---
-title: "Plano de concessão de rodovias no PR pode ter pedágio 50% mais barato"
+title: Plano de concessão de rodovias no PR pode ter pedágio 50% mais barato
 date: 2021-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro da Infraestrutura participou do lançamento do projeto.
 

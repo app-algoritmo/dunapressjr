@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 1,62%, acima dos 109 mil pontos"
+title: Ibovespa sobe 1,62%, acima dos 109 mil pontos
 date: 2023-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa reagiu positivamente após falas de Haddad sobre quadro fiscal.
 

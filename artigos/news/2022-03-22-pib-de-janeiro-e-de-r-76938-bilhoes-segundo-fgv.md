@@ -1,11 +1,12 @@
 ---
-title: "PIB de janeiro é de R$ 769,38 bilhões, segundo FGV"
+title: PIB de janeiro é de R$ 769,38 bilhões, segundo FGV
 date: 2022-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Monitor do PIB-FGV de janeiro mostra impacto da pandemia na economia.
 

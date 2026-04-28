@@ -1,11 +1,12 @@
 ---
-title: "Caixa reduzirá juros para 2,1 milhões de micro e pequenas empresas"
+title: Caixa reduzirá juros para 2,1 milhões de micro e pequenas empresas
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda das taxas pode chegar a 33% em algumas linhas de crédito.
 

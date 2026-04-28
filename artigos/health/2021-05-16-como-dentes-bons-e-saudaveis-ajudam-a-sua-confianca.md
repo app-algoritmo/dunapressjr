@@ -1,11 +1,12 @@
 ---
-title: "Como dentes bons e saudáveis ​​ajudam a sua confiança"
+title: Como dentes bons e saudáveis ​​ajudam a sua confiança
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Todo mundo quer ter um pouco mais de confiança, mas pode ser difícil ter confiança quando seus dentes não são tão bons quanto poderiam ser.
 

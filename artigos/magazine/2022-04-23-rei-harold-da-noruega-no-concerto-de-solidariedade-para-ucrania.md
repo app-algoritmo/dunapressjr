@@ -1,12 +1,13 @@
 ---
-title: "Rei Harold da Noruega no concerto de solidariedade para Ucrânia"
+title: Rei Harold da Noruega no concerto de solidariedade para Ucrânia
 date: 2022-04-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 Sua Majestade o Rei esteve presente em um concerto de solidariedade e apoio à Ucrânia na Sala de Concertos de Oslo na noite de sexta-feira 22.4.2022. O balé "Giselle" foi realizado por dançarinos do Kyiv Grand Ballet.
 

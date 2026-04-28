@@ -1,11 +1,12 @@
 ---
-title: "Brasil: O Pária - Uma Análise da Reportagem de Capa da Revista Oeste"
+title: 'Brasil: O Pária - Uma Análise da Reportagem de Capa da Revista Oeste'
 date: 2024-02-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A [**Revista Oeste**](https://www.revistaoeste.com/) renomada por seu jornalismo investigativo, trouxe à tona em sua edição 203 uma reportagem de capa intitulada "Brasil, O Pária". Sob essa temática, o país é apresentado como um lugar onde a lei é frágil, os códigos morais são desrespeitados e a vergonha parece ter se evaporado. Essa análise crítica do cenário nacional é apresentada com uma capa que impacta e assusta, mas que também chama à reflexão.
 

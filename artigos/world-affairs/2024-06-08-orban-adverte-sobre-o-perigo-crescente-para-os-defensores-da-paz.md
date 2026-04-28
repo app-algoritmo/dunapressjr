@@ -1,11 +1,12 @@
 ---
-title: "Orbán Adverte Sobre o Perigo Crescente para os Defensores da Paz"
+title: Orbán Adverte Sobre o Perigo Crescente para os Defensores da Paz
 date: 2024-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma recente entrevista ao canal de televisão checo XTV, o primeiro-ministro húngaro, Viktor Orbán, expressou preocupações significativas sobre a segurança de líderes que defendem a paz em meio ao atual cenário de conflito global. Orbán mencionou um atentado contra um amigo e refletiu sobre as implicações desse evento para outros defensores da paz.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prerrogativas do Legislativo estão sendo 'atropeladas', diz Sérgio Moro"
+title: Prerrogativas do Legislativo estão sendo 'atropeladas', diz Sérgio Moro
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sergio Moro (União-PR) afirmou em pronunciamento na terça-feira (26) que as prerrogativas do Parlamento estão sendo “atropeladas” pelo Executivo e Judiciário, levando o Brasil a caminhar por um "terreno perigoso”.
 

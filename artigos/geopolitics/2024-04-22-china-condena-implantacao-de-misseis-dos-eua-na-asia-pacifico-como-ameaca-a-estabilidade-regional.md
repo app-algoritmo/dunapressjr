@@ -1,11 +1,13 @@
 ---
-title: "China Condena Implantação de Mísseis dos EUA na Ásia-Pacífico como Ameaça à Estabilidade Regional"
+title: China Condena Implantação de Mísseis dos EUA na Ásia-Pacífico como Ameaça à
+  Estabilidade Regional
 date: 2024-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministério das Relações Exteriores da China expressou forte oposição ao lançamento de mísseis balísticos de médio alcance pelos Estados Unidos na região da Ásia-Pacífico. O porta-voz do ministério, Lin Jian, pediu aos Estados Unidos que interrompam suas ações militares provocativas e evitem aumentar as tensões na região.
 

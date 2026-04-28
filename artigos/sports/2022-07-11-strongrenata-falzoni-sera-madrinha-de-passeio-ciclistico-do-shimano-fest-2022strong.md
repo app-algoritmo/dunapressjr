@@ -1,11 +1,13 @@
 ---
-title: "<strong>Renata Falzoni será madrinha de passeio ciclístico do Shimano Fest 2022</strong>"
+title: <strong>Renata Falzoni será madrinha de passeio ciclístico do Shimano Fest
+  2022</strong>
 date: 2022-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Jornalista e cicloativista será homenageada no maior festival da bicicleta da América Latina, de 18 a 21 de agosto, em São Paulo. Passeio será na manhã do domingo, 21.
 

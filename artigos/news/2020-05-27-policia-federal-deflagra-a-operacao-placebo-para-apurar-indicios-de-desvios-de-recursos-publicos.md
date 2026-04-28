@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra a Operação Placebo para apurar indícios de desvios de recursos públicos"
+title: Polícia Federal deflagra a Operação Placebo para apurar indícios de desvios
+  de recursos públicos
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - A Polícia Federal deflagrou, na manhã desta terça-feira (26/05), a Operação Placebo que tem por finalidade a apuração dos indícios de desvios de recursos públicos destinados ao atendimento do estado de emergência de saúde pública de importância internacional decorrente do coronavírus (COVID-19), no Estado do Rio de Janeiro.
 

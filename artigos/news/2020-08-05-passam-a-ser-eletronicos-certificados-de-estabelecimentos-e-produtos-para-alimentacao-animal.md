@@ -1,11 +1,13 @@
 ---
-title: "Passam a ser eletrônicos certificados de estabelecimentos e produtos para alimentação animal"
+title: Passam a ser eletrônicos certificados de estabelecimentos e produtos para alimentação
+  animal
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os certificados tratam do registro de estabelecimentos e produtos e cadastro desses produtos. A emissão eletrônica reduz o trâmite processual e traz mais segurança.
 

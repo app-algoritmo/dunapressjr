@@ -1,11 +1,13 @@
 ---
-title: "Comércio no Paraná cresce 3,9% em agosto em comparação a 2022, acima da média nacional"
+title: Comércio no Paraná cresce 3,9% em agosto em comparação a 2022, acima da média
+  nacional
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Receita também cresceu (3,2%) no oitavo mês de 2023. Resultados de vendas e receitas são positivos em todos os demais indicadores: em relação a julho e acumulado de oito meses e de 12 meses.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras coloca em operação plataforma P-71 na Bacia de Santos"
+title: Petrobras coloca em operação plataforma P-71 na Bacia de Santos
 date: 2022-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção estava originalmente prevista para 2023.
 

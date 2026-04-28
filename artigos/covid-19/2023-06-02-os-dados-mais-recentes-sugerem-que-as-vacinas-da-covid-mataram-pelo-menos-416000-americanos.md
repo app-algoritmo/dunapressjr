@@ -1,11 +1,13 @@
 ---
-title: "Os dados mais recentes sugerem que as vacinas da Covid mataram pelo menos 416.000 americanos"
+title: Os dados mais recentes sugerem que as vacinas da Covid mataram pelo menos 416.000
+  americanos
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [Novas pesquisas](https://peterhalligan.substack.com/p/correlation-causation-german-study) da Alemanha sugerem que mais de 100.000 pessoas morreram por causa das “vacinas” do coronavírus Wuhan (COVID-19). Os mesmos dados extrapolados para a população dos Estados Unidos sugerem que pelo menos 400.000 pessoas aqui também morreram por causa das vacinas.
 

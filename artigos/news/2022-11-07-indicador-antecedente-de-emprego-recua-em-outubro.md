@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego recua em outubro"
+title: Indicador Antecedente de Emprego recua em outubro
 date: 2022-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice da FGV antecipa tendências do mercado de trabalho.
 

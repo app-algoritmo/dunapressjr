@@ -1,11 +1,13 @@
 ---
-title: "Setor agropecuário brasileiro prevê crescimento de 13,2% em 2023 impulsionado por produção de soja e bovinos"
+title: Setor agropecuário brasileiro prevê crescimento de 13,2% em 2023 impulsionado
+  por produção de soja e bovinos
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Revisão otimista do Ipea reflete desempenho surpreendente no primeiro trimestre, com destaque para aumento na produção de culturas estratégicas e pecuária.
 

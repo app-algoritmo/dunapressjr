@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro diz que Argentina pode ter crise migratória se 'esquerdalha' vencer eleição"
+title: Bolsonaro diz que Argentina pode ter crise migratória se 'esquerdalha' vencer
+  eleição
 date: 2019-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O neoliberal Macri, que é aliado de Bolsonaro, sofreu uma dura derrota para o candidato de centro-esquerda Alberto Fernández nas eleições primárias argentinas. 
 

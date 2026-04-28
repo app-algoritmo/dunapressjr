@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde se despede da Superliga Bet7K 2023/24"
+title: Osasco São Cristóvão Saúde se despede da Superliga Bet7K 2023/24
 date: 2024-04-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe de Camila Brait, Butler, Giovana, Lorenne, Tiffany e cia lutou até a última bola em uma batalha de 2h21min, mas acabou superado pelo Minas no segundo jogo da semifinal.
 

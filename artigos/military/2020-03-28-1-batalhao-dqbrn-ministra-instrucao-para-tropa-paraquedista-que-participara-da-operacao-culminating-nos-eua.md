@@ -1,12 +1,14 @@
 ---
-title: "1º Batalhão DQBRN ministra instrução para tropa paraquedista que participará da Operação Culminating nos EUA"
+title: 1º Batalhão DQBRN ministra instrução para tropa paraquedista que participará
+  da Operação Culminating nos EUA
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Rio de Janeiro (RJ)** – No período de 9
 a 20 de março, o 1º Batalhão de Defesa Química, Biológica, Radiológica e

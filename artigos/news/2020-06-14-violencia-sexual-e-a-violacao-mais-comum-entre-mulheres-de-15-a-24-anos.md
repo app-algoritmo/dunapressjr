@@ -1,11 +1,12 @@
 ---
-title: "Violência sexual é a violação mais comum entre mulheres de 15 a 24 anos"
+title: Violência sexual é a violação mais comum entre mulheres de 15 a 24 anos
 date: 2020-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo o balanço 2019 do Ligue 180, divulgado pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) na última sexta-feira, o crime de violência sexual é mais recorrente entre mulheres com idade entre 15 e 24 anos que se autodeclaram brancas. Das 1978 denúncias registradas, 702 pertencem a essa faixa etária e 836, à etnia.
 

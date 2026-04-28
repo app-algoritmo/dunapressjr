@@ -1,11 +1,13 @@
 ---
-title: "Em 2020, mesmo com pandemia, Brasil registrou quase 52 mil acidentes com vítimas em rodovias federais"
+title: Em 2020, mesmo com pandemia, Brasil registrou quase 52 mil acidentes com vítimas
+  em rodovias federais
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 63 mil acidentes foram registrados em rodovias federais do Brasil em 2020, sendo que quase 82% dos casos tiveram vítimas, segundo o Painel CNT de Consultas Dinâmicas dos Acidentes Rodoviários. Nesse cenário, o Maio Amarelo chega mais uma vez para conscientizar a população sobre a importância da direção segura e defensiva, com a campanha "Respeito e Responsabilidade, Pratique no Trânsito''. Além de evitar acidentes e preservar o bem-estar dos motoristas, a campanha também contribui para diminuir a sobrecarga dos hospitais durante a pandemia, principalmente no atendimento de casos graves.
 

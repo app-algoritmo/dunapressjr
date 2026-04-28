@@ -1,11 +1,13 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: Ministério da Cidadania antecipa calendário de saques de parcela"
+title: 'AUXÍLIO EMERGENCIAL: Ministério da Cidadania antecipa calendário de saques
+  de parcela'
 date: 2020-07-13
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Beneficiados no Lote 3 nascidos em julho, agosto e setembro poderão sacar a partir de segunda (13.07). No dia seguinte, os demais estão autorizados a retirar o benefício em dinheiro.
 

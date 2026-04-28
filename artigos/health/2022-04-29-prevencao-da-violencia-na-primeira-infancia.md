@@ -1,12 +1,13 @@
 ---
-title: "Prevenção da Violência na Primeira Infância"
+title: Prevenção da Violência na Primeira Infância
 date: 2022-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 A Primeira Infância é a fase que vai desde a concepção aos seis anos de idade, período de um rápido e intenso processo de formação das conexões neurais, e durante o qual fatores genéticos e ambientais interagem de forma contínua para o desenvolvimento do cérebro e de todo o sistema nervoso central.
 

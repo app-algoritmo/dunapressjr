@@ -1,11 +1,12 @@
 ---
-title: "Por que o ouro é uma arma tão eficaz contra os esquemas monetários do governo"
+title: Por que o ouro é uma arma tão eficaz contra os esquemas monetários do governo
 date: 2023-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os governos erodem imprudentemente a riqueza dos cidadãos, mas existem maneiras de evitar ser vítima desse esquema.
 

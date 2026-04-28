@@ -1,11 +1,12 @@
 ---
-title: "Especialista: “Vemos câncer turbo após vacinação com mRNA'"
+title: 'Especialista: “Vemos câncer turbo após vacinação com mRNA'''
 date: 2023-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em uma apresentação recente, o especialista Dr. Krüger, MD, que "depois da vacina de mRNA vemos turbo câncer".
 

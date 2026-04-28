@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Na Antártica, musgos podem ser remédios"
+title: 'Pesquisa: Na Antártica, musgos podem ser remédios'
 date: 2022-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores brasileiros liderados pelo professor do programa de pós-graduação em Ciências Genômicas e Biotecnologia da Universidade Católica de Brasília (UCB), Marcelo Henrique Soller Ramada, estudam na Antártica a possibilidade de musgos se tornarem possíveis medicamentos contra várias doenças. O estudo, conduzido como parte do Programa Antártico Brasileiro (Proantar), avalia a composição genética destas plantas, sua natureza e capacidade da resistência a ambientes hostis.
 

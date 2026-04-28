@@ -1,11 +1,12 @@
 ---
-title: "Confira algumas dicas de moto para tornar sua rotina mais confortável"
+title: Confira algumas dicas de moto para tornar sua rotina mais confortável
 date: 2022-08-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Andar de moto pode ser algo muito prazeroso, mas em algumas situações, também pode proporcionar desconfortos que atrapalham a experiência. Na rotina, o motociclista enfrenta sol quente, chuva, ventos, além de um trânsito intenso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa encosta em 100 mil pontos e fecha no maior nível em quatro meses"
+title: Bolsa encosta em 100 mil pontos e fecha no maior nível em quatro meses
 date: 2020-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar oscilou bastante, mas fechou em queda.
 

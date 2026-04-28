@@ -1,11 +1,12 @@
 ---
-title: "China Insta Rápida Admissão da Palestina na ONU para Corrigir Injustiça Histórica"
+title: China Insta Rápida Admissão da Palestina na ONU para Corrigir Injustiça Histórica
 date: 2024-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores da China, Wang Yi, reiterou neste sábado a urgência de admitir a Palestina como membro pleno das Nações Unidas, destacando que essa medida é crucial para corrigir uma injustiça histórica prolongada. Wang fez essas declarações durante uma coletiva de imprensa ao lado de Justin Tkatchenko, seu homólogo da Papua-Nova Guiné.
 

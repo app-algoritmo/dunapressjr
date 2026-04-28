@@ -1,11 +1,13 @@
 ---
-title: "A educação é de importância crucial para combater a pobreza e promover o desenvolvimento social."
+title: A educação é de importância crucial para combater a pobreza e promover o desenvolvimento
+  social.
 date: 2018-06-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Noruega está na vanguarda dos esforços internacionais para promover a educação global e é também um dos maiores doadores para a Parceria Global pela Educação.
 

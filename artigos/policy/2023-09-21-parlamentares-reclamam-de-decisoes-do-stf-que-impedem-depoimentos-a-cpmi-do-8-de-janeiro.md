@@ -1,11 +1,13 @@
 ---
-title: "Parlamentares reclamam de decisões do STF que impedem depoimentos à CPMI do 8 de Janeiro"
+title: Parlamentares reclamam de decisões do STF que impedem depoimentos à CPMI do
+  8 de Janeiro
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente da CPMI questiona possibilidade de um ministro desautorizar convocação feita pelo colegiado.
 

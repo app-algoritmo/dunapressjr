@@ -1,11 +1,12 @@
 ---
-title: "Custo da cesta básica em janeiro sobe no Nordeste e cai no Sul"
+title: Custo da cesta básica em janeiro sobe no Nordeste e cai no Sul
 date: 2023-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento foi divulgado pelo Dieese.
 

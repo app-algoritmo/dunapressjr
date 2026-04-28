@@ -1,11 +1,12 @@
 ---
-title: "Termina hoje prazo para enviar sugestões sobre Marco do Saneamento"
+title: Termina hoje prazo para enviar sugestões sobre Marco do Saneamento
 date: 2020-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contribuições devem ser enviadas por meio do portal Participa + Brasil.
 

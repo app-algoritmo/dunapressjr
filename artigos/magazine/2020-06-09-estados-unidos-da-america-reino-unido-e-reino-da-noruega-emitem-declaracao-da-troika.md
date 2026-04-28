@@ -1,11 +1,13 @@
 ---
-title: "Estados Unidos da América, Reino Unido e Reino da Noruega emitem declaração da Troika"
+title: Estados Unidos da América, Reino Unido e Reino da Noruega emitem declaração
+  da Troika
 date: 2020-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ### **A Troika pede ao governo do Sudão do Sul que nomeie governadores**
 

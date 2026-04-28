@@ -1,11 +1,13 @@
 ---
-title: "MJSP prorroga emprego da Força Nacional de Segurança Pública no combate a crimes ambientais"
+title: MJSP prorroga emprego da Força Nacional de Segurança Pública no combate a crimes
+  ambientais
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, prorrogou o emprego da Força Nacional de Segurança Pública (FNSP) em apoio ao Gabinete de Segurança Institucional na área que compreende a Amazônia Legal, na Operação Verde Brasil II . A portaria n° 310 foi publicada no Diário Oficial da União (DOU) desta segunda-feira (15).
 

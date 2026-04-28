@@ -1,11 +1,12 @@
 ---
-title: "Anvisa alerta para a falsificação de medicamentos"
+title: Anvisa alerta para a falsificação de medicamentos
 date: 2020-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para combater a falsificação de medicamentos, a Anvisa atua com outros órgãos de governo, agências reguladoras e autoridades policiais. A Anvisa recomenda que os pacientes que façam uso da importação por pessoa física fiquem atentos a pontos durante o processo de importação.
 

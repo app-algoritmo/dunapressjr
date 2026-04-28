@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia israelense lida com estresse e ansiedade"
+title: Tecnologia israelense lida com estresse e ansiedade
 date: 2021-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A empresa israelense de tecnologia de rastreamento ocular uniu forças com o consultor britânico de mudança comportamental para combater o estresse de uma forma única.
 

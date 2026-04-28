@@ -1,11 +1,12 @@
 ---
-title: "'Sangue sujo' e massas fibrosas parasitárias em 'vacinado'"
+title: '''Sangue sujo'' e massas fibrosas parasitárias em ''vacinado'''
 date: 2023-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A diretora funerária e embalsamadora Laura Jeffery testemunhou recentemente perante o National Citizens Inquiry em Toronto, Ontário, lançando luz sobre um fenômeno perturbador que ela observou desde a introdução das vacinas experimentais da Covid. Em seu depoimento, Jeffery detalhou aspectos de sua profissão, que envolve principalmente garantir que o falecido esteja bem representado na aparência. [Os embalsamadores](https://rumble.com/v1kb2o3-embalmer-blames-vaccines-for-massive-increase-in-blood-clots-and-cancer-its.html) empregam uma técnica na qual o sistema circulatório de pacientes falecidos é drenado e reabastecido com fluidos conservantes, permitindo-lhes retratar uma pessoa condizente com sua aparência.
 

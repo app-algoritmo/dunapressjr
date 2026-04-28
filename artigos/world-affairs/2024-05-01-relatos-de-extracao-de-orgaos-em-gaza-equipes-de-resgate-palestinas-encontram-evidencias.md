@@ -1,11 +1,13 @@
 ---
-title: "Relatos de Extração de Órgãos em Gaza: Equipes de Resgate Palestinas Encontram Evidências"
+title: 'Relatos de Extração de Órgãos em Gaza: Equipes de Resgate Palestinas Encontram
+  Evidências'
 date: 2024-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 -*Na sexta-feira, relatos da mídia lançaram luz sobre a descoberta chocante feita por equipes de resgate palestinas no sul da Faixa de Gaza. Enquanto recuperavam corpos de civis em valas comuns no Complexo Médico Nasser, as equipes de resgate encontraram evidências perturbadoras de extração de órgãos por parte das forças israelenses*.
 

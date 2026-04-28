@@ -1,11 +1,12 @@
 ---
-title: "Três maneiras de usar a Educação Midiática para combater fake news"
+title: Três maneiras de usar a Educação Midiática para combater fake news
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Informações que chegam por todos os lados, na tela do celular, no computador, pela televisão, podcasts, aplicativos de mensagem. Estar conectado 24 horas por dia faz com que nem mesmo as crianças e jovens estejam livres da disseminação desenfreada de notícias falsas. Embora as *fake news* não sejam uma novidade do século XXI, hoje elas se espalham com muito mais velocidade e com um alcance inédito.
 

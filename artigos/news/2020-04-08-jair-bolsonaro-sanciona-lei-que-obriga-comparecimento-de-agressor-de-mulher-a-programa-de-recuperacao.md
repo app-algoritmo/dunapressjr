@@ -1,11 +1,13 @@
 ---
-title: "Jair Bolsonaro sanciona lei que obriga comparecimento de agressor de mulher a programa de recuperação"
+title: Jair Bolsonaro sanciona lei que obriga comparecimento de agressor de mulher
+  a programa de recuperação
 date: 2020-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) comemora a sanção da Lei 13.984/20 na última sexta-feira (3). A norma altera a Lei Maria da Penha (Lei 11.340/06) para permitir que juízes possam obrigar o agressor de mulher a frequentar centro de educação e de reabilitação e a ter acompanhamento psicossocial.
 

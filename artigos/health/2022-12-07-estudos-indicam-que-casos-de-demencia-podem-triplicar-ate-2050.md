@@ -1,11 +1,12 @@
 ---
-title: "Estudos indicam que casos de demência podem triplicar até 2050"
+title: Estudos indicam que casos de demência podem triplicar até 2050
 date: 2022-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Albanita Bauer foi diagnosticada com doença de Alzheimer há pouco mais de 4 anos. Neste tempo, perdeu parte de lembranças importantes da vida, mas nunca esqueceu do marido, Izan, com quem é casada há mais de seis décadas. Recentemente, quando ele precisou ser internado por problemas cardíacos e covid-19, no Hospital Marcelino Champagnat, em Curitiba (PR), ela ficou em casa perguntando o tempo todo  onde estava o namorado, a que horas ele chegaria. "O amor que ela sente pelo meu pai é algo que o Alzheimer não conseguiu apagar", conta a filha Patrícia. 
 

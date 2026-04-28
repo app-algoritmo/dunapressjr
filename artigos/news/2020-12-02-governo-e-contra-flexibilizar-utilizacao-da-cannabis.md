@@ -1,11 +1,12 @@
 ---
-title: "Governo é contra flexibilizar utilização da Cannabis"
+title: Governo é contra flexibilizar utilização da Cannabis
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Cidadania, Onyx Lorenzoni, explicou, nesta quarta-feira (2), que o Governo Federal foi contrário à recomendação da Organização Mundial de Saúde (OMS) para retirar a *cannabis* da lista das substâncias psicotrópicas consideradas mais perigosas por avaliar que a proposta flexibiliza e reduz o controle sobre a substância.
 

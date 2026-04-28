@@ -1,11 +1,13 @@
 ---
-title: "Militares de saúde do Exército embarcam rumo à Amazônia para reforçar equipe de São Gabriel da Cachoeira (AM)"
+title: Militares de saúde do Exército embarcam rumo à Amazônia para reforçar equipe
+  de São Gabriel da Cachoeira (AM)
 date: 2020-05-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF)** – O Exército Brasileiro emprega, diariamente, esforços no combate à COVID-19. Na manhã deste domingo, 17 de maio, dez militares do Hospital Militar de Área de Brasília (HMAB) embarcaram rumo a São Gabriel da Cachoeira, no Amazonas. Com a missão de reforçar a equipe do Hospital de Guarnição de São Gabriel da Cachoeira (HGuSGC), que pertence à Força Terrestre e é o único hospital público da cidade, as profissionais atuarão na linha de frente dos casos já confirmados no município, que concentra o maior número de indígenas do Brasil.
 

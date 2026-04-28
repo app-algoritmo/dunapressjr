@@ -1,11 +1,12 @@
 ---
-title: "EUA buscam ampliar comunicação com a China em assuntos militares"
+title: EUA buscam ampliar comunicação com a China em assuntos militares
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Porta-voz do Conselho de Segurança Nacional da Casa Branca destaca interesse em expandir canais diplomáticos com Pequim, mas ressalta tensões em relação a Taiwan.
 

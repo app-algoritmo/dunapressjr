@@ -1,11 +1,12 @@
 ---
-title: "SP: SAP aponta aumento de 36% das apreensões de visitantes com drogas em presídios"
+title: 'SP: SAP aponta aumento de 36% das apreensões de visitantes com drogas em presídios'
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As apreensões de substâncias assemelhadas às drogas sintéticas cresceram 636% entre janeiro e julho, comparado ao mesmo período de 2022.
 

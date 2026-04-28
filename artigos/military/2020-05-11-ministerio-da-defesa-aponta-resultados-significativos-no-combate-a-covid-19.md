@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Defesa aponta resultados significativos no combate à COVID-19"
+title: Ministério da Defesa aponta resultados significativos no combate à COVID-19
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em ações distintas, o setor de Defesa vem desempenhando papel importante no combate à COVID-19. Coordenadas pelo Ministério da Defesa (MD), por meio da Secretaria de Produtos de Defesa (SEPROD), as missões, que tiveram início no final de março, já apresentam resultados robustos. Em uma delas, o cadastramento de fornecedores e produtos para o combate à doença, conta com 662 itens, ofertados por 331 companhias. A lista está disponível para as secretarias municipais e estaduais de saúde, Ministério da Saúde e Forças Armadas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Testes diagnósticos em escala, parceria entre Coppe e UFRJ"
+title: Testes diagnósticos em escala, parceria entre Coppe e UFRJ
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A Coppe/UFRJ firmou parceria com Bio-Manguinhos/Fiocruz e com a empresa FK Biotecnologia-Imunobiotech para a produção de testes sorológicos para diagnóstico da Covid-19. Os testes estão sendo desenvolvidos, com o apoio da unidade Embrapii-Coppe e do Sebrae, a partir da proteína S (*spike*) presente na superfície do novo coronavírus. A proteína S está sendo produzida desde fevereiro de 2020 em células geneticamente modificadas no Laboratório de Engenharia de Cultivos Celulares (Lecc) da Coppe, coordenado pela professora Leda Castilho.
 

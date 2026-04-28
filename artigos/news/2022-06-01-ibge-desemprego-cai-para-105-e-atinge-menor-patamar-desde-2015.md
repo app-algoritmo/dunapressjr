@@ -1,11 +1,12 @@
 ---
-title: "IBGE: desemprego cai para 10,5% e atinge menor patamar desde 2015"
+title: 'IBGE: desemprego cai para 10,5% e atinge menor patamar desde 2015'
 date: 2022-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número de ocupados bateu recorde histórico, com 96,5 milhões.
 

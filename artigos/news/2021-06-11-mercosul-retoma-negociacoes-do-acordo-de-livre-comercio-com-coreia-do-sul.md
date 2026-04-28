@@ -1,11 +1,12 @@
 ---
-title: "Mercosul retoma negociações do Acordo de Livre Comércio com Coreia do Sul"
+title: Mercosul retoma negociações do Acordo de Livre Comércio com Coreia do Sul
 date: 2021-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sexta rodada representou o reinício das negociações, que teve o último encontro adiado devido à pandemia da Covid-19.
 

@@ -1,11 +1,12 @@
 ---
-title: "Atomização globalizada"
+title: Atomização globalizada
 date: 2018-12-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Por Professor Hermes Nery
 

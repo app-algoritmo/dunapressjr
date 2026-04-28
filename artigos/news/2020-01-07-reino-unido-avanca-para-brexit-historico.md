@@ -1,11 +1,12 @@
 ---
-title: "Reino Unido avança para Brexit histórico"
+title: Reino Unido avança para Brexit histórico
 date: 2020-01-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Depois de pavimentar o caminho para uma aprovação do acordo
 de Brexit negociado por Boris Johnson em dezembro, os deputados britânicos

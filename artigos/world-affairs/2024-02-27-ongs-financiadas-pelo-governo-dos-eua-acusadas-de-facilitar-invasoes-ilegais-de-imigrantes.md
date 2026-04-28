@@ -1,11 +1,13 @@
 ---
-title: "ONGs financiadas pelo governo dos EUA acusadas de facilitar invasões ilegais de imigrantes"
+title: ONGs financiadas pelo governo dos EUA acusadas de facilitar invasões ilegais
+  de imigrantes
 date: 2024-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A questão parece óbvia: se estamos enfrentando um problema sério e urgente, a primeira medida deve ser combater as organizações que colaboram com esse mesmo problema. No caso da invasão de estrangeiros que entram ilegalmente nos Estados Unidos, muitas vezes esses "colaboradores necessários" são organizações não governamentais, as ONGs.
 

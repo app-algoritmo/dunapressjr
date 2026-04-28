@@ -1,11 +1,13 @@
 ---
-title: "Destinado R$ 39,7 milhões pelo Mec para universidades federais com campus sem hospital próprio"
+title: Destinado R$ 39,7 milhões pelo Mec para universidades federais com campus sem
+  hospital próprio
 date: 2020-08-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos são para viabilizar cenários de prática para alunos de Medicina e para a compra de materiais e equipamentos de saúde.
 

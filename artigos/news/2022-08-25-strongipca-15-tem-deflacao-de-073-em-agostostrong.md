@@ -1,11 +1,12 @@
 ---
-title: "<strong>IPCA-15 tem deflação de 0,73% em agosto</strong>"
+title: <strong>IPCA-15 tem deflação de 0,73% em agosto</strong>
 date: 2022-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a menor taxa da série histórica do índice, iniciada em 1991.
 

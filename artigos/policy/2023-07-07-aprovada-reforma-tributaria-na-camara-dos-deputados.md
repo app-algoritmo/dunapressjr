@@ -1,11 +1,12 @@
 ---
-title: "Aprovada reforma tributária na Câmara dos Deputados"
+title: Aprovada reforma tributária na Câmara dos Deputados
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta busca unificar legislação e estabelecer novos tributos.
 

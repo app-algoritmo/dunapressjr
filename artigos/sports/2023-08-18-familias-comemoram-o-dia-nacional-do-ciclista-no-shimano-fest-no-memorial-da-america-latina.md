@@ -1,11 +1,13 @@
 ---
-title: "Famílias comemoram o Dia Nacional do Ciclista no Shimano Fest no Memorial da América Latina"
+title: Famílias comemoram o Dia Nacional do Ciclista no Shimano Fest no Memorial da
+  América Latina
 date: 2023-08-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior festival de bicicleta da América Latina tem entrada grátis para o público, que poderá conhecer produtos, pedalar e participar de atividades em São Paulo.
 

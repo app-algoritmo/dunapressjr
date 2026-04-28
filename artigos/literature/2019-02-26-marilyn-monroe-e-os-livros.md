@@ -1,11 +1,12 @@
 ---
-title: "Marilyn Monroe e os livros"
+title: Marilyn Monroe e os livros
 date: 2019-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Talvez você nunca tenha assistido a um filme de Marilyn Monroe, principalmente se for mais jovem, mas com certeza já viu o rosto dela por aí: em canecas, camisetas, quadros e montagens na internet. Isso porque, acima de tudo, a atriz se tornou um dos maiores ícones lendários de Hollywood.
 

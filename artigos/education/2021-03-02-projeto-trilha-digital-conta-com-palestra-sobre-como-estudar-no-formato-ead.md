@@ -1,11 +1,12 @@
 ---
-title: "Projeto Trilha Digital conta com palestra sobre como estudar no formato EAD"
+title: Projeto Trilha Digital conta com palestra sobre como estudar no formato EAD
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Tempo livre e busca por novos conhecimentos lideram motivos pela procura de cursos online durante pandemia, 38% dos estudantes buscaram formação online por ter horas vagas e 25% com o objetivo de melhorar o currículo.
 

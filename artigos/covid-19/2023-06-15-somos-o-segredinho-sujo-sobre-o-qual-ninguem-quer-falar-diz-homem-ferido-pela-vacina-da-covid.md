@@ -1,11 +1,13 @@
 ---
-title: "'Somos o segredinho sujo sobre o qual ninguém quer falar', diz homem ferido pela vacina da COVID"
+title: '''Somos o segredinho sujo sobre o qual ninguém quer falar'', diz homem ferido
+  pela vacina da COVID'
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *Stephen "Steve" Wenger, que foi ferido pela vacina COVID-19 que seu empregador o obrigou a tomar, agora não pode trabalhar em tempo integral e tem que pagar mais de $ 70.000 em contas médicas, conforme relatado em uma entrevista exclusiva com O defensor.*
 

@@ -1,11 +1,12 @@
 ---
-title: "Déficit nas contas públicas em fevereiro: Entenda os números e desafios econômicos"
+title: 'Déficit nas contas públicas em fevereiro: Entenda os números e desafios econômicos'
 date: 2024-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O saldo negativo nas contas públicas em fevereiro deste ano, principalmente devido ao déficit do governo federal decorrente da antecipação do pagamento de precatórios em 2024, destaca os desafios econômicos que o Brasil enfrenta. Segundo dados divulgados pelo Banco Central (BC), o setor público consolidado registrou um déficit primário de R$ 48,692 bilhões, comparado ao déficit de R$ 26,453 bilhões no mesmo período do ano anterior.
 

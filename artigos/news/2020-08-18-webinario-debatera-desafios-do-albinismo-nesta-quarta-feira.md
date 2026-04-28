@@ -1,11 +1,12 @@
 ---
-title: "Webinário debaterá desafios do Albinismo nesta quarta-feira"
+title: Webinário debaterá desafios do Albinismo nesta quarta-feira
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma anomalia genética que atrapalha a produção de melanina é a causa da ausência total ou parcial de pigmentação da pele, dos olhos e dos cabelos de algumas pessoas. O webinário “Conhecendo os desafios do Albinismo” será transmitido nesta quarta-feira (19) pelas redes sociais do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 

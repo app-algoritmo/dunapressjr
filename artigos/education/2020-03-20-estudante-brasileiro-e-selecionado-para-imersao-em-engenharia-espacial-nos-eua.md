@@ -1,11 +1,13 @@
 ---
-title: "Estudante brasileiro é selecionado para imersão em engenharia espacial nos EUA"
+title: Estudante brasileiro é selecionado para imersão em engenharia espacial nos
+  EUA
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Estudante do Instituto Federal de Brasília (IFB), Wanghley Soares foi selecionado para participar de uma imersão em engenharia aeroespacial nos Estados Unidos. Aprovado em uma seletiva de 900 participantes, o jovem de 17 anos recebeu uma bolsa do programa Junior Achievement (JA), que pertence a uma associação sem fins lucrativos.
 

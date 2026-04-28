@@ -1,11 +1,12 @@
 ---
-title: "Aspirantes a oficial da FAB realizam primeiro voo solo em aeronave de caça"
+title: Aspirantes a oficial da FAB realizam primeiro voo solo em aeronave de caça
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A tarde dessa quarta-feira (22/04) foi diferente na rotina dos integrantes do 2º/5º GAV – Esquadrão Joker, sediado na Ala 10, em Parnamirim (RN). Isso porque, a bordo da aeronave A-29 Super Tucano da Força Aérea Brasileira (FAB), estavam os Aspirantes a Oficiais Aviadores Gianfranco Santiago Spatti e Matheus José da Silva Araújo que registravam, em suas carreiras, o primeiro voo solo. Eles fazem parte do Curso de Especialização Operacional na Aviação de Caça (CEO-CA) de 2020, com outros 26 Estagiários.
 

@@ -1,11 +1,13 @@
 ---
-title: "A doença transmitida por carrapatos foi originalmente desenvolvida como uma arma biológica"
+title: A doença transmitida por carrapatos foi originalmente desenvolvida como uma
+  arma biológica
 date: 2023-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Transmitida por carrapatos, a infecção por Borrelia burgdorferi pode formar biofilmes que dificultam o tratamento e desafiam a medicina moderna.
 

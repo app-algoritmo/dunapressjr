@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em alta após divulgação que EUA estão saindo da crise"
+title: Dólar fecha em alta após divulgação que EUA estão saindo da crise
 date: 2020-06-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O dólar à vista subiu 1,76% e fechou a R$ 5,2324.
 

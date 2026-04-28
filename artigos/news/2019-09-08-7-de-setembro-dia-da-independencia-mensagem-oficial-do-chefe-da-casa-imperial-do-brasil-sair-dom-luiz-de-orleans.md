@@ -1,11 +1,13 @@
 ---
-title: "7 de Setembro, dia da Independência, mensagem oficial do Chefe da Casa Imperial do Brasil,  S.A.I.R Dom Luiz de Orleans"
+title: 7 de Setembro, dia da Independência, mensagem oficial do Chefe da Casa Imperial
+  do Brasil,  S.A.I.R Dom Luiz de Orleans
 date: 2019-09-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Meus muito caros Brasileiros,**
 

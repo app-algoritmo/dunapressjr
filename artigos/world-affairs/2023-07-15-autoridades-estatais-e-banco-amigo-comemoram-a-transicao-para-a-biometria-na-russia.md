@@ -1,11 +1,13 @@
 ---
-title: "Autoridades estatais e banco amigo comemoram a 'transição para a biometria' na Rússia"
+title: Autoridades estatais e banco amigo comemoram a 'transição para a biometria'
+  na Rússia
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Mas os russos não estão tão entusiasmados.
 

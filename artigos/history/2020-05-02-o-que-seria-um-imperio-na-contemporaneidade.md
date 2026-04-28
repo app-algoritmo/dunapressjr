@@ -1,11 +1,12 @@
 ---
-title: "O que seria um império na contemporaneidade?"
+title: O que seria um império na contemporaneidade?
 date: 2020-05-02
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 No último domingo, dia 26/04, um assunto no twitter ganhou notoriedade o suficiente para aparecer entre os mais falados na rede. A hashtag “ImpérioJá” passou pelas vistas de qualquer brasileiro ali presente, e por mais que para muitas pessoas este tema seja desconhecido, a cada dia ele vem ganhando seu espaço e simpatizantes. Mas o que viria a ser isso na prática? Bom, vamos responder com história!
 

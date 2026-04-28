@@ -1,11 +1,12 @@
 ---
-title: "PF, em conjunto com advogados, distribui cestas básicas"
+title: PF, em conjunto com advogados, distribui cestas básicas
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Campo Grande/MS - Policiais Federais realizaram uma ação diferente, nesta quinta-feira (9/4), no bairro Cidade de Deus, em Campo Grande/MS. Aproximadamente 20 policiais federais e 10 advogados, capitaneados pela Comissão de Direito Social da OAB/MS, realizaram a entrega de 100 cestas básicas a moradores de uma comunidade carente, em situação de hipossuficiência.
 

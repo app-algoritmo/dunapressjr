@@ -1,11 +1,12 @@
 ---
-title: "Inflação do aluguel é de 0,02%, em novembro"
+title: Inflação do aluguel é de 0,02%, em novembro
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, IGP-M ficou em 17,89%.
 

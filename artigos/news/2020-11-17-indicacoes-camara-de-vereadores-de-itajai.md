@@ -1,11 +1,12 @@
 ---
-title: "Indicações Câmara de Vereadores de Itajaí"
+title: Indicações Câmara de Vereadores de Itajaí
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sessão Ordinária 54ª (17/11/2020).
 

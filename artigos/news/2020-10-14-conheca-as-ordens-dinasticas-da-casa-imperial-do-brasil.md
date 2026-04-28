@@ -1,11 +1,12 @@
 ---
-title: "Conheça as Ordens Dinásticas da Casa Imperial do Brasil"
+title: Conheça as Ordens Dinásticas da Casa Imperial do Brasil
 date: 2020-10-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A recente notícia de que o Príncipe Dom Luiz de Orleans e Bragança, Chefe da Casa Imperial do Brasil, teve por bem conferir a Grã-Cruz da Imperial Ordem da Rosa à sua muito querida cunhada, a Princesa Dona Christine de Ligne de Orleans e Bragança, despertou grande interesse nos monarquistas, de modo que a partir da próxima quarta-feira, 21 de outubro, faremos uma série de publicações sobre cada uma das Ordens Dinásticas de nossa Casa Imperial.
 

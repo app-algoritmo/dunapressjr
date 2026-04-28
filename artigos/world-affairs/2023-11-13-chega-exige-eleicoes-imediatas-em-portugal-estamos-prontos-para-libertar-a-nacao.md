@@ -1,11 +1,13 @@
 ---
-title: "CHEGA! exige eleições imediatas em Portugal: “Estamos prontos para libertar a nação”"
+title: 'CHEGA! exige eleições imediatas em Portugal: “Estamos prontos para libertar
+  a nação”'
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A oposição em Portugal saudou a decisão de **António Costa** de renunciar ao cargo de primeiro-ministro e apela ao Presidente Marcelo Rebelo de Sousa, que tomou posse nesta quinta-feira, para que **convoque rapidamente eleições antecipadas.**
 

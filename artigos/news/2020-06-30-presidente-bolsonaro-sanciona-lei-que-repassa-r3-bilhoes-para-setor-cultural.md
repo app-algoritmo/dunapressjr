@@ -1,11 +1,12 @@
 ---
-title: "Presidente Bolsonaro sanciona lei que repassa R$3 bilhões para setor cultural"
+title: Presidente Bolsonaro sanciona lei que repassa R$3 bilhões para setor cultural
 date: 2020-06-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Pequenas e microempresas, trabalhadores informais e organizações culturais comunitárias receberão recurso.
 

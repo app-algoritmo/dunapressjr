@@ -1,11 +1,12 @@
 ---
-title: "Roubos de carga caem pela metade no estado do Rio em agosto"
+title: Roubos de carga caem pela metade no estado do Rio em agosto
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Mortes por intervenção de agente do estado diminuíram 74% no período.
 

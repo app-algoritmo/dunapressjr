@@ -1,11 +1,12 @@
 ---
-title: "Biografia: Malcolm Forest"
+title: 'Biografia: Malcolm Forest'
 date: 2018-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ##  conhecido por ser o intérprete de personalidades como Donald Trump e  Ronald Reagan, e por sua atuação em grandes cerimoniais, incluindo  eventos da Família Imperial do Brasil 
 

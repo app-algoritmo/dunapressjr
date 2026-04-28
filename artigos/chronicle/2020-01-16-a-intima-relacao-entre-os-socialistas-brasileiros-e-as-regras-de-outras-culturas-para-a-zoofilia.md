@@ -1,11 +1,13 @@
 ---
-title: "A íntima relação entre os socialistas brasileiros e as regras de outras culturas para a zoofilia"
+title: A íntima relação entre os socialistas brasileiros e as regras de outras culturas
+  para a zoofilia
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 "Um homem pode ter relações sexuais com os animais, como as ovelhas, as vacas, os camelos e outros. No entanto, após alcançar o orgasmo deve degolar o animal". (Khomeini, Tahrirolvashyeleh 4º volume, Darol Orm, Gom, Iran, 1990)
 

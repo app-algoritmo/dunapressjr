@@ -1,11 +1,13 @@
 ---
-title: "Câmara dos Representantes dos EUA denuncia estratégia chinesa de promoção do fentanil no exterior"
+title: Câmara dos Representantes dos EUA denuncia estratégia chinesa de promoção do
+  fentanil no exterior
 date: 2024-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um relatório divulgado por uma comissão da Câmara dos Representantes dos Estados Unidos na terça-feira expôs uma preocupante estratégia adotada pelo regime chinês. De acordo com o documento, o governo de Xi Jinping estaria promovendo e incentivando a produção de fentanil no exterior, visando criar instabilidade na América do Norte.
 

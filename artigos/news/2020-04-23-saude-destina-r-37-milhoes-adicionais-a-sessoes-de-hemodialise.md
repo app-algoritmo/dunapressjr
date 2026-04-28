@@ -1,11 +1,12 @@
 ---
-title: "Saúde destina R$ 37 milhões adicionais a sessões de hemodiálise"
+title: Saúde destina R$ 37 milhões adicionais a sessões de hemodiálise
 date: 2020-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Medida visa à assistência integral a pacientes com Doença Renal Crônica durante a pandemia de coronavírus.
 

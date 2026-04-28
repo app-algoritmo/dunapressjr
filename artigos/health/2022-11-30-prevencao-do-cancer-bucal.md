@@ -1,11 +1,12 @@
 ---
-title: "Prevenção do Câncer Bucal"
+title: Prevenção do Câncer Bucal
 date: 2022-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 De acordo com o Instituto Nacional de Câncer (INCA), a estimativa de novos casos é de 15.190, sendo 11.180 homens e 4.010 mulheres – 2020 e do número de mortes é de 6.192, sendo 4.767 homens e 1.425 mulheres – 2020, Atlas de Mortalidade por Câncer/Sistema de Informações sobre Mortalidade (SIM).
 

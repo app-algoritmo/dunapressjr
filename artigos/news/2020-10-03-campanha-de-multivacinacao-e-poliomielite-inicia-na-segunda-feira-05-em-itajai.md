@@ -1,11 +1,12 @@
 ---
-title: "Campanha de multivacinação e poliomielite inicia na segunda-feira (05) em Itajaí"
+title: Campanha de multivacinação e poliomielite inicia na segunda-feira (05) em Itajaí
 date: 2020-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Saúde informa que começa na segunda-feira (05) a Campanha Nacional de Vacinação contra a Poliomielite (paralisia infantil) e a Campanha Nacional de Multivacinação para atualização das cadernetas de vacina de crianças e adolescentes de até 15 anos. O Dia D das campanhas será em 17 de outubro (sábado), quando todas as unidades básicas de saúde estarão abertas à população das 8h às 17h. 
 

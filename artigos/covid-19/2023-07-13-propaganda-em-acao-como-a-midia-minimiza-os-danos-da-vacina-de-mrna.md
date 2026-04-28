@@ -1,11 +1,12 @@
 ---
-title: "Propaganda em ação: como a mídia minimiza os danos da vacina de mRNA"
+title: 'Propaganda em ação: como a mídia minimiza os danos da vacina de mRNA'
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A propaganda é a maneira do tecnocrata de semear confusão e dúvida sobre uma realidade de outra forma evidente. Algumas pessoas chamam isso de “gaslighting”. O que quer que você veja com seus próprios olhos será mal interpretado ou deturpado e, portanto, você deve aceitar a propaganda como verdadeira. Este é um golpe flagrante, mas as pessoas continuam caindo nele, e é por isso que a propaganda continua a ser pulverizada com uma mangueira de incêndio.
 

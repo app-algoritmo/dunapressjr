@@ -1,11 +1,12 @@
 ---
-title: "Blinken considera que houve “algum progresso” com Israel mas pede “mais”"
+title: Blinken considera que houve “algum progresso” com Israel mas pede “mais”
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O secretário de Estado dos Estados Unidos, Antony Blinken, afirmou que **nos últimos dias foram feitos “alguns progressos” para proteger a população da Faixa de Gaza** , mas também assumiu que “mais pode ser feito”, uma vez que acredita que "demasiados" civis perderam a vida.
 

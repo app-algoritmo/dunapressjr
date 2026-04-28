@@ -1,11 +1,12 @@
 ---
-title: "Cinco dicas para saber o que seu filho está acessando na internet"
+title: Cinco dicas para saber o que seu filho está acessando na internet
 date: 2023-08-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o Fundo das Nações Unidas para a Infância (Unicef), 89% das crianças e adolescentes entre 9 e 17 anos em todo o mundo já utilizaram a internet em algum momento da vida. A abrangência dos meios digitais na vida e no cotidiano contemporâneos é tema de discussão, desde a psicologia até a segurança pública, dos governos à sala de aula. E não é para menos, já que estudos têm demonstrado que há uma íntima relação entre o uso de plataformas digitais e o aumento do número de ataques em escolas, por exemplo.Mas como exercer a parentalidade na era digital? Como controlar o conteúdo acessado pelas crianças e adolescentes sem comprometer o pacto de privacidade, que é tão importante para os seres humanos? Para Fernando Brafmann, consultor em Proteção e Segurança Escolar dos colégios do Grupo Positivo, trata-se de entender que o celular é uma porta de acesso a um mundo que não possui apenas conteúdos positivos. “Antes do uso massivo dos celulares, os pais queriam saber quem eram os amigos dos filhos, onde moravam, como eram as famílias deles. Na internet, o raciocínio deve ser o mesmo. É preciso saber o que as crianças estão vendo e como elas consomem esse conteúdo”, alerta.
 

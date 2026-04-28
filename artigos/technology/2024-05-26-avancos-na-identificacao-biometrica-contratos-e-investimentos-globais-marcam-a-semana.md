@@ -1,11 +1,13 @@
 ---
-title: "Avanços na Identificação Biométrica: Contratos e Investimentos Globais Marcam a Semana"
+title: 'Avanços na Identificação Biométrica: Contratos e Investimentos Globais Marcam
+  a Semana'
 date: 2024-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 Na última semana, o tema dos cartões de identificação biométricos dominou as manchetes, com contratos significativos fechados em várias partes do mundo. A Augentic, por exemplo, assinou um contrato de 15 anos para produzir cartões de identificação biométricos nos Camarões, enquanto a Thales recebeu um contrato para modernizar o sistema de identificação do Bahrein. Além disso, investimentos consideráveis estão sendo feitos em tecnologias biométricas no Malawi, Austrália e Zimbabué, destacando o crescente interesse e a expansão dessas tecnologias globalmente.
 

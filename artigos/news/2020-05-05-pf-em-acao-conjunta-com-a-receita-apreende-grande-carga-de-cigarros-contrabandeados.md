@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta com a Receita, apreende grande carga de cigarros contrabandeados"
+title: PF, em ação conjunta com a Receita, apreende grande carga de cigarros contrabandeados
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Porto Alegre/RS** - Ação conjunta da Polícia Federal e da Receita Federal resultou na apreensão de 127 mil maços de cigarros estrangeiros e na prisão em flagrante de cinco pessoas. A mercadoria está avaliada em mais de R$ 500 mil.
 

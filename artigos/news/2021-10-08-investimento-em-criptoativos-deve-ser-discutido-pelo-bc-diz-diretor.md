@@ -1,11 +1,12 @@
 ---
-title: "Investimento em criptoativos deve ser discutido pelo BC, diz diretor"
+title: Investimento em criptoativos deve ser discutido pelo BC, diz diretor
 date: 2021-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bruno Serra disse que esses investimentos têm chamado a atenção do BC.
 

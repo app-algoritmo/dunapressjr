@@ -1,11 +1,12 @@
 ---
-title: "Projeção para a safra de grãos 2023/2024 é de 317,5 milhões de toneladas"
+title: Projeção para a safra de grãos 2023/2024 é de 317,5 milhões de toneladas
 date: 2023-10-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Conab revela primeiras previsões e destaca expectativas para arroz, feijão, soja e milho.
 

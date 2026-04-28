@@ -1,11 +1,12 @@
 ---
-title: "OTAN e a Modernização da Dissuasão Nuclear: Estratégias e Controvérsias"
+title: 'OTAN e a Modernização da Dissuasão Nuclear: Estratégias e Controvérsias'
 date: 2024-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Jens Stoltenberg e o Futuro da OTAN: Mais Armas Nucleares?**
 

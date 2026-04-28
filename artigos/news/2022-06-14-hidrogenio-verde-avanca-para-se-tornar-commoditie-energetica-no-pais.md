@@ -1,11 +1,12 @@
 ---
-title: "Hidrogênio verde avança para se tornar commoditie energética no país"
+title: Hidrogênio verde avança para se tornar commoditie energética no país
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Interesse estrangeiro chama a atenção de empresas brasileiras.
 

@@ -1,11 +1,12 @@
 ---
-title: "O engano da Covid: as sérias consequências da falta de responsabilidade"
+title: 'O engano da Covid: as sérias consequências da falta de responsabilidade'
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## “Isso é um assassinato em massa premeditado e deliberado. Não há absolutamente nenhuma dúvida sobre isso, porque todo o resto não faz sentido. Nós vamos pegá-los.” ​​– Advogado Reiner Fuellmich.
 

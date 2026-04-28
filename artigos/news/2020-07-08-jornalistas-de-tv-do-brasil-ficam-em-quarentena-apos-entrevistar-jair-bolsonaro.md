@@ -1,11 +1,12 @@
 ---
-title: "Jornalistas de TV do Brasil  ficam em quarentena após entrevistar Jair Bolsonaro"
+title: Jornalistas de TV do Brasil  ficam em quarentena após entrevistar Jair Bolsonaro
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As emissoras brasileiras retiraram os jornalistas do cargo depois que foram expostos ao presidente Jair Bolsonaro em uma entrevista em que ele anunciou que havia testado positivo para o coronavírus, colocando-os em quarentena até que testassem negativo para a doença.
 

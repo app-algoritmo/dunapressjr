@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra mais de 2,5 milhões de pessoas recuperadas de Covid-19"
+title: Brasil registra mais de 2,5 milhões de pessoas recuperadas de Covid-19
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Número é superior à quantidade de casos ativos, ou seja, pessoas que estão em acompanhamento médico. Informações foram atualizadas às 18h30 desta terça-feira (18/08).
 

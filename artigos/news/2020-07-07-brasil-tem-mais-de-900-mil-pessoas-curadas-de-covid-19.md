@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem mais de 900 mil pessoas curadas de Covid-19"
+title: Brasil tem mais de 900 mil pessoas curadas de Covid-19
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Número representa mais da metade do total de casos registrados no País.
 

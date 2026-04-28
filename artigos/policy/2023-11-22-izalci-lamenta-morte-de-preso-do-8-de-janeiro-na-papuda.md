@@ -1,11 +1,12 @@
 ---
-title: "Izalci lamenta morte de preso do 8 de janeiro na Papuda"
+title: Izalci lamenta morte de preso do 8 de janeiro na Papuda
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) lamentou a morte de Cleriston Pereira da Cunha, 46 anos, que estava preso no Complexo Penitenciário da Papuda por conta da invasão e vandalismo das sedes dos três Poderes em 8 de janeiro. Em pronunciamento nesta segunda-feira (20), o parlamentar afirmou que Cleriston tinha um parecer de soltura da Procuradoria-Geral da República (PGR), mas faleceu no presídio após uma parada cardíaca nesta segunda.
 

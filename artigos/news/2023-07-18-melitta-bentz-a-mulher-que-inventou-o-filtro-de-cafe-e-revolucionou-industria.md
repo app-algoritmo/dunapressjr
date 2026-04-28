@@ -1,11 +1,12 @@
 ---
-title: "'Melitta Bentz, a mulher que inventou o filtro de café e revolucionou indústria”"
+title: '''Melitta Bentz, a mulher que inventou o filtro de café e revolucionou indústria”'
 date: 2023-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Toda manhã, Melitta Bentz (1873-1950) tomava uma xícara de café. Mas, a cada gole, havia algo que a perturbava. O sabor amargo e os restos dos grãos moídos ficavam na sua boca e acabavam prejudicando aquele momento de prazer. Bentz, que era dona de casa, decidiu tomar então uma atitude. Na sua cozinha em Dresden, sua cidade natal na Alemanha, ela começou a fazer experimentos para tornar o consumo da bebida — que se tornava cada vez mais popular na Europa — ainda mais agradável.
 

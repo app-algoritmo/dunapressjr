@@ -1,11 +1,13 @@
 ---
-title: "Resoluções da área de Fiscalização, Ética e Disciplina são publicadas pelo CFC"
+title: Resoluções da área de Fiscalização, Ética e Disciplina são publicadas pelo
+  CFC
 date: 2020-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Conselho Federal de Contabilidade (CFC) publicou, no Diário Oficial da União, nos dias 26 e 27 de março, algumas resoluções relacionadas à área de Fiscalização, Ética e Disciplina. Aprovadas na reunião Plenária virtual do CFC, realizada no dia 19 de março, as Resoluções nº 1.589, nº 1.590 e nº 1.592 tratam, respectivamente, dos procedimentos de apuração de denúncia, da obrigatoriedade do contrato de prestação de serviços contábeis e da Declaração Comprobatória de Percepção de Rendimentos (Decore Eletrônica).
 

@@ -1,11 +1,12 @@
 ---
-title: "Ipea projeta IPCA e INPC em 5,6% e 5,5% em 2023"
+title: Ipea projeta IPCA e INPC em 5,6% e 5,5% em 2023
 date: 2023-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A projeção foi divulgada nesta terça-feira (28).
 

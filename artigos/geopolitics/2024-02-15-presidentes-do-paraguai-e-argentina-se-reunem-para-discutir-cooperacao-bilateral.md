@@ -1,11 +1,12 @@
 ---
-title: "Presidentes do Paraguai e Argentina se Reúnem para Discutir Cooperação Bilateral"
+title: Presidentes do Paraguai e Argentina se Reúnem para Discutir Cooperação Bilateral
 date: 2024-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente Santiago Peña, do Paraguai, e seu homólogo argentino, Javier Milei, se encontraram nesta quarta-feira em uma reunião bilateral histórica, acompanhados por membros de seus respectivos gabinetes. O encontro foi marcado por discussões sobre desafios comuns em termos de integração regional e projetos estratégicos compartilhados.
 

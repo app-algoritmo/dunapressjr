@@ -1,11 +1,13 @@
 ---
-title: "Paraguai e Estados Unidos fortalecem cooperação em defesa e combate ao crime organizado"
+title: Paraguai e Estados Unidos fortalecem cooperação em defesa e combate ao crime
+  organizado
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente Santiago Peña recebeu a comandante do Comando Sul dos Estados Unidos, general Laura Richardson, que está no país para comemorar 80 anos de cooperação com o Paraguai em segurança e defesa.
 

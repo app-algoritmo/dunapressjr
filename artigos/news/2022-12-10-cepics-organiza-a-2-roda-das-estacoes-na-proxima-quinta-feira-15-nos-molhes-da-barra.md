@@ -1,11 +1,13 @@
 ---
-title: "CEPICS organiza a 2ª Roda das Estações na próxima quinta-feira (15) nos Molhes da Barra"
+title: CEPICS organiza a 2ª Roda das Estações na próxima quinta-feira (15) nos Molhes
+  da Barra
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Saúde de Itajaí, através do Centro de Práticas Integrativas e Complementares em Saúde (CEPICS), realizará a 2ª Roda das Estações na próxima quinta-feira (15), das 8h às 10h. O evento terá práticas de Terapia Comunitária Integrativa (TCI), Yogaterapia e Dança Circular. A ação ocorrerá nos Molhes da Barra, na praia do Atalaia.
 

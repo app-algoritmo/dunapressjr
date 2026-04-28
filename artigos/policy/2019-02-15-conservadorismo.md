@@ -1,11 +1,12 @@
 ---
-title: "Conservadorismo"
+title: Conservadorismo
 date: 2019-02-15
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Policy
+- Policy
 ---
+
 
 Conservador , sim, ideólogo e moralista, nunca. 
 

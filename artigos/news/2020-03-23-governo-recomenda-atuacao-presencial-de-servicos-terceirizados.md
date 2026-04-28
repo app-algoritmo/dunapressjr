@@ -1,11 +1,12 @@
 ---
-title: "Governo recomenda atuação presencial de serviços terceirizados"
+title: Governo recomenda atuação presencial de serviços terceirizados
 date: 2020-03-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Economia (ME) divulgou um comunicado, no sábado (21), em que orienta os órgãos e entidades da Administração Pública Federal para que a atuação presencial de serviços terceirizados fique limitada ao atendimento de atividades essenciais. Os terceirizados devem atuar apenas para a manutenção de serviços como segurança patrimonial e sanitária. As recomendações foram realizadas considerando a pandemia do novo coronavírus (Covid-19).
 Para os casos de ausência do prestador do serviço em razão da situação de calamidade pública, o ministério orienta os órgãos e as empresas a considerarem a falta como justificada. “É preciso deixar claro que os prestadores de serviços terceirizados colocados em trabalho remoto ou que estejam em escalas de revezamento terão a manutenção do auxílio-alimentação assegurada, pois o serviço terá continuidade”, afirmou o secretário de Gestão do Ministério da Economia, Cristiano Heckert.

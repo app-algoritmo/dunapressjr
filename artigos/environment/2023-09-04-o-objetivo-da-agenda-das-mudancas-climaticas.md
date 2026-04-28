@@ -1,11 +1,12 @@
 ---
-title: "O objetivo da agenda das “mudanças climáticas”"
+title: O objetivo da agenda das “mudanças climáticas”
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Em última análise, as “mudanças climáticas” não têm a ver com combustíveis fósseis e venda de veículos eléctricos. Em vez disso, é um meio para um fim, um objectivo diabólico e sinistro de controlo em benefício da elite: o despovoamento.
 

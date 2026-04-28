@@ -1,11 +1,12 @@
 ---
-title: "Estudo: Os anticorpos contra o coronavírus infantil diminuem com o tempo"
+title: 'Estudo: Os anticorpos contra o coronavírus infantil diminuem com o tempo'
 date: 2021-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Novo estudo do Shaare Zedek Medical Center mostra que a grande maioria das crianças não tinha anticorpos COVID-19 detectáveis ​​quatro meses após a doença.
 

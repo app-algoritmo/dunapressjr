@@ -1,11 +1,12 @@
 ---
-title: "Caetanópolis é reconhecida nacionalmente por uso de indicadores da Educação"
+title: Caetanópolis é reconhecida nacionalmente por uso de indicadores da Educação
 date: 2022-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Mais matrículas, menor número de retenções de alunos do Ensino Básico e uma gestão educacional mais assertiva: a Secretaria de Educação de Caetanópolis vem conseguindo resultados significativos com o uso da plataforma SimeB, do Sistema de Ensino Aprende Brasil. Agora, esses resultados estão sendo reconhecidos nacionalmente pelo Panorama SimeB.
 

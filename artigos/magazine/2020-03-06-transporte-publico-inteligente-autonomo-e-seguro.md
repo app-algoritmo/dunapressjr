@@ -1,11 +1,12 @@
 ---
-title: "Transporte público inteligente, autônomo e seguro"
+title: Transporte público inteligente, autônomo e seguro
 date: 2020-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Autonomia Aplicada fornece conhecimento e serviços para transporte autônomo sustentável. - O apoio da Innovation Norway foi um pré-requisito para o nosso crescimento, diz o CEO Olav Madland.
 

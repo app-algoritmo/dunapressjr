@@ -1,11 +1,13 @@
 ---
-title: "Novos documentos mostram que Pfizer e CDC retiveram evidências de miocardite após injeções de COVID"
+title: Novos documentos mostram que Pfizer e CDC retiveram evidências de miocardite
+  após injeções de COVID
 date: 2023-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *A Pfizer e os Centros de Controle e Prevenção de Doenças (CDC) retiveram evidências de que as vacinas COVID-19 causam inflamação do músculo cardíaco. Isso está de acordo com documentos obtidos pela Children's Health Defense sobre uma solicitação da Lei de Liberdade de Informação com o CDC, bem como documentos vazados para o Projeto Veritas esta semana.*
 

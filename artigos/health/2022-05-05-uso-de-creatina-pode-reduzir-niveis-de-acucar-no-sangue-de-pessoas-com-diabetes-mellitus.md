@@ -1,11 +1,13 @@
 ---
-title: "Uso de creatina pode reduzir níveis de açúcar no sangue de pessoas com diabetes mellitus"
+title: Uso de creatina pode reduzir níveis de açúcar no sangue de pessoas com diabetes
+  mellitus
 date: 2022-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um estudo feito por Matheus Anselmo Medeiros e Meline Gomes Gonçalves, mestres em Bioquímica e Biologia Molecular da Universidade Federal do Rio Grande do Norte (UFRN), avaliou os efeitos da suplementação da creatina como terapia auxiliar no tratamento de pessoas com diabetes* mellitus*, tipo 1.
 

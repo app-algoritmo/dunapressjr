@@ -1,11 +1,12 @@
 ---
-title: "Máscara feita de fibra de crustáceos inativa vírus da COVID-19"
+title: Máscara feita de fibra de crustáceos inativa vírus da COVID-19
 date: 2021-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bolsistas da Coordenação de Pessoal de Nível Superior (CAPES) pelo Programa de Pós-Graduação em Sistemas Mecatrônicos da Universidade de Brasília (UnB) desenvolveram um respirador facial que barra e inativa o coronavírus.  A máscara, de fabricação 100% nacional, é feita a partir de um nanofilme que usa quitosana, uma fibra natural existente na casca de crustáceos. Desse modo, o equipamento tem ação antimicrobiana e maior capacidade de filtrar o vírus.
 

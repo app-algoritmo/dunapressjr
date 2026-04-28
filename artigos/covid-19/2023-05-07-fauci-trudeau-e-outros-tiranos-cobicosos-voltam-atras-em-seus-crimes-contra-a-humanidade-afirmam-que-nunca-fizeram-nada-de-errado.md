@@ -1,11 +1,13 @@
 ---
-title: "Fauci, Trudeau e outros tiranos cobiçosos voltam atrás em seus crimes contra a humanidade, afirmam que nunca fizeram nada de errado"
+title: Fauci, Trudeau e outros tiranos cobiçosos voltam atrás em seus crimes contra
+  a humanidade, afirmam que nunca fizeram nada de errado
 date: 2023-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Agora que está claro que a “pandemia” do coronavírus Wuhan (Covid-19) é um navio que está afundando, grandes figuras do governo como Tony Fauci, Justin Trudeau e muitos outros que agressivamente pressionaram e impuseram a tirania cobiçosa estão voltando atrás e [fingindo](https://www.theepochtimes.com/analysis-efforts-to-rewrite-history-fauci-weingarten-and-trudeau-reframe-positions-on-covid-19-response_5240453.html) ser embora eles nunca tenham feito nada de errado.
 

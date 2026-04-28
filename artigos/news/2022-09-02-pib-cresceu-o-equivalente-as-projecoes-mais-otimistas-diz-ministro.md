@@ -1,11 +1,12 @@
 ---
-title: "PIB cresceu o equivalente às projeções mais otimistas, diz ministro"
+title: PIB cresceu o equivalente às projeções mais otimistas, diz ministro
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes voltou a defender tributação de dividendos.
 

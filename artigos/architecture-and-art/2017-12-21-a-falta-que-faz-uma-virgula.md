@@ -1,11 +1,12 @@
 ---
-title: "A Falta que faz uma vírgula"
+title: A Falta que faz uma vírgula
 date: 2017-12-21
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Preparar um texto para publicação é mais que um desafio: é uma participação que faz do revisor quase um coautor da obra. Nessa trajetória de muito prazer e lágrimas, não há quem não tenha dúvidas quanto à colocação de vírgulas. Há alguns anos escrevi um texto sobre o assunto, que foi publicado no Observatório da Imprensa e posteriormente utilizado no treinamento de professores para a rede estadual paulista. Como a vírgula não foi feita para humilhar ninguém, deixo aqui este recado para os que querem ler e escrever com fluência e clareza. Vamos a ele:
 

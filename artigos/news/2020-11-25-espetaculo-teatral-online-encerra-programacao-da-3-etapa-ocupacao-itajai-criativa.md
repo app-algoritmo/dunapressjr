@@ -1,11 +1,13 @@
 ---
-title: "Espetáculo teatral online encerra programação da 3ª etapa “Ocupação Itajaí Criativa”"
+title: Espetáculo teatral online encerra programação da 3ª etapa “Ocupação Itajaí
+  Criativa”
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A terceira etapa da Ocupação Itajaí Criativa que, tradicionalmente, é realizada em Itajaí na Casa Almeida e Voight, está ocupando o universo online. A programação do evento encerra nesta sexta (27) e sábado (28), às 20h, com a performance de teatro “Homens Pink”, da Cia. La Vaca, de Florianópolis.
 

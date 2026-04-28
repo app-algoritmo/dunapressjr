@@ -1,11 +1,12 @@
 ---
-title: "IPCA: preço do combustível impactou alta recorde da inflação oficial"
+title: 'IPCA: preço do combustível impactou alta recorde da inflação oficial'
 date: 2022-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Taxa acumulada em 12 meses é a maior desde 2003.
 

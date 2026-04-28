@@ -1,11 +1,12 @@
 ---
-title: "Sisu com inscrições adiadas e segue de 7 até 10 de julho"
+title: Sisu com inscrições adiadas e segue de 7 até 10 de julho
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estão disponíveis 51 mil vagas em instituições públicas.
 

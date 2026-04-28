@@ -1,11 +1,12 @@
 ---
-title: "Creme para pés ressecados é seguro? Quais são os benefícios?"
+title: Creme para pés ressecados é seguro? Quais são os benefícios?
 date: 2022-11-21
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Um [creme para pés ressecados](https://blog.mantecorpskincare.com.br/hidratacao/creme-para-pes-ressecados/) pode aliviar a pele espessa, coceira, ulceração, sangramento, pele avermelhada e inflamada. 
 

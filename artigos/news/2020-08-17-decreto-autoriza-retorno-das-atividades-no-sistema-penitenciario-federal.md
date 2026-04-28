@@ -1,11 +1,12 @@
 ---
-title: "Decreto autoriza retorno das atividades no Sistema Penitenciário Federal"
+title: Decreto autoriza retorno das atividades no Sistema Penitenciário Federal
 date: 2020-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Departamento Penitenciário Nacional (Depen) autorizou o retorno das visitas virtuais dos presos custodiados no Sistema Penitenciário Federal (SPF).  A [Portaria nº 35](https://www.in.gov.br/web/dou/-/portaria-dispf-n-35-de-12-de-agosto-de-2020-272236793), de 12 de agosto de 2020, determina que as visitas acontecerão por intermédio das unidades da Defensoria Pública da União (DPU) e que apresentem condições para a realização. A Portaria permite também a volta dos atendimentos regulares presenciais de advogados.
 

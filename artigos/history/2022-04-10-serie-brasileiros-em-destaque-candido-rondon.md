@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Cândido Rondon"
+title: 'Série Brasileiros em Destaque: Cândido Rondon'
 date: 2022-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O explorador, pacificador e geógrafo Marechal Cândido Mariano da Silva Rondon ficou conhecido pelo lema "Matar nunca, morrer se preciso for", que dá a dimensão do seu caráter pacificador. Bacharel em ciências físicas e naturais, foi professor de astronomia, mecânica e matemática. Abandonou o magistério para dedicar-se à construção de linhas telegráficas pelo interior do Brasil, atendendo à solicitação do governo federal. 
 

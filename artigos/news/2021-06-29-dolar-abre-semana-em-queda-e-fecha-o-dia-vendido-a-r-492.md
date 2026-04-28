@@ -1,11 +1,12 @@
 ---
-title: "Dólar abre semana em queda e fecha o dia vendido a R$ 4,92"
+title: Dólar abre semana em queda e fecha o dia vendido a R$ 4,92
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa reagiu perto do fim da sessão e subiu 0,17%.
 

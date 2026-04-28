@@ -1,11 +1,12 @@
 ---
-title: "1º Encontro Monarquista do ABC/SP: Sentido e Significado"
+title: '1º Encontro Monarquista do ABC/SP: Sentido e Significado'
 date: 2019-07-20
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Sim! Eu participei do I Encontro Monárquico do ABC, organizado pelo Movimento Nação Real, liderado pela administradora e teóloga prof.a Deusati Cardoso. Iniciativa ousada, por ser um evento realizado em território inimigo: berço progressista, esquerdista e sindicalista do Brasil, franca oposição aos valores tradicionais representados pela Monarquia. Aqui você vai ler os principais fatos que marcaram os bastidores desse evento histórico e que coroa (literalmente) o esforço dos monarquistas, até hoje perseguidos por suas ideias e rejeitados mesmo por alguns movimentos de Direita. Antes da Constituição de 1988, defender a Monarquia era proibido e quem o fizesse poderia responder a processo e ser preso.
 

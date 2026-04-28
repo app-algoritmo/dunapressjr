@@ -1,11 +1,12 @@
 ---
-title: "Reajustes salariais de julho ficaram 70,3% abaixo do INPC, mostra Fipe"
+title: Reajustes salariais de julho ficaram 70,3% abaixo do INPC, mostra Fipe
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Piso salarial mediano chegou a R$ 1.441.
 

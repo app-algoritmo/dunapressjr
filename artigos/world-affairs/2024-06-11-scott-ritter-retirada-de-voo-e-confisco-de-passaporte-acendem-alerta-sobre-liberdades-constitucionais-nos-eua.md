@@ -1,11 +1,13 @@
 ---
-title: "Scott Ritter: Retirada de Voo e Confisco de Passaporte Acendem Alerta Sobre Liberdades Constitucionais nos EUA"
+title: 'Scott Ritter: Retirada de Voo e Confisco de Passaporte Acendem Alerta Sobre
+  Liberdades Constitucionais nos EUA'
 date: 2024-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ex-Inspetor de Armas da ONU Vê Seus Direitos Violados em Ação Polêmica do Governo Americano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra Operação Sem Fronteiras para combater corrupção transnacional"
+title: Polícia Federal deflagra Operação Sem Fronteiras para combater corrupção transnacional
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Macapá/AP** – A Polícia Federal deflagrou, nesta quinta-feira (14/5), com o apoio da Procuradoria Regional da República da 1ª Região (MPF) e da Polícia Metropolitana de Londres (*Metropolitan Police* – conhecida como *Scotland Yard*), a Operação Sem Fronteiras para apurar a prática de corrupção transnacional envolvendo empresa multinacional do ramo de mineração e parlamentar estadual vinculado à Assembleia Legislativa do Amapá.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ecoponto de Itajaí bate novo recorde e encerra 2022 com mais de 800 m³ de recicláveis recolhidos"
+title: Ecoponto de Itajaí bate novo recorde e encerra 2022 com mais de 800 m³ de recicláveis
+  recolhidos
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ecoponto de Itajaí, mantido pelo Município e a empresa Ambiental, bateu novo recorde no mês de dezembro e encerrou o ano de 2022 com 803,24 m³ de resíduos recicláveis recolhidos. O número total representa mais de 130% de aumento na coleta de materiais em comparação com o ano anterior.
 

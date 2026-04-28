@@ -1,11 +1,12 @@
 ---
-title: "Policiais apreendem veículo com produtos alimentícios irregulares no Rio Paraná"
+title: Policiais apreendem veículo com produtos alimentícios irregulares no Rio Paraná
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Por volta das 23h, no dia 08/04, policiais federais e da Força Nacional, durante patrulhamento terrestre na região da Avenida Beira Rio, visualizaram uma movimentação suspeita no local conhecido como Porto do Ivo, em Foz do Iguaçu.
 

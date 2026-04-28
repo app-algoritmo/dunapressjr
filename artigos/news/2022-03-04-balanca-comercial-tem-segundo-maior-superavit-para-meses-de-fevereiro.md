@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem segundo maior superávit para meses de fevereiro"
+title: Balança comercial tem segundo maior superávit para meses de fevereiro
 date: 2022-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações superaram importações em US$ 4,05 bilhões.
 

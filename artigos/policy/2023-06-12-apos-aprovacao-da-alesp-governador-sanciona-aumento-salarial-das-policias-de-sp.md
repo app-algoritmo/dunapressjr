@@ -1,11 +1,13 @@
 ---
-title: "Após aprovação da Alesp, governador sanciona aumento salarial das polícias de SP"
+title: Após aprovação da Alesp, governador sanciona aumento salarial das polícias
+  de SP
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Reajuste médio será de 20,2% e passa a valer a partir de 1º de julho, beneficiando mais de 100 mil integrantes das forças estaduais de segurança.
 

@@ -1,11 +1,12 @@
 ---
-title: "Registro nacional de equipamentos agrícolas tem sistema finalizado pelo Mapa"
+title: Registro nacional de equipamentos agrícolas tem sistema finalizado pelo Mapa
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A plataforma, que deve ser lançada em agosto, permitirá o registro oficial de tratores e equipamentos agrícolas, sem custo para o produtor rural.
 

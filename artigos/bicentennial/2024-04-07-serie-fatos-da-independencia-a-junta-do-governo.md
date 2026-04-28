@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A junta do governo"
+title: 'Série Fatos Da Independência: A junta do governo'
 date: 2024-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Contagiada pela aclamação de Independência em Sergipe, a Câmara de São Cristóvão procedeu imediatamente à eleição de uma Junta provisória de Governo. A elite local teria de deixar de lado suas divergências sobre a Independência para assumir o controle da Junta. Seus membros eram compostos por absolutistas, caso de José Martins Leite Sampaio, por apoiadores da reanexação de Sergipe, como o coronel Domingos Dias Coelho, e de entusiastas de Dom Pedro, a exemplo do vigário Serafim Alves da Rocha e do padre José Francisco de Menezes Sobral. Apesar das diferentes posições políticas, a aclamação em São Cristóvão representou a oportunidade para formar uma frente unida e recuperar a proeminência da capital.
 

@@ -1,11 +1,12 @@
 ---
-title: "Com taxa regulada, juro do cheque especial cai a 7,2% em fevereiro"
+title: Com taxa regulada, juro do cheque especial cai a 7,2% em fevereiro
 date: 2020-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Juros de outras modalidades de crédito subiram no mês passado
 

@@ -1,11 +1,13 @@
 ---
-title: "Escolha da Rainha e Princesas da 37ª Festa do Colono em Itajaí ocorre neste sábado (04)"
+title: Escolha da Rainha e Princesas da 37ª Festa do Colono em Itajaí ocorre neste
+  sábado (04)
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 Neste sábado (04), serão escolhidas a Rainha e as Princesas da 37ª Festa Nacional do Colono de Itajaí. O evento ocorrerá no salão do Parque do Agricultor, a partir das 20h. Ao todo, 18 candidatas representam as 18 comunidades rurais de Itajaí no concurso.
 

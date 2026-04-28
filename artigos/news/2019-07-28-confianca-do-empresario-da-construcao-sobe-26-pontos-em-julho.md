@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário da construção sobe 2,6 pontos em julho"
+title: Confiança do empresário da construção sobe 2,6 pontos em julho
 date: 2019-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pela segunda vez consecutiva o setor de construção civil tem alta. O Índice de Confiança da Construção (ICST), medido pela Fundação Getulio Vargas (FGV), subiu 2,6 pontos de junho para julho deste ano. Com o resultado, que foi a segunda alta consecutiva, o indicador chegou a 85,4 pontos, em uma escala de zero a 200 pontos, e voltou ao nível observado em dezembro de 2018.
 

@@ -1,11 +1,13 @@
 ---
-title: "Circuito Futebol Social movimenta o CEU Campo Limpo, na capital paulista, em dia de disputa, lazer e diversão"
+title: Circuito Futebol Social movimenta o CEU Campo Limpo, na capital paulista, em
+  dia de disputa, lazer e diversão
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em sua penúltima etapa da temporada, o Circuito Futebol Social 2022 movimentou o CEU Campo Limpo, em um sábado (10) de muito calor em São Paulo (SP). Foi a Etapa Grande São Paulo do evento, a sétima do ano, reunindo times formados por jovens carentes de projetos sociais de bairros da capital paulista. Um torneio que vai além da disputa em si. Leva confraternização, lazer e diversão por onde passa, conectando jovens e comunidades carentes por meio do esporte.
 

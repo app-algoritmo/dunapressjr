@@ -1,11 +1,12 @@
 ---
-title: "Copom iniciou quinta reunião do ano para definir taxa Selic"
+title: Copom iniciou quinta reunião do ano para definir taxa Selic
 date: 2022-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa é que a taxa suba de 13,25% para 13,75% ao ano.
 

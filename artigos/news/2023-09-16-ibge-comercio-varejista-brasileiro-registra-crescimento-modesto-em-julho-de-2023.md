@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Comércio varejista brasileiro registra crescimento modesto em julho de 2023"
+title: 'IBGE: Comércio varejista brasileiro registra crescimento modesto em julho
+  de 2023'
 date: 2023-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vendas avançam 0,7%, com setores específicos impulsionando o mercado.
 

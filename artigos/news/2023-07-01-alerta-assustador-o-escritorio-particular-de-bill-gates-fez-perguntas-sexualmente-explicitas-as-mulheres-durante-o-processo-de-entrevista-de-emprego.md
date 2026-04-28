@@ -1,11 +1,13 @@
 ---
-title: "Alerta assustador: o escritório particular de Bill Gates fez perguntas sexualmente explícitas às mulheres durante o processo de entrevista de emprego"
+title: 'Alerta assustador: o escritório particular de Bill Gates fez perguntas sexualmente
+  explícitas às mulheres durante o processo de entrevista de emprego'
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 As mulheres que procuram emprego na Gates Ventures, o escritório particular do bilionário Bill Gates, enfrentaram questionamentos sexualmente explícitos durante um processo de triagem intensivo. O assustador bilionário Bill Gates tem uma longa história de perseguir mulheres na Microsoft para casos sexuais, sem mencionar sua amizade com o criminoso sexual condenado Jeffrey Epstein.
 

@@ -1,11 +1,13 @@
 ---
-title: "Cadeia de suprimentos em colapso à medida que alguns trabalhadores desistem, outros morrem de “vacinas” COVID"
+title: Cadeia de suprimentos em colapso à medida que alguns trabalhadores desistem,
+  outros morrem de “vacinas” COVID
 date: 2023-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os americanos estão fartos de trabalhar como escravos por uma ninharia em grandes corporações administradas por executivos bem pagos – ou isso ou muitos deles ficaram doentes ou morreram por serem “vacinados” para o coronavírus Wuhan (COVID-19) e não podem mais trabalhar.
 

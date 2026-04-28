@@ -1,11 +1,12 @@
 ---
-title: "Proposta contém acordo sobre vistos entre Brasil e Arábia Saudita"
+title: Proposta contém acordo sobre vistos entre Brasil e Arábia Saudita
 date: 2023-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Decreto Legislativo (PDL) 463/22 aprova acordo sobre vistos entre Brasil e Arábia Saudita, assinado em 2019. Segundo o acordo, em análise na Câmara dos Deputados, as partes concederão vistos de visita com prazo de validade de até cinco anos, para um período autorizado de estada de até 90 dias e um total de 180 dias por ano, desde que o solicitante apresente passaporte válido.
 

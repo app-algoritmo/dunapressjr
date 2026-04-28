@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa no Ceará"
+title: PF combate crime de moeda falsa no Ceará
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE - A Polícia Federal prendeu em flagrante delito, na manhã desta sexta-feira, 19/6, na capital cearense, uma mulher, de 23 nos, com a quantia de R$ 7 mil, distribuída entre notas R$ 100, R$ 50 e R$ 20 , em cédulas falsas.
 

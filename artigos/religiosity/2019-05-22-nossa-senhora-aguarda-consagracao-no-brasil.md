@@ -1,11 +1,12 @@
 ---
-title: "Nossa Senhora aguarda Consagração no Brasil"
+title: Nossa Senhora aguarda Consagração no Brasil
 date: 2019-05-22
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Embora divulgado amplamente pelas redes sociais e confirmado por diversos parlamentares, que provavelmente tinham a expectativa que ocorresse a Consagração do Brasil ao Imaculado Coração de Maria, o que se viu ontem foi uma homenagem a Nossa Senhora, porém sem o brilho do rito necessário a uma Consagração, procedimento litúrgico que obedece a um processo formal e exige compromisso espiritual dos dirigentes de um país que busca o crescimento espiritual da população e a proteção efetiva da Mãe de Deus.
 

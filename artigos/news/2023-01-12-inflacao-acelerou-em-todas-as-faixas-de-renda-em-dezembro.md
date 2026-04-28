@@ -1,11 +1,12 @@
 ---
-title: "Inflação acelerou em todas as faixas de renda em dezembro"
+title: Inflação acelerou em todas as faixas de renda em dezembro
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento de preços foi mais intenso para famílias de renda muito baixa.
 

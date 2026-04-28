@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,24 e fecha no maior valor em três semanas"
+title: Dólar sobe para R$ 5,24 e fecha no maior valor em três semanas
 date: 2021-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fechou praticamente estável, após subir à tarde.
 

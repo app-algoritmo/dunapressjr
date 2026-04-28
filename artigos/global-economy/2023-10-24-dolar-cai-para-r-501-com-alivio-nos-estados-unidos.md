@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,01 com alívio nos Estados Unidos"
+title: Dólar cai para R$ 5,01 com alívio nos Estados Unidos
 date: 2023-10-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recua 0,33%, influenciada por anúncio da Petrobras.
 

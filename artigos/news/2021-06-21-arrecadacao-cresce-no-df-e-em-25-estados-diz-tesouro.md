@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação cresce no DF e em 25 estados, diz Tesouro"
+title: Arrecadação cresce no DF e em 25 estados, diz Tesouro
 date: 2021-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Relatório traz dados orçamentários do primeiro quadrimestre de 2021.
 

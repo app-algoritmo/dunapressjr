@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,65 e tem maior queda diária desde fim de janeiro"
+title: Dólar cai para R$ 5,65 e tem maior queda diária desde fim de janeiro
 date: 2021-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores sobe 1,23% e aproxima-se dos 113 mil pontos.
 

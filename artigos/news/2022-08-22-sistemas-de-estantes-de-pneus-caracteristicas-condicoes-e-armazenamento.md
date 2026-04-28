@@ -1,11 +1,12 @@
 ---
-title: "Sistemas de estantes de pneus: características, condições e armazenamento"
+title: 'Sistemas de estantes de pneus: características, condições e armazenamento'
 date: 2022-08-22
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Devido às suas características específicas, os pneus são um dos produtos mais comuns e complexos para armazenar , por isso são projetados sistemas de estantes especialmente adaptados para eles.
 

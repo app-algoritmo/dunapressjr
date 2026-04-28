@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Os sertões do Ceará no início do século"
+title: 'Série Fatos Da Independência: Os sertões do Ceará no início do século'
 date: 2023-08-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Muitos viajantes e governantes descreveram o território da capitania do Ceará como terra arrasada: solo árido, muitas secas, poucas oportunidades para produzir e muitas dificuldades para viver. O árido solo cearense mostrou-se, entretanto, fértil para alguns tipos de produção: cultivava-se algodão, cana-de-açúcar e, também, revoluções.
 

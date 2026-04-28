@@ -1,11 +1,13 @@
 ---
-title: "MEC ouvirá alunos e professores do ensino superior sobre as substituições de aulas presenciais em tempos de pandemia"
+title: MEC ouvirá alunos e professores do ensino superior sobre as substituições de
+  aulas presenciais em tempos de pandemia
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A iniciativa faz parte do monitoramento sobre a substituição de aulas presenciais por aulas remotas durante a pandemia de Covid-19, estabelecida pela Portaria nº 544, de 16 de junho de 2020.
 

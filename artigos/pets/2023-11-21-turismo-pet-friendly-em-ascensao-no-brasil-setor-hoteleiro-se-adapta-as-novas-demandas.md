@@ -1,11 +1,13 @@
 ---
-title: "Turismo pet friendly em ascensão no Brasil: setor hoteleiro se adapta às novas demandas"
+title: 'Turismo pet friendly em ascensão no Brasil: setor hoteleiro se adapta às novas
+  demandas'
 date: 2023-11-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Pesquisa do Booking.com revela que 46% dos brasileiros priorizam empreendimentos que aceitam animais de estimação ao escolher um destino de férias, superando a média global.
 

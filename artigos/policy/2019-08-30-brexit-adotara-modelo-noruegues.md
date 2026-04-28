@@ -1,11 +1,12 @@
 ---
-title: "Brexit adotará 'modelo norueguês'?"
+title: Brexit adotará 'modelo norueguês'?
 date: 2019-08-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Há países que não se sentam à mesa das cimeiras da União Europeia, mas tentam aproveitar o melhor do mercado único através do Espaço Econômico Europeu. Esta área criada pelas instituições comunitárias alargou o mercado interno à Noruega, Islândia e Liechtenstein.
 

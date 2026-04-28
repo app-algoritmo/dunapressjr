@@ -1,11 +1,13 @@
 ---
-title: "PF, em ação integrada, apreende caminhão carregado com 600 caixas de cigarros contrabandeados"
+title: PF, em ação integrada, apreende caminhão carregado com 600 caixas de cigarros
+  contrabandeados
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Terra Roxa/PR – Na madrugada deste domingo, 5/7, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

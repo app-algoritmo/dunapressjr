@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal entrega obras de melhorias em aeroportos do Pará"
+title: Governo Federal entrega obras de melhorias em aeroportos do Pará
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura entregou obras de melhoria nos aeroportos de Santarém (PA) e de Oriximiná (PA). Os investimentos do Governo Federal somam mais de R$ 18 milhões nos dois aeródromos.
 

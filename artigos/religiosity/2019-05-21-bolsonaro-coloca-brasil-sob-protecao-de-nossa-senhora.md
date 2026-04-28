@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro coloca Brasil sob proteção de Nossa Senhora"
+title: Bolsonaro coloca Brasil sob proteção de Nossa Senhora
 date: 2019-05-21
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Depois de muitas especulações na internet, o presidente Jair Bolsonaro assina hoje (21/5) às 14 horas, no Palácio do Planalto, o documento de Consagração do Brasil ao Imaculado Coração de Maria. A informação foi confirmada pela deputada Chris Tonietto (PSL-RJ). O ato foi idealizado pelo deputado Eros Biondini (PROS-RJ), junto da Congregação Mariana e outros grupos católicos, e conta com a presença do bispo da Administração Apostólica São João Maria Vianney, Dom Fernando Rifam.
 

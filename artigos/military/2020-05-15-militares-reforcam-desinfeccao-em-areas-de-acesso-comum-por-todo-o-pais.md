@@ -1,11 +1,12 @@
 ---
-title: "Militares reforçam desinfecção em áreas de acesso comum por todo o País"
+title: Militares reforçam desinfecção em áreas de acesso comum por todo o País
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Para combater a disseminação do novo coronavírus as Forças Armadas intensificaram as desinfecções das áreas comuns de diversas localidades por todo o País. Uma das igrejas mais tradicionais de Belém, no Pará, a Basílica Santuário Nossa Senhora de Nazaré, construída em estilo neoclássico, teve suas áreas internas e externas descontaminadas por cerca de 50 militares.
 

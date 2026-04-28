@@ -1,12 +1,14 @@
 ---
-title: "Escritório de Biden onde havia documentos sigilosos sobre Irã e Ucrânia teria vínculos com a China"
+title: Escritório de Biden onde havia documentos sigilosos sobre Irã e Ucrânia teria
+  vínculos com a China
 date: 2023-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 Ninguém está acima da lei, nem mesmo o presidente dos Estados Unidos. Essa é a mensagem que o Departamento de Justiça transmitiu. Ele faz parte de uma equipe que inclui o procurador dos EUA para investigar documentos confidenciais de Joe Biden.
 

@@ -1,11 +1,12 @@
 ---
-title: "O mestre das caras novas"
+title: O mestre das caras novas
 date: 2018-02-09
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Books
+- Books
 ---
+
 
 Chega nesta semana, depois de muitas conversas, cafés, chopinhos e intermináveis horas de trabalhos conjuntos, o novo diretor e editor de Arte da DUNA Writers, Joaquim Ferreira Sobrinho. A foto que abre este artigo, mais uma apresentação simpática de boas-vindas, sintetiza o jeito de ser e de trabalhar do Ferreira, que foi meu chefe na revista SuperVarejo, onde fui repórter por nove anos antes de voltar ao magistério, e que antes e depois de mim continuou a fazer um excelente trabalho junto à APAS (Associação Paulista de Supermercados), que distribui mais de 70 mil exemplares mensais da revista por supermercados de todo o país. Neste momento ele dirige uma agência de comunicação que marca presença no cenário empresarial de São Paulo e seus clientes podem contar com o melhor profissional de comunicação do mercado varejista.
 

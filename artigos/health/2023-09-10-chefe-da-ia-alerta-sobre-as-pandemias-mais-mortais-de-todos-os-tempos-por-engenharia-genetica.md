@@ -1,11 +1,13 @@
 ---
-title: "Chefe da IA alerta sobre 'as pandemias mais mortais de todos os tempos' por engenharia genética"
+title: Chefe da IA alerta sobre 'as pandemias mais mortais de todos os tempos' por
+  engenharia genética
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A inteligência artificial e a engenharia genética – usadas individualmente ou em conjunto – podem criar ou acabar com a vida na Terra, diz DeepMind, cofundador de tecnologia do Google.
 

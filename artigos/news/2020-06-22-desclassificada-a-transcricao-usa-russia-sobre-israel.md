@@ -1,11 +1,12 @@
 ---
-title: "Desclassificada a transcrição USA-Rússia sobre Israel"
+title: Desclassificada a transcrição USA-Rússia sobre Israel
 date: 2020-06-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Transcrição de Flynn mostra que a Rússia se opôs à resolução de Obama da ONU sobre Israel.
 

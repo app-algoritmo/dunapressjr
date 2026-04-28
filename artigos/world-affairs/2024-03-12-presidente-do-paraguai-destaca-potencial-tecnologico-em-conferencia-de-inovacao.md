@@ -1,11 +1,12 @@
 ---
-title: "Presidente do Paraguai destaca potencial tecnológico em conferência de inovação"
+title: Presidente do Paraguai destaca potencial tecnológico em conferência de inovação
 date: 2024-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Presidente da República do Paraguai, Santiago Peña, marcou presença na abertura da conferência sobre tecnologia e inovação intitulada "Conferência Exponencial Paraguai: 'Transformando mentes, criando o futuro'". O evento, que reúne renomados profissionais da Singularity University, está acontecendo no Paseo La Galería, em Assunção, até segunda-feira à tarde.
 

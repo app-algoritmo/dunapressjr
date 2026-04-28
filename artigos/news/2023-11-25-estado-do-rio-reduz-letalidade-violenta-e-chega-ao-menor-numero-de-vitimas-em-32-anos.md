@@ -1,11 +1,13 @@
 ---
-title: "Estado do Rio reduz letalidade violenta e chega ao menor número de vítimas em 32 anos"
+title: Estado do Rio reduz letalidade violenta e chega ao menor número de vítimas
+  em 32 anos
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Roubos de rua, de carga e de veículos também registraram reduções expressivas em outubro.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Brasil e o Intervencionismo"
+title: O Brasil e o Intervencionismo
 date: 2024-05-20
 status: publish
-author: sabervirtuosodunapress
+author: Saber Virtuoso
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Como livrar o Brasil da interferência exagerada do Estado? A população brasileira estaria preparada para aceitar menos intervenção do Estado e mais liberdade econômica?
 

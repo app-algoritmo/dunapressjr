@@ -1,11 +1,13 @@
 ---
-title: "Deputado Luiz Philipe de Orleans Bragança revela as Fake News sobre a Reforma Tributária"
+title: Deputado Luiz Philipe de Orleans Bragança revela as Fake News sobre a Reforma
+  Tributária
 date: 2023-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em um artigo publicado em seu site, o deputado apresenta os detalhes.
 

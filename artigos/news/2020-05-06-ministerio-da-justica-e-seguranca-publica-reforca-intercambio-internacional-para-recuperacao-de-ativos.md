@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública reforça intercâmbio internacional para recuperação de ativos"
+title: Ministério da Justiça e Segurança Pública reforça intercâmbio internacional
+  para recuperação de ativos
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 05/05/2020 - **O Ministério da Justiça e Segurança Pública (MJSP) trabalha num modelo mais facilitado de parceria com órgãos de investigação para identificar ativos desviados ao exterior. O procedimento é extremamente simples, rápido e célere, não sendo exigida qualquer formalidade.
 

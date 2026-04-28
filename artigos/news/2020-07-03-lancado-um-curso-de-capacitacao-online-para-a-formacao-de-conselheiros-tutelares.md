@@ -1,11 +1,12 @@
 ---
-title: "Lançado um curso de capacitação online para a formação de conselheiros tutelares"
+title: Lançado um curso de capacitação online para a formação de conselheiros tutelares
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No mês em que o Estatuto da Criança e do Adolescente (ECA) completará 30 anos, será lançado um curso de capacitação online para a formação de conselheiros tutelares e demais interessados em atuar com ações de promoção e proteção de direitos ligadas ao tema. O lançamento da plataforma vai ocorrer até o fim de julho.
 

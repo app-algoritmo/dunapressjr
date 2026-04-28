@@ -1,11 +1,12 @@
 ---
-title: "Sancionada lei de apoio à renovação da frota de caminhões e ônibus"
+title: Sancionada lei de apoio à renovação da frota de caminhões e ônibus
 date: 2022-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Objetivo é reduzir custos de logística e aumentar produtividade.
 

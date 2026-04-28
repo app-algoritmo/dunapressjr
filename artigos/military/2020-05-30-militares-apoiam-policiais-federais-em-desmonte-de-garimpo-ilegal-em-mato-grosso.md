@@ -1,11 +1,12 @@
 ---
-title: "Militares apoiam policiais federais em desmonte de garimpo ilegal em Mato Grosso"
+title: Militares apoiam policiais federais em desmonte de garimpo ilegal em Mato Grosso
 date: 2020-05-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Com apoio das Forças Armadas, a Polícia Federal desencadeou, na quinta-feira (28) a Operação Alfeu, para retirar mais de 50 pessoas de garimpo ilegal localizado dentro da Terra Indígena Sararé, em Pontes e Lacerda, Mato Grosso, a 450 quilômetros de Cuiabá. A ação, dentro da Operação Verde Brasil 2, ocorreu no âmbito do Comando Conjunto Barão de Melgaço e contou com 250 militares mais 20 policiais federais, além de representantes da Força Nacional, do IBAMA e da FUNAI. A manobra envolveu 25 viaturas, nove embarcações e dois helicópteros.
 

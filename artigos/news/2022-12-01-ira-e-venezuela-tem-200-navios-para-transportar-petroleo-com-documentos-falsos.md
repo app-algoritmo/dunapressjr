@@ -1,11 +1,12 @@
 ---
-title: "Irã e Venezuela têm 200 navios para transportar petróleo com documentos falsos"
+title: Irã e Venezuela têm 200 navios para transportar petróleo com documentos falsos
 date: 2022-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Com essas táticas, que incluem documentação falsa, nomes de navios falsos e transferências de carga de navio para navio no mar, o regime de Maduro adiciona mais de 360 ​​milhões de barris de petróleo bruto transportados com a "rede de contrabando" a seu serviço.
 

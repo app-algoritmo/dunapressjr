@@ -1,11 +1,12 @@
 ---
-title: "Congresso instala hoje comissão para acompanhar medidas contra o coronavírus"
+title: Congresso instala hoje comissão para acompanhar medidas contra o coronavírus
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Colegiado formado por deputados e senadores vai fiscalizar a execução de gastos no combate à Covid-19. 
 

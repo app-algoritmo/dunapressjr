@@ -1,11 +1,12 @@
 ---
-title: "Rendimento real do trabalhador recua 8,8% em um ano, diz IBGE"
+title: Rendimento real do trabalhador recua 8,8% em um ano, diz IBGE
 date: 2022-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor passou de R$ 2.752 em fevereiro para R$ 2.511 um ano depois.
 

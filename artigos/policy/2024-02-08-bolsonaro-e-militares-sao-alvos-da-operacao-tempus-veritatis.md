@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro e militares são alvos da Operação Tempus Veritatis"
+title: Bolsonaro e militares são alvos da Operação Tempus Veritatis
 date: 2024-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministro do STF, Alexandre de Moraes, emite medidas contra figuras proeminentes do governo anterior, desencadeando operação que busca desmantelar suposta organização criminosa.
 

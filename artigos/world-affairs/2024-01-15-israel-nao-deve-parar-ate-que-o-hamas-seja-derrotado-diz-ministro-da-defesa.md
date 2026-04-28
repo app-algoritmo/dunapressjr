@@ -1,11 +1,12 @@
 ---
-title: "Israel não deve parar até que o Hamas seja derrotado, diz ministro da Defesa"
+title: Israel não deve parar até que o Hamas seja derrotado, diz ministro da Defesa
 date: 2024-01-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As IDF estão travando “a guerra mais justa” da história do estado, diz Yoav Galant.
 

@@ -1,11 +1,12 @@
 ---
-title: "Manifestacões por fraude eleitoral no Brasil é apresentada ao mundo em 5 idiomas"
+title: Manifestacões por fraude eleitoral no Brasil é apresentada ao mundo em 5 idiomas
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Inteligência artificial denúncia em distintos idiomas fraude eleitoral e cartel para eleger o ex presidente Lula da silva
 

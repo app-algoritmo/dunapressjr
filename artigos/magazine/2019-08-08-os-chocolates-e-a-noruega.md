@@ -1,11 +1,12 @@
 ---
-title: "Os chocolates e a Noruega"
+title: Os chocolates e a Noruega
 date: 2019-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Noruegueses comem mais chocolates que suecos, dinamarqueses e finlandeses. Cada norueguês come cerca de 9,5 quilos de chocolate por ano, ainda que estejam atrás de outros europeus como suíços, belgas, alemães, irlandeses, ingleses e austríacos.
 

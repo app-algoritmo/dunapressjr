@@ -1,11 +1,12 @@
 ---
-title: "Pix Saque e Pix Troco estarão disponíveis a partir de 29 de novembro"
+title: Pix Saque e Pix Troco estarão disponíveis a partir de 29 de novembro
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Transações terão limite de R$ 500 de dia e de R$ 100 à noite.
 

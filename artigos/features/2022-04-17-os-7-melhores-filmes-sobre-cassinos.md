@@ -1,11 +1,12 @@
 ---
-title: "Os 7 melhores filmes sobre cassinos"
+title: Os 7 melhores filmes sobre cassinos
 date: 2022-04-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 **Os cassinos são uma parte muito importante da economia mundial, que gera muito mistério e curiosidade. Listamos os melhores filmes que contam sobre cassinos e apostas.**
 

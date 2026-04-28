@@ -1,11 +1,12 @@
 ---
-title: "Governo federal lançou “Balcão Único” para simplificar a abertura de empresas"
+title: Governo federal lançou “Balcão Único” para simplificar a abertura de empresas
 date: 2021-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Por meio de um formulário único e totalmente digital, empreendedores podem abrir empresas em apenas um dia e sem necessidade de percorrer vários órgãos públicos.
 

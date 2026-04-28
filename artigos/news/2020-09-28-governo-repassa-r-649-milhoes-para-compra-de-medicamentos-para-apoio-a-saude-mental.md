@@ -1,11 +1,13 @@
 ---
-title: "Governo repassa R$ 649 milhões para compra de medicamentos para apoio à saúde mental"
+title: Governo repassa R$ 649 milhões para compra de medicamentos para apoio à saúde
+  mental
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ação leva em consideração a Declaração de Emergência em Saúde Pública de Importância Internacional pela Organização Mundial da Saúde. A quantia será destinada para a aquisição de 22 tipos de medicamentos do Componente Básico da Assistência Farmacêutica.
 

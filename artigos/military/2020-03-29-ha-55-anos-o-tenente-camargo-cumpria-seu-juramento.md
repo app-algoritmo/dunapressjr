@@ -1,11 +1,12 @@
 ---
-title: "Há 55 anos, o Tenente Camargo cumpria seu juramento"
+title: Há 55 anos, o Tenente Camargo cumpria seu juramento
 date: 2020-03-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Francisco Beltrão (PR)** – **Carlos
 Argemiro Camargo** nasceu em 15 de abril de 1938, na cidade de Ponta Grossa

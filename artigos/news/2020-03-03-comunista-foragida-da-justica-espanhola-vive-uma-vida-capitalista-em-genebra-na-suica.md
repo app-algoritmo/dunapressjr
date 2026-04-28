@@ -1,11 +1,13 @@
 ---
-title: "Comunista foragida da justiça espanhola vive uma vida capitalista em Genebra na Suíça"
+title: Comunista foragida da justiça espanhola vive uma vida capitalista em Genebra
+  na Suíça
 date: 2020-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Anna Gabriel a comunista catalã da CUP "Candidatura de Unidade Popular", Partido de Extrema Esquerda e pró republica em Catalunha,  que está indo muito bem em Genebra, uma cidade que ela descreveu como ***"caverna de ladrões e de empresários exploradores"***.
 

@@ -1,11 +1,12 @@
 ---
-title: "Boletim da SEFAZ-PB publica 20ª edição com dados da arrecadação de abril"
+title: Boletim da SEFAZ-PB publica 20ª edição com dados da arrecadação de abril
 date: 2021-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do quadrimestre deste ano, a arrecadação dos tributos estaduais alta nominal de 20,45%.
 

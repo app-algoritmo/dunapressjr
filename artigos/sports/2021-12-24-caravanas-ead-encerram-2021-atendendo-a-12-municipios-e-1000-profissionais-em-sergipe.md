@@ -1,11 +1,13 @@
 ---
-title: "Caravanas EAD encerram 2021 atendendo a 12 municípios e 1.000 profissionais em Sergipe"
+title: Caravanas EAD encerram 2021 atendendo a 12 municípios e 1.000 profissionais
+  em Sergipe
 date: 2021-12-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Uma ação em rede, com as metodologias do Instituto Esporte & Educação (IEE), de Ana Moser, e do Instituto Mpumalanga. Um projeto que chegou também a professores e coordenadores da rede estadual de ensino e pela primeira vez atingiu, simultaneamente, várias cidades de um mesmo estado.
 

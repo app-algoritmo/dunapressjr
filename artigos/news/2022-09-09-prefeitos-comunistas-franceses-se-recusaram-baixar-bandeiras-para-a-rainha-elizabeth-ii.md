@@ -1,11 +1,13 @@
 ---
-title: "Prefeitos comunistas franceses se recusaram baixar  bandeiras para a rainha Elizabeth II"
+title: Prefeitos comunistas franceses se recusaram baixar  bandeiras para a rainha
+  Elizabeth II
 date: 2022-09-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A França não deve “dar preferência” a um monarca estrangeiro, declarou um funcionário.
 

@@ -1,11 +1,13 @@
 ---
-title: "O kirchnerismo busca uma tábua de salvação: o atual ministro do Interior será seu candidato presidencial"
+title: 'O kirchnerismo busca uma tábua de salvação: o atual ministro do Interior será
+  seu candidato presidencial'
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Eduardo "Wado" de Pedro** , atual ministro do Interior da Argentina, tornou-se praticamente o candidato da ala [kirchnerista](https://gaceta.es/iberosfera/kirchnerismo-20-anos-en-el-pais-de-los-ciegos-20230527-0700/) do partido governista para disputar as próximas Primárias Abertas, Simultâneas e Obrigatórias (PASO), a serem realizadas em 13 de agosto.
 

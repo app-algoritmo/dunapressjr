@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val se defende de acusações feitas em investigação da PF"
+title: Marcos do Val se defende de acusações feitas em investigação da PF
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES), após operação de busca e apreensão da Polícia Federal nos seus endereços, usou a tribuna nesta segunda-feira (19) para se defender das acusações de promover ataques ao Judiciário nas redes sociais. Ele afirmou que as buscas feitas em seu gabinete ferem a Constituição e ameaçam a democracia e a harmonia entre os Poderes.
 

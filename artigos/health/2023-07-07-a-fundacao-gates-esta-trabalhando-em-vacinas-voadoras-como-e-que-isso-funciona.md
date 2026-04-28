@@ -1,11 +1,12 @@
 ---
-title: "A Fundação Gates está trabalhando em 'vacinas voadoras'. Como é que isso funciona?"
+title: A Fundação Gates está trabalhando em 'vacinas voadoras'. Como é que isso funciona?
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Há depoimentos do procurador americano Thomas Renz perante o Senado do Estado da Pensilvânia, nos quais ele se refere a uma palestra do professor Hiroyuki Matsuoka. Esta palestra é sobre o desenvolvimento de um mosquito transgênico que poderia ser usado como uma seringa voadora para administrar uma vacina "protetora" através de sua saliva.
 

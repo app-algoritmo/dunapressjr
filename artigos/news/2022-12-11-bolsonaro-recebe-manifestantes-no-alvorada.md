@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro recebe manifestantes no Alvorada"
+title: Bolsonaro recebe manifestantes no Alvorada
 date: 2022-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Neste domingo 11.12.22, o Presidente Jair Bolsonaro recebeu apoiadores no Palácio do Alvorada para um evento de arriamento da bandeira e participou de uma oração com os manifestantes.
 

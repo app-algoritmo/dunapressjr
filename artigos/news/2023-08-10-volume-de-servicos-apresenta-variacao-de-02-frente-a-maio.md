@@ -1,11 +1,12 @@
 ---
-title: "Volume de serviços apresenta variação de 0,2% frente a maio"
+title: Volume de serviços apresenta variação de 0,2% frente a maio
 date: 2023-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Há recuperação gradual após avanços anteriores.
 

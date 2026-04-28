@@ -1,11 +1,12 @@
 ---
-title: "Prevenção e Combate à Surdez"
+title: Prevenção e Combate à Surdez
 date: 2022-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Surdez é o nome dado à impossibilidade ou à dificuldade de ouvir. A audição é constituída por um sistema de canais que conduz o som até o ouvido interno, onde essas ondas são transformadas em estímulos elétricos e enviadas ao cérebro, órgão responsável pelo reconhecimento daquilo que se ouve.
 

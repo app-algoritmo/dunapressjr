@@ -1,11 +1,13 @@
 ---
-title: "CIA e a Maratona Tecnológica: Uma Corrida Sem Fim Contra a China pela Supremacia da Inteligência Artificial"
+title: 'CIA e a Maratona Tecnológica: Uma Corrida Sem Fim Contra a China pela Supremacia
+  da Inteligência Artificial'
 date: 2024-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Numa era em que a CIA e a China estão empenhadas numa disputa incessante pelo domínio da tecnologia, o diretor de tecnologia da agência, Nand Mulchandani, delineou uma estratégia ambiciosa durante o Fórum Hill & Valley em Washington. Mulchandani destacou a importância crítica das capacidades tecnológicas para a segurança nacional, especialmente num cenário onde a rivalidade geopolítica está em ebulição.
 

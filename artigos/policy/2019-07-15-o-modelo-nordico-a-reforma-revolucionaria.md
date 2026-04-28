@@ -1,11 +1,12 @@
 ---
-title: "O modelo nórdico: a reforma revolucionária"
+title: 'O modelo nórdico: a reforma revolucionária'
 date: 2019-07-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 **Uma visão sucinta das reformas econômicas**
 

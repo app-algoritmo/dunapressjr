@@ -1,11 +1,12 @@
 ---
-title: "Maior ataque desde 2006: 34 foguetes são lançados do Líbano em direção a Israel"
+title: 'Maior ataque desde 2006: 34 foguetes são lançados do Líbano em direção a Israel'
 date: 2023-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pelo menos 34 foguetes foram disparados do Líbano em direção a Israel na quinta-feira (06), de acordo com o Exército israelense, em um dos maiores ataques desde a guerra de 2006 entre os dois países. Cinco foguetes caíram em território israelense, 25 foram interceptados pelo sistema de defesa antimísseis Iron Dome e os quatro restantes estão sendo avaliados, disse um porta-voz militar de Israel.
 

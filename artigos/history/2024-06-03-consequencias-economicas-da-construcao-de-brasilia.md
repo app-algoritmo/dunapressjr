@@ -1,11 +1,12 @@
 ---
-title: "Consequências Econômicas da Construção de Brasília"
+title: Consequências Econômicas da Construção de Brasília
 date: 2024-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - History
+- History
 ---
+
 
 A construção de Brasília, a nova capital do Brasil, inaugurada em 1960, foi um marco significativo na história do país, com profundas repercussões econômicas. A transferência da capital de Rio de Janeiro para o interior do país, impulsionada pelo então presidente Juscelino Kubitschek, visava promover o desenvolvimento econômico e a integração nacional. A seguir, são detalhadas algumas das principais consequências econômicas da construção de Brasília.
 

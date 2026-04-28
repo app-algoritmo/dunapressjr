@@ -1,11 +1,12 @@
 ---
-title: "Seif destaca baixo desempenho do Brasil no Pisa e elogia escola cívico-militar"
+title: Seif destaca baixo desempenho do Brasil no Pisa e elogia escola cívico-militar
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento em Plenário nesta quarta-feira (6), o senador  Jorge Seif (PL-SC) manifestou preocupação com os baixos resultados dos estudantes brasileiros no Programa Internacional de Avaliação de Estudantes (Pisa). O Pisa é um estudo comparativo internacional, realizado a cada três anos pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE). O objetivo do programa é avaliar o conhecimento e as habilidades dos estudantes na faixa etária de 15 anos (idade em que se pressupõe o término da escolaridade básica obrigatória na maioria dos países) em matemática, leitura e ciências. O senador destacou que, apesar do investimento em educação no Brasil, o sistema educacional não atinge seus objetivos.
 

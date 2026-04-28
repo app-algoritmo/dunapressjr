@@ -1,11 +1,12 @@
 ---
-title: "Paraguai manifesta preocupação com a situação eleitoral na Venezuela"
+title: Paraguai manifesta preocupação com a situação eleitoral na Venezuela
 date: 2024-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Presidência da República emitiu um comunicado no qual “expressa a sua preocupação com a situação eleitoral na Venezuela e salienta a necessidade de realizar eleições presidenciais livres e transparentes com a participação de todos os candidatos”.
 

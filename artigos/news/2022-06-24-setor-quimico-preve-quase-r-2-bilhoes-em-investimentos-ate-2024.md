@@ -1,11 +1,12 @@
 ---
-title: "Setor químico prevê quase R$ 2 bilhões em investimentos até 2024"
+title: Setor químico prevê quase R$ 2 bilhões em investimentos até 2024
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indústria brasileira tem potencial para ser 4ª do mundo, diz Abiquim.
 

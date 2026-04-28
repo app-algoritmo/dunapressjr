@@ -1,11 +1,12 @@
 ---
-title: "Ministro apresenta estudo para desestatização da Ferroeste"
+title: Ministro apresenta estudo para desestatização da Ferroeste
 date: 2021-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Freitas defende o avanço da ferrovia até Mato Grosso do Sul.
 

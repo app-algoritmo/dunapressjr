@@ -1,11 +1,12 @@
 ---
-title: "INIS participa da última ação de limpeza do Rio Itajaí-Açú em 2022"
+title: INIS participa da última ação de limpeza do Rio Itajaí-Açú em 2022
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí e o Instituto Itajaí Sustentável (INIS) participam nesta quinta-feira (08) de mais uma ação de limpeza no Rio Itajaí-Açú e no Molhe da Praia do Atalaia. O mutirão de limpeza é promovido pela Eco Local Brasil e Core Case, empresa que atua na área de sustentabilidade.
 

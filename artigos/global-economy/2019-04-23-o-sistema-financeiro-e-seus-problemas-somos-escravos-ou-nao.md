@@ -1,11 +1,12 @@
 ---
-title: "O Sistema Financeiro e seus problemas – Somos escravos ou não?"
+title: O Sistema Financeiro e seus problemas – Somos escravos ou não?
 date: 2019-04-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Acredito que somos e há muito tempo. Entenda um pouco de quem manda de fato e de direito (o dinheiro, com o dinheiro) em nosso território e povo, independente de quem "seja" o governo.
 

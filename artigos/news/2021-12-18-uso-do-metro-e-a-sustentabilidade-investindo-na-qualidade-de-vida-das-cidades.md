@@ -1,11 +1,12 @@
 ---
-title: "Uso do metrô e a sustentabilidade: investindo na qualidade de vida das cidades"
+title: 'Uso do metrô e a sustentabilidade: investindo na qualidade de vida das cidades'
 date: 2021-12-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A [qualidade de vida](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/222-uso-do-metro-e-a-sustentabilidade-investindo-na-qualidade-de-vida-das-cidades#) nas grandes cidades pode estar comprometida pela perspectiva de aumento da população nas próximas décadas. Quanto mais pessoas morando nas cidades, maior é a necessidade de se usar os recursos naturais (energia, água, [matérias primas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/222-uso-do-metro-e-a-sustentabilidade-investindo-na-qualidade-de-vida-das-cidades#)), e mais alto é o uso de bens de consumo que geram poluição, como os automóveis. Uma alternativa para reduzir os impactos da [poluição atmosférica](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/222-uso-do-metro-e-a-sustentabilidade-investindo-na-qualidade-de-vida-das-cidades#), bem como facilitar a organização dos deslocamentos nas grandes cidades, é o uso dos transportes coletivos pela população.
 

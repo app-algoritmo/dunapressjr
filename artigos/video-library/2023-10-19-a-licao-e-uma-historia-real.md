@@ -1,11 +1,12 @@
 ---
-title: "A Lição é Uma História Real?"
+title: A Lição é Uma História Real?
 date: 2023-10-19
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 https://youtu.be/TbToS-FD9u4?si=8P-89adX5edh4Hn7
 

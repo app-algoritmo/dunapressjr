@@ -1,11 +1,13 @@
 ---
-title: "Um grande estudo na Nova Zelândia mostra altas taxas de danos renais após a vacina da Pfizer"
+title: Um grande estudo na Nova Zelândia mostra altas taxas de danos renais após a
+  vacina da Pfizer
 date: 2023-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No Pós-vacinação, ocorreram 1.800 casos a mais do que o esperado, ou seja, um para cada 2.200 vacinações concluídas; o resultado é mais uma evidência de que as vacinas podem causar danos cardiovasculares.
 

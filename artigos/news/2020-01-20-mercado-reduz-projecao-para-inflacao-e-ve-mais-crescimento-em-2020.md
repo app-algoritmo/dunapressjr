@@ -1,11 +1,12 @@
 ---
-title: "Mercado reduz projeção para inflação e vê mais crescimento em 2020"
+title: Mercado reduz projeção para inflação e vê mais crescimento em 2020
 date: 2020-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O mercado voltou a reduzir a expectativa para a inflação este ano ao mesmo tempo em que ajustou para cima as contas para o crescimento da economia, de acordo com a pesquisa Focus divulgada pelo Banco Central nesta segunda-feira(20).
 

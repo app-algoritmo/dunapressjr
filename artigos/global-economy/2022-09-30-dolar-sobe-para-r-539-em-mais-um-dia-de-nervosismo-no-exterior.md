@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,39 em mais um dia de nervosismo no exterior"
+title: Dólar sobe para R$ 5,39 em mais um dia de nervosismo no exterior
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores cai 0,73% e fecha no menor nível desde agosto.
 

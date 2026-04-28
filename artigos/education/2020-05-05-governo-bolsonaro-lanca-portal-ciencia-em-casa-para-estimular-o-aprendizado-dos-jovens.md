@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro lança Portal Ciência em Casa para estimular o aprendizado dos jovens"
+title: Governo Bolsonaro lança Portal Ciência em Casa para estimular o aprendizado
+  dos jovens
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Com as aulas suspensas em escolas de todo o País, uma novidade lançada na internet promete entreter as crianças com ensino e diversão. É o portal [Ciência Em Casa](http://cienciaemcasa.mctic.gov.br/), lançado pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), órgão vinculado ao Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC).
 

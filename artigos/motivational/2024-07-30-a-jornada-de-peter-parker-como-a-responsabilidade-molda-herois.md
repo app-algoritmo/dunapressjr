@@ -1,13 +1,14 @@
 ---
-title: "A Jornada de Peter Parker: Como a Responsabilidade Molda Heróis"
+title: 'A Jornada de Peter Parker: Como a Responsabilidade Molda Heróis'
 date: 2024-07-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Motivational
-  - Personal Development
-  - Video library
+- Motivational
+- Personal Development
+- Video library
 ---
+
 
 ## De Adolescente a Herói: A Transformadora Jornada de Peter Parker como Homem-Aranha
 

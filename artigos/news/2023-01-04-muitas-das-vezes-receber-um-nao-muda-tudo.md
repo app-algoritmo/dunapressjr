@@ -1,11 +1,12 @@
 ---
-title: "Muitas das vezes receber um não muda tudo"
+title: Muitas das vezes receber um não muda tudo
 date: 2023-01-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Muitos anos atrás, quando tudo estava iniciando em minha vida, eu andava de porta em porta nos comércios procurando emprego.
 

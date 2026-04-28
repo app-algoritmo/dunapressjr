@@ -1,11 +1,12 @@
 ---
-title: "Trabalhador que não recebeu abono do PIS/Pasep pode entrar com recurso"
+title: Trabalhador que não recebeu abono do PIS/Pasep pode entrar com recurso
 date: 2022-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pedido deve ser feito às Superintendências Regionais do Trabalho.
 

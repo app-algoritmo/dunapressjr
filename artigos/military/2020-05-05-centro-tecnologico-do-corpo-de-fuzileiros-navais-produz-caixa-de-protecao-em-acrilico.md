@@ -1,11 +1,13 @@
 ---
-title: "Centro Tecnológico do Corpo de Fuzileiros Navais produz caixa de proteção em acrílico"
+title: Centro Tecnológico do Corpo de Fuzileiros Navais produz caixa de proteção em
+  acrílico
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Centro Tecnológico do Corpo de Fuzileiros Navais (CTecCFN) desenvolveu e produziu, no mês de abril, uma caixa de proteção em acrílico e um dispositivo de intubação endotraqueal para auxiliar na proteção dos profissionais de saúde contra a contaminação por aerossóis, em especial àqueles ligados ao vírus da Covid-19.
 

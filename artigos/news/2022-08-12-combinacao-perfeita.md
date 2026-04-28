@@ -1,11 +1,12 @@
 ---
-title: "Combinação Perfeita"
+title: Combinação Perfeita
 date: 2022-08-12
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 A Perfect Pairing
 

@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí investiu mais de um bilhão de reais em Educação nos últimos quatro anos"
+title: Município de Itajaí investiu mais de um bilhão de reais em Educação nos últimos
+  quatro anos
 date: 2021-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí ultrapassou a marca de um bilhão de reais investidos na educação de suas crianças, jovens e adultos entre 2017 e 2020. Em quatro anos foram R$ 1,3 bilhão do orçamento público, o que representa 28,5% do orçamento da gestão municipal nos últimos anos. Os investimentos apontam para a melhoria na qualidade do ensino em programas como o Escola da Inteligência e na ampliação, reformas estruturais de unidades e aquisição de mobiliário.
 

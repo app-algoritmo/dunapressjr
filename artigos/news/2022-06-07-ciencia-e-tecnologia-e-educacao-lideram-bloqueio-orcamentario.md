@@ -1,11 +1,12 @@
 ---
-title: "Ciência e Tecnologia e Educação lideram bloqueio orçamentário"
+title: Ciência e Tecnologia e Educação lideram bloqueio orçamentário
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Governo usará reserva de R$ 1,7 bi para diminuir contingenciamento.
 

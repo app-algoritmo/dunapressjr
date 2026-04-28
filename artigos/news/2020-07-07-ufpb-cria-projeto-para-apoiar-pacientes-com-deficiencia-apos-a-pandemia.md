@@ -1,11 +1,12 @@
 ---
-title: "UFPB cria projeto para apoiar pacientes com deficiência após a pandemia"
+title: UFPB cria projeto para apoiar pacientes com deficiência após a pandemia
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Equipe trabalha na elaboração de material didático e contato com usuários.
 

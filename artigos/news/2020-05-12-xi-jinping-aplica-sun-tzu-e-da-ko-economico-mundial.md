@@ -1,11 +1,12 @@
 ---
-title: "Xi Jinping aplica Sun Tzu e da K.O. econômico mundial"
+title: Xi Jinping aplica Sun Tzu e da K.O. econômico mundial
 date: 2020-05-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Sem disparar um único tiro, o ditador Xi Jinging colocou o mundo de joelhos.
 

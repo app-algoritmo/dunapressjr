@@ -1,11 +1,12 @@
 ---
-title: "Receita abre na segunda consulta a lote da malha fina do IR"
+title: Receita abre na segunda consulta a lote da malha fina do IR
 date: 2019-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Um total de 91 mil
 contribuintes terão direito a restituição

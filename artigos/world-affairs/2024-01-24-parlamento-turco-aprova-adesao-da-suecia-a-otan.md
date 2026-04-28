@@ -1,11 +1,12 @@
 ---
-title: "Parlamento turco aprova adesão da Suécia à OTAN"
+title: Parlamento turco aprova adesão da Suécia à OTAN
 date: 2024-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Hungria continua a ser o único país da NATO que ainda não ratificou a candidatura de adesão da Suécia.
 

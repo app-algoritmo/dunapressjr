@@ -1,13 +1,15 @@
 ---
-title: "Rocky Spirit Online oferece 51 filmes sobre esportes, meio ambiente e aventura com acesso grátis"
+title: Rocky Spirit Online oferece 51 filmes sobre esportes, meio ambiente e aventura
+  com acesso grátis
 date: 2023-09-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Environment
-  - Events
-  - Sports
+- Environment
+- Events
+- Sports
 ---
+
 
 ## Documentários de 14 países, sendo oito produções nacionais, integram a 13ª edição do maior festival que passou por São Paulo e Rio de forma presencial. Temas: Bike, Corrida, Escalada, Neve, Brasil, Multiesportes, Mulheres, Adrenalina, Diversidade, Surf & Skate. Assista e vote nos melhores filmes.
 

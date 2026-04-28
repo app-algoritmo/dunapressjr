@@ -1,11 +1,12 @@
 ---
-title: "Quando eles chegaram ao lugar chamado Calvário"
+title: Quando eles chegaram ao lugar chamado Calvário
 date: 2021-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 -Quando eles chegaram ao lugar chamado Calvário, eles O crucificaram ali. Os criminosos também foram crucificados, um à sua direita e outro à sua esquerda. Mas Jesus disse: “Pai, abandona-os, porque não sabem o que estão fazendo”. Eles dividiram as roupas dele entre si e jogaram lotes em volta deles. As pessoas ficaram paradas e observaram. Mas também os conselheiros que estavam com eles zombaram e disseram: “Ele salvou outros. Que Ele agora salve a Si mesmo se Ele é Cristo, o eleito de Deus. "Os soldados também zombavam dele, e eles vieram e lhe ofereceram vinho azedo e disseram: "Se você é o rei dos judeus, salve a si mesmo." Uma inscrição também foi feita sobre ele em grego, latim e hebraico: ESTE É O REI DOS JUDEUS. Um dos criminosos que estavam pendurados zombou de Jesus e disse: "Se você é o Cristo, salve a si mesmo e a nós." Mas o outro o repreendeu, repreendendo-o e dizendo: 'Você nem mesmo teme a Deus quando vê que está sob o mesmo julgamento? Temos razão, porque recebemos a recompensa que merecemos por nossas ações. Mas este não fez nada de errado. " Então ele disse a Jesus: "Senhor, lembra-te de mim quando entrares no teu reino!" Jesus disse-lhe: “Em verdade te digo que hoje estarás comigo no paraíso”. Era por volta da hora sexta e escureceu em toda a terra até a hora nona. Então o sol escureceu e o véu do templo rasgou-se no meio. Depois que Jesus clamou em alta voz, Ele disse: "Pai, nas tuas mãos entrego o meu espírito". Quando Ele disse isso, Ele exalou.
 

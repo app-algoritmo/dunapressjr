@@ -1,11 +1,12 @@
 ---
-title: "Estatísticas do setor externo revelam transformações no cenário econômico"
+title: Estatísticas do setor externo revelam transformações no cenário econômico
 date: 2023-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Balanço de pagamentos apresenta melhorias significativas.
 

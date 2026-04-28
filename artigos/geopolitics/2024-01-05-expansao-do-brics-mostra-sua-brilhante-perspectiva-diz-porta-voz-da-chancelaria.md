@@ -1,11 +1,12 @@
 ---
-title: "Expansão do BRICS mostra sua brilhante perspectiva, diz porta-voz da chancelaria"
+title: Expansão do BRICS mostra sua brilhante perspectiva, diz porta-voz da chancelaria
 date: 2024-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A expansão do BRICS mostrou sua brilhante perspectiva, disse o porta-voz do Ministério das Relações Exteriores da China, Wang Wenbin, nesta terça-feira, em uma coletiva de imprensa diária.
 

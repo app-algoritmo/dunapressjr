@@ -1,11 +1,12 @@
 ---
-title: "Denunciante de OVNIs afirma que 'inteligências não humanas' mataram humanos"
+title: Denunciante de OVNIs afirma que 'inteligências não humanas' mataram humanos
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Astronomy
+- Astronomy
 ---
+
 
 O denunciante do Pentágono que afirma que os Estados Unidos têm executado um programa ultrassecreto de salvamento de OVNIs há décadas, diz que algumas das "inteligências não humanas" descobertas mataram pessoas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende homem com fuzil e munições na Rodovia Presidente Dutra"
+title: Polícia Federal prende homem com fuzil e munições na Rodovia Presidente Dutra
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Na manhã desta sexta-feira (24/4), a Polícia Federal prendeu em flagrante, na Rodovia Presidente Dutra, altura de Piraí, um homem de 34 anos, transportando um fuzil calibre 5.56 e munições.
 

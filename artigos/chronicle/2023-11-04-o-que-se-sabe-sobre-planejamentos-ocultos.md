@@ -1,11 +1,12 @@
 ---
-title: "O que se sabe sobre  planejamentos ocultos?"
+title: O que se sabe sobre  planejamentos ocultos?
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Seria assim que os globalistas anunciam seus planos com antecedência**?
 

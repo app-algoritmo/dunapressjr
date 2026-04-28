@@ -1,11 +1,13 @@
 ---
-title: "Andrei Belousov lidera esforço de guerra de Moscou e se prepara para confronto com a OTAN"
+title: Andrei Belousov lidera esforço de guerra de Moscou e se prepara para confronto
+  com a OTAN
 date: 2024-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A nomeação de Andrei Belousov como ministro da Defesa da Rússia pode parecer surpreendente à primeira vista, dado seu histórico como economista e especialista em dados. No entanto, esta escolha cuidadosamente feita por Vladimir Putin reflete uma mudança estratégica significativa no Kremlin, onde a guerra econômica e a preparação para o conflito assumem prioridade.
 

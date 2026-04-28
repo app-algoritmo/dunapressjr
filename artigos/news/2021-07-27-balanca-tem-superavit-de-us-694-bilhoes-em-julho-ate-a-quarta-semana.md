@@ -1,11 +1,12 @@
 ---
-title: "Balança tem superávit de US$ 6,94 bilhões em julho, até a quarta semana"
+title: Balança tem superávit de US$ 6,94 bilhões em julho, até a quarta semana
 date: 2021-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações somaram US$ 20,47 bilhões e importações totalizaram US$ 13,53 bilhões; no acumulado do ano, superávit chega a US$ 43,67 bilhões, em alta de 52,3%.
 

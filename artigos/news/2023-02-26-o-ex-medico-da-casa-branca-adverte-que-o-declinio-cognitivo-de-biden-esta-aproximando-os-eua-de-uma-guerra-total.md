@@ -1,11 +1,13 @@
 ---
-title: "O ex-médico da Casa Branca adverte que o declínio cognitivo de Biden está aproximando os EUA de uma 'guerra total'"
+title: O ex-médico da Casa Branca adverte que o declínio cognitivo de Biden está aproximando
+  os EUA de uma 'guerra total'
 date: 2023-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ### O ex-médico da Casa Branca de Barack Obama alertou que o declínio cognitivo de Joe Biden está aproximando os EUA de uma “guerra total” com a China e a Rússia.
 

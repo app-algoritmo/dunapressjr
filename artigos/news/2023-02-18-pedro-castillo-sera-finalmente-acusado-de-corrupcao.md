@@ -1,11 +1,12 @@
 ---
-title: "Pedro Castillo será finalmente acusado de corrupção"
+title: Pedro Castillo será finalmente acusado de corrupção
 date: 2023-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Congresso peruano aprovou nesta sexta-feira o relatório final de uma denúncia constitucional que recomenda que o Ministério Público acuse o ex-presidente Pedro Castillo (2021-2022) por supostamente liderar uma organização criminosa durante seu governo para [obter](https://www.infobae.com/america/peru/2022/12/08/pedro-castillo-el-presidente-que-prometio-un-pais-sin-corrupcion-y-termino-preso-de-su-ambicion-por-el-poder/) dinheiro em troca de licitações fraudulentas de obras públicas.
 

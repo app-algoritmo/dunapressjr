@@ -1,12 +1,13 @@
 ---
-title: "4 gringos para seguir e aprender mais sobre o Brasil"
+title: 4 gringos para seguir e aprender mais sobre o Brasil
 date: 2022-07-18
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Culture and History
-  - Education
+- Culture and History
+- Education
 ---
+
 
 Em uma era cada vez mais digital, a internet tem sido palco para ampliar debates e promover a comunicação entre pessoas de diferentes nacionalidades. Os influenciadores digitais possuem papel fundamental nesse processo, pois compartilham detalhes de suas rotinas e abrem questionamentos sobre as diferenças entre os países, com muito bom humor. 
 

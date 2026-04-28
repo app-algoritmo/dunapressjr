@@ -1,11 +1,12 @@
 ---
-title: "Equipe brasileira de Guerra na Selva auxilia na instrução do Batalhão do Malawi"
+title: Equipe brasileira de Guerra na Selva auxilia na instrução do Batalhão do Malawi
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 21 de outubro, o Batalhão do Malawi concluiu os treinamentos com Equipe Móvel de Treinamento Especializada em Guerra na Selva do Exército Brasileiro. Em breve, esses militares estarão atuando na Brigada de Intervenção, que será desdobrada na Missão das Nações Unidas para a Estabilização da República Democrática do Congo (MONUSCO). A missão é comandada por um general brasileiro.
 

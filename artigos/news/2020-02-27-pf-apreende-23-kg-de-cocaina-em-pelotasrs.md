@@ -1,11 +1,12 @@
 ---
-title: "PF apreende 23 kg de cocaína em Pelotas/RS"
+title: PF apreende 23 kg de cocaína em Pelotas/RS
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pelotas/RS - Ação integrada entre a Polícia
 Federal, Polícia Rodoviária Federal e Brigada Militar resultou na apreensão de

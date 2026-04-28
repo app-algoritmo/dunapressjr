@@ -1,11 +1,12 @@
 ---
-title: "<strong>Índice de Clima Econômico volta a cair no terceiro trimestre, diz FGV</strong>"
+title: <strong>Índice de Clima Econômico volta a cair no terceiro trimestre, diz FGV</strong>
 date: 2022-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### ICE monitora tendências econômicas na América Latina.
 

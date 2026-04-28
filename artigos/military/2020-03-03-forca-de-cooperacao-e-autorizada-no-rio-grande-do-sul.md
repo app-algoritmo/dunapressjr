@@ -1,11 +1,12 @@
 ---
-title: "Força de Cooperação é autorizada no Rio Grande do Sul"
+title: Força de Cooperação é autorizada no Rio Grande do Sul
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Brasília, 03/03/2020 – O Ministério da Justiça e
 Segurança Pública autorizou, nesta terça-feira, a atuação da Força de

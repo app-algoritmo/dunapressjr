@@ -1,11 +1,12 @@
 ---
-title: "Diga Não à Homofobia e Diga Sim às Regras"
+title: Diga Não à Homofobia e Diga Sim às Regras
 date: 2024-07-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Proteger as crianças e dizer não à homofobia não são objetivos mutuamente exclusivos. Pelo contrário, ambos são essenciais para o desenvolvimento de uma sociedade justa e equilibrada. Ao estabelecer regras claras e promover um diálogo respeitoso, podemos garantir que nossas crianças cresçam em um ambiente seguro e inclusivo, enquanto combatemos o preconceito e a discriminação.
 

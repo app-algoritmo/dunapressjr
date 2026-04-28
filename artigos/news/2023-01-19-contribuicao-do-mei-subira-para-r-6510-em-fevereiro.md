@@ -1,11 +1,12 @@
 ---
-title: "Contribuição do MEI subirá para R$ 65,10 em fevereiro"
+title: Contribuição do MEI subirá para R$ 65,10 em fevereiro
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor segue salário mínimo de R$ 1.302, que valerá até maio.
 

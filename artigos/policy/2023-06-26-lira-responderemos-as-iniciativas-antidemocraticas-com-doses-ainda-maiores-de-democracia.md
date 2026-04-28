@@ -1,11 +1,13 @@
 ---
-title: "Lira: 'Responderemos as iniciativas antidemocráticas com doses ainda maiores de democracia'"
+title: 'Lira: ''Responderemos as iniciativas antidemocráticas com doses ainda maiores
+  de democracia'''
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O presidente da Câmara criticou mais uma vez as bigs techs que dificultaram a aprovação do texto pelos deputados.
 

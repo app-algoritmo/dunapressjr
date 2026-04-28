@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável a R$ 5,27, em dia de decisão do Copom"
+title: Dólar fecha estável a R$ 5,27, em dia de decisão do Copom
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores subiu 0,4%, beneficiada por ações locais.
 

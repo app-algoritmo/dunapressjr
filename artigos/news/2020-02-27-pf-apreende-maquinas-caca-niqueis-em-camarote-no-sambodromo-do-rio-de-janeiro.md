@@ -1,11 +1,12 @@
 ---
-title: "PF apreende máquinas caça-níqueis em camarote no Sambódromo do Rio de Janeiro"
+title: PF apreende máquinas caça-níqueis em camarote no Sambódromo do Rio de Janeiro
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ  - Na tarde de hoje (27/2),
 a Polícia Federal apreendeu seis máquinas caça-níquel em um camarote

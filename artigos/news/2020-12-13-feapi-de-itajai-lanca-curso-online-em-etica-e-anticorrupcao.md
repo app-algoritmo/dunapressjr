@@ -1,11 +1,12 @@
 ---
-title: "Feapi de Itajaí lança curso online em ética e anticorrupção"
+title: Feapi de Itajaí lança curso online em ética e anticorrupção
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação de Educação Profissional e Administração Pública de Itajaí (Feapi) vai ofertar um novo curso online destinado a servidores públicos de Itajaí. O Programa de Capacitação em Ética e Compliance Anticorrupção, que será realizado em ambiente online, contará com 600 vagas disponíveis. Os interessados poderão efetuar a inscrição no [site da Feapi](https://feapi.itajai.sc.gov.br/), a partir da próxima segunda-feira (14). O lançamento do curso, nesta quarta-feira (09), marca o Dia Internacional Contra a Corrupção.
 

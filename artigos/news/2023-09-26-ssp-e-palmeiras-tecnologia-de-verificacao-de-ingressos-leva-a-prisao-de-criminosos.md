@@ -1,11 +1,12 @@
 ---
-title: "SSP e Palmeiras: tecnologia de verificação de ingressos leva à prisão de criminosos"
+title: 'SSP e Palmeiras: tecnologia de verificação de ingressos leva à prisão de criminosos'
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um dos presos era procurado desde março de 2020, quando um avião caiu com 400 kg de drogas, sendo pego graças ao sistema da Muralha Paulista.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governador da Paraíba anuncia execução de mais de 200 obras"
+title: Governador da Paraíba anuncia execução de mais de 200 obras
 date: 2020-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os investimentos estimados totalizam o valor de R$798 milhões.
 

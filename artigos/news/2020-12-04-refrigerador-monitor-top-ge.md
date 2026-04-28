@@ -1,11 +1,12 @@
 ---
-title: "Refrigerador Monitor Top GE"
+title: Refrigerador Monitor Top GE
 date: 2020-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Refrigerador Monitor Top GE**.**
 

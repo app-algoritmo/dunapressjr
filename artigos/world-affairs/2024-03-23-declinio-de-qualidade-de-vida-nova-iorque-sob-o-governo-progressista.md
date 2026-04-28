@@ -1,11 +1,12 @@
 ---
-title: "Declínio de Qualidade de Vida: Nova Iorque Sob o Governo Progressista"
+title: 'Declínio de Qualidade de Vida: Nova Iorque Sob o Governo Progressista'
 date: 2024-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A cidade de Nova Iorque está enfrentando um desafio crescente, marcado por preços exorbitantes, insegurança galopante e uma sensação de declínio generalizado. Essa realidade, infelizmente, não é incomum em áreas urbanas sob administrações progressistas. Com uma pesquisa recente revelando uma perspectiva sombria, é evidente que a Big Apple está perdendo seu brilho, deixando seus residentes cada vez mais desiludidos.
 

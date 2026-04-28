@@ -1,11 +1,12 @@
 ---
-title: "Emissões de debêntures incentivadas batem recorde em 2021"
+title: Emissões de debêntures incentivadas batem recorde em 2021
 date: 2022-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Papéis financiam projetos de infraestrutura com isenção de IR.
 

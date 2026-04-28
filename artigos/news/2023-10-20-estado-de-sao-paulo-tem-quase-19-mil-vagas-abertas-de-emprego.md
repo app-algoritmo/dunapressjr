@@ -1,11 +1,12 @@
 ---
-title: "Estado de São Paulo tem quase 19 mil vagas abertas de emprego"
+title: Estado de São Paulo tem quase 19 mil vagas abertas de emprego
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ocupações com o maior número de postos abertos são as de auxiliar de logística, operador de telemarketing e vigilante.
 

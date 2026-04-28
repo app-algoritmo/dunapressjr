@@ -1,11 +1,12 @@
 ---
-title: "Retorno de José Bonifácio ao Brasil"
+title: Retorno de José Bonifácio ao Brasil
 date: 2022-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na segunda metade do ano de 1819, José Bonifácio de Andrada e Silva desembarcou na cidade do Rio de Janeiro, então sede do Reino Unido de Portugal Brasil e Algarves, após uma ausência de quase quatro décadas.
 

@@ -1,11 +1,13 @@
 ---
-title: "FGV: INCC-M apresenta variação de 0,23% em abril e acumula alta de 7,48% em 12 meses"
+title: 'FGV: INCC-M apresenta variação de 0,23% em abril e acumula alta de 7,48% em
+  12 meses'
 date: 2023-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice Nacional de Custo da Construção - M registra desaceleração em relação ao ano anterior, mas materiais para instalação apresentam alta de 1,74% em abril.
 

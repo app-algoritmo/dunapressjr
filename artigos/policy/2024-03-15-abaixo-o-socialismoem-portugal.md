@@ -1,11 +1,12 @@
 ---
-title: "Abaixo o socialismo…em Portugal"
+title: Abaixo o socialismo…em Portugal
 date: 2024-03-15
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Portugal esta semana elegeu novos membros para suas câmaras em um pleito que pendeu para a direita, a exemplo do que vem acontecendo no mundo. O partido vitorioso AD, Aliança Democrática, venceu o partido Socialista; entretanto, só formará maioria se compuser com o partido Chega, que ficou em terceiro lugar, mas surpreendeu, passando de um para quarenta deputados, e deve ser o fiel da balança no parlamento.  
 

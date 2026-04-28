@@ -1,11 +1,13 @@
 ---
-title: "Dra Naomi Wolf: a agenda de despovoamento da Pfizer, apoiada por seus próprios documentos"
+title: 'Dra Naomi Wolf: a agenda de despovoamento da Pfizer, apoiada por seus próprios
+  documentos'
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *
 Dra Naomi Wolf encontrou evidências claras nos documentos da Pfizer de que a empresa projetou deliberadamente suas seringas de mRNA para atingir o ciclo reprodutivo de mulheres em idade reprodutiva. Isso coloca sociedades inteiras sob forte pressão de despovoamento. Existem muitos outros efeitos, como inflamação do músculo cardíaco, paralisia, derrame, coágulos sanguíneos até a morte.*

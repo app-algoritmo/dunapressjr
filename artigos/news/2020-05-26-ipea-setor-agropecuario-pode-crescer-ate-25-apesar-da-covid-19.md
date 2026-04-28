@@ -1,11 +1,12 @@
 ---
-title: "Ipea: setor agropecuário pode crescer até 2,5% apesar da covid-19"
+title: 'Ipea: setor agropecuário pode crescer até 2,5% apesar da covid-19'
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A cana-de-açúcar é a cultura que pode sofrer maior impacto.
 

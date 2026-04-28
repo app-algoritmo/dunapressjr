@@ -1,13 +1,14 @@
 ---
-title: "BraZil com Z"
+title: BraZil com Z
 date: 2023-01-26
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Bicentennial
-  - Chronicle
-  - History
+- Bicentennial
+- Chronicle
+- History
 ---
+
 
 **BraZil com Z | Poesia de Δαn ßεrg • 24/04/2022.**
 

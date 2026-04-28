@@ -1,11 +1,13 @@
 ---
-title: "Confrontos entre imigrantes na Holanda desencadeiam estado de emergência em Haia"
+title: Confrontos entre imigrantes na Holanda desencadeiam estado de emergência em
+  Haia
 date: 2024-02-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No último sábado à noite, a cidade de Haia, na Holanda, foi palco de grandes tumultos provocados por centenas de imigrantes ilegais, principalmente da Eritreia. Os incidentes ocorreram quando um grupo invadiu o edifício da Ópera, desencadeando uma violenta batalha campal com o uso de tijolos e pedras, além de incêndios em contentores e carros da polícia nas proximidades.
 

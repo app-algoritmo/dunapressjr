@@ -1,11 +1,12 @@
 ---
-title: "PF apura atividade clandestina em operações de câmbio"
+title: PF apura atividade clandestina em operações de câmbio
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recife/PE - A Polícia Federal deflagrou nesta
 quinta-feira (27/2) a Operação Aqua, que apura suspeita de atividade

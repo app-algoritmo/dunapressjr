@@ -1,11 +1,13 @@
 ---
-title: "BRICS avança na criação de plataforma comum de pagamento digital para fortalecer cooperação financeira"
+title: BRICS avança na criação de plataforma comum de pagamento digital para fortalecer
+  cooperação financeira
 date: 2024-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante a primeira reunião presencial dos ministros das finanças e governadores de bancos centrais do BRICS em São Paulo, Brasil, uma iniciativa crucial foi destacada: a criação da plataforma de pagamento multilateral BRICS Bridge. Esta plataforma, que está sendo preparada pelo Ministério das Finanças da Rússia, juntamente com o Banco da Rússia e os parceiros do BRICS, visa melhorar o sistema monetário e financeiro internacional.
 

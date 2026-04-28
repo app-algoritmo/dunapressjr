@@ -1,11 +1,12 @@
 ---
-title: "Parcerias de investimentos impulsionarão projetos de R$ 1,3 trilhão em 30 anos"
+title: Parcerias de investimentos impulsionarão projetos de R$ 1,3 trilhão em 30 anos
 date: 2022-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Óleo e gás, transporte e energia elétrica lideram novas ações, mostra Secretaria de Política Econômica.
 

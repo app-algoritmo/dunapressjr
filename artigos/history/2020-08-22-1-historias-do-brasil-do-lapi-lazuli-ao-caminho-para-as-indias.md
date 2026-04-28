@@ -1,11 +1,12 @@
 ---
-title: "1. Histórias do Brasil: Do Lápi-lazúli ao caminho para as Índias"
+title: '1. Histórias do Brasil: Do Lápi-lazúli ao caminho para as Índias'
 date: 2020-08-22
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - History
+- History
 ---
+
 
 A história da Civilização Brasileira começa muitos e muitos séculos antes das Grandes Navegações. Podemos dizer que sua primeira semente improvável surgiu há 7 mil anos, a partir das rotas que comercializavam uma bela rocha azulada chamada Lápis-lazúli.
 

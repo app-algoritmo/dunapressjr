@@ -1,11 +1,12 @@
 ---
-title: "Paraguai Lidera Previsões de Crescimento Econômico na América Latina em 2024"
+title: Paraguai Lidera Previsões de Crescimento Econômico na América Latina em 2024
 date: 2024-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com o último Índice de Clima Econômico (ICE) da América Latina divulgado pela Fundação Getulio Vargas (FGV), o Paraguai está projetado para ter o maior crescimento econômico na região em 2024, com uma expansão estimada em 3,9%. O relatório ressalta que o Paraguai mantém o melhor clima de negócios na região, com uma avaliação favorável, em contraste com outros países que receberam notas baixas, colocando-os em uma posição desfavorável.
 

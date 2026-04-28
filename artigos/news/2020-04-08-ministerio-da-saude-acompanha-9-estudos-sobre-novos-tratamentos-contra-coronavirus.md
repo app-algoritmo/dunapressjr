@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde acompanha 9 estudos sobre  novos tratamentos contra coronavírus"
+title: Ministério da Saúde acompanha 9 estudos sobre  novos tratamentos contra coronavírus
 date: 2020-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Estão envolvidos nestes ensaios clínicos mais de 100 centros de pesquisa brasileiros. O objetivo é testar novos medicamentos e terapias que podem ser efetivas no tratamento de pacientes com a doença*
 

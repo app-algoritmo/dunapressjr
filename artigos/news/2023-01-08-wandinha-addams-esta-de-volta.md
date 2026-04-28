@@ -1,12 +1,13 @@
 ---
-title: "Wandinha Addams Está de Volta!"
+title: Wandinha Addams Está de Volta!
 date: 2023-01-08
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 A segunda temporada está garantida!
 

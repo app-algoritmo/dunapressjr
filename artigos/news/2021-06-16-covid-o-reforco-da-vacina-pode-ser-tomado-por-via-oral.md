@@ -1,11 +1,12 @@
 ---
-title: "COVID: O reforço da vacina pode ser tomado por via oral"
+title: 'COVID: O reforço da vacina pode ser tomado por via oral'
 date: 2021-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Administrado como gotas na língua, MigVax, feito na Galiléia, pode ajudar a resolver os problemas complexos associados a dar lembretes.
 

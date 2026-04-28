@@ -1,11 +1,12 @@
 ---
-title: "Debêntures incentivadas captam R$ 2,7 bilhões em maio"
+title: Debêntures incentivadas captam R$ 2,7 bilhões em maio
 date: 2021-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mês teve distribuição de seis debêntures, nos setores de Energia e Saneamento.
 

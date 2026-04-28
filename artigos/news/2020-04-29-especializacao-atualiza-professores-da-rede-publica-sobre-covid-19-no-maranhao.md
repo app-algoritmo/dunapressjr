@@ -1,11 +1,12 @@
 ---
-title: "Especialização atualiza professores da rede pública sobre COVID-19 no Maranhão"
+title: Especialização atualiza professores da rede pública sobre COVID-19 no Maranhão
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Formação para docentes do ensino fundamental é parte do curso Ciência é 10, da Universidade Estadual do Maranhão. Especialização é coordenada nacionalmente pela CAPES.
 

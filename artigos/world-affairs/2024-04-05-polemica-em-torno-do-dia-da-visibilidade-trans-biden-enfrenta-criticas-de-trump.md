@@ -1,11 +1,13 @@
 ---
-title: "Polêmica em torno do Dia da Visibilidade Trans: Biden enfrenta críticas de Trump"
+title: 'Polêmica em torno do Dia da Visibilidade Trans: Biden enfrenta críticas de
+  Trump'
 date: 2024-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, provocou controvérsia na semana passada ao proclamar o dia 31 de março, Domingo de Páscoa, como o "dia da visibilidade trans". Essa decisão foi duramente criticada pela equipe do ex-presidente Donald Trump, que a classificou como "terrível" e "insultosa".
 

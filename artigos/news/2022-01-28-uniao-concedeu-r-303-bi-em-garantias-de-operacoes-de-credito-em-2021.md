@@ -1,11 +1,12 @@
 ---
-title: "União concedeu R$ 303 bi em garantias de operações de crédito em 2021"
+title: União concedeu R$ 303 bi em garantias de operações de crédito em 2021
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados constam do relatório de garantias honradas, do Tesouro Nacional.
 

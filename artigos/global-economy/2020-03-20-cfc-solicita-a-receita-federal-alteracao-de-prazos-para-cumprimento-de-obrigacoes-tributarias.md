@@ -1,11 +1,13 @@
 ---
-title: "CFC solicita à Receita Federal alteração de prazos para cumprimento de obrigações tributárias"
+title: CFC solicita à Receita Federal alteração de prazos para cumprimento de obrigações
+  tributárias
 date: 2020-03-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Na última quarta-feira (18), o Conselho Federal de
 Contabilidade (CFC) enviou o Ofício n.º 347/2020 para a Receita Federal do

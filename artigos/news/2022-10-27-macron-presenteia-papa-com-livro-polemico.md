@@ -1,11 +1,12 @@
 ---
-title: "Macron presenteia Papa com livro polêmico"
+title: Macron presenteia Papa com livro polêmico
 date: 2022-10-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## **CONTROVÉRSIA NA POLÔNIA SOBRE O LIVRO OFERECIDO POR EMMANUEL MACRON AO PAPA**.
 

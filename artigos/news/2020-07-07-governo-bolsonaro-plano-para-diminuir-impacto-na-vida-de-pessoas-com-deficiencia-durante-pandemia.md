@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro plano para diminuir impacto na vida de pessoas com deficiência durante pandemia"
+title: Governo Bolsonaro plano para diminuir impacto na vida de pessoas com deficiência
+  durante pandemia
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Neste tempo de pandemia, é todo mundo cuidando de todo mundo”, disse a ministra Damares Alves.
 

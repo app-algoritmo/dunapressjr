@@ -1,11 +1,12 @@
 ---
-title: "Boletim Focus: Projeção média para 2023 passou de 5,98 para 6,01%"
+title: 'Boletim Focus: Projeção média para 2023 passou de 5,98 para 6,01%'
 date: 2023-04-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção para o dólar comercial ficou em R$5,24 para 2023.
 

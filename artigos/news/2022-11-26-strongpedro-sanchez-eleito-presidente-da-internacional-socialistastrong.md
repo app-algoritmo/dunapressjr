@@ -1,11 +1,12 @@
 ---
-title: "<strong>Pedro Sánchez eleito presidente da Internacional Socialista</strong>"
+title: <strong>Pedro Sánchez eleito presidente da Internacional Socialista</strong>
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O Presidente do Governo espanhol atacou a direita, qualificando-a de "pessimista" e "reacionária".
 

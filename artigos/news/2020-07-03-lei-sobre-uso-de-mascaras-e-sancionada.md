@@ -1,11 +1,12 @@
 ---
-title: "Lei sobre uso de máscaras é sancionada"
+title: Lei sobre uso de máscaras é sancionada
 date: 2020-07-03
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## A norma trata da circulação em espaços, vias e transportes públicos. Medidas de limpeza em locais públicos também estão previstas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Guia Essencial de Vitaminas e Nutrientes para a Saúde"
+title: Guia Essencial de Vitaminas e Nutrientes para a Saúde
 date: 2024-10-26
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Well-being
+- Well-being
 ---
+
 
 Manter uma alimentação equilibrada é essencial para garantir o bom funcionamento do corpo. Uma das maneiras de atingir esse equilíbrio é através da ingestão adequada de vitaminas e nutrientes, cada um desempenhando papéis específicos em nosso organismo. Abaixo, discutiremos a importância de cada vitamina e alguns nutrientes essenciais, assim como onde podem ser encontrados.
 

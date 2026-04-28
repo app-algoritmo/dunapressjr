@@ -1,11 +1,12 @@
 ---
-title: "O segredo mais profundo de um homem"
+title: O segredo mais profundo de um homem
 date: 2020-02-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Por que a noiva dá sete voltas ao redor do noivo na *chupá? É uma indicação do poder do marido sobre a mulher?
 

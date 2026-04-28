@@ -1,11 +1,13 @@
 ---
-title: "5 dicas para atender bem o cliente: conquiste a confiança e a satisfação do consumidor"
+title: '5 dicas para atender bem o cliente: conquiste a confiança e a satisfação do
+  consumidor'
 date: 2022-12-12
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 A qualidade do relacionamento com os consumidores é um importante fator para o sucesso de uma empresa. Contudo, nem sempre é tarefa fácil, concorda? Então, que tal algumas dicas para atender bem o cliente, melhorando sua experiência?
 

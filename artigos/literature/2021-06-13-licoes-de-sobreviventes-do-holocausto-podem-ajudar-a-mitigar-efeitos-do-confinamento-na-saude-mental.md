@@ -1,11 +1,13 @@
 ---
-title: "Lições de sobreviventes do Holocausto podem ajudar a mitigar efeitos do confinamento na saúde mental"
+title: Lições de sobreviventes do Holocausto podem ajudar a mitigar efeitos do confinamento
+  na saúde mental
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Além dos prejuízos econômicos, como redução da renda e o desemprego, a pandemia está causando danos psicológicos irreversíveis. De acordo com o economista José Pio Martins, reitor da Universidade Positivo e membro da Academia Paranaense de Letras, o confinamento necessário para conter o contágio da Covid-19 é uma tragédia para o relacionamento, principalmente para as crianças, que estão afastadas dos amigos. "A escola não é apenas local de alfabetização, instrução, é espaço de lazer, de relacionamento humano e social, em que a criança vai se adaptando à sociedade", afirma.
 

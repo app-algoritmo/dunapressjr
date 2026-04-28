@@ -1,11 +1,12 @@
 ---
-title: "Bolsista cria método inovador para tratar osteoartrite"
+title: Bolsista cria método inovador para tratar osteoartrite
 date: 2021-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Tratamento desenvolvido por doutorando da UFRN, bolsista da CAPES, reduz a dor e otimiza a recuperação.
 

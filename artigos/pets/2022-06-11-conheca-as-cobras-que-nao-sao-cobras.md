@@ -1,11 +1,12 @@
 ---
-title: "Conheça as cobras que não são cobras"
+title: Conheça as cobras que não são cobras
 date: 2022-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Elas têm o corpo comprido, não possuem pernas ou braços, rastejam no chão e são até chamadas de cobras, mas não são! Apesar dessas qualidades serem marcantes nas serpentes, há outros animais que também as possuem. Essa semelhança pode gerar confusão nos seres humanos – que são, afinal de contas, quem dá nome aos bichos. 
 

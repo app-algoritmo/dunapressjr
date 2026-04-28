@@ -1,11 +1,12 @@
 ---
-title: "Viva Magenta: confira quatro dicas para usar a cor de 2023 na decoração"
+title: 'Viva Magenta: confira quatro dicas para usar a cor de 2023 na decoração'
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 A Pantone Color Institute, empresa americana de consultoria de cores, acaba de anunciar a cor do ano para 2023. A tonalidade escolhida é a 18-1750. Batizada de Viva Magenta, a cor possui um tom específico e vibrante de vermelho e é inspirada na natureza, transmitindo vigor, energia, alegria e poder.
 

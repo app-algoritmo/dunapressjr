@@ -1,11 +1,12 @@
 ---
-title: "Urgente: Televisão americana denuncia fraude eleitoral no Brasil"
+title: 'Urgente: Televisão americana denuncia fraude eleitoral no Brasil'
 date: 2022-11-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Suprema corte brasileira varre fraude eleitoral para debaixo do tapete.
 

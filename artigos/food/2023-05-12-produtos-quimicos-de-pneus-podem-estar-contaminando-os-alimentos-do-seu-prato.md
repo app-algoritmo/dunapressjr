@@ -1,11 +1,12 @@
 ---
-title: "Produtos químicos de pneus podem estar contaminando os alimentos do seu prato"
+title: Produtos químicos de pneus podem estar contaminando os alimentos do seu prato
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## Cada vez mais vegetais e frutas estão sendo contaminados com toxinas da poluição relacionada a veículos, como pedaços de pneus e resíduos, descobriu um [novo estudo](https://studyfinds.org/chemicals-tires-soil-contamination/) da Áustria.
 

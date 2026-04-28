@@ -1,11 +1,13 @@
 ---
-title: "Tropas brasileiras e americanas trabalham juntas para conquistar objetivos em guerra simulada"
+title: Tropas brasileiras e americanas trabalham juntas para conquistar objetivos
+  em guerra simulada
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Os objetivos da Força-Tarefa do 52° Batalhão de Infantaria de Selva (FT 52° BIS), composta por tropas brasileiras e americanas, foram alcançados com sucesso durante o Exercício CORE 23. As duas Companhias de Fuzileiros de Selva e o Posto de Comando Tático infiltraram em ambiente de selva durante a madrugada, estratégia escolhida para surpreender o inimigo em confronto simulado. A atividade aconteceu em uma área de lagos e floresta no município de Ferreira Gomes, no estado do Amapá.
 

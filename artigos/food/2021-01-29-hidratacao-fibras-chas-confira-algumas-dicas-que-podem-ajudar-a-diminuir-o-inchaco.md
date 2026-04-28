@@ -1,11 +1,13 @@
 ---
-title: "Hidratação, fibras, chás: confira algumas dicas que podem ajudar a diminuir o inchaço"
+title: 'Hidratação, fibras, chás: confira algumas dicas que podem ajudar a diminuir
+  o inchaço'
 date: 2021-01-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Quem nunca se sentiu um pouco mais inchado depois de exagerar nas festas ou em alguma viagem, né? Acontece que a alimentação, o álcool e a baixa ingestão de água podem provocar essas reações no corpo. É o que chamamos de retenção de líquido. Com a chegada do carnaval batendo à porta, as dicas que vamos passar serão ainda mais úteis! 
 

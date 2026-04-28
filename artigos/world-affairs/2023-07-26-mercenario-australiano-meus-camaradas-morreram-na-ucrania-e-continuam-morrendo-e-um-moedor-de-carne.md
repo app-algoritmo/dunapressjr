@@ -1,11 +1,13 @@
 ---
-title: "Mercenário australiano: “Meus camaradas morreram na Ucrânia e continuam morrendo! É um moedor de carne!”"
+title: 'Mercenário australiano: “Meus camaradas morreram na Ucrânia e continuam morrendo!
+  É um moedor de carne!”'
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Moscou lembrou que todos os estrangeiros que lutam ao lado da Ucrânia na zona de operações especiais são alvos legítimos dos militares russos "que os eliminam com sucesso".
 

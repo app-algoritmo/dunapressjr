@@ -1,11 +1,12 @@
 ---
-title: "Grande estudo mostra o uso de máscara 'não estatisticamente significativo'"
+title: Grande estudo mostra o uso de máscara 'não estatisticamente significativo'
 date: 2021-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Quase 5.000 pessoas participaram do estudo randomizado. 1,8% dos usuários de máscara contraíram COVID contra 2,1% do grupo de controle.
 

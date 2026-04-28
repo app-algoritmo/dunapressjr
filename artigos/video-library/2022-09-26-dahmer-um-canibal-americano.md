@@ -1,11 +1,12 @@
 ---
-title: "Dahmer , Um Canibal Americano"
+title: Dahmer , Um Canibal Americano
 date: 2022-09-26
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 O Mal não é Passível de Defesa
 

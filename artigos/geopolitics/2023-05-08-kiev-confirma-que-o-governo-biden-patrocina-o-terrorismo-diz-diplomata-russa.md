@@ -1,11 +1,12 @@
 ---
-title: "Kiev confirma que o governo Biden patrocina o terrorismo, diz diplomata russa"
+title: Kiev confirma que o governo Biden patrocina o terrorismo, diz diplomata russa
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A porta-voz do Ministério das Relações Exteriores da Rússia observou comentários do chefe da Diretoria Principal de Inteligência do Ministério da Defesa ucraniano, que afirmou que a Ucrânia estava e estaria matando russos "em qualquer lugar do mundo até a vitória completa da Ucrânia".
 

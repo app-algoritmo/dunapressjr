@@ -1,11 +1,12 @@
 ---
-title: "STF: maioria vota contra aval de sindicatos para suspensão de contrato"
+title: 'STF: maioria vota contra aval de sindicatos para suspensão de contrato'
 date: 2020-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Por 7 votos a 3, Supremo decidiu que acordos são válidos
 

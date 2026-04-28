@@ -1,11 +1,12 @@
 ---
-title: "CGU e PF combatem desvios de recursos da saúde em Brejo (MA)"
+title: CGU e PF combatem desvios de recursos da saúde em Brejo (MA)
 date: 2021-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Desatino investiga fraudes na contratação de empresa especializada em prestação de serviços médicos clínicos e em diversas especialidades.
 

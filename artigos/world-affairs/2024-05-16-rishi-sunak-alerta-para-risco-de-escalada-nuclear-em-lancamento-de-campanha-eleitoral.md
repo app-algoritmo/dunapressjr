@@ -1,11 +1,13 @@
 ---
-title: "Rishi Sunak Alerta para Risco de Escalada Nuclear em Lançamento de Campanha Eleitoral"
+title: Rishi Sunak Alerta para Risco de Escalada Nuclear em Lançamento de Campanha
+  Eleitoral
 date: 2024-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Numa abertura "suave" da sua campanha eleitoral para as eleições gerais britânicas ainda sem data definida, o primeiro-ministro conservador britânico, Rishi Sunak, lançou um alerta na segunda-feira, enfatizando que "o mundo está mais perto de uma escalada nuclear do que em qualquer outro momento desde a crise de Cuba".
 

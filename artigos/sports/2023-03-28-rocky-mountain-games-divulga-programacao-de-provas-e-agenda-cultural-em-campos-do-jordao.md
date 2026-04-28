@@ -1,11 +1,13 @@
 ---
-title: "Rocky Mountain Games divulga programação de provas e agenda cultural em Campos do Jordão"
+title: Rocky Mountain Games divulga programação de provas e agenda cultural em Campos
+  do Jordão
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A abertura da temporada 2023 do Rocky Mountain Games entra em contagem regressiva. Campos do Jordão recebe o maior festival de cultura de montanha do Brasil nos dias 1º e 2 de abril, na decantada Suíça Brasileira. A arena montada na Praça Pinho Bravo será o ponto de encontro de atletas de aventura que se dividirão entre pedal e corrida pelas trilhas da Serra da Mantiqueira. Para quem preferir assistir e torcer pelos atletas, a programação com cinema, show, espaço para alimentação e ativações, como slackline e arremesso de machado, tem entrada grátis.
 

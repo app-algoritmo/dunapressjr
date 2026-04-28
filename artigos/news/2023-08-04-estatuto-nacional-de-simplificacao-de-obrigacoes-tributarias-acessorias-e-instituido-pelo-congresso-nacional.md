@@ -1,11 +1,13 @@
 ---
-title: "Estatuto nacional de simplificação de obrigações tributárias acessórias é instituído pelo Congresso Nacional"
+title: Estatuto nacional de simplificação de obrigações tributárias acessórias é instituído
+  pelo Congresso Nacional
 date: 2023-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medidas buscam reduzir a burocracia e incentivar a conformidade fiscal em todos os níveis governamentais.
 

@@ -1,12 +1,13 @@
 ---
-title: "Luizomar retorna ao Osasco São Cristóvão Saúde após título africano"
+title: Luizomar retorna ao Osasco São Cristóvão Saúde após título africano
 date: 2023-08-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Depois de levar a seleção do Quênia à conquista continental, treinador e parte de sua Comissão Técnica acompanham a partida desta quinta-feira (31), contra o Pinheiros, pelo Estadual.
 

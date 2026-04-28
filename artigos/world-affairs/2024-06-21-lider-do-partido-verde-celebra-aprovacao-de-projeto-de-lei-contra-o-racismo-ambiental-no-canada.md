@@ -1,11 +1,13 @@
 ---
-title: "Líder do Partido Verde Celebra Aprovação de Projeto de Lei Contra o Racismo Ambiental no Canadá"
+title: Líder do Partido Verde Celebra Aprovação de Projeto de Lei Contra o Racismo
+  Ambiental no Canadá
 date: 2024-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Elizabeth May destaca importância da nova legislação para combater desigualdades ambientais que afetam comunidades marginalizadas**.
 

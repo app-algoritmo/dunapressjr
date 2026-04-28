@@ -1,11 +1,12 @@
 ---
-title: "'Agenda Verde' inclui vermes, canibalismo e água recuperada"
+title: '''Agenda Verde'' inclui vermes, canibalismo e água recuperada'
 date: 2023-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Insetos como o futuro dos alimentos estão sendo disfarçados em retórica “sustentável” por globalistas que esperam elevar a ideia ao status de “garoto legal”. Aqui estão mais duas sugestões arrepiantes.
 

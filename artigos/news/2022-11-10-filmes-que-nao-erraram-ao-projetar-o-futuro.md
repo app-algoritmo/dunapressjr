@@ -1,11 +1,12 @@
 ---
-title: "Filmes que não erraram ao projetar o futuro"
+title: Filmes que não erraram ao projetar o futuro
 date: 2022-11-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O cinema é uma arte capaz de fazer com que o público sinta uma série de sentimentos diferentes: alegria, tristeza, esperança, amor e ódio, entre tantas outras. Mas, além de fisgar a audiência pelos sentimentos, existem alguns filmes que também se destacam por analisar a humanidade e, assim, tentar prever como será o futuro.
 

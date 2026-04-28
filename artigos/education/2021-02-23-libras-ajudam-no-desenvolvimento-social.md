@@ -1,11 +1,12 @@
 ---
-title: "Libras ajudam no desenvolvimento social"
+title: Libras ajudam no desenvolvimento social
 date: 2021-02-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 No dicionário da língua portuguesa, a palavra “comunicar” significa compartilhar ideias, sentimentos, emoções, esclarecer alguma coisa, avisar, entre outros. Há pessoas que se comunicam por meio de sinais. Estamos falando das pessoas surdas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Centro de Gerenciamento da Navegação Aérea atua em apoio à Operação COVID-19"
+title: Centro de Gerenciamento da Navegação Aérea atua em apoio à Operação COVID-19
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Centro de Gerenciamento da Navegação Aérea (CGNA), unidade subordinada ao Departamento de Controle do Espaço Aéreo (DECEA), ativou um Plano de Contingência para gerenciar a situação do tráfego aéreo, decorrente da pandemia da COVID-19.
 

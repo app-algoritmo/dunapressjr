@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Bancada liberal"
+title: 'Série Fatos Da Independência: Bancada liberal'
 date: 2023-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O decreto de Dom Pedro, que convocou a Assembleia Nacional Constituinte, foi publicado no dia 3 de junho de 1822, um pouco antes da Independência do Brasil. Naturalmente, após a proclamação da Independência, a elaboração de uma constituição tornava-se ainda mais essencial e contou com acaloradas discussões sobre quais deveriam ser as relações entre os poderes em uma monarquia constitucional.
 

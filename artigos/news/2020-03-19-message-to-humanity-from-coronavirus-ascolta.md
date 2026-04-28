@@ -1,11 +1,12 @@
 ---
-title: "Message to humanity from #coronavirus # Ascolta"
+title: 'Message to humanity from #coronavirus # Ascolta'
 date: 2020-03-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 From: Darinka Montico - Voice Giulia Chianese
 

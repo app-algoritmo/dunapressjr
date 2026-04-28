@@ -1,11 +1,12 @@
 ---
-title: "Comunidades Terapêuticas e grupos auxiliam quem precisa de apoio durante pandemia"
+title: Comunidades Terapêuticas e grupos auxiliam quem precisa de apoio durante pandemia
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A importância do manter o atendimento aos dependentes químicos fez com que a comunidades terapêuticas fossem consideradas pelo Governo Federal[ serviço essencial](http://www.in.gov.br/en/web/dou/-/portaria-n-340-de-30-de-marco-de-2020-250405535) durante a pandemia do novo coronavírus. Assim, mesmo com o isolamento social provocado pela doença, as atividades não foram interrompidas. Grupos de apoio se adaptaram e fazem reuniões virtuais para não deixar desassistidos os que precisam de ajuda.
 

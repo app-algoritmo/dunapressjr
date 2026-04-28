@@ -1,11 +1,13 @@
 ---
-title: "Governo Central registra déficit primário de R$ 20,6 bilhões em fevereiro de 2022"
+title: Governo Central registra déficit primário de R$ 20,6 bilhões em fevereiro de
+  2022
 date: 2022-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado do primeiro bimestre do ano, há superávit primário de R$ 56 bilhões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Para compensar nova tabela de IR, governo pretende taxar apostas online"
+title: Para compensar nova tabela de IR, governo pretende taxar apostas online
 date: 2023-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo Haddad, maioria dos países tributa esse tipo de jogo.
 

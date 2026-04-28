@@ -1,11 +1,12 @@
 ---
-title: "Divulgado resultado do Fies nesta terça-feira (04)"
+title: Divulgado resultado do Fies nesta terça-feira (04)
 date: 2020-08-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os pré-selecionados devem complementar a inscrição até esta quinta-feira (06).
 

@@ -1,11 +1,12 @@
 ---
-title: "Microempreendedor individual é incluído em programa de crédito"
+title: Microempreendedor individual é incluído em programa de crédito
 date: 2022-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Peac-FGI deverá garantir R$ 21 bi em empréstimos até o fim de 2023.
 

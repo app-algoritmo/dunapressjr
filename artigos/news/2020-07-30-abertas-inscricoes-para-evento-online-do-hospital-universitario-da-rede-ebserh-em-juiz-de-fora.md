@@ -1,11 +1,13 @@
 ---
-title: "Abertas Inscrições para evento online do hospital universitário da Rede Ebserh em Juiz de Fora"
+title: Abertas Inscrições para evento online do hospital universitário da Rede Ebserh
+  em Juiz de Fora
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Evento que comemora 54 anos do HU-UFJF/Ebserh aborda desafios à saúde pública no pós-pandemia.
 

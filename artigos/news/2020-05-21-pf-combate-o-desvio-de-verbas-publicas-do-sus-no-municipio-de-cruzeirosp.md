@@ -1,11 +1,12 @@
 ---
-title: "PF combate o desvio de verbas públicas do SUS no Município de Cruzeiro/SP"
+title: PF combate o desvio de verbas públicas do SUS no Município de Cruzeiro/SP
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cruzeiro/SP – A Polícia Federal, em conjunto com a Controladoria Geral da União, deflagrou nesta quinta-feira (21/5) a Operação MEDCRUZ, voltada ao combate do desvio de verbas públicas do Sistema Único de Saúde (SUS) destinadas à Prefeitura do Município de Cruzeiro/SP.
 

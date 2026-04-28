@@ -1,11 +1,12 @@
 ---
-title: "Homologadas diretrizes para ensino a distância durante a pandemia pelo MEC"
+title: Homologadas diretrizes para ensino a distância durante a pandemia pelo MEC
 date: 2020-06-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Documento traz uma série de atividades não presenciais que podem ser utilizadas pelas redes de ensino.
 

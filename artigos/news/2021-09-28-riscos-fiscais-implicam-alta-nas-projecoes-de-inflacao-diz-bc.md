@@ -1,11 +1,12 @@
 ---
-title: "Riscos fiscais implicam alta nas projeções de inflação, diz BC"
+title: Riscos fiscais implicam alta nas projeções de inflação, diz BC
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Autarquia elevou taxa básica de juros a 6,25% ao ano na semana passada.
 

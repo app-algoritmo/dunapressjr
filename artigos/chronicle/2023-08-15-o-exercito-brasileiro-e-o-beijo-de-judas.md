@@ -1,12 +1,13 @@
 ---
-title: "O exército brasileiro e o beijo de Judas"
+title: O exército brasileiro e o beijo de Judas
 date: 2023-08-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 ## **Uma nação traída**
 

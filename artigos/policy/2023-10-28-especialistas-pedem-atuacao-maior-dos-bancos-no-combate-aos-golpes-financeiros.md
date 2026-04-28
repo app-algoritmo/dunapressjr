@@ -1,11 +1,12 @@
 ---
-title: "Especialistas pedem atuação maior dos bancos no combate aos golpes financeiros"
+title: Especialistas pedem atuação maior dos bancos no combate aos golpes financeiros
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Fraudes envolvendo vazamento de dados bancários são classificadas como uma "epidemia" no País.
 

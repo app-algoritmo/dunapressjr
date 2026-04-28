@@ -1,11 +1,12 @@
 ---
-title: "Turismo sustentável: atividade ajuda na preservação ambiental"
+title: 'Turismo sustentável: atividade ajuda na preservação ambiental'
 date: 2022-09-29
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Considerado um setor com potencial no Brasil, devido às paisagens naturais do país, o turismo sustentável pode contribuir para a preservação do meio ambiente e da cultura nacional, além de trazer benefícios econômicos. A atividade, no entanto, enfrenta desafios por conta de fatores como a destruição ambiental nos últimos anos. 
 

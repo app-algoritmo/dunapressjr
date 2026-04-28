@@ -1,11 +1,13 @@
 ---
-title: "Portaria altera data para apresentação de projetos e amplia valores de captação da Lei de Incentivo"
+title: Portaria altera data para apresentação de projetos e amplia valores de captação
+  da Lei de Incentivo
 date: 2020-06-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ajustes melhoram gestão e atendem reivindicações de proponentes e patrocinadores. Uma das intenções é garantir que a análise dos projetos ocorra no mesmo ano em que são apresentados.
 

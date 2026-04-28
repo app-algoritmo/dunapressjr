@@ -1,12 +1,13 @@
 ---
-title: "Paulo Freire, o patrono da tragédia educacional brasileira"
+title: Paulo Freire, o patrono da tragédia educacional brasileira
 date: 2019-10-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 *Por Rogério Marinho* 
 

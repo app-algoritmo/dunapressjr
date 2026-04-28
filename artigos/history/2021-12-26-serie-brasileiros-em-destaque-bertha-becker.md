@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Bertha Becker ￼"
+title: 'Série Brasileiros em Destaque: Bertha Becker ￼'
 date: 2021-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Geógrafa e historiadora.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa impactos da redução de impostos sobre a produtividade"
+title: Estudo analisa impactos da redução de impostos sobre a produtividade
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Secretaria de Política Econômica avaliou efeitos da diminuição de tributos na alocação de recursos.
 

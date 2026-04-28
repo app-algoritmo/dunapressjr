@@ -1,11 +1,13 @@
 ---
-title: "Curso sobre procedimentos contábeis de concessões de serviços públicos já está disponível na internet"
+title: Curso sobre procedimentos contábeis de concessões de serviços públicos já está
+  disponível na internet
 date: 2021-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Capacitação foi ofertada para municípios apoiados pelo governo federal, por meio do FEP, para o desenvolvimento de projetos de parceria público privadas em iluminação pública.
 

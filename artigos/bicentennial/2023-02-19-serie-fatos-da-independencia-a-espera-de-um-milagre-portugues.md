@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A espera de um milagre português"
+title: 'Série Fatos Da Independência: A espera de um milagre português'
 date: 2023-02-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 As lideranças do Grão-Pará já não contavam com a fidelidade de suas tropas para sustentar e servir a Junta de Governo. Havia uma grande expectativa no envio português de reforços o mais rápido possível. Entretanto, a situação em Lisboa também não era boa: Dom João VI estava em plena disputa política com as Cortes e o envio de tropas ao Brasil poderia desequilibrar a balança no conflito português. Apesar disso, os paraenses mantinham a crença de que tudo poderia ser resolvido. A cada novo navio aportando em Belém, eram especulados se não seriam os possíveis reforços portugueses.
 

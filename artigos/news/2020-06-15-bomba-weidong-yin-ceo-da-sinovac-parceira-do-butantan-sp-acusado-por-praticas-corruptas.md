@@ -1,11 +1,13 @@
 ---
-title: "Bomba: Weidong Yin, CEO da Sinovac parceira do butantan SP acusado por práticas corruptas"
+title: 'Bomba: Weidong Yin, CEO da Sinovac parceira do butantan SP acusado por práticas
+  corruptas'
 date: 2020-06-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Investigação das atividades da Sinovac na China entre 2002 e 2011.
 

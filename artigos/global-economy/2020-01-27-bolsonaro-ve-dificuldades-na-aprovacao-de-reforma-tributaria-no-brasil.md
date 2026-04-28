@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro vê dificuldades na aprovação de reforma tributária no Brasil"
+title: Bolsonaro vê dificuldades na aprovação de reforma tributária no Brasil
 date: 2020-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Presidente diz que nenhum ente federativo aceita perder arrecadação*
 

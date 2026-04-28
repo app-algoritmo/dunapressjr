@@ -1,11 +1,13 @@
 ---
-title: "Caminhão do Peixe de Itajaí, registra 11 toneladas de peixes comercializados em 2020"
+title: Caminhão do Peixe de Itajaí, registra 11 toneladas de peixes comercializados
+  em 2020
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminhão do Peixe levou 11 toneladas e 266 quilos de pescadas aos bairros de Itajaí em todo o ano de 2020. O programa da Secretaria Municipal de Desenvolvimento Econômico é responsável pela popularização do acesso aos peixes e pescados no maior polo pesqueiro do Brasil. O caminhão percorreu os bairros e localidades de Itajaí e superou em três toneladas as vendas de 2019.
 

@@ -1,12 +1,14 @@
 ---
-title: "Caravana do Esporte, do IEE, chega a Diadema (SP) e atende a 1.400 crianças a partir desta terça-feira (5)"
+title: Caravana do Esporte, do IEE, chega a Diadema (SP) e atende a 1.400 crianças
+  a partir desta terça-feira (5)
 date: 2023-12-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Serão três dias de atividades gratuitas com a presença de vários atletas convidados, como o medalhista de ouro e campeão mundial da ginástica Arthur Zanetti e Dayane da Rocha, do handebol, que participou dos Jogos Olímpicos de Tóquio e de Londres.
 

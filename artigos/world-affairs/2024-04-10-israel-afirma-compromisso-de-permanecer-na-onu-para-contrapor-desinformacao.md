@@ -1,11 +1,12 @@
 ---
-title: "Israel Afirma Compromisso de Permanecer na ONU para Contrapor Desinformação"
+title: Israel Afirma Compromisso de Permanecer na ONU para Contrapor Desinformação
 date: 2024-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em declaração feita nas Nações Unidas, o enviado de Israel, Gilad Erdan, reiterou a posição do país sobre sua filiação à ONU, descartando especulações sobre uma possível saída. Erdan enfatizou a determinação de Israel em permanecer no âmbito da ONU para "expor a verdade" em meio aos desafios contínuos.
 

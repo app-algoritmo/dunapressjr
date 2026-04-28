@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra Operação BN para prender assaltante dos Correios"
+title: PF deflagra Operação BN para prender assaltante dos Correios
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal, após seis meses de investigação, deflagrou nesta quarta-feira (27/5) a Operação BN, com o objetivo de prender assaltante dos Correios. 
 

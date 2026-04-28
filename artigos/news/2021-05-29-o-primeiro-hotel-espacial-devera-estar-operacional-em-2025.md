@@ -1,11 +1,12 @@
 ---
-title: "O primeiro hotel espacial deverá estar operacional em 2025"
+title: O primeiro hotel espacial deverá estar operacional em 2025
 date: 2021-05-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## 'Estação Espacial Von Braun' consistirá em uma roda giratória de 190 metros de diâmetro com 24 módulos.
 

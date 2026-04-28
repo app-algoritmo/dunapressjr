@@ -1,12 +1,13 @@
 ---
-title: "Carioca Shopping arrecada potes de vidro para doação de leite materno"
+title: Carioca Shopping arrecada potes de vidro para doação de leite materno
 date: 2023-08-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - Shopping
+- Health
+- Shopping
 ---
+
 
 ## Ação lembra o Agosto Dourado e acontece até o dia 31 de agosto.
 

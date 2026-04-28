@@ -1,11 +1,12 @@
 ---
-title: "Inep antecipa horário de abertura dos portões"
+title: Inep antecipa horário de abertura dos portões
 date: 2021-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os participantes do Exame Nacional do Ensino Médio (Enem) 2020 devem ficar atentos nesta edição. Os portões dos locais de aplicação serão abertos mais cedo, às 11h30 (horário de Brasília). Assim, o participante terá até 1 hora e 30 minutos para acessar o local de prova. Essa é uma das medidas de segurança adotada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) em decorrência da Covid-19, para garantir uma aplicação segura para os 5.783.357 inscritos.
 

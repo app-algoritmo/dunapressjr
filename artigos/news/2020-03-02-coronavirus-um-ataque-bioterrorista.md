@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus um ataque bioterrorista?"
+title: Coronavírus um ataque bioterrorista?
 date: 2020-03-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na análise realizada pelo canal rural business, os especialistas levantam um curioso histórico de contágios, assista:
 

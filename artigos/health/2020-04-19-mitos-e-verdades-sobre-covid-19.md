@@ -1,11 +1,12 @@
 ---
-title: "Mitos e Verdades sobre COVID-19"
+title: Mitos e Verdades sobre COVID-19
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As redes móveis 5G NÃO espalham o COVID-19.
 

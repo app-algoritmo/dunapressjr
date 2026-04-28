@@ -1,11 +1,12 @@
 ---
-title: "Protestos agrários na Europa: nova 'Primavera Popular'?"
+title: 'Protestos agrários na Europa: nova ''Primavera Popular''?'
 date: 2024-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Há pouco mais de duzentos anos, nas linhas que dariam forma à sua *Fenomenologia do Espírito* , Hegel notou que a humanidade se encontrava numa conjuntura histórica complexa; num momento de profundas transformações; num **ponto de intersecção com uma nova realidade ainda escondida, mas pronta para ser revelada** ; em “uma época, em suma, de nascimento e transição para um novo período”.
 

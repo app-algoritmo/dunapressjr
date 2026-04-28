@@ -1,11 +1,12 @@
 ---
-title: "A parábola de 11 de setembro"
+title: A parábola de 11 de setembro
 date: 2021-09-11
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **QUE VENHAM MAIS CÓDIGOS!**
 

@@ -1,11 +1,13 @@
 ---
-title: "Conselho de Normas Internacionais de Contabilidade (Iasb) orienta aplicação da IFRS 9"
+title: Conselho de Normas Internacionais de Contabilidade (Iasb) orienta aplicação
+  da IFRS 9
 date: 2020-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Diante das incertezas que tomaram conta do ambiente econômico mundial, em decorrência da pandemia de Covid-19, o Conselho de Normas Internacionais de Contabilidade (Iasb, na sigla em inglês), divulgou, na sexta-feira (27/3), um documento em que orienta sobre a aplicação do IFRS 9 – Instrumentos Financeiros.
 

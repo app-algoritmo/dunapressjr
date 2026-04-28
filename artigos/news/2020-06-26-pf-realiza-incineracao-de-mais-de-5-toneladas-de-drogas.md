@@ -1,11 +1,12 @@
 ---
-title: "PF realiza incineração de mais de 5 toneladas de drogas"
+title: PF realiza incineração de mais de 5 toneladas de drogas
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Volta Redonda/RJ - Na manhã desta quinta-feira, 25/06, no bojo das ações da Semana Nacional de Políticas sobre Drogas, a Polícia Federal realiza a incineração de mais de 5 toneladas de entorpecentes oriundos de diversas apreensões realizadas no Estado do Rio de Janeiro.
 

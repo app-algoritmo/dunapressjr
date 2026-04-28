@@ -1,11 +1,13 @@
 ---
-title: "STF suspende exigências de leis para governo adotar medidas sociais e econômicas contra Covid-19"
+title: STF suspende exigências de leis para governo adotar medidas sociais e econômicas
+  contra Covid-19
 date: 2020-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O pedido foi feito pela AGU na quinta-feira (26), por meio de Ação Direta de Inconstitucionalidade, e a liminar foi concedida no domingo (29) pelo ministro Alexandre de Moraes
 

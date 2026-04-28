@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,11, mas termina semana em queda"
+title: Dólar sobe para R$ 5,11, mas termina semana em queda
 date: 2023-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores cai pelo segundo dia consecutivo, em dia de correção.
 

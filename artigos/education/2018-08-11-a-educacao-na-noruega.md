@@ -1,12 +1,13 @@
 ---
-title: "A educação na Noruega"
+title: A educação na Noruega
 date: 2018-08-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Magazine
+- Education
+- Magazine
 ---
+
 
 ## A Educação Norueguesa é considerada uma das melhores do mundo, seu modelo é exportado e muitos países já adotam a experiência educacional norueguesa com sucesso. A excelência da Noruega na área da Educacional por anos rendeu-lhe o título de **líder global em educação**.
 

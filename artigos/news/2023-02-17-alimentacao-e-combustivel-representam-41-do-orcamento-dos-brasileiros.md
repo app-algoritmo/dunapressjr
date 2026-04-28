@@ -1,11 +1,12 @@
 ---
-title: "Alimentação e combustível representam 41% do orçamento dos brasileiros"
+title: Alimentação e combustível representam 41% do orçamento dos brasileiros
 date: 2023-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para a baixa renda, o número sobe para 46%, diz pesquisa da Elo.
 

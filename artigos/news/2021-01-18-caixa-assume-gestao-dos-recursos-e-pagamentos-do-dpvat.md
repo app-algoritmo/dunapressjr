@@ -1,11 +1,12 @@
 ---
-title: "Caixa assume gestão dos recursos e pagamentos do Dpvat"
+title: Caixa assume gestão dos recursos e pagamentos do Dpvat
 date: 2021-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Não há nenhuma mudança nas regras de indenização.
 

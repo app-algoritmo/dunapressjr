@@ -1,11 +1,13 @@
 ---
-title: "Kamala Harris Declara-se Pronta para Governar em Meio a Críticas à Saúde Mental de Biden"
+title: Kamala Harris Declara-se Pronta para Governar em Meio a Críticas à Saúde Mental
+  de Biden
 date: 2024-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A vice-presidente dos Estados Unidos, Kamala Harris, afirmou sua prontidão para governar em meio a crescentes críticas à saúde mental do presidente Joe Biden, especialmente após um relatório retratá-lo como um idoso homem com "memória ruim".
 

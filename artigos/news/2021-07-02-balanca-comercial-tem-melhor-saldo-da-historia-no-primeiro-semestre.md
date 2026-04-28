@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem melhor saldo da história no primeiro semestre"
+title: Balança comercial tem melhor saldo da história no primeiro semestre
 date: 2021-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País exportou US$ 37,496 bilhões a mais do que importou.
 

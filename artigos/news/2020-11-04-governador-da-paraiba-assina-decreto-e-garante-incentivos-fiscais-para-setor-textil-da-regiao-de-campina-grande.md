@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina decreto e garante incentivos fiscais para setor têxtil da região de Campina Grande"
+title: Governador da Paraíba assina decreto e garante incentivos fiscais para setor
+  têxtil da região de Campina Grande
 date: 2020-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Na oportunidade, o chefe do Executivo estadual ressaltou que os incentivos fiscais irão proporcionar diversos benefícios para toda a região.
 

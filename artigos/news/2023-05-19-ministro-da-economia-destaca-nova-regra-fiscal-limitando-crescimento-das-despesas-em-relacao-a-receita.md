@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Economia destaca nova regra fiscal limitando crescimento das despesas em relação à receita"
+title: Ministro da Economia destaca nova regra fiscal limitando crescimento das despesas
+  em relação à receita
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeções indicam que despesas não crescerão mais de 50% em relação ao incremento da receita, afirma Fernando Haddad.
 

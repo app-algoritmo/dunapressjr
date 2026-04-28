@@ -1,11 +1,12 @@
 ---
-title: "Putin dizima outro depósito de adrenocromo na Ucrânia"
+title: Putin dizima outro depósito de adrenocromo na Ucrânia
 date: 2023-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As forças russas “desativaram” na sexta-feira uma fábrica de adrenocromo no oeste da Ucrânia, desta vez atacando-a com mísseis de cruzeiro lançados de uma fragata no Mar do Norte, disse o agente russo do FSB Andrei Zakharov ao Real Raw News.
 

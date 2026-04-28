@@ -1,11 +1,12 @@
 ---
-title: "Mineração brasileira tem queda expressiva em balanço do 1º semestre"
+title: Mineração brasileira tem queda expressiva em balanço do 1º semestre
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Setor perdeu 54,2% do saldo comercial, comparado a 2021.
 

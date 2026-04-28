@@ -1,11 +1,12 @@
 ---
-title: "Caxias Shopping reúne opções de lazer para as férias de julho"
+title: Caxias Shopping reúne opções de lazer para as férias de julho
 date: 2024-07-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## As Férias do Caxias Shopping chegaram! Para agitar o mês de julho, o empreendimento localizado na Baixada Fluminense preparou uma programação especial para proporcionar um mês recheado de diversão e cultura para as crianças.
 

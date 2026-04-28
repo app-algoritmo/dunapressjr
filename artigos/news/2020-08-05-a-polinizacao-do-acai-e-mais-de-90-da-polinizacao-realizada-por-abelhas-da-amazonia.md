@@ -1,11 +1,13 @@
 ---
-title: "A polinização do açaí é mais de 90% da polinização realizada por abelhas da Amazônia"
+title: A polinização do açaí é mais de 90% da polinização realizada por abelhas da
+  Amazônia
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O estudo foi realizado em oito áreas nos municípios paraenses de Barcarena e Abaetetuba. Foram analisadas quatro áreas manejadas de açaí de várzea e outras quatro de plantios em terra firme.
 

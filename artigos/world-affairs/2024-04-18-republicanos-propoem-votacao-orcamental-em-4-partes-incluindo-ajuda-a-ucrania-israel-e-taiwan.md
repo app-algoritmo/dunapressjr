@@ -1,11 +1,13 @@
 ---
-title: "Republicanos Propõem Votação Orçamental em 4 Partes, Incluindo Ajuda à Ucrânia, Israel e Taiwan"
+title: Republicanos Propõem Votação Orçamental em 4 Partes, Incluindo Ajuda à Ucrânia,
+  Israel e Taiwan
 date: 2024-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da Câmara dos Representantes dos Estados Unidos, Mike Johnson, um republicano, apresentou uma abordagem inovadora para a votação do orçamento, propondo uma divisão em quatro partes. Esta iniciativa delineia um documento abrangente que inclui fundos de assistência destinados à Ucrânia, Israel e Taiwan, juntamente com uma alocação adicional para a segurança de fronteiras. No entanto, a recusa dos republicanos em aprovar a proposta está centrada principalmente na questão da segurança de fronteiras.
 

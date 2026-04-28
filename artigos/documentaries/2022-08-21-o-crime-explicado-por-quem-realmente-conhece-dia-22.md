@@ -1,11 +1,12 @@
 ---
-title: "O crime explicado por quem realmente conhece – dia 2/2"
+title: O crime explicado por quem realmente conhece – dia 2/2
 date: 2022-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo.
 

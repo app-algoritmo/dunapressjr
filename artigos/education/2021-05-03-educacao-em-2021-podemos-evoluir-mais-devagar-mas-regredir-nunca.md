@@ -1,11 +1,12 @@
 ---
-title: "Educação em 2021: podemos evoluir mais devagar; mas regredir, nunca!"
+title: 'Educação em 2021: podemos evoluir mais devagar; mas regredir, nunca!'
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Considerada um bem maior da humanidade, essencial ao progresso de qualquer nação, a Educação é indispensável para o desenvolvimento sadio de crianças e adolescentes. Por esse motivo, a Escola foi elevada ao patamar de serviço essencial durante a pandemia. No Dia Mundial da Educação - 28 de abril - cabe um oportuno movimento: subir à superfície, abastecer os pulmões de oxigênio e refletir: o que é ser essencial? Termo oriundo do latim, significa 'aquilo que constitui a natureza das coisas'. Se entendemos que a Educação humaniza o homem, não há nada mais inerente à natureza humana do que o próprio processo educativo.
 

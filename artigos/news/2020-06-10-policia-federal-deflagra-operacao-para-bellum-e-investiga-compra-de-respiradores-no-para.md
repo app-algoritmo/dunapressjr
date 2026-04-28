@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra Operação Para Bellum e investiga compra de respiradores no Pará"
+title: Polícia Federal deflagra Operação Para Bellum e investiga compra de respiradores
+  no Pará
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Belém/PA** - A Polícia Federal deflagrou, na manhã desta quarta-feira (10/5), a Operação "***PARA BELLUM***" com o objetivo de apurar a existência de fraude na compra de respiradores pulmonares pelo Governo do Estado do Pará, mediante contrato que se deu por dispensa de licitação, justificada pelo período de calamidade pública em virtude da pandemia do Coronavírus (COVID-19).
 

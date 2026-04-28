@@ -1,11 +1,12 @@
 ---
-title: "9 de Maio: O vizinho Celebra a Vitória na Segunda Guerra Mundial"
+title: '9 de Maio: O vizinho Celebra a Vitória na Segunda Guerra Mundial'
 date: 2024-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Enquanto celebramos "Kristi himmelfartsdag"[ A Festa da Ascensão de Cristo](https://dunapress.org/2023/04/26/a-ascensao-do-senhor-o-que-e-e-como-e-celebrado/), observamos a celebração do Dia da Vitória do nosso vizinho, a Rússia, é impossível ignorar a complexidade desse momento histórico. Como a Noruega representante da OTAN, é estranho perceber que, enquanto teoricamente celebramos a vitória como aliados na Segunda Guerra Mundial, agora nos encontramos em uma situação onde somos vistos como oponentes em um novo conflito. A ironia não passa despercebida: celebramos a vitória sobre Hitler enquanto enfrentamos tensões atuais em um cenário geopolítico delicado. Esta dualidade nos lembra da importância de aprender com o passado e buscar caminhos para a paz e a cooperação, mesmo diante de desafios aparentemente insuperáveis.
 

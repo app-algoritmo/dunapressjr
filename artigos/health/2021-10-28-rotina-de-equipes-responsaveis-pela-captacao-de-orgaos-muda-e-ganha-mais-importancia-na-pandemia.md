@@ -1,11 +1,13 @@
 ---
-title: "Rotina de equipes responsáveis pela captação de órgãos muda e ganha mais importância na pandemia"
+title: Rotina de equipes responsáveis pela captação de órgãos muda e ganha mais importância
+  na pandemia
 date: 2021-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Apesar das dificuldades impostas pela covid-19, hospital SUS mantém média de mais de 80% de conversão, ao desconstruir mitos e reforçar importância da doação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Onda de mortes de pilotos em 2023 preocupa indústria aeronáutica"
+title: Onda de mortes de pilotos em 2023 preocupa indústria aeronáutica
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O piloto da Air Canada e da Força Aérea Canadense Maurice Patenaude, de 54 anos, morreu em 26 de setembro de 2023 de “carcinoma de células renais terminal” (câncer turbo).
 

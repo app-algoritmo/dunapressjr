@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve queda com dados fracos sobre economia nos EUA"
+title: Dólar fecha em leve queda com dados fracos sobre economia nos EUA
 date: 2020-07-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Bolsa caiu 0,56% um dia após fechar no maior nível desde março**.
 

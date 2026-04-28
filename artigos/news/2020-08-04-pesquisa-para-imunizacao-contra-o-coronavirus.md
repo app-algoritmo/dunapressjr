@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa para imunização contra o coronavírus"
+title: Pesquisa para imunização contra o coronavírus
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A vacina de RNA é feita a partir do código genético do vírus. Pesquisa recebe apoio do Programa de Combate a Epidemias.
 

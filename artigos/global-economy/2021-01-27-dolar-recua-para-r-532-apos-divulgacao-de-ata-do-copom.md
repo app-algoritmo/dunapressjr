@@ -1,11 +1,12 @@
 ---
-title: "Dólar recua para R$ 5,32 após divulgação de ata do Copom"
+title: Dólar recua para R$ 5,32 após divulgação de ata do Copom
 date: 2021-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fechou em baixa pela quinta sessão consecutiva.
 

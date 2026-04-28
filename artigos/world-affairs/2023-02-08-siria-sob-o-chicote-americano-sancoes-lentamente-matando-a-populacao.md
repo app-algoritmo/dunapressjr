@@ -1,11 +1,12 @@
 ---
-title: "Síria sob o chicote americano: sanções lentamente matando a população"
+title: 'Síria sob o chicote americano: sanções lentamente matando a população'
 date: 2023-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A arma de sanções ocidentais não é nova na Síria, mas desde 2019 tornou-se uma arma mortal, destruindo setores sírios inteiros e matando a população.
 

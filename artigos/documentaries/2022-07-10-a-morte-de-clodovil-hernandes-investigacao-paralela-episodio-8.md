@@ -1,11 +1,12 @@
 ---
-title: "A morte de Clodovil Hernandes - Investigação Paralela – Episódio 8"
+title: A morte de Clodovil Hernandes - Investigação Paralela – Episódio 8
 date: 2022-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo |
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova proposta que prevê instalação de canis em presídios"
+title: Comissão aprova proposta que prevê instalação de canis em presídios
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Segurança Pública da Câmara dos Deputados aprovou projeto de lei que prevê a instalação de canis em estabelecimentos penais para abrigar animais abandonados, que serão tratados pelos detentos.
 

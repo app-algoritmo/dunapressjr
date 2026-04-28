@@ -1,11 +1,13 @@
 ---
-title: "Mais de 40% dos profissionais consideram pedir demissão se obrigados a retornar ao escritório todos os dias"
+title: Mais de 40% dos profissionais consideram pedir demissão se obrigados a retornar
+  ao escritório todos os dias
 date: 2023-12-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Especialista diz que flexibilidade é essencial para manter competitividade, atrair e reter talentos.
 

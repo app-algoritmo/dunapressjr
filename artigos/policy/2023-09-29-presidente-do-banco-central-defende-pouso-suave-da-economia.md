@@ -1,11 +1,12 @@
 ---
-title: "Presidente do Banco Central defende “pouso suave” da economia"
+title: Presidente do Banco Central defende “pouso suave” da economia
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Dados do Banco Central mostram que a inflação caiu 8,7 pontos percentuais entre 2022 e 2023.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo leva o Disque 100 aos brasileiros que estão no exterior"
+title: Governo leva o Disque 100 aos brasileiros que estão no exterior
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O canal de atendimento está pronto para receber denúncias relacionadas a violação de direitos humanos em decorrência da pandemia do novo coronavírus (Covid-19). 
 

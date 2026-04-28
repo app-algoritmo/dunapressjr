@@ -1,11 +1,12 @@
 ---
-title: "Calor aumenta na Noruega"
+title: Calor aumenta na Noruega
 date: 2019-08-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Diversos recordes de calor foram registrados na Noruega durante esse verão. O ponto mais quente medido até agora é em Etne, Hordaland, com 34,2 graus. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Cartilha com orientações sobre sistema financeiro para migrantes e refugiados é atualizada"
+title: Cartilha com orientações sobre sistema financeiro para migrantes e refugiados
+  é atualizada
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 06/05/2020 – **A Cartilha de Informações Financeiras para Migrantes e Refugiados, editada pelo Banco Central, foi atualizada. O Ministério da Justiça e Segurança Pública contribuiu para atualização, juntamente com a Agência da ONU para Refugiados e a Organização Internacional para as Migrações (OIM).
 

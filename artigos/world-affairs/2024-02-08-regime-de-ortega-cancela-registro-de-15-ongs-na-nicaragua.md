@@ -1,11 +1,12 @@
 ---
-title: "Regime de Ortega cancela registro de 15 ONGs na Nicarágua"
+title: Regime de Ortega cancela registro de 15 ONGs na Nicarágua
 date: 2024-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O regime liderado por Daniel Ortega na Nicarágua anunciou a revogação do registro de 15 organizações não governamentais (ONGs) nesta terça-feira, alegando descumprimento da lei e dissolução voluntária de seus membros. Com isso, o número total de organizações dissolvidas este ano chega a 35.
 

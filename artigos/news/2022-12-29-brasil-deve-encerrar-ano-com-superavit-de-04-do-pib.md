@@ -1,11 +1,12 @@
 ---
-title: "Brasil deve encerrar ano com superávit de 0,4% do PIB"
+title: Brasil deve encerrar ano com superávit de 0,4% do PIB
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É o primeiro resultado positivo desde 2013.
 

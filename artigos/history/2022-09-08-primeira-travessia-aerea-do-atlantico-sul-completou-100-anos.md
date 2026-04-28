@@ -1,11 +1,12 @@
 ---
-title: "Primeira Travessia Aérea do Atlântico Sul completou 100 anos"
+title: Primeira Travessia Aérea do Atlântico Sul completou 100 anos
 date: 2022-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 [
 ](https://www.fab.mil.br/sis/enoticias/imagens/original/43706/travessia_kjg.jpg)Um marco para a navegação aérea mundial completou 100 anos em 2022. De 30 de março a 17 de junho de 1922, os aviadores portugueses Gago Coutinho e Sacadura Cabral empreenderam a Primeira Travessia Aérea do Atlântico Sul. Partindo do Rio Tejo, em Lisboa, a aeronave batizada por Lusitânia, um hidroavião monomotor especialmente concebido para a ocasião, realizou o primeiro voo ligando Portugal ao Brasil, repetindo, assim, pelo ar, a viagem marítima do navegador português Pedro Álvares Cabral, alguns séculos antes.

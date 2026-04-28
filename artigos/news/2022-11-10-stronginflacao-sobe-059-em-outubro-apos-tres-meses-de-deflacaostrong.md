@@ -1,11 +1,12 @@
 ---
-title: "<strong>Inflação sobe 0,59% em outubro, após três meses de deflação</strong>"
+title: <strong>Inflação sobe 0,59% em outubro, após três meses de deflação</strong>
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acumulado de 12 meses está em 6,47%.
 

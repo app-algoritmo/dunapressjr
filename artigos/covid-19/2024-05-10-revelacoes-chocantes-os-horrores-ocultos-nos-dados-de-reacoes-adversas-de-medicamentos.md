@@ -1,11 +1,13 @@
 ---
-title: "Revelações Chocantes: Os Horrores Ocultos nos Dados de Reações Adversas de Medicamentos"
+title: 'Revelações Chocantes: Os Horrores Ocultos nos Dados de Reações Adversas de
+  Medicamentos'
 date: 2024-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Na mais recente entrevista com a jornalista investigativa Sonia Elijah, o analista de dados Wouter Aukema expõe uma verdade sombria que se esconde por trás dos números aparentemente inocentes do Centro Europeu de Relatórios de Reações Adversas (EudraVigilance).
 

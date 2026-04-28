@@ -1,11 +1,13 @@
 ---
-title: "Música e ações lúdicas aumentam acolhimento e aliviam dor e solidão dos pacientes internados por longos períodos"
+title: Música e ações lúdicas aumentam acolhimento e aliviam dor e solidão dos pacientes
+  internados por longos períodos
 date: 2021-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## **Com ações simples, profissionais da saúde inspiram e deixam ambiente hospitalar mais leve**.
 

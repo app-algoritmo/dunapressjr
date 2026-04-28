@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresce 2,4% em novembro, após dois meses de queda"
+title: Setor de serviços cresce 2,4% em novembro, após dois meses de queda
 date: 2022-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A perda acumulada foi 2,2%.
 

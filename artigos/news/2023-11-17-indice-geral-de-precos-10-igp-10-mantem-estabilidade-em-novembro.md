@@ -1,11 +1,12 @@
 ---
-title: "Índice Geral de Preços – 10 (IGP-10) mantém estabilidade em novembro"
+title: Índice Geral de Preços – 10 (IGP-10) mantém estabilidade em novembro
 date: 2023-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice repetiu a mesma taxa de variação no mês anterior.
 

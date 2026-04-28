@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança campanha contra queimadas"
+title: Governo Bolsonaro lança campanha contra queimadas
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ação é uma iniciativa do Conselho Nacional da Amazônia Legal e dos órgãos que o integram. 
 

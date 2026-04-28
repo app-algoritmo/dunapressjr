@@ -1,11 +1,12 @@
 ---
-title: "Dengue a todo vapor com chegada da vacina"
+title: Dengue a todo vapor com chegada da vacina
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **Coincidentemente disparam os casos de dengue à medida que a vacina se aproxima da aprovação**”
 

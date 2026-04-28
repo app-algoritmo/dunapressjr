@@ -1,11 +1,13 @@
 ---
-title: "Mães de pessoas com deficiência ou doenças raras pedem programas públicos de apoio"
+title: Mães de pessoas com deficiência ou doenças raras pedem programas públicos de
+  apoio
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mães de pessoas com deficiência ou com doença raras, conhecidas como mães atípicas, pediram programas públicos de apoio, em audiência pública na Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados, nesta sexta-feira (11).
 

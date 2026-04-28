@@ -1,11 +1,12 @@
 ---
-title: "R$ 197.375.249,24: Ancine autoriza captação de recursos para projetos audiovisuais"
+title: 'R$ 197.375.249,24: Ancine autoriza captação de recursos para projetos audiovisuais'
 date: 2023-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## DIÁRIO OFICIAL DA UNIÃO
 

@@ -1,11 +1,12 @@
 ---
-title: "Holanda forma novo governo, imigração será contida diz PM Geert Wilders"
+title: Holanda forma novo governo, imigração será contida diz PM Geert Wilders
 date: 2024-05-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os Países Baixos têm enfrentado uma série de desafios complexos, desde altas taxas de desemprego até preocupações com a assistência social excessiva. Além disso, o país tem lutado contra problemas como o tráfico de drogas, casos de estupro, roubo e violência, que têm gerado uma sensação de insegurança entre os cidadãos. A imigração descontrolada tem sido apontada como um fator contribuinte para muitos desses problemas. Em resposta a essas preocupações, o novo governo de direita está determinado a implementar medidas rigorosas para controlar a imigração e abordar os desafios sociais e econômicos que o país enfrenta.
 

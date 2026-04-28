@@ -1,11 +1,12 @@
 ---
-title: "Dia Mundial do Dentista"
+title: Dia Mundial do Dentista
 date: 2021-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 03 de outubro é comemorado o Dia Mundial do Dentista, profissional responsável por manter uma boa saúde bucal e promover mais bem-estar, autoestima e saúde geral para o corpo, pois é através da boca que ocorre uma boa mastigação, fundamental a digestão dos alimentos e melhor absorção dos nutrientes.
 

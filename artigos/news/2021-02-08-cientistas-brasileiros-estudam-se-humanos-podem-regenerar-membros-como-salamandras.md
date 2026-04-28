@@ -1,11 +1,12 @@
 ---
-title: "Cientistas brasileiros estudam se humanos podem regenerar membros como salamandras"
+title: Cientistas brasileiros estudam se humanos podem regenerar membros como salamandras
 date: 2021-02-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma pesquisa liderada por cientistas brasileiros poderá fazer com que os seres humanos, assim como as salamandras, tenham a capacidade de regenerar membros perdidos e até a medula espinhal danificada. Não é para já, mas o caminho está aberto. Eles estudaram o programa genético que dá a esses anfíbios e a algumas espécies de peixe essa incrível característica, que faz renascer pernas e nadadeiras, quando amputadas, e descobriram um grupo de genes que dá início a esse processo.
 

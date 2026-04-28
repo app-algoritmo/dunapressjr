@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: Joinville/SC"
+title: 'Série Conheça o Sul do Brasil: Joinville/SC'
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Reconhecida como a Capital Nacional da Dança, Joinville abriga a única sede da Escola do Teatro Bolshoi fora da Rússia, e realiza o maior festival de dança do mundo, evento de repercussão internacional, que reúne grupos de várias nacionalidades. 
 

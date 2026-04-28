@@ -1,11 +1,13 @@
 ---
-title: "Governo garante programas Bolsa Atleta e Bolsa Pódio após adiamento dos Jogos Olímpicos de Tóquio 2020"
+title: Governo garante programas Bolsa Atleta e Bolsa Pódio após adiamento dos Jogos
+  Olímpicos de Tóquio 2020
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Cidadania, Onyx Lorenzoni, e o secretário especial do Esporte, Marcelo Magalhães, manifestaram apoio à decisão tomada nesta terça-feira (24.03) pelo Comitê Olímpico Internacional (COI) e pelo primeiro ministro do Japão, Abe Shinzo, de adiar os Jogos Olímpicos e Paralímpicos de Tóquio para 2021. A decisão atende anseios que já haviam sido manifestados por entidades como o Comitê Olímpico do Brasil (COB), o Comitê Paralímpico Brasileiro (CPB), o Comitê Brasileiro de Clubes (CBC), confederações esportivas e atletas olímpicos e paralímpicos.
 

@@ -1,11 +1,13 @@
 ---
-title: "A adesão do Brasil à OCDE permitirá a melhoria do ambiente de negócios, mais investimentos e desenvolvimento sustentável"
+title: A adesão do Brasil à OCDE permitirá a melhoria do ambiente de negócios, mais
+  investimentos e desenvolvimento sustentável
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atualmente, o Brasil é a nação não membro com maior número de requisitos exigidos aprovados. Foi aprovado um instrumento legal no quesito considerações de segurança para aplicação de organismos de DNA recombinante.
 

@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPF combatem fraudes em perfuração de poços na Paraíba"
+title: CGU, PF e MPF combatem fraudes em perfuração de poços na Paraíba
 date: 2020-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Poço Sem Fundo investiga contratações do INCRA e DNOCS para implantação de sistemas simplificados de abastecimento de água no Estado.
 

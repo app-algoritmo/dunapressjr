@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cresce 3,2% em agosto"
+title: Produção industrial cresce 3,2% em agosto
 date: 2020-10-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE, divulgados nesta sexta-feira (02), apontam que é a quarta alta seguida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação atingirá pico em abril ou maio, diz presidente do BC"
+title: Inflação atingirá pico em abril ou maio, diz presidente do BC
 date: 2022-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quebra de safras e alta do petróleo pressionam preços.
 

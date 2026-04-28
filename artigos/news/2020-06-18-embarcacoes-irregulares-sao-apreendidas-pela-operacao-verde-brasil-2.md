@@ -1,11 +1,12 @@
 ---
-title: "Embarcações irregulares são apreendidas pela Operação Verde Brasil 2"
+title: Embarcações irregulares são apreendidas pela Operação Verde Brasil 2
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ao atuar na malha fluvial da região da Amazônia Legal, militares envolvidos na Operação Verde Brasil 2 cumpriram, nesta terça-feira (16), as ações de inspeção e patrulha navais com o uso de embarcações da Marinha do Brasil. Na área de atuação do Comando Conjunto Príncipe da Beira, no Acre, no Amazonas e em Rondônia, foram apreendidas três embarcações irregulares, enquanto outra foi retida no Pará, pelo Comando Conjunto Marechal Soares de Andrea.
 

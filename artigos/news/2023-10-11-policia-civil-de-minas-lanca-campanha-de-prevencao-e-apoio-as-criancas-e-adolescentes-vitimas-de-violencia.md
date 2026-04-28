@@ -1,11 +1,13 @@
 ---
-title: "Polícia Civil de Minas lança campanha de prevenção e apoio às crianças e adolescentes vítimas de violência"
+title: Polícia Civil de Minas lança campanha de prevenção e apoio às crianças e adolescentes
+  vítimas de violência
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Instituição se une a youtuber e escolas de arrecadação de brinquedos para o Espaço Reviver Kids, além de divulgar orientações para proteção contra abusos e outro crimes.
 

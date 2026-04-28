@@ -1,11 +1,12 @@
 ---
-title: "Governo adota medidas para ajudar setor elétrico e consumidores durante pandemia"
+title: Governo adota medidas para ajudar setor elétrico e consumidores durante pandemia
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em entrevista, o secretário de energia elétrica também destacou iniciativas para incentivar a energia limpa.
 

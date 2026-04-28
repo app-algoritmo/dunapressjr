@@ -1,12 +1,13 @@
 ---
-title: "Não te apaixone por uma mulher assim"
+title: Não te apaixone por uma mulher assim
 date: 2023-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
-  - News
+- Literature
+- News
 ---
+
 
 Não te apaixones por uma mulher que lê, por uma mulher que tem sentimentos, por uma mulher que escreve… Não te apaixones por uma mulher culta, maga, delirante, louca. Não te apaixones por uma mulher que pensa, que sabe o que sabe e também sabe voar, uma mulher confiante em si mesma.
 

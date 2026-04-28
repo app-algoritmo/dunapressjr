@@ -1,11 +1,13 @@
 ---
-title: "Consultorias de Orçamento sugerem cautela sobre perspectiva de crescimento em projeto do governo"
+title: Consultorias de Orçamento sugerem cautela sobre perspectiva de crescimento
+  em projeto do governo
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Os consultores também afirmam que as despesas previdenciárias estão subestimadas em pelo menos R$ 31,8 bilhões.
 

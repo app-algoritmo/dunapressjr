@@ -1,11 +1,12 @@
 ---
-title: "Paim diz que redução da jornada de trabalho é importante para o Brasil"
+title: Paim diz que redução da jornada de trabalho é importante para o Brasil
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) afirmou, em pronunciamento nesta quinta-feira (14), que a discussão da redução da jornada de trabalho é um tema de extrema importância para o Brasil. O parlamentar ressaltou que a diminuição do tempo de trabalho não significa perda salarial e nem prejuízo por parte do empregador. Segundo Paim, estudo do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese) mostra que a redução de 44 para 40 horas semanais poderia gerar mais de 3 milhões de novos postos de trabalho.
 

@@ -1,11 +1,13 @@
 ---
-title: "Em reunião de parlamentos na Índia, Lira reafirma posição do Congresso brasileiro na defesa do meio ambiente"
+title: Em reunião de parlamentos na Índia, Lira reafirma posição do Congresso brasileiro
+  na defesa do meio ambiente
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente da Câmara assume no sábado a presidência do grupo de presidentes dos parlamentos do G20.
 

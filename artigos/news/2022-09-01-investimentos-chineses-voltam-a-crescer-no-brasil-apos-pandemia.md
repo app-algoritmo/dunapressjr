@@ -1,11 +1,12 @@
 ---
-title: "Investimentos chineses voltam a crescer no Brasil após pandemia"
+title: Investimentos chineses voltam a crescer no Brasil após pandemia
 date: 2022-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados são do Conselho Empresarial Brasil-China.
 

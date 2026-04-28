@@ -1,12 +1,13 @@
 ---
-title: "Bicampeã olímpica Fabiana renova com Osasco São Cristóvão Saúde"
+title: Bicampeã olímpica Fabiana renova com Osasco São Cristóvão Saúde
 date: 2023-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 A bicampeã olímpica Fabiana vestirá a camisa do Osasco São Cristóvão Saúde pela terceira temporada consecutiva. A central renovou seu contrato e seguirá como um dos pilares da equipe comandada pelo técnico Luizomar para o ciclo 2023/2024. Ela é o terceiro nome confirmado pela mais tradicional equipe do vôlei feminino nacional e se junta a Camila Brait, Giovana e Kenya.
 

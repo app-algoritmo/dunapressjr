@@ -1,11 +1,13 @@
 ---
-title: "Cientista biomédico francês: é hora de regulamentar as vacinas de mRNA como terapias genéticas"
+title: 'Cientista biomédico francês: é hora de regulamentar as vacinas de mRNA como
+  terapias genéticas'
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *No International Journal of Molecular Sciences, a pesquisadora independente francesa Helene Banoun, Ph.D. coloca a questão: Por que as vacinas de mRNA do COVID-19 não são aprovadas como terapias genéticas? O TrialSite informou que os produtos são tecnicamente uma forma de terapia genética, pelo menos de acordo com o que os fabricantes de vacinas dizem aos investidores.*
 

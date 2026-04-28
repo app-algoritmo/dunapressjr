@@ -1,11 +1,12 @@
 ---
-title: "Se Lula insistir nos ataques, Temer promete “falar verdades”, diz Jornalista"
+title: Se Lula insistir nos ataques, Temer promete “falar verdades”, diz Jornalista
 date: 2023-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Na última quarta-feira (25/1), o ex-presidente Michel Temer emitiu um comunicado após ser chamado de “golpista” pelo atual presidente, Luiz Inácio Lula da Silva, e criticou o viés ideológico do petista ao se referir ao impeachment da ex-presidente Dilma Rousseff.
 

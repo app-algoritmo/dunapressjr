@@ -1,11 +1,12 @@
 ---
-title: "Suspensão de contrato ou redução de jornada vale para domésticas"
+title: Suspensão de contrato ou redução de jornada vale para domésticas
 date: 2020-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Veja como fazer o acordo com trabalhadora doméstica
 

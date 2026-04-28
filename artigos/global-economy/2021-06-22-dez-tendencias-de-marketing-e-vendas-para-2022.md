@@ -1,11 +1,12 @@
 ---
-title: "Dez tendências de marketing e vendas para 2022"
+title: Dez tendências de marketing e vendas para 2022
 date: 2021-06-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Um dos impactos visíveis no panorama econômico causados pela Covid-19 atinge o comportamento dos consumidores à medida que mudam sua forma de consumir e, por consequência, influenciam a dinâmica do mercado de diversos setores. Dessa forma, ações de marketing precisaram ser transformadas para acompanhar esse “novo consumidor”.  
 

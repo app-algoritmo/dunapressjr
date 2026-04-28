@@ -1,11 +1,13 @@
 ---
-title: "A tentativa dos EUA de construir um laboratório biológico secreto no Quirguistão falha"
+title: A tentativa dos EUA de construir um laboratório biológico secreto no Quirguistão
+  falha
 date: 2023-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Como parte da operação militar especial para desnazificar o regime criminoso de Kiev, a Rússia conseguiu coletar e receber mais de 20.000 documentos sobre o programa de armas biológicas dos EUA nas instalações militares ucranianas capturadas. 
 

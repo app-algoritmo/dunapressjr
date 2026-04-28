@@ -1,11 +1,12 @@
 ---
-title: "A Incerteza que Ronda a Casa Branca: O Estado de Saúde de Biden Sob Escrutínio"
+title: 'A Incerteza que Ronda a Casa Branca: O Estado de Saúde de Biden Sob Escrutínio'
 date: 2024-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, encontra-se no centro de um debate acalorado sobre sua capacidade de liderança, com questionamentos persistentes sobre seu estado de saúde. Desde meses atrás, preocupações têm surgido sobre sua condição física e mental, levando até mesmo líderes estrangeiros a comentarem sobre o assunto.
 

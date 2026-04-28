@@ -1,11 +1,13 @@
 ---
-title: "Reforma tributária é aprovada pela Câmara dos Deputados e gera repercussão entre os senadores"
+title: Reforma tributária é aprovada pela Câmara dos Deputados e gera repercussão
+  entre os senadores
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parlamentares utilizam redes sociais para expressar opiniões sobre a proposta de emenda à Constituição (PEC) 45/2019.
 

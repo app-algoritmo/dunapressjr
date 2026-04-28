@@ -1,11 +1,12 @@
 ---
-title: "Erdogan discute com Rutte a escolha do próximo chefe da OTAN em telefonema"
+title: Erdogan discute com Rutte a escolha do próximo chefe da OTAN em telefonema
 date: 2024-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma conversa telefônica ocorrida neste domingo, o presidente turco, Tayyip Erdogan, compartilhou com o primeiro-ministro holandês, Mark Rutte, a posição da Turquia em relação à escolha do próximo líder da OTAN. Erdogan expressou que Ancara apoiará um candidato que atenda às expectativas e necessidades da Turquia.
 

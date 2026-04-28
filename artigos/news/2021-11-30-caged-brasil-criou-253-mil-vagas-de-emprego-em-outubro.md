@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil criou 253 mil vagas de emprego em outubro"
+title: 'Caged: Brasil criou 253 mil vagas de emprego em outubro'
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quatro dos cinco setores da economia tiveram criação de vagas formais.
 

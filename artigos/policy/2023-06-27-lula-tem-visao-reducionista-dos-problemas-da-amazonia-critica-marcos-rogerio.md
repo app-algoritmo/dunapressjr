@@ -1,11 +1,12 @@
 ---
-title: "Lula tem visão reducionista dos problemas da Amazônia, critica Marcos Rogério"
+title: Lula tem visão reducionista dos problemas da Amazônia, critica Marcos Rogério
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) criticou, em pronunciamento no Plenário nesta terça-feira (27), discurso do presidente Luiz Inácio Lula da Silva na Cúpula para um Novo Pacto Financeiro Global, em Paris. O parlamentar afirmou que a fala mostra uma visão “reducionista” dos problemas reais da Amazônia brasileira, indicando uma preocupação exclusiva com os povos tradicionais.
 

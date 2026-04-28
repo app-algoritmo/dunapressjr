@@ -1,11 +1,12 @@
 ---
-title: "Israel pretende comprar doses da pílula anti-COVID da Pfizer"
+title: Israel pretende comprar doses da pílula anti-COVID da Pfizer
 date: 2021-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governo de Israel chegou a um acordo para comprar dezenas de milhares de doses da nova pílula antiviral experimental da Pfizer para combater o COVID-19.
 

@@ -1,11 +1,13 @@
 ---
-title: "Zelensky rejeita ideia de conversações com a Rússia apesar da difícil situação no campo de batalha"
+title: Zelensky rejeita ideia de conversações com a Rússia apesar da difícil situação
+  no campo de batalha
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Presidente da Ucrânia acredita que a Federação Russa agora não quer que o conflito acabe, por isso não podemos falar em concluir a paz "a qualquer custo".
 

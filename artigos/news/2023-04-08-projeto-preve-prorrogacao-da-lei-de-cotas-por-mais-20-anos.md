@@ -1,11 +1,12 @@
 ---
-title: "Projeto prevê prorrogação da Lei de Cotas por mais 20 anos"
+title: Projeto prevê prorrogação da Lei de Cotas por mais 20 anos
 date: 2023-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 3061/22 prevê novo critério para revisão da [Lei de Cotas](https://www2.camara.leg.br/legin/fed/lei/2012/lei-12711-29-agosto-2012-774113-publicacaooriginal-137498-pl.html), pelo qual essa legislação somente perderá sua validade quando verificada a permanência e conclusão de curso dos estudantes beneficiários durante quatro ciclos (de 5 anos cada) sucessivos de avaliação. A medida amplia a vigência da lei por, no mínimo, 20 anos. A própria lei prevê que o texto deve ser revisto em 10 anos após a entrada em vigência.
 

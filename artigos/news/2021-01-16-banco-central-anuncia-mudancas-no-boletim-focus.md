@@ -1,11 +1,12 @@
 ---
-title: "Banco Central anuncia mudanças no Boletim Focus"
+title: Banco Central anuncia mudanças no Boletim Focus
 date: 2021-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Algumas estimativas serão ampliadas, outras deixarão de existir.
 

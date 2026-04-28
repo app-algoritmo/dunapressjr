@@ -1,11 +1,12 @@
 ---
-title: "Lei cria cargos e funções no Superior Tribunal Militar"
+title: Lei cria cargos e funções no Superior Tribunal Militar
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Foram criados 240 cargos de provimento efetivo, 97 cargos em comissão e 403 funções comissionadas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Convite de Trump para Debate Pré-eleitoral Desperta Expectativas para Duelo com Biden"
+title: Convite de Trump para Debate Pré-eleitoral Desperta Expectativas para Duelo
+  com Biden
 date: 2024-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, lançou um convite público ao atual ocupante da Casa Branca, Joe Biden, para um debate antes das próximas eleições presidenciais do país. Neste potencial reencontro, que ecoaria o duelo das eleições de 2020, Trump destacou a importância de discutir questões cruciais para a América e seu povo.
 

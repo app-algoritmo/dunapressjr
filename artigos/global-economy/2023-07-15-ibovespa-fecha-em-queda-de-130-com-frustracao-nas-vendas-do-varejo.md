@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda de 1,30% com frustração nas vendas do varejo"
+title: Ibovespa fecha em queda de 1,30% com frustração nas vendas do varejo
 date: 2023-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dados abaixo das expectativas afetam o mercado e destacam preocupações com a economia e a política.
 

@@ -1,11 +1,12 @@
 ---
-title: "Você é a população que eles querem controlar"
+title: Você é a população que eles querem controlar
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A taxa de natalidade global por 1.000 pessoas segue uma tendência muito previsível. Em países “desenvolvidos” e/ou ricos, a taxa de fertilidade é baixa e em países na extremidade inferior da escala de desenvolvimento econômico, a taxa de fertilidade é alta. Isso não é novidade.
 

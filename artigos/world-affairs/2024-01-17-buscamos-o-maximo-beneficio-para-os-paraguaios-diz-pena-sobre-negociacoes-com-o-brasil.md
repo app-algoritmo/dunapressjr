@@ -1,11 +1,13 @@
 ---
-title: "Buscamos o máximo benefício para os paraguaios, diz Peña sobre negociações com o Brasil"
+title: Buscamos o máximo benefício para os paraguaios, diz Peña sobre negociações
+  com o Brasil
 date: 2024-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Presidente da República, Santiago Peña, avaliou positivamente a reunião que manteve ontem com seu homólogo brasileiro, Luis Inácio Lula da Silva, e manifestou entusiasmo com o andamento das negociações sobre a modificação do Anexo de Itaipu e a definição da tarifa de energia elétrica.
 

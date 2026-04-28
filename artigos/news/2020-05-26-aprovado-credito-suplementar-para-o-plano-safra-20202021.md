@@ -1,11 +1,12 @@
 ---
-title: "Aprovado crédito suplementar para o Plano Safra 2020/2021"
+title: Aprovado crédito suplementar para o Plano Safra 2020/2021
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Serão destinados R$ 3,2 bilhões para a equalização de juros do Plano Safra, que o Ministério da Agricultura pretende anunciar no dia 15 de junho.
 

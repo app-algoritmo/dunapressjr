@@ -1,11 +1,12 @@
 ---
-title: "Número de endividados cai 0,2 ponto percentual em janeiro, diz CNC"
+title: Número de endividados cai 0,2 ponto percentual em janeiro, diz CNC
 date: 2022-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na comparação anual, no entanto, o indicador subiu 9,6 pp.
 

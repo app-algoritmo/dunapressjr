@@ -1,11 +1,12 @@
 ---
-title: "Greta, a criança enfurecida que luta por um mundo mais “verde”"
+title: Greta, a criança enfurecida que luta por um mundo mais “verde”
 date: 2019-09-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Greta Thunberg, a criança sueca que comoveu o mundo depois de se manifestar diante da Câmara Municipal de Estocolmo em protesto contra as alterações climáticas. Desde os lóbis das energias renováveis até ao livro que a sua mãe, vegana repentina, colocou à venda em apenas sete dias. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Dr. Zelenko: Zinco é a 'arma' que mata o vírus responsável pela COVID-19"
+title: 'Dr. Zelenko: Zinco é a ''arma'' que mata o vírus responsável pela COVID-19'
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## [O zinco é a bala que mata o SARS-CoV-2](https://100percentfedup.com/dr-zelenko-zinc-is-the-bullet-it-kills-the-virus-the-only-problem-is-the-bullet-doesnt-get-to-the-place-where-it-needs-to-be/) , o patógeno responsável pelo coronavírus Wuhan (COVID-19), de acordo com o falecido Dr. Vladimir “Zev” Zelenko.
 

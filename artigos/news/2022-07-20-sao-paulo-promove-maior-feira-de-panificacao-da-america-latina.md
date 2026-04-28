@@ -1,11 +1,12 @@
 ---
-title: "São Paulo promove maior feira de panificação da América Latina"
+title: São Paulo promove maior feira de panificação da América Latina
 date: 2022-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Por causa da pandemia, Fipan ficou dois anos sem ser realizada.
 

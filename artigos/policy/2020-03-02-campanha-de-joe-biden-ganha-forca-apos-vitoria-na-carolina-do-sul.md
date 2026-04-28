@@ -1,11 +1,12 @@
 ---
-title: "Campanha de Joe Biden, ganha força após vitória na Carolina do Sul"
+title: Campanha de Joe Biden, ganha força após vitória na Carolina do Sul
 date: 2020-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Com 99% dos distritos relatando, Biden teve 49% dos votos e Sanders ficou em um segundo distante, com 20%, de acordo com resultados oficiais do estado.*
 

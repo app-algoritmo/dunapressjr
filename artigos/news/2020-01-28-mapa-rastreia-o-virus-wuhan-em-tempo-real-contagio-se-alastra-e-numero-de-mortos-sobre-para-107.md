@@ -1,11 +1,13 @@
 ---
-title: "Mapa rastreia o vírus Wuhan em tempo real, contágio se alastra e número de mortos sobre para 107"
+title: Mapa rastreia o vírus Wuhan em tempo real, contágio se alastra e número de
+  mortos sobre para 107
 date: 2020-01-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O centro médico dos EUA atualiza regularmente um painel on-line para monitorar a expansão global da epidemia
 

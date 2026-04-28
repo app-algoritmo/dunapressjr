@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa inédita revela estado nutricional de crianças no Brasil"
+title: Pesquisa inédita revela estado nutricional de crianças no Brasil
 date: 2021-11-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Em relatório publicado em setembro, o **ENANI-2019** revelou que quase metade das famílias brasileiras com crianças menores de 5 anos (47,1%) vive em algum grau de insegurança alimentar.
 

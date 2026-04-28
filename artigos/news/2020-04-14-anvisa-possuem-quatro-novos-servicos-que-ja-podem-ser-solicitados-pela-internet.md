@@ -1,11 +1,12 @@
 ---
-title: "Anvisa possuem quatro novos serviços que já podem ser solicitados pela internet"
+title: Anvisa possuem quatro novos serviços que já podem ser solicitados pela internet
 date: 2020-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Vigilância Sanitária (Anvisa) liberou quatro novos serviços que já podem ser solicitados digitalmente. O acesso é pela área de serviços do portal [gov.br](http://www.gov.br/), que concentra mais de 60 tipos de atendimentos online da Anvisa. Os novos serviços são destinados a empresas e abrangem a inclusão e a atualização de informações no bulário de produtos para a saúde. Incluem também a autorização para importação e exportação de produtos por remessa expressa.
 Os quatro novos serviços da Anvisa no portal são:

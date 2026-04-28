@@ -1,11 +1,12 @@
 ---
-title: "Fauci ajudou a encobrir a origem do COVID, o que vem a seguir?"
+title: Fauci ajudou a encobrir a origem do COVID, o que vem a seguir?
 date: 2023-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## É bom ler nas entrelinhas e ver o que a língua bifurcada de Farrar tem a dizer; que narrativas ele está dirigindo agora?
 

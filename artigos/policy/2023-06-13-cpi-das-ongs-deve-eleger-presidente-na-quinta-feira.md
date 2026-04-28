@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs deve eleger presidente na quinta-feira"
+title: CPI das ONGs deve eleger presidente na quinta-feira
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Está agendada para quinta-feira (15) a instalação da CPI das ONGs, a partir das 9h. Formada por 11 senadores, a comissão parlamentar de inquérito que vai investigar as organizações não governamentais (ONGs) deverá eleger seu presidente na mesma reunião.
 

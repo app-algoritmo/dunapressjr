@@ -1,11 +1,12 @@
 ---
-title: "Haddad espera déficit primário entre 0,5% e 1% do PIB em 2023"
+title: Haddad espera déficit primário entre 0,5% e 1% do PIB em 2023
 date: 2023-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Fazenda anunciou nesta quinta-feira (12) uma lista de medidas tributárias e de revisão de gastos para elevar a arrecadação e reduzir despesas, o que juntamente com a revisão das receitas previstas para 2023 permitiria um superávit primário de R$ 11,13 bilhões neste ano. O Orçamento prevê um rombo de R$ 231,5 bilhões.
 

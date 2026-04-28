@@ -1,11 +1,12 @@
 ---
-title: "Na terra do Führer (Austria), quem não quer ser vacinado vai preso"
+title: Na terra do Führer (Austria), quem não quer ser vacinado vai preso
 date: 2021-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A Áustria está prendendo pessoas não vacinadas desde segunda-feira, a medida mais drástica de um país da Europa Ocidental para desacelerar a última onda do coronavírus.
 

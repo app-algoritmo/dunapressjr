@@ -1,11 +1,12 @@
 ---
-title: "Para Girão, juíza Ludmila Grillo foi aposentada por perseguição política"
+title: Para Girão, juíza Ludmila Grillo foi aposentada por perseguição política
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento nesta terça-feira (30), decisão do Tribunal de Justiça de Minas Gerais (TJMG) que aposentou compulsoriamente a juíza Ludmila Lins Grillo. Segundo o parlamentar, a decisão foi tomada pelo desembargador José Arthur de Carvalho Pereira Filho, presidente do TJ, que argumentou "interesse público". Ela estava afastada do cargo desde fevereiro, acusada de não cumprir uma portaria do Conselho Nacional de Justiça (CNJ).
 

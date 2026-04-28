@@ -1,11 +1,12 @@
 ---
-title: "Infecção pela Covid-19 pode ter relação com hepatite em crianças"
+title: Infecção pela Covid-19 pode ter relação com hepatite em crianças
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cientistas britânicos e norte-americanos estão investigando uma possível relação do adenovírus 41 associado à infecção prévia pelo SARS-CoV-2 como possíveis causadores da hepatite aguda em crianças. Detalhes da investigação foram abordados em um [artigo na revista Gastroenterology & Hepatology da The Lancet](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(22)00166-2/fulltext#%20). 
 

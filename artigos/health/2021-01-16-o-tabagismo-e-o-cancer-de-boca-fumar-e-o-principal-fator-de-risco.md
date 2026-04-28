@@ -1,11 +1,12 @@
 ---
-title: "O tabagismo e o câncer de boca: fumar é o principal fator de risco"
+title: 'O tabagismo e o câncer de boca: fumar é o principal fator de risco'
 date: 2021-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Muito já se fala sobre a relação estreita entre o câncer e o hábito de fumar. Esse essa consequência do uso de produtos de tabaco surge, inclusive, como uma das mais lembradas entre as pessoas e, claro, uma das mais temidas. Vale dizer que esse medo não é em vão, pois o tabagismo é responsável pelo surgimento de pelo menos 50 doenças, incluindo diversos tipos de câncer.
 

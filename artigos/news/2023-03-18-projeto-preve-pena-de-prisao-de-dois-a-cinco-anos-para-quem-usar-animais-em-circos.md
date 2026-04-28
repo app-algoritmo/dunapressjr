@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê pena de prisão de dois a cinco anos para quem usar animais em circos"
+title: Projeto prevê pena de prisão de dois a cinco anos para quem usar animais em
+  circos
 date: 2023-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 174/23 proíbe a utilização de animais em circos no Brasil. Conforme a proposta, a medida é válida para eventos presenciais e transmitidos pela internet. Hoje o tema é regulamentado por leis estaduais.
 

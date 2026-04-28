@@ -1,11 +1,12 @@
 ---
-title: "Planalto sanciona transferência da cessão onerosa para estados e municípios"
+title: Planalto sanciona transferência da cessão onerosa para estados e municípios
 date: 2019-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, sancionou a
 liberação de R$ 5,77 bilhões para os estados e municípios. O valor serve de

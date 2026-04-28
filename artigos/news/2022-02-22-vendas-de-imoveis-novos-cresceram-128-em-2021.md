@@ -1,11 +1,12 @@
 ---
-title: "Vendas de imóveis novos cresceram 12,8% em 2021"
+title: Vendas de imóveis novos cresceram 12,8% em 2021
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são do estudo Indicadores Imobiliários Nacionais no 4º semestre.
 

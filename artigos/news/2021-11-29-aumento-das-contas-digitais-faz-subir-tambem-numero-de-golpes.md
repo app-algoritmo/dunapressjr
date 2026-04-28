@@ -1,11 +1,12 @@
 ---
-title: "Aumento das contas digitais faz subir também número de golpes"
+title: Aumento das contas digitais faz subir também número de golpes
 date: 2021-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo pesquisa da Febraban (Federação Brasileira dos Bancos), os canais digitais tiveram um aumento de 90% de contas abertas em 2019, em relação ao ano anterior. Com a pandemia, o isolamento social e o surgimento de múltiplas fintechs, o número de contas digitais no Brasil chegou a 82 milhões em julho de 2021. Isso demonstra que o consumidor deseja mais agilidade na hora de pagar as contas, fazer transferências e compras on-line, quer atendimentos personalizados e menos custos na hora de utilizar esses serviços.
 

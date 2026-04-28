@@ -1,11 +1,12 @@
 ---
-title: "Em fevereiro, juros médios dos bancos sobem para 44,2% ao ano"
+title: Em fevereiro, juros médios dos bancos sobem para 44,2% ao ano
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco Central diz que crédito bancário tem estabilidade no mês.
 

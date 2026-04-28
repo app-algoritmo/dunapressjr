@@ -1,11 +1,12 @@
 ---
-title: "Quase um Terço dos Americanos Considera Trump e Biden Ineficazes como Líderes"
+title: Quase um Terço dos Americanos Considera Trump e Biden Ineficazes como Líderes
 date: 2024-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma recente pesquisa Gallup revelou que quase um terço dos americanos questiona a capacidade de liderança tanto do atual presidente dos Estados Unidos, Joe Biden, quanto do ex-líder Donald Trump. Segundo o levantamento, realizado entre 1.016 adultos americanos de 1º a 20 de março, 29% dos entrevistados expressaram descrença na habilidade de ambos para dirigir o país.
 

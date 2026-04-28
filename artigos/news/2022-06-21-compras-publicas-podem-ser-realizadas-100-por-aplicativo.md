@@ -1,11 +1,12 @@
 ---
-title: "Compras públicas podem ser realizadas 100% por aplicativo"
+title: Compras públicas podem ser realizadas 100% por aplicativo
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### App Compras.gov.br acumula 150 mil downloads.
 

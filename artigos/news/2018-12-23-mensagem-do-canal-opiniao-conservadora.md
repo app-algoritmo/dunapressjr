@@ -1,11 +1,12 @@
 ---
-title: "Mensagem do Canal Opinião Conservadora"
+title: Mensagem do Canal Opinião Conservadora
 date: 2018-12-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Professor João Carlos convida à reflexão e registra votos de feliz Natal a todos. 
 

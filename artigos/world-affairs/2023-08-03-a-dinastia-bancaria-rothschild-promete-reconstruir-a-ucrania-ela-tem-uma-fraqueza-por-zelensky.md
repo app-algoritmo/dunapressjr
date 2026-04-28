@@ -1,11 +1,13 @@
 ---
-title: "A dinastia bancária Rothschild promete “reconstruir a Ucrânia”. Ela tem uma 'fraqueza' por Zelensky"
+title: A dinastia bancária Rothschild promete “reconstruir a Ucrânia”. Ela tem uma
+  'fraqueza' por Zelensky
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A notória dinastia de banqueiros Rothschild prometeu se envolver na “restauração da Ucrânia” porque tem um “ponto fraco” pelo notoriamente corrupto governo de Volodymyr Zelensky, disse Alexandre de Rothschild, CEO da Rothschild & Co.
 

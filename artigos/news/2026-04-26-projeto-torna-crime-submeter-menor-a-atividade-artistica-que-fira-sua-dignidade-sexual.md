@@ -1,11 +1,13 @@
 ---
-title: "Projeto torna crime submeter menor à atividade artística que fira sua dignidade sexual"
+title: Projeto torna crime submeter menor à atividade artística que fira sua dignidade
+  sexual
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Projeto torna crime submeter menor à atividade artística que fira sua dignidade sexual
 

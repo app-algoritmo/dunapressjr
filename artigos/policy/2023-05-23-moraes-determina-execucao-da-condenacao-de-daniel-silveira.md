@@ -1,11 +1,12 @@
 ---
-title: "Moraes determina execução da condenação de Daniel Silveira"
+title: Moraes determina execução da condenação de Daniel Silveira
 date: 2023-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Decisão foi tomada após STF derrubar decreto de graça constitucional.
 

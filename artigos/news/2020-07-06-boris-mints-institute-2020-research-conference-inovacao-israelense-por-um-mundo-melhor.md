@@ -1,11 +1,13 @@
 ---
-title: "Boris Mints Institute 2020 Research Conference: Inovação israelense por um mundo melhor"
+title: 'Boris Mints Institute 2020 Research Conference: Inovação israelense por um
+  mundo melhor'
 date: 2020-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boris Mints Institute 2020 Research Conference a ser realizada on-line quinta-feira, 9 de julho.
 

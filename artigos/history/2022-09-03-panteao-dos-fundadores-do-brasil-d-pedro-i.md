@@ -1,11 +1,12 @@
 ---
-title: "Panteão dos Fundadores do Brasil, D Pedro I"
+title: Panteão dos Fundadores do Brasil, D Pedro I
 date: 2022-09-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Sem dúvida alguma, D. Pedro I merece ocupar um lugar no panteão dos Fundadores do Império do Brasil. A partir do momento em que começou a atuar na política, inaugurou uma nova época para a história brasileira. No arrojo de sua mocidade, soube tomar decisões que conduziram a nação à sua emancipação política.
 

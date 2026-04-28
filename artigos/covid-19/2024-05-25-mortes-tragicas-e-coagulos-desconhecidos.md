@@ -1,11 +1,12 @@
 ---
-title: "Mortes Trágicas e Coágulos Desconhecidos"
+title: Mortes Trágicas e Coágulos Desconhecidos
 date: 2024-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Recentemente, o radiologista Dr. Phillip Triantos trouxe à luz uma série de preocupações alarmantes durante uma discussão sobre os efeitos colaterais das vacinas COVID. Descrevendo uma descoberta perturbadora, o Dr. Triantos compartilhou sua experiência com coágulos que ele acredita estar relacionados à vacinação. Ele descreveu esses coágulos como "brancos" e "fibrosos", lembrando a tragédia de um jovem de 25 anos em Birmingham, Alabama, cuja vida foi perdida para essas misteriosas formações. Os cirurgiões que removeram o coágulo confirmaram sua aparência peculiar, alertando para a gravidade do problema.
 

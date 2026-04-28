@@ -1,11 +1,12 @@
 ---
-title: "Inflação dos aluguéis fecha o ano em 5,45%"
+title: Inflação dos aluguéis fecha o ano em 5,45%
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IGP-M subiu 0,45% em dezembro.
 

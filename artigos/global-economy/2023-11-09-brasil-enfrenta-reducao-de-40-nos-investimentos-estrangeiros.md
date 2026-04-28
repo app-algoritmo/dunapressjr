@@ -1,11 +1,12 @@
 ---
-title: "Brasil enfrenta redução de 40% nos investimentos estrangeiros"
+title: Brasil enfrenta redução de 40% nos investimentos estrangeiros
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 [Ao analisar os dados mais recentes do Banco Central](https://www.bcb.gov.br/estatisticas/estatisticassetorexterno) , é impossível ignorar a drástica contração dos investimentos estrangeiros no setor produtivo **[brasileiro](https://gaceta.es/iberosfera/lula-da-silva-y-su-ministro-de-hacienda-en-ruta-de-colision-fiscal-20231101-2057/)** . É um sinal de alerta quando, examinando o desempenho de 2023, vemos uma queda acentuada de 40% nos **Investimentos Diretos no País** (PDI) até setembro, em comparação com o mesmo período do ano passado.
 

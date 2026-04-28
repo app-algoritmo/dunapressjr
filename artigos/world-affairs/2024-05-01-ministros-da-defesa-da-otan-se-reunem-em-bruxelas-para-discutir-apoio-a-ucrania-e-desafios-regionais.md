@@ -1,11 +1,13 @@
 ---
-title: "Ministros da Defesa da OTAN se Reúnem em Bruxelas para Discutir Apoio à Ucrânia e Desafios Regionais"
+title: Ministros da Defesa da OTAN se Reúnem em Bruxelas para Discutir Apoio à Ucrânia
+  e Desafios Regionais
 date: 2024-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os ministros da defesa dos países membros da OTAN estão programados para se reunir em Bruxelas no próximo dia 16 de maio, conforme anunciado pela assessoria de imprensa da OTAN. O encontro, que ocorrerá em meio a crescentes tensões geopolíticas, terá como foco principal a discussão do apoio à Ucrânia, que enfrenta uma guerra de agressão por parte da Rússia.
 

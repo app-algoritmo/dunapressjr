@@ -1,11 +1,12 @@
 ---
-title: "Israel desferirá duro golpe em seus inimigos, diz Netanyahu"
+title: Israel desferirá duro golpe em seus inimigos, diz Netanyahu
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 "Vamos vencer com todas as nossas forças. Todo Israel está atrás de vocês e vamos atacar fortemente nossos inimigos para que possamos alcançar a vitória", disse o primeiro-ministro israelense a um grupo de soldados.
 

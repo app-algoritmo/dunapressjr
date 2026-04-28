@@ -1,11 +1,12 @@
 ---
-title: "Paim celebra aprovação da revisão da Lei de Cotas"
+title: Paim celebra aprovação da revisão da Lei de Cotas
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) celebrou, em pronunciamento nesta quarta-feira (25), a [aprovação do projeto que reformula e amplia o sistema de cotas](/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas) no ensino federal ([PL 5.384/2020](https://www25.senado.leg.br/web/atividade/materias/-/materia/159365)). O texto já seguiu para a sanção presidencial. O parlamentar, que foi relator da matéria, destacou que a política visa a inclusão de alunos de escolas públicas, pessoas em situação de vulnerabilidade, pobres, pessoas com deficiência, indígenas, afrodescendentes, brancos, pretos e quilombolas.
 

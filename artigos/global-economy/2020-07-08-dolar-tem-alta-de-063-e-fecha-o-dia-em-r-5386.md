@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem alta de 0,63% e fecha o dia em R$ 5,386"
+title: Dólar tem alta de 0,63% e fecha o dia em R$ 5,386
 date: 2020-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 1,19% em dia de pessimismo no exterior.
 

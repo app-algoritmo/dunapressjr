@@ -1,12 +1,13 @@
 ---
-title: "F1: Quando as equipes apresentarão seus novos carros para 2023? Confira"
+title: 'F1: Quando as equipes apresentarão seus novos carros para 2023? Confira'
 date: 2023-02-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## As datas de lançamentos dos carros da F1 é uma das fases mais movimentadas do ano, com as equipes apresentando seus novos modelos e estabelecendo metas-chave para a temporada.
 

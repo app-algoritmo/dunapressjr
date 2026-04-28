@@ -1,11 +1,12 @@
 ---
-title: "Adiada aplicação do Enade 2020"
+title: Adiada aplicação do Enade 2020
 date: 2020-07-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão atende a solicitações de instituições de ensino superior, em função da pandemia de Covid-19.
 

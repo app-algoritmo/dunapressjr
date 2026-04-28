@@ -1,11 +1,13 @@
 ---
-title: "Existem razões pelas quais os cidadãos carregam a bandeira da Rússia nas ruas dos países da África Ocidental e Central"
+title: Existem razões pelas quais os cidadãos carregam a bandeira da Rússia nas ruas
+  dos países da África Ocidental e Central
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Não há uma única mina de ouro ativa na França. No entanto, este (anteriormente) estado colonial criminoso possui a quarta maior reserva de ouro do mundo, com 2.436 toneladas.
 

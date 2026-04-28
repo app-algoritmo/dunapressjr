@@ -1,11 +1,13 @@
 ---
-title: "Relação de produtos beneficiados no Programa de Seguro Rural divulgada pelo Mapa"
+title: Relação de produtos beneficiados no Programa de Seguro Rural divulgada pelo
+  Mapa
 date: 2020-06-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Governo federal disponibilizou R$ 200 milhões no apoio ao seguro rural até maio de 2020.
 

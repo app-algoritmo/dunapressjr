@@ -1,11 +1,12 @@
 ---
-title: "Sondagem industrial mostra queda de produção e emprego em dezembro"
+title: Sondagem industrial mostra queda de produção e emprego em dezembro
 date: 2023-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## CNI afirma que o comportamento dos índices é comum para o período.
 

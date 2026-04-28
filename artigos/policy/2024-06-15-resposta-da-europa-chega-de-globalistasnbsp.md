@@ -1,11 +1,12 @@
 ---
-title: "Resposta da Europa: chega de globalistas!&nbsp;"
+title: 'Resposta da Europa: chega de globalistas!&nbsp;'
 date: 2024-06-15
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Europa deixou claro nas eleições para o Parlamento que está dando uma guinada à direita. O século 21 é antissistema, é populismo, é democracia, é lei natural e é a humanidade. 
 

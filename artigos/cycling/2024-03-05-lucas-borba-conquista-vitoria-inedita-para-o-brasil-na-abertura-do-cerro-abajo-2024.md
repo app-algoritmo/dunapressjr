@@ -1,12 +1,14 @@
 ---
-title: "Lucas Borba conquista vitória inédita para o Brasil na abertura do Cerro Abajo 2024"
+title: Lucas Borba conquista vitória inédita para o Brasil na abertura do Cerro Abajo
+  2024
 date: 2024-03-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Catarinense, patrocinado pela Shimano, foi o melhor na primeira etapa do principal circuito de downhill do mundo, disputada em Valparaiso, no Chile.
 

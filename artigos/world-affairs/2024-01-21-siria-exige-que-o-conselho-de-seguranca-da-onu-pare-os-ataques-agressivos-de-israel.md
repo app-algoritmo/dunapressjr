@@ -1,11 +1,13 @@
 ---
-title: "Síria exige que o Conselho de Segurança da ONU pare 'os ataques agressivos de Israel'"
+title: Síria exige que o Conselho de Segurança da ONU pare 'os ataques agressivos
+  de Israel'
 date: 2024-01-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Damasco apela ao Conselho de Segurança da ONU "para cumprir as suas obrigações de defender a paz e a segurança internacionais, para responsabilizar os criminosos sionistas, tanto políticos como militares, pondo fim à sua política desumana e amoral".
 

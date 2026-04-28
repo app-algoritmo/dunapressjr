@@ -1,11 +1,12 @@
 ---
-title: "BC diz que autonomia trará benefícios importantes ao país"
+title: BC diz que autonomia trará benefícios importantes ao país
 date: 2021-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Câmara aprovou projeto que garante autonomia na noite desta quarta-feira (10).
 

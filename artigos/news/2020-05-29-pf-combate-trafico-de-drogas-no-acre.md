@@ -1,11 +1,12 @@
 ---
-title: "PF combate tráfico de drogas no Acre"
+title: PF combate tráfico de drogas no Acre
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cruzeiro do Sul/AC - A Polícia Federal deflagrou nesta sexta-feira (29/5) a Operação Tetra, com o cumprimento nove mandados de busca em apreensão em Cruzeiro do Sul/AC. A operação é um desdobramento de investigações iniciadas ainda no ano passado. Os mandados de hoje foram cumpridos a fim de encontrar indícios da participação dos envolvidos com o tráfico de drogas. A ação contou com o apoio da Polícia Civil de Cruzeiro do Sul.
 

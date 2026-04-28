@@ -1,11 +1,13 @@
 ---
-title: "Especialista da multinacional finlandesa explica benefícios em ter uma plataforma única de automação"
+title: Especialista da multinacional finlandesa explica benefícios em ter uma plataforma
+  única de automação
 date: 2021-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Associação Brasileira Técnica de Celulose e Papel (ABTCP) realizará no dia 4 de março um webinar sobre automação em parceria com a Valmet, líder mundial no desenvolvimento e fornecimento de tecnologias, automação e serviços para os setores de celulose, papel e energia. O gerente de produto para DCS e QCS da Valmet na América do Sul, Angelo Silva, e a Especialista em sistemas de automação da Valmet na América do Sul, Simone Almeida, ministrarão o evento online, que tem como tema “Entenda os benefícios em ter uma plataforma única de automação”.
 

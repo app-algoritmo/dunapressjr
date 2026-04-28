@@ -1,11 +1,12 @@
 ---
-title: "Não ao abandono de animais"
+title: Não ao abandono de animais
 date: 2019-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Resolvi postar esse texto porque a quantidade de gente mal caráter abandonando animais e tentando se livrar dos próprios Pets porque "mulher ficou gravida" ou "vou mudar pra casa que não aceita cachorro" ou "não tenho tempo" ou "não tenho dinheiro" me deixa louca. Segue a minha atual situação: Pra quem não sabe, esse é o Oscar. Adotamos o Oscar 3 anos atrás, ele já não era mais um filhotinho pequeno. Perdi a conta de quantas vezes vi pessoas atravessando a rua pra não ter que andar do meu lado com um Rottweiler. Aos poucos fomos aprendendo todas as particularidades dele: Não gosta de macho, não gosta de veterinário, não gosta de carinho de estranhos, não sabe dividir os brinquedos, adora morder e puxar a coleira quando estamos andando, vomita com qualquer coisa que come, tem um problema de pele e é uma maquina de soltar pelos. Tivemos que comprar um aspirador robô e mesmo assim não dou conta da quantidade de pelos na casa inteira. 
 

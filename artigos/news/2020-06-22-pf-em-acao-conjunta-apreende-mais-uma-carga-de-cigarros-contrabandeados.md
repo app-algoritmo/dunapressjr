@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende mais uma carga de cigarros contrabandeados"
+title: PF, em ação conjunta, apreende mais uma carga de cigarros contrabandeados
 date: 2020-06-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na noite deste domingo, dia 21/06, mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

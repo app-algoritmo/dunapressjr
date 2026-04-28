@@ -1,11 +1,12 @@
 ---
-title: "PIB da construção civil deve crescer 4% em 2021"
+title: PIB da construção civil deve crescer 4% em 2021
 date: 2020-12-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expansão do setor pode ser a maior desde 2013.
 

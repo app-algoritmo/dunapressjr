@@ -1,11 +1,12 @@
 ---
-title: "Israel em guerra: mais de 600 israelenses assassinados no massacre do Hamas"
+title: 'Israel em guerra: mais de 600 israelenses assassinados no massacre do Hamas'
 date: 2023-10-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 677 israelenses foram brutalmente assassinados por terroristas palestinos que se infiltraram nos territórios do sul de Israel, incluindo muitas aldeias e cidades israelenses. Mais de 2.000 feridos, pelo menos 345 em estado crítico. Dezenas de civis israelenses, incluindo crianças, mulheres e idosos, foram raptados por terroristas do Hamas e levados para Gaza. Tem havido uma barragem incessante de foguetes – mais de 3.000 (e aumentando) – disparados por terroristas contra Israel a partir da Faixa de Gaza, além de ataques diretos em casas no centro e sul de Israel.
 

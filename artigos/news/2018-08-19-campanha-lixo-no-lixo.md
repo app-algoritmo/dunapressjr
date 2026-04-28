@@ -1,11 +1,12 @@
 ---
-title: "Campanha lixo no lixo"
+title: Campanha lixo no lixo
 date: 2018-08-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -Tema plásticos e reciclagem
 

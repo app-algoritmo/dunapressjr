@@ -1,11 +1,13 @@
 ---
-title: "Medida Provisória prorroga por dois anos crédito presumido e consolidação para multinacionais brasileiras"
+title: Medida Provisória prorroga por dois anos crédito presumido e consolidação para
+  multinacionais brasileiras
 date: 2022-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com a legislação, tributação sobre empresas brasileiras com atuação no exterior fica próxima dos patamares de países da OCDE e do G20.
 

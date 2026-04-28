@@ -1,11 +1,12 @@
 ---
-title: "Donald Trump finalmente vai contar a verdade sobre a Big Pharma"
+title: Donald Trump finalmente vai contar a verdade sobre a Big Pharma
 date: 2023-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma em cada cinco crianças americanas agora sofre de obesidade, enquanto quase metade de seus pais está com sobrepeso mórbido. É uma crise que o candidato presidencial de 2024, Donald Trump, [promete resolver](https://www.revolver.news/2023/06/president-trump-vows-to-protect-the-children-and-go-after-big-pharma/) caso seja eleito novamente.
 

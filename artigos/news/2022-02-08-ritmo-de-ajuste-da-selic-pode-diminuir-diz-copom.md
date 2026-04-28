@@ -1,11 +1,12 @@
 ---
-title: "Ritmo de ajuste da Selic pode diminuir, diz Copom"
+title: Ritmo de ajuste da Selic pode diminuir, diz Copom
 date: 2022-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação consta da ata da última reunião do comitê.
 

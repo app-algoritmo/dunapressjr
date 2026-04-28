@@ -1,11 +1,12 @@
 ---
-title: "Zero visão para o suicídio na Noruega"
+title: Zero visão para o suicídio na Noruega
 date: 2020-06-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O governo introduzirá uma visão zero de suicídio na Noruega. A visão zero deve ser aplicada a toda a comunidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro Sergio Moro se reúne com entidade norte-americana de combate ao cibercrime"
+title: Ministro Sergio Moro se reúne com entidade norte-americana de combate ao cibercrime
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Uma delegação do Brasil foi aos Estados Unidos na semana passada para se reunir com representantes da National Cyber-Forensics and Training Alliance (NCFTA), uma organização sem fins lucrativos, em Pittsburgh. A delegação foi chefiada pelo ministro da Justiça e Segurança Pública, Sergio Moro, e contou também com a participação do diretor-geral da Polícia Federal, Maurício Valeixo, e do coordenador do Laboratório de Inteligência Cibernética da Diretoria de Operações da Secretaria de Operações Integradas, Alesandro Barreto.
 

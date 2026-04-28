@@ -1,11 +1,12 @@
 ---
-title: "Será o fim do Trabalhismo?"
+title: Será o fim do Trabalhismo?
 date: 2024-05-03
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 1º de maio, como todos os anos, pessoas em todo o mundo vão às ruas para comemorar o Dia do Trabalho, data celebrada e difundida por Mussolini e Hitler. No Brasil, esse papel foi exercido pelo fascista Vargas; e na Argentina, pelo aliado de Hitler, Perón. 
 

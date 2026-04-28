@@ -1,11 +1,13 @@
 ---
-title: "Complexo de Saúde Pequeno Cotolengo recebe eventos gratuitos: RotaGeek e Festa das Nações"
+title: 'Complexo de Saúde Pequeno Cotolengo recebe eventos gratuitos: RotaGeek e Festa
+  das Nações'
 date: 2024-04-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Os eventos promovidos no dia 21 de abril, pelo Rotary Distrito 4730 prometem reunir amantes dos games, admiradores da diversidade cultural e da gastronomia.
 

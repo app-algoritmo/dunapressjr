@@ -1,11 +1,12 @@
 ---
-title: "Fragata Independência assumirá como Navio-Capitânia da FTM-UNIFIL"
+title: Fragata Independência assumirá como Navio-Capitânia da FTM-UNIFIL
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Fragata Independência, navio de guerra da Marinha, atracou nesse sábado (11) no Porto de Beirute, no Líbano, para assumir como Navio-Capitânia da Força-Tarefa Marítima da Força Interina das Nações Unidas no Líbano (FTM-UNIFIL). Será a 17ª participação do Brasil na FTM-UNIFIL, operação em que o Brasil começou a atuar em 2011. Desde então, 3,8 mil militares e seis navios brasileiros estiveram no Líbano.
 

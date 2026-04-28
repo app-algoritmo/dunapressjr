@@ -1,11 +1,12 @@
 ---
-title: "Conab divulga dados do 2º levantamento da safra 2023/2024"
+title: Conab divulga dados do 2º levantamento da safra 2023/2024
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa aponta para uma produção de 316,7 milhões de toneladas, revelando perspectivas e desafios no cenário agrícola brasileiro.
 

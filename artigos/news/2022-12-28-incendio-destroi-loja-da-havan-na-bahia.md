@@ -1,11 +1,12 @@
 ---
-title: "Incêndio destrói loja da Havan na Bahia"
+title: Incêndio destrói loja da Havan na Bahia
 date: 2022-12-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Bombeiros atuaram no controle das chamas na manhã desta quarta-feira (28).
 

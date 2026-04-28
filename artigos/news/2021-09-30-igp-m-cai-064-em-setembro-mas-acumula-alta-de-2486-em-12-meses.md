@@ -1,11 +1,12 @@
 ---
-title: "IGP-M cai 0,64% em setembro, mas acumula alta de 24,86% em 12 meses"
+title: IGP-M cai 0,64% em setembro, mas acumula alta de 24,86% em 12 meses
 date: 2021-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em setembro de 2020, o índice subiu 4,34%.
 

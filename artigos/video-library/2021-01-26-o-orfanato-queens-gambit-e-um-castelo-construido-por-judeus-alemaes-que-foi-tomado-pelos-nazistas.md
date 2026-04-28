@@ -1,11 +1,13 @@
 ---
-title: "O orfanato Queen's Gambit é um castelo construído por judeus alemães que foi tomado pelos nazistas"
+title: O orfanato Queen's Gambit é um castelo construído por judeus alemães que foi
+  tomado pelos nazistas
 date: 2021-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 A história trágica e oculta de Schloss Schulzendorf, construída pelo dono de uma loja de departamentos em Berlim, confiscada pelo Terceiro Reich, obscurecida pelos soviéticos, restituída, abandonada, redescoberta.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vendas de títulos do Tesouro Direto atingem R$ 3,62 bilhões em fevereiro"
+title: Vendas de títulos do Tesouro Direto atingem R$ 3,62 bilhões em fevereiro
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Títulos com vencimento entre cinco e dez anos foram os preferidos dos investidores, com 44,4% do total de vendas, superando pela primeira vez, desde junho de 2021, vendas de títulos com vencimentos entre um e cinco anos.
 

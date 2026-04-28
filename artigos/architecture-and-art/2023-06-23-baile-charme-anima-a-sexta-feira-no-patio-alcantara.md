@@ -1,12 +1,13 @@
 ---
-title: "Baile Charme anima a sexta-feira no Pátio Alcântara"
+title: Baile Charme anima a sexta-feira no Pátio Alcântara
 date: 2023-06-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Culture and History
+- Architecture and Art
+- Culture and History
 ---
+
 
 ## Evento gratuito de música, arte e dança acontece das 16h às 21h.
 

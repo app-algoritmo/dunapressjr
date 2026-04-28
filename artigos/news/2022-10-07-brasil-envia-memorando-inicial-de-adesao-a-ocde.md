@@ -1,11 +1,12 @@
 ---
-title: "Brasil envia memorando inicial de adesão à OCDE"
+title: Brasil envia memorando inicial de adesão à OCDE
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Documento servirá de base para discussões e acesso ao grupo.
 

@@ -1,11 +1,12 @@
 ---
-title: "China e países da Ásia Central inauguram secretariado para cooperação regional"
+title: China e países da Ásia Central inauguram secretariado para cooperação regional
 date: 2024-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 No último sábado, a China e cinco nações da Ásia Central - Cazaquistão, Quirguistão, Tajiquistão, Turcomenistão e Uzbequistão - se reuniram em Xi'an, na Província de Shaanxi, para lançar o secretariado do mecanismo de cooperação China-Ásia Central.
 

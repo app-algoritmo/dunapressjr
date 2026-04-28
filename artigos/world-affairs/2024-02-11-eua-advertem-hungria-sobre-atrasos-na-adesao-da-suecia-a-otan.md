@@ -1,11 +1,12 @@
 ---
-title: "EUA Advertem Hungria sobre Atrasos na Adesão da Suécia à OTAN"
+title: EUA Advertem Hungria sobre Atrasos na Adesão da Suécia à OTAN
 date: 2024-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Conselheiro de Segurança Nacional dos Estados Unidos, Jake Sullivan, fez um alerta direto à Hungria, pressionando o governo de Viktor Orbán a não prolongar mais a entrada da Suécia na OTAN. As tensões aumentaram quando os deputados do partido Fidesz, liderado por Orbán, se ausentaram de uma sessão parlamentar crucial para a ratificação da adesão da Suécia à aliança militar.
 

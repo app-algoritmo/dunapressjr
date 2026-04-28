@@ -1,11 +1,12 @@
 ---
-title: "Os segredos da família Rockefeller revelados"
+title: Os segredos da família Rockefeller revelados
 date: 2024-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Uma jornada pelos corredores do poder e da influência.
 

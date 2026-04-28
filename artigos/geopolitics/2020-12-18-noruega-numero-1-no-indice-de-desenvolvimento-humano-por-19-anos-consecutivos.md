@@ -1,12 +1,13 @@
 ---
-title: "Noruega número 1 no Índice de Desenvolvimento Humano por 19 anos consecutivos"
+title: Noruega número 1 no Índice de Desenvolvimento Humano por 19 anos consecutivos
 date: 2020-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 Programa das Nações Unidas para o Desenvolvimento divulga [relatório ](http://hdr.undp.org/sites/default/files/hdr2020.pdf)sobre 189 países com novos ajustes e variantes; IDH inclui taxas de emissões de CO2 e pegadas de carbono ao lado de indicadores tradicionais como saúde e educação. 
 

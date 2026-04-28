@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova percentual da arrecadação de loterias para compra de medicamentos de alto custo"
+title: Comissão aprova percentual da arrecadação de loterias para compra de medicamentos
+  de alto custo
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou o [Projeto de Lei 2051/21](https://www.camara.leg.br/noticias/784433-projeto-reserva-verbas-para-compra-de-medicamentos-de-alto-custo), que destina, no mínimo, 10% do valor arrecadado pelo Fundo Nacional de Saúde (FNS) com loterias para a compra de medicamentos de alto custo para crianças com doenças raras.
 

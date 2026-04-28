@@ -1,11 +1,13 @@
 ---
-title: "Coreia do Norte Testa com Sucesso Novo Míssil Balístico Intermediário com Ogiva Hipersônica"
+title: Coreia do Norte Testa com Sucesso Novo Míssil Balístico Intermediário com Ogiva
+  Hipersônica
 date: 2024-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Coreia do Norte realizou com sucesso um teste de um novo míssil balístico de alcance intermediário, o Hwasong-16B, equipado com uma "ogiva planadora hipersônica". A Agência Central de Notícias da Coreia (KCNA) relatou que o líder norte-coreano Kim Jong Un supervisionou pessoalmente o teste de lançamento do míssil.
 

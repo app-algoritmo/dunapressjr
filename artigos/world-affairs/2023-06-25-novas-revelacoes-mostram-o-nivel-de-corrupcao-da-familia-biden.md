@@ -1,11 +1,12 @@
 ---
-title: "Novas revelações mostram o nível de corrupção da família Biden"
+title: Novas revelações mostram o nível de corrupção da família Biden
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Mais impressionante que as novas revelações sobre as atividades criminosas de Hunter Biden, filho e sócio do presidente, é o silêncio da "imprensa" sobre o tema.
 

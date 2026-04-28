@@ -1,11 +1,12 @@
 ---
-title: "Governo distribuí trinta mil kits para diagnóstico do coronavírus"
+title: Governo distribuí trinta mil kits para diagnóstico do coronavírus
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Aproximadamente 30 mil kits com insumos para a realização de testes diagnósticos para o novo coronavírus estão sendo distribuídos à rede de laboratórios públicos de todo o País.  A medida é mais uma ação do Governo Federal, por meio do Ministério da Saúde, para preparar os estados para uma possível disseminação da doença no Brasil, além da identificação de novos casos. Os kits foram desenvolvidos por Bio-Manguinhos e pelo Instituto de Biologia Molecular do Paraná (IBMP) a pedido do ministério.
 

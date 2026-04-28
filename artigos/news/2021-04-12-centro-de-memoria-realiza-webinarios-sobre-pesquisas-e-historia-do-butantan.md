@@ -1,11 +1,12 @@
 ---
-title: "Centro de Memória realiza webinários sobre pesquisas e história do Butantan"
+title: Centro de Memória realiza webinários sobre pesquisas e história do Butantan
 date: 2021-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para o primeiro semestre de 2021, o Centro de Memória do Butantan preparou uma programação que mergulha no passado, cumprindo sua missão de preservar e difundir a história do Instituto, enquanto mantém todos seguros em casa. Isso porque, neste semestre, os tradicionais seminários do Centro serão todos digitais.
 

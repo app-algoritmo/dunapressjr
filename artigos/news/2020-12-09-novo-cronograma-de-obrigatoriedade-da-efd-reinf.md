@@ -1,11 +1,12 @@
 ---
-title: "Novo cronograma de obrigatoriedade da EFD-Reinf"
+title: Novo cronograma de obrigatoriedade da EFD-Reinf
 date: 2020-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal publicou nesta segunda-feira, dia 07 de dezembro, a Instrução Normativa RFB nº 1.996/2020 que atualiza o cronograma de implantação da EFD-Reinf, alterando as datas em que contribuintes passam a ser obrigados à entrega da escrituração.
 

@@ -1,11 +1,12 @@
 ---
-title: "Presidente Biden elogia homólogo mexicano López Obrador em entrevista à Univision"
+title: Presidente Biden elogia homólogo mexicano López Obrador em entrevista à Univision
 date: 2024-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma entrevista à rede hispano-americana Univision, o presidente dos Estados Unidos, Joe Biden, elogiou seu homólogo mexicano, Andrés Manuel López Obrador, chamando-o de uma pessoa direta e alguém que mantém sua palavra.
 

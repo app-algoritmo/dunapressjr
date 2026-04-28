@@ -1,11 +1,12 @@
 ---
-title: "Como a BioNTech-Pfizer venceu a grande corrida global de vacinas contra o coronavírus"
+title: Como a BioNTech-Pfizer venceu a grande corrida global de vacinas contra o coronavírus
 date: 2021-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Enquanto a empresa de biotecnologia alemã trabalhava em uma injeção para derrotar o vírus, outras empresas em todo o país já começaram a organizar a infraestrutura necessária para entregá-lo a bilhões.
 

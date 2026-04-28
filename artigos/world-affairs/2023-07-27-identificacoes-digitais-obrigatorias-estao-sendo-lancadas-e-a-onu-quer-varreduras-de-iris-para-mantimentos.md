@@ -1,11 +1,13 @@
 ---
-title: "Identificações digitais obrigatórias estão sendo lançadas e a ONU quer varreduras de íris para mantimentos"
+title: Identificações digitais obrigatórias estão sendo lançadas e a ONU quer varreduras
+  de íris para mantimentos
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 [Aqueles](https://www.paymentsjournal.com/ethiopia-to-mandate-digital-id-for-banking-operations/)
 

@@ -1,11 +1,13 @@
 ---
-title: "O ácaro da pandemia: aumento de picadas pelo piolho-de-pombo pode ser uma decorrência do isolamento social"
+title: 'O ácaro da pandemia: aumento de picadas pelo piolho-de-pombo pode ser uma
+  decorrência do isolamento social'
 date: 2022-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Quando se pensa em ácaros, geralmente imagina-se seres microscópicos que infestam camas e lençóis e se alimentam de células mortas da nossa pele. Mas nem todos os ácaros se nutrem com matéria orgânica morta. Existem alguns que são hematófagos, ou seja, alimentam-se de sangue, e podem transmitir patógenos. Recentemente, pesquisadores detectaram uma ampliação dos casos de dermatites causadas por um desses ácaros, da espécie *Ornithonyssus bursa*, popularmente conhecida como piolho-de-pombo – e a pandemia de Covid-19 pode ter tido um papel importante nisso.
 

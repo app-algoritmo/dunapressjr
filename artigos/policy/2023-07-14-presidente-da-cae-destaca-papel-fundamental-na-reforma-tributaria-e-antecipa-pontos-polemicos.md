@@ -1,11 +1,13 @@
 ---
-title: "Presidente da CAE destaca papel fundamental na reforma tributária e antecipa pontos polêmicos"
+title: Presidente da CAE destaca papel fundamental na reforma tributária e antecipa
+  pontos polêmicos
 date: 2023-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Senador Vanderlan Cardoso, em entrevista à Radio Senado, ressalta o trabalho da Comissão de Assuntos Econômicos e aponta possíveis mudanças na proposta 
 

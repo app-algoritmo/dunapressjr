@@ -1,11 +1,12 @@
 ---
-title: "TikTok se tornou o ponto focal das tensões EUA-China"
+title: TikTok se tornou o ponto focal das tensões EUA-China
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Temos estado envolvidos em uma avaliação constante sobre como garantir a proteção da privacidade dos cidadãos americanos e de suas informações à medida que elas transitam", acrescentou Pompeo na quarta-feira.
 

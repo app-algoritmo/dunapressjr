@@ -1,11 +1,13 @@
 ---
-title: "Museu de Microbiologia do Butantan completa 19 anos dedicados à divulgação científica"
+title: Museu de Microbiologia do Butantan completa 19 anos dedicados à divulgação
+  científica
 date: 2021-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O dia 10 de abril é uma data muito importante para o Museu de Microbiologia (MMb) do Instituto Butantan: é nesse dia que a instituição comemora 19 anos. Criada em 2002 com a missão de estimular a curiosidade científica nos jovens e propiciar oportunidades de aproximação entre a cultura científica e o público em geral, o museu dialoga com a divulgação científica, a pesquisa e a produção em relação a micróbios e vacinas por meio de sua exposição de longa duração, de exposições temporárias e de atividades educativas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Wuhan pode infectar 150.000 pessoas por dia"
+title: Coronavírus Wuhan pode infectar 150.000 pessoas por dia
 date: 2020-01-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Cientista de Hong Kong alertou sobre o cenário de pesadelo, enquanto o coronavírus mortal continua a se espalhar
 

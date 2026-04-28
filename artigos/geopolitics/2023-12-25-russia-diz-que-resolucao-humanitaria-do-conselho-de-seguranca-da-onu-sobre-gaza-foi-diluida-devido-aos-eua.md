@@ -1,11 +1,13 @@
 ---
-title: "Rússia diz que resolução humanitária do Conselho de Segurança da ONU sobre Gaza foi diluída devido aos EUA"
+title: Rússia diz que resolução humanitária do Conselho de Segurança da ONU sobre
+  Gaza foi diluída devido aos EUA
 date: 2023-12-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Isto foi afirmado pelo Representante Permanente da Rússia na ONU, Vasily Nebenzya, em uma reunião do Conselho de Segurança da ONU.
 

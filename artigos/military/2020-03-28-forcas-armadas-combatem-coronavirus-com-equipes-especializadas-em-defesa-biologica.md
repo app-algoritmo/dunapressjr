@@ -1,12 +1,13 @@
 ---
-title: "Forças Armadas combatem coronavírus com equipes especializadas em defesa biológica"
+title: Forças Armadas combatem coronavírus com equipes especializadas em defesa biológica
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília, 28/03/2020 - **Na Operação
 COVID-19, as expertises existentes junto às tropas especializadas em Defesa

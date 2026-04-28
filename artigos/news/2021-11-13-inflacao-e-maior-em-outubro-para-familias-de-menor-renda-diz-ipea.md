@@ -1,11 +1,12 @@
 ---
-title: "Inflação é maior em outubro para famílias de menor renda, diz Ipea"
+title: Inflação é maior em outubro para famílias de menor renda, diz Ipea
 date: 2021-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Grupo que mais contribuiu para a alta inflacionária foi habitação.
 

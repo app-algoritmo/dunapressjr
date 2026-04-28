@@ -1,11 +1,13 @@
 ---
-title: "Banco Central divulga estatísticas do setor externo do Brasil com superávit recorde nas transações correntes em maio de 2023"
+title: Banco Central divulga estatísticas do setor externo do Brasil com superávit
+  recorde nas transações correntes em maio de 2023
 date: 2023-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados positivos mostram aumento no superávit comercial e melhoria nos indicadores econômicos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conscientização sobre a Necessidade de Vacina contra o HIV/Aids"
+title: Conscientização sobre a Necessidade de Vacina contra o HIV/Aids
 date: 2022-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os avanços científicos e a equidade devem ir além para garantir a prevenção ao HIV, bem como uma futura vacina. No entanto, nos últimos dois anos, os resultados dos principais testes de vacinas contra o HIV derrubaram o que já era sabido e reformularam as perguntas que devem ser feitas.
 

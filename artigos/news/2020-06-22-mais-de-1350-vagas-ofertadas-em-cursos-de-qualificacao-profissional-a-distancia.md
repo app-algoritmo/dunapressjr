@@ -1,11 +1,12 @@
 ---
-title: "Mais de 1.350 vagas ofertadas em cursos de qualificação profissional a distância"
+title: Mais de 1.350 vagas ofertadas em cursos de qualificação profissional a distância
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Até agora, já são 57 mil vagas disponibilizadas por 18 instituições federais.
 

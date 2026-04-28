@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF combatem fraudes com recursos da Saúde em Teresina (PI)"
+title: 'Covid-19: CGU e PF combatem fraudes com recursos da Saúde em Teresina (PI)'
 date: 2020-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Caligo investiga compra de máscaras e prejuízo decorrente de pagamentos por EPIs adquiridos pelo município que não teriam sido entregues.
 

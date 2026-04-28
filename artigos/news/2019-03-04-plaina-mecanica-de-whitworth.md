@@ -1,11 +1,12 @@
 ---
-title: "Plaina Mecânica de Whitworth"
+title: Plaina Mecânica de Whitworth
 date: 2019-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando prosseguimento a série: “50 máquinas que mudaram o rumo da história”, vamos falar da Plaina mecânica de Whitworth.
 

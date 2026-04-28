@@ -1,11 +1,13 @@
 ---
-title: "Lançado pelo Mapa Boletim Agro Meteorológico, com informações sobre previsão do tempo"
+title: Lançado pelo Mapa Boletim Agro Meteorológico, com informações sobre previsão
+  do tempo
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O informativo de áudio também traz dicas para ajudar o produtor na decisão do plantio e da colheita.
 

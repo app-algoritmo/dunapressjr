@@ -1,11 +1,13 @@
 ---
-title: "Quais são as diferenças entre as vacinas contra Covid-19 que estão sendo aplicadas no Brasil?"
+title: Quais são as diferenças entre as vacinas contra Covid-19 que estão sendo aplicadas
+  no Brasil?
 date: 2021-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Vacinar-se é um ato necessário para a proteção individual e coletiva. Por meio dele, algumas doenças já foram erradicadas, como a varíola e a poliomielite. E, apesar de nenhuma vacina ser 100% eficaz, hoje a imunização é essencial para prevenir óbitos, casos graves da Covid-19 e para conter a pandemia. 
 

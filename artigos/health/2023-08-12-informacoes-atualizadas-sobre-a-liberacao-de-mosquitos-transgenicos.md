@@ -1,11 +1,12 @@
 ---
-title: "Informações atualizadas sobre a liberação de mosquitos transgênicos"
+title: Informações atualizadas sobre a liberação de mosquitos transgênicos
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **A história num piscar de olhos**
 

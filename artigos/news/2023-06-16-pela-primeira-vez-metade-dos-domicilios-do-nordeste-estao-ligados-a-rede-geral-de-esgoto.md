@@ -1,11 +1,13 @@
 ---
-title: "Pela primeira vez, metade dos domicílios do Nordeste estão ligados à rede geral de esgoto"
+title: Pela primeira vez, metade dos domicílios do Nordeste estão ligados à rede geral
+  de esgoto
 date: 2023-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Avanços no saneamento básico refletem-se na região, mas desafios persistem em todo o país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Experiência virtual leva brasileiros a conhecer museus pela internet"
+title: Experiência virtual leva brasileiros a conhecer museus pela internet
 date: 2020-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ### Semana Nacional de Museus tem programação especial até domingo (24).
 

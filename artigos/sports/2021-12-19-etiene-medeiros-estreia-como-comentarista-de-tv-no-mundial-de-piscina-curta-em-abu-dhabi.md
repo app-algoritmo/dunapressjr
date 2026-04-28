@@ -1,11 +1,13 @@
 ---
-title: "Etiene Medeiros estreia como comentarista de TV no Mundial de Piscina Curta em Abu Dhabi"
+title: Etiene Medeiros estreia como comentarista de TV no Mundial de Piscina Curta
+  em Abu Dhabi
 date: 2021-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A nadadora pernambucana Etiene Medeiros fará sua estreia como comentarista de TV no Campeonato Mundial de Piscina Curta (25m), em Abu Dhabi, nos Emirados Árabes Unidos. Etiene integra a equipe do SporTV2, que transmitirá a competição a partir desta quinta-feira (16) e até o dia 21. Ela fará os comentários ao lado de Daniel Takata. A narração será de Milton Leite e as reportagens de Karin Duarte.
 

@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Abate de animais cresce no quarto trimestre de 2022"
+title: 'IBGE: Abate de animais cresce no quarto trimestre de 2022'
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A compra de leite cai, enquanto a produção de couro e ovos de galinha crescem.
 

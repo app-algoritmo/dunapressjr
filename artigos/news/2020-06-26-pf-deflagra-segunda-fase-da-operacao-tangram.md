@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra segunda fase da Operação Tangram"
+title: PF deflagra segunda fase da Operação Tangram
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Curitiba/PR – A Polícia Federal cumpriu, na manhã desta sexta-feira (26/6), durante deflagração da segunda fase da Operação Tangram, mandado de prisão preventiva contra indivíduo suspeito de participar do roubo às agências da Caixa Econômica Federal, Banco do Brasil e Itaú, em Pitanga/PR, no dia 19/03/2018. A ordem judicial foi cumprida na penitenciária estadual de Piraquara, na região metropolitana de Curitiba
 

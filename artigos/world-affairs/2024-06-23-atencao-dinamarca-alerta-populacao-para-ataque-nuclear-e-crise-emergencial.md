@@ -1,11 +1,12 @@
 ---
-title: "Atenção: Dinamarca alerta população para ataque nuclear e crise emergencial"
+title: 'Atenção: Dinamarca alerta população para ataque nuclear e crise emergencial'
 date: 2024-06-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades dinamarquesas aconselharam a população a estocar mantimentos suficientes para durar três dias em caso de crise. O Serviço de Gerenciamento de Emergências da Dinamarca ([DEMA](https://www.brs.dk/da/forberedt/)) publicou em seu site uma lista de provisões recomendadas para cada residência. Isso inclui três litros de água por pessoa por dia, alimentos que não necessitam de refrigeração ou aquecimento, medicamentos, itens de higiene como papel higiênico, desinfetante e produtos sanitários, e cobertores para o frio. Um telefone móvel com carregador portátil é considerado essencial para manter a comunicação durante apagões.
 

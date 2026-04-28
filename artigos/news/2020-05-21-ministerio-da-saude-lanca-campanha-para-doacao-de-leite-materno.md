@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde lança campanha para Doação de Leite Materno"
+title: Ministério da Saúde lança campanha para Doação de Leite Materno
 date: 2020-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste 19 de maio, Dia Mundial da Doação de Leite Materno, o Ministério da Saúde lançou campanha para incentivar a doação e não deixar cair os estoques dos bancos de leite em meio à pandemia do novo coronavírus. Com o tema “Doe Leite Materno. Nessa corrente pela vida, cada gota faz a diferença”, o objetivo é incentivar a doação durante todo o ano.
 

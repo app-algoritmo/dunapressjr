@@ -1,11 +1,13 @@
 ---
-title: "Chanceleres chinês e brasileiro elogiam significado estratégico e impacto geral da cooperação bilateral"
+title: Chanceleres chinês e brasileiro elogiam significado estratégico e impacto geral
+  da cooperação bilateral
 date: 2024-01-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores da China, Wang Yi, reuniu-se nesta quinta-feira com o ministro das Relações Exteriores do Brasil, Mauro Vieira, e ambos os lados enalteceram a importância estratégica e o impacto geral da cooperação bilateral.
 

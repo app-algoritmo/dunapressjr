@@ -1,12 +1,13 @@
 ---
-title: "Instituto Etiene Medeiros lança Congresso IEM sobre educação e esporte"
+title: Instituto Etiene Medeiros lança Congresso IEM sobre educação e esporte
 date: 2023-08-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Evento será realizado no dia 23 de setembro, entre 8h e 13h, de forma on-line, voltado para quem deseja aprimorar conhecimentos e habilidades nessas áreas, com diferentes palestras. Etiene Medeiros, fundadora do IEM, e João Gomes Jr. estão entre os palestrantes.
 

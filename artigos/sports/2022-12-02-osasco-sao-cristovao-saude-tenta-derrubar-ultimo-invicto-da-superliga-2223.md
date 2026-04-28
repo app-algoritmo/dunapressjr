@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde tenta derrubar último invicto da Superliga 22/23"
+title: Osasco São Cristóvão Saúde tenta derrubar último invicto da Superliga 22/23
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 o Osasco São Cristóvão Saúde enfrenta o Dentil Praia Clube neste sábado (3), às 21h30, em Uberlândia (com transmissão do SporTV 2). A expectativa é para um grande confronto. A missão das comandadas de Luizomar é derrubar o líder invicto da competição, que vai jogar com o apoio de sua torcida. Por outro lado, as osasquenses ganharam todos os confrontos disputados longe do ginásio José Liberatti.
 

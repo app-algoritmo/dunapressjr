@@ -1,11 +1,13 @@
 ---
-title: "Por meio de capacitação, empresas ajudam profissionais com deficiência a conquistar espaços"
+title: Por meio de capacitação, empresas ajudam profissionais com deficiência a conquistar
+  espaços
 date: 2023-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Replicar o que recebeu. É esse o lema que Gisele Linhares busca colocar em prática em sua rotina de trabalho para a inclusão das pessoas com deficiência. Atualmente enquadrada em uma vaga PcD, Gisele é coordenadora das áreas de OPME (referente a próteses, órteses e materiais especiais) e também de contratos dos hospitais São Marcelino Champagnat e Universitário Cajuru, em Curitiba (PR). Com uma trajetória de crescimento profissional e pessoal, ela busca repassar para outros colaboradores - com e sem deficiência - a importância de oferecer oportunidades e acolhimento quando o tema é inclusão. 
 

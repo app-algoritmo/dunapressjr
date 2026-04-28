@@ -1,12 +1,13 @@
 ---
-title: "Cresce procura por veículos elétricos no Brasil"
+title: Cresce procura por veículos elétricos no Brasil
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
-  - News
+- E-auto
+- News
 ---
+
 
 ## Segmento pode ser promessa de dias melhores para setor automotivo, afetado pela pandemia; mercado precisa estar preparado para a revolução energética, diz especialista.
 

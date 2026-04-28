@@ -1,11 +1,12 @@
 ---
-title: "Custo da construção no país sobe 1,07% em novembro"
+title: Custo da construção no país sobe 1,07% em novembro
 date: 2021-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve queda porque, em novembro de 2020, índice foi de 1,82%.
 

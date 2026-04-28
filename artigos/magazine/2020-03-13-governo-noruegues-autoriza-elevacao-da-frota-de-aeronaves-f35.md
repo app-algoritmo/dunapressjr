@@ -1,11 +1,12 @@
 ---
-title: "Governo norueguês autoriza elevação da frota de aeronaves F35"
+title: Governo norueguês autoriza elevação da frota de aeronaves F35
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Governo autoriza a compra de mais 6 caças F35, elevando para 52 o número desta aeronave para a frota norueguesa - Status da aquisição de aeronaves de combate - fatos a partir de outubro de 2019.
 

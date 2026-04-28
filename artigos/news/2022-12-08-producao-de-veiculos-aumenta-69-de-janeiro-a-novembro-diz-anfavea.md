@@ -1,11 +1,12 @@
 ---
-title: "Produção de veículos aumenta 6,9% de janeiro a novembro, diz Anfavea"
+title: Produção de veículos aumenta 6,9% de janeiro a novembro, diz Anfavea
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Vendas de veículos novos tiveram queda de 1,3% no acumulado.
 

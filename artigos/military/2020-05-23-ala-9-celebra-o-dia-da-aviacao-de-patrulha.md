@@ -1,11 +1,12 @@
 ---
-title: "Ala 9 celebra o Dia da Aviação de Patrulha"
+title: Ala 9 celebra o Dia da Aviação de Patrulha
 date: 2020-05-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Foi realizada, nesta sexta-feira (22), na Ala 9, em Belém (PA), uma homenagem alusiva ao Dia da Aviação de Patrulha, data que celebra o Batismo de Fogo da Força Aérea Brasileira (FAB). Esse tributo faz alusão aos nobres tripulantes de Patrulha que, desde o dia 22 de maio de 1942 até os dias de hoje, dedicaram e dedicam suas vidas ao engrandecimento da FAB e à soberania da Pátria. A cerimônia foi presidida pelo Comandante da Ala 9, Brigadeiro do Ar Leonardo Chaves Rodrigues.
 

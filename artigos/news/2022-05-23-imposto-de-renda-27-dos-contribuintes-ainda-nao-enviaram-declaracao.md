@@ -1,11 +1,12 @@
 ---
-title: "Imposto de Renda: 27% dos contribuintes ainda não enviaram declaração"
+title: 'Imposto de Renda: 27% dos contribuintes ainda não enviaram declaração'
 date: 2022-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prazo termina no dia 31 de maio.
 

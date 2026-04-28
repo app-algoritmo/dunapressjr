@@ -1,11 +1,13 @@
 ---
-title: "I Festival Virtual de Arte e Cultura do IF Sertão-PE têm inscrições até 31 de julho"
+title: I Festival Virtual de Arte e Cultura do IF Sertão-PE têm inscrições até 31
+  de julho
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O Festival será em setembro e aceita as linguagens da música, da dança, da literatura, do teatro, das artes visuais e audiovisuais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar encerra esta quarta-feira em R$ 4,90"
+title: Dólar encerra esta quarta-feira em R$ 4,90
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ibovespa sofre leve queda.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prazos prorrogados: DCTF e EFD-Contribuições – PIS, Confins e Previdenciárias"
+title: 'Prazos prorrogados: DCTF e EFD-Contribuições – PIS, Confins e Previdenciárias'
 date: 2020-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O prazo para a apresentação da Declaração de Débitos e Créditos Tributários Federais (DCTF) e da Escrituração Fiscal Digital da Contribuição para o PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social (Cofins) e da Contribuição Previdenciária sobre a Receita (EFD-Contribuições) foi prorrogado. A decisão está prevista na Instrução Normativa n.°1.932, publicada nesta sexta-feira (03), no Diário Oficial da União (DOU).
 

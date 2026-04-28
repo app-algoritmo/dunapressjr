@@ -1,11 +1,12 @@
 ---
-title: "Espectroscopia do café espresso￼"
+title: Espectroscopia do café espresso￼
 date: 2021-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 O café é um produto largamente consumido em várias partes do mundo, principalmente em países ocidentais. O café já se tornou hábito dos brasileiros, sendo costume no país oferecer a bebida a convidados, colegas de trabalho ou consumi-la após as refeições. Embora exista há bastante tempo, o café não é uma das bebidas mais antigas do mundo. A *Coffea arabica* (nome científico da variedade mais comum de café) se originou na Abissínia, no continente africano, local que hoje pertence à Etiópia. A espécie foi levada para a Arábia, onde seu cultivo e consumo estão registrados desde 1450. Inclusive, a palavra “café” é originada da palavra árabe “qahwah”, que significa vinho. Sua apreciação na Europa e a ampliação do comércio internacional contribuíram para sua difusão pelo mundo e popularização da bebida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Soldado Trarbach é homenageado pelo Ministério da Defesa"
+title: Soldado Trarbach é homenageado pelo Ministério da Defesa
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Soldado Daniel Henrique Trarbach Engelmann, que morreu durante operação de combate aos crimes transfronteiriços no Rio Paraná, foi homenageado pelo Ministro da Defesa, Fernando Azevedo, pelo Presidente da República, Jair Bolsonaro, e pelo Ministro da Justiça, André Mendonça. A família Trarbach compareceu à Cerimônia de descerramento dos quadros da Galeria de Heróis do Programa VIGIA de Segurança Nacional nas Fronteiras e Divisas, para receber as homenagens. 
 

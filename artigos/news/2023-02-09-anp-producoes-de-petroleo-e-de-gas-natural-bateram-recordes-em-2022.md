@@ -1,11 +1,12 @@
 ---
-title: "ANP: Produções de petróleo e de gás natural bateram recordes em 2022"
+title: 'ANP: Produções de petróleo e de gás natural bateram recordes em 2022'
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em dezembro, os campos marítimos produziram 97,6% do petróleo e 84,3% do gás natural.
 

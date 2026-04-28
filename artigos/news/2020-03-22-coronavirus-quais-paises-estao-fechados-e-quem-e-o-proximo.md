@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, quais países estão fechados e quem é o próximo?"
+title: Coronavírus, quais países estão fechados e quem é o próximo?
 date: 2020-03-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Quatro estados membros da União Européia impuseram bloqueios para combater a propagação do potencial vírus mortal COVID-19, enquanto os viajantes que esperavam entrar no bloco estavam sendo recusados.
 

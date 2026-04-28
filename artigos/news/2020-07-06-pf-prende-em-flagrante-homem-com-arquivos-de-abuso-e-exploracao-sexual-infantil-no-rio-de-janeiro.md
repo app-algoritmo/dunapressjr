@@ -1,11 +1,13 @@
 ---
-title: "PF prende em flagrante homem com arquivos de abuso e exploração sexual infantil no Rio de Janeiro"
+title: PF prende em flagrante homem com arquivos de abuso e exploração sexual infantil
+  no Rio de Janeiro
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Na manhã de hoje (6/7), ao cumprir mandado de busca e apreensão, expedido pela 3ª Vara Criminal Federal do Rio, a Polícia Federal prendeu em flagrante, um homem de 68 anos, em Campo Grande, Zona Oeste do Rio.
 

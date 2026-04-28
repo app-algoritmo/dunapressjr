@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai pela primeira vez em três dias e fecha a R$ 5,58"
+title: Dólar cai pela primeira vez em três dias e fecha a R$ 5,58
 date: 2020-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa teve forte alta de 2,51% ajudada por alguns bancos.
 

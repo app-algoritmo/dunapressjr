@@ -1,12 +1,13 @@
 ---
-title: "A Catástrofe Humanitária na Ilha de Marajó: Uma Chamada para Ação"
+title: 'A Catástrofe Humanitária na Ilha de Marajó: Uma Chamada para Ação'
 date: 2024-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Tourism and Gastronomy
+- Policy
+- Tourism and Gastronomy
 ---
+
 
 A Ilha de Marajó, situada no estado do Pará, enfrenta uma crise de proporções humanitárias alarmantes. No entanto, enquanto famílias lutam para sobreviver em condições desumanas, parece haver uma falta de preocupação, especialmente por parte da esquerda política. Em vez de focar seus esforços em ajudar o povo de Marajó, marcado por tragédias, especialmente as crianças sujeitas a abusos sexuais, a esquerda preferiu desacreditar os relatos, rotulando-os como teorias da conspiração e atacando aqueles que os traziam à luz, como a ex-ministra e atual Senadora **[Damaris Alves](https://pt.wikipedia.org/wiki/Damares_Alves)**.
 

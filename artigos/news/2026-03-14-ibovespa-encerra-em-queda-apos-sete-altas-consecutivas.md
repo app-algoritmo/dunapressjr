@@ -1,10 +1,11 @@
 ---
-title: "Ibovespa encerra em queda após sete altas consecutivas"
+title: Ibovespa encerra em queda após sete altas consecutivas
 date: 2026-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 

@@ -1,11 +1,12 @@
 ---
-title: "Como Biden planeja bloquear o sol para 'salvar o planeta'"
+title: Como Biden planeja bloquear o sol para 'salvar o planeta'
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 **A história num piscar de olhos**
 

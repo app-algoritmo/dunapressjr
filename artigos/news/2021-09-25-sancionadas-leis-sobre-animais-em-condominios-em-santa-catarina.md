@@ -1,11 +1,12 @@
 ---
-title: "Sancionadas leis sobre animais em condomínios em Santa Catarina"
+title: Sancionadas leis sobre animais em condomínios em Santa Catarina
 date: 2021-09-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Já está em vigor a Lei 18.125/2021, que regulamenta a habitação e o trânsito de animais domésticos nos condomínios residenciais de Santa Catarina. A norma foi sancionada pelo governador Carlos Moisés da Silva (sem partido) na última quarta-feira (22) e publicada no Diário Oficial do Estado desta quinta-feira (23).
 

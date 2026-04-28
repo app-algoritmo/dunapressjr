@@ -1,11 +1,12 @@
 ---
-title: "É assim que a mídia espanhola usa a linguagem para manipular a opinião pública"
+title: É assim que a mídia espanhola usa a linguagem para manipular a opinião pública
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os meios de comunicação desempenham um papel importante na definição da agenda de prioridades que dizem respeito à opinião pública. É o que se chama ***agenda-setting*** em inglês.
 

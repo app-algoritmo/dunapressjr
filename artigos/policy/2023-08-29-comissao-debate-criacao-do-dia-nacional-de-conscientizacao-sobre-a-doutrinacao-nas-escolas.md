@@ -1,11 +1,13 @@
 ---
-title: "Comissão debate criação do Dia Nacional de Conscientização sobre a Doutrinação nas Escolas"
+title: Comissão debate criação do Dia Nacional de Conscientização sobre a Doutrinação
+  nas Escolas
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Educação da Câmara dos Deputados debate, nesta quinta-feira (31), a criação de um Dia Nacional de Conscientização sobre a Doutrinação nas Escolas.
 

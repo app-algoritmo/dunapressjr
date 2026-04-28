@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Educação trabalhando para retorno às aulas"
+title: Ministério da Educação trabalhando para retorno às aulas
 date: 2020-05-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Desde o início da parada das aulas em todo território nacional, o MEC investiu cerca de 721 milhões de reais, por meio do FNDE (Fundo Nacional de Desenvolvimento da Educação), para manter as estruturas escolares, como também comprar álcool em gel, sabonete, toalhas de papel, produtos de higiene e limpeza.
 

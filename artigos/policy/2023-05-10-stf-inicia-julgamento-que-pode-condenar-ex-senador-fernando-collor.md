@@ -1,11 +1,12 @@
 ---
-title: "STF inicia julgamento que pode condenar ex-senador Fernando Collor"
+title: STF inicia julgamento que pode condenar ex-senador Fernando Collor
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Vice-procuradora-geral da República, Lindora Araújo pediu a condenação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vendas cresceram 13,4% no mês de agosto"
+title: Vendas cresceram 13,4% no mês de agosto
 date: 2020-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é evidenciado no Boletim da Receita Federal - Nota Fiscal Eletrônica.
 

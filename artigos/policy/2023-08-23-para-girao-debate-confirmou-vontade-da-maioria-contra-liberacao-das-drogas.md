@@ -1,11 +1,12 @@
 ---
-title: "Para Girão, debate confirmou vontade da maioria contra liberação das drogas"
+title: Para Girão, debate confirmou vontade da maioria contra liberação das drogas
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta terça-feira (22), o senador Eduardo Girão (Novo-CE) destacou a [sessão de debates sobre a descriminalização das drogas](/noticias/materias/2023/08/17/congresso-e-o-poder-legitimo-para-decidir-sobre-droga-aponta-debate) promovida no Plenário do Senado na semana passada. O parlamentar enfatizou que os convidados foram unânimes contra a liberação do porte de drogas para consumo próprio. O tema volta à pauta do Supremo Tribunal Federal (STF) nesta semana e já conta com quatro votos a favor da descriminalização do porte de maconha para uso pessoal. Girão relacionou o uso de entorpecentes à violência e mencionou crimes recentes.
 

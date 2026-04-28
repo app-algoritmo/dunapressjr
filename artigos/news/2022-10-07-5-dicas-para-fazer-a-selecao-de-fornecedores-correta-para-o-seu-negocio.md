@@ -1,11 +1,12 @@
 ---
-title: "5 dicas para fazer a seleção de fornecedores correta para o seu negócio"
+title: 5 dicas para fazer a seleção de fornecedores correta para o seu negócio
 date: 2022-10-07
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Uma das melhores maneiras de organizar uma empresa é ter uma boa lista de fornecedores atualizada, assim você pode sempre estar atento a novas parcerias para manter seu negócio sempre impulsionado.
 

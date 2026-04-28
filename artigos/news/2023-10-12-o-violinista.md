@@ -1,11 +1,12 @@
 ---
-title: "O violinista"
+title: O violinista
 date: 2023-10-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um violinista famoso tocou durante 45 minutos no metro de Washington D.C.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, deflagra a Operação Saque Marcado em Minas Gerais"
+title: PF, em ação integrada, deflagra a Operação Saque Marcado em Minas Gerais
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Nesta quarta-feira (6/5), a Força Integrada de Combate ao Crime Organizado (FICCO), força-tarefa coordenada pela Polícia Federal e integrada pela Polícia Civil, pela Polícia Rodoviária Federal, Polícia Militar e pelo Departamento Penitenciário de Minas Gerais/Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais, deflagrou a Operação Saque Marcado, que investiga quadrilha responsável por roubos na modalidade conhecida como saidinha de banco.
 

@@ -1,11 +1,12 @@
 ---
-title: "Empresas paraibanas podem ser beneficiadas com anistia de impostos"
+title: Empresas paraibanas podem ser beneficiadas com anistia de impostos
 date: 2020-06-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A iniciativa vai beneficiar especialmente os pequenos negócios.
 

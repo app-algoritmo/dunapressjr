@@ -1,11 +1,13 @@
 ---
-title: "Maior olimpíada corporativa do mundo movimenta a capital paulista no fim de semana"
+title: Maior olimpíada corporativa do mundo movimenta a capital paulista no fim de
+  semana
 date: 2023-11-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Neste sábado (25) e domingo (26), o São Paulo Corporate Games terá disputas em três sedes - Centro Paralímpico, Arena T.O e Playball -, reunindo 1.050 atletas de 23 empresas. Competições começam às 9h.
 

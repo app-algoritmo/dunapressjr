@@ -1,11 +1,13 @@
 ---
-title: "Dinamarca: diferença na qualidade dos lotes da vacina de mRNA da Pfizer ligada a efeitos colaterais, incluindo mortes"
+title: 'Dinamarca: diferença na qualidade dos lotes da vacina de mRNA da Pfizer ligada
+  a efeitos colaterais, incluindo mortes'
 date: 2023-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um trio de pesquisadores dinamarqueses, liderados pelo investigador sênior Peter Riis Hansen, do Departamento de Cardiologia do [University Hospital Copenhagen-Herleve e Gentofe](https://research.regionh.dk/en/organisations/herlev-og-gentofte-hospital) , publicou recentemente uma carta de pesquisa no European Journal of Clinical Investigation. 
 

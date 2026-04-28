@@ -1,11 +1,12 @@
 ---
-title: "Izalci expressa preocupação com educação no país"
+title: Izalci expressa preocupação com educação no país
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF), em pronunciamento no Plenário, nesta segunda-feira (9), manifestou preocupação com a situação da educação no país. Segundo o senador, as metas do Plano Nacional de Educação não foram alcançadas. Ele fez críticas à atual administração pública, enfatizando a importância de um maior controle e objetivos mais definidos na área educacional.
 

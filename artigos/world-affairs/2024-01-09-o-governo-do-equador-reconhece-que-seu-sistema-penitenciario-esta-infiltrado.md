@@ -1,11 +1,12 @@
 ---
-title: "O Governo do Equador reconhece que seu sistema penitenciário está “infiltrado”"
+title: O Governo do Equador reconhece que seu sistema penitenciário está “infiltrado”
 date: 2024-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O secretário de Comunicação do [Governo do Equador](https://gaceta.es/iberosfera/el-presidente-de-ecuador-anuncia-la-construccion-de-dos-carceles-de-maxima-seguridad-20240105-2247/) , Roberto Izurieta, reconheceu que **o sistema penitenciário do país está "falecido"** e [anunciou](https://www.europapress.es/internacional/noticia-ecuador-reconoce-infiltraciones-instituciones-fuga-fito-jefe-choneros-20240108153023.html) que a fuga da prisão do chefe de Los Choneros, Adolfo Villamar Macías, vulgo 'Fito', se deve a "infiltrações" nas próprias instituições.
 

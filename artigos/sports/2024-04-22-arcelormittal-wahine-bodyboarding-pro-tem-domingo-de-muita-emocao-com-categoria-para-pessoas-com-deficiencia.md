@@ -1,11 +1,13 @@
 ---
-title: "ArcelorMittal Wahine Bodyboarding Pro tem domingo de muita emoção com categoria para Pessoas com Deficiência"
+title: ArcelorMittal Wahine Bodyboarding Pro tem domingo de muita emoção com categoria
+  para Pessoas com Deficiência
 date: 2024-04-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Foram realizadas também baterias na Profissional e Máster, no primeiro dia de disputas da etapa feminina do Circuito Mundial de Bodyboarding, em Serra, no Espírito Santo.
 

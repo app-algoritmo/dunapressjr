@@ -1,11 +1,12 @@
 ---
-title: "O segredo do Pai"
+title: O segredo do Pai
 date: 2019-11-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A oração do pai nosso é dizer a Deus, faça tua vontade e não a minha. Entender isto já basta.
 

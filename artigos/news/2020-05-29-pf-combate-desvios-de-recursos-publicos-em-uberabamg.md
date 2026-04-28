@@ -1,11 +1,12 @@
 ---
-title: "PF combate desvios de recursos públicos em Uberaba/MG"
+title: PF combate desvios de recursos públicos em Uberaba/MG
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uberaba/MG – Na manhã de quinta feira (28/5), a Polícia Federal deflagrou a Operação “Monturo”, para combater desvio de verbas públicas de limpeza urbana da Prefeitura de Uberaba, em Minas Gerais.
 

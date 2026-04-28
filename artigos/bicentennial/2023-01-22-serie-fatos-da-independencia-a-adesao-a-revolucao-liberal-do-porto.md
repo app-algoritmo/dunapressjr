@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A adesão à Revolução Liberal do Porto"
+title: 'Série Fatos Da Independência: A adesão à Revolução Liberal do Porto'
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Com a adesão à Revolução Liberal do Porto, a província do Grão-Pará vivenciou uma verdadeira convulsão social. Afinal, todos sonhavam melhores tempos com a nova Junta de Governo. Nesse sentido, os Tapuios acreditaram que, com uma constituição em vigor, não seriam mais submetidos ao alistamento obrigatório ou aos serviços públicos contra a própria vontade. Os negros, inflamados por Patroni, esperavam ter maior participação política e, talvez, a garantia da liberdade. Os comerciantes, recém enriquecidos com a guerra na Guiana, viram uma chance de alcançar o poder político que lhes faltava. Por esses motivos, houve amplo apoio dessas camadas à Revolução Liberal do Porto. Contudo, esses grupos precisariam enfrentar os antigos comandantes da região, ou seja, proprietários e burocratas portugueses que não desistiriam facilmente dos seus postos.
 

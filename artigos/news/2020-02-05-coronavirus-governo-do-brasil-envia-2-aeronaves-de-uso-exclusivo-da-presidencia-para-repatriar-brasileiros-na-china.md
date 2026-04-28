@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Governo do Brasil envia 2 aeronaves de uso exclusivo da presidência para repatriar brasileiros na China"
+title: 'Coronavírus: Governo do Brasil envia 2 aeronaves de uso exclusivo da presidência
+  para repatriar brasileiros na China'
 date: 2020-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Primeiro grupo de brasileiros que deixará a China deve chegar ao Brasil no sábado dia 8
 

@@ -1,11 +1,12 @@
 ---
-title: "O Irã não esquecerá nem perdoará os responsáveis ​​pelo ataque químico de Sardasht"
+title: O Irã não esquecerá nem perdoará os responsáveis ​​pelo ataque químico de Sardasht
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro das Relações Exteriores do Irã, Hossein Amirabdollahian, diz que o governo da República Islâmica do Irã não esquecerá nem perdoará os perpetradores do ataque químico de Sardasht e seus cúmplices.
 

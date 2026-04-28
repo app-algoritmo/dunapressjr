@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra 2ª fase da Operação Ataque Furtivo"
+title: Polícia Federal deflagra 2ª fase da Operação Ataque Furtivo
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo - A Polícia Federal deflagrou nesta terça-feira (2/6) a segunda fase da Operação ATAQUE FURTIVO, que tem por objetivo desarticular quadrilhas especializadas em roubos a agências da Caixa Econômica Federal e dar cumprimento a quatro mandados judiciais, sendo um de prisão temporária e três de busca e apreensão, expedidos pela Vara Federal de São Bernardo do Campo e pela 7ª Vara Federal Criminal de São Paulo.
 

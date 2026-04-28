@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Taxa de desocupação no Brasil no segundo trimestre de 2023 apresenta queda significativa"
+title: 'IBGE: Taxa de desocupação no Brasil no segundo trimestre de 2023 apresenta
+  queda significativa'
 date: 2023-08-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da PNAD Contínua revelam diminuição na taxa de desemprego em diversas regiões e Estados do país.
 

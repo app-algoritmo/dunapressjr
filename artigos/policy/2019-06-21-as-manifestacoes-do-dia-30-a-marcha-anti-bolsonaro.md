@@ -1,11 +1,12 @@
 ---
-title: "As manifestações do dia 30: A marcha anti-Bolsonaro"
+title: 'As manifestações do dia 30: A marcha anti-Bolsonaro'
 date: 2019-06-21
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Policy
+- Policy
 ---
+
 
 As manifestações do dia 30 foram
 um ato contra o governo e sua figura mais polêmica, o presidente Jair Messias

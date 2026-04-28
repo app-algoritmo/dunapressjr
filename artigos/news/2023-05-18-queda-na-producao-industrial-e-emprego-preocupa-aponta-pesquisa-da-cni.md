@@ -1,11 +1,12 @@
 ---
-title: "Queda na produção industrial e emprego preocupa, aponta pesquisa da CNI"
+title: Queda na produção industrial e emprego preocupa, aponta pesquisa da CNI
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desaquecimento da indústria brasileira e menor intenção de investimento refletem cenário desafiador para o setor.
 

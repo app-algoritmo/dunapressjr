@@ -1,11 +1,12 @@
 ---
-title: "Ararinhas-azuis vindas da Alemanha desembarcarão na cidade de Curaçá (BA)"
+title: Ararinhas-azuis vindas da Alemanha desembarcarão na cidade de Curaçá (BA)
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta terça-feira (3), cinquenta ararinhas-azuis desembarcam no Brasil, no Aeroporto de Petrolina, em Senador Nilo Coelho (PE), vindas da Alemanha. Após o pouso, as aves serão levadas para a cidade de Curaçá, na Bahia, onde um centro de reprodução foi construído especialmente para recebê-las.
 

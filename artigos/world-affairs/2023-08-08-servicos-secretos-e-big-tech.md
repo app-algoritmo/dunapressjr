@@ -1,11 +1,12 @@
 ---
-title: "Serviços Secretos e Big Tech"
+title: Serviços Secretos e Big Tech
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 “Uma vez que um estado é capaz de silenciar seus críticos, ele está a um passo do totalitarismo”, concluiu o candidato presidencial Bobby Kennedy Jr. na audiência do Subcomitê Selecionado sobre Armamento do Governo na semana passada.
 

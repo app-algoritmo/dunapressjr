@@ -1,11 +1,12 @@
 ---
-title: "MTur anuncia investimento de R$ 1 milhão em Monte Verde (MG)"
+title: MTur anuncia investimento de R$ 1 milhão em Monte Verde (MG)
 date: 2020-07-21
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Recurso trará melhorias à cidade e vai ajudar na retomada do turismo na região.
 

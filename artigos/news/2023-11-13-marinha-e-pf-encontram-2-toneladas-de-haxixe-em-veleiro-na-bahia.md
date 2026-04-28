@@ -1,11 +1,12 @@
 ---
-title: "Marinha e PF encontram 2 toneladas de haxixe em veleiro na Bahia"
+title: Marinha e PF encontram 2 toneladas de haxixe em veleiro na Bahia
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Embarcação de bandeira alemã foi rebocada para Base Naval de Aratu.
 

@@ -1,11 +1,13 @@
 ---
-title: "SC: Polícia Civil bate recorde no cumprimento de mandados de prisão e de busca e apreensão"
+title: 'SC: Polícia Civil bate recorde no cumprimento de mandados de prisão e de busca
+  e apreensão'
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Em 2023, a Polícia Civil de Santa Catarina prendeu 4.875 pessoas, por meio de cumprimento de mandado de prisão. O dado divulgado nesta quarta-feira 1º de novembro, pela Diretoria de Inteligência da PCSC, revelou mais um recorde: o crescimento de 61,21% no número de mandados de prisão cumpridos. A análise contempla o período de 01/01/2023 a 30/10/2023, sempre comparada a igual período do ano passado. O cruzamento de dados apontou ainda que 58,87% dos presos têm idades entre 25 e 44 anos, sendo que 89,99% são homens. Apenas nos últimos sete dias, a PCSC prendeu 67 pessoas por meio de
 cumprimento de mandado de prisão, em 43 municípios.

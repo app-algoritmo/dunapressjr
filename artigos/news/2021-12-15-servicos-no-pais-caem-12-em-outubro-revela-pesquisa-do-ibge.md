@@ -1,11 +1,12 @@
 ---
-title: "Serviços no país caem 1,2% em outubro, revela pesquisa do IBGE"
+title: Serviços no país caem 1,2% em outubro, revela pesquisa do IBGE
 date: 2021-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Receita nominal recua 0,2% na comparação com setembro.
 

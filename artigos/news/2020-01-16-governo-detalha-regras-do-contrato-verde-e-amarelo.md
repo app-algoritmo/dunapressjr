@@ -1,11 +1,12 @@
 ---
-title: "Governo detalha regras do Contrato Verde e Amarelo"
+title: Governo detalha regras do Contrato Verde e Amarelo
 date: 2020-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Publicação trata de aspectos como prazo e limite de contratados*
 

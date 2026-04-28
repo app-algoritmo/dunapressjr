@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica recua 0,44% em abril, segundo Banco Central"
+title: Atividade econômica recua 0,44% em abril, segundo Banco Central
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Espécie de prévia do PIB, IBC-Br subiu 1,09% em março.
 

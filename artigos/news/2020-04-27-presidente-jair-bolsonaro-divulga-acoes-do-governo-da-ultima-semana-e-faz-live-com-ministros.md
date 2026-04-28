@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro divulga ações do governo da ultima semana, e faz live com ministros"
+title: Presidente Jair Bolsonaro divulga ações do governo da ultima semana, e faz
+  live com ministros
 date: 2020-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente Jair Bolsonaro usou as redes sociais para prestar contas com a população brasileira neste manhã de segunda feira. Ele foi pontual e destacou todos os investimentos, e gastos em cada setos de seu governo.
 

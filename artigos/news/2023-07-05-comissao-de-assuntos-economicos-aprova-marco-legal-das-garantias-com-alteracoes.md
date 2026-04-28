@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Assuntos Econômicos aprova Marco Legal das Garantias com alterações"
+title: Comissão de Assuntos Econômicos aprova Marco Legal das Garantias com alterações
 date: 2023-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudanças nas normas de garantias de empréstimos visam reduzir o risco de inadimplência e diminuir o custo do crédito.
 

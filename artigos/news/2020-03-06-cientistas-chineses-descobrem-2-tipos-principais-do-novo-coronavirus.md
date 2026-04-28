@@ -1,11 +1,12 @@
 ---
-title: "Cientistas chineses descobrem 2 tipos principais do novo coronavírus"
+title: Cientistas chineses descobrem 2 tipos principais do novo coronavírus
 date: 2020-03-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Equipe diz que um deles é de fácil transmissão
 

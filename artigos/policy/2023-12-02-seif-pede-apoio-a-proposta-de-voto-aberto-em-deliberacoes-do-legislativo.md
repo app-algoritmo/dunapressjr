@@ -1,11 +1,12 @@
 ---
-title: "Seif pede apoio a proposta de voto aberto em deliberações do Legislativo"
+title: Seif pede apoio a proposta de voto aberto em deliberações do Legislativo
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) pediu o apoio dos colegas à Proposta de Emenda à Constituição (PEC), de sua autoria, que veda o voto secreto em todas as deliberações do Poder Legislativo. O texto precisa de 27 assinaturas para começar a tramitar no Senado. Em pronunciamento na terça-feira (28), o parlamentar argumentou que a transparência é exigida pela população brasileira, que tem o direito de saber como seus representantes estão votando, especialmente em decisões que moldam o futuro da nação, como de ministros do Supremo Tribunal Federal (STF).
 

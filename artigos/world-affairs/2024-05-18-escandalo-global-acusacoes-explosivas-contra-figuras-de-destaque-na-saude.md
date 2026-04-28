@@ -1,11 +1,12 @@
 ---
-title: "Escândalo Global: Acusações Explosivas Contra Figuras de Destaque na Saúde"
+title: 'Escândalo Global: Acusações Explosivas Contra Figuras de Destaque na Saúde'
 date: 2024-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://www.youtube.com/watch?v=HdmYf2CmP2E
 

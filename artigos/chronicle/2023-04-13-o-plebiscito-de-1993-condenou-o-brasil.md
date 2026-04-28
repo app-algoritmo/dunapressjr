@@ -1,12 +1,13 @@
 ---
-title: "O Plebiscito de 1993 condenou o Brasil"
+title: O Plebiscito de 1993 condenou o Brasil
 date: 2023-04-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - News
+- Chronicle
+- News
 ---
+
 
 [O Plebiscito de 1993](https://dunapress.org/2023/04/09/plebiscito-de-1993-ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/) foi um evento histórico na política brasileira que decidiu o tipo de regime político que seria adotado no país. O plebiscito foi realizado em 21 de abril de 1993 e perguntou aos eleitores se eles preferiam um regime presidencialista ou parlamentarista.
 

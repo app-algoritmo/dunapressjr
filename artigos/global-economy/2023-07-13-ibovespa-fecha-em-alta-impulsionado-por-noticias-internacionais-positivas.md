@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta impulsionado por notícias internacionais positivas"
+title: Ibovespa fecha em alta impulsionado por notícias internacionais positivas
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Desinflação nos EUA e boas perspectivas na China impulsionam a bolsa brasileira, enquanto empresas exportadoras de commodities lideram os ganhos.
 

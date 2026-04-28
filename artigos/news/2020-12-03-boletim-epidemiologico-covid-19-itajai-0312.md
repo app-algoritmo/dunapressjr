@@ -1,11 +1,12 @@
 ---
-title: "Boletim Epidemiológico Covid-19 Itajaí 03/12"
+title: Boletim Epidemiológico Covid-19 Itajaí 03/12
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí soma nesta quinta-feira (3) 10.799 casos confirmados de COVID-19 e 202 mortes em decorrência da doença. Do total de contaminados, 9.490 pacientes já se recuperaram (87,87%) e 1.107 estão com o vírus ativo (51 internados e 1.056 em isolamento domiciliar). Há ainda 131 casos suspeitos aguardando resultado de exames.
 

@@ -1,11 +1,12 @@
 ---
-title: "A rainha Sonja da Noruega  concede o Edvard Munch Art Award"
+title: A rainha Sonja da Noruega  concede o Edvard Munch Art Award
 date: 2020-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Na quarta-feira, 12 de fevereiro de 2020, o jordaniano Lawrence Abu Hamdan receberá o prêmio de arte durante uma cerimônia na prefeitura de Oslo.
 

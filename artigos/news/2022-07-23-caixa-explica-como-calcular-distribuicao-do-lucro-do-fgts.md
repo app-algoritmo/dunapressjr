@@ -1,11 +1,12 @@
 ---
-title: "Caixa explica como calcular distribuição do lucro do FGTS"
+title: Caixa explica como calcular distribuição do lucro do FGTS
 date: 2022-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor corresponde ao saldo de cada conta em 31 de dezembro.
 

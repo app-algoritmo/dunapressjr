@@ -1,11 +1,12 @@
 ---
-title: "Quase 2 milhões de trabalhadores podem ser incluídos no PIS/Pasep"
+title: Quase 2 milhões de trabalhadores podem ser incluídos no PIS/Pasep
 date: 2022-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dataprev está revisando inconsistências nos dados da Rais.
 

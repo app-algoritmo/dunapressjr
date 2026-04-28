@@ -1,11 +1,12 @@
 ---
-title: "Moraes autoriza devolução de celular do senador Marcos do Val"
+title: Moraes autoriza devolução de celular do senador Marcos do Val
 date: 2023-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ministro do STF atendeu a pedido da PF, que já extraiu dados.
 

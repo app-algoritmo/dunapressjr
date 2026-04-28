@@ -1,11 +1,12 @@
 ---
-title: "Petrobras atinge lucro líquido de R$ 54,3 bilhões no trimestre"
+title: Petrobras atinge lucro líquido de R$ 54,3 bilhões no trimestre
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado foi creditado à forte geração de caixa da estatal.
 

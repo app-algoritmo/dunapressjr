@@ -1,11 +1,12 @@
 ---
-title: "Um pequeno estado no 'chifre' da África está a tornar-se um hotspot geopolítico"
+title: Um pequeno estado no 'chifre' da África está a tornar-se um hotspot geopolítico
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Qual é a razão do grande interesse recente no Djibuti? O pequeno território de apenas 23.000 quilómetros quadrados está no centro de uma mudança tectónica na política mundial e regional. A busca contínua das nações poderosas pelo domínio na região do Indo-Pacífico estende-se agora à costa da África Oriental, e o pequeno Djibuti está no centro desta disputa geopolítica.
 

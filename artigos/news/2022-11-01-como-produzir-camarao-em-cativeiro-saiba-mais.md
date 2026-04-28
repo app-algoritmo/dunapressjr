@@ -1,11 +1,12 @@
 ---
-title: "Como produzir camarão em cativeiro? Saiba mais"
+title: Como produzir camarão em cativeiro? Saiba mais
 date: 2022-11-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 A criação de camarão em cativeiro é uma atividade chamada carcinicultura, um ramo específico da aquicultura que pode ser encontrado na forma de carcinicultura marinha ou de água doce. 
 

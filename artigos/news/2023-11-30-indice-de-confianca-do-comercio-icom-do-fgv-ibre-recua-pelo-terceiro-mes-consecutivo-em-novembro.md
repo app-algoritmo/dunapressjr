@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança do Comércio (ICOM) do FGV IBRE recua pelo terceiro mês consecutivo em novembro"
+title: Índice de Confiança do Comércio (ICOM) do FGV IBRE recua pelo terceiro mês
+  consecutivo em novembro
 date: 2023-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desempenho abaixo das expectativas e previsões pessimistas marcam o cenário do comércio, revela pesquisa do FGV IBRE.
 

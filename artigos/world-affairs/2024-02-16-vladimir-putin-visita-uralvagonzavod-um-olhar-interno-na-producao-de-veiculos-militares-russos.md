@@ -1,11 +1,13 @@
 ---
-title: "Vladimir Putin visita Uralvagonzavod: Um Olhar Interno na Produção de Veículos Militares Russos"
+title: 'Vladimir Putin visita Uralvagonzavod: Um Olhar Interno na Produção de Veículos
+  Militares Russos'
 date: 2024-02-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A mídia oficial do Kremlin recentemente divulgou vídeos da visita do presidente russo, Vladimir Putin, ao Uralvagonzavod, uma das instalações de produção mais importantes da Rússia, especializada na fabricação de veículos para as Forças Terrestres Russas, incluindo Main Battle Tanks (MBTs). A visita de Putin oferece um vislumbre único do complexo processo de fabricação por trás dos veículos que desempenham um papel crucial na defesa e na estratégia militar russa.
 

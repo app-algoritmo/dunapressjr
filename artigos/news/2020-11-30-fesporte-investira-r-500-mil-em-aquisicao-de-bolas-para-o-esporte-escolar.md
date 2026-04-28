@@ -1,11 +1,12 @@
 ---
-title: "Fesporte investirá R$ 500 mil em aquisição de bolas para o esporte escolar"
+title: Fesporte investirá R$ 500 mil em aquisição de bolas para o esporte escolar
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boas notícias para o esporte em 2021. A Fesporte firmou um contrato na ordem de R$ 500.000 com o Ministério da Cidadania. O recurso terá como destino a compra de bolas de handebol, basquete, voleibol, futsal e futebol de campo e beneficiará 259.396 pessoas.
 

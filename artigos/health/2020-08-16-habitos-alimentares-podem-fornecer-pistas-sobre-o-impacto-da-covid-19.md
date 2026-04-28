@@ -1,11 +1,12 @@
 ---
-title: "Hábitos alimentares podem fornecer pistas sobre o impacto da COVID-19"
+title: Hábitos alimentares podem fornecer pistas sobre o impacto da COVID-19
 date: 2020-08-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Qual é a influência dos nossos hábitos à mesa sobre nosso bem-estar durante a pandemia? Duas novas pesquisas da Universidade Federal de Ouro Preto (UFOP) buscam respostas para a pergunta. Uma delas estuda o impacto do estilo de vida dos infectados por COVID-19 na reação do corpo à doença. Outra investiga a relação entre consumo de glúten, isolamento social e alterações no comportamento. Financiadas por bolsas emergenciais do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), duas bolsistas de Ciências Biológicas abordam a alimentação de formas bem diferentes.
 

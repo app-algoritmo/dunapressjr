@@ -1,11 +1,12 @@
 ---
-title: "Indicadores Industriais apresentam “imobilidade preocupante”, diz CNI"
+title: Indicadores Industriais apresentam “imobilidade preocupante”, diz CNI
 date: 2022-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Faturamento e emprego recuam; índice de horas trabalhadas cresceu.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Fazenda finaliza proposta para correção da tabela de Imposto de Renda"
+title: Ministério da Fazenda finaliza proposta para correção da tabela de Imposto
+  de Renda
 date: 2023-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A última atualização da tabela foi feita em 2015.
 

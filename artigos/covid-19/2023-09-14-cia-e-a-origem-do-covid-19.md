@@ -1,11 +1,12 @@
 ---
-title: "CIA e a origem do COVID-19"
+title: CIA e a origem do COVID-19
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Denunciante da CIA expõe o encobrimento da agência sobre as origens da Covid.
 

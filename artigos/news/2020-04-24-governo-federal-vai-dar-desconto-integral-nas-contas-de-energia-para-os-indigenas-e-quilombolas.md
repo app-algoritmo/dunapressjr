@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal vai dar desconto integral nas contas de energia para os Indígenas e quilombolas"
+title: Governo Federal vai dar desconto integral nas contas de energia para os Indígenas
+  e quilombolas
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma das medidas anunciadas pelo Governo Federal para auxiliar a população de baixa renda durante a pandemia da Covid-19 é a isenção do pagamento das contas de energia. Nos próximos três meses, a população não vai precisar pagar conta de luz beneficiando cerca de nove milhões de brasileiros.  Os indígenas e quilombolas que já tem 100% de desconto para o consumo de 50 kw/h passam a ter 100% de desconto até 220 kWh/mês.
 

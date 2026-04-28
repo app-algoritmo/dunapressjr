@@ -1,11 +1,12 @@
 ---
-title: "Nidus, Laboratório de Inovação de Santa Catarina, completa um ano"
+title: Nidus, Laboratório de Inovação de Santa Catarina, completa um ano
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Há um ano, o Nidus, Laboratório de Inovação de Santa Catarina, se tornava realidade. Com a inauguração da estrutura, na Associação Catarinense de Tecnologia (Acate), o laboratório, que é vinculado à Diretoria de Tecnologia e Inovação da Secretaria de Estado da Administração, abriu espaço para ideias e projetos voltados à inovação da gestão pública estadual.
 

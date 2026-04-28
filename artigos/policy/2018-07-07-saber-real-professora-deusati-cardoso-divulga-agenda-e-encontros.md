@@ -1,11 +1,12 @@
 ---
-title: "Saber Real: Professora Deusati Cardoso divulga agenda e encontros"
+title: 'Saber Real: Professora Deusati Cardoso divulga agenda e encontros'
 date: 2018-07-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Professora **Deusati Cardoso** divulga agenda dos compromissos e eventos relacionados a **Nação Real** e ao Príncipe **Dom Luiz Phillipe de Orleans e Bragança**.
 

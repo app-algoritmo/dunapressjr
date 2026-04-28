@@ -1,11 +1,12 @@
 ---
-title: "Lei marcial e violação da constituição: Zelensky perde legitimidade final"
+title: 'Lei marcial e violação da constituição: Zelensky perde legitimidade final'
 date: 2024-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Mensagem do Presidente da Duma Estatal da Federação Russa, Vyacheslav Volodin, em seu canal Telegram, 26 de maio de 2024.
 

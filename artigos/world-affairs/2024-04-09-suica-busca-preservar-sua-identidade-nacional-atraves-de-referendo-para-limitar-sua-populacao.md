@@ -1,11 +1,13 @@
 ---
-title: "Suíça busca preservar sua identidade nacional através de referendo para limitar sua população"
+title: Suíça busca preservar sua identidade nacional através de referendo para limitar
+  sua população
 date: 2024-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Confederação Suíça está enfrentando um dilema crucial: entre manter sua identidade nacional e lidar com os desafios da imigração em massa, optou por priorizar sua própria identidade. Em uma medida que visa conter a imigração e preservar seus valores, a Suíça está se preparando para realizar um referendo que limitará sua população a dez milhões até 2050.
 

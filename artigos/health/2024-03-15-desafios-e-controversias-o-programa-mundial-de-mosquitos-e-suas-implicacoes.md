@@ -1,11 +1,12 @@
 ---
-title: "Desafios e Controvérsias: O Programa Mundial de Mosquitos e suas Implicações"
+title: 'Desafios e Controvérsias: O Programa Mundial de Mosquitos e suas Implicações'
 date: 2024-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O Programa Mundial de Mosquitos, financiado pela Fundação Gates e liderado pela Universidade Monash, busca erradicar doenças transmitidas por mosquitos através da liberação de mosquitos geneticamente modificados em 14 países. Apesar dos esforços para reduzir a transmissão de doenças como dengue e zika, o programa enfrenta críticas e desafios significativos.
 

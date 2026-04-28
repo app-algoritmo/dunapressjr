@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump Elogia Santiago Abascal e Expressa Apoio à VOX: Uma Aliança Conservadora Global em Ascensão?"
+title: 'Donald Trump Elogia Santiago Abascal e Expressa Apoio à VOX: Uma Aliança Conservadora
+  Global em Ascensão?'
 date: 2024-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Este sábado, 24 de fevereiro, Donald Trump elogiou Santiago Abascal, a quem elogiou no palco pelo seu trabalho político em Espanha e sobre quem previu que “em breve será o número um no seu país, apesar das falsidades dos meios de comunicação”.
 

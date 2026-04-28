@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal cria faixas de desconto para veículos populares com critérios de sustentabilidade e nacionalidade"
+title: Governo Federal cria faixas de desconto para veículos populares com critérios
+  de sustentabilidade e nacionalidade
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida provisória estabelece descontos de até R$ 8 mil para incentivar a compra de carros mais sustentáveis e fortalecer a indústria automobilística nacional.
 

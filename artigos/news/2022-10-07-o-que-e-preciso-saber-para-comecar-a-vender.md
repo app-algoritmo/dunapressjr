@@ -1,11 +1,12 @@
 ---
-title: "O que é preciso saber para começar a vender?"
+title: O que é preciso saber para começar a vender?
 date: 2022-10-07
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 # 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança Aplicativo Biovalid de biometria facial"
+title: Governo Bolsonaro lança Aplicativo Biovalid de biometria facial
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Abertura, as alterações de registros e demais operações de uma empresa que, antes, exigiam a presença do empreendedor ou contabilista a uma Junta Comercial, agora, podem ser resolvidas totalmente de casa. O Biovalid, solução digital desenvolvida pelo Serviço Federal de Processamento de Dados (Serpro), possibilita o uso de biometria facial pelo celular para a validação de identidade, como alternativa ao uso do certificado digital, que pode chegar a custar até R$ 500.
 

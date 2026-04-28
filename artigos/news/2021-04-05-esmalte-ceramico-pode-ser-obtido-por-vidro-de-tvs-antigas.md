@@ -1,11 +1,12 @@
 ---
-title: "Esmalte cerâmico pode ser obtido por vidro de TVs antigas"
+title: Esmalte cerâmico pode ser obtido por vidro de TVs antigas
 date: 2021-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os vidros dos tubos de imagem de televisores e monitores de computadores antigos podem ser usados na fabricação de esmalte para revestimentos cerâmicos. O trabalho, de pesquisadores da Escola de Engenharia de São Carlos da Universidade de São Paulo (EESC/USP) traz uma solução mais barata e sustentável do que a tradicional do mercado, pois recicla lixo eletrônico. A iniciativa nasceu de uma demanda direta da sociedade: um estudo feito pela equipe estima que só 26% dos vidros desse tipo seja reciclado em todo o mundo.
 

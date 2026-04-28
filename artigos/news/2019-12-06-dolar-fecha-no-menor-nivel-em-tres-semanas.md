@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no menor nível em três semanas"
+title: Dólar fecha no menor nível em três semanas
 date: 2019-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Bolsa repete recorde e encerra acima de 110 mil pontos*
 

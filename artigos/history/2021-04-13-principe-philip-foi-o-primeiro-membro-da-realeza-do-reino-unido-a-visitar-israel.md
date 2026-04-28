@@ -1,11 +1,13 @@
 ---
-title: "Príncipe Philip, foi o primeiro membro da realeza do Reino Unido a visitar Israel"
+title: Príncipe Philip, foi o primeiro membro da realeza do Reino Unido a visitar
+  Israel
 date: 2021-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## O duque de Edimburgo quebrou o boicote não oficial de Israel pela realeza britânica para participar da cerimônia de 1994 que nomeou a princesa Alice sua mãe, como "justa entre as nações" por esconder 3 judeus dos nazistas.
 

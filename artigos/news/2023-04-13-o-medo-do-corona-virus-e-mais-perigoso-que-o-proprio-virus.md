@@ -1,11 +1,12 @@
 ---
-title: "O medo do corona vírus é mais perigoso que o próprio vírus"
+title: O medo do corona vírus é mais perigoso que o próprio vírus
 date: 2023-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Há três anos, nos primeiros dias da crise do coronavírus, publiquei um artigo de opinião intitulado “O medo do coronavírus é mais perigoso que o próprio vírus”. 
 

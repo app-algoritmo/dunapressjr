@@ -1,11 +1,12 @@
 ---
-title: "Polícia norueguesa investiga ataque à 16 lápides em cemitério"
+title: Polícia norueguesa investiga ataque à 16 lápides em cemitério
 date: 2022-07-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 2 Carros com matriculas alemães foram vistos nas imediações da pequena cidade ontem 8.7.22. Não há videovigilância no adro da igreja em Hjelme, mas a polícia irá investigar a cena do crime que ocorreu durante a noite. Às 20 horas ainda não haviam chegado, em parte porque tiveram que parar um motorista bêbado a caminho do adro, disse o comissário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Emprego cresce na indústria em um movimento atípico para dezembro"
+title: Emprego cresce na indústria em um movimento atípico para dezembro
 date: 2021-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pela CNI.
 

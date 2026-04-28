@@ -1,11 +1,12 @@
 ---
-title: "Forças especiais capturam laboratório de clonagem do Deep State no Alasca"
+title: Forças especiais capturam laboratório de clonagem do Deep State no Alasca
 date: 2023-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Real Raw News.
 

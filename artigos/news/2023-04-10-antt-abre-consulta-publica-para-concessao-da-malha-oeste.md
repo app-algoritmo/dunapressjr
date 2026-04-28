@@ -1,11 +1,12 @@
 ---
-title: "ANTT abre consulta pública para concessão da Malha Oeste"
+title: ANTT abre consulta pública para concessão da Malha Oeste
 date: 2023-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Trecho a ser concedido ligará São Paulo a Mato Grosso do Sul.
 

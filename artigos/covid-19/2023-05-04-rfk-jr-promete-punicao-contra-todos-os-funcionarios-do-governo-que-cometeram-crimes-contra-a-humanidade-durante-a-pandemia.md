@@ -1,11 +1,13 @@
 ---
-title: "RFK Jr. promete punição contra todos os funcionários do governo que cometeram crimes contra a humanidade durante a pandemia"
+title: RFK Jr. promete punição contra todos os funcionários do governo que cometeram
+  crimes contra a humanidade durante a pandemia
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Com armas em punho, o candidato presidencial de 2024 Robert F. Kennedy Jr. está [prometendo aos americanos](https://www.thegatewaypundit.com/2023/04/rfk-jr-i-will-prosecute-any-official-who-engaged-in-criminal-wrongdoing-during-the-pandemic-not-retribution-but-justice/) que, se ele ganhar a Casa Branca, irá imediatamente atrás de todos em uma posição de poder “que se envolveram em delitos criminais durante a pandemia”.
 

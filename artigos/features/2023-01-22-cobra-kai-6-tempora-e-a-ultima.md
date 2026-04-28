@@ -1,11 +1,12 @@
 ---
-title: "Cobra Kai - 6ª Tempora é a Última!"
+title: Cobra Kai - 6ª Tempora é a Última!
 date: 2023-01-22
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Features
+- Features
 ---
+
 
 Escute a resenha aqui:
 

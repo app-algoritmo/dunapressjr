@@ -1,11 +1,12 @@
 ---
-title: "Documentos desclassificados revelam mais detalhes do escândalo Epstein"
+title: Documentos desclassificados revelam mais detalhes do escândalo Epstein
 date: 2024-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O segundo lote de documentos desclassificados relativos ao caso do bilionário globalista **Jeffrey Epstein** , acusado de pedofilia e tráfico de menores e que chegou a conviver com grandes personalidades, mostra em mais de 300 páginas a forma como **ele recrutava adolescentes para levá-los a sua residência na Flórida.**
 

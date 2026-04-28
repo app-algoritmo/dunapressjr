@@ -1,11 +1,12 @@
 ---
-title: "Taxa de informalidade no mercado de trabalho sobe para 40%, diz IBGE"
+title: Taxa de informalidade no mercado de trabalho sobe para 40%, diz IBGE
 date: 2021-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entre 86,7 milhões de pessoas ocupadas, 34,7 milhões eram informais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro sancionou medidas provisórias de facilitação de acesso ao crédito"
+title: Presidente Bolsonaro sancionou medidas provisórias de facilitação de acesso
+  ao crédito
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais facilidade de acesso ao crédito para a classe trabalhadora no Brasil e preservação de empregos. É o que prevê dois projetos sancionados nesta quarta-feira (19) pelo Presidente Jair Bolsonaro.
 

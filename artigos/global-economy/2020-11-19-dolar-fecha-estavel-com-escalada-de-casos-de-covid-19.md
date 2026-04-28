@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável com escalada de casos de covid-19"
+title: Dólar fecha estável com escalada de casos de covid-19
 date: 2020-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recua 1,05% depois de três dias seguidos de alta.
 

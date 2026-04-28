@@ -1,11 +1,12 @@
 ---
-title: "O desabafo de um Presidente"
+title: O desabafo de um Presidente
 date: 2020-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Por Jair Messias Bolsonaro*.
 

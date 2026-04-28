@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova competência da Anac de requisitar força policial para detenção de agressor de mulher em avião"
+title: Comissão aprova competência da Anac de requisitar força policial para detenção
+  de agressor de mulher em avião
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A proposta ainda será analisada por mais duas comissões da Câmara.
 

@@ -1,11 +1,12 @@
 ---
-title: "Entrega de tablets pela Campanha UnB Solidária para hospitais públicos do DF"
+title: Entrega de tablets pela Campanha UnB Solidária para hospitais públicos do DF
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Dispositivos permitirão a pacientes internados com covid-19 manter contato com parentes e amigos.
 

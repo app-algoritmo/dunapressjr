@@ -1,11 +1,12 @@
 ---
-title: "Ministérios defendem venda de refinarias após Congresso pedir bloqueio"
+title: Ministérios defendem venda de refinarias após Congresso pedir bloqueio
 date: 2020-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pastas da Economia e de Minas e Energia emitiram nota.
 

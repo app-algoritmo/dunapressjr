@@ -1,11 +1,13 @@
 ---
-title: "Lira diz que Câmara dará apoio ao Novo PAC e a outros programas de geração de emprego"
+title: Lira diz que Câmara dará apoio ao Novo PAC e a outros programas de geração
+  de emprego
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## “A Câmara nunca faltou ao Brasil e ao governo federal", disse.
 

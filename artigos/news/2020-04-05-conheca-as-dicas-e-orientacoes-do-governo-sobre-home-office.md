@@ -1,11 +1,12 @@
 ---
-title: "Conheça as dicas e orientações do governo sobre home office"
+title: Conheça as dicas e orientações do governo sobre home office
 date: 2020-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) divulgou, nesta quinta-feira (2), uma série de orientações para os trabalhadores que estão exercendo suas funções em home office, ou seja, trabalhando de casa.
 

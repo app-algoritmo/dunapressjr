@@ -1,11 +1,12 @@
 ---
-title: "Economia do Estado do Rio cresce acima da média do país"
+title: Economia do Estado do Rio cresce acima da média do país
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Indústria, comércio e serviços são os setores que mais têm se destacado no cenário econômico fluminense.
 

@@ -1,11 +1,13 @@
 ---
-title: "DECEA participa do lançamento de Projeto que permite reduzir as emissões de CO2"
+title: DECEA participa do lançamento de Projeto que permite reduzir as emissões de
+  CO2
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Departamento de Controle do Espaço Aéreo (DECEA)
 participou, no dia 13 de fevereiro, em Campinas (SP), do lançamento do Projeto

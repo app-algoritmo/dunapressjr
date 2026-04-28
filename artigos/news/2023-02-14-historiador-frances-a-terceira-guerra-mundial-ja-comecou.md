@@ -1,11 +1,12 @@
 ---
-title: "Historiador francês: a Terceira Guerra Mundial já começou"
+title: 'Historiador francês: a Terceira Guerra Mundial já começou'
 date: 2023-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## "Estamos agora em uma guerra sem fim."
 

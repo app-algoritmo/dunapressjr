@@ -1,11 +1,13 @@
 ---
-title: "China e OMS impedem participação de Taiwan na reunião da Assembléia Mundial da Saúde"
+title: China e OMS impedem participação de Taiwan na reunião da Assembléia Mundial
+  da Saúde
 date: 2020-05-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Embora **Taiwan tenha fic**ado** à frente de todos com uma prevenção exemplar na luta contra o Covid-19, impedindo o vírus de propagar-se e que causou apenas 7 mortes na ilha**, o pequeno país foi impedido de participar da Assembleia Mundial da Saúde.
 

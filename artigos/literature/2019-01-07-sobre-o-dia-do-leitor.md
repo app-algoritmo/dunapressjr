@@ -1,11 +1,12 @@
 ---
-title: "Sobre o dia do leitor"
+title: Sobre o dia do leitor
 date: 2019-01-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 ## Mais do que mudar, os governantes de uma nação, é preciso mudar a mentalidade do povo. 
 

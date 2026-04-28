@@ -1,11 +1,13 @@
 ---
-title: "RJ lidera ranking de violência contra idosos em número de casos por habitante na região Sudeste"
+title: RJ lidera ranking de violência contra idosos em número de casos por habitante
+  na região Sudeste
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Rio de Janeiro (RJ) está no topo do ranking das denúncias de violações cometidas contra idosos em número de casos por habitantes na região Sudeste. De acordo com o levantamento mais recente do Disque 100 (Disque Direitos Humanos), só no ano passado, ocorreram 35,1casos a cada 100 mil habitantes. Os dados foram divulgados pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), nesta quinta-feira (25).
 

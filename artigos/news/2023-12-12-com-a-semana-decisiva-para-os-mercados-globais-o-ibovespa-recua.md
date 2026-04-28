@@ -1,11 +1,12 @@
 ---
-title: "Com a semana decisiva para os mercados globais, o Ibovespa recua"
+title: Com a semana decisiva para os mercados globais, o Ibovespa recua
 date: 2023-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar se fortalece e ações apresentam cenário misto.
 

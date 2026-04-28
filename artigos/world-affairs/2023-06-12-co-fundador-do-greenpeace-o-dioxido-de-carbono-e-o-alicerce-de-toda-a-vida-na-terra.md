@@ -1,11 +1,13 @@
 ---
-title: "Co-fundador do Greenpeace: O dióxido de carbono é o alicerce de toda a vida na Terra"
+title: 'Co-fundador do Greenpeace: O dióxido de carbono é o alicerce de toda a vida
+  na Terra'
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *"Não há evidências científicas definitivas por meio da observação do mundo real de que o dióxido de carbono seja responsável pelo leve aquecimento do clima global... a atmosfera global em concentração suficiente seria um planeta morto.” – Dr. Patrick Moore*
 

@@ -1,11 +1,12 @@
 ---
-title: "Ipea estima recuperação do comércio, indústria e serviços em fevereiro"
+title: Ipea estima recuperação do comércio, indústria e serviços em fevereiro
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cenário para a indústria no mês de fevereiro era o mais desafiador.
 

@@ -1,12 +1,13 @@
 ---
-title: "Thinking Digital e Cybersecurity Summit Rio 2024"
+title: Thinking Digital e Cybersecurity Summit Rio 2024
 date: 2024-06-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Technology
+- Events
+- Technology
 ---
+
 
 ## Eventos realizados pela Assespro-RJ sobre futuro digital e segurança cibernética acontecem em julho de 2024.
 

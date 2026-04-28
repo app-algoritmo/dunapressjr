@@ -1,11 +1,13 @@
 ---
-title: "Camex prorroga até o final do ano a lista de bens com tarifa zero para auxiliar no combate à Covid-19"
+title: Camex prorroga até o final do ano a lista de bens com tarifa zero para auxiliar
+  no combate à Covid-19
 date: 2020-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Câmara de Comércio Exterior promoveu também ajustes à lista, com a exclusão de itens para os quais já há condições adequadas de oferta no mercado.
 

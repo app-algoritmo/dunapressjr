@@ -1,11 +1,12 @@
 ---
-title: "<strong>TSE nega pedido para tirar do ar postagens que relacionam Lula ao PCC</strong>"
+title: <strong>TSE nega pedido para tirar do ar postagens que relacionam Lula ao PCC</strong>
 date: 2022-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decisão é da ministra da Corte Maria Claudia Bucchianeri.
 

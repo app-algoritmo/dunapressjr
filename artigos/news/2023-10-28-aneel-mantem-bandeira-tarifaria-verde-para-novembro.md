@@ -1,11 +1,12 @@
 ---
-title: "Aneel mantém bandeira tarifária verde para novembro"
+title: Aneel mantém bandeira tarifária verde para novembro
 date: 2023-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contas de luz estão sem cobrança extra desde abril de 2022.
 

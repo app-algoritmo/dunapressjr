@@ -1,11 +1,13 @@
 ---
-title: "CFC, Dataprev, Secretaria do Trabalho e empresas de softwares lançam FAQ sobre Empregador Web"
+title: CFC, Dataprev, Secretaria do Trabalho e empresas de softwares lançam FAQ sobre
+  Empregador Web
 date: 2020-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para auxiliar a classe contábil e os empresários sobre as questões que envolvem sistemas digitais, como o Empregador Web, o Conselho Federal de Contabilidade, junto com a empresa digital do Governo, a Dataprev; a Secretaria do Trabalho; e representantes das empresas de softwares e fornecedoras de sistemas para os profissionais da contabilidade, lançaram, nesta quarta-feira (6), um banco com perguntas e respostas.
 

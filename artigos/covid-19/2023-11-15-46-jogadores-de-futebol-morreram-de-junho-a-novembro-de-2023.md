@@ -1,11 +1,12 @@
 ---
-title: "46 jogadores de futebol morreram de junho a novembro de 2023"
+title: 46 jogadores de futebol morreram de junho a novembro de 2023
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O mundo acaba de ver o jogador de futebol ganês Raphael Dwamena, de [28 anos, desmaiar e morrer durante uma partida na Albânia.](https://uncutnews.ch/fussballtragoedie-in-albanien-er-starb-im-alter-von-28-jahren-mitten-auf-dem-spielfeld-und-in-rumaenien-starb-ploetzlich-der-champion-im-olympia-rudern/)
 

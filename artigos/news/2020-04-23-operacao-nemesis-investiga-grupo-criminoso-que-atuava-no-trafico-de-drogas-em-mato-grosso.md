@@ -1,11 +1,13 @@
 ---
-title: "Operação Nêmesis investiga grupo criminoso que atuava no tráfico de drogas em Mato Grosso"
+title: Operação Nêmesis investiga grupo criminoso que atuava no tráfico de drogas
+  em Mato Grosso
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT – A Polícia Federal deflagrou nesta quinta-feira (23/4), em Barra do Garças/MT, a Operação Nêmesis. A ação objetivou cumprir medidas cautelares no combate ao tráfico de drogas na região.
 

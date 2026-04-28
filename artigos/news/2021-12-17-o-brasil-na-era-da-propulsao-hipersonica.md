@@ -1,11 +1,12 @@
 ---
-title: "O Brasil na era da Propulsão Hipersônica"
+title: O Brasil na era da Propulsão Hipersônica
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 1906, Alberto Santos-Dumont encantou o mundo com o voo da primeira aeronave com propulsão ativa. Era o início de uma era em que motores se juntaram às superfícies aerodinâmicas, universalmente simbolizadas pelas asas, para moldar o voo na atmosfera tal como conhecemos hoje.
 

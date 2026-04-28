@@ -1,11 +1,12 @@
 ---
-title: "Aviso de Licitação no DEPEN: Pregão Eletrônico nº 2/2020 - UASG 200326"
+title: 'Aviso de Licitação no DEPEN: Pregão Eletrônico nº 2/2020 - UASG 200326'
 date: 2020-03-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 AVISO DE LICITAÇÃO
 

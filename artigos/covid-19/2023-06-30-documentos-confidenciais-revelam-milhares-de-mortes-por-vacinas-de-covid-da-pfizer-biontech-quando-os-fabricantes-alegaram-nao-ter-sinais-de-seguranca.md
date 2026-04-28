@@ -1,11 +1,13 @@
 ---
-title: "Documentos confidenciais revelam milhares de mortes por Vacinas de covid da Pfizer-BioNTech quando os fabricantes alegaram não ter “sinais de segurança”"
+title: Documentos confidenciais revelam milhares de mortes por Vacinas de covid da
+  Pfizer-BioNTech quando os fabricantes alegaram não ter “sinais de segurança”
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Numa época em que os fabricantes de vacinas insistiam que não havia "sinais de segurança" associados às suas várias injeções de coronavírus de Wuhan (Covid-19), a Pfizer e sua parceira alemã BioNTech [mantinham documentação "confidencial"](https://childrenshealthdefense.org/defender/confidential-eu-documents-deaths-pfizer-biontech-shots/) admitindo que *milhares* de pessoas já haviam morrido de sendo espetado com seus golpes de veneno de mRNA.
 

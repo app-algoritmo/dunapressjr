@@ -1,11 +1,12 @@
 ---
-title: "Governo leiloa terminais portuários em Santos, Paranaguá e Suape"
+title: Governo leiloa terminais portuários em Santos, Paranaguá e Suape
 date: 2022-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Critério foi o de maior outorga ofertada.
 

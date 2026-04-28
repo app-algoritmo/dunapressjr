@@ -1,11 +1,12 @@
 ---
-title: "A Universidade Hebraica acabou com as biospias invasivas?"
+title: A Universidade Hebraica acabou com as biospias invasivas?
 date: 2021-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os pesquisadores da Universidade Hebraica promovem um teste de sangue diagnóstico simples e barato.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,37 com indicação de altas menores de juros nos EUA"
+title: Dólar cai para R$ 5,37 com indicação de altas menores de juros nos EUA
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa cai 0,18% em dia de volatilidade no mercado financeiro.
 

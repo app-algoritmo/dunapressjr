@@ -1,12 +1,14 @@
 ---
-title: "Independência do Brasil: O que não lhe contaram | PROCLAMAÇÃO no Sudeste, Ipiranga, São Paulo – SP | CONSUMAÇÃO no Nordeste, Salvador – BA"
+title: 'Independência do Brasil: O que não lhe contaram | PROCLAMAÇÃO no Sudeste,
+  Ipiranga, São Paulo – SP | CONSUMAÇÃO no Nordeste, Salvador – BA'
 date: 2020-07-02
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - History
-  - Opinion
+- History
+- Opinion
 ---
+
 
 **Se a PROCLAMAÇÃO da Independência ocorreu em 7 de setembro de 1822, a CONSUMAÇÃO ocorreu em 2 de julho do ano seguinte, pelos queridos baianos e nordestinos**.
 

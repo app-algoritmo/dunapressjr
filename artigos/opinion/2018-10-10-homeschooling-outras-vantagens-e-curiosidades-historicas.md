@@ -1,11 +1,12 @@
 ---
-title: "Homeschooling - Outras vantagens e curiosidades históricas"
+title: Homeschooling - Outras vantagens e curiosidades históricas
 date: 2018-10-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Novamente tratamos aqui de mais algumas vantagens do sistema em Homeschooling, direito que devemos garantir primordialmente, bem como alguns fatos tanto quanto históricos e vividos ao passar das décadas.
 

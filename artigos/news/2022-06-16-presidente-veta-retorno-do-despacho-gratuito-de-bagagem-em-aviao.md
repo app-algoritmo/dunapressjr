@@ -1,11 +1,12 @@
 ---
-title: "Presidente veta retorno do despacho gratuito de bagagem em avião"
+title: Presidente veta retorno do despacho gratuito de bagagem em avião
 date: 2022-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Governo adotou medida “por contrariedade ao interesse público”.
 

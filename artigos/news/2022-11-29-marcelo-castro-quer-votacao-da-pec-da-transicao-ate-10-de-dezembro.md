@@ -1,11 +1,12 @@
 ---
-title: "Marcelo Castro quer votação da PEC da Transição até 10 de dezembro"
+title: Marcelo Castro quer votação da PEC da Transição até 10 de dezembro
 date: 2022-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Relator do Orçamento de 2023, o senador Marcelo Castro (MDB-PI) disse nesta sexta-feira (25) que a PEC da Transição precisa ser votada até o dia 10 de dezembro, para que o Congresso possa definir em tempo hábil o pagamento do Bolsa Família, hoje Auxílio Brasil, e concluir a proposta orçamentaria do próximo ano, que irá balizar as contas do novo governo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Continência ao Amor&nbsp;- Purple Hearts"
+title: Continência ao Amor&nbsp;- Purple Hearts
 date: 2022-08-10
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 O mais novo filme de sucesso do Netflix tem embalado o coração de muitos. O filme trata da vida difícil da aspirante a cantora Cassie, ela tenta se destacar, mas enfrenta problemas financeiros e de saúde pois sofre de diabetes e não tem como comprar insulina. Para se manter funcional ela acumula trabalhos e mesmo assim enfrenta dificuldades.  Luke é um jovem com um passado conturbado que se recuperou e agora é um fuzileiro naval e tem ideias bem diferentes dos de Cassie.
 

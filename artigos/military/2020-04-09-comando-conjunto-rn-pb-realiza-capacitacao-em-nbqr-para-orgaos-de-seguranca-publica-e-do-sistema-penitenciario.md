@@ -1,11 +1,13 @@
 ---
-title: "Comando Conjunto RN-PB realiza capacitação em NBQR para órgãos de Segurança Pública e do Sistema Penitenciário"
+title: Comando Conjunto RN-PB realiza capacitação em NBQR para órgãos de Segurança
+  Pública e do Sistema Penitenciário
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Comando Conjunto Rio Grande do Norte e Paraíba realizou, no período de 6 a 8 de abril, estágios de capacitação para integrantes de Órgãos de Segurança Pública e do Sistema Penitenciário para atuarem em ações de desinfecção nos dois estados.
 

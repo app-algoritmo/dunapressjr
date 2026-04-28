@@ -1,11 +1,12 @@
 ---
-title: "Estudo explica a fadiga pós-vacina - e não é preocupante"
+title: Estudo explica a fadiga pós-vacina - e não é preocupante
 date: 2021-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O primeiro rastreamento digital de pessoas vacinadas mostra alterações nos sinais vitais e volta ao normal em três dias.
 

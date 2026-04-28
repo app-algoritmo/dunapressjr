@@ -1,11 +1,12 @@
 ---
-title: "Defesa Civil de Itajaí, apoia campanha de donativos para Presidente Getúlio"
+title: Defesa Civil de Itajaí, apoia campanha de donativos para Presidente Getúlio
 date: 2020-12-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Defesa Civil de Itajaí é parceira dos clubes de Lions do Município na arrecadação de donativos que serão enviados aos moradores de Presidente Getúlio (SC). O município do Vale do Itajaí foi atingido por um forte temporal na semana passada, que provocou mortes e desabrigados. Quem desejar contribuir com a iniciativa poderá doar roupas, alimentos não perecíveis, água mineral e materiais de limpeza e de higiene pessoal.
 

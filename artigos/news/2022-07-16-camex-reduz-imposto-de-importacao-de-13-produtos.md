@@ -1,11 +1,12 @@
 ---
-title: "Camex reduz Imposto de Importação de 13 produtos"
+title: Camex reduz Imposto de Importação de 13 produtos
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida beneficia medicamentos e tipo de resina industrial.
 

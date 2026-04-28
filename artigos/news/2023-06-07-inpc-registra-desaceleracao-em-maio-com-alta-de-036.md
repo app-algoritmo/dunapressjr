@@ -1,11 +1,12 @@
 ---
-title: "INPC registra desaceleração em maio, com alta de 0,36%"
+title: INPC registra desaceleração em maio, com alta de 0,36%
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice Nacional de Preços ao Consumidor acumula variação menor que no mês anterior e nos últimos 12 meses.
 

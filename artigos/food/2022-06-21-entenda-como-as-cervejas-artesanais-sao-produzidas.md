@@ -1,11 +1,12 @@
 ---
-title: "Entenda como as cervejas artesanais são produzidas"
+title: Entenda como as cervejas artesanais são produzidas
 date: 2022-06-21
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Food
+- Food
 ---
+
 
 Com ingredientes diferentes e com produção em menor escala, bebidas têm sabor único que agrada a paladares mais exigentes
 

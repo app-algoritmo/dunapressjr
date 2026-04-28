@@ -1,11 +1,13 @@
 ---
-title: "Alimento diet, light e zero: você pode estar consumindo errado e prejudicando a saúde"
+title: 'Alimento diet, light e zero: você pode estar consumindo errado e prejudicando
+  a saúde'
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um levantamento realizado pela World Obesity Federation apontou que, até 2030, quase 30% da população adulta do Brasil deverá estar obesa. Dados revelados pelo relatório de 2021 da Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico), indicam que, atualmente, esse número já está em 22%.
 

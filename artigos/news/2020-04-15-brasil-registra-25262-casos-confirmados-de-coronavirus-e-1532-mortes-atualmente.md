@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 25.262 casos confirmados de coronavírus e 1.532 mortes atualmente"
+title: Brasil registra 25.262 casos confirmados de coronavírus e 1.532 mortes atualmente
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde nesta terça, 14 de Abril de 2020, 17h03. Última atualização em terça, 14 de Abril de 2020, 19h59. Foram 1.832 novas confirmações em 24 horas. São Paulo concentra a maior parte das notificações da lista nacional e apenas Tocantins não tem óbito pela doença no país.
 

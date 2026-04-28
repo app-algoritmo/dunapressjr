@@ -1,11 +1,13 @@
 ---
-title: "Itajaí realiza evento integrativo e comunitário para combate à violência contra mulheres"
+title: Itajaí realiza evento integrativo e comunitário para combate à violência contra
+  mulheres
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste sábado (03), o Município de Itajaí promove um evento comunitário e integrativo pelo fim da violência contra as mulheres. A ação ocorre no calçadão da rua Hercílio Luz, em frente à Casa da Cultura, das 9h às 13h. A iniciativa faz parte da programação da campanha “16 dias de ativismo pelo fim da violência contra as mulheres”.
 

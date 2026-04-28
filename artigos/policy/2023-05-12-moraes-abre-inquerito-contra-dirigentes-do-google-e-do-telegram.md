@@ -1,11 +1,12 @@
 ---
-title: "Moraes abre inquérito contra dirigentes do Google e do Telegram"
+title: Moraes abre inquérito contra dirigentes do Google e do Telegram
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Pedido de investigação foi feito pela PGR.
 

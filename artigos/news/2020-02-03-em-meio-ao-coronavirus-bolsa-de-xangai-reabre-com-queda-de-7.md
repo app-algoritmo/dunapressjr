@@ -1,11 +1,12 @@
 ---
-title: "Em meio ao coronavírus, bolsa de Xangai reabre com queda de 7%"
+title: Em meio ao coronavírus, bolsa de Xangai reabre com queda de 7%
 date: 2020-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mercado financeiro do Japão e Estados Unidos também opera em queda
 

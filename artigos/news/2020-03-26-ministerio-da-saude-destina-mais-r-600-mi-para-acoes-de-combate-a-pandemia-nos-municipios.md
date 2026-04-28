@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde destina mais R$ 600 mi para ações de combate à pandemia nos municípios"
+title: Ministério da Saúde destina mais R$ 600 mi para ações de combate à pandemia
+  nos municípios
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Outros R$ 400 milhões já haviam sido enviados a todos os estados do país neste mês. Agora, os secretários estaduais de saúde, em conjunto com cada um de seus municípios, irão definir a destinação dos novos recursos e informar quais valores serão destinados para cada município*
 

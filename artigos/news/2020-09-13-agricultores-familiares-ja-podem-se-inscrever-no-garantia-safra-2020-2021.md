@@ -1,11 +1,12 @@
 ---
-title: "Agricultores familiares já podem se inscrever no Garantia-Safra 2020-2021"
+title: Agricultores familiares já podem se inscrever no Garantia-Safra 2020-2021
 date: 2020-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Valor do benefício é de R$850. Ministério da Agricultura vai disponibilizar 1.350 milhão de inscrições. Agricultores familiares de dez estados poderão se inscrever para receber o benefício.
 

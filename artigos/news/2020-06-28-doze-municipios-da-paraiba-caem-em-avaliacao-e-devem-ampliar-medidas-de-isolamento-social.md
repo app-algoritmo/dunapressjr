@@ -1,11 +1,13 @@
 ---
-title: "Doze municípios da Paraíba caem em avaliação e devem ampliar medidas de isolamento social"
+title: Doze municípios da Paraíba caem em avaliação e devem ampliar medidas de isolamento
+  social
 date: 2020-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Oito municípios passaram da bandeira amarela para a laranja, três cidades perderam a bandeira laranja e agora figuram na bandeira vermelha e o único que possuía a bandeira verde, aparece agora com a bandeira amarela.
 

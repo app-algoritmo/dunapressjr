@@ -1,12 +1,16 @@
 ---
-title: "Passaporte Sanitário | Audiências Públicas no Brasil | Nuremberg e Helsinki devem ser a base de tudo | Não se trata de antivacinas, mas anticrimes contra a humanidade, por experimentos científicos ou não, sejam tratamentos, transfusão ou greve de fome"
+title: Passaporte Sanitário | Audiências Públicas no Brasil | Nuremberg e Helsinki
+  devem ser a base de tudo | Não se trata de antivacinas, mas anticrimes contra a
+  humanidade, por experimentos científicos ou não, sejam tratamentos, transfusão ou
+  greve de fome
 date: 2021-11-27
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 **ATUALIZAÇÃO: 16/12/2021**
 

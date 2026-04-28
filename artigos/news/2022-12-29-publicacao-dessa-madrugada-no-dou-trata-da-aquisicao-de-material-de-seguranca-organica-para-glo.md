@@ -1,11 +1,13 @@
 ---
-title: "Publicação dessa madrugada no DOU, trata da aquisição de material de segurança orgânica para GLO"
+title: Publicação dessa madrugada no DOU, trata da aquisição de material de segurança
+  orgânica para GLO
 date: 2022-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O brasileiro "descobriu" nos últimos dias as publicações do Diário Oficial da União, algo muito positivo, já que lá tem as informações importantes, que muitas vezes passam batidas pela mídia.
 

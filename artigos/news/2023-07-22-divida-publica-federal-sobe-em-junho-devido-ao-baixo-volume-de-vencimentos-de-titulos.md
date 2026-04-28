@@ -1,11 +1,13 @@
 ---
-title: "Dívida Pública Federal sobe em junho devido ao baixo volume de vencimentos de títulos"
+title: Dívida Pública Federal sobe em junho devido ao baixo volume de vencimentos
+  de títulos
 date: 2023-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tesouro Nacional divulga aumento de 2,95% na DPF, que alcançou R$ 6,191 trilhões no mês passado.
 

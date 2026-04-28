@@ -1,11 +1,12 @@
 ---
-title: "Qual é o pior sentimento que você pode ter?"
+title: Qual é o pior sentimento que você pode ter?
 date: 2020-07-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Com certeza é o medo. Não quer dizer que não se deva ter medo de algumas coisas, receio de fazer outras, precaução para realizar tantas outras, como pular de um penhasco sem paraquedas, corda ou parapente. Nem mesmo tomar veneno confiantemente achando que o medo irá lhe prejudicar, pois o que vai lhe fazer mal é o veneno.
 

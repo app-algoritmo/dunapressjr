@@ -1,11 +1,12 @@
 ---
-title: "Mais dois Polos Base no Amazonas são entregues"
+title: Mais dois Polos Base no Amazonas são entregues
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A população indígena do Alto Rio Solimões, em Tabatinga, no Amazonas, conta agora com mais dois centros de atendimentos à Saúde para oferecer tratamento de qualidade a 7 mil indígenas que vivem na região. Os centros, chamados de Polos Bases Umariaçú I e II, foram inaugurados durante a 19ª Missão Interministerial, do Ministério da Saúde em parceria com o Ministério da Defesa.
 

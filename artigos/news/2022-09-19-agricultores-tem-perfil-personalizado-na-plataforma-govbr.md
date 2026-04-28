@@ -1,11 +1,12 @@
 ---
-title: "Agricultores têm perfil personalizado na plataforma Gov.br"
+title: Agricultores têm perfil personalizado na plataforma Gov.br
 date: 2022-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novo espaço reúne dados de crédito e imóvel rural.
 

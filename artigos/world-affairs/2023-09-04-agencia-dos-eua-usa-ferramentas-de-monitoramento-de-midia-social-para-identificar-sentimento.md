@@ -1,11 +1,13 @@
 ---
-title: "Agência dos EUA usa ferramentas de monitoramento de mídia social para identificar sentimento"
+title: Agência dos EUA usa ferramentas de monitoramento de mídia social para identificar
+  sentimento
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Documentos internos mostram a agência examinando as redes sociais para analisar o sentimento.
 

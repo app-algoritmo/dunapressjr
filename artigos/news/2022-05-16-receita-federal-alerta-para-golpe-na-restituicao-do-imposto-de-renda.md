@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal alerta para golpe na restituição do Imposto de Renda"
+title: Receita Federal alerta para golpe na restituição do Imposto de Renda
 date: 2022-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Órgão lembra que é preciso ter cuidado com e-mails.
 

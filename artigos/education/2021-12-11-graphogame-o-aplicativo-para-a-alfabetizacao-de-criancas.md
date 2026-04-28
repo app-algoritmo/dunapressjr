@@ -1,11 +1,12 @@
 ---
-title: "GraphoGame o aplicativo para a alfabetização de crianças"
+title: GraphoGame o aplicativo para a alfabetização de crianças
 date: 2021-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Totalmente gratuito, [clique aqui](https://dunapress.org/edu/) e em seguida selecione atividade pré-escolar para começar! |
 

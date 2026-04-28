@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha no maior nível em mais de quatro meses"
+title: Bolsa fecha no maior nível em mais de quatro meses
 date: 2020-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar sobe 1,1% na semana e fecha período perto de R$ 5,40.
 

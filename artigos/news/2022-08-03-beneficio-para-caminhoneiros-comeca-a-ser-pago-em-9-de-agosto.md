@@ -1,11 +1,12 @@
 ---
-title: "Benefício para caminhoneiros começa a ser pago em 9 de agosto"
+title: Benefício para caminhoneiros começa a ser pago em 9 de agosto
 date: 2022-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Portaria foi publicada em edição extra do Diário Oficial da União.
 

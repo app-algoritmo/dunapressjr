@@ -1,11 +1,12 @@
 ---
-title: "EUA vão comprar mais 200 milhões de doses da Pfizer"
+title: EUA vão comprar mais 200 milhões de doses da Pfizer
 date: 2021-07-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As doses devem ser entregues de outubro de 2021 a abril de 2022.
 

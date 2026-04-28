@@ -1,11 +1,12 @@
 ---
-title: "Tratado da OMS sobre Pandemia Entra na Fase Final em Meio a Críticas e Controvérsias"
+title: Tratado da OMS sobre Pandemia Entra na Fase Final em Meio a Críticas e Controvérsias
 date: 2024-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As negociações para o tratado sobre a pandemia da Organização Mundial da Saúde (OMS) estão chegando à fase final, com a entidade se esforçando para finalizar o acordo antes do dia 28 de maio. No entanto, o tratado está envolto em controvérsias e enfrenta críticas significativas.
 

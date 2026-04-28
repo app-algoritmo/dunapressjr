@@ -1,11 +1,12 @@
 ---
-title: "Para Marcos Pontes, CPMI do 8 de Janeiro foi tomada pelos governistas"
+title: Para Marcos Pontes, CPMI do 8 de Janeiro foi tomada pelos governistas
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Astronauta Marcos Pontes (PL-SP), em pronunciamento no Plenário nesta quarta-feira (23), afirmou que a Comissão Parlamentar Mista de Inquérito do 8 de Janeiro, que investiga as invasões ocorridas às sedes dos três Poderes em Brasília, foi tomada pelos governistas. Para ele, isso prejudica o funcionamento correto da CPMI e impede que a população conheça a verdade completa. Ele criticou também o fato de a oposição não ter ficado com nenhuma presidência das comissões permanentes.
 

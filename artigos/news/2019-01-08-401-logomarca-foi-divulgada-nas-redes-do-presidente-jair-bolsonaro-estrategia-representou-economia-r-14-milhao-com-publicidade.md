@@ -1,11 +1,13 @@
 ---
-title: "4.01 Logomarca foi divulgada nas redes do presidente Jair Bolsonaro. Estratégia representou economia R$ 1,4 milhão com publicidade"
+title: 4.01 Logomarca foi divulgada nas redes do presidente Jair Bolsonaro. Estratégia
+  representou economia R$ 1,4 milhão com publicidade
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Pela internet, governo federal lança nova marca visual
 

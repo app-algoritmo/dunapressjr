@@ -1,11 +1,12 @@
 ---
-title: "Quantas mortes foram causadas pelas vacinas contra a Covid?"
+title: Quantas mortes foram causadas pelas vacinas contra a Covid?
 date: 2023-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Uma análise aproximada com suposições mínimas.
 

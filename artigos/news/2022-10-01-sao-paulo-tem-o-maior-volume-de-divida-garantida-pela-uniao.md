@@ -1,11 +1,12 @@
 ---
-title: "São Paulo tem o maior volume de dívida garantida pela União"
+title: São Paulo tem o maior volume de dívida garantida pela União
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Saldo total devedor das garantias é de R$ 280,57 bilhões.
 

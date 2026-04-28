@@ -1,11 +1,12 @@
 ---
-title: "Publicado edital para livros didáticos para pré-escola pelo MEC"
+title: Publicado edital para livros didáticos para pré-escola pelo MEC
 date: 2020-06-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Escolas poderão solicitar obras didáticas, literárias e pedagógicas para a educação infantil.
 

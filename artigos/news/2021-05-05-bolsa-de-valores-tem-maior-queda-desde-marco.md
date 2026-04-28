@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores tem maior queda desde março"
+title: Bolsa de valores tem maior queda desde março
 date: 2021-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar termina próximo da estabilidade, vendido a R$ 5,43.
 

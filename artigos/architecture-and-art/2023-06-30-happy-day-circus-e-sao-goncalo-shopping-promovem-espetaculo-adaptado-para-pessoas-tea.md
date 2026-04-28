@@ -1,12 +1,13 @@
 ---
-title: "Happy Day Circus e São Gonçalo Shopping promovem espetáculo adaptado para pessoas TEA"
+title: Happy Day Circus e São Gonçalo Shopping promovem espetáculo adaptado para pessoas TEA
 date: 2023-06-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Events
+- Architecture and Art
+- Events
 ---
+
 
 ## Sessão Azul acontece no sábado, dia 1 de julho.
 

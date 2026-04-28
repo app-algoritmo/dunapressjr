@@ -1,11 +1,12 @@
 ---
-title: "Orçamento 2024: consultorias sugerem cautela sobre perspectiva de crescimento"
+title: 'Orçamento 2024: consultorias sugerem cautela sobre perspectiva de crescimento'
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em [nota técnica conjunta](/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/ploa-2024_notatecnicaconjunta.pdf/view) sobre o projeto da Lei Orçamentária de 2024, as consultorias de Orçamento do Senado e da Câmara alertaram para a necessidade de cautela em relação às perspectivas de crescimento econômico contidas no texto. O alerta se justifica porque as perspectivas têm impacto direto nas receitas e despesas previstas. O projeto ([PLN 29/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/159659)) enviado pelo governo federal ao Congresso estima 2,26% para 2024, enquanto o mercado financeiro prevê 1,47%.
 

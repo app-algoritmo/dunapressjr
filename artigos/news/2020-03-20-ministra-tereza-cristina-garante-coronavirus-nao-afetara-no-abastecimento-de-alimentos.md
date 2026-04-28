@@ -1,11 +1,13 @@
 ---
-title: "Ministra Tereza Cristina garante Coronavírus não afetará no abastecimento de alimentos"
+title: Ministra Tereza Cristina garante Coronavírus não afetará no abastecimento de
+  alimentos
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os brasileiros não precisam estocar alimentos em decorrência a pandemia do coronavírus. De acordo com a ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina o País não sofrerá com desabastecimento de alimentos no mercado. Isso porque, o setor agropecuário do Brasil segue com produzindo normalmente os produtos que vão para as mesas da população.  
  

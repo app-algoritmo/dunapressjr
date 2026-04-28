@@ -1,11 +1,12 @@
 ---
-title: "Episódio 3 – Amiga ou Desgosto"
+title: Episódio 3 – Amiga ou Desgosto
 date: 2022-12-03
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 E o episódio já começa com Wandinha amarrada numa cadeira e com um capuz na cabeça. Ela está na biblioteca secreta da sociedade Beladona, e descobre com tristeza, que quem a sequestrou são seus colegas de escola. Bianca é a líder, e eles acreditam que ela quer ser membro, mas antes da votação Wandinha já está solta e recusando o convite.
 

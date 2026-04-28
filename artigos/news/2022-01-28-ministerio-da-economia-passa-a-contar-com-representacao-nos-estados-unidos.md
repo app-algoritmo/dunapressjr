@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia passa a contar com representação nos Estados Unidos"
+title: Ministério da Economia passa a contar com representação nos Estados Unidos
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Escritório será montado junto à Embaixada do Brasil em Washington, capital do país, e tem objetivo de promover oportunidades de negócios que gerem emprego e renda ao Brasil.
 

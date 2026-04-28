@@ -1,11 +1,12 @@
 ---
-title: "Informe de rendimentos para o IR deve ser entregue até 28 de fevereiro"
+title: Informe de rendimentos para o IR deve ser entregue até 28 de fevereiro
 date: 2023-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Declarações podem ser enviadas à Receita a partir do dia 15 de março.
 

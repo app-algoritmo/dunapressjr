@@ -1,11 +1,12 @@
 ---
-title: "Projeto permite desconto direto de pensão alimentícia do seguro-desemprego"
+title: Projeto permite desconto direto de pensão alimentícia do seguro-desemprego
 date: 2023-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 62/23 permite o desconto direto de prestação alimentícia em parcela de seguro-desemprego. Em análise na Câmara dos Deputados, o texto altera o [Código Civil](https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-norma-pl.html).
 

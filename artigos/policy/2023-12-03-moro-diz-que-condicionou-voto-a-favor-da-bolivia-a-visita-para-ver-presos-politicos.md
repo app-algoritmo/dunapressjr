@@ -1,11 +1,12 @@
 ---
-title: "Moro diz que condicionou voto a favor da Bolívia à visita para ver presos políticos"
+title: Moro diz que condicionou voto a favor da Bolívia à visita para ver presos políticos
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sérgio Moro (União-PR), em pronunciamento no Plenário nesta quarta-feira (29), manifestou preocupação com a adesão da Bolívia ao Mercosul devido aos compromissos assumidos no Protocolo de Ushuaia, que defende a cláusula democrática do bloco. No entanto, informou que cedeu aos apelos de outros senadores e votou favoravelmente ao ingresso da Bolívia, mas com a condição de que a Comissão de Relações Exteriores (CRE) forme uma comissão especial para visitar aquele país e verificar a situação dos perseguidos políticos.
 

@@ -1,12 +1,13 @@
 ---
-title: "Os 'efeitos não específicos' das vacinas"
+title: Os 'efeitos não específicos' das vacinas
 date: 2023-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## A transmissão viral e o sistema imunológico humano são mal compreendidos, e as medidas para controlar doenças humanas geralmente têm vários efeitos inesperados.
 

@@ -1,11 +1,12 @@
 ---
-title: "CGU, MPF e PF combatem irregularidades na educação em Juazeiro do Norte (CE)"
+title: CGU, MPF e PF combatem irregularidades na educação em Juazeiro do Norte (CE)
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operações Quadro Negro e Fruto de Espinho investigam fraudes na compra de livros paradidáticos e didáticos para rede de escolas públicas do município.
 

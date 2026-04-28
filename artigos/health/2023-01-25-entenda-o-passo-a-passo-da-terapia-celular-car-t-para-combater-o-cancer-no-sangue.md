@@ -1,11 +1,13 @@
 ---
-title: "Entenda o passo a passo da terapia celular CAR-T para combater o câncer no sangue"
+title: Entenda o passo a passo da terapia celular CAR-T para combater o câncer no
+  sangue
 date: 2023-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um tratamento inovador contra o câncer, que utiliza células CAR-T, será testado em pacientes em São Paulo e em Ribeirão Preto (SP) no Núcleo de Terapia Celular Avançada (Nutera), fruto de uma parceria entre Butantan, Universidade de São Paulo (USP) e Hemocentro de Ribeirão Preto. A previsão é que a fase 1 do estudo clínico tenha início ainda em 2023 com 30 indivíduos com linfoma não Hodgkin de células B, um tipo de câncer no sangue. O processo pode durar cerca de 60 dias para cada paciente e consiste na retirada das células de defesa, que serão reformuladas em laboratório para depois serem infundidas no organismo do voluntário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Custo industrial sobe 8,6% no terceiro trimestre de 2020"
+title: Custo industrial sobe 8,6% no terceiro trimestre de 2020
 date: 2021-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador acendeu um “sinal de alerta na indústria”, diz CNI.
 

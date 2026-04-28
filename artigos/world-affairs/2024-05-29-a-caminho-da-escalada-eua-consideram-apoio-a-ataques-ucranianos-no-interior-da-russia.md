@@ -1,11 +1,13 @@
 ---
-title: "'A Caminho da Escalada: EUA Consideram Apoio a Ataques Ucranianos no Interior da Rússia'"
+title: '''A Caminho da Escalada: EUA Consideram Apoio a Ataques Ucranianos no Interior
+  da Rússia'''
 date: 2024-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Escalada nos Bastidores: Blinken Pressiona por Ataques Ucranianos na Rússia.
 

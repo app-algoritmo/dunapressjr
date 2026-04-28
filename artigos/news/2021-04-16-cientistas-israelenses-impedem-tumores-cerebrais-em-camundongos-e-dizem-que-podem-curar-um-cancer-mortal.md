@@ -1,11 +1,13 @@
 ---
-title: "Cientistas israelenses impedem tumores cerebrais em camundongos e dizem que podem curar um câncer mortal"
+title: Cientistas israelenses impedem tumores cerebrais em camundongos e dizem que
+  podem curar um câncer mortal
 date: 2021-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Glioblastoma em roedores e em células humanas em um modelo de laboratório, bloqueado por um composto que os pesquisadores veem como 'abrindo caminho para uma nova terapia' para o câncer cerebral mais mortal.
 

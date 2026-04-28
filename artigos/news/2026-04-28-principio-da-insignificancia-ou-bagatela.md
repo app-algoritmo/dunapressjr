@@ -1,11 +1,12 @@
 ---
-title: "Princípio da Insignificância ou Bagatela"
+title: Princípio da Insignificância ou Bagatela
 date: 2026-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um dos princípios que vem ganhando força na doutrina e, sobretudo, na nossa jurisprudência é o princípio da insignificância ou também chamado princípio da bagatela.
 

@@ -1,11 +1,13 @@
 ---
-title: "Cardeal Müller Condena Apoio de Biden ao Aborto: 'Infanticídio' e 'Excomunhão' Deveriam Ser Considerados"
+title: 'Cardeal Müller Condena Apoio de Biden ao Aborto: ''Infanticídio'' e ''Excomunhão''
+  Deveriam Ser Considerados'
 date: 2024-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O cardeal Gerhard Müller, ex-prefeito para a Doutrina da Fé, não poupou críticas ao presidente dos Estados Unidos, Joe Biden, em uma entrevista exclusiva à LifeSiteNews. Müller classificou o apoio de Biden ao aborto como "infanticídio", argumentando veementemente que aqueles que promovem tal prática deveriam ser "excomungados".
 

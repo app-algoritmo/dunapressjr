@@ -1,11 +1,12 @@
 ---
-title: "Confaz prorroga isenção de ICMS sobre transporte no combate à pandemia"
+title: Confaz prorroga isenção de ICMS sobre transporte no combate à pandemia
 date: 2021-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo agora vai até 31 de dezembro deste ano.
 

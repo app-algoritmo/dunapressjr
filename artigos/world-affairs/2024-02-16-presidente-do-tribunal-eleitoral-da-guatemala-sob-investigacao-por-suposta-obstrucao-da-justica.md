@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Tribunal Eleitoral da Guatemala Sob Investigação por Suposta Obstrução da Justiça"
+title: Presidente do Tribunal Eleitoral da Guatemala Sob Investigação por Suposta
+  Obstrução da Justiça
 date: 2024-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Sétimo Juiz de Primeira Instância Penal da Guatemala, Fredy Orellana, solicitou à Promotoria Especial contra a Impunidade (FECI) a abertura de uma investigação contra a presidente do Tribunal Supremo Eleitoral (TSE), Blanca Alfaro, por suposta obstrução de um processo penal.
 

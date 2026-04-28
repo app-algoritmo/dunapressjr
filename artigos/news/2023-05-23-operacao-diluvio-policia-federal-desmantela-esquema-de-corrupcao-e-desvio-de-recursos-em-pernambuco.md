@@ -1,11 +1,13 @@
 ---
-title: "Operação Dilúvio: Polícia Federal desmantela esquema de corrupção e desvio de recursos em Pernambuco"
+title: 'Operação Dilúvio: Polícia Federal desmantela esquema de corrupção e desvio
+  de recursos em Pernambuco'
 date: 2023-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investigação revela contratos fraudulentos, lavagem de dinheiro e indícios de agiotagem envolvendo agentes públicos e empresários.
 

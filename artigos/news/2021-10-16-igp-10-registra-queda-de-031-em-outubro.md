@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 registra queda de 0,31% em outubro"
+title: IGP-10 registra queda de 0,31% em outubro
 date: 2021-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano, foi registrada inflação de 16,08%.
 

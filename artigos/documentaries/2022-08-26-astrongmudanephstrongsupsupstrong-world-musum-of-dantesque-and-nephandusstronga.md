@@ -1,12 +1,14 @@
 ---
-title: "<a><strong>MUDANEPH</strong><sup>®</sup><strong> - World Musēum of Dantesque and Nephandus</strong></a>"
+title: <a><strong>MUDANEPH</strong><sup>®</sup><strong> - World Musēum of Dantesque
+  and Nephandus</strong></a>
 date: 2022-08-26
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Documentaries
-  - Health
+- Documentaries
+- Health
 ---
+
 
 **EMBORA A URL INFORME A DATA DE LANÇAMENTO (POR FORÇA DE SISTEMA**)**, A GALERIA É OBJETO DE CONTÍNUA ATUALIZAÇÃO, CONFORME DISPONIBILIDADE DO AUTOR. PARA FINS PESQUISA BASTA ANOTAR A DATA DE VISUALIZAÇÃO. ENVIE-NOS SEUS ARQUIVOS PARA COMPOR A EXPOSIÇÃO.**
 

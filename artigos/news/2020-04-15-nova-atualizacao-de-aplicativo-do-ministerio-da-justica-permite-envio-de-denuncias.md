@@ -1,11 +1,12 @@
 ---
-title: "Nova atualização de Aplicativo do Ministério da Justiça permite envio de denúncias"
+title: Nova atualização de Aplicativo do Ministério da Justiça permite envio de denúncias
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 É possível denunciar pichações, problemas com a iluminação pública e descarte irregular de lixo, entre outros. No módulo “Procurados” haverá a lista com dados dos criminosos mais procurados do País.
 

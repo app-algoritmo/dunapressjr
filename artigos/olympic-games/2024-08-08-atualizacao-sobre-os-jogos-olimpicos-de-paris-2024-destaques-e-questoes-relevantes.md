@@ -1,11 +1,12 @@
 ---
-title: "Atualização sobre os Jogos Olímpicos de Paris 2024: Destaques e Questões Relevantes"
+title: 'Atualização sobre os Jogos Olímpicos de Paris 2024: Destaques e Questões Relevantes'
 date: 2024-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Olympic Games
+- Olympic Games
 ---
+
 
 Os Jogos Olímpicos de Paris 2024 estão em plena atividade, com destaque para Sharon van Rouwendaal da Holanda vencendo a maratona aquática e Xie Siyi da China conquistando ouro no trampolim de 3 metros. China lidera o quadro de medalhas, seguida pelos EUA e Japão. A infraestrutura sustentável e a revitalização urbana são pontos positivos, mas os altos custos e o deslocamento de comunidades locais são desvantagens. A limpeza do Rio Sena melhorou, mas ainda enfrenta desafios. A saúde dos atletas é uma prioridade, com protocolos rigorosos em vigor​ ([AS USA](https://en.as.com/olympic_games/2024-olympics-in-paris-medal-count-updates-who-has-won-more-tally-by-country-on-august-8-n/))​ ([Paris 2024 Olympics](https://olympics.com/en/paris-2024/live-updates/86e136d4-cf76-4d8d-8fca-c5747eed708c))​ ([Paris 2024 Olympics](https://olympics.com/en/paris-2024)).
 

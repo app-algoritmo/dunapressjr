@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova criminalização do incesto e pena maior para crimes contra crianças e adolescentes"
+title: Comissão aprova criminalização do incesto e pena maior para crimes contra crianças
+  e adolescentes
 date: 2022-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atualmente, o incesto não é considerado crime no Brasil, a menos que envolva menores de 14 anos.
 

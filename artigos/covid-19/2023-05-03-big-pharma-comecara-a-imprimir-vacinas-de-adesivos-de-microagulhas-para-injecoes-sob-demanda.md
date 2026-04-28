@@ -1,11 +1,13 @@
 ---
-title: "Big Pharma começará a imprimir “vacinas” de adesivos de microagulhas para injeções sob demanda"
+title: Big Pharma começará a imprimir “vacinas” de adesivos de microagulhas para injeções
+  sob demanda
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Cientistas do [*Instituto de Tecnologia de Massachusetts*](http://www.mit.edu/) (MIT) [criaram](https://12ft.io/proxy?q=https%3A%2F%2Fstudyfinds.org%2F3d-printed-microneedle-vaccines%2F) uma nova tecnologia de vacina com microagulhas que permite que pequenos adesivos de vacina sejam criados sob demanda usando máquinas de impressão tridimensionais (3-D).
 

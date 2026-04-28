@@ -1,11 +1,12 @@
 ---
-title: "CPFL Energia oferta R$ 2,67 bilhões por CEEE-T e vence leilão"
+title: CPFL Energia oferta R$ 2,67 bilhões por CEEE-T e vence leilão
 date: 2021-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O leilão foi realizado nesta sexta-feira (16) em São Paulo
 

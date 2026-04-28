@@ -1,11 +1,12 @@
 ---
-title: "Centro De Educação Infantil (CEI) em Itajaí, realiza varal da empatia"
+title: Centro De Educação Infantil (CEI) em Itajaí, realiza varal da empatia
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Vai ficar tudo bem e logo estaremos juntos”. “Sempre existe uma luz no fim do túnel”. “Que esse ano traga o hábito de celebrar a vida todos os dias”. Esses são alguns dos dizeres estampados nas camisetas que estão expostas nas grades do Centro de Educação Infantil (CEI) Leonidia dos Santos Vicente, no bairro São Vicente, no varal da empatia. 
 

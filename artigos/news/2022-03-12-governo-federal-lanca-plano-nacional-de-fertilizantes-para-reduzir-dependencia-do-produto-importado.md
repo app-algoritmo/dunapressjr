@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal lança Plano Nacional de Fertilizantes para reduzir dependência do produto importado"
+title: Governo Federal lança Plano Nacional de Fertilizantes para reduzir dependência
+  do produto importado
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O plano tem medidas para estimular a produção nacional e incentivar novas tecnologias para atender à demanda da produção de alimentos.
 

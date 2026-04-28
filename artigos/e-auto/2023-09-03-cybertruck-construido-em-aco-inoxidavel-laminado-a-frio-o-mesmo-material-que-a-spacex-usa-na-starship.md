@@ -1,11 +1,13 @@
 ---
-title: "Cybertruck  construído em aço inoxidável laminado a frio, o mesmo material que a SpaceX usa na Starship"
+title: Cybertruck  construído em aço inoxidável laminado a frio, o mesmo material
+  que a SpaceX usa na Starship
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## O [Tesla Cybertruck](https://www.tesla.com/no_no/cybertruck), foi revelado em 2019 e já é uma realidade nas estradas americanas.
 

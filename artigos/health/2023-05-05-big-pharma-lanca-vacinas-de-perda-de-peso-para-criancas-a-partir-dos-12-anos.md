@@ -1,11 +1,12 @@
 ---
-title: "Big Pharma lança “vacinas” de perda de peso para crianças a partir dos 12 anos"
+title: Big Pharma lança “vacinas” de perda de peso para crianças a partir dos 12 anos
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Crianças em todo o Reino Unido estão agora tão gordas que as autoridades governamentais estão [promovendo uma nova “vacina” para perda de peso](https://www.dailymail.co.uk/health/article-12031579/Weight-loss-jabs-children-young-12-considered-ministers.html) que supostamente diminuirá a cintura das crianças com produtos químicos farmacêuticos.
 

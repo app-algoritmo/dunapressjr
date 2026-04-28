@@ -1,11 +1,12 @@
 ---
-title: "Paim destaca importância da política de cotas para acesso à educação"
+title: Paim destaca importância da política de cotas para acesso à educação
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) celebrou, em pronunciamento no Plenário nesta quarta-feira (18), a aprovação na Comissão de Constituição e Justiça (CCJ) do projeto de lei que reformula o sistema de cotas no ensino federal ([PL 5.384/2020](https://www25.senado.leg.br/web/atividade/materias/-/materia/159365)). O parlamentar, que é relator do texto, destacou a importância da proposta para a educação na busca pela igualdade no acesso ao ensino independentemente de origem, cor ou condição social. A proposta segue para análise do Plenário.
 

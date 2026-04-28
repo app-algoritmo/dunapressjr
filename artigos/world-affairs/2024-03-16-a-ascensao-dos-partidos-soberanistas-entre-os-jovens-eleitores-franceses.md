@@ -1,11 +1,12 @@
 ---
-title: "A Ascensão dos Partidos Soberanistas entre os Jovens Eleitores Franceses"
+title: A Ascensão dos Partidos Soberanistas entre os Jovens Eleitores Franceses
 date: 2024-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os ventos políticos estão mudando na França, e os globalistas europeus estão sentindo o impacto. Com mais de um terço dos jovens eleitores franceses planejando apoiar partidos soberanistas e anti-imigração nas próximas eleições para o Parlamento Europeu, a paisagem política está se transformando rapidamente.
 

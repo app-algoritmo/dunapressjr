@@ -1,11 +1,12 @@
 ---
-title: "A tosca iniciativa de Kirchner que combina fascismo, socialismo e nazismo"
+title: A tosca iniciativa de Kirchner que combina fascismo, socialismo e nazismo
 date: 2023-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Embora o governo argentino celebre como mérito a inflação anual acumulada de 94,8% (como se fosse um grande negócio ter terminado abaixo de 100%), a verdade é que o número – péssimo por si só – é uma grande mentira. Sem os chamados "acordos de preços", que servem apenas para falsificar estatísticas e mostrar espaços vazios nas prateleiras, o número estaria confortavelmente acima de três dígitos. Diante das reivindicações das previsíveis ausências e “irregularidades” dos produtos “Preços Justos”, o Secretário de Comércio apelou para uma iniciativa desastrosa com temperos de fascismo puro e simples. Socialismo e nazismo, todos combinados.
 

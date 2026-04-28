@@ -1,11 +1,12 @@
 ---
-title: "Máscaras caseiras são recomendadas na prevenção contra o Coronavírus"
+title: Máscaras caseiras são recomendadas na prevenção contra o Coronavírus
 date: 2020-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para proteger você e sua família, o Ministério da Saúde orienta a produção de modelos simples, de pano, que também funcionam como barreiras na propagação da doença
 

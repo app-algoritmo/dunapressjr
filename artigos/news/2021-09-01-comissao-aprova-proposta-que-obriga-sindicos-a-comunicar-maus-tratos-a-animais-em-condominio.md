@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que obriga síndicos a comunicar maus-tratos a animais em condomínio"
+title: Comissão aprova proposta que obriga síndicos a comunicar maus-tratos a animais
+  em condomínio
 date: 2021-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A comunicação deverá ser feita em até 24 horas após o conhecimento do fato.
 

@@ -1,11 +1,12 @@
 ---
-title: "Taxa de juros deve continuar a subir, diz ata do Copom"
+title: Taxa de juros deve continuar a subir, diz ata do Copom
 date: 2021-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão está na ata da última reunião do comitê.
 

@@ -1,11 +1,12 @@
 ---
-title: "TSE apresenta à imprensa projeto de divulgação da totalização de votos"
+title: TSE apresenta à imprensa projeto de divulgação da totalização de votos
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Técnicos explicam sistema de recebimento e transmissão de dados.
 

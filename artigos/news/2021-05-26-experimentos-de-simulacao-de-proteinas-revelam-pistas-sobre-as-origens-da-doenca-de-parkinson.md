@@ -1,11 +1,13 @@
 ---
-title: "Experimentos de simulação de proteínas revelam pistas sobre as origens da doença de Parkinson"
+title: Experimentos de simulação de proteínas revelam pistas sobre as origens da doença
+  de Parkinson
 date: 2021-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Uma nova pesquisa da Universidade Hebraica e do Penn State College of Medicine pode permitir o desenvolvimento de medicamentos para tratar a doença de Parkinson.
 

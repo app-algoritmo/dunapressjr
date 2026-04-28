@@ -1,11 +1,12 @@
 ---
-title: "Tesouro lança painel de monitoramento dos gastos da União com combate à COVID-19"
+title: Tesouro lança painel de monitoramento dos gastos da União com combate à COVID-19
 date: 2020-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ferramenta será atualizada diariamente e permitirá o acompanhamento da execução das despesas totais e por tipo de programa
 

@@ -1,11 +1,12 @@
 ---
-title: "O Hamas passou quatro anos se preparando para um ataque a Israel"
+title: O Hamas passou quatro anos se preparando para um ataque a Israel
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Nota-se que o movimento sempre anunciou publicamente os treinos. 
 

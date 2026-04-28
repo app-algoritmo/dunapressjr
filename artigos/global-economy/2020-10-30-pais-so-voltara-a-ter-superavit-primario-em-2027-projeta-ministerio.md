@@ -1,11 +1,12 @@
 ---
-title: "País só voltará a ter superávit primário em 2027, projeta ministério"
+title: País só voltará a ter superávit primário em 2027, projeta ministério
 date: 2020-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Impacto de gastos com pandemia subiu para R$ 615 bilhões.
 

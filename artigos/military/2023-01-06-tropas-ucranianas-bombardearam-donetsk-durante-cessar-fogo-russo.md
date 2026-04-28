@@ -1,13 +1,14 @@
 ---
-title: "Tropas ucranianas bombardearam Donetsk durante cessar-fogo russo"
+title: Tropas ucranianas bombardearam Donetsk durante cessar-fogo russo
 date: 2023-01-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Policy
+- Military
+- News
+- Policy
 ---
+
 
 ## As tropas ucranianas bombardearam Donetsk, disparando quatro projéteis de calibre 155 mm.
 

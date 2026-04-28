@@ -1,11 +1,12 @@
 ---
-title: "<strong>Mercado eleva projeção para crescimento da economia em 2022</strong>"
+title: <strong>Mercado eleva projeção para crescimento da economia em 2022</strong>
 date: 2022-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa para o PIB sobe de 2,71% para 2,76%.
 

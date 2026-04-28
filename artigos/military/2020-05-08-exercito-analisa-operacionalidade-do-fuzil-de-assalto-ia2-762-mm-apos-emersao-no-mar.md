@@ -1,11 +1,13 @@
 ---
-title: "Exército analisa operacionalidade do Fuzil de Assalto IA2 7,62 mm após emersão no mar"
+title: Exército analisa operacionalidade do Fuzil de Assalto IA2 7,62 mm após emersão
+  no mar
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ) **– O Centro de Avaliações do Exército (CAEx) "Campo de Provas da Marambaia" realizou, no dia 5 de maio, uma avaliação operacional do Fuzil de Assalto IA2 7,62 mm, em uma simulação de condições especiais de combate, após emersão da água do mar. Participaram das atividades dois oficiais da Seção de Avaliação de Material de Emprego Militar do CAEx (o Gerente da Avaliação Operacional do fuzil e o Oficial de Prevenção de Acidentes na Instrução), uma equipe da Seção de Testes do CAEx, cinco militares do 1º Esquadrão de Cavalaria Pára-quedista (1º Esqd Cav Pqdt), técnicos da Indústria de Material Bélico do Brasil (IMBEL), uma equipe de apoio do CAEx e uma equipe de saúde.
 

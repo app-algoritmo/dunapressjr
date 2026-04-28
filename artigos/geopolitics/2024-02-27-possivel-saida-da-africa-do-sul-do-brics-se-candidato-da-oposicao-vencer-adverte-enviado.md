@@ -1,11 +1,13 @@
 ---
-title: "Possível Saída da África do Sul do BRICS se Candidato da Oposição Vencer, Adverte Enviado"
+title: Possível Saída da África do Sul do BRICS se Candidato da Oposição Vencer, Adverte
+  Enviado
 date: 2024-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 De acordo com o embaixador sul-africano na Rússia, Mzuvukile Jeff Maqetuka, em uma entrevista à TASS, a África do Sul poderá reconsiderar sua posição no BRICS caso a oposição vença as próximas eleições presidenciais. Maqetuka ressaltou que diversos partidos opositores na África do Sul possuem uma postura hostil em relação à Rússia, o que requer uma análise cautelosa por parte de Moscou.
 

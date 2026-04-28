@@ -1,11 +1,13 @@
 ---
-title: "A mídia britânica confirma que os bloqueios da Covid foram um exercício de treinamento de pessoas para futuras pandemias"
+title: A mídia britânica confirma que os bloqueios da Covid foram um exercício de
+  treinamento de pessoas para futuras pandemias
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O [Telegraph](https://www.telegraph.co.uk/news/2023/07/06/britain-drilled-to-accept-lockdown-in-future-pandemics/) admite que os britânicos foram "treinados" (programados por trauma e medo) para abraçar futuros bloqueios e pandemias.
 

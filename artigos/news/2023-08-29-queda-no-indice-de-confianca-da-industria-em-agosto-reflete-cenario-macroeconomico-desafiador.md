@@ -1,11 +1,13 @@
 ---
-title: "Queda no Índice de Confiança da Indústria em agosto reflete cenário macroeconômico desafiador"
+title: Queda no Índice de Confiança da Indústria em agosto reflete cenário macroeconômico
+  desafiador
 date: 2023-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pior resultado desde 2020 indica preocupações sobre demanda e perspectivas de negócios, revela FGV IBRE.
 

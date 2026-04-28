@@ -1,11 +1,12 @@
 ---
-title: "Anac publica minuta do edital da 7ª rodada de concessão de aeroportos"
+title: Anac publica minuta do edital da 7ª rodada de concessão de aeroportos
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Serão leiloados 15 aeroportos no Norte, Sudeste e Centro-Oeste.
 

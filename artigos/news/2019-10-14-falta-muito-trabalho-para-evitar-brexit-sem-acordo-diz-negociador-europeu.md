@@ -1,11 +1,12 @@
 ---
-title: "'Falta muito trabalho' para evitar Brexit sem acordo, diz negociador europeu"
+title: '''Falta muito trabalho'' para evitar Brexit sem acordo, diz negociador europeu'
 date: 2019-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para quebrar o impasse nas negociações do Brexit "ainda há
 muito trabalho a ser feito" - disse o negociador europeu Michel Barnier,

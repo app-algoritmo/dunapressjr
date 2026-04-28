@@ -1,11 +1,12 @@
 ---
-title: "Queda do preço da gasolina traz mudanças na carga tributária e impacta consumidores"
+title: Queda do preço da gasolina traz mudanças na carga tributária e impacta consumidores
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova alíquota fixa do ICMS e ajustes nos preços geram aumento nas bombas e desafios para o setor de combustíveis.
 

@@ -1,11 +1,12 @@
 ---
-title: "Preocupação com meio ambiente reduz durante pandemia"
+title: Preocupação com meio ambiente reduz durante pandemia
 date: 2021-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O noticiário sobre meio ambiente reduziu de forma significativa durante a pandemia para dar espaço a informações sobre aumento dos casos de contaminação, número de mortes, vacinação e outras questões ligadas à pandemia. Somado ao isolamento social, quando o contato com a natureza foi substituído por meses inteiros dentro de casa, é normal que a preocupação com o planeta tenha ficado esquecida em tempos de reclusão. É o que mostra uma pesquisa do Instituto Ipsos, realizada com 16 mil entrevistados de 16 países, em 2020. Segundo o estudo, embora 85% defendam que o governo deve priorizar a preservação do meio ambiente na retomada pós-pandemia, 41% dos ouvidos no Brasil admitem que o tema da proteção ambiental não está na sua própria lista de prioridades.
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA comunica o bloqueio de propriedades de membros do Tribunal Penal Internacional"
+title: EUA comunica o bloqueio de propriedades de membros do Tribunal Penal Internacional
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Ordem Executiva sobre o bloqueio de propriedades de certas pessoas associadas ao Tribunal Penal Internacional.
 

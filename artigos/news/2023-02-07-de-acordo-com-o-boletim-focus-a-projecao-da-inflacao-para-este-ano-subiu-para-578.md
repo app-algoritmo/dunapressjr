@@ -1,11 +1,13 @@
 ---
-title: "De acordo com o Boletim Focus, a projeção da inflação para este ano subiu para 5,78%"
+title: De acordo com o Boletim Focus, a projeção da inflação para este ano subiu para
+  5,78%
 date: 2023-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A previsão do PIB variou de 0,80% para 0,79%.
 

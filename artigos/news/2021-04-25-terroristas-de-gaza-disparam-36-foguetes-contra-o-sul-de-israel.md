@@ -1,11 +1,12 @@
 ---
-title: "Terroristas de Gaza disparam 36 foguetes contra o sul de Israel"
+title: Terroristas de Gaza disparam 36 foguetes contra o sul de Israel
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A sirene soou no kibutz Kissufim, perto da fronteira com Gaza. Trinta e seis foguetes disparados, seis deles interceptados pelo Iron Dome.
 

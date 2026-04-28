@@ -1,11 +1,13 @@
 ---
-title: "Saneamento da grande Maceió é concedido por mais de R$ 2 bilhões e terá universalização de água até 2026"
+title: Saneamento da grande Maceió é concedido por mais de R$ 2 bilhões e terá universalização
+  de água até 2026
 date: 2020-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 BRK Ambiental deve investir outros R$ 2 bi em infraestrutura já nos primeiros 6 anos de contrato, do total de R$ 2,6 bilhões; ágio foi de mais de 13.000%.
 

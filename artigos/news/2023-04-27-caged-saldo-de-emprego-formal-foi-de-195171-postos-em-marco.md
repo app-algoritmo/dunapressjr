@@ -1,11 +1,12 @@
 ---
-title: "CAGED: Saldo de emprego formal foi de 195.171 postos em março"
+title: 'CAGED: Saldo de emprego formal foi de 195.171 postos em março'
 date: 2023-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado foi positivo em 22 estados e em 4 dos 5 grandes grupamentos de atividades econômicas, acumulado do ano chegou a 526.173 postos de trabalho.
 

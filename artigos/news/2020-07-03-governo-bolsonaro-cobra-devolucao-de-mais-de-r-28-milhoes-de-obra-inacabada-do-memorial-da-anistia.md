@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro cobra devolução de mais de R$ 28 milhões de obra inacabada do Memorial da Anistia"
+title: Governo Bolsonaro cobra devolução de mais de R$ 28 milhões de obra inacabada
+  do Memorial da Anistia
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todo o dinheiro destinado à construção do Memorial da Anistia Política do Brasil, em Belo Horizonte (BH), vai ter que voltar para os cofres públicos. O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) cobrou a devolução de quase R$29 milhões dos responsáveis pela obra executada durante quase uma década e que já custou cinco vezes mais do que o previsto.
 

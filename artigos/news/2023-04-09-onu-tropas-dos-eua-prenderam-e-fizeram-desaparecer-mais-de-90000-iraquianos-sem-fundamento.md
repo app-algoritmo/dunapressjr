@@ -1,11 +1,13 @@
 ---
-title: "ONU: tropas dos EUA prenderam e fizeram desaparecer mais de 90.000 iraquianos sem fundamento"
+title: 'ONU: tropas dos EUA prenderam e fizeram desaparecer mais de 90.000 iraquianos
+  sem fundamento'
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Há relatos que as pessoas na Alemanha não deveriam ouvir, porque a "mídia de qualidade" não informou sobre a declaração da ONU de que mais de 90.000 iraquianos foram presos por tropas americanas sem motivo durante a guerra do Iraque.
 

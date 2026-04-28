@@ -1,11 +1,12 @@
 ---
-title: "Em uma semana, Desafio de Inovação em Turismo já soma mais de 100 participantes"
+title: Em uma semana, Desafio de Inovação em Turismo já soma mais de 100 participantes
 date: 2020-07-23
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Competição organizada por MTur e Wakalua busca soluções tecnológicas para o setor e classifica projetos brasileiros para concurso global de startups da OMT.
 

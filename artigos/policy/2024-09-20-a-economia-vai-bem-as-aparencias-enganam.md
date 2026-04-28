@@ -1,11 +1,12 @@
 ---
-title: "A Economia vai bem? As aparências enganam"
+title: A Economia vai bem? As aparências enganam
 date: 2024-09-20
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Se depender de gastos do governo tudo vai bem, obrigado, mas a Economia do mundo real vai mal. Na semana passada tivemos a novidade do confisco de dinheiro em conta inativa. O Executivo provou  sua  incapacidade de cortar gastos e o rombo fiscal continua cada vez maior.  Sem espaço para aumento de impostos, esse governo inventa de confiscar recursos em contas esquecidas. 
 

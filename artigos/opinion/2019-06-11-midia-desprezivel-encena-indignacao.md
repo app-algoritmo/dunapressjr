@@ -1,11 +1,12 @@
 ---
-title: "Mídia desprezível encena indignação"
+title: Mídia desprezível encena indignação
 date: 2019-06-11
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Dois editoriais de hoje de grandes jornais externaram sua indignação com as revelações das gravações roubadas do celular do ministro Sérgio Moro, nas quais este mantém conversa com procuradores da Operação Lava Jato, comandada pela Polícia Federal, com respeitabilidade nacional e internacional. Responsável pela imagem de resgate de valores como a honestidade e a transparência nas contas públicas, a Lava Jato é referência de combate à corrupção e à impunidade, menos para a 1. A imprensa marrom, 2. As Faculdades de Humanas de universidades públicas e os artistas lacradores, 3. A massa de manobra que troca voto por mortadela. "Foice de São Paulo" e "Estado de calamidade" estão incluídos no primeiro item.
 

@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk alerta secretamente Biden e Zelenskyy sobre um possível conflito nuclear"
+title: Elon Musk alerta secretamente Biden e Zelenskyy sobre um possível conflito
+  nuclear
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Elon Musk expressou em particular preocupações a Joe Biden e Volodymyr Zelenskyy e instruiu seus técnicos a desativar a rede de satélites Starlink de sua empresa na costa da Crimeia. Ele queria evitar um possível ataque surpresa da Ucrânia à marinha russa, de acordo com uma seção da última biografia de Walter Isaacson, “Elon Musk”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal suspende a necessidade de autenticação de documentos"
+title: Receita Federal suspende a necessidade de autenticação de documentos
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para requisição da prestação de serviços perante o órgão, serão aceitas cópia simples ou cópia eletrônica obtida por digitalização.
 

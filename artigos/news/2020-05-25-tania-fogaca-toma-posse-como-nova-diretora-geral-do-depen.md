@@ -1,11 +1,12 @@
 ---
-title: "Tânia Fogaça toma posse como nova diretora-geral do Depen"
+title: Tânia Fogaça toma posse como nova diretora-geral do Depen
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta segunda-feira (25), tomou posse a nova diretora-geral do Departamento Penitenciário Nacional (Depen), Tânia Fogaça, no Palácio da Justiça. Delegada de Polícia Federal há 17 anos, a diretora-geral atuou em áreas estratégicas ligadas a integração entre órgãos policiais, cooperação internacional, forças-tarefas penitenciárias e controle de rebeliões em presídios. Tânia Fogaça é a primeira mulher que assumi o cargo na história do Departamento.
 

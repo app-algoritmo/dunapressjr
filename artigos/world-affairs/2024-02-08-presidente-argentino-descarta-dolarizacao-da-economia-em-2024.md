@@ -1,11 +1,12 @@
 ---
-title: "Presidente argentino descarta dolarização da economia em 2024"
+title: Presidente argentino descarta dolarização da economia em 2024
 date: 2024-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da Argentina, Javier Milei, anunciou nesta terça-feira que a dolarização da economia argentina não será implementada neste ano de 2024, citando condições desfavoráveis. Em uma entrevista publicada na revista 'Cenital', Milei afirmou que, embora a dolarização continue sendo o plano final, os atuais "tempos não são bons" para sua implementação.
 

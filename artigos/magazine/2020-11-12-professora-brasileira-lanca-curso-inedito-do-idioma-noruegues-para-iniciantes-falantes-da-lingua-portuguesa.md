@@ -1,11 +1,13 @@
 ---
-title: "Professora brasileira lança curso inédito do idioma norueguês para iniciantes falantes da língua portuguesa"
+title: Professora brasileira lança curso inédito do idioma norueguês para iniciantes
+  falantes da língua portuguesa
 date: 2020-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O novo curso visa proporcionar uma visão geral da língua Norueguesa, abrangendo os principais aspectos de gramática, vocabulário relevante para interações do dia-a-dia e funções básicas do uso cotidiano da língua como, por exemplo, se apresentar, trocar informações pessoais, ir ao mercado, etc.
 

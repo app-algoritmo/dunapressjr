@@ -1,11 +1,12 @@
 ---
-title: "Da invasão Alien a Rosebud: A Travessura do Cidadão Kane!"
+title: 'Da invasão Alien a Rosebud: A Travessura do Cidadão Kane!'
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 “Penso que todos esperavam ver emergir um homem - possivelmente, algo um pouco diferente dos homens terrestres, mas, nos aspectos essenciais, um homem. Sei que estavam à espera disso. Mas quando olhei vi qualquer coisa que se agitava na sombra: duas formas esverdeadas em movimentos revoltos, uma sobre a outra e, depois, dois discos luminosos - como olhos. ”
 G. Wells

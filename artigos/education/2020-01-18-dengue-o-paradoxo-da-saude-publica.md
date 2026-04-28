@@ -1,11 +1,12 @@
 ---
-title: "Dengue: O paradoxo da saúde pública"
+title: 'Dengue: O paradoxo da saúde pública'
 date: 2020-01-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 **Saúde Pública** na concepção mais tradicional, é a aplicação de conhecimentos (médicos ou não), com o objetivo de organizar sistemas e ***serviços de saúde***, atuar em fatores condicionantes e determinantes do processo ***saúde-doença*** controlando a incidência de doenças nas populações através de ações de vigilância e intervenções governamentais. 
 

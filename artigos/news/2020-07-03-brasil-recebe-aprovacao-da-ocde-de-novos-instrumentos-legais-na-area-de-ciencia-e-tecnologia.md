@@ -1,11 +1,13 @@
 ---
-title: "Brasil recebe aprovação da OCDE de novos instrumentos legais na área de Ciência e Tecnologia"
+title: Brasil recebe aprovação da OCDE de novos instrumentos legais na área de Ciência
+  e Tecnologia
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Das nações que pleiteiam uma vaga na Organização para Cooperação e Desenvolvimento Econômico (OCDE), o Brasil é, atualmente, o país que atende ao maior número de requisitos para a entrada no organismo internacional. Conhecida como o grupo dos países desenvolvidos, a OCDE tem como principal missão incentivar o progresso econômico e o comércio mundial. Atualmente, a instituição conta com 37 países-membros.
 

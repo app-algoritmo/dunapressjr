@@ -1,11 +1,12 @@
 ---
-title: "Exercícios mobilizam reservistas em diferentes regiões do país"
+title: Exercícios mobilizam reservistas em diferentes regiões do país
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Exército realizou o Exercício de Mobilização de Reservistas em três diferentes regiões. A mobilização envolve o chamado à ativa dos reservistas que passaram para essa condição nos últimos cinco anos. Essa atividade tem como objetivo adestrar os reservistas para que estejam aptos para serem mobilizados em caso de necessidade, garantindo a defesa do país.
 

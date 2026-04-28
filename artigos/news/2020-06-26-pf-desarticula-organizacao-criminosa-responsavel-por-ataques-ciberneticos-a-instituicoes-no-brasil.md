@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula organização criminosa responsável por ataques cibernéticos a instituições no Brasil"
+title: PF desarticula organização criminosa responsável por ataques cibernéticos a
+  instituições no Brasil
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** – A Polícia Federal deflagrou nesta sexta-feira (26/06), a operação *Capture the flag* com o objetivo de combater organização criminosa hacker, especializada na invasão de sistemas informatizados de órgãos públicos, para fins de exposição indevida de dados privados de servidores e autoridades públicas.  
 

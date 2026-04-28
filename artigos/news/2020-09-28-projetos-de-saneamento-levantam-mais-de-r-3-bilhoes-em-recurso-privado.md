@@ -1,11 +1,12 @@
 ---
-title: "Projetos de saneamento levantam mais de R$ 3 bilhões em recurso privado"
+title: Projetos de saneamento levantam mais de R$ 3 bilhões em recurso privado
 date: 2020-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No total, mais de 53 milhões de pessoas devem ser beneficiadas com as obras. Geração de empregos pode chegar a 162,6 mil.
 

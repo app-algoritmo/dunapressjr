@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário do comércio sobe 0,8% em novembro"
+title: Confiança do empresário do comércio sobe 0,8% em novembro
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador atinge 131,9 pontos e é o maior patamar desde 2011.
 

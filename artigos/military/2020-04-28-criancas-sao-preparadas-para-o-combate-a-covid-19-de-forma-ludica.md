@@ -1,11 +1,12 @@
 ---
-title: "Crianças são preparadas para o combate à Covid-19 de forma lúdica"
+title: Crianças são preparadas para o combate à Covid-19 de forma lúdica
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Modificar os hábitos em razão do coronavírus não é nada fácil. Diante da pandemia, todo cuidado é pouco na hora de tocar objetos, manter a higiene das mãos, evitar tocar o rosto ou descalçar os sapatos ao chegar em casa, entre outras atitudes imprescindíveis a serem adotadas no dia a dia. Se nem os adultos estão acostumados com tais procedimentos, muitas vezes parece ser difícil promover a mudança de hábitos entre as crianças.
 

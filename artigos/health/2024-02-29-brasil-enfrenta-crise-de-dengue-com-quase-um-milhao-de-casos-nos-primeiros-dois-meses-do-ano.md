@@ -1,11 +1,13 @@
 ---
-title: "Brasil enfrenta crise de dengue com quase um milhão de casos nos primeiros dois meses do ano"
+title: Brasil enfrenta crise de dengue com quase um milhão de casos nos primeiros
+  dois meses do ano
 date: 2024-02-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O Brasil está diante de uma grave crise de saúde pública com o aumento alarmante de casos de dengue nos primeiros dois meses do ano. O Ministério da Saúde divulgou que o país já registrou 973.347 casos confirmados da doença, representando quase 59% de todos os casos reportados em 2023.
 

@@ -1,11 +1,13 @@
 ---
-title: "Citroën e-C4 vs. Lexus UX 300e, o duelo dos elétricos do seguimento da classe C"
+title: Citroën e-C4 vs. Lexus UX 300e, o duelo dos elétricos do seguimento da classe
+  C
 date: 2021-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## EV | Preço ou vaidade?, 10.000 US$ é também a maior diferença entre esses dois carros.
 

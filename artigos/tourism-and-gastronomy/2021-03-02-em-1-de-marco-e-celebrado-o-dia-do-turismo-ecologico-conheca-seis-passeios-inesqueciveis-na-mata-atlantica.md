@@ -1,11 +1,13 @@
 ---
-title: "Em 1º de março é celebrado o Dia do Turismo Ecológico, conheça seis passeios inesquecíveis na Mata Atlântica"
+title: Em 1º de março é celebrado o Dia do Turismo Ecológico, conheça seis passeios
+  inesquecíveis na Mata Atlântica
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Já não é novidade que os turistas têm buscado cada vez mais destinos para fugir da rotina agitada e ter um momento de descanso. No entanto, a responsabilidade de preservação da fauna e flora e preocupação com o meio ambiente também são levados em conta na hora de escolher o momento de lazer. Em 1º de março é celebrado o Dia do Turismo Ecológico, data que teve surgimento oficial no Brasil em 1988. Conhecido também como Ecoturismo, nessa modalidade, o objetivo principal é estimular a consciência ecológica dos viajantes. O turista tem a oportunidade de conhecer lugares com belezas naturais preservadas e interagir com a cultura local por meio de atividades que não trazem nenhum impacto ao meio ambiente, garantindo a sobrevivência dos biomas nativos.
 

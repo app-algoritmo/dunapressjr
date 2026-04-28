@@ -1,11 +1,13 @@
 ---
-title: "Hospital Universitário Cajuru recebe, certificação nacional de qualidade nível 1 no Paraná"
+title: Hospital Universitário Cajuru recebe, certificação nacional de qualidade nível
+  1 no Paraná
 date: 2022-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Hospital Universitário Cajuru, de Curitiba (PR), tornou-se o único hospital-escola e 100% SUS do Paraná com a certificação de qualidade da Organização Nacional de Acreditação (ONA) nível 1. O reconhecimento foi anunciado depois de um processo de inspeção que, além de avaliar os critérios de segurança, comprovou a excelência da instituição no cumprimento dos padrões de qualidade, gestão integrada e plena comunicação entre as atividades. Referência em transplante renal e suporte a vítimas de trauma, o hospital realiza em média 147 mil atendimentos por ano, entre internamentos, urgências e emergências, cirurgias e consultas ambulatoriais.
 

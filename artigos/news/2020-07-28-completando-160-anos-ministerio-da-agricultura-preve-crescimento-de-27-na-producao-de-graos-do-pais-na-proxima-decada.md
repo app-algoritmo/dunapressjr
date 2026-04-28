@@ -1,11 +1,13 @@
 ---
-title: "Completando 160 anos, Ministério da Agricultura prevê crescimento de 27% na produção de grãos do país na próxima década"
+title: Completando 160 anos, Ministério da Agricultura prevê crescimento de 27% na
+  produção de grãos do país na próxima década
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Em 28 de julho de 1860, o Imperador D. Pedro II assinou o [decreto Nº 1.067](https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-1067-28-julho-1860-546420-publicacaooriginal-60429-pl.html), criando a Secretaria de Estado dos Negócios da Agricultura, Comércio e Obras Públicas, hoje denominado Ministério da Agricultura, Pecuária e Abastecimento, que  completa nesta terça-feira (28) 160 anos. 
 

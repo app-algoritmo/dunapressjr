@@ -1,11 +1,12 @@
 ---
-title: "Saque-aniversário já pode ser usado como garantia em empréstimos"
+title: Saque-aniversário já pode ser usado como garantia em empréstimos
 date: 2020-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Modalidade permite retirada de parte do saldo de contas do FGTS.
 

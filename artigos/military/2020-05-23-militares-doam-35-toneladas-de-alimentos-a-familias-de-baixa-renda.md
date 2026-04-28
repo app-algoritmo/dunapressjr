@@ -1,11 +1,12 @@
 ---
-title: "Militares doam 3,5 toneladas de alimentos a famílias de baixa renda"
+title: Militares doam 3,5 toneladas de alimentos a famílias de baixa renda
 date: 2020-05-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Cerca de 3,5 toneladas de alimentos foram arrecadadas em Ijuí, no Rio Grande do Sul, por militares do 27º Grupo de Artilharia de Campanha durante a Campanha do Alimento. O total arrecadado foi entregue à APAE, MEAME, Lar Bom Abrigo, Lar da Criança Henrique Liebich, Liga Feminina de Combate ao Câncer e Programa Mesa Brasil.
 

@@ -1,11 +1,13 @@
 ---
-title: "Globalistas atualizam: “choque financeiro” e controle climático para iniciar sua grande redefinição"
+title: 'Globalistas atualizam: “choque financeiro” e controle climático para iniciar
+  sua grande redefinição'
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No final de junho, chefes de Estado e de governo e líderes de think tanks de todo o mundo se reuniram em Paris para a [cúpula de um novo pacto financeiro global . ](https://www.aljazeera.com/news/2023/6/22/macron-opens-climate-summit-in-paris-calls-for-finance-shock)Os participantes incluíram o secretário-geral das Nações Unidas, Antonio Guterres, a secretária do Tesouro dos EUA, Janet Yellen, a diretora-gerente do FMI, Kristalina Georgieva, e o presidente do Banco Mundial, Ajay Banga.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nota de solidariedade aos irmãos moçambicanos"
+title: Nota de solidariedade aos irmãos moçambicanos
 date: 2019-03-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A dor de Moçambique é a dor do Brasil. Como irmãos lusófonos que somos a dor dos moçambicanos é a dor dos brasileiros. 
 

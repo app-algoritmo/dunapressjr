@@ -1,11 +1,12 @@
 ---
-title: "Crédito ampliado aumentou para setor não financeiro em novembro"
+title: Crédito ampliado aumentou para setor não financeiro em novembro
 date: 2020-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses o aumento foi de 14,6%.
 

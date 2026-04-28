@@ -1,11 +1,13 @@
 ---
-title: "Processo judicial revela conexão entre Jeffrey Epstein, conselheiro da Casa Branca de Obama, e JPMorgan Chase"
+title: Processo judicial revela conexão entre Jeffrey Epstein, conselheiro da Casa
+  Branca de Obama, e JPMorgan Chase
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *Arquivos judiciais revelam ligação entre Jeffrey Epstein, conselheiro da Casa Branca de Obama, e o JPMorgan Chase* .
 

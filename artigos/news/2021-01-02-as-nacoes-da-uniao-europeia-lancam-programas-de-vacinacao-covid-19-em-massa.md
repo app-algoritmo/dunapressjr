@@ -1,11 +1,12 @@
 ---
-title: "As nações da União Europeia lançam programas de vacinação COVID-19 em massa"
+title: As nações da União Europeia lançam programas de vacinação COVID-19 em massa
 date: 2021-01-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Alemanha começa um dia mais cedo: 'Cada dia que esperamos é demais'; As 27 nações da UE viram pelo menos 16 milhões de casos, 336.000 mortes, mas os especialistas dizem que o número real é mais alto.
 

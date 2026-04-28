@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro oferece isenção de tarifa de energia elétrica para baixa renda"
+title: Governo Bolsonaro oferece isenção de tarifa de energia elétrica para baixa
+  renda
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir da [Medida Provisória nº 950](http://www.in.gov.br/en/web/dou/-/medida-provisoria-n-950-de-8-de-abril-de-2020-251768271), foram estabelecidas importantes medidas de enfrentamento dos impactos da pandemia da Covid-19 no setor elétrico. 
 

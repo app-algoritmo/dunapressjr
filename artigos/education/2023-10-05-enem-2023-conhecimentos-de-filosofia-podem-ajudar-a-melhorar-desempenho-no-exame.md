@@ -1,11 +1,13 @@
 ---
-title: "Enem 2023: conhecimentos de Filosofia podem ajudar a melhorar desempenho no exame"
+title: 'Enem 2023: conhecimentos de Filosofia podem ajudar a melhorar desempenho no
+  exame'
 date: 2023-10-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Ao longo da história, pensadores de todas as partes do mundo vêm tentando decifrar as principais questões em torno da vida.
 

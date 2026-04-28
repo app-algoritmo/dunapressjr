@@ -1,11 +1,12 @@
 ---
-title: "COP26: Brasil como potência ambiental"
+title: 'COP26: Brasil como potência ambiental'
 date: 2021-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Conferência da ONU sobre Mudanças Climáticas (COP26) chegou ao fim e a delegação do Brasil, chefiada pelo ministro do Meio Ambiente, Joaquim Leite, deixou Glasgow, na Escócia, com relevantes conquistas e importantes comprometimentos firmados para engajar o mundo em direção a uma nova economia verde. Entre os anúncios feitos no estande do país no evento, destacam-se os compromissos de redução das emissões de gases do efeito estufa (GEEs) pela metade até 2030, com neutralidade em 2050, e de zerar o desmatamento ilegal dois anos antes do prazo anterior, em 2028; a assinatura da declaração das florestas e a revisão das metas de produção de metano.
 

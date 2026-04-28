@@ -1,11 +1,12 @@
 ---
-title: "Novo presidente da Comissão de Ética Pública, André Ramos Tavares toma posse"
+title: Novo presidente da Comissão de Ética Pública, André Ramos Tavares toma posse
 date: 2020-06-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### A comissão tem como objetivo atuar como instância consultiva do presidente e ministros em matéria de ética pública.
 

@@ -1,12 +1,13 @@
 ---
-title: "Chefes de Defesa da OTAN Reúnem-se na Noruega para Conferência Anual"
+title: Chefes de Defesa da OTAN Reúnem-se na Noruega para Conferência Anual
 date: 2023-09-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Military
+- Geopolitics
+- Military
 ---
+
 
 15 a 17 de Setembro de 2023, Oslo. A capital norueguesa, Oslo, está sendo o cenário da Conferência Anual do Comité Militar da OTAN de 15 a 17 de setembro de 2023. Sob o convite do General Eirik Kristoffersen, Chefe das Forças Armadas Norueguesas, os Chefes de Defesa da OTAN e Chefes de Defesa Convidados se reunem para discutir questões cruciais relacionadas à segurança e à defesa da Aliança. Este encontro assume uma importância significativa, pois está intrinsecamente ligado às decisões tomadas pelos líderes da OTAN na Cimeira de Vilnius, em julho de 2023.
 

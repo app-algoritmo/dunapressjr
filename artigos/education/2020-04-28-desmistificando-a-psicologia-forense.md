@@ -1,11 +1,12 @@
 ---
-title: "Desmistificando a Psicologia Forense"
+title: Desmistificando a Psicologia Forense
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Quando se ouve falar em Psicologia Forense, ao senso comum logo vem a mente as séries de investigação criminal e os filmes policiais, onde os peritos forenses traçam perfis em busca de assassinos em série, para identificá-los e prendê-los. Todavia, a Psicologia Forense vai muito além desta visão estereotipada que a mídia televisiva enraizou no senso comum.
 

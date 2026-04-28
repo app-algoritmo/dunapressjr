@@ -1,11 +1,13 @@
 ---
-title: "Comissão do Senado aprova prorrogação da desoneração da folha de pagamento por mais quatro anos"
+title: Comissão do Senado aprova prorrogação da desoneração da folha de pagamento
+  por mais quatro anos
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto contempla diversos setores da economia e inclui benefícios para pequenos municípios.
 

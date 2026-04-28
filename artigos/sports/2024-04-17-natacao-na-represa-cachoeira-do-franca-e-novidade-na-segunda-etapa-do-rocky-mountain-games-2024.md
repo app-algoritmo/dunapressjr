@@ -1,12 +1,14 @@
 ---
-title: "Natação na Represa Cachoeira do França é novidade na segunda etapa do Rocky Mountain Games 2024"
+title: Natação na Represa Cachoeira do França é novidade na segunda etapa do Rocky
+  Mountain Games 2024
 date: 2024-04-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Swimming
+- Sports
+- Swimming
 ---
+
 
 ## Modalidade extra se junta a Trail Run, Mountain Bike, Canicross, Duathlon e Gravel, no evento programado para 15 de junho, em Juquitiba. Organização monta Combos para quem quiser cair na água juntamente com corrida ou pedal.
 

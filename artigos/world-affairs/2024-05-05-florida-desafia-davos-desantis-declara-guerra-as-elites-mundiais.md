@@ -1,11 +1,12 @@
 ---
-title: "Florida Desafia Davos: DeSantis Declara Guerra às Elites Mundiais"
+title: 'Florida Desafia Davos: DeSantis Declara Guerra às Elites Mundiais'
 date: 2024-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No epicentro da controvérsia entre a agenda do Fórum Económico Mundial e os interesses da Florida está o governador do estado, Ron DeSantis. Em uma ofensiva marcada pelo lema "Parem as elites mundiais, protejam as nossas instituições", DeSantis lançou uma série de medidas destinadas a desafiar a influência globalista.
 

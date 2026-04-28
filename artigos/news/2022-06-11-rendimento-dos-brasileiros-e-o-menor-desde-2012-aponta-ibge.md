@@ -1,11 +1,12 @@
 ---
-title: "Rendimento dos brasileiros é o menor desde 2012, aponta IBGE"
+title: Rendimento dos brasileiros é o menor desde 2012, aponta IBGE
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Fim do auxílio emergencial contribuiu para escalada de desigualdade.
 

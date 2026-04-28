@@ -1,11 +1,12 @@
 ---
-title: "Risco de AVC com injeção da Pfizer é finalmente admitido"
+title: Risco de AVC com injeção da Pfizer é finalmente admitido
 date: 2023-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O CDC e o FDA anunciaram que seu rastreador de segurança de vacinas descobriu um possível problema de segurança com a vacina bivalente COVID-19 da Pfizer: um risco aumentado de derrame em pessoas com 65 anos ou mais.
 

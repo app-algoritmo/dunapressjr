@@ -1,11 +1,12 @@
 ---
-title: "Inflação em setembro foi maior para as famílias de renda menor"
+title: Inflação em setembro foi maior para as famílias de renda menor
 date: 2021-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice foi de 1,3% para renda muito baixa e de 1,09% para renda alta.
 

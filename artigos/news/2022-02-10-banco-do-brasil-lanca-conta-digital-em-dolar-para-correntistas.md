@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil lança conta digital em dólar para correntistas"
+title: Banco do Brasil lança conta digital em dólar para correntistas
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cliente poderá realizar saques em caixas eletrônicos no exterior.
 

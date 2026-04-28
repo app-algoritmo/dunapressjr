@@ -1,11 +1,12 @@
 ---
-title: "Paulo Guedes diz que está confiante na aprovação da reforma tributária"
+title: Paulo Guedes diz que está confiante na aprovação da reforma tributária
 date: 2021-05-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro disse que mantém boas conversas com a Câmara e o Senado.
 

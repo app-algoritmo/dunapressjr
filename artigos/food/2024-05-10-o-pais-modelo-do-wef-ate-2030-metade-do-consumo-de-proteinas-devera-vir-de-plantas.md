@@ -1,11 +1,13 @@
 ---
-title: "O país modelo do WEF: até 2030, metade do consumo de proteínas deverá vir de plantas"
+title: 'O país modelo do WEF: até 2030, metade do consumo de proteínas deverá vir
+  de plantas'
 date: 2024-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 O governo holandês está lançando uma iniciativa ambiciosa visando uma mudança radical na dieta do país até 2030. Com o objetivo de atingir um equilíbrio entre proteínas animais e vegetais, a política alimentar visa estabelecer um consumo igualitário de ambos os tipos de proteína. O deputado Pepijn van Houwelingen ressalta que esta iniciativa, denominada "transição proteica", é crucial para combater as mudanças climáticas.
 

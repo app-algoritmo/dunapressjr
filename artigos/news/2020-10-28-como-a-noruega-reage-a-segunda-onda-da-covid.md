@@ -1,11 +1,12 @@
 ---
-title: "Como a Noruega reage à segunda onda da Covid?"
+title: Como a Noruega reage à segunda onda da Covid?
 date: 2020-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Segunda onda da pandemia avança mais rápido que o esperado na Europa. A ministra da Noruega Erna Solberg adotou medidas rigorosas afim de evitar grande contagio nesta segunda onda do covid. Especialistas estão preocupados, pois afirmam que a segunda onda sera pior que a primeira.Nesse video eu explico as medidas. Comentem, compartilhem.
 

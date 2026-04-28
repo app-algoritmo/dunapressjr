@@ -1,11 +1,12 @@
 ---
-title: "Programa levará energia elétrica a regiões remotas do Amapá"
+title: Programa levará energia elétrica a regiões remotas do Amapá
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Termo de Compromisso para a implementação do Programa Mais Luz para a Amazônia no estado do Amapá foi publicado no [Diário Oficial da União (DOU)](https://www.in.gov.br/en/web/dou/-/extrato-de-compromisso-292021167) desta quinta-feira (3). O ato tem como objetivo estabelecer as metas para o atendimento com energia elétrica à população residente em regiões remotas do Amapá que ainda não possui acesso a esse serviço público, e para as quais não é possível o atendimento com extensão de redes convencionais.
 

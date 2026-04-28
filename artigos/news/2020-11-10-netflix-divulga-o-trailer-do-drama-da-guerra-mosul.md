@@ -1,12 +1,13 @@
 ---
-title: "Netflix divulga o trailer do drama da Guerra ‘Mosul’"
+title: Netflix divulga o trailer do drama da Guerra ‘Mosul’
 date: 2020-11-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 **‘Mosul’ é escrito e dirigido por Matthew Michael Carnahan; e é estrelado por Waleed Elgadi, Suhail Dabbach e Adam Bessa.**
 

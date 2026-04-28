@@ -1,11 +1,12 @@
 ---
-title: "Dólar aproxima-se de R$ 5,30 e fecha no menor valor em dois meses"
+title: Dólar aproxima-se de R$ 5,30 e fecha no menor valor em dois meses
 date: 2020-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa encerra terça-feira no maior nível desde o fim de fevereiro.
 

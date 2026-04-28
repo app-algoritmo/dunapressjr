@@ -1,11 +1,13 @@
 ---
-title: "Primeiros leilões de saneamento básico com recursos privados beneficiam cidades do Ceará e de Goiás"
+title: Primeiros leilões de saneamento básico com recursos privados beneficiam cidades
+  do Ceará e de Goiás
 date: 2022-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vencedores das concessões farão serviços de esgotamento sanitário do Crato (CE) e de abastecimento de água, esgotamento sanitário e tratamento dos resíduos sólidos de São Simão (GO).
 

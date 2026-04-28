@@ -1,11 +1,12 @@
 ---
-title: "Novo coronavírus infecta e se replica em células das glândulas salivares"
+title: Novo coronavírus infecta e se replica em células das glândulas salivares
 date: 2021-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores da Faculdade de Medicina da Universidade de São Paulo (FM-USP) constataram que o SARS-CoV-2 infecta e se replica em células das glândulas salivares.
 

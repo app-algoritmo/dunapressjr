@@ -1,11 +1,12 @@
 ---
-title: "Projeto prevê atuação ostensiva de guardas municipais nas escolas"
+title: Projeto prevê atuação ostensiva de guardas municipais nas escolas
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto também aumenta penas para quem comete crimes em escolas; Câmara vai analisar a proposta.
 

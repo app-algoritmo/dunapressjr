@@ -1,11 +1,13 @@
 ---
-title: "Arcebispo Viganò: Padres e bispos que promoveram as vacinações devem prestar contas a Deus"
+title: 'Arcebispo Viganò: Padres e bispos que promoveram as vacinações devem prestar
+  contas a Deus'
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 “O seu silêncio sobre a fraude pandémica é idêntico ao sobre a apostasia da hierarquia católica”, escreve o Arcebispo Viganò. “E a responsabilidade moral que recai sobre eles permanecerá uma mancha indelével, pela qual deverão prestar contas diante de Deus, do homem e da história.”
 

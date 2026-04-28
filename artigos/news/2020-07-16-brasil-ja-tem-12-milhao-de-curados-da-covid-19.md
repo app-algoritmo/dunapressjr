@@ -1,11 +1,12 @@
 ---
-title: "Brasil já tem 1,2 milhão de curados da Covid-19"
+title: Brasil já tem 1,2 milhão de curados da Covid-19
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Número é superior à quantidade de casos ativos, ou seja, pessoas que estão em acompanhamento médico. Informações foram atualizadas até as 17h desta quarta-feira (15/7).
 

@@ -1,11 +1,12 @@
 ---
-title: "Estatísticas do setor externo revelam melhora nas contas"
+title: Estatísticas do setor externo revelam melhora nas contas
 date: 2023-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados de agosto de 2023 mostram redução no déficit nas transações correntes e superávit na balança comercial.
 

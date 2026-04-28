@@ -1,11 +1,13 @@
 ---
-title: "País é o epicentro do Beach Tennis e Brasília realiza terceira edição do maior evento da temporada"
+title: País é o epicentro do Beach Tennis e Brasília realiza terceira edição do maior
+  evento da temporada
 date: 2023-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os números impressionam e não param de crescer. Se o litoral brasileiro já é gigante, o Beach Tennis levou a areia e o clima de praia para além da costa, espalhando o esporte por todo País. Ano a ano, aumenta e muito o número de praticantes. De 2021 para cá, o registro é de quase 200%, chegando a 1,1 milhão no Brasil atualmente, dos 2 milhões que jogam em todo o mundo.
 

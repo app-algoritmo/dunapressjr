@@ -1,11 +1,12 @@
 ---
-title: "PF combate o desvio de verbas públicas em cidade do interior paulista"
+title: PF combate o desvio de verbas públicas em cidade do interior paulista
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cruzeiro/SP – A Polícia Federal, em conjunto com a Controladoria Geral da União, deflagrou nesta sexta-feira (15/5) a Operação PHÁRMACO, voltada ao combate do desvio de verbas públicas do Fundo Nacional de Saúde destinadas à Prefeitura do Município de Piquete/SP.
 

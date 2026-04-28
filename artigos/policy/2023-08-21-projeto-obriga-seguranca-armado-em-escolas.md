@@ -1,11 +1,12 @@
 ---
-title: "Projeto obriga segurança armado em escolas"
+title: Projeto obriga segurança armado em escolas
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 As escolas públicas e particulares da educação básica podem ser obrigadas a manter pelo menos um profissional de segurança portando arma de fogo. É o que prevê o projeto de lei (PL) [3.632/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158834), do senador Cleitinho (Republicanos-MG). 
 

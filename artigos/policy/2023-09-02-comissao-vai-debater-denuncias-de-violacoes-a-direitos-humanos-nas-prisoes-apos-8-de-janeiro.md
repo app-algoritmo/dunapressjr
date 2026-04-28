@@ -1,11 +1,13 @@
 ---
-title: "Comissão vai debater denúncias de violações a direitos humanos nas prisões após 8 de janeiro"
+title: Comissão vai debater denúncias de violações a direitos humanos nas prisões
+  após 8 de janeiro
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A Comissão de Segurança Pública convidou pessoas presas pelos atos de vandalismo de 8 de janeiro e seus representantes legais.
 

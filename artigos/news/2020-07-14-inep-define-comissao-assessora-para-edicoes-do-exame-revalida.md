@@ -1,11 +1,12 @@
 ---
-title: "Inep define comissão assessora para edições do exame Revalida"
+title: Inep define comissão assessora para edições do exame Revalida
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, nesta segunda-feira, 13 de julho, no Diário Oficial da União ( DOU), a Portaria n.º 436, que institui a Comissão Assessora de Avaliação da Formação Médica (CAAFM). Em caráter consultivo, dez membros irão oferecer suporte para o Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida).
 

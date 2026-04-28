@@ -1,11 +1,12 @@
 ---
-title: "Ovo de galinha de 1.000 anos encontrado na fossa de Yavne"
+title: Ovo de galinha de 1.000 anos encontrado na fossa de Yavne
 date: 2021-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Os arqueólogos descobrem um ovo quase totalmente intacto, mas quase vazio, e três bonecos de osso do período islâmico raros na escavação de um assentamento que data do período bizantino.
 

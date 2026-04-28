@@ -1,11 +1,13 @@
 ---
-title: "Aumento de acidentes de trânsito no fim do ano eleva necessidade de transfusões sanguíneas"
+title: Aumento de acidentes de trânsito no fim do ano eleva necessidade de transfusões
+  sanguíneas
 date: 2022-12-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Feriados, Copa do Mundo, Natal e Ano Novo. À medida que as festividades de fim de ano se aproximam, a tendência é que muitas pessoas saiam da rotina, viagem e, com isso, o impacto nos estoques de sangue de hemocentros de todo o país parece ser inevitável. O problema se repete justamente no período em que a demanda por sangue cresce devido ao maior tráfego de veículos nas estradas e consecutivo aumento de acidentes. De acordo com o DataSUS, são registradas mais de 3,5 mil mortes no trânsito, a cada mês, no país. Mas em dezembro, esse número pode aumentar até 12%, especialmente nos últimos dias do ano.
 

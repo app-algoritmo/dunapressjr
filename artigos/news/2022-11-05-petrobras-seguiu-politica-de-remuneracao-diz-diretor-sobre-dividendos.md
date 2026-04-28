@@ -1,11 +1,12 @@
 ---
-title: "Petrobras seguiu política de remuneração, diz diretor sobre dividendos"
+title: Petrobras seguiu política de remuneração, diz diretor sobre dividendos
 date: 2022-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Terceiro trimestre teve pagamento de tributos da ordem de R$ 73 bi.
 

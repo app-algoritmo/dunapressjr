@@ -1,11 +1,13 @@
 ---
-title: "A vida e obra do Diretor-Geral da OMS como terrorista etíope e violador dos direitos humanos"
+title: A vida e obra do Diretor-Geral da OMS como terrorista etíope e violador dos
+  direitos humanos
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Tedros Adhanom Ghebreyesus nunca deveria ter sido eleito Diretor-Geral da OMS. Ele deveria ter sido acusado de crimes contra o povo etíope.
 

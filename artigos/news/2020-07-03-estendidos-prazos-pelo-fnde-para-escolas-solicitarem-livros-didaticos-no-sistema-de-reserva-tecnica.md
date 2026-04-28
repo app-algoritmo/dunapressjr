@@ -1,11 +1,13 @@
 ---
-title: "Estendidos prazos pelo FNDE para escolas solicitarem livros didáticos no sistema de reserva técnica"
+title: Estendidos prazos pelo FNDE para escolas solicitarem livros didáticos no sistema
+  de reserva técnica
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As unidades de ensino têm agora até 3 de julho para demandar exemplares extras e as secretarias têm até o dia 6 para validar os pedidos.
 

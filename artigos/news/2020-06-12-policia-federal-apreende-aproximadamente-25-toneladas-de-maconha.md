@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apreende aproximadamente 25 toneladas de maconha"
+title: Polícia Federal apreende aproximadamente 25 toneladas de maconha
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Maringá/PR  – Na madrugada desta quinta-feira, 11/6, durante diligências de repressão aos crimes de contrabando e tráfico de drogas, no bojo das ações de combate a crimes fronteiriços, integrantes da Polícia Federal e Civil que integram a Operação Hórus e o Programa Vigia,  juntamente com policiais militares do Choque Canil do 4º Batalhão de Maringá/PR, apreenderam cerca de 25 toneladas de maconha.
 

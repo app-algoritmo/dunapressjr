@@ -1,11 +1,13 @@
 ---
-title: "Relatório do WEF: A identidade digital no metaverso pode permitir que as pessoas 'melhorem sua reputação e se beneficiem social e economicamente'"
+title: 'Relatório do WEF: A identidade digital no metaverso pode permitir que as pessoas
+  ''melhorem sua reputação e se beneficiem social e economicamente'''
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A ID digital no metaverso oferece outra rota para um sistema de crédito social baseado em reputação: perspectiva
 

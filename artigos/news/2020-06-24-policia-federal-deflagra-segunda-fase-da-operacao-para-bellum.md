@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra segunda fase da Operação Para Bellum"
+title: Polícia Federal deflagra segunda fase da Operação Para Bellum
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Belém/PA** - A Polícia Federal deflagrou, na manhã desta terça-feira (23/06), a Operação Matinta Perera*, 2ª fase da Operação Para Bellum, dando cumprimento a sete mandados de busca e apreensão, expedidos pelo Ministro Francisco Falcão do Superior Tribunal de Justiça - STJ.
 

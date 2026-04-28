@@ -1,11 +1,13 @@
 ---
-title: "Esses documentos judiciais explosivos sugerem que alguns dos sequestradores do 11 de setembro eram agentes da CIA"
+title: Esses documentos judiciais explosivos sugerem que alguns dos sequestradores
+  do 11 de setembro eram agentes da CIA
 date: 2023-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 [Documentos judiciais](https://www.floridabulldog.org/wp-content/uploads/2023/04/Canestraro-Declaration-dated-20-July-2021.pdf) explosivos sugerem que dois dos sequestradores do 11 de setembro foram recrutados pela CIA antes dos ataques de Nova York. Os documentos são da comissão militar da prisão de segurança máxima de Guantánamo.
 

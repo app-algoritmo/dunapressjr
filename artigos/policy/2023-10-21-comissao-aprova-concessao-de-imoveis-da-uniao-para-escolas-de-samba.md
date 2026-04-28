@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova concessão de imóveis da União para escolas de samba"
+title: Comissão aprova concessão de imóveis da União para escolas de samba
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## De acordo com a proposta, a concessão dos imóveis poderá ser realizada sem licitação.
 

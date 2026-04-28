@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde enfrenta o Brasília Vôlei em busca da sexta vitória consecutiva na Superliga"
+title: Osasco São Cristóvão Saúde enfrenta o Brasília Vôlei em busca da sexta vitória
+  consecutiva na Superliga
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Osasco São Cristóvão Saúde está na capital federal para enfrentar o Brasília Vôlei nesta terça-feira (14), no ginásio do Sesi Taguatinga, em partida válida pela nona rodada da temporada 2021/22 na Superliga Banco do Brasil. Terceira colocada na competição, a equipe comandada pelo técnico Luizomar vai em busca da sexta vitória consecutiva no primeiro turno da fase de classificação. O Canal Vôlei Brasil transmite o jogo.
 

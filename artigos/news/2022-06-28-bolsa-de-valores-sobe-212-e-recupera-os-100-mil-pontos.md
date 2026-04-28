@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores sobe 2,12% e recupera os 100 mil pontos"
+title: Bolsa de valores sobe 2,12% e recupera os 100 mil pontos
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dólar cai para R$ 5,23, ajudado por alívio externo.
 

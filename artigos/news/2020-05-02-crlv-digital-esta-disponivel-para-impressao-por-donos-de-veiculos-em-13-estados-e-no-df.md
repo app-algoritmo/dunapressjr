@@ -1,11 +1,13 @@
 ---
-title: "CRLV digital está disponível para impressão por donos de veículos em 13 estados e no DF"
+title: CRLV digital está disponível para impressão por donos de veículos em 13 estados
+  e no DF
 date: 2020-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os proprietários de veículos de 13 estados brasileiros e do Distrito Federal não precisam sair de casa para imprimir o Certificado de Registro e Licenciamento de Veículo - CRLV. O documento veicular em versão digital possui um QR Code que garante a autenticidade do documento.
 

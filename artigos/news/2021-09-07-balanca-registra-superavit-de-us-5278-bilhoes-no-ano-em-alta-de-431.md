@@ -1,11 +1,12 @@
 ---
-title: "Balança registra superávit de US$ 52,78 bilhões no ano, em alta de 43,1%"
+title: Balança registra superávit de US$ 52,78 bilhões no ano, em alta de 43,1%
 date: 2021-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio sobe 35,9% e chega a US$ 332,53 bilhões, com US$ 192,66 bilhões em exportações e US$ 139,87 bilhões em importações.
 

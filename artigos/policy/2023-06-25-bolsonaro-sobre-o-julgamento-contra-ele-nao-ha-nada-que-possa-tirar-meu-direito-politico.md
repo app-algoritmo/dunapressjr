@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro sobre o julgamento contra ele: 'Não há nada que possa tirar meu direito político'"
+title: 'Bolsonaro sobre o julgamento contra ele: ''Não há nada que possa tirar meu
+  direito político'''
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O ex-presidente do Brasil Jair Bolsonaro [reclamou](https://www.europapress.es/internacional/noticia-bolsonaro-queja-juicio-tse-incluyeron-ataques-enero-brasilia-20230623183811.html) nesta sexta-feira sobre o processo judicial que está aberto no Tribunal Superior Eleitoral (TSE) e que pode inabilitá-lo politicamente pelos próximos oito anos. **“Incluíram até o que aconteceu em 8 de janeiro** ”, protestou em relação ao dia dos ataques.
 

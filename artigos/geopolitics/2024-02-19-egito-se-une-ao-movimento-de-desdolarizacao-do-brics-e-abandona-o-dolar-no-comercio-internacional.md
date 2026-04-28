@@ -1,11 +1,13 @@
 ---
-title: "Egito se Une ao Movimento de Desdolarização do BRICS e Abandona o Dólar no Comércio Internacional"
+title: Egito se Une ao Movimento de Desdolarização do BRICS e Abandona o Dólar no
+  Comércio Internacional
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Egito anunciou recentemente medidas audaciosas para se afastar do dólar americano no comércio internacional, como parte de uma iniciativa liderada pelo grupo BRICS de economias emergentes. A decisão egípcia reflete uma tendência crescente entre as nações em desenvolvimento de reduzir sua dependência do dólar e promover o uso de moedas locais para transações comerciais e investimentos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estudo afirma que as vacinas Covid-19 contêm nanobots de grafeno  e podem ser transmitidas aos não vacinados"
+title: Estudo afirma que as vacinas Covid-19 contêm nanobots de grafeno  e podem ser
+  transmitidas aos não vacinados
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Graças a cientistas como o Dr. Philippe van Welbergen, agora há evidências concretas de que  [as vacinas contra o coronavírus de Wuhan (COVID-19) contêm nanobots de grafeno](https://expose-news.com/2023/05/18/graphene-nanobots-in-covid-vaccines-shed-from-the-vaccinated-to-the-unvaccinated/) .
 

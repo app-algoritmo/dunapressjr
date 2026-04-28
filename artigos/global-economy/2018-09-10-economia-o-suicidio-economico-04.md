@@ -1,11 +1,12 @@
 ---
-title: "Economia - O suicídio econômico - 04"
+title: Economia - O suicídio econômico - 04
 date: 2018-09-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Para entender melhor o apresentado aqui, sugiro que leia os artigos das semanas passadas, pois de certa forma este é uma continuação do assunto –[https://dunapress.org/2018/08/20/economia-o-suicidio-economico-01/](https://dunapress.org/2018/08/20/economia-o-suicidio-economico-01/) – [https://dunapress.org/2018/08/27/economia-o-suicidio-economico-02/](https://dunapress.org/2018/08/27/economia-o-suicidio-economico-02/) / - [https://dunapress.org/2018/09/03/economia-o-suicidio-economico-03/](https://dunapress.org/2018/09/03/economia-o-suicidio-economico-03/)).
 

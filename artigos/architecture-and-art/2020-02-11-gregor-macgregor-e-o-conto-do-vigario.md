@@ -1,11 +1,12 @@
 ---
-title: "Gregor MacGregor e o 'Conto do Vigário'"
+title: Gregor MacGregor e o 'Conto do Vigário'
 date: 2020-02-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Todos os dias os programas policiais deixam o público boquiaberto com as mais mirabolantes técnicas utilizadas pelos criminosos para obter vantagem ilícita às custas dos cidadãos desavisados, cometendo o crime de estelionato, previsto no art. 171 do Código Penal brasileiro. Os criminosos seguem o ritmo da informatização e são capazes de realizar suas subtrações através de aplicativos falsos, roubo de informações de cartão de crédito ou hackeiam os computadores e celulares dos cidadãos para executarem sua prática delinquente. Dentre tantas modalidades mirabolantes, uma das mais antigas e que ainda é muito praticada contra pessoas de idade, é o popular “*Golpe do Bilhete Premiado*”. 
 

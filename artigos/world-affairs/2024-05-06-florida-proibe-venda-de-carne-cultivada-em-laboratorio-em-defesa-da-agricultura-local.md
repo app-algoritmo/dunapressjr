@@ -1,11 +1,13 @@
 ---
-title: "Flórida proíbe venda de carne cultivada em laboratório em defesa da agricultura local"
+title: Flórida proíbe venda de carne cultivada em laboratório em defesa da agricultura
+  local
 date: 2024-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Flórida tornou-se o primeiro estado dos Estados Unidos a proibir a venda de carne cultivada em laboratório, seguindo os passos do governo italiano liderado por Giorgia Meloni em março de 2023. O governador da Flórida, Ron DeSantis, destacou que esta medida representa uma rejeição aos objetivos do Fórum de Davos, afirmando: "Leve sua carne falsa cultivada em laboratório para outro lugar. Não faremos isso no estado da Flórida."
 

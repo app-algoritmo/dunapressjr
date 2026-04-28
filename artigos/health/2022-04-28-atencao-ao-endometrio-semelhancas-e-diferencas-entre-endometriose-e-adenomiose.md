@@ -1,12 +1,13 @@
 ---
-title: "Atenção ao endométrio: semelhanças e diferenças entre endometriose e adenomiose￼"
+title: 'Atenção ao endométrio: semelhanças e diferenças entre endometriose e adenomiose￼'
 date: 2022-04-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 Apesar de as patologias relacionadas ao endométrio serem bastante comuns, existe uma dificuldade em realizar o diagnóstico precoce. Isso porque os principais sintomas que elas acarretam, como a dor pélvica e as cólicas menstruais intensas, tendem a ser normalizados pelas mulheres. No entanto, as autoridades de saúde alertam para a necessidade de atenção a esses sinais. 
 

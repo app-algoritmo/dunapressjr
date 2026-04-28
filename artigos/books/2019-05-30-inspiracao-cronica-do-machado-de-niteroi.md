@@ -1,11 +1,12 @@
 ---
-title: "Inspiração crônica do 'Machado' de Niterói"
+title: Inspiração crônica do 'Machado' de Niterói
 date: 2019-05-30
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Books
+- Books
 ---
+
 
 O mais recente lançamento da Editora Duna Writers é um respiro de alívio para os leitores que gostam de ser desafiados em sua inteligência e criatividade. Historiador e professor, Luiz Gustavo Chrispino não se contentou em relatar os fatos do cotidiano, nem de contar as histórias que viveu e vive em sua movimentada vida carioca, mas ler as "Crônicas... de uma vida crônica", de sua autoria, nos leva a lugares do pensamento. Ora, o pensamento tem lugares? Claro que sim, são os nichos onde se escondem as experiências mais profundas, engraçadas, dramáticas, impensadas. Assim é a literatura do professor Chrispino, que também tem um vlog com comentários sobre Política e Monarquia, atualidades, qualidade de vida, futebol, comportamento, ufa! Esse professor nasceu mesmo para ser cronista.
 

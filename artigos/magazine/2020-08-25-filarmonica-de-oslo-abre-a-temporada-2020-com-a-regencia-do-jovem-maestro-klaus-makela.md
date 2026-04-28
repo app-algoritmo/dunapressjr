@@ -1,11 +1,13 @@
 ---
-title: "Filarmônica de Oslo abre a temporada 2020 com a regência do jovem maestro Klaus Mäkelä"
+title: Filarmônica de Oslo abre a temporada 2020 com a regência do jovem maestro Klaus
+  Mäkelä
 date: 2020-08-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Finalmente, a Filarmônica de Oslo pode tocar para o público novamente. Sua Majestade a Rainha Sonja esteve presente durante a abertura da temporada no Oslo Concert Hall na noite de 20.08.20
 

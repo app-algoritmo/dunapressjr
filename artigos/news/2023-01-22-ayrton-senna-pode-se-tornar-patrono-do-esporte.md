@@ -1,11 +1,12 @@
 ---
-title: "Ayrton Senna pode se tornar patrono do esporte"
+title: Ayrton Senna pode se tornar patrono do esporte
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O texto, que já foi aprovado pela Comissão de Educação, Cultura e Esporte (CE), ainda precisa ser votado no Plenário e na Câmara. O relator da proposta, senador Dário Berger (PSB-SC), descreve Senna como um ídolo nacional que representava as esperanças de um povo carente de vitórias e grandes conquistas. 
 

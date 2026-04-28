@@ -1,11 +1,12 @@
 ---
-title: "Os recursos para o pagamento do benefício pelo governo somam R$ 12,7 bilhões"
+title: Os recursos para o pagamento do benefício pelo governo somam R$ 12,7 bilhões
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em um balanço divulgado pelo Ministério da Economia, até às 14h desta terça-feira (12), o Benefício Emergencial para Preservação da Renda e do Emprego (BEm) já tinha preservado 7.206.915 de empregos em todo o País. Os recursos para o pagamento do benefício pelo governo somam R$ 12,7 bilhões. Previsto na Medida Provisória 936/2020, o benefício ajuda empregados e empregadores a enfrentar os efeitos econômicos da pandemia de Covid-19.
 

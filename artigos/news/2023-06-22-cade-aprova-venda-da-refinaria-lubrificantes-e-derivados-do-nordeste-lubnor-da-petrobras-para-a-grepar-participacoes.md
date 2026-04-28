@@ -1,11 +1,13 @@
 ---
-title: "Cade aprova venda da Refinaria Lubrificantes e Derivados do Nordeste (Lubnor) da Petrobras para a Grepar Participações"
+title: Cade aprova venda da Refinaria Lubrificantes e Derivados do Nordeste (Lubnor)
+  da Petrobras para a Grepar Participações
 date: 2023-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Privatização de refinarias da Petrobras avança, mas condições adicionais precisam ser cumpridas no processo de venda.
 

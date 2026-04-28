@@ -1,11 +1,12 @@
 ---
-title: "O assistencialismo, zona de conforto e a derrocada do ser humano"
+title: O assistencialismo, zona de conforto e a derrocada do ser humano
 date: 2019-06-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O ser humano precisa de certas dificuldades para dar valor ao que realmente importa e que precisamos sempre estar fora da zona de conforto. Ou naufragamos ou saímos mais fortes das dificuldades. Pois crescemos e aprendemos com cada tombo.
 

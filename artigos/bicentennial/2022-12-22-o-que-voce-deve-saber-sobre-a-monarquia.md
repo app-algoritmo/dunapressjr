@@ -1,13 +1,14 @@
 ---
-title: "O que você deve saber sobre a monarquia"
+title: O que você deve saber sobre a monarquia
 date: 2022-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 ## Sabe aquela frase, "pára tudo o que esteja fazendo e olha isso aqui?"!
 

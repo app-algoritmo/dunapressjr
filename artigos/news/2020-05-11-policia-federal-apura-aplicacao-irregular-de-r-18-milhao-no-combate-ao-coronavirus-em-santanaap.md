@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal apura aplicação irregular de R$ 1,8 milhão no combate ao coronavírus em Santana/AP"
+title: Polícia Federal apura aplicação irregular de R$ 1,8 milhão no combate ao coronavírus
+  em Santana/AP
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Macapá/AP** - A Polícia Federal deflagrou, na manhã desta segunda-feira (11/5), a Operação Expurgo* para investigar irregularidades na contratação direta de serviços de limpeza, desinfecção e assepsia no combate à COVID-19, no município de Santana/AP.
 

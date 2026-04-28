@@ -1,11 +1,12 @@
 ---
-title: "Crise Rússia-OTAN: Escalada Tensa Ameaça Segurança Global"
+title: 'Crise Rússia-OTAN: Escalada Tensa Ameaça Segurança Global'
 date: 2024-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na última semana, a crise entre a Rússia e a OTAN se intensificou. A OTAN declarou oficialmente a Rússia como a maior ameaça direta e significativa à segurança dos seus membros, o que elevou as tensões na região. Além disso, a OTAN tem aumentado suas atividades defensivas, como a interceptação de aeronaves russas próximas ao espaço aéreo aliado, principalmente no Mar Báltico​ ([RadioFreeEurope/RadioLiberty](https://www.rferl.org/a/nato-summit-stoltenberg-ukraine-challenge/31920939.html)).
 

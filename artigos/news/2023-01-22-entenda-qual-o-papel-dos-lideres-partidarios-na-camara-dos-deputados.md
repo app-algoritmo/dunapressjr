@@ -1,11 +1,12 @@
 ---
-title: "Entenda qual o papel dos líderes partidários na Câmara dos Deputados"
+title: Entenda qual o papel dos líderes partidários na Câmara dos Deputados
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O líder partidário exerce papel essencial no funcionamento da Câmara dos Deputados. É o deputado escolhido pelos integrantes da bancada para conduzir o partido, bloco partidário ou a federação que representa no processo legislativo.
 

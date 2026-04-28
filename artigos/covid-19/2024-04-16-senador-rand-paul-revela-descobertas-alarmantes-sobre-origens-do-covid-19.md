@@ -1,11 +1,12 @@
 ---
-title: "Senador Rand Paul Revela Descobertas Alarmantes sobre Origens do COVID-19"
+title: Senador Rand Paul Revela Descobertas Alarmantes sobre Origens do COVID-19
 date: 2024-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O senador Rand Paul (R-KY) está conduzindo uma investigação independente sobre as origens do COVID-19, revelando descobertas alarmantes sobre o possível envolvimento de agências federais dos Estados Unidos. Em um comunicado divulgado recentemente, Paul destacou que funcionários de pelo menos 15 agências governamentais estavam cientes, desde 2018, dos esforços do Instituto de Virologia de Wuhan para desenvolver um coronavírus semelhante ao COVID-19.
 

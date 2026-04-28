@@ -1,11 +1,12 @@
 ---
-title: "É improvável que Wagner abra uma frente norte após o golpe fracassado de Prigozhin"
+title: É improvável que Wagner abra uma frente norte após o golpe fracassado de Prigozhin
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Larry C. Johnson faz alguns argumentos convincentes, mas, em última análise, sua explicação requer muitos saltos sequenciais de fé para se concretizar, embora coisas estranhas tenham acontecido, então isso também não pode ser totalmente descartado.    
 

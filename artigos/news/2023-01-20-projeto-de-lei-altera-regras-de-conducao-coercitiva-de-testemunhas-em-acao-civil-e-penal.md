@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei altera regras de condução coercitiva de testemunhas em ação civil e penal"
+title: Projeto de Lei altera regras de condução coercitiva de testemunhas em ação
+  civil e penal
 date: 2023-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2765/22 determina que a condução coercitiva de testemunha, em processo penal ou civil, só poderá ser realizada quando se tratar de prova imprescindível para o julgamento, devendo ser fundamentada pela autoridade judiciária. O texto tramita na Câmara dos Deputados.
 

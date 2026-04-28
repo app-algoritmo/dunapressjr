@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que limita alíquotas sobre combustível e energia"
+title: Câmara aprova projeto que limita alíquotas sobre combustível e energia
 date: 2022-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta prevê compensação da União aos estados pela perda de arrecadação. Texto será enviado ao Senado.
 

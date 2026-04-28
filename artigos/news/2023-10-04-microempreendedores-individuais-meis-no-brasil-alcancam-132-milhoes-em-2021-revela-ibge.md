@@ -1,11 +1,13 @@
 ---
-title: "Microempreendedores Individuais (MEIs) no Brasil alcançam 13,2 milhões em 2021, revela IBGE"
+title: Microempreendedores Individuais (MEIs) no Brasil alcançam 13,2 milhões em 2021,
+  revela IBGE
 date: 2023-10-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento expressivo e perfil dos MEIs são analisados em detalhes na primeira pesquisa experimental do Instituto.
 

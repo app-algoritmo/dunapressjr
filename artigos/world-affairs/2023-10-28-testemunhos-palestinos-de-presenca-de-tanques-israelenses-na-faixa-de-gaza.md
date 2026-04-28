@@ -1,11 +1,12 @@
 ---
-title: "Testemunhos Palestinos de Presença de Tanques Israelenses na Faixa de Gaza"
+title: Testemunhos Palestinos de Presença de Tanques Israelenses na Faixa de Gaza
 date: 2023-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As IDF atingiram 150 alvos subterrâneos no norte da Faixa de Gaza durante a noite.
 

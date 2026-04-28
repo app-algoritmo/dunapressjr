@@ -1,11 +1,12 @@
 ---
-title: "Resorts e parques aquáticos adotam protocolos de saúde e segurança para reabertura"
+title: Resorts e parques aquáticos adotam protocolos de saúde e segurança para reabertura
 date: 2020-06-15
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Dentre as mudanças, o check-in online, o uso obrigatório de máscaras e a utilização das pulseiras de aproximação.
 

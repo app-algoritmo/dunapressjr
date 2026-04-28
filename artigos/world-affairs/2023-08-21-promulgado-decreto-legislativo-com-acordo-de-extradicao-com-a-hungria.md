@@ -1,11 +1,12 @@
 ---
-title: "Promulgado decreto legislativo com acordo de extradição com a Hungria"
+title: Promulgado decreto legislativo com acordo de extradição com a Hungria
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Congresso Nacional, senador Rodrigo Pacheco (PSD-MG), promulgou o Decreto Legislativo 77/23, que contém tratado de extradição de pessoas assinado entre Brasil e Hungria. O texto foi publicado no Diário Oficial da União desta sexta-feira (18).
 

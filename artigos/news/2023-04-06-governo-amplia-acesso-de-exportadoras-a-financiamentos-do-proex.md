@@ -1,11 +1,12 @@
 ---
-title: "Governo amplia acesso de exportadoras a financiamentos do Proex"
+title: Governo amplia acesso de exportadoras a financiamentos do Proex
 date: 2023-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Limite de faturamento passou de R$ 600 milhões para R$ 1,3 bilhão.
 

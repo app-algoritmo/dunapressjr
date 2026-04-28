@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,56 e fecha no menor valor em oito dias"
+title: Dólar cai para R$ 5,56 e fecha no menor valor em oito dias
 date: 2021-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa subiu pela terceira sessão seguida e superou 105 mil pontos.
 

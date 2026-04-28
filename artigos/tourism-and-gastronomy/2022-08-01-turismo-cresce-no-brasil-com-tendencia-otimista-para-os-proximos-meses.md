@@ -1,11 +1,12 @@
 ---
-title: "Turismo cresce no Brasil com tendência otimista para os próximos meses"
+title: Turismo cresce no Brasil com tendência otimista para os próximos meses
 date: 2022-08-01
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Quem busca por [passagens aéreas nacionais ou internacionais](http://www.capoviagens.com.br/) já percebe uma movimentação maior nas atividades turísticas em todo o país. O turismo foi uma das áreas mais afetadas pela pandemia do novo coronavírus, em que muitas viagens precisaram ser adiadas devido às restrições sanitárias e à necessidade de isolamento social. Atualmente, o setor já se encontra em um cenário melhor com uma rota de crescimento significativa.
 

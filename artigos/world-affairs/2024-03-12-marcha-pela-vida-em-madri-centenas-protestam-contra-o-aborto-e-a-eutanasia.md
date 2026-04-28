@@ -1,11 +1,12 @@
 ---
-title: "Marcha pela Vida em Madri: Centenas Protestam Contra o Aborto e a Eutanásia"
+title: 'Marcha pela Vida em Madri: Centenas Protestam Contra o Aborto e a Eutanásia'
 date: 2024-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Centenas de pessoas se reuniram em Madri neste domingo para participar da Marcha pela Vida, expressando sua oposição ao aborto e à eutanásia. Mais de 500 organizações se uniram para defender "a grandeza da vida".
 

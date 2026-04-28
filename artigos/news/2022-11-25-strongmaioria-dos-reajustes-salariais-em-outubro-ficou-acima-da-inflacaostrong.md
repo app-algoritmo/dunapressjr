@@ -1,11 +1,12 @@
 ---
-title: "<strong>Maioria dos reajustes salariais em outubro ficou acima da inflação</strong>"
+title: <strong>Maioria dos reajustes salariais em outubro ficou acima da inflação</strong>
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A previsão é que o reajuste médio de novembro fique em 7,3%.
 

@@ -1,12 +1,13 @@
 ---
-title: "Você conhece essa mulher?"
+title: Você conhece essa mulher?
 date: 2019-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Opinion
+- News
+- Opinion
 ---
+
 
 Texto de Mariana Selim.
 

@@ -1,11 +1,12 @@
 ---
-title: "Alckmin defende reforma tributária e diz que “nosso modelo é caótico”"
+title: Alckmin defende reforma tributária e diz que “nosso modelo é caótico”
 date: 2023-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vice-presidente destaca ações nos primeiros 87 dias de governo.
 

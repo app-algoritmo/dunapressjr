@@ -1,11 +1,13 @@
 ---
-title: "Sargento do Exército Brasileiro coordena projeto de desenvolvimento de respirador mecânico de baixo custo"
+title: Sargento do Exército Brasileiro coordena projeto de desenvolvimento de respirador
+  mecânico de baixo custo
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Maceió (AL) -** Essencial para manter a vida de pacientes graves com a COVID-19, um respirador mecânico de baixo custo está sendo produzido por um grupo de pesquisadores em Maceió. O projeto, que voluntariamente é coordenado pelo 1º Sargento **Rodrigo Costa dos Santos**, do 59º Batalhão de Infantaria Motorizado** (**59º BI Mtz), tem por objetivo suprir a demanda dos hospitais por respiradores mecânicos.
 

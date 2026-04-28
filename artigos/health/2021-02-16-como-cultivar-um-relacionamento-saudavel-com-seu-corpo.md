@@ -1,11 +1,12 @@
 ---
-title: "Como cultivar um relacionamento saudável com seu corpo?"
+title: Como cultivar um relacionamento saudável com seu corpo?
 date: 2021-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Precisamos falar sobre o peso saudável, mas também precisamos lembrar que essa deve ser a consequência de um projeto de qualidade de vida e não uma finalidade restrita a um número na balança ou a uma forma inatingível. A preocupação obsessiva com uma silhueta específica foge do ideal saudável, que passa por uma alimentação equilibrada e uma vida fisicamente ativa, que proporcionam mais saúde e bem-estar.
 

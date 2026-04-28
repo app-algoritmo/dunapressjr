@@ -1,11 +1,13 @@
 ---
-title: "Sensação de cansaço o tempo todo? Mudança de hábito ao acordar pode aumentar disposição ao longo do dia"
+title: Sensação de cansaço o tempo todo? Mudança de hábito ao acordar pode aumentar
+  disposição ao longo do dia
 date: 2023-08-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Sair ao ar livre, evitar café e manter temperatura do corpo alta dentro da primeira hora do dia pode evitar sensação de exaustão.
 

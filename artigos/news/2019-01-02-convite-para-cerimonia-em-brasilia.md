@@ -1,11 +1,12 @@
 ---
-title: "Convite para cerimônia em Brasília"
+title: Convite para cerimônia em Brasília
 date: 2019-01-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Presidente da FENAE, Sr. Sebastião Téo, convida a todos a participar do Lançamento Oficial da Campanha da Indicada ao Prêmio Nobel da Paz Dra. Morgana Macena. 
 

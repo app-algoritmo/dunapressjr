@@ -1,11 +1,12 @@
 ---
-title: "Saeb divulgará resultados de avaliação das escolas públicas a partir de domingo"
+title: Saeb divulgará resultados de avaliação das escolas públicas a partir de domingo
 date: 2020-05-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Sistema só pode ser acessado pelo representante legal de cada unidade escolar.**
 

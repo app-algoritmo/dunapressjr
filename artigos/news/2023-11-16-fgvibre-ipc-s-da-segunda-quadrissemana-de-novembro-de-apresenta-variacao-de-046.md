@@ -1,11 +1,13 @@
 ---
-title: "FGV/IBRE: IPC-S da segunda quadrissemana de novembro de apresenta variação de 0,46%"
+title: 'FGV/IBRE: IPC-S da segunda quadrissemana de novembro de apresenta variação
+  de 0,46%'
 date: 2023-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses o índice acumula alta de 3,81%.
 

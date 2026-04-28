@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde habilitou 1.134 leitos de UTI pelo Brasil nesta quinta-feira"
+title: Ministério da Saúde habilitou 1.134 leitos de UTI pelo Brasil nesta quinta-feira
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Saúde, Nelson Teich, anunciou, entre as ações mais recentes do Governo Federal, que o Ministério habilitou, nesta quinta-feira (23), 1.134 leitos de UTI pele Brasil em diversos estados, com investimento de R$ 163 milhões que serão aplicados nos próximos 90 dias. Outra ação de destaque, segundo Teich, foi o envio de profissionais da Força Nacional do SUS para Manaus a fim de reforçar o combate contra o novo coronavírus.
 

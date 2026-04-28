@@ -1,11 +1,12 @@
 ---
-title: "Campanha de doação de sangue supera meta e tem nova data no Caxias Shopping"
+title: Campanha de doação de sangue supera meta e tem nova data no Caxias Shopping
 date: 2023-06-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Em parceria com o Grupo GSH, a ação acontece nos dias 06 e 07 de junho e visa estimular a população local a doar sangue.
 

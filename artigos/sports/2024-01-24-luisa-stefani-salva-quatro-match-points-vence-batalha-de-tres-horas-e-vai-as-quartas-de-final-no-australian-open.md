@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani salva quatro match-points, vence batalha de três horas e vai às quartas de final no Australian Open"
+title: Luisa Stefani salva quatro match-points, vence batalha de três horas e vai
+  às quartas de final no Australian Open
 date: 2024-01-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs bateram a dupla cabeça de chave 6 e desafiam a parceria segunda favorita.
 

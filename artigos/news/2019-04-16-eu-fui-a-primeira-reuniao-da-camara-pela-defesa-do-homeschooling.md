@@ -1,11 +1,12 @@
 ---
-title: "Eu fui à primeira reunião da Câmara pela defesa do Homeschooling!"
+title: Eu fui à primeira reunião da Câmara pela defesa do Homeschooling!
 date: 2019-04-16
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 Era para ser Medida Provisória, não foi possível. O  projeto para regulamentação do Ensino domiciliar, então, deve ser aprovado como lei, seguindo a tramitação normal e um pouco mais demorada. A primeira reunião da Frente Parlamentar pela Defesa do Homeschooling ocorreu neste dia 15 de abril no plenário 15 da Câmara dos Deputados, em Brasília, e teve a presença do deputado dr. Jaziel (PR-CE),  que preside a frente, das deputadas Chris Tonietto (PSL-RJ) e Caroline de Toni (PSL-SC), dos deputados Luiz Philippe de Orleans e Bragança (PSL-SP) Eduardo Bolsonaro (PSL-SP) e Marcel Van Hatten (Novo-RS).
 

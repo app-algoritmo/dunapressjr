@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas continuam ações de enfrentamento ao Coronavírus"
+title: Forças Armadas continuam ações de enfrentamento ao Coronavírus
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em um mês de Operação COVID-19, inúmeras atividades de apoio a órgãos públicos e à sociedade, com foco no combate ao novo Coronavírus, foram realizadas por homens e mulheres das Forças Armadas. Desde 20 de março, início da ação, integrantes da Marinha, do Exército e da Aeronáutica atuam na desinfecção de locais públicos, na repatriação de brasileiros, no transporte de insumos e materiais de saúde, na distribuição de alimentos, em ações de controle de segurança em fronteiras e embarcações, entre outras atividades.
 

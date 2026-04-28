@@ -1,11 +1,12 @@
 ---
-title: "Congresso internacional de Educação espera 100 mil pessoas em agosto"
+title: Congresso internacional de Educação espera 100 mil pessoas em agosto
 date: 2022-08-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 Com expectativa de receber mais de 100 mil participantes, tanto no evento presencial, quanto no on-line, esse é o maior congresso educacional do país e tem, ainda, na lista de nomes confirmados, a ex-presidente do Inep, Maria Inês Fini, a presidente do Conselho Nacional de Educação, Maria Helena Guimarães, o ex-ministro de educação, Renato Janine, o escritor, roteirista e dramaturgo Walcyr Carrasco, entre outros. Para Renato Casagrande, Presidente do Instituto Casagrande, o evento é uma oportunidade para gestores, professores e educadores de instituições públicas e privadas de ensino debaterem temas fundamentais para a Educação brasileira. “O Brasil é um país extenso e com realidades e experiências educacionais muito diversas. Então, promover um evento que congregue pessoas de todas as regiões do país é importante para compartilhar experiências exitosas e debater soluções inovadoras”, afirma. 
 

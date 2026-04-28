@@ -1,11 +1,12 @@
 ---
-title: "Não é tão doce: estudo liga adoçantes artificiais a danos no fígado"
+title: 'Não é tão doce: estudo liga adoçantes artificiais a danos no fígado'
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## Mais evidências surgiram ligando adoçantes artificiais a danos no fígado, especificamente [adoçantes não nutritivos como acessulfame de potássio e sucralose](https://childrenshealthdefense.org/defender/artificial-sweeteners-liver-damage/), que são usados ​​como substitutos do açúcar sem calorias.
 

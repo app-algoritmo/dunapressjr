@@ -1,11 +1,12 @@
 ---
-title: "Há 72 anos, Israel declarava sua Independência"
+title: Há 72 anos, Israel declarava sua Independência
 date: 2020-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Declaração de Independência do Estado de Israel foi assinada às 16 horas do dia 14 de maio de 1948, em Tel Aviv, algumas horas antes do término do mandato britânico sobre a Palestina.
 

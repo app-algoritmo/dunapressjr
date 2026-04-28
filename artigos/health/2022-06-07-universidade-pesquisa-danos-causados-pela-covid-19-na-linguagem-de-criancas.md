@@ -1,11 +1,12 @@
 ---
-title: "Universidade pesquisa danos causados pela COVID-19 na linguagem de crianças"
+title: Universidade pesquisa danos causados pela COVID-19 na linguagem de crianças
 date: 2022-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Universidade Federal de Santa Catarina (UFSC) pesquisará os efeitos da pandemia de COVID-19 sobre o desenvolvimento da linguagem em crianças. O estudo, um dos dois selecionados, recebeu bolsas de pós-graduação e verbas para custeio pelo [Programa de Desenvolvimento da Pós-Graduação (PDPG) – Impactos da Pandemia](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/programa-de-desenvolvimento-da-pos-graduacao-pdpg-impactos-da-pandemia) da CAPES. Para realizar os projetos, a UFSC receberá R$ 200 mil, além de oito bolsas de mestrado, seis de doutorado e seis de pós-doutorado.
 

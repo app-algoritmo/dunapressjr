@@ -1,11 +1,12 @@
 ---
-title: "EUA Concordam em Retirar Tropas do Níger, Revela Washington Post"
+title: EUA Concordam em Retirar Tropas do Níger, Revela Washington Post
 date: 2024-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Segundo informações do Washington Post, os Estados Unidos concordaram em retirar suas tropas do Níger, em uma decisão selada durante uma reunião entre o vice-secretário de Estado dos EUA, Kurt Campbell, e o primeiro-ministro do Níger, Ali Lamine Zeine.
 

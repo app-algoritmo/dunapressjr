@@ -1,11 +1,12 @@
 ---
-title: "Poupança registra maior captação líquida do ano em junho"
+title: Poupança registra maior captação líquida do ano em junho
 date: 2021-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Depósitos superaram retiradas em R$ 7,09 bilhões.
 

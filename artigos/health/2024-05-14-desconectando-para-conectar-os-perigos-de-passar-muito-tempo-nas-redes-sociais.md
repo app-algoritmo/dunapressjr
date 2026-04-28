@@ -1,11 +1,12 @@
 ---
-title: "Desconectando para Conectar: Os Perigos de Passar Muito Tempo nas Redes Sociais"
+title: 'Desconectando para Conectar: Os Perigos de Passar Muito Tempo nas Redes Sociais'
 date: 2024-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 As redes sociais tornaram-se uma parte inseparável de nossas vidas modernas, proporcionando uma plataforma para conectar-se, compartilhar e interagir com outras pessoas ao redor do mundo. No entanto, o tempo excessivo gasto nessas plataformas pode ter consequências prejudiciais para nossa saúde mental, bem-estar e relacionamentos.
 

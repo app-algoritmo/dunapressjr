@@ -1,11 +1,13 @@
 ---
-title: "Caxias Shopping promove atividade infantil gratuita durante o domingo de Dia das Mães"
+title: Caxias Shopping promove atividade infantil gratuita durante o domingo de Dia
+  das Mães
 date: 2024-05-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## “Gincana Mães e Filhos” é a atração do dia 12.
 

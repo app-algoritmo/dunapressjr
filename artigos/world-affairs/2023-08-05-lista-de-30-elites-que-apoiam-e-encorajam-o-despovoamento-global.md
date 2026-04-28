@@ -1,11 +1,12 @@
 ---
-title: "Lista de 30 'elites' que apoiam e encorajam o despovoamento global"
+title: Lista de 30 'elites' que apoiam e encorajam o despovoamento global
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Este artigo foi originalmente publicado em 2018.
 

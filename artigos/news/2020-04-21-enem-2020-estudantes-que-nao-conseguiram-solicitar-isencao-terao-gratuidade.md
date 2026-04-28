@@ -1,11 +1,12 @@
 ---
-title: "Enem 2020: Estudantes que não conseguiram solicitar isenção terão gratuidade"
+title: 'Enem 2020: Estudantes que não conseguiram solicitar isenção terão gratuidade'
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os participantes que atendem aos requisitos legais para isenção da taxa de inscrição no Exame Nacional do Ensino Médio (Enem) 2020 estabelecidos em edital e que não conseguiram realizar a solicitação do benefício devido à paralisação das aulas em estados e municípios terão gratuidade garantida pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).
 

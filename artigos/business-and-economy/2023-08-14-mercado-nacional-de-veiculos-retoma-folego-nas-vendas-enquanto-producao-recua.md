@@ -1,12 +1,13 @@
 ---
-title: "Mercado nacional de veículos retoma fôlego nas vendas, enquanto produção recua"
+title: Mercado nacional de veículos retoma fôlego nas vendas, enquanto produção recua
 date: 2023-08-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - Technology
+- Business and Economy
+- Technology
 ---
+
 
 ## ExpoFenabrave, maior encontro do setor automotivo da América Latina, vai debater cenário atual do setor e discutir impacto da tecnologia na retomada.
 

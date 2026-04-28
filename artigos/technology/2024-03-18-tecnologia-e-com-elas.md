@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia é com elas"
+title: Tecnologia é com elas
 date: 2024-03-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Tecnobank: empresa do ramo da Tecnologia tem metade dos cargos da alta liderança ocupados por mulheres. Elas também representam 50% do número total de colaboradores.
 

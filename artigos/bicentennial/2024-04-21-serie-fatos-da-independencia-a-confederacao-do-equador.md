@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A Confederação do Equador"
+title: 'Série Fatos Da Independência: A Confederação do Equador'
 date: 2024-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A Confederação do Equador eclodiu em 2 de julho, um mês depois da nomeação do novo Governador de Armas do Sergipe, Manuel da Silva Daltro. A província não teve participação direta na revolta, mas seus ecos foram sentidos em todo Sergipe e influenciaram vários acontecimentos da segunda metade de 1824.
 

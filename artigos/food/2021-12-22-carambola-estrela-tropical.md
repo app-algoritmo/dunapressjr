@@ -1,11 +1,12 @@
 ---
-title: "Carambola: estrela tropical"
+title: 'Carambola: estrela tropical'
 date: 2021-12-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Merece atenção a conservação e exploração dos recursos vegetais de valor econômico em ambiente tropical, em especial as fruteiras nativas e/ou exóticas, as quais apresentam diversidade de uso, versatilidade no consumo, oferta de vitaminas, fibras naturais, baixo teor de calorias e gorduras. No Brasil, são escassos os pomares e também trabalhos de pesquisa que versem sobre a caramboleira, assim, o pesquisador Paulo Sérgio Rodrigues de Araújo, durante o curso de Doutorado em Agronomia, na Escola Superior de Agricultura Luiz de Queiroz (ESALQ), da Universidade de São Paulo (USP), nesta pesquisa buscou elencar plantas com produção de frutos para consumo fresco, processamento industrial e porta-enxerto. Para este fim, fez-se necessário levar em consideração as características biométricas das plantas: comprimento, diâmetro, massa, no de gomos e sementes e as físico-químicas: acidez total titulável; sólidos solúveis totais, firmeza da polpa, pH e coloração externa dos frutos. O experimento em campo foi desenvolvido em Mirandópolis-SP, entre 1997 a 1999 em pomar comercial, da seguinte forma: (15 plantas selecionadas; 50 frutos por planta; seis coletas em diferentes épocas) e as avaliações foram realizadas em Piracicaba – SP. Para isso, foram destacadas: uma planta para consumo fresco, outra com potencial para processamento e três foram indicadas como porta-enxertos.
 

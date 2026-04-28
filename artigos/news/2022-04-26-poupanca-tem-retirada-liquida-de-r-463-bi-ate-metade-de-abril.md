@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem retirada líquida de R$ 46,3 bi até metade de abril"
+title: Poupança tem retirada líquida de R$ 46,3 bi até metade de abril
 date: 2022-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Banco Central volta a divulgar estatística após suspensão de greve.
 

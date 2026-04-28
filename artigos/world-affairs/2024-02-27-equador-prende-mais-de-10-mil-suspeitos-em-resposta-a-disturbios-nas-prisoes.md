@@ -1,11 +1,12 @@
 ---
-title: "Equador prende mais de 10 mil suspeitos em resposta a distúrbios nas prisões"
+title: Equador prende mais de 10 mil suspeitos em resposta a distúrbios nas prisões
 date: 2024-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde o início dos tumultos desencadeados por distúrbios nas prisões no Equador, mais de 10 mil pessoas foram detidas pelas forças policiais e militares do país. De acordo com informações divulgadas pelo serviço de imprensa da Polícia Nacional do Equador, entre 9 de janeiro e 25 de fevereiro, 10.134 indivíduos foram presos, sendo 268 deles sob suspeita de envolvimento em atividades terroristas.
 

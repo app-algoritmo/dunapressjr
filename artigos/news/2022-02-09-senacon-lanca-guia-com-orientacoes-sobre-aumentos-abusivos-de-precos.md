@@ -1,11 +1,12 @@
 ---
-title: "Senacon lança guia com orientações sobre aumentos abusivos de preços"
+title: Senacon lança guia com orientações sobre aumentos abusivos de preços
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Publicação está disponível na internet.
 

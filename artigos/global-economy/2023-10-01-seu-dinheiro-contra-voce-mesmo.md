@@ -1,11 +1,12 @@
 ---
-title: "Seu Dinheiro Contra Você Mesmo"
+title: Seu Dinheiro Contra Você Mesmo
 date: 2023-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Quando as pessoas entenderem o contexto deste artigo, elas começarão a questionar o sistema. Políticos, Partidos e Instituições não têm dinheiro, tudo pertence ao povo, até mesmo as pedras dos riachos.
 

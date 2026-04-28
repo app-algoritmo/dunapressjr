@@ -1,11 +1,12 @@
 ---
-title: "Proposta torna facultativo o serviço militar no Brasil, dos 18 aos 45 anos"
+title: Proposta torna facultativo o serviço militar no Brasil, dos 18 aos 45 anos
 date: 2023-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 6/23 torna facultativo o alistamento militar. O texto em análise na Câmara dos Deputados altera a [Lei do Alistamento Militar](https://www2.camara.gov.br/legin/fed/lei/1960-1969/lei-4375-17-agosto-1964-377695-norma-pl.html), que atualmente prevê, para fins de seleção ou regularização, a apresentação de todos os brasileiros no ano em que completarem 18 anos de idade.
 

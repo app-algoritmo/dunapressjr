@@ -1,11 +1,12 @@
 ---
-title: "Expectativa de vida ao nascer no Brasil cai após pandemia de covid-19"
+title: Expectativa de vida ao nascer no Brasil cai após pandemia de covid-19
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2022, índice chegou a 75,5 anos, menor patamar desde 2017.
 

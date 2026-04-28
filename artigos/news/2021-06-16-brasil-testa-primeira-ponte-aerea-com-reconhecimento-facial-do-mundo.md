@@ -1,11 +1,12 @@
 ---
-title: "Brasil testa primeira ponte aérea com reconhecimento facial do mundo"
+title: Brasil testa primeira ponte aérea com reconhecimento facial do mundo
 date: 2021-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aeroporto de Congonhas estreia Embarque + Seguro 100% Digital com uso de biometria simultânea de passageiros no trecho entre Rio de Janeiro (Santos Dumont) e São Paulo.
 

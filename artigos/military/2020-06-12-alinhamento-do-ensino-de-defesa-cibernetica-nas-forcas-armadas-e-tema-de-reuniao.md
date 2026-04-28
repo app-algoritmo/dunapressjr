@@ -1,11 +1,12 @@
 ---
-title: "Alinhamento do ensino de Defesa Cibernética nas Forças Armadas é tema de reunião"
+title: Alinhamento do ensino de Defesa Cibernética nas Forças Armadas é tema de reunião
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O estudo de propostas para alinhar o ensino de Defesa Cibernética nas Forças Armadas foi tema de videoconferência em 28 de maio. A reunião contou com a participação do Gerente da Divisão de Ensino, Comandante Anderson da Costa Medeiros, de representantes dos Estados-Maiores da Armada, do Exército e da Aeronáutica, do Departamento e das Diretorias de Ensino das Forças Armadas, além de seus setores de Ciência e Tecnologia.
 

@@ -1,11 +1,12 @@
 ---
-title: "El Salvador: Dois Anos de Regime de Emergência sob Bukele"
+title: 'El Salvador: Dois Anos de Regime de Emergência sob Bukele'
 date: 2024-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde que o presidente de El Salvador, Nayib Bukele, solicitou a declaração do regime de emergência em 27 de março de 2022, já se passaram dois anos. Durante esse período, os níveis de criminalidade diminuíram significativamente, mas as organizações de direitos humanos levantam questões sobre o custo dessa aparente estabilidade.
 

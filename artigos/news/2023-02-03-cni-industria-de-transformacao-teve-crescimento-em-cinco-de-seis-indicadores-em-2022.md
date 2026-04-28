@@ -1,11 +1,13 @@
 ---
-title: "CNI: Indústria de transformação teve crescimento em cinco de seis indicadores em 2022"
+title: 'CNI: Indústria de transformação teve crescimento em cinco de seis indicadores
+  em 2022'
 date: 2023-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O encerramento do ano registrou resultados positivos, como o crescimento das horas trabalhadas, da massa salarial e do rendimento. Apenas a Utilização da Capacidade Instalada caiu.
 

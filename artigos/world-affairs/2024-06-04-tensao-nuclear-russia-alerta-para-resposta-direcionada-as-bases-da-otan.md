@@ -1,11 +1,12 @@
 ---
-title: "Tensão Nuclear: Rússia Alerta para Resposta Direcionada às Bases da OTAN"
+title: 'Tensão Nuclear: Rússia Alerta para Resposta Direcionada às Bases da OTAN'
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Moscou publica mapa nuclear da Europa, destacando a Grécia, em meio a tensões crescentes com a OTAN**.
 

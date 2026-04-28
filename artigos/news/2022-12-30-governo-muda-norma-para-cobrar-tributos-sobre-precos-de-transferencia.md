@@ -1,11 +1,12 @@
 ---
-title: "Governo muda norma para cobrar tributos sobre preços de transferência"
+title: Governo muda norma para cobrar tributos sobre preços de transferência
 date: 2022-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é inibir manipulação de preços de venda de mercadorias.
 

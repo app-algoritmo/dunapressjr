@@ -1,11 +1,12 @@
 ---
-title: "Taxa de desemprego cai para 9,3% no segundo trimestre"
+title: Taxa de desemprego cai para 9,3% no segundo trimestre
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### População ocupada é a maior desde o início da série histórica.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova direito a acompanhante para mulher que realizar exame com sedação"
+title: Câmara aprova direito a acompanhante para mulher que realizar exame com sedação
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta terça-feira (7) projeto de lei que garante às mulheres o direito de indicar acompanhante durante consultas e exames para os quais haja necessidade de sedação. A proposta será enviada ao Senado.
 

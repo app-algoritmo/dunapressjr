@@ -1,11 +1,12 @@
 ---
-title: "A aliança entre George Soros e o Papa Francisco"
+title: A aliança entre George Soros e o Papa Francisco
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A eleição de um jesuíta liberal como papa emocionou os democratas nos Estados Unidos, cuja aliança profana com a esquerda católica remonta a muitas décadas. Barack Obama, um dos mais proeminentes apoiantes do Papa, é há muito um beneficiário desta aliança. O corpo docente da Universidade Jesuíta de Georgetown, em Washington, DC, estava entre os maiores doadores para sua campanha.
 

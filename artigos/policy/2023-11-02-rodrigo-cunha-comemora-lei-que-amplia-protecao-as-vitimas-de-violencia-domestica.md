@@ -1,11 +1,12 @@
 ---
-title: "Rodrigo Cunha comemora lei que amplia proteção às vítimas de violência doméstica"
+title: Rodrigo Cunha comemora lei que amplia proteção às vítimas de violência doméstica
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rodrigo Cunha (Podemos-AL), em pronunciamento no Plenário nesta terça-feira (31) comemorou a promulgação da [Lei 14.713/2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-30;14713), que teve origem no [projeto de lei 2491/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/136476), de sua autoria. A nova lei traz modificações nos códigos civil e penal, com o objetivo de proibir a adoção da guarda compartilhada de filhos em situações de risco de violência doméstica ou familiar praticada por um dos pais.
 

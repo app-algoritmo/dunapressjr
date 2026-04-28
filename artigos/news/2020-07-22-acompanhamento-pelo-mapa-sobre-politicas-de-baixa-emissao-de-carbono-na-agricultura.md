@@ -1,11 +1,12 @@
 ---
-title: "Acompanhamento pelo Mapa sobre políticas de baixa emissão de carbono na agricultura"
+title: Acompanhamento pelo Mapa sobre políticas de baixa emissão de carbono na agricultura
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A reativação da CENABC irá permitir acompanhar e avaliar os resultados alcançados até o momento pelo Plano ABC.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ex-VP da Pfizer: A vacina imprime uma 'operação supranacional' com o objetivo de 'mutilar e matar deliberadamente'"
+title: 'Ex-VP da Pfizer: A vacina imprime uma ''operação supranacional'' com o objetivo
+  de ''mutilar e matar deliberadamente'''
 date: 2023-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Várias toxicidades aparentes foram deliberadamente projetadas no projeto [das supostas vacinas] com o resultado de que coágulos sanguíneos, ataques autoimunes e tempestades de citocinas em todo o corpo eram esperados, dependendo de onde a vacina atingiu um determinado indivíduo ", explicou o Dr. Michael Yeadon para LifeSiteNews.
 

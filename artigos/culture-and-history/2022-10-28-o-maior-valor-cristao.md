@@ -1,12 +1,13 @@
 ---
-title: "O maior valor cristão"
+title: O maior valor cristão
 date: 2022-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - Philosophy
+- Culture and History
+- Philosophy
 ---
+
 
 ## Quais são os grandes valores do cristianismo? Como eles são implementados na sociedade?
 

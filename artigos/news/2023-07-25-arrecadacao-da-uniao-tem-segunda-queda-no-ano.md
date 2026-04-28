@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação da União tem segunda queda no ano"
+title: Arrecadação da União tem segunda queda no ano
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados divulgados pela Receita Federal mostram recuo de 3,37% na arrecadação de impostos e receitas no último mês. 
 

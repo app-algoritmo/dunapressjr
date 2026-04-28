@@ -1,11 +1,12 @@
 ---
-title: "Emissões de debêntures incentivadas captam R$ 1,9 bilhão em março"
+title: Emissões de debêntures incentivadas captam R$ 1,9 bilhão em março
 date: 2021-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mês registrou distribuições vinculadas aos setores de energia, transporte, saneamento e telecomunicações.
 

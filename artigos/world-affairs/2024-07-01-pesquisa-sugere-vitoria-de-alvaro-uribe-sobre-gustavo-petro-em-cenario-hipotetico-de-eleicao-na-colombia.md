@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa Sugere Vitória de Álvaro Uribe sobre Gustavo Petro em Cenário Hipotético de Eleição na Colômbia"
+title: Pesquisa Sugere Vitória de Álvaro Uribe sobre Gustavo Petro em Cenário Hipotético
+  de Eleição na Colômbia
 date: 2024-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente da Colômbia, Álvaro Uribe Vélez, venceria Gustavo Petro em um cenário hipotético de eleição presidencial, de acordo com uma pesquisa realizada por Guarumo e EcoAnalítico. O levantamento aponta que Uribe, do partido Centro Democrático, obteria 25% dos votos, enquanto Petro alcançaria apenas 19,3%.
 

@@ -1,11 +1,13 @@
 ---
-title: "Sociedades limitadas de grande porte estão desobrigadas de publicar demonstrações financeiras no DOU ou em jornais"
+title: Sociedades limitadas de grande porte estão desobrigadas de publicar demonstrações
+  financeiras no DOU ou em jornais
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decisão promoverá redução de custos para os empresários e sociedades, além de maior liberdade no exercício da atividade econômica, melhoria do ambiente de negócios e aumento na geração de emprego e renda.
 

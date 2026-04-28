@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova texto-base do novo código eleitoral"
+title: Câmara aprova texto-base do novo código eleitoral
 date: 2021-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Relatora diz que objetivo é diminuir judicialização das eleições.
 

@@ -1,11 +1,12 @@
 ---
-title: "Supremo Tribunal dos EUA permite que lei de imigração do Texas entre em vigor"
+title: Supremo Tribunal dos EUA permite que lei de imigração do Texas entre em vigor
 date: 2024-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Supremo Tribunal dos Estados Unidos decidiu nesta terça-feira levantar o bloqueio à polêmica lei de imigração do estado do Texas, permitindo que as forças de segurança fronteiriças prendam migrantes irregulares que entrem em território norte-americano vindos do México.
 

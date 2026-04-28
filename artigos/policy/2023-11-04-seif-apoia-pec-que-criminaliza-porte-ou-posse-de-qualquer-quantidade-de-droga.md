@@ -1,11 +1,12 @@
 ---
-title: "Seif apoia PEC que criminaliza porte ou posse de qualquer quantidade de droga"
+title: Seif apoia PEC que criminaliza porte ou posse de qualquer quantidade de droga
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif destacou, em pronunciamento na terça-feira (31), debate realizado na Comissão de Constituição, Justiça e Cidadania (CCJ), também na terça, sobre a proposta de emenda à Constituição que criminaliza o porte ou posse de qualquer quantidade de droga ([PEC 45/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160011)). O parlamentar afirmou que o Brasil está perdendo a batalha contra as drogas e parabenizou o presidente do Senado, Rodrigo Pacheco, pela autoria da proposta.
 

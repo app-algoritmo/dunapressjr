@@ -1,11 +1,12 @@
 ---
-title: "<strong>Highline vence leilão e arremata torres de telefonia fixa da Oi</strong>"
+title: <strong>Highline vence leilão e arremata torres de telefonia fixa da Oi</strong>
 date: 2022-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor da compra foi de R$ 1,697 bilhão.
 

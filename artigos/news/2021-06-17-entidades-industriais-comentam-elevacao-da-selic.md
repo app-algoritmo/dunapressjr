@@ -1,11 +1,12 @@
 ---
-title: "Entidades industriais comentam elevação da Selic"
+title: Entidades industriais comentam elevação da Selic
 date: 2021-06-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa básica de juros passou de 3,5% para 4,25% ao ano.
 

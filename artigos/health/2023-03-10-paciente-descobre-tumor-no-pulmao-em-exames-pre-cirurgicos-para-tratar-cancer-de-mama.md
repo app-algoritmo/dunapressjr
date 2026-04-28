@@ -1,11 +1,13 @@
 ---
-title: "Paciente descobre tumor no pulmão em exames pré-cirúrgicos para tratar câncer de mama"
+title: Paciente descobre tumor no pulmão em exames pré-cirúrgicos para tratar câncer
+  de mama
 date: 2023-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Foram dois baques: primeiro a descoberta de um tumor na mama e, em seguida, outro no pulmão”, conta Simone Barbosa. “Acabei atrasando meus exames de rotina na pandemia da covid-19 e, quando fiz, descobri um caroço no seio do tamanho de um feijão. Durante os exames pré-operatórios para cirurgia de retirada, encontraram uma mancha de 5 centímetros no meu pulmão”, relata. A empresária teve tumores sincrônicos, que surgem no mesmo momento, mas sem relação um com o outro. Realizou duas cirurgias em um intervalo de 30 dias, uma na mama e outra, via robótica, no pulmão. 
 

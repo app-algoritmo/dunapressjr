@@ -1,11 +1,12 @@
 ---
-title: "Capitalização da Eletrobras foi destaque da SEDDM em 2022"
+title: Capitalização da Eletrobras foi destaque da SEDDM em 2022
 date: 2022-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação levará R$ 8,7 bilhões em investimentos para Norte, Nordeste e Sudeste.
 

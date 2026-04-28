@@ -1,11 +1,12 @@
 ---
-title: "No Amazonas, Operação Verde Brasil 2 apreende carga de animais silvestres"
+title: No Amazonas, Operação Verde Brasil 2 apreende carga de animais silvestres
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Verde Brasil 2 apreendeu uma carga contendo 64 animais silvestres no Estado do Amazonas. O Comando Conjunto Príncipe da Beira, que coordena as ações também no Acre e em Rondônia, ainda realizou entre quinta-feira (04) e sábado (06) a apreensão de embarcações, armamento e munição ao revistar veículos, embarcações e aeronaves. Ao todo, mais de R$ 4 milhões foram aplicados em multas e termos de infração.
 

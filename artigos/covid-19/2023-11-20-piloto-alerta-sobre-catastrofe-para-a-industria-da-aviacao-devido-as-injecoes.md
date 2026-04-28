@@ -1,11 +1,12 @@
 ---
-title: "Piloto alerta sobre catástrofe para a indústria da aviação devido às injeções"
+title: Piloto alerta sobre catástrofe para a indústria da aviação devido às injeções
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O capitão Shane Murdock vê a indústria da aviação “à beira do desastre”. Piloto e investigador qualificado de acidentes de aviação há mais de 40 anos, ele encontrou dados oficiais que apoiam a sua afirmação de uma catástrofe global iminente. Ele acrescentou: “Quando reunimos os dados, isso sugere que existe um enorme problema que tem e terá um impacto significativo na segurança da aviação global. Existem evidências suficientes para soar o alarme.
 

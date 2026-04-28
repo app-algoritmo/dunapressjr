@@ -1,11 +1,12 @@
 ---
-title: "Por que a monilìase é comum em crianças?"
+title: Por que a monilìase é comum em crianças?
 date: 2022-01-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 A boca é uma região bastante propícia para o desenvolvimento de microrganismos que, ao mesmo tempo em que são essenciais para o fortalecimento da imunidade, também podem causar danos às pessoas. E o surgimento de doenças como a **monilìase** é uma delas.
 

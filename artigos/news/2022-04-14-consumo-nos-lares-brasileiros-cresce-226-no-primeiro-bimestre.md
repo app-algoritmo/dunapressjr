@@ -1,11 +1,12 @@
 ---
-title: "Consumo nos lares brasileiros cresce 2,26% no primeiro bimestre"
+title: Consumo nos lares brasileiros cresce 2,26% no primeiro bimestre
 date: 2022-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em relação a janeiro, o indicador recuou 0,90%.
 

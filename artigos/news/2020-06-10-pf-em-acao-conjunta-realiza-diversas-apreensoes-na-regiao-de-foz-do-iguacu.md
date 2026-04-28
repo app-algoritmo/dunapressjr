@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, realiza diversas apreensões na região de Foz do Iguaçu"
+title: PF, em ação conjunta, realiza diversas apreensões na região de Foz do Iguaçu
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Integrantes da Polícia Federal, Força Nacional de Segurança Pública, Exército Brasileiro, Marinha do Brasil, em policiamento terrestre e aquático nos portos clandestinos do Rio Paraná e Lago de Itaipu, apreenderam entorpecentes, aparelhos celulares, eletrônicos, material de informática, roupas, perfumes, produtos alimentícios, calçados, veículos, embarcações e a prisão de duas nacionais paraguaias e detiveram 20 paraguaios que desrespeitaram decretos de prevenção ao COVID 19 (os mesmos foram encaminhados após trâmites migratórios as autoridades paraguaias), conforme descrição das ocorrências a seguir.
 

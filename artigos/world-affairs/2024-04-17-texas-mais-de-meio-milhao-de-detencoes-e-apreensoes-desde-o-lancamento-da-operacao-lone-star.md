@@ -1,11 +1,13 @@
 ---
-title: "Texas: Mais de Meio Milhão de Detenções e Apreensões desde o Lançamento da Operação Lone Star"
+title: 'Texas: Mais de Meio Milhão de Detenções e Apreensões desde o Lançamento da
+  Operação Lone Star'
 date: 2024-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador do Texas, Greg Abbott, em colaboração com o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do estado, está intensificando os esforços para proteger a fronteira sul dos Estados Unidos. Sob a Operação Lone Star, uma iniciativa multiagências, o objetivo é combater o contrabando de drogas, armas e pessoas, além de prevenir, detectar e interditar atividades criminosas transnacionais entre os portos de entrada.
 

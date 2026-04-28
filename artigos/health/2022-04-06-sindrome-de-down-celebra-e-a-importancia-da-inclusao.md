@@ -1,11 +1,12 @@
 ---
-title: "Síndrome de Down celebra e a importância da inclusão"
+title: Síndrome de Down celebra e a importância da inclusão
 date: 2022-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A importância de conscientizar a população sobre inclusão e da busca pelas mesmas oportunidades educacionais, sociais e profissionais para todos.
 

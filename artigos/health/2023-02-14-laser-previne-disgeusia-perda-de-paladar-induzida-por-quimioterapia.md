@@ -1,11 +1,12 @@
 ---
-title: "Laser previne disgeusia, perda de paladar, induzida por quimioterapia"
+title: Laser previne disgeusia, perda de paladar, induzida por quimioterapia
 date: 2023-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cássia Nóbrega é cirurgiã-dentista, com habilitação em laserterapia, e doutoranda no Programa de Pós-Graduação em Estomatopatologia pela Universidade Federal do Ceará (CAPES/UFC). Em sua pesquisa, desenvolveu um protocolo que usa o *laser* de baixa potência para prevenir a disgeusia (perda de paladar), nos pacientes em tratamento quimioterápico.
 

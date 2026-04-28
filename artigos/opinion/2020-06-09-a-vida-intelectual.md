@@ -1,11 +1,12 @@
 ---
-title: "A Vida Intelectual"
+title: A Vida Intelectual
 date: 2020-06-09
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Um livro que cativa por sua erudição e clareza, ora, muitas obras eruditas não são felizes em levar o complexo e precioso aos mais humildes e detentores de poucas leituras. Este livro logra fazê-lo e me deliciei com cada conselho e advertência.
 

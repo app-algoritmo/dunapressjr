@@ -1,11 +1,12 @@
 ---
-title: "Risco de infarto aumenta em até 30% no inverno"
+title: Risco de infarto aumenta em até 30% no inverno
 date: 2021-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a chegada do inverno, alguns problemas de saúde, como gripes e resfriados, tornam-se mais comuns, mas não ficam restritos apenas às doenças respiratórias. Segundo o Instituto Nacional de Cardiologia (INC), o risco de sofrer um infarto pode ser até 30% maior nas baixas temperaturas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Agronegócio registra superávit de US$ 43,7 bilhões até abril"
+title: Agronegócio registra superávit de US$ 43,7 bilhões até abril
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Apenas no mês de abril, o agronegócio exportou US$ 14,9 bilhões.
 

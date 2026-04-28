@@ -1,11 +1,12 @@
 ---
-title: "Para a Russia o cenário político internacional mudou significativamente"
+title: Para a Russia o cenário político internacional mudou significativamente
 date: 2022-01-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Previsibilidade e estabilidade são os fatores mais cruciais nos assuntos mundiais, e o presidente russo, Vladimir Putin, reiterou isso várias vezes. No entanto, o mundo obviamente careceu de ambos em 2021.
 

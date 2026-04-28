@@ -1,11 +1,13 @@
 ---
-title: "Chefe da OMS Desencadeia Controvérsia ao Declarar Guerra à Carne e à Agricultura em Nome do Clima"
+title: Chefe da OMS Desencadeia Controvérsia ao Declarar Guerra à Carne e à Agricultura
+  em Nome do Clima
 date: 2024-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 O chefe da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, desencadeou uma onda de controvérsia ao declarar guerra à carne e à agricultura, atribuindo-lhes a culpa pelas mudanças climáticas. Tedros argumenta que os sistemas alimentares atuais estão prejudicando tanto a saúde humana quanto o meio ambiente, contribuindo significativamente para as emissões de gases de efeito estufa e o fardo global de doenças.
 

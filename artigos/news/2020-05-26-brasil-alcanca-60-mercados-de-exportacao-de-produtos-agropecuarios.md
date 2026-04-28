@@ -1,11 +1,12 @@
 ---
-title: "Brasil alcança 60 mercados de exportação de produtos agropecuários"
+title: Brasil alcança 60 mercados de exportação de produtos agropecuários
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A conquista mais recente foi para a exportação de lácteos para mercado tailandês.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fernández recua e agora diz que vai acatar a decisão da Corte"
+title: Fernández recua e agora diz que vai acatar a decisão da Corte
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alberto Fernández reconheceu que deve cumprir a decisão do Supremo Tribunal de Justiça, mas pagará à Cidade com títulos.
 

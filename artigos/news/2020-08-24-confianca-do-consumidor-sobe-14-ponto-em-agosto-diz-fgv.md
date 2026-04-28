@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor sobe 1,4 ponto em agosto, diz FGV"
+title: Confiança do consumidor sobe 1,4 ponto em agosto, diz FGV
 date: 2020-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador atingiu 80,2 pontos, em uma escala de zero a 200 pontos
 

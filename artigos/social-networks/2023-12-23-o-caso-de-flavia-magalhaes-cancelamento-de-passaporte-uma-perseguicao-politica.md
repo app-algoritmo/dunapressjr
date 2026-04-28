@@ -1,12 +1,13 @@
 ---
-title: "O Caso de Flávia Magalhães: Cancelamento de Passaporte, uma Perseguição Política?"
+title: 'O Caso de Flávia Magalhães: Cancelamento de Passaporte, uma Perseguição Política?'
 date: 2023-12-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
-  - World Affairs
+- Social networks
+- World Affairs
 ---
+
 
 A história de Flávia Magalhães, uma brasileira residente na Flórida, nos EUA, é marcada por reviravoltas surpreendentes envolvendo perseguição política e o cancelamento inesperado de seu passaporte. O incidente ocorreu quando ela viajou ao Brasil para um tratamento dentário e foi informada pela Polícia Federal de que seu passaporte estava suspenso, alegando envolvimento em falsificação de documentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Morte de Alexei Navalny na Rússia: Um Alerta para Bolsonaro no Brasil"
+title: 'Morte de Alexei Navalny na Rússia: Um Alerta para Bolsonaro no Brasil'
 date: 2024-02-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente morte de Alexei Navalny, o principal opositor do governo Putin, na prisão IK-3, na remota região polar da Rússia, ecoa como um alerta global, especialmente para líderes políticos que desafiam sistemas estabelecidos. Enquanto no Brasil, o presidente Jair Bolsonaro discorda do sistema eleitoral e levanta questionamentos sobre sua legitimidade, a tragédia de Navalny serve como um exemplo sombrio das consequências que podem advir quando a dissidência política é silenciada à força.
 

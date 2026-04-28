@@ -1,11 +1,12 @@
 ---
-title: "O Poeta dos Pampas - Longa vida a Carlos Nejar!"
+title: O Poeta dos Pampas - Longa vida a Carlos Nejar!
 date: 2020-01-15
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Luís Carlos Verzoni Nejar,
 conhecido popularmente como Carlos, é um poeta, ficcionista, tradutor e crítico

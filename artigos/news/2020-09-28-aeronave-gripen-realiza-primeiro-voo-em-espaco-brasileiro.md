@@ -1,11 +1,12 @@
 ---
-title: "Aeronave Gripen realiza primeiro voo em espaço brasileiro"
+title: Aeronave Gripen realiza primeiro voo em espaço brasileiro
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De Navegantes (SC) para Gavião Peixoto (SP). Esse foi o primeiro voo em espaço brasileiro realizado pelo Gripen. A aeronave, produzida juntamente com a empresa sueca Saab, faz parte de uma parceria que prevê a construção de 36 caças. O primeiro Gripen chegou ao País no domingo (20) após ter sido transportado de navio da Suécia.
 A aeronave ficará no Centro de Ensaios em Voo do Gripen, na planta da Embraer, em São Paulo. A estrutura foi construída para a transferência de tecnologia, suporte e atualizações no ciclo de vida da plataforma na Força Aérea Brasileira (FAB).

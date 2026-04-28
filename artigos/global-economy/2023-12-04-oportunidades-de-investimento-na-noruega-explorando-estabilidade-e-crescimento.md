@@ -1,11 +1,12 @@
 ---
-title: "Oportunidades de Investimento na Noruega: Explorando Estabilidade e Crescimento"
+title: 'Oportunidades de Investimento na Noruega: Explorando Estabilidade e Crescimento'
 date: 2023-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A Noruega, conhecida por sua estabilidade econômica e padrão de vida elevado, emerge como um destino atraente para investidores. Ao considerar investimentos no país, uma opção sólida é o mercado imobiliário. Com uma demanda constante por moradias, investir em propriedades para venda ou aluguel pode ser uma estratégia robusta.
 

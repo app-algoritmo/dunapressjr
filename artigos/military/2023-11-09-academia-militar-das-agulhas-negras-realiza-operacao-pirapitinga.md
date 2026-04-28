@@ -1,11 +1,12 @@
 ---
-title: "Academia Militar das Agulhas Negras realiza Operação Pirapitinga"
+title: Academia Militar das Agulhas Negras realiza Operação Pirapitinga
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No período de 28 de outubro a 5 de novembro, a Academia Militar das Agulhas Negras (AMAN) conduziu a Operação Pirapitinga – Manobra Escolar 2023, como coroamento de seu ano de instrução. O exercício no terreno foi desenvolvido no Campo de Instrução da Academia e nas localidades de Porto Real, Quatis, Pedra Selada e Fumaça, reunindo 2.200 militares, mais de 300 viaturas militares e 5 aeronaves.
 

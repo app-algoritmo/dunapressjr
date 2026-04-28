@@ -1,11 +1,12 @@
 ---
-title: "Aumento Alarmante: Mesquitas Clandestinas em Roma Quase Dobram em uma Década"
+title: 'Aumento Alarmante: Mesquitas Clandestinas em Roma Quase Dobram em uma Década'
 date: 2024-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com dados do Ministério do Interior italiano, o número de mesquitas clandestinas em Roma quase dobrou nos últimos dez anos, saltando de 30 para 53. Esses locais de oração muçulmanos não oficiais, escondidos em porões e garagens pela cidade, estão sob vigilância das autoridades antiterroristas devido a preocupações com atividades islâmicas.
 

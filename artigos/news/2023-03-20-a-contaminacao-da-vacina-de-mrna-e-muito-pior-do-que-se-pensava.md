@@ -1,11 +1,12 @@
 ---
-title: "A contaminação da vacina de mRNA é muito pior do que se pensava"
+title: A contaminação da vacina de mRNA é muito pior do que se pensava
 date: 2023-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A contaminação por DNA de vacinas de mRNA é muito maior do que se pensava anteriormente, até 35%, e o papel do DNA na indução de células humanas para produzir a proteína spike a longo prazo foi confirmado por pesquisas recentes.
 

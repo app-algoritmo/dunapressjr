@@ -1,11 +1,13 @@
 ---
-title: "Semasa de Itajaí vai conceder isenção da tarifa durante período de excesso de salinidade"
+title: Semasa de Itajaí vai conceder isenção da tarifa durante período de excesso
+  de salinidade
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí aprovou nesta terça-feira (1º), com 16 votos favoráveis, o [Projeto de Lei Ordinária nº 165/2020](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria165_2020.pdf), de autoria do Executivo Municipal. O projeto autoriza O Serviço Municipal de Água, Saneamento Básico e Infraestrutura (Semasa), a conceder a isenção da tarifa de abastecimento de água entre 13 de outubro e 6 de novembro, período em que houve excesso de salinidade.
  

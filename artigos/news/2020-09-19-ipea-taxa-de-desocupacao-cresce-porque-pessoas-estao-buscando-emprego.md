@@ -1,11 +1,12 @@
 ---
-title: "Ipea: taxa de desocupação cresce porque pessoas estão buscando emprego"
+title: 'Ipea: taxa de desocupação cresce porque pessoas estão buscando emprego'
 date: 2020-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa atingiu no fim do mês passado maior percentual desde maio.
 

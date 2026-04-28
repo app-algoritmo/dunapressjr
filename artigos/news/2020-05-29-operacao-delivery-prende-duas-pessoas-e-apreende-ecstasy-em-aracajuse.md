@@ -1,11 +1,12 @@
 ---
-title: "Operação Delivery prende duas pessoas e apreende ecstasy em Aracaju/SE"
+title: Operação Delivery prende duas pessoas e apreende ecstasy em Aracaju/SE
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aracaju/SE – Dando prosseguimento às investigações de combate ao tráfico de drogas sintéticas nesta capital, policiais federais cumpriram, na manhã desta quarta-feira (27/5), um mandado de busca e apreensão expedido pelo Juízo da 2ª Vara Criminal do TJ/SE.
 

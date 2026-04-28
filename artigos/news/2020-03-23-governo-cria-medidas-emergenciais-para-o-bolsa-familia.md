@@ -1,11 +1,12 @@
 ---
-title: "Governo cria medidas emergenciais para o Bolsa Família"
+title: Governo cria medidas emergenciais para o Bolsa Família
 date: 2020-03-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Segundo o ministro Onyx, Bolsa Família vai chegar a cerca de 14 milhões de família, o maior número da história do programa. *
 

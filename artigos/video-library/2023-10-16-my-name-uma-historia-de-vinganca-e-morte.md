@@ -1,11 +1,12 @@
 ---
-title: "My Name – Uma História de Vingança e Morte"
+title: My Name – Uma História de Vingança e Morte
 date: 2023-10-16
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

@@ -1,11 +1,13 @@
 ---
-title: "Jovens brasileiros relatam vontade de abandonar a escola e queda da renda familiar na pandemia, revela pesquisa"
+title: Jovens brasileiros relatam vontade de abandonar a escola e queda da renda familiar
+  na pandemia, revela pesquisa
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisa feita com mais de 33 mil entrevistados, em todo o país, mostra o impacto do novo coronavírus (Covid-19) na vida dos jovens. Com base nos dados coletados, o levantamento revela a percepção dos participantes do estudo quanto aos reflexos da pandemia na rotina e os sentimentos compartilhados por eles após a disseminação da doença.
 

@@ -1,11 +1,12 @@
 ---
-title: "Chega ao Brasil carga de máscaras e kits de testes rápidos"
+title: Chega ao Brasil carga de máscaras e kits de testes rápidos
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O oitavo avião com insumos comprados pela Vale na China para combater a disseminação do novo coronavírus pousou na manhã da terça-feira (28) no Aeroporto Internacional de Guarulhos, em São Paulo. Na carga, estavam um milhão de kits de teste rápido, 320 mil máscaras cirúrgicas descartáveis e 140 mil máscaras N95, que são as mais indicadas para médicos e enfermeiros expostos a ambientes contaminados pelo vírus. O Ministério da Infraestrutura está monitorando e apoiando a logística e distribuição dos equipamentos importados.
 

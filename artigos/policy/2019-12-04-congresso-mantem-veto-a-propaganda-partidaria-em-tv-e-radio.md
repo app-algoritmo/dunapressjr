@@ -1,11 +1,12 @@
 ---
-title: "Congresso mantém veto à propaganda partidária em TV e rádio"
+title: Congresso mantém veto à propaganda partidária em TV e rádio
 date: 2019-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Veto presidencial foi mantido pela votação entre os senadores
 

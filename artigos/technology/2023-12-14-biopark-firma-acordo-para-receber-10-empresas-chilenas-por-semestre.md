@@ -1,11 +1,12 @@
 ---
-title: "Biopark firma acordo para receber 10 empresas chilenas por semestre"
+title: Biopark firma acordo para receber 10 empresas chilenas por semestre
 date: 2023-12-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Troca de experiências e tecnologias prevê a vinda de 10 startups chilenas a cada semestre para o Biopark; o mesmo deve ocorrer com outros países latinos.
 

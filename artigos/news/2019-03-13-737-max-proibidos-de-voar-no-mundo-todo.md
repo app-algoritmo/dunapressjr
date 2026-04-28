@@ -1,11 +1,12 @@
 ---
-title: "737 Max Proibidos De Voar No Mundo Todo"
+title: 737 Max Proibidos De Voar No Mundo Todo
 date: 2019-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Aerolito: Assista agora no maior canal especialista de segurança aeronáutica comercial do Brasil.
 

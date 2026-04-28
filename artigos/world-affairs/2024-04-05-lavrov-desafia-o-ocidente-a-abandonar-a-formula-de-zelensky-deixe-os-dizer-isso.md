@@ -1,11 +1,13 @@
 ---
-title: "Lavrov desafia o Ocidente a abandonar a 'fórmula' de Zelensky: 'Deixe-os dizer isso'"
+title: 'Lavrov desafia o Ocidente a abandonar a ''fórmula'' de Zelensky: ''Deixe-os
+  dizer isso'''
 date: 2024-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro das Relações Exteriores da Rússia, Sergey Lavrov, desafiou o Ocidente a se afastar da "fórmula de paz" proposta pelo presidente ucraniano, Volodymyr Zelensky, e convidou-os a anunciar quando estiverem prontos para isso. Lavrov afirmou que a decisão de abandonar essa abordagem não depende da Rússia, mas sim do Ocidente.
 

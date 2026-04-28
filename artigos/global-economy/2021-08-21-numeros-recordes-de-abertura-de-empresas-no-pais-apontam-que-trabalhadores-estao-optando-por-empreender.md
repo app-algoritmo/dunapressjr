@@ -1,11 +1,13 @@
 ---
-title: "Números recordes de abertura de empresas no país apontam que trabalhadores estão optando por empreender"
+title: Números recordes de abertura de empresas no país apontam que trabalhadores
+  estão optando por empreender
 date: 2021-08-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O desemprego e a instabilidade financeira certamente foram reflexos amargos produzidos pela pandemia, jogando milhares de trabalhadores num cenário de incerteza e insegurança como poucas vezes visto. O mercado de trabalho sofreu mudanças radicais, trazendo transformações profundas sobre a forma como as pessoas se relacionam com o trabalho e garantem renda. O empreendedorismo, apesar de toda a crise, foi a saída encontrada para muitos. 
 

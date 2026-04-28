@@ -1,11 +1,12 @@
 ---
-title: "Marco Legal da Nanotecnologia avança"
+title: Marco Legal da Nanotecnologia avança
 date: 2020-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) aprovou, nesta
 quarta-feira (19), o Marco Legal da Nanotecnologia, com incentivos à pesquisa e

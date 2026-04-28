@@ -1,11 +1,12 @@
 ---
-title: "Família convive com casos de diabetes tipo 1 e 2 e reorganiza rotina de cuidados"
+title: Família convive com casos de diabetes tipo 1 e 2 e reorganiza rotina de cuidados
 date: 2024-06-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Tratamento é disponibilizado gratuitamente nas unidades de saúde; Prati-Donaduzzi produziu mais de 6 bilhões de doses nos últimos três anos para controle do diabetes tipo 2.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto de lei abre caminho para volta das aulas presenciais em Santa Catarina"
+title: Projeto de lei abre caminho para volta das aulas presenciais em Santa Catarina
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um debate acalorado marcou a votação, pelo plenário da Assembleia Legislativa, nesta quarta-feira (2), de uma subemenda ao projeto de lei (PL) 182/2020 que, na prática, autoriza o retorno das aulas presenciais em todos os níveis de ensino em Santa Catarina. Após um intenso debate – que começou contrapondo o autor da subemenda, deputado Bruno Souza (Novo), e a deputada Luciane Carminatti (PT), e teve a participação de mais 12 parlamentares – o PL foi aprovado por maioria dos votos. Votaram contra os deputados Fabiano da Luz, Luciane Carminatti, Neodi Saretta e Padre Pedro Baldissera, todos do PT.
 

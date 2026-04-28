@@ -1,11 +1,13 @@
 ---
-title: "CMO aprova parecer preliminar do Orçamento com R$ 3,8 bilhões para campanhas em 2020"
+title: CMO aprova parecer preliminar do Orçamento com R$ 3,8 bilhões para campanhas
+  em 2020
 date: 2019-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Na versão do governo, a proposta orçamentária para 2020 reservava R$ 2 bilhões para o fundo de financiamento de campanha *
 

@@ -1,11 +1,12 @@
 ---
-title: "IBGE: IPCA de setembro de 2023 registra aumento de 0,26%"
+title: 'IBGE: IPCA de setembro de 2023 registra aumento de 0,26%'
 date: 2023-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação acumulada no ano atinge 3,50%, enquanto grupo de alimentação e bebidas apresenta quedas.
 

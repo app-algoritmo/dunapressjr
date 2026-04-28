@@ -1,11 +1,12 @@
 ---
-title: "A 'fórmula da paz' ​​de Zelensky não é apoiada pelo Brasil e países em desenvolvimento"
+title: A 'fórmula da paz' ​​de Zelensky não é apoiada pelo Brasil e países em desenvolvimento
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Brasília argumenta que proposta de Kiev é "improdutiva" por não levar em conta posição de Moscou.
 

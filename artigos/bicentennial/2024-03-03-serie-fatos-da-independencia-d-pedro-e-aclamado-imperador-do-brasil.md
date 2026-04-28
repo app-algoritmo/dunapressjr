@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: D. Pedro é aclamado Imperador do Brasil"
+title: 'Série Fatos Da Independência: D. Pedro é aclamado Imperador do Brasil'
 date: 2024-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Como se não bastasse a disputa em torno de quem iria conceder o título de Defensor Perpétuo do Brasil ao Príncipe Regente, a aclamação de Dom Pedro também virou ponto de disputa. Em 1822, bastou o general Labatut e seus homens partirem em direção à Bahia e a tensão política voltou a tomar conta de Alagoas. Quando em 30 de novembro a notícia da aclamação, ocorrida no Rio de Janeiro, alcançou a vila das Alagoas o Senado da Câmara tomou a frente e imediatamente promoveu as celebrações. Reuniu seus oficiais, convidou os membros da Junta, da nobreza, do clero e convocou o povo. Sem hesitar em nenhum momento, o juiz presidente do Senado, nos Paços do Conselho, da varanda da Casa da Câmara deu em voz alta e clara três vezes vivas ao Imperador Constitucional. Foi prontamente respondido com muito entusiasmo pelos presentes. Depois de tão feliz e bem-sucedido ato, seguiram todos para a Igreja Matriz, onde foram celebrados uma Missa Solene e um *Te Deum* em ação de graças.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mulher que trabalha como servente de pedreiro, para manter abrigo com mais de 80 cães pede socorro"
+title: Mulher que trabalha como servente de pedreiro, para manter abrigo com mais
+  de 80 cães pede socorro
 date: 2021-10-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## A Historia da Protetora Juliane, é um exemplo de superação, de quem soube transformar tristeza em alegria, nos ensina como transformar a dor da perca em prol de um objetivo, que contribua para um mundo melhor.
 

@@ -1,11 +1,12 @@
 ---
-title: "Política Nacional de Cibersegurança já está vigorando no Brasil"
+title: Política Nacional de Cibersegurança já está vigorando no Brasil
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Decreto presidencial foi publicado no Diário Oficial da União.
 

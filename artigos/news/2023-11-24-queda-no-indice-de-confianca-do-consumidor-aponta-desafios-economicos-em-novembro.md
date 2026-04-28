@@ -1,11 +1,12 @@
 ---
-title: "Queda no Índice de Confiança do Consumidor aponta desafios econômicos em novembro"
+title: Queda no Índice de Confiança do Consumidor aponta desafios econômicos em novembro
 date: 2023-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados do FGV IBRE indicam retração no otimismo, especialmente entre consumidores de renda baixa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Secretário de Estado dos EUA debaterá crise do petróleo na Arábia"
+title: Secretário de Estado dos EUA debaterá crise do petróleo na Arábia
 date: 2019-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O secretário de Estado dos Estados Unidos, Mike Pompeo,
 seguiu para a Arábia Saudita onde discutirá possíveis respostas para o que os

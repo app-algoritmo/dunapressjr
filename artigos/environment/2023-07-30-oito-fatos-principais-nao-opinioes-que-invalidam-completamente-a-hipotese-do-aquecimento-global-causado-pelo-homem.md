@@ -1,11 +1,13 @@
 ---
-title: "Oito fatos principais - NÃO opiniões - que invalidam completamente a hipótese do aquecimento global causado pelo homem"
+title: Oito fatos principais - NÃO opiniões - que invalidam completamente a hipótese
+  do aquecimento global causado pelo homem
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 1) A “crise do aquecimento global” já foi uma “crise do resfriamento global”! Na década de 1960, o clima começou a esquentar após décadas de aquecimento que causaram o Dust Bowl na década de 1930. Mas à medida que a Terra esfriava, os níveis de CO2 aumentavam ao mesmo tempo. Dióxido de carbono e superpopulação foram responsabilizados por isso.
 

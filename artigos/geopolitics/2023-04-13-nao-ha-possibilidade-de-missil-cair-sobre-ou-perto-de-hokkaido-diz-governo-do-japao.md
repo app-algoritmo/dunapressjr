@@ -1,12 +1,14 @@
 ---
-title: "Não há possibilidade de míssil cair sobre ou perto de Hokkaido, diz governo do Japão"
+title: Não há possibilidade de míssil cair sobre ou perto de Hokkaido, diz governo
+  do Japão
 date: 2023-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 O governo do Japão diz que não há mais possibilidade de um míssil norte-coreano cair sobre ou perto da província de Hokkaido, no extremo norte.
 

@@ -1,11 +1,13 @@
 ---
-title: "Crianças portando facas e armas de brinquedo representam cenas violentas em evento transmitido pela televisão do Hamas"
+title: Crianças portando facas e armas de brinquedo representam cenas violentas em
+  evento transmitido pela televisão do Hamas
 date: 2023-10-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Um relatório  de 2003 sobre a educação de crianças na Palestina já previa a formação de futuros terroristas. [Clique aqui para acessar](https://dunapress.org/2021/05/13/palestian-education-teaching-peace-or-war-educacao-palestina-ensinando-a-paz-ou-a-guerra/)
 

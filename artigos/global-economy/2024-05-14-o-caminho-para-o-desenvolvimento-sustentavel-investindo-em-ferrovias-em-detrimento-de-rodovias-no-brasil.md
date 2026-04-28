@@ -1,11 +1,13 @@
 ---
-title: "O Caminho para o Desenvolvimento Sustentável: Investindo em Ferrovias em Detrimento de Rodovias no Brasil"
+title: 'O Caminho para o Desenvolvimento Sustentável: Investindo em Ferrovias em Detrimento
+  de Rodovias no Brasil'
 date: 2024-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Brasil, com sua vasta extensão territorial e crescente demanda por transporte, enfrenta um dilema crucial: investir em ferrovias ou rodovias para impulsionar seu desenvolvimento econômico e social. Embora as rodovias tenham desempenhado um papel significativo na infraestrutura de transporte do país, há uma forte argumentação em favor do aumento dos investimentos em ferrovias.
 

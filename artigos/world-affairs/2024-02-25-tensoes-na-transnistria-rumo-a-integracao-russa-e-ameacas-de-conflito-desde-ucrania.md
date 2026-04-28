@@ -1,11 +1,13 @@
 ---
-title: "Tensões na Transnístria: Rumo à Integração Russa e Ameaças de Conflito desde Ucrânia"
+title: 'Tensões na Transnístria: Rumo à Integração Russa e Ameaças de Conflito desde
+  Ucrânia'
 date: 2024-02-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A possível integração da **[Transnístria](https://pt.wikipedia.org/wiki/Transn%C3%ADstria)** à Federação Russa, em meio a ameaças de guerra por parte da Ucrânia, lança luz sobre as tensões geopolíticas na região. Desde sua separação da República da Moldávia na década de 1990, a Transnístria tem sido palco de disputas políticas e étnicas, agora amplificadas pelo aumento da pressão da Moldávia e pela postura assertiva da Ucrânia.
 

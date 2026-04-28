@@ -1,11 +1,12 @@
 ---
-title: "Caixa aumenta faixas de renda para Casa Verde e Amarela"
+title: Caixa aumenta faixas de renda para Casa Verde e Amarela
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida foi aprovada por Conselho Curador do FGTS no início do mês.
 

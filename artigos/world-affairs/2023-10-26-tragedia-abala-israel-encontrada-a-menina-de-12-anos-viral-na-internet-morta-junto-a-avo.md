@@ -1,11 +1,13 @@
 ---
-title: "Tragédia Abala Israel: Encontrada a Menina de 12 Anos, Viral na Internet, Morta junto à Avó"
+title: 'Tragédia Abala Israel: Encontrada a Menina de 12 Anos, Viral na Internet,
+  Morta junto à Avó'
 date: 2023-10-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma reviravolta angustiante para a família e a nação israelense, os corpos da jovem Noya Dan, de 12 anos, e de sua avó Carmela, de 80 anos, foram encontrados 13 dias após o terrível massacre perpetrado pelo grupo Hamas. No início, havia um profundo temor de que as duas tivessem sido feitas reféns em Gaza pelo Hamas. Noya Dan se tornou uma figura icônica no sofrimento do povo israelense nas mãos do Hamas, ganhando atenção internacional após a autora britânica J.K. Rowling compartilhar uma postagem destacando a situação da garota, que era uma fervorosa fã da série Harry Potter.
 

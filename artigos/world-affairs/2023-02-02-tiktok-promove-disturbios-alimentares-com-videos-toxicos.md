@@ -1,11 +1,12 @@
 ---
-title: "TikTok promove distúrbios alimentares com vídeos tóxicos"
+title: TikTok promove distúrbios alimentares com vídeos tóxicos
 date: 2023-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com um bilhão de usuários em todo o mundo, a representação do TikTok de corpos "ideais" irrealistas e a promoção da anorexia é um sinal de preocupação crescente com o impacto psicológico do aplicativo nos jovens.
 

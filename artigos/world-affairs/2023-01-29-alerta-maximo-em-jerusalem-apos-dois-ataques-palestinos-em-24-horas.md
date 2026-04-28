@@ -1,11 +1,12 @@
 ---
-title: "Alerta máximo em Jerusalém após dois ataques palestinos em 24 horas"
+title: Alerta máximo em Jerusalém após dois ataques palestinos em 24 horas
 date: 2023-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Jerusalém está em estado de alerta máximo neste sábado, depois de ter sido o epicentro de dois ataques com armas de fogo em menos de 24 horas, que até agora deixaram sete israelenses mortos e cinco feridos, em meio a uma escalada de violência na área.
 

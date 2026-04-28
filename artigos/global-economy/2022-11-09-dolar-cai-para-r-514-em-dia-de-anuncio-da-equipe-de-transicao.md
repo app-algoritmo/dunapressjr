@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,14 em dia de anúncio da equipe de transição"
+title: Dólar cai para R$ 5,14 em dia de anúncio da equipe de transição
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores sobe 0,7%, impulsionada por mineradoras.
 

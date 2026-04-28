@@ -1,11 +1,12 @@
 ---
-title: "PF apreende mais de 7 kg de skunk"
+title: PF apreende mais de 7 kg de skunk
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Alegre/RS - A Polícia Federal apreendeu na quarta-feira (3/6),mais de 7 kg de skunk, na rodovia RST 101, em Capivari do Sul. A ação teve o apoio do Batalhão Rodoviário da Brigada Militar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Chanceler Argentina Critica Iniciativas Ideológicas na OEA"
+title: Chanceler Argentina Critica Iniciativas Ideológicas na OEA
 date: 2024-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A chanceler argentina, Diana Mondino, fez uma crítica contundente na 54ª Assembleia Geral da Organização dos Estados Americanos (OEA) na quinta-feira, exigindo que a entidade não promova “iniciativas ideológicas” que contrariam a “defesa da vida, dos direitos individuais e da liberdade”.
 

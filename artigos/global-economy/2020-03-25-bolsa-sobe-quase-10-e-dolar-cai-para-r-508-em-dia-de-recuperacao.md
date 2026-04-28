@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe quase 10%, e dólar cai para R$ 5,08 em dia de recuperação"
+title: Bolsa sobe quase 10%, e dólar cai para R$ 5,08 em dia de recuperação
 date: 2020-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em Nova York, índice Dow Jones teve melhor sessão desde 1933
 

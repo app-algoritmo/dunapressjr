@@ -1,11 +1,13 @@
 ---
-title: "A Covid acabou e, em seu rastro, há seis milhões de mortes evitáveis, 36 milhões de mortes por “vacinas” e US$ 1,8 trilhão jogado fora em máscaras e testes inúteis"
+title: A Covid acabou e, em seu rastro, há seis milhões de mortes evitáveis, 36 milhões
+  de mortes por “vacinas” e US$ 1,8 trilhão jogado fora em máscaras e testes inúteis
 date: 2023-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A “pandemia” do coronavírus Wuhan (Covid-19) finalmente acabou, e tudo o que conseguimos foram dezenas de milhões de mortes desnecessárias e a perda de US$ 1,8 trilhão, que foi [desperdiçado](https://peterhalligan.substack.com/p/post-mortem-on-the-c19-pandemic-6) em máscaras faciais, kits de “teste” de PCR e todos os tipos de outras bobagens inúteis e tirânicas que destruíram o pouco que restava de coesão social e normalidade.
 

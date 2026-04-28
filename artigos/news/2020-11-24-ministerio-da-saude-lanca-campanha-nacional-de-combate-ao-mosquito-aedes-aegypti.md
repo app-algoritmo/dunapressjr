@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde lança campanha nacional de combate ao mosquito Aedes aegypti"
+title: Ministério da Saúde lança campanha nacional de combate ao mosquito Aedes aegypti
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um chamado para que a população participe do combate ao mosquito *Aedes aegypti*, transmissor da dengue, zika e chikungunya, foi feito nesta terça-feira (24) pelo Ministério da Saúde. Foi lançada a campanha nacional “Combater o mosquito é com você, comigo, com todo mundo”.
 

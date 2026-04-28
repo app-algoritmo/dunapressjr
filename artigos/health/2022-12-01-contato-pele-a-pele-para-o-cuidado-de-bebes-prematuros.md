@@ -1,11 +1,12 @@
 ---
-title: "Contato Pele a Pele para o Cuidado de Bebês Prematuros"
+title: Contato Pele a Pele para o Cuidado de Bebês Prematuros
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Esse contato, iniciado imediatamente após o nascimento, tem se mostrado uma prática extremamente benéfica e eficaz, especialmente importante no caso de bebês prematuros. 
 

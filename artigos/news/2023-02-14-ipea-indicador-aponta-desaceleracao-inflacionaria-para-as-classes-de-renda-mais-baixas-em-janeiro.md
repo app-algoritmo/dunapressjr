@@ -1,11 +1,13 @@
 ---
-title: "IPEA: Indicador aponta desaceleração inflacionária para as classes de renda mais baixas em janeiro"
+title: 'IPEA: Indicador aponta desaceleração inflacionária para as classes de renda
+  mais baixas em janeiro'
 date: 2023-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No período, o impacto da inflação foi maior para as famílias de renda média-alta e alta.
 

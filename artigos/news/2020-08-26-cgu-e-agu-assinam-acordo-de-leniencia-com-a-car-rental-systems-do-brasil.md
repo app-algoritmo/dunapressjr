@@ -1,11 +1,12 @@
 ---
-title: "CGU e AGU assinam acordo de leniência com a Car Rental Systems do Brasil"
+title: CGU e AGU assinam acordo de leniência com a Car Rental Systems do Brasil
 date: 2020-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa comprometeu-se a ressarcir cerca R$ 700 mil, relativos à multa da Lei de Improbidade Administrativa e pagamento de vantagens indevidas.
 

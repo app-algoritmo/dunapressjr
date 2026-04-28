@@ -1,11 +1,12 @@
 ---
-title: "Ministério pede zelo com crianças e adolescentes durante a quarentena"
+title: Ministério pede zelo com crianças e adolescentes durante a quarentena
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) divulgou, nesta terça-feira (24), uma mensagem voltada às famílias brasileiras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que aumenta pena para crime de injúria racial"
+title: Câmara aprova projeto que aumenta pena para crime de injúria racial
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (7) proposta que inclui agravantes para o crime de injúria racial, cuja pena é aumentada de 1 a 3 anos de reclusão para 2 a 5 anos. A proposta seguirá para sanção presidencial.
 

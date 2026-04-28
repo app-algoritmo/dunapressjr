@@ -1,11 +1,13 @@
 ---
-title: "Robert F. Kennedy Jr: “CBDCs são os mecanismos definitivos para vigilância e controle social”"
+title: 'Robert F. Kennedy Jr: “CBDCs são os mecanismos definitivos para vigilância
+  e controle social”'
 date: 2023-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Opondo-se à postura pró-CBDC de vários democratas de alto perfil.
 

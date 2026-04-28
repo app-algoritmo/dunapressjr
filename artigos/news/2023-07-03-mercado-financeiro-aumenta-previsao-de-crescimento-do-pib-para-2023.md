@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta previsão de crescimento do PIB para 2023"
+title: Mercado financeiro aumenta previsão de crescimento do PIB para 2023
 date: 2023-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Boletim Focus do Banco Central indica projeção de 2,19% de crescimento econômico para o Brasil neste ano.
 

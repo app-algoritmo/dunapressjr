@@ -1,11 +1,12 @@
 ---
-title: "Plano Safra concede crédito de mais de R$ 340 bilhões aos produtores rurais"
+title: Plano Safra concede crédito de mais de R$ 340 bilhões aos produtores rurais
 date: 2022-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos são disponibilizados com taxas de juro adequadas e que ajudam a estimular o desenvolvimento da agropecuária.
 

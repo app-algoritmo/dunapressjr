@@ -1,11 +1,13 @@
 ---
-title: "Eventos culturais e atividades festivas, programação comemorativa pelo aniversário de 162 anos de Itajaí"
+title: Eventos culturais e atividades festivas, programação comemorativa pelo aniversário
+  de 162 anos de Itajaí
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 Iniciam nesta quinta-feira (02) os eventos e atividades comemorativas pelos 162 anos de emancipação de Itajaí. O aniversário da cidade é no dia 15 de junho, mas a programação promovida pelo Município se estenderá até 02 de julho. As atrações contemplam pessoas de todas as idades e ocorrerão em diversos pontos da cidade.
 

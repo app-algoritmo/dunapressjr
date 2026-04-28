@@ -1,11 +1,12 @@
 ---
-title: "Aulas on-line: 5 dicas para cuidar da saúde ocular das crianças"
+title: 'Aulas on-line: 5 dicas para cuidar da saúde ocular das crianças'
 date: 2021-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Fazer intervalos e ajustar o brilho do monitor são algumas dicas de oftalmologistas.
 

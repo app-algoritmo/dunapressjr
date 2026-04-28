@@ -1,11 +1,13 @@
 ---
-title: "Tropas do Exército na região do Cariri recebem reforços para Operação de Garantia da Lei e da Ordem"
+title: Tropas do Exército na região do Cariri recebem reforços para Operação de Garantia
+  da Lei e da Ordem
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Juazeiro do Norte (CE)** – Com objetivo de
 cumprir a determinação do Decreto Presidencial nº 10.259, de 28 de fevereiro de

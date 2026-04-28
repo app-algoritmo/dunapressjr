@@ -1,11 +1,12 @@
 ---
-title: "<strong>Brasil e Reino Unido firmarão acordo para extinguir a bitributação</strong>"
+title: <strong>Brasil e Reino Unido firmarão acordo para extinguir a bitributação</strong>
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida foi anunciada pelo secretário especial da Receita Federal no VIII Seminário Carf de Direito Tributário e Aduaneiro.
 

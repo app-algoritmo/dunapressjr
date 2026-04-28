@@ -1,11 +1,12 @@
 ---
-title: "CCJ recebe relatório sobre indicação de Zanin ao STF nesta quinta"
+title: CCJ recebe relatório sobre indicação de Zanin ao STF nesta quinta
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) receberá nesta quinta-feira (15), às 9h, o relatório do senador Veneziano Vital do Rêgo (MDB-PB) sobre a indicação do advogado Cristiano Zanin para o cargo de ministro do Supremo Tribunal Federal (STF). [A sabatina de Zanin está confirmada para a próxima semana](/noticias/materias/2023/06/12/senado-sabatina-e-vota-indicacao-de-zanin-ao-stf-em-21-de-junho).
 

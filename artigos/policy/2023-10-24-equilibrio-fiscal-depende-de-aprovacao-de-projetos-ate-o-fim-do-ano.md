@@ -1,11 +1,12 @@
 ---
-title: "Equilíbrio fiscal depende de aprovação de projetos até o fim do ano"
+title: Equilíbrio fiscal depende de aprovação de projetos até o fim do ano
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A reta final de 2023 vai exigir um esforço no Congresso para aprovar as medidas indispensáveis para o equilíbrio fiscal das contas públicas. Em cerca de nove semanas restantes de trabalho e com dois feriados no calendário, a base do governo espera votar, além da reforma tributária ([PEC 45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930)), considerada a maior prioridade pelo Poder Executivo, os projetos que tratam da tributação dos investimentos offshore (no exterior) e dos fundos exclusivos, aqueles que possuem poucos cotistas. Ambos os textos ([PL  4.173/2023](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2383287) e [MP 1.184/2023](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/159508)) ainda estão em análise na Câmara dos Deputados, enquanto a reforma tributária já tramita na Comissão de Constituição e Justiça (CCJ) do Senado. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Explosão de mortes em países com alta taxa de vacinados"
+title: Explosão de mortes em países com alta taxa de vacinados
 date: 2023-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Eurostate publicou os dados e o excesso de mortalidade para dezembro de 2022.
 

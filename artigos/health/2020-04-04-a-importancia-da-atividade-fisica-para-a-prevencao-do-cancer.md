@@ -1,11 +1,12 @@
 ---
-title: "A importância da atividade física para a prevenção do câncer"
+title: A importância da atividade física para a prevenção do câncer
 date: 2020-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma vida fisicamente ativa promove benefícios tanto na prevenção quanto no tratamento dessa doença.
 

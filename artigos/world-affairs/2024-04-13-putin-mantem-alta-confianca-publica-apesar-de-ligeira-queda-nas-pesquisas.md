@@ -1,11 +1,12 @@
 ---
-title: "Putin Mantém Alta Confiança Pública, Apesar de Ligeira Queda nas Pesquisas"
+title: Putin Mantém Alta Confiança Pública, Apesar de Ligeira Queda nas Pesquisas
 date: 2024-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A confiança pública no presidente russo, Vladimir Putin, permanece notavelmente alta, com quase 80% dos russos expressando apoio, de acordo com pesquisas recentes divulgadas pelos principais institutos de pesquisa.
 

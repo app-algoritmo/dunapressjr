@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro reconhece situação de emergência em município cearense"
+title: Governo Bolsonaro reconhece situação de emergência em município cearense
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Situação foi declarada após rompimento de uma tubulação em barragem do Projeto São Francisco; Governo autorizou o repasse de R$ 100,6 mil para assistência às famílias. Ministro Rogério Marinho esteve em Jati para acompanhar os trabalhos.
 

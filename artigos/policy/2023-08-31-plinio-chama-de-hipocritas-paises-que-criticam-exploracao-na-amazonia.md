@@ -1,11 +1,12 @@
 ---
-title: "Plínio chama de ´hipócritas` países que criticam exploração na Amazônia"
+title: Plínio chama de ´hipócritas` países que criticam exploração na Amazônia
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) classificou, em pronunciamento no Plenário nesta terça-feira (29), como “hipócritas” os países ricos que criticam a exploração pelo Brasil de riquezas na Amazônia enquanto seguem investindo em combustíveis fósseis. De acordo com estudo divulgado no último dia 23 de agosto, as maiores economias do mundo gastaram US$ 1,4 trilhão em subsídios para empresas de carvão, petróleo e gás.
 

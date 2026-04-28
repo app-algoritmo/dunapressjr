@@ -1,11 +1,12 @@
 ---
-title: "Chega ao Senado projeto que cria estatuto de simplificação de obrigações tributárias"
+title: Chega ao Senado projeto que cria estatuto de simplificação de obrigações tributárias
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Chegou ao Senado o projeto que cria o Estatuto Nacional de Simplificação de Obrigações Tributárias Acessórias ([PLP 178/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/155500)), que tem o objetivo de facilitar o cumprimento pelo contribuinte dessas obrigações, como declarações e outras informações. Do deputado Efraim Filho (União-PB), [a matéria foi aprovada](https://www.camara.leg.br/noticias/928845-camara-aprova-projeto-que-cria-estatuto-de-simplificacao-de-obrigacoes-tributarias) na semana passada na Câmara dos Deputados, na forma do substitutivo da relatora, deputada Paula Belmonte (Cidadania-DF).
 

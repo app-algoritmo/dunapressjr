@@ -1,11 +1,12 @@
 ---
-title: "Rússia Aumenta Tarifas de Eletricidade Nuclear"
+title: Rússia Aumenta Tarifas de Eletricidade Nuclear
 date: 2024-01-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No final de dezembro, o governo russo aprovou um aumento nas tarifas de eletricidade nuclear na primeira zona de preços, incluindo a parte europeia do país e os Urais. Esta decisão, refletida em um decreto publicado no site do governo, visa compensar as perdas sofridas pela Atomenergosbyt, uma subsidiária da empresa nuclear estatal Rosatom. O aumento, que será aplicado aos pagamentos de capacidade, está intrinsecamente ligado às operações em "novas regiões", referindo-se às partes de Donetsk, Luhansk, Zaporozhe e regiões de Kherson da Ucrânia controladas pelas forças russas.
 

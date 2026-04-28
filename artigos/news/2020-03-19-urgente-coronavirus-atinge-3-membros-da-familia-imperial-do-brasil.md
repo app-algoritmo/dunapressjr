@@ -1,11 +1,12 @@
 ---
-title: "Urgente: coronavírus atinge 3 membros da família Imperial do Brasil"
+title: 'Urgente: coronavírus atinge 3 membros da família Imperial do Brasil'
 date: 2020-03-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 MENSAGEM DO PRÍNCIPE IMPERIAL AOS BRASILEIROS
 

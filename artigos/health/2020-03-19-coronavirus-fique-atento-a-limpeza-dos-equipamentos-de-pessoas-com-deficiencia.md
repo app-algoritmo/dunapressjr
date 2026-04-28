@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Fique atento a limpeza dos equipamentos de pessoas com deficiência"
+title: 'Coronavírus: Fique atento a limpeza dos equipamentos de pessoas com deficiência'
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) divulgou um vídeo com orientações de higiene para as pessoas com deficiência, em meio aos cuidados que devem ser tomados durante a pandemia do novo coronavírus (Covid-19).
 

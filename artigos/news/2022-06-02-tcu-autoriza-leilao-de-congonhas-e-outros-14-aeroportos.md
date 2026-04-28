@@ -1,11 +1,12 @@
 ---
-title: "TCU autoriza leilão de Congonhas e outros 14 aeroportos"
+title: TCU autoriza leilão de Congonhas e outros 14 aeroportos
 date: 2022-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Órgão também aprovou leilão de linhas de energia em 13 estados.
 

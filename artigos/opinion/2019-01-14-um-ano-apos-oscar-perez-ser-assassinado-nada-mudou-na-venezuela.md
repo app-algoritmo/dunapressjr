@@ -1,11 +1,12 @@
 ---
-title: "Um ano após Óscar Pérez ser assassinado, nada mudou na Venezuela"
+title: Um ano após Óscar Pérez ser assassinado, nada mudou na Venezuela
 date: 2019-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Um ano após Óscar Pérez ser assassinado, nada mudou na Venezuela.
 

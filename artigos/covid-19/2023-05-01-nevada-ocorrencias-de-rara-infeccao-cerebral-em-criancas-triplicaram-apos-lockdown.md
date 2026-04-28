@@ -1,11 +1,13 @@
 ---
-title: "Nevada: Ocorrências de rara infecção cerebral em crianças triplicaram após Lockdown"
+title: 'Nevada: Ocorrências de rara infecção cerebral em crianças triplicaram após
+  Lockdown'
 date: 2023-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Durante o surto do vírus Covid-19, as autoridades de saúde pública se esforçaram para bloquear os países fechando empresas e escolas na tentativa de conter a propagação do vírus.
 

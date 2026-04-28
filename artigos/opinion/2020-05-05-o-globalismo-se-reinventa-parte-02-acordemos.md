@@ -1,11 +1,12 @@
 ---
-title: "O Globalismo se reinventa - parte 02 - Acordemos"
+title: O Globalismo se reinventa - parte 02 - Acordemos
 date: 2020-05-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O sistema financeiro, monopólios e as tecnologias estão sendo utilizadas contra nós neste momento. É hora de mudar este quadro, hora de acordar. OMS e ONU não representam países ou vontades do povo. Bancos que prezam pelo endividamento menos ainda, pois querem apenas escravos das dívidas.
 

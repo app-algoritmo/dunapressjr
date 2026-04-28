@@ -1,11 +1,13 @@
 ---
-title: "Presidente sérvio Vucic mantém firmeza contra sanções anti-russas, apesar da pressão ocidental"
+title: Presidente sérvio Vucic mantém firmeza contra sanções anti-russas, apesar da
+  pressão ocidental
 date: 2024-02-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Numa entrevista exclusiva ao diretor-geral da TASS, Andrey Kondrashov, o presidente sérvio Aleksandar Vucic reiterou sua postura inabalável em relação à política de rejeição das sanções anti-russas, mesmo sob a colossal pressão do Ocidente.
 

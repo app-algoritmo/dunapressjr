@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que violência no Ceará equivale à de países em guerra"
+title: Girão diz que violência no Ceará equivale à de países em guerra
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (24), o senador Eduardo Girão (Novo-CE) chamou a atenção para o crescimento da violência no Ceará. Ele relembrou recentes chacinas com corpos decapitados e sinais de tortura, além do ataque a tiros contra adolescentes durante uma aula de futebol numa quadra esportiva, em Fortaleza, na noite de segunda-feira (23). 
 

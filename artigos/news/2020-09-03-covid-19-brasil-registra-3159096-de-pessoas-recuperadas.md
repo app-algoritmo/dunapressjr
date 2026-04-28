@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Brasil registra 3.159.096 de pessoas recuperadas"
+title: 'Covid-19: Brasil registra 3.159.096 de pessoas recuperadas'
 date: 2020-09-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### *Número é superior à quantidade de casos ativos, ou seja, pessoas que estão em acompanhamento médico. Informações foram atualizadas às 18h desta terça-feira (01/09).*
 

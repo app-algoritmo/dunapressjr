@@ -1,11 +1,12 @@
 ---
-title: "Parlamentares querem mudanças nas novas regras de saque do FGTS e do PIS/PASEP"
+title: Parlamentares querem mudanças nas novas regras de saque do FGTS e do PIS/PASEP
 date: 2019-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Para oposição, governo tenta disfarçar a crise brutal que ele mesmo provoca com a lei do teto e o corte de gastos.
 

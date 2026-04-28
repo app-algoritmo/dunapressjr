@@ -1,11 +1,12 @@
 ---
-title: "Sete fatos sobre a menorá, o símbolo mais duradouro do povo judeu"
+title: Sete fatos sobre a menorá, o símbolo mais duradouro do povo judeu
 date: 2021-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Novo livro de Steven Fine, professor da Yeshiva University, ilumina a história de 3.000 anos dos candelabros, desde o Tabernáculo até os tempos modernos, incluindo Tito.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Perigoso Belicismo do Império Ocidental: Rumo ao Armagedom Nuclear?"
+title: 'O Perigoso Belicismo do Império Ocidental: Rumo ao Armagedom Nuclear?'
 date: 2024-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 É cada vez mais difícil acompanhar o ritmo do belicismo do Ocidente nos dias de hoje. Medidas agressivas e uma escalada constante nas tensões internacionais colocam o mundo à beira de um conflito de proporções catastróficas.
 

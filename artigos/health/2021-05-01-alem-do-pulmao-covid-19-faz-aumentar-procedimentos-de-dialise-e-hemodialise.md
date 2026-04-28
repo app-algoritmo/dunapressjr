@@ -1,11 +1,12 @@
 ---
-title: "Além do pulmão: Covid-19 faz aumentar procedimentos de diálise e hemodiálise"
+title: 'Além do pulmão: Covid-19 faz aumentar procedimentos de diálise e hemodiálise'
 date: 2021-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Além das complicações no sistema respiratório, os rins também podem ser afetados pela Covid-19. Em casos mais graves da doença, pacientes podem apresentar complicações severas, principalmente diabéticos e com hipertensão, necessitando de hemodiálise ou diálise para recuperar a função dos rins, órgãos responsáveis por filtrar e eliminar as toxinas presentes no sangue. 
 

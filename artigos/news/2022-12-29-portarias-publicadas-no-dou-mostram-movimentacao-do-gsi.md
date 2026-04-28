@@ -1,11 +1,12 @@
 ---
-title: "Portarias publicadas no DOU, mostram movimentação do GSI"
+title: Portarias publicadas no DOU, mostram movimentação do GSI
 date: 2022-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O GSI vem fazendo movimentações atípicas para o que seria um período de transição de governo, o remanejamento de recursos e pessoal vem chamando atenção.
 

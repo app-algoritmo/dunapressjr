@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública lança projeto para evitar envolvimento de jovens carentes com o tráfico"
+title: Ministério da Justiça e Segurança Pública lança projeto para evitar envolvimento
+  de jovens carentes com o tráfico
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O MJSP por meio da Secretaria Nacional de Políticas sobre Drogas (Senad), em parceria com o Programa das Nações Unidas para o Desenvolvimento (PNUD), lançou, nesta segunda-feira (15), edital para selecionar projetos de centros para prevenir o envolvimento de jovens com o tráfico. Os locais deverão oferecer oficinas e cursos para o desenvolvimento pessoal dos jovens, capacitação profissional. Os centros também devem oferecer ações de mediação de conflitos em locais de alto índice de tráfico de drogas e de violência vinculados ao narcotráfico.
 

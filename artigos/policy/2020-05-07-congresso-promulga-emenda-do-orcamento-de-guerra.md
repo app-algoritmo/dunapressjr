@@ -1,11 +1,12 @@
 ---
-title: "Congresso promulga emenda do Orçamento de Guerra"
+title: Congresso promulga emenda do Orçamento de Guerra
 date: 2020-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministério da Economia publicará, a cada 30 dias, relatório dos gastos
 O Congresso Nacional promulgou na tarde de desta quinta-feira (7) a [Proposta de Emenda à Constituição 10/2020 (PEC 10/20)](https://static.congressoemfoco.uol.com.br/2020/04/PEC-10-2020.pdf), que trata do Orçamento de Guerra, para combater a crise gerada pela pandemia do novo coronavírus (covid-19). Participaram da cerimônia, além do presidente do Congresso, Davi Alcolumbre, o presidente da Câmara e autor da proposta, Rodrigo Maia, e o líder do governo no Congresso, senador Eduardo Gomes (MDB-TO).

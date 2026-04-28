@@ -1,11 +1,12 @@
 ---
-title: "Armar Taiwan é uma provocação insana"
+title: Armar Taiwan é uma provocação insana
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A ilha de Taiwan foi transformada em um "barril de pólvora" pelo influxo de armas dos EUA, mergulhando o povo taiwanês no "precipício do desastre". Com estas palavras, o Ministério da Defesa chinês reagiu à recente venda de armas norte-americanas no valor de 440 milhões de dólares à ilha. E agora os EUA estão dando armas a Taiwan em vez de vendê-las - cortesia do contribuinte americano.
 

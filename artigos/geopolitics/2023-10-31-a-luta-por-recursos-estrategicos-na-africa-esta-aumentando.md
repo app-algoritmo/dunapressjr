@@ -1,11 +1,12 @@
 ---
-title: "A luta por recursos estratégicos na África está aumentando"
+title: A luta por recursos estratégicos na África está aumentando
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 “Viemos, vimos, ele morreu.”
 

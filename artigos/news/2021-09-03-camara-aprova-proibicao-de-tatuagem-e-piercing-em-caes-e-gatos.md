@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova proibição de tatuagem e piercing em cães e gatos"
+title: Câmara aprova proibição de tatuagem e piercing em cães e gatos
 date: 2021-09-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário da Câmara dos Deputados aprovou por 397 votos a favor e duas abstenções proposta do deputado [Fred Costa (Patriota-MG)](https://www.camara.leg.br/deputados/204494) que proíbe a realização de tatuagens em animais com fins estéticos. O ato será sujeito a detenção de três meses a um ano e multa. A proposta segue para análise do Senado.
 

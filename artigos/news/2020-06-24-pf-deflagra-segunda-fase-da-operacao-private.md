@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra segunda fase da Operação Private"
+title: PF deflagra segunda fase da Operação Private
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou, na manhã desta quarta-feira (24/6), a segunda fase da Operação Private, com objetivo de combater o tráfico de drogas psicotrópicas, no Amapá. Mais de 40 policiais federais dão cumprimento a 5 mandados de prisão temporária e outros 11 mandados de busca e apreensão, em Macapá/AP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Setor de petróleo impulsionou investimentos no 4º trimestre de 2020"
+title: Setor de petróleo impulsionou investimentos no 4º trimestre de 2020
 date: 2021-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado foi impulsionado pela importação de plataformas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Empreendimentos ampliam infraestrutura voltada para crianças e adolescentes"
+title: Empreendimentos ampliam infraestrutura voltada para crianças e adolescentes
 date: 2022-10-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Áreas livres cercadas por paisagem, *play's *com formas orgânicas, *kids club*, espaços *influencer*, piscinas e brincadeiras aquáticas como *splash pad*. Uma coisa é certa: os espaços de lazer direcionados às crianças e aos adolescentes estão cada vez mais inovadores. O bem-estar e a segurança dos filhos orientam as decisões dos pais e não seria diferente na hora de adquirir um imóvel. Com estruturas cada vez mais diferenciadas, as áreas *kids* tornaram-se imprescindíveis para que os menores tenham um espaço seguro para brincar, dando tranquilidade a toda a família. 
 

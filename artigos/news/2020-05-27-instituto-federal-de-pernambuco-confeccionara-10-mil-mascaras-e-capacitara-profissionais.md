@@ -1,11 +1,13 @@
 ---
-title: "Instituto Federal de Pernambuco confeccionará 10 mil máscaras e capacitará profissionais"
+title: Instituto Federal de Pernambuco confeccionará 10 mil máscaras e capacitará
+  profissionais
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Instituto Federal do Sertão Pernambucano doará produção para profissionais de saúde da região.**
 

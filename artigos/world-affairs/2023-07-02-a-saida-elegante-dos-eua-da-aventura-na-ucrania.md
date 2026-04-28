@@ -1,11 +1,12 @@
 ---
-title: "A saída elegante dos EUA da aventura na Ucrânia?"
+title: A saída elegante dos EUA da aventura na Ucrânia?
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **Aos poucos está ficando claro como os Estados Unidos pretendem sair da aventura na Ucrânia sem perder prestígio diante do público. No entanto, é questionável se o cálculo funcionará.**
 

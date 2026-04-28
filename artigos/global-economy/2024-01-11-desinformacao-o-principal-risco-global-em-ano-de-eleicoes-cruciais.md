@@ -1,11 +1,12 @@
 ---
-title: "Desinformação: O Principal Risco Global em Ano de Eleições Cruciais"
+title: 'Desinformação: O Principal Risco Global em Ano de Eleições Cruciais'
 date: 2024-01-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Antes da Cimeira de Davos, Fórum Económico Mundial destaca perigos tecnológicos em inquérito.
 

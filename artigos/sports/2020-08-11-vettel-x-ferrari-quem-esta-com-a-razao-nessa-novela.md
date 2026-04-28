@@ -1,11 +1,12 @@
 ---
-title: "Vettel x Ferrari: Quem está com a razão nessa novela?"
+title: 'Vettel x Ferrari: Quem está com a razão nessa novela?'
 date: 2020-08-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 Não é novidade para ninguém que acompanha a Fórmula 1 no mínimo há 5 anos, que a situação entre Sebastian Vettel e a equipe Ferrari vem se deteriorando a cada dia que passa. 
 

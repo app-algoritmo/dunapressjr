@@ -1,11 +1,12 @@
 ---
-title: "Repasse federal para o SUAS já beneficia quase 5 mil municípios brasileiros"
+title: Repasse federal para o SUAS já beneficia quase 5 mil municípios brasileiros
 date: 2020-06-20
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos foram aceitos por 89% dos entes elegíveis, totalizando um repasse de R$ 818 milhões para estruturar a rede assistencial no combate ao Covid-19.
 

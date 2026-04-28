@@ -1,11 +1,12 @@
 ---
-title: "Vendas do comércio crescem 1,1% de agosto para setembro"
+title: Vendas do comércio crescem 1,1% de agosto para setembro
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa Mensal do Comércio é divulgada pelo IBGE.
 

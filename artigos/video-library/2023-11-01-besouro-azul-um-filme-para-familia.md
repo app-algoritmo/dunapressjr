@@ -1,11 +1,12 @@
 ---
-title: "Besouro Azul, Um Filme para Família"
+title: Besouro Azul, Um Filme para Família
 date: 2023-11-01
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute A Resenha Aqui:
 

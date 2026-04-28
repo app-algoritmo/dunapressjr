@@ -1,11 +1,12 @@
 ---
-title: "Brasil recebe aprovação em mais um instrumento legal para aderir a OCDE"
+title: Brasil recebe aprovação em mais um instrumento legal para aderir a OCDE
 date: 2020-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Atualmente, o Brasil é a nação não membro com maior número de requisitos exigidos aprovados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fóssil brasileiro é capa da revista Nature"
+title: Fóssil brasileiro é capa da revista Nature
 date: 2021-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Revista *Nature*, uma das mais importantes  publicações científicas do mundo, trouxe em sua edição de dezembro [um artigo científico sobre o fóssil de um ](https://www.nature.com/articles/s41586-020-3011-4.epdf)*[Ixalerpeton polesinensis](https://www.nature.com/articles/s41586-020-3011-4.epdf). *Oanimal pré-histórico viveu há 230 milhões de anos e foi encontrado na região central do Rio Grande do Sul. Com a participação de quatro pesquisadores brasileiros, dois deles ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), o texto traz detalhes sobre a anatomia do dinossauro.  
 

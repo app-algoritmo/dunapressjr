@@ -1,11 +1,13 @@
 ---
-title: "Operação Finem Fábula desarticula grupo responsável por assaltos a diversas agências dos Correios"
+title: Operação Finem Fábula desarticula grupo responsável por assaltos a diversas
+  agências dos Correios
 date: 2020-04-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **João Pessoa/PB** – A Polícia Federal deflagrou nesta segunda-feira (20/4) a Operação *FINEM FÁBULA,* com escopo de desarticular associação criminosa dedicada ao cometimento de roubos contra Agências dos CORREIOS. Foram cumpridos dois mandados de prisão preventiva, nas cidades de Petrolina/PE e Manaus/AM. Os mandados foram expedidos pela Justiça Federal de Monteiro/PB.
 

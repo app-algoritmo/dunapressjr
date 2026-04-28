@@ -1,11 +1,12 @@
 ---
-title: "Povos indígenas estão sendo vacinados contra Influenza nas aldeias"
+title: Povos indígenas estão sendo vacinados contra Influenza nas aldeias
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde (MS) decidiu antecipar a vacinação contra Influenza para o dia 16 de abril para os povos indígenas em função da sua vulnerabilidade. Em suas aldeias, os indígenas receberão as equipes de vacinação, que adotarão todas as medidas de prevenção e controle do novo coronavírus já estabelecidas pelo Ministério da Saúde.
 

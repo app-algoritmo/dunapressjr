@@ -1,11 +1,12 @@
 ---
-title: "Governo divulga recomendações a frigoríficos durante pandemia"
+title: Governo divulga recomendações a frigoríficos durante pandemia
 date: 2020-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal, por meio dos Ministérios da Agricultura, Pecuária e Abastecimento, da Economia e da Saúde, divulgou, na segunda-feira (11), manual com recomendações para frigoríficos em razão da pandemia do novo coronavírus. As orientações abordam como prevenir o contágio do vírus nos ambientes de trabalho e, assim, manter a normalidade do abastecimento alimentar, a manutenção dos empregos e da atividade econômica.
 

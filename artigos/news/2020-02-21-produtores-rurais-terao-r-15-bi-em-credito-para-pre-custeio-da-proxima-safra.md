@@ -1,11 +1,12 @@
 ---
-title: "Produtores rurais terão R$ 15 bi em crédito para pré-custeio da próxima safra"
+title: Produtores rurais terão R$ 15 bi em crédito para pré-custeio da próxima safra
 date: 2020-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Financiamento do Banco do Brasil já está disponível para produtores de soja, milho, algodão, café, arroz e cana de açúcar
 

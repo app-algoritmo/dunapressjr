@@ -1,11 +1,13 @@
 ---
-title: "Um artigo do tratado de pandemia exigido pela OMS que mostra que não se trata apenas de saúde"
+title: Um artigo do tratado de pandemia exigido pela OMS que mostra que não se trata
+  apenas de saúde
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Tratado Pandêmico visa estabelecer um sistema de censura global coordenado!
 

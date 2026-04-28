@@ -1,11 +1,12 @@
 ---
-title: "Venezuela interessada nos BRICS, diz enviado russo"
+title: Venezuela interessada nos BRICS, diz enviado russo
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## BRICS é uma organização interestadual informal composta por Brasil, Rússia, Índia, China e África do Sul.
 

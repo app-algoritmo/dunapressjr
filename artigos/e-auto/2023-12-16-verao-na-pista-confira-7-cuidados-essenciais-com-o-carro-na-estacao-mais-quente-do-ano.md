@@ -1,11 +1,13 @@
 ---
-title: "Verão na pista: confira 7 cuidados essenciais com o carro na estação mais quente do ano"
+title: 'Verão na pista: confira 7 cuidados essenciais com o carro na estação mais
+  quente do ano'
 date: 2023-12-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Bateria, ar-condicionado e pneus são alguns dos itens que requerem atenção especial durante o período de calor.
 

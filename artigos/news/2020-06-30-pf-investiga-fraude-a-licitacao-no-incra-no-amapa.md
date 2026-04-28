@@ -1,11 +1,12 @@
 ---
-title: "PF investiga fraude à licitação no INCRA no Amapá"
+title: PF investiga fraude à licitação no INCRA no Amapá
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP – A Polícia Federal deflagrou na manhã desta terça-feira (30/6) a Operação Conluio*, com objetivo de reprimir organização criminosa especializada em crimes de fraudes à licitação com atuação no Instituto Nacional de Colonização Reforma Agrária (INCRA), no estado do Amapá.
 

@@ -1,11 +1,13 @@
 ---
-title: "Corte Suprema do Brasil atende comunistas e desqualifica FFAA como poder moderador, redes sociais em fúria, militares em silêncio"
+title: Corte Suprema do Brasil atende comunistas e desqualifica FFAA como poder moderador,
+  redes sociais em fúria, militares em silêncio
 date: 2020-06-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Para onde caminha o Brasil?
 

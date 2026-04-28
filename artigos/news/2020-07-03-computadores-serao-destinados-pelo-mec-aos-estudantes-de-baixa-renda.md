@@ -1,11 +1,12 @@
 ---
-title: "Computadores serão destinados pelo Mec aos estudantes de baixa renda"
+title: Computadores serão destinados pelo Mec aos estudantes de baixa renda
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A iniciativa contempla alunos de institutos e universidades federais que ofertam atividades não presenciais durante a pandemia
 

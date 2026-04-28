@@ -1,11 +1,12 @@
 ---
-title: "Confirmação de Foco da Doença de Newcastle no Rio Grande do Sul"
+title: Confirmação de Foco da Doença de Newcastle no Rio Grande do Sul
 date: 2024-07-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 Na última quarta-feira (17), o Ministério da Agricultura e Pecuária (Mapa) confirmou um foco da Doença de Newcastle (DNC) em um estabelecimento de avicultura comercial de corte localizado no município de Anta Gorda, no estado do Rio Grande do Sul. A confirmação foi realizada pelo Laboratório Federal de Defesa Agropecuária de São Paulo (LFDA-SP), que é reconhecido pela Organização Mundial de Saúde Animal (OMSA) como referência internacional para o diagnóstico da DNC.
 

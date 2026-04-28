@@ -1,11 +1,12 @@
 ---
-title: "Ajustes operacionais no Porto de Itajaí para redução de filas"
+title: Ajustes operacionais no Porto de Itajaí para redução de filas
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, em conjunto com a Superintendência do Porto, informa que está traçando melhorias em caráter emergencial para minimizar e solucionar os transtornos registrados na entrada de caminhões no Porto e otimizar o fluxo interno das operações. As tratativas avançaram nesta quarta-feira (25), quando o prefeito de Itajaí, Volnei Morastoni, esteve reunido com representantes de diversos setores da atividade portuária.
 

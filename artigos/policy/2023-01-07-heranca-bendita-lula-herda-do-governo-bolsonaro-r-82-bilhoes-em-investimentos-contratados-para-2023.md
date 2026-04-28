@@ -1,11 +1,13 @@
 ---
-title: "Herança Bendita: Lula herda do governo Bolsonaro R$ 82 bilhões em investimentos contratados para 2023"
+title: 'Herança Bendita: Lula herda do governo Bolsonaro R$ 82 bilhões em investimentos
+  contratados para 2023'
 date: 2023-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente Luiz Inácio Lula da Silva (PT) assumiu seu terceiro mandato no Palácio do Planalto com uma herança “bendita” do antecessor Jair Bolsonaro (PL): R$ 81,9 bilhões em investimentos privados contratados somente para seu primeiro ano de governo. O valor, previsto no Programa de Parcerias de Investimentos (PPI), pode contribuir para um crescimento do PIB em 2023 bem acima das atuais projeções de bancos e consultorias financeiras, segundo nota informativa da Secretaria de Política Econômica (SPE) do agora extinto Ministério da Economia.
 

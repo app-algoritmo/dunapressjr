@@ -1,12 +1,13 @@
 ---
-title: "Tesla volta a reduzir preços para todos os modelos"
+title: Tesla volta a reduzir preços para todos os modelos
 date: 2023-04-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
-  - Geopolitics
+- E-auto
+- Geopolitics
 ---
+
 
 O chefe da Tesla, [Elon Musk](https://dunapress.org/2023/02/16/elon-musk-declara-o-fim-da-cultura-do-cancelamento/), quer aumentar as vendas e aceita a queda das margens de lucro. A Tesla baixa os preços novamente - desta vez para todos os modelos. Há um desconto de $ 5.000 cada para os caros modelos S e X.
 

@@ -1,11 +1,12 @@
 ---
-title: "Capes vai premiar as melhores teses de doutorado de 2019"
+title: Capes vai premiar as melhores teses de doutorado de 2019
 date: 2020-05-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) divulgou as diretrizes da 15ª edição do [Prêmio CAPES de Tese](https://www.capes.gov.br/premiocapesdetese) no Diário Oficial da União (DOU) na quarta-feira (15) pelo [Edital nº 10/2020](https://www.capes.gov.br/images/novo_portal/editais/editais/15042020_EDITAL_10_2020_Pr%C3%AAmio_CAPES_de_Tese.pdf).
 

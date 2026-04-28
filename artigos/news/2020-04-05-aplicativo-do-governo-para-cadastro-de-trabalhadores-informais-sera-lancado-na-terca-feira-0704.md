@@ -1,11 +1,13 @@
 ---
-title: "Aplicativo do Governo para cadastro de trabalhadores informais será lançado na terça-feira (07.04)"
+title: Aplicativo do Governo para cadastro de trabalhadores informais será lançado
+  na terça-feira (07.04)
 date: 2020-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal também faz um alerta contra as fake news. Sites falsos foram criados e disseminados pelo aplicativo WhatsApp para tentar obter dados dos beneficiários. O recado é para não fornecer dados para qualquer pessoa ou site que fale em nome do benefício.
 

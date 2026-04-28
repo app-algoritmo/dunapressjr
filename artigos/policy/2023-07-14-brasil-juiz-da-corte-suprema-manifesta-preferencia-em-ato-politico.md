@@ -1,11 +1,12 @@
 ---
-title: "Brasil: Juiz da corte suprema  manifesta preferência em ato político"
+title: 'Brasil: Juiz da corte suprema  manifesta preferência em ato político'
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em nota, ministro disse que respeita todos os eleitores e políticos.
 

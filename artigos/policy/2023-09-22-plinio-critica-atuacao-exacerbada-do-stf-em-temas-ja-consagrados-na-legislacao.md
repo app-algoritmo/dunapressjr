@@ -1,11 +1,12 @@
 ---
-title: "Plínio critica atuação exacerbada do STF em temas já consagrados na legislação"
+title: Plínio critica atuação exacerbada do STF em temas já consagrados na legislação
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) criticou nesta quarta-feira (20) a atuação do Supremo Tribunal Federal (STF) em relação a temas que, segundo ele, já foram devidamente estabelecidos pela Constituição Federal e não demandam mais a necessidade de novas interpretações. O parlamentar alertou que a situação demonstra a interferência da Corte sobre o Poder Legislativo e impõe riscos à democracia do país.
 

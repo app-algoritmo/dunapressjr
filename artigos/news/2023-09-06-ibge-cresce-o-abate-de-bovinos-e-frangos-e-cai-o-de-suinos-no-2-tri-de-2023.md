@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Cresce o abate de bovinos e frangos e cai o de suínos no 2º tri de 2023"
+title: 'IBGE: Cresce o abate de bovinos e frangos e cai o de suínos no 2º tri de 2023'
 date: 2023-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No segundo trimestre de 2023, o setor agropecuário brasileiro apresentou números significativos no abate de animais, com aumento no abate de frangos e bovinos, enquanto o abate de suínos registrou uma queda em relação ao mesmo período do ano anterior.
 

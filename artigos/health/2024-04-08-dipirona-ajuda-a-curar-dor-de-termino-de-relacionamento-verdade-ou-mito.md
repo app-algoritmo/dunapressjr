@@ -1,11 +1,12 @@
 ---
-title: "Dipirona ajuda a curar dor de término de relacionamento: verdade ou mito?"
+title: 'Dipirona ajuda a curar dor de término de relacionamento: verdade ou mito?'
 date: 2024-04-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 Uma tendência preocupante tem sido destaque no TikTok, onde jovens e adolescentes estão compartilhando vídeos em que relatam o uso da dipirona como uma forma de curar a dor emocional causada pelo término de um relacionamento.
 

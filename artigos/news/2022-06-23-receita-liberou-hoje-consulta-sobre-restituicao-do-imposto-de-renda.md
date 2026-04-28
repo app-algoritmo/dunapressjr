@@ -1,11 +1,12 @@
 ---
-title: "Receita liberou hoje consulta sobre restituição do Imposto de Renda"
+title: Receita liberou hoje consulta sobre restituição do Imposto de Renda
 date: 2022-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cerca de 4,25 milhões de contribuintes receberão R$ 6,3 bilhões.
 

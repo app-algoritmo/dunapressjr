@@ -1,11 +1,12 @@
 ---
-title: "Presidente sanciona Orçamento de 2022, com vetos"
+title: Presidente sanciona Orçamento de 2022, com vetos
 date: 2022-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor total da despesa é R$ 4,73 trilhões.
 

@@ -1,11 +1,13 @@
 ---
-title: "Os principais cientistas climáticos dizem que receberam ordens para encobrir a verdade"
+title: Os principais cientistas climáticos dizem que receberam ordens para encobrir
+  a verdade
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Nos últimos seis anos, o Painel Intergovernamental sobre Mudanças Climáticas (IPCC) das Nações Unidas tem trabalhado arduamente para produzir um relatório significativo sobre a extensão do aquecimento global causado pelo homem. De acordo com informações [vazadas](https://www.dailymail.co.uk/news/article-2425775/Climate-scientists-told-cover-fact-Earths-temperature-risen-15-years.html) do relatório, as temperaturas globais não aumentam há 15 anos.
 

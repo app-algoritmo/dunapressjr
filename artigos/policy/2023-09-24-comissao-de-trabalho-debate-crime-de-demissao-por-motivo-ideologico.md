@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Trabalho debate crime de demissão por motivo ideológico"
+title: Comissão de Trabalho debate crime de demissão por motivo ideológico
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Trabalho da Câmara promove debate na quinta-feira (28) sobre o [Projeto de Lei 494/19](https://www.camara.leg.br/noticias/552780-proposta-criminaliza-a-punicao-a-trabalhador-por-motivo-ideologico), que busca tipificar o crime de demissão por motivo ideológico e atribuir à justiça trabalhista a competência para processar e julgar os crimes contra o empregador. A reunião ocorre às 14h30, no plenário 12. [Confira a pauta completa](https://www.camara.leg.br/evento-legislativo/70131).
 

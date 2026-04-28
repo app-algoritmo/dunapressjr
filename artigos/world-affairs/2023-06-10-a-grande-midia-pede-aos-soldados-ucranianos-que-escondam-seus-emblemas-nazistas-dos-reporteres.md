@@ -1,11 +1,13 @@
 ---
-title: "A grande mídia pede aos soldados ucranianos que escondam seus emblemas nazistas dos repórteres"
+title: A grande mídia pede aos soldados ucranianos que escondam seus emblemas nazistas
+  dos repórteres
 date: 2023-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Ucrânia, e especialmente a parte oriental do país, tem um sério problema nazista que a mídia corporativa tenta [esconder](https://www.zerohedge.com/geopolitical/journalists-are-asking-ukrainian-soldiers-hide-their-nazi-patches-nyt-admits) há muitos anos – mas não consegue mais.
 

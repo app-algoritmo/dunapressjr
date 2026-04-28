@@ -1,11 +1,12 @@
 ---
-title: "Para o Sisu candidatos devem usar a senha cadastrada em acesso.gov.br"
+title: Para o Sisu candidatos devem usar a senha cadastrada em acesso.gov.br
 date: 2020-07-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Os interessados em disputar uma vaga no ensino superior pelo Sistema de Seleção Unificada (Sisu), devem ficar atentos! O período de inscrições para o Sisu do segundo semestre (2º) deste ano terá início na próxima terça-feira (07), e será encerrado na sexta-feira (10). Os candidatos só terão esse período para escolher as vagas e se inscrever no Sisu, por isso, é bom se preparar para não ter problemas no ato da inscrição, quando é exigida a senha do cadastro no [portal de serviços do Governo Federal](https://sso.acesso.gov.br/login). Quem ainda não se cadastrou ou esqueceu a senha e precisa recuperá-la, deve providenciar esses dados com antecedência no [acesso.gov.br](\Users\nataliasborges\Downloads\acesso.gov.br). 
 

@@ -1,11 +1,12 @@
 ---
-title: "Programa de combate à Covid-19 conta com mais de 1 milhão de profissionais"
+title: Programa de combate à Covid-19 conta com mais de 1 milhão de profissionais
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 460 contratações já foram realizadas para reforçar o atendimento de serviços de saúde em três estados. Ação Estratégica do Ministério da Saúde conta com profissionais da saúde, estudantes e residentes para reforçar o atendimento dos serviços de saúde nos estados com maior necessidade de profissionais. 
 

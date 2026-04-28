@@ -1,11 +1,12 @@
 ---
-title: "Encontrado potencial terapêutico contra o HIV em plantas brasileiras"
+title: Encontrado potencial terapêutico contra o HIV em plantas brasileiras
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O projeto intitulado “**Identificação e caracterização de compostos extraídos da família de plantas Euphorbiaceae utilizados na cura funcional de HIV” **foi capaz de identificar compostos oriundos de plantas brasileiras que possuem atividades contra o vírus HIV. O projeto foi coordenado pelo pesquisador Amilcar Tanuri  da Universidade Federal do Rio de Janeiro.
 

@@ -1,12 +1,14 @@
 ---
-title: "Unesco lança o programa Jornalismo com manual educativo de combate ao Fake News e à Desinformação"
+title: Unesco lança o programa Jornalismo com manual educativo de combate ao Fake
+  News e à Desinformação
 date: 2019-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Manual de orientações para a imprensa enfrentar os desafios diários das fake news nas mídias sociais. A obra reúne artigos de alguns dos principais pesquisadores e profissionais de jornalismo em todo o mundo que trabalham para combater a crise de desinformação e para orientar jornalistas sobre as práticas de investigação de alta qualidade."
 

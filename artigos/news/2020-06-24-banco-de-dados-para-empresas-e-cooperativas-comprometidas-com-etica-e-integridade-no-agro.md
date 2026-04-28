@@ -1,11 +1,13 @@
 ---
-title: "Banco de dados para empresas e cooperativas comprometidas com ética e integridade no agro"
+title: Banco de dados para empresas e cooperativas comprometidas com ética e integridade
+  no agro
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A inclusão no banco de dados é o passo inicial para concorrer ao Selo Mais Integridade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Irã revela míssil hipersônico ‘Fattah 2’"
+title: Irã revela míssil hipersônico ‘Fattah 2’
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Durante a visita do Líder Supremo da Revolução Islâmica, Aiatolá Seyyed Ali Khamenei, à exposição de conquistas da Força Aeroespacial do Corpo da Guarda da Revolução Islâmica (IRGC), o míssil hipersônico "Fattah 2" de fabricação iraniana foi revelado.
 

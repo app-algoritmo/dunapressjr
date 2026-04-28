@@ -1,12 +1,13 @@
 ---
-title: "Luiz Philipe de Orleans Bragança, um dos deputados contrários a PEC do rombo"
+title: Luiz Philipe de Orleans Bragança, um dos deputados contrários a PEC do rombo
 date: 2022-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## O Deputado Federal Luiz Philipe de Orleans Bragança (PL) está empenhado em impedir que a [PEC do rombo](https://dunapress.org/2022/12/08/veja-como-votou-cada-senador-sobre-a-pec-do-rombo/), seja aprovada na câmara dos deputados na [próxima terça-feira (20)](https://www.camara.leg.br/noticias/929383-lira-anuncia-votacao-da-pec-da-transicao-para-a-proxima-terca-feira/).
 

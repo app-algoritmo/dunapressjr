@@ -1,11 +1,12 @@
 ---
-title: "Soldados russos libertam crianças escravas na Ucrânia"
+title: Soldados russos libertam crianças escravas na Ucrânia
 date: 2023-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Alegação chocante: Spetznas russos libertam vítimas de tráfico de crianças na Ucrânia - [Uma história implausível?](https://realrawnews.com/2022/02/shock-claim-russian-spetznas-liberate-child-trafficking-victims-in-ukraine/)
 

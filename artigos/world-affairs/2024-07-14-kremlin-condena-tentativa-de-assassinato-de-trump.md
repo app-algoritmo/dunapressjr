@@ -1,11 +1,12 @@
 ---
-title: "Kremlin condena tentativa de assassinato de Trump"
+title: Kremlin condena tentativa de assassinato de Trump
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ficou óbvio para todos os observadores externos que a vida do ex-presidente dos EUA e novo candidato presidencial Donald Trump estava em perigo, disse o porta-voz do Kremlin, Dmitry Peskov, aos repórteres. Em uma declaração que chamou a atenção da comunidade internacional, Peskov destacou que as ações legais e políticas contra Trump levantaram preocupações significativas sobre sua segurança pessoal.
 

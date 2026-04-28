@@ -1,11 +1,12 @@
 ---
-title: "AEB prevê aumento das exportações e importações e superávit recorde"
+title: AEB prevê aumento das exportações e importações e superávit recorde
 date: 2021-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Altas previstas terão reflexo positivo no cálculo do PIB, diz entidade.
 

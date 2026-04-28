@@ -1,12 +1,13 @@
 ---
-title: "Economia à Beira do Abismo: A Mega-Crise na Alemanha"
+title: 'Economia à Beira do Abismo: A Mega-Crise na Alemanha'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Finances
+- Business and Economy
+- Finances
 ---
+
 
 A Alemanha, outrora celebrada como o motor econômico da Europa, encontra-se atualmente em uma profunda crise. Os números falam por si só, e há pouco espaço para otimismo. Neste artigo, examinaremos sete estatísticas decisivas que destacam a situação ameaçadora da economia alemã.
 

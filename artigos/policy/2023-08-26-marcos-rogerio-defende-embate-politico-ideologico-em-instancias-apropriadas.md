@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério defende embate político-ideológico em instâncias apropriadas"
+title: Marcos Rogério defende embate político-ideológico em instâncias apropriadas
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO), em pronunciamento no Plenário nesta quarta-feira (23), destacou a importância de que o embate político-ideológico deva ocorrer no ambiente dos partidos políticos, das Casas Legislativas e dos palácios dos Executivos. Ele manifestou preocupação quando a disputa envolve "investidas de fora da arena política, de estruturas de poder que interferem nas disputas".
 

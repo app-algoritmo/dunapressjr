@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani se despede nas quartas de final no Australian Open"
+title: Luisa Stefani se despede nas quartas de final no Australian Open
 date: 2024-01-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana treina na semana em Melbourne e tem próximo torneio, no começo de fevereiro, ao lado de Bia Haddad Maia. Na sequência, volta a jogar com Demi Schuurs.
 

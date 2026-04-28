@@ -1,11 +1,12 @@
 ---
-title: "BC aprova 762 instituições para ofertar o Pix a partir de novembro"
+title: BC aprova 762 instituições para ofertar o Pix a partir de novembro
 date: 2020-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bancos, financeiras, fintechs poderão oferecer novo sistema.
 

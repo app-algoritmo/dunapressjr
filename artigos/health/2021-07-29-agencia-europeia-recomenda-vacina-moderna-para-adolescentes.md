@@ -1,11 +1,12 @@
 ---
-title: "Agência europeia recomenda vacina Moderna para adolescentes"
+title: Agência europeia recomenda vacina Moderna para adolescentes
 date: 2021-07-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Comitê de Medicamentos Humanos da EMA ( [CHMP](https://www.ema.europa.eu/en/glossary/chmp) ) recomendou a concessão de uma extensão da [indicação](https://www.ema.europa.eu/en/glossary/indication) para a vacina [COVID](https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax-previously-covid-19-vaccine-moderna) -19  [Spikevax (anteriormente COVID-19 Vaccine Moderna)](https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax-previously-covid-19-vaccine-moderna)  para incluir o uso em crianças de 12 a 17 anos. A vacina já está autorizada para uso em pessoas com 18 anos ou mais.
 

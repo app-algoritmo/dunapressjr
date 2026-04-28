@@ -1,11 +1,12 @@
 ---
-title: "PF realiza fiscalização em trechos do Rio Guaporé, em Rondônia"
+title: PF realiza fiscalização em trechos do Rio Guaporé, em Rondônia
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vilhena/RO – Em continuidade à operação de prevenção ao ingresso ilegal de estrangeiros durante a vigência da restrição temporária de entrada no país por motivos sanitários, relacionados aos riscos de contaminação e disseminação do coronavírus, em 14/05/2020, a Polícia Federal realizou novas fiscalizações em trechos do Rio Guaporé, em especial no município de Pimenteiras do Oeste.
 

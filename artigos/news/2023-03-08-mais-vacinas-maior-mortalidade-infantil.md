@@ -1,11 +1,12 @@
 ---
-title: "Mais vacinas, maior mortalidade infantil"
+title: Mais vacinas, maior mortalidade infantil
 date: 2023-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Isso agora foi confirmado e publicado em uma revista médica revisada por pares. A comunidade médica irá ignorá-la, porque é assim que a ciência funciona: ela ignora qualquer coisa em contrário.
 

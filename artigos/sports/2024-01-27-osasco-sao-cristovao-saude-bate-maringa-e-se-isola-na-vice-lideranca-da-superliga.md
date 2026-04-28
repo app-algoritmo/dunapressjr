@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde bate Maringá e se isola na vice-liderança da Superliga"
+title: Osasco São Cristóvão Saúde bate Maringá e se isola na vice-liderança da Superliga
 date: 2024-01-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar vence por 3 sets a 1, fora de casa, e abre dois pontos de vantagem na segunda posição na classificação geral da competição.
 

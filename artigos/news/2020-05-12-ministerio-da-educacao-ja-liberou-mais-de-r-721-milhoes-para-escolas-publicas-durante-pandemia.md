@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Educação já liberou mais de R$ 721 milhões para escolas públicas durante pandemia"
+title: Ministério da Educação já liberou mais de R$ 721 milhões para escolas públicas
+  durante pandemia
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Mais de 105 mil instituições foram beneficiadas. Dinheiro é usado na compra de produtos de higiene para facilitar retorno às aulas com segurança. O valor total do investimento pode chegar a R$ 900 milhões beneficiando cerca de 138 mil escolas.
 

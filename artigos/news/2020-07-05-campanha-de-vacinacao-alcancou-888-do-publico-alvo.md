@@ -1,11 +1,12 @@
 ---
-title: "Campanha de Vacinação alcançou 88,8% do público-alvo"
+title: Campanha de Vacinação alcançou 88,8% do público-alvo
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A meta era alcançar 90%. O Ministério da Saúde recomendou aos estados e municípios a estenderem a vacinação para toda a população até quando durarem os estoques da vacina.
 

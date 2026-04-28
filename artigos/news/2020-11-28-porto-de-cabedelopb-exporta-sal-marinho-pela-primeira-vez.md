@@ -1,11 +1,12 @@
 ---
-title: "Porto de Cabedelo/PB exporta sal marinho pela primeira vez"
+title: Porto de Cabedelo/PB exporta sal marinho pela primeira vez
 date: 2020-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Companhia Docas da Paraíba vai exportar sal marinho pela primeira vez. O material veio do Rio Grande do Norte e será exportado pelo Porto de Cabedelo no mês de dezembro, com desembarque na Europa. O produto faz parte das novas cargas que a Docas passou ou voltou a operar em 2020.
 

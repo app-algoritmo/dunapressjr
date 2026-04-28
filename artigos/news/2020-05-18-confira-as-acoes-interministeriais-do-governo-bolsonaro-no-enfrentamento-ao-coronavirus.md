@@ -1,11 +1,13 @@
 ---
-title: "Confira as ações interministeriais do Governo Bolsonaro no enfrentamento ao Coronavírus"
+title: Confira as ações interministeriais do Governo Bolsonaro no enfrentamento ao
+  Coronavírus
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Balanço da atuação no CCOP e dos atendimentos diretos a Estados e Municípios durante a crise e também algumas MPs e PLs articulados ou vitórias aí na intermediação de recursos e equipamentos.
 

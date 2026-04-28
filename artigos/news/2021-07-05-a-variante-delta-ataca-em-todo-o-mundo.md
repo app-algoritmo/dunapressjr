@@ -1,11 +1,12 @@
 ---
-title: "A variante Delta ataca em todo o mundo"
+title: A variante Delta ataca em todo o mundo
 date: 2021-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Variante indiana 'Delta' se espalhando enquanto os países lutam para aumentar as taxas de vacinação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasileiro desenvolve cimento sustentável"
+title: Brasileiro desenvolve cimento sustentável
 date: 2021-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rodrigo Henrique Geraldo é engenheiro ambiental, mestre e doutor em engenharia civil pela Universidade Estadual de Campinas (Unicamp) e professor do Centro Universitário Facens (Sorocaba/SP) nos cursos de graduação em Engenharia Civil e  Arquitetura e Urbanismo. Seu trabalho recebeu o 1° lugar na categoria Pesquisa Acadêmica do 23° Prêmio de Inovação e Sustentabilidade da Câmara Brasileira da Indústria da Construção (CBIC).
 

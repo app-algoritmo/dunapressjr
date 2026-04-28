@@ -1,11 +1,12 @@
 ---
-title: "Projeto de Lei promete facilitar doações para entidades de proteção animal"
+title: Projeto de Lei promete facilitar doações para entidades de proteção animal
 date: 2021-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um projeto de lei do deputado federal Otavio Leite (PSDB-RJ) sugere a inclusão de entidades de proteção animal no Marco Regulatório das Organizações da Sociedade Civil (Lei 13.019/2014). Com isso, iniciativas em benefício dos animais terão maior chance de conseguir doações de empresas.
 

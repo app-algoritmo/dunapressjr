@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que aumenta punição para motorista não habilitado"
+title: Comissão aprova projeto que aumenta punição para motorista não habilitado
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Viação e Transportes da Câmara dos Deputados aprovou projeto de lei que aumenta as penas previstas no [Código de Trânsito Brasileiro](https://www2.camara.leg.br/legin/fed/lei/1997/lei-9503-23-setembro-1997-372348-norma-pl.html) para condutor não habilitado, com habilitação vencida ou recém-habilitado que cometeu infração grave.
 

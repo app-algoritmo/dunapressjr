@@ -1,11 +1,12 @@
 ---
-title: "A jornada de autodescoberta da Mulher Maravilha"
+title: A jornada de autodescoberta da Mulher Maravilha
 date: 2024-07-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 Diana Prince, a Mulher Maravilha, nasceu em Themyscira, uma ilha habitada por guerreiras Amazonas. Criada com amor, coragem e disciplina, ela foi moldada do barro e trazida à vida por Zeus, ganhando poderes extraordinários.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasileiro é destaque em curso da Escola de Altos Estudos Nacionais da Bolívia"
+title: Brasileiro é destaque em curso da Escola de Altos Estudos Nacionais da Bolívia
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Militar brasileiro concluiu com destaque o curso de Altos Estudos da Escola de Altos Estudos Nacionais da Bolívia. O Coronel Sylvio de Souza Ferreira obteve o 3° lugar entre 57 alunos, militares e civis, e foi agraciado com a medalha *Maestría en Seguridad, Defensa y Desarrollo*.
 

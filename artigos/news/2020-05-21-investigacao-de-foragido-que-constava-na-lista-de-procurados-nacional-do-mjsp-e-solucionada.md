@@ -1,11 +1,13 @@
 ---
-title: "Investigação de foragido que constava na Lista de Procurados Nacional do MJSP é solucionada"
+title: Investigação de foragido que constava na Lista de Procurados Nacional do MJSP
+  é solucionada
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma investigação conjunta entre o Centro Integrado de Operações de Fronteiras do Ministério da Justiça e Segurança Pública (Ciof/MJSP) e a Superintendência Regional da Polícia Federal do Estado do Paraná revelou que, um dos maiores assaltantes da história do país Sergio Oliveira Silva, conhecido como Serginho Boy, teria morrido durante confronto com a Polícia Militar, em 4 de julho de 2013, na cidade de Presidente Getúlio (SC). O nome do foragido constava, até então, na Lista de Procurados Nacional do MJSP, desenvolvida para auxiliar a captura dos criminosos foragidos da Justiça.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aceleração da vacinação traz indícios de retomada na economia e no turismo"
+title: Aceleração da vacinação traz indícios de retomada na economia e no turismo
 date: 2021-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Em mais de um ano de pandemia mundial, são muitos os setores que foram afetados economicamente. Dentre eles, o turismo, que engloba hotelaria, agências, operadoras, eventos, alimentação e outros. Com a vacinação avançando no Brasil, a procura de destinos nacionais para viagens têm demonstrado, de maneira gradativa, indícios de melhoras. Para aqueles que estão na considerada “melhor idade”, após as duas doses, o retorno nas programações de viagens é uma possibilidade mais segura. Notícia positiva para o setor e para os amantes do turismo.
 

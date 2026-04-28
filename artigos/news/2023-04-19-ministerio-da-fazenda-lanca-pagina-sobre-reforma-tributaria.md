@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Fazenda lança página sobre Reforma Tributária"
+title: Ministério da Fazenda lança página sobre Reforma Tributária
 date: 2023-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo o Ministério da Fazenda Reforma Tributária é fundamental para o Brasil.
 

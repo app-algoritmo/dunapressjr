@@ -1,11 +1,12 @@
 ---
-title: "Novos serviços pelo FNDE no portal gov.br"
+title: Novos serviços pelo FNDE no portal gov.br
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Já são 35 opções disponíveis em um só lugar, gerando economia de tempo e recursos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba mais sobre o Combate ao Câncer"
+title: Saiba mais sobre o Combate ao Câncer
 date: 2021-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Câncer é um termo que abrange mais de 100 diferentes tipos de doenças malignas que têm em comum o crescimento desordenado de células, que podem invadir tecidos adjacentes ou órgãos a distância.
 

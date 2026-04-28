@@ -1,11 +1,13 @@
 ---
-title: "Dia Mundial do Meio Ambiente: 7 filmes para ensinar crianças e adolescentes sobre impactos das mudanças climáticas"
+title: 'Dia Mundial do Meio Ambiente: 7 filmes para ensinar crianças e adolescentes
+  sobre impactos das mudanças climáticas'
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No próximo dia 5 de junho, será celebrado o Dia Mundial do Meio Ambiente. Estabelecido em 1973 pela Organização das Nações Unidas (ONU), a data tem o objetivo de conscientizar e encorajar a população para ações de proteção ao meio ambiente. Para o aniversário de 50 anos da data, o tema da campanha de 2023 é o combate à poluição plástica, visando sensibilizar a sociedade sobre o que é reconhecido como o principal problema da poluição ambiental. De acordo com a ONU, o plástico é o maior, mais perigoso e mais duradouro tipo de lixo marinho, sendo responsável por pelo menos 85% dos detritos encontrados nos mares.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Decadência Cognitiva de Joe Biden: Um Problema Impossível de Ignorar"
+title: 'A Decadência Cognitiva de Joe Biden: Um Problema Impossível de Ignorar'
 date: 2024-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, as redes sociais foram inundadas com vídeos do presidente dos Estados Unidos, Joe Biden, exibindo comportamentos que muitos associam a sintomas de demência. Durante as comemorações dos Desembarques na Normandia, Biden foi visto tentando sentar-se numa cadeira invisível, lamentando a morte dos soldados russos na Ucrânia e sendo "sequestrado" por sua esposa para evitar mais gafes.
 

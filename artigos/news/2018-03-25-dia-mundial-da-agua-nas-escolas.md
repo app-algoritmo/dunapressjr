@@ -1,11 +1,12 @@
 ---
-title: "Dia Mundial da Água nas escolas"
+title: Dia Mundial da Água nas escolas
 date: 2018-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dia 22 de março foi o Dia Mundial da Água, e em vários países do mundo tanto as escolas quanto os templos religiosos, as associações de moradores e de bairro organizam uma série de atividades e festividades a fim de promover conscientização em relação ao consumo da água, assinalando a escassez desta riqueza única e que, como toda a Natureza, necessita de cuidados e atenção.
 

@@ -1,11 +1,12 @@
 ---
-title: "Discursos de Trump, Rohani e Bolsonaro geram expectativa na Assembleia da ONU"
+title: Discursos de Trump, Rohani e Bolsonaro geram expectativa na Assembleia da ONU
 date: 2019-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os presidentes dos Estados Unidos, Donald Trump, do Irã,
 Hassan Rohani, e do Brasil, Jair Bolsonaro, são os protagonistas dos discursos

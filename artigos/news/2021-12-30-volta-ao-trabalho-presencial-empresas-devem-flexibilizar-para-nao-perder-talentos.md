@@ -1,11 +1,13 @@
 ---
-title: "Volta ao trabalho presencial: empresas devem flexibilizar para não perder talentos"
+title: 'Volta ao trabalho presencial: empresas devem flexibilizar para não perder
+  talentos'
 date: 2021-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O especialista de Inteligência em Negócios Anderson Jimenez Figueiredo foi contratado em agosto de 2020 por uma empresa de Curitiba, mesmo morando em São Paulo. A empresa adotou trabalho remoto para funções como a dele, e, já nas entrevistas para contratação, foi acordado que ele não precisaria se mudar quando o regime de trabalho voltasse a ser presencial. “Quero continuar em São Paulo, pois minha esposa está com emprego novo. A negociação com a empresa nesse sentido foi tranquila. Estou me propondo a viajar para Curitiba frequentemente, mas continuar com minha base de trabalho em casa”, conta Anderson.
 

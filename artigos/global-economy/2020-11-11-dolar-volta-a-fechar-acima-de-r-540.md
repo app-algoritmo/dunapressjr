@@ -1,11 +1,12 @@
 ---
-title: "Dólar volta a fechar acima de R$ 5,40"
+title: Dólar volta a fechar acima de R$ 5,40
 date: 2020-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai depois de seis altas seguidas.
 

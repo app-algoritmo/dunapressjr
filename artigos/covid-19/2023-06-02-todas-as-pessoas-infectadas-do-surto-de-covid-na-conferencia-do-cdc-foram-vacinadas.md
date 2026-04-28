@@ -1,11 +1,12 @@
 ---
-title: "Todas as pessoas infectadas do surto de Covid na conferência do CDC foram vacinadas"
+title: Todas as pessoas infectadas do surto de Covid na conferência do CDC foram vacinadas
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um surto de COVID-19 ocorreu em uma conferência dos Centros de Controle e Prevenção de Doenças (CDC) dos EUA, apesar da maioria dos participantes estar vacinada.
 

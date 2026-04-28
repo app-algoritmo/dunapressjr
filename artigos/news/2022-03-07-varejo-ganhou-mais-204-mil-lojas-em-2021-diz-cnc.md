@@ -1,11 +1,12 @@
 ---
-title: "Varejo ganhou mais 204 mil lojas em 2021, diz CNC"
+title: Varejo ganhou mais 204 mil lojas em 2021, diz CNC
 date: 2022-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Comércio fechou 2021 com 2,4 milhões de estabelecimentos ativos.
 

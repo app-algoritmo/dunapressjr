@@ -1,11 +1,12 @@
 ---
-title: "Intenção de compra cresce 0,68% no 4º trimestre, diz pesquisa"
+title: Intenção de compra cresce 0,68% no 4º trimestre, diz pesquisa
 date: 2021-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em relação ao trimestre anterior, alta deve ser 0,52%.
 

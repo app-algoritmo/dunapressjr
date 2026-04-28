@@ -1,11 +1,12 @@
 ---
-title: "Operação Enterprise apreende mais de R$ 400 milhões em bens"
+title: Operação Enterprise apreende mais de R$ 400 milhões em bens
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi deflagrada nesta segunda-feira (23) a Operação Enterprise, que atingiu uma organização de tráfico de entorpecentes de alcance internacional, além de diversos outros crimes como lavagem de dinheiro e remessa ilegal de divisas para o exterior. A quadrilha, com ramificações em vários estados, tinha uma das principais bases logísticas no litoral do Paraná, com forte atuação pelo Porto de Paranaguá.
 

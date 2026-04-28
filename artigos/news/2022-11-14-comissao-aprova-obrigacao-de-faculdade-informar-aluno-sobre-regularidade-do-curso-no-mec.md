@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova obrigação de faculdade informar aluno sobre regularidade do curso no MEC"
+title: Comissão aprova obrigação de faculdade informar aluno sobre regularidade do
+  curso no MEC
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Defesa do Consumidor da Câmara dos Deputados aprovou o [Projeto de Lei 5781/19](https://www.camara.leg.br/noticias/626767-proposta-exige-que-faculdades-informem-alunos-sobre-regularidade-do-curso-no-mec/), pelo qual os contratos de prestação de serviços educacionais deverão conter cláusula específica, destacada em negrito, sobre a regularidade, junto ao Ministério da Educação (MEC), da instituição e do curso.
 

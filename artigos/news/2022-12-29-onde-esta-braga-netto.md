@@ -1,11 +1,12 @@
 ---
-title: "Onde está Braga Netto?"
+title: Onde está Braga Netto?
 date: 2022-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Aonde está o braço direito do Presidente Jair Bolsonaro? Um dos homens de confiança de Jair Bolsonaro, o ex-candidato a vice não dá as caras já tem alguns dias.
 

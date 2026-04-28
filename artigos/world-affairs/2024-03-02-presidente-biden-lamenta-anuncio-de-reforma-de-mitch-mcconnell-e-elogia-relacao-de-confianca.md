@@ -1,11 +1,13 @@
 ---
-title: "Presidente Biden Lamenta Anúncio de Reforma de Mitch McConnell e Elogia Relação de Confiança"
+title: Presidente Biden Lamenta Anúncio de Reforma de Mitch McConnell e Elogia Relação
+  de Confiança
 date: 2024-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, expressou seu pesar pela decisão do líder da minoria republicana no Senado, Mitch McConnell, de 82 anos, de se retirar do cargo, destacando a confiança mútua entre os dois e elogiando a integridade de McConnell.
 

@@ -1,11 +1,13 @@
 ---
-title: "Adesão dos estados à regionalização dos serviços de saneamento básico supera expectativa do Governo Federal"
+title: Adesão dos estados à regionalização dos serviços de saneamento básico supera
+  expectativa do Governo Federal
 date: 2022-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A partir de agora, as agências reguladoras têm até 31 de março para finalizarem as análises e declararem os contratos de prestação de serviço regulares ou irregulares.
 

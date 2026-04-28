@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor sobe 4,3 pontos em abril, diz FGV"
+title: Confiança do consumidor sobe 4,3 pontos em abril, diz FGV
 date: 2021-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice representa recuperação de 72,5 pontos referente a março.
 

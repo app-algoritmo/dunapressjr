@@ -1,11 +1,12 @@
 ---
-title: "Joe Biden, o candidato fantasma para a presidência dos EUA"
+title: Joe Biden, o candidato fantasma para a presidência dos EUA
 date: 2020-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Repórteres dos EUA se perguntam por Joe Biden.
 

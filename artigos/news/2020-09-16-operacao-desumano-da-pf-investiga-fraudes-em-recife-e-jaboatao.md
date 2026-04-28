@@ -1,11 +1,12 @@
 ---
-title: "Operação Desumano da PF investiga fraudes em Recife e Jaboatão"
+title: Operação Desumano da PF investiga fraudes em Recife e Jaboatão
 date: 2020-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prefeituras são investigadas em contratos para tratamentos da covid-19.
 

@@ -1,13 +1,15 @@
 ---
-title: "Ao vivo: Bolsonaro participa da Cerimônia de Cumprimentos dos Oficiais Generais das Forças Armadas"
+title: 'Ao vivo: Bolsonaro participa da Cerimônia de Cumprimentos dos Oficiais Generais
+  das Forças Armadas'
 date: 2022-12-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Policy
+- Military
+- News
+- Policy
 ---
+
 
 ## O presidente Jair Bolsonaro participa da Cerimônia de Cumprimentos dos Oficiais Generais das Forças Armadas, em Brasília (DF).
 

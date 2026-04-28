@@ -1,11 +1,12 @@
 ---
-title: "Os registros do Medicare mostram claramente que as vacinas estão matando pessoas"
+title: Os registros do Medicare mostram claramente que as vacinas estão matando pessoas
 date: 2023-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O CDC poderia liberar os registros das vacinações de morte no Medicare imediatamente. Mas eles não vão. Vou mostrar o porquê neste artigo de uma forma que todos possam entender.
 

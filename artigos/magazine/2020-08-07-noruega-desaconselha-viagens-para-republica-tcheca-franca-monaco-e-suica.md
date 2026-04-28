@@ -1,11 +1,12 @@
 ---
-title: "Noruega desaconselha viagens para República Tcheca, França, Mônaco e Suíça"
+title: Noruega desaconselha viagens para República Tcheca, França, Mônaco e Suíça
 date: 2020-08-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Ministério das Relações Exteriores agora está desaconselhando viagens não essenciais para a República Tcheca, França, Mônaco e Suíça. Também estão sendo feitas mudanças nas recomendações de viagens para várias regiões da Suécia.
 

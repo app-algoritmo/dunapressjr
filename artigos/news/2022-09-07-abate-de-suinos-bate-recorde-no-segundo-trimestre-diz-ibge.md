@@ -1,11 +1,12 @@
 ---
-title: "Abate de suínos bate recorde no segundo trimestre, diz IBGE"
+title: Abate de suínos bate recorde no segundo trimestre, diz IBGE
 date: 2022-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Números integram Estatística da Produção Pecuária.
 

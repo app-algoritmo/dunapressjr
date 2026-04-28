@@ -1,11 +1,12 @@
 ---
-title: "Brasil avança às semifinais da Copa do Mundo de Vela"
+title: Brasil avança às semifinais da Copa do Mundo de Vela
 date: 2023-12-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Equipe de Robert Scheidt e Martine Grael liderou grupo e segue na disputa pelo título da SSL Gold Cup.
 

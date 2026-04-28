@@ -1,11 +1,12 @@
 ---
-title: "Redução da Mortalidade Materna"
+title: Redução da Mortalidade Materna
 date: 2022-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Organização Mundial de Saúde (OMS), na 10ª revisão da Classificação Internacional de Doenças (CID10), definiu como mortalidade materna “a morte de uma mulher durante a gestação ou até 42 dias após o término da gestação, independente da duração ou localização da gravidez, devida a qualquer causa relacionada com ou agravada pela gravidez ou por medidas em relação a ela, porém não devida a causas acidentais ou incidentais”.
 

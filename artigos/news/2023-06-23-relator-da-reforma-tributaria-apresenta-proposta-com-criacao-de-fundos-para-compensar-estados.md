@@ -1,11 +1,13 @@
 ---
-title: "Relator da Reforma Tributária apresenta proposta com criação de fundos para compensar estados"
+title: Relator da Reforma Tributária apresenta proposta com criação de fundos para
+  compensar estados
 date: 2023-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Substitutivo da reforma inclui Fundo de Desenvolvimento Regional e garantia de benefícios tributários em meio às mudanças no sistema tributário.
 

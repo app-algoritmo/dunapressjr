@@ -1,11 +1,12 @@
 ---
-title: "A fantástica ascensão da monarquia no Brasil"
+title: A fantástica ascensão da monarquia no Brasil
 date: 2019-11-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A verdadeira história do Brasil está vindo a tona, após 1 século de proibição republicana, milhões de brasileiros unidos em milhares de grupos e movimentos sociais pró monarquia, advogam pelo retorno do regime monárquico de Estado, que estava "à frente de seu tempo" oferecendo políticas verdadeiramente democráticas de desenvolvimento em todas às suas dimensões; Educacional, Política, Econômica, Social e Cultural. Em ascensão total, se estima que mais de 20% da população brasileira hoje, estejam trabalhando na divulgação dos fatos ocorridos desconhecidos até então pela grande maioria. Tudo aquilo que você aprendeu na escola até a chegada do atual governo ao poder, não passou de uma grande e orquestrada mentira.
 

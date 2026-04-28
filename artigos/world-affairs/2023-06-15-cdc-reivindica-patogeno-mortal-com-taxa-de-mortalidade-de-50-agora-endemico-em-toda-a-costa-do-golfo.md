@@ -1,11 +1,13 @@
 ---
-title: "CDC reivindica patógeno mortal com taxa de mortalidade de 50% agora endêmico em toda a costa do Golfo"
+title: CDC reivindica patógeno mortal com taxa de mortalidade de 50% agora endêmico
+  em toda a costa do Golfo
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os *Centros de Controle e Prevenção de Doenças* (CDC) declararam que um patógeno mortal que atingiu a Costa do Golfo dos EUA [agora é endêmico lá](https://www.dailymail.co.uk/health/article-12165835/Deadly-bacteria-kills-50-patients-ENDEMIC-gulf-coast-CDC-expert-says.html) , o que significa que agora é uma presença constante na área, embora não se espalhe fora de controle.
 

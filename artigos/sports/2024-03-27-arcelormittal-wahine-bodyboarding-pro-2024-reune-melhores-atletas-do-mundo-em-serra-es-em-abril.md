@@ -1,11 +1,13 @@
 ---
-title: "ArcelorMittal Wahine Bodyboarding Pro 2024 reúne melhores atletas do mundo, em Serra (ES), em abril"
+title: ArcelorMittal Wahine Bodyboarding Pro 2024 reúne melhores atletas do mundo,
+  em Serra (ES), em abril
 date: 2024-03-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Etapa brasileira do Circuito Mundial - premiada como a melhor de 2023 - será entre os dias 18 e 27, na praia de Jacaraípe. O evento chega com novidade nesta terceira edição: ainda mais inclusivo, com categoria para pessoas com deficiência visual.
 

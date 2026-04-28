@@ -1,11 +1,13 @@
 ---
-title: "HM O Príncipe herdeiro Haakon no processo de paz e acesso à eletricidade em Moçambique"
+title: HM O Príncipe herdeiro Haakon no processo de paz e acesso à eletricidade em
+  Moçambique
 date: 2020-02-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Menos de 30% da população de Moçambique tem acesso à eletricidade
 

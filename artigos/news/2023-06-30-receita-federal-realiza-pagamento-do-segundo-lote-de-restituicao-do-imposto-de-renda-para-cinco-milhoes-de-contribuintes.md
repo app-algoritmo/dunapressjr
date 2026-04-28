@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal realiza pagamento do segundo lote de restituição do Imposto de Renda para cinco milhões de contribuintes"
+title: Receita Federal realiza pagamento do segundo lote de restituição do Imposto
+  de Renda para cinco milhões de contribuintes
 date: 2023-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cinco milhões de contribuintes receberão R$ 7,5 bilhões, com prioridade para aqueles que informaram a chave Pix no momento da declaração.
 

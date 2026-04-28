@@ -1,11 +1,13 @@
 ---
-title: "Solução de Consulta COSIT nº 111 esclarece condições para alíquota zero de PIS/Pasep e Cofins em artigos de laboratório destinados a análises clínicas"
+title: Solução de Consulta COSIT nº 111 esclarece condições para alíquota zero de
+  PIS/Pasep e Cofins em artigos de laboratório destinados a análises clínicas
 date: 2023-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Importação e comercialização de produtos listados no Anexo III do Decreto nº 6.426/2008 devem ser destinados a laboratórios de análises clínicas conforme normas da Anvisa e CNES".
 

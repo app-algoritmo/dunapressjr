@@ -1,11 +1,12 @@
 ---
-title: "O Resgate 2: Sequência de Pura Ação – Netflix"
+title: 'O Resgate 2: Sequência de Pura Ação – Netflix'
 date: 2023-10-23
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

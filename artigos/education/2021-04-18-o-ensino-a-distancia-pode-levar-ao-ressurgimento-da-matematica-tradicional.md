@@ -1,11 +1,12 @@
 ---
-title: "O ensino à distância pode levar ao ressurgimento da matemática tradicional"
+title: O ensino à distância pode levar ao ressurgimento da matemática tradicional
 date: 2021-04-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## -Escolas em muitos países estão fechadas e parece que podem permanecer fechadas nos próximos meses.
 

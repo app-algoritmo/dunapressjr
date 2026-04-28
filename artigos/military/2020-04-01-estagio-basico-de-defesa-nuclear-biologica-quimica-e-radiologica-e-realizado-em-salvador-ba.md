@@ -1,11 +1,13 @@
 ---
-title: "Estágio básico de defesa Nuclear, Biológica, Química e Radiológica é realizado em Salvador-BA"
+title: Estágio básico de defesa Nuclear, Biológica, Química e Radiológica é realizado
+  em Salvador-BA
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Estágio Básico de Defesa Nuclear, Biológica, Química e Radiológica (NBQR), conduzido pelo Comando do 2ºDistrito Naval, por meio do Grupamento de Fuzileiros Navais de Salvador, foi finalizado no dia 31 de março. Com duração de quatro dias úteis, o estágio contou com a participação de 30 alunos, sendo 15 da Marinha do Brasil, 6 do Exército Brasileiro, 5 da Força Aérea Brasileira, 1 Policial Militar, 2 Bombeiros Militares e 1 agente da Defesa Civil do Estado da Bahia.
 

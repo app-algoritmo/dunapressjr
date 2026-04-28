@@ -1,11 +1,13 @@
 ---
-title: "Rússia apela à Venezuela e à Guiana que 'absterem-se' de agravar a situação em Essequibo"
+title: Rússia apela à Venezuela e à Guiana que 'absterem-se' de agravar a situação
+  em Essequibo
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Rússia pediu esta sexta-feira à Venezuela e à Guiana que **[se abstenham](https://www.europapress.es/internacional/noticia-rusia-pide-venezuela-guyana-evitar-mayor-escalada-marco-conflicto-esequibo-20231208174537.html) de qualquer ação que possa “desequilibrar” ou agravar a situação** no quadro do conflito do Essequibo, território guianense que é reivindicado por Caracas como seu.
 

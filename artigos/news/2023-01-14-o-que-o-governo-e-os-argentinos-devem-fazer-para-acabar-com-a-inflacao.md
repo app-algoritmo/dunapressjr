@@ -1,11 +1,12 @@
 ---
-title: "O que o governo e os argentinos devem fazer para acabar com a inflação?"
+title: O que o governo e os argentinos devem fazer para acabar com a inflação?
 date: 2023-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Por fim, a inflação em 2022 na Argentina apresentou uma taxa acumulada de 94,8%, classificando-se como a [quarta pior do mundo](https://www.clarin.com/economia/argentina-termino-cuarta-inflacion-alta-mundo-2022-segunda-lejos-america-latina_0_7WbfXJJvxZ.html). Embora pareça incrível, o governo não anunciou isso como um fracasso total. Vários meses atrás, Sergio Massa e companhia haviam estabelecido a meta de terminar em menos de três dígitos, embora o orçamento de março dissesse algo muito diferente. Enquanto persiste o desastre econômico, as autoridades insistem em uma teoria inusitada: que se trata de um problema coletivo que "todos os argentinos" devem resolver. Em outras palavras, eles se colocam em pé de igualdade com os cidadãos comuns que devem receber e utilizar seus ingressos desvalorizados. Então, o que teríamos que fazer para acabar com a inflação?
 

@@ -1,12 +1,13 @@
 ---
-title: "5 vitaminas para aumentar a imunidade infantil"
+title: 5 vitaminas para aumentar a imunidade infantil
 date: 2022-11-16
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
-  - Health
+- Food
+- Health
 ---
+
 
 As crianças precisam de vitaminas para aumentar a [imunidade infantil](https://www.blumel.com.br/blog/tratamentos/como-melhorar-a-imunidade-infantil-de-forma-pratica-e-descomplicada) e garantir mais proteção contra gripes, resfriados e outras doenças que provocam bastante desconforto no dia a dia. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova monitoramento eletrônico de acusado de violência doméstica"
+title: Comissão aprova monitoramento eletrônico de acusado de violência doméstica
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Segundo o texto, o juiz poderá requisitar auxílio da polícia para garantir a efetividade das medidas protetivas.
 

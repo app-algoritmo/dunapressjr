@@ -1,11 +1,12 @@
 ---
-title: "Inscrições para cursos gratuitos se encerram nesta sexta-feira (24)"
+title: Inscrições para cursos gratuitos se encerram nesta sexta-feira (24)
 date: 2020-07-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## CAPES oferece 75 mil vagas para três cursos on-line: Português, Matemática e Tecnologias da Informação e Comunicação.
 

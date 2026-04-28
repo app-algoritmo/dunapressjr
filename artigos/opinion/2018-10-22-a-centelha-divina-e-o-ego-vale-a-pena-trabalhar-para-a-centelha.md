@@ -1,12 +1,13 @@
 ---
-title: "A centelha divina e o ego - Vale a pena trabalhar para a centelha"
+title: A centelha divina e o ego - Vale a pena trabalhar para a centelha
 date: 2018-10-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Realmente, a palavra de Deus tem a possibilidade de transformar o nosso dia a dia em uma história de libertação das trevas do mal pessoal e social, mas, espera a nossa adesão pessoal e consciente, mesmo que imperfeita e frágil.
 

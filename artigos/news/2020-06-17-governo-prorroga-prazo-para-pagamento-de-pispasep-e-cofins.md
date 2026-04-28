@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga prazo para pagamento de PIS/Pasep e Cofins"
+title: Governo prorroga prazo para pagamento de PIS/Pasep e Cofins
 date: 2020-06-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Decisão foi tomada devido à pandemia do novo coronavírus.
 

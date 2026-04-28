@@ -1,11 +1,12 @@
 ---
-title: "Brasil terá crédito de US$ 1,2 bi para projetos agrícolas"
+title: Brasil terá crédito de US$ 1,2 bi para projetos agrícolas
 date: 2022-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Convênio foi assinado com o BID.
 

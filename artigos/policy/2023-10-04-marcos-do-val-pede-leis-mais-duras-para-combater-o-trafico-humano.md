@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val pede leis mais duras para combater o tráfico humano"
+title: Marcos do Val pede leis mais duras para combater o tráfico humano
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) defendeu, em pronunciamento no Plenário nesta terça-feira (3), a necessidade de combater o tráfico humano, um crime que está aumentando em todo o mundo. O senador ressaltou a necessidade de criar mecanismos legislativos mais robustos para enfrentar essa atividade criminosa, especialmente o tráfico de crianças.
 

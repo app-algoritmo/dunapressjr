@@ -1,11 +1,12 @@
 ---
-title: "15 livros que todo estudante precisa ler antes de entrar na universidade"
+title: 15 livros que todo estudante precisa ler antes de entrar na universidade
 date: 2022-08-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Muito além dos livros exigidos nos vestibulares e no Exame Nacional do Ensino Médio (Enem), algumas obras são fundamentais para adquirir conhecimento que vai ser muito útil durante a vida acadêmica. Por isso, professores do Colégio Positivo selecionaram livros indispensáveis para todas as áreas do conhecimento. São obras que todos deveriam ler antes de entrar na universidade.
 

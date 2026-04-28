@@ -1,11 +1,12 @@
 ---
-title: "BC projeta 'ligeiro superávit' de US$ 3 bilhões para contas externas"
+title: BC projeta 'ligeiro superávit' de US$ 3 bilhões para contas externas
 date: 2021-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa para 2021 corresponde a 0,2% do Produto Interno Bruto.
 

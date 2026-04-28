@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate disseminação de pornografia infanto-juvenil no Amapá"
+title: Polícia Federal combate disseminação de pornografia infanto-juvenil no Amapá
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou na quinta-feira (4/6) a Operação Jizo*, com objetivo de combater disseminação de pornografia e exploração sexual infanto-juvenil, no Amapá.
 

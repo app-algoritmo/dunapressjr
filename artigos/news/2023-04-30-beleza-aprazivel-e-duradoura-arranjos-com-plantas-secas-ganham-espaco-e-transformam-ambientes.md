@@ -1,11 +1,13 @@
 ---
-title: "Beleza aprazível e duradoura: arranjos com plantas secas ganham espaço e transformam ambientes"
+title: 'Beleza aprazível e duradoura: arranjos com plantas secas ganham espaço e transformam
+  ambientes'
 date: 2023-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aos poucos, as plantas secas e desidratadas foram conquistando um espaço especial na decoração dos ambientes. Ao combinar beleza, durabilidade e pouca cuidado com manutenção, os arranjos secos incorporam um visual bucólico, orgânico e conceitual, conferindo personalidade à decoração do lar sem necessidade de cultivo cuidadoso. Pesquisas na internet confirmam a tendência: nos últimos doze meses, a busca por "plantas secas na decoração" registrou um aumento de mais de 70%, segundo dados do Google Trends. 
 

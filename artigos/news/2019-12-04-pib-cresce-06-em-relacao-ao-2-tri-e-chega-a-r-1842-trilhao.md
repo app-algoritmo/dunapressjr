@@ -1,11 +1,12 @@
 ---
-title: "PIB cresce 0,6% em relação ao 2º tri e chega a R$ 1,842 trilhão"
+title: PIB cresce 0,6% em relação ao 2º tri e chega a R$ 1,842 trilhão
 date: 2019-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Produto Interno Bruto (PIB) cresceu 0,6% no 3º trimestre de 2019 frente ao 2º trimestre de 2019, na série com ajuste sazonal. Em relação a igual período de 2018, o crescimento foi de 1,2%. No acumulado em quatro trimestres terminados no 3º trimestre de 2019, o PIB registrou crescimento de 1,0%, frente aos quatro trimestres imediatamente anteriores. Já acumulado do ano até o mês de setembro, o PIB cresceu 1,0%, em relação a igual período de 2018.
 

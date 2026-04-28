@@ -1,11 +1,13 @@
 ---
-title: "IPC-S registra leve alta na terceira quadrissemana de julho de 2023, aponta FGV/Ibre"
+title: IPC-S registra leve alta na terceira quadrissemana de julho de 2023, aponta
+  FGV/Ibre
 date: 2023-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento de 0,10% na terceira quadrissemana e acumulado de 3,56% em 12 meses.
 

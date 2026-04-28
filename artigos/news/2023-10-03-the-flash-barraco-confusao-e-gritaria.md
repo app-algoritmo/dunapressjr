@@ -1,12 +1,13 @@
 ---
-title: "The Flash - Barraco, Confusão e Gritaria"
+title: The Flash - Barraco, Confusão e Gritaria
 date: 2023-10-03
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 **Escute a resenha aqui:**
 

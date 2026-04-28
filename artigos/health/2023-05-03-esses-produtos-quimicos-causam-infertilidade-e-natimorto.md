@@ -1,11 +1,12 @@
 ---
-title: "Esses produtos químicos causam infertilidade e natimorto"
+title: Esses produtos químicos causam infertilidade e natimorto
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Os "produtos químicos para sempre" encontrados em 97% dos americanos podem causar estragos nas vias metabólicas das crianças e reduzir a fertilidade em até 40%.
 

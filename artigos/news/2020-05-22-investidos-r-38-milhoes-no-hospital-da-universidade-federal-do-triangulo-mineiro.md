@@ -1,11 +1,13 @@
 ---
-title: "Investidos R$ 3,8 milhões no Hospital da Universidade Federal do Triângulo Mineiro"
+title: Investidos R$ 3,8 milhões no Hospital da Universidade Federal do Triângulo
+  Mineiro
 date: 2020-05-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 **Investimento possibilitou a criação de 54 leitos para atender pacientes com suspeita ou confirmação de Covid-19**
 

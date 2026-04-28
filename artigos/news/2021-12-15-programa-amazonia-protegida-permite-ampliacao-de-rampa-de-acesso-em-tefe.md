@@ -1,11 +1,12 @@
 ---
-title: "Programa Amazônia Protegida permite ampliação de rampa de acesso em Tefé"
+title: Programa Amazônia Protegida permite ampliação de rampa de acesso em Tefé
 date: 2021-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No dia 6 de dezembro, foi concluído o Projeto Básico de ampliação da rampa de acesso ao Porto da 16ª Base Logística (16ª Ba Log), em Tefé. O projeto foi financiado pelo Programa Amazônia Protegida, que tem entre suas finalidades a contribuição para a garantia da soberania nacional, da integridade territorial e dos interesses nacionais; a promoção do desenvolvimento sustentável com valorização da diversidade sociocultural e ecológica e da redução das desigualdades regionais. Futuramente, haverá a provisão de recursos para a ampliação dessa rampa, que terá a medida de 300 metros de comprimento por 12 metros de largura, com pavimentação rígida em concreto armado.
 

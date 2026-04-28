@@ -1,11 +1,12 @@
 ---
-title: "Sarabande – Quando não é você quem toca a música, mas é a música que lhe toca!"
+title: Sarabande – Quando não é você quem toca a música, mas é a música que lhe toca!
 date: 2021-11-23
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ***ALEGRÍA***
 

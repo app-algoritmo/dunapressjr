@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores chineses encontram coronavírus no ar em hospitais"
+title: Pesquisadores chineses encontram coronavírus no ar em hospitais
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores na China descobriram marcadores genéticos do novo coronavírus em gotículas transportadas pelo ar, que podem permanecer no ar por mais de duas horas, de acordo com um novo estudo publicado na revista *Nature* .
 

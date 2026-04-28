@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra Operação Sarcófago para combater esquema de pirâmide financeira na Paraíba"
+title: Polícia Federal deflagra Operação Sarcófago para combater esquema de pirâmide
+  financeira na Paraíba
 date: 2023-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Golpe prometia rendimentos extraordinários em apostas esportivas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Tensões na Fronteira Sul dos EUA: Trump Critica Políticas de Imigração de Biden"
+title: 'Tensões na Fronteira Sul dos EUA: Trump Critica Políticas de Imigração de
+  Biden'
 date: 2024-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As tensões em torno das políticas de imigração dos Estados Unidos atingiram um novo ápice, com o ex-presidente Donald Trump criticando veementemente a administração de Joe Biden durante uma reunião com o governador do Texas, Greg Abbott. Trump classificou a crise migratória como uma "invasão causada por Joe Biden" e uma "violação cruel" do país.
 

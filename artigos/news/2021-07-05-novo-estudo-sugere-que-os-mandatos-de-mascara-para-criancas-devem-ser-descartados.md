@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo sugere que os mandatos de máscara para crianças devem ser descartados"
+title: Novo estudo sugere que os mandatos de máscara para crianças devem ser descartados
 date: 2021-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Níveis de CO2 cinco vezes mais altos para crianças usando máscaras, mesmo por curtos períodos de tempo, descobriu um novo estudo.
 

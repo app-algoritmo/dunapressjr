@@ -1,11 +1,12 @@
 ---
-title: "Quatro tendências de privacidade de dados para 2023"
+title: Quatro tendências de privacidade de dados para 2023
 date: 2023-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vazamentos gigantescos, golpes pelas redes sociais, mensagens de texto disparadas para celulares cobrando dívidas com grandes marcas. O tratamento dispensado aos dados pessoais no Brasil segue sendo um grande desafio para as empresas - e o pouco cuidado com essas informações ainda é fonte de uma série de problemas para os consumidores. De acordo com um relatório elaborado pela consultoria Statista Research Department, cerca de 52 milhões de violações de dados pessoais foram registradas apenas nos últimos três meses de 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "8 Plantas que ajudam a purificar o ar em casa?"
+title: 8 Plantas que ajudam a purificar o ar em casa?
 date: 2022-10-03
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 As plantas decorativas são uma tendência. Cada vez mais as plantas estão aparecendo nas casas, seja no jardim ou dentro de casa, além de embelezar o ambiente, as plantas também ajudam a purificar o ar interno e beneficiam a saúde mental do produtor.
 

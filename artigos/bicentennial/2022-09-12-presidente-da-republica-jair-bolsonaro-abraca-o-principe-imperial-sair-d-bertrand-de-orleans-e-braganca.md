@@ -1,13 +1,15 @@
 ---
-title: "Presidente da República Jair Bolsonaro abraça o Príncipe Imperial S.A.I.R D. Bertrand de Orleans e Bragança"
+title: Presidente da República Jair Bolsonaro abraça o Príncipe Imperial S.A.I.R D.
+  Bertrand de Orleans e Bragança
 date: 2022-09-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 Em 6 de setembro, na recepção aos chefes de estado e dignatários no Itamaraty, ao chegar, o Presidente Jair Messias Bolsonaro abraçou calorosamente o Chefe da Casa Imperial do Brasil, S. A. I. R. Dom Bertrand de Orleans e Bragança. Cumprimentou também seu sobrinho o Príncipe D. Gabriel de Orleans e Bragança e Malcolm Forest.
 

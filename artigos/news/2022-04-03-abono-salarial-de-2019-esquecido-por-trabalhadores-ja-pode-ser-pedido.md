@@ -1,11 +1,12 @@
 ---
-title: "Abono salarial de 2019 esquecido por trabalhadores já pode ser pedido"
+title: Abono salarial de 2019 esquecido por trabalhadores já pode ser pedido
 date: 2022-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É necessário pedir retirada ao Ministério da Previdência e Trabalho.
 

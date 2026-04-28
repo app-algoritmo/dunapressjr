@@ -1,11 +1,12 @@
 ---
-title: "Prêmio Professores do Brasil 2019"
+title: Prêmio Professores do Brasil 2019
 date: 2019-05-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O Prêmio Professores do Brasil é uma iniciativa do Ministério da Educação juntamente com instituições parceiras que **busca reconhecer, divulgar e premiar o trabalho de professores de escolas públicas que contribuem para a melhoria dos processos de ensino e aprendizagem desenvolvidos nas salas de aula.**
 

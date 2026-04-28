@@ -1,11 +1,13 @@
 ---
-title: "Governo federal reduz alíquotas de importação de alimentos e insumos para produção agrícola"
+title: Governo federal reduz alíquotas de importação de alimentos e insumos para produção
+  agrícola
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal zerou a alíquota do imposto de importação de alimentos como medida para auxiliar o combate à inflação. Também reduziu alíquotas de dois insumos para a produção agrícola e de vergalhões de aço. A decisão foi divulgada nesta quarta-feira (11/05) em reunião do Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex). As reduções entram em vigor na quinta-feira (12/05) e valem até o dia 31 de dezembro de 2022.
 

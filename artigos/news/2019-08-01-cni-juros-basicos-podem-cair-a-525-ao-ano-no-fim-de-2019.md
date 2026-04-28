@@ -1,11 +1,12 @@
 ---
-title: "CNI: juros básicos podem cair a 5,25%  ao ano no fim de 2019"
+title: 'CNI: juros básicos podem cair a 5,25%  ao ano no fim de 2019'
 date: 2019-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Entidades veem como positiva a queda da Selic a 6%
 

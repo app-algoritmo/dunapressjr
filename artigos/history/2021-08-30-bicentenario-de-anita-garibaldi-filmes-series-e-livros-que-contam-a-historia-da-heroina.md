@@ -1,11 +1,13 @@
 ---
-title: "Bicentenário de Anita Garibaldi: filmes, séries e livros que contam a história da heroína"
+title: 'Bicentenário de Anita Garibaldi: filmes, séries e livros que contam a história
+  da heroína'
 date: 2021-08-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Trajetória da mulher que lutou bravamente no Brasil e ajudou a mudar história na Itália pode ser conhecida por meio de filmes e livros; conheça alguns deles.
 

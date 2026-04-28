@@ -1,11 +1,12 @@
 ---
-title: "Advogado amigo do advogado do consultor do diabo"
+title: Advogado amigo do advogado do consultor do diabo
 date: 2020-06-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Moro, Zucolotto, Tacla e Odebrecht.
 

@@ -1,11 +1,12 @@
 ---
-title: "Noruega bate recorde de veículos elétricos"
+title: Noruega bate recorde de veículos elétricos
 date: 2021-03-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 -Atualização com dados de janeiro de 2021 |
 

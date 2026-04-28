@@ -1,11 +1,12 @@
 ---
-title: "Europa aponta para Argélia em busca de gás extra mesmo com vazamento catastrófico"
+title: Europa aponta para Argélia em busca de gás extra mesmo com vazamento catastrófico
 date: 2022-07-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Uma instalação de gás da Argélia está vazando metano na atmosfera há quase quatro décadas, comprovam cientistas.
 

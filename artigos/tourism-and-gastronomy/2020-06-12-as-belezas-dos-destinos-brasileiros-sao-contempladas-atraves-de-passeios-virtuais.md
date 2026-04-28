@@ -1,11 +1,12 @@
 ---
-title: "As belezas dos destinos brasileiros são contempladas através de passeios virtuais"
+title: As belezas dos destinos brasileiros são contempladas através de passeios virtuais
 date: 2020-06-12
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Sites reúnem opções de turismo online de Norte a Sul do país.
 

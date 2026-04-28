@@ -1,12 +1,13 @@
 ---
-title: "Nova descoberta de outros documentos classificados na posse de Biden"
+title: Nova descoberta de outros documentos classificados na posse de Biden
 date: 2023-01-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 ## Pela terceira vez em uma semana, a Casa Branca teve hoje que explicar um caso que pode complicar os últimos dois anos do mandato do presidente Biden.
 

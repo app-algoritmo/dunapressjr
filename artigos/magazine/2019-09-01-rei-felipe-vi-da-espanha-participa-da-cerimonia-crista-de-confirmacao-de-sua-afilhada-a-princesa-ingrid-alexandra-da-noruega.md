@@ -1,11 +1,13 @@
 ---
-title: "Rei Felipe VI da Espanha participa da cerimônia cristã de Confirmação de sua afilhada, a Princesa Ingrid Alexandra da Noruega"
+title: Rei Felipe VI da Espanha participa da cerimônia cristã de Confirmação de sua
+  afilhada, a Princesa Ingrid Alexandra da Noruega
 date: 2019-09-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## A Confirmação (Crisma) da Princesa da Noruega, Ingrid Alexandra, foi transmitida pela NRK em rede nacional. 
 

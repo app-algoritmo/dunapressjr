@@ -1,11 +1,12 @@
 ---
-title: "Começou na capital paulista  a feira do Empreendedor 2022 do Sebrae"
+title: Começou na capital paulista  a feira do Empreendedor 2022 do Sebrae
 date: 2022-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Evento acontece de forma presencial no São Paulo Expo.
 

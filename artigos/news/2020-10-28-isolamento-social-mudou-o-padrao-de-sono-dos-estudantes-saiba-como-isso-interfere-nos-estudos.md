@@ -1,11 +1,13 @@
 ---
-title: "Isolamento social mudou o padrão de sono dos estudantes; saiba como isso interfere nos estudos"
+title: Isolamento social mudou o padrão de sono dos estudantes; saiba como isso interfere
+  nos estudos
 date: 2020-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Sono desregulado prejudica aprendizagem, alertam neurocientistas**.
 

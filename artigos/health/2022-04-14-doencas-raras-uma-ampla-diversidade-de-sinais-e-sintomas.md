@@ -1,11 +1,12 @@
 ---
-title: "Doenças Raras: uma ampla diversidade de sinais e sintomas"
+title: 'Doenças Raras: uma ampla diversidade de sinais e sintomas'
 date: 2022-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Doenças raras são definidas pelo número reduzido de pessoas afetadas: 65 indivíduos a cada 100.000. Segundo a Organização Mundial da Saúde (OMS), elas são caracterizadas por uma ampla diversidade de sinais e sintomas, que variam de enfermidade para enfermidade, assim como de pessoa para pessoa afetada pela mesma condição.
 

@@ -1,11 +1,13 @@
 ---
-title: "O Ocultamento das Evidências: Revelações sobre o Ataque ao Capitólio e as Ações de Trump"
+title: 'O Ocultamento das Evidências: Revelações sobre o Ataque ao Capitólio e as
+  Ações de Trump'
 date: 2024-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No rescaldo do caos que envolveu o discurso sobre o Estado da União, as acusações de insurgência e o papel de Donald Trump no ataque ao Capitólio estão novamente em destaque. Recentemente, evidências emergiram do Comitê de 6 de janeiro liderado por Liz Cheney, revelando uma supressão deliberada de transcrições cruciais que contradizem narrativas previamente estabelecidas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Caso Rei Charles III: oito sinais de câncer que homens ignoram"
+title: 'Caso Rei Charles III: oito sinais de câncer que homens ignoram'
 date: 2024-03-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Prestar atenção a alguns desses sintomas pode evitar a maior parte dos tipos de câncer que atingem homens como o rei Charles III, da Inglaterra.
 

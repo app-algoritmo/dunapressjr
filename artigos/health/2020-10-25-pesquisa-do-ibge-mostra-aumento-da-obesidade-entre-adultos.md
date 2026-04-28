@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa do IBGE mostra aumento da obesidade entre adultos"
+title: Pesquisa do IBGE mostra aumento da obesidade entre adultos
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A proporção de obesos na população com 20 anos ou mais de idade mais que dobrou no país entre 2003 e 2019, passando de 12,2% para 26,8%. Nesse período, a obesidade feminina subiu de 14,5% para 30,2% , enquanto a obesidade masculina passou de 9,6% para 22,8%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Medidas Eficazes para Eliminar as Apologias ao Consumo e ao Tráfico de Drogas"
+title: Medidas Eficazes para Eliminar as Apologias ao Consumo e ao Tráfico de Drogas
 date: 2024-03-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Na luta contra o consumo e o tráfico de drogas, a prioridade número um deve ser a eliminação dos políticos apologistas. Esses políticos exercem influência significativa na promoção do uso de drogas, comprometendo a integridade do sistema político e minando esforços para abordar eficazmente o problema. Para alcançar esse objetivo, é essencial implementar legislação rigorosa que estabeleça diretrizes claras sobre a conduta ética dos políticos em relação ao uso de drogas, além de fortalecer mecanismos de responsabilização transparente e investir em educação preventiva e conscientização pública. A remoção dos políticos apologistas é crucial para criar uma base sólida para a implementação de medidas mais amplas e eficazes de combate ao consumo e ao tráfico de drogas.
 

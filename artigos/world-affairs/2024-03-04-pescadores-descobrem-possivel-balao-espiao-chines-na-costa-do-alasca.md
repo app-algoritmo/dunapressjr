@@ -1,11 +1,12 @@
 ---
-title: "Pescadores Descobrem Possível Balão Espião Chinês na Costa do Alasca"
+title: Pescadores Descobrem Possível Balão Espião Chinês na Costa do Alasca
 date: 2024-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Pescadores ao longo da costa do Alasca recentemente encontraram o que se suspeita ser um balão espião, conforme relatado pela CNN com base em fontes confiáveis. O Federal Bureau of Investigation (FBI) dos EUA planeja investigar o assunto assim que o navio pesqueiro chegar ao porto durante o fim de semana.
 

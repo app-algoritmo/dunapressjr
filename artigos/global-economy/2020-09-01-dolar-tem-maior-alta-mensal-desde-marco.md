@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior alta mensal desde março"
+title: Dólar tem maior alta mensal desde março
 date: 2020-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Moeda fechou o dia com alta de 1,20%, cotado a R$ 5,48.
 

@@ -1,11 +1,13 @@
 ---
-title: "Diplomata Russo Alerta para Crescente Expansão do Arsenal Nuclear do Reino Unido"
+title: Diplomata Russo Alerta para Crescente Expansão do Arsenal Nuclear do Reino
+  Unido
 date: 2024-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Diretor do Departamento de Não-Proliferação e Controle de Armas do Ministério dos Negócios Estrangeiros da Rússia, Vladimir Yermakov, emitiu um alerta sobre o contínuo aumento do arsenal nuclear do Reino Unido, destacando que é improvável que Londres pare após atingir seu limite declarado.
 

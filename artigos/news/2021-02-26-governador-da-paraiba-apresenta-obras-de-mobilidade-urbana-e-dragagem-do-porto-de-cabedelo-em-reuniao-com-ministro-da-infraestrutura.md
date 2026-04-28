@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba apresenta obras de mobilidade urbana e dragagem do Porto de Cabedelo em reunião com ministro da Infraestrutura"
+title: Governador da Paraíba apresenta obras de mobilidade urbana e dragagem do Porto
+  de Cabedelo em reunião com ministro da Infraestrutura
 date: 2021-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo se reuniu, nesta quinta-feira (25), em Brasília, com o ministro da Infraestrutura, Tarcísio Freitas, ocasião em que apresentou projetos da gestão estadual para a execução de obras de mobilidade urbana em João Pessoa e Campina Grande, bem como para o Porto de Cabedelo. 
 

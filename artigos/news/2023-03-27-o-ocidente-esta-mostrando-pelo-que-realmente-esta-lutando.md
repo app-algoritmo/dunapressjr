@@ -1,11 +1,12 @@
 ---
-title: "O Ocidente está mostrando pelo que realmente está lutando"
+title: O Ocidente está mostrando pelo que realmente está lutando
 date: 2023-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O anúncio de Londres de que quer entregar munição de urânio a Kiev não é apenas extremamente perigoso, mas também mostra que o Ocidente não está preocupado com a Ucrânia ou com o povo do país.
 

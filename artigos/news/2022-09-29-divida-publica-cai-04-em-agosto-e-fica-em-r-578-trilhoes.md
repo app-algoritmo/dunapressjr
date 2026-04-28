@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública cai 0,4% em agosto e fica em R$ 5,78 trilhões"
+title: Dívida Pública cai 0,4% em agosto e fica em R$ 5,78 trilhões
 date: 2022-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Vencimento de títulos corrigidos pela inflação justifica queda.
 

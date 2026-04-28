@@ -1,11 +1,12 @@
 ---
-title: "PF desarticula grupo criminoso de tráfico internacional de armas e drogas"
+title: PF desarticula grupo criminoso de tráfico internacional de armas e drogas
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - A Polícia Federal deflagrou nesta quinta-feira, 4/6, a Operação Pescador, objetivando desarticular organização criminosa voltada ao tráfico internacional de armas e drogas e associações criminosas que se dedicam a crimes de roubo na região de Foz do Iguaçu/PR, especialmente de mercadorias na região de Vila Portes próximo a Ponte Internacional da Amizade.
 

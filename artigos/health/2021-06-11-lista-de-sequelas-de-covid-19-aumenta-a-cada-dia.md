@@ -1,11 +1,12 @@
 ---
-title: "Lista de sequelas de covid-19 aumenta a cada dia"
+title: Lista de sequelas de covid-19 aumenta a cada dia
 date: 2021-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudo aponta pelo menos oito áreas que podem ser comprometidas pela infecção e que vão de sequelas cerebrais a dermatológicas.
 

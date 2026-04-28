@@ -1,11 +1,13 @@
 ---
-title: "Demandando Justiça: Os Direitos Indenizatórios das Vítimas dos 'Twitter Files Brasil'"
+title: 'Demandando Justiça: Os Direitos Indenizatórios das Vítimas dos ''Twitter Files
+  Brasil'''
 date: 2024-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 **Twitter Files Brasil: Revelações Chocantes Levantam Alerta Contra a Tirania do Estado.**
 

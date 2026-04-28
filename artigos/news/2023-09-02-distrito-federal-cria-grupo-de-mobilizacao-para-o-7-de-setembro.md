@@ -1,11 +1,12 @@
 ---
-title: "Distrito Federal cria grupo de mobilização para o 7 de Setembro"
+title: Distrito Federal cria grupo de mobilização para o 7 de Setembro
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Gabinete de Mobilização terá primeira reunião na segunda-feira.
 

@@ -1,11 +1,12 @@
 ---
-title: "Desenvolvido pela UFRJ tecido antiviral para máscaras de proteção para a pandemia"
+title: Desenvolvido pela UFRJ tecido antiviral para máscaras de proteção para a pandemia
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Inmetro e PUC-Rio também participaram da criação do tecido.
 

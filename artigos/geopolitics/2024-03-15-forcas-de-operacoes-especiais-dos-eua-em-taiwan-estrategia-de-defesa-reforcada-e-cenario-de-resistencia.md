@@ -1,11 +1,13 @@
 ---
-title: "Forças de Operações Especiais dos EUA em Taiwan: Estratégia de defesa reforçada e cenário de resistência"
+title: 'Forças de Operações Especiais dos EUA em Taiwan: Estratégia de defesa reforçada
+  e cenário de resistência'
 date: 2024-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 As Forças de Operações Especiais dos EUA (SOF) foram destacadas permanentemente para as ilhas offshore de Taiwan, intensificando os preparativos para possíveis defesas insulares e missões de guerra de guerrilha contra uma invasão chinesa. Sob a Lei de Autorização de Defesa Nacional (NDAA) de 2023, as tropas dos EUA em Kinmen estão a apenas dez quilómetros da China continental, marcando um movimento estratégico significativo na região.
 

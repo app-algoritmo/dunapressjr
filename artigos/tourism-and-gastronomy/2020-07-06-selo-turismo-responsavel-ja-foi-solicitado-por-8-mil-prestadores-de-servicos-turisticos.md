@@ -1,11 +1,13 @@
 ---
-title: "Selo Turismo Responsável já foi solicitado por 8 mil prestadores de serviços turísticos"
+title: Selo Turismo Responsável já foi solicitado por 8 mil prestadores de serviços
+  turísticos
 date: 2020-07-06
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Iniciativa do Ministério do Turismo tem como objetivo auxiliar a retomada da atividade no país.
 

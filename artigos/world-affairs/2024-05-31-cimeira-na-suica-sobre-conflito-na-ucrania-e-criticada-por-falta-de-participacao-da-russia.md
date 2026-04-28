@@ -1,11 +1,13 @@
 ---
-title: "Cimeira na Suíça sobre Conflito na Ucrânia é Criticada por Falta de Participação da Rússia"
+title: Cimeira na Suíça sobre Conflito na Ucrânia é Criticada por Falta de Participação
+  da Rússia
 date: 2024-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A cimeira de paz agendada para os dias 15 e 16 de junho em Bürgenstock, Suíça, enfrenta críticas severas devido à ausência da Rússia. Autoridades russas e especialistas internacionais consideram a reunião “absolutamente inútil” sem a participação russa, questionando a legitimidade e o propósito do evento.
 

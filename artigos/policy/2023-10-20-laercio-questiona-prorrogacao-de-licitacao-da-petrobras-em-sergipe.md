@@ -1,11 +1,12 @@
 ---
-title: "Laércio questiona prorrogação de licitação da Petrobras em Sergipe"
+title: Laércio questiona prorrogação de licitação da Petrobras em Sergipe
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Laércio Oliveira (PP-PE), em pronunciamento no Plenário nesta terça-feira (17), manifestou preocupação com a prorrogação da licitação promovida pela Petrobras para o arrendamento de dois navios FPSO, que são embarcações de processamento primário de óleo e gás, destinados à operação no Projeto Sergipe Águas Profundas (SEAP). 
 

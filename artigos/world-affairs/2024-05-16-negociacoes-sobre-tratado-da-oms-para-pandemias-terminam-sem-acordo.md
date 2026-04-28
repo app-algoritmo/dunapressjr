@@ -1,11 +1,12 @@
 ---
-title: "Negociações sobre Tratado da OMS para Pandemias Terminam Sem Acordo"
+title: Negociações sobre Tratado da OMS para Pandemias Terminam Sem Acordo
 date: 2024-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As esperanças de apresentar um projeto final de tratado para combater futuras pandemias foram frustradas após as negociações entre os 194 estados membros da Organização Mundial da Saúde (OMS) encerrarem sem acordo na sexta-feira.
 

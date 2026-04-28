@@ -1,11 +1,12 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: Governo Federal reduz para 0,44% a taxa de inconformidades"
+title: 'AUXÍLIO EMERGENCIAL: Governo Federal reduz para 0,44% a taxa de inconformidades'
 date: 2020-07-09
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério da Cidadania, em trabalho conjunto com CGU e Dataprev, bloqueou cerca de 400 mil pagamentos com suspeitas de irregularidades. Índice de efetividade é o melhor do mundo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Operação Corpo Fechado investiga disseminação de pornografia infanto-juvenil pela Internet"
+title: Operação Corpo Fechado investiga disseminação de pornografia infanto-juvenil
+  pela Internet
 date: 2020-04-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Ji-Paraná/RO **- A Polícia Federal, neste sábado (25/4), desencadeou a Operação *Corpo Fechado*, com o objetivo de coibir a prática de crimes de pornografia infanto-juvenil praticados por meio da internet. Foram cumpridos três mandados de busca e apreensão, na cidade de Ji-Paraná/RO, na residência de suspeitos de envolvimento na obtenção, armazenamento e distribuição de imagens de crianças e adolescentes com conotação pornográfica.
 

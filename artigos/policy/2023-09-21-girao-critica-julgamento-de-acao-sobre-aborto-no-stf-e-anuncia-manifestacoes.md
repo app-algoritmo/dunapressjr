@@ -1,11 +1,12 @@
 ---
-title: "Girão critica julgamento de ação sobre aborto no STF e anuncia manifestações"
+title: Girão critica julgamento de ação sobre aborto no STF e anuncia manifestações
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) disse em pronunciamento no Plenário, nesta terça-feira (19), que o Supremo Tribunal Federal (STF) “interfere de maneira abusiva” nas prerrogativas do Poder Legislativo ao debater a descriminalização do aborto até a 12ª semana da gravidez. Ele lembrou que um projeto com o mesmo objetivo ([PL 1.135/1991](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=524097&)) já foi rejeitado pela Câmara dos Deputados depois de 15 anos de tramitação. 
 

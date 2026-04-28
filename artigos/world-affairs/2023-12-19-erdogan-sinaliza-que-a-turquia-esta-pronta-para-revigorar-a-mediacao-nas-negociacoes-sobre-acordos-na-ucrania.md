@@ -1,11 +1,13 @@
 ---
-title: "Erdogan sinaliza que a Turquia está pronta para revigorar a mediação nas negociações sobre acordos na Ucrânia"
+title: Erdogan sinaliza que a Turquia está pronta para revigorar a mediação nas negociações
+  sobre acordos na Ucrânia
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o presidente turco, o conflito na Ucrânia, bem como a crise em Gaza, só podem ser resolvidos através de meios pacíficos.
 

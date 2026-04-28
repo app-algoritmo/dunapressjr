@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,19 em meio a discussões sobre meta de inflação"
+title: Dólar sobe para R$ 5,19 em meio a discussões sobre meta de inflação
 date: 2023-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores cai 0,91% após iniciar o dia em alta.
 

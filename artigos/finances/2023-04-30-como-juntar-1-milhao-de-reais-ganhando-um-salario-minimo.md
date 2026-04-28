@@ -1,12 +1,13 @@
 ---
-title: "Como juntar 1 milhão de reais ganhando um salário mínimo"
+title: Como juntar 1 milhão de reais ganhando um salário mínimo
 date: 2023-04-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 Juntar um milhão de reais ganhando apenas um salário mínimo pode parecer um desafio difícil, mas com algumas estratégias e esforço, é possível chegar lá.
 

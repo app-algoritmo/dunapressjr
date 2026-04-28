@@ -1,11 +1,12 @@
 ---
-title: "Rio Branco (AC) completa 139 anos"
+title: Rio Branco (AC) completa 139 anos
 date: 2022-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Rio Branco (AC) completou 139 anos nesta terça-feira (28.12) trazendo ao fim do ano mais motivos para comemorar. A capital do Acre está localizada em uma região privilegiada, no coração da Amazônia, o que faz da cidade o local ideal para o ecoturismo. O Brasil está no topo do ranking dos países com mais riquezas naturais do mundo e a cidade aniversariante do dia com certeza é uma das estrelas nacionais nesse quesito e contribui para manter o país na lista dos destinos tendência no pós-pandemia.
 

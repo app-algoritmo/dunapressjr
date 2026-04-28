@@ -1,11 +1,12 @@
 ---
-title: "Congresso derruba vetos presidenciais de três leis"
+title: Congresso derruba vetos presidenciais de três leis
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trechos serão promulgados.
 

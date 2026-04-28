@@ -1,11 +1,13 @@
 ---
-title: "Restrições na Argentina impactam exportações brasileiras, aponta pesquisa da CNI"
+title: Restrições na Argentina impactam exportações brasileiras, aponta pesquisa da
+  CNI
 date: 2023-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Demora na aprovação de licenças e prazos longos para pagamento são os principais problemas enfrentados pelos exportadores.
 

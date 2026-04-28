@@ -1,11 +1,12 @@
 ---
-title: "Izalci ressalta importância da educação e do investimento em ciência e tecnologia"
+title: Izalci ressalta importância da educação e do investimento em ciência e tecnologia
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) relatou, em pronunciamento no Plenário nesta segunda-feira (2), sua participação no 18º Congresso Internacional de Inovação, ocorrido na semana passada em São Paulo. Ele enfatizou a importância da educação, da inovação e do investimento em ciência e tecnologia para o progresso do Brasil e alertou para os desafios a serem enfrentados nesses campos.
 

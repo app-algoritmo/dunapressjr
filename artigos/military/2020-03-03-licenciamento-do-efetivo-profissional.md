@@ -1,11 +1,12 @@
 ---
-title: "Licenciamento do Efetivo Profissional"
+title: Licenciamento do Efetivo Profissional
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Caxias do Sul (RS)** – No
 dia 28 de fevereiro, o 3º Grupo de Artilharia Antiaérea, “Grupo Conde de

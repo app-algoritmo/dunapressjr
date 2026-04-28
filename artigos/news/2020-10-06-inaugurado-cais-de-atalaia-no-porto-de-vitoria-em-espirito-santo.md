@@ -1,11 +1,12 @@
 ---
-title: "Inaugurado Cais de Atalaia no Porto de Vitória em Espírito Santo"
+title: Inaugurado Cais de Atalaia no Porto de Vitória em Espírito Santo
 date: 2020-10-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministro da Infraestrutura também autorizou, no último sábado, execução de obras para melhorias na BR-319, no Amazonas. 
 

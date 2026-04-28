@@ -1,11 +1,13 @@
 ---
-title: "Departamento de Defesa dos EUA Financia Pesquisa para Rações Militares Cultivadas em Laboratório"
+title: Departamento de Defesa dos EUA Financia Pesquisa para Rações Militares Cultivadas
+  em Laboratório
 date: 2024-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Defesa dos EUA (DoD) está se unindo à BioMADE, uma empresa de manufatura bioindustrial, para financiar pesquisas sobre o desenvolvimento de rações militares cultivadas em laboratório. A iniciativa visa reduzir a pegada de carbono dos militares e combater as mudanças climáticas, conforme relatado pelo Washington Free Beacon.
 

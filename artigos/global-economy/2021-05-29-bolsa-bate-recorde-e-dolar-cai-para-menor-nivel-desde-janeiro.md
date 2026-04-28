@@ -1,11 +1,12 @@
 ---
-title: "Bolsa bate recorde e dólar cai para menor nível desde janeiro"
+title: Bolsa bate recorde e dólar cai para menor nível desde janeiro
 date: 2021-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Moeda norte-americana acumula queda de 3,99% em maio.
 

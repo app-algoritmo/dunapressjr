@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega novas unidades de programa habitacional em Osasco"
+title: Governo Bolsonaro entrega novas unidades de programa habitacional em Osasco
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “A preocupação é não paralisar a obras já iniciadas”, disse Rogério Marinho, ministro do Desenvolvimento Regional. Empreendimento beneficia em torno de 1,2 mil pessoas.
 

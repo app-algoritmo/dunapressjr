@@ -1,11 +1,12 @@
 ---
-title: "Na estrada para morrer de tédio"
+title: Na estrada para morrer de tédio
 date: 2021-04-27
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Video library
+- Video library
 ---
+
 
 -O título serve como sugestão de subtítulo para “Nomadland” o mais deprimente e chato filme da história dos ganhadores do Oscar, que estava mais para a Framboesa de Ouro. 
 

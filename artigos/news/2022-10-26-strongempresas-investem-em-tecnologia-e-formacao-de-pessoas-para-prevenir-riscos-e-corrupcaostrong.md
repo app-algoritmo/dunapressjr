@@ -1,11 +1,13 @@
 ---
-title: "<strong>Empresas investem em tecnologia e formação de pessoas para prevenir riscos e corrupção</strong>"
+title: <strong>Empresas investem em tecnologia e formação de pessoas para prevenir
+  riscos e corrupção</strong>
 date: 2022-10-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de compliance ganha espaço mais estratégico e proativo nas corporações; encontrar equipes capacitadas na área é grande desafio.
 

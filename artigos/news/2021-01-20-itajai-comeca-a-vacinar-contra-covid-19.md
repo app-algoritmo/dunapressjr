@@ -1,11 +1,12 @@
 ---
-title: "Itajaí começa a vacinar contra COVID-19"
+title: Itajaí começa a vacinar contra COVID-19
 date: 2021-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Esperança e alento. Com essas palavras a primeira pessoa a ser vacinada no Município de Itajaí descreveu a chegada da imunização contra COVID-19. Enfermeira da Unidade de Pronto Atendimento (UPA) do Centro Integrado de Saúde (CIS), Jonilda Hugen Souza Vieira, de 47 anos, está na linha de frente de combate à pandemia e recebeu a dose inicial da vacina Coronavac na manhã desta quarta-feira (20), em ato no Centreventos.
 

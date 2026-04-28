@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova destinação de no mínimo 50% do FNDTC para regiões Norte, Nordeste e Centro-Oeste"
+title: Comissão aprova destinação de no mínimo 50% do FNDTC para regiões Norte, Nordeste
+  e Centro-Oeste
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Hoje lei assegura 30% do fundo de desenvolvimento tecnológico para essas regiões.
 

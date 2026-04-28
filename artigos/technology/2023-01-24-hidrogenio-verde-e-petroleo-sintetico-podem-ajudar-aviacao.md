@@ -1,11 +1,12 @@
 ---
-title: "Hidrogênio verde e petróleo sintético podem ajudar aviação"
+title: Hidrogênio verde e petróleo sintético podem ajudar aviação
 date: 2023-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 A obtenção de hidrogênio a partir de fontes de energias renováveis e posterior transformação em petróleo sintético podem ajudar a indústria de aviação a funcionar de forma mais sustentável. Um grupo de pesquisadores da Universidade Federal de Goiás (UFG), que conta com um bolsista da CAPES, trabalha em parceria com a Alemanha para vencer este desafio. A equipe é liderada por Christian Alonso, professor dos programas de pós-graduação em Química e em Engenharia Química da instituição goiana.
 

@@ -1,11 +1,13 @@
 ---
-title: "ChatGPT avança no mundo corporativo e revoluciona processos internos de empresas e instituições"
+title: ChatGPT avança no mundo corporativo e revoluciona processos internos de empresas
+  e instituições
 date: 2024-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Usando Inteligência Artificial Generativa, Grupo Marista cria plataforma para otimizar consultas entre colaboradores.
 

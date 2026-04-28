@@ -1,11 +1,13 @@
 ---
-title: "A campeã da ginástica Flávia Saraiva ensina como evitar burnout manter a saúde mental"
+title: A campeã da ginástica Flávia Saraiva ensina como evitar burnout manter a saúde
+  mental
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Após receber o carinho de meninos e meninas na Liga Esportiva NESCAU, em São Paulo, a carioca Flávia Saraiva está na Europa com a seleção brasileira de ginástica artística que vai disputar o Campeonato Mundial de 2022 em Liverpool, na Inglaterra, a partir de 29 de outubro.
 

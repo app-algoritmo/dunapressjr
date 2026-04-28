@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí recebe certificação inédita pela eliminação da transmissão vertical do HIV"
+title: Município de Itajaí recebe certificação inédita pela eliminação da transmissão
+  vertical do HIV
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, através da Secretaria Municipal de Saúde, recebeu uma certificação nacional inédita pela eliminação da transmissão vertical do HIV. A solenidade ocorreu na quarta-feira (07), em Brasília. Somente Itajaí e outros três municípios de Santa Catarina foram contemplados. Além da certificação, o Município recebeu o Selo Ouro de Boas Práticas rumo à eliminação de sífilis congênita.
 

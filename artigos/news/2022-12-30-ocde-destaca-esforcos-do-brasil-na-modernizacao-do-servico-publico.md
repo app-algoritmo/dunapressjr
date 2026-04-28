@@ -1,11 +1,12 @@
 ---
-title: "OCDE destaca esforços do Brasil na modernização do serviço público"
+title: OCDE destaca esforços do Brasil na modernização do serviço público
 date: 2022-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investimentos em digitalização e reforma nos serviços foram citados em relatório da entidade, que também apresentou recomendações para a gestão de desempenho dos servidores públicos e o sistema de carreiras.
 

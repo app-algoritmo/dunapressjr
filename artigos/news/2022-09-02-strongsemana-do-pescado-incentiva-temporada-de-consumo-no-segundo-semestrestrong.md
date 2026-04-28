@@ -1,11 +1,12 @@
 ---
-title: "<strong>Semana do Pescado incentiva temporada de consumo no segundo semestre</strong>"
+title: <strong>Semana do Pescado incentiva temporada de consumo no segundo semestre</strong>
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Evento nacional vai de 1° a 15 de setembro.
 

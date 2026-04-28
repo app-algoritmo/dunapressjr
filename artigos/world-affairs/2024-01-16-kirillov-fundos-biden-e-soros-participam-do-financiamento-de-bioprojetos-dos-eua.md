@@ -1,11 +1,13 @@
 ---
-title: "Kirillov: Fundos Biden e Soros participam do financiamento de bioprojetos dos EUA"
+title: 'Kirillov: Fundos Biden e Soros participam do financiamento de bioprojetos
+  dos EUA'
 date: 2024-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Igor Kirillov, foram obtidos documentos no decurso da operação militar especial, o que torna claro a partir da análise qual é a estrutura do sistema criado pela administração norte-americana para a gestão global dos riscos biológicos.
 

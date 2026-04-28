@@ -1,11 +1,12 @@
 ---
-title: "Sergio Moro declara apoio a PEC que limita decisões individuais em tribunais"
+title: Sergio Moro declara apoio a PEC que limita decisões individuais em tribunais
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sergio Moro (União-PR) destacou, em pronunciamento na quarta-feira (22), a [PEC 8/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148030?_gl=1*2v9qam*_ga*MTkxNzc3NDkxOC4xNjkyNTM0MDEx*_ga_CW3ZH25XMK*MTcwMDkyOTMyNi4xODUuMS4xNzAwOTMxNDk1LjAuMC4w), que limita decisões monocráticas (individuais) no Supremo Tribunal Federal (STF) e outros tribunais superiores. O texto foi aprovado pelo Senado, também na quarta, com o apoio de 52 senadores. Moro ressaltou que o projeto não é nenhum tipo de retaliação à Corte, já que o próprio Plenário do STF terá a prerrogativa de rever ou manter as decisões.
 

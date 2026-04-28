@@ -1,11 +1,12 @@
 ---
-title: "Beneficiários do Auxílio Brasil terão acesso a crédito especial"
+title: Beneficiários do Auxílio Brasil terão acesso a crédito especial
 date: 2021-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Caixa oferecerá crédito com juros reduzidos a inscritos no programa.
 

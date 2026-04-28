@@ -1,11 +1,12 @@
 ---
-title: "O que é Licitação?"
+title: O que é Licitação?
 date: 2022-05-02
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 A [área do direito](https://direitoreal.com.br) apresenta diversos tópicos importantes para a administração pública, sendo uma delas, a área de **licitações e contratos**. Em 2021, foi instituída a denominada Nova Lei de Licitações (14.133/2021), alterada para expandir a anterior (8666/93), de 1993, com algumas camadas apresentadas a seguir.
 

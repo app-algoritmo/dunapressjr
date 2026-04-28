@@ -1,11 +1,12 @@
 ---
-title: "Governo de SP prorroga contrato de trabalho de 61 mil professores temporários"
+title: Governo de SP prorroga contrato de trabalho de 61 mil professores temporários
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A decisão é válida para profissionais com termos assinados entre os anos de 2021, 2022 e 2023.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança da construção cresce 1,2 ponto em junho"
+title: Confiança da construção cresce 1,2 ponto em junho
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice é medido pela Fundação Getulio Vargas.
 

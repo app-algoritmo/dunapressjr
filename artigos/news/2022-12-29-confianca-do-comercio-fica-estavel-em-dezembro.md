@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio fica estável em dezembro"
+title: Confiança do comércio fica estável em dezembro
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice divulgado hoje pelo Instituto Brasileiro de Economia da FGV.
 

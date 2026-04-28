@@ -1,12 +1,13 @@
 ---
-title: "Instituto Etiene Medeiros recebe 200 alunos para o início das aulas em 2024"
+title: Instituto Etiene Medeiros recebe 200 alunos para o início das aulas em 2024
 date: 2024-02-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Ano a ano, o IEM vem crescendo no número de crianças e adolescentes que participam das atividades no Centro Esportivo Santos Dumont, no Recife (PE), assim como está sempre buscando a realização de novos projetos.
 

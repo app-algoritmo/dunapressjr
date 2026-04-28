@@ -1,11 +1,12 @@
 ---
-title: "Uma carta aberta aos árabes israelenses"
+title: Uma carta aberta aos árabes israelenses
 date: 2021-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Por: **Abraham Chicheportiche***
 

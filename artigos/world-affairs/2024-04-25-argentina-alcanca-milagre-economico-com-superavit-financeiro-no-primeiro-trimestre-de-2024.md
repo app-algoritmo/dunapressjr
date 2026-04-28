@@ -1,11 +1,13 @@
 ---
-title: "Argentina Alcança 'Milagre Econômico' com Superávit Financeiro no Primeiro Trimestre de 2024"
+title: Argentina Alcança 'Milagre Econômico' com Superávit Financeiro no Primeiro
+  Trimestre de 2024
 date: 2024-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na noite de segunda-feira, o presidente Javier Milei fez um anúncio histórico para a Argentina, proclamando um "milagre econômico" ao revelar um superávit financeiro no primeiro trimestre de 2024. Com um excedente de 275 mil milhões de pesos, equivalente a cerca de 260 milhões de euros, Milei destacou a magnitude do marco, sendo o primeiro trimestre com superávit desde 2008.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado de Santa Catarina conquista leitos de UTI para o tratamento de Covid-19"
+title: Governo do Estado de Santa Catarina conquista leitos de UTI para o tratamento
+  de Covid-19
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entre os dias 18 e 25 de novembro, o Governo de Santa Catarina conseguiu, junto ao Ministério da Saúde, a habilitação de mais 45 leitos de UTI para o tratamento de Covid-19 e a prorrogação do custeio de outros 50 leitos de terapia intensiva. São vagas disponíveis em diferentes regiões do estado. Somente com essas ações, o investimento do Governo Federal em Santa Catarina chega a R$ 7,2 milhões. O balanço da última semana foi passado de Brasília diretamente para a governadora Daniela Reinehr, que mantém diálogo constante com o Governo Federal nas ações de enfrentamento à pandemia.
 

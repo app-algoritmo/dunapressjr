@@ -1,11 +1,12 @@
 ---
-title: "Tragédia de Suzano,  pelos olhos de uma professora"
+title: Tragédia de Suzano,  pelos olhos de uma professora
 date: 2019-03-14
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 Acordamos hoje, quarta-feira, 13 de março, chocados com o massacre de cinco alunos, uma coordenadora pedagógica, uma funcionária da escola Raul Brasil, em Suzano, São Paulo, mais o assassinato do proprietário de uma locadora de automóveis e o suicídio dos assassinos. Total de 10 mortos. Como ex-professora, se é que isso existe, e sempre muito próxima das comunidades dos entornos das escolas em que lecionei por mais de vinte anos, senti um misto de tristeza e revolta, principalmente depois de ver as imagens do momento do ataque: o portão principal, por onde entraram os assassinos sem nenhuma resistência, estava escancarado,  em pleno horário de intervalo. Primeira responsabilidade: da escola.
 

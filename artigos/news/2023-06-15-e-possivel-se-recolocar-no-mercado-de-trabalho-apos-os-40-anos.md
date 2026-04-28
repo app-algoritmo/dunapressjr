@@ -1,11 +1,12 @@
 ---
-title: "É possível se recolocar no mercado de trabalho após os 40 anos?"
+title: É possível se recolocar no mercado de trabalho após os 40 anos?
 date: 2023-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Historicamente, encontrar emprego depois de uma certa idade era difícil e, muitas vezes, as vagas que estavam disponíveis não faziam jus à experiência e ao currículo dos profissionais. No entanto, esse é um cenário que vem mudando ao longo dos últimos anos. O aumento da expectativa e qualidade de vida e a valorização de uma gestão de pessoas mais humanizada têm sido alguns dos pontos focais dessa transformação.
 

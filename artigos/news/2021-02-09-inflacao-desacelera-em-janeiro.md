@@ -1,11 +1,12 @@
 ---
-title: "Inflação desacelera em janeiro"
+title: Inflação desacelera em janeiro
 date: 2021-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A mudança de bandeira nas contas de energia elétrica e as quedas nos preços de passagens aéreas ajudaram o resultado.
 

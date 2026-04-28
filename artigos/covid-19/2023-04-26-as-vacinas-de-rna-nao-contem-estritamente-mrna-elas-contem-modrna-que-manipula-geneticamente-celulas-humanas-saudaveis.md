@@ -1,12 +1,14 @@
 ---
-title: "As vacinas de RNA não contêm estritamente mRNA, elas contêm modRNA, que manipula geneticamente células humanas saudáveis"
+title: As vacinas de RNA não contêm estritamente mRNA, elas contêm modRNA, que manipula
+  geneticamente células humanas saudáveis
 date: 2023-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 É um nome impróprio, estamos perturbados em relatar, que as “vacinas” do coronavírus Wuhan (Covid-19) sejam chamadas de mRNA, abreviação de RNA mensageiro. Acontece que essas injeções mortais [realmente contêm](https://www.theepochtimes.com/health/rna-based-vaccine-technology-the-trojan-horse-did-not-contain-mrna_5195804.html) o que é conhecido como RNA *modificado , ou modRNA, que o Dr. Klaus Steger, PhD, diz que manipula geneticamente células saudáveis.*
 

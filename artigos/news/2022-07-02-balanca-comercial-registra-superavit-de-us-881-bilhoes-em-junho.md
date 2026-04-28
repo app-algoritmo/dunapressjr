@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra superávit de US$ 8,81 bilhões em junho"
+title: Balança comercial registra superávit de US$ 8,81 bilhões em junho
 date: 2022-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Encarecimento de importados fez saldo cair 15,4%.
 

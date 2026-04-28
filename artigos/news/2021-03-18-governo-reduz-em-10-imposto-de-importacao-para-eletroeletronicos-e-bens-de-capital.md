@@ -1,11 +1,13 @@
 ---
-title: "Governo reduz em 10% imposto de importação para eletroeletrônicos e bens de capital"
+title: Governo reduz em 10% imposto de importação para eletroeletrônicos e bens de
+  capital
 date: 2021-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida diminuirá custos de máquinas e equipamentos, aumentando a competitividade e permitindo queda de preços para o consumidor brasileiro.
 

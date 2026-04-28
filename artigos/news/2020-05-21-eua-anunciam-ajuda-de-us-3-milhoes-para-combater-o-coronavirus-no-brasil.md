@@ -1,11 +1,12 @@
 ---
-title: "EUA anunciam ajuda de US$ 3 milhões para combater o coronavírus no Brasil"
+title: EUA anunciam ajuda de US$ 3 milhões para combater o coronavírus no Brasil
 date: 2020-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos serão usados no rastreamento de casos, na identificação de áreas de transmissão e controle de surtos.
 

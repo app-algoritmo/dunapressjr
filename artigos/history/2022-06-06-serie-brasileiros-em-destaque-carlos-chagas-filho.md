@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Carlos Chagas Filho"
+title: 'Série Brasileiros em Destaque: Carlos Chagas Filho'
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Fundador do Instituto de Biofísica da [Universidade do Brasil (atual UFRJ),](https://ufrj.br/) Carlos Chagas Filho,  filho do renomado médico [Carlos Chagas ](https://canalciencia.ibict.br/ciencia-brasileira-3/notaveis/92-carlos-chagas)e Íris Lobo Chagas, nasceu no Rio de Janeiro em 12 de setembro de 1910, produziu suas principais contribuições científicas estudando o poraquê do Amazonas, conhecido como [peixe-elétrico.](https://pt.wikipedia.org/wiki/Peixe-el%C3%A9trico) Suas pesquisas permitiram conhecer todo o mecanismo de funcionamento do órgão elétrico do peixe, até então totalmente inexplicado, e foram motivadas pelo fato de o animal ser característico da fauna brasileira.Em 1926, com 16 anos, entra para a faculdade de medicina da UFRJ, Já no segundo ano do curso, começa a trabalhar no Hospital São Francisco e no Instituto Manguinhos. Em 1932, torna-se diretor do hospital de Lassance
 

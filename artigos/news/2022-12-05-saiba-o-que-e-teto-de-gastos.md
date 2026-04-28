@@ -1,11 +1,12 @@
 ---
-title: "Saiba o que é teto de gastos"
+title: Saiba o que é teto de gastos
 date: 2022-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Criado em 2016, mecanismo limita despesas por 20 anos.
 

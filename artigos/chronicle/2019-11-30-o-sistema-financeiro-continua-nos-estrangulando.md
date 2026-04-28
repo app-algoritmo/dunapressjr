@@ -1,11 +1,12 @@
 ---
-title: "O Sistema financeiro continua nos estrangulando"
+title: O Sistema financeiro continua nos estrangulando
 date: 2019-11-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Alguns fatos econômicos parecem estar dando certo, números positivos e aumento econômico para nosso país.
 

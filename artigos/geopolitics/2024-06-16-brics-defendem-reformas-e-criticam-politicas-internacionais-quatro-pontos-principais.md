@@ -1,11 +1,13 @@
 ---
-title: "BRICS Defendem Reformas e Criticam Políticas Internacionais: Quatro Pontos Principais"
+title: 'BRICS Defendem Reformas e Criticam Políticas Internacionais: Quatro Pontos
+  Principais'
 date: 2024-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante a recente reunião dos ministros do BRICS, quatro pontos se destacaram em suas discussões e declarações, sublinhando a posição do grupo sobre questões globais e suas propostas para mudanças significativas no cenário internacional.
 

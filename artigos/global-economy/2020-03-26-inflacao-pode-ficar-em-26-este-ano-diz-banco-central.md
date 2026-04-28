@@ -1,11 +1,12 @@
 ---
-title: "Inflação pode ficar em 2,6% este ano, diz Banco Central"
+title: Inflação pode ficar em 2,6% este ano, diz Banco Central
 date: 2020-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em 2021, previsão é que a inflação suba para 3,2%
 

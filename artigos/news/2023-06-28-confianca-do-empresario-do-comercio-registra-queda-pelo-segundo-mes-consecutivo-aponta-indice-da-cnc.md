@@ -1,11 +1,13 @@
 ---
-title: "Confiança do empresário do comércio registra queda pelo segundo mês consecutivo, aponta índice da CNC"
+title: Confiança do empresário do comércio registra queda pelo segundo mês consecutivo,
+  aponta índice da CNC
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Otimismo dos varejistas atinge menor nível desde junho de 2021, com perspectivas desfavoráveis para o setor.
 

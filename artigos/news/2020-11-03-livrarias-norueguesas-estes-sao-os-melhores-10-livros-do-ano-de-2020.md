@@ -1,11 +1,12 @@
 ---
-title: "Livrarias norueguesas: Estes são os melhores 10 livros do ano de 2020"
+title: 'Livrarias norueguesas: Estes são os melhores 10 livros do ano de 2020'
 date: 2020-11-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 As livrarias norueguesas nomearam o que acreditam ser os dez melhores livros do ano para o Prêmio livraria 2020. Confira a lista aqui!
 

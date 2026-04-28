@@ -1,11 +1,12 @@
 ---
-title: "Rio Grande do Sul sem serviços ou infraestrutura"
+title: Rio Grande do Sul sem serviços ou infraestrutura
 date: 2024-05-10
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Environment
+- Environment
 ---
+
 
 As inundações no Sul atingiram uma dimensão única em sua história, mas desastres gigantescos podem ocorrer em qualquer lugar no Brasil, como em Brumadinho, em Minas; ou em  Petrópolis, no Rio. A ineficácia no atendimento seria a mesma. É revoltante ver a situação se repetir sem nenhum aprendizado. Os governos continuam sem estrutura para atender demandas de qualquer natureza , seja de enchentes, incêndios, ciclones e até mesmo raios. Devemos dar Graças a Deus por não termos vulcões em atividade. 
 

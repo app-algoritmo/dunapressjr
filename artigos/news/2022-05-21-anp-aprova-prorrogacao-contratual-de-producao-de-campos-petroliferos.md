@@ -1,11 +1,12 @@
 ---
-title: "ANP aprova prorrogação contratual de produção de campos petrolíferos"
+title: ANP aprova prorrogação contratual de produção de campos petrolíferos
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Chega a 56 o número de campos com a fase de produção prorrogada.
 

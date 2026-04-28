@@ -1,11 +1,13 @@
 ---
-title: "Municípios brasileiros têm até dezembro de 2022 para elaborar Planos de Saneamento Básico"
+title: Municípios brasileiros têm até dezembro de 2022 para elaborar Planos de Saneamento
+  Básico
 date: 2020-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *A partir de 2023, documento será requisitado para que municípios possam ter acesso a recursos federais para investimentos em obras e desenvolvimento regional*
 

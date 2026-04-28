@@ -1,11 +1,13 @@
 ---
-title: "5 meses para a morte: a ligação assustadora entre mortes e vacinação contra a Covid-19"
+title: '5 meses para a morte: a ligação assustadora entre mortes e vacinação contra
+  a Covid-19'
 date: 2023-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **Um padrão curioso foi observado nos dados oficiais do governo do Reino Unido por algum tempo. Cerca de cinco meses após a administração de cada dose da vacina Covid-19 a cada faixa etária, a taxa de mortalidade por 100.000 habitantes aumenta significativamente entre os vacinados em comparação com os não vacinados.**
 

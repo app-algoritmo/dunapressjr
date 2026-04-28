@@ -1,11 +1,12 @@
 ---
-title: "Prazo maior para vítima de violência doméstica prestar queixa vai à Câmara"
+title: Prazo maior para vítima de violência doméstica prestar queixa vai à Câmara
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) aprovou por unanimidade nesta quarta-feira (18) o Projeto de Lei (PL) 1.713/2022, que amplia para 12 meses o prazo para que a mulher vítima de violência doméstica possa fazer a representação criminal. Atualmente, o direito de queixa ou de representação para se iniciar uma investigação sobre o delito tem prazo máximo de seis meses. Do senador Styvenson Valentim (Podemos-RN), o texto teve parecer favorável da senadora Ana Paula Lobato (PSB-MA). Como foi aprovado em caráter terminativo, o texto segue para análise da Câmara dos Deputados, a não ser que haja recurso para votação no Plenário.
 

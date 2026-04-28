@@ -1,11 +1,12 @@
 ---
-title: "Segredo de bom rendimento na Copa pode estar na boca dos atletas"
+title: Segredo de bom rendimento na Copa pode estar na boca dos atletas
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O desejo de ter um sorriso bonito, com dentes brancos e alinhados, é cada vez maior entre jogadores de futebol, mas será que a preocupação deve ser exclusivamente com a estética? Regulamentada somente em 2015 pelo Conselho Federal de Odontologia, a Odontologia Esportiva é uma das especialidades da área pouco difundida no Brasil, mas que se mostra ainda mais importante para o desempenho de atletas - profissionais ou amadores.
 

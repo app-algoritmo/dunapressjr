@@ -1,12 +1,13 @@
 ---
-title: "Rei Charles III Diagnosticado com Câncer: Um Teste para a Monarquia Britânica"
+title: 'Rei Charles III Diagnosticado com Câncer: Um Teste para a Monarquia Britânica'
 date: 2024-02-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - Policy
+- Health
+- Policy
 ---
+
 
 O Palácio de Buckingham entregou notícias sombrias na segunda-feira ao revelar que o Rei Charles III foi diagnosticado com câncer, provocando um afastamento temporário do monarca britânico de seus deveres públicos. Com 75 anos, o Rei Charles III, que ascendeu ao trono em 2022 após o falecimento de sua mãe, a Rainha Elizabeth II, permanece resolutamente positivo quanto ao seu tratamento apesar do contratempo.
 

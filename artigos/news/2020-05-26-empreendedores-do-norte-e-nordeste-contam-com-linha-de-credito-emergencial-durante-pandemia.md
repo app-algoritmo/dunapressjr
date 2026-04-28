@@ -1,11 +1,13 @@
 ---
-title: "Empreendedores do Norte e Nordeste contam com linha de crédito emergencial durante pandemia"
+title: Empreendedores do Norte e Nordeste contam com linha de crédito emergencial
+  durante pandemia
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nas duas regiões, já foram feitos mais de 2,8 mil financiamentos que somaram R$ 220,7 milhões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Crianças do CEI Neusa Reis, em Itajaí/SC lançam livro de histórias"
+title: Crianças do CEI Neusa Reis, em Itajaí/SC lançam livro de histórias
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Centro e quarenta e oito crianças, das turmas de Jardim I, Jardim II e da Pré-escola, do Centro de Educação Infantil (CEI) Neusa Reis Cesário Pereira, do bairro Cordeiros, lançaram livro de histórias em uma noite de autógrafos na última quarta-feira (30). O evento contou com a participação dos pais, que foram os responsáveis por escrever a biografia dos seus filhos para o livro.
 

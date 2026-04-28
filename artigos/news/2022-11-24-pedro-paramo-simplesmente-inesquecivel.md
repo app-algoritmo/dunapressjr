@@ -1,11 +1,12 @@
 ---
-title: "Pedro Páramo: Simplesmente Inesquecível"
+title: 'Pedro Páramo: Simplesmente Inesquecível'
 date: 2022-11-24
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 "A leitura profunda da obra de Juan Rulfo me deu, enfim, o caminho que buscava para continuar meus livros."
 

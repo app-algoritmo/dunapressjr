@@ -1,11 +1,12 @@
 ---
-title: "Consumo nos lares brasileiros cresce 2,59% no trimestre"
+title: Consumo nos lares brasileiros cresce 2,59% no trimestre
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados são da Associação Brasileira de Supermercados.
 

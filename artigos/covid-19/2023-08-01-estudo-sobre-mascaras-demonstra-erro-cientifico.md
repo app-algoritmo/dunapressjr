@@ -1,11 +1,12 @@
 ---
-title: "Estudo sobre máscaras demonstra erro científico"
+title: Estudo sobre máscaras demonstra erro científico
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **Este "estudo" para máscaras é o motivo pelo qual você nunca deve "confiar na ciência"**
 

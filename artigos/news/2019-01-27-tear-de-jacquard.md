@@ -1,11 +1,12 @@
 ---
-title: "Tear de Jacquard"
+title: Tear de Jacquard
 date: 2019-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Crédito da imagem: Stylo Urbano
 

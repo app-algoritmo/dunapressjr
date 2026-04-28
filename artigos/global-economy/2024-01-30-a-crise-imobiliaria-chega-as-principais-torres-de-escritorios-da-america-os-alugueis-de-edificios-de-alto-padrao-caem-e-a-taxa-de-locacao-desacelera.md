@@ -1,11 +1,13 @@
 ---
-title: "A crise imobiliária chega às principais torres de escritórios da América. Os aluguéis de edifícios de alto padrão caem e a taxa de locação desacelera"
+title: A crise imobiliária chega às principais torres de escritórios da América. Os
+  aluguéis de edifícios de alto padrão caem e a taxa de locação desacelera
 date: 2024-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## A Transformação do Cenário dos Principais Arranha-Céus de Escritórios diante da Desaceleração no Setor Imobiliário.
 

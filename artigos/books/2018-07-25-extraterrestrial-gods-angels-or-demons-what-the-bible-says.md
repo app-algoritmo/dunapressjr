@@ -1,11 +1,12 @@
 ---
-title: "Extraterrestrial gods, angels or demons? What the Bible says?"
+title: Extraterrestrial gods, angels or demons? What the Bible says?
 date: 2018-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 The book, product of investigation and research for years both in Brazil and United States, concerns an extensive study about Biblical, Caustic, Exobiology, Astrobiology and Astronomy in which the author **José Angelini Aquino** presents several topics, reports and theses about homo capensis, reptilians and angels, including the fallen ones. 
 

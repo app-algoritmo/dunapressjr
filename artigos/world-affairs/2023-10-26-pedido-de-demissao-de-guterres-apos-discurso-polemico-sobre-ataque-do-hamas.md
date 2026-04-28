@@ -1,11 +1,12 @@
 ---
-title: "Pedido de Demissão de Guterres após Discurso Polêmico sobre Ataque do Hamas"
+title: Pedido de Demissão de Guterres após Discurso Polêmico sobre Ataque do Hamas
 date: 2023-10-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Tensões entre Israel e a ONU:
 

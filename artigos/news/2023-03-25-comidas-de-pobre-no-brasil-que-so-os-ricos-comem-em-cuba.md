@@ -1,12 +1,13 @@
 ---
-title: "Comidas de pobre no Brasil que só os Ricos comem em Cuba"
+title: Comidas de pobre no Brasil que só os Ricos comem em Cuba
 date: 2023-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 A proibição do consumo e venda de carne de gado em Cuba tem suas raízes na política do governo e na necessidade de preservar o rebanho bovino do país.
 

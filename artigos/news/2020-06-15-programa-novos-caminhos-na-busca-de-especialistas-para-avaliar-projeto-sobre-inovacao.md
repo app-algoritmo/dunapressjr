@@ -1,11 +1,13 @@
 ---
-title: "Programa Novos Caminhos na busca de especialistas para avaliar projeto sobre inovação"
+title: Programa Novos Caminhos na busca de especialistas para avaliar projeto sobre
+  inovação
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Inscrições vão de 19 a 30 de junho.
 

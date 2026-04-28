@@ -1,11 +1,12 @@
 ---
-title: "Estudante paranaense participa da Olimpíada Brasileira de Química"
+title: Estudante paranaense participa da Olimpíada Brasileira de Química
 date: 2021-02-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -O pontagrossense Felipe Tebcherani, de 14 anos, estudante do 9º ano do Colégio Positivo - Master, se destacou na Olimpíada Brasileira de Química (OBQ), uma competição nacional que tem o objetivo de descobrir jovens com talento para o estudo da Química. Ele é o único representante do Paraná na quarta fase da OBQ, marcada para o dia 28 de fevereiro.
 

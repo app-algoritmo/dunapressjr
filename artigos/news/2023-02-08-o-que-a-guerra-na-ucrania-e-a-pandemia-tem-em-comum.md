@@ -1,11 +1,12 @@
 ---
-title: "O que a guerra na Ucrânia e a pandemia têm em comum?"
+title: O que a guerra na Ucrânia e a pandemia têm em comum?
 date: 2023-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Todos devem se perguntar por que quase ninguém deseja um fim rápido para a guerra na Ucrânia. disse o eurodeputado croata Mislav Kolakusic. "Por que o foco está nas armas e não na paz?"
 

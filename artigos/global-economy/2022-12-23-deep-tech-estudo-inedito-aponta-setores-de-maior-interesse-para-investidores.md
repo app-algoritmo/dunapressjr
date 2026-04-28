@@ -1,11 +1,12 @@
 ---
-title: "Deep tech: estudo inédito aponta setores de maior interesse para investidores"
+title: 'Deep tech: estudo inédito aponta setores de maior interesse para investidores'
 date: 2022-12-23
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Saúde inclusiva e bem-estar; economia de baixo carbono e recursos renováveis; alimentação e agricultura; preservação da biodiversidade e cadeias sustentáveis; educação inovadora. Esses são os cinco setores de maior interesse para os investidores de *deep techs*, segundo o estudo [“Investindo em Deep Techs - Como mitigar riscos e viabilizar capital para inovações baseadas em ciência"](https://conteudo.wylinka.org.br/investindo-em-deep-techs), realizada pela Wylinka, em parceria com o especialista em investimentos Erik Cavalcante. O levantamento originou um *e-book*.
 

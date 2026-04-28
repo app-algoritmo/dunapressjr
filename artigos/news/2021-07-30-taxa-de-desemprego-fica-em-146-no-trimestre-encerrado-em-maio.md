@@ -1,11 +1,12 @@
 ---
-title: "Taxa de desemprego fica em 14,6% no trimestre encerrado em maio"
+title: Taxa de desemprego fica em 14,6% no trimestre encerrado em maio
 date: 2021-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice é estável em relação ao trimestre anterior: 14,4%, diz IBGE.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão Mista de Orçamento define critérios para emendas individuais"
+title: Comissão Mista de Orçamento define critérios para emendas individuais
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Serão 25 emendas por parlamentar no valor máximo de R$ 19,7 milhões.
 

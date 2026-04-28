@@ -1,11 +1,13 @@
 ---
-title: "Pela primeira vez, Reunião do Alto-Comando do Exército ocorre pelo sistema de videoconferência"
+title: Pela primeira vez, Reunião do Alto-Comando do Exército ocorre pelo sistema
+  de videoconferência
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta semana, acontece, pela primeira vez, a Reunião do Alto-Comando do Exército (RACE) por meio de videoconferência, em virtude das medidas preventivas à COVID-19. Em sua 330ª edição, o evento ocorre no Quartel-General do Exército, Forte Caxias; nas sedes dos Comandos Militares de Área; e nas organizações militares envolvidas. Desse modo, os oficiais-generais do Alto-Comando do Exército e dos Órgãos de Assistência Direta e Imediata participam dessa integração de conhecimento.
 

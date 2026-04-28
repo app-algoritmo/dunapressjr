@@ -1,11 +1,13 @@
 ---
-title: "EUA à Beira do Abismo: Reflexões sobre Paralelos Históricos e Possíveis Cenários de Colapso"
+title: 'EUA à Beira do Abismo: Reflexões sobre Paralelos Históricos e Possíveis Cenários
+  de Colapso'
 date: 2024-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ## Nos últimos anos, os Estados Unidos têm enfrentado uma série de desafios que ecoam os problemas que eventualmente levaram à queda da União Soviética. 
 

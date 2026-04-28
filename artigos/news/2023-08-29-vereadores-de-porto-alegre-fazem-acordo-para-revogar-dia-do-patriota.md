@@ -1,11 +1,12 @@
 ---
-title: "Vereadores de Porto Alegre fazem acordo para revogar Dia do Patriota"
+title: Vereadores de Porto Alegre fazem acordo para revogar Dia do Patriota
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Lei municipal foi promulgada no início de agosto.
 

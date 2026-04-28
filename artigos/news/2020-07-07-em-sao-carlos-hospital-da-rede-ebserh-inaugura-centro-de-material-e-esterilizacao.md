@@ -1,11 +1,12 @@
 ---
-title: "Em São Carlos, hospital da Rede Ebserh, inaugura Centro de Material e Esterilização"
+title: Em São Carlos, hospital da Rede Ebserh, inaugura Centro de Material e Esterilização
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A construção do CME é fruto de R$ 7,5 milhões investidos pela Empresa Brasileira de Serviços Hospitalares (Ebserh).
 

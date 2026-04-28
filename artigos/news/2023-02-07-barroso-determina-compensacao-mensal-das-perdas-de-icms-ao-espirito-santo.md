@@ -1,11 +1,12 @@
 ---
-title: "Barroso determina compensação mensal das perdas de ICMS ao Espírito Santo"
+title: Barroso determina compensação mensal das perdas de ICMS ao Espírito Santo
 date: 2023-02-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## O ministro Luís Roberto Barroso, (STF), determinou que a União inicie a compensação de perdas ao Estado do ES decorrentes da redução de alíquotas do (ICMS).
 

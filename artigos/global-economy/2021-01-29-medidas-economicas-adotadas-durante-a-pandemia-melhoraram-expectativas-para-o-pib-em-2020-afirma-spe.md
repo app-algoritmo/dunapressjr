@@ -1,11 +1,13 @@
 ---
-title: "Medidas econômicas adotadas durante a pandemia melhoraram expectativas para o PIB em 2020, afirma SPE"
+title: Medidas econômicas adotadas durante a pandemia melhoraram expectativas para
+  o PIB em 2020, afirma SPE
 date: 2021-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Estudo aponta que é importante para o país retomar a agenda de reformas, viabilizando o crescimento sustentável.
 

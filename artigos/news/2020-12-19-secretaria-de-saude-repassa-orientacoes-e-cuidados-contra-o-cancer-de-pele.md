@@ -1,11 +1,12 @@
 ---
-title: "Secretaria de Saúde repassa orientações e cuidados contra o câncer de pele"
+title: Secretaria de Saúde repassa orientações e cuidados contra o câncer de pele
 date: 2020-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Saúde de Itajaí está reforçando as orientações e cuidados com o câncer de pele durante o Dezembro Laranja. O objetivo da iniciativa é alertar a população sobre a doença e seus principais sinais para detecção e tratamento precoces. Durante esta semana, o Centro Médico de Referência São Judas intensificou as consultas em teledermatologia para atendimento de pacientes com suspeita de câncer.
 

@@ -1,11 +1,13 @@
 ---
-title: "A crise da Bolívia atinge uma nova dimensão: o país considera um cenário de falência"
+title: 'A crise da Bolívia atinge uma nova dimensão: o país considera um cenário de
+  falência'
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ao contrário do que está a acontecer na Argentina desde a vitória de Javier Milei, onde não só os eleitores mas também os mercados internacionais demonstraram um optimismo sem precedentes sobre o que se traduzirão as profundas reformas propostas, a Bolívia não para de cair **[no](https://gaceta.es/iberosfera/evo-morales-anticipa-una-victoria-de-la-derecha-boliviana-en-las-presidenciales-de-2025-20231127-1714/) abismo** .
 

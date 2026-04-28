@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Saiba mais sobre Hirsutismo"
+title: 'Dicas de Saúde: Saiba mais sobre Hirsutismo'
 date: 2021-06-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Hirsutismo é o aumento da quantidade de pelos no corpo da mulher em locais comuns ao homem. Embora seja raro, costuma afetar as mulheres durante os anos férteis e após a menopausa.
 

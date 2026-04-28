@@ -1,11 +1,12 @@
 ---
-title: "PF e PM/MS apreendem grande quantidade de produtos objeto de descaminho"
+title: PF e PM/MS apreendem grande quantidade de produtos objeto de descaminho
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Naviraí/MS – A Polícia Federal e a Polícia Militar do Mato Grosso do Sul, em atuação conjunta no âmbito da Operação Hórus/Programa Vigia, apreenderam  hoje (8/5) uma van carregada com produtos estrangeiros, em sua maioria eletrônicos, sem a devida documentação de importação. O veículo saiu da cidade paraguaia de Salto del Guairá e seguia em direção ao Interior do Estado de São Paulo. Cinco pessoas, todos ocupantes da van, foram presas.
 

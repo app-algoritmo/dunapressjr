@@ -1,11 +1,12 @@
 ---
-title: "Cepal: crescimento da América Latina não reverterá efeitos da pandemia"
+title: 'Cepal: crescimento da América Latina não reverterá efeitos da pandemia'
 date: 2021-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expansão de 4,5% para o Brasil não altera estagnação econômica.
 

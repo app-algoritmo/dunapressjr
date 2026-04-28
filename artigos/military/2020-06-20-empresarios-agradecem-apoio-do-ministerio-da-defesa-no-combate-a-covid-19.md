@@ -1,11 +1,12 @@
 ---
-title: "Empresários agradecem apoio do Ministério da Defesa no combate à COVID-19"
+title: Empresários agradecem apoio do Ministério da Defesa no combate à COVID-19
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As ações conjuntas envolvendo o Ministério da Defesa e a iniciativa privada no combate à COVID-19 têm alcançado números expressivos. Desde o final do mês de março a Força Aérea Brasileira (FAB), por meio da ALA 3 de Canoas (RS), tem auxiliado um grupo de empresários da Região Sul do País no trabalho de distribuição de protetores faciais para diversas regiões do país.
 

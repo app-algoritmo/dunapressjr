@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro destina mais de R$ 26 milhões aos municípios para aquisição de alimentos"
+title: Governo Bolsonaro destina mais de R$ 26 milhões aos municípios para aquisição
+  de alimentos
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Cidadania divulgou, nessa segunda-feira (17), no Diário Oficial da União, uma[ lista de 90 municípios](http://www.in.gov.br/en/web/dou/-/portaria-n-78-de-12-de-agosto-de-2020-272505387) contemplados com recursos para a execução do Programa de Aquisição de Alimentos (PAA). O investimento é de R$ 26,7 milhões e a estimativa é de que, aproximadamente, quatro mil agricultores familiares sejam beneficiados.
 

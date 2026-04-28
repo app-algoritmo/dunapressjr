@@ -1,11 +1,12 @@
 ---
-title: "Para Seif, Congresso deve ter palavra final sobre perda de mandato parlamentar"
+title: Para Seif, Congresso deve ter palavra final sobre perda de mandato parlamentar
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) disse, em pronunciamento na quarta-feira (24), ser a favor de proposta de emenda à Constituição (PEC) que altera o artigo 55 da Constituição para determinar que a perda de mandato parlamentar seja decidida pela Câmara dos Deputados ou pelo Senado, por maioria absoluta, mediante provocação da respectiva Mesa ou de partido político representado no Congresso Nacional. A PEC foi proposta pelo Podemos, que passou a coletar assinaturas após a cassação do ex-deputado federal Deltan Dallagnol. Para Seif, é razoável que o Congresso Nacional tenha a palavra final sobre a cassação de seus membros, já que o órgão é a “expressão máxima da população brasileira”.
 

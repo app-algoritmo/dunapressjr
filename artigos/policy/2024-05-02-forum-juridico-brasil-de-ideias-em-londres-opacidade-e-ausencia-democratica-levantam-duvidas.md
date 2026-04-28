@@ -1,11 +1,13 @@
 ---
-title: "Fórum Jurídico Brasil de Ideias em Londres: Opacidade e Ausência Democrática Levantam Dúvidas"
+title: 'Fórum Jurídico Brasil de Ideias em Londres: Opacidade e Ausência Democrática
+  Levantam Dúvidas'
 date: 2024-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O recente Fórum Jurídico Brasil de Ideias, sediado em Londres, Reino Unido, foi um marco significativo no cenário jurídico e político brasileiro. O evento, que ocorreu no prestigiado hotel The Peninsula, reuniu uma seleção impressionante de figuras proeminentes, incluindo ministros do Supremo Tribunal Federal (STF), membros do governo e representantes do Legislativo.
 

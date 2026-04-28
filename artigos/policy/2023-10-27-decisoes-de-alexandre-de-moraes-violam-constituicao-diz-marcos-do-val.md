@@ -1,11 +1,12 @@
 ---
-title: "Decisões de Alexandre de Moraes violam Constituição, diz Marcos do Val"
+title: Decisões de Alexandre de Moraes violam Constituição, diz Marcos do Val
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) afirmou que é notório para todos os brasileiros que ”graves” decisões do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), violam a Constituição Federal. Em pronunciamento nesta terça-feira (24), o parlamentar disse estar presenciando violações gravíssimas por parte do ministro desde o ataque às sedes dos três Poderes, em Brasília, no dia 8 de janeiro. O senador também condenou a operação de busca e apreensão da Polícia Federal em seus endereços.
 

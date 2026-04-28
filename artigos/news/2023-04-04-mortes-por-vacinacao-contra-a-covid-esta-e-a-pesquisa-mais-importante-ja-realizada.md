@@ -1,11 +1,12 @@
 ---
-title: "Mortes por vacinação contra a Covid; Esta é a pesquisa mais importante já realizada"
+title: Mortes por vacinação contra a Covid; Esta é a pesquisa mais importante já realizada
 date: 2023-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Esta é a pesquisa mais importante já realizada. A grande mídia NUNCA encomendará uma enquete como esta. NUNCA. Portanto, se eles disserem que a enquete deve estar errada, peça a SUA enquete.
 

@@ -1,11 +1,12 @@
 ---
-title: "Viana propõe acesso ao FGTS para trabalhadores que se demitem"
+title: Viana propõe acesso ao FGTS para trabalhadores que se demitem
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Carlos Viana (Podemos-MG) defendeu, em pronunciamento no Plenário na quarta-feira (5), o Projeto de Lei ([PL) 3.135/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158264)), da sua autoria, que dá acesso ao Fundo de Garantia do Tempo de Serviço (FGTS) aos trabalhadores que pedem demissão. Segundo o parlamentar, a medida dá mais autonomia ao trabalhador para decidir como e quando usar a reserva.
 

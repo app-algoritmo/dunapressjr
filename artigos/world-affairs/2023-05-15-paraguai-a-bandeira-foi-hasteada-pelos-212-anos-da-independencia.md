@@ -1,11 +1,12 @@
 ---
-title: "Paraguai: A bandeira foi hasteada pelos 212 anos da Independência"
+title: 'Paraguai: A bandeira foi hasteada pelos 212 anos da Independência'
 date: 2023-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Presidente da República, Mario Abdo Benítez, conduziu neste domingo o ato de hasteamento da bandeira e entoação do hino nacional, em comemoração ao 212º aniversário da Independência do Paraguai.
 

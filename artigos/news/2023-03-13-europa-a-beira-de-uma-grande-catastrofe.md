@@ -1,11 +1,12 @@
 ---
-title: "Europa à beira de uma grande catástrofe"
+title: Europa à beira de uma grande catástrofe
 date: 2023-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ambos os lados estão se preparando para fazer tudo militarmente com o degelo da natureza e levar a Europa à beira de uma grande catástrofe.
 

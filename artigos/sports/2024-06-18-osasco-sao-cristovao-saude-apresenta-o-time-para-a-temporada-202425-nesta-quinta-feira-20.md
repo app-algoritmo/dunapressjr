@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde apresenta o time para a temporada 2024/25 nesta quinta-feira (20)"
+title: Osasco São Cristóvão Saúde apresenta o time para a temporada 2024/25 nesta
+  quinta-feira (20)
 date: 2024-06-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Torcedores poderão conhecer o novo elenco no evento que será realizado no ginásio José Liberatti, a partir das 19h. Entrada é grátis, mas ingressos precisam ser solicitados on-line antecipadamente.
 

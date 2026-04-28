@@ -1,11 +1,12 @@
 ---
-title: "Twitter aprova selo azul para Duna Press Jornal"
+title: Twitter aprova selo azul para Duna Press Jornal
 date: 2023-05-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 O Twitter aprovou recentemente o selo azul para o [Duna Press Jornal e Magazine](https://twitter.com/dunapressjornal), uma conquista significativa para a publicação digital.
 

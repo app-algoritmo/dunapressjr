@@ -1,11 +1,12 @@
 ---
-title: "O objetivo de desnazificar a Ucrânia permanece em vigor, diz Putin"
+title: O objetivo de desnazificar a Ucrânia permanece em vigor, diz Putin
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Falando sobre o objetivo da desmilitarização da Ucrânia, o presidente disse que certos parâmetros foram acordados em 2022 durante as conversações em Istambul.
 

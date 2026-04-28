@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal atinge R$ 172.785 milhões em agosto"
+title: Arrecadação federal atinge R$ 172.785 milhões em agosto
 date: 2023-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado foi influenciado pelo valor de Receitas Extraordinárias observado em agosto do ano passado, em comparação ao mesmo período em 2023.
 

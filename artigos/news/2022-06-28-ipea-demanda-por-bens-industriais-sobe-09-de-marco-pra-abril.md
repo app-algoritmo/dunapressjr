@@ -1,11 +1,12 @@
 ---
-title: "Ipea: demanda por bens industriais sobe 0,9% de março pra abril"
+title: 'Ipea: demanda por bens industriais sobe 0,9% de março pra abril'
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Já na comparação com abril de 2021, o índice caiu 3,7%.
 

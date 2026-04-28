@@ -1,11 +1,12 @@
 ---
-title: "Principais tecnologias de amortecimento para tênis"
+title: Principais tecnologias de amortecimento para tênis
 date: 2022-05-20
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Sports
+- Sports
 ---
+
 
 Além de amortecer, as tecnologias proporcionam maciez e conforto aos pés
 

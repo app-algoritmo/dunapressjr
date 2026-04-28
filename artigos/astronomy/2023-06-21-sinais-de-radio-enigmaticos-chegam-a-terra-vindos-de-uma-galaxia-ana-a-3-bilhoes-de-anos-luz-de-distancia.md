@@ -1,11 +1,13 @@
 ---
-title: "Sinais de rádio enigmáticos chegam à Terra vindos de uma galáxia anã a 3 bilhões de anos-luz de distância"
+title: Sinais de rádio enigmáticos chegam à Terra vindos de uma galáxia anã a 3 bilhões
+  de anos-luz de distância
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Astronomy
+- Astronomy
 ---
+
 
 ## Cientistas descobriram misteriosos sinais de rádio [que chegaram à Terra vindos de uma galáxia distante](https://studyfinds.org/radio-signals-reach-earth/) .
 

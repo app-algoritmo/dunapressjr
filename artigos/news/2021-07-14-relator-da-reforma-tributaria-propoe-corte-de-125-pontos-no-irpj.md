@@ -1,11 +1,12 @@
 ---
-title: "Relator da reforma tributária propõe corte de 12,5 pontos no IRPJ"
+title: Relator da reforma tributária propõe corte de 12,5 pontos no IRPJ
 date: 2021-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxação de dividendos em 20% está mantida.
 

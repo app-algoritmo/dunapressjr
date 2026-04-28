@@ -1,11 +1,12 @@
 ---
-title: "As 6 coisas que você precisa saber sobre a Hipertensão"
+title: As 6 coisas que você precisa saber sobre a Hipertensão
 date: 2021-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Dia Mundial da Hipertensão, comemorado no dia 17 de maio, faz um alerta para a doença que afeta pelo menos um a cada quatro adultos brasileiros, conforme dados do Ministério da Saúde. A hipertensão pode ser herdada em boa parte dos casos, mas os fatores externos, como hábitos alimentares e comportamentais, também entram na lista de causas ou agravamentos dessa enfermidade.
 

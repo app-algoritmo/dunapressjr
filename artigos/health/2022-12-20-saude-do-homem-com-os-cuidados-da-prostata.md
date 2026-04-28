@@ -1,11 +1,12 @@
 ---
-title: "Saúde do homem com os cuidados da próstata"
+title: Saúde do homem com os cuidados da próstata
 date: 2022-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Do formato e do tamanho aproximado de uma castanha portuguesa, a próstata está presente somente nos homens e se localiza logo abaixo da bexiga, envolvendo a uretra, canal por onde passa a urina. É uma glândula que faz parte do sistema reprodutor masculino, produzindo um líquido que se junta à secreção da vesícula seminal e do testículo para formar o esperma.
 

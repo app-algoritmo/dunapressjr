@@ -1,11 +1,12 @@
 ---
-title: "O que acontece com os animais vítimas de práticas ilegais no Brasil?"
+title: O que acontece com os animais vítimas de práticas ilegais no Brasil?
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Em meados de janeiro, um caso de apreensão de animais no Aeroporto Internacional de São Paulo, em Guarulhos, foi destaque em sites e jornais. Foi apenas mais um caso desse crime que ocorre diversas vezes. Infelizmente comum, o tráfico de animais aumentou nos últimos meses, segundo Giuseppe Puorto, diretor do Museus Biológico e Histórico do Instituto Butantan. Didático em suas explicações, o diretor esclarece: “E por que aumenta? Tanto o tráfico interno, brasileiro, como do tráfico internacional aumenta, porque alguém compra esses animais!”
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro defende revisão de concessões de registros sindicais"
+title: Ministro defende revisão de concessões de registros sindicais
 date: 2023-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Luiz Marinho também cita intenção de aumentar salário mínimo.
 

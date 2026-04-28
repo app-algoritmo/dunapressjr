@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: O número de mortos sobe para 564, com mais de 28.000 infectados"
+title: 'Coronavírus: O número de mortos sobe para 564, com mais de 28.000 infectados'
 date: 2020-02-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Entre os casos estava um bebê recém-nascido, diagnosticado apenas 30 horas após o nascimento.
 

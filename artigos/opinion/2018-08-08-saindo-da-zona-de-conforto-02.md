@@ -1,11 +1,12 @@
 ---
-title: "Saindo da zona de conforto - 02"
+title: Saindo da zona de conforto - 02
 date: 2018-08-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Até que toda a humanidade não saia da zona de conforto de forma coletiva, ou uma grande quantidade de pessoas saiam, tudo se manterá o caos que hoje se encontra.
 

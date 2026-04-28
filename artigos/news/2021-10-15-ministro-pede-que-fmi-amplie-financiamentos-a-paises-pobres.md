@@ -1,11 +1,12 @@
 ---
-title: "Ministro pede que FMI amplie financiamentos a países pobres"
+title: Ministro pede que FMI amplie financiamentos a países pobres
 date: 2021-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Paulo Guedes disse que Brasil cumpre requisitos para entrar na OCDE.
 

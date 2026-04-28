@@ -1,11 +1,12 @@
 ---
-title: "Príncipe Deputado Dom Luiz Philippe, destrói argumento de juiz da suprema corte"
+title: Príncipe Deputado Dom Luiz Philippe, destrói argumento de juiz da suprema corte
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Quando você ataca as instituições, ataca a democracia", disse o Juiz em entrevista a uma revista brasileira.
 

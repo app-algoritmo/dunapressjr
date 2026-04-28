@@ -1,11 +1,12 @@
 ---
-title: "Indústria de SP cresce 3% e tem melhor desempenho em nove meses"
+title: Indústria de SP cresce 3% e tem melhor desempenho em nove meses
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O Estado de São Paulo responde por 33% da produção industrial do país.
 

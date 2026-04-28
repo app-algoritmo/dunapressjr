@@ -1,11 +1,12 @@
 ---
-title: "Pentatlo naval ganha pista em Brasília"
+title: Pentatlo naval ganha pista em Brasília
 date: 2020-03-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 02/03/2020 -** Centro de
 Instrução e Adestramento de Brasília (CIAB). Primeira a ser construída na área

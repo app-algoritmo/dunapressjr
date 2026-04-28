@@ -1,11 +1,12 @@
 ---
-title: "'Está no coração da política identitária'"
+title: '''Está no coração da política identitária'''
 date: 2020-11-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A política identitária exige a redução da identidade individual para as identidades das categorias censitários coletivas. Você não é mais uma pessoa individual com esperanças e medos, talentos e habilidades, e motivações e opiniões. *A coisa mais importante sobre você é seu sexo, ou sua raça, ou sua sexualidade, ou sua etnia.* Cada uma dessas identidades coletivas não só define você, mas define seus inimigos: se você é mulher, seu inimigo é o macho; se você é preto ou marrom, seu inimigo é branco; se você é LGBTQ, seus inimigos são heterossexuais; se você é muçulmano, seus inimigos são judeus, cristãos e hindus (mas você já sabia disso). Valores universais como liberdade, igualdade, solidariedade e direitos humanos são deixados de lado em favor do favoritismo partidário, vistos nos rótulos de movimentos políticos identitários, como "feminismo" e "vidas negras importam", e vistos nas declarações feministas de que "os homens são tóxicos", ou as afirmações da ativista racial de que afirmações como "todas as vidas importam" e "cortinas de cores" são "racistas".
 

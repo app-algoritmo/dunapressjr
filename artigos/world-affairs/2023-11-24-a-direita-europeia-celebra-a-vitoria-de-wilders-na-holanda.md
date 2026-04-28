@@ -1,11 +1,12 @@
 ---
-title: "A direita europeia celebra a vitória de Wilders na Holanda"
+title: A direita europeia celebra a vitória de Wilders na Holanda
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Muitos líderes políticos europeus celebraram o resultado do Partido da Liberdade (PVV), liderado por Geert Wilders, que conquistou 37 assentos nas eleições parlamentares realizadas esta quarta-feira na Holanda.
 

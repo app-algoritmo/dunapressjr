@@ -1,11 +1,12 @@
 ---
-title: "Os valores do parceiro influenciam a sua atratividade?"
+title: Os valores do parceiro influenciam a sua atratividade?
 date: 2021-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A psicologia é a ciência que estuda os comportamentos. A psicologia evolucionista, por sua vez, é uma vertente que se ocupa em explicar fenômenos psicológicos tendo como base teórica a Teoria da Evolução de Charles Darwin. Assim, da mesma forma que adquirimos, devido à seleção natural, características físicas modernas (como a habilidade de andar eretos ou a visão de cores), também desenvolvemos caracteres psicológicos (como a habilidade de escrever ou de ter ciúme). Imagine o seguinte: indivíduos de uma espécie ancestral desenvolveram em seu cérebro, por meio de mutações gênicas, o comportamento de ter medo e fugir da cor vermelha. Se seu principal predador fosse vermelho, a resposta de escapar ao detectar essa cor talvez facilitasse a sobrevivência desses indivíduos, enquanto os outros seriam devorados pelo predador. É isso que chamamos de seleção natural: os indivíduos com a mutação gênica serão selecionados pelo ambiente e se tornarão mais frequentes na espécie com o passar das gerações. Milhares de anos depois, os indivíduos da espécie que evoluiu da ancestral possuirão pavor da cor vermelha, mas num contexto em que seu predador não existe mais. Parece algo distante de nossa realidade, mas pense no medo que alguns têm do escuro, ou de altura. Esses temores podem ter tido importância na evolução da nossa espécie, e ainda se mantêm nos dias de hoje.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto define novas regras para divisão de emendas do relator-geral ao Orçamento da União"
+title: Projeto define novas regras para divisão de emendas do relator-geral ao Orçamento
+  da União
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As Mesas do Senado e da Câmara apresentaram projeto de resolução que modifica a regulação das chamadas emendas de relator ao Orçamento da União (PRN 3/22). O texto prevê que as indicações para essas emendas serão feitas de acordo com o tamanho das bancadas das duas Casas. A proposta modifica a resolução do Congresso Nacional 1/06 e deverá ser votada amanhã no Plenário do Congresso.
 

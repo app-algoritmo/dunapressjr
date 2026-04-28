@@ -1,11 +1,12 @@
 ---
-title: "Entidades se manifestam sobre reajuste da Selic"
+title: Entidades se manifestam sobre reajuste da Selic
 date: 2021-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento na taxa básica de juros já era aguardado.
 

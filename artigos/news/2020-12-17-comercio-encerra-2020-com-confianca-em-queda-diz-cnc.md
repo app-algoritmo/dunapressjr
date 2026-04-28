@@ -1,11 +1,12 @@
 ---
-title: "Comércio encerra 2020 com confiança em queda, diz CNC"
+title: Comércio encerra 2020 com confiança em queda, diz CNC
 date: 2020-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança do Empresário cai 0,5% em dezembro.
 

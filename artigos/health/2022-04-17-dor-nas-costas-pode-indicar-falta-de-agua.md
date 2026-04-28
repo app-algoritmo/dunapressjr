@@ -1,11 +1,12 @@
 ---
-title: "Dor nas costas pode indicar falta de água"
+title: Dor nas costas pode indicar falta de água
 date: 2022-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Tomar de dois a três litros de água por dia é a receita para amenizar muitos dos problemas de saúde enfrentados por milhões de pessoas em todo o mundo, inclusive a dor nas costas. De acordo com a professora do curso de Fisioterapia da Universidade Positivo (UP), Christina Cepeda, o baixo consumo diário de água pode contribuir para que o organismo não consiga se recuperar das atividades realizadas no dia a dia, como andar, correr, se abaixar e pular.
 

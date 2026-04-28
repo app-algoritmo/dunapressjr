@@ -1,11 +1,12 @@
 ---
-title: "Projeto permite ausência no trabalho em caso de morte de bicho de estimação"
+title: Projeto permite ausência no trabalho em caso de morte de bicho de estimação
 date: 2023-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 221/23 permite a ausência ao serviço por um dia em caso de falecimento de cachorro ou gato de estimação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Noruega decide permanecer fechado para países terceiros"
+title: Noruega decide permanecer fechado para países terceiros
 date: 2020-07-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Governo anunciou neste 31.7.20 que avaliará cuidadosamente a situação da infecção antes que se torne relevante abrir as fronteiras para países terceiros (países fora da UE / EEE).
 

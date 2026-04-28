@@ -1,11 +1,12 @@
 ---
-title: "Pintores de cavernas pré-históricas podem ter alucinado"
+title: Pintores de cavernas pré-históricas podem ter alucinado
 date: 2021-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Artigo publicado no jornal Time and Mind afirma que os homens das cavernas entraram em estados alucinógenos devido à falta de oxigênio em um esforço potencial para 'manter sua conexão com o cosmos'.
 

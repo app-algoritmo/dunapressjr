@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,22 e fecha no menor valor em quase quatro meses"
+title: Dólar cai para R$ 5,22 e fecha no menor valor em quase quatro meses
 date: 2021-05-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa ultrapassa 122 mil pontos e encerra no maior nível desde janeiro.
 

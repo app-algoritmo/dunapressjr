@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que impede cônjuge agressor de receber bens da vítima"
+title: Câmara aprova projeto que impede cônjuge agressor de receber bens da vítima
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou proposta que impede cônjuge agressor de receber bens da vítima no caso de assassinato ou tentativa de homicídio. A proposta segue para o Senado Federal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Iniciativa do Município de Itajaí destaca práticas socioambientais"
+title: Iniciativa do Município de Itajaí destaca práticas socioambientais
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Itajaí Sustentável informa que estão prorrogadas até o dia 15 de janeiro as inscrições para a 3ª edição do Selo Verde. O programa visa a destacar as ações sustentáveis desenvolvidas por empresas da cidade. A proposta da certificação é estimular o cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS), iniciativa da Organização das Nações Unidas (ONU), reconhecendo as entidades públicas, empresas e organizações que realizam práticas socioambientais.
 

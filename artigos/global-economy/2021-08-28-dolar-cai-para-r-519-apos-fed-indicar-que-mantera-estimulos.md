@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,19 após Fed indicar que manterá estímulos"
+title: Dólar cai para R$ 5,19 após Fed indicar que manterá estímulos
 date: 2021-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores subiu 1,65% e volta a superar os 120 mil pontos.
 

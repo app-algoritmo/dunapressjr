@@ -1,11 +1,12 @@
 ---
-title: "Jardins de infância na Alemanha com salas de sexualização para crianças"
+title: Jardins de infância na Alemanha com salas de sexualização para crianças
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os jardins de infância na Alemanha terão as chamadas “salas de exploração sexual”, onde as crianças são encorajadas a tocar-se ou a participar em “jogos sexuais” com outras crianças.
 

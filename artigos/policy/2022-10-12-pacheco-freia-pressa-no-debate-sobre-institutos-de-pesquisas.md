@@ -1,11 +1,12 @@
 ---
-title: "Pacheco freia pressa no debate sobre institutos de pesquisas"
+title: Pacheco freia pressa no debate sobre institutos de pesquisas
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### Presidente do Senado considerou penas previstas inadequadas.
 

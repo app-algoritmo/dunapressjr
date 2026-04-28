@@ -1,11 +1,12 @@
 ---
-title: "O futebol norueguês"
+title: O futebol norueguês
 date: 2019-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 A seleção de futebol do Reino da Noruega não esteve presente em todas as copas do mundo, mas tem um dado histórico: Noruega é o único time que o Brasil nunca ganhou. Isso foi até notícia de jornal.
 

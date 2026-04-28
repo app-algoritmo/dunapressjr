@@ -1,11 +1,13 @@
 ---
-title: "Mutirão de testagem com exames sorológicos em trabalhadores de todas as áreas da Prefeitura de Itajaí"
+title: Mutirão de testagem com exames sorológicos em trabalhadores de todas as áreas
+  da Prefeitura de Itajaí
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Saúde, por meio da Vigilância Epidemiológica de Itajaí, informa que iniciará mais um grande mutirão de testagem com pessoas assintomáticas para identificar o perfil sorológico para COVID-19 em Itajaí. Serão contemplados servidores diretos e indiretos, estagiários e terceirizados da Prefeitura. As coletas ocorrerão de **28 de setembro a 16 de outubro**, mediante agendamento. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Cesta básica sobe em todas as capitais pesquisadas pela Dieese"
+title: Cesta básica sobe em todas as capitais pesquisadas pela Dieese
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Feijão, café e óleo de soja puxaram alta de preços.
 

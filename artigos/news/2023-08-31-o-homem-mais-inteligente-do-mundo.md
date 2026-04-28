@@ -1,11 +1,12 @@
 ---
-title: "O homem mais inteligente do mundo"
+title: O homem mais inteligente do mundo
 date: 2023-08-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mundo inteiro é repleto de gênios e alguns deles são muito conhecidos por conta de seus QI’s elevadíssimos, Albert Einstein tinha um QI de 160, o de Isaac Newton era 190 e o dono do Facebook Mark Zuckerburg é de 152, entretanto houve no planeta um homem com QI variante entre 250 e 300 que quase ninguém conhece, seu nome é William James Sidis e desde muito pequeno já demonstrava ter uma inteligência anormal. 
 

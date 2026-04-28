@@ -1,11 +1,12 @@
 ---
-title: "Dificuldades no acesso ao crédito afetam empresas, aponta pesquisa da CNI"
+title: Dificuldades no acesso ao crédito afetam empresas, aponta pesquisa da CNI
 date: 2023-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxas de juros, garantias e falta de linhas adequadas são entraves apontados por empresários.
 

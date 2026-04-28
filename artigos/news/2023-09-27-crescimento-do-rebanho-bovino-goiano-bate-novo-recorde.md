@@ -1,11 +1,12 @@
 ---
-title: "Crescimento do rebanho bovino goiano bate novo recorde"
+title: Crescimento do rebanho bovino goiano bate novo recorde
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O rebanho bovino goiano cresceu pelo quarto ano consecutivo e chegou a 24,4 milhões de cabeças em 2022. O quantitativo é o maior da série histórica iniciada em 1974, pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que divulgou nesta quinta-feira (21/09) a sua Pesquisa Pecuária Municipal (PPM 2022).
 

@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova compensação em dinheiro ao consumidor pela interrupção de serviços contínuos"
+title: Comissão aprova compensação em dinheiro ao consumidor pela interrupção de serviços
+  contínuos
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta ainda será analisada pelas comissões de Comunicação; de Trabalho; e pela CCJ.
 

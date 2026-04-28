@@ -1,11 +1,12 @@
 ---
-title: "Dia Mundial de Lavar as Mãos"
+title: Dia Mundial de Lavar as Mãos
 date: 2021-10-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Ter as mãos limpas é tão importante para a saúde que tem uma data dedicada a isso: o Dia Mundial de Lavar as Mãos, lembrado sempre no dia 15 de outubro. A data é usada por governos e organizações sanitárias para incentivar a lavagem das mãos e fazer com que isso faça parte do cotidiano de todos.
 

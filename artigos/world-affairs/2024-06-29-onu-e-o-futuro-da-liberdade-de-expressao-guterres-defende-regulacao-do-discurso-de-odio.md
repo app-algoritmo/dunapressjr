@@ -1,11 +1,13 @@
 ---
-title: "ONU e o Futuro da Liberdade de Expressão: Guterres Defende Regulação do 'Discurso de Ódio'"
+title: 'ONU e o Futuro da Liberdade de Expressão: Guterres Defende Regulação do ''Discurso
+  de Ódio'''
 date: 2024-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O secretário-geral da ONU, Antonio Guterres, fez uma declaração impactante no Dia Internacional de Combate ao Discurso de Ódio, enfatizando a necessidade de erradicar o "discurso de ódio" em todo o mundo. No entanto, suas palavras levantam preocupações sobre possíveis restrições à liberdade de expressão.
 

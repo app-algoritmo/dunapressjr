@@ -1,11 +1,13 @@
 ---
-title: "Rio de Janeiro registra recorde de abertura de empresas na Junta Comercial em agosto"
+title: Rio de Janeiro registra recorde de abertura de empresas na Junta Comercial
+  em agosto
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Foram abertos 7.240 novos negócios no estado, a melhor marca de 2023.
 

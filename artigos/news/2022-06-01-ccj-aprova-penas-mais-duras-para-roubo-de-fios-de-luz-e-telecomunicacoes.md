@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova penas mais duras para roubo de fios de luz e telecomunicações"
+title: CCJ aprova penas mais duras para roubo de fios de luz e telecomunicações
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou projeto de lei que estabelece penas mais duras para o roubo ou furto de fios de telecomunicações e energia elétrica. A proposta ainda deve ser analisada pelo Plenário.
 

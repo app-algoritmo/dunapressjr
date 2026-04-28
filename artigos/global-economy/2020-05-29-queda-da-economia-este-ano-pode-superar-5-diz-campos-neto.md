@@ -1,11 +1,12 @@
 ---
-title: "Queda da economia este ano pode superar 5%, diz Campos Neto"
+title: Queda da economia este ano pode superar 5%, diz Campos Neto
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Tamanho do PIB dependerá da extensão do isolamento social.
 

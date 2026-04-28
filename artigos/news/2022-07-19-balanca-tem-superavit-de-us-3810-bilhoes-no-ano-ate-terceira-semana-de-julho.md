@@ -1,11 +1,12 @@
 ---
-title: "Balança tem superávit de US$ 38,10 bilhões no ano, até terceira semana de julho"
+title: Balança tem superávit de US$ 38,10 bilhões no ano, até terceira semana de julho
 date: 2022-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Corrente de comércio atingiu US$ 324,10 bilhões no período; no mês, até agora, superávit é de US$ 3,79 bilhões, com US$ 16,98 bilhões em exportações e US$ 13,19 bilhões em importações.
 

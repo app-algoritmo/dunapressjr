@@ -1,11 +1,12 @@
 ---
-title: "Brasil cresce na reciclagem de baterias de chumbo ácido"
+title: Brasil cresce na reciclagem de baterias de chumbo ácido
 date: 2020-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em um país onde há um veículo automotivo para cada cinco habitantes, segundo o IBGE, dá para se ter uma ideia de quantas baterias de chumbo ácido são descartadas ao longo dos anos. Em acordo com a Política Nacional de Resíduos Sólidos (PNRS), instituída por Lei em 2010, o Ministério do Meio Ambiente (MMA) iniciou em 2019 a implementação do sistema de logística reversa dessas baterias. O acordo setorial foi fechado com Associação Brasileira de Baterias Automotivas e Industriais (Abrabat), a Associação Nacional dos Sincopeças do Brasil (Sincopeças-BR) e o Instituto Brasileiro de Energia Reciclável (Iber).
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial fica em 1,16% em setembro, diz IBGE"
+title: Inflação oficial fica em 1,16% em setembro, diz IBGE
 date: 2021-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice é o maior para o mês desde 1994.
 

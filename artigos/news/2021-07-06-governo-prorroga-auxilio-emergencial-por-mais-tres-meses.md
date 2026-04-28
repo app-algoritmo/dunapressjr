@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga auxílio emergencial por mais três meses"
+title: Governo prorroga auxílio emergencial por mais três meses
 date: 2021-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Benefício continuará a ser pago até outubro.
 

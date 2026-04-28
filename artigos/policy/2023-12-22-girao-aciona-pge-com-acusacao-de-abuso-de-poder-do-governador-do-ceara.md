@@ -1,11 +1,12 @@
 ---
-title: "Girao aciona PGE com acusação de abuso de poder do governador do Ceará"
+title: Girao aciona PGE com acusação de abuso de poder do governador do Ceará
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um pronunciamento no Plenário na quarta-feira (20), o senador Eduardo Girão (NOVO-CE) informou que vai entrar com uma representação junto à Procuradoria-Geral do Estado (PGE) contra o governador do Ceará, Elmano de Freitas, por abuso de poder político. Girão se referiu à fala do governador durante o 34º Encontro Estadual do MST, que teria instigado os beneficiários do Bolsa Família a se tornarem “multiplicadores da ideologia política do governo atual e a atuarem contra opiniões contrárias”. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Ataque de Drone à Unidade Militar da Transnístria: Rússia Denuncia Provocação"
+title: 'Ataque de Drone à Unidade Militar da Transnístria: Rússia Denuncia Provocação'
 date: 2024-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério das Relações Exteriores da Rússia lançou um alerta enfático em relação ao recente ataque de drones kamikaze à unidade militar da Transnístria. Maria Zakharova, porta-voz do Ministério, destacou que o incidente é uma clara provocação destinada a exacerbar as tensões na região já volátil.
 

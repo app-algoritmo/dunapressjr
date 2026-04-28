@@ -1,11 +1,13 @@
 ---
-title: "Polónia espera convencer parceiros da OTAN da necessidade de ter armas nucleares no país"
+title: Polónia espera convencer parceiros da OTAN da necessidade de ter armas nucleares
+  no país
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "Nós nos esforçamos para fortalecer a segurança", disse Mateusz Morawiecki.
 

@@ -1,11 +1,12 @@
 ---
-title: "OCDE prevê crescimento menor da economia global devido ao coronavírus"
+title: OCDE prevê crescimento menor da economia global devido ao coronavírus
 date: 2020-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Expansão deve ser de 2,4% frente aos 2,9% do último relatório
 

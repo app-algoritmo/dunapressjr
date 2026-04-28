@@ -1,11 +1,12 @@
 ---
-title: "Governo soma R$ 100 bi em contratos de privatizações, diz ministro"
+title: Governo soma R$ 100 bi em contratos de privatizações, diz ministro
 date: 2022-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Intenção é chegar a R$ 200 bilhões até o fim de 2022.
 

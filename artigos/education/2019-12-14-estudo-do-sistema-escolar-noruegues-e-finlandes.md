@@ -1,11 +1,12 @@
 ---
-title: "Estudo do sistema escolar norueguês e finlandês"
+title: Estudo do sistema escolar norueguês e finlandês
 date: 2019-12-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## As pesquisas do Pisa mostram que a classe social tem um impacto maior no desempenho dos alunos na Noruega do que na Finlândia
 

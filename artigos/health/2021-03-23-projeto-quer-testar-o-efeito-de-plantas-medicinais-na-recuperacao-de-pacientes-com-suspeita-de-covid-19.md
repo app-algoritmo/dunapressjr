@@ -1,11 +1,13 @@
 ---
-title: "Projeto quer testar o efeito de plantas medicinais na recuperação de pacientes com suspeita de COVID-19"
+title: Projeto quer testar o efeito de plantas medicinais na recuperação de pacientes
+  com suspeita de COVID-19
 date: 2021-03-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um grupo de pesquisadores da Universidade Federal do Rio Grande do Sul (UFRGS) teve projeto aprovado no Programa de Combate a Epidemias, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), para fazer ensaio clínico sobre a eficácia de plantas medicinais, usadas na forma dos populares chás, como agentes complementares no tratamento dos pacientes com suspeita de COVID-19. A pesquisa é liderada por Ionara Rodrigues Siqueira, professora do Programa de Pós-Graduação em Ciências Biológicas: Farmacologia e Terapêutica, da universidade gaúcha.
 

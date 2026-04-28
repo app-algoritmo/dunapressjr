@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal apreende 200 toneladas de minério de manganês que seriam exportadas ilegalmente"
+title: Polícia Federal apreende 200 toneladas de minério de manganês que seriam exportadas
+  ilegalmente
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Marabá /PA **- A Polícia Federal apreendeu, no final da tarde de
 ontem (27/3), dois caminhões de grande porte (*bitrem*) que transportavam,

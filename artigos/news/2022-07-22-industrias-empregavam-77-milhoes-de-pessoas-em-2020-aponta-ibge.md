@@ -1,11 +1,12 @@
 ---
-title: "Indústrias empregavam 7,7 milhões de pessoas em 2020, aponta IBGE"
+title: Indústrias empregavam 7,7 milhões de pessoas em 2020, aponta IBGE
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa mostra que indústria brasileira compreendia 303 mil empresas.
 

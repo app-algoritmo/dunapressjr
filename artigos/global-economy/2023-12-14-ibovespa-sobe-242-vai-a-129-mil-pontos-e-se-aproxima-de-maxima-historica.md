@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 2,42%, vai a 129 mil pontos e se aproxima de máxima histórica"
+title: Ibovespa sobe 2,42%, vai a 129 mil pontos e se aproxima de máxima histórica
 date: 2023-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai quase 1%.
 

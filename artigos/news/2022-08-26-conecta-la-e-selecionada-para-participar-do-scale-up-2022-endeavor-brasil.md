@@ -1,11 +1,12 @@
 ---
-title: "Conecta Lá é selecionada para participar do Scale-Up 2022 - Endeavor Brasil"
+title: Conecta Lá é selecionada para participar do Scale-Up 2022 - Endeavor Brasil
 date: 2022-08-26
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 A [Conecta Lá](https://site.conectala.com.br/), empresa de tecnologia que oferece soluções inteligentes para operações em *marketplaces*, é uma das 102 *scale-ups* do país selecionadas para participar da segunda edição do programa Scale-Up Endeavor 2022, iniciado em agosto.
 

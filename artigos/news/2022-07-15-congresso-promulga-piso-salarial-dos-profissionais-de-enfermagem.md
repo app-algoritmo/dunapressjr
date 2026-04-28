@@ -1,11 +1,12 @@
 ---
-title: "Congresso promulga piso salarial dos profissionais de enfermagem"
+title: Congresso promulga piso salarial dos profissionais de enfermagem
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### País tem atualmente cerca de 400 mil profissionais na área.
 

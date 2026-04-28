@@ -1,11 +1,12 @@
 ---
-title: "Lira vai reunir líderes partidários no domingo para discutir pauta econômica"
+title: Lira vai reunir líderes partidários no domingo para discutir pauta econômica
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente da Câmara convocou esforço concentrado de votações na próxima semana.
 

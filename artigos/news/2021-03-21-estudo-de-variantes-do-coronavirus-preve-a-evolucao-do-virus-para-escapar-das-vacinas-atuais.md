@@ -1,11 +1,13 @@
 ---
-title: "Estudo de variantes do coronavírus prevê a evolução do vírus para escapar das vacinas atuais"
+title: Estudo de variantes do coronavírus prevê a evolução do vírus para escapar das
+  vacinas atuais
 date: 2021-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Um novo estudo das variantes do Reino Unido e da África do Sul do SARS-CoV-2 prevê que as vacinas atuais e certos anticorpos monoclonais podem ser menos eficazes na neutralização dessas variantes e que as novas variantes aumentam o espectro de que as reinfecções podem ser mais prováveis.
 

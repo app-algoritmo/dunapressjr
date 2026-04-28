@@ -1,11 +1,12 @@
 ---
-title: "Deputado sugere criação do Programa Nacional de Fomento à Causa Animal"
+title: Deputado sugere criação do Programa Nacional de Fomento à Causa Animal
 date: 2021-11-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Apresentado  pelo deputado Pedro Vilela (PSDB-AL), o Projeto de Lei 2567/2021 visa a criação do Programa Nacional de Fomento à Causa Animal (Propet).
 

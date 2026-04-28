@@ -1,11 +1,12 @@
 ---
-title: "Receita arrecadou R$ 137,73 bilhões em julho"
+title: Receita arrecadou R$ 137,73 bilhões em julho
 date: 2019-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 No período acumulado, de janeiro a julho de 2019, a arrecadação totalizou R$ 895,33 bilhões. 
 

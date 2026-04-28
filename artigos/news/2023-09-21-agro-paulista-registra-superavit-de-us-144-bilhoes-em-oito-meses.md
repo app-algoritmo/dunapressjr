@@ -1,11 +1,12 @@
 ---
-title: "Agro paulista registra superávit de US$ 14,4 bilhões em oito meses"
+title: Agro paulista registra superávit de US$ 14,4 bilhões em oito meses
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado foi 6,9% superior a mesmo período do ano passado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba quais são os sintomas da rinite alérgica"
+title: Saiba quais são os sintomas da rinite alérgica
 date: 2021-02-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rinite é a inflamação aguda ou crônica, infecciosa, alérgica ou irritativa da mucosa nasal. Os casos mais graves são, em sua maioria, são causados por vírus, já os casos crônicos ou recorrentes são geralmente determinados pela rinite alérgica, induzida pela exposição a componentes que possuem maior probalidade de causar alergias nas pessoas, entre eles os ácaros da poeira domiciliar, barata, os fungos, epitélio, urina e saliva de animais (cão e gato). Os principais irritantes são a fumaça do cigarro e alguns ingredientes utilizados em produtos de limpeza e construção.
 

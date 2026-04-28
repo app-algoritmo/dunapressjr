@@ -1,11 +1,13 @@
 ---
-title: "Ex-presidente Jair Bolsonaro é internado no Hospital Santa Júlia após procedimentos médicos"
+title: Ex-presidente Jair Bolsonaro é internado no Hospital Santa Júlia após procedimentos
+  médicos
 date: 2024-05-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 No sábado, 4 de maio, o ex-presidente Jair Bolsonaro (PL) foi internado no Hospital Santa Júlia, em Manaus, para passar por procedimentos médicos. O evento, que contava com a presença da ex-primeira-dama Michelle Bolsonaro, sofreu um atraso de mais de uma hora devido a um sinistro não especificado.
 

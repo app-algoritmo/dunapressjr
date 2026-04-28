@@ -1,11 +1,12 @@
 ---
-title: "Média de juro do cheque especial fecha 2019 menor que no início do ano"
+title: Média de juro do cheque especial fecha 2019 menor que no início do ano
 date: 2019-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As taxas médias de juros do cheque especial e do empréstimo
 pessoal terminaram 2019 menores que as do início do ano, de acordo com

@@ -1,11 +1,12 @@
 ---
-title: "Conceito de felicidade corporativa se consolida como estratégia de negócio"
+title: Conceito de felicidade corporativa se consolida como estratégia de negócio
 date: 2024-04-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 ## Multinacional finlandesa Valmet adota o conceito de felicidade corporativa em suas operações, promovendo orientações psicológica, financeira, de saúde e social para mais de 1.100 colaboradores na América do Sul.
 

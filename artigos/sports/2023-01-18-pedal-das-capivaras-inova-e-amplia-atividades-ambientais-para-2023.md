@@ -1,11 +1,12 @@
 ---
-title: "Pedal das Capivaras inova e amplia atividades ambientais para 2023"
+title: Pedal das Capivaras inova e amplia atividades ambientais para 2023
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Quando lançou o projeto Pedal das Capivaras, a intenção da Shimano visava chamar atenção para a despoluição do Rio Pinheiros, na capital paulista, sensibilizando inicialmente os ciclistas, e chamar a atenção das autoridades responsáveis. Passados 12 anos, a situação mudou. E para melhor. Sensíveis melhorias em relação a qualidade da água são notadas e os investimentos na ciclovia transformaram a relação do paulistano com as bikes nessa parte da cidade. Por tudo isso, em 2023, o Pedal das Capivaras  – Pela despoluição de Rios e Mares, programado para 28 de janeiro será uma celebração desse projeto de revitalização e um lembrete de que esse é um movimento que precisa continuar.
 

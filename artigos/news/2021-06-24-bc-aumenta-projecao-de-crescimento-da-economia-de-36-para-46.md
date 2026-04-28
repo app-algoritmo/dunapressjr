@@ -1,11 +1,12 @@
 ---
-title: "BC aumenta projeção de crescimento da economia de 3,6% para 4,6%"
+title: BC aumenta projeção de crescimento da economia de 3,6% para 4,6%
 date: 2021-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação deve chegar a 5,82% ao final de 2021, acima da meta.
 

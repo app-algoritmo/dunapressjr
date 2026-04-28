@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde reedita final do Campeonato Paulista neste domingo (16)"
+title: Osasco São Cristóvão Saúde reedita final do Campeonato Paulista neste domingo
+  (16)
 date: 2023-11-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar recebe o Pinheiros, às 18h30, no ginásio José Liberatti. Na última vez que se enfrentaram, Osasco levantou o título estadual pela 17ª vez em sua história.
 

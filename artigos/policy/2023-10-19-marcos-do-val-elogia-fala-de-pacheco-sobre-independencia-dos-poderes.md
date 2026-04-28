@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val elogia fala de Pacheco sobre independência dos Poderes"
+title: Marcos do Val elogia fala de Pacheco sobre independência dos Poderes
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta terça-feira (17), o senador Marcos do Val (Podemos-ES) elogiou a fala do presidente do Senado, Rodrigo Pacheco, que disse “se incomodar muito com a crise de identidade que há na política e a crise que também existe em relação à legitimidade das decisões judiciais”. Segundo Marcos do Val, a declaração evidencia a importância da independência dos Poderes da República e a urgência de o Congresso Nacional continuar avançando em pautas que “promovam mudanças para preservar a democracia e as prerrogativas do Parlamento, além de impedir o avanço sistemático das atribuições legislativas pelo Supremo Tribunal Federal (STF)”:
 

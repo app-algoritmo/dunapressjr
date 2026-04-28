@@ -1,11 +1,13 @@
 ---
-title: "Revista IstoÉ, compara o atual Ministro das Comunicações ao Ministro da Propaganda Nazista"
+title: Revista IstoÉ, compara o atual Ministro das Comunicações ao Ministro da Propaganda
+  Nazista
 date: 2019-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Revista IstoÉ em sua  edição nº 2602 08/11 trouxe em  sua capa, em destaque, uma matéria onde se aborda uma comparação entre o atual ministros da comunicação do governo Jair Bolsonaro, Fábio Wajngarten, a Joseph Goebbels Ministro da Propaganda do regime nazista, no final da década de 1930, a mente que formulou os projetos de atrocidades, que  alavancaram  o Terceiro Reich do ditador Adolf Hitler. 
 

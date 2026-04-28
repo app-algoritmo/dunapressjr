@@ -1,11 +1,12 @@
 ---
-title: "O Fórum Econômico Mundial pretende eliminar 75% dos veículos do mundo até 2050"
+title: O Fórum Econômico Mundial pretende eliminar 75% dos veículos do mundo até 2050
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um recente relatório intitulado ***The Urban Mobility Scoring Tool: Benchmarking thetransition to Sustainable Urban Mobility,*** a conhecida instituição privada supranacional [propôs a eliminação de 75% da](https://www.weforum.org/whitepapers/the-urban-mobility-scorecard-tool-benchmarking-the-transition-to-sustainable-urban-mobility) frota móvel mundial até 2050 como uma das soluções definitivas. mudar.
 

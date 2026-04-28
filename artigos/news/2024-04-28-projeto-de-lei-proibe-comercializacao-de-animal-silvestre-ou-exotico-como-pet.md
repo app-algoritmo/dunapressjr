@@ -1,11 +1,12 @@
 ---
-title: "Projeto de lei proíbe comercialização de animal silvestre ou exótico como pet"
+title: Projeto de lei proíbe comercialização de animal silvestre ou exótico como pet
 date: 2024-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 1045/24 proíbe no Brasil a comercialização de animais silvestres e exóticos com a finalidade de serem criados como animais de estimação. O texto está em análise na Câmara dos Deputados.
 

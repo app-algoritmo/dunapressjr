@@ -1,11 +1,13 @@
 ---
-title: "Tarcísio garante água, renova apelo por saída de turistas e fala de tirar vítimas de áreas de risco"
+title: Tarcísio garante água, renova apelo por saída de turistas e fala de tirar vítimas
+  de áreas de risco
 date: 2023-02-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## O governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou nesta quarta-feira (22) que as estações de tratamento de água voltaram a funcionar no litoral norte.
 

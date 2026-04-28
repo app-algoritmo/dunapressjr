@@ -1,11 +1,12 @@
 ---
-title: "Os 44 Países europeus, classificação do pior ao melhor"
+title: Os 44 Países europeus, classificação do pior ao melhor
 date: 2020-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Europa, a terra da alta cultura, alta moda, das comidas deliciosas e histórias de séculos. O que há para não amar? 
 

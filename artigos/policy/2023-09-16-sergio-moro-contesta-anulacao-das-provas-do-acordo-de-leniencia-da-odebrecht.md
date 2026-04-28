@@ -1,11 +1,12 @@
 ---
-title: "Sérgio Moro contesta anulação das provas do acordo de leniência da Odebrecht"
+title: Sérgio Moro contesta anulação das provas do acordo de leniência da Odebrecht
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sérgio Moro (União-PR) lamentou, em pronunciamento no Plenário, nesta quarta-feira (13), a decisão do ministro do Supremo Tribunal Federal (STF) Dias Toffoli de anular todas as provas provenientes do acordo de leniência firmado entre a empresa Odebrecht e a Operação Lava-Jato. O senador relembrou o acordo celebrado em 2016, com a previsão de multa de indenização com valores bilionários, considerado por ele "o maior acordo, até então celebrado, de recuperação de valores desviados, na prática, por subornos, subfaturamentos que envolveram diversas estatais brasileiras".
 

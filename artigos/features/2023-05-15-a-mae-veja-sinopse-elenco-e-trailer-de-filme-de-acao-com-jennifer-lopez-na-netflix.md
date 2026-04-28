@@ -1,11 +1,13 @@
 ---
-title: "A Mãe: veja sinopse, elenco e trailer de filme de ação com Jennifer Lopez na Netflix"
+title: 'A Mãe: veja sinopse, elenco e trailer de filme de ação com Jennifer Lopez
+  na Netflix'
 date: 2023-05-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## No longa, Jennifer Lopez, é uma assassina de aluguel que precisa proteger a filha de dois criminosos. O elenco ainda conta com Gael García Bernal e Joseph Fiennes.
 

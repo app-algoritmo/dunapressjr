@@ -1,11 +1,12 @@
 ---
-title: "Média diária de produção de petróleo no regime de partilha cresce"
+title: Média diária de produção de petróleo no regime de partilha cresce
 date: 2022-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informações foram divulgadas pela Pré-Sal Petróleo (PPSA).
 

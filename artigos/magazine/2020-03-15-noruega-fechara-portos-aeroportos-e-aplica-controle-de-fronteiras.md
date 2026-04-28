@@ -1,11 +1,12 @@
 ---
-title: "Noruega fechará portos, aeroportos e aplica controle de fronteiras"
+title: Noruega fechará portos, aeroportos e aplica controle de fronteiras
 date: 2020-03-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Em roda de imprensa realizada neste último dia 14.03.20, a primeira ministra da Noruega Erna Solberg, comunicou à sociedade sobre as medidas que entrarão em vigor a partir desta segunda-feira dia 16.03.2020.
 

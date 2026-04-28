@@ -1,11 +1,12 @@
 ---
-title: "Ação e reação: a resposta da unidade de cães de Israel ao terror"
+title: 'Ação e reação: a resposta da unidade de cães de Israel ao terror'
 date: 2021-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Embora seja conhecido pelo trabalho de busca e resgate, a recente onda de atividades terroristas tem mostrado a Unidade de Cão de Israel - literalmente.
 

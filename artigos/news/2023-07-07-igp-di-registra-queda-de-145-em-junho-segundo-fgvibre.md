@@ -1,11 +1,12 @@
 ---
-title: "IGP-DI registra queda de 1,45% em junho, segundo FGV/Ibre"
+title: IGP-DI registra queda de 1,45% em junho, segundo FGV/Ibre
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda menos intensa nos preços do milho e da soja e redução de impostos contribuem para a deflação ao produtor e ao consumidor no mês.
 

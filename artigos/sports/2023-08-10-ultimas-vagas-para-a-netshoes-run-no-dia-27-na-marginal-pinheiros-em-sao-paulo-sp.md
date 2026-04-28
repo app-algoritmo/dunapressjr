@@ -1,11 +1,13 @@
 ---
-title: "Últimas vagas para a Netshoes Run, no dia 27, na Marginal Pinheiros, em São Paulo (SP)"
+title: Últimas vagas para a Netshoes Run, no dia 27, na Marginal Pinheiros, em São
+  Paulo (SP)
 date: 2023-08-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Evento terá corrida para adultos e crianças, com a participação mais do que especial das Tartarugas Ninja. Largada e chegada serão em frente ao Parque do Povo, com programação a partir das 7h.
 

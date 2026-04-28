@@ -1,11 +1,13 @@
 ---
-title: "5 aprendizados sobre higiene bucal trazidos pela pandemia que deveriam ser mantidos"
+title: 5 aprendizados sobre higiene bucal trazidos pela pandemia que deveriam ser
+  mantidos
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Escondida por trás das máscaras, a saúde bucal não pode ficar de lado e ganhou, inclusive, novos reforços nesse momento. São ações que já deveriam fazer parte da rotina, mas que muitas vezes eram esquecidas e não valorizadas como deveriam. Quando se fala em contaminação, um dos principais canais de acesso de todo tipo de vírus ao corpo é a boca. E, para prevenir inclusive muitas outras doenças que já circulavam entre a população, alguns hábitos implantados agora deveriam ficar no dia a dia de cada um.
 

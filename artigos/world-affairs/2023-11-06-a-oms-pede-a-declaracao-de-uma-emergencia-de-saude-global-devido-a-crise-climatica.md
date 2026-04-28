@@ -1,11 +1,13 @@
 ---
-title: "A OMS pede a declaração de uma “emergência de saúde global” devido à “crise climática”"
+title: A OMS pede a declaração de uma “emergência de saúde global” devido à “crise
+  climática”
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Cientistas financiados pela Organização Mundial da Saúde (OMS) estão a pressionar para que o não eleito Comité de Saúde das Nações Unidas declare uma “emergência de saúde global”.
 

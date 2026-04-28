@@ -1,11 +1,13 @@
 ---
-title: "Liberdade e segurança  influenciadas e restringidas por ameaças não puramente militares, Min Defesa da Noruega"
+title: Liberdade e segurança  influenciadas e restringidas por ameaças não puramente
+  militares, Min Defesa da Noruega
 date: 2020-01-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Em evento realizado na Sociedade Militar de Oslo (OMS), o ministro da Defesa norueguês Frank Bakke-Jensen, apresentou a  palestra  "**Uma defesa para o futuro**".
 

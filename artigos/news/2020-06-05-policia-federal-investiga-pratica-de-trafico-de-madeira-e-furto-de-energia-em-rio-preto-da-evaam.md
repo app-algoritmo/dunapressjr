@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal investiga prática de tráfico de madeira e furto de energia em Rio Preto da Eva/AM"
+title: Polícia Federal investiga prática de tráfico de madeira e furto de energia
+  em Rio Preto da Eva/AM
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Manaus/AM** – A Polícia Federal adotou uma série de ações, nessa quinta-feira (04/06), visando interromper atividades ilícitas que vinham se desenvolvendo em uma madeireira no Município de Rio Preto da Eva/AM. Uma equipe de policiais federais se deslocou até o estabelecimento a fim de verificar a ocorrência de atividades suspeitas e flagraram a possível prática de crimes de exploração ilegal de madeira, furto de energia elétrica e falsidade ideológica.
 

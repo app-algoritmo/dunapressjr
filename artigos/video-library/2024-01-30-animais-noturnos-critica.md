@@ -1,11 +1,12 @@
 ---
-title: "Animais Noturnos | Crítica"
+title: Animais Noturnos | Crítica
 date: 2024-01-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## "Animais noturnos" filme com Jake Gyllenhaal é intrigante e complexo.
 

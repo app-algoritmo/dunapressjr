@@ -1,11 +1,12 @@
 ---
-title: "Governo sanciona lei que prorroga prazos para exportadores nos regimes de drawback"
+title: Governo sanciona lei que prorroga prazos para exportadores nos regimes de drawback
 date: 2020-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Nova legislação faz parte das ações adotadas para reduzir os impactos da pandemia sobre a economia brasileira.
 

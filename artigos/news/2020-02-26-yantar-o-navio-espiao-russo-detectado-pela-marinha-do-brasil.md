@@ -1,11 +1,12 @@
 ---
-title: "Yantar, o navio espião Russo detectado pela Marinha do Brasil"
+title: Yantar, o navio espião Russo detectado pela Marinha do Brasil
 date: 2020-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No último dia 10 de fevereiro de 2020, o (***CISMAR***) Centro Integrado de Segurança Marítima no Rio de Janeiro, detectou o navio espião Russo navegando dentro da zona econômica exclusiva do Brasil.
 

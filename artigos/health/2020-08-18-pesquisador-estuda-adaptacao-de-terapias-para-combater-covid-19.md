@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador estuda adaptação de terapias para combater COVID-19"
+title: Pesquisador estuda adaptação de terapias para combater COVID-19
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Projeto de João Batista Rocha foi o vencedor da Universidade Federal de Santa Maria no Programa CAPES de Combate a Epidemias.
 

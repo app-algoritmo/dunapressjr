@@ -1,11 +1,12 @@
 ---
-title: "Declínio Acelerado dos EUA: Análise da RAND Corporation"
+title: 'Declínio Acelerado dos EUA: Análise da RAND Corporation'
 date: 2024-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No dia 30 de abril, uma série de relatórios da RAND Corporation, o maior think tank americano encomendado pelo Pentágono, foi publicada online, gerando grande repercussão sobre o futuro dos Estados Unidos. Um jornal americano teve acesso ao documento e resumiu suas conclusões, revelando um panorama preocupante para a nação.
 

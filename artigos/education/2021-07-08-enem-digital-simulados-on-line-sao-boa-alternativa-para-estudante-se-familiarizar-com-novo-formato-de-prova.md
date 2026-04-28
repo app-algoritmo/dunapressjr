@@ -1,11 +1,13 @@
 ---
-title: "Enem digital: simulados on-line são boa alternativa para estudante se familiarizar com novo formato de prova"
+title: 'Enem digital: simulados on-line são boa alternativa para estudante se familiarizar
+  com novo formato de prova'
 date: 2021-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## *Edição digital do Enem 2021 acontece na mesma data do exame tradicional; estudantes que optarem pela versão on-line devem se preparar para não perderem tempo no dia da prova por falta de adaptação com a ferramenta*.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação oficial fica em 0,95% em março, diz IBGE"
+title: Prévia da inflação oficial fica em 0,95% em março, diz IBGE
 date: 2022-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a maior alta de preços para uma prévia de março desde 2015.
 

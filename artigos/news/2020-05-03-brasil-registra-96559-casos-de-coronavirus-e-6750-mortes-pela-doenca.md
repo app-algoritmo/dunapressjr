@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 96.559 casos de coronavírus e 6.750 mortes pela doença"
+title: Brasil registra 96.559 casos de coronavírus e 6.750 mortes pela doença
 date: 2020-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As informações foram atualizadas pelas Secretarias Estaduais de Saúde até as 14 horas deste sábado 2 e maio, com o total de casos confirmados, 40.937 (42,4%) estão recuperados e outros 48.872 estão em acompanhamento.
 

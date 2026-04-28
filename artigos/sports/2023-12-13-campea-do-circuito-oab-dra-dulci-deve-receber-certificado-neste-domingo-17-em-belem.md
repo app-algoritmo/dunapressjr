@@ -1,11 +1,13 @@
 ---
-title: "Campeã do Circuito OAB, Dra. Dulci deve receber certificado neste domingo (17), em Belém"
+title: Campeã do Circuito OAB, Dra. Dulci deve receber certificado neste domingo (17),
+  em Belém
 date: 2023-12-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Capital paraense terá a última etapa da competição, que passou por diferentes cidades do estado neste segundo semestre. A advogada soma quatro pódios, com três medalhas de ouro e uma de bronze na categoria Advogada Máster.
 

@@ -1,11 +1,12 @@
 ---
-title: "Premiação do concurso de máscaras ocorrerá após a pandemia"
+title: Premiação do concurso de máscaras ocorrerá após a pandemia
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os vencedores do Concurso de máscaras "Pequenos heróis contra o vilão coronavírus" serão premiados após a pandemia do novo coronavírus. Gael Vaz Jordão, Helena de Oliveira, Hellen Bonicenha e Milena Santos Faria vão passar uma tarde no Palácio da Alvorada, em Brasília (DF), na companhia da primeira-dama, Michelle Bolsonaro, e da ministra Damares Alves.
 

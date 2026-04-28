@@ -1,11 +1,12 @@
 ---
-title: "Brasil testa nova vacina contra o novo coronavírus"
+title: Brasil testa nova vacina contra o novo coronavírus
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nove mil voluntários vão participar de nova etapa da pesquisa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Almirante sênior da OTAN diz que a Ucrânia não receberá caças para esta contra-ofensiva"
+title: Almirante sênior da OTAN diz que a Ucrânia não receberá caças para esta contra-ofensiva
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Rob Bauer, em entrevista à LBC Radio, disse que, embora a discussão sobre a aeronave seja importante, "não será decidida tão cedo".
 

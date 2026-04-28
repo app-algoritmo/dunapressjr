@@ -1,11 +1,13 @@
 ---
-title: "Saideira do Rocky Spirit Online: 51 filmes grátis para maratonar no final de semana"
+title: 'Saideira do Rocky Spirit Online: 51 filmes grátis para maratonar no final
+  de semana'
 date: 2023-10-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Documentários nacionais e internacionais sobre esportes de aventura e lifestyle outdoor estão disponíveis até este domingo (8). Internautas podem votar para eleger as melhores produções.
 

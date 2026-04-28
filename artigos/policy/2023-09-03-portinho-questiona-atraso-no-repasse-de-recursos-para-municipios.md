@@ -1,11 +1,12 @@
 ---
-title: "Portinho questiona atraso no repasse de recursos para municípios"
+title: Portinho questiona atraso no repasse de recursos para municípios
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Carlos Portinho (PL-RJ) criticou em pronunciamento nesta quinta-feira (31) o atraso no repasse de recursos do Fundo de Participação dos Municípios (FPM). O parlamentar pediu que os colegas organizem uma visita ao ministro da Fazenda, Fernando Haddad, para entender o motivo da verba não ter sido enviada aos municípios.
 

@@ -1,11 +1,13 @@
 ---
-title: "Recuo na Censura Global: Tribunal Australiano Apoia Elon Musk contra Comissão Governamental"
+title: 'Recuo na Censura Global: Tribunal Australiano Apoia Elon Musk contra Comissão
+  Governamental'
 date: 2024-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um tribunal na Austrália decidiu a favor de Elon Musk, apoiando a tese de que um país não pode censurar o mundo inteiro. A decisão, que repreendeu a Comissão de Segurança Eletrônica do governo australiano, estabeleceu que a Empresa X, anteriormente conhecida como Twitter, deve seguir a legislação nacional, mas não é obrigada a cumprir legislações globais.
 

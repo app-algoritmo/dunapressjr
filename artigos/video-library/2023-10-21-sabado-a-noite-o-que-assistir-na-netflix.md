@@ -1,11 +1,12 @@
 ---
-title: "Sábado à Noite: O que Assistir na Netflix"
+title: 'Sábado à Noite: O que Assistir na Netflix'
 date: 2023-10-21
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha Aqui:
 

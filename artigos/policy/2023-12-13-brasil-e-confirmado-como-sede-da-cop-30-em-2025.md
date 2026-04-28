@@ -1,11 +1,12 @@
 ---
-title: "Brasil é confirmado como sede da COP 30 em 2025"
+title: Brasil é confirmado como sede da COP 30 em 2025
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Brasil foi formalmente confirmado como sede da COP 30, a 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima, que será realizada em Belém, entre 10 e 21 de novembro de 2025. O anúncio foi oficializado durante sessão plenária da COP 28, em Dubai. Será a primeira vez que a Amazônia sediará uma COP. A notícia foi anunciada pela ministra da Meio Ambiente, Marina Silva, na segunda-feira (11).
 

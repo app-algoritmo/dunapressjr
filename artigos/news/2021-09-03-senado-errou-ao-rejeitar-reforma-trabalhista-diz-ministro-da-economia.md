@@ -1,11 +1,12 @@
 ---
-title: "Senado errou ao rejeitar reforma trabalhista, diz ministro da Economia"
+title: Senado errou ao rejeitar reforma trabalhista, diz ministro da Economia
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Paulo Guedes elogiou aprovação da reforma do IR na Câmara.
 

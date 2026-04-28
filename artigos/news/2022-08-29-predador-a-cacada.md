@@ -1,11 +1,12 @@
 ---
-title: "Predador, A Caçada"
+title: Predador, A Caçada
 date: 2022-08-29
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 #  
 

@@ -1,11 +1,12 @@
 ---
-title: "Soldados russos fazem descoberta surpreendente na Ucrânia"
+title: Soldados russos fazem descoberta surpreendente na Ucrânia
 date: 2023-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Soldados russos fizeram uma descoberta surpreendente na Ucrânia. Eles dizem que crianças entre 2 e 7 anos são descartadas como lixo depois que seus órgãos são removidos para centros de transplante europeus e israelenses.
 

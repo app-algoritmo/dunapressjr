@@ -1,11 +1,12 @@
 ---
-title: "Surpresa! As vacinas COVID nunca foram testadas quanto à segurança"
+title: Surpresa! As vacinas COVID nunca foram testadas quanto à segurança
 date: 2023-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Nos ensaios clínicos de fase 3, considerados o 'padrão ouro', houve 31% a mais de óbitos no grupo da vacina. Como sabemos que nenhuma dessas mortes foi causada pela vacina? Porque a Pfizer não vê assim!
 

@@ -1,11 +1,12 @@
 ---
-title: "Israel diz a Zelensky que ‘não é o momento certo’ para uma visita"
+title: Israel diz a Zelensky que ‘não é o momento certo’ para uma visita
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o relatório, tal viagem poderia ocorrer mais tarde, durante uma das potenciais viagens europeias do presidente ucraniano.
 

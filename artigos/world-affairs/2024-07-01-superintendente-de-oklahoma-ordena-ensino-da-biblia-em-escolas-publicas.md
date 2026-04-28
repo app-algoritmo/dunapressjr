@@ -1,11 +1,12 @@
 ---
-title: "Superintendente de Oklahoma Ordena Ensino da Bíblia em Escolas Públicas"
+title: Superintendente de Oklahoma Ordena Ensino da Bíblia em Escolas Públicas
 date: 2024-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O superintendente estadual republicano Ryan Walters, a maior autoridade educacional do estado de Oklahoma, ordenou nesta quinta-feira que as escolas públicas incorporem a Bíblia nas aulas de alunos entre 10 e 18 anos. Esta medida surge pouco depois do estado da Louisiana ter exigido que os Dez Mandamentos sejam exibidos em todas as salas de aula, do ensino médio à universidade, a partir do próximo ano.
 

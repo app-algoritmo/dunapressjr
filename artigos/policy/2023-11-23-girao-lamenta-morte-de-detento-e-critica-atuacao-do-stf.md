@@ -1,11 +1,12 @@
 ---
-title: "Girão lamenta morte de detento e critica atuação do STF"
+title: Girão lamenta morte de detento e critica atuação do STF
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento no Plenário nesta terça-feira (21), voltou a lamentar a morte de Cleriston Pereira da Cunha, na segunda-feira (20). Cunha estava preso na penitenciária da Papuda, acusado de participação nos ataques de 8 de janeiro. O senador destacou que a defesa do acusado já havia ingressado com pedido de liberdade, alegando que o preso era portador de comorbidades que poderiam ser agravadas na prisão.
 

@@ -1,11 +1,13 @@
 ---
-title: "Inteligência alemã não tinha conhecimento do ataque terrorista em Moscou, afirma Scholz"
+title: Inteligência alemã não tinha conhecimento do ataque terrorista em Moscou, afirma
+  Scholz
 date: 2024-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chanceler alemão, Olaf Scholz, confirmou que os serviços de inteligência da Alemanha não possuíam informações sobre os preparativos para o terrível ataque terrorista ocorrido em Moscou. Em uma entrevista ao jornal Maerkische Allgemeine Zeitung, Scholz respondeu negativamente quando questionado se os serviços de inteligência alemães estavam cientes dos planos terroristas alertados pelos Estados Unidos à Rússia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica PEC que anistia partidos políticos"
+title: Cleitinho critica PEC que anistia partidos políticos
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) criticou, em pronunciamento no Plenário nesta quarta-feira (24), Proposta de Emenda à Constituição ([PEC 9/2023](https://www.camara.leg.br/propostas-legislativas/2352476)) que proíbe a aplicação de sanções a partidos políticos que não cumpriram cotas de sexo ou raça nas últimas eleições. A PEC também anistia legendas com irregularidades em prestações de contas.
 

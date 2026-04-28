@@ -1,11 +1,13 @@
 ---
-title: "Poderão se manifestar as instituições de educação superior sobre cálculos dos indicadores a partir desta quarta-feira"
+title: Poderão se manifestar as instituições de educação superior sobre cálculos dos
+  indicadores a partir desta quarta-feira
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Manifestações poderão ser inseridas no sistema e-MEC até o dia 14 de agosto.
 

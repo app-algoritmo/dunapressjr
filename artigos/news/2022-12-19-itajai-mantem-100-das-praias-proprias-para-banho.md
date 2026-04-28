@@ -1,11 +1,12 @@
 ---
-title: "Itajaí mantém 100% das praias próprias para banho"
+title: Itajaí mantém 100% das praias próprias para banho
 date: 2022-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí manteve 100% das praias próprias para banho no quarto relatório de balneabilidade da temporada 2022/2023, divulgado pelo Instituto do Meio Ambiente de Santa Catarina (IMA) na sexta-feira (16). Os cinco pontos analisados nas praias Brava, Cabeçudas e Atalaia seguem com resultados positivos neste verão.
 

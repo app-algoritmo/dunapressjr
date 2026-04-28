@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem retirada líquida de R$ 35,5 bi em 2021"
+title: Poupança tem retirada líquida de R$ 35,5 bi em 2021
 date: 2022-01-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em dezembro, depósitos superaram saques em R$ 7,66 bi.
 

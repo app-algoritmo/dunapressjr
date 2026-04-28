@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm superávit de R$ 20,4 bilhões em julho"
+title: Contas públicas têm superávit de R$ 20,4 bilhões em julho
 date: 2022-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dívida bruta atinge 77,6% do PIB, diz Banco Central.
 

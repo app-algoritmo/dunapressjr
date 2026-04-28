@@ -1,11 +1,12 @@
 ---
-title: "O REALISMO PROFUNDO DE CERVANTES EM DOM QUIXOTE"
+title: O REALISMO PROFUNDO DE CERVANTES EM DOM QUIXOTE
 date: 2019-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## Por Hermes Rodrigues Nery
 

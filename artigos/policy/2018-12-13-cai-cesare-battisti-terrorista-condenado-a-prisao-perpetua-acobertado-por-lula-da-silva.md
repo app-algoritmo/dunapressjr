@@ -1,11 +1,13 @@
 ---
-title: "Cai Cesare Battisti, terrorista condenado à prisão perpétua acobertado por Lula da Silva"
+title: Cai Cesare Battisti, terrorista condenado à prisão perpétua acobertado por
+  Lula da Silva
 date: 2018-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 *foto: Jornal Livre*
 O terrorista Cesare Battisti, fugitivo e condenado à prisão perpétua pela justiça italiana, tem seus dias contados no Brasil. Familiares das vítimas destacam na imprensa italiana sua satisfação pelas palavras do presidente eleito Jair Messias Bolsonaro pela extradição:

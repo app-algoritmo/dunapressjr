@@ -1,11 +1,12 @@
 ---
-title: "CNC: Brasil encerrou 2021 com recorde de endividados"
+title: 'CNC: Brasil encerrou 2021 com recorde de endividados'
 date: 2022-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As famílias recorreram mais ao crédito para sustentar o consumo.
 

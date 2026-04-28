@@ -1,11 +1,12 @@
 ---
-title: "A Síndrome do Sabichão - O famoso doente sabe tudo"
+title: A Síndrome do Sabichão - O famoso doente sabe tudo
 date: 2019-07-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Após mais muito tempo de estudo e obervação descobri outra síndrome muito vista, porém de nome ainda não divulgada e, muitos a tem e nem se quer sabem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro defende aperfeiçoamento de marcos legais do setor energético"
+title: Ministro defende aperfeiçoamento de marcos legais do setor energético
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Adolfo Sachsida diz que estrangeiros buscam porto seguro para investir.
 

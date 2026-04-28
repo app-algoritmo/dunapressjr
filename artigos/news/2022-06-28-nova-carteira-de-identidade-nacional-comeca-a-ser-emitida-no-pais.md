@@ -1,11 +1,12 @@
 ---
-title: "Nova Carteira de Identidade Nacional começa a ser emitida no país"
+title: Nova Carteira de Identidade Nacional começa a ser emitida no país
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Primeiros documentos foram entregues no Palácio do Planalto; modelo digital estará disponível para os cidadãos a partir de agosto pelo GOV.BR.
 

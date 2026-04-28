@@ -1,11 +1,13 @@
 ---
-title: "Novo Chanceler do Brasil, Ernesto Araújo toma posse com discurso digno de um estadista"
+title: Novo Chanceler do Brasil, Ernesto Araújo toma posse com discurso digno de um
+  estadista
 date: 2019-01-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -Empossado como Ministro das Relações Exteriores, Ernesto Araújo causa impacto surpreendente e assume como ministro de Jair Bolsonaro.
 

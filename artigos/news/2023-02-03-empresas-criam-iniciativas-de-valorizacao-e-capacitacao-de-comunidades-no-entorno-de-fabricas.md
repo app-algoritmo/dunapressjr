@@ -1,11 +1,13 @@
 ---
-title: "Empresas criam iniciativas de valorização e capacitação de comunidades no entorno de fábricas"
+title: Empresas criam iniciativas de valorização e capacitação de comunidades no entorno
+  de fábricas
 date: 2023-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Mais do que uma oportunidade profissional, ter a chance de fazer o curso de mecânica básica me fez bem como ser humano”, diz Ariana Cardoso, 36 anos, empregada doméstica. “A vida acaba se resumindo em limpar a casa, cuidar dos filhos e acabei esquecendo de mim. Estudar, além de aumentar minhas chances no mercado de trabalho, me fez querer não parar mais”, complementa. A dona de casa está entre os moradores da Vila Augusta B, na Cidade Industrial de Curitiba, que tiveram a oportunidade de atualizarem seus currículos profissionais e participarem de cursos de capacitação, em uma iniciativa da indústria de implantes dentários Neodent, que tem suas fábricas vizinhas da comunidade. 
 

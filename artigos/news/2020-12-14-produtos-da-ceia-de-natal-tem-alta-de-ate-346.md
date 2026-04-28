@@ -1,11 +1,12 @@
 ---
-title: "Produtos da ceia de Natal têm alta de até 346%"
+title: Produtos da ceia de Natal têm alta de até 346%
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A tradicional ceia natalina de 2020 ficará mais cara na mesa dos itajaienses. Alguns alimentos, como o bacalhau, alcançaram 346,6% de aumento no preço médio. Na soma dos preços de 23 produtos da ceia, a diferença em relação a 2019 pode variar até R$ 254. A ceia com a média de preços em 2019 custava R$ 707,03, enquanto que neste ano sairá por R$ 960,70 (aumento de 33,3%). As informações são da Procuradoria de Defesa do Consumidor (Procon) de Itajaí nos primeiros dias dezembro em oito estabelecimentos da cidade.
 

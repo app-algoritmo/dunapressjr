@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega 410 moradias para famílias de baixa renda no RS"
+title: Governo Bolsonaro entrega 410 moradias para famílias de baixa renda no RS
 date: 2020-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 1.600 pessoas serão beneficiadas nesta semana com novas moradias do programa de habitação popular do Governo Federal. O Ministério do Desenvolvimento Regional (MDR) autorizou a entrega de unidades habitacionais para famílias com renda mensal de até R$ 1,8 mil nos municípios de Porto Alegre e Alpestre, no Rio Grande do Sul. No total, são 410 casas e apartamentos da Faixa 1 do Programa Minha Casa Minha Vida (MCMV), com investimento de R$ 34,1 milhões.
 

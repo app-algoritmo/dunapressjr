@@ -1,11 +1,12 @@
 ---
-title: "Orçamento de 2022 é aprovado pelo Congresso Nacional"
+title: Orçamento de 2022 é aprovado pelo Congresso Nacional
 date: 2021-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto segue para sanção presidencial.
 

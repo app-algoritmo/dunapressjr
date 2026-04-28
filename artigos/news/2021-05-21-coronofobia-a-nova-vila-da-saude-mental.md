@@ -1,11 +1,12 @@
 ---
-title: "Coronofobia: a nova vilã da saúde mental"
+title: 'Coronofobia: a nova vilã da saúde mental'
 date: 2021-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O coronavírus continua trazendo muitos problemas nesses 17 meses de pandemia - o número de mortes por conta do vírus, juntamente com o medo da população mundial, continua crescendo. Essa aflição, quando excessiva, ganha um novo nome: coronofobia.
 

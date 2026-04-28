@@ -1,11 +1,13 @@
 ---
-title: "Chanceler Alemão se Opõe ao Envio de Mísseis Taurus à Ucrânia devido a Preocupações sobre Alcance e Implicações em Moscou"
+title: Chanceler Alemão se Opõe ao Envio de Mísseis Taurus à Ucrânia devido a Preocupações
+  sobre Alcance e Implicações em Moscou
 date: 2024-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante uma reunião em Dresden, o chanceler alemão, Olaf Scholz, reafirmou sua oposição ao fornecimento de mísseis de cruzeiro de longo alcance Taurus à Ucrânia, citando preocupações de que, se mal utilizados, poderiam atingir alvos em Moscou. Scholz destacou que, para garantir o controle adequado do uso desses mísseis, seria necessário enviar militares alemães à Ucrânia, uma medida que ele considera impossível e não está disposto a tomar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Alzheimer, lúpus e fibromialgia acometem mais mulheres"
+title: Alzheimer, lúpus e fibromialgia acometem mais mulheres
 date: 2022-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 De acordo com a Sociedade Brasileira de Reumatologia, o lúpus ocorre em qualquer pessoa, porém, as mulheres são muito mais acometidas, principalmente entre 20 e 45 anos, sendo um pouco mais frequente em pessoas mestiças e afrodescendentes. Estima-se que no Brasil existem aproximadamente 65 mil pessoas com lúpus. Já a fibromialgia, são mais de 150 milhões de pessoas que sofrem dessa doença no mundo. Segundo o estudo "A prevalência da fibromialgia no Brasil", calcula-se que existam quatro milhões de pacientes no Brasil, destes, entre 75% e 90% dos afetados são mulheres.
 

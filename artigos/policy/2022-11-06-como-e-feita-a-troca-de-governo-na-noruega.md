@@ -1,12 +1,13 @@
 ---
-title: "Como é feita a troca de governo na Noruega?"
+title: Como é feita a troca de governo na Noruega?
 date: 2022-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 ## Um governo deve ter sua base no Parlamento norueguês, o Storting. A maioria Storting, portanto, tem uma influência decisiva na formação e na destituição de governos.
 

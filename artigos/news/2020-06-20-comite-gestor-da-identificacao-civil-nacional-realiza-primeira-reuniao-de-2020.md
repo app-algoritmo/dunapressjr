@@ -1,11 +1,12 @@
 ---
-title: "Comitê Gestor da Identificação Civil Nacional realiza primeira reunião de 2020"
+title: Comitê Gestor da Identificação Civil Nacional realiza primeira reunião de 2020
 date: 2020-06-20
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Identificação Civil Nacional é projeto estruturante e fundamental para a Modernização do Estado Brasileiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Depen divulga nota técnica sobre acesso à saúde no sistema prisional"
+title: Depen divulga nota técnica sobre acesso à saúde no sistema prisional
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasília, 07/04/2020 - O Departamento Penitenciário Nacional (Depen) produziu uma nota técnica com dados de saúde no sistema prisional. Entre as informações estão que, desde 2006, foram repassados pelo órgão para as unidades federativas mais de 95 milhões de reais para investimento no sistema de saúde prisional, sendo  R$ 4,8 milhões para aquisição de equipamentos e insumos de saúde e R$ 7 milhões estão sendo investidos para a implementação de centros de diagnóstico para a tuberculose e outras doenças transmissíveis. Além disso, dos 1.412 estabelecimentos penais, 856 possuem consultório médico,785 possui estabelecimentos com sala de curativos, suturas, vacinas e posto de enfermagem, segundo dados do Infopen de junho de 2019.
 

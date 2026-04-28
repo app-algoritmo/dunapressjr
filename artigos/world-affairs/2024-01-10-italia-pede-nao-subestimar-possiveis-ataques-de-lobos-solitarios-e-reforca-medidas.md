@@ -1,11 +1,13 @@
 ---
-title: "Itália pede “não subestimar” possíveis ataques de “lobos solitários” e reforça medidas"
+title: Itália pede “não subestimar” possíveis ataques de “lobos solitários” e reforça
+  medidas
 date: 2024-01-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Governo italiano assegura que “o risco de possíveis ataques extremistas por parte daqueles que são considerados “lobos solitários” “nunca deve ser subestimado”, razão pela qual manterá “a guarda elevada” relativamente ao “nível de prevenção”.
 

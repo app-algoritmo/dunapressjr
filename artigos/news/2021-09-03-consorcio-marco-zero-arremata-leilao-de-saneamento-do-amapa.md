@@ -1,11 +1,12 @@
 ---
-title: "Consórcio Marco Zero arremata leilão de saneamento do Amapá"
+title: Consórcio Marco Zero arremata leilão de saneamento do Amapá
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vencedor apresentou valor de outorga de R$ 930 milhões.
 

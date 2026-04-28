@@ -1,11 +1,12 @@
 ---
-title: "CMN simplifica sistema de pagamentos em moedas locais do Mercosul"
+title: CMN simplifica sistema de pagamentos em moedas locais do Mercosul
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudanças melhoram segurança e reduzem tempo de remessas.
 

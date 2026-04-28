@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde de Israel: vacina COVID associada à inflamação do músculo cardíaco"
+title: 'Ministério da Saúde de Israel: vacina COVID associada à inflamação do músculo
+  cardíaco'
 date: 2021-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Embora a condição exija internação hospitalar, relatório do Ministério da Saúde destacou que a maioria dos casos de miocardite associada à vacina foi leve, com 95% dos pacientes listados em estado leve. A maioria dos que sofriam de miocardite ficou hospitalizada por não mais do que quatro dias.
 

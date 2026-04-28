@@ -1,11 +1,12 @@
 ---
-title: "BRICS+ 3.3 bilhões de pessoas na nova ordem mundial liderada por Rússia e China"
+title: BRICS+ 3.3 bilhões de pessoas na nova ordem mundial liderada por Rússia e China
 date: 2022-07-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A aliança mais poderosa do mundo é dona dos recursos que os globalistas não possuem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Você é um teórico da conspiração?"
+title: Você é um teórico da conspiração?
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Você é um teórico da conspiração? Se você for atencioso e interessado em política, a mídia dirá que você é um. 
 

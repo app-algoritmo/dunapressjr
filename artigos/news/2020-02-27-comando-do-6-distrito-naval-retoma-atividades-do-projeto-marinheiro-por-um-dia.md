@@ -1,11 +1,13 @@
 ---
-title: "Comando do 6º Distrito Naval retoma atividades do Projeto “Marinheiro por um dia”"
+title: Comando do 6º Distrito Naval retoma atividades do Projeto “Marinheiro por um
+  dia”
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Comando do 6º Distrito Naval (Com6ºDN) promoveu, em 13 de fevereiro, a
 crianças, jovens e adultos do Leo Clube Corumbá uma experiência cultural em um

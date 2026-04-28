@@ -1,11 +1,12 @@
 ---
-title: "Ministro garante o auxilio das Forças Armadas no combate ao Coronavírus"
+title: Ministro garante o auxilio das Forças Armadas no combate ao Coronavírus
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministro da Defesa, Fernando Azevedo, garantiu, nesta quarta-feira (18), em entrevista coletiva no Palácio do Planalto, que a Marinha, o Exército e a Força Aérea estarão à disposição da sociedade brasileira no enfretamento ao Coronavírus (COVID-19).
 

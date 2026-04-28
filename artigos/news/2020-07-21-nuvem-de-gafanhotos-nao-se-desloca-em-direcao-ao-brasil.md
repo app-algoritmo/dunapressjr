@@ -1,11 +1,12 @@
 ---
-title: "Nuvem de gafanhotos não se desloca em direção ao Brasil"
+title: Nuvem de gafanhotos não se desloca em direção ao Brasil
 date: 2020-07-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A nuvem se deslocou da província de Corrientes para Entre Rios e está a 100 quilômetros da fronteira com o Uruguai.
 

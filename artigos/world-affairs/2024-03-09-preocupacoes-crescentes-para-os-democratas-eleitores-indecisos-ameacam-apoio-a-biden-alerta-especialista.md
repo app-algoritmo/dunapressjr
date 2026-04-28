@@ -1,11 +1,13 @@
 ---
-title: "Preocupações crescentes para os democratas: Eleitores indecisos ameaçam apoio a Biden, alerta especialista"
+title: 'Preocupações crescentes para os democratas: Eleitores indecisos ameaçam apoio
+  a Biden, alerta especialista'
 date: 2024-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O renomado especialista em demografia e democrata, Nate Silver, levanta preocupações significativas sobre a posição de Joe Biden em relação aos eleitores indecisos antes das eleições presidenciais de novembro. Em seu blog pessoal, Silver destaca a influência crucial desses eleitores em uma nação cada vez mais polarizada.
 

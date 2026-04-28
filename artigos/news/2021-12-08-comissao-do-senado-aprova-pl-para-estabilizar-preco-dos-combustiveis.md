@@ -1,11 +1,12 @@
 ---
-title: "Comissão do Senado aprova PL para estabilizar preço dos combustíveis"
+title: Comissão do Senado aprova PL para estabilizar preço dos combustíveis
 date: 2021-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de lei visa amortecer impacto de aumentos do petróleo no país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova auxílio de R$ 600 por mês para trabalhador informal"
+title: Câmara aprova auxílio de R$ 600 por mês para trabalhador informal
 date: 2020-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Benefício vai ser pago por três meses devido à pandemia de coronavírus
 

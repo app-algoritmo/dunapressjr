@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova prorrogação do prazo de entrega do Imposto de Renda até 31 de julho"
+title: Câmara aprova prorrogação do prazo de entrega do Imposto de Renda até 31 de
+  julho
 date: 2021-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo atual é 31 de maio. Texto segue para sanção.
 

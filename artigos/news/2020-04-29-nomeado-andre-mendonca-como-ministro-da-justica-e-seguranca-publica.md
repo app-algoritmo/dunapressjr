@@ -1,11 +1,12 @@
 ---
-title: "Nomeado André Mendonça como ministro da Justiça e Segurança Pública"
+title: Nomeado André Mendonça como ministro da Justiça e Segurança Pública
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, nomeou André Mendonça para o cargo de ministro da Justiça e Segurança Pública. A nomeação consta na edição desta terça-feira (28) do [Diário Oficial da União (DOU)](http://www.in.gov.br/en/web/dou/-/decretos-de-27-de-abril-de-2020-254225083). Já Alexandre Ramagem Rodrigues ficará à frente da Polícia Federal, e José Levi Mello do Amaral Júnior exercerá o cargo de [advogado-geral da União](http://www.in.gov.br/web/dou/-/decreto-de-27-de-abril-de-2020-254225093), ocupado anteriormente por Mendonça.
 

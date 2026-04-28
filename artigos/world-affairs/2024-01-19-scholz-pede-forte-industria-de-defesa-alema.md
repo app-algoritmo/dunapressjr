@@ -1,11 +1,12 @@
 ---
-title: "Scholz pede forte indústria de defesa alemã"
+title: Scholz pede forte indústria de defesa alemã
 date: 2024-01-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Chanceler alemão também destacou a importância do Sistema Aéreo de Combate Futuro de sexta geração da Europa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Enem tem 5,8 milhões de inscritos para 2020"
+title: Enem tem 5,8 milhões de inscritos para 2020
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Finalizadas as etapas de inscrição e pagamento da taxa pelos participantes não isentos, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) tem confirmados 5.783.357 inscritos para o Exame Nacional do Ensino Médio (Enem) 2020. São 5.687.271 inscrições para o Enem impresso e 96.086 para o Enem Digital, novidade desta edição. A maioria dos interessados em fazer o Enem 2020 já finalizou os estudos: 65,6% concluíram o ensino médio em anos interiores, um total de 3.794.543 participantes. Do total de inscritos confirmados, 83% efetuaram inscrição gratuita, por atenderem aos critérios de isenção especificados pelos editais ou estarem concluindo o ensino médio em escola pública neste ano.
 

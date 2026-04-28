@@ -1,11 +1,13 @@
 ---
-title: "Paulo Guedes reforça compromisso do Brasil com saúde e recuperação econômica em reunião do G20"
+title: Paulo Guedes reforça compromisso do Brasil com saúde e recuperação econômica
+  em reunião do G20
 date: 2022-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro brasileiro falou sobre vacinação, criação de empregos, recuperação fiscal, reformas estruturantes e cuidados com meio ambiente, em mensagem a ministros de Finanças e governadores de Bancos Centrais.
 

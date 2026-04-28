@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública auxilia a Operação “Timer” e encontra suspeito de extorquir e ameaçar políticos"
+title: Ministério da Justiça e Segurança Pública auxilia a Operação “Timer” e encontra
+  suspeito de extorquir e ameaçar políticos
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um trabalho conjunto realizado pelo Ministério da Justiça e Segurança Pública (MJSP), a Polícia Civil da Paraíba (PCPB) e Polícia Civil de Pernambuco prendeu, durante a Operação “Timer”, um homem de 22 anos suspeito de extorquir e ameaçar o ex-governador da paraíba Ricardo Coutinho, o atual governador de São Paulo, João Dória, e o ex-candidato à Presidência da República, João Amoêdo. A prisão, divulgada nesta sexta-feira (22), ocorreu no dia 16 de maio deste ano, na cidade de Santa Cruz de Capibaribe (PE), mas foi mantida em sigilo para não prejudicar as investigações.
 

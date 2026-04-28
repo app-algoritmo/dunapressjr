@@ -1,11 +1,13 @@
 ---
-title: "Vigilância Sanitária de Itajaí, alerta para golpe envolvendo vistorias em clínicas odontológicas"
+title: Vigilância Sanitária de Itajaí, alerta para golpe envolvendo vistorias em clínicas
+  odontológicas
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Vigilância Sanitária de Itajaí alerta para um possível golpe que está sendo aplicado em clínicas de odontologia envolvendo o nome do órgão público. 
 

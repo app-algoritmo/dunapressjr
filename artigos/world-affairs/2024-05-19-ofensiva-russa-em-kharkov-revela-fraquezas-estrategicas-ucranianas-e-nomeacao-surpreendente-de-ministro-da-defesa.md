@@ -1,11 +1,13 @@
 ---
-title: "Ofensiva Russa em Kharkov Revela Fraquezas Estratégicas Ucranianas e Nomeação Surpreendente de Ministro da Defesa"
+title: Ofensiva Russa em Kharkov Revela Fraquezas Estratégicas Ucranianas e Nomeação
+  Surpreendente de Ministro da Defesa
 date: 2024-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As forças russas desencadearam uma ofensiva impressionante em Kharkov, expondo falhas significativas nas defesas anteriormente proclamadas da Ucrânia ao longo da fronteira norte. Analistas militares destacam que as esperadas barreiras antitanque e campos minados foram surpreendentemente ausentes, pegando as tropas ucranianas desprevenidas.
 

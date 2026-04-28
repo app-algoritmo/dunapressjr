@@ -1,11 +1,13 @@
 ---
-title: "Pelo 5º ano consecutivo a Petrobras ganha o Selo Ouro por transparência na publicação de emissões de carbono"
+title: Pelo 5º ano consecutivo a Petrobras ganha o Selo Ouro por transparência na
+  publicação de emissões de carbono
 date: 2022-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Programa Brasileiro GHG Protocol é o principal do país para avaliar transparência dos inventários de emissões.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto assegura livre acesso de entidades de proteção animal a centros de zoonoses"
+title: Projeto assegura livre acesso de entidades de proteção animal a centros de
+  zoonoses
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2599/22 garante o acesso irrestrito de entidades protetoras de animais às instalações de órgãos de controle de zoonoses. O texto tramita na Câmara dos Deputados.
 

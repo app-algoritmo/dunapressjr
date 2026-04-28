@@ -1,11 +1,12 @@
 ---
-title: "Estímulos fiscais temporários pressionam inflação, diz Banco Central"
+title: Estímulos fiscais temporários pressionam inflação, diz Banco Central
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Avaliação está na ata da última reunião do Copom, divulgada nesta terça-feira.
 

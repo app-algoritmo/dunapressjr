@@ -1,11 +1,12 @@
 ---
-title: "EUA Planejam Retirada de Soldados do Níger Após Cancelamento de Acordo Militar"
+title: EUA Planejam Retirada de Soldados do Níger Após Cancelamento de Acordo Militar
 date: 2024-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Níger anunciou que os Estados Unidos apresentarão em breve uma proposta para retirar seus soldados do país africano, após o cancelamento de um acordo militar. O ministro do Interior do Níger, general Mohamed Toumba, se reuniu com a embaixadora dos EUA, Kathleen FitzGibbon, para discutir a questão.
 

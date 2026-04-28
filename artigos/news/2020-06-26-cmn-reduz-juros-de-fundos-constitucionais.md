@@ -1,11 +1,12 @@
 ---
-title: "CMN reduz juros de fundos constitucionais"
+title: CMN reduz juros de fundos constitucionais
 date: 2020-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Novos valores serão aplicados a partir de julho.
 

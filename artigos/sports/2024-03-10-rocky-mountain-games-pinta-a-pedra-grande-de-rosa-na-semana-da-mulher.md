@@ -1,11 +1,12 @@
 ---
-title: "Rocky Mountain Games 'pinta' a Pedra Grande de Rosa na Semana da Mulher"
+title: Rocky Mountain Games 'pinta' a Pedra Grande de Rosa na Semana da Mulher
 date: 2024-03-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior festival de esportes outdoor e cultura de montanha do Brasil prossegue neste domingo (10), com provas de Mountain Bike, Gravel e Uphill.
 

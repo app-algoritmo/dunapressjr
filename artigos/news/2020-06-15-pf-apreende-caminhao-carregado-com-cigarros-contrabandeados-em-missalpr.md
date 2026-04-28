@@ -1,11 +1,12 @@
 ---
-title: "PF apreende caminhão carregado com cigarros contrabandeados em Missal/PR"
+title: PF apreende caminhão carregado com cigarros contrabandeados em Missal/PR
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR – Nesta segunda-feira (15/6), no âmbito da Operação Hórus e Programa VIGIA, em patrulhamento terrestre na região do Lago de Itaipu, próximo a Base Náutica da cidade Missal/PR, equipe composta por policiais federais e integrantes da Força Nacional de Segurança Pública visualizou um caminhão em atitude suspeita.
 

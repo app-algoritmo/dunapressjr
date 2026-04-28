@@ -1,11 +1,13 @@
 ---
-title: "Duma do Estado propõe legislação para proibir oficialmente os procedimentos de alteração de gênero na Rússia"
+title: Duma do Estado propõe legislação para proibir oficialmente os procedimentos
+  de alteração de gênero na Rússia
 date: 2023-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os legisladores russos estão propondo um novo projeto de lei que proibiria oficialmente os médicos de realizar cirurgias que alterassem as características [de gênero primárias ou mesmo secundárias das pessoas](https://www.zerohedge.com/political/proposed-legislation-would-ban-gender-surgery-across-russia) .
 

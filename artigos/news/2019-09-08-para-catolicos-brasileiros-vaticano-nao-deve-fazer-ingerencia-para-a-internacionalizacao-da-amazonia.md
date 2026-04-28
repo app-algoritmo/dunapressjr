@@ -1,11 +1,13 @@
 ---
-title: "Para católicos brasileiros, Vaticano não deve fazer ingerência para a internacionalização da Amazônia"
+title: Para católicos brasileiros, Vaticano não deve fazer ingerência para a internacionalização
+  da Amazônia
 date: 2019-09-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A agenda da ONU e a influência no Sínodo da Amazônia, com o Corredor Triplo A, que visa a internacionalização da Amazônia.
 

@@ -1,11 +1,12 @@
 ---
-title: "O que é correto: Hanukkah ou Chanukah?"
+title: 'O que é correto: Hanukkah ou Chanukah?'
 date: 2022-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 O Festival das Luzes Judaico é uma celebração de oito dias que comemora a rededicação do Segundo Templo de Jerusalém . É um dos feriados mais populares do judaísmo e é marcado pela iluminação da menorá. Para muitos falantes de inglês, o festival também é conhecido pela confusão sobre a grafia de seu nome: é *Hanukkah* ou *Chanucá* ? **A resposta é que ambos são considerados corretos, embora *Hanukkah* seja a grafia mais amplamente usada, enquanto *Chanuká* é mais tradicional. Além disso, mais de 20 outras variações são registradas. **Por que tantas grafias? Transliteração.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda defende abertura da 'caixa-preta' das renúncias fiscais e a reforma tributária para reduzir o déficit das contas públicas"
+title: Ministro da Fazenda defende abertura da 'caixa-preta' das renúncias fiscais
+  e a reforma tributária para reduzir o déficit das contas públicas
 date: 2023-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É preciso saber para onde vão os recursos públicos, diz ministro.
 

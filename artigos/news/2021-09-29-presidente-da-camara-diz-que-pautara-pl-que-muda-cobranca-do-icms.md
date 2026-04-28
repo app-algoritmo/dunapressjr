@@ -1,11 +1,12 @@
 ---
-title: "Presidente da Câmara diz que pautará PL que muda cobrança do ICMS"
+title: Presidente da Câmara diz que pautará PL que muda cobrança do ICMS
 date: 2021-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Arthur Lira fez declaração em evento com presidente Jair Bolsonaro.
 

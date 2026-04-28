@@ -1,12 +1,13 @@
 ---
-title: "O Destino das Terras Altas - Trilogia"
+title: O Destino das Terras Altas - Trilogia
 date: 2022-10-06
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 Imagem - Em cada Página
 

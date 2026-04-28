@@ -1,11 +1,12 @@
 ---
-title: "Bariátrica pode reduzir risco de câncer de mama em mulheres obesas"
+title: Bariátrica pode reduzir risco de câncer de mama em mulheres obesas
 date: 2023-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A obesidade é fator agravante para muitas doenças e o câncer não é exceção. Uma pesquisa realizada com 69 mil mulheres canadenses e publicada na *JAMA Surgery* indica que o risco de incidência do câncer de mama em mulheres obesas é 42% maior em comparação com pacientes que eram obesas, mas que haviam passado por cirurgia bariátrica.
 

@@ -1,11 +1,13 @@
 ---
-title: "Novo Normal Paraíba: Primeira avaliação de 2021 aponta redução de municípios nas bandeiras vermelha e laranja"
+title: 'Novo Normal Paraíba: Primeira avaliação de 2021 aponta redução de municípios
+  nas bandeiras vermelha e laranja'
 date: 2021-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Seis municípios transitaram da bandeira vermelha para a bandeira laranja.
 

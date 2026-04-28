@@ -1,11 +1,13 @@
 ---
-title: "Consulta ao sistema de valores a receber se encontra disponível a partir desta segunda-feira"
+title: Consulta ao sistema de valores a receber se encontra disponível a partir desta
+  segunda-feira
 date: 2022-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## BC disponibilizou site exclusivo após instabilidade no acesso.
 

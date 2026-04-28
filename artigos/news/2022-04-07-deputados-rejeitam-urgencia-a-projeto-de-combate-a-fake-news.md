@@ -1,11 +1,12 @@
 ---
-title: "Deputados rejeitam urgência a projeto de combate a fake news"
+title: Deputados rejeitam urgência a projeto de combate a fake news
 date: 2022-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar da maioria de votos favoráveis, 249 a 207, eram necessários 257 votos para aprovação.
 

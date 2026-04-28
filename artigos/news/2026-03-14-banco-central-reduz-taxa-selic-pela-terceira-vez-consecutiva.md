@@ -1,11 +1,12 @@
 ---
-title: "Banco central reduz taxa selic pela terceira vez consecutiva"
+title: Banco central reduz taxa selic pela terceira vez consecutiva
 date: 2026-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda foi de 0,5 ponto e era esperada pelo mercado financeiro.
 

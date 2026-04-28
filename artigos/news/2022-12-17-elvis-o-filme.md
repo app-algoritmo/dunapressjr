@@ -1,12 +1,13 @@
 ---
-title: "Elvis, O Filme"
+title: Elvis, O Filme
 date: 2022-12-17
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

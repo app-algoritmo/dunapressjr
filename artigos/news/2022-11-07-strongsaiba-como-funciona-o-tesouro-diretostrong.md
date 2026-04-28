@@ -1,11 +1,12 @@
 ---
-title: "<strong>Saiba como funciona o Tesouro Direto</strong>"
+title: <strong>Saiba como funciona o Tesouro Direto</strong>
 date: 2022-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Programa permite compra de títulos públicos por pessoas físicas.
 

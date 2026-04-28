@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem retirada líquida de R$ 12,66 bilhões em julho"
+title: Poupança tem retirada líquida de R$ 12,66 bilhões em julho
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Volume de saques é o maior registrado para o mês.
 

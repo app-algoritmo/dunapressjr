@@ -1,11 +1,12 @@
 ---
-title: "Dia da Bandeira é celebrado em todo o país"
+title: Dia da Bandeira é celebrado em todo o país
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Pavilhão Nacional foi reverenciado, neste 19 de novembro, em organizações militares espalhadas por todo o País. Atos solenes marcaram as celebrações do Dia da Bandeira. A cerimônia no Quartel-General do Exército, em Brasília, foi realizada no Pátio das Batalhas. Seguindo a tradição dessa data, houve o hasteamento pontualmente ao meio dia. E enquanto a tropa entoava o Hino à Bandeira, o Subtenente Jeferson Batista Vagheti Borges, praça mais antigo presente na solenidade, realizou a incineração de bandeiras consideradas inadequadas ao uso, em virtude do estado de conservação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Crise nas Infinitas Terras: Um gigante com Pés de Barro"
+title: 'Crise nas Infinitas Terras: Um gigante com Pés de Barro'
 date: 2020-01-23
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Com roteiro de Marv Wolfman e com os belos desenhos de George Pérez a necessária e maravilhosa saga *Crise nas Infinitas Terras *reuniu os maiores heróis da editora *DC Comics: Super-homem, Mulher-maravilha, Lanterna Verde, Batman e Flash. *A cronologia da famosa editora estava confusa demais, o que começava a afetar as vendas das revistas. Muitos heróis surgidos nos anos 30, como por exemplo, SuperHomem em 18 de abril de 1938 e Batman na revista Detective Comics em 1939 , ao longo dos anos haviam tido suas origens recontadas, o que demandou uma  urgência em recriar o legado criativo de décadas numa única cronologia coesa. 
 

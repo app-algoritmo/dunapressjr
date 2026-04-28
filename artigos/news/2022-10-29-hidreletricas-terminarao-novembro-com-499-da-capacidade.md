@@ -1,11 +1,12 @@
 ---
-title: "Hidrelétricas terminarão novembro com 49,9% da capacidade"
+title: Hidrelétricas terminarão novembro com 49,9% da capacidade
 date: 2022-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa significa alta de 30 pontos percentuais em relação a 2021.
 

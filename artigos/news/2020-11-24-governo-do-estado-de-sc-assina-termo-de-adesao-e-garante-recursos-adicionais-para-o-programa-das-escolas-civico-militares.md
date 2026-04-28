@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado de SC assina termo de adesão e garante recursos adicionais para o Programa das Escolas Cívico-Militares"
+title: Governo do Estado de SC assina termo de adesão e garante recursos adicionais
+  para o Programa das Escolas Cívico-Militares
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Escola de Educação Básica Irene Stonoga, de Chapecó, receberá recursos adicionais do Governo Federal para adequar a unidade ao modelo das unidades cívico-militares. Com esse acréscimo, o investimento federal na escola será de R$ 652 mil, com recursos repassados pelo Plano de Ações Articuladas (PAR), a partir do Fundo Nacional de Desenvolvimento da Educação (FNDE).
 

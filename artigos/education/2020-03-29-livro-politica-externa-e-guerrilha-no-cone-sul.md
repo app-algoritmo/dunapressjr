@@ -1,11 +1,12 @@
 ---
-title: "Livro “Política externa e guerrilha no Cone Sul”"
+title: Livro “Política externa e guerrilha no Cone Sul”
 date: 2020-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A Fundação Alexandre de Gusmão (FUNAG) publica o livro “Política externa e guerrilha no Cone Sul: o ‘Plano Satã’ e o sequestro do diplomata brasileiro Aloysio Mares Dias Gomide”, do conselheiro Fabio Rocha Frederico.
 

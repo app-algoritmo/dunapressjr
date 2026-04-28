@@ -1,11 +1,13 @@
 ---
-title: "Laboratório do Instituto Militar de Engenharia pesquisa potenciais fármacos para combate à COVID-19"
+title: Laboratório do Instituto Militar de Engenharia pesquisa potenciais fármacos
+  para combate à COVID-19
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Rio de Janeiro (RJ) **– O Laboratório de Modelagem Molecular Aplicada à Defesa Química e Biológica (LMDQB), da Seção de Engenharia Química do IME, vem realizando pesquisas com o objetivo de propor potenciais fármacos capazes de combater o vírus SARS-CoV-2, causador da COVID-19, em parceria com o Laboratório de Síntese Orgânica (LSO), do Instituto de Defesa Química, Biológica, Radiológica e Nuclear do Exército (IDQBRN).
 

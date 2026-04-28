@@ -1,11 +1,12 @@
 ---
-title: "'A Guerra dos Chips': O Ocidente x China"
+title: '''A Guerra dos Chips'': O Ocidente x China'
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *
 Desde que o governo Biden, também conhecido como Globalistas, chegou ao poder em Washington, a China tem sido bombardeada com ameaças e sanções, principalmente tentativas de “estrangular” a produção de chips e interromper a cadeia de suprimentos de eletrônicos, principalmente semicondutores.*

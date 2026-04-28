@@ -1,11 +1,13 @@
 ---
-title: "Governo Brasileiro Repudia Declaração de 'Persona Non Grata' de Israel Contra Lula por Comentários sobre Conflito em Gaza"
+title: Governo Brasileiro Repudia Declaração de 'Persona Non Grata' de Israel Contra
+  Lula por Comentários sobre Conflito em Gaza
 date: 2024-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Governo do Brasil expressou forte descontentamento em relação à decisão de Israel de declarar o presidente Luiz Inácio Lula da Silva como "persona non grata" devido aos seus comentários sobre o conflito na Faixa de Gaza. O assessor especial para assuntos internacionais da presidência brasileira classificou a declaração como "absurda" e reafirmou o compromisso do Brasil com a busca de uma solução pacífica para o conflito entre Israel e Palestina.
 

@@ -1,11 +1,12 @@
 ---
-title: "IPCA registra desaceleração em abril, porém acumula alta no ano"
+title: IPCA registra desaceleração em abril, porém acumula alta no ano
 date: 2023-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saúde, alimentação e transportes são os grupos que mais impactaram a variação do índice.
 

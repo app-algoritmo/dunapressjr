@@ -1,11 +1,12 @@
 ---
-title: "Segurança no trânsito: confira dicas para dirigir em condições adversas"
+title: 'Segurança no trânsito: confira dicas para dirigir em condições adversas'
 date: 2023-08-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O meio do ano e a época das férias escolares aumentam consideravelmente o número de veículos nas estradas e, por consequência, o risco de acidentes. A Arteris, especialista em gestão de rodovias nas regiões Sudeste e Sul, revelou que houve um aumento de 15% no tráfego de veículos nas vias apenas em 2023. As concessionárias também atendem uma média de 1.800 ocorrências em um único dia. Para contornar esse cenário, a empresa realiza campanhas de conscientização dos motoristas sobre direção defensiva, garantindo assim mais segurança aos condutores e redução de acidentes. Já a CCR Rodovias criou uma outra iniciativa neste ano em prol de um trânsito mais seguro: o Movimento Afaste-se. Entre as ações, foram colocados mais de 90 painéis ao longo das rodovias com orientações como "Ao observar viatura em atendimento, mude de faixa" e "Ao observar viatura em atendimento, reduza a velocidade".Para ajudar os motoristas brasileiros que vão viajar no meio do ano, a plataforma de mobilidade urbana V1 listou algumas dicas que podem ajudar a evitar acidentes em pistas molhadas, trechos com baixa visibilidade, estradas sinuosas, pisos diferentes como terra ou paralelepípedo, além de uma checklist com recomendações para manter o veículo em bom estado de conservação.**O que o condutor deve fazer em situações adversas? **
 

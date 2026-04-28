@@ -1,12 +1,13 @@
 ---
-title: "Novo Código Civil propõe reconhecer os animais como seres sencientes de direito"
+title: Novo Código Civil propõe reconhecer os animais como seres sencientes de direito
 date: 2024-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Na discussão sobre a adequação do Código Civil brasileiro ao século 21, o direito animal pode ser considerado um dos temas de maior avanço jurídico. A proposta, encampada é de que os animais sejam tratados como sujeitos de direito e não mais na condição de coisas ou bens semoventes.
 Defende que os animais sejam tratados como seres sencientes, que detêm capacidade de sofrer e de experimentar conscientemente o mundo a sua volta.

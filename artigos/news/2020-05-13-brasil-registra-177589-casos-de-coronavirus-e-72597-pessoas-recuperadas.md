@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 177.589 casos de coronavírus e 72.597 pessoas recuperadas"
+title: Brasil registra 177.589 casos de coronavírus e 72.597 pessoas recuperadas
 date: 2020-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os dados foram atualizados até as 19h desta terça-feira (12/5) com informações repassadas pelas Secretarias Estaduais de Saúde.
 

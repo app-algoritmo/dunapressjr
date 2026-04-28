@@ -1,12 +1,13 @@
 ---
-title: "OVNI é coisa do passado, agora o nome é FANI"
+title: OVNI é coisa do passado, agora o nome é FANI
 date: 2023-01-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 ## Os avistamentos não devem mais ser tratados como OVNI, mas sim FANI. Portanto, passa a ser "Fenômenos Atmosféricos Não Identificados".
 

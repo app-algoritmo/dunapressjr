@@ -1,11 +1,12 @@
 ---
-title: "A famigerada Noite dos Cristais"
+title: A famigerada Noite dos Cristais
 date: 2019-11-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A Noite dos Cristais  foi um “marco” na história da Alemanha Nazista, alcançando um grau de violência inédito. O nome deve-se à fenomenal quantidade de vidros quebrados espalhados pelas ruas ao longo desta noite infame. Mais de 30.000 Judeus foram levados a Campos de Concentração apenas nesta noite, e aproximadamente 16.000 levados para a fronteira com a Polônia, que não os aceitou, deixando-os por quase uma semana sem alimentação, sendo devolvidos à Alemanha, em um vai e vem penoso e humilhante. 
 

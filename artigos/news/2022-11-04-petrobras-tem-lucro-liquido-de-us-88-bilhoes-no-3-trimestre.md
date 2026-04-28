@@ -1,11 +1,12 @@
 ---
-title: "Petrobras tem lucro líquido de US$ 8,8 bilhões no 3º trimestre"
+title: Petrobras tem lucro líquido de US$ 8,8 bilhões no 3º trimestre
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 É o maior resultado trimestral na história da companhia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Em Nuremberg e em Nova York pós-Segunda Guerra Mundial, o futuro de Purim estava em jogo"
+title: Em Nuremberg e em Nova York pós-Segunda Guerra Mundial, o futuro de Purim estava
+  em jogo
 date: 2021-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Na forca em 16 de outubro de 1946, o enforcamento do editor de “Der Stürmer” Julius Streicher não saiu como planejado.
 

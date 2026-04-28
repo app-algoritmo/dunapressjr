@@ -1,11 +1,12 @@
 ---
-title: "STF forma maioria para derrubar indulto de Daniel Silveira"
+title: STF forma maioria para derrubar indulto de Daniel Silveira
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Perdão da pena foi concedido pelo ex-presidente Bolsonaro.
 

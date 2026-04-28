@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-Ministro do Iraque Anuncia Próximo Capítulo após Saída da Coalizão Internacional"
+title: Primeiro-Ministro do Iraque Anuncia Próximo Capítulo após Saída da Coalizão
+  Internacional
 date: 2024-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O primeiro-ministro iraquiano, Muhammed Shia Al-Sudani, declarou que a presença da coalizão internacional liderada pelos EUA está chegando ao seu término no país árabe. Durante uma visita à linha iraquiana de Wadi al-Tharthar, uma região que já foi alvo de operações terroristas, Sudani reiterou a iminência do fim da missão da coalizão.
 

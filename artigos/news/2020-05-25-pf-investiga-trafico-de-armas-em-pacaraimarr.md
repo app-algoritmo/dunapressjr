@@ -1,11 +1,12 @@
 ---
-title: "PF investiga tráfico de armas em Pacaraima/RR"
+title: PF investiga tráfico de armas em Pacaraima/RR
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR – A Polícia Federal cumpriu um mandado de busca e apreensão nesta segunda-feira, 25/5, com o objetivo de investigar o tráfico de armas no município de Pacaraima/RR, fronteira com a Venezuela.
 

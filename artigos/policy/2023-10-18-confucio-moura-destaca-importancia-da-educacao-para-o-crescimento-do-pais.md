@@ -1,11 +1,12 @@
 ---
-title: "Confúcio Moura destaca importância da educação para o crescimento do país"
+title: Confúcio Moura destaca importância da educação para o crescimento do país
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO) destacou, em pronunciamento no Plenário nesta segunda-feira (16), a importância do investimento na área da educação para o crescimento do país. Segundo ele, é necessário adotar estratégias que promovam o desenvolvimento das pessoas, incluindo pesquisa, inovação, produtividade e empreendedorismo.
 

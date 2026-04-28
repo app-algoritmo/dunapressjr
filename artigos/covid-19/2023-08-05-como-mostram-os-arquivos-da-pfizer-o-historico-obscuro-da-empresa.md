@@ -1,11 +1,12 @@
 ---
-title: "Como mostram os arquivos da Pfizer, o histórico obscuro da empresa"
+title: Como mostram os arquivos da Pfizer, o histórico obscuro da empresa
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Muito antes das "vacinas" da Operação Warp Speed ​​serem lançadas, a gigante farmacêutica Pfizer cometeu genocídio em massa de fato por meio de crimes relacionados a drogas, incluindo práticas de marketing ilegais e corruptas, suborno de médicos e supressão de resultados negativos de testes, para citar alguns.
 

@@ -1,11 +1,12 @@
 ---
-title: "Balança tem superávit de US$ 31,76 bilhões no ano, com alta de 59,3%"
+title: Balança tem superávit de US$ 31,76 bilhões no ano, com alta de 59,3%
 date: 2021-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio sobe 30,4% e chega a US$ 208,86 bilhões, com US$ 120,31 bilhões em exportações e US$ 88,55 bilhões em importações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa mostra que vírus da zika reduz tumores no cérebro de cachorros"
+title: Pesquisa mostra que vírus da zika reduz tumores no cérebro de cachorros
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Um estudo divulgado por pesquisadores da Universidade de São Paulo e que contou com a participação do virologista do Instituto Butantan Renato Astray, demonstrou que o zika vírus é capaz de combater um tipo de câncer cerebral em cachorros, que é muito semelhante ao que acomete seres humanos.
 

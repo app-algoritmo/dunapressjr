@@ -1,11 +1,12 @@
 ---
-title: "Reaquecer alimentos pode causar danos à saúde"
+title: Reaquecer alimentos pode causar danos à saúde
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Não é todo mundo que tem tempo para cozinhar todos os dias, muito menos em cada uma das refeições. Uma pesquisa realizada em 2021 pela MindMiners em todas as regiões do Brasil revelou que apenas 41% dos entrevistados têm o hábito de cozinhar em casa diariamente. Ou seja, a maioria da população consome alimentos requentados ao longo do dia.
 

@@ -1,12 +1,14 @@
 ---
-title: "Estudo mostra que pessoas que têm animais de estimação são mais felizes, mais caridosas e fazem mais exercício"
+title: Estudo mostra que pessoas que têm animais de estimação são mais felizes, mais
+  caridosas e fazem mais exercício
 date: 2022-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Um novo estudo com donos de animais com mais de 55 anos tendem a ser mais felizes, mais bem sucedidos, caridosos e se exercitam mais, do que aqueles que não tem. Segundo especialistas esses elos produzem substâncias “boas” para o cérebro.
 

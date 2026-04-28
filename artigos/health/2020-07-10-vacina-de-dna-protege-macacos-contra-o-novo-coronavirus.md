@@ -1,11 +1,12 @@
 ---
-title: "Vacina de DNA protege macacos contra o novo coronavírus"
+title: Vacina de DNA protege macacos contra o novo coronavírus
 date: 2020-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A pandemia da COVID-19 tornou a criação de uma vacina contra o novo coronavírus (SARS-CoV-2) prioridade global. Com o avanço de estudos sobre o SARS-CoV-2, novos modelos de vacina já estão em fase de ensaios pré-clínicos. Em outras palavras, estão sendo testadas em cobaias antes de serem liberadas para uso em seres humanos. Pesquisadores de Universidades dos Estados Unidos publicaram recentemente um estudo sobre testes de vacinas de DNA em macacos-rhesus, parentes próximos dos seres humanos.
 

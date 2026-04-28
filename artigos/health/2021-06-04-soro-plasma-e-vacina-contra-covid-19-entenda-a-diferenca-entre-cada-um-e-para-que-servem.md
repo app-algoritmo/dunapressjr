@@ -1,11 +1,13 @@
 ---
-title: "Soro, plasma e vacina contra Covid-19: entenda a diferença entre cada um e para que servem"
+title: 'Soro, plasma e vacina contra Covid-19: entenda a diferença entre cada um e
+  para que servem'
 date: 2021-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O corpo humano está sempre sujeito a invasões de micro-organismos e, para se defender, dispõe de um sistema imunológico para eliminar os invasores. O soro contra a Covid-19, o plasma convalescente e a vacina são formas de proteção contra a doença no organismo. Porém, eles têm funções diferentes e agem de maneiras distintas. O objetivo principal dos três é minimizar os danos que um agente estranho, neste caso o novo coronavírus, possa causar ao corpo. 
 

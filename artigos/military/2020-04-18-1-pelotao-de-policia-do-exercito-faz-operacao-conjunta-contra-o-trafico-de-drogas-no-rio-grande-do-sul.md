@@ -1,11 +1,13 @@
 ---
-title: "1º Pelotão de Polícia do Exército faz operação conjunta contra o tráfico de drogas no Rio Grande do Sul"
+title: 1º Pelotão de Polícia do Exército faz operação conjunta contra o tráfico de
+  drogas no Rio Grande do Sul
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Santiago (RS) **– No dia 15 de abril, a Seção de Cães de Guerra do 1º Pelotão de Polícia do Exército, da 1ª Brigada de Cavalaria Mecanizada, foi empregada em apoio aos órgãos de segurança pública (Polícia Civil, Polícia Rodoviária Federal e Brigada Militar), em uma operação conjunta contra o tráfico de drogas em Santiago.
 

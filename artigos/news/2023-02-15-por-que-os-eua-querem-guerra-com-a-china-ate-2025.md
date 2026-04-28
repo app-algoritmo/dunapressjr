@@ -1,11 +1,12 @@
 ---
-title: "Por que os EUA querem guerra com a China até 2025?"
+title: Por que os EUA querem guerra com a China até 2025?
 date: 2023-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os rumores de uma guerra dos EUA com a China têm se acumulado nas últimas semanas. Não por uma provocação real de Pequim, mas por uma resignação coletiva à suposta inevitabilidade de tal coisa.
 

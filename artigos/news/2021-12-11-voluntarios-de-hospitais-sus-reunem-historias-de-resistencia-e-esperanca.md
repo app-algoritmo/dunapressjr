@@ -1,11 +1,12 @@
 ---
-title: "Voluntários de hospitais SUS reúnem histórias de resistência e esperança"
+title: Voluntários de hospitais SUS reúnem histórias de resistência e esperança
 date: 2021-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Ser voluntário é doar sem olhar a quem.” A frase de Nilza Brenny revela bem o sentimento de pessoas que decidem dedicar um pouco do seu tempo para transformar a vida dos outros. E essa é a essência do trabalho voluntário que ela começou há 15 anos no Hospital Universitário Cajuru (HUC), de atendimento 100% SUS, em Curitiba (PR). “A cada dia que passa, tenho mais certeza da importância de ter essas pessoas dentro de um hospital. Elas fazem a diferença com uma simples história, uma música ou um ombro amigo. A presença delas revigora, desperta o riso e traz esperança diante de momentos difíceis”, declara a coordenadora da pastoral e do voluntariado dos hospitais Universitário Cajuru e Marcelino Champagnat.
 

@@ -1,11 +1,12 @@
 ---
-title: "Convite para simpósio gratuito sobre gestão da terra para o futuro"
+title: Convite para simpósio gratuito sobre gestão da terra para o futuro
 date: 2019-09-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A Academia Norueguesa de Ciências (DNVA), em colaboração com o Ministério da Agricultura e Alimentação, convida a todos para um seminário em 23 de setembro sobre o futuro gerenciamento da terra na Noruega. 
 

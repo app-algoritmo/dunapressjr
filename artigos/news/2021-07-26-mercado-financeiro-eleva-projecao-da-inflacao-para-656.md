@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação para 6,56%"
+title: Mercado financeiro eleva projeção da inflação para 6,56%
 date: 2021-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para expansão do PIB subiu para 5,29% em 2021.
 

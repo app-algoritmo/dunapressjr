@@ -1,11 +1,13 @@
 ---
-title: "Parentes alemães de príncipe Philip vão ao funeral, apesar do passado nazista da família"
+title: Parentes alemães de príncipe Philip vão ao funeral, apesar do passado nazista
+  da família
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Enquanto sua mãe salvava uma família judia, todas as quatro irmãs se casaram com aristocratas alemães ligados ao partido de Hitler; irmã Sophie conheceu, ficou "impressionada com o charmoso" Hitler no início dos anos 1930.
 

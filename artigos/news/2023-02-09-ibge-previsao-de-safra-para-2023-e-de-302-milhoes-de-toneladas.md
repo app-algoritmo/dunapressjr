@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Previsão de safra para 2023 é de 302 milhões de toneladas"
+title: 'IBGE: Previsão de safra para 2023 é de 302 milhões de toneladas'
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com a previsão produções de soja e milho devem alcançar números recordes.
 

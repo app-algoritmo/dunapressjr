@@ -1,11 +1,12 @@
 ---
-title: "Onda de Leis Anti-Imigração nos EUA: Replicando o Modelo do Texas"
+title: 'Onda de Leis Anti-Imigração nos EUA: Replicando o Modelo do Texas'
 date: 2024-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente promulgação da Ley contra la inmigración ilegal de Texas (SB-4) desencadeou um movimento significativo entre os estados republicanos dos Estados Unidos, que agora estão buscando replicar esse modelo legislativo. Considerada uma das medidas mais drásticas na história do país desde a SB-1070 do Arizona em 2010, a SB-4 tem inspirado outras jurisdições republicanas devido aos supostos resultados positivos observados nos últimos dias.
 

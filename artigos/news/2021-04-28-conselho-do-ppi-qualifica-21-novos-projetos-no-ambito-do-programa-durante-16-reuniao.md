@@ -1,11 +1,13 @@
 ---
-title: "Conselho do PPI qualifica 21 novos projetos no âmbito do Programa durante 16ª Reunião"
+title: Conselho do PPI qualifica 21 novos projetos no âmbito do Programa durante 16ª
+  Reunião
 date: 2021-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projetos qualificados terão prioridade nacional perante todos os agentes públicos, nas esferas administrativa e de controle da União, estados, Distrito Federal e municípios para a atração de investimentos privados.
 

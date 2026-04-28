@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que proíbe conteúdo erótico em material escolar"
+title: Comissão aprova projeto que proíbe conteúdo erótico em material escolar
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou proposta segundo a qual os materiais escolares destinados ao público infantojuvenil não poderão conter imagens, ilustrações, sinais ou textos de caráter erótico, pornográfico, obsceno ou que estimulem a violência. O texto inclui dispositivos no [Estatuto da Criança e do Adolescente (ECA)](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8069-13-julho-1990-372211-norma-pl.html).
 

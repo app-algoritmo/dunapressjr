@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa em Minas Gerais"
+title: PF combate crime de moeda falsa em Minas Gerais
 date: 2020-04-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG - Na terça-feira (28/4), a Polícia Federal prendeu em flagrante um homem, de 32 anos, na posse de R$ 1 mil em moeda falsa. O homem, que se declarou corretor de imóveis e motorista de aplicativo, foi preso na casa do irmão no Vale do Jatobá. Ele havia recebido, pelos correios, um envelope contendo 10 cédulas de R$ 50 e 5 cédulas de R$ 100, sendo todas elas falsas.
 

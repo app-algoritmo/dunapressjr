@@ -1,11 +1,13 @@
 ---
-title: "Bandeira tarifária de energia elétrica permanece verde para consumidores em abril"
+title: Bandeira tarifária de energia elétrica permanece verde para consumidores em
+  abril
 date: 2020-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Este será o terceiro mês consecutivo de bandeira verde
 

@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego da FGV sobe 1 ponto"
+title: Indicador Antecedente de Emprego da FGV sobe 1 ponto
 date: 2022-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ele atingiu 81,9 pontos, maior nível desde novembro (83 pontos).
 

@@ -1,11 +1,12 @@
 ---
-title: "Metade dos americanos diz que estão em situação pior na era Biden"
+title: Metade dos americanos diz que estão em situação pior na era Biden
 date: 2023-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A empresa Gallop relata que os americanos acreditam que estão muito pior sob o comando de Biden. Esses resultados são os piores desde a Grande Recessão. 
 

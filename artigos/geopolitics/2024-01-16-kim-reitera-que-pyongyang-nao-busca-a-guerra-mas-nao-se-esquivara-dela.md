@@ -1,11 +1,12 @@
 ---
-title: "Kim reitera que Pyongyang não busca a guerra, mas não se esquivará dela"
+title: Kim reitera que Pyongyang não busca a guerra, mas não se esquivará dela
 date: 2024-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## “A guerra destruirá terrivelmente a entidade chamada República da Coreia e porá fim à sua existência”, disse Kim Jong Un.
 

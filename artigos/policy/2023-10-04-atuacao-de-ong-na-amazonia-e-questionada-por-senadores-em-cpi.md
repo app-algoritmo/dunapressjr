@@ -1,11 +1,12 @@
 ---
-title: "Atuação de ONG na Amazônia é questionada por senadores em CPI"
+title: Atuação de ONG na Amazônia é questionada por senadores em CPI
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs recebeu nesta terça-feira (3) o diretor do Instituto de Pesquisas Ecológicas (IPE), Eduardo Ditt. A reunião foi marcada por fortes divergências sobre os rumos que a região amazônica deve tomar visando a melhoria de seus indicadores socioeconômicos. Também houve discordâncias quanto ao papel cumprido pelo IPE na localidade e aos seus posicionamentos em relação a financiadores externos.
 

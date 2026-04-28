@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova MP que ajusta regras de cobrança de PIS e Cofins sobre etanol"
+title: Câmara aprova MP que ajusta regras de cobrança de PIS e Cofins sobre etanol
 date: 2022-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (1º) a Medida Provisória 1100/22, que reformula a tributação de PIS e Cofins sobre álcool combustível vendido por cooperativas diretamente ao setor varejista. A MP será enviada ao Senado.
 

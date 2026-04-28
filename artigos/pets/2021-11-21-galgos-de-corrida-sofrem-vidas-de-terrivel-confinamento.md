@@ -1,11 +1,12 @@
 ---
-title: "Galgos de corrida sofrem vidas de terrível confinamento"
+title: Galgos de corrida sofrem vidas de terrível confinamento
 date: 2021-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## “Os cães tornaram-se uma mercadoria. Eles passam a maior parte do tempo confinados, além de um pouco de exercício ... é uma vida miserável. ”
 

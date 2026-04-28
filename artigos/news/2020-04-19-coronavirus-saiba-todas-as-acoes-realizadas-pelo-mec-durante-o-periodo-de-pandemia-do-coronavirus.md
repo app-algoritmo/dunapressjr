@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Saiba todas as ações realizadas pelo MEC durante o período de pandemia do coronavírus"
+title: 'Coronavírus: Saiba todas as ações realizadas pelo MEC durante o período de
+  pandemia do coronavírus'
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Acompanhe o portal do Ministério da Educação (MEC) para ficar por dentro de todas as ações realizadas durante o período de pandemia do coronavírus.
 

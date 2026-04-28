@@ -1,11 +1,13 @@
 ---
-title: "Vereadores convidam prefeito para esclarecer rejeição da prorrogação de contrato com APM Terminals"
+title: Vereadores convidam prefeito para esclarecer rejeição da prorrogação de contrato
+  com APM Terminals
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os vereadores da oposição decidiram convocar o prefeito de Itajaí, Volnei Morastoni, para prestar esclarecimentos na Câmara de Vereadores sobre os motivos que o levaram a não querer a prorrogação do contrato entre o Porto e a APM Terminals.
 Isso ocorrendo, a economia da cidade poderá entrar em colapso, gerando desemprego e fome.

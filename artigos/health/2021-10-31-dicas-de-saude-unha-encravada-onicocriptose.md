@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Unha encravada (onicocriptose)"
+title: 'Dicas de Saúde: Unha encravada (onicocriptose)'
 date: 2021-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O termo “onicocriptose”, nome científico da unha encravada, tem origem grega e significa unha escondida. A unha encrava quando uma das suas bordas, ao crescer, penetra na pele em volta dela. Ocorre comumente no primeiro dedo do pé, conhecido como dedão. O problema acontece pelo aumento na pressão sobre a unha.
 

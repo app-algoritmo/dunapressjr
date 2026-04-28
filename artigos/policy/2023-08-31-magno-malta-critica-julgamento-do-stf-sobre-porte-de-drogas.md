@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta critica julgamento do STF sobre porte de drogas"
+title: Magno Malta critica julgamento do STF sobre porte de drogas
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta criticou, em pronunciamento no Plenário nesta terça-feira (29), os votos favoráveis de cinco ministros do Supremo Tribunal Federal (STF) a favor da  descriminalização do porte da maconha. O placar da ação está 5 a 1 pela descriminalização, mas o julgamento foi suspenso após pedido de vista. Para o senador, uma decisão pela descriminalização iria contra o que pensa a população brasileira e, além disso, poderia gerar consequências “patéticas” para o país.
 

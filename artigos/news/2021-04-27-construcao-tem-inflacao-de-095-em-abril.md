@@ -1,11 +1,12 @@
 ---
-title: "Construção tem inflação de 0,95% em abril"
+title: Construção tem inflação de 0,95% em abril
 date: 2021-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa da FGV foi feita em sete capitais.
 

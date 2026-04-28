@@ -1,11 +1,13 @@
 ---
-title: "Impactos e Controvérsias: A Proposta de Contrato LGTB para Pais Adotivos nos EUA"
+title: 'Impactos e Controvérsias: A Proposta de Contrato LGTB para Pais Adotivos nos
+  EUA'
 date: 2024-02-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A proposta do presidente Joe Biden de exigir que pais adotivos assinem contratos promovendo a ideologia LGTBI em seus filhos está gerando intensos debates sobre diversidade, liberdade religiosa e adoção nos Estados Unidos.
 

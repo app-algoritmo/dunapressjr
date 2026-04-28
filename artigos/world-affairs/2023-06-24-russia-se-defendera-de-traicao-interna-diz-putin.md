@@ -1,11 +1,12 @@
 ---
-title: "Rússia se defenderá de traição interna, diz Putin"
+title: Rússia se defenderá de traição interna, diz Putin
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Uma guerra civil não poderá se repetir no país, enfatizou o presidente russo.
 

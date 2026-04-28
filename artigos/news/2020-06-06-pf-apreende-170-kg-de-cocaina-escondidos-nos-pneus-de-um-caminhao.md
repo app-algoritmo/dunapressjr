@@ -1,11 +1,12 @@
 ---
-title: "PF apreende 170 kg de cocaína escondidos nos pneus de um caminhão"
+title: PF apreende 170 kg de cocaína escondidos nos pneus de um caminhão
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Passo Fundo/RS - A Polícia Federal apreendeu na sexta-feira (5/6) cerca de 170 kg de cocaína transportados nos pneus um caminhão. A ação teve o apoio da Polícia Rodoviária Federal.
 

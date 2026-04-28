@@ -1,11 +1,12 @@
 ---
-title: "Castrismo prepara intervenção extrema das redes sociais em Cuba"
+title: Castrismo prepara intervenção extrema das redes sociais em Cuba
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O regime cubano prepara uma intervenção extrema contra as redes sociais da ilha para “apoderar-se destas armas do inimigo, aprender a dominá-las e utilizá-las” a favor dos seus interesses ideológicos. A direção do Partido Comunista se encarregará de executar as estratégias que controlarão o conteúdo nas plataformas digitais no curto prazo.
 

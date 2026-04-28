@@ -1,11 +1,12 @@
 ---
-title: "Engenharia do consentimento - 01 - Conheça os poderes que nos dominam"
+title: Engenharia do consentimento - 01 - Conheça os poderes que nos dominam
 date: 2018-12-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Toda a informação que assimilamos fica armazenada no cortex, que é a interface com essa realidade, esse mundo.
 

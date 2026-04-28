@@ -1,11 +1,12 @@
 ---
-title: "O melhor amigo"
+title: O melhor amigo
 date: 2023-07-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sylvester Stallone e seu fiel amigo, BUTKUS, em 1975. 
 

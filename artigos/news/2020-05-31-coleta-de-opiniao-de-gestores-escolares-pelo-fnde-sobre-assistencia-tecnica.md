@@ -1,11 +1,12 @@
 ---
-title: "Coleta de opinião de gestores escolares pelo FNDE sobre assistência técnica"
+title: Coleta de opinião de gestores escolares pelo FNDE sobre assistência técnica
 date: 2020-05-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa vai levantar informações e subsidiar produção de eventos virtuais, materiais de apoio, vídeos, podcasts e cursos.
 

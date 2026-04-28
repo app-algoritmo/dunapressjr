@@ -1,11 +1,12 @@
 ---
-title: "Famílias de renda mais baixa sofrem maior impacto da inflação em maio"
+title: Famílias de renda mais baixa sofrem maior impacto da inflação em maio
 date: 2021-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É o que revela pesquisa feita pelo Ipea.
 

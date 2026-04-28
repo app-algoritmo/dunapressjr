@@ -1,11 +1,12 @@
 ---
-title: "Estudo de brasileira é publicado em jornal de repercussão mundial"
+title: Estudo de brasileira é publicado em jornal de repercussão mundial
 date: 2021-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Andréa Benedet, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), escreveu artigo sobre o processo de degeneração da doença de Alzheimer. O trabalho será publicado no Jornal BRAIN, um periódico de repercussão mundial, que divulga conteúdo sobre neurologia clínica e neurociência translacional, desde 1878.
 

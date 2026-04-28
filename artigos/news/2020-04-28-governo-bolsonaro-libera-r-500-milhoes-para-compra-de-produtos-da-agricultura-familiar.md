@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro libera R$ 500 milhões para compra de produtos da agricultura familiar"
+title: Governo Bolsonaro libera R$ 500 milhões para compra de produtos da agricultura
+  familiar
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal vai destinar R$ 500 milhões para a compra de produtos da agricultura familiar, por meio do Programa de Aquisição de Alimentos (PAA). A suplementação orçamentária foi articulada entre os ministérios da Agricultura, Pecuária e Abastecimento, da Economia e da Cidadania, que executa o PAA.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores identificam molécula de RNA não codificante em parasitas tripanossomas"
+title: Pesquisadores identificam molécula de RNA não codificante em parasitas tripanossomas
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A molécula recém-descoberta pode facilitar o desenvolvimento de medicamentos para tratar e prevenir a propagação de doenças como a doença do sono e a Rosa de Jericó.
 

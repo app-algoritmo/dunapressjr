@@ -1,11 +1,12 @@
 ---
-title: "O envio de mercenários do Ocidente para a Ucrânia provocará uma catástrofe"
+title: O envio de mercenários do Ocidente para a Ucrânia provocará uma catástrofe
 date: 2022-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **MOSCOU, RIA Novosti. **O envio de mercenários e aviões do Ocidente para a Ucrânia provocará um desenvolvimento catastrófico da situação não apenas lá, mas também nos países da Otan, disse a porta-voz do Ministério das Relações Exteriores da Rússia, Maria Zakharova.“Como mercenários, aviões bombardeiros e apoio ao fornecimento de armas para a Ucrânia podem melhorar a situação humanitária na Ucrânia?
 

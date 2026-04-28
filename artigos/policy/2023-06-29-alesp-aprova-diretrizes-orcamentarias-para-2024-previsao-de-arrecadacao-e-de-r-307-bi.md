@@ -1,11 +1,13 @@
 ---
-title: "Alesp aprova Diretrizes Orçamentárias para 2024; previsão de arrecadação é de R$ 307 bi"
+title: Alesp aprova Diretrizes Orçamentárias para 2024; previsão de arrecadação é
+  de R$ 307 bi
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## 243 emendas parlamentares foram incorporadas ao texto, na forma de 16 subemendas; proposta vai embasar Orçamento do próximo ano.
 

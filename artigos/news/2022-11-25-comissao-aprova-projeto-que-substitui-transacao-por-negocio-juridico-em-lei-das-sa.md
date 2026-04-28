@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que substitui ‘transação’ por ‘negócio jurídico’ em Lei das S/A"
+title: Comissão aprova projeto que substitui ‘transação’ por ‘negócio jurídico’ em
+  Lei das S/A
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### De acordo com o relator, o uso do termo na lei decorre de uma tradução literal do inglês.
 

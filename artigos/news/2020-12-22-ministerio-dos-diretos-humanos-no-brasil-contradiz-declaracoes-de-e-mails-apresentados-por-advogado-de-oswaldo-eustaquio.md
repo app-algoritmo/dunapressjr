@@ -1,11 +1,13 @@
 ---
-title: "Ministério dos Diretos Humanos no Brasil contradiz declarações de e-mails apresentados por advogado de Oswaldo Eustáquio"
+title: Ministério dos Diretos Humanos no Brasil contradiz declarações de e-mails apresentados
+  por advogado de Oswaldo Eustáquio
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O **Ministério da Mulher, da Família e dos Direitos Humanos** liderados pela Ministra Damares Alves, publicou uma nota sobre o caso do jornalista Oswaldo Eustáquio preso político acidentado durante custódia do Estado brasileiro.
 

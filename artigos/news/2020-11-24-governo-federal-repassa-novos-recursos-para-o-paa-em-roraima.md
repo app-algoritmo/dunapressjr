@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal repassa novos recursos para o PAA em Roraima"
+title: Governo Federal repassa novos recursos para o PAA em Roraima
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em Boa Vista (RR), mais de 1,2 mil agricultores familiares e 185 mil pessoas em situação de vulnerabilidade social serão atendidos pelo Programa de Aquisição de Alimentos (PAA). Nesta terça-feira (24), o ministro da Cidadania, Onyx Lorenzoni, fez a entrega de mais R$ 580 mil para o programa no estado, somando R$ 5,2 milhões em investimento.
 

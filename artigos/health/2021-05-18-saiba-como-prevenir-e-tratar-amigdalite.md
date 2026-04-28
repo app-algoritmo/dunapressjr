@@ -1,11 +1,12 @@
 ---
-title: "Saiba como prevenir e tratar Amigdalite"
+title: Saiba como prevenir e tratar Amigdalite
 date: 2021-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## * A doença pode aparecer em qualquer pessoa, porém é predominante em crianças.*
 

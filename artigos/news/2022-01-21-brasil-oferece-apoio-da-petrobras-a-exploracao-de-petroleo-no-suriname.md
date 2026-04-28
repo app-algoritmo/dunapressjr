@@ -1,11 +1,12 @@
 ---
-title: "Brasil oferece apoio da Petrobras à exploração de petróleo no Suriname"
+title: Brasil oferece apoio da Petrobras à exploração de petróleo no Suriname
 date: 2022-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente Jair Bolsonaro faz visita oficial ao país vizinho.
 

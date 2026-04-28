@@ -1,11 +1,12 @@
 ---
-title: "CNC projeta maior oferta de vagas temporárias desde o Natal de 2013"
+title: CNC projeta maior oferta de vagas temporárias desde o Natal de 2013
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa é que sejam contratados 109,4 mil trabalhadores.
 

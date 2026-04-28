@@ -1,11 +1,13 @@
 ---
-title: "Concentração e disparidades regionais marcam perfil das empresas exportadoras brasileiras, revela estudo"
+title: Concentração e disparidades regionais marcam perfil das empresas exportadoras
+  brasileiras, revela estudo
 date: 2023-06-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de exportação representa apenas 0,88% das empresas ativas no Brasil, mas contribui com 15% dos empregos formais do país.
 

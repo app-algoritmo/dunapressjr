@@ -1,11 +1,12 @@
 ---
-title: "Novo teste revoluciona diagnóstico da hanseníase"
+title: Novo teste revoluciona diagnóstico da hanseníase
 date: 2021-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Método inédito é totalmente nacional e foi criado por pesquisadores de São Paulo e do Paraná.
 

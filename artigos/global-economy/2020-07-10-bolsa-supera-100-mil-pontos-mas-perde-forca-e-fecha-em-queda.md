@@ -1,11 +1,12 @@
 ---
-title: "Bolsa supera 100 mil pontos, mas perde força e fecha em queda"
+title: Bolsa supera 100 mil pontos, mas perde força e fecha em queda
 date: 2020-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar fecha praticamente estável, a R$ 5,344.
 

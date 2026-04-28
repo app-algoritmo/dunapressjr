@@ -1,11 +1,12 @@
 ---
-title: "Comissão julgou mais de 1 mil processos do Proagro neste ano"
+title: Comissão julgou mais de 1 mil processos do Proagro neste ano
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Com o teletrabalho, produtividade da CER Proagro aumentou e ajuda a desenrolar a vida de agricultores no crédito rural.
 

@@ -1,11 +1,12 @@
 ---
-title: "IGP-DI tem queda de preços de 0,62% em outubro"
+title: IGP-DI tem queda de preços de 0,62% em outubro
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice acumula taxas de 4,89% no ano e de 5,59% em 12 meses.
 

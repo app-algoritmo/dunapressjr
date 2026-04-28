@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia desbloqueio adicional de R$7,3 bi no Orçamento"
+title: Governo anuncia desbloqueio adicional de R$7,3 bi no Orçamento
 date: 2019-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo anunciou um descontingenciamento adicional de 7,3
 bilhões de reais após calcular maior ingresso de receitas, num impulso dado por

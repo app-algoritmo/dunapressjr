@@ -1,11 +1,13 @@
 ---
-title: "Programa de Férias PowerBloc oferece escalada e diversão para a garotada em Campinas"
+title: Programa de Férias PowerBloc oferece escalada e diversão para a garotada em
+  Campinas
 date: 2022-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Maior e mais moderno ginásio de escalada do interior paulista, PowerBloc abre inscrições para o seu programa de férias. Localizado na cidade de Campinas, conta com estrutura completa, equipamentos de ponta, profissionais especializados e equipe pedagógica para levar muita diversão e segurança para crianças de 5 a 13 anos, entre 2 e 27 de janeiro de 2023.
 

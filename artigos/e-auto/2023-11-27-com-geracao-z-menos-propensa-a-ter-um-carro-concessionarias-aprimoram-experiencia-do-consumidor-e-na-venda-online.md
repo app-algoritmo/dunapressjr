@@ -1,12 +1,14 @@
 ---
-title: "Com geração Z menos propensa a ter um carro, concessionárias aprimoram experiência do consumidor e na venda online."
+title: Com geração Z menos propensa a ter um carro, concessionárias aprimoram experiência
+  do consumidor e na venda online.
 date: 2023-11-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
-  - Entrepreneurship
+- E-auto
+- Entrepreneurship
 ---
+
 
 ## Marcas encaram desafio de atrair jovens para dentro de lojas, sem deixar de lado necessidades dos consumidores mais tradicionais.
 

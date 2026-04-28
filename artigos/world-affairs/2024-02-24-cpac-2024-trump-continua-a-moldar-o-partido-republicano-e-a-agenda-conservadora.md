@@ -1,11 +1,12 @@
 ---
-title: "CPAC 2024: Trump continua a moldar o Partido Republicano e a agenda conservadora"
+title: 'CPAC 2024: Trump continua a moldar o Partido Republicano e a agenda conservadora'
 date: 2024-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Conferência de Ação Política Conservadora (CPAC) de 2024, realizada em Maryland, começou com uma clara confirmação: o ex-presidente Donald Trump continua a exercer uma influência dominante sobre o cenário político conservador nos Estados Unidos. O evento, que ocorre até sábado, dia 24 de fevereiro, destacou a maneira como Trump moldou não apenas o Partido Republicano, mas também sua base eleitoral e a agenda de prioridades.
 

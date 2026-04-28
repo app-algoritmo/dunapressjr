@@ -1,11 +1,12 @@
 ---
-title: "Após anúncio de Trump, índice Nikkei desaba na Bolsa de Tóquio"
+title: Após anúncio de Trump, índice Nikkei desaba na Bolsa de Tóquio
 date: 2020-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Anúncio de Trump motivou venda acelerada de ações
 

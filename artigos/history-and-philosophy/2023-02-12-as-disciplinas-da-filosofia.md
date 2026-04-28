@@ -1,11 +1,12 @@
 ---
-title: "As disciplinas da filosofia"
+title: As disciplinas da filosofia
 date: 2023-02-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 ## As disciplinas da filosofia são tradicionalmente metafísica, ética, teoria do conhecimento, estética e lógica.
 

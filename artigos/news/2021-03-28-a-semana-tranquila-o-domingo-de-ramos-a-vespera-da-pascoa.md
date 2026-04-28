@@ -1,12 +1,13 @@
 ---
-title: "A Semana Tranquila o Domingo de Ramos à  véspera da Páscoa"
+title: A Semana Tranquila o Domingo de Ramos à  véspera da Páscoa
 date: 2021-03-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 -A semana tranquila é a semana do Domingo de Ramos à Véspera da Páscoa. O nome vem do fato de que as pessoas não tocam os sinos da igreja esta semana e não usaram o órgão durante os serviços eclesiásticos. Durante esse tempo, todo o trabalho deve ser deixado para descansar o máximo possível e deve ser silencioso tanto por fora quanto por dentro.
 

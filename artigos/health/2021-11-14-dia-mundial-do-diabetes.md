@@ -1,11 +1,12 @@
 ---
-title: "Dia Mundial do Diabetes"
+title: Dia Mundial do Diabetes
 date: 2021-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cerca de 250 milhões de pessoas no mundo têm diabetes. Os números assustam e ajudam a avaliar o tamanho do desafio para combater essa doença. E para reforçar a conscientização a respeito desse mal, principalmente em relação a sua prevenção e as dificuldades enfrentadas pelos pacientes, foi instituída pela Federação Internacional de Diabetes (IDF) e pela Organização Mundial da Saúde (OMS), no dia 14 de novembro, o Dia Mundial do Diabetes.
 

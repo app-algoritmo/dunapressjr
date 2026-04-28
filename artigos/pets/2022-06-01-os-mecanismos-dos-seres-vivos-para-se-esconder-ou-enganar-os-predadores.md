@@ -1,11 +1,12 @@
 ---
-title: "Os mecanismos dos seres vivos para se esconder ou enganar os predadores"
+title: Os mecanismos dos seres vivos para se esconder ou enganar os predadores
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A natureza é repleta de características, cores e comportamentos que instigam a curiosidade das pessoas. Um desses traços é a habilidade que alguns seres vivos têm de imitar outras espécies, como mímicos – um recurso de defesa em meio a predadores. Este fenômeno é conhecido como mimetismo, uma estratégia evolutiva que faz com que estes animais, ou até mesmo plantas, tenham alguma vantagem ao longo de suas gerações.
 

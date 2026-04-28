@@ -1,11 +1,13 @@
 ---
-title: "Começa nessa quinta-feira (16) a segunda fase da Campanha Nacional de Vacinação contra a Gripe"
+title: Começa nessa quinta-feira (16) a segunda fase da Campanha Nacional de Vacinação
+  contra a Gripe
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segunda fase da campanha inclui também doentes crônicos e profissionais das forças de segurança e salvamento.
 

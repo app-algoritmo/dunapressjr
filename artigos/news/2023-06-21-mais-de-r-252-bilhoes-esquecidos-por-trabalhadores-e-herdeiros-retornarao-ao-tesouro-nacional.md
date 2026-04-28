@@ -1,11 +1,13 @@
 ---
-title: "Mais de R$ 25,2 bilhões esquecidos por trabalhadores e herdeiros retornarão ao Tesouro Nacional"
+title: Mais de R$ 25,2 bilhões esquecidos por trabalhadores e herdeiros retornarão
+  ao Tesouro Nacional
 date: 2023-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos dos antigos fundos PIS e Pasep, que foram transferidos para o FGTS, serão devolvidos até agosto.
 

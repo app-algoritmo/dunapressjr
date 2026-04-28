@@ -1,12 +1,13 @@
 ---
-title: "IA: mercado em expansão movimenta criação de cursos de graduação na área"
+title: 'IA: mercado em expansão movimenta criação de cursos de graduação na área'
 date: 2024-04-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Technology
+- Education
+- Technology
 ---
+
 
 ## Parque Tecnológico lança bacharelado em Inteligência Artificial com foco em agricultura, negócios e saúde; com nota máxima pelo MEC, curso é o quarto do Brasil com aulas 100% presenciais.
 

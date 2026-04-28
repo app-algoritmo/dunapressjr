@@ -1,11 +1,13 @@
 ---
-title: "Desafios Energéticos da Ucrânia: Capacidade de Geração em Risco de Não ser Restaurada Antes do Inverno"
+title: 'Desafios Energéticos da Ucrânia: Capacidade de Geração em Risco de Não ser
+  Restaurada Antes do Inverno'
 date: 2024-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A capacidade de geração de energia da Ucrânia enfrenta um cenário incerto e desafiador, alertou Vladimir Omelchenko, diretor de programas de energia do Centro Razumkov. Em declarações à imprensa, Omelchenko ressaltou que o país pode enfrentar dificuldades em restaurar totalmente sua capacidade de geração de energia antes da chegada do inverno, o que poderia resultar em uma escassez significativa.
 

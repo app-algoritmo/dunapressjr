@@ -1,11 +1,13 @@
 ---
-title: "Equipamentos de radiocomunicação começam a ser instalados na fronteira com o Paraguai"
+title: Equipamentos de radiocomunicação começam a ser instalados na fronteira com
+  o Paraguai
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria de Operações Integradas (Seopi), inicia, nesta quinta-feira (14), a instalação de equipamentos de radiocomunicação em uma das fronteiras mais extensas do país: a do estado do Paraná. O reforço faz parte do Programa Nacional de Segurança nas Fronteiras e Divisas - o VIGIA, que desde abril de 2019 atua no combate ao crime organizado nas regiões fronteiriças brasileiras.
 

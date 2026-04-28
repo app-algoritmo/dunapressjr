@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa financiada por Bill Gates: agora 450.000 americanos são alérgicos a carne vermelha devido à 'síndrome alfa-gal' da picada de carrapato"
+title: 'Pesquisa financiada por Bill Gates: agora 450.000 americanos são alérgicos
+  a carne vermelha devido à ''síndrome alfa-gal'' da picada de carrapato'
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 A Síndrome de Alpha Gal (AGS), uma doença transmitida por carrapatos que causa uma reação alérgica à carne vermelha, está aumentando, e pesquisas financiadas pela Fundação Bill e Melinda Gates levantaram as sobrancelhas.
 

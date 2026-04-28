@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei prevê responsabilidade pelos custos dos tratamentos,  para quem praticar maus tratos em Santa Catarina"
+title: Projeto de Lei prevê responsabilidade pelos custos dos tratamentos,  para quem
+  praticar maus tratos em Santa Catarina
 date: 2021-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## PL./0161.6/2021. Altera a Lei nº 12.854, de 2003, que "Institui o Código Estadual de Proteção aos Animais", para incluir a responsabilização de custeio do tratamento e da recuperação da saúde dos animais, decorrentes de atropelamento ou de quaisquer ação ou omissão que cause danos ao bem-estar animal.
 

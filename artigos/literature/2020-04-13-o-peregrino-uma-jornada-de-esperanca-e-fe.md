@@ -1,11 +1,12 @@
 ---
-title: "O Peregrino: Uma jornada de esperança e fé"
+title: 'O Peregrino: Uma jornada de esperança e fé'
 date: 2020-04-13
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 **Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém. Romanos 11:36**
 

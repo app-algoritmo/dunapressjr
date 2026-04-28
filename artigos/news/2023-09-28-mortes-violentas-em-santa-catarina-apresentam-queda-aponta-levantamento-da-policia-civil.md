@@ -1,11 +1,13 @@
 ---
-title: "Mortes violentas em Santa Catarina apresentam queda, aponta levantamento da Polícia Civil"
+title: Mortes violentas em Santa Catarina apresentam queda, aponta levantamento da
+  Polícia Civil
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Polícia Civil de Santa Catarina divulgou nesta terça-feira, 26, o balanço anual de mortes violentas no estado, nos primeiros nove meses do ano, comparados ao mesmo período de 2022. Três importantes indicadores estão em declínio: latrocínios com redução de 78,95%, homicídios com queda de 3,32%, e lesão corporal seguida de morte com menos 7,69%. Os dados da Diretoria de Inteligência são reflexos da produtividade da PCSC que neste ano prendeu 57,18% a mais do que nos nove primeiros meses do ano passado. Isso representa 4.258 prisões contra 2.709 em igual período de 2022.
 

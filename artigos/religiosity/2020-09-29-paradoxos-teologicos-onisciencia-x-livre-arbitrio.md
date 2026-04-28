@@ -1,11 +1,12 @@
 ---
-title: "Paradoxos Teológicos: Onisciência x Livre Arbítrio!"
+title: 'Paradoxos Teológicos: Onisciência x Livre Arbítrio!'
 date: 2020-09-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 *“Tudo é previsto, e mesmo assim é dada a liberdade de escolha*”
 

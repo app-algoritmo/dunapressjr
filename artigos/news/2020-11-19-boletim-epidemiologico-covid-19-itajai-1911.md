@@ -1,11 +1,12 @@
 ---
-title: "Boletim Epidemiológico COVID-19 Itajaí 19/11"
+title: Boletim Epidemiológico COVID-19 Itajaí 19/11
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Vigilância Epidemiológica de Itajaí esclarece que devido à grande demanda de amostras, o Laboratório Central de Saúde Pública (Lacen), do Governo do Estado, tem levado, em média, uma semana para entregar os resultados dos exames. Neste momento, por exemplo, há coletas do dia 11 de novembro aguardando liberação. Ao ser entregue pelo Lacen, o resultado é enviado automaticamente ao paciente.
 

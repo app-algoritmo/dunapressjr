@@ -1,11 +1,13 @@
 ---
-title: "Lei que suspende pagamento de parcelas do Fies até o final do estado de calamidade pública está publicada"
+title: Lei que suspende pagamento de parcelas do Fies até o final do estado de calamidade
+  pública está publicada
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Resolução do Comitê Gestor do Fies regulamentará os critérios a serem adotados pelos estudantes.
 

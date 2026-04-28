@@ -1,11 +1,12 @@
 ---
-title: "Boris Johnson, o novo primeiro ministro da Inglaterra"
+title: Boris Johnson, o novo primeiro ministro da Inglaterra
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## "Meu trabalho é proteger você, seus pais, seus avós do medo de ter que vender sua casa para pagar os custos com a saúde"
 

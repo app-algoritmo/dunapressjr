@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,05, mas fecha semana em queda"
+title: Dólar sobe para R$ 5,05, mas fecha semana em queda
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa cai 1,72% com turbulências externas e inflação no Brasil.
 

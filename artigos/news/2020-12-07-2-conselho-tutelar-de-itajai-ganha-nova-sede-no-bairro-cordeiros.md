@@ -1,11 +1,12 @@
 ---
-title: "2º Conselho Tutelar de Itajaí ganha nova sede no bairro Cordeiros"
+title: 2º Conselho Tutelar de Itajaí ganha nova sede no bairro Cordeiros
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Promoção da Cidadania, inaugurou a sede do 2º Conselho Tutelar de Itajaí. O espaço fica localizado na rua Odílio Garcia, 421, no bairro Cordeiros. O local, que está aberto para atendimento das 7h às 19h, de segunda a sexta-feira, atende moradores dos bairros Espinheiros II, Murta, Cordeiros, Costa Cavalcante, São Roque, Santa Regina, Portal II e São Vicente (incluindo as localidades de Nilo Bitencourt, Rio Bonito e Bambuzal).
 

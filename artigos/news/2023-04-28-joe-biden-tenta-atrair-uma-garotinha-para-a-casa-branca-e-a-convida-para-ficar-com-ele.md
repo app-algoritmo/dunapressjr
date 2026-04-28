@@ -1,11 +1,13 @@
 ---
-title: "Joe Biden tenta atrair uma garotinha para a Casa Branca e a convida para “ficar com ele”"
+title: Joe Biden tenta atrair uma garotinha para a Casa Branca e a convida para “ficar
+  com ele”
 date: 2023-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Joe Biden na quinta-feira participou de uma saudação “Leve seu filho ao trabalho” no South Lawn.
 

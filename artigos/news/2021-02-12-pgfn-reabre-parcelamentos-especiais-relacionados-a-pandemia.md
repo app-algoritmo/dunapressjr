@@ -1,11 +1,12 @@
 ---
-title: "PGFN reabre parcelamentos especiais relacionados à pandemia"
+title: PGFN reabre parcelamentos especiais relacionados à pandemia
 date: 2021-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Negociação abrange tributos vencidos entre março e dezembro de 2020.
 

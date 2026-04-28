@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal concede  novo crédito habitacional para famílias assentadas"
+title: Governo Federal concede  novo crédito habitacional para famílias assentadas
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O novo crédito será concedido para construção ou reforma e será depositado diretamente na conta do assentado. Um total de R$ 340 milhões para essa linha de crédito já está disponibilizado para os assentados.
 

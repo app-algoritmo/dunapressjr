@@ -1,11 +1,12 @@
 ---
-title: "Dia Mundial da Sepse: busca pelo diagnóstico que salva vidas"
+title: 'Dia Mundial da Sepse: busca pelo diagnóstico que salva vidas'
 date: 2023-09-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Identificação precoce previne casos mais complexos; iniciativas de desospitalização podem reduzir exposição a riscos e são recomendadas pela OMS.
 

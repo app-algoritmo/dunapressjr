@@ -1,11 +1,12 @@
 ---
-title: "A crescente presença militar de Washington às portas da China"
+title: A crescente presença militar de Washington às portas da China
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Vários anúncios dos EUA reflectem a sua grande e crescente presença militar em toda a região Ásia-Pacífico, particularmente no Leste e Sudeste Asiático. Tomados em conjunto, reflectem o desejo contínuo e cada vez mais desesperado de Washington de cercar e conter a China.
 

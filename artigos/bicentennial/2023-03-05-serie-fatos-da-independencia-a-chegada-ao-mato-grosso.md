@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A Chegada ao Mato Grosso"
+title: 'Série Fatos Da Independência: A Chegada ao Mato Grosso'
 date: 2023-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Rios caudalosos, vegetação espessa e distâncias, grandes distâncias, especialmente para aqueles acostumados a se espremerem em uma faixa de terra tão estreita como Portugal: foi assim que Antônio Rolim de Moura, primeiro Governador-Geral de Mato Grosso, descreveu a capitania em meados do século XVIII. A chegada do representante da Coroa Portuguesa foi tardia quando comparada com as capitanias do litoral: apenas em 1748 o Mato Grosso conseguiu autonomia frente à administração de São Paulo. Rolim de Moura tomou posse em 1751, oficializando a independência da capitania, mas o Mato Grosso já estava sendo desbravado desde o início do século XVIII, quando os paulistas se aventuravam pelos sertões em busca de ouro. A descoberta do metal precioso nas Minas Gerais impulsionou a interiorização das bandeiras para outras terras mais à oeste do Brasil. E de fato, a coisa vingou: descobriu-se ouro nos rios Cuiabá e Coxipó e, um pouco depois, Guaporé. Para trabalhar nas plantações dos recém-chegados, bem como na extração do ouro, os paulistas trouxeram os seus escravizados que, muitas das vezes, morriam no caminho até as proximidades dos rios. O sertão era vasto e, com a pouca comida e água oferecida pelos senhores, era difícil resistir ao calor e à longa marcha.
 

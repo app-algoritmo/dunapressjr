@@ -1,11 +1,13 @@
 ---
-title: "Projeto de combate à violência nas escolas está pauta da semana do Plenário da Câmara"
+title: Projeto de combate à violência nas escolas está pauta da semana do Plenário
+  da Câmara
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na primeira semana de dezembro, a Câmara dos Deputados pode votar três projetos de lei, como o que autoriza o Poder Executivo a implantar o Sistema Nacional de Acompanhamento e Combate à Violência nas Escolas (Snave).
 

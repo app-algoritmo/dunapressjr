@@ -1,11 +1,12 @@
 ---
-title: "Crime em nome da mudança climática - despovoamento em nome dos direitos humanos"
+title: Crime em nome da mudança climática - despovoamento em nome dos direitos humanos
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Há cerca de uma semana, o czar dos direitos humanos da ONU emitiu um sério alerta em Genebra: " **Até 80 milhões de pessoas serão levadas à fome se as metas climáticas não forem cumpridas** ".
 

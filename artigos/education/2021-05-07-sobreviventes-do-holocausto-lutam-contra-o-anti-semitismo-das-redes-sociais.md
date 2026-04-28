@@ -1,11 +1,12 @@
 ---
-title: "Sobreviventes do Holocausto lutam contra o anti-semitismo das redes sociais"
+title: Sobreviventes do Holocausto lutam contra o anti-semitismo das redes sociais
 date: 2021-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Como parte da campanha, os sobreviventes gravaram vídeos explicando como as palavras acabaram levando às atrocidades cometidas durante o Holocausto.
 

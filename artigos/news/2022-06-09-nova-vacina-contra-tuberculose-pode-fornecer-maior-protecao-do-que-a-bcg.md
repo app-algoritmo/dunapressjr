@@ -1,11 +1,12 @@
 ---
-title: "Nova vacina contra tuberculose pode fornecer maior proteção do que a BCG"
+title: Nova vacina contra tuberculose pode fornecer maior proteção do que a BCG
 date: 2022-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma nova candidata vacinal contra a tuberculose, em desenvolvimento no Instituto Butantan, se mostrou capaz de proteger mais do que o imunizante tradicional, o BCG (Bacilo de Calmette e Guérin). É o que mostram os resultados de um estudo pré-clínico [publicado na revista *Frontiers in Immunology*](https://www.frontiersin.org/articles/10.3389/fimmu.2022.867195/full#h12). Embora a atual vacina seja comprovadamente efetiva, especialmente na proteção de crianças, a imunidade contra a doença **tende a cair na vida adulta**. O mundo registra por ano 10 milhões de novos casos e 1,5 milhão de mortes por tuberculose, segundo a Organização Mundial da Saúde (OMS). Grande parte dos óbitos ocorre em pessoas com HIV, que possuem o sistema imune comprometido.
 

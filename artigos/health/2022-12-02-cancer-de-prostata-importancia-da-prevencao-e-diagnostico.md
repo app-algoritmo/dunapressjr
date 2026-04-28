@@ -1,11 +1,12 @@
 ---
-title: "Câncer de Próstata, importância da prevenção e diagnóstico"
+title: Câncer de Próstata, importância da prevenção e diagnóstico
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No Brasil, estimam-se 65.840 casos novos de câncer de próstata para cada ano do triênio 2020-2022. Sem considerar os tumores de pele não melanoma, o câncer de próstata ocupa a primeira posição no país em todas as regiões brasileiras. Segundo o Sistema de Informação sobre Mortalidade (SIM), do Ministério da Saúde, a cada dia, 42 homens morrem em decorrência desse tipo de câncer e ocorreram, em 2017, 15.391 óbitos.
 

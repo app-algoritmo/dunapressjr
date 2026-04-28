@@ -1,11 +1,12 @@
 ---
-title: "Supremo proíbe abate de animais em situação de maus tratos"
+title: Supremo proíbe abate de animais em situação de maus tratos
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Por unanimidade, O Supremo Tribunal Federal decidiu para a proibição do abate de animais silvestres ou domésticos apreendidos em situação de maus tratos. A decisão foi finalizada pelo Plenário Virtual às 23h59 desta sexta-feira (10/9).
 

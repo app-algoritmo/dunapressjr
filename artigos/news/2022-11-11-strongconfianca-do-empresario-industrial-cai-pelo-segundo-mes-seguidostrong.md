@@ -1,11 +1,12 @@
 ---
-title: "<strong>Confiança do empresário industrial cai pelo segundo mês seguido</strong>"
+title: <strong>Confiança do empresário industrial cai pelo segundo mês seguido</strong>
 date: 2022-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa é da Confederação Nacional da Indústria.
 

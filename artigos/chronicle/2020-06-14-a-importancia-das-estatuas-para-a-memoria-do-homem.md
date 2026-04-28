@@ -1,11 +1,12 @@
 ---
-title: "A Importância das Estatuas para a Memória do Homem"
+title: A Importância das Estatuas para a Memória do Homem
 date: 2020-06-14
 status: publish
 author: Vitor Guerino
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 As estatuas existem entre nós desde os tempos primitivos do homem, ela representa uma memória existente tanto no momento de sua criação, quanto na da própria imagem. Elas servem para manter vivo um passado e sua importância é imensurável a sociedade.
 

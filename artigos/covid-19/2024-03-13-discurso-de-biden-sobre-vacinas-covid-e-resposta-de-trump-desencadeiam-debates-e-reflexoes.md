@@ -1,11 +1,13 @@
 ---
-title: "Discurso de Biden sobre Vacinas COVID e Resposta de Trump Desencadeiam Debates e Reflexões"
+title: Discurso de Biden sobre Vacinas COVID e Resposta de Trump Desencadeiam Debates
+  e Reflexões
 date: 2024-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O discurso do presidente Joe Biden sobre o Estado da União, proferido em 7 de março, desencadeou uma série de elogios, críticas e debates em torno do papel das vacinas COVID-19, além de provocar uma resposta controversa do ex-presidente Donald Trump.
 

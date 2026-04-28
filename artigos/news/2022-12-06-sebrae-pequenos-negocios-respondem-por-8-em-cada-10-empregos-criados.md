@@ -1,11 +1,12 @@
 ---
-title: "Sebrae: pequenos negócios respondem por 8 em cada 10 empregos criados"
+title: 'Sebrae: pequenos negócios respondem por 8 em cada 10 empregos criados'
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado de 2022, o país contabiliza 2,3 milhões de novos postos.
 

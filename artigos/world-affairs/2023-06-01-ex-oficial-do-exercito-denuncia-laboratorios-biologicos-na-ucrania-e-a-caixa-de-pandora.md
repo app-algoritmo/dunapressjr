@@ -1,11 +1,13 @@
 ---
-title: "Ex-oficial do exército denuncia laboratórios biológicos na Ucrânia: 'É a caixa de Pandora'"
+title: 'Ex-oficial do exército denuncia laboratórios biológicos na Ucrânia: ''É a
+  caixa de Pandora'''
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Rússia acusou os Estados Unidos de fazer experiências com variantes mortais da gripe aviária em um biolaboratório americano na Ucrânia.
 

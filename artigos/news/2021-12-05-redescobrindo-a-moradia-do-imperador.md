@@ -1,11 +1,12 @@
 ---
-title: "Redescobrindo a Moradia do imperador"
+title: Redescobrindo a Moradia do imperador
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ao longo do tempo, o Paço de São Cristóvão, que abriga hoje o Museu Nacional, sofreu diversas transformações, como a ampliação do palácio feita por D. Pedro II a partir de 1850. Lá ele viveu em um período de longa duração, tornando este edifício testemunha de diversos momentos importantes na História do Brasil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores começam a desvendar segredos de dispositivos astronômicos antigos"
+title: Pesquisadores começam a desvendar segredos de dispositivos astronômicos antigos
 date: 2021-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os cientistas acreditam que finalmente descobriram a chave para entender o que foi apelidado de "computador mais antigo do mundo".
 

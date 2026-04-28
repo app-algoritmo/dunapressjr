@@ -1,11 +1,12 @@
 ---
-title: "Napoleão,Filme de Ridley Scott Será Grandioso"
+title: Napoleão,Filme de Ridley Scott Será Grandioso
 date: 2023-10-27
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute A Resenha Aqui:
 

@@ -1,13 +1,14 @@
 ---
-title: "O poema existencial no filme 'A Sociedade dos Poetas Mortos' de Walt Whitman"
+title: O poema existencial no filme 'A Sociedade dos Poetas Mortos' de Walt Whitman
 date: 2024-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
-  - News
-  - Philosophy
+- Literature
+- News
+- Philosophy
 ---
+
 
 Aqui o poema de Witman…
 Aproveite o dia.

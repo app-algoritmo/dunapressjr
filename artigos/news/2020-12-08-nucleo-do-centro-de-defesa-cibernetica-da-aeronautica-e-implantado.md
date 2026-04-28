@@ -1,11 +1,12 @@
 ---
-title: "Núcleo do Centro de Defesa Cibernética da Aeronáutica é implantado"
+title: Núcleo do Centro de Defesa Cibernética da Aeronáutica é implantado
 date: 2020-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Força Aérea Brasileira implantou o Núcleo do Centro de Defesa Cibernética da Aeronáutica (NuCDCAER). O objetivo é proporcionar maior segurança ao Sistema de Controle e Defesa do Espaço Aéreo e às Atividades Espaciais. No contexto das novas ameaças aos recursos tecnológicos, é importante ampliar o Poder Aeroespacial.
 

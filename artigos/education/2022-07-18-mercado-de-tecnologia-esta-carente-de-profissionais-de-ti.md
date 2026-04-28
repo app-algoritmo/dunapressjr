@@ -1,11 +1,12 @@
 ---
-title: "Mercado de tecnologia está carente de profissionais de TI"
+title: Mercado de tecnologia está carente de profissionais de TI
 date: 2022-07-18
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Education
+- Education
 ---
+
 
 Segundo dados da Associação das Empresas de Tecnologia da Informação e Comunicação (TIC) e de Tecnologias Digitais (Brasscom), o Brasil deve ter quase 674 mil novas vagas de emprego entre 2022 e 2025 na área de tecnologia da informação. Entretanto, as empresas ainda têm dificuldades para preenchê-las devido à falta de profissionais qualificados.
 

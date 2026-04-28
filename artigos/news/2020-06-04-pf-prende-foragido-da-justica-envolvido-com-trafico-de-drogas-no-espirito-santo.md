@@ -1,11 +1,12 @@
 ---
-title: "PF prende foragido da Justiça envolvido com tráfico de drogas no Espírito Santo"
+title: PF prende foragido da Justiça envolvido com tráfico de drogas no Espírito Santo
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal prendeu nesta manhã (4/6), na região de Balneário Carapebus, Serra/ES, uma pessoa investigada por chefiar associação para o tráfico de drogas na região de Governador Valadares/MG, o qual estava foragido da Justiça há mais de 5 anos.
 

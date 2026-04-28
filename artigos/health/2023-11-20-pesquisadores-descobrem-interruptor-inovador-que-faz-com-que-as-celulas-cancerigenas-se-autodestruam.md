@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores descobrem “interruptor” inovador que faz com que as células cancerígenas se autodestruam"
+title: Pesquisadores descobrem “interruptor” inovador que faz com que as células cancerígenas
+  se autodestruam
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Pesquisadores do UC Davis Comprehensive Cancer Center, em Sacramento, Califórnia, fizeram [uma descoberta revolucionária para o futuro dos tratamentos contra o câncer](https://www.theepochtimes.com/health/researchers-discover-switch-to-trigger-death-of-cancer-cells-5529108?utm_source=ref_share&utm_campaign=copy) . A equipe de pesquisa encontrou um “interruptor” biológico que faz com que as células cancerígenas se autodestruam. Esta descoberta terá impacto na vida de mais de 18 milhões de americanos que lidam anualmente com cancro invasivo. As descobertas foram publicadas recentemente na revista *[Cell Death and Differentiation](https://www.nature.com/articles/s41418-023-01229-7)* .
 

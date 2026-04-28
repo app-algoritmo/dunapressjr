@@ -1,11 +1,12 @@
 ---
-title: "Seif elogia fala de Pacheco sobre legitimidade do Congresso"
+title: Seif elogia fala de Pacheco sobre legitimidade do Congresso
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) parabenizou, em pronunciamento na terça-feira (17), o presidente do Senado, Rodrigo Pacheco, por ter defendido a atribuição e a legitimidade do Congresso Nacional de legislar, durante o I Fórum Esfera Internacional, realizado em Paris no último sábado (14).
 

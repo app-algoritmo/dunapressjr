@@ -1,11 +1,12 @@
 ---
-title: "Mapa tem campanha para apoiar produtores orgânicos durante a pandemia"
+title: Mapa tem campanha para apoiar produtores orgânicos durante a pandemia
 date: 2020-06-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo da Campanha Anual de Promoção do Produto Orgânico é fomentar a comercialização de alimentos orgânicos durante e após a pandemia por meio de entregas de cestas e outras formas alternativas de venda.
 

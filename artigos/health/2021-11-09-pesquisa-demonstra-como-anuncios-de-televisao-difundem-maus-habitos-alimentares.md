@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa demonstra como anúncios de televisão difundem maus hábitos alimentares"
+title: Pesquisa demonstra como anúncios de televisão difundem maus hábitos alimentares
 date: 2021-11-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A televisão (TV) é um veículo de comunicação utilizado para o entretenimento e para a educação e representa a fonte de informação sobre o mundo mais acessada pela maioria das pessoas, sendo capaz de transmitir aos mais diversos lugares e culturas dados sobre como as pessoas se comportam, o que vestem, o que pensam, como aparentam ser e o que comem.
 

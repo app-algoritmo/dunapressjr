@@ -1,11 +1,13 @@
 ---
-title: "Nova Descoberta de Investigadores Espanhóis Levanta Questões sobre Presença de Grafeno em Vacinas"
+title: Nova Descoberta de Investigadores Espanhóis Levanta Questões sobre Presença
+  de Grafeno em Vacinas
 date: 2024-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A equipe de investigação liderada pelo bioestatístico Ricardo Delgado, da La Quinta Columna, fez outra descoberta surpreendente no campo das vacinas contra a COVID-19. Após revelar anteriormente a presença de grafeno e nanotecnologia nas vacinas, enfrentaram críticas e censuras nas redes sociais. No entanto, a maré parece estar mudando, com o Tribunal Provincial de Almeria iniciando uma investigação sobre a possível presença de grafeno nas vacinas.
 

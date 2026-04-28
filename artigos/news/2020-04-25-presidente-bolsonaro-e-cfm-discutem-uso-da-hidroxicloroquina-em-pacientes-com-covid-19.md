@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro e CFM discutem uso da hidroxicloroquina em pacientes com Covid-19"
+title: Presidente Bolsonaro e CFM discutem uso da hidroxicloroquina em pacientes com
+  Covid-19
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os critérios e as condições em que Conselho Federal de Medicina (CFM) autoriza o uso dos medicamentos cloroquina e hidroxicloroquina no tratamento de pacientes com diagnóstico confirmado de Covid-19 foi tema de uma reunião entre o presidente da República, Jair Bolsonaro, e o presidente do CFM, Mauro Luiz Britto Ribeiro, nesta quinta-feira (23). O ministro da Saúde, Nelson Teich, também participou do encontro.
 

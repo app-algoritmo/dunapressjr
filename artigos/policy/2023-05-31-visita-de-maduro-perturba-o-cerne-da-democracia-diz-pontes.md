@@ -1,11 +1,12 @@
 ---
-title: "Visita de Maduro 'perturba o cerne da democracia', diz Pontes"
+title: Visita de Maduro 'perturba o cerne da democracia', diz Pontes
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Astronauta Marcos Pontes (PL-SP) afirmou em pronunciamento na terça-feira (30) que a visita do presidente da Venezuela, Nicolás Maduro, ao Brasil, levanta questões fundamentais sobre os valores o país a escolhe para si. Para o parlamentar, a participação de Maduro na cúpula de líderes da América do Sul "perturba o cerne da democracia e da decência humana".
 

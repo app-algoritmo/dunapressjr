@@ -1,11 +1,12 @@
 ---
-title: "Incorporação de vacina contra dengue ao SUS deve sair ainda este ano"
+title: Incorporação de vacina contra dengue ao SUS deve sair ainda este ano
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Ministério da Saúde abriu consulta pública.
 

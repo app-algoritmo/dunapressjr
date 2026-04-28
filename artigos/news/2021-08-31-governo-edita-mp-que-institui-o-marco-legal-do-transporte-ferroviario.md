@@ -1,11 +1,12 @@
 ---
-title: "Governo edita MP que institui o marco legal do transporte ferroviário"
+title: Governo edita MP que institui o marco legal do transporte ferroviário
 date: 2021-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida facilita a permissão para construção de novas ferrovias.
 

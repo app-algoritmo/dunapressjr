@@ -1,11 +1,12 @@
 ---
-title: "Conab: Programa Modernização do Mercado Hortigranjeiro tem 1º boletim"
+title: 'Conab: Programa Modernização do Mercado Hortigranjeiro tem 1º boletim'
 date: 2022-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ceasas registram queda no preço da batata e alta da cebola.
 

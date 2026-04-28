@@ -1,11 +1,13 @@
 ---
-title: "Ciências da Natureza no Enem: saiba quais são os temas da atualidade que podem ser cobrados na prova"
+title: 'Ciências da Natureza no Enem: saiba quais são os temas da atualidade que podem
+  ser cobrados na prova'
 date: 2023-10-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Historicamente, uma das principais características das provas do (Enem) é a abordagem de temas importantes que fazem parte dos debates sociais da atualidade.
 

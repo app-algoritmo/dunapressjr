@@ -1,11 +1,13 @@
 ---
-title: "O copresidente do grupo da OMS pede “priorização de medidas que possam restringir as liberdades individuais”"
+title: O copresidente do grupo da OMS pede “priorização de medidas que possam restringir
+  as liberdades individuais”
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A autoridade de saúde não eleita está novamente tomando o poder nas negociações para o acordo pandêmico.
 

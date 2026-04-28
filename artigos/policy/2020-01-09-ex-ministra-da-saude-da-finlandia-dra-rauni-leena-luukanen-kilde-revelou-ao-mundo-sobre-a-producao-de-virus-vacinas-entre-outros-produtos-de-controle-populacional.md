@@ -1,11 +1,13 @@
 ---
-title: "Ex ministra da saúde da Finlândia, Dra. Rauni-Leena Luukanen Kilde revelou ao mundo sobre a produção de vírus, vacinas entre outros produtos de controle populacional"
+title: Ex ministra da saúde da Finlândia, Dra. Rauni-Leena Luukanen Kilde revelou
+  ao mundo sobre a produção de vírus, vacinas entre outros produtos de controle populacional
 date: 2020-01-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A já falecida ex-ministra da Saúde da Finlândia, Dra. Rauni-Leena Luukanen-Kilde, autora best-sellers de diversos livros que abalaram os pilares do globalismo, poucos dias após sua trágica morte e altamente debatida em  2015, deixou um enorme legado em seu último livro, conhecimento profundo do "Deep State" - o poder secreto no cenário do Estado, onde acusa, industrias farmacêuticas, banqueiros internacionais, agências de inteligência entre outros. 
 

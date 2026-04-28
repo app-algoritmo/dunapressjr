@@ -1,11 +1,12 @@
 ---
-title: "Leilão para saneamento de 13 cidades de Alagoas atrai sete consórcios"
+title: Leilão para saneamento de 13 cidades de Alagoas atrai sete consórcios
 date: 2020-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vencedor deverá investir R$ 2,6 bi em infraestrutura em seis anos.
 

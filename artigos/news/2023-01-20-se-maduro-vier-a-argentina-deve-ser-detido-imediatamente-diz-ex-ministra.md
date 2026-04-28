@@ -1,11 +1,12 @@
 ---
-title: "Se Maduro vier à Argentina, deve ser detido imediatamente, diz ex-ministra"
+title: Se Maduro vier à Argentina, deve ser detido imediatamente, diz ex-ministra
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A política argentina Patricia Bullrich, presidente do partido de oposição Proposta Republicana, pediu nesta quinta-feira que Nicolás Maduro seja detido "imediatamente" caso chegue à Argentina para participar da VII Cúpula da Celac.
 

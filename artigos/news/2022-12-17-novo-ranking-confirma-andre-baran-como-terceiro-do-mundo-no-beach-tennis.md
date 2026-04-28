@@ -1,11 +1,12 @@
 ---
-title: "Novo ranking confirma André Baran como terceiro do mundo no Beach Tennis"
+title: Novo ranking confirma André Baran como terceiro do mundo no Beach Tennis
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O catarinense André Baran iniciou a semana comemorando o top 3 no ranking mundial de Beach Tennis. Na nova classificação, divulgada nesta segunda-feira (12) pela ITF (International Tennis Federation), Baran aparece na terceira colocação, com 2.800 pontos, subindo duas posições, e alcançando o melhor ranking de sua carreira.
 

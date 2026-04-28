@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio varejista cai 2,6% em setembro"
+title: Confiança do comércio varejista cai 2,6% em setembro
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Comparado a setembro de 2021, cresceu 5,2%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde distribui 100 respiradores para quatro estados"
+title: Ministério da Saúde distribui 100 respiradores para quatro estados
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Amapá, Ceará, Paraíba e Pernambuco foram contemplados com a entrega dos respiradores. Ao todo, a pasta distribuiu 487 aparelhos para o combate à Covid-19. O respiradores são usados no tratamento de pacientes que apresentam dificuldades respiratórias, uma das características dos casos graves de coronavírus.
 

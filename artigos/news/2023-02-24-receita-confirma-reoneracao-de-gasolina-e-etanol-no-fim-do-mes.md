@@ -1,11 +1,12 @@
 ---
-title: "Receita confirma reoneração de gasolina e etanol no fim do mês"
+title: Receita confirma reoneração de gasolina e etanol no fim do mês
 date: 2023-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## MP que zerou PIS/Cofins acaba em 28 de fevereiro.
 

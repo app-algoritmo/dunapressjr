@@ -1,11 +1,12 @@
 ---
-title: "Esses “alimentos” serão banidos por causa de produtos químicos tóxicos?"
+title: Esses “alimentos” serão banidos por causa de produtos químicos tóxicos?
 date: 2023-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Se esse projeto de lei entrar em vigor, será o primeiro a proibir produtos químicos tóxicos em alimentos processados. Embora a UE proíba muitas dessas toxinas, os EUA parecem aceitá-las.
 

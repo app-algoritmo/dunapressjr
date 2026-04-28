@@ -1,11 +1,12 @@
 ---
-title: "Mercado de trabalho mostra estabilidade após pandemia, aponta Ipea"
+title: Mercado de trabalho mostra estabilidade após pandemia, aponta Ipea
 date: 2020-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A taxa de desocupação foi de 13,3% na semana de 2 a 8 de agosto.
 

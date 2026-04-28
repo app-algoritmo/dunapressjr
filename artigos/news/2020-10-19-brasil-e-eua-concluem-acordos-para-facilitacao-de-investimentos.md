@@ -1,11 +1,12 @@
 ---
-title: "Brasil e EUA concluem acordos para facilitação de investimentos"
+title: Brasil e EUA concluem acordos para facilitação de investimentos
 date: 2020-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente afirmou que pacote traz benefícios e fluxo de investimentos.
 

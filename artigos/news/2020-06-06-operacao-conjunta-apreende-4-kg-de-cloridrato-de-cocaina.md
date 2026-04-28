@@ -1,11 +1,12 @@
 ---
-title: "Operação conjunta apreende 4 kg de cloridrato de cocaína"
+title: Operação conjunta apreende 4 kg de cloridrato de cocaína
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Jataí/GO - Operação conjunta entre as Polícias Federal e Militar resultou na apreensão de 4 kg de cloridrato de cocaína e na prisão de uma pessoa em Mineiros na noite desta sexta-feira (5/6).
 

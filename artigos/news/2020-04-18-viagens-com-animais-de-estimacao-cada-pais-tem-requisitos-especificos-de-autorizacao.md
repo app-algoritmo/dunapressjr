@@ -1,11 +1,12 @@
 ---
-title: "Viagens com animais de estimação, cada país tem requisitos específicos de  autorização"
+title: Viagens com animais de estimação, cada país tem requisitos específicos de  autorização
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ingresso de animais domésticos em seu território. É muito importante que o proprietário planeje com antecedência a viagem do seu animal para ter tempo suficiente de atender todas as exigências do país de destino, o que às vezes pode requerer alguns meses.É responsabilidade do proprietário do animal procurar se informar sobre as exigências junto à Embaixada ou Consulado do país de destino e, ainda, junto à empresa responsável pelo traslado do animal. 
 

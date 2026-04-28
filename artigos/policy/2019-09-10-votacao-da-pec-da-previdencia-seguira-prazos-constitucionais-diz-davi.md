@@ -1,11 +1,12 @@
 ---
-title: "Votação da PEC da Previdência seguirá prazos constitucionais, diz Davi"
+title: Votação da PEC da Previdência seguirá prazos constitucionais, diz Davi
 date: 2019-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Davi Alcolumbre concede entrevista após visitar o Presidente em Exercício Hamilton Mourão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Em Itajaí, IPTU 2023 terá 20% de desconto no pagamento à vista"
+title: Em Itajaí, IPTU 2023 terá 20% de desconto no pagamento à vista
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Imposto Predial e Territorial Urbano (IPTU) poderá ser pago com 20% de desconto em Itajaí. Os carnês estarão disponíveis pela Internet a partir desta sexta-feira (13) e também serão entregues pelos Correios nos imóveis. Para garantir o desconto no tributo, basta realizar o pagamento da cota única até 15 de fevereiro.Quem paga IPTU garante diversos benefícios para a cidade. São melhorias em educação, saúde e infraestrutura, que contribuem para o desenvolvimento econômico e social de Itajaí.
 

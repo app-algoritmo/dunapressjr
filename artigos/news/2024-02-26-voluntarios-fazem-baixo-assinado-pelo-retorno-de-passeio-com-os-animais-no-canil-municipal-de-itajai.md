@@ -1,12 +1,14 @@
 ---
-title: "Voluntários fazem baixo assinado pelo retorno de passeio com os animais no Canil Municipal de Itajaí"
+title: Voluntários fazem baixo assinado pelo retorno de passeio com os animais no
+  Canil Municipal de Itajaí
 date: 2024-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A Unidade de Acolhimento Provisório de Animais (UAPA), conhecida como Canil Municipal de Itajaí, localizada na Rua Manuel Bernardes, no bairro Itaipava, foi terceirizada em junho de 2023.
 

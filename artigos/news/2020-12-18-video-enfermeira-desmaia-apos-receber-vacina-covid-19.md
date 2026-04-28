@@ -1,11 +1,12 @@
 ---
-title: "Vídeo: Enfermeira desmaia após receber vacina COVID-19"
+title: 'Vídeo: Enfermeira desmaia após receber vacina COVID-19'
 date: 2020-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Uma enfermeira no Tennessee desmaiou nesta quinta-feira18.12.20 depois de receber a nova vacina COVID-19.
 

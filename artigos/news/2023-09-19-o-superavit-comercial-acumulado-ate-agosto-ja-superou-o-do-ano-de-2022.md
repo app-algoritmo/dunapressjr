@@ -1,11 +1,12 @@
 ---
-title: "O superávit comercial acumulado até agosto já superou o do ano de 2022"
+title: O superávit comercial acumulado até agosto já superou o do ano de 2022
 date: 2023-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Agropecuária lidera as exportações com aumento de volume em um cenário de preços em queda.
 

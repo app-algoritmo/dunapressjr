@@ -1,11 +1,12 @@
 ---
-title: "Putin afirma aumento do interesse de estrangeiros em trabalhar na Rússia"
+title: Putin afirma aumento do interesse de estrangeiros em trabalhar na Rússia
 date: 2024-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, destacou um crescente interesse de pessoas que vivem no exterior em trabalhar na Rússia, durante uma reunião com os vencedores do concurso de gestão "Líderes da Rússia". Putin revelou que entre os candidatos do concurso, havia uma quantidade significativa de indivíduos residentes permanentes em países estrangeiros, mas que demonstraram interesse em contribuir para o desenvolvimento do país.
 

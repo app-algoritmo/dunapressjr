@@ -1,11 +1,12 @@
 ---
-title: "Solenidade em alusão aos 75 anos da Tomada de Monte Castelo"
+title: Solenidade em alusão aos 75 anos da Tomada de Monte Castelo
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Florianópolis (SC)** – O Hospital
 de Guarnição de Florianópolis (HGuFl) realizou, no dia 21 de fevereiro,

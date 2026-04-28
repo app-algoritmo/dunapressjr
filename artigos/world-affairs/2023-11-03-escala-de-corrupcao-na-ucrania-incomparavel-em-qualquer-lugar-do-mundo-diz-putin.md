@@ -1,11 +1,13 @@
 ---
-title: "Escala de corrupção na Ucrânia incomparável em qualquer lugar do mundo, diz Putin"
+title: Escala de corrupção na Ucrânia incomparável em qualquer lugar do mundo, diz
+  Putin
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Como exemplo de corrupção na Ucrânia, o presidente russo citou a venda de armas.
 

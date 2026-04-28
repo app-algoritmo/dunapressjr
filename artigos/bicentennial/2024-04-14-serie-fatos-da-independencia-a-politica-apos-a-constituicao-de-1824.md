@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A política após a constituição de 1824"
+title: 'Série Fatos Da Independência: A política após a constituição de 1824'
 date: 2024-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em março de 1824, o brigadeiro Manoel Fernandes da Silveira chegou a Sergipe como primeiro presidente da província. A mudança na administração provincial foi implementada com a outorga da Constituição de 1824, na qual o Imperador possuía prerrogativa para escolher os presidentes das províncias. A nomeação de um presidente escolhido pelo poder central, sem a anuência das elites locais, foi motivo de contenda não somente em Sergipe. Mais uma das muitas facetas do conflito entre o impulso centralizador do imperador e a reação autonomista das províncias, a indicação de Silveira buscava forçar as províncias a entrarem na linha do novo Estado.
 

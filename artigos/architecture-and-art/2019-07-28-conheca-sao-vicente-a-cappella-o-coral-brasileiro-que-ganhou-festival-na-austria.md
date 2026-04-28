@@ -1,11 +1,12 @@
 ---
-title: "Conheça São Vicente a Cappella, o coral brasileiro que ganhou festival na Áustria"
+title: Conheça São Vicente a Cappella, o coral brasileiro que ganhou festival na Áustria
 date: 2019-07-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Fundado em 1999, pela Dra. Patricia Costa, Professora de música, diretora de coro, arranjadora vocal e diretora de cena de música, o Coro Juvenil São Vicente a Capella nasceu da reunião de alunos e ex-alunos do Colégio São Vicente de Paulo (escola regular), no Rio de Janeiro, Brasil, recebendo jovens entre 11 e 23 anos.
 

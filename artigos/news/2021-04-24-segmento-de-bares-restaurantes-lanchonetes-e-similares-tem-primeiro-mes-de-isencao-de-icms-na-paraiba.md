@@ -1,11 +1,13 @@
 ---
-title: "Segmento de bares, restaurantes, lanchonetes e similares tem primeiro mês de isenção de ICMS na Paraíba"
+title: Segmento de bares, restaurantes, lanchonetes e similares tem primeiro mês de
+  isenção de ICMS na Paraíba
 date: 2021-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O segmento de bares, restaurantes, lanchonetes e similares, no Estado da Paraíba, recebeu a primeira isenção de três recolhimentos do ICMS, neste mês de abril, referente à apuração do mês de março, enquanto as demais empresas do Simples Nacional tiveram a primeira prorrogação, neste mês de abril, também de um total de três. O vencimento seria no último dia 20 de abril.
 

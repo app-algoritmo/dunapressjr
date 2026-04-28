@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério critica veto de Lula a trechos do marco temporal"
+title: Marcos Rogério critica veto de Lula a trechos do marco temporal
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento na quarta-feira (25), o senador Marcos Rogério (PL-RO) criticou o veto do governo a trechos da lei que fixa o marco temporal para as demarcações das terras indígenas ([Lei 14.701, de 2023)](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-20;14701). Para ele, a decisão afeta diretamente o direito de propriedade, a segurança jurídica e a produção de alimentos no país.
 

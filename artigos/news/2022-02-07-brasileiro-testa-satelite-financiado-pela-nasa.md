@@ -1,11 +1,12 @@
 ---
-title: "Brasileiro testa satélite financiado pela Nasa"
+title: Brasileiro testa satélite financiado pela Nasa
 date: 2022-02-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lorenzzo Mantovani é graduado em Engenharia Aeroespacial pela Universidade Federal de Santa Maria (UFSM) e estagiou no Instituto Tecnológico de Aeronáutica (ITA). Nessa época trabalhou no desenvolvimento do satélite SPORT, um projeto financiado em parte pela Agência Espacial Norte-Americana (Nasa). Ao ingressar no mestrado em Engenharia Aeronáutica e Mecânica do ITA, com bolsa da CAPES, continuou sua pesquisa, agora na fase de testes antes do lançamento, previsto para este ano. Os resultados estão em [artigo](https://www.sciencedirect.com/science/article/pii/S1270963821008087/pdfft?md5=8d1ca0236ef9497ebd3de3357568e2e1&pid=1-s2.0-S1270963821008087-main.pdf) publicado na *Science Direct*, da editora Elsevier.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Conspiração em Torno do Assassinato de Shinzo Abe"
+title: A Conspiração em Torno do Assassinato de Shinzo Abe
 date: 2024-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://twitter.com/i/status/1798661679141859437
 

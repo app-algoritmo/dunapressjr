@@ -1,11 +1,12 @@
 ---
-title: "Heinze afirma que Macron não tem autoridade para criticar a agricultura brasileira"
+title: Heinze afirma que Macron não tem autoridade para criticar a agricultura brasileira
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Luis Carlos Heinze (PP-RS) criticou o presidente da França, Emmanuel Macron, por afirmar, durante a COP28, que a agricultura brasileira não teria compromisso com metas ambientais e que, por isso, ele era contra o acordo comercial entre Mercosul e União Europeia.
 

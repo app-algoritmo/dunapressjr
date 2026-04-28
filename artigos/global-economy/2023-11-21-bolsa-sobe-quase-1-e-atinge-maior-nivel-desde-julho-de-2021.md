@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe quase 1% e atinge maior nível desde julho de 2021"
+title: Bolsa sobe quase 1% e atinge maior nível desde julho de 2021
 date: 2023-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 4,85 a chega a menor valor desde agosto.
 

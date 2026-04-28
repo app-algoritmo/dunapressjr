@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores oscila em queda"
+title: Bolsa de valores oscila em queda
 date: 2023-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar alcança maior alta de setembro*.*
 

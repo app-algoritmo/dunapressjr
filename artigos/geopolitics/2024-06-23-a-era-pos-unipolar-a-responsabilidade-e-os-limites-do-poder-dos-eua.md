@@ -1,11 +1,12 @@
 ---
-title: "A Era Pós-Unipolar: A Responsabilidade e os Limites do Poder dos EUA"
+title: 'A Era Pós-Unipolar: A Responsabilidade e os Limites do Poder dos EUA'
 date: 2024-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Desde o colapso da União Soviética em 1991 até a transição para um mundo multipolar por volta de 2017, os Estados Unidos mantiveram uma posição de poder incomparável no cenário global. Durante esse período unipolar, os EUA promoveram políticas liberais que refletiam a mentalidade predominante no Ocidente: a de que tinham a responsabilidade e o direito de interferir na política interna de outros países para moldá-los conforme os ideais de uma democracia liberal bem-sucedida.
 

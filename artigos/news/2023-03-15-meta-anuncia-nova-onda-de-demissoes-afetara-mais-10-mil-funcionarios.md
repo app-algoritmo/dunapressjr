@@ -1,11 +1,12 @@
 ---
-title: "Meta anuncia nova onda de demissões: afetará mais 10 mil funcionários"
+title: 'Meta anuncia nova onda de demissões: afetará mais 10 mil funcionários'
 date: 2023-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A empresa de tecnologia Meta -dona do [Facebook, Instagram](https://www.infobae.com/tecno/2023/03/14/instagram-y-facebook-ya-no-aceptaran-nft/) e WhatsApp- anunciou nesta terça-feira que vai cortar mais 10.000 empregos nos próximos meses e abandonar os planos de preencher cerca de 5.000 vagas que tinha abrir.
 

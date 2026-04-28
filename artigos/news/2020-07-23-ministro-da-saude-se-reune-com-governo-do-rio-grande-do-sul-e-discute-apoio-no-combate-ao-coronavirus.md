@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Saúde se reúne com governo do Rio Grande do Sul e discute apoio no combate ao coronavírus"
+title: Ministro da Saúde se reúne com governo do Rio Grande do Sul e discute apoio
+  no combate ao coronavírus
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal e os governos dos estados seguem unindo esforços para combater a pandemia do novo coronavírus. Nesta terça-feira (21), o ministro interino da Saúde, Eduardo Pazuello, foi até o Rio Grande do Sul para tratar das ações conjuntas de enfrentamento à doença. O ministro explicou que o governo fez um levantamento para saber o que tem funcionado no combate à doença. “Viemos trazer o que temos de mais efetivo, o que funcionou e o que não funcionou em outras partes do País”, disse.
 

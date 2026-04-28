@@ -1,12 +1,13 @@
 ---
-title: "Cólica Menstrual: Fisiopatologia e Opções de Tratamento"
+title: 'Cólica Menstrual: Fisiopatologia e Opções de Tratamento'
 date: 2024-08-22
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Lifestyle
-  - Magazine
+- Lifestyle
+- Magazine
 ---
+
 
 A cólica menstrual, ou dismenorreia, afeta milhões de mulheres em todo o mundo, comprometendo a qualidade de vida durante o ciclo menstrual. Este artigo revisa os mecanismos fisiológicos da cólica menstrual, discute o uso de anticoncepcionais hormonais como uma forma eficaz de tratamento, e explora alternativas naturais que podem ser utilizadas para aliviar a dor, oferecendo uma visão abrangente e baseada em evidências das opções disponíveis.
 

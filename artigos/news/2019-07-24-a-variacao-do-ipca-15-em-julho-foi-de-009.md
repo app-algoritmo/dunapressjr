@@ -1,11 +1,12 @@
 ---
-title: "A variação do IPCA-15 em julho foi de 0,09%"
+title: A variação do IPCA-15 em julho foi de 0,09%
 date: 2019-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O IBGE divulgou no dia 23 de Julho de 2019 a variação do índice de preço médio ao consumidor
 

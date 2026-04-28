@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei isenta de Imposto de Renda a participação nos lucros destinada a empregados"
+title: Projeto de Lei isenta de Imposto de Renda a participação nos lucros destinada
+  a empregados
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 581/19 isenta os trabalhadores de Imposto de Renda (IR) sobre lucros ou resultados das empresas. O texto em análise na Câmara dos Deputados altera a [Lei de Participação nos Lucros das Empresas](https://www2.camara.leg.br/legin/fed/lei/2000/lei-10101-19-dezembro-2000-353953-norma-pl.html) para conferir aos empregados o mesmo tratamento fiscal dado a sócios e acionistas no momento da distribuição de lucros ou dividendos.
 

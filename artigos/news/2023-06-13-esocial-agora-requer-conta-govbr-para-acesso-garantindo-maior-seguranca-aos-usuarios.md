@@ -1,11 +1,13 @@
 ---
-title: "ESocial agora requer Conta Gov.br para acesso, garantindo maior segurança aos usuários"
+title: ESocial agora requer Conta Gov.br para acesso, garantindo maior segurança aos
+  usuários
 date: 2023-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empregadores e empregados devem se ajustar às novas regras de acesso ao sistema eletrônico de informações trabalhistas, previdenciárias e fiscais.
 

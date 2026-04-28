@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, uma arma perfeita para ditadores, PR Bolsonaro veta artigos do PL 1179/2020"
+title: Coronavírus, uma arma perfeita para ditadores, PR Bolsonaro veta artigos do
+  PL 1179/2020
 date: 2020-06-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Bolsonaro veta artigos que davam poderes aos síndicos de restringir a utilização de áreas comuns.
 

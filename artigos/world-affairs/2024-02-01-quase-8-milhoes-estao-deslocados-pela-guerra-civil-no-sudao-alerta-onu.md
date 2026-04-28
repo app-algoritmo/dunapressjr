@@ -1,11 +1,12 @@
 ---
-title: "Quase 8 milhões estão deslocados pela guerra civil no Sudão, alerta ONU"
+title: Quase 8 milhões estão deslocados pela guerra civil no Sudão, alerta ONU
 date: 2024-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Quase 8 milhões de pessoas foram deslocadas devido aos combates entre o Exército e os paramilitares no Sudão, um país atingido por mais de nove meses de combates entre dois generais rivais que levaram à quarta guerra civil da sua história, informou o Alto Comissário das Nações Unidas para a Refugiados, Filippo Grandi.
 

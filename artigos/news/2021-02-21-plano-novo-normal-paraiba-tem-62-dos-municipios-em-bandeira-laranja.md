@@ -1,11 +1,12 @@
 ---
-title: "Plano Novo Normal: Paraíba tem 62% dos municípios em bandeira laranja"
+title: 'Plano Novo Normal: Paraíba tem 62% dos municípios em bandeira laranja'
 date: 2021-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A avaliação mais recente do Plano Novo Normal com a análise situacional da pandemia da Covid-19 no Estado, divulgada neste sábado (20), mostra que houve um aumento significativo na quantidade de municípios que transitaram para as classificações mais restritivas. De acordo com esse 19º levantamento, 99% dos municípios paraibanos figuram nas bandeiras amarela, laranja e vermelha – esta última aumenta as restrições de mobilidade nos locais classificados. As bandeiras levam em conta indicadores como: percentual de novos casos, letalidade (óbitos), ocupação da rede hospitalar da região e percentual de isolamento social. Baía da Traição é o único dos 223 municípios paraibanos que está em bandeira verde. 
 

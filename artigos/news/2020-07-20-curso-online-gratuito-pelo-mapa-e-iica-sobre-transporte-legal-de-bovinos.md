@@ -1,11 +1,12 @@
 ---
-title: "Curso online gratuito pelo Mapa e IICA sobre transporte legal de bovinos"
+title: Curso online gratuito pelo Mapa e IICA sobre transporte legal de bovinos
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e o Instituto Interamericano de Cooperação para a Agricultura (IICA), estão oferecendo gratuitamente o curso online sobre o tema transporte legal de bovinos. O curso já está disponível [neste link](https://elearning.iica.int/mod/page/view.php?id=9598) e as pessoas podem estudar no próprio ritmo. 
 

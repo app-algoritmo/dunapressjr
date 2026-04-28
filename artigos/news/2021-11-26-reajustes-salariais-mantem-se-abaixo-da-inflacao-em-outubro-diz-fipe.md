@@ -1,11 +1,12 @@
 ---
-title: "Reajustes salariais mantêm-se abaixo da inflação em outubro, diz Fipe"
+title: Reajustes salariais mantêm-se abaixo da inflação em outubro, diz Fipe
 date: 2021-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São Paulo e Minas concentram maioria dos acordos negociados.
 

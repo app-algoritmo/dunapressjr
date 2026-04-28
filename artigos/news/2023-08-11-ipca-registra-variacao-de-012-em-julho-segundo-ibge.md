@@ -1,11 +1,12 @@
 ---
-title: "IPCA registra variação de 0,12% em julho, segundo IBGE"
+title: IPCA registra variação de 0,12% em julho, segundo IBGE
 date: 2023-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice foi impulsionado por aumentos nos preços de transportes e variações em grupos como habitação e alimentação.
 

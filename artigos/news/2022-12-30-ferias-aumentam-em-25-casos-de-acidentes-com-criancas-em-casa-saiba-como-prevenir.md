@@ -1,11 +1,13 @@
 ---
-title: "Férias aumentam em 25% casos de acidentes com crianças em casa. Saiba como prevenir"
+title: Férias aumentam em 25% casos de acidentes com crianças em casa. Saiba como
+  prevenir
 date: 2022-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O período de férias escolares para as crianças que estão em casa faz com que elas se sintam livres para fazer o que quiserem. Pular, dançar, correr, montar e desmontar brinquedos. Mas também se pendurar em móveis, se aventurar pela cozinha, área de serviço, banheiro... E é aí que moram os perigos.
 

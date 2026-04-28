@@ -1,11 +1,12 @@
 ---
-title: "Dr. Pierre Kory: Catástrofe de armas biológicas CV19 é assassinato"
+title: 'Dr. Pierre Kory: Catástrofe de armas biológicas CV19 é assassinato'
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O especialista CV19 de renome mundial em medicina intensiva e medicina pulmonar, Dr. Pierre Kory agora dirige uma prática em tempo integral para lesões causadas pela vacina CV19. 
 

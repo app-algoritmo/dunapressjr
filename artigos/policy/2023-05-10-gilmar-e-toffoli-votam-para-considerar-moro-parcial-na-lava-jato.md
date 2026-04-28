@@ -1,11 +1,12 @@
 ---
-title: "Gilmar e Toffoli votam para considerar Moro parcial na Lava Jato"
+title: Gilmar e Toffoli votam para considerar Moro parcial na Lava Jato
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tese, no entanto, não saiu vencedora na votação na Segunda Turma.
 

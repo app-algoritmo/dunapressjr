@@ -1,11 +1,12 @@
 ---
-title: "Copom mantém juros básicos da economia em 2% ao ano"
+title: Copom mantém juros básicos da economia em 2% ao ano
 date: 2020-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar de alta da inflação, Selic permanece no menor nível da história.
 

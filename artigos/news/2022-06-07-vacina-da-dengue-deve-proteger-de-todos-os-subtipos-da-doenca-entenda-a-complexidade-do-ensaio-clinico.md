@@ -1,11 +1,13 @@
 ---
-title: "Vacina da dengue deve proteger de todos os subtipos da doença; entenda a complexidade do ensaio clínico"
+title: Vacina da dengue deve proteger de todos os subtipos da doença; entenda a complexidade
+  do ensaio clínico
 date: 2022-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A vacina tetravalente contra a dengue do Instituto Butantan começou a ser desenvolvida há mais de dez anos, a partir de uma parceria com o Instituto Nacional de Alergia e Doenças Infecciosas dos Estados Unidos (NIADI) – responsável por atenuar os quatro tipos de vírus da dengue e enviá-los ao Butantan para a produção do imunizante. Após se mostrar segura e imunogênica nas primeiras fases dos ensaios clínicos, a vacina já foi administrada em mais de 16 mil pessoas na fase 3 e está na [reta final da pesquisa](https://butantan.gov.br/noticias/vacina-contra-a-dengue-desenvolvida-pelo-butantan-entra-na-reta-final-de-estudos-clinicos). Mas por que ela ainda não chegou aos braços da população?
 

@@ -1,11 +1,12 @@
 ---
-title: "Mais médicos em todo o mundo estão pedindo que as injeções sejam descontinuadas"
+title: Mais médicos em todo o mundo estão pedindo que as injeções sejam descontinuadas
 date: 2023-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## “COVID-19” e “Fauci” estão na moda no Twitter ultimamente. E quando você clica nessas hashtags, não recebe mensagens regurgitadas do governo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão denuncia continuidade de violação de direitos dos presos do 8 de janeiro"
+title: Girão denuncia continuidade de violação de direitos dos presos do 8 de janeiro
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) destacou, em pronunciamento na quarta-feira (6), ter participado de audiência pública na Câmara dos Deputados sobre as violações de direitos dos presos após os atos antidemocráticos de 8 de janeiro em Brasília. O parlamentar criticou o fato de muitos detidos pela invasão às sedes dos três Poderes ainda estarem em prisão preventiva e afirmou que o caso é um “desrespeito flagrante ao direito à ampla defesa, ao contraditório e ao devido processo legal do país”.
 

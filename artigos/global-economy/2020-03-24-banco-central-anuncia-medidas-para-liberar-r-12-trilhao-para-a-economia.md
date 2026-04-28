@@ -1,11 +1,12 @@
 ---
-title: "Banco Central anuncia  medidas para liberar R$ 1,2 trilhão para a economia"
+title: Banco Central anuncia  medidas para liberar R$ 1,2 trilhão para a economia
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em mais uma medida para combater os efeitos do coronavírus na economia, o Banco Central lançou um conjunto de medidas que aumentará a liquidez do Sistema Financeiro Nacional (SFN) em R$ 1,2 trilhão. O objetivo é garantir que as instituições financeiras tenham recursos para atender às demandas do mercado. Além disso, as medidas de liberação de capital geram um potencial de expansão de R$ 1,16 trilhão no volume de crédito da economia. De acordo com a instituição financeira, isso dá segurança ao sistema para que as instituições financeiras mantenham e ampliem seus planos de concessões de crédito.
 

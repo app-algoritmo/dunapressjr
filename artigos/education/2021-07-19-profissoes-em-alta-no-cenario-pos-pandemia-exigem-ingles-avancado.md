@@ -1,11 +1,12 @@
 ---
-title: "Profissões em alta no cenário pós-pandemia exigem inglês avançado"
+title: Profissões em alta no cenário pós-pandemia exigem inglês avançado
 date: 2021-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Com a pandemia, o mercado de trabalho passou por uma reformulação que alterou aspectos como empregabilidade e remuneração de muitas profissões. As transformações no modo de vida, de consumo e na forma de fazer negócios fizeram com que a lista de carreiras em alta e com maior demanda para o pós-pandemia fosse alterada. Áreas de saúde, tecnologia e criação de conteúdo estão entre as que viram as oportunidades aumentarem, mesmo em um cenário incerto e de crescente desemprego. O que não mudou, em relação ao mercado de trabalho, foi um aspecto que antes da pandemia já era considerado fundamental para qualquer profissional interessado em alcançar uma boa colocação: a exigência de Inglês avançado e fluente.
 

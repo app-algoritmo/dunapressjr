@@ -1,11 +1,12 @@
 ---
-title: "Regina Duarte toma posse hoje na Secretaria Especial da Cultura em Brasília"
+title: Regina Duarte toma posse hoje na Secretaria Especial da Cultura em Brasília
 date: 2020-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 *A cerimônia de posse está marcada para as 11 horas desta quarta-feira, no Palácio do Planalto.  *
 

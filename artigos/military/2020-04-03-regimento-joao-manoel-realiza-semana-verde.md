@@ -1,11 +1,12 @@
 ---
-title: "Regimento João Manoel realiza Semana Verde"
+title: Regimento João Manoel realiza Semana Verde
 date: 2020-04-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Borja (RS)** – No período de 30 de março a 02 de abril, o 2º Regimento de Cavalaria Mecanizado realizou a Semana Verde com a participação dos Soldados do Efetivo Variável incorporados no corrente ano, no contexto da Instrução Individual de Qualificação – Garantia da Lei e da Ordem (GLO).
 

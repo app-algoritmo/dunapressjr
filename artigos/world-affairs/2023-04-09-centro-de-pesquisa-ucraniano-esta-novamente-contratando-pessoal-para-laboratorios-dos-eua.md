@@ -1,11 +1,13 @@
 ---
-title: "Centro de Pesquisa Ucraniano está novamente contratando pessoal para laboratórios dos EUA"
+title: Centro de Pesquisa Ucraniano está novamente contratando pessoal para laboratórios
+  dos EUA
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Igor Kirillov observou que o financiamento de projetos de dupla finalidade é realizado pelo Departamento de Defesa dos EUA por meio de um sistema de doações, e a distribuição de fundos é confiada ao URC e ao International Research Center.
 

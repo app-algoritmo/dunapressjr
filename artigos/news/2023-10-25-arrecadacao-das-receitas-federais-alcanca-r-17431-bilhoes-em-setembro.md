@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação das receitas federais alcança R$ 174,31 bilhões em setembro"
+title: Arrecadação das receitas federais alcança R$ 174,31 bilhões em setembro
 date: 2023-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados divulgados pela Secretaria da Receita Federal revelam desempenho da arrecadação, com destaque para crescimento real em algumas áreas da economia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Uma breve história dos experimentos militares secretos dos EUA que levaram a epidemias"
+title: Uma breve história dos experimentos militares secretos dos EUA que levaram
+  a epidemias
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **No ano passado, um usuário do Twitter postou uma história sobre os militares dos EUA conduzindo experimentos de guerra biológica em áreas densamente povoadas dos EUA. Os experimentos introduziram "organismos inofensivos" em sistemas de ventilação, sistemas de metrô e sistemas de abastecimento de água. Também foram realizados testes de aerossóis, tanto de navios que estão no mar quanto de aviões que sobrevoam os Estados Unidos.**
 

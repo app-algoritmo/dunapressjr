@@ -1,11 +1,12 @@
 ---
-title: "Acordo nos EUA: Fronteira Sul, Financiamento Estrangeiro e Compromissos Questionáveis"
+title: 'Acordo nos EUA: Fronteira Sul, Financiamento Estrangeiro e Compromissos Questionáveis'
 date: 2024-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **O "Compromisso" na Fronteira Sul:**
 O novo projeto de lei apresenta um cenário peculiar, descrevendo-o como uma "cessão" da Administração Biden para evitar uma invasão pela fronteira sul. Ele concede nova autoridade de emergência ao Departamento de Segurança Interna (DHS) para restringir a passagem de fronteira com base em encontros diários, atingindo a marca de 4.000 em média por semana. Se este limite for ultrapassado, o secretário do DHS pode fechar a fronteira, negando a solicitação de asilo a imigrantes ilegais. O fechamento torna-se obrigatório se a média atingir 5.000 encontros diários durante uma semana.

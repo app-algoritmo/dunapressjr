@@ -1,11 +1,12 @@
 ---
-title: "Ipea prevê crescimento maior do PIB do setor agropecuário"
+title: Ipea prevê crescimento maior do PIB do setor agropecuário
 date: 2020-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estimativa com base no IBGE passou de 3,2% para 3,4%
 

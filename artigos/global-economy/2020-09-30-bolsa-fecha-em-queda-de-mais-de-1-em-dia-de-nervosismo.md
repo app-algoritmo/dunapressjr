@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha em queda de mais de 1% em dia de nervosismo"
+title: Bolsa fecha em queda de mais de 1% em dia de nervosismo
 date: 2020-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar alcançou R$ 5,68, mas fechou perto da estabilidade.
 

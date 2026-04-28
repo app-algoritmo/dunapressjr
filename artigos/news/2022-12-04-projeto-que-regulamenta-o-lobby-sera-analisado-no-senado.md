@@ -1,11 +1,12 @@
 ---
-title: "Projeto que regulamenta o lobby será analisado no Senado"
+title: Projeto que regulamenta o lobby será analisado no Senado
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O projeto de lei que regulamenta o lobby no país ([PL 1.202/2007](http://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=353631)), de autoria do deputado federal Carlos Zarattini (PT-SP), foi aprovado na última terça-feira (29) na Câmara dos Deputados na forma do substitutivo apresentado pelo deputado federal Lafayette de Andrada (Republicanos-MG). Agora, a proposta será analisada no Senado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão pede o cancelamento de questões do Enem por 'viés tendencioso'"
+title: Girão pede o cancelamento de questões do Enem por 'viés tendencioso'
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) informou que vai encaminhar ao Ministério da Educação (MEC) uma solicitação de anulação de questões da prova do Exame Nacional do Ensino Médio (Enem) de 2023, realizada no último domingo (5). O parlamentar alegou que essas questões carregam um viés ideológico, como em uma referência à primeira mulher trans a participar das Olimpíadas de Tóquio, o que, na opinião dele, é uma apologia ao movimento LGBTQIA+. 
 

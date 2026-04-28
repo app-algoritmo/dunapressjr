@@ -1,11 +1,12 @@
 ---
-title: "Copom interrompe sequência de queda e mantém Selic em 2% ao ano"
+title: Copom interrompe sequência de queda e mantém Selic em 2% ao ano
 date: 2020-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice se mantém no menor nível desde o início da série histórica.
 

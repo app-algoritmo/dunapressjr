@@ -1,11 +1,12 @@
 ---
-title: "Câncer de boca: pesquisadora desenvolve novos métodos de diagnostico precoce"
+title: 'Câncer de boca: pesquisadora desenvolve novos métodos de diagnostico precoce'
 date: 2021-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Bacharel em Ciências Biológicas, Paola Fernandes Pansini é mestre em Biotecnologia pela Universidade Federal do Espírito Santo (UFES) e doutora em Biotecnologia pelo Programa de Pós-graduação em Biotecnologia da Rede Nordeste de Biotecnologia (Renorbio) – Universidade Federal do Espírito Santo. Em sua trajetória acadêmica, ela desenvolveu projetos para aplicação de marcadores moleculares em câncer de cabeça e pescoço, para a detecção precoce da doença. Recentemente, a ex-bolsista da CAPES publicou artigo no Periódico Internacional *Head and Neck Pathology*, onde fala sobre o carcinoma epidermóide oral, variedade de câncer de boca mais comum em pessoas com mais de 60 anos e do sexo masculino.
 

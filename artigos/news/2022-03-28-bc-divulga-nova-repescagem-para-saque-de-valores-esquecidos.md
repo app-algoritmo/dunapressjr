@@ -1,11 +1,12 @@
 ---
-title: "BC divulga nova repescagem para saque de valores esquecidos"
+title: BC divulga nova repescagem para saque de valores esquecidos
 date: 2022-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### De hoje a 16 de abril, quem não retirou terá novas datas.
 

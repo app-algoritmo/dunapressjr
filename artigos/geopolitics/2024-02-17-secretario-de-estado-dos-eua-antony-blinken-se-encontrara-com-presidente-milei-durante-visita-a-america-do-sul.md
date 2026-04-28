@@ -1,11 +1,13 @@
 ---
-title: "Secretário de Estado dos EUA, Antony Blinken, se encontrará com Presidente Milei durante visita à América do Sul"
+title: Secretário de Estado dos EUA, Antony Blinken, se encontrará com Presidente
+  Milei durante visita à América do Sul
 date: 2024-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Departamento de Estado dos Estados Unidos anunciou que o Secretário de Estado, Antony Blinken, realizará uma visita à América do Sul na próxima semana, como parte de sua agenda diplomática. A viagem incluirá paradas em Brasília, Rio de Janeiro e Buenos Aires, onde Blinken se encontrará com líderes regionais, incluindo o Presidente da Argentina, Javier Milei.
 

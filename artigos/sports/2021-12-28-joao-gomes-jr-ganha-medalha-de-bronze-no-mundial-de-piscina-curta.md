@@ -1,11 +1,12 @@
 ---
-title: "João Gomes Jr. ganha medalha de bronze no Mundial de Piscina Curta"
+title: João Gomes Jr. ganha medalha de bronze no Mundial de Piscina Curta
 date: 2021-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O nadador João Gomes Jr. encerrou com chave de ouro a temporada de 2021, ganhando uma medalha de bronze no Campeonato Mundial de Piscina Curta (25m) de Abu Dhabi, nos Emirados Árabes. A conquista, no Dia do Atleta, veio ao nadar a final do 50m peito em 25s80. O pódio teve ainda Nic Fink, dos Estados Unidos, e Nicolo Martinenghi, da Itália, na primeira e segunda colocações, com os tempos de 25s53 e 25s55.
 

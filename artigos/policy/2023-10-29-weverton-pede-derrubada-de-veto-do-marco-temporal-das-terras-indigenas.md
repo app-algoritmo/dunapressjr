@@ -1,11 +1,12 @@
 ---
-title: "Weverton pede derrubada de veto do marco temporal das terras indígenas"
+title: Weverton pede derrubada de veto do marco temporal das terras indígenas
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Weverton (PDT-MA) informou que vai votar pela derrubada do veto do presidente Luiz Inácio Lula da Silva à lei que estabeleceria o marco temporal das terras indígenas. O presidente sancionou com 34 vetos a [Lei 14.701](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-20;14701), de 2023, que trata do reconhecimento, demarcação, uso e gestão de terras indígenas. Um dos principais dispositivos vetados é o que estabelecia que os povos indígenas só teriam direito às terras que ocupavam ou reivindicavam em 5 de outubro de 1988, data da promulgação da atual Constituição. O [PL 2.903/2023,](https://www25.senado.leg.br/web/atividade/materias/-/materia/157888) do marco temporal, foi [aprovado pelo Senado em setembro.](/noticias/materias/2023/09/27/aprovado-no-senado-marco-temporal-para-terras-indigenas-segue-para-sancao)
 

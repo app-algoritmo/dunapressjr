@@ -1,11 +1,12 @@
 ---
-title: "Ecoponto em Itajaí, registra aumento de 70% no recebimento de recicláveis"
+title: Ecoponto em Itajaí, registra aumento de 70% no recebimento de recicláveis
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ecoponto de Itajaí registrou 74,93 m³ de resíduos recicláveis entregues pela população em novembro deste ano. O dado representa um recorde no recolhimento de materiais em 2022 e é 70% maior do que o número registrado em outubro (44,04 m³). A iniciativa é uma parceria do Município com a Ambiental.
 

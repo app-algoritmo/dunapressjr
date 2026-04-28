@@ -1,11 +1,12 @@
 ---
-title: "As vítimas da 'vacina' da Covid se tornaram uma nova fonte de doadores de órgãos?"
+title: As vítimas da 'vacina' da Covid se tornaram uma nova fonte de doadores de órgãos?
 date: 2023-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O governo de Jacinda Ardern reagiu emocionalmente à crise e à ciência mal-entendida, resultando em inúmeras mortes relacionadas à vacina. Essas vítimas se tornaram uma nova fonte de doadores de órgãos para transplantes?
 

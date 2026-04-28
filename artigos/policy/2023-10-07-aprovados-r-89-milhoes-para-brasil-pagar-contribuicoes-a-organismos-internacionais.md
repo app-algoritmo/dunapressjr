@@ -1,11 +1,12 @@
 ---
-title: "Aprovados R$ 89 milhões para Brasil pagar contribuições a organismos internacionais"
+title: Aprovados R$ 89 milhões para Brasil pagar contribuições a organismos internacionais
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em sessão conjunta nesta quarta-feira (4), o Congresso Nacional aprovou projeto do Poder Executivo que abre crédito especial de R$ 89,3 milhões no Orçamento deste ano para que o Brasil pague contribuições devidas a organismos internacionais. O [PLN 15/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/158736) segue para sanção.
 

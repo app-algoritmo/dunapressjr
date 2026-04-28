@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo sobre doses de reforço mostra dado preocupante"
+title: Novo estudo sobre doses de reforço mostra dado preocupante
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Danos cardíacos ocorrem com muito mais frequência após as vacinações de reforço do que se pensava anteriormente. Em um hospital suíço, um em cada 35 funcionários apresentou sinais de danos cardíacos após uma injeção de reforço.
 

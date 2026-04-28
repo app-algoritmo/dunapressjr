@@ -1,11 +1,12 @@
 ---
-title: "Aprovado congelamento de salários do setor público"
+title: Aprovado congelamento de salários do setor público
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A aprovação do congelamento de salários dos servidores públicos municipais, estaduais e federais e dos membros dos três Poderes até dezembro de 2021 foi um dos pontos mais discutidos entre os senadores, neste sábado (2), na votação do substitutivo aos Projetos de Lei Complementar (PLPs) 149/2019 e 39/2020. O texto estabelece a compensação a estados e municípios pela perda de arrecadação provocada pela pandemia de coronavírus.
 

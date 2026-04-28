@@ -1,11 +1,12 @@
 ---
-title: "Concurso literário 'Magos e Dragões'"
+title: Concurso literário 'Magos e Dragões'
 date: 2024-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 Preparem-se para uma jornada épica que transcenderá os limites do imaginável! A DragonStone Books, tem a grande honra de anunciar a coletânea antológica de contos de fantasia medieval, intitulada "Magos e Dragões."
 

@@ -1,11 +1,12 @@
 ---
-title: "Eletrobras anuncia lucro de R$ 2,7 bilhões no primeiro trimestre"
+title: Eletrobras anuncia lucro de R$ 2,7 bilhões no primeiro trimestre
 date: 2022-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado foi gerado por redução de custos e contratos bilaterais.
 

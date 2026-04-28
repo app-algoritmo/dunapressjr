@@ -1,11 +1,12 @@
 ---
-title: "A tripla ameaça do coronavírus"
+title: A tripla ameaça do coronavírus
 date: 2021-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Um novo estudo expõe como o SARS-CoV-2 interfere no hardware da célula para enganar o sistema imunológico.
 

@@ -1,11 +1,12 @@
 ---
-title: "A parábola de Platão e o professor universitário"
+title: A parábola de Platão e o professor universitário
 date: 2021-08-20
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **UMA VIAGEM NO TEMPO, PARA O FUTURO, É DESAPONTANTE POR CONSTATAR INCOERÊNCIAS, HIPOCRISIAS E INVOLUÇÕES DO PENSAMENTO DA MAIORIA**
 

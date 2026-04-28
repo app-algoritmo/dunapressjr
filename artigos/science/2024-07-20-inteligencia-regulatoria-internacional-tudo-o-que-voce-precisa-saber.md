@@ -1,12 +1,13 @@
 ---
-title: "Inteligência Regulatória Internacional: Tudo o que Você Precisa Saber"
+title: 'Inteligência Regulatória Internacional: Tudo o que Você Precisa Saber'
 date: 2024-07-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 A indústria farmacêutica e de dispositivos médicos está em constante evolução, impulsionada por avanços tecnológicos e necessidades de saúde emergentes. Nesse cenário dinâmico, a inteligência regulatória internacional se torna uma ferramenta essencial para garantir que novos produtos cheguem ao mercado de maneira segura, eficaz e conforme as regulamentações. Este artigo explora a importância, os benefícios e os serviços envolvidos na inteligência regulatória internacional, destacando como empresas especializadas, como a Sanitary Intelligence, estão transformando o setor.
 

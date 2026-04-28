@@ -1,11 +1,12 @@
 ---
-title: "Crise na segurança pública é analisada de forma equivocada e covarde, diz Kajuru"
+title: Crise na segurança pública é analisada de forma equivocada e covarde, diz Kajuru
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) afirmou que a crise na segurança pública brasileira tem sido analisada de forma “equivocada” e “covarde” contra o governo do presidente Luiz Inácio Lula da Silva. Em pronunciamento nesta terça-feira (31), o parlamentar argumentou que o viés ideológico é um dos “dramas” da avaliação da crise.
 

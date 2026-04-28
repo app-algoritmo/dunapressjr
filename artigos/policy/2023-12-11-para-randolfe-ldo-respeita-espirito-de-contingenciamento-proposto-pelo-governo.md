@@ -1,11 +1,12 @@
 ---
-title: "Para Randolfe, LDO “respeita espírito” de contingenciamento proposto pelo governo"
+title: Para Randolfe, LDO “respeita espírito” de contingenciamento proposto pelo governo
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O líder do Governo no Congresso Nacional, senador Randolfe Rodrigues (Rede-AP), disse nesta quinta-feira (7) que o projeto da Lei de Diretrizes Orçamentárias, a LDO, ([PLN 4/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/156890)) “respeita o espírito” defendido pelo Poder Executivo de limitar o contingenciamento de recursos em 2024 a R$ 23 bilhões. A declaração ocorreu momentos depois de o deputado Danilo Forte (União-CE) entregar o relatório final da LDO à Comissão Mista de Orçamento (CMO).
 

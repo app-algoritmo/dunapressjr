@@ -1,11 +1,12 @@
 ---
-title: "Entra em vigor nesta quarta-feira Plano Safra 2020/2021"
+title: Entra em vigor nesta quarta-feira Plano Safra 2020/2021
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Produtores já podem ter acesso aos R$ 236,3 bilhões disponibilizados pelo governo federal para apoiar a produção agropecuária nacional.
 

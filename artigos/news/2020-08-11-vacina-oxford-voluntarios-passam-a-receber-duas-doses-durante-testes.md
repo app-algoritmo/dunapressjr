@@ -1,11 +1,12 @@
 ---
-title: "Vacina Oxford: voluntários passam a receber duas doses durante testes"
+title: 'Vacina Oxford: voluntários passam a receber duas doses durante testes'
 date: 2020-08-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Anvisa autorizou mudança no protocolo e ampliou a faixa etária dos voluntários que podem participar da pesquisa para até 69 anos.
 

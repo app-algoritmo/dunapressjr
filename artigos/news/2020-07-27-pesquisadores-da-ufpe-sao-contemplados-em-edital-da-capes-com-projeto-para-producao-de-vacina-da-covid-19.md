@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores da UFPE são contemplados em edital da Capes com projeto para produção de vacina da Covid-19"
+title: Pesquisadores da UFPE são contemplados em edital da Capes com projeto para
+  produção de vacina da Covid-19
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto é liderado pelo professor Antônio Carlos de Freitas, do Departamento de Genética.
 

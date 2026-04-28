@@ -1,11 +1,12 @@
 ---
-title: "Esta guerra irá aumentar rapidamente os preços globais dos alimentos"
+title: Esta guerra irá aumentar rapidamente os preços globais dos alimentos
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A única maneira de continuarmos a ter alimentos baratos é se tivermos energia barata. Usamos energia para cultivar, colher, produzir e embalar nossos alimentos. E transportar todos esses alimentos da fazenda para a fábrica e depois para as lojas consome muita energia. É claro que não é apenas o nosso abastecimento alimentar que depende de energia barata. Em última análise, todo o nosso modo de vida se baseia no paradigma da energia barata. Se você retirar a energia barata, tudo muda.
 

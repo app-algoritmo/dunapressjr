@@ -1,11 +1,12 @@
 ---
-title: "Aprovado projeto que flexibiliza remanejamento de recursos do Orçamento"
+title: Aprovado projeto que flexibiliza remanejamento de recursos do Orçamento
 date: 2022-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Congresso aprovou nesta quinta-feira (22) projeto de lei que dá ao governo mais flexibilidade para remanejar recursos que não devem ser executados neste ano por falta de tempo. Originalmente, o [PLN 39/2022](http://www.camara.leg.br/noticias/914211-proposta-amplia-prazo-para-creditos-adicionais-no-orcamento-deste-ano) ampliava o prazo para encaminhamento de projetos de lei de abertura de créditos [suplementares](http://www12.senado.leg.br/pauta/noticias/pauta/noticias/glossario-legislativo/credito-suplementar) e [especiais](http://www12.senado.leg.br/pauta/noticias/glossario-legislativo/credito-especial). O substitutivo aprovado, no entanto, flexibiliza várias regras para possibilitar a aplicação desses recursos.
 

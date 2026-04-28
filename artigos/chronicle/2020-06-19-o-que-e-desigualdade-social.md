@@ -1,11 +1,12 @@
 ---
-title: "O que é desigualdade social?"
+title: O que é desigualdade social?
 date: 2020-06-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Filosofia - Desenvolvimento Humano - Sociedades.
 

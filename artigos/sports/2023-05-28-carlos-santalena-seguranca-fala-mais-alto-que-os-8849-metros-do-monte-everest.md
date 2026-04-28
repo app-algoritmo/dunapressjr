@@ -1,11 +1,12 @@
 ---
-title: "Carlos Santalena: Segurança fala mais alto que os 8.849 metros do Monte Everest"
+title: 'Carlos Santalena: Segurança fala mais alto que os 8.849 metros do Monte Everest'
 date: 2023-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O alpinista Carlos Santalena chega ao Brasil neste sábado (27) após a expedição 2023 do Everest. O recorde ao se tornar o primeiro brasileiro a chegar ao cume pela quarta vez ficou por pouco. A equipe liderada pelo montanhista da Grade6 chegou a 8.200 metros, pouco mais de 500 metros distantes do "teto do mundo", a 8.849m. Pode parecer pouco, mas não é. A segurança dos clientes é a prioridade do guia e em condições extremas, com frio congelante e ar extremamente rarefeito, executar qualquer movimento arriscado nunca é uma opção. Com experiência de 11 anos na montanha mais desafiadora do planeta, Santalena sabe que o mais importante é a jornada.
 

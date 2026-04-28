@@ -1,11 +1,12 @@
 ---
-title: "Ipea projeta crescimento de 3% do PIB em 2021"
+title: Ipea projeta crescimento de 3% do PIB em 2021
 date: 2021-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para 2022, a projeção é de crescimento de 2,8% do PIB.
 

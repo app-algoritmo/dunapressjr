@@ -1,11 +1,12 @@
 ---
-title: "Manutenção preventiva, corretiva e preditiva veicular: qual a diferença?"
+title: 'Manutenção preventiva, corretiva e preditiva veicular: qual a diferença?'
 date: 2022-07-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 Manutenção preventiva, corretiva e preditiva veicular: Qual a diferença? Comprar o carro dos sonhos é apenas o começo, pois para mantê-lo em perfeito desempenho e desacelerar o processo de desgaste é preciso entender quais os tipos de manutenções e suas necessidades. 
 

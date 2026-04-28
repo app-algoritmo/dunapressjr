@@ -1,11 +1,12 @@
 ---
-title: "Hepatites: prevenção e vacinação são essenciais para conter disseminação"
+title: 'Hepatites: prevenção e vacinação são essenciais para conter disseminação'
 date: 2024-07-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mortes causadas pela doença estão aumentando no mundo todo.
 

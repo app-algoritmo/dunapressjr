@@ -1,11 +1,12 @@
 ---
-title: "Petrobras inicia produção no campo de Berbigão, na Bacia de Santos"
+title: Petrobras inicia produção no campo de Berbigão, na Bacia de Santos
 date: 2019-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Plataforma P-68 iniciou nesta quinta-feira (14) a produção
 de petróleo e gás natural do campo de Berbigão, na camada do pré-sal da Bacia

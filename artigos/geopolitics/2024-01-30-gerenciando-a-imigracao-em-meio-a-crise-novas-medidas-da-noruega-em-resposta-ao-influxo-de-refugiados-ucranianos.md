@@ -1,12 +1,14 @@
 ---
-title: "Gerenciando a Imigração em Meio à Crise: Novas Medidas da Noruega em Resposta ao Influxo de Refugiados Ucranianos"
+title: 'Gerenciando a Imigração em Meio à Crise: Novas Medidas da Noruega em Resposta
+  ao Influxo de Refugiados Ucranianos'
 date: 2024-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Tourism and Gastronomy
+- Geopolitics
+- Tourism and Gastronomy
 ---
+
 
 *Oslo, 30 de janeiro de 2024* - À medida que a guerra entre a Rússia e a Ucrânia continua a se desenrolar, a Noruega se encontra na vanguarda do apoio aos refugiados ucranianos. No entanto, o aumento dos números levou o governo norueguês a implementar novas medidas com o objetivo de manter o controle sobre a imigração, ao mesmo tempo em que garante um apoio sustentável aos que buscam refúgio.
 

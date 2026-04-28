@@ -1,11 +1,12 @@
 ---
-title: "RFK Jr. revela o que não está contando sobre os tiroteios em massa"
+title: RFK Jr. revela o que não está contando sobre os tiroteios em massa
 date: 2024-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 No episódio mais recente do podcast de Glenn Beck, o candidato presidencial independente Robert Kennedy Jr. desencadeou uma discussão provocativa que certamente não chegará aos holofotes da grande mídia. Abordando a questão crucial por trás do aumento alarmante dos tiroteios em massa nos Estados Unidos, Kennedy apontou para uma preocupante lacuna na investigação: os Institutos Nacionais de Saúde (NIH) não estão autorizados a buscar respostas. Por quê? Por medo das grandes indústrias farmacêuticas e de alimentos, que poderiam se sentir ameaçadas pela verdade.
 

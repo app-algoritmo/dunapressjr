@@ -1,11 +1,12 @@
 ---
-title: "Como depositar dinheiro no Pixbet?"
+title: Como depositar dinheiro no Pixbet?
 date: 2022-12-19
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Sports
+- Sports
 ---
+
 
 Para depositar dinheiro em uma das melhores sites de apostas do Brasil, acesse o site oficial da betpix. Feito isso, busque pelo ícone de configurações dentro do site e clique em “deposite aqui”. Em seguida, escolha qual modalidade de depósito você deseja, e pronto. 
 

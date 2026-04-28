@@ -1,11 +1,12 @@
 ---
-title: "Fed age para garantir liquidez em fundos mútuos do mercado monetário"
+title: Fed age para garantir liquidez em fundos mútuos do mercado monetário
 date: 2020-03-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em dois dias EUA já lançaram três programas emergenciais
 

@@ -1,11 +1,13 @@
 ---
-title: "Bolsa de valores atinge maior nível desde novembro e dólar cai em dia de otimismo no mercado financeiro"
+title: Bolsa de valores atinge maior nível desde novembro e dólar cai em dia de otimismo
+  no mercado financeiro
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Queda da inflação e cenário internacional favorável impulsionam alta do Ibovespa e valorização do real frente ao dólar.
 

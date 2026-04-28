@@ -1,11 +1,12 @@
 ---
-title: "Férias escolares: como estimular atividade física e afastar crianças das telas"
+title: 'Férias escolares: como estimular atividade física e afastar crianças das telas'
 date: 2022-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o fim do primeiro semestre de aulas, boa parte das crianças volta a passar longos períodos do dia dentro de casa. Durante o período de férias escolares, muitos pais podem achar desafiador manter os pequenos longe das atrativas telas de celulares, notebooks, tablets e da televisão. Mas, por mais que a batalha com os equipamentos eletrônicos seja árdua, é necessário estimular atividades físicas, principalmente ao ar livre, para que crianças e adolescentes se mantenham saudáveis mesmo no período de recesso escolar.
 

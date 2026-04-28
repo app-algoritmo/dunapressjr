@@ -1,11 +1,13 @@
 ---
-title: "Últimos dias para apreciar a exposição do Pequeno Cotolengo, que conta com mais de 100 obras criadas por pessoas com deficiência"
+title: Últimos dias para apreciar a exposição do Pequeno Cotolengo, que conta com
+  mais de 100 obras criadas por pessoas com deficiência
 date: 2024-06-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## As obras estarão disponíveis no Salão de Eventos da UP Experience nos dias 27 e 28 de junho, a entrada é gratuita.
 

@@ -1,11 +1,13 @@
 ---
-title: "Papa bate de frente com culturas e tradições de países livres ao propor pátria grande"
+title: Papa bate de frente com culturas e tradições de países livres ao propor pátria
+  grande
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 De não haver redes sociais, possivelmente o padre chefe da igreja católica  provocaria uma guerra de grandes proporções ao tentar enfrentar-se às idéias de liberdades, tradições e culturas dos países que somente querem saber de pátria grande nas leituras de história por "conhecimento", evitando assim jamais cair no engodo.
 

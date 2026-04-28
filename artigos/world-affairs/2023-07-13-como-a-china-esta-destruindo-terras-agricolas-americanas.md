@@ -1,11 +1,12 @@
 ---
-title: "Como a China está destruindo terras agrícolas americanas"
+title: Como a China está destruindo terras agrícolas americanas
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://www.youtube.com/embed/WsUNylsiDH8?feature=oembed
 

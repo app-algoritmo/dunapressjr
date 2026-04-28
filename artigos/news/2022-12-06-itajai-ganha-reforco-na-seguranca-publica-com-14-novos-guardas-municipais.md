@@ -1,11 +1,12 @@
 ---
-title: "Itajaí ganha reforço na segurança pública com 14 novos guardas municipais"
+title: Itajaí ganha reforço na segurança pública com 14 novos guardas municipais
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A segurança pública de Itajaí tem o reforço de 14 novos guardas municipais. Os agentes realizaram o curso de formação na Universidade Corporativa da Polícia Rodoviária Federal (UniPRF). Os novos integrantes faziam parte do cadastro de reserva do Concurso Público 001/2017 e agora integram o efetivo da Guarda Municipal de Itajaí (GMI), que será composto por 81 agentes.
 

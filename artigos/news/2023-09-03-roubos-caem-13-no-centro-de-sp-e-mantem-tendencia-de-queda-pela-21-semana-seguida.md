@@ -1,11 +1,13 @@
 ---
-title: "Roubos caem 13% no centro de SP e mantêm tendência de queda pela 21ª semana seguida"
+title: Roubos caem 13% no centro de SP e mantêm tendência de queda pela 21ª semana
+  seguida
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## No período analisado, os furtos também caíram.
 

@@ -1,11 +1,13 @@
 ---
-title: "Autoridades dos EUA que se beneficiam da guerra na Ucrânia são nomeadas no Conselho de Segurança da ONU"
+title: Autoridades dos EUA que se beneficiam da guerra na Ucrânia são nomeadas no
+  Conselho de Segurança da ONU
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Max Blumenthal, fundador e editor-chefe do The Grayzone, dirigiu-se ao Conselho de Segurança da ONU sobre o papel da ajuda militar dos EUA à Ucrânia na escalada do conflito com a Rússia e os reais motivos por trás do apoio de Washington à guerra por procuração em Kiev.
 

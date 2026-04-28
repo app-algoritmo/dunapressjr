@@ -1,11 +1,12 @@
 ---
-title: "Plenário do STF reverte condenação de ex-deputado Paulinho da Força"
+title: Plenário do STF reverte condenação de ex-deputado Paulinho da Força
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ele tinha sido condenado a 10 anos e 2 meses de prisão.
 

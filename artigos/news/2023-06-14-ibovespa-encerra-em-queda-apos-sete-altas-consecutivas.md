@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa encerra em queda após sete altas consecutivas"
+title: Ibovespa encerra em queda após sete altas consecutivas
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice brasileiro é impactado por dados de inflação nos EUA, enquanto ações da Prio se destacam positivamente
 

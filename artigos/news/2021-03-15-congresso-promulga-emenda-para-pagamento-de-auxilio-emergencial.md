@@ -1,11 +1,12 @@
 ---
-title: "Congresso promulga emenda para pagamento de auxílio emergencial"
+title: Congresso promulga emenda para pagamento de auxílio emergencial
 date: 2021-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão do governo é oferecer mais quatro parcelas este ano.
 

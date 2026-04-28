@@ -1,11 +1,12 @@
 ---
-title: "Impactos negativos da covid-19 nas empresas diminuíram em agosto"
+title: Impactos negativos da covid-19 nas empresas diminuíram em agosto
 date: 2020-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresas de todos os portes relataram a melhora na percepção, diz IBGE.
 

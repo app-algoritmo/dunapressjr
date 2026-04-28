@@ -1,11 +1,12 @@
 ---
-title: "Orçamento é aprovado com dinheiro extra para programas sociais e infraestrutura"
+title: Orçamento é aprovado com dinheiro extra para programas sociais e infraestrutura
 date: 2022-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Senadores e deputados federais aprovaram, nesta quinta-feira (22), em sessão do Congresso Nacional, o Orçamento Público para 2023 ([PLN 32/2022](http://www.congressonacional.leg.br/materias/pesquisa/-/materia/154644)). O texto garante dinheiro extra para o pagamento do Bolsa Família de R$ 600 durante todo o ano que vem, para investimentos sociais (como o programa Farmácia Popular e o de merenda escolar) e investimentos em infraestrutura, em especial nas áreas de transporte e habitação popular. 
 

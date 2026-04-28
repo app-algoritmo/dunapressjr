@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova acordo de adesão do Brasil à Organização Europeia para Pesquisa Nuclear"
+title: Câmara aprova acordo de adesão do Brasil à Organização Europeia para Pesquisa
+  Nuclear
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Brasil poderá se tornar membro associado da organização, conhecida pela sigla Cern.
 

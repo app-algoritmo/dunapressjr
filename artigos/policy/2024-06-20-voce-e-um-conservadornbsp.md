@@ -1,11 +1,12 @@
 ---
-title: "Você é um Conservador?&nbsp;"
+title: Você é um Conservador?&nbsp;
 date: 2024-06-20
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Já se fez essa pergunta? A resposta pode estar no exemplo da Inglaterra, que tem um partido conservador que nada não está alinhado às demandas da sociedade britânica, que se considera conservadora, e encontrou abrigo para suas ideias no recém criado partido “Reform UK”, cujo nome já prenuncia sua proposta: reformar o Estado, mudar o sistema. 
 

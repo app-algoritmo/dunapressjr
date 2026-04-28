@@ -1,11 +1,13 @@
 ---
-title: "Copa do Mundo da Vela: Brasil domina regatas da SSL Gold Cup e assume a ponta nas quartas-de-final"
+title: 'Copa do Mundo da Vela: Brasil domina regatas da SSL Gold Cup e assume a ponta
+  nas quartas-de-final'
 date: 2023-11-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Equipe comandada por Robert Scheidt venceu as duas regatas do dia nas Ilhabas Canárias, na Espanha.
 

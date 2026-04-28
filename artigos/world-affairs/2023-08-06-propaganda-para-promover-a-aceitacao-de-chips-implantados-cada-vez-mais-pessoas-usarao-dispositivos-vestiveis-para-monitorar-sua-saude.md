@@ -1,11 +1,13 @@
 ---
-title: "Propaganda para promover a aceitação de chips implantados: “Cada vez mais pessoas usarão dispositivos vestíveis para monitorar sua saúde”"
+title: 'Propaganda para promover a aceitação de chips implantados: “Cada vez mais
+  pessoas usarão dispositivos vestíveis para monitorar sua saúde”'
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com a agência Xinhua, a expectativa de vida humana deve aumentar para 120 anos em algumas décadas, graças a novas tecnologias, como inteligência artificial (IA) e lições aprendidas com a pandemia do COVID-19, informou a televisão sueca (SVT) Agerpres no domingo .
 

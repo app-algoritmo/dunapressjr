@@ -1,11 +1,12 @@
 ---
-title: "OMS planeja outra 'simulação' de pandemia"
+title: OMS planeja outra 'simulação' de pandemia
 date: 2023-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *A OMS é um rolo compressor da tirania e da ditadura científica, também conhecida como tecnocracia. A “pandemia” do COVID-19 serviu para desencadear o “Grande Pânico de 2020” e abrir caminho para injeções em massa de material genético consistente com a chamada Quarta Revolução Industrial que Klaus Schwab elogiou. "Vai mudar VOCÊ". O transumanismo está aqui e finalmente chegou.⁃ Editor TN*
 

@@ -1,11 +1,12 @@
 ---
-title: "Ponto de Contato Nacional para Diretrizes da OCDE passa por avaliação"
+title: Ponto de Contato Nacional para Diretrizes da OCDE passa por avaliação
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cumprimento de recomendações às empresas multinacionais é um dos principais itens avaliados pela Organização; revisão vai contribuir para acessão do Brasil.
 

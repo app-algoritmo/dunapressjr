@@ -1,11 +1,13 @@
 ---
-title: "Biden está se preparando para declarar uma 'emergência climática semelhante a uma pandemia'"
+title: Biden está se preparando para declarar uma 'emergência climática semelhante
+  a uma pandemia'
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 ## As empresas de energia temem que a Casa Branca de Biden esteja planejando declarar um estado de emergência semelhante a uma pandemia que daria ao presidente novos poderes.
 

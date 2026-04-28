@@ -1,11 +1,12 @@
 ---
-title: "Segundo estudos, pessoas com sangue tipo O são mais protegidas contra COVID-19"
+title: Segundo estudos, pessoas com sangue tipo O são mais protegidas contra COVID-19
 date: 2020-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Se uma pessoa com sangue do tipo A transmite o vírus para uma pessoa com sangue do tipo O, a pessoa do tipo O terá anticorpos que podem combater o vírus.
 

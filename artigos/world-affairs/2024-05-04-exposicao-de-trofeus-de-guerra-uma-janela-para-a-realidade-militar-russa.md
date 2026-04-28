@@ -1,11 +1,12 @@
 ---
-title: "Exposição de Troféus de Guerra: Uma Janela para a Realidade Militar Russa"
+title: 'Exposição de Troféus de Guerra: Uma Janela para a Realidade Militar Russa'
 date: 2024-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma exposição singular de armas e equipamentos militares capturados pelas forças armadas russas durante uma operação especial foi revelada ao público no Parque da Vitória, em Moscou, na icônica Colina Poklonnaya. A inauguração, que ocorreu na quarta-feira passada, não apenas ofereceu uma visão fascinante do arsenal estrangeiro, mas também destacou a determinação e capacidade das tropas russas.
 

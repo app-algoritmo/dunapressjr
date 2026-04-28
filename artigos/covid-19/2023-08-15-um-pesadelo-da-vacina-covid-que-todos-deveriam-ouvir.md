@@ -1,11 +1,12 @@
 ---
-title: "Um pesadelo da vacina Covid que todos deveriam ouvir"
+title: Um pesadelo da vacina Covid que todos deveriam ouvir
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Uma tragédia silenciosa de proporções épicas está se desenrolando em nosso país. É mantido em segredo porque a mídia se recusa a reconhecer as conexões.
 

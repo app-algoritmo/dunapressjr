@@ -1,11 +1,13 @@
 ---
-title: "Especialistas divergem sobre possibilidade de a Justiça do Trabalho julgar crimes"
+title: Especialistas divergem sobre possibilidade de a Justiça do Trabalho julgar
+  crimes
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Projeto em discussão na Câmara prevê o crime de demissão por motivo ideológico, a ser julgado na Justiça do Trabalho.
 

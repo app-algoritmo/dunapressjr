@@ -1,11 +1,12 @@
 ---
-title: "FBI prende suspeito de divulgar documentos secretos nos EUA"
+title: FBI prende suspeito de divulgar documentos secretos nos EUA
 date: 2023-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Jovem de 21 anos teria compartilhado informações classificadas com objetivo de impressionar outros jovens na plataforma Discord.
 

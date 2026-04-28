@@ -1,11 +1,12 @@
 ---
-title: "Pfizer confirma o que muitos já suspeitavam"
+title: Pfizer confirma o que muitos já suspeitavam
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Uma importante reunião ocorreu no Parlamento australiano na semana passada, quase despercebida. Faltando cinco minutos para o fim, o senador Gerard Rennick foi autorizado a fazer a pergunta final. O que se seguiu foi talvez a revelação mais sensacional do drama Corona até hoje.
 

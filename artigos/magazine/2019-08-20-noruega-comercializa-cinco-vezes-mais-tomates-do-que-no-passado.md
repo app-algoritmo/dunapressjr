@@ -1,11 +1,12 @@
 ---
-title: "Noruega comercializa cinco vezes mais tomates do que no passado"
+title: Noruega comercializa cinco vezes mais tomates do que no passado
 date: 2019-08-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Hoje, os noruegueses comem muito mais tomates do que há 25 anos atrás, isso após grandes esforços de pesquisadores, fabricantes e lojas, o volume de negócios de tomates aumentou de menos de 5 quilos de tomates por pessoa por ano - para entre 15 e 20 quilos. Os noruegueses comercializam cinco vezes mais tomates do que quando a pesquisa começou.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trump foi vítima da propaganda pela ação&nbsp;"
+title: Trump foi vítima da propaganda pela ação&nbsp;
 date: 2024-07-23
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Um movimento anarquista foi criado no século 19 para pregar o que chamamos de “propaganda pelo feito”. É uma ação política direta, específica e destinada a ser exemplar.  Na época, foi um catalisador para a revolução e hoje serve ao discurso de combater os “reacionários e contrarrevolucionários”. 
 

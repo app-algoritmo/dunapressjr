@@ -1,11 +1,12 @@
 ---
-title: "“Câncer Turbo” e as vacinas da Covid"
+title: “Câncer Turbo” e as vacinas da Covid
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **A história em resumo**
 

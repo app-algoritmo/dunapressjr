@@ -1,11 +1,12 @@
 ---
-title: "Dia dos Pais com saúde em dia: família é aliada nos cuidados de rotina"
+title: 'Dia dos Pais com saúde em dia: família é aliada nos cuidados de rotina'
 date: 2023-08-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Para cada homem que busca um médico especializado, há seis mulheres que mantêm rotina ginecológica; saiba quais exames necessários em cada etapa da vida.
 

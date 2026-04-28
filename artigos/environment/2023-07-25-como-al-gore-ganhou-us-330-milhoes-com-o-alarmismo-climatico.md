@@ -1,11 +1,12 @@
 ---
-title: "Como Al Gore ganhou US$ 330 milhões com o alarmismo climático"
+title: Como Al Gore ganhou US$ 330 milhões com o alarmismo climático
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Como Al Gore ganhou $ 330 milhões com o alarmismo climático: O ex-vice-presidente fez fortuna depois de perder para George W. quando fundou uma empresa de investimentos verdes, agora no valor de $ 36 bilhões, que lhe paga $ 2 milhões por mês ... enquanto alertava sobre "bombas de chuva" e "oceanos ferventes".
 

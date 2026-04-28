@@ -1,11 +1,12 @@
 ---
-title: "Dólar aproxima-se de R$ 5,30 e fecha no menor valor em oito dias"
+title: Dólar aproxima-se de R$ 5,30 e fecha no menor valor em oito dias
 date: 2020-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa subiu 1,21% e encerrou no nível mais alto em 12 dias.
 

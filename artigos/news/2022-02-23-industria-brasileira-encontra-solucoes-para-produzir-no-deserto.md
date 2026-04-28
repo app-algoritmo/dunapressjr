@@ -1,11 +1,12 @@
 ---
-title: "Indústria brasileira encontra soluções para produzir no deserto"
+title: Indústria brasileira encontra soluções para produzir no deserto
 date: 2022-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ambiente de negócios do Golfo Pérsico é extremamente preparado.
 

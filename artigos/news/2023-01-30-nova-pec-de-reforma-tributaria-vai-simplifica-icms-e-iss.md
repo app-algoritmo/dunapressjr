@@ -1,11 +1,12 @@
 ---
-title: "Nova PEC de reforma tributária vai simplifica ICMS e ISS"
+title: Nova PEC de reforma tributária vai simplifica ICMS e ISS
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O senador Oriovisto Guimarães (Podemos-PR) apresentou proposta de emenda à Constituição (PEC) de reforma tributária com o objetivo de simplificar a cobrança dos impostos sobre o consumo. Com a [PEC 46/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/155612), que foi subscrita por outros 36 senadores, o parlamentar espera unificar as leis estaduais, do Distrito Federal e municipais que regulam o Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços (ICMS) e o Imposto Sobre Serviços de Qualquer Natureza (ISS) de modo a beneficiar cidadãos e setor produtivo.
 

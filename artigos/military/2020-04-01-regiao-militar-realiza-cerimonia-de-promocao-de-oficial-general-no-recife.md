@@ -1,11 +1,12 @@
 ---
-title: "Região Militar realiza cerimônia de promoção de Oficial-General no Recife"
+title: Região Militar realiza cerimônia de promoção de Oficial-General no Recife
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Recife (PE)** – No dia 31 de março, foi realizada, no gabinete do Comando da 7ª Região Militar, solenidade de promoção do Coronel **Marco Aurélio Nunes** ao posto de General de Brigada, presidida pelo General de Exército **Marco Antônio Freire Gomes**, Comandante Militar do Nordeste. O posto de Oficial-General é revestido de peculiaridades e tradições compatíveis com a importância do mais alto círculo de oficiais do Exército.
 

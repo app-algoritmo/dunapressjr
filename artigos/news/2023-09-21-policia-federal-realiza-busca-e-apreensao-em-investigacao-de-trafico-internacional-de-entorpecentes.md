@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal realiza busca e apreensão em investigação de tráfico internacional de entorpecentes"
+title: Polícia Federal realiza busca e apreensão em investigação de tráfico internacional
+  de entorpecentes
 date: 2023-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Remessa postal de substância psicodélica levanta suspeitas e resulta em operação policial.
 

@@ -1,11 +1,13 @@
 ---
-title: "Alerta Sobre a Gripe Aviária: Médico Prevê Nova 'Doença X' e Possível Emergência de Saúde Pública"
+title: 'Alerta Sobre a Gripe Aviária: Médico Prevê Nova ''Doença X'' e Possível Emergência
+  de Saúde Pública'
 date: 2024-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://twitter.com/i/status/1790834330610118736
 

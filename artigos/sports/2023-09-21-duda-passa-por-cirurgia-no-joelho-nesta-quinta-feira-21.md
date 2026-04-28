@@ -1,12 +1,13 @@
 ---
-title: "Duda passa por cirurgia no joelho nesta quinta-feira (21)"
+title: Duda passa por cirurgia no joelho nesta quinta-feira (21)
 date: 2023-09-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Procedimento na ponteira do Osasco São Cristóvão Saúde visa corrigir lesão no menisco do joelho esquerdo.
 

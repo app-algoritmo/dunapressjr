@@ -1,11 +1,12 @@
 ---
-title: "Sebrae revela aumento de pequenos negócios que fabricam chocolates"
+title: Sebrae revela aumento de pequenos negócios que fabricam chocolates
 date: 2022-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Facilidade de participação no mercado é atrativa para empreendedores.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba mais sobre testes rápidos para COVID-19"
+title: Saiba mais sobre testes rápidos para COVID-19
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com a Anvisa, exames detectam anticorpos produzidos pelo organismo do paciente e devem ser realizados, preferencialmente, a partir de 10 dias após o início dos sintomas.
 

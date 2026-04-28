@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Reino Unido assinam acordo para evitar bitributação"
+title: Brasil e Reino Unido assinam acordo para evitar bitributação
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida ampliará comércio e investimento, diz Receita Federal.
 

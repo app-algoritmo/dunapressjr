@@ -1,11 +1,12 @@
 ---
-title: "Projeto que veda contribuição sindical obrigatória está na pauta da CAE"
+title: Projeto que veda contribuição sindical obrigatória está na pauta da CAE
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Assuntos Econômicos (CAE) deverá votar na terça-feira (3), em reunião marcada para as 10h, a proposta do senador Styvenson Valentim (Podemos-RN) que impede os sindicatos de exigirem o pagamento da contribuição sindical sem autorização do empregado. O [projeto de lei 2099/2023 ](https://www25.senado.leg.br/web/atividade/materias/-/materia/157065)é relatado na comissão pelo senador Rogério Marinho (PL-RN), que emitiu voto a favor da matéria.
 

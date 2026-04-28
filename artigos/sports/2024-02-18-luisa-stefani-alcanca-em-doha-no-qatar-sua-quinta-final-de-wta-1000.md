@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani alcança em Doha, no Qatar, sua quinta final de WTA 1000"
+title: Luisa Stefani alcança em Doha, no Qatar, sua quinta final de WTA 1000
 date: 2024-02-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e holandesa Demi Schuurs buscam o primeiro título juntas neste sábado (17), a partir das 9h30 (horário de Brasília). Duelo será contra dupla norte-americana.
 

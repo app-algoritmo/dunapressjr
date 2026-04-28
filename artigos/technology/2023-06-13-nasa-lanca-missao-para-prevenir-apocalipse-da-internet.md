@@ -1,11 +1,12 @@
 ---
-title: "NASA lança missão para prevenir 'apocalipse da Internet'"
+title: NASA lança missão para prevenir 'apocalipse da Internet'
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 A Parker Solar Probe da NASA voou com sucesso através do vento solar pela primeira vez. A missão da NASA é evitar um "apocalipse da internet".
 

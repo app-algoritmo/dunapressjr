@@ -1,11 +1,13 @@
 ---
-title: "Policial britânico acusado de terrorismo por compartilhar imagem de apoio ao Hamas"
+title: Policial britânico acusado de terrorismo por compartilhar imagem de apoio ao
+  Hamas
 date: 2024-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um agente da polícia de West Yorkshire, identificado como Mohamed Adil, enfrenta acusações de terrorismo por supostamente compartilhar uma imagem de apoio ao grupo terrorista Hamas em suas comunicações móveis. As acusações baseiam-se na violação do artigo 13 da lei britânica, que proíbe a divulgação de imagens de apoio a organizações ilegais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ligação 'provável' entre miocardite e certas vacinas contra Covid"
+title: Ligação 'provável' entre miocardite e certas vacinas contra Covid
 date: 2021-07-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Os primeiros casos de miocardite foram relatados em Israel, onde a campanha de imunização foi mais rápida do que na maioria dos países.
 

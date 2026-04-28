@@ -1,11 +1,13 @@
 ---
-title: "CCJ aprova projeto que cria regime escolar especial para alunos enfermos e mães lactantes"
+title: CCJ aprova projeto que cria regime escolar especial para alunos enfermos e
+  mães lactantes
 date: 2021-12-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Texto inclui as novas regras na Lei de Diretrizes e Bases da Educação Nacional (LDB).
 

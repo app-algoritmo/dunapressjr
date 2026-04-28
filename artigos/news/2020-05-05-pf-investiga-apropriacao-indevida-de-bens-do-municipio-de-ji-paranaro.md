@@ -1,11 +1,12 @@
 ---
-title: "PF investiga apropriação indevida de bens do município de Ji-Paraná/RO"
+title: PF investiga apropriação indevida de bens do município de Ji-Paraná/RO
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO - A Polícia Federal deflagrou nesta terça-feira (5/5) a Operação O Mecanismo, tendo como objeto a desarticulação de associação criminosa composta por políticos, ex-políticos e empresários que visavam apropriar-se indevidamente de bens pertencentes ao município de Ji-Paraná/RO.
 

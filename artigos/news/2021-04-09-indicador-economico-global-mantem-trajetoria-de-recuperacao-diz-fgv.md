@@ -1,11 +1,12 @@
 ---
-title: "Indicador econômico global mantém trajetória de recuperação, diz FGV"
+title: Indicador econômico global mantém trajetória de recuperação, diz FGV
 date: 2021-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fato reflete avanço das campanhas de vacinação contra a covid-19.
 

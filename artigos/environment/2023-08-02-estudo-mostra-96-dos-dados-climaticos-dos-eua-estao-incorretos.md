@@ -1,11 +1,12 @@
 ---
-title: "Estudo mostra: 96% dos dados climáticos dos EUA estão incorretos"
+title: 'Estudo mostra: 96% dos dados climáticos dos EUA estão incorretos'
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Em meio à recente proliferação de relatórios da mídia corporativa que alimentam o medo, alimentados pela agenda verde globalista, muitos raramente consideram a legitimidade dos dados nos quais essas reivindicações sinistras de uma chamada “crise climática” são realmente baseadas.
 

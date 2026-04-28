@@ -1,11 +1,12 @@
 ---
-title: "Eleições Presidenciais dos EUA de 2024: Biden vs. Trump em Reedição Histórica"
+title: 'Eleições Presidenciais dos EUA de 2024: Biden vs. Trump em Reedição Histórica'
 date: 2024-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A corrida pela Casa Branca em 2024 já está definida para ser uma reedição histórica, com o democrata Joe Biden e o republicano Donald Trump as figuras centrais em uma disputa que ecoa eventos passados. Ambos garantiram os delegados necessários para suas respectivas nomeações, direcionando os holofotes para o dia 5 de novembro, uma data marcada pela repetição do confronto que marcou o luto nacional em 2020 - um fenômeno sem precedentes em quase sete décadas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Operação Lone Star: Texas na Vanguarda da Segurança na Fronteira"
+title: 'Operação Lone Star: Texas na Vanguarda da Segurança na Fronteira'
 date: 2024-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No coração da batalha pela segurança na fronteira dos Estados Unidos, o governador Greg Abbott lidera uma operação abrangente e eficaz conhecida como "Operação Lone Star". Em parceria com o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas, este esforço multifacetado tem como objetivo combater o contrabando de drogas, armas e pessoas, ao mesmo tempo que previne, detecta e interdita atividades criminosas transnacionais entre portos de entrada.
 

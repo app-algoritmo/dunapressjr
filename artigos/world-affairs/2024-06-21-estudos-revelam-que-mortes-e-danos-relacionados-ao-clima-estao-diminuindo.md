@@ -1,11 +1,12 @@
 ---
-title: "Estudos Revelam Que Mortes e Danos Relacionados ao Clima Estão Diminuindo"
+title: Estudos Revelam Que Mortes e Danos Relacionados ao Clima Estão Diminuindo
 date: 2024-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Pesquisadores italianos desafiam alegações da ONU sobre o aumento de desastres climáticos**.
 

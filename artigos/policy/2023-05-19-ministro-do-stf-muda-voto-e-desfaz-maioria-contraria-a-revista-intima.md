@@ -1,11 +1,12 @@
 ---
-title: "Ministro do STF muda voto e desfaz maioria contrária à revista íntima"
+title: Ministro do STF muda voto e desfaz maioria contrária à revista íntima
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Gilmar Mendes pediu destaque e análise será remetida ao plenário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trump Mantém Vantagem sobre Biden em Estados-Chave, Revelam Pesquisas"
+title: Trump Mantém Vantagem sobre Biden em Estados-Chave, Revelam Pesquisas
 date: 2024-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com pesquisas recentes do The Wall Street Journal em sete estados cruciais, o ex-presidente Donald Trump continua liderando frente ao presidente Joe Biden nos estados decisivos que poderiam determinar o resultado das eleições presidenciais.
 

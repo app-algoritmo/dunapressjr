@@ -1,11 +1,13 @@
 ---
-title: "Operação Hórus apreende 2 veículos e 1 caminhão com carregamento ilícito de cigarros paraguaios"
+title: Operação Hórus apreende 2 veículos e 1 caminhão com carregamento ilícito de
+  cigarros paraguaios
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na madrugada deste domingo (7/6), mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

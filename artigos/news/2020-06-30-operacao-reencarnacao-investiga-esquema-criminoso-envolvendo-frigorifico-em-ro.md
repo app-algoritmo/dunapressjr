@@ -1,11 +1,13 @@
 ---
-title: "Operação Reencarnação investiga esquema criminoso envolvendo frigorífico em RO"
+title: Operação Reencarnação investiga esquema criminoso envolvendo frigorífico em
+  RO
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO – A Polícia Federal deflagrou, nesta segunda-feira (29/6), a Operação Reencarnação, que investiga o crime de sonegação de impostos federais praticado por empresas do ramo frigorífico, em Rondônia. Policiais federais deram cumprimento a quatro mandados de busca e apreensão, expedidos pela Justiça Federal em Ji-Paraná/RO, os quais estão sendo cumpridos nas cidades de Ji-Paraná/RO e Rondonópolis/MT.
 

@@ -1,11 +1,12 @@
 ---
-title: "Por que uma empresa israelense está trabalhando em uma vacina oral?"
+title: Por que uma empresa israelense está trabalhando em uma vacina oral?
 date: 2021-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Entre as vantagens: logística reduzida para campanhas de vacinação, menos resíduos de plástico e potencialmente menos efeitos colaterais.
 

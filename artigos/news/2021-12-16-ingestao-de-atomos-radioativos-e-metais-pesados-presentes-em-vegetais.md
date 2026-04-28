@@ -1,11 +1,12 @@
 ---
-title: "Ingestão de átomos radioativos e metais pesados presentes em vegetais￼"
+title: Ingestão de átomos radioativos e metais pesados presentes em vegetais￼
 date: 2021-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 É incontestável que os alimentos consumidos pelo homem devam conter nutrientes capazes, tanto qualitativa como quantitativamente, de garantir um metabolismo (funcionamento corporal) adequado e, por conseqüência, condições ideais de saúde.
 

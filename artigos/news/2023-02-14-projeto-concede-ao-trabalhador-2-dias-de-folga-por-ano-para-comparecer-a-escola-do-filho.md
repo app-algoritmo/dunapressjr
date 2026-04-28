@@ -1,11 +1,13 @@
 ---
-title: "Projeto concede ao trabalhador 2 dias de folga por ano para comparecer à escola do filho"
+title: Projeto concede ao trabalhador 2 dias de folga por ano para comparecer à escola
+  do filho
 date: 2023-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 143/23 altera a [Consolidação das Leis do Trabalho (CLT)](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-norma-pe.html) para conceder ao empregado o direito de ausentar-se do trabalho por um dia a cada seis meses, sem prejuízo do salário, para comparecer à escola de filho até 14 anos de idade. O texto tramita na Câmara dos Deputados.
 

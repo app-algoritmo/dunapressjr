@@ -1,11 +1,12 @@
 ---
-title: "Quase 28 mil brasileiros voltarão ao País após o início da pandemia"
+title: Quase 28 mil brasileiros voltarão ao País após o início da pandemia
 date: 2020-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o Ministério das Relações Exteriores, o número estimado de brasileiros repatriados com apoio das embaixadas e consulados, até o dia 12 de maio, é de 21.818  pessoas, e ainda há cerca de 4.600 brasileiros com passagens aéreas canceladas e/ou desvalidos aguardando repatriação. O Itamaraty tem apoiado brasileiros que estavam no exterior e foram surpreendidos por medidas de restrição do tráfego aéreo em razão da pandemia de coronavírus. 
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA Exigem Presença de Observadores da UE nas Eleições Venezuelanas"
+title: EUA Exigem Presença de Observadores da UE nas Eleições Venezuelanas
 date: 2024-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Governo dos Estados Unidos instou o regime venezuelano a permitir a presença de observadores eleitorais da União Europeia nas disputadas eleições de 28 de julho. A solicitação ocorre após o Conselho Nacional Eleitoral (CNE) da Venezuela cancelar o convite a uma missão do bloco europeu, justificando a decisão com a renovação de sanções.
 

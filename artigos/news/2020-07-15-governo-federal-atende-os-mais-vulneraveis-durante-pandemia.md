@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal atende os mais vulneráveis durante pandemia"
+title: Governo Federal atende os mais vulneráveis durante pandemia
 date: 2020-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Benefício está concentrado nos 30% mais pobres da população e representou 93% do rendimento dessas famílias.
 

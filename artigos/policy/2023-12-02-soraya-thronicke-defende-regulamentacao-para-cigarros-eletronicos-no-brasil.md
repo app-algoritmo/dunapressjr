@@ -1,11 +1,12 @@
 ---
-title: "Soraya Thronicke defende regulamentação para cigarros eletrônicos no Brasil"
+title: Soraya Thronicke defende regulamentação para cigarros eletrônicos no Brasil
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na terça-feira (28), a senadora Soraya Thronicke (Podemos-MS) defendeu a aprovação de medidas que estabeleçam regras rigorosas para a comercialização de cigarros eletrônicos no país. Soraya lembrou que já existe um projeto ([PL 5008/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160523)) em tramitação na casa, de autoria dela, que cria regras para produção, comercialização, fiscalização e propaganda dos cigarros eletrônicos. A parlamentar expressou preocupação com a origem dos produtos que são consumidos no país, segundo ela, sem controle das agências de fiscalização:
 

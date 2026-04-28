@@ -1,11 +1,12 @@
 ---
-title: "O que não te contaram sobre um dos estigmas da obesidade"
+title: O que não te contaram sobre um dos estigmas da obesidade
 date: 2021-10-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 11 de outubro é comemorado o Dia Mundial da Obesidade, doença crônica que é porta de entrada para outras, como hipertensão e diabetes. Tendo em vista a relevância do tema, a data tem o objetivo de aumentar a conscientização e, assim, promover a prevenção e o controle da obesidade.
 

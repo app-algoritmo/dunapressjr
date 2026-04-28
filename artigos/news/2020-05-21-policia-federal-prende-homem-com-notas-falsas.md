@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende homem com notas falsas"
+title: Polícia Federal prende homem com notas falsas
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Maringá/PR – A Polícia Federal, na tarde da quarta-feira (20/5), prendeu um homem em flagrante na cidade de Santa Isabel do Ivaí/PR, quando recebeu correspondência contendo cédulas falsas.
 

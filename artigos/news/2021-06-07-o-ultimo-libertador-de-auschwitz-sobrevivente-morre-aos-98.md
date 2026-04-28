@@ -1,11 +1,12 @@
 ---
-title: "O último libertador de Auschwitz sobrevivente morre aos 98"
+title: O último libertador de Auschwitz sobrevivente morre aos 98
 date: 2021-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## David Dushman, o último soldado sobrevivente que participou da libertação de Auschwitz, morreu aos 98 anos.
 

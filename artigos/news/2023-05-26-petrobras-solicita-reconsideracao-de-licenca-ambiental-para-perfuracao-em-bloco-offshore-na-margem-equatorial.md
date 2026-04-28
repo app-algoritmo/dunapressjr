@@ -1,11 +1,13 @@
 ---
-title: "Petrobras solicita reconsideração de licença ambiental para perfuração em bloco offshore na Margem Equatorial"
+title: Petrobras solicita reconsideração de licença ambiental para perfuração em bloco
+  offshore na Margem Equatorial
 date: 2023-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa busca autorização para explorar potencial de petróleo em águas profundas, reforçando compromisso com segurança e sustentabilidade.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mulher Maravilha 1984 tem sua estreia nas bilheterias da era COVID; parte 3 a ser acelerada"
+title: Mulher Maravilha 1984 tem sua estreia nas bilheterias da era COVID; parte 3
+  a ser acelerada
 date: 2020-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 O novo filme de Gal Gadot estreia com US $ 16,7 milhões no fim de semana do Natal, apesar de estrear simultaneamente no serviço de streaming.
 

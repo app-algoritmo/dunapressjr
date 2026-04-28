@@ -1,11 +1,13 @@
 ---
-title: "As empresas de mídia social dizem que proíbem a negação do Holocausto. Eles também estão bloqueando a educação?"
+title: As empresas de mídia social dizem que proíbem a negação do Holocausto. Eles
+  também estão bloqueando a educação?
 date: 2021-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As empresas de mídia social dizem que proíbem a negação do Holocausto. Mas essa proibição também está bloqueando a educação sobre o Holocausto?
 

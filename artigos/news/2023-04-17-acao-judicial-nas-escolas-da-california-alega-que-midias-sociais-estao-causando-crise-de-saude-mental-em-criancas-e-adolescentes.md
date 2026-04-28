@@ -1,11 +1,13 @@
 ---
-title: "Ação judicial nas escolas da Califórnia alega que mídias sociais estão causando crise de saúde mental em crianças e adolescentes"
+title: Ação judicial nas escolas da Califórnia alega que mídias sociais estão causando
+  crise de saúde mental em crianças e adolescentes
 date: 2023-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Uma ação foi movida pelos distritos escolares Oceanside e Coronado Unified contra as maiores empresas de mídia social do país. O processo argumenta que seus algoritmos de conteúdo e designs de plataforma estão viciando crianças e adolescentes, levando a ansiedade, depressão e pensamentos suicidas.
 

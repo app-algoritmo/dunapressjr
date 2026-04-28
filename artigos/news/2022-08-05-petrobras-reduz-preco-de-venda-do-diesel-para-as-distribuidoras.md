@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço de venda do diesel para as distribuidoras"
+title: Petrobras reduz preço de venda do diesel para as distribuidoras
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Preço médio passará de R$ 5,61 para R$ 5,41 por litro.
 

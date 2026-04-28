@@ -1,11 +1,12 @@
 ---
-title: "Estrelas Além do Tempo!"
+title: Estrelas Além do Tempo!
 date: 2023-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Baseado em fatos reais, o filme Estrelas Além do Tempo conta a história de três cientistas negras que trabalharam na NASA durante a década de 1960 e colaboraram para a conquista espacial: Katherine Johnson, Dorothy Vaughan e Mary Jackson.
 

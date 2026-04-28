@@ -1,11 +1,12 @@
 ---
-title: "CMN simplifica abertura de contas em dólares por governos locais"
+title: CMN simplifica abertura de contas em dólares por governos locais
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Órgão autorizou fundos para desinstalação de campos de petróleo.
 

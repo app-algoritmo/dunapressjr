@@ -1,11 +1,12 @@
 ---
-title: "Sistema Enade disponibiliza classificação final dos cursos superiores de 2019"
+title: Sistema Enade disponibiliza classificação final dos cursos superiores de 2019
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 As instituições de educação superior podem consultar a classiﬁcação final dos novos cursos inseridos em 2019 no cadastro e-MEC. O procurador ou coordenador da instituição cadastrado no Sistema e-MEC pode acessar os resultados pelo sistema do Exame Nacional de Desempenho dos Estudantes (Enade), no ambiente da Classiﬁcação Internacional Normalizada da Educação Adaptada para Cursos de Graduação e Sequenciais de Formação Especíﬁca (Cine Brasil).
 

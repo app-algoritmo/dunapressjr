@@ -1,11 +1,13 @@
 ---
-title: "Ministros do BRICS defendem ordem mundial multipolar em reunião na África do Sul"
+title: Ministros do BRICS defendem ordem mundial multipolar em reunião na África do
+  Sul
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Líderes do Brasil, Rússia, Índia, China e África do Sul buscam parceria global para enfrentar desafios e promover equidade geopolítica.
 

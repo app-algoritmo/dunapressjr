@@ -1,11 +1,13 @@
 ---
-title: "Uma inscrição em árabe encontrada sob a Torre de Davi reescreve o passado da antiga cidadela"
+title: Uma inscrição em árabe encontrada sob a Torre de Davi reescreve o passado da
+  antiga cidadela
 date: 2020-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Uma inscrição recém-descoberta forçou os arqueólogos a repensar a datação de uma parede de fortificação, e a análise de alta tecnologia está construindo uma imagem mais clara do que nunca do local.
 

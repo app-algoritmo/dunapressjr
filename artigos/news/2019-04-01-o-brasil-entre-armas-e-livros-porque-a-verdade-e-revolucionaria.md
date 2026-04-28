@@ -1,11 +1,12 @@
 ---
-title: "O Brasil entre armas e livros, porque a Verdade é revolucionária"
+title: O Brasil entre armas e livros, porque a Verdade é revolucionária
 date: 2019-04-01
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 Sim, Eu fui à pré-estreia do filme *1964 – O Brasil entre armas e livros*, documentário  do Brasil Paralelo, uma produtora do Rio Grande do Sul que tem abalado as estruturas da internet e do mundo acadêmico. Não sou crítica de cinema, muito menos historiadora, mas basta assistir a cinco minutos do filme para entender que a política e a historiografia são assuntos que devem alcançar do mais simples trabalhador até formadores de opinião, passando pela classe média, minorias, estudantes e todos que muitas vezes torcem o nariz para o debate.
 

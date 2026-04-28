@@ -1,11 +1,13 @@
 ---
-title: "Documentos vazados: a Espanha socialista quer que a UE proíba toda a criptografia de ponta a ponta"
+title: 'Documentos vazados: a Espanha socialista quer que a UE proíba toda a criptografia
+  de ponta a ponta'
 date: 2023-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Documentos vazados mostram que o governo socialista espanhol do primeiro-ministro Pedro Sanchez quer proibir todas as mensagens criptografadas de ponta a ponta [na União Européia](https://www.breitbart.com/europe/2023/05/25/socialist-spain-behind-push-to-ban-private-messaging-in-eu-leaked-docs-show/) .
 

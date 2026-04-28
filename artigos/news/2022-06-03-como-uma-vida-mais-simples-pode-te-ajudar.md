@@ -1,11 +1,12 @@
 ---
-title: "Como uma vida mais simples pode te ajudar"
+title: Como uma vida mais simples pode te ajudar
 date: 2022-06-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 A jornada para uma vida simples e feliz parece um pouco diferente para todos, e é tanto sobre seus hábitos e rotina quanto sobre coisas, mas essas 6 dicas são um bom ponto de partida:
 

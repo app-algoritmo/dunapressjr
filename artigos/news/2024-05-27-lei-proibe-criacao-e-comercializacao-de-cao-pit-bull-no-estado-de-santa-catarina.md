@@ -1,12 +1,13 @@
 ---
-title: "Lei proíbe criação e comercialização de cão Pit Bull no estado de Santa Catarina"
+title: Lei proíbe criação e comercialização de cão Pit Bull no estado de Santa Catarina
 date: 2024-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Seguindo recomendação da 22ª Promotoria de Justiça da Capital foi criado o protocolo de atendimento da Lei do Pit Bull, o qual está sendo encaminhado para todos os municípios do estado e órgãos vinculados à Segurança Pública.
 

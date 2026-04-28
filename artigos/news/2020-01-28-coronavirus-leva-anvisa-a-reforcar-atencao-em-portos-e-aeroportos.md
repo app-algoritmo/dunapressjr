@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus leva Anvisa a reforçar atenção em portos e aeroportos"
+title: Coronavírus leva Anvisa a reforçar atenção em portos e aeroportos
 date: 2020-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Procedimentos adotados para outras doenças, porém, estão mantidos*
 

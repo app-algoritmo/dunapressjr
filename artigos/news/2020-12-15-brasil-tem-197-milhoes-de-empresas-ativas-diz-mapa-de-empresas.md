@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem 19,7 milhões de empresas ativas, diz Mapa de Empresas"
+title: Brasil tem 19,7 milhões de empresas ativas, diz Mapa de Empresas
 date: 2020-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Destas, 298 mil foram abertas em novembro de 2020.
 

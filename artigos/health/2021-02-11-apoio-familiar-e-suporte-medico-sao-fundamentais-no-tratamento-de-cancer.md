@@ -1,11 +1,12 @@
 ---
-title: "Apoio familiar e suporte médico são fundamentais no tratamento de câncer"
+title: Apoio familiar e suporte médico são fundamentais no tratamento de câncer
 date: 2021-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Diante do medo, insegurança e esperança, além da rotina pesada de exames e tratamentos, a batalha contra o câncer também é fortalecida pelo amor e companheirismo de pessoas queridas.
 

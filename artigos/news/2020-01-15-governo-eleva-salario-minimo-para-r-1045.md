@@ -1,11 +1,12 @@
 ---
-title: "Governo eleva salário mínimo para R$ 1.045"
+title: Governo eleva salário mínimo para R$ 1.045
 date: 2020-01-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro e o ministro da Economia, Paulo
 Guedes, anunciaram na tarde de ontem (14), em Brasília, que o salário

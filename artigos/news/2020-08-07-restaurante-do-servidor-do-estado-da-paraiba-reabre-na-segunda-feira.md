@@ -1,11 +1,12 @@
 ---
-title: "Restaurante do Servidor do Estado da Paraíba reabre na segunda-feira"
+title: Restaurante do Servidor do Estado da Paraíba reabre na segunda-feira
 date: 2020-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para evitar a propagação da Covid-19 serão adotadas novas medidas de segurança.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial sobe para 1,62% em março"
+title: Inflação oficial sobe para 1,62% em março
 date: 2022-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a maior taxa para o mês de março desde a implantação do Plano Real.
 

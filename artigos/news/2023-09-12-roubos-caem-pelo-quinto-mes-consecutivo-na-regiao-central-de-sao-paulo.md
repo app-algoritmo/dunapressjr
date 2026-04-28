@@ -1,11 +1,12 @@
 ---
-title: "Roubos caem pelo quinto mês consecutivo na região central de São Paulo"
+title: Roubos caem pelo quinto mês consecutivo na região central de São Paulo
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## [O levantamento indica a consolidação do começo da reversão dos indicadores criminais na região da Cracolândia.](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/ultimas-noticias/roubos-caem-pelo-quinto-mes-consecutivo-na-regiao-central-de-sao-paulo/)
 

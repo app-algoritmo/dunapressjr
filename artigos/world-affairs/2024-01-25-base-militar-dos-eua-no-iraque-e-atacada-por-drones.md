@@ -1,11 +1,12 @@
 ---
-title: "Base militar dos EUA no Iraque é atacada por drones"
+title: Base militar dos EUA no Iraque é atacada por drones
 date: 2024-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Resistência Islâmica no Iraque conduziu um ataque com drones a uma base dos EUA perto do aeroporto de Erbil, no norte do país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prévia aponta alta de 1,89% do IGP-M em janeiro"
+title: Prévia aponta alta de 1,89% do IGP-M em janeiro
 date: 2021-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice é usado no reajuste de aluguéis.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Ilusão da Carne Artificial: Impactos na Saúde e no Meio Ambiente"
+title: 'A Ilusão da Carne Artificial: Impactos na Saúde e no Meio Ambiente'
 date: 2024-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Enquanto um estudo recente mostra os perigos dos alimentos ultraprocessados (UPFs), a indústria da carne artificial é celebrada e recebe investimentos bilionários. No entanto, essa produção levanta sérias questões sobre saúde, sustentabilidade e ética.
 

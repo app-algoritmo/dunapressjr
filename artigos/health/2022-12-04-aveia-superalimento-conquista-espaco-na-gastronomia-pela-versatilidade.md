@@ -1,11 +1,12 @@
 ---
-title: "Aveia: superalimento conquista espaço na gastronomia pela versatilidade"
+title: 'Aveia: superalimento conquista espaço na gastronomia pela versatilidade'
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Quando o assunto é alimentação balanceada e saudável, os cereais são um dos principais aliados de quem quer cuidar da saúde. Um dos grãos mais conhecidos e presentes na mesa dos brasileiros é a aveia. Com qualidades únicas, o cereal é considerado um *superalimento *por conter nutrientes e compostos bioativos que são associados a respostas anti-inflamatórias, antioxidantes e imunogênicas. Ademais, é fonte de carboidratos, ácidos graxos, vitaminas do complexo B (B1, B5, B6, B9), cobre, ferro, magnésio, manganês, selênio e zinco. Além disso, a aveia é extremamente versátil e vai muito além do mingau, podendo ser utilizada em *shakes* e saladas de frutas, misturada com iogurtes, *snacks*, bolos, preparos de salgados e, também, em receitas doces. 
 

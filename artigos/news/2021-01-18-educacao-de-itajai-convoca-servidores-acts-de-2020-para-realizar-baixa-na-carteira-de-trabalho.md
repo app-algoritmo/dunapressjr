@@ -1,11 +1,13 @@
 ---
-title: "Educação de Itajaí convoca servidores ACT’s de 2020 para realizar baixa na carteira de trabalho"
+title: Educação de Itajaí convoca servidores ACT’s de 2020 para realizar baixa na
+  carteira de trabalho
 date: 2021-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Educação de Itajaí está convocando os servidores ACT’s que trabalharam durante o ano letivo de 2020 para realizar a baixa na carteira de trabalho. O serviço começa na próxima segunda-feira (18) e segue até sexta (22). Neste ano, em virtude da pandemia de COVID-19, os profissionais deverão comparecer ao auditório superior da Secretaria, localizada na avenida Vereador Abrahão João Francisco, nº 3855, bairro Ressacada.
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA Intensificam Envolvimento em Myanmar para Conter a Influência da China"
+title: EUA Intensificam Envolvimento em Myanmar para Conter a Influência da China
 date: 2024-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Guerra Civil em Myanmar Entra em Fase Crítica com Aumentos nos Envolvimentos Externos**.
 

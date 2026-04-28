@@ -1,11 +1,12 @@
 ---
-title: "Exército Brasileiro fará exercício com Exército dos EUA em ambiente de selva"
+title: Exército Brasileiro fará exercício com Exército dos EUA em ambiente de selva
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Entre os dias 1º e 16 de novembro de 2023, nos estados do Pará e Amapá, o Exército Brasileiro realizará a Operação CORE 23 (Combined Operation and Rotation Exercise), um exercício com militares do Exército dos Estados Unidos da América.
 

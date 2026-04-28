@@ -1,11 +1,12 @@
 ---
-title: "Brasil produzirá respirador projetado pela Nasa"
+title: Brasil produzirá respirador projetado pela Nasa
 date: 2020-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Empresa Brasileira de Pesquisa e Inovação Industrial está financiando o desenvolvimento em escala do aparelho. O primeiro lote produzido será de 300 ventiladores pulmonares.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comandante da PMSP pede que policiais usem legítima defesa sem hesitar"
+title: Comandante da PMSP pede que policiais usem legítima defesa sem hesitar
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Número de pessoas mortas por PMs aumentou em maio no estado.
 

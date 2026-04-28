@@ -1,11 +1,13 @@
 ---
-title: "Minas Gerais é destaque em ranking dos estados com um dos melhores índices educacionais do país"
+title: Minas Gerais é destaque em ranking dos estados com um dos melhores índices
+  educacionais do país
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ranking de Competitividade dos estados tem como objetivo pautar a atuação dos líderes públicos na melhoria da competitividade e da gestão pública dos estados.
 

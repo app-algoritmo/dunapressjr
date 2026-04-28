@@ -1,11 +1,12 @@
 ---
-title: "IDF impediu o Hamas de um ataque devastador de última hora"
+title: IDF impediu o Hamas de um ataque devastador de última hora
 date: 2021-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Durante as últimas horas antes do cessar-fogo, o IDF estava pronto para atingir um grande número de alvos se o Hamas atirasse em Tel Aviv.
 

@@ -1,10 +1,11 @@
 ---
-title: "Video antigo revela investigação da ABIN sobre Amazônia"
+title: Video antigo revela investigação da ABIN sobre Amazônia
 date: 2019-09-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 

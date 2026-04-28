@@ -1,11 +1,12 @@
 ---
-title: "Girão aponta subserviência e alinhamento ideológico do governo Lula com o STF"
+title: Girão aponta subserviência e alinhamento ideológico do governo Lula com o STF
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento na terça-feira (19), a participação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), como “convidado de honra” no lançamento do Programa Ruas Visíveis, do governo federal, que teve investimento de R$ 982 milhões. De acordo com o parlamentar, o ministro “deu uma ordem”, em julho, para que o governo preparasse um programa com esse objetivo.
 

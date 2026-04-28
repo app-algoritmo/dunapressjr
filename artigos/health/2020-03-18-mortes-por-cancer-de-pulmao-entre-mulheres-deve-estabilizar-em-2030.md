@@ -1,11 +1,12 @@
 ---
-title: "Mortes por câncer de pulmão entre mulheres deve estabilizar em 2030"
+title: Mortes por câncer de pulmão entre mulheres deve estabilizar em 2030
 date: 2020-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Taxa de mortalidade por câncer de pulmão entre as mulheres brasileiras vai encerrar uma tendência histórica de elevação em 2030 e estabilizar-se. A consequência direta desse cenário é a diminuição da prevalência do tabagismo na população feminina, resultado das ações da Política Nacional de Controle do Tabaco. Essa estimativa integra o estudo inédito “A curva epidêmica do tabaco no Brasil: para onde estamos indo?”
 

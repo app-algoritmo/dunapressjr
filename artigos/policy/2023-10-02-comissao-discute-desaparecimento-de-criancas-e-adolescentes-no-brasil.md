@@ -1,11 +1,12 @@
 ---
-title: "Comissão discute desaparecimento de crianças e adolescentes no Brasil"
+title: Comissão discute desaparecimento de crianças e adolescentes no Brasil
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Sequestros estão ligados a outros crimes, como adoção ilegal e venda de órgãos.
 

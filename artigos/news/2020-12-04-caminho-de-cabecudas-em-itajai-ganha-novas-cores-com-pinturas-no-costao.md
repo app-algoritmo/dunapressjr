@@ -1,11 +1,12 @@
 ---
-title: "Caminho de Cabeçudas, em Itajaí, ganha novas cores com pinturas no costão"
+title: Caminho de Cabeçudas, em Itajaí, ganha novas cores com pinturas no costão
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminho de Cabeçudas ganhou um novo colorido nesta semana. O costão formado pelas calçadas e ciclovias recebeu uma pintura colorida com motivos de natureza em seus mais 500 metros de extensão. Marcada pela beleza das praias do Molhe, Atalaia, Geremias e Cabeçudas, a via tem novas cores em suas paisagens e também na pintura dos seus postes de iluminação pública.
 

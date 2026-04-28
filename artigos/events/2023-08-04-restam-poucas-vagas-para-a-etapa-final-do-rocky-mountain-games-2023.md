@@ -1,12 +1,13 @@
 ---
-title: "Restam poucas vagas para a etapa final do Rocky Mountain Games 2023"
+title: Restam poucas vagas para a etapa final do Rocky Mountain Games 2023
 date: 2023-08-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## Terceiro e último evento do ano do maior festival de esportes e cultura de montanha do Brasil será no próximo dia 26, no Fazendão RMG, cercado pela Mata Atlântica. Inscrições são on-line.
 

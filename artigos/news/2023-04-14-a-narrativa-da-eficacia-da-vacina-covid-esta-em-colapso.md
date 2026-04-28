@@ -1,11 +1,12 @@
 ---
-title: "A narrativa da eficácia da vacina COVID está em colapso"
+title: A narrativa da eficácia da vacina COVID está em colapso
 date: 2023-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em seu novo artigo no Journal of American Physicians and Surgeons, os médicos Yaffa Shir-Raz, Shay Zakov, Peter McCullough e Yaakov Ophir exploram a alegação de que os reforços do COVID-19 podem fornecer proteção a longo prazo contra doenças graves e morte.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa tem primeira alta semanal após três semanas de queda"
+title: Bolsa tem primeira alta semanal após três semanas de queda
 date: 2021-03-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sobe 0,45% e fecha em R$ 5,68 nesta sexta.
 

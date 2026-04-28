@@ -1,11 +1,12 @@
 ---
-title: "Evento Jornadas de Paz: oito dias de programação"
+title: 'Evento Jornadas de Paz: oito dias de programação'
 date: 2018-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Oslo, uma das cidades mais pacíficas do mundo e líder global em pesquisa sobre paz e direitos humanos, vai sediar durante oito dias ( 05 a 12 de dezembro, 2018): As Jornadas de Paz em Oslo.
 

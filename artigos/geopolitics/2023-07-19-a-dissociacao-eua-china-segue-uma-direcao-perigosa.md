@@ -1,11 +1,12 @@
 ---
-title: "A dissociação EUA-China segue uma direção perigosa"
+title: A dissociação EUA-China segue uma direção perigosa
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 As economias dos EUA e da China estão intimamente interligadas, mas seus laços estão se desgastando. Embora o comércio bilateral entre os EUA e a China tenha atingido níveis recordes em 2022, a interdependência das relações comerciais está diminuindo. As crescentes tensões entre Washington e Pequim estão afastando os investidores americanos e chineses dos mercados uns dos outros.
 

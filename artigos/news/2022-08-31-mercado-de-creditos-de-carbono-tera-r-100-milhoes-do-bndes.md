@@ -1,11 +1,12 @@
 ---
-title: "Mercado de créditos de carbono terá R$ 100 milhões do BNDES"
+title: Mercado de créditos de carbono terá R$ 100 milhões do BNDES
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Banco lança edital para escolher projetos de descarbonização.
 

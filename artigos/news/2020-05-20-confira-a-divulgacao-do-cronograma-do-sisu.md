@@ -1,11 +1,12 @@
 ---
-title: "Confira a divulgação do cronograma do SISU"
+title: Confira a divulgação do cronograma do SISU
 date: 2020-05-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Sistema usa notas do Enem para ingresso de estudantes na educação superior pública.**
 

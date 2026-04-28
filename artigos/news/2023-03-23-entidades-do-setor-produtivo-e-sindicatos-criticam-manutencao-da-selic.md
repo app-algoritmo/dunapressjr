@@ -1,11 +1,12 @@
 ---
-title: "Entidades do setor produtivo e sindicatos criticam manutenção da Selic"
+title: Entidades do setor produtivo e sindicatos criticam manutenção da Selic
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para CNI, Banco Central deveria ter começado agora a diminuir juros.
 

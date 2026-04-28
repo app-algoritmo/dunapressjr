@@ -1,11 +1,12 @@
 ---
-title: "Primeiro-ministro japonês reafirma compromisso com tratado de paz com a Rússia"
+title: Primeiro-ministro japonês reafirma compromisso com tratado de paz com a Rússia
 date: 2024-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O primeiro-ministro japonês, Fumio Kishida, reiterou o compromisso de Tóquio em buscar a conclusão de um tratado de paz com Moscou, quase oito décadas após o fim das hostilidades em 1945. Em meio às tensões, Kishida destacou a importância de resolver a questão dos Territórios do Norte, também conhecidos como parte sul das Ilhas Curilas da Rússia, que permanece sem solução.
 

@@ -1,11 +1,12 @@
 ---
-title: "UE deixa decisão sobre prorrogação do Brexit para a semana que vem"
+title: UE deixa decisão sobre prorrogação do Brexit para a semana que vem
 date: 2019-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A União Europeia (UE) não fechou nesta sexta-feira um acordo
 sobre quanto durará a nova prorrogação do prazo de saída do Reino Unido do

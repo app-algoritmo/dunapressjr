@@ -1,11 +1,12 @@
 ---
-title: "Juros para famílias e empresas sobem em agosto, diz BC"
+title: Juros para famílias e empresas sobem em agosto, diz BC
 date: 2021-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Endividamento das famílias bate recorde de 59,9% em junho.
 

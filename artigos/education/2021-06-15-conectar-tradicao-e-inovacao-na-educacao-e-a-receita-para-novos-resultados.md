@@ -1,11 +1,12 @@
 ---
-title: "Conectar tradição e inovação na Educação é a receita para novos resultados"
+title: Conectar tradição e inovação na Educação é a receita para novos resultados
 date: 2021-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Discutir a conexão entre tradição e inovação é um imperativo no ambiente escolar. As transformações acontecem com a soma dos elementos consolidados por meio da História com outros que chegam para atender a novas demandas. Todos os espaços sociais são confrontados com essa questão. A escola, como espaço de formação humana por excelência, está nesse contexto.
 

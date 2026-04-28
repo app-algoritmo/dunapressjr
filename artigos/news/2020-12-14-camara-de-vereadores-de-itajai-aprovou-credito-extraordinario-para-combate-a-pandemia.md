@@ -1,11 +1,13 @@
 ---
-title: "Câmara de Vereadores de Itajaí aprovou crédito extraordinário para combate à pandemia"
+title: Câmara de Vereadores de Itajaí aprovou crédito extraordinário para combate
+  à pandemia
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com 18 votos favoráveis, a Câmara de Vereadores de Itajaí aprovou, em única discussão, nesta terça-feira (8), o [Projeto de Lei Ordinária nº 169/2020](http://intranet.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria169_2020.pdf), do Executivo Municipal. O projeto autoriza o prefeito a abrir crédito extraordinário de até R$ 1,3 milhão, destinado a suplementar dotações do Fundo Municipal de Saúde (FMS).
  

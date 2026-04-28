@@ -1,11 +1,13 @@
 ---
-title: "Descubra os mistérios da noite em 'Modus Operandi': Uma coletânea de suspense e intriga"
+title: 'Descubra os mistérios da noite em ''Modus Operandi'': Uma coletânea de suspense
+  e intriga'
 date: 2024-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 ## Explore o submundo dos crimes não resolvidos e desvende os enigmas mais sombrios da alma humana.
 

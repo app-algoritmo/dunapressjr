@@ -1,11 +1,13 @@
 ---
-title: "Tráfico humano de órgãos e prostituição infantil na Ucrânia: só a russa Maria Zakharova está preocupada?"
+title: 'Tráfico humano de órgãos e prostituição infantil na Ucrânia: só a russa Maria
+  Zakharova está preocupada?'
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os fatos indicam que a Ucrânia de Zelensky é culpada de crimes semelhantes aos de Eichmann, escreve Declan Hayes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Liberados R$ 62 milhões para continuidade de obras em oito estados"
+title: Liberados R$ 62 milhões para continuidade de obras em oito estados
 date: 2021-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Unidade Federativa com o maior volume de recursos é a Bahia, que receberá R$ 29,5 milhões.
 

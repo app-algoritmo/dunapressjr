@@ -1,12 +1,14 @@
 ---
-title: "Ministério da Saúde e o Ministério da Mulher, da Família e dos Direitos Humanos se unem para prevenir a gravidez precoce"
+title: Ministério da Saúde e o Ministério da Mulher, da Família e dos Direitos Humanos
+  se unem para prevenir a gravidez precoce
 date: 2020-02-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O Ministério da Saúde e o Ministério da Mulher, da Família e dos Direitos Humanos lançaram, nesta segunda-feira (3), uma campanha para prevenir a gravidez precoce. Com o slogan “Tudo tem seu tempo: Adolescência primeiro, gravidez depois”, a iniciativa busca disseminar informações sobre medidas preventivas e educativas que contribuam para a redução da gravidez indesejada nesta faixa etária. 
 

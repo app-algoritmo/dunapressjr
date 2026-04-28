@@ -1,11 +1,12 @@
 ---
-title: "Estão tentando parar Lewis Hamilton!"
+title: Estão tentando parar Lewis Hamilton!
 date: 2020-09-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Lewis Hamilton não está satisfeito com a decisão tomada pela direção de corrida da FIA, que lhe deu duas penalizações de tempo.**
 

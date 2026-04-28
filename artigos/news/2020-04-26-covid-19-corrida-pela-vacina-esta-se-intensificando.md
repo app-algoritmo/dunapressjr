@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Corrida pela vacina está se intensificando"
+title: 'Covid-19: Corrida pela vacina está se intensificando'
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A corrida para descobrir uma vacina contra o novo coronavírus está se intensificando com os primeiros ensaios clínicos realizados na Alemanha e no Reino Unido.
 

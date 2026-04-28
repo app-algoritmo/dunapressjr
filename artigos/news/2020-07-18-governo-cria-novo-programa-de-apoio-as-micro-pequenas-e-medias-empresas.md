@@ -1,11 +1,12 @@
 ---
-title: "Governo cria novo programa de apoio às micro, pequenas e médias empresas"
+title: Governo cria novo programa de apoio às micro, pequenas e médias empresas
 date: 2020-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Programa Capital de Giro para Preservação de Empresas pode injetar até R$120 bilhões de reais no mercado, segundo Banco Central.
 

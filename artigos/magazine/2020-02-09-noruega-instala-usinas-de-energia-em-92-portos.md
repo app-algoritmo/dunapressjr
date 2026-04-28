@@ -1,11 +1,12 @@
 ---
-title: "Noruega instala usinas de energia em 92 portos"
+title: Noruega instala usinas de energia em 92 portos
 date: 2020-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O estabelecimento de usinas terrestres em portos noruegueses também é uma parte importante do esforço para reduzir as emissões do transporte marítimo. Os navios localizados no cais precisam de energia para luz, aquecimento, operação de sistemas auxiliares, restauração e afins.
 

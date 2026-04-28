@@ -1,11 +1,12 @@
 ---
-title: "Segurança educacional, Comunicação entre pais e professores"
+title: Segurança educacional, Comunicação entre pais e professores
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A comunicação entre pais e professores é uma função fundamental para o bom desenvolvimento e controle da evolução acadêmica do aluno. Em alguns países essa comunicação vai ainda mais além, conectando o município, serviços de saúde e outros. Anteriormente à chegada das tecnologias de comunicação digital, as escolas utilizavam livretos diários de mensagens, em que **pais e professores** intercambiavam mensagens diárias.
 

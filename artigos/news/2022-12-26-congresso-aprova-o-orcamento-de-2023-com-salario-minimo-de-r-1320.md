@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova o Orçamento de 2023, com salário mínimo de R$ 1.320"
+title: Congresso aprova o Orçamento de 2023, com salário mínimo de R$ 1.320
 date: 2022-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Congresso Nacional aprovou o Orçamento de 2023 (PLN 32/22), que garante a manutenção do Auxílio Brasil em R$ 600 e o acréscimo de um valor de R$ 150 para cada filho menor de 6 anos. Além disso, o salário mínimo deverá passar de R$ 1.212 para R$ 1.320, um reajuste de quase 9%, quando a inflação estimada para este ano é de 5,8%.
 

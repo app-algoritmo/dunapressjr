@@ -1,11 +1,12 @@
 ---
-title: "Campanha alerta sobre a segurança de brinquedos vendidos on-line"
+title: Campanha alerta sobre a segurança de brinquedos vendidos on-line
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o distanciamento social em função da Covid-19, cada vez mais estão sendo feitas compras pela internet. Mas o consumidor deve ficar atento. Os dados do Sistema Inmetro de Monitoramento de Acidentes de Consumo mostram que brinquedo é o segundo grupo de produtos com mais relatos de acidentes registrados em 2020 (9,2%).
 

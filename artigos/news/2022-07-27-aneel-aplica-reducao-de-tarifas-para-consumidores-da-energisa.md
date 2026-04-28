@@ -1,11 +1,12 @@
 ---
-title: "Aneel aplica redução de tarifas para consumidores da Energisa"
+title: Aneel aplica redução de tarifas para consumidores da Energisa
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Revisão se aplica a consumidores do Mato Grosso e Mato Grosso do Sul.
 

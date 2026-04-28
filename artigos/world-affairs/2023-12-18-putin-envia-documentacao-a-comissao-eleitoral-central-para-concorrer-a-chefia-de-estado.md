@@ -1,11 +1,13 @@
 ---
-title: "Putin envia documentação à Comissão Eleitoral Central para concorrer à chefia de Estado"
+title: Putin envia documentação à Comissão Eleitoral Central para concorrer à chefia
+  de Estado
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com a lei eleitoral presidencial na Rússia, Vladimir Putin teve que reunir 500 eleitores registrados que apoiassem sua campanha.
 

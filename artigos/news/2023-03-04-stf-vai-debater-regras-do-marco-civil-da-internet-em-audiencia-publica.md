@@ -1,11 +1,12 @@
 ---
-title: "STF vai debater regras do Marco Civil da Internet em audiência pública"
+title: STF vai debater regras do Marco Civil da Internet em audiência pública
 date: 2023-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Discussão foi convocada pelos ministros Dias Toffoli e Luiz Fux.
 

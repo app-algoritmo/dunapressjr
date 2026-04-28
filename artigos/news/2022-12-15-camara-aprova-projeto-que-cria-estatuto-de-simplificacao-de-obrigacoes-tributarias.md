@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que cria estatuto de simplificação de obrigações tributárias"
+title: Câmara aprova projeto que cria estatuto de simplificação de obrigações tributárias
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou o projeto que cria o Estatuto Nacional de Simplificação de Obrigações Tributárias Acessórias com o objetivo de facilitar o cumprimento pelo contribuinte dessas obrigações, como declarações e outras informações. A proposta seguirá para o Senado.
 

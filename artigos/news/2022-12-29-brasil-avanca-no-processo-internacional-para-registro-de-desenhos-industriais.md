@@ -1,11 +1,12 @@
 ---
-title: "Brasil avança no processo internacional para registro de desenhos industriais"
+title: Brasil avança no processo internacional para registro de desenhos industriais
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida deve simplificar e agilizar os procedimentos, além de reduzir custos beneficiando brasileiros que buscam proteção em outros países e estrangeiros que querem investir no Brasil.
 

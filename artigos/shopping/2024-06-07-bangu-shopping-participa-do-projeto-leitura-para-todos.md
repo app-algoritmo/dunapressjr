@@ -1,11 +1,12 @@
 ---
-title: "Bangu Shopping participa do projeto 'Leitura para Todos'"
+title: Bangu Shopping participa do projeto 'Leitura para Todos'
 date: 2024-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Shopping na Zona Oeste realiza contação de histórias e coleta de resíduos plásticos em prol da despoluição dos oceanos.
 

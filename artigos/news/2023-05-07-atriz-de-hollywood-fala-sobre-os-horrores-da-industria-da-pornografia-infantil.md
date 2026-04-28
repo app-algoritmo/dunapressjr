@@ -1,11 +1,12 @@
 ---
-title: "Atriz de Hollywood fala sobre os horrores da indústria da pornografia infantil"
+title: Atriz de Hollywood fala sobre os horrores da indústria da pornografia infantil
 date: 2023-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Surgiram imagens de um discurso emocionado que a atriz de Hollywood Blake Lively [fez há seis anos no encontro Variety](https://www.youtube.com/watch?v=hMVHz-1I1zY) 's Power of Women , onde foi elogiada por sua luta contra o tráfico de crianças e a pornografia.
 

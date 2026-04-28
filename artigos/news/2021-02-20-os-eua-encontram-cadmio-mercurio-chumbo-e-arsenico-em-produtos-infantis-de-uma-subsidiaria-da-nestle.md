@@ -1,11 +1,13 @@
 ---
-title: "Os EUA encontram cádmio, mercúrio, chumbo e arsênico em produtos infantis de uma subsidiária da Nestlé"
+title: Os EUA encontram cádmio, mercúrio, chumbo e arsênico em produtos infantis de
+  uma subsidiária da Nestlé
 date: 2021-02-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Os **fabricantes vendem intencionalmente comida de bebê contaminada para** pais desavisados, apesar dos resultados de testes internos da empresa mostrarem altos níveis de metais pesados ​​tóxicos e sem quaisquer rótulos de advertência." A força do Congresso dos Estados Unidos foi assim após uma investigação exaustiva sobre fabricantes de alimentos para bebês, que inclui a empresa chinesa **Gerber** , de propriedade da Nestlé .
 

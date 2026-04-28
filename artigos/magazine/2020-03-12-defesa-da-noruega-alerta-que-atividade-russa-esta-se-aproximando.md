@@ -1,11 +1,12 @@
 ---
-title: "Defesa da Noruega alerta que atividade russa está se aproximando"
+title: Defesa da Noruega alerta que atividade russa está se aproximando
 date: 2020-03-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Noruega está monitorando de perto o desenvolvimento militar russo no norte. Com o tempo, vemos um vizinho empurrando os limites de sua atividade militar para mais perto da porta da nossa sala de estar.
 

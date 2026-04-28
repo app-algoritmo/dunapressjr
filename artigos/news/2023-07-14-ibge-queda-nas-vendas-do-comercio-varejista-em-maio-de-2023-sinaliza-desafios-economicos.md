@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Queda nas vendas do comércio varejista em maio de 2023 sinaliza desafios econômicos"
+title: 'IBGE: Queda nas vendas do comércio varejista em maio de 2023 sinaliza desafios
+  econômicos'
 date: 2023-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Volume de vendas recua 1,0% em relação a abril, com destaque para setores de tecidos, vestuário e calçados, enquanto combustíveis e lubrificantes mantêm crescimento.
 

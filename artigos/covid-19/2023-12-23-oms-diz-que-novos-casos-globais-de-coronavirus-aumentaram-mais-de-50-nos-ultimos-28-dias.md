@@ -1,11 +1,13 @@
 ---
-title: "OMS diz que novos casos globais de coronavírus aumentaram mais de 50% nos últimos 28 dias"
+title: OMS diz que novos casos globais de coronavírus aumentaram mais de 50% nos últimos
+  28 dias
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A maioria dos novos casos foi registrada na Rússia – 279.359.
 

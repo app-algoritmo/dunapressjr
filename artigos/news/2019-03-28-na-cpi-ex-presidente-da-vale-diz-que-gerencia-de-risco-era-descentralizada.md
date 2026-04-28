@@ -1,11 +1,12 @@
 ---
-title: "Na CPI, ex-presidente da Vale diz que gerência de risco era descentralizada"
+title: Na CPI, ex-presidente da Vale diz que gerência de risco era descentralizada
 date: 2019-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Edilson Rodrigues/Agência Senado 
 

@@ -1,11 +1,12 @@
 ---
-title: "Estimulação elétrica não reduz fadiga muscular em destreinados"
+title: Estimulação elétrica não reduz fadiga muscular em destreinados
 date: 2023-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 esquisa realizada por Mayara Alves Menezes, doutora pelo Programa de Pós-graduação em Ciências da Saúde, na Universidade der Sergipe (UFS), investiga a eficácia da Estimulação Elétrica Nervosa (TENS) na redução da dor muscular tardia (DMT) e na recuperação muscular em atletas e sujeitos destreinados.  O estudo mostra que a TENS não é eficaz na diminuição da DMT, nem na recuperação muscular de indivíduos sedentários ou irregularmente ativos fisicamente. Trabalho foi publicado na revista *European Journal of Applied Physiology*.
 

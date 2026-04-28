@@ -1,12 +1,13 @@
 ---
-title: "Noruega incentiva comercialização de pesquisas de cientistas e estudantes"
+title: Noruega incentiva comercialização de pesquisas de cientistas e estudantes
 date: 2018-10-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 Pesquisa e inovação para negócios é um tema que é um dos pontos altos da educação norueguesa. Pesquisa envolve muito além de conhecimentos teóricos; envolve práticas de empreendedorismo, inclusive dentro de empresas públicas ou privadas, investigação em campo, produção em ambientes fora da sala de aula, laboratório e averiguação em fontes primárias desde o Jardim de Infância. A Noruega realmente investe pesado em pesquisas tanto é que o Ministério da Educação é integrado: “Ministério da Educação e Pesquisa”. O governo norueguês enxerga os dois assuntos – Educação e Pesquisa – como indissociáveis, intrinsecamente ligados.
 

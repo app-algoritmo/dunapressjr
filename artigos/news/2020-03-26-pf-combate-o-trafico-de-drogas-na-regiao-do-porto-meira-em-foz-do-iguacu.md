@@ -1,11 +1,12 @@
 ---
-title: "PF combate o tráfico de drogas na região do Porto Meira, em Foz do Iguaçu"
+title: PF combate o tráfico de drogas na região do Porto Meira, em Foz do Iguaçu
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR – Nesta quarta-feira (25/3),
 policiais federais se deslocaram até o bairro do Porto Meira, em Foz do Iguaçu,

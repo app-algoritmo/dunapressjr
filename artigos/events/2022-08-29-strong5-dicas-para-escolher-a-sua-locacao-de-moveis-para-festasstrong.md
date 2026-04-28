@@ -1,11 +1,12 @@
 ---
-title: "<strong>5 dicas para escolher a sua locação de móveis para festas</strong>"
+title: <strong>5 dicas para escolher a sua locação de móveis para festas</strong>
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Events
+- Events
 ---
+
 
 Dentro da organização de qualquer tipo de festa, como casamentos e eventos corporativos, a locação de móveis não pode faltar. Em especial, para quem deseja um ambiente que transmita elegância e bom gosto.
 

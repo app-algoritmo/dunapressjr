@@ -1,11 +1,13 @@
 ---
-title: "Poupança brasileira apresenta saldo positivo em junho após seis meses de retiradas líquidas"
+title: Poupança brasileira apresenta saldo positivo em junho após seis meses de retiradas
+  líquidas
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Depósitos superam saques em R$ 2,595 bilhões, de acordo com relatório divulgado pelo Banco Central.
 

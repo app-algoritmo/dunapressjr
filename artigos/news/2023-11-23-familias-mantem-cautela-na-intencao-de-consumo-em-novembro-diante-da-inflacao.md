@@ -1,11 +1,12 @@
 ---
-title: "Famílias mantêm cautela na intenção de consumo em novembro diante da inflação"
+title: Famílias mantêm cautela na intenção de consumo em novembro diante da inflação
 date: 2023-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desaceleração nos indicadores de consumo reflete impacto da Inflação no segundo semestre de 2023, indicam dados da CNC
 

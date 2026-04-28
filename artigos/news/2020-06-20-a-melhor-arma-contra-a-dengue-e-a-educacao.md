@@ -1,11 +1,12 @@
 ---
-title: "A melhor arma contra a  Dengue é a educação"
+title: A melhor arma contra a  Dengue é a educação
 date: 2020-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Sobre o mosquito Aedes aegypti
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Lima Barreto"
+title: 'Série Brasileiros em Destaque: Lima Barreto'
 date: 2021-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Filho de escravos em um Brasil que lutava para abolir oficialmente a escravidão, Afonso Henriques de Lima Barreto teve oportunidade de boa instrução escolar, vindo a tornar-se jornalista e um dos mais importantes escritores e militantes da causa do País. Ainda jovem, aprendeu a trabalhar com tipografia e, em 1902, começou a contribuir para a imprensa brasileira, escrevendo para pequenos veículos de comunicação.
 

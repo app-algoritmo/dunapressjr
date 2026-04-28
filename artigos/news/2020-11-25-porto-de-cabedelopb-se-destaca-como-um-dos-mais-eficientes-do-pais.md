@@ -1,11 +1,12 @@
 ---
-title: "Porto de Cabedelo/PB se destaca como um dos mais eficientes do país"
+title: Porto de Cabedelo/PB se destaca como um dos mais eficientes do país
 date: 2020-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Porto de Cabedelo conquistou a terceira colocação do Prêmio Portos + Brasil, na categoria Variação da margem EBITDA (margem de lucro da empresa). Com esse desempenho, o Porto de Cabedelo se torna um dos portos públicos com a gestão mais eficiente do país na avaliação do Ministério da Infraestrutura. Do total de 32 portos do país, 7 foram premiados nesta terça-feira. Do Nordeste, apenas o Porto de Cabedelo e o Porto de Itaqui, no Maranhão. 
 

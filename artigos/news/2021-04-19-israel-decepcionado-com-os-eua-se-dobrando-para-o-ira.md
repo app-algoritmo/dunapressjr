@@ -1,11 +1,12 @@
 ---
-title: "Israel decepcionado com os EUA 'se dobrando' para o Irã"
+title: Israel decepcionado com os EUA 'se dobrando' para o Irã
 date: 2021-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Jerusalém acredita que os EUA concordaram em retornar ao acordo de 2015 sem mudanças, compensar o Irã pelas sanções de Trump.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil bate recorde em geração de energia renovável"
+title: Brasil bate recorde em geração de energia renovável
 date: 2023-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram quase 62 mil megawatts médios por mês em 2022.
 

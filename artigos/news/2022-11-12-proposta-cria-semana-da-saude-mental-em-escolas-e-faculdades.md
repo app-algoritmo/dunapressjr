@@ -1,11 +1,12 @@
 ---
-title: "Proposta cria semana da saúde mental em escolas e faculdades"
+title: Proposta cria semana da saúde mental em escolas e faculdades
 date: 2022-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 542/21, já aprovado pelo Senado, determina a realização, nos estabelecimentos de educação básica e superior, de atividades de esclarecimento sobre a saúde mental durante uma semana. A proposta está agora em análise na Câmara dos Deputados e altera a [Lei de Diretrizes e Bases da Educação](https://www2.camara.gov.br/legin/fed/lei/1996/lei-9394-20-dezembro-1996-362578-norma-pl.html).
 

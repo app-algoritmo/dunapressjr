@@ -1,11 +1,13 @@
 ---
-title: "Projeto criminaliza fabricação e venda de produtos com foice e martelo para divulgar comunismo"
+title: Projeto criminaliza fabricação e venda de produtos com foice e martelo para
+  divulgar comunismo
 date: 2023-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 446/23 pune com reclusão de dois a cinco anos e multa as práticas de fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propaganda que utilizem a foice e/ou o martelo, para fins de divulgação do comunismo ou o socialismo.
 

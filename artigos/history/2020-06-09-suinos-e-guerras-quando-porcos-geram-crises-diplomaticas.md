@@ -1,11 +1,12 @@
 ---
-title: "Suínos e Guerras: Quando porcos geram crises diplomáticas!"
+title: 'Suínos e Guerras: Quando porcos geram crises diplomáticas!'
 date: 2020-06-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 É pacifico entre todos os pensadores humanitários de que as guerras são desnecessários derramamentos de sangue e uma clara demonstração da estupidez humana, todavia, para os estudiosos bélicos, as guerras são muitas vezes a resposta inevitável para a resolução de disputas entre duas soberanias em conflito. Entretanto algo que ambas correntes doutrinarias hão de concordar, é o fato de que uma das guerras mais nonsense, que já ocorreu na história militar, foi um episódio intitulado de A Guerra do Porco. Que nada tem a ver com a figura suína que recentemente tem causado discórdia no meio político brasileiro.
 

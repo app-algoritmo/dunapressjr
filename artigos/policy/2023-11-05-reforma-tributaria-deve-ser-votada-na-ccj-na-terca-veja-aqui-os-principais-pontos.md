@@ -1,11 +1,13 @@
 ---
-title: "Reforma tributária deve ser votada na CCJ na terça; veja aqui os principais pontos"
+title: Reforma tributária deve ser votada na CCJ na terça; veja aqui os principais
+  pontos
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A reforma tributária ([PEC 45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930)) deve ser discutida e votada nesta terça-feira (7) na Comissão de Constituição e Justiça (CCJ), o único colegiado em que a proposta tramitará, além do Plenário. Essa é a previsão do presidente da CCJ, o senador Davi Alcolumbre (União-AP). O relator do texto, o senador Eduardo Braga (MDB-AM), apresentou sua versão alternativa (substitutivo) da proposta na última quarta-feira (25) de outubro. Na sua avaliação, o texto ainda poderá sofrer alterações.
 

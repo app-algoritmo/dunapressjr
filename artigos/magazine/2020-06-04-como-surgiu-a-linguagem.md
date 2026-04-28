@@ -1,11 +1,12 @@
 ---
-title: "Como surgiu a linguagem?"
+title: Como surgiu a linguagem?
 date: 2020-06-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Como surgiram as quase 6.000 línguas do mundo?
 

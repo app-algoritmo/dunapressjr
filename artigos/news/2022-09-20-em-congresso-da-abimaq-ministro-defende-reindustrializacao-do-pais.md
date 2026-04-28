@@ -1,11 +1,12 @@
 ---
-title: "Em congresso da Abimaq, ministro defende reindustrialização do país"
+title: Em congresso da Abimaq, ministro defende reindustrialização do país
 date: 2022-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Inovação tecnológica e indústria 4.0 são temas do evento.
 

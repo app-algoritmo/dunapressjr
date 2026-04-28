@@ -1,11 +1,13 @@
 ---
-title: "Solenidade de matrícula dos atiradores de 2020 no Tiro de Guerra de Formiga (MG)"
+title: Solenidade de matrícula dos atiradores de 2020 no Tiro de Guerra de Formiga
+  (MG)
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Formiga (MG) **– O Tiro de Guerra 04-030 (TG 04-030) realizou a
 solenidade de matrícula dos novos atiradores da Turma de 2020. Foram

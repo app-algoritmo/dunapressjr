@@ -1,12 +1,13 @@
 ---
-title: "Galaxy S23 chega ao Brasil com câmera de até 200 MP e Snapdragon 8 Gen 2 melhorado"
+title: Galaxy S23 chega ao Brasil com câmera de até 200 MP e Snapdragon 8 Gen 2 melhorado
 date: 2023-02-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 ## Todos os Galaxy S23 contam com câmeras melhores e novo chip Snapdragon 8 Gen 2 especial, que é mais veloz apenas neles.
 

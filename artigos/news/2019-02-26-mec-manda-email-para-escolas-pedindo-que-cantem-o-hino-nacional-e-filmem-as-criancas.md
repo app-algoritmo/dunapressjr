@@ -1,11 +1,13 @@
 ---
-title: "MEC manda email para escolas pedindo que cantem o hino nacional e filmem as crianças"
+title: MEC manda email para escolas pedindo que cantem o hino nacional e filmem as
+  crianças
 date: 2019-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um email que Ministério da Educação (MEC) mandou nesta segunda dia 25 de fevereiro,  para todas as escolas do País pedindo que as crianças sejam colocadas em fila, para cantar o hino nacional e que o momento seja gravado em vídeo e enviado para o governo, causou o maior "mimi" da mídia , que parece ter decretado uma caça as bruxas, a todas as declarações e posicionalmente do ministro Ricardo Vélez Rodríguez.
 

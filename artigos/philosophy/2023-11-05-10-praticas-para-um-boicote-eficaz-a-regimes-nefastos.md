@@ -1,11 +1,12 @@
 ---
-title: "10 práticas para um Boicote Eficaz a Regimes Nefastos"
+title: 10 práticas para um Boicote Eficaz a Regimes Nefastos
 date: 2023-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Philosophy
+- Philosophy
 ---
+
 
 **Nada é tão perigoso para uma sociedade quando os direitos do indivíduo serão protegidos apenas se não contradizerem os do Estado.**
 

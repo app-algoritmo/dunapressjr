@@ -1,11 +1,13 @@
 ---
-title: "Governo quer prevenir o uso de álcool e outras drogas em famílias com crianças e adolescentes."
+title: Governo quer prevenir o uso de álcool e outras drogas em famílias com crianças
+  e adolescentes.
 date: 2020-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 A principal política do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) no âmbito familiar é prevenir o uso de álcool e outras drogas em famílias com crianças e adolescentes.
 

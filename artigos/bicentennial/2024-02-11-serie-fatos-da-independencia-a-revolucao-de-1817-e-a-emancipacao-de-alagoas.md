@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A revolução de 1817 e a emancipação de Alagoas"
+title: 'Série Fatos Da Independência: A revolução de 1817 e a emancipação de Alagoas'
 date: 2024-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Uma das primeiras medidas tomadas pelos revolucionários, assim que a Revolução de 1817 eclodiu em Recife, foi enviar emissários para as comarcas de Pernambuco e capitanias vizinhas em busca de apoio. O advogado José Inácio Ribeiro de Abreu e Lima, um dos líderes do movimento que pretendia implementar uma República no Brasil, no Recife, fora um dos escolhidos para colocar o pé na estrada e divulgar notícias e ideias pelo entorno.
 

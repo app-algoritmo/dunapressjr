@@ -1,12 +1,14 @@
 ---
-title: "Dentistas: dor inexplicável, perda de dentes e problemas ósseos podem estar ligados à vacina COVID-19"
+title: 'Dentistas: dor inexplicável, perda de dentes e problemas ósseos podem estar
+  ligados à vacina COVID-19'
 date: 2023-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Antes de a proprietária de negócios e mãe ocupada Alana Parker sentir fortes dores orais e inchaço facial após receber a vacina COVID-19 da Pfizer em 2021, ela tinha boa saúde bucal, nunca com uma cárie.
 

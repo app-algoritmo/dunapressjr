@@ -1,11 +1,13 @@
 ---
-title: "Desempenho econômico chinês em julho desperta preocupações, aponta Blog da FGV/Ibre"
+title: Desempenho econômico chinês em julho desperta preocupações, aponta Blog da
+  FGV/Ibre
 date: 2023-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Perspectivas de Livio Ribeiro, Pesquisador da FGV/Ibre, para a economia da China despertam reflexões sobre os desafios atuais.
 

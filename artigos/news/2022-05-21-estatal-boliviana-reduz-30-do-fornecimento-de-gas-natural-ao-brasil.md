@@ -1,11 +1,12 @@
 ---
-title: "Estatal boliviana reduz 30% do fornecimento de gás natural ao Brasil"
+title: Estatal boliviana reduz 30% do fornecimento de gás natural ao Brasil
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Petrobras diz que está tomando medidas para que YPFB cumpra contrato.
 

@@ -1,11 +1,13 @@
 ---
-title: "Militares canadenses impediram médicos de relatar ferimentos da vacina, revela advogado"
+title: Militares canadenses impediram médicos de relatar ferimentos da vacina, revela
+  advogado
 date: 2023-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Ficou claro que a razão pela qual os médicos canadenses não foram autorizados a relatar ferimentos graves causados ​​pelas “vacinas” do coronavírus Wuhan (Covid-19) é porque as Forças Armadas do Canadá (CAF) ordenaram que não o [fizessem](https://www.lifesitenews.com/news/lawyer-says-canadian-military-prevented-doctors-from-reporting-covid-jab-injuries/) .
 

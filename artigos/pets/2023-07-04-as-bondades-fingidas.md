@@ -1,11 +1,12 @@
 ---
-title: "As bondades fingidas"
+title: As bondades fingidas
 date: 2023-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Enquanto ele procurava um pedacinho de pão, uma pessoa “boa” o encontrou. Pensou que sim. Acreditou que iria lhe estender bondade.
 

@@ -1,11 +1,12 @@
 ---
-title: "O número de internações hospitalares por ataques cardíacos atingiu um recorde"
+title: O número de internações hospitalares por ataques cardíacos atingiu um recorde
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um número recorde de [pessoas foi](https://www.msn.com/en-us/health/other/heart-attack-hospitalisations-at-record-level-since-pandemic/ar-AA1fhRfJ) hospitalizado na Inglaterra após ataques cardíacos. Em 2021 e 2022 foram mais de 84.000, um aumento de mais de 7.000 em um ano.
 

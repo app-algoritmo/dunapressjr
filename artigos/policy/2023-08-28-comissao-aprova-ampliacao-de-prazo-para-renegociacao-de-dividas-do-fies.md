@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova ampliação de prazo para renegociação de dívidas do Fies"
+title: Comissão aprova ampliação de prazo para renegociação de dívidas do Fies
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Medida vale para estudantes que estavam inadimplentes em 2021.
 

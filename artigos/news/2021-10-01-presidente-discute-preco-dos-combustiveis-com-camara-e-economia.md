@@ -1,11 +1,12 @@
 ---
-title: "Presidente discute preço dos combustíveis com Câmara e Economia"
+title: Presidente discute preço dos combustíveis com Câmara e Economia
 date: 2021-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reunião ocorreu esta manhã no Palácio da Alvorada.
 

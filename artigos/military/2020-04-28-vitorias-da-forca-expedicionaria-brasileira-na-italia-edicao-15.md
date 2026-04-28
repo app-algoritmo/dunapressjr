@@ -1,11 +1,12 @@
 ---
-title: "Vitórias da Força Expedicionária Brasileira na Itália - Edição 15"
+title: Vitórias da Força Expedicionária Brasileira na Itália - Edição 15
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **A rendição alemã em Fornovo Di Taro**
 

@@ -1,11 +1,12 @@
 ---
-title: "Mulheres rompem preconceitos e conquistam espaço no cooperativismo"
+title: Mulheres rompem preconceitos e conquistam espaço no cooperativismo
 date: 2021-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O espírito de liderança de Débora Noordegraaf fez com que ela fosse considerada pela Forbes uma das 100 Mulheres Poderosas do Agro. A suinocultora de Castro (PR) começou a se interessar pelo trabalho com ocooperativismo por conta do marido que também atua no setor. A partir disso, ela ficou motivada a conquistar seu próprio espaço e olhar com atenção para as mulheres que trabalham no campo. "Eu entrei para a Comissão Mulher Cooperativista da Castrolanda e isso fez com que eu desenvolvesse meu espírito de liderança, de trabalhar em prol da comunidade e de outras mulheres do agronegócio", conta. 
 

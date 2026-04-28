@@ -1,11 +1,12 @@
 ---
-title: "Previsão do mercado financeiro aponta queda na projeção da inflação para 2023"
+title: Previsão do mercado financeiro aponta queda na projeção da inflação para 2023
 date: 2023-07-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Boletim Focus divulgado pelo Banco Central mostra estimativas para o IPCA e expectativas para a taxa básica de juros e crescimento do PIB. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Setembro Amarelo: psicóloga alerta para casos de depressão em pessoas acima do peso"
+title: 'Setembro Amarelo: psicóloga alerta para casos de depressão em pessoas acima
+  do peso'
 date: 2021-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mês de setembro é marcado pela conscientização sobre a importância da prevenção do suicídio. No Brasil, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), 30% das pessoas que buscam tratamento para emagrecer apresentam depressão. Segundo relatório “Estatísticas da Saúde Mundial de 2021”, da Organização Mundial da Saúde (OMS), 22% da população adulta brasileira está obesa.
 

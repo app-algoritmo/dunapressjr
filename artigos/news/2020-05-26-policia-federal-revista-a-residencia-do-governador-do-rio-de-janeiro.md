@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal revista a residência do governador do Rio de janeiro"
+title: Polícia Federal revista a residência do governador do Rio de janeiro
 date: 2020-05-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Wilson Witzel é investigado por um escândalo de corrupção causado pelo desvio de fundos públicos para combater o coronavírus.
 

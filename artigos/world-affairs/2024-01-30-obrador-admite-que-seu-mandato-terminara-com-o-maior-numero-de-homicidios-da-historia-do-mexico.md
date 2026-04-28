@@ -1,11 +1,13 @@
 ---
-title: "Obrador admite que seu mandato terminará com o maior número de homicídios da história do México"
+title: Obrador admite que seu mandato terminará com o maior número de homicídios da
+  história do México
 date: 2024-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente de esquerda do México, Andrés Manuel López Obrador (AMLO), [admitiu na segunda-feira](https://es.theepochtimes.com/lopez-obrador-admite-que-su-gobierno-concluira-con-la-cifra-mas-alta-de-homicidios_1230038.html) que durante o seu mandato, que terminará em outubro deste ano, houve **o maior número de assassinatos** de qualquer mandato de seis anos na história do México .
 

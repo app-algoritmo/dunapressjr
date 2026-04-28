@@ -1,11 +1,13 @@
 ---
-title: "PIB mineiro cresce 4,4% no segundo trimestre com resultados positivos em agropecuária, indústria e serviços"
+title: PIB mineiro cresce 4,4% no segundo trimestre com resultados positivos em agropecuária,
+  indústria e serviços
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Safra de café 23% maior para este ano é o principal destaque do agro; na indústria de transformação, chama a atenção o incremento de 14,1% na geração de energia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Banco Central projeta crescimento de 7,7% no volume de crédito bancário em 2023"
+title: Banco Central projeta crescimento de 7,7% no volume de crédito bancário em
+  2023
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desaceleração do crédito acompanha o ciclo de aperto monetário e reflete alta na taxa Selic.
 

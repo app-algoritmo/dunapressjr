@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça conhece de perto o processo de compras governamentais do FNDE"
+title: Ministério da Justiça conhece de perto o processo de compras governamentais
+  do FNDE
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Experiência da autarquia pode auxiliar na reestruturação do sistema de compras do ministério.
 

@@ -1,11 +1,13 @@
 ---
-title: "Paraguai reafirma seu compromisso com a paz e a soberania dos povos em reunião com Zelensky"
+title: Paraguai reafirma seu compromisso com a paz e a soberania dos povos em reunião
+  com Zelensky
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Santiago Peña manteve uma reunião com o presidente da Ucrânia, Volodimir Zelenski, ocasião em que o Paraguai prestou “todo o seu apoio” ao país europeu.
 

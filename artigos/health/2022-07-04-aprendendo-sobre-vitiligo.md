@@ -1,11 +1,12 @@
 ---
-title: "Aprendendo sobre vitiligo"
+title: Aprendendo sobre vitiligo
 date: 2022-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O vitiligo é caracterizado por lesões cutâneas de hipopigmentação, ou seja, diminuição da cor, com manchas brancas de tamanho variável na pele. As lesões se formam devido à diminuição ou ausência de melanócitos (as células responsáveis pela formação da melanina, pigmento que dá cor à pele) nos locais afetados.
 

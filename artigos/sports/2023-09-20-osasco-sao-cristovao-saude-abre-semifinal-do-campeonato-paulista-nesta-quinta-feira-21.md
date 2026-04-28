@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde abre semifinal do Campeonato Paulista nesta quinta-feira (21)"
+title: Osasco São Cristóvão Saúde abre semifinal do Campeonato Paulista nesta quinta-feira
+  (21)
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Líder invicto na fase de classificação, time comandado pelo técnico Luizomar enfrenta Barueri, na casa do adversário, a partir das 19h30, com transmissão do SporTV 2.
 

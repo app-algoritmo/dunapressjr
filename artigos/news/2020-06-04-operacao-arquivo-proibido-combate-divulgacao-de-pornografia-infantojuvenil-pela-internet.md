@@ -1,11 +1,13 @@
 ---
-title: "Operação Arquivo Proibido combate divulgação de pornografia infantojuvenil pela internet"
+title: Operação Arquivo Proibido combate divulgação de pornografia infantojuvenil
+  pela internet
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE – A Polícia Federal deflagrou, nesta quinta-feira (4/6), mais uma fase da Operação Arquivo Proibido, com o objetivo de combater a posse e/ou divulgação de imagens e/ou vídeos de pornografia infantojuvenil pela internet.
 

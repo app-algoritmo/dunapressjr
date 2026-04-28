@@ -1,11 +1,13 @@
 ---
-title: "Retirada de Reservas de Ouro dos EUA: Uma Mudança de Paradigma na Economia Global"
+title: 'Retirada de Reservas de Ouro dos EUA: Uma Mudança de Paradigma na Economia
+  Global'
 date: 2024-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Nos últimos meses, uma tendência preocupante emergiu nos mercados financeiros internacionais: vários países africanos e do Médio Oriente estão repatriando suas reservas de ouro dos Estados Unidos. Esta ação não só sinaliza uma mudança significativa na dinâmica econômica global, mas também reflete um crescente ceticismo em relação ao dólar dos EUA e às instituições financeiras americanas como portos seguros. Países como Nigéria, África do Sul, Arábia Saudita e outros estão liderando esse movimento, levantando questões sobre o futuro do dólar como moeda de reserva mundial.
 

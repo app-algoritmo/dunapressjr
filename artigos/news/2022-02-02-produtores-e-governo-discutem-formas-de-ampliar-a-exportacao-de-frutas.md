@@ -1,11 +1,12 @@
 ---
-title: "Produtores e governo discutem formas de ampliar a exportação de frutas"
+title: Produtores e governo discutem formas de ampliar a exportação de frutas
 date: 2022-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Carlos França visitou um dos maiores polos da fruticultura nacional.
 

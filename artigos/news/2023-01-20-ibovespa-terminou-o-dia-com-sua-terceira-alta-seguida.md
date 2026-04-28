@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa terminou o dia com sua terceira alta seguida"
+title: Ibovespa terminou o dia com sua terceira alta seguida
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar fecha praticamente estável após declaração de Padilha.
 

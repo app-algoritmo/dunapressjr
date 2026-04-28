@@ -1,11 +1,13 @@
 ---
-title: "Brasil capta US$3 bi no mercado externo com bônus de vencimentos em 2029 e 2050"
+title: Brasil capta US$3 bi no mercado externo com bônus de vencimentos em 2029 e
+  2050
 date: 2019-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Tesouro Nacional captou nesta segunda-feira(4) um total de 3 bilhões de dólares no mercado externo com duas operações: o lançamento do novo título Global 2050, com o qual levantou aproximadamente 2,5 bilhões de dólares, e a reabertura do Global 2029, no valor de 500 milhões de dólares.
 

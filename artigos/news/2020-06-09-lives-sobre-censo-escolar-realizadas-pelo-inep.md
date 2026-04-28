@@ -1,11 +1,12 @@
 ---
-title: "Lives sobre Censo Escolar realizadas pelo Inep"
+title: Lives sobre Censo Escolar realizadas pelo Inep
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Próxima transmissão ao vivo abordará os detalhes para o preenchimento do censo.
 

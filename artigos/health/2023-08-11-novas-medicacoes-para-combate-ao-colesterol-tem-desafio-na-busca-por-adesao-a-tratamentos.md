@@ -1,11 +1,13 @@
 ---
-title: "Novas medicações para combate ao colesterol têm desafio na busca por adesão a tratamentos"
+title: Novas medicações para combate ao colesterol têm desafio na busca por adesão
+  a tratamentos
 date: 2023-08-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Descontrole e falta de acompanhamento podem levar a doenças cardiovasculares e até ataques cardíacos e AVCs.
 

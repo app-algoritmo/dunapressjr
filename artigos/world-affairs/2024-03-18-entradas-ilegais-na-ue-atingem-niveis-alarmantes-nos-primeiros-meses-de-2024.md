@@ -1,11 +1,12 @@
 ---
-title: "Entradas ilegais na UE atingem níveis alarmantes nos primeiros meses de 2024"
+title: Entradas ilegais na UE atingem níveis alarmantes nos primeiros meses de 2024
 date: 2024-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos primeiros dois meses de 2024, a União Europeia testemunhou um aumento preocupante no número de entradas ilegais de estrangeiros, com dados da agência de fronteiras externas da UE (Frontex) registrando 31.200 casos, igualando os números quase recordes do ano anterior.
 

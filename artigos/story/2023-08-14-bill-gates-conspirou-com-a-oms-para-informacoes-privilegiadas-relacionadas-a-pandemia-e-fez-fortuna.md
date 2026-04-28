@@ -1,12 +1,14 @@
 ---
-title: "Bill Gates conspirou com a OMS para informações privilegiadas relacionadas à pandemia e fez fortuna"
+title: Bill Gates conspirou com a OMS para informações privilegiadas relacionadas
+  à pandemia e fez fortuna
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Story
-  - World Affairs
+- Story
+- World Affairs
 ---
+
 
 Um renomado economista testemunhou que o cofundador da Microsoft, Bill Gates, conspirou com o chefe da Organização Mundial da Saúde (OMS) para lucrar maciçamente com informações privilegiadas relacionadas a grandes anúncios de pandemia.
 

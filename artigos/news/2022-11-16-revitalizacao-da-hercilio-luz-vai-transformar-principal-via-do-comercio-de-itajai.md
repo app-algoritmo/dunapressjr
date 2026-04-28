@@ -1,11 +1,13 @@
 ---
-title: "Revitalização da Hercílio Luz vai transformar principal via do comércio de Itajaí"
+title: Revitalização da Hercílio Luz vai transformar principal via do comércio de
+  Itajaí
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio das Secretarias Municipais de Desenvolvimento Urbano e Habitação e de Obras, assinou nesta sexta-feira (04) a ordem de serviço para início da revitalização da rua Hercílio Luz, principal via do comércio itajaiense. Os trabalhos também contemplarão a Praça dos Correios, por onde a obra deve iniciar nos próximos dias. A intenção é não prejudicar os lojistas durante as compras de final do ano. O prazo de execução da obra é de 12 meses e os investimentos ultrapassam R$ 15 milhões com recursos de financiamento internacional com o banco Fonplata.
 

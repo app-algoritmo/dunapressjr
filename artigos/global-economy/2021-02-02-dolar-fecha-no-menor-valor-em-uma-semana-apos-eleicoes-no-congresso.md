@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no menor valor em uma semana após eleições no Congresso"
+title: Dólar fecha no menor valor em uma semana após eleições no Congresso
 date: 2021-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,61% e registra alta pela segunda sessão consecutiva.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rede de pesquisa ajudará no enfrentamento ao novo coronavírus"
+title: Rede de pesquisa ajudará no enfrentamento ao novo coronavírus
 date: 2020-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Influenza também está na mira de especialistas e representantes de entidades científicas*
 

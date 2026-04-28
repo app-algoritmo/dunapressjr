@@ -1,11 +1,13 @@
 ---
-title: "EUA tentam intimidar parceiros russos usando novas medidas de sanções, diz embaixador Antonov"
+title: EUA tentam intimidar parceiros russos usando novas medidas de sanções, diz
+  embaixador Antonov
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O embaixador russo nos Estados Unidos acrescentou que tais ações praticamente negam a possibilidade de restaurar um diálogo mutuamente respeitoso entre Washington e Moscou.
 

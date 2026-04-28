@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova em segundo turno texto base da PEC Emergencial"
+title: Câmara aprova em segundo turno texto base da PEC Emergencial
 date: 2021-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Deputados analisam destaques ao texto.
 

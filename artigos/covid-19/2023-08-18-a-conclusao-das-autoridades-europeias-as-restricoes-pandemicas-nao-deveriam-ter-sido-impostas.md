@@ -1,11 +1,13 @@
 ---
-title: "A conclusão das autoridades europeias: As restrições pandêmicas não deveriam ter sido impostas"
+title: A conclusão das autoridades europeias: As restrições pandêmicas não deveriam
+  ter sido impostas
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Segundo um estudo do Centro Europeu de Prevenção e Controle de Doenças (ECDC), medidas como prisão domiciliar e proibição de contato não deveriam ter sido impostas durante a pandemia, mas apenas como recomendação. A autoridade europeia revela que as restrições 2020-2022 tiveram um impacto catastrófico para todos os cidadãos da UE.
 

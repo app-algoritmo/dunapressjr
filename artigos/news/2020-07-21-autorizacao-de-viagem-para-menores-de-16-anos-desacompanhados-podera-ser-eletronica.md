@@ -1,11 +1,12 @@
 ---
-title: "Autorização de viagem para menores de 16 anos desacompanhados poderá ser eletrônica"
+title: Autorização de viagem para menores de 16 anos desacompanhados poderá ser eletrônica
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Conselho Nacional de Justiça (CNJ) instituiu a [Autorização Eletrônica de Viagem](https://www.cnj.jus.br/wp-content/uploads/2020/06/Provimento-103.pdf) (AEV) para crianças e adolescentes menores de 16 anos que precisam fazer viagens nacionais e internacionais desacompanhadas de seus pais. A novidade entra em vigor no prazo de 60 dias.
 

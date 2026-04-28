@@ -1,11 +1,12 @@
 ---
-title: "Registro de defensivos agrícolas de controle biológico bate recorde em 2020"
+title: Registro de defensivos agrícolas de controle biológico bate recorde em 2020
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ato n° 65 do Departamento de Sanidade Vegetal e Insumos Agrícolas da Secretaria de Defesa Agropecuária, publicado nesta sexta-feira (27) no Diário Oficial da União (DOU), traz o registro de 42 produtos formulados, ou seja, defensivos agrícolas que efetivamente estarão disponíveis para uso pelos agricultores. Desse total, 13 são defensivos agrícolas de controle biológico, sendo seis deles autorizados para uso na agricultura orgânica.
 

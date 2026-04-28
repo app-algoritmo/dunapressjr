@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério condena 'ataques' do governo contra jornalista"
+title: Marcos Rogério condena 'ataques' do governo contra jornalista
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) acusou nesta segunda-feira (20) o governo federal de promover “ataques pessoais” contra a jornalista Andreza Matais, do jornal *O Estado de S. Paulo*. Em pronunciamento no Plenário, Marcos Rogério afirmou que há um “modus operandi” na gestão do presidente Luiz Inácio Lula da Silva contra o trabalho da imprensa.
 

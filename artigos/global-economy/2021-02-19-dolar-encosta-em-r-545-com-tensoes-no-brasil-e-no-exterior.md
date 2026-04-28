@@ -1,11 +1,12 @@
 ---
-title: "Dólar encosta em R$ 5,45 com tensões no Brasil e no exterior"
+title: Dólar encosta em R$ 5,45 com tensões no Brasil e no exterior
 date: 2021-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa de valores fecha em queda de 0,96%.
 

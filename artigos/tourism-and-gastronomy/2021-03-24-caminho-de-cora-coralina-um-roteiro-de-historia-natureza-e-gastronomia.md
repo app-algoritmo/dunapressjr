@@ -1,11 +1,12 @@
 ---
-title: "Caminho de Cora Coralina, um roteiro de história, natureza e gastronomia"
+title: Caminho de Cora Coralina, um roteiro de história, natureza e gastronomia
 date: 2021-03-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 -O Caminho de Cora Coralina é uma trilha de longo curso que cruza as cidades históricas de Corumbá de Goiás, Pirenópolis, São Francisco de Goiás, Jaraguá e a Cidade de Goiás, abrangendo também os municípios de Cocalzinho de Goiás, Itaguari e Itaberaí. Idealizado em 2013, o projeto teve como propósito interligar os municípios, povoados, fazendas e atrativos, passando por antigos caminhos, num roteiro de história, natureza e gastronomia.
 

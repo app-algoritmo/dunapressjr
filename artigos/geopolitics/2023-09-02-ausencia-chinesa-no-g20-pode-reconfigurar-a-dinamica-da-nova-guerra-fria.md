@@ -1,11 +1,12 @@
 ---
-title: "Ausência Chinesa no G20 Pode Reconfigurar a Dinâmica da Nova Guerra Fria"
+title: Ausência Chinesa no G20 Pode Reconfigurar a Dinâmica da Nova Guerra Fria
 date: 2023-09-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O G20 é fundamental para a governança econômica global. A ausência da China, uma das maiores economias do mundo, pode levar a incertezas no mercado e possivelmente a desestabilizações temporárias.
 

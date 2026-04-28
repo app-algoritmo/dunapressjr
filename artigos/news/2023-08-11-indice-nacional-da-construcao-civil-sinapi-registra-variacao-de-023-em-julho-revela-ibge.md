@@ -1,11 +1,13 @@
 ---
-title: "Índice Nacional da Construção Civil (Sinapi) registra variação de 0,23% em julho, revela IBGE"
+title: Índice Nacional da Construção Civil (Sinapi) registra variação de 0,23% em
+  julho, revela IBGE
 date: 2023-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice apresenta queda em relação ao mês anterior e acumulado nos últimos 12 meses fica abaixo do período anterior.
 

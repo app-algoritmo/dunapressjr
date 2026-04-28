@@ -1,12 +1,14 @@
 ---
-title: "Festival Vamos Passear estreia em Belém (PA) com muita festa no estádio do Mangueirão no Dia dos Pais"
+title: Festival Vamos Passear estreia em Belém (PA) com muita festa no estádio do
+  Mangueirão no Dia dos Pais
 date: 2023-08-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## A inédita etapa do evento reuniu 1.550 pessoas neste domingo (13), divididas no Passeio de Bike, Caminhada e Corrida Infantil, assim como quem esteve nas diferentes atrações gratuitas programadas na capital paraense.
 

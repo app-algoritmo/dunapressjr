@@ -1,11 +1,13 @@
 ---
-title: "Governo da Grã-Bretanha exige que galinhas criadas em casa sejam registradas para combater a gripe aviária"
+title: Governo da Grã-Bretanha exige que galinhas criadas em casa sejam registradas
+  para combater a gripe aviária
 date: 2023-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## É tudo uma questão de controle.
 

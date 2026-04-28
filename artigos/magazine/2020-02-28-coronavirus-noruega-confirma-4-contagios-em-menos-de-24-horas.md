@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Noruega confirma 4 contágios em menos de 24 horas"
+title: 'Coronavírus: Noruega confirma 4 contágios em menos de 24 horas'
 date: 2020-02-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O primeiro caso do coronavírus foi confirmado na Noruega na última quarta-feira 26.2 e outros 3 novos  casos foram confirmados em apenas 24 horas. Agora, as autoridades norueguesas estão se preparando para as mesmas medidas drásticas aplicadas na China, Japão e Itália.
 

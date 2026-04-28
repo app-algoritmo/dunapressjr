@@ -1,11 +1,12 @@
 ---
-title: "<strong>Acre e Roraima têm 100% dos municípios cadastrados no compras.gov.br</strong>"
+title: <strong>Acre e Roraima têm 100% dos municípios cadastrados no compras.gov.br</strong>
 date: 2022-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cadastro no sistema garante acesso a pregões e outras formas de contratação, como dispensa de licitação e adesão a atas de registros de preços.
 

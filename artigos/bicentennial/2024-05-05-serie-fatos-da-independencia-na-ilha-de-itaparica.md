@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Na Ilha de Itaparica"
+title: 'Série Fatos Da Independência: Na Ilha de Itaparica'
 date: 2024-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em junho 1822, o Recôncavo baiano aderiu em peso ao projeto da Independência capitaneado pelo Rio de Janeiro. O centro da resistência se localizava na vila de Cachoeira, que estabeleceu um governo paralelo ao de Salvador.
 

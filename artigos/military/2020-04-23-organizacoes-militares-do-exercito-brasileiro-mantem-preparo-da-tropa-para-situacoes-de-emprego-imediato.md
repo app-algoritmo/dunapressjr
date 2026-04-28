@@ -1,11 +1,13 @@
 ---
-title: "Organizações militares do Exército Brasileiro mantêm preparo da tropa para situações de emprego imediato"
+title: Organizações militares do Exército Brasileiro mantêm preparo da tropa para
+  situações de emprego imediato
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Coxim (MS) **– O apronto operacional é a condição de preparo em que uma organização militar (OM) está pronta para ser empregada em uma missão com todo o seu efetivo, equipamentos, armamentos, viaturas, munições, suprimentos e demais fardos de material. Rotineiramente, as diversas OM do Exército Brasileiro realizam verificações dessa natureza, com a finalidade de avaliar seus níveis de operacionalidade. Exercícios como o realizado pelo 47º Batalhão de Infantaria (47º BI) no último dia 17 de abril.
 

@@ -1,11 +1,12 @@
 ---
-title: "BB lança linha para compra de meios de transporte pouco poluentes"
+title: BB lança linha para compra de meios de transporte pouco poluentes
 date: 2022-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Financiamento abrange motos, bicicletas, patinetes e scooters.
 

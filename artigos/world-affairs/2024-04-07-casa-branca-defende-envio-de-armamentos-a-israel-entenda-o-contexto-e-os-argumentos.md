@@ -1,11 +1,13 @@
 ---
-title: "Casa Branca defende envio de armamentos a Israel: Entenda o contexto e os argumentos"
+title: 'Casa Branca defende envio de armamentos a Israel: Entenda o contexto e os
+  argumentos'
 date: 2024-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em meio às contínuas tensões na Faixa de Gaza, a Casa Branca declarou seu apoio ao envio de mais de 2.000 bombas para Israel. O porta-voz da Segurança Nacional, John Kirby, reafirmou essa posição em uma conferência de imprensa, oferecendo insights sobre o contexto e os motivos por trás dessa decisão.
 

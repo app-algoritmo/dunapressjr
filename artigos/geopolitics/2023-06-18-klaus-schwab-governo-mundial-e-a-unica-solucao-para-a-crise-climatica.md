@@ -1,11 +1,12 @@
 ---
-title: "Klaus Schwab: Governo mundial é a única solução para a crise climática"
+title: 'Klaus Schwab: Governo mundial é a única solução para a crise climática'
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em conversa com a ex- [diretora do Greenpeace Jennifer Morgan](https://www.weforum.org/agenda/authors/jennifer-morgan) em Davos , Klaus Schwab [disse que vinha lidando com o tema "mudança climática" desde 1973 e deu ao Clube de Roma sua primeira grande plataforma.](https://rumble.com/v1396xx-klaus-schwab-gave-club-of-rome-first-big-platform.html)
 

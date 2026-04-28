@@ -1,11 +1,12 @@
 ---
-title: "Governo propõe salário mínimo de R$ 1.389 em 2024, sem aumento real"
+title: Governo propõe salário mínimo de R$ 1.389 em 2024, sem aumento real
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reajuste segue previsão de 5,16% do INPC para este ano.
 

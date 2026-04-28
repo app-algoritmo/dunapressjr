@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai para menor nível desde agosto com crise no Credit Suisse"
+title: Bolsa cai para menor nível desde agosto com crise no Credit Suisse
 date: 2023-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar encosta em R$ 5,3 e atinge maior valor em dois meses.
 

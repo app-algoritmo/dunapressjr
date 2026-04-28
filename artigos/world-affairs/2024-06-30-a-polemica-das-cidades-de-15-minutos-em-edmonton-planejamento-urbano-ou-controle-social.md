@@ -1,11 +1,13 @@
 ---
-title: "A Polêmica das Cidades de 15 Minutos em Edmonton: Planejamento Urbano ou Controle Social?"
+title: 'A Polêmica das Cidades de 15 Minutos em Edmonton: Planejamento Urbano ou Controle
+  Social?'
 date: 2024-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Edmonton, no Canadá, tem sido palco de um intenso debate sobre a implementação das chamadas "cidades de 15 minutos". Este conceito urbano visa garantir que todos os bens e serviços essenciais estejam acessíveis em um raio de 15 minutos a pé, de bicicleta ou de transporte público. No entanto, a iniciativa tem enfrentado resistência significativa entre os residentes.
 

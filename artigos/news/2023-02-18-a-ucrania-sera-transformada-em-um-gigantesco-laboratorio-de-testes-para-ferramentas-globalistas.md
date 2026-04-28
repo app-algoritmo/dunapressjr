@@ -1,11 +1,13 @@
 ---
-title: "A Ucrânia será transformada em um gigantesco laboratório de testes para ferramentas globalistas"
+title: A Ucrânia será transformada em um gigantesco laboratório de testes para ferramentas
+  globalistas
 date: 2023-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Ucrânia está prestes a se tornar o maior laboratório de testes para IDs digitais, moedas digitais do banco central (CBDC), um sistema de crédito social e até mesmo um sistema judicial baseado em inteligência artificial, para citar alguns. Isso escreve o Dr. José Mercola nas [redes sociais](https://twitter.com/mercola/status/1626241452660641793?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1626241452660641793%7Ctwgr%5Eced7bb6bfc56982f23198b6c930aa9c7693c78af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ninefornews.nl%2Forwelliaanse-dystopie-zo-wordt-oekraine-omgetoverd-tot-groot-testlab-voor-globalistische-tools%2F) .
 

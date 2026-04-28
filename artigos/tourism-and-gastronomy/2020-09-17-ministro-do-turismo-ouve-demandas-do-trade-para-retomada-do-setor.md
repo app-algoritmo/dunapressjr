@@ -1,11 +1,12 @@
 ---
-title: "Ministro do Turismo ouve demandas do trade para retomada do setor"
+title: Ministro do Turismo ouve demandas do trade para retomada do setor
 date: 2020-09-17
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Assuntos como reforma tributária, reabertura de atrativos e políticas de benefícios aos turistas foram debatidos.
 

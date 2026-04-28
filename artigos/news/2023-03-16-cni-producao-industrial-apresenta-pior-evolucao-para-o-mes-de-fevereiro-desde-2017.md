@@ -1,11 +1,13 @@
 ---
-title: "CNI: Produção industrial apresenta pior evolução para o mês de fevereiro desde 2017"
+title: 'CNI: Produção industrial apresenta pior evolução para o mês de fevereiro desde
+  2017'
 date: 2023-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sondagem Industrial mostra que o indicador caiu 2,7 pontos de janeiro para fevereiro de 2023. A pesquisa antecipa tendência da atividade industrial e as expectativas dos empresários por porte de empresa.
 

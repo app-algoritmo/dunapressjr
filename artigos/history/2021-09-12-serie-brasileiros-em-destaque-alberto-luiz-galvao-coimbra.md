@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Alberto Luiz Galvão Coimbra"
+title: 'Série Brasileiros em Destaque: Alberto Luiz Galvão Coimbra'
 date: 2021-09-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Engenheiro.
 

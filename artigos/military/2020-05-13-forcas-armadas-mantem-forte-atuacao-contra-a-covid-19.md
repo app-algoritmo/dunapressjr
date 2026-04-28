@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas mantém forte atuação contra a Covid-19"
+title: Forças Armadas mantém forte atuação contra a Covid-19
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A atuação das Forças Armadas nas ações de enfrentamento à COVID-19 estende-se por todo o País. Na capital de Roraima, a Operação Acolhida recebeu, na Base Aérea, materiais de apoio para ampliar a capacidade de atuação da Área de Proteção e Cuidados. Na logística, foram utilizadas aeronaves Hércules (C-130), disponibilizadas pela Força Aérea Brasileira.
 

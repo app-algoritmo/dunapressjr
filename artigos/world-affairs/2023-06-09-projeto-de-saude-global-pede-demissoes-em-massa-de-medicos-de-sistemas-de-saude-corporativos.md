@@ -1,11 +1,13 @@
 ---
-title: "Projeto de saúde global pede demissões em massa de médicos de sistemas de saúde corporativos"
+title: Projeto de saúde global pede demissões em massa de médicos de sistemas de saúde
+  corporativos
 date: 2023-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Kat Lindley, DO, e um grupo de médicos internacionais e outros profissionais de saúde lançaram uma campanha chamada Never Again para garantir que os profissionais de saúde de todos os tipos levem em consideração todas as atividades negativas que ocorrem durante a pandemia global do COVID-19, incluindo a censura de médicos da linha de frente que estão simplesmente tentando seguir o juramento de Hipócrates para apoiar seus pacientes. O Global Health Project se apresenta como um grupo de médicos e cidadãos que reconhecem que simplesmente deixar a experiência do COVID-19 é perigoso. O grupo explica que médicos de pensamento independente, outros profissionais de saúde e cidadãos solidários e preocupados "estão se unindo
 

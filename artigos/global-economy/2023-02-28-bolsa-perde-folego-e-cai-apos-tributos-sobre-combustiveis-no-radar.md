@@ -1,11 +1,12 @@
 ---
-title: "Bolsa perde fôlego e cai após tributos sobre combustíveis no radar"
+title: Bolsa perde fôlego e cai após tributos sobre combustíveis no radar
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Impostos federais incidirão sobre gasolina e etanol a partir 1° de março.
 

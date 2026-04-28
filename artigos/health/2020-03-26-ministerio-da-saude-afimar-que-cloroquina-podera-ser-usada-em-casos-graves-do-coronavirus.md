@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde afimar que Cloroquina poderá ser usada em casos graves do coronavírus"
+title: Ministério da Saúde afimar que Cloroquina poderá ser usada em casos graves
+  do coronavírus
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 *O medicamento é indicado para uso de curto prazo, apenas em pacientes graves hospitalizados devido ao coronavírus*.
 

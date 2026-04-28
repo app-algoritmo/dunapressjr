@@ -1,11 +1,12 @@
 ---
-title: "Começa hoje registro de chaves digitais do Pix"
+title: Começa hoje registro de chaves digitais do Pix
 date: 2020-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cliente poderá cadastrar e-mail, telefone ou CPF e CNPJ.
 

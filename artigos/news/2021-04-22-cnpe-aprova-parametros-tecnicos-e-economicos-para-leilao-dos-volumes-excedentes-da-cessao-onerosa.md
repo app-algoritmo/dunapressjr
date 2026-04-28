@@ -1,11 +1,13 @@
 ---
-title: "CNPE aprova parâmetros técnicos e econômicos para Leilão dos Volumes Excedentes da Cessão Onerosa"
+title: CNPE aprova parâmetros técnicos e econômicos para Leilão dos Volumes Excedentes
+  da Cessão Onerosa
 date: 2021-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parâmetros escolhidos são resultado de um processo que envolveu a realização de estudos econômicos para a indicação do bônus de assinatura e alíquota.
 

@@ -1,11 +1,12 @@
 ---
-title: "Tesouro Nacional revisa Plano Anual de Financiamento de 2021"
+title: Tesouro Nacional revisa Plano Anual de Financiamento de 2021
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Cenário favorável permitiu reduzir limite máximo da Dívida Pública Federal para R$ 5,8 trilhões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Alunos da escola José Medeiros Vieira visitam locais históricos de Itajaí"
+title: Alunos da escola José Medeiros Vieira visitam locais históricos de Itajaí
 date: 2022-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estudantes dos terceiros e quintos anos da Escola Básica José Medeiros Vieira, do bairro São Vicente, visitaram o Museu Histórico de Itajaí e a Casa da Cultura Dide Brandão nesta quarta (02) e quinta-feira (03). A atividade extraclasse envolveu 200 estudantes e está relacionada à programação do aniversário de 162 anos de Itajaí, que será desenvolvida pela unidade de ensino ao longo do mês de junho.
 

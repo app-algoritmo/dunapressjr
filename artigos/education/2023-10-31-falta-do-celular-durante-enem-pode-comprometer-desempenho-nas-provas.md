@@ -1,11 +1,12 @@
 ---
-title: "Falta do celular durante Enem pode comprometer desempenho nas provas"
+title: Falta do celular durante Enem pode comprometer desempenho nas provas
 date: 2023-10-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Chamada de "nomofobia", ansiedade causada pelo afastamento do aparelho prejudica raciocínio; saiba como lidar com isso.
 

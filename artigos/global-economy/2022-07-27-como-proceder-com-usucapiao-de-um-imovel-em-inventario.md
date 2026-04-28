@@ -1,11 +1,12 @@
 ---
-title: "Como proceder com usucapião de um imóvel em inventário"
+title: Como proceder com usucapião de um imóvel em inventário
 date: 2022-07-27
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A usucapião de imóvel em [inventário](https://oliveiraedansiguer.adv.br/6-caracteristicas-do-inventario-extrajudicial-que-voce-precisa-saber/) é uma situação possível de ser resolvida, de acordo com entendimento do Supremo Tribunal de Justiça (STJ). Para proceder com os trâmites, o interessado deve cumprir todos os requisitos legais. Antes disso, contudo, é recomendável contar com a ajuda de um advogado para avaliar se há, de fato, o direito à aquisição da propriedade.
 

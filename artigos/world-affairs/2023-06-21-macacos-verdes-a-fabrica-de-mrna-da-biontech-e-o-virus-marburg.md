@@ -1,11 +1,12 @@
 ---
-title: "Macacos verdes? A fábrica de mRNA da BioNTech e o vírus Marburg"
+title: Macacos verdes? A fábrica de mRNA da BioNTech e o vírus Marburg
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Citando o microbiologista Kevin McKernan, o *Epoch Times *[relata](https://www.theepochtimes.com/health/green-monkey-dna-found-in-covid-19-shots_5317587.html) que o DNA de macaco verde foi encontrado em vacinas Covid-19 baseadas em mRNA. Isso levou DD Denslow a observar em [um tweet viral](https://twitter.com/wolsned/status/1668352686570233874?s=20) que os macacos verdes foram a fonte do infame surto de vírus Marburg de 1967.
 

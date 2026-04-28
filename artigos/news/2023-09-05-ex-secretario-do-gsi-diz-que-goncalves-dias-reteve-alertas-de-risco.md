@@ -1,11 +1,12 @@
 ---
-title: "Ex-secretário do GSI diz que Gonçalves Dias reteve alertas de risco"
+title: Ex-secretário do GSI diz que Gonçalves Dias reteve alertas de risco
 date: 2023-09-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## General Penteado depõe na CPI dos Atos Golpistas da Câmara Legislativa.
 

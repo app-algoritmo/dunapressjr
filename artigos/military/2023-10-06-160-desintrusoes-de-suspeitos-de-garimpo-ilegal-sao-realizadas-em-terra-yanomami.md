@@ -1,11 +1,12 @@
 ---
-title: "160 desintrusões de suspeitos de garimpo ilegal são realizadas em Terra Yanomami"
+title: 160 desintrusões de suspeitos de garimpo ilegal são realizadas em Terra Yanomami
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta segunda-feira (2), as Forças Armadas, em coordenação com a Polícia Federal, realizaram a desintrusão de mais nove detidos suspeitos de envolvimento com atividade de garimpo ilegal na região de Minau, próxima a Xitei (RR).
 

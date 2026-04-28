@@ -1,11 +1,12 @@
 ---
-title: "Brasil e China debatem oportunidades de cooperação econômica e investimentos"
+title: Brasil e China debatem oportunidades de cooperação econômica e investimentos
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Representantes do Ministério da Economia brasileiro e do Ministério de Finanças chinês abordaram, durante reunião virtual, temas como financiamento e planejamento para investimentos em infraestrutura.
 

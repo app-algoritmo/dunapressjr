@@ -1,11 +1,12 @@
 ---
-title: "Natal EnCanto de Itajaí/SC começa nesta semana e terá mais de 50 atrações artísticas"
+title: Natal EnCanto de Itajaí/SC começa nesta semana e terá mais de 50 atrações artísticas
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um mundo de cores e de magia tomará conta de Itajaí. O Natal EnCanto começa nesta quinta-feira (08) com desfile na rua Hercílio Luz, seguido da apresentação Anjos Cantores, que reunirá crianças cantoras na escadaria e janelas do Museu Histórico, no Centro. A Rua Coberta, localizada na Praça Arno Bauer, também abre com feira de artesanato, feira de livros e uma série de atrações musicais e gastronômicas. Ao longo do evento, haverá ainda grupos convidados no Palco da Igreja Matriz, projeção mapeada, concerto com orquestra e grande coro e a caravana do Noel nos bairros. A programação é 100% gratuita e segue até o dia 22 de dezembro.
 

@@ -1,11 +1,13 @@
 ---
-title: "PR Jair Bolsonaro foi recebido com honras militares na sede do Comando Sul nos EUA"
+title: PR Jair Bolsonaro foi recebido com honras militares na sede do Comando Sul
+  nos EUA
 date: 2020-03-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os Estados Unidos e o Brasil assinaram um acordo de defesa que facilitará o intercâmbio militar
 

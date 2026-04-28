@@ -1,11 +1,12 @@
 ---
-title: "Projeto veda investidura em cargo público de condenado por maus-tratos a animais"
+title: Projeto veda investidura em cargo público de condenado por maus-tratos a animais
 date: 2023-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 218/23, do deputado [Fred Costa (Patriota-MG)](https://www.camara.leg.br/deputados/204494), proíbe a investidura em cargos ou empregos públicos de pessoas condenadas por maus-tratos aos animais com base na [Lei dos Crimes Ambientais](https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-norma-pl.html).
 

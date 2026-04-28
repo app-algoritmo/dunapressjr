@@ -1,11 +1,13 @@
 ---
-title: "Programa Nacional de Segurança nas Fronteiras e Divisas completa um ano de atuação com resultados expressivos"
+title: Programa Nacional de Segurança nas Fronteiras e Divisas completa um ano de
+  atuação com resultados expressivos
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 15/04/2020** - Mais de 1500 profissionais, de forças policiais federais, estaduais e de instituições que atuam na fronteira, trabalham há um ano com o mesmo objetivo: reduzir a vitalidade financeira das organizações criminosas, tendo proporcionado um** prejuízo de mais de R$ 750 milhões às organizações criminosas**. A união de esforços e a troca de conhecimento contemplam as estratégias do Programa Nacional de Segurança nas Fronteiras e Divisas (VIGIA), um dos projetos estratégicos do Ministério da Justiça e Segurança Pública, e que completa um ano no dia 15 de abril.
 

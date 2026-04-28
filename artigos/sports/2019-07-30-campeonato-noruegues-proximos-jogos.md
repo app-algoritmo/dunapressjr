@@ -1,11 +1,12 @@
 ---
-title: "Campeonato norueguês: próximos jogos"
+title: 'Campeonato norueguês: próximos jogos'
 date: 2019-07-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 O campeonato norueguês está pegando fogo! Veja a seguir a tabela de jogos a serem disputados na 74ª temporada do futebol de primeira linha na Noruega entre os dias 03.08 e 05.08 de 2019
 

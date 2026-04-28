@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cai 0,6%, revela pesquisa do IBGE"
+title: Produção industrial cai 0,6%, revela pesquisa do IBGE
 date: 2021-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na comparação com outubro de 2020, queda é de 7,8%.
 

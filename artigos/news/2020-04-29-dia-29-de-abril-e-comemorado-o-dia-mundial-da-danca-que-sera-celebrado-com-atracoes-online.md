@@ -1,11 +1,13 @@
 ---
-title: "Dia 29 de Abril é comemorado o dia Mundial da Dança que será celebrado com atrações online"
+title: Dia 29 de Abril é comemorado o dia Mundial da Dança que será celebrado com
+  atrações online
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde 1982, quando foi reconhecido pelo Comitê Internacional da Dança (CID) da Unesco, o Dia Mundial da Dança é celebrado no dia 29 de abril. Como a pandemia do novo coronavírus alterou a rotina de todo o mundo, várias entidades do segmento estão oferecendo atrações para comemorar a data. E são várias as possibilidades para quem gosta da arte, com shows que incluem o Bolshoi, o Grupo Corpo e a Escola Porto Iracema das Artes.
 

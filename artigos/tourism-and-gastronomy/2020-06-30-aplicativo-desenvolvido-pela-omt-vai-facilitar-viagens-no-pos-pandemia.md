@@ -1,11 +1,12 @@
 ---
-title: "Aplicativo desenvolvido pela OMT vai facilitar viagens no pós-pandemia"
+title: Aplicativo desenvolvido pela OMT vai facilitar viagens no pós-pandemia
 date: 2020-06-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Ferramenta permitirá que turistas tenham cópias digitais dos principais documentos necessários para a identificação pessoal em destinos.
 

@@ -1,13 +1,14 @@
 ---
-title: "O Brasil perto do Caos - A realidade, para quem a quer conhecer"
+title: O Brasil perto do Caos - A realidade, para quem a quer conhecer
 date: 2022-11-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Opinion
+- Military
+- News
+- Opinion
 ---
+
 
 ## Análise dos possíveis cenários após a diplomação - oferecido pelo militar da reserva Jenyberto Pizzotti - Ministério do Exército 2ª RM 14ª CSM - CR nº 217479 //...
 

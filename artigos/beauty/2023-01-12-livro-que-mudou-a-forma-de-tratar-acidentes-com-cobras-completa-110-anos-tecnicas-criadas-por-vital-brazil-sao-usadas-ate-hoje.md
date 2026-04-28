@@ -1,12 +1,14 @@
 ---
-title: "Livro que mudou a forma de tratar acidentes com cobras completa 110 anos; técnicas criadas por Vital Brazil são usadas até hoje"
+title: Livro que mudou a forma de tratar acidentes com cobras completa 110 anos; técnicas
+  criadas por Vital Brazil são usadas até hoje
 date: 2023-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Beauty
-  - Health
+- Beauty
+- Health
 ---
+
 
 Em uma época em que os acidentes com cobras eram tratados com remédios caseiros e atingiam, principalmente, os trabalhadores do campo, o médico sanitarista Vital Brazil se interessou pelo assunto. Foi graças à continuidade de suas pesquisas após a criação, nas primeiras décadas do século 20, do Instituto Serumtherápico (atual Instituto Butantan), inaugurado com o objetivo de fornecer soluções para o problema da peste bubônica, que ele fez uma das maiores descobertas da saúde pública relacionada ao tratamento de acidentes com animais peçonhentos: a especificidade dos soros antiofídicos. A descoberta foi descrita no livro “A defesa contra o ophidismo”, publicado em 1911, e que acaba de completar 110 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "O acesso à Internet deve se tornar um direito humano"
+title: O acesso à Internet deve se tornar um direito humano
 date: 2023-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O acesso à Internet deve se tornar um direito humano ou corremos o risco de aumentar a desigualdade.
 

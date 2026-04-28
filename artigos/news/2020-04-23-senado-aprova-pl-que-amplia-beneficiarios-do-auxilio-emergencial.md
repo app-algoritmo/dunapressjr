@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova PL que amplia beneficiários do auxílio emergencial"
+title: Senado aprova PL que amplia beneficiários do auxílio emergencial
 date: 2020-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Artesãos e cabelereiros estão entre novas classes de beneficiados
 

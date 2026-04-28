@@ -1,11 +1,13 @@
 ---
-title: "Primárias Republicanas em Nevada: Nikki Haley Sofre Derrota Surpreendente para 'Nenhum dos Candidatos'"
+title: 'Primárias Republicanas em Nevada: Nikki Haley Sofre Derrota Surpreendente
+  para ''Nenhum dos Candidatos'''
 date: 2024-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nesta terça-feira, as primárias republicanas em Nevada viram uma reviravolta impressionante quando a candidata Nikki Haley foi derrotada pela opção "Nenhum dos Candidatos", que dominou com uma margem inesperada de 61% dos votos. 
 

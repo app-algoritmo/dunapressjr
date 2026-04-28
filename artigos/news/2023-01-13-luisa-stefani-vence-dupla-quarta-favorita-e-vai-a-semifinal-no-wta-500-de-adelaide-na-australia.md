@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani vence dupla quarta favorita e vai à semifinal no WTA 500 de Adelaide, na Austrália"
+title: Luisa Stefani vence dupla quarta favorita e vai à semifinal no WTA 500 de Adelaide,
+  na Austrália
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Luisa Stefani, número 47 do mundo, marcou mais uma ótima vitória no começo da manhã desta quarta-feira (11) e garantiu vaga nas semifinais do WTA 500 de Adelaide, na Austrália, com premiação de US$ 780 mil. Luisa e a norte-americana Taylor Towsend, 24ª colocada no ranking mundial, superaram a dupla cabeça de chave 4, formada pela holandesa Demi Schuurs e a norte-americana Desirae Krawczyk, por 2 sets a 1, com parciais de 6/3, 4/6 e 10-7.
 

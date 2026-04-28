@@ -1,11 +1,13 @@
 ---
-title: "Prefeitura de Itajaí prorroga as medidas administrativas de enfrentamento à COVID-19"
+title: Prefeitura de Itajaí prorroga as medidas administrativas de enfrentamento à
+  COVID-19
 date: 2020-09-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí anuncia nova prorrogação das medidas de enfrentamento ao coronavírus (COVID-19), por meio do **Decreto Municipal n° 12.014/2020**. Não houve alterações nas proibições e/ou liberações desde o decreto anterior. Templos religiosos, porém, passam a ter permissão para realizar missas ou cultos com até 50% de sua capacidade, com ocupação alternada de assentos. As prorrogações valem até 30 de setembro.
 

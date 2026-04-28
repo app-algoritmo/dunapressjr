@@ -1,11 +1,12 @@
 ---
-title: "BNDES aprova financiamento de R$ 450 milhões para exportação de aviões"
+title: BNDES aprova financiamento de R$ 450 milhões para exportação de aviões
 date: 2021-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aeronaves da Embraer serão compradas por empresa dos Estados Unidos
 

@@ -1,11 +1,12 @@
 ---
-title: "Pré-sal produzirá 8,2 bilhões de barris de petróleo na próxima década"
+title: Pré-sal produzirá 8,2 bilhões de barris de petróleo na próxima década
 date: 2021-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa foi apresentada nesta quarta-feira (24) no 4º Fórum Técnico Pré-sal Petróleo.
 

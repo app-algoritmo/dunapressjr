@@ -1,11 +1,12 @@
 ---
-title: "Brasil sitiado: o pedido urgente de socorro no Rio Grande do Sul"
+title: 'Brasil sitiado: o pedido urgente de socorro no Rio Grande do Sul'
 date: 2026-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 No coração do Rio Grande do Sul, no Brasil, uma situação catastrófica está se desenrolando, envolta em desespero e prevaricação política. A região encontra-se sitiada, não por adversários convencionais, mas pelas forças implacáveis ​​da natureza, agravadas pela negligência humana e por uma agenda sinistra.
 

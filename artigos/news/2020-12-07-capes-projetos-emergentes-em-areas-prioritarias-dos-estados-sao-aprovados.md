@@ -1,11 +1,12 @@
 ---
-title: "Capes: Projetos emergentes em áreas prioritárias dos estados são aprovados"
+title: 'Capes: Projetos emergentes em áreas prioritárias dos estados são aprovados'
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) selecionou 71 projetos voltados a programas de pós-graduação (PPGs) emergentes e em consolidação em áreas prioritárias nos estados. Vinte e uma Fundações Estaduais de Amparo à Pesquisa (FAPs) participaram do certame. O resultado preliminar do Edital nº 18/2020 está disponível na edição desta sexta-feira (4) do Diário Oficial da União (DOU).
 

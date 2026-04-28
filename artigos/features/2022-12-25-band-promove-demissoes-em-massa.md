@@ -1,12 +1,13 @@
 ---
-title: "Band promove demissões em massa"
+title: Band promove demissões em massa
 date: 2022-12-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## As demissões pegaram parte dos profissionais de surpresa, gerando insegurança sobre o futuro.
 

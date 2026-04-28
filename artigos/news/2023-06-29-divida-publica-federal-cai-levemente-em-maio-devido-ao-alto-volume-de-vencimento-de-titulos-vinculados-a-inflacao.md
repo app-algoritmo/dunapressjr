@@ -1,11 +1,13 @@
 ---
-title: "Dívida Pública Federal cai levemente em maio devido ao alto volume de vencimento de títulos vinculados à inflação"
+title: Dívida Pública Federal cai levemente em maio devido ao alto volume de vencimento
+  de títulos vinculados à inflação
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tesouro Nacional divulga números indicando recuo de 0,31% na DPF, que permanece acima de R$ 6 trilhões.
 

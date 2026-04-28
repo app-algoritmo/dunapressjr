@@ -1,11 +1,12 @@
 ---
-title: "<strong>Empresas poderão renegociar dívidas com o Fisco com 70% de desconto</strong>"
+title: <strong>Empresas poderão renegociar dívidas com o Fisco com 70% de desconto</strong>
 date: 2022-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Portaria que amplia transação tributária foi publicada nesta sexta-feira.
 

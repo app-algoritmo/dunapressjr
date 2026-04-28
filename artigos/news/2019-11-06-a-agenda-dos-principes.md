@@ -1,11 +1,12 @@
 ---
-title: "A AGENDA DOS PRÍNCIPES"
+title: A AGENDA DOS PRÍNCIPES
 date: 2019-11-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na semana passada, o nobre belga Michel, 14º Príncipe de Ligne, sua esposa, a Princesa de Ligne, Dona Eleonora de Orleans e Bragança, nascida Princesa do Brasil, e seu filho, o Príncipe Hereditário Henri de Ligne, lideraram um grupo de trinta e cinco membros da Casa Principesca de Ligne em viagem a Israel. 
 

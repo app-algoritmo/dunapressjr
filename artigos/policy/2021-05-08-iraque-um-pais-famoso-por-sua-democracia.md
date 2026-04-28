@@ -1,11 +1,12 @@
 ---
-title: "Iraque: um país famoso por sua democracia"
+title: 'Iraque: um país famoso por sua democracia'
 date: 2021-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O Iraque pós-Saddam sofreu com a má governança. O novo e democrático Iraque está repleto de subornos, propinas e apropriação indébita, uma parte rotineira de sua política corrupta.
 

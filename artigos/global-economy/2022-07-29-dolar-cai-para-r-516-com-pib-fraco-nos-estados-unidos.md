@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,16 com PIB fraco nos Estados Unidos"
+title: Dólar cai para R$ 5,16 com PIB fraco nos Estados Unidos
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa subiu 1,14% e recuperou os 102 mil pontos.
 

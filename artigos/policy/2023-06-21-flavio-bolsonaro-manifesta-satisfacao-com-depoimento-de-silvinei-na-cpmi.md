@@ -1,11 +1,12 @@
 ---
-title: "Flávio Bolsonaro manifesta satisfação com depoimento de Silvinei na CPMI"
+title: Flávio Bolsonaro manifesta satisfação com depoimento de Silvinei na CPMI
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Flávio Bolsonaro (PL-RJ) manifestou satisfação, em pronunciamento na terça-feira (20), com o depoimento do ex-diretor da Polícia Rodoviária Federal (PRF), Silvinei Vasques, na Comissão Parlamentar Mista de Inquérito (CPMI) do 8 de Janeiro. O testemunho do policial aposentado é uma oportunidade, segundo Flávio Bolsonaro, de combater a "falsa narrativa de golpe que a esquerda tenta impor ao Brasil".
 

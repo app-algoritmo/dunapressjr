@@ -1,11 +1,12 @@
 ---
-title: "Confiança de pequenas empresas fica estável em fevereiro"
+title: Confiança de pequenas empresas fica estável em fevereiro
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Melhora no comércio compensou queda na indústria e nos serviços.
 

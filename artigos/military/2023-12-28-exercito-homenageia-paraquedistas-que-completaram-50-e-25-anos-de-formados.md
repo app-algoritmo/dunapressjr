@@ -1,11 +1,12 @@
 ---
-title: "Exército homenageia paraquedistas que completaram 50 e 25 anos de formados"
+title: Exército homenageia paraquedistas que completaram 50 e 25 anos de formados
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Neste mês de dezembro, a Brigada de Infantaria Pára-quedista celebrou o seu 78º aniversário de criação, em cerimônia que prestou homenagem aos paraquedistas das turmas de 1973 e 1998. Esses militares completaram o Jubileu de Ouro e de Prata, que marcam, respectivamente, 50 e 25 anos de conclusão do Curso Básico Paraquedista. A cerimônia é um culto à mística paraquedista e mantém vivo o espírito de corpo entre os combatentes de diferentes gerações.
 

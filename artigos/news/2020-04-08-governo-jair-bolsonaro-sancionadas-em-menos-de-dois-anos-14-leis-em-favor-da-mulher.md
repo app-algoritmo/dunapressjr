@@ -1,11 +1,13 @@
 ---
-title: "Governo Jair Bolsonaro sancionadas em menos de dois anos, 14 leis em favor da mulher"
+title: Governo Jair Bolsonaro sancionadas em menos de dois anos, 14 leis em favor
+  da mulher
 date: 2020-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma das principais frentes de ação do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) é a proteção da população feminina em sua totalidade: enfrentamento à violência, garantia de direitos e maior qualidade de vida.
 

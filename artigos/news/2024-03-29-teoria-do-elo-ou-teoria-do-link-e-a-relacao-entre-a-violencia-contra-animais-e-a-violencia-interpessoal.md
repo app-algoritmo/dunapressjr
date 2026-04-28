@@ -1,12 +1,14 @@
 ---
-title: "Teoria do elo ou Teoria do Link: é a relação entre a violência contra animais e a violência interpessoal"
+title: 'Teoria do elo ou Teoria do Link: é a relação entre a violência contra animais
+  e a violência interpessoal'
 date: 2024-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Pesquisas indicam que 27,1% de adultos que, na idade infantil, sofreram violência doméstica foram também responsáveis por maus-tratos aos animais. 
 

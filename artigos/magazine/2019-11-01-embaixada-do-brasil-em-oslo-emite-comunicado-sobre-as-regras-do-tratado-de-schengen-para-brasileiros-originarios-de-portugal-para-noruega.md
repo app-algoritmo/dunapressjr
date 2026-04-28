@@ -1,12 +1,14 @@
 ---
-title: "Embaixada do Brasil em Oslo emite comunicado sobre as regras do tratado de Schengen para brasileiros originários de Portugal para Noruega"
+title: Embaixada do Brasil em Oslo emite comunicado sobre as regras do tratado de
+  Schengen para brasileiros originários de Portugal para Noruega
 date: 2019-11-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Tourism and Gastronomy
+- Magazine
+- Tourism and Gastronomy
 ---
+
 
 ## Aviso à comunidade brasileira residente em Portugal
 

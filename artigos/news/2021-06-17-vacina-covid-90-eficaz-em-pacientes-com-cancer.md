@@ -1,11 +1,12 @@
 ---
-title: "Vacina COVID 90% eficaz em pacientes com câncer"
+title: Vacina COVID 90% eficaz em pacientes com câncer
 date: 2021-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisadores israelenses descobriram que pacientes oncológicos desenvolvem fortes respostas de anticorpos, dissipando os temores de proteção significativamente mais fraca.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto de Lei fixa diretrizes para atuação de auxiliares de psicologia"
+title: Projeto de Lei fixa diretrizes para atuação de auxiliares de psicologia
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2892/22 estabelece diretrizes para auxiliares na área de psicologia para ajudar na aplicação e avaliação de testes psicológicos e atender a população na área de saúde mental com supervisão de um psicólogo. Como a profissão ainda não foi regulamentada, a proposta apresenta apenas diretrizes para a área.
 

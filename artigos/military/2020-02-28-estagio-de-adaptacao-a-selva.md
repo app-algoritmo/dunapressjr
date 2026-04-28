@@ -1,11 +1,12 @@
 ---
-title: "Estágio de Adaptação à Selva"
+title: Estágio de Adaptação à Selva
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Cruzeiro
 do Sul (AC)** – Entre os dias 13 e 21 de fevereiro, o Comando de

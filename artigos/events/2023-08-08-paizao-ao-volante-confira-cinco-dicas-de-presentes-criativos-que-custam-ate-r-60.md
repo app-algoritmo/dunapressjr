@@ -1,11 +1,13 @@
 ---
-title: "Paizão ao volante? Confira cinco dicas de presentes criativos que custam até R$ 60"
+title: Paizão ao volante? Confira cinco dicas de presentes criativos que custam até
+  R$ 60
 date: 2023-08-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Seleção inclui desde experiência automotiva a itens "bem-humorados" e úteis para quem é apaixonado por carros.
 

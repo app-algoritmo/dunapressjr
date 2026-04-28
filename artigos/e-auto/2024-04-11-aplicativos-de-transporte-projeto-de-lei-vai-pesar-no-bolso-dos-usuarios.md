@@ -1,11 +1,12 @@
 ---
-title: "Aplicativos de transporte: projeto de lei vai pesar no bolso dos usuários?"
+title: 'Aplicativos de transporte: projeto de lei vai pesar no bolso dos usuários?'
 date: 2024-04-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Legislação em debate no Congresso Nacional pode impactar nos valores das viagens por aplicativo, tornando a locação de veículos mais atrativa economicamente.
 

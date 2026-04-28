@@ -1,11 +1,13 @@
 ---
-title: "Ex-assistente da Polícia de Nova York processa prefeito Eric Adams por agressão sexual em 1993"
+title: Ex-assistente da Polícia de Nova York processa prefeito Eric Adams por agressão
+  sexual em 1993
 date: 2024-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma ex-assistente da Polícia de Nova York deu entrada em um processo nesta segunda-feira contra o prefeito da cidade, Eric Adams, alegando que ele a agrediu sexualmente em 1993, quando ambos trabalhavam no escritório de trânsito.
 

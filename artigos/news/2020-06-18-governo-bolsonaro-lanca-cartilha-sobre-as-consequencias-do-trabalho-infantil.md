@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança cartilha sobre as consequências do trabalho infantil"
+title: Governo Bolsonaro lança cartilha sobre as consequências do trabalho infantil
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, uma cartilha sobre as consequências do trabalho infantil na saúde.
 

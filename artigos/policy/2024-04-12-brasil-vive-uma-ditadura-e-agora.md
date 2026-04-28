@@ -1,11 +1,12 @@
 ---
-title: "Brasil vive uma Ditadura, e agora?"
+title: Brasil vive uma Ditadura, e agora?
 date: 2024-04-12
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Por mais que brademos internamente que existe uma ditadura no Brasil, com prisões, perseguições e violações ao estado de direito, o mais importante é o reconhecimento internacional dessa situação. Foi o mesmo que ocorreu com a nossa Independência, em 1822, que só foi efetivada em 1825, com uma constituição própria e o aval do último país: Portugal. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Economia mineira favorece o ambiente de negócios do setor varejista"
+title: Economia mineira favorece o ambiente de negócios do setor varejista
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Durante abertura do quinto Congresso Infovarejo CDL/BH, governador apresentou indicadores que demonstram que Minas é um estado acolhedor para quem pretende empreender.
 

@@ -1,11 +1,13 @@
 ---
-title: "Conselho do PPI delibera sobre projetos de desestatização dos Correios, Eletrobras e EBC durante 1ª Reunião Extraordinária de 2021"
+title: Conselho do PPI delibera sobre projetos de desestatização dos Correios, Eletrobras
+  e EBC durante 1ª Reunião Extraordinária de 2021
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O encontro contou com as presenças do presidente da República, Jair Bolsonaro, e do ministro da Economia, Paulo Guedes, entre outras autoridades.
 

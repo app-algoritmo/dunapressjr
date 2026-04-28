@@ -1,11 +1,12 @@
 ---
-title: "Saiba como é o trabalho dos militares na descontaminação de áreas públicas"
+title: Saiba como é o trabalho dos militares na descontaminação de áreas públicas
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Uma das atividades realizadas pelos militares que atuam na Operação COVID-19 é a descontaminação de áreas públicas. Militares da Marinha do Brasil (MB), do Exército Brasileiro (EB) e da Força Aérea Brasileira (FAB) executam periodicamente ações desse tipo em diversos locais do país. O Comando Conjunto Planalto, por exemplo, atuou na Rodoviária do Plano Piloto de Brasília (DF), no Hospital Regional da Asa Norte (HRAN) e no Aeroporto Internacional Juscelino Kubitschek. Esse trabalho ocorre em apoio aos órgãos de saúde na prevenção ao novo coronavírus. Mas como se dá o trabalho de descontaminação?
 

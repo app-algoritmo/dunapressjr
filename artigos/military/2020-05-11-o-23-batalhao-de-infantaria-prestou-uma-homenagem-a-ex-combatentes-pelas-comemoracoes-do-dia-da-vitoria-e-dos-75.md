@@ -1,11 +1,13 @@
 ---
-title: "O 23º Batalhão de Infantaria prestou uma homenagem a ex-combatentes pelas comemorações do Dia da Vitória e dos 75"
+title: O 23º Batalhão de Infantaria prestou uma homenagem a ex-combatentes pelas comemorações
+  do Dia da Vitória e dos 75
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Blumenau (SC) – O 23º Batalhão de Infantaria, no dia 8 de maio, em razão das comemorações do Dia da Vitória e aos 75 anos da Força Expedicionária Brasileira (FEB), prestou uma singela homenagem a Ex-Combatentes da 2ª Guerra Mundial.
 

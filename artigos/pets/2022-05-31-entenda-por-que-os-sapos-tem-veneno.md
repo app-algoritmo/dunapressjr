@@ -1,11 +1,12 @@
 ---
-title: "Entenda por que os sapos têm veneno"
+title: Entenda por que os sapos têm veneno
 date: 2022-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Assim como as serpentes, você já deve ter ouvido falar que é melhor não mexer com sapos, pois eles são venenosos e podem atacar. Em parte, é verdade: os sapos realmente têm veneno. A diferença é que eles não atacam ou injetam peçonha no inimigo, como as cobras fazem para se alimentar, por exemplo. Na verdade, o veneno do sapo fica localizado em glândulas na superfície da sua pele e é liberado somente quando ele sofre alguma agressão – como quando algum animal o ataca.
 

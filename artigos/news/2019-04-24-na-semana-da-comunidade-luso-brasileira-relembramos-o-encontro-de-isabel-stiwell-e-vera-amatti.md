@@ -1,11 +1,13 @@
 ---
-title: "Na semana da Comunidade Luso-Brasileira relembramos o encontro de Isabel Stiwell e Vera Amatti"
+title: Na semana da Comunidade Luso-Brasileira relembramos o encontro de Isabel Stiwell
+  e Vera Amatti
 date: 2019-04-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em 22 de abril celebramos o Dia da Comunidade Luso-Brasileira e para festejar esta data que tanto fortalece o elo Portugal-Brasil, relembramos o encontro entre um dos maiores nomes da Literatura Portuguesa da atualidade, a escritora Isabel Stiwell, e a jornalista e professora Vera Helena Pancotte Amatti. 
 

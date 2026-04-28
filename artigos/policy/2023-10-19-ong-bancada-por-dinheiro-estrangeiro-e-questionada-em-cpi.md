@@ -1,11 +1,12 @@
 ---
-title: "ONG bancada por dinheiro estrangeiro é questionada em CPI"
+title: ONG bancada por dinheiro estrangeiro é questionada em CPI
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs ouviu nesta terça-feira (17) o diretor do Instituto de Pesquisa Ambiental da Amazônia (IPAM), André Guimarães. A reunião foi marcada por fortes questionamentos dos senadores quanto à postura da ONG, que tem 75% de seu orçamento bancado por governos e associações estrangeiras.
 

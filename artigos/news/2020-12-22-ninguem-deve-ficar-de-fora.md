@@ -1,11 +1,12 @@
 ---
-title: "Ninguém deve ficar de fora"
+title: Ninguém deve ficar de fora
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Noruega |
 

@@ -1,12 +1,13 @@
 ---
-title: "Após entrar no Guinness Book, multiatleta brasileiro planeja novos recordes"
+title: Após entrar no Guinness Book, multiatleta brasileiro planeja novos recordes
 date: 2024-03-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Pessoa mais rápida do mundo a cruzar maior e mais alto deserto de sal do mundo, Pepe Fiamoncini projeta novas marcas ao escalar as maiores montanhas e correr as provas mais desafiadoras do planeta.
 

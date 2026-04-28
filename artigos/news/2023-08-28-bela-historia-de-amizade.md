@@ -1,12 +1,13 @@
 ---
-title: "Bela história de amizade"
+title: Bela história de amizade
 date: 2023-08-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O ator Sylvester Stallone emocionou seus fãs e seguidores nas redes sociais ao compartilhar algumas fotos antigas com seu cão Butkus.
 O cachorro acabou aparecendo nos dois primeiros filmes da franquia de sucesso ‘Rocky’, na década de 70.

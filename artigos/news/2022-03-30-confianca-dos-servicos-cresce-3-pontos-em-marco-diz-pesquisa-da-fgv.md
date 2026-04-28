@@ -1,11 +1,12 @@
 ---
-title: "Confiança dos serviços cresce 3 pontos em março, diz pesquisa da FGV"
+title: Confiança dos serviços cresce 3 pontos em março, diz pesquisa da FGV
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novo cenário é relacionado com a melhora da pandemia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Custo da construção desacelera e sobe 0,33% em agosto"
+title: Custo da construção desacelera e sobe 0,33% em agosto
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acumulado em 12 meses é de 11,40%.
 

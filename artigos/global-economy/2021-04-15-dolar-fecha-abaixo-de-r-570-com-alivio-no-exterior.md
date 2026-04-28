@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha abaixo de R$ 5,70 com alívio no exterior"
+title: Dólar fecha abaixo de R$ 5,70 com alívio no exterior
 date: 2021-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa encerra no maior nível em quase dois meses.
 

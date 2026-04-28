@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova certidão para empresa que não contrata ilegalmente menores de 18 anos"
+title: Comissão aprova certidão para empresa que não contrata ilegalmente menores
+  de 18 anos
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou o [Projeto de Lei 2385/19](https://www.camara.leg.br/noticias/562527-proposta-cria-certidao-para-empresa-que-nao-contrata-ilegalmente-crianca-e-adolescente/), do deputado [Marreca Filho (Patriota-MA)](https://www.camara.leg.br/deputados/204566), que institui a Certidão Negativa de Utilização Ilegal do Trabalho da Criança e do Adolescente (CNTCA).
 

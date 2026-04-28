@@ -1,13 +1,14 @@
 ---
-title: "Proteção da Propriedade Intelectual no Setor de Regulamentação Farmacêutica"
+title: Proteção da Propriedade Intelectual no Setor de Regulamentação Farmacêutica
 date: 2024-08-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Courses and Careers
-  - Personal Development
+- Business and Economy
+- Courses and Careers
+- Personal Development
 ---
+
 
 ## **Seção 1: [Propriedade Intelectual no Setor de Regulamentação Farmacêutica](https://dunapress.org/wp-content/uploads/2024/08/Propriedade-Intelectual.pdf)**
 

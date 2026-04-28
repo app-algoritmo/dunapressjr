@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro aumenta o prazo para pagamento de taxas do setor de telecomunicações"
+title: Governo Bolsonaro aumenta o prazo para pagamento de taxas do setor de telecomunicações
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governo prorrogou para o final de agosto o vencimento de tributos incidentes sobre a prestação de serviços de telecomunicações. O prazo inicial era 31 de março deste ano.
 

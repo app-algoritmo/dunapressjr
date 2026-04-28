@@ -1,11 +1,13 @@
 ---
-title: "Não há esperança de uma conclusão rápida do impasse no Médio Oriente, diz diplomata russa"
+title: Não há esperança de uma conclusão rápida do impasse no Médio Oriente, diz diplomata
+  russa
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Ressalta-se que a situação atual tem sido provocada pelos Estados Unidos da América.
 

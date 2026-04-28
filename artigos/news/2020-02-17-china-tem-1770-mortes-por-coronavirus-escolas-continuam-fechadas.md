@@ -1,11 +1,12 @@
 ---
-title: "China tem 1.770 mortes por coronavírus; escolas continuam fechadas"
+title: China tem 1.770 mortes por coronavírus; escolas continuam fechadas
 date: 2020-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Mais 105 pessoas morreram, principalmente na província de Hubei*
 

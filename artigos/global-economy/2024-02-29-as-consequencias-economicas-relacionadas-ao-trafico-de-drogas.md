@@ -1,11 +1,12 @@
 ---
-title: "As consequências econômicas relacionadas ao tráfico de drogas"
+title: As consequências econômicas relacionadas ao tráfico de drogas
 date: 2024-02-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As consequências econômicas relacionadas aos serviços de segurança e saúde pública, bem como a falência da educação de qualidade, são aspectos significativos do debate sobre o consumo de drogas. O impacto econômico negativo dessas questões é substancial e abrangente, afetando não apenas os indivíduos diretamente envolvidos no consumo de drogas, mas também a sociedade como um todo.
 

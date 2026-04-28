@@ -1,11 +1,13 @@
 ---
-title: "Comissão da Câmara dos EUA Propõe Proibição do TikTok e Outros aplicativos  de Empresas Estrangeiras"
+title: Comissão da Câmara dos EUA Propõe Proibição do TikTok e Outros aplicativos  de
+  Empresas Estrangeiras
 date: 2024-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma comissão da Câmara dos Representantes dos Estados Unidos apresentou um projeto de lei nesta quinta-feira para proibir a popular rede social TikTok em todo o país, juntamente com outras aplicações controladas por empresas estrangeiras rivais. Com receios de possível espionagem chinesa através da aplicação, o projeto de lei, aprovado por unanimidade pela Comissão de Energia e Comércio da Câmara, também exige que a ByteDance, controladora do TikTok, venda a plataforma dentro de 165 dias.
 

@@ -1,11 +1,12 @@
 ---
-title: "GLO no Ceará: Governo Federal agiu rapidamente, afirmou Ministro da Defesa"
+title: 'GLO no Ceará: Governo Federal agiu rapidamente, afirmou Ministro da Defesa'
 date: 2020-02-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Fortaleza, 24/02/2020 –** O Ministro da Defesa, Fernando Azevedo, desembarcou nesta segunda-feira (24) em Fortaleza (CE), para acompanhar a Operação de Garantia da Lei e da Ordem (GLO) que está em curso no estado. Militares das Forças Armadas de vários estados foram deslocados para lá, bem como integrantes de órgãos de Segurança Pública federais, estaduais e municipais. Azevedo estava acompanhado dos ministros da Justiça, Sérgio Moro, e da Advocacia-Geral da União, André Luiz Mendonça.
 

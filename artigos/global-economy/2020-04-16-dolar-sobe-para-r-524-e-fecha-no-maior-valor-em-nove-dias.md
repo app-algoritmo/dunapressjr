@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,24 e fecha no maior valor em nove dias"
+title: Dólar sobe para R$ 5,24 e fecha no maior valor em nove dias
 date: 2020-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa cai depois de duas altas seguidas
 

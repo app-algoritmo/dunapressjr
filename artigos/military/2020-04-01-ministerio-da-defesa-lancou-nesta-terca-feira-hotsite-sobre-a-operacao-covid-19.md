@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Defesa lançou nesta terça-feira hotsite sobre a Operação Covid-19"
+title: Ministério da Defesa lançou nesta terça-feira hotsite sobre a Operação Covid-19
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Defesa lançou, nesta terça-feira (31), o hotsite da Operação Covid-19. Para ter acesso a esse conteúdo, basta acessar o link: [https://operacaocovid19.defesa.gov.br/index.php](https://operacaocovid19.defesa.gov.br/index.php)
 

@@ -1,11 +1,12 @@
 ---
-title: "PF apreende maconha no Aeroporto Internacional do Guararapes em Pernambuco"
+title: PF apreende maconha no Aeroporto Internacional do Guararapes em Pernambuco
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recife/PE - A Polícia Federal, durante fiscalização para reprimir o tráfico internacional e doméstico de drogas no Aeroporto Internacional dos Guararapes/Gilberto Freyre, prendeu em flagrante, na quinta-feira (14/5), uma mulher, de 19 anos, natural e residente em Natal/RN. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Impressão 3D de órgãos humanos: uma realidade cada vez mais próxima"
+title: 'Impressão 3D de órgãos humanos: uma realidade cada vez mais próxima'
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nas próximas décadas, a relação entre a medicina e a engenharia terá atingido um marco histórico quando órgãos humanos puderem ser fabricados com o uso de [impressoras 3D](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/228-impressao-3d-de-orgaos-humanos-uma-realidade-cada-vez-mais-proxima#) e implantados em pacientes debilitados que aguardam por doações de órgãos. Atualmente, a situação mundial é de escassez de órgãos saudáveis para doação, além dos problemas relacionados à [imunossupressão](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/228-impressao-3d-de-orgaos-humanos-uma-realidade-cada-vez-mais-proxima#), causada por drogas, e os riscos da transmissão de doenças nos transplantes. No futuro, com a bioimpressão, os pacientes poderão ser reintegrados à sociedade em tempo mais curto, com qualidade de vida maior e menor custo para a saúde pública.
 

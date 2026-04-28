@@ -1,11 +1,13 @@
 ---
-title: "Netanyahu lidera,de acordo com pesquisas, mas ainda tem 3-4 cadeiras abaixo da maioria"
+title: Netanyahu lidera,de acordo com pesquisas, mas ainda tem 3-4 cadeiras abaixo
+  da maioria
 date: 2020-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Três pesquisas de opinião publicadas na quinta e na sexta-feira mostraram que o primeiro-ministro Benjamin Netanyahu e seu partido Likud mantinham uma ligeira vantagem sobre os rivais em azul e branco, mas nenhum partido liderava um bloco com maioria no Knesset.
 

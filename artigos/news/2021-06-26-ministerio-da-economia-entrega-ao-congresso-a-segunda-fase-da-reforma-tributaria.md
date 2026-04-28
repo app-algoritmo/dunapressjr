@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia entrega ao Congresso a segunda fase da Reforma Tributária"
+title: Ministério da Economia entrega ao Congresso a segunda fase da Reforma Tributária
 date: 2021-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto entregue nesta sexta-feira (25) pelo ministro Paulo Guedes ao presidente da Câmara, Arthur Lira, trata da reforma do Imposto de Renda para pessoas físicas, empresas e investimentos financeiros.
 

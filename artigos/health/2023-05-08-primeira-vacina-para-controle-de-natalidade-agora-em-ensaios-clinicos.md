@@ -1,11 +1,12 @@
 ---
-title: "Primeira vacina para controle de natalidade agora em ensaios clínicos"
+title: Primeira vacina para controle de natalidade agora em ensaios clínicos
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Em vez de interromper o ciclo menstrual, como fazem as formas hormonais de controle de natalidade, a vacina usa osistema imunológico para prevenir a gravidez, bloqueando a fertilização.
 

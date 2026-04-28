@@ -1,11 +1,12 @@
 ---
-title: "Produção de petróleo e gás natural registra recorde no mês de outubro"
+title: Produção de petróleo e gás natural registra recorde no mês de outubro
 date: 2022-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foram 3,24 milhões de barris por dia de petróleo.
 

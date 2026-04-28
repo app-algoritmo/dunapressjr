@@ -1,11 +1,12 @@
 ---
-title: "Projeto dispensa aposentado de comprovar doença que isenta do IR"
+title: Projeto dispensa aposentado de comprovar doença que isenta do IR
 date: 2023-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 36/23 prevê que aposentados e pensionistas isentos de Imposto de Renda (IR) por motivo de saúde sejam liberados, para manter o benefício tributário, de comprovar que a doença ainda existe ou que não está controlada. O texto em análise na Câmara dos Deputados altera a [Lei 7.713/88](https://www2.camara.gov.br/legin/fed/lei/1988/lei-7713-22-dezembro-1988-372153-norma-pl.html), que trata do IR.
 

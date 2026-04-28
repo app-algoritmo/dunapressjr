@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal cresce 1,69% em 2019 e tem melhor resultado em 5 anos"
+title: Arrecadação federal cresce 1,69% em 2019 e tem melhor resultado em 5 anos
 date: 2020-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A arrecadação do governo federal fechou 2019 com alta real
 de 1,69%, a 1,537 trilhão de reais, divulgou a Receita Federal nesta

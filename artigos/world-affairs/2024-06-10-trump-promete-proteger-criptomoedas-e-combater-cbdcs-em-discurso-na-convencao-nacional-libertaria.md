@@ -1,11 +1,13 @@
 ---
-title: "Trump Promete Proteger Criptomoedas e Combater CBDCs em Discurso na Convenção Nacional Libertária"
+title: Trump Promete Proteger Criptomoedas e Combater CBDCs em Discurso na Convenção
+  Nacional Libertária
 date: 2024-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um discurso recente na Convenção Nacional Libertária em Washington, DC, o ex-presidente dos Estados Unidos, Donald Trump, expressou um forte apoio às criptomoedas, prometendo combater a introdução das Moedas Digitais do Banco Central (CBDCs) nos EUA. Trump afirmou que "o futuro do Bitcoin e das criptomoedas será criado nos Estados Unidos, e não em algum lugar no exterior", destacando seu compromisso com a gestão auto-responsável de ativos digitais.
 

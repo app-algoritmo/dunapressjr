@@ -1,11 +1,12 @@
 ---
-title: "Menino de um ano morre no Japão após ser vacinado contra a Covid"
+title: Menino de um ano morre no Japão após ser vacinado contra a Covid
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Infelizmente, o inevitável [aconteceu .](https://www3.nhk.or.jp/nhkworld/en/news/20230428_36/)
 

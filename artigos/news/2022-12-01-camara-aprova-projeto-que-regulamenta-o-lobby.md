@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que regulamenta o lobby"
+title: Câmara aprova projeto que regulamenta o lobby
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta terça-feira (29) proposta que regulamenta a prática do lobby junto a agentes públicos dos três Poderes, determinando práticas de transparência e regulando o pagamento de hospitalidades.
 

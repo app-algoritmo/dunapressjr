@@ -1,11 +1,12 @@
 ---
-title: "FMI: economia mundial sofre com 'desaceleração sincronizada'"
+title: 'FMI: economia mundial sofre com ''desaceleração sincronizada'''
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As tensões comerciais estão prejudicando a saúde da economia
 global, que crescerá em seu ritmo mais lento em uma década - alertou a nova

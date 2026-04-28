@@ -1,12 +1,13 @@
 ---
-title: "Last of Us - Estreia na HBO"
+title: Last of Us - Estreia na HBO
 date: 2022-12-26
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 https://www.youtube.com/watch?v=VHNzi1CjDb0
 

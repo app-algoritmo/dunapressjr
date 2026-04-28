@@ -1,12 +1,13 @@
 ---
-title: "Vitória petista pode levar o Brasil ao inferno socialista-marxista"
+title: Vitória petista pode levar o Brasil ao inferno socialista-marxista
 date: 2022-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 Vídeo: 
 

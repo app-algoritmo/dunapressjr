@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que mercado digital é importante para modernizar Mercosul"
+title: Ministro diz que mercado digital é importante para modernizar Mercosul
 date: 2021-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Paulo Guedes falou durante abertura de seminário em Brasília.
 

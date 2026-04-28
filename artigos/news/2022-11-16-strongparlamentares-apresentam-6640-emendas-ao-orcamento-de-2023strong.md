@@ -1,11 +1,12 @@
 ---
-title: "<strong>Parlamentares apresentam 6.640 emendas ao Orçamento de 2023</strong>"
+title: <strong>Parlamentares apresentam 6.640 emendas ao Orçamento de 2023</strong>
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nas emendas individuais, 50% dos valores devem ser destinados à saúde, mas os parlamentares destinaram um pouco mais.
 

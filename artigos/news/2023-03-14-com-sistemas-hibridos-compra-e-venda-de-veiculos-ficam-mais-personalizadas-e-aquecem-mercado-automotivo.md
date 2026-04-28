@@ -1,11 +1,13 @@
 ---
-title: "Com sistemas híbridos, compra e venda de veículos ficam mais personalizadas e aquecem mercado automotivo"
+title: Com sistemas híbridos, compra e venda de veículos ficam mais personalizadas
+  e aquecem mercado automotivo
 date: 2023-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O digital é a escolha de mais de 90% dos consumidores para pesquisar automóveis no processo de compra. O dado faz parte do relatório da *GearShift TNS Kantar*, que mostra: a busca por informações no ambiente *on-line* tem sido determinante para a tomada de decisão. Para acompanhar a mudança de comportamento do consumidor, as concessionárias estão apostando em sistemas híbridos, que têm o digital como pontapé inicial na jornada de compra. Cada vez mais, a indústria automotiva deve combinar elementos do mundo virtual com o do físico para personalizar ainda mais a relação com o cliente.
 

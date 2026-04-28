@@ -1,11 +1,12 @@
 ---
-title: "Moraes nega mais um recurso de Bolsonaro contra inelegibilidade"
+title: Moraes nega mais um recurso de Bolsonaro contra inelegibilidade
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Defesa pedia que caso fosse encaminhado ao STF.
 

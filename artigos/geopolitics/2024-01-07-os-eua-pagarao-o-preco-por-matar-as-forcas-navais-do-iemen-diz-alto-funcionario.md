@@ -1,11 +1,12 @@
 ---
-title: "Os EUA pagarão o preço por matar as forças navais do Iêmen, diz alto funcionário"
+title: Os EUA pagarão o preço por matar as forças navais do Iêmen, diz alto funcionário
 date: 2024-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O chefe do Conselho Político Supremo do Iêmen, Mahdi al-Mashat, disse que os Estados Unidos pagarão o preço por matar as forças armadas do país, com “seu sangue causando uma nova batalha com o inimigo americano”.
 

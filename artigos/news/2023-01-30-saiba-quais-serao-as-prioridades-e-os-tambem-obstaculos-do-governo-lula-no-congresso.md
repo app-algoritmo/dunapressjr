@@ -1,11 +1,13 @@
 ---
-title: "Saiba quais serão as prioridades e os também obstáculos do governo Lula no Congresso"
+title: Saiba quais serão as prioridades e os também obstáculos do governo Lula no
+  Congresso
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recém-empossado, o presidente Luiz Inácio Lula da Silva escolheu aprovar uma reforma tributária como a prioridade de seu governo no Congresso Nacional para os primeiros meses de 2023. Na avaliação de analistas políticos e senadores, tanto da base governista quanto da oposição, a opção legislativa do novo governo é acertada.
 

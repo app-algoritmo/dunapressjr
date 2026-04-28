@@ -1,11 +1,13 @@
 ---
-title: "Noruega Reafirma Compromisso Humanitário ao Manter Apoio à UNRWA em Meio a Controvérsias"
+title: Noruega Reafirma Compromisso Humanitário ao Manter Apoio à UNRWA em Meio a
+  Controvérsias
 date: 2024-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em meio a alegações de envolvimento de doze funcionários da ONU em um ataque terrorista contra Israel em 7 de outubro, diversos países doadores suspenderam o apoio à principal organização humanitária em Gaza, a UNRWA (Agência das Nações Unidas de Assistência aos Refugiados da Palestina). Contudo, em uma decisão destacada, a Noruega optou por manter seu compromisso de apoio, enfatizando a crítica situação humanitária que assola a região após quatro meses de conflito.
 

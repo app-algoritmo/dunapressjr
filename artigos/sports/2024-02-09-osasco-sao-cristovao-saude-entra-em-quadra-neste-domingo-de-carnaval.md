@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde entra em quadra neste domingo de Carnaval"
+title: Osasco São Cristóvão Saúde entra em quadra neste domingo de Carnaval
 date: 2024-02-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Vice-líder da Superliga 2023/24 recebe o Sesi Bauru no ginásio José Liberatti, a partir das 19h, com transmissão do SporTV 2 e Osasco Vôlei TV, no Youtube.
 

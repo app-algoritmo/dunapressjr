@@ -1,11 +1,12 @@
 ---
-title: "O que as crianças precisam saber antes de ter um animal de estimação"
+title: O que as crianças precisam saber antes de ter um animal de estimação
 date: 2023-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 "Posso ter um cachorrinho?" Essa é uma daquelas perguntas respondidas diariamente por muitos pais, principalmente pelos que têm filho pequeno. Segundo pesquisa do Instituto Pet Brasil, que anualmente realiza o Censo Pet IPB, em 2021 existiam 149,6 milhões de animais de estimação no país, um aumento de 3,7% em relação ao ano anterior. Os cães são os queridinhos, com 58,1 milhões, seguido das aves canoras, com 41 milhões. Os gatos estão em terceiro lugar, no entanto, são os animais que apresentaram maior crescimento nos lares nos últimos anos.
 

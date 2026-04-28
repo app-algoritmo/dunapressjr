@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia com vitória no WTA 500 de Zhengzhou"
+title: Luisa Stefani estreia com vitória no WTA 500 de Zhengzhou
 date: 2023-10-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Agora, paulistana e carioca Ingrid Martins desafiam dupla cabeça de chave 1 nas quartas de final na China.
 

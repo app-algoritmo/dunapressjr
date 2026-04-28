@@ -1,11 +1,12 @@
 ---
-title: "Governo e Congresso buscam aprovar reforma tributária ainda neste ano"
+title: Governo e Congresso buscam aprovar reforma tributária ainda neste ano
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A reforma tributária é apontada como uma das pautas prioritárias do novo governo e do Congresso Nacional. Na Câmara dos Deputados, estão em discussão algumas propostas de emenda à Constituição (PECs) que têm o propósito modificar as normas de tributação. Três delas (PECs [45/19](https://www.camara.leg.br/noticias/555563-proposta-simplifica-sistema-tributario-e-unifica-tributos-sobre-consumo), 110/19 e 7/20) foram objeto de debate nos últimos três anos.
 

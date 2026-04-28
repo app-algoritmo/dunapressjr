@@ -1,11 +1,12 @@
 ---
-title: "IBGE: IPCA-15 foi de 0,76% em fevereiro"
+title: 'IBGE: IPCA-15 foi de 0,76% em fevereiro'
 date: 2023-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em relação a janeiro prévia ficou 0,21 ponto percentual.
 

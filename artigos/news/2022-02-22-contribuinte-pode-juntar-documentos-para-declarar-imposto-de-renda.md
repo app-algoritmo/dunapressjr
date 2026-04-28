@@ -1,11 +1,12 @@
 ---
-title: "Contribuinte pode juntar documentos para declarar Imposto de Renda"
+title: Contribuinte pode juntar documentos para declarar Imposto de Renda
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo de entrega e regras devem ser anunciados nesta semana.
 

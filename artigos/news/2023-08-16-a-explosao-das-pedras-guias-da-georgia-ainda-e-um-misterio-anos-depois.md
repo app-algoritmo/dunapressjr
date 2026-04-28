@@ -1,11 +1,12 @@
 ---
-title: "A explosão das Pedras Guias da Geórgia ainda é um mistério anos depois"
+title: A explosão das Pedras Guias da Geórgia ainda é um mistério anos depois
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Mais de um ano se passou desde a misteriosa explosão no Georgia Guidestones nos Estados Unidos. A polícia ainda não tem suspeitos em vista e ainda não há prisões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Paquistão usou 3 drones no ataque à fronteira do Irã"
+title: Paquistão usou 3 drones no ataque à fronteira do Irã
 date: 2024-01-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Um oficial de segurança local iraniano disse que o ataque do Paquistão a um ponto fronteiriço no sudeste do Irã foi realizado com três drones.
 

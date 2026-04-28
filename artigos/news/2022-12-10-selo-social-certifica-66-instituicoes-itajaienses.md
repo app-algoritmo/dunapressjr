@@ -1,11 +1,12 @@
 ---
-title: "Selo Social certifica 66 instituições itajaienses"
+title: Selo Social certifica 66 instituições itajaienses
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Promoção da Cidadania, promoveu na noite desta quarta-feira (07) a cerimônia de certificação do Programa Selo Social. Na edição 2021/2022, foram 66 empresas participantes com 521 projetos analisados para a certificação **(confira a lista completa no fim do texto)**. O evento foi realizado na sede social do Itamirim Clube de Campo.
 

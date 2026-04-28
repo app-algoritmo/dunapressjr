@@ -1,11 +1,12 @@
 ---
-title: "Valmet é incluída pela 9.ª vez consecutiva no Índice Dow Jones de Sustentabilidade"
+title: Valmet é incluída pela 9.ª vez consecutiva no Índice Dow Jones de Sustentabilidade
 date: 2023-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Valmet foi incluída no Índice Dow Jones de Sustentabilidade (DJSI) pelo nono ano consecutivo. A empresa foi listada novamente nos índices mundial e europeu. O DJSI World é composto por empresas líderes globais em sustentabilidade. A nova carteira para 2022-2023 reúne 332 companhias de 32 países das Américas, Europa, Ásia, África e Oceania, representando 24 setores econômicos. 
 

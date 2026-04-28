@@ -1,11 +1,12 @@
 ---
-title: "Governo federal quer simplificar negociações para preservar empregos"
+title: Governo federal quer simplificar negociações para preservar empregos
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Governo Federal anunciou medidas para proteger o emprego e as pessoas de baixa renda no País. Entre as propostas estão a criação de um auxílio emergencial de R$ 200 para os trabalhadores autônomos e a simplificação temporária de regras trabalhistas. A medidas ainda serão encaminhadas para aprovação no Congresso Nacional.
 

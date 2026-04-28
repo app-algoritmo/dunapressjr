@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa da CNI diz que confiança da indústria cresce em 28 setores"
+title: Pesquisa da CNI diz que confiança da indústria cresce em 28 setores
 date: 2020-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Regiões Norte e Sul são as que têm maior índice de confiança.
 

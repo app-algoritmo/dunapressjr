@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, EUA proíbe vôos desde Europa, exceto desde Reino Unido"
+title: Coronavírus, EUA proíbe vôos desde Europa, exceto desde Reino Unido
 date: 2020-03-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A medida é válida tanto para passageiros não americanos, bens e produtos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Libertação de Assange Levanta Preocupações Sobre Liberdade de Imprensa e Direitos Humanos"
+title: Libertação de Assange Levanta Preocupações Sobre Liberdade de Imprensa e Direitos
+  Humanos
 date: 2024-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O fundador do WikiLeaks, Julian Assange, foi recentemente libertado de uma prisão britânica. Documentos judiciais revelam que ele deveria se declarar culpado em um caso de espionagem nos EUA como parte de um acordo com promotores federais. A confissão de Assange, que permitiu sua saída da prisão britânica, suscita sérias preocupações sobre o impacto na imprensa livre, conforme destacou Andy Vermaut, editor-chefe do Indegazette.be belga, à Sputnik.
 

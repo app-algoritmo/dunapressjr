@@ -1,11 +1,12 @@
 ---
-title: "PIB de 2020 fecha com queda de 4,1%, revela pesquisa do IBGE"
+title: PIB de 2020 fecha com queda de 4,1%, revela pesquisa do IBGE
 date: 2021-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Serviços recuaram 4,5% e a indústria, 3,5%
 

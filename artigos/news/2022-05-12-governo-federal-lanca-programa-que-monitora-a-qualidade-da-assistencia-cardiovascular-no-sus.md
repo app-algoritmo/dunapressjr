@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal lança programa que monitora a qualidade da assistência cardiovascular no SUS"
+title: Governo Federal lança programa que monitora a qualidade da assistência cardiovascular
+  no SUS
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Apoiar e monitorar a qualidade da assistência cardiovascular ofertada pelo Sistema Único de Saúde (SUS). Esse é o objetivo do Programa de Qualidade na Cardiologia – QualiSUS Cardio, lançado nesta terça-feira (10/05) pelo Ministério da Saúde. A iniciativa estabelece metas, parâmetros e indicadores para repasses, estimulando um atendimento de qualidade nos serviços de cardiologia para a população brasileira.
 

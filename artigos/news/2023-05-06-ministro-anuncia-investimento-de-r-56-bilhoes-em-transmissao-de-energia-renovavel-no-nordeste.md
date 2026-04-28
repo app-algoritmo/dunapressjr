@@ -1,11 +1,13 @@
 ---
-title: "Ministro anuncia investimento de R$ 56 bilhões em transmissão de energia renovável no Nordeste"
+title: Ministro anuncia investimento de R$ 56 bilhões em transmissão de energia renovável
+  no Nordeste
 date: 2023-05-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novos contratos de concessão de linhas de transmissão serão leiloados pela Aneel para escoar a geração de energia eólica e solar dos estados da região.
 

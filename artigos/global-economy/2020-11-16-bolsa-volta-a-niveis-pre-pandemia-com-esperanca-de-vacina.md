@@ -1,11 +1,12 @@
 ---
-title: "Bolsa volta a níveis pré-pandemia com esperança de vacina"
+title: Bolsa volta a níveis pré-pandemia com esperança de vacina
 date: 2020-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar voltou a aproximar-se de R$ 5,40.
 

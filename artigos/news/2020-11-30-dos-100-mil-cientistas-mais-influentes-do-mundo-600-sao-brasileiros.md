@@ -1,11 +1,12 @@
 ---
-title: "Dos 100 mil cientistas mais influentes do mundo 600 são brasileiros"
+title: Dos 100 mil cientistas mais influentes do mundo 600 são brasileiros
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dos 100 mil cientistas mais influentes do mundo 600 são brasileiros e desses, 18 trabalham como pesquisadores de seis unidades vinculadas ao Ministério da Ciência, Tecnologia e Inovações (MCTI). O estudo promovido pela Universidade de Stanford (EUA) foi publicado em outubro pela PLOS Biology Journal, importante periódico de divulgação científica. A pesquisa liderada pelo médico-cientista John Ioannidis elencou o ranking dos pesquisadores mais renomados a partir dos dados de citação feitas até o ano de 2019. Para chegar a essa lista, o estudo utilizou índices bibliométricos da base de dados Scopus, e avaliou a carreira dos cientistas dentro de dois rankings: o impacto do pesquisador em um único ano - neste caso o ano de 2019 - e o impacto do pesquisador ao longo da carreira.
 

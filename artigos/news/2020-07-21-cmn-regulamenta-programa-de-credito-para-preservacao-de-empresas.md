@@ -1,11 +1,12 @@
 ---
-title: "CMN regulamenta programa de crédito para preservação de empresas"
+title: CMN regulamenta programa de crédito para preservação de empresas
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Prazo mínimo será de 36 meses e carência de seis meses.
 

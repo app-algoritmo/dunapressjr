@@ -1,11 +1,12 @@
 ---
-title: "O caso da criança grávida no Brasil"
+title: O caso da criança grávida no Brasil
 date: 2022-06-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 É absolutamente traumática e será
 preciso decidir com verdadeira misericórdia, Ana Campanholo.

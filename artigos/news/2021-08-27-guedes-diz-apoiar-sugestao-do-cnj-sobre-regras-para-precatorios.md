@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz apoiar sugestão do CNJ sobre regras para precatórios"
+title: Guedes diz apoiar sugestão do CNJ sobre regras para precatórios
 date: 2021-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para ministro, autonomia do BC é solução quando inflação aumenta.
 

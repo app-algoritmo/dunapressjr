@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública cai 3,07% em janeiro e fica em R$ 5,76 trilhões"
+title: Dívida Pública cai 3,07% em janeiro e fica em R$ 5,76 trilhões
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vencimento de títulos prefixados contribui para queda.
 

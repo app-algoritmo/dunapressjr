@@ -1,11 +1,12 @@
 ---
-title: "Economia com reforma administrativa deve chegar a R$ 300 bilhões"
+title: Economia com reforma administrativa deve chegar a R$ 300 bilhões
 date: 2020-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Perspectiva é para os próximos 10 anos, segundo Paulo Guedes.
 

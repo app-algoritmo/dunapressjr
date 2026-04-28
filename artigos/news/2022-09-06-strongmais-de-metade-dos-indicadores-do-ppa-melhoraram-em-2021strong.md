@@ -1,11 +1,12 @@
 ---
-title: "<strong>Mais de metade dos indicadores do PPA melhoraram em 2021</strong>"
+title: <strong>Mais de metade dos indicadores do PPA melhoraram em 2021</strong>
 date: 2022-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pandemia de covid-19 impactou 14% das metas.
 

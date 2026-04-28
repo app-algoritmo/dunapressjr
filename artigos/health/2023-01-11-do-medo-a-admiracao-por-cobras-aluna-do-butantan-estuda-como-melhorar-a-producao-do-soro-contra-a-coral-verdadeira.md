@@ -1,11 +1,13 @@
 ---
-title: "Do medo à admiração por cobras, aluna do Butantan estuda como melhorar a produção do soro contra a coral-verdadeira"
+title: Do medo à admiração por cobras, aluna do Butantan estuda como melhorar a produção
+  do soro contra a coral-verdadeira
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com tanto medo de serpentes, Beatriz Kopel, de 20 anos, nunca imaginou chegar perto desses animais – muito menos dividir o ambiente de trabalho com eles. Mas a aluna de Iniciação Científica do Laboratório de Herpetologia do Instituto Butantan mostrou que a sua paixão pela ciência vai além. Hoje, o pavor se transformou em admiração. Orientada pela pesquisadora Anita Tanaka-Azevedo, Beatriz é estudante de graduação em Química da Universidade de São Paulo (USP) e pesquisa maneiras de aprimorar a produção do soro antielapídico, que trata o envenenamento por acidente com cobra coral-verdadeira (gênero *Micrurus*), a partir de componentes do veneno da naja (*Naja kaouthia*).
 

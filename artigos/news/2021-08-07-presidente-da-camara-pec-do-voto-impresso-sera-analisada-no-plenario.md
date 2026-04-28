@@ -1,11 +1,12 @@
 ---
-title: "Presidente da Câmara: PEC do Voto Impresso será analisada no plenário"
+title: 'Presidente da Câmara: PEC do Voto Impresso será analisada no plenário'
 date: 2021-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta foi rejeitada em comissão, mas regimento permite análise.
 

@@ -1,11 +1,13 @@
 ---
-title: "Caxias Shopping promove peças teatrais e outras atividades infantis gratuitas durante os domingos de maio"
+title: Caxias Shopping promove peças teatrais e outras atividades infantis gratuitas
+  durante os domingos de maio
 date: 2024-05-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Peça teatral "Naruto e o Ataque da Akatsuki" abre a programação no dia 5.
 

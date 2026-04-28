@@ -1,11 +1,12 @@
 ---
-title: "Atendimento ao cliente B2B: como fazer da melhor maneira?"
+title: 'Atendimento ao cliente B2B: como fazer da melhor maneira?'
 date: 2022-12-08
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 Com certeza você já ouviu falar muito sobre as siglas B2B e B2C, certo?
 

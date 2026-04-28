@@ -1,11 +1,12 @@
 ---
-title: "Disponível 11º episódio da playlist “Era uma vez” no Spotify"
+title: Disponível 11º episódio da playlist “Era uma vez” no Spotify
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Publicação de histórias narradas é uma iniciativa do programa Conta pra Mim, do Ministério da Educação, que incentiva a prática de leitura em voz alta para as crianças.
 

@@ -1,11 +1,13 @@
 ---
-title: "Relatório Revela Aumento Significativo de Abortos por Medicação após Restrições Cirúrgicas"
+title: Relatório Revela Aumento Significativo de Abortos por Medicação após Restrições
+  Cirúrgicas
 date: 2024-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um novo relatório do Instituto Guttmacher, uma ONG de investigação sobre o aborto, aponta que o aborto administrado por medicação representou 63% de todos os abortos em 2023 nos Estados Unidos. Esse aumento substancial ocorreu após restrições significativas ao acesso ao aborto cirúrgico, especialmente após a decisão Dobbs v. Jackson Women's Health Organization da Suprema Corte em 2022, que revogou proteções federais para o aborto.
 

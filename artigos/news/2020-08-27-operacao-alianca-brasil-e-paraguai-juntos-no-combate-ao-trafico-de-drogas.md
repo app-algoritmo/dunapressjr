@@ -1,11 +1,12 @@
 ---
-title: "Operação Aliança: Brasil e Paraguai juntos no combate ao tráfico de drogas"
+title: 'Operação Aliança: Brasil e Paraguai juntos no combate ao tráfico de drogas'
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Em dez dias de operação, foram incineradas 658 toneladas de maconha e eliminados 1.790 quilos da semente. Operação internacional contou com ação conjunta dos dois países.
 

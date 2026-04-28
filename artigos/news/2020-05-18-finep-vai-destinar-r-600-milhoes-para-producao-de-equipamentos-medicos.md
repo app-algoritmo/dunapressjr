@@ -1,11 +1,12 @@
 ---
-title: "Finep vai destinar R$ 600 milhões para produção de equipamentos médicos"
+title: Finep vai destinar R$ 600 milhões para produção de equipamentos médicos
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Financiadora de Estudos e Projetos (Finep), empresa pública do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), lançou uma linha de crédito de R$ 600 milhões para aumentar a capacidade industrial brasileira de produção de equipamentos necessários ao combate à pandemia de Covid-19 e reforçar a oferta desses itens. 
 

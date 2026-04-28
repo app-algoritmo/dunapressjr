@@ -1,11 +1,12 @@
 ---
-title: "IN que trata da pesca da sardinha-verdadeira publicada pelo Mapa"
+title: IN que trata da pesca da sardinha-verdadeira publicada pelo Mapa
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo é gerar informações sobre a espécie para que, em junho de 2021, especialistas da área, técnicos da SAP e representantes do setor pesqueiro avaliem as medidas de gestão adotadas para a sardinha-verdadeira.
 

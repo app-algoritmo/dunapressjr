@@ -1,11 +1,13 @@
 ---
-title: "Após ter rosto deformado em assalto, cirurgia em hospital SUS devolve esperança e autoestima para paciente"
+title: Após ter rosto deformado em assalto, cirurgia em hospital SUS devolve esperança
+  e autoestima para paciente
 date: 2022-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Aos 51 anos, Picasso ressignificou sua vida, realizou sonho de cursar Medicina e conheceu profissionais que trouxeram possibilidade de recomeço.
 

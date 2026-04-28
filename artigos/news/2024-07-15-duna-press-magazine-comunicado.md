@@ -1,11 +1,12 @@
 ---
-title: "Duna Press Magazine - Comunicado"
+title: Duna Press Magazine - Comunicado
 date: 2024-07-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Temos realizado algumas novidades empolgantes para compartilhar com vocês. Estamos mudando nossa linha editorial para oferecer um conteúdo ainda mais enriquecedor e interessante aos nossos leitores. Com isso, gostaríamos de anunciar que **Duna Press Jornal e Magazine** passará a se chamar **Duna Press Magazine**. Nossos domínios dunapress.com, dunapress.no e dunapress.org permanecerão operacionais e inalterados.
 

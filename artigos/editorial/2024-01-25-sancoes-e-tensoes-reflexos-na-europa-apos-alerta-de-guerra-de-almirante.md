@@ -1,12 +1,13 @@
 ---
-title: "Sanções e Tensões: Reflexos na Europa após Alerta de Guerra de Almirante"
+title: 'Sanções e Tensões: Reflexos na Europa após Alerta de Guerra de Almirante'
 date: 2024-01-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Editorial
-  - Geopolitics
+- Editorial
+- Geopolitics
 ---
+
 
 ## Impactos Atuais: Análise da Declaração do Almirante Rob Bauer sobre uma Potencial Guerra Total entre Cidadãos Europeus e Rússia em Meio a Sanções Econômicas. 
 

@@ -1,11 +1,12 @@
 ---
-title: "O Resgate do Sinal da Aliança - Redefinindo a tese das cores!"
+title: O Resgate do Sinal da Aliança - Redefinindo a tese das cores!
 date: 2022-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ## Quando vemos as cores do arco-íris seja em um perfil de rede social ou em qualquer outro lugar, logo vem à mente os grupos LGB, LGBT ou sei lá que sigla usam agora. Mas o símbolo que eles usurparam a poucas décadas, é nosso a milênios, e remonta a aliança de Deus com a humanidade.
 

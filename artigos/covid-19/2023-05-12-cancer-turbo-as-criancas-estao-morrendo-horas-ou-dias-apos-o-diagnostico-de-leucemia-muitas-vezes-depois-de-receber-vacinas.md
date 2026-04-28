@@ -1,11 +1,13 @@
 ---
-title: "Câncer Turbo: As crianças estão morrendo horas ou dias após o diagnóstico de leucemia, muitas vezes depois de receber vacinas"
+title: 'Câncer Turbo: As crianças estão morrendo horas ou dias após o diagnóstico
+  de leucemia, muitas vezes depois de receber vacinas'
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [Crianças e adultos jovens estão morrendo](https://www.globalresearch.ca/turbo-cancer-leukemia-children-from-ages-11-to-21-dying-within-hours-days-cancer-diagnosis/5817927)  dentro de horas ou dias após serem diagnosticados com leucemia. Alguns dizem que as vacinas contra o coronavírus de Wuhan (COVID-19) têm algo a ver com essas mortes prematuras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Emenda regimental altera regras para devolução de pedidos de vista no STF"
+title: Emenda regimental altera regras para devolução de pedidos de vista no STF
 date: 2022-12-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O voto-vista deverá ser apresentado em até 90 dias. Após esse prazo, os autos estarão automaticamente liberados para julgamento.
 

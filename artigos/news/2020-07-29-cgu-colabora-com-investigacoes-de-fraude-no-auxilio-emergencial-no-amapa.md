@@ -1,11 +1,12 @@
 ---
-title: "CGU colabora com investigações de fraude no Auxílio Emergencial no Amapá"
+title: CGU colabora com investigações de fraude no Auxílio Emergencial no Amapá
 date: 2020-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Objetivo do trabalho, em parceria com a Polícia Civil, é contribuir com informações de inteligência que permitam a captura de foragidos da justiça.
 

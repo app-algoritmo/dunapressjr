@@ -1,11 +1,12 @@
 ---
-title: "Dezembro é o mês de conscientização e prevenção ao HIV/Aids"
+title: Dezembro é o mês de conscientização e prevenção ao HIV/Aids
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dezembro traz um importante alerta de prevenção à infecção pelo HIV, quando é celebrado o mês de conscientização, sendo que 1º de dezembro é o Dia Mundial de Luta contra a Aids. Em Santa Catarina, os últimos anos têm sido de estabilidade, com uma pequena tendência de queda, no registro de novos casos da infecção e também da doença. No entanto, a transmissão do vírus ainda é uma realidade no estado. Sendo assim, a prevenção, a testagem e o tratamento continuam sendo fundamentais para o controle e combate ao HIV.
 

@@ -1,12 +1,14 @@
 ---
-title: "Decoração criativa nos quartos infantis estimula aprendizado e autonomia das crianças"
+title: Decoração criativa nos quartos infantis estimula aprendizado e autonomia das
+  crianças
 date: 2023-10-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Features
+- Architecture and Art
+- Features
 ---
+
 
 ## Algumas soluções pensadas para esses espaços permitem a interação e o aconchego para que os pequenos possam se expressar e se desenvolver.
 

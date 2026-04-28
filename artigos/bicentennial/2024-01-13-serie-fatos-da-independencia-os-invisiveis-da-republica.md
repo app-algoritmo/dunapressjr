@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Os invisíveis da república"
+title: 'Série Fatos Da Independência: Os invisíveis da república'
 date: 2024-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 1817, a dificuldade dos revolucionários não estava em o sujeito ser patriota, isto é, expressar uma identidade republicana e convidar os demais a aderirem a ela. O problema era outro: aceitar – ou não – estender às camadas mais pobres da população o princípio do patriotismo e confirmar o pressuposto de que homens pobres livres negros e mulatos poderiam interagir com os demais extratos da sociedade pernambucana como iguais.
 

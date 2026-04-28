@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani não joga dupla feminina em Roland Garros"
+title: Luisa Stefani não joga dupla feminina em Roland Garros
 date: 2024-05-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Parceira Demi Schuurs sentiu lesão nas costas durante treino.
 

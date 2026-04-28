@@ -1,11 +1,12 @@
 ---
-title: "Estudo: Químico em adoçante artificial popular encontrado danifica o DNA"
+title: 'Estudo: Químico em adoçante artificial popular encontrado danifica o DNA'
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Um novo estudo publicado no *Journal of Toxicology and Environmental Health, Parte B,*  descobriu que consumir um adoçante artificial amplamente disponível produz uma [substância química que é prejudicial ao DNA](https://www.tandfonline.com/doi/full/10.1080/10937404.2023.2213903) .
 

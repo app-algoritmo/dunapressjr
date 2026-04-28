@@ -1,11 +1,13 @@
 ---
-title: "Escritor norueguês Karl Ove Knausgård é agraciado com o Prêmio Hans Christian Andersen de Literatura 2020"
+title: Escritor norueguês Karl Ove Knausgård é agraciado com o Prêmio Hans Christian
+  Andersen de Literatura 2020
 date: 2019-08-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 NRK anunciou hoje cedo que Karl Ove Knausgård receberá o [Prêmio Hans Christian Andersen](https://andersen-award.com/) em 2020. 
 

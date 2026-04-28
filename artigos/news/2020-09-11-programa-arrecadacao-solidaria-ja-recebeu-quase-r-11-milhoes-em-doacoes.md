@@ -1,11 +1,12 @@
 ---
-title: "Programa Arrecadação Solidária já recebeu quase R$ 11 milhões em doações"
+title: Programa Arrecadação Solidária já recebeu quase R$ 11 milhões em doações
 date: 2020-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para conhecer de perto uma instituição sem fins lucrativos beneficiada pelo Programa Nacional de Incentivo ao Voluntariado, o Pátria Voluntária, nesta terça-feira (8), a primeira-dama e presidente do conselho, Michelle Bolsonaro, acompanhada da Ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, foram a Cuiabá, capital do Mato Grosso.  Elas visitaram o Abrigo Bom Jesus, uma instituição de longa permanência para idosos.
 

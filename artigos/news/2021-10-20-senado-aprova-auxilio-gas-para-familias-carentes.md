@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova auxílio gás para famílias carentes"
+title: Senado aprova auxílio gás para famílias carentes
 date: 2021-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto volta para a Câmara para análise de financiamento.
 

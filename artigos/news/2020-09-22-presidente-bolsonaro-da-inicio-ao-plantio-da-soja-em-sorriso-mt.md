@@ -1,11 +1,12 @@
 ---
-title: "Presidente Bolsonaro dá início ao plantio da soja em Sorriso (MT)"
+title: Presidente Bolsonaro dá início ao plantio da soja em Sorriso (MT)
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasil é o maior produtor mundial de soja e tem produção estimada em 124,8 milhões de toneladas na safra 2019/2020. 
 

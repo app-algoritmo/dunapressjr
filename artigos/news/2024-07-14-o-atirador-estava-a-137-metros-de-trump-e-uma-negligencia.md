@@ -1,12 +1,13 @@
 ---
-title: "O atirador estava a 137 Metros de Trump: 'É uma Negligência'"
+title: 'O atirador estava a 137 Metros de Trump: ''É uma Negligência'''
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 Recentemente, um atentado alarmante colocou em risco a vida do ex-presidente Donald Trump durante um comício em Butler, Pennsylvania. Tim Kennedy, lutador de MMA e franco-atirador, calculou que o atirador estava a pouco mais de 137 metros de distância de Trump, o que ele considera uma "negligência" inaceitável na gestão da segurança.
 

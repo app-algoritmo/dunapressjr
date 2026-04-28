@@ -1,11 +1,12 @@
 ---
-title: "Programa da Amazônia Legal tem prazo de inscrição prorrogado"
+title: Programa da Amazônia Legal tem prazo de inscrição prorrogado
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Instituições terão até 10 de julho para enviarem propostas. Serão financiadas 720 bolsas e até 90 projetos nos estados da Região Norte, Maranhão e Mato Grosso.
 

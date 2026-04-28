@@ -1,11 +1,12 @@
 ---
-title: "Saneamento: mais oito leilões devem ser realizados ainda esse ano"
+title: 'Saneamento: mais oito leilões devem ser realizados ainda esse ano'
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Rogério Marinho foi entrevistado do programa A Voz do Brasil.
 

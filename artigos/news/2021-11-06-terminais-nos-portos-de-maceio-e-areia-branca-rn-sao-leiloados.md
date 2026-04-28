@@ -1,11 +1,12 @@
 ---
-title: "Terminais nos portos de Maceió e Areia Branca (RN) são leiloados"
+title: Terminais nos portos de Maceió e Areia Branca (RN) são leiloados
 date: 2021-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com propostas únicas, Empat e Intersal arrematam áreas portuárias.
 

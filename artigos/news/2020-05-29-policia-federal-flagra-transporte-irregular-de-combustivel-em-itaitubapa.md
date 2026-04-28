@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal flagra transporte irregular de combustível em Itaituba/PA"
+title: Polícia Federal flagra transporte irregular de combustível em Itaituba/PA
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belém/PA - Durante uma operação de fiscalização no aeroporto do município de Itaituba, interior do Pará, a Polícia Federal flagrou uma aeronave, monomotor, tentando transportar de forma irregular mil e duzentos litros de óleo diesel. Esse combustível estava acondicionado em seis tonéis plásticos de 200 litros cada um.
 

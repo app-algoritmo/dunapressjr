@@ -1,11 +1,12 @@
 ---
-title: "Projeto prevê subsídio na conta de luz para família de baixa renda com autista"
+title: Projeto prevê subsídio na conta de luz para família de baixa renda com autista
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 189/23 permite o enquadramento na Tarifa Social de Energia Elétrica (TSEE) de famílias inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) com renda até três salários mínimos que possuam um membro com Transtorno do Espectro Autista (TEA). A proposta tramita na Câmara dos Deputados.
 

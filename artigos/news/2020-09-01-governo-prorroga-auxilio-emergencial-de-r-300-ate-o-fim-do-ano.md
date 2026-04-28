@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga auxílio emergencial de R$ 300 até o fim do ano"
+title: Governo prorroga auxílio emergencial de R$ 300 até o fim do ano
 date: 2020-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Anúncio foi feito pelo presidente Jair Bolsonaro.
 

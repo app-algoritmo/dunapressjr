@@ -1,11 +1,12 @@
 ---
-title: "A vacina oral COVID feita em Israel é eficaz em porcos"
+title: A vacina oral COVID feita em Israel é eficaz em porcos
 date: 2021-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisador de Jerusalém aguarda aprovação em 6 meses; seria um passo em frente para simplificar a vacinação, em particular enviando comprimidos para casa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Chanceler paraguaio discute cooperação bilateral com embaixador boliviano"
+title: Chanceler paraguaio discute cooperação bilateral com embaixador boliviano
 date: 2024-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O chanceler nacional do Paraguai, Rubén Ramírez Lezcano, recebeu o embaixador do Estado Plurinacional da Bolívia no Paraguai, Rufino Pasquito Tarumbara, para discutir questões importantes da agenda bilateral.
 

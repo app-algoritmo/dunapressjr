@@ -1,11 +1,12 @@
 ---
-title: "Izalci lamenta dados do Pisa e propõe mais investimentos em educação"
+title: Izalci lamenta dados do Pisa e propõe mais investimentos em educação
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (6), o senador Izalci Lucas (PSDB-DF)  defendeu a necessidade urgente de aumentar os investimentos na educação como forma de combater a evasão escolar.
 

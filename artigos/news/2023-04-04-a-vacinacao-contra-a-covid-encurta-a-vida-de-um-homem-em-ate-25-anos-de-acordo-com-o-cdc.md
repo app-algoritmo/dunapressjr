@@ -1,11 +1,13 @@
 ---
-title: "A vacinação contra a Covid encurta a vida de um homem em até 25 anos, de acordo com o CDC"
+title: A vacinação contra a Covid encurta a vida de um homem em até 25 anos, de acordo
+  com o CDC
 date: 2023-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As consequências a longo prazo da vacinação contra a Covid-19 estão agora a ser reconhecidas.
 

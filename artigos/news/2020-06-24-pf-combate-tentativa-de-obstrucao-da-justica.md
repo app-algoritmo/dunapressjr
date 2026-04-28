@@ -1,11 +1,12 @@
 ---
-title: "PF combate tentativa de obstrução da justiça"
+title: PF combate tentativa de obstrução da justiça
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG - A Polícia Federal deflagrou nesta quarta-feira, 24/6, a Operação HANGAR, para combater tentativa de obstrução de justiça.
 

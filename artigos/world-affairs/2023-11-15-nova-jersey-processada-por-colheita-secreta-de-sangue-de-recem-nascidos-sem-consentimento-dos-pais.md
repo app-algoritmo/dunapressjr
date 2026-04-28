@@ -1,11 +1,13 @@
 ---
-title: "Nova Jersey processada por colheita secreta de sangue de recém-nascidos sem consentimento dos pais"
+title: Nova Jersey processada por colheita secreta de sangue de recém-nascidos sem
+  consentimento dos pais
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Instituto de Justiça (IJ) abriu [uma ação judicial](https://www.wnd.com/2023/11/state-secretly-retaining-blood-newborns/) contra o Estado de Nova Jersey, alegando que um programa governamental secreto está permitindo a colheita e armazenamento de sangue de recém-nascidos sem o conhecimento ou consentimento dos pais dos bebês.
 

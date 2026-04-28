@@ -1,11 +1,13 @@
 ---
-title: "21 militares sauditas expulsos dos EUA por compartilharem conteúdo jihadista e pedófilo"
+title: 21 militares sauditas expulsos dos EUA por compartilharem conteúdo jihadista
+  e pedófilo
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Os Estados Unidos expulsaram 21 cadetes sauditas do país, todos eles militantes sauditas que mataram três pessoas no mês passado na base naval de Pensacola.**
 

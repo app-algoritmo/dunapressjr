@@ -1,11 +1,12 @@
 ---
-title: "Santa Catarina gera mais de 32 mil empregos, melhor outubro da história"
+title: Santa Catarina gera mais de 32 mil empregos, melhor outubro da história
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Catarina apresenta novamente números expressivos na geração de empregos formais. O Estado teve um saldo positivo de 32.911 vagas em outubro, o melhor desempenho para o mês desde 2004, início da série histórica. Além disso, teve o quarto maior saldo do Brasil, de acordo com dados do Cadastro Geral de Empregados e Desempregados (Caged), do Ministério da Economia, divulgados nesta quinta-feira, 26.
 

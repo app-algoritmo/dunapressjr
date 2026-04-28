@@ -1,11 +1,12 @@
 ---
-title: "Origem da palavra veterinário"
+title: Origem da palavra veterinário
 date: 2023-07-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A palavra "veterinário" tem origem em latim. Na Roma antiga, cavalos usados no exército (feras de carga) que eram muito velhos eram recolhidos em um lugar onde podiam desfrutar e descansar. Estes animais foram chamados de "veterinus".
 As pessoas que cuidavam destes animais chamavam-se VETERINARII (veterinarius), que era um derivado da palavra VETUS/VETERIS, "velho", devido a isto a profissão de cuidado com animais passou a ser chamada assim.

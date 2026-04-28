@@ -1,11 +1,12 @@
 ---
-title: "Mercado prevê que taxa básica de juros feche o ano em 8,75%"
+title: Mercado prevê que taxa básica de juros feche o ano em 8,75%
 date: 2021-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é que o Copom eleve a Selic esta semana para 7,5%
 

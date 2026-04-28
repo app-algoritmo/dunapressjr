@@ -1,11 +1,13 @@
 ---
-title: "Contra tráfico de drogas e contrabando, programa federal de segurança nas fronteiras chega a Santa Catarina"
+title: Contra tráfico de drogas e contrabando, programa federal de segurança nas fronteiras
+  chega a Santa Catarina
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 05/05/2020 - **Santa Catarina se junta a outros nove estados brasileiros e agora faz parte do Programa Nacional de Segurança nas Fronteiras e Divisas, o VIGIA, que completa um ano apresentando resultados consistentes no combate ao narcotráfico e ao contrabando. As ações estratégicas vão envolver núcleos de ponta das forças de segurança no território catarinense.
 

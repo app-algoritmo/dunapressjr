@@ -1,11 +1,12 @@
 ---
-title: "Pessoas físicas não poderão ser cobradas por uso do Pix"
+title: Pessoas físicas não poderão ser cobradas por uso do Pix
 date: 2020-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exceção será recebimento de venda de produto ou serviço.
 

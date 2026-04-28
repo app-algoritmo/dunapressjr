@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,14 e atinge menor valor em um mês"
+title: Dólar cai para R$ 5,14 e atinge menor valor em um mês
 date: 2022-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe 2,33% e atinge maior nível desde abril.
 

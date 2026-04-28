@@ -1,11 +1,12 @@
 ---
-title: "Garantia de mais recursos para a sociedade"
+title: Garantia de mais recursos para a sociedade
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A atuação da Advocacia-Geral da União (AGU) também assegurou recursos valiosos para o poder público utilizar em políticas que beneficiam o cidadão em áreas como saúde, educação e segurança, entre outras. Somente em 2019, foram R$ 657,5 bilhões garantidos para os cofres públicos por meio da atuação judicial da instituição nos tribunais.
 

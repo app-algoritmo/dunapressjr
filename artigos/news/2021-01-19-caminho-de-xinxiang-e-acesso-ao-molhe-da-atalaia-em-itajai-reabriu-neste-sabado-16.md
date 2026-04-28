@@ -1,11 +1,13 @@
 ---
-title: "Caminho de Xinxiang e acesso ao molhe da Atalaia em Itajaí reabriu neste sábado (16)"
+title: Caminho de Xinxiang e acesso ao molhe da Atalaia em Itajaí reabriu neste sábado
+  (16)
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminho de Xinxiang e o acesso ao molhe da Atalaia reabriu neste sábado (16). O Município de Itajaí decidiu liberar para a circulação de pedestres, ciclistas e motoristas, além da utilização do estacionamento no local. O espaço é de responsabilidade do Porto de Itajaí e as Guardas Portuária e Municipal farão a segurança da área. O acesso será fechado entre as 10h da noite e as 6h da manhã.
 

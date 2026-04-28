@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,03 e fecha no menor valor desde junho"
+title: Dólar cai para R$ 5,03 e fecha no menor valor desde junho
 date: 2020-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu e encerrou no nível mais alto desde fevereiro.
 

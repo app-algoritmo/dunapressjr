@@ -1,12 +1,14 @@
 ---
-title: "Projeto Formações IEE chega a Canoas (RS) e beneficia cerca de 4.500 alunos neste mês de setembro"
+title: Projeto Formações IEE chega a Canoas (RS) e beneficia cerca de 4.500 alunos
+  neste mês de setembro
 date: 2023-09-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## São 60 professores, gestores, coordenadores e diretores na cidade gaúcha, que estarão participando de módulo com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

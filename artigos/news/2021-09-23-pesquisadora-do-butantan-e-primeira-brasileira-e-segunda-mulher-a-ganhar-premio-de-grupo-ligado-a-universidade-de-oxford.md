@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadora do Butantan é primeira brasileira e segunda mulher a ganhar prêmio de grupo ligado à Universidade de Oxford"
+title: Pesquisadora do Butantan é primeira brasileira e segunda mulher a ganhar prêmio
+  de grupo ligado à Universidade de Oxford
 date: 2021-09-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A pesquisadora do Instituto Butantan Ana Maria Moura da Silva é a primeira pessoa do Brasil e a segunda cientista mulher a ser homenageada com [o Venoms and Toxins 2021 Awards, prêmio máximo da conferência sobre o assunto, realizada anualmente pelo grupo Toxinology at Oxford, ligado à Universidade de Oxford, na Inglaterra](http://lpmhealthcare.com/venoms-and-toxins-2021/ana-maria-moura-da-silva/). O reconhecimento foi entregue nesta na quinta (26), durante o Oitavo Encontro Internacional de Toxinologia de Oxford, pelo conjunto da obra. 
 

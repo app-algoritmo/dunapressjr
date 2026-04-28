@@ -1,11 +1,12 @@
 ---
-title: "MJSP promove curso voltado ao combate à ansiedade"
+title: MJSP promove curso voltado ao combate à ansiedade
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 15/04/2020 -** O Ministério da Justiça e Segurança Pública, em parceria com a Academia de Gestão da Emoção e a Academia Nacional da Polícia Federal, promove o curso **“Combatendo a ansiedade”**. A capacitação será  feita pela plataforma de Ensino a Distância (EAD) e as inscrições, gratuitas, podem ser feitas até o dia 30 de abril.  A capacitação tem como público-alvo os servidores, estagiários, terceirizados e mobilizados que atuam no Ministério da Justiça e Segurança Pública. 
 

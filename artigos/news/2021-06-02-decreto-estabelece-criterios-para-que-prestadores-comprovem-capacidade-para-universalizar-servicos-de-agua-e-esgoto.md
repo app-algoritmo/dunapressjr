@@ -1,11 +1,13 @@
 ---
-title: "Decreto estabelece critérios para que prestadores comprovem capacidade para universalizar serviços de água e esgoto"
+title: Decreto estabelece critérios para que prestadores comprovem capacidade para
+  universalizar serviços de água e esgoto
 date: 2021-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida é a mais aguardada desde a mudança no Marco Legal e visa garantir o cumprimento das metas estabelecidas em contrato.
 

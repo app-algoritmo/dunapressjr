@@ -1,11 +1,12 @@
 ---
-title: "TCU aprova privatização da Eletrobras"
+title: TCU aprova privatização da Eletrobras
 date: 2022-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado permite que governo abra capital da empresa ainda este ano.
 

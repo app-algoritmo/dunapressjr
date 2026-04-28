@@ -1,11 +1,14 @@
 ---
-title: "O Ministério da Fazenda lançou um conjunto de 13 medidas estruturais para estimular os investimentos em infraestrutura e aprimorar os mercados de crédito e de seguros do país"
+title: O Ministério da Fazenda lançou um conjunto de 13 medidas estruturais para estimular
+  os investimentos em infraestrutura e aprimorar os mercados de crédito e de seguros
+  do país
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estados e municípios vão contar com aval da União em projetos de Parcerias Público-Privadas, o que reduzirá custos e impulsionará projetos.
 

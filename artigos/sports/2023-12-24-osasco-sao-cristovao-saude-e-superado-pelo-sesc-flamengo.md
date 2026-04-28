@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde é superado pelo Sesc Flamengo"
+title: Osasco São Cristóvão Saúde é superado pelo Sesc Flamengo
 date: 2023-12-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe de Camila Brait, Lorenne, Tifanny e cia. venceu o primeiro set e lutou até o final, mas não conseguiu sair de quadra com a vitória no ginásio José Liberatti.
 

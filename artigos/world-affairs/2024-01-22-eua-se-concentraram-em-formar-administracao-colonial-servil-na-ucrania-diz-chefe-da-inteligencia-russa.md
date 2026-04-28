@@ -1,11 +1,13 @@
 ---
-title: "EUA se concentraram em formar administração colonial servil na Ucrânia, diz chefe da inteligência russa"
+title: EUA se concentraram em formar administração colonial servil na Ucrânia, diz
+  chefe da inteligência russa
 date: 2024-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com Sergey Naryshkin, os EUA exigiram que o presidente ucraniano "devesse, por um pretexto ou outro, demitir altos funcionários que perderam a confiança da Casa Branca".
 

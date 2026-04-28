@@ -1,12 +1,13 @@
 ---
-title: "A Moderna escondeu efeitos colaterais graves em receptores da vacina Covid"
+title: A Moderna escondeu efeitos colaterais graves em receptores da vacina Covid
 date: 2023-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Cientistas da Moderna disseram em um artigo de 2021 que nenhum dos receptores de injeção de mRNA no estudo teve “efeitos adversos graves”. Na verdade, eles ocorreram em 14, incluindo três abortos espontâneos. Este não foi o caso dos receptores de placebo.
 

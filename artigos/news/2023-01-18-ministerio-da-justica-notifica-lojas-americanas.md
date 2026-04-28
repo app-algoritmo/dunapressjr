@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Justiça notifica Lojas Americanas"
+title: Ministério da Justiça notifica Lojas Americanas
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Varejista terá até 5 dias úteis para dar respostas.
 

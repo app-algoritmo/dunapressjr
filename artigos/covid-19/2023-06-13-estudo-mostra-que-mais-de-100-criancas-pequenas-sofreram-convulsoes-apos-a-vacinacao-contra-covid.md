@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que mais de 100 crianças pequenas sofreram convulsões após a vacinação contra COVID"
+title: Estudo mostra que mais de 100 crianças pequenas sofreram convulsões após a
+  vacinação contra COVID
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Mais de 100 crianças pequenas sofreram convulsões depois de receber uma vacina COVID-19, de acordo com um novo estudo.
 

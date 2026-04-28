@@ -1,11 +1,12 @@
 ---
-title: "Operação Ônix reúne oficiais superiores e capitães em grande exercício de simulação"
+title: Operação Ônix reúne oficiais superiores e capitães em grande exercício de simulação
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Os alunos da [Escola de Comando e Estado-Maior do Exército](https://www.eceme.eb.mil.br/) (ECEME) e os alunos da [Escola de Aperfeiçoamento de Oficiais](https://www.esao.eb.mil.br/) (EsAEO) realizaram, neste mês de outubro, a Operação Ônix 2023. A Operação é um exercício de simulação construtiva com a finalidade de treinar o processo de tomada de decisão e promover a interoperabilidade e planejamento integrado das diferentes funções de combate.
 

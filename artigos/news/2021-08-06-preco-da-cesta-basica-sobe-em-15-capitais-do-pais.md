@@ -1,11 +1,12 @@
 ---
-title: "Preço da cesta básica sobe em 15 capitais do país"
+title: Preço da cesta básica sobe em 15 capitais do país
 date: 2021-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maiores altas foram em Fortaleza (3,92%) e Campo Grande (3,89%).
 

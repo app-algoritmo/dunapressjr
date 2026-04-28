@@ -1,11 +1,13 @@
 ---
-title: "Pandemia de Covid-19 deixou as crianças mais vulneráveis à violência, dizem especialistas"
+title: Pandemia de Covid-19 deixou as crianças mais vulneráveis à violência, dizem
+  especialistas
 date: 2022-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O aumento da vulnerabilidade das crianças e adolescentes durante a pandemia de Covid-19 foi constatado pelos participantes do oitavo Seminário Internacional do [Marco Legal da Primeira Infância](https://www2.camara.leg.br/legin/fed/lei/2016/lei-13257-8-marco-2016-782483-norma-pl.html), promovido pela Frente Parlamentar da Primeira Infância nesta quarta-feira (30) na Câmara dos Deputados.
 

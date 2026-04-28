@@ -1,11 +1,12 @@
 ---
-title: "Indicador de Incerteza da Economia sobe 0,5 ponto em junho"
+title: Indicador de Incerteza da Economia sobe 0,5 ponto em junho
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice chegou a 116,4 pontos com impacto do componente mídia.
 

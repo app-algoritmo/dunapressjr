@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde renova com Giovana e Kenya"
+title: Osasco São Cristóvão Saúde renova com Giovana e Kenya
 date: 2023-06-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 Giovana e Kenya seguem para mais uma temporada no Osasco São Cristóvão Saúde. A comissão técnica comandada por Luizomar investe no potencial da dupla de jovens levantadoras após o bom desempenho na temporada passada do vôlei nacional.
 

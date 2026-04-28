@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança do Comércio (ICOM) do FGV IBRE registra queda em julho após dois meses de avanço"
+title: Índice de Confiança do Comércio (ICOM) do FGV IBRE registra queda em julho
+  após dois meses de avanço
 date: 2023-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativas voltam a ceder, mas índice ainda apresenta resultado positivo em médias móveis trimestrais. 
 

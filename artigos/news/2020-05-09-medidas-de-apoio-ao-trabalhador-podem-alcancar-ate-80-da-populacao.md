@@ -1,11 +1,12 @@
 ---
-title: "Medidas de apoio ao trabalhador podem alcançar até 80% da população"
+title: Medidas de apoio ao trabalhador podem alcançar até 80% da população
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estudo do Ipea mostra que medidas emergenciais do Governo Federal devem ajudar no enfrentamento ao coronavírus
 Um estudo feito pelo Instituto de Pesquisa Econômica Aplicada (Ipea) aponta que 80% dos brasileiros estão em famílias que podem ter acesso a pelo menos um dos benefícios sociais criados pelo Governo Federal durante a pandemia do novo coronavírus: o auxílio emergencial de R$ 600 ou o Benefício Emergencial de Preservação do Emprego e da Renda (BEm).

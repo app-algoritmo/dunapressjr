@@ -1,11 +1,13 @@
 ---
-title: "Abertura do Natal EnCanto Itajaí será nesta quinta-feira (08) com diversas atrações no Centro"
+title: Abertura do Natal EnCanto Itajaí será nesta quinta-feira (08) com diversas
+  atrações no Centro
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O clima de Natal tomará conta do Centro de Itajaí a partir desta quinta-feira (08). A abertura do Natal EnCanto será às 19h30, com o grande desfile na rua Hercílio Luz, que trará a Vila do Papai Noel em 12 alas e seis tripés alegóricos. Às 20h30, tem apresentação dos Anjos Cantores na escadaria e janelas do Museu Histórico. O Bom Velhinho ainda receberá a chave da cidade do prefeito Volnei Morastoni e irá declarar aberto o evento natalino, que na noite de abertura contará também com as atrações da Rua Coberta e na Praça da Igreja Matriz.
 

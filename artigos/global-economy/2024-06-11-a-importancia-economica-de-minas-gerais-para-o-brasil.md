@@ -1,11 +1,12 @@
 ---
-title: "A Importância Econômica de Minas Gerais para o Brasil"
+title: A Importância Econômica de Minas Gerais para o Brasil
 date: 2024-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Minas Gerais, localizado na região Sudeste do Brasil, é um dos estados mais importantes do país em termos econômicos. Sua economia é diversificada, com forte presença nos setores de mineração, agricultura, indústria e serviços. Com uma infraestrutura bem desenvolvida e um rico patrimônio cultural e histórico, Minas Gerais contribui significativamente para o desenvolvimento nacional.
 

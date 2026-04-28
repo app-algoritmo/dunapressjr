@@ -1,11 +1,12 @@
 ---
-title: "BB lança crédito a caminhoneiros e títulos verdes a produtores rurais"
+title: BB lança crédito a caminhoneiros e títulos verdes a produtores rurais
 date: 2022-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo banco, medida pode injetar até R$ 8 bilhões na economia.
 

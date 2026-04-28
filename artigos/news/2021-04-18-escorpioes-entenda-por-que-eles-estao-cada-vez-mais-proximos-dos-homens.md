@@ -1,11 +1,12 @@
 ---
-title: "Escorpiões: entenda por que eles estão cada vez mais próximos dos homens"
+title: 'Escorpiões: entenda por que eles estão cada vez mais próximos dos homens'
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os escorpiões estão cada vez mais próximos dos seres humanos e é no verão que eles mais aparecem, e que os acidentes aumentam. Geralmente os escorpiões são encontrados em cemitérios, terrenos baldios, em meio a materiais de construção e entulhos, podendo aparecer dentro das residências tanto em bairros nobres como em periferias - sendo que nestas o número de acidentes costuma ser ainda maior devido a deficiência no saneamento básico.
 

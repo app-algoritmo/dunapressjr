@@ -1,11 +1,12 @@
 ---
-title: "CPMI aciona Justiça por silêncio abusivo de Mauro Cid"
+title: CPMI aciona Justiça por silêncio abusivo de Mauro Cid
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Diante do silêncio do tenente-coronel Mauro Cid na oitiva de terça-feira (11), a CPMI do 8 de Janeiro decidiu acionar a 10ª Vara da Justiça Federal de Brasília contra o ex-ajudante de ordens do ex-presidente Jair Bolsonaro. Na representação protocolada nesta quinta-feira (13) por meio da Advocacia do Senado, o colegiado aponta que o militar abusou do direito ao silêncio e, portanto, teria cometido o delito de “calar a verdade como testemunha”. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Deputados querem que cães e gatos de todo o Brasil sejam identificados por microchips"
+title: Deputados querem que cães e gatos de todo o Brasil sejam identificados por
+  microchips
 date: 2021-09-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que as propostas têm em comum é a justificativa de que a medida tem condições de coibir o abandono de animais em todo o país.
 

@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde estreia novo patrocinador para a continuidade da temporada 2022/23"
+title: Osasco São Cristóvão Saúde estreia novo patrocinador para a continuidade da
+  temporada 2022/23
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Osasco São Cristóvão Saúde terá uma novidade a partir desta sexta-feira (20), contra o Sesi Bauru, no interior paulista, pela segunda rodada do returno da Superliga 1XBET 2022/23. Trata-se de uma estreia na camisa da equipe do técnico Luizomar. A Lorenzetti, líder no segmento de duchas, chuveiros, torneiras elétricas e aquecedores de água a gás, passa a estampar o uniforme como um dos patrocinadores do time mais tradicional do vôlei feminino do Brasil.
 

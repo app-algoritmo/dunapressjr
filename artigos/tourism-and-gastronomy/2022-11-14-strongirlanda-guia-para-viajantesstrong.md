@@ -1,11 +1,12 @@
 ---
-title: "<strong>Irlanda: Guia Para Viajantes</strong>"
+title: '<strong>Irlanda: Guia Para Viajantes</strong>'
 date: 2022-11-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Se você está planejando uma viagem à Irlanda, este guia é para você! Cobriremos todos os básicos do que ver e fazer na Irlanda, desde as principais atrações turísticas até as menores cidades e cidades. 
 

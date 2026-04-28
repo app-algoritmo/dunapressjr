@@ -1,11 +1,12 @@
 ---
-title: "Inovação escandinava"
+title: Inovação escandinava
 date: 2019-05-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Experimente o clima de negócios único da Noruega na Oslo Innovation Week em setembro 
 

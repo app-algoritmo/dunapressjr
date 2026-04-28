@@ -1,11 +1,13 @@
 ---
-title: "<strong>Doenças raras: pacientes vivem angústia até diagnóstico e lutam para reencontrar novo olhar sobre a vida</strong>"
+title: '<strong>Doenças raras: pacientes vivem angústia até diagnóstico e lutam para
+  reencontrar novo olhar sobre a vida</strong>'
 date: 2022-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Mais de 13 milhões de brasileiros sofrem com doenças raras. 80% delas são decorrentes de fatores genéticos e o acesso ao diagnóstico e à terapia adequada ainda são as maiores dificuldades enfrentadas pelos pacientes. 
 

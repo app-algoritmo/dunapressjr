@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Educação esclarece informações com relação à sua formação acadêmica"
+title: Ministro da Educação esclarece informações com relação à sua formação acadêmica
 date: 2020-06-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação, com relação aos questionamentos levantados a respeito da formação acadêmica do Ministro Carlos Alberto Decotelli da Silva, esclarece que o ministro cursou o Doutorado em Administração na Universidade de Rosário, na Argentina, no período de 2 de outubro de 2007 a 7 de fevereiro de 2009, tendo sido aprovado em todas as disciplinas com todos os créditos, conforme atesta o certificado emitido pela Universidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega alimento para comunidade cigana no Distrito Federal"
+title: Governo Bolsonaro entrega alimento para comunidade cigana no Distrito Federal
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) entregou, nesta segunda-feira (4), alimento para uma comunidade cigana em Sobradinho, no Distrito Federal.
 

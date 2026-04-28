@@ -1,11 +1,12 @@
 ---
-title: "Lucro da Petrobras em 2022 é de R$ 188 bi; 77% superior ao de 2021"
+title: Lucro da Petrobras em 2022 é de R$ 188 bi; 77% superior ao de 2021
 date: 2023-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo a estatal, resultado se deve à alta dos preços do petróleo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,20 e euro sobe para mesmo nível da moeda americana"
+title: Dólar cai para R$ 5,20 e euro sobe para mesmo nível da moeda americana
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa fechou com alta de 0,14% em sessão volátil.
 

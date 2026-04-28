@@ -1,11 +1,13 @@
 ---
-title: "Antropólogos investigam as memórias afrodescendentes e indígenas do Rio Grande do Norte"
+title: Antropólogos investigam as memórias afrodescendentes e indígenas do Rio Grande
+  do Norte
 date: 2020-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Desde o ano 2000 antropólogos da Universidade Federal do Rio Grande do Norte pesquisam as narrativas tradicionais, histórias ancestrais e representações simbólicas de comunidades rurais de indígenas e de afro-descendentes daquele estado, privilegiando a oralidade e a memória.
 

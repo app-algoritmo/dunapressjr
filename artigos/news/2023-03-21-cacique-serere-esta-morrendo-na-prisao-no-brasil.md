@@ -1,11 +1,12 @@
 ---
-title: "Cacique Serere está morrendo na prisão no Brasil"
+title: Cacique Serere está morrendo na prisão no Brasil
 date: 2023-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O pastor e cacique Serere da tribo Xavante ainda está detido em uma prisão federal no Brasil, depois de três meses sem acusações ou julgamento. 
 

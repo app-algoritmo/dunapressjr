@@ -1,11 +1,12 @@
 ---
-title: "Ford América do Sul fecha 2022 com mais de US$ 300 milhões de lucratividade"
+title: Ford América do Sul fecha 2022 com mais de US$ 300 milhões de lucratividade
 date: 2022-12-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A Ford América do Sul reencontrou a lucratividade em 2022. Desde o terceiro trimestre de 2021, após suspender operações fabris no Brasil, a marca registrou resultado EBIT positivo, isto é, o acumulado de janeiro a setembro soma cerca de US$ 300 milhões. A companhia vinha fechando o ano no vermelho desde 2013, mas após a reestruturação na região conseguiu recuperar a solidez.
 

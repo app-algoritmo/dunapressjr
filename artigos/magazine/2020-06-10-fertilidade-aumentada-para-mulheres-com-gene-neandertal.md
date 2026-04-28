@@ -1,11 +1,12 @@
 ---
-title: "Fertilidade aumentada para mulheres com gene neandertal"
+title: Fertilidade aumentada para mulheres com gene neandertal
 date: 2020-06-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Uma em cada três mulheres na Europa herdou o receptor da progesterona dos neandertais - uma variante genética associada ao aumento da fertilidade, menos sangramentos durante o início da gravidez e menos abortos. Isso está de acordo com um estudo publicado na *Molecular Biology and Evolution* por pesquisadores do Instituto Max Planck de Antropologia Evolucionária, na Alemanha, e do Karolinska Institutet, na Suécia.
 

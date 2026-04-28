@@ -1,11 +1,13 @@
 ---
-title: "Medida Provisória suspende eleições para reitores e vices em universidades e institutos federais"
+title: Medida Provisória suspende eleições para reitores e vices em universidades
+  e institutos federais
 date: 2020-06-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) informa que a Medida Provisória nº 979, publicada nesta quarta-feira, 10 de junho, no Diário Oficial da União (DOU), é constitucional e não fere a autonomia de universidades e institutos federais.
 

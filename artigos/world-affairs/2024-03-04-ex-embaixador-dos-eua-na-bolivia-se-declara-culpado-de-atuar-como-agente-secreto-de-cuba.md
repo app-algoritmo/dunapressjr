@@ -1,11 +1,13 @@
 ---
-title: "Ex-embaixador dos EUA na Bolívia se Declara Culpado de Atuar como Agente Secreto de Cuba"
+title: Ex-embaixador dos EUA na Bolívia se Declara Culpado de Atuar como Agente Secreto
+  de Cuba
 date: 2024-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-embaixador dos Estados Unidos na Bolívia, Víctor Manuel Rocha, concordou nesta quinta-feira em se declarar culpado de atuar como agente secreto de Cuba durante mais de duas décadas, sob as presidências de Bill Clinton e George W. Bush. O caso foi relatado pelo Departamento de Justiça dos EUA, e o julgamento está programado para ocorrer no dia 25 de março em Miami.
 

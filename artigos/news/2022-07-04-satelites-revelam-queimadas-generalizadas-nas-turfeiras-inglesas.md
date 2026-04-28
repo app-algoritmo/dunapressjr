@@ -1,11 +1,12 @@
 ---
-title: "Satélites revelam queimadas generalizadas nas turfeiras inglesas"
+title: Satélites revelam queimadas generalizadas nas turfeiras inglesas
 date: 2022-07-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O incêndio nas turfeiras no parque nacional North York Moors foi detectado por um satélite em 19 de janeiro de 2022. Investigação revela evidências de mais de 250 incêndios ao longo de seis meses. Dezenas podem ter sido ilegais sob novas regras apenas da proibição do governo.
 

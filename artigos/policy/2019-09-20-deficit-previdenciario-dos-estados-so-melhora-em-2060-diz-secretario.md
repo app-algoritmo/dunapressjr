@@ -1,11 +1,12 @@
 ---
-title: "Déficit previdenciário dos estados só melhora em 2060, diz secretário"
+title: Déficit previdenciário dos estados só melhora em 2060, diz secretário
 date: 2019-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Segundo o secretário, tal cenário foi traçado sem a proposta de emenda à Constituição. 
 

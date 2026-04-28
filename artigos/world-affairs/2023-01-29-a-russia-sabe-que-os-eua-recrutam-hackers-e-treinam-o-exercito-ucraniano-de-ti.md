@@ -1,11 +1,13 @@
 ---
-title: "A Rússia sabe que os EUA recrutam hackers e treinam o exército ucraniano de TI"
+title: A Rússia sabe que os EUA recrutam hackers e treinam o exército ucraniano de
+  TI
 date: 2023-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O vice-ministro das Relações Exteriores, Oleg Syromolotov, enfatizou que Washington, juntamente com seus parceiros, continua a apoiar táticas digitais extremamente arriscadas.
 

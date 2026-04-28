@@ -1,11 +1,12 @@
 ---
-title: "Rede Globo e o Regime Militar"
+title: Rede Globo e o Regime Militar
 date: 2024-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A Rede Globo, a maior emissora de televisão do Brasil, teve um crescimento significativo durante o regime militar, que governou o país de 1964 a 1985. Esse crescimento foi, em grande parte, facilitado pelo apoio e benefícios que recebeu do governo militar. Aqui estão alguns dos principais aspectos desse relacionamento:
 

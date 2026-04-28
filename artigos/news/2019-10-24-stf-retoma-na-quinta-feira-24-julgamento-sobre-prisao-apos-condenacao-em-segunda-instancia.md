@@ -1,11 +1,13 @@
 ---
-title: "STF retoma na quinta-feira (24) julgamento sobre prisão após condenação em segunda instância"
+title: STF retoma na quinta-feira (24) julgamento sobre prisão após condenação em
+  segunda instância
 date: 2019-10-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Nas duas sessões realizadas hoje (23), votaram o relator, ministro Marco Aurélio, contrário à possibilidade, e os ministros Alexandre de Moraes, Edson Fachin e Roberto Barroso, que divergiram *
 

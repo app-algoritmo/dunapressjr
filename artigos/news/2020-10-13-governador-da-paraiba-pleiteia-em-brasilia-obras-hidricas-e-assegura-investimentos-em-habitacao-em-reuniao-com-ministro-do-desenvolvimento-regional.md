@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba pleiteia em Brasília obras hídricas e assegura investimentos em habitação em reunião com ministro do Desenvolvimento Regional"
+title: Governador da Paraíba pleiteia em Brasília obras hídricas e assegura investimentos
+  em habitação em reunião com ministro do Desenvolvimento Regional
 date: 2020-10-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo se reuniu, nesta terça-feira (13), em Brasília, com o ministro do Desenvolvimento Regional, Rogério Marinho, ocasião em que pleiteou investimentos em recursos hídricos para o Sertão da Paraíba. O chefe do Executivo estadual também confirmou agenda com o ministro ainda esta semana no Estado, oportunidade em que serão autorizadas as obras de construção de 856 apartamentos no conjunto habitacional São Judas Tadeu I e II, em Patos.
 

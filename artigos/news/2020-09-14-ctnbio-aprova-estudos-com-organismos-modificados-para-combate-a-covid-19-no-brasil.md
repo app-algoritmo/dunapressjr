@@ -1,11 +1,13 @@
 ---
-title: "CTNBio aprova estudos com organismos modificados para combate à Covid-19 no Brasil"
+title: CTNBio aprova estudos com organismos modificados para combate à Covid-19 no
+  Brasil
 date: 2020-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Comissão do MCTI é responsável por analisar estudos com plantas, células humanas, animais e microorganismos geneticamente modificados. 
 

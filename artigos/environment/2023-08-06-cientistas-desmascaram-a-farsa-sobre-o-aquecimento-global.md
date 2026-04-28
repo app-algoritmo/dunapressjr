@@ -1,11 +1,12 @@
 ---
-title: "Cientistas desmascaram a farsa sobre o aquecimento global"
+title: Cientistas desmascaram a farsa sobre o aquecimento global
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 O aquecimento global é apenas uma agenda política e está se tornando uma religião da qual não se pode desviar. Um documentário surpreendente, feito com a ajuda de pesquisadores e cientistas de renome, desmascara passo a passo a farsa da mudança climática causada pelo CO2. A evidência esmagadora mostra claramente que não há ligação entre o aquecimento global e o dióxido de carbono.
 

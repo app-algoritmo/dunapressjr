@@ -1,11 +1,13 @@
 ---
-title: "Santander Brasil Ride Espinhaço: Líderes das elites repetem vitória na segunda etapa"
+title: 'Santander Brasil Ride Espinhaço: Líderes das elites repetem vitória na segunda
+  etapa'
 date: 2021-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Duplas formadas por Sherman Trezza/Lukas Kaufmann e Paula Gallan/Isabella Lacerda ganharam a segunda de cinco etapas da competição em Conceição do Mato Dentro (MG).
 

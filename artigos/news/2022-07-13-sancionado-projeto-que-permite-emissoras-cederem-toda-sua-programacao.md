@@ -1,11 +1,12 @@
 ---
-title: "Sancionado projeto que permite emissoras cederem toda sua programação"
+title: Sancionado projeto que permite emissoras cederem toda sua programação
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Atualmente, limite máximo de venda de espaço era de 25%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: 18 mortes e 1.128 casos confirmados no Brasil"
+title: 'Coronavírus: 18 mortes e 1.128 casos confirmados no Brasil'
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *As 18 mortes registradas oficialmente ao Ministério da Saúde estão no estado de São Paulo (15) e Rio de Janeiro (3)*
 

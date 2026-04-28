@@ -1,11 +1,12 @@
 ---
-title: "10/11 – Dia Mundial do Ceratocone"
+title: 10/11 – Dia Mundial do Ceratocone
 date: 2021-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Ceratocone é uma doença dos olhos que afeta a estrutura da córnea, camada fina e transparente que recobre toda a frente do globo ocular. Ao sofrer afinamento e aumento na sua curvatura, a córnea deixa de ser redonda e adquire formato de cone.
 

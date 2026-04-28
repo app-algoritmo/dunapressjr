@@ -1,11 +1,12 @@
 ---
-title: "Produção de grãos deve chegar a 312,4 milhões de toneladas em 2023"
+title: Produção de grãos deve chegar a 312,4 milhões de toneladas em 2023
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Conab prevê crescimento de 2,9% na área destinada a plantio.
 

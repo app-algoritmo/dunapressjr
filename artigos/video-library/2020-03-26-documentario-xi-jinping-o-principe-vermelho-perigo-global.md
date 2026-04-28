@@ -1,11 +1,12 @@
 ---
-title: "Documentário: Xi Jinping, o príncipe vermelho, perigo global"
+title: 'Documentário: Xi Jinping, o príncipe vermelho, perigo global'
 date: 2020-03-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Video library
+- Video library
 ---
+
 
 A história se repete e o mundo que conhecemos desaparecerá, a linha do tempo deste homem o delata, sua infância, seu sofrimento e crescimento, são um perigo que o ocidente deve observar e conter para preservar um mundo livre de ditadores.
 

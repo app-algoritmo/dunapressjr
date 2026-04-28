@@ -1,11 +1,12 @@
 ---
-title: "Ministério eleva isenção para mercadorias compradas em free shops"
+title: Ministério eleva isenção para mercadorias compradas em free shops
 date: 2022-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cota fixa passa a ser de até 500 dólares por pessoa.
 

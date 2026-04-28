@@ -1,11 +1,13 @@
 ---
-title: "Empresa de mobilidade urbana investe R$ 140 milhões com foco em eficiência e melhoria na experiência do cliente"
+title: Empresa de mobilidade urbana investe R$ 140 milhões com foco em eficiência
+  e melhoria na experiência do cliente
 date: 2024-03-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## V1, empresa de locação e assinatura de carros do grupo Águia Branca, registrou faturamento 10% superior em 2023, atingindo R$134 milhões. Empresa foca em eficiência com intuito de gerar resultado para possibilitar escalabilidade.
 

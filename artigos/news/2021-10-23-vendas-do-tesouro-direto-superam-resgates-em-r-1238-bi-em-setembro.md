@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 1,238 bi em setembro"
+title: Vendas do Tesouro Direto superam resgates em R$ 1,238 bi em setembro
 date: 2021-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Títulos mais procurados foram os vinculados à taxa Selic.
 

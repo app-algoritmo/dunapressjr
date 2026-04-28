@@ -1,11 +1,12 @@
 ---
-title: "Primeira eleições de deputados no Brasil"
+title: Primeira eleições de deputados no Brasil
 date: 2022-09-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A todo aquele que tiver a curiosidade de se entreter lendo com atenção os anais da primeira constituinte brasileira – Constituinte de 1823, a primeira assembleia legislativa nacional, certamente se espantará com a facilidade com que aquela assembleia soube se organizar. As minúcias de um parlamento pareciam ser do conhecimento de todos, ou de pelo menos de todos aqueles que tomaram a peito organizar o órgão legislativo.
 

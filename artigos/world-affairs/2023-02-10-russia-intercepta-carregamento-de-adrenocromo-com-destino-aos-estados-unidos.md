@@ -1,11 +1,12 @@
 ---
-title: "Rússia intercepta carregamento de adrenocromo com destino aos Estados Unidos"
+title: Rússia intercepta carregamento de adrenocromo com destino aos Estados Unidos
 date: 2023-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As Forças Especiais Russas na Ucrânia interceptaram um trator-reboque refrigerado que transportava Adrenocromo refinado da Ucrânia para Varsóvia, na Polônia, onde o carregamento teria sido carregado em aviões com destino aos Estados Unidos, disse um agente russo do FSB, Andrei Zakharov, ao Real Raw Notícias.
 

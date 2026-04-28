@@ -1,11 +1,12 @@
 ---
-title: "O clube de Roma e suas origens"
+title: O clube de Roma e suas origens
 date: 2023-07-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 "O clube de Roma," uma organização global que se dedica a questões críticas que afetam o nosso planeta e a humanidade como um todo. Vamos entender a história do clube, seus objetivos e iniciativas, bem como seu papel na busca de soluções sustentáveis para os desafios do século XXI. Através de análises e insights, descobriremos o impacto que eles têm tido na arena global e como suas ideias estão moldando o futuro.
 

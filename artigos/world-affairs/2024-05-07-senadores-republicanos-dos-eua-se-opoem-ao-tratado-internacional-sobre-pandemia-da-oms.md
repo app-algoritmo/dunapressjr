@@ -1,11 +1,13 @@
 ---
-title: "Senadores Republicanos dos EUA se Opõem ao Tratado Internacional sobre Pandemia da OMS"
+title: Senadores Republicanos dos EUA se Opõem ao Tratado Internacional sobre Pandemia
+  da OMS
 date: 2024-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No próximo mês, o governo dos EUA planeja aprovar um tratado internacional sobre pandemia da Organização Mundial da Saúde (OMS) e o Regulamento Sanitário Internacional (RSI) revisado. No entanto, essa iniciativa enfrenta forte oposição dos 49 senadores republicanos, que consideram a proposta inaceitável.
 

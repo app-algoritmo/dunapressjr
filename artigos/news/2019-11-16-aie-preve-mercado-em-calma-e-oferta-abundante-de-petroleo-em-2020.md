@@ -1,11 +1,12 @@
 ---
-title: "AIE prevê mercado 'em calma' e oferta abundante de petróleo em 2020"
+title: AIE prevê mercado 'em calma' e oferta abundante de petróleo em 2020
 date: 2019-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O mercado de petróleo deve se manter "em calma" no
 ano que vem, apesar das tensões geopolíticas, graças a uma oferta abundante de

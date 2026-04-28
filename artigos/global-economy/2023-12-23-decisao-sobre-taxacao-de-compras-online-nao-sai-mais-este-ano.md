@@ -1,11 +1,12 @@
 ---
-title: "Decisão sobre taxação de compras online não sai mais este ano"
+title: Decisão sobre taxação de compras online não sai mais este ano
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Governo aguarda ação no STF e negociações com Congresso.
 

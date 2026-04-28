@@ -1,11 +1,12 @@
 ---
-title: "Trump Desafia Biden para Debate"
+title: Trump Desafia Biden para Debate
 date: 2024-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente Donald Trump lançou um desafio direto ao atual presidente Joe Biden para um debate político, após Biden expressar sua disposição para tal confronto. Através de uma postagem no Truth Social, Trump provocou Biden, sugerindo várias datas para o debate, incluindo uma coincidindo com seu próprio comício de campanha em Michigan. Além disso, Trump destacou sua atual situação legal em Nova York, denunciando-a como interferência eleitoral.
 

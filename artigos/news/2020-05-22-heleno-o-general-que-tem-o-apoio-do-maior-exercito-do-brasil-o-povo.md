@@ -1,11 +1,12 @@
 ---
-title: "Heleno, o General que tem o apoio do maior exercito do Brasil, o povo"
+title: Heleno, o General que tem o apoio do maior exercito do Brasil, o povo
 date: 2020-05-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Desde o Gabinete de Segurança Institucional (GSI), Augusto Heleno afirmou, em nota divulgada no Twitter, que a eventual apreensão do celular do presidente Jair Bolsonaro seria “inconcebível” e teria “consequências imprevisíveis para a estabilidade nacional”.
 

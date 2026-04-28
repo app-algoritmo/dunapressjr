@@ -1,11 +1,12 @@
 ---
-title: "Cuidados importantes com o pneu do carro"
+title: Cuidados importantes com o pneu do carro
 date: 2022-12-05
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Saiba quais são os cuidados importantes com o pneu do carro que devem ser realizados de acordo com a frequência indicada, a fim de prolongar sua vida útil e evitar desgastes prematuros. 
 

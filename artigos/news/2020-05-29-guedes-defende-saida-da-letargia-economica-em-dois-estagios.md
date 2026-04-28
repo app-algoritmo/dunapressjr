@@ -1,11 +1,12 @@
 ---
-title: "Guedes defende saída da “letargia econômica” em dois estágios"
+title: Guedes defende saída da “letargia econômica” em dois estágios
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro disse que país foi atingido fortemente pela pandemia.
 

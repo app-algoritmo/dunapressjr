@@ -1,11 +1,13 @@
 ---
-title: "Novo filme sobre extração de órgãos na Ucrânia: 'Havia crianças, crianças decompostas'"
+title: 'Novo filme sobre extração de órgãos na Ucrânia: ''Havia crianças, crianças
+  decompostas'''
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No início deste mês, o popular canal russo Россия – это я! (Rússia, sou eu!) lançou um [filme angustiante](https://www.youtube.com/watch?v=YG9Aq-t-qVU) sobre os "crimes do regime de Kiev contra crianças em Donbass".
 

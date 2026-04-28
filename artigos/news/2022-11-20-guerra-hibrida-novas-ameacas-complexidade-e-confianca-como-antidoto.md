@@ -1,11 +1,12 @@
 ---
-title: "Guerra Híbrida – Novas Ameaças, Complexidade e 'Confiança' como Antídoto"
+title: Guerra Híbrida – Novas Ameaças, Complexidade e 'Confiança' como Antídoto
 date: 2022-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pode-se argumentar que a natureza da segurança internacional e dos conflitos permanece a mesma. Os Estados estão – como sempre – envolvidos em competições militares e econômicas de soma zero, conflitos armados ainda parecem inevitáveis, dilemas de segurança e equilíbrio ocorrem incessantemente, e assim por diante. No entanto, o modus operandi não é mais o mesmo. Os conflitos são travados de maneiras novas, inovadoras e radicalmente diferentes. Com o advento da guerra híbrida moderna, eles são cada vez menos sobre [força letal ou cinética](https://www.nato.int/docu/review/articles/2020/05/20/coronavirus-invisible-threats-and-preparing-for-resilience/index.html).
 

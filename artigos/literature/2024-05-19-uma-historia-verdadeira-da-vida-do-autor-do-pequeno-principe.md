@@ -1,12 +1,13 @@
 ---
-title: "Uma história verdadeira da vida do autor do Pequeno Príncipe"
+title: Uma história verdadeira da vida do autor do Pequeno Príncipe
 date: 2024-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
-  - News
+- Literature
+- News
 ---
+
 
 O sorriso que salvou a vida de Saint-Exupéry
 Um sorriso pode salvar uma vida?

@@ -1,11 +1,12 @@
 ---
-title: "Wall Street Journal: A volta de Lula e a ameaça judicial à democracia brasileira"
+title: 'Wall Street Journal: A volta de Lula e a ameaça judicial à democracia brasileira'
 date: 2022-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O ex-presidente esquerdista toma posse novamente em 1º de janeiro, quando a Suprema Corte tenta limitar o poder do Congresso.
 

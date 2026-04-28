@@ -1,11 +1,13 @@
 ---
-title: "18ª avaliação aponta 198 cidades paraibanas classificadas como bandeira amarela no Plano Novo Normal"
+title: 18ª avaliação aponta 198 cidades paraibanas classificadas como bandeira amarela
+  no Plano Novo Normal
 date: 2021-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Governo da Paraíba publicou, neste sábado (6), a 18ª avaliação do Plano Novo Normal Paraíba que passa a vigorar a partir desta segunda-feira (8) ([https://paraiba.pb.gov.br/diretas/saude/coronavirus/novonormalpb](https://paraiba.pb.gov.br/diretas/saude/coronavirus/novonormalpb) ). O documento aponta que 89% das cidades paraibanas (198) estão classificadas na cor amarela; 22 municípios devem ter a mobilidade restrita, uma vez que estão classificados em bandeira laranja; e os municípios de Mogeiro, Natuba e Baía da Traição são os únicos classificados na bandeira verde. Não há municípios avaliados na bandeira vermelha, cuja cor indica mobilidade impedida.
 

@@ -1,11 +1,13 @@
 ---
-title: "Os globalistas estão prestes a dar passos realmente grandes que mudariam fundamentalmente a maneira como nossa sociedade funciona"
+title: Os globalistas estão prestes a dar passos realmente grandes que mudariam fundamentalmente
+  a maneira como nossa sociedade funciona
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto todo mundo está distraído, os globalistas estão fazendo movimentos absolutamente gigantescos. Já escrevi sobre o novo sistema global da ONU para combater a "desinformação" e seu desejo de introduzir um sistema global de identificação digital vinculado às nossas contas bancárias. Sei que essas coisas parecem muito loucas, mas não são feitas em segredo. Na verdade, os globalistas têm muito orgulho do que fazem. Mas apenas uma pequena porcentagem da população está ciente da agenda insidiosa que estão promovendo e, portanto, há pouco debate sobre isso.
 

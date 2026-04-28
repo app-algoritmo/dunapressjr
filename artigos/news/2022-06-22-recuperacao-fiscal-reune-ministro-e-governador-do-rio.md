@@ -1,11 +1,12 @@
 ---
-title: "Recuperação fiscal reúne ministro e governador do Rio"
+title: Recuperação fiscal reúne ministro e governador do Rio
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Total da dívida com a União é de R$ 148,1 bilhões.
 

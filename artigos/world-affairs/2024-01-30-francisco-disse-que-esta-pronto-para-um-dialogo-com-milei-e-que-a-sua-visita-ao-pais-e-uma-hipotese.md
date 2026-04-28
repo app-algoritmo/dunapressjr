@@ -1,11 +1,13 @@
 ---
-title: "Francisco disse que está “pronto” para um diálogo com Milei e que a sua visita ao país é “uma hipótese”"
+title: Francisco disse que está “pronto” para um diálogo com Milei e que a sua visita
+  ao país é “uma hipótese”
 date: 2024-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco mostrou-se “pronto para iniciar um diálogo” com o Presidente Javier Milei, com quem se encontrará no próximo mês no Vaticano, e disse que a sua possível viagem à Argentina é “uma hipótese”, uma vez que a organização “ainda não a iniciou”.
 

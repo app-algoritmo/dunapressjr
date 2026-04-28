@@ -1,11 +1,13 @@
 ---
-title: "Andrew Bridgen Alerta sobre Possível Ataque de Bandeira Falsa da OTAN usando 'Bomba Suja' Nuclear"
+title: Andrew Bridgen Alerta sobre Possível Ataque de Bandeira Falsa da OTAN usando
+  'Bomba Suja' Nuclear
 date: 2024-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O deputado britânico Andrew Bridgen emitiu recentemente um alerta alarmante sobre um suposto plano da OTAN para realizar um ataque de bandeira falsa contra uma cidade europeia utilizando uma “bomba suja” nuclear, com o objetivo de culpar falsamente a Rússia. Bridgen, que afirma ter obtido informações de analistas de defesa da inteligência militar, menciona a possível circulação de material nuclear proveniente da Ucrânia como parte desse plano. Ele expressou preocupações sobre as graves consequências geopolíticas e o aumento das tensões entre a OTAN e a Rússia.
 

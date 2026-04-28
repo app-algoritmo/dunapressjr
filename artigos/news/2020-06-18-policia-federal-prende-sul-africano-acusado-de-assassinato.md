@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende sul-africano acusado de assassinato"
+title: Polícia Federal prende sul-africano acusado de assassinato
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Rio de Janeiro/RJ** - A Polícia Federal prendeu, na manhã de hoje, 18/06, um cidadão sul africano, de 39 anos, foragido e acusado de ter assassinado a facadas sua ex-companheira.
 

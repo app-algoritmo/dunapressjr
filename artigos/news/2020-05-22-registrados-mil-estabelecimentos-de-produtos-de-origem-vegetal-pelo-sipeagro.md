@@ -1,11 +1,12 @@
 ---
-title: "Registrados mil estabelecimentos de produtos de origem vegetal pelo Sipeagro"
+title: Registrados mil estabelecimentos de produtos de origem vegetal pelo Sipeagro
 date: 2020-05-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O cadastro é obrigatório para todo cidadão e empresa que processe, industrialize, beneficie ou embale produto de origem vegetal
 

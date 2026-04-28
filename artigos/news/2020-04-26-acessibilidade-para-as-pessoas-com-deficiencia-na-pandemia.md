@@ -1,11 +1,12 @@
 ---
-title: "Acessibilidade para as pessoas com Deficiência na pandemia"
+title: Acessibilidade para as pessoas com Deficiência na pandemia
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O foco da SNDPD no período é garantir o acesso a informação às mais de 45 milhões de pessoas com deficiência no Brasil. Por isso, preparou várias cartilhas, inclusive em formato HTML, para que os diversos grupos de pessoas com deficiência esteja munido do conhecimento mínimo necessário para a prevenção ao coronavírus. 
 

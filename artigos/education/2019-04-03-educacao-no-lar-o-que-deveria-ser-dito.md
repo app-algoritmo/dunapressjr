@@ -1,12 +1,13 @@
 ---
-title: "Educação no lar: o que deveria ser dito"
+title: 'Educação no lar: o que deveria ser dito'
 date: 2019-04-03
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Assistimos ontem ao avanço da proposta de implantação da Homeschool no Brasil. Inúmeras famílias, todas bem intencionadas e inocentes, estão sendo processadas e correm o risco de terem seus filhos tomados pelo Estado, com a justificativa de abandono intelectual. Como se a própria escola pública, sucateada, vilipendiada e ostentando, segundo  o PISA, os piores índices em relação a 70 países pesquisados, já não o tivesse feito: estamos entre os dez últimos do ranking em ciências (63º) e matemática (65º); em leitura, a modesta 59ª posição.
 

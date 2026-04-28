@@ -1,11 +1,12 @@
 ---
-title: "Lira defende maior inserção de produtos 'verdes' brasileiros no mercado internacional"
+title: Lira defende maior inserção de produtos 'verdes' brasileiros no mercado internacional
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente destacou a liderança brasileira na produção e no uso da cana-de-açúcar e seus derivados.
 

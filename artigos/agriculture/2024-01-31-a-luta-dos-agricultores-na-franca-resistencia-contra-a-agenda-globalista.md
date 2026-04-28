@@ -1,12 +1,13 @@
 ---
-title: "A Luta dos Agricultores na França: Resistência Contra a Agenda Globalista"
+title: 'A Luta dos Agricultores na França: Resistência Contra a Agenda Globalista'
 date: 2024-01-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Agriculture
-  - Policy
+- Agriculture
+- Policy
 ---
+
 
 "O mundo pode avançar sem políticos, não pode avançar sem agricultores. Sem agricultores, sem comida"
 

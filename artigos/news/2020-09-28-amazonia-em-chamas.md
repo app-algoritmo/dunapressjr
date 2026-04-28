@@ -1,11 +1,12 @@
 ---
-title: "Amazônia em chamas..."
+title: Amazônia em chamas...
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Por Hamilton Mourão, Vice-presidente da República.*
 

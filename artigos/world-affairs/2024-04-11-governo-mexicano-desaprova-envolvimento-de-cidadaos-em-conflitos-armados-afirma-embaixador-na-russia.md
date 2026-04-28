@@ -1,11 +1,13 @@
 ---
-title: "Governo Mexicano Desaprova Envolvimento de Cidadãos em Conflitos Armados, Afirma Embaixador na Rússia"
+title: Governo Mexicano Desaprova Envolvimento de Cidadãos em Conflitos Armados, Afirma
+  Embaixador na Rússia
 date: 2024-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma recente declaração à agência de notícias TASS, o embaixador do México na Rússia, Eduardo Villegas Megias, ressaltou a posição do governo mexicano em relação à participação de seus cidadãos em conflitos armados, destacando que tal envolvimento não é encorajado pelas autoridades. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Impacto da COVID-19 em hipertensos é foco de estudo"
+title: Impacto da COVID-19 em hipertensos é foco de estudo
 date: 2021-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pesquisa analisa como a depressão, a ansiedade e o estresse afetam os cuidados do paciente com a pressão arterial.
 

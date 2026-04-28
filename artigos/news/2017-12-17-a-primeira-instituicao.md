@@ -1,11 +1,12 @@
 ---
-title: "A primeira instituição"
+title: A primeira instituição
 date: 2017-12-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 *Família a primeira Instituição*
 

@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Dezenas de milhares de pessoas podem morrer até a chegada de uma vacina"
+title: 'Coronavírus: Dezenas de milhares de pessoas podem morrer até a chegada de
+  uma vacina'
 date: 2020-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Cientistas dos EUA e da Austrália estão usando novas tecnologias em um ambicioso esforço multimilionário para desenvolver uma vacina em tempo recorde para combater o surto de coronavírus na China.
 

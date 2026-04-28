@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe mais 1% e bate recorde acima de 110 mil pontos"
+title: Ibovespa sobe mais 1% e bate recorde acima de 110 mil pontos
 date: 2019-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ibovespa renovou máximas recordes nesta quarta-feira,
 negociado acima dos 110 mil pontos pela primeira vez, em meio a novo sinais da

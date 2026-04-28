@@ -1,11 +1,13 @@
 ---
-title: "Projeto regulamenta o uso de reconhecimento facial por forças de segurança pública"
+title: Projeto regulamenta o uso de reconhecimento facial por forças de segurança
+  pública
 date: 2023-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 3069/22 regulamenta o uso do reconhecimento facial automatizado pelas forças de segurança pública em investigações criminais ou procedimentos administrativos. O texto tramita na Câmara dos Deputados.
 

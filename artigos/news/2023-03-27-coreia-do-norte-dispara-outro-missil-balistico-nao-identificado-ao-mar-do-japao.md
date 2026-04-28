@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte dispara outro míssil balístico não identificado ao mar do Japão"
+title: Coreia do Norte dispara outro míssil balístico não identificado ao mar do Japão
 date: 2023-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Coreia do Norte disparou hoje um míssil balístico não identificado ao mar do Japão (chamado mar do Leste nas duas Coreias), em uma nova resposta aos grandes exercícios de primavera que Seul e Washington estão realizando no sul da península.
 

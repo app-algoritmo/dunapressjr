@@ -1,11 +1,12 @@
 ---
-title: "O jornalista investiga profundamente a vida do judeu fundador do Marvel Universe"
+title: O jornalista investiga profundamente a vida do judeu fundador do Marvel Universe
 date: 2021-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Em 1998, Abraham Riesman conheceu Stan Lee em uma convenção de quadrinhos chamada Wizard World Chicago. Lee, conhecido como o pai do Universo Marvel , ainda não era famoso para o público mainstream.
 

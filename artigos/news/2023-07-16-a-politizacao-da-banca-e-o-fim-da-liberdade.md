@@ -1,11 +1,12 @@
 ---
-title: "A politização da banca e o fim da liberdade"
+title: A politização da banca e o fim da liberdade
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um líder importante no movimento Brexit, Nigel Farage, acaba de ter suas contas bancárias de décadas fechadas, supostamente por razões "comerciais", enquanto outros sete bancos parecem estar se recusando a tê-lo como cliente.
 

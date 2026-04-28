@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina protocolo para instalação de indústria do grupo K1"
+title: Governador da Paraíba assina protocolo para instalação de indústria do grupo
+  K1
 date: 2021-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi assegurado investimento de R$ 160 milhões e geração de 1.500 empregos, sendo 500 diretos e 1000 indiretos.
 

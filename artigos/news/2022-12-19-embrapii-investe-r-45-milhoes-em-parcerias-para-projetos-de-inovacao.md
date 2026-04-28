@@ -1,11 +1,12 @@
 ---
-title: "Embrapii investe R$ 45 milhões em parcerias para projetos de inovação"
+title: Embrapii investe R$ 45 milhões em parcerias para projetos de inovação
 date: 2022-12-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indústrias e centros de pesquisa serão polos da empresa.
 

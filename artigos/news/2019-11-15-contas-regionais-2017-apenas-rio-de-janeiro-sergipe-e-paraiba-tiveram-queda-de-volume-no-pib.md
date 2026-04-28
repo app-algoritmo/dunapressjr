@@ -1,11 +1,13 @@
 ---
-title: "Contas Regionais 2017: apenas Rio de Janeiro, Sergipe e Paraíba tiveram queda de volume no PIB"
+title: 'Contas Regionais 2017: apenas Rio de Janeiro, Sergipe e Paraíba tiveram queda
+  de volume no PIB'
 date: 2019-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Após dois anos consecutivos de queda, 2015 (-3,5%) e 2016
 (-3,3%), o PIB do Brasil voltou a crescer em volume: 1,3% em 2017 na comparação

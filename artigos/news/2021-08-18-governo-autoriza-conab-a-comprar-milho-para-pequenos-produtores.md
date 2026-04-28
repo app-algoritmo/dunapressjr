@@ -1,11 +1,12 @@
 ---
-title: "Governo autoriza Conab a comprar milho para pequenos produtores"
+title: Governo autoriza Conab a comprar milho para pequenos produtores
 date: 2021-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## MP amplia estoques públicos do produto em até 200 mil toneladas.
 

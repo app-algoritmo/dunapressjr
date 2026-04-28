@@ -1,12 +1,14 @@
 ---
-title: "Parceria entre empresas privadas e governo prevê investimento de R$ 50 milhões para pesquisa em alimentos saudáveis"
+title: Parceria entre empresas privadas e governo prevê investimento de R$ 50 milhões
+  para pesquisa em alimentos saudáveis
 date: 2023-12-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Food
-  - Technology
+- Food
+- Technology
 ---
+
 
 ## Estudos devem iniciar no primeiro semestre de 2024 e primeiros resultados são esperados em 12 meses; projeto no Paraná faz parte dos Novos Arranjos de Pesquisa e Inovação.
 

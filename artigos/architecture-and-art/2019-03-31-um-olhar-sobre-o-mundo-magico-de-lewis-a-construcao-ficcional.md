@@ -1,11 +1,12 @@
 ---
-title: "Um Olhar sobre o mundo mágico de Lewis- A construção ficcional"
+title: Um Olhar sobre o mundo mágico de Lewis- A construção ficcional
 date: 2019-03-31
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Para ler a Introdução do artigo leia : [Um olhar sobre o Mundo Mágico de Lewis- Introdução](https://dunapress.org/2019/03/31/um-olhar-sobre-o-mundo-magico-de-lewis-introducao/)
 

@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cai 0,4% em setembro, diz IBGE"
+title: Produção industrial cai 0,4% em setembro, diz IBGE
 date: 2021-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na comparação com setembro de 2020, o setor recuou 3,9%.
 

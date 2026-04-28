@@ -1,11 +1,12 @@
 ---
-title: "Desemprego cai para 8,7% no terceiro trimestre, revela IBGE"
+title: Desemprego cai para 8,7% no terceiro trimestre, revela IBGE
 date: 2022-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A população ocupada somou 99,3 milhões de pessoas.
 

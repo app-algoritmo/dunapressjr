@@ -1,11 +1,13 @@
 ---
-title: "Projetos sociais de empresas ganham corpo e multiplicam áreas beneficiadas durante a pandemia"
+title: Projetos sociais de empresas ganham corpo e multiplicam áreas beneficiadas
+  durante a pandemia
 date: 2022-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ao longo dos últimos dois anos, mais de R$ 7 bilhões foram doados para pessoas afetadas pela covid-19. Os dados são do Monitor das Doações Covid-19 realizado pela Associação Brasileira de Captadores de Recursos. O estudo mostra ainda que 85% dessas doações foram feitas por empresas. Números que ressaltam que a pandemia reforçou o papel social das instituições. E, assim como nas ações diretamente relacionadas com a pandemia, os projetos das empresas também se ampliaram, principalmente nas causas de saúde, assistência social, educação e geração de renda.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Bailarina - Netflix"
+title: A Bailarina - Netflix
 date: 2023-10-09
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

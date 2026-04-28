@@ -1,11 +1,13 @@
 ---
-title: "Petrobras anuncia redução média de 7,1% no preço do gás natural a partir de agosto"
+title: Petrobras anuncia redução média de 7,1% no preço do gás natural a partir de
+  agosto
 date: 2023-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contratos com distribuidoras e variação do petróleo e câmbio são responsáveis pela queda nos preços.
 

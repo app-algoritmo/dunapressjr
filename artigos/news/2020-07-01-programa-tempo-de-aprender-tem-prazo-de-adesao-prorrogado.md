@@ -1,11 +1,12 @@
 ---
-title: "Programa Tempo de Aprender tem prazo de adesão prorrogado"
+title: Programa Tempo de Aprender tem prazo de adesão prorrogado
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estados e municípios podem se inscrever até 30 de julho; 3.641 municípios já demonstraram interesse na iniciativa.
 

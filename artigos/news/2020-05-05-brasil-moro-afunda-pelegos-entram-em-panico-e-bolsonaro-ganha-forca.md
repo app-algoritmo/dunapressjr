@@ -1,11 +1,12 @@
 ---
-title: "Brasil: Moro afunda, pelegos entram em pânico e Bolsonaro ganha força"
+title: 'Brasil: Moro afunda, pelegos entram em pânico e Bolsonaro ganha força'
 date: 2020-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pouco mais de uma semana após a tentava falida de incriminar o chefe do executivo através de uma coletiva de imprensa, o ex funcionário público Sérgio Moro com sua zelada biografia é acusado nas redes sociais de traidor e judas, Moro é destaque nacional e entra para as páginas negras da história do Brasil. Assista a seguir o vídeo da professora Paulo Marisa:
 

@@ -1,11 +1,12 @@
 ---
-title: "CCJ da ALPB aprova criação do Hospital das Clínicas de Campina Grande"
+title: CCJ da ALPB aprova criação do Hospital das Clínicas de Campina Grande
 date: 2020-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Hospital abrirá novos leitos para tratamento da Covid-19.
 

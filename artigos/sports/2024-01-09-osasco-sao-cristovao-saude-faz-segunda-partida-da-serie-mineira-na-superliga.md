@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde faz segunda partida da 'série mineira' na Superliga"
+title: Osasco São Cristóvão Saúde faz segunda partida da 'série mineira' na Superliga
 date: 2024-01-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Depois de bater o Gerdau Minas, equipe comandada pelo técnico Luizomar enfrenta o Dentil Praia Clube nesta quarta-feira (10), às 21h, na cidade de Uberlândia.
 

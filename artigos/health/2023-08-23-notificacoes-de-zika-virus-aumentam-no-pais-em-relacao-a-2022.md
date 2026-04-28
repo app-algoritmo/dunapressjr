@@ -1,11 +1,12 @@
 ---
-title: "Notificações de zika vírus aumentam no país em relação a 2022"
+title: Notificações de zika vírus aumentam no país em relação a 2022
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Ministério da Saúde informa que monitora situação.
 

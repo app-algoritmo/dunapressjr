@@ -1,11 +1,13 @@
 ---
-title: "Educação de SP divulga regra de Provão Paulista que dá acesso a universidades estaduais"
+title: Educação de SP divulga regra de Provão Paulista que dá acesso a universidades
+  estaduais
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Alunos da rede estadual estão automaticamente inscritos na avaliação; exame será realizado nos dias 28 e 29 de novembro.
 

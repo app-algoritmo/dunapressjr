@@ -1,11 +1,12 @@
 ---
-title: "Governo investe R$ 26 milhões em equipamentos para reforçar segurança nas fronteiras"
+title: Governo investe R$ 26 milhões em equipamentos para reforçar segurança nas fronteiras
 date: 2020-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *O dinheiro arrecado com leilões de bens apreendidos do tráfico de drogas está sendo utilizado para reforçar a segurança das fronteiras brasileiras. * 
 

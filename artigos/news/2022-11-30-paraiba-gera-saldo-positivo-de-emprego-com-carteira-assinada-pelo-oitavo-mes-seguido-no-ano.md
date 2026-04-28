@@ -1,11 +1,13 @@
 ---
-title: "Paraíba gera saldo positivo de emprego com carteira assinada pelo oitavo mês seguido no ano"
+title: Paraíba gera saldo positivo de emprego com carteira assinada pelo oitavo mês
+  seguido no ano
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No mês de outubro, os setores do comércio e serviços se destacaram.
 

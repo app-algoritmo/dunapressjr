@@ -1,11 +1,12 @@
 ---
-title: "Como dar aula online: confira nossas dicas!"
+title: 'Como dar aula online: confira nossas dicas!'
 date: 2022-11-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Uma das dúvidas que muitos professores possuem é **como dar aula online.** Afinal, lecionar em um ambiente virtual não é a mesma coisa que em uma sala de aula.
 

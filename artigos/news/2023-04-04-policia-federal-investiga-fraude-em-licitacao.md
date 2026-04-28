@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal investiga fraude em licitação"
+title: Polícia Federal investiga fraude em licitação
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram cumpridos cinco mandados de busca e apreensão: três no município de Juazeiro/BA e dois na sede da Prefeitura de Araripina/PE.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação do aluguel sobe 1,41% em abril"
+title: Inflação do aluguel sobe 1,41% em abril
 date: 2022-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### IGP-M acumula alta de 6,98% no ano e de 14,66% em 12 meses.
 

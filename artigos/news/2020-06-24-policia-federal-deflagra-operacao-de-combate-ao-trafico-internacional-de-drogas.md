@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra Operação de combate ao tráfico internacional de drogas"
+title: Polícia Federal deflagra Operação de combate ao tráfico internacional de drogas
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Recife/PE** - A Polícia Federal deflagrou, nesta terça feira (23/06), a Operação Estatueta que dá cumprimento a dez mandados de prisão temporária, onze mandados de busca e apreensão, apreende três veículos, bloqueia contas bancárias de nove pessoas físicas e jurídicas, sequestra seis imóveis (todos em Pernambuco) e afasta o sigilo fiscal de nove pessoas físicas e jurídicas. Todas as medidas cautelares foram expedidas pela 13ª Vara da Justiça Federal de Pernambuco.
 

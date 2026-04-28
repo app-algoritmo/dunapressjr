@@ -1,11 +1,13 @@
 ---
-title: "7.01 Com o texto, é possível garantir recursos, a longo prazo, em áreas e projetos de interesse público"
+title: 7.01 Com o texto, é possível garantir recursos, a longo prazo, em áreas e projetos
+  de interesse público
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente sanciona lei que cria fundos patrimoniais
 

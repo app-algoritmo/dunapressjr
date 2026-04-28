@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina contrato com Banco Mundial e assegura investimentos de US$ 207 milhões na infraestrutura hídrica"
+title: Governador da Paraíba assina contrato com Banco Mundial e assegura investimentos
+  de US$ 207 milhões na infraestrutura hídrica
 date: 2020-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A ação irá beneficiar especialmente as regiões do Cariri e Curimataú.
 

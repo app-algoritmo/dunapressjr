@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apura crime de difamação contra Senador"
+title: Polícia Federal apura crime de difamação contra Senador
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aracaju/SE - A Polícia Federal cumpriu nesta terça-feira (5/5) mandado de busca e apreensão expedido pelo juízo da 1ª Vara Federal de Sergipe, com o objetivo de reunir provas em inquérito policial que investiga a divulgação de notícia falsa na internet e em redes sociais, com imputações ofensivas a um Senador por Sergipe, relacionadas à sua atuação no Congresso Nacional.
 

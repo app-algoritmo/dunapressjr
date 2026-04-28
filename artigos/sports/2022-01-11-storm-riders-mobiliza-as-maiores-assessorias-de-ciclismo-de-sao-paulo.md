@@ -1,11 +1,12 @@
 ---
-title: "Storm Riders mobiliza as maiores assessorias de ciclismo de São Paulo"
+title: Storm Riders mobiliza as maiores assessorias de ciclismo de São Paulo
 date: 2022-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A Storm Riders está mobilizando as principais assessorias esportivas da capital paulista. A prova de ciclismo, no próximo dia 23, na Marginal Pinheiros, será um dos destaques das comemorações de aniversário da cidade de São Paulo, que completa 468 anos no dia 25. E atletas de elite e amadores apaixonados pelas bikes vêm garantindo um lugar na corrida. Assessorias como LuluFive, Lagunes, Escaleira, Deluka, Jean Coloca Cycling Team, Run and Fun By Ag, Btreino e Medici Assessoria, Velo 48, Ludão e Spin Sports marcarão presença, com os competidores intensificando cada vez mais os treinos.
 

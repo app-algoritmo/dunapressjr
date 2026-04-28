@@ -1,11 +1,13 @@
 ---
-title: "O mundo multipolar emerge à medida que muitos países, incluindo a China, aumentam o seu potencial, diz Putin"
+title: O mundo multipolar emerge à medida que muitos países, incluindo a China, aumentam
+  o seu potencial, diz Putin
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O Presidente russo lembrou também que as iniciativas da China em matéria de segurança, desenvolvimento e formação de uma civilização global em geral foram formuladas pela primeira vez por Xi Jinping em 2013, durante a sua primeira visita de Estado como Presidente da República Popular da China à Rússia.
 

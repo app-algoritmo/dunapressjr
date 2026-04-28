@@ -1,11 +1,13 @@
 ---
-title: "Trump Insta Republicanos a Rejeitarem Propostas de Imigração e Financiamento à Ucrânia"
+title: Trump Insta Republicanos a Rejeitarem Propostas de Imigração e Financiamento
+  à Ucrânia
 date: 2024-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, lançou um apelo veemente nesta segunda-feira, convocando os republicanos no Senado a se oporem à proposta de reforma do sistema de imigração, bem como a um acordo que prevê o envio de 60 bilhões de dólares adicionais para apoiar a Ucrânia em meio à invasão russa. Este artigo analisa as críticas de Trump e as complexidades em torno das propostas em questão.
 

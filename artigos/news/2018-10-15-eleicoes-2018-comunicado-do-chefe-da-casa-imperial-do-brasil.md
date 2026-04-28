@@ -1,11 +1,12 @@
 ---
-title: "Eleições 2018: Comunicado do Chefe da Casa Imperial do Brasil"
+title: 'Eleições 2018: Comunicado do Chefe da Casa Imperial do Brasil'
 date: 2018-10-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Comunicado do Chefe da Casa Imperial do Brasil
 

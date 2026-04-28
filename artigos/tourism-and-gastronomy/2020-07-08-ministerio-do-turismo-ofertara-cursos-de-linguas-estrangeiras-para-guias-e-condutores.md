@@ -1,11 +1,13 @@
 ---
-title: "Ministério do Turismo ofertará cursos de línguas estrangeiras para guias e condutores"
+title: Ministério do Turismo ofertará cursos de línguas estrangeiras para guias e
+  condutores
 date: 2020-07-08
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Serão ofertadas mais de 4,2 mil vagas em cursos de inglês e espanhol para os profissionais.
 

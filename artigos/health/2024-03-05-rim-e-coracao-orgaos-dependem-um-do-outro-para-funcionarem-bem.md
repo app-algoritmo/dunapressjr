@@ -1,11 +1,12 @@
 ---
-title: "Rim e coração: órgãos dependem um do outro para funcionarem bem"
+title: 'Rim e coração: órgãos dependem um do outro para funcionarem bem'
 date: 2024-03-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Quando insuficiência cardíaca causa prejuízos irreversíveis nos rins, transplante renal permite que a vida continue.
 

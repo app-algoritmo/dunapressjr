@@ -1,11 +1,12 @@
 ---
-title: "Doença Renal: prevenção, diagnóstico precoce e tratamento"
+title: 'Doença Renal: prevenção, diagnóstico precoce e tratamento'
 date: 2022-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com a Sociedade Brasileira de Nefrologia (SBN), entidade que promove a campanha no País, uma em cada 10 pessoas em todo o mundo tem alguma doença renal que, se não diagnosticada e tratada de forma correta, pode ser mortal. “Vale ressaltar que doença renal crônica não tem cura! O paciente diagnosticado com a doença deve seguir o tratamento ao longo da sua vida, seja com a diálise ou o transplante renal”, enfatiza o médico nefrologista e Presidente da Pró-Rim, Dr. Marcos A. Vieira.
 

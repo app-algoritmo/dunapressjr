@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial teve saldo positivo de US$ 4,7 bi em março"
+title: Balança comercial teve saldo positivo de US$ 4,7 bi em março
 date: 2020-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No acumulado do primeiro trimestre, o superávit foi US$ 5,6 bi
 

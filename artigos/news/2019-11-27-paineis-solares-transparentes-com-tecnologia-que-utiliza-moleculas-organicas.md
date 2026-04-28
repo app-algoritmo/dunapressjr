@@ -1,11 +1,12 @@
 ---
-title: "Painéis solares transparentes com tecnologia que utiliza moléculas orgânicas"
+title: Painéis solares transparentes com tecnologia que utiliza moléculas orgânicas
 date: 2019-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores da Universidade Estadual do Michigan, EUA, desenvolveram painéis solares completamente transparentes, que podem ter inúmeras aplicações na arquitetura e também em outros campos, como por exemplo no desenvolvimento de automóveis mais amigos do ambiente.
 

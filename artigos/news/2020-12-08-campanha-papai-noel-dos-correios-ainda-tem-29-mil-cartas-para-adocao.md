@@ -1,11 +1,12 @@
 ---
-title: "Campanha Papai Noel dos Correios ainda tem 29 mil cartas para adoção"
+title: Campanha Papai Noel dos Correios ainda tem 29 mil cartas para adoção
 date: 2020-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Crianças de todo o Brasil escreveram mais de 70 mil cartas com pedidos ao bom velhinho neste ano. Mas cerca de 29 mil pedidos ainda esperam um padrinho ou madrinha. E ainda dá tempo de participar.
 

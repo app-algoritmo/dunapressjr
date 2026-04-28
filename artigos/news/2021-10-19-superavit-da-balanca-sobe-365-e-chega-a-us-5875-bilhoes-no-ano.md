@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança sobe 36,5% e chega a US$ 58,75 bilhões no ano"
+title: Superávit da balança sobe 36,5% e chega a US$ 58,75 bilhões no ano
 date: 2021-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dados da Secex até a terceira semana de outubro mostram corrente de comércio de US$ 392,89 bilhões, em alta de 36,9%, com US$ 225,82 bilhões em exportações e US$ 167,07 bilhões em importações.
 

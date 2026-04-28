@@ -1,11 +1,13 @@
 ---
-title: "Conheça 5 mitos sobre a vacina do HPV, única que protege contra o câncer de colo de útero"
+title: Conheça 5 mitos sobre a vacina do HPV, única que protege contra o câncer de
+  colo de útero
 date: 2023-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O **HPV (papilomavírus humano) é responsável por quase 100% dos casos de câncer de colo do útero** – doença que mata 300 mil mulheres anualmente. O vírus também pode causar câncer de ânus, pênis, vagina, vulva e orofaringe. A boa notícia é que, desde 2006, existe uma **vacina capaz de proteger contra a infecção pelo HPV**. No Brasil, ela está disponível gratuitamente no Sistema Único de Saúde (SUS) para meninas de 9 a 14 anos, meninos dos 11 aos 14, e homens e mulheres imunossuprimidos ou pacientes oncológicos de até 45 anos. 
 

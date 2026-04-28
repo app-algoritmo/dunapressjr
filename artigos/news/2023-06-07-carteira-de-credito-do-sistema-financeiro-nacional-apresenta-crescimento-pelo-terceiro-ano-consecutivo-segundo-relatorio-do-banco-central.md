@@ -1,11 +1,13 @@
 ---
-title: "Carteira de crédito do Sistema Financeiro Nacional apresenta crescimento pelo terceiro ano consecutivo, segundo relatório do Banco Central"
+title: Carteira de crédito do Sistema Financeiro Nacional apresenta crescimento pelo
+  terceiro ano consecutivo, segundo relatório do Banco Central
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saldo total de empréstimos e financiamentos atinge R$ 5,3 trilhões em 2022.
 

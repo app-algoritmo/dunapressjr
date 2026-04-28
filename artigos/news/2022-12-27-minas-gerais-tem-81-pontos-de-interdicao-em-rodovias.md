@@ -1,11 +1,12 @@
 ---
-title: "Minas Gerais tem 81 pontos de interdição em rodovias."
+title: Minas Gerais tem 81 pontos de interdição em rodovias.
 date: 2022-12-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## São 70 interdições parciais e 11 bloqueios totais.
 

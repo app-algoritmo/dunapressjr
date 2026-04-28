@@ -1,11 +1,13 @@
 ---
-title: "Pelo sexto mês seguido, Minas mantém saldo positivo de empregos com carteira assinada"
+title: Pelo sexto mês seguido, Minas mantém saldo positivo de empregos com carteira
+  assinada
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em julho, Estado registrou a geração de 12.353 empregos formais, segundo dados do Caged.
 

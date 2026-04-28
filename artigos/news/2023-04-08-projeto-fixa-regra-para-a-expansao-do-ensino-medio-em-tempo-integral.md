@@ -1,11 +1,12 @@
 ---
-title: "Projeto fixa regra para a expansão do ensino médio em tempo integral"
+title: Projeto fixa regra para a expansão do ensino médio em tempo integral
 date: 2023-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 3075/22 estabelece parâmetros para a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral. O texto em análise na Câmara dos Deputados insere o dispositivo na [Lei 13.415/17](https://www2.camara.gov.br/legin/fed/lei/2017/lei-13415-16-fevereiro-2017-784336-norma-pl.html), que promoveu a chamada reforma do ensino médio e criou a política de fomento.
 

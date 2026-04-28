@@ -1,11 +1,12 @@
 ---
-title: "O último adeus ao animal de estimação"
+title: O último adeus ao animal de estimação
 date: 2021-11-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## -Esteja com eles até o fim!, Não se esqueçam que vocês  foram o centro de suas vidas. |
 

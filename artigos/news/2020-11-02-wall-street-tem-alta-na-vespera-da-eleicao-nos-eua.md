@@ -1,11 +1,12 @@
 ---
-title: "Wall Street tem alta na véspera da eleição nos EUA"
+title: Wall Street tem alta na véspera da eleição nos EUA
 date: 2020-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investidores se preparam para grandes oscilações nesta semana.
 

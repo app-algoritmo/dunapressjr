@@ -1,11 +1,12 @@
 ---
-title: "Brasil de volta ao top 10 economias mundial"
+title: Brasil de volta ao top 10 economias mundial
 date: 2026-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Brasil volta ser a economia número 10 do mundo, tornando a vida melhor para  brasileiros e empresas. 
 

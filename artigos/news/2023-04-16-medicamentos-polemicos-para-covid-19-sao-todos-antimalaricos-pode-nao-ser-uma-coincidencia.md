@@ -1,11 +1,13 @@
 ---
-title: "Medicamentos polêmicos para COVID-19 são todos antimaláricos: pode não ser uma coincidência"
+title: 'Medicamentos polêmicos para COVID-19 são todos antimaláricos: pode não ser
+  uma coincidência'
 date: 2023-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 As recomendações do COVID-19 de hidroxicloroquina, ivermectina e [agora artemisinina](https://www.theepochtimes.com/the-first-choice-natural-alternative-to-ivermectin-expert_5151952.html)  têm uma coisa em comum: são medicamentos antimaláricos ou têm essas propriedades.
 

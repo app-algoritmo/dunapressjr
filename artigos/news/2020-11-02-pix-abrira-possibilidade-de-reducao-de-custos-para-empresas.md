@@ -1,11 +1,12 @@
 ---
-title: "Pix abrirá possibilidade de redução de custos para empresas"
+title: Pix abrirá possibilidade de redução de custos para empresas
 date: 2020-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novo sistema entra em vigor este mês em todo o país.
 

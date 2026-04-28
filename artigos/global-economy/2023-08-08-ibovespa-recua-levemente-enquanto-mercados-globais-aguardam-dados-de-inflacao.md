@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa recua levemente enquanto mercados globais aguardam dados de inflação"
+title: Ibovespa recua levemente enquanto mercados globais aguardam dados de inflação
 date: 2023-08-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Queda de 0,15% no Ibovespa, perspectiva para a Selic e análise dos mercados internacionais. 
 

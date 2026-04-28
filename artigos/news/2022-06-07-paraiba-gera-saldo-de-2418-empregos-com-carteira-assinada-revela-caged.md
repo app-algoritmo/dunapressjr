@@ -1,11 +1,12 @@
 ---
-title: "Paraíba gera saldo de 2.418 empregos com carteira assinada, revela Caged"
+title: Paraíba gera saldo de 2.418 empregos com carteira assinada, revela Caged
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em março a Paraíba gerou 727 empregos, enquanto o Nordeste teve saldo negativo.
 

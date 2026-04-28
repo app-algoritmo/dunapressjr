@@ -1,11 +1,12 @@
 ---
-title: "Motor a Vapor de Corliss"
+title: Motor a Vapor de Corliss
 date: 2019-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Na sequência do livro: “50
 máquinas que mudaram o rumo da História”, vamos falar do da primeira máquina

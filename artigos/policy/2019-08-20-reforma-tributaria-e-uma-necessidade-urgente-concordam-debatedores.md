@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária é uma necessidade urgente, concordam debatedores"
+title: Reforma tributária é uma necessidade urgente, concordam debatedores
 date: 2019-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A primeira parte da audiência foi conduzida pela presidente da CCJ, senadora Simone Tebet (MDB-MS). 
 

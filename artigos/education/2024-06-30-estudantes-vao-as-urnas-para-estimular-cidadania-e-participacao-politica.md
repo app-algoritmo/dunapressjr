@@ -1,11 +1,12 @@
 ---
-title: "Estudantes vão às urnas para estimular cidadania e participação política"
+title: Estudantes vão às urnas para estimular cidadania e participação política
 date: 2024-06-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## No Paraná, 340 alunos do Ensino Fundamental simulam votação com urnas verdadeiras.
 

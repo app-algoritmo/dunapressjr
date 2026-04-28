@@ -1,11 +1,12 @@
 ---
-title: "Estados Americanos Desafiam a Autoridade da OMS"
+title: Estados Americanos Desafiam a Autoridade da OMS
 date: 2024-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos últimos meses, o debate sobre a influência da Organização Mundial da Saúde (OMS) nas políticas de saúde pública dos Estados Unidos ganhou destaque, com Utah e Flórida promulgando leis para conter essa influência. A legislação aprovada nestes estados, juntamente com projetos em andamento em Louisiana e Oklahoma, reflete preocupações crescentes sobre a soberania nacional, liberdades individuais e possíveis implicações de mandatos globais de vacinação e passaportes de saúde.
 

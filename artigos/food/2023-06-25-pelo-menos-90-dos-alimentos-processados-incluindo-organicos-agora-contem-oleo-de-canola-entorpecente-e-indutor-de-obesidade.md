@@ -1,11 +1,13 @@
 ---
-title: "Pelo menos 90% dos alimentos processados, incluindo orgânicos, agora contêm Óleo de Canola entorpecente e indutor de obesidade"
+title: Pelo menos 90% dos alimentos processados, incluindo orgânicos, agora contêm
+  Óleo de Canola entorpecente e indutor de obesidade
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Em todo o mundo, o óleo de canola é o terceiro óleo vegetal mais popular em volume, ficando atrás apenas da soja e do óleo de palma, porque é muito barato e funciona muito bem na preservação de alimentos. A razão pela qual é um conservante tão bom é que nada vai comê-lo, exceto humanos estúpidos (uniformizados). Insetos não comem óleo de canola. Os animais odeiam. Afinal, não é uma planta.
 

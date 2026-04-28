@@ -1,11 +1,12 @@
 ---
-title: "Mercado revisa estimativa de inflação de 4,75% para 4,65% no corrente ano"
+title: Mercado revisa estimativa de inflação de 4,75% para 4,65% no corrente ano
 date: 2023-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção de expansão da economia fica em 2,9%, diz BC.
 

@@ -1,11 +1,13 @@
 ---
-title: "Emissão de debêntures incentivadas em 2021 registra captação de R$ 4,8 bilhões em agosto"
+title: Emissão de debêntures incentivadas em 2021 registra captação de R$ 4,8 bilhões
+  em agosto
 date: 2021-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor é resultado de investimentos em empreendimentos nos setores de Energia, Transportes e Telecomunicações.
 

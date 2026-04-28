@@ -1,11 +1,12 @@
 ---
-title: "Aviso de Patrulha “Anequim” resgata casal à deriva em veleiro"
+title: Aviso de Patrulha “Anequim” resgata casal à deriva em veleiro
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Aviso de Patrulha “Anequim”, pertencente ao Comando do Grupamento de
 Patrulha Naval do Sudeste, foi acionado pelo Salvamar Sueste para prestar

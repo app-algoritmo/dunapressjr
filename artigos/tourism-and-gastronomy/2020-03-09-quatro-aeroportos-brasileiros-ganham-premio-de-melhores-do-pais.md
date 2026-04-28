@@ -1,11 +1,12 @@
 ---
-title: "Quatro aeroportos brasileiros ganham prêmio de melhores do país"
+title: Quatro aeroportos brasileiros ganham prêmio de melhores do país
 date: 2020-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Os aeroportos de Vitória (ES), Curitiba (PR), Campinas (SP) e Brasília (DF) foram reconhecidos como os melhores terminais do país. O resultado consta da edição 2020 do Prêmio Aeroportos + Brasil, realizado pelo Ministério da Infraestrutura e que teve os vencedores anunciados durante cerimônia nesta terça-feira (03.03), em Brasília.
 

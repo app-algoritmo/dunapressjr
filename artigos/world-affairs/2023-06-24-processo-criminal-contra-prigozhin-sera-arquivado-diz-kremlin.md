@@ -1,11 +1,12 @@
 ---
-title: "Processo criminal contra Prigozhin será arquivado, diz Kremlin"
+title: Processo criminal contra Prigozhin será arquivado, diz Kremlin
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O porta-voz do Kremlin, Dmitry Peskov, acrescentou que o fundador da Wagner PMC partirá para a Bielorrússia.
 

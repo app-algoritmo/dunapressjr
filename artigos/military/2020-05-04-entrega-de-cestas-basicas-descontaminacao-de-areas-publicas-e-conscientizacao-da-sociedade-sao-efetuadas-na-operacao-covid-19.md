@@ -1,11 +1,13 @@
 ---
-title: "Entrega de cestas básicas, descontaminação de áreas públicas e conscientização da sociedade são efetuadas na Operação Covid 19"
+title: Entrega de cestas básicas, descontaminação de áreas públicas e conscientização
+  da sociedade são efetuadas na Operação Covid 19
 date: 2020-05-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Covid-19 emprega esforços por todo o Brasil. São mais de 29 mil militares, mil viaturas, 102 embarcações e 34 aeronaves. Neste domingo (03), uma aeronave C-130 Hércules decolou de Manaus rumo a Tabatinga. A aeronave transportou 200 cilindros de oxigênio, abastecidos em Manaus, num total de 16 mil kg de carga. A ação teve como destino o Hospital de Guarnição de Tabatinga, que atende o Sistema Único de Saúde (SUS). Também dentro da Operação Covid-19, um avião C-98 Caravan da FAB transportou 2.000 máscaras tipo Face Shield, confeccionadas pela empresa Taurus, de Canoas-RS para o Rio de Janeiro.
 

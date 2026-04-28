@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Síndrome dos ovários policísticos"
+title: 'Dicas de Saúde: Síndrome dos ovários policísticos'
 date: 2021-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os ovários são dois órgãos localizados um de cada lado do útero, responsáveis pela produção dos hormônios sexuais femininos.
 

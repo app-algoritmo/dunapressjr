@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe a R$ 5,668 e bate recorde em dia de demissão de ministro"
+title: Dólar sobe a R$ 5,668 e bate recorde em dia de demissão de ministro
 date: 2020-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Moeda atingiu maior valor nominal desde criação do real
 

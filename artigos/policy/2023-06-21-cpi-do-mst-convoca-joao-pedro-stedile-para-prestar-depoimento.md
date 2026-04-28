@@ -1,11 +1,12 @@
 ---
-title: "CPI do MST convoca João Pedro Stédile para prestar depoimento"
+title: CPI do MST convoca João Pedro Stédile para prestar depoimento
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Requerimento para chamar ministro-chefe da Casa Civil foi retirado.
 

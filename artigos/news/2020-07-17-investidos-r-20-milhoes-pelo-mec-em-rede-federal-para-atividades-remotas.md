@@ -1,11 +1,12 @@
 ---
-title: "Investidos R$ 20 milhões pelo Mec em Rede Federal para atividades remotas"
+title: Investidos R$ 20 milhões pelo Mec em Rede Federal para atividades remotas
 date: 2020-07-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Diante da pandemia de coronavírus, as atividades acadêmicas desenvolvidas de forma remota têm sido a principal alternativa das instituições de ensino para prosseguir em funcionamento. Na Rede Federal de Educação Profissional, Científica e Tecnológica, 13 das 41 instituições estão atuando dessa maneira. Para prover as condições necessárias ao funcionamento remoto, a Secretaria de Educação Profissional e Tecnológica (Setec) já destinou R$ 20 milhões em ações voltadas às instituições da rede. 
 

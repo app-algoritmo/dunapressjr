@@ -1,11 +1,12 @@
 ---
-title: "Com cenário externo adverso, dólar volta a encostar em R$ 5,60"
+title: Com cenário externo adverso, dólar volta a encostar em R$ 5,60
 date: 2020-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa fechou em alta de 1,05% e recupera os 98 mil pontos.
 

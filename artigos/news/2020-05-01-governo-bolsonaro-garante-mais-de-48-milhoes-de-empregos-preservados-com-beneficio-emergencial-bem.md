@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro garante mais de 4,8 milhões de empregos preservados com benefício emergencial (Bem)"
+title: Governo Bolsonaro garante mais de 4,8 milhões de empregos preservados com benefício
+  emergencial (Bem)
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Benefício Emergencial de Preservação do Emprego e da Renda (BEm) foi responsável por preservar 4,8 milhões de empregos desde o início de abril até esta quinta-feira (30). O BEm é pago pelo Governo Federal quando há acordo entre patrões e empregados com redução proporcional de jornada e salário ou suspensão temporária do contrato de trabalho.
 

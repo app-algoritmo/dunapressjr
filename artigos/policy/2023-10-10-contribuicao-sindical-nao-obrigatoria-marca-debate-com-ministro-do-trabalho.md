@@ -1,11 +1,12 @@
 ---
-title: "Contribuição sindical não obrigatória marca debate com ministro do Trabalho"
+title: Contribuição sindical não obrigatória marca debate com ministro do Trabalho
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## [Aprovado no início de outubro](text=A%20Comiss%C3%A3o%20de%20Assuntos%20Econ%C3%B4micos,sindical%20sem%20autoriza%C3%A7%C3%A3o%20do%20empregado.) na Comissão de Assuntos Econômicos (CAE) e agora em análise na Comissão de Assuntos Sociais (CAS), o projeto que impede sindicatos de exigirem pagamento da contribuição sindical sem a autorização do empregado foi um dos temas debatidos na audiência pública da Comissão de Direitos Humanos (CDH) com o ministro do Trabalho, Luiz Marinho, nesta segunda-feira (9).
 

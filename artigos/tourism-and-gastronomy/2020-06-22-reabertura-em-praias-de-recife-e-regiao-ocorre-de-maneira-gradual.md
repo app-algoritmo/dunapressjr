@@ -1,11 +1,12 @@
 ---
-title: "Reabertura em praias de Recife e região ocorre de maneira gradual"
+title: Reabertura em praias de Recife e região ocorre de maneira gradual
 date: 2020-06-22
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## A medida ocorreu após autorização do Governo do Estado para que os municípios administrem o acesso a praias, parques e calçadões.
 

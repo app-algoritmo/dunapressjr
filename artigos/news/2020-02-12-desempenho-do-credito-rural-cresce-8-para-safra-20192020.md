@@ -1,11 +1,12 @@
 ---
-title: "Desempenho do crédito rural cresce 8% para safra 2019/2020"
+title: Desempenho do crédito rural cresce 8% para safra 2019/2020
 date: 2020-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Operações de custeio somaram R$ 84,6 bilhões; investimentos atingiram R$ 32 bilhões*
 

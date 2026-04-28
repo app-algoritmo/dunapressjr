@@ -1,12 +1,14 @@
 ---
-title: "Maduro quer criar um novo 'imperialismo' entre o eixo latino-americano, Rússia e China"
+title: Maduro quer criar um novo 'imperialismo' entre o eixo latino-americano, Rússia
+  e China
 date: 2023-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Nicolás Maduro se alegrou há algumas horas na televisão nacional. E é que no ano passado novas possibilidades de alianças de esquerda se abriram depois que Gustavo Petro e Luiz Inácio Lula da Silva assumiram a presidência da Colômbia e do Brasil, respectivamente. Com ambos, o mapa da região foi quase todo pintado de vermelho para formar um eixo socialista latino-americano junto com Alberto Fernández na Argentina.
 

@@ -1,11 +1,13 @@
 ---
-title: "Secretaria de Política Econômica destaca a importância de medidas estruturais para a geração de emprego"
+title: Secretaria de Política Econômica destaca a importância de medidas estruturais
+  para a geração de emprego
 date: 2021-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nota informativa utiliza dados do Caged e da Pnad Contínua que apontam o crescimento do emprego formal e informal no país em meio à pandemia da Covid-19.
 

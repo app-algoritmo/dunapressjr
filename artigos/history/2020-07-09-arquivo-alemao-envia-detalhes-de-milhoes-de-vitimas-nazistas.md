@@ -1,11 +1,12 @@
 ---
-title: "Arquivo alemão envia detalhes de milhões de vítimas nazistas"
+title: Arquivo alemão envia detalhes de milhões de vítimas nazistas
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A organização Arolsen publica 850.000 documentos coletados após o final da Segunda Guerra Mundial na zona da Alemanha ocupada pelos EUA, contendo informações "imensas".
 

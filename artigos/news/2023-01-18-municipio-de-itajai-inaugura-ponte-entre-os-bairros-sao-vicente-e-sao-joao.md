@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí inaugura ponte entre os bairros São Vicente e São João"
+title: Município de Itajaí inaugura ponte entre os bairros São Vicente e São João
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio das Secretarias Municipais de Desenvolvimento Urbano e Habitação e Obras, realiza nesta quarta-feira (18), a partir das 16h30, a cerimônia de inauguração da nova ligação entre os bairros São Vicente e São João: a Ponte São João/Bambuzal. O evento acontece às margens da estrutura, na rua São Joaquim, no loteamento Bambuzal.
 

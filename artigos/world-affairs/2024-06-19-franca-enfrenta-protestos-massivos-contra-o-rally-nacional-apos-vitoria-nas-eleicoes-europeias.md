@@ -1,11 +1,13 @@
 ---
-title: "França Enfrenta Protestos Massivos Contra o Rally Nacional Após Vitória nas Eleições Europeias"
+title: França Enfrenta Protestos Massivos Contra o Rally Nacional Após Vitória nas
+  Eleições Europeias
 date: 2024-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os serviços de inteligência franceses alertaram neste sábado sobre 150 “ações” planejadas em toda a França contra o Rally Nacional, o partido de Marine Le Pen, após sua vitória nas eleições europeias e seu favoritismo nas próximas eleições legislativas marcadas para os dias 30 de junho e 7 de julho.
 

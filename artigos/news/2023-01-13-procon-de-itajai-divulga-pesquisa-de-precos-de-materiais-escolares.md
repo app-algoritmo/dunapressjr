@@ -1,11 +1,12 @@
 ---
-title: "Procon de Itajaí divulga pesquisa de preços de materiais escolares"
+title: Procon de Itajaí divulga pesquisa de preços de materiais escolares
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Procuradoria de Defesa do Consumidor de Itajaí (Procon) realizou na terça-feira (10) a pesquisa de preços dos materiais escolares básicos. A diferença entre os produtos de maior e menor valor foi de 179,39% neste ano. Tanto os itens mais baratos quanto os mais caros apresentaram aumento no valor em comparação com a pesquisa de 2022.
 

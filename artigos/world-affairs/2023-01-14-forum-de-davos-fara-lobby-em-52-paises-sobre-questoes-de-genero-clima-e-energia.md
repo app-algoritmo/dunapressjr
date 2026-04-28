@@ -1,11 +1,12 @@
 ---
-title: "Fórum de Davos fará lobby em 52 países sobre questões de gênero, clima e energia"
+title: Fórum de Davos fará lobby em 52 países sobre questões de gênero, clima e energia
 date: 2023-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Suíça tem sido caracterizada por ser um país neutro e por ficar fora de guerras. Nesta ocasião, ao aproximar-se a reunião anual do  [Fórum Econômico Mundial](https://thepostmillennial.com/watch-wef-head-says-communist-china-is-a-role-model-for-many-countries) deste ano , como país anfitrião, colocou a serviço deste evento seus cerca de 5.000 soldados do exército suíço, que foram destacados para Davos, para proteger os participantes que comparecerão de 16 a 20 de janeiro.
 

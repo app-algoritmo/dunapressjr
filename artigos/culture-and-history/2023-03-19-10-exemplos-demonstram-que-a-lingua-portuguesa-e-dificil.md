@@ -1,12 +1,13 @@
 ---
-title: "10 exemplos demonstram que a língua portuguesa é difícil"
+title: 10 exemplos demonstram que a língua portuguesa é difícil
 date: 2023-03-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - Education
+- Culture and History
+- Education
 ---
+
 
 A língua portuguesa, como qualquer outro idioma, apresenta suas próprias dificuldades para aqueles que a aprendem ou mesmo para falantes nativos. Algumas das principais barreiras incluem a gramática complexa, as variações linguísticas, a ortografia e a acentuação.
 

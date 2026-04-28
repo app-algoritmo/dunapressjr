@@ -1,11 +1,12 @@
 ---
-title: "Izalci pede fortalecimento de minoria em CPIs"
+title: Izalci pede fortalecimento de minoria em CPIs
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF), em pronunciamento no Plenário nesta terça-feira (3), destacou a importância de debater e ajustar a atuação das comissões parlamentares de inquérito (CPIs) e comissões parlamentares mistas de inquérito (CPMIs). Afirmando que os colegiados são “instrumentos fundamentais” para a fiscalização e apuração de fatos relevantes para a sociedade, o parlamentar enfatizou a necessidade de fortalecer a participação da minoria.
 

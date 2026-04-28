@@ -1,11 +1,13 @@
 ---
-title: "Médico diz que bebês amamentados por mães que tomaram vacinas de mRNA estão morrendo"
+title: Médico diz que bebês amamentados por mães que tomaram vacinas de mRNA estão
+  morrendo
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Bebês [amamentados por mães injetadas com injeções de mRNA](https://www.globalresearch.ca/mrna-breastfeeding-covid-19-vaccinated-mothers-who-breastfeed-babies-have-serious-reactions-including-death-decreased-breast-milk-production-milk-discoloration-bleeding/5820059)  contra o coronavírus Wuhan (COVID-19) estão morrendo.
 

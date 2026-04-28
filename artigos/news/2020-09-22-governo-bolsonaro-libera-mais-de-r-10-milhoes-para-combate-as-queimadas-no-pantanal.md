@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro libera mais de R$ 10 milhões para combate às queimadas no Pantanal"
+title: Governo Bolsonaro libera mais de R$ 10 milhões para combate às queimadas no
+  Pantanal
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Defesa Civil Nacional tem acompanhado e apoiado os estados no enfrentamento às chamas. Os municípios matogrossenses mais afetados pelos incêndios são Poconé, Barão de Melgaço e Cáceres.
 

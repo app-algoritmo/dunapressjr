@@ -1,11 +1,12 @@
 ---
-title: "Centro Terapêutico Especializado em Autismo inicia atividades em Itajaí"
+title: Centro Terapêutico Especializado em Autismo inicia atividades em Itajaí
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Saúde de Itajaí informa que na segunda-feira (28) iniciarão as atividades no novo Centro Terapêutico Especializado em Autismo (CTEA). Os serviços coordenados pelo município serão realizados na rua Cirilo Dutra, 87, bairro São Vicente (antigo Pronto de Atendimento), de segunda a sexta-feira, das 7h às 19h. 
 

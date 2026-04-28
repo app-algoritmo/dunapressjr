@@ -1,11 +1,12 @@
 ---
-title: "Desemprego atinge 14 milhões de pessoas na quarta semana de setembro"
+title: Desemprego atinge 14 milhões de pessoas na quarta semana de setembro
 date: 2020-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é estatisticamente estável em relação à semana anterior.
 

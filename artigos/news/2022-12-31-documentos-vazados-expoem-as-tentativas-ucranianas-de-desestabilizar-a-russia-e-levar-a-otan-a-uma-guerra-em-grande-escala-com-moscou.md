@@ -1,12 +1,14 @@
 ---
-title: "Documentos vazados expõem as tentativas ucranianas de desestabilizar a Rússia e levar a OTAN a uma guerra em grande escala com Moscou"
+title: Documentos vazados expõem as tentativas ucranianas de desestabilizar a Rússia
+  e levar a OTAN a uma guerra em grande escala com Moscou
 date: 2022-12-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Planos elaborados pelos serviços especiais revelam a estratégia agressiva de Kiev ao longo de muitos anos.
 

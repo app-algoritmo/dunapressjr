@@ -1,11 +1,12 @@
 ---
-title: "Guedes reafirma interesse em aprofundar parceria comercial com EUA"
+title: Guedes reafirma interesse em aprofundar parceria comercial com EUA
 date: 2021-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro conversou com nova secretária de Comércio norte-americana.
 

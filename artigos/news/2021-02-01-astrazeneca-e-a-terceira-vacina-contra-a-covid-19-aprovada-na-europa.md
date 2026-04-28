@@ -1,11 +1,12 @@
 ---
-title: "AstraZeneca é a terceira vacina contra a covid-19 aprovada na Europa"
+title: AstraZeneca é a terceira vacina contra a covid-19 aprovada na Europa
 date: 2021-02-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A vacina AstraZeneca recebeu na sexta-feira, 29 de janeiro, recomendação de aprovação condicional pela Agência Europeia de Medicamentos (EMA).
 

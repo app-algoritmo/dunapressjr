@@ -1,11 +1,13 @@
 ---
-title: "Deputados aprovam projeto que torna CPF o único número de identificação geral no País"
+title: Deputados aprovam projeto que torna CPF o único número de identificação geral
+  no País
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (21) proposta que estabelece o número do CPF como único número do registro geral (RG) em todo o País. O projeto será enviado à sanção presidencial.
 

@@ -1,11 +1,13 @@
 ---
-title: "Rede italiana detecta múltiplos efeitos colaterais neurológicos após vacinação contra COVID-19"
+title: Rede italiana detecta múltiplos efeitos colaterais neurológicos após vacinação
+  contra COVID-19
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## 31,2% experimentaram tremores, insônia, cãibras musculares, dores de cabeça, parestesias, tonturas e visão dupla.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lost: 20 Anos - Elenco se reúne para documentário Especial"
+title: 'Lost: 20 Anos - Elenco se reúne para documentário Especial'
 date: 2024-02-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## O elenco icônico da série que nos cativou há duas décadas se reuniu recentemente para celebrar o aniversário de 20 anos de Lost.
 

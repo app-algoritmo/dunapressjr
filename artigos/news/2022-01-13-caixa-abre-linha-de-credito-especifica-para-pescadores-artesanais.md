@@ -1,11 +1,12 @@
 ---
-title: "Caixa abre linha de crédito específica para pescadores artesanais"
+title: Caixa abre linha de crédito específica para pescadores artesanais
 date: 2022-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com juros de 3% ao ano, financiamento pode chegar a R$ 250 mil.
 

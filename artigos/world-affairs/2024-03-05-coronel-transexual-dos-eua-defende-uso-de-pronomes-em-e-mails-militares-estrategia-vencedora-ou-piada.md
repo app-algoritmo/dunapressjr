@@ -1,11 +1,13 @@
 ---
-title: "Coronel transexual dos EUA Defende Uso de Pronomes em E-mails Militares: Estratégia Vencedora ou Piada?"
+title: 'Coronel transexual dos EUA Defende Uso de Pronomes em E-mails Militares: Estratégia
+  Vencedora ou Piada?'
 date: 2024-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante um recente discurso à Força Aérea dos EUA, o coronel transgênero da Força Espacial, Bree Fram, causou controvérsia ao exigir que todos os membros usassem 'seus pronomes preferidos' em seus e-mails, alegando que isso melhoraria as "estratégias de guerra vencedoras". Em meio a um ambiente internacional tenso, onde a ameaça de uma guerra nuclear paira, tal abordagem foi recebida com críticas e ceticismo.
 

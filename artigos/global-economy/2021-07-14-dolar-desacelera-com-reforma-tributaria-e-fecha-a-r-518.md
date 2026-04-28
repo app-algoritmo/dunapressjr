@@ -1,11 +1,12 @@
 ---
-title: "Dólar desacelera com reforma tributária e fecha a R$ 5,18"
+title: Dólar desacelera com reforma tributária e fecha a R$ 5,18
 date: 2021-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 0,44% e fechou em alta pelo segundo dia seguido.
 

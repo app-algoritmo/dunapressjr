@@ -1,11 +1,13 @@
 ---
-title: "Universidade Federal do Ceará aplica testes de Covid-19 em alunos com vulnerabilidade socioeconômica"
+title: Universidade Federal do Ceará aplica testes de Covid-19 em alunos com vulnerabilidade
+  socioeconômica
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ação começou nesta segunda (22) e segue até sexta (26).
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto Formações IEE capacita 270 professores do Mato Grosso, Rio Grande do Sul, Santa Catarina e São Paulo"
+title: Projeto Formações IEE capacita 270 professores do Mato Grosso, Rio Grande do
+  Sul, Santa Catarina e São Paulo
 date: 2023-04-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Com ações em quatro cidades de quatro estados, no mês de abril, o Instituto Esporte & Educação (IEE) dá sequência ao Projeto Formações IEE. Os municípios de Campo Verde (MT), Canoas (RS), Chapecó (SC) e Cajamar (SP) estarão capacitando 270 profissionais com a metodologia do Instituto, baseada nos princípios do esporte educacional.
 

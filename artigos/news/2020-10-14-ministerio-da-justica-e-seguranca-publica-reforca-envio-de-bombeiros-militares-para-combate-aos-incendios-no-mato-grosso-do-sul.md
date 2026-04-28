@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública reforça envio de bombeiros militares para combate aos incêndios no Mato Grosso do Sul"
+title: Ministério da Justiça e Segurança Pública reforça envio de bombeiros militares
+  para combate aos incêndios no Mato Grosso do Sul
 date: 2020-10-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em ação inédita no combate a incêndios, o Ministério da Justiça e Segurança Pública (MJSP) vai reforçar o efetivo da Força Nacional que atua, desde o último dia 5, na região do Pantanal do Mato Grosso do Sul. Ao todo, serão 71 bombeiros militares mobilizados temporariamente do Distrito Federal e de Santa Catarina, cabendo ao ministério o custeio das diárias.
 

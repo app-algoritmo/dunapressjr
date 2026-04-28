@@ -1,11 +1,12 @@
 ---
-title: "Recorde na contratação do crédito rural, com mais de R$ 24 bilhões"
+title: Recorde na contratação do crédito rural, com mais de R$ 24 bilhões
 date: 2020-08-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O volume liberado no primeiro mês do Plano Safra representou 50% a mais que o mesmo período do ano passado.
 

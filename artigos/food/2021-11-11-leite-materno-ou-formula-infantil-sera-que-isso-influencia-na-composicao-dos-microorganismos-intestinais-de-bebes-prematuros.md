@@ -1,11 +1,13 @@
 ---
-title: "Leite materno ou fórmula infantil: será que isso influencia na composição dos microorganismos intestinais de bebês prematuros?"
+title: 'Leite materno ou fórmula infantil: será que isso influencia na composição
+  dos microorganismos intestinais de bebês prematuros?'
 date: 2021-11-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## Pesquisa para verificar e descrever a microbiota intestinal de bebês prematuros (com menos de 32 semanas de gestação) em relação ao tipo de alimento utilizada no pós-parto: leite materno ou fórmula infantil.
 

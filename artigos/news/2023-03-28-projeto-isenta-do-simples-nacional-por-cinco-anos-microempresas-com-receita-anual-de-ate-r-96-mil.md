@@ -1,11 +1,13 @@
 ---
-title: "Projeto isenta do Simples Nacional, por cinco anos, microempresas com receita anual de até R$ 96 mil"
+title: Projeto isenta do Simples Nacional, por cinco anos, microempresas com receita
+  anual de até R$ 96 mil
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei Complementar (PLP) 35/23 isenta, por cinco anos, microempresas com receita bruta anual de até R$ 96 mil da tributação prevista no Simples Nacional. O texto em análise na Câmara dos Deputados altera o [Estatuto da Micro e Pequena Empresa](https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-norma-pl.html).
 

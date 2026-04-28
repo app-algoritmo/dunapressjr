@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal faz acordo com empresas aéreas para que sejam mantidos voos em todos os estados"
+title: Governo Federal faz acordo com empresas aéreas para que sejam mantidos voos
+  em todos os estados
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para garantir os serviços essenciais para o Brasil durante o período de crise causado pela pandemia do novo coronavírus (Covid-19), o Governo Federal acompanha o planejamento da malha aérea feito pelas companhias Azul, Gol e Latam. A medida visa garantir que, mesmo com a redução drástica nos voos, nenhum estado fique sem pelo menos uma ligação aérea. 
 

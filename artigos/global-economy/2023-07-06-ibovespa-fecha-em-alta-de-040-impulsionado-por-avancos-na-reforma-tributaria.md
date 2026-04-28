@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta de 0,40% impulsionado por avanços na reforma tributária"
+title: Ibovespa fecha em alta de 0,40% impulsionado por avanços na reforma tributária
 date: 2023-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Discussões sobre a reforma tributária dominam o pregão, enquanto curva de juros brasileira registra aumento.
 

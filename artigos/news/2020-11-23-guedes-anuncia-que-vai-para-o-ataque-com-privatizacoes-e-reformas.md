@@ -1,11 +1,12 @@
 ---
-title: "Guedes anuncia que vai para o 'ataque' com privatizações e reformas"
+title: Guedes anuncia que vai para o 'ataque' com privatizações e reformas
 date: 2020-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro diz que retomada da economia surpreendeu economistas.
 

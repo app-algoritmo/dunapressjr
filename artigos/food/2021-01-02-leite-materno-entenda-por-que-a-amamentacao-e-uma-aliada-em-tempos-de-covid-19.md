@@ -1,11 +1,12 @@
 ---
-title: "Leite Materno: Entenda por que a amamentação é uma aliada em tempos de Covid-19"
+title: 'Leite Materno: Entenda por que a amamentação é uma aliada em tempos de Covid-19'
 date: 2021-01-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 O Ministério da Saúde promove, anualmente, uma campanha para comemorar a Semana Mundial da Amamentação (SMAM), entre 1º e 07 de agosto, a qual também é comemorada em mais de 150 países. O objetivo é bastante simples: sensibilizar a sociedade para os impactos positivos do aleitamento materno na saúde da criança, da mulher e até mesmo do planeta.
 

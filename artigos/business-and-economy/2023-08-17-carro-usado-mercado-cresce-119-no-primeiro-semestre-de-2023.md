@@ -1,11 +1,12 @@
 ---
-title: "Carro usado: mercado cresce 11,9% no primeiro semestre de 2023"
+title: 'Carro usado: mercado cresce 11,9% no primeiro semestre de 2023'
 date: 2023-08-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 ## Relatório da FENAUTO aponta que foram comercializados mais de 8 milhões de modelos seminovos e usados neste ano.
 

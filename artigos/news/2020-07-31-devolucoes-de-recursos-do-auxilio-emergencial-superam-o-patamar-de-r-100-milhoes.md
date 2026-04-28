@@ -1,11 +1,12 @@
 ---
-title: "Devoluções de recursos do Auxílio Emergencial superam o patamar de R$ 100 milhões"
+title: Devoluções de recursos do Auxílio Emergencial superam o patamar de R$ 100 milhões
 date: 2020-07-31
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativa do Governo Federal segue com mais de 99,5% de efetividade na destinação dos recursos.
 

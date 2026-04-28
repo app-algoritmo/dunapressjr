@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Preços da indústria registram sexta queda consecutiva em julho de 2023"
+title: 'IBGE: Preços da indústria registram sexta queda consecutiva em julho de 2023'
 date: 2023-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acumulado no ano é o menor para um mês de julho desde 2014.
 

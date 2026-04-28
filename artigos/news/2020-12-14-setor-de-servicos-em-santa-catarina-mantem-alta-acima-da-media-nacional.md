@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços em Santa Catarina mantém alta acima da média nacional"
+title: Setor de serviços em Santa Catarina mantém alta acima da média nacional
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais uma vez Santa Catarina se destaca no cenário nacional e registra o quinto aumento consecutivo no setor de serviços. Dados da Pesquisa Mensal de Serviços, divulgados nesta sexta-feira, 11, pelo IBGE, apontam um aumento de 2,5% no volume de serviços em outubro deste ano, quando comparado com o mesmo mês do ano passado. O resultado é o segundo melhor do país, atrás apenas do Mato Grosso do Sul, e acima da média brasileira, com recuo de 7,4%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha acima de R$ 5,90 pela primeira vez na história"
+title: Dólar fecha acima de R$ 5,90 pela primeira vez na história
 date: 2020-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em dia de oscilação, bolsa de valores fecha com queda de 0,13%
 

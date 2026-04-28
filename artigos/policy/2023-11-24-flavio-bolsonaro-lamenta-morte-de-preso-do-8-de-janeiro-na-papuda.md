@@ -1,11 +1,12 @@
 ---
-title: "Flávio Bolsonaro lamenta morte de preso do 8 de janeiro na Papuda"
+title: Flávio Bolsonaro lamenta morte de preso do 8 de janeiro na Papuda
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Flávio Bolsonaro (PL-RJ) lamentou a morte de Cleriston Pereira da Cunha, de 46 anos, que estava preso no Complexo Penitenciário da Papuda, em Brasília, por participação na invasão das sedes dos três Poderes, no dia 8 de janeiro. Em pronunciamento no Plenário nessa terça-feira (21), o parlamentar destacou que Cleriston estava sob a tutela do Estado e foi preso preventivamente há dez meses, mesmo com laudos médicos atestando problemas de saúde.
 

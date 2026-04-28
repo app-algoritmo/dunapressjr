@@ -1,11 +1,13 @@
 ---
-title: "O Ibovespa fecha em leve alta de 0,43% impulsionado pelos bancos e empresas do mercado interno"
+title: O Ibovespa fecha em leve alta de 0,43% impulsionado pelos bancos e empresas
+  do mercado interno
 date: 2023-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## O mercado acionário brasileiro encerrou esta segunda-feira (17) com uma pequena valorização de 0,43%, atingindo 118.219 pontos, em um dia marcado pela volatilidade. 
 

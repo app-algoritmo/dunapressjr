@@ -1,11 +1,12 @@
 ---
-title: "<strong>Balança comercial registra superávit de US$ 3,92 bilhões em outubro</strong>"
+title: <strong>Balança comercial registra superávit de US$ 3,92 bilhões em outubro</strong>
 date: 2022-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Safra de grãos compensou queda nas exportações de ferro.
 

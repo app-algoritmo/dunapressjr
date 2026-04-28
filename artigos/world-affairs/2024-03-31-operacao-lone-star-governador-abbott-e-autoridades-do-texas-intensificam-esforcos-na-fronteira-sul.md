@@ -1,11 +1,13 @@
 ---
-title: "Operação Lone Star: Governador Abbott e Autoridades do Texas Intensificam Esforços na Fronteira Sul"
+title: 'Operação Lone Star: Governador Abbott e Autoridades do Texas Intensificam
+  Esforços na Fronteira Sul'
 date: 2024-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde o lançamento da Operação Lone Star, uma colaboração entre o governador Greg Abbott, o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas, o empenho conjunto visa proteger a fronteira, combater o contrabando de drogas, armas e pessoas, e conter atividades criminosas transnacionais entre os portos de entrada.
 

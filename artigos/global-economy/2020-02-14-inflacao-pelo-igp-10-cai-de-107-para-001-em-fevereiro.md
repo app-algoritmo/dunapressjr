@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IGP-10 cai de 1,07% para 0,01% em fevereiro"
+title: Inflação pelo IGP-10 cai de 1,07% para 0,01% em fevereiro
 date: 2020-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Índice é de 1,08% no ano e 7,39% em 12 meses*
 

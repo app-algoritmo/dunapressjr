@@ -1,11 +1,12 @@
 ---
-title: "Operação Ágata Fronteira Oeste II: terceira semana de ações intensas na fronteira"
+title: 'Operação Ágata Fronteira Oeste II: terceira semana de ações intensas na fronteira'
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Ágata Fronteira Oeste II chega em sua terceira semana com mais de 750 ações nas áreas de Fronteira dos estados de Mato Grosso, Mato Grosso do Sul e Paraná, o esforço permanente das tropas do Comando Operacional Oeste e dos Órgãos de Segurança Pública e Fiscalização tem gerado bons resultados.
 

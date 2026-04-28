@@ -1,11 +1,12 @@
 ---
-title: "Governo simplifica a entrada de produtos destinados ao combate do coronavírus"
+title: Governo simplifica a entrada de produtos destinados ao combate do coronavírus
 date: 2020-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O despacho de mercadorias destinadas ao combate do coronavírus vindas de outros países será simplificado e mais ágil ao passar pela alfândega. É o que informa a nova Instrução Normativa nº 1.927, publicada nesta quarta-feira (18) no Diário Oficial da União.
 

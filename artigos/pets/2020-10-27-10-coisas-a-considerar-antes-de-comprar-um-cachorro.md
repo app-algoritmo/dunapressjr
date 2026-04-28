@@ -1,11 +1,12 @@
 ---
-title: "10 coisas a considerar antes de comprar  um cachorro"
+title: 10 coisas a considerar antes de comprar  um cachorro
 date: 2020-10-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Pets
+- Pets
 ---
+
 
 Cachorros são incríveis. Eles são os melhores amigos do homem, e compartilhamos quase todos os aspectos de nossas vidas humanas com eles, do trabalho ao companheirismo.
 

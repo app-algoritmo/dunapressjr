@@ -1,11 +1,12 @@
 ---
-title: "A Batalha pelo Coração das Crianças: Como o YouTube Desafia Streamers Tradicionais"
+title: 'A Batalha pelo Coração das Crianças: Como o YouTube Desafia Streamers Tradicionais'
 date: 2023-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Video library
+- Video library
 ---
+
 
 Quando se trata do entretenimento das crianças, uma mudança significativa está ocorrendo nos hábitos de visualização. O YouTube está emergindo como o novo rei do playground digital, desbancando gigantes como Netflix, e os streamers tradicionais estão enfrentando desafios sem precedentes.
 

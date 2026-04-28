@@ -1,11 +1,12 @@
 ---
-title: "Sefaz-PB publica 7ª edição do ‘Boletim Covid-19’ com dados de junho"
+title: Sefaz-PB publica 7ª edição do ‘Boletim Covid-19’ com dados de junho
 date: 2020-06-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A nova edição traz os dados, gráficos e análises parciais, referentes ao primeiro decêndio de junho de 2020.
 

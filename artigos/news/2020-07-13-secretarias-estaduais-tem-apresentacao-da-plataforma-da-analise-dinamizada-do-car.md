@@ -1,11 +1,13 @@
 ---
-title: "Secretarias estaduais tem apresentação da Plataforma da análise dinamizada do CAR"
+title: Secretarias estaduais tem apresentação da Plataforma da análise dinamizada
+  do CAR
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ministra Tereza Cristina e diretor do Serviço Florestal participaram do encontro. O sistema vai possibilitar a análise dos cadastros em larga escala.
 

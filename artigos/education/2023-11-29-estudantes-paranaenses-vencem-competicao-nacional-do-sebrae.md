@@ -1,11 +1,12 @@
 ---
-title: "Estudantes paranaenses vencem competição nacional do Sebrae"
+title: Estudantes paranaenses vencem competição nacional do Sebrae
 date: 2023-11-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Seis estudantes do Colégio Positivo - Londrina conquistaram o primeiro lugar na etapa final do Desafio Level Up, uma competição nacional de empreendedorismo digital promovida pelo Sebrae e voltada a estudantes do Ensino Fundamental - Anos Finais e Ensino Médio.
 

@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas apoiam ação de agentes de fiscalização ambiental durante Operação Verde Brasil 2"
+title: Forças Armadas apoiam ação de agentes de fiscalização ambiental durante Operação
+  Verde Brasil 2
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em áreas remotas da Amazônia Legal, os militares da Marinha, do Exército e da Aeronáutica apoiam as atividades de órgãos de fiscalização ambiental e segurança pública durante a Operação Verde Brasil 2. Nos Estados de Acre, Amazonas e Rondônia, o Comando Conjunto Príncipe da Beira coordena as ações e, nessa terça-feira (02), os militares atuaram com agentes do IBAMA, da Polícia Federal, do ICMbio e da Força Nacional, além dos órgãos estaduais de Rondônia: Polícia Militar Ambiental, Polícia Militar e Secretaria Estadual de Desenvolvimento Ambiental. As madeireiras da região foram fiscalizadas e houve patrulha motorizada terrestre, fluvial e aeromóvel, inspeção naval e postos de bloqueio e controle de estradas.
 

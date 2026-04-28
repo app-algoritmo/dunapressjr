@@ -1,12 +1,13 @@
 ---
-title: "Churrasco do Pequeno Cotolengo completa 50 anos com grandiosa festa"
+title: Churrasco do Pequeno Cotolengo completa 50 anos com grandiosa festa
 date: 2023-11-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Health
+- Events
+- Health
 ---
+
 
 ## A celebração acontece no dia 03 a partir das 11h, além do tradicional churrasco, servido até às 14h, o evento conta com barraquinhas de lanches, brincadeiras e shows com artistas locais.
 

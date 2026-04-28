@@ -1,11 +1,12 @@
 ---
-title: "Duelo dos elétricos 4x4 Ford Mustang Mach-E ypper vs. Volvo XC40 P8"
+title: Duelo dos elétricos 4x4 Ford Mustang Mach-E ypper vs. Volvo XC40 P8
 date: 2021-02-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## EV | Volvo XC40 P8 e Ford Mustang Mach-E, dois recém-chegados no competitivo mercado norueguês dos elétricos.
 

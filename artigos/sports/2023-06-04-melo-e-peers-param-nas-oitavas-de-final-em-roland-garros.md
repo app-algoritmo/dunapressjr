@@ -1,12 +1,13 @@
 ---
-title: "Melo e Peers param nas oitavas de final em Roland Garros"
+title: Melo e Peers param nas oitavas de final em Roland Garros
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 A dupla Marcelo Melo e John Peers parou nas oitavas de final de Roland Garros neste domingo (4). Os cabeças de chave número 10, o espanhol Marcel Granollers e o argentino Horacio Zeballos marcaram 2 sets a 0, com parciais de 6/2 e 6/3, após 1h12min. A vaga nas quartas não veio, mas o mineiro e o australiano deixam esta edição do Grand Slam no saibro de Paris, na França, com boas atuações, tanto que na segunda rodada eliminaram a melhor dupla da temporada, o monegasco Hugo Nys e o polonês Jan Zielinski.
 

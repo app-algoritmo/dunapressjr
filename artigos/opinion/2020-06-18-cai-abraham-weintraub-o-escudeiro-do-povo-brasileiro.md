@@ -1,11 +1,12 @@
 ---
-title: "Cai Abraham Weintraub, o escudeiro do povo brasileiro"
+title: Cai Abraham Weintraub, o escudeiro do povo brasileiro
 date: 2020-06-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Ministro de Estado da Educação do Brasil, Abraham Bragança de Vasconcelos Weintraub teve sua demissão anunciada pelo atual presidente da república Jair Messias Bolsonaro hoje 18.6.20. Admirado por milhões de brasileiros por sua coragem, valores e por sua admirável carreira, Weintraub é considerado o melhor ministro da educação de todos os tempos.
 

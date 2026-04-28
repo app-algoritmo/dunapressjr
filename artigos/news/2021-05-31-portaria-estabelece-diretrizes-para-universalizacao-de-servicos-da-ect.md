@@ -1,11 +1,12 @@
 ---
-title: "Portaria estabelece diretrizes para universalização de serviços da ECT"
+title: Portaria estabelece diretrizes para universalização de serviços da ECT
 date: 2021-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Normas abrangem serviços como os de atendimento e de distribuição.
 

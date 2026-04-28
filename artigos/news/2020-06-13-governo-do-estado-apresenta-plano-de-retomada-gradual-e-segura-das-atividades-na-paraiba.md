@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado apresenta plano de retomada gradual e segura das atividades na Paraíba"
+title: Governo do Estado apresenta plano de retomada gradual e segura das atividades
+  na Paraíba
 date: 2020-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O plano ‘Novo Normal Paraíba’ se inicia nesta segunda-feira(15).
 

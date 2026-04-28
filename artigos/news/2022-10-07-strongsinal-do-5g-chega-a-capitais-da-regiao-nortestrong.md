@@ -1,11 +1,12 @@
 ---
-title: "<strong>Sinal do 5G chega a capitais da Região Norte</strong>"
+title: <strong>Sinal do 5G chega a capitais da Região Norte</strong>
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Serviço avançará gradualmente no país até 2029.
 

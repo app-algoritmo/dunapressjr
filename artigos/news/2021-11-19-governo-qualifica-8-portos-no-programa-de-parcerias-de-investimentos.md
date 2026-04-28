@@ -1,11 +1,12 @@
 ---
-title: "Governo qualifica 8 portos no Programa de Parcerias de Investimentos"
+title: Governo qualifica 8 portos no Programa de Parcerias de Investimentos
 date: 2021-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O decreto foi publicado no Diário Oficial desta quinta-feira (18).
 

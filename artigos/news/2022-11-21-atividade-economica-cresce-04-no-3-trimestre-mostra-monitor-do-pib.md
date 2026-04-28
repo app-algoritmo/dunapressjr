@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cresce 0,4% no 3º trimestre, mostra Monitor do PIB"
+title: Atividade econômica cresce 0,4% no 3º trimestre, mostra Monitor do PIB
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado reflete desempenho da agropecuária, indústria e serviços.
 

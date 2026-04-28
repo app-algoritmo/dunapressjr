@@ -1,11 +1,12 @@
 ---
-title: "Em Itajaí INIS  orienta para o não abandono de animais durante a época de férias"
+title: Em Itajaí INIS  orienta para o não abandono de animais durante a época de férias
 date: 2022-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em época de férias e festas de fim de ano, muitas pessoas costumam viajar para visitar familiares ou para descansar. Neste período, também há um aumento nos casos de animais abandonados por seus tutores. Por isso, o Município de Itajaí, por meio do Instituto Itajaí Sustentável (INIS), chama a atenção para a responsabilidade e o não abandono de cães e gatos.
 

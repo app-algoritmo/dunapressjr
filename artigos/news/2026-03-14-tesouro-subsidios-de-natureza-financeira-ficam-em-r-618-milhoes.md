@@ -1,11 +1,12 @@
 ---
-title: "Tesouro: subsídios de natureza financeira ficam em R$ 618 milhões"
+title: Tesouro: subsídios de natureza financeira ficam em R$ 618 milhões
 date: 2026-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números referentes a 2022 constam de boletim trimestral do PSI.
 

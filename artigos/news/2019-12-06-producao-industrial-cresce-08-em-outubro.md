@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cresce 0,8% em outubro"
+title: Produção industrial cresce 0,8% em outubro
 date: 2019-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em outubro de 2019, a produção industrial cresceu 0,8% frente a setembro (série com ajuste sazonal). Essa foi a terceira taxa positiva seguida, acumulando alta de 2,4% no período. Na comparação com outubro de 2018 (série sem ajuste sazonal), a indústria avançou 1,0%, após alta de 1,1% em setembro, quando interrompeu três meses de resultados negativos consecutivos: junho (-5,8%), julho (-2,6%) e agosto (-2,1%).
 

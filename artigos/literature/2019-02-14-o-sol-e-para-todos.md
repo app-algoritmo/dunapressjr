@@ -1,11 +1,12 @@
 ---
-title: "O sol é para todos"
+title: O sol é para todos
 date: 2019-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 O Sol é Para Todos é um livro simplesmente magnífico e que continua atual mesmo décadas após o seu lançamento. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Como pesquisar e conseguir exames médicos baratos?"
+title: Como pesquisar e conseguir exames médicos baratos?
 date: 2022-08-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Com os valores cobrados atualmente e o aumento dos preços em todos os setores da vida, faz-se necessário procurar por desconto em exames.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio tem leve alta em fevereiro, informa FGV"
+title: Confiança do comércio tem leve alta em fevereiro, informa FGV
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Trata-se da primeira alta depois de quatro quedas consecutivas.
 

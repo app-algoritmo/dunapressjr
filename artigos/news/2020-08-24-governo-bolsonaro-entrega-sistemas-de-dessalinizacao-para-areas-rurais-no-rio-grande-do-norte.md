@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro entrega sistemas de dessalinização para áreas rurais no Rio Grande do Norte"
+title: Governo Bolsonaro entrega sistemas de dessalinização para áreas rurais no Rio
+  Grande do Norte
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em Ipanguaçu (RN), Presidente Jair Bolsonaro também participa da perfuração de poço que leva água aos moradores da região. Visita do Presidente Jair Bolsonaro marcou a perfuração de um dos 138 poços que levarão água aos moradores da região de Ipanguaçu (RN).
 

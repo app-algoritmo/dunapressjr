@@ -1,11 +1,13 @@
 ---
-title: "Aprovado projeto que fixa multa mínima de R$ 10 mil para crimes contra cães e gatos"
+title: Aprovado projeto que fixa multa mínima de R$ 10 mil para crimes contra cães
+  e gatos
 date: 2023-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados aprovou projeto de lei que eleva para R$ 10 mil a multa mínima em caso de abusos ou maus-tratos envolvendo animais, domésticos ou não.
 

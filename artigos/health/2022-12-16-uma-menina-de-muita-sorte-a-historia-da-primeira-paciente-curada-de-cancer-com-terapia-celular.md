@@ -1,11 +1,13 @@
 ---
-title: "Uma menina de (muita) sorte: a história da primeira paciente curada de câncer com terapia celular"
+title: 'Uma menina de (muita) sorte: a história da primeira paciente curada de câncer
+  com terapia celular'
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Em 2012, a norte-americana Emily Whitehead, de 6 anos, estava desenganada. Seus pais não sabiam mais o que fazer. A menina lutava contra uma leucemia linfoblástica aguda, a forma mais comum de câncer infantil, mas o tratamento padrão que funciona para a grande maioria das crianças não surtia efeito em Emily. Sua doença estava tão fora de controle que ela nem era elegível para um transplante de medula óssea. Foi então que os médicos informaram os pais de Emily que não havia mais nada a fazer para salvá-la.
 

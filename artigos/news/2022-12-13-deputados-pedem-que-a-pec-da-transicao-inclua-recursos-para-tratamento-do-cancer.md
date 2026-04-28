@@ -1,11 +1,12 @@
 ---
-title: "Deputados pedem que a PEC da Transição inclua recursos para tratamento do câncer"
+title: Deputados pedem que a PEC da Transição inclua recursos para tratamento do câncer
 date: 2022-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi aprovado nesta quarta-feira (7) relatório final da Comissão Especial de Combate ao Câncer criada pela da Câmara dos Deputados. A doença é responsável por mais de 225 mil mortes por ano no país. Durante a reunião, os deputados cobraram que seja incluído na [PEC da Transição](https://www.camara.leg.br/noticias/922937-relator-do-orcamento-protocola-pec-que-permite-a-continuidade-do-auxilio-brasil-de-r-600/) – proposta que libera espaço no Orçamento de 2023 para programas sociais e o aumento real do salário mínimo – uma rubrica específica para o tratamento do câncer no Sistema Único de Saúde (SUS).
 

@@ -1,11 +1,12 @@
 ---
-title: "Teto de gastos e reforma da Previdência geraram economia de R$ 900 bi"
+title: Teto de gastos e reforma da Previdência geraram economia de R$ 900 bi
 date: 2021-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com juros menores, valor deixou de ser incorporado à dívida pública.
 

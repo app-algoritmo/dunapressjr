@@ -1,11 +1,12 @@
 ---
-title: "Bituca, A história inspiradora de Maria do Carmo, mãe de Milton Nascimento"
+title: Bituca, A história inspiradora de Maria do Carmo, mãe de Milton Nascimento
 date: 2023-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nascida em 1918, em um contexto de adversidades – mulher, negra e pobre – Maria do Carmo foi carinhosamente apelidada de Bituca. Contudo, na intimidade, ficou mais conhecida como Carminha. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Especialista Alerta que Morte do Presidente Iraniano Raisi Pode Desencadear Guerra Civil"
+title: Especialista Alerta que Morte do Presidente Iraniano Raisi Pode Desencadear
+  Guerra Civil
 date: 2024-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A morte do presidente iraniano, Ebrahim Raisi, em um acidente de helicóptero em 19 de maio, pode levar a uma guerra civil amarga na instável República Islâmica, segundo um especialista. O incidente, ocorrido na província montanhosa do Azerbaijão Oriental, também matou seis outras pessoas, incluindo o ministro das Relações Exteriores, Hossein Amir-Abdollahian.
 

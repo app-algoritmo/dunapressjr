@@ -1,11 +1,12 @@
 ---
-title: "Equipe extrai mais energia da luz solar com painéis solares avançados"
+title: Equipe extrai mais energia da luz solar com painéis solares avançados
 date: 2020-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores que trabalham para maximizar a eficiência dos painéis solares disseram que colocar materiais avançados em camadas no topo do silício tradicional é um caminho promissor para tirar mais energia da luz solar. Um novo estudo mostra que, usando um processo de fabricação precisamente controlado, os pesquisadores podem produzir painéis solares multicamadas com potencial para serem 1,5 vezes mais eficientes do que os painéis tradicionais de silício.
 

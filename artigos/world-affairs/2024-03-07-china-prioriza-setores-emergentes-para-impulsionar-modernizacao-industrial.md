@@ -1,11 +1,12 @@
 ---
-title: "China Prioriza Setores Emergentes para Impulsionar Modernização Industrial"
+title: China Prioriza Setores Emergentes para Impulsionar Modernização Industrial
 date: 2024-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nesta terça-feira, um funcionário do principal órgão regulador de ativos estatais da China revelou os esforços do governo central para promover a modernização industrial por meio do investimento em setores emergentes estratégicos e orientados para o futuro.
 

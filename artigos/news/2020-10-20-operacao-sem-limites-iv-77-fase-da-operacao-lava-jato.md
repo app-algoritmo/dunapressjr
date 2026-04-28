@@ -1,11 +1,12 @@
 ---
-title: "OPERAÇÃO SEM LIMITES IV – 77ª Fase da Operação Lava Jato"
+title: OPERAÇÃO SEM LIMITES IV – 77ª Fase da Operação Lava Jato
 date: 2020-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nesta fase, apura-se o suposto pagamento de vantagens indevidas a funcionários da Petrobrás, entre os anos de 2005 e 2014, como contrapartida ao possível favorecimento de uma companhia de comercialização (trading company), com possível atuação de seu principal executivo à época.
 

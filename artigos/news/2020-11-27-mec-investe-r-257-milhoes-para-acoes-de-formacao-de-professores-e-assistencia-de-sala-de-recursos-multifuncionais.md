@@ -1,11 +1,13 @@
 ---
-title: "MEC investe R$ 257 milhões para ações de formação de professores e assistência de Sala de Recursos Multifuncionais"
+title: MEC investe R$ 257 milhões para ações de formação de professores e assistência
+  de Sala de Recursos Multifuncionais
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 2020, o Ministério da Educação (MEC) já destinou, por meio da Secretaria de Modalidades Especializadas em Educação (Semesp), cerca de R$ 257 milhões em investimentos para a formação de professores de Educação Básica da rede pública de ensino e na equipagem ou abertura de novas salas de recursos multifuncionais para o atendimento de educacional especializado para educandos da educação especial.
 

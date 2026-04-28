@@ -1,11 +1,12 @@
 ---
-title: "Aditância do Brasil no Equador apoia repatriação de brasileiros"
+title: Aditância do Brasil no Equador apoia repatriação de brasileiros
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Quito (Equador)** – No dia 30 de março, a Embaixada do Brasil no Equador realizou uma operação de repatriamento de 149 brasileiros que ficaram retidos em território equatoriano, em decorrência de medidas de isolamento ante a pandemia da COVID-19.
 

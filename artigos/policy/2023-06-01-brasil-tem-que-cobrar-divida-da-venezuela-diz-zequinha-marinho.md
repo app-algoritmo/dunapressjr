@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem que cobrar dívida da Venezuela, diz Zequinha Marinho"
+title: Brasil tem que cobrar dívida da Venezuela, diz Zequinha Marinho
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (PL-PA) afirmou em pronunciamento na terça-feira (30) que o Brasil tem que cobrar a dívida da Venezuela com o país, que pode chegar a R$ 12,5 bilhões. O senador também pelo presidente venezuelano, Nicolás Maduro, ter sido recebido com honras de chefe de Estado em Brasília. 
 

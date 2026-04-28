@@ -1,11 +1,13 @@
 ---
-title: "Pareamento sinérgico de ivermectina e fenbendazol encontrado altamente eficaz na prevenção e tratamento do câncer"
+title: Pareamento sinérgico de ivermectina e fenbendazol encontrado altamente eficaz
+  na prevenção e tratamento do câncer
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Durante a “pandemia” do coronavírus Wuhan (COVID-19), os poderes constituídos tornaram uma prioridade desencorajar e até impedir que o público em geral usasse a ivermectina como profilático, em vez de usar máscaras e “vacinas”. Bem, agora há [outro uso](https://www.2ndsmartestguyintheworld.com/p/ivermectin-may-defeat-cancer-and) para a ivermectina que certamente a colocará de volta na mira da indústria farmacêutica e envolve o tratamento do *câncer* .
 

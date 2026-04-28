@@ -1,11 +1,12 @@
 ---
-title: "Parque Histórico Nacional das Missões (RS) recebe obras de conservação"
+title: Parque Histórico Nacional das Missões (RS) recebe obras de conservação
 date: 2020-07-02
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Intervenções são feitas pelo Iphan, autarquia vinculada ao Ministério do Turismo.
 

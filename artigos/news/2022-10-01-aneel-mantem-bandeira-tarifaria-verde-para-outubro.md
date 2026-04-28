@@ -1,11 +1,12 @@
 ---
-title: "Aneel mantém bandeira tarifária verde para outubro"
+title: Aneel mantém bandeira tarifária verde para outubro
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contas de luz ficam sem cobrança extra por sexto mês seguido.
 

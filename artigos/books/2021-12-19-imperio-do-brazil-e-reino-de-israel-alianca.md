@@ -1,13 +1,14 @@
 ---
-title: "Império do Brazil e Reino de Israel - Aliança"
+title: Império do Brazil e Reino de Israel - Aliança
 date: 2021-12-19
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Books
-  - Culture and History
-  - History
+- Books
+- Culture and History
+- History
 ---
+
 
 **O Império do Brasil e o Reino de Israel: Amor milenar - O primeiro Imperador do Brasil na Terra Santa**
 

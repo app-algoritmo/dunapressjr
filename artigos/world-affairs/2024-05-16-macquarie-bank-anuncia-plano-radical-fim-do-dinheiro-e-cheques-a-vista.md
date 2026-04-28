@@ -1,11 +1,12 @@
 ---
-title: "Macquarie Bank Anuncia Plano Radical: Fim do Dinheiro e Cheques à Vista"
+title: 'Macquarie Bank Anuncia Plano Radical: Fim do Dinheiro e Cheques à Vista'
 date: 2024-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Macquarie Bank, uma das instituições financeiras líderes na Austrália, surpreendeu seus clientes ao anunciar uma mudança radical em sua operação bancária. Com ativos totalizando US$ 267 bilhões, o banco está se preparando para abolir os serviços de dinheiro e cheques, migrando para uma experiência bancária completamente digital a partir de novembro deste ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pomar em apartamento: biofilia é tendência na pandemia"
+title: 'Pomar em apartamento: biofilia é tendência na pandemia'
 date: 2021-10-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entre as lembranças afetivas que guardamos da infância, sem dúvidas, uma das principais e mais recorrentes é a de comer alguma fruta diretamente do “pé” na casa da avó, no pomar do vizinho ou no sítio, não é? Saborear uma fruta que foi cultivada livre de agrotóxicos e que faz parte do ambiente de casa, além de trazer diversas recordações, colabora na qualidade de vida, na saúde e no bem-estar.
 

@@ -1,11 +1,13 @@
 ---
-title: "Baseado nos recordes de valores de soja e milho, VBP de 2020 é estimado em R$ 716,6 bilhões"
+title: Baseado nos recordes de valores de soja e milho, VBP de 2020 é estimado em
+  R$ 716,6 bilhões
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O valor das lavouras cresceu 11,6 % e o da pecuária, 3,4%. O aumento do valor das lavouras deve-se principalmente aos desempenhos de arroz, soja, milho, café e laranja.
 

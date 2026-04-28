@@ -1,11 +1,12 @@
 ---
-title: "Operações antidrogas na França resultam na detenção de 1.738 pessoas"
+title: Operações antidrogas na França resultam na detenção de 1.738 pessoas
 date: 2024-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades policiais francesas intensificaram suas operações antidrogas em todo o país, resultando na detenção de um total de 1.738 pessoas nos últimos dias. O ministro do Interior francês, Gérald Darmanin, reafirmou o compromisso do governo em combater o tráfico de drogas, declarando em uma coletiva de imprensa realizada neste sábado em Saint-Denis, perto de Paris, que as operações serão contínuas. "O tráfico de drogas deve ser erradicado", enfatizou Darmanin.
 

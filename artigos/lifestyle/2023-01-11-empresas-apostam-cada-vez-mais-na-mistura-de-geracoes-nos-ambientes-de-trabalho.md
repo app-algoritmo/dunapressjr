@@ -1,11 +1,12 @@
 ---
-title: "Empresas apostam cada vez mais na mistura de gerações nos ambientes de trabalho"
+title: Empresas apostam cada vez mais na mistura de gerações nos ambientes de trabalho
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 É preciso saber conviver e acolher a diversidade em todas as esferas da vida. Essa ideia já é valorizada por todos aqueles que conseguem enxergar que contextos ricos em diversidade de pensamentos, origem geográfica, formação acadêmica, idade, gênero ou raça tornam as relações humanas mais interessantes e saudáveis. No mundo corporativo, empresas avançam para cultivar em seus ambientes de trabalho essa mesma diversidade, mas ainda precisam lidar com os desafios para construir e preservar equipes com perfis diferentes, principalmente quando se trata de variedade de gerações.
 

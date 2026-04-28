@@ -1,11 +1,12 @@
 ---
-title: "Novas viaturas reforçam o policiamento nas rodovias estaduais do Paraná"
+title: Novas viaturas reforçam o policiamento nas rodovias estaduais do Paraná
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Veículos serão utilizados para fiscalizações em todas as regões do Estado. Objetivo é a proteção à vida e ao patrimônio, prevenção e combate aos crimes e contravenções praticados nas rodovias estaduais.
 

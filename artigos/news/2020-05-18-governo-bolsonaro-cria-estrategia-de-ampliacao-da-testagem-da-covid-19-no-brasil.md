@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro cria estratégia de ampliação da testagem da Covid-19 no Brasil"
+title: Governo Bolsonaro cria estratégia de ampliação da testagem da Covid-19 no Brasil
 date: 2020-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Programa Diagnosticar para Cuidar foi criado pelo Ministério da Saúde para a realização de 46 milhões de testes de Covid-19 neste ano, o que vai representar cerca de 22% da população brasileira. Além da ampliação da testagem, o programa pretende avaliar o comportamento do vírus no Brasil, assim como a velocidade da expansão da infecção ao longo do tempo e por região.
 

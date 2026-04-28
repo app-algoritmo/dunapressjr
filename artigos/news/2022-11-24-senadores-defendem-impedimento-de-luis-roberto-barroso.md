@@ -1,11 +1,12 @@
 ---
-title: "Senadores defendem impedimento de Luis Roberto Barroso"
+title: Senadores defendem impedimento de Luis Roberto Barroso
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Girão, entre Heinze, Styvenson, Plínio e Lasier: quebra da harmonia e da independência entre os Poderes levou ao caos.
 

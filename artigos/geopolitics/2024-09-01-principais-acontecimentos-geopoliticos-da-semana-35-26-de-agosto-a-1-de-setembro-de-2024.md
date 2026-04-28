@@ -1,11 +1,13 @@
 ---
-title: "Principais Acontecimentos Geopolíticos da semana 35: 26 de Agosto a 1º de Setembro de 2024"
+title: 'Principais Acontecimentos Geopolíticos da semana 35: 26 de Agosto a 1º de
+  Setembro de 2024'
 date: 2024-09-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Nos últimos dias, desde 26 de agosto até 1º de setembro de 2024, ocorreram importantes eventos geopolíticos que moldaram o [cenário internacional](https://www.cfr.org/global-conflict-tracker/).
 

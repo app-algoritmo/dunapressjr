@@ -1,11 +1,12 @@
 ---
-title: "Humberto Costa presidirá Comissão Mista sobre Mudanças Climáticas"
+title: Humberto Costa presidirá Comissão Mista sobre Mudanças Climáticas
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Comissão Mista Permanente Sobre Mudanças Climáticas (CMMC) foi instalada nesta quinta-feira (9) no Congresso. Foram eleitos, por aclamação, o senador Humberto Costa (PT-PE), como presidente, e a deputada Socorro Neri (PP-AC) assumiu a vice-presidência. Já a relatoria será conduzida pelo deputado Sidney Leite (PSD-AM). 
 

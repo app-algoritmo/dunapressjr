@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 78.162 casos de coronavírus e 5.466 mortes da doença"
+title: Brasil registra 78.162 casos de coronavírus e 5.466 mortes da doença
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As informações foram atualizadas pelas Secretarias Estaduais de Saúde até as 14h desta quarta-feira (29). Dos 78.162 casos confirmados atualmente, 34.132 estão recuperados (44%) e 38.564 estão em acompanhamento
 

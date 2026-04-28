@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa recua com bancos, mas reação da Petrobras reduz perdas"
+title: Ibovespa recua com bancos, mas reação da Petrobras reduz perdas
 date: 2020-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ações da Cielo dispararam, após acordo com Facebook.
 

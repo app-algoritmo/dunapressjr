@@ -1,11 +1,12 @@
 ---
-title: "Comercialização de carne moída terá novas regras a partir de novembro"
+title: Comercialização de carne moída terá novas regras a partir de novembro
 date: 2022-10-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Objetivo é modernizar processos produtivos e procedimentos industriais.
 

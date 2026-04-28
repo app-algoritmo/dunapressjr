@@ -1,11 +1,12 @@
 ---
-title: "PF apreende carregamento de cigarros contrabandeados no interior do RN"
+title: PF apreende carregamento de cigarros contrabandeados no interior do RN
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mossoró/RN – Policiais federais, com apoio da Polícia Rodoviária Federal e da Secretaria de Operações Integradas do Ministério da Justiça e Segurança Pública (SEOPI/MJSP), realizaram na quinta-feira, 11/6, na Zona Rural do município de Umarizal/RN, Região Oeste Potiguar, a apreensão de 1.362 caixas de cigarros contrabandeados.
 

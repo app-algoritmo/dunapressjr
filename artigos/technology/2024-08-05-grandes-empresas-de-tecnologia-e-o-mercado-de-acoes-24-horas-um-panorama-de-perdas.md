@@ -1,12 +1,14 @@
 ---
-title: "Grandes Empresas de Tecnologia e o Mercado de Ações 24 Horas: Um Panorama de Perdas"
+title: 'Grandes Empresas de Tecnologia e o Mercado de Ações 24 Horas: Um Panorama
+  de Perdas'
 date: 2024-08-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
-  - World Affairs
+- Technology
+- World Affairs
 ---
+
 
 ## Desempenho das Grandes Empresas de Tecnologia
 

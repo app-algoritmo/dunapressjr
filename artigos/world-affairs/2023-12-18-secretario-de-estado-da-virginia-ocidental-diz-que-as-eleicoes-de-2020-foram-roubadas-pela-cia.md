@@ -1,11 +1,13 @@
 ---
-title: "Secretário de Estado da Virgínia Ocidental diz que as eleições de 2020 foram “roubadas pela CIA”"
+title: Secretário de Estado da Virgínia Ocidental diz que as eleições de 2020 foram
+  “roubadas pela CIA”
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante um recente debate para governador, o secretário de Estado da Virgínia Ocidental, Mac Warner, fez uma declaração ousada, dizendo que as eleições de 2020 foram roubadas do presidente Trump pela CIA.
 

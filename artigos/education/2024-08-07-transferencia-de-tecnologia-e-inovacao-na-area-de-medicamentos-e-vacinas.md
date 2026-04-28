@@ -1,12 +1,13 @@
 ---
-title: "Transferência de Tecnologia e Inovação na Área de Medicamentos e Vacinas."
+title: Transferência de Tecnologia e Inovação na Área de Medicamentos e Vacinas.
 date: 2024-08-07
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Education
-  - Science
+- Education
+- Science
 ---
+
 
 A transferência de tecnologia e inovação é um componente essencial no desenvolvimento de novos medicamentos e vacinas. Este processo envolve a troca de conhecimentos, habilidades e tecnologias entre diferentes organizações, como empresas farmacêuticas, instituições de pesquisa e governos, para acelerar a criação de soluções terapêuticas. As agências reguladoras, como a Agência Nacional de Vigilância Sanitária ([Anvisa](https://www.gov.br/anvisa/pt-br)) no Brasil e a Food and Drug Administration ([FDA](https://www.fda.gov/)) nos Estados Unidos, desempenham um papel crucial na supervisão e facilitação desse processo.
 

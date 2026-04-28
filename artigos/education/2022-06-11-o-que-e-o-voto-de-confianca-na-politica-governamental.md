@@ -1,12 +1,13 @@
 ---
-title: "O que é o voto de confiança na política governamental?"
+title: O que é o voto de confiança na política governamental?
 date: 2022-06-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Magazine
+- Education
+- Magazine
 ---
+
 
 ## Um voto de confiança em um assunto é uma ameaça do Governo de renunciar se o voto do parlamento for contra.
 

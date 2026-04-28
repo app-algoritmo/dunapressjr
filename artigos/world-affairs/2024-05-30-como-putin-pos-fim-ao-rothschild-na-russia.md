@@ -1,11 +1,12 @@
 ---
-title: "Como Putin pôs fim ao Rothschild na Rússia"
+title: Como Putin pôs fim ao Rothschild na Rússia
 date: 2024-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A empresa russa Yukos, uma das maiores petrolíferas privadas do mundo, foi declarada falida por um tribunal russo em 2006, após uma série de eventos dramáticos que destacaram as complexas relações entre oligarcas, governos e interesses internacionais. Fundada pelo oligarca Mikhail Khodorkovsky, a Yukos chegou a produzir 20% do petróleo da Rússia antes de sua queda.
 

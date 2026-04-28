@@ -1,11 +1,12 @@
 ---
-title: "Pelo menos 4 esfaqueados e 23 presos após confronto de manifestantes em Washington"
+title: Pelo menos 4 esfaqueados e 23 presos após confronto de manifestantes em Washington
 date: 2020-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Vídeos mostram manifestantes antifas e proud boys se enfrentam enquanto a polícia tentava acabar com a violência.
 

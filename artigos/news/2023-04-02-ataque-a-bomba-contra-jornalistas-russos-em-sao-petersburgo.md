@@ -1,11 +1,12 @@
 ---
-title: "Ataque a bomba contra jornalistas russos em São Petersburgo"
+title: Ataque a bomba contra jornalistas russos em São Petersburgo
 date: 2023-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Anti Spiegel.
 

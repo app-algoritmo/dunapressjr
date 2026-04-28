@@ -1,11 +1,12 @@
 ---
-title: "Copom reduz juros básicos da economia para 2% ao ano"
+title: Copom reduz juros básicos da economia para 2% ao ano
 date: 2020-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Selic está no menor nível da história depois de nove cortes seguidos**.
 

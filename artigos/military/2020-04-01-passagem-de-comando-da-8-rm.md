@@ -1,11 +1,12 @@
 ---
-title: "Passagem de Comando da 8ª RM"
+title: Passagem de Comando da 8ª RM
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Belém (PA) – **Na manhã do dia 31 de março, a 8ª Região Militar (8ª RM) realizou, no salão de honra do Comando Militar do Norte (CMN), sua cerimônia de Passagem de Comando. O General de Divisão **Anisio David de Oliveira Junior** passou o comando interinamente, para o Coronel de Engenharia **Ronaldo Isabel dos Reis**, então Chefe do Estado-Maior. O General  **David **será o novo Vice-Chefe do Departamento-Geral de Pessoal (DGP).
 

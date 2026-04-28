@@ -1,11 +1,12 @@
 ---
-title: "IDF lança ataque massivo contra Gaza, bombardeia a casa do chefe do Hamas"
+title: IDF lança ataque massivo contra Gaza, bombardeia a casa do chefe do Hamas
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As barragens de foguetes do Hamas no sul e centro de Israel continuaram ao longo do dia de sábado, com quase 300 projéteis voando em direção a Israel. Sirenes de foguetes soaram em partes da Cisjordânia, no centro e sul de Israel e perto de Netanya na noite de sábado, depois que o Hamas ameaçou no início da noite colocar Tel Aviv em um "toque de recolher" à meia-noite.
 

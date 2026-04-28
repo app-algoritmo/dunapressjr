@@ -1,11 +1,12 @@
 ---
-title: "Governo retira de tramitação projeto que regula mineração em terra indígena"
+title: Governo retira de tramitação projeto que regula mineração em terra indígena
 date: 2023-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governo solicitou ao Congresso Nacional a retirada de tramitação do [Projeto de Lei 191/20](https://www.camara.leg.br/noticias/634893-PROJETO-DO-GOVERNO-VIABILIZA-EXPLORACAO-DE-MINERIOS-EM-TERRAS-INDIGENAS), que regulamenta a exploração de minérios, petróleo e geração hidrelétrica em terras indígenas demarcadas (TIs).
 

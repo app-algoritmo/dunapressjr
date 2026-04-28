@@ -1,11 +1,12 @@
 ---
-title: "Avança a parceria entre Ministério da Defesa e BNDES"
+title: Avança a parceria entre Ministério da Defesa e BNDES
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Defesa (MD), por meio da Secretaria de Produtos de Defesa (SEPROD), deu continuidade às tratativas que possibilitaram a formalização de protocolo de intenções com o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), assinado em fevereiro deste ano. Em abril, as duas instituições aprovaram o Plano de Trabalho do referido acordo, definindo a atuação em nove frentes.
 

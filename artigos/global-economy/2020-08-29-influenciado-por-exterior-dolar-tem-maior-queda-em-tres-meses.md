@@ -1,11 +1,12 @@
 ---
-title: "Influenciado por exterior, dólar tem maior queda em três meses"
+title: Influenciado por exterior, dólar tem maior queda em três meses
 date: 2020-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Moeda norte-americana fechou em R$ 5,41.
 

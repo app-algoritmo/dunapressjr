@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, Itália com 107 mortos e 3089 infectados, fecha escolas em todo seu território"
+title: Coronavírus, Itália com 107 mortos e 3089 infectados, fecha escolas em todo
+  seu território
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O governo italiano teme que seu sistema de saúde transborde devido à rápida disseminação da epidemia de Covid-19, que já deixou pelo menos 107 mortos e mais de 3000 infectados.
 

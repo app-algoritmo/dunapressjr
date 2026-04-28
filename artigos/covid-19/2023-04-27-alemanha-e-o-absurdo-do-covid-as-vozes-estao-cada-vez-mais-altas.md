@@ -1,12 +1,13 @@
 ---
-title: "Alemanha e o absurdo do Covid, as vozes estão cada vez mais altas"
+title: Alemanha e o absurdo do Covid, as vozes estão cada vez mais altas
 date: 2023-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 O apresentador de TV alemão Peter Hahne quer “algemar” os políticos responsáveis ​​pela catastrófica política da coroa.
 

@@ -1,11 +1,12 @@
 ---
-title: "UE pode retirar direito de voto à Hungria para selar acordo de ajuda à Ucrânia"
+title: UE pode retirar direito de voto à Hungria para selar acordo de ajuda à Ucrânia
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Talvez a Hungria possa criar mais problemas. Talvez a Hungria possa obrigar-nos a utilizar algumas ferramentas diferentes. Mas, em última análise, a Hungria não pode impedir-nos de fornecer dinheiro à Ucrânia», afirmou. disse alto funcionário da UE.
 

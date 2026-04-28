@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde defende a vice-liderança da Superliga em clássico nesta sexta-feira (13)"
+title: Osasco São Cristóvão Saúde defende a vice-liderança da Superliga em clássico
+  nesta sexta-feira (13)
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Osasco São Cristóvão Saúde defende a vice-liderança da Superliga 1XBET 2022/23 no clássico mais tradicional do vôlei nacional. A equipe comandada pelo técnico Luizomar recebe o Sesc Flamengo nesta sexta-feira (13), a partir das 21h, na quadra do José Liberatti, na abertura do returno da competição. O SporTV 2 transmite a partida e, novamente, as arquibancadas estarão lotadas no ginásio osasquense. Todos os ingressos disponíveis já estão esgotados.
 

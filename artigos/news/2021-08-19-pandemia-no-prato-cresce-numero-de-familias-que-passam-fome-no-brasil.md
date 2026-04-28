@@ -1,11 +1,12 @@
 ---
-title: "Pandemia no prato: cresce número de famílias que passam fome no Brasil"
+title: 'Pandemia no prato: cresce número de famílias que passam fome no Brasil'
 date: 2021-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa é que 10% da população mundial sofreu pela falta de alimentos em 2020.
 

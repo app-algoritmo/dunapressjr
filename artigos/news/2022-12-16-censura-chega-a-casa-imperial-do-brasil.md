@@ -1,12 +1,13 @@
 ---
-title: "Censura chega à Casa Imperial do Brasil"
+title: Censura chega à Casa Imperial do Brasil
 date: 2022-12-16
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Bloqueio judicial do perfil oficial da Pró Monarquia no Twitter não teve justificativa, Demais redes seguem funcionando normalmente.
 

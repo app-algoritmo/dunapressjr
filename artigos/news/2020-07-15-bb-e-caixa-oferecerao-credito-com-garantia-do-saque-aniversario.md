@@ -1,11 +1,12 @@
 ---
-title: "BB e Caixa oferecerão crédito com garantia do saque-aniversário"
+title: BB e Caixa oferecerão crédito com garantia do saque-aniversário
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mais de 5,3 milhões de trabalhadores já se cadastraram.
 

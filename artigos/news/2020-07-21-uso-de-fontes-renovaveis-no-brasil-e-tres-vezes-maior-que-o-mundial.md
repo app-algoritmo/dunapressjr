@@ -1,11 +1,12 @@
 ---
-title: "Uso de fontes renováveis no Brasil é três vezes maior que o mundial"
+title: Uso de fontes renováveis no Brasil é três vezes maior que o mundial
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No Brasil, as fontes renováveis de energia alcançaram uma demanda de 46,1% de participação na Matriz Energética, um aumento de 0,6 ponto percentual em relação ao indicador de 2018, segundo o Ministério de Minas e Energia. As fontes de energia renováveis incluem a hidráulica, a eólica, a solar e a bioenergia. O indicador brasileiro representa três vezes o mundial.
 

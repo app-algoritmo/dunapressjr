@@ -1,11 +1,12 @@
 ---
-title: "Estação de Férias! Bangu Shopping promove programação completa para as crianças"
+title: Estação de Férias! Bangu Shopping promove programação completa para as crianças
 date: 2024-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Oficinas, PulaPark, Vila Diverkids, Turma da Mônica, Cinema e muitas outras atrações estão entre as opções disponíveis durante o mês de julho.
 

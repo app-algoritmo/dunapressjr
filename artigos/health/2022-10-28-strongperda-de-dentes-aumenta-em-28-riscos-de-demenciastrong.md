@@ -1,11 +1,12 @@
 ---
-title: "<strong>Perda de dentes aumenta em 28% riscos de demência</strong>"
+title: <strong>Perda de dentes aumenta em 28% riscos de demência</strong>
 date: 2022-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A perda de dentes aumenta em 21% os riscos de desenvolver Alzheimer. **É o que indica uma pesquisa da Universidade de Nova York, publicada no *Journal of Post-Acute and Long-Term Care Medicine***. O levantamento também aponta que, quanto maior a quantidade de dentes perdidos - por doenças bucais ao longo da vida - maior a probabilidade de demências. A pesquisa, que envolveu 34 mil pacientes, concluiu: os que haviam perdido dentes tinham 48% mais risco de impedimentos cognitivos e 28% maior risco de demência, se comparado aos indivíduos com todos os dentes.
 

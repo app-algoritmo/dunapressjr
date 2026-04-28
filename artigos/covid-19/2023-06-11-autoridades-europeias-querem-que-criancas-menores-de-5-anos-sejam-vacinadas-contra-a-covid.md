@@ -1,11 +1,13 @@
 ---
-title: "Autoridades europeias querem que crianças menores de 5 anos sejam vacinadas contra a Covid"
+title: Autoridades europeias querem que crianças menores de 5 anos sejam vacinadas
+  contra a Covid
 date: 2023-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O [Centro Europeu de Prevenção e Controle de Doenças (ECDC) e a Agência Europeia de Medicamentos (EMA)](https://www.ema.europa.eu/en/news/ema-ecdc-statement-updating-covid-19-vaccines-target-new-sars-cov-2-virus-variants) instaram os países da UE a administrar às crianças menores de 5 anos três doses da vacina Covid adaptada às novas subvariantes de ômicron. Gestantes e profissionais de saúde também devem ser o principal alvo da campanha de vacinação.
 

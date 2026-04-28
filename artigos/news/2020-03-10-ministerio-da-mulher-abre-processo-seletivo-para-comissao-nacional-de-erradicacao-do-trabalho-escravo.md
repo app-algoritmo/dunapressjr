@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Mulher abre processo seletivo para Comissão Nacional de Erradicação do Trabalho Escravo"
+title: Ministério da Mulher abre processo seletivo para Comissão Nacional de Erradicação
+  do Trabalho Escravo
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) publicou, no Diário Oficial da União (DOU), a abertura das inscrições para o processo seletivo público de entidades não governamentais privadas para compor a Comissão Nacional de Erradicação do Trabalho Escravo (Conatrae).
 

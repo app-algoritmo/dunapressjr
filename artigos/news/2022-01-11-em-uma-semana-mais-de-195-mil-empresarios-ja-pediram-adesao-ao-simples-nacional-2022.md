@@ -1,11 +1,13 @@
 ---
-title: "Em uma semana, mais de 195 mil empresários já pediram adesão ao Simples Nacional 2022"
+title: Em uma semana, mais de 195 mil empresários já pediram adesão ao Simples Nacional
+  2022
 date: 2022-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo para optar pelo regime tributário diferenciado, simplificado e favorecido vai até 31 de janeiro; resultado será divulgado em 15 de fevereiro.
 

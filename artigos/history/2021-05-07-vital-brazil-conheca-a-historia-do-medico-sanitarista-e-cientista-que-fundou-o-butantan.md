@@ -1,11 +1,13 @@
 ---
-title: "Vital Brazil, conheça a história do médico sanitarista e cientista que fundou o Butantan"
+title: Vital Brazil, conheça a história do médico sanitarista e cientista que fundou
+  o Butantan
 date: 2021-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 No dia 28 de abril de 1865, há 156 anos, nasceu Vital Brazil Mineiro da Campanha. Médico e pesquisador, foi um dos fundadores e primeiro diretor do Instituto Butantan, pioneiro no estudo do tratamento de acidentes por envenenamento por cobra e um dos maiores sanitaristas que o Brasil já viu. O Butantan de hoje, com sua produção de vacinas, soros e pesquisas em medicamentos, vocação pela divulgação científica e inovação constante, é uma herança do legado desse grande sanitarista.
 

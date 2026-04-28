@@ -1,11 +1,13 @@
 ---
-title: "Em meio à pandemia, conheça a história de dois idosos que se recuperaram da doença"
+title: Em meio à pandemia, conheça a história de dois idosos que se recuperaram da
+  doença
 date: 2020-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Maria Madalena Oliveira e Edimilson Batista tiveram a forma mais grave da doença e permaneceram por dias na UTI até a recuperação.
 

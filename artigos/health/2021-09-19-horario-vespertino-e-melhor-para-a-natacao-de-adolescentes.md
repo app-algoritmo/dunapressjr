@@ -1,11 +1,12 @@
 ---
-title: "Horário vespertino é melhor para a natação de adolescentes"
+title: Horário vespertino é melhor para a natação de adolescentes
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## O estudo aponta ainda que 43% dos entrevistados apresentaram uma má qualidade do sono, fator que pode influenciar no desempenho.
 

@@ -1,11 +1,13 @@
 ---
-title: "A arte do marketing: como criar e servir seus clientes com persistência, paixão e propósito"
+title: 'A arte do marketing: como criar e servir seus clientes com persistência, paixão
+  e propósito'
 date: 2022-08-15
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Você provavelmente já ouviu falar dos 3Ps: produto, preço e promoção. Mas como você cria uma estratégia de marketing que pode durar? E se você não tiver alguém para ajudá-lo? É aí que entra a pesquisa de clientes. 
 

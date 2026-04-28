@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova marco regulatório da arborização urbana"
+title: Comissão aprova marco regulatório da arborização urbana
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Desenvolvimento Urbano da Câmara dos Deputados aprovou proposta que institui o marco regulatório da arborização urbana, com o objetivo de auxiliar os municípios brasileiros no planejamento da arborização e mitigar os efeitos da urbanização acelerada.
 

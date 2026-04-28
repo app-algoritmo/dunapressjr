@@ -1,11 +1,12 @@
 ---
-title: "Jihad islâmica quer armar a Cisjordânia"
+title: Jihad islâmica quer armar a Cisjordânia
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O secretário-geral do Movimento da Jihad Islâmica Palestina, Ziad al-Nakhalah, disse que o movimento está tentando armar ainda mais a Jihad Islâmica e aumentar seu poderio militar.
 

@@ -1,11 +1,12 @@
 ---
-title: "COP26: serviços ambientais e preservação florestal"
+title: 'COP26: serviços ambientais e preservação florestal'
 date: 2021-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Encerrada a COPE26 (26ª Conferência do Clima da Organização das Nações Unidas), na Escócia, onde o Brasil teve protagonismo na assinatura de compromissos históricos para avançar na chamada economia verde, o Ministério do Meio Ambiente (MMA) aposta em iniciativas para zerar até 2028 o desmatamento ilegal nas florestas do país. O Programa Floresta+, que remunera quem atua na preservação e restauração das florestas, e uma crescente integração entre ministérios e órgãos de fiscalização são dois destaques dessa agenda pós-conferência. O titular do MMA, Joaquim Leite, chefe da delegação brasileira na COP26, tratou desses e de outros temas em entrevistas ao vivo concedidas nesta terça-feira (16).
 

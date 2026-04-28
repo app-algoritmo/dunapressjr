@@ -1,11 +1,12 @@
 ---
-title: "Ministra Damares apresenta principais ações de enfrentamento ao Covid-19"
+title: Ministra Damares apresenta principais ações de enfrentamento ao Covid-19
 date: 2020-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 em cerimônia realizada no Palácio do Planalto na tarde desta quinta-feira (2), a ministra Damares Alves apresentou as mais de 90 ações realizadas pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) para o enfrentamento do novo coronavírus (Covid-19).
 

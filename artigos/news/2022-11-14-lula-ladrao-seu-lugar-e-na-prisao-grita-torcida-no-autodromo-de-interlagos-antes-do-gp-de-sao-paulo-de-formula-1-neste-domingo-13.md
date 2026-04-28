@@ -1,12 +1,14 @@
 ---
-title: "“Lula ladrão, seu lugar é na prisão”, grita torcida no Autódromo de Interlagos, antes do GP de São Paulo de Fórmula 1, neste domingo (13)."
+title: “Lula ladrão, seu lugar é na prisão”, grita torcida no Autódromo de Interlagos,
+  antes do GP de São Paulo de Fórmula 1, neste domingo (13).
 date: 2022-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Viraliza na internet vídeos do Grande Prêmio de fórmula 1 do Brasil marcado por protestos contra o ex presidiário Lula da Silva.
 

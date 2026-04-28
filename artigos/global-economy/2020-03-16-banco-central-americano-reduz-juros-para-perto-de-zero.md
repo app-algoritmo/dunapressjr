@@ -1,11 +1,12 @@
 ---
-title: "Banco Central americano reduz juros para perto de zero"
+title: Banco Central americano reduz juros para perto de zero
 date: 2020-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medida visa garantir funcionamento do mercado financeiro
 

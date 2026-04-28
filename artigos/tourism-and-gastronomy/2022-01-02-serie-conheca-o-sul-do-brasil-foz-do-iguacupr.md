@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: Foz do Iguaçu/PR"
+title: 'Série Conheça o Sul do Brasil: Foz do Iguaçu/PR'
 date: 2022-01-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 No extremo oeste do Estado do Paraná está Foz do Iguaçu, um dos mais belos cartões-postais do país, graças às majestosas 275 quedas de água que formam as Cataratas do Iguaçu. 
 

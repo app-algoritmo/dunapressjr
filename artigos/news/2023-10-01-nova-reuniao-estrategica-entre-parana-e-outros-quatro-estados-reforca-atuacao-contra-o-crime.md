@@ -1,11 +1,13 @@
 ---
-title: "Nova reunião estratégica entre Paraná e outros quatro estados reforça atuação contra o crime"
+title: Nova reunião estratégica entre Paraná e outros quatro estados reforça atuação
+  contra o crime
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Paraná, Santa Catarina, Rio Grande do Sul, Mato Grosso do Sul e São Paulo assinaram acordo para instituir um grupo de trabalho que proporá ações para a política pública desta área. Estratégias buscam fortalecer o combate ao crime em divisas e fronteiras. Este foi o terceiro encontro do grupo.
 

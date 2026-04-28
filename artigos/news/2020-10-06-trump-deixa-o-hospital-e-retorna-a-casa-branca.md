@@ -1,11 +1,12 @@
 ---
-title: "Trump deixa o hospital e retorna à Casa Branca"
+title: Trump deixa o hospital e retorna à Casa Branca
 date: 2020-10-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente dos Estados Unidos, Donald Trump, partiu na noite de segunda-feira do Centro Médico Walter Reed, onde estava hospitalizado desde sexta-feira após contrair o coronavírus.
 

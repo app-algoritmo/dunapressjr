@@ -1,12 +1,13 @@
 ---
-title: "A centelha divina e o Ego - Encontre e trabalhe para a centelha"
+title: A centelha divina e o Ego - Encontre e trabalhe para a centelha
 date: 2018-10-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Todo ser emanado pelo Criador, seja pedra, planta, animal, cadeira, etc., tem uma parte do Todo dentro de si, a famosa Centelha Divina. Essa Centelha que colapsa a função de onda quando algo ocorre em sua vida, ou seja, ela que tem o poder e não o ego.
 

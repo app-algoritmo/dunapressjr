@@ -1,11 +1,13 @@
 ---
-title: "Projeto de lei britânico levanta preocupações sobre supervisão financeira e privacidade de dados"
+title: Projeto de lei britânico levanta preocupações sobre supervisão financeira e
+  privacidade de dados
 date: 2024-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um projeto de lei em tramitação no parlamento do Reino Unido está gerando controvérsia devido aos poderes extraordinários de supervisão financeira que poderia conceder ao governo britânico. O projeto de lei de Proteção de Dados e Informações Digitais (DPDI) propõe alterações aos Regulamentos Gerais de Proteção de Dados do país, levantando preocupações sobre a privacidade dos cidadãos.
 

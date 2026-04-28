@@ -1,11 +1,13 @@
 ---
-title: "Viktor Orbán Reafirma Compromisso da Hungria com a Preservação da Identidade Nacional"
+title: Viktor Orbán Reafirma Compromisso da Hungria com a Preservação da Identidade
+  Nacional
 date: 2024-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Independentemente das opiniões sobre o primeiro-ministro húngaro, Viktor Orbán, sua mensagem permanece consistente e direta: a Hungria busca manter sua identidade nacional e se recusa a adotar uma "sociedade mista". Essa foi a mensagem reiterada por Orbán durante sua participação na Conferência Nacional do Conservadorismo (NatCon) em Bruxelas nesta quarta-feira.
 

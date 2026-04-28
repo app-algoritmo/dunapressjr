@@ -1,11 +1,12 @@
 ---
-title: "Quedas em idosos: um problema de saúde pública"
+title: 'Quedas em idosos: um problema de saúde pública'
 date: 2021-05-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Independentemente da idade, todas as pessoas correm o risco de cair. Porém, para a pessoa idosa, uma queda pode representar um problema grave, levando inclusive a limitações funcionais que antes não existiam. Assim, um idoso que era ativo passa a depender de cuidados de outras pessoas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,46 e fecha no menor valor em dois meses"
+title: Dólar cai para R$ 5,46 e fecha no menor valor em dois meses
 date: 2022-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 1,26% em dia de recuperação.
 

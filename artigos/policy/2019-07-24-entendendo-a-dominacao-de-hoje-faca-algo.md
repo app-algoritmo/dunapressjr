@@ -1,11 +1,12 @@
 ---
-title: "Entendendo a dominação de hoje. Faça algo!"
+title: Entendendo a dominação de hoje. Faça algo!
 date: 2019-07-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Policy
+- Policy
 ---
+
 
 -Pensamos que estamos livres. Se não segue as tendências você é ridicularizado, taxado de deslocado, tudo bullying, te ironizam.
 

@@ -1,11 +1,13 @@
 ---
-title: "Como crianças e adolescentes podem ser incentivados a participar das discussões sociais e políticas"
+title: Como crianças e adolescentes podem ser incentivados a participar das discussões
+  sociais e políticas
 date: 2021-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2020, jovens entre 16 e 17 anos com título de eleitor representaram menos da metade do registrado em 2016; dado alerta sobre o direito à participação como exercício da cidadania.
 

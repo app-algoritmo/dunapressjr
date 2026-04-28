@@ -1,11 +1,12 @@
 ---
-title: "Entenda o que é Psoríase"
+title: Entenda o que é Psoríase
 date: 2021-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Quem convive com a psoríase acaba enfrentando uma situação mais difícil do que os próprios sintomas da enfermidade: o preconceito. Conscientizar e alertar as pessoas sobre a realidade da doença acaba se tornando uma iniciativa necessária na vida dessas pessoas. Mas, o que você sabe sobre esse mal?
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro cria guia com orientações para retorno seguro às aulas presenciais"
+title: Governo Bolsonaro cria guia com orientações para retorno seguro às aulas presenciais
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Saúde garante recurso de R$ 454,3 milhões para apoiar gestores na volta às aulas presenciais com respeito às medidas sanitárias.
 

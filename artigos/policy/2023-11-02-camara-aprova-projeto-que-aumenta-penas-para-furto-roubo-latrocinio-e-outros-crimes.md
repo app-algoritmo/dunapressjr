@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova projeto que aumenta penas para furto, roubo, latrocínio e outros crimes"
+title: Câmara aprova projeto que aumenta penas para furto, roubo, latrocínio e outros
+  crimes
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto classifica como estelionato qualificado os golpes aplicados por meio da internet ou de redes sociais. Proposta vai ao Senado Compartilhe Versão para impressão.
 

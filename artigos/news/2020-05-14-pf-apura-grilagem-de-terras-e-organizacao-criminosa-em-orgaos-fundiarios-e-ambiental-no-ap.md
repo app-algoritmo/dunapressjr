@@ -1,11 +1,13 @@
 ---
-title: "PF apura grilagem de terras e organização criminosa em órgãos fundiários e ambiental no AP"
+title: PF apura grilagem de terras e organização criminosa em órgãos fundiários e
+  ambiental no AP
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou, nesta quinta-feira (14/5), quatro operações com objetivo de desarticular organização criminosa que atua em grilagem de terras, regularização fundiária e licenciamentos de supressão vegetal, dentre outras práticas criminosas, no Amapá.
 

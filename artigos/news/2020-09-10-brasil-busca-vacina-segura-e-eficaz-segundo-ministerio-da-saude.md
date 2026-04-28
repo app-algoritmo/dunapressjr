@@ -1,11 +1,12 @@
 ---
-title: "Brasil busca vacina segura e eficaz, segundo Ministério da Saúde"
+title: Brasil busca vacina segura e eficaz, segundo Ministério da Saúde
 date: 2020-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para secretário, a suspensão nos testes da vacina de Oxford é um procedimento de segurança necessário. Segundo Anvisa, no Brasil, não há relato de eventos adversos graves em voluntários do estudo. Brasil é um dos países que participa do estudo global para vacina contra a Covid-19.
 

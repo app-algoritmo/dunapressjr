@@ -1,11 +1,12 @@
 ---
-title: "Centro controlado pelos EUA estuda transmissão de brucelose para humanos"
+title: Centro controlado pelos EUA estuda transmissão de brucelose para humanos
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Outro projeto, o 2545, envolve a modelagem de mutações evolutivas de certos vírus altamente patogênicos para humanos - bunyaviruses.
 

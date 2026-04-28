@@ -1,11 +1,13 @@
 ---
-title: "Os dados do VAERS mostram claramente que as vacinas COVID para mulheres grávidas são um desastre absoluto"
+title: Os dados do VAERS mostram claramente que as vacinas COVID para mulheres grávidas
+  são um desastre absoluto
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O CDC disse que as vacinas COVID são completamente seguras para mulheres grávidas. Você mentiu e continua mentindo para o povo americano. Aqui está a prova e você pode conferir por si mesmo.
 

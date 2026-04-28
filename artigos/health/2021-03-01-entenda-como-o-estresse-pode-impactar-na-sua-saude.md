@@ -1,11 +1,12 @@
 ---
-title: "Entenda como o estresse pode impactar na sua saúde"
+title: Entenda como o estresse pode impactar na sua saúde
 date: 2021-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O estresse pode ser causado por condições desfavoráveis, sejam elas do ambiente profissional, familiar ou social, podem levar a um grau “negativo” de estresse, que desequilibra todo o organismo humano, propiciando o aparecimento de diversas doenças. Além disso, compromete a qualidade de vida e a saúde física e emocional, podendo gerar insônia, cansaço, dor de cabeça, tristeza e irritabilidade, dificuldade em se concentrar e falhas na memória, perda ou ganho de peso, insatisfação constante e isolamento social, má digestão, baixa imunidade.
 

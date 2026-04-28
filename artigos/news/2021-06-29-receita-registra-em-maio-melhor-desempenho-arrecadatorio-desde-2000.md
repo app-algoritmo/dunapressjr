@@ -1,11 +1,12 @@
 ---
-title: "Receita registra, em maio, melhor desempenho arrecadatório desde 2000"
+title: Receita registra, em maio, melhor desempenho arrecadatório desde 2000
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Arrecadação federal foi de R$ 142,106 bilhões.
 

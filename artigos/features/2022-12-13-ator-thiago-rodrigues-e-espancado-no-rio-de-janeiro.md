@@ -1,11 +1,12 @@
 ---
-title: "Ator Thiago Rodrigues é espancado no Rio de Janeiro"
+title: Ator Thiago Rodrigues é espancado no Rio de Janeiro
 date: 2022-12-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Thiago Rodrigues "está em choque" após ser espancado, diz empresária: "Saiu uma parte do couro cabeludo".
 

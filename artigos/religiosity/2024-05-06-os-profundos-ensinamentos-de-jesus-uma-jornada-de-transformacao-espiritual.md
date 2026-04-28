@@ -1,11 +1,12 @@
 ---
-title: "Os Profundos Ensinamentos de Jesus: Uma Jornada de Transformação Espiritual"
+title: 'Os Profundos Ensinamentos de Jesus: Uma Jornada de Transformação Espiritual'
 date: 2024-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 No coração das tradições cristãs, os ensinamentos de Jesus Cristo ecoam através dos séculos, oferecendo orientação e inspiração para milhões de pessoas ao redor do mundo. Seus ensinamentos transcendem fronteiras geográficas e culturais, tocando os corações da humanidade com mensagens de amor, compaixão e sabedoria.
 

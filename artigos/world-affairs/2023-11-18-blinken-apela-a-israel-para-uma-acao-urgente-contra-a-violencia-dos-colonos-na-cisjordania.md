@@ -1,11 +1,13 @@
 ---
-title: "Blinken apela a Israel para uma ação “urgente” contra a violência dos colonos na Cisjordânia"
+title: Blinken apela a Israel para uma ação “urgente” contra a violência dos colonos
+  na Cisjordânia
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O secretário de Estado dos EUA, Antony Blinken, pediu hoje a Israel que tome medidas “urgentes” para acabar com a violência dos colonos contra os palestinos na Cisjordânia.
 

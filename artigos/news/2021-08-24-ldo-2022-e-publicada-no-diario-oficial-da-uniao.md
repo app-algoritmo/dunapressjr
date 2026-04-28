@@ -1,11 +1,12 @@
 ---
-title: "LDO 2022 é publicada no Diário Oficial da União"
+title: LDO 2022 é publicada no Diário Oficial da União
 date: 2021-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto com vetos foi sancionado pelo presidente na sexta-feira.
 

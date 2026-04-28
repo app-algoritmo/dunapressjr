@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk declara o fim da cultura do cancelamento"
+title: Elon Musk declara o fim da cultura do cancelamento
 date: 2023-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quando comprou o Twitter, Elon Musk disse que A liberdade de expressão é a base de uma democracia funcional.
 

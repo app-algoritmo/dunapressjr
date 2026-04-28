@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio e dos serviços cai em outubro"
+title: Confiança do comércio e dos serviços cai em outubro
 date: 2022-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Confiança do Comércio teve queda de 3,8 pontos no período.
 

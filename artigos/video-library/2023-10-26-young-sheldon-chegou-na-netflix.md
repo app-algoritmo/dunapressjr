@@ -1,11 +1,12 @@
 ---
-title: "Young Sheldon Chegou na Netflix"
+title: Young Sheldon Chegou na Netflix
 date: 2023-10-26
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

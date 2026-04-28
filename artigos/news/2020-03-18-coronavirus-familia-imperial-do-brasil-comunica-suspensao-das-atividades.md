@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Família Imperial do Brasil comunica suspensão das atividades"
+title: 'Coronavírus: Família Imperial do Brasil comunica suspensão das atividades'
 date: 2020-03-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 São Paulo, 17 de março de 2020
 

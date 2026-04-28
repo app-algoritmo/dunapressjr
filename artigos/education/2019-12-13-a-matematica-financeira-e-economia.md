@@ -1,11 +1,12 @@
 ---
-title: "A matemática financeira e economia"
+title: A matemática financeira e economia
 date: 2019-12-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Education
+- Education
 ---
+
 
 ## Necessidade de ensinar para todos.
 

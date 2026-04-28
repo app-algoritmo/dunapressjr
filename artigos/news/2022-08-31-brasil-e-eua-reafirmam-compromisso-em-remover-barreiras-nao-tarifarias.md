@@ -1,11 +1,12 @@
 ---
-title: "Brasil e EUA reafirmam compromisso em remover barreiras não tarifárias"
+title: Brasil e EUA reafirmam compromisso em remover barreiras não tarifárias
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Comunicado foi assinado na sexta-feira, mas divulgado nesta terça-feira
 

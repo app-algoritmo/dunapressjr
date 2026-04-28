@@ -1,12 +1,13 @@
 ---
-title: "A OMS está avançando com planos de lançar um certificado de saúde digital global"
+title: A OMS está avançando com planos de lançar um certificado de saúde digital global
 date: 2023-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## As alterações propostas ao Regulamento Sanitário Internacional (“RSI”) são um conjunto de propostas totalmente diferente do “Tratado Pandêmico”, que não exige a assinatura de um Presidente ou Primeiro-Ministro, nem as alterações propostas exigiriam deliberação do Senado ou da Câmara e aprovação.
 

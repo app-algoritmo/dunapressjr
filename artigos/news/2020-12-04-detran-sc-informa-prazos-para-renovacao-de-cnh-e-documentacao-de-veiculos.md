@@ -1,11 +1,12 @@
 ---
-title: "Detran-SC informa prazos para renovação de CNH e documentação de veículos"
+title: Detran-SC informa prazos para renovação de CNH e documentação de veículos
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quem precisa renovar a Carteira Nacional de Habilitação ou documentos e processos de veículos deve estar atento aos prazos. Em Santa Catarina, o Detran estendeu o prazo para os processos veiculares como transferência, registro e licenciamento de veículo. Já com relação às CNHs vencidas em 2020, as datas para a renovação do documento são estabelecidos por meio de resolução do Conselho Nacional de Trânsito (CONTRAN) que definiu as datas limites para a regularização.
 

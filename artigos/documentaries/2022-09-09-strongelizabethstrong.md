@@ -1,11 +1,12 @@
 ---
-title: "<strong>Elizabeth</strong>"
+title: <strong>Elizabeth</strong>
 date: 2022-09-09
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 **PALAVRA DO LEITOR:** Envia-nos uma caríssima apoiadora da magistratura: **"Obrigada por tantas informações e raciocínios coerentes, bem fundamentados, em profundo estudo e alto senso de observação. Ao acordar, abro sua página esperando por mensagens dessa natureza." (Dra. Eliana Xavier Jaime, Juíza de Direito, Poder Judiciário, Anápolis – GO)******
 

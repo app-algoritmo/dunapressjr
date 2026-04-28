@@ -1,13 +1,15 @@
 ---
-title: "Gigante do transporte norueguês, avança para ter todos os seus edifícios livres de emissões até o final de 2025"
+title: Gigante do transporte norueguês, avança para ter todos os seus edifícios livres
+  de emissões até o final de 2025
 date: 2022-12-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
-  - Magazine
-  - News
+- E-auto
+- Magazine
+- News
 ---
+
 
 # Transporte de mercadorias - a caminho de um futuro mais verde.
 

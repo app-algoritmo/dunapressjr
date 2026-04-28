@@ -1,11 +1,12 @@
 ---
-title: "FGV: Índice de Clima Econômico sobe 2,1 pontos no segundo trimestre"
+title: 'FGV: Índice de Clima Econômico sobe 2,1 pontos no segundo trimestre'
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta no país foi puxada pelo índice da Situação Atual.
 

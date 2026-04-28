@@ -1,11 +1,12 @@
 ---
-title: "As pessoas preferem interagir com robôs femininos"
+title: As pessoas preferem interagir com robôs femininos
 date: 2023-03-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## As pessoas preferem interagir com robôs femininos em hotéis, segundo estudo
 

@@ -1,11 +1,13 @@
 ---
-title: "Comando Militar do Norte realiza operação inédita de defesa do litoral na foz do Amazonas"
+title: Comando Militar do Norte realiza operação inédita de defesa do litoral na foz
+  do Amazonas
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 A foz do rio Amazonas, no litoral do Amapá, é área estratégica para a política de segurança nacional e para o Exército Brasileiro. Por isso, o Comando Militar do Norte realizou a Operação Calçoene, uma série de exercícios militares para o adestramento da tropa na defesa do litoral que é porta de entrada para a Amazônia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo busca eficiência na execução do gasto público, afirma ministro"
+title: Governo busca eficiência na execução do gasto público, afirma ministro
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Rui Costa disse que não há possiblidade de aumento de gastos.
 

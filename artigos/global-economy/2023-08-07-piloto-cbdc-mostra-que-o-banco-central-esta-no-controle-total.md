@@ -1,11 +1,12 @@
 ---
-title: "Piloto CBDC mostra que o banco central está no controle total"
+title: Piloto CBDC mostra que o banco central está no controle total
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **
 Os "teóricos da conspiração" estavam certos novamente!**

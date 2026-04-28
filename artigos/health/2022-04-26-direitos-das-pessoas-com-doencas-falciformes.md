@@ -1,11 +1,12 @@
 ---
-title: "Direitos das Pessoas com Doenças Falciformes"
+title: Direitos das Pessoas com Doenças Falciformes
 date: 2022-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As doenças falciformes são causadas pela presença de hemoglobina anormal nos glóbulos vermelhos do sangue. Hemoglobina é a proteína responsável pelo transporte de oxigênio aos tecidos e está presente nas hemácias. Hemácias são células flexíveis e arredondadas que transitam por todos os vasos sanguíneos do organismo, levando o oxigênio ligado à hemoglobina.
 

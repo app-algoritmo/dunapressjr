@@ -1,11 +1,12 @@
 ---
-title: "UFGO tem físicos e biólogos pesquisando medicamentos para combater o Coronavírus"
+title: UFGO tem físicos e biólogos pesquisando medicamentos para combater o Coronavírus
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cursos de pós-graduação da Universidade Federal de Goiás receberam bolsas do Programa de Combate a Epidemias da CAPES.
 

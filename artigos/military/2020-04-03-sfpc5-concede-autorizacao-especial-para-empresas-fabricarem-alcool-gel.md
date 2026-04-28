@@ -1,11 +1,12 @@
 ---
-title: "SFPC/5 concede autorização especial para empresas fabricarem álcool gel"
+title: SFPC/5 concede autorização especial para empresas fabricarem álcool gel
 date: 2020-04-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 CURITIBA (PR) – Por orientação da Diretoria de Fiscalização de Produtos Controlados (DFPC), o Serviço de Fiscalização de Produtos Controlados da 5ª Região Militar (SFPC/5), responsável pela fiscalização de produtos controlados nos estados do Paraná e Santa Catarina, tem concedido autorização especial para produto usado na fabricação de álcool gel. Essa autorização ocorre para uso eventual (isentos de registro) e está em vigor durante a pandemia da COVID-19.
 

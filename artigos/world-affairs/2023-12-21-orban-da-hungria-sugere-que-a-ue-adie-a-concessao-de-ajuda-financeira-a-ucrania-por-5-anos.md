@@ -1,11 +1,13 @@
 ---
-title: "Orbán, da Hungria, sugere que a UE adie a concessão de ajuda financeira à Ucrânia por 5 anos"
+title: Orbán, da Hungria, sugere que a UE adie a concessão de ajuda financeira à Ucrânia
+  por 5 anos
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Viktor Orban disse que a Hungria não quer contrair empréstimos colectivos e endividar-se juntamente com outros países porque não recebeu um cêntimo do Fundo Europeu de Recuperação da Pandemia, que também foi preenchido através de empréstimos.
 

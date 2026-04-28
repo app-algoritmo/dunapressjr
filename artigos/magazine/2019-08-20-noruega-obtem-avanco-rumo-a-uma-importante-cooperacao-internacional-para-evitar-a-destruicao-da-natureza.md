@@ -1,12 +1,14 @@
 ---
-title: "Noruega obtém avanço rumo a uma importante cooperação internacional para evitar a destruição da natureza"
+title: Noruega obtém avanço rumo a uma importante cooperação internacional para evitar
+  a destruição da natureza
 date: 2019-08-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 Os participantes da CITES (Convenção sobre Comércio Internacional de Espécies Ameaçadas de Fauna e Flora Silvestres) aprovaram hoje, terça-feira, 20 de agosto, uma proposta da Noruega sobre uma cooperação mais estreita entre a Convenção do Patrimônio Mundial e a CITES. A cooperação se aplica tanto internacional quanto nacionalmente.
 

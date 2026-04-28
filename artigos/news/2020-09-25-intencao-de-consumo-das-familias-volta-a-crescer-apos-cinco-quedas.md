@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo das famílias volta a crescer após cinco quedas"
+title: Intenção de consumo das famílias volta a crescer após cinco quedas
 date: 2020-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice subiu 67,6 pontos, diz CNC.
 

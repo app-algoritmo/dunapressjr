@@ -1,11 +1,13 @@
 ---
-title: "Avança PLC sobre processo de seleção de voluntários na PM e Bombeiros em Santa Catarina"
+title: Avança PLC sobre processo de seleção de voluntários na PM e Bombeiros em Santa
+  Catarina
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Educação, Cultura e Desporto aprovou, na manhã desta quinta-feira (10), em reunião realizada por videoconferência, o parecer favorável ao Projeto de Lei Complementar (PLC) 23/2019, de autoria do deputado Coronel Mocellin (PSL), que altera a Lei Complementar nº 302, de 2005, para regular que o processo de seleção para ingresso de voluntários no Serviço de Auxiliar Temporário da Polícia Militar e do Corpo de Bombeiros Militar do Estado aproveitará a classificação obtida pelo candidato no Exame Nacional do Ensino Médio (Enem).
 

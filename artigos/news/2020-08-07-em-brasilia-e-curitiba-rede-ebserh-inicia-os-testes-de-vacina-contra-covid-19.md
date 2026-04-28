@@ -1,11 +1,12 @@
 ---
-title: "Em Brasília e Curitiba, Rede Ebserh, inicia os testes de vacina contra Covid-19"
+title: Em Brasília e Curitiba, Rede Ebserh, inicia os testes de vacina contra Covid-19
 date: 2020-08-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados em fases anteriores foram considerados promissores e produziram anticorpos em 90% dos participantes.
 

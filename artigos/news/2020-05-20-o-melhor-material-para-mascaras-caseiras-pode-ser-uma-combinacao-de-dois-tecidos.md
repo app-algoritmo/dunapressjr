@@ -1,11 +1,12 @@
 ---
-title: "O melhor material para máscaras caseiras pode ser uma combinação de dois tecidos"
+title: O melhor material para máscaras caseiras pode ser uma combinação de dois tecidos
 date: 2020-05-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os pesquisadores relatam que uma combinação de algodão com seda natural ou chiffon pode efetivamente filtrar as partículas de aerosol - se o ajuste for bom.
 

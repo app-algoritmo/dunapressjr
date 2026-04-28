@@ -1,11 +1,12 @@
 ---
-title: "Defesa Civil de Itajaí registra mais de 60 ocorrências após temporal"
+title: Defesa Civil de Itajaí registra mais de 60 ocorrências após temporal
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde as primeiras horas da manhã desta quinta-feira (03), a Defesa Civil de Itajaí trabalha na recuperação dos estragos ocasionados pelo temporal da última madrugada. Até as 18h de hoje, foram registradas mais de 60 ocorrências, em sua grande maioria na zona rural (Itaipava, Brilhante, Paciência e Quilômetro 12) e na Praia Brava.
 

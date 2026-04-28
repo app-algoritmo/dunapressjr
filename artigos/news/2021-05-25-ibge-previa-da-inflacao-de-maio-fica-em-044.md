@@ -1,11 +1,12 @@
 ---
-title: "IBGE: prévia da inflação de maio fica em 0,44%"
+title: 'IBGE: prévia da inflação de maio fica em 0,44%'
 date: 2021-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maior impacto foi da alta da energia elétrica: 2,31%.
 

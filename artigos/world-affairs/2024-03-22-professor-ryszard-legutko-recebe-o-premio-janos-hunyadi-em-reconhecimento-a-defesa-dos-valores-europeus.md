@@ -1,11 +1,13 @@
 ---
-title: "Professor Ryszard Legutko recebe o Prêmio János Hunyadi em reconhecimento à defesa dos valores europeus"
+title: Professor Ryszard Legutko recebe o Prêmio János Hunyadi em reconhecimento à
+  defesa dos valores europeus
 date: 2024-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O copresidente da ECR, professor Ryszard Legutko, foi honrado nesta quarta-feira com o prestigiado Prêmio János Hunyadi, entregue pelo primeiro-ministro húngaro, Viktor Orbán. A cerimônia, que contou com a presença do eurodeputado da VOX Hermann Tertsch, destacou o compromisso de Legutko com os valores europeus e a identidade cristã do continente.
 

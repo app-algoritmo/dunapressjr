@@ -1,11 +1,12 @@
 ---
-title: "Entrevista com S.A.R. duque de Loulé de Bragança e Bourbon"
+title: Entrevista com S.A.R. duque de Loulé de Bragança e Bourbon
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Importante não é o pretendente ser este ou aquele, mas aquilo que os portugueses desejam, sua alteza real VI duque de Loulé de Bragança e Bourbon.
 

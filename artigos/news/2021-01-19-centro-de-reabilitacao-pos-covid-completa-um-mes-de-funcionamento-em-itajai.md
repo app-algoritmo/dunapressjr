@@ -1,11 +1,12 @@
 ---
-title: "Centro de Reabilitação Pós-COVID completa um mês de funcionamento em Itajaí"
+title: Centro de Reabilitação Pós-COVID completa um mês de funcionamento em Itajaí
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Centro de Reabilitação Pós-COVID de Itajaí completa nesta quinta-feira (14) um mês de funcionamento. A unidade, criada para reduzir e tratar os impactos da doença, já atendeu 85 pacientes neste período. O centro conta com uma equipe multiprofissional e realiza atendimentos em pessoas com sequelas respiratórias, motoras ou emocionais em função da COVID-19.
 

@@ -1,11 +1,12 @@
 ---
-title: "A esquerda governa e a culpa é sua! Vença a Guerra Cultural"
+title: A esquerda governa e a culpa é sua! Vença a Guerra Cultural
 date: 2019-11-11
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Não gostou do titulo? Difícil ouvir uma verdade que te provoca e te tira da zona de conforto, não é? Bem, eu poderia escrever um artigo sobre o STF mais uma vez, os deuses do novo Olimpo, como também, poderia discutir sobre o papel do Legislativo e de nossos queridos Rodrigo Maia e Davi Alcolumbre no cenário politico nacional, quando vejo estes dois nobres senhores sinto saudades do Renan Calheiros e da ex-presidente Dilma. Dessa vez, este artigo é dirigido a você ou a um amigo seu. Este escrito é para aquele grupo que de um dia para o outro considera o presidente Bolsonaro como sendo igual ao ex-presidente Lula. Para aqueles que estão perdendo a esperança em mudanças e que se sentem impotentes diante de um cenário tão adverso, também dedico estas linhas. 
 

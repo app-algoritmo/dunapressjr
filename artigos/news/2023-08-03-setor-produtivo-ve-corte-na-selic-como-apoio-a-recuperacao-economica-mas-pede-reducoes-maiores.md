@@ -1,11 +1,13 @@
 ---
-title: "Setor produtivo vê corte na Selic como apoio à recuperação econômica, mas pede reduções maiores"
+title: Setor produtivo vê corte na Selic como apoio à recuperação econômica, mas pede
+  reduções maiores
 date: 2023-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entidades empresariais e centrais sindicais elogiam decisão do Banco Central. 
 

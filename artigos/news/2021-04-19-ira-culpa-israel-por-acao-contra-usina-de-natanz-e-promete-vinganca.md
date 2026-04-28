@@ -1,11 +1,12 @@
 ---
-title: "Irã culpa Israel por ação contra usina de Natanz e promete vingança"
+title: Irã culpa Israel por ação contra usina de Natanz e promete vingança
 date: 2021-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro das Relações Exteriores do Irã, Mohammad Javad Zarif, culpou Israel por uma ação que neste domingo causou grandes danos à instalação nuclear de Natanz e prometeu “vingança contra os sionistas”. O chanceler também advertiu que o ato de sabotagem – uma explosão que danificou o sistema elétrico da usina e o funcionamento de novas centrífugas – só fará com que o Irã substitua as centrífugas danificadas por outras ainda melhores.
 O Irã também afirmou que identificou uma pessoa que estaria envolvida na ação.

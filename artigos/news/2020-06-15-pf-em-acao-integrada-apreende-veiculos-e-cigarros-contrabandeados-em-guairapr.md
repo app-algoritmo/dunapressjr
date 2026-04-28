@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, apreende veículos e cigarros contrabandeados em Guaíra/PR"
+title: PF, em ação integrada, apreende veículos e cigarros contrabandeados em Guaíra/PR
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – No domingo, 14/6, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça 5 dicas para melhorar a comunicação com crianças autistas"
+title: Conheça 5 dicas para melhorar a comunicação com crianças autistas
 date: 2024-06-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estratégias podem auxiliar pais e familiares a lidar com desafios da interação social no Transtorno do Espectro Autista.
 

@@ -1,11 +1,12 @@
 ---
-title: "Essa tecnologia israelense acabará com as violações regulatórias?"
+title: Essa tecnologia israelense acabará com as violações regulatórias?
 date: 2021-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A plataforma AI desenvolvida pela nova startup Sealed.ai ajuda as empresas a detectar padrões de chamada fraudulentos.
 

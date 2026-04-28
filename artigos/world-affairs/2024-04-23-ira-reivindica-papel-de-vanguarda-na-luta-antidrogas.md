@@ -1,11 +1,12 @@
 ---
-title: "Irã Reivindica Papel de Vanguarda na Luta Antidrogas"
+title: Irã Reivindica Papel de Vanguarda na Luta Antidrogas
 date: 2024-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente iraniano, Ebrahim Raisi, reiterou o compromisso da República Islâmica na vanguarda da luta contra o tráfico e contrabando de drogas, destacando que os incansáveis esforços do país têm sido cruciais para conter o avanço do tráfico na Europa. 
 

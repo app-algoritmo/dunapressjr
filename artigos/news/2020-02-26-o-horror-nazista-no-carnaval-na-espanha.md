@@ -1,11 +1,12 @@
 ---
-title: "O Horror Nazista, no carnaval na Espanha"
+title: O Horror Nazista, no carnaval na Espanha
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na Espanha, dançarinos fantasiados de nazistas, desfilam em carnaval num carro alegórico em formato de forno de crematório
 

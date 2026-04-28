@@ -1,11 +1,12 @@
 ---
-title: "Crédito a pessoas físicas fica 32% mais caro em um ano e meio"
+title: Crédito a pessoas físicas fica 32% mais caro em um ano e meio
 date: 2022-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumento para pessoas jurídicas chega a 45% no período.
 

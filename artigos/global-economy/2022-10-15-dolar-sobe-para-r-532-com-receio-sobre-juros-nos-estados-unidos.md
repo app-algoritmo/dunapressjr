@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,32 com receio sobre juros nos Estados Unidos"
+title: Dólar sobe para R$ 5,32 com receio sobre juros nos Estados Unidos
 date: 2022-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores cai 1,95% e atinge menor nível no mês.
 

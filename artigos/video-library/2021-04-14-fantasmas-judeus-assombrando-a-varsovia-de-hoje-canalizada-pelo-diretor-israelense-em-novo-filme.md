@@ -1,11 +1,13 @@
 ---
-title: "Fantasmas judeus assombrando a Varsóvia de hoje canalizada pelo diretor israelense em novo filme"
+title: Fantasmas judeus assombrando a Varsóvia de hoje canalizada pelo diretor israelense
+  em novo filme
 date: 2021-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Alguns residentes do distrito de Muranów, na capital polonesa, são mantidos acordados à noite por ecos de violinos tocando e risos de crianças. Diz-se que os rádios ligam e desligam sozinhos e - em um apartamento - “uma família inteira de judeus” aparece quando as luzes se acendem.
 

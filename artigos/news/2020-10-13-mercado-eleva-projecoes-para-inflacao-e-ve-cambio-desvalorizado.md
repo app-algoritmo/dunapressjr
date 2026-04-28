@@ -1,11 +1,12 @@
 ---
-title: "Mercado eleva projeções para inflação e vê câmbio desvalorizado"
+title: Mercado eleva projeções para inflação e vê câmbio desvalorizado
 date: 2020-10-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Expectativa para 2020 é de 2,47% e para ano que vem, de 3,02%.
 

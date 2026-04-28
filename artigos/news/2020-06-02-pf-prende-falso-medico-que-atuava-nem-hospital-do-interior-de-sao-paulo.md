@@ -1,11 +1,12 @@
 ---
-title: "PF prende falso médico que atuava nem hospital do interior de São Paulo"
+title: PF prende falso médico que atuava nem hospital do interior de São Paulo
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guarulhos/SP – A Polícia Federal prendeu na noite do domingo (31/5) um brasileiro que atuava como médico, usando documentos de um colombiano que já exerceu a profissão no país.
 

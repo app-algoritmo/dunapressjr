@@ -1,11 +1,13 @@
 ---
-title: "EUA e Japão Planejam Atualização Histórica do Acordo de Segurança para Conter China e Coreia do Norte"
+title: EUA e Japão Planejam Atualização Histórica do Acordo de Segurança para Conter
+  China e Coreia do Norte
 date: 2024-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Os Estados Unidos e o Japão estão prestes a realizar a maior atualização do acordo de segurança em mais de seis décadas, conforme relatado pelo Financial Times com base em fontes confiáveis. O objetivo principal desta iniciativa conjunta é fazer frente aos desafios representados pela China e pela Coreia do Norte na região. De acordo com o relatório, o presidente dos EUA, Joe Biden, e o primeiro-ministro japonês, Fumio Kishida, têm previsto anunciar os detalhes deste plano durante uma reunião na Casa Branca agendada para o dia 10 de abril.
 

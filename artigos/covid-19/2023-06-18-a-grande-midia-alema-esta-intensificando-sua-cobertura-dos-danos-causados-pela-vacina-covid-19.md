@@ -1,11 +1,13 @@
 ---
-title: "A grande mídia alemã está intensificando sua cobertura dos danos causados pela vacina COVID-19"
+title: A grande mídia alemã está intensificando sua cobertura dos danos causados pela
+  vacina COVID-19
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A grande mídia alemã de orientação internacional da DW está intensificando sua cobertura dos danos causados ​​​​pela vacina COVID-19. Melina Grundmann, da DW, descreve os danos da vacina COVID-19 como "síndrome pós-vacinação" e relata que esse é o termo que pelo menos alguns na Alemanha usam para os efeitos colaterais às vezes graves da vacina COVID-19.
 

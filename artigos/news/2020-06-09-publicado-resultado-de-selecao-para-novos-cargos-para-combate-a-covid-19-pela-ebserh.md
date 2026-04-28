@@ -1,11 +1,13 @@
 ---
-title: "Publicado resultado de seleção para novos cargos para combate à Covid – 19 pela Ebserh"
+title: Publicado resultado de seleção para novos cargos para combate à Covid – 19
+  pela Ebserh
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Início das convocações para esses cargos ocorrerá ainda nesta semana, conforme a necessidade dos hospitais.
 

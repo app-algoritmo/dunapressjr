@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em queda de olho em eleições na Câmara e no Senado"
+title: Dólar fecha em queda de olho em eleições na Câmara e no Senado
 date: 2021-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa encerra sessão em forte alta, impulsionada por ambiente externo.
 

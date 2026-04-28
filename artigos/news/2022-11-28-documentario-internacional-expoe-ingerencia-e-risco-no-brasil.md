@@ -1,11 +1,12 @@
 ---
-title: "Documentário internacional expõe ingerência e risco no Brasil"
+title: Documentário internacional expõe ingerência e risco no Brasil
 date: 2022-11-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Ingerência internacional e fraude eleitoral no Brasil são destaques em documentário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Uma visão bíblica e cristã do Politicamente Correto"
+title: Uma visão bíblica e cristã do Politicamente Correto
 date: 2019-03-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O politicamente correto está demonstrado até mesmo nas escrituras, de como devemos entender algumas situações da vida, para agirmos de forma correta às nossas intuições. Vejamos:
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo marco legal do câmbio facilitará adesão do Brasil à OCDE, diz CNI"
+title: Novo marco legal do câmbio facilitará adesão do Brasil à OCDE, diz CNI
 date: 2021-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para entidade, medidas impulsionam investimentos estrangeiros no país.
 

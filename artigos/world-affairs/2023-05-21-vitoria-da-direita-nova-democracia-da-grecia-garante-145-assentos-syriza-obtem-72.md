@@ -1,11 +1,13 @@
 ---
-title: "Vitória da Direita: Nova Democracia da Grécia garante 145 assentos, SYRIZA obtém 72"
+title: 'Vitória da Direita: Nova Democracia da Grécia garante 145 assentos, SYRIZA
+  obtém 72'
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O resultado final será divulgado na segunda-feira, mas não são esperadas mudanças significativas.
 

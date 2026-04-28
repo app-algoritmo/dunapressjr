@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Defesa realiza cerimônia da imposição da Medalha da Vitória"
+title: Ministério da Defesa realiza cerimônia da imposição da Medalha da Vitória
 date: 2020-05-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Com a presença do Presidente da República, Jair Bolsonaro, Ministério da Defesa promoveu nesta sexta-feira (08) cerimônia reservada para a imposição da Medalha da Vitória. O Ministro da Defesa, Fernando Azevedo, recebeu ainda o Vice-Presidente da República, Hamilton Mourão, os Ministros da Casa Civil, Walter Braga Netto, da Secretaria de Governo, Luiz Eduardo Ramos, e o chefe do Gabinete de Segurança Institucional, Augusto Heleno. A solenidade ocorreu de acordo com as orientações de distanciamento social por conta da pandemia do novo coronavírus.
 

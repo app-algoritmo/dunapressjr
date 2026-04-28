@@ -1,11 +1,12 @@
 ---
-title: "Transmissão de SARS-CoV-2 entre animais e humanos é foco de estudo"
+title: Transmissão de SARS-CoV-2 entre animais e humanos é foco de estudo
 date: 2021-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Universidade Estadual de Londrina (UEL) recebeu aprovação da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) para analisar o risco de transmissão do vírus SARS-CoV-2 entre animais e humanos. O projeto foi aprovado pelo [Edital nº 11/2020](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-farmacos-e-imunologia-edital-n-11-2020), no âmbito do [Programa de Combate a Epidemias](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/programa-de-combate-as-epidemias) da Fundação, vinculada ao Ministério da Educação (MEC).
 

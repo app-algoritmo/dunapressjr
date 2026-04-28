@@ -1,11 +1,12 @@
 ---
-title: "PF apreende 11,5 toneladas de maconha em Ponta Porã/MS"
+title: PF apreende 11,5 toneladas de maconha em Ponta Porã/MS
 date: 2020-06-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ponta Porã/MS –  No domingo (14/6), a Polícia Federal, ao apurar informações de que uma carreta estaria sendo preparada para transportar grande quantidade de entorpecentes, apreendeu 11,5 toneladas de maconha em Ponta Porã/MS.
 

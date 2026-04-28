@@ -1,11 +1,12 @@
 ---
-title: "Estados Unidos reduzem cota de importação de aço do Brasil"
+title: Estados Unidos reduzem cota de importação de aço do Brasil
 date: 2020-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Trump diz que mercado do produto nos EUA se contraiu em 2020.
 

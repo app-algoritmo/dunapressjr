@@ -1,11 +1,13 @@
 ---
-title: "Em solenidade reduzida, mas significativa, General Soares assume o Comando Militar do Oeste"
+title: Em solenidade reduzida, mas significativa, General Soares assume o Comando
+  Militar do Oeste
 date: 2020-04-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Campo Grande** (MS) **–** A manhã do dia 29 de abril, no Forte Pantanal, foi marcada por uma solenidade diferente das tradicionalmente realizadas nos Comandos Militares de Área. Cumprindo as diretrizes sobre o novo coronavírus no âmbito do Exército Brasileiro e com o intuito de evitar aglomeração, a cerimônia de Passagem de Comando do Comando Militar do Oeste (CMO) ocorreu de forma reduzida, seguindo, assim, as orientações de segurança para se evitar a doença.
 

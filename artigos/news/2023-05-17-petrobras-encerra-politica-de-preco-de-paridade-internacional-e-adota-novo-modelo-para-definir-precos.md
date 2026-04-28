@@ -1,11 +1,13 @@
 ---
-title: "Petrobras encerra política de Preço de Paridade Internacional e adota novo modelo para definir preços"
+title: Petrobras encerra política de Preço de Paridade Internacional e adota novo
+  modelo para definir preços
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estatal brasileira passa a considerar referências do mercado interno e "custo alternativo do cliente" em novo modelo.
 

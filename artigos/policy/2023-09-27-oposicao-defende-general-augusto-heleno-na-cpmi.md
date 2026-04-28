@@ -1,11 +1,12 @@
 ---
-title: "Oposição defende general Augusto Heleno na CPMI"
+title: Oposição defende general Augusto Heleno na CPMI
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Na segunda parte de seu depoimento à CPMI do 8 de Janeiro, nesta terça-feira (26), o general da reserva Augusto Heleno Ribeiro Pereira, ex-chefe do Gabinete de Segurança Institucional (GSI) da Presidência da República no governo Bolsonaro, recebeu apoio de diversos parlamentares da oposição. Entre eles, os senadores Jorge Seif (PL-SC), Marcos Rogério (PL-RO), Magno Malta (PL-ES), Esperidião Amin (PP-SC), Damares Alves (Republicanos-DF), Flávio Bolsonaro (PL-RJ) e Sérgio Moro (União-PR) e os deputados Delegado Ramagem (PL-RJ), Maurício Marcon (Podemos-RS), Rodrigo Valadares (União-SE) e Filipe Barros (PL-PR).
 

@@ -1,11 +1,13 @@
 ---
-title: "Doença de Chagas: Encontrar e relatar todos os casos para derrotar a Doença de Chagas"
+title: 'Doença de Chagas: Encontrar e relatar todos os casos para derrotar a Doença
+  de Chagas'
 date: 2022-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Doença é prevalente entre as populações pobres da América Latina continental, mas está sendo cada vez mais detectada em outros países e continentes.
 

@@ -1,11 +1,13 @@
 ---
-title: "Secretário Especial de Saúde Indígena destaca as ações de prevenção e combate ao  coronavírus"
+title: Secretário Especial de Saúde Indígena destaca as ações de prevenção e combate
+  ao  coronavírus
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Robson Santos da Silva ressaltou o reforço dos 14,2 mil profissionais integrando 800 Equipes Multidisciplinares de Saúde Indígena.
 

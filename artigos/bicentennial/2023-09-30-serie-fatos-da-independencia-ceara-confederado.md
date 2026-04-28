@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Ceará Confederado"
+title: 'Série Fatos Da Independência: Ceará Confederado'
 date: 2023-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Os republicanos ocuparam Fortaleza. Armados e indignados, não aceitariam facilmente as terríveis imposições do imperador. Em 28 de abril de 1824, dia da ocupação, um novo presidente foi eleito no lugar do enviado de Dom Pedro: Tristão Gonçalves, irmão de José Martiniano e filho de Bárbara de Alencar. A veia revolucionária estava, mesmo, presente na família – e na província. Um pouco mais adiante, em 26 de agosto de 1824, o Ceará se uniu a Pernambuco em um novo movimento: a Confederação do Equador. Republicana e federativa, ela almejava unir as províncias brasileiras do Norte de modo justo e sem o jugo doloroso e repressor do Imperador estrangeiro. O desejo dos confederados era se opor ao projeto centralizador que vinha do Rio de Janeiro, pelas mãos de Dom Pedro. A autonomia local era o carro-chefe das reivindicações e, para demonstrar o seu desejo por uma independência que correspondesse às expectativas locais, os revolucionários passaram a adotar sobrenomes indígenas, como foi o caso de Tristão Gonçalves, que passou a se chamar Gonçalves *Araripe*.
 

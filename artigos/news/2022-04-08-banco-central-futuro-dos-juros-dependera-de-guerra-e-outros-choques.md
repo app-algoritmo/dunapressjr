@@ -1,11 +1,12 @@
 ---
-title: "Banco Central: futuro dos juros dependerá de guerra e outros choques"
+title: 'Banco Central: futuro dos juros dependerá de guerra e outros choques'
 date: 2022-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para Campos Neto, BC está no caminho certo no combate à inflação.
 

@@ -1,11 +1,13 @@
 ---
-title: "Rússia culpa posição de Kiev pela impossibilidade de negociações no conflito ucraniano, afirma oficial de segurança"
+title: Rússia culpa posição de Kiev pela impossibilidade de negociações no conflito
+  ucraniano, afirma oficial de segurança
 date: 2024-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro vice-secretário do Conselho de Segurança Russo, Rashid Nurgaliyev, ressaltou em uma entrevista ao aif.ru que a Rússia nunca se opôs ao processo de negociação para resolver o conflito na Ucrânia. No entanto, ele enfatizou que agora essa possibilidade se tornou impossível devido à posição das autoridades de Kiev, especialmente do presidente ucraniano Vladimir Zelensky, que assinou um decreto proibindo negociações com a Rússia.
 

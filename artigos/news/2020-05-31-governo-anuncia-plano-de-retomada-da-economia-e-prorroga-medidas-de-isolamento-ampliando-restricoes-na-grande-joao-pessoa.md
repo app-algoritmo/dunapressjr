@@ -1,11 +1,13 @@
 ---
-title: "Governo anuncia plano de retomada da economia e prorroga medidas de isolamento ampliando restrições na Grande João Pessoa"
+title: Governo anuncia plano de retomada da economia e prorroga medidas de isolamento
+  ampliando restrições na Grande João Pessoa
 date: 2020-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O plano de abertura gradual da economia tem previsão para se iniciar no dia 15 de junho.
 

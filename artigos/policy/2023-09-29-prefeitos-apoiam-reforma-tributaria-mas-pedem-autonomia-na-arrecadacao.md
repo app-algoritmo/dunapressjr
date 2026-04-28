@@ -1,11 +1,12 @@
 ---
-title: "Prefeitos apoiam reforma tributária, mas pedem autonomia na arrecadação"
+title: Prefeitos apoiam reforma tributária, mas pedem autonomia na arrecadação
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Tema de inúmeros debates no Congresso Nacional, a proposta de emenda à Constituição (PEC) [45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930), da reforma tributária, voltou a ser discutida pelo Senado nesta quinta-feira (28). Desta vez, a sessão de debates temáticos reuniu no Plenário representantes dos prefeitos, que se mostraram favoráveis à reforma tributária, mas manifestaram preocupação com alguns pontos, como a criação do Imposto sobre Valor Agregado (IVA), do qual fará parte o Imposto sobre Bens e Serviços (IBS), cujo o depósito da arrecadação vai para os governos estaduais, com posterior repasse aos municípios.   
 

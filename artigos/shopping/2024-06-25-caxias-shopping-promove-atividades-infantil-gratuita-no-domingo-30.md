@@ -1,11 +1,12 @@
 ---
-title: "Caxias Shopping promove atividades infantil gratuita no domingo (30)"
+title: Caxias Shopping promove atividades infantil gratuita no domingo (30)
 date: 2024-06-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## O Caxias Shopping apresenta a atração "Domingo Divertido".
 

@@ -1,12 +1,13 @@
 ---
-title: "O Impacto do Glúten na Saúde: Intoxicação, Alergias e Alimentos a Serem Evitados"
+title: 'O Impacto do Glúten na Saúde: Intoxicação, Alergias e Alimentos a Serem Evitados'
 date: 2024-10-09
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Food
-  - Well-being
+- Food
+- Well-being
 ---
+
 
 O glúten é uma proteína encontrada em cereais como trigo, cevada e centeio, amplamente consumida na forma de pães, massas, bolos e outros produtos assados. Embora seja seguro para a maioria das pessoas, ele pode desencadear sérias reações em indivíduos com condições de saúde específicas. Este artigo explora o impacto do glúten no organismo, os casos de intoxicação e alergias, além de indicar alimentos a serem evitados e os tratamentos médicos disponíveis.
 

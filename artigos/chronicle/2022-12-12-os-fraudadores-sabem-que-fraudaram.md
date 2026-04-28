@@ -1,12 +1,13 @@
 ---
-title: "Os fraudadores sabem que fraudaram"
+title: Os fraudadores sabem que fraudaram
 date: 2022-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 ## Que situação bizarra, alucinante e demencial que todos nós vivemos neste momento:
 

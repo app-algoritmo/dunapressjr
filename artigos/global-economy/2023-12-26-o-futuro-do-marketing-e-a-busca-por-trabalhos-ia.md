@@ -1,11 +1,12 @@
 ---
-title: "O Futuro do Marketing e a Busca por trabalhos  IA"
+title: O Futuro do Marketing e a Busca por trabalhos  IA
 date: 2023-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## **Grandes Marcas Enfrentam Desafios na Adoção de Tecnologias de Inteligência Artificial no Marketing**.
 

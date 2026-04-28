@@ -1,11 +1,13 @@
 ---
-title: "Presidente chinês Xi Jinping afirma que a modernização da China está moldando uma nova civilização humana"
+title: Presidente chinês Xi Jinping afirma que a modernização da China está moldando
+  uma nova civilização humana
 date: 2024-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente chinês Xi Jinping destacou a importância da modernização ao estilo chinês como um catalisador para uma nova forma de civilização humana, em comentários recentes divulgados pelo site xinhuawan. Xi, que também atua como secretário-geral do Comitê Central do Partido Comunista Chinês (PCC), enfatizou que esse processo não apenas fortalece a China, mas também tem implicações significativas para toda a humanidade.
 

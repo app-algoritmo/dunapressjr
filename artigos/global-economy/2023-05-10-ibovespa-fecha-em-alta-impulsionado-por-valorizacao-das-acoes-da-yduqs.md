@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta impulsionado por valorização das ações da Yduqs"
+title: Ibovespa fecha em alta impulsionado por valorização das ações da Yduqs
 date: 2023-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar registra segunda sessão consecutiva de queda em relação ao real.
 

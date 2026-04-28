@@ -1,11 +1,12 @@
 ---
-title: "Aldeias Ingarikó recebem reforço no combate à Covid-19"
+title: Aldeias Ingarikó recebem reforço no combate à Covid-19
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Saúde e Exército Brasileiro enviam equipes e testes rápidos para atender população da Terra Indígena Serra do Sol.
 

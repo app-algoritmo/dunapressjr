@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias de renda mais baixa cai 0,60%"
+title: Inflação para famílias de renda mais baixa cai 0,60%
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a menor variação desde o início da série histórica em 1979.
 

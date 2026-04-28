@@ -1,11 +1,12 @@
 ---
-title: "Sancionada lei que prevê auxílio financeiro ao setor cultural"
+title: Sancionada lei que prevê auxílio financeiro ao setor cultural
 date: 2020-06-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Texto estabelece o repasse de R$ 3 bilhões pela União ao segmento e garante o pagamento de auxílio emergencial de R$ 600 a trabalhadores da área.
 

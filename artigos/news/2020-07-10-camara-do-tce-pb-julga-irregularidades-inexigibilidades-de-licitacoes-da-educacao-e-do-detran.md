@@ -1,11 +1,13 @@
 ---
-title: "Câmara do TCE-PB julga irregularidades inexigibilidades de licitações da Educação e do DETRAN"
+title: Câmara do TCE-PB julga irregularidades inexigibilidades de licitações da Educação
+  e do DETRAN
 date: 2020-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Reunida em sessão por videoconferência nesta quinta-feira (9), a 1ª Câmara do Tribunal de Contas da Paraíba julgou irregular Inexigibilidade de Licitação da Secretaria de Estado da Educação, sob nº 26/2017, destinando recursos de R$ 4,7 milhões à aquisição de 2.085 kits da coleção "Discovery na Escola", para ampliação dos acervos pedagógicos das escolas da rede estadual de ensino.
 

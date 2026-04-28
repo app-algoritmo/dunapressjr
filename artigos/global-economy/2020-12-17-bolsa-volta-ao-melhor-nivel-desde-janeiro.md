@@ -1,11 +1,12 @@
 ---
-title: "Bolsa volta ao melhor nível desde janeiro"
+title: Bolsa volta ao melhor nível desde janeiro
 date: 2020-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sobe para R$ 5,10 em dia de ajustes.
 

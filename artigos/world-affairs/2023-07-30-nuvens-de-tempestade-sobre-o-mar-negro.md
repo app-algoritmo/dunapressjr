@@ -1,11 +1,12 @@
 ---
-title: "Nuvens de tempestade sobre o Mar Negro"
+title: Nuvens de tempestade sobre o Mar Negro
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A cúpula da OTAN em Vilnius (11/12 de julho) deixou claro que não haverá negociações para resolver a guerra na Ucrânia no futuro próximo. A guerra só se intensificará, pois os EUA e seus aliados sempre esperam infligir uma derrota militar à Rússia, quando claramente além de suas possibilidades de fazê-lo.
 

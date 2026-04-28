@@ -1,11 +1,12 @@
 ---
-title: "Porque tanta apología ao diabo?"
+title: Porque tanta apología ao diabo?
 date: 2023-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Perguntei para a Inteligência Artificial no www.openai.com ChatGPT - Porque tanta apologia ao diabo? E a resposta foi:
 

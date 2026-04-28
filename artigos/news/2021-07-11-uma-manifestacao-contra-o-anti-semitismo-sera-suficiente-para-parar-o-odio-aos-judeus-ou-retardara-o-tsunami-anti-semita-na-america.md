@@ -1,11 +1,13 @@
 ---
-title: "Uma manifestação contra o anti-semitismo, será suficiente para parar o ódio aos judeus, ou retardará o tsunami anti-semita na América?"
+title: Uma manifestação contra o anti-semitismo, será suficiente para parar o ódio
+  aos judeus, ou retardará o tsunami anti-semita na América?
 date: 2021-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Judeus americanos estão planejando um comício no domingo em Washington, DC Eles estão chamando de " [Sem Medo: Um Rally em Solidariedade com o Povo Judeu](https://nofear.combatantisemitism.org/) ." É apoiado por mais de 60 grupos de defesa, incluindo o Comitê Judaico Americano, Liga Anti-Difamação, Hadassah, Federações Judaicas da América do Norte, Conselho Democrático Judaico da América, Fundo Nacional Judaico, Coalizão Judaica Republicana, Stand with Us, Union for Reforma do Judaísmo, Sinagoga Unida do Judaísmo Conservador, etc.
 

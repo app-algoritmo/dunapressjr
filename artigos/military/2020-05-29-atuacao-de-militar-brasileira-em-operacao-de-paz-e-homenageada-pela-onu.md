@@ -1,11 +1,12 @@
 ---
-title: "Atuação de militar brasileira em operação de paz é homenageada pela ONU"
+title: Atuação de militar brasileira em operação de paz é homenageada pela ONU
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta sexta-feira (29), comemora-se o Dia Internacional dos Peacekeepers das Nações Unidas, um justo tributo àqueles que dedicaram parte de suas vidas em prol da paz mundial. Neste ano, em virtude da pandemia do novo coronavírus, não será realizada a tradicional cerimônia que homenageia, de maneira marcante, esses verdadeiros heróis anônimos, conhecidos como “boinas azuis”.
 

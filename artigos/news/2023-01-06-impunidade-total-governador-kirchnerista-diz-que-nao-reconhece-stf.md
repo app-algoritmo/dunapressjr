@@ -1,11 +1,12 @@
 ---
-title: "Impunidade total: governador kirchnerista diz que não reconhece STF"
+title: 'Impunidade total: governador kirchnerista diz que não reconhece STF'
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Na Argentina, continua o debate sobre a coparticipação federal e o inviável julgamento da Corte Suprema de Justiça promovido pelo fracassado presidente Alberto Fernández. Entre os governadores que o apoiam está Ricardo Quintela, de [La Rioja](https://www.telam.com.ar/notas/202301/616458-quintela-juicio-politico-corte-suprema.html) , que já reconheceu que não pretende obedecer ao mais alto tribunal, uma vez que este não o respeita. Como se não bastasse, acabou ameaçando como um bar brava: "Que venham nos buscar", disse, como se fosse um confronto entre torcedores por uma bandeira.
 

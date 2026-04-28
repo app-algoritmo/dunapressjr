@@ -1,11 +1,12 @@
 ---
-title: "Pensar com o coração e sentir com a mente..."
+title: Pensar com o coração e sentir com a mente...
 date: 2019-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 O coração é órgão importante do corpo, cuja função principal é bombear o sangue para nutrir as células do organismo.
 

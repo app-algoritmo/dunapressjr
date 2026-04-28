@@ -1,11 +1,12 @@
 ---
-title: "UFPR desenvolve EPIs para crianças"
+title: UFPR desenvolve EPIs para crianças
 date: 2020-06-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Viabilidade de produção das propostas será analisada por parceira da iniciativa.
 

@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova 740 novos cargos no Superior Tribunal Militar"
+title: CCJ aprova 740 novos cargos no Superior Tribunal Militar
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (18) projeto de lei que cria 740 cargos no Superior Tribunal Militar (STM) entre cargos de provimento efetivo, em comissão e funções comissionadas. O [PL 3.535/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158762), de iniciativa do STM, recebeu relatório favorável e sem emendas do senador Humberto Costa (PT-PE). O texto agora segue para análise no Plenário.
 

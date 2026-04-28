@@ -1,11 +1,12 @@
 ---
-title: "Juíza de Santa Catarina sofre perseguição por ser contra o aborto"
+title: Juíza de Santa Catarina sofre perseguição por ser contra o aborto
 date: 2023-08-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A juíza Joana Ribeiro Zimmer foi submetida a um julgamento pelo Conselho Nacional de Justiça em 20 de junho de 2023, que votou unanimemente pela instauração de um Processo Administrativo Disciplinar (PAD) a fim de apurar sua conduta. Os conselheiros demonstraram uma indignação próxima do ódio
 

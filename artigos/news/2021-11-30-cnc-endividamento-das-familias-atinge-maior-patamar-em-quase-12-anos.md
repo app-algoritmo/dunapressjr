@@ -1,11 +1,12 @@
 ---
-title: "CNC: endividamento das famílias atinge maior patamar em quase 12 anos"
+title: 'CNC: endividamento das famílias atinge maior patamar em quase 12 anos'
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desde julho, o percentual de endividados está há 11 meses em alta.
 

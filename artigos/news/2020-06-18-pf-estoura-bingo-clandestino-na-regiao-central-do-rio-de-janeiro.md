@@ -1,11 +1,12 @@
 ---
-title: "PF estoura bingo clandestino na região central do Rio de Janeiro"
+title: PF estoura bingo clandestino na região central do Rio de Janeiro
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Na quarta-feira, 17/6, policiais federais desmantelaram um cassino clandestino com diversas máquinas caça níqueis no bairro do Estácio, Zona Central do Rio de Janeiro.
 

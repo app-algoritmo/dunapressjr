@@ -1,11 +1,13 @@
 ---
-title: "Líderes do Canadá e da Polônia discutem mais assistência à Ucrânia e segurança energética"
+title: Líderes do Canadá e da Polônia discutem mais assistência à Ucrânia e segurança
+  energética
 date: 2024-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante um encontro na Base das Forças Canadenses de Esquimalt, o primeiro-ministro canadense Justin Trudeau e o presidente polonês Andrzej Duda discutiram questões relacionadas ao aumento da assistência à Ucrânia, conforme comunicado pelo serviço de imprensa do governo canadense.
 

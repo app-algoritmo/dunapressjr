@@ -1,11 +1,12 @@
 ---
-title: "5 dicas para aumentar a imunidade dos pequenos"
+title: 5 dicas para aumentar a imunidade dos pequenos
 date: 2021-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## Alimentação variada e saudável é a principal forma de proteger o sistema imunológico e garantir um desenvolvimento saudável.
 

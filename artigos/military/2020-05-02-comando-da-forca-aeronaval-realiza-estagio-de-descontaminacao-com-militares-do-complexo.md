@@ -1,11 +1,13 @@
 ---
-title: "Comando da Força Aeronaval realiza Estágio de Descontaminação com militares do Complexo"
+title: Comando da Força Aeronaval realiza Estágio de Descontaminação com militares
+  do Complexo
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Dando continuidade às ações de enfrentamento à Covid-19, o Comando da Força Aeronaval promoveu um Estágio de Descontaminação para os militares do Complexo. O adestramento, ministrado pela Equipe Móvel de Instrutores do Centro de Adestramento Almirante Marques de Leão, ocorreu no período de 27 a 30 de abril, e teve por objetivo qualificar militares da Aviação Naval, especialistas em Defesa Nuclear, Biológica, Química e Radiológica, para compor a Unidade de Descontaminação Volante da Esquadra.
 

@@ -1,11 +1,13 @@
 ---
-title: "<em>Dragon Dreaming</em>: metodologia incentiva entrosamento de equipes e ambiente saudável nas empresas"
+title: '<em>Dragon Dreaming</em>: metodologia incentiva entrosamento de equipes e
+  ambiente saudável nas empresas'
 date: 2022-09-01
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 Sonhar não custa nada, mas pode gerar benefícios quando um desejo é compartilhado por toda uma equipe empresarial. Isso é o que acreditam os adeptos do *Dragon Dreaming*, uma metodologia de desenvolvimento de projetos que tem como princípios o crescimento pessoal, a formação de comunidades e o cuidado com o planeta Terra. 
 

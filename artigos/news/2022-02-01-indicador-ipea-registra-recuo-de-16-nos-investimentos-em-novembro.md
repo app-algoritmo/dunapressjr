@@ -1,11 +1,12 @@
 ---
-title: "Indicador Ipea registra recuo de 1,6% nos investimentos em novembro"
+title: Indicador Ipea registra recuo de 1,6% nos investimentos em novembro
 date: 2022-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, o investimento em máquinas e equipamentos aumentou 27,9%.
 

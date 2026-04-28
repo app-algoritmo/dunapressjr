@@ -1,11 +1,12 @@
 ---
-title: "Caldas Aulete, o melhor da língua portuguesa"
+title: Caldas Aulete, o melhor da língua portuguesa
 date: 2018-08-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Para o Grupo Duna a promoção e a difusão da língua portuguesa é uma missão. Para todos os professores, estudantes e todos os que querem estudar a língua portuguesa recomendamos:
 

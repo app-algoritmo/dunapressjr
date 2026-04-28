@@ -1,11 +1,12 @@
 ---
-title: "Exploração Espacial: Viagens Espaciais e Estudos de Motores de Dobra Espacial"
+title: 'Exploração Espacial: Viagens Espaciais e Estudos de Motores de Dobra Espacial'
 date: 2023-12-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 A exploração espacial tem sido uma área de interesse e pesquisa fascinante para a humanidade. Desde os primeiros passos na Lua até a exploração de planetas distantes, a humanidade tem procurado constantemente expandir os limites de nossa compreensão e alcançar o desconhecido. Neste artigo, vamos discutir a exploração espacial, viagens espaciais e os estudos em andamento para espaçonaves com motores de dobra espacial.
 

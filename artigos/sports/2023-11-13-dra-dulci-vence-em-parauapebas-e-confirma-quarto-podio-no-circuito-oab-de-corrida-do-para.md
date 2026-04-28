@@ -1,11 +1,13 @@
 ---
-title: "Dra. Dulci vence em Parauapebas e confirma quarto pódio no Circuito OAB de Corrida do Pará"
+title: Dra. Dulci vence em Parauapebas e confirma quarto pódio no Circuito OAB de
+  Corrida do Pará
 date: 2023-11-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Advogada e professora de Belém foi campeã na categoria Advogada Máster da prova de 7 km realizada neste domingo (12).
 

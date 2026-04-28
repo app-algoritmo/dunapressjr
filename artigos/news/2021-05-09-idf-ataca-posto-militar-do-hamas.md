@@ -1,11 +1,12 @@
 ---
-title: "IDF ataca posto militar do Hamas"
+title: IDF ataca posto militar do Hamas
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O ataque vem em resposta a um foguete que foi disparado da Faixa de Gaza em direção ao território israelense.
 

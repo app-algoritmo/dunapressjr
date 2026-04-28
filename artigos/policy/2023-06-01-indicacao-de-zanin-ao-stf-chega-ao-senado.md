@@ -1,11 +1,12 @@
 ---
-title: "Indicação de Zanin ao STF chega ao Senado"
+title: Indicação de Zanin ao STF chega ao Senado
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Foi publicada nesta quinta-feira (1º), em edição extra do *Diário Oficial da União*, a indicação do advogado Cristiano Zanin para uma vaga de ministro do Supremo Tribunal Federal (STF). O indicado pelo presidente Luiz Inácio Lula da Silva, se for aprovado pelo Senado, ocupará a vaga decorrente da aposentadoria do ministro Ricardo Lewandowski.
 

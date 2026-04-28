@@ -1,11 +1,12 @@
 ---
-title: "Feriados: conheça os acessórios essenciais para uma viagem segura de carro"
+title: 'Feriados: conheça os acessórios essenciais para uma viagem segura de carro'
 date: 2023-11-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Com tráfego intenso nas estradas, verificar e revisar os itens de segurança obrigatórios reduzem acidentes e evitam multas.
 

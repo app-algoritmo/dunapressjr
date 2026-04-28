@@ -1,11 +1,12 @@
 ---
-title: "Ala 11 da Força Aérea apoia empresas aéreas em função da pandemia do Coronavírus"
+title: Ala 11 da Força Aérea apoia empresas aéreas em função da pandemia do Coronavírus
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O pátio operacional da Ala 11 – Base Aérea do Galeão, no Rio de Janeiro (RJ), recebeu nesta quinta-feira (09/04), 13 aeronaves da empresa LATAM, dos modelos A319, A320 e A321. A ação cumpre o que prevê a Medida Provisória nº 945, de 4 de abril de 2020, que dispõe sobre medidas temporárias em resposta à pandemia decorrente da COVID-19, no âmbito do setor portuário e sobre a cessão de pátios sob administração militar.
 

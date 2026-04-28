@@ -1,11 +1,12 @@
 ---
-title: "CNC: intenção de consumo das famílias tem ligeira alta em fevereiro"
+title: 'CNC: intenção de consumo das famílias tem ligeira alta em fevereiro'
 date: 2022-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segunda alta seguida leva indicador ao maior nível desde maio de 2020.
 

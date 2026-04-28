@@ -1,11 +1,12 @@
 ---
-title: "O Diário de Anne Frank, o diário mais famoso do mundo"
+title: O Diário de Anne Frank, o diário mais famoso do mundo
 date: 2020-02-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 *Anne não apenas manteve simplesmente um diário. Ela também escreveu contos e planejava publicar um livro sobre seu tempo no Anexo Secreto. Após a guerra seu pai, Otto Frank, cumpriu seu desejo.*
 

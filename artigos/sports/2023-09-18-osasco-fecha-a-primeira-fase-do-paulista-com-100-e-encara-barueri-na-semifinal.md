@@ -1,12 +1,13 @@
 ---
-title: "Osasco fecha a primeira fase do Paulista com 100% e encara Barueri na semifinal"
+title: Osasco fecha a primeira fase do Paulista com 100% e encara Barueri na semifinal
 date: 2023-09-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar bateu Sorocaba por 3 sets a 1 e segue invicta para lutar por uma vaga na decisão Estadual.
 

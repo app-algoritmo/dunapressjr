@@ -1,11 +1,12 @@
 ---
-title: "Programa Voo Simples traz regras mais modernas para o setor da aviação brasileira"
+title: Programa Voo Simples traz regras mais modernas para o setor da aviação brasileira
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Regras mais modernas para simplificar, desburocratizar e atrair investimentos para a aviação geral brasileira. No Palácio do Planalto, foi lançado, nesta quarta-feira (7), o programa Voo Simples, que traz mais de 50 medidas que vão ajudar a reduzir os custos do setor, os impactos causados pela Covid-19 e gerar mais empregos.
 

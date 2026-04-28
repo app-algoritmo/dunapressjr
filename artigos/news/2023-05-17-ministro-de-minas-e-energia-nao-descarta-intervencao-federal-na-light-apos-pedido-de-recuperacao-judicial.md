@@ -1,11 +1,13 @@
 ---
-title: "Ministro de Minas e Energia não descarta intervenção federal na Light após pedido de recuperação judicial"
+title: Ministro de Minas e Energia não descarta intervenção federal na Light após
+  pedido de recuperação judicial
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com dívida de R$ 11 bilhões, empresa de energia que abastece 31 cidades do Rio de Janeiro enfrenta dificuldades financeiras e busca antecipação da renovação da concessão.
 

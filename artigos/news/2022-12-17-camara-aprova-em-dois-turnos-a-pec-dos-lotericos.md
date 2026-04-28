@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova em dois turnos a PEC dos Lotéricos"
+title: Câmara aprova em dois turnos a PEC dos Lotéricos
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quinta-feira (15), em dois turnos, a PEC dos Lotéricos para conceder prazo de vigência adicional a contratos atuais de todos os agentes lotéricos com a Caixa Econômica Federal. A proposta será enviada ao Senado.
 

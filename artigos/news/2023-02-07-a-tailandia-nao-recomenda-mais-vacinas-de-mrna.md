@@ -1,11 +1,12 @@
 ---
-title: "A Tailândia não recomenda mais vacinas de mRNA"
+title: A Tailândia não recomenda mais vacinas de mRNA
 date: 2023-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Covid-19 se tornará sazonal e as pessoas em risco devem ser vacinadas anualmente porque a vacina de mRNA causa mais complicações do que as vacinas anteriores, de acordo com um conhecido virologista.
 

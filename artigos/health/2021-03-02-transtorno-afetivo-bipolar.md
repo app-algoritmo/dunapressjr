@@ -1,11 +1,12 @@
 ---
-title: "Transtorno Afetivo Bipolar"
+title: Transtorno Afetivo Bipolar
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Transtorno Afetivo Bipolar é uma doença que caracteriza-se por episódios repetidos, nos quais o humor e os níveis de atividade do paciente estão significativamente perturbados. Esta alteração consiste em algumas ocasiões, de uma elevação do humor e aumento de energia e atividade (mania ou hipomania) e em outras de um rebaixamento do humor e diminuição de energia e atividade (depressão).
 

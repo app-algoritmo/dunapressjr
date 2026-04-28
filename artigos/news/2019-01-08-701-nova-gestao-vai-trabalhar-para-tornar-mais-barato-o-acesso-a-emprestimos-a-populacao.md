@@ -1,11 +1,13 @@
 ---
-title: "7.01 Nova gestão vai trabalhar para tornar mais barato o acesso a empréstimos à população"
+title: 7.01 Nova gestão vai trabalhar para tornar mais barato o acesso a empréstimos
+  à população
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Paulo Guedes: "Bancos públicos vão corrigir mercado de crédito"
 

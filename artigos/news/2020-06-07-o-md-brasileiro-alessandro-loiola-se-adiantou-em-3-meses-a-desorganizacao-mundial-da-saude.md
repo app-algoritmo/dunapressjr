@@ -1,11 +1,13 @@
 ---
-title: "O MD Brasileiro Alessandro Loiola se adiantou em 3 meses  à desorganização mundial da saúde"
+title: O MD Brasileiro Alessandro Loiola se adiantou em 3 meses  à desorganização
+  mundial da saúde
 date: 2020-06-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## OMS atualiza orientações sobre máscaras para profissionais de saúde e público - eis o que você precisa saber
 

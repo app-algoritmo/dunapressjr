@@ -1,11 +1,12 @@
 ---
-title: "A pedra encontrada em Israel é a ferramenta mais antiga conhecida no mundo"
+title: A pedra encontrada em Israel é a ferramenta mais antiga conhecida no mundo
 date: 2021-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Os arqueólogos determinam que o calçamento de 350.000 anos foi usado pelos hominídeos enquanto trabalhavam em materiais macios no local do Monte Carmelo; exatamente o que eles estavam produzindo permanece um mistério.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai para menor nível em dois meses com temor de recessão global"
+title: Bolsa cai para menor nível em dois meses com temor de recessão global
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dólar fecha a R$ 5,37, com estabilidade após dia volátil.
 

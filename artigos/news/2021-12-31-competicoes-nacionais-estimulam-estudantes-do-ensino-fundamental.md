@@ -1,11 +1,12 @@
 ---
-title: "Competições nacionais estimulam estudantes do Ensino Fundamental"
+title: Competições nacionais estimulam estudantes do Ensino Fundamental
 date: 2021-12-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Trazer o estudante para o centro da própria vida escolar e torná-lo sujeito ativo de sua Educação. Um dos principais desafios para professores e equipes pedagógicas, essa mudança na forma de encarar o ensino tornou-se ainda mais necessária e urgente durante os últimos dois anos, quando os jovens precisaram, muitas vezes, buscar mais proximidade com os educadores para dar conta das aulas on-line e híbridas.
 

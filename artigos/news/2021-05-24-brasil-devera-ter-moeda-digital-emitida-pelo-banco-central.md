@@ -1,11 +1,12 @@
 ---
-title: "Brasil deverá ter moeda digital emitida pelo Banco Central"
+title: Brasil deverá ter moeda digital emitida pelo Banco Central
 date: 2021-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## BC divulgou hoje as diretrizes para criação da moeda no país
 

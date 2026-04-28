@@ -1,11 +1,12 @@
 ---
-title: "PF investiga prática de trabalho escravo e de tráfico de pessoas"
+title: PF investiga prática de trabalho escravo e de tráfico de pessoas
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Luís/MA - A Polícia Federal deu cumprimento, no sábado (23), a dois mandados de prisão preventiva emitidos pela 2ª Vara da Justiça Federal em São Luís/MA, relacionados ao inquérito policial que visa apurar a prática dos crimes de trabalho escravo e tráfico de pessoas, cometidos em São Luís/MA.
 

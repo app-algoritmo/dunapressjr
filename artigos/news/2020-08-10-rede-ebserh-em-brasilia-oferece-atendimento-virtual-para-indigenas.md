@@ -1,11 +1,12 @@
 ---
-title: "Rede Ebserh em Brasília oferece atendimento virtual para indígenas"
+title: Rede Ebserh em Brasília oferece atendimento virtual para indígenas
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Serviço conta com consultas em saúde mental e diversas especialidades, orientações sobre Covid-19 e discussões em grupo.
 

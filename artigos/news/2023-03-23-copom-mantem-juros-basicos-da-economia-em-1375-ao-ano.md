@@ -1,11 +1,12 @@
 ---
-title: "Copom mantém juros básicos da economia em 13,75% ao ano"
+title: Copom mantém juros básicos da economia em 13,75% ao ano
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pela quinta vez consecutiva taxa permanece inalterada.
 

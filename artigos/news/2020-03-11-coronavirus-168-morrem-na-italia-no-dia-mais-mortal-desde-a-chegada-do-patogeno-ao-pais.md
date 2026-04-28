@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, 168 morrem na Itália no dia mais mortal desde a chegada do patógeno ao país"
+title: Coronavírus, 168 morrem na Itália no dia mais mortal desde a chegada do patógeno
+  ao país
 date: 2020-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Itália registrou seu dia mais mortal da crise do coronavírus, apesar de fechar o país inteiro, enquanto que  Nova York implanta a Guarda Nacional para conter a doença.
 

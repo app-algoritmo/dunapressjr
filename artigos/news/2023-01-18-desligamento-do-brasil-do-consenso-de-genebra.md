@@ -1,11 +1,12 @@
 ---
-title: "Desligamento do Brasil do Consenso de Genebra"
+title: Desligamento do Brasil do Consenso de Genebra
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta terça-feira (17), o presidente Luiz Inácio Lula da Silva (PT) retirou o Brasil dos signatários da Declaração do Consenso de Genebra sobre Saúde da Mulher e Fortalecimento da Mulher, que, entre outros assuntos, se posicionava  contra o aborto.
 

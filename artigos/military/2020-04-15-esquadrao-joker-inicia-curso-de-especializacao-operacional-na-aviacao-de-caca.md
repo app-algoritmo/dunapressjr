@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão Joker inicia Curso de Especialização Operacional na Aviação de Caça"
+title: Esquadrão Joker inicia Curso de Especialização Operacional na Aviação de Caça
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O sol mal havia nascido na manhã da segunda-feira (13/04), quando o Comandante do 2°/5° GAv - Esquadrão Joker, localizado na Ala 10, em Parnamirim (RN), Tenente-Coronel José de Almeida Pimentel Neto, e o Aspirante a Oficial Breno Daneliu Ficagna Tavares se reuniram para realizar o primeiro voo dos estagiários do Curso de Especialização Operacional na Aviação de Caça (CEO-CA) do ano de 2020.
 

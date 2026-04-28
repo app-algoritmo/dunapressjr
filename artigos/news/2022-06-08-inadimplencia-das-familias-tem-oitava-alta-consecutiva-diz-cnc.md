@@ -1,11 +1,12 @@
 ---
-title: "Inadimplência das famílias tem oitava alta consecutiva, diz CNC"
+title: Inadimplência das famílias tem oitava alta consecutiva, diz CNC
 date: 2022-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Endividados representam 28,7% das famílias em maio.
 

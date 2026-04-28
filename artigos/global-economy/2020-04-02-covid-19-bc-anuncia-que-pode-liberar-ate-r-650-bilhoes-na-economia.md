@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: BC anuncia que pode liberar até R$ 650 bilhões na economia"
+title: 'Covid-19: BC anuncia que pode liberar até R$ 650 bilhões na economia'
 date: 2020-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Operações terão prazo de, no mínimo, 30 dias e, no máximo, 359 dias
 

@@ -1,11 +1,12 @@
 ---
-title: "Concessão de rodovias melhora estradas e gera aumento de empregos nos estados"
+title: Concessão de rodovias melhora estradas e gera aumento de empregos nos estados
 date: 2020-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *No Rio Grande do Sul, investimentos realizados nos 473,4 quilômetros das BRs 101/290/386 e 448 tiveram reflexo nos mais de 30 municípios da região*
 

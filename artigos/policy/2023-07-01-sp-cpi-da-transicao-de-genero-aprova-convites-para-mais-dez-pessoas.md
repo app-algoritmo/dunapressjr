@@ -1,11 +1,12 @@
 ---
-title: "SP: CPI da Transição de Gênero aprova convites para mais dez pessoas"
+title: 'SP: CPI da Transição de Gênero aprova convites para mais dez pessoas'
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Metade dos convidados é de especialistas da área médica; a CPI também quer ouvir autoridades jurídicas e uma mulher trans que busca a redesignação de sexo.
 

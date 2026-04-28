@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa revela, que turismo com pets vira tendência no Brasil"
+title: Pesquisa revela, que turismo com pets vira tendência no Brasil
 date: 2020-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Só quem tem bichinhos de estimação em casa sabe a alegria que eles trazem: eles são companhia, família, dão amor, brincam com as crianças. Por isso, como deixá-los para trás quando chega a hora de fazer turismo? Uma pesquisa realizada pelo Booking.com revelou que 51% dos entrevistados donos de pets só irão viajar em 2020 se puderem levar seus pequenos companheiros.
 

@@ -1,11 +1,12 @@
 ---
-title: "PIB brasileiro cresce 2,5% em fevereiro, impulsionado pela atividade agropecuária"
+title: PIB brasileiro cresce 2,5% em fevereiro, impulsionado pela atividade agropecuária
 date: 2023-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Consumo das famílias e investimentos também contribuíram para alta de 2,7% no trimestre encerrado em fevereiro deste ano
 

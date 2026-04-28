@@ -1,11 +1,12 @@
 ---
-title: "A face oculta do Black Lives Matter"
+title: A face oculta do Black Lives Matter
 date: 2026-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Análise abrangente sobre o impacto global e as polêmicas em torno do movimento "antirracista**.**
 

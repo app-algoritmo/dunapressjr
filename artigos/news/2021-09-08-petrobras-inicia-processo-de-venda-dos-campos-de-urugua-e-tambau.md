@@ -1,11 +1,12 @@
 ---
-title: "Petrobras inicia processo de venda dos campos de Uruguá e Tambaú"
+title: Petrobras inicia processo de venda dos campos de Uruguá e Tambaú
 date: 2021-09-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A concessão BS-500 está localizada na Bacia de Santos, no Rio.
 

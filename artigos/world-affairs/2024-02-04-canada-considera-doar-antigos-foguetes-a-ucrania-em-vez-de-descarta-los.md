@@ -1,11 +1,12 @@
 ---
-title: "Canadá Considera Doar Antigos Foguetes à Ucrânia em Vez de Descartá-los"
+title: Canadá Considera Doar Antigos Foguetes à Ucrânia em Vez de Descartá-los
 date: 2024-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Canadá está explorando a possibilidade de doar foguetes de ataque ar-solo CRV7, fabricados na década de 1970, à Ucrânia, em vez de descartá-los. Este artigo analisa a iniciativa, revelando os detalhes por trás da potencial transferência desses projéteis, desativados desde os anos 2000, para Kiev, e a reação da liderança política canadense.
 

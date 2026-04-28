@@ -1,11 +1,13 @@
 ---
-title: "Projeto limita custeio de funcionário público a serviço de ex-presidente do Brasil no exterior"
+title: Projeto limita custeio de funcionário público a serviço de ex-presidente do
+  Brasil no exterior
 date: 2023-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 775/23, do deputado Merlong Solano (PT-PI) e [outros 16 parlamentares](https://www.camara.leg.br/proposicoesWeb/prop_autores?idProposicao=2349754), limita a 30 dias o custeio dos benefícios aos ex-presidentes da República com servidores públicos quando eles se encontrarem no exterior e em atividades de caráter privado.
 

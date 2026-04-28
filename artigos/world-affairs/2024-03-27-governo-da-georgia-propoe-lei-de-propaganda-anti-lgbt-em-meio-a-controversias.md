@@ -1,11 +1,12 @@
 ---
-title: "Governo da Geórgia Propõe Lei de Propaganda Anti-LGBT em Meio a Controvérsias"
+title: Governo da Geórgia Propõe Lei de Propaganda Anti-LGBT em Meio a Controvérsias
 date: 2024-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, o governo da Geórgia, no Cáucaso, provocou controvérsia ao apresentar um projeto de lei de propaganda anti-LGBT, em meio a acusações de grupos de defesa LGBT de desestabilizar o país com tal propaganda.
 

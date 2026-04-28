@@ -1,11 +1,12 @@
 ---
-title: "A Face Oculta de Napoleão Bonaparte"
+title: A Face Oculta de Napoleão Bonaparte
 date: 2024-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Video library
+- Video library
 ---
+
 
 Napoleão Bonaparte, uma figura complexa e controversa da história mundial, deixou uma marca indelével nos eventos que marcaram o início do século XIX. Este texto histórico explora diversos aspectos da vida e do legado de Napoleão, com base em fontes variadas que oferecem perspectivas diversas sobre o imperador francês.
 

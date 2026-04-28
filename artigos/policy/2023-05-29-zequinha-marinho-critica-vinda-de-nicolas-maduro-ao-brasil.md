@@ -1,11 +1,12 @@
 ---
-title: "Zequinha Marinho critica vinda de Nicolás Maduro ao Brasil"
+title: Zequinha Marinho critica vinda de Nicolás Maduro ao Brasil
 date: 2023-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (PL-PA) criticou em pronunciamento nesta segunda-feira (29) a presença de Nicolás Maduro, presidente da Venezuela, na cúpula de líderes da América do Sul. O evento vai acontecer na terça-feira (30) em Brasília. Para o parlamentar, o Brasil "deu mais um exemplo de retrocesso e ataque frontal à democracia ao receber Maduro com tapete vermelho e honras de chefe de Estado".
 

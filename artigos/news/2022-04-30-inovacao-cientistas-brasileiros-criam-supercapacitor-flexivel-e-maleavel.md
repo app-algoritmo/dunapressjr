@@ -1,11 +1,12 @@
 ---
-title: "Inovação: Cientistas brasileiros criam supercapacitor flexível e maleável"
+title: 'Inovação: Cientistas brasileiros criam supercapacitor flexível e maleável'
 date: 2022-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um grupo de pesquisadores brasileiros, da Universidade Federal de Pelotas (UFPel) e da Universidade Federal do Rio Grande (Furg), em parceria com pesquisadores da *University of Surrey*, na Inglaterra, desenvolveram um dispositivo chamado de supercapacitor, uma espécie de superbateria, flexível e maleável, com capacidade de armazenamento de energia muito mais rápida que as baterias convencionais.
 

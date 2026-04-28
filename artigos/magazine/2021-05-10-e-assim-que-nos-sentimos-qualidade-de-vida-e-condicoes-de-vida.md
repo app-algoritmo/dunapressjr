@@ -1,11 +1,12 @@
 ---
-title: "É assim que nos sentimos - qualidade de vida e condições de vida"
+title: É assim que nos sentimos - qualidade de vida e condições de vida
 date: 2021-05-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 -A vida consiste em diferentes pilares ou áreas da vida, todos importantes para a forma de como nos sentimos. É sobre as relações que temos com outras pessoas, tanto as mais próximas como em geral, e se temos a oportunidade de nos recuperar "entre batalhas". A saúde mental e física pode colocar limites no desenvolvimento da vida. A forma como nos sentimos pode estar ligada ao lugar onde vivemos, a casa e o ambiente local, e se nos sentimos seguros - física, social e materialmente. A forma como nos sentimos quando estamos no trabalho afeta a qualidade de vida, assim como não ter a oportunidade de participar da vida profissional. Por meio do trabalho, da educação e da participação em atividades voluntárias ou políticas, podemos contribuir com a comunidade, além de nos usar e desenvolver. Nesta página temática, é fornecida uma visão geral das condições e qualidade de vida da população norueguesa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Diversão e nostalgia: O remake de Dai No Daibouken"
+title: 'Diversão e nostalgia: O remake de Dai No Daibouken'
 date: 2026-04-28
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 Há muito tempo, um demônio usou sua magia para formar um poderoso exército com o intuito de controlar a terra.
 

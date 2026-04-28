@@ -1,11 +1,12 @@
 ---
-title: "Projeto proíbe queima de fogos em eventos públicos ou privados"
+title: Projeto proíbe queima de fogos em eventos públicos ou privados
 date: 2023-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 175/23 proíbe a queima de fogos de artifício em eventos públicos e privados (fechados ou abertos) e atribui ao poder público a competência de definir em quais casos será permitido o uso.
 

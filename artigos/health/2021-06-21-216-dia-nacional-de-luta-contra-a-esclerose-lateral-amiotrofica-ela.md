@@ -1,11 +1,12 @@
 ---
-title: "21/6: Dia Nacional de Luta Contra a Esclerose Lateral Amiotrófica (ELA)"
+title: '21/6: Dia Nacional de Luta Contra a Esclerose Lateral Amiotrófica (ELA)'
 date: 2021-06-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Esclerose Lateral Amiotrófica (ELA) é uma doença que afeta o sistema nervoso de forma degenerativa e progressiva e acarreta paralisia motora irreversível. Esclerose significa endurecimento; lateral, porque a doença começa geralmente em um dos lados do corpo e amiotrófica, porque resulta na atrofia dos músculos.
 

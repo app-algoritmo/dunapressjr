@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto caem 12,6% em setembro"
+title: Vendas do Tesouro Direto caem 12,6% em setembro
 date: 2023-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No mês passado, foram vendidos R$ 3,199 bi em títulos.
 

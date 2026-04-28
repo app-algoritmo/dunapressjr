@@ -1,11 +1,12 @@
 ---
-title: "A parábola da caveira - ‘tua boca te matou’ | δολοφονικό στόμα"
+title: A parábola da caveira - ‘tua boca te matou’ | δολοφονικό στόμα
 date: 2020-06-07
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Δολοφονικό Στόμα (A Boca Assassina)**
 

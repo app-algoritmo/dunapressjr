@@ -1,11 +1,12 @@
 ---
-title: "Petrobras e estatais chinesas arrematam maior bloco da cessão onerosa"
+title: Petrobras e estatais chinesas arrematam maior bloco da cessão onerosa
 date: 2019-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O maior bloco oferecido hoje (6), no Rio de Janeiro, no
 leilão dos excedentes da Cessão Onerosa do pré-sal foi arrematado com o lance

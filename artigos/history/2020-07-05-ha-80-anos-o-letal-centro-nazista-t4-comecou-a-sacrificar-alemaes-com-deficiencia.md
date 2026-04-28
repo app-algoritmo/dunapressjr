@@ -1,11 +1,12 @@
 ---
-title: "Há 80 anos, o letal centro nazista T4 começou a sacrificar alemães com deficiência"
+title: Há 80 anos, o letal centro nazista T4 começou a sacrificar alemães com deficiência
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Oitenta anos atrás, o mais letal centro de eutanásia "T4" começou a implementar "mortes misericordiosas" para alemães com deficiência física e mental.
 

@@ -1,11 +1,12 @@
 ---
-title: "Onde mulheres e agredidos devem recorrer em casos de violência"
+title: Onde mulheres e agredidos devem recorrer em casos de violência
 date: 2020-05-11
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Sabemos que a epidemia e *Lockdown* na maior parte do Brasil gera um problema ainda maior do tema da violência doméstica. Há dezenas de relatos em aumentos dos índices de violência, principalmente contra a mulher e crianças.
 

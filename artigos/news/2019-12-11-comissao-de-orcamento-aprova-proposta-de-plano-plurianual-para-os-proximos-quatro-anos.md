@@ -1,11 +1,13 @@
 ---
-title: "Comissão de Orçamento aprova proposta de Plano Plurianual para os próximos quatro anos"
+title: Comissão de Orçamento aprova proposta de Plano Plurianual para os próximos
+  quatro anos
 date: 2019-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No total, a proposta do governo Bolsonaro representa ações no valor de R$ 6,8 trilhões no período de quatro anos 
 

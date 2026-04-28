@@ -1,11 +1,12 @@
 ---
-title: "Itamaraty receberá R$ 4,6 bi para pagar dívida com órgão internacional"
+title: Itamaraty receberá R$ 4,6 bi para pagar dívida com órgão internacional
 date: 2022-12-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Verba será liberada pelo Ministério da Economia.
 

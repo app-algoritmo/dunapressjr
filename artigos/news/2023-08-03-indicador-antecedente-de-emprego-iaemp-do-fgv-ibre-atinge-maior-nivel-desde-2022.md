@@ -1,11 +1,13 @@
 ---
-title: "Indicador Antecedente de Emprego (IAEmp) do FGV IBRE atinge maior nível desde 2022"
+title: Indicador Antecedente de Emprego (IAEmp) do FGV IBRE atinge maior nível desde
+  2022
 date: 2023-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Após oscilar em torno dos 75 pontos, o IAEmp registra segunda alta consecutiva em julho, alcançando 78,0 pontos.
 

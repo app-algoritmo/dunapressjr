@@ -1,11 +1,12 @@
 ---
-title: "Rio: governador pede para denunciarem postos que não baixarem gasolina"
+title: 'Rio: governador pede para denunciarem postos que não baixarem gasolina'
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estado autuou 45 postos que não baixaram os preços.
 

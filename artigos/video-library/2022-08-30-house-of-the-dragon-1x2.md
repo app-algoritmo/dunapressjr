@@ -1,11 +1,12 @@
 ---
-title: "House Of The Dragon 1X2"
+title: House Of The Dragon 1X2
 date: 2022-08-30
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Cozinhando em Fogo Brando
 

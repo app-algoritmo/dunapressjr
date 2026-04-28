@@ -1,11 +1,12 @@
 ---
-title: "Romário faz apelo ao STF contra retorno do rol taxativo nos planos de saúde"
+title: Romário faz apelo ao STF contra retorno do rol taxativo nos planos de saúde
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Romário (PL-RJ) se manifestou em sessão plenária nesta quarta-feira (4) contra uma tentativa das empresas de planos de saúde de retomar o chamado “rol taxativo” de tratamentos. O rol taxativo foi derrubado pela [Lei 14.454, de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-09-21;14454), mas uma ação no Supremo Tribunal Federal (STF) pode restabelecê-lo.
 

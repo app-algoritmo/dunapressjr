@@ -1,11 +1,12 @@
 ---
-title: "Indígenas contam com central de atendimento específica para combate à covid-19"
+title: Indígenas contam com central de atendimento específica para combate à covid-19
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fundação Nacional do Índio (Funai) passou a contar com uma Central de Atendimento específica para solicitações dos povos indígenas relacionadas ao combate à covid-19. A intenção é fazer com que as informações cheguem no menor tempo possível aos órgãos competentes, possibilitando o atendimento imediato das demandas.
 

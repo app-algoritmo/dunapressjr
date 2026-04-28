@@ -1,11 +1,12 @@
 ---
-title: "Para Moro é preciso discutir o papel do Judiciário na segurança pública"
+title: Para Moro é preciso discutir o papel do Judiciário na segurança pública
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sergio Moro (União-PR) chamou a atenção para a necessidade de se discutir o papel do Poder Judiciário na segurança pública. Em pronunciamento na quarta-feira (25), o parlamentar afirmou que é preciso uma reflexão, já que algumas decisões recentes do Judiciário são “passíveis de críticas acirradas”.
 

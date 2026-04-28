@@ -1,11 +1,12 @@
 ---
-title: "5 dicas para impactar o público em um evento empresarial"
+title: 5 dicas para impactar o público em um evento empresarial
 date: 2022-06-13
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Events
+- Events
 ---
+
 
 Após um longo período de desafios para o setor de eventos, a promoção de feiras, simpósios, congressos e celebrações em geral tendem a voltar a crescer em 2022. Segundo dados da Associação Brasileira de Promotores de Eventos, a estimativa é de que ocorra a retomada total do setor, que espera a realização de cerca de 440 mil eventos até o final do ano. 
 

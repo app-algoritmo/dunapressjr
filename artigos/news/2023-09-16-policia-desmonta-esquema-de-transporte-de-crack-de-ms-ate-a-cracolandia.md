@@ -1,11 +1,12 @@
 ---
-title: "Polícia desmonta esquema de transporte de crack de MS até a Cracolândia"
+title: Polícia desmonta esquema de transporte de crack de MS até a Cracolândia
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Na ação, foram capturadas quatro pessoas em flagrante, com a apreensão de 1,7 kg de crack, além de R$ 25.965 em dinheiro.
 

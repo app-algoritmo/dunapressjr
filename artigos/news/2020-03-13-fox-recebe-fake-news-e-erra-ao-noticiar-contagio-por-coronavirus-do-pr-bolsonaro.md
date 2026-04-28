@@ -1,11 +1,12 @@
 ---
-title: "Fox recebe fake news e erra ao noticiar contágio por coronavírus do PR Bolsonaro"
+title: Fox recebe fake news e erra ao noticiar contágio por coronavírus do PR Bolsonaro
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em transmissão, o Dep Eduardo Bolsonaro desmente as notícias da extrema imprensa brasileira e twitters subversivos. 
 

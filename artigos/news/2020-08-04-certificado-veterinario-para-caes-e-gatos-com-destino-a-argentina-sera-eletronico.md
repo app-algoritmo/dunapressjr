@@ -1,11 +1,12 @@
 ---
-title: "Certificado Veterinário para cães e gatos com destino à Argentina será eletrônico"
+title: Certificado Veterinário para cães e gatos com destino à Argentina será eletrônico
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A medida vale a partir da próxima segunda-feira (10) para embarque aéreo dos animais. Atualmente, o documento eletrônico é expedido para viagens dos animais de estimação somente aos Estados Unidos.
 

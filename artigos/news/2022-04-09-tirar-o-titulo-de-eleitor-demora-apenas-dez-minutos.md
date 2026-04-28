@@ -1,11 +1,12 @@
 ---
-title: "Tirar o título de eleitor demora apenas dez minutos"
+title: Tirar o título de eleitor demora apenas dez minutos
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O estudante do terceiro ano do ensino médio Lucas de Lima, de 17 anos, morador de Brasília (DF), precisou apenas de dez minutos para tirar o título de eleitor. Mesmo sem completar 18 neste ano, Lucas resolveu ir atrás do documento, porque quer votar nas Eleições Gerais de 2022 para ajudar a decidir o futuro do Brasil.
 

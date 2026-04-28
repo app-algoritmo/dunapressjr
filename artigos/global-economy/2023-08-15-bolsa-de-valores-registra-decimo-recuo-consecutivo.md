@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores registra décimo recuo consecutivo"
+title: Bolsa de valores registra décimo recuo consecutivo
 date: 2023-08-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar se aproxima dos R$ 5,00.
 

@@ -1,11 +1,12 @@
 ---
-title: "Operação Verde Brasil 2 soma 17,3 mil metros cúbicos de madeira ilegal apreendida"
+title: Operação Verde Brasil 2 soma 17,3 mil metros cúbicos de madeira ilegal apreendida
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Verde Brasil 2 chegou à soma, nesta segunda-feira (15), de 17,3 mil metros cúbicos apreendidos de madeira extraída ilegalmente. A Operação, deflagrada em 11 de maio pelo Governo Federal e coordenada pela Vice-Presidência da República, inspecionou mais de 2,5 mil embarcações, sendo que 118 forma apreendidas. Nos postos de bloqueio e controle de estradas, mais de 5,2 mil veículos foram vistoriados e 131 retidos. Até o momento, mais de R$ 166 milhões foram aplicados em multas e termos de infração. O Comando de Operações Aeroespaciais (COMAE) coordenou mais de 300 horas de voo durante a Operação, enquanto as aeronaves de Asas Rotativas das três Forças somam 420 horas de voo.
 

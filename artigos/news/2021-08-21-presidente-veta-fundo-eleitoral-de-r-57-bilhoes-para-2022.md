@@ -1,11 +1,12 @@
 ---
-title: "Presidente veta fundo eleitoral de R$ 5,7 bilhões para 2022"
+title: Presidente veta fundo eleitoral de R$ 5,7 bilhões para 2022
 date: 2021-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente sancionou parcialmente a Lei de Diretrizes Orçamentárias.
 

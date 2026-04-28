@@ -1,11 +1,12 @@
 ---
-title: "Governo investe mais de R$ 8 milhões para apoiar promoção de destinos turísticos"
+title: Governo investe mais de R$ 8 milhões para apoiar promoção de destinos turísticos
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pela primeira vez na história, o Ministério do Turismo ofereceu apoio financeiro para ações de promoção de destinos turísticos brasileiros a todas as unidades da Federação, de uma só vez. O resultado foi a assinatura de convênio com 16 estados e o Distrito Federal, um investimento de R$ 8,3 milhões. Os recursos devem apoiar as secretarias estaduais de Turismo na construção de campanhas promocionais tanto de rotas turísticas quanto de produtos regionais, com foco no turismo interno e de proximidade (curta distância) que, seguindo tendências mundiais, será um dos principais impulsionadores na retomada do turismo.
 

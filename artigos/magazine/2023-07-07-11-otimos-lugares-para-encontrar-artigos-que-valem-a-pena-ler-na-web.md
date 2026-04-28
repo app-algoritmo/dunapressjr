@@ -1,11 +1,12 @@
 ---
-title: "11 Ótimos Lugares para Encontrar Artigos que Valem a Pena Ler na Web"
+title: 11 Ótimos Lugares para Encontrar Artigos que Valem a Pena Ler na Web
 date: 2023-07-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Se você é um ávido leitor em busca de conteúdo relevante e de qualidade, está no lugar certo! Neste artigo, vamos compartilhar com você 11 ótimos lugares na web onde você pode encontrar artigos que valem a pena ler. Prepare-se para mergulhar em informações interessantes e envolventes!
 

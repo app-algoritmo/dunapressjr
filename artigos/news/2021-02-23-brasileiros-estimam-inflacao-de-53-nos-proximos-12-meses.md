@@ -1,11 +1,12 @@
 ---
-title: "Brasileiros estimam inflação de 5,3% nos próximos 12 meses"
+title: Brasileiros estimam inflação de 5,3% nos próximos 12 meses
 date: 2021-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é maior que expectativa inflacionária de janeiro: 5,2%.
 

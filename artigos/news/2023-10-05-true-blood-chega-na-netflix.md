@@ -1,12 +1,13 @@
 ---
-title: "True Blood Chega na Netflix"
+title: True Blood Chega na Netflix
 date: 2023-10-05
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

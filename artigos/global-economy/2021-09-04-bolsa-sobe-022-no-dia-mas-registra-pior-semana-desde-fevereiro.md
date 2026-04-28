@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 0,22% no dia, mas registra pior semana desde fevereiro"
+title: Bolsa sobe 0,22% no dia, mas registra pior semana desde fevereiro
 date: 2021-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fechou estável, vendido a R$ 5,18.
 

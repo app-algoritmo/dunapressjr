@@ -1,11 +1,12 @@
 ---
-title: "Os “departamentos médicos” da OTAN desenvolveram poeira inteligente nanoparticulada"
+title: Os “departamentos médicos” da OTAN desenvolveram poeira inteligente nanoparticulada
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 [Este é o Dr. Giordano](https://www.youtube.com/watch?v=Ez4m_NqSRCU) sobre como ele e os seus colegas nos departamentos médicos da OTAN criaram poeira inteligente nanoparticulada que pode desencadear epidemias de AVC no que ele chama de "arranjo difuso", o que significa que simplesmente... inundam a área e causam AVC em muitas pessoas.
 

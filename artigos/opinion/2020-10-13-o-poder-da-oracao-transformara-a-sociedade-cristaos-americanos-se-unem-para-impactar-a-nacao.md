@@ -1,11 +1,13 @@
 ---
-title: "O poder da Oração transformará a sociedade: Cristãos americanos se unem para impactar a nação"
+title: 'O poder da Oração transformará a sociedade: Cristãos americanos se unem para
+  impactar a nação'
 date: 2020-10-13
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra." (2 Crônicas 7:14)
 

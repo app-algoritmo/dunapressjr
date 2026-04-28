@@ -1,11 +1,12 @@
 ---
-title: "Boletim Regional mostra acomodação da economia no quarto trimestre"
+title: Boletim Regional mostra acomodação da economia no quarto trimestre
 date: 2022-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento é feito pelo Banco Central.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF investiga desvio de recursos do Fundo Municipal de Educação"
+title: PF investiga desvio de recursos do Fundo Municipal de Educação
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belém/PA - A Polícia Federal, em parceria com a Polícia Civil do Pará, deflagrou nesta quinta-feira (21/5) a operação Olho de Hórus, no município de Altamira/PA, com o fim de combater o desvio de recursos públicos, lavagem de dinheiro e fraudes em licitações do Fundo Municipal de Educação.
 

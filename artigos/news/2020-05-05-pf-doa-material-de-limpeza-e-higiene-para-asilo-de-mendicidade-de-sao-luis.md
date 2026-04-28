@@ -1,11 +1,12 @@
 ---
-title: "PF doa material de limpeza e higiene para Asilo de Mendicidade de São Luís"
+title: PF doa material de limpeza e higiene para Asilo de Mendicidade de São Luís
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Luís/MA - As entidades de classe e a Superintendência Regional da Polícia Federal no Maranhão realizaram nesta segunda-feira (4/5) a doação dos produtos comprados com o valor arrecadado pela campanha Ação Solidária – Asilo de Mendicidade de São Luís.
 

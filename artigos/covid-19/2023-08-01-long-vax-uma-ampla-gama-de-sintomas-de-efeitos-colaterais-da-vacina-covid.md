@@ -1,11 +1,12 @@
 ---
-title: "'Long Vax' uma ampla gama de sintomas de efeitos colaterais da vacina Covid"
+title: '''Long Vax'' uma ampla gama de sintomas de efeitos colaterais da vacina Covid'
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 As principais publicações e reguladores cederam à pressão pública e admitiram que a vacina COVID-19 pode causar lesões como miocardite e pericardite - mas até muito recentemente eles publicaram pouco ou nada sobre o número significativo de pessoas que sofrem de doenças autoimunes após vacinação.
 

@@ -1,12 +1,13 @@
 ---
-title: "Ministério da Mulher faz parceria com Clube de Regatas do Flamengo"
+title: Ministério da Mulher faz parceria com Clube de Regatas do Flamengo
 date: 2020-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
-  - Sports
+- Policy
+- Sports
 ---
+
 
 *Flamengo foi em campo pela Taça Rio, com a marca Ligue 180 estampada na manga da camisa do uniforme.* *Nas costas da camisa, ao invés do nome dos atletas, os uniformes tinham “marido da…”, ou “filho da...”, etc. Os atletas elegeram mulheres que, apesar de tão admiráveis quanto eles, são frequentemente reduzidas à “esposa de jogador”, ou à “mãe do atleta.*
 

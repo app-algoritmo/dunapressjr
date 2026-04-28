@@ -1,11 +1,12 @@
 ---
-title: "Trump garante alívio fiscal para moderar impacto do coronavírus"
+title: Trump garante alívio fiscal para moderar impacto do coronavírus
 date: 2020-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medidas são ajuda a industria holeteira, companhias aéreas e navios
 

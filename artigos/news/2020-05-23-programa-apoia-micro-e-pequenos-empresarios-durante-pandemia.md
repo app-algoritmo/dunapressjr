@@ -1,11 +1,12 @@
 ---
-title: "Programa apoia micro e pequenos empresários durante pandemia"
+title: Programa apoia micro e pequenos empresários durante pandemia
 date: 2020-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Lei sancionada pelo presidente Bolsonaro prevê recursos para financiamentos de pequenos negócios.
 

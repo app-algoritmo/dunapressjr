@@ -1,12 +1,13 @@
 ---
-title: "São Gonçalo Shopping e SEBRAE realizam evento de empreendedorismo"
+title: São Gonçalo Shopping e SEBRAE realizam evento de empreendedorismo
 date: 2023-04-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - News
+- Business and Economy
+- News
 ---
+
 
 ## Circuito de palestras reúne empresários e empreendedores de São Gonçalo.
 

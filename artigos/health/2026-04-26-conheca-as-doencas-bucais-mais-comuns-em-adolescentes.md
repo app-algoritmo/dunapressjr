@@ -1,11 +1,12 @@
 ---
-title: "Conheça as doenças bucais mais comuns em adolescentes"
+title: Conheça as doenças bucais mais comuns em adolescentes
 date: 2026-04-26
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Entre todas as dúvidas que ainda existem a respeito da higiene bucal, as mais recorrentes são como manter uma boca saudável de maneira correta e quais **doenças bucais** afetam essa região. 
 

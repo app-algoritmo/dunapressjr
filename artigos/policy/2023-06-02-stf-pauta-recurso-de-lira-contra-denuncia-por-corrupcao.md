@@ -1,11 +1,12 @@
 ---
-title: "STF pauta recurso de Lira contra denúncia por corrupção"
+title: STF pauta recurso de Lira contra denúncia por corrupção
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente da Câmara é acusado de receber R$ 106 mil em propina.
 

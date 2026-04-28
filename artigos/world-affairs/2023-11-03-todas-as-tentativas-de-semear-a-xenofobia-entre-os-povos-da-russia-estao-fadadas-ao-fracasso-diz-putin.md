@@ -1,11 +1,13 @@
 ---
-title: "Todas as tentativas de semear a xenofobia entre os povos da Rússia estão fadadas ao fracasso, diz Putin"
+title: Todas as tentativas de semear a xenofobia entre os povos da Rússia estão fadadas
+  ao fracasso, diz Putin
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A diversidade de línguas, religiões e costumes é a verdadeira riqueza da Rússia e, por isso, o Estado presta grande atenção à preservação da singularidade de cada etnia dentro do país, sublinhou o presidente.
 

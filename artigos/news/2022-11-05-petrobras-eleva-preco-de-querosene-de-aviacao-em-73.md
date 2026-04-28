@@ -1,11 +1,12 @@
 ---
-title: "Petrobras eleva preço de querosene de aviação em 7,3%"
+title: Petrobras eleva preço de querosene de aviação em 7,3%
 date: 2022-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Reajuste para distribuidoras começou a valer em 1º de novembro.
 

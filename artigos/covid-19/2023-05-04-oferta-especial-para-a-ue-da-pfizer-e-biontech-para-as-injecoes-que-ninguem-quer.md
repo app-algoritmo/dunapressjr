@@ -1,11 +1,13 @@
 ---
-title: "Oferta especial para a UE da Pfizer e BioNTech para as injeções que ninguém quer"
+title: Oferta especial para a UE da Pfizer e BioNTech para as injeções que ninguém
+  quer
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Oferta ousada da Pfizer e BioNTech para a UE: pague metade do preço por cada dose da vacina Covid "cancelada".
 

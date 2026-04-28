@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,23 com temor ante recessão global"
+title: Dólar sobe para R$ 5,23 com temor ante recessão global
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa cai 1,45% e atinge menor nível desde novembro de 2020.
 

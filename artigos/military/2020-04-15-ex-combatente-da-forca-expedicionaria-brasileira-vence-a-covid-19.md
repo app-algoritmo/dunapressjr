@@ -1,11 +1,12 @@
 ---
-title: "Ex-combatente da Força Expedicionária Brasileira vence a Covid-19"
+title: Ex-combatente da Força Expedicionária Brasileira vence a Covid-19
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os profissionais da saúde do Hospital das Forças Armadas (HFA) formaram um corredor humano para, com muitos aplausos e forte emoção, se despedirem do Tenente Ermando Piveta, 99 anos. A cena, registrada, com muitos flashes, ocorreu no começo da tarde desta terça-feira), em frente à unidade hospitalar da capital federal.
 

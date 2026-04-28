@@ -1,11 +1,12 @@
 ---
-title: "Mourão volta a criticar 'Honras de Estado' a Maduro e cobra posição do Parlamento"
+title: Mourão volta a criticar 'Honras de Estado' a Maduro e cobra posição do Parlamento
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Hamilton Mourão (Republicanos-RS) defendeu, em pronunciamento no Plenário nesta segunda-feira (5), que o Senado não se abstenha de debater a recepção, com honras de Estado, do governo brasileiro ao presidente da Venezuela, Nicolás Maduro. O senador convidou os demais senadores a "fiscalizar os rumos da política externa" do Brasil, para evitar que o país seja colocado do "lado errado da humanidade", e reiterou que as ações e as omissões do parlamento serão observadas e julgadas, em função do peso das responsabilidades constitucionais.
 

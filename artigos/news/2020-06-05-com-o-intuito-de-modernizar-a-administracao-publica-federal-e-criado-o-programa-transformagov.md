@@ -1,11 +1,13 @@
 ---
-title: "Com o Intuito de modernizar a administração pública federal é criado o programa TransformaGov"
+title: Com o Intuito de modernizar a administração pública federal é criado o programa
+  TransformaGov
 date: 2020-06-05
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 O programa tem a finalidade de modernizar as estruturas da administração pública para estabelecer uma gestão orientada a resultados para a sociedade, por meio da avaliação e transformação de modelos de gestão, processos de trabalhos e modelos institucionais.
 

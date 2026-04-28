@@ -1,11 +1,12 @@
 ---
-title: "Aumento de vagas pelo ITA nos cursos de graduação"
+title: Aumento de vagas pelo ITA nos cursos de graduação
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O Instituto passa a oferecer 30 vagas a mais a partir do próximo exame de admissão.
 

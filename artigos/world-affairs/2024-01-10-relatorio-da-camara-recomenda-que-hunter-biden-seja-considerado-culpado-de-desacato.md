@@ -1,11 +1,13 @@
 ---
-title: "Relatório da Câmara recomenda que Hunter Biden seja considerado culpado de desacato"
+title: Relatório da Câmara recomenda que Hunter Biden seja considerado culpado de
+  desacato
 date: 2024-01-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Congressistas republicanos designados para os Comitês Judiciário e de Supervisão [recomendaram](https://panampost.com/efe-panampost/2024/01/08/los-republicanos-elaboran-una-resolucion-de-desacato-contra-hunter-biden/) em um relatório na segunda-feira que o filho do atual ocupante da Casa Branca, Hunter Biden, fosse considerado culpado de desacato ao Congresso.
 

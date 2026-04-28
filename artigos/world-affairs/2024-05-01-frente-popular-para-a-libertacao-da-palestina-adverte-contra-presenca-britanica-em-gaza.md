@@ -1,11 +1,13 @@
 ---
-title: "Frente Popular para a Libertação da Palestina Adverte contra Presença Britânica em Gaza"
+title: Frente Popular para a Libertação da Palestina Adverte contra Presença Britânica
+  em Gaza
 date: 2024-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Frente Popular para a Libertação da Palestina (FPLP) emitiu um alerta enfático, declarando que os combatentes da resistência palestina não hesitarão em direcionar suas ações contra as forças britânicas, caso sejam implantadas em Gaza. Em um comunicado divulgado pelo Sama News, a FPLP afirmou categoricamente: "Advertimos a Grã-Bretanha ou qualquer outro país contra o envio de forças para a terra ou costas da Faixa de Gaza, porque iremos lidar com eles como forças de ocupação, e eles serão alvos legítimos para resistência." 
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça a Ordem Nacional do Mérito Científico"
+title: Conheça a Ordem Nacional do Mérito Científico
 date: 2021-02-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Ordem Nacional do Mérito Científico foi criada em 1993 — instituída pelo [Decreto nº 772/1993](http://www.planalto.gov.br/ccivil_03/Decreto/2002/D4115.htm) — para condecorar personagens nacionais e estrangeiras que tenham prestado contribuições relevantes à ciência e se destacado por suas qualidades intelectuais, acadêmicas e morais. Podem ser agraciadas até 40 personagens por ano, nas classes (grau) Grã-Cruz e Comendador.
 

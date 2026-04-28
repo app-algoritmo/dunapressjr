@@ -1,11 +1,13 @@
 ---
-title: "8.01 Presidente da República afirmou que vai ouvir cada ministro sobre os planos e as propostas de enxugamento das pastas"
+title: 8.01 Presidente da República afirmou que vai ouvir cada ministro sobre os planos
+  e as propostas de enxugamento das pastas
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro se reúne com ministros para debater medidas de rápida implementação
 

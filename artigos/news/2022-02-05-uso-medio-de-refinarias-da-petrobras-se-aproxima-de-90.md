@@ -1,11 +1,12 @@
 ---
-title: "Uso médio de refinarias da Petrobras se aproxima de 90%"
+title: Uso médio de refinarias da Petrobras se aproxima de 90%
 date: 2022-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investimentos atuais resultam em utilização acima da média histórica.
 

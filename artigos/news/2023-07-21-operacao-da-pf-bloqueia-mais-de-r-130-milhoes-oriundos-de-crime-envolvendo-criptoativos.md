@@ -1,11 +1,13 @@
 ---
-title: "Operação da PF bloqueia mais de R$ 130 milhões oriundos de crime envolvendo criptoativos"
+title: Operação da PF bloqueia mais de R$ 130 milhões oriundos de crime envolvendo
+  criptoativos
 date: 2023-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## 4ª fase da Operação Halving cumpre mandados em São Paulo e Sergipe para combater lavagem de dinheiro no mercado de capitais. 
 

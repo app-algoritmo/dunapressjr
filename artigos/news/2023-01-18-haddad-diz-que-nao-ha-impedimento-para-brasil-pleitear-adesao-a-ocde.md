@@ -1,11 +1,12 @@
 ---
-title: "Haddad diz que não há impedimento para Brasil pleitear adesão à OCDE"
+title: Haddad diz que não há impedimento para Brasil pleitear adesão à OCDE
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro faz balanço do Fórum Econômico Mundial de Davos.
 

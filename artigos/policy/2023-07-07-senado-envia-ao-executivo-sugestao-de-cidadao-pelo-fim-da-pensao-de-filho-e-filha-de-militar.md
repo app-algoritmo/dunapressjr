@@ -1,11 +1,13 @@
 ---
-title: "Senado envia ao Executivo sugestão de cidadão pelo fim da pensão de filho e filha de militar"
+title: Senado envia ao Executivo sugestão de cidadão pelo fim da pensão de filho e
+  filha de militar
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Direitos Humanos e Legislação Participativa (CDH) encaminhou para a Presidência da República indicação legislativa para extinguir as pensões de filhos e filhas de militares. A proposta surgiu da Sugestão Legislativa [20/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/135708), apresentada no Senado em 2018 por meio do [Programa e-Cidadania](/ecidadania). Após conquistar 57 mil apoios, a ideia foi analisada pela comissão, sob relatoria do senador Carlos Viana (Podemos-MG), que, na quarta-feira (5) deu parecer para transformá-la em indicação ao Executivo por ser matéria de iniciativa privativa do Presidente da República.
 

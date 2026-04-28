@@ -1,11 +1,12 @@
 ---
-title: "Inadimplência atinge maior taxa anual desde 2016, informa CNC"
+title: Inadimplência atinge maior taxa anual desde 2016, informa CNC
 date: 2022-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumento ocorreu mesmo com estabilidade na proporção de endividados.
 

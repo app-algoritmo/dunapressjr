@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF apuram irregularidades na Secretaria de Saúde do Piauí"
+title: 'Covid-19: CGU e PF apuram irregularidades na Secretaria de Saúde do Piauí'
 date: 2021-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Campanile investiga contratação de empresas sem que fossem seguidos trâmites necessários. Pagamentos suspeitos somam R$ 33,7 milhões.
 

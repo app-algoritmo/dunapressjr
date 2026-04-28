@@ -1,11 +1,12 @@
 ---
-title: "O Gramafone de Berliner"
+title: O Gramafone de Berliner
 date: 2020-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que
 mudaram o rumo da história”. Vamos falar sobre Gramafone de Berliner.

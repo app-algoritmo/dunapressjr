@@ -1,11 +1,13 @@
 ---
-title: "Ainda não há declarações de Putin sobre a candidatura às eleições de 2024, diz Kremlin"
+title: Ainda não há declarações de Putin sobre a candidatura às eleições de 2024,
+  diz Kremlin
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O secretário de imprensa do chefe de estado, Dmitry Peskov, observou que “a campanha em si ainda não foi anunciada oficialmente”.
 

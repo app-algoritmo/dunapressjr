@@ -1,11 +1,12 @@
 ---
-title: "PIB cresceu 0,3% em abril, aponta Ibre-FGV"
+title: PIB cresceu 0,3% em abril, aponta Ibre-FGV
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados são do Ibre-FGV.
 

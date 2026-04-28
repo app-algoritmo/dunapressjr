@@ -1,11 +1,12 @@
 ---
-title: "Margareth Menezes terá R$ 10 bilhões para Cultura"
+title: Margareth Menezes terá R$ 10 bilhões para Cultura
 date: 2022-12-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Valor disponível no próximo ano é mais de seis vezes maior do que a verba que a pasta teve em 2022.
 

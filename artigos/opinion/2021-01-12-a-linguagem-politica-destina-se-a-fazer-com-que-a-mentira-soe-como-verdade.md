@@ -1,11 +1,12 @@
 ---
-title: "A linguagem política, destina-se a fazer com que a mentira soe como verdade..."
+title: A linguagem política, destina-se a fazer com que a mentira soe como verdade...
 date: 2021-01-12
 status: publish
-author: eduardoplaton
+author: Eduardo Platon
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ## Política no século XXI é como nuvem ácida.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo apresenta novo projeto de lei complementar para instituir novo regime fiscal no Brasil"
+title: Governo apresenta novo projeto de lei complementar para instituir novo regime
+  fiscal no Brasil
 date: 2023-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo do projeto e retomar o investimento público e o crescimento do país.
 

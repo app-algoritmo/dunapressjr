@@ -1,11 +1,13 @@
 ---
-title: "Paraná envia policiais civis e militares para auxiliar o Rio de Janeiro por 30 dias"
+title: Paraná envia policiais civis e militares para auxiliar o Rio de Janeiro por
+  30 dias
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os 30 servidores serão mobilizados por 30 dias. A medida faz parte do Plano de Apoio e Mobilização do Ministério da Justiça e Segurança Pública. O governo federal anunciou na segunda-feira que as polícias do Rio de Janeiro serão auxiliadas por 300 agentes da Força Nacional em ações de enfrentamento ao crime organizado.
 

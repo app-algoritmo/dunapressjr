@@ -1,11 +1,12 @@
 ---
-title: "Vacina da Pfizer suspeita de ter matado 125 jovens europeus"
+title: Vacina da Pfizer suspeita de ter matado 125 jovens europeus
 date: 2023-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Jornalismo investigativo de Portugal
 

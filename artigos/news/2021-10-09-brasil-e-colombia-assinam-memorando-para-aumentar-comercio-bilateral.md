@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Colômbia assinam memorando para aumentar comércio bilateral"
+title: Brasil e Colômbia assinam memorando para aumentar comércio bilateral
 date: 2021-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidentes Bolsonaro e Iván Duque discutirão acordos econômicos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prorrogado edital de bolsas de estudo para combater epidemias pelo Capes"
+title: Prorrogado edital de bolsas de estudo para combater epidemias pelo Capes
 date: 2020-05-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Coordenação informou novas datas para divulgação de resultados, homologação e início das atividades.**
 

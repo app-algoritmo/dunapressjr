@@ -1,11 +1,12 @@
 ---
-title: "Minha luta será contra a pedofilia e a legalização das drogas, diz Magno Malta"
+title: Minha luta será contra a pedofilia e a legalização das drogas, diz Magno Malta
 date: 2023-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES), que faz oposição ao governo federal, destacou, em pronunciamento em Plenário nesta quarta-feira (8), que já exerceu mandato por 16 anos como senador e sempre foi respeitoso com a base governista do período. Ressaltou já ter sido da base do governo, e que não há qualquer “demérito” nisso. Segundo o senador, "o demérito está na subserviência".
 

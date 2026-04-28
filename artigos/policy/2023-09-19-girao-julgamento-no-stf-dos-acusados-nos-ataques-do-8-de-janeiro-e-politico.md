@@ -1,11 +1,12 @@
 ---
-title: "Girão: julgamento no STF dos acusados nos ataques do 8 de janeiro é político"
+title: 'Girão: julgamento no STF dos acusados nos ataques do 8 de janeiro é político'
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) classificou como “político” o julgamento no Supremo Tribunal Federal (STF) dos primeiros acusados de participação nos atos antidemocráticos de 8 de janeiro.
 

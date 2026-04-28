@@ -1,11 +1,12 @@
 ---
-title: "Bolsa tem maior queda diária do mês, influenciada por fatores externos"
+title: Bolsa tem maior queda diária do mês, influenciada por fatores externos
 date: 2021-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar subiu para R$ 5,25 após quatro recuos seguidos.
 

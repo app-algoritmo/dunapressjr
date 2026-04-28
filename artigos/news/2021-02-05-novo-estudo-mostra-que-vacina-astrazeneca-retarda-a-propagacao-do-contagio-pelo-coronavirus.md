@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo mostra que vacina AstraZeneca retarda a propagação do contágio pelo coronavírus"
+title: Novo estudo mostra que vacina AstraZeneca retarda a propagação do contágio
+  pelo coronavírus
 date: 2021-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Uma única dose da vacina da AstraZeneca oferece 76% de proteção por até 90 dias e reduz o risco de infectar outras em 67%, mostra um novo estudo.
 

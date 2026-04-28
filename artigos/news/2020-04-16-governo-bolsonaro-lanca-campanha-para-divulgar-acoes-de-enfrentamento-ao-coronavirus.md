@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança campanha para divulgar ações de enfrentamento ao coronavírus"
+title: Governo Bolsonaro lança campanha para divulgar ações de enfrentamento ao coronavírus
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde o início da crise provocada pela pandemia do coronavírus, o Governo Federal tem trabalhado para proteger a vida dos brasileiros. Inúmeras medidas vêm sendo tomadas para cuidar da saúde da população, preservar empregos, manter a renda dos trabalhadores informais e continuar com o abastecimento em todo o País. E, para divulgar essas ações em andamento, o Governo Federal veicula campanha nas principais redes de televisão, abertas e fechadas, além de internet e rádio.
 

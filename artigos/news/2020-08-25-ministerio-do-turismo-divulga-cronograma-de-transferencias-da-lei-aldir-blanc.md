@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Turismo divulga cronograma de transferências da Lei Aldir Blanc"
+title: Ministério do Turismo divulga cronograma de transferências da Lei Aldir Blanc
 date: 2020-08-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Repasse do primeiro lote de recursos será concluído até 11 de setembro. Datas variam conforme aprovação dos planos apresentados pelos gestores locais.
 

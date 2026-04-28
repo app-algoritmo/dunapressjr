@@ -1,11 +1,12 @@
 ---
-title: "China abre novo mercado para produto brasileiro de origem animal"
+title: China abre novo mercado para produto brasileiro de origem animal
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Protocolo define regras para exportação da farinha usada em rações
 

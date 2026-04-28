@@ -1,11 +1,12 @@
 ---
-title: "Indicações políticas para o Judiciário fazem mal ao Brasil, afirma Girão"
+title: Indicações políticas para o Judiciário fazem mal ao Brasil, afirma Girão
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) defendeu, em pronunciamento nesta segunda-feira (3), o fim das "indicações políticas" para tribunais superiores. Ele entende que o Tribunal Superior Eleitoral (TSE) agiu como um "tribunal político" ao cassar os mandatos do ex-deputado e ex-procurador Deltan Dallagnol e do ex-deputado estadual Delegado Francischini e ao tornar o ex-presidente Jair Bolsonaro inelegível.
 

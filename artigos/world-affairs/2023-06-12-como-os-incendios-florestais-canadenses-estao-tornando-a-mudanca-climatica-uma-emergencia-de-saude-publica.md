@@ -1,11 +1,13 @@
 ---
-title: "Como os incêndios florestais canadenses estão tornando a mudança climática uma 'emergência de saúde pública'"
+title: Como os incêndios florestais canadenses estão tornando a mudança climática
+  uma 'emergência de saúde pública'
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os incêndios florestais anuais estouraram e, como sempre, isso significa alarmismo climático e uma tentativa de promover uma agenda de controle social.
 

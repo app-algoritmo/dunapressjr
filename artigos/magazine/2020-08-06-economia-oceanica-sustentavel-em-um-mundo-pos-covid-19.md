@@ -1,11 +1,12 @@
 ---
-title: "Economia oceânica sustentável em um mundo pós-COVID-19"
+title: Economia oceânica sustentável em um mundo pós-COVID-19
 date: 2020-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Noruega publica a declaração conjunta sobre o papel de uma economia oceânica sustentável em um mundo pós-COVID-19.
 

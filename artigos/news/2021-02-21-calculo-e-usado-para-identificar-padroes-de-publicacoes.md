@@ -1,11 +1,12 @@
 ---
-title: "Cálculo é usado para identificar padrões de publicações"
+title: Cálculo é usado para identificar padrões de publicações
 date: 2021-02-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O vencedor do [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área de Ciência da Computação, Henrique Ferraz de Arruda, aluno do Programa de Pós-Graduação em Ciências da Computação e Matemática Computacional do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (USP/SC), investigou a interpretação e a  organização de textos e livros, a partir da análise matemática de sistemas complexos.
 

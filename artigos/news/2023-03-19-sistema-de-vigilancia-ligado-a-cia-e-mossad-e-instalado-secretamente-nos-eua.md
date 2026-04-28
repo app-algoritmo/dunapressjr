@@ -1,11 +1,12 @@
 ---
-title: "Sistema de vigilância ligado à CIA e Mossad é instalado secretamente nos EUA"
+title: Sistema de vigilância ligado à CIA e Mossad é instalado secretamente nos EUA
 date: 2023-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Sob o pretexto de prevenir tiroteios em massa, um sistema de vigilância apoiado por altos funcionários do Mossad, CIA e FBI está sendo instalado em escolas, locais de culto e outras instalações civis em todo o país, graças em grande parte a uma doação recente de um "filantropo anônimo".
 

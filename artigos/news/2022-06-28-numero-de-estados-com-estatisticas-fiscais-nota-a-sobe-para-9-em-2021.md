@@ -1,11 +1,12 @@
 ---
-title: "Número de estados com estatísticas fiscais nota A sobe para 9 em 2021"
+title: Número de estados com estatísticas fiscais nota A sobe para 9 em 2021
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Total de municípios saltou de 191 em 2020 para 365 no ano passado.
 

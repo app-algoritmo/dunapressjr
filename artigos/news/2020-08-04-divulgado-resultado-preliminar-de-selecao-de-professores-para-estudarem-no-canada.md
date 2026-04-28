@@ -1,11 +1,13 @@
 ---
-title: "Divulgado resultado preliminar de seleção de professores para estudarem no Canadá"
+title: Divulgado resultado preliminar de seleção de professores para estudarem no
+  Canadá
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cento e dois professores atuantes em escolas públicas da educação básica participarão de curso de aperfeiçoamento no país norte-americano.
 

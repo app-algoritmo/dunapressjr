@@ -1,11 +1,12 @@
 ---
-title: "Petrobras tem novo presidente; posse é questionada por petroleiros"
+title: Petrobras tem novo presidente; posse é questionada por petroleiros
 date: 2022-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mandato de presidente vai até o dia 13 de abril de 2023.
 

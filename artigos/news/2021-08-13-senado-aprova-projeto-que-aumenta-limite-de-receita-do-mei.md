@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova projeto que aumenta limite de receita do MEI"
+title: Senado aprova projeto que aumenta limite de receita do MEI
 date: 2021-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto ainda será analisado pela Câmara dos Deputados.
 

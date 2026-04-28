@@ -1,11 +1,12 @@
 ---
-title: "Laércio Oliveira defende mudanças na reforma tributária"
+title: Laércio Oliveira defende mudanças na reforma tributária
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Laércio Oliveira (PP-SE) enfatizou, em pronunciamento no Plenário nesta terça-feira (31), a necessidade de alcançar um consenso nacional para a votação da PEC da Reforma Tributária [(PEC 45/2019)](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2196833). Para o parlamentar, é necessário preservar as conquistas na legislação trabalhista, mantendo a criação de empregos e assegurando o crescimento de emprego no país.
 

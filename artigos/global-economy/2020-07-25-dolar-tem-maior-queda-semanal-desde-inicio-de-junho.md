@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda semanal desde início de junho"
+title: Dólar tem maior queda semanal desde início de junho
 date: 2020-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Moeda fechou sexta-feira vendida a R$ 5,207. Bolsa subiu 0,09%.
 

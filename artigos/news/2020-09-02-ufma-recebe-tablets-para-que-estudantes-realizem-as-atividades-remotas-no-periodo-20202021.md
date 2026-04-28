@@ -1,11 +1,13 @@
 ---
-title: "UFMA recebe tablets para que estudantes realizem as atividades remotas no período 2020/2021"
+title: UFMA recebe tablets para que estudantes realizem as atividades remotas no período
+  2020/2021
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na noite do último dia 27, a Universidade Federal do Maranhão recebeu a remessa de tablets relativos ao **[Edital Auxílio Inclusão Digital – Modalidade Plena (Empréstimo de Tablet) – Em Caráter Emergencial 2020.1](http://www.ufma.br/portalUFMA/edital/X88QILVGtLjQ7IG.pdf), **em que cada estudante selecionado receberá temporariamente uma unidade, para proporcionar a todos condições de acesso tecnológico e técnico para a realização de atividades remotas durante a retomada do período acadêmico 2020/2021.
 

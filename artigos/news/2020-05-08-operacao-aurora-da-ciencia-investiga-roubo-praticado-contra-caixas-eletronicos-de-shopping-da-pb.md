@@ -1,11 +1,13 @@
 ---
-title: "Operação Aurora da Ciência investiga roubo praticado contra caixas eletrônicos de shopping da PB"
+title: Operação Aurora da Ciência investiga roubo praticado contra caixas eletrônicos
+  de shopping da PB
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal cumpriu nesta sexta-feira (8/5), um mandado de prisão preventiva, expedido pela 4ª Vara Federal em Campina Grande/PB, em desfavor de um dos envolvidos no roubo, com armas e explosivos, dos caixas eletrônicos da Caixa Econômica Federal em um shopping de Campina Grande/PB, em 17/01/2018. A investigação foi nominada Operação AURORA DA CIÊNCIA em homenagem a diversas diligências anteriores desencadeadas nos anos de 2018 e 2019, visando amealhar provas para esclarecer esse crime.
 

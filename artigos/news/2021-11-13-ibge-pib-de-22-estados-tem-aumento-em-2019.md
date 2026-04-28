@@ -1,11 +1,12 @@
 ---
-title: "IBGE: PIB de 22 estados tem aumento em 2019"
+title: 'IBGE: PIB de 22 estados tem aumento em 2019'
 date: 2021-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## 13 estados tiveram crescimento acima da média nacional.
 

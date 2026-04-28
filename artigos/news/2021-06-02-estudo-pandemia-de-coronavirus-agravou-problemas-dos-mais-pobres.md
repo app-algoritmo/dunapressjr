@@ -1,11 +1,12 @@
 ---
-title: "Estudo: pandemia de coronavírus agravou problemas dos mais pobres"
+title: 'Estudo: pandemia de coronavírus agravou problemas dos mais pobres'
 date: 2021-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Uma nova pesquisa desmascara a teoria de que os pobres sofreram menos devido à falta de interrupção em seus estipêndios mensais de subsistência.
 

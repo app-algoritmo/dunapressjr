@@ -1,11 +1,12 @@
 ---
-title: "O 5G contribuiu para a chamada pandemia de Covid?"
+title: O 5G contribuiu para a chamada pandemia de Covid?
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Desde o início, as origens e as causas da “pandemia de Covid” foram questionadas. Pronunciamentos obstinadamente censurados, suprimidos ou ignorados pela mídia corporativa e pelos “verificadores de fatos” corporativos incluem experimentos nefastos de ganho de função, a “teoria do vazamento de laboratório” e o rápido lançamento da perigosa tecnologia 5G. Que possível papel o 5G poderia desempenhar?
 

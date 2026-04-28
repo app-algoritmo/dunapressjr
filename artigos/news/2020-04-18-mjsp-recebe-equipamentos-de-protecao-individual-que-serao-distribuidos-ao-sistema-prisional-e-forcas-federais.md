@@ -1,11 +1,13 @@
 ---
-title: "MJSP recebe Equipamentos de Proteção Individual que serão distribuídos ao sistema prisional e forças federais"
+title: MJSP recebe Equipamentos de Proteção Individual que serão distribuídos ao sistema
+  prisional e forças federais
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 19/04/2020 -** O Ministério da Justiça e Segurança Pública receberá, no sábado (18), mais uma carga de equipamentos de proteção individual para distribuição aos profissionais de segurança pública. Dessa vez, serão 265 mil máscaras, 2500 frascos de álcool gel, 78 mil luvas, além de óculos, aventais toucas recebidos de doação do Ministério da Saúde.
 

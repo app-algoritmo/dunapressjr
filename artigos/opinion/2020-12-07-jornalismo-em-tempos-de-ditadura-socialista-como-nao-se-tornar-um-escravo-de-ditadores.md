@@ -1,11 +1,13 @@
 ---
-title: "Jornalismo em tempos de ditadura socialista: Como não se tornar um escravo de ditadores?"
+title: 'Jornalismo em tempos de ditadura socialista: Como não se tornar um escravo
+  de ditadores?'
 date: 2020-12-07
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nesse quadro, a direita, como tal, não existe mais. **Os ideais que a caracterizavam são cada vez mais criminalizados como extremismo, espalhando entre os políticos o medo de encarná-los em público por um instante sequer, para não serem tachados de golpistas, racistas, nazistas, o diabo.**
 

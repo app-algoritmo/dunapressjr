@@ -1,11 +1,12 @@
 ---
-title: "Rio Grande do Sul credencia laboratório para análise de azeites"
+title: Rio Grande do Sul credencia laboratório para análise de azeites
 date: 2020-05-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 É preciso focar no que o Brasil tem de bom.
 A região Sul, muito produtora, tem méritos e deve ser valorizada, bem como deve ser dado visibilidade para os aspectos econômicos que vem sendo desenvolvidos por muito tempo pelos brasileiros que lá vivem, igualmente a outras regiões.

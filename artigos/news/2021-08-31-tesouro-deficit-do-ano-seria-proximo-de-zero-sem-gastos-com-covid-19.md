@@ -1,11 +1,12 @@
 ---
-title: "Tesouro: déficit do ano seria próximo de zero sem gastos com covid-19"
+title: 'Tesouro: déficit do ano seria próximo de zero sem gastos com covid-19'
 date: 2021-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dívida bruta caiu 5,3 pontos percentuais de fevereiro a junho.
 

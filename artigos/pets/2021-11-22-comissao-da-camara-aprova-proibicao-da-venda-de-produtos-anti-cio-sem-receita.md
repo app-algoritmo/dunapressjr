@@ -1,11 +1,12 @@
 ---
-title: "Comissão da Câmara aprova proibição da venda de produtos “anti-cio” sem receita"
+title: Comissão da Câmara aprova proibição da venda de produtos “anti-cio” sem receita
 date: 2021-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços da Câmara aprovou o PL 4583/2020, do deputado Célio Studart (PV-CE), que visa proibir a comercialização e uso de produtos “anti-cio” sem receita.
 

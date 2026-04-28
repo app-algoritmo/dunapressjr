@@ -1,11 +1,13 @@
 ---
-title: "Fossas tóxicas de cremação dos militares dos EUA no Iraque causam câncer e outras doenças"
+title: Fossas tóxicas de cremação dos militares dos EUA no Iraque causam câncer e
+  outras doenças
 date: 2023-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os custos ocultos da invasão ilegal do Iraque pelos EUA em 2003 ainda estão aparecendo décadas depois.
 

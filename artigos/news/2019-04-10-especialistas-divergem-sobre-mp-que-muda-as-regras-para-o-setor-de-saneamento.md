@@ -1,11 +1,12 @@
 ---
-title: "Especialistas divergem sobre MP que muda as regras para o setor de saneamento"
+title: Especialistas divergem sobre MP que muda as regras para o setor de saneamento
 date: 2019-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Roque de Sá/Agência Senado 
 

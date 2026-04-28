@@ -1,11 +1,12 @@
 ---
-title: "Governo sanciona Marco Legal das Startups e do Empreendedorismo Inovador"
+title: Governo sanciona Marco Legal das Startups e do Empreendedorismo Inovador
 date: 2021-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nova legislação permitirá que startups recebam investimentos de pessoas físicas ou jurídicas, com possível participação no capital social da empresa.
 

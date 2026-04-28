@@ -1,11 +1,12 @@
 ---
-title: "Fruto do Chichá como um potencial alimento funcional"
+title: Fruto do Chichá como um potencial alimento funcional
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Nutricionista pela Universidade Federal de Minas Gerais (UFMG), Sarah Prates é mestre e doutoranda em Ciências de Alimentos pela mesma Instituição. A pesquisadora estudou no mestrado a caracterização química, a atividade antioxidante e a avaliação da bioacessibilidade de componentes bioativos da *Sterculia striata*, popularmente conhecida como chichá.
 

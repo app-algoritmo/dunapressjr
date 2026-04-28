@@ -1,11 +1,12 @@
 ---
-title: "Barômetros globais continuam em ascensão em setembro"
+title: Barômetros globais continuam em ascensão em setembro
 date: 2023-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Barômetro Coincidente acelera o ritmo de recuperação, enquanto o Barômetro Antecedente atinge a média histórica de 100 pontos, indicando otimismo global.
 

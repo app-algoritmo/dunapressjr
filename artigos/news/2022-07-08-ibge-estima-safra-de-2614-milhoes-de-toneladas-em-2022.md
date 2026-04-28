@@ -1,11 +1,12 @@
 ---
-title: "IBGE estima safra de 261,4 milhões de toneladas em 2022"
+title: IBGE estima safra de 261,4 milhões de toneladas em 2022
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice é 0,6% abaixo da estimativa de maio.
 

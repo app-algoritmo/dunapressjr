@@ -1,11 +1,12 @@
 ---
-title: "Com líderes latino-americanos, Trump denuncia 'tragédia' na Venezuela"
+title: Com líderes latino-americanos, Trump denuncia 'tragédia' na Venezuela
 date: 2019-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Há mais de quatro milhões de seres humanos fugindo desse regime
 terrorista despótico, faminto, corrupto e terrorista

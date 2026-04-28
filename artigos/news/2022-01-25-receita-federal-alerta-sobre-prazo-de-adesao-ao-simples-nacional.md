@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal alerta sobre prazo de adesão ao Simples Nacional"
+title: Receita Federal alerta sobre prazo de adesão ao Simples Nacional
 date: 2022-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo de adesão, que vai até 31 de janeiro, não será prorrogado.
 

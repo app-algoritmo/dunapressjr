@@ -1,11 +1,12 @@
 ---
-title: "Danos no DNA vira estudo para entender o envelhecimento"
+title: Danos no DNA vira estudo para entender o envelhecimento
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Graduado em Ciências Biológicas pela Universidade de São Paulo (USP), Gustavo Satoru é doutor em Biotecnologia pela mesma instituição e bolsista da CAPES pelo Programa Nacional de Pós Doutorado (PNPD) na Universidade Federal de Ouro Preto (UFOP), onde estuda os efeitos de danos no DNA sobre o envelhecimento humano.
 

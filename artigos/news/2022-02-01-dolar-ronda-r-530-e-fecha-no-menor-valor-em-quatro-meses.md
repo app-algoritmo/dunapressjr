@@ -1,11 +1,12 @@
 ---
-title: "Dólar ronda R$ 5,30 e fecha no menor valor em quatro meses"
+title: Dólar ronda R$ 5,30 e fecha no menor valor em quatro meses
 date: 2022-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa sobe 0,21% e tem melhor mês desde dezembro de 2020.
 

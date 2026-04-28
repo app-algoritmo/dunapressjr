@@ -1,11 +1,12 @@
 ---
-title: "Influência da Indústria Farmacêutica: O Vínculo com Governos em Questão"
+title: 'Influência da Indústria Farmacêutica: O Vínculo com Governos em Questão'
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Entre as muitas revelações alarmantes nos "Arquivos do Facebook" está a descoberta de uma estranha política oficial que dominou a plataforma durante os 19 anos do COVID.
 

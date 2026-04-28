@@ -1,11 +1,12 @@
 ---
-title: "American Graffiti: Quem nunca?"
+title: 'American Graffiti: Quem nunca?'
 date: 2020-07-11
 status: publish
-author: jesshutter
+author: Jessica Jaconetti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 **Loucuras de Verão – *American Graffiti*, 1973  A ressignificação da película de George Lucas**
 

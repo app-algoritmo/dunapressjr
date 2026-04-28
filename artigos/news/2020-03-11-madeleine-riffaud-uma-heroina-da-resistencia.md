@@ -1,11 +1,12 @@
 ---
-title: "Madeleine Riffaud - Uma Heroína da resistência"
+title: Madeleine Riffaud - Uma Heroína da resistência
 date: 2020-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Heroína da resistência francesa, lembra: "Coloquei duas balas na cabeça dos nazistas"
 

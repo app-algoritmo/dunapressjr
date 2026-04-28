@@ -1,11 +1,13 @@
 ---
-title: "Crescimento da indústria do Brasil acelera em novembro com demanda mais forte, diz PMI"
+title: Crescimento da indústria do Brasil acelera em novembro com demanda mais forte,
+  diz PMI
 date: 2019-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O crescimento da indústria brasileira engrenou em novembro e
 mostrou aceleração diante da demanda forte, com a produção em alta e o

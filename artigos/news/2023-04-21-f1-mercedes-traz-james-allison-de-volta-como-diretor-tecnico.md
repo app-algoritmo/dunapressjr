@@ -1,12 +1,13 @@
 ---
-title: "F1: Mercedes traz James Allison de volta como diretor técnico"
+title: 'F1: Mercedes traz James Allison de volta como diretor técnico'
 date: 2023-04-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## **Uma das mentes técnicas mais talentosas da Fórmula 1, James Allison volta para a Mercedes, com cargo de Diretor Técnico**.
 

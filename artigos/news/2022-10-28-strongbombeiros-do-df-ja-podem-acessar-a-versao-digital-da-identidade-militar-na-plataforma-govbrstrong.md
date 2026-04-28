@@ -1,11 +1,13 @@
 ---
-title: "<strong>Bombeiros do DF já podem acessar a versão digital da identidade militar na plataforma GOV.BR</strong>"
+title: <strong>Bombeiros do DF já podem acessar a versão digital da identidade militar
+  na plataforma GOV.BR</strong>
 date: 2022-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Militares são os primeiros entre as forças auxiliares a ter acesso ao documento de identificação em formato digital.
 

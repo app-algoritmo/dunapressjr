@@ -1,11 +1,12 @@
 ---
-title: "MEC destina R$ 4 milhões para construção de hospital de campanha em Sergipe"
+title: MEC destina R$ 4 milhões para construção de hospital de campanha em Sergipe
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) investiu cerca de R$ 4 milhões na instalação de um hospital de campanha em Lagarto, maior cidade do interior do estado de Sergipe. As obras já foram iniciadas, e a entrega está prevista para o final do mês de maio. O hospital provisório ficará anexo ao Hospital Universitário de Lagarto (HUL), como uma extensão da unidade hospitalar, e contará com mais 20 leitos de média complexidade. O hospital de campanha será erguido com estruturas metálicas, divisórias com laminado estrutural e cobertura e laterais em lona, e seguirá a legislação vigente.
 

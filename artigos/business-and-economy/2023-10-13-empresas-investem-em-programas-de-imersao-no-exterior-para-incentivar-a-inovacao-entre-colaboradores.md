@@ -1,11 +1,13 @@
 ---
-title: "Empresas investem em programas de imersão no exterior para incentivar a inovação entre colaboradores"
+title: Empresas investem em programas de imersão no exterior para incentivar a inovação
+  entre colaboradores
 date: 2023-10-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 ## O protagonismo do colaborador é uma das tendências mais recentes quando o assunto é gestão de pessoas. O objetivo é permitir que os profissionais exercitem seu potencial.
 

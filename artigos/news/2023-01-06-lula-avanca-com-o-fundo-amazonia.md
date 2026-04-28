@@ -1,12 +1,13 @@
 ---
-title: "Lula avança com o Fundo Amazônia"
+title: Lula avança com o Fundo Amazônia
 date: 2023-01-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Nada mais ser empossado como presidente do Brasil, Lula logo no primeiro dia reafirma as ambições do novo governo de frear o desmatamento e tomou as providências necessárias para receber o Fundo Amazônia.
 

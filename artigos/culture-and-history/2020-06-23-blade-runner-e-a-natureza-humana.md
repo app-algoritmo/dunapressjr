@@ -1,11 +1,12 @@
 ---
-title: "Blade Runner e a Natureza Humana!"
+title: Blade Runner e a Natureza Humana!
 date: 2020-06-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 “*Eu vi coisas que vocês não imaginariam. Naves de ataque em chamas ao largo de Órion. Eu vi raios-c brilharem na escuridão próximos ao Portal de Tannhäuser. Todos esses momentos se perderão no tempo, como lágrimas na chuva. Hora de morrer!”*
 

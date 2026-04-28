@@ -1,11 +1,13 @@
 ---
-title: "Banco Central: Cooperativas de crédito crescem mais que o Sistema Financeiro Nacional em 2022"
+title: 'Banco Central: Cooperativas de crédito crescem mais que o Sistema Financeiro
+  Nacional em 2022'
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Panorama do Sistema Nacional de Crédito Cooperativo destaca o avanço do setor e sua importância para a economia brasileira. 
 

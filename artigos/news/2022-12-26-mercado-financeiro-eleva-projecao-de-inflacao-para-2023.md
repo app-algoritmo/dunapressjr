@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção de inflação para 2023"
+title: Mercado financeiro eleva projeção de inflação para 2023
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ficou em 5,23% contra 5,17% na semana passada, segundo o BC.
 

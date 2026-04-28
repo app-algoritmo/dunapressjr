@@ -1,11 +1,12 @@
 ---
-title: "Congresso derruba vetos e retoma 18 itens sobre abuso de autoridade"
+title: Congresso derruba vetos e retoma 18 itens sobre abuso de autoridade
 date: 2019-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Plenário do Congresso Nacional derrubou 18 itens dos 33
 vetados no Projeto de Lei 7596/17, sobre abuso de autoridade. A derrubada

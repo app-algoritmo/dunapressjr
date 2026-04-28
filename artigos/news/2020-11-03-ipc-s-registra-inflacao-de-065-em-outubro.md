@@ -1,11 +1,12 @@
 ---
-title: "IPC-S registra inflação de 0,65% em outubro"
+title: IPC-S registra inflação de 0,65% em outubro
 date: 2020-11-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A taxa é inferior ao 0,82% de setembro, diz FGV.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vacinas da dengue e chikungunya podem diminuir surtos"
+title: Vacinas da dengue e chikungunya podem diminuir surtos
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## O acesso às vacinas contra dengue e chikungunya, que estão sendo desenvolvidas pelo Instituto Butantan, poderá ser determinante para impactar os surtos destas doenças em toda a América Latina.
 

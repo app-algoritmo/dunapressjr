@@ -1,11 +1,12 @@
 ---
-title: "Maior projeto da ciência brasileira para pesquisa começa a funcionar oficialmente"
+title: Maior projeto da ciência brasileira para pesquisa começa a funcionar oficialmente
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Batizada com o nome Manacá, foi lançada oficialmente, nesta quarta-feira (21), em Campinas (SP), a primeira linha de Luz Sirius, do Ministério da Ciência, Tecnologia e Inovações, que vai ajudar no desenvolvimento de pesquisas. O Presidente Jair Bolsonaro participou da cerimônia de lançamento e, antes, visitou as instalações onde o projeto será desenvolvido.
 

@@ -1,11 +1,12 @@
 ---
-title: "Grandes doadores do PT ganharam convite para a posse de Lula"
+title: Grandes doadores do PT ganharam convite para a posse de Lula
 date: 2023-02-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Doadores de campanha do PT ganharam convites para a festa de posse do presidente Lula.
 

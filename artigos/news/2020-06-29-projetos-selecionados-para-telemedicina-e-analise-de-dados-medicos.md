@@ -1,11 +1,12 @@
 ---
-title: "Projetos selecionados para Telemedicina e Análise de Dados Médicos"
+title: Projetos selecionados para Telemedicina e Análise de Dados Médicos
 date: 2020-06-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Em três editais foram selecionados 92 projetos no âmbito do Programa de Combate a Epidemias. Mais de 1.200 pesquisadores atuarão nos estudos.
 

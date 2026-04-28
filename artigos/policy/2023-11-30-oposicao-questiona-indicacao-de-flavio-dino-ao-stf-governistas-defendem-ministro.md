@@ -1,11 +1,12 @@
 ---
-title: "Oposição questiona indicação de Flávio Dino ao STF; governistas defendem ministro"
+title: Oposição questiona indicação de Flávio Dino ao STF; governistas defendem ministro
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Indicação do presidente Lula será votada pelo Senado.
 

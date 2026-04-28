@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime ambiental em Tartarugalzinho/AP"
+title: PF combate crime ambiental em Tartarugalzinho/AP
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal prendeu em flagrante, na terça-feira (2/6),  um administrador de serralheria, por armazenamento de madeira ilegal em depósito, no município de Tartarugalzinho/AP.
 

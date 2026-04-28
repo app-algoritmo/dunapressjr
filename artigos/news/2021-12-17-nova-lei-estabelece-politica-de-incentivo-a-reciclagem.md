@@ -1,11 +1,12 @@
 ---
-title: "Nova lei estabelece política de incentivo à reciclagem"
+title: Nova lei estabelece política de incentivo à reciclagem
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro sancionou a lei que estabelece incentivos à indústria da reciclagem, mas vetou parte dos estímulos previstos por deputados e senadores para pessoas físicas e jurídicas dedicadas à reutilização, ao tratamento e à reciclagem de resíduos sólidos. A [Lei 14.260/21](https://www2.camara.gov.br/legin/fed/lei/2021/lei-14260-8-dezembro-2021-792071-norma-pl.html) foi publicada no Diário Oficial da União desta quinta-feira (9).
 

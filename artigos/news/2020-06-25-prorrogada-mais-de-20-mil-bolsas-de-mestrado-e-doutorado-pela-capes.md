@@ -1,11 +1,12 @@
 ---
-title: "Prorrogada mais de 20 mil bolsas de mestrado e doutorado pela Capes"
+title: Prorrogada mais de 20 mil bolsas de mestrado e doutorado pela Capes
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Portaria permite que programas de pós-graduação estendam por até três meses bolsas de mestrado e doutorado devido à pandemia.
 

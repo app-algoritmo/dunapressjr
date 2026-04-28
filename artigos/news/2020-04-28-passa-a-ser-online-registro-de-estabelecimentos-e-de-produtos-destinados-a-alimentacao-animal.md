@@ -1,11 +1,13 @@
 ---
-title: "Passa a ser online registro de estabelecimentos e de produtos destinados à alimentação animal"
+title: Passa a ser online registro de estabelecimentos e de produtos destinados à
+  alimentação animal
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os procedimentos serão realizados no Sistema Integrado de Produtos e Estabelecimentos Agropecuários. Há cerca de 3 mil estabelecimentos destinados à alimentação animal.
 

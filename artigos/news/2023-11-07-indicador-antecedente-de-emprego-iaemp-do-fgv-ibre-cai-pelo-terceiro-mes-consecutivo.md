@@ -1,11 +1,13 @@
 ---
-title: "Indicador Antecedente de Emprego (IAEmp) do FGV IBRE cai pelo terceiro mês consecutivo"
+title: Indicador Antecedente de Emprego (IAEmp) do FGV IBRE cai pelo terceiro mês
+  consecutivo
 date: 2023-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dificuldades persistem no mercado de trabalho brasileiro, mesmo com ambiente macroeconômico favorável.
 

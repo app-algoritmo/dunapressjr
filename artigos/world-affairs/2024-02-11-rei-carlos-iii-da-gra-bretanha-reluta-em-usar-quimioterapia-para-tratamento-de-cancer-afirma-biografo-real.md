@@ -1,11 +1,13 @@
 ---
-title: "Rei Carlos III da Grã-Bretanha Reluta em Usar Quimioterapia para Tratamento de Câncer, Afirma Biógrafo Real"
+title: Rei Carlos III da Grã-Bretanha Reluta em Usar Quimioterapia para Tratamento
+  de Câncer, Afirma Biógrafo Real
 date: 2024-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Embora o Palácio de Buckingham tenha oficialmente divulgado que o monarca embarcou em um "programa de tratamentos regulares" para enfrentar a doença, Bower destacou que Carlos III tem uma forte crença em abordagens naturais, como ervas, poções e terapias alternativas.
 

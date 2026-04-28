@@ -1,11 +1,12 @@
 ---
-title: "Países da Cepal debatem os impactos da pandemia do novo coronavírus nas mulheres"
+title: Países da Cepal debatem os impactos da pandemia do novo coronavírus nas mulheres
 date: 2020-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por meio de videoconferência, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) participou, na última quarta-feira (8), de reunião com os países membros da Comissão Econômica para a América Latina e o Caribe (Cepal). O tema do encontro foi os impactos econômicos e sociais da pandemia do novo coronavírus (Covid-19) para as mulheres.
 

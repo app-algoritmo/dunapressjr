@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 2,28% após aprovação da reforma do IR"
+title: Bolsa cai 2,28% após aprovação da reforma do IR
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar não aproveitou clima externo e fechou estável a R$ 5,18.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto do governo destina R$ 166,5 mil para a promoção dos direitos de crianças e adolescentes em situação de rua"
+title: Projeto do governo destina R$ 166,5 mil para a promoção dos direitos de crianças
+  e adolescentes em situação de rua
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Crianças e adolescentes em situação de rua na região central da cidade de São Paulo (SP), em especial as que atuam na coleta de materiais recicláveis, serão beneficiadas com um espaço voltado à promoção e garantia de direitos. O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) destinou R$ 166,5 mil que devem ser usados para a implantação e a manutenção da estrutura prevista no projeto.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice de Variação de Aluguéis Residenciais (IVAR) desacelera em junho de 2023"
+title: Índice de Variação de Aluguéis Residenciais (IVAR) desacelera em junho de 2023
 date: 2023-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa acumulada em 12 meses cai para 7,96%, enquanto três cidades apresentam queda significativa nos preços de aluguel.****
 

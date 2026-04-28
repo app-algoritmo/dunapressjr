@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,18 em dia de anúncio de ministros do novo governo"
+title: Dólar cai para R$ 5,18 em dia de anúncio de ministros do novo governo
 date: 2022-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa supera turbulências externas e sobe 0,11%.
 

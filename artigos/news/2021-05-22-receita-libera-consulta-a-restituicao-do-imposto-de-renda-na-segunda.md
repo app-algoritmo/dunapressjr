@@ -1,11 +1,12 @@
 ---
-title: "Receita libera consulta a restituição do Imposto de Renda na segunda"
+title: Receita libera consulta a restituição do Imposto de Renda na segunda
 date: 2021-05-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo para entrega da declaração vai até o dia 31 de maio.
 

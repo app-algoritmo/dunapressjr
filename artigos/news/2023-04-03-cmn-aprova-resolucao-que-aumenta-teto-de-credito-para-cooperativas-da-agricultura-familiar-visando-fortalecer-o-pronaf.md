@@ -1,11 +1,13 @@
 ---
-title: "CMN aprova resolução que aumenta teto de crédito para cooperativas da agricultura familiar, visando fortalecer o Pronaf"
+title: CMN aprova resolução que aumenta teto de crédito para cooperativas da agricultura
+  familiar, visando fortalecer o Pronaf
 date: 2023-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O limite passa a ser de até R$25.000.000,00, observado o limite de R$60.000,00 por associado.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que os efeitos colaterais da vacina Pfizer são mais graves em diabéticos"
+title: Estudo mostra que os efeitos colaterais da vacina Pfizer são mais graves em
+  diabéticos
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um estudo multicêntrico recente mostrou que os diabéticos que receberam a vacina da Pfizer apresentaram mais sintomas do que os não diabéticos.
 

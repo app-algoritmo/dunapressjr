@@ -1,11 +1,12 @@
 ---
-title: "Canal Opinião Conservadora"
+title: Canal Opinião Conservadora
 date: 2018-11-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Opinião conservadora é um canal disponível por *YouTube* e que conta atualmente com 2,5 mil subscritos, já tendo alcançado mais de 1,5 mil visualizações.
 

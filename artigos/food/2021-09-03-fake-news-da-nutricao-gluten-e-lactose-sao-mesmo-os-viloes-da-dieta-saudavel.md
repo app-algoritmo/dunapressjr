@@ -1,11 +1,12 @@
 ---
-title: "Fake News da Nutrição: glúten e lactose são mesmo os vilões da dieta saudável?"
+title: 'Fake News da Nutrição: glúten e lactose são mesmo os vilões da dieta saudável?'
 date: 2021-09-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 “Doutora, estou decidida (o) a emagrecer! Por isso, quero uma dieta bem restritiva, sem leite e trigo para perder peso mais rápido”. Essa frase é dita por muitos pacientes nos consultórios de nutricionistas e outros profissionais da área. Ou, o que é bem pior, o paciente nem chega a procurar um especialista e faz alguma dieta que achou na internet. Com o objetivo de evoluir rapidamente no processo de emagrecimento, algumas pessoas estão decididas a fazer regimes restritivos e que muitas vezes estão "na moda”. Há dietas que cortam glúten, lactose, carboidrato, proteína e gordura. “Regime da sopa”, jejum intermitente e *low carb* e cetogênica são algumas das mais famosas. São tantos modismos, que vêm e que vão, que os pacientes acabam perdidos nesse mar de informações e se questionam: vale mesmo a pena tirar o glúten oriundo dos cereais como trigo, centeio e cevada e os derivados de leite da alimentação?
 

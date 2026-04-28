@@ -1,11 +1,12 @@
 ---
-title: "Nova terapia para esclerose lateral amiotrófica (ELA)"
+title: Nova terapia para esclerose lateral amiotrófica (ELA)
 date: 2021-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A esclerose lateral amiotrófica, conhecida como ELA, é uma [doença neurodegenerativa](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/243-nova-terapia-para-esclerose-lateral-amiotrofica-ela#) caracterizada por perda progressiva dos neurônios responsáveis pelos movimentos voluntários. A ELA causa paralisia progressiva e afeta homens e mulheres praticamente da mesma forma. Dependendo do grau da doença, o tempo de [sobrevida](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/243-nova-terapia-para-esclerose-lateral-amiotrofica-ela#) pode variar de três a cinco anos após o diagnóstico, ocorrendo, em geral, a morte do paciente por insuficiência respiratória. A maioria deles não aceita tratamentos ou intervenções que  permitam maior sobrevida por conta da gravidade e irreversibilidade dos sintomas da doença. Embora a maioria dos casos de ELA seja esporádico, 10% deles estão relacionados a um histórico familiar da doença, chamada de esclerose lateral amiotrófica familiar (ELAf). Nesses casos, o paciente começa a apresentar os sintomas cerca de 10 anos antes daqueles que possuem o tipo esporádico da doença, com uma sobrevida menor.
 

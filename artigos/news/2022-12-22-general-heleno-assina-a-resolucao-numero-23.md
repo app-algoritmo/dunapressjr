@@ -1,12 +1,13 @@
 ---
-title: "General Heleno assina a resolução número 23"
+title: General Heleno assina a resolução número 23
 date: 2022-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Resolução n. 23 - 19/12/2022 do DOU.
 

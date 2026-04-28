@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro veta projeto da nova Lei Aldir Blanc, que destinava R$ 3 bi de verba anual a cultura"
+title: Bolsonaro veta projeto da nova Lei Aldir Blanc, que destinava R$ 3 bi de verba
+  anual a cultura
 date: 2022-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro vetou integralmente proposta que institui a Política Nacional Aldir Blanc de Fomento à Cultura, com repasses anuais de R$ 3 bilhões da União a estados e municípios para ações no setor. A mensagem presidencial com o veto foi publicada no [Diário Oficial da União](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Msg/Vet/VET-212-22.htm) desta quinta-feira (5).
 

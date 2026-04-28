@@ -1,11 +1,12 @@
 ---
-title: "Entenda os acordos de Oslo, tentativa de paz entre Israel e Palestina"
+title: Entenda os acordos de Oslo, tentativa de paz entre Israel e Palestina
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Agência Brasil conversou com pesquisadoras sobre o assunto.
 

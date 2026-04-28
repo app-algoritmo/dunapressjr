@@ -1,11 +1,12 @@
 ---
-title: "Como funciona a coparticipação em plano de saúde empresarial"
+title: Como funciona a coparticipação em plano de saúde empresarial
 date: 2022-06-15
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Cerca de 77% dos profissionais consideram o [plano de saúde](https://blog.samisaude.com.br/tudo-sobre-plano-de-saude/) o benefício mais importante que as empresas podem oferecer. Essa foi a conclusão da pesquisa feita pela empresa Robert Half, em 2020. Sendo assim, é importante que empregador e funcionário se mantenham informados sobre as modalidades disponíveis, como a coparticipação.
 

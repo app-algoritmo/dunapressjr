@@ -1,11 +1,13 @@
 ---
-title: "Relato de um bebê boiando morto na tragédia do RGS abala voluntário e choca redes sociais"
+title: Relato de um bebê boiando morto na tragédia do RGS abala voluntário e choca
+  redes sociais
 date: 2024-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 Relato de um voluntário... Duvido que a mídia vai falar sobre isso...
 Diz ele, que tem muitos corpos boiando em alguns lugares...

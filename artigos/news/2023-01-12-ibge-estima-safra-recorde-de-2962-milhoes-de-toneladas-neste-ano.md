@@ -1,11 +1,12 @@
 ---
-title: "IBGE estima safra recorde de 296,2 milhões de toneladas neste ano"
+title: IBGE estima safra recorde de 296,2 milhões de toneladas neste ano
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção de soja é o principal destaque.
 

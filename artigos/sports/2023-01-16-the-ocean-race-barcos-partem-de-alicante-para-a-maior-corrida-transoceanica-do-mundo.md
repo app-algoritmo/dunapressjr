@@ -1,11 +1,13 @@
 ---
-title: "The Ocean Race: Barcos partem de Alicante para a maior corrida transoceânica do mundo"
+title: 'The Ocean Race: Barcos partem de Alicante para a maior corrida transoceânica
+  do mundo'
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O domingo (15) foi perfeito em Alicante, na Espanha, para a largada da The Ocean Race, maior corrida transoceânica do mundo. Com muito sol, bons ventos e grande público na Ocean Live Park, a Vila da Regata da cidade espanhola, os melhores velejadores do planeta partiram para este que é considerado o teste mais difícil da vela mundial.
 

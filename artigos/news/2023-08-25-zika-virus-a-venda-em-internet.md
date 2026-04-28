@@ -1,11 +1,12 @@
 ---
-title: "Zika Vírus à venda em internet"
+title: Zika Vírus à venda em internet
 date: 2023-08-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **O Zika Vírus é um "produto" desenvolvido em 1947 em Uganda na África pelos laboratórios da fundação Rockefeller e está disponível para venda no seguinte link: [ATCC.ORG](https://www.atcc.org/products/all/VR-84.aspx?geo_country=usa)**
 

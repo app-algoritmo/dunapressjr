@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que altera regras do sistema de pensão para policiais militares e bombeiros"
+title: Comissão aprova projeto que altera regras do sistema de pensão para policiais
+  militares e bombeiros
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O projeto ainda será analisado pelas comissões de Previdência; de Finanças; e de Constituição e Justiça.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mais de sete milhões de brasileiros aderem ao autosserviço"
+title: Mais de sete milhões de brasileiros aderem ao autosserviço
 date: 2023-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para contornar os índices de inflação e a situação econômica mais instável no Brasil, os consumidores estão mais cautelosos na hora de comprar e investir em serviços e produtos. De acordo com o relatório *Consumer Insights*, realizado pela Kantar, a busca pela otimização de gastos influenciou o crescimento do *omnichannel *no Brasil e nos demais países da América Latina. Fato é que a tendência "figital", no qual a empresa está presente em diversos canais, é uma realidade que não pode ser ignorada. Os clientes não estão mais "nichados" em barreiras de lojas físicas, compras on-line e aplicativos, e exigem uma experiência de compra unificada, integrando diferentes canais de comunicação para o mesmo fim: qualidade no atendimento e na aquisição de serviços e produtos. Pelo fato de o consumidor, hoje, utilizar diversos canais de compra antes de fechar um negócio, empresas e marcas precisam se reinventar cada vez mais, assegurando presença em todas as etapas da jornada de compra. 
 

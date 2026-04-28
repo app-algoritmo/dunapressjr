@@ -1,11 +1,13 @@
 ---
-title: "Comissão discute tributos sobre compras de produtos importados feitas pela internet"
+title: Comissão discute tributos sobre compras de produtos importados feitas pela
+  internet
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Atualmente, compras até US$ 50 não são taxadas
 

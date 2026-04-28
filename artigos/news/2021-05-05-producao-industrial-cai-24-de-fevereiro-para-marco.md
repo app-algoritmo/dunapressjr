@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cai 2,4% de fevereiro para março"
+title: Produção industrial cai 2,4% de fevereiro para março
 date: 2021-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números são da Pesquisa Industrial Mensal do IBGE.
 

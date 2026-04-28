@@ -1,11 +1,12 @@
 ---
-title: "Fortalecimento do crédito será prioridade em 2021, informa ministério"
+title: Fortalecimento do crédito será prioridade em 2021, informa ministério
 date: 2020-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aperfeiçoamento das garantias está na agenda da equipe econômica.
 

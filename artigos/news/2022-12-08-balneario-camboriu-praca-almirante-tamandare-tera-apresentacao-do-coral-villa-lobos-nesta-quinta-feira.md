@@ -1,11 +1,13 @@
 ---
-title: "Balneário Camboriú: Praça Almirante Tamandaré terá apresentação do Coral Villa-Lobos nesta quinta-feira"
+title: 'Balneário Camboriú: Praça Almirante Tamandaré terá apresentação do Coral Villa-Lobos
+  nesta quinta-feira'
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Praça Almirante Tamandaré recebe novamente o Coral Villa-Lobos nesta quinta-feira (8), às 20h, dentro da programação do evento “Natal de Brincadeiras BC”.
 

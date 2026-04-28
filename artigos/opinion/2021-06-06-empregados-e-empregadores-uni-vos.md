@@ -1,11 +1,12 @@
 ---
-title: "Empregados e empregadores, uni-vos"
+title: Empregados e empregadores, uni-vos
 date: 2021-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 “Todo poder será fraco, a menos que esteja unido”, escreveu o poeta francês Jean de La Fontaine, que viveu no século XVII e ficou famoso por organizar coletâneas de fábulas, sempre inspirado pela obra do escritor grego Esopo. Quase 400 anos depois, a máxima ainda é válida e se aplica às mais diferentes circunstâncias da vida no século XXI, inclusive na atividade econômica.
 

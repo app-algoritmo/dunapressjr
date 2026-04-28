@@ -1,11 +1,12 @@
 ---
-title: "Camex zera imposto de importação para 628 máquinas industriais"
+title: Camex zera imposto de importação para 628 máquinas industriais
 date: 2023-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maioria dos produtos é proveniente dos EUA, China, Alemanha e Itália.
 

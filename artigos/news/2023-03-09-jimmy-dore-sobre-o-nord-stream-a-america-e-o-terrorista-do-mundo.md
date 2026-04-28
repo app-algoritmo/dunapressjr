@@ -1,11 +1,12 @@
 ---
-title: "Jimmy Dore sobre o Nord Stream: 'A América é o Terrorista do Mundo'!"
+title: 'Jimmy Dore sobre o Nord Stream: ''A América é o Terrorista do Mundo''!'
 date: 2023-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## "Os americanos são as pessoas mais informadas do mundo", disse o comediante esquerdista Jimmy Dore a Tucker Carlson em 26 de fevereiro. 
 

@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs deve ouvir presidente do Instituto de Pesquisas Ecológicas"
+title: CPI das ONGs deve ouvir presidente do Instituto de Pesquisas Ecológicas
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs ouvirá nesta terça-feira (3) a diretora-presidente e co-fundadora do Instituto de Pesquisas Ecológicas (Ipê), Suzana Machado Padua. O Ipê atua em pesquisas, educação ambiental e programas de geração de renda como formas de conservar a biodiversidade dos biomas brasileiros. O depoimento está previsto para às 10h.
 

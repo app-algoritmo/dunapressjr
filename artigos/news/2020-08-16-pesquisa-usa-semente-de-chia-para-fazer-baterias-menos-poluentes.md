@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa usa semente de chia para fazer baterias menos poluentes"
+title: Pesquisa usa semente de chia para fazer baterias menos poluentes
 date: 2020-08-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Além de nutritiva, a semente da chia pode produzir compostos que armazenam energia elétrica. Essa descoberta recente da Universidade Federal do Rio Grande do Norte (UFRN) pode gerar pilhas ou baterias menos poluentes. Uma bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) integra a equipe de pesquisa, que registrou patente do novo método.
 

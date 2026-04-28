@@ -1,11 +1,13 @@
 ---
-title: "Caso Americanas: entenda o que aconteceu e como evitar rombos no caixa da sua empresa"
+title: 'Caso Americanas: entenda o que aconteceu e como evitar rombos no caixa da
+  sua empresa'
 date: 2023-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 Uma notícia bombástica surpreendeu todo o Brasil neste início de ano: as Lojas Americanas, gigante varejista brasileira, revelou inconsistências contábeis nos números, reportando um rombo financeiro de R$ 20 bilhões. O fato levantou muitas questões, principalmente no meio empresarial: por quais motivos uma empresa tão grande deixou passar despercebido um número dessa magnitude? Se isso aconteceu com uma gigante do mercado, quais as chances de acontecer com organizações menores? 
 

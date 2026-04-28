@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprovou piso da enfermagem e prioridade de atendimento a pessoas com autismo"
+title: Câmara aprovou piso da enfermagem e prioridade de atendimento a pessoas com
+  autismo
 date: 2022-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 2022, foram aprovados em Plenário 101 projetos de lei, 54 medidas provisórias, 39 projetos de decreto legislativo, 15 propostas de emendas à Constituição, 8 projetos de lei complementar e 8 projetos de resolução. Além disso, a Comissão de Constituição e Justiça (CCJ) aprovou, em caráter conclusivo, 93 projetos de lei. Entre os textos, estão vários que tratam de saúde. Confira abaixo.
 

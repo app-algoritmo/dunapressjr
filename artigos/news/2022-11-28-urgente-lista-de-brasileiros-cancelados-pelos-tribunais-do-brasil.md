@@ -1,11 +1,12 @@
 ---
-title: "Urgente: lista de brasileiros cancelados pelos tribunais do Brasil"
+title: 'Urgente: lista de brasileiros cancelados pelos tribunais do Brasil'
 date: 2022-11-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Ver também no final do artigo a mensagem do recente censurado Ed Raposo.
 

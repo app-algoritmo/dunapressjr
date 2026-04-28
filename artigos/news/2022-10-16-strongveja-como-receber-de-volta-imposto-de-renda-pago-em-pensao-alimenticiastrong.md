@@ -1,11 +1,12 @@
 ---
-title: "<strong>Veja como receber de volta Imposto de Renda pago em pensão alimentícia</strong>"
+title: <strong>Veja como receber de volta Imposto de Renda pago em pensão alimentícia</strong>
 date: 2022-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Devolução deve ser feito por meio de declaração retificadora.
 

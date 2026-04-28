@@ -1,13 +1,14 @@
 ---
-title: "Congresso IEM terá palestras de Etiene Medeiros e João Gomes Jr. no dia 23"
+title: Congresso IEM terá palestras de Etiene Medeiros e João Gomes Jr. no dia 23
 date: 2023-09-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Events
-  - Sports
+- Education
+- Events
+- Sports
 ---
+
 
 ## Evento, on-line, organizado pelo Instiuto Etiene Medeiros, terá cinco horas de imersão em conhecimento sobre educação e esporte, com início às 8h. Palestras inspiradoras, debates envolventes e interação com atletas e profissionais olímpicos de renome.
 

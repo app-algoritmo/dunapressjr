@@ -1,11 +1,13 @@
 ---
-title: "Reestruturação na Liderança da Ucrânia: Zelensky Demite Principal General em Meio a Reinício dos Esforços de Guerra"
+title: 'Reestruturação na Liderança da Ucrânia: Zelensky Demite Principal General
+  em Meio a Reinício dos Esforços de Guerra'
 date: 2024-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Numa mudança dramática destinada a revitalizar os esforços militares da Ucrânia, o Presidente Volodymyr Zelensky demitiu seu principal general, Gen. Valeriy Zaluzhniy, em um marco que representa a reestruturação mais significativa na liderança do país desde o início da invasão russa em larga escala há quase dois anos. A decisão de Zelensky, anunNuma mudança dramática destinada a revitalizar os esforços militares da Ucrânia, o Presidente Volodymyr Zelensky demitiu seu principal general, Gen. Valeriy Zaluzhniy, em um marco que representa a reestruturação mais significativa na liderança do país desde o início da invasão russa em larga escala há quase dois anos.ciada em um discurso em vídeo na quinta-feira, destaca a necessidade premente de mudanças urgentes dentro das forças armadas à medida que a Ucrânia enfrenta desafios crescentes no campo de batalha.
 

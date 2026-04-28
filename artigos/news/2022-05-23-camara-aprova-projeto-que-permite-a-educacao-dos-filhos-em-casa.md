@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que permite a educação dos filhos em casa"
+title: Câmara aprova projeto que permite a educação dos filhos em casa
 date: 2022-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados concluiu nesta quinta-feira (19) a votação do projeto de lei que regulamenta a prática da educação domiciliar no Brasil, prevendo a obrigação do poder público de zelar pelo adequado desenvolvimento da aprendizagem do estudante. A matéria será enviada ao Senado.
 

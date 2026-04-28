@@ -1,12 +1,13 @@
 ---
-title: "Boluarte comemora um mês na presidência do Peru em meio a protestos"
+title: Boluarte comemora um mês na presidência do Peru em meio a protestos
 date: 2023-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 A presidente do Peru, Dina Boluarte, completa neste sábado um mês de mandato, ao qual aderiu por sucessão constitucional após a demissão de Pedro Castillo, período em que enfrentou violentos protestos em todo o país que seguem na ativa com saldo de 28 mortos e 36 feridos até este sábado.
 

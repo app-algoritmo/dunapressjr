@@ -1,11 +1,12 @@
 ---
-title: "Morte da Rainha Elizabeth é Ameaça à Coroa Britânica, diz Historiador"
+title: Morte da Rainha Elizabeth é Ameaça à Coroa Britânica, diz Historiador
 date: 2022-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A rejeição ao rei Charles III e as dificuldades pós-pandêmicas, pós-saída da zona do Euro e com as imposições russas em relação ao fornecimento de gás colocam em risco a monarquia britânica. 
 

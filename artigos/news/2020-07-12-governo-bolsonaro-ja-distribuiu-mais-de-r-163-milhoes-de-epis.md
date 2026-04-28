@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro já distribuiu mais de R$ 163 milhões de EPIs"
+title: Governo Bolsonaro já distribuiu mais de R$ 163 milhões de EPIs
 date: 2020-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os materiais são para os profissionais de saúde de todos os estados que atuam no cuidado a pacientes com Covid-19. 
 

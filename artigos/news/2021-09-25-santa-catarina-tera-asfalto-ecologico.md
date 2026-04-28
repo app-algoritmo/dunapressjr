@@ -1,11 +1,12 @@
 ---
-title: "Santa Catarina terá asfalto ecológico"
+title: Santa Catarina terá asfalto ecológico
 date: 2021-09-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A pavimentação ecológica é uma alternativa sustentável, com durabilidade alta e evita o recapeamento a cada três ou quatro anos, além de reduzir o impacto ambiental com a exploração das pedreiras.
 

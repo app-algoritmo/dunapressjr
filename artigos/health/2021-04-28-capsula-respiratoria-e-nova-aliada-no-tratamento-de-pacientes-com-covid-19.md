@@ -1,11 +1,12 @@
 ---
-title: "Cápsula respiratória é nova aliada no tratamento de pacientes com Covid-19"
+title: Cápsula respiratória é nova aliada no tratamento de pacientes com Covid-19
 date: 2021-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Elza Maria Zawadzki, 57 anos, é uma das pacientes do Hospital Marcelino Champagnat, em Curitiba, a utilizar o Helmet, uma cápsula respiratória que é vista como uma nova aliada para melhorar a oxigenação dos pacientes. Mais confortáveis que as máscaras de oxigênio habituais, que ficam encostadas na pele, o equipamento funciona como um capacete com filtros e exaustão antivirais e antibacterianos, que promovem a renovação do ar e criam uma pressão positiva  para o paciente, que fica dentro da cápsula. 
 

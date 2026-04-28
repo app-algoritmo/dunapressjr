@@ -1,11 +1,12 @@
 ---
-title: "Redução de jornada e salário: como informar a folha no eSocial Doméstico?"
+title: 'Redução de jornada e salário: como informar a folha no eSocial Doméstico?'
 date: 2020-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Empregadores que acordaram a redução de jornada e salário com os trabalhadores deverão observar as seguintes orientações para o cálculo do salário na folha de pagamento
 

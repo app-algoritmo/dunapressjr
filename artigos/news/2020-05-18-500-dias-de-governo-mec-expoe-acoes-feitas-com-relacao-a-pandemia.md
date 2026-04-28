@@ -1,11 +1,12 @@
 ---
-title: "500 dias de governo: MEC expõe ações feitas com relação à pandemia"
+title: '500 dias de governo: MEC expõe ações feitas com relação à pandemia'
 date: 2020-05-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 As ações de combate ao novo coronavírus foram destaque na cerimônia de 500 dias do presidente Jair Bolsonaro. Entre as publicações, divulgadas nesta sexta-feira, 15 de maio, estavam as [duas iniciativas do Ministério da Educação (MEC)](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias): a garantia da alimentação de estudantes da educação básica e a movimentação de universidades e institutos federais para auxiliar a sociedade.
 

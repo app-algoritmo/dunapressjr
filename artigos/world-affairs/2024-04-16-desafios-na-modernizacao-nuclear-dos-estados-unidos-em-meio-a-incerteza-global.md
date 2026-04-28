@@ -1,11 +1,12 @@
 ---
-title: "Desafios na Modernização Nuclear dos Estados Unidos em Meio à Incerteza Global"
+title: Desafios na Modernização Nuclear dos Estados Unidos em Meio à Incerteza Global
 date: 2024-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os Estados Unidos enfrentam desafios significativos na modernização de seu arsenal nuclear, com atrasos na implantação de sucessores e incerteza sobre a eficácia de suas capacidades nucleares em um cenário geopolítico cada vez mais complexo.
 

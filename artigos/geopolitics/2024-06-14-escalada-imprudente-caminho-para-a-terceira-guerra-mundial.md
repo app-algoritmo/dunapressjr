@@ -1,11 +1,12 @@
 ---
-title: "Escalada Imprudente: Caminho para a Terceira Guerra Mundial"
+title: 'Escalada Imprudente: Caminho para a Terceira Guerra Mundial'
 date: 2024-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O apoio dos EUA e da OTAN à Ucrânia na guerra contra a Rússia tem se mostrado ineficaz, mas isso não impediu a intensificação do conflito com novas armas e táticas. A cada novo passo do Ocidente, a Rússia responde com uma nova escalada, aproximando o mundo de um conflito nuclear.
 

@@ -1,11 +1,12 @@
 ---
-title: "Empréstimo no Bolsa Família é retomado, mas com novas regras"
+title: Empréstimo no Bolsa Família é retomado, mas com novas regras
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A taxa de juros não poderá ser superior 2,5% ao mês.
 

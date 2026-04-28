@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Fazenda pede cautela diante do desempenho inflado pelo agronegócio"
+title: Ministro da Fazenda pede cautela diante do desempenho inflado pelo agronegócio
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Haddad ressalta a importância de focar no desempenho econômico de 2024 para estimular a criação de empregos em um cenário de possível queda dos juros.
 

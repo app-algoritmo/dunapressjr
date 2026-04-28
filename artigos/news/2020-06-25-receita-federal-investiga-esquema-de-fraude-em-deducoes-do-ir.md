@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal investiga esquema de fraude em deduções do IR"
+title: Receita Federal investiga esquema de fraude em deduções do IR
 date: 2020-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estima-se que as deduções indevidas atinjam R$ 20 milhões.
 

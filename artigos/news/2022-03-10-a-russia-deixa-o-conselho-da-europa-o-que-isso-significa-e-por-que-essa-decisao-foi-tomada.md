@@ -1,11 +1,13 @@
 ---
-title: "A Rússia deixa o Conselho da Europa. O que isso significa e por que essa decisão foi tomada?"
+title: A Rússia deixa o Conselho da Europa. O que isso significa e por que essa decisão
+  foi tomada?
 date: 2022-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A declaração do Ministério das Relações Exteriores da Rússia não significa que a Rússia está encerrando sua participação no Conselho da Europa agora. Ela permanecerá como membro da organização até o final de 2022.
 

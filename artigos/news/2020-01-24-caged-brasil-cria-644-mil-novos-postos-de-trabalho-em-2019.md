@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil cria 644 mil novos postos de trabalho em 2019"
+title: 'Caged: Brasil cria 644 mil novos postos de trabalho em 2019'
 date: 2020-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Em números absolutos, ano registrou a geração de 115 mil postos a mais do que em 2018*
 

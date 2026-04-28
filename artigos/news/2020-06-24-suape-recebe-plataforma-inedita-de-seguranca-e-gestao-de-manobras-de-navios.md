@@ -1,11 +1,12 @@
 ---
-title: "Suape recebe plataforma inédita de Segurança e Gestão de Manobras de Navios"
+title: Suape recebe plataforma inédita de Segurança e Gestão de Manobras de Navios
 date: 2020-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Tecnologia foi desenvolvida e implementada pela startup NavalPort, contratada pela Petrobrás.
 

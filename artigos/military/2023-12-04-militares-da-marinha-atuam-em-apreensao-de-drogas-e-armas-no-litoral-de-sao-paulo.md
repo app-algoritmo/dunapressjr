@@ -1,11 +1,13 @@
 ---
-title: "Militares da Marinha atuam em apreensão de drogas e armas no litoral de São Paulo"
+title: Militares da Marinha atuam em apreensão de drogas e armas no litoral de São
+  Paulo
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Operação “Navegação Segura” foi realizada em conjunto com as Polícias Civil e Militar.
 

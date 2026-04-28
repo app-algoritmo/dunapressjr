@@ -1,12 +1,13 @@
 ---
-title: "Eu, o menino e o cachorro!"
+title: Eu, o menino e o cachorro!
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 E eu só reclamava da vida…reclamava da noite porque eu não dormia,
 reclamava do dia porque eu sofria, reclamava do frio que me gelava a alma,

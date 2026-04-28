@@ -1,11 +1,12 @@
 ---
-title: "Projeto fixa diretrizes para combate ao combustível adulterado"
+title: Projeto fixa diretrizes para combate ao combustível adulterado
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 1501/23 cria diretrizes de prevenção e combate à comercialização de combustíveis adulterados. Em análise na Câmara dos Deputados, o texto inclui as medidas na [Lei 9.847/99](https://www2.camara.gov.br/legin/fed/lei/1999/lei-9847-26-outubro-1999-369365-norma-pl.html), que trata da fiscalização das atividades relativas ao abastecimento nacional de combustíveis. 
 

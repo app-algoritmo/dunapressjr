@@ -1,11 +1,13 @@
 ---
-title: "Jovem é preso em em Santa Catarina por suposta práticas racistas e anti-semitismo nas redes sociais"
+title: Jovem é preso em em Santa Catarina por suposta práticas racistas e anti-semitismo
+  nas redes sociais
 date: 2023-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um jovem acusado de fazer apologia ao nazismo e disseminar discurso de ódio contra negros e judeus na internet foi preso preventivamente, a pedido do Ministério Público de Santa Catarina (MPSC), na manhã desta sexta-feira (17/3), em Porto Belo. O pedido da prisão preventiva foi deferido pela Justiça ao receber a ação penal apresentada pela 40ª Promotoria de Justiça da Comarca da Capital contra o investigado pela suposta prática do crime de racismo.
 

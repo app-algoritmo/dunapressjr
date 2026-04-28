@@ -1,11 +1,12 @@
 ---
-title: "Musculação na adolescência: prós e contras da prática"
+title: 'Musculação na adolescência: prós e contras da prática'
 date: 2023-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O verão é a época chave para muitas pessoas que buscam criar o hábito da atividade física, até mesmo para adolescentes. No entanto, é preciso lembrar que os adolescentes ainda estão em desenvolvimento e que é necessário acompanhamento e supervisão adequados para garantir uma atividade segura e evitar lesões.
 

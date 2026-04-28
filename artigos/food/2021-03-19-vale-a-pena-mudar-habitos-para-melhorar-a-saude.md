@@ -1,11 +1,12 @@
 ---
-title: "Vale a pena mudar hábitos para melhorar a saúde"
+title: Vale a pena mudar hábitos para melhorar a saúde
 date: 2021-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 "É um sacrifício sair de uma rotina de maus hábitos. Criar uma rotina saudável é mais difícil ainda, mas vale muito a pena. Eu pude ver isso depois de emagrecer e me sentir mais disposta”, a descrição é da médica veterinária Luiza Cysne, de 32 anos que chegou a pesar 122 quilos e hoje está com 59 quilos.
 

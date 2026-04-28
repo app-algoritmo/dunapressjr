@@ -1,11 +1,12 @@
 ---
-title: "Príncipe Reuss Heinrich XIII, detido por suposto golpe contra a república alemã"
+title: Príncipe Reuss Heinrich XIII, detido por suposto golpe contra a república alemã
 date: 2022-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O empresário imobiliário de Frankfurt [Heinrich XIII-Príncipe Reuss](https://www.wikidata.org/wiki/Q75392006) foi preso por suposto golpe contra o Estado.
 

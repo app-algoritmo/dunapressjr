@@ -1,11 +1,12 @@
 ---
-title: "Menos da metade dos reajustes salariais em agosto ficou abaixo do INPC"
+title: Menos da metade dos reajustes salariais em agosto ficou abaixo do INPC
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Piso médio foi de R$ 1.390, 14,7% acima do salário mínimo.
 

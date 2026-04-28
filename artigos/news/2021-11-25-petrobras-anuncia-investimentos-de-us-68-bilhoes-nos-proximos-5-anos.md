@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia investimentos de US$ 68 bilhões nos próximos 5 anos"
+title: Petrobras anuncia investimentos de US$ 68 bilhões nos próximos 5 anos
 date: 2021-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor é 24% superior ao investido no plano anterior.
 

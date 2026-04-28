@@ -1,11 +1,12 @@
 ---
-title: "Dólar encosta em R$ 5,45 e fecha no maior valor desde abril"
+title: Dólar encosta em R$ 5,45 e fecha no maior valor desde abril
 date: 2021-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 2,22% com pessimismo doméstico e externo.
 

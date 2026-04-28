@@ -1,11 +1,12 @@
 ---
-title: "The Great Reset - 'O Grande Reinício'"
+title: The Great Reset - 'O Grande Reinício'
 date: 2020-06-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ### "The Great Reset" será o tema de uma cúpula gêmea única em janeiro de 2021, convocada pelo Fórum Econômico Mundial.
 

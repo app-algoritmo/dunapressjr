@@ -1,11 +1,13 @@
 ---
-title: "Monitor do PIB-FGV: Estagnação no terceiro trimestre reflete fragilidade da economia brasileira"
+title: 'Monitor do PIB-FGV: Estagnação no terceiro trimestre reflete fragilidade da
+  economia brasileira'
 date: 2023-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desempenho estagnado e desafios para a sustentação do crescimento econômico.
 

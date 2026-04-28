@@ -1,11 +1,12 @@
 ---
-title: "Preços de aluguéis sobem 0,10% em outubro"
+title: Preços de aluguéis sobem 0,10% em outubro
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa é da Fundação Getúlio Vargas.
 

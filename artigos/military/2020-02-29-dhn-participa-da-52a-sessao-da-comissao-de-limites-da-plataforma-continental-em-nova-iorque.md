@@ -1,11 +1,13 @@
 ---
-title: "DHN participa da 52a Sessão da Comissão de Limites da Plataforma Continental, em Nova Iorque"
+title: DHN participa da 52a Sessão da Comissão de Limites da Plataforma Continental,
+  em Nova Iorque
 date: 2020-02-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em continuidade ao processo de análise da submissão de limite exterior
 da plataforma continental brasileira para a Margem Equatorial do Brasil,

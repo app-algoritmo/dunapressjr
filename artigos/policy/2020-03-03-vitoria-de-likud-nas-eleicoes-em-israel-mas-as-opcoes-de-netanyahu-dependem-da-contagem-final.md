@@ -1,11 +1,13 @@
 ---
-title: "Vitória de Likud, nas eleições  em Israel,  mas as opções de Netanyahu dependem da contagem final"
+title: Vitória de Likud, nas eleições  em Israel,  mas as opções de Netanyahu dependem
+  da contagem final
 date: 2020-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Como a contagem de votos para essas terceiras eleições oscilou entre o final de segunda e a maior parte de terça-feira, a aritmética rígida do sistema político multipartidário de Israel ocupou o centro do palco.
 

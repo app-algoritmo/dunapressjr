@@ -1,11 +1,12 @@
 ---
-title: "Petrobras lança edital de R$ 20 milhões para startups"
+title: Petrobras lança edital de R$ 20 milhões para startups
 date: 2022-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Inscrições para 4º edital do módulo já estão abertas.
 

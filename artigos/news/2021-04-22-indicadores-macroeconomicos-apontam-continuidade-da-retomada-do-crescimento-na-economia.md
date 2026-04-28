@@ -1,11 +1,13 @@
 ---
-title: "Indicadores macroeconômicos apontam continuidade da retomada do crescimento na economia"
+title: Indicadores macroeconômicos apontam continuidade da retomada do crescimento
+  na economia
 date: 2021-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados analisados pela Secretaria de Política Econômica reforçam expectativa de recuperação significativa do PIB no primeiro trimestre deste ano.
 

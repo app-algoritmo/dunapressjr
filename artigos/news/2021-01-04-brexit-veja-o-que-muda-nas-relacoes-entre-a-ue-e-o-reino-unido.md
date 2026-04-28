@@ -1,11 +1,12 @@
 ---
-title: "Brexit: veja o que muda nas relações entre a UE e o Reino Unido"
+title: 'Brexit: veja o que muda nas relações entre a UE e o Reino Unido'
 date: 2021-01-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acordo entrou em vigor provisoriamente em 1º de janeiro.
 

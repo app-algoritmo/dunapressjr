@@ -1,11 +1,12 @@
 ---
-title: "Veja como sacar o FGTS por motivo de saúde"
+title: Veja como sacar o FGTS por motivo de saúde
 date: 2022-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2021, mais de 440 mil pessoas acessaram o benefício dessa forma.
 

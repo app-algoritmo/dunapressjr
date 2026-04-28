@@ -1,11 +1,12 @@
 ---
-title: "Congresso mantém vetos ao novo Marco Legal do Saneamento Básico"
+title: Congresso mantém vetos ao novo Marco Legal do Saneamento Básico
 date: 2021-03-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Marco Legal do Saneamento Básico extingue a possibilidade de novos contratos de programa pactuados sem licitação entre municípios e empresas de saneamento.
 

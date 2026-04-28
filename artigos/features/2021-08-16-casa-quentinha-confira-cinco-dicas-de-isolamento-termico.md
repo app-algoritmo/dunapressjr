@@ -1,11 +1,12 @@
 ---
-title: "Casa quentinha: confira cinco dicas de isolamento térmico"
+title: 'Casa quentinha: confira cinco dicas de isolamento térmico'
 date: 2021-08-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Com essa intensa onda de frio, o ideal é ter ambientes quentes e seguros para se abrigar, não é? Mas, você sabia que o principal motivo para a queda de temperatura na parte interna de casa se dá por um efeito da física? A explicação é simples: esse efeito mostra que a temperatura de um espaço interno é resultado do balanço de ganhos e perdas de calor, ou seja, mesmo com os termômetros do lado de fora gelados é possível acumular calor dentro de casa.
 

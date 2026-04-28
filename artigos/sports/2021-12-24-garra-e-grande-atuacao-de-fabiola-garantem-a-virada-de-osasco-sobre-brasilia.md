@@ -1,11 +1,12 @@
 ---
-title: "Garra e grande atuação de Fabíola garantem a virada de Osasco sobre Brasília"
+title: Garra e grande atuação de Fabíola garantem a virada de Osasco sobre Brasília
 date: 2021-12-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Levantadora saiu do banco no terceiro set, superou dores nas costas e comandou a equipe osasquense na sexta vitória consecutiva na Superliga 21/22.
 

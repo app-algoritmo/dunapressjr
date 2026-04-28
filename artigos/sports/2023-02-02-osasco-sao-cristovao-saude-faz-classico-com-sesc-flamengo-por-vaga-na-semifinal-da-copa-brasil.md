@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde faz clássico com Sesc Flamengo por vaga na semifinal da Copa Brasil"
+title: Osasco São Cristóvão Saúde faz clássico com Sesc Flamengo por vaga na semifinal
+  da Copa Brasil
 date: 2023-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Osasco São Cristóvão Saúde dá um tempo na Superliga e encara um clássico com cara de decisão nesta quinta-feira (2). A equipe comandada pelo técnico Luizomar recebe o Sesc Flamengo em jogo válido pelas quartas de final da Copa Brasil. A partida começa às 21h30, com ingressos esgotados para o ginásio José Liberatti e transmissão do SporTV 2. A equipe osasquense vai em busca da vitória para garantir vaga na semifinal e seguir na luta pelo tetracampeonato do torneio.
 

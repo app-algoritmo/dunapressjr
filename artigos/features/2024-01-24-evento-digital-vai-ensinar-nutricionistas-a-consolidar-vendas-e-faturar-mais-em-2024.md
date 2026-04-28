@@ -1,11 +1,13 @@
 ---
-title: "Evento digital vai ensinar nutricionistas a consolidar vendas e faturar mais em 2024"
+title: Evento digital vai ensinar nutricionistas a consolidar vendas e faturar mais
+  em 2024
 date: 2024-01-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Escola de Negócio Nutrição Sem Fronteiras promove a Imersão Online Nutri Vendas 3.5x, dia 30 de janeiro, no formato online. Inscrições estão abertas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Finalistas divulgados no prêmio Capes/Natura"
+title: Finalistas divulgados no prêmio Capes/Natura
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Edição recebeu 153 artigos científicos.
 

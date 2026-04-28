@@ -1,11 +1,12 @@
 ---
-title: "Aberto em Itajaí chamamento público para festivais e eventos online"
+title: Aberto em Itajaí chamamento público para festivais e eventos online
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação Cultural de Itajaí informa que está aberto o Edital nº 012/2020 de chamamento público para festivais e eventos online, com recursos oriundos da Lei nº 14.017– Lei de Emergência Cultural Aldir Blanc, disponibilizados por conta da pandemia de coronavírus. O edital ficará aberto até o dia 18 de dezembro e os interessados devem acessar o sistema Prosas para cadastro (**[clique aqui](https://prosas.com.br/editais/8192-edital-n-012-2020-edital-festivais-on-lines-oriundos-da-lei-n-14-017-de-29-de-junho-de-2020-lei-de-emergencia-cultural-aldir-blanc)**).
 

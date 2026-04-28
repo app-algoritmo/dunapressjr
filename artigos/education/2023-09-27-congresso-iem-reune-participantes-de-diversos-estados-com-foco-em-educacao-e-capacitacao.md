@@ -1,12 +1,14 @@
 ---
-title: "Congresso IEM reúne participantes de diversos estados com foco em educação e capacitação"
+title: Congresso IEM reúne participantes de diversos estados com foco em educação
+  e capacitação
 date: 2023-09-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Evento do Instituto Esporte e Educação, on-line, teve 242 inscritos, de diferentes regiões do País e, também, do Exterior, que puderam acompanhar palestras e interagir com a fundadora do IEM, a nadadora pernambucana Etiene Medeiros, e palestrantes convidados.
 

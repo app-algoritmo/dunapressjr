@@ -1,11 +1,12 @@
 ---
-title: "Teoria do Astronauta Antigo: A Verdade está no passado?"
+title: 'Teoria do Astronauta Antigo: A Verdade está no passado?'
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 “*Há um homem das estrelas, esperando no céu.* Ele Gostaria de vir e encontrar-nos. Mas ele pensa que iria confundir nossas cabeças" StarMan - David Bowie. Tradução livre.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo lança programa para avaliar desempenho de funcionários de alto escalão"
+title: Governo lança programa para avaliar desempenho de funcionários de alto escalão
 date: 2020-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Projeto-piloto vai   ter início no Ministério da Economia e promete medir o desempenho e   produtividade de cargos de liderança na administração federal*
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério Da Mulher divulga agenda para o 4ª Conferência Nacional de Juventude"
+title: Ministério Da Mulher divulga agenda para o 4ª Conferência Nacional de Juventude
 date: 2020-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) publicou, nesta segunda-feira (9), no Diário Oficial da União (DOU), portaria que aprova o Regimento Interno da 4ª Conferência Nacional de Juventude, a ser realizada entre os dias 12 e 14 de agosto deste ano, em Brasília (DF). A iniciativa é do MMFDH, por meio da Secretaria Nacional da Juventude (SNJ), em conjunto com o Conselho Nacional da Juventude (Conjuve).
 

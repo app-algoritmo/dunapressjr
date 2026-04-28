@@ -1,11 +1,12 @@
 ---
-title: "PF investiga concessão fraudulenta de benefícios irregulares a presidiários"
+title: PF investiga concessão fraudulenta de benefícios irregulares a presidiários
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou nesta sexta-feira (5/6) as Operação *Consilium Fraudis** e Facilitador, para desarticular associação criminosa que atua tanto no Conselho Penitenciário Estadual, na concessão de benefícios irregulares aos condenados, como no Sistema Carcerário, na prática de fraudes à Previdência Social, no estado do Amapá.
 

@@ -1,11 +1,12 @@
 ---
-title: "Contribuirão para a próxima safra os recursos disponíveis e condições favoráveis"
+title: Contribuirão para a próxima safra os recursos disponíveis e condições favoráveis
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Secretário Sampaio ressaltou que, mesmo com a Selic mais baixa, os recursos disponibilizados pelo Plano Safra continuam sendo vantajosos para os produtores rurais.
 

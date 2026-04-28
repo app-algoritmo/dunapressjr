@@ -1,11 +1,12 @@
 ---
-title: "Tesouro Nacional autoriza adesão de MG a regime de recuperação fiscal"
+title: Tesouro Nacional autoriza adesão de MG a regime de recuperação fiscal
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão do STF permite inclusão sem aval da Assembleia Legislativa.
 

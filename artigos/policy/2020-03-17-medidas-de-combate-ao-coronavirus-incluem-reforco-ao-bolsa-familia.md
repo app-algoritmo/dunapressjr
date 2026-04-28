@@ -1,11 +1,12 @@
 ---
-title: "Medidas de combate ao coronavírus incluem reforço ao Bolsa Família"
+title: Medidas de combate ao coronavírus incluem reforço ao Bolsa Família
 date: 2020-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O governo federal anunciou nesta segunda-feira (16.03) que vai injetar até R$ 147,3 bilhões na economia nos próximos três meses para amenizar o impacto do coronavírus no país. Entre as medidas, está o reforço no Programa Bolsa Família, com a inclusão de 1,2 milhão de famílias beneficiadas. O impacto das ações na área social será de até R$ 3,1 bilhões.
 

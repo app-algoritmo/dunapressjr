@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em alta impulsionado por Petrobras e expectativas de afrouxamento monetário pelo Banco Central"
+title: Ibovespa fecha em alta impulsionado por Petrobras e expectativas de afrouxamento
+  monetário pelo Banco Central
 date: 2023-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ações da Petrobras lideram ganhos após anúncio de nova política de dividendos, enquanto mercado aguarda decisão do Copom sobre redução da taxa Selic.
 

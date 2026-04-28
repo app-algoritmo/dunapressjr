@@ -1,11 +1,12 @@
 ---
-title: "Governo define medidas de prevenção do coronavírus nos presídios"
+title: Governo define medidas de prevenção do coronavírus nos presídios
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os ministros da Justiça, Sergio Moro, e da Saúde, Luiz Henrique Mandetta, editaram nova portaria, nesta quarta-feira (18), estabelecendo medidas que devem ser adotadas em presídios para evitar casos de coronavírus.
 

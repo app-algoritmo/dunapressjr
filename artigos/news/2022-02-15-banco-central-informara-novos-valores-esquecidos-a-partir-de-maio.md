@@ -1,11 +1,12 @@
 ---
-title: "Banco Central informará novos valores esquecidos a partir de maio"
+title: Banco Central informará novos valores esquecidos a partir de maio
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segunda etapa da consulta abrangerá mais R$ 4,1 bilhões não sacados.
 

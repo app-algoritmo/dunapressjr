@@ -1,11 +1,12 @@
 ---
-title: "Terminal Tietê combate dengue com mosquito geneticamente modificado"
+title: Terminal Tietê combate dengue com mosquito geneticamente modificado
 date: 2022-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Oxitec Ltd, líder no desenvolvimento de soluções biológicas para o controle de pragas que transmitem doenças, destroem plantações e prejudicam a pecuária, anunciou hoje que a Socicam, líder no segmento de infraestrutura de mobilidade no Brasil, escolheu sua solução Aedes do Bem™ para proteger os usuários do Terminal Rodoviário do Tietê, em São Paulo, o segundo maior do mundo, do mosquito *Aedes aegypti*, transmissor da dengue, zika, chikungunya e febre amarela.
 

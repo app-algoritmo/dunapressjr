@@ -1,11 +1,12 @@
 ---
-title: "O primeiro Exame de Suficiência é Adiado"
+title: O primeiro Exame de Suficiência é Adiado
 date: 2020-03-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Devido a pandemia do Coronavírus, o CFC decidiu  prorrogar o primeiro Exame de Suficiência de 2020
 

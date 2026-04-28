@@ -1,11 +1,12 @@
 ---
-title: "II Encontro Monárquico Fluminense"
+title: II Encontro Monárquico Fluminense
 date: 2018-08-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O II Encontro Monárquico Fluminense terá como convidados de honra, representando a Casa Imperial do Brasil, SS.AA.RR. o Príncipe Dom Antonio de Orleans e Bragança (terceiro na linha de sucessão ao Trono) e sua esposa, a Princesa Dona Christine de Ligne de Orleans e Bragança.
 

@@ -1,11 +1,13 @@
 ---
-title: "Cientistas canadenses desenvolvem um novo método de filtragem que remove permanentemente produtos químicos “para sempre” da água potável"
+title: Cientistas canadenses desenvolvem um novo método de filtragem que remove permanentemente
+  produtos químicos “para sempre” da água potável
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Cientistas da [*University of British Columbia*](https://www.ubc.ca/) (UBC) no Canadá [desenvolveram](https://nicenews.com/innovation/new-water-treatment-removes-forever-chemicals/) uma nova tecnologia de filtragem de água que é capaz de remover permanentemente substâncias perfluoroalquil e polifluoroalquil, também conhecidas como PFAS, da água potável.
 

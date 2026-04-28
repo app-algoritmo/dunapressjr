@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa da CBS: 'Apenas 30% das armas enviadas do Ocidente para a Ucrânia chegam à linha de frente!'"
+title: 'Pesquisa da CBS: ''Apenas 30% das armas enviadas do Ocidente para a Ucrânia
+  chegam à linha de frente!'''
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O resto desaparece. Será revendido no mercado negro.
 

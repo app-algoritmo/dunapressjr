@@ -1,11 +1,12 @@
 ---
-title: "IFG produz e distribui máscaras em municípios de Goiás"
+title: IFG produz e distribui máscaras em municípios de Goiás
 date: 2020-08-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A meta é produzir 123 mil máscaras em conjunto com servidores, alunos, bolsistas e voluntários.
 

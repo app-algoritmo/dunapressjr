@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump: Terapia e cura são mais importantes que a vacina porque são imediatas"
+title: 'Donald Trump: Terapia e cura são mais importantes que a vacina porque são
+  imediatas'
 date: 2020-05-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em uma mesa redonda com executivos de restaurantes e líderes da indústria, o Pr Donald Trump, comentou neste 18 de maio sobre os grandes anúncios que já chegaram e o progresso que foi feito com terapias e comenta sobre o uso pessoal de hidroxicloroquina.
 

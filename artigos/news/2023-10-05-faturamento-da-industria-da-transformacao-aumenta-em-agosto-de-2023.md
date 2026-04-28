@@ -1,11 +1,12 @@
 ---
-title: "Faturamento da indústria da transformação aumenta em agosto de 2023"
+title: Faturamento da indústria da transformação aumenta em agosto de 2023
 date: 2023-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa da CNI aponta desafios no setor industrial brasileiro.
 

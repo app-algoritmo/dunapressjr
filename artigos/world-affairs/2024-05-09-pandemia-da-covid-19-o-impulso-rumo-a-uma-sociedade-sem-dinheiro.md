@@ -1,11 +1,12 @@
 ---
-title: "Pandemia da COVID-19: O Impulso Rumo a uma Sociedade sem Dinheiro"
+title: 'Pandemia da COVID-19: O Impulso Rumo a uma Sociedade sem Dinheiro'
 date: 2024-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No recente Fórum Econômico Mundial realizado na Arábia Saudita, uma questão ecoou entre os participantes: a pandemia da COVID-19 está moldando o futuro das transações financeiras, pavimentando o caminho para uma era sem dinheiro físico. Em uma sessão especial intitulada "Oportunidades das Moedas Digitais no Médio Oriente", o governador do Banco Central do Bahrein, Khalid Humaidan, destacou a ascensão iminente das moedas digitais de bancos centrais (CBDCs) como uma consequência direta do comportamento da população durante a crise sanitária global.
 

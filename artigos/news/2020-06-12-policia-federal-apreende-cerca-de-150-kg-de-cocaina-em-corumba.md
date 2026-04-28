@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apreende cerca de 150 kg de cocaína em Corumbá"
+title: Polícia Federal apreende cerca de 150 kg de cocaína em Corumbá
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Corumbá/MS – A Polícia Federal apreendeu na tarde desta quarta, 10/6, uma carga de 154,6 kg de cocaína em uma residência no Bairro Aeroporto, em Corumbá/MS. Um homem foi preso em flagrante.
 

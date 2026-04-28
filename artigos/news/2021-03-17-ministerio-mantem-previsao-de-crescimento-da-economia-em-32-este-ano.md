@@ -1,11 +1,12 @@
 ---
-title: "Ministério mantém previsão de crescimento da economia em 3,2% este ano"
+title: Ministério mantém previsão de crescimento da economia em 3,2% este ano
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção para inflação é de 4,4%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bancos processam 2 milhões de pedidos de renegociação de dívidas"
+title: Bancos processam 2 milhões de pedidos de renegociação de dívidas
 date: 2020-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Valor chega a R$ 200 bilhões, segundo a Febraban
 

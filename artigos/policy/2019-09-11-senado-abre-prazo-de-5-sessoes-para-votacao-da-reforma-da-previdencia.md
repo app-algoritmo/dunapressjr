@@ -1,11 +1,12 @@
 ---
-title: "Senado abre prazo de 5 sessões para votação da reforma da Previdência"
+title: Senado abre prazo de 5 sessões para votação da reforma da Previdência
 date: 2019-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Plenário reuniu nesta terça especialistas para discutir a proposta.
 

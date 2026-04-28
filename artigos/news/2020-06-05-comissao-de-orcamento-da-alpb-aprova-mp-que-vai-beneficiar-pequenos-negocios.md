@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Orçamento da ALPB aprova MP que vai beneficiar pequenos negócios"
+title: Comissão de Orçamento da ALPB aprova MP que vai beneficiar pequenos negócios
 date: 2020-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Orçamento, Fiscalização, Tributação e Transparência da Assembleia Legislativa da Paraíba (ALPB) aprovou, nesta quinta-feira (4), durante reunião remota, realizada através do sistema de videoconferência, a Medida Provisória (MP) 291/2020, encaminhada pelo Governo do Estado, que traz benefícios para as empresas paraibanas.
 

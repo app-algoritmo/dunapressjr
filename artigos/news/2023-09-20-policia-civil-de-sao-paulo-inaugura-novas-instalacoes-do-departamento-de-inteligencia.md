@@ -1,11 +1,12 @@
 ---
-title: "Polícia Civil de São Paulo inaugura novas instalações do Departamento de Inteligência"
+title: Polícia Civil de São Paulo inaugura novas instalações do Departamento de Inteligência
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Com investimento de R$7 milhões, foram feitas reformas das instalações e compras de equipamentos.
 

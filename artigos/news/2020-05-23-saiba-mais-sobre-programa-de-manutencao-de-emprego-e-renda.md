@@ -1,11 +1,12 @@
 ---
-title: "Saiba mais sobre Programa de Manutenção de Emprego e Renda"
+title: Saiba mais sobre Programa de Manutenção de Emprego e Renda
 date: 2020-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Iniciativa ajuda empregados e empregadores durante pandemia.
 

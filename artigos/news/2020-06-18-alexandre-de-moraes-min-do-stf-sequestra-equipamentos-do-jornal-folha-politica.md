@@ -1,11 +1,12 @@
 ---
-title: "Alexandre de Moraes, Min do STF sequestra equipamentos do jornal Folha Política"
+title: Alexandre de Moraes, Min do STF sequestra equipamentos do jornal Folha Política
 date: 2020-06-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Vídeo da denúncia:
 

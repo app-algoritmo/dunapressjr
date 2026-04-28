@@ -1,11 +1,12 @@
 ---
-title: "Prêmio Nobel: “Não há emergência climática”"
+title: 'Prêmio Nobel: “Não há emergência climática”'
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Um cientista de renome mundial e ganhador do Prêmio Nobel juntou-se a centenas de outros especialistas e acadêmicos importantes na assinatura da Declaração Mundial do Clima (WCD).
 

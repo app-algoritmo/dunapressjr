@@ -1,11 +1,12 @@
 ---
-title: "Diplomata Chinês Alerta os EUA sobre 'Demonização' da Relação China-Rússia"
+title: Diplomata Chinês Alerta os EUA sobre 'Demonização' da Relação China-Rússia
 date: 2024-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Antes da esperada visita do secretário de Estado dos EUA, Antony Blinken, à China, um porta-voz do Departamento de Assuntos da América do Norte e da Oceania do Ministério das Relações Exteriores da China emitiu um alerta aos Estados Unidos, pedindo que evitassem demonizar as relações entre a Rússia e a China.
 

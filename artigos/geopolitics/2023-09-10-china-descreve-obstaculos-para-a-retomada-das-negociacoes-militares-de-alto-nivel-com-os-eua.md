@@ -1,11 +1,13 @@
 ---
-title: "China descreve “obstáculos” para a retomada das negociações militares de alto nível com os EUA"
+title: China descreve “obstáculos” para a retomada das negociações militares de alto
+  nível com os EUA
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Uma autoridade chinesa mencionou as sanções dos EUA contra o ministro da defesa da China, a ajuda militar dos EUA a Taiwan e as patrulhas dos EUA no Mar do Sul da China.
 

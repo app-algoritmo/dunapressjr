@@ -1,11 +1,12 @@
 ---
-title: "Baran e Cappelletti jogam semi do BT Finals nesta quinta (21), em Florianópolis"
+title: Baran e Cappelletti jogam semi do BT Finals nesta quinta (21), em Florianópolis
 date: 2023-12-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Catarinense e parceiro italiano terminaram em primeiro no Grupo A, invictos. Os próximos adversários serão o venezuelano Nacho Guedez e o brasileiro Hugo Russo, segundos do Grupo B.
 

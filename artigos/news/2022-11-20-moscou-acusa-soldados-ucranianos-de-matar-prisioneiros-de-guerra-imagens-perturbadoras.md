@@ -1,11 +1,12 @@
 ---
-title: "Moscou acusa soldados ucranianos de matar prisioneiros de guerra (IMAGENS PERTURBADORAS)"
+title: Moscou acusa soldados ucranianos de matar prisioneiros de guerra (IMAGENS PERTURBADORAS)
 date: 2022-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Um vídeo apareceu nas redes sociais mostrando o que parecem ser as tropas de Kiev ao lado de militares russos executados.
 

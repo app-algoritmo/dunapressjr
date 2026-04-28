@@ -1,11 +1,13 @@
 ---
-title: "Ações de combate à COVID-19 são estruturadas em planejamento amplo pelo Ministério da Defesa"
+title: Ações de combate à COVID-19 são estruturadas em planejamento amplo pelo Ministério
+  da Defesa
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Defesa desenvolve várias ações de enfrentamento à COVID-19. Com a mobilização da Base Industrial de Defesa (BID) e parceria com outros agentes, os primeiros resultados já foram contabilizados. A missão, planejada de forma estruturada, leva em conta “um conjunto de atividades a serem empreendidas e orientadas pelo Estado”, explica o Secretário de Produtos de Defesa (SEPROD) da Pasta Marcos Degaut. Ele proferiu palestra no 2º Ciclo de Estudos Estratégicos de Defesa, promovido pela Escola Superior de Guerra do Ministério. O evento, na quinta-feira (14), ocorreu em parceria com a Federação das Indústrias de Minas Gerais e com os apoio das federações de indústrias de Bahia, Rio de Janeiro, Santa Catarina e São Paulo.
 

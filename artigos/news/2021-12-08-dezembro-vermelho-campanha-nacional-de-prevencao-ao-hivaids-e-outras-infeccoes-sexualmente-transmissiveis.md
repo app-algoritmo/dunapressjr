@@ -1,11 +1,13 @@
 ---
-title: "Dezembro Vermelho: Campanha Nacional de Prevenção ao HIV/Aids e Outras Infecções Sexualmente Transmissíveis"
+title: 'Dezembro Vermelho: Campanha Nacional de Prevenção ao HIV/Aids e Outras Infecções
+  Sexualmente Transmissíveis'
 date: 2021-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Campanha Dezembro Vermelho foi instituída no Brasil pela [**Lei nº 13.504/2017**](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13504.htm) como forma de gerar mobilização nacional na luta contra o vírus HIV, a Aids e outras ISTs (Infecções Sexualmente Transmissíveis).
 

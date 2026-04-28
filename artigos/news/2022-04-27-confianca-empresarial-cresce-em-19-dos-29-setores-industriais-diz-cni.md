@@ -1,11 +1,12 @@
 ---
-title: "Confiança empresarial cresce em 19 dos 29 setores industriais, diz CNI"
+title: Confiança empresarial cresce em 19 dos 29 setores industriais, diz CNI
 date: 2022-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mesmo com a queda, Icei ficou acima da linha de confiança.
 

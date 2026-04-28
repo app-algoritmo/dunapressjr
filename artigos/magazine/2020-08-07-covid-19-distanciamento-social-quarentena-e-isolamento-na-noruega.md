@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Distanciamento social, quarentena e isolamento na Noruega"
+title: 'Covid-19: Distanciamento social, quarentena e isolamento na Noruega'
 date: 2020-08-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **[256 pessoas](https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/) perderam a vida devido ao contágio pelo vírus chinês na Noruega até a data **de **publicação deste artigo**. Aqui você encontrará informações sobre por que o distanciamento social é importante, quem deve estar em quarentena ou isolamento e como isso deve ser feito.
 

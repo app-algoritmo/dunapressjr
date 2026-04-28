@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm déficit de R$ 30,2 bilhões em agosto"
+title: Contas públicas têm déficit de R$ 30,2 bilhões em agosto
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dívida bruta atinge 77,5% do PIB, diz Banco Central.
 

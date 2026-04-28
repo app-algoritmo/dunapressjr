@@ -1,11 +1,12 @@
 ---
-title: "Prosperidade Moderna e Equilíbrio Energético: Caminhos para uma Vida Plena"
+title: 'Prosperidade Moderna e Equilíbrio Energético: Caminhos para uma Vida Plena'
 date: 2024-10-09
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ### O Conceito Moderno de Prosperidade e Equilíbrio Energético
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A confederação chega ao Rio Grande do Norte"
+title: 'Série Fatos Da Independência: A confederação chega ao Rio Grande do Norte'
 date: 2023-10-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A notícia da revolução veio por mar, na escuna Maria Zeferina: Pernambuco conclamou, novamente, as províncias do Norte à Revolução, defendendo a República e o Federalismo, em julho de 1824. O ajudante de cirurgia Januário Alexandrino estava a bordo da escuna rumo ao Rio Grande do Norte e pronto para desembarcar com o pretexto de realizar um serviço de vacinação contra a varíola. Chegou, acompanhado por outros emissários pernambucanos, munido de cartas, impressos e proclamações. O objetivo não declarado dos tripulantes era fomentar a adesão do Rio Grande do Norte à Confederação do Equador. Alarmado com o barulho produzido pelos recém-chegados, o Presidente da Província, Manuel Teixeira Barbosa, ordenou que o navio deixasse o porto de Natal imediatamente. Mas já era tarde: a notícia da nova revolução já havia se espalhado e a ideias de República e Federalismo inflamavam, novamente, os ânimos potiguares.
 

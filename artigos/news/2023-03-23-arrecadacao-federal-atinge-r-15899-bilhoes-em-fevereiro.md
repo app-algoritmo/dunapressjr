@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal atinge R$ 158,99 bilhões em fevereiro"
+title: Arrecadação federal atinge R$ 158,99 bilhões em fevereiro
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor é o maior para o mês desde 2000.
 

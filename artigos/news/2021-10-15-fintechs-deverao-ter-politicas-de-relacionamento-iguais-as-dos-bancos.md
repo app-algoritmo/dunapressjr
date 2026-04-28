@@ -1,11 +1,12 @@
 ---
-title: "Fintechs deverão ter políticas de relacionamento iguais às dos bancos"
+title: Fintechs deverão ter políticas de relacionamento iguais às dos bancos
 date: 2021-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exigência também vale para bancos digitais e consórcios.
 

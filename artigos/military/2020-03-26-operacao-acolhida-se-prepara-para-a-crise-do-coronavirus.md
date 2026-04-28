@@ -1,11 +1,12 @@
 ---
-title: "Operação Acolhida se prepara para a crise do coronavírus"
+title: Operação Acolhida se prepara para a crise do coronavírus
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília
 (DF), 26/03/2020 -** Com a chegada da crise gerada

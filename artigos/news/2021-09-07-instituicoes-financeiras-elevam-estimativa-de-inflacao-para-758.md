@@ -1,11 +1,12 @@
 ---
-title: "Instituições financeiras elevam estimativa de inflação para 7,58%"
+title: Instituições financeiras elevam estimativa de inflação para 7,58%
 date: 2021-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para expansão do PIB caiu de 5,22% para 5,15%, em 2021.
 

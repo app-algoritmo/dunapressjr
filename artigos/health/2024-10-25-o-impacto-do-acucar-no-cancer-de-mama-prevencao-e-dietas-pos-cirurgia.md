@@ -1,12 +1,13 @@
 ---
-title: "O Impacto do Açúcar no Câncer de Mama: Prevenção e Dietas Pós-Cirurgia"
+title: 'O Impacto do Açúcar no Câncer de Mama: Prevenção e Dietas Pós-Cirurgia'
 date: 2024-10-25
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Health
-  - Science
+- Health
+- Science
 ---
+
 
 O consumo excessivo de açúcar tem sido associado ao aumento do risco de diversas doenças, incluindo o câncer, especialmente o câncer de mama. O açúcar pode influenciar o desenvolvimento de tumores por meio de várias vias, incluindo o aumento dos níveis de insulina, que pode estimular o crescimento de células cancerígenas. Além disso, dietas ricas em açúcar estão associadas ao aumento de peso e obesidade, fatores de risco conhecidos para o câncer de mama.
 

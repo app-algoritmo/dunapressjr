@@ -1,11 +1,12 @@
 ---
-title: "Programa Mais Leite Saudável poderá ser feita online"
+title: Programa Mais Leite Saudável poderá ser feita online
 date: 2020-05-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O programa permite laticínios e cooperativas usarem créditos presumidos do PIS/Pasep e da Cofins de leite in natura, utilizado como insumo, além de beneficiar produtores de leite com assistência técnica.
 

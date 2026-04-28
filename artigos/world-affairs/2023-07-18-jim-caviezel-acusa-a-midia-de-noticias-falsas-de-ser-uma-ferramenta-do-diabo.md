@@ -1,11 +1,12 @@
 ---
-title: "Jim Caviezel acusa a mídia de notícias falsas de ser uma ferramenta do diabo"
+title: Jim Caviezel acusa a mídia de notícias falsas de ser uma ferramenta do diabo
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um discurso apaixonado e inflamado no War Room de Steve Bannon, o popular ator Jim Caviezel protestou contra a mídia, as agências federais e o que ele via como uma elite global corrupta.
 

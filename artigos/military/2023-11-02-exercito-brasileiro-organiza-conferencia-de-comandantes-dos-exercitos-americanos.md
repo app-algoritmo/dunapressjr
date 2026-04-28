@@ -1,11 +1,12 @@
 ---
-title: "Exército Brasileiro organiza Conferência de Comandantes dos Exércitos Americanos"
+title: Exército Brasileiro organiza Conferência de Comandantes dos Exércitos Americanos
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Entre os dias 6 e 9 de novembro, nas cidades do Rio de Janeiro (RJ) e de Resende (RJ), será realizada a Conferência de Comandantes dos Exércitos Americanos (CCEA). Organizado pelo Exército Brasileiro, o evento integra o Ciclo XXXV da Conferência dos Exércitos Americanos (CEA), órgão internacional existente desde 1960 que reúne exércitos das três Américas, além de participantes de outros continentes e órgãos internacionais. A CEA é presidida pelo Exército Brasileiro durante o biênio 2022-2023, e esta é a 4ª vez que o Brasil é responsável pelos trabalhos. 
 

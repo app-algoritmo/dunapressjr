@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Fazenda se enrola e confunde CVM com CMN"
+title: Ministro da Fazenda se enrola e confunde CVM com CMN
 date: 2023-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CVM é uma autarquia responsável por fiscalizar o mercado financeiro, enquanto o CMN é um conselho interministerial que trata da política monetária.
 

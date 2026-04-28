@@ -1,11 +1,13 @@
 ---
-title: "OMS pede soberania e controle sobre todos os países membros por causa da 'mudança climática'"
+title: OMS pede soberania e controle sobre todos os países membros por causa da 'mudança
+  climática'
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A ex-representante dos EUA e reitora da Regent Graduate School, Michele Bachmann, está participando da 76ª Assembleia Mundial da Saúde em Genebra esta semana.
 

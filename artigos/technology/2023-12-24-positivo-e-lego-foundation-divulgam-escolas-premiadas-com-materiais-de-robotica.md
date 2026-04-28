@@ -1,11 +1,12 @@
 ---
-title: "Positivo e LEGO Foundation divulgam escolas premiadas com materiais de robótica"
+title: Positivo e LEGO Foundation divulgam escolas premiadas com materiais de robótica
 date: 2023-12-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Seleção contempla 60 instituições de ensino em todas as regiões do Brasil.
 

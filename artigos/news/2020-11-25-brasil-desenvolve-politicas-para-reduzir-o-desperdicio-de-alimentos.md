@@ -1,11 +1,12 @@
 ---
-title: "Brasil desenvolve políticas para reduzir o desperdício de alimentos"
+title: Brasil desenvolve políticas para reduzir o desperdício de alimentos
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 30% do alimento mundial é perdido ou desperdiçado todos os anos. As estimativas mostram que, mundialmente, são produzidos aproximadamente 1,3 bilhão de toneladas de resíduos alimentares a cada ano. Os dados são da Agência Sueca de Proteção Ambiental e foram discutidos na Semana de Inovação Suécia-Brasil 2020, que reuniu especialistas dos dois países.
 

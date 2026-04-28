@@ -1,11 +1,12 @@
 ---
-title: "PF investiga saque indevido de benefício previdenciário em Feira de Santana/BA"
+title: PF investiga saque indevido de benefício previdenciário em Feira de Santana/BA
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Feira de Santana/BA – A Polícia Federal, em ação conjunta com a Secretaria Especial de Previdência e Trabalho do Ministério da Economia, integrantes da força-tarefa previdenciária, prendeu em flagrante nesta sexta-feira (22/5), na cidade de Feira de Santana/BA, duas mulheres que tentavam, de forma indevida, sacar cerca de R$ 80 mil, relacionados a um benefício previdenciário.
 

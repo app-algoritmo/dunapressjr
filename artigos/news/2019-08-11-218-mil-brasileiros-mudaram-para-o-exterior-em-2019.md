@@ -1,11 +1,12 @@
 ---
-title: "21,8 mil brasileiros mudaram para o exterior em 2019"
+title: 21,8 mil brasileiros mudaram para o exterior em 2019
 date: 2019-08-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Mudança de 21,8 mil brasileiros para o exterior até julho supera quase toda a saída em 2018: descrédito no Brasil, violência e desejo de futuro melhor para os filhos são alguns dos principais motivos que estão levando famílias com recursos para investir lá fora a deixar definitivamente o país.
 

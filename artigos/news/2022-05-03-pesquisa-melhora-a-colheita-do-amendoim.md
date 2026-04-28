@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa melhora a colheita do amendoim"
+title: Pesquisa melhora a colheita do amendoim
 date: 2022-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O agrônomo Adão Felipe dos Santos é doutor em Produção Vegetal pela Universidade Estadual Paulista (Unesp) e professor-adjunto de Agricultura de Precisão no Departamento de Agricultura da Escola de Ciências Agrárias de Lavras, na Universidade Federal de Lavras (Esal/Ufla). Adão fundou e coordena o Grupo de Extensão e Pesquisa em Agricultura Digital (Gepad/Ufla), onde trabalha para identificar com exatidão o ponto ideal para colheita do amendoim. Como bolsista do Programa de Doutorado-Sanduíche ([PDSE](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse)) da CAPES, ele pôde realizar parte da sua pesquisa na *University of Georgia*, nos Estados Unidos.
 

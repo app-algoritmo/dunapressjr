@@ -1,11 +1,12 @@
 ---
-title: "CENSURADO"
+title: CENSURADO
 date: 2022-12-16
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Military
-  - Policy
+- Military
+- Policy
 ---
+
 
 

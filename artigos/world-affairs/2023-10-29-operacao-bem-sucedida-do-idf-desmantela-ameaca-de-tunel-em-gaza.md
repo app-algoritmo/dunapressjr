@@ -1,11 +1,12 @@
 ---
-title: "Operação bem-sucedida do IDF desmantela ameaça de túnel em Gaza"
+title: Operação bem-sucedida do IDF desmantela ameaça de túnel em Gaza
 date: 2023-10-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Israel Adverte que a Luta contra Atrocidade Antissemita Será Longa e Difícil.
 

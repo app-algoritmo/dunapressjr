@@ -1,11 +1,12 @@
 ---
-title: "Falcão recupera título e fatura o troféu de Rei do Drible em 2023"
+title: Falcão recupera título e fatura o troféu de Rei do Drible em 2023
 date: 2023-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Janeiro, 2023 –** Considerado o Rei do Futsal, Falcão retirou um "espinho" entalado na garganta há um ano. Neste domingo (8), no Ginásio Poliesportivo** **de** **São Bernardo do Campo Adib Moysés Dib, no ABC Paulista, ele recuperou o título do Reis e Rainhas do Drible 2023, evento que valoriza o futebol arte. E o fez em grande estilo. Além da vitória por 21 a 15 da sua equipe, capitaneada por Debinha, sobre o time de Diego Ribas, ele levou o troféu de Rei do Drible, como o melhor da partida.
 

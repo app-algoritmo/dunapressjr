@@ -1,11 +1,12 @@
 ---
-title: "Dólar registra leve alta após decisão do Copom e contexto incerto"
+title: Dólar registra leve alta após decisão do Copom e contexto incerto
 date: 2023-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Reação do mercado cambial reflete falta de clareza sobre cortes de juros e cenário global, enquanto embate político adiciona insegurança.
 

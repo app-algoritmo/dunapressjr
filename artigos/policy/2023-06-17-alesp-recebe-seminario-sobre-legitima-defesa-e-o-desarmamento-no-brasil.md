@@ -1,11 +1,12 @@
 ---
-title: "Alesp recebe seminário sobre legítima defesa e o desarmamento no Brasil"
+title: Alesp recebe seminário sobre legítima defesa e o desarmamento no Brasil
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Evento promovido pelo deputado Gil Diniz teve o objetivo de ouvir a população para a elaboração de propostas em relação ao porte de armas de fogo.
 

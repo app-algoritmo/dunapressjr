@@ -1,11 +1,12 @@
 ---
-title: "MEI poderá emitir nota fiscal de serviço no Portal do Simples Nacional"
+title: MEI poderá emitir nota fiscal de serviço no Portal do Simples Nacional
 date: 2022-08-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mais de 13 milhões de empreendedores devem ser beneficiados.
 

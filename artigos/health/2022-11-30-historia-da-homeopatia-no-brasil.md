@@ -1,11 +1,12 @@
 ---
-title: "História da Homeopatia no Brasil"
+title: História da Homeopatia no Brasil
 date: 2022-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Em 21 de novembro de 1840 chegou ao Brasil o homeopata francês Dr. Benoit Jules Mure (1809-1858). Em sua homenagem, foi instituída a comemoração do Dia Nacional da Homeopatia, na data de sua chegada.
 

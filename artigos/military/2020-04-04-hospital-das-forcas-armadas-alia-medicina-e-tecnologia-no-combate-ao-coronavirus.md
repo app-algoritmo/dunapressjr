@@ -1,11 +1,12 @@
 ---
-title: "Hospital das Forças Armadas alia medicina e tecnologia no combate ao coronavírus"
+title: Hospital das Forças Armadas alia medicina e tecnologia no combate ao coronavírus
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Hospital das Forças Armadas (HFA) está adotando medidas para identificar casos suspeitos de coronavírus, doença que vem causando milhares de mortes no mundo. As medidas incluem inteligência artificial e uso de câmeras termais. 
 

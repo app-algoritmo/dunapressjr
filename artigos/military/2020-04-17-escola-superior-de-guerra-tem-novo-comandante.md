@@ -1,11 +1,12 @@
 ---
-title: "Escola Superior de Guerra tem novo Comandante"
+title: Escola Superior de Guerra tem novo Comandante
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Escola Superior de Guerra (ESG) está sob um novo Comando a partir desta quinta-feira (16). O Almirante de Esquadra Wladmilson Borges de Aguiar assumiu o comando da ESG, um Instituto de Altos Estudos de Política, Estratégia e Defesa, integrante da estrutura do Ministério da Defesa. Ele substitui o Almirante de Esquadra Alípio Jorge, que ficou um ano à frente da Escola.
 

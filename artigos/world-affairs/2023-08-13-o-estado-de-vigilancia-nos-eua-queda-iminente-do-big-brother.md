@@ -1,11 +1,12 @@
 ---
-title: "O Estado de Vigilância nos EUA: Queda Iminente do Big Brother?"
+title: 'O Estado de Vigilância nos EUA: Queda Iminente do Big Brother?'
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Definições: "Impunidade, substantivo, isenção de punição ou liberdade das consequências prejudiciais de um ato".
 

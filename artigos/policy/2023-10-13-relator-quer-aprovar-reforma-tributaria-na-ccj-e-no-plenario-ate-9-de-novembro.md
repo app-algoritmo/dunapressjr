@@ -1,11 +1,12 @@
 ---
-title: "Relator quer aprovar reforma tributária na CCJ e no Plenário até 9 de novembro"
+title: Relator quer aprovar reforma tributária na CCJ e no Plenário até 9 de novembro
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Braga (MDB-AM), relator da reforma tributária, disse à imprensa que vai apresentar seu relatório em 24 de outubro e que a votação do projeto deve ser concluída até 9 de novembro. De acordo com Braga, esse calendário foi negociado e aprovado entre os presidentes do Senado e da CCJ.
 

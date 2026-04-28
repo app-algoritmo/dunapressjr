@@ -1,11 +1,12 @@
 ---
-title: "Famílias de baixa renda de Minas Gerais e do Ceará recebem moradias"
+title: Famílias de baixa renda de Minas Gerais e do Ceará recebem moradias
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ao todo, foram entregues mil unidades habitacionais, que atendem grupos familiares com renda mensal inferior a R$ 1,8 mil.
 

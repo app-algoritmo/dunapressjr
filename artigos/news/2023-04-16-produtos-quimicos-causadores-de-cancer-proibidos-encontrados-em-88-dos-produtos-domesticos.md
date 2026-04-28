@@ -1,11 +1,13 @@
 ---
-title: "Produtos químicos causadores de câncer proibidos encontrados em 88% dos produtos domésticos"
+title: Produtos químicos causadores de câncer proibidos encontrados em 88% dos produtos
+  domésticos
 date: 2023-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisadores encontraram parafinas cloradas de cadeia curta, ou SCCPs - um grupo de produtos químicos cancerígenos usados ​​na metalurgia e na produção de PVC, plásticos, borrachas e outros materiais - em uma ampla gama de produtos domésticos, de acordo com um estudo publicado na terça-feira na revista Environmental Ciência: Processos e Impactos.
 

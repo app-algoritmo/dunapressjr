@@ -1,12 +1,14 @@
 ---
-title: "Piloto da Nascar, Ware é preso com acusações de suposto estrangulamento e agressão a mulher"
+title: Piloto da Nascar, Ware é preso com acusações de suposto estrangulamento e agressão
+  a mulher
 date: 2023-04-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## Cody Ware se ausentou da última etapa da Nascar por "motivos pessoais". Nesta segunda-feira, piloto foi preso com acusações de suposta agressão.
 

@@ -1,12 +1,14 @@
 ---
-title: "Ministra Damares Alves participa da 43ª sessão do Conselho de Direitos Humanos das Nações Unidas, os dias 24 e 27 de fevereiro"
+title: Ministra Damares Alves participa da 43ª sessão do Conselho de Direitos Humanos
+  das Nações Unidas, os dias 24 e 27 de fevereiro
 date: 2020-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 A ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, vai chefiar a delegação brasileira na 43ª sessão do Conselho de Direitos Humanos das Nações Unidas, em Genebra, na Suíça.
 

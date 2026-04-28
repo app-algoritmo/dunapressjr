@@ -1,11 +1,12 @@
 ---
-title: "5 maneiras para tornar seu dia de trabalho mais produtivo"
+title: 5 maneiras para tornar seu dia de trabalho mais produtivo
 date: 2021-11-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 É bom trabalhar em casa. Ou você faz consideravelmente menos no final da linha do que em um dia normal de trabalho no escritório? Aqui estão 7 dicas para aproveitar ao máximo seu dia de trabalho em casa.
 

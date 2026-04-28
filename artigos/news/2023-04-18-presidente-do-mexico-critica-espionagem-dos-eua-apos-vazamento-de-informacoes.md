@@ -1,11 +1,12 @@
 ---
-title: "Presidente do México critica 'espionagem' dos EUA após vazamento de informações"
+title: Presidente do México critica 'espionagem' dos EUA após vazamento de informações
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O presidente do México disse na segunda-feira que seu país não toleraria a espionagem dos Estados Unidos em suas instituições de segurança, já que um vazamento de informações provocou novas tensões diplomáticas entre os vizinhos.
 

@@ -1,11 +1,14 @@
 ---
-title: "02.1 Em primeiro discurso após tomar posse, ministro explicou agenda que será aplicada para tornar o Brasil mais produtivo. Cerimônia de transmissão de cargo aconteceu nesta quarta-feira"
+title: 02.1 Em primeiro discurso após tomar posse, ministro explicou agenda que será
+  aplicada para tornar o Brasil mais produtivo. Cerimônia de transmissão de cargo
+  aconteceu nesta quarta-feira
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Paulo Guedes: momento é de otimizar o crescimento e de tornar o Estado eficiente
 

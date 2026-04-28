@@ -1,11 +1,13 @@
 ---
-title: "Bittar condena falta de infraestrutura na Amazônia e questiona recursos de ONGs"
+title: Bittar condena falta de infraestrutura na Amazônia e questiona recursos de
+  ONGs
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcio Bittar (União-AC) lamentou, em pronunciamento nesta terça-feira (17), a carência de infraestrutura e a situação de pobreza da região amazônica, que sofre com problemas como falta de saneamento básico, dificuldades de acesso à água e dependência da população do programa Bolsa Família. Mas, apesar da carência de investimentos em infraestrutura, as ONGs que atuam na Amazônia arrecadam bilhões, apontou o parlamentar.
 

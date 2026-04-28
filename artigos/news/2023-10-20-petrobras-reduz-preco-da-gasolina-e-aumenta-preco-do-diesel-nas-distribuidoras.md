@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço da gasolina e aumenta preço do diesel nas distribuidoras"
+title: Petrobras reduz preço da gasolina e aumenta preço do diesel nas distribuidoras
 date: 2023-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estratégia comercial da Petrobras visa manter competitividade no mercado e evitar repasse da volatilidade para o consumidor.
 

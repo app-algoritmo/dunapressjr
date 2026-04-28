@@ -1,11 +1,13 @@
 ---
-title: "Banco Central mostra indicadores econômicos positivos: Brasil é um dos que terá melhor recuperação da crise entre países emergentes"
+title: 'Banco Central mostra indicadores econômicos positivos: Brasil é um dos que
+  terá melhor recuperação da crise entre países emergentes'
 date: 2020-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recuperação gradual do País se mostra mais rápida do que a de outros países emergentes.
 

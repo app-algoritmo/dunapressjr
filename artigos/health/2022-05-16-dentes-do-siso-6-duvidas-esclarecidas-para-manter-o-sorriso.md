@@ -1,11 +1,12 @@
 ---
-title: "Dentes do siso: 6 dúvidas esclarecidas para manter o sorriso"
+title: 'Dentes do siso: 6 dúvidas esclarecidas para manter o sorriso'
 date: 2022-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Conhecidos popularmente como os dentes do juízo, os sisos são os últimos a nascerem. Por isso, assim que começam a aparecer, podem movimentar a arcada dentária provocando inchaço e dor na região. Não existe padrão para os dentes do siso, que podem ser de diversos tamanhos e formas. Assim como não existe um padrão de paciente, alguns precisam retirar os quatro sisos, outros não.
 

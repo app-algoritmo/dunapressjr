@@ -1,11 +1,12 @@
 ---
-title: "Diplomacia Internacional em Meio à Crise: O Conflito em Israel"
+title: 'Diplomacia Internacional em Meio à Crise: O Conflito em Israel'
 date: 2023-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O conflito em Israel atingiu um ponto crítico, com pelo menos 1.400 mortos, mais de 3.500 feridos e 150 reféns desde o ataque terrorista do Hamas que desencadeou uma guerra há onze dias. Este artigo abordará os desenvolvimentos mais recentes, os esforços diplomáticos regionais e o papel dos Estados Unidos na busca de uma solução para a crise.
 

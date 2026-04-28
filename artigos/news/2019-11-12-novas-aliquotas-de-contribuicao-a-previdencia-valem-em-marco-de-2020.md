@@ -1,11 +1,12 @@
 ---
-title: "Novas alíquotas de contribuição à Previdência valem em março de 2020"
+title: Novas alíquotas de contribuição à Previdência valem em março de 2020
 date: 2019-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Congresso Nacional promove nesta terça-feira (12), às 10h,
 sessão solene para promulgar a reforma da Previdência (Emenda Constitucional

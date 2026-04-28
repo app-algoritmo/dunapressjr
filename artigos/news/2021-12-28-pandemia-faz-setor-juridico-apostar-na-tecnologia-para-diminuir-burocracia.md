@@ -1,11 +1,12 @@
 ---
-title: "Pandemia faz setor jurídico apostar na tecnologia para diminuir burocracia"
+title: Pandemia faz setor jurídico apostar na tecnologia para diminuir burocracia
 date: 2021-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A necessidade de reinvenção imposta pela pandemia da covid-19 foi determinante para impulsionar a utilização de recursos tecnológicos no ambiente jurídico. A crise econômica e a paralisação de muitas atividades serviram para mostrar que as inovações tecnológicas vieram para ficar e que o setor não está blindado às transformações. A demanda por sistemas para gestão inteligente cresce cada vez mais e novos *softwares *ganham espaço para dar agilidade ao trabalho.
 

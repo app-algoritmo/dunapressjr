@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Ciência e Tecnologia destaca importância das startups"
+title: Ministro da Ciência e Tecnologia destaca importância das startups
 date: 2022-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Agronegócio tem mais de 2 mil empresas emergentes em ação, diz SNA.
 

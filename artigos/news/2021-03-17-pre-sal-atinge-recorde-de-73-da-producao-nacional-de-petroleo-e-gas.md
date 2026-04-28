@@ -1,11 +1,12 @@
 ---
-title: "Pré-sal atinge recorde de 73% da produção nacional de petróleo e gás"
+title: Pré-sal atinge recorde de 73% da produção nacional de petróleo e gás
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção total foi de 3,55 milhões de barris por dia, diz ANP.
 

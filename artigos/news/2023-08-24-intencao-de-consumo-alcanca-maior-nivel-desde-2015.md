@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo alcança maior nível desde 2015"
+title: Intenção de consumo alcança maior nível desde 2015
 date: 2023-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador da CNC revela crescimento na percepção de compra, impulsionado por melhora no emprego e acesso ao crédito. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Indicador Econômico da América Latina avança para 81,2 pontos"
+title: Indicador Econômico da América Latina avança para 81,2 pontos
 date: 2021-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar da alta, a América Latina continua na zona desfavorável.
 

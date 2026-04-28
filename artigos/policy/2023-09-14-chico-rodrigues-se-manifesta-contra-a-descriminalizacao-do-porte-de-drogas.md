@@ -1,11 +1,12 @@
 ---
-title: "Chico Rodrigues se manifesta contra a descriminalização do porte de drogas"
+title: Chico Rodrigues se manifesta contra a descriminalização do porte de drogas
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR) demonstrou preocupação com o julgamento do Supremo Tribunal Federal (STF) sobre a descriminalização do porte de drogas ilícitas para consumo pessoal. Em pronunciamento na terça-feira (12), o parlamentar argumentou que o tema é prerrogativa do Congresso Nacional e que a decisão do STF não pode ir contra a Lei Antidrogas ([Lei 11.343, de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-23;11343)).
 

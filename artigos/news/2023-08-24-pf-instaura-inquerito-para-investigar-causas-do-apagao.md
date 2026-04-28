@@ -1,11 +1,12 @@
 ---
-title: "PF instaura inquérito para investigar causas do apagão"
+title: PF instaura inquérito para investigar causas do apagão
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Queda de energia atingiu 25 estados e o DF no dia 15 de agosto.
 

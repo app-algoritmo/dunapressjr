@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Brasil registra 1,1 milhão de curados"
+title: 'Covid-19: Brasil registra 1,1 milhão de curados'
 date: 2020-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Número é superior à quantidade de casos ativos, ou seja, pessoas que estão em acompanhamento médico. Informações foram atualizadas até as 18h desta quinta-feira (9/7).
 

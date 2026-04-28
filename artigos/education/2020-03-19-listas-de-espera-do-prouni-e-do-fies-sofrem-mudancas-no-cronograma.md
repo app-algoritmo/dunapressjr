@@ -1,11 +1,12 @@
 ---
-title: "Listas de espera do Prouni e do Fies sofrem mudanças no cronograma"
+title: Listas de espera do Prouni e do Fies sofrem mudanças no cronograma
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O Ministério da Educação prorrogou o período das listas de espera do Programa Universidade para Todos (ProUni) e do Fundo de Financiamento Estudantil (Fies). O objetivo da medida é minimizar os possíveis prejuízos em decorrência da pandemia de coronavírus. 
 

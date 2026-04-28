@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de Janeiro ouve duas testemunhas na próxima semana"
+title: CPMI do 8 de Janeiro ouve duas testemunhas na próxima semana
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPMI do 8 de Janeiro tem prazo até 20 de novembro
 

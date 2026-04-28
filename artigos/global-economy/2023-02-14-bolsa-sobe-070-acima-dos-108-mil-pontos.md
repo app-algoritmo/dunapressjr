@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 0,70%, acima dos 108 mil pontos"
+title: Bolsa sobe 0,70%, acima dos 108 mil pontos
 date: 2023-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Fatores internos e externos influenciaram o mercado financeiro.
 

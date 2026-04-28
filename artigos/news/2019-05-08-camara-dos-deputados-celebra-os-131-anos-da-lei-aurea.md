@@ -1,12 +1,13 @@
 ---
-title: "Câmara dos Deputados celebra os 131 anos da Lei Áurea"
+title: Câmara dos Deputados celebra os 131 anos da Lei Áurea
 date: 2019-05-08
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Na próxima terça-feira, dia 14 de maio, às 11 horas, o plenário Ulysses Guimarães da Câmara dos Deputados receberá a sessão solene de comemoração aos 131 anos de assinatura da Lei Áurea, que libertou os escravos definitivamente. Indiretamente, é uma homenagem à Princesa Isabel do Brasil, a Redentora, que covardemente foi apagada dos bancos escolares. Primeira iniciativa em anos de república, a sessão solene foi uma iniciativa dos deputados Eduado Bolsonaro (PSL-SP), Luiz Philippe de Orleans e Bragança (PSL-SP) e delegado Waldir (PSL-GO).
 

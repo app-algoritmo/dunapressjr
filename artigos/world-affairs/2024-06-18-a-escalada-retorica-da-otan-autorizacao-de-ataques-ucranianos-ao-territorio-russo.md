@@ -1,11 +1,13 @@
 ---
-title: "A Escalada Retórica da OTAN: Autorização de Ataques Ucranianos ao Território Russo"
+title: 'A Escalada Retórica da OTAN: Autorização de Ataques Ucranianos ao Território
+  Russo'
 date: 2024-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **OTAN Assume Responsabilidade por Ataques Ucranianos no Território Russo, Agravando Conflito com a Rússia**.
 

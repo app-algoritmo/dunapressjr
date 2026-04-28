@@ -1,11 +1,12 @@
 ---
-title: "Estresse, depressão e ansiedade de brasileiros durante a pandemia da COVID-19"
+title: Estresse, depressão e ansiedade de brasileiros durante a pandemia da COVID-19
 date: 2020-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a expansão da COVID-19, muitos brasileiros, assim como a população de muitos países, têm passado por mudanças radicais de vida, como deixar a rotina de trabalho, de atividades escolares e de lazer para ficar em isolamento social em casa. Medidas para conter a transmissão do novo coronavírus (SARS-COV-2) são necessárias, porém o cuidado com a saúde mental também é uma relevante preocupação para aqueles que estão em isolamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia vetos em projeto de socorro a setor de eventos"
+title: Governo anuncia vetos em projeto de socorro a setor de eventos
 date: 2021-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto prevê alíquota zero do PIS/Pasep, da Cofins e da CSLL.
 

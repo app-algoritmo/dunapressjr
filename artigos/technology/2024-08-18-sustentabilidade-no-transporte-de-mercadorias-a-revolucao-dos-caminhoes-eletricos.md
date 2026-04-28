@@ -1,11 +1,12 @@
 ---
-title: "Sustentabilidade no Transporte de Mercadorias: A Revolução dos Caminhões Elétricos"
+title: 'Sustentabilidade no Transporte de Mercadorias: A Revolução dos Caminhões Elétricos'
 date: 2024-08-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 A sustentabilidade tem se tornado um imperativo global, com diversos setores da economia buscando alternativas para reduzir suas pegadas de carbono. No transporte de mercadorias, um dos principais contribuidores de emissões de gases de efeito estufa, a adoção de caminhões elétricos emerge como uma solução promissora para mitigar os impactos ambientais. Empresas em todo o mundo estão investindo massivamente na eletrificação de suas frotas, enquanto países como a Noruega lideram essa transição dos hidrocarbonetos para tecnologias mais limpas.
 

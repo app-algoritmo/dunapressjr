@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê divulgação de arrecadação e destino dos recursos da Cosip em Itajaí"
+title: Projeto prevê divulgação de arrecadação e destino dos recursos da Cosip em
+  Itajaí
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí aprovou com 14 votos favoráveis, na tarde desta quinta-feira (3), o [Projeto de Lei Ordinária (PLO) nº 42/2019](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria42_2019.pdf). O PLO, de autoria do vereador Robison Coelho (PSDB), prevê a obrigatoriedade do Município em divulgar as principais informações sobre arrecadação e despesas realizadas com a Contribuição para o Custeio dos Serviços de Iluminação Pública (Cosip), no Portal da Transparência de Itajaí.
  

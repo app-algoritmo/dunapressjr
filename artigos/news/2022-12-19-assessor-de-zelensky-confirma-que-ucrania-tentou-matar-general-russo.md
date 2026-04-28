@@ -1,12 +1,13 @@
 ---
-title: "Assessor de Zelensky confirma que Ucrânia tentou matar General russo"
+title: Assessor de Zelensky confirma que Ucrânia tentou matar General russo
 date: 2022-12-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## O New York Times informou que Washington tentou dissuadir Kiev de realizar o ataque.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda de 0,87% em sessão com baixa liquidez"
+title: Ibovespa fecha em queda de 0,87% em sessão com baixa liquidez
 date: 2022-12-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar teve alta de 0,83% e fechou em R$ 5,21.
 

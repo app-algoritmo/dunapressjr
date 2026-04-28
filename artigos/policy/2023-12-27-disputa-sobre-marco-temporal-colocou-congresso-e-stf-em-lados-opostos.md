@@ -1,11 +1,12 @@
 ---
-title: "Disputa sobre Marco Temporal colocou Congresso e STF em lados opostos"
+title: Disputa sobre Marco Temporal colocou Congresso e STF em lados opostos
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Organizações indígenas dizem que seus direitos foram violados.
 

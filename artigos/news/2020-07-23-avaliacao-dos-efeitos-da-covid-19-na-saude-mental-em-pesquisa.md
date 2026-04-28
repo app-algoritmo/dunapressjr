@@ -1,11 +1,12 @@
 ---
-title: "Avaliação dos efeitos da COVID-19 na saúde mental em pesquisa"
+title: Avaliação dos efeitos da COVID-19 na saúde mental em pesquisa
 date: 2020-07-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O estudo encontra-se na fase de coleta de dados, feita a partir de um questionário online.
 

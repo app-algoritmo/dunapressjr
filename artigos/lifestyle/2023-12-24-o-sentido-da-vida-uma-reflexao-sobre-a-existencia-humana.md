@@ -1,11 +1,12 @@
 ---
-title: "O Sentido da Vida: Uma Reflexão sobre a Existência Humana"
+title: 'O Sentido da Vida: Uma Reflexão sobre a Existência Humana'
 date: 2023-12-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 O questionamento acerca do sentido da vida tem permeado a mente humana ao longo dos séculos, despertando curiosidade, debates filosóficos e reflexões profundas. A busca por compreender por que existimos e qual é o propósito da nossa presença neste vasto universo é uma jornada que transcende culturas, religiões e fronteiras. Nesse contexto, é imperativo explorar a importância da existência humana e o papel intrínseco que desempenhamos na tessitura do significado da vida.
 

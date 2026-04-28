@@ -1,11 +1,13 @@
 ---
-title: "Complexo Portuário de Itajaí registra aumento de quase 10%  na movimentação de cargas"
+title: Complexo Portuário de Itajaí registra aumento de quase 10%  na movimentação
+  de cargas
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Complexo Portuário de Itajaí registrou crescimento de quase 10% no total de TEU’s (unidade de medida equivalente a um contêiner de 20 pés) movimentados no mês de outubro deste ano em relação ao ano passado. Ao todo, foram 85 atracações e 148.529 TEU’s contra 135.157 TEU’s registrados em outubro de 2021.
 

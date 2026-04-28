@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus no Brasil, é chamado de 'vírus do homem rico'"
+title: Coronavírus no Brasil, é chamado de 'vírus do homem rico'
 date: 2020-03-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 RIO DE JANEIRO (NRK-Arnt Stefansen) Uma brasileira chegou de férias da Itália e infectou sua criada com o coronavírus. Quando a empregada ficou doente, ela foi mandada para casa e morreu.
 

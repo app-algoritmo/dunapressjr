@@ -1,11 +1,12 @@
 ---
-title: "Sisu já tem disponível consulta de vagas pelo sistema"
+title: Sisu já tem disponível consulta de vagas pelo sistema
 date: 2020-07-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## São 51.924 vagas em 57 instituições de ensino superior públicas; inscrições estarão abertas entre 7 e 10 de julho.
 

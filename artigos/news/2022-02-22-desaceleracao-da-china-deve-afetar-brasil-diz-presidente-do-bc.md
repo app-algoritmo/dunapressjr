@@ -1,11 +1,12 @@
 ---
-title: "Desaceleração da China deve afetar Brasil, diz presidente do BC"
+title: Desaceleração da China deve afetar Brasil, diz presidente do BC
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Declaração online foi promovida pelo Canal AgroMais.
 

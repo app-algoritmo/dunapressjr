@@ -1,11 +1,12 @@
 ---
-title: "Queda do PIB neste ano será ainda menor do que esperada, diz Guedes"
+title: Queda do PIB neste ano será ainda menor do que esperada, diz Guedes
 date: 2020-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro da Economia participou de evento virtual do Credit Suisse.
 

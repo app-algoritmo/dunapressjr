@@ -1,11 +1,13 @@
 ---
-title: "China Condena Práticas Discriminatórias dos EUA e Exige Correção de Erros de Assédio e Deportação"
+title: China Condena Práticas Discriminatórias dos EUA e Exige Correção de Erros de
+  Assédio e Deportação
 date: 2024-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministério das Relações Exteriores da China emitiu um forte comunicado nesta quarta-feira, instando os Estados Unidos a cessarem suas práticas discriminatórias e corrigirem os erros de assédio, interrogatório e deportação injustificada de cidadãos chineses. O porta-voz Lin Jian expressou a preocupação da China em relação às recentes ações dos EUA, conforme detalhado em uma reportagem especial do Washington Post. Esta reportagem destacou os casos de estudantes e acadêmicos chineses que foram alvo de perseguição e deportação sem justa causa ao entrarem na fronteira americana.
 

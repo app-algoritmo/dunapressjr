@@ -1,11 +1,12 @@
 ---
-title: "Combate ao desemprego deve ser prioridade para 41% da população"
+title: Combate ao desemprego deve ser prioridade para 41% da população
 date: 2021-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo pesquisa da CNI, melhoria da saúde vem em segundo, com 39%.
 

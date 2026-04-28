@@ -1,11 +1,12 @@
 ---
-title: "O governador da Paraíba participou do Fórum Alternativas Energéticas 2021"
+title: O governador da Paraíba participou do Fórum Alternativas Energéticas 2021
 date: 2021-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O chefe do executivo estadual destacou potencial logístico e capacidade de atração de investimentos da Paraíba em Fórum Alternativas Energéticas.
 

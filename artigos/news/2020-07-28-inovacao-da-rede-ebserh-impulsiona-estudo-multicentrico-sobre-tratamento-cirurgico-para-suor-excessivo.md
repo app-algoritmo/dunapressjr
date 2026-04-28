@@ -1,11 +1,13 @@
 ---
-title: "Inovação da rede Ebserh impulsiona estudo multicêntrico sobre tratamento cirúrgico para suor excessivo"
+title: Inovação da rede Ebserh impulsiona estudo multicêntrico sobre tratamento cirúrgico
+  para suor excessivo
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Administração central da estatal foi creditada em artigo científico publicado em revista internacional.
 

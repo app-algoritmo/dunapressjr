@@ -1,11 +1,12 @@
 ---
-title: "A Influência Genética na Homossexualidade"
+title: A Influência Genética na Homossexualidade
 date: 2023-06-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 # ENORME ESTUDO DESMASCARA CONCLUSIVAMENTE O MITO DO "GENE GAY"
 

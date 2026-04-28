@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria cai em 22 dos 29 setores, diz CNI"
+title: Confiança da indústria cai em 22 dos 29 setores, diz CNI
 date: 2022-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indústria de transformação teve maior recuo, de 58,7 para 53,3 pontos.
 

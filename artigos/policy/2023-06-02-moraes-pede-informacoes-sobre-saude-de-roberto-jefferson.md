@@ -1,11 +1,12 @@
 ---
-title: "Moraes pede informações sobre saúde de Roberto Jefferson"
+title: Moraes pede informações sobre saúde de Roberto Jefferson
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Administração do presídio tem prazo de 24 horas para responder.
 

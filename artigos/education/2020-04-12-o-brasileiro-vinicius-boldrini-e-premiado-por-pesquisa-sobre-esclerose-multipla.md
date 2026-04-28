@@ -1,11 +1,12 @@
 ---
-title: "O Brasileiro Vinícius Boldrini é premiado por pesquisa sobre esclerose múltipla"
+title: O Brasileiro Vinícius Boldrini é premiado por pesquisa sobre esclerose múltipla
 date: 2020-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 **Pesquisador Vinícius Boldrini busca entender o comportamento do sistema imunológico do portador da doença**.
 

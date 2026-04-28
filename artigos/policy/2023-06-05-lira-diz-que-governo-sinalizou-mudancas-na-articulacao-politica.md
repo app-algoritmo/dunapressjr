@@ -1,11 +1,12 @@
 ---
-title: "Lira diz que governo sinalizou mudanças na articulação política"
+title: Lira diz que governo sinalizou mudanças na articulação política
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## “O governo vai reunir e está se movimentando para consolidar sua base, o que nos facilita", disse Lira após reunião com Lula.
 

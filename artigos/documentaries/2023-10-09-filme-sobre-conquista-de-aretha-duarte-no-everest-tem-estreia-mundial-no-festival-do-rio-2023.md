@@ -1,12 +1,14 @@
 ---
-title: "Filme sobre conquista de Aretha Duarte no Everest tem estreia mundial no Festival do Rio 2023"
+title: Filme sobre conquista de Aretha Duarte no Everest tem estreia mundial no Festival
+  do Rio 2023
 date: 2023-10-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Documentaries
-  - Sports
+- Documentaries
+- Sports
 ---
+
 
 ## História da primeira negra latino-americana a chegar ao ponto mais alto do planeta ganha as telonas e faz parte de um projeto maior da empreendedora socioambiental brasileira, patrocinado pela Enel Distribuição Rio.
 

@@ -1,12 +1,13 @@
 ---
-title: "Carlota Joaquina Princesa do Brasil"
+title: Carlota Joaquina Princesa do Brasil
 date: 2022-09-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Nascida no Palácio de Aranjuez – Espanha – Dona Carlota Joaquina Teresa Cayetana foi a esposa do rei D. João VI e Rainha Consorte do Reino Unido de Portugal, Brasil e Algarves. Primogênita do rei Carlos IV da Espanha e da princesa Maria Luísa de Parma, casou-se em 08 de maio de 1785, aos 10 anos, com o infante de Portugal D. João – à época com 17 anos.
 

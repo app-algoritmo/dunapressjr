@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai pelo terceiro dia seguido e aproxima-se de R$ 5,60"
+title: Dólar cai pelo terceiro dia seguido e aproxima-se de R$ 5,60
 date: 2021-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores tem leve alta, com realização de lucros.
 

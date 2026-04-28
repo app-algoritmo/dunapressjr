@@ -1,12 +1,13 @@
 ---
-title: "1º Festival de Vinhos no Caxias Shopping: edição especial Dia dos Namorados"
+title: '1º Festival de Vinhos no Caxias Shopping: edição especial Dia dos Namorados'
 date: 2023-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Culture and History
-  - Events
+- Culture and History
+- Events
 ---
+
 
 ## Além de expositores variados e degustação de vinhos, evento conta também com uma programação musical diversificada.
 

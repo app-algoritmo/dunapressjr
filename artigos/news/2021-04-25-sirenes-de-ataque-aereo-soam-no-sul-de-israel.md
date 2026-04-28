@@ -1,11 +1,12 @@
 ---
-title: "Sirenes de ataque aéreo soam no sul de Israel"
+title: Sirenes de ataque aéreo soam no sul de Israel
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Sirenes de ataque aéreo soam em Sderot e em outras comunidades judaicas na fronteira com Gaza. Mais dois lançamentos falham quando mísseis caem dentro de Gaza.
 

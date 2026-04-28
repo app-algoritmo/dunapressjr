@@ -1,11 +1,12 @@
 ---
-title: "40 fatos que você precisa saber: a verdadeira história da 'Covid'"
+title: '40 fatos que você precisa saber: a verdadeira história da ''Covid'''
 date: 2023-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Publicamos pela primeira vez nossa imensamente popular "folha de dicas" em setembro de 2021, em resposta a dezenas - até centenas - de solicitações de fontes e dados de leitores. O artigo foi concebido como um recurso e despejo de link e foi deliberadamente livre de interpretação, contribuição editorial ou opinião.
 

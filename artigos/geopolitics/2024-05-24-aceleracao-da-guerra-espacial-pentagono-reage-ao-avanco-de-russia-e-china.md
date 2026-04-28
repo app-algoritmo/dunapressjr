@@ -1,11 +1,12 @@
 ---
-title: "Aceleração da Guerra Espacial: Pentágono Reage ao Avanço de Rússia e China"
+title: 'Aceleração da Guerra Espacial: Pentágono Reage ao Avanço de Rússia e China'
 date: 2024-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O rápido progresso da Rússia e da China no espaço está levando o Pentágono a acelerar suas capacidades de guerra espacial, considerando essas nações uma ameaça potencial para suas tropas e satélites militares em órbita. Segundo o The New York Times, membros do Departamento de Defesa dos EUA confirmaram que novos planos ultra-secretos representam uma mudança significativa nas operações militares, reconhecendo o espaço como um novo teatro de guerra.
 

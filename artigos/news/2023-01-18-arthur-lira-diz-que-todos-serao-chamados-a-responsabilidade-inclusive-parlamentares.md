@@ -1,11 +1,12 @@
 ---
-title: "Arthur Lira diz que todos serão chamados à responsabilidade, inclusive parlamentares"
+title: Arthur Lira diz que todos serão chamados à responsabilidade, inclusive parlamentares
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Câmara dos Deputados, [Arthur Lira (PP-AL)](https://www.camara.leg.br/deputados/160541), afirmou que todos os agentes públicos que tiveram alguma responsabilidade nos atos de vandalismo cometidos no dia 8 de janeiro contra os prédios públicos dos três Poderes serão responsabilizados, mesmo se forem parlamentares. Lira chamou a atenção ainda que para o fato de haver parlamentares divulgando informações inverídicas de que não houve invasão à Câmara e destacou que esses deputados responderão por essas falas.
 

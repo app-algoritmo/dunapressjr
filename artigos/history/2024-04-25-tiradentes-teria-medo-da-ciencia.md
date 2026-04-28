@@ -1,12 +1,13 @@
 ---
-title: "Tiradentes teria medo da Ciência?"
+title: Tiradentes teria medo da Ciência?
 date: 2024-04-25
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - History
-  - Science
+- History
+- Science
 ---
+
 
 O artigo “**[Tiradentes não foi enforcado](https://dunapress.org/2020/03/04/tiradentes-nao-foi-enforcado/?amp=1)**”, publicado por mim em 2020 e republicado todos os anos, por ocasião de um feriado nacional sem razão de existir, este ano teve repercussão inédita, claramente impulsionado pela divulgação nas redes sociais do deputado e príncipe D. Luiz Philippe de Orleans e Bragança, que já conhecia não só os fatos e argumentos, mas o artigo que foi publicado na plataforma norueguesa Duna Press. 
 

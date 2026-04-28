@@ -1,11 +1,12 @@
 ---
-title: "<strong>Como funciona o aquecimento de piscinas?</strong>"
+title: <strong>Como funciona o aquecimento de piscinas?</strong>
 date: 2022-08-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Nos dias de hoje, muitas pessoas procuram desenvolver sistemas de aquecimento para suas piscinas. E o sistema mais viável e sustentável a se implementar, é o de energia solar para aquecimento de água para piscinas.
 

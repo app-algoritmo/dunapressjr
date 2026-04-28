@@ -1,12 +1,13 @@
 ---
-title: "Nutricionista ensina 4 passos para empreender e aumentar rendimentos nos negócios"
+title: Nutricionista ensina 4 passos para empreender e aumentar rendimentos nos negócios
 date: 2023-12-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - Entrepreneurship
+- Business and Economy
+- Entrepreneurship
 ---
+
 
 ## Samir Bayde, idealizador da Escola de Negócios Nutrição Sem Fronteiras, está revolucionando o mercado ao ajudar profissionais a passar de R$ 3.000 para, no mínimo, R$ 10.000 de faturamento mensal.
 

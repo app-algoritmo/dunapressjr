@@ -1,11 +1,12 @@
 ---
-title: "1º de setembro, Dia Mundial do Educador Físico"
+title: 1º de setembro, Dia Mundial do Educador Físico
 date: 2021-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Temos uma tendência de poupar energia. Só que hoje tudo é feito para dar conforto e não precisarmos realizar nada. E, por isso, estamos fadados a adoecer”, alerta o profissional de educação física da Maternidade Escola Januário Cicco, da Universidade Federal do Rio Grande do Norte, da Rede Ebserh, Sávio Camargo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasileiros que vivem na fronteira temem problemas na Guiana"
+title: Brasileiros que vivem na fronteira temem problemas na Guiana
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Comércio com os guianeses cresceu com a economia do país vizinho.
 

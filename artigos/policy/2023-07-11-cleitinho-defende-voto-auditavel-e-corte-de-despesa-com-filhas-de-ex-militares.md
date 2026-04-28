@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho defende voto auditável e corte de despesa com filhas de ex-militares"
+title: Cleitinho defende voto auditável e corte de despesa com filhas de ex-militares
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos–MG), em pronunciamento no Plenário nesta terça-feira (11), informou que desarquivou a PEC 135/2019, que trata do voto auditável. 
 

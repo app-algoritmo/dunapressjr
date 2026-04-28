@@ -1,11 +1,12 @@
 ---
-title: "Consumo das famílias tem alta de 7,3% em abril"
+title: Consumo das famílias tem alta de 7,3% em abril
 date: 2022-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para a Abras, há crescimento consistente do consumo.
 

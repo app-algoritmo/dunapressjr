@@ -1,11 +1,12 @@
 ---
-title: "A China não busca hegemonia nem trava guerra com ninguém, diz Xi Jinping"
+title: A China não busca hegemonia nem trava guerra com ninguém, diz Xi Jinping
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O líder chinês acrescentou que Pequim “nunca imporá a sua vontade aos outros”.
 

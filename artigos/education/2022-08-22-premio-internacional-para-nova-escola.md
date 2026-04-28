@@ -1,12 +1,13 @@
 ---
-title: "Prêmio internacional para nova escola"
+title: Prêmio internacional para nova escola
 date: 2022-08-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Magazine
+- Education
+- Magazine
 ---
+
 
 A escola secundária de Horten saiu vitoriosa do concurso na categoria "Melhor projeto de construção pública " (Public Sector - Design Stage Awards) entre mais de 50 projetos de construções europeus. A premiação aconteceu em Londres sob os auspícios do BREEAM Awards 2019.
 

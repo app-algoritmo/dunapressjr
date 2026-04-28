@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Cuidados com as unhas no verão"
+title: 'Dicas de Saúde: Cuidados com as unhas no verão'
 date: 2023-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Verão é sinônimo de muito calor, diversão, piscina, praia e suor. Mas cuidado, nem tudo é diversão: os cuidados com a saúde não podem ser negligenciados.
 

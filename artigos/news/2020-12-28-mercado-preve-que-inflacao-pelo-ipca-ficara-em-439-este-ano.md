@@ -1,11 +1,12 @@
 ---
-title: "Mercado prevê que inflação pelo IPCA ficará em 4,39% este ano"
+title: Mercado prevê que inflação pelo IPCA ficará em 4,39% este ano
 date: 2020-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pelo Banco Central.
 

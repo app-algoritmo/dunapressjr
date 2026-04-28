@@ -1,11 +1,12 @@
 ---
-title: "Taxas de juros recuam em maio, diz Banco Central"
+title: Taxas de juros recuam em maio, diz Banco Central
 date: 2021-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Juros para as famílias caíram 1,2 ponto percentual para 39,9% ao ano.
 

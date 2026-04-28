@@ -1,11 +1,13 @@
 ---
-title: "Brasil busca se tornar um centro produtor de baterias de lítio para impulsionar a indústria de carros elétricos"
+title: Brasil busca se tornar um centro produtor de baterias de lítio para impulsionar
+  a indústria de carros elétricos
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Governo federal prioriza o desenvolvimento da cadeia produtiva do lítio visando a fabricação e a comercialização de veículos elétricos no país.
 

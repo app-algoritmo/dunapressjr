@@ -1,11 +1,13 @@
 ---
-title: "SP lança ciclo inédito para ampliar participação da comunidade na segurança pública"
+title: SP lança ciclo inédito para ampliar participação da comunidade na segurança
+  pública
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é fortalecer os Consegs e promover a integração da sociedade com as polícias.
 

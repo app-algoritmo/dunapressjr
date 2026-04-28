@@ -1,12 +1,14 @@
 ---
-title: "Mesmo à distância, Etiene Medeiros participa da abertura do Festival IEM de Natação, neste sábado (21)"
+title: Mesmo à distância, Etiene Medeiros participa da abertura do Festival IEM de
+  Natação, neste sábado (21)
 date: 2023-10-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Swimming
+- Sports
+- Swimming
 ---
+
 
 ## Evento, no Recife (PE), em sua segunda edição, integra o calendário oficial do Instituto Etiene Medeiros, fundado pela pernambucana. Atividades serão realizadas a partir das 8h, no Centro Esportivo Santos Dumont, e nadadora gravou áudio de boas vindas a todos os participantes, familiares e amigos.
 

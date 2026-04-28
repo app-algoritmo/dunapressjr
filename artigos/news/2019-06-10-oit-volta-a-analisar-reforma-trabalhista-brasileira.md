@@ -1,11 +1,12 @@
 ---
-title: "OIT volta a analisar reforma trabalhista brasileira"
+title: OIT volta a analisar reforma trabalhista brasileira
 date: 2019-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Aplicação de Normas
 da Organização Internacional do Trabalho (OIT) volta a analisar, a partir desta

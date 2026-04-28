@@ -1,11 +1,12 @@
 ---
-title: "Confira a importância de cuidar da hidratação nos dias mais quentes"
+title: Confira a importância de cuidar da hidratação nos dias mais quentes
 date: 2021-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cuidar da saúde no verão envolve, principalmente, cuidar da hidratação. As altas temperaturas e o maior tempo de exposição ao sol contribuem para que o organismo perca ainda mais água ao tentar controlar a temperatura do corpo. Por isso, o consumo adequado de líquidos é fundamental para manter a saúde e o bem-estar.
 

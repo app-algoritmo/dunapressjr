@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,44 e atinge menor nível em dois meses"
+title: Dólar fecha a R$ 5,44 e atinge menor nível em dois meses
 date: 2021-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores encerra estável em dia de volatilidade.
 

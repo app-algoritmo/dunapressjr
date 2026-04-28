@@ -1,11 +1,12 @@
 ---
-title: "Capacidade de armazenagem agrícola sobe no primeiro semestre, diz IBGE"
+title: Capacidade de armazenagem agrícola sobe no primeiro semestre, diz IBGE
 date: 2021-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Volume de 180,6 milhões de toneladas supera em 2,5% o anterior.
 

@@ -1,11 +1,12 @@
 ---
-title: "Militares prestam solidariedade na BR 135"
+title: Militares prestam solidariedade na BR 135
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Luis (MA)** – No dia 29 de março, o 24° Batalhão de Infantaria de Selva apoiou a Campanha SIGA EM FRENTE CAMINHONEIRO, promovida pela Polícia Rodoviária Federal (PRF), com a finalidade de prestar solidariedade a esses profissionais.
 

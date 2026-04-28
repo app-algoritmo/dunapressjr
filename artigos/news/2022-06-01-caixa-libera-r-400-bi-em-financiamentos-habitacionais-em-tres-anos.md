@@ -1,11 +1,12 @@
 ---
-title: "Caixa libera R$ 400 bi em financiamentos habitacionais em três anos"
+title: Caixa libera R$ 400 bi em financiamentos habitacionais em três anos
 date: 2022-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor impulsionou o setor da construção civil.
 

@@ -1,11 +1,12 @@
 ---
-title: "CISCEA mantém continuidade das ações por meio de acesso remoto"
+title: CISCEA mantém continuidade das ações por meio de acesso remoto
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em tempos de pandemia, a Comissão de Implantação do Sistema de Controle do Espaço Aéreo (CISCEA) encontrou uma forma inovadora para dar continuidade às atividades e manter o cronograma dos projetos previstos para este ano, minimizando os impactos nos compromissos contratuais pré-estabelecidos.
 

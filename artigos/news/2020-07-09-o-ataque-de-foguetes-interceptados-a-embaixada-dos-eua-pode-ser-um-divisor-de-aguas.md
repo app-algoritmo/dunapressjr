@@ -1,11 +1,13 @@
 ---
-title: "O ataque de foguetes interceptados à embaixada dos EUA pode ser um divisor de águas"
+title: O ataque de foguetes interceptados à embaixada dos EUA pode ser um divisor
+  de águas
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Isso aumenta as 24 horas de tensão no Iraque que coincidiram com o Dia da Independência Americana. Houve alegações de que os EUA haviam implantado um sistema C-RAM para enfrentar ameaças à embaixada e outras instalações.
 

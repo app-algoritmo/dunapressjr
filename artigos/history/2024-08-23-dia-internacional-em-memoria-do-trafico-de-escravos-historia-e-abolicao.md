@@ -1,11 +1,12 @@
 ---
-title: "Dia Internacional em Memória do Tráfico de Escravos: História e Abolição"
+title: 'Dia Internacional em Memória do Tráfico de Escravos: História e Abolição'
 date: 2024-08-23
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - History
+- History
 ---
+
 
 A história da escravidão e sua abolição é um capítulo doloroso e complexo na história mundial. No dia 23 de agosto, comemora-se o Dia Internacional em Memória do Tráfico de Escravos e sua Abolição, uma data instituída pela UNESCO em 1998 para lembrar a revolta dos escravizados em Saint-Domingue, atual Haiti, em 1791, que marcou o início do fim do tráfico transatlântico de escravos. Neste artigo, exploraremos a história da escravidão e o processo de abolição em diferentes países, destacando a importância desta data.
 

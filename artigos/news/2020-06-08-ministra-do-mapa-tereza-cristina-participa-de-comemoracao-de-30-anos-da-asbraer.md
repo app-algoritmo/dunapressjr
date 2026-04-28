@@ -1,11 +1,12 @@
 ---
-title: "Ministra do Mapa, Tereza Cristina, participa de comemoração de 30 anos da Asbraer"
+title: Ministra do Mapa, Tereza Cristina, participa de comemoração de 30 anos da Asbraer
 date: 2020-06-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A ministra destacou a importância da assistência técnica para os agricultores brasileiros e disse que o assunto é uma prioridade para o Mapa.
 

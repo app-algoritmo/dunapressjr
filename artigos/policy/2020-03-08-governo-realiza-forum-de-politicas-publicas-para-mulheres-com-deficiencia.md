@@ -1,11 +1,12 @@
 ---
-title: "Governo realiza Fórum de Políticas Públicas para Mulheres com Deficiência"
+title: Governo realiza Fórum de Políticas Públicas para Mulheres com Deficiência
 date: 2020-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O ministra Damares Alves marcou presença no Fórum de Políticas Públicas para Mulheres com Deficiência, nesta sexta-feira (06), em Brasília (DF).
 

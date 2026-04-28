@@ -1,11 +1,12 @@
 ---
-title: "Destinos  de turismo brasileiros  estão entre os mais bem avaliados do mundo"
+title: Destinos  de turismo brasileiros  estão entre os mais bem avaliados do mundo
 date: 2020-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Baía de Sancho, Gramado, Petrópolis e Porto Seguro são alguns dos lugares escolhidos pelos viajantes*.
 

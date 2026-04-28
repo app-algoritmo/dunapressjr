@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula associação criminosa responsável por desvios de recursos da Previdência Social"
+title: PF desarticula associação criminosa responsável por desvios de recursos da
+  Previdência Social
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO - A Polícia Federal deflagrou nesta quinta-feira (21/5) a Operação Tempo Perdido, com o objetivo de desarticular associação criminosa suspeita de desviar recursos da Previdência Social.
 

@@ -1,11 +1,12 @@
 ---
-title: "Resultado divulgado pelo Capes para formação de 60 mil professores"
+title: Resultado divulgado pelo Capes para formação de 60 mil professores
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 **500 projetos foram selecionados para participar dos programas Pibid e Residência Pedagógica.**
 

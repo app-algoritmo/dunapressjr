@@ -1,11 +1,12 @@
 ---
-title: "Necrorobótica: Quando os mortos ressurgem como robôs"
+title: 'Necrorobótica: Quando os mortos ressurgem como robôs'
 date: 2023-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## É previsível que em breve não apenas as vozes dos mortos possam ser imitadas, mas que os mortos também sejam reanimados em gravações de vídeo.
 

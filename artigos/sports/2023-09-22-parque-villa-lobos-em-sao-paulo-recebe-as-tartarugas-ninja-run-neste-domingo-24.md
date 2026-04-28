@@ -1,11 +1,13 @@
 ---
-title: "Parque Villa-Lobos, em São Paulo, recebe As Tartarugas Ninja Run neste domingo (24)"
+title: Parque Villa-Lobos, em São Paulo, recebe As Tartarugas Ninja Run neste domingo
+  (24)
 date: 2023-09-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Serão 1.000 participantes na primeira edição do evento, que terá caminhada de 3 km e corrida de 6 km, com largada a partir das 8h. Inscrições seguem abertas até esta sexta-feira (22).
 

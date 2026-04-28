@@ -1,11 +1,13 @@
 ---
-title: "O XXVI Encontro do Foro de São Paulo: rumo a uma nova radicalização da esquerda na Ibero-América"
+title: 'O XXVI Encontro do Foro de São Paulo: rumo a uma nova radicalização da esquerda
+  na Ibero-América'
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Há quase quatro anos, em agosto de 2019, Caracas sediou o XXV Encontro do Foro de São Paulo (FSP), entidade fundada em 1990 pelo tirano comunista cubano Fidel Castro e pelo então pouco conhecido sindicalista brasileiro Luiz Inácio da Silva, que mais tarde assumiria o apelido de *Lula* .
 

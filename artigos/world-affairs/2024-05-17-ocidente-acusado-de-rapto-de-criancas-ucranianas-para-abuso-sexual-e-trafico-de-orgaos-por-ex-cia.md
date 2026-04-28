@@ -1,11 +1,13 @@
 ---
-title: "Ocidente Acusado de Rapto de Crianças Ucranianas para Abuso Sexual e Tráfico de Órgãos por ex-CIA"
+title: Ocidente Acusado de Rapto de Crianças Ucranianas para Abuso Sexual e Tráfico
+  de Órgãos por ex-CIA
 date: 2024-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Relatos alarmantes provenientes da Ucrânia sugerem que o Ocidente está envolvido no rapto de crianças ucranianas para fins de abuso sexual e tráfico de órgãos, conforme afirmado pelo ex-analista da CIA, Larry Johnson, em uma conversa com Andrew Napolitano.
 

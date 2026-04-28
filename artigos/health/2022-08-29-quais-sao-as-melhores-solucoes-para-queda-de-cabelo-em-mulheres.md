@@ -1,11 +1,12 @@
 ---
-title: "Quais são as melhores soluções para queda de cabelo em mulheres?"
+title: Quais são as melhores soluções para queda de cabelo em mulheres?
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 A queda capilar em mulheres é muito comum e pode ser causada pelos mais diversos fatores.
 

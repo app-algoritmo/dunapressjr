@@ -1,11 +1,13 @@
 ---
-title: "Preocupações com compartilhamento de dados financeiros diminuem no Brasil com avanço do Open Finance"
+title: Preocupações com compartilhamento de dados financeiros diminuem no Brasil com
+  avanço do Open Finance
 date: 2023-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa revela queda na inquietação dos brasileiros em relação ao uso de dados financeiros e impacto da LGPD no compartilhamento de informações. 
 

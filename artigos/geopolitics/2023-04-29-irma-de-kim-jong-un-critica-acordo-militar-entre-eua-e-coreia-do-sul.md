@@ -1,12 +1,13 @@
 ---
-title: "Irmã de Kim Jong-un critica acordo militar entre EUA e Coreia do Sul"
+title: Irmã de Kim Jong-un critica acordo militar entre EUA e Coreia do Sul
 date: 2023-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 ## Kim Yo-jong chama a Declaração de Washington de um produto típico de sua política hostil extremamente anti-DPRK (nome oficial da Coreia do Norte)
 

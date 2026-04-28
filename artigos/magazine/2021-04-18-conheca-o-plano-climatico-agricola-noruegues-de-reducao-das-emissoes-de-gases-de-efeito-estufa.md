@@ -1,11 +1,13 @@
 ---
-title: "Conheça o plano climático agrícola norueguês de redução das emissões de gases de efeito estufa"
+title: Conheça o plano climático agrícola norueguês de redução das emissões de gases
+  de efeito estufa
 date: 2021-04-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 -Uma indústria inteira está unida no plano que mostra como a agricultura reduzirá as emissões de gases de efeito estufa e aumentará a absorção de carbono de 2021–2030. Por meio de oito áreas prioritárias, a indústria tornará a agricultura mais favorável ao clima e ao meio ambiente, a primeira área de foco é a calculadora do clima.
 

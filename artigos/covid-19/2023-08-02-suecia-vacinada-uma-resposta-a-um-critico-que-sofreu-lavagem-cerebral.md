@@ -1,11 +1,12 @@
 ---
-title: "Suécia 'vacinada': uma resposta a um crítico que sofreu lavagem cerebral"
+title: 'Suécia ''vacinada'': uma resposta a um crítico que sofreu lavagem cerebral'
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em tempos normais, eu não teria me incomodado em responder a uma crítica incompleta do meu artigo do Medium (publicado no *The Daily Skeptic* e *no Brownstone ) sobre mortes imaginárias evitadas em Israel pela vacina da Pfizer. *Mas vivemos em uma época de novo normal, e vale a pena mostrar o pensamento de um crítico com lavagem cerebral.
 

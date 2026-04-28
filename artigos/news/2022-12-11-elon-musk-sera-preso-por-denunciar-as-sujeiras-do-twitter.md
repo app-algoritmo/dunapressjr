@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk será preso por denunciar as sujeiras do twitter?"
+title: Elon Musk será preso por denunciar as sujeiras do twitter?
 date: 2022-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O proprietário e CEO do Twitter está compartilhando e-mails internos e outros documentos com os jornalistas independentes Matt Taibbi e Bari Weiss.
 

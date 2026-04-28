@@ -1,11 +1,12 @@
 ---
-title: "Os caminhos para medir a qualidade do aprendizado"
+title: Os caminhos para medir a qualidade do aprendizado
 date: 2021-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Durante muito tempo, avaliar um aluno tinha como objetivo classificar e rotular os melhores e os piores em sala de aula. Atualmente, a avaliação possui outro status: ela é vista como uma das mais importantes ferramentas que os professores possuem para alcançar o principal objetivo da escola: fazer com que todos os alunos, de fato, aprendam. E não adianta o professor ter um planejamento incrível se o ponto de partida estiver além da capacidade de seus alunos. Seria como exigir que eles subissem uma escada com degraus mais altos que suas pernas conseguissem alcançar. 
 

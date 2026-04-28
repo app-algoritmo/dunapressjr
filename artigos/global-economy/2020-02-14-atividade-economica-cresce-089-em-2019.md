@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cresce 0,89% em 2019"
+title: Atividade econômica cresce 0,89% em 2019
 date: 2020-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *É o terceiro ano seguido de expansão da economia*
 

@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica aumento de impostos sobre medicamentos"
+title: Cleitinho critica aumento de impostos sobre medicamentos
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (3), o senador Cleitinho (Republicanos-MG), criticou a informação, segundo ele confirmada pelo vice-presidente e ministro do Desenvolvimento, Geraldo Alckmin, de que o governo já estuda a possibilidade de cancelar a isenção de impostos de pelo menos 400 medicamentos. Cleitinho enfatizou que a proposta afeta inclusive remédios essenciais para o tratamento de câncer e leucemia. A dedução vigora desde o início da pandemia de Covid-19.
 

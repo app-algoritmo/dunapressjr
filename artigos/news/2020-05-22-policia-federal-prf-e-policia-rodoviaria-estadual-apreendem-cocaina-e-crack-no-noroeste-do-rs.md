@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal, PRF e Polícia Rodoviária Estadual apreendem cocaína e crack no noroeste do RS"
+title: Polícia Federal, PRF e Polícia Rodoviária Estadual apreendem cocaína e crack
+  no noroeste do RS
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santo Ângelo/RS: Ação integrada da Polícia Federal, Polícia Rodoviária Federal e Polícia Rodoviária Estadual resultou na apreensão de dois quilos de cocaína e crack e na prisão de um homem por tráfico de drogas.
 

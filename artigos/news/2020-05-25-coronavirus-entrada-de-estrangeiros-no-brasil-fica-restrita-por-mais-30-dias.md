@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: entrada de estrangeiros no Brasil fica restrita por mais 30 dias"
+title: 'Coronavírus: entrada de estrangeiros no Brasil fica restrita por mais 30 dias'
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governo federal prorrogou, por 30 dias, as restrições para entrada de estrangeiros no país. A Portaria Interministerial [nº 225](http://www.in.gov.br/en/web/dou/-/portaria-n-255-de-22-de-maio-de-2020-258114133)  foi assinada, na sexta-feira (22), pelos ministros da Justiça e Segurança Pública, André Mendonça; da Casa Civil, Braga Netto, da Infraestrutura, Tarcísio Gomes de Freitas e da Saúde (interino), Eduardo Pazuello.
 

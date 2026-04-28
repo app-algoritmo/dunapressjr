@@ -1,11 +1,12 @@
 ---
-title: "A Rússia não se transformará em 'fortaleza sitiada' devido a sanções - Lavrov"
+title: A Rússia não se transformará em 'fortaleza sitiada' devido a sanções - Lavrov
 date: 2021-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ministro das Relações Exteriores especificou que se o Ocidente fortalecer as sanções, a Rússia encontrará uma resposta, mas ressaltou que Moscou está contando com a prudência de seus parceiros ocidentais.
 

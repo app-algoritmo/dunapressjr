@@ -1,11 +1,12 @@
 ---
-title: "Como as vacinas contra a COVID afetarão as gestantes?"
+title: Como as vacinas contra a COVID afetarão as gestantes?
 date: 2023-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A vacina da COVID-19 foi disponibilizada para gestantes e agora elas começam a sentir os efeitos. Leia o que aconteceu com a saúde dela aqui.
 

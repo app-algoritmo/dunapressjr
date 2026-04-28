@@ -1,11 +1,12 @@
 ---
-title: "Insuficiência para cumprir regra de ouro cai para R$ 93,9 bilhões"
+title: Insuficiência para cumprir regra de ouro cai para R$ 93,9 bilhões
 date: 2021-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Retomada da economia e esforços de ajuste fiscal reduziram estimativa.
 

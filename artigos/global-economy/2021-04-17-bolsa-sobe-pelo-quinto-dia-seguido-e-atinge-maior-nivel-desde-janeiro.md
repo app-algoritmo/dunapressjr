@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe pelo quinto dia seguido e atinge maior nível desde janeiro"
+title: Bolsa sobe pelo quinto dia seguido e atinge maior nível desde janeiro
 date: 2021-04-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar tem quarta queda seguida e fecha a R$ 5,58.
 

@@ -1,12 +1,13 @@
 ---
-title: "Foi realmente uma boa morte? Ou um assassinato?"
+title: Foi realmente uma boa morte? Ou um assassinato?
 date: 2023-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
-  - World Affairs
+- Health
+- World Affairs
 ---
+
 
 ## No documentário A Good Death? The Midazolam Murders ”descobriu um escândalo em torno da alegada eutanásia involuntária pelo serviço de saúde britânico NHS.
 

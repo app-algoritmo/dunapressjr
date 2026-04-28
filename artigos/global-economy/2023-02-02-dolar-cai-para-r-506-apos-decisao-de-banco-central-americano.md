@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,06 após decisão de Banco Central americano"
+title: Dólar cai para R$ 5,06 após decisão de Banco Central americano
 date: 2023-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recua 1,2%, pressionada por mineradoras e bancos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeção de crescimento do crédito em 2020 sobe para 11,5%"
+title: Projeção de crescimento do crédito em 2020 sobe para 11,5%
 date: 2020-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento decorre da demanda acentuada para empresas.
 

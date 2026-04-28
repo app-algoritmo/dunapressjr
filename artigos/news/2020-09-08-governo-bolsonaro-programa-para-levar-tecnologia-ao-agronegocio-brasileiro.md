@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro programa para levar tecnologia ao agronegócio brasileiro"
+title: Governo Bolsonaro programa para levar tecnologia ao agronegócio brasileiro
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Serão investidos R$ 4,8 milhões em 14 projetos pilotos de adoção e de difusão de tecnologias 4.0. As inscrições vão até 26 de setembro. O programa tem como objetivo aumentar a eficiência e produtividade no agronegócio brasileiro.
 

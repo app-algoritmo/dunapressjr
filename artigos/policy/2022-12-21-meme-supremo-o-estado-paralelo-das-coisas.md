@@ -1,11 +1,12 @@
 ---
-title: "Meme supremo, o estado paralelo das coisas"
+title: Meme supremo, o estado paralelo das coisas
 date: 2022-12-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em seu estado paralelo a servidora Rosa Weber encerra o ano com esperança de mais tolerância e respeito e menos dissensões e desigualdades. Segundo ela, o STF se manterá firme em seu papel institucional como guardião da Constituição, **“sempre na defesa da democracia e do Estado Democrático de Direito”**. 
 

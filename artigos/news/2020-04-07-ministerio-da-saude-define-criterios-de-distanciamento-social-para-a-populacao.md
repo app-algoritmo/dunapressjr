@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde define critérios de distanciamento social para a população"
+title: Ministério da Saúde define critérios de distanciamento social para a população
 date: 2020-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Medidas devem ser proporcionais à realidade apresentada em cada região, observando critérios epidemiológicos e capacidade da rede de saúde.
 

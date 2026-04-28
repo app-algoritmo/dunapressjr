@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende argentino acusado de crimes contra a humanidade"
+title: Polícia Federal prende argentino acusado de crimes contra a humanidade
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Paraty/RJ** - A Polícia Federal prendeu, na tarde de ontem (11/05), em Paraty, litoral sul do Rio de Janeiro, um ex-oficial da Marinha Argentina, de 69 anos, acusado por autoridades de seu país pela prática de crimes contra a humanidade e sequestro.
 

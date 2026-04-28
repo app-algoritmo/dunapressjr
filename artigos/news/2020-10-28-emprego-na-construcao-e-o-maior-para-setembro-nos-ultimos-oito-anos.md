@@ -1,11 +1,12 @@
 ---
-title: "Emprego na construção é o maior para setembro nos últimos oito anos"
+title: Emprego na construção é o maior para setembro nos últimos oito anos
 date: 2020-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Número de empregados chegou a 50,1 pontos no mês, diz CNI.
 

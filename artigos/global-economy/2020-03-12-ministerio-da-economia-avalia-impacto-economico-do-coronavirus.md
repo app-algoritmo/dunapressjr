@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia avalia impacto econômico do coronavírus"
+title: Ministério da Economia avalia impacto econômico do coronavírus
 date: 2020-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Nota produzida pela Secretaria de Política Econômica fornece estimativas de como a epidemia pode influenciar o crescimento do PIB em 2020
 

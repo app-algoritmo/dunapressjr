@@ -1,11 +1,12 @@
 ---
-title: "Sequestros no Chile aumentam 50% durante mandato de Boric"
+title: Sequestros no Chile aumentam 50% durante mandato de Boric
 date: 2023-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os saldos da insegurança no Chile durante o mandato do presidente Gabriel Boric marcam lamentáveis ​​marcos com o aumento de 50% dos sequestros no país, passando de 26 casos em 2021 para 46 em 2022. Os dados sobre o aumento da criminalidade fazem parte do último relatório de gestão operacional da Polícia Judiciária (PDI), onde o número de detidos por esta causa também cresceu de 22 para 75 no mesmo período.
 

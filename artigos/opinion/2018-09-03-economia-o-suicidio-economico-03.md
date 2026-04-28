@@ -1,11 +1,12 @@
 ---
-title: "Economia - O suicídio econômico - 03"
+title: Economia - O suicídio econômico - 03
 date: 2018-09-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Hoje, em continuidade ao trazido nos últimos dois artigos das últimas duas semanas, trazemos mais um pouco de conhecimento sobre o sistema econômico e suas nuances (Link do 1º e 2º artigos -[https://dunapress.org/2018/08/20/economia-o-suicidio-economico-01/](https://dunapress.org/2018/08/20/economia-o-suicidio-economico-01/) - [https://dunapress.org/2018/08/27/economia-o-suicidio-economico-02/](https://dunapress.org/2018/08/27/economia-o-suicidio-economico-02/) ).
 

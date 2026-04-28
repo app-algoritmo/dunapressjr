@@ -1,11 +1,12 @@
 ---
-title: "Quanto tempo demora para adquirir imunidade após tomar a vacina contra a Covid-19?"
+title: Quanto tempo demora para adquirir imunidade após tomar a vacina contra a Covid-19?
 date: 2021-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As vacinas são o primeiro passo para o fim da pandemia do novo coronavírus, mas a imunidade não começa imediatamente após tomar a segunda dose do imunizante. Caso uma pessoa tenha Covid-19 logo após se imunizar, isso não significa que a vacina não funcionou, mas que seu o sistema imunológico ainda não teve tempo para criar a resposta imune. 
 

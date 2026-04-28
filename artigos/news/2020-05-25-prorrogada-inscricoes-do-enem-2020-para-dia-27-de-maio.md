@@ -1,11 +1,12 @@
 ---
-title: "Prorrogada inscrições do Enem 2020 para dia 27 de Maio"
+title: Prorrogada inscrições do Enem 2020 para dia 27 de Maio
 date: 2020-05-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Os participantes do Exame Nacional do Ensino Médio (Enem) 2020 terão mais cinco dias para se inscrever no exame. O novo prazo, definido pelo Ministério da Educação (MEC) e pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), será até às 23h59 da próxima quarta-feira, 27 de maio. Após a inscrição, o pagamento do boleto deve ser realizado até dia 28 do mesmo mês.
 

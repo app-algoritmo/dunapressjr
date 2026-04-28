@@ -1,11 +1,13 @@
 ---
-title: "Governadora de Dakota do Sul envia tropas para fronteira sul dos EUA em resposta à crise de imigração"
+title: Governadora de Dakota do Sul envia tropas para fronteira sul dos EUA em resposta
+  à crise de imigração
 date: 2024-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A governadora republicana de Dakota do Sul, Kristi Noem, anunciou uma medida decisiva em meio à crescente crise na fronteira sul dos Estados Unidos. Em resposta ao pedido de ajuda do governador do Texas, Greg Abbott, Noem ordenou o envio de sessenta soldados da Guarda Nacional para reforçar a segurança na fronteira com o México.
 

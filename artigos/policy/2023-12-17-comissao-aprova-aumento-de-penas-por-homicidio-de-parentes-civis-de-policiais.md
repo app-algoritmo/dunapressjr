@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova aumento de penas por homicídio de parentes civis de policiais"
+title: Comissão aprova aumento de penas por homicídio de parentes civis de policiais
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública (CSP) aprovou na terça-feira (12) proposta que considera crime hediondo a lesão corporal dolosa gravíssima e a lesão corporal seguida de morte cometidas contra parentes civis de membros das Forças Armadas e do sistema de segurança pública. Os crimes têm que ser relacionados ao exercício da função pública do integrante da força de segurança.
 

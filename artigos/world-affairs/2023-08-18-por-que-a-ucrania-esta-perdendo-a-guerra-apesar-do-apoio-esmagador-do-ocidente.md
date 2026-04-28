@@ -1,11 +1,12 @@
 ---
-title: "Por que a Ucrânia está perdendo a guerra, apesar do apoio esmagador do Ocidente?"
+title: Por que a Ucrânia está perdendo a guerra, apesar do apoio esmagador do Ocidente?
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Jaroslav Štefec comenta no [Facebook](https://www.facebook.com/profile.php?sid=84813f20dd0abf9c536442ecc08a66f7&id=100016828963330) : Provavelmente porque a capacidade de vencer guerras não reside tanto na tecnologia militar sofisticada, no armamento de última geração glamourizado pela mídia ou na produção de filmes de sucesso em que “nosso” herói continua glorificando sobre vilões e alienígenas triunfou. Para além de uma boa liderança, um exército forte e motivado, a unidade ideológica da maioria da população, uma economia eficiente, uma logística eficaz e uma base industrial forte são determinantes para a capacidade de vencer. E também a capacidade de aprender rapidamente e usar novos conhecimentos nas condições da guerra moderna, desde o nível tático de comando de tropas até a estratégia de liderança política do estado.
 

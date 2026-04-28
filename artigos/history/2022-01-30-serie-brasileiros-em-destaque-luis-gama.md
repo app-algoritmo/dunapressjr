@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Luís Gama￼"
+title: 'Série Brasileiros em Destaque: Luís Gama￼'
 date: 2022-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Luís Gonzaga Pinto da Gama foi um dos principais abolicionistas da história do país. Nasceu em 21 de junho de 1830, em Salvador/BA, filho da africana livre, Luiza Mahin e de pai fidalgo branco de origem portuguesa e família rica no Brasil. Apesar de uma vida cheia de conturbações, Luís Gama foi poeta, advogado, jornalista e patrono da cadeira nº15 da Academia Paulista de Letras.
 

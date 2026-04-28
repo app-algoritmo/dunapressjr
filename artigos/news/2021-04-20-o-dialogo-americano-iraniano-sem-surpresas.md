@@ -1,11 +1,12 @@
 ---
-title: "O diálogo americano-iraniano: sem surpresas"
+title: 'O diálogo americano-iraniano: sem surpresas'
 date: 2021-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Por **Dr. Salem AlKetbi**.*
 

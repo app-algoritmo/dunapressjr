@@ -1,11 +1,13 @@
 ---
-title: "Declaração do Conselho do Atlântico Norte sobre as recentes atividades híbridas da Rússia"
+title: Declaração do Conselho do Atlântico Norte sobre as recentes atividades híbridas
+  da Rússia
 date: 2024-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um comunicado de imprensa recente, o Conselho do Atlântico Norte expressou profunda preocupação com as recentes atividades conduzidas pela Rússia em território aliado. Essas atividades levaram a investigações e acusações contra múltiplos indivíduos em conexão com atividades estatais hostis que afetaram vários membros da OTAN, incluindo a República Tcheca, Estônia, Alemanha, Letônia, Lituânia, Polônia e Reino Unido.
 

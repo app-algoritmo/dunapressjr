@@ -1,11 +1,12 @@
 ---
-title: "Tributação CFC: Uma maneira de os países ricos roubarem dos pobres?"
+title: 'Tributação CFC: Uma maneira de os países ricos roubarem dos pobres?'
 date: 2020-09-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **Como facilitar o investimento estrangeiro em países em desenvolvimento.**
 

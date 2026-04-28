@@ -1,12 +1,13 @@
 ---
-title: "Regra geral para permissão de residência na Noruega"
+title: Regra geral para permissão de residência na Noruega
 date: 2019-11-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Tourism and Gastronomy
+- Magazine
+- Tourism and Gastronomy
 ---
+
 
 Como regra geral, estrangeiros que querem trabalhar e residir na Noruega necessitam de uma permissão de residência. Ha muitos tipos diferentes de permissões de residência para se inscrever, com diferentes processos de solicitações e diferentes exigências de documentação a ser anexada com a solicitação. 
 

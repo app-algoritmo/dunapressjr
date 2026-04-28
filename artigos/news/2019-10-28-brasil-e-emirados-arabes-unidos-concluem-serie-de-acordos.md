@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Emirados Árabes Unidos concluem série de acordos"
+title: Brasil e Emirados Árabes Unidos concluem série de acordos
 date: 2019-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os Emirados Árabes Unidos e o Brasil assinaram uma série de
 acordos neste domingo, por ocasião da visita do presidente brasileiro Jair

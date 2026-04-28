@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,43 e bolsa cai para menor nível desde 2020"
+title: Dólar sobe para R$ 5,43 e bolsa cai para menor nível desde 2020
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Moeda norte-americana chegou a aproximar-se de R$ 5,50.
 

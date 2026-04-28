@@ -1,11 +1,12 @@
 ---
-title: "Enedina Alves Marques, a primeira engenheira negra do Brasil"
+title: Enedina Alves Marques, a primeira engenheira negra do Brasil
 date: 2023-01-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O Google homenageia hoje, sexta-feira, Enedina Alves Marques, a primeira engenheira negra do Brasil.
 

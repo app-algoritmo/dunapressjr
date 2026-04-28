@@ -1,12 +1,14 @@
 ---
-title: "Big Pharma diz que novas “vacinas” de mRNA para câncer e doenças cardíacas estarão “prontas até o final da década”"
+title: Big Pharma diz que novas “vacinas” de mRNA para câncer e doenças cardíacas
+  estarão “prontas até o final da década”
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 A mídia controlada pelas empresas está [pulando de alegria](https://www.theguardian.com/society/2023/apr/07/cancer-and-heart-disease-vaccines-ready-by-end-of-the-decade) com uma nova gama de “vacinas” para doenças como câncer e doenças cardíacas que a indústria farmacêutica planejou lançar até o ano de 2030.
 

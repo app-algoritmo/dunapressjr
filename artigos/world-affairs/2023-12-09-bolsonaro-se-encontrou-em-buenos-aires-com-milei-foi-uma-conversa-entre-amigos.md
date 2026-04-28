@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro se encontrou em Buenos Aires com Milei: “foi uma conversa entre amigos”"
+title: 'Bolsonaro se encontrou em Buenos Aires com Milei: “foi uma conversa entre
+  amigos”'
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente brasileiro Jair Bolsonaro, que chegou quinta-feira à noite ao país, manteve esta manhã um encontro com o presidente eleito Javier Milei, que definiu como “uma conversa entre amigos” em que abordaram temas como “economia, segurança e futebol”. ."
 

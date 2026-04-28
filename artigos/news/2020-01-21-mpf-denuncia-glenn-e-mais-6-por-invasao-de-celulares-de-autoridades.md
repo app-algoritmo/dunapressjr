@@ -1,11 +1,12 @@
 ---
-title: "MPF denuncia Glenn e mais 6 por invasão de celulares de autoridades"
+title: MPF denuncia Glenn e mais 6 por invasão de celulares de autoridades
 date: 2020-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Ministério Público Federal (MPF) apresentou hoje (21) à
 Justiça Federal denúncia contra sete pessoas, incluindo o jornalista

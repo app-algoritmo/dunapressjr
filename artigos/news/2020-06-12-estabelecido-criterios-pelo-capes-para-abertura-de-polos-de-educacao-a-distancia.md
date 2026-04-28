@@ -1,11 +1,12 @@
 ---
-title: "Estabelecido critérios pelo Capes para abertura de polos de educação à distância"
+title: Estabelecido critérios pelo Capes para abertura de polos de educação à distância
 date: 2020-06-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Portaria orienta instituições de ensino sobre estrutura necessária e formas de avaliação dos espaços.
 

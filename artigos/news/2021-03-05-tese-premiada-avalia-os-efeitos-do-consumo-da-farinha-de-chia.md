@@ -1,11 +1,12 @@
 ---
-title: "Tese premiada avalia os efeitos do consumo da farinha de chia"
+title: Tese premiada avalia os efeitos do consumo da farinha de chia
 date: 2021-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estudo realizado pela nutricionista Bárbara Pereira da Silva, do Programa de Ciências da Nutrição da Universidade Federal de Viçosa (UFV) avaliou os efeitos do consumo diário da farinha de chia. 
 

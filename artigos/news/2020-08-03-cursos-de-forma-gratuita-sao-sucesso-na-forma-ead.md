@@ -1,11 +1,12 @@
 ---
-title: "Cursos de forma gratuita são sucesso na forma Ead"
+title: Cursos de forma gratuita são sucesso na forma Ead
 date: 2020-08-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Com mais de 70 mil participantes em sua segunda edição, o Programa de Aperfeiçoamento on-line teve as vagas para Português e TICs preenchidas antes do final do período de inscrição.
 

@@ -1,11 +1,12 @@
 ---
-title: "CMN prorroga financiamentos com recursos de fundos constitucionais"
+title: CMN prorroga financiamentos com recursos de fundos constitucionais
 date: 2021-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Adiamento pretende aliviar prejuízos com pandemia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saúde da População Negra no Brasil"
+title: Saúde da População Negra no Brasil
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 É necessário garantir que a população negra tenha acesso aos direitos humanitários, de forma acolhedora e livre de qualquer discriminação.
 

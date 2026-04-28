@@ -1,12 +1,13 @@
 ---
-title: "Alain Delon e os bichos"
+title: Alain Delon e os bichos
 date: 2023-08-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Alain Delon, quando jovem, vestia uma jaqueta do exército - o melhor para aquecer todos os filhotes, que conheceu no seu caminho.
 Hoje, o ator francês de 86 anos tem 5 abrigos para cães e gatos onde vivem estes bichinhos recolhidos da rua.

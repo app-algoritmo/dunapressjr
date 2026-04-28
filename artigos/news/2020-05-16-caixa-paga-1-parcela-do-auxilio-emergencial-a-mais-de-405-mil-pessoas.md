@@ -1,11 +1,12 @@
 ---
-title: "Caixa paga 1ª parcela do auxílio emergencial a mais de 405 mil pessoas"
+title: Caixa paga 1ª parcela do auxílio emergencial a mais de 405 mil pessoas
 date: 2020-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Todo o dinheiro é creditado de forma eletrônica; agências não abriram.
 

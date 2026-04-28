@@ -1,11 +1,12 @@
 ---
-title: "Alta da Selic encarece crédito e prestações, diz Anefac"
+title: Alta da Selic encarece crédito e prestações, diz Anefac
 date: 2022-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Poupança continua a render menos que fundos de investimento.
 

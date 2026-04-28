@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro acompanha de perto situação de Santa Catarina após ciclone"
+title: Governo Bolsonaro acompanha de perto situação de Santa Catarina após ciclone
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Técnicos da Defesa Civil Nacional estão em Santa Catarina para auxiliar nos trabalhos de resposta aos desastres provocados pela passagem de um ciclone extratropical no Sul do País nesta semana.
 

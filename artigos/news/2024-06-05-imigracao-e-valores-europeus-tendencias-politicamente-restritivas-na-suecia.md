@@ -1,12 +1,13 @@
 ---
-title: "Imigração e Valores Europeus: Tendências Politicamente Restritivas na Suécia"
+title: 'Imigração e Valores Europeus: Tendências Politicamente Restritivas na Suécia'
 date: 2024-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 A vice-primeira-ministra da Suécia, Ebba Busch, fez declarações contundentes sobre a integração dos muçulmanos na Europa durante uma entrevista ao jornal *Dagens Nyheter*. Busch, líder do partido Democratas-Cristãos, afirmou que os muçulmanos que não adaptam o Islão aos valores europeus deveriam retornar aos seus países de origem.
 

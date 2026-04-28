@@ -1,11 +1,12 @@
 ---
-title: "Handebol de Itajaí fica na quarta colocação no Campeonato Brasileiro Juvenil"
+title: Handebol de Itajaí fica na quarta colocação no Campeonato Brasileiro Juvenil
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A equipe masculina de handebol de Itajaí ADI/Aceu/Univali/Slice/FMEL encerrou a participação no Campeonato Brasileiro Juvenil na quarta colocação. A competição promovida pela Confederação Brasileira de Handebol (CBHb) foi realizada no ginásio de esportes Gabriel Colares entre os dias 30 de novembro e 5 de dezembro. A equipe itajaiense representa a Fundação Municipal de Esporte e Lazer (FMEL) em competições.
 

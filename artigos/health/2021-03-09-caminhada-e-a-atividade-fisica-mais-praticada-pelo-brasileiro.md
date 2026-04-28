@@ -1,11 +1,12 @@
 ---
-title: "Caminhada é a atividade física mais praticada pelo brasileiro"
+title: Caminhada é a atividade física mais praticada pelo brasileiro
 date: 2021-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Todos sabem que a prática de atividade física, seja na infância ou na velhice, faz bem para saúde, para corpo e para alma. Quem tem o hábito de se exercitar, sente no dia-a-dia os benefícios e a falta que faz quando, por algum motivo, não consegue ter um tempo para os exercícios.
 

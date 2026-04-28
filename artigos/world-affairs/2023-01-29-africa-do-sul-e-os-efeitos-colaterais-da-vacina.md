@@ -1,11 +1,12 @@
 ---
-title: "África do Sul e os efeitos colaterais da vacina"
+title: África do Sul e os efeitos colaterais da vacina
 date: 2023-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O executivo da Justiça de Saúde Transformativa, Shabnam Mohamed, deu recentemente [uma entrevista ao eNews Channel Africa da África do Sul, ou eNCA,](https://www.youtube.com/watch?v=Elu8caWGV38&t=160s) sobre o anúncio do Departamento de Saúde em dezembro de que crianças de 5 a 11 anos agora seriam vacinadas. A Sr. Mohamed também é membro do TrialSite e fornecemos uma breve sinopse dessa entrevista abaixo.
 

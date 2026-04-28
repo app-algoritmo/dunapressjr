@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário industrial cresce pelo quinto mês consecutivo"
+title: Confiança do empresário industrial cresce pelo quinto mês consecutivo
 date: 2020-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador está 3,1 pontos abaixo do registrado antes da pandemia.
 

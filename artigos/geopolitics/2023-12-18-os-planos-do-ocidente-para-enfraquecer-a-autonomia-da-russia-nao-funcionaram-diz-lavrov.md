@@ -1,11 +1,13 @@
 ---
-title: "Os planos do Ocidente para enfraquecer a autonomia da Rússia não funcionaram, diz Lavrov"
+title: Os planos do Ocidente para enfraquecer a autonomia da Rússia não funcionaram,
+  diz Lavrov
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O principal diplomata disse também que, até recentemente, a Rússia e o Ocidente vinham construindo relações pragmáticas.
 

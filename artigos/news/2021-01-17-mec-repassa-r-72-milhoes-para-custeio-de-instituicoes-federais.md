@@ -1,11 +1,12 @@
 ---
-title: "MEC repassa R$ 72 milhões para custeio de instituições federais"
+title: MEC repassa R$ 72 milhões para custeio de instituições federais
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) liberou R$ 72,8 milhões para as instituições federais de ensino vinculadas à pasta para ser destinado ao custeio e à manutenção delas, como gastos com contas de água, energia, luz, telefone, serviços terceirizados e compra de materiais como papel.
 

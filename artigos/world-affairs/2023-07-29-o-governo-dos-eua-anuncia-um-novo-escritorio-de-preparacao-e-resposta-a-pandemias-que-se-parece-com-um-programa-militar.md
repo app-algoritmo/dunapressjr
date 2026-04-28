@@ -1,11 +1,13 @@
 ---
-title: "O governo dos EUA anuncia um novo escritório de 'Preparação e Resposta a Pandemias' que se parece com um programa militar"
+title: O governo dos EUA anuncia um novo escritório de 'Preparação e Resposta a Pandemias'
+  que se parece com um programa militar
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## *O governo dos EUA anuncia um novo escritório de preparação e resposta a pandemias: é um programa de saúde pública ou um programa militar?*
 

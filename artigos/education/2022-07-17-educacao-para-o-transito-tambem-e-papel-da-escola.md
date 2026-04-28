@@ -1,11 +1,12 @@
 ---
-title: "Educação para o trânsito também é papel da escola"
+title: Educação para o trânsito também é papel da escola
 date: 2022-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Todos os dias, no Brasil, 32 pessoas morrem em decorrência de acidentes de trânsito. No total, 2021 registrou 11,6 mil mortes no trânsito. Os dados são do Ministério da Infraestrutura e trazem um recado importante para cidadãos de todo o país: é preciso construir uma cultura de trânsito menos violenta e mais conscientizadora. Nesse processo, a participação das escolas é indispensável. A educação para o trânsito é uma exigência da Base Nacional Comum Curricular (BNCC), mas os resultados precisam de tempo para aparecer.
 

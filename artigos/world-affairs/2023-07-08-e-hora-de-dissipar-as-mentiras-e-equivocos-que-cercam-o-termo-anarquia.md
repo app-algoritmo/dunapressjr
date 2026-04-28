@@ -1,11 +1,12 @@
 ---
-title: "É hora de dissipar as mentiras e equívocos que cercam o termo 'anarquia'"
+title: É hora de dissipar as mentiras e equívocos que cercam o termo 'anarquia'
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *"O anarquismo não é uma fábula romântica, mas a percepção sóbria, baseada em cinco mil anos de experiência, de que não podemos confiar a administração de nossas vidas a reis, padres, políticos, generais e magistrados." - Edward*
 **Abbey**

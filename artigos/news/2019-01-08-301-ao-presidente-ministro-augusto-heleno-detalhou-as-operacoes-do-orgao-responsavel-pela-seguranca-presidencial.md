@@ -1,11 +1,13 @@
 ---
-title: "3.01 Ao presidente, ministro Augusto Heleno detalhou as operações do órgão, responsável pela segurança presidencial"
+title: 3.01 Ao presidente, ministro Augusto Heleno detalhou as operações do órgão,
+  responsável pela segurança presidencial
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro visita instalações do Gabinete de Segurança Institucional
 

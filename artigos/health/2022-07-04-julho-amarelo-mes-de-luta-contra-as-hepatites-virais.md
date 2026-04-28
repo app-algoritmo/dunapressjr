@@ -1,11 +1,12 @@
 ---
-title: "Julho Amarelo: Mês de luta contra as hepatites virais"
+title: 'Julho Amarelo: Mês de luta contra as hepatites virais'
 date: 2022-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As hepatites virais são um grave problema de saúde pública no Brasil e no mundo. São infecções que atingem o fígado, causando alterações leves, moderadas ou graves.
 

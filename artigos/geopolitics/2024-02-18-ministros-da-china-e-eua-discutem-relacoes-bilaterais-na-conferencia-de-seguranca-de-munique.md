@@ -1,11 +1,13 @@
 ---
-title: "Ministros da China e EUA discutem relações bilaterais na Conferência de Segurança de Munique"
+title: Ministros da China e EUA discutem relações bilaterais na Conferência de Segurança
+  de Munique
 date: 2024-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante uma reunião à margem da Conferência de Segurança de Munique, o ministro das Relações Exteriores da China, Wang Yi, e o secretário de Estado dos EUA, Antony Blinken, trocaram opiniões francas e construtivas sobre o desenvolvimento saudável, estável e sustentável das relações China-EUA.
 

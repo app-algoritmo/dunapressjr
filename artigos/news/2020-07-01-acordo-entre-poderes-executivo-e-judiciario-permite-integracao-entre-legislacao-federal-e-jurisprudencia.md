@@ -1,11 +1,13 @@
 ---
-title: "Acordo entre poderes Executivo e Judiciário permite integração entre legislação federal e jurisprudência"
+title: Acordo entre poderes Executivo e Judiciário permite integração entre legislação
+  federal e jurisprudência
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Agora, o Portal da Legislação possibilitará acesso do cidadão às normas atualizadas com direcionamento para as decisões do judiciário. Cerimônia de assinatura do Acordo de Cooperação Técnica para integração dos sistemas “Corpus927” e “A Constituição e o Supremo” ao Portal da Legislação.
 

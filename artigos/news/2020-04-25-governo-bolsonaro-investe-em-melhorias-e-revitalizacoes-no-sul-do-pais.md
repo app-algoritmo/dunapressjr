@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro investe em melhorias e revitalizações no sul do país"
+title: Governo Bolsonaro investe em melhorias e revitalizações no sul do país
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Financiamentos federais coordenados pelo Ministério do Desenvolvimento Regional (MDR) utilizam recursos do Fundo de Garantia do Tempo de Serviço (FGTS) para promover melhorias na região Sul do País. Projetos contemplados referem-se à reabilitação de áreas urbanas, melhorias na mobilidade urbana e modernização tecnológica de serviços públicos. O financiamentos dos projetos injetarão R$ 20 milhões em melhorias na urbanização da região.
 

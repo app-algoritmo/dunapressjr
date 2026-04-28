@@ -1,12 +1,13 @@
 ---
-title: "A parábola da Verdade nua"
+title: A parábola da Verdade nua
 date: 2022-02-11
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Culture and History
-  - Literature
+- Culture and History
+- Literature
 ---
+
 
 **Da série *Parábolas da Vida***
 

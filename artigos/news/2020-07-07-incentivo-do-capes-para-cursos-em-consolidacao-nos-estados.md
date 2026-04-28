@@ -1,11 +1,12 @@
 ---
-title: "Incentivo do Capes para cursos em consolidação nos estados"
+title: Incentivo do Capes para cursos em consolidação nos estados
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Serão 1.800 bolsas de mestrado, doutorado e pós-doutorado para os programas de pós-graduação considerados estratégicos. Programa é feito em parceria com o Confap.
 

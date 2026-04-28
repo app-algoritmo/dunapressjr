@@ -1,11 +1,12 @@
 ---
-title: "Conexões entre a administração Biden e a BlackRock: Uma análise"
+title: 'Conexões entre a administração Biden e a BlackRock: Uma análise'
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A BlackRock, a maior gestora de fortunas multibilionárias do mundo, tem laços estreitos com o governo dos EUA. O CEO [Larry Fink](https://www.weforum.org/agenda/authors/larry-fink) é considerado um dos investidores mais influentes do mundo.
 

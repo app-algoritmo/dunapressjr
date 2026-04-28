@@ -1,11 +1,12 @@
 ---
-title: "Projeto redefine objetivos da Semana Municipal de Incentivo à Adoção em Itajaí"
+title: Projeto redefine objetivos da Semana Municipal de Incentivo à Adoção em Itajaí
 date: 2022-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com 14 votos favoráveis, foi aprovado em primeira votação o [Projeto de Lei Complementar nº 15/2022](http://intranet.cvi.sc.gov.br/public/elegis2/pdf/projetodeleicomplementar15_2022.pdf), da vereadora Christiane Stuart (PSC). O projeto altera a Lei Complementar nº 372/2020, Artigo 32, que trata das datas comemorativas na cidade, em especial da Semana Municipal de Incentivo à Adoção de Crianças e Adolescentes.
  

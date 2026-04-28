@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai e volta a se aproximar de R$ 4,60"
+title: Dólar cai e volta a se aproximar de R$ 4,60
 date: 2022-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa recuou pela quarta sessão consecutiva.
 

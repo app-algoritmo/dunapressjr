@@ -1,11 +1,12 @@
 ---
-title: "Desertor chinês revela origens de COVID-19"
+title: Desertor chinês revela origens de COVID-19
 date: 2021-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Um oficial chinês desertou para os EUA e, ao fazê-lo, trouxe à luz informações preocupantes sobre o coronavírus.
 

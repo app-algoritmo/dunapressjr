@@ -1,11 +1,12 @@
 ---
-title: "Distribuição de Equipamentos de Proteção Individual chega a mais de 183 milhões"
+title: Distribuição de Equipamentos de Proteção Individual chega a mais de 183 milhões
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde já distribuiu 183,4 milhões de Equipamentos de Proteção Individual (EPIs) para todo o País. A ação do Governo Federal é para garantir a proteção dos profissionais de saúde que atuam na linha de frente do enfrentamento à Covid-19. Entre os itens estão máscaras, aventais, óculos e protetores faciais, toucas, sapatilhas, luvas e álcool. 
 

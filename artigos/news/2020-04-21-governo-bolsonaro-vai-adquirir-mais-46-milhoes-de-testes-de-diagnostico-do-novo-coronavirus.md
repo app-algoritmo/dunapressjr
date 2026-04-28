@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro vai adquirir mais 46 milhões de testes de diagnóstico do novo coronavírus"
+title: Governo Bolsonaro vai adquirir mais 46 milhões de testes de diagnóstico do
+  novo coronavírus
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministro da Saúde, Nelson Teich, anunciou nessa segunda-feira (20), a aquisição de 46,2 milhões de testes para diagnóstico da Covid-19. Deste total, são 24,2 milhões de testes RT-PCR (biologia molecular) e 22 milhões de testes rápidos (sorologia). O objetivo é aumentar a capacidade de testagem no País.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria volta a subir, após três meses de queda"
+title: Confiança da indústria volta a subir, após três meses de queda
 date: 2021-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O indicador está acima da média histórica de 54,1 pontos, diz CNI.
 

@@ -1,11 +1,13 @@
 ---
-title: "Milei Denuncia Legisladores e Aponta Congresso como 'Ninho de Ratos' em Discurso Incisivo"
+title: Milei Denuncia Legisladores e Aponta Congresso como 'Ninho de Ratos' em Discurso
+  Incisivo
 date: 2024-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Javier Milei lançou críticas contundentes hoje contra os legisladores que rejeitaram o projeto de "Bases", acusando-os de protegerem seus próprios privilégios em detrimento do progresso do país. Em um evento comemorativo do décimo aniversário do Freedom Club em Corrientes, Milei não poupou palavras ao descrever o Congresso Nacional como um "ninho de ratos", alertando para um atraso no crescimento argentino de até 30 anos caso as reformas estruturais propostas não sejam implementadas.
 

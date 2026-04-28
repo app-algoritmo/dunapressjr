@@ -1,11 +1,12 @@
 ---
-title: "A pesquisa do cérebro ganha impulso com os mosquitos"
+title: A pesquisa do cérebro ganha impulso com os mosquitos
 date: 2021-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Novas versões de proteínas sensíveis à luz podem iluminar os cantos escuros das vias de comunicação do nosso cérebro.
 

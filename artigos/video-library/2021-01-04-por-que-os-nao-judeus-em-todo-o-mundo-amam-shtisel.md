@@ -1,11 +1,12 @@
 ---
-title: "Por que os não-judeus em todo o mundo amam 'Shtisel'"
+title: Por que os não-judeus em todo o mundo amam 'Shtisel'
 date: 2021-01-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Com a estreia da 3ª temporada em Israel antes de um lançamento global na Netflix, os espectadores explicam o que eles amam no drama que gira em torno de uma família israelense ultraortodoxa.
 

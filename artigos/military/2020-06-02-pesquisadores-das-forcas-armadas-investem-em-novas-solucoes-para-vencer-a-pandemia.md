@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores das Forças Armadas investem em novas soluções para vencer a pandemia"
+title: Pesquisadores das Forças Armadas investem em novas soluções para vencer a pandemia
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em tempos de pandemia, são muitos os esforços no combate à Covid-19. Militares pesquisadores e cientistas das Forças Armadas Brasileiras trabalham arduamente na busca de soluções que possam contribuir para enfrentar a doença que assombra o mundo. A partir desta segunda-feira (1º), o leitor acompanha série de três matérias sobre inciativas da Marinha, do Exército e da Aeronáutica na área técnico-científica, que fazem toda a diferença no cenário nacional.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde habilita leitos para tratar pacientes com insuficiência respiratória"
+title: Ministério da Saúde habilita leitos para tratar pacientes com insuficiência
+  respiratória
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O leitos são destinados a pacientes com grau médio da Covid-19 e que precisam de oxigênio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto submete centro veterinário à fiscalização da vigilância sanitária"
+title: Projeto submete centro veterinário à fiscalização da vigilância sanitária
 date: 2021-09-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 1950/21 inclui centros de atendimento veterinário no Cadastro Nacional de Estabelecimentos de Saúde (CNES) e determina que sejam submetidos ao licenciamento e à fiscalização pela vigilância sanitária.
 

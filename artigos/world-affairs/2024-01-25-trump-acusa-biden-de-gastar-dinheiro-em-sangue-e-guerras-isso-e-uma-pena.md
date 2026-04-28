@@ -1,11 +1,12 @@
 ---
-title: "Trump acusa Biden de gastar dinheiro em “sangue e guerras”: “Isso é uma pena”"
+title: 'Trump acusa Biden de gastar dinheiro em “sangue e guerras”: “Isso é uma pena”'
 date: 2024-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente Donald Trump acusou Joe Biden, atual presidente dos Estados Unidos, de gastar o dinheiro de todos os americanos em “sangue” e “guerras”. Assim, nos últimos dias Trump lembrou que durante o seu mandato o país norte-americano não participou em nenhuma guerra, enquanto **com Biden na Casa Branca “tudo é horrível”.**
 

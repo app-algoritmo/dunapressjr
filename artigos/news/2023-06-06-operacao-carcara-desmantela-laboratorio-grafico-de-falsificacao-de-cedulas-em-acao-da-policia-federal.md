@@ -1,11 +1,13 @@
 ---
-title: "Operação Carcará desmantela laboratório gráfico de falsificação de cédulas em ação da Polícia Federal"
+title: Operação Carcará desmantela laboratório gráfico de falsificação de cédulas
+  em ação da Polícia Federal
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Organização criminosa que utilizava redes sociais para comercializar notas falsas é alvo de operação policial que resulta em três prisões.
 

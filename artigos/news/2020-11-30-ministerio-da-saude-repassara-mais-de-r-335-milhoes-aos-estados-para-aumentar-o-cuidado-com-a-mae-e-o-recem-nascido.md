@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde repassará mais de R$ 335 milhões aos estados para aumentar o cuidado com a mãe e o recém-nascido"
+title: Ministério da Saúde repassará mais de R$ 335 milhões aos estados para aumentar
+  o cuidado com a mãe e o recém-nascido
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um total de R$ 335 milhões será repassado aos estados brasileiros para a compra de equipamentos destinados ao cuidado e à assistência pública às gestantes e recém-nascidos. O anúncio foi feito pelo ministro da Saúde, Eduardo Pazuello, e tem como objetivo melhorar o atendimento ao pré-natal, prevenir o parto prematuro e intensificar os cuidados aos recém-nascidos. A medida faz alusão ao Novembro Roxo, mês da conscientização para a prevenção da prematuridade.
 

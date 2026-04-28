@@ -1,12 +1,14 @@
 ---
-title: "Válvulas de controle aumentam a confiabilidade e a produtividade nas plantas de óleo e gás"
+title: Válvulas de controle aumentam a confiabilidade e a produtividade nas plantas
+  de óleo e gás
 date: 2023-10-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 ## Soluções em válvulas de controle da Valmet são amplamente utilizadas em processos de refino em todo o mundo.
 

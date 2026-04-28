@@ -1,11 +1,12 @@
 ---
-title: "The Rookie - Série Policial"
+title: The Rookie - Série Policial
 date: 2022-09-27
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Amazon Prime Vídeo
 

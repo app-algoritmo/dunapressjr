@@ -1,11 +1,13 @@
 ---
-title: "Rostos, testemunhos de 101 sobreviventes de atrocidades nazistas no Reino Unido capturados em novo livro"
+title: Rostos, testemunhos de 101 sobreviventes de atrocidades nazistas no Reino Unido
+  capturados em novo livro
 date: 2021-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Retratos para a posteridade: Fotografias de sobreviventes do Holocausto na Grã-Bretanha, começou como uma única oportunidade de foto antes de se transformar em uma exposição e depois em um livro.
 

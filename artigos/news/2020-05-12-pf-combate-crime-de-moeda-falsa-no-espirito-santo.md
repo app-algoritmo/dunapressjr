@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa no Espírito Santo"
+title: PF combate crime de moeda falsa no Espírito Santo
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES - A Polícia Federal prendeu, em Cachoeiro de Itapemirim/ES, na segunda-feira (11/5), uma pessoa em flagrante por comprar cédulas falsas via internet. O indivíduo foi preso no momento em que recebia correspondência dos Correios, contendo 200 cédulas falsas de R$ 20. Em seguida, foi cumprido mandado de busca na residência do investigado, ocasião em que foram encontradas munições calibre .32.
 

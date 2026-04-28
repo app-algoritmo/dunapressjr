@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Educação publicou nesta terça-feira (29) o edital para as 50 mil vagas do Fies"
+title: Ministério da Educação publicou nesta terça-feira (29) o edital para as 50
+  mil vagas do Fies
 date: 2020-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação publicou nesta terça-feira (29) o edital referente as 50 mil vagas remanescentes do Fies (Financiamento Estudantil). Os candidatos deverão se inscrever, exclusivamente, pela página do Fies.
 

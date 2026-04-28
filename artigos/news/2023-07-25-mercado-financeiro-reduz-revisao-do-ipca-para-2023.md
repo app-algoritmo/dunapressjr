@@ -1,11 +1,12 @@
 ---
-title: "Mercado Financeiro reduz revisão do IPCA para 2023"
+title: Mercado Financeiro reduz revisão do IPCA para 2023
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação ainda supera meta do Banco Central. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde habilitou quase 100% dos leitos de UTI solicitados"
+title: Ministério da Saúde habilitou quase 100% dos leitos de UTI solicitados
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Investimento federal para custeio dos leitos é de R$ 1,7 bilhão para mais 11,8 mil leitos de UTI já habilitados.
 

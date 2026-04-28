@@ -1,12 +1,13 @@
 ---
-title: "Apanhado histórico e o politicamente correto"
+title: Apanhado histórico e o politicamente correto
 date: 2019-02-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Policy
+- Opinion
+- Policy
 ---
+
 
 -Queremos destacar aqui alguns fatos históricos, de modo a facilitar a compreensão pela maioria da população, de alguns fatos ocorridos ao longo de nossa história no país, bem como compreendermos o que realmente aconteceu no Brasil para chegarmos ao ponto que estamos neste ano de 2019.
 

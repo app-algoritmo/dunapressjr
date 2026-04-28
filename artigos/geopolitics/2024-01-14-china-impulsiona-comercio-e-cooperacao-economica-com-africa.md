@@ -1,11 +1,12 @@
 ---
-title: "China impulsiona comércio e cooperação econômica com África"
+title: China impulsiona comércio e cooperação econômica com África
 date: 2024-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Conselho de Estado aprovou um plano geral para a construção de uma zona pioneira para a cooperação econômica e comercial aprofundada China-África.
 

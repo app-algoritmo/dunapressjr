@@ -1,11 +1,12 @@
 ---
-title: "A Guerra das Correntes - Uma guerra que mudou a energia do mundo"
+title: A Guerra das Correntes - Uma guerra que mudou a energia do mundo
 date: 2020-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Da série: 50 máquinas que mudaram o rumo da História. Vamos falar sobre o Sistema de Corrente Alternada de Westinghouse. Que venceu a Guerra das Correntes contra o sistema de Corrente Contínua de Edison.
 

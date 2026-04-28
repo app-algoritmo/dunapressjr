@@ -1,11 +1,12 @@
 ---
-title: "Melo e Peers estreiam nesta quarta-feira (9) no Masters 1000 de Toronto"
+title: Melo e Peers estreiam nesta quarta-feira (9) no Masters 1000 de Toronto
 date: 2023-08-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Torneio no Canadá é o terceiro da gira em quadras rápidas da dupla. O jogo será ao meio-dia (horário de Brasília).
 

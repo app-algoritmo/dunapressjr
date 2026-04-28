@@ -1,11 +1,12 @@
 ---
-title: "Os 7 Poderes vêm aí para empoderar o Brasil!"
+title: Os 7 Poderes vêm aí para empoderar o Brasil!
 date: 2024-08-22
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Books
+- Books
 ---
+
 
 Dia 29 de agosto vou lançar oficialmente meu novo livro, “Os 7 Poderes: O Brasil no Século XXI”, uma coletânea dos melhores artigos que escrevi para A Gazeta do Povo, entre 2022 e 2024. A intenção é compartilhar com os leitores um pouco da minha visão nesses seis anos de legislatura na Câmara. Este livro também responde a questões relativas à nossa política, para onde temos que caminhar e o que defender.
 

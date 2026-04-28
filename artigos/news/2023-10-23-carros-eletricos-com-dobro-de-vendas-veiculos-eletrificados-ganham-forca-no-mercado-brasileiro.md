@@ -1,11 +1,13 @@
 ---
-title: "Carros elétricos: com dobro de vendas, veículos eletrificados ganham força no mercado brasileiro"
+title: 'Carros elétricos: com dobro de vendas, veículos eletrificados ganham força
+  no mercado brasileiro'
 date: 2023-10-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Primeiro mustang 100% elétrico no mundo chega ao Brasil sendo o mais forte e rápido da categoria.
 

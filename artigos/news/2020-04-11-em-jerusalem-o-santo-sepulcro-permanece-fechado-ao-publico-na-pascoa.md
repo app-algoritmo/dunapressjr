@@ -1,11 +1,12 @@
 ---
-title: "Em Jerusalém, o Santo Sepulcro permanece fechado ao público na Páscoa"
+title: Em Jerusalém, o Santo Sepulcro permanece fechado ao público na Páscoa
 date: 2020-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pela primeira vez em mais de um século, o Santo Sepulcro será fechado durante o fim de semana de Páscoa, o coronavírus é obrigatório.
 

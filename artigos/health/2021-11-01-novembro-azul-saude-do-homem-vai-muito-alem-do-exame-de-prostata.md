@@ -1,11 +1,12 @@
 ---
-title: "Novembro Azul: Saúde do homem vai muito além do exame de próstata"
+title: 'Novembro Azul: Saúde do homem vai muito além do exame de próstata'
 date: 2021-11-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Novembro é conhecido como o mês de debate e promoção da saúde dos homens. Porém, é importante lembrar que o cuidado não se limita a um mês do ano ou ao tratamento de doenças quando elas aparecem. É importante a vinculação com a Atenção Primária à Saúde e o acompanhamento de sua saúde durante toda a vida.
 

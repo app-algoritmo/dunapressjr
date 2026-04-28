@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal repassa R$ 3,3 milhões para continuidade de obras de saneamento em sete estados"
+title: Governo Federal repassa R$ 3,3 milhões para continuidade de obras de saneamento
+  em sete estados
 date: 2020-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor liberado contempla empreendimentos em Alagoas, Goiás, Maranhão, Mato Grosso, Piauí, Rio de Janeiro e São Paulo.
 

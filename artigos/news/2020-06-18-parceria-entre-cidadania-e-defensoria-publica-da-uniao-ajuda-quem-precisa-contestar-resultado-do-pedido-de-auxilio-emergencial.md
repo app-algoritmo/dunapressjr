@@ -1,11 +1,13 @@
 ---
-title: "Parceria entre Cidadania e Defensoria Pública da União ajuda quem precisa contestar resultado do pedido de Auxílio Emergencial"
+title: Parceria entre Cidadania e Defensoria Pública da União ajuda quem precisa contestar
+  resultado do pedido de Auxílio Emergencial
 date: 2020-06-18
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ação se soma às medidas do Governo Bolsonaro para que todos os que tenham direito ao benefício sejam contemplados.
 

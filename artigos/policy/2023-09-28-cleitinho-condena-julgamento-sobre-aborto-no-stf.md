@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho condena julgamento sobre aborto no STF"
+title: Cleitinho condena julgamento sobre aborto no STF
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento em Plenário na terça-feira (26), o senador Cleitinho (Republicanos-MG) criticou o Supremo Tribunal Federal (STF) por colocar em julgamento a descriminalização do aborto até a 12ª semana da gravidez. O julgamento foi suspenso por um pedido de destaque do ministro Luís Roberto Barroso e ainda não tem data para ser retomado.
 

@@ -1,11 +1,12 @@
 ---
-title: "A padronização da informação e a destruição do pensamento"
+title: A padronização da informação e a destruição do pensamento
 date: 2024-05-01
 status: publish
-author: sabervirtuosodunapress
+author: Saber Virtuoso
 categories:
-  - Policy
+- Policy
 ---
+
 
 Faz algum tempo que a mídia mainstream (a mídia comum) aprimorou o seu discurso equalizando-o, deixando-o com a mesma conotação. Os fatos são noticiados em diversos canais, porém só destoarão aqueles que não fizerem parte do conglomerado da mídia marrom ou mainstream.
 

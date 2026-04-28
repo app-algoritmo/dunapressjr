@@ -1,11 +1,12 @@
 ---
-title: "Até quando será  mantido  cessar-fogo em Gaza?"
+title: Até quando será  mantido  cessar-fogo em Gaza?
 date: 2020-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Apesar da relativa calma, as autoridades de segurança acreditam que os agentes da PIJ continuarão a tentar realizar ataques terroristas em Israel.
 

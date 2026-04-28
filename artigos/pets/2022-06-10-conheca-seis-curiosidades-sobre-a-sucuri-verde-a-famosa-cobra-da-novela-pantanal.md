@@ -1,11 +1,12 @@
 ---
-title: "Conheça seis curiosidades sobre a sucuri-verde, a famosa cobra da novela Pantanal"
+title: Conheça seis curiosidades sobre a sucuri-verde, a famosa cobra da novela Pantanal
 date: 2022-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A novela Pantanal, que vai ao ar na TV aberta nas noites de segunda a sábado vem chamando a atenção pelas incríveis transformações dos personagens em animais. Uma das mais famosas é a transformação do Velho do Rio em sucuri. Na ficção, ele age como protetor do Pantanal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ser vacinado por covid aumenta o risco de cegueira, segundo estudo"
+title: Ser vacinado por covid aumenta o risco de cegueira, segundo estudo
 date: 2023-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um novo estudo em grande escala da Inglaterra descobriu [que](https://www.lifesitenews.com/news/large-study-finds-people-who-received-covid-jab-have-higher-risk-of-visual-impairment/) as pessoas que são “vacinadas” para o coronavírus Wuhan (Covid-19) têm um risco substancialmente maior de *ficarem cegas* .
 

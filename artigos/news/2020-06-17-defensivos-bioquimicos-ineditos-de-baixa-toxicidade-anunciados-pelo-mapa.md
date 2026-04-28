@@ -1,11 +1,12 @@
 ---
-title: "Defensivos bioquímicos inéditos de baixa toxicidade anunciados pelo Mapa"
+title: Defensivos bioquímicos inéditos de baixa toxicidade anunciados pelo Mapa
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Também foram registrados defensivos agrícolas genéricos, incluindo produtos biológicos.
 

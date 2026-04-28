@@ -1,11 +1,12 @@
 ---
-title: "Rogério Marinho critica volta da contribuição obrigatória aos sindicatos"
+title: Rogério Marinho critica volta da contribuição obrigatória aos sindicatos
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rogério Marinho (PL-RN) criticou, em pronunciamento na terça-feira (12), decisão do Supremo Tribunal Federal (STF) pela constitucionalidade da contribuição assistencial para os sindicatos, imposta por acordo ou convenção coletiva a trabalhadores, mesmo aqueles não sindicalizados, desde que assegurado o direito de oposição. Trata-se do retorno da cobrança obrigatória da contribuição sindical, fixada em até 1% do rendimento anual do trabalhador.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estados membros da NATO estão direcionando suas economias para uma postura militar"
+title: Estados membros da NATO estão direcionando suas economias para uma postura
+  militar
 date: 2024-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministro dos Negócios Estrangeiros da Letónia, Krisjanis Karins, alertou que os estados membros da NATO estão adotando uma abordagem de "via militar" em suas economias, em entrevista à Deutsche Welle. Segundo ele, a aliança está avançando nessa direção, com um aumento significativo nos investimentos em defesa desde o início da operação militar russa na Ucrânia.
 

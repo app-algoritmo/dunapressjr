@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial fica em 0,24% em agosto, diz IBGE"
+title: Inflação oficial fica em 0,24% em agosto, diz IBGE
 date: 2020-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Custo da gasolina, do diesel e etanol influenciou no resultado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Theatro Municipal de São Paulo realiza campanha de doação para Santa Casa"
+title: Theatro Municipal de São Paulo realiza campanha de doação para Santa Casa
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 O Theatro Municipal de São Paulo se juntou à campanha “Guerra ao Coronavírus” elaborada pela Santa Casa de Misericórdia de São Paulo e reuniu, pela internet, músicos da Orquestra Sinfônica Municipal, do Coro Lírico e do Coral Paulistano para gravação de um trecho da Nona Sinfonia de Beethoven. 
 

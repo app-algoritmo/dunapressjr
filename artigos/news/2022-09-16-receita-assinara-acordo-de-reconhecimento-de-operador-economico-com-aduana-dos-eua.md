@@ -1,11 +1,13 @@
 ---
-title: "Receita assinará acordo de reconhecimento de operador econômico com aduana dos EUA"
+title: Receita assinará acordo de reconhecimento de operador econômico com aduana
+  dos EUA
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O acordo envolve benefícios e vantagens e será assinado em Washington, nos Estados Unidos, nesta sexta (16).
 

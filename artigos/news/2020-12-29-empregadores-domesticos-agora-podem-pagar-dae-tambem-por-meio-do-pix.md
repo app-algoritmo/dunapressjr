@@ -1,11 +1,12 @@
 ---
-title: "Empregadores domésticos agora podem pagar DAE também por meio do Pix"
+title: Empregadores domésticos agora podem pagar DAE também por meio do Pix
 date: 2020-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sistema eSocial identifica a operação instantaneamente.
 

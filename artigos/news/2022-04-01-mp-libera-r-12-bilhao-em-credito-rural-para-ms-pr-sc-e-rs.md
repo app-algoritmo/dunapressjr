@@ -1,11 +1,12 @@
 ---
-title: "MP libera R$ 1,2 bilhão em crédito rural para MS, PR, SC e RS"
+title: MP libera R$ 1,2 bilhão em crédito rural para MS, PR, SC e RS
 date: 2022-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Os recursos são para agricultores afetados pela seca.
 

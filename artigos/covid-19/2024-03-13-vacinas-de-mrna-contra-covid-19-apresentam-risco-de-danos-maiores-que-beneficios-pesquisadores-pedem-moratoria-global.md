@@ -1,11 +1,13 @@
 ---
-title: "Vacinas de mRNA contra COVID-19 Apresentam Risco de Danos Maiores que Benefícios, Pesquisadores Pedem Moratória Global"
+title: Vacinas de mRNA contra COVID-19 Apresentam Risco de Danos Maiores que Benefícios,
+  Pesquisadores Pedem Moratória Global
 date: 2024-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um novo estudo, publicado na revista Cureus em 24 de janeiro, levanta sérias preocupações sobre a segurança e eficácia das vacinas de mRNA contra COVID-19, da Pfizer e Moderna, instigando um chamado por uma "moratória global" sobre essas vacinas. Os pesquisadores, ao analisarem dados de ensaios clínicos e outras pesquisas, concluíram que os eventos adversos graves e a relação benefício-dano são inaceitáveis.
 

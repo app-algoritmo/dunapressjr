@@ -1,11 +1,12 @@
 ---
-title: "Previsões financeiras permanecem inalteradas pelo segundo mês consecutivo"
+title: Previsões financeiras permanecem inalteradas pelo segundo mês consecutivo
 date: 2023-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercado financeiro mantém cenário estável para crescimento, inflação e taxa de juros, com desafios à vista.
 

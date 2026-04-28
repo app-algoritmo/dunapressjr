@@ -1,11 +1,12 @@
 ---
-title: "Águas sem tratamento pode causar nova pandemia por superbactérias"
+title: Águas sem tratamento pode causar nova pandemia por superbactérias
 date: 2022-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um relatório do **[Programa das Nações Unidas para o Ambiente (Pnuma](https://www.unep.org/pt-br))** chama a atenção global sobre a ameaça da resistência antimicrobiana. Isso ocorre quando antibióticos são jogados no meio ambiente através de banheiros ou defecação a céu aberto.
 

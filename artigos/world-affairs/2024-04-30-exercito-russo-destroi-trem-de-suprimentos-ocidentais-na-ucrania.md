@@ -1,11 +1,12 @@
 ---
-title: "Exército Russo Destroi Trem de Suprimentos Ocidentais na Ucrânia"
+title: Exército Russo Destroi Trem de Suprimentos Ocidentais na Ucrânia
 date: 2024-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério da Defesa russo anunciou hoje que suas forças utilizaram uma combinação de aviões, foguetes e artilharia para destruir um trem que transportava armas e equipamentos ocidentais na região de Donetsk, na Ucrânia. O ataque, que ocorreu na última quinta-feira em Udachne, provocou uma resposta imediata das autoridades ucranianas e da comunidade internacional.
 

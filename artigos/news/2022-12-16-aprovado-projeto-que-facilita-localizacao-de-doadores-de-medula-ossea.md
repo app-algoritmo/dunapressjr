@@ -1,11 +1,12 @@
 ---
-title: "Aprovado projeto que facilita localização de doadores de medula óssea"
+title: Aprovado projeto que facilita localização de doadores de medula óssea
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os senadores aprovaram em Plenário, o projeto de lei (PL)[ 3.523/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/137309), que facilita a localização de doadores cadastrados no Registro Nacional de Doadores de Medula Óssea (Redome). A intenção é possibilitar aos gestores do registro e aos hemocentros requisitar a órgãos públicos dados de contato de doadores e parentes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A confederação do Equador"
+title: 'Série Fatos Da Independência: A confederação do Equador'
 date: 2023-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A movimentação que culminou na Confederação do Equador na Paraíba começou com a abolição das Juntas de Governo das províncias pelo decreto de 20 de outubro de 1823. Para substituir as Juntas, foi criado o cargo de Presidente, cuja nomeação era prerrogativa de Dom Pedro I. Desde o primeiro momento, a escolha do pernambucano Felipe Neri para servir como Presidente da Paraíba desagradou os paraibanos. Neri assumiu o cargo no dia 9 de abril de 1824. Sua primeira providência foi convocar as Câmaras das vilas para eleger um novo Conselho de Governo da província, cujo objetivo era o de auxiliá-lo. No entanto, várias localidades se recusaram a participar.
 

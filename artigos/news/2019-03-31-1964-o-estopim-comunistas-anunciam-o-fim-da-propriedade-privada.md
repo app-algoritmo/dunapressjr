@@ -1,11 +1,12 @@
 ---
-title: "1964 O Estopim: Comunistas anunciam o fim da propriedade privada."
+title: '1964 O Estopim: Comunistas anunciam o fim da propriedade privada.'
 date: 2019-03-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Há 55 anos, o Brasil viveu momentos de tensão e a beira de uma guerra civil. Era 31 de março de 1964. Assim eclodiu a contrarrevolução que impediu o país de mergulhar no comunismo.
 

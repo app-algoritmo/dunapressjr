@@ -1,11 +1,12 @@
 ---
-title: "O Plano de Joe Biden: Guerra e Estratégia na Ucrânia e Taiwan"
+title: 'O Plano de Joe Biden: Guerra e Estratégia na Ucrânia e Taiwan'
 date: 2024-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Entrevista Reveladora à Revista TIME.
 

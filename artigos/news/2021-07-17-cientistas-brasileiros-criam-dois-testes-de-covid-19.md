@@ -1,11 +1,12 @@
 ---
-title: "Cientistas brasileiros criam dois testes de COVID-19"
+title: Cientistas brasileiros criam dois testes de COVID-19
 date: 2021-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Trabalho da Universidade Federal de São Carlos deve anunciar uma terceira patente em poucos dias.
 

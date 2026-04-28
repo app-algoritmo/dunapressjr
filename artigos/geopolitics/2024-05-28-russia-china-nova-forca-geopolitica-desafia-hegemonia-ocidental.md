@@ -1,11 +1,12 @@
 ---
-title: "Rússia-China: Nova Força Geopolítica Desafia Hegemonia Ocidental"
+title: 'Rússia-China: Nova Força Geopolítica Desafia Hegemonia Ocidental'
 date: 2024-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ocidente, ao rejeitar furiosamente a Rússia, está inadvertidamente empurrando-a para os braços da China, fortalecendo uma aliança que está se tornando cada vez mais significativa tanto econômica quanto politicamente. Apesar das diferenças culturais, Rússia e China compartilham uma história de adversidade enfrentando inimigos comuns e a estratégia do “dividir para conquistar”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Após 76 anos, israelense descobre destino de pai morto por nazistas em Roma"
+title: Após 76 anos, israelense descobre destino de pai morto por nazistas em Roma
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Setenta e seis anos depois que seu pai morreu no Holocausto , um israelense, com a ajuda de Yad Vashem e das autoridades italianas, descobriu o destino de seu pai e onde estão seus restos mortais.
 

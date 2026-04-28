@@ -1,11 +1,12 @@
 ---
-title: "Diplomata Chinês Acusa EUA de Colocar em Risco Infraestrutura Crítica Global"
+title: Diplomata Chinês Acusa EUA de Colocar em Risco Infraestrutura Crítica Global
 date: 2024-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Um forte embate diplomático entre a China e os Estados Unidos foi desencadeado, com o diplomata chinês Liu Pengyu apontando os dedos para Washington, culpando-os por colocar em risco a infraestrutura crítica global através de ataques cibernéticos. Em declarações à agência de notícias TASS, Liu Pengyu, porta-voz da embaixada chinesa nos EUA, afirmou que a maioria dos ataques cibernéticos têm origem nos Estados Unidos, destacando a conduta controversa de Washington.
 

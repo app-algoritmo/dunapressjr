@@ -1,11 +1,13 @@
 ---
-title: "PGFN regulamenta Transação Excepcional para débitos apurados na forma do Simples Nacional"
+title: PGFN regulamenta Transação Excepcional para débitos apurados na forma do Simples
+  Nacional
 date: 2020-08-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Essa modalidade permite aos contribuintes afetados pela pandemia negociar seus débitos com benefícios – como entrada reduzida, descontos e prazos diferenciados.
 

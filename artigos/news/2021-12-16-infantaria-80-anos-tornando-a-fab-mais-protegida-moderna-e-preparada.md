@@ -1,11 +1,12 @@
 ---
-title: "Infantaria: 80 anos tornando a FAB mais protegida, moderna e preparada"
+title: 'Infantaria: 80 anos tornando a FAB mais protegida, moderna e preparada'
 date: 2021-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Infantaria da Aeronáutica, complementando a atividade fim da Força Aérea Brasileira (FAB), é a força de combate terrestre que garante a segurança, em solo, das “Asas que protegem o País”.  Ao longo dessas oito décadas de existência, a Infantaria da Aeronáutica vem buscando o aperfeiçoamento de suas atividades, por meio da capacitação especializada da tropa, do desenvolvimento de sua doutrina de emprego e da consolidação de suas áreas de atuação.   
 

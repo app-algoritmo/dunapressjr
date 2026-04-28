@@ -1,11 +1,12 @@
 ---
-title: "Irã condena ataque armado perto da fronteira com o Paquistão"
+title: Irã condena ataque armado perto da fronteira com o Paquistão
 date: 2024-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz do Ministério das Relações Exteriores do Irã condenou veementemente um ataque armado realizado por homens armados não identificados na manhã de sábado nos subúrbios de Saravan, uma cidade fronteiriça da província de Sistão e Baluchistão, no sudeste.
 

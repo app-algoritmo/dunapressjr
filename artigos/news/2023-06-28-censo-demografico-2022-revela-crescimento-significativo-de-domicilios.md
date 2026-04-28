@@ -1,11 +1,12 @@
 ---
-title: "Censo Demográfico 2022 revela crescimento significativo de domicílios"
+title: Censo Demográfico 2022 revela crescimento significativo de domicílios
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento de domicílios reflete mudanças familiares e no uso de residências.
 

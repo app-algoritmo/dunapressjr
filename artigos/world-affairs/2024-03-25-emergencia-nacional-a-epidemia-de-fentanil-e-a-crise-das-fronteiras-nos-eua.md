@@ -1,11 +1,12 @@
 ---
-title: "Emergência Nacional: A Epidemia de Fentanil e a Crise das Fronteiras nos EUA"
+title: 'Emergência Nacional: A Epidemia de Fentanil e a Crise das Fronteiras nos EUA'
 date: 2024-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O alerta do ex-presidente Donald Trump sobre o impacto devastador das drogas nos Estados Unidos ecoa com urgência diante da escalada da crise do fentanil. A droga sintética, conhecida por sua letalidade, tornou-se uma praga que assola cidades americanas, deixando um rastro de morte e desespero em seu caminho.
 

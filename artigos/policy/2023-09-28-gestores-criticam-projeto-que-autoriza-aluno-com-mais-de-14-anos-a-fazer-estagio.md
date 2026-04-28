@@ -1,11 +1,12 @@
 ---
-title: "Gestores criticam projeto que autoriza aluno com mais de 14 anos a fazer estágio"
+title: Gestores criticam projeto que autoriza aluno com mais de 14 anos a fazer estágio
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Hoje, o estudante só pode ser contratado como estagiário a partir de 16 anos.
 

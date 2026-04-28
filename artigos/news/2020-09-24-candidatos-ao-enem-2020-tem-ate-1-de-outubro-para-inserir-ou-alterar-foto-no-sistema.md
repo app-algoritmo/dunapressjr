@@ -1,11 +1,13 @@
 ---
-title: "Candidatos ao Enem 2020, têm até 1º de outubro para inserir ou alterar foto no sistema"
+title: Candidatos ao Enem 2020, têm até 1º de outubro para inserir ou alterar foto
+  no sistema
 date: 2020-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Inserção da imagem é obrigatória e deve obedecer a critérios estabelecidos em edital. Todos os participantes desta edição do exame devem anexar a fotografia ao sistema de inscrição.
 

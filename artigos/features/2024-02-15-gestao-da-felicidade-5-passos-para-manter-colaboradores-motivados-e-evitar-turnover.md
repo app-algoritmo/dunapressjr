@@ -1,11 +1,13 @@
 ---
-title: "Gestão da felicidade: 5 passos para manter colaboradores motivados e evitar turnover"
+title: 'Gestão da felicidade: 5 passos para manter colaboradores motivados e evitar
+  turnover'
 date: 2024-02-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Salário emocional, pacote de benefícios e desenvolvimento profissional precisam fazer parte de empresas que querem construir ambientes saudáveis em 2024.
 

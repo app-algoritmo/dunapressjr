@@ -1,11 +1,12 @@
 ---
-title: "A Absurda Guerra do Balde !"
+title: A Absurda Guerra do Balde !
 date: 2020-07-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 *“O homem tem que estabelecer um final para a guerra, senão, a guerra estabelecerá um final para a humanidade!”*
 

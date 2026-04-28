@@ -1,11 +1,13 @@
 ---
-title: "Governador de SC, entrega ordem de serviço para maior obra de sistema de abastecimento de água do estado"
+title: Governador de SC, entrega ordem de serviço para maior obra de sistema de abastecimento
+  de água do estado
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para resolver o problema de abastecimento de água em Chapecó e municípios vizinhos, especialmente em períodos de estiagem, o governador Carlos Moisés entregou, por intermédio da Casan, a ordem de serviço que autoriza o início da construção da macroadutora do Rio Chapecozinho. O investimento total na obra será de R$ 195,7 milhões, com recursos do Estado. É a maior obra de sistema de abastecimento de água em Santa Catarina. O ato ocorreu em Chapecó na tarde desta quinta-feira, 3, quando ainda foram anunciados investimentos para Infraestrutura, Saúde e Segurança Pública.
 

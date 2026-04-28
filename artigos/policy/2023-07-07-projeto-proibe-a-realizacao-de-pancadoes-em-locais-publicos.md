@@ -1,11 +1,12 @@
 ---
-title: "Projeto proíbe a realização de “pancadões” em locais públicos"
+title: Projeto proíbe a realização de “pancadões” em locais públicos
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 1134/23 proíbe a execução pública dos chamados "pancadões", caracterizados como som alto provenientes de equipamentos de veículos estacionados em vias urbanizadas, praças, praias e outros locais públicos. 
 

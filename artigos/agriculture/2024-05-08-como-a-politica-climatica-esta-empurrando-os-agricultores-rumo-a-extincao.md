@@ -1,11 +1,12 @@
 ---
-title: "Como a Política Climática Está Empurrando os Agricultores Rumo à Extinção"
+title: Como a Política Climática Está Empurrando os Agricultores Rumo à Extinção
 date: 2024-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 A renomada Catherine Austin Fitts, ex-colaboradora na administração de George HW Bush, alerta sobre os impactos devastadores da política climática sobre os agricultores. Em uma entrevista exclusiva a Greg Hunter, do USAWatchdog.com, Fitts expõe uma narrativa alarmante: os globalistas estão engendrando um plano sinistro para levar os agricultores à falência.
 

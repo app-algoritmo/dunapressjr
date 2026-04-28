@@ -1,11 +1,13 @@
 ---
-title: "Oficiais brasileiros concluem Curso Internacional de Comando e Estado-Maior na Alemanha"
+title: Oficiais brasileiros concluem Curso Internacional de Comando e Estado-Maior
+  na Alemanha
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Três oficiais brasileiros concluíram o Curso de Estado-Maior Internacionalda *Führungsakademie der Bundeswehr*, a conceituada Escola de Estado-Maior das Forças Armadas da Alemanha. Ao todo, militares discentes de 33 países concluíram o curso neste ano. O Brasil foi representado pelo tenente-coronel de Artilharia George **Koppe** Eiriz, do Exército Brasileiro, o tenente-coronel Aviador Fernando Lucas Soares **Corrêa**, da Força Aérea Brasileira, e o capitão de fragata João **Langsch**, da Marinha do Brasil.
 

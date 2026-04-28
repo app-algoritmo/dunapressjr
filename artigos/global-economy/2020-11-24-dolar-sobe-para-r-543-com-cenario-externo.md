@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,43, com cenário externo"
+title: Dólar sobe para R$ 5,43, com cenário externo
 date: 2020-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa voltou a fechar no melhor nível desde o fim de fevereiro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí é uma das cidades mais solidárias do país, de acordo com relatório da ONU"
+title: Município de Itajaí é uma das cidades mais solidárias do país, de acordo com
+  relatório da ONU
 date: 2022-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência da Organização das Nações Unidas para Refugiados (ACNUR) divulgou o 1º Relatório Cidades Solidárias Brasil e o Município de Itajaí foi um dos destaques. A cidade aparece no eixo temático de Compartilhamento de Responsabilidades com o trabalho de acesso à documentação para migrantes e refugiados. Ao todo, foram listadas 27 boas práticas de 17 gestões municipais do país que promovem ações para a integração de pessoas refugiadas em diferentes serviços, como abrigamento, educação e proteção.
 

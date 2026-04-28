@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro completa 500 dias de governo nesta sexta-feira (15)"
+title: Presidente Jair Bolsonaro completa 500 dias de governo nesta sexta-feira (15)
 date: 2020-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entre as ações de destaque, está o auxílio emergencial, a maior operação financeira-emergencial já realizada no Brasil, pago para mais de 50 milhões de brasileiros.
 

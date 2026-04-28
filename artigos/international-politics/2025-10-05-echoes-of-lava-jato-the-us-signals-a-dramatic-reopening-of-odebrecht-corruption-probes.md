@@ -1,11 +1,13 @@
 ---
-title: "Echoes of Lava Jato: The U.S. Signals a Dramatic Reopening of Odebrecht Corruption Probes"
+title: 'Echoes of Lava Jato: The U.S. Signals a Dramatic Reopening of Odebrecht Corruption
+  Probes'
 date: 2025-10-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Politics
+- International Politics
 ---
+
 
 ## US DOJ Reopens Odebrecht Corruption Case: Trump's Subpoena Shakes Brazil's Lava Jato Legacy
 

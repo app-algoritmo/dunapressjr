@@ -1,11 +1,12 @@
 ---
-title: "Lula pede a Gonet que não se submeta a pressões políticas"
+title: Lula pede a Gonet que não se submeta a pressões políticas
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## "Não faça o MP se diminuir", diz presidente ao novo PGR.
 

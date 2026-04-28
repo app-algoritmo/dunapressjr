@@ -1,11 +1,12 @@
 ---
-title: "Banco Central abre consultas para saques e trocos via Pix"
+title: Banco Central abre consultas para saques e trocos via Pix
 date: 2021-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cliente poderá fazer até quatro retiradas sem tarifas por mês.
 

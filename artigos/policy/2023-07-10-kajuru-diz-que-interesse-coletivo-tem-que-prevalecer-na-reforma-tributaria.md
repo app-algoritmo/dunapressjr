@@ -1,11 +1,12 @@
 ---
-title: "Kajuru diz que interesse coletivo tem que prevalecer na reforma tributária"
+title: Kajuru diz que interesse coletivo tem que prevalecer na reforma tributária
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) defendeu, em pronunciamento no Plenário nesta segunda-feira (10), que o Senado debata o texto da reforma tributária e faça mudanças, se for necessário. 
 

@@ -1,11 +1,13 @@
 ---
-title: "3.01 Bolsonaro afirmou que três órgãos do Ministério da Mulher, da Família e dos Direitos Humanos terão esta função"
+title: 3.01 Bolsonaro afirmou que três órgãos do Ministério da Mulher, da Família
+  e dos Direitos Humanos terão esta função
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente: MP da nova estrutura de governo garante proteção a todos
 

@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo positivo de US$ 3,7 bilhões"
+title: Contas externas têm saldo positivo de US$ 3,7 bilhões
 date: 2020-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É maior saldo positivo para agosto na série histórica do BC.
 

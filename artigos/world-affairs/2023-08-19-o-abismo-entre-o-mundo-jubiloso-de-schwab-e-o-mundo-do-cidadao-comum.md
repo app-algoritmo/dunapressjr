@@ -1,11 +1,12 @@
 ---
-title: "O abismo entre o mundo jubiloso de Schwab e o mundo do cidadão comum"
+title: O abismo entre o mundo jubiloso de Schwab e o mundo do cidadão comum
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Qualquer pessoa que leia os livros de Klaus Schwab terá uma visão do cérebro do fundador do Fórum Econômico Mundial. O professor emérito Philip Vermoortel assumiu esta tarefa e faz relatórios sobre ela.
 

@@ -1,11 +1,13 @@
 ---
-title: "EUA implantarão mísseis terrestres de alcance intermediário na Ásia no próximo ano"
+title: EUA implantarão mísseis terrestres de alcance intermediário na Ásia no próximo
+  ano
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Seria a primeira vez desde o fim da Guerra Fria que este tipo de armas seria colocado na região, afirma o relatório.
 

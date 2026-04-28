@@ -1,11 +1,12 @@
 ---
-title: "Nova técnica de fisioterapia reabilita puérperas"
+title: Nova técnica de fisioterapia reabilita puérperas
 date: 2020-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Fisioterapeuta pela Sociedade Padre Anchieta de Ensino (UniAnchieta), Ana Aparecida Pires é mestranda em Saúde da Mulher pela Faculdade de Medicina de Jundiaí (FMJ) e estuda a eficácia da drenagem linfática manual (DLM), técnica que ajuda na reabilitação de puérperas.
 

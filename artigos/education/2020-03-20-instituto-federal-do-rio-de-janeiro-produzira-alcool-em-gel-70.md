@@ -1,11 +1,12 @@
 ---
-title: "Instituto Federal do Rio de Janeiro produzirá álcool em gel 70%"
+title: Instituto Federal do Rio de Janeiro produzirá álcool em gel 70%
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 **Material será fabricado nos laboratórios dos campi da instituição de ensino superior**
 

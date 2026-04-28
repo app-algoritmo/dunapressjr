@@ -1,11 +1,12 @@
 ---
-title: "Depois de tomar a vacina, ainda preciso usar máscara?"
+title: Depois de tomar a vacina, ainda preciso usar máscara?
 date: 2021-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Alguns países ao redor do mundo já suspendem o uso de máscaras após avanço da vacinação; entenda como esse cenário não se aplica ao Brasil.
 

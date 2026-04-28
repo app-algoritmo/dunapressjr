@@ -1,11 +1,12 @@
 ---
-title: "Queda no preço de automóveis não contempla todo o mercado"
+title: Queda no preço de automóveis não contempla todo o mercado
 date: 2023-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O vice-presidente da República e ministro do Desenvolvimento, Indústria, Comércio e Serviços, Geraldo Alckmin, anunciou na última quinta-feira (25) uma redução no valor de venda de automóveis zero quilômetro. Isso será feito por meio de um desconto no Imposto sobre Produtos Industrializados (IPI) e deve resultar em reduções de 1,5% a 10,79%, de acordo com critérios de preço, eficiência energética e densidade industrial no país. A medida vale para carros de até R$ 120 mil. Para especialistas, a medida pode ter como resultado um aumento nas vendas de automóveis no país, embora não contemple toda a cadeia envolvida no setor.
 

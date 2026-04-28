@@ -1,11 +1,12 @@
 ---
-title: "Fragilidades no sistema de atendimento em farmácias"
+title: Fragilidades no sistema de atendimento em farmácias
 date: 2021-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento aponta que 60% das ligações realizadas por consumidores não são atendidas no segmento farmacêutico.
 

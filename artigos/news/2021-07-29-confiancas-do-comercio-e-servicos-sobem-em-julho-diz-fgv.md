@@ -1,11 +1,12 @@
 ---
-title: "Confianças do comércio e serviços sobem em julho, diz FGV"
+title: Confianças do comércio e serviços sobem em julho, diz FGV
 date: 2021-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança do Comércio subiu 5,1 pontos e atingiu 101 pontos.
 

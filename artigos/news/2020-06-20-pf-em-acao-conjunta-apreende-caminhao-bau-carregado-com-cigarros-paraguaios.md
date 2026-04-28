@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende caminhão baú carregado com cigarros paraguaios"
+title: PF, em ação conjunta, apreende caminhão baú carregado com cigarros paraguaios
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Terra Roxa/PR – Nesta sexta-feira, 19/6, mais um grande trabalho foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

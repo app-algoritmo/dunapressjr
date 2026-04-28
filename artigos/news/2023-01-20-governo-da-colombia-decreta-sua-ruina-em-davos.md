@@ -1,11 +1,12 @@
 ---
-title: "Governo da Colômbia decreta sua ruína em Davos"
+title: Governo da Colômbia decreta sua ruína em Davos
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Ministra de Minas e Energia da Colômbia, Irene Vélez chamou a atenção da mídia local e internacional nas últimas horas, além de desencadear comentários nas redes sociais pela irresponsabilidade de ter reiterado no Fórum Econômico Mundial, também conhecido como Fórum de Davos, que a Colômbia não concederá novos contratos exploração de petróleo e gás. 
 

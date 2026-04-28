@@ -1,11 +1,12 @@
 ---
-title: "BC: saldo de crédito chega a R$ 4,7 trilhões, em fevereiro"
+title: 'BC: saldo de crédito chega a R$ 4,7 trilhões, em fevereiro'
 date: 2022-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta é de 16,6%, em 12 meses.
 

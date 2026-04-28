@@ -1,11 +1,13 @@
 ---
-title: "Cientistas usam scanner tridimensional para descobrir e disponibilizar as verdadeiras medidas da população brasileira"
+title: Cientistas usam scanner tridimensional para descobrir e disponibilizar as verdadeiras
+  medidas da população brasileira
 date: 2020-10-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As chamadas medidas antropométricas (das palavras gregas anthropos, que significa “homem”, “ser humano” e metrikos, que tem o sentido de “justa proporção”) são dados básicos essenciais para a concepção de produtos proporcionalmente adequados aos seres humanos.
 

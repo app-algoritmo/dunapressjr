@@ -1,11 +1,12 @@
 ---
-title: "&nbsp;Confira as principais dicas para iniciar a prática do airsoft"
+title: '&nbsp;Confira as principais dicas para iniciar a prática do airsoft'
 date: 2022-10-19
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Conheça um pouco mais sobre as modalidades e os equipamentos necessários para praticar o esporte
 

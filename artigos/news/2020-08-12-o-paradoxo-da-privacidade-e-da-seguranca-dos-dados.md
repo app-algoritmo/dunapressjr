@@ -1,11 +1,12 @@
 ---
-title: "O paradoxo da privacidade e da segurança dos dados"
+title: O paradoxo da privacidade e da segurança dos dados
 date: 2020-08-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Se há algo que não existe na internet, é a privacidade e a segurança de dados.
 

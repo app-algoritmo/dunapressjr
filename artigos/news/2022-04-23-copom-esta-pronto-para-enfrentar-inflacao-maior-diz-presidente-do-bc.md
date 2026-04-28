@@ -1,11 +1,12 @@
 ---
-title: "Copom está pronto para enfrentar inflação maior, diz presidente do BC"
+title: Copom está pronto para enfrentar inflação maior, diz presidente do BC
 date: 2022-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo Campos Neto, guerra na Ucrânia pressiona índices de preços.
 

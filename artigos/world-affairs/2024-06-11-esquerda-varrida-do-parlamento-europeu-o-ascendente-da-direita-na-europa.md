@@ -1,11 +1,12 @@
 ---
-title: "Esquerda Varrida do Parlamento Europeu: O Ascendente da Direita na Europa"
+title: 'Esquerda Varrida do Parlamento Europeu: O Ascendente da Direita na Europa'
 date: 2024-06-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No cenário político europeu, um terremoto abalou as fundações do continente com os resultados recentes das eleições europeias. Intitulado "Esquerda Varrida do Parlamento Europeu, Partido Democrata Cristão foi grande vencedor na Alemanha," o vídeo publicado destaca as dramáticas mudanças no panorama político europeu e seus impactos significativos nas principais lideranças do continente.
 

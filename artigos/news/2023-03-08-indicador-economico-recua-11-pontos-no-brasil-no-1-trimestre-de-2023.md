@@ -1,11 +1,12 @@
 ---
-title: "Indicador Econômico recua 11 pontos no Brasil no 1º trimestre de 2023"
+title: Indicador Econômico recua 11 pontos no Brasil no 1º trimestre de 2023
 date: 2023-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são da Sondagem Econômica da América Latina da FGV.
 

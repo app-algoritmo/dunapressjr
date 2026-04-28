@@ -1,11 +1,12 @@
 ---
-title: "O movimento da Independência do Brasil"
+title: O movimento da Independência do Brasil
 date: 2022-09-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A Independência do Brasil nasceu de um longo processo, cujo início se deu em 1808, com a vinda da Família Real para o Brasil. O país passou, então, por um rápido e surpreendente processo de desenvolvimento. Em 1820, estourou na cidade do Porto uma revolução que marcaria época. Seu objetivo era abolir o absolutismo régio. Em um primeiro momento, o Brasil a ela aderiu entusiasticamente, elegendo deputados para representarem-no nas Cortes Constituintes de Lisboa.
 

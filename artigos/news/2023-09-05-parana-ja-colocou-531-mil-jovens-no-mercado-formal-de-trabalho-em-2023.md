@@ -1,11 +1,12 @@
 ---
-title: "Paraná já colocou 53,1 mil jovens no mercado formal de trabalho em 2023"
+title: Paraná já colocou 53,1 mil jovens no mercado formal de trabalho em 2023
 date: 2023-09-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Somente no mês de julho, 6.584 jovens conseguiram uma colocação no mercado de trabalho com carteira assinada no Paraná, desempenho que representa 58,49% das 11.256 vagas ocupadas por esta faixa etária em toda região Sul.
 

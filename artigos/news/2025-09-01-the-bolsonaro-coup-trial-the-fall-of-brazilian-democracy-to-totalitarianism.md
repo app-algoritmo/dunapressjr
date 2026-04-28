@@ -1,11 +1,12 @@
 ---
-title: "The Bolsonaro Coup Trial: The Fall of Brazilian Democracy to Totalitarianism"
+title: 'The Bolsonaro Coup Trial: The Fall of Brazilian Democracy to Totalitarianism'
 date: 2025-09-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro's 2025 Coup Trial: Accusations, Judicial Coup Claims, and Brazil's Deepening Crisis Under Lula
 

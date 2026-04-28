@@ -1,11 +1,13 @@
 ---
-title: "Emissão de faturas do Semasa de Itajaí, depende da aprovação do Projeto de Lei"
+title: Emissão de faturas do Semasa de Itajaí, depende da aprovação do Projeto de
+  Lei
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A emissão de faturas referentes aos meses de outubro e novembro, pelo Semasa, depende ainda da aprovação do Projeto de Lei Ordinária nº 165, encaminhado pela Prefeitura Municipal à Câmara de Vereadores. Na noite desta terça-feira (24), o projeto foi encaminhado, pelos vereadores, para análise da Comissão de Legislação, Justiça e Redação Final. Após a aprovação pelo legislativo, o PL retorna ao executivo para ser sancionado pelo prefeito municipal e publicado no Diário Oficial. 
 

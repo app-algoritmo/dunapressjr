@@ -1,11 +1,13 @@
 ---
-title: "Uma vez perdidos na história, os testemunhos da Kristallnacht, ‘Noite dos Cristais Quebrados’ descrevem as consequências do pogrom"
+title: Uma vez perdidos na história, os testemunhos da Kristallnacht, ‘Noite dos Cristais
+  Quebrados’ descrevem as consequências do pogrom
 date: 2021-11-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A Kristallnacht evoca imagens de vitrines destruídas e sinagogas incendiadas. Em contraste, uma coleção de depoimentos inéditos transmite o impacto pessoal do pogrom nazista sobre os judeus que fugiram da Alemanha em seu rastro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Peste Suína Africana: Uma Ameaça Global à Produção de Suínos e à Biodiversidade Rural"
+title: 'Peste Suína Africana: Uma Ameaça Global à Produção de Suínos e à Biodiversidade
+  Rural'
 date: 2024-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, a Lombardia, conhecida como o cinturão suíno da Itália, enfrentou um surto massivo de peste suína africana (PSA), resultando no abate de quase 34.000 porcos. Francesco Feliziani, chefe do laboratório nacional de referência para a PSA em Itália, ressaltou a rápida disseminação do vírus e a ameaça que representa para o setor suíno em todo o país.
 

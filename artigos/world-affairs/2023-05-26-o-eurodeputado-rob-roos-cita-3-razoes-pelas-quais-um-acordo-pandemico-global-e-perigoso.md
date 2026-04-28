@@ -1,11 +1,13 @@
 ---
-title: "O eurodeputado Rob Roos cita 3 razões pelas quais um acordo pandêmico global é perigoso"
+title: O eurodeputado Rob Roos cita 3 razões pelas quais um acordo pandêmico global
+  é perigoso
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A ideia é que no caso de uma futura pandemia, os países atuem da mesma forma, ainda mais que o Covid. Existem três razões pelas quais não devemos fazer isso, argumenta o deputado europeu Rob Roos (JA21).
 

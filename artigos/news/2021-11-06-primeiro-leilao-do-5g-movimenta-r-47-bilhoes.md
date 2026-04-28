@@ -1,11 +1,12 @@
 ---
-title: "Primeiro leilão do 5G movimenta R$ 47 bilhões"
+title: Primeiro leilão do 5G movimenta R$ 47 bilhões
 date: 2021-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Seis novas operadoras entrarão no mercado de telefonia móvel.
 

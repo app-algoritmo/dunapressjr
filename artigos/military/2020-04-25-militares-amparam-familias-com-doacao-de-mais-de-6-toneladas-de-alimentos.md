@@ -1,11 +1,12 @@
 ---
-title: "Militares amparam famílias com doação de mais de 6 toneladas de alimentos"
+title: Militares amparam famílias com doação de mais de 6 toneladas de alimentos
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas empregam, diariamente, esforços no combate à Covid-19. Marinha, Exército e Força Aérea Brasileira estão unidos nessa missão. Ao todo, 10 Comandos Conjuntos, espalhados pelo Brasil, estão atuando prontamente. Até o momento, o efetivo envolvido é de 29 mil militares, utilizando-se de 1022 viaturas, 102 embarcações e 27 aeronaves.
 

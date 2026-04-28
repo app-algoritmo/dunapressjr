@@ -1,11 +1,12 @@
 ---
-title: "Itajaí é a quarta cidade mais populosa de Santa Catarina"
+title: Itajaí é a quarta cidade mais populosa de Santa Catarina
 date: 2022-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí se tornou a quarta cidade mais populosa de Santa Catarina, conforme a prévia do Censo 2022. A cidade superou São José e Chapecó e chegou aos 291.169 habitantes, ficando atrás de Joinville (617.979), Florianópolis (574.200) e Blumenau (363.340). Os dados da população dos municípios foram divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) nesta quarta-feira (28), com base nas coletas feitas até 25 de dezembro.
 

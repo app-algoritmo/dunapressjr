@@ -1,11 +1,12 @@
 ---
-title: "Inflação na indústria desacelera para 1% em maio"
+title: Inflação na indústria desacelera para 1% em maio
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa foi influenciada pela queda do dólar.
 

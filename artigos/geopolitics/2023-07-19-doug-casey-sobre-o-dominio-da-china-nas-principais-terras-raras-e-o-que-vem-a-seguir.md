@@ -1,11 +1,13 @@
 ---
-title: "Doug Casey sobre o domínio da China nas principais terras raras e o que vem a seguir"
+title: Doug Casey sobre o domínio da China nas principais terras raras e o que vem
+  a seguir
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Pessoas internacionais: o que são elementos de terras raras (REEs) e por que são tão importantes?
 

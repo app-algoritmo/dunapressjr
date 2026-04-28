@@ -1,11 +1,12 @@
 ---
-title: "História, mistério e ocultismo convergem na lendária tumba do rei Davi"
+title: História, mistério e ocultismo convergem na lendária tumba do rei Davi
 date: 2021-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Na cidade de Davi, em Jerusalém, os visitantes encontram antigas cavernas romanas, uma casa judaica histórica do século 19 e o local de escavações sombrias que dizem produzir tesouros bíblicos.
 

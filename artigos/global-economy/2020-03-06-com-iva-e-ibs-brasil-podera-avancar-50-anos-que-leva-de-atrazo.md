@@ -1,11 +1,12 @@
 ---
-title: "Com I.V.A e I.B.S, Brasil poderá avançar 50 anos que leva de atrazo"
+title: Com I.V.A e I.B.S, Brasil poderá avançar 50 anos que leva de atrazo
 date: 2020-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Conhecido como o país com o pior sistema tributário do mundo, as propostas para a reforma tributária em trâmites no Congresso Nacional, são um dos principais pontos de desafio para o avance do Brasil.
 

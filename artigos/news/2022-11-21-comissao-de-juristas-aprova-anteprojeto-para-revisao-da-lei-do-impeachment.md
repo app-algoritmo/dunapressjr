@@ -1,11 +1,12 @@
 ---
-title: "Comissão de juristas aprova anteprojeto para revisão da Lei do Impeachment"
+title: Comissão de juristas aprova anteprojeto para revisão da Lei do Impeachment
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Presidente da comissão de juristas, o ministro do STF Ricardo Lewandowski conduziu a reunião.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministra Damares orienta dirigentes de lares e abrigos de crianças e adolescentes sobre o coronavírus"
+title: Ministra Damares orienta dirigentes de lares e abrigos de crianças e adolescentes
+  sobre o coronavírus
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O da Mulher, da Família e dos Direitos Humanos (MMFDH) divulgou, nesta segunda-feira (23), um vídeo direcionado aos dirigentes de lares e abrigos de crianças e adolescentes com orientações de proteção ao novo coronavírus (Covid-19).
 

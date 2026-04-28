@@ -1,11 +1,12 @@
 ---
-title: "Hábitos saudáveis ajudam na prevenção do câncer"
+title: Hábitos saudáveis ajudam na prevenção do câncer
 date: 2021-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Dia 02 de fevereiro marca o Dia Mundial do Câncer, uma doença que não é única e sim um conjunto de doenças que podem acometer diversas partes do corpo. “O câncer tem como causa uma variedade de fatores, que nós chamamos fatores de risco, cuja maioria se relaciona com o ambiente externo ou com aquilo que nós colocamos no nosso organismo”, explicou Inez Gadelha, Chefe de Gabinete da Secretaria de Atenção Especializada do Ministério da Saúde.
 

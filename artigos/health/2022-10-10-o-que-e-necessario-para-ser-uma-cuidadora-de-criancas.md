@@ -1,11 +1,12 @@
 ---
-title: "O que é necessário para ser uma cuidadora de crianças?"
+title: O que é necessário para ser uma cuidadora de crianças?
 date: 2022-10-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Ser cuidadora de crianças não é um trabalho muito fácil, porém, você pode ter muitas recompensas em forma de carinho. Trocar fraldas, dar banho, fazer atividades, brincar, dar de comer, colocar para dormir, fazer mamadeiras são alguns dos desafios que uma cuidadora pode encontrar no seu dia a dia. 
 

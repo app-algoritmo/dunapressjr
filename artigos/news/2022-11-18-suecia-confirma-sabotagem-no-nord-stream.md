@@ -1,11 +1,12 @@
 ---
-title: "Suécia confirma sabotagem no Nord Stream"
+title: Suécia confirma sabotagem no Nord Stream
 date: 2022-11-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A promotoria sueca informou que exames de objetos estranhos encontrados mostraram vestígios de explosivos em vários deles.
 

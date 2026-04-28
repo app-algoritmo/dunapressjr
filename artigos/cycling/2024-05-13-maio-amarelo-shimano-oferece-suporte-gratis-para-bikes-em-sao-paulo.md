@@ -1,12 +1,13 @@
 ---
-title: "Maio Amarelo: Shimano oferece suporte grátis para bikes em São Paulo"
+title: 'Maio Amarelo: Shimano oferece suporte grátis para bikes em São Paulo'
 date: 2024-05-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Empresa líder mundial no mercado de componentes bicicletas montou ponto de apoio na Praça do Ciclista no final de semana passado para oferecer manutenção e dicas sobre segurança. Nos próximos dois finais de semana, a ação será repetida.
 

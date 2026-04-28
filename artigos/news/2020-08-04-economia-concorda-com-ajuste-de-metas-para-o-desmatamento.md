@@ -1,11 +1,12 @@
 ---
-title: "Economia concorda com ajuste de metas para o desmatamento"
+title: Economia concorda com ajuste de metas para o desmatamento
 date: 2020-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Metas de prevenção deverão ser compatíveis com as do Acordo de Paris.
 

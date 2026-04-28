@@ -1,11 +1,12 @@
 ---
-title: "Nova CBS vai ampliar produtividade e estimular crescimento econômico"
+title: Nova CBS vai ampliar produtividade e estimular crescimento econômico
 date: 2020-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A nova CBS é uma nova forma de tributar o consumo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estrangeiros vítimas de Meron são enterradas sem a presença da família"
+title: Estrangeiros vítimas de Meron são enterradas sem a presença da família
 date: 2021-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Uma dessas vítimas foi a cantora canadense Shragee Gestetner, de Montreal.
 

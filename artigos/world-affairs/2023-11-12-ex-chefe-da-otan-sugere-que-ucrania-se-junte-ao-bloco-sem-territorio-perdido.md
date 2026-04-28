@@ -1,11 +1,12 @@
 ---
-title: "Ex-chefe da OTAN sugere que Ucrânia se junte ao bloco sem território perdido"
+title: Ex-chefe da OTAN sugere que Ucrânia se junte ao bloco sem território perdido
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Precisamos de uma nova arquitetura de segurança europeia em que a Ucrânia esteja no coração da NATO”, disse ele.
 

@@ -1,11 +1,13 @@
 ---
-title: "Aos 48 anos ela concluiu matemática do fundamental e médio para aplicar Educação escolar em casa"
+title: Aos 48 anos ela concluiu matemática do fundamental e médio para aplicar Educação
+  escolar em casa
 date: 2021-04-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Tricia Fowler é uma mãe cristã que ensina em casa no meio-oeste norte americano. Atualmente, ela passa a maior parte do tempo ensinando matemática, alimentando com massa fermentada e ajudando com o que está na estação na fazenda que ela divide com o marido e sete filhos.
 

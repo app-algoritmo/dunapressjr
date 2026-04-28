@@ -1,11 +1,12 @@
 ---
-title: "Saiba como vai funcionar o vale-gás"
+title: Saiba como vai funcionar o vale-gás
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Benefício começa a ser pago em dezembro.
 

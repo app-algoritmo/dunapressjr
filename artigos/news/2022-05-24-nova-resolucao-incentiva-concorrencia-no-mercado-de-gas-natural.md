@@ -1,11 +1,12 @@
 ---
-title: "Nova resolução incentiva concorrência no Mercado de Gás Natural"
+title: Nova resolução incentiva concorrência no Mercado de Gás Natural
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultantes de discussões com o Ministério da Economia, o Conselho Nacional de Política Energética (CNPE) aprovou medidas para a promoção da concorrência.
 

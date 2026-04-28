@@ -1,11 +1,12 @@
 ---
-title: "Jararaca-ilhoa: entenda como o isolamento criou uma nova espécie 100% brasileira"
+title: 'Jararaca-ilhoa: entenda como o isolamento criou uma nova espécie 100% brasileira'
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A jararaca-ilhoa (Bothrops insularis) é uma moradora muito especial da Ilha da Queimada Grande, conhecida como “Ilha das Cobras", no litoral sul de São Paulo. Por ser encontrada exclusivamente na ilha, possui características diferentes das suas irmãs  [**jararacas**](https://butantan.gov.br/bubutantan/uma-jararaca-nada-comum-conheca-a-maior-causadora-de-acidentes-com-cobras-do-brasil) continentais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Egito espera que novas descobertas dos tempos antigos tentem turistas pós-pandemia"
+title: Egito espera que novas descobertas dos tempos antigos tentem turistas pós-pandemia
 date: 2021-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Funcionários olhando para a história antiga do Egito, especialmente descobertas recentes, para reviver uma indústria que havia sido devastada antes mesmo do coronavírus.
 

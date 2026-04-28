@@ -1,11 +1,13 @@
 ---
-title: "Robert Scheidt passa ensinamento e divide experiência com a nova geração da vela"
+title: Robert Scheidt passa ensinamento e divide experiência com a nova geração da
+  vela
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Robert Scheidt aproveita sua passagem pelo Brasil, em férias, para dar sua contribuição para o desenvolvimento da vela nacional. O bicampeão e maior medalhista olímpico da história brasileira esteve no Iate Clube do Rio de Janeiro neste sábado (14), onde ministrou palestra, conversou e respondeu a dúvidas dos 90 participantes do Campeonato Brasileiro de Laser Radial, que ocorreu na orla carioca até domingo passado (15).
 

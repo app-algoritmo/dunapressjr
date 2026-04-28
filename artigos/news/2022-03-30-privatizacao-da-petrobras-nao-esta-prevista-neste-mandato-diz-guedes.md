@@ -1,11 +1,12 @@
 ---
-title: "Privatização da Petrobras não está prevista neste mandato, diz Guedes"
+title: Privatização da Petrobras não está prevista neste mandato, diz Guedes
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em viagem à França, ministro diz que inflação é problema global.
 

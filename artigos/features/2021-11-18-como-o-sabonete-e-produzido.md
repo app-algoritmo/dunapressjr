@@ -1,11 +1,12 @@
 ---
-title: "Como o sabonete é produzido?"
+title: Como o sabonete é produzido?
 date: 2021-11-18
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Manter a nossa higiene pessoal em dia é algo imprescindível, porque afeta tanto a nossa aparência física quanto a nossa saúde propriamente dita. E a principal forma de fazer isso é lavando o rosto, as mãos e todo o restante do corpo com produtos como shampoo, esfoliante e sabonete.
 

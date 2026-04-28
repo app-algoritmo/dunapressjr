@@ -1,11 +1,12 @@
 ---
-title: "Relação entre protozoários pode criar parasitas mais resistentes"
+title: Relação entre protozoários pode criar parasitas mais resistentes
 date: 2021-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um dos trabalhos selecionados no [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) mostra que a recombinação entre protozoários – seres vivos compostos por uma única célula com um núcleo – pode gerar parasitas com maior resistência a remédios. Paulo Gonzalez Hofstatter, doutor em Zoologia pela Universidade de São Paulo (USP) é o autor da tese premiada na área de Biodiversidade e um dos 49 vencedores do concurso promovido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 

@@ -1,11 +1,13 @@
 ---
-title: "Assessor ucraniano nega relação direta com ataques em Moscou, mas prevê aumento no número de drones"
+title: Assessor ucraniano nega relação direta com ataques em Moscou, mas prevê aumento
+  no número de drones
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Declarações de Mykhailo Podolyak destacam tensão entre Ucrânia e Rússia e preocupações com segurança na região.
 

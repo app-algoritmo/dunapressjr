@@ -1,11 +1,12 @@
 ---
-title: "Ipea: Investimentos avançam 17,2% em 2021"
+title: 'Ipea: Investimentos avançam 17,2% em 2021'
 date: 2022-03-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A evolução representa aumento da capacidade produtiva da economia.
 

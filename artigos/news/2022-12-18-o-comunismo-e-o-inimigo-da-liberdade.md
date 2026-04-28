@@ -1,12 +1,13 @@
 ---
-title: "O comunismo é o inimigo da liberdade"
+title: O comunismo é o inimigo da liberdade
 date: 2022-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Cinco coisas que Marx queria abolir (além da propriedade privada). Ele foi extraordinariamente franco quanto a seus propósitos. Uma das características mais extraordinárias de [O Manifesto Comunista](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) é sua honestidade.
 

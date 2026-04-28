@@ -1,11 +1,12 @@
 ---
-title: "Professores brasileiros vão ensinar português no exterior"
+title: Professores brasileiros vão ensinar português no exterior
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quinze professores brasileiros foram selecionados para promover a língua, cultura e literatura do Brasil no exterior, pelo Programa Leitorado, conforme resultado divulgado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) no Diário Oficial da União desta segunda-feira, 31. A parceria com o Ministério das Relações Exteriores (MRE) vai aumentar o acesso desses profissionais a centros internacionais de excelência e oferecer oportunidade de colegas no Brasil e no exterior colaborarem entre si.
 

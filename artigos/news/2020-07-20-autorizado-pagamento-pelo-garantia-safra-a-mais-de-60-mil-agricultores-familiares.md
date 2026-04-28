@@ -1,11 +1,12 @@
 ---
-title: "Autorizado pagamento pelo Garantia-Safra a mais de 60 mil agricultores familiares"
+title: Autorizado pagamento pelo Garantia-Safra a mais de 60 mil agricultores familiares
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O benefício será pago em parcela única de R$ 850 para agricultores de 78 municípios em sete estados.
 

@@ -1,11 +1,12 @@
 ---
-title: "'Estamos perto de ver o topo da inflação', diz presidente do BC"
+title: '''Estamos perto de ver o topo da inflação'', diz presidente do BC'
 date: 2021-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Campos Neto afirma que pode haver melhora no ano que vem.
 

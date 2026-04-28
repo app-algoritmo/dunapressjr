@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio volta ao patamar de otimismo após 6 meses"
+title: Confiança do comércio volta ao patamar de otimismo após 6 meses
 date: 2020-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No comparativo anual, a queda foi de 15,1%.
 

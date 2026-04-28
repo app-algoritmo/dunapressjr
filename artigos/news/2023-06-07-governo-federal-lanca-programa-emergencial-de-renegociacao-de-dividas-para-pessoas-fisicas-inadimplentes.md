@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal lança programa emergencial de renegociação de dívidas para pessoas físicas inadimplentes"
+title: Governo Federal lança programa emergencial de renegociação de dívidas para
+  pessoas físicas inadimplentes
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa deve reduzir inadimplência no país.
 

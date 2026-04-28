@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 0,89% em dia de alívio global"
+title: Bolsa sobe 0,89% em dia de alívio global
 date: 2021-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Dólar oscilou, mas fechou a R$ 5,43, com leve alta.
 

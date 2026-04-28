@@ -1,11 +1,12 @@
 ---
-title: "Nanossensores medem a poluição do ar com mais eficiência￼￼"
+title: Nanossensores medem a poluição do ar com mais eficiência￼￼
 date: 2022-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

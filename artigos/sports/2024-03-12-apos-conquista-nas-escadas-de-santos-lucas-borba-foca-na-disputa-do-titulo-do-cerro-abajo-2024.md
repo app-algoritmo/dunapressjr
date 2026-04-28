@@ -1,11 +1,13 @@
 ---
-title: "Após conquista nas Escadas de Santos, Lucas Borba foca na disputa do título do Cerro Abajo 2024"
+title: Após conquista nas Escadas de Santos, Lucas Borba foca na disputa do título
+  do Cerro Abajo 2024
 date: 2024-03-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Piloto catarinense, patrocinado pela Shimano, venceu pela primeira vez a tradicional competição nacional e segue com moral alta para o México, onde, dia 23, corre a segunda etapa do principal circuito de downhill do mundo.
 

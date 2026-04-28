@@ -1,11 +1,12 @@
 ---
-title: "Gov Brasil inicia a distribuição de 500 mil testes rápidos"
+title: Gov Brasil inicia a distribuição de 500 mil testes rápidos
 date: 2020-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Já estão em solo brasileiro as primeiras 500 mil unidades de testes rápidos para diagnosticar o coronavírus (Covid-19). É o primeiro lote de um total de 5 milhões adquiridos pela Vale e doados ao Ministério da Saúde. Os testes serão usados em profissionais que atuam na área de saúde que atuam nos postos de saúde e hospitais de todo o país, além de agentes de segurança, como policiais, bombeiros e guardas civis que estejam com sintomas da Covid-19. A ideia é que estes profissionais que estão na linha de frente do atendimento à população, garantindo cuidados médicos e de segurança, recebam o diagnóstico e tenham a oportunidade de retornar, de forma segura, as suas atividades, que são consideradas essenciais. 
 

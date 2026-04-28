@@ -1,11 +1,12 @@
 ---
-title: "PNAE Monitora tem aplicativo e está disponível nas versões Android e iOS"
+title: PNAE Monitora tem aplicativo e está disponível nas versões Android e iOS
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ferramenta automatiza o processo de monitoramento do Programa Nacional de Alimentação Escolar.
 

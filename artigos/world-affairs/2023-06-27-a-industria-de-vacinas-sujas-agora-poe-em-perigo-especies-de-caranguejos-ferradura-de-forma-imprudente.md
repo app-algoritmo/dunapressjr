@@ -1,11 +1,13 @@
 ---
-title: "A indústria de vacinas sujas agora põe em perigo espécies de caranguejos-ferradura de forma imprudente"
+title: A indústria de vacinas sujas agora põe em perigo espécies de caranguejos-ferradura
+  de forma imprudente
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Como se as vacinas sujas não causassem danos suficientes à raça humana, agora a fabricação delas está esgotando a população de caranguejos-ferradura para usar seu sangue azul brilhante para capturar bactérias em coágulos sanguíneos.
 

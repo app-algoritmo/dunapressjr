@@ -1,11 +1,12 @@
 ---
-title: "Até Onde a Mídia Irá para Proteger Joe Biden?"
+title: Até Onde a Mídia Irá para Proteger Joe Biden?
 date: 2024-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 **Um experimento mental explora os limites da lealdade da mídia ao presidente dos EUA**.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aumento da Selic afeta poupança, financiamento imobiliário e FGTS"
+title: Aumento da Selic afeta poupança, financiamento imobiliário e FGTS
 date: 2021-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta dos juros básicos altera cálculo da TR, taxa usada como indexador.
 

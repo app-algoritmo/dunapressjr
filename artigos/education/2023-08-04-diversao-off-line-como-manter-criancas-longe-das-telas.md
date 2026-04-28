@@ -1,12 +1,13 @@
 ---
-title: "Diversão off-line: como manter crianças longe das telas"
+title: 'Diversão off-line: como manter crianças longe das telas'
 date: 2023-08-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Health
+- Education
+- Health
 ---
+
 
 ## Poder de equipamentos eletrônicos sobre cérebro infantil pode ser combatido com criatividade e proposta de atividades que exijam movimento.
 

@@ -1,11 +1,13 @@
 ---
-title: "Centro apresenta suas atividades ao Chefe do Ensino, Pesquisa, Desenvolvimento e Inovação"
+title: Centro apresenta suas atividades ao Chefe do Ensino, Pesquisa, Desenvolvimento
+  e Inovação
 date: 2020-04-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – No dia 15 de abril, o Centro de Avaliações do Exército (CAEx), "Campo de Provas da Marambaia", recebeu a visita do Chefe de Ensino, Pesquisa, Desenvolvimento e Inovação (EPDI) do Departamento de Ciência e Tecnologia, General de Divisão **Luís Henrique de Andrade**. A visita teve como finalidade apresentar as principais atividades em andamento na organização militar (OM), com foco na atividade-fim do CAEx, a saber, o Teste e a Avaliação (T&A), tanto de Produtos Controlados pelo Exército (PCE) quanto de Sistemas e Materiais de Emprego Militar (SMEM).
 

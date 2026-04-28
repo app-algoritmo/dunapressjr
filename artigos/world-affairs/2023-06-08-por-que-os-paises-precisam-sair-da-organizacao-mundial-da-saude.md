@@ -1,11 +1,12 @@
 ---
-title: "Por que os países precisam sair da Organização Mundial da Saúde?"
+title: Por que os países precisam sair da Organização Mundial da Saúde?
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os países que valorizam a liberdade individual e respeitam a autonomia corporal têm apenas uma escolha: retirar-se da Organização Mundial da Saúde.
 

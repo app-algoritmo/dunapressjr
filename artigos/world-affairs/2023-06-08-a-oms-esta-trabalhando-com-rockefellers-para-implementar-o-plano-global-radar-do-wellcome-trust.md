@@ -1,11 +1,13 @@
 ---
-title: "A OMS está trabalhando com Rockefellers para implementar o plano Global Radar do Wellcome Trust"
+title: A OMS está trabalhando com Rockefellers para implementar o plano Global Radar
+  do Wellcome Trust
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com o objetivo de chegar a todos os cantos do globo para detectar doenças infecciosas à medida que surgem, a Organização Mundial da Saúde (OMS) está unindo forças com países-chave em todos os continentes e órgãos privados, como a Fundação Rockefeller, para criar uma nova organização global para monitorar , para formar identificação e rastreamento de doenças.
 

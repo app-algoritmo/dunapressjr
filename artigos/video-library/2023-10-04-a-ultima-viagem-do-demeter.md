@@ -1,11 +1,12 @@
 ---
-title: "A Última Viagem do Deméter"
+title: A Última Viagem do Deméter
 date: 2023-10-04
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

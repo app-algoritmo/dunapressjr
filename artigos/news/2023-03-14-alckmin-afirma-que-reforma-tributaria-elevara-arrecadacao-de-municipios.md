@@ -1,11 +1,12 @@
 ---
-title: "Alckmin afirma que reforma tributária elevará arrecadação de municípios"
+title: Alckmin afirma que reforma tributária elevará arrecadação de municípios
 date: 2023-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vice-presidente participou de encontro nacional de prefeitos.
 

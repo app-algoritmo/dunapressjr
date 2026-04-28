@@ -1,11 +1,12 @@
 ---
-title: "Putin abandona tratado de armas nucleares"
+title: Putin abandona tratado de armas nucleares
 date: 2023-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, está pronto para cumprir suas ameaças ao mundo com o uso de armas nucleares para vencer a guerra contra a Ucrânia. Agora ele anunciou que deixará o acordo internacional sobre a supervisão de armas ofensivas estratégicas.
 

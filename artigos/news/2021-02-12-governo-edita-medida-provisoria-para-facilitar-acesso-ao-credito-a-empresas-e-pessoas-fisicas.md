@@ -1,11 +1,13 @@
 ---
-title: "Governo edita medida provisória para facilitar acesso ao crédito a empresas e pessoas físicas"
+title: Governo edita medida provisória para facilitar acesso ao crédito a empresas
+  e pessoas físicas
 date: 2021-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O ato suspende até o dia 30 de junho uma série de exigências para contratação de empréstimos com instituições financeiras e privadas.
 

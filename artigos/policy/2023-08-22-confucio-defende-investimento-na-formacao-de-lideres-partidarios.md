@@ -1,11 +1,12 @@
 ---
-title: "Confúcio defende investimento na formação de líderes partidários"
+title: Confúcio defende investimento na formação de líderes partidários
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO) defendeu, em pronunciamento no Plenário nesta segunda-feira (21), a importância dos partidos políticos para a democracia do país. Ao fazer uma comparação com outros países, o senador mencionou a prática de destinar parte dos recursos do fundo partidário para a formação e preparação de líderes dentro dos partidos. Segundo ele, é essencial para o fortalecimento da democracia e para a preparação de futuras lideranças. Para o parlamentar, "cada partido tem que ter um estatuto, que todos os seus filiados devem conhecer." 
 

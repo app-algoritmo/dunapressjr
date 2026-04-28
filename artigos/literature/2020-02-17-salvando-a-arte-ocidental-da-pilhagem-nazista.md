@@ -1,11 +1,12 @@
 ---
-title: "Salvando a arte ocidental da pilhagem nazista"
+title: Salvando a arte ocidental da pilhagem nazista
 date: 2020-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 O livro de Robert M. Edsel, conta a história de um grupo de sete especialistas em arte e nenhum conhecimento de batalha, que se unem a dois oficiais do exército aliado em uma corrida contra o tempo para evitar a destruição, proteger e defender mais de 1000 anos de História da Humanidade.
 

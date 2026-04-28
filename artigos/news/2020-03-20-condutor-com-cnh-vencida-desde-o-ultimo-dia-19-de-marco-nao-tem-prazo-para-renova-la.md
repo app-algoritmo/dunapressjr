@@ -1,11 +1,13 @@
 ---
-title: "Condutor com CNH vencida desde o último dia 19 de março não tem prazo para renová-la"
+title: Condutor com CNH vencida desde o último dia 19 de março não tem prazo para
+  renová-la
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para não prejudicar os cidadãos frente à pandemia do coronavírus, o Conselho Nacional de Trânsito (Contran) publicou, no Diário Oficial da União (DOU) desta sexta-feira (20), a [Deliberação 185](http://www.in.gov.br/en/web/dou/-/deliberacao-n-185-de-19-de-marco-de-2020-249022932) ampliando e interrompendo os prazos de processos e de procedimentos dos órgãos do Sistema Nacional de Trânsito. 
 

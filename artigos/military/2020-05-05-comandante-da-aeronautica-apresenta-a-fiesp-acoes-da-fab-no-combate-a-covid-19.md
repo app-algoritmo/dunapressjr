@@ -1,11 +1,12 @@
 ---
-title: "Comandante da Aeronáutica apresenta à FIESP ações da FAB no combate à COVID-19"
+title: Comandante da Aeronáutica apresenta à FIESP ações da FAB no combate à COVID-19
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Comandante da Aeronáutica, Tenente-Brigadeiro do Ar Antonio Carlos Moretti Bermudez, participou, na tarde desta segunda-feira (04/05), de uma videoconferência organizada pelo Departamento de Defesa e Segurança (DESEG) da Federação das Indústrias do Estado de São Paulo (FIESP) e pelo Sindicato Nacional das Indústrias de Materiais de Defesa (SIMDE). O objetivo foi apresentar as principais ações da Força Aérea Brasileira (FAB) no enfrentamento ao novo Coronavírus, na Operação COVID-19.
 

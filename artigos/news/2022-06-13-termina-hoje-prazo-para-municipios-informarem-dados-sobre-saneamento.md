@@ -1,11 +1,12 @@
 ---
-title: "Termina hoje prazo para municípios informarem dados sobre saneamento"
+title: Termina hoje prazo para municípios informarem dados sobre saneamento
 date: 2022-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados compõem sistema do Ministério do Desenvolvimento Regional.
 

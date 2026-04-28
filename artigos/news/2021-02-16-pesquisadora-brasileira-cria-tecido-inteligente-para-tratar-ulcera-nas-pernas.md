@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora brasileira, cria tecido inteligente para tratar úlcera nas pernas"
+title: Pesquisadora brasileira, cria tecido inteligente para tratar úlcera nas pernas
 date: 2021-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A doutora em Ciências da Saúde e farmacêutica Paula dos Passos Menezes, conquistou o Prêmio CAPES de Tese 2020, na área de Medicina I, com uma novidade para o tratamento uma doença que afeta as pernas: as úlceras venosas. Com o uso da nanotecnologia a pesquisadora desenvolveu um tecido inteligente, à base de algodão e poliamida. A patente do novo material já foi registrada no Instituto Nacional de Propriedade Industrial (INPI).
 

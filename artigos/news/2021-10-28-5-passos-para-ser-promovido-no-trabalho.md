@@ -1,11 +1,12 @@
 ---
-title: "5 passos para ser promovido no trabalho"
+title: 5 passos para ser promovido no trabalho
 date: 2021-10-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Nós passamos boa parte da nossa vida nos preparando academicamente para conquistar um bom emprego e conseguir ser **promovido no trabalho**, construindo uma carreira profissional estável e bem sucedida.  
 

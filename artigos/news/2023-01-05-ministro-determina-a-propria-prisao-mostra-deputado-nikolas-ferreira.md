@@ -1,12 +1,13 @@
 ---
-title: "Ministro determina a própria prisão, mostra deputado Nikolas Ferreira"
+title: Ministro determina a própria prisão, mostra deputado Nikolas Ferreira
 date: 2023-01-05
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 .
 

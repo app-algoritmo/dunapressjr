@@ -1,11 +1,12 @@
 ---
-title: "Vendas do comércio têm crescimento de 1,6% em maio"
+title: Vendas do comércio têm crescimento de 1,6% em maio
 date: 2021-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O setor de materiais de construção voltou a ser destaque.
 

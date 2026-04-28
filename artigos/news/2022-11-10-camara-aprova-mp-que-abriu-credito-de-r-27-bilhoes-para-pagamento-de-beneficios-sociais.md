@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova MP que abriu crédito de R$ 27 bilhões para pagamento de benefícios sociais"
+title: Câmara aprova MP que abriu crédito de R$ 27 bilhões para pagamento de benefícios
+  sociais
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta terça-feira (8) a Medida Provisória 1130/22, que abriu crédito extraordinário de R$ 27,09 bilhões no Orçamento deste ano para o pagamento dos benefícios sociais previstos na [Emenda Constitucional 123](https://www2.camara.leg.br/legin/fed/emecon/2022/emendaconstitucional-123-14-julho-2022-792985-norma-pl.html). A MP foi aprovada sem mudanças e será enviada ao Senado.
 

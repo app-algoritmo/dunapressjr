@@ -1,11 +1,13 @@
 ---
-title: "O Governo francês pede aos gendarmes “vigilância extrema” nas igrejas devido ao elevado risco de ataques islâmicos"
+title: O Governo francês pede aos gendarmes “vigilância extrema” nas igrejas devido
+  ao elevado risco de ataques islâmicos
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministro do Interior da França, **Gérald Darmanin** , apelou a todas as autoridades do país para “manterem extrema vigilância” durante a próxima época de Natal devido ao “elevado nível de ameaça terrorista”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Glenn Greenwald Revela Detalhes Chocantes sobre Ação Judicial no Brasil"
+title: Glenn Greenwald Revela Detalhes Chocantes sobre Ação Judicial no Brasil
 date: 2024-04-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em uma reportagem exclusiva, o renomado jornalista Glenn Greenwald expõe detalhes perturbadores de uma ação judicial liderada pelo Ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Nesta ação, contas em várias plataformas digitais, incluindo Twitter, Facebook, Instagram e Rumble, são banidas sem justificativa prévia, levantando preocupações significativas sobre os direitos fundamentais de liberdade de expressão no Brasil.
 

@@ -1,11 +1,13 @@
 ---
-title: "Zequinha lamenta posição do Brasil em ranking de competitividade econômica global"
+title: Zequinha lamenta posição do Brasil em ranking de competitividade econômica
+  global
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA) lamentou o fato do Brasil ter ficado em 60º entre 64 países no ranking de competitividade econômica global do Instituto Internacional para Desenvolvimento de Gestão (IMD). Em pronunciamento na quarta-feira (4), o parlamentar afirmou que o resultado é reflexo de uma série de questões que atrapalham o investimento no país, como o “efeito nocivo da seita fundamentalista que tem ganhado força no Brasil e que espalha ignorância e preconceitos contra o setor produtivo”. 
 

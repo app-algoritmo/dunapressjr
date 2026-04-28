@@ -1,11 +1,13 @@
 ---
-title: "Um “despertar” está ocorrendo: ações coletivas “históricas” contra o governo australiano"
+title: 'Um “despertar” está ocorrendo: ações coletivas “históricas” contra o governo
+  australiano'
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Na Austrália, as vítimas de danos causados ​​por vacinas entraram com uma ação coletiva "histórica" ​​contra o governo. O governo é acusado de negligência e/ou abuso de poder.
 

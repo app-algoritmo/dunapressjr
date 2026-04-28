@@ -1,12 +1,13 @@
 ---
-title: "A esperança verde oliva, o último suspiro"
+title: A esperança verde oliva, o último suspiro
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 ## Nada está normal.
 

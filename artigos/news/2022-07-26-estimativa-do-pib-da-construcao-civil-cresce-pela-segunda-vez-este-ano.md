@@ -1,11 +1,12 @@
 ---
-title: "Estimativa do PIB da construção civil cresce pela segunda vez este ano"
+title: Estimativa do PIB da construção civil cresce pela segunda vez este ano
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ciclo de negócios em andamento tem garantido o ritmo de atividade.
 

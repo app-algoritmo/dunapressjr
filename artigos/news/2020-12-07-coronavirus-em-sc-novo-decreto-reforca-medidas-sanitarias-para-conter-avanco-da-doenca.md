@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus em SC: Novo decreto reforça medidas sanitárias para conter avanço da doença"
+title: 'Coronavírus em SC: Novo decreto reforça medidas sanitárias para conter avanço
+  da doença'
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atendendo definições previamente estabelecidas em conjunto com prefeitos, demais Poderes e autoridades de Saúde, o Governo de Santa Catarina publica na edição desta sexta-feira, 4, do Diário Oficial do Estado (DOE), [o decreto com novas medidas sanitárias](https://www.sc.gov.br/images/Secom_Noticias/Documentos/Decreto_970_de_4_de_dezembro_de_2020pdf.pdf) para conter o avanço da Covid-19. O documento estabelece entre as principais medidas, limite diário de horário de funcionamento até meia-noite de atividades e serviços não essenciais; restrição de circulação de pessoas da meia-noite às 5h e ocupação máxima de 70% da capacidade no transporte coletivo urbano. O decreto é válido para todo o território catarinense, com vigência a partir das 23h deste sábado, 5, pelo prazo de 15 dias.
 

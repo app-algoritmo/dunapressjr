@@ -1,11 +1,13 @@
 ---
-title: "Paraguai: Inflação fecha o ano em 3,7%, bem abaixo dos níveis registrados em 2022"
+title: 'Paraguai: Inflação fecha o ano em 3,7%, bem abaixo dos níveis registrados
+  em 2022'
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A inflação total em 2023 foi de 3,7%, inferior aos 8,1% observados em 2022, segundo relatório publicado esta quinta-feira pelo Banco Central do Paraguai. Por seu lado, a inflação subjacente foi de 3,6%, também inferior aos 6,2% registados no ano anterior.
 

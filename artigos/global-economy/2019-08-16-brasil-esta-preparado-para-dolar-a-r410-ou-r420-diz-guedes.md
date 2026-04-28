@@ -1,11 +1,12 @@
 ---
-title: "Brasil está preparado para dólar a R$4,10 ou R$4,20, diz Guedes"
+title: Brasil está preparado para dólar a R$4,10 ou R$4,20, diz Guedes
 date: 2019-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Se o mundo desacelera, caem preços das commodities, o dólar pode subir um pouco mesmo, de repente você vai reindustrializar nos setores de autopeças, carros, têxtil, sapatos, móveis, não devemos temer o efeito contágio.”
 

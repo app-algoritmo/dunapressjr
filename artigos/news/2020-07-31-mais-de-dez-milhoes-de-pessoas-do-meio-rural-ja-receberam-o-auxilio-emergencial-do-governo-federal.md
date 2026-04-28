@@ -1,11 +1,13 @@
 ---
-title: "Mais de dez milhões de pessoas do meio rural já receberam o Auxílio Emergencial do Governo Federal"
+title: Mais de dez milhões de pessoas do meio rural já receberam o Auxílio Emergencial
+  do Governo Federal
 date: 2020-07-31
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Número representa cerca de 15,6% dos mais de 65 milhões de brasileiros diretamente beneficiados pelo programa.
 

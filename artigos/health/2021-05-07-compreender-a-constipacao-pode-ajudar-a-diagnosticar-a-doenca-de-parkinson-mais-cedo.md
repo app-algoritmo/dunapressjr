@@ -1,11 +1,13 @@
 ---
-title: "Compreender a constipação pode ajudar a diagnosticar a doença de Parkinson mais cedo?"
+title: Compreender a constipação pode ajudar a diagnosticar a doença de Parkinson
+  mais cedo?
 date: 2021-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pesquisadores da Universidade Hebraica revelam uma cadeia de eventos fisiológicos que podem ajudar a fornecer novos métodos para o diagnóstico de doenças.
 

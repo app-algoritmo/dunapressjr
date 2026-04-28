@@ -1,11 +1,12 @@
 ---
-title: "Análise da Geopolítica Atual Comparada ao Universo de Star Trek"
+title: Análise da Geopolítica Atual Comparada ao Universo de Star Trek
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 As semelhanças entre a OTAN e a Frota Estelar de Star Trek são evidentes quando olhamos para suas estruturas organizacionais, alianças e inimigos. Esta analogia nos ajuda a compreender como as ficções científicas podem refletir e até prever aspectos da nossa realidade política, oferecendo uma perspectiva única sobre a dinâmica internacional e o papel da cooperação e do conflito na evolução da sociedade humana.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve alta, vendido a R$ 4,94"
+title: Dólar fecha em leve alta, vendido a R$ 4,94
 date: 2021-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores oscila e fecha estável.
 

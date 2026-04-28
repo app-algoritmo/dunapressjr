@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona MP da renda básica emergencial"
+title: Bolsonaro sanciona MP da renda básica emergencial
 date: 2020-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nova lei prevê pagamento de R$ 600 a trabalhadores informais
 

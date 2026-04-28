@@ -1,11 +1,13 @@
 ---
-title: "Qual é o objetivo da padronização de processos? Vantagens e 4 dicas para usar na sua empresa"
+title: Qual é o objetivo da padronização de processos? Vantagens e 4 dicas para usar
+  na sua empresa
 date: 2022-06-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Geralmente, os processos de uma empresa são compostos por diferentes etapas, envolvem diferentes agentes e podem variar em níveis de complexidade.
 

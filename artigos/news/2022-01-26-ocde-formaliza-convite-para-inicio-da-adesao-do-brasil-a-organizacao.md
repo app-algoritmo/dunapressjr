@@ -1,11 +1,12 @@
 ---
-title: "OCDE formaliza convite para início da adesão do Brasil à organização"
+title: OCDE formaliza convite para início da adesão do Brasil à organização
 date: 2022-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entidade também vai avaliar a entrada de outros cinco países.
 

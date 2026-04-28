@@ -1,11 +1,12 @@
 ---
-title: "As previsões vazias do culto ao aquecimento global"
+title: As previsões vazias do culto ao aquecimento global
 date: 2023-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Os "crentes" no aquecimento global causado pelo homem estão mostrando seu amor e devoção à "Mãe Terra" e estão determinados a salvá-la a todo custo. Suas profecias de destruição falharam repetidamente. Eles há muito abandonaram a ciência séria e abraçaram a pseudociência, adaptando os dados às suas conclusões preconcebidas. É hora de eles pararem de receber passe livre para mudar a socieda*de.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê inflação em 9% neste ano"
+title: Mercado financeiro prevê inflação em 9% neste ano
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A previsão está no Boletim Focus do Banco Central, divulgado nesta segunda-feira (6).
 

@@ -1,11 +1,12 @@
 ---
-title: "Abate de bovinos, frangos e suínos apresentam alta no 3º trimestre de 2023"
+title: Abate de bovinos, frangos e suínos apresentam alta no 3º trimestre de 2023
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aquisição de leite, couro cru e produção de ovos também registram números positivos.
 

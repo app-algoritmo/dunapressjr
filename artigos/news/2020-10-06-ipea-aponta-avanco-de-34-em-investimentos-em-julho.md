@@ -1,11 +1,12 @@
 ---
-title: "Ipea aponta avanço de 3,4% em investimentos em julho"
+title: Ipea aponta avanço de 3,4% em investimentos em julho
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado de 12 meses houve recuo de 2,4%.
 

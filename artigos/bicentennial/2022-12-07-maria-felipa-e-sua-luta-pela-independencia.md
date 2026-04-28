@@ -1,11 +1,12 @@
 ---
-title: "Maria Felipa e sua luta pela independência"
+title: Maria Felipa e sua luta pela independência
 date: 2022-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 1823, às margens plácidas da Baía de Todos os Santos, uma mulher negra ergue seu braço e brada “Independência ou morte!”, decretando, de uma vez por todas, que o Brasil é um país livre, e não mais uma colônia de Portugal. Embora a história oficial contada nos livros não seja exatamente essa, a luta de mulheres e homens escravizados na Bahia e em outros cantos do país foi fundamental para que o “brado retumbante” de Dom Pedro I, às margens do Ipiranga, em São Paulo, tivessem efeito prático na vida dos brasileiros.
 

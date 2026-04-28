@@ -1,11 +1,12 @@
 ---
-title: "Governo regulamenta e abre prazo para renegociação de dívidas do Fies"
+title: Governo regulamenta e abre prazo para renegociação de dívidas do Fies
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quem está com dívidas no Fundo de Financiamento Estudantil (Fies) poderá renegociar os débitos com descontos de até 100% nos encargos moratórios. A resolução sobre o Programa Especial de Regularização foi publicada na edição desta quinta-feira (22) do Diário Oficial da União.
 

@@ -1,11 +1,12 @@
 ---
-title: "Reajustes de 2022: veja o que fica mais caro no próximo ano"
+title: 'Reajustes de 2022: veja o que fica mais caro no próximo ano'
 date: 2022-01-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Alimentos, combustíveis, energia elétrica e imóveis são algumas das várias “vítimas” da altíssima inflação que o Brasil vem enfrentando durante todo o ano de 2021. E a previsão para o próximo ano não é animadora, visto que, também por conta da pandemia, a economia ainda está instável. 
 

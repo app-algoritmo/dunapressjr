@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro divulga Atendimento às Vítimas de Trabalho Escravo"
+title: Governo Bolsonaro divulga Atendimento às Vítimas de Trabalho Escravo
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) deu início à divulgação do Fluxo Nacional para Atendimento às Vítimas de Trabalho Escravo a estados e municípios. Até o momento, o documento foi apresentado aos estados de Santa Catarina, Bahia, Rio de Janeiro, Maranhão, Ceará e Mato Grosso do Sul.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 105.222 casos de coronavírus e 7.288 mortes pela doença"
+title: Brasil registra 105.222 casos de coronavírus e 7.288 mortes pela doença
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### As informações foram atualizadas até as 15h desta segunda-feira (4) e repassadas pelas Secretarias Estaduais de Saúde todo o país.
 

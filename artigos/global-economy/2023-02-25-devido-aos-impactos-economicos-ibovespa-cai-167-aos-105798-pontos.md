@@ -1,11 +1,12 @@
 ---
-title: "Devido aos impactos econômicos, Ibovespa cai 1,67%, aos 105.798 pontos"
+title: Devido aos impactos econômicos, Ibovespa cai 1,67%, aos 105.798 pontos
 date: 2023-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar encosta em R$ 5,20 com inflação americana.
 

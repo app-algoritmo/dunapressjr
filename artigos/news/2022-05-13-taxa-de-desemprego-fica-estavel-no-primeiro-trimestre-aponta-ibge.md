@@ -1,11 +1,12 @@
 ---
-title: "Taxa de desemprego fica estável no primeiro trimestre, aponta IBGE"
+title: Taxa de desemprego fica estável no primeiro trimestre, aponta IBGE
 date: 2022-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O único recuo foi no Amapá.
 

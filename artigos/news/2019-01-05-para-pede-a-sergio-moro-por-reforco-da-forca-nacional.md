@@ -1,11 +1,12 @@
 ---
-title: "Pará pede a Sergio Moro por reforço da Força Nacional"
+title: Pará pede a Sergio Moro por reforço da Força Nacional
 date: 2019-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O ministro da Justiça, Sergio Moro, recebeu e determinou a análise de um pedido do governo do Pará para o envio de tropas da Força Nacional ao Estado como um reforço na segurança. 
 

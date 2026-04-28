@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde vai até Barueri para defender a liderança invicta no Estadual"
+title: Osasco São Cristóvão Saúde vai até Barueri para defender a liderança invicta
+  no Estadual
 date: 2023-09-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Time comandado pelo técnico Luizomar vai em busca da quinta vitória consecutiva na partir que começa às 20h e terá transmissão do SporTV 2.
 

@@ -1,11 +1,13 @@
 ---
-title: "A Propagação Alarmante da Canção Proibida 'Ausländer Raus' na Alemanha: Um Fenômeno que Preocupa as Autoridades"
+title: 'A Propagação Alarmante da Canção Proibida ''Ausländer Raus'' na Alemanha:
+  Um Fenômeno que Preocupa as Autoridades'
 date: 2024-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A canção proibida "Ausländer Raus", (Estrangeiros Fora) uma adaptação da música "L'amour Toujours" do músico italiano Gigi D'Agostini, está se espalhando rapidamente na Alemanha, preocupando as autoridades com o surgimento de um movimento perigoso. Embora a canção circule há meses, sua recente popularidade em discotecas de todo o mundo trouxe novos desafios para as autoridades.
 

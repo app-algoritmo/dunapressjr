@@ -1,11 +1,12 @@
 ---
-title: "O Hamas atinge o centro de Israel com foguetes sem precedentes"
+title: O Hamas atinge o centro de Israel com foguetes sem precedentes
 date: 2026-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O grupo terrorista afirma que 130 projéteis foram disparados na área de Tel Aviv, ferindo dezenas; Aeroporto Ben Gurion fechou brevemente, escolas ao sul de Herzliya fecharam na quarta-feira.
 

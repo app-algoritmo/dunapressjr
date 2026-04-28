@@ -1,11 +1,12 @@
 ---
-title: "Emissão de debêntures incentivadas capta R$ 2,1 bilhões em junho"
+title: Emissão de debêntures incentivadas capta R$ 2,1 bilhões em junho
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Desde 2012, volume total distribuído chega a R$ 188,2 bilhões relacionados a projetos de investimento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí reforça ações de saúde para controle da COVID-19"
+title: Município de Itajaí reforça ações de saúde para controle da COVID-19
 date: 2020-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após registrar um aumento nos casos de COVID-19 e na ocupação hospitalar durante o mês de novembro, o Município de Itajaí está reforçando as ações de controle da doença. Entre as medidas está a aquisição de mais testes, solicitação de novos leitos de enfermaria de retaguarda e reorganização dos fluxos de atendimento, bem como implantação de melhorias na estrutura no Centro de Triagem e Unidade de Pronto Atendimento (UPA) do Centro Integrado de Saúde (CIS).
 

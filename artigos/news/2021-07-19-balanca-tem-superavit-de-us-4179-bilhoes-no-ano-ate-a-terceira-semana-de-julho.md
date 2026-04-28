@@ -1,11 +1,13 @@
 ---
-title: "Balança tem superávit de US$ 41,79 bilhões no ano, até a terceira semana de julho"
+title: Balança tem superávit de US$ 41,79 bilhões no ano, até a terceira semana de
+  julho
 date: 2021-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Exportações no período chegam a US$ 150,44 bilhões, enquanto importações atingem US$ 108,65 bilhões; no mês, saldo comercial está positivo em US$ 5,06 bilhões e corrente de comércio alcança US$ 24,04 bilhões.
 

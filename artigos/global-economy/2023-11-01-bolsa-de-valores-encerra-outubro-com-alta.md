@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores encerra outubro com alta"
+title: Bolsa de valores encerra outubro com alta
 date: 2023-11-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar também apresenta variação positiva.
 

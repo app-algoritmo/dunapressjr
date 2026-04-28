@@ -1,11 +1,12 @@
 ---
-title: "Pós-Brexit: Reino Unido pode se retirar de conversações com UE"
+title: 'Pós-Brexit: Reino Unido pode se retirar de conversações com UE'
 date: 2020-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Se não houver progressos até junho, país decidirá o que fazer
 

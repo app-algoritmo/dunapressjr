@@ -1,11 +1,12 @@
 ---
-title: "o tratamento contra o câncer, a atividade física"
+title: o tratamento contra o câncer, a atividade física
 date: 2021-02-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A rotina estressante e o excesso de compromissos muitas vezes nos afastam das atividades físicas. Mas são elas que nos mantêm longe de quem a gente precisa realmente estar: das doenças crônicas, como hipertensão e diabetes, da ansiedade, da depressão e dos diversos tipos de cânceres. Esse último ponto reforça ainda mais a importância do controle do peso corporal, que passa por uma dieta balanceada e pela prática de atividades físicas regulares.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde lança nova campanha de doação de sangue para 2020"
+title: Ministério da Saúde lança nova campanha de doação de sangue para 2020
 date: 2020-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com tema “Seja solidário. Doe sangue. Doar é um ato de amor”, objetivo é estimular doações também durante pandemia. 
 

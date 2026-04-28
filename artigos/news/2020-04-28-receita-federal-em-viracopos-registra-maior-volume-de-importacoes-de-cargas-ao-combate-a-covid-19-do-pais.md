@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal em Viracopos registra maior volume de importações de cargas ao combate à Covid-19 do país"
+title: Receita Federal em Viracopos registra maior volume de importações de cargas
+  ao combate à Covid-19 do país
 date: 2020-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Foram desembaraçados mais de R$ 180 milhões em produtos, entre eles máscaras, respiradores, luvas e testes
 

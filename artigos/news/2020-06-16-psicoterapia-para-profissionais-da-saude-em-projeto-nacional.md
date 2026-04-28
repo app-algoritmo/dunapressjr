@@ -1,11 +1,12 @@
 ---
-title: "Psicoterapia para profissionais da saúde em projeto nacional"
+title: Psicoterapia para profissionais da saúde em projeto nacional
 date: 2020-06-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## TelePSI também capacita interessados em ajudar outras pessoas durante a pandemia.
 

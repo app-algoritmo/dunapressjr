@@ -1,11 +1,13 @@
 ---
-title: "O Reino Unido Deve Evitar Assinar o Tratado sobre a Pandemia: Um Alerta do Telegraph"
+title: 'O Reino Unido Deve Evitar Assinar o Tratado sobre a Pandemia: Um Alerta do
+  Telegraph'
 date: 2024-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Telegraph, um dos principais jornais conservadores do Reino Unido, está instando os leitores a não assinarem o tratado sobre a pandemia proposto pela Organização Mundial da Saúde (OMS). Sob o título "A Grã-Bretanha está prestes a ceder sua soberania à OMS", o Telegraph argumenta que o Reino Unido está conduzindo sua própria investigação sobre a gestão da pandemia de Covid-19 e as lições a serem aprendidas com ela. 
 

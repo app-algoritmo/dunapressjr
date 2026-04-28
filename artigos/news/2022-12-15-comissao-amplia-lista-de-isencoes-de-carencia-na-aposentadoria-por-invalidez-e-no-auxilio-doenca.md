@@ -1,11 +1,13 @@
 ---
-title: "Comissão amplia lista de isenções de carência na aposentadoria por invalidez e no auxílio-doença"
+title: Comissão amplia lista de isenções de carência na aposentadoria por invalidez
+  e no auxílio-doença
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou projeto que inclui as formas incapacitantes de doenças reumáticas, neuromusculares e osteoarticulares crônicas ou degenerativas entre as hipóteses de isenção do prazo de carência (um ano) para concessão, pela Previdência Social, de aposentadoria por invalidez e de auxílio-doença.
 

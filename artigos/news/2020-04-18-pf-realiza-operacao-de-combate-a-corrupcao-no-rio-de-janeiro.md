@@ -1,11 +1,12 @@
 ---
-title: "PF realiza operação de combate à corrupção no Rio de Janeiro"
+title: PF realiza operação de combate à corrupção no Rio de Janeiro
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - A Polícia Federal deflagrou nesta sexta-feira (17/4) uma operação de combate à corrupção no Estado do Rio de Janeiro. Os policiais federais cumpriram, na cidade do Rio de Janeiro e em Petrópolis, 12 mandados de busca e apreensão, expedidos pela Corte Especial do Superior Tribunal de Justiça, na Relatoria do Ministro Felix Fischer.
 

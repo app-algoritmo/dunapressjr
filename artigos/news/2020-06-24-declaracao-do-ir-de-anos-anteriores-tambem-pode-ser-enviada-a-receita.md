@@ -1,11 +1,12 @@
 ---
-title: "Declaração do IR de anos anteriores também pode ser enviada à Receita"
+title: Declaração do IR de anos anteriores também pode ser enviada à Receita
 date: 2020-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Contribuinte deve baixar o programa do ano que deseja declarar.
 

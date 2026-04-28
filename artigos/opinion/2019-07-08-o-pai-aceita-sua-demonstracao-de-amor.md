@@ -1,11 +1,12 @@
 ---
-title: "O Pai aceita sua demonstração de Amor"
+title: O Pai aceita sua demonstração de Amor
 date: 2019-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nós que somos pais nunca rejeitamos as demonstrações de carinho e principalmente as maneiras que nossos filhos têm para se aproximar e para se relacionar conosco.
 

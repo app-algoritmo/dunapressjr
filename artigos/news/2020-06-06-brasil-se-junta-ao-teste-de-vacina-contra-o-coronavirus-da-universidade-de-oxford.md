@@ -1,11 +1,13 @@
 ---
-title: "Brasil se junta ao teste de vacina contra o coronavírus da Universidade de Oxford"
+title: Brasil se junta ao teste de vacina contra o coronavírus da Universidade de
+  Oxford
 date: 2020-06-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Brasil se juntará ao teste de vacina contra o coronavírus da Universidade de Oxford , anunciou a universidade nesta semana.
 

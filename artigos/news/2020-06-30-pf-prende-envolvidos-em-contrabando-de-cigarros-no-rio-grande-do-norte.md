@@ -1,11 +1,12 @@
 ---
-title: "PF prende envolvidos em contrabando de cigarros no Rio Grande do Norte"
+title: PF prende envolvidos em contrabando de cigarros no Rio Grande do Norte
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mossoró/RN - A Polícia Federal prendeu na segunda-feira (29/6) três pessoas suspeitas de integrarem organização criminosa que se dedica ao contrabando de cigarros, em Umarizal, Região Oeste Potiguar. Foram cumpridos um mandado de busca e apreensão e três mandados de prisão preventiva, expedidos pela 12ª Vara da Justiça Federal/RN, contra três homens oriundos do estado do Pará.
 

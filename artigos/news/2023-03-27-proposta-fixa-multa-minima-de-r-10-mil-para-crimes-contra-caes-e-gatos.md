@@ -1,11 +1,12 @@
 ---
-title: "Proposta fixa multa mínima de R$ 10 mil para crimes contra cães e gatos"
+title: Proposta fixa multa mínima de R$ 10 mil para crimes contra cães e gatos
 date: 2023-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 300/23 determina que em crimes contra cães e gatos – abuso, maus-tratos ou mutilação, entre outros – a multa será de no mínimo R$ 10 mil e dobrada em caso de reincidência. O texto em análise na Câmara dos Deputados insere o dispositivo na [Lei dos Crimes Ambientais](https://www2.camara.gov.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-norma-pl.html).
 

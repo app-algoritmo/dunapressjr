@@ -1,11 +1,12 @@
 ---
-title: "Ruídos aumentam projeções de inflação, diz presidente do BC"
+title: Ruídos aumentam projeções de inflação, diz presidente do BC
 date: 2021-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A declaração foi feita durante palestra do Council of the Americas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresce 1% em 2019 e apresenta primeira alta em cinco anos"
+title: Setor de serviços cresce 1% em 2019 e apresenta primeira alta em cinco anos
 date: 2020-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Segundo o IBGE, o crescimento foi puxado principalmente pelo setor de informação e comunicação, que acumulou alta de 3,3% no ano*
 

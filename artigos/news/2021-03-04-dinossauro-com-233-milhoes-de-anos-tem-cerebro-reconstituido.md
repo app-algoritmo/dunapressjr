@@ -1,11 +1,12 @@
 ---
-title: "Dinossauro com 233 milhões de anos tem cérebro reconstituído"
+title: Dinossauro com 233 milhões de anos tem cérebro reconstituído
 date: 2021-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O *Buriolestes schultzi* é o dinossauro mais antigo a ter o cérebro completamente reconstituído. Responsáveis pela descoberta do fóssil, pela análise da ossada e pela tomografia computadorizada que possibilitou entender o espécime, paleontólogos da Universidade Federal de Santa Maria (UFSM), do Rio Grande do Sul, e da Universidade de São Paulo (USP) concluíram se tratar de um animal caçador com visão aguçada.
 

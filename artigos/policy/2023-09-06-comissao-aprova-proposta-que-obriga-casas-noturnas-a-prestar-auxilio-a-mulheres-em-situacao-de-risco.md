@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que obriga casas noturnas a prestar auxílio a mulheres em situação de risco"
+title: Comissão aprova proposta que obriga casas noturnas a prestar auxílio a mulheres
+  em situação de risco
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta ainda precisa ser analisada por duas comissões temáticas e pelo Senado Compartilhe Versão para impressão.
 

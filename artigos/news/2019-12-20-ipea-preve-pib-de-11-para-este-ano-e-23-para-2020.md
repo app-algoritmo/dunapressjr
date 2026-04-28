@@ -1,11 +1,12 @@
 ---
-title: "Ipea prevê PIB de 1,1% para este ano e 2,3% para 2020"
+title: Ipea prevê PIB de 1,1% para este ano e 2,3% para 2020
 date: 2019-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Projeções para a economia brasileira foram apresentadas nesta quinta-feira,19 *
 

@@ -1,11 +1,13 @@
 ---
-title: "Divulgação de cerca de 180 mil páginas de documentos por mês sobre a “vacina” da Covid"
+title: Divulgação de cerca de 180 mil páginas de documentos por mês sobre a “vacina”
+  da Covid
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Novos documentos secretos da PFIZER e MODERNA! Rede de Ação de Consentimento Informado dos EUA, nova e importante vitória contra a FDA: divulgação de aproximadamente 180.000 páginas de documentos por mês sobre a “vacina” Covid.
 

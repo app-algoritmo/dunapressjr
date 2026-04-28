@@ -1,11 +1,12 @@
 ---
-title: "Humberto Costa destaca empenho do governo no combate à criminalidade"
+title: Humberto Costa destaca empenho do governo no combate à criminalidade
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Humberto Costa (PT-PE) destacou, em pronunciamento no Plenário na quarta-feira (25), que o governo brasileiro está empenhado em combater a criminalidade no país, especialmente das milícias e do narcotráfico. O senador observou que uma força-tarefa federal já está atuando no Rio de Janeiro, e será reforçada para combater efetivamente as estruturas do crime no estado. Ele ressaltou que recentemente as milícias promoveram um “espetáculo de terror” no Rio de Janeiro quando incendiaram 35 ônibus e um vagão de trem.
 

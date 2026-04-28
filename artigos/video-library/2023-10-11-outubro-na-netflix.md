@@ -1,11 +1,12 @@
 ---
-title: "Outubro na Netflix"
+title: Outubro na Netflix
 date: 2023-10-11
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha Aqui:
 

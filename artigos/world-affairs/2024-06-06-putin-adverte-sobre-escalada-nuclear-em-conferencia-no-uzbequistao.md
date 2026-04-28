@@ -1,11 +1,12 @@
 ---
-title: "Putin Adverte sobre Escalada Nuclear em Conferência no Uzbequistão"
+title: Putin Adverte sobre Escalada Nuclear em Conferência no Uzbequistão
 date: 2024-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma das conferências de imprensa mais marcantes de sua carreira, o presidente russo Vladimir Putin, durante uma visita ao Uzbequistão, abordou questões cruciais que ameaçam intensificar o conflito na Ucrânia para um confronto nuclear. Putin destacou que os planos da OTAN de disparar armas de longo alcance contra alvos na Rússia são perigosamente provocativos e afirmou que a Rússia responderá vigorosamente a tais ataques.
 

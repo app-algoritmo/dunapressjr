@@ -1,11 +1,12 @@
 ---
-title: "Chiquinho, de volta à escola!"
+title: Chiquinho, de volta à escola!
 date: 2018-03-05
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 "- Chiquinho, quem foi d. Pedro II?
 

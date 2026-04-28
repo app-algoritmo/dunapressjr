@@ -1,11 +1,12 @@
 ---
-title: "O grande encobrimento da morte do COVID"
+title: O grande encobrimento da morte do COVID
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 No início de abril de 2020, os médicos questionaram o uso dessa estratégia médica para apoiar pacientes com COVID-19, mas suas preocupações caíram em ouvidos surdos.
 

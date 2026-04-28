@@ -1,11 +1,13 @@
 ---
-title: "Oriente Médio à beira de uma guerra em grande escala, alerta enviado russo na ONU"
+title: Oriente Médio à beira de uma guerra em grande escala, alerta enviado russo
+  na ONU
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "Deixe-me ser claro: a responsabilidade pela guerra iminente no Médio Oriente, em grande medida, recai sobre os Estados Unidos", disse ele.
 

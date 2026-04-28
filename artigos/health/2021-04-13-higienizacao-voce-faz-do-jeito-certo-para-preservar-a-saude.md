@@ -1,11 +1,12 @@
 ---
-title: "Higienização: você faz do jeito certo para preservar a saúde?"
+title: 'Higienização: você faz do jeito certo para preservar a saúde?'
 date: 2021-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Quando ouvimos a palavra higiene, a primeira imagem que nos surge à cabeça é a lavagem das mãos. E tudo bem! Essa prática é, sem dúvida, fundamental na prevenção de doenças. Mas é importante saber que, além desse cuidado, existem outras regras que contribuem para a preservação da saúde.
 

@@ -1,11 +1,13 @@
 ---
-title: "ALPB promulga lei que suspende prazo de validade de concursos públicos durante pandemia"
+title: ALPB promulga lei que suspende prazo de validade de concursos públicos durante
+  pandemia
 date: 2020-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Assembleia Legislativa da Paraíba (ALPB), Adriano Galdino, promulgou a Lei 11.701, de autoria do deputado Wallber Virgolino, que suspende os prazos de validade dos concursos públicos no estado da Paraíba durante o período que vigorar o Decreto de Estado de Calamidade do Poder Executivo, em decorrência da pandemia do novo coronavírus (Covid-19).
 

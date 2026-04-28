@@ -1,11 +1,12 @@
 ---
-title: "100 milhões de animais já foram injetados com tecnologia de mRNA"
+title: 100 milhões de animais já foram injetados com tecnologia de mRNA
 date: 2023-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A ex-subsidiária da Pfizer "Zoetis" já injetou 100 milhões de animais com tecnologia de mRNA nos Estados Unidos. Isto disse o Dr. Bryan Ardis no programa [Diamond and Silk Chit Chat](https://rumble.com/v2b6c2m-dr.-ardis-is-back-on-diamond-and-silk-chit-chat-22323.html) .
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice de confiança dos pequenos negócios fica neutro em setembro"
+title: Índice de confiança dos pequenos negócios fica neutro em setembro
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Melhoria no comércio e nos serviços compensou pessimismo na indústria.
 

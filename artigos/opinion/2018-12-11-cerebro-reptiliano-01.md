@@ -1,11 +1,12 @@
 ---
-title: "Cérebro Reptiliano - 01"
+title: Cérebro Reptiliano - 01
 date: 2018-12-11
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Eles querem servos, poder, dominação.
 

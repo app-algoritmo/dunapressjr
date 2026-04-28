@@ -1,11 +1,13 @@
 ---
-title: "Moro discute com secretários estaduais de segurança medidas para durante e pós-pandemia"
+title: Moro discute com secretários estaduais de segurança medidas para durante e
+  pós-pandemia
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, Sergio Moro, se reuniu mais uma vez, nesta quarta-feira (22/4), com secretários de segurança de todo o País para avaliar as medidas de segurança que vêm sendo adotadas durante a pandemia de coronavírus e também o cenário pós-Covid.
 

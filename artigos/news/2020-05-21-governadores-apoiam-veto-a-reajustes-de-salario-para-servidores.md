@@ -1,11 +1,12 @@
 ---
-title: "Governadores apoiam veto a reajustes de salário para servidores"
+title: Governadores apoiam veto a reajustes de salário para servidores
 date: 2020-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Momento é de unidade nacional, diz governador de Mato Grosso do Sul.
 

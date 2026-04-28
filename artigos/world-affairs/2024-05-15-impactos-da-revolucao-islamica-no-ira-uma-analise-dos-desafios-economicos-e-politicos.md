@@ -1,11 +1,13 @@
 ---
-title: "Impactos da Revolução Islâmica no Irã: Uma Análise dos Desafios Econômicos e Políticos"
+title: 'Impactos da Revolução Islâmica no Irã: Uma Análise dos Desafios Econômicos
+  e Políticos'
 date: 2024-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Revolução Islâmica de 1979 marcou um ponto de virada na história do Irã, trazendo consigo uma série de mudanças políticas, sociais e econômicas que moldaram o país até os dias atuais. Este artigo examina os impactos dessa revolução, destacando os desafios econômicos e políticos que surgiram como resultado.
 

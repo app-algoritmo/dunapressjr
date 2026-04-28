@@ -1,11 +1,13 @@
 ---
-title: "Terceiro do ranking mundial, André Baran joga Copa do Mundo de Beach Tennis a partir desta terça-feira (5)"
+title: Terceiro do ranking mundial, André Baran joga Copa do Mundo de Beach Tennis
+  a partir desta terça-feira (5)
 date: 2023-12-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Catarinense, número 1 do País, integra o Time Brasil que busca o quinto título na competição, que será realizada na Represa de Guarapiranga, em São Paulo (SP). Programação começa nesta segunda-feira (4), com a Cerimônia de Abertura.
 

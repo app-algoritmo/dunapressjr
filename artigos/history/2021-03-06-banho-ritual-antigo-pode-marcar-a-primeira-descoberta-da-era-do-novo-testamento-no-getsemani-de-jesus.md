@@ -1,11 +1,13 @@
 ---
-title: "Banho ritual antigo pode marcar a primeira descoberta da era do Novo Testamento no Getsêmani de Jesus"
+title: Banho ritual antigo pode marcar a primeira descoberta da era do Novo Testamento
+  no Getsêmani de Jesus
 date: 2021-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Um banho ritual da era do Segundo Templo que foi recentemente descoberto no Monte das Oliveiras em Jerusalém, no local que se acredita ser o Getsêmani do Novo Testamento, está sendo apresentado como a primeira evidência que liga o local de peregrinação ao período em que Jesus viveu.
 

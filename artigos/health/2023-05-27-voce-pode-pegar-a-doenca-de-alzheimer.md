@@ -1,11 +1,12 @@
 ---
-title: "Você pode 'pegar' a doença de Alzheimer?"
+title: Você pode 'pegar' a doença de Alzheimer?
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## A hipótese emergente da doença de Alzheimer afirma que os sintomas podem ser desencadeados por um ou mais patógenos.
 

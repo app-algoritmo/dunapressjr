@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia com vitória arrasadora em Madri"
+title: Luisa Stefani estreia com vitória arrasadora em Madri
 date: 2024-04-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs se garantiram nas oitavas de final e devem voltar a jogar na segunda-feira (29).
 

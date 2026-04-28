@@ -1,11 +1,12 @@
 ---
-title: "Capacitação para forças armadas anunciada pelo MEC – atuação nas escolas cívico-militares"
+title: Capacitação para forças armadas anunciada pelo MEC – atuação nas escolas cívico-militares
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Formação on-line acontecerá até a próxima sexta-feira, 29 de maio.**
 

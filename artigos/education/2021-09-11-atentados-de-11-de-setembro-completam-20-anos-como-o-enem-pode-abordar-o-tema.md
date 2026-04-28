@@ -1,11 +1,13 @@
 ---
-title: "Atentados de 11 de Setembro completam 20 anos: como o Enem pode abordar o tema?"
+title: 'Atentados de 11 de Setembro completam 20 anos: como o Enem pode abordar o
+  tema?'
 date: 2021-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Maior ataque terrorista aos EUA pode ser abordado em diferentes aspectos no Enem.
 

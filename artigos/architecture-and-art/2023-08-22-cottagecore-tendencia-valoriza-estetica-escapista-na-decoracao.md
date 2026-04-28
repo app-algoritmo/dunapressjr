@@ -1,12 +1,13 @@
 ---
-title: "Cottagecore: tendência valoriza estética escapista na decoração"
+title: 'Cottagecore: tendência valoriza estética escapista na decoração'
 date: 2023-08-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Lifestyle
+- Architecture and Art
+- Lifestyle
 ---
+
 
 ## Com perfil campestre, estilo traz sentimentos de aconchego e a amplifica naturalidade na decoração de interiores. Arquiteta da A.Yoshii recomenda como aplicar essa tendência em casa.
 

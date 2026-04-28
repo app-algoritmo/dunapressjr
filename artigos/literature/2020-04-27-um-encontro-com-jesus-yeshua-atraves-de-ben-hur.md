@@ -1,11 +1,12 @@
 ---
-title: "Um encontro com Jesus (Yeshua) através de Ben Hur"
+title: Um encontro com Jesus (Yeshua) através de Ben Hur
 date: 2020-04-27
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 *Uma jornada de fé através das maravilhosas terras do mundo antigo*
 

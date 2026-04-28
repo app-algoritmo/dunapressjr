@@ -1,11 +1,12 @@
 ---
-title: "Não se omita - Acorde e seja patriota!"
+title: Não se omita - Acorde e seja patriota!
 date: 2018-10-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Se você ainda não percebeu, estão tentando destruir a instituição mais sagrada, a família. Se você percebeu só agora, pois é, isto está acontecendo pelos motivos que lhe traremos em lista abaixo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão Gordo celebra seu 55º aniversário"
+title: Esquadrão Gordo celebra seu 55º aniversário
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Esquadrão Gordo (1º/1º GT), sediado na Ala 11, no
 Rio de Janeiro (RJ), completou, no dia  18 de fevereiro, o 55º aniversário

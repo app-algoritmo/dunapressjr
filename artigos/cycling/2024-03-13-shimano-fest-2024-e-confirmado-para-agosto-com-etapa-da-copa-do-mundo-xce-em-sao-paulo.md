@@ -1,12 +1,14 @@
 ---
-title: "Shimano Fest 2024 é confirmado para agosto com etapa da Copa do Mundo XCE em São Paulo"
+title: Shimano Fest 2024 é confirmado para agosto com etapa da Copa do Mundo XCE em
+  São Paulo
 date: 2024-03-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## O Festival da Bike será entre 15 e 18 de agosto, no Memorial da América Latina, com atrações para a família, geração de negócios, competição de nível mundial, passeio de bicicleta, entre outras, tudo com entrada gratuita.
 

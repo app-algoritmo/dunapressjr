@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Saúde Nelson Teich  visita hospitais em Manaus"
+title: Ministro da Saúde Nelson Teich  visita hospitais em Manaus
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Amazonas recebe um reforço de 267 profissionais de saúde, e governo habilita novos leitos de UTI.
 

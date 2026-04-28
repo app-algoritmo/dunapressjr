@@ -1,11 +1,12 @@
 ---
-title: "Dr. Thomas Binder: Toda a plataforma modificada de RNA deve ser banida imediatamente"
+title: 'Dr. Thomas Binder: Toda a plataforma modificada de RNA deve ser banida imediatamente'
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Thomas Binder, um médico suíço, alertou em um vídeo que ele twittou ontem que a indústria farmacêutica está atualmente trabalhando na transferência de todas as vacinas para o uso da plataforma de mRNA. “Mesmo tendo um traço de inteligência, é o suficiente para perceber que a plataforma de vacina de RNA modificada é totalmente sem sentido e com risco de vida”, disse ele. “Toda a plataforma de RNA modificada deve ser banida imediatamente.”
 

@@ -1,11 +1,12 @@
 ---
-title: "Quando a bolha estourar"
+title: Quando a bolha estourar
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *"Se eles não tivessem padrões duplos, os democratas não teriam nenhuma moral." -Jeff Childers,*
 

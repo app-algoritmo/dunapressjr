@@ -1,11 +1,12 @@
 ---
-title: "Contrato mostra FBI comprando grandes quantidades de dados online"
+title: Contrato mostra FBI comprando grandes quantidades de dados online
 date: 2023-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O FBI admitiu isso recentemente.
 

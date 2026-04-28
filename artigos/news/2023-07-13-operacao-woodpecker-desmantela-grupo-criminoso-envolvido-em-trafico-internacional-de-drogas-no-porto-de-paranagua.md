@@ -1,11 +1,13 @@
 ---
-title: "Operação Woodpecker desmantela grupo criminoso envolvido em tráfico internacional de drogas no Porto de Paranaguá"
+title: Operação Woodpecker desmantela grupo criminoso envolvido em tráfico internacional
+  de drogas no Porto de Paranaguá
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal e Receita Federal realizam ação contra organização que ocultava cocaína em cargas de madeira para exportação. 
 

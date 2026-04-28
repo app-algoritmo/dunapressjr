@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial inicia o ano em ritmo menor, aponta CNI"
+title: Produção industrial inicia o ano em ritmo menor, aponta CNI
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa do empresariado é de otimismo moderado.
 

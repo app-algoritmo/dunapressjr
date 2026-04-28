@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei amplia benefício extraordinário do Auxílio Brasil para famílias indígenas"
+title: Projeto de Lei amplia benefício extraordinário do Auxílio Brasil para famílias
+  indígenas
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2956/22, do deputado [Carlos Henrique Gaguim (União-TO)](https://www.camara.leg.br/deputados/178993), prevê que o benefício extraordinário destinado às famílias indígenas participantes do programa Auxílio Brasil equivalerá ao necessário para alcançar a quantia de um salário mínimo.
 

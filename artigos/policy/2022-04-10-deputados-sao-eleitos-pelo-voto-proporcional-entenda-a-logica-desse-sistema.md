@@ -1,11 +1,12 @@
 ---
-title: "Deputados são eleitos pelo voto proporcional; entenda a lógica desse sistema"
+title: Deputados são eleitos pelo voto proporcional; entenda a lógica desse sistema
 date: 2022-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nas eleições **majoritárias**, o candidato eleito é aquele que tem mais votos. É assim para eleger o presidente da República, senadores, governadores e prefeitos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Como melhorar a escrita"
+title: Como melhorar a escrita
 date: 2022-10-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Muitas pessoas têm interesse em aprender a escrever melhor, mas não sabem como melhorar a escrita. Apesar de o senso comum associar a qualidade de escrever bem a um certo tipo de talento inato, é uma técnica, e pode ser aprimorada com a prática.
 

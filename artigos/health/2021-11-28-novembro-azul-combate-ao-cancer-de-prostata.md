@@ -1,11 +1,12 @@
 ---
-title: "Novembro Azul: Combate ao Câncer de Próstata"
+title: 'Novembro Azul: Combate ao Câncer de Próstata'
 date: 2021-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Novembro Azul, a campanha responsável pela conscientização sobre o câncer de próstata, surgiu no ano de 1999 na Austrália, com um grupo de amigos que decidiram deixar o bigode crescer, a fim de chamar atenção para a saúde masculina. O grupo realizava ações e o que arrecadava, era doado às instituições de caridade.
 

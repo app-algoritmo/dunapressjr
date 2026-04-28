@@ -1,11 +1,12 @@
 ---
-title: "O Caminho para a Independência Financeira"
+title: O Caminho para a Independência Financeira
 date: 2023-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
+- Finances
 ---
+
 
 ## **O Caminho para a Independência Financeira**
 

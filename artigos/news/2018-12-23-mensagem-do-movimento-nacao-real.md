@@ -1,10 +1,11 @@
 ---
-title: "Mensagem do Movimento Nação Real"
+title: Mensagem do Movimento Nação Real
 date: 2018-12-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Nação Real deseja a todos Boas Festas.

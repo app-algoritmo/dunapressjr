@@ -1,11 +1,13 @@
 ---
-title: "Governo prevê aumento real do salário mínimo em 2024 para cumprir promessa de campanha do presidente eleito"
+title: Governo prevê aumento real do salário mínimo em 2024 para cumprir promessa
+  de campanha do presidente eleito
 date: 2023-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministra do Planejamento e Orçamento, Simone Tebet, apresenta PLDO de 2024 com previsão de aumento do salário mínimo acima da inflação.
 

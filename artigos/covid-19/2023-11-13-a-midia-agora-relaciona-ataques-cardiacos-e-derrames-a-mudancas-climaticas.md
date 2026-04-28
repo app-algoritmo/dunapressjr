@@ -1,11 +1,12 @@
 ---
-title: "A mídia agora relaciona ataques cardíacos e derrames à mudanças climáticas"
+title: A mídia agora relaciona ataques cardíacos e derrames à mudanças climáticas
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A [última desculpa](https://www.climatedepot.com/2023/11/09/claim-as-extreme-heat-increases-heart-attacks-strokes-will-rise-dangerously/) do establishment para o aumento das taxas de ataques cardíacos e derrames são as “ondas de calor extremas geradas pelas mudanças climáticas”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Um pinguim muito especial"
+title: Um pinguim muito especial
 date: 2019-07-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O Pinguim Sir Nils Olav III é um membro da Guarda Real do Rei da Noruega, pertence à unidade Hans Majestet Kongens Garde, com um currículo invejável.
 

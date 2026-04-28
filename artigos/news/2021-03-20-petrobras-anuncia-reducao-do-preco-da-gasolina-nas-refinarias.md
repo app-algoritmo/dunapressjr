@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia redução do preço da gasolina nas refinarias"
+title: Petrobras anuncia redução do preço da gasolina nas refinarias
 date: 2021-03-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O reajuste começa a valer a partir deste sábado.
 

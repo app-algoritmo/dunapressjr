@@ -1,11 +1,12 @@
 ---
-title: "IDF lança o maior exercício militar de sua história"
+title: IDF lança o maior exercício militar de sua história
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar das tensões com o Hezbollah no norte, o chefe da equipe decide realizar exercícios de um mês para praticar cenários de emergência em todas as regiões.
 

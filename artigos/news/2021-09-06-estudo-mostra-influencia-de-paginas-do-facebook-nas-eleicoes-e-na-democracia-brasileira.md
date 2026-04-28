@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra influência de páginas do Facebook nas eleições e na democracia brasileira"
+title: Estudo mostra influência de páginas do Facebook nas eleições e na democracia
+  brasileira
 date: 2021-09-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Relatório revela, em números, relação direta entre aumento do volume de postagens e interações com o debate político a partir de 2015.
 

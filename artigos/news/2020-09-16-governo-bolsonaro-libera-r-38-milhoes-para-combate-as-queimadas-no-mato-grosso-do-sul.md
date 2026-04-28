@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro libera R$ 3,8 milhões para combate às queimadas no Mato Grosso do Sul"
+title: Governo Bolsonaro libera R$ 3,8 milhões para combate às queimadas no Mato Grosso
+  do Sul
 date: 2020-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recurso será utilizado para contratação de 200 horas de voo para o combate às chamas, locação de helicópteros e compra de equipamentos para a contenção e extinção do fogo, como mangueiras e abafadores. O repasse se soma a outros R$ 562,8 mil já transferidos pela União.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Japão gostaria de assinar a paz com a Rússia, mas continuará com sanções"
+title: O Japão gostaria de assinar a paz com a Rússia, mas continuará com sanções
 date: 2024-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Fumio Kishida lembrou ainda que na segunda quinzena de fevereiro será realizada em Tóquio uma conferência sobre o problema da restauração da Ucrânia.
 

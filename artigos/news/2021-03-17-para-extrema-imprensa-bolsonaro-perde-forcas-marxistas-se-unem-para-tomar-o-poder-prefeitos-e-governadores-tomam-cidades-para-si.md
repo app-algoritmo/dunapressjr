@@ -1,11 +1,13 @@
 ---
-title: "Para extrema imprensa, Bolsonaro perde forças, marxistas se unem para tomar o poder, prefeitos e governadores tomam cidades para si"
+title: Para extrema imprensa, Bolsonaro perde forças, marxistas se unem para tomar
+  o poder, prefeitos e governadores tomam cidades para si
 date: 2021-03-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -Brasil foi às ruas e cobranças ante o presidente Jair Bolsonaro aumentam e tomam redes sociais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Corrupção no Brasil: Enfraquecimento dos Sistemas de Justiça Coloca o País em Alerta"
+title: 'Corrupção no Brasil: Enfraquecimento dos Sistemas de Justiça Coloca o País
+  em Alerta'
 date: 2024-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Índice de Perceção da Corrupção (IPC) de 2023 mostra que a corrupção está a prosperar em todo o mundo.. O CPI classifica 180 países e territórios em todo o mundo pelos seus níveis percebidos de corrupção no setor público, pontuando numa escala de 0 (altamente corrupto) a 100 (muito limpo).
 

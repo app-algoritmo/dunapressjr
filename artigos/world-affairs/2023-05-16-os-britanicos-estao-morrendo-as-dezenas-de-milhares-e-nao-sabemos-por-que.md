@@ -1,11 +1,12 @@
 ---
-title: "'Os britânicos estão morrendo às dezenas de milhares, e não sabemos por quê'"
+title: '''Os britânicos estão morrendo às dezenas de milhares, e não sabemos por quê'''
 date: 2023-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De maio a dezembro de 2022, dezenas de milhares de britânicos morreram mais do que o normal, com Covid sendo descartada como a causa da morte. Isso levanta questões sérias, por que tantos morreram?
 

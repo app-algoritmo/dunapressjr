@@ -1,11 +1,13 @@
 ---
-title: "RFK Jr. lança petição exigindo que Biden libere documentos do assassinato de JFK"
+title: RFK Jr. lança petição exigindo que Biden libere documentos do assassinato de
+  JFK
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No 60º aniversário do assassinato do presidente John F. Kennedy, a campanha presidencial independente de Robert F. Kennedy Jr. lançou uma  [petição](https://jfkfiles.kennedy24.com/)  exigindo que o presidente Joe Biden “mantivesse a sua promessa e divulgasse todos os documentos do assassinato de JFK, conforme exigido por lei”.
 

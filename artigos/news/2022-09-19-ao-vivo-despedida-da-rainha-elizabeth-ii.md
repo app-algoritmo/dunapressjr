@@ -1,11 +1,12 @@
 ---
-title: "Ao Vivo: despedida da Rainha Elizabeth II"
+title: 'Ao Vivo: despedida da Rainha Elizabeth II'
 date: 2022-09-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Lideres de todo o mundo se despedem da Rainha Elizabeth II. Centenas de dignitários estão reunidos na Abadia de Westminster para o funeral da rainha Elizabeth II às 11:00 BST
 

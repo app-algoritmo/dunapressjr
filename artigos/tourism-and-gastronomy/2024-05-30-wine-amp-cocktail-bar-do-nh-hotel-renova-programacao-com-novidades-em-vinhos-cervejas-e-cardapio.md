@@ -1,11 +1,13 @@
 ---
-title: "Wine &amp; cocktail bar do NH Hotel renova programação com novidades em vinhos, cervejas e cardápio"
+title: Wine &amp; cocktail bar do NH Hotel renova programação com novidades em vinhos,
+  cervejas e cardápio
 date: 2024-05-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Five Lounge se consolida como destino enogastronômico com novos sabores de tapas e pratos quentes do chef Silvonei Souza. Novo menu inclui opções vegetarianas inéditas e combinações inspiradas na Espanha.
 

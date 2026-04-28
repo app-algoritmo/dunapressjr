@@ -1,11 +1,12 @@
 ---
-title: "Poema de um cão"
+title: Poema de um cão
 date: 2021-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Eu sou aquele que te espera...
 O teu carro tem um som especial e eu posso reconhecê-lo entre mil.

@@ -1,11 +1,13 @@
 ---
-title: "Desafios e Estratégias na Crise Ucraniana: O Papel da OTAN e os Temores de um Conflito Global"
+title: 'Desafios e Estratégias na Crise Ucraniana: O Papel da OTAN e os Temores de
+  um Conflito Global'
 date: 2024-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com a escalada da crise na Ucrânia, a OTAN busca preencher lacunas nas forças armadas do país, adotando uma estratégia que envolve a importação de "conselheiros" e o envio de tropas de diferentes países membros para operar equipamentos sofisticados.
 

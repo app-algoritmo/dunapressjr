@@ -1,11 +1,13 @@
 ---
-title: "Coração: técnicas cirúrgicas menos invasivas avançam e garantem sobrevida a pacientes"
+title: 'Coração: técnicas cirúrgicas menos invasivas avançam e garantem sobrevida
+  a pacientes'
 date: 2021-10-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Procedimento raro de troca de válvula via cateter foi realizado pela terceira vez em Curitiba (PR) e resulta em custos mais baixos e menor tempo de internação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto verão 2023: especialista alerta sobre riscos de anabolizantes"
+title: 'Projeto verão 2023: especialista alerta sobre riscos de anabolizantes'
 date: 2026-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na estação mais quente do ano, as pessoas buscam ficar em forma para ir à praia, aos clubes,  piscinas ou mesmo usar roupas mais leves com maior confiança. Mas a busca pelo corpo considerado “perfeito”, pode, muitas vezes, trazer prejuízos para a saúde. Dietas em excesso, uso de drogas e medicamentos são algumas das atitudes desesperadas que as pessoas buscam para atingir o efeito desejado. Os anabolizantes também são vistos como uma solução rápida para alcançar esse objetivo, mas podem trazer sérias consequências à saúde.
 

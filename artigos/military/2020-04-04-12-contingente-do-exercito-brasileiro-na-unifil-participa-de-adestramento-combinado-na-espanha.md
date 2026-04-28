@@ -1,11 +1,13 @@
 ---
-title: "12º Contingente do Exército Brasileiro na UNIFIL participa de adestramento combinado na Espanha"
+title: 12º Contingente do Exército Brasileiro na UNIFIL participa de adestramento
+  combinado na Espanha
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Madri (Espanha)** – No período de 28 de março a 3 de abril, os integrantes do 12° Contingente do Exército Brasileiro na missão da Força Interina das Nações Unidas no Líbano (UNIFIL), que compõem o Estado-Maior da Brigada espanhola, participaram do exercício de Estado-Maior “CEDRO I/20”, desenvolvido na Base “Príncipe” da Brigada "Almogávares" VI de Paracaidistas (BRIPAC).
 

@@ -1,11 +1,13 @@
 ---
-title: "Doações para ajuda humanitária, pela Campanha “Amazônia Contra a Covid-19”, aos povos da floresta"
+title: Doações para ajuda humanitária, pela Campanha “Amazônia Contra a Covid-19”,
+  aos povos da floresta
 date: 2020-06-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A campanha de doação de recursos “Amazônia Contra a Covid-19: ajuda humanitária aos povos da floresta” (#AmazoniaContraCovid) foi lançada nesta manhã de sexta-feira, 26, e se estende até o dia 17 de julho deste ano. Com a proposta de reverter à situação de vulnerabilidade das populações ameríndias do Amazonas, diante da pandemia da Covid-19, a ação faz parte de um grande movimento nacional que surgiu a partir da iniciativa de professores do Instituto de Ciências Sociais, Educação e Zootecnia da Universidade Federal do Amazonas de Parintins (ICSEZ/Ufam).
 

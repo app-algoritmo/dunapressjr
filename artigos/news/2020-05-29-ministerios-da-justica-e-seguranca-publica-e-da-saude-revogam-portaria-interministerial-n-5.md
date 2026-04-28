@@ -1,11 +1,13 @@
 ---
-title: "Ministérios da Justiça e Segurança Pública e da Saúde revogam Portaria Interministerial nº 5"
+title: Ministérios da Justiça e Segurança Pública e da Saúde revogam Portaria Interministerial
+  nº 5
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os Ministérios da Justiça e Segurança Pública e da Saúde revogaram a Portaria Interministerial nº 5, de março deste ano, que orientava sobre a obrigatoriedade das medidas de enfrentamento ao coronavírus e considerava a competência da União para editar regras gerais sobre saúde pública. A revogação foi oficializada com a publicação da Portaria Interministerial nº 9, assinada pelos ministros André Mendonça e Eduardo Pazuello e publicada no Diário Oficial da União desta quinta-feira (28).
 

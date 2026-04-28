@@ -1,11 +1,12 @@
 ---
-title: "Juros cobrados de empresas e famílias sobem em outubro, diz BC"
+title: Juros cobrados de empresas e famílias sobem em outubro, diz BC
 date: 2021-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa chegou a 32,8% ao ano, a maior desde março de 2020.
 

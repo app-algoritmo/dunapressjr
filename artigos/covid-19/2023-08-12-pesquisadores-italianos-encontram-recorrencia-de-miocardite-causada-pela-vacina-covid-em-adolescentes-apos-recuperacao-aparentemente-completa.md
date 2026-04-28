@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores italianos encontram recorrência de miocardite causada pela vacina Covid em adolescentes após recuperação aparentemente completa"
+title: Pesquisadores italianos encontram recorrência de miocardite causada pela vacina
+  Covid em adolescentes após recuperação aparentemente completa
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 As seringas de mRNA são o presente que continua chegando. Na melhor das hipóteses, vamos monitorar muitos adolescentes e jovens adultos por danos cardíacos por muito, muito tempo.
 

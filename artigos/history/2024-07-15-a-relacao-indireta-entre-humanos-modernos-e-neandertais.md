@@ -1,11 +1,12 @@
 ---
-title: "A Relação Indireta entre Humanos Modernos e Neandertais"
+title: A Relação Indireta entre Humanos Modernos e Neandertais
 date: 2024-07-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History
+- History
 ---
+
 
 A história da evolução humana é complexa e fascinante, envolvendo diversas espécies que coexistiram em diferentes períodos. Uma das perguntas que frequentemente surgem é sobre a relação entre os humanos modernos (Homo sapiens) e os neandertais (Homo neanderthalensis). Embora os neandertais tenham se extinguido há cerca de 40.000 anos, muitos humanos modernos, especialmente fora da África, carregam traços genéticos que indicam uma conexão indireta com essa espécie.
 

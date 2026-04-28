@@ -1,11 +1,12 @@
 ---
-title: "O Cinematógrafo dos Irmãos Lumière"
+title: O Cinematógrafo dos Irmãos Lumière
 date: 2020-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre Cinematógrafo dos irmãos Lumière.
 

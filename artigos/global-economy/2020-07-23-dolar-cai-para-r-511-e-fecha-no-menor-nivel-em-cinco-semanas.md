@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,11 e fecha no menor nível em cinco semanas"
+title: Dólar cai para R$ 5,11 e fecha no menor nível em cinco semanas
 date: 2020-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa oscilou e encerrou dia com pequena queda.
 

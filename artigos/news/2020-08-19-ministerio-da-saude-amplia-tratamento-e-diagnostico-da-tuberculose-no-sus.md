@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde amplia tratamento e diagnóstico da tuberculose no SUS"
+title: Ministério da Saúde amplia tratamento e diagnóstico da tuberculose no SUS
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A incorporação de medicamentos e de exames para o diagnóstico da doença constituem uma importante estratégia para o controle da doença no país.
 

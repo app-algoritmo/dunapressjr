@@ -1,11 +1,12 @@
 ---
-title: "Planos de Schwab: Uma Ameaça Além da Imaginação"
+title: 'Planos de Schwab: Uma Ameaça Além da Imaginação'
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **"O que Schwab está planejando para nós é tão terrível que excede nossa imaginação"**
 

@@ -1,11 +1,12 @@
 ---
-title: "Programa gerador do Documento de Arrecadação do MEI passa por reajustes"
+title: Programa gerador do Documento de Arrecadação do MEI passa por reajustes
 date: 2021-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Correção serve para adequar o cálculo do INSS ao novo valor do salário mínimo.
 

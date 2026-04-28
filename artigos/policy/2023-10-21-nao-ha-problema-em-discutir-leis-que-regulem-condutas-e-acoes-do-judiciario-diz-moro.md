@@ -1,11 +1,13 @@
 ---
-title: "Não há problema em discutir leis que regulem condutas e ações do Judiciário, diz Moro"
+title: Não há problema em discutir leis que regulem condutas e ações do Judiciário,
+  diz Moro
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sergio Moro (União-PR) afirmou apoiar a fala do presidente do Senado, Rodrigo Pacheco, que disse “se incomodar muito com a crise de identidade que há na política e a crise que também existe em relação à legitimidade das decisões judiciais”. Em pronunciamento na terça-feira (17), Moro destacou que “há uma certa percepção de desequilíbrio na relação entre os Poderes” e que o Senado tem legitimidade para discutir qualquer assunto relacionado à política, inclusive sobre o Poder Judiciário e o Supremo Tribunal Federal (STF).
 

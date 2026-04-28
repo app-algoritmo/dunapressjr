@@ -1,11 +1,12 @@
 ---
-title: "Bandas militares levam alegria e espalham esperança com música"
+title: Bandas militares levam alegria e espalham esperança com música
 date: 2020-05-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 03/05/2020 -** A música está ligada às ações militares, não só como meio de comunicação, mas também como elemento psicológico, levando ânimo às tropas e atemorizando o inimigo. Durante a movimentação de guerra, os grupos de soldados eram facilmente identificados com suas cores e bandeiras, mas em meio ao fogo da batalha, a obscuridade impossibilitava reconhecê-los. Com isso, a música marcial era o que distinguia o amigo do inimigo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto: BC deve atacar contas fantasma para coibir crimes no PIX"
+title: 'Campos Neto: BC deve atacar contas fantasma para coibir crimes no PIX'
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Presidente do Banco Central participou de evento, em São Paulo.
 

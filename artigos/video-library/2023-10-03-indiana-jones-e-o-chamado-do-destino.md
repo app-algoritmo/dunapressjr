@@ -1,11 +1,12 @@
 ---
-title: "Indiana Jones e o Chamado do Destino"
+title: Indiana Jones e o Chamado do Destino
 date: 2023-10-03
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

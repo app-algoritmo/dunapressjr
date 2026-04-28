@@ -1,11 +1,12 @@
 ---
-title: "BNDES financia tecnologia desenvolvida para tratar pacientes com Covid-19"
+title: BNDES financia tecnologia desenvolvida para tratar pacientes com Covid-19
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um tratamento inovador na área da saúde para ajudar nos casos mais graves de Covid-19. É uma espécie de pulmão artificial, capaz de remover o sangue das veias, bombeá-lo até um oxigenador e depois devolvê-lo ao corpo.
 

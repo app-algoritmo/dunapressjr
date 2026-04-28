@@ -1,11 +1,13 @@
 ---
-title: "Biden roubou US $ 1 bilhão dos contribuintes dos EUA ao pagar a mais por kits de “teste” chineses"
+title: Biden roubou US $ 1 bilhão dos contribuintes dos EUA ao pagar a mais por kits
+  de “teste” chineses
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Toda a controvérsia sobre o que Joe Biden e sua família do crime receberam na forma de pagamentos ilegais em dinheiro durante sua vice-presidência de Barack Hussein Obama é apenas [uma gota no oceano](https://rootforamerica.com/the-crime-of-the-century/) em comparação com o que Biden e seus comparsas roubaram para comprar produtos chineses cobiçosos. conjuntos de "teste".
 

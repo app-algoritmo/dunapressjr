@@ -1,11 +1,12 @@
 ---
-title: "Volume de vendas no comércio varejista cresceu 0,9% em abril, quarta alta consecutiva"
+title: Volume de vendas no comércio varejista cresceu 0,9% em abril, quarta alta consecutiva
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No ano, o setor acumulou aumento de 2,3%, de acordo com dados da Pesquisa Mensal de Comércio.
 

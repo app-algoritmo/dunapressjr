@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte lança míssil balístico"
+title: Coreia do Norte lança míssil balístico
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Alertou os navios que navegam nesta área para estarem vigilantes e não se aproximarem dos fragmentos do míssil caso os avistem.
 

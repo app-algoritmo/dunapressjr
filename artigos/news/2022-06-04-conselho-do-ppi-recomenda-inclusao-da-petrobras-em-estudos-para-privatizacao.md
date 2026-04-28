@@ -1,11 +1,12 @@
 ---
-title: "Conselho do PPI recomenda inclusão da Petrobras em estudos para privatização"
+title: Conselho do PPI recomenda inclusão da Petrobras em estudos para privatização
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Deliberação foi tomada na 21ª Reunião do CPPI e anunciada em entrevista coletiva.
 

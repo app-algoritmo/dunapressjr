@@ -1,11 +1,12 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: alcança mais da metade da população nacional"
+title: 'AUXÍLIO EMERGENCIAL: alcança mais da metade da população nacional'
 date: 2020-07-06
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## O número contabiliza os 65,4 milhões de cidadãos considerados elegíveis e os integrantes de suas famílias.
 

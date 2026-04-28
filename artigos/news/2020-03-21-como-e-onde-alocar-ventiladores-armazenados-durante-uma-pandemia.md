@@ -1,11 +1,12 @@
 ---
-title: "Como e onde alocar ventiladores armazenados durante uma pandemia"
+title: Como e onde alocar ventiladores armazenados durante uma pandemia
 date: 2020-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os principais fatores devem ser levados em consideração na determinação da necessidade e alocação de escassos ventiladores durante uma pandemia grave, especialmente uma que cause doenças respiratórias. Estratégias para ajudar planejadores estaduais e locais na alocação de ventiladores armazenados em unidades de saúde, incluindo ações pré-pandêmicas e ações a serem tomadas durante a pandemia, estão detalhadas em um artigo oportuno publicado no *Health Security* , uma revista revisada por Mary Ann Liebert , Inc.
 

@@ -1,11 +1,13 @@
 ---
-title: "Christopher Nolan fala sobre aposentadoria do cinema e sobre possível filme de super-herói"
+title: Christopher Nolan fala sobre aposentadoria do cinema e sobre possível filme
+  de super-herói
 date: 2023-07-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Nolan está se abrindo sobre sua posição sobre a ideia de se aposentar e se algum dia faria outro filme de super-herói.
 

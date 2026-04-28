@@ -1,11 +1,12 @@
 ---
-title: "União compensará estados em R$ 26,9 bi por ICMS de combustíveis"
+title: União compensará estados em R$ 26,9 bi por ICMS de combustíveis
 date: 2023-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acordo foi fechado por consenso entre governo e unidades da Federação.
 

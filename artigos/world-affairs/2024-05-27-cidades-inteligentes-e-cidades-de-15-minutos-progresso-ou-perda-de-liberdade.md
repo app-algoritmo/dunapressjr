@@ -1,11 +1,12 @@
 ---
-title: "Cidades Inteligentes e Cidades de 15 Minutos: Progresso ou Perda de Liberdade?"
+title: 'Cidades Inteligentes e Cidades de 15 Minutos: Progresso ou Perda de Liberdade?'
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os conceitos de "cidade inteligente" e "cidade de 15 minutos" têm ganhado destaque nas discussões urbanísticas, prometendo conveniência e eficiência. No entanto, essas ideias também suscitam preocupações significativas sobre liberdade individual e privacidade.
 

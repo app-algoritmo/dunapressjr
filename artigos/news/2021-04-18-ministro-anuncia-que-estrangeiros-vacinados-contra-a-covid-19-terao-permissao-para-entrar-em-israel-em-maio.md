@@ -1,11 +1,13 @@
 ---
-title: "Ministro anuncia que estrangeiros vacinados contra a Covid-19 terão permissão para entrar em Israel em maio"
+title: Ministro anuncia que estrangeiros vacinados contra a Covid-19 terão permissão
+  para entrar em Israel em maio
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os estrangeiros vacinados terão permissão para entrar em Israel em grupos a partir de 23 de maio, segundo anunciou o Ministério da Saúde nesta terça-feira.
 Os turistas precisarão se submeter a um teste de PCR para coronavírus antes de entrar no avião e outro teste de PCR e sorológico quando desembarcarem no Aeroporto Ben-Gurion para confirmar que estão vacinados contra a Covid-19 ou se recuperaram do vírus.

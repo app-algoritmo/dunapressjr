@@ -1,11 +1,12 @@
 ---
-title: "Petrobras informa ter atingido meta de produção anual em 2022"
+title: Petrobras informa ter atingido meta de produção anual em 2022
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram produzidos 2,684 milhões de barris de óleo equivalente por dia.
 

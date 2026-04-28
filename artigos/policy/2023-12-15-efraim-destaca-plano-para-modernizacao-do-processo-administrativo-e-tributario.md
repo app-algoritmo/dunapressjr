@@ -1,11 +1,12 @@
 ---
-title: "Efraim destaca plano para modernização do processo administrativo e tributário"
+title: Efraim destaca plano para modernização do processo administrativo e tributário
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento em Plenário, o senador Efraim Filho (União-PB) destacou a apresentação na terça-feira (12) do plano de trabalho para análise da reforma do processo administrativo e tributário na Comissão Temporária Interna para examinar os anteprojetos apresentados no âmbito da Comissão de Juristas (CTIADMTR).
 

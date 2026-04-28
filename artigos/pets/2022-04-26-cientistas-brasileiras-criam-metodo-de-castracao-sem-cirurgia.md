@@ -1,11 +1,12 @@
 ---
-title: "Cientistas brasileiras criam método de castração sem cirurgia"
+title: Cientistas brasileiras criam método de castração sem cirurgia
 date: 2022-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Reduzir o número de animais nas ruas e promover o acesso às ações de castração. Essa foi a motivação para as pesquisadoras Vanessa Nicolau de Lima, doutoranda no Programa de Pós-Graduação em Biologia Animal, e Juliana Lis Mendes de Brito, pós-doutoranda pelo mesmo programa, desenvolverem um método de castração rápido e não cirúrgico para cães e gatos. Ambas são bolsistas da CAPES.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bases dos EUA no Oriente Médio foram atacadas 140 vezes desde outubro de 2023"
+title: Bases dos EUA no Oriente Médio foram atacadas 140 vezes desde outubro de 2023
 date: 2024-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A vice-secretária de imprensa do Pentágono, Sabrina Singh, disse que 57 desses ataques tiveram como alvo bases dos EUA no Iraque e 83 na Síria.
 

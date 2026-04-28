@@ -1,11 +1,12 @@
 ---
-title: "Wandinha não terá interesse amoroso na segunda temporada, confirma Jenna Ortega"
+title: Wandinha não terá interesse amoroso na segunda temporada, confirma Jenna Ortega
 date: 2023-06-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## A atriz de Wandinha, Jenna Ortega , confirmou que sua personagem não terá um interesse amoroso na segunda temporada.
 

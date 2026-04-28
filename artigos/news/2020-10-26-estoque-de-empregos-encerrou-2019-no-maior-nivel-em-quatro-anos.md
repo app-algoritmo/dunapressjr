@@ -1,11 +1,12 @@
 ---
-title: "Estoque de empregos encerrou 2019 no maior nível em quatro anos"
+title: Estoque de empregos encerrou 2019 no maior nível em quatro anos
 date: 2020-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo a Rais, país retomava geração de trabalho antes da pandemia.
 

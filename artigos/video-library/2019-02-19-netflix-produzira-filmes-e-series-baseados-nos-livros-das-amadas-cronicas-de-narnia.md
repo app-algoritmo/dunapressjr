@@ -1,11 +1,13 @@
 ---
-title: "Netflix produzirá filmes e séries baseados nos livros das amadas Crônicas de Nárnia"
+title: Netflix produzirá filmes e séries baseados nos livros das amadas Crônicas de
+  Nárnia
 date: 2019-02-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 As histórias
 do genial C.S. Lewis, As Crônicas de Nárnia, tem proporcionado emoções a

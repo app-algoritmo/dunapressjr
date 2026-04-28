@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cresce 0,86% em outubro, diz BC"
+title: Atividade econômica cresce 0,86% em outubro, diz BC
 date: 2020-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a sexta alta seguida do indicador.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estimativa de inflação cai pela 11ª vez seguida para 3,26%"
+title: Estimativa de inflação cai pela 11ª vez seguida para 3,26%
 date: 2019-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Instituições financeiras reduziram, pela 11ª vez seguida, a
 estimativa para a inflação este ano. Segundo pesquisa do Banco Central (BC)

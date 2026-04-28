@@ -1,11 +1,12 @@
 ---
-title: "Ministro André Mendonça recebe embaixador da Espanha no Brasil"
+title: Ministro André Mendonça recebe embaixador da Espanha no Brasil
 date: 2020-06-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, recebeu, nesta sexta-feira (11), o embaixador da Espanha no Brasil, Fernando Garcia Casas.
 

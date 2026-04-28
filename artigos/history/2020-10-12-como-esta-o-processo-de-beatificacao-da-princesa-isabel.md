@@ -1,11 +1,12 @@
 ---
-title: "Como está o processo de beatificação da Princesa Isabel?"
+title: Como está o processo de beatificação da Princesa Isabel?
 date: 2020-10-12
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - History
+- History
 ---
+
 
 *A pergunta vem dos muitos brasileiros que esperam há nove anos a abertura de um processo que pode ser desengavetado a qualquer momento*
 

@@ -1,11 +1,12 @@
 ---
-title: "Proposta de Imigração da Nova Frente Popular Gera Controvérsia na França"
+title: Proposta de Imigração da Nova Frente Popular Gera Controvérsia na França
 date: 2024-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A coligação entre socialistas, comunistas e verdes na França, conhecida como Nova Frente Popular, propôs uma série de medidas para uma imigração mais aberta e massiva no país, visando as eleições legislativas. A proposta inclui:
 

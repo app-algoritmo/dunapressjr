@@ -1,11 +1,12 @@
 ---
-title: "ANP: preço médio de revenda da gasolina acumula queda de 17,11%"
+title: 'ANP: preço médio de revenda da gasolina acumula queda de 17,11%'
 date: 2020-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda foi observada em 16 semanas consecutivas.
 

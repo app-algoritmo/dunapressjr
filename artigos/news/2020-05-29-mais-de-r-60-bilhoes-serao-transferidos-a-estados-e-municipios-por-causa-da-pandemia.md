@@ -1,11 +1,13 @@
 ---
-title: "Mais de R$ 60 bilhões serão transferidos a estados e municípios por causa da pandemia"
+title: Mais de R$ 60 bilhões serão transferidos a estados e municípios por causa da
+  pandemia
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mais de R$ 60 bilhões serão transferidos a estados e municípios por causa da pandemia.
 

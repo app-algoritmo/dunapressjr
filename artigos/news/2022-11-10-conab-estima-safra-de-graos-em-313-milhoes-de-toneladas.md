@@ -1,11 +1,12 @@
 ---
-title: "Conab estima safra de grãos em 313 milhões de toneladas"
+title: Conab estima safra de grãos em 313 milhões de toneladas
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumento da área plantada da soja deve impulsionar a produção.
 

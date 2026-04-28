@@ -1,11 +1,12 @@
 ---
-title: "Novo Ensino Médio: o que pais e estudantes podem esperar dessa mudança"
+title: 'Novo Ensino Médio: o que pais e estudantes podem esperar dessa mudança'
 date: 2021-08-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Itinerários Formativos são grande desafio para escolas e vão dar a estudantes a chance de aprofundar conteúdos que fazem mais sentido para a trajetória do aluno.
 

@@ -1,11 +1,12 @@
 ---
-title: "Móveis projetados por Oscar e Anna Niemeyer foram salvos da destruição"
+title: Móveis projetados por Oscar e Anna Niemeyer foram salvos da destruição
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pelo menos 15 móveis projetados pelo arquiteto Oscar Niemeyer e sua filha Anna Maria Niemeyer,  que foi arquiteta, designer e galerista, e que estavam nas áreas da entrada da Câmara dos Deputados foram salvos da destruição provocada pela invasão da Casa neste 8 de janeiro porque estavam no almoxarifado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Sinusite não tratada pode desencadear complicações graves"
+title: Sinusite não tratada pode desencadear complicações graves
 date: 2023-09-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Sintomas persistentes, como dores de cabeça, febre alta e secreção nasal, exigem atenção médica imediata.
 

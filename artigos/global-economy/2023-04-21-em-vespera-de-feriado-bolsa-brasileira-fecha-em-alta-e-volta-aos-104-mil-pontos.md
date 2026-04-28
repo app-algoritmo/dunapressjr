@@ -1,11 +1,12 @@
 ---
-title: "Em véspera de feriado, bolsa brasileira fecha em alta e volta aos 104 mil pontos"
+title: Em véspera de feriado, bolsa brasileira fecha em alta e volta aos 104 mil pontos
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa brasileira ensaia recuperação em pregão pré-feriado de Tiradentes
 

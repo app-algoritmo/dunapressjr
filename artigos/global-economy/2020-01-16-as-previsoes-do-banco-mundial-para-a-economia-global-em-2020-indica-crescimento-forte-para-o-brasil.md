@@ -1,11 +1,13 @@
 ---
-title: "As previsões do Banco Mundial para a economia global em 2020 indica crescimento forte para o Brasil"
+title: As previsões do Banco Mundial para a economia global em 2020 indica crescimento
+  forte para o Brasil
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A nova pesquisa macroeconômica da agência contém previsões ruins para os EUA e China.
 

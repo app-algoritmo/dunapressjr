@@ -1,11 +1,12 @@
 ---
-title: "China se Compromete a Promover a Ética e Governança em Inteligência Artificial"
+title: China se Compromete a Promover a Ética e Governança em Inteligência Artificial
 date: 2024-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante o Segundo Fórum Global sobre Ética em IA, realizado na cidade eslovena de Kranj e patrocinado pela UNESCO, o vice-ministro da Educação da China, Wang Jiayi, expressou o compromisso da China em participar dos esforços globais para promover a ética e a governança em inteligência artificial (IA). Wang destacou que os planos de governança em IA propostos por diversos países podem servir como base para reunir um consenso global e formular conjuntamente planos de governança global, visando o benefício de toda a humanidade.
 

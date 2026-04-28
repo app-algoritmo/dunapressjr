@@ -1,11 +1,12 @@
 ---
-title: "Déte Pexera faz show no Teatro Municipal de Itajaí no domingo (05)"
+title: Déte Pexera faz show no Teatro Municipal de Itajaí no domingo (05)
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 O Teatro Municipal de Itajaí recebe o espetáculo “Tax Tolo?”, com a personagem Déte Pexera, no próximo domingo (05). A apresentação começa às 19h30, com classificação livre. Os ingressos custam R$ 66 (inteira) e R$ 33 (meia e promocional com a doação de um quilo de alimento não perecível). As entradas podem ser adquiridas na bilheteria do teatro ou no site Ingresso Nacional.
 

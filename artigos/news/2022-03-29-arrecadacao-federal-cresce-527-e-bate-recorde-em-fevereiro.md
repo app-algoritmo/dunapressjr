@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal cresce 5,27% e bate recorde em fevereiro"
+title: Arrecadação federal cresce 5,27% e bate recorde em fevereiro
 date: 2022-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Melhora da economia e petróleo impulsionam receita.
 

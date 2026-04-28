@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal investiga irregularidades em campanha eleitoral no Ceará"
+title: Polícia Federal investiga irregularidades em campanha eleitoral no Ceará
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Fortaleza/CE**  -  A Polícia Federal deflagrou, na manhã desta segunda-feira (01/06), a operação Spectrum que apura possível desvio de recursos do Fundo Eleitoral, repassados para uma candidata a deputada estadual, nas eleições de 2018, no Ceará.
 

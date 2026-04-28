@@ -1,11 +1,12 @@
 ---
-title: "Recusa da Grã-Bretanha em Assinar Tratado Pandêmico da OMS"
+title: Recusa da Grã-Bretanha em Assinar Tratado Pandêmico da OMS
 date: 2024-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, uma importante reviravolta surgiu no cenário internacional de saúde pública, com a Grã-Bretanha rejeitando firmemente a assinatura do tratado sobre pandemia proposto pela Organização Mundial de Saúde (OMS). Essa decisão reflete não apenas a defesa da soberania britânica, mas também levanta questões críticas sobre a liberdade e a autonomia dos países em meio a iniciativas globais de saúde.
 

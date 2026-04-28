@@ -1,11 +1,12 @@
 ---
-title: "Jesus é o Leão da Tribo de Judá"
+title: Jesus é o Leão da Tribo de Judá
 date: 2019-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Desde criança sempre ouvimos falar sobre que Jesus  é o Leão da Tribo de Judá, principalmente nas canções, que certamente foram baseadas  em Apocalipse 5.5: “Todavia, um dos anciãos me disse: Não chores; eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro e os seus sete selos. 
 

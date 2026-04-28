@@ -1,11 +1,12 @@
 ---
-title: "One Health dará ao ditador-geral da OMS o poder de impor bloqueios climáticos"
+title: One Health dará ao ditador-geral da OMS o poder de impor bloqueios climáticos
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## 
 As emendas propostas ao Regulamento Sanitário Internacional (“RSI”) e ao Tratado Pandêmico incorporam a abordagem “Uma Saúde”.

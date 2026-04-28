@@ -1,11 +1,13 @@
 ---
-title: "Hunter Biden recusa testemunhar perante Comitê de Supervisão: Conflito de interesses e acusações políticas agitam cenário"
+title: 'Hunter Biden recusa testemunhar perante Comitê de Supervisão: Conflito de
+  interesses e acusações políticas agitam cenário'
 date: 2024-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Hunter Biden, filho do Presidente dos Estados Unidos, Joe Biden, recusou-se a testemunhar perante o Comitê de Supervisão da Câmara, presidido pelo republicano James Comer, em uma audiência agendada para a próxima semana. O advogado de Biden, Abbe Lowell, descreveu a audiência como um "circo" que alimentaria "a mídia de direita", ressaltando que Hunter já havia testemunhado a portas fechadas perante duas comissões lideradas por republicanos em fevereiro.
 

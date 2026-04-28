@@ -1,11 +1,12 @@
 ---
-title: "Brasil na disputa pelo BRICS Young Innovator Prize 2020"
+title: Brasil na disputa pelo BRICS Young Innovator Prize 2020
 date: 2020-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Químico do INT/MCTI concorre ao prêmio de Jovem Inovador dos BRICS. 
 

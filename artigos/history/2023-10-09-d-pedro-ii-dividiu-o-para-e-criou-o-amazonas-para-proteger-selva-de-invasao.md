@@ -1,11 +1,12 @@
 ---
-title: "D. Pedro II dividiu o Pará e criou o Amazonas para proteger selva de invasão"
+title: D. Pedro II dividiu o Pará e criou o Amazonas para proteger selva de invasão
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - History
+- History
 ---
+
 
 Em 1823, meses após a Independência do Brasil, o deputado Arouche Rendon (SP) lembrou num discurso que São Paulo, sua província, tinha um território gigantesco. Para provar que não exagerava, ele citou duas vilas paulistas localizadas em pontos remotos:
 

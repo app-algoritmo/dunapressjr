@@ -1,11 +1,13 @@
 ---
-title: "BNDES e Banco de Desenvolvimento Chinês assinam acordo de US$ 1,3 bilhão para investimentos no Brasil"
+title: BNDES e Banco de Desenvolvimento Chinês assinam acordo de US$ 1,3 bilhão para
+  investimentos no Brasil
 date: 2023-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos serão destinados a projetos de infraestrutura, economia verde e comércio bilateral entre Brasil e China.
 

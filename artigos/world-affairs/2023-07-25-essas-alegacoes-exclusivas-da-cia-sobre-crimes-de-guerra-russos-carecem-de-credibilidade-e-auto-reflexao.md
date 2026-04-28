@@ -1,11 +1,13 @@
 ---
-title: "Essas alegações “exclusivas” da CIA sobre crimes de guerra russos carecem de credibilidade e auto-reflexão"
+title: Essas alegações “exclusivas” da CIA sobre crimes de guerra russos carecem de
+  credibilidade e auto-reflexão
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os autores confundem as tropas russas com os nazistas ucranianos, que foram repetidamente filmados arrastando jovens ucranianos das ruas para os moedores de carne do agente do MI6 Zelensky.
 

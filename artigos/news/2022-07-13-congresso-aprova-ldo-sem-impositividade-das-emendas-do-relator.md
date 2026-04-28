@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova LDO sem impositividade das emendas do relator"
+title: Congresso aprova LDO sem impositividade das emendas do relator
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Salário mínimo previsto para 2023 é de R$ 1.294.
 

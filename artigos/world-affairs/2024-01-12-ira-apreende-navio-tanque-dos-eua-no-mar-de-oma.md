@@ -1,11 +1,12 @@
 ---
-title: "Irã apreende navio-tanque dos EUA no Mar de Omã"
+title: Irã apreende navio-tanque dos EUA no Mar de Omã
 date: 2024-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Marinha iraniana disse que apreendeu um petroleiro dos EUA no Mar de Omã.
 

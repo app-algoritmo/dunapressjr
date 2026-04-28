@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil abre 83,3 mil vagas com carteira assinada em janeiro"
+title: 'Caged: Brasil abre 83,3 mil vagas com carteira assinada em janeiro'
 date: 2023-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Criação de empregos caiu 46,3% em relação ao mesmo mês do ano passado.
 

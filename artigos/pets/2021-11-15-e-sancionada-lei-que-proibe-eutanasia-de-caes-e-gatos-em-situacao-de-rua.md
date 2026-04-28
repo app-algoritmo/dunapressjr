@@ -1,11 +1,12 @@
 ---
-title: "É sancionada lei que proíbe eutanásia de cães e gatos em situação de rua"
+title: É sancionada lei que proíbe eutanásia de cães e gatos em situação de rua
 date: 2021-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Publicada  (21/10) no Diário Oficial da União, a Lei 14.228/2021, que proíbe a eutanásia de cães e gatos em situação de rua, passará a valer em 120 dias.
 

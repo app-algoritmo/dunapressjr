@@ -1,11 +1,13 @@
 ---
-title: "Fezes, cartas ensanguentadas e pacotes explosivos: guerra contra a Ucrânia chegou às suas embaixadas"
+title: 'Fezes, cartas ensanguentadas e pacotes explosivos: guerra contra a Ucrânia
+  chegou às suas embaixadas'
 date: 2022-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### A Embaixada da Ucrânia em Zagreb também recebeu um pacote com restos de animais, que está sendo investigado pela Polícia.
 

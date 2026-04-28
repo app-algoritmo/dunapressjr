@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Mais de 20 vacinas e vários tratamentos em desenvolvimento"
+title: 'Covid-19: Mais de 20 vacinas e vários tratamentos em desenvolvimento'
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Organização Mundial da Saúde (OMS) afirmou que pelo menos 20 vacinas contra o coronavírus estão em desenvolvimento em todo o mundo - embora o procedimento provavelmente leve vários meses. O mundo da medicina lançou uma corrida real contra o relógio para encontrar medidas e tratamentos preventivos para os infectados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estão abertas as inscrições para o Enem 2020"
+title: Estão abertas as inscrições para o Enem 2020
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O período de inscrições para o Exame Nacional do Ensino Médio (Enem) 2020 teve início nesta segunda-feira (11) e fica aberto até o dia 22 de maio. O procedimento deve ser feito na [Página do Participante](https://enem.inep.gov.br/participante/#!/), no site ou no aplicativo do Enem.
 

@@ -1,11 +1,13 @@
 ---
-title: "Câmara dos Deputados aprova tributação de investimentos no exterior e antecipação de imposto em fund"
+title: Câmara dos Deputados aprova tributação de investimentos no exterior e antecipação
+  de imposto em fund
 date: 2023-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de Lei 4173/23 segue para o Senado após votação na Câmara; emendas propostas foram rejeitadas
 

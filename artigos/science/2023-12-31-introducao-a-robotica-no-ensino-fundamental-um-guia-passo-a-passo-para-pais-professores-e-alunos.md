@@ -1,12 +1,14 @@
 ---
-title: "Introdução à Robótica no Ensino Fundamental: Um Guia Passo a Passo para Pais, Professores e Alunos"
+title: 'Introdução à Robótica no Ensino Fundamental: Um Guia Passo a Passo para Pais,
+  Professores e Alunos'
 date: 2023-12-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 A robótica é uma ferramenta educacional poderosa que pode cativar e inspirar alunos do ensino fundamental. Este guia prático oferece um conjunto abrangente de passos para professores e alunos embarcarem em uma jornada emocionante de construção e programação de robôs.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa da opinião dos Inscritos do Enem sobre a data da prova"
+title: Pesquisa da opinião dos Inscritos do Enem sobre a data da prova
 date: 2020-05-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Estudantes serão consultados pela Página do Participante.
 

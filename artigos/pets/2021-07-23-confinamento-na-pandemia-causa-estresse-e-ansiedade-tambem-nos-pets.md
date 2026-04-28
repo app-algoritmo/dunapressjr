@@ -1,11 +1,12 @@
 ---
-title: "Confinamento na pandemia causa estresse e ansiedade também nos pets"
+title: Confinamento na pandemia causa estresse e ansiedade também nos pets
 date: 2021-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## *Pesquisa revela que animais de estimação também sentem efeitos negativos do isolamento social*.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ecocídio: Contaminação das águas do Dnieper ameaça desastre ambiental e surto de antraz"
+title: 'Ecocídio: Contaminação das águas do Dnieper ameaça desastre ambiental e surto
+  de antraz'
 date: 2023-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Explosão em barragem controlada por forças russas desencadeia catástrofe ambiental na Ucrânia
 

@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs ouve o presidente do Ibama na terça"
+title: CPI das ONGs ouve o presidente do Ibama na terça
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em reunião nesta terça-feira (7), às 11h, a CPI das ONGs ouve o depoimento do presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama). Rodrigo Antonio de Agostinho Mendonça comparecerá ao colegiado na condição de convidado para falar sobre a atuação das organizações não governamentais (ONGs) e da sociedade civil de interesse público (Oscips) na Amazônia.
 

@@ -1,11 +1,12 @@
 ---
-title: "PPSA registra arrecadação recorde para a União"
+title: PPSA registra arrecadação recorde para a União
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Comercialização de petróleo atinge R$ 1,23 bilhão.
 

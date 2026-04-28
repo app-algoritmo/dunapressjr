@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal simplifica a habilitação para atuação no comércio exterior"
+title: Receita Federal simplifica a habilitação para atuação no comércio exterior
 date: 2020-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A partir de agora, a habilitação para atuar no comércio exterior é concedida, regra geral, de forma automática, por meio do sistema Habilita.
 

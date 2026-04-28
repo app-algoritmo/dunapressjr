@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende maconha em Porto Bragado/PR"
+title: PF, em ação conjunta, apreende maconha em Porto Bragado/PR
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Na terça-feira (19/5), equipe composta por Policiais Federais e Policiais Civis/PR, no âmbito da Operação Hórus, durante patrulhamento embarcado no Lago de Itaipu, avistou uma embarcação oriunda do território paraguaio atravessando para o lado brasileiro.
 

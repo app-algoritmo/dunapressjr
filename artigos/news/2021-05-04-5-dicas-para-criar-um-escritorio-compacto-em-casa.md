@@ -1,11 +1,12 @@
 ---
-title: "5 dicas para criar um escritório compacto em casa"
+title: 5 dicas para criar um escritório compacto em casa
 date: 2021-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Otimizar espaços, investir em decoração equilibrada e aproveitar a versatilidade de mobiliário são soluções para aumentar o foco e a produtividade no home office.
 

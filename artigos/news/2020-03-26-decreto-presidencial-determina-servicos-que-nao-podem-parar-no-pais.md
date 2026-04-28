@@ -1,11 +1,12 @@
 ---
-title: "Decreto Presidencial determina serviços que não podem parar no País"
+title: Decreto Presidencial determina serviços que não podem parar no País
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, alterou, nesta quinta-feira (26), o [Decreto nº 10.282](http://ttp//www.in.gov.br/en/web/dou/-/decreto-n-10.292-de-25-de-marco-de-2020-249807965), que regulamenta a Lei nº 13.979 que regulamenta os serviços essenciais que não devem ser interrompidos durante o enfrentamento da emergência de saúde pública decorrente do novo coronavírus. O texto também tem como objetivo garantir a aquisição de bens, serviços e insumos no período de combate a doença
 

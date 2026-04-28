@@ -1,11 +1,12 @@
 ---
-title: "WhatsApp lança função para quem é ansioso"
+title: WhatsApp lança função para quem é ansioso
 date: 2023-02-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Novo recurso de envio de mídias já pode ser usufruído por alguns usuários do WhatsApp. Os mais apressadinhos estão comemorando a novidade.
 

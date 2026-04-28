@@ -1,11 +1,12 @@
 ---
-title: "Erdogan vê Netanyahu à beira do colapso"
+title: Erdogan vê Netanyahu à beira do colapso
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder turco descreveu a coligação governante em Israel como pouco saudável.
 

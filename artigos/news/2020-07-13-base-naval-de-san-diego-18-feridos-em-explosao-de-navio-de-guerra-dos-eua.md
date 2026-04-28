@@ -1,11 +1,12 @@
 ---
-title: "Base Naval de San Diego, 18 feridos em explosão, de navio de guerra dos EUA"
+title: Base Naval de San Diego, 18 feridos em explosão, de navio de guerra dos EUA
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Não está claro imediatamente o que causou chamas no USS Bonhomme Richard, um navio de assalto anfíbio; Marinha diz feridos hospitalizados com 'ferimentos que não ameaçam a vida'.
 

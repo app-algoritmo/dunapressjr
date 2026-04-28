@@ -1,12 +1,13 @@
 ---
-title: "4 dicas para manter os ratos longe de casa"
+title: 4 dicas para manter os ratos longe de casa
 date: 2022-06-22
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
-  - Health
+- Features
+- Health
 ---
+
 
 Apesar de aparecerem em filmes infantis como animais inofensivos e divertidos, os ratos podem ser verdadeiras pragas urbanas e oferecer inúmeros riscos à saúde. Segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), os roedores são portadores de mais de 35 doenças transmissíveis, como leptospirose, tifo, peste bubônica e salmonelose. 
 

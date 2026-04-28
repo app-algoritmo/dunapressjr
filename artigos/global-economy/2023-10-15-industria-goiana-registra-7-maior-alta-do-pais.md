@@ -1,11 +1,12 @@
 ---
-title: "Indústria goiana registra 7ª maior alta do país"
+title: Indústria goiana registra 7ª maior alta do país
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A indústria goiana registrou a 7ª maior alta do país, segundo levantamento divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), nesta terça-feira (10/10). Os dados da Pesquisa Industrial Mensal (PIM) apresentaram crescimento de 5,6% em agosto deste ano, na comparação com igual período de 2022.
 

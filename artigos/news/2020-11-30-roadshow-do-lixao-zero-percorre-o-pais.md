@@ -1,11 +1,12 @@
 ---
-title: "Roadshow do Lixão Zero percorre o país"
+title: Roadshow do Lixão Zero percorre o país
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério do Meio Ambiente (MMA) realiza desde o dia 27/10 um roadshow sobre o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (SINIR). Os eventos são realizados em formato virtual, em parceria com a Associação Brasileira de Empresas de Tratamento de Resíduos e Efluentes (Abetre), e cobrirão todos os estados da Federação.
 

@@ -1,11 +1,12 @@
 ---
-title: "CNI: confiança da indústria de construção tem forte queda em setembro"
+title: 'CNI: confiança da indústria de construção tem forte queda em setembro'
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice ficou em 54,7, a maior queda do índice desde março de 2021.
 

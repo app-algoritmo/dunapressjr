@@ -1,11 +1,13 @@
 ---
-title: "1,3% dos funcionários de hospitais coreanos tiveram que ir ao pronto-socorro após a 3ª dose da injeção da Pfizer"
+title: 1,3% dos funcionários de hospitais coreanos tiveram que ir ao pronto-socorro
+  após a 3ª dose da injeção da Pfizer
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um estudo publicado no início deste ano na revista Medicine analisou os profissionais de saúde coreanos sendo vacinados no Hospital Universitário Inha em Incheon, uma cidade metropolitana na área metropolitana de Seul. 
 

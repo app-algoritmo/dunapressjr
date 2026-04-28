@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O Piauí no Século  XVIII"
+title: 'Série Fatos Da Independência: O Piauí no Século  XVIII'
 date: 2023-06-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Povoamento esparso, muitos combates entre colonizadores e indígenas, afastado de (quase) tudo. Assim era o Piauí no início do século XVIII. Até 1718, o território que hoje corresponde ao estado pertenceu à Bahia e, a partir de então, passou a ser subordinado ao Maranhão. O processo de colonização da região é resultado da busca de fazendeiros por terras e mão-de-obra para escravizar. Eles partiam da Bahia, Pernambuco e Maranhão decididos a aumentar os seus negócios – e o lucro. Assim, pequenos povoados foram construídos em torno das atividades de criação e transporte de gado.
 

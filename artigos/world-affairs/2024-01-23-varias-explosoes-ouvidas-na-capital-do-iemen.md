@@ -1,11 +1,12 @@
 ---
-title: "Várias explosões ouvidas na capital do Iêmen"
+title: Várias explosões ouvidas na capital do Iêmen
 date: 2024-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Relatórios vindos do Iêmen sugerem que várias explosões foram ouvidas durante a noite na capital Sana'a.
 

@@ -1,11 +1,13 @@
 ---
-title: "Número de investidores posicionados no Tesouro Direto ultrapassa a marca de 1,5 milhão em abril"
+title: Número de investidores posicionados no Tesouro Direto ultrapassa a marca de
+  1,5 milhão em abril
 date: 2021-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dado representa um aumento de 23.915 investidores no mês.
 

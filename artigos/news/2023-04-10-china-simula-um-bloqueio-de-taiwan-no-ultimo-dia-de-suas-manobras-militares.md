@@ -1,11 +1,12 @@
 ---
-title: "China simula um bloqueio de Taiwan no último dia de suas manobras militares"
+title: China simula um bloqueio de Taiwan no último dia de suas manobras militares
 date: 2023-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A China concluiu nesta segunda-feira (10) seus exercícios militares ao redor de Taiwan com uma simulação de bloqueio da ilha e com a participação antecipada do Shandong, o segundo porta-aviões do país asiático.
 

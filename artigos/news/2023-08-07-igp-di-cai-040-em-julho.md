@@ -1,11 +1,12 @@
 ---
-title: "IGP-DI Cai 0,40% em Julho"
+title: IGP-DI Cai 0,40% em Julho
 date: 2023-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reversão de commodities Influencia as Flutuações do IGP-DI. 
 

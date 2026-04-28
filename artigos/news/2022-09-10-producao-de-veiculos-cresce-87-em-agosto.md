@@ -1,11 +1,12 @@
 ---
-title: "Produção de veículos cresce 8,7% em agosto"
+title: Produção de veículos cresce 8,7% em agosto
 date: 2022-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No mês, foram fabricadas 238 mil unidades contra 219 mil de julho.
 

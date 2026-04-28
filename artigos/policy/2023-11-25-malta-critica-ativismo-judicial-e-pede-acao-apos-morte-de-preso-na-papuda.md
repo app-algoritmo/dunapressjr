@@ -1,11 +1,12 @@
 ---
-title: "Malta critica 'ativismo judicial' e pede ação após morte de preso na Papuda"
+title: Malta critica 'ativismo judicial' e pede ação após morte de preso na Papuda
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no plenário nesta terça-feira (21), o senador Magno Malta (PL-ES) lamentou a morte de Clériston Pereira da Cunha, acusado de participação nos ataques às sedes dos Três Poderes em de janeiro deste ano. A morte do preso ocorreu na última segunda-feira (20) no complexo penitenciário da Papuda. 
 

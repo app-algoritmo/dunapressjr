@@ -1,11 +1,12 @@
 ---
-title: "Projeto muda regra para facilitar porte de arma de fogo a atirador desportivo"
+title: Projeto muda regra para facilitar porte de arma de fogo a atirador desportivo
 date: 2023-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 266/23, do deputado Marcos Pollon (PL-MS), facilita o porte de arma de fogo para os atiradores desportivos integrantes de entidades esportivas, tornando desnecessária a aprovação prévia da Polícia Federal. A proposta, que altera o [Estatuto do Desarmamento](https://www2.camara.leg.br/legin/fed/lei/2003/lei-10826-22-dezembro-2003-490580-norma-pl.html), tramita na Câmara dos Deputados.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mãe se torna atleta para homenagear filho que fez mais de 30 cirurgias em 13 anos"
+title: Mãe se torna atleta para homenagear filho que fez mais de 30 cirurgias em 13
+  anos
 date: 2023-12-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## As mãos que se dedicam ao cuidado agora também remam por amor; jovem sofreu acidente quando andava de skate aos 19 anos.
 

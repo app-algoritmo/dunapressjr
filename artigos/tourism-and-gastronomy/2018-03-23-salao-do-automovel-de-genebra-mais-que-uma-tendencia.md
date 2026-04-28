@@ -1,11 +1,12 @@
 ---
-title: "Salão do Automóvel de Genebra, mais que uma tendência!"
+title: Salão do Automóvel de Genebra, mais que uma tendência!
 date: 2018-03-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Com abertura em 8 de Março de 2018 em Palexpo pelo Presidente do Conselho de Estado François Longchamp, o 88º Salão do Automóvel de Genebra atraiu uma multidão apaixonada por carros e trouxe novidades de marcas consagradas como Bugatti, Ferrari e Lamborghini e também de pequenos fabricantes... Um evento de tradição e requinte conhecido por exibir as novas tendências do mundo automobilístico! O Salão do Automóvel de Genebra contou com o investimento de milhões de dólares! Esta edição não fugiu à regra e encantou o público de todas as idades com seus extravagantes superesportivos. André Hefti foi o responsável pela organização do Salão de Automóvel que apresentou como temática os veículos com motorização alternativa.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei tipifica tentativa de invasão a domicílio como tentativa de roubo"
+title: Projeto de Lei tipifica tentativa de invasão a domicílio como tentativa de
+  roubo
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2945/22 tipifica a tentativa de invasão a domicílio como tentativa de roubo, se o agente tem o intuito de subtrair objetos da propriedade. Com isso, o infrator estará sujeito à pena correspondente ao crime de roubo (reclusão, de quatro a dez anos), diminuída de um a dois terços.
 

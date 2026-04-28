@@ -1,11 +1,13 @@
 ---
-title: "Situação atual dos hospitais universitários federais – Uma parceria EBSERH e Ministérios para enfrentamento da epidemia"
+title: Situação atual dos hospitais universitários federais – Uma parceria EBSERH
+  e Ministérios para enfrentamento da epidemia
 date: 2020-05-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 **Informativo diário é divulgado no portal e nas redes sociais do Ministério da Educação**.
 

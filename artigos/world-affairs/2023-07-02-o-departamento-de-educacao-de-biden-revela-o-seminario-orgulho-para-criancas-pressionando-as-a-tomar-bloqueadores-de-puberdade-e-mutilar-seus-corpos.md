@@ -1,11 +1,13 @@
 ---
-title: "O departamento de educação de Biden revela o seminário “Orgulho” para crianças, pressionando-as a tomar bloqueadores de puberdade e mutilar seus corpos"
+title: O departamento de educação de Biden revela o seminário “Orgulho” para crianças,
+  pressionando-as a tomar bloqueadores de puberdade e mutilar seus corpos
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Educação sob o falso presidente Joe Biden [realizou um seminário LGBT "Orgulho"](https://summit.news/2023/06/28/video-biden-department-of-education-pride-seminar-advocates-puberty-blockers-for-kids/) na semana passada, onde um aluno transgênero da oitava série falou a favor de bloqueadores de puberdade, hormônios artificiais e delatando colegas de classe por "misgendering" e "deadnaming".
 

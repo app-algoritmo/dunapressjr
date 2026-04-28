@@ -1,11 +1,12 @@
 ---
-title: "Noruega, um Estado 'Não Laico', aberto a todas as religiões"
+title: Noruega, um Estado 'Não Laico', aberto a todas as religiões
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Após as novas mudanças [constitucionais](https://lovdata.no/dokument/NL/lov/1969-06-13-25), a enciclopédia norueguesa oferece dados atualizados sobre a aplicação religiosa no país.
 

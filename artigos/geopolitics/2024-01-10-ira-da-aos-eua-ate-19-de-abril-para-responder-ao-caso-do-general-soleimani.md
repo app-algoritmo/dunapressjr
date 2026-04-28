@@ -1,11 +1,12 @@
 ---
-title: "Irã dá aos EUA até 19 de abril para responder ao caso do general Soleimani"
+title: Irã dá aos EUA até 19 de abril para responder ao caso do general Soleimani
 date: 2024-01-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Irã deu aos Estados Unidos um prazo para responder a uma queixa oficial sobre o assassinato do comandante do IRGC, general Qassem Soleimani, antes de apresentar o caso ao Tribunal Internacional de Justiça (CIJ).
 

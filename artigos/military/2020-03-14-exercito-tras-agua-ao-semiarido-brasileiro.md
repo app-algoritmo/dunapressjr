@@ -1,11 +1,12 @@
 ---
-title: "Exército trás água ao semiárido brasileiro"
+title: Exército trás água ao semiárido brasileiro
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Exército realiza a *Operação Carro Pipa*, fornecendo água potável à região semiárida brasileira
 

@@ -1,11 +1,12 @@
 ---
-title: "Não olhe, mas o caos total é desencadeado em todo o mundo"
+title: Não olhe, mas o caos total é desencadeado em todo o mundo
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A relativa paz e tranquilidade que desfrutamos por vários meses foi destruída. De repente, o caos irrompe em todo o mundo. Por toda a França, manifestantes estão incendiando cidades, as IDF acabaram de realizar a maior operação militar na Cisjordânia desde 2002, e os russos e ucranianos estão se acusando de planejar um ataque à usina nuclear de Zaporizhia. 
 

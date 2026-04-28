@@ -1,11 +1,13 @@
 ---
-title: "Governadora de SC e Fecam debatem soluções conjuntas para a pandemia e estiagem em Santa Catarina"
+title: Governadora de SC e Fecam debatem soluções conjuntas para a pandemia e estiagem
+  em Santa Catarina
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A governadora Daniela Reinehr comandou por webconferência na tarde desta quinta-feira, 26, uma reunião com a Federação Catarinense de Municípios (Fecam) e parte do primeiro escalão de Governo para tratar de soluções conjuntas para o enfrentamento das crises geradas pela pandemia de Covid-19 e pela estiagem no Estado. Durante o encontro, os representantes do executivo estadual ouviram as demandas dos prefeitos e apresentaram as ações realizadas e previstas no que se refere aos temas.
 

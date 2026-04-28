@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Justiça e Segurança Pública participa da abertura da Semana Nacional de Políticas Sobre Drogas"
+title: Ministro da Justiça e Segurança Pública participa da abertura da Semana Nacional
+  de Políticas Sobre Drogas
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta segunda-feira (22), o ministro da Justiça e Segurança Pública, André Mendonça, e o ministro da Cidadania, Onyx Lorenzoni, abriram a Semana Nacional de Políticas sobre Drogas com a retomada das reuniões do Conselho Nacional de Políticas sobre Drogas (Conad).
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério prorroga presença da Força Nacional em cinco estados"
+title: Ministério prorroga presença da Força Nacional em cinco estados
 date: 2020-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Justiça e Segurança Pública autorizou a
 prorrogação da Força Nacional de Segurança Pública no apoio às forças de

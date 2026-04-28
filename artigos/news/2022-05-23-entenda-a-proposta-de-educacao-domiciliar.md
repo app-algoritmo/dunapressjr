@@ -1,11 +1,12 @@
 ---
-title: "Entenda a proposta de educação domiciliar"
+title: Entenda a proposta de educação domiciliar
 date: 2022-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é
 

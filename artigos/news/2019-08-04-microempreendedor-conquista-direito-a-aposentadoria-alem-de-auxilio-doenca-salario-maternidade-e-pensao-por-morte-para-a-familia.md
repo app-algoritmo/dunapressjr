@@ -1,11 +1,13 @@
 ---
-title: "Microempreendedor conquista direito a aposentadoria, além de auxílio-doença, salário-maternidade e pensão por morte para a família"
+title: Microempreendedor conquista direito a aposentadoria, além de auxílio-doença,
+  salário-maternidade e pensão por morte para a família
 date: 2019-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Em cerca de 15 minutos o profissional preenche o cadastro de adesão e passa a ter um CNPJ que facilita na abertura de conta bancária, no pedido de empréstimos e na emissão de notas fiscais.
 

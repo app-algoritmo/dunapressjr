@@ -1,11 +1,13 @@
 ---
-title: "Dados impressionantes do governo mostram que os vacinados com 3 doses têm a maior taxa de mortalidade"
+title: Dados impressionantes do governo mostram que os vacinados com 3 doses têm a
+  maior taxa de mortalidade
 date: 2023-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Novas estatísticas do governo revelaram que 92% das pessoas que morreram de Covid em 2022 receberam pelo menos três doses da vacina.
 

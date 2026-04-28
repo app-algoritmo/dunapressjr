@@ -1,11 +1,12 @@
 ---
-title: "OMS provoca reação em emenda controversa para forçar nações a bloqueios"
+title: OMS provoca reação em emenda controversa para forçar nações a bloqueios
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em meio a críticas crescentes ao manejo da pandemia de COVID-19 pela Organização Mundial da Saúde, novos poderes considerados pelo órgão da ONU provocaram temores de que poderiam forçar países como Reino Unido, EUA e Austrália a adotar medidas de bloqueio ditadas pela OMS.
 

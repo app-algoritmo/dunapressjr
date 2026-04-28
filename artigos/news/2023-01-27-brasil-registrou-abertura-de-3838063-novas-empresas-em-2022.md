@@ -1,11 +1,12 @@
 ---
-title: "Brasil registrou abertura de 3.838.063 novas empresas em 2022"
+title: Brasil registrou abertura de 3.838.063 novas empresas em 2022
 date: 2023-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País encerrou o ano com 20.191.290 empresas ativas.
 

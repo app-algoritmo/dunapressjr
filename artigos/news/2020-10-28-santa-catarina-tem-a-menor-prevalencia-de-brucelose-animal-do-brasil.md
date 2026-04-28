@@ -1,11 +1,12 @@
 ---
-title: "Santa Catarina tem a menor prevalência de brucelose animal do Brasil"
+title: Santa Catarina tem a menor prevalência de brucelose animal do Brasil
 date: 2020-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Destaque internacional no cuidado com a saúde animal, Santa Catarina conquista mais um título: o estado tem a menor prevalência de brucelose animal do Brasil. A classificação do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) demonstra a excelência da bovinocultura e a qualidade da produção agropecuária catarinense.
 

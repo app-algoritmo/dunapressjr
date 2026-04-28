@@ -1,11 +1,12 @@
 ---
-title: "Acordos comerciais terão impacto de R$ 1,7 trilhão no PIB até 2040, prevê Secex"
+title: Acordos comerciais terão impacto de R$ 1,7 trilhão no PIB até 2040, prevê Secex
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativas da Secretaria de Comércio Exterior foram publicadas nesta quarta-feira (26/5), incluindo setores com maior potencial de ganhos e estratégias para países asiáticos.
 

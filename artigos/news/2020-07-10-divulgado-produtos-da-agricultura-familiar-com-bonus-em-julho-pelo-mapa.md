@@ -1,11 +1,12 @@
 ---
-title: "Divulgado produtos da agricultura familiar com bônus em julho, pelo Mapa"
+title: Divulgado produtos da agricultura familiar com bônus em julho, pelo Mapa
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os produtos que registraram queda de preço de mercado terão descontos no momento de amortização ou liquidação do crédito.
 

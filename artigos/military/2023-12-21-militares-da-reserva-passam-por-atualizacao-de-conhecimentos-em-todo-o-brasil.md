@@ -1,11 +1,12 @@
 ---
-title: "Militares da Reserva passam por atualização de conhecimentos em todo o Brasil"
+title: Militares da Reserva passam por atualização de conhecimentos em todo o Brasil
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Durante o mês de dezembro, em quartéis de todo o Brasil, são realizados os Exercícios de Apresentação da Reserva, atividade que mobiliza militares que concluíram os treinamentos e deixaram o serviço ativo nos últimos cinco anos. Na fronteira norte, o [1º Batalhão Logístico de Selva](https://1blogsl.eb.mil.br/) mobilizou dezenas de reservistas para avaliar o seu estado de prontidão e para promover a atualização dos conhecimentos e técnicas adquiridos durante o Curso de Formação do Combatente Básico. 
 

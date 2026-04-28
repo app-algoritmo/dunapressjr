@@ -1,11 +1,12 @@
 ---
-title: "Lei libera gastos contra pandemia e abre caminho para sanção do Orçamento"
+title: Lei libera gastos contra pandemia e abre caminho para sanção do Orçamento
 date: 2021-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi vetado um dispositivo que permitiria a transferência de recursos a municípios de até 50 mil habitantes, mesmo que estivessem inadimplentes com a União.
 

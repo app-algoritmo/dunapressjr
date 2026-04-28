@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova MP com regras trabalhistas para períodos de calamidade"
+title: Senado aprova MP com regras trabalhistas para períodos de calamidade
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Texto segue para promulgação.
 

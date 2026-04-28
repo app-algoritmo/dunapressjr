@@ -1,11 +1,12 @@
 ---
-title: "Governo quer ampliar municípios que fazem inspeção de produtos animais"
+title: Governo quer ampliar municípios que fazem inspeção de produtos animais
 date: 2022-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Etapa do Projeto Consim foi lançada pelo Ministério da Agricultura.
 

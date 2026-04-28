@@ -1,11 +1,12 @@
 ---
-title: "Produção nacional de petróleo teve queda de 3,8% em fevereiro"
+title: Produção nacional de petróleo teve queda de 3,8% em fevereiro
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A produção no pré-sal caiu 2,4%.
 

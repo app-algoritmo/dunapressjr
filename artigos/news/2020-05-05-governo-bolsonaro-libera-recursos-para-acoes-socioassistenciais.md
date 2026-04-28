@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro libera recursos para ações socioassistenciais"
+title: Governo Bolsonaro libera recursos para ações socioassistenciais
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Recursos são para estados, municípios e DF comprarem EPIs e alimentos e para ações de acolhimento. investimento é de 2,5 bilhões.
 

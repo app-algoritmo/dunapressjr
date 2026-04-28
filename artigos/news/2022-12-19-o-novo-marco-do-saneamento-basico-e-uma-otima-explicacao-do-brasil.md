@@ -1,11 +1,12 @@
 ---
-title: "O novo Marco do Saneamento Básico é uma ótima explicação do Brasil"
+title: O novo Marco do Saneamento Básico é uma ótima explicação do Brasil
 date: 2022-12-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O fato de haver oposição política a algo tão básico ilustra nosso atraso.
 

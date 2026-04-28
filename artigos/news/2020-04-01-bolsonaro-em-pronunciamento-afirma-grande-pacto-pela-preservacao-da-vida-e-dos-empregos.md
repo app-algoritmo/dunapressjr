@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro em pronunciamento afirma: 'Grande pacto pela preservação da vida e dos empregos'"
+title: 'Bolsonaro em pronunciamento afirma: ''Grande pacto pela preservação da vida
+  e dos empregos'''
 date: 2020-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Presidente também agradeceu o empenho e sacrifício pessoal de todos os profissionais de serviços considerados essenciais, bem como os homens e mulheres do campo.
 

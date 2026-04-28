@@ -1,11 +1,12 @@
 ---
-title: "Leilão de dois blocos de saneamento de Alagoas arrecada R$ 1,6 bilhão"
+title: Leilão de dois blocos de saneamento de Alagoas arrecada R$ 1,6 bilhão
 date: 2021-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Propostas vencedoras são das empresas Allonda e Cymi.
 

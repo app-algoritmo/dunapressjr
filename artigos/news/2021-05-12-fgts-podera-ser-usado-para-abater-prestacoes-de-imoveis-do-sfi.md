@@ -1,11 +1,12 @@
 ---
-title: "FGTS poderá ser usado para abater prestações de imóveis do SFI"
+title: FGTS poderá ser usado para abater prestações de imóveis do SFI
 date: 2021-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida valerá a partir de agosto para imóveis de até R$ 1,5 milhão.
 

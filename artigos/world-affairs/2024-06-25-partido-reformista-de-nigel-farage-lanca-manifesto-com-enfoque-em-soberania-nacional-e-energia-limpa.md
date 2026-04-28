@@ -1,11 +1,13 @@
 ---
-title: "Partido Reformista de Nigel Farage Lança Manifesto com Enfoque em Soberania Nacional e Energia Limpa"
+title: Partido Reformista de Nigel Farage Lança Manifesto com Enfoque em Soberania
+  Nacional e Energia Limpa
 date: 2024-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nesta semana, o Partido Reformista de Nigel Farage, atualmente o segundo maior partido da Grã-Bretanha, lançou seu manifesto, apresentando uma série de propostas destinadas a fortalecer a soberania nacional e promover políticas de energia limpa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar encosta em R$ 5, mas reverte movimento e fecha em forte alta"
+title: Dólar encosta em R$ 5, mas reverte movimento e fecha em forte alta
 date: 2020-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa oscilou bastante e encerrou em queda de 0,33%.
 

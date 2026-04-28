@@ -1,11 +1,12 @@
 ---
-title: "Balcão de Empregos em Itajaí, bate recorde de vagas em 2020"
+title: Balcão de Empregos em Itajaí, bate recorde de vagas em 2020
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Reaquecimento da economia faz números saltarem para 700 vagas nesta semana.
 

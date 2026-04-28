@@ -1,11 +1,13 @@
 ---
-title: "Ex-Agente da CIA Afirma Que Interesses Ocultos Impulsionam Apoio Ocidental à Ucrânia"
+title: Ex-Agente da CIA Afirma Que Interesses Ocultos Impulsionam Apoio Ocidental
+  à Ucrânia
 date: 2024-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://www.instagram.com/reel/C8TZ1G_J0MH/?utm_source=ig_embed&ig_rid=c3d65bdd-26c9-45db-b476-5f040550098f&ig_mid=651F6631-0595-4992-B468-3CEE5B06B180
 

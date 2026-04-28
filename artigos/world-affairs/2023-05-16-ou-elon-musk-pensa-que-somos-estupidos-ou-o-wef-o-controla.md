@@ -1,11 +1,12 @@
 ---
-title: "Ou Elon Musk pensa que somos estúpidos ou o WEF o controla"
+title: Ou Elon Musk pensa que somos estúpidos ou o WEF o controla
 date: 2023-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A terceira possibilidade é que Elon Musk seja estúpido, o que não é.
 

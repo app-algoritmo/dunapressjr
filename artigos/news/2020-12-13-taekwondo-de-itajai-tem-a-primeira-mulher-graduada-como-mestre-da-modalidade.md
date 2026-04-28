@@ -1,11 +1,12 @@
 ---
-title: "Taekwondo de Itajaí tem a primeira mulher graduada como mestre da modalidade"
+title: Taekwondo de Itajaí tem a primeira mulher graduada como mestre da modalidade
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No sábado (05), a auxiliar técnica de taekwondo Volnete Rosimer Fornara se tornou a primeira mulher mestre do taekwondo itajaiense. Volnete alcançou a graduação de faixa preta 4° Dan. O evento foi realizado no Ginásio Aurélio Solano de Macedo, na cidade de Balneário Piçarras. Volnete é auxiliar técnica de taekwondo da Fundação Municipal de Esporte e Lazer (FMEL) e representa o município em competições da modalidade.
 

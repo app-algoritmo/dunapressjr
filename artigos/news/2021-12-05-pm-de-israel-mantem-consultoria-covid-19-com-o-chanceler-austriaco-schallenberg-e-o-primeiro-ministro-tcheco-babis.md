@@ -1,11 +1,13 @@
 ---
-title: "PM de Israel mantém consultoria COVID-19 com o chanceler austríaco Schallenberg e o primeiro-ministro tcheco Babis"
+title: PM de Israel mantém consultoria COVID-19 com o chanceler austríaco Schallenberg
+  e o primeiro-ministro tcheco Babis
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 PM Bennett: Compartilhar informações e percepções entre diferentes líderes é muito eficaz. Quando trabalhamos juntos nessa questão, nos tornamos muito mais eficazes. Juntos, podemos proteger nossos países, nosso povo e nossa economia.
 

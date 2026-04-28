@@ -1,11 +1,12 @@
 ---
-title: "Gestão hospitalar: 3 motivos para fazer uma pós graduação￼"
+title: 'Gestão hospitalar: 3 motivos para fazer uma pós graduação￼'
 date: 2022-04-30
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Se você está aqui, provavelmente já pensou em fazer uma **pós graduação**. Correto?
 

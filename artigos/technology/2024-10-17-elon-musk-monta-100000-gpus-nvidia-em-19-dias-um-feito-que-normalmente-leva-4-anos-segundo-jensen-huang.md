@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk Monta 100.000 GPUs Nvidia em 19 Dias: Um Feito que Normalmente Leva 4 Anos, Segundo Jensen Huang"
+title: 'Elon Musk Monta 100.000 GPUs Nvidia em 19 Dias: Um Feito que Normalmente Leva
+  4 Anos, Segundo Jensen Huang'
 date: 2024-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 **Elon Musk Monta 100.000 GPUs Nvidia em 19 Dias: Um Feito que Normalmente Leva 4 Anos, Segundo Jensen Huang**
 

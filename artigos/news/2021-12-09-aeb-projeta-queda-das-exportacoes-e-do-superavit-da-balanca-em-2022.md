@@ -1,11 +1,12 @@
 ---
-title: "AEB projeta queda das exportações e do superávit da balança em 2022"
+title: AEB projeta queda das exportações e do superávit da balança em 2022
 date: 2021-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda de preço das commodities deve afetar resultado, diz executivo.
 

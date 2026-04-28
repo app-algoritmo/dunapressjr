@@ -1,11 +1,12 @@
 ---
-title: "Embaixador Russo em Washington Denuncia Retórica Russofóbica dos EUA"
+title: Embaixador Russo em Washington Denuncia Retórica Russofóbica dos EUA
 date: 2024-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O embaixador russo em Washington, Anatoly Antonov, criticou veementemente o aumento da retórica anti-russa por parte dos Estados Unidos, descrevendo-a como uma atividade provocativa destinada a desestabilizar a situação na Rússia. Em declarações citadas pela Embaixada Russa em seu canal Telegram, Antonov destacou o nível impressionante de russofobia na administração Biden, incluindo acusações de "ambições agressivas" da Rússia na Europa e referências ao país como "inimigo" dos EUA pelo Pentágono.
 

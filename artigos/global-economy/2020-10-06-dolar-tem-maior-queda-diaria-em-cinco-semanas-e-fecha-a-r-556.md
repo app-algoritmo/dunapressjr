@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda diária em cinco semanas e fecha a R$ 5,56"
+title: Dólar tem maior queda diária em cinco semanas e fecha a R$ 5,56
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu mais de 2% em dia de recuperação.
 

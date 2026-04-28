@@ -1,11 +1,13 @@
 ---
-title: "John Kerry desiste quando confrontado com FATOS sobre Co2: 'Esta não é uma conversa séria'"
+title: 'John Kerry desiste quando confrontado com FATOS sobre Co2: ''Esta não é uma
+  conversa séria'''
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Em 2019, o alarmista climático John Kerry testemunhou em uma [audiência na Câmara](https://www.climatedepot.com/2019/04/05/house-oversight-committee-to-begin-key-hearings-on-climate-change-john-kerry-to-testify/) sobre os riscos da mudança climática para a segurança nacional. MP Thomas Massie perguntou-lhe sobre a quantidade de dióxido de carbono na atmosfera. Quando Kerry não conseguiu argumentar com os fatos, ele fez o que todos os alarmistas climáticos fazem: encerrou a conversa da única maneira que sabia, afirmando que não era uma "conversa séria".
 

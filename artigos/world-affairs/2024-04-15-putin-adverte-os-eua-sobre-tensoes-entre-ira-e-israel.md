@@ -1,11 +1,12 @@
 ---
-title: "Putin Adverte os EUA Sobre Tensões entre Irã e Israel"
+title: Putin Adverte os EUA Sobre Tensões entre Irã e Israel
 date: 2024-04-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da Rússia, Vladimir Putin, emitiu um alerta claro aos Estados Unidos, pedindo para não interferirem nas crescentes tensões entre o Irã e Israel. Em um pronunciamento recente, Putin não condenou o ataque iraniano contra Israel, optando em vez disso por apelar à moderação de ambos os lados.
 

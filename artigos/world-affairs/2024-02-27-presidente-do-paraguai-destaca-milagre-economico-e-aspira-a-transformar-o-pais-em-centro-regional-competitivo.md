@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Paraguai destaca 'milagre econômico' e aspira a transformar o país em centro regional competitivo"
+title: Presidente do Paraguai destaca 'milagre econômico' e aspira a transformar o
+  país em centro regional competitivo
 date: 2024-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante seu discurso no Mobile World Congress 2024 em Barcelona, Espanha, o Presidente da República do Paraguai, Santiago Peña, enalteceu o notável progresso econômico do país, descrevendo-o como um "verdadeiro milagre econômico". Ele apontou para as impressionantes taxas de crescimento que o Paraguai registrou nos últimos anos na América do Sul e delineou um ambicioso programa de investimentos para transformar o país em um centro regional competitivo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Região Norte apresenta os menores índices de violações contra pessoas idosas"
+title: Região Norte apresenta os menores índices de violações contra pessoas idosas
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dados de denúncias de violações contra idosos apontam a região Norte como a localidade que menos registrou casos em 2019. Os números são do balanço do Disque 100 (Disque Direitos Humanos), divulgado no dia 25 de junho.
 

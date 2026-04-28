@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro mantém otimismo com crescimento econômico do país"
+title: Mercado financeiro mantém otimismo com crescimento econômico do país
 date: 2023-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativas positivas para o PIB e queda na projeção de inflação animam investidores.
 

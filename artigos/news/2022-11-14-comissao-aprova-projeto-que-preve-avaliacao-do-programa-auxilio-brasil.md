@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que prevê avaliação do programa Auxílio Brasil"
+title: Comissão aprova projeto que prevê avaliação do programa Auxílio Brasil
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Trabalho, de Administração e Serviço Público da Câmara dos Deputados aprovou o [Projeto de Lei 1072/22](https://www.camara.leg.br/noticias/878205-PROJETO-PREVE-AVALIACAO-DO-PROGRAMA-AUXILIO-BRASIL), que exige a realização de avaliação quantitativa do Programa Auxílio Brasil. Substituta do extinto Bolsa Família, essa iniciativa do governo federal transfere renda a famílias em situação de pobreza.
 

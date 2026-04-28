@@ -1,12 +1,13 @@
 ---
-title: "Forças Armadas Realizam Reuniões do Comando Conjunto Leste"
+title: Forças Armadas Realizam Reuniões do Comando Conjunto Leste
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Rio de Janeiro (RJ)** – Desde sua ativação, no dia 21
 de Março de 2020, o Comando Conjunto Leste (Cmdo Cj L) realiza reuniões diárias

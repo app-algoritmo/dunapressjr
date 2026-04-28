@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro chega ao Japão para giro por Asia e Oriente Médio"
+title: Bolsonaro chega ao Japão para giro por Asia e Oriente Médio
 date: 2019-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente Jair Bolsonaro desembarcou nesta segunda-feira
 (21) em Tóquio, no Japão, onde começa a sua viagem por cinco países da Ásia e

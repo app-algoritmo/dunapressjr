@@ -1,11 +1,13 @@
 ---
-title: "Estudos revisados por pares sugerem que as mortes cardiovasculares por vacinas de mRNA são amplamente subnotificadas"
+title: Estudos revisados por pares sugerem que as mortes cardiovasculares por vacinas
+  de mRNA são amplamente subnotificadas
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A propaganda farmacêutica continua a tranquilizar o público de que as vacinas contra a covid-19 são SEGURAS, mas a verdade sobre o holocausto #Morrerepentinamente está ao nosso redor, não importa o quanto a mídia corporativa tente nos iluminar. Estudos revisados ​​​​por pares do Japão, Catar e Coréia sugerem que a morte cardiovascular causada pelos jabs de mRNA da Pfizer e da Moderna [foi amplamente subnotificada](https://alexberenson.substack.com/p/urgent-the-cardiovascular-death-toll) . Nas revisões médicas, milhares de jovens adultos com menos de 50 anos morreram semanas (e às vezes dias) após a injeção, mas a maioria das mortes nunca foi devidamente investigada e as vacinas experimentais nunca foram consideradas como uma provável causa de morte.
 

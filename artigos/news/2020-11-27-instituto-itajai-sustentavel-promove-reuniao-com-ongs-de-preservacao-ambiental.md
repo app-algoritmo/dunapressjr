@@ -1,11 +1,12 @@
 ---
-title: "Instituto Itajaí Sustentável promove reunião com ONGs de preservação ambiental"
+title: Instituto Itajaí Sustentável promove reunião com ONGs de preservação ambiental
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Itajaí Sustentável (INIS) realizou na tarde desta terça-feira (24) uma reunião com as ONGs Escola de Surf Amigos da Atalaia e Eco Local Brasil. O encontro, realizado no Centro de Educação Ambiental (CEA), no bairro Cabeçudas, debateu ações para a destinação final dos resíduos recicláveis e sobre a coleta de lixo marinho no município de Itajaí.
 

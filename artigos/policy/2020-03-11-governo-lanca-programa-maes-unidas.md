@@ -1,11 +1,12 @@
 ---
-title: "Governo lança programa Mães Unidas"
+title: Governo lança programa Mães Unidas
 date: 2020-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos lança, na próxima quinta-feira (12), o programa Mães Unidas. O objetivo da iniciativa é promover a saúde e o bem-estar relacional de mães e filhos durante a gestação e os dois primeiros anos de vida da criança.
 

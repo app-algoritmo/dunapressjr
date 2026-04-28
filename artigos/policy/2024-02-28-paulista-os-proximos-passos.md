@@ -1,11 +1,12 @@
 ---
-title: "Paulista: os próximos passos"
+title: 'Paulista: os próximos passos'
 date: 2024-02-28
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Um milhão de pessoas na Avenida Paulista no domingo, 25 de fevereiro. Eu e outros políticos e ativistas que lá estávamos pudemos ver o oceano verde-amarelo que formava um paredão no trecho entre a Augusta e a Brigadeiro e a aglomeração nas imediações. A Paulista ficou pequena. 
 

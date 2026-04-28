@@ -1,11 +1,13 @@
 ---
-title: "Operação descobre esquema de lavagem de dinheiro com benefícios previdenciários no Ceará"
+title: Operação descobre esquema de lavagem de dinheiro com benefícios previdenciários
+  no Ceará
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Servidor do INSS e empresário foram alvos da ação desta terça-feira (30).
 

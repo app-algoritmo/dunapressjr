@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: 9.056 casos e 359 mortes registrados no Brasil em 03/04"
+title: 'Coronavírus: 9.056 casos e 359 mortes registrados no Brasil em 03/04'
 date: 2020-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde, sexta, 03 de Abril de 2020, 20h01. Última atualização em Sexta, 03 de Abril de 2020, 20h03.
 

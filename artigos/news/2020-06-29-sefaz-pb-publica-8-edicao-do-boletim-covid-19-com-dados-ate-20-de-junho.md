@@ -1,11 +1,12 @@
 ---
-title: "SEFAZ-PB publica 8ª edição do ‘Boletim Covid-19’ com dados até 20 de junho"
+title: SEFAZ-PB publica 8ª edição do ‘Boletim Covid-19’ com dados até 20 de junho
 date: 2020-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O boletim aborda os dados parciais da receita própria (ICMS, IPVA e ITCD).
 

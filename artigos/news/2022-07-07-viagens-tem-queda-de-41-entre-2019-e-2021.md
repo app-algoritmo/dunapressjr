@@ -1,11 +1,12 @@
 ---
-title: "Viagens têm queda de 41% entre 2019 e 2021"
+title: Viagens têm queda de 41% entre 2019 e 2021
 date: 2022-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informação é da Pnad Contínua Turismo 2020-2021, do IBGE.
 

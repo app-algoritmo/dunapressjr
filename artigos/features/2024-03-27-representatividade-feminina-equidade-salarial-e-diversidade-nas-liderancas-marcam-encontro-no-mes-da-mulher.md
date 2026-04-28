@@ -1,11 +1,13 @@
 ---
-title: "Representatividade feminina, equidade salarial e diversidade nas lideranças marcam encontro no mês da mulher"
+title: Representatividade feminina, equidade salarial e diversidade nas lideranças
+  marcam encontro no mês da mulher
 date: 2024-03-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Evento organizado por lideranças femininas destaca o panorama das mulheres no mercado de trabalho e aposta em mudanças estruturais para um futuro mais diverso e inclusivo.
 

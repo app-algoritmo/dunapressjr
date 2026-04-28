@@ -1,11 +1,12 @@
 ---
-title: "Mobbing no trabalho?, como encarar e denunciar"
+title: Mobbing no trabalho?, como encarar e denunciar
 date: 2020-01-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 ## **§ 13-9. ***Os efeitos das violações da proibição de discriminação* ([LovData](https://lovdata.no/dokument/NL/lov/2005-06-17-62/KAPITTEL_14?q=mobbing%20p%C3%A5%20jobb#KAPITTEL_14)).
 

@@ -1,11 +1,12 @@
 ---
-title: "Transportadores rodoviários de carga não precisarão renovar registro"
+title: Transportadores rodoviários de carga não precisarão renovar registro
 date: 2022-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Validade do cadastro passará a ser indeterminada.
 

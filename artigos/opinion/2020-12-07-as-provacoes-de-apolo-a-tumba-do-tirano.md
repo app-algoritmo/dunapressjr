@@ -1,11 +1,12 @@
 ---
-title: "As Provações de Apolo: A Tumba do Tirano"
+title: 'As Provações de Apolo: A Tumba do Tirano'
 date: 2020-12-07
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Devo reconhecer que Riordan não cessa de surpreender e encantar. Mesmo depois de haver terminado minha maratona de leituras das peças de Shakespeare (Otelo segue sendo a que mais me impacta) e de Camões, pude ter prazer ao acompanhar o outrora deus do sol, música, entre outras coisas, em seu corpo adolescente lutando contra imperadores romanos e um rei tirano.
 

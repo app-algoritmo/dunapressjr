@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk Alerta: Eleições de 2024 Marcadas por Disputa Sobre Cidadania nos EUA"
+title: 'Elon Musk Alerta: Eleições de 2024 Marcadas por Disputa Sobre Cidadania nos
+  EUA'
 date: 2024-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Elon Musk, o visionário empresário por trás da fabricante de veículos elétricos Tesla e da plataforma social X, fez um alerta contundente em relação às eleições presidenciais de novembro de 2024 nos Estados Unidos. Ele previu que este seria o último pleito "realmente decidido pelos cidadãos dos EUA".
 

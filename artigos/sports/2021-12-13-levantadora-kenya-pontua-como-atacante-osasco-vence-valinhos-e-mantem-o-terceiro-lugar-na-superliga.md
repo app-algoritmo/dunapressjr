@@ -1,11 +1,13 @@
 ---
-title: "Levantadora Kenya pontua como atacante, Osasco vence Valinhos e mantém o terceiro lugar na Superliga"
+title: Levantadora Kenya pontua como atacante, Osasco vence Valinhos e mantém o terceiro
+  lugar na Superliga
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Dezembro, 2021 -** A levantadora Kenya voltou ao time do Osasco São Cristóvão Saúde após conquistar o título pan-americano sub23 com a seleção brasileira. E voltou em grande estilo. A jovem atleta de 21 anos substituiu Fabíola, poupada, e foi o destaque da vitória sobre o Country Club Valinhos por 3 sets a 1, na noite desta sexta-feira (10), no ginásio José Liberatti. Além de distribuir bem as jogadas, marcou 11 pontos e ganhou o troféu VivaVôlei. A equipe osasquense teve uma novidade em quadra. A ponteira Joycinha entrou em quadra para sua estreia e ficou à disposição do técnico Luizomar.
 

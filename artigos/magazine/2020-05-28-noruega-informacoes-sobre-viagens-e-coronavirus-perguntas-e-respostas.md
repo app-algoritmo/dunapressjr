@@ -1,11 +1,12 @@
 ---
-title: "Noruega: Informações sobre viagens e coronavírus - perguntas e respostas"
+title: 'Noruega: Informações sobre viagens e coronavírus - perguntas e respostas'
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Ministério das Relações Exteriores desaconselha as viagens que não são estritamente necessárias para todos os países. O conselho de viagem é válido até 20 de agosto. Aqui você encontrará respostas para as perguntas atuais sobre viagens e a situação do surto.
 

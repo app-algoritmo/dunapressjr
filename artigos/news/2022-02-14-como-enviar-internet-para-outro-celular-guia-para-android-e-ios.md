@@ -1,11 +1,12 @@
 ---
-title: "Como enviar internet para outro celular? – Guia para Android e iOS!"
+title: Como enviar internet para outro celular? – Guia para Android e iOS!
 date: 2022-02-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 **Como enviar internet para outro celular**? Tem como compartilhar a internet de um smartphone para outro smartphone ou só é possível conectar um celular em uma rede fixa como o wifi? Caso seja possível realizar esse procedimento, quais são os passos que devemos seguir?
 

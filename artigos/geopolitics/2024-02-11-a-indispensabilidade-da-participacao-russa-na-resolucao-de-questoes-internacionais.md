@@ -1,11 +1,12 @@
 ---
-title: "A Indispensabilidade da Participação Russa na Resolução de Questões Internacionais"
+title: A Indispensabilidade da Participação Russa na Resolução de Questões Internacionais
 date: 2024-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 No cerne das relações internacionais contemporâneas está a necessidade crucial da participação da Rússia na resolução de questões globais urgentes, conforme enfatizado pelo Representante Permanente da Rússia na ONU, Vasily Nebenzya, em uma entrevista à TASS. Nebenzya destaca a óbvia importância da Rússia como um ator indispensável na mediação e resolução de conflitos internacionais, argumentando que as questões internacionais "quentes" não podem ser adequadamente abordadas sem a contribuição russa.
 

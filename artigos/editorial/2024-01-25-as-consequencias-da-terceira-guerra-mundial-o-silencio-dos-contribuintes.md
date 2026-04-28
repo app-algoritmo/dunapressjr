@@ -1,12 +1,13 @@
 ---
-title: "As Consequências da Terceira Guerra Mundial: O Silêncio dos Contribuintes"
+title: 'As Consequências da Terceira Guerra Mundial: O Silêncio dos Contribuintes'
 date: 2024-01-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Editorial
-  - Geopolitics
+- Editorial
+- Geopolitics
 ---
+
 
 Em meio às tensões geopolíticas e aos discursos alarmantes de políticos, comentaristas e líderes militares de alta patente em todo o mundo, a possibilidade de uma terceira guerra mundial tornou-se uma sombra ameaçadora. Curiosamente, nesse cenário de incertezas, pouco se discute sobre as consequências diretas que recairiam sobre os contribuintes, aqueles que financiam as maquinarias de guerra com seus impostos.
 

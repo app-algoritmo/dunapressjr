@@ -1,11 +1,13 @@
 ---
-title: "IR 2024: Veja como ajudar o Pequeno Cotolengo doando parte do imposto devido ou a restituir"
+title: 'IR 2024: Veja como ajudar o Pequeno Cotolengo doando parte do imposto devido
+  ou a restituir'
 date: 2024-04-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Doação pode ser de até 6% do imposto. Os recursos vão beneficiar crianças e idosos do Complexo de Saúde.
 

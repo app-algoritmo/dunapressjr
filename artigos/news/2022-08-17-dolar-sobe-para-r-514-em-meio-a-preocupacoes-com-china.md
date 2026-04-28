@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,14, em meio a preocupações com China"
+title: Dólar sobe para R$ 5,14, em meio a preocupações com China
 date: 2022-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa de valores alterna altas e baixas, mas fecha com alta de 0,43%.
 

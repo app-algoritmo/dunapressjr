@@ -1,11 +1,12 @@
 ---
-title: "PF prende foragido da Justiça no Espírito Santo"
+title: PF prende foragido da Justiça no Espírito Santo
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal e a Polícia Rodoviária Federal prenderam nessa quinta-feira, 25/6, na Rodovia do Contorno (BR 101), Cariacica/ES, indivíduo foragido da Penitenciária Semiaberta de Vila Velha (PSVV), em 06/08/2018, condenado por tráfico de drogas, roubo e homicídio.
 

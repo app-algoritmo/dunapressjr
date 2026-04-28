@@ -1,11 +1,13 @@
 ---
-title: "Brazil's Electoral Eclipse: Confessions of Interference and the Moral Bankruptcy of a Nation"
+title: 'Brazil''s Electoral Eclipse: Confessions of Interference and the Moral Bankruptcy
+  of a Nation'
 date: 2025-10-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Politics and Society
+- Politics and Society
 ---
+
 
 ## Brazil 2022 Election Interference: Barroso's Revelations and the Path to National Ungovernability in 2025
 

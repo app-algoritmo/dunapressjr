@@ -1,11 +1,12 @@
 ---
-title: "Investimento estrangeiro no setor produtivo cai 12,4% em 2020"
+title: Investimento estrangeiro no setor produtivo cai 12,4% em 2020
 date: 2021-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são no Relatório de Investimento Direto divulgado pelo BC.
 

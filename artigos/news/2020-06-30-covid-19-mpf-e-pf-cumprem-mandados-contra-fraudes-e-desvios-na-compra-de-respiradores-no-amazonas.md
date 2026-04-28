@@ -1,11 +1,13 @@
 ---
-title: "Covid-19: MPF e PF cumprem mandados contra fraudes e desvios na compra de respiradores no Amazonas"
+title: 'Covid-19: MPF e PF cumprem mandados contra fraudes e desvios na compra de
+  respiradores no Amazonas'
 date: 2020-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Investigadores cumprem oito prisões temporárias, além de buscas, apreensões e bloqueio de bens.
 

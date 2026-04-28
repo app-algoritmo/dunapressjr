@@ -1,11 +1,13 @@
 ---
-title: "Os problemas mundiais atuais começaram após o colapso da União Soviética, diz Putin"
+title: Os problemas mundiais atuais começaram após o colapso da União Soviética, diz
+  Putin
 date: 2023-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder russo lembrou que os estados então "distribuíram as zonas de sua influência entre si e não interferiram uns nos outros".
 

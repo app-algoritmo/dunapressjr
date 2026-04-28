@@ -1,11 +1,12 @@
 ---
-title: "Balança tem superávit de US$ 23,04 bilhões no ano, com alta de 63,5%"
+title: Balança tem superávit de US$ 23,04 bilhões no ano, com alta de 63,5%
 date: 2021-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio sobe 25% e chega a US$167,98 bilhões, com US$ 95,51 bilhões em exportações e US$ 72,47 bilhões em importações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Luxury Perfume Brands: Tradition and Innovation"
+title: 'Luxury Perfume Brands: Tradition and Innovation'
 date: 2024-08-11
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 The History of Perfumes: From Ancient Rituals to Social Prestige
 

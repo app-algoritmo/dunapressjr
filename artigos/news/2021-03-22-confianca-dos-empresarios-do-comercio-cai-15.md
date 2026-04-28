@@ -1,11 +1,12 @@
 ---
-title: "Confiança dos empresários do comércio cai 1,5%"
+title: Confiança dos empresários do comércio cai 1,5%
 date: 2021-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a quarta queda do indicador, revela pesquisa da CNC.
 

@@ -1,11 +1,13 @@
 ---
-title: "Plástico biodegradável feito com casca da laranja é criado por estudantes de Brasília"
+title: Plástico biodegradável feito com casca da laranja é criado por estudantes de
+  Brasília
 date: 2020-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Estudantes do Centro de Ensino Médio 2 do Gama, no Distrito Federal, desenvolveram um plástico biodegradável, feito da casca da laranja. O projeto, realizado junto ao professor de química Alex Aragão, é uma iniciativa de sustentabilidade, tem exposição prevista na Ásia e perspectiva para se tornar comercial em 2021.
 

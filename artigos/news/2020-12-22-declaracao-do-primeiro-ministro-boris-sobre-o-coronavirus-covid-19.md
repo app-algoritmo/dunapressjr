@@ -1,11 +1,12 @@
 ---
-title: "Declaração do Primeiro Ministro Boris  sobre o coronavírus (COVID-19)"
+title: Declaração do Primeiro Ministro Boris  sobre o coronavírus (COVID-19)
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O primeiro-ministro Boris Johnson deu uma declaração na coletiva de imprensa do coronavírus.
 

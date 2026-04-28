@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta influenciado por apresentação do novo marco fiscal brasileiro"
+title: Ibovespa fecha em alta influenciado por apresentação do novo marco fiscal brasileiro
 date: 2023-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Expectativa pela entrega do novo marco fiscal e divulgação do PIB chinês impactaram mercado brasileiro e levaram dólar a subir frente ao real.
 

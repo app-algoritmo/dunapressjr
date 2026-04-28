@@ -1,11 +1,12 @@
 ---
-title: "Açúcar de fruta pode ser fonte de energia renovável"
+title: Açúcar de fruta pode ser fonte de energia renovável
 date: 2022-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Arthur Phillipe Silva de Paiva é bacharel em Química do Petróleo pela Universidade Federal do Rio Grande do Norte (UFRN) e mestre em Química pela Universidade Federal do Rio de Janeiro (UFRJ). Ele continua no programa de pós-graduação da instituição fluminense, agora no doutorado. Em sua pesquisa, ele tenta extrair da biomassa da frutose, açúcar presente em frutas, o levulinato de etila, que pode ser usado em combustíveis e na indústria de cosméticos. É um processo que usa fonte de energia renovável. 
 

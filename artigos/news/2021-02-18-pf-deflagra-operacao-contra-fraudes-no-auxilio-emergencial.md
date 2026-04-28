@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra operação contra fraudes no auxílio emergencial"
+title: PF deflagra operação contra fraudes no auxílio emergencial
 date: 2021-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Duzentos policiais cumprem 73 mandados de busca e apreensão.
 

@@ -1,12 +1,13 @@
 ---
-title: "Blue November: The Importance of Men's Health Awareness"
+title: 'Blue November: The Importance of Men''s Health Awareness'
 date: 2024-11-27
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Health
-  - Lifestyle
+- Health
+- Lifestyle
 ---
+
 
 The month of November is dedicated to raising awareness about men's health, particularly in relation to prostate cancer. This campaign, known as **Blue November**, aims to alert and inform the male population about the importance of prevention, early diagnosis, and general health care. While prostate cancer is the primary focus of this campaign, Blue November also seeks to address a range of issues related to mental health, cardiovascular diseases, and the promotion of healthy habits.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça superou a meta de 100 leilões de bens apreendidos de criminosos em 2020"
+title: Ministério da Justiça superou a meta de 100 leilões de bens apreendidos de
+  criminosos em 2020
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública superou a meta de 100 leilões de bens apreendidos de criminosos em 2020. Até o fim de novembro, um mês antes do planejado, 107 leilões foram promovidos pela Secretaria Nacional de Políticas sobre Drogas (Senad). O total é 907% superior ao número de hastes públicas abertas em 2019, quando foram feitos 11 leilões.
 

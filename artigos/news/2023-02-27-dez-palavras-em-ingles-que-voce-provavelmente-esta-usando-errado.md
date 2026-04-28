@@ -1,11 +1,12 @@
 ---
-title: "Dez palavras em inglês que você provavelmente está usando errado"
+title: Dez palavras em inglês que você provavelmente está usando errado
 date: 2023-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quando se aprende um novo idioma, é necessário aprender um novo conjunto de vocábulos, o que é instigante, porém desafiador. Quanto mais o tempo passa, mais complexo é, para o cérebro, fazer novas conexões entre palavras e seus significados. E essa dificuldade pode aumentar quando se fala de expressões idiomáticas e de falsos cognatos, por exemplo, aquelas palavras que são muito parecidas com o português, mas que têm significados completamente distintos. 
 

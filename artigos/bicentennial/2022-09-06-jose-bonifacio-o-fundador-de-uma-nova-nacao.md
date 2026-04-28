@@ -1,12 +1,13 @@
 ---
-title: "José Bonifácio, o fundador de Uma Nova Nação"
+title: José Bonifácio, o fundador de Uma Nova Nação
 date: 2022-09-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 A história é caprichosa, e é pena que certas injustiças somente muito tarde sejam reparadas. José Bonifácio, a cabeça pensante, o articulador da nossa independência, caiu injustiçado. O Imperador, ao sentir-se ameaçado pela liderança inconteste, que havia dirigido com êxito a guerra civil contra as Cortes de Lisboa e presidia a Assembleia Constituinte, passa a persegui-lo. Em consequência, o Patriarca se demite do cargo de ministro de Estado. Em 12 de novembro de 1823, Bonifácio, Martim Francisco e Antônio Carlos foram presos e condenados ao exílio.
 

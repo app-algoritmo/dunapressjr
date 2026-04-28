@@ -1,11 +1,12 @@
 ---
-title: "BC: contas externas têm saldo negativo de US$ 5,7 bilhões em setembro"
+title: 'BC: contas externas têm saldo negativo de US$ 5,7 bilhões em setembro'
 date: 2022-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Investimentos diretos no país somaram US$ 9,2 bilhões.
 

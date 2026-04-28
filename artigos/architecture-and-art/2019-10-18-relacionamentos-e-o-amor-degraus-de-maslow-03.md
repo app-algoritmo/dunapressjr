@@ -1,11 +1,12 @@
 ---
-title: "Relacionamentos e o amor – Degraus de Maslow 03"
+title: Relacionamentos e o amor – Degraus de Maslow 03
 date: 2019-10-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## O universo inteiro é eletromagnético e tudo é informação e onda.
 Quando você faz uma faculdade ou um curso, você está apenas assimilando ondas de imagem e de informações.

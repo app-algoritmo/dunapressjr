@@ -1,11 +1,12 @@
 ---
-title: "Conab reduz estimativa para produção de grãos da safra 2021/2022"
+title: Conab reduz estimativa para produção de grãos da safra 2021/2022
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produtores devem colher cerca de 268,2 milhões de toneladas de grão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria aumenta 4,8 pontos em maio"
+title: Confiança da indústria aumenta 4,8 pontos em maio
 date: 2021-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado rompe quatro quedas consecutivas do índice.
 

@@ -1,11 +1,12 @@
 ---
-title: "Acordo de Cooperação Técnica viabiliza investimentos na área de Defesa"
+title: Acordo de Cooperação Técnica viabiliza investimentos na área de Defesa
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta terça-feira (09), o Ministério da Defesa e a Federação das Indústrias do Estados de São Paulo (FIESP) assinaram Acordo de Cooperação Técnica para elaboração de soluções estratégicas de financiamentos e investimentos na Base Científica, Tecnológica e Industrial de Defesa (BCTID). A primeira ação é o desenvolvimento e operacionalização de mecanismo financeiro informatizado (FINTECH). A ferramenta será criada especificamente para atender às demandas da Economia de Defesa.
 

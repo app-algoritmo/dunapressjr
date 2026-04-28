@@ -1,11 +1,12 @@
 ---
-title: "Preços de produtos industrializados sobem 3,36% em janeiro"
+title: Preços de produtos industrializados sobem 3,36% em janeiro
 date: 2021-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa é maior que índices de dezembro (0,39%) e janeiro de 2020 (0,35%).
 

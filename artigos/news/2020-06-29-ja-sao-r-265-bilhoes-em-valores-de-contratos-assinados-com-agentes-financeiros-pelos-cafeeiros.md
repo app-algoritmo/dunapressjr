@@ -1,11 +1,13 @@
 ---
-title: "Já são R$ 2,65 bilhões em valores de contratos assinados com agentes financeiros pelos cafeeiros"
+title: Já são R$ 2,65 bilhões em valores de contratos assinados com agentes financeiros
+  pelos cafeeiros
 date: 2020-06-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O governo vem mantendo empenho em garantir apoio ao setor, especialmente, nesse momento de pandemia.
 

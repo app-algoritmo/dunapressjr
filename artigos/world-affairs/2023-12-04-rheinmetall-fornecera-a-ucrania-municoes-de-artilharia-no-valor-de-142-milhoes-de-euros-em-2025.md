@@ -1,11 +1,13 @@
 ---
-title: "Rheinmetall fornecerá à Ucrânia munições de artilharia no valor de 142 milhões de euros em 2025"
+title: Rheinmetall fornecerá à Ucrânia munições de artilharia no valor de 142 milhões
+  de euros em 2025
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o comunicado, a ordem “abrange dezenas de milhares de projéteis completos de artilharia de 155 mm”.
 

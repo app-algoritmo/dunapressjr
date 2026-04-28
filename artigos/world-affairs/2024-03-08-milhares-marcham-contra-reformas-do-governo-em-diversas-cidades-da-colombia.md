@@ -1,11 +1,12 @@
 ---
-title: "Milhares Marcham Contra Reformas do Governo em Diversas Cidades da Colômbia"
+title: Milhares Marcham Contra Reformas do Governo em Diversas Cidades da Colômbia
 date: 2024-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nesta quarta-feira, milhares de colombianos tomaram as ruas em várias cidades do país para protestar contra as reformas propostas pelo governo do presidente Gustavo Petro. De acordo com o balanço da Polícia Nacional, pelo menos 52 mil pessoas participaram das manifestações convocadas pela oposição.
 

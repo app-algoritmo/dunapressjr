@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump é indicado ao Prêmio Nobel da Paz sobre acordo de paz Israel-Emirados Árabes Unidos"
+title: Donald Trump é indicado ao Prêmio Nobel da Paz sobre acordo de paz Israel-Emirados
+  Árabes Unidos
 date: 2021-02-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ex-presidente Donald Trump foi indicado ao Prêmio Nobel da Paz na manhã de segunda-feira por um membro estoniano do Parlamento Europeu, Jaak Madison.
 

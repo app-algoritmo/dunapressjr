@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal anuncia medidas econômicas para ajudar produtores rurais"
+title: Governo Federal anuncia medidas econômicas para ajudar produtores rurais
 date: 2020-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Entre as decisões, está a prorrogação das parcelas de financiamentos e recursos para estocagem e comercialização. Também haverá ajuda para os produtores afetados pela seca
 

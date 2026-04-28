@@ -1,11 +1,12 @@
 ---
-title: "Falta de vacina acende alerta para cuidados com catapora"
+title: Falta de vacina acende alerta para cuidados com catapora
 date: 2024-02-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Em tempos de falta de vacina contra a catapora em algumas regiões do país, é importante que pais e responsáveis estejam atentos aos principais sintomas da doença e tomem os devidos cuidados para evitar a transmissão.
 

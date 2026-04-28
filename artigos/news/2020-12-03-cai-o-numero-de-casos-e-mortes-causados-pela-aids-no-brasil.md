@@ -1,11 +1,12 @@
 ---
-title: "Cai o número de casos e mortes causados pela Aids no Brasil"
+title: Cai o número de casos e mortes causados pela Aids no Brasil
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste 1° de dezembro, lembrado como Dia Mundial de Luta contra a Aids, o Ministério da Saúde apresentou dados que mostram queda no número de casos de detecção e de mortes pela doença no Brasil. Entre 2012 e 2019 houve um decréscimo de 18,7% na taxa de detecção de Aids. Já a taxa de mortalidade teve queda de 17,1% nos últimos cinco anos, entre 2015 e 2019.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial fecha 2022 em 5,79%"
+title: Inflação oficial fecha 2022 em 5,79%
 date: 2023-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alimentos e bebidas, principalmente, puxaram o índice.
 

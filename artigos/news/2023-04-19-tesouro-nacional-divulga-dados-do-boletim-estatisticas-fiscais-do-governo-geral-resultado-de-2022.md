@@ -1,11 +1,13 @@
 ---
-title: "Tesouro Nacional divulga dados do Boletim Estatísticas Fiscais do Governo Geral - Resultado de 2022"
+title: Tesouro Nacional divulga dados do Boletim Estatísticas Fiscais do Governo Geral
+  - Resultado de 2022
 date: 2023-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investimento líquido do governo geral no ano registrou primeiro valor positivo desde 2015.
 

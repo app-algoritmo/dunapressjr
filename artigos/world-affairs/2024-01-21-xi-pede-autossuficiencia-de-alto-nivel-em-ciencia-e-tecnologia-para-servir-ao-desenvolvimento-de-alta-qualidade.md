@@ -1,11 +1,13 @@
 ---
-title: "Xi pede autossuficiência de alto nível em ciência e tecnologia para servir ao desenvolvimento de alta qualidade"
+title: Xi pede autossuficiência de alto nível em ciência e tecnologia para servir
+  ao desenvolvimento de alta qualidade
 date: 2024-01-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente chinês, Xi Jinping, pediu, em instruções dadas na cerimônia do Prêmio Nacional de Engenheiros, uma autossuficiência de alto nível em ciência e tecnologia para servir ao desenvolvimento de alta qualidade.
 

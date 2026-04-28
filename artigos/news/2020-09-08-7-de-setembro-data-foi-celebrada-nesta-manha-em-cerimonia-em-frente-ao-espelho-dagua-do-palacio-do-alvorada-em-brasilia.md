@@ -1,11 +1,13 @@
 ---
-title: "7 De Setembro: Data foi celebrada nesta manhã, em cerimônia em frente ao espelho d'água do Palácio do Alvorada, em Brasília"
+title: '7 De Setembro: Data foi celebrada nesta manhã, em cerimônia em frente ao espelho
+  d''água do Palácio do Alvorada, em Brasília'
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Já podeis, da Pátria filhos, ver contente a mãe gentil. Já raiou a liberdade, no horizonte do Brasil”. Com essas estrofes começa o Hino da Independência do Brasil, que comemora a liberdade do País após Dom Pedro I, em 7 de setembro de 1822, ter proclamado o Brasil independente de Portugal na Província de São Paulo, às margens do Rio Ipiranga e cercado pela guarda imperial.
  

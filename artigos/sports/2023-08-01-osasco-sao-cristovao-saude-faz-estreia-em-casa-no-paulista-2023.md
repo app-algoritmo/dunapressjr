@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde faz estreia em casa no Paulista 2023"
+title: Osasco São Cristóvão Saúde faz estreia em casa no Paulista 2023
 date: 2023-08-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Torcida poderá matar a saudade da equipe, que conta com a volta de Camila Brait, no próximo dia 18, na partida contra São Caetano.
 

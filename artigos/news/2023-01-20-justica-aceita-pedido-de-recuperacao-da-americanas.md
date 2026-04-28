@@ -1,11 +1,12 @@
 ---
-title: "Justiça aceita pedido de recuperação da Americanas"
+title: Justiça aceita pedido de recuperação da Americanas
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A cobrança das dívidas continua suspensas.
 

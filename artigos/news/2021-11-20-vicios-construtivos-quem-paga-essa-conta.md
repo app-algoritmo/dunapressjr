@@ -1,11 +1,12 @@
 ---
-title: "Vícios construtivos: quem paga essa conta?"
+title: 'Vícios construtivos: quem paga essa conta?'
 date: 2021-11-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quando surge algum problema em condomínios, moradores, proprietários, construtoras, imobiliárias, arquitetos e síndicos entram em uma verdadeira disputa para descobrir e apontar o responsável pelo dano. Esse tema tem sido recorrente na área de Direito Imobiliário. De acordo com a doutora em Engenharia da Construção e professora nos eixos de Materiais e Construção Civil do curso de Engenharia Civil da Universidade Positivo, Ana Paula Brandão Capraro, vícios construtivos são anomalias, defeitos ou imperfeições encontradas em um imóvel, que afetam o uso dele e comprometem a finalidade para a qual se destina, seja residencial, comercial, órgão público etc. 
 

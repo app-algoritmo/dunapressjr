@@ -1,11 +1,13 @@
 ---
-title: "Estado da Paraíba destina R$ 5,4 milhões para pagamento do Garantia-Safra a agricultores de 58 municípios"
+title: Estado da Paraíba destina R$ 5,4 milhões para pagamento do Garantia-Safra a
+  agricultores de 58 municípios
 date: 2021-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Governo da Paraíba destinou R$ 5,4 milhões de contrapartida para o pagamento do Garantia-Safra que irá contemplar agricultores de 58 municípios paraibanos até o final de fevereiro. O benefício tem o objetivo de garantir a segurança alimentar de agricultores familiares que comprovaram a perda de 50% da produção agrícola.
 

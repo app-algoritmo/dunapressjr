@@ -1,11 +1,12 @@
 ---
-title: "Proposta de Bolsonaro de mudar ICMS de combustíveis deve atrair forte resistência"
+title: Proposta de Bolsonaro de mudar ICMS de combustíveis deve atrair forte resistência
 date: 2020-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Uma proposta do presidente Jair Bolsonaro de alterar a
 cobrança do ICMS sobre combustíveis para reduzir preços da gasolina e do diesel

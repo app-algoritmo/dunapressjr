@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde 'desfila' no domingo de Carnaval e bate Bauru por 3 a 0"
+title: Osasco São Cristóvão Saúde 'desfila' no domingo de Carnaval e bate Bauru por
+  3 a 0
 date: 2024-02-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe do técnico Luizomar mostrou consistência e eficiência do saque aos contra-ataques para conquistar a oitava vitória seguida da Superliga e segurar a vice-liderança.
 

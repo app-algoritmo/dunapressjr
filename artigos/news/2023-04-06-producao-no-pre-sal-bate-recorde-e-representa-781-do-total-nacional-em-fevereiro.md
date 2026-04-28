@@ -1,11 +1,12 @@
 ---
-title: "Produção no pré-sal bate recorde e representa 78,1% do total nacional em fevereiro"
+title: Produção no pré-sal bate recorde e representa 78,1% do total nacional em fevereiro
 date: 2023-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram produzidos 3,268 milhões de barris de óleo equivalente por dia
 

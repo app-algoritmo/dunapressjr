@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança do Consumidor (ICC) atinge o maior nível desde janeiro de 2019, impulsionado por expectativas futuras"
+title: Índice de Confiança do Consumidor (ICC) atinge o maior nível desde janeiro
+  de 2019, impulsionado por expectativas futuras
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado do FGV IBRE revela alta pelo quarto mês consecutivo e reflete otimismo em relação à economia e finanças familiares. 
 

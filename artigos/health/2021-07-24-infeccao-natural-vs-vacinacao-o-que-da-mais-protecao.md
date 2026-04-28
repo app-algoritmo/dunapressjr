@@ -1,11 +1,12 @@
 ---
-title: "Infecção natural vs vacinação: o que dá mais proteção?"
+title: 'Infecção natural vs vacinação: o que dá mais proteção?'
 date: 2021-07-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Quase 40% dos novos pacientes com COVID foram vacinados - em comparação com apenas 1% que havia sido infectado anteriormente.
 

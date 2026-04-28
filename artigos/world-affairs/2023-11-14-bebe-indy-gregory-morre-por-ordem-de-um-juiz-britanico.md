@@ -1,11 +1,12 @@
 ---
-title: "Bebê Indy Gregory morre por ordem de um juiz britânico"
+title: Bebê Indy Gregory morre por ordem de um juiz britânico
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **A pequena Indy Gregory morreu esta manhã. **Depois de ser condenada à morte pela justiça britânica, a bebé de oito meses morreu no hospital, **desligada da respiração artificial que a mantinha viva** . A ordem do juiz pretendia manter a “dignidade de vida” de Indy.
 

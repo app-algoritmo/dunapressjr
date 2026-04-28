@@ -1,11 +1,12 @@
 ---
-title: "Publicada portaria que cria o Programa InovaNióbio"
+title: Publicada portaria que cria o Programa InovaNióbio
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O objetivo é o desenvolvimento integral da cadeia produtiva do nióbio.
 

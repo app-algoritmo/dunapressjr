@@ -1,11 +1,12 @@
 ---
-title: "Técnicos da Defesa Civil irão auxiliar ações de resposta aos desastres no Sul"
+title: Técnicos da Defesa Civil irão auxiliar ações de resposta aos desastres no Sul
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Equipes da Secretaria Nacional de Proteção e Defesa Civil (Sedec) vêm acompanhando, desde as primeiras ocorrências, a situação das fortes chuvas e vendavais que estão afetando os estados do Sul do País. Técnicos do Centro Nacional de Gerenciamento de Riscos e Desastres (Cenad), da Defesa Civil Nacional, estão em contato permanente com as defesas civis locais – estado e municípios atingidos – para a emissão de alertas, avaliação de riscos e de danos já provocados.
 

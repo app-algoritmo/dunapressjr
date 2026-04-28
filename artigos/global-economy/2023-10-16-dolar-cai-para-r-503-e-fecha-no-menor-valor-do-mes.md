@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,03 e fecha no menor valor do mês"
+title: Dólar cai para R$ 5,03 e fecha no menor valor do mês
 date: 2023-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores recupera terreno em dia de alívio no mercado internacional.
 

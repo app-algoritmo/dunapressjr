@@ -1,11 +1,13 @@
 ---
-title: "Tribunal dos EUA Bloqueia Expansão da Lei de Justiça das Trabalhadoras Grávidas para Incluir Aborto"
+title: Tribunal dos EUA Bloqueia Expansão da Lei de Justiça das Trabalhadoras Grávidas
+  para Incluir Aborto
 date: 2024-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Tribunal Distrital dos Estados Unidos para o Distrito Ocidental da Louisiana bloqueou temporariamente a tentativa da administração do presidente Joe Biden de interpretar a Lei de Justiça das Trabalhadoras Grávidas (PWFA) como obrigando todos os empregadores a pagarem pelos abortos de seus trabalhadores, independentemente da crença ou afiliação religiosa.
 

@@ -1,11 +1,13 @@
 ---
-title: "Diplomatas europeus temem que Trump possa cortar a ajuda à Ucrânia se for reeleito presidente dos EUA"
+title: Diplomatas europeus temem que Trump possa cortar a ajuda à Ucrânia se for reeleito
+  presidente dos EUA
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo a agência, os diplomatas duvidam que Trump honre o compromisso de Washington de defender os aliados da NATO.
 

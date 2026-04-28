@@ -1,11 +1,12 @@
 ---
-title: "CMO aprova redução de tributos para combustíveis sem compensação"
+title: CMO aprova redução de tributos para combustíveis sem compensação
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Proposta segue para votação do plenário do Congresso.
 

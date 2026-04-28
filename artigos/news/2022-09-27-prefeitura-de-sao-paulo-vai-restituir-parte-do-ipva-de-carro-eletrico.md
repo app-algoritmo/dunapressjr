@@ -1,11 +1,12 @@
 ---
-title: "Prefeitura de São Paulo vai restituir parte do IPVA de carro elétrico"
+title: Prefeitura de São Paulo vai restituir parte do IPVA de carro elétrico
 date: 2022-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Solicitação deve ser feita pelo Portal 156
 

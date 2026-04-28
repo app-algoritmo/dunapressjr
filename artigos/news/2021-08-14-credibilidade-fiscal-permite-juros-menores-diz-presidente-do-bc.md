@@ -1,11 +1,12 @@
 ---
-title: "Credibilidade fiscal permite juros menores, diz presidente do BC"
+title: Credibilidade fiscal permite juros menores, diz presidente do BC
 date: 2021-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Roberto Campos Neto participou de palestra transmitida pela internet.
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasil terá primeiro escritório da Organização Mundial do Turismo na América Latina"
+title: Brasil terá primeiro escritório da Organização Mundial do Turismo na América
+  Latina
 date: 2020-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Anúncio foi feito pelo secretário-geral da OMT que ressaltou o trabalho realizado pelo governo brasileiro. Escritório regional será o primeiro na América Latina.
 

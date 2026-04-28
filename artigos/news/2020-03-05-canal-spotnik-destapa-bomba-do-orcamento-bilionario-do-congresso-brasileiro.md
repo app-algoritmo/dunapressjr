@@ -1,11 +1,12 @@
 ---
-title: "Canal Spotnik destapa bomba do orçamento bilionário do congresso brasileiro"
+title: Canal Spotnik destapa bomba do orçamento bilionário do congresso brasileiro
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Apresentação: Fernanda Gonçalves
 

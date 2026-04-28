@@ -1,11 +1,12 @@
 ---
-title: "FDA aprova primeira pílula oral feita de fezes humanas"
+title: FDA aprova primeira pílula oral feita de fezes humanas
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Na quarta-feira, a Food and Drug Administration (FDA) dos EUA revelou que havia autorizado a primeira pílula tomada por via oral feita a partir de fezes humanas doadas.
 

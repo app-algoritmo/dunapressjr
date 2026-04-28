@@ -1,11 +1,12 @@
 ---
-title: "Prorrogado até 19 de Julho o cadastramento de bolsistas"
+title: Prorrogado até 19 de Julho o cadastramento de bolsistas
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Instituições têm novo prazo para cadastrar alunos de mestrado e doutorado que vão integrar a ação emergencial do programa de enfrentamento ao novo coronavírus.
 

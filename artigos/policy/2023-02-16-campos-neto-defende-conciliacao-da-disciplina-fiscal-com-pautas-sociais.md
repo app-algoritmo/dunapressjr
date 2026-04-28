@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto defende conciliação da disciplina fiscal com pautas sociais"
+title: Campos Neto defende conciliação da disciplina fiscal com pautas sociais
 date: 2023-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente do Banco Central diz que parceria com o TCU é fundamental.
 

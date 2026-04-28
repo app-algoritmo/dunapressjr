@@ -1,11 +1,13 @@
 ---
-title: "Hackers brasileiros ligados a Lula sob investigação em esquema de fraude eleitoral no Paraguai"
+title: Hackers brasileiros ligados a Lula sob investigação em esquema de fraude eleitoral
+  no Paraguai
 date: 2023-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As eleições sul-americanas estão sob ameaça.
 

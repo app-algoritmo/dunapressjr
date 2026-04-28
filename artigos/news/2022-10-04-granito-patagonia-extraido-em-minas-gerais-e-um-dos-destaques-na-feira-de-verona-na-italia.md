@@ -1,11 +1,13 @@
 ---
-title: "Granito Patagônia extraído em Minas Gerais é um dos destaques na Feira de Verona, na Itália"
+title: Granito Patagônia extraído em Minas Gerais é um dos destaques na Feira de Verona,
+  na Itália
 date: 2022-10-04
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 "Motivo de orgulho para todos nós", resumiu o empresário Rodrigo Monteiro, CEO da Monteiro Coutinho Mineração, ao ver seu material na Marmomac, em Verona, Itália.
 

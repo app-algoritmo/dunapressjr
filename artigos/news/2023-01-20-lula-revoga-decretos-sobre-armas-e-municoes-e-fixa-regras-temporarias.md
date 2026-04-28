@@ -1,11 +1,12 @@
 ---
-title: "Lula revoga decretos sobre armas e munições e fixa regras temporárias"
+title: Lula revoga decretos sobre armas e munições e fixa regras temporárias
 date: 2023-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Oposição quer derrubar decreto que restringe armas. Governistas elogiam
 

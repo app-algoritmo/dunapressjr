@@ -1,11 +1,12 @@
 ---
-title: "Brasil é réu na Corte Interamericana por negar cirurgia a mulher trans"
+title: Brasil é réu na Corte Interamericana por negar cirurgia a mulher trans
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Denunciante não pode fazer procedimento de redesignação sexual pelo SUS.
 

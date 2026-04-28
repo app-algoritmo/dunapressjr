@@ -1,11 +1,12 @@
 ---
-title: "Edital de leilão do 5G é esperado para primeiro semestre de 2021"
+title: Edital de leilão do 5G é esperado para primeiro semestre de 2021
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Agência Nacional de Telecomunicações (Anatel), Leonardo Euler, afirmou que o leilão do 5G será o maior já feito para uma radiofrequência na história do Brasil. "O país ainda tem lacunas de infraestrutura de telecomunicações, seja na parte de acesso, seja na parte de transporte, e esse leilão é uma oportunidade singular de nós preenchermos essas lacunas”, ressalta. “O conselheiro Carlos Baigorri, evidentemente, tem o seu tempo de relatoria, nós envidamos esforços liderados pelo próprio ministro das Comunicações para realizar esse leilão ainda no primeiro semestre do ano que vem, evidentemente que isso é desafiador, porém factível", acredita Euler.
 

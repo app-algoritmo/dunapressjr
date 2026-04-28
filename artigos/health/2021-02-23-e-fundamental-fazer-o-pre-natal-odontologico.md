@@ -1,11 +1,12 @@
 ---
-title: "É fundamental fazer o pré-natal odontológico?"
+title: É fundamental fazer o pré-natal odontológico?
 date: 2021-02-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Escovação correta, uso do fio-dental e visita ao dentista nesse período são ações simples que evitam doenças, como a cárie e a doença periodontal. De acordo com Nicole Aimée, consultora da Coordenação de Saúde Bucal do Ministério da Saúde as alterações hormonais comuns à gestação, como aumento dos hormônios estrogênio e progesterona, podem agravar as condições de doenças periodontais, como sangramento na gengiva. 
 

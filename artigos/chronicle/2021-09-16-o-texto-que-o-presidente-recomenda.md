@@ -1,11 +1,12 @@
 ---
-title: "O texto que o Presidente recomenda"
+title: O texto que o Presidente recomenda
 date: 2021-09-16
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Quando o presidente de uma nação indica um texto ao povo todo, é porque existe algum motivo especial.**
 

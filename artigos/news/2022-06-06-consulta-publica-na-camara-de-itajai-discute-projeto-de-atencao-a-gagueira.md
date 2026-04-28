@@ -1,11 +1,12 @@
 ---
-title: "Consulta pública na Câmara de Itajaí discute projeto de atenção à gagueira"
+title: Consulta pública na Câmara de Itajaí discute projeto de atenção à gagueira
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na tarde desta quarta-feira (1º) foi realizada uma consulta pública para discutir o [Projeto de Lei Ordinária (PLO) nº 50/2022](https://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria50_2022.pdf), de autoria do vereador Marcelo Werner (PSC). O projeto, que estabelece a Lei Municipal de Atenção à Gagueira e a Pessoa que Gagueja e a Semana Municipal de Atenção à Gagueira, foi apresentado e aprovado pelos participantes.
  

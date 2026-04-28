@@ -1,11 +1,12 @@
 ---
-title: "O número de atletas com problemas cardíacos está aumentando"
+title: O número de atletas com problemas cardíacos está aumentando
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 No domingo, a partida entre AZ e NEC foi abandonada depois que o atacante Bas Dost desmaiou em campo. Ele ficou tremendo na grama. Os jogadores de ambos os clubes protegeram Dost, de 34 anos, com um grande pano. Ele foi retirado do campo em uma maca.
 

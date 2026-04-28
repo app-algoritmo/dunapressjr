@@ -1,11 +1,12 @@
 ---
-title: "Rússia aumentará a força de seu exército"
+title: Rússia aumentará a força de seu exército
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Dmitry Medvedev observou que havia planos para formar mais 1 corpo de exército, 7 divisões, 19 brigadas, 49 regimentos e 1 flotilha no próximo ano.
 

@@ -1,11 +1,13 @@
 ---
-title: "Congresso derruba vetos e torna ausência de exame toxicológico infração de trânsito"
+title: Congresso derruba vetos e torna ausência de exame toxicológico infração de
+  trânsito
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Congresso Nacional derrubou, nesta quarta-feira (4), três vetos ([VET 16/2023](https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/15749)) do presidente Luiz Inácio Lula da Silva à [Lei 14.599, de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-06-19;14599), que trata de exame toxicológico para motoristas e altera o [Código de Trânsito Brasileiro](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503) (CTB). Com a rejeição do veto, os condutores de veículos de carga, ônibus e afins que não realizarem exames toxicológicos a cada dois anos e meio serão punidos com infração gravíssima e multa multiplicada por cinco. Os trechos restaurados do projeto vão à promulgação.
 

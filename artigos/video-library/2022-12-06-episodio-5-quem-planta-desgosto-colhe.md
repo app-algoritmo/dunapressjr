@@ -1,11 +1,12 @@
 ---
-title: "Episodio 5 – Quem Planta desgosto, colhe..."
+title: Episodio 5 – Quem Planta desgosto, colhe...
 date: 2022-12-06
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

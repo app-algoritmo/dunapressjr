@@ -1,11 +1,13 @@
 ---
-title: "Características dos domicílios brasileiros: Região Sudeste lidera em apartamentos e regiões Norte e Sul possuem mais residências com paredes de madeira"
+title: 'Características dos domicílios brasileiros: Região Sudeste lidera em apartamentos
+  e regiões Norte e Sul possuem mais residências com paredes de madeira'
 date: 2023-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua revela dados sobre a composição e condição dos domicílios no país.
 

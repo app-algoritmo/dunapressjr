@@ -1,11 +1,12 @@
 ---
-title: "Juros do cheque especial e crédito não consignado caem em julho"
+title: Juros do cheque especial e crédito não consignado caem em julho
 date: 2021-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxas para empresas cresceram no mês, diz BC.
 

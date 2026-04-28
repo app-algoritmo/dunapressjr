@@ -1,11 +1,12 @@
 ---
-title: "Por que é importante ter uma gestão de saúde dos seus funcionários?"
+title: Por que é importante ter uma gestão de saúde dos seus funcionários?
 date: 2022-07-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Realizar uma **gestão de saúde **para os funcionários de uma empresa é fundamental. Isso porque não é apenas uma instituição administrativa, é muito importante na promoção do bom desenvolvimento e saúde dos colaboradores – tanto física quanto mentalmente.
 

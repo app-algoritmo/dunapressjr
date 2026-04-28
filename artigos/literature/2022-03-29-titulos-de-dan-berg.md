@@ -1,12 +1,13 @@
 ---
-title: "Títulos de Dan Berg"
+title: Títulos de Dan Berg
 date: 2022-03-29
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Literature
-  - Opinion
+- Literature
+- Opinion
 ---
+
 
 **EDIÇÃO: 28/03/2022******
 

@@ -1,11 +1,12 @@
 ---
-title: "Convocados primeiros 107 aprovados do concurso nacional da Ebserh"
+title: Convocados primeiros 107 aprovados do concurso nacional da Ebserh
 date: 2020-06-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Candidatos PCD foram chamados por meio de edital no Diário Oficial da União.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pessoas vacinadas estarão mortas em 2 anos, diz médico"
+title: Pessoas vacinadas estarão mortas em 2 anos, diz médico
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Fomos informados de que a vacinação Corona é uma vacina experimental que ainda não foi testada. 
 

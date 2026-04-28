@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde dá início à Campanha de Vacinação contra a Influenza e Sarampo nesta segunda (04)"
+title: Ministério da Saúde dá início à Campanha de Vacinação contra a Influenza e
+  Sarampo nesta segunda (04)
 date: 2022-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com um público-alvo composto por 76,5 milhões de brasileiros, o Ministério da Saúde iniciou nesta segunda-feira (4) a Campanha Nacional de Vacinação contra a Influenza e Sarampo. Com o dia “D” marcado para 30 de abril, a vacinação acontece em duas etapas e os primeiros a serem vacinados serão os idosos acima de 60 anos e trabalhadores de saúde.
 

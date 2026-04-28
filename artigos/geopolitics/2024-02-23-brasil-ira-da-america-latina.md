@@ -1,11 +1,12 @@
 ---
-title: "Brasil: Irã da América Latina?"
+title: 'Brasil: Irã da América Latina?'
 date: 2024-02-23
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Certamente não é essa a imagem que queremos para nós, mas se depender de Lula, o processo está a passos largos. Nesta semana, ele revelou suas verdadeiras intenções: aliar-se aos inimigos de Israel, do Ocidente, do estado de direito, da decência e da civilização. O discurso, que comparou as ações de legítima defesa de Israel ao Holocausto, não foi feito ao acaso, mas é parte de uma construção política perigosa para o Brasil e que só vai parar com impeachment. 
 

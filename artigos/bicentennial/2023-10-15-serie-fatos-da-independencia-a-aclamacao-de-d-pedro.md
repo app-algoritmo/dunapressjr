@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A aclamação de D Pedro"
+title: 'Série Fatos Da Independência: A aclamação de D Pedro'
 date: 2023-10-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Quando a Revolução do Porto eclodiu em Portugal, em 1820, uma das primeiras medidas foi estabelecer um novo tipo de governo para as capitanias que passaram, então, a ser chamadas de províncias: as Juntas Governativas. Elas seriam compostas por sete membros que seriam eleitos. O Rio Grande do Norte seguiu a determinação à risca. Se nem a Revolução de 1817 conseguiu tirar José Inácio Borges de sua cadeira de Governador-Geral, não seriam as Cortes de Lisboa que o fariam! Almejando continuar no poder, ele organizou de pronto a eleição e, claro, se candidatou.
 

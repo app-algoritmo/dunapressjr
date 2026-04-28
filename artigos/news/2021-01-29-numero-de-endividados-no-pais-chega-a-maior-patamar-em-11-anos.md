@@ -1,11 +1,12 @@
 ---
-title: "Número de endividados no país chega a maior patamar em 11 anos"
+title: Número de endividados no país chega a maior patamar em 11 anos
 date: 2021-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As famílias inadimplentes chegaram a 25,5% no ano passado.
 

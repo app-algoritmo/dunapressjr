@@ -1,11 +1,12 @@
 ---
-title: "Damares denuncia desaparecimento de criança no Marajó, no Pará"
+title: Damares denuncia desaparecimento de criança no Marajó, no Pará
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na terça-feira (26), a senadora Damares Alves (Republicanos-DF) reacendeu a discussão sobre o tema do tráfico de crianças. Ela relatou ter recebido denúncias, por meio de mensagens de moradores do arquipélago do Marajó, no Pará, sobre o desaparecimento de uma criança de 2 anos na cidade de Anajás no dia 19 — uma "triste coincidência", disse a senadora, pois na mesma data estreou um filme que trata da questão, intitulado *Som da Liberdade*. Segundo a parlamentar, há indícios de que a menina tenha sido vítima do tráfico de crianças.
 

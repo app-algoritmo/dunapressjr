@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem 4,6 milhões de endividados sem capacidade de pagamento"
+title: Brasil tem 4,6 milhões de endividados sem capacidade de pagamento
 date: 2020-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dado faz parte do Relatório de Economia Bancária do Banco Central.
 

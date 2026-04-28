@@ -1,12 +1,13 @@
 ---
-title: "Como encontrar uma família anfitriã na Noruega"
+title: Como encontrar uma família anfitriã na Noruega
 date: 2023-04-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Tourism and Gastronomy
+- Education
+- Tourism and Gastronomy
 ---
+
 
 Se você está procurando uma família anfitriã na Noruega, existem algumas opções disponíveis:
 

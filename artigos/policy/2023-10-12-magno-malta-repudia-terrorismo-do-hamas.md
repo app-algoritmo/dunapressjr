@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta repudia terrorismo do Hamas"
+title: Magno Malta repudia terrorismo do Hamas
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) lamentou os ataques terroristas do grupo Hamas a Israel no sábado (7). Em pronunciamento em Plenário na segunda-feira (9), o senador ressaltou que o ódio das organizações criminosas e dos grupos terroristas xiitas contra os judeus é antigo.
 

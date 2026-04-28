@@ -1,11 +1,13 @@
 ---
-title: "Mais de 170 vítimas das tropas de Kiev encontradas em sepulturas improvisadas em Lugansk na semana passada"
+title: Mais de 170 vítimas das tropas de Kiev encontradas em sepulturas improvisadas
+  em Lugansk na semana passada
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O chefe do Comitê Investigativo Russo Alexander Bastrykin disse que a filial de Donetsk do Centro Forense começou seu trabalho.
 

@@ -1,11 +1,12 @@
 ---
-title: "BNDES aprova R$ 1,3 bilhão para a implantação de projeto eólico na Paraíba"
+title: BNDES aprova R$ 1,3 bilhão para a implantação de projeto eólico na Paraíba
 date: 2020-01-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O apoio contribui para a diversificação da matriz energética
 brasileira com uma fonte de recursos limpa e renovável, incrementando em 370,8

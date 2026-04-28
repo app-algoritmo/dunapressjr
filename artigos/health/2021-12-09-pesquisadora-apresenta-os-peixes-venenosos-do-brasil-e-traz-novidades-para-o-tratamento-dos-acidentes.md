@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadora apresenta os peixes venenosos do Brasil e traz novidades para o tratamento dos acidentes"
+title: Pesquisadora apresenta os peixes venenosos do Brasil e traz novidades para
+  o tratamento dos acidentes
 date: 2021-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os acidentes com peixes [peçonhentos](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#) são comuns no Brasil. Os peixes que mais causam acidentes no país são os bagres, entretanto os causados pelo peixe chamado niquim são um dos que têm piores efeitos, pois a ferida pode evoluir rapidamente para uma [necrose](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#). Esse peixe se esconde na areia e, por não ser visto, os banhistas e pescadores acabam tocando ou mesmo pisando nele, que, por possuir espinhos nas suas costas e nas laterais do seu corpo, provoca as lesões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem forte alta após corte da Selic"
+title: Dólar tem forte alta após corte da Selic
 date: 2023-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercado oscila na B3 
 

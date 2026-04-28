@@ -1,11 +1,12 @@
 ---
-title: "5 alimentos que podem desencadear inflamação do intestino"
+title: 5 alimentos que podem desencadear inflamação do intestino
 date: 2023-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Você pode ter ouvido falar de doença inflamatória intestinal, como [doença de Crohn](https://die-gesunde-wahrheit.de/2018/09/25/ernaehrungstipps-fuer-morbus-crohn/) ou [colite ulcerativa.](https://die-gesunde-wahrheit.de/2018/08/08/gegen-colitis-ulcerosa/)
 

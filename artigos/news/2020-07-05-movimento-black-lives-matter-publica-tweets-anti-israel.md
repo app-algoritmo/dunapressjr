@@ -1,11 +1,12 @@
 ---
-title: "Movimento Black Lives Matter publica tweets anti-Israel"
+title: Movimento Black Lives Matter publica tweets anti-Israel
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "À medida que Israel avança com a anexação da Cisjordânia, e a política britânica dominante é amordaçada e privada do direito de criticar o sionismo e as atividades coloniais dos colonos de Israel, nos mantemos firmes e claramente ao lado de nossos camaradas palestinos. PALESTINA LIVRE ”, twittou a seção inglesa do movimento.
 

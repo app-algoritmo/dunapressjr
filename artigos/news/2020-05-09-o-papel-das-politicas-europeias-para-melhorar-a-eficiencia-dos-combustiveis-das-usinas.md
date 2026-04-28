@@ -1,11 +1,13 @@
 ---
-title: "O papel das políticas europeias para melhorar a eficiência dos combustíveis das usinas"
+title: O papel das políticas europeias para melhorar a eficiência dos combustíveis
+  das usinas
 date: 2020-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um novo estudo publicado no *Jornal da Associação de Economistas de Recursos e Ambientais* investiga o impacto do Esquema de Comércio de Emissões da União Européia (EU ETS), o maior sistema internacional de cap-and-trade para emissões de gases de efeito estufa do mundo, em usinas de energia eficiência do combustível.
 Em "O regime de comércio de licenças de emissão da União Europeia e a eficiência de combustível de usinas de combustíveis fósseis na Alemanha", o autor Robert Germeshausen estuda usinas de energia alemãs e conclui que uma redução no uso de combustíveis por usinas de combustíveis fósseis devido à introdução do RCLE-UE se traduz em reduções no total anual de emissões de carbono de cerca de 1,5 a 2% no setor de energia alemão.

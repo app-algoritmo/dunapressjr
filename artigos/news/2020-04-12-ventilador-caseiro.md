@@ -1,11 +1,12 @@
 ---
-title: "Ventilador caseiro"
+title: Ventilador caseiro
 date: 2020-04-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Engineer invents homemade ventilator from his garage that can be assembled in under 3 hours to aid Covid-19 shortage. (Follow Tech That Matters for more.)
 

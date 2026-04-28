@@ -1,11 +1,12 @@
 ---
-title: "Pandemias na História: A Primeira Peste Bubônica"
+title: 'Pandemias na História: A Primeira Peste Bubônica'
 date: 2020-04-15
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 **Praga de Justiniano**      
 

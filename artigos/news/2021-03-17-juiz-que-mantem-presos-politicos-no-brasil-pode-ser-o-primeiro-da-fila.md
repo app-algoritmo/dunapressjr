@@ -1,11 +1,12 @@
 ---
-title: "Juiz que mantém presos políticos no Brasil pode ser o primeiro da fila"
+title: Juiz que mantém presos políticos no Brasil pode ser o primeiro da fila
 date: 2021-03-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 - São dezenas os pedidos de impeachment acumulados contra os membros do STF no Brasil e, o funcionário público que mantém a pior nota nos deveres se suas funções e que encabeça a enorme lista de despidos programados é o Juiz Alexandre de Moraes.
 

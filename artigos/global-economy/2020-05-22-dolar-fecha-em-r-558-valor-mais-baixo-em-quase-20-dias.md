@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em R$ 5,58, valor mais baixo em quase 20 dias"
+title: Dólar fecha em R$ 5,58, valor mais baixo em quase 20 dias
 date: 2020-05-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa sobe 2,1% e fecha no maior nível desde fim de abril.
 

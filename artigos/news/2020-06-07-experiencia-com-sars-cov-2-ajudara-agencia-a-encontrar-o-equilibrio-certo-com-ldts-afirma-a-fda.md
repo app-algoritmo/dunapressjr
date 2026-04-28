@@ -1,11 +1,13 @@
 ---
-title: "Experiência com SARS-CoV-2 ajudará agência a encontrar o equilíbrio certo com LDTs, afirma a FDA"
+title: Experiência com SARS-CoV-2 ajudará agência a encontrar o equilíbrio certo com
+  LDTs, afirma a FDA
 date: 2020-06-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na reunião anual da Associação Americana de Laboratórios Clínicos em 2020, representantes da Administração de Alimentos e Medicamentos dos EUA defenderam que a resposta da agência ao surto de SARS-CoV-2 pode ser instrutiva para a supervisão futura de testes desenvolvidos em laboratório.
 

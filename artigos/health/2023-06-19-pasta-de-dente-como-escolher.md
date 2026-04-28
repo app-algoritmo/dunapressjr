@@ -1,11 +1,12 @@
 ---
-title: "Pasta de dente: como escolher?"
+title: 'Pasta de dente: como escolher?'
 date: 2023-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Sabor, cor e aroma estão sempre em destaque nas embalagens dos cremes dentais e são fatores determinantes na hora de decidir qual produto comprar. Porém, é preciso se atentar aos detalhes para escolher a pasta adequada para cada situação, que varia de acordo com a idade, os sintomas bucais e a presença de implantes ou aparelhos ortodônticos, por exemplo. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto proíbe tomadas de energia elétrica em áreas acessíveis aos presos nos presídios"
+title: Projeto proíbe tomadas de energia elétrica em áreas acessíveis aos presos nos
+  presídios
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Deputado argumenta que medida reforça esforço para deixar o preso incomunicável.
 

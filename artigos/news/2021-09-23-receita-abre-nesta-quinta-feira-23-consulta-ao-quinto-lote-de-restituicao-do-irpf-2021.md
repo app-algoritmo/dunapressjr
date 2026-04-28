@@ -1,11 +1,13 @@
 ---
-title: "Receita abre nesta quinta-feira, 23, consulta ao quinto lote de restituição do IRPF 2021"
+title: Receita abre nesta quinta-feira, 23, consulta ao quinto lote de restituição
+  do IRPF 2021
 date: 2021-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Serão contemplados 358 mil contribuintes, entre prioritários e não prioritários; valor total do crédito é de R$ 562 milhões.
 

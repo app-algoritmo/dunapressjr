@@ -1,11 +1,13 @@
 ---
-title: "Autoridades dos EUA preocupadas com comentários de Macron sobre envio de tropas para a Ucrânia, diz Bloomberg"
+title: Autoridades dos EUA preocupadas com comentários de Macron sobre envio de tropas
+  para a Ucrânia, diz Bloomberg
 date: 2024-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As recentes declarações do presidente francês, Emmanuel Macron, levantaram preocupações entre as autoridades dos EUA em relação ao potencial envio de tropas para a Ucrânia, relata a Bloomberg. Segundo a fonte, as autoridades norte-americanas estão cautelosas em relação a qualquer ação que possa resultar em um confronto direto com a Rússia.
 

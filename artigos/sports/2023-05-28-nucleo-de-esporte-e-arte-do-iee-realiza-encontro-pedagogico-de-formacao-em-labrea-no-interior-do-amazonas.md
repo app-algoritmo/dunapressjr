@@ -1,11 +1,13 @@
 ---
-title: "Núcleo de Esporte e Arte, do IEE, realiza Encontro Pedagógico de Formação em Lábrea, no interior do Amazonas"
+title: Núcleo de Esporte e Arte, do IEE, realiza Encontro Pedagógico de Formação em
+  Lábrea, no interior do Amazonas
 date: 2023-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Capacitação de professores, aulas e eventos de esporte e arte para crianças e adolescentes, atividades junto a comunidades indígenas, cuidado com o meio ambiente. O Projeto Núcleo de Esporte e Arte realiza diferentes ações na cidade de Lábrea, no sul do Amazonas, a mais de 700 quilômetros da capital, Manaus. É uma iniciativa do Instituto Esporte e Educação (IEE), em parceria com o Instituto Mpumalanga e a Secretaria Municipal de Educação de Lábrea, contando com o patrocínio da Nike.
 

@@ -1,11 +1,12 @@
 ---
-title: "Hacker acessa telefone de Alexandre de Moraes"
+title: Hacker acessa telefone de Alexandre de Moraes
 date: 2022-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Alexandre de Moraes investigado pelas FFAA
 

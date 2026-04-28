@@ -1,13 +1,15 @@
 ---
-title: "Plebiscito de 1993: Há 30 anos, Brasil foi às urnas decidir se teria rei e primeiro-ministro"
+title: 'Plebiscito de 1993: Há 30 anos, Brasil foi às urnas decidir se teria rei e
+  primeiro-ministro'
 date: 2023-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - Culture and History
-  - Education
+- Bicentennial
+- Culture and History
+- Education
 ---
+
 
 Há exatos 30 anos, a televisão brasileira transmitia diariamente episódios de uma propaganda eleitoral peculiar. Não se viam candidatos pedindo voto para cargos eletivos. O que estava em jogo era algo bem maior: a própria estrutura política e administrativa do Brasil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Putin exige território da Noruega: A disputa por Svalbard no Ártico"
+title: 'Putin exige território da Noruega: A disputa por Svalbard no Ártico'
 date: 2024-02-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Recentemente, Vladimir Putin, presidente da Rússia, fez uma declaração polêmica exigindo o território da Noruega, mais especificamente a região de **[Svalbard](https://en.wikipedia.org/wiki/Svalbard)**. Esta exigência vem gerando tensões crescentes entre os dois países e despertou preocupações internacionais sobre a estabilidade na região do Ártico.
 

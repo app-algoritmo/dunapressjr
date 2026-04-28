@@ -1,11 +1,12 @@
 ---
-title: "A Rússia não tem planos imperialistas na Europa, diz Lavrov"
+title: A Rússia não tem planos imperialistas na Europa, diz Lavrov
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Sublinha-se que a Rússia foi forçada a lançar a sua operação militar especial na Ucrânia porque o regime neonazi naquele país, tolerado pelo Ocidente, começou a exterminar tudo o que é russo.
 

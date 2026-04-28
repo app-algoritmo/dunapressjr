@@ -1,11 +1,12 @@
 ---
-title: "Deputada Ana Campagnolo articula CPI para investigar abortistas"
+title: Deputada Ana Campagnolo articula CPI para investigar abortistas
 date: 2022-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A deputada estadual Ana Campagnolo (PL-SC) requereu a criação de uma Comissão Parlamentar de Inquérito (CPI) na Assembleia Legislativa de Santa Catarina (ALESC) para averiguar os fatos relacionados ao caso envolvendo uma menina grávida aos 11 anos de idade, que resultou no assassinato intrauterino do bebê nascituro durante a 29ª semana de gestação.
 

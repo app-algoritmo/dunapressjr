@@ -1,11 +1,12 @@
 ---
-title: "Conab diz que produção de grãos deve atingir 308 milhões de toneladas"
+title: Conab diz que produção de grãos deve atingir 308 milhões de toneladas
 date: 2022-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Soja deve ter número recorde: 150,36 milhões de toneladas.
 

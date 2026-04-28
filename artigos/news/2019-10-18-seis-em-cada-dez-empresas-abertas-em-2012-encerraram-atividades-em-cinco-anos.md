@@ -1,11 +1,12 @@
 ---
-title: "Seis em cada dez empresas abertas em 2012 encerraram atividades em cinco anos"
+title: Seis em cada dez empresas abertas em 2012 encerraram atividades em cinco anos
 date: 2019-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 40% das 597,2 mil empresas criadas em 2012 estavam ativas em 2017. Essa proporção, medida pela taxa de sobrevivência, aponta que seis em cada dez companhias encerraram suas atividades nesses cinco anos. Os dados são da Demografia das Empresas e Estatísticas de Empreendedorismo, divulgada nesta quinta-feira(17) pelo IBGE.
 

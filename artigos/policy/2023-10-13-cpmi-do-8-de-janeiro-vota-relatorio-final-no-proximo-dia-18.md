@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de Janeiro vota relatório final no próximo dia 18"
+title: CPMI do 8 de Janeiro vota relatório final no próximo dia 18
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parecer será lido no dia 17; cronograma já considera pedido de vista, que deve ser apresentado para adiar a votação.
 

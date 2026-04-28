@@ -1,11 +1,12 @@
 ---
-title: "10 fatos que todo doador de sangue precisa saber"
+title: 10 fatos que todo doador de sangue precisa saber
 date: 2021-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 25 de novembro, comemora-se o Dia Nacional do Doador de Sangue. A data tem como objetivo agradecer aos doadores de sangue pela ação de doar e busca sensibilizar a população para a importância da doação.
 

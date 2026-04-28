@@ -1,11 +1,12 @@
 ---
-title: "Como (e por que) a SpaceX colonizará Marte - Parte II"
+title: Como (e por que) a SpaceX colonizará Marte - Parte II
 date: 2021-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 -Por Tim Urban |
 

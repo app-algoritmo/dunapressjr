@@ -1,11 +1,12 @@
 ---
-title: "Recuperação econômica da zona do euro perde força em agosto, diz PMI"
+title: Recuperação econômica da zona do euro perde força em agosto, diz PMI
 date: 2020-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice relativo a serviços recuou de 54,7 em julho para 50,5 em agosto.
 

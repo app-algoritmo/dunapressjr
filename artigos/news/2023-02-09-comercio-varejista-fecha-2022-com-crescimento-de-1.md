@@ -1,11 +1,12 @@
 ---
-title: "Comércio varejista fecha 2022 com crescimento de 1%"
+title: Comércio varejista fecha 2022 com crescimento de 1%
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa mensal foi divulgada pelo IBGE.
 

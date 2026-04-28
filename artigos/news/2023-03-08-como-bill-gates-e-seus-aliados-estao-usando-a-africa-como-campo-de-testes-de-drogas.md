@@ -1,11 +1,13 @@
 ---
-title: "Como Bill Gates e seus aliados estão usando a África como campo de testes de drogas"
+title: Como Bill Gates e seus aliados estão usando a África como campo de testes de
+  drogas
 date: 2023-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os farmacêuticos sempre usaram a África como campo de testes para medicamentos, disse Joe Rogan em seu programa. 
 

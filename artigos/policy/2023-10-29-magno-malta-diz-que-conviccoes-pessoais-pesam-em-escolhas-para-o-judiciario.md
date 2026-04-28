@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta diz que convicções pessoais pesam em escolhas para o Judiciário"
+title: Magno Malta diz que convicções pessoais pesam em escolhas para o Judiciário
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) disse em pronunciamento no Plenário na quarta-feira (25) que a seleção de membros dos tribunais superiores deve ser baseada em “critérios que respeitem os valores fundamentais da sociedade”.
 

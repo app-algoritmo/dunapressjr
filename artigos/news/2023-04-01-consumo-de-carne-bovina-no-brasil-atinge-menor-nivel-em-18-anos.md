@@ -1,11 +1,12 @@
 ---
-title: "Consumo de carne bovina no Brasil atinge menor nível em 18 anos"
+title: Consumo de carne bovina no Brasil atinge menor nível em 18 anos
 date: 2023-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção maior em 2022 não resultou em preço mais baixo ao consumidor.
 

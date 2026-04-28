@@ -1,11 +1,12 @@
 ---
-title: "Índice que reajusta aluguel acumula inflação de 31,15% em 12 meses"
+title: Índice que reajusta aluguel acumula inflação de 31,15% em 12 meses
 date: 2021-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segunda prévia de março do IGP-M foi divulgada hoje pela FGV.
 

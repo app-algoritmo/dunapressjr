@@ -1,11 +1,12 @@
 ---
-title: "Girão condena propostas que visam regulamentar apostas esportivas"
+title: Girão condena propostas que visam regulamentar apostas esportivas
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou em pronunciamento na quarta-feira (13) propostas que visam regulamentar os jogos de apostas de quota fixa (“bets”), como a [MP 1.182/2023](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/158825) e o [PL 3.626/2023](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2374400), que foi aprovado na Câmara dos Deputados também na quarta. O parlamentar alertou para o perigo das apostas esportivas e ressaltou que jogadores compulsivos tendem a cometer diversos crimes e fraudes para financiar o vício.
 

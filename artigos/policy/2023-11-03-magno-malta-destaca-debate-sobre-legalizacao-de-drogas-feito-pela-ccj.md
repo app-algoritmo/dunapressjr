@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta destaca debate sobre legalização de drogas feito pela CCJ"
+title: Magno Malta destaca debate sobre legalização de drogas feito pela CCJ
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta terça-feira (31), o senador Magno Malta (PL-ES) destacou audiência pública da Comissão de Constituição, Justiça e Cidadania (CCJ), [ocorrida na mesma terça](/noticias/materias/2023/10/31/debatedores-apoiam-proposta-de-tolerancia-zero-para-porte-de-drogas), sobre a proposta de emenda à Constituição que criminaliza o porte ou posse de qualquer quantidade de droga. A [PEC 45/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160011) é de autoria do senador Rodrigo Pacheco (PSD-MG), presidente do Senado, e o debate foi requerido pelo relator da matéria, senador Efraim Filho (União-PB), que conduziu a reunião.
 

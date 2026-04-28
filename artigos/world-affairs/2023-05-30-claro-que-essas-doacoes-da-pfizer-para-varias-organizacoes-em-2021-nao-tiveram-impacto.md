@@ -1,11 +1,13 @@
 ---
-title: "Claro que essas doações da Pfizer para várias organizações em 2021 não tiveram impacto…"
+title: Claro que essas doações da Pfizer para várias organizações em 2021 não tiveram
+  impacto…
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Aaron Siri twittou um resumo das doações de 2021 feitas pela Pfizer para universidades, hospitais, associações médicas, organizações de câncer e organizações médicas americanas. “As doações da Pfizer para [essas] organizações em 2021, é claro, não tiveram impacto nas recomendações de vacinação contra a Covid-19 dessas organizações”, ele tuitou com talvez mais do que um toque de sarcasmo.**
 

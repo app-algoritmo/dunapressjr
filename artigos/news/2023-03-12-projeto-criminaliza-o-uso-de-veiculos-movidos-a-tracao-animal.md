@@ -1,11 +1,12 @@
 ---
-title: "Projeto criminaliza o uso de veículos movidos à tração animal"
+title: Projeto criminaliza o uso de veículos movidos à tração animal
 date: 2023-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 176/23 criminaliza o uso de veículos movidos à tração animal e de animais para transportar cargas, com pena  de reclusão de 1 a 4 anos, além de multa. O texto altera a [Lei de Crimes Ambientais](https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-publicacaooriginal-1-pl.html#:~:text=Disp%C3%B5e%20sobre%20as%20san%C3%A7%C3%B5es%20penais,ambiente%2C%20e%20d%C3%A1%20outras%20provid%C3%AAncias.).
 

@@ -1,12 +1,13 @@
 ---
-title: "Mitos e verdades sobre o consumo de água no dia a dia"
+title: Mitos e verdades sobre o consumo de água no dia a dia
 date: 2022-07-25
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
-  - Health
+- Food
+- Health
 ---
+
 
 Embora seja essencial para ao funcionamento do corpo humano, a água ainda suscita muitas dúvidas nos brasileiros. Água gelada ajuda a emagrecer? Beber água demais faz mal à saúde? Qualquer água pode ser consumida?
 

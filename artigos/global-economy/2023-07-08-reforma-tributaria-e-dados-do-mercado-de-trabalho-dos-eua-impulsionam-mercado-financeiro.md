@@ -1,11 +1,13 @@
 ---
-title: "Reforma Tributária e Dados do Mercado de Trabalho dos EUA Impulsionam Mercado Financeiro"
+title: Reforma Tributária e Dados do Mercado de Trabalho dos EUA Impulsionam Mercado
+  Financeiro
 date: 2023-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 1,25% e encosta nos 119 mil pontos. 
 

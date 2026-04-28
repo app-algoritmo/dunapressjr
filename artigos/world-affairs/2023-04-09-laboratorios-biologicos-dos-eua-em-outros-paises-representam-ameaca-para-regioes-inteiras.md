@@ -1,11 +1,13 @@
 ---
-title: "Laboratórios biológicos dos EUA em outros países representam ameaça para regiões inteiras"
+title: Laboratórios biológicos dos EUA em outros países representam ameaça para regiões
+  inteiras
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Como já observamos repetidamente, a colocação das instalações de pesquisa mais perigosas fora do território nacional faz parte da estratégia de segurança biológica dos Estados Unidos”, enfatizou Igor Kirillov.
 

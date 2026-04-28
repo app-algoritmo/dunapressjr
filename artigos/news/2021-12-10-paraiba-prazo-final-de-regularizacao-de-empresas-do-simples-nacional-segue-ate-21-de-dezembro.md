@@ -1,11 +1,13 @@
 ---
-title: "Paraíba: Prazo final de regularização de empresas do Simples Nacional segue até 21 de dezembro"
+title: 'Paraíba: Prazo final de regularização de empresas do Simples Nacional segue
+  até 21 de dezembro'
 date: 2021-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O prazo final para as empresas optantes do Simples Nacional (inclusive optantes SIMEI), que estão com irregularidade no cadastro da inscrição estadual (Inscrição Estadual Cancelada), realizar a regularização termina no dia 21 de dezembro.
 

@@ -1,11 +1,13 @@
 ---
-title: "A Verdade Censurada: Como a Duna Press Resiste à Perseguição e Mantém sua Independência"
+title: 'A Verdade Censurada: Como a Duna Press Resiste à Perseguição e Mantém sua
+  Independência'
 date: 2025-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Ethics and Society
+- Ethics and Society
 ---
+
 
 Nos últimos anos, o mundo tem assistido a um cenário preocupante: golpes de Estado financiados por interesses obscuros, manipulação de eleições e uma censura desenfreada promovida por uma mídia corrupta e organizações inescrupulosas. Enquanto milhões de dólares dos contribuintes americanos são desviados para sustentar essas operações, a verdade é sistematicamente sufocada e substituída por narrativas controladas.
 

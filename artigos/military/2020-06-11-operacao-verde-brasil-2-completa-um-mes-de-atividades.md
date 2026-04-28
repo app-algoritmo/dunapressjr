@@ -1,11 +1,12 @@
 ---
-title: "Operação Verde Brasil 2 completa um mês de atividades"
+title: Operação Verde Brasil 2 completa um mês de atividades
 date: 2020-06-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Verde Brasil 2 completou nesta quarta-feira (10) um mês de atuação para prevenir e reprimir delitos ambientais dentro da área da Amazônia Legal. Em 11 de maio, o Governo Federal deflagrou a Operação para combater o desmatamento e o garimpo ilegal, autorizando o emprego das Forças Armadas para a Garantia da Lei e da Ordem (GLO) e para ações subsidiárias.
 

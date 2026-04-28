@@ -1,11 +1,12 @@
 ---
-title: "Balanços da pandemia: Covid-19 levou a aumento de procedimentos de alta complexidade"
+title: 'Balanços da pandemia: Covid-19 levou a aumento de procedimentos de alta complexidade'
 date: 2021-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os reflexos e balanços da pandemia da covid-19 vão muito além do aumento da ocupação das UTIs e serão sentidos pelas instituições e profissionais de saúde por muito tempo. A gravidade dos casos atendidos fez subir consideravelmente a necessidade de procedimentos de alta complexidade. No Hospital Marcelino Champagnat, em Curitiba (PR), com a necessidade da ECMO (Oxigenação por Membrana Extracorpórea), que funciona como um pulmão e um coração artificiais, o crescimento foi de impactantes 900%. Considerado o último suspiro de pacientes, a ECMO costumava ser indicada para dois pacientes por ano antes da pandemia. Mas só desde março de 2021, já foram 20.
 

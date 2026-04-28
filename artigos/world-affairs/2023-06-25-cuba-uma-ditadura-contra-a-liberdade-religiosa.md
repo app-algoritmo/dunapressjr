@@ -1,11 +1,12 @@
 ---
-title: "Cuba, uma ditadura contra a liberdade religiosa"
+title: Cuba, uma ditadura contra a liberdade religiosa
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Há décadas Cuba vive uma **crise social, econômica e política** que parece não ter fim. Essa realidade também aumentou seriamente como resultado da pandemia do COVID-19. No país oprimido pela **ditadura castrista** comandada por Miguel Díaz-Canel, a **escassez de alimentos e remédios** é cada vez maior, sem falar no número de presos políticos, que aumenta com o passar dos anos.
 

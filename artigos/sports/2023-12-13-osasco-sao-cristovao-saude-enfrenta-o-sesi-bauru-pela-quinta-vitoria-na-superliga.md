@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde enfrenta o Sesi Bauru pela quinta vitória na Superliga"
+title: Osasco São Cristóvão Saúde enfrenta o Sesi Bauru pela quinta vitória na Superliga
 date: 2023-12-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe de Tifanny, Butler, Lorenne, Camila Brait e cia. joga fora de casa e defende sua posição no G4 da temporada 2023/24 do campeonato nacional.
 

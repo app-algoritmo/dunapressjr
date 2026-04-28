@@ -1,11 +1,12 @@
 ---
-title: "Putin sinaliza reabrir o gás para Europa"
+title: Putin sinaliza reabrir o gás para Europa
 date: 2022-10-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O presidente russo, Vladimir Putin, estaria disposto a reativar o gasoduto Nord Stream II.
 

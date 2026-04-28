@@ -1,11 +1,12 @@
 ---
-title: "Brasil: cobrança automática de impostos"
+title: 'Brasil: cobrança automática de impostos'
 date: 2023-08-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 https://youtu.be/X-AJcrVRnBA
 

@@ -1,11 +1,12 @@
 ---
-title: "O teatro silenciado de Carlos Vereza"
+title: O teatro silenciado de Carlos Vereza
 date: 2024-03-08
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Assisti em primeira mão à peça Lotte Zweig - a mulher silenciada, deste título parafraseio o meu, que não se pretende crítica, apenas um ensaio que aponte as possibilidades de leitura teatral e que não extrapole nem restrinja a obra de Carlos Vereza, nem traia a dramaturgia que nós, como público, estamos esquecidos. A estreia foi no Rio de Janeiro, mas de acordo com Vereza, logo virá para temporada em São Paulo e outros estados.
 

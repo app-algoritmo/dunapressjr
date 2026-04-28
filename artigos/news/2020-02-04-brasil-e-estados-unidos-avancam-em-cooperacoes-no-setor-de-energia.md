@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Estados Unidos avançam em cooperações no setor de energia"
+title: Brasil e Estados Unidos avançam em cooperações no setor de energia
 date: 2020-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Nesta semana, foi assinada Carta de Intenções para formalizar a negociação para entrega de um Programa de Análises de Engenharia*
 

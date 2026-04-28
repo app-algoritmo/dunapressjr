@@ -1,11 +1,13 @@
 ---
-title: "Encontrada primeira escrita em uma impressão de selo de argila na Terra de Israel"
+title: Encontrada primeira escrita em uma impressão de selo de argila na Terra de
+  Israel
 date: 2021-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O que é indiscutivelmente a mais antiga impressão de selo de argila com inscrição da Terra de Israel - usada na corte do rei israelita Jeroboão II - foi autenticada após anos de rigorosos testes de laboratório sob a supervisão do Prof. Yuval Goren da Universidade Ben-Gurion. A argila inscrita, conhecida como bula, foi comprada sem procedência de um comerciante de antiguidades beduínos na década de 1980 e agora acredita-se que seja do reinado de Jeroboão II no século VIII aC.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dra. Jane Ruby: Bill Gates está usando sua riqueza para destruir a humanidade"
+title: 'Dra. Jane Ruby: Bill Gates está usando sua riqueza para destruir a humanidade'
 date: 2023-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## O bilionário Bill Gates está usando sua riqueza para [destruir a humanidade](http://www.brighteon.com/12914b59-2b9f-4c83-8d71-3e22aba65359).
 

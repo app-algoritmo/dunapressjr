@@ -1,11 +1,12 @@
 ---
-title: "Número de pacientes curados de Covid-19 representa quase 57% do total de casos"
+title: Número de pacientes curados de Covid-19 representa quase 57% do total de casos
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde contabilizou, nessa terça-feira (30), 790.040 pessoas curadas da Covid-19 em todo o País. O número é superior à quantidade de casos ativos (552.407) ou de pacientes em acompanhamento médico. O registro de pessoas curadas já representa mais da metade do total de casos acumulados (56,3%). 
 

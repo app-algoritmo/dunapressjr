@@ -1,11 +1,13 @@
 ---
-title: "Vice-líder do governo no Congresso apresenta emenda que altera meta fiscal de 2024"
+title: Vice-líder do governo no Congresso apresenta emenda que altera meta fiscal
+  de 2024
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Lindbergh Faria sugere a mudança da meta de zero para um déficit de 0,75% ou 1% do PIB.
 

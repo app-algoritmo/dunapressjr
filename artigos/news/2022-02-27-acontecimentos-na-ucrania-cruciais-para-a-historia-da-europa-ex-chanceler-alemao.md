@@ -1,11 +1,13 @@
 ---
-title: "Acontecimentos na Ucrânia cruciais para a história da Europa — ex-chanceler alemão"
+title: Acontecimentos na Ucrânia cruciais para a história da Europa — ex-chanceler
+  alemão
 date: 2022-02-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Angela Merkel chamou as ações de Moscou de uma violação do direito internacional e as condenou "nos termos mais fortes possíveis"
 

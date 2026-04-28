@@ -1,11 +1,12 @@
 ---
-title: "Número de imóveis novos cresceu 24,6% até outubro de 2021"
+title: Número de imóveis novos cresceu 24,6% até outubro de 2021
 date: 2022-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados divulgados são da Abrainc em conjunto com a Fipe.
 

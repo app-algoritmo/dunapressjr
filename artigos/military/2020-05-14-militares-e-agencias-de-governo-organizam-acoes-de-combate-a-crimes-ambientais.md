@@ -1,11 +1,12 @@
 ---
-title: "Militares e agências de governo organizam ações de combate a crimes ambientais"
+title: Militares e agências de governo organizam ações de combate a crimes ambientais
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Militares dos três Comandos Conjuntos que atuam na Operação Verde Brasil 2 organizam diversas ações dentro da área da Amazônia Legal. Eles trabalham em apoio a órgãos de controle ambiental e de segurança pública para prevenir e reprimir delitos ambientais, como desmatamento ilegal e focos de incêndio.
 

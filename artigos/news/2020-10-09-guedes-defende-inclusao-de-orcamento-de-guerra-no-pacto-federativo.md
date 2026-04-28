@@ -1,11 +1,12 @@
 ---
-title: "Guedes defende inclusão de orçamento de guerra no pacto federativo"
+title: Guedes defende inclusão de orçamento de guerra no pacto federativo
 date: 2020-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mecanismo seria automaticamente acionado em caso de nova calamidade.
 

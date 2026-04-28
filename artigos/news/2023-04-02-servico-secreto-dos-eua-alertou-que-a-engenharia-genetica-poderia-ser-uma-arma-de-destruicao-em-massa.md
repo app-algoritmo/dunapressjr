@@ -1,11 +1,13 @@
 ---
-title: "Serviço Secreto dos EUA alertou que a engenharia genética poderia ser uma arma de destruição em massa"
+title: Serviço Secreto dos EUA alertou que a engenharia genética poderia ser uma arma
+  de destruição em massa
 date: 2023-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## CRISPR (repetições pandêmicas curtas regularmente interespaçadas agrupadas) é uma família de sequências de DNA, ou material genético, que pode ser removido ou alterado no genoma para tratar doenças como câncer e vírus com uma estrutura de DNA semelhante. 
 

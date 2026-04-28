@@ -1,11 +1,12 @@
 ---
-title: "Fragata “Independência” é o novo capitânia da Força-Tarefa Marítima da UNIFIL"
+title: Fragata “Independência” é o novo capitânia da Força-Tarefa Marítima da UNIFIL
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em 20 de abril, durante a cerimônia de “*Handover”*, a Fragata “Independência” tornou-se, pela terceira vez, o Navio-Capitânia da Força-Tarefa Marítima da Força Interina das Nações Unidas no Líbano (FTM-UNIFIL), em substituição à Corveta “Barroso”, que concluiu com êxito um período de quase oito meses na missão.
 

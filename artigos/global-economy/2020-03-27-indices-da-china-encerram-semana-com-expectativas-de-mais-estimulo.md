@@ -1,11 +1,12 @@
 ---
-title: "Índices da China encerram semana com expectativas de mais estímulo"
+title: Índices da China encerram semana com expectativas de mais estímulo
 date: 2020-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em Tóquio, o índice Nikkei avançou 3,88%, a 19.389 pontos
 

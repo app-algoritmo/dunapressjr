@@ -1,11 +1,12 @@
 ---
-title: "Irã Reforça Compromisso de Segurança com o Iraque em Visita Oficial a Bagdá"
+title: Irã Reforça Compromisso de Segurança com o Iraque em Visita Oficial a Bagdá
 date: 2024-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante sua visita oficial a Bagdá, o secretário do Conselho Supremo de Segurança Nacional do Irã, Ali-Akbar Ahmadian, reiterou enfaticamente o compromisso do Irã com a segurança e a estabilidade do Iraque. Em uma reunião crucial com o primeiro-ministro iraquiano, Mohammed Shia al-Sudani, na última segunda-feira, Ahmadian destacou o interesse do Irã em fortalecer a cooperação bilateral com base no acordo de segurança assinado em 19 de março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar e renda fixa lideram ganhos em fevereiro"
+title: Dólar e renda fixa lideram ganhos em fevereiro
 date: 2023-03-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa tem pior mês desde junho de 2022.
 

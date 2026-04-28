@@ -1,11 +1,12 @@
 ---
-title: "Despedida de um animal ao seu tutor"
+title: Despedida de um animal ao seu tutor
 date: 2022-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 “Meu querido humano, vejo que você está chorando, pois chegou meu momento de partir. Não chore, por favor. Quero explicar a você algumas coisas.
 Está triste porque fui embora, mas eu estou feliz por ter te conhecido.

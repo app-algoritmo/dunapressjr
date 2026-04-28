@@ -1,11 +1,12 @@
 ---
-title: "Leilão de privatização da Codesa é marcado para 25 de março"
+title: Leilão de privatização da Codesa é marcado para 25 de março
 date: 2022-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Certame prevê concessões dos portos de Vitória e Barra do Riacho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nova 'vacina' sendo preparada caso a gripe aviária se espalhe para humanos"
+title: Nova 'vacina' sendo preparada caso a gripe aviária se espalhe para humanos
 date: 2023-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Uma vacina contra a gripe aviária para humanos está sendo preparada "para o caso" de uma mutação. 
 

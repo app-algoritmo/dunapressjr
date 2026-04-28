@@ -1,11 +1,13 @@
 ---
-title: "5G da inovação e da sustentabilidade: único caminho para as indústrias em 2022"
+title: '5G da inovação e da sustentabilidade: único caminho para as indústrias em
+  2022'
 date: 2022-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por: *Matthias Schupp*.
 

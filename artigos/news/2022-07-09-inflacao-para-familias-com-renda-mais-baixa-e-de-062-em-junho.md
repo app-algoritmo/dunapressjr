@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa é de 0,62% em junho"
+title: Inflação para famílias com renda mais baixa é de 0,62% em junho
 date: 2022-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### INPC acumula 5,61% no ano e 11,92% em 12 meses.
 

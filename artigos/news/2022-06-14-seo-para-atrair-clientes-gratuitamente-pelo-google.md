@@ -1,11 +1,12 @@
 ---
-title: "SEO para atrair clientes gratuitamente pelo Google"
+title: SEO para atrair clientes gratuitamente pelo Google
 date: 2022-06-14
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 A prática SEO para atrair clientes pelo Google é uma das grandes estratégias do marketing digital. E o melhor, isso pode ser feito gratuitamente! Se você é uma das pessoas que ainda não sabia disso, agora não pode mais perder tempo. Porque tempo é dinheiro!
 

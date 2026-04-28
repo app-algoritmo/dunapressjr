@@ -1,11 +1,13 @@
 ---
-title: "Papa Francisco destaca o papel do Estado na justiça social em mensagem aos juízes argentinos"
+title: Papa Francisco destaca o papel do Estado na justiça social em mensagem aos
+  juízes argentinos
 date: 2024-02-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco enviou uma mensagem aos juízes da Argentina, enfatizando a importância do papel do Estado na redistribuição e justiça social. Em uma vídeo-mensagem por ocasião da inauguração da sede em Buenos Aires do Comitê Pan-Americano de Juízes dos Direitos Sociais e da Doutrina Franciscana (Copaju), o pontífice argentino alertou sobre os perigos de "modelos desumanizantes" e defendeu que o exercício do poder público deve ser legítimo e voltado para a construção de sociedades justas e dignas.
 

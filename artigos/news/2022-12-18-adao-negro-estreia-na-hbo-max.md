@@ -1,12 +1,13 @@
 ---
-title: "Adão Negro - Estréia na HBO MAX"
+title: Adão Negro - Estréia na HBO MAX
 date: 2022-12-18
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

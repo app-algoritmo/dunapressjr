@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem melhor saldo da história para meses de agosto"
+title: Balança comercial tem melhor saldo da história para meses de agosto
 date: 2021-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País exportou US$ 7,66 bilhões a mais do que importou.
 

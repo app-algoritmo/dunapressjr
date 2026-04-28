@@ -1,11 +1,12 @@
 ---
-title: "Vetos no PLP-39 beneficiarão estados e municípios, diz secretário"
+title: Vetos no PLP-39 beneficiarão estados e municípios, diz secretário
 date: 2020-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Votado na Câmara e Senado, projeto prevê auxílio de R$ 125 bilhões.
 

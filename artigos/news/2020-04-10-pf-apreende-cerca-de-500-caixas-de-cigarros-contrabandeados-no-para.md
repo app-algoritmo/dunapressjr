@@ -1,11 +1,12 @@
 ---
-title: "PF apreende cerca de 500 caixas de cigarros contrabandeados no Pará"
+title: PF apreende cerca de 500 caixas de cigarros contrabandeados no Pará
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belém/PA - A Polícia Federal nesta quinta-feira (9/3), realizando fiscalização fluvial na área no Furo do Arrozal, em Barcarena, abordou uma embarcação pesqueira que estava navegando às escuras. Os policiais encontraram no barco cerca de 500 caixas de cigarros contrabandeados provenientes, provavelmente, do Suriname.
 

@@ -1,12 +1,14 @@
 ---
-title: "Servidores da suprema corte envolvidos no maior escândalo de corrupção e fraude da história do Brasil"
+title: Servidores da suprema corte envolvidos no maior escândalo de corrupção e fraude
+  da história do Brasil
 date: 2022-11-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 Oslo - 22.11.2022 / 
 

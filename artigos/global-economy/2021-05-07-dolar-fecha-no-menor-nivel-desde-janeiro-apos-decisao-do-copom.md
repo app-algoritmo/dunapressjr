@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no menor nível desde janeiro após decisão do Copom"
+title: Dólar fecha no menor nível desde janeiro após decisão do Copom
 date: 2021-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recupera-se no fim da sessão e sobe 0,3%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Plenário do Senado aprova projeto que promove mudanças no Código Penal Militar"
+title: Plenário do Senado aprova projeto que promove mudanças no Código Penal Militar
 date: 2023-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto aprovado nesta terça pelos senadores segue para sanção presidencial. 
 

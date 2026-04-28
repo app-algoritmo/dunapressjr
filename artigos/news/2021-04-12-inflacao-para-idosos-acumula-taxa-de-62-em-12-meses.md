@@ -1,11 +1,12 @@
 ---
-title: "Inflação para idosos acumula taxa de 6,2% em 12 meses"
+title: Inflação para idosos acumula taxa de 6,2% em 12 meses
 date: 2021-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No primeiro trimestre o índice subiu 1,54%, diz FGV.
 

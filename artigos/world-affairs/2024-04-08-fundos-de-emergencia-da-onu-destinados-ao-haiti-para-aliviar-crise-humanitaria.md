@@ -1,11 +1,12 @@
 ---
-title: "Fundos de Emergência da ONU destinados ao Haiti para Aliviar Crise Humanitária"
+title: Fundos de Emergência da ONU destinados ao Haiti para Aliviar Crise Humanitária
 date: 2024-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chefe dos Assuntos Humanitários das Nações Unidas, Martin Griffiths, anunciou uma alocação de 12 milhões de dólares (11 milhões de euros) do Fundo Central de Resposta a Emergências para enfrentar a grave crise que assola o Haiti. O país centro-americano tem sido devastado pela violência implacável dos gangues, que já deslocou 50 mil pessoas e mergulhou cinco milhões na fome aguda, além de enfraquecer um sistema de saúde já fragilizado.
 

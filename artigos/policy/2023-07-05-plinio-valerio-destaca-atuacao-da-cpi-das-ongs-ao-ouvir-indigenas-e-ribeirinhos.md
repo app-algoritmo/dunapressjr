@@ -1,11 +1,12 @@
 ---
-title: "Plínio Valério destaca atuação da CPI das ONGs ao ouvir indígenas e ribeirinhos"
+title: Plínio Valério destaca atuação da CPI das ONGs ao ouvir indígenas e ribeirinhos
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) relatou, em pronunciamento no Plenário nesta terça-feira (4), a atuação da CPI das ONGs, presidida por ele. O senador informou que nesta terça foram ouvidos mais três representantes indígenas e ribeirinhos. Segundo ele, os depoimentos trouxeram à tona as dificuldades e problemas dos indígenas, expondo como são usados, negados e esquecidos. 
 

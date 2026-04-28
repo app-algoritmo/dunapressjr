@@ -1,11 +1,12 @@
 ---
-title: "SBX-1: Mais do que um sistema de defesa antimísseis e observação por radar?"
+title: 'SBX-1: Mais do que um sistema de defesa antimísseis e observação por radar?'
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com a [versão oficial](https://www.naval-technology.com/projects/sea-based-x-band-radar-1-sbx-1/) , o SBX-1 é um radar subaquático móvel e um sistema de defesa antimísseis projetado para uso em alto mar e capaz de suportar as condições climáticas mais adversas.
 

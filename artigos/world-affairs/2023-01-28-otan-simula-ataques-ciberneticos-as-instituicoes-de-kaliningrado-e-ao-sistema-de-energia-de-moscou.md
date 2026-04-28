@@ -1,11 +1,13 @@
 ---
-title: "OTAN 'simula' ataques cibernéticos às instituições de Kaliningrado e ao sistema de energia de Moscou"
+title: OTAN 'simula' ataques cibernéticos às instituições de Kaliningrado e ao sistema
+  de energia de Moscou
 date: 2023-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O vice-ministro das Relações Exteriores da Rússia, Oleg Syromolotov, observou que Londres está trabalhando sistematicamente para promover a russofobia na Internet.
 

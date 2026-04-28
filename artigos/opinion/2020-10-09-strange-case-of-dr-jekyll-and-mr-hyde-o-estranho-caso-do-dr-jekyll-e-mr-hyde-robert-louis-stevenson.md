@@ -1,11 +1,13 @@
 ---
-title: "Strange Case of Dr Jekyll and Mr Hyde - O Estranho Caso do Dr. Jekyll e Mr. Hyde -Robert Louis Stevenson"
+title: Strange Case of Dr Jekyll and Mr Hyde - O Estranho Caso do Dr. Jekyll e Mr.
+  Hyde -Robert Louis Stevenson
 date: 2020-10-09
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A morte e o tempo são os responsáveis por enaltecer um legado, tornando o mais vivo e rico anos após ano, como também podem sepultá-lo. Nem sempre são justos juízes, contudo, geralmente privilegiam aqueles que foram para além do comum e superficial.
 

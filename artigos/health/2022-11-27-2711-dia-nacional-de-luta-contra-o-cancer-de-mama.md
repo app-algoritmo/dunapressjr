@@ -1,11 +1,12 @@
 ---
-title: "27/11 – Dia Nacional de Luta Contra o Câncer de Mama"
+title: 27/11 – Dia Nacional de Luta Contra o Câncer de Mama
 date: 2022-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O câncer de mama é uma doença causada pela multiplicação desordenada de células da mama. Esse processo gera células anormais que se multiplicam, formando um tumor.
 

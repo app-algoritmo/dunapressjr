@@ -1,11 +1,13 @@
 ---
-title: "Brasil e Guiana assinam memorando implantação de fibra óptica de Boa Vista a Georgetown"
+title: Brasil e Guiana assinam memorando implantação de fibra óptica de Boa Vista
+  a Georgetown
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal e o governo da Guiana assinaram um memorando de entendimento sobre estudos de viabilidade técnica para a implantação de fibra óptica entre a capital de Roraima, Boa Vista, e a capital da Guiana, Georgetown. Os dois países criarão um grupo de trabalho, cabendo ao Ministério das Comunicações a indicação de um representante brasileiro para coordenar os estudos. O documento foi assinado pelo ministro das Relações Exteriores, Ernesto Araújo, durante visita à capital guianesa.
 

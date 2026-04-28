@@ -1,11 +1,12 @@
 ---
-title: "Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso"
+title: Ministro do Meio Ambiente sobrevoa áreas atingidas pelo fogo no Mato Grosso
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro do Meio Ambiente, Ricardo Salles, sobrevoou nesta terça-feira (18), a região do Pantanal, no estado do Mato Grosso, para vistoriar as áreas atingidas por queimadas e as ações de combate aos incêndios. Salles destacou que o Governo Federal está alinhado aos governos estaduais no combate às queimadas.                                                                                        
 

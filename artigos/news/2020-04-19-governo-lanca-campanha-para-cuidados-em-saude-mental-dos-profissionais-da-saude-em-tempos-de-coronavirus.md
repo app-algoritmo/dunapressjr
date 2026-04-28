@@ -1,11 +1,13 @@
 ---
-title: "Governo lança campanha para cuidados em saúde mental dos profissionais da saúde em tempos de coronavírus"
+title: Governo lança campanha para cuidados em saúde mental dos profissionais da saúde
+  em tempos de coronavírus
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Materiais são voltados aos profissionais de saúde, familiares, idosos e cuidadores e população em geral.
 

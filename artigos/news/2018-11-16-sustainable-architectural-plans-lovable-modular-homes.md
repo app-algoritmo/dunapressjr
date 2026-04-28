@@ -1,11 +1,12 @@
 ---
-title: "Sustainable Architectural Plans: lovable modular homes"
+title: 'Sustainable Architectural Plans: lovable modular homes'
 date: 2018-11-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 We present projects on urban planning with systems of protecting environment and constructions with innovations and technology of renewable energies. And also constructions of sustainable homes, fixed or mobile modules, innovation and technology for energy saving and long duration.
 

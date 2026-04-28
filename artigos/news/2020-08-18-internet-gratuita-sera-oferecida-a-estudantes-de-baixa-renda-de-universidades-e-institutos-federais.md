@@ -1,11 +1,13 @@
 ---
-title: "Internet gratuita será oferecida a estudantes de baixa renda de universidades e institutos federais"
+title: Internet gratuita será oferecida a estudantes de baixa renda de universidades
+  e institutos federais
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nos primeiros seis meses, a medida deve beneficiar, pelo menos, 400 mil alunos com renda familiar mensal de até meio salário mínimo.
 

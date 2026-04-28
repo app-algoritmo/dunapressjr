@@ -1,11 +1,12 @@
 ---
-title: "Seis assuntos que podem ser tema da redação do Enem 2021"
+title: Seis assuntos que podem ser tema da redação do Enem 2021
 date: 2021-10-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todos os anos, a redação do Exame Nacional do Ensino Médio (Enem) é uma das principais preocupações dos estudantes que se preparam para a prova. Afinal, a redação sozinha é responsável por garantir até mil pontos para aqueles que alcançarem a nota máxima. Saber escrever bem é muito importante para conquistar esses pontos, mas não é o único fator para o sucesso. Além de respeitar as normas gramaticais e saber usar corretamente a pontuação, também é necessário ter conhecimentos sobre o tema proposto na prova.
 

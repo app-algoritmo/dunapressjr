@@ -1,11 +1,12 @@
 ---
-title: "Lira defende reforma administrativa e quer atenção do governo para o tema"
+title: Lira defende reforma administrativa e quer atenção do governo para o tema
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Para o presidente, é preciso debater o assunto para garantir um País mais justo.
 

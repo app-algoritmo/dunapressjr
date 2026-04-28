@@ -1,11 +1,13 @@
 ---
-title: "Israel em guerra: Soldados israelenses encontraram os corpos de dezenas de bebês"
+title: 'Israel em guerra: Soldados israelenses encontraram os corpos de dezenas de
+  bebês'
 date: 2023-10-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A repórter Nicole Zedek estava em Israel e ficou emocionada ao compartilhar a notícia. “Estou conversando com alguns soldados e eles dizem o que testemunharam enquanto caminhavam por essas diferentes casas, por essas diferentes comunidades.” “Bebês, suas cabeças cortadas. Isso é o que eles disseram. Famílias abatidas a tiros, completamente abatidas em suas camas. Você pode ver alguns desses soldados agora consolando uns aos outros. Muitos deles reservas, que entraram em ação, deixando também suas próprias famílias para trás, sem saber o horror absoluto que estavam prestes a atingir.” [#IsraelUnderAttack](https://twitter.com/hashtag/IsraelUnderAttack?src=hashtag_click)
 

@@ -1,11 +1,12 @@
 ---
-title: "Escândalo: Projetos de Gates Relacionados à Agenda 2030 Financiados por Contribuintes"
+title: 'Escândalo: Projetos de Gates Relacionados à Agenda 2030 Financiados por Contribuintes'
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Fundação Bill & Melinda Gates recebeu incríveis 3,8 bilhões de euros do governo federal, de acordo com respostas a perguntas dos parlamentares do Die Linke. [Para ser encontrado aqui](https://dserver.bundestag.de/btd/20/075/2007512.pdf) . [Arquivado](https://archive.is/P08tK) aqui ....e [ainda externo aqui....](https://www.docdroid.net/Dwmc4rt/2007512-pdf)
 

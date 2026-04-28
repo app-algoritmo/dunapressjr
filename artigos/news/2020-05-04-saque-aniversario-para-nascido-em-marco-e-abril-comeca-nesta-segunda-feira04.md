@@ -1,11 +1,12 @@
 ---
-title: "Saque-aniversário para nascido em março e abril começa nesta segunda-feira(04)"
+title: Saque-aniversário para nascido em março e abril começa nesta segunda-feira(04)
 date: 2020-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pagamento é feito conforme cronograma por mês de nascimento
 Os trabalhadores nascidos em março e abril que aderiram ao saque-aniversário do Fundo de Garantia do Tempo de Serviço (FGTS) podem ter acesso ao dinheiro a partir de hoje (4). O valor estará disponível hoje ou 11 de maio, conforme a escolha do trabalhador.

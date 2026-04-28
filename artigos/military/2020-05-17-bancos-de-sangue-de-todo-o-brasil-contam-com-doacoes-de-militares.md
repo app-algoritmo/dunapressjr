@@ -1,11 +1,12 @@
 ---
-title: "Bancos de sangue de todo o Brasil contam com doações de militares"
+title: Bancos de sangue de todo o Brasil contam com doações de militares
 date: 2020-05-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Doar sangue é um gesto de solidariedade que salva vidas. E as doações não podem parar mesmo com a pandemia provocada pelo novo coronavírus. Sangue é imprescindível para pessoas em tratamento por diversas doenças, como anemias crônicas, câncer, febre amarela, entre outras necessidades.
 

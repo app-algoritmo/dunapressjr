@@ -1,11 +1,13 @@
 ---
-title: "Rockefeller trabalha com a OMS para controlar o mundo em caso de 'pandemias' causadas por 'mudanças climáticas'"
+title: Rockefeller trabalha com a OMS para controlar o mundo em caso de 'pandemias'
+  causadas por 'mudanças climáticas'
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na terça-feira, a Fundação Rockefeller anunciou que fez parceria com a Organização Mundial da Saúde (OMS) para melhorar a preparação para uma pandemia global em meio às mudanças climáticas.
 

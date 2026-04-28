@@ -1,11 +1,13 @@
 ---
-title: "Judeu holandês que resgatou centenas de pessoas na França ficou 80 anos no anonimato"
+title: Judeu holandês que resgatou centenas de pessoas na França ficou 80 anos no
+  anonimato
 date: 2020-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Sally Noach o "Schindler holandês " morreu em 30 de março de 1980, mas sua história   não foi contada até que sua filha investigou seus esforços em tempos de guerra e encontrou um heroísmo alimentado por esperança.
 

@@ -1,12 +1,13 @@
 ---
-title: "Nomeações para a Suprema Corte"
+title: Nomeações para a Suprema Corte
 date: 2022-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 ## Para a nomeação dos juízes do Supremo Tribunal, a vaga como juiz no Supremo Tribunal é anunciada publicamente. Existe um comitê de seleção independente que entrevista os candidatos e nomeia novos juízes de acordo com seu próprio procedimento. Novos juízes são então nomeados pelo Rei no Conselho…
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora desenvolve dispositivo para reabilitação oral"
+title: Pesquisadora desenvolve dispositivo para reabilitação oral
 date: 2021-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cirurgiã-dentista formada pelo Centro Universitário Dr. Leão Sampaio (UNILEÃO) e mestranda do Programa em Ciências Odontológicas pela Universidade Federal do Rio Grande do Norte (UFRN), Ana Larisse Carneiro desenvolve pesquisas clínicas com ênfase em novas possibilidades tecnológicas para as reabilitações orais.
 

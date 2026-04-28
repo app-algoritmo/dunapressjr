@@ -1,11 +1,12 @@
 ---
-title: "Como as Big Techs fazem Trilhões em U$?"
+title: Como as Big Techs fazem Trilhões em U$?
 date: 2021-01-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Por Franklin Melo -  
 

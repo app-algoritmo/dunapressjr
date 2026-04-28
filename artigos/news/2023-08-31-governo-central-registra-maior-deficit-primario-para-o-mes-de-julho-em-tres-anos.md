@@ -1,11 +1,13 @@
 ---
-title: "Governo Central registra maior déficit primário para o mês de julho em três anos"
+title: Governo Central registra maior déficit primário para o mês de julho em três
+  anos
 date: 2023-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado primário ficou negativo em R$ 35,933 bi no mês passado.
 

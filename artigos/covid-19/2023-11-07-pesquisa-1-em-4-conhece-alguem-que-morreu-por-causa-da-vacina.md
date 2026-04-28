@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: 1 em 4 conhece alguém que morreu por causa da vacina"
+title: 'Pesquisa: 1 em 4 conhece alguém que morreu por causa da vacina'
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Até um quarto (24%) dos americanos conhece alguém que morreu como resultado da vacinação corona. Isto está de acordo com uma [pesquisa](https://www.rasmussenreports.com/public_content/politics/public_surveys/killer_jab_24_say_someone_they_know_died_from_covid_19_vaccine) contundente . Além disso, quase metade dos americanos aderiria a uma ação coletiva contra os fabricantes de vacinas.
 

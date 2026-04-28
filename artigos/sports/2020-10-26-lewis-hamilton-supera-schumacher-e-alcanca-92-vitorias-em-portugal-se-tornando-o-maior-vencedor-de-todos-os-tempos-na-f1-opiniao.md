@@ -1,11 +1,13 @@
 ---
-title: "Lewis Hamilton supera Schumacher e alcança 92 vitórias em Portugal, se tornando o maior vencedor de todos os tempos na F1| Opinião"
+title: Lewis Hamilton supera Schumacher e alcança 92 vitórias em Portugal, se tornando
+  o maior vencedor de todos os tempos na F1| Opinião
 date: 2020-10-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Depois de igualar o recorde de Michael Schumacher em Nürburgring, Lewis Hamilton se isolou em Portimão. O britânico tem 92 vitórias, número inédito na história da Fórmula 1**
 

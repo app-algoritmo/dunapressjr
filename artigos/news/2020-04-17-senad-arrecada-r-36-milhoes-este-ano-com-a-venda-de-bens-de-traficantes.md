@@ -1,11 +1,12 @@
 ---
-title: "Senad arrecada R$ 3,6 milhões, este ano, com a venda de bens de traficantes"
+title: Senad arrecada R$ 3,6 milhões, este ano, com a venda de bens de traficantes
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública, por meio da Secretaria Nacional de Políticas sobre Drogas (Senad), divulga o primeiro balanço de leilões realizados entre janeiro e março deste ano. Foram R$ 3,6 milhões arrecadados da venda de 530 ativos, entre carros, caminhões, sucatas e outros bens de traficantes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bioinformática: a ciência que pode prever a próxima pandemia mundial"
+title: 'Bioinformática: a ciência que pode prever a próxima pandemia mundial'
 date: 2023-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Modelos matemáticos já conseguem detectar novas doenças e onde elas estão em surto e, por isso, deverão ser capazes de identificar a próxima pandemia. Mas nada disso será feito somente por máquinas: muitos cérebros humanos estão por trás desta empreitada, sobretudo os especialistas em bioinformática.
 

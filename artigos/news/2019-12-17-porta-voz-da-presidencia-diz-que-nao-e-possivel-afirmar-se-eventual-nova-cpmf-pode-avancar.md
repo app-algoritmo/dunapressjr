@@ -1,11 +1,13 @@
 ---
-title: "Porta-voz da Presidência diz que não é possível afirmar se eventual nova CPMF pode avançar"
+title: Porta-voz da Presidência diz que não é possível afirmar se eventual nova CPMF
+  pode avançar
 date: 2019-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Um eventual tributo nos moldes da antiga CPMF pode estar em
 estudos no Ministério da Economia, mas não há dados no momento para afirmar que

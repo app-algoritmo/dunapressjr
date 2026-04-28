@@ -1,11 +1,12 @@
 ---
-title: "Quanto o Kwai paga por visualização?"
+title: Quanto o Kwai paga por visualização?
 date: 2022-08-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Venha saber [quanto o Kwai paga](https://acheicelular.com/porque-meu-kwai-nao-roda-mais/) por visualização no nosso artigo de hoje! Além disso, aproveite este conteúdo para conhecer melhor essa rede social.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cotação do dólar vira e cai para R$ 5,82, depois de encostar em R$ 6"
+title: Cotação do dólar vira e cai para R$ 5,82, depois de encostar em R$ 6
 date: 2020-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Intervenção do BC e mercado externo reverteram alta
 

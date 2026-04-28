@@ -1,11 +1,12 @@
 ---
-title: "Cigarro eletrônico é tão prejudicial à saúde quanto o comum"
+title: Cigarro eletrônico é tão prejudicial à saúde quanto o comum
 date: 2024-01-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Uso do vape também pode causar doenças pulmonares e cardiovasculares, tanto aos fumantes ativos quanto aos passivos.
 

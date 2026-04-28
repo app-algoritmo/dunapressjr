@@ -1,11 +1,12 @@
 ---
-title: "Inglês é incluído na avaliação do PISA"
+title: Inglês é incluído na avaliação do PISA
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A Organização para a Cooperação e Desenvolvimento Econômico (OCDE) vai incluir, a partir de 2025, as competências em línguas estrangeiras como um componente opcional de avaliação de sistemas educacionais no Programa Internacional de Avaliação de Estudantes (em Inglês, Programme for International Student Assessment - PISA). A medida tem como objetivo permitir uma comparação dos níveis de Inglês em escolas de todo o mundo. 
 

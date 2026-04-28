@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Uso de tecnologias digitais avançadas em empresas industriais brasileiras atinge 84,9% em 2022"
+title: 'IBGE: Uso de tecnologias digitais avançadas em empresas industriais brasileiras
+  atinge 84,9% em 2022'
 date: 2023-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Computação em nuvem lidera as tecnologias adotadas, com 73,6%, revela pesquisa da PINTEC.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil: O Golpe Republicano de 15 de Novembro nas Palavras da Princesa Isabel"
+title: 'Brasil: O Golpe Republicano de 15 de Novembro nas Palavras da Princesa Isabel'
 date: 2021-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 "Que vai ser de nossa patria meu Deus ! (…) Que Deus nos proteja e dê juízo a tantos doidos que correm à sua perda e a do paiz ! As saudades que levo são imensas . Fui tão feliz ! Era demais para este mundo." Escreveu a Princesa Isabel do Brasil a uma de suas amigas mais íntimas no navio que a levava para o Exílio em 1889.
 

@@ -1,11 +1,12 @@
 ---
-title: "Decisão da Suprema Corte do Colorado torna Trump 'inelegível' nas primárias"
+title: Decisão da Suprema Corte do Colorado torna Trump 'inelegível' nas primárias
 date: 2023-12-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na mais recente reviravolta política, a Suprema Corte do Colorado tomou uma decisão majoritária que pode ter repercussões significativas no cenário político dos Estados Unidos. Com base na 14ª Emenda, o tribunal proibiu Donald Trump de participar das primárias, alegando que sua participação em uma insurreição o torna inelegível para a presidência.
 

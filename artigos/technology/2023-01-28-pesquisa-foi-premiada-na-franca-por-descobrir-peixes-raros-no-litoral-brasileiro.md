@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa foi premiada na França por descobrir peixes raros no litoral brasileiro"
+title: Pesquisa foi premiada na França por descobrir peixes raros no litoral brasileiro
 date: 2023-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Depois de conquistar o **Prêmio de Tese do Instituto Oceanográfico de Mônaco **2022 (*Le Prix de Thèse de l’Institut Océanographique*), como melhor pesquisa na área de ciências do mar na França, o trabalho de doutorado de Leandro Nolé Eduardo, acaba de conquistar o Prêmio CAPES de Tese em Zootecnia/Recursos Pesqueiros no Brasil.
 

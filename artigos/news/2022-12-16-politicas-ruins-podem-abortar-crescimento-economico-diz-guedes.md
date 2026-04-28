@@ -1,11 +1,12 @@
 ---
-title: "Políticas ruins podem abortar crescimento econômico, diz Guedes"
+title: Políticas ruins podem abortar crescimento econômico, diz Guedes
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro participou de uma das últimas agendas oficiais no cargo.
 

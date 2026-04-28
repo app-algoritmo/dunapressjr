@@ -1,11 +1,13 @@
 ---
-title: "Mais de 60% dos canadenses apoiam a nomeação do príncipe Harry para governador geral"
+title: Mais de 60% dos canadenses apoiam a nomeação do príncipe Harry para governador
+  geral
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O governador-geral do Canadá é o representante oficial do monarca canadense, que está em união pessoal com o monarca do Reino Unido, presentemente a rainha Elizabeth II. No Canadá, o governador-geral representa o rei ou a rainha, que reside predominante no Reino Unido
 

@@ -1,11 +1,12 @@
 ---
-title: "Ipea prevê inflação oficial de 5,3% neste ano"
+title: Ipea prevê inflação oficial de 5,3% neste ano
 date: 2021-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A inflação dos itens monitorados subiu de 6,8% para 8%.
 

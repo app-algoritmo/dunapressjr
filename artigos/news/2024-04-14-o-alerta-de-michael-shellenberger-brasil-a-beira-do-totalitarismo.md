@@ -1,11 +1,12 @@
 ---
-title: "O Alerta de Michael Shellenberger: Brasil à Beira do Totalitarismo"
+title: 'O Alerta de Michael Shellenberger: Brasil à Beira do Totalitarismo'
 date: 2024-04-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O relato publicado pelo jornalista americano Michael Shellenberger aborda a crescente preocupação com o estado atual do Brasil, destacando eventos recentes que levantaram sérias questões sobre a liberdade de expressão e os direitos individuais no país. Shellenberger descreve a mudança de cenário, desde declarações em apoio à liberdade de expressão até chamados para criminalizar a mentira por parte do presidente brasileiro, Lula.
 

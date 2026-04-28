@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Início da guerra em  Maranhão"
+title: 'Série Fatos Da Independência: Início da guerra em  Maranhão'
 date: 2023-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A partida de Pinto da Fonseca em fevereiro de 1822 e a escolha de uma Junta de Governo não implicaram no realinhamento da província com o Sul. O Maranhão permaneceu onde sempre esteve, voltado para Lisboa. Por isso, não foi surpresa seu apoio à decisão das Cortes portuguesas de que o Príncipe Regente deveria regressar a Portugal. A notícia de que o filho de Dom João VI, ao contrário, havia decidido ficar não foi muito bem aceita. Ainda assim, boa parte da província, ao longo de 1822, permaneceu distante das articulações estabelecidas entre as províncias ao sul do Reino, como São Paulo, Minas Gerais, Rio de Janeiro e Rio Grande de São Pedro do Sul. A situação da guerra na Bahia era acompanhada com interesse e, volta e meia, uma ou outra correspondência chegava do Rio de Janeiro, tentando, sem sucesso, convencer os maranhenses a apoiar a regência de Dom Pedro. No início de 1823, as notícias recebidas nas Cortes sobre o Maranhão não podiam ser melhores: “reinava o maior sossego.”
 

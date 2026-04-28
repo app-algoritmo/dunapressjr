@@ -1,11 +1,13 @@
 ---
-title: "Macron Provoca Controvérsia ao Propor Disponibilizar Armas Nucleares Francesas para Defesa da UE"
+title: Macron Provoca Controvérsia ao Propor Disponibilizar Armas Nucleares Francesas
+  para Defesa da UE
 date: 2024-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As recentes declarações de Emmanuel Macron sobre a possibilidade de disponibilizar as armas nucleares da França para a defesa da União Europeia geraram intensos debates e críticas em todo o espectro político.
 

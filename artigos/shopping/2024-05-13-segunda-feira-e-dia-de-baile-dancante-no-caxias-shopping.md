@@ -1,11 +1,12 @@
 ---
-title: "Segunda-feira é dia de baile dançante no Caxias Shopping"
+title: Segunda-feira é dia de baile dançante no Caxias Shopping
 date: 2024-05-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Voltado para todas as idades, o evento é gratuito e conta com muita música e dança.
 

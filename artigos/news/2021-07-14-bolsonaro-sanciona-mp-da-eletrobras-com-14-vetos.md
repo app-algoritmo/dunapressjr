@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona MP da Eletrobras com 14 vetos"
+title: Bolsonaro sanciona MP da Eletrobras com 14 vetos
 date: 2021-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estatal de energia passará para o controle privado.
 

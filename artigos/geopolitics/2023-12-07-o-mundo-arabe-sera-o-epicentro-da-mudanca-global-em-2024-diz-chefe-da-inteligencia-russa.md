@@ -1,11 +1,13 @@
 ---
-title: "O mundo árabe será o epicentro da mudança global em 2024, diz chefe da inteligência russa"
+title: O mundo árabe será o epicentro da mudança global em 2024, diz chefe da inteligência
+  russa
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## A principal razão para o colapso desta política unilateral e míope do Ocidente é incrivelmente simples - é "outro e desta vez genuíno despertar dos povos do Médio Oriente, em contraste com a notória Primavera Árabe que Washington planeou há dez anos", acredita Sergey Naryshkin.
 

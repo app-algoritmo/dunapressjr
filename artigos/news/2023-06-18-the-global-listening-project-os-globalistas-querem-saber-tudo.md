@@ -1,11 +1,12 @@
 ---
-title: "The Global Listening Project: Os globalistas querem saber tudo"
+title: 'The Global Listening Project: Os globalistas querem saber tudo'
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Quase ninguém conhece o *Global Listening Project* . Os responsáveis ​​parecem estar bem com isso. 
 

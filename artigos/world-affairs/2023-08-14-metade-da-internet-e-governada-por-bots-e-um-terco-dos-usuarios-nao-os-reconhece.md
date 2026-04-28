@@ -1,11 +1,12 @@
 ---
-title: "Metade da internet é governada por bots e um terço dos usuários não os reconhece"
+title: Metade da internet é governada por bots e um terço dos usuários não os reconhece
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## É uma parte fundamental da web, mas os usuários chegaram a um ponto crítico: mais e mais pessoas estão perdendo a capacidade de distinguir entre bots e humanos.
 

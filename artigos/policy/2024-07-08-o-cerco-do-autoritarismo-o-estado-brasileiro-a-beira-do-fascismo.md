@@ -1,11 +1,12 @@
 ---
-title: "O Cerco do Autoritarismo: O Estado Brasileiro à Beira do Fascismo"
+title: 'O Cerco do Autoritarismo: O Estado Brasileiro à Beira do Fascismo'
 date: 2024-07-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nos últimos anos, o Brasil testemunhou uma escalada preocupante rumo ao autoritarismo, onde o Estado se expande vorazmente, sufocando as liberdades individuais e impondo um controle cada vez mais rígido sobre a sociedade. Sob o pretexto de segurança e ordem, temos visto um aumento vertiginoso nas taxas de tributação, tornando o peso do Estado um fardo insuportável para muitos brasileiros comuns.
 

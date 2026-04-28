@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério declara voto contrário à indicação de Flávio Dino ao STF"
+title: Marcos Rogério declara voto contrário à indicação de Flávio Dino ao STF
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) declarou, em pronunciamento nesta segunda-feira (11), voto contrário à indicação do ministro da Justiça, Flávio Divo, ao Supremo Tribunal Federal (STF). O parlamentar questionou se Dino é o tipo de representante adequado para a Corte e ressaltou que a população já conhece seu posicionamento político e acompanha sua atuação como homem público.
 

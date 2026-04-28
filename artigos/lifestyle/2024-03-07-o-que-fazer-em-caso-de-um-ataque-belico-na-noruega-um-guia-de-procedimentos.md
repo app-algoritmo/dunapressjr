@@ -1,12 +1,13 @@
 ---
-title: "O que fazer em caso de um ataque bélico na Noruega: Um guia de procedimentos"
+title: 'O que fazer em caso de um ataque bélico na Noruega: Um guia de procedimentos'
 date: 2024-03-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
-  - News
+- Lifestyle
+- News
 ---
+
 
 É crucial que as pessoas na Noruega estejam preparadas para emergências, especialmente após o apoio logístico, treinamento militar e fornecimento de artefatos para a Ucrânia por parte da Noruega, em meio ao conflito russo-ucraniano. Este suporte levou ao endurecimento das relações diplomáticas entre Rússia e Noruega. Com as tensões aumentando e a Rússia ameaçando países da OTAN que apoiam adversários potenciais, é essencial que os residentes noruegueses estejam cientes dos possíveis riscos e preparados para qualquer eventualidade.
 

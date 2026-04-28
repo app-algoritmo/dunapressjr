@@ -1,11 +1,12 @@
 ---
-title: "O Papel Destrutivo da Televisão nos Laços Familiares e Patrióticos"
+title: O Papel Destrutivo da Televisão nos Laços Familiares e Patrióticos
 date: 2024-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A televisão, apesar de sua capacidade de entreter e informar, também pode ter um impacto negativo significativo nas famílias e nos laços patrióticos. Este artigo explora como a programação televisiva, a influência da publicidade e o consumo excessivo de televisão podem contribuir para a fragmentação das famílias e a erosão dos valores patrióticos.
 

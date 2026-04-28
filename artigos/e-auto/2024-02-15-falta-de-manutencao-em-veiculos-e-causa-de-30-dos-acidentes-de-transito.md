@@ -1,11 +1,12 @@
 ---
-title: "Falta de manutenção em veículos é causa de 30% dos acidentes de trânsito"
+title: Falta de manutenção em veículos é causa de 30% dos acidentes de trânsito
 date: 2024-02-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Avaliação periódica do sistema de freios é essencial para evitar problemas.
 

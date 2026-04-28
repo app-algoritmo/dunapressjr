@@ -1,11 +1,13 @@
 ---
-title: "Coordenada pelo MAPA última etapa técnica para novas três áreas livres de aftosa sem vacinação"
+title: Coordenada pelo MAPA última etapa técnica para novas três áreas livres de aftosa
+  sem vacinação
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados da etapa serão encaminhados para Organização Mundial de Saúde Animal.
 

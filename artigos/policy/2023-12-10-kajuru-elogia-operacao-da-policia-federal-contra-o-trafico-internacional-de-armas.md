@@ -1,11 +1,13 @@
 ---
-title: "Kajuru elogia operação da Polícia Federal contra o tráfico internacional de armas"
+title: Kajuru elogia operação da Polícia Federal contra o tráfico internacional de
+  armas
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO), em pronunciamento nesta quarta-feira (6), parabenizou a Polícia Federal pela operação realizada contra o tráfico internacional de armas. A ação policial conseguiu desarticular um grupo suspeito de fornecer armamento para as facções criminosas Comando Vermelho (CV) e Primeiro Comando da Capital (PCC). O senador destacou que, segundo informações de autoridades, o esquema ilegal trouxe mais de 40 mil armas ao Brasil, movimentando cerca de R$ 1,2 bilhão nos últimos três anos.
 

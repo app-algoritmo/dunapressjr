@@ -1,11 +1,12 @@
 ---
-title: "Levar marmita ao trabalho é opção para se alimentar melhor"
+title: Levar marmita ao trabalho é opção para se alimentar melhor
 date: 2021-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Correria do dia-a-dia e muito trabalho não são desculpas para nos rendermos aos alimentos prontos! Mesmo com uma infinidade de atrativos como os fast foods e a grande oferta de alimentos que prometem preparo fácil e rápido, é possível optar por alimentos de verdade, nutritivos e igualmente fáceis de encontrar e preparar.
 

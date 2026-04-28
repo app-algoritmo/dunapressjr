@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 1,97% com apresentação de proposta de tributar dividendos"
+title: Bolsa cai 1,97% com apresentação de proposta de tributar dividendos
 date: 2021-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar subiu para R$ 4,93, após começar dia estável.
 

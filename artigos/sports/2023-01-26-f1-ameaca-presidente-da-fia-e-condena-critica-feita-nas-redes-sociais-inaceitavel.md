@@ -1,11 +1,12 @@
 ---
-title: "F1 ameaça presidente da FIA e condena crítica feita nas redes sociais: 'Inaceitável'"
+title: 'F1 ameaça presidente da FIA e condena crítica feita nas redes sociais: ''Inaceitável'''
 date: 2023-01-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Sacha Woodward Hill, veterano jurídico supremo da categoria, e Renee Wilm, diretora jurídica e administrativa da Liberty Media Corporation acusaram Mohammed de se desviar de suas atribuições.
 

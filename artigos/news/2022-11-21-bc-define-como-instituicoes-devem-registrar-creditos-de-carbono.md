@@ -1,11 +1,12 @@
 ---
-title: "BC define como instituições devem registrar créditos de carbono"
+title: BC define como instituições devem registrar créditos de carbono
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nova regulamentação entrará em vigor em 1º de janeiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Entenda as principais mudanças da MP da Liberdade Econômica"
+title: Entenda as principais mudanças da MP da Liberdade Econômica
 date: 2019-08-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Texto flexibiliza regras trabalhistas e reduz burocracia.
 

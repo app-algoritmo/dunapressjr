@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação oficial fica em 0,72% em julho, diz IBGE"
+title: Prévia da inflação oficial fica em 0,72% em julho, diz IBGE
 date: 2021-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Essa foi a maior variação para um mês de julho desde 2004 (0,93%).
 

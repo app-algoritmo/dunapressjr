@@ -1,11 +1,12 @@
 ---
-title: "O Caso Twitter Brasil e o poder judiciário"
+title: O Caso Twitter Brasil e o poder judiciário
 date: 2024-04-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 **O Ataque à Liberdade de Expressão e aos  direitos fundamentais no Brasil**.
 

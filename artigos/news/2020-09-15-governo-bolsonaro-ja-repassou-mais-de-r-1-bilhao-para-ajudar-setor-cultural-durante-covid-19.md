@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro já repassou mais de R$ 1 bilhão para ajudar setor cultural durante Covid-19"
+title: Governo Bolsonaro já repassou mais de R$ 1 bilhão para ajudar setor cultural
+  durante Covid-19
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Até o momento, 15 estados e 269 municípios receberam os recursos previstos na Lei Aldir Blanc. No total, serão repassados R$ 3 bilhões para socorrer setor cultural no País.
 

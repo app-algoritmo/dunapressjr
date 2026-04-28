@@ -1,11 +1,13 @@
 ---
-title: "Capitania dos Portos do Paraná participa da Operação “Ágata” com Polícia Federal e Polícia Militar do estado"
+title: Capitania dos Portos do Paraná participa da Operação “Ágata” com Polícia Federal
+  e Polícia Militar do estado
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Capitania dos Portos do Paraná (CPPR) participou da Operação “Ágata” com o intuito de combater a poluição ambiental e crimes transfronteiriços, como contrabando e tráfico de drogas e armas. Equipes de inspeção naval e Patrulhamento realizaram, entre os dias 23 e 27 de março, ações interagências com apoio do Núcleo Especial de Polícia Marítima (Nepom) da Delegacia da Polícia Federal (DPF) em Paranaguá e do 9º Batalhão da Polícia Militar do Paraná (PM-PR), na área do Porto de Paranaguá e Antonina.
 

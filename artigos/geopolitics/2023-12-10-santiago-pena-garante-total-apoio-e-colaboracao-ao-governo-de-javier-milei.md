@@ -1,11 +1,12 @@
 ---
-title: "Santiago Peña garante total apoio e colaboração ao governo de Javier Milei"
+title: Santiago Peña garante total apoio e colaboração ao governo de Javier Milei
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 No âmbito da sua visita a Buenos Aires, o chefe de Estado, Santiago Peña, reuniu-se com o presidente eleito da Argentina, Javier Milei, ocasião em que discutiram as históricas relações bilaterais. “Manifestei meus sinceros votos de sucesso nesta nova etapa à frente do governo”, disse o presidente paraguaio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Combustíveis têm leve alta em dezembro em Itajaí"
+title: Combustíveis têm leve alta em dezembro em Itajaí
 date: 2020-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os combustíveis em Itajaí registraram alta no mês de dezembro em comparação ao mês anterior. As gasolinas comum e aditivada subiram menos de 1% - 0,19% e 0,68% respectivamente -, e o etanol está 1,61% mais caro. Já o diesel baixou 0,45% e o diesel S-10 puxou a alta com 2,47%. As variações foram registradas pelos fiscais da Procuradoria do Consumidor (Procon) de Itajaí em 44 postos de combustíveis da cidade na segunda-feira (14).
 

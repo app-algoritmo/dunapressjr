@@ -1,12 +1,13 @@
 ---
-title: "Osascão 100% bate Barueri e consolida liderança no Paulista 2023"
+title: Osascão 100% bate Barueri e consolida liderança no Paulista 2023
 date: 2023-09-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar conquista o quinto resultado positivo consecutivo e defende a ponta na tabela na próxima sexta-feira (15), contra Sorocaba, no encerramento da primeira fase.
 

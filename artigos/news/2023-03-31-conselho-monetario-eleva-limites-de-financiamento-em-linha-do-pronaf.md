@@ -1,11 +1,12 @@
 ---
-title: "Conselho Monetário eleva limites de financiamento em linha do Pronaf"
+title: Conselho Monetário eleva limites de financiamento em linha do Pronaf
 date: 2023-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crédito para cooperativas vai a R$ 25 milhões.
 

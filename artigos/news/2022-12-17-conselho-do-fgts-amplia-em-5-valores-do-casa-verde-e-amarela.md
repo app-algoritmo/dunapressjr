@@ -1,11 +1,12 @@
 ---
-title: "Conselho do FGTS amplia em 5% valores do Casa Verde e Amarela"
+title: Conselho do FGTS amplia em 5% valores do Casa Verde e Amarela
 date: 2022-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Juros do Grupo 3 e do Pró-Cotista foram prorrogados até junho.
 

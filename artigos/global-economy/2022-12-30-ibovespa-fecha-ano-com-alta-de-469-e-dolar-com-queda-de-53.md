@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha ano com alta de 4,69% e dólar com queda de 5,3%"
+title: Ibovespa fecha ano com alta de 4,69% e dólar com queda de 5,3%
 date: 2022-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Nesta sexta-feira (30), em razão do feriado bancário, não haverá negociação de ações
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa termina pregão em queda de 0,54%"
+title: Ibovespa termina pregão em queda de 0,54%
 date: 2023-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fechou o dia estável.
 

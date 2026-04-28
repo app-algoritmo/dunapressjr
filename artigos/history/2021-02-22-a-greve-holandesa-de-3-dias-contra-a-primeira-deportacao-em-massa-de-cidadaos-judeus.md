@@ -1,11 +1,13 @@
 ---
-title: "A greve holandesa de 3 dias contra a primeira deportação em massa de cidadãos judeus"
+title: A greve holandesa de 3 dias contra a primeira deportação em massa de cidadãos
+  judeus
 date: 2021-02-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Oitenta anos atrás, a Holanda se tornou o primeiro e único país ocupado pelos nazistas a organizar uma greve nacional para protestar contra a perseguição de seus cidadãos judeus.
 

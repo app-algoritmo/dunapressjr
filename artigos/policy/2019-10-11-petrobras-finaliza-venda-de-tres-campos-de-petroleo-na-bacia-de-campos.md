@@ -1,11 +1,12 @@
 ---
-title: "Petrobras finaliza venda de três campos de petróleo na Bacia de Campos"
+title: Petrobras finaliza venda de três campos de petróleo na Bacia de Campos
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Estatal recebeu da Perenco cerca de US$ 398 milhões na negociação
 

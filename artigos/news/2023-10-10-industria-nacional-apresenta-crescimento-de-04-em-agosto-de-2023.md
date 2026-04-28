@@ -1,11 +1,12 @@
 ---
-title: "Indústria nacional apresenta crescimento de 0,4% em agosto de 2023"
+title: Indústria nacional apresenta crescimento de 0,4% em agosto de 2023
 date: 2023-10-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Amazonas, Espírito Santo e Rio Grande do Sul lideram o avanço, enquanto Pará, Bahia e Ceará registram quedas significativas.
 

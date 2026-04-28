@@ -1,11 +1,12 @@
 ---
-title: "Rejeição global de CBDCs"
+title: Rejeição global de CBDCs
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A administração Biden e o Federal Reserve estão tomando medidas para o possível lançamento de uma moeda digital do banco central (CBDC). Ao fazer isso, eles ignoram as sérias preocupações sobre a privacidade do consumidor e a pesada supervisão do governo nos Estados Unidos e no exterior.
 

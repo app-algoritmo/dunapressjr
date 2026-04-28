@@ -1,11 +1,13 @@
 ---
-title: "Governo realiza pesquisa para entender perfil alimentar das crianças de todo o país"
+title: Governo realiza pesquisa para entender perfil alimentar das crianças de todo
+  o país
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Ministério da Saúde está realizando uma pesquisa com famílias de todo o país e com os dados vai elaborar ações para melhorar a nutrição dos pequenos.  A meta é visitar, ao menos, 15 mil famílias. Com os resultados, o Governo do Brasil pretende investir em ações para melhorar a nutrição infantil.
 

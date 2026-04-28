@@ -1,11 +1,12 @@
 ---
-title: "Bióloga identifica origem de nutrientes da Amazônia"
+title: Bióloga identifica origem de nutrientes da Amazônia
 date: 2021-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 [Juliana Nogueira](http://lattes.cnpq.br/2519437991952204) é bióloga formada pela Universidade do Estado do Rio de Janeiro (Uerj), mesma instituição em que cursou mestrado em Ecologia e Evolução com bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e [desvendou a origem dos nutrientes da Floresta Amazônica](https://www.nature.com/articles/s43247-020-00071-w). A pesquisadora também foi bolsista da Fundação no doutorado, em Geociências (Geoquímica Ambiental) pela Universidade Federal Fluminense (UFF), com período sanduíche no Instituto Francês de Pesquisa para o Desenvolvimento.
 

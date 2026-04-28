@@ -1,11 +1,12 @@
 ---
-title: "EUA não vai impor tarifas sobre aço e alumínio argentinos"
+title: EUA não vai impor tarifas sobre aço e alumínio argentinos
 date: 2020-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os Estados Unidos decidiram não impor tarifas sobre aço e alumínio da Argentina, deixando sem efeito um anúncio feito em dezembro pelo presidente Donald Trump, informou o ministro das Relações Exteriores da Argentina, Felipe Solá, neste domingo(26).
 

@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde joga pelo 17° título Paulista nesta quinta-feira (5)"
+title: Osasco São Cristóvão Saúde joga pelo 17° título Paulista nesta quinta-feira
+  (5)
 date: 2023-10-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar contará com a força do torcedor, que promete lotar as arquibancadas do ginásio José Liberatti para ser o sétimo jogador osasquense.
 

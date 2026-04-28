@@ -1,11 +1,12 @@
 ---
-title: "Ataque em Igreja Evangélica de Houston é Impedido pela Ação Heróica de Policiais"
+title: Ataque em Igreja Evangélica de Houston é Impedido pela Ação Heróica de Policiais
 date: 2024-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No último domingo, uma tragédia foi evitada graças à rápida intervenção de policiais fora de serviço na Igreja Lakewood, em Houston. Uma mulher, acompanhada de um menor e armada com um rifle, abriu fogo dentro do templo, deixando dois feridos em estado crítico, incluindo uma criança de cinco anos.
 

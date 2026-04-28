@@ -1,11 +1,13 @@
 ---
-title: "Projeto em Itajaí proíbe amputação da cauda, mutilação de orelhas e retirada de cordas vocais de animais domésticos"
+title: Projeto em Itajaí proíbe amputação da cauda, mutilação de orelhas e retirada
+  de cordas vocais de animais domésticos
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De autoria da vereadora Renato Narcizo (SD), foi aprovado com 20 votos favoráveis, em primeira discussão, o [Projeto de Lei Ordinária (PLO) nº 137/2019](http://intranet.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria137_2019.pdf). O PLO altera o Código Municipal de Proteção aos Animais.
  

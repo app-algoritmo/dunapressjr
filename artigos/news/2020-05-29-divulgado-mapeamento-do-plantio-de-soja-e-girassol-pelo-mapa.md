@@ -1,11 +1,12 @@
 ---
-title: "Divulgado mapeamento do plantio de soja e girassol pelo Mapa"
+title: Divulgado mapeamento do plantio de soja e girassol pelo Mapa
 date: 2020-05-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O Zarc leva em conta recomendações de instituições de pesquisa e órgãos estaduais sobre medidas de manejo que incluem o período de vazio sanitário e o calendário de plantio para reduzir os riscos relacionados aos aspectos fitossanitários.
 

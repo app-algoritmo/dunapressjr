@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 1,916 bi em outubro"
+title: Vendas do Tesouro Direto superam resgates em R$ 1,916 bi em outubro
 date: 2021-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estoque Tesouro Direto atingiu R$ 74,52 bilhões.
 

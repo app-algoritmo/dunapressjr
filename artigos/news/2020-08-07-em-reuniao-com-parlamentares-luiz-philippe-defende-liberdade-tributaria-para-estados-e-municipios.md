@@ -1,11 +1,13 @@
 ---
-title: "Em reunião com parlamentares, Luiz Philippe defende liberdade tributária para estados e municípios"
+title: Em reunião com parlamentares, Luiz Philippe defende liberdade tributária para
+  estados e municípios
 date: 2020-08-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Deputados da base governista apontam tendência de simplificação e redução de impostos. Luiz Philippe quer também alinhamento econômico e político para que estados e municípios participem de tributação que hoje é prerrogativa da União.
 

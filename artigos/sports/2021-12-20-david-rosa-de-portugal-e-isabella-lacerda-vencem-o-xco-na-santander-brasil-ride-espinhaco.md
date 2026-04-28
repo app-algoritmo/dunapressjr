@@ -1,11 +1,13 @@
 ---
-title: "David Rosa, de Portugal, e Isabella Lacerda vencem o XCO na Santander Brasil Ride Espinhaço"
+title: David Rosa, de Portugal, e Isabella Lacerda vencem o XCO na Santander Brasil
+  Ride Espinhaço
 date: 2021-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A quarta e penúltima etapa da Santander Brasil Ride Espinhaço foi realizada nesta sexta-feira (17), em Conceição do Mato Dentro (MG), em um circuito de 5,3 km no estilo Cross Country Olímpico (XCO). A prova passou pelo Parque Natural Municipal do Salão das Pedras, grande destaque do dia. Após completar cinco voltas, David Rosa (POR) e Isabella Lacerda foram os vencedores da disputa, que diferente dos outros dias é realizada de forma individual, sem a necessidade das equipes (duplas ou trios) pedalarem juntas. Enquanto o português foi o mais rápido, cruzando a linha de chegada em 1h08min56, a mineira Isabella venceu no feminino, sendo a única mulher a concluir cinco voltas, em 1h21min49. A decisão, neste sábado (18), terá percurso de 37 km e 1.286 m de altimetria acumulada.
 

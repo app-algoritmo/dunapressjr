@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova MP do teletrabalho; texto segue para o Senado"
+title: Câmara aprova MP do teletrabalho; texto segue para o Senado
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Matéria precisa ser votada até domingo, para não perder validade.
 

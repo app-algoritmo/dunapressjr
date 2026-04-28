@@ -1,11 +1,12 @@
 ---
-title: "Marinhas do Irã e do Paquistão realizam exercício militar conjunto"
+title: Marinhas do Irã e do Paquistão realizam exercício militar conjunto
 date: 2024-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O exercício naval conjunto da República Islâmica do Irã e do Paquistão, através da implantação de lançadores de mísseis e navios de guerra das marinhas dos dois países, foi realizado no Estreito de Ormuz e no Golfo Pérsico.
 

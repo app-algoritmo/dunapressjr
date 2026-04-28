@@ -1,11 +1,12 @@
 ---
-title: "STF autoriza Moro e PGR a verem vídeo de reunião ministerial"
+title: STF autoriza Moro e PGR a verem vídeo de reunião ministerial
 date: 2020-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Decisão foi tomada pelo ministro Celso de Mello
 O ministro Celso de Mello, do Supremo Tribunal Federal (STF), autorizou ao ex-ministro Sergio Moro e ao procurador-geral da República, Augusto Aras, o acesso à cópia da gravação em vídeo de uma reunião, realizada no dia 22 de abril, entre o presidente Jair Bolsonaro, o vice-presidente Hamilton Mourão, ministros e presidentes de bancos públicos.

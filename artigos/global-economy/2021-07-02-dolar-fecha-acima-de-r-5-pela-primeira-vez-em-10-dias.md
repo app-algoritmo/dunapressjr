@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha acima de R$ 5 pela primeira vez em 10 dias"
+title: Dólar fecha acima de R$ 5 pela primeira vez em 10 dias
 date: 2021-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 0,9% e voltou aos 125 mil pontos.
 

@@ -1,12 +1,13 @@
 ---
-title: "Mantenha sempre viva a criança dentro de você!"
+title: Mantenha sempre viva a criança dentro de você!
 date: 2019-10-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
-  - Opinion
+- Education
+- Opinion
 ---
+
 
 Quando paramos pra pensar o porquê as crianças têm tanto a nos ensinar conseguimos compreender que realmente todo ser humano vem a esse mundo puro dos mundos celestiais. Nossa alma na essência é pura, mas com o passar do tempo e as influências externas da sociedade, das relações, das circunstâncias das quais passamos, vamos nos corrompendo e aquela pureza se torna cada vez mais distante, apenas como uma lembrança remota.
 

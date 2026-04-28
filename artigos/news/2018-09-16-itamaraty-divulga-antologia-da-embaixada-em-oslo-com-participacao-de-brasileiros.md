@@ -1,11 +1,12 @@
 ---
-title: "Itamaraty divulga Antologia da Embaixada em Oslo com participação de brasileiros"
+title: Itamaraty divulga Antologia da Embaixada em Oslo com participação de brasileiros
 date: 2018-09-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Já está disponível para leitura *online* no site da Embaixada do Brasil em Oslo a **Antologia 2018**. Dentre os brasileiros participantes está a Professora Clarissa Xavier Machado, que é também escritora e assina sob o nome literário de Clari Machado, e é membro do Grupo de Profissionais e Acadêmicos da Embaixada do Brasil em Oslo.
 

@@ -1,10 +1,11 @@
 ---
-title: "Série Fatos Da Independência:"
+title: 'Série Fatos Da Independência:'
 date: 2026-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 

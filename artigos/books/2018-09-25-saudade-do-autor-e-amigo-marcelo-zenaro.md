@@ -1,11 +1,12 @@
 ---
-title: "Saudade do autor e amigo Marcelo Zenaro"
+title: Saudade do autor e amigo Marcelo Zenaro
 date: 2018-09-25
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Books
+- Books
 ---
+
 
 Morreu no dia 6.9.18 em acidente de trânsito próximo a Videira, Santa Catarina, o palestrante  e autor da Duna Marcelo Zenaro. Soube há pouco dos detalhes e da dor da família e dos amigos que acompanham seu trabalho como grande motivador de pessoas, como grande formador de lideranças, como grande artífice de almas. Agora, Marcelo deixa saudades e uma obra que vai se perpetuar, exemplo que foi como orientador, mentor e coach.
 

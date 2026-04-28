@@ -1,11 +1,12 @@
 ---
-title: "Proposta determina que somente juiz pode conceder fiança para agressor de mulher"
+title: Proposta determina que somente juiz pode conceder fiança para agressor de mulher
 date: 2023-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 912/23 determina que somente o juiz pode arbitrar fiança nos casos de lesão corporal contra mulher vítima de violência doméstica. A proposta, em tramitação na Câmara dos Deputados, é do deputado Rubens Pereira Júnior (PT-MA).
 

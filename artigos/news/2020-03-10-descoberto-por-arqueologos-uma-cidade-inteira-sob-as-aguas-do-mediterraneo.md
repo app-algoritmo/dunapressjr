@@ -1,11 +1,12 @@
 ---
-title: "Descoberto por arqueólogos uma cidade inteira sob as águas do Mediterrâneo"
+title: Descoberto por arqueólogos uma cidade inteira sob as águas do Mediterrâneo
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Nas costas egípcias, no mar Mediterrâneo, o arqueólogo marinho Franck Goddio descobriu a antiga cidade de Heraklion, colaborando com uma equipe de 53 especialistas. A cidade foi fundada entre os séculos VI e VIII aC e constituiu um centro fundamental para o comércio entre o Egito e a Grécia entre os séculos V e IV aC. A descoberta realizada em 2015 traz a luz detalhes sobre a cidade, os monumentos e objetos, veja a seguir:
 

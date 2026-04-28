@@ -1,11 +1,12 @@
 ---
-title: "Ex-ministra argentina afirma que fará apresentação ao DEA para prender Maduro"
+title: Ex-ministra argentina afirma que fará apresentação ao DEA para prender Maduro
 date: 2023-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os Estados Unidos ratificaram na quinta-feira passada a recompensa de 15 milhões de dólares pela captura de Nicolás Maduro.
 

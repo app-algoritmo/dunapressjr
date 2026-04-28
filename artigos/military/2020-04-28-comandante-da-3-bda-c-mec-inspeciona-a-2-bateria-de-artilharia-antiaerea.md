@@ -1,11 +1,12 @@
 ---
-title: "Comandante da 3ª Bda C Mec inspeciona a 2ª Bateria de Artilharia Antiaérea"
+title: Comandante da 3ª Bda C Mec inspeciona a 2ª Bateria de Artilharia Antiaérea
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Sant’Ana do Livramento (RS) –** Na tarde do dia 28 de abril, a 2ª Bateria de Artilharia Antiaérea (2ª Bia AAAe) recebeu a primeira visita oficial do novo Comandante da 3ª Brigada de Cavalaria Mecanizada (3ª Bda C Mec), o Senhor General de Brigada **Anysio Luiz Crespo Alves Negrão**, acompanhado de sua comitiva.
 

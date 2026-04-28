@@ -1,11 +1,12 @@
 ---
-title: "PF prende cinco pessoas com drogas no Aeroporto de Fortaleza"
+title: PF prende cinco pessoas com drogas no Aeroporto de Fortaleza
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE - A Polícia Federal prendeu na tarde desta segunda-feira, 18/05, três mulheres e dois homens durante o desembarque de voo proveniente de Manaus, com 6,5 quilos de maconha, tipo skunk, no Aeroporto Internacional Pinto Martins, na capital cearense.
 

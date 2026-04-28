@@ -1,11 +1,12 @@
 ---
-title: "Fórum debate relações comerciais do Brasil com Liga dos Estados Árabes"
+title: Fórum debate relações comerciais do Brasil com Liga dos Estados Árabes
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Comércio com os países chegou a US$ 24 bilhões em 2021, disse ministro.
 

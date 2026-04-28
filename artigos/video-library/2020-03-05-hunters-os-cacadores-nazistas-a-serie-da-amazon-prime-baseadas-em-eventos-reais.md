@@ -1,11 +1,13 @@
 ---
-title: "'Hunters', os caçadores nazistas, a série da Amazon Prime baseadas em eventos reais"
+title: '''Hunters'', os caçadores nazistas, a série da Amazon Prime baseadas em eventos
+  reais'
 date: 2020-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 "Hunters", a nova série coproduzida por Jordan Peele e criada por David Weil para a Amazon Prime, conta a história de uma equipe de caçadores nazistas nos Estados Unidos na década de 1970. 
 

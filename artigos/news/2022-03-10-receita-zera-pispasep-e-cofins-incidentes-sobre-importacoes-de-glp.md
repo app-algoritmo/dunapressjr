@@ -1,11 +1,12 @@
 ---
-title: "Receita zera PIS/Pasep e Cofins incidentes sobre importações de GLP"
+title: Receita zera PIS/Pasep e Cofins incidentes sobre importações de GLP
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida é adotada em meio à disparada no preço do petróleo.
 

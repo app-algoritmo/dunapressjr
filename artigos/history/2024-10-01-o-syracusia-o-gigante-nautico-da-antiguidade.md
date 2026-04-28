@@ -1,12 +1,13 @@
 ---
-title: "O Syracusia: O Gigante Náutico da Antiguidade"
+title: 'O Syracusia: O Gigante Náutico da Antiguidade'
 date: 2024-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History
-  - Technology
+- History
+- Technology
 ---
+
 
 O *Syracusia* foi um dos maiores feitos da engenharia naval da Antiguidade. Construído em *240 a.C., o colossal navio foi projetado pelo matemático e engenheiro **Arquimedes* e encomendado por *Hierão II, rei de Siracusa, uma das cidades mais influentes da Sicília. O navio, que também recebeu contribuições de **Arquias de Corinto*, foi destinado inicialmente para o transporte de suprimentos, tropas e até mesmo luxos imensuráveis, mas também se tornou um símbolo do poder e da riqueza da época.
 

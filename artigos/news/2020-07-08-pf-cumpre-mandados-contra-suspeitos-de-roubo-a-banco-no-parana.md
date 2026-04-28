@@ -1,11 +1,12 @@
 ---
-title: "PF cumpre mandados contra suspeitos de roubo a banco no Paraná"
+title: PF cumpre mandados contra suspeitos de roubo a banco no Paraná
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Curitiba/PR** – A Polícia Federal deflagrou na terça feira (7/7) a operação Fuga da Toca, que cumpre dois mandados de prisão preventiva e um mandado de busca e apreensão contra dois suspeitos de participarem do roubo contra a Caixa Econômica Federal, no bairro Tatuquara em Curitiba, no dia 30 de setembro de 2019. Os mandados judiciais foram cumpridos nas cidades de Mandirituba e Fazenda Rio Grande, no Paraná, e Chapecó, em Santa Catarina.
 

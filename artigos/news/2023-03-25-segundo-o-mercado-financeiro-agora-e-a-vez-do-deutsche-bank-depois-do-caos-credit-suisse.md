@@ -1,11 +1,13 @@
 ---
-title: "Segundo o mercado financeiro agora é a vez do Deutsche Bank, depois do caos Credit Suisse"
+title: Segundo o mercado financeiro agora é a vez do Deutsche Bank, depois do caos
+  Credit Suisse
 date: 2023-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A revista Oeste publicou um artigo importante sobre o tema.
 

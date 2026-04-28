@@ -1,11 +1,12 @@
 ---
-title: "Paraná bate recorde de contratações via Agências do Trabalhador no mês de agosto"
+title: Paraná bate recorde de contratações via Agências do Trabalhador no mês de agosto
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Foram 14.705 contratos de trabalho via Sine em agosto, o melhor resultado já registrado para o mês no Paraná e um crescimento de 15,8% em relação ao mesmo período do ano passado, com 12.699 contratações. No acumulado do ano, a rede Sine estadual colocou 96.500 pessoas em vagas de emprego, um desempenho 121% superior ao segundo colocado.
 

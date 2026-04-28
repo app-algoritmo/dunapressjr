@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal reforça prevenção e combate ao uso de drogas"
+title: Governo Federal reforça prevenção e combate ao uso de drogas
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um Acordo de Cooperação Técnica, entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e o Ministério da Cidadania (MC) para fortalecer as ações de prevenção ao uso de drogas, tratamento e reinserção social de dependentes químicos e seus familiares.
 

@@ -1,11 +1,12 @@
 ---
-title: "Itajaí: Espetáculo PaPeLê é indicado ao Prêmio APTR – Nacional"
+title: 'Itajaí: Espetáculo PaPeLê é indicado ao Prêmio APTR – Nacional'
 date: 2022-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O espetáculo para crianças *“PaPeLê – uma aventura de Papel”*, da Téspis Cia. de Teatro, foi um dos indicados, de todo o Brasil, para o prêmio de melhor espetáculo infanto-juvenil da temporada 2021. A indicação foi para o 16º Prêmio APTR – Nacional, uma das mais importantes premiações do setor teatral do país.
 

@@ -1,12 +1,14 @@
 ---
-title: "Principal centro de pesquisa médica do mundo financiou pesquisas no laboratório de Wuhan"
+title: Principal centro de pesquisa médica do mundo financiou pesquisas no laboratório
+  de Wuhan
 date: 2023-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 Registros obtidos pela Judicial Watch mostram que os Institutos Nacionais de Saúde financiaram uma doação da EcoHealth Alliance para sequenciar a proteína spike dos coronavírus de morcego para criar mutantes para determinar o quão severos eles teriam que evoluir para utilizar o ACE2, que é explicado como um "receptor para entrada nas células humanas".
 

@@ -1,11 +1,13 @@
 ---
-title: "Seis filmes brasileiros para promover a aprendizagem em sala de aula e valorizar a produção nacional"
+title: Seis filmes brasileiros para promover a aprendizagem em sala de aula e valorizar
+  a produção nacional
 date: 2021-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Em 19 de junho é comemorado o Dia do Cinema Nacional. A data foi escolhida em referência ao dia em que o ítalo-brasileiro Afonso Segreto – o primeiro cinegrafista e diretor do Brasil – registrou as primeiras imagens em movimento no território brasileiro, em 1898. Uma lei de autoria do então senador Cristóvão Buarque, de 2014, tornou obrigatória a exibição de filmes e audiovisuais de produção nacional nas escolas de ensino básico de todo o país por, no mínimo, duas horas mensais. Mas a inclusão de filmes nos currículos escolares não é uma novidade na educação brasileira. Ao longo dos anos, educadores, diretores e produtores de cinema debateram sobre as possibilidades de usar os filmes como um recurso pedagógico. A Base Nacional Comum Curricular (BNCC) prevê a valorização das manifestações artísticas e culturais entre as 10 competências gerais da Educação Básica, destacando o cinema nas competências específicas de arte para o Ensino Fundamental 2. 
 

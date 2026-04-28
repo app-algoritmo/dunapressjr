@@ -1,11 +1,13 @@
 ---
-title: "PIB brasileiro de 2021 alcança R$ 9 trilhões com crescimento de 4,8%, revela IBGE"
+title: PIB brasileiro de 2021 alcança R$ 9 trilhões com crescimento de 4,8%, revela
+  IBGE
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Retomada econômica impulsionada pelos serviços e investimentos após queda em 2020.
 

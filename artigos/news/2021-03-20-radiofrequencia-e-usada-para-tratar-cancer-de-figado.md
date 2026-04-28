@@ -1,11 +1,12 @@
 ---
-title: "Radiofrequência é usada para tratar câncer de fígado"
+title: Radiofrequência é usada para tratar câncer de fígado
 date: 2021-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bolsista da Coordenação de Aperfeiçoamento de Pessoal (CAPES), Paulo Roberto dos Santos, doutorando em Sistemas Mecatrônicos pela  Universidade de Brasília (UnB) participa do desenvolvimento de um equipamento médico para tratar o câncer de fígado. Chamado de SOFIA - sigla em inglês para Sistema de Ablação Empática por Radiofrequência – o dispositivo destrói o tecido cancerígeno por meio de ondas de rádio. O projeto é coordenado por Adson Rochapor, professor de Engenharia Elétrica da UnB, e promete ser uma alternativa de tratamento eficaz e menos invasiva.
 

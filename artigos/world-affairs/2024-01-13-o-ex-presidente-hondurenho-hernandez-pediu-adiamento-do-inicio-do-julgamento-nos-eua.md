@@ -1,11 +1,13 @@
 ---
-title: "O ex-presidente hondurenho Hernández pediu adiamento do início do julgamento nos EUA"
+title: O ex-presidente hondurenho Hernández pediu adiamento do início do julgamento
+  nos EUA
 date: 2024-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente hondurenho Juan Orlando Hernández pediu o adiamento do início do seu julgamento por tráfico de drogas por pelo menos mais sete semanas, previsto para 5 de fevereiro nos Estados Unidos, para melhor avaliar as acusações apresentadas pelo Ministério Público.
 

@@ -1,11 +1,12 @@
 ---
-title: "Promulgado acordo de cooperação entre Brasil e Serviço Europeu de Polícia"
+title: Promulgado acordo de cooperação entre Brasil e Serviço Europeu de Polícia
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente da República, Jair Bolsonaro, promulgou o Acordo de Cooperação Estratégica entre o Brasil e o Serviço Europeu de Polícia (Europol), firmado em Haia (Holanda), em 11 de abril de 2017, por meio da direção da Polícia Federal em nome do governo brasileiro.
 

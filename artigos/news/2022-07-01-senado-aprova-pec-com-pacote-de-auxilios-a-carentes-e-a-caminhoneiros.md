@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova PEC com pacote de auxílios a carentes e a caminhoneiros"
+title: Senado aprova PEC com pacote de auxílios a carentes e a caminhoneiros
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Com proposta, Estado de Emergência pode ser decretado até fim do ano.
 

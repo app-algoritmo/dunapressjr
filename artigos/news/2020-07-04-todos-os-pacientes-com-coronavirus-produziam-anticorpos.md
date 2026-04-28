@@ -1,11 +1,12 @@
 ---
-title: "Todos os pacientes com coronavírus produziam anticorpos"
+title: Todos os pacientes com coronavírus produziam anticorpos
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores da Universidade de Tel Aviv veem imunidade promissora à reinfecção de pacientes com coronavírus.
 

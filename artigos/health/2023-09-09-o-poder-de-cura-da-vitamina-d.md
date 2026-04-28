@@ -1,11 +1,12 @@
 ---
-title: "O poder de cura da vitamina D"
+title: O poder de cura da vitamina D
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Sabemos que a instituição médica mentiu para nós sobre Corona. Segundo o respeitado médico Paul Marik, também mentem sobre o sol.
 

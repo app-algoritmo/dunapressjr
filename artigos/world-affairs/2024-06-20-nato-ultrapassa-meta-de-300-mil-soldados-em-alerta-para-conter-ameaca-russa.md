@@ -1,11 +1,12 @@
 ---
-title: "NATO Ultrapassa Meta de 300 Mil Soldados em Alerta para Conter Ameaça Russa"
+title: NATO Ultrapassa Meta de 300 Mil Soldados em Alerta para Conter Ameaça Russa
 date: 2024-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A NATO anunciou que superou significativamente sua meta de colocar 300 mil soldados em alerta, uma medida estratégica para conter a ameaça russa. Este aumento no número de tropas disponíveis para deslocamento rápido foi decidido após a invasão da Ucrânia pela Rússia em 2022.
 

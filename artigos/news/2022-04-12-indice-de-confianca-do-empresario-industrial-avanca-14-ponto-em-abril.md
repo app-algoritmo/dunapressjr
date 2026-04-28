@@ -1,11 +1,12 @@
 ---
-title: "Índice de confiança do empresário industrial avança 1,4 ponto em abril"
+title: Índice de confiança do empresário industrial avança 1,4 ponto em abril
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trata-se da primeira alta do índice em 2022, após três recuos.
 

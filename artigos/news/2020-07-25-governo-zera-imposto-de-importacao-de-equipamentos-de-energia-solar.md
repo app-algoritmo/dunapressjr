@@ -1,11 +1,12 @@
 ---
-title: "Governo zera imposto de importação de equipamentos de energia solar"
+title: Governo zera imposto de importação de equipamentos de energia solar
 date: 2020-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Equipamentos entram em lista de bens de capital que terão os impostos de importação zerados até o final de 2021.
 

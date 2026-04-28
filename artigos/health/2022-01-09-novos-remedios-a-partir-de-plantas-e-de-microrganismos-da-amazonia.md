@@ -1,11 +1,12 @@
 ---
-title: "Novos remédios a partir de plantas e de microrganismos da Amazônia￼"
+title: Novos remédios a partir de plantas e de microrganismos da Amazônia￼
 date: 2022-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Entre as doenças endêmicas da Amazônia (isto é, mais comuns na região) estão a Tuberculose, as doenças causadas por Escherichia coli, Salmonella sp, Shigella sp e Staphylococcus aureus e as Dermatomicoses (lesões de pele ocasionadas por fungos). Os Cientistas do Instituto Nacional de Pesquisas (INPA) da Amazônia estão investigando extratos de microrganismos ambientais e os de plantas reconhecidas pelos saberes tradicionais, como eficazes contra essas doenças. Buscam isolar e identificar novos compostos com ação antibiótica ou compostos que possam estimular o crescimento microbiano para uso em técnicas laboratoriais de diagnóstico.
 

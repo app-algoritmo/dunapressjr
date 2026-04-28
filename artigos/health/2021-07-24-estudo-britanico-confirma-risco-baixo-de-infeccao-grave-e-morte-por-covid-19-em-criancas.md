@@ -1,11 +1,13 @@
 ---
-title: "Estudo britânico confirma risco baixo de infecção grave e morte por Covid-19 em crianças"
+title: Estudo britânico confirma risco baixo de infecção grave e morte por Covid-19
+  em crianças
 date: 2021-07-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O risco de crianças desenvolverem a forma grave da Covid-19 ou morrerem em decorrência da doença é extremamente baixo, segundo um [novo estudo britânico publicado na plataforma de preprints Research Square](https://www.researchsquare.com/article/rs-689684/v1). Durante o primeiro ano da pandemia de Covid-19 no Reino Unido, entre março de 2020 e fevereiro de 2021, 25 crianças morreram devido à infecção por SARS-CoV-2.
 

@@ -1,11 +1,12 @@
 ---
-title: "Publicado edital para concessão de sete terminais pesqueiros públicos"
+title: Publicado edital para concessão de sete terminais pesqueiros públicos
 date: 2022-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto gerará R$ 71,1 mi de investimentos privados em seis estados.
 

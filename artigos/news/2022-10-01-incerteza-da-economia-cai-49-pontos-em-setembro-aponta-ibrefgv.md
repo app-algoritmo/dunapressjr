@@ -1,11 +1,12 @@
 ---
-title: "Incerteza da Economia cai 4,9 pontos em setembro, aponta Ibre/FGV"
+title: Incerteza da Economia cai 4,9 pontos em setembro, aponta Ibre/FGV
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o menor nível desde novembro 2019.
 

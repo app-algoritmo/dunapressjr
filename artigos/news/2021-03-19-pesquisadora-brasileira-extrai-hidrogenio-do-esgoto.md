@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora brasileira extrai hidrogênio do esgoto"
+title: Pesquisadora brasileira extrai hidrogênio do esgoto
 date: 2021-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Doutora em Engenharia Ambiental pela University of Colorado Boulder, EUA, com bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Fernanda Leite Lobo é graduada em Engenharia Elétrica pela Universidade do Estado do Amazonas e em Engenharia Civil pela Universidade Federal do Amazonas. Atualmente trabalha no Departamento de Engenharia Hidráulica e Ambiental da Universidade Federal do Ceará, pesquisando nas áreas de energias renováveis, tratamento de esgoto, relação entre parâmetros elétricos e a atividade de bactérias eletroativas, reaproveitamento de energia e nutrientes no tratamento de esgoto, biocarvão e eletrocoagulação.
 

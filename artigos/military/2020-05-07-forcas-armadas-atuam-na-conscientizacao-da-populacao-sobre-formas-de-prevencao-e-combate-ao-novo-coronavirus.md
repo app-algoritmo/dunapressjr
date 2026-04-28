@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas atuam na conscientização da população sobre formas de prevenção e combate ao novo Coronavírus"
+title: Forças Armadas atuam na conscientização da população sobre formas de prevenção
+  e combate ao novo Coronavírus
 date: 2020-05-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Ações de conscientização junto à população foram reforçadas pelas Forças Armadas nas últimas 24 horas. Durante inspeções navais realizadas pelas Capitanias dos Portos do Amapá, no Igarapé da Fortaleza (AP), e dos Portos da Amazônia Oriental, em Belém (PA), reafirmaram as orientações de prevenção a tripulantes e passageiros de embarcações sobre as formas de combate ao novo Coronavírus.
 

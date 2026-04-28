@@ -1,11 +1,12 @@
 ---
-title: "'Não me mate, nem me machuque! Sou uma gambá(saruê)'"
+title: '''Não me mate, nem me machuque! Sou uma gambá(saruê)'''
 date: 2021-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Nesta época do ano os gambás estão se reproduzindo e isso faz com que as fêmeas fiquem mais lentas e busquem locais seguros para ficarem com os filhotes.
 

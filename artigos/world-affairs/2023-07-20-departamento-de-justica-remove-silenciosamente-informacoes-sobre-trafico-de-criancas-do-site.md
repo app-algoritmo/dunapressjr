@@ -1,11 +1,13 @@
 ---
-title: "Departamento de Justiça remove silenciosamente informações sobre tráfico de crianças do site"
+title: Departamento de Justiça remove silenciosamente informações sobre tráfico de
+  crianças do site
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Justiça (DOJ) removeu silenciosamente de seu [site](https://www.justice.gov/criminal-ceos/child-sex-trafficking) várias seções relacionadas ao tráfico doméstico e internacional de crianças, incluindo uma seção contendo informações sobre o "recrutamento e exploração" de menores nas ofertas da indústria do sexo comercial nos EUA. Esta é principalmente informação adicionada sob o presidente Trump.
 

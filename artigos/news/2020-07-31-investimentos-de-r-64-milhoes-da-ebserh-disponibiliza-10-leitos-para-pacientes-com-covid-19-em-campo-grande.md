@@ -1,11 +1,13 @@
 ---
-title: "Investimentos de R$ 6,4 milhões da Ebserh disponibiliza 10 leitos para pacientes com Covid-19 em Campo Grande"
+title: Investimentos de R$ 6,4 milhões da Ebserh disponibiliza 10 leitos para pacientes
+  com Covid-19 em Campo Grande
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Diante do agravamento dos casos de coronavírus foi necessária a ampliação de leitos.
 

@@ -1,11 +1,13 @@
 ---
-title: "PL aprovado autoriza transporte de animais de estimação em ônibus e trens em Santa Catarina"
+title: PL aprovado autoriza transporte de animais de estimação em ônibus e trens em
+  Santa Catarina
 date: 2021-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por unanimidade, a Assembleia Legislativa aprovou, na sessão ordinária desta terça-feira (26), o projeto de lei (PL) que autoriza o transporte de animais de estimação pequeno e médio porte acompanhados de seus tutores nos sistemas de transporte intermunicipal em Santa Catarina. A matéria segue para a votação da Redação Final, na quarta-feira (27), e posterior análise do governador.
 

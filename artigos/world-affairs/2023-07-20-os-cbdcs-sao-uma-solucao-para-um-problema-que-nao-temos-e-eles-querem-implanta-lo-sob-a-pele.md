@@ -1,11 +1,13 @@
 ---
-title: "Os CBDCs são uma solução para um problema que não temos e eles querem implantá-lo sob a pele"
+title: Os CBDCs são uma solução para um problema que não temos e eles querem implantá-lo
+  sob a pele
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Em seu discurso sobre a renda básica universal, o professor Richard Werner disse: “Você receberá 2.000 euros em sua conta todos os meses. Mas é claro que eles dirão: 'Precisamos usar a tecnologia mais recente, então você precisa do implante do chip CBDC' para executar isso com eficiência.”
 

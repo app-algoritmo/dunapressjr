@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica volta de financiamento de obras no exterior"
+title: Cleitinho critica volta de financiamento de obras no exterior
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (29), o senador Cleitinho (Republicanos-MG) questionou o projeto (PL) [5.719/2023](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349518), enviado pelo Executivo ao Congresso Nacional na última segunda-feira (27), que autoriza o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) a retomar os financiamentos para operações de empresas brasileiras no exterior. O senador argumentou que o Brasil não pode voltar a "liberar dinheiro", porque a maioria dos países que adquiriram empréstimos junto à instituição financeira está inadimplente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Biblioteca de Tønsberg se prepara para o Natal"
+title: Biblioteca de Tønsberg se prepara para o Natal
 date: 2018-11-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na Noruega preparar-se para a chegada do Natal não significa apenas enfeitar-se com objetos decorativos típicos. Preparar-se para o Natal significa realmente viver, respirar e vivenciar essa que é a data mais importante do ano. Na Biblioteca de Tønsberg, a mais visitada de Vestfold, não é diferente. Além de livros, filmes e músicas, vários eventos acontecerão lá, incluindo um Concerto de Natal.
 

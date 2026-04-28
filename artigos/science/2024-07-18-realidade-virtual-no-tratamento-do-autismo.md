@@ -1,12 +1,13 @@
 ---
-title: "Realidade Virtual no Tratamento do Autismo"
+title: Realidade Virtual no Tratamento do Autismo
 date: 2024-07-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 Os visores de realidade virtual (VR) têm se destacado como ferramentas inovadoras e eficazes no tratamento de pessoas com autismo. Utilizando ambientes virtuais controlados, esses dispositivos permitem que os indivíduos pratiquem habilidades sociais e enfrentem situações de ansiedade de forma segura e gradual. Estudos têm demonstrado que a VR pode melhorar significativamente a interação social, a comunicação e a preparação para entrevistas de emprego, além de reduzir a ansiedade associada a novas experiências. Avanços tecnológicos, como feedback háptico e reconhecimento facial, tornam essas intervenções ainda mais personalizadas e eficazes, abrindo novas possibilidades para o desenvolvimento de habilidades práticas e a promoção da independência.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto cria Patrulha Nacional para combater a violência doméstica contra crianças"
+title: Projeto cria Patrulha Nacional para combater a violência doméstica contra crianças
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Flavinha: medida vai fortalecer o sistema de proteção e garantir atendimento humanizado.
 

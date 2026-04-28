@@ -1,11 +1,13 @@
 ---
-title: "Plataforma + Brasil: mais transparência e controle social no repasse de recursos da União"
+title: 'Plataforma + Brasil: mais transparência e controle social no repasse de recursos
+  da União'
 date: 2020-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nova modalidade auxilia cidadão a acompanhar o andamento das políticas públicas nos municípios.
 

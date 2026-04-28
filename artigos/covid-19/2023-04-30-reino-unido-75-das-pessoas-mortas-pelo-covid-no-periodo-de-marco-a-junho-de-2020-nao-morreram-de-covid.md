@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido: 75% das pessoas 'mortas pelo Covid' no período de março a junho de 2020 não morreram de Covid"
+title: 'Reino Unido: 75% das pessoas ''mortas pelo Covid'' no período de março a junho
+  de 2020 não morreram de Covid'
 date: 2023-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Dados de um importante fundo do NHS sugerem que na 'primeira onda' da pandemia de Covid houve três 'mortes de Covid' assintomáticas para cada morte de Covid sintomática. 
 

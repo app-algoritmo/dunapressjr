@@ -1,11 +1,12 @@
 ---
-title: "10 problemas com vacinas - e 10 soluções"
+title: 10 problemas com vacinas - e 10 soluções
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## *Você conhece alguém que está "preso na crença rígida e dogmática da infalibilidade da vacina"? *Dr Clayton J. Baker propõe compartilhar sua lista de 10 "problemas com vacinas" e depois apresentar sua lista de 10 soluções.
 

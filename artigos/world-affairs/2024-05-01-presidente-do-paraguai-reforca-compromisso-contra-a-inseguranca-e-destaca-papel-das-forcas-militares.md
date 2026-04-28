@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Paraguai reforça compromisso contra a insegurança e destaca papel das forças militares"
+title: Presidente do Paraguai reforça compromisso contra a insegurança e destaca papel
+  das forças militares
 date: 2024-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Paraguai, Santiago Peña, reiterou seu compromisso inabalável na luta contra a insegurança, destacando a necessidade de uma abordagem multifacetada para combater o crime organizado. Em uma recente entrevista à Megacadena de Comunicación, Peña enfatizou a importância de dar às forças militares um novo papel nessa luta crucial.
 

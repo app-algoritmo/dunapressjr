@@ -1,11 +1,13 @@
 ---
-title: "Prazos para pagamento e comprovação da isenção do IPVA de placa com final 1 seguem até 29 de janeiro na Paraíba"
+title: Prazos para pagamento e comprovação da isenção do IPVA de placa com final 1
+  seguem até 29 de janeiro na Paraíba
 date: 2021-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A primeira é a cota única com desconto de 10% à vista.
 

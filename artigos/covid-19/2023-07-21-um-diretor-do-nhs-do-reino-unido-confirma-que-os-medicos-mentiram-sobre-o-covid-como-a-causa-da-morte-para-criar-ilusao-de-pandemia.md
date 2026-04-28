@@ -1,11 +1,13 @@
 ---
-title: "Um diretor do NHS do Reino Unido confirma que os médicos mentiram sobre o COVID como a causa da morte para criar ilusão de pandemia"
+title: Um diretor do NHS do Reino Unido confirma que os médicos mentiram sobre o COVID
+  como a causa da morte para criar ilusão de pandemia
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 “Se quatro doenças diferentes são [coletivamente] e agora chamadas de Covid-19, **você inevitavelmente descobrirá que o Covid-19 tem uma taxa de mortalidade tremenda** . A grande mídia relatou esse enorme aumento nas mortes por Covid-19 por causa da introdução do Sistema de Exame Médico”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Em meio a coronavírus e protestos, as celebridades estão promovendo o anti-semitismo"
+title: Em meio a coronavírus e protestos, as celebridades estão promovendo o anti-semitismo
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Por Mohamad Tawhidi*
 

@@ -1,11 +1,12 @@
 ---
-title: "Oficiais do Exército participam de simulação de conflito internacional"
+title: Oficiais do Exército participam de simulação de conflito internacional
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta terça-feira (24), a Escola Superior de Defesa (ESD) deu início ao aguardado Exercício de Crise Internacional, que integra o currículo do Curso de Altos Estudos em Defesa (CAED). Participaram da atividade 16 oficiais superiores do Exército Brasileiro. O Exercício marca a etapa final do calendário letivo.
 

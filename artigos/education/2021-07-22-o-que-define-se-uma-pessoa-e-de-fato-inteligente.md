@@ -1,11 +1,12 @@
 ---
-title: "O que define se uma pessoa é, de fato, inteligente?"
+title: O que define se uma pessoa é, de fato, inteligente?
 date: 2021-07-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O que define se uma pessoa é, de fato, inteligente? Com crianças e adolescentes, em geral, os parâmetros usados são notas e desempenho escolar, adotando a prática de provas e resolução de desafios para escolher o mais inteligente da turma. O grande problema de um sistema que classifica as pessoas apenas por esse recorte é que, nesse caso, é levado em conta apenas um ou dois tipos de inteligência. 
 

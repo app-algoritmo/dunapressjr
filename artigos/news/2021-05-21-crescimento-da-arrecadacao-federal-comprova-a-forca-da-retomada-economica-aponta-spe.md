@@ -1,11 +1,13 @@
 ---
-title: "Crescimento da arrecadação federal comprova a força da retomada econômica, aponta SPE"
+title: Crescimento da arrecadação federal comprova a força da retomada econômica,
+  aponta SPE
 date: 2021-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo Conjuntura Macroeconômica e Arrecadação Bruta de Tributos Federais revela cenário positivo do início de 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "Críticas e Controvérsias em Torno do Bairro Sem Carros em Utrecht"
+title: Críticas e Controvérsias em Torno do Bairro Sem Carros em Utrecht
 date: 2024-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Merwedekanaalzone: Liberdade Pessoal em Risco com Projeto Sustentável**.
 

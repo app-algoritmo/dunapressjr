@@ -1,11 +1,12 @@
 ---
-title: "Biden e Xi se reunirão na Califórnia"
+title: Biden e Xi se reunirão na Califórnia
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente Joe Biden e seu homólogo chinês Xi Jinping se reunirão na quarta-feira na Califórnia para discutir comércio, Taiwan e as tensas relações entre os Estados Unidos e a China, na primeira reunião dos líderes das duas maiores economias do mundo em um ano.
 

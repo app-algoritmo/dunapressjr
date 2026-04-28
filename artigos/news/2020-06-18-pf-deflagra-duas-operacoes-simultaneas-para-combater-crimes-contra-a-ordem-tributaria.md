@@ -1,11 +1,13 @@
 ---
-title: "PF deflagra duas operações simultâneas para combater crimes contra a ordem tributária"
+title: PF deflagra duas operações simultâneas para combater crimes contra a ordem
+  tributária
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE- A Polícia Federal deflagrou, em conjunto com a Receita Federal , as Operações Ásia 1 e 2, que investigam a suposta prática dos crimes de lavagem de dinheiro, evasão de divisas, sonegação fiscal, associação criminosa, falsidade ideológica e descaminho praticados por empresários, consultores e despachantes aduaneiros, no Ceará.
 

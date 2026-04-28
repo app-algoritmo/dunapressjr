@@ -1,11 +1,13 @@
 ---
-title: "Lavrov: Não temos escolha a não ser tratar os F-16 na Ucrânia como uma ameaça nuclear"
+title: 'Lavrov: Não temos escolha a não ser tratar os F-16 na Ucrânia como uma ameaça
+  nuclear'
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O conselheiro de segurança nacional da Casa Branca, Jake Sullivan, reiterou na cúpula da OTAN em Vilnius que haverá "uma implantação de caças F-16 [para a Ucrânia], provavelmente de países europeus que possuem aeronaves F-16 excedentes".
 

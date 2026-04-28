@@ -1,11 +1,12 @@
 ---
-title: "Em outubro, indústria cresce em sete dos 15 locais pesquisados"
+title: Em outubro, indústria cresce em sete dos 15 locais pesquisados
 date: 2019-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em outubro de 2019, na série com ajuste sazonal, sete dos 15
 locais pesquisados mostraram taxas positivas, acompanhando o crescimento (0,8%)

@@ -1,11 +1,13 @@
 ---
-title: "Incêndios florestais na Califórnia estão se tornando maiores e mais rápido do que nunca"
+title: Incêndios florestais na Califórnia estão se tornando maiores e mais rápido
+  do que nunca
 date: 2020-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quando se trata de incêndios florestais na Califórnia, agora leva dias, não décadas, para produzir o que era visto como uma ocorrência única na vida.
 

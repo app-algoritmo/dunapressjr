@@ -1,11 +1,12 @@
 ---
-title: "O Protetor 3:  Capítulo Final"
+title: O Protetor 3:  Capítulo Final
 date: 2023-10-23
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 https://youtu.be/4dvYznqqqPo?si=eqwtJBKJd38T80g5
 

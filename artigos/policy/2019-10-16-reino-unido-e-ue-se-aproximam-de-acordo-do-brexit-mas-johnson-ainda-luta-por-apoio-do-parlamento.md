@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido e UE se aproximam de acordo do Brexit, mas Johnson ainda luta por apoio do Parlamento"
+title: Reino Unido e UE se aproximam de acordo do Brexit, mas Johnson ainda luta por
+  apoio do Parlamento
 date: 2019-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Autoridades britânicas e da União Europeia estavam muito
 próximas de fechar um acordo de última hora para o Brexit nesta quarta-feira,

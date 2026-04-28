@@ -1,11 +1,12 @@
 ---
-title: "COVID-19 reduziu a expectativa de vida nos Estados Unidos"
+title: COVID-19 reduziu a expectativa de vida nos Estados Unidos
 date: 2021-01-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores da Universidade do Sul da Califórnia apresentam um  novo estudo e descobrem que, devido às mortes de COVID-19 no ano passado, a expectativa de vida ao nascer para os americanos vai diminuir em 1,13 anos para 77,48 anos - o maior declínio de um único ano na expectativa de vida em pelo menos 40 anos.
 

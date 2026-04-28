@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Você já ouvi falar da Doença “da urina preta” (Doença de Haff)?"
+title: 'Dicas de Saúde: Você já ouvi falar da Doença “da urina preta” (Doença de Haff)?'
 date: 2021-06-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A doença é causada por uma toxina que pode ser encontrada em determinados peixes como o tambaqui, o badejo e a arabaiana ou crustáceos (lagosta, lagostim, camarão).
 

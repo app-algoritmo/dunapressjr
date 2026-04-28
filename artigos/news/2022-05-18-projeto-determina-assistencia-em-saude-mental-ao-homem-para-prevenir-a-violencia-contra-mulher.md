@@ -1,11 +1,13 @@
 ---
-title: "Projeto determina assistência em saúde mental ao homem para prevenir a violência contra mulher"
+title: Projeto determina assistência em saúde mental ao homem para prevenir a violência
+  contra mulher
 date: 2022-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 4147/21, do Senado, estabelece um conjunto de ações em âmbito nacional de atendimento aos homens, em especial na área da saúde mental, com o intuito de prevenir a violência contra a mulher. O texto agora em análise na Câmara dos Deputados insere os dispositivos na [Lei Maria da Penha](https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-norma-pl.html).
 

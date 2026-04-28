@@ -1,12 +1,13 @@
 ---
-title: "Edgar Allan Poe e seu eterno amor por gatos"
+title: Edgar Allan Poe e seu eterno amor por gatos
 date: 2024-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 "Allan Poe aprendeu com os gatos que o amor por si mesmo é uma condição indispensável para que o resto do mundo nos ame.
 

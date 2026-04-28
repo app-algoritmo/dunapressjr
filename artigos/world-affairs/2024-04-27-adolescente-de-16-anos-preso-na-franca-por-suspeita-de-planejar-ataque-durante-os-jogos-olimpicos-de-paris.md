@@ -1,11 +1,13 @@
 ---
-title: "Adolescente de 16 anos preso na França por suspeita de planejar ataque durante os Jogos Olímpicos de Paris"
+title: Adolescente de 16 anos preso na França por suspeita de planejar ataque durante
+  os Jogos Olímpicos de Paris
 date: 2024-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades francesas detiveram um adolescente de 16 anos no departamento de Haute-Savoie (leste) sob suspeita de planejar um ataque islâmico durante os Jogos Olímpicos que ocorreriam em Paris a partir do final de julho.
 

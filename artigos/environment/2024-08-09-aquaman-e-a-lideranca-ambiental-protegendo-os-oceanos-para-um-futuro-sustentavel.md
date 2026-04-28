@@ -1,14 +1,15 @@
 ---
-title: "Aquaman e a liderança ambiental: Protegendo os oceanos para um futuro sustentável"
+title: 'Aquaman e a liderança ambiental: Protegendo os oceanos para um futuro sustentável'
 date: 2024-08-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Environment
-  - Motivational
-  - Personal Development
-  - Video library
+- Environment
+- Motivational
+- Personal Development
+- Video library
 ---
+
 
 ## As lições de Arthur Curry para a preservação dos mares e a importância da liderança na proteção dos ecossistemas marinhos.
 

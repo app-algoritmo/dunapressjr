@@ -1,11 +1,13 @@
 ---
-title: "Negociações Históricas: Rumos da Itaipu Binacional para os Próximos 50 Anos em Debate"
+title: 'Negociações Históricas: Rumos da Itaipu Binacional para os Próximos 50 Anos
+  em Debate'
 date: 2024-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro da Indústria e Comércio, Javier Giménez, anunciou que as negociações em andamento com o Brasil em relação à Itaipu Binacional serão de importância histórica, moldando os rumos da empresa pelos próximos 50 anos. Ele destacou que o primeiro passo, a definição da alíquota, estaria concluído em cerca de duas semanas.
 

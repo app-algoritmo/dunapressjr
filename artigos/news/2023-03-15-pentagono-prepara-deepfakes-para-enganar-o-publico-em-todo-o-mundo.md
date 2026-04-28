@@ -1,11 +1,12 @@
 ---
-title: "Pentágono prepara deepfakes para enganar o público em todo o mundo"
+title: Pentágono prepara deepfakes para enganar o público em todo o mundo
 date: 2023-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O Comando de Operações Especiais dos Estados Unidos (SOCOM) está se preparando para conduzir campanhas de propaganda e engano na internet usando vídeo deepfake”, segundo contratos com o governo federal vistos pelo The Intercept.
 

@@ -1,11 +1,13 @@
 ---
-title: "Localização do massacre de 33.771 judeus   em Babyn Yar é identificada após 79 anos"
+title: Localização do massacre de 33.771 judeus   em Babyn Yar é identificada após
+  79 anos
 date: 2021-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Na Ucrânia, o especialista em crimes de guerra nazista usa simulação 3-D e fotografia aérea para localizar a ravina do Holocausto sob a cidade de Kiev. 
 

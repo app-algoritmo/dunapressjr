@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial em 2022 cai em oito de 15 locais pesquisados"
+title: Produção industrial em 2022 cai em oito de 15 locais pesquisados
 date: 2023-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O maior índice positivo foi registrado no estado do Mato Grosso e o pior no Pará.
 

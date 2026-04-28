@@ -1,11 +1,12 @@
 ---
-title: "Oftalmologistas rastreiam 66 complicações da córnea associadas às vacinas COVID-19"
+title: Oftalmologistas rastreiam 66 complicações da córnea associadas às vacinas COVID-19
 date: 2023-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Uma equipe de investigadores oftalmológicos afiliados à Universidade de Arkansas para Ciências Médicas (Departamento de Oftalmologia) juntamente com a Escola de Medicina da Universidade de Saint Louis, Universidade de Illinois em Chicago (Departamento de Oftalmologia—Harvey e Bernice Jones Eye Institute); Loyola University Medical Center (Departamento de Oftalmologia), Harvard Medical School ( Departamento de Oftalmologia, Massachusetts Eye and Ear ) e Benha University ( Departamento de Oftalmologia) investigam 66 casos envolvendo eventos oftalmológicos adversos associados às vacinas COVID-19. Embora os autores apontem que não são capazes de estabelecer uma relação causal entre as vacinas COVID-19 e a incidência de complicações adversas da córnea, eles apontam a necessidade de mais dados. No entanto, o TrialSite continuará monitorando cuidadosamente as complicações da córnea associadas ao programa de vacinação contra a COVID-19.*
 

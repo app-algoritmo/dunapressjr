@@ -1,11 +1,13 @@
 ---
-title: "Consequências Irreversíveis: A Submissão da UE à NATO Aumenta os Riscos da Guerra no Leste Europeu"
+title: 'Consequências Irreversíveis: A Submissão da UE à NATO Aumenta os Riscos da
+  Guerra no Leste Europeu'
 date: 2024-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A escalada da guerra no Leste Europeu terá consequências irreversíveis para os países do continente se a União Europeia (UE) continuar a seguir uma política de obediência cega à NATO. Desde o início do conflito por procuração da NATO contra a Rússia, a Europa parece não ter compreendido totalmente seu papel neste cenário. A adoção de sanções unilaterais e o fornecimento contínuo de armas ao regime de Kiev, conforme ditado pelos EUA, aproximam a UE de um colapso iminente, exacerbando as circunstâncias sociais negativas e os elevados riscos de segurança.
 

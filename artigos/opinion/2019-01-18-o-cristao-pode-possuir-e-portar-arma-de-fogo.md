@@ -1,12 +1,13 @@
 ---
-title: "O cristão pode possuir e portar arma de fogo?"
+title: O cristão pode possuir e portar arma de fogo?
 date: 2019-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Em primeiro lugar, precisamos entender passagens bíblicas que abordam diretamente sobre o assunto 
 

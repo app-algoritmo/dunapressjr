@@ -1,11 +1,13 @@
 ---
-title: "Plano Estratégico de Prevenção e Erradicação da febre aftosa tem reuniões virtuais com o Mapa"
+title: Plano Estratégico de Prevenção e Erradicação da febre aftosa tem reuniões virtuais
+  com o Mapa
 date: 2020-06-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os encontros têm objetivo de dar continuidade às ações do Plano Estratégico do Programa Nacional de Erradicação e Prevenção da Febre Aftosa.
 

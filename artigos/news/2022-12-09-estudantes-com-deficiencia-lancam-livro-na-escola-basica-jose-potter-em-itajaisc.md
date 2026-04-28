@@ -1,11 +1,12 @@
 ---
-title: "Estudantes com deficiência lançam livro na Escola Básica José Potter em Itajaí/SC"
+title: Estudantes com deficiência lançam livro na Escola Básica José Potter em Itajaí/SC
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nove alunas com Transtorno do Espectro Autista (TEA), deficiência intelectual ou Transtorno do Déficit de Atenção com Hiperatividade (TDAH), estudantes da Escola Básica José Potter, do bairro Espinheiros lançaram o livro “Neurodiversas – Desafios de ser menina atípica na escola”. Cada uma com sua melhor habilidade ajudou a produzir todo roteiro, escrita, pintura, escolha de personagens, história e dramatização do livro, que traz uma proposta de repensar as atitudes em relação ao respeito à diversidade na escola.
 

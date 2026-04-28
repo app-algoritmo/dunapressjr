@@ -1,11 +1,12 @@
 ---
-title: "Foi descoberta superbactéria que atinge tilápias no Brasil"
+title: Foi descoberta superbactéria que atinge tilápias no Brasil
 date: 2023-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Graduada em Engenheira de Pesca pela Universidade Federal Rural de Pernambuco (UFRPE) e mestre em Aquicultura pelo Centro de Aquicultura da Universidade Estadual Paulista Júlio de Mesquita Filho (Unesp), Daiane Vaneci da Silva identificou a presença da bactéria *Klebsiella pneumoniae* (*K. pneumoniae*) em tilápias-do-Nilo.
 

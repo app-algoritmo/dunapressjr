@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia em registro de contratos é essencial para segurança, diz especialista"
+title: Tecnologia em registro de contratos é essencial para segurança, diz especialista
 date: 2022-11-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um portão de ferro com as pontas em forma de lança, uma cerca elétrica sobre um longo fio de arame farpado, uma portaria que não libera acesso sem identificação, uma porta reforçada com aço e trancada com uma fechadura digital que só se abre com a senha correta. Camadas de proteção possíveis para quem tem uma empresa ou loja física no mundo contemporâneo. Assim como acontece no mundo real, cenários com múltiplas camadas de segurança precisam ser uma constante também nos ambientes virtuais. 
 

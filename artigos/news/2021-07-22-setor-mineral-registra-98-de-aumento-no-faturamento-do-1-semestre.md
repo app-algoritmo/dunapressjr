@@ -1,11 +1,12 @@
 ---
-title: "Setor mineral registra 98% de aumento no faturamento do 1º semestre"
+title: Setor mineral registra 98% de aumento no faturamento do 1º semestre
 date: 2021-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor faturou R$ 149 bilhões, segundo o Ibram.
 

@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão Rumba inicia Curso de Especialização da Aviação de Transporte"
+title: Esquadrão Rumba inicia Curso de Especialização da Aviação de Transporte
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Esquadrão Rumba (1º/5º GAV), sediado em Parnamirim (RN), deu início nessa quarta-feira (15), ao Curso de Especialização Operacional da Aviação de Transporte (CEO-TR). Os 42 Aspirantes a Oficial Aviadores da Força Aérea Brasileira (FAB) iniciaram a atividade após concluírem o Curso de Instruções Técnicas da aeronave C-95M e de treinamento de procedimentos normais e de emergência no simulador.  
 

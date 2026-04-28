@@ -1,11 +1,13 @@
 ---
-title: "A China Defende a Paz e a Justiça em Meio ao Conflito Israel-Palestina, Mao Ning"
+title: A China Defende a Paz e a Justiça em Meio ao Conflito Israel-Palestina, Mao
+  Ning
 date: 2023-10-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A situação no conflito Israel-Palestina tem gerado uma série de respostas diplomáticas e políticas de várias nações ao redor do mundo. Entre essas nações, a China tem adotado uma posição clara e inequívoca, enfatizando seu compromisso com a paz, a equidade e a justiça.
 

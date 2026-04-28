@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula organização criminosa dedicada à extração e comercialização ilegal de madeira"
+title: PF desarticula organização criminosa dedicada à extração e comercialização
+  ilegal de madeira
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta quarta-feira (3/6) a denominada OPERAÇÃO NINAMETSA, visando a desarticulação da organização criminosa dedicada à extração e comercialização ilegal de madeira e transferências de créditos virtuais pelo sistema oficial do IBAMA, conhecido como SISDOF.
 

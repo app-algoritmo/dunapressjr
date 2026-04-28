@@ -1,11 +1,13 @@
 ---
-title: "Operação Hefesto desarticula organização criminosa envolvida em fraudes milionárias em licitações públicas em Alagoas"
+title: Operação Hefesto desarticula organização criminosa envolvida em fraudes milionárias
+  em licitações públicas em Alagoas
 date: 2023-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal e CGU/AL investigam esquema de direcionamento de contratos de equipamentos de robótica.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conselho aprova uso do FGTS para quitar parcelas atrasadas de imóvel"
+title: Conselho aprova uso do FGTS para quitar parcelas atrasadas de imóvel
 date: 2022-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Até 12 prestações poderão ser quitadas neste ano.
 

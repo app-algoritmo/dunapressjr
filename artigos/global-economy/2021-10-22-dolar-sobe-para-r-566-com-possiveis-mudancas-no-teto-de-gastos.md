@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,66 com possíveis mudanças no teto de gastos"
+title: Dólar sobe para R$ 5,66 com possíveis mudanças no teto de gastos
 date: 2021-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai para menor nível desde novembro do ano passado.
 

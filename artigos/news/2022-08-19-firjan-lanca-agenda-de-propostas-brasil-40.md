@@ -1,11 +1,12 @@
 ---
-title: "Firjan lança agenda de propostas Brasil 4.0"
+title: Firjan lança agenda de propostas Brasil 4.0
 date: 2022-08-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estudo defende mais produtividade para que indústria avance no país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda de 0,62% em meio a aversão ao risco no exterior"
+title: Ibovespa fecha em queda de 0,62% em meio a aversão ao risco no exterior
 date: 2023-06-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa brasileira acompanha desempenho negativo das bolsas americanas e reflete cautela dos investidores diante das expectativas de juros altos e preocupações com a Rússia.
 

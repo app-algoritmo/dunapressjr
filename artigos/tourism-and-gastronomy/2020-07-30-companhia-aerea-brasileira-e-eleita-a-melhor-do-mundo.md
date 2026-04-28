@@ -1,11 +1,12 @@
 ---
-title: "Companhia aérea brasileira é eleita a melhor do mundo"
+title: Companhia aérea brasileira é eleita a melhor do mundo
 date: 2020-07-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Em levantamento internacional, a Azul Linhas Aéreas desbancou importantes companhias como Emirates e Singapore Airlines.
 

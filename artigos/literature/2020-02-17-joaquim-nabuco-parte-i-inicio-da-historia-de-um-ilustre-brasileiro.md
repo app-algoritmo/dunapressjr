@@ -1,11 +1,12 @@
 ---
-title: "Joaquim Nabuco - Parte I - Início da História de um Ilustre Brasileiro"
+title: Joaquim Nabuco - Parte I - Início da História de um Ilustre Brasileiro
 date: 2020-02-17
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Poucos homens viveram e foram tão grandiosos como Joaquim Nabuco. Ler sua autobiografia foi um deleite, mais pelo conteúdo que pelo estilo. *Um monarquista, um intelectual, poliglota, um verdadeiro homem de virtudes e de interessantes nuances*. Decidimos usar este espaço nas próximas semanas para resgatar a memória deste brasileiro e pedimos, de antemão, a participação do leitor nesta aventura, sim aventura, pois, diante da contaminação ideológica, resgatar do obscurantismo nomes primorosos de nossa história, sempre é um desafio a ser bem acolhido. Pelas próximas segundas falaremos da vida, de uma boa polêmica entre este gigante e o grandioso José de Alencar, a questão abolicionista e sua razão de ter sido , talvez, um dos maiores monarquistas de nossa terra. Desfrutem!
 

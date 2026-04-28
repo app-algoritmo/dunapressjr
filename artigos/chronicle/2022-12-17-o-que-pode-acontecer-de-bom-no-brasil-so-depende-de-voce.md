@@ -1,13 +1,14 @@
 ---
-title: "O que pode acontecer de bom no Brasil, só depende de você"
+title: O que pode acontecer de bom no Brasil, só depende de você
 date: 2022-12-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - News
-  - Policy
+- Chronicle
+- News
+- Policy
 ---
+
 
 ## Esta foi mais uma semana intensa para as políticas no Brasil, no entanto é importante manter o foco e anvançar contra o inimigo, seja ele imaginário ou não :-).
 

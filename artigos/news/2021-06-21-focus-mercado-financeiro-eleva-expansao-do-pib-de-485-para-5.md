@@ -1,11 +1,12 @@
 ---
-title: "Focus: mercado financeiro eleva expansão do PIB de 4,85% para 5%"
+title: 'Focus: mercado financeiro eleva expansão do PIB de 4,85% para 5%'
 date: 2021-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para inflação subiu de 5,82% para 5,90%.
 

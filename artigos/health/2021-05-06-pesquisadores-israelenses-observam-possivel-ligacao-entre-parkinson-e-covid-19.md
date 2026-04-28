@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores israelenses observam possível ligação entre Parkinson e COVID-19"
+title: Pesquisadores israelenses observam possível ligação entre Parkinson e COVID-19
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## "Nós diagnosticamos parkinsonismo, atendendo aos critérios da Escala de Avaliação da Doença de Parkinson Unificada da Sociedade de Distúrbios do Movimento para o diagnóstico de provável doença de Parkinson", explicaram os pesquisadores.
 

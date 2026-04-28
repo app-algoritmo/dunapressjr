@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de Janeiro ouve empresário suspeito de financiar atos golpistas"
+title: CPMI do 8 de Janeiro ouve empresário suspeito de financiar atos golpistas
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPMI do 8 de Janeiro tem reunião marcada para terça-feira (3), às 9h, para ouvir o empresário Argino Bedin. O requerimento ([REQ 786/2023](/noticias/arquivos/2023/09/29/doc-req-7862023-cpmi-8-de-janeiro-20230602.pdf)) do deputado Carlos Veras (PT-PE) foi de convocação do empresário. O documento registra que Bedin figurou na lista de investigados como possível financiador de atos golpistas.
 

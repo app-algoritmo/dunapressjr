@@ -1,11 +1,12 @@
 ---
-title: "O tratado internacional mais perigoso já proposto"
+title: O tratado internacional mais perigoso já proposto
 date: 2023-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A história da humanidade é uma história de lições esquecidas. Apesar do colapso catastrófico da democracia europeia na década de 1930, parece que a história do século XX – em que os cidadãos, intimidados por ameaças existenciais, aceitaram a rejeição da liberdade e da verdade em favor da obediência e da propaganda, enquanto permitiam que líderes despóticos se apoderassem poderes cada vez mais absolutos - perigosamente perto de serem esquecidos.
 

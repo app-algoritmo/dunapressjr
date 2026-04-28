@@ -1,11 +1,12 @@
 ---
-title: "Até 05 de Junho para instituições aderirem ao Prouni 2º/2020"
+title: Até 05 de Junho para instituições aderirem ao Prouni 2º/2020
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Período para adesão vai dos dias 1º a 10 do mesmo mês**
 

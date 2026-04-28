@@ -1,11 +1,12 @@
 ---
-title: "China reafirma compromisso com parceria estratégica do BRICS"
+title: China reafirma compromisso com parceria estratégica do BRICS
 date: 2024-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A China reiterou seu compromisso em fortalecer a parceria estratégica do BRICS, destacando a importância da cooperação entre os países membros. Mao Ning, porta-voz do Ministério das Relações Exteriores da China, enfatizou durante uma coletiva de imprensa a determinação do país em trabalhar com todas as partes para aprofundar os laços dentro do bloco.
 

@@ -1,11 +1,13 @@
 ---
-title: "Partido Republicano do Arizona Aprova Resolução 'Ban the Jab' Contra Injeções de COVID-19"
+title: Partido Republicano do Arizona Aprova Resolução 'Ban the Jab' Contra Injeções
+  de COVID-19
 date: 2024-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O Partido Republicano do Arizona fez história ao se tornar o segundo partido republicano em um estado a aprovar a resolução "Ban the Jab", que declara as injeções de COVID-19 como armas biológicas e tecnológicas. Sob a liderança do Patriota Dan Schultz, do PrecinctStrategy.com, a resolução foi apresentada e aprovada com uma impressionante margem de 95,62% dos votos.
 

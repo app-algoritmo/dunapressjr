@@ -1,11 +1,12 @@
 ---
-title: "Militares juntam esforços no combate a incêndios no Pantanal"
+title: Militares juntam esforços no combate a incêndios no Pantanal
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Defesa atua com cinco aeronaves em voos de reconhecimento e lançamentos de água. As ações de apoio contam com mais de mil profissionais, sendo militares, brigadistas e civis, além de cinco aeronaves das Forças Armadas em voos de reconhecimento, lançamentos de água e transporte de pessoal. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Operação Lone Star: O Texas Mantém a Linha Contra o Contrabando na Fronteira"
+title: 'Operação Lone Star: O Texas Mantém a Linha Contra o Contrabando na Fronteira'
 date: 2024-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde o lançamento da Operação Lone Star, o governador Greg Abbott, em colaboração com o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas, está intensificando os esforços para proteger a fronteira sul do estado. O objetivo é combater o contrabando de drogas, armas e pessoas, bem como prevenir, detectar e interromper atividades criminosas transnacionais entre os portos de entrada.
 

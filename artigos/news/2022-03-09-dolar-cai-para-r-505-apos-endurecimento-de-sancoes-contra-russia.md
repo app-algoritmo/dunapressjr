@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,05 após endurecimento de sanções contra Rússia"
+title: Dólar cai para R$ 5,05 após endurecimento de sanções contra Rússia
 date: 2022-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa de valores tem leve queda em dia de volatilidade global.
 

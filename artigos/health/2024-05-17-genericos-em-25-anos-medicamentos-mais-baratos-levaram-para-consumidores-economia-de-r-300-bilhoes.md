@@ -1,11 +1,13 @@
 ---
-title: "Genéricos: em 25 anos, medicamentos mais baratos levaram para consumidores economia de R$ 300 bilhões"
+title: 'Genéricos: em 25 anos, medicamentos mais baratos levaram para consumidores
+  economia de R$ 300 bilhões'
 date: 2024-05-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## São mais de 4.300 produtos com registro na Anvisa, um crescimento de 20 vezes desde a criação da Lei dos Medicamentos Genéricos em 1999.
 

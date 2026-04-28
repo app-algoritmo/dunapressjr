@@ -1,11 +1,13 @@
 ---
-title: "Mãos que transformam: costureiros se unem em trabalho voluntário de produção de artesanato para hospital SUS"
+title: 'Mãos que transformam: costureiros se unem em trabalho voluntário de produção
+  de artesanato para hospital SUS'
 date: 2022-08-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pano, agulha e disposição. É isso que move o trabalho de 40 voluntários de Curitiba, que fazem um simples tecido antigo virar artesanato. O grupo Mãos que Transformam iniciou suas atividades a distância, ainda durante a pandemia, com o objetivo de amenizar a rotina nos hospitais Universitário Cajuru e Marcelino Champagnat. Desde o início de junho, o trabalho de costura é realizado em um espaço fixo, no antigo Hospital Nossa Senhora da Luz, onde também ficam os ambulatórios do Hospital Universitário Cajuru. 
 

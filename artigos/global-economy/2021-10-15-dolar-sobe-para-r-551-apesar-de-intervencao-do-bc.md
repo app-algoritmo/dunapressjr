@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,51, apesar de intervenção do BC"
+title: Dólar sobe para R$ 5,51, apesar de intervenção do BC
 date: 2021-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa descola-se de mercados internacionais e cai 0,24%.
 

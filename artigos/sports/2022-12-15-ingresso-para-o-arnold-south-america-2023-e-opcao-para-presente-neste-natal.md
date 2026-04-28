@@ -1,11 +1,12 @@
 ---
-title: "Ingresso para o Arnold South America 2023 é opção para presente neste Natal"
+title: Ingresso para o Arnold South America 2023 é opção para presente neste Natal
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Esqueça os sapatos, as camisas, camisetas, camisolas, vestidos e as meias. Neste final de ano, quando o assunto é presente de Natal, cresce a tendência de trocar as lembrancinhas por experiências. Para quem é ligado ao universo dos esportes e fitness, ou planeja entrar 2023 com um estilo de vida saudável, o Arnold South America é uma opção única para familiares e amigos fazerem às vezes de Papai Noel de uma forma autêntica.
 

@@ -1,11 +1,12 @@
 ---
-title: "Exportações da China caem em outubro menos do que o esperado"
+title: Exportações da China caem em outubro menos do que o esperado
 date: 2019-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As exportações e importações da China contraíram menos do
 que o esperado em outubro, fornecendo algum alívio para a economia conforme o

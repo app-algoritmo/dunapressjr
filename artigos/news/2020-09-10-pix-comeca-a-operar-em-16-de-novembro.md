@@ -1,11 +1,12 @@
 ---
-title: "Pix começa a operar em 16 de novembro"
+title: Pix começa a operar em 16 de novembro
 date: 2020-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente do Banco Central, Roberto Campos Neto, disse que o novo arranjo de pagamentos vai beneficiar do pequeno ao grande negócio.
 

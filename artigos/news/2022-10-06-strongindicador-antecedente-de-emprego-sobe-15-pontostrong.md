@@ -1,11 +1,12 @@
 ---
-title: "<strong>Indicador Antecedente de Emprego sobe 1,5 ponto</strong>"
+title: <strong>Indicador Antecedente de Emprego sobe 1,5 ponto</strong>
 date: 2022-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa é da Fundação Getulio Vargas.
 

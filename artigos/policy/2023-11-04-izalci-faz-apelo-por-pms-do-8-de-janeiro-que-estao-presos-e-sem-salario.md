@@ -1,11 +1,12 @@
 ---
-title: "Izalci faz apelo por PMs do 8 de janeiro que estão presos e sem salário"
+title: Izalci faz apelo por PMs do 8 de janeiro que estão presos e sem salário
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) fez um apelo, em pronunciamento no Plenário na terça-feira (31), para que o Senado tome alguma medida em favor dos integrantes da cúpula da Polícia Militar do Distrito Federal (PMPDF), que estão detidos devido aos atos golpistas de 8 de janeiro em Brasília. De acordo com o senador, policiais militares estão sem receber salários, enquanto suas famílias enfrentam dificuldades para arcar com despesas básicas. Ele também ressaltou que profissionais liberais detidos estão passando pela mesma situação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Exército vai concluir trecho da Ferrovia de Integração Oeste-Leste, na Bahia"
+title: Exército vai concluir trecho da Ferrovia de Integração Oeste-Leste, na Bahia
 date: 2020-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parceria com a Valec foi assinada durante visita do Presidente Jair Bolsonaro a obras da ferrovia, na Bahia. A obra completa terá aproximadamente 1.527 quilômetros e ligará o futuro Porto Sul, em Ilhéus (BA), à cidade de Figueirópolis (TO). 
 

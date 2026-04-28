@@ -1,11 +1,13 @@
 ---
-title: "Caos de Neve no sul da Noruega: Queda Inesperada de Neve Coloca a Região em Estado de Alerta"
+title: 'Caos de Neve no sul da Noruega: Queda Inesperada de Neve Coloca a Região em
+  Estado de Alerta'
 date: 2024-01-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os residentes no Sul da Noruega acordaram com uma inesperada surpresa branca no primeiro dia do ano novo, com carros cobertos de neve, quedas de energia em milhares de lares e uma quantidade enorme grande de neve. Anualmente, a região é pega de surpresa pelas mudanças climáticas, e a queda de neve deste ano tem sido particularmente desafiadora.
 

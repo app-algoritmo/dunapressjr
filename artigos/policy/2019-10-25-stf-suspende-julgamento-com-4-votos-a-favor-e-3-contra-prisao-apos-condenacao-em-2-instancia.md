@@ -1,11 +1,13 @@
 ---
-title: "STF suspende julgamento com 4 votos a favor e 3 contra prisão após condenação em 2ª instância"
+title: STF suspende julgamento com 4 votos a favor e 3 contra prisão após condenação
+  em 2ª instância
 date: 2019-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O julgamento conjunto das ADCs 43, 44 e 54 terá continuidade no início de novembro, com os votos dos ministros Cármen Lúcia, Gilmar Mendes, Celso de Mello e Dias Toffoli.
 

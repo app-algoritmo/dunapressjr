@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro investe em infraestrutura dos setores portuário e rodoviário"
+title: Governo Bolsonaro investe em infraestrutura dos setores portuário e rodoviário
 date: 2020-06-09
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Decreto irá estimular concorrência, promover segurança da navegação, além de desenvolver importante corredor rodoviário que atravessa o semiárido nordestino.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dívida pública fecha 2021 acima de R$ 5,6 trilhões"
+title: Dívida pública fecha 2021 acima de R$ 5,6 trilhões
 date: 2022-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução de gastos com a pandemia segurou crescimento.
 

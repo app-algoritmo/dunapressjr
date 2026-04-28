@@ -1,11 +1,13 @@
 ---
-title: "Medidas do pacto federativo devem ser apresentadas na hoje e Guedes pode ir ao Congresso, diz líder"
+title: Medidas do pacto federativo devem ser apresentadas na hoje e Guedes pode ir
+  ao Congresso, diz líder
 date: 2019-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O líder do governo no Senado, Fernando Bezerra Coelho
 (MDB-PE), afirmou nesta terça-feira que o conjunto de medidas do pacto

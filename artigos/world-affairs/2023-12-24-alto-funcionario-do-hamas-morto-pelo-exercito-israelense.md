@@ -1,11 +1,12 @@
 ---
-title: "Alto funcionário do Hamas morto pelo exército israelense"
+title: Alto funcionário do Hamas morto pelo exército israelense
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Hassan Atrash, responsável pelo comércio, produção e equipamento do braço militar do Hamas, foi morto num ataque direcionado por um caça israelense, informou o jornal The Jerusalem Post.
 

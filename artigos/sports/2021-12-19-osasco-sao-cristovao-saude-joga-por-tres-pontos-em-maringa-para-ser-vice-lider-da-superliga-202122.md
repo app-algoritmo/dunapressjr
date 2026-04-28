@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde joga por três pontos em Maringá para ser vice-líder da Superliga 2021/22"
+title: Osasco São Cristóvão Saúde joga por três pontos em Maringá para ser vice-líder
+  da Superliga 2021/22
 date: 2021-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Se derrotar o adversário paranaense por 3 a 0 ou 3 a 1 nesta segunda-feira (20), equipe comandada pelo técnico Luizomar vai empatar em pontos com o Minas Tênis Clube, mas levará vantagem no critério de desempate.
 

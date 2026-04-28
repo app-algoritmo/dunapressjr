@@ -1,11 +1,12 @@
 ---
-title: "Receita eleva para R$ 15 milhões valor para aplicar recurso automático"
+title: Receita eleva para R$ 15 milhões valor para aplicar recurso automático
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida faz parte do Programa Litígio Zero.
 

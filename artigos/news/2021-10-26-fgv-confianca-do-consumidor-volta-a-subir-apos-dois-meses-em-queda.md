@@ -1,11 +1,12 @@
 ---
-title: "FGV: confiança do consumidor volta a subir após dois meses em queda"
+title: 'FGV: confiança do consumidor volta a subir após dois meses em queda'
 date: 2021-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta foi puxada pela melhora de perspectivas das famílias.
 

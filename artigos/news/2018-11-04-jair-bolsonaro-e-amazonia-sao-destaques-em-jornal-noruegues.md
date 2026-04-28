@@ -1,11 +1,12 @@
 ---
-title: "Jair Bolsonaro e Amazônia são destaques em jornal norueguês"
+title: Jair Bolsonaro e Amazônia são destaques em jornal norueguês
 date: 2018-11-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em reportagem especial, o jornal norueguês **Dag og Tid** destacou alguns pensamentos de Jair Bolsonaro, futuro Presidente do Brasil, sobre o meio ambiente. O jornal apontou ainda para a atuação da Noruega na Amazônia e como o governante eleito pensa em enfrentar desafios e criar estratégias para a realidade amazônica.
 

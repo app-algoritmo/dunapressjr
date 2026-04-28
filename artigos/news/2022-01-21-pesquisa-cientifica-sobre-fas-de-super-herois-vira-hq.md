@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa científica sobre fãs de super-heróis vira HQ"
+title: Pesquisa científica sobre fãs de super-heróis vira HQ
 date: 2022-01-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Larissa Tamborindenguy Becko é graduada em Comunicação Social com habilitação em Relações Públicas pela Universidade Federal do Rio Grande do Sul (UFRGS) e mestre pelo Programa de Pós-Graduação em Comunicação na Universidade do Vale do Rio do Sinos (Unisinos). Atualmente faz doutorado na mesma instituição.
 

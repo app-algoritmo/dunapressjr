@@ -1,11 +1,13 @@
 ---
-title: "Adolescentes de 12 a 17 anos poderão tomar dose de reforço contra Covid-19 a partir desta sexta-feira (03) em Itajaí"
+title: Adolescentes de 12 a 17 anos poderão tomar dose de reforço contra Covid-19
+  a partir desta sexta-feira (03) em Itajaí
 date: 2022-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir desta sexta-feira (03), o Município de Itajaí inicia a aplicação da dose de reforço contra Covid-19 para adolescentes de 12 a 17 anos. A vacinação ocorrerá nas 30 unidades de saúde da cidade. A dose de reforço deve ser aplicada quatro meses após o recebimento da segunda dose. No momento da imunização deve ser apresentado o cartão de vacina e um documento de identificação.
 

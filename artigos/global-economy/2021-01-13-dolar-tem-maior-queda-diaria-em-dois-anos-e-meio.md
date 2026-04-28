@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda diária em dois anos e meio"
+title: Dólar tem maior queda diária em dois anos e meio
 date: 2021-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa voltou a subir e fechou com alta de 0,6%.
 

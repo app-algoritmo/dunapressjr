@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IPC-S sobe para 0,69% em outubro"
+title: Inflação pelo IPC-S sobe para 0,69% em outubro
 date: 2022-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em setembro, índice foi de 0,02%.
 

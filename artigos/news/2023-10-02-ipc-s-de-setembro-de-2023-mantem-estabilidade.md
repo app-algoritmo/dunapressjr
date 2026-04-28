@@ -1,11 +1,12 @@
 ---
-title: "IPC-S de setembro de 2023 mantém estabilidade"
+title: IPC-S de setembro de 2023 mantém estabilidade
 date: 2023-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa de variação se mantém em 0,27%, resultando em uma variação acumulada em 12 meses de 4,17%.
 

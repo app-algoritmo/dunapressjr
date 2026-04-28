@@ -1,11 +1,12 @@
 ---
-title: "Exército Brasileiro capacita Polícia Militar do Timor-Leste"
+title: Exército Brasileiro capacita Polícia Militar do Timor-Leste
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Equipes do Exército Brasileiro iniciaram o Curso de Polícia do Exército e o 2°Estágio de Motociclista Militar e Batedor para militares no Timor-Leste no dia 14 de setembro. Os cursos são parte da cooperação bilateral na área de Defesa, e representam iniciativa importante para reforçar os laços de amizades entre as duas nações.
 

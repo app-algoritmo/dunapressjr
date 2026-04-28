@@ -1,11 +1,12 @@
 ---
-title: "Curso ABC abre mais 100 mil vagas"
+title: Curso ABC abre mais 100 mil vagas
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O curso on-line Alfabetização Baseada na Ciência (ABC) abriu 100 mil novas vagas, a partir desta sexta-feira (15). A capacitação, oferecida pelo Ministério da Educação (MEC), por meio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e da Secretaria de Alfabetização (Sealf), é voltada aos estudantes de licenciatura e profissionais da educação que atuam na alfabetização de crianças.
 

@@ -1,11 +1,12 @@
 ---
-title: "Israel em Guerra: Dezenas de Vidas Perdidas Enquanto a Violência Persiste"
+title: 'Israel em Guerra: Dezenas de Vidas Perdidas Enquanto a Violência Persiste'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Mais de 900 israelenses ficaram feridos com foguetes do Hamas e no ataque terrorista de Beersheba a Jerusalém.
 

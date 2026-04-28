@@ -1,11 +1,12 @@
 ---
-title: "A história do inventor do método Braille de leitura"
+title: A história do inventor do método Braille de leitura
 date: 2019-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 O código Braille não foi a primeira
 iniciativa que permitia a leitura por cegos. No Instituto Real de Jovens Cegos

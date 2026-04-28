@@ -1,11 +1,12 @@
 ---
-title: "Problemas bancários nos EUA anunciam o fim do sistema de reservas em dólares"
+title: Problemas bancários nos EUA anunciam o fim do sistema de reservas em dólares
 date: 2023-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A crise bancária não é uma questão de crédito, mas decorre da agora impossível tarefa de financiar a crescente dívida externa dos Estados Unidos.
 

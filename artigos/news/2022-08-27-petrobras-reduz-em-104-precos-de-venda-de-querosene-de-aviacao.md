@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz em 10,4% preços de venda de querosene de aviação"
+title: Petrobras reduz em 10,4% preços de venda de querosene de aviação
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novo valor passa a vigorar no dia 1º de setembro.
 

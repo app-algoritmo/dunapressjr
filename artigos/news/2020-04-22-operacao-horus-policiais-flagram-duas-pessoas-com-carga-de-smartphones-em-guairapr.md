@@ -1,11 +1,13 @@
 ---
-title: "OPERAÇÃO HÓRUS - Policiais flagram duas pessoas com carga de smartphones em Guaíra/PR"
+title: OPERAÇÃO HÓRUS - Policiais flagram duas pessoas com carga de smartphones em
+  Guaíra/PR
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Guaíra/PR** – No início da tarde desta terça-feira (21/4), policiais na cidade de Guaíra, após abordagem de um veículo  com placas de Umuarama/PR, localizou ocultado no compartimento do estepe, aproximadamente 60 aparelhos smartphone de última geração, importados ilegalmente do Paraguai.
 

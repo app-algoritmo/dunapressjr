@@ -1,11 +1,12 @@
 ---
-title: "Inflamação semelhante a COVID tratada com moléculas kefir em camundongos"
+title: Inflamação semelhante a COVID tratada com moléculas kefir em camundongos
 date: 2021-06-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## De acordo com pesquisadores israelenses, os probióticos têm propriedades antibacterianas e previnem a inflamação; eles poderiam ajudar a criar as drogas do futuro.
 

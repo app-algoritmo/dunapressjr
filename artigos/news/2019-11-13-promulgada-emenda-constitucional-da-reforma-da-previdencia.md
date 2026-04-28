@@ -1,11 +1,12 @@
 ---
-title: "Promulgada Emenda Constitucional da reforma da Previdência"
+title: Promulgada Emenda Constitucional da reforma da Previdência
 date: 2019-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Congresso promulgou nesta terça-feira (12) a Emenda
 Constitucional 103, de 2019, que altera o sistema de Previdência Social e

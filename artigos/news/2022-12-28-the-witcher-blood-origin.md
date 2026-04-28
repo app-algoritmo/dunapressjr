@@ -1,12 +1,13 @@
 ---
-title: "The Witcher – Blood Origin ­"
+title: The Witcher – Blood Origin ­
 date: 2022-12-28
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a matéria aqui:
 

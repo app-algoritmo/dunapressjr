@@ -1,11 +1,13 @@
 ---
-title: "Redução do Custo Brasil e integração internacional intensificam atração de investimentos no país"
+title: Redução do Custo Brasil e integração internacional intensificam atração de
+  investimentos no país
 date: 2022-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A análise é dos secretários Daniella Marques e Lucas Ferraz, que participaram do Brasil Investment Forum 2022.
 

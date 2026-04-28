@@ -1,11 +1,13 @@
 ---
-title: "Safra de grãos 2022/2023 no Brasil atinge novo recorde, alcançando 315,8 milhões de toneladas"
+title: Safra de grãos 2022/2023 no Brasil atinge novo recorde, alcançando 315,8 milhões
+  de toneladas
 date: 2023-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativas da Conab revelam crescimento de 15,8% em relação ao ciclo anterior, impulsionado pelo desempenho da soja e do milho
 

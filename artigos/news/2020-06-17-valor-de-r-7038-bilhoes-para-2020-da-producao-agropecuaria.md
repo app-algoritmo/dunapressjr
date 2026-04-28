@@ -1,11 +1,12 @@
 ---
-title: "Valor de R$ 703,8 bilhões para 2020 da produção agropecuária"
+title: Valor de R$ 703,8 bilhões para 2020 da produção agropecuária
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A safra recorde de grãos, os preços agrícolas e o desempenho favorável de algumas lavouras foram decisivos nos valores obtidos.
 

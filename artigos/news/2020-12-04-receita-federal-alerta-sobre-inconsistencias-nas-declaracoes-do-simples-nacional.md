@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal alerta sobre inconsistências nas declarações do Simples Nacional"
+title: Receita Federal alerta sobre inconsistências nas declarações do Simples Nacional
 date: 2020-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Serão enviadas mensagens eletrônicas para 26.015 contribuintes, por divergências em declarações. O objetivo é que as empresas corrijam as informações, evitando multas e outras penalidades.
 

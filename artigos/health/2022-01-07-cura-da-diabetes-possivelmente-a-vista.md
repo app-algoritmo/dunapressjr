@@ -1,11 +1,12 @@
 ---
-title: "Cura da diabetes, possivelmente à vista"
+title: Cura da diabetes, possivelmente à vista
 date: 2022-01-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Os experimentos Technion mostram níveis normais de açúcar no sangue prolongados após um único tratamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação do setor do turismo teve alta de 41% em junho"
+title: Inflação do setor do turismo teve alta de 41% em junho
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A passagem área foi o item que mais contribuiu para a alta.
 

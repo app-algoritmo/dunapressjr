@@ -1,11 +1,12 @@
 ---
-title: "Militares concluem Missão Kayapó, no Pará"
+title: Militares concluem Missão Kayapó, no Pará
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante oito dias, a Missão Kayapó levou profissionais de Saúde e mais de três toneladas de insumos médicos para reforçar o combate à Covid-19 nas comunidades indígenas. A ação interministerial, coordenada pelos ministérios da Defesa e da Saúde, chegou ao fim em Ourilândia do Norte (PA).
 

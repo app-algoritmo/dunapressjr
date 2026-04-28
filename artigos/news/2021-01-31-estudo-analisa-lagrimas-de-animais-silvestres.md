@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa lágrimas de animais silvestres"
+title: Estudo analisa lágrimas de animais silvestres
 date: 2021-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A bolsista Ana Cláudia Raposo é médica veterinária e faz pós-doutorado pelo Programa em Ciência Animal nos Trópicos, da Escola de Medicina Veterinária da Universidade Federal da Bahia (UFBA). Em seu trabalho de pesquisa, busca conhecer os componentes da lágrima de animais silvestres e de humanos, para entender as diferenças entre as espécies e identificar como o ambiente influencia os olhos de cada um.
 

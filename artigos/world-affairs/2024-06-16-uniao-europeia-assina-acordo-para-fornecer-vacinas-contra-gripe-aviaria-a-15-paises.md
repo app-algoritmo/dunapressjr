@@ -1,11 +1,13 @@
 ---
-title: "União Europeia Assina Acordo para Fornecer Vacinas contra Gripe Aviária a 15 Países"
+title: União Europeia Assina Acordo para Fornecer Vacinas contra Gripe Aviária a 15
+  Países
 date: 2024-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A União Europeia assinou um acordo na terça-feira para fornecer mais de 40 milhões de vacinas contra a gripe aviária a 15 países membros, com a primeira entrega destinada à Finlândia. O fabricante CSL Seqirus está encarregado de fornecer inicialmente 665 mil vacinas, com a opção de aumentar esse número para mais de 40 milhões ao longo dos próximos quatro anos. As vacinas serão adquiridas pela Comissão Europeia e distribuídas entre os 15 países.
 

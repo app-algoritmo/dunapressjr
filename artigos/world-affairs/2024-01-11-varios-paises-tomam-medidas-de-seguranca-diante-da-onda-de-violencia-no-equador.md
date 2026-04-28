@@ -1,11 +1,12 @@
 ---
-title: "Vários países tomam medidas de segurança diante da onda de violência no Equador"
+title: Vários países tomam medidas de segurança diante da onda de violência no Equador
 date: 2024-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Várias nações tomaram medidas de segurança face à onda de violência que eclodiu segunda-feira no Equador com um resultado provisório de 10 mortes, o que obrigou o Governo a declarar o "conflito armado interno", disposição que permite às Forças Armadas serem mobilizados para combater as organizações criminosas que assolam o país.
 

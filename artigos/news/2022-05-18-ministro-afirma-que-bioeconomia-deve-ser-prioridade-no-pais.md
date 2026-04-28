@@ -1,11 +1,12 @@
 ---
-title: "Ministro afirma que bioeconomia deve ser prioridade no país"
+title: Ministro afirma que bioeconomia deve ser prioridade no país
 date: 2022-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Avaliação é do titular da Ciência, Tecnologia e Inovações, Paulo Alvim.
 

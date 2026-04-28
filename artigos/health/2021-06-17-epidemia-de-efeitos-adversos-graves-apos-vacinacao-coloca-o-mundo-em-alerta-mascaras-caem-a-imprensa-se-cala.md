@@ -1,11 +1,13 @@
 ---
-title: "Epidemia de efeitos adversos graves após vacinação coloca o mundo em alerta – Máscaras caem - a imprensa se cala"
+title: Epidemia de efeitos adversos graves após vacinação coloca o mundo em alerta
+  – Máscaras caem - a imprensa se cala
 date: 2021-06-17
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 LANGUAGES - You can easily view the article in your country by simply clicking on the “Translate” option above and choosing the flag in your language. We have been read in over 130 countries around the world. Thank you for your support and for sharing the link to our article on your social networks. | IDIOMAS - Você pode ver o artigo em seu país, tranquilamente, bastando clicar na opção “Translate” acima e escolher a bandeirinha de seu idioma. Temos sido lidos em mais de 130 país ao redor do mundo. Obrigado por seu apoio e por compartilhar o link de nossa matéria em suas redes sociais.
 

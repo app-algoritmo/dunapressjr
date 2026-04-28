@@ -1,11 +1,12 @@
 ---
-title: "Novo arcabouço é uma 'bomba fiscal', diz Marcos Rogério"
+title: Novo arcabouço é uma 'bomba fiscal', diz Marcos Rogério
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) afirmou, em pronunciamento na tarde desta quarta-feira (21), que o novo arcabouço fiscal é a “bomba fiscal do governo Lula”. O [PLP 93/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157826) foi aprovado no Plenário do Senado na noite de quarta e agora retorna à Câmara dos Deputados. Segundo o parlamentar, apesar de o governo prometer equilíbrio nos gastos, o texto é “uma licença para gastar mais”.
 

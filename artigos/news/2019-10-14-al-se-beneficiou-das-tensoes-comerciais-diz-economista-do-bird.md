@@ -1,11 +1,12 @@
 ---
-title: "'AL se beneficiou das tensões comerciais', diz economista do Bird"
+title: '''AL se beneficiou das tensões comerciais'', diz economista do Bird'
 date: 2019-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A América Latina se beneficiou das tensões comerciais, pelo
 menos até o momento - disse em entrevista à AFP o economista-chefe para a

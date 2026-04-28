@@ -1,11 +1,12 @@
 ---
-title: "O governo dos EUA está preparando seus cidadãos para um ataque nuclear?"
+title: O governo dos EUA está preparando seus cidadãos para um ataque nuclear?
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Muito foi dito e feito no ano passado sobre contramedidas médicas no caso de um ataque nuclear. Muitas agências federais atualizaram silenciosamente seus planos de preparação, e pelo menos um especialista afirmou que isso ainda não é suficiente e que os Estados Unidos precisam estar melhor preparados para um possível desastre radiológico.
 

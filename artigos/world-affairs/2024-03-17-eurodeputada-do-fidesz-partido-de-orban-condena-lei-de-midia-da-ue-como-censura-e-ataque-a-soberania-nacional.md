@@ -1,11 +1,13 @@
 ---
-title: "Eurodeputada do Fidesz, partido de Orbán Condena Lei de Mídia da UE como 'Censura' e Ataque à Soberania Nacional"
+title: Eurodeputada do Fidesz, partido de Orbán Condena Lei de Mídia da UE como 'Censura'
+  e Ataque à Soberania Nacional
 date: 2024-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A eurodeputada do Fidesz, Andrea Bocskor, expressou forte oposição à recente lei de mídia aprovada pelo Parlamento Europeu, caracterizando-a como um instrumento de "censura" e uma ameaça à soberania dos Estados-membros. Bocskor criticou veementemente a legislação, argumentando que ela busca impor uma regulamentação centralizada sobre os sistemas de comunicação social dos países membros, infringindo seus poderes e alinhando-se com organizações vinculadas à rede de George Soros.
 

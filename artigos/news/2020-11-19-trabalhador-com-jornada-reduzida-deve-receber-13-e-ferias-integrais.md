@@ -1,11 +1,12 @@
 ---
-title: "Trabalhador com jornada reduzida deve receber 13º e férias integrais"
+title: Trabalhador com jornada reduzida deve receber 13º e férias integrais
 date: 2020-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em caso de contrato suspenso, valor é proporcional a tempo de serviço.
 

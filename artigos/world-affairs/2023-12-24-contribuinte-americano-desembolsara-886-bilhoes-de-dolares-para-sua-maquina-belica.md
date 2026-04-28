@@ -1,11 +1,13 @@
 ---
-title: "Contribuinte Americano Desembolsará 886 Bilhões de Dólares para sua Máquina Bélica"
+title: Contribuinte Americano Desembolsará 886 Bilhões de Dólares para sua Máquina
+  Bélica
 date: 2023-12-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, foi aprovado o orçamento da defesa dos Estados Unidos para o ano de 2024, atingindo a incrível marca de $886 bilhões de dólares. Essa quantia exorbitante equivale a cerca de R$ 4,5 trilhões de reais, destacando-se como mais de 40% do total de gastos militares em escala global.
 

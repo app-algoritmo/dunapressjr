@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no maior valor em duas semanas"
+title: Dólar fecha no maior valor em duas semanas
 date: 2020-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores cai pela primeira vez em três dias.
 

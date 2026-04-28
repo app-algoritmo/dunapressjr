@@ -1,11 +1,12 @@
 ---
-title: "EUA espera fechar acordo comercial com Reino Unido este ano"
+title: EUA espera fechar acordo comercial com Reino Unido este ano
 date: 2020-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O secretário do Tesouro americano, Steve Mnuchin, disse
 nesta quinta-feira (23) que alcançar um acordo comercial com o Reino Unido

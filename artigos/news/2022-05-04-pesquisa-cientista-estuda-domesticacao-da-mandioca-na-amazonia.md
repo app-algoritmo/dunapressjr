@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Cientista estuda domesticação da mandioca na Amazônia"
+title: 'Pesquisa: Cientista estuda domesticação da mandioca na Amazônia'
 date: 2022-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Alessandro Alves-Pereira é bacharel em Genética e Biotecnologia pela Universidade Federal do Amazonas (Ufam), mestre em Genética, Conservação e Biologia Evolutiva, pelo Instituto Nacional de Pesquisas da Amazônia (Inpa), e doutor em Genética e Melhoramento de Plantas, pela Escola Superior de Agricultura Luiz de Queiróz (Esalq/USP). O foco de seus estudos no doutorado e pós-doutorado, feito na Universidade de Campinas (Unicamp), financiados, em parte, pela CAPES, foi entender como o processo de transformação da mandioca na Amazônia, nos últimos nove mil anos, influenciou os níveis de diversidade genética. Parte de seus estudos foi publicado nas Revistas *Evolutionary Applications* e *Scientific Reports* e podem ser encontrados em [https://doi.org/10.1111/eva.12873](https://doi.org/10.1111/eva.12873) e [https://doi.org/10.1038/s41598-022-05160-8](https://doi.org/10.1038/s41598-022-05160-8).
 

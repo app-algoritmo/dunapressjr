@@ -1,11 +1,12 @@
 ---
-title: "Fitch mantém perspectiva negativa para nota do Brasil"
+title: Fitch mantém perspectiva negativa para nota do Brasil
 date: 2020-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Agência cita riscos fiscais para justificar decisão.
 

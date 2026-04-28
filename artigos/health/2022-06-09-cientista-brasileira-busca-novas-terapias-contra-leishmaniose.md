@@ -1,11 +1,12 @@
 ---
-title: "Cientista brasileira busca novas terapias contra leishmaniose"
+title: Cientista brasileira busca novas terapias contra leishmaniose
 date: 2022-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Graduada em Ciências Biológicas pela Universidade Federal de Alfenas (MG), Patrícia Ferreira Espuri Sepini é doutoranda no Programa de Pós-Graduação em Ciências Farmacêuticas pela mesma universidade, com Bolsa da CAPES. Seu projeto no mestrado, e agora no doutorado, trata da leishmaniose*, *uma doença infecciosa grave, causada por parasitas*.*
 

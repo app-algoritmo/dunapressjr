@@ -1,11 +1,12 @@
 ---
-title: "Indústria da construção tem melhor fevereiro em dez anos"
+title: Indústria da construção tem melhor fevereiro em dez anos
 date: 2022-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Apesar do desempenho favorável, expectativas recuam.
 

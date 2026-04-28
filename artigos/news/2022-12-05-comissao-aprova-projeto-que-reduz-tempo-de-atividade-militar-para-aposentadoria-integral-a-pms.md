@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que reduz tempo de atividade militar para aposentadoria integral a PMs"
+title: Comissão aprova projeto que reduz tempo de atividade militar para aposentadoria
+  integral a PMs
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou projeto de lei que reduz de 30 para 20 anos o tempo de atividade de natureza militar mínimo exigido aos policiais e aos bombeiros militares para assegurar a remuneração integral na inatividade.
 

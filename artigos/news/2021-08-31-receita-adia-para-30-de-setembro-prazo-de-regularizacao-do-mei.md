@@ -1,11 +1,12 @@
 ---
-title: "Receita adia para 30 de setembro prazo de regularização do MEI"
+title: Receita adia para 30 de setembro prazo de regularização do MEI
 date: 2021-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Data limite para não entrar na dívida ativa acabaria nesta terça-feira (31).
 

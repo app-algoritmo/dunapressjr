@@ -1,11 +1,12 @@
 ---
-title: "Turcos na Europa se mobilizam para ajudar vítimas do terremoto"
+title: Turcos na Europa se mobilizam para ajudar vítimas do terremoto
 date: 2023-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os turcos que vivem em toda a Europa se mobilizaram para ajudar e fornecer ajuda às vítimas de dois fortes terremotos que sacudiram o sul de Türkiye em 6 de fevereiro, matando pelo menos 6.234 e deixando muitos necessitados de assistência.
 

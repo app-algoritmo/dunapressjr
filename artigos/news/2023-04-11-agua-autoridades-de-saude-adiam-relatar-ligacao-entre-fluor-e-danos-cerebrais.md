@@ -1,11 +1,12 @@
 ---
-title: "Água: autoridades de saúde adiam relatar ligação entre flúor e danos cerebrais"
+title: 'Água: autoridades de saúde adiam relatar ligação entre flúor e danos cerebrais'
 date: 2023-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Esse é o consenso desta revisão sistemática, mas foi bloqueado por funcionários do governo e oculto do público desde maio de 2022.
 

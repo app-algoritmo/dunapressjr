@@ -1,11 +1,12 @@
 ---
-title: "Fazer academia ajuda na postura?"
+title: Fazer academia ajuda na postura?
 date: 2022-09-27
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Uma má postura pode trazer diversos malefícios para a saúde da coluna e articulações do corpo, e cada vez mais buscas por maneiras práticas que ajudam a corrigir a postura são realizadas. Mas você sabia que a academia ajuda na postura?
 

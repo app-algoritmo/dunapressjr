@@ -1,11 +1,12 @@
 ---
-title: "PF acompanha procedimentos sobre morte de tripulante filipino em navio mercante"
+title: PF acompanha procedimentos sobre morte de tripulante filipino em navio mercante
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aracaju/SE - A Polícia Federal na quarta-feira
 (25/3) pelo comandante da embarcação MV Argo B, de bandeira das Ilhas Marshall,

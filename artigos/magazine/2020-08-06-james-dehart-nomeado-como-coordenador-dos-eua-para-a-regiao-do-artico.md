@@ -1,11 +1,12 @@
 ---
-title: "James DeHart nomeado como Coordenador dos EUA para a região do Ártico"
+title: James DeHart nomeado como Coordenador dos EUA para a região do Ártico
 date: 2020-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O [Departamento de Estado dos EUA](https://www.state.gov/appointment-of-u-s-coordinator-for-the-arctic-region/) nomeou James DeHart como Coordenador dos EUA para a região do Ártico. DeHart liderará os esforços do Departamento relacionados ao Ártico, ocupando um cargo que ficou vago desde 2017.
 

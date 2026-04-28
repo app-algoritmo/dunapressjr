@@ -1,11 +1,12 @@
 ---
-title: "Programa Rehuf destina R$ 84,6 milhões aos Hospitais universitários federais"
+title: Programa Rehuf destina R$ 84,6 milhões aos Hospitais universitários federais
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativa é gerida pela Ebserh e financiada pelos ministérios da Educação e da Saúde.
 

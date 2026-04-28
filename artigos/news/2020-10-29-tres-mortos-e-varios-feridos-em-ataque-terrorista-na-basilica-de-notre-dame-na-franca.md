@@ -1,11 +1,13 @@
 ---
-title: "Três mortos e vários feridos em ataque terrorista na Basílica de Notre Dame na França"
+title: Três mortos e vários feridos em ataque terrorista na Basílica de Notre Dame
+  na França
 date: 2020-10-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Três pessoas foram mortas e várias outras feridas em um ataque terrorista na cidade de Nice, no sul da França, na quinta-feira.
 

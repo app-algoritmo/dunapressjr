@@ -1,11 +1,12 @@
 ---
-title: "C-130 Hércules da FAB transporta ambulância para Salvador (BA)"
+title: C-130 Hércules da FAB transporta ambulância para Salvador (BA)
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Uma aeronave C-130 Hércules, da Força Aérea Brasileira (FAB), realizou, nesta quarta-feira (22/04), Transporte Aéreo Logístico em apoio à Operação COVID-19. O avião, pertencente ao Primeiro Esquadrão do Primeiro Grupo de Transporte (1°/1° GT) – Esquadrão Gordo, transportou uma ambulância do Rio de Janeiro (RJ) para Salvador (BA). A missão foi designada pelo Ministério da Defesa, em ação coordenada com o Ministério da Saúde.
 

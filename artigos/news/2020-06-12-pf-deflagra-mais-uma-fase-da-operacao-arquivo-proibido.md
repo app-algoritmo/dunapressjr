@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra mais uma fase da Operação Arquivo Proibido"
+title: PF deflagra mais uma fase da Operação Arquivo Proibido
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE – A Polícia Federal deflagrou nesta sexta-feira (12/6) mais uma fase da Operação Arquivo Proibido, com o objetivo de combater a posse e/ou divulgação de imagens e/ou vídeos de pornografia infantojuvenil pela internet.
 

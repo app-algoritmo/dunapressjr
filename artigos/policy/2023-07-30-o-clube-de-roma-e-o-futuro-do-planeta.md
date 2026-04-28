@@ -1,11 +1,12 @@
 ---
-title: "O Clube de Roma e o futuro do planeta"
+title: O Clube de Roma e o futuro do planeta
 date: 2023-07-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Clube de Roma é uma associação de especialistas que trabalham para um desenvolvimento justo e sustentável. Em 1972, o Clube de Roma publicou seu primeiro grande relatório, The Limits to Growth. O mais recente relatório que acaba de ser publicado também segue essa tradição: “**É a nossa vez. Clube de Roma: O Grande Relatório**”.
 

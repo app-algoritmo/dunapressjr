@@ -1,11 +1,12 @@
 ---
-title: "Gastos autorizados com fundo eleitoral são maiores polêmicas de projeto aprovado"
+title: Gastos autorizados com fundo eleitoral são maiores polêmicas de projeto aprovado
 date: 2019-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O projeto que altera regras sobre o Fundo Partidário e
 o fundo eleitoral (PL 5029/19, antigo PL 11021/18) foi objeto de forte obstrução na

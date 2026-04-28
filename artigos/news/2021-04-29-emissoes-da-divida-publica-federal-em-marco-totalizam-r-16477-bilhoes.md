@@ -1,11 +1,12 @@
 ---
-title: "Emissões da Dívida Pública Federal em março totalizam R$ 164,77 bilhões"
+title: Emissões da Dívida Pública Federal em março totalizam R$ 164,77 bilhões
 date: 2021-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é o melhor de toda a série história para esse mês.
 

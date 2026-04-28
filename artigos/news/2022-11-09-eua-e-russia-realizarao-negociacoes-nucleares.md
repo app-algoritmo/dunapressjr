@@ -1,11 +1,12 @@
 ---
-title: "EUA e Rússia realizarão negociações nucleares"
+title: EUA e Rússia realizarão negociações nucleares
 date: 2022-11-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A reunião será a primeira desde que as hostilidades eclodiram na Ucrânia.
 

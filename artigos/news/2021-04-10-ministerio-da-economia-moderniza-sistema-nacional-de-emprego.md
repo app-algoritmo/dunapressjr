@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia moderniza Sistema Nacional de Emprego"
+title: Ministério da Economia moderniza Sistema Nacional de Emprego
 date: 2021-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é promover maior autonomia digital para trabalhadores e empregadores a partir de uma nova forma de processo seletivo.
 

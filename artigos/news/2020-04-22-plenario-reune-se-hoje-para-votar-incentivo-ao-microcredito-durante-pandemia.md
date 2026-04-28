@@ -1,11 +1,12 @@
 ---
-title: "Plenário reúne-se hoje para votar incentivo ao microcrédito durante pandemia"
+title: Plenário reúne-se hoje para votar incentivo ao microcrédito durante pandemia
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em reunião realizada por videoconferência ontem, líderes incluíram duas medidas provisórias na pauta da sessão virtual do Plenário.
 

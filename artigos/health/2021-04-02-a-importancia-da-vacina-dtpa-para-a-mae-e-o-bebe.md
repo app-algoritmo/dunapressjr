@@ -1,11 +1,12 @@
 ---
-title: "A importância da vacina dTpa para a mãe e o bebê"
+title: A importância da vacina dTpa para a mãe e o bebê
 date: 2021-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma única vacina é capaz de proteger mãe e bebê contra três doenças graves. Esta é a dTpa, ou tríplice bacteriana acelular do tipo adulto, que imuniza contra difteria, tétano e coqueluche.
 

@@ -1,11 +1,13 @@
 ---
-title: "Na Holanda dia independência de Israel foi comemorado em sala de concertos vazia"
+title: Na Holanda dia independência de Israel foi comemorado em sala de concertos
+  vazia
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### O que deveria ter sido o primeiro concerto público a marcar o aniversário do estado judeu foi cancelado devido ao coronavírus, mas os organizadores não foram desencorajados.
 

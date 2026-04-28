@@ -1,11 +1,13 @@
 ---
-title: "Brasil prevê 140 milhões de doses de vacina contra Covid-19 para o 1º semestre de 2021"
+title: Brasil prevê 140 milhões de doses de vacina contra Covid-19 para o 1º semestre
+  de 2021
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil tem previsto, para o primeiro semestre de 2021, acesso a 140 milhões de doses de vacinas contra a Covid-19 que serão destinadas ao Programa Nacional de Imunização.
 

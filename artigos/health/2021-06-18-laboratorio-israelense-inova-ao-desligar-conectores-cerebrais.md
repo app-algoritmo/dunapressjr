@@ -1,11 +1,12 @@
 ---
-title: "Laboratório israelense inova ao 'desligar' conectores cerebrais"
+title: Laboratório israelense inova ao 'desligar' conectores cerebrais
 date: 2021-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Os cientistas dizem que fecharam com sucesso as vias no cérebro dos animais, o que pode ajudar a encontrar a cura para doenças cerebrais humanas.
 

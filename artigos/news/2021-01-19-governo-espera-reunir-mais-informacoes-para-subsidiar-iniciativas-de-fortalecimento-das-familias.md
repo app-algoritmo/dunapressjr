@@ -1,11 +1,13 @@
 ---
-title: "Governo espera reunir mais informações para subsidiar iniciativas de fortalecimento das famílias"
+title: Governo espera reunir mais informações para subsidiar iniciativas de fortalecimento
+  das famílias
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Conhecer melhor o funcionamento das famílias brasileiras. Para isso, o Governo incentiva a pesquisa. Até o dia 15 de março, estão abertas inscrições para bolsas de mestrado e pós-doutorado sobre políticas para a família.
 

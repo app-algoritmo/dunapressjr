@@ -1,11 +1,12 @@
 ---
-title: "Operação da PF contra tráfico internacional bloqueia R$ 126 milhões"
+title: Operação da PF contra tráfico internacional bloqueia R$ 126 milhões
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Alvos são contas bancárias, veículos e imóveis de luxo no Rio.
 

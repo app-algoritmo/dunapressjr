@@ -1,11 +1,12 @@
 ---
-title: "Mulheres em cargos de liderança impulsionam estratégia de crescimento de empresas"
+title: Mulheres em cargos de liderança impulsionam estratégia de crescimento de empresas
 date: 2023-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Se a promoção da equidade de gênero é um tema relativamente novo dentro de algumas empresas, a realidade mostra que o assunto deve ser tratado com urgência e seriedade. No setor industrial, por exemplo, os últimos dados da Confederação Nacional das Indústrias (CNI) indicam que apenas 24,2% do total de trabalhadores do setor são mulheres. Mas há exemplos de boas práticas nesse sentido ganhando força. Na Neodent, indústria brasileira da área odontológica, as iniciativas que valorizam a diversidade demonstram que as ações internas para a equidade de gênero têm surtido efeito ao ultrapassar o panorama geral.
 

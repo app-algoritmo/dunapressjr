@@ -1,11 +1,12 @@
 ---
-title: "Em 6 de maio de 1856, nascia Sigmund Freud"
+title: Em 6 de maio de 1856, nascia Sigmund Freud
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Conhecido como o pai da psicanálise, Sigmund Freud foi o responsável pela revolução no estudo da mente humana. Nascido em Freiberg, Morávia, hoje República Checa, Freud foi o primogênito de Jacob Freud e de Amalie Nathanson. Aos 17, ele ingressou na Universidade de Viena, no curso de Medicina. Notório por ser um aluno brilhante, durante os anos de faculdade, trabalhou intensamente no laboratório de neurofisiologia, até formar-se em 1881. Em 1882, conheceu Martha Bemays e em 1886, quando Freud já possuía consultório particular, casam-se.
 

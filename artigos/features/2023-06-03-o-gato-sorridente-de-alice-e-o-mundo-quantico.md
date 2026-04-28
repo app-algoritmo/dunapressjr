@@ -1,11 +1,12 @@
 ---
-title: "O Gato Sorridente de Alice e o Mundo Quântico"
+title: O Gato Sorridente de Alice e o Mundo Quântico
 date: 2023-06-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Features
+- Features
 ---
+
 
 ## O Gato Sorridente:
 

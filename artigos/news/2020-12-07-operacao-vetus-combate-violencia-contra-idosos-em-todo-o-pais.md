@@ -1,11 +1,12 @@
 ---
-title: "Operação Vetus combate violência contra idosos em todo o país"
+title: Operação Vetus combate violência contra idosos em todo o país
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para combater a violência contra o idoso foi deflagrada, nesta sexta-feira (4), em todo o país, a Operação Vetus, sob a coordenação do Ministério da Justiça e Segurança Pública.
 

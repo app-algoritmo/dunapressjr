@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate pornografia infantil no Amapá"
+title: Polícia Federal combate pornografia infantil no Amapá
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou, no Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes (18/5), as Operações Kori* e Virada de Jogo*, que investigam a produção, o armazenamento e a divulgação na internet de imagens e vídeos de exploração sexual de crianças e adolescentes no Amapá.
 

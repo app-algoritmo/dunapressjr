@@ -1,11 +1,13 @@
 ---
-title: "Programa de alfabetização Conta pra Mim, uma iniciativa que estimula a leitura infantil com familiares"
+title: Programa de alfabetização Conta pra Mim, uma iniciativa que estimula a leitura
+  infantil com familiares
 date: 2020-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Lançado em dezembro de 2019, o programa **Conta pra Mim**, da Secretaria de Alfabetização, é sem dúvidas um passo a frente. A leitura traz conhecimento, liberdade, paz, igualdade e direitos dos povos.
 

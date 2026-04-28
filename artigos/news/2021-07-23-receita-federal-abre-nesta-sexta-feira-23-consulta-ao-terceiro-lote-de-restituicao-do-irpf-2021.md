@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal abre nesta sexta-feira (23), consulta ao terceiro lote de restituição do IRPF 2021"
+title: Receita Federal abre nesta sexta-feira (23), consulta ao terceiro lote de restituição
+  do IRPF 2021
 date: 2021-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A partir das 10h desta sexta-feira (23), o terceiro lote de restituição do IRPF 2021 estará disponível para consulta. Esse lote contempla também restituições residuais de exercícios anteriores. O crédito bancário para 5,068 milhões de contribuintes será realizado no final deste mês, dia 30, no valor total de RS 5,8 bilhões. Desse total, R$ 354,326 milhões referem-se ao quantitativo de contribuintes que têm prioridade legal, sendo 13.985 contribuintes idosos acima de 80 anos; 95.298 contribuintes entre 60 e 79 anos; 8.987 contribuintes com alguma deficiência física ou mental ou moléstia grave; e 36.616 contribuintes cuja maior fonte de renda seja o magistério. Foram contemplados ainda 4,913 milhões de contribuintes não prioritários que entregaram a declaração até o dia 18 de maio de 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "UFSM  transforma dejetos suínos em fertilizante orgânico granulado"
+title: UFSM  transforma dejetos suínos em fertilizante orgânico granulado
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O projeto também permite o lançamento da fração líquida dos dejetos em mananciais de água, sem prejudicar o meio ambiente; outra proposta da tecnologia é viabilizar a implantação de uma fábrica de fertilizante na região.
 

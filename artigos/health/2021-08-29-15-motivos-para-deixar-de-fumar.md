@@ -1,11 +1,12 @@
 ---
-title: "15 motivos para deixar de fumar"
+title: 15 motivos para deixar de fumar
 date: 2021-08-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 29 de Agosto é comemorado o Dia Nacional de Combate ao Fumo, e o  que depender da gente não vai faltar motivação para você mudar de vida!
 

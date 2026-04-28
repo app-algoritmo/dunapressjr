@@ -1,11 +1,12 @@
 ---
-title: "ADO 26: Criminalização da Homofobia e da liberdade de expressão"
+title: 'ADO 26: Criminalização da Homofobia e da liberdade de expressão'
 date: 2019-02-18
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 A democracia morre quando o diálogo é substituído pela imposição 
 

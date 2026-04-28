@@ -1,11 +1,13 @@
 ---
-title: "PF prende estrangeiros que tentavam realizar saque de auxílio emergencial com documento falsificado"
+title: PF prende estrangeiros que tentavam realizar saque de auxílio emergencial com
+  documento falsificado
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Polícia Federal prendeu na noite de ontem, 4/5, dois venezuelanos pelo uso de documento público falso. Eles buscavam realizar saque do auxílio emergencial com os documentos falsificados.
 

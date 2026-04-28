@@ -1,11 +1,13 @@
 ---
-title: "Sefaz-PB prorroga cobrança de bloqueio, remessa de dívidas e fiscalização de empresas fechadas"
+title: Sefaz-PB prorroga cobrança de bloqueio, remessa de dívidas e fiscalização de
+  empresas fechadas
 date: 2020-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A portaria também suspendeu a remessa de processos administrativos tributários aptos para a inscrição em Dívida Ativa.
 

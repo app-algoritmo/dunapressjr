@@ -1,11 +1,13 @@
 ---
-title: "Joe Don Rooney, do Rascal Flatts, nega rumores de que está em transição e revela que está sóbrio"
+title: Joe Don Rooney, do Rascal Flatts, nega rumores de que está em transição e revela
+  que está sóbrio
 date: 2024-01-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Music
+- Music
 ---
+
 
 ## O guitarrista quebra o silêncio pouco mais de dois anos desde um violento acidente de carro e prisão por dirigir alcoolizado.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro vai distribuir mais de 300 mil cestas básicas para povos e comunidades tradicionais"
+title: Governo Bolsonaro vai distribuir mais de 300 mil cestas básicas para povos
+  e comunidades tradicionais
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a iniciativa, até junho deste ano, serão gastos R$ 4,7 bilhões na proteção e cuidados de povos e comunidades tradicionais no período de crise. "Quase 162 mil famílias receberão duas cestas básicas cada. Desde o início, o governo está agindo muito rápido e conseguimos esse investimento em tempo recorde", afirmou Terena. **[Saiba mais](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/abril/governo-federal-destina-r-4-7-bilhoes-para-protecao-de-povos-e-comunidades-tradicionais-durante-pandemia)**
 

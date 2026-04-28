@@ -1,11 +1,12 @@
 ---
-title: "<strong>Entenda a importância de um exame clínico para um correto diagnóstico</strong>"
+title: <strong>Entenda a importância de um exame clínico para um correto diagnóstico</strong>
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 A realização de um exame clínico é de fundamental importância para um correto diagnóstico, visto que com os dados coletados os médicos podem confirmar ou descartar alguma suspeita.
 

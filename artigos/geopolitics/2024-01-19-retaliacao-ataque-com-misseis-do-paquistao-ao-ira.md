@@ -1,11 +1,12 @@
 ---
-title: "Retaliação: ataque com mísseis do Paquistão ao Irã"
+title: 'Retaliação: ataque com mísseis do Paquistão ao Irã'
 date: 2024-01-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Uma fonte de inteligência paquistanesa disse à Reuters que aviões da Força Aérea do Paquistão entraram no espaço aéreo iraniano para realizar os ataques.
 

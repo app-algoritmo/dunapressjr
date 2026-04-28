@@ -1,11 +1,12 @@
 ---
-title: "BC terá site exclusivo para consulta ao sistema de valores a receber"
+title: BC terá site exclusivo para consulta ao sistema de valores a receber
 date: 2022-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é garantir que a segurança do Banco Central.
 

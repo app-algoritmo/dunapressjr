@@ -1,11 +1,12 @@
 ---
-title: "Economia brasileira cresce 1% no 1º trimestre, diz IBGE"
+title: Economia brasileira cresce 1% no 1º trimestre, diz IBGE
 date: 2022-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O PIB totalizou R$ 2,2 trilhões, no primeiro trimestre.
 

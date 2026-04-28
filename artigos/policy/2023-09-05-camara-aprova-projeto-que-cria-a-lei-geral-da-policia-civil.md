@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que cria a Lei Geral da Polícia Civil"
+title: Câmara aprova projeto que cria a Lei Geral da Polícia Civil
 date: 2023-09-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto segue para o Senado.
 

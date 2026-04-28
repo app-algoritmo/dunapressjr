@@ -1,11 +1,12 @@
 ---
-title: "Mais de 3,9 mil agricultores familiares passam a contar com o PAA"
+title: Mais de 3,9 mil agricultores familiares passam a contar com o PAA
 date: 2020-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais 117 municípios brasileiros vão passar a contar com o Programa de Aquisição de Alimentos (PAA), que compra produtos produzidos pela agricultura familiar, com dispensa de licitação. Depois, os alimentos são destinados a pessoas em situação de insegurança alimentar e nutricional.
 

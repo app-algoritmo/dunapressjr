@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional de Custo da Construção (INCC-M) mantém estabilidade em setembro"
+title: Índice Nacional de Custo da Construção (INCC-M) mantém estabilidade em setembro
 date: 2023-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa permanece estável pelo segundo mês consecutivo, acumulando alta de 3,21% em 12 meses, de acordo com dados do FGV IBRE.
 

@@ -1,11 +1,13 @@
 ---
-title: "CAPES: Governo Bolsonaro investe em bolsas para auxiliar no combate ao novo coronavírus"
+title: 'CAPES: Governo Bolsonaro investe em bolsas para auxiliar no combate ao novo
+  coronavírus'
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) vai investir em ações para ajudar no combate ao novo coronavírus. A primeira ação da Capes é o lançamento do Programa de Combate a Epidemias, que vai investir em bolsas nas áreas de saúde, biologia e exatas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Um clamor por justiça"
+title: Um clamor por justiça
 date: 2019-07-09
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 A operação lava-jato enfrentou uma nova e maior onda de questionamentos sobre sua atuação contra a corrupção depois que o site jornalístico The Intercept Brasil divulgou o “conteúdo” de uma série de áudios vazados contendo conversas entre o então juiz Sergio Moro e o procurador Deltan Dallagnol, ambos coordenavam a maior operação já realizada contra a corrupção sem precedentes na história da humanidade. Segundo dados do Ministério Público do Paraná, explicados através de um infográfico, temos os seguintes números:
 

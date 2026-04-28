@@ -1,11 +1,12 @@
 ---
-title: "Quais os primeiros sintomas da dependência química?"
+title: Quais os primeiros sintomas da dependência química?
 date: 2022-08-11
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Não é nada fácil quando descobrimos que uma pessoa que amamos está com problemas com drogas. Saber como agir e como oferecer ajuda da maneira certa e sem que a pessoa se sinta julgada, é realmente um desafio e tanto. 
 

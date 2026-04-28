@@ -1,11 +1,13 @@
 ---
-title: "Lote residual de restituição do IRPF de novembro de estará disponível a partir das 10 Horas desta quinta-feira"
+title: Lote residual de restituição do IRPF de novembro de estará disponível a partir
+  das 10 Horas desta quinta-feira
 date: 2023-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de R$ 762 milhões serão creditados para 358.737 contribuintes no próximo dia 30.
 

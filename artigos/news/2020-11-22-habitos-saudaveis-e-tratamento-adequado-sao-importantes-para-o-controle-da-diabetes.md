@@ -1,11 +1,13 @@
 ---
-title: "Hábitos saudáveis e tratamento adequado são importantes para o controle da diabetes"
+title: Hábitos saudáveis e tratamento adequado são importantes para o controle da
+  diabetes
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Considerada uma doença silenciosa por, na maioria das vezes, não manifestar sintomas ou causar mal-estar no paciente, a diabetes esteve entre as cinco principais causas de morte no Brasil em 2018. Por isso, a prevenção, o diagnóstico precoce e o tratamento correto são peças-chave no controle da doença.
 

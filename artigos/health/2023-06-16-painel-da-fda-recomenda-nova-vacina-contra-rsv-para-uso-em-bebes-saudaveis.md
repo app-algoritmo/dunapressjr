@@ -1,11 +1,12 @@
 ---
-title: "Painel da FDA recomenda nova vacina contra RSV para uso em bebês saudáveis"
+title: Painel da FDA recomenda nova vacina contra RSV para uso em bebês saudáveis
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Consultores da Administração de Alimentos e Medicamentos dos EUA recomendaram na quinta-feira a aprovação do novo anticorpo monoclonal da AstraZeneca, que a farmacêutica diz proteger bebês e crianças pequenas até 2 anos de idade do vírus sincicial respiratório, mas especialistas médicos disseram ao The Defender em entrevista, chamaram a mudança " imprudente" e "absurdo".
 

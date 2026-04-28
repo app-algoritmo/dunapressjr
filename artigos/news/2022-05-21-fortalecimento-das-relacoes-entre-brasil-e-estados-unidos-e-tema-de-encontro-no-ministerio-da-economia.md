@@ -1,11 +1,13 @@
 ---
-title: "Fortalecimento das relações entre Brasil e Estados Unidos é tema de encontro no Ministério da Economia"
+title: Fortalecimento das relações entre Brasil e Estados Unidos é tema de encontro
+  no Ministério da Economia
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Na ocasião, o secretário-executivo Marcelo Guaranys, e integrantes da Secint e da Sepec se reuniram com o vice-secretário de Comércio norte-americano, Don Graves.
 

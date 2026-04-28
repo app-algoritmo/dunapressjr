@@ -1,11 +1,13 @@
 ---
-title: "Queda na atividade econômica brasileira em maio demanda análise cautelosa para impulsionar o crescimento"
+title: Queda na atividade econômica brasileira em maio demanda análise cautelosa para
+  impulsionar o crescimento
 date: 2023-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Atividade Econômica (IBC-Br) revela diminuição de 2% e destaca desafios e necessidade de políticas eficazes para a recuperação econômica do Brasil.
 

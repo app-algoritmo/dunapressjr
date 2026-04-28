@@ -1,11 +1,12 @@
 ---
-title: "Caso Cãozinho Doc, quem é cruel com bichos certamente é cruel com gente"
+title: Caso Cãozinho Doc, quem é cruel com bichos certamente é cruel com gente
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na última semana, o vizinho entrou no quintal da residência dos tutores do Doc, roubou o cachorrinho e colocou dentro do seu carro.
 O cão desapareceu no sábado por volta das 17h. Graças às câmeras de segurança, o vizinho foi chamado na Delegacia, porém negou. Por pressão da família, ele afirmou que deixou o cão na região do Monte Verde e os donos iniciaram as buscas, mas, infelizmente, ele foi encontrado por terceiros no bairro Carianos, espancado e totalmente desfigurado. Infelizmente, Doc não resistiu aos ferimentos e veio à óbito.

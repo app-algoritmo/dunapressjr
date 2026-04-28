@@ -1,11 +1,13 @@
 ---
-title: "PL visa garantir direito de distribuir alimentação a animais em situação de rua"
+title: PL visa garantir direito de distribuir alimentação a animais em situação de
+  rua
 date: 2021-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## "São recorrentes as denúncias relacionadas a pessoas e agentes públicos que impedem cidadãos de oferecerem alimentos e água aos animais de rua".
 

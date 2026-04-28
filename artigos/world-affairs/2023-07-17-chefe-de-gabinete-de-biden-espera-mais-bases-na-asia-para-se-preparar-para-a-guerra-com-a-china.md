@@ -1,11 +1,13 @@
 ---
-title: "Chefe de gabinete de Biden espera mais bases na Ásia para se preparar para a guerra com a China"
+title: Chefe de gabinete de Biden espera mais bases na Ásia para se preparar para
+  a guerra com a China
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O general Charles Q. Brown foi nomeado para suceder o general Mark Milley.
 

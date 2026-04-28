@@ -1,11 +1,12 @@
 ---
-title: "IBGE prevê safra de 298,0 milhões de toneladas para 2023"
+title: IBGE prevê safra de 298,0 milhões de toneladas para 2023
 date: 2023-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão de safra para este ano foi reduzida em 1,3%.
 

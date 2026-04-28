@@ -1,11 +1,12 @@
 ---
-title: "Sucuri: Grandiosa, musculosa e sul-americana"
+title: 'Sucuri: Grandiosa, musculosa e sul-americana'
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Com registros de espécimes que podem chegar a mais de sete metros de comprimento e corpos muito musculosos, as sucuris recebem destaque entre as serpentes por conta do seu tamanho e força, o que inspira mitos e obras ficcionais até hoje. Algumas dessas lendas retratam as sucuris com tamanhos exagerados, ou então especulam sobre sua possível capacidade de se alimentar de bois ou outros grandes animais. Mas o que é real e o que é ficção sobre esses colossos da natureza?
 

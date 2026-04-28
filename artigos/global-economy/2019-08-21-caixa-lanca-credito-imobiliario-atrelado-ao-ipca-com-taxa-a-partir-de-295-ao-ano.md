@@ -1,11 +1,13 @@
 ---
-title: "Caixa lança crédito imobiliário atrelado ao IPCA com taxa a partir de 2,95% ao ano"
+title: Caixa lança crédito imobiliário atrelado ao IPCA com taxa a partir de 2,95%
+  ao ano
 date: 2019-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As taxas estarão vigentes a partir da próxima segunda-feira. 
 

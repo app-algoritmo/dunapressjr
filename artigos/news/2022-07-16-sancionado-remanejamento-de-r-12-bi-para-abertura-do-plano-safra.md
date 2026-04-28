@@ -1,11 +1,12 @@
 ---
-title: "Sancionado remanejamento de R$ 1,2 bi para abertura do Plano Safra"
+title: Sancionado remanejamento de R$ 1,2 bi para abertura do Plano Safra
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Presidente também sanciona créditos para outros Poderes e INSS.
 

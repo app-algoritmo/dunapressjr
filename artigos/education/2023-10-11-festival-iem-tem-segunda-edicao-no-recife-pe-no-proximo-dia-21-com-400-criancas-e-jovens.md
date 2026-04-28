@@ -1,12 +1,14 @@
 ---
-title: "Festival IEM tem segunda edição no Recife (PE) no próximo dia 21 com 400 crianças e jovens"
+title: Festival IEM tem segunda edição no Recife (PE) no próximo dia 21 com 400 crianças
+  e jovens
 date: 2023-10-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Evento, que faz parte do calendário oficial do Instituto Etiene Medeiros, retorna após o sucesso de 2022 para destacar a importância do esporte, assim como o impacto na comunidade.
 

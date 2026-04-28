@@ -1,11 +1,13 @@
 ---
-title: "PF investiga desvio de recursos públicos do auxílio federal para enfrentamento ao Covid-19"
+title: PF investiga desvio de recursos públicos do auxílio federal para enfrentamento
+  ao Covid-19
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Manaus/AM - A Polícia Federal deflagrou, na manhã desta terça-feira (30/6), a Operação Sangria, inaugurando a fase ostensiva de inquérito policial, por meio do qual são investigados fatos relacionados a possíveis práticas de crimes, como pertencimento a organização criminosa, corrupção, fraude a licitação e desvio de recursos públicos federais.
 

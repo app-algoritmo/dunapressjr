@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador propõe vacina sem agulha ou seringa"
+title: Pesquisador propõe vacina sem agulha ou seringa
 date: 2021-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rafael Frandoloso é graduado em Medicina Veterinária pela Universidade de Passo Fundo (UPF), no Rio Grande do Sul e doutor em Imunologia e Microbiologia Veterinária pela Universidade de León, na Espanha. Foi bolsista de pós-doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) entre março de 2017 e fevereiro de 2018 na Universidade de Calgary, no Canadá. Publicado em periódico internacional, o [artigo](https://www.frontiersin.org/articles/10.3389/fimmu.2020.595320/full) que resultou da pesquisa no país norte-americano sinaliza avanços em direção à vacinação sem agulhas ou seringas.  
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça alguns dos sintomas da estomatite"
+title: Conheça alguns dos sintomas da estomatite
 date: 2021-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A estomatite é uma doença bem comum em crianças que deixa os pais angustiados. Isso por causa das temidas manchas vermelhas que aparecem na mucosa da boca e, em alguns casos, também na garganta. Essas lesões podem se espalhar rapidamente, causando salivação excessiva, dor ao engolir ou ao comer, febre e mau hálito.
 

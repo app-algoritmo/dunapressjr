@@ -1,11 +1,12 @@
 ---
-title: "BC comunica vazamento de dados de 2,1 mil chaves Pix"
+title: BC comunica vazamento de dados de 2,1 mil chaves Pix
 date: 2022-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram vazados dados cadastrais da Logbank Pagamentos.
 

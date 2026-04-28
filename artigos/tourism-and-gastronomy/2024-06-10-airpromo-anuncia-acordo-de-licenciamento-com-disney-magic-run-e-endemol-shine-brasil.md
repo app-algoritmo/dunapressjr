@@ -1,11 +1,13 @@
 ---
-title: "AirPromo anuncia acordo de licenciamento com Disney Magic Run e Endemol Shine Brasil"
+title: AirPromo anuncia acordo de licenciamento com Disney Magic Run e Endemol Shine
+  Brasil
 date: 2024-06-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Ecossistema de marketing e entretenimento firma parcerias com marcas líderes em entretenimento mundial e promove projetos pioneiros no Estado do Paraná: Disney Magic Run e Estação MasterChef Brasil.
 

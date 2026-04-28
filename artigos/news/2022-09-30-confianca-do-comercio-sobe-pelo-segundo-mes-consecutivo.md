@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio sobe pelo segundo mês consecutivo"
+title: Confiança do comércio sobe pelo segundo mês consecutivo
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o maior nível desde janeiro de 2019.
 

@@ -1,11 +1,12 @@
 ---
-title: "Partido Popular da Espanha obtém vitória nas eleições municipais"
+title: Partido Popular da Espanha obtém vitória nas eleições municipais
 date: 2023-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## PP conquista maioria das grandes cidades e fortalece sua posição política no país.
 

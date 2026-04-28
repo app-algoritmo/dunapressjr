@@ -1,11 +1,13 @@
 ---
-title: "Macri diz ter confiança de reverter derrota de domingo após peso despencar com resultados das primárias"
+title: Macri diz ter confiança de reverter derrota de domingo após peso despencar
+  com resultados das primárias
 date: 2019-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Macri culpou a oposição de centro-esquerda pela queda nos índices financeiros, dizendo que o candidato peronista Alberto Fernández não inspira confiança nos investidores.
 

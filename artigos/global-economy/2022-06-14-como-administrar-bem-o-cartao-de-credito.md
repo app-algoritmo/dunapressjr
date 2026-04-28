@@ -1,11 +1,12 @@
 ---
-title: "Como administrar bem o cartão de crédito"
+title: Como administrar bem o cartão de crédito
 date: 2022-06-14
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O total de brasileiros com dívidas no cartão de crédito aumentou em 2022. De acordo com a  Pesquisa Nacional de Endividamento e Inadimplência do Consumidor (Peic), divulgada em fevereiro, pela Confederação Nacional do Comércio (CNC), 87% dos endividados do país estão com faturas do cartão em aberto. No mesmo período do ano passado, o percentual era de 80,5%.
 

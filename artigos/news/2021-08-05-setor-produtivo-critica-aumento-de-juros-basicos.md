@@ -1,11 +1,12 @@
 ---
-title: "Setor produtivo critica aumento de juros básicos"
+title: Setor produtivo critica aumento de juros básicos
 date: 2021-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para CNI, elevação atrasa recuperação da economia.
 

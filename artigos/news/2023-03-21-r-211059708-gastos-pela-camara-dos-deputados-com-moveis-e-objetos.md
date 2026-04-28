@@ -1,11 +1,12 @@
 ---
-title: "R$ 2110.597,08 gastos pela Câmara dos Deputados com móveis e objetos"
+title: R$ 2110.597,08 gastos pela Câmara dos Deputados com móveis e objetos
 date: 2023-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## **EXTRATOS DE CONTRATOS**
 

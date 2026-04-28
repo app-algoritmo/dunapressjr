@@ -1,11 +1,13 @@
 ---
-title: "A Suspensão de Financiamento da UNWRA pela Comissão Europeia: Ligação com o ataque de 7 de Outubro de 2023"
+title: 'A Suspensão de Financiamento da UNWRA pela Comissão Europeia: Ligação com
+  o ataque de 7 de Outubro de 2023'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Comissão Europeia anunciou a suspensão de todo o financiamento à Agência das Nações Unidas de Assistência aos Refugiados da Palestina no Próximo Oriente (UNWRA) em um momento de significativa tensão geopolítica. A decisão foi motivada pelo envolvimento de 12 funcionários da UNWRA no ataque do Hamas a Israel, ocorrido em 7 de outubro de 2023, resultando na trágica morte de 1200 pessoas. Esse desenvolvimento adiciona uma camada complexa ao contexto, intensificando as implicações humanitárias e desafios regionais.
 

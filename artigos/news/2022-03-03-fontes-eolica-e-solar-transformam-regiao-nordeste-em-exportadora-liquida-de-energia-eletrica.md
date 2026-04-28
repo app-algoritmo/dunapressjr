@@ -1,11 +1,13 @@
 ---
-title: "Fontes eólica e solar transformam região Nordeste em exportadora líquida de energia elétrica"
+title: Fontes eólica e solar transformam região Nordeste em exportadora líquida de
+  energia elétrica
 date: 2022-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fontes passam a participar da matriz de geração na região com 41,5% em 2020, superando a hidráulica, com 32,9%.
 

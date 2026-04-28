@@ -1,14 +1,15 @@
 ---
-title: "Amon Göth, o açougueiro de Cracóvia"
+title: Amon Göth, o açougueiro de Cracóvia
 date: 2022-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History
-  - Military
-  - Policy
-  - Video library
+- History
+- Military
+- Policy
+- Video library
 ---
+
 
 A mulher, ao vê-lo vestido com o uniforme da SS, começou a tremer incontrolavelmente porque ele a lembrava vividamente do sádico nazista.
 

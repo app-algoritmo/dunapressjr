@@ -1,11 +1,12 @@
 ---
-title: "Chanceler manifesta apoio da Espanha a acordo entre Mercosul e UE"
+title: Chanceler manifesta apoio da Espanha a acordo entre Mercosul e UE
 date: 2022-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Albares destacou importância de reforçar entre países do bloco
 

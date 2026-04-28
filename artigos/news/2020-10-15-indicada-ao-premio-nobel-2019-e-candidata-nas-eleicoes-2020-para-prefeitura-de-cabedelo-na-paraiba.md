@@ -1,11 +1,13 @@
 ---
-title: "Indicada ao Prêmio Nobel 2019 é candidata nas eleições 2020 para prefeitura de cabedelo na Paraíba"
+title: Indicada ao Prêmio Nobel 2019 é candidata nas eleições 2020 para prefeitura
+  de cabedelo na Paraíba
 date: 2020-10-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Plano de governo para a Prefeitura de Cabedelo, apresenta as principais propostas dos candidatos **[Morgana Macena](https://www.duna.global/en-mmsantana/)** e **Arthur Dornelas**, da Coligação “Cabedelo Para Um Futuro Melhor”, compostas pelos partidos do Movimento Democrático Brasileiro – MDB 15 e o PATRIOTA 51 para o período 2021 - 2024. O conteúdo programático das propostas foi desenvolvido a partir das necessidades da população do município de Cabedelo. Morgana Macena e Arthur Dornelas, procuram a partir de suas experiências, adquirida ao longo de sua trajetória de vida, transformar a realidade do povo de Cabedelo. As propostas aqui escritas foram feitas para o povo, com modernização nas atividades e facilidade no acesso aos serviços público, gerando celeridade e um amplo desenvolvimento social. A busca de parcerias com instituições públicas e privadas, será o grande diferencial para atrair novas empresas e gerar emprego e renda para população local que tanto clama por oportunidades.
 

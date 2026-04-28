@@ -1,11 +1,12 @@
 ---
-title: "Breaking news: Governo Bolsonaro acaba de anunciar acordo inédito entre Brasil-EUA"
+title: 'Breaking news: Governo Bolsonaro acaba de anunciar acordo inédito entre Brasil-EUA'
 date: 2020-03-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ministro da defesa do Governo do Presidente Jair Bolsonaro, Fernando Azevedo e Silva fez o anúncio de um acordo inédito entre Brasil e Estados Unidos.
 

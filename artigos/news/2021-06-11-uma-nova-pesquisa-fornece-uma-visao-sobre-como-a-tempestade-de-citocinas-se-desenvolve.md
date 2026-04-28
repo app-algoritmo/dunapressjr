@@ -1,11 +1,13 @@
 ---
-title: "Uma nova pesquisa fornece uma visão sobre como a tempestade de citocinas se desenvolve"
+title: Uma nova pesquisa fornece uma visão sobre como a tempestade de citocinas se
+  desenvolve
 date: 2021-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisadores da Bar-Ilan University: compreender as interações moleculares pode ser um alvo da medicina de precisão para o tratamento de casos graves de COVID-19.
 

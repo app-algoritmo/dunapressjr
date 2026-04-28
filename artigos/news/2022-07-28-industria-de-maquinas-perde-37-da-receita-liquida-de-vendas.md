@@ -1,11 +1,12 @@
 ---
-title: "Indústria de máquinas perde 3,7% da receita liquida de vendas"
+title: Indústria de máquinas perde 3,7% da receita liquida de vendas
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No primeiro semestre do ano, a receita do setor somou R$ 150,6 bi.
 

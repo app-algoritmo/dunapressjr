@@ -1,11 +1,12 @@
 ---
-title: "Professor de educação física representa Brasil nos jogos mundiais para transplantados"
+title: Professor de educação física representa Brasil nos jogos mundiais para transplantados
 date: 2023-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Vi no esporte uma maneira de divulgar a doação de órgãos e desmistificar a ideia de que transplantado é alguém com muitas restrições e que não pode se exercitar." Essa frase se tornou um mantra para o professor de educação física Ramon Lima. Depois de ser diagnosticado com insuficiência renal crônica há 11 anos, ele passou pela diálise peritoneal, ficou cerca de um ano na fila por um transplante, e, em janeiro de 2020, recebeu a ligação de que um rim compatível o esperava. Mas foi após conhecer eventos esportivos para transplantados que ele começou a correr pela realização de um sonho: participar do *World Transplant Games, *competição reconhecida pelo Comitê Olímpico Internacional e que acontece a cada dois anos.
 

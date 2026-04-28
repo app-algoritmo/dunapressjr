@@ -1,11 +1,12 @@
 ---
-title: "Carteira de Identidade Nacional começa a ser emitida no estado de Goiás"
+title: Carteira de Identidade Nacional começa a ser emitida no estado de Goiás
 date: 2022-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novo documento pode ser utilizado em papel, plástico e no formato digital pelo aplicativo GOV.BR, e tem o CPF como único número de identificação.
 

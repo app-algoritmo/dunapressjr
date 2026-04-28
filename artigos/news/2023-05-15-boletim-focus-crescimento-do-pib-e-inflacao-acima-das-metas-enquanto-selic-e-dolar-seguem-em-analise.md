@@ -1,11 +1,13 @@
 ---
-title: "Boletim Focus: Crescimento do PIB e inflação acima das metas, enquanto Selic e dólar seguem em análise"
+title: 'Boletim Focus: Crescimento do PIB e inflação acima das metas, enquanto Selic
+  e dólar seguem em análise'
 date: 2023-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercado financeiro eleva projeção de crescimento para a economia brasileira, mas inflação e taxa de juros ainda preocupam. Dólar permanece estável.
 

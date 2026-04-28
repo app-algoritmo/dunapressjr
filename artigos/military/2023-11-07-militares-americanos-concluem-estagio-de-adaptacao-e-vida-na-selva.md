@@ -1,11 +1,12 @@
 ---
-title: "Militares americanos concluem Estágio de Adaptação e Vida na Selva"
+title: Militares americanos concluem Estágio de Adaptação e Vida na Selva
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Foram três dias incansáveis no meio da floresta amazônica, aprendendo técnicas de sobrevivência. Foi assim que cerca de 150 militares norte-americanos conquistaram o brevê de Selva no 2° Batalhão de Infantaria de Selva. O Estágio de Adaptação e Vida na Selva marcou a primeira etapa da CORE23  (*Combined Operation and Rotation Exercise*), exercício bilateral entre os Exércitos do Brasil e dos Estados Unidos da América.
 

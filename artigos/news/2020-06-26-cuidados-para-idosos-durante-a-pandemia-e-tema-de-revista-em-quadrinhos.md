@@ -1,11 +1,12 @@
 ---
-title: "Cuidados para idosos durante a pandemia é tema de revista em quadrinhos"
+title: Cuidados para idosos durante a pandemia é tema de revista em quadrinhos
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A revista passatempo [“Xô, Corona!”](https://www.ufjf.br/nucleoid/files/2020/06/VERS%c3%83O-FINAL-X%c3%b4-Corona.pdf), elaborada pelo [Grupo de Estudo Sobre o Indivíduo Idoso (ID)](https://www.ufjf.br/nucleoid/), da Faculdade de Arquitetura e Urbanismo (FAU) da Universidade Federal de Juiz de Fora (UFJF), já está disponível na [versão digital](https://www.ufjf.br/nucleoid/noticias/covid-19-2/revista-xo-corona/) e na impressa. O projeto tem como objetivo levar ao público informações, de maneira lúdica, através de histórias em quadrinhos e diversos, jogos, sobre o bem-estar da pessoa idosa durante a pandemia do novo coronavírus. 
 

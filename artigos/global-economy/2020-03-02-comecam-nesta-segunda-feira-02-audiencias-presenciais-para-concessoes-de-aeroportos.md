@@ -1,11 +1,13 @@
 ---
-title: "Começam nesta segunda-feira, 02, audiências presenciais para concessões de aeroportos"
+title: Começam nesta segunda-feira, 02, audiências presenciais para concessões de
+  aeroportos
 date: 2020-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Governo pretende leiloar 22 aeroportos divididos em três blocos
 

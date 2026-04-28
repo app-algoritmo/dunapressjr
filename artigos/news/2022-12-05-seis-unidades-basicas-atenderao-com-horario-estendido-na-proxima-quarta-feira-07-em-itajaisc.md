@@ -1,11 +1,13 @@
 ---
-title: "Seis unidades básicas atenderão com horário estendido na próxima quarta-feira (07) em Itajaí/SC"
+title: Seis unidades básicas atenderão com horário estendido na próxima quarta-feira
+  (07) em Itajaí/SC
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Seis unidades básicas de saúde de Itajaí funcionarão com horário estendido na próxima quarta-feira (07) para atendimento de homens e mulheres que têm dificuldade de acessar as unidades em horário comercial. Esta ação ocorrerá todos os meses, sempre na primeira quarta-feira de cada mês. O objetivo é facilitar o acesso dos moradores aos serviços de saúde, com atendimento no período noturno. As UBS Itaipava, Santa Regina, Fazenda 2, Rio Bonito, São João 2 e Jardim Esperança participarão da ação, organizada pela Secretaria Municipal de Saúde.
 

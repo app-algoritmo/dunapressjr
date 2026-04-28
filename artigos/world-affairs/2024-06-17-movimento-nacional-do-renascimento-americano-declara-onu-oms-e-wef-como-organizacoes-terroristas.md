@@ -1,11 +1,13 @@
 ---
-title: "Movimento Nacional do Renascimento Americano Declara ONU, OMS e WEF como Organizações Terroristas"
+title: Movimento Nacional do Renascimento Americano Declara ONU, OMS e WEF como Organizações
+  Terroristas
 date: 2024-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Declaração do National ARM Pede ao Congresso dos EUA que Proíba Colaboração com Organizações Globais**.
 

@@ -1,11 +1,13 @@
 ---
-title: "Bebida láctea, mistura láctea, soro de leite: descubra o que há por trás desses 'novos' produtos que você tem levado para casa"
+title: 'Bebida láctea, mistura láctea, soro de leite: descubra o que há por trás desses
+  ''novos'' produtos que você tem levado para casa'
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Com a alta da inflação ao longo desse ano, muitas marcas de alimentos, em especial os de origem láctea, passaram a oferecer produtos similares: soro de leite, bebida e mistura lácteas, creme culinário, entre outros. Estão nos supermercados como opção mais barata aos produtos originais, como é o caso do próprio leite, iogurte, leite condensado e creme de leite. A composição nutricional desses alimentos é muito diferente da original, mas as embalagens são muito parecidas e ficam lado a lado na gôndola, confundindo o consumidor. “Ele acredita estar comprando o produto original, com a vantagem do preço mais em conta. Mas, na prática, percebe que não foi nada disso que levou para casa”, afirma a nutricionista, doutora em Ciência e Tecnologia de Alimentos e professora do [curso de Nutrição da Universidade Positivo (UP)](https://www.up.edu.br/graduacao/nutricao/?utm_source=assessoria-imprensa&utm_medium=noticia-imprensa&utm_campaign=curso&utm_content=graduacao-2022-2&utm_term=up), Mariana Etchepare.
 

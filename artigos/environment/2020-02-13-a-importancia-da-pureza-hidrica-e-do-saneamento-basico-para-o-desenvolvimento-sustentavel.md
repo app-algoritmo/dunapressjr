@@ -1,12 +1,14 @@
 ---
-title: "A Importância da Pureza Hídrica e do Saneamento Básico para o Desenvolvimento Sustentável"
+title: A Importância da Pureza Hídrica e do Saneamento Básico para o Desenvolvimento
+  Sustentável
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
-  - Magazine
+- Environment
+- Magazine
 ---
+
 
 ## **Educação, Reciclagem e a Experiência da Noruega como Modelo de Saneamento Básico Eficiente**.
 

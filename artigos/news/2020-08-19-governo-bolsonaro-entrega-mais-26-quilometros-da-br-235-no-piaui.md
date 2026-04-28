@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega mais 26 quilômetros da BR-235 no Piauí"
+title: Governo Bolsonaro entrega mais 26 quilômetros da BR-235 no Piauí
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal entregou, nesta terça-feira (18), mais 26 quilômetros de pavimentação e asfalto na BR-235, no estado do Piauí. Os trabalhos foram realizados no trecho localizado entre as cidades de Caracol e Guaribas. A previsão é de concluir, ainda neste ano, o trecho total de 47,4 quilômetros entre as duas cidades piauienses. 
 

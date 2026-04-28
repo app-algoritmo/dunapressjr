@@ -1,11 +1,13 @@
 ---
-title: "Estudo do Ministério da Saúde de Israel: vacinação contra COVID aumenta o risco de morte"
+title: 'Estudo do Ministério da Saúde de Israel: vacinação contra COVID aumenta o
+  risco de morte'
 date: 2023-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Agora, o Ministério da Saúde de Israel divulgou secretamente um novo estudo mostrando que as vacinas COVID aumentam significativamente o risco de morte por pelo menos 180 dias após a vacinação.
 

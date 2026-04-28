@@ -1,11 +1,12 @@
 ---
-title: "Governo sanciona medida provisória que moderniza Lei dos Portos"
+title: Governo sanciona medida provisória que moderniza Lei dos Portos
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Mudança desburocratiza a gestão de contratos e traz novas regras para trabalhadores durante a pandemia. Entre as principais mudanças está a flexibilização na gestão de contratos de arrendamento.
 

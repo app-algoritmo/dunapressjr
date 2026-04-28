@@ -1,11 +1,12 @@
 ---
-title: "Protestos crescem na China e pedem renúncia de Xi Jinping"
+title: Protestos crescem na China e pedem renúncia de Xi Jinping
 date: 2022-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### O desastre que a política de "Covid Zero" do presidente chinês está gerando multiplica o descontentamento contra sua figura e até com o Partido Comunista.
 

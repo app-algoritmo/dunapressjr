@@ -1,11 +1,12 @@
 ---
-title: "O que as Paletas de Cores significam para os filmes e séries?"
+title: O que as Paletas de Cores significam para os filmes e séries?
 date: 2020-08-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 **Se existe algo que desperta curiosidade e admiração nos filme e séries, com certeza é a paleta de cores.**
 

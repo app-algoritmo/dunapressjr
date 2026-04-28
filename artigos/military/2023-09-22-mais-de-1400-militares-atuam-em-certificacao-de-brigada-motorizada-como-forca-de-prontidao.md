@@ -1,11 +1,13 @@
 ---
-title: "Mais de 1400 militares atuam em certificação de Brigada Motorizada como Força de Prontidão"
+title: Mais de 1400 militares atuam em certificação de Brigada Motorizada como Força
+  de Prontidão
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Mais de 1400 militares da 9ª Brigada de Infantaria Motorizada (9ª Bda Inf Mtz) participaram da Operação Encore, de 10 a 15 de setembro, no Campo de Instrução da Academia Militar das Agulhas Negras, em Resende (RJ). A Operação constituiu a Simulação Viva, que é a terceira fase do processo de certificação da Força-Tarefa Suez como Força de Prontidão do Exército Brasileiro. O exercício foi concebido em um quadro de defesa externa, em que uma Força Oponente executa ações táticas e interage com a Força Adestrada por meio de problemas militares simulados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Uso de energia solar cresce no país, com 19 GW de potência instalada"
+title: Uso de energia solar cresce no país, com 19 GW de potência instalada
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Economia em relação à energia elétrica chega a até 90%.
 

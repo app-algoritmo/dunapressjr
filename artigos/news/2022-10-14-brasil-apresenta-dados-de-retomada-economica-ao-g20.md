@@ -1,11 +1,12 @@
 ---
-title: "Brasil apresenta dados de retomada econômica ao G20"
+title: Brasil apresenta dados de retomada econômica ao G20
 date: 2022-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes reafirmou segurança alimentar e energética do país.
 

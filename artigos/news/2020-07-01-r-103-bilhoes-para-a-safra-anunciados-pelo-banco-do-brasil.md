@@ -1,11 +1,12 @@
 ---
-title: "R$ 103 bilhões para a safra anunciados pelo Banco do Brasil"
+title: R$ 103 bilhões para a safra anunciados pelo Banco do Brasil
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A ministra Tereza Cristina destacou a parceria histórica da instituição com o setor agropecuário brasileiro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Termina em uma semana prazo para verificação do Censo da Educação Superior de 2019"
+title: Termina em uma semana prazo para verificação do Censo da Educação Superior
+  de 2019
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 As instituições públicas e privadas de educação superior têm até esta sexta-feira, 26 de junho, para verificar os dados declarados ao Censo da Educação Superior 2019. A atribuição é do pesquisador institucional, que representa a unidade junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Desde o dia 8 de junho, é possível fazer conferência, ajustes, validação dos dados coletados e envio das justificativas de inconsistências.
 

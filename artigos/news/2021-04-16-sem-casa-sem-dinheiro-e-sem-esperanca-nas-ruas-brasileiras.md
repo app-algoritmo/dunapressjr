@@ -1,11 +1,12 @@
 ---
-title: "Sem casa, sem dinheiro e sem esperança nas ruas brasileiras"
+title: Sem casa, sem dinheiro e sem esperança nas ruas brasileiras
 date: 2021-04-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -De acordo com a Pesquisa Nacional da População em Situação de Rua divulgada em maio de 2019 pelo Ministério da Cidadania, o Brasil hoje tem mais de 1,17 milhão moradores de rua.
 

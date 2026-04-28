@@ -1,11 +1,12 @@
 ---
-title: "Tornado destróe armazem de vacinas da Pfizer"
+title: Tornado destróe armazem de vacinas da Pfizer
 date: 2023-07-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um depósito da Pfizer cheio de vacinas contra a Covid foi DESTRUÍDO POR UM TORNADO na Carolina do Norte.
 

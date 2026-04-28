@@ -1,11 +1,12 @@
 ---
-title: "A esquerda ibero-americana lamenta a derrota do kirchnerismo"
+title: A esquerda ibero-americana lamenta a derrota do kirchnerismo
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A líder do Podemos, **Irene Montero,** lamentou a vitória esmagadora de **Javier Milei** sobre o kirchnerista **Sergio Massa** nas eleições argentinas e afirmou que venceu “a ofensiva reacionária”.
 

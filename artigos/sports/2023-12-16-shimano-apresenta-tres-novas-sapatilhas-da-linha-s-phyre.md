@@ -1,11 +1,12 @@
 ---
-title: "Shimano apresenta três novas sapatilhas da linha S-PHYRE"
+title: Shimano apresenta três novas sapatilhas da linha S-PHYRE
 date: 2023-12-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Marca mais tradicional e reconhecida no fabricação de componentes e acessórios para bicicleta do mundo traz produtos desenvolvidos para oferecer desempenho, potência e estilo.
 

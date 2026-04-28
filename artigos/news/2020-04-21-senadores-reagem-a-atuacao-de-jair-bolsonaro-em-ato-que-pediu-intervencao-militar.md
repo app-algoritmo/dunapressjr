@@ -1,11 +1,12 @@
 ---
-title: "Senadores reagem à atuação de Jair Bolsonaro em ato que pediu intervenção militar"
+title: Senadores reagem à atuação de Jair Bolsonaro em ato que pediu intervenção militar
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A presença do presidente Jair Bolsonaro em um ato que defendia a intervenção militar provocou a reação imediata dos senadores. Na manifestação ocorrida no domingo (20), em Brasília, em frente ao Quartel-General do Exército, um grupo de pessoas também pediu o fechamento do Congresso Nacional e do Supremo Tribunal Federal (STF). Em seguida, parlamentares foram a suas redes sociais para lamentar o episódio. 
 

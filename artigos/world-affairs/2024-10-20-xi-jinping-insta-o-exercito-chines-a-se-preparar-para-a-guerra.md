@@ -1,11 +1,12 @@
 ---
-title: "Xi Jinping Insta o Exército Chinês a Se Preparar para a Guerra"
+title: Xi Jinping Insta o Exército Chinês a Se Preparar para a Guerra
 date: 2024-10-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante uma recente inspeção à Força de Foguetes do Exército de Libertação Popular, o presidente Xi Jinping ordenou um fortalecimento das preparações militares. Ele destacou a necessidade de que as tropas mantenham uma "prontidão confiável para o combate". Este direcionamento reflete as crescentes tensões regionais, especialmente no que tange Taiwan e o Indo-Pacífico.
 

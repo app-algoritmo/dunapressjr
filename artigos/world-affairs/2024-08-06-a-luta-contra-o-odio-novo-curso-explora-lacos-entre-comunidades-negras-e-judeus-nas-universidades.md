@@ -1,11 +1,13 @@
 ---
-title: "A Luta Contra o Ódio: Novo Curso Explora Laços Entre Comunidades Negras e Judeus nas Universidades"
+title: 'A Luta Contra o Ódio: Novo Curso Explora Laços Entre Comunidades Negras e
+  Judeus nas Universidades'
 date: 2024-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um momento de tensão crescente nos campi universitários dos Estados Unidos, um novo curso lançado na South Carolina State University e na Voorhees University busca iluminar e fortalecer as históricas conexões entre as comunidades negras e judaicas. Idealizado por Rabbi Meir Muller e pelo professor Devin Randolph, o programa se propõe a ser uma resposta educativa aos crescentes sentimentos anti-Israel e incidentes antissemitas que têm marcado o ambiente acadêmico.
 

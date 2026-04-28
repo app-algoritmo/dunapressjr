@@ -1,11 +1,12 @@
 ---
-title: "Pré-aprovação da FDA para tecnologia israelense de câncer"
+title: Pré-aprovação da FDA para tecnologia israelense de câncer
 date: 2021-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O software da startup Ibex Medical Analytics deu um passo importante para que seja oferecido no mercado americano.
 

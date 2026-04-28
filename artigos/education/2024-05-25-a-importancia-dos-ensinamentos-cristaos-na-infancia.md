@@ -1,11 +1,12 @@
 ---
-title: "A Importância dos Ensinamentos Cristãos na Infância"
+title: A Importância dos Ensinamentos Cristãos na Infância
 date: 2024-05-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 A formação do caráter e dos valores de uma criança é uma das tarefas mais importantes e desafiadoras que uma sociedade enfrenta. A infância, especialmente nos primeiros anos, é um período crucial em que as bases éticas e morais são estabelecidas. Nesse contexto, os ensinamentos de Jesus Cristo podem desempenhar um papel fundamental. Este artigo explora a importância de introduzir as crianças aos valores cristãos desde a tenra idade e como essa abordagem pode contribuir para a formação de indivíduos éticos, compassivos e socialmente responsáveis.
 

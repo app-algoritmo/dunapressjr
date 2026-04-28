@@ -1,11 +1,12 @@
 ---
-title: "Antaq detalha impactos da pandemia no transporte marítimo"
+title: Antaq detalha impactos da pandemia no transporte marítimo
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Escassez de contêineres e alta do frete são citados em levantamento.
 

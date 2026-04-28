@@ -1,11 +1,12 @@
 ---
-title: "Biden vai sacrificar Israel pelo Irã?"
+title: Biden vai sacrificar Israel pelo Irã?
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O governo Biden pode estar preparado para sacrificar uma forte aliança estratégica com Israel se for se opor ao retorno dos EUA ao acordo com o Irã.
 

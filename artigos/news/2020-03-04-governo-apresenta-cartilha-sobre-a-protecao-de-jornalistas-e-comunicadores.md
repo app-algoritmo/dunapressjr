@@ -1,11 +1,12 @@
 ---
-title: "Governo apresenta cartilha sobre a proteção de jornalistas e comunicadores"
+title: Governo apresenta cartilha sobre a proteção de jornalistas e comunicadores
 date: 2020-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) reeditou, a cartilha governamental sobre a proteção de jornalistas e outros comunicadores e comunicadoras que apresenta padrões internacionais e mecanismos de proteção de direitos humanos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Marinha do Brasil tem novo Chefe do Estado-Maior da Armada"
+title: Marinha do Brasil tem novo Chefe do Estado-Maior da Armada
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em cerimônia presidida pelo Comandante da Marinha, Almirante de Esquadra Ilques Barbosa Junior, em 15 de maio, o Almirante de Esquadra Celso Luiz Nazareth transmitiu a Chefia do Estado-Maior da Armada (CEMA) ao Almirante de Esquadra Cláudio Portugal de Viveiros.
 Em seu discurso, o Almirante de Esquadra Nazareth agradeceu a todos aqueles com os quais compartilhou os êxitos alcançados e afirmou que quaisquer adversidades podem ser superadas quando se trabalha em equipe com profissionalismo, seriedade, amizade e camaradagem. “Os momentos perpassados à frente deste Órgão de Direção Geral foram intensos, marcados pelo privilégio e orgulho de ter convivido com motivados e competentes marinheiros”, destacou.

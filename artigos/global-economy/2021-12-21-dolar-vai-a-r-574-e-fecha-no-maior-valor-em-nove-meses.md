@@ -1,11 +1,12 @@
 ---
-title: "Dólar vai a R$ 5,74 e fecha no maior valor em nove meses"
+title: Dólar vai a R$ 5,74 e fecha no maior valor em nove meses
 date: 2021-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai 2,17% em meio a preocupações com pandemia.
 

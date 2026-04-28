@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que define número mínimo de nutricionista por aluno em escolas públicas"
+title: Comissão aprova projeto que define número mínimo de nutricionista por aluno
+  em escolas públicas
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Educação da Câmara dos Deputados aprovou projeto de lei que inclui entre as diretrizes do Programa Nacional de Alimentação Escolar (PNAE) a previsão de um número mínimo de nutricionistas por aluno em escolas básicas de ensino público. A definição será feita por regulamento do Poder Executivo.
 

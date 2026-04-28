@@ -1,11 +1,12 @@
 ---
-title: "Prática de preço de mercado é necessária, diz presidente da Petrobras"
+title: Prática de preço de mercado é necessária, diz presidente da Petrobras
 date: 2022-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### José Mauro Ferreira Coelho tomou posse na tarde desta quinta-feira (14).
 

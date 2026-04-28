@@ -1,11 +1,12 @@
 ---
-title: "Encontrado álbum de fotos nazista  encadernado com pele humana"
+title: Encontrado álbum de fotos nazista  encadernado com pele humana
 date: 2020-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 *Pesquisadores do Museu e Memorial de Auschwitz-Birkenau disseram ter encontrado um álbum de fotos nazista com uma capa feita de pele humana.O álbum provavelmente foi feito no campo de concentração de Buchenwald na Alemanha, disse o museu.*
 

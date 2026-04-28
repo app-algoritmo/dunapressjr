@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IPC-S recua em todas as sete capitais"
+title: Inflação pelo IPC-S recua em todas as sete capitais
 date: 2020-02-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Segundo a FGV, o índice variou 0,17% ponto percentual
 

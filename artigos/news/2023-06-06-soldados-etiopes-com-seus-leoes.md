@@ -1,11 +1,12 @@
 ---
-title: "Soldados etíopes com seus leões"
+title: Soldados etíopes com seus leões
 date: 2023-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 1896 os etíopes montaram os leões como se fossem cavalos durante o primeiro reinado de Hella Selassie
 

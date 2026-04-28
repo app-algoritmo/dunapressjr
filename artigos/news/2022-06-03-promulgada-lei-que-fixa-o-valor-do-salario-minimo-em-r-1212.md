@@ -1,11 +1,12 @@
 ---
-title: "Promulgada lei que fixa o valor do salário mínimo em R$ 1.212"
+title: Promulgada lei que fixa o valor do salário mínimo em R$ 1.212
 date: 2022-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida provisória que definiu o valor deste ano foi convertida em lei.
 

@@ -1,11 +1,13 @@
 ---
-title: "Primeiro leilão realizado após sanção do Marco Legal do Saneamento deve beneficiar 1,5 milhão de pessoas"
+title: Primeiro leilão realizado após sanção do Marco Legal do Saneamento deve beneficiar
+  1,5 milhão de pessoas
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a meta de universalizar o abastecimento de água em 13 cidades da região metropolitana de Maceió (AL) no prazo de seis anos, a BRK Ambiental venceu o leilão de serviços públicos de saneamento ocorrido na manhã desta quarta-feira (30), na Bolsa do Brasil, a B3, em São Paulo (SP). Esse foi o primeiro leilão do setor sob as regras do novo Marco Legal do Saneamento, sancionado em julho pelo Presidente Jair Bolsonaro.
 

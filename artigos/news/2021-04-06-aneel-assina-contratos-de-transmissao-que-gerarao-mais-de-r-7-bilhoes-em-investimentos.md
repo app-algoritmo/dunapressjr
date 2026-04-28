@@ -1,11 +1,12 @@
 ---
-title: "Aneel assina contratos de transmissão que gerarão mais de R$ 7 bilhões em investimentos"
+title: Aneel assina contratos de transmissão que gerarão mais de R$ 7 bilhões em investimentos
 date: 2021-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As empresas já podem iniciar as obras, que devem gerar 15 mil empregos em nove estados.
 

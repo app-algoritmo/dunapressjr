@@ -1,11 +1,12 @@
 ---
-title: "Hungria Reconsidera seu Papel na UE e na OTAN devido ao Conflito Ucraniano"
+title: Hungria Reconsidera seu Papel na UE e na OTAN devido ao Conflito Ucraniano
 date: 2024-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro da Hungria, Viktor Orban, anunciou na sexta-feira que o país está reavaliando seu papel na União Europeia e na OTAN devido à crescente preocupação com o conflito na Ucrânia e o risco de um confronto direto com a Rússia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Livro O Resgate do Jabuti Jurandir, um alertar para o respeito à natureza e o perigo da adoção de animais silvestres ilegalmente"
+title: Livro O Resgate do Jabuti Jurandir, um alertar para o respeito à natureza e
+  o perigo da adoção de animais silvestres ilegalmente
 date: 2022-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Doutoranda em Ciências Ambientais e mestra em Ambiente e Sociedade pela Universidade Federal de Goiás (UFG), Denise Oliveira Dias construiu sua trajetória acadêmica na Educação Ambiental, no Direito Ambiental e no estudo da Fronteira Agrícola no Brasil. Bolsista CAPES no doutorado e no mestrado, ela foi Destaque do Quadriênio de 2017-2021 no Programa de Pós-Graduação em Ambiente e Sociedade da Universidade Estadual de Goiás (UEG) e é autora de trabalhos sobre educação ambiental e do livro O Resgate do Jabuti Jurandir.
 

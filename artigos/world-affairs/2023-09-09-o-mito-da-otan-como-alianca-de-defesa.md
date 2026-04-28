@@ -1,11 +1,12 @@
 ---
-title: "O Mito da OTAN como Aliança de Defesa"
+title: O Mito da OTAN como Aliança de Defesa
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os líderes ocidentais há muito que alimentam o mito egoísta de que a OTAN é uma organização dedicada exclusivamente à defesa mútua dos seus membros. Daqui resulta que outros Estados não têm, portanto, razões legítimas para temer a aliança militar mais poderosa da história. Afinal, trata-se de uma coligação de democracias amantes da paz.
 

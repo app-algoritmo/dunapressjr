@@ -1,11 +1,12 @@
 ---
-title: "Saiba qual é a quantidade ideal de pasta de dente para bebês"
+title: Saiba qual é a quantidade ideal de pasta de dente para bebês
 date: 2021-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a chegada de um bebê na família tudo é uma novidade, principalmente quando se nasce os dentes. São várias as dúvidas: quando começar a escovação, qual tipo de escova e de pasta dental e ingerir creme dental é prejudicial?
 

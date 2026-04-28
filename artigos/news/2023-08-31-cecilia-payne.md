@@ -1,11 +1,12 @@
 ---
-title: "Cecília Payne"
+title: Cecília Payne
 date: 2023-08-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde a sua morte em 1979, a mulher que descobriu do que é feito o universo não recebeu muito reconhecimento, apenas uma placa comemorativa na parede da Universidade e nada mais.
 

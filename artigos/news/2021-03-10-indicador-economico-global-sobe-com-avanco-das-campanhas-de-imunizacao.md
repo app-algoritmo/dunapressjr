@@ -1,11 +1,12 @@
 ---
-title: "Indicador econômico global sobe com avanço das campanhas de imunização"
+title: Indicador econômico global sobe com avanço das campanhas de imunização
 date: 2021-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Barômetro Global Coincidente sobe 4,5 pontos em março.
 

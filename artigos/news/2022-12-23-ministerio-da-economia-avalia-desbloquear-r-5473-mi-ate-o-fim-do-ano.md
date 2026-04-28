@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia avalia desbloquear R$ 547,3 mi até o fim do ano"
+title: Ministério da Economia avalia desbloquear R$ 547,3 mi até o fim do ano
 date: 2022-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de R$ 3,3 bilhões do Orçamento de 2022 seguem bloqueados.
 

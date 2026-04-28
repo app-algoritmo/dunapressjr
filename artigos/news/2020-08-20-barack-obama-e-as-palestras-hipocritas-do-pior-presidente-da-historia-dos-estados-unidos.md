@@ -1,11 +1,13 @@
 ---
-title: "Barack Obama, e as  palestras hipócritas do pior presidente da história dos Estados Unidos"
+title: Barack Obama, e as  palestras hipócritas do pior presidente da história dos
+  Estados Unidos
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Depois de oito anos, todos estavam saturados com seus padrões de: "Isso não é quem somos", "Devemos viver de acordo com nossos valores" e "Este país com certeza é racista". Assim, Obama fugiu por alguns anos, evitou discursos de alto nível e economizou munição para este momento.
 

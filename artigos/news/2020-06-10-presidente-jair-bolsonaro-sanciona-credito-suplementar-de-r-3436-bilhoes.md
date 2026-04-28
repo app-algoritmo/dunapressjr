@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro sanciona crédito suplementar de R$ 343,6 bilhões"
+title: Presidente Jair Bolsonaro sanciona crédito suplementar de R$ 343,6 bilhões
 date: 2020-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parte dos recursos será destinada à Fiocruz, para ampliar sua a capacidade de oferecer testes diagnósticos e de produzir medicamentos. Presidente sancionou lei que abre crédito complementar com reforço orçamentário às ações de combate ao coronavírus.
 

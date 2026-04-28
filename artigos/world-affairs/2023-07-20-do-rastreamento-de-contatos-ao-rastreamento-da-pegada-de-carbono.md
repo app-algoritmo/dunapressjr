@@ -1,11 +1,12 @@
 ---
-title: "Do rastreamento de contatos ao rastreamento da pegada de carbono"
+title: Do rastreamento de contatos ao rastreamento da pegada de carbono
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Com ID digital e CBDC, seria fácil converter a medição da pegada de carbono em um sistema de crédito social: Perspectiva.
 

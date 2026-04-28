@@ -1,11 +1,13 @@
 ---
-title: "Recebida denúncia contra ex-governador da Paraíba e mais sete pessoas por suposto esquema envolvendo o Lifesa"
+title: Recebida denúncia contra ex-governador da Paraíba e mais sete pessoas por suposto
+  esquema envolvendo o Lifesa
 date: 2020-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Relata o MP que os réus uniram esforços com o fim de praticar delitos de lesa-pátria.
 

@@ -1,11 +1,12 @@
 ---
-title: "Técnica cirúrgica reverte sintomas do Parkinson em curto e longo prazo"
+title: Técnica cirúrgica reverte sintomas do Parkinson em curto e longo prazo
 date: 2023-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Tremores involuntários, rigidez muscular e lentidão nos movimentos fazem parte do dia a dia de pessoas diagnosticadas com o Mal de Parkinson. Mas a medicina já tem uma solução para controlar os sintomas motores dessa doença: implantes de pequenos eletrodos em estruturas específicas do cérebro. Um procedimento minimamente invasivo e com o paciente acordado que pode surtir efeitos de curto e longo prazo, mesmo após 15 anos do dispositivo implantado. É o que mostrou um estudo publicado pela revista *Neurology*, da Academia Americana de Neurologia. E, há mais de duas décadas, pacientes de hospitais de Curitiba (PR) contam com essa opção de tratamento. 
 

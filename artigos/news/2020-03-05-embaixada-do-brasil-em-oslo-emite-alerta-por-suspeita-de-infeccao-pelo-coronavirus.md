@@ -1,11 +1,12 @@
 ---
-title: "Embaixada do Brasil em Oslo emite alerta por suspeita de infecção pelo coronavírus"
+title: Embaixada do Brasil em Oslo emite alerta por suspeita de infecção pelo coronavírus
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Embaixada do Brasil em Oslo informa:
 

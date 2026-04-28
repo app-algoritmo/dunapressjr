@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,11 com exterior e Copom"
+title: Dólar cai para R$ 5,11 com exterior e Copom
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa fecha no maior nível em cinco meses.
 

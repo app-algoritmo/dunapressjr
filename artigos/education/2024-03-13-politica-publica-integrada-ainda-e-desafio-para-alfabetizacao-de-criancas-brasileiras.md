@@ -1,11 +1,12 @@
 ---
-title: "Política pública integrada ainda é desafio para alfabetização de crianças brasileiras"
+title: Política pública integrada ainda é desafio para alfabetização de crianças brasileiras
 date: 2024-03-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Apenas quatro, de cada dez crianças no país, aprendem a ler na idade certa.
 

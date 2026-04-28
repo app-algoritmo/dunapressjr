@@ -1,11 +1,12 @@
 ---
-title: "Suzane Von Richthofen deixa prisão após 20 anos"
+title: Suzane Von Richthofen deixa prisão após 20 anos
 date: 2023-01-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Ela foi condenada pela morte dos pais dela em 2002; crime ocorreu na zona sul de São Paulo.
 

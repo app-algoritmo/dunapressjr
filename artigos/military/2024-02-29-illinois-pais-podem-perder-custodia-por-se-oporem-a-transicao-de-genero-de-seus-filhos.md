@@ -1,11 +1,13 @@
 ---
-title: "Illinois: pais podem perder custódia por se oporem à transição de gênero de seus filhos"
+title: 'Illinois: pais podem perder custódia por se oporem à transição de gênero de
+  seus filhos'
 date: 2024-02-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Um projeto de lei apresentado na Câmara dos Representantes do Illinois está causando controvérsia, pois redefine o que constitui abuso infantil, incluindo a oposição dos pais à transição de gênero de seus filhos. O House Bill 4876 propõe medidas que vão desde a definição de tratamentos hormonais e amputações como parte da transição de gênero até a proteção legal para médicos que os prescrevam sem consentimento dos pais.
 

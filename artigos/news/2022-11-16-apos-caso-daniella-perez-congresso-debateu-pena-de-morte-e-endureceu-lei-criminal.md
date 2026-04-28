@@ -1,11 +1,12 @@
 ---
-title: "Após caso Daniella Perez, Congresso debateu pena de morte e endureceu lei criminal"
+title: Após caso Daniella Perez, Congresso debateu pena de morte e endureceu lei criminal
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A comoção pública provocada pelo assassinato da atriz Daniella Perez, há 30 anos, levou a uma ampliação da Lei de Crimes Hediondos. Essa norma estabelece os casos violentos e socialmente traumáticos em que a punição do criminoso precisa ser rigorosa e exemplar, sem espaço para nenhum tipo de relaxamento.
 

@@ -1,12 +1,14 @@
 ---
-title: "Exportações agroalimentares dos EUA para a Venezuela no nível mais alto em oito anos"
+title: Exportações agroalimentares dos EUA para a Venezuela no nível mais alto em
+  oito anos
 date: 2023-01-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 O ano de 2022 permitiu ao regime de Nicolás Maduro uma pausa política e econômica. Para isso, contou com aliados em países onde a esquerda conseguiu retomar o poder. Com o tom cada vez mais socialista que o Partido Democrata está assumindo nos Estados Unidos, a chegada de Joe Biden à Casa Branca desde janeiro de 2021 foi celebrada abertamente em Caracas. Até o Partido Socialista Unido da Venezuela (PSUV) [apoiou o atual](https://panampost.com/jose-gregorio-martinez/2020/09/04/partido-socialista-de-maduro-apuesta-por-biden-para-las-presidenciales-de-eeuu/) presidente dos EUA em suas redes sociais durante a campanha contra o ex-presidente Donald Trump. As razões estão agora à vista. As exportações agroalimentares dos Estados Unidos para a Venezuela atingiram seu nível mais alto desde 2014 no ano passado.
 

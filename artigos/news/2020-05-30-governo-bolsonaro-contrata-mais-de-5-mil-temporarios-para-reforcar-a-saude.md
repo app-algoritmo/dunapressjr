@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro contrata mais de 5 mil temporários para reforçar a Saúde"
+title: Governo Bolsonaro contrata mais de 5 mil temporários para reforçar a Saúde
 date: 2020-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Economia, por meio da Secretaria Especial de Desburocratização, Gestão e Governo Digital, e o Ministério da Saúde autorizaram na terça-feira (26) a contratação temporária de 5.158 profissionais para atuar no combate à pandemia do novo coronavírus em diversas cidades do País.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prazo prorrogado pela CAPES para pagamento de dívida"
+title: Prazo prorrogado pela CAPES para pagamento de dívida
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Créditos não tributários da CAPES, não inscritos em dívida ativa, terão prazo de parcelamento suspensos por 90 dias. Interessados devem entrar com requerimento.
 

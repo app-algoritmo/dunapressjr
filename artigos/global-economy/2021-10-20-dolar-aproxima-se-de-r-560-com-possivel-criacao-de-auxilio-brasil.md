@@ -1,11 +1,12 @@
 ---
-title: "Dólar aproxima-se de R$ 5,60 com possível criação de Auxílio Brasil"
+title: Dólar aproxima-se de R$ 5,60 com possível criação de Auxílio Brasil
 date: 2021-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 3,28% e fechou no menor nível em 12 dias.
 

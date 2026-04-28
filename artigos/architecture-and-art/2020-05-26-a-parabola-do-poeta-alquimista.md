@@ -1,11 +1,12 @@
 ---
-title: "A parábola do poeta alquimista"
+title: A parábola do poeta alquimista
 date: 2020-05-26
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## Meu físico é químico – Uma mão de verso, um dedo de prosa!
 

@@ -1,11 +1,13 @@
 ---
-title: "Histórias de resistência e superação reforçam esperança para pacientes e profissionais de saúde"
+title: Histórias de resistência e superação reforçam esperança para pacientes e profissionais
+  de saúde
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 "Contar histórias que possam ajudar outras pessoas a superarem desafios e ressignificarem a vida". Isso é o que move o trabalho voluntário de Juçara Vistuba, de 69 anos. A voz que tanto ensina e toca corações em hospitais de Curitiba (PR) é a mesma de quem viveu momentos muito difíceis. Há 11 anos, a vida dela mudou bruscamente após um assalto que comprometeu a sua visão. Desde então, Juçara aprendeu a contar histórias de uma forma livre, sem depender do texto no papel. "Sempre tive admiração pelos ‘anjos’ de jaleco branco que cuidam e curam pacientes. E a vida me mostrou que posso ajudar nessa missão com a minha experiência", revela.
 

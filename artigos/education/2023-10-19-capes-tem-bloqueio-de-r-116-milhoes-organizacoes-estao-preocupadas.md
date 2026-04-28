@@ -1,11 +1,12 @@
 ---
-title: "Capes tem bloqueio de R$ 116 milhões; organizações estão preocupadas"
+title: Capes tem bloqueio de R$ 116 milhões; organizações estão preocupadas
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Education
+- Education
 ---
+
 
 ## Corte representa percentual de 0,92% do orçamento.
 

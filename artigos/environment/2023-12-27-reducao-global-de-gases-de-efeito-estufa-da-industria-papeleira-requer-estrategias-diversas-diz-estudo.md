@@ -1,11 +1,13 @@
 ---
-title: "Redução global de gases de efeito estufa da indústria papeleira requer estratégias diversas, diz estudo"
+title: Redução global de gases de efeito estufa da indústria papeleira requer estratégias
+  diversas, diz estudo
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Um grupo de pesquisadores avaliou as emissões líquidas globais de gases de efeito estufa (GHG, do inglês) de indústrias domésticas relacionadas ao papel em 30 principais países de 1961 a 2019 e encontrou diferenças significativas em termos de tendências históricas de evolução e estruturas de emissões nesses países, de acordo com um estudo recente publicado na revista Nature.
 

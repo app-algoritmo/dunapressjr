@@ -1,11 +1,12 @@
 ---
-title: "Demanda por voos domésticos tem queda de 2,5% no Brasil em maio"
+title: Demanda por voos domésticos tem queda de 2,5% no Brasil em maio
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A oferta de viagens teve alta de 6% em relação a maio de 2019.
 

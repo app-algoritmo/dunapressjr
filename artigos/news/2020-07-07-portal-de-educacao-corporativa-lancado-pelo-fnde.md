@@ -1,11 +1,12 @@
 ---
-title: "Portal de Educação Corporativa lançado pelo FNDE"
+title: Portal de Educação Corporativa lançado pelo FNDE
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Plataforma digital facilita acesso a cursos e materiais de capacitação sobre programas e ações educacionais da Autarquia.
 

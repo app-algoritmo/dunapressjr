@@ -1,11 +1,13 @@
 ---
-title: "Ataques Cibernéticos Chineses Comprometem Informações Diplomáticas Japonesas e Infraestrutura Global"
+title: Ataques Cibernéticos Chineses Comprometem Informações Diplomáticas Japonesas
+  e Infraestrutura Global
 date: 2024-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Uma fonte confidencial revelou à Kyodo News que informações diplomáticas japonesas vazaram após ataques cibernéticos chineses ao Ministério das Relações Exteriores em 2020, durante a administração do falecido primeiro-ministro Shinzo Abe. Os hackers chineses teriam obtido acesso aos telegramas diplomáticos por meio de uma rede privada virtual criptografada.
 

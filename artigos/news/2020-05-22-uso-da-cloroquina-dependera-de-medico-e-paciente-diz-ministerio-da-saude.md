@@ -1,11 +1,12 @@
 ---
-title: "Uso da cloroquina dependerá de médico e paciente, diz Ministério da Saúde"
+title: Uso da cloroquina dependerá de médico e paciente, diz Ministério da Saúde
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Com orientação, governo quer garantir igualdade de direitos entre pacientes da rede pública e privada de saúde.
 

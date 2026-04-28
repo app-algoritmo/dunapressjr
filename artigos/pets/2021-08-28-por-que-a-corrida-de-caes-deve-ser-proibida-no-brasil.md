@@ -1,11 +1,12 @@
 ---
-title: "Por que a corrida de cães deve ser proibida no Brasil"
+title: Por que a corrida de cães deve ser proibida no Brasil
 date: 2021-08-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Em países como Estados Unidos, Itália, França, Argentina e Uruguai, entre outros, a corrida de cães já foi proibida como resultado do clamor popular.
 

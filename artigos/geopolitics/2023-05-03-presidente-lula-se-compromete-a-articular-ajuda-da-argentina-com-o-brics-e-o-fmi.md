@@ -1,11 +1,13 @@
 ---
-title: "Presidente Lula se compromete a articular ajuda da Argentina com o Brics e o FMI"
+title: Presidente Lula se compromete a articular ajuda da Argentina com o Brics e
+  o FMI
 date: 2023-05-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O presidente brasileiro busca apoio do bloco econômico formado por Brasil, Rússia, Índia, China e África do Sul, e do Fundo Monetário Internacional para socorrer a Argentina, em meio a uma grave crise econômica.
 

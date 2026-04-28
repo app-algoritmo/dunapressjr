@@ -1,11 +1,12 @@
 ---
-title: "Governo cria programa para desenvolver atividade garimpeira"
+title: Governo cria programa para desenvolver atividade garimpeira
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quatro ministérios participam do colegiado.
 

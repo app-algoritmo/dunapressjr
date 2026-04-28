@@ -1,11 +1,12 @@
 ---
-title: "Gaza Sangra com 81 dias de guerra Após o Terror do Ataque de 7 de Outubro"
+title: Gaza Sangra com 81 dias de guerra Após o Terror do Ataque de 7 de Outubro
 date: 2023-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Reflexões sobre a Ofensiva das IDF contra a Faixa de Gaza e as Consequências Humanitárias**.
 

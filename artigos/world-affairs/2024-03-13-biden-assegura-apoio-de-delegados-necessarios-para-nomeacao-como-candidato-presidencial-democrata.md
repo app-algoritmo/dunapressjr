@@ -1,11 +1,13 @@
 ---
-title: "Biden assegura apoio de delegados necessários para nomeação como candidato presidencial democrata"
+title: Biden assegura apoio de delegados necessários para nomeação como candidato
+  presidencial democrata
 date: 2024-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com o jornal The Hill, o presidente dos Estados Unidos, Joe Biden, alcançou um marco significativo em sua busca pela nomeação democrata para as próximas eleições presidenciais. Ao conquistar a vitória nas eleições primárias na Geórgia, Biden garantiu o apoio de mais de 100 delegados, o que o coloca além do limiar necessário para sua nomeação.
 

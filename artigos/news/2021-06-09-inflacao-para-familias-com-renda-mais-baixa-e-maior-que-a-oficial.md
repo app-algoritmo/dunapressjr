@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa é maior que a oficial"
+title: Inflação para famílias com renda mais baixa é maior que a oficial
 date: 2021-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em maio, índice de 0,96% superou o de abril (0,38%).
 

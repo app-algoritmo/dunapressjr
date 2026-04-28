@@ -1,13 +1,14 @@
 ---
-title: "Casa de moda sai do Twitter"
+title: Casa de moda sai do Twitter
 date: 2022-11-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Fashion
-  - Features
-  - News
+- Fashion
+- Features
+- News
 ---
+
 
 ## A Balenciaga se torna uma das primeiras empresas a deletar sua conta no Twitter em protesto contra a aquisição de Musk.
 

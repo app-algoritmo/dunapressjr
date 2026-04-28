@@ -1,12 +1,13 @@
 ---
-title: "Como a Noruega tornou o mundo mais branco"
+title: Como a Noruega tornou o mundo mais branco
 date: 2023-01-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
-  - Culture and History
+- Architecture and Art
+- Culture and History
 ---
+
 
 Como a Noruega tornou o mundo mais branco, foi uma discussão ambiental na hora do almoço realizada em 1.12.21 das 12:15-13:00h CET na palestra com a artista [Marte Johnslien](https://khio.no/en/about/staff/marte-johnslien) e a historiadora de arte [Ingrid Halland](https://www.uib.no/en/persons/Ingrid.Halland) em que foram apresentadas o novo projeto de pesquisa *[The Materiality of White](https://www.hf.uio.no/english/research/strategic-research-areas/oseh/news-and-events/events/lunchtime-discussions/2021/how-norway-made-the-world-whiter.-environmental-lu.html)*, que explora como a inovação norueguesa Titanium Dioxide mudou superfícies em arte, arquitetura e design - tornando o mundo mais branco, brilhante e com aparência mais limpa.
 

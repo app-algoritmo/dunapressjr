@@ -1,11 +1,12 @@
 ---
-title: "<strong>O benefício de uma vida mais saudável no controle da ansiedade</strong>"
+title: <strong>O benefício de uma vida mais saudável no controle da ansiedade</strong>
 date: 2022-08-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 O fato de se sentir mais ansioso perante diferentes situações do dia a dia, segundo um bom **psicólogo online** e[ **terapeuta**](https://blog.fepo.com.br/psicologia/ja-se-fez-essa-pergunta-sobre-a-diferenca-de-terapeuta-e-psicologo), pode estar atrelado a momentos de expectativas com um determinado encontro, processo de preparação para uma entrevista de emprego ou execução de um trabalho muito importante ou perante algum tipo de notícia.
 

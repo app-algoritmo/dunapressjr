@@ -1,11 +1,13 @@
 ---
-title: "Presidente assina decreto que busca reduzir danos ambientais e evitar prejuízos à saúde da população"
+title: Presidente assina decreto que busca reduzir danos ambientais e evitar prejuízos
+  à saúde da população
 date: 2020-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O que fazer com os remédios que não estão mais em uso ou estão vencidos? Jogar no lixo de forma inadequada pode trazer prejuízos ambientais, como a contaminação do solo e da água, causando danos à saúde da população. 
 

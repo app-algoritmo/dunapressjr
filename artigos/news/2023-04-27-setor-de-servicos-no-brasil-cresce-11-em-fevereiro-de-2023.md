@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços no Brasil cresce 1,1% em fevereiro de 2023"
+title: Setor de serviços no Brasil cresce 1,1% em fevereiro de 2023
 date: 2023-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O crescimento foi impulsionado pelos serviços de transportes e tecnologia da informação.
 

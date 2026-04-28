@@ -1,11 +1,12 @@
 ---
-title: "EUA: Proclamação na Semana Mundial do Comércio 2020"
+title: 'EUA: Proclamação na Semana Mundial do Comércio 2020'
 date: 2020-05-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Discurso na íntegra do PR Donald Trump durante a Proclamação na Semana Mundial do Comércio  2020 apresentado na sexta-feria dia 15 de maio. 
 

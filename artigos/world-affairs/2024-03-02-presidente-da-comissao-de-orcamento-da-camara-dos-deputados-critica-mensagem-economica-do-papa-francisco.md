@@ -1,11 +1,13 @@
 ---
-title: "Presidente da Comissão de Orçamento da Câmara dos Deputados Critica Mensagem Econômica do Papa Francisco"
+title: Presidente da Comissão de Orçamento da Câmara dos Deputados Critica Mensagem
+  Econômica do Papa Francisco
 date: 2024-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 José Luis Espert, presidente da Comissão de Orçamento e Finanças da Câmara dos Deputados, representante do partido Avanza Libertad, lançou duras críticas à mensagem econômica do Papa Francisco. Em uma declaração feita hoje em sua conta oficial na rede social X, Espert rotulou as declarações do pontífice argentino como "coisas estúpidas" e criticou a posição da Igreja em relação ao capitalismo.
 

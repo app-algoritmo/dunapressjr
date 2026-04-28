@@ -1,12 +1,13 @@
 ---
-title: "A Presença e a influencia de D. João VI no Brasil"
+title: A Presença e a influencia de D. João VI no Brasil
 date: 2022-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 A política reformadora de D. João VI, intensa e complexa, deu à vida mental do Brasil uma multiplicidade de caráter que foi bem o prenúncio de sua definitiva emancipação. Sua própria presença no país permitiu aos brasileiros exercer influência direta sobre as decisões tomadas, obrigando à instalação de uma estrutura administrativa autônoma e liberando certas atividades necessárias à Corte (que vinham sendo proibidas na Colônia), como a imprensa, por exemplo. Tudo isso levou a uma igualdade política entre a Metrópole e a Colônia, que o príncipe reinante reconheceu ao elevar o Brasil a Reino Unido a Portugal e Algarves (1816).
 

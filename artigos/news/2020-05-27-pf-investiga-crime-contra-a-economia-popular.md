@@ -1,11 +1,12 @@
 ---
-title: "PF investiga crime contra a economia popular"
+title: PF investiga crime contra a economia popular
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Altamira/PA - A Policia Federal deflagrou nesta terça feira (26/5) a Operação Plata o Plomo, no município de Altamira/PA, com o objetivo de combater atividade criminosa de empréstimo a juros, realizada por pessoas não autorizadas para, principalmente, pequenos empreendedores da cidade.
 

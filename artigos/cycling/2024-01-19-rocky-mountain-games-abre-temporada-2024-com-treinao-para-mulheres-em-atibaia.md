@@ -1,12 +1,13 @@
 ---
-title: "Rocky Mountain Games abre temporada 2024 com Treinão para Mulheres em Atibaia"
+title: Rocky Mountain Games abre temporada 2024 com Treinão para Mulheres em Atibaia
 date: 2024-01-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Atletas "aqueceram as turbinas" para o maior festival de esportes e cultura de montanha do Brasil neste sábado (13). Primeira etapa da competição será daqui nos dias 9 e 10 de março, na Pedra Grande.
 

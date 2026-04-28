@@ -1,11 +1,12 @@
 ---
-title: "Nanotecnologia brasileira: mais produtividade da agricultura"
+title: 'Nanotecnologia brasileira: mais produtividade da agricultura'
 date: 2021-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 Marcelo Oliveira Rodrigues é químico, com graduação e mestrado  pela Universidade Federal de Sergipe (UFS), e doutor em Química Inorgânica, pela Universidade Federal de Pernambuco (UFPE). Com bolsa da CAPES, cursou parte do seu pós-doutorado na Universidade de Nottingham, na Inglaterra e desde 2011 é professor no curso de graduação de Química, da Universidade de Brasília (UnB). Em 2012 iniciou diversos projetos de pesquisa envolvendo nanoparticulas de carbono, destacando o eixo da inovação como um dos pilares de sua atuação.
 

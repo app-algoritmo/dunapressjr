@@ -1,11 +1,12 @@
 ---
-title: "Como o seu patrimônio é descoberto no Brasil"
+title: Como o seu patrimônio é descoberto no Brasil
 date: 2023-08-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 https://youtu.be/RqllIhSodKw
 

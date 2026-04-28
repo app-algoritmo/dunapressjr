@@ -1,11 +1,12 @@
 ---
-title: "Governador lança programa Facilita SP para promover liberdade econômica"
+title: Governador lança programa Facilita SP para promover liberdade econômica
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo da gestão de Tarcísio de Freitas é melhorar ambiente de negócios e estimular geração de emprego, renda e desenvolvimento regional.
 

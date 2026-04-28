@@ -1,11 +1,13 @@
 ---
-title: "Santander Brasil Ride Espinhaço começa em Minas Gerais com o campeão mundial Tiago Ferreira"
+title: Santander Brasil Ride Espinhaço começa em Minas Gerais com o campeão mundial
+  Tiago Ferreira
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Conceição do Mato Dentro (MG) será palco, entre esta terça-feira (14) e sábado (18), da edição inédita da Santander Brasil Ride Espinhaço. A prova contará com cinco etapas, totalizando 220 km e mais de 7.000 metros de altimetria acumulada e faz parte do calendário mundial da UCI - União Ciclística Internacional. Entre os participantes estará o português Tiago Ferreira, campeão mundial e bicampeão europeu de mountain bike, na modalidade Maratona (XCM).
 

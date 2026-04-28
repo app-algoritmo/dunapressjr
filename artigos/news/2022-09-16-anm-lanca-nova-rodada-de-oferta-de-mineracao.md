@@ -1,11 +1,12 @@
 ---
-title: "ANM lança nova rodada de oferta de mineração"
+title: ANM lança nova rodada de oferta de mineração
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida abrange seis estados.
 

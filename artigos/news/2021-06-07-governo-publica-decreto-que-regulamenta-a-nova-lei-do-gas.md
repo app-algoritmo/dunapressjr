@@ -1,11 +1,12 @@
 ---
-title: "Governo publica decreto que regulamenta a Nova Lei do Gás"
+title: Governo publica decreto que regulamenta a Nova Lei do Gás
 date: 2021-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida representa mais um passo em direção à maior competitividade e abertura do mercado.
 

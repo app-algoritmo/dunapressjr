@@ -1,11 +1,13 @@
 ---
-title: "Memorando mostra que o Canadá segue a OMS/UE ao direcionar milhões de passes de vacinação para seus cidadãos"
+title: Memorando mostra que o Canadá segue a OMS/UE ao direcionar milhões de passes
+  de vacinação para seus cidadãos
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O novo memorando sugere que o governo canadense está seguindo o exemplo da Organização Mundial da Saúde e da União Europeia, que tomaram medidas em direção a uma “infraestrutura digital” na área da saúde.
 

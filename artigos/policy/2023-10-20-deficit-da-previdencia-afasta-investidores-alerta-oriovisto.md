@@ -1,11 +1,12 @@
 ---
-title: "Déficit da Previdência afasta investidores, alerta Oriovisto"
+title: Déficit da Previdência afasta investidores, alerta Oriovisto
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Oriovisto Guimarães (Podemos-PR) destacou, em pronunciamento no Plenário nessa terça-feira (17), a "aversão dos políticos brasileiros aos números", enfatizando a necessidade de entender os dados e estatísticas para melhorar a economia do país. O senador apontou como exemplo o déficit da Previdência Social no ano passado, que atingiu R$ 270 bilhões, representando quase 2,6% do Produto Interno Bruto (PIB) brasileiro, de R$ 10 trilhões. Se este déficit não existisse, observou Oriovisto, o governo teria saldo positivo, que poderia impactar positivamente os investimentos estrangeiros e reduzir as taxas de juros.
 

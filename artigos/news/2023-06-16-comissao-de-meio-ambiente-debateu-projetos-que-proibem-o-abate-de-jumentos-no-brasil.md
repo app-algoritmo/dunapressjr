@@ -1,11 +1,13 @@
 ---
-title: "Comissão de Meio Ambiente debateu projetos que proíbem o abate de jumentos no Brasil"
+title: Comissão de Meio Ambiente debateu projetos que proíbem o abate de jumentos
+  no Brasil
 date: 2023-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados discutiu nesta segunda-feira (12) a proibição do abate de jumentos em todo o País, prevista no Projeto de Lei 1973/22. [Mais de 120 propostas](https://www.camara.leg.br/proposicoesWeb/prop_arvore_tramitacoes?idProposicao=341067) sobre o assunto tramitam na Casa e aguardam votação.
 

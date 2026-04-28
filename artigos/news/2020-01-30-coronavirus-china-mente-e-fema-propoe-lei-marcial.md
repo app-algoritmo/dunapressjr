@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: China mente e FEMA propõe Lei Marcial"
+title: 'Coronavírus: China mente e FEMA propõe Lei Marcial'
 date: 2020-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O diretor interino da FEMA, Pete Gaynor, ofereceu na quarta-feira ao presidente Trump uma solução surpreendente, a Lei Marcial nos Estados Unidos, para impedir a propagação de um coronavírus chinês letal que já infectou milhares e matou pelo menos mais de 170 pessoas no país comunista.
 

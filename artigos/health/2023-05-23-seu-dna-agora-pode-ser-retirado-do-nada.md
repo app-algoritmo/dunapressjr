@@ -1,11 +1,12 @@
 ---
-title: "Seu DNA agora pode ser retirado do nada"
+title: Seu DNA agora pode ser retirado do nada
 date: 2023-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Seu DNA agora pode ser extraído do nada.
 

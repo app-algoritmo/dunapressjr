@@ -1,11 +1,12 @@
 ---
-title: "INSS começou a pagar nesta segunda-feira décimo terceiro antecipado"
+title: INSS começou a pagar nesta segunda-feira décimo terceiro antecipado
 date: 2022-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Até 6 de maio, 31 milhões de pessoas receberão a primeira parcela.
 

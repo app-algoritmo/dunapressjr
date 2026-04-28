@@ -1,11 +1,12 @@
 ---
-title: "Polícia federal do Brasil vai a caça de pedófilos"
+title: Polícia federal do Brasil vai a caça de pedófilos
 date: 2020-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Operação Pedomom investiga distribuição de imagens pornográficas envolvendo crianças e adolescentes
 

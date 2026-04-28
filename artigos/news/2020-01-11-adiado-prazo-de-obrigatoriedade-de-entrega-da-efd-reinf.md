@@ -1,11 +1,12 @@
 ---
-title: "Adiado prazo de obrigatoriedade de entrega da EFD-Reinf"
+title: Adiado prazo de obrigatoriedade de entrega da EFD-Reinf
 date: 2020-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Alteração atinge 3º grupo de contribuintes descrito na IN RFB 1701/2017*
 

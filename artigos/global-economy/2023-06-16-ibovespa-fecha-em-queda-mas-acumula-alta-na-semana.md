@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda, mas acumula alta na semana"
+title: Ibovespa fecha em queda, mas acumula alta na semana
 date: 2023-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sobe frente ao real.
 

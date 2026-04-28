@@ -1,11 +1,13 @@
 ---
-title: "Os Desafios do Gigantismo Estatal no Brasil: Reflexões sobre Eficiência, Corrupção e Desenvolvimento"
+title: 'Os Desafios do Gigantismo Estatal no Brasil: Reflexões sobre Eficiência, Corrupção
+  e Desenvolvimento'
 date: 2024-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O tamanho do estado brasileiro sempre foi objeto de debates e controvérsias. Enquanto alguns defendem um estado robusto como garantidor do bem-estar social e econômico, outros alertam para os riscos do gigantismo estatal. Este artigo propõe uma análise dos desafios associados ao tamanho do estado brasileiro, explorando questões de eficiência, corrupção e desenvolvimento.
 

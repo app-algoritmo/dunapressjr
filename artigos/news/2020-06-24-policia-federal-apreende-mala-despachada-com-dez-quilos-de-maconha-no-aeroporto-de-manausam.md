@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal apreende mala despachada com dez quilos de maconha no Aeroporto de Manaus/AM"
+title: Polícia Federal apreende mala despachada com dez quilos de maconha no Aeroporto
+  de Manaus/AM
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Manaus/AM** - A Polícia Federal apreendeu, na madrugada desta terça-feira (23/06), por volta da 01h45, uma bagagem despachada em condições suspeitas no Aeroporto Internacional de Manaus/AM.
 

@@ -1,11 +1,12 @@
 ---
-title: "Carro-bicicleta: eficiente alternativa verde para o futuro"
+title: 'Carro-bicicleta: eficiente alternativa verde para o futuro'
 date: 2021-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto da Universidade Federal do Rio Grande do Norte (UFRN) pretende lançar protótipo em 2023.
 

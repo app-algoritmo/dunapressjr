@@ -1,11 +1,12 @@
 ---
-title: "Nossa língua portuguesa, brasileira e afins"
+title: Nossa língua portuguesa, brasileira e afins
 date: 2019-02-11
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 A gramática e a língua portuguesa em foco
 

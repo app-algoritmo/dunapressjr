@@ -1,11 +1,12 @@
 ---
-title: "<strong>Maioria dos reajustes salariais em setembro repôs inflação</strong>"
+title: <strong>Maioria dos reajustes salariais em setembro repôs inflação</strong>
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informação é do boletim Salariômetro, da Fipe.
 

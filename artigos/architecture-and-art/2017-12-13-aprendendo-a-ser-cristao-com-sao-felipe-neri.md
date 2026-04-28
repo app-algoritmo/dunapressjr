@@ -1,11 +1,12 @@
 ---
-title: "Aprendendo a ser cristão com São Felipe Néri"
+title: Aprendendo a ser cristão com São Felipe Néri
 date: 2017-12-13
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Dia 12 de dezembro. Roma nublada e chuvosa. Uma igreja no meio da Via Vittorio Emanuele, área entre o Vaticano e a cidade secular, confunde-se com muitas outras igrejas em volta: San Andreas. Immacolata, Santo Antonio, são muitas, muitas igrejas em Roma! Comerciantes e moradores nem sabem informar onde ficaria a igreja erigida por São Felipe Néri, a chamada Nuova Chiesa.
 

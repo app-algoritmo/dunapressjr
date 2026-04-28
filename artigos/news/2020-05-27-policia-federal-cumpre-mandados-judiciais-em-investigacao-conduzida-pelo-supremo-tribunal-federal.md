@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal cumpre mandados judiciais em investigação conduzida pelo Supremo Tribunal Federal"
+title: Polícia Federal cumpre mandados judiciais em investigação conduzida pelo Supremo
+  Tribunal Federal
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** – A Polícia Federal cumpre, na manhã desta quarta-feira (27/05), ordens judiciais que visam instruir o INQ nº 4.781 do Supremo Tribunal Federal - STF.
 

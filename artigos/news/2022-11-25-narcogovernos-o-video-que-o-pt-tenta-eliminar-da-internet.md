@@ -1,11 +1,12 @@
 ---
-title: "Narcogovernos: O vídeo que o PT tenta eliminar da internet"
+title: 'Narcogovernos: O vídeo que o PT tenta eliminar da internet'
 date: 2022-11-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Glória Álvarez defende a liberdade econômica e denuncia no Parlamento da União Européia, os narco-governantes e os males do socialismo na América Latina.
 

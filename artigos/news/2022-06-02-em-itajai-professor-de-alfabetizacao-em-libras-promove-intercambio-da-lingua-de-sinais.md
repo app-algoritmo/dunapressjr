@@ -1,11 +1,13 @@
 ---
-title: "Em Itajaí, Professor de Alfabetização em Libras promove intercâmbio da língua de sinais"
+title: Em Itajaí, Professor de Alfabetização em Libras promove intercâmbio da língua
+  de sinais
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na manhã desta quarta-feira (01), o professor de Língua Brasileira de Sinais (Libras) Sérgio Roberto Dias, que desenvolve um trabalho pioneiro de Alfabetização em Libras na Escola Básica Pedro Paulo Rebello, do bairro São Vicente, visitou o Centro de Educação Infantil (CEI) Rosete Palmeira Silva, do bairro Fazenda. O convite partiu da supervisora de Educação Especial, Viviane Linhares Gasperi e da diretora do CEI, Susana Regis Ramos porque a unidade possui um aluno surdo.
 

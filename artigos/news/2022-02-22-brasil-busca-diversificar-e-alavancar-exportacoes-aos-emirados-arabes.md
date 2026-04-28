@@ -1,11 +1,12 @@
 ---
-title: "Brasil busca diversificar e alavancar exportações aos Emirados Árabes"
+title: Brasil busca diversificar e alavancar exportações aos Emirados Árabes
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações para os países árabes só perdem para a China e os EUA.
 

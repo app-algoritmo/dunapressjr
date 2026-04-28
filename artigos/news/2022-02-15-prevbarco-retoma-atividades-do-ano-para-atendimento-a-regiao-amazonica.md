@@ -1,11 +1,12 @@
 ---
-title: "PREVbarco retoma atividades do ano para atendimento à região amazônica"
+title: PREVbarco retoma atividades do ano para atendimento à região amazônica
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Barco oferece os mesmos atendimentos de uma agência fixa do INSS.
 

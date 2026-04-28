@@ -1,11 +1,12 @@
 ---
-title: "Projeto da ONU sobre crimes cibernéticos ameaça liberdade de expressão"
+title: Projeto da ONU sobre crimes cibernéticos ameaça liberdade de expressão
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Se o projeto for aprovado, o tratado restringirá as liberdades civis.
 

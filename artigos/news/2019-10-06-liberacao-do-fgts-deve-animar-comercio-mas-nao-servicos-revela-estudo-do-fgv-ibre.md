@@ -1,11 +1,13 @@
 ---
-title: "Liberação do FGTS deve animar Comércio, mas não Serviços, revela estudo do FGV IBRE"
+title: Liberação do FGTS deve animar Comércio, mas não Serviços, revela estudo do
+  FGV IBRE
 date: 2019-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Brasileiros querem usar dinheiro extra para o consumo e, principalmente entre o extrato de renda mais baixa, pagar dívidas. 
 

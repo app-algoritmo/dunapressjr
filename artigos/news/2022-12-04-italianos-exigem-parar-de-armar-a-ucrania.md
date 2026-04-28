@@ -1,12 +1,13 @@
 ---
-title: "Italianos exigem parar de armar a Ucrânia"
+title: Italianos exigem parar de armar a Ucrânia
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 ## Manifestação contra sanções anti-russas e envio de armas para Kyiv ocorreu em Milão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa de 'Ganho de Função' em Vírus da Gripe Aviária: Riscos e Controvérsias"
+title: 'Pesquisa de ''Ganho de Função'' em Vírus da Gripe Aviária: Riscos e Controvérsias'
 date: 2024-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Sob o pretexto de desenvolver vacinas contra a gripe aviária, agências governamentais dos EUA e doadores privados, como a Fundação Bill & Melinda Gates, estão financiando pesquisas para tornar os vírus da gripe aviária mais mortais e mais transmissíveis aos mamíferos. A Food and Drug Administration (FDA) dos EUA recentemente admitiu ter financiado pesquisas de “ganho de função” no Instituto de Virologia de Wuhan, na China. No entanto, o governo dos EUA tem patrocinado pesquisas semelhantes em seu próprio território há décadas.
 

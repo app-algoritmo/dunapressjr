@@ -1,11 +1,12 @@
 ---
-title: "O silêncio de Elon Musk após a enquete que pede sua saída do Twitter"
+title: O silêncio de Elon Musk após a enquete que pede sua saída do Twitter
 date: 2022-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Esta não é a primeira enquete que Elon Musk faz desde que assumiu as rédeas do Twitter. 
 

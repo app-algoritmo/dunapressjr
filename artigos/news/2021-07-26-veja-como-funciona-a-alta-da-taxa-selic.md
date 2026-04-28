@@ -1,11 +1,12 @@
 ---
-title: "Veja como funciona a alta da taxa Selic"
+title: Veja como funciona a alta da taxa Selic
 date: 2021-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Juros básicos são o principal instrumento para segurar inflação.
 

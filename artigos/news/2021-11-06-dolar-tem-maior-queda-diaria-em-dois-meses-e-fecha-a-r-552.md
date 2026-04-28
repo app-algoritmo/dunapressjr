@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda diária em dois meses e fecha a R$ 5,52"
+title: Dólar tem maior queda diária em dois meses e fecha a R$ 5,52
 date: 2021-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa subiu 1,37% e teve primeira alta semanal após duas quedas.
 

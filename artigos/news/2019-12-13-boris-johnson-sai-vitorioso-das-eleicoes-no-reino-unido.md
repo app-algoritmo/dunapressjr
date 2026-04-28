@@ -1,11 +1,12 @@
 ---
-title: "Boris Johnson sai vitorioso das eleições no Reino Unido"
+title: Boris Johnson sai vitorioso das eleições no Reino Unido
 date: 2019-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O premiê britânico, Boris Johnson, vai governar o Reino
 Unido com maioria absoluta. Os votos das eleições dessa quinta-feira (12) ainda

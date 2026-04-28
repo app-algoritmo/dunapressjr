@@ -1,11 +1,13 @@
 ---
-title: "O Conselho de Tecnologia norueguês revela as estratégias de espionagem das empresas em relatório denominado 'Fora de Controle'"
+title: O Conselho de Tecnologia norueguês revela as estratégias de espionagem das
+  empresas em relatório denominado 'Fora de Controle'
 date: 2021-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Com base nas [descobertas,](https://www.forbrukerradet.no/side/complaints-against-grindr-and-five-third-party-companies/) o Conselho do Consumidor norueguês reclama ao GRINDR, que é um aplicativo de verificação de pessoas, e as cinco empresas afiliadas MoPub (de propriedade do Twitter), AppNexus, OpenX, AdColony e Smaato à Autoridade de Proteção de Dados por violações de dados das leis de privacidade.
 

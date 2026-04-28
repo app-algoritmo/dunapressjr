@@ -1,11 +1,13 @@
 ---
-title: "Presidente da Polônia e Donald Trump Discutem Gastos Militares da NATO em Reunião em Nova Iorque"
+title: Presidente da Polônia e Donald Trump Discutem Gastos Militares da NATO em Reunião
+  em Nova Iorque
 date: 2024-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da Polônia, Andrzej Duda, e o ex-presidente dos Estados Unidos e candidato à presidência, Donald Trump, reuniram-se em Nova Iorque para discutir os gastos com defesa dos países membros da NATO. Durante o encontro, Duda propôs um aumento para 3% do PIB destinado à defesa, em resposta à crescente tensão na fronteira oriental da NATO devido à alegada agressão russa.
 

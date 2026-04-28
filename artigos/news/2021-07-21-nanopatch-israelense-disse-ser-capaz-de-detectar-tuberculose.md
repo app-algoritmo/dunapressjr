@@ -1,11 +1,12 @@
 ---
-title: "Nanopatch israelense disse ser capaz de detectar tuberculose"
+title: Nanopatch israelense disse ser capaz de detectar tuberculose
 date: 2021-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Todos os anos, 3 milhões de pessoas em todo o mundo não conseguem diagnosticar TB, muitas vezes porque os testes não estão disponíveis.
 

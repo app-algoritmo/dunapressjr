@@ -1,11 +1,12 @@
 ---
-title: "Consumo das famílias tem alta de 1,23% em janeiro"
+title: Consumo das famílias tem alta de 1,23% em janeiro
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em janeiro do ano passado, o consumo teve alta de 12%.
 

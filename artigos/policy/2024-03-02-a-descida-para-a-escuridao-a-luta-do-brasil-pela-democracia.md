@@ -1,11 +1,12 @@
 ---
-title: "A Descida para a Escuridão: A Luta do Brasil pela Democracia"
+title: 'A Descida para a Escuridão: A Luta do Brasil pela Democracia'
 date: 2024-03-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Há pouco menos de dois anos, o Brasil estava envolvido em uma acirrada eleição presidencial, um campo de batalha onde o destino da democracia pendia na balança. De um lado estava o presidente incumbente, Jair Bolsonaro, enfrentando um ex-presidente com um passado controverso e laços estreitos com o governo da China, Lula.
 

@@ -1,11 +1,13 @@
 ---
-title: "Moraes manda Telegram apagar mensagem contra PL das Fake News sob pena de suspensão do app"
+title: Moraes manda Telegram apagar mensagem contra PL das Fake News sob pena de suspensão
+  do app
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O ministro Alexandre de Moraes determinou ao Telegram a exclusão, no prazo de uma hora, de mensagens enviadas pela empresa a respeito do projeto de lei que trata da regulação dos provedores de redes sociais e de serviços de mensageria privada.
 

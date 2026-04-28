@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado de Santa Catarina apresenta previsões orçamentárias para 2021"
+title: Governo do Estado de Santa Catarina apresenta previsões orçamentárias para
+  2021
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O secretário de Estado da Fazenda (SEF), Paulo Eli, participou da reunião da Comissão de Finanças e Tributação da Assembleia Legislativa de Santa Catarina (Alesc) nesta quarta-feira, 25, para apresentar as previsões de receita e despesas para 2021. Segundo o relatório da Diretoria de Planejamento Orçamentário (Dior) da pasta, para o próximo ano a estimativa é que a receita seja de R$ 30,49 bilhões, um incremento de 5,5% com relação a 2020.
 

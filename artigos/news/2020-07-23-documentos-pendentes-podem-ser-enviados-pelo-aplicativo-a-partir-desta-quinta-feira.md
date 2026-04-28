@@ -1,11 +1,12 @@
 ---
-title: "Documentos pendentes podem ser enviados pelo aplicativo a partir desta quinta-feira"
+title: Documentos pendentes podem ser enviados pelo aplicativo a partir desta quinta-feira
 date: 2020-07-23
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Caixa separa em dois grupos contas sociais bloqueadas: 51% possuem indícios claros de fraude e 49% têm inconsistência no cadastro.
 

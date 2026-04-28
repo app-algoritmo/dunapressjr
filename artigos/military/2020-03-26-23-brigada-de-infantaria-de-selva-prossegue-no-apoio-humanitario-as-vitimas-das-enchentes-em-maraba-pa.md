@@ -1,11 +1,13 @@
 ---
-title: "23ª Brigada de Infantaria de Selva prossegue no apoio humanitário às vítimas das enchentes em Marabá (PA)"
+title: 23ª Brigada de Infantaria de Selva prossegue no apoio humanitário às vítimas
+  das enchentes em Marabá (PA)
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Marabá (PA) **– A 23ª Brigada de Infantaria de Selva (23ª Bda Inf
 Sl) continua realizando a Operação “Mão Amiga” em apoio à Defesa Civil no

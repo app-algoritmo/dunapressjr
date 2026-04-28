@@ -1,11 +1,12 @@
 ---
-title: "Netanyahu ordena que o Exército 'se prepare para qualquer cenário'"
+title: Netanyahu ordena que o Exército 'se prepare para qualquer cenário'
 date: 2023-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O primeiro-ministro israelense, Benjamin Netanyahu, realizou uma reunião de emergência com seu gabinete de segurança na quinta-feira para avaliar a situação. 
 

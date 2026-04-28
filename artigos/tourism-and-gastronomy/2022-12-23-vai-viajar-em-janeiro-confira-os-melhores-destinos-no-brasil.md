@@ -1,11 +1,12 @@
 ---
-title: "Vai viajar em janeiro? Confira os melhores destinos no Brasil"
+title: Vai viajar em janeiro? Confira os melhores destinos no Brasil
 date: 2022-12-23
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Férias e chegada do Ano Novo fazem de janeiro o período ideal para relaxar e, claro, viajar. Entre as diferentes opções que o setor oferece para aproveitar o primeiro mês do ano, destinos nacionais chamam a atenção dos brasileiros. Paisagens exuberantes, clima tropical, pontos turísticos diversificados e valores mais em conta chamam a atenção na hora da compra de [passagens aéreas](https://www.capoviagens.com.br/passagens-aereas/).
 

@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal fecha junho em R$ 181,04 bilhões"
+title: Arrecadação federal fecha junho em R$ 181,04 bilhões
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O valor é 17,96% maior em relação a junho de 2021.
 

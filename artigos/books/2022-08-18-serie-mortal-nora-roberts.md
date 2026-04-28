@@ -1,12 +1,13 @@
 ---
-title: "Série Mortal - Nora Roberts"
+title: Série Mortal - Nora Roberts
 date: 2022-08-18
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 J. D Robb
 

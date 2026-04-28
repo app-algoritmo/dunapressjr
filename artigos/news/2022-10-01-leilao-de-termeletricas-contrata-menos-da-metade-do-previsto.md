@@ -1,11 +1,12 @@
 ---
-title: "Leilão de termelétricas contrata menos da metade do previsto"
+title: Leilão de termelétricas contrata menos da metade do previsto
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Fornecimento terá início em dezembro de 2026, diz Aneel.
 

@@ -1,11 +1,12 @@
 ---
-title: "Funarte e UFRJ lançam o Sistema Nacional de Orquestras Sociais"
+title: Funarte e UFRJ lançam o Sistema Nacional de Orquestras Sociais
 date: 2020-07-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Programa promove capacitação musical e pedagógica para projetos orquestrais e inclusão social em todo o Brasil. Atividades foram iniciadas em 15 de julho.
 

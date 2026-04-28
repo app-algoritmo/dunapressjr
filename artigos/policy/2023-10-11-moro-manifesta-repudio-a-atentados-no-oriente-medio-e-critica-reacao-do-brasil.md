@@ -1,11 +1,12 @@
 ---
-title: "Moro manifesta repúdio a atentados no Oriente Médio e critica reação do Brasil"
+title: Moro manifesta repúdio a atentados no Oriente Médio e critica reação do Brasil
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sérgio Moro (União-PR), em pronunciamento no Plenário nesta segunda-feira (9), repudiou os ataques do grupo Hamas contra Israel, ocorridos no último sábado. O parlamentar criticou a reação do governo brasileiro que, segundo ele, embora tenha condenado os atentados terroristas em Israel, não definiu um posicionamento claro do país diante da comunidade internacional.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rótulos de alimentos vão informar consumidor sobre alto teor de açúcar e sódio"
+title: Rótulos de alimentos vão informar consumidor sobre alto teor de açúcar e sódio
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Fazer escolhas alimentares de forma consciente vai ficar mais fácil com as mudanças nos rótulos dos produtos que vão dar mais clareza e visibilidade às informações nutricionais. A nova regra sobre rotulagem de alimentos embalados foi aprovada, por unanimidade, pela Agência Nacional de Vigilância Sanitária (Anvisa), essa semana.
 

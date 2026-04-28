@@ -1,11 +1,12 @@
 ---
-title: "Pedidos de naturalização no Brasil, agora são 100% digital"
+title: Pedidos de naturalização no Brasil, agora são 100% digital
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública consolidou os procedimentos de naturalização, regulamentando a plataforma digital do Sistema Naturalizar-se, que passou a ser, desde o início deste mês, o único meio de recebimento de pedidos de naturalização, tornando os processos mais ágeis e simplificados.
 

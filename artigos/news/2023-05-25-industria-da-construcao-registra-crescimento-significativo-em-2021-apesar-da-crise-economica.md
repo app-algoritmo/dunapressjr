@@ -1,11 +1,13 @@
 ---
-title: "Indústria da Construção registra crescimento significativo em 2021, apesar da crise econômica"
+title: Indústria da Construção registra crescimento significativo em 2021, apesar
+  da crise econômica
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estudo revela mudanças estruturais na construção civil, com diminuição da concentração, maior participação do setor privado e crescimento dos serviços especializados, impulsionando a retomada do setor e a geração de empregos no Brasil.
 

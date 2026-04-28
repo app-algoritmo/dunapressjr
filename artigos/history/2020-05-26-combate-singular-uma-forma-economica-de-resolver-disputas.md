@@ -1,11 +1,12 @@
 ---
-title: "Combate Singular: Uma forma econômica de resolver disputas!"
+title: 'Combate Singular: Uma forma econômica de resolver disputas!'
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 “*Para onde ides? Que discórdia é esta que surgiu?*
 

@@ -1,11 +1,12 @@
 ---
-title: "Deputada defende, mais uma vez, o direito dos CACs ao porte de armas de fogo"
+title: Deputada defende, mais uma vez, o direito dos CACs ao porte de armas de fogo
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na manhã do dia 3 de maio, em mais uma reunião da CCJ, a deputada Ana Campagnolo (PL-SC) defendeu, mais uma vez, o direito dos CACs ao porte de armas de fogo.
 

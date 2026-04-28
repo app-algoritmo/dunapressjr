@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial varia 0,3% em setembro"
+title: Produção industrial varia 0,3% em setembro
 date: 2019-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em setembro de 2019, a produção industrial variou 0,3%
 frente a agosto (série com ajuste sazonal). Essa foi a segunda taxa positiva

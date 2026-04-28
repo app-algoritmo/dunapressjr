@@ -1,11 +1,12 @@
 ---
-title: "CEO do Twitter com laços com o WEF revela nova agenda anti-liberdade"
+title: CEO do Twitter com laços com o WEF revela nova agenda anti-liberdade
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A CEO do Twitter, Linda Yaccarino, revelou uma nova agenda contra a liberdade de expressão na plataforma de mídia social de Elon Musk, agora conhecida como X.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série mostra como galgos são abandonados após temporada de caça"
+title: Série mostra como galgos são abandonados após temporada de caça
 date: 2021-09-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## *De acordo com a SOS Galgos, a cada ano, cerca de 50 mil galgos são abandonados na Espanha ao final da temporada de caça*.
 

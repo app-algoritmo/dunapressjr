@@ -1,11 +1,12 @@
 ---
-title: "PF investiga explosão e roubo a agências bancárias"
+title: PF investiga explosão e roubo a agências bancárias
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Varginha/MG – Nesta quinta-feira, 21/5, a Polícia Federal, em conjunto com as Polícias Civil e Militar de Minas Gerais, deflagrou a Operação RAPINA, para combater roubo qualificado pelo uso de artefato explosivo, disparo de arma de fogo em via pública e associação criminosa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lançamentos para 2023 – Sequências"
+title: Lançamentos para 2023 – Sequências
 date: 2022-08-02
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Não sei vocês, mas eu amo continuações, nem que seja para reclamar e dizer que a sequência errou feio. Mas vamos manter as esperanças, pois tem muitos lançamentos chegando em 2023 e grande parte são continuações. – Pelo que notei muitas são de bons filmes e acreditem algumas bem antigas. Vou numerar algumas aqui para vocês.
 

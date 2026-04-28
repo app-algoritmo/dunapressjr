@@ -1,11 +1,13 @@
 ---
-title: "Por determinação da ANS,  exame de detecção do Coronavírus será  procedimento obrigatório"
+title: Por determinação da ANS,  exame de detecção do Coronavírus será  procedimento
+  obrigatório
 date: 2020-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A diretoria colegiada da Agência Nacional de Saúde Suplementar (ANS) aprovou, na quinta-feira (12), a inclusão do exame de detecção do Coronavírus no Rol de Procedimentos obrigatórios para beneficiários de planos de saúde. A Resolução Normativa foi publicada no Diário Oficial da União e entrou em vigor nesta sexta-feira (13), data de sua publicação.  
 

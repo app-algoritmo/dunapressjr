@@ -1,11 +1,12 @@
 ---
-title: "Ceia natalina de 2022 tem redução no valor total na comparação com o ano anterior"
+title: Ceia natalina de 2022 tem redução no valor total na comparação com o ano anterior
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A tradicional ceia natalina em 2022 apresentou queda no preço total em relação ao ano anterior. O somatório dos itens de menor valor ficou em R$ 854,27, que representa uma redução de 3,84% na comparação com 2021. O produto com maior queda no preço foi a amêndoa sem casca (kg), com uma diminuição de 27,3%. As informações estão na pesquisa da Procuradoria de Defesa do Consumidor (Procon) de Itajaí, realizada nos dias 05 e 06 de dezembro em oito estabelecimentos da cidade. A lista completa está disponível no fim desta página.
 

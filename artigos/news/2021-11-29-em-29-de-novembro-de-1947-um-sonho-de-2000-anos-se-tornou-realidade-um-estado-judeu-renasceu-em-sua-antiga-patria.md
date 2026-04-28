@@ -1,11 +1,13 @@
 ---
-title: "Em 29 de novembro de 1947, um sonho de 2.000 anos se tornou realidade: um Estado Judeu renasceu em sua antiga pátria"
+title: 'Em 29 de novembro de 1947, um sonho de 2.000 anos se tornou realidade: um
+  Estado Judeu renasceu em sua antiga pátria'
 date: 2021-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Naquele dia, a Assembleia Geral da ONU votou a Resolução 181, adotando um plano para dividir o Mandato Britânico em dois estados, um judeu e um árabe.
 

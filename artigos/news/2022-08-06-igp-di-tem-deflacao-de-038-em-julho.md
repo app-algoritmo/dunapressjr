@@ -1,11 +1,12 @@
 ---
-title: "IGP-DI tem deflação de 0,38% em julho"
+title: IGP-DI tem deflação de 0,38% em julho
 date: 2022-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a primeira queda do índice desde novembro de 2021.
 

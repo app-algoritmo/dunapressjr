@@ -1,11 +1,12 @@
 ---
-title: "Operação COVID-19 completa 50 dias de enfrentamento ao novo coronavírus"
+title: Operação COVID-19 completa 50 dias de enfrentamento ao novo coronavírus
 date: 2020-05-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação COVID-19 chega aos 50 dias de enfrentamento à pandemia provocada pelo novo coronavírus. Diariamente, mais de 29 mil militares envolvidos nessa missão realizam ações por todo o Brasil para frear o avanço da doença e apoiar a sociedade. Entrega de cestas básicas, transporte aéreo de medicamentos e materiais de saúde, descontaminação de áreas públicas, entre outras atividades, são desenvolvidas por homens e mulheres das Forças Armadas, sob coordenação do Ministério da Defesa.
 

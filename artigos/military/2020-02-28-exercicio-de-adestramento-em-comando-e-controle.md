@@ -1,11 +1,12 @@
 ---
-title: "Exercício de adestramento em Comando e Controle"
+title: Exercício de adestramento em Comando e Controle
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Marabá (PA) **– No período de 17 a 21 de fevereiro, ocorreu
 o Exercício de Adestramento em Comando e Controle (C²) no âmbito da 23ª Brigada

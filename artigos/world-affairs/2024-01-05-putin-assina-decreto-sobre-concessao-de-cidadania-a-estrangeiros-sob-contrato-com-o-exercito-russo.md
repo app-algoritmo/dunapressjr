@@ -1,11 +1,13 @@
 ---
-title: "Putin assina decreto sobre concessão de cidadania a estrangeiros sob contrato com o exército russo"
+title: Putin assina decreto sobre concessão de cidadania a estrangeiros sob contrato
+  com o exército russo
 date: 2024-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com o decreto, seus familiares também terão o direito de solicitar a cidadania russa.
 

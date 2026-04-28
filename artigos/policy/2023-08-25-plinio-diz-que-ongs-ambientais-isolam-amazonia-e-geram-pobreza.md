@@ -1,11 +1,12 @@
 ---
-title: "Plínio diz que ONGs ambientais isolam Amazônia e geram pobreza"
+title: Plínio diz que ONGs ambientais isolam Amazônia e geram pobreza
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Presidente da CPI das ONGs, o senador Plínio Valério (PSDB-AM) afirmou nesta quarta-feira (23) que organizações não governamentais financiadas com dinheiro internacional atuam na Amazônia para “isolar” a região e gerar pobreza. Segundo Plínio, que falou da Tribuna do Plenário do Senado, o objetivo seria usar o Brasil como uma espécie de “despensa” de recursos naturais para o futuro. O senador apontou que a preservação da floresta não é positiva para os brasileiros.
 

@@ -1,12 +1,13 @@
 ---
-title: "O Holocausto Silencioso: A Trágica Matança de Bebês"
+title: 'O Holocausto Silencioso: A Trágica Matança de Bebês'
 date: 2023-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Policy
+- Business and Economy
+- Policy
 ---
+
 
 6 Milhoes de judeus foram assassinados na segunda guerra mundial em seis anos, imaginem esse número multiplicado por 10! = quase 60 milhoes de bebês são exterminados pelo homem todos os anos, esta prática de exterminio não só é legalmente tolerada como também comemorada pelos grupos de extermínio.
 

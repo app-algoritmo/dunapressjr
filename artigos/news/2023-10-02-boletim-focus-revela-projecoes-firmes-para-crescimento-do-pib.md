@@ -1,11 +1,12 @@
 ---
-title: "Boletim Focus revela projeções firmes para crescimento do PIB"
+title: Boletim Focus revela projeções firmes para crescimento do PIB
 date: 2023-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para este ano, expectativa para expansão da economia é de 2,92%.
 

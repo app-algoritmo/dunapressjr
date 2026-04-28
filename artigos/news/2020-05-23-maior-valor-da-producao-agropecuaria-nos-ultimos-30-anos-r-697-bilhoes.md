@@ -1,11 +1,12 @@
 ---
-title: "Maior valor da produção agropecuária nos últimos 30 anos – R$ 697 bilhões"
+title: Maior valor da produção agropecuária nos últimos 30 anos – R$ 697 bilhões
 date: 2020-05-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Valor Bruto da Produção Agropecuária (VBP) de 2020, atualizado com base nas informações de abril, deve atingir R$ 697 bilhões, alta de 8,6% em relação a 2019. São os maiores valores obtidos nestes últimos 31 anos de acordo com estudo elaborado pela Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento. O valor das lavouras cresceu 10,4% e gerou R$ 462 bilhões. Já a pecuária avançou 5,4%, para R$ 234,9 bilhões.
 

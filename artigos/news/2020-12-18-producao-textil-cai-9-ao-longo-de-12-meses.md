@@ -1,11 +1,12 @@
 ---
-title: "Produção têxtil cai 9% ao longo de 12 meses"
+title: Produção têxtil cai 9% ao longo de 12 meses
 date: 2020-12-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção é que 2020 seja encerrado com corte de 39 mil vagas.
 

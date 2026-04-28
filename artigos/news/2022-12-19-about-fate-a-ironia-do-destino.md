@@ -1,12 +1,13 @@
 ---
-title: "About Fate - A Ironia do Destino"
+title: About Fate - A Ironia do Destino
 date: 2022-12-19
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

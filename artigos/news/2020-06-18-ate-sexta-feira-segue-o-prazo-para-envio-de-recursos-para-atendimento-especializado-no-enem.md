@@ -1,11 +1,13 @@
 ---
-title: "Até sexta-feira segue o prazo para envio de recursos para atendimento especializado no Enem"
+title: Até sexta-feira segue o prazo para envio de recursos para atendimento especializado
+  no Enem
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Inscritos devem acessar a Página do Participante para enviar os documentos.
 

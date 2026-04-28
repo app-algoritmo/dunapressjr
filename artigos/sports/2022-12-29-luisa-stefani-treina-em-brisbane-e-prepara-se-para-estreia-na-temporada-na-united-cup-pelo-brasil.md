@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani treina em Brisbane e prepara-se para estreia na temporada na United Cup pelo Brasil"
+title: Luisa Stefani treina em Brisbane e prepara-se para estreia na temporada na
+  United Cup pelo Brasil
 date: 2022-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Luisa Stefani, número 47 do mundo, desembarcou em Brisbane, na Austrália, na véspera do Natal e realizou, nesta terça-feira (27), seu terceiro dia de sessão de treinos com o time do Brasil para iniciar a nova temporada na nova United Cup, competição mista por equipes que começa no dia 29 de dezembro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mourão critica diplomacia de Lula e alerta para conflito na América do Sul"
+title: Mourão critica diplomacia de Lula e alerta para conflito na América do Sul
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Hamilton Mourão (Republicanos-RS), em pronunciamento no Plenário, nesta segunda-feira (4), declarou estar preocupado com o impacto da fala do presidente brasileiro na COP 28, que é realizado até 12 de dezembro em Dubai, nos Emirados Árabes. Mourão criticou a proposta de Lula sobre a criação de uma governança global para questões climáticas.
 

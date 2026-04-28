@@ -1,11 +1,12 @@
 ---
-title: "5 razões pelas quais grande parte do Sul Global não apoia o Ocidente na Ucrânia"
+title: 5 razões pelas quais grande parte do Sul Global não apoia o Ocidente na Ucrânia
 date: 2023-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em outubro de 2022, cerca de oito meses após o início da guerra na Ucrânia, a Universidade de Cambridge, no Reino Unido, combinou pesquisas em 137 países sobre suas atitudes em relação ao Ocidente, Rússia e China.
 

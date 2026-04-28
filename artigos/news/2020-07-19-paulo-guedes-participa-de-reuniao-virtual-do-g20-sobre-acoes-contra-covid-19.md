@@ -1,11 +1,12 @@
 ---
-title: "Paulo Guedes participa de reunião virtual do G20 sobre ações contra covid-19"
+title: Paulo Guedes participa de reunião virtual do G20 sobre ações contra covid-19
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Economia, Paulo Guedes, participou neste sábado (18) da Reunião de Ministros de Finanças e Presidentes de Bancos Centrais do G20. No encontro virtual foi analisados os resultados das ações adotadas pelos países do grupo como resposta coletiva aos efeitos sanitários, econômico-financeiros e sociais decorrentes da pandemia do novo coronavírus (Covid-19).
 

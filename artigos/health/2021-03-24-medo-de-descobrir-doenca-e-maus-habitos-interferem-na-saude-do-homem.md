@@ -1,11 +1,12 @@
 ---
-title: "Medo de descobrir doença e maus hábitos interferem na saúde do homem"
+title: Medo de descobrir doença e maus hábitos interferem na saúde do homem
 date: 2021-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Hábitos de vida, exposição a situações de risco, como violência e acidentes de trânsito e de trabalho, consumo de álcool e outras drogas com maior frequência, além da falta de atenção à saúde são os principais fatores que impactam na saúde do homem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil alcança recorde na produção de petróleo e gás em setembro"
+title: Brasil alcança recorde na produção de petróleo e gás em setembro
 date: 2023-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Extração diária de óleo equivalente atinge 4,666 milhões de barris, impulsionada pelo pré-sal e produção marítima.
 

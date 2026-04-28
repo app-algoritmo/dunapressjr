@@ -1,11 +1,12 @@
 ---
-title: "Senado dos EUA aprova acordo comercial com México e Canadá"
+title: Senado dos EUA aprova acordo comercial com México e Canadá
 date: 2020-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Senado dos Estados Unidos aprovou definitivamente, nesta
 quinta-feira, (16) o acordo comercial T-MEC com México e Canadá, em uma nova

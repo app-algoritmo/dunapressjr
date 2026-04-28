@@ -1,11 +1,12 @@
 ---
-title: "Governo zera impostos de 61 produtos usados no combate ao coronavírus"
+title: Governo zera impostos de 61 produtos usados no combate ao coronavírus
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Comércio Exterior (Camex) do Ministério da Economia zerou, na quarta-feira (25), as tarifas de importação de mais 61 produtos farmacêuticos e médico-hospitalares utilizados no combate à Covid-19. Durante reunião virtual do Comitê-Executivo de Gestão da Camex (Gecex), também foi decidida a suspensão temporária, por razões de interesse público, dos direitos *antidumping* aplicados às importações brasileiras de seringas descartáveis e de tubos de plástico para coleta de sangue. 
 

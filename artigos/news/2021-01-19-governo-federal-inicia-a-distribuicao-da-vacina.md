@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal inicia a distribuição da vacina"
+title: Governo Federal inicia a distribuição da vacina
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde iniciou, nesta segunda-feira (18), a distribuição da vacina contra a Covid-19. No Centro de Logística da pasta, em Guarulhos, o ministro da Saúde, Eduardo Pazuello, se reuniu com governadores e disse que a distribuição será feita de maneira proporcional a cada região brasileira.
 

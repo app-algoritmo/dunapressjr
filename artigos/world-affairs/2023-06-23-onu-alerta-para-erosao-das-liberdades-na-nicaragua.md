@@ -1,11 +1,12 @@
 ---
-title: "ONU alerta para 'erosão' das liberdades na Nicarágua"
+title: ONU alerta para 'erosão' das liberdades na Nicarágua
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Alta Comissária das Nações Unidas para os Direitos Humanos, Nada al Nashif, [alertou](https://www.europapress.es/internacional/noticia-onu-alerta-erosion-libertades-estado-derecho-nicaragua-20230621215428.html) o Conselho de Direitos Humanos da ONU na quarta-feira sobre **a "erosão" das liberdades e do estado de direito na [Nicarágua.](https://gaceta.es/iberosfera/piden-mayor-presion-de-la-oea-contra-los-regimenes-de-cuba-nicaragua-y-venezuela-20230620-0725/)**
 

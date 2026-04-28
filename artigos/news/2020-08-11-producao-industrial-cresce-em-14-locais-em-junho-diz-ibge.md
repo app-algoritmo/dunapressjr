@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cresce em 14 locais em junho, diz IBGE"
+title: Produção industrial cresce em 14 locais em junho, diz IBGE
 date: 2020-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Maiores altas foram observadas nos estados do Amazonas e Ceará.
 

@@ -1,11 +1,12 @@
 ---
-title: "Macron enfatiza a cooperação contra o terrorismo após conversas com a Rússia"
+title: Macron enfatiza a cooperação contra o terrorismo após conversas com a Rússia
 date: 2024-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente francês, Emmanuel Macron, destacou a importância da cooperação internacional na luta contra o terrorismo, após recentes conversações telefônicas entre os ministros da defesa francês e russo. Macron afirmou que é crucial trabalhar em conjunto com todos os países que enfrentam a ameaça do terrorismo e realizar intercâmbios técnicos de informações quando necessário.
 

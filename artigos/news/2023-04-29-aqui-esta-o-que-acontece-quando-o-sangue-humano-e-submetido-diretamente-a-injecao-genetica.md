@@ -1,11 +1,13 @@
 ---
-title: "Aqui está o que acontece quando o sangue humano é submetido diretamente à injeção genética"
+title: Aqui está o que acontece quando o sangue humano é submetido diretamente à injeção
+  genética
 date: 2023-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O médico Richard Fleming postou um vídeo nas redes sociais dele mesmo usando um microscópio para mostrar o que acontece quando a terapia genética é administrada diretamente no sangue humano.
 

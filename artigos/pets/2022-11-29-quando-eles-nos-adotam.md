@@ -1,11 +1,12 @@
 ---
-title: "Quando eles nos adotam"
+title: Quando eles nos adotam
 date: 2022-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Hoje adotei um humano…
 

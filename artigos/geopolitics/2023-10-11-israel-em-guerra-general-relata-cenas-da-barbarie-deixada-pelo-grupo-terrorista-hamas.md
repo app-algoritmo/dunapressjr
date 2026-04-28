@@ -1,11 +1,13 @@
 ---
-title: "Israel em guerra: General relata cenas da barbarie deixada pelo grupo terrorista Hamas"
+title: 'Israel em guerra: General relata cenas da barbarie deixada pelo grupo terrorista
+  Hamas'
 date: 2023-10-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O major-general israelense Itai Veruv descreve o que descobriu enquanto liderava a missão de resgate das aldeias fronteiriças de Gaza, depois que o Hamas atacou brutalmente.
 

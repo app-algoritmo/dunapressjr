@@ -1,11 +1,12 @@
 ---
-title: "Moraes também determina multa para usuários que utilizar o Telegram após suspensão"
+title: Moraes também determina multa para usuários que utilizar o Telegram após suspensão
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministro fixou multa de 100 mil reais por hora para quem burlar punição para usar o aplicativo, leia trecho da decisão abaixo:
 

@@ -1,11 +1,12 @@
 ---
-title: "BC prorroga alíquota reduzida de compulsório sobre recursos a prazo"
+title: BC prorroga alíquota reduzida de compulsório sobre recursos a prazo
 date: 2021-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alíquota subiria de 17% para 20% em abril.
 

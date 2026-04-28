@@ -1,11 +1,12 @@
 ---
-title: "Contas externas devem ter 'ligeiro superávit' de US$ 2 bilhões, diz BC"
+title: Contas externas devem ter 'ligeiro superávit' de US$ 2 bilhões, diz BC
 date: 2021-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A estimativa para 2021 corresponde a 0,2% do Produto Interno Bruto.
 

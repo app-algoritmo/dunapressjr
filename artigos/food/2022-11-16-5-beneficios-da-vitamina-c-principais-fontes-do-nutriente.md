@@ -1,12 +1,13 @@
 ---
-title: "5 benefícios da vitamina C + principais fontes do nutriente"
+title: 5 benefícios da vitamina C + principais fontes do nutriente
 date: 2022-11-16
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
-  - Health
+- Food
+- Health
 ---
+
 
 Quando pensamos nos benefícios da vitamina C, o mais comum é fazermos uma ligação com o fortalecimento da imunidade e prevenção da gripe. No entanto, a importância desse nutriente vai além, uma vez que ele também melhora uma grande variedade de funções biológicas.
 

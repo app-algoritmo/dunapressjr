@@ -1,11 +1,12 @@
 ---
-title: "Lula decreta intervenção federal no DF"
+title: Lula decreta intervenção federal no DF
 date: 2023-01-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Manifestantes tomaram o palácio presidencial, Congresso e STF. Polícia do DF acompanhou movimentação.
 

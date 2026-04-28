@@ -1,11 +1,12 @@
 ---
-title: "Malas prontas: qual medicamento posso levar em viagens internacionais?"
+title: 'Malas prontas: qual medicamento posso levar em viagens internacionais?'
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O fim das restrições de entrada nos países com a queda dos números da covid-19 tem impulsionado o brasileiro a fazer as malas. Neste momento, bate a dúvida: qual remédio levar para uma emergência médica? Ninguém está livre de enjoos, dor, febre, cólicas, diarreia ou alergia, principalmente quando se viaja com crianças. Por outro lado, quem faz uso de remédios controlados, como psiquiátricos ou para dor intensa, também precisa se prevenir. 
 

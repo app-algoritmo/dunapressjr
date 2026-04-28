@@ -1,12 +1,13 @@
 ---
-title: "O som da liberdade: Expondo a economia pedófila"
+title: 'O som da liberdade: Expondo a economia pedófila'
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 The Sound of Freedom expõe a economia pedófila que escraviza milhões de crianças inocentes em todo o mundo a vidas de estupro, tortura e assassinato. O ex-Conselheiro de Segurança Interna Tim Ballard confirma que o adrenocromo é real. Eles pegam o sangue das crianças e bebem.
 

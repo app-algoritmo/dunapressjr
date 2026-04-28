@@ -1,11 +1,12 @@
 ---
-title: "USA: Tudo preparado para o show de Truman, o engodo coletivo"
+title: 'USA: Tudo preparado para o show de Truman, o engodo coletivo'
 date: 2021-01-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Monitorado por câmeras e transmitido em redes "democraticamente" corretas, hoje 20 de janeiro de 2021, o mundo será testemunha da maior fraude de todos os tempos, a posse do novo presidente americano, eleito por milhares de defuntos, urnas fraudulentas, votos falsificados, mídias, redes sociais e big techs parciais e autoritárias, não, o que você está vendo não é um pesadelo, é uma realidade.
 

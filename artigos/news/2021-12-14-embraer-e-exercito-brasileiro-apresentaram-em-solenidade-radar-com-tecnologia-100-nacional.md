@@ -1,11 +1,13 @@
 ---
-title: "Embraer e Exército Brasileiro apresentaram, em solenidade radar com tecnologia 100% nacional"
+title: Embraer e Exército Brasileiro apresentaram, em solenidade radar com tecnologia
+  100% nacional
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um dia histórico para o desenvolvimento das tecnologias de defesa do Brasil. Na tarde da última sexta-feira, 10 de dezembro, o Exército Brasileiro e a Empresa Brasileira de Aeronáutica S/A (Embraer) apresentaram, em solenidade realizada na Unidade Embraer de Campinas, o radar Saber M200 Vigilante, tecnologia 100% nacional que eleva a capacidade brasileira de defesa antiaérea.
 

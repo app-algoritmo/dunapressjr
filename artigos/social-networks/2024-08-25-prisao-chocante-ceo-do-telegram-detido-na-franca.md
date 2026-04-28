@@ -1,11 +1,12 @@
 ---
-title: "Prisão Chocante: CEO do Telegram Detido na França"
+title: 'Prisão Chocante: CEO do Telegram Detido na França'
 date: 2024-08-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 Em uma França alternativa, onde "Liberdade, Igualdade, Fraternidade" adorna cada portal e prefeitura, descobrimos uma nova tríade que governa a terra: Restrição, Discrepância e Indiferença. Aqui, a liberdade de expressão é tão livre quanto um peixe num aquário, a igualdade de direitos varia conforme o seu status no WhatsApp, e a fraternidade é reservada para aqueles que não questionam muito. No coração de Paris, um novo lema ressoa: "Faça o que dizemos, não faça o que fazemos." E assim, sob a sombra da Torre Eiffel, a República marcha, com os olhos vendados pela ironia de seus próprios ideais. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega mais 8 km de pista restaurada da BR-080/GO"
+title: Governo Bolsonaro entrega mais 8 km de pista restaurada da BR-080/GO
 date: 2020-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal entregou, nesta sexta-feira (8), mais oito quilômetros de pista remodelada na BR-080/GO, na divisa entre o Distrito Federal e o município de Padre Bernardo, em Goiás. A obra, executada pelo Departamento Nacional de Infraestrutura de Transportes (DNIT), está com 66% dos serviços concluídos em trecho de 181 quilômetros.
 

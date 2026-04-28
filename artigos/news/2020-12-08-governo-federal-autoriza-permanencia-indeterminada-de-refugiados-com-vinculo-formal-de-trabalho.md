@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal autoriza permanência indeterminada de refugiados com vínculo formal de trabalho"
+title: Governo Federal autoriza permanência indeterminada de refugiados com vínculo
+  formal de trabalho
 date: 2020-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Conselho Nacional de Imigração (CNIg) e o Comitê Nacional para os Refugiados (Conare), do Ministério da Justiça e Segurança Pública, autorizaram, para os solicitantes de refúgio no Brasil, a residência associada à questão laboral. Com a nova medida, o solicitante pode transformar a autorização de residência temporária para residência por prazo indeterminado.
 

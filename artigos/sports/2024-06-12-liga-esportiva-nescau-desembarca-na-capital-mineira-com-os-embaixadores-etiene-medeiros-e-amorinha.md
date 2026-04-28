@@ -1,11 +1,13 @@
 ---
-title: "Liga Esportiva NESCAU® desembarca na capital mineira com os embaixadores Etiene Medeiros e Amorinha"
+title: Liga Esportiva NESCAU® desembarca na capital mineira com os embaixadores Etiene
+  Medeiros e Amorinha
 date: 2024-06-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Marcado para o dia 29 deste mês, na Associação Atlética do Banco do Brasil(AABB), o evento terá mais de 10 práticas esportivas e apoio dos mercados Mart Minas e Super BH.
 

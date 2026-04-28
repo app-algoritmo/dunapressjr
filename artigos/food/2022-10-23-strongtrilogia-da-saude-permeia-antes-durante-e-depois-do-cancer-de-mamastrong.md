@@ -1,12 +1,13 @@
 ---
-title: "<strong>Trilogia da saúde permeia antes, durante e depois do câncer de mama</strong>"
+title: <strong>Trilogia da saúde permeia antes, durante e depois do câncer de mama</strong>
 date: 2022-10-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
-  - Health
+- Food
+- Health
 ---
+
 
 ## Em homenagem à campanha do Outubro Rosa, especialistas da Jasmine Alimentos destacam que a doença pode ser evitada com adoção de hábitos simples.
 

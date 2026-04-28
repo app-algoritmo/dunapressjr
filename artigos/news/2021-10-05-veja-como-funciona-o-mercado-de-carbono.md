@@ -1,11 +1,12 @@
 ---
-title: "Veja como funciona o mercado de carbono"
+title: Veja como funciona o mercado de carbono
 date: 2021-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta da Câmara institui Mercado Brasileiro de Redução de Emissões.
 

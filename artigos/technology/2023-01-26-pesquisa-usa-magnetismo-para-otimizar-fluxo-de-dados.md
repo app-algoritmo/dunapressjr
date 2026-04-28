@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa usa magnetismo para otimizar fluxo de dados"
+title: Pesquisa usa magnetismo para otimizar fluxo de dados
 date: 2023-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Raí Menezes, doutor pelo Programa de Pós-Graduação em Física da Universidade Federal de Pernambuco (UFPE) e pela Universidade de Antuérpia, na Bélgica, demonstrou em sua tese a possibilidade de se utilizar estados magnéticos da matéria para transporte e armazenamento digital de informações. Durante sua pesquisa, ele usou e combinou dois fenômenos magnéticos, os skyrmions e os mágnons, para desenvolver alternativas de transferência e guarda eficiente de dados em dispositivos magnéticos de nova geração.
 

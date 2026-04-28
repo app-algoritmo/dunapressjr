@@ -1,11 +1,12 @@
 ---
-title: "A verdade sobre o sono"
+title: A verdade sobre o sono
 date: 2023-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Muitas pessoas não percebem quanto dano isso pode causar ao coração e ao cérebro.
 

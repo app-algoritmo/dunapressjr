@@ -1,11 +1,12 @@
 ---
-title: "Confiança empresarial recua pelo quarto mês consecutivo, diz FGV"
+title: Confiança empresarial recua pelo quarto mês consecutivo, diz FGV
 date: 2022-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## ICE caiu 2,5 pontos para 91,6 pontos, em escala que vai de 0 a 200.
 

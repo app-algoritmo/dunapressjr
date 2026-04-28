@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra operação contra desvios de mais de R$ 5 milhões no INSS"
+title: Polícia Federal deflagra operação contra desvios de mais de R$ 5 milhões no
+  INSS
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Na manhã de hoje (27/5), a Polícia Federal deflagrou a Operação LAZARUS,  que visa desarticular uma Organização Criminosa que reativava fraudulentamente benefícios previdenciários  suspensos por falta de comprovação (“fé de vida”). Estima-se que as fraudes realizadas contra o INSS ultrapassem os R$ 5 milhões,  dos quais R$ 2,5 milhões foram recuperados aos cofres públicos.
 

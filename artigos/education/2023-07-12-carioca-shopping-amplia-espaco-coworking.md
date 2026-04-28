@@ -1,11 +1,12 @@
 ---
-title: "Carioca Shopping amplia espaço coworking"
+title: Carioca Shopping amplia espaço coworking
 date: 2023-07-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Área de trabalho tem acesso gratuito para jovens e adultos.
 

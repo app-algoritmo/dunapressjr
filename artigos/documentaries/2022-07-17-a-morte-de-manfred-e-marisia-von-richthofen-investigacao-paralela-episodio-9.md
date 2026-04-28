@@ -1,11 +1,13 @@
 ---
-title: "A morte de Manfred e Marísia Von Richthofen - Investigação Paralela – Episódio 9"
+title: A morte de Manfred e Marísia Von Richthofen - Investigação Paralela – Episódio
+  9
 date: 2022-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo |
 

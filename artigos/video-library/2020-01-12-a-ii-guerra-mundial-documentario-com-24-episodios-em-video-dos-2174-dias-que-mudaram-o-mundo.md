@@ -1,11 +1,13 @@
 ---
-title: "A II Guerra Mundial, Documentário com 24 episódios em vídeo, dos 2.174 dias que mudaram o mundo"
+title: A II Guerra Mundial, Documentário com 24 episódios em vídeo, dos 2.174 dias
+  que mudaram o mundo
 date: 2020-01-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Video library
+- Video library
 ---
+
 
 A **Segunda Guerra Mundial** foi um conflito de proporções globais que aconteceu entre 1939 e 1945. Caracterizada como um conflito em estado de guerra total (no qual há mobilização de todos os recursos para a guerra), a Segunda Guerra Mundial fez **Aliados** e **Eixo** enfrentarem-se na Europa, África, Ásia e Oceania. Após seis anos de conflito, mais de 60 milhões de pessoas morreram.
 

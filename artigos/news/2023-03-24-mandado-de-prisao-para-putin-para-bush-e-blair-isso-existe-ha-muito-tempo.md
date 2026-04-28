@@ -1,11 +1,12 @@
 ---
-title: "Mandado de prisão para Putin? Para Bush e Blair, isso existe há muito tempo"
+title: Mandado de prisão para Putin? Para Bush e Blair, isso existe há muito tempo
 date: 2023-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Uma coisa é emitir um mandado e outra é executá-lo. A Malásia teve que aprender isso doze anos atrás, quando um tribunal foi realizado lá contra o ex-presidente dos EUA, Bush, e o ex-primeiro-ministro britânico, Blair. No entanto, o mandado de prisão foi precedido do devido processo legal.
 

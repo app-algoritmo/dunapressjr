@@ -1,11 +1,12 @@
 ---
-title: "Entenda as diferenças entre as Operações Pantanal e Verde Brasil 2"
+title: Entenda as diferenças entre as Operações Pantanal e Verde Brasil 2
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Diferentemente da Operação Pantanal, que visa combater as queimadas que atingem o bioma, a Operação Verde Brasil 2 tem como principal finalidade realizar ações preventivas e repressivas contra delitos ambientais, direcionadas ao desmatamento ilegal e a focos de incêndio, na Amazônia Legal.
 

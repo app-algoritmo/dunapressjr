@@ -1,11 +1,13 @@
 ---
-title: "'Reformar o Estado' assim dita Rodrigo Maia - presidente eleito para terceira gestão na câmara dos deputados"
+title: '''Reformar o Estado'' assim dita Rodrigo Maia - presidente eleito para terceira
+  gestão na câmara dos deputados'
 date: 2019-02-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Foram eleitos nesta sexta-feira (1º) os ocupantes dos sete cargos da Mesa Diretora da Câmara dos Deputados no biênio 2019-2020. O deputado Rodrigo Maia (DEM-RJ) foi eleito presidente pela terceira vez consecutiva, com 334 votos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os suínos nos EUA foram secretamente “vacinados” com injeções de mRNA"
+title: Os suínos nos EUA foram secretamente “vacinados” com injeções de mRNA
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **Apenas alguns anos atrás, a ideia de que nosso suprimento de comida pudesse ser usado para terapia genética para promover uma agenda transumanista teria soado maluca. Ainda hoje, os globalistas admitem abertamente que essa é sua intenção. A Big Ag já iniciou o plano injetando porcos e vacas com terapia genética de mRNA?**
 

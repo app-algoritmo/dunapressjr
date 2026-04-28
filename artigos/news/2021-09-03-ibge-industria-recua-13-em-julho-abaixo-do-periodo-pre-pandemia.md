@@ -1,11 +1,12 @@
 ---
-title: "IBGE: indústria recua 1,3% em julho; abaixo do período pré-pandemia"
+title: 'IBGE: indústria recua 1,3% em julho; abaixo do período pré-pandemia'
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano, o setor registra alta de 11% e, em 12meses, de 7%.
 

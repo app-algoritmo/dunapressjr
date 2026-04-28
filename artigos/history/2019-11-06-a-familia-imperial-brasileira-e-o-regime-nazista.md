@@ -1,11 +1,12 @@
 ---
-title: "A Família Imperial Brasileira e o Regime Nazista"
+title: A Família Imperial Brasileira e o Regime Nazista
 date: 2019-11-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A Família Imperial Brasileira, que vivia exilada na Europa, durante o período da Segunda Guerra, fez oposição ao regime nazista. 
 

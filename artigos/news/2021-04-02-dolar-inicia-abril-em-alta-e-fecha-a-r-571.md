@@ -1,11 +1,12 @@
 ---
-title: "Dólar inicia abril em alta e fecha a R$ 5,71"
+title: Dólar inicia abril em alta e fecha a R$ 5,71
 date: 2021-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa caiu 1,18% em dia de ajustes.
 

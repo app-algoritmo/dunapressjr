@@ -1,11 +1,12 @@
 ---
-title: "O Deputado Príncipe Luiz Philippe lança a Constituição Libertadora"
+title: O Deputado Príncipe Luiz Philippe lança a Constituição Libertadora
 date: 2022-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após três anos do anúncio oficial o deputado federal Luiz Philippe de Orleans e Bragança (SP) apresentou proposta de nova Constituição em uma *live,* na noite da quinta-feira, 02 de setembro, dia histórico em que a princesa regente do Brasil,  Maria Leopoldina, assinou a independência do Brasil. Chamada de [**“A Libertadora”**](https://constituicaolibertadora.com.br/),a nova Constituição teve seus objetivos, obstáculos e pontos gerais dissecados pelos autores.
 

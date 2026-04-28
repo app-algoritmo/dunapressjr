@@ -1,11 +1,12 @@
 ---
-title: "Fundos públicos e INSS também são fontes de dinheiro esquecido"
+title: Fundos públicos e INSS também são fontes de dinheiro esquecido
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Abono salarial, malha fina do IR e até loterias têm quantias paradas.
 

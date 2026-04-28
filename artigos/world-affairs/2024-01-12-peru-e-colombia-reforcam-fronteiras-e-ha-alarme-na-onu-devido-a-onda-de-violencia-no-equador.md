@@ -1,11 +1,13 @@
 ---
-title: "Peru e Colômbia reforçam fronteiras e há alarme na ONU devido à onda de violência no Equador"
+title: Peru e Colômbia reforçam fronteiras e há alarme na ONU devido à onda de violência
+  no Equador
 date: 2024-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Peru e a Colômbia decidiram reforçar a fronteira com o Equador face à onda de violência que eclodiu naquele país, com um resultado provisório de 11 mortes, o que obrigou o Governo a declarar ontem o "conflito armado interno", disposição que permite a mobilização das Forças Armadas, enquanto a ONU manifestou alarme sobre a situação e vários países apelaram aos seus cidadãos para não viajarem e outros fecharam temporariamente as suas embaixadas e consulados em Quito e Guayaquil.
 

@@ -1,11 +1,12 @@
 ---
-title: "'Eu sou Anne Frank' torna o Holocausto acessível aos jovens leitores"
+title: '''Eu sou Anne Frank'' torna o Holocausto acessível aos jovens leitores'
 date: 2021-01-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 O autor Brad Meltzer diz que escreveu a introdução delicada e cheia de esperança dos horrores do genocídio com seus próprios filhos em mente, como parte da série de livros 'Ordinary People Change the World'.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo afirma que novas receitas no Orçamento são apenas 'correções de erros'"
+title: Governo afirma que novas receitas no Orçamento são apenas 'correções de erros'
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Somente com a aprovação do projeto sobre o Carf, o governo espera arrecadar R$ 54,7 bilhões.
 

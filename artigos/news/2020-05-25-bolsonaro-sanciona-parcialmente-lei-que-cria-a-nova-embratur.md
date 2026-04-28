@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona parcialmente lei que cria a Nova Embratur"
+title: Bolsonaro sanciona parcialmente lei que cria a Nova Embratur
 date: 2020-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida está publicada no Diário Oficial da União de hoje (25).
 

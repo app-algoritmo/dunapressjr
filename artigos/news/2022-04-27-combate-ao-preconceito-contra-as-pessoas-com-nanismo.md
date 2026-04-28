@@ -1,11 +1,12 @@
 ---
-title: "Combate ao Preconceito Contra as Pessoas com Nanismo"
+title: Combate ao Preconceito Contra as Pessoas com Nanismo
 date: 2022-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Nanismo é classificado como deficiência física, decorrente de condições genéticas, caracterizando-se pela baixa estatura se comparada com a média da população de mesma idade e sexo. Essa condição, no Brasil, é reconhecida como deficiência física desde 2004.
 

@@ -1,11 +1,12 @@
 ---
-title: "O que você percebe sobre o tempo da acusação contra Trump?"
+title: O que você percebe sobre o tempo da acusação contra Trump?
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, foi indiciado pelo Judiciário americano pela terceira vez em quatro meses. 
 

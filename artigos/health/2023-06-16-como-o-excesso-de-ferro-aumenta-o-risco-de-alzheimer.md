@@ -1,11 +1,12 @@
 ---
-title: "Como o excesso de ferro aumenta o risco de Alzheimer"
+title: Como o excesso de ferro aumenta o risco de Alzheimer
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Este ingrediente também é encontrado em panelas e frigideiras, cereais e pães, água potável e suplementos alimentares. Evite-o para prevenir a doença de Alzheimer e para garantir que ele não se acumule em seu cérebro.
 

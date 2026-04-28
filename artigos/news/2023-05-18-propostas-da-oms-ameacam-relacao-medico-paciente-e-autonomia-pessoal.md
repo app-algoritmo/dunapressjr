@@ -1,11 +1,12 @@
 ---
-title: "Propostas da OMS ameaçam relação médico-paciente e autonomia pessoal"
+title: Propostas da OMS ameaçam relação médico-paciente e autonomia pessoal
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O Tratado Pandêmico da Organização Mundial da Saúde e as mudanças no Regulamento Sanitário Internacional ameaçam a soberania médica pessoal, incluindo a relação médico-paciente, a liberdade médica e a autonomia pessoal, dizem os especialistas ao The Defender.
 

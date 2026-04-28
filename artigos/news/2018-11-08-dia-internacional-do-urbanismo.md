@@ -1,11 +1,12 @@
 ---
-title: "Dia Internacional do Urbanismo"
+title: Dia Internacional do Urbanismo
 date: 2018-11-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O urbanismo significa toda a ciência, tecnologia e artes relacionadas à organização e planejamento dos espaços urbanos. Este projeto pode ser sustentado pelo desejo de garantir o bem-estar humano e melhorar as relações sociais, preservando o meio ambiente.
 

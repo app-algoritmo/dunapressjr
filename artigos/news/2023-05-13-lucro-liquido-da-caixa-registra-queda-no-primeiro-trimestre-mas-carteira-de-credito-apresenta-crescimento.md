@@ -1,11 +1,13 @@
 ---
-title: "Lucro líquido da Caixa registra queda no primeiro trimestre, mas carteira de crédito apresenta crescimento"
+title: Lucro líquido da Caixa registra queda no primeiro trimestre, mas carteira de
+  crédito apresenta crescimento
 date: 2023-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco destaca aumento na carteira de crédito, com destaque para crédito imobiliário e consignado
 

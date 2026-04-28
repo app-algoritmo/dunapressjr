@@ -1,11 +1,13 @@
 ---
-title: "Projeção de inflação para 2023 no Brasil cai para 5,71%, de acordo com o Boletim Focus do Banco Central"
+title: Projeção de inflação para 2023 no Brasil cai para 5,71%, de acordo com o Boletim
+  Focus do Banco Central
 date: 2023-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercado financeiro estima taxa de inflação abaixo do teto da meta.
 

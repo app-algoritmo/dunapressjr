@@ -1,11 +1,12 @@
 ---
-title: "FAB realiza primeiro voo não tripulado com equipagem feminina"
+title: FAB realiza primeiro voo não tripulado com equipagem feminina
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Duas militares do Esquadrão Hórus (1º/12º GAV), sediado na Ala 4 - Base Aérea de Santa Maria (RS), protagonizaram mais um capítulo de pioneirismo na história operacional da Força Aérea Brasileira (FAB). A Capitão Aviadora Juliana França Cavalcanti e a Sargento especialista em Fotointeligência Isabela Nascimento realizaram, no dia 20 de abril, o primeiro voo com tripulação feminina de uma Aeronave Remotamente Pilotada, o RQ-900.
 

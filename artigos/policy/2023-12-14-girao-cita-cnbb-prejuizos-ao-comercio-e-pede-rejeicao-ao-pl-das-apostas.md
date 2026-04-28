@@ -1,11 +1,12 @@
 ---
-title: "Girão cita CNBB, prejuízos ao comércio e pede rejeição ao PL das apostas"
+title: Girão cita CNBB, prejuízos ao comércio e pede rejeição ao PL das apostas
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) pediu, em pronunciamento nesta terça-feira (12), a rejeição do projeto que regulamenta as apostas esportivas de quota fixa, chamadas de bets ([PL 3.626/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160197)). O parlamentar afirmou que a matéria, que está na pauta do Plenário desta terça, “empurra os mais vulneráveis para o vício, para o adoecimento e para o empobrecimento”. Para Girão, o Senado tem o papel de proteger a população brasileira.
 

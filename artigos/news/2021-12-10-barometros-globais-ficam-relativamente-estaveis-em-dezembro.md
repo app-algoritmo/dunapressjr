@@ -1,11 +1,12 @@
 ---
-title: "Barômetros Globais ficam relativamente estáveis em dezembro"
+title: Barômetros Globais ficam relativamente estáveis em dezembro
 date: 2021-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Barômetro Econômico Coincidente subiu 0,5 ponto.
 

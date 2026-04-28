@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança das Pequenas Empresas tem alta de 2,7 pontos"
+title: Índice de Confiança das Pequenas Empresas tem alta de 2,7 pontos
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o melhor resultado desde novembro de 2013.
 

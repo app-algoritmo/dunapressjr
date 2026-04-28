@@ -1,11 +1,12 @@
 ---
-title: "Em agosto, valor médio da cesta básica subiu em quatro das oito cidades pesquisadas"
+title: Em agosto, valor médio da cesta básica subiu em quatro das oito cidades pesquisadas
 date: 2023-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## BH apresentou a maior alta no valor da cesta de 9,4%. Frango, arroz, açúcar, manteiga e margarina apresentaram alta em todas as capitais.
 

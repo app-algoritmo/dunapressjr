@@ -1,11 +1,12 @@
 ---
-title: "Alerta na Europa Central: Imigração Descontrolada Ameaça Identidade e Segurança"
+title: 'Alerta na Europa Central: Imigração Descontrolada Ameaça Identidade e Segurança'
 date: 2024-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O antigo primeiro-ministro checo, Andrej Babiš, ergueu sua voz de alerta no Parlamento, denunciando a crescente ameaça representada pela imigração descontrolada na Europa Central e Oriental. Babiš não poupou críticas ao pacto pró-imigração apoiado pelo governo de centro-esquerda de Petr Fiala, alertando para as consequências catastróficas que isso poderia acarretar para a região.
 

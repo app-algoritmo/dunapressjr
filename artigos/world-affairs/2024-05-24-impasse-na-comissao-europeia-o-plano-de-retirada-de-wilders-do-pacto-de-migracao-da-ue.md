@@ -1,11 +1,13 @@
 ---
-title: "Impasse na Comissão Europeia: O Plano de Retirada de Wilders do Pacto de Migração da UE"
+title: 'Impasse na Comissão Europeia: O Plano de Retirada de Wilders do Pacto de Migração
+  da UE'
 date: 2024-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Comissão Europeia enfrenta um novo desafio com os planos do líder holandês Geert Wilders de retirar seu país do pacto de migração da União Europeia. Em resposta, a Comissão afirmou que o novo pacto "deve ser aplicado por todos os Estados-membros" e prometeu garantir sua implementação.
 

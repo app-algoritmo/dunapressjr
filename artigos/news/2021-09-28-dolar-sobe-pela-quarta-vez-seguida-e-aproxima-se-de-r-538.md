@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe pela quarta vez seguida e aproxima-se de R$ 5,38"
+title: Dólar sobe pela quarta vez seguida e aproxima-se de R$ 5,38
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa fechou em alta, apoiada por commodities.
 

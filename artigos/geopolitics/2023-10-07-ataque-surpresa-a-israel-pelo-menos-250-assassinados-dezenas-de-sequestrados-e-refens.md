@@ -1,11 +1,13 @@
 ---
-title: "Ataque surpresa a Israel: Pelo menos 250 assassinados, dezenas de sequestrados e reféns"
+title: 'Ataque surpresa a Israel: Pelo menos 250 assassinados, dezenas de sequestrados
+  e reféns'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em constante evolução na região de Ofakim e Bari, no contexto da crise em curso entre Israel e a Faixa de Gaza. As batalhas que eclodiram nestas áreas se tornaram o epicentro de uma situação altamente tensa, com a presença de reféns e ataques surpresa que desafiam a estabilidade na região.
 

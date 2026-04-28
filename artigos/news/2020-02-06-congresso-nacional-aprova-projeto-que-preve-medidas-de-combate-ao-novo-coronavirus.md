@@ -1,11 +1,12 @@
 ---
-title: "Congresso Nacional aprova projeto que prevê medidas de combate ao novo coronavírus"
+title: Congresso Nacional aprova projeto que prevê medidas de combate ao novo coronavírus
 date: 2020-02-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Entre as medidas previstas estão isolamento, quarentena e fechamento de rodovias e aeroportos para entrada e saída do País*
 

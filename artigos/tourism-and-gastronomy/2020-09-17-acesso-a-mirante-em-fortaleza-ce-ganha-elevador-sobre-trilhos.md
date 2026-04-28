@@ -1,11 +1,12 @@
 ---
-title: "Acesso a mirante em Fortaleza (CE) ganha elevador sobre trilhos"
+title: Acesso a mirante em Fortaleza (CE) ganha elevador sobre trilhos
 date: 2020-09-17
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Equipamento voltado ao transporte de moradores e visitantes com mobilidade reduzida recebeu R$ 500 mil do MTur.
 

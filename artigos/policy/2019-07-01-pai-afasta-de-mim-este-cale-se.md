@@ -1,11 +1,12 @@
 ---
-title: "Pai, afasta de mim este cale-se..."
+title: Pai, afasta de mim este cale-se...
 date: 2019-07-01
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Policy
+- Policy
 ---
+
 
 Pai, se for de tua vontade, afasta de mim este cale-se , dá voz a mim que estou aflito...
 

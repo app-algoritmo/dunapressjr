@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova atendimento prioritário no SUS para mulher vítima de violência doméstica"
+title: CCJ aprova atendimento prioritário no SUS para mulher vítima de violência doméstica
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto deverá seguir agora para o Senado, a menos que haja recurso para análise pelo Plenário da Câmara.
 

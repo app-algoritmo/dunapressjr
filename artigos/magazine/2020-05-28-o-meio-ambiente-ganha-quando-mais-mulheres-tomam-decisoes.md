@@ -1,11 +1,12 @@
 ---
-title: "O meio ambiente ganha quando mais mulheres tomam decisões"
+title: O meio ambiente ganha quando mais mulheres tomam decisões
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Quando mais mulheres estão envolvidas em decisões de grupo sobre gerenciamento de terras, o grupo conserva mais - principalmente quando oferece incentivos financeiros para fazê-lo, de acordo com um estudo realizado pela Universidade do Colorado Boulder.
 

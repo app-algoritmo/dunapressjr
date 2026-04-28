@@ -1,11 +1,12 @@
 ---
-title: "Zequinha expressa preocupação com aumento da importação de laticínios"
+title: Zequinha expressa preocupação com aumento da importação de laticínios
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA) manifestou nesta quinta-feira (14) preocupação com o aumento das importações na indústria dos laticínios no Brasil. Ele explicou que o aumento das importações de leite e derivados, sobretudo da Argentina e do Uruguai, está ameaçando esse segmento da economia, podendo eliminar milhões de empregos e renda. Para ele, é necessário que o governo federal providencie medidas urgentes de modo a não impactar a economia brasileira e provocar o desabastecimento do mercado interno.
 

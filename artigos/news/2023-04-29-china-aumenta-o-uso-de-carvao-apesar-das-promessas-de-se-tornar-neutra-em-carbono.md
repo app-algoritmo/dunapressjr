@@ -1,11 +1,13 @@
 ---
-title: "China aumenta o uso de carvão apesar das promessas de se tornar “neutra em carbono”"
+title: China aumenta o uso de carvão apesar das promessas de se tornar “neutra em
+  carbono”
 date: 2023-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A China [aumentou seu uso de carvão como fonte de energia](https://www.theguardian.com/world/2023/apr/24/china-ramps-up-coal-power-despite-carbon-neutral-pledges) , apesar de suas promessas de se tornar “neutra em carbono”. A medida contradiz as promessas anteriores do líder supremo chinês, Xi Jinping, de que o país comunista atingiria sua meta de emissões zero até 2060.
 

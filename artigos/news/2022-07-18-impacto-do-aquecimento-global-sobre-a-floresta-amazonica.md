@@ -1,11 +1,12 @@
 ---
-title: "Impacto do aquecimento global sobre a floresta Amazônica"
+title: Impacto do aquecimento global sobre a floresta Amazônica
 date: 2022-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

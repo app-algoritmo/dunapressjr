@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa aponta crescimento industrial em 11 estados em maio"
+title: Pesquisa aponta crescimento industrial em 11 estados em maio
 date: 2022-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice nacional avançou 0,3% no mês, diz IBGE.
 

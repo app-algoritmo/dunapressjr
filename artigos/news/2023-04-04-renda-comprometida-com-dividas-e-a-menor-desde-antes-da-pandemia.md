@@ -1,11 +1,12 @@
 ---
-title: "Renda comprometida com dívidas é a menor desde antes da pandemia"
+title: Renda comprometida com dívidas é a menor desde antes da pandemia
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parcela de famílias com atrasos acima de 90 dias é a maior em um ano.
 

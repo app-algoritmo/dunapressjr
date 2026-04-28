@@ -1,11 +1,12 @@
 ---
-title: "A NASA nomeou dois asteróides em homenagem a uma israelense que os encontrou"
+title: A NASA nomeou dois asteróides em homenagem a uma israelense que os encontrou
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aseel Nama, uma aluna de bacharelado em engenharia biomédica no Technion, a renomada universidade de pesquisa em Haifa, participou no mês passado do programa de ciência cidadã International Astronomical Search Collaboration, afiliado à agência espacial dos Estados Unidos.
 

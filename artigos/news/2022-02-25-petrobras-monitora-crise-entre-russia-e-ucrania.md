@@ -1,11 +1,12 @@
 ---
-title: "Petrobras monitora crise entre Rússia e Ucrânia"
+title: Petrobras monitora crise entre Rússia e Ucrânia
 date: 2022-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Diretor vê impacto de elevação muito forte no preço do barril.
 

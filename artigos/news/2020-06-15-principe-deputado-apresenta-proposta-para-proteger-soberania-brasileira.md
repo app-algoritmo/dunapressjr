@@ -1,11 +1,12 @@
 ---
-title: "Príncipe Deputado apresenta  proposta para proteger soberania brasileira"
+title: Príncipe Deputado apresenta  proposta para proteger soberania brasileira
 date: 2020-06-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Por Luiz Philippe de Orleans e Bragança:
 

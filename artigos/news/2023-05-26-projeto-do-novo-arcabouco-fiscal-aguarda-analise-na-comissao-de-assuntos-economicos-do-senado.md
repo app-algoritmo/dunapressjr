@@ -1,11 +1,13 @@
 ---
-title: "Projeto do novo arcabouço fiscal aguarda análise na Comissão de Assuntos Econômicos do Senado"
+title: Projeto do novo arcabouço fiscal aguarda análise na Comissão de Assuntos Econômicos
+  do Senado
 date: 2023-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta busca regras permanentes para controle de despesas e trajetória sustentável da dívida pública.
 

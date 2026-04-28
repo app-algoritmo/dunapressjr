@@ -1,11 +1,12 @@
 ---
-title: "PF combate tráfico de drogas em remessas postais via Correios"
+title: PF combate tráfico de drogas em remessas postais via Correios
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Mateus/ES – A Polícia Federal deflagrou hoje (18/5) a operação Via Expressa São Mateus/ES, no Espírito Santo. Em parceria com a Área de Segurança dos Correios, foi identificado um esquema de encaminhamento de substâncias entorpecentes através dos Correios à cidade de São Mateus/ES.
 

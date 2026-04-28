@@ -1,11 +1,12 @@
 ---
-title: "CMO aprova contas dos dois últimos anos do governo Dilma"
+title: CMO aprova contas dos dois últimos anos do governo Dilma
 date: 2022-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão Mista de Orçamento (CMO) aprovou nesta quinta-feira (22) as contas presidenciais de 2014 e 2015, dois últimos anos do governo Dilma Roussef. O relatório de 2014 foi elaborado pelo  senador Fabiano Contarato (PT-ES) e o de 2015, pelo deputado Enio Verri (PT-PR), para quem a decisão do colegiado faz "justiça histórica" a Dilma. Para o relator, a então presidente foi afastada do cargo por um golpe com base em falsas alegações de "pedaladas fiscais".
 

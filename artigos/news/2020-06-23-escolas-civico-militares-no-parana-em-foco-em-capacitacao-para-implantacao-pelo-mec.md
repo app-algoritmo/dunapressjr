@@ -1,11 +1,13 @@
 ---
-title: "Escolas cívico-militares no Paraná em foco em capacitação para implantação pelo MEC"
+title: Escolas cívico-militares no Paraná em foco em capacitação para implantação
+  pelo MEC
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Palestras serão ministradas por videoconferência a 16 técnicos da Secretaria de Eduçacão do Paraná, além de diretores e coordenadores pedagógicos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Descomunizando a Sociedade: Lições da História Norueguesa para o presente"
+title: 'Descomunizando a Sociedade: Lições da História Norueguesa para o presente'
 date: 2024-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Não é a primeira vez que  escrevo sobre esse tema, em 2020 publiquei (**[O Declínio do Partido Comunista na Noruega desde 1973](https://dunapress.org/2020/03/03/o-declinio-do-partido-comunista-na-noruega-desde-1973/)**), recomendo! 
 

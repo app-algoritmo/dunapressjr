@@ -1,11 +1,13 @@
 ---
-title: "EUA consideram enviar solicitantes de asilo para Itália e Grécia: Impacto na América Latina"
+title: 'EUA consideram enviar solicitantes de asilo para Itália e Grécia: Impacto
+  na América Latina'
 date: 2024-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um movimento para gerenciar o fluxo de migrantes na América Latina, os Estados Unidos estão considerando enviar alguns solicitantes de asilo de volta para Itália ou Grécia. A CBS News informou na quinta-feira, citando fontes anônimas e documentos do Departamento de Segurança Interna dos EUA, que este plano pode afetar migrantes que procuram asilo nos Escritórios de Mobilidade Segura (SMO) estabelecidos em Colômbia, Costa Rica, Equador e Guatemala.
 

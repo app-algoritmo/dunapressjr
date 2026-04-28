@@ -1,11 +1,12 @@
 ---
-title: "As chaves para a prosperidade"
+title: As chaves para a prosperidade
 date: 2017-12-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Noruega alcançou sucesso econômico e social em diversas áreas por ter seguido uma agenda de desenvolvimento totalmente inversa da qual é imposta atualmente em  muitos lugares.
 

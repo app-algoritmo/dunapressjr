@@ -1,11 +1,12 @@
 ---
-title: "Governador da Paraíba institui marco legal da Ciência e Tecnologia"
+title: Governador da Paraíba institui marco legal da Ciência e Tecnologia
 date: 2021-06-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## **Também foi anunciado investimentos de R$ 28,2 milhões em pesquisas na Paraíba**.
 

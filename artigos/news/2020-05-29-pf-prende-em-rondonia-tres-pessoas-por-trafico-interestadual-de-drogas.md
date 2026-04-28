@@ -1,11 +1,12 @@
 ---
-title: "PF prende em Rondônia três pessoas por tráfico interestadual de drogas"
+title: PF prende em Rondônia três pessoas por tráfico interestadual de drogas
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO – Na manhã desta quarta-feira (27/05/2020), a Polícia Federal prendeu três indivíduos, sendo duas mulheres e um homem, em flagrante do crime de tráfico de drogas interestadual.
 

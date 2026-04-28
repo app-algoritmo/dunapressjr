@@ -1,11 +1,13 @@
 ---
-title: "Ministro do STF autoriza abertura de inquérito para investigar atos em favor do AI-5 e do fechamento de instituições republicanas"
+title: Ministro do STF autoriza abertura de inquérito para investigar atos em favor
+  do AI-5 e do fechamento de instituições republicanas
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a instauração de inquérito, conforme requerido pela Procuradoria-Geral da República (PGR), e a realização das diligências solicitadas; mantendo a investigação em sigilo, como requerido pela PGR.
 

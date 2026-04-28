@@ -1,11 +1,13 @@
 ---
-title: "Secretaria Municipal Educação de Itajaí lança coletânea de contos africanos com personagens locais"
+title: Secretaria Municipal Educação de Itajaí lança coletânea de contos africanos
+  com personagens locais
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Educação de Itajaí, por meio do Programa da Diversidade Étnico-Racial de Gênero e Combate ao Bullying, lançou nesta segunda-feira (07) uma coletânea de contos africanos com personagens locais. Com 39 páginas, a obra “Contos Africanos Histórias da nossa Itajaí” reúne textos de alunos de 13 unidades municipais. 
 

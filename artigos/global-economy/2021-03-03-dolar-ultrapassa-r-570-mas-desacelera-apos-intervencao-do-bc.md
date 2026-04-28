@@ -1,11 +1,12 @@
 ---
-title: "Dólar ultrapassa R$ 5,70, mas desacelera após intervenção do BC"
+title: Dólar ultrapassa R$ 5,70, mas desacelera após intervenção do BC
 date: 2021-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa começou em queda, mas fechou em alta de 1,09%.
 

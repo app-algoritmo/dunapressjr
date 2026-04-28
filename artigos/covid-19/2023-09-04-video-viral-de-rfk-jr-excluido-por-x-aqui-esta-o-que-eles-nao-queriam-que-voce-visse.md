@@ -1,11 +1,13 @@
 ---
-title: "Vídeo viral de RFK Jr. excluído por ‘X’: Aqui está o que eles não queriam que você visse"
+title: 'Vídeo viral de RFK Jr. excluído por ‘X’: Aqui está o que eles não queriam
+  que você visse'
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Os ensaios clínicos da Pfizer foram um desastre. Robert F. Kennedy Jr. explica por quê.
 

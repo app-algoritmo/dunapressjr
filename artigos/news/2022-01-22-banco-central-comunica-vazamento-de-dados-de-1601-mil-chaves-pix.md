@@ -1,11 +1,12 @@
 ---
-title: "Banco Central comunica vazamento de dados de 160,1 mil chaves Pix"
+title: Banco Central comunica vazamento de dados de 160,1 mil chaves Pix
 date: 2022-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram vazados dados cadastrais da Acesso Pagamentos.
 

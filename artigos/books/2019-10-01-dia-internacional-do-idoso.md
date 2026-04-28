@@ -1,11 +1,12 @@
 ---
-title: "Dia Internacional do Idoso"
+title: Dia Internacional do Idoso
 date: 2019-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 No dia 01 de outubro é comemorado o Dia Internacional do Idoso, uma data em que todos agradecem aos mais experientes por tudo o que fizeram por suas famílias e seu país. 
 

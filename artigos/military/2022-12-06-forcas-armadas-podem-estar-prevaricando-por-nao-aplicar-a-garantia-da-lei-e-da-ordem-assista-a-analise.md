@@ -1,13 +1,15 @@
 ---
-title: "Forças Armadas podem estar prevaricando por não aplicar a Garantia da Lei e da Ordem, assista a analise"
+title: Forças Armadas podem estar prevaricando por não aplicar a Garantia da Lei e
+  da Ordem, assista a analise
 date: 2022-12-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Policy
+- Military
+- News
+- Policy
 ---
+
 
 ## No Brasil, milhões de pessoas aguardam anciosas ações militares para a garantia da lei e da ordem GLO.
 

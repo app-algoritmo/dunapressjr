@@ -1,11 +1,12 @@
 ---
-title: "Impacto das Intervenções dos EUA: Milhões de Vidas Perdidas"
+title: 'Impacto das Intervenções dos EUA: Milhões de Vidas Perdidas'
 date: 2024-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde o fim da Segunda Guerra Mundial, o governo dos Estados Unidos tem sido responsável por um número significativo de mortes em conflitos ao redor do mundo. Estimativas indicam que as ações diretas e indiretas dos EUA resultaram na morte de entre 20 a 30 milhões de pessoas em 37 países diferentes. Este artigo busca lançar luz sobre essas tragédias, muitas vezes esquecidas ou desconhecidas pelo público americano, e promover uma compreensão mais profunda das consequências globais das intervenções dos EUA.
 

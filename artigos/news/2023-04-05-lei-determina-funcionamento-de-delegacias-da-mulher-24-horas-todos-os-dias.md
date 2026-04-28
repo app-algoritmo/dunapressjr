@@ -1,11 +1,12 @@
 ---
-title: "Lei determina funcionamento de delegacias da mulher 24 horas todos os dias"
+title: Lei determina funcionamento de delegacias da mulher 24 horas todos os dias
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A nova norma foi publicada no Diário Oficial da União desta terça-feira (4) e é oriunda do Projeto de Lei 781/20, do senador Rodrigo Cunha (União-AL), [aprovado pela Câmara dos Deputados](https://www.camara.leg.br/noticias/923434-CAMARA-APROVA-PROJETO-DE-COMBATE-A-VIOLENCIA-CONTRA-A-MULHER) em novembro de 2022 e pelo Senado em março deste ano.
 

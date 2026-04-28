@@ -1,11 +1,12 @@
 ---
-title: "Os alarmantes números da guerra na Ucrânia"
+title: Os alarmantes números da guerra na Ucrânia
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A contra-ofensiva ucraniana contra a Rússia falhou. A Ucrânia não tem chance. Foi o que o ex-inspetor de armas da ONU e fuzileiro naval Scott Ritter disse [em entrevista a Clayton Morris, da Redacted](https://youtu.be/DsqIm3F02Rc) .
 

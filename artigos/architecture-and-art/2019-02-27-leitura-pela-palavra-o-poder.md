@@ -1,11 +1,12 @@
 ---
-title: "Leitura pela palavra: O Poder"
+title: 'Leitura pela palavra: O Poder'
 date: 2019-02-27
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Começo hoje uma série da coluna Leituras Verticais que propõe a abordagem do texto a partir da palavra. É claro que a estrutura do texto e as disposições de quem escreve ou discursa também são fundamentais para o entendimento, mas a partícula,* a palavra, é sempre o fundamento da expressão verbal.*
 

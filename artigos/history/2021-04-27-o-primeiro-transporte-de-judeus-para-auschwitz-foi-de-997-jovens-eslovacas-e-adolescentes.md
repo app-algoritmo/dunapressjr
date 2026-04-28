@@ -1,11 +1,13 @@
 ---
-title: "O primeiro transporte de judeus para Auschwitz foi de 997 jovens eslovacas e adolescentes"
+title: O primeiro transporte de judeus para Auschwitz foi de 997 jovens eslovacas
+  e adolescentes
 date: 2021-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Novo livro detalha como mulheres solteiras foram induzidas a aparecer para deportação e segue os poucos que conseguiram sobreviver a três longos anos de inferno na terra.
 

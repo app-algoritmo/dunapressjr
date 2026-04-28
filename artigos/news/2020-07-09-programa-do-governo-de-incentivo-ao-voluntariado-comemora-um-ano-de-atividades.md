@@ -1,11 +1,12 @@
 ---
-title: "Programa do Governo de Incentivo ao Voluntariado comemora um ano de atividades"
+title: Programa do Governo de Incentivo ao Voluntariado comemora um ano de atividades
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No Pátria Voluntária, mais de 15 mil pessoas são voluntárias e mais de 650 instituições estão cadastradas. 
 

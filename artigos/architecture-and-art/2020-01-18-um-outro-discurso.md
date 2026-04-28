@@ -1,11 +1,12 @@
 ---
-title: "Um outro discurso"
+title: Um outro discurso
 date: 2020-01-18
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Inconformada com a oportunidade perdida de Roberto Alvim fazer um discurso para apresentar seu trabalho, e sendo ele vítima da máxima “o peixe morre pela boca” (e também pela imagem, pelo tom de voz, pela música escolhida como leit motiv, etc) resolvi fazer um exercício e escrevi eu mesma um discurso digno de um Secretário Especial da Cultura. Fica como sugestão para o próximo que ocupar essa pasta tão importante.
 

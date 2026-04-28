@@ -1,11 +1,12 @@
 ---
-title: "Miocardite pós vacina não diminui"
+title: Miocardite pós vacina não diminui
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Todo consultório de cardiologia nos Estados Unidos deve reconhecer a miocardite induzida pela vacina COVID-19 em jovens. 
 

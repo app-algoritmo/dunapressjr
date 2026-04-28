@@ -1,11 +1,12 @@
 ---
-title: "Suécia registra 100 atentados neste ano"
+title: Suécia registra 100 atentados neste ano
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Você pode ter ouvido falar que a Suécia tem um problema de estupro. Na verdade, temos o maior número de estupros relatados na Europa.
 

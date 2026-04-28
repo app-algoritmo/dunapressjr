@@ -1,11 +1,12 @@
 ---
-title: "Pequeno grande herói"
+title: Pequeno grande herói
 date: 2023-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Smoky, um Yorkshire Terrier, foi um famoso cão de guerra que serviu na Segunda Guerra Mundial. Ela pesava apenas 4 libras (1.8 kg) e tinha 7 polegadas (180 mm) de altura. Smoky é creditado com o interesse real na raça Yorkshire Terrier outrora obscuro.
 

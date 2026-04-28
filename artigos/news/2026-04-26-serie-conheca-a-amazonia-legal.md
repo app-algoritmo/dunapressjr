@@ -1,10 +1,11 @@
 ---
-title: "Série Conheça A Amazônia Legal:"
+title: 'Série Conheça A Amazônia Legal:'
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 

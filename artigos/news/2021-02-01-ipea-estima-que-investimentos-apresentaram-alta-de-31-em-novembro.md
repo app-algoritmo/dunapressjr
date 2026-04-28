@@ -1,11 +1,12 @@
 ---
-title: "Ipea estima que investimentos apresentaram alta de 3,1% em novembro"
+title: Ipea estima que investimentos apresentaram alta de 3,1% em novembro
 date: 2021-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi a quinta alta consecutiva nos investimentos.
 

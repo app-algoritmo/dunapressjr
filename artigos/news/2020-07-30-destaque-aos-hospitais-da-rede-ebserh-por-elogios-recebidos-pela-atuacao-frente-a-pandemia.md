@@ -1,11 +1,13 @@
 ---
-title: "Destaque aos hospitais da Rede Ebserh por elogios recebidos pela atuação frente à pandemia"
+title: Destaque aos hospitais da Rede Ebserh por elogios recebidos pela atuação frente
+  à pandemia
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cinco unidades vinculadas foram ressaltadas na primeira semana de uma campanha nacional que busca reconhecer a atuação dos profissionais da saúde.
 

@@ -1,11 +1,12 @@
 ---
-title: "PIB deve crescer acima de 5% este ano, diz Ministério da Economia"
+title: PIB deve crescer acima de 5% este ano, diz Ministério da Economia
 date: 2021-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em nota sobre PIB, secretaria manteve estimativa de expansão.
 

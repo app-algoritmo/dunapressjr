@@ -1,11 +1,12 @@
 ---
-title: "Operação Caixa Dourada II investiga garimpo ilegal no Pará"
+title: Operação Caixa Dourada II investiga garimpo ilegal no Pará
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Redenção/PA – A Polícia Federal deflagrou hoje (16/6), em Redenção/PA, a Operação Caixa Dourada II, para dar continuidade a investigações sobre garimpo ilegal na região sul do Pará.
 

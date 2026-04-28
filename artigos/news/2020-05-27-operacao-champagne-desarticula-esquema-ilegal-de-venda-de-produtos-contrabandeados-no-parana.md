@@ -1,11 +1,13 @@
 ---
-title: "Operação Champagne desarticula esquema ilegal de venda de produtos contrabandeados no Paraná"
+title: Operação Champagne desarticula esquema ilegal de venda de produtos contrabandeados
+  no Paraná
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – A Polícia Federal deflagrou nesta manhã (27/5) a operação Champagne, para desarticular grupo que atuava na importação ilegal de bebidas, produtos eletrônicos e outros produtos. Ele distribuía ilegalmente essas mercadorias em todos os Estados brasileiros. Policiais federais deram cumprimento a mandados de busca e apreensão nas cidades de Terra Roxa, Guaíra e Umuarama, esta última tida como a sede de atuação do grupo investigado, no Paraná.
 

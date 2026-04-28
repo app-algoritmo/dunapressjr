@@ -1,11 +1,13 @@
 ---
-title: "Beach Tennis: Sand Series Brasília Decathlon tem jogos de oitavas e quartas de final nesta sexta-feira (16)"
+title: 'Beach Tennis: Sand Series Brasília Decathlon tem jogos de oitavas e quartas
+  de final nesta sexta-feira (16)'
 date: 2023-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Com a realização de 32 jogos, o ITF Sand Series Brasília Classic Decathlon'23, apresentado pelo Banco BRB, deu início nesta quinta-feira (15) à chave principal, no masculino e no feminino, no maior evento oficial de Beach Tennis do mundo. Para esta sexta-feira (16), no Distrito Federal, estão programadas as partidas das oitavas e das quartas de final. A rodada dupla começa às 9h e segue até 22h, definindo os semifinalistas. A partir das 15h serão realizadas, também, as disputas das categorias amadoras.
 

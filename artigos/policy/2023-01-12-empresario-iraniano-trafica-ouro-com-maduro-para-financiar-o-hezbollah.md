@@ -1,11 +1,12 @@
 ---
-title: "Empresário iraniano trafica ouro com Maduro para financiar o Hezbollah"
+title: Empresário iraniano trafica ouro com Maduro para financiar o Hezbollah
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Por detrás da saída clandestina das nove toneladas de ouro que o regime de Nicolás Maduro entregou a Teerão nos últimos dois anos, equivalente a 500 milhões de dólares, está o empresário iraniano Seyed Moosavi, revela um relatório confidencial das finanças da área criminal da companhia de seguros Lloyd's.
 

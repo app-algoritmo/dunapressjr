@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF combatem desvios de recursos no Rio de Janeiro"
+title: 'Covid-19: CGU e PF combatem desvios de recursos no Rio de Janeiro'
 date: 2021-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Desmascarados investiga possíveis irregularidades em compras de medicamentos e EPIs realizadas pelo Hospital Universitário Gafreé Guinle.
 

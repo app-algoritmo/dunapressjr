@@ -1,11 +1,13 @@
 ---
-title: "Investimento de R$ 16,8 milhões da Ebserh na reforma e ampliação das subestações de energia do HUB"
+title: Investimento de R$ 16,8 milhões da Ebserh na reforma e ampliação das subestações
+  de energia do HUB
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Capacidade energética do hospital foi dobrada, o que representa o funcionamento confiável de todos os equipamentos médico-hospitalares, computadores e sistemas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Plínio Valério alerta para possível tentativa de demissão do presidente do BC"
+title: Plínio Valério alerta para possível tentativa de demissão do presidente do
+  BC
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) alertou, em pronunciamento no Plenário nesta quarta-feira (21), para supostas articulações dentro do governo para demitir o atual presidente do Banco Central, Roberto Campos. Segundo o senador, o ministro-chefe da Casa Civil, Rui Costa, tem se empenhado na defesa de mudanças na lei de autonomia do BC, para tornar possível maior interferência do presidente da República nas decisões que competem à instituição. O parlamentar criticou os argumentos que, segundo ele, foram usados pelo ministro da Casa Civil, para justificar a “tese maluca" de demissão do presidente do BC. 
 

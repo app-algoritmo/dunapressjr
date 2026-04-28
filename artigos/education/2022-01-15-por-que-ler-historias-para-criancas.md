@@ -1,11 +1,12 @@
 ---
-title: "Por que ler histórias para crianças?"
+title: Por que ler histórias para crianças?
 date: 2022-01-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 **Ler histórias para os mais novos é sinônimo de conhecer quem as conta, a criança e o autor. **É uma prática que oferece muitos benefícios. Ajuda a estimular e desenvolver a imaginação das crianças, ao mesmo tempo que promove um espaço de calma e fortalece a relação.
 

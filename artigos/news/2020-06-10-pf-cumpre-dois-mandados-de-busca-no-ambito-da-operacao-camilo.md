@@ -1,11 +1,12 @@
 ---
-title: "PF cumpre dois mandados de busca no âmbito da Operação Camilo"
+title: PF cumpre dois mandados de busca no âmbito da Operação Camilo
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Cruz do Sul/RS - A Polícia Federal cumpre, nesta quarta-feira (9/6), dois mandados de busca e apreensão em Porto Alegre e Butiá, no âmbito da Operação Camilo. 
 

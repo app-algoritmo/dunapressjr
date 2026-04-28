@@ -1,11 +1,13 @@
 ---
-title: "Ataque Terrorista em Israel: Infiltração do Hamas e Ataques de Foguetes Abalam o País"
+title: 'Ataque Terrorista em Israel: Infiltração do Hamas e Ataques de Foguetes Abalam
+  o País'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **A Marinha israelense eliminou dezenas de terroristas no espaço marítimo sul e na costa, nas primeiras horas da manhã de sábado, segundo um porta-voz das FDI.**
 

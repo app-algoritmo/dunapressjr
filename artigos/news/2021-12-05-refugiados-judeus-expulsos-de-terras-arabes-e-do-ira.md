@@ -1,11 +1,12 @@
 ---
-title: "Refugiados judeus expulsos de terras árabes e do Irã"
+title: Refugiados judeus expulsos de terras árabes e do Irã
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Este Memorial Day comemora a tragédia de pessoas que foram forçadas a fugir de suas casas, separar-se de suas culturas anfitriãs e deixar os países onde viveram por séculos, apenas por causa de sua identidade judaica.
 

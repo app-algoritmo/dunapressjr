@@ -1,11 +1,13 @@
 ---
-title: "Com transferências e investimentos nas pontas dos dedos, bancos investem em novos data centers para acompanhar mudanças do mercado"
+title: Com transferências e investimentos nas pontas dos dedos, bancos investem em
+  novos data centers para acompanhar mudanças do mercado
 date: 2023-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A digitalização está mudando a forma como as instituições financeiras operam. Com papéis e filas no passado, os aplicativos se tornaram o principal caminho para clientes se relacionarem com bancos, sem precisar pisar em uma agência física. A Pesquisa de Tecnologia Bancária 2022, da Federação Brasileira de Bancos (Febraban), mostra que sete em cada dez transações bancárias são realizadas em canais digitais. Uma mudança de comportamento dos consumidores que impulsiona o segmento a investir em inovações que garantam a segurança e eficiência dos serviços. Para dar conta dessas novas demandas, o olhar deve estar voltado para o cérebro da era digital: o data center.
 

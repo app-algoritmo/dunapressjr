@@ -1,11 +1,13 @@
 ---
-title: "O Mistério por Trás dos Eventos Climáticos Extremos: Questionando o Papel dos Experimentos como o HAARP"
+title: 'O Mistério por Trás dos Eventos Climáticos Extremos: Questionando o Papel
+  dos Experimentos como o HAARP'
 date: 2024-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 **[O HAARP foi caracterizado pelo Parlamento Europeu como um sistema de armas que perturba o clima](https://www.europarl.europa.eu/doceo/document/E-8-2015-003449_EN.html)**.
 

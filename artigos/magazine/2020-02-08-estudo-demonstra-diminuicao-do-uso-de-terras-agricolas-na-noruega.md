@@ -1,11 +1,12 @@
 ---
-title: "Estudo demonstra diminuição do uso de terras agrícolas na Noruega"
+title: Estudo demonstra diminuição do uso de terras agrícolas na Noruega
 date: 2020-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Um estudo baseado em mapas de recuperação de terras e mudanças no uso da terra, demonstram a demolição de terras agrícolas.
 

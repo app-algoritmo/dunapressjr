@@ -1,11 +1,12 @@
 ---
-title: "Venezuela 23F - crise day after"
+title: Venezuela 23F - crise day after
 date: 2019-02-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Quais os cenários possíveis?, análise do Comandante Robinson Farinazzo
 

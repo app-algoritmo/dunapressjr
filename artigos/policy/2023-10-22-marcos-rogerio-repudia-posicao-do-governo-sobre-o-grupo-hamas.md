@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério repudia posição do governo sobre o grupo Hamas"
+title: Marcos Rogério repudia posição do governo sobre o grupo Hamas
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento na terça-feira (17), o senador Marcos Rogério (PL-RO) criticou  o governo brasileiro por não reconhecer oficialmente o Hamas como “terrorista” ao se referir ao grupo islâmico. Para ele, o governo também não condenou os ataques realizados pelo grupo a Israel. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto classifica sexo com animais como crime hediondo, com pena de até 5 anos"
+title: Projeto classifica sexo com animais como crime hediondo, com pena de até 5
+  anos
 date: 2023-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 178/23 tipifica o crime de zooerastia – a prática de conjunção carnal ou qualquer outro ato libidinoso com animal de qualquer espécie. A pena prevista é de reclusão de 2 a 5 anos, multa e perda da guarda.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra queda em número de mortes no trânsito"
+title: Brasil registra queda em número de mortes no trânsito
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De 2015 a 2019, país conseguiu reduzir em 7% ao ano os óbitos causados por acidentes de trânsito. Dados mostram uma redução de 43 mil para 30 mil mortes por ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os impactos da logística reversa para o comércio virtual brasileiro￼￼"
+title: Os impactos da logística reversa para o comércio virtual brasileiro￼￼
 date: 2021-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A logística reversa é um tipo de sistema específico que se concentra exclusivamente na locomoção e gerência do fluxo reverso de mercadorias e insumos após a venda. Com toda tecnologia à disposição, a logística reversa ainda é vista como um dos grandes desafios para o comércio eletrônico brasileiro.  As técnicas usadas são praticamente semelhantes nos mais diversos setores, porém, dentro do comércio virtual, uma operação de logística reversa eficiente pode determinar o sucesso ou não de qualquer empresa que trabalha nessa área.  A logística reversa vem se tornando o assunto mais popular na literatura de gestão de redes de suprimentos, transformando-se em objeto de pesquisa para vários autores. Apesar de apresentar um crescimento significativo, a logística reversa do comércio eletrônico (LReC) é ainda um tema pouco explorado, fato incoerente se comparado à importância crescente desse segmento na economia, mesmo tendo registrado um crescimento da ordem de 30% nos últimos anos. Uma das explicações apresentadas pela reduzida existência da pesquisa nessa área é a falta de troca de informações, difusão de conhecimento e quase ausência de participação da comunidade acadêmica no setor.
 

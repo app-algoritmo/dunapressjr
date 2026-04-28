@@ -1,11 +1,12 @@
 ---
-title: "Tchecos apoiam proibição de visto da UE para russos"
+title: Tchecos apoiam proibição de visto da UE para russos
 date: 2022-08-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Chefes dos comitês de relações exteriores das câmaras alta e baixa do parlamento tcheco, apoiam a proibição da União Europeia à emissão de vistos Schengen para russos, disse a estação de rádio Cesky Rozhlas.
 

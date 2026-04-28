@@ -1,11 +1,12 @@
 ---
-title: "Comunidades Indígenas e quilombolas recebem cestas de alimentos em todo o País"
+title: Comunidades Indígenas e quilombolas recebem cestas de alimentos em todo o País
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Medidas de proteção, direcionadas aos povos e comunidades tradicionais, fazem parte do Plano de Contingência do Governo Federal.
 

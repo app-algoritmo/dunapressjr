@@ -1,11 +1,12 @@
 ---
-title: "Policiais realizam a prisão de uma pessoa e apreendem 105 aparelhos celulares"
+title: Policiais realizam a prisão de uma pessoa e apreendem 105 aparelhos celulares
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra /PR – Na tarde desta segunda-feira, dia 18/05, mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, BOPE/COE/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pensão vitalícia para crianças com microcefalia"
+title: Pensão vitalícia para crianças com microcefalia
 date: 2020-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 **Bolsonaro cria pensão vitalícia para crianças com microcefalia causada por ataque premeditado do Zika Vírus**
 

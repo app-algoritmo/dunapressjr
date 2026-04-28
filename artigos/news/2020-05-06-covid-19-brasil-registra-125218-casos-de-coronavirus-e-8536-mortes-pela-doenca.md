@@ -1,11 +1,13 @@
 ---
-title: "COVID-19: Brasil registra 125.218 casos de coronavírus e 8.536 mortes pela doença"
+title: 'COVID-19: Brasil registra 125.218 casos de coronavírus e 8.536 mortes pela
+  doença'
 date: 2020-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As informações foram atualizadas até as 19h desta quarta-feira (6) e repassadas pelas Secretarias Estaduais de Saúde todo o país. Do total de casos confirmados, 51.370 estão recuperados e outros 65.312 estão em acompanhamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Um exame de sangue futurístico para detectar câncer e substituir o rastreamento"
+title: Um exame de sangue futurístico para detectar câncer e substituir o rastreamento
 date: 2021-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O teste desenvolvido pela Universidade Hebraica de Jerusalém foi realizado em 1.000 pessoas e a metodologia foi publicada na prestigiosa revista Nature Biotechnology.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,20 após acordo que limita PEC da Transição"
+title: Dólar cai para R$ 5,20 após acordo que limita PEC da Transição
 date: 2022-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 2,03% e fecha no maior nível em 11 dias.
 

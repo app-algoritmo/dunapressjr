@@ -1,11 +1,12 @@
 ---
-title: "Reino Unido lançará míssil balístico como parte de sub-testes nucleares"
+title: Reino Unido lançará míssil balístico como parte de sub-testes nucleares
 date: 2024-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Será a primeira vez desde 2016.
 

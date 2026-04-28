@@ -1,11 +1,12 @@
 ---
-title: "Censo Demográfico 2022 marca 150 anos do primeiro recenseamento feito no país"
+title: Censo Demográfico 2022 marca 150 anos do primeiro recenseamento feito no país
 date: 2022-09-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Realizada ainda na época do Império, em 1872, a primeira pesquisa censitária perguntava, entre outros itens, se o entrevistado era “livre” ou “escravo” e os formulários de papel eram distribuídos país afora em lombo de burro. Devido a conturbações políticas, em três ocasiões o levantamento não foi executado: 1880, 1910 e 1930.
 

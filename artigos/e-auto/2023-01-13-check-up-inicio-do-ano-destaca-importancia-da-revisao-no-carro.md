@@ -1,11 +1,12 @@
 ---
-title: "Check-up: início do ano destaca importância da revisão no carro"
+title: 'Check-up: início do ano destaca importância da revisão no carro'
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 Freios, pneus, bateria, escape e outras peças e estruturas são essenciais para o bom funcionamento de um carro. Para evitar prejuízos e acidentes, é de extrema importância que o automóvel seja seguro para motorista e passageiros e para quem trafega nas mesmas vias. Segundo a Secretaria Nacional de Trânsito (Senatran), de janeiro a agosto de 2022, mais de 150 mil motoristas foram multados por conduzir veículos em mau estado de conservação ou reprovados na avaliação de inspeção de segurança veicular. O problema pode ser ainda maior. Em outra pesquisa do Instituto Scaringella Trânsito, falhas relacionadas à manutenção dos pneus, freios, amortecedores, níveis de óleo e de água, funcionamento de luzes e até mesmo o cinto de segurança causam 30% dos acidentes nas estradas. Segundo o Código de Trânsito Brasileiro (CTB), os carros em movimento  devem estar em conformidade com todas as exigências da lei, ou seja, precisam estar em um estado que não coloque a vida de pessoas em risco. 
 

@@ -1,11 +1,12 @@
 ---
-title: "critérios para repasse do Programa Educação Conectada"
+title: critérios para repasse do Programa Educação Conectada
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Para 2020, cerca de 60 mil escolas devem ser beneficiadas, sendo 25 mil em zona rural.
 

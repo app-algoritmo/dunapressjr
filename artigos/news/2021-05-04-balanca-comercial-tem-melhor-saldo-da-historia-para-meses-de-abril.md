@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem melhor saldo da história para meses de abril"
+title: Balança comercial tem melhor saldo da história para meses de abril
 date: 2021-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País exportou US$ 10,35 bilhões a mais do que importou.
 

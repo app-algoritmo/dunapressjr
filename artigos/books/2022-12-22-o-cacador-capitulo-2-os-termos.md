@@ -1,12 +1,13 @@
 ---
-title: "O Caçador - Capitulo 2 - Os Termos"
+title: O Caçador - Capitulo 2 - Os Termos
 date: 2022-12-22
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 Escute o capítulo aqui:
 

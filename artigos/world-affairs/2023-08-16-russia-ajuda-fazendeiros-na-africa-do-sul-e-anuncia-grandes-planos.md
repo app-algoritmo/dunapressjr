@@ -1,11 +1,12 @@
 ---
-title: "Rússia ajuda fazendeiros na África do Sul e anuncia grandes planos"
+title: Rússia ajuda fazendeiros na África do Sul e anuncia grandes planos
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Agricultores brancos na África do Sul foram discriminados, expropriados e assassinados por anos. O ministro da Imigração da Austrália disse anteriormente que os fazendeiros brancos na África do Sul "estão em uma situação terrível e o mundo deveria prestar atenção".
 

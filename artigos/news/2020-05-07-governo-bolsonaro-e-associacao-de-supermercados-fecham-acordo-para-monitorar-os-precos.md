@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro e associação de supermercados fecham acordo para monitorar os preços"
+title: Governo Bolsonaro e associação de supermercados fecham acordo para monitorar
+  os preços
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com mais gente em casa devido ao novo conoravírus não podem faltar itens essenciais adquiridos em mercados como alimentos e produtos de limpeza. De olho em um possível aumento abusivo de preços dos produtos, a Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça, e a Associação Brasileira de Supermercados (Abras) fizeram um acordo de cooperação para troca de informação e controle.
 

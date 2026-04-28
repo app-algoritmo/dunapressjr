@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 Janeiro ouve Mauro Cid na terça-feira"
+title: CPMI do 8 Janeiro ouve Mauro Cid na terça-feira
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Cid está preso acusado de fraudar cartões de vacinação; além disso a polícia encontrou mensagens no celular dele sobre um golpe de Estado.
 

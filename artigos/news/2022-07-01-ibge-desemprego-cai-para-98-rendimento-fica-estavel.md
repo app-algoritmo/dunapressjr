@@ -1,11 +1,12 @@
 ---
-title: "IBGE: desemprego cai para 9,8%; rendimento fica estável"
+title: 'IBGE: desemprego cai para 9,8%; rendimento fica estável'
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informalidade atinge 40,1% da população ocupada.
 

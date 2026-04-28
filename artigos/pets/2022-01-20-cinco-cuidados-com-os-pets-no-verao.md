@@ -1,11 +1,12 @@
 ---
-title: "Cinco cuidados com os pets no verão"
+title: Cinco cuidados com os pets no verão
 date: 2022-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 As altas temperaturas do verão podem ser bastante incômodas para os animais domésticos, visto que, diferente dos humanos, cães e gatos não possuem muitas glândulas sudoríparas. A maioria delas estão situadas nos coxins, as “almofadas” das patas, o que acaba dificultando a termorregulação dos animais, que é o controle da temperatura corporal.
 

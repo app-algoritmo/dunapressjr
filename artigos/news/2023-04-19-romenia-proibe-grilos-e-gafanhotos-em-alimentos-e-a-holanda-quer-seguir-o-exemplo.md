@@ -1,11 +1,12 @@
 ---
-title: "Romênia proíbe grilos e gafanhotos em alimentos e a Holanda quer seguir o exemplo"
+title: Romênia proíbe grilos e gafanhotos em alimentos e a Holanda quer seguir o exemplo
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os deputados apresentaram um projeto de lei que proíbe a presença de insetos em alimentos vendidos na Roménia. 
 

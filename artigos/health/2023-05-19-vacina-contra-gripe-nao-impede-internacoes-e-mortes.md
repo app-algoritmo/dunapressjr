@@ -1,11 +1,12 @@
 ---
-title: "Vacina contra gripe não impede internações e mortes"
+title: Vacina contra gripe não impede internações e mortes
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Grande estudo japonês mostra nenhum benefício para resultados concreto.
 

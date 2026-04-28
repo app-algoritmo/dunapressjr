@@ -1,11 +1,12 @@
 ---
-title: "Quase dois terços das indústrias esperam faturar mais em 2021"
+title: Quase dois terços das indústrias esperam faturar mais em 2021
 date: 2020-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa foi apresentada em abertura de encontro nacional do setor.
 

@@ -1,11 +1,12 @@
 ---
-title: "Taxista e motorista de aplicativo podem ter seguro-desemprego por carro avariado"
+title: Taxista e motorista de aplicativo podem ter seguro-desemprego por carro avariado
 date: 2022-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Senado vai analisar um projeto que institui seguro-desemprego para motoristas de aplicativos e taxistas. Pela proposta  ([PL 1.322/2022](http://www25.senado.leg.br/web/atividade/materias/-/materia/153179)), os profissionais terão direito ao seguro-desemprego em casos de inatividade involuntária superior a 30 dias, devido a avarias graves em seus veículos que impeçam o uso legal.
 

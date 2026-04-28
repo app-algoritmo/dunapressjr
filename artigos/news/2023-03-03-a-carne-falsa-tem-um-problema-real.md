@@ -1,11 +1,12 @@
 ---
-title: "A carne falsa tem um problema real"
+title: A carne falsa tem um problema real
 date: 2023-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A indústria quer que você acredite que os novos alimentos falsificados feitos em laboratório são a resposta para os problemas ambientais de hoje.
 

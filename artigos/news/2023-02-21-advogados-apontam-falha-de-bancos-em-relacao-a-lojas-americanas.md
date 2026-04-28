@@ -1,11 +1,12 @@
 ---
-title: "Advogados apontam falha de bancos em relação a Lojas Americanas"
+title: Advogados apontam falha de bancos em relação a Lojas Americanas
 date: 2023-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Profissionais consideram auditoria insuficiente.
 

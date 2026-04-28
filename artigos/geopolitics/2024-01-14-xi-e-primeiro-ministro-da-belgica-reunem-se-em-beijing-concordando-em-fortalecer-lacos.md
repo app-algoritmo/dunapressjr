@@ -1,11 +1,13 @@
 ---
-title: "Xi e primeiro-ministro da Bélgica reúnem-se em Beijing, concordando em fortalecer laços"
+title: Xi e primeiro-ministro da Bélgica reúnem-se em Beijing, concordando em fortalecer
+  laços
 date: 2024-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente chinês, Xi Jinping, se reuniu com o primeiro-ministro do Reino da Bélgica, Alexander De Croo, em Beijing nesta sexta-feira.
 

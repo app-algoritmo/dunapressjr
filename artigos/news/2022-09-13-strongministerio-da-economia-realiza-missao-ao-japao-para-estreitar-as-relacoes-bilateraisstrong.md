@@ -1,11 +1,13 @@
 ---
-title: "<strong>Ministério da Economia realiza missão ao Japão para estreitar as relações bilaterais</strong>"
+title: <strong>Ministério da Economia realiza missão ao Japão para estreitar as relações
+  bilaterais</strong>
 date: 2022-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Delegação iniciou reuniões e visitas técnicas com foco em desenvolvimento nas áreas de mobilidade e logística, semicondutores, energia renovável e infraestrutura, entre outros temas.
 

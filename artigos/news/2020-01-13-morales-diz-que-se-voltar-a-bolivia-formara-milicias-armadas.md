@@ -1,11 +1,12 @@
 ---
-title: "Morales diz que, se voltar à Bolívia, formará 'milícias armadas'"
+title: Morales diz que, se voltar à Bolívia, formará 'milícias armadas'
 date: 2020-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O ex-presidente boliviano Evo Morales disse neste domingo
 que, se voltar ao país, formará "milícias armadas do povo", como na

@@ -1,11 +1,12 @@
 ---
-title: "As empresas pagam para desenvolver e comercializar vacinas rapidamente"
+title: As empresas pagam para desenvolver e comercializar vacinas rapidamente
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Até Bill Gates já falou sobre o assunto, e você pode se surpreender com o que ele tem a dizer. É altamente controverso e irritou alguns reguladores.
 

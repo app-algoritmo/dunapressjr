@@ -1,11 +1,12 @@
 ---
-title: "Projeto proíbe em todo o País pesca puxada por embarcações motorizadas"
+title: Projeto proíbe em todo o País pesca puxada por embarcações motorizadas
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 347/22 proíbe a pesca de arrasto – puxada por embarcações motorizadas – em águas continentais (rios e lagos), no mar territorial (22 km do litoral) e na zona econômica exclusiva do País (até 370 km da costa). A proposta altera a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca ([Lei 11.959/09](https://www2.camara.gov.br/legin/fed/lei/2009/lei-11959-29-junho-2009-589114-norma-pl.html)) também para prever um sistema nacional de controle da origem do pescado. O texto está sendo analisado pela Câmara dos Deputados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Uso de enzima para combater a degeneração e envelhecimento da pele"
+title: 'Pesquisa: Uso de enzima para combater a degeneração e envelhecimento da pele'
 date: 2022-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Natália Santos do Nascimento faz mestrado no Programa de Pós-Graduação em Bioquímica-Farmacêutica da Universidade de São Paulo (USP), e quer encontrar um método para deter o processo de envelhecimento cutâneo. Ela compreende que o envelhecimento é um processo natural dos organismos, causado por diversos fatores, mas também acredita que é possível combatê-lo por meio de uma enzima, a catalase.
 

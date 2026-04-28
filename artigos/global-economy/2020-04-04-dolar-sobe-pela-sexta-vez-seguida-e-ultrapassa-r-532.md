@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe pela sexta vez seguida e ultrapassa R$ 5,32"
+title: Dólar sobe pela sexta vez seguida e ultrapassa R$ 5,32
 date: 2020-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa caiu para o menor nível em dez dias
 

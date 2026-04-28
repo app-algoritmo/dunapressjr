@@ -1,11 +1,12 @@
 ---
-title: "<strong>Confiança do consumidor sobe 4,1 pontos em agosto, diz FGV</strong>"
+title: <strong>Confiança do consumidor sobe 4,1 pontos em agosto, diz FGV</strong>
 date: 2022-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Essa é a terceira alta consecutiva do indicador.
 

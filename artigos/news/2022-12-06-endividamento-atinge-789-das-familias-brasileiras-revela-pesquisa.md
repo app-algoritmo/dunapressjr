@@ -1,11 +1,12 @@
 ---
-title: "Endividamento atinge 78,9% das famílias brasileiras, revela pesquisa"
+title: Endividamento atinge 78,9% das famílias brasileiras, revela pesquisa
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Famílias que não terão condições de pagar contas subiram para 10,9%
 

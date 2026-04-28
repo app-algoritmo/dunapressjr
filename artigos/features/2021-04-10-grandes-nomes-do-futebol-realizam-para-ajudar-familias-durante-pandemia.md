@@ -1,11 +1,12 @@
 ---
-title: "Grandes nomes do futebol realizam para ajudar famílias durante pandemia"
+title: Grandes nomes do futebol realizam para ajudar famílias durante pandemia
 date: 2021-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 ## Ação do Instituto Futebol de Rua conta com apoio de ídolos da música e da bola para que mensagem chegue para além do âmbito do futebol.
 

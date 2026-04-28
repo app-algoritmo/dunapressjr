@@ -1,11 +1,12 @@
 ---
-title: "Bem-vindo à realidade"
+title: Bem-vindo à realidade
 date: 2022-12-11
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - News
+- News
 ---
+
 
 ## É hora de acordar.
 

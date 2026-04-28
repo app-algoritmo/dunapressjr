@@ -1,11 +1,12 @@
 ---
-title: "Presidente volta a prometer zerar pedágio para motocicletas em BRs"
+title: Presidente volta a prometer zerar pedágio para motocicletas em BRs
 date: 2022-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsonaro dá exemplo da Presidente Dutra, onde medida já foi adotada.
 

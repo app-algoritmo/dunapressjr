@@ -1,11 +1,12 @@
 ---
-title: "As Vantagens Substanciais da Monarquia Parlamentar sobre a República Presidencialista"
+title: As Vantagens Substanciais da Monarquia Parlamentar sobre a República Presidencialista
 date: 2024-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Na era moderna, debates sobre sistemas de governo têm sido frequentes, especialmente entre monarquias parlamentares e repúblicas presidencialistas. Enquanto ambos possuem méritos, argumenta-se que a monarquia parlamentar oferece benefícios significativos em termos de estabilidade, representatividade e continuidade governamental.
 

@@ -1,11 +1,12 @@
 ---
-title: "O impacto social da gravidez na adolescência"
+title: O impacto social da gravidez na adolescência
 date: 2021-02-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A adolescência é uma fase bem delicada, é um período dedicado ao aprofundamento dos projetos de vida, personalidade, interesses, uma fase em que os hormônios começam a borbulhar. Portanto todo cuidado, precaução e aconselhamento são bem-vindos para evitar uma indesejável gravidez na adolescência.
 

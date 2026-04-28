@@ -1,11 +1,12 @@
 ---
-title: "Monitorada nuvem de gafanhotos que invadiu Argentina pelo Mapa"
+title: Monitorada nuvem de gafanhotos que invadiu Argentina pelo Mapa
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Superintendências foram alertadas para a orientação dos agricultores e eventual adoção de medidas de controle, caso a praga ingresse no país.
 

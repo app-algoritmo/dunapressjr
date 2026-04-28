@@ -1,11 +1,13 @@
 ---
-title: "Cuidados paliativos: hospitais SUS encontram alternativas e se tornam referência no acolhimento a pacientes com doenças graves"
+title: 'Cuidados paliativos: hospitais SUS encontram alternativas e se tornam referência
+  no acolhimento a pacientes com doenças graves'
 date: 2022-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Todos os dias eles se dedicam a respeitar o tempo da morte, a lembrar que cuidar é mais importante que curar e a questionar-se sobre prolongar a vida ou aceitar o fim. Situações assim se repetem na rotina de profissionais da saúde que trabalham nos cuidados paliativos do Hospital Universitário Cajuru, em Curitiba (PR). Quem chega para receber esse atendimento, muitas vezes tem poucas chances de cura, mas ao entrar nos corredores do hospital, logo se surpreende. Num lugar onde a morte é encarada de frente, há sempre alguém contando uma história e perto de quem ama. A tristeza é amenizada pela convicção de que não se está sozinho, nem para enfrentar a dor física da doença nem para lidar com a dor psíquica da proximidade da morte. 
 

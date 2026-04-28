@@ -1,11 +1,13 @@
 ---
-title: "Como Warren Buffett e Bill Gates estão ganhando dinheiro com a epidemia de obesidade infantil"
+title: Como Warren Buffett e Bill Gates estão ganhando dinheiro com a epidemia de
+  obesidade infantil
 date: 2023-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## *Os investimentos verticalmente integrados de Warren Buffett na produção de xarope de milho com alto teor de frutose - um ingrediente-chave em alimentos altamente processados ​​e um contribuinte para a obesidade infantil - estão trazendo grandes retornos a ele e a Bill Gates.*
 

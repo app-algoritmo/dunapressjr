@@ -1,11 +1,12 @@
 ---
-title: "Nikolas Maduro no Brasil: tudo aprovado com antecedência"
+title: 'Nikolas Maduro no Brasil: tudo aprovado com antecedência'
 date: 2023-05-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ### **Nikolas Maduro no Brasil: tudo aprovado com antecedência, mesmo com prêmio de 15 milhões de dólares oferecido pelo FBI por sua captura**
 

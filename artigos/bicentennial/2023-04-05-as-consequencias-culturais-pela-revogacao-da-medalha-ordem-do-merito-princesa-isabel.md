@@ -1,12 +1,14 @@
 ---
-title: "As consequências culturais pela revogação da medalha Ordem do Mérito Princesa Isabel"
+title: As consequências culturais pela revogação da medalha Ordem do Mérito Princesa
+  Isabel
 date: 2023-04-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
+- Bicentennial
+- News
 ---
+
 
 A revogação da medalha que homenageava a Princesa Isabel "**Ordem do Mérito Princesa Isabel**"  pode ter consequências culturais significativas para o Brasil. A Princesa Isabel foi uma figura histórica importante, tendo sido responsável pela abolição da escravidão no país em 1888. A remoção da honraria pode ser vista como uma tentativa de reescrever a história do país e apagar o papel da princesa em um dos momentos mais importantes da história brasileira.
 

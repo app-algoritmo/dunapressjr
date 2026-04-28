@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Defesa acompanha atuação do Comando Conjunto Sul na Operação Covid-19"
+title: Ministro da Defesa acompanha atuação do Comando Conjunto Sul na Operação Covid-19
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Porto Alegre (RS), 23/04/2020 -** O Ministro da Defesa, Fernando Azevedo, visitou nesta quinta-feira (23) o Centro de Coordenação de Operações do Comando Conjunto Sul da Operação Covid-19. Ao desembarcar na Ala 3, em Canoas (RS), ele acompanhou demonstração de equipamentos utilizados durante a Operação Covid-19 pelo Comando Conjunto Sul.
 

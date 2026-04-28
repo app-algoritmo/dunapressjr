@@ -1,11 +1,12 @@
 ---
-title: "Aneel e ANA aprovam nova resolução sobre estações hidrológicas"
+title: Aneel e ANA aprovam nova resolução sobre estações hidrológicas
 date: 2022-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Normativa se aplica à operação dessas estações em usinas hidrelétricas.
 

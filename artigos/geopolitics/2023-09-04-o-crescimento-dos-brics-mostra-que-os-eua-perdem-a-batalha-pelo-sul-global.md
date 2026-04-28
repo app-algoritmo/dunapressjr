@@ -1,11 +1,12 @@
 ---
-title: "O crescimento dos BRICS mostra que os EUA perdem a batalha pelo Sul Global"
+title: O crescimento dos BRICS mostra que os EUA perdem a batalha pelo Sul Global
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **A cimeira de três dias, que começou terça-feira em Joanesburgo, mostra como Washington está a lutar para exercer influência sobre o vasto e em evolução Sul Global,  [observa a Newsweek.](https://www.newsweek.com/growing-brics-bloc-shows-us-losing-battle-global-south-1821451)**
 

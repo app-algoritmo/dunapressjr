@@ -1,11 +1,12 @@
 ---
-title: "Galeria do Artesanato reabre ao público com horário especial"
+title: Galeria do Artesanato reabre ao público com horário especial
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Galeria do Artesanato, no centro de Florianópolis, reabriu para atendimento ao público com horário especial: de segunda a sexta-feira, das 13h às 18h; e aos sábados, das 9h às 13h. Para garantir a segurança do público e dos trabalhadores do espaço, é obrigatório o uso de máscara e, na entrada, será aferida a temperatura de todos os frequentadores. Será, ainda, solicitada a higienização das mãos com álcool em gel e a manutenção da distância de 1,5m entre as pessoas. O número de frequentadores terá controle para evitar aglomerações no espaço.
 

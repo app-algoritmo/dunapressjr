@@ -1,11 +1,12 @@
 ---
-title: "O Quinto Poder"
+title: O Quinto Poder
 date: 2019-08-07
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Policy
+- Policy
 ---
+
 
 ESTAMOS AQUI PARA APLICAR A LEI E **não para fazer justiça.** (Grifo meu). Foi dessa forma que um Ministro do Supremo Tribunal Federal respondeu à pergunta de uma jovem taquígrafa, em 1936... 
 

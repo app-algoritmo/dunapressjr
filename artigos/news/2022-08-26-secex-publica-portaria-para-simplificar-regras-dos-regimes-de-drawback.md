@@ -1,11 +1,12 @@
 ---
-title: "Secex publica portaria para simplificar regras dos regimes de drawback"
+title: Secex publica portaria para simplificar regras dos regimes de drawback
 date: 2022-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Regimes concedem desoneração tributária ao adquirir insumos para produtos que serão exportados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Plínio Valério pede asfaltamento de rodovias na Região Norte"
+title: Plínio Valério pede asfaltamento de rodovias na Região Norte
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) afirmou que entidades representativas do Amazonas encaminharam ao Ministério dos Transportes e outras autoridades federais e estaduais documentos em que expõem a necessidade de investimento em infraestrutura na Região Norte. Em pronunciamento nesta terça-feira (17), o parlamentar destacou que o pedido dá ênfase ao asfaltamento e manutenção das rodovias BR-319, BR-174 e BR-163.
 

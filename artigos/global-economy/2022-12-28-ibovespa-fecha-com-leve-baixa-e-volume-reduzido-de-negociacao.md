@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha com leve baixa e volume reduzido de negociação"
+title: Ibovespa fecha com leve baixa e volume reduzido de negociação
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar teve alta de 1,5% e fechou em R$ 5,28.
 

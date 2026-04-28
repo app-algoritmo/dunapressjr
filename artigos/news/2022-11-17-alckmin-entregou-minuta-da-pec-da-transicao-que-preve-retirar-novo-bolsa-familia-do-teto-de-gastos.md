@@ -1,11 +1,13 @@
 ---
-title: "Alckmin entregou minuta da PEC da Transição, que prevê retirar novo Bolsa Família do teto de gastos"
+title: Alckmin entregou minuta da PEC da Transição, que prevê retirar novo Bolsa Família
+  do teto de gastos
 date: 2022-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Texto sugerido pelo governo eleito também autoriza o uso de 40% das receitas extras para investimentos.
 

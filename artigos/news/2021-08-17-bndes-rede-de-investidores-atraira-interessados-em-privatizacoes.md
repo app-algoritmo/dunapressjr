@@ -1,11 +1,12 @@
 ---
-title: "BNDES: rede de investidores atrairá interessados em privatizações"
+title: 'BNDES: rede de investidores atrairá interessados em privatizações'
 date: 2021-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ferramenta possibilitará conexão direta entre potenciais interessados.
 

@@ -1,12 +1,14 @@
 ---
-title: "Cidade baiana e limítrofes foram a primeira região de chegada dos portugueses e marcaram o início do país"
+title: Cidade baiana e limítrofes foram a primeira região de chegada dos portugueses
+  e marcaram o início do país
 date: 2022-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Antes de se tornar independente de Portugal, em 1822, o Brasil contou com diversos acontecimentos que marcaram a sua história e levaram a tal fato. Chegada dos portugueses, capitanias hereditárias, guerra dos mascates, inconfidência mineira... o que não faltaram foram episódios que tiveram como palco cidades centenárias que hoje são importantes destinos turísticos do país. 
 

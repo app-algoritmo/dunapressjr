@@ -1,11 +1,12 @@
 ---
-title: "5 motivos para alinhar os dentes e sorrir para as fotos"
+title: 5 motivos para alinhar os dentes e sorrir para as fotos
 date: 2022-01-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Dentes tortos, separados, grandes ou muito pequenos. Grande parte das pessoas sofre com os dentes desalinhados. Uma pesquisa da Associação Americana de Ortodontia mostrou que em torno de 66% da população têm algum problema de saúde bucal associado ao mau posicionamento dos dentes. Portanto, fazer a correção não é só uma questão de estética. "Dentes tortos dificultam a escovação, podendo causar problemas periodontais como gengivite e periodontite, além de facilitar o aparecimento do tártaro e da cárie", explica a cirurgiã-dentista Caroline Aranalde, especialista da ClearCorrect.
 

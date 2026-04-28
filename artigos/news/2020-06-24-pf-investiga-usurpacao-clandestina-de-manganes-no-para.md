@@ -1,11 +1,12 @@
 ---
-title: "PF investiga usurpação clandestina de manganês no Pará"
+title: PF investiga usurpação clandestina de manganês no Pará
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belém/PA - A Polícia Federal deflagrou nesta terça-feira (23/6) a Operação Mn25, com o objetivo de desarticular grupo criminoso responsável pela usurpação clandestina de manganês com fim de exportação, no estado do Pará. O referido minério é essencial na produção de ligas como o aço e o alumínio, assim como presente na fabricação de pilhas .
 

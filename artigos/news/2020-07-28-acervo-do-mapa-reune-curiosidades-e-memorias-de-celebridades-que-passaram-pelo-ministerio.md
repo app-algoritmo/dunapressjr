@@ -1,11 +1,13 @@
 ---
-title: "Acervo do Mapa reúne curiosidades e memórias de celebridades que passaram pelo ministério"
+title: Acervo do Mapa reúne curiosidades e memórias de celebridades que passaram pelo
+  ministério
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Biblioteca Nacional de Agricultura guarda coleções de publicações sobre o setor agrícola, além de objetos como uma das primeiras pistolas utilizadas para vacinação contra a febre aftosa.
 

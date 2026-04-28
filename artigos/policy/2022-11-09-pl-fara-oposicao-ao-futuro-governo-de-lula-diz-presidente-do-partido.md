@@ -1,11 +1,12 @@
 ---
-title: "PL fará oposição ao futuro governo de Lula, diz presidente do partido"
+title: PL fará oposição ao futuro governo de Lula, diz presidente do partido
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### Costa Neto ressalta, porém, apoio a pautas de interesse público.
 

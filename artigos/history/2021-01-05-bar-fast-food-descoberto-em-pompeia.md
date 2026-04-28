@@ -1,11 +1,12 @@
 ---
-title: "Bar 'fast food' descoberto em Pompéia"
+title: Bar 'fast food' descoberto em Pompéia
 date: 2021-01-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Pato, porco, peixe, caracol ... e vinho com favas esmagadas estavam no menu, dizem os arqueólogos, quando o primeiro restaurante de comida quente - conhecido como termopólio - foi escavado.
 

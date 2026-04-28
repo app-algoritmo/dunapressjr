@@ -1,11 +1,12 @@
 ---
-title: "Fenabrave: vendas de veículos crescem 4,8% em 2022"
+title: 'Fenabrave: vendas de veículos crescem 4,8% em 2022'
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano passado, foram emplacadas 3,6 milhões de unidades.
 

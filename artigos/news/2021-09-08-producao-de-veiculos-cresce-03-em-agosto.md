@@ -1,11 +1,12 @@
 ---
-title: "Produção de veículos cresce 0,3% em agosto"
+title: Produção de veículos cresce 0,3% em agosto
 date: 2021-09-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Anfavea diz que houve aumento mesmo com fábricas paralisadas.
 

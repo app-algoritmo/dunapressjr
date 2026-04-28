@@ -1,11 +1,12 @@
 ---
-title: "Empreendedorismo inovador para rede Federal tem edital lançado pelo MEC"
+title: Empreendedorismo inovador para rede Federal tem edital lançado pelo MEC
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Saber empreender é uma das competências que podem fazer a diferença na vida profissional. Para promover o tema entre os estudantes da Rede Federal de Educação Profissional, o Ministério da Educação (MEC) lançou o edital “Empreendedorismo Inovador”, que faz parte do Programa Novos Caminhos e vai selecionar 60 projetos a serem executados ao longo dos dois próximos anos.
 

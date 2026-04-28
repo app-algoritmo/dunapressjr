@@ -1,11 +1,13 @@
 ---
-title: "Atriz Cláudia Raia, recebe autorização para captação de mais de R$ 5 milhões de reais via Lei Rouanet"
+title: Atriz Cláudia Raia, recebe autorização para captação de mais de R$ 5 milhões
+  de reais via Lei Rouanet
 date: 2023-01-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Logo depois de ser autorizado mais de 10 bilhões de reais para serem gastos com cultura, via Lei Rouanet, projetos já começam a sair da gaveta e receber dinheiro público.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reajusta preços da gasolina e diesel para as distribuidoras"
+title: Petrobras reajusta preços da gasolina e diesel para as distribuidoras
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço médio da gasolina sobe para R$ 3,86 e o do diesel, para R$ 4,51.
 

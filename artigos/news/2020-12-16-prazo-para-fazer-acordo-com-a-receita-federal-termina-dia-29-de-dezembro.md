@@ -1,11 +1,12 @@
 ---
-title: "Prazo para fazer acordo com a Receita Federal termina dia 29 de dezembro"
+title: Prazo para fazer acordo com a Receita Federal termina dia 29 de dezembro
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O acordo de transação pode dar até 50% de desconto nas negociações para pagamento de processos tributários de até 60 salários-mínimos que estejam em discussão administrativa.
 

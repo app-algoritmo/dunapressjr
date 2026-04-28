@@ -1,11 +1,13 @@
 ---
-title: "Governo argentino retira vínculo entre Salário Mínimo e Plano Potenciar Trabalho em meio a protestos iminentes"
+title: Governo argentino retira vínculo entre Salário Mínimo e Plano Potenciar Trabalho
+  em meio a protestos iminentes
 date: 2024-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz da presidência, Manuel Adorni, anunciou hoje uma mudança drástica no Plano Potenciar Trabajo, que anteriormente concedia aos beneficiários 50% do Salário Mínimo e do Salário Móvel. Em uma coletiva de imprensa na Casa do Governo, Adorni declarou que o programa "removerá" essa associação, sem fornecer detalhes sobre como o Salário Mínimo será atualizado.
 

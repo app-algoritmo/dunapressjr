@@ -1,11 +1,12 @@
 ---
-title: "Quando a arte imita a vida"
+title: Quando a arte imita a vida
 date: 2023-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Dina Sanichar (1860 ou 1861-1895) era um rapaz selvagem. Um grupo de caçadores descobriu-o entre lobos numa caverna em Bulandshahr, Uttar Pradesh, Índia, em fevereiro de 1867, com cerca de seis anos de idade. Sanichar foi enviado para o orfanato Secundra em Agra, onde viveu entre outros humanos por mais de vinte anos. Ele nunca aprendeu a falar e permaneceu seriamente prejudicado a vida inteira.
 

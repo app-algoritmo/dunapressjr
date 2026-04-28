@@ -1,11 +1,12 @@
 ---
-title: "Covid não era perigoso para mulheres grávidas não vacinadas"
+title: Covid não era perigoso para mulheres grávidas não vacinadas
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em 2020, apenas nove mulheres grávidas morreram de COVID-19 no Reino Unido
 

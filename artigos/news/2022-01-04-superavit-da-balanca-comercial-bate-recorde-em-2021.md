@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança comercial bate recorde em 2021"
+title: Superávit da balança comercial bate recorde em 2021
 date: 2022-01-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações superam importações em US$ 61,01 bilhões.
 

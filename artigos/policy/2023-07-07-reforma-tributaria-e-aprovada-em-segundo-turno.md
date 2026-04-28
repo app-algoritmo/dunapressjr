@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária é aprovada em segundo turno"
+title: Reforma tributária é aprovada em segundo turno
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Aprovado texto-base que cria o IBS e a CBS, isenta cesta básica e reduz alíquotas em setores como educação e saúde.
 

@@ -1,11 +1,12 @@
 ---
-title: "MME: acordo entre Opep e Rússia contribuirá para estabilizar o mercado"
+title: 'MME: acordo entre Opep e Rússia contribuirá para estabilizar o mercado'
 date: 2020-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Albuquerque participou de videoconferência entre ministros do G20
 

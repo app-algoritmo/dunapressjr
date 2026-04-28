@@ -1,11 +1,12 @@
 ---
-title: "Operações da Reduc e Polo Gaslub serão abastecidas com água de reúso"
+title: Operações da Reduc e Polo Gaslub serão abastecidas com água de reúso
 date: 2022-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 28,9 milhões de m³ de água serão reutilizados, diz Petrobras.
 

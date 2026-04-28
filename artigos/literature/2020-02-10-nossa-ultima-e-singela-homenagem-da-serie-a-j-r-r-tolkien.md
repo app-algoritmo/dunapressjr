@@ -1,11 +1,12 @@
 ---
-title: "Nossa última e singela homenagem da série a J. R. R. Tolkien"
+title: Nossa última e singela homenagem da série a J. R. R. Tolkien
 date: 2020-02-10
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Temos o prazer de apresentar a entrevista que fizemos com **Guilherme Mazzafera**, doutorando em Literatura Brasileira pela USP, com pesquisa sobre *Otto Maria Carpeaux*. Ele também é professor de Literatura, colunista do blog *Letras in.verso e re.verso* e atua como revisor e tradutor junto a *HarperCollins Brasil* no projeto de publicação das obras de J. R. R. Tolkien.  Lançamos esta entrevista para enriquecer a visão de todos com respeito a obra deste gênio.  
 

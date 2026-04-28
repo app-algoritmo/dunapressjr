@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que obriga escola a adotar medidas para acolher aluna que amamenta"
+title: Comissão aprova projeto que obriga escola a adotar medidas para acolher aluna
+  que amamenta
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou o [Projeto de Lei 451/19](https://www.camara.leg.br/noticias/552642-ESCOLA-PUBLICA-PODERA-TER-QUE-ADAPTAR-INSTALACOES-PARA-ATENDER-ALUNAS-GRAVIDAS), que obriga o Estado a adotar medidas de acolhimento às adolescentes grávidas, no pós-parto (puerpério) ou que amamentam nas escolas públicas, adaptando instalações ou facultando a utilização de programas de ensino a distância.
 

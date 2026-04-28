@@ -1,12 +1,13 @@
 ---
-title: "Trem Bala - Uma Aventura Alucinante"
+title: Trem Bala - Uma Aventura Alucinante
 date: 2022-12-14
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Video library
+- Books
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

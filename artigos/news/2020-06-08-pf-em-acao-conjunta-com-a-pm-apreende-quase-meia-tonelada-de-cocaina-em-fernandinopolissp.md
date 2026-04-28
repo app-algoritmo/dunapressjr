@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta com a PM, apreende quase meia tonelada de cocaína em Fernandinópolis/SP"
+title: PF, em ação conjunta com a PM, apreende quase meia tonelada de cocaína em Fernandinópolis/SP
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Jales/SP - Policiais federais, com apoio de policiais militares de Fernandópolis/SP apreendeu, na tarde desta sexta-feira (5/6), uma aeronave que transportava 490 quilos de cocaína. Dois homens foram presos, sendo um deles o piloto.
 

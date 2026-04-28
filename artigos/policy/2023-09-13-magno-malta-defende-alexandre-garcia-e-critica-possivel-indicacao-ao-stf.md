@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta defende Alexandre Garcia e critica possível indicação ao STF"
+title: Magno Malta defende Alexandre Garcia e critica possível indicação ao STF
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) defendeu, em pronunciamento no Plenário nesta segunda-feira (11), o jornalista Alexandre Garcia em relação ao pedido de investigação da Advocacia-Geral da União (AGU) sobre a divulgação de informações falsas. O jornalista, sem apresentar provas, teria dito que três represas construídas no atual governo tiveram as comportas abertas durante as tempestades no Rio Grande do Sul (RS), aumentando o volume de água responsável pela tragédia no estado.
 

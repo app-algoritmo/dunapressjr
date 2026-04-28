@@ -1,11 +1,13 @@
 ---
-title: "Governo faz relatório inédito no Brasil, sobre tratamento da população LGBT nas prisões"
+title: Governo faz relatório inédito no Brasil, sobre tratamento da população LGBT
+  nas prisões
 date: 2020-02-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos publicou, no mês de fevereiro, um relatório inédito sobre o tratamento dispensado às pessoas integrantes da população LGBT nas prisões do país. Chamado de “LGBT nas prisões do Brasil: Diagnóstico dos procedimentos institucionais e experiências de encarceramento”, o documento é uma iniciativa da Secretaria Nacional de Proteção Global (SNPG).
 

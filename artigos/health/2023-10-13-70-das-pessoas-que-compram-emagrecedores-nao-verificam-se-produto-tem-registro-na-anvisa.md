@@ -1,11 +1,13 @@
 ---
-title: "70% das pessoas que compram emagrecedores não verificam se produto tem registro na Anvisa"
+title: 70% das pessoas que compram emagrecedores não verificam se produto tem registro
+  na Anvisa
 date: 2023-10-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Nomes semelhantes e falta de orientação do profissional de saúde aumentam riscos de complicações e não garantem resultados desejados.
 

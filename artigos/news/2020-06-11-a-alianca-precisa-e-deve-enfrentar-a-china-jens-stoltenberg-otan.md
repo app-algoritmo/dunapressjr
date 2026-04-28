@@ -1,11 +1,12 @@
 ---
-title: "A aliança precisa e deve enfrentar a China!, Jens Stoltenberg - OTAN"
+title: A aliança precisa e deve enfrentar a China!, Jens Stoltenberg - OTAN
 date: 2020-06-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Secretário-Geral da OTAN Jens Stoltenberg também ex Primeiro Ministro da Noruega 2000-2013 em seu pronunciamento sobre o lançamento do  programa #**NATO2030 - Fortalecendo a Aliança em um mundo cada vez mais competitivo** deixa a seguinte mensagem: "A aliança precisa e deve enfrentar a China!", OTAN
 

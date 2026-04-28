@@ -1,11 +1,13 @@
 ---
-title: "Ex-vice-presidente da Pfizer: Existe um plano para matar milhões, senão bilhões de pessoas"
+title: 'Ex-vice-presidente da Pfizer: Existe um plano para matar milhões, senão bilhões
+  de pessoas'
 date: 2023-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Atualmente, somos testemunhas de um crime em andamento. Estou convencido de que será o maior crime da história. 
 

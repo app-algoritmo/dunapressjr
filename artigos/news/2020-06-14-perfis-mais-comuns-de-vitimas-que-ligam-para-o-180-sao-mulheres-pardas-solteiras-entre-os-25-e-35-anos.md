@@ -1,11 +1,13 @@
 ---
-title: "Perfis mais comuns de vítimas, que ligam para  o 180 são mulheres pardas, solteiras entre os 25 e 35 anos"
+title: Perfis mais comuns de vítimas, que ligam para  o 180 são mulheres pardas, solteiras
+  entre os 25 e 35 anos
 date: 2020-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mulheres que se declaram brancas compõem o segundo grupo mais afetado por violações. Enquanto as mulheres pardas sofrem mais de 43% das 85.412 denúncias registradas, as brancas representam 37% desse total.
 

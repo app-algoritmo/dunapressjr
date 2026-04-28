@@ -1,11 +1,12 @@
 ---
-title: "Petrobras doará combustível para ambulâncias e hospitais de campanha"
+title: Petrobras doará combustível para ambulâncias e hospitais de campanha
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estatal também destinará R$ 30 milhões a doações de equipamentos como testes de diagnósticos, máscaras e materiais de higiene e segurança. Estatal ainda destinará R$ 30 milhões a doações, incluindo kits de testes de diagnósticos, máscaras, materiais de higiene e segurança.
 

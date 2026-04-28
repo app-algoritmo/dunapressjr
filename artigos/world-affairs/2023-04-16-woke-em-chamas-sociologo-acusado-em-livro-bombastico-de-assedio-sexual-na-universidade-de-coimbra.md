@@ -1,11 +1,13 @@
 ---
-title: "Woke em chamas: Sociólogo acusado em livro bombástico de assédio sexual na universidade de coimbra"
+title: 'Woke em chamas: Sociólogo acusado em livro bombástico de assédio sexual na
+  universidade de coimbra'
 date: 2023-04-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Guru da esquerda acusado de assédio sexual.
 

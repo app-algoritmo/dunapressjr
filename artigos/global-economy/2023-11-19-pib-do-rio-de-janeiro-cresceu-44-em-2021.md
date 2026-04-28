@@ -1,11 +1,12 @@
 ---
-title: "PIB do Rio de Janeiro cresceu 4,4% em 2021"
+title: PIB do Rio de Janeiro cresceu 4,4% em 2021
 date: 2023-11-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Participação do estado no PIB nacional também aumentou, passando de 9,9%, em 2020, para 10,5%.
 

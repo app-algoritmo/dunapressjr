@@ -1,11 +1,12 @@
 ---
-title: "Intercooperação mostra ao Brasil o caminho do sucesso"
+title: Intercooperação mostra ao Brasil o caminho do sucesso
 date: 2021-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 “A dificuldade é um severo instrutor.” A frase do filósofo irlandês Edmund Burke, que se referiu à Revolução Francesa, pode parecer banal e até um pouco “batida” para a realidade imediatista e tecnológica do século XXI. Mas, se a pandemia nos deu boas e duras lições, o aforismo de Burke nunca esteve tão atual para o momento de reavaliação de nossas vidas pessoais e profissionais.
 

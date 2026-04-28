@@ -1,11 +1,12 @@
 ---
-title: "Ampliação do auxílio emergencial para mais trabalhadores será votada hoje"
+title: Ampliação do auxílio emergencial para mais trabalhadores será votada hoje
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi transferida para a quarta-feira (22), às 16h, a sessão deliberativa remota do Senado Federal para votar a proposta que amplia para mais pessoas o direito de receber o auxílio emergencial de R$ 600,00 que está sendo pago a trabalhadores de baixa renda prejudicados pela pandemia do coronavírus. A sessão desta segunda-feira (20) foi cancelada pelo presidente do Senado, Davi Alcolumbre.
 

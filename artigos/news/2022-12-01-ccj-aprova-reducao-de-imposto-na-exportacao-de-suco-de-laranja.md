@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova redução de imposto na exportação de suco de laranja"
+title: CCJ aprova redução de imposto na exportação de suco de laranja
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Constituição e Justiça e de Cidadania (CCJC) da Câmara dos Deputados aprovou o Projeto de Decreto Legislativo (PDL) 355/20, do deputado [Alceu Moreira (MDB-RS)](https://www.camara.leg.br/deputados/160559), que muda o cálculo do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) para exportações de suco de laranja. Na prática, a proposta reduz a tributação ao sustar a Solução de Consulta Interna 2/19 da Receita Federal do Brasil, que impede o desconto de despesas de frete, seguro e impostos estrangeiros sobre o preço do produto.
 

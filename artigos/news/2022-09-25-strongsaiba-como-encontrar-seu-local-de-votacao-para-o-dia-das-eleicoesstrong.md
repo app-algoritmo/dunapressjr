@@ -1,11 +1,12 @@
 ---
-title: "<strong>Saiba como encontrar seu local de votação para o dia das eleições</strong>"
+title: <strong>Saiba como encontrar seu local de votação para o dia das eleições</strong>
 date: 2022-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Busca pode ser feita no site do Tribunal Superior Eleitoral.
 

@@ -1,11 +1,13 @@
 ---
-title: "Selos de 2.500 anos podem mostrar judeus reconstruindo Jerusalém após o exílio do primeiro templo"
+title: Selos de 2.500 anos podem mostrar judeus reconstruindo Jerusalém após o exílio
+  do primeiro templo
 date: 2021-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Evidências raras de quando e como Jerusalém foi reassentada após o exílio babilônico de 586 AEC foram descobertas em uma escavação na Cidade de Davi, fora das muralhas da Cidade Velha.
 

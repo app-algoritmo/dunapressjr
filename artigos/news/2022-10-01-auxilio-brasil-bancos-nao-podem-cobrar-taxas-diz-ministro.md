@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Brasil: bancos não podem cobrar taxas, diz ministro"
+title: 'Auxílio Brasil: bancos não podem cobrar taxas, diz ministro'
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Juros a serem praticados é de 3,5% ao mês.
 

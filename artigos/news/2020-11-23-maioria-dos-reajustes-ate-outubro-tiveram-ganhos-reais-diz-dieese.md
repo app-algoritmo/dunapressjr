@@ -1,11 +1,12 @@
 ---
-title: "Maioria dos reajustes até outubro tiveram ganhos reais, diz Dieese"
+title: Maioria dos reajustes até outubro tiveram ganhos reais, diz Dieese
 date: 2020-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 41% das negociações houve reajustes superiores ao INPC.
 

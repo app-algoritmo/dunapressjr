@@ -1,11 +1,12 @@
 ---
-title: "OMS pede guia sobre 'sexualidade para crianças pequenas'"
+title: OMS pede guia sobre 'sexualidade para crianças pequenas'
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Organização Mundial da Saúde (OMS) provocou uma reação violenta com seu novo guia incentivando pais e professores a 'explorar' questões de adultos com crianças 'desde o nascimento'.
 

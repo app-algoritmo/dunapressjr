@@ -1,11 +1,12 @@
 ---
-title: "Saiba como se alimentar de forma saudável durante o inverno"
+title: Saiba como se alimentar de forma saudável durante o inverno
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Nutricionista traz dicas para manter a imunidade e evitar os excessos nesse período de frio.
 

@@ -1,11 +1,13 @@
 ---
-title: "Esquerdistas reclamam depois que Elon Musk rotula com precisão os meios de comunicação estatais como sendo financiados por governos"
+title: Esquerdistas reclamam depois que Elon Musk rotula com precisão os meios de
+  comunicação estatais como sendo financiados por governos
 date: 2023-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os esquerdistas odeiam a transparência mais do que tudo, porque quando são forçados a admitir quem e o que são, perdem apoio para suas políticas e ideologia.
 

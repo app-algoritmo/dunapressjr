@@ -1,12 +1,14 @@
 ---
-title: "Racismo e antissemitismo estão envenenando as instituições democráticas, disse o presidente alemão"
+title: Racismo e antissemitismo estão envenenando as instituições democráticas, disse
+  o presidente alemão
 date: 2020-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O presidente da Alemanha, Frank-Walter Steinmeier, afirmou que é preciso rejeitar o racismo e o antissemitismo, que segundo ele estão começando a “envenenar” as instituições democráticas do país. A declaração foi feita durante cerimônia pelo aniversário de 75 anos do bombardeio em Dresden pelos Aliados, que matou mais de 25 mil pessoas no final da Segunda Guerra Mundial. A cidade, no Leste da Alemanha, é uma espécie de fortaleza da extrema direita, e lá movimentos neonazistas chamam o ataque feito pelos americanos e britânicos de “holocausto de bombas”, equiparando-o ao Holocausto de 6 milhões de judeus pelos nazistas.
 

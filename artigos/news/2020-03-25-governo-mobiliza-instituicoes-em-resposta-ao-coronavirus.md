@@ -1,11 +1,12 @@
 ---
-title: "Governo mobiliza instituições em resposta ao coronavírus"
+title: Governo mobiliza instituições em resposta ao coronavírus
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde a primeira reunião da Rede Viroses Emergentes (RedeVírus MCTIC), em fevereiro, o Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) tem mobilizado unidades de pesquisa, Institutos de Ciência e Tecnologia e laboratórios em resposta à emergência do novo coronavírus (Covid-19). A Rede é um comitê que reúne especialistas, representantes de governo, agências de fomento do ministério, centros de pesquisa e universidades com o objetivo de integrar iniciativas em combate a viroses emergentes.
 

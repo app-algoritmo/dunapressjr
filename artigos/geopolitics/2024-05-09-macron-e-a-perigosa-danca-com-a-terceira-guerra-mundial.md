@@ -1,11 +1,12 @@
 ---
-title: "Macron e a Perigosa Dança com a Terceira Guerra Mundial"
+title: Macron e a Perigosa Dança com a Terceira Guerra Mundial
 date: 2024-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente francês, Emmanuel Macron, tem sido alvo de intensa controvérsia e desaprovação à medida que se aproxima das eleições europeias em junho. Com uma desaprovação de 68%, Macron parece desesperado para manter o poder e evitar a ascensão da direita. No entanto, suas táticas políticas estão se tornando cada vez mais arriscadas, com insinuações de que ele está tentando levar a Europa a uma guerra global para manter sua relevância.
 

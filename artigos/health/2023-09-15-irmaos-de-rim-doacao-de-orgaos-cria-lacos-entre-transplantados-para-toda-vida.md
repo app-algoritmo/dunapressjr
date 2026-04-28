@@ -1,11 +1,13 @@
 ---
-title: "Irmãos de rim: doação de órgãos cria laços entre transplantados para toda vida"
+title: 'Irmãos de rim: doação de órgãos cria laços entre transplantados para toda
+  vida'
 date: 2023-09-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Com mais de 4,2 mil transplantes de órgãos no primeiro semestre, Brasil desponta como líder mundial e reúne histórias de pessoas que tiveram nova chance após cirurgia.
 

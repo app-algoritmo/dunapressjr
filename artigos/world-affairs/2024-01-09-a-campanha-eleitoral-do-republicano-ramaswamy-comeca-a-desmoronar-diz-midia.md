@@ -1,11 +1,12 @@
 ---
-title: "A campanha eleitoral do republicano Ramaswamy começa a desmoronar, diz mídia"
+title: A campanha eleitoral do republicano Ramaswamy começa a desmoronar, diz mídia
 date: 2024-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Autoridades republicanas disseram que muitos dos funcionários da campanha de Ramaswamy começaram a procurar novos empregos dentro do partido em novembro passado.
 

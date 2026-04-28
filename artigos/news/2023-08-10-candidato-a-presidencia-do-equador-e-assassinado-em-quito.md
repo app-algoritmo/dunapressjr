@@ -1,11 +1,12 @@
 ---
-title: "Candidato à presidência do Equador é assassinado em Quito"
+title: Candidato à presidência do Equador é assassinado em Quito
 date: 2023-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Villavicencio foi baleado durante ato de campanha. 
 

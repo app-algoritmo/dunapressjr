@@ -1,11 +1,12 @@
 ---
-title: "Bolsa reage e volta a subir após quatro sessões de queda"
+title: Bolsa reage e volta a subir após quatro sessões de queda
 date: 2020-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha estável e continua no maior nível em cinco meses.
 

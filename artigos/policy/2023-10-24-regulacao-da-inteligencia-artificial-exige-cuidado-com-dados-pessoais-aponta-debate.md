@@ -1,11 +1,13 @@
 ---
-title: "Regulação da inteligência artificial exige cuidado com dados pessoais, aponta debate"
+title: Regulação da inteligência artificial exige cuidado com dados pessoais, aponta
+  debate
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em audiência pública promovida na manhã desta quinta-feira (19) na Comissão Temporária sobre Inteligência Artificial no Brasil (CTIA), especialistas e parlamentares defenderam que o projeto de lei que regulamenta o uso de IA no país deve ter cautela em relação ao uso de dados pessoais. De autoria do senador Rodrigo Pacheco, presidente do Senado, o [PL 2.338/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157233) é derivado do anteprojeto apresentado por uma comissão de juristas. A audiência faz parte de ciclo de debates requerido ([REQ 4/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160290)) pelo senador Eduardo Gomes (PL-TO), relator da comissão.
 

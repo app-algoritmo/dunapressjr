@@ -1,11 +1,12 @@
 ---
-title: "Itajaí monta Centro de Reabilitação Pós-COVID"
+title: Itajaí monta Centro de Reabilitação Pós-COVID
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os moradores de Itajaí que ficaram com sequelas respiratórias, motoras ou emocionais em função da COVID-19 poderão fazer tratamento no novo Centro de Reabilitação Pós-COVID a partir de segunda-feira (14). O Município está finalizando a montagem da unidade após identificar uma demanda por reabilitação entre pacientes e servidores que foram infectados pelo coronavírus. A intenção é reduzir e tratar os impactos da doença, melhorando a qualidade de vida da população.
 

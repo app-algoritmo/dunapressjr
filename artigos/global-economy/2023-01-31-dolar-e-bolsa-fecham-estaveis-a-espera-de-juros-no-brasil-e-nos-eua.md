@@ -1,11 +1,12 @@
 ---
-title: "Dólar e bolsa fecham estáveis à espera de juros no Brasil e nos EUA"
+title: Dólar e bolsa fecham estáveis à espera de juros no Brasil e nos EUA
 date: 2023-01-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## O dólar comercial encerrou o dia vendido a R$ 5,115, com alta de 0,06%.
 

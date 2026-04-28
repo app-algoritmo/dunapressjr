@@ -1,11 +1,12 @@
 ---
-title: "No dia 10 de agosto, é considerado o Dia do Protetor de Animais!"
+title: No dia 10 de agosto, é considerado o Dia do Protetor de Animais!
 date: 2024-08-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No dia 10 de agosto, é considerado o Dia do Protetor de Animais!
 

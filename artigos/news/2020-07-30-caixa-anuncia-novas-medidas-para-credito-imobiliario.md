@@ -1,11 +1,12 @@
 ---
-title: "Caixa anuncia novas medidas para crédito imobiliário"
+title: Caixa anuncia novas medidas para crédito imobiliário
 date: 2020-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Presidente do banco, Pedro Guimarães, faz anúncio durante entrevista.
 

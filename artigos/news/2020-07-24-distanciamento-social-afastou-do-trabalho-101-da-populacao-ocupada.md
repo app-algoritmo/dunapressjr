@@ -1,11 +1,12 @@
 ---
-title: "Distanciamento social afastou do trabalho 10,1% da população ocupada"
+title: Distanciamento social afastou do trabalho 10,1% da população ocupada
 date: 2020-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dado do IBGE é referente ao período de 28 de junho a 4 de julho.
 

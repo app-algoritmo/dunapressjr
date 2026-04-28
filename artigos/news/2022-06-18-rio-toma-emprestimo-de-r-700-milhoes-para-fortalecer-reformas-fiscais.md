@@ -1,11 +1,12 @@
 ---
-title: "Rio toma empréstimo de R$ 700 milhões para fortalecer reformas fiscais"
+title: Rio toma empréstimo de R$ 700 milhões para fortalecer reformas fiscais
 date: 2022-06-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor foi aprovado quinta-feira pelo Conselho Diretor do Banco Mundial.
 

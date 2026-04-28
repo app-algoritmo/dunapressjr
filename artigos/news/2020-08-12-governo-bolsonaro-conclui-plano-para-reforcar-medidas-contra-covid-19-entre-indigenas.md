@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro conclui plano para reforçar medidas contra covid-19 entre indígenas"
+title: Governo Bolsonaro conclui plano para reforçar medidas contra covid-19 entre
+  indígenas
 date: 2020-08-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Garantia de segurança alimentar das comunidades e a ampliação do número de barreiras sanitárias são alguns dos temas abordados.
 

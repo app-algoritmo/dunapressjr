@@ -1,11 +1,12 @@
 ---
-title: "<strong>O Primeiro Concerto Musical Público</strong>"
+title: <strong>O Primeiro Concerto Musical Público</strong>
 date: 2021-01-30
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 Em nosso tempo moderno, é comum irmos a concertos e shows de nossos artistas favoritos, para isso, precisamos somente desembolsar uma quantia justa para pagamento do evento. O artista tem então seu trabalho compensado financeiramente, podendo não somente sobreviver por conta própria, mas também continuar fazendo o que mais gosta, com o gozo e liberdade.
 

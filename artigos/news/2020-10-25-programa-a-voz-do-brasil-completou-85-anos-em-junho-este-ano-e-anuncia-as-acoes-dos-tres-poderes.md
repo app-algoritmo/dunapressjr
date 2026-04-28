@@ -1,11 +1,13 @@
 ---
-title: "Programa A Voz do Brasil completou 85 anos em junho este ano e anuncia as ações dos Três Poderes"
+title: Programa A Voz do Brasil completou 85 anos em junho este ano e anuncia as ações
+  dos Três Poderes
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A portaria que estabelece as condições, critérios e procedimentos para a flexibilização e a dispensa do horário de retransmissão obrigatória do programa de rádio A Voz do Brasil pelas emissoras de radiodifusão sonora está publicada na edição desta sexta-feira (23) do [Diário Oficial da União](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/10/2020&jornal=515&pagina=390).
 

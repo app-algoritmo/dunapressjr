@@ -1,11 +1,12 @@
 ---
-title: "Meteorito cai e atinge casa nos EUA"
+title: Meteorito cai e atinge casa nos EUA
 date: 2023-05-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## A queda do meteorito não deixou feridos e provavelmente está associada a chuva de meteoros Eta Aquariid, que acontece atualmente.
 

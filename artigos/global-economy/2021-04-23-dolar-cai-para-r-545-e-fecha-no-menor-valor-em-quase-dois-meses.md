@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,45 e fecha no menor valor em quase dois meses"
+title: Dólar cai para R$ 5,45 e fecha no menor valor em quase dois meses
 date: 2021-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa tem terceira queda seguida, influenciada pelo exterior.
 

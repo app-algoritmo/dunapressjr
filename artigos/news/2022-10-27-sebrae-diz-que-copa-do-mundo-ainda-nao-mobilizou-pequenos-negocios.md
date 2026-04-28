@@ -1,11 +1,12 @@
 ---
-title: "Sebrae diz que Copa do Mundo ainda não mobilizou pequenos negócios"
+title: Sebrae diz que Copa do Mundo ainda não mobilizou pequenos negócios
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa mostra que 67% das empresas não estão se preparando para data.
 

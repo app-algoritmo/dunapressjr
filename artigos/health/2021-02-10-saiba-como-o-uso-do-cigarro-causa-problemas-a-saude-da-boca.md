@@ -1,11 +1,12 @@
 ---
-title: "Saiba como o uso do cigarro causa problemas à saúde da boca"
+title: Saiba como o uso do cigarro causa problemas à saúde da boca
 date: 2021-02-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A nicotina do cigarro causa dependência extrema. Por isso não é fácil deixar de fumar. O tabagismo resulta em vários problemas de saúde. A boca é uma das áreas mais afetadas. As consequências vão desde dentes manchados, doenças gengivais, até câncer de boca. De acordo com o Instituto Nacional de Câncer (INCA), o câncer de boca está entre os dez tumores mais comuns do Brasil. Ele acomete mais homens acima dos 40 anos. Além do tabagismo, infecção pelo HPV e radiação solar também são fatores de risco para esse tipo de câncer.
 

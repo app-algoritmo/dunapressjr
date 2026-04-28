@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que economia brasileira não passa por choque externo"
+title: Guedes diz que economia brasileira não passa por choque externo
 date: 2020-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministro participa de audiência virtual em comissão do Congresso
 O ministro da Economia, Paulo Guedes, disse hoje (30) que o Brasil não está passando por choque externo por causa da pandemia da covid-19. Guedes participa de audiência pública virtual na Comissão Mista do Congresso de Acompanhamento das Medidas Relacionadas à Covid-19.

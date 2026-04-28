@@ -1,11 +1,12 @@
 ---
-title: "Irã e China Buscam Expandir Relações Bilaterais em Diversos Setores"
+title: Irã e China Buscam Expandir Relações Bilaterais em Diversos Setores
 date: 2024-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente da Associação de Amizade Irã-China, Alaeddin Boroujerdi, reafirmou o compromisso da República Islâmica em fortalecer os laços com a China durante uma reunião com uma delegação da província de Jiangxi na segunda-feira.
 

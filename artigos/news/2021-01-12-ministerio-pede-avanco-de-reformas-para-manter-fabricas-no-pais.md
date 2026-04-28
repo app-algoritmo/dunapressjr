@@ -1,11 +1,12 @@
 ---
-title: "Ministério pede avanço de reformas para manter fábricas no país"
+title: Ministério pede avanço de reformas para manter fábricas no país
 date: 2021-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo governo, decisão da Ford destoa do resto da indústria.
 

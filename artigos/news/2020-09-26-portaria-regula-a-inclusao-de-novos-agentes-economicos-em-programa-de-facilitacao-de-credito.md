@@ -1,11 +1,13 @@
 ---
-title: "Portaria regula a inclusão de novos agentes econômicos em programa de facilitação de crédito"
+title: Portaria regula a inclusão de novos agentes econômicos em programa de facilitação
+  de crédito
 date: 2020-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Peac, Programa Emergencial de Acesso a Crédito, já aprovou financiamentos de R$ 53 bilhões para 69 mil empresas.
 

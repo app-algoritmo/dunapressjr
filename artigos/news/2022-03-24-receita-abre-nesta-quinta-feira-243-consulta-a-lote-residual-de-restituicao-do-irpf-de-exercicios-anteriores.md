@@ -1,11 +1,13 @@
 ---
-title: "Receita abre nesta quinta-feira, 24/3, consulta a lote residual de restituição do IRPF de exercícios anteriores"
+title: Receita abre nesta quinta-feira, 24/3, consulta a lote residual de restituição
+  do IRPF de exercícios anteriores
 date: 2022-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estão sendo contemplados 212 mil contribuintes, entre prioritários e não prioritários. O valor total do crédito é de R$ 210 milhões.
 

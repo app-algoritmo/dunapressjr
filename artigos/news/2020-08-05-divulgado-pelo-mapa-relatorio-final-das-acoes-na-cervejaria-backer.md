@@ -1,11 +1,12 @@
 ---
-title: "Divulgado pelo Mapa relatório final das ações na Cervejaria Backer"
+title: Divulgado pelo Mapa relatório final das ações na Cervejaria Backer
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério da Agricultura retirou do mercado mais de 80 mil litros de cerveja contaminada da empresa.
 

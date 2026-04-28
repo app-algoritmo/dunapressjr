@@ -1,11 +1,13 @@
 ---
-title: "MTur, Wakalua e OMT lançam desafio de startups para acelerar a retomada do turismo através da inovação"
+title: MTur, Wakalua e OMT lançam desafio de startups para acelerar a retomada do
+  turismo através da inovação
 date: 2020-07-15
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Projetos finalistas se classificam para competição global e podem ganhar viagem a Madri. Inscrições estão abertas até 2 de setembro.
 

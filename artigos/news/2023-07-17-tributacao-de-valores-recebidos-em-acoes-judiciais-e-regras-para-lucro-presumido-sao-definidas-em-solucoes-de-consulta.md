@@ -1,11 +1,13 @@
 ---
-title: "Tributação de valores recebidos em ações judiciais e regras para lucro presumido são definidas em Soluções de Consulta"
+title: Tributação de valores recebidos em ações judiciais e regras para lucro presumido
+  são definidas em Soluções de Consulta
 date: 2023-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Imposto sobre a Renda de Pessoa Física - IRPF
 

@@ -1,11 +1,12 @@
 ---
-title: "IPC-S recua em maio em cinco capitais pesquisadas"
+title: IPC-S recua em maio em cinco capitais pesquisadas
 date: 2022-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda mais intensa ocorreu em Brasília.
 

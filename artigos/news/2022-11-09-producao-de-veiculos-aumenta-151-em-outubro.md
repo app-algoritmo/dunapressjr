@@ -1,11 +1,12 @@
 ---
-title: "Produção de veículos aumenta 15,1% em outubro"
+title: Produção de veículos aumenta 15,1% em outubro
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bloqueio de rodovias impactou vendas no último dia do mês, diz Anfavea.
 

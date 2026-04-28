@@ -1,12 +1,13 @@
 ---
-title: "Guia Prático para Maximizar o seu Dinheiro"
+title: Guia Prático para Maximizar o seu Dinheiro
 date: 2023-04-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 ## Investimentos Inteligentes
 

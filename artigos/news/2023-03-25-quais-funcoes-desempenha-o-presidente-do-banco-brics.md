@@ -1,12 +1,13 @@
 ---
-title: "Quais funções desempenha o presidente do banco BRICS?"
+title: Quais funções desempenha o presidente do banco BRICS?
 date: 2023-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O Banco BRICS, oficialmente chamado de Novo Banco de Desenvolvimento (NBD), é uma instituição financeira multilateral criada pelos países do BRICS - Brasil, Rússia, Índia, China e África do Sul - com o objetivo de apoiar projetos de infraestrutura e desenvolvimento sustentável em seus membros e em outros países emergentes. O presidente do Novo Banco de Desenvolvimento desempenha um papel fundamental na liderança e no funcionamento da instituição.
 

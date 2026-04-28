@@ -1,11 +1,12 @@
 ---
-title: "EUA montam entregas de armas a Israel"
+title: EUA montam entregas de armas a Israel
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Pentágono disse que utiliza diversas fontes de abastecimento, incluindo os seus próprios stocks e canais industriais para garantir autodefesa suficiente a Israel.
 

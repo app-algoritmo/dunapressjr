@@ -1,11 +1,12 @@
 ---
-title: "ABRAS: Consumo nos Lares Brasileiros cresce 1,07% em janeiro"
+title: 'ABRAS: Consumo nos Lares Brasileiros cresce 1,07% em janeiro'
 date: 2023-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço da carne bovina tem forte recuo nas regiões Sul e Sudeste. Arroz, feijão e derivados do leite puxaram a alta de preços da cesta de alimentos básicos.
 

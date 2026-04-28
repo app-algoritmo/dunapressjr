@@ -1,11 +1,12 @@
 ---
-title: "Comando da Força Aeronaval promove segunda ação educativa em combate ao coronavírus"
+title: Comando da Força Aeronaval promove segunda ação educativa em combate ao coronavírus
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Comando da Força Aeronaval deu continuidade às ações educativas, em parceria com a Prefeitura de São Pedro da Aldeia, na Região dos Lagos do Rio de Janeiro, no dia 8 de maio. Unindo esforços para conter a propagação do novo coronavírus, os militares e agentes da Prefeitura distribuíram máscaras reutilizáveis e panfletos contendo orientações preventivas.
 

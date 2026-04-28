@@ -1,11 +1,12 @@
 ---
-title: "Como abrir uma conta bancária digital com renda fixa"
+title: Como abrir uma conta bancária digital com renda fixa
 date: 2022-10-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Se você está procurando uma maneira conveniente e moderna de fazer um banco, definitivamente deve considerar abrir uma conta bancária digital. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal combate crimes sexuais contra crianças na internet em Campina Grande/PB"
+title: Polícia Federal combate crimes sexuais contra crianças na internet em Campina
+  Grande/PB
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação resulta em cumprimento de Mandado de Busca e Apreensão contra suspeito de armazenar e compartilhar material pedopornográfico.
 

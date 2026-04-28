@@ -1,11 +1,13 @@
 ---
-title: "Comunidades indígenas de São Gabriel da Cachoeira recebem assistência à saúde, alimentos e medicamentos"
+title: Comunidades indígenas de São Gabriel da Cachoeira recebem assistência à saúde,
+  alimentos e medicamentos
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Foi instalada em São Gabriel da Cachoeira, no Amazonas, com o apoio da 2ª Brigada de Infantaria de Selva (2ª Bda Inf Sl), uma base de operação interministerial em atenção à população indígena da Região do Alto Rio Negro. É a partir desse local que saem as equipes de saúde das Forças Armadas e os insumos, em direção aos sete Pelotões Especiais de Fronteira (PEF) na região. 
 

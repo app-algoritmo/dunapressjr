@@ -1,11 +1,12 @@
 ---
-title: "Hemofilia é hereditária e afeta a coagulação do sangue"
+title: Hemofilia é hereditária e afeta a coagulação do sangue
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A hemofilia é um distúrbio genético e hereditário que compromete a capacidade do corpo em formar coágulos, tão necessários para interromper as hemorragias. Isso acontece quando há ausência de proteínas, substâncias que, dentre inúmeras funções, ajudam na coagulação.
 

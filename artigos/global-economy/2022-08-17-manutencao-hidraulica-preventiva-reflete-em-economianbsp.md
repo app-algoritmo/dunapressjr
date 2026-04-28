@@ -1,11 +1,12 @@
 ---
-title: "Manutenção hidráulica preventiva reflete em economia&nbsp;"
+title: Manutenção hidráulica preventiva reflete em economia&nbsp;
 date: 2022-08-17
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O encanamento é uma das partes mais importantes de um imóvel, mas, na maioria das vezes, acaba sendo negligenciado. Isso porque muitas pessoas têm o costume de realizar revisões na tubulação apenas quando ocorre algum vazamento mais grave devido ao mau uso do vaso sanitário ou excesso de restos de alimentos na pia da cozinha, por exemplo. 
 

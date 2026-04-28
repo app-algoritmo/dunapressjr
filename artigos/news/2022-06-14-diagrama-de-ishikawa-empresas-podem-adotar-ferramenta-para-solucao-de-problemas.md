@@ -1,11 +1,12 @@
 ---
-title: "Diagrama de Ishikawa: empresas podem adotar ferramenta para solução de problemas"
+title: 'Diagrama de Ishikawa: empresas podem adotar ferramenta para solução de problemas'
 date: 2022-06-14
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 O Diagrama de Ishikawa é uma ferramenta que permite às empresas estruturarem, de maneira hierárquica, as possíveis causas de um determinado problema e as oportunidades de soluções. Também conhecida como Diagrama de Causa e Efeito, Diagrama Espinha de Peixe ou Diagrama 6M, essa é uma técnica visual composta por um gráfico que tem uma linha horizontal referente ao problema principal e ramificações verticais que fazem a indicação das causas e subcausas.
 

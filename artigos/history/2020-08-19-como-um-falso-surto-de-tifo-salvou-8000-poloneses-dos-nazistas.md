@@ -1,11 +1,12 @@
 ---
-title: "Como um falso surto de tifo salvou 8.000 poloneses dos nazistas"
+title: Como um falso surto de tifo salvou 8.000 poloneses dos nazistas
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Eugene Lazowski é chamado de 'Schindler polonês' por resgatar 12 aldeias por meio de subterfúgios médicos, mas sua 'zona de quarentena' foi declarada tarde demais para a maioria dos judeus da região.
 

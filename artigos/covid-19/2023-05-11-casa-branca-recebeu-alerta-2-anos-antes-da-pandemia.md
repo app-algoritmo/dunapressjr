@@ -1,11 +1,12 @@
 ---
-title: "Casa Branca recebeu alerta 2 anos antes da pandemia"
+title: Casa Branca recebeu alerta 2 anos antes da pandemia
 date: 2023-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O Conselho de Segurança Nacional recebeu um alerta sobre o Instituto de Virologia de Wuhan dois anos antes da pandemia mortal de coronavírus, de acordo com [um e-mail](https://usrtk.org/wp-content/uploads/2023/05/Front-channel-cables-and-NSC.pdf) obtido pela US Right to Know.
 

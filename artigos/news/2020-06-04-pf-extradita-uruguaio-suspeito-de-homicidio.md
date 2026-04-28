@@ -1,11 +1,12 @@
 ---
-title: "PF extradita uruguaio suspeito de homicídio"
+title: PF extradita uruguaio suspeito de homicídio
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uruguaiana/RS - A Polícia Federal extraditou na manhã da terça-feira (2/6) um foragido das autoridades uruguaias acusado de homicídio qualificado, tendo como uma das vítimas uma criança. O crime ocorreu no Uruguai em 2016.
 

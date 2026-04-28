@@ -1,11 +1,13 @@
 ---
-title: "PNAD Contínua: taxa de desocupação é de 11,6% e taxa de subutilização é 23,8% no trimestre encerrado em outubro de 2019"
+title: 'PNAD Contínua: taxa de desocupação é de 11,6% e taxa de subutilização é 23,8%
+  no trimestre encerrado em outubro de 2019'
 date: 2019-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A **taxa de desocupação** (11,6%) no trimestre móvel encerrado em outubro de 2019, ficou estatisticamente estável tanto em relação ao trimestre de maio a julho de 2019 (11,8%) quanto em relação ao mesmo trimestre de 2018 (11,7%).
 

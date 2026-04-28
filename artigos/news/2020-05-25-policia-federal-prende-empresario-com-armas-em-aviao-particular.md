@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende empresário com armas em avião particular"
+title: Polícia Federal prende empresário com armas em avião particular
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT – A Polícia Federal prendeu na sexta-feira (22/5), no aeroporto de Sinop/MT, um homem com cinco armas de fogo de uso permitido, sem autorização ou guia de trânsito.
 

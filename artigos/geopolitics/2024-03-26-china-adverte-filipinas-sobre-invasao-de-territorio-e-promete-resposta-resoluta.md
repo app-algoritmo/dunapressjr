@@ -1,11 +1,12 @@
 ---
-title: "China Adverte Filipinas sobre Invasão de Território e Promete Resposta Resoluta"
+title: China Adverte Filipinas sobre Invasão de Território e Promete Resposta Resoluta
 date: 2024-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Um porta-voz militar chinês fez declarações enfáticas no domingo, alertando as Filipinas sobre as consequências de desafiar a linha de tolerância estabelecida pelo lado chinês. Wu Qian, porta-voz do Ministério da Defesa Nacional da China, expressou a determinação do país em salvaguardar sua soberania territorial e seus direitos e interesses marítimos diante de qualquer provocação.
 

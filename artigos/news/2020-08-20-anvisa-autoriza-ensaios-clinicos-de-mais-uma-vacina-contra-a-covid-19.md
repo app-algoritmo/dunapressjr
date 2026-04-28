@@ -1,11 +1,12 @@
 ---
-title: "Anvisa autoriza ensaios clínicos de mais uma vacina contra a Covid-19"
+title: Anvisa autoriza ensaios clínicos de mais uma vacina contra a Covid-19
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Vigilância Sanitária (Anvisa) publicou, nessa terça-feira (18), a aprovação para condução de um ensaio clínico que estudará uma potencial vacina denominada Ad26.COV2.S. A autorização foi solicitada pela Jansen-Cilag (a divisão farmacêutica da Johnson-Johnson). O ensaio clínico aprovado é um estudo de fase 3, com utilização de placebo e duplo cego (nem o examinador e nem o examinado sabem se o que está sendo aplicado é o placebo ou a vacina), para avaliar a eficácia e a segurança da vacina na prevenção da Covid-19.
 

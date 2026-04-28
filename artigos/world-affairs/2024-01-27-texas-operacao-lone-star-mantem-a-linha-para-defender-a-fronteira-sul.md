@@ -1,11 +1,12 @@
 ---
-title: "Texas: Operação Lone Star mantém a linha para defender a fronteira sul"
+title: 'Texas: Operação Lone Star mantém a linha para defender a fronteira sul'
 date: 2024-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador Greg Abbott, o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas continuam a trabalhar juntos para proteger a fronteira; acabar com o contrabando de drogas, armas e pessoas para o Texas; e prevenir, detectar e interditar atividades criminosas transnacionais entre portos de entrada.
 

@@ -1,11 +1,12 @@
 ---
-title: "Queda nos preços: Paraná registra deflação pelo terceiro mês consecutivo"
+title: 'Queda nos preços: Paraná registra deflação pelo terceiro mês consecutivo'
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A taxa do mês passado do Índice de Preços Regionais (-1,11%) é resultado de reduções observadas em todos os municípios onde o índice é apurado: Foz do Iguaçu (-1,55%), Ponta Grossa (-1,47%), Maringá (-1,07%), Curitiba (-1,06%), Londrina (-0,80%) e Cascavel (-0,72%).
 

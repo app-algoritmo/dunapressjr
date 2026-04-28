@@ -1,11 +1,12 @@
 ---
-title: "FAB amplia capacidade de pronta-resposta em apoio à Operação COVID-19"
+title: FAB amplia capacidade de pronta-resposta em apoio à Operação COVID-19
 date: 2020-04-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Neste domingo (05), a Força Aérea Brasileira (FAB) deslocou seus meios aéreos, de diversas localidades do país, para a ALA 1 – Base Aérea de Brasília, ALA 11 – Base Aérea do Galeão e ALA 12 – Base Aérea de Santa Cruz, com o objetivo de promover a ampliação da capacidade de pronta-resposta em atendimento às demandas do Ministério da Defesa nas ações logísticas de enfrentamento à COVID-19.
 

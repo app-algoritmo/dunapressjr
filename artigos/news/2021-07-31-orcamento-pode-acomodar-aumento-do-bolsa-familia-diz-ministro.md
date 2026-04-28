@@ -1,11 +1,12 @@
 ---
-title: "Orçamento pode acomodar aumento do Bolsa Família, diz ministro"
+title: Orçamento pode acomodar aumento do Bolsa Família, diz ministro
 date: 2021-07-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Guedes participou de evento no Rio de Janeiro.
 

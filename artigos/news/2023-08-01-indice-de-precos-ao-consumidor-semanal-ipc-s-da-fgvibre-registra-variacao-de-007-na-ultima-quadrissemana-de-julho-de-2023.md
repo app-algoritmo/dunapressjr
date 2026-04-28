@@ -1,11 +1,13 @@
 ---
-title: "Índice de Preços ao Consumidor Semanal (IPC-S) da FGV/Ibre registra variação de 0,07% na última quadrissemana de julho de 2023"
+title: Índice de Preços ao Consumidor Semanal (IPC-S) da FGV/Ibre registra variação
+  de 0,07% na última quadrissemana de julho de 2023
 date: 2023-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Habitação lidera queda nos preços, enquanto Transportes e Educação apresentam avanço; Dados apontam para estabilidade da inflação no período. 
 

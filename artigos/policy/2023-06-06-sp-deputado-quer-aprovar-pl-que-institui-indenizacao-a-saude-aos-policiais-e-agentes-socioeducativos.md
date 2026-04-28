@@ -1,11 +1,13 @@
 ---
-title: "SP: Deputado quer aprovar PL que institui indenização à saúde aos policiais e agentes socioeducativos"
+title: 'SP: Deputado quer aprovar PL que institui indenização à saúde aos policiais
+  e agentes socioeducativos'
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Deputado Estadual Major Mecca está trabalhando para a aprovação em regime de urgência do [PL 120/2023](https://www.al.sp.gov.br/propositura?id=1000485199), de sua autoria, na Assembleia Legislativa do Estado de São Paulo, que tem como objetivo instituir a Indenização de Auxílio à Saúde para os policiais militares, civis, técnico-científicos, penais e agentes socioeducativos da Fundação CASA. A proposta visa oferecer suporte financeiro aos profissionais que sofram ferimentos ou acidentes em serviço ou em razão da função, resultando em afastamento do trabalho.
 

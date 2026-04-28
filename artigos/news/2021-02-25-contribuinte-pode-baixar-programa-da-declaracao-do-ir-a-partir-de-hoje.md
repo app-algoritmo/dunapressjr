@@ -1,11 +1,12 @@
 ---
-title: "Contribuinte pode baixar programa da declaração do IR a partir de hoje"
+title: Contribuinte pode baixar programa da declaração do IR a partir de hoje
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo de entrega começa em 1º de março e vai até 30 de abril.
 

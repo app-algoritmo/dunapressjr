@@ -1,10 +1,11 @@
 ---
-title: "ECONOMIA - Entenda o desastre que estão nos metendo"
+title: ECONOMIA - Entenda o desastre que estão nos metendo
 date: 2026-03-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 

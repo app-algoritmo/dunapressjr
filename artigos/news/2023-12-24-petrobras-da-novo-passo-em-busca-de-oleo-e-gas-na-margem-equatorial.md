@@ -1,11 +1,12 @@
 ---
-title: "Petrobras dá novo passo em busca de óleo e gás na Margem Equatorial"
+title: Petrobras dá novo passo em busca de óleo e gás na Margem Equatorial
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Perfuração levará de três a cinco meses.
 

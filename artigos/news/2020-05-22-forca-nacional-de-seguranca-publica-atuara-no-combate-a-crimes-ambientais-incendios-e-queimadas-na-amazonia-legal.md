@@ -1,11 +1,13 @@
 ---
-title: "Força Nacional de Segurança Pública atuará no combate a crimes ambientais, incêndios e queimadas na Amazônia Legal"
+title: Força Nacional de Segurança Pública atuará no combate a crimes ambientais,
+  incêndios e queimadas na Amazônia Legal
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, autorizou o emprego da Força Nacional de Segurança Pública (FNSP) em apoio ao Gabinete de Segurança Institucional na área que compreende a Amazônia Legal, na Operação Verde Brasil II . A portaria n° 265 foi publicada no Diário Oficial da União (DOU) desta sexta-feira (22).
 

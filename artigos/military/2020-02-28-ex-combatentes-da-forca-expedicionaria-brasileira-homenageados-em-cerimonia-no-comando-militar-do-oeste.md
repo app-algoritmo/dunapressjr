@@ -1,11 +1,13 @@
 ---
-title: "Ex-combatentes da Força Expedicionária Brasileira homenageados em cerimônia no Comando Militar do Oeste"
+title: Ex-combatentes da Força Expedicionária Brasileira homenageados em cerimônia
+  no Comando Militar do Oeste
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Campo Grande (MS)**
 – A manhã do dia 21 de fevereiro foi de homenagens no Forte Pantanal, na

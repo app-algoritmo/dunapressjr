@@ -1,11 +1,12 @@
 ---
-title: "Militares das Forças Armadas atuam de forma incessante em apoio à população"
+title: Militares das Forças Armadas atuam de forma incessante em apoio à população
 date: 2020-04-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Enquanto um batalhão de cientistas dos mais diversos países estão unidos por uma única causa: encontrar a cura definitiva para a COVID-19, outras milhares de pessoas não perdem um segundo no enfrentamento imediato à pandemia que se espalhou do oriente ao ocidente. É preciso divulgar informações corretas, prestar atendimento médico de qualidade, bem como providenciar os meios de tratamento adequados, atender rapidamente quem precisa de alimento e, em meio ao desalento, levar esperança e alegria.
 

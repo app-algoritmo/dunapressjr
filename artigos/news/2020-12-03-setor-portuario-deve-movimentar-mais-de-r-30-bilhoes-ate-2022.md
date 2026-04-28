@@ -1,11 +1,12 @@
 ---
-title: "Setor portuário deve movimentar mais de R$ 30 bilhões até 2022"
+title: Setor portuário deve movimentar mais de R$ 30 bilhões até 2022
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Modernizar e ampliar os portos brasileiros têm sido uma das prioridades do Governo Federal. Segundo o Ministério da Infraestrutura, até 2022, o setor portuário deve movimentar mais de R$ 30 bilhões em investimentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Crédito imobiliário da Caixa cresceu 41% neste ano"
+title: Crédito imobiliário da Caixa cresceu 41% neste ano
 date: 2021-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nos cinco primeiros meses foram realizados 240,6 mil novos contratos.
 

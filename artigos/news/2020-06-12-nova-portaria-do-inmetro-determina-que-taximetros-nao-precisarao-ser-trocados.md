@@ -1,11 +1,12 @@
 ---
-title: "Nova portaria do Inmetro determina que taxímetros não precisarão ser trocados"
+title: Nova portaria do Inmetro determina que taxímetros não precisarão ser trocados
 date: 2020-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Somente instrumentos que utilizam informações dos ABS precisarão ser reinstalados até 2022. Os demais, apenas quando o veículo for trocado. 
 

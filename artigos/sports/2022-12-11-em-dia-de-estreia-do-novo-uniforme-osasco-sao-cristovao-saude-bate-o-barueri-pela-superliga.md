@@ -1,11 +1,13 @@
 ---
-title: "Em dia de estreia do novo uniforme, Osasco São Cristóvão Saúde bate o Barueri pela Superliga"
+title: Em dia de estreia do novo uniforme, Osasco São Cristóvão Saúde bate o Barueri
+  pela Superliga
 date: 2022-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 As jogadoras do Osasco São Cristóvão Saúde vestiram roupa nova para reencontrar sua torcida após três partidas fora de casa na Superliga 1XBET 2022/23. A equipe do técnico Luizomar apresentou o novo uniforme na noite desta sexta-feira (9), no ginásio José Liberatti, com vitória sobre Barueri por 3 sets a 0, com parciais de 25/19, 26/24 e 25/20, em 1h30min. 
 

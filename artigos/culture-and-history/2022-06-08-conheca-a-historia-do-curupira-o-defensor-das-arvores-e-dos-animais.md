@@ -1,11 +1,12 @@
 ---
-title: "Conheça a história do Curupira, o defensor das árvores e dos animais"
+title: Conheça a história do Curupira, o defensor das árvores e dos animais
 date: 2022-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Você já deve ter ouvido falar dele na escola. Do menino de cabelos vermelhos cor de fogo, protetor das florestas, que não dá moleza para caçadores e lenhadores: o curupira. O personagem mítico do folclore brasileiro também está em uma estátua de bronze no Jardim dos Cinco Sentidos, dentro do Horto Florestal, no Parque da Ciência do Butantan, em São Paulo-SP.
 

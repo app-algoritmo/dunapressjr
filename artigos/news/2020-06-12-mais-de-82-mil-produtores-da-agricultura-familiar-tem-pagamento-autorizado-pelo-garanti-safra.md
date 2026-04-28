@@ -1,11 +1,13 @@
 ---
-title: "Mais de 82 mil produtores da agricultura familiar tem pagamento autorizado pelo Garanti-Safra"
+title: Mais de 82 mil produtores da agricultura familiar tem pagamento autorizado
+  pelo Garanti-Safra
 date: 2020-06-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Benefício será pago em parcela única em 102 municípios dos seguintes estados: Alagoas, Bahia, Ceará, Maranhão, Minas Gerais, Paraíba, Pernambuco e Rio Grande do Norte.
 

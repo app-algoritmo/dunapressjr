@@ -1,11 +1,13 @@
 ---
-title: "OPERAÇÃO HÓRUS - Policiais realizam apreensão de 2 veículos carregados com cigarros paraguaios"
+title: OPERAÇÃO HÓRUS - Policiais realizam apreensão de 2 veículos carregados com
+  cigarros paraguaios
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na madrugada desta quinta-feira (4/6), mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, PRF, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

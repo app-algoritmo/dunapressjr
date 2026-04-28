@@ -1,11 +1,13 @@
 ---
-title: "Acordo comercial com Coreia do Sul terá impacto de R$ 416,8 bilhões no PIB até 2040, prevê Secex"
+title: Acordo comercial com Coreia do Sul terá impacto de R$ 416,8 bilhões no PIB
+  até 2040, prevê Secex
 date: 2021-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo foi publicado nesta segunda-feira (30), com estimativas de alta para PIB, investimentos, salário real, exportações e importações totais, além de queda de preços ao consumidor.
 

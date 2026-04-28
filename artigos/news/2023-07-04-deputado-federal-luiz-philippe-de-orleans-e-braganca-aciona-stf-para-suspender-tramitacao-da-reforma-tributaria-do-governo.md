@@ -1,11 +1,13 @@
 ---
-title: "Deputado federal Luiz Philippe de Orleans e Bragança aciona STF para suspender tramitação da Reforma Tributária do governo"
+title: Deputado federal Luiz Philippe de Orleans e Bragança aciona STF para suspender
+  tramitação da Reforma Tributária do governo
 date: 2023-07-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Deputado contesta processo legislativo da proposta e recebe apoio de mais de 30 entidades.
 

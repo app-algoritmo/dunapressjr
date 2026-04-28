@@ -1,11 +1,13 @@
 ---
-title: "Tropas do Exército no Centro-Oeste exercitam marcha para o combate durante a Operação Pantanal"
+title: Tropas do Exército no Centro-Oeste exercitam marcha para o combate durante
+  a Operação Pantanal
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Dentro da Operação Pantanal 2023, tropas das Brigadas do Comando Militar do Oeste (CMO) realizaram uma marcha para o combate, movimentação ofensiva que permite a uma força militar aproximar-se do inimigo e estabelecer o contato e que, normalmente, precede o ataque. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem o segundo congresso mais caro do mundo"
+title: Brasil tem o segundo congresso mais caro do mundo
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Funcionários públicos da Câmara dos Deputados e Senado Federal brasileiro custão ao contribuinte **R$ 10,8 bilhões ao ano**.
 

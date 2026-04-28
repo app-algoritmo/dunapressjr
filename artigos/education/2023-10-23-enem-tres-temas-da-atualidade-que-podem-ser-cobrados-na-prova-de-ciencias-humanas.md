@@ -1,11 +1,13 @@
 ---
-title: "Enem: três temas da atualidade que podem ser cobrados na prova de Ciências Humanas"
+title: 'Enem: três temas da atualidade que podem ser cobrados na prova de Ciências
+  Humanas'
 date: 2023-10-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Nos últimos anos, uma das principais particularidades das questões do (Enem) é fazer com que os estudantes lidem com questões interdisciplinares, principalmente sobre assuntos da atualidade que permeiam questões de caráter social. 
 

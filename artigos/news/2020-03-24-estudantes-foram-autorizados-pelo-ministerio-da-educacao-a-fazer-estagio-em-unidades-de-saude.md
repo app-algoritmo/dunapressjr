@@ -1,11 +1,13 @@
 ---
-title: "Estudantes foram autorizados pelo Ministério da Educação a fazer estágio em unidades de saúde"
+title: Estudantes foram autorizados pelo Ministério da Educação a fazer estágio em
+  unidades de saúde
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Graduandos dos cursos de  medicina, enfermagem, farmácia e fisioterapia foram autorizados pelo Ministério da Educação (MEC) a fazer estágio em unidades de saúde. A iniciativa  tem o objetivo de auxiliar no combate à epidemia do coronavírus (Covid-19). Tanto a seleção quanto a alocação dos alunos serão coordenadas pelo Ministério da Saúde.
 

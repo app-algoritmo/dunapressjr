@@ -1,11 +1,12 @@
 ---
-title: "Pacheco saúda acordo que prorroga prazo para Minas pagar dívida com União"
+title: Pacheco saúda acordo que prorroga prazo para Minas pagar dívida com União
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em entrevista coletiva nesta quinta-feira (14), o presidente do Senado, Rodrigo Pacheco, saudou a decisão que prorrogou em 120 dias o prazo de pagamento da dívida de Minas Gerais com a União, o que ele atribuiu a uma “construção política muito madura”. O senador cumprimentou principalmente o ministro da Fazenda, Fernando Haddad, e o ministro do Supremo Tribunal Federal (STF) Nunes Marques por terem tornado a prorrogação possível.
 

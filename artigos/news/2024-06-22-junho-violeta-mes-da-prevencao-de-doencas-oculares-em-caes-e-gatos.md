@@ -1,12 +1,13 @@
 ---
-title: "Junho violeta: mês da prevenção de doenças oculares em cães e gatos"
+title: 'Junho violeta: mês da prevenção de doenças oculares em cães e gatos'
 date: 2024-06-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Desde 2018, junho é conhecido como o mês da conscientização e prevenção do ceratocone, uma doença degenerativa que afeta os humanos e é caracterizada por deformar a córnea – membrana transparente que protege o olho – e pode ser causada pela simples ação de coçar os olhos constantemente (hábito geralmente associado à conjuntivite alérgica). Segundo o Conselho Brasileiro de Oftalmologia, 20% dos transplantes de córnea são realizados por causa dessa doença. 
 

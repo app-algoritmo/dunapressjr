@@ -1,11 +1,13 @@
 ---
-title: "FMI estima que déficits públicos continuarão a crescer nos próximos anos, apesar da recuperação econômica"
+title: FMI estima que déficits públicos continuarão a crescer nos próximos anos, apesar
+  da recuperação econômica
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A situação fiscal mundial é incerta devido à desaceleração do crescimento e a política de juros altos dos bancos centrais para combater a inflação.
 

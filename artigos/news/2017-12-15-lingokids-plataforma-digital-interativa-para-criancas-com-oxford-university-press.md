@@ -1,11 +1,13 @@
 ---
-title: "Lingokids: plataforma digital interativa para crianças (com Oxford University Press)"
+title: 'Lingokids: plataforma digital interativa para crianças (com Oxford University
+  Press)'
 date: 2017-12-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Criado por educadores e linguistas com o objetivo de ensinar idiomas através de jogos modernos e empolgantes, o “Lingokids Inglês para crianças”, da Monkimun Inc, é um aplicativo direcionado especialmente para crianças de 2 a 8 anos que oferece uma série de atividades lúdicas. As plataformas contidas no Lingokids têm o diferencial de ajustar-se à habilidade e as necessidades de cada criança, o que torna cada lição personalizada, ademais de trabalhar conceitos de feminino e masculino sem quaisquer interferências de ideologia de gênero.
 

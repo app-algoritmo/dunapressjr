@@ -1,11 +1,12 @@
 ---
-title: "Americanas propõe aporte de R$ 10 bilhões a credores"
+title: Americanas propõe aporte de R$ 10 bilhões a credores
 date: 2023-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Partes ainda não chegaram a um acordo para quitar dívidas.
 

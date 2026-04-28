@@ -1,11 +1,13 @@
 ---
-title: "Vintage e Retrô Moderno: estilo vem acompanhado pelo desejo de um lar mais aconchegante"
+title: 'Vintage e Retrô Moderno: estilo vem acompanhado pelo desejo de um lar mais
+  aconchegante'
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Quem deseja um lar elegante e cheio de memórias vai se encantar com a nova tendência de decoração. O "retrô moderno" mescla elementos atuais com itens antigos e objetos que despertam bons sentimentos e nostalgia. Ecléticos, cheios de personalidade e lembranças afetivas, esses ambientes combinam [plantas](https://sonharemorar.com.br/precisa-dar-um-up-nas-boas-energias-de-casa-conte-com-as-plantas/), padrões geométricos, [papéis de parede](https://sonharemorar.com.br/renove-seu-apartamento-com-papel-de-parede/) e mobília de *designers *consagrados.
 

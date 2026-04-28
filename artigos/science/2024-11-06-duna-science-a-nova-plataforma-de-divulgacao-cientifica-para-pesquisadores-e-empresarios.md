@@ -1,11 +1,13 @@
 ---
-title: "Duna Science: A Nova Plataforma de Divulgação Científica para Pesquisadores e Empresários"
+title: 'Duna Science: A Nova Plataforma de Divulgação Científica para Pesquisadores
+  e Empresários'
 date: 2024-11-06
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Science
+- Science
 ---
+
 
 Muitos pesquisadores e professores enfrentam o desafio de divulgar suas pesquisas além do ambiente acadêmico. Publicar em revistas indexadas é uma prática comum, mas nem sempre os artigos técnicos alcançam a sociedade e o setor empresarial de maneira acessível e impactante. Pensando nisso, a Duna Press, parte de um grupo editorial norueguês, lançou uma nova seção dedicada a artigos científicos e técnicos, a [Duna Science](https://dunapress.org/science/). Esta seção permite que pesquisadores publiquem seus trabalhos para um público mais amplo, fomentando o empreendedorismo e a união entre a academia e o setor empresarial.
 

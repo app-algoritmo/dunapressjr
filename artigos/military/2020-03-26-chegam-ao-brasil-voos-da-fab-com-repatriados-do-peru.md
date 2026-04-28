@@ -1,12 +1,13 @@
 ---
-title: "Chegam ao Brasil voos da FAB com repatriados do Peru"
+title: Chegam ao Brasil voos da FAB com repatriados do Peru
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 Na tarde desta
 quarta-feira (25), em Porto Velho (RO), as duas aeronaves C-130 (Hércules) da

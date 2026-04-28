@@ -1,11 +1,12 @@
 ---
-title: "Fiesta Mediterrâneo e Cuscuz com Legumes"
+title: Fiesta Mediterrâneo e Cuscuz com Legumes
 date: 2023-12-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Quer surpreender na sua ceia de Natal? Faça essa receita muito saborosa de Fiesta Mediterrâneo.
 

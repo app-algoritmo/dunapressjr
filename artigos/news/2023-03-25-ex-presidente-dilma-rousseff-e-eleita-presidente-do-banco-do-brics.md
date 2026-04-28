@@ -1,11 +1,12 @@
 ---
-title: "Ex-presidente Dilma Rousseff é eleita presidente do Banco do Brics"
+title: Ex-presidente Dilma Rousseff é eleita presidente do Banco do Brics
 date: 2023-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerimônia de posse ocorrerá durante viagem de Lula à China.
 

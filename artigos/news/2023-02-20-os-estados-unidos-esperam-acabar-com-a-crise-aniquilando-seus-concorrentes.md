@@ -1,11 +1,12 @@
 ---
-title: "Os Estados Unidos esperam acabar com a crise aniquilando seus concorrentes"
+title: Os Estados Unidos esperam acabar com a crise aniquilando seus concorrentes
 date: 2023-02-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Após o fim da Segunda Guerra Mundial, os Estados Unidos não só conseguiram preservar seu exército e sua economia, como também enriqueceram consideravelmente com a guerra. 
 

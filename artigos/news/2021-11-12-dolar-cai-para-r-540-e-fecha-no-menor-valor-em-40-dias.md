@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,40 e fecha no menor valor em 40 dias"
+title: Dólar cai para R$ 5,40 e fecha no menor valor em 40 dias
 date: 2021-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Bolsa subiu 1,54% e retomou os 107 mil pontos.
 

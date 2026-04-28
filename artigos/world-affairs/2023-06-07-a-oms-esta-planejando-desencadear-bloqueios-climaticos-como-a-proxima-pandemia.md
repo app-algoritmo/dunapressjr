@@ -1,11 +1,12 @@
 ---
-title: "A OMS está planejando desencadear bloqueios climáticos como a próxima “pandemia?”"
+title: A OMS está planejando desencadear bloqueios climáticos como a próxima “pandemia?”
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Agora que a *fraude* do coronavírus Wuhan (Covid-19) acabou, a Organização Mundial da Saúde (OMS) está [ocupada planejando](https://discernreport.com/are-who-climate-lockdowns-coming/) seu próximo esquema tirânico na forma de outra rodada de bloqueios, desta vez para impedir a “mudança climática”.
 

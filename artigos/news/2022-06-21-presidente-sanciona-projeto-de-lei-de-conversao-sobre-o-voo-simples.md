@@ -1,11 +1,12 @@
 ---
-title: "Presidente sanciona Projeto de Lei de Conversão sobre o Voo Simples"
+title: Presidente sanciona Projeto de Lei de Conversão sobre o Voo Simples
 date: 2022-06-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente Jair Bolsonaro [sancionou](https://www.in.gov.br/en/web/dou/-/lei-n-14.368-de-14-de-junho-de-2022-408485274) o Projeto de Lei de Conversão nº 5, de 2022 (Medida Provisória nº 1.089, de 2021), que altera as Leis nº 6.009, de 26 de dezembro de 1973, nº7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), nº 13.448, de 5 de junho de 2017, nº 11.182, de 27 de setembro de 2005, nº 9.826, de 23 de agosto de 1999, nº 10.833, de 29 de dezembro de 2003, e nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre o transporte aéreo; e revoga dispositivos das Leis nº 5.862, de 12 de dezembro de 1972, e nº 8.666, de 21 de junho de 1993.
 

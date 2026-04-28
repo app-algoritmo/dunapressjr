@@ -1,11 +1,12 @@
 ---
-title: "Novas embaixadoras da França e do Vietnã apresentam cartas credenciais ao presidente"
+title: Novas embaixadoras da França e do Vietnã apresentam cartas credenciais ao presidente
 date: 2020-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro recebeu, nesta quinta-feira (18), as recém-nomeadas embaixadoras da França e Vietnã em cerimônia de entrega de cartas credenciais no Palácio do Planalto.
 

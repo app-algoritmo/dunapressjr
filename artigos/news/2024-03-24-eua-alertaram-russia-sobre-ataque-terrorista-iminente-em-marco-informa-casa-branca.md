@@ -1,11 +1,13 @@
 ---
-title: "EUA Alertaram Rússia Sobre Ataque Terrorista Iminente em Março, Informa Casa Branca"
+title: EUA Alertaram Rússia Sobre Ataque Terrorista Iminente em Março, Informa Casa
+  Branca
 date: 2024-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O governo dos Estados Unidos alertou as autoridades russas sobre um ataque terrorista iminente em Moscou no mês de março, informou a porta-voz do Conselho de Segurança Nacional da Casa Branca, Adrienne Watson. As informações indicavam que o ataque planejado poderia visar grandes reuniões, incluindo concertos, levando o Departamento de Estado dos EUA a emitir um aviso público aos americanos na Rússia.
 

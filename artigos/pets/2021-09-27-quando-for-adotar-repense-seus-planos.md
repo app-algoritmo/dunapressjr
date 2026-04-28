@@ -1,11 +1,12 @@
 ---
-title: "Quando for adotar repense seus planos"
+title: Quando for adotar repense seus planos
 date: 2021-09-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Esse é o Thor, que já virou uma linda estrela no céu, a história dele é aquela onde se repete em muitos lares, um casal resolve ter um cachorro, cuidam dele, amam ele, zelam por ele, eis que um bebê humano chega, e o casal que tanto zelo tinha pelo Thor, o exclui do seio familiar, ele nunca pode sequer tocar no bebê que chegou, ele nunca mais teve um passeio na rua, ele nunca mais foi acariciado.
 

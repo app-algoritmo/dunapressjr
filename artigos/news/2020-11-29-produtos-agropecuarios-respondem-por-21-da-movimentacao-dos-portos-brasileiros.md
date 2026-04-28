@@ -1,11 +1,12 @@
 ---
-title: "Produtos agropecuários respondem por 21% da movimentação dos portos brasileiros"
+title: Produtos agropecuários respondem por 21% da movimentação dos portos brasileiros
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 participação dos produtos agropecuários na movimentação de cargas nos portos brasileiros passou de 16% em 2019 para 21% em 2020. Até o mês passado, a circulação de produtos agropecuários chegou a 175 milhões de toneladas. Os dados se referem aos primeiros 10 meses dos dois anos. Nesse período, a movimentação total de cargas nos portos brasileiros foi de 850 milhões de toneladas. Essa quantidade é 3,7% maior do que a registrada no mesmo período do ano passado. As informações são do Boletim Logístico, da Companhia Nacional de Abastecimento (Conab). O estudo foi feito com base em dados da Agência Nacional de Transportes Aquaviários (ANTAQ) até o terceiro trimestre de 2020.
 

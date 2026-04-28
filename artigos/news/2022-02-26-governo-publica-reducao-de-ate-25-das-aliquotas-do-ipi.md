@@ -1,11 +1,12 @@
 ---
-title: "Governo publica redução de até 25% das alíquotas do IPI"
+title: Governo publica redução de até 25% das alíquotas do IPI
 date: 2022-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Imposto incide sobre atividade industrial.
 

@@ -1,11 +1,12 @@
 ---
-title: "Geração 100: O exercício faz com que os idosos vivam mais?"
+title: 'Geração 100: O exercício faz com que os idosos vivam mais?'
 date: 2020-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O estudo de exercícios da Geração 100 acompanhou mais de 1500 mulheres e homens na faixa dos 70 anos durante cinco anos. O objetivo era descobrir se o exercício dá aos idosos uma vida mais longa e saudável, e também comparamos o efeito do exercício moderado e de alta intensidade. O estudo é o maior do gênero, e o teste de cinco anos dos participantes foi concluído em 2018.
 

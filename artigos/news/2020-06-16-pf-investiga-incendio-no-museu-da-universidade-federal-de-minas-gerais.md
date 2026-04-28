@@ -1,11 +1,12 @@
 ---
-title: "PF investiga incêndio no Museu da Universidade Federal de Minas Gerais"
+title: PF investiga incêndio no Museu da Universidade Federal de Minas Gerais
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Nesta segunda-feira, 15/6, a Polícia Federal foi acionada em razão de incêndio ocorrido no Museu da Universidade Federal de Minas Gerais.
 

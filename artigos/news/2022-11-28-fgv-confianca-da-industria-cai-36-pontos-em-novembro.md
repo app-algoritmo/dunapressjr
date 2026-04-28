@@ -1,11 +1,12 @@
 ---
-title: "FGV: confiança da Indústria cai 3,6 pontos em novembro"
+title: 'FGV: confiança da Indústria cai 3,6 pontos em novembro'
 date: 2022-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o pior resultado da Sondagem desde julho de 2020.
 

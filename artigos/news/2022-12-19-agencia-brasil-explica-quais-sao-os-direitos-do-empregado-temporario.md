@@ -1,11 +1,12 @@
 ---
-title: "Agência Brasil explica: quais são os direitos do empregado temporário?"
+title: 'Agência Brasil explica: quais são os direitos do empregado temporário?'
 date: 2022-12-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contrato pode durar no máximo 180 dias.
 

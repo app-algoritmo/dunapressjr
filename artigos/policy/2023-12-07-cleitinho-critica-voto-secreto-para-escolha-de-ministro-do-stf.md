@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica voto secreto para escolha de ministro do STF"
+title: Cleitinho critica voto secreto para escolha de ministro do STF
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (5), o senador Cleitinho (Republicanos–MG) defendeu o fim do voto secreto no Senado para a escolha de ministros do Supremo Tribunal Federal (STF). O parlamentar destacou que, no caso da definição do nome de Flávio Dino para a vaga deixada por Rosa Weber na Corte, muitos senadores já declararam como irão votar — o que, para ele, torna a regra desnecessária. Cleitinho também defendeu o fim do voto de abstenção no Parlamento. 
 

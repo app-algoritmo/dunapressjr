@@ -1,11 +1,12 @@
 ---
-title: "Índice Nikkei tem alta após quatro dias de queda"
+title: Índice Nikkei tem alta após quatro dias de queda
 date: 2020-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Depois de flutuar, índice Nikkei fechou pregão com 17.011 pontos
 

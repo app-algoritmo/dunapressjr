@@ -1,11 +1,12 @@
 ---
-title: "PF investiga servidores públicos envolvidos em esquema de contrabando de cigarros"
+title: PF investiga servidores públicos envolvidos em esquema de contrabando de cigarros
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Campo Grande/MS – A Polícia Federal, com apoio da Corregedoria da Polícia Civil do Estado de Mato Grosso do Sul, deflagrou na manhã desta quinta-feira (28/5) a Operação Arithmoi, quarta fase da Operação Nepsis.
 

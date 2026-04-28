@@ -1,11 +1,12 @@
 ---
-title: "Câmara de Itajaí terá sessão extraordinária nesta terça-feira (15)"
+title: Câmara de Itajaí terá sessão extraordinária nesta terça-feira (15)
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí realiza nesta terça-feira (15) a 6ª Sessão Extraordinária de 2020. Estão previstos para entrar em discussão e votação 19 projetos de lei. O encontro acontece em sequência da 62ª Sessão Ordinária, que tem início às 16h.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo eleva para R$ 149,6 bi previsão de déficit para 2021"
+title: Governo eleva para R$ 149,6 bi previsão de déficit para 2021
 date: 2020-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 País não deverá ter superávits primários neste mandato
 

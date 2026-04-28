@@ -1,11 +1,12 @@
 ---
-title: "Brazilian President Lula Honored with Interpol Medal in Historic France Visit"
+title: Brazilian President Lula Honored with Interpol Medal in Historic France Visit
 date: 2025-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Politics
+- International Politics
 ---
+
 
 ## Lula Receives Interpol Medal in France for Fighting Transnational Crime
 

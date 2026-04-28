@@ -1,11 +1,12 @@
 ---
-title: "BC divulga passo a passo para sacar dinheiro esquecido"
+title: BC divulga passo a passo para sacar dinheiro esquecido
 date: 2022-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nascidos antes de 1968 poderão fazer pedido a partir de segunda-feira.
 

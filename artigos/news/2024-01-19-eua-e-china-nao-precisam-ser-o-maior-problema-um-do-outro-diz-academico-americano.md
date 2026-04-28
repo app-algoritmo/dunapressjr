@@ -1,11 +1,13 @@
 ---
-title: "EUA e China não precisam ser o 'maior problema' um do outro, diz acadêmico americano"
+title: EUA e China não precisam ser o 'maior problema' um do outro, diz acadêmico
+  americano
 date: 2024-01-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os Estados Unidos e a China devem ter coragem de não "adiar decisões difíceis" para o futuro, mas ter em mente que eles não precisam ser o "maior problema" um do outro, disse David Lampton, um importante acadêmico americano, sobre a China.
 

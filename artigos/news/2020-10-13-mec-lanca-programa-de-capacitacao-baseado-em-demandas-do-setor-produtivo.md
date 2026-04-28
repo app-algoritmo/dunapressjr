@@ -1,11 +1,12 @@
 ---
-title: "MEC lança programa de capacitação baseado em demandas do setor produtivo"
+title: MEC lança programa de capacitação baseado em demandas do setor produtivo
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) lançou, em evento virtual, nesta quinta-feira (8), a Capacitação 4.0, um programa que proporcionará a estudantes da Rede Federal e de Universidades Federais uma formação em que, como trainees, eles resolverão problemas reais trazidos pelo setor produtivo para dentro das instituições de ensino, com a mentoria de professores selecionados para participar do processo. O programa é o resultado de uma parceria do MEC com a Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii) e o Serviço Nacional de Aprendizagem Industrial (Senai). 
 

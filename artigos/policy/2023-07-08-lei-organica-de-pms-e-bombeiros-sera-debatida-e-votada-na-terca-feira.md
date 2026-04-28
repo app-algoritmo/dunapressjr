@@ -1,11 +1,12 @@
 ---
-title: "Lei orgânica de PMs e bombeiros será debatida e votada na terça-feira"
+title: Lei orgânica de PMs e bombeiros será debatida e votada na terça-feira
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública (CSP) deve votar nesta terça-feira (11) o Projeto de Lei (PL) 3.045/2022, que estabelece normas gerais para organização das polícias militares e dos corpos de bombeiros militares. 
 

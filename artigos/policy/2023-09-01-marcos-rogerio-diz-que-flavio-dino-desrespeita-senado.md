@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério diz que Flávio Dino desrespeita Senado"
+title: Marcos Rogério diz que Flávio Dino desrespeita Senado
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO), em pronunciamento no Plenário nesta quarta-feira (30), levantou questionamentos sobre supostos esforços por parte de integrantes do governo para obstruir as investigações, ocultar provas e dificultar o trabalho da CPMI de 8 de Janeiro. Ele voltou a criticar a postura do ministro da Justiça, Flávio Dino — que, segundo o senador, se recusa a fornecer as imagens das câmeras de segurança do estacionamento do ministério solicitadas pela comissão. 
 

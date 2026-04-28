@@ -1,11 +1,13 @@
 ---
-title: "Aprovação do arcabouço é condição para LDO que permite gastos R$ 172 bilhões acima do teto"
+title: Aprovação do arcabouço é condição para LDO que permite gastos R$ 172 bilhões
+  acima do teto
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto prevê superávit de R$ 61,6 bi em 2025 e de R$ 130,8 bi em 2026.
 

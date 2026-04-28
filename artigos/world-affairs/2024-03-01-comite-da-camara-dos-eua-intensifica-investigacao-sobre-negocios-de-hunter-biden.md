@@ -1,11 +1,13 @@
 ---
-title: "Comitê da Câmara dos EUA Intensifica Investigação sobre Negócios de Hunter Biden"
+title: Comitê da Câmara dos EUA Intensifica Investigação sobre Negócios de Hunter
+  Biden
 date: 2024-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Comitê de Supervisão da Câmara dos Representantes dos Estados Unidos está aprofundando sua investigação sobre os negócios de Hunter Biden, filho do presidente Joe Biden, ao solicitar ao procurador-geral Merrick Garland uma série de documentos relacionados ao caso conduzido pelo promotor especial Robert Hur. O pedido, feito inicialmente em 12 de fevereiro, ainda aguarda resposta do Departamento de Justiça, o que gerou críticas dos líderes do comitê em relação à falta de transparência e à percepção de um possível duplo padrão de justiça.
 

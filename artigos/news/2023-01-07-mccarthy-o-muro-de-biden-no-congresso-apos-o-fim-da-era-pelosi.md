@@ -1,12 +1,13 @@
 ---
-title: "McCarthy: o muro de Biden no Congresso após o fim da era Pelosi"
+title: 'McCarthy: o muro de Biden no Congresso após o fim da era Pelosi'
 date: 2023-01-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 Após quatro dias de votação, o republicano Kevin McCarthy finalmente conseguiu o apoio necessário para presidir a Câmara dos Representantes do Congresso dos Estados Unidos pelos próximos dois anos. Após 15 longos dias de votação – única na história – ele reuniu os 216 apoios necessários para manter o baralho.
 

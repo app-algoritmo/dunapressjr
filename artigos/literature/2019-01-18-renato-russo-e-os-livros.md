@@ -1,11 +1,12 @@
 ---
-title: "Renato Russo e os livros"
+title: Renato Russo e os livros
 date: 2019-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Quem foi Renato Russo 
 

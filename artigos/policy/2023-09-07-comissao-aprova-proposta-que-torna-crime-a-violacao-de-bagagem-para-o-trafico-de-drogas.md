@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que torna crime a violação de bagagem para o tráfico de drogas"
+title: Comissão aprova proposta que torna crime a violação de bagagem para o tráfico
+  de drogas
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O projeto ainda será analisado pela Comissão de Constituição e Justiça e de Cidadania; depois, seguirá para o Plenário.
 

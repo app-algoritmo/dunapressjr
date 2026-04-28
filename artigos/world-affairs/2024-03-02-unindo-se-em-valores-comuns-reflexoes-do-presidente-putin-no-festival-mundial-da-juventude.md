@@ -1,11 +1,13 @@
 ---
-title: "Unindo-se em Valores Comuns: Reflexões do Presidente Putin no Festival Mundial da Juventude"
+title: 'Unindo-se em Valores Comuns: Reflexões do Presidente Putin no Festival Mundial
+  da Juventude'
 date: 2024-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, proferiu um discurso inspirador durante o Festival Mundial da Juventude, ressaltando a importância dos valores tradicionais compartilhados pela maioria das pessoas na Terra. Putin enfatizou a necessidade de unir esforços para enfrentar desafios globais, como a pobreza, o terrorismo e o tráfico de drogas, enquanto preservava as riquezas naturais e culturais do planeta para as futuras gerações.
 

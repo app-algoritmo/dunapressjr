@@ -1,11 +1,12 @@
 ---
-title: "PF prende casal por furto em sala de embarque de aeroporto internacional"
+title: PF prende casal por furto em sala de embarque de aeroporto internacional
 date: 2020-02-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Na manhã de hoje, 28/2/2020, a
 Polícia Federal, com o apoio da Polícia Militar de Minas Gerais, prendeu um

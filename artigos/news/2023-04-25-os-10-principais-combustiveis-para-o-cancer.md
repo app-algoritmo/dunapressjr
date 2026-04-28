@@ -1,11 +1,12 @@
 ---
-title: "Os 10 principais combustíveis para o câncer"
+title: Os 10 principais combustíveis para o câncer
 date: 2023-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A suposta “Guerra ao Câncer” é falsa na América. Da mídia de massa às organizações que afirmam estar em busca de uma cura, quase todo esforço que se afirma ter sido feito é, na maioria das vezes, muito pouco, muito tarde. A assistência médica para o câncer é uma abordagem retrógrada que espera até que as células cancerígenas invadam o tecido enfraquecido do corpo e criem raízes. Muitos métodos de diagnóstico para detectar o câncer literalmente causam câncer, como mamografias (scam-o-grams) e biópsias (a cirurgia pode espalhar células cancerígenas no sangue).
 

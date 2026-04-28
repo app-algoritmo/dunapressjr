@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,34 com alívio no mercado externo"
+title: Dólar cai para R$ 5,34 com alívio no mercado externo
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe 2,04% e fecha acima de 100 mil pontos.
 

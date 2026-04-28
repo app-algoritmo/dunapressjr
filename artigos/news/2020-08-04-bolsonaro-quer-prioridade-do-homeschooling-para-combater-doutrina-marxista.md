@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro quer prioridade do homeschooling  para combater doutrina marxista"
+title: Bolsonaro quer prioridade do homeschooling  para combater doutrina marxista
 date: 2020-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O tão esperado ensino domiciliar (***Homeschooling***), proibido no Brasil pelos juízes democráticos da corte suprema do país, pode ser uma realidade legal se assim depender do executivo de Bolsonaro que busca uma rápida solução para elevar o grau de conhecimento dos estudantes como também combater a doutrinação marxista instalada no país a décadas que foi capaz de destruir e eludir a mente de milhões de jovens e crianças. 
 

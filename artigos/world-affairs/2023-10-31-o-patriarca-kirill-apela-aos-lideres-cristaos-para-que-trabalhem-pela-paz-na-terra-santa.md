@@ -1,11 +1,13 @@
 ---
-title: "O Patriarca Kirill apela aos líderes cristãos para que trabalhem pela paz na Terra Santa"
+title: O Patriarca Kirill apela aos líderes cristãos para que trabalhem pela paz na
+  Terra Santa
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Patriarca observou que a Terra Santa e o seu povo mereciam a paz pelo menos no século XXI.
 

@@ -1,11 +1,12 @@
 ---
-title: "Expressões e seus significados: Leis Draconianas"
+title: 'Expressões e seus significados: Leis Draconianas'
 date: 2020-06-07
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 As expressões históricas percorrem de forma livre em meio as nossas interações sociais, chegando até a ser presente em várias culturas e com a colocação original de seu significado. Neste artigo escreverei sobre as Leis Draconianas que muito é usado por políticos ou em grandes empresas em suas interações administrativas.
 

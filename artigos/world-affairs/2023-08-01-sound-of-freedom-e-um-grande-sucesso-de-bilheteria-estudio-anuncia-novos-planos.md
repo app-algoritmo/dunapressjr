@@ -1,11 +1,13 @@
 ---
-title: "Sound of Freedom” é um grande sucesso de bilheteria. Estúdio anuncia novos planos"
+title: Sound of Freedom” é um grande sucesso de bilheteria. Estúdio anuncia novos
+  planos
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Desde sua estreia em 4 de julho, "Sound of Freedom" tem sido um sucesso retumbante.
 

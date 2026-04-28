@@ -1,11 +1,13 @@
 ---
-title: "Comunidade do bairro Cordeiros, em Itajaí será contemplada com modernização de ginásio"
+title: Comunidade do bairro Cordeiros, em Itajaí será contemplada com modernização
+  de ginásio
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Responsável por diversos eventos esportivos do município, o Ginásio Poliesportivo Professor Jucílio de Castro Fernandes ganhará uma estrutura mais moderna. O contrato de serviço foi assinado neste mês e as obras deverão ser concluídas no prazo de nove meses, com o investimento de R$ 482.771,43.
 

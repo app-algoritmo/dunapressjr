@@ -1,11 +1,12 @@
 ---
-title: "Temperaturas em alta podem ser amenizadas com algumas medidas simples"
+title: Temperaturas em alta podem ser amenizadas com algumas medidas simples
 date: 2022-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O verão chegou e, com ele, os termômetros de todo o país já começam a registrar recordes de temperatura. Seja no Rio de Janeiro ou no interior do Paraná, o calor pode causar muitos incômodos, provocando sintomas como desidratação, sudorese excessiva, exaustão e até mesmo cãibras. Mas alguns truques podem ajudar a manter o clima nos ambientes internos mais agradável para pessoas e animais de estimação. De acordo com o assessor da área de Física do Sistema Positivo de Ensino, Danilo Capelari, é possível tornar o ar menos quente dentro de casa adotando algumas medidas simples.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ataque em Oslo nas celebrações LGBT deixa 2 pessoas mortas e 21 feridos"
+title: Ataque em Oslo nas celebrações LGBT deixa 2 pessoas mortas e 21 feridos
 date: 2022-06-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Oslo, Noruega – Um atirador abriu fogo no distrito de vida noturna de Oslo no início do sábado, matando duas pessoas e deixando mais de 20 feridos no que o serviço de segurança norueguês chamou de “ato terrorista islâmico” durante o festival anual  LGBT. Os investigadores informaram que o atacante tem 42 anos indentificado como Zaniar Matapour de origem iraniana nacionalizado norueguês, Matapour foi preso após abrir fogo em três locais no centro de Oslo. Dois homens, um de 50 anos e outro de 60 anos, morreram durante o ataque. 21 pessoas foram tratadas com ferimentos graves e outros 31 tiveram ferimentos leves.
 

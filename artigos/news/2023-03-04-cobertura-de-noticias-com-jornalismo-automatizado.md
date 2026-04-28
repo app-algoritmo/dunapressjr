@@ -1,11 +1,12 @@
 ---
-title: "Cobertura de notícias com jornalismo automatizado"
+title: Cobertura de notícias com jornalismo automatizado
 date: 2023-03-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Já é uma realidade e parte do trabalho híbrido em [Duna](https://dunapress.org/regras-eticas/) Press, ainda que tímido, precisa tempo "humano" de assimilação.
 

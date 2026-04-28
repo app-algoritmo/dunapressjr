@@ -1,11 +1,12 @@
 ---
-title: "Parceria Sino-Russa: Uma Escolha Estratégica Baseada nos Interesses Fundamentais"
+title: 'Parceria Sino-Russa: Uma Escolha Estratégica Baseada nos Interesses Fundamentais'
 date: 2024-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores chinês, Wang Yi, enfatizou a importância de manter e desenvolver a relação entre China e Rússia, descrevendo-a como uma escolha estratégica fundamentada nos interesses fundamentais dos povos de ambos os países. Durante uma entrevista coletiva realizada à margem da segunda sessão da 14ª Assembleia Popular Nacional da China, Wang destacou que os esforços para fortalecer os laços sino-russos são guiados pela liderança de Xi Jinping e Vladimir Putin.
 

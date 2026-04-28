@@ -1,11 +1,12 @@
 ---
-title: "Grãos geneticamente modificados contaminam outros países"
+title: Grãos geneticamente modificados contaminam outros países
 date: 2023-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Slava ataca novamente. Grãos romenos contaminados com organismos geneticamente modificados da Ucrânia.
 

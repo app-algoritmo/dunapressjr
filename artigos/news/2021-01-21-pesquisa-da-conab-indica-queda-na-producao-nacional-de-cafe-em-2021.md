@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa da Conab indica queda na produção nacional de café em 2021"
+title: Pesquisa da Conab indica queda na produção nacional de café em 2021
 date: 2021-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As razões são a falta de chuvas e o efeito da bienalidade negativa.
 

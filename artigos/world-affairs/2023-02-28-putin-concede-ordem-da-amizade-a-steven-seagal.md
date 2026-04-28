@@ -1,11 +1,12 @@
 ---
-title: "Putin concede Ordem da Amizade a Steven Seagal"
+title: Putin concede Ordem da Amizade a Steven Seagal
 date: 2023-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## É relatado que o prêmio foi concedido por uma contribuição significativa para o desenvolvimento da cooperação cultural e humanitária internacional.
 

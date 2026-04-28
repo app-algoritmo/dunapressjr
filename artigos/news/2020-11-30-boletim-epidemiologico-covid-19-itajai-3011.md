@@ -1,11 +1,12 @@
 ---
-title: "Boletim Epidemiológico Covid-19 Itajaí 30/11"
+title: Boletim Epidemiológico Covid-19 Itajaí 30/11
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí soma neste domingo (29) 10.408 casos confirmados de COVID-19 e 196 mortes em decorrência da doença. Do total de contaminados, 9.079 pacientes já se recuperaram (87,23%) e 1.133 estão com o vírus ativo (45 internados e 1.088 em isolamento domiciliar). Há ainda 181 casos suspeitos aguardando resultado de exames.
 

@@ -1,11 +1,13 @@
 ---
-title: "“Meça sua pressão arterial com precisão, controle-a, viva mais!” :17/5 – Dia Mundial da Hipertensão"
+title: “Meça sua pressão arterial com precisão, controle-a, viva mais!” :17/5 – Dia
+  Mundial da Hipertensão
 date: 2022-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Esta importante atividade mundial foi criada pela World Hypertension League (WHL) e realizada pela primeira vez em 14 de maio de 2005, com o tema: Conheça seus números! O Dia Mundial da Hipertensão foi um sucesso retumbante com a participação de 24 países e, desde então, tem sido um evento anual em constante expansão.
 

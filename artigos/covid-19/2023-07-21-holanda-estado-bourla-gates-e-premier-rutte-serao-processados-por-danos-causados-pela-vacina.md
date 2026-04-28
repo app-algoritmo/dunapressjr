@@ -1,11 +1,13 @@
 ---
-title: "Holanda: Estado, Bourla, Gates e Premier Rutte serão processados por danos causados pela vacina"
+title: 'Holanda: Estado, Bourla, Gates e Premier Rutte serão processados por danos
+  causados pela vacina'
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A Stiftung [Recht Oprecht](https://rechtoprecht.online/index) possibilitou que os sete demandantes instaurassem um processo judicial no tribunal de Leeuwarden. 
 

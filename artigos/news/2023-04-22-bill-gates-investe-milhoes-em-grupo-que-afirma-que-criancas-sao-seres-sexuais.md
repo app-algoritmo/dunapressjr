@@ -1,11 +1,12 @@
 ---
-title: "Bill Gates investe milhões em grupo que afirma que crianças são 'seres sexuais'"
+title: Bill Gates investe milhões em grupo que afirma que crianças são 'seres sexuais'
 date: 2023-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O co-fundador da Microsoft, Bill Gates, investiu dezenas de milhões de dólares em uma organização não-governamental (ONG) radical que trabalha para garantir que crianças pequenas sejam vistas como "seres sexuais".
 

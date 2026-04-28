@@ -1,11 +1,12 @@
 ---
-title: "A Vital Importância da Agricultura para a Vida Humana"
+title: A Vital Importância da Agricultura para a Vida Humana
 date: 2024-02-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 A agricultura é uma das atividades mais antigas e essenciais para a sobrevivência da humanidade. Desde os primórdios da civilização, quando os seres humanos deixaram de ser nômades e se estabeleceram em comunidades agrícolas, a agricultura tem desempenhado um papel fundamental no fornecimento de alimentos, fibras e materiais essenciais para a vida diária.
 

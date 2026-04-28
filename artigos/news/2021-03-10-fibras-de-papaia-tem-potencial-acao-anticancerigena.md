@@ -1,11 +1,12 @@
 ---
-title: "Fibras de papaia têm potencial ação anticancerígena"
+title: Fibras de papaia têm potencial ação anticancerígena
 date: 2021-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Avaliar os efeitos biológicos das fibras alimentares do mamão papaia na saúde do intestino. Esse foi o objetivo de Samira Bernardino Ramos do Prado, em sua pesquisa de doutorado pelo Programa de Pós-graduação em Ciência dos Alimentos da Universidade de São Paulo (USP). O estudo, coordenado pelo professor João Paulo Fabi, recebeu o [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área da Ciência dos Alimentos. 
 

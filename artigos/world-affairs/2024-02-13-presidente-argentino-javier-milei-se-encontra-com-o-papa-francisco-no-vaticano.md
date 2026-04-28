@@ -1,11 +1,12 @@
 ---
-title: "Presidente Argentino Javier Milei se Encontra com o Papa Francisco no Vaticano"
+title: Presidente Argentino Javier Milei se Encontra com o Papa Francisco no Vaticano
 date: 2024-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O aguardado encontro entre o Presidente argentino, Javier Milei, e o Papa Francisco finalmente ocorreu no Vaticano, marcado por três sessões distintas. Durante os 70 minutos de reunião, Milei e o Pontífice discutiram uma variedade de questões, começando com uma conversa privada entre o chefe de Estado argentino e o bispo de Roma.
 

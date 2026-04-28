@@ -1,11 +1,13 @@
 ---
-title: "Alunos do Centro de Educação em Tempo Integral (Cedin) em Itajaí recebem presentes em “Drive Thru Natalino”"
+title: Alunos do Centro de Educação em Tempo Integral (Cedin) em Itajaí recebem presentes
+  em “Drive Thru Natalino”
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A quarta-feira (09) foi especial para os quase 280 alunos matriculados no Centro de Educação em Tempo Integral (Cedin) Emílio Gazaniga Júnior, no bairro Cidade Nova. Das 8h às 16h, ocorreu a entrega “drive thru” de presentes de Natal às crianças. Uma tenda foi montada no estacionamento e os pequenos, juntamente com seus familiares, foram recebidos com todas as medidas de proteção necessárias. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar termina dia com leve queda e acumula recuo de 7,2% em novembro"
+title: Dólar termina dia com leve queda e acumula recuo de 7,2% em novembro
 date: 2020-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa teve alta nesta sexta e subiu 17,7% no mês.
 

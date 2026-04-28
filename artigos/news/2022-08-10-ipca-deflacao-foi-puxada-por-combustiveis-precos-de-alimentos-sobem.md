@@ -1,11 +1,12 @@
 ---
-title: "IPCA: deflação foi puxada por combustíveis; preços de alimentos sobem"
+title: 'IPCA: deflação foi puxada por combustíveis; preços de alimentos sobem'
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Grupo de alimentos é impactado por alta de 25,46% no leite longa vida.
 

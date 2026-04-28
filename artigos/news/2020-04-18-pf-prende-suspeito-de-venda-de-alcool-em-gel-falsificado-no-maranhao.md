@@ -1,11 +1,12 @@
 ---
-title: "PF prende suspeito de venda de álcool em gel falsificado no Maranhão"
+title: PF prende suspeito de venda de álcool em gel falsificado no Maranhão
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Caxias/MA –  A Polícia Federal prendeu na tarde desta quinta-feira (16/4), junto com agentes da DENARC,  um homem pelo comércio de álcool em gel falsificado, em Caxias, no Maranhão.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde somente em abril habilitou 2.258  de UTI para pacientes com Covid-19"
+title: Ministério da Saúde somente em abril habilitou 2.258  de UTI para pacientes
+  com Covid-19
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os estados de Alagoas, Pernambuco e Goiás ganharam mais um reforço no combate ao novo coronavírus. Na segunda-feira (27), o Ministério da Saúde habilitou mais 497 leitos de UTI, sendo cinco deles de UTI pediátrica, para atender exclusivamente pacientes graves ou críticos da doença. O total de leitos habilitados no Brasil, somente em abril, chega a 2.258, sendo 26 deles de UTI pediátrica.
 

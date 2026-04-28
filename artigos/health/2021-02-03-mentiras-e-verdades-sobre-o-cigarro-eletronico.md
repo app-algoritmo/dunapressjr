@@ -1,11 +1,12 @@
 ---
-title: "Mentiras e verdades sobre o cigarro eletrônico"
+title: Mentiras e verdades sobre o cigarro eletrônico
 date: 2021-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Disfarçados por uma infinidade de sabores e aromas, os cigarros eletrônicos dão, à primeira vista, a ideia de serem uma boa alternativa. Principalmente por parecerem, acima de tudo, inofensivos à saúde. Os vaporizadores, como assim também são chamados, ganharam um espaço muito rápido principalmente entre os mais jovens, reacendendo o debate sobre o tabagismo.
 

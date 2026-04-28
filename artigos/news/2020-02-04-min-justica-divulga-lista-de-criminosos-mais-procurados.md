@@ -1,11 +1,12 @@
 ---
-title: "Min Justiça divulga lista de criminosos mais procurados"
+title: Min Justiça divulga lista de criminosos mais procurados
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública publicou, na sexta-feira (31), uma lista com os nomes dos criminosos mais procurados pela polícia. Atualmente, a lista tem 26 criminosos com foto e informações. A lista, que deve ser atualizada mensalmente, é estratégica para o combate ao crime organizado e a redução dos índices de criminalidade.
 

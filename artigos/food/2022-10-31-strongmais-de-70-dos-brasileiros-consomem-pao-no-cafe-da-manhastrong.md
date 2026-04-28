@@ -1,11 +1,12 @@
 ---
-title: "<strong>Mais de 70% dos brasileiros consomem pão no café da manhã</strong>"
+title: <strong>Mais de 70% dos brasileiros consomem pão no café da manhã</strong>
 date: 2022-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Indispensável na mesa dos brasileiros, o pão é o alimento principal - e indispensável - no café da manhã ou da tarde dos brasileiros. Em muitas casas, o alimento acompanha as demais refeições. Seja o tradicional francês, o de centeio, a baguete, o alentejano, o australiano, o ciabatta ou o brioche, o pão sempre está presente nos lares e restaurantes do Brasil e do mundo. Segundo o Sindipan-MT, 76% dos brasileiros consomem o produto no café da manhã e 98% fazem uso de produtos panificados. Dos pães consumidos, 52% são do tipo francês.
 

@@ -1,11 +1,13 @@
 ---
-title: "7 crianças paralisadas pelo vírus da poliomielite graças a vacina financiada por Gates"
+title: 7 crianças paralisadas pelo vírus da poliomielite graças a vacina financiada
+  por Gates
 date: 2023-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Sete crianças ficaram paralisadas por uma vacina contra a poliomielite ligada à nova vacina contra a poliomielite nOPV2 que está sendo desenvolvida pela Fundação Bill & Melinda Gates. O anúncio foi feito por autoridades de saúde da República Democrática do Congo e Burundi e pela Iniciativa Global de Erradicação da Pólio (GPEI) na quinta-feira.*
 

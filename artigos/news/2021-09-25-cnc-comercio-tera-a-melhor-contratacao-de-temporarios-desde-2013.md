@@ -1,11 +1,12 @@
 ---
-title: "CNC: comércio terá a melhor contratação de temporários desde 2013"
+title: 'CNC: comércio terá a melhor contratação de temporários desde 2013'
 date: 2021-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é de mais de 94,2 mil vagas para atender o movimento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque:￼ Djalma Guimarães"
+title: Série Brasileiros em Destaque:￼ Djalma Guimarães
 date: 2022-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Djalma Guimarães nasceu em Santa Luzia, Minas Gerais, no dia 5 de novembro de 1894, filho de Luiz Caetano da Silva Guimarães e Evangelina Teixeira Guimarães, neto do conselheiro João Caetano da Silva Guimarães (avô paterno) e do senador Manuel Teixeira da Costa (avô materno). Iniciou seus estudos em sua terra natal, transferindo-se para a admissão ao primeiro ano do curso ginasial do Colégio Pedro II, no Rio de Janeiro. Posteriormente, em 1913, ingressou na Escola de Minas de Ouro Preto em que se graduou como engenheiro de minas e civil no ano de 1919 e obteve como prêmio uma viagem à Europa. Entretanto, abriu mão dessa distinção para iniciar suas atividades como engenheiro civil, na Estrada de Ferro Teresópolis. Djalma casou-se com Rute Teixeira, com quem teve quatro filhos (Luiz Guimarães (14/03/1922), Eva Guimarães (18/08/1923), Luciano Teixeira Guimarães (07/09/1924) e João Pandiá Guimarães (07/08/1926).  
 

@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde é superado pelo Dentil Praia Clube"
+title: Osasco São Cristóvão Saúde é superado pelo Dentil Praia Clube
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Osasco São Cristóvão Saúde foi superado pelo Dentil Praia Clube na noite deste sábado (3), em Uberlândia. A equipe mineira fez 3 sets a 0, parciais de 25/21, 25/19 e 25/13, em 1hxxmin, e manteve a liderança invicta da Superliga 1XBET 2022/23. A equipe de Adenizia, Malo Smarzek, Tifanny, Natinha, Fabiana e cia. vai em busca da reabilitação diante da sua torcida. Na próxima sexta (9), recebe Barueri no ginásio José Liberatti.
 

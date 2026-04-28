@@ -1,11 +1,13 @@
 ---
-title: "Governo bate recorde de acompanhamento de saúde dos beneficiários do Bolsa Família"
+title: Governo bate recorde de acompanhamento de saúde dos beneficiários do Bolsa
+  Família
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 *Dos 25 milhões de beneficiários que precisam de acompanhamento segundo as regras do programa, mais de 20 milhões (79,71%) foram atendidos no segundo semestre de 2019 pela rede de saúde*.
 

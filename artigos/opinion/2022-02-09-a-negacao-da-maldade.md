@@ -1,11 +1,12 @@
 ---
-title: "A negação da maldade"
+title: A negação da maldade
 date: 2022-02-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ## Comentarista faz saudação nazista e ri em TV aberta, apresentador defende a criação de um partido nazista.
 

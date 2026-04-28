@@ -1,11 +1,12 @@
 ---
-title: "Donald Trump Paga Fiança de $175 Milhões em Julgamento por Fraude em Nova Iorque"
+title: Donald Trump Paga Fiança de $175 Milhões em Julgamento por Fraude em Nova Iorque
 date: 2024-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Donald Trump pagou uma fiança de 175 milhões de dólares no seu julgamento civil por fraude em Nova Iorque, evitando assim a cobrança dos mais de 454 milhões de dólares que deve e o confisco dos seus bens pelo Estado para saldar a dívida da qual recorre, conforme documentos judiciais revelam.
 

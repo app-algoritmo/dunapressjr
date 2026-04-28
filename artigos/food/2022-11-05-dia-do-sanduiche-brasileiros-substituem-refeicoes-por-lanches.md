@@ -1,11 +1,12 @@
 ---
-title: "Dia do Sanduíche: brasileiros substituem refeições por lanches"
+title: 'Dia do Sanduíche: brasileiros substituem refeições por lanches'
 date: 2022-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## Pandemia e alta de preços impactam diretamente a mesa das famílias. Confira receitas de sanduíches diferentes para acrescentar ao cardápio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,38 com otimismo externo"
+title: Dólar cai para R$ 5,38 com otimismo externo
 date: 2021-02-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Em meio à troca de comando da Petrobras, bolsa caiu 0,64%.
 

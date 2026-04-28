@@ -1,11 +1,12 @@
 ---
-title: "Governo de Minas instala gabinete de crise em Antônio Dias"
+title: Governo de Minas instala gabinete de crise em Antônio Dias
 date: 2022-12-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Força-tarefa foi criada após fortes chuvas na região causarem a morte de ao menos três pessoas.
 

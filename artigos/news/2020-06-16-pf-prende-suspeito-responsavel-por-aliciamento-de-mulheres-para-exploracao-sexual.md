@@ -1,11 +1,13 @@
 ---
-title: "PF prende suspeito responsável por aliciamento de mulheres para exploração sexual"
+title: PF prende suspeito responsável por aliciamento de mulheres para exploração
+  sexual
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Polícia Federal prendeu na última sexta-feira (12/6) um suspeito de ser responsável pelo aliciamento de mulheres com o fim de exploração sexual no exterior.
 

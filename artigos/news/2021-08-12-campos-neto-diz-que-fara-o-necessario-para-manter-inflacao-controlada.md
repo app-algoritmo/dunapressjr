@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto diz que fará o necessário para manter inflação controlada"
+title: Campos Neto diz que fará o necessário para manter inflação controlada
 date: 2021-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BC participou hoje do 33º Congresso Nacional da Abrasel.
 

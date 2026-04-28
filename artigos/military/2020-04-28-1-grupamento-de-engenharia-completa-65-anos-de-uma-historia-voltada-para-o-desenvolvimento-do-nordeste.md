@@ -1,11 +1,13 @@
 ---
-title: "1º Grupamento de Engenharia completa 65 anos de uma história voltada para o desenvolvimento do Nordeste"
+title: 1º Grupamento de Engenharia completa 65 anos de uma história voltada para o
+  desenvolvimento do Nordeste
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **João Pessoa (PB**) – O 1º Grupamento de Engenharia (1º Gpt E), sediado em João Pessoa, completou, em 27 de abril, 65 anos de existência. Ao longo de sua trajetória, configura-se como um importante vetor para o desenvolvimento da Região Nordeste. Subordinado ao Comando Militar do Nordeste (CMNE), o 1º Grupamento de Engenharia, Grupamento General Lyra Tavares, é o Grande Comando responsável pelas atividades de engenharia no âmbito do CMNE, com destaque para a realização de obras militares e de cooperação,a gestão do patrimônio imobiliário jurisdicionado ao Exército Brasileiro,a coordenação das atividades relacionadas ao meio ambiente,a gestão do material de engenharia e o apoio de engenharia às operações de combate.
 

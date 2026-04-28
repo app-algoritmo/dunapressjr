@@ -1,11 +1,13 @@
 ---
-title: "Índice Nacional de Custo da Construção – M (INCC-M) apresenta leve desaceleração em novembro"
+title: Índice Nacional de Custo da Construção – M (INCC-M) apresenta leve desaceleração
+  em novembro
 date: 2023-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Variação de 0,10% no mês mostra um cenário de estabilidade com destaque para os grupos de materiais, equipamentos e serviços, bem como mão de Obra
 

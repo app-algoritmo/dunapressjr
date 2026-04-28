@@ -1,11 +1,13 @@
 ---
-title: "RFK Jr .: Biden deve se desculpar com a América e a Ucrânia por promover a “guerra por procuração”"
+title: 'RFK Jr .: Biden deve se desculpar com a América e a Ucrânia por promover a
+  “guerra por procuração”'
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O candidato presidencial democrata Robert F. Kennedy Jr. (RFK Jr.) pediu ao presidente Joe Biden [que se desculpasse com os EUA e a Ucrânia](https://www.lifesitenews.com/opinion/rfk-jr-tells-biden-to-apologize-to-america-ukraine-for-pushing-a-proxy-war-on-false-pretenses/) por promover uma "guerra por procuração".
 

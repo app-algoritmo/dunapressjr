@@ -1,11 +1,13 @@
 ---
-title: "Passam de 3 mil estudantes de Itararé/SP os que recebem kits da alimentação escolar"
+title: Passam de 3 mil estudantes de Itararé/SP os que recebem kits da alimentação
+  escolar
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Produtos de hortifrúti adquiridos com recursos do PNAE estão sendo entregues pela Secretaria Municipal de Educação.
 

@@ -1,11 +1,13 @@
 ---
-title: "Aterrorizante relatório final da Rússia: EUA trabalhando em arma biológica “universal” geneticamente modificada"
+title: 'Aterrorizante relatório final da Rússia: EUA trabalhando em arma biológica
+  “universal” geneticamente modificada'
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os legisladores russos concluíram uma investigação sobre as atividades biológicas militares de Washington em laboratórios na Ucrânia, com base em descobertas divulgadas pelas Forças de Defesa de Radiação, Química e Biológica da Rússia no ano passado.
 

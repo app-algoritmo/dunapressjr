@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,10 após declarações de Haddad sobre reformas"
+title: Dólar cai para R$ 5,10 após declarações de Haddad sobre reformas
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 2,04%, puxada por avanço de commodities.
 

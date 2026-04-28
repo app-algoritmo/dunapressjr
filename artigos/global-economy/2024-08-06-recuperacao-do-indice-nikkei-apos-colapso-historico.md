@@ -1,11 +1,12 @@
 ---
-title: "Recuperação do Índice Nikkei Após Colapso Histórico"
+title: Recuperação do Índice Nikkei Após Colapso Histórico
 date: 2024-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **TÓQUIO, 6 de agosto** – Após uma queda dramática, o índice Nikkei da Bolsa de Valores de Tóquio, que reflete o desempenho das 225 principais empresas japonesas, mostrou sinais significativos de recuperação na sessão matinal desta terça-feira. Nos primeiros 15 minutos do pregão, o índice já havia avançado impressionantes 7,99%, alcançando 33.971,7 pontos.
 

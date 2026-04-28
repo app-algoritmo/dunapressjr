@@ -1,11 +1,12 @@
 ---
-title: "IPCA registra deflação de 0,31% em abril"
+title: IPCA registra deflação de 0,31% em abril
 date: 2020-05-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 No acumulado do ano, o índice de inflação ficou em 0,22%
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede a inflação oficial, registrou deflação (queda de preços) de 0,31% em abril deste ano. A taxa é a menor variação mensal do IPCA desde agosto de 1998 (-0,51%). Em março deste ano, havia sido registrada inflação de 0,07%. Já em abril de 2019, a taxa havia ficado em 0,57%. Dados foram divulgados hoje (8) pelo Instituto Brasileiro de Geografia e Estatística.

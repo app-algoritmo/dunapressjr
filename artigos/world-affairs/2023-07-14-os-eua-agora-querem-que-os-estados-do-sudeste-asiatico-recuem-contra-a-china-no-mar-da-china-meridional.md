@@ -1,11 +1,13 @@
 ---
-title: "Os EUA agora querem que os estados do Sudeste Asiático 'recuem' contra a China no Mar da China Meridional."
+title: Os EUA agora querem que os estados do Sudeste Asiático 'recuem' contra a China
+  no Mar da China Meridional.
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Blinken se reunirá com ministros das Relações Exteriores da ASEAN de 13 a 15 de julho.
 

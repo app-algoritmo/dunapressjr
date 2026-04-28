@@ -1,11 +1,12 @@
 ---
-title: "Trabalhar no exterior: saiba como é, se vale a pena e como conseguir"
+title: 'Trabalhar no exterior: saiba como é, se vale a pena e como conseguir'
 date: 2026-04-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Em tempos em que os juros não param de subir, a inflação segue alta e a taxa de desemprego também em crescimento, trabalhar no exterior aparece como uma opção para muita gente, afinal o sonho de ganhar bem e desfrutar de uma vida mais tranquila fora do Brasil é um chamariz para muita gente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Confederação"
+title: 'Série Fatos Da Independência: Confederação'
 date: 2023-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O apoio dos piauienses à causa da independência foi acompanhado por uma vontade de participação na política. Isso explica a valorização da Assembleia Constituinte convocada por Dom Pedro. Ela seria, afinal, uma oportunidade para os deputados das províncias colocarem suas demandas diretamente para o novo Imperador. Não é nenhuma surpresa, portanto, que o fechamento da Assembleia e a consequente outorga da constituição, em 1824, tenham sido motivo de insatisfação. A atitude, considerada autoritária, centralizou o poder nas mãos de Dom Pedro e não conferiu às lideranças provinciais a participação desejada. A vila de Parnaíba se rebelou novamente, em 25 de agosto de 1824, e proclamou a república, unindo-se à Confederação do Equador. O movimento também ganhou o apoio da vila de Piracuruca e muitos membros da câmara de Campo Maior mobilizaram-se favoravelmente à adesão à Confederação. Na vanguarda no movimento estavam o já mencionado Coronel Simplício Dias e o juiz parnaibano, João Cândido de Deus e Silva.
 

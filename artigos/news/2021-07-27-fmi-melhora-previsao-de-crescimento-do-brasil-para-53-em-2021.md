@@ -1,11 +1,12 @@
 ---
-title: "FMI melhora previsão de crescimento do Brasil, para 5,3% em 2021"
+title: FMI melhora previsão de crescimento do Brasil, para 5,3% em 2021
 date: 2021-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão impulsionou estimativa de alta para América Latina e Caribe.
 

@@ -1,11 +1,12 @@
 ---
-title: "IRGC adverte Israel: Ameaças não ficarão sem resposta do Irã"
+title: 'IRGC adverte Israel: Ameaças não ficarão sem resposta do Irã'
 date: 2024-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Corpo da Guarda Revolucionária Islâmica (IRGC) emitiu um comunicado enfático alertando que qualquer ameaça proveniente do governo israelense contra o Irã será prontamente respondida. Abbas Nilrushan, vice-comandante de operações do IRGC, declarou que o Irã não hesitará em retaliar qualquer ação do governo israelense que vise os interesses iranianos, independentemente de onde ocorram.
 

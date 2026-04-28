@@ -1,11 +1,12 @@
 ---
-title: "Drones de Kiev atacaram o Kremlin à noite, Putin ileso"
+title: Drones de Kiev atacaram o Kremlin à noite, Putin ileso
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O porta-voz do Kremlin, Dmitry Peskov, disse a repórteres que na quarta-feira Putin está trabalhando em Novo-Ogaryovo, nos arredores de Moscou, onde se encontrou com o governador de Nizhny Novgorod, Gleb Nikitin.
 

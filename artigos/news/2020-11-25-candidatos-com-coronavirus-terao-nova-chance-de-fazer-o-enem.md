@@ -1,11 +1,12 @@
 ---
-title: "Candidatos com Coronavírus terão nova chance de fazer o Enem"
+title: Candidatos com Coronavírus terão nova chance de fazer o Enem
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o Inep, o estudante deve comunicar se está com a doença infectocontagiosa para fazer o exame em outra data.
 

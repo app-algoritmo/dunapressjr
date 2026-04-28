@@ -1,11 +1,12 @@
 ---
-title: "Grandes guerras não surgem do nada."
+title: Grandes guerras não surgem do nada.
 date: 2024-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Discurso do Primeiro-Ministro, Viktor Orbán:
 

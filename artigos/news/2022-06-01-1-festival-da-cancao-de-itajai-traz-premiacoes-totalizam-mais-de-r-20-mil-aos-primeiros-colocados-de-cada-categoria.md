@@ -1,11 +1,13 @@
 ---
-title: "1º Festival da Canção de Itajaí, traz premiações totalizam mais de R$ 20 mil aos primeiros colocados de cada categoria"
+title: 1º Festival da Canção de Itajaí, traz premiações totalizam mais de R$ 20 mil
+  aos primeiros colocados de cada categoria
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As inscrições para o 1º Festival da Canção de Itajaí seguem abertas até as 23h59 do dia 07 de julho. A iniciativa integra a programação do aniversário de 162 anos do Município e contemplará artistas de música autoral em três categorias: Ensino Fundamental II, Ensino Médio e Livre. Os interessados devem preencher o formulário on-line disponível [aqui](https://bit.ly/3kKCCpZ).
 

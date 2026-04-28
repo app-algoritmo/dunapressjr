@@ -1,11 +1,13 @@
 ---
-title: "Novo teste com Nanopartículas Magnéticas COVID-19 da NTNU será usado na Índia e na Dinamarca"
+title: Novo teste com Nanopartículas Magnéticas COVID-19 da NTNU será usado na Índia
+  e na Dinamarca
 date: 2020-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Universidade Norueguesa de Ciência e Tecnologia (NTNU) assinou acordos para entregar até um milhão de kits de teste COVID-19 à DTU, à Universidade Técnica da Dinamarca e à APS LABS, uma empresa indiana de biotecnologia. "É muito positivo que essa tecnologia agora também possa ser útil internacionalmente", diz Bent Høie, ministro dos Serviços de Saúde e Cuidados da Noruega.
 

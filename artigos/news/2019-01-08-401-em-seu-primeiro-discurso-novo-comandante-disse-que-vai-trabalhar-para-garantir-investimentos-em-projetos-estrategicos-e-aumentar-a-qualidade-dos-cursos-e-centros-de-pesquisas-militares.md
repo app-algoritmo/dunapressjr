@@ -1,11 +1,14 @@
 ---
-title: "4.01 Em seu primeiro discurso, novo comandante disse que vai trabalhar para garantir investimentos em projetos estratégicos e aumentar a qualidade dos cursos e centros de pesquisas militares"
+title: 4.01 Em seu primeiro discurso, novo comandante disse que vai trabalhar para
+  garantir investimentos em projetos estratégicos e aumentar a qualidade dos cursos
+  e centros de pesquisas militares
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro participa de transmissão do cargo de Comandante da Aeronáutica
 

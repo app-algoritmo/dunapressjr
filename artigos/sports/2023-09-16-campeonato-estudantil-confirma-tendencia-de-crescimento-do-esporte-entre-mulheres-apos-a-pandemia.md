@@ -1,11 +1,13 @@
 ---
-title: "Campeonato estudantil confirma tendência de crescimento do esporte entre mulheres, após a pandemia"
+title: Campeonato estudantil confirma tendência de crescimento do esporte entre mulheres,
+  após a pandemia
 date: 2023-09-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Dados de 2023, como da Liga Esportiva NESCAU®, comprovam forte avanço. Maior campeonato poliesportivo estudantil do Brasil recebeu 57% de inscrições de meninas perante 43% dos meninos.
 

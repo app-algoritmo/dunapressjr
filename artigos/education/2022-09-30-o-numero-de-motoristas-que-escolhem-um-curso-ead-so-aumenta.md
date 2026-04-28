@@ -1,11 +1,12 @@
 ---
-title: "O número de motoristas que escolhem um Curso EAD só aumenta"
+title: O número de motoristas que escolhem um Curso EAD só aumenta
 date: 2022-09-30
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Em 2020, pela primeira vez, o número de novos alunos nos cursos de graduação a distância do Brasil superou os alunos presenciais, tanto dentro da rede pública quanto dentro da rede privada.
 

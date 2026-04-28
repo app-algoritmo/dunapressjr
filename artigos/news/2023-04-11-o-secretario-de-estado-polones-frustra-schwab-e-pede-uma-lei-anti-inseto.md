@@ -1,11 +1,12 @@
 ---
-title: "O secretário de estado polonês frustra Schwab e pede uma 'lei anti-inseto'"
+title: O secretário de estado polonês frustra Schwab e pede uma 'lei anti-inseto'
 date: 2023-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Os planos de Klaus Schwab encontraram resistência em toda a Europa. Assim também na Polônia. O secretário de Estado da Agricultura da Polônia pede uma "lei anti-insetos". Inicialmente, isso deve garantir que todos os alimentos que contenham insetos sejam rotulados com um aviso.
 

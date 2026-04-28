@@ -1,11 +1,13 @@
 ---
-title: "<strong>União e prefeitura de São Paulo fazem acerto contábil sobre Campo de Marte</strong>"
+title: <strong>União e prefeitura de São Paulo fazem acerto contábil sobre Campo de
+  Marte</strong>
 date: 2022-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Houve um encontro de contas que impacta o resultado primário do Governo Central em R$ 23,9 bilhões, mas sem efeito sobre o setor público consolidado e a Dívida Bruta do Governo Geral.
 

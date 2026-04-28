@@ -1,11 +1,13 @@
 ---
-title: "Energia de fusão: a evolução milionária da energia nuclear que desperta interesse em todo o mundo"
+title: 'Energia de fusão: a evolução milionária da energia nuclear que desperta interesse
+  em todo o mundo'
 date: 2022-06-13
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 A busca por fontes de energia limpa, que não agridam o meio ambiente e não tornem escassos os recursos naturais, tem promovido uma corrida entre cientistas de todo o mundo. A novidade mais recente estudada pelos laboratórios é o processo de[ fusão nuclear](https://www.respondeai.com.br/conteudo/quimica/quimica-nuclear/fissao-e-fusao-nuclear/1558), uma possibilidade de alcançar uma geração de energia ilimitada.
 

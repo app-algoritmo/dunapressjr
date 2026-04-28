@@ -1,11 +1,13 @@
 ---
-title: "Os mergulhadores encontram uma rara máquina de criptografia Enigma nazista no fundo do Mar Báltico"
+title: Os mergulhadores encontram uma rara máquina de criptografia Enigma nazista
+  no fundo do Mar Báltico
 date: 2020-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mergulhadores alemães encontraram uma rara máquina de codificação Enigma, usada pelos nazistas para enviar mensagens codificadas durante a Segunda Guerra Mundial, no fundo do Mar Báltico no mês passado.
 

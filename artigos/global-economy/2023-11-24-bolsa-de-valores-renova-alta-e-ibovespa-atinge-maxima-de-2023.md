@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores renova alta e Ibovespa atinge máxima de 2023"
+title: Bolsa de valores renova alta e Ibovespa atinge máxima de 2023
 date: 2023-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sob pressão.
 

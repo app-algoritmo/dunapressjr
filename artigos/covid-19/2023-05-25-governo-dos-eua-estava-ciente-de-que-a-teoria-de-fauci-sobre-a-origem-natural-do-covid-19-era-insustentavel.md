@@ -1,11 +1,13 @@
 ---
-title: "Governo dos EUA estava ciente de que a teoria de Fauci sobre a origem natural do COVID-19 era insustentável"
+title: Governo dos EUA estava ciente de que a teoria de Fauci sobre a origem natural
+  do COVID-19 era insustentável
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um documento vazado do Pentágono criado no início da pandemia sugere que o governo dos EUA sempre soube que a teoria de Fauci sobre a origem natural do COVID-19 poderia ser absurda, [relata](http://www.theblaze.com/news/leaked-pentagon-paper-indicates-the-us-government-suspected-all-along-that-fauci-s-covid-19-natural-origins-theory-was-rubbish?utm_source=dlvr.it&utm_medium=facebook) o The Blaze .
 

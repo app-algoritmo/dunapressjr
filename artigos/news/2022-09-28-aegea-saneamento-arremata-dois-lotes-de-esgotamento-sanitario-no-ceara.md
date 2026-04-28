@@ -1,11 +1,12 @@
 ---
-title: "Aegea Saneamento arremata dois lotes de esgotamento sanitário no Ceará"
+title: Aegea Saneamento arremata dois lotes de esgotamento sanitário no Ceará
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Deságio do leilão soma R$ 10 bilhões.
 

@@ -1,11 +1,13 @@
 ---
-title: "Liga Esportiva NESCAU® reúne 1.500 pessoas para um dia de esporte e diversão em Curitiba"
+title: Liga Esportiva NESCAU® reúne 1.500 pessoas para um dia de esporte e diversão
+  em Curitiba
 date: 2024-04-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior campeonato poliesportivo estudantil do Brasil e pioneiro em unir modalidades adaptadas e não adaptadas fez sua estreia no Paraná, levando 11 diferentes práticas esportivas.
 

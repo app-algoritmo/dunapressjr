@@ -1,11 +1,13 @@
 ---
-title: "Operação conjunta internacional resulta na apreensão de 4,7 toneladas de cocaína na costa oeste da África"
+title: Operação conjunta internacional resulta na apreensão de 4,7 toneladas de cocaína
+  na costa oeste da África
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A droga teria como destino o mercado europeu.
 

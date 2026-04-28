@@ -1,12 +1,13 @@
 ---
-title: "A pobreza e a fome não são e nunca foram uma prioridade"
+title: A pobreza e a fome não são e nunca foram uma prioridade
 date: 2023-01-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 Solucionar o problema da fome e da pobreza deve ser uma tarefa de cada país, pois o atual-velho modelo não funciona.
 

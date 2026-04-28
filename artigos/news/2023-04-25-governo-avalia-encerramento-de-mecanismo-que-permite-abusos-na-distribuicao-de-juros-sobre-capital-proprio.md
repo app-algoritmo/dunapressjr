@@ -1,11 +1,13 @@
 ---
-title: "Governo avalia encerramento de mecanismo que permite abusos na distribuição de juros sobre capital próprio"
+title: Governo avalia encerramento de mecanismo que permite abusos na distribuição
+  de juros sobre capital próprio
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro da Fazenda destaca preocupação com empresas que diminuem artificialmente lucros para pagar menos Imposto de Renda e diz que equipe econômica avalia medidas para coibir práticas ilegais.
 

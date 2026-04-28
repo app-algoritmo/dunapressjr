@@ -1,11 +1,13 @@
 ---
-title: "Cientistas desenvolvem sistema de avaliação de contaminação radioativa em situações de emergência"
+title: Cientistas desenvolvem sistema de avaliação de contaminação radioativa em situações
+  de emergência
 date: 2022-01-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O desenvolvimento de um sistema confiável de avaliação de impacto radiológico (contaminação ambiental e humana por material radioativo) para situações de emergência, como acidentes e liberações para o meio ambiente em usinas nucleares, é tema de uma pesquisa do Departamento de Proteção Radiológica Ambiental do Instituto de Radioproteção e Dosimetria, realizada com apoio da Universidade do Estado do Rio de Janeiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Como é conviver com as dores da Chikungunya?"
+title: Como é conviver com as dores da Chikungunya?
 date: 2021-05-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As dores intensas nas articulações são as características mais marcantes da Chikungunya, doença causada pelo vírus transmitido pelo mosquito Aedes aegypti. Atualmente, milhares de pessoas ainda sofrem com as duras consequências deixadas pela enfermidade, que, em alguns casos, gera dores crônicas que duram semanas, meses, anos ou toda a vida da pessoa. Mas, afinal, como são essas dores? Como é feito o tratamento? Existe alguma forma de evitar?
 

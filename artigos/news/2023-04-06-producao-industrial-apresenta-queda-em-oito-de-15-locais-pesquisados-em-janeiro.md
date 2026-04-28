@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial apresenta queda em oito de 15 locais pesquisados em janeiro"
+title: Produção industrial apresenta queda em oito de 15 locais pesquisados em janeiro
 date: 2023-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na comparação com o mesmo mês do ano passado, a produção industrial avançou 0,3% em janeiro de 2023.
 

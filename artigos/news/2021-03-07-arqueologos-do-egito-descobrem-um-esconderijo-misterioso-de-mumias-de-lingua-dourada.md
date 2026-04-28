@@ -1,11 +1,13 @@
 ---
-title: "Arqueólogos do Egito descobrem um esconderijo misterioso de múmias de língua dourada"
+title: Arqueólogos do Egito descobrem um esconderijo misterioso de múmias de língua
+  dourada
 date: 2021-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Arqueólogos no Egito encontraram um esconderijo de misteriosas múmias com língua de ouro em tumbas escavadas na rocha perto da cidade de Alexandria, no norte do país.
 

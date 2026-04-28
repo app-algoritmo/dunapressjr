@@ -1,11 +1,12 @@
 ---
-title: "600 músicos assinam carta pedindo boicote a Israel"
+title: 600 músicos assinam carta pedindo boicote a Israel
 date: 2021-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Patti Smith e Julian Casablancas do The Strokes entre mais de 600 músicos chamando os artistas para evitar fazer shows em Israel.
 

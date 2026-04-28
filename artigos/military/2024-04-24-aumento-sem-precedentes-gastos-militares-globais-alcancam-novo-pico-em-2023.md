@@ -1,11 +1,12 @@
 ---
-title: "Aumento sem Precedentes: Gastos Militares Globais Alcançam Novo Pico em 2023"
+title: 'Aumento sem Precedentes: Gastos Militares Globais Alcançam Novo Pico em 2023'
 date: 2024-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Os gastos militares globais atingiram um novo marco em 2023, revela o relatório anual do Instituto Internacional de Pesquisa para a Paz de Estocolmo (SIPRI). Com um aumento de 6,8% em relação ao ano anterior, os gastos alcançaram a marca de 2,44 biliões de dólares, o maior crescimento desde 2009.
 

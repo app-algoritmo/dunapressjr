@@ -1,12 +1,13 @@
 ---
-title: "Série de vídeos mostra Noruega vista de cima"
+title: Série de vídeos mostra Noruega vista de cima
 date: 2019-08-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Tourism and Gastronomy
+- Magazine
+- Tourism and Gastronomy
 ---
+
 
 A produção **Norge Fra Lufta** do canal norueguês NRK leva ao mundo, em diversos pequenos episódios, com duração média de 4 minutos, as paisagens da Noruega em um trabalho realizado por helicópteros e drones. 
 

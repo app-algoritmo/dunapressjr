@@ -1,11 +1,13 @@
 ---
-title: "Rodrigues declara apoio a PEC que criminaliza posse de qualquer quantidade de drogas"
+title: Rodrigues declara apoio a PEC que criminaliza posse de qualquer quantidade
+  de drogas
 date: 2023-09-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR) manifestou apoio à proposta de emenda à Constituição (PEC) que criminaliza o porte e a posse de substância ilícita em qualquer quantidade. A matéria foi apresentada pelo presidente do Senado, Rodrigo Pacheco, na quinta-feira (14). Em pronunciamento nesta terça-feira (19), Rodrigues afirmou que a posição de Pacheco é compatível com uma perspectiva mais séria de combate ao tráfico. O parlamentar destacou que é papel do Parlamento combater “incansavelmente” a venda e o consumo de drogas, mas disse apoiar o uso de princípios ativos da *cannabis* em casos medicinais.
 

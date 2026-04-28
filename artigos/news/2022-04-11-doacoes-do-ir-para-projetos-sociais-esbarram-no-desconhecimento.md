@@ -1,11 +1,12 @@
 ---
-title: "Doações do IR para projetos sociais esbarram no desconhecimento"
+title: Doações do IR para projetos sociais esbarram no desconhecimento
 date: 2022-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Volume doado poderia saltar de R$ 250 milhões para R$ 5 bilhões.
 

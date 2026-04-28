@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: As razões para a república"
+title: 'Série Fatos Da Independência: As razões para a república'
 date: 2023-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Conceber a República foi uma empreitada de bacharéis, padres, militares, comerciantes, proprietários de terras – que contou com a participação entusiasmada de grupos de pessoas de diversas condições sociais: mascates, oficiais do Erário, escrivães, tanoeiros, magistrados, corretores, barbeiros, sapateiros, almoxarifes, cirurgiões. Contudo, foi a pressão das elites locais, interessadas em garantir a autonomia provincial e se livrarem de uma vez por todas do projeto imperial centralizador e unitário do Rio de Janeiro e da voracidade da Corte ali instalada, que acendeu o estopim para a Revolução de 1817.
 

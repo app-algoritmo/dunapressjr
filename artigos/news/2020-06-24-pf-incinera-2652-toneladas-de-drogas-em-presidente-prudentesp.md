@@ -1,11 +1,12 @@
 ---
-title: "PF incinera 2,652 toneladas de drogas em Presidente Prudente/SP"
+title: PF incinera 2,652 toneladas de drogas em Presidente Prudente/SP
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Presidente Prudente/SP - A Polícia Federal realizou, sob forte esquema de segurança, nesta terça-feira (23/6), a incineração de 2,652 toneladas de drogas. O entorpecente foi apreendido pela Policia Federal e por outras instituições policiais da região, nos anos de 2019 e 2020. A ação ocorre na Semana Nacional de Políticas sobre Drogas.
 

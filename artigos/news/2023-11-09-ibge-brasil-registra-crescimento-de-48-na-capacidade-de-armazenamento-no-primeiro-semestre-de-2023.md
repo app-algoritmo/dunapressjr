@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Brasil registra crescimento de 4,8% na capacidade de armazenamento no primeiro semestre de 2023"
+title: 'IBGE: Brasil registra crescimento de 4,8% na capacidade de armazenamento no
+  primeiro semestre de 2023'
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Rio Grande do Sul lidera em número de estabelecimentos, enquanto Mato Grosso se destaca com a maior capacidade de armazenagem.
 

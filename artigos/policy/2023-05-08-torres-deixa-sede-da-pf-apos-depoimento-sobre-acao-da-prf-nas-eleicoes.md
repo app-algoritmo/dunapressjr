@@ -1,11 +1,12 @@
 ---
-title: "Torres deixa sede da PF após depoimento sobre ação da PRF nas eleições"
+title: Torres deixa sede da PF após depoimento sobre ação da PRF nas eleições
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ex-ministro chegou à Polícia Federal por volta das 13h30.
 

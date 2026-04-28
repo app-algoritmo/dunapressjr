@@ -1,11 +1,12 @@
 ---
-title: "China exige que EUA cessem venda de armas e contato militar com Taiwan"
+title: China exige que EUA cessem venda de armas e contato militar com Taiwan
 date: 2024-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A China lançou um apelo veemente aos Estados Unidos, solicitando a interrupção imediata da venda de armas e de qualquer contato militar com Taiwan. Mao Ning, porta-voz do Ministério das Relações Exteriores chinês, reiterou a posição do país durante uma coletiva de imprensa nesta quinta-feira.
 

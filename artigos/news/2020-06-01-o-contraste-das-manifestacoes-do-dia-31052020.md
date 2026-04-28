@@ -1,11 +1,12 @@
 ---
-title: "O Contraste das Manifestações do dia 31/05/2020"
+title: O Contraste das Manifestações do dia 31/05/2020
 date: 2020-06-01
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 No dia de ontem (31/05/2020) ocorrera protestos em todo o Brasil, a maioria eram em prol do governo e contra as manobras de censura recentes que o STF vem impondo aos jornalistas e pessoas comuns da direita, entretanto, grupos organizados de esquerda juntamente com torcidas organizadas e do grupo extremista da Antifa iniciaram uma série de protestos contra o governo, utilizando-se da prerrogativa de lutarem em prol da democracia.
 

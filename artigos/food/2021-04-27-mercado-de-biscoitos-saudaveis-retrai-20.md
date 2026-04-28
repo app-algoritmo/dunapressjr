@@ -1,11 +1,12 @@
 ---
-title: "Mercado de biscoitos saudáveis retrai 20%"
+title: Mercado de biscoitos saudáveis retrai 20%
 date: 2021-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Cerca de 54% da população brasileira mudou os hábitos alimentares durante a pandemia. Os dados são do Fundo das Nações Unidas para a Infância (UNICEF), que relevam ainda que 21% das pessoas aumentaram o consumo de alimentos preparados em *fast foods* e 19% delas passaram a consumir mais os industrializados. Já no segmento saudável, alguns alimentos sentiram o impacto negativo desta mudança de hábito dos brasileiros. De acordo com dados da Nielsen Brasil, empresa especializada na análise de comportamento dos consumidores, o mercado de biscoitos saudáveis sofreu uma retração de cerca de 20% em 2020. 
 

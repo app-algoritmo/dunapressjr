@@ -1,11 +1,12 @@
 ---
-title: "Convênio firmado com a Cruz Vermelha beneficiará quebradeiras de coco no MA"
+title: Convênio firmado com a Cruz Vermelha beneficiará quebradeiras de coco no MA
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em convênio firmado pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Cruz Vermelha beneficiará as quebradeiras de coco babaçu - grupo de mulheres que faz parte de comunidades extrativistas e integra os chamados povos e comunidades tradicionais. O documento foi assinado, nesta sexta-feira (17), durante visita da ministra Damares Alves a Imperatriz (MA).
 

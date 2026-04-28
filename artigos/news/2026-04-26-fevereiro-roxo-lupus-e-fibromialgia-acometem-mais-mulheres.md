@@ -1,11 +1,12 @@
 ---
-title: "Fevereiro Roxo: lúpus e fibromialgia acometem mais mulheres"
+title: 'Fevereiro Roxo: lúpus e fibromialgia acometem mais mulheres'
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O mês de fevereiro ganha a cor roxa para conscientizar sobre as doenças Lúpus, Alzheimer e Fibromialgia.
 

@@ -1,12 +1,13 @@
 ---
-title: "Esmaltação em gel e outras atividades de rotina podem esconder riscos à pele"
+title: Esmaltação em gel e outras atividades de rotina podem esconder riscos à pele
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Beauty
-  - Health
+- Beauty
+- Health
 ---
+
 
 O número de pessoas que utilizam cabines de luz ultravioleta para secagem de esmaltes e alongamento em gel está aumentando cada vez mais. A praticidade e a maior durabilidade estão entre os principais motivos. No entanto, um comunicado emitido recentemente pela Academia Nacional de Medicina da França trouxe um alerta sobre o risco do uso contínuo dessa prática. Estudos indicam que o aparelho utilizado por manicures aumenta o risco de câncer de pele, uma vez que é necessário expor as unhas à luz UV emitida pela cabine para que o esmalte em gel endureça e seque. 
 

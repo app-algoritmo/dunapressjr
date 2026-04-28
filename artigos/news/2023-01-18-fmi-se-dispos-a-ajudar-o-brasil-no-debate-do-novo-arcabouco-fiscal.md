@@ -1,11 +1,12 @@
 ---
-title: "FMI se dispôs a ajudar o Brasil no debate do novo arcabouço fiscal"
+title: FMI se dispôs a ajudar o Brasil no debate do novo arcabouço fiscal
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Haddad disse que BID também quer contribuir com o debate.
 

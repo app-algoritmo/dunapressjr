@@ -1,11 +1,12 @@
 ---
-title: "Brasil se recupera mesmo com turbulência internacional, diz ministro"
+title: Brasil se recupera mesmo com turbulência internacional, diz ministro
 date: 2022-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Guedes divulgará nesta quinta-feira (14) novas projeções para o PIB.
 

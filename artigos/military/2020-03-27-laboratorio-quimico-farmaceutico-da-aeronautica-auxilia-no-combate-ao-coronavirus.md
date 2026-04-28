@@ -1,12 +1,13 @@
 ---
-title: "Laboratório Químico-Farmacêutico da Aeronáutica auxilia no combate ao Coronavírus"
+title: Laboratório Químico-Farmacêutico da Aeronáutica auxilia no combate ao Coronavírus
 date: 2020-03-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 O Laboratório Químico-Farmacêutico da Aeronáutica
 (LAQFA), Unidade da Força Aérea Brasileira (FAB) localizada no Rio de Janeiro

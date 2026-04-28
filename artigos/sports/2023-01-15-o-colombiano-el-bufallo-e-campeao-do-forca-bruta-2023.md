@@ -1,11 +1,12 @@
 ---
-title: "O colombiano El Bufallo é campeão do Força Bruta 2023"
+title: O colombiano El Bufallo é campeão do Força Bruta 2023
 date: 2023-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Após uma madrugada de muita chuva na Região Metropolitana de São Paulo, o sol apareceu em Cotia, neste domingo (15). E apareceu com tudo, como se quisesse rivalizar em potência com os gigantes do Força Bruta 2023. O evento mais tradicional de Strongman do Brasil chegou a 10ª edição neste ano e consagrou El Buffalo, apelido do colombiano Emanuel Mendoza Mosqueira, como o grande campeão.
 

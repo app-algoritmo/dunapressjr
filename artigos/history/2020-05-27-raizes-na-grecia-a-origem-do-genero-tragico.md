@@ -1,11 +1,12 @@
 ---
-title: "Raízes na Grécia: A Origem do Gênero Trágico"
+title: 'Raízes na Grécia: A Origem do Gênero Trágico'
 date: 2020-05-27
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 O teatro Grego fez tão parte do povo heleno quanto sua famosa filosofia. As obras do poeta Homero, por exemplo, é a essência de toda cultura ocidental até os tempos atuais. Fora no século V a.C. que surgira o gênero trágico que ainda hoje é um dos mais procurados por nós espectadores. Para o público atual, o trágico remete a tristeza, infortune-o ou a qualquer tipo de acontecimento danoso aos personagens. Mas enquanto ao Grego daquela época, o que seria o gênero trágico?
 

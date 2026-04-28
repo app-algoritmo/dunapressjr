@@ -1,11 +1,12 @@
 ---
-title: "Militares dos EUA aconselham a Casa Branca a mudar o foco da Ucrânia para Taiwan"
+title: Militares dos EUA aconselham a Casa Branca a mudar o foco da Ucrânia para Taiwan
 date: 2023-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Generais do Pentágono esperam relações tensas com a China após eleição presidencial dos EUA em 2024**
 

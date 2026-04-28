@@ -1,11 +1,13 @@
 ---
-title: "A engenharia climática é real? A Casa Branca reitera que bloquear a luz solar não é mais uma conspiração"
+title: A engenharia climática é real? A Casa Branca reitera que bloquear a luz solar
+  não é mais uma conspiração
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 https://youtu.be/bqSkbHKSnjI
 

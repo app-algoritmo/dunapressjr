@@ -1,11 +1,12 @@
 ---
-title: "Daryl Dixon - Está de Volta"
+title: Daryl Dixon - Está de Volta
 date: 2023-10-29
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 https://youtu.be/iTOaFootkSk?si=rEtreo0e5ZiMo-bR
 

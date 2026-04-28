@@ -1,11 +1,12 @@
 ---
-title: "Balança tem superávit de US$ 806 milhões até segunda semana de janeiro"
+title: Balança tem superávit de US$ 806 milhões até segunda semana de janeiro
 date: 2022-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com US$ 9,94 bilhões em exportações e US$ 9,13 bilhões em importações, corrente de comércio aumentou 26,6%, alcançando US$ 19,07 bilhões.
 

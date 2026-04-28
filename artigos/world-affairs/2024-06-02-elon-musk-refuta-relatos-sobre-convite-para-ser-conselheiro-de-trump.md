@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk Refuta Relatos Sobre Convite para Ser Conselheiro de Trump"
+title: Elon Musk Refuta Relatos Sobre Convite para Ser Conselheiro de Trump
 date: 2024-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O empresário Elon Musk negou relatos de que estaria em negociações para se tornar conselheiro de Donald Trump, caso o ex-presidente vença as eleições presidenciais dos EUA em novembro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Por que estudar Business Intelligence na Noruega?"
+title: Por que estudar Business Intelligence na Noruega?
 date: 2018-07-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 "O primo pobre dos países nórdicos” superou suas dificuldades e a partir de um planejamento impecável e muito trabalho na área de EDUCAÇÃO, a Noruega, hoje, é "o primo rico", isto é, a nação que detém os melhores resultados e os títulos de melhor IDH, cidade mais verde, país mais democrático; e está sempre figurando nos *rankings* de melhor educação (ensino público é um dos melhores da Europa), melhor país para ser escritor e país mais feliz do mundo. É o país que tem estado em primeiro lugar em produtividade por trabalhador e onde a taxa de desemprego é baixa. Outra taxa baixa é a de criminalidade e reincidência. Os programas para ressocialização dos poucos presos que tem constituem um ponto forte e exemplo exportado para vários países. E não pára por aí. A experiência norueguesa é tão primorosa que a Noruega tem assumido a posição de líder mundial nas áreas de energia renovável, petróleo e gás, navegação (engenharia e construção naval), alta tecnologia, arquitetura inteligente, urbanismo responsável, pesca, biologia marinha e piscicultura (aquicultura). A Noruega também apresenta os menores índices de mortalidade infantil.
 

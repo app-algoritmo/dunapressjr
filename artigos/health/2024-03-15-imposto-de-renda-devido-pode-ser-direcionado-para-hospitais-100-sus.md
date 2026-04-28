@@ -1,11 +1,12 @@
 ---
-title: "Imposto de renda devido pode ser direcionado para hospitais 100% SUS"
+title: Imposto de renda devido pode ser direcionado para hospitais 100% SUS
 date: 2024-03-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Contribuinte tem até 31 de maio para doar parte do IR devido e deduzir o valor do que seria pago à Receita Federal.
 

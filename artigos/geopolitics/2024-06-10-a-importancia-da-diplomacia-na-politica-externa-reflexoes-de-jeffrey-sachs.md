@@ -1,11 +1,12 @@
 ---
-title: "A Importância da Diplomacia na Política Externa: Reflexões de Jeffrey Sachs"
+title: 'A Importância da Diplomacia na Política Externa: Reflexões de Jeffrey Sachs'
 date: 2024-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Jeffrey Sachs, presidente da Rede de Soluções para o Desenvolvimento Sustentável da ONU e diretor do Centro para o Desenvolvimento Sustentável da Universidade de Columbia, expressa uma visão crítica e urgente sobre a necessidade da diplomacia na política externa americana e na crise da Ucrânia. Autor de best-sellers como "O Fim da Pobreza" e "A Era da Globalização", Sachs compartilha suas preocupações e esperanças em um momento de tensão global.
 

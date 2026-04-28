@@ -1,11 +1,12 @@
 ---
-title: "Intercooperação: qual sua importância no pós- pandemia?"
+title: 'Intercooperação: qual sua importância no pós- pandemia?'
 date: 2022-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Nos últimos dois anos, o mundo enfrentou a maior crise sanitária dos últimos 100 anos. Refletindo em todos os setores, a pandemia trouxe muitas incertezas e desafios jamais vividos. Com isso, pensar em novas soluções e maneiras para "sair da caixa" se fez necessário. Em meio a tantas dúvidas e sequelas, a intercooperação obteve resultados positivos. O modelo é baseado em pessoas e na ajuda mútua, trabalhando sempre em torno dos interesses em comum.
 

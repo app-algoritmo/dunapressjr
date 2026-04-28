@@ -1,12 +1,14 @@
 ---
-title: "Escandalo nos Bastidores da Pandemia: Politização e Manipulação Reveladas nos Vazamentos de Chats e E-mails dos Ministros da Saúde"
+title: 'Escandalo nos Bastidores da Pandemia: Politização e Manipulação Reveladas
+  nos Vazamentos de Chats e E-mails dos Ministros da Saúde'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Health
+- Geopolitics
+- Health
 ---
+
 
 No mês de março de 2023, a jornalista Karina Michelin trouxe à tona informações explosivas que abalaram as estruturas políticas e científicas de dois países: Reino Unido e Itália. Os vazamentos de chats e e-mails dos ministros da saúde dessas nações revelaram uma trama intricada de manipulação política em meio à pandemia que assolou o mundo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa completa 12 dias de queda e alcança marca histórica de desvalorização"
+title: Ibovespa completa 12 dias de queda e alcança marca histórica de desvalorização
 date: 2023-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Mercado Brasileiro enfrenta impactos globais. 
 

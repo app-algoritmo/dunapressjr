@@ -1,13 +1,14 @@
 ---
-title: "Quem é Jenna Ortega?"
+title: Quem é Jenna Ortega?
 date: 2022-12-13
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Features
-  - News
-  - Video library
+- Features
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

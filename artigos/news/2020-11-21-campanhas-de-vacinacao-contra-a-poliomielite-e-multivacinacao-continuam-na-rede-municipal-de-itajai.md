@@ -1,11 +1,13 @@
 ---
-title: "Campanhas de Vacinação contra a Poliomielite e Multivacinação continuam na Rede Municipal de Itajaí"
+title: Campanhas de Vacinação contra a Poliomielite e Multivacinação continuam na
+  Rede Municipal de Itajaí
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Continuam até 30 de novembro as Campanhas Nacionais de Vacinação contra a Poliomielite e Multivacinação. A Secretaria de Saúde de Itajaí reforça o pedido aos pais e responsáveis para que levem as crianças e adolescentes para atualização da caderneta de vacinas. Todas as unidades estão abertas para vacinação das 8h às 17h.
 

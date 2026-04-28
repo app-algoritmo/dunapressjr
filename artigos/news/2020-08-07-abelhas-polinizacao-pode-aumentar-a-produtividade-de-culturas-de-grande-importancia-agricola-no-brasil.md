@@ -1,11 +1,13 @@
 ---
-title: "Abelhas: Polinização pode aumentar a produtividade de culturas de grande importância agrícola no Brasil"
+title: 'Abelhas: Polinização pode aumentar a produtividade de culturas de grande importância
+  agrícola no Brasil'
 date: 2020-08-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Tema foi debatido em live com a participação da ministra Tereza Cristina.
 

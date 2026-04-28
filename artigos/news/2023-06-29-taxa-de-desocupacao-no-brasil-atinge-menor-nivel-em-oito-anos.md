@@ -1,11 +1,12 @@
 ---
-title: "Taxa de Desocupação no Brasil atinge menor nível em oito anos"
+title: Taxa de Desocupação no Brasil atinge menor nível em oito anos
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo do Ipea mostra recuo significativo, com taxa de 8% em abril, impulsionando otimismo no mercado de trabalho.
 

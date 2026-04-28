@@ -1,11 +1,12 @@
 ---
-title: "PF combate crimes ambientais e exploração ilegal de minérios"
+title: PF combate crimes ambientais e exploração ilegal de minérios
 date: 2020-04-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Redenção/PA - A Polícia Federal deflagrou na última quinta-feira (23/4) a Operação Forquilha 2.2, que teve por objetivo combater crimes ambientais e de extração ilegal de minérios no Distrito de Casa de Tabua, que pertence ao município de Santa Maria das Barreiras/PA.
 

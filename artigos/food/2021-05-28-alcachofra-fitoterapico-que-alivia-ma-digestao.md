@@ -1,11 +1,12 @@
 ---
-title: "Alcachofra: fitoterápico que alivia má digestão"
+title: 'Alcachofra: fitoterápico que alivia má digestão'
 date: 2021-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Com as festas comemorativas de fim de ano, muitas pessoas exageram na alimentação e acabam sofrendo com problemas digestivos. Uma solução natural para esses casos é o fitoterápico da Alcachofra, oferecido no Sistema Único de Saúde (SUS). No município de Toledo, Paraná, pacientes relatam que tiveram significativas melhoras de saúde após o uso do medicamento.
 

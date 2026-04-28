@@ -1,11 +1,12 @@
 ---
-title: "Exército do Iêmen ataca navio dos EUA no Mar Vermelho"
+title: Exército do Iêmen ataca navio dos EUA no Mar Vermelho
 date: 2024-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz das Forças Armadas do Iêmen anunciou ter como alvo um navio pertencente aos Estados Unidos no Mar Vermelho.
 

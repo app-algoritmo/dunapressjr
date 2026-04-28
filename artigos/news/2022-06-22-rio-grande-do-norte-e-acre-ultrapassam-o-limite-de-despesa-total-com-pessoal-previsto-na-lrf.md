@@ -1,11 +1,13 @@
 ---
-title: "Rio Grande do Norte e Acre ultrapassam o limite de Despesa Total com Pessoal previsto na LRF"
+title: Rio Grande do Norte e Acre ultrapassam o limite de Despesa Total com Pessoal
+  previsto na LRF
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O limite permitido para despesas nesta rubrica no Poder Executivo é de 49% da Receita Corrente Líquida.
 

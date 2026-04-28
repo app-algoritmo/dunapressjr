@@ -1,11 +1,12 @@
 ---
-title: "Discordância Nominal: Questão singular para pensar plural"
+title: 'Discordância Nominal: Questão singular para pensar plural'
 date: 2018-03-08
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Um dos pontos mais controversos em Língua Portuguesa é a Concordância. Nominal ou verbal, ela sempre dá trabalho a estudantes, professores, jornalistas, escritores ou outras pessoas que escrevem ocupados com a norma culta, ou com a linguagem padrão que nos faz membros de uma mesma comunidade - a dos falantes da Língua Portuguesa. Pois bem, vou voltar ao ponto da concordância, ao abordar algo que tem me incomodado muito. Ninguém precisa ficar preocupado com essa questão aqui, porque vou tratar do assunto de modo raso, só apontando a concordância do artigo definido "o" ou "a" com o substantivo a que ele se refere.
 

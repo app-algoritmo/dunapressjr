@@ -1,11 +1,12 @@
 ---
-title: "Exército Brasileiro comemora Dia da Arma de Comunicações"
+title: Exército Brasileiro comemora Dia da Arma de Comunicações
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Exército Brasileiro comemora no dia 5 de maio, data do nascimento do Marechal Cândido Mariano da Silva Rondon, um dos filhos mais ilustres do Brasil, o Dia da Arma de Comunicações.
 

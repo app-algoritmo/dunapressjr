@@ -1,11 +1,13 @@
 ---
-title: "Ministro das Relações Exteriores do México mostrou perigo de fuga 'alto e iminente' de Pedro Castillo"
+title: Ministro das Relações Exteriores do México mostrou perigo de fuga 'alto e iminente'
+  de Pedro Castillo
 date: 2022-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Pedro Castillo teve sua primeira audiência nesta quinta-feira (8), na qual qualificou o perigo de fuga como "inconsequente" e garantiu que sua detenção foi "arbitrária". 
 

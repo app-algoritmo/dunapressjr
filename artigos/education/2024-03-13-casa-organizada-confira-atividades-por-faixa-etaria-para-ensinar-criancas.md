@@ -1,11 +1,12 @@
 ---
-title: "Casa organizada: confira atividades por faixa etária para ensinar crianças"
+title: 'Casa organizada: confira atividades por faixa etária para ensinar crianças'
 date: 2024-03-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Cultivar o hábito de manter o ambiente arrumado contribui para a autoconfiança, autonomia e senso de responsabilidade desde a infância.
 

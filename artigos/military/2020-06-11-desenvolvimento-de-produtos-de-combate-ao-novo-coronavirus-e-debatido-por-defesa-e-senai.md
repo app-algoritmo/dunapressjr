@@ -1,11 +1,13 @@
 ---
-title: "Desenvolvimento de produtos de combate ao novo coronavírus é debatido por Defesa e Senai"
+title: Desenvolvimento de produtos de combate ao novo coronavírus é debatido por Defesa
+  e Senai
 date: 2020-06-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Secretário Geral do Ministério da Defesa, Almirante de Esquadra, Almir Garnier, recebeu nesta quarta-feira (10) o Reitor do Senai-Cimatec Bahia (Serviço Nacional de Aprendizagem Industrial e Campus Integrado de Manufatura e Tecnologia), Leone Andrade, e o ex-senador Roberto Muniz. A visita tratou da parceria entre o Senai e Defesa para o desenvolvimento de produtos tecnológicos de saúde de combate ao novo coronavírus.
 

@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta declara voto contrário à indicação de Flávio Dino ao STF"
+title: Magno Malta declara voto contrário à indicação de Flávio Dino ao STF
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) declarou-se contrário à indicação do ministro da Justiça, Flávio Dino, para a vaga deixada por Rosa Weber no Supremo Tribunal Federal (STF). O parlamentar declarou que não receberá o candidato em seu gabinete no Senado antes da sabatina. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Shimano oferece apoio grátis para ciclistas paulistanos no final de semana"
+title: Shimano oferece apoio grátis para ciclistas paulistanos no final de semana
 date: 2023-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Após o início das atividades da programação do Maio Amarelo, pela defesa da vida no trânsito, no último final de semana, a Shimano oferecerá seu serviço de Suporte Neutro Básico neste sábado (27) e domingo (28) e também nos dias 3 e 4 de junho. Serão dois pontos de apoio aos usuários das ciclovias: sábado na Praça Oswaldo Cruz e, domingo na Praça do Ciclista. As ações, grátis, serão das 9h às 17h e contarão com técnicos especializados de uma loja Shimano Service Center paulistana na execução do apoio, a Total Bike.
 

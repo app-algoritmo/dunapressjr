@@ -1,11 +1,13 @@
 ---
-title: "Projeto permite que autistas entrem em qualquer lugar com alimentos e objetos próprios"
+title: Projeto permite que autistas entrem em qualquer lugar com alimentos e objetos
+  próprios
 date: 2023-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 29/23 permite à pessoa com transtorno do espectro autista (TEA) ingressar em qualquer local com alimentos para consumo próprio e objetos de uso pessoal. Em análise na Câmara dos Deputados, a medida altera  [Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista](https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-publicacaooriginal-138466-pl.html).
 

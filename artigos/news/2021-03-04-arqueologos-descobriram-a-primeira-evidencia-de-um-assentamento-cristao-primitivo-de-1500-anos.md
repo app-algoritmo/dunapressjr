@@ -1,11 +1,13 @@
 ---
-title: "Arqueólogos descobriram a primeira evidência de um assentamento cristão primitivo de 1.500 anos"
+title: Arqueólogos descobriram a primeira evidência de um assentamento cristão primitivo
+  de 1.500 anos
 date: 2021-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com as palavras “Cristo nasceu de Maria”, os arqueólogos descobriram a primeira evidência de um assentamento cristão primitivo de 1.500 anos atrás no que hoje é uma pequena vila árabe perto de Nazaré.
 

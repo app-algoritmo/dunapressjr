@@ -1,11 +1,12 @@
 ---
-title: "A corrida pela prosperidade em um mundo com mudanças climáticas"
+title: A corrida pela prosperidade em um mundo com mudanças climáticas
 date: 2021-02-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## -O grande degelo: como a Rússia pode dominar um mundo em aquecimento.
 

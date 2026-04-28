@@ -1,11 +1,13 @@
 ---
-title: "Gil Diniz é eleito presidente da CPI da transição de gênero em crianças e adolescentes no HC - SP"
+title: Gil Diniz é eleito presidente da CPI da transição de gênero em crianças e adolescentes
+  no HC - SP
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proponente da Comissão de Investigação, Diniz prometeu jogar luz sobre os procedimentos realizados no hospital; Beth Sahão (PT) é a vice, e Tenente Coimbra (PL), o relator.
 

@@ -1,11 +1,12 @@
 ---
-title: "Irã critica a Suécia por apoiar o sacrilégio do Alcorão"
+title: Irã critica a Suécia por apoiar o sacrilégio do Alcorão
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro das Relações Exteriores do Irã, Hossein Amirabdollahian, em uma mensagem no Twitter, criticou fortemente o governo sueco por permitir e apoiar o sacrilégio do Alcorão Sagrado.
 

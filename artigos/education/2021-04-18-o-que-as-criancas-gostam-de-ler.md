@@ -1,11 +1,12 @@
 ---
-title: "O que as crianças gostam de ler?"
+title: O que as crianças gostam de ler?
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Para comemorar o Dia Nacional do Livro Infantil, celebrado no dia 18 de abril, o Colégio Positivo realizou uma pesquisa com 992 crianças e jovens de um a 15 anos das cidades paranaenses de Curitiba, Cascavel, Foz do Iguaçu, Londrina e Ponta Grossa, além das catarinenses Florianópolis e Joinville. O trabalho revela a lista dos livros que as crianças mais gostam - citados por elas mesmas e divididos por idade e sexo. "Sabíamos quais os livros mais indicados por especialistas, professores e críticos literários, mas nunca vimos uma lista de livros infantis indicados de crianças para crianças", comenta a diretora de marketing das unidades do Colégio Positivo, Patrícia Russo Gibran.
 

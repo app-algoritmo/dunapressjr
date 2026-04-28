@@ -1,11 +1,13 @@
 ---
-title: "Redução de Impostos – Uma análise sobre ICMS dos combustíveis e a economia em geral"
+title: Redução de Impostos – Uma análise sobre ICMS dos combustíveis e a economia
+  em geral
 date: 2020-02-11
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Devemos seguir sim para o caminho da redução de impostos, e isto só será feito por lei federal e, em alguns casos, com aval e lei estadual, ou mesmo ato do executivo para baixar tributos. Caso quente é o do ICMS, que pode e deve ser diminuído pelo governo federal e estaduais, estes principalmente.
 

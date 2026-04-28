@@ -1,11 +1,12 @@
 ---
-title: "Desde o nascimento, em 1860, Mapa acompanhou a evolução do setor agrícola brasileiro"
+title: Desde o nascimento, em 1860, Mapa acompanhou a evolução do setor agrícola brasileiro
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O Mapa caminhou junto aos produtores para apoiar a transformação da agricultura brasileira na maior dos trópicos e geradora de grandes excedentes de exportação.
 

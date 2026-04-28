@@ -1,11 +1,12 @@
 ---
-title: "Câncer: um novo nanchip israelense para testar novos tratamentos"
+title: 'Câncer: um novo nanchip israelense para testar novos tratamentos'
 date: 2021-06-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um minúsculo chip de silicone que atua como um "câncer artificial" é colocado em uma placa de Petri para verificar a eficácia das imunoterapias contra a doença.
 

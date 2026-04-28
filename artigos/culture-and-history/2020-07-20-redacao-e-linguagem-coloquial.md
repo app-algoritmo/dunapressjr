@@ -1,12 +1,13 @@
 ---
-title: "Redação e Linguagem Coloquial"
+title: Redação e Linguagem Coloquial
 date: 2020-07-20
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
-  - Education
+- Culture and History
+- Education
 ---
+
 
 *Textos de Comunicação, como reportagens e artigos jornalísticos, parecem permissivos com a linguagem, mas coloquialismos e transposições de fala são obstáculos para a leitura fluente*
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasil registra superávit histórico no comércio exterior impulsionado pelo setor agropecuário"
+title: Brasil registra superávit histórico no comércio exterior impulsionado pelo
+  setor agropecuário
 date: 2023-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Primeiro semestre de 2023 apresenta crescimento expressivo nas exportações, mas preocupações com a dependência da China e incertezas econômicas globais surgem no horizonte.
 

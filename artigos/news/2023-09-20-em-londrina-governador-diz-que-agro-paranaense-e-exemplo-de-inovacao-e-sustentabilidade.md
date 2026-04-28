@@ -1,11 +1,12 @@
 ---
-title: "Em Londrina, governador diz que agro paranaense é exemplo de inovação e sustentabilidade"
+title: Em Londrina, governador diz que agro paranaense é exemplo de inovação e sustentabilidade
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ratinho Junior participou da abertura do 4º Fórum do Agronegócio, organizado pela Sociedade Rural do Paraná na cidade. Ele assinou um protocolo que reforça a vocação do município e do Estado como polos de inovação do agro no Brasil.
 

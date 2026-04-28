@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 1,288 bilhão em agosto"
+title: Vendas do Tesouro Direto superam resgates em R$ 1,288 bilhão em agosto
 date: 2021-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Títulos mais procurados foram os vinculados à inflação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ligue 180, canal de atendimento à mulher teve aumento de 9% durante a pandemia"
+title: Ligue 180, canal de atendimento à mulher teve aumento de 9% durante a pandemia
 date: 2020-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) divulgou, nesta quinta-feira (26), documento em que recomenda aos Organismos Governamentais de Políticas para Mulheres (OPM) a manutenção dos serviços da rede de atendimento à mulher, respeitando as orientações de segurança sanitária do Ministério da Saúde para a pandemia do novo coronavírus (Covid-19) no país.
 

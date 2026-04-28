@@ -1,11 +1,12 @@
 ---
-title: "Nióbio e diamante renovam materiais para a construção civil"
+title: Nióbio e diamante renovam materiais para a construção civil
 date: 2022-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desenvolver um material com alto grau de dureza, resistente e atóxico para ser usado na indústria petrolífera e na construção civil. Esse foi o objetivo do bolsista da CAPES, Meysam Mashhadikarimi, durante o seu doutorado pelo Programa de Pós-Graduação em Ciência e Engenharia de Materiais da Universidade Federal do Rio Grande do Norte (UFRN).
 

@@ -1,11 +1,13 @@
 ---
-title: "Secretaria de Desenvolvimento Econômico de Itajaí, apresenta Levantamento de Oportunidades"
+title: Secretaria de Desenvolvimento Econômico de Itajaí, apresenta Levantamento de
+  Oportunidades
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Desenvolvimento Econômico juntamente ao Sebrae realizará uma reunião online sobre Levantamento de Oportunidades. A iniciativa foi elaborada pela equipe técnica do programa “Cidade Empreendedora” e acontecerá nesta segunda-feira (07) às 19h pelo Google Meet.
 

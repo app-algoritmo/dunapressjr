@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem déficit de US$ 1,3 bi em novembro"
+title: Balança comercial tem déficit de US$ 1,3 bi em novembro
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Importações somaram US$ 21,6 bi e exportações, US$ 20,2 bi.
 

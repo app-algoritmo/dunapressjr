@@ -1,11 +1,12 @@
 ---
-title: "Seis tendências do setor de tecnologia para 2022"
+title: Seis tendências do setor de tecnologia para 2022
 date: 2022-02-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Novas tecnologias surgem e impactam a sociedade numa velocidade impressionante. O progresso foi acelerado pela pandemia, que concretizou tendências de Tecnologia da Informação (TI) que eram esperadas apenas anos à frente. E investimentos em tecnologia digital continuarão sendo prioridade na estratégia de empresas que desejam aproveitar ao máximo as oportunidades de um mercado em reaquecimento. Inteligência artificial avançada, NFT, metaverso, 5G, Internet das Coisas e segurança digital apontam para algumas das principais expectativas do setor de tecnologia para o ano de 2022.
 

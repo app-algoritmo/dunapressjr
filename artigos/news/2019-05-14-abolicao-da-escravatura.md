@@ -1,11 +1,12 @@
 ---
-title: "Abolição da Escravatura"
+title: Abolição da Escravatura
 date: 2019-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Muitos não sabem, mas  13 de maio é comemorado o dia da Lei Áurea – lei que extinguiu a legalidade da escravidão no Brasil. 
  No dia 13 de maio de 1888, uma mulher colocava fim à escravidão no Brasil.

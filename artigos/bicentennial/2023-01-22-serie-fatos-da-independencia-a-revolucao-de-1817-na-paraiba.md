@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A revolução de 1817 na Paraíba"
+title: 'Série Fatos Da Independência: A revolução de 1817 na Paraíba'
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Nos primeiros dias de março do ano de 1817, a população da capitania da Paraíba estava agitada. Notícias inquietantes chegavam de Pernambuco: uma revolta havia estourado, o governo caído em estado de anarquia, pessoas fugiam às pressas do Recife! Na verdade, Pernambuco havia acabado de proclamar – pela primeira vez na história do Brasil – sua independência de Portugal. De imediato, o governo da Paraíba tomou providências para impedir que essa insurreição se espalhasse, vigiando o litoral e a fronteira ao sul. No entanto, era tarde demais: na vila de Itabaiana, os autointitulados patriotas reuniam tropas para marchar sobre a capital paraibana, seguindo o exemplo de seus vizinhos pernambucanos.
 

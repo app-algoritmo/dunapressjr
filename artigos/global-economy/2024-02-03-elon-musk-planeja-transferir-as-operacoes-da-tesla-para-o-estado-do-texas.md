@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk planeja transferir as operações da Tesla para o estado do Texas"
+title: Elon Musk planeja transferir as operações da Tesla para o estado do Texas
 date: 2024-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Elon Musk, o visionário CEO da Tesla, anunciou recentemente sua intenção de transferir a sede da empresa automotiva do estado de Delaware para o Texas. Essa decisão vem na esteira de uma controvérsia judicial envolvendo um pacote salarial de 56 bilhões de dólares que Musk recebeu em 2018. Um juiz em Delaware determinou que essa compensação era excessiva, atendendo às queixas de um acionista descontente que argumentou que o pagamento não era "justo" e que Musk e a Tesla não conseguiram justificar a quantia astronômica.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vacina alternativa COVID falha no teste, diz AstraZeneca"
+title: Vacina alternativa COVID falha no teste, diz AstraZeneca
 date: 2021-06-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os esforços para desenvolver um tratamento para COVID sem vacina enfrentam um retrocesso, pois a terapia com anticorpos falha em proteger da infecção, de acordo com os ensaios.
 

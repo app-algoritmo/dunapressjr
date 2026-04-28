@@ -1,11 +1,12 @@
 ---
-title: "População não sabe o que fazer em caso de queimadura, revela pesquisa"
+title: População não sabe o que fazer em caso de queimadura, revela pesquisa
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Atitude da vítima nos primeiros momentos após acidente pode determinar sucesso de todo o tratamento.
 

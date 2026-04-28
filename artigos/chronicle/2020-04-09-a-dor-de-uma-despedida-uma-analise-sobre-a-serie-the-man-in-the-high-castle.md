@@ -1,11 +1,12 @@
 ---
-title: "A dor de uma despedida: Uma análise sobre a série The Man in The High Castle"
+title: 'A dor de uma despedida: Uma análise sobre a série The Man in The High Castle'
 date: 2020-04-09
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Depois de ler o livro escrito pelo brilhante autor Philip K. Dick em 1962, decidi desfrutar um pouco mais do maravilhoso mundo distópico criado por ele através da adaptação realizada por Frank Spotnitz (roteirista, diretor e produto-executivo da célebre serie Arquivo X), produzida pela Amazon Studios, Scott Free Productions (fundada pelos cineastas e irmãos Ridley Scott e Tony Scott), Headline Pictures e Big Light Productions. 
 

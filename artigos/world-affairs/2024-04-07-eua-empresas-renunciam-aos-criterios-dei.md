@@ -1,11 +1,12 @@
 ---
-title: "EUA: Empresas renunciam aos critérios DEI"
+title: 'EUA: Empresas renunciam aos critérios DEI'
 date: 2024-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 À medida que o ambiente económico já enfrentava desafios, os critérios de investimento relacionados à Diversidade, Equidade e Inclusão (DEI) têm sido percebidos como uma praga para as empresas. Antes, as empresas eram avaliadas principalmente com base em parâmetros económicos e comerciais, mas a ascensão dos critérios DEI forçou uma mudança para o que tem sido chamado de "capitalismo acordado".
 

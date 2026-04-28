@@ -1,11 +1,12 @@
 ---
-title: "Transporte de insumos de saúde está entre prioridades no combate à Covid-19"
+title: Transporte de insumos de saúde está entre prioridades no combate à Covid-19
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 05/05/2020 –** O transporte de insumos de combate ao novo Coronavírus está entre as ações priorizadas pelo Ministério da Defesa, que integra o esforço do Governo Federal de enfrentamento à pandemia provocada pelo vírus. Na segunda-feira (4), um C-130 Hércules da Força Aérea Brasileira (FAB) transportou mais de duas toneladas de materiais de saúde para a capital do Amapá, Macapá.
 

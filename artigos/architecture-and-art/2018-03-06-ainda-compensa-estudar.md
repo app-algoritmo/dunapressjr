@@ -1,11 +1,12 @@
 ---
-title: "Ainda compensa estudar?"
+title: Ainda compensa estudar?
 date: 2018-03-06
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 No jornal "Público" de hoje, edição digital, saiu publicado um artigo sobre as expectativas  de estudantes e de suas famílias sobre o ensino superior, isto é, se compensa frequentar a faculdade ou a universidade. Para quem não conhece, o "Público" é um jornal português muito popular, com grande número de leitores. Com o título "Alunos e famílias não acreditam que estudar compense", a matéria trata de uma pesquisa feita em Portugal sobre o assunto, coordenada pela professora Diana Aguiar Vieira, que é investigadora e pró-presidente do Instituto Politécnico do Porto.
 

@@ -1,11 +1,12 @@
 ---
-title: "Os Detalhes Ocultos do Incêndio em Maui"
+title: Os Detalhes Ocultos do Incêndio em Maui
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Equipes de resgate em busca de vítimas dos incêndios florestais de Maui estão encontrando "10 a 20 pessoas queimadas por dia", disse o governador do Havaí, Josh Green. "O fogo estava tão quente que você mal conseguia ver alguém."
 

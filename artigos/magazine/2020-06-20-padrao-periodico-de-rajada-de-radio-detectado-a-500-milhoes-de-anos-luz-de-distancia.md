@@ -1,11 +1,13 @@
 ---
-title: "Padrão periódico de rajada de rádio detectado a 500 milhões de anos-luz de distância"
+title: Padrão periódico de rajada de rádio detectado a 500 milhões de anos-luz de
+  distância
 date: 2020-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ### Astrônomos detectam ritmo regular de ondas de rádio, com origens desconhecidas
 

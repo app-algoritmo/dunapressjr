@@ -1,11 +1,13 @@
 ---
-title: "Correios nórdicos trabalham no desenvolvimento de frota própria de veículos elétricos pesados"
+title: Correios nórdicos trabalham no desenvolvimento de frota própria de veículos
+  elétricos pesados
 date: 2021-05-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 Posten e Bring testam o Volta Zero, o primeiro caminhão totalmente elétrico de 16 toneladas especialmente construído na Noruega, Suécia, Dinamarca e Finlândia para os serviços de correios destes países. Os testes começaram no primeiro trimestre de 2021.
 

@@ -1,12 +1,14 @@
 ---
-title: "Maternidade e estágio: mães estudantes reúnem histórias de superação e iniciam trajetória no mercado de trabalho"
+title: 'Maternidade e estágio: mães estudantes reúnem histórias de superação e iniciam
+  trajetória no mercado de trabalho'
 date: 2024-05-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Courses and Careers
-  - Personal Development
+- Courses and Careers
+- Personal Development
 ---
+
 
 ## Carga horária reduzida e acolhimento podem ser incentivo para que mulheres consigam conciliar jornadas.
 

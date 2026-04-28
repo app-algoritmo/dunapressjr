@@ -1,11 +1,12 @@
 ---
-title: "Oferta de vagas em cursos de ensino a distância pelo Sisu"
+title: Oferta de vagas em cursos de ensino a distância pelo Sisu
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Alteração está em portaria publicada na edição desta segunda-feira, 25 de maio, do Diário Oficial da União.**
 

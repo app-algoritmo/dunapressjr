@@ -1,11 +1,12 @@
 ---
-title: "Copom eleva juros básicos da economia para 5,25% ao ano"
+title: Copom eleva juros básicos da economia para 5,25% ao ano
 date: 2021-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão era esperada pelo mercado financeiro.
 

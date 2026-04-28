@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal se reúne com lideranças indígenas"
+title: Governo Federal se reúne com lideranças indígenas
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A primeira de uma rodada de seis reuniões virtuais entre o Governo Federal e as principais lideranças indígenas brasileiras foi realizada nesta quarta-feira (22). O objetivo é discutir as medidas adotadas para contenção da disseminação do novo coronavírus (Covid-19) nas comunidades indígenas.
 

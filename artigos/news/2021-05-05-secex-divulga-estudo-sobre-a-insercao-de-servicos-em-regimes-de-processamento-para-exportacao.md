@@ -1,11 +1,13 @@
 ---
-title: "Secex divulga estudo sobre a inserção de serviços em regimes de processamento para exportação"
+title: Secex divulga estudo sobre a inserção de serviços em regimes de processamento
+  para exportação
 date: 2021-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Trabalho avaliou adoção de regimes aduaneiros especiais pelos países do G20, indicando a desoneração tributária de serviços usados para a produção e comercialização de bens exportados.
 

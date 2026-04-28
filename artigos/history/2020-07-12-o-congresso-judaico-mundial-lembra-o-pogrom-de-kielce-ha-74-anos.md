@@ -1,11 +1,12 @@
 ---
-title: "O Congresso Judaico Mundial lembra o pogrom de Kielce – há 74 anos"
+title: O Congresso Judaico Mundial lembra o pogrom de Kielce – há 74 anos
 date: 2020-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O Congresso Judaico Mundial (CJM) lembrou no Twitter o episódio do dia 4 de julho de 1946, quando a cidade polonesa de Kielce foi palco de um violento pogrom. A sede da comunidade judaica foi atacada por uma multidão de civis, policiais e militares, que massacraram, em plena luz do dia, 42 judeus – homens, mulheres e crianças – e feriram mais de 100. Depois disso estava claro que não havia futuro para os judeus na Polônia.
 

@@ -1,12 +1,13 @@
 ---
-title: "15/10 - Dia dos Professores: A Essência da Educação e do Futuro"
+title: '15/10 - Dia dos Professores: A Essência da Educação e do Futuro'
 date: 2024-10-15
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Education
-  - Future and Innovation
+- Education
+- Future and Innovation
 ---
+
 
 No dia 15 de outubro, celebramos o Dia dos Professores, uma data que reconhece a importância desses profissionais na formação de cidadãos e no desenvolvimento de uma sociedade mais justa e consciente. Os professores são mais do que transmissores de conhecimento; eles são mediadores de sonhos, incentivadores de potencialidades e agentes de transformação.
 

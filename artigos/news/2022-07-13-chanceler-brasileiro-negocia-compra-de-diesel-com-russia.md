@@ -1,11 +1,12 @@
 ---
-title: "Chanceler brasileiro negocia compra de diesel com Rússia"
+title: Chanceler brasileiro negocia compra de diesel com Rússia
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ministro não deu detalhes sobre as negociações.
 

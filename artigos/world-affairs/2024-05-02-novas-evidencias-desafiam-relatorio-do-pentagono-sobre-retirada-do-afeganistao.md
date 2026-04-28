@@ -1,11 +1,12 @@
 ---
-title: "Novas Evidências Desafiam Relatório do Pentágono sobre Retirada do Afeganistão"
+title: Novas Evidências Desafiam Relatório do Pentágono sobre Retirada do Afeganistão
 date: 2024-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente investigação da CNN revelou detalhes perturbadores que contradizem significativamente o relatório oficial do Pentágono sobre a retirada das tropas dos EUA do Afeganistão em agosto de 2021. A narrativa inicial sugeria que o incidente no aeroporto de Cabul, onde 13 soldados norte-americanos e 170 afegãos perderam a vida, foi resultado de uma única explosão do ISIS-K.
 

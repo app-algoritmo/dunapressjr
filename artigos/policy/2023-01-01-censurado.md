@@ -1,10 +1,11 @@
 ---
-title: "CENSURADO"
+title: CENSURADO
 date: 2023-01-01
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Policy
+- Policy
 ---
+
 
 

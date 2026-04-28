@@ -1,11 +1,12 @@
 ---
-title: "Governo da Paraíba instala câmeras termográficas em 22 municípios"
+title: Governo da Paraíba instala câmeras termográficas em 22 municípios
 date: 2020-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para o enfrentamento e a prevenção da Covid-19, o Governo da Paraíba já está usando a tecnologia de alta precisão para medir a temperatura corpórea das pessoas em 22 municípios do Estado, incluindo todas as regiões. O objetivo é medir a temperatura das pessoas, visando oferecer um ambiente de circulação mais seguro no combate também preventivo ao novo coronavírus como mais uma das ações estratégicas do Governo.
 

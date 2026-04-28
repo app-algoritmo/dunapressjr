@@ -1,11 +1,12 @@
 ---
-title: "General da Força Aérea defende memorando que prevê guerra com a China até 2025"
+title: General da Força Aérea defende memorando que prevê guerra com a China até 2025
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O general de quatro estrelas encarregado do Comando de Mobilidade Aérea da Força Aérea dos EUA defendeu um [memorando](https://www.defenseone.com/threats/2023/09/air-force-general-defends-incendiary-memo-says-war-not-inevitable/390467/) que enviou aos seus oficiais no início deste ano, no qual previa uma guerra dos EUA com a China em 2025.
 

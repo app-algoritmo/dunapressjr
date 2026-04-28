@@ -1,11 +1,12 @@
 ---
-title: "China e Brasil aplaudem parceria estratégica bilateral, diz chanceler chinês"
+title: China e Brasil aplaudem parceria estratégica bilateral, diz chanceler chinês
 date: 2024-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores chinês, Wang Yi, se reuniu na sexta-feira com o presidente brasileiro, Luiz Inácio Lula da Silva, em Fortaleza, no Brasil, com ambos os lados falando muito positivamente sobre a parceria estratégica abrangente China-Brasil.
 

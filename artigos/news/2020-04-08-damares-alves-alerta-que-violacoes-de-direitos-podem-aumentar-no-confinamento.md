@@ -1,11 +1,12 @@
 ---
-title: "Damares Alves alerta que violações de direitos podem aumentar no confinamento"
+title: Damares Alves alerta que violações de direitos podem aumentar no confinamento
 date: 2020-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, alertou, nesta segunda-feira (6), que as violações contra grupos vulneráveis podem aumentar devido ao confinamento determinado para conter o avanço do coronavírus.
 

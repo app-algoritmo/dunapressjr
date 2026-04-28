@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Estrangeiros evacuados do epicentro do vírus"
+title: 'Coronavírus: Estrangeiros evacuados do epicentro do vírus'
 date: 2020-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Estrangeiros evacuados do epicentro do vírus
 

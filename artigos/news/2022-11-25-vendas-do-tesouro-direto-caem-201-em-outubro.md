@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto caem 20,1% em outubro"
+title: Vendas do Tesouro Direto caem 20,1% em outubro
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Apesar de queda, volume foi o segundo maior para o mês.
 

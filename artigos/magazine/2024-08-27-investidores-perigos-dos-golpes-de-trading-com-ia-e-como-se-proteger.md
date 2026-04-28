@@ -1,11 +1,12 @@
 ---
-title: "Investidores: Perigos dos Golpes de Trading com IA e Como se Proteger"
+title: 'Investidores: Perigos dos Golpes de Trading com IA e Como se Proteger'
 date: 2024-08-27
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Esses golpes geralmente envolvem plataformas de trading ou corretores falsos que utilizam IA para parecerem mais sofisticados e confiáveis, enganando investidores, tanto novos quanto experientes.
 

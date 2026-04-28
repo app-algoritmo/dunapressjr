@@ -1,11 +1,12 @@
 ---
-title: "Programa de redução de salário preserva mais de 7 milhões de empregos"
+title: Programa de redução de salário preserva mais de 7 milhões de empregos
 date: 2020-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Empresas de menor porte têm usado mais programa do governo
 

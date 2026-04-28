@@ -1,11 +1,12 @@
 ---
-title: "Governo quer leiloar 44 ativos de infraestrutura em 2020, diz ministro"
+title: Governo quer leiloar 44 ativos de infraestrutura em 2020, diz ministro
 date: 2019-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Expectativa é que investimentos alcancem R$ 101 bilhões*
 

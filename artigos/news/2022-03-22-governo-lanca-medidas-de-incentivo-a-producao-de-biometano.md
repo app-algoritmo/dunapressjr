@@ -1,11 +1,12 @@
 ---
-title: "Governo lança medidas de incentivo à produção de biometano"
+title: Governo lança medidas de incentivo à produção de biometano
 date: 2022-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Combustível renovável pode substituir gás natural, diesel e gasolina.
 

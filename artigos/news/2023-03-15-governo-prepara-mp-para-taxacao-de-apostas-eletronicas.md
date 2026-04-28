@@ -1,11 +1,12 @@
 ---
-title: "Governo prepara MP para taxação de apostas eletrônicas"
+title: Governo prepara MP para taxação de apostas eletrônicas
 date: 2023-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto deve sair após viagem de Lula à China, diz Haddad.
 

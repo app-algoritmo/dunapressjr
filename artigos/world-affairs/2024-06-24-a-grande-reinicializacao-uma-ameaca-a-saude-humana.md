@@ -1,11 +1,12 @@
 ---
-title: "A Grande Reinicialização: Uma Ameaça à Saúde Humana?"
+title: 'A Grande Reinicialização: Uma Ameaça à Saúde Humana?'
 date: 2024-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em 3 de junho de 2020, Klaus Schwab, Presidente Executivo do Fórum Econômico Mundial (FEM), anunciou "A Grande Reinicialização", um plano ambicioso para reestruturar a economia global pós-COVID-19. Essa iniciativa foi apoiada por figuras de destaque como o Secretário-Geral da ONU, António Guterres, e o então Príncipe Charles, entre outros líderes de organizações influentes como o FMI, Microsoft e Mastercard. A mensagem central era clara: o sistema econômico vigente não atende mais às necessidades do século XXI.
 

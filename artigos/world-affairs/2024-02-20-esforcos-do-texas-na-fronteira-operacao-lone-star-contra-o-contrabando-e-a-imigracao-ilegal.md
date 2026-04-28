@@ -1,11 +1,13 @@
 ---
-title: "Esforços do Texas na Fronteira: Operação Lone Star Contra o Contrabando e a Imigração Ilegal"
+title: 'Esforços do Texas na Fronteira: Operação Lone Star Contra o Contrabando e
+  a Imigração Ilegal'
 date: 2024-02-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador Greg Abbott, junto com o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas, continua a liderar uma vigorosa resposta na fronteira para combater o contrabando de drogas, armas e pessoas, e para interromper atividades criminosas transnacionais entre os portos de entrada. Desde o início da Operação Lone Star, o esforço conjunto resultou em mais de 500.000 detenções de imigrantes ilegais e mais de 39.500 detenções criminais, com mais de 35.600 acusações criminais. Destacando a luta contra a crise do fentanil, as autoridades texanas apreenderam mais de 467 milhões de doses letais da droga durante esta missão fronteiriça.
 

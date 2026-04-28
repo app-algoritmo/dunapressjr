@@ -1,11 +1,12 @@
 ---
-title: "A Ascensão da Nova Ordem Mundial no Século XXI"
+title: A Ascensão da Nova Ordem Mundial no Século XXI
 date: 2023-07-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Embora a ideia da Nova Ordem Mundial tenha boas intenções, ela falha em atender às necessidades e expectativas dos indivíduos. As implicações da Nova Ordem Mundial na sociedade são significativas e incluem a desigualdade econômica, a falta de diversidade cultural e a perda da soberania nacional. É importante resistir e lutar por um futuro melhor, onde a diversidade cultural e a soberania nacional são preservadas. O termo “ordem” tornou-se discutível.
 

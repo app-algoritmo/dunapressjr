@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal prorroga prazo de validade de Certidões Negativas de Débitos"
+title: Receita Federal prorroga prazo de validade de Certidões Negativas de Débitos
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria da Receita Federal do Brasil, em decorrência da Emergência de Saúde Pública de Importância Internacional em decorrência do coronavírus (Covid-19), publicou Portaria Conjunta (555/20) com a Procuradoria-Geral da Fazenda Nacional, que prorroga o prazo de validade das Certidões Negativas de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União (CND) e Certidões Positivas com Efeitos de Negativas de Débitos relativos a Créditos Tributários Federais e à Dívida Ativa da União (CPEND).
 

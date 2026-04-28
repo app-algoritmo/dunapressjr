@@ -1,11 +1,13 @@
 ---
-title: "PF entrega cestas básicas em comunidades carentes e em instituições sociais do Tocantins"
+title: PF entrega cestas básicas em comunidades carentes e em instituições sociais
+  do Tocantins
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO e Araguaína/TO - A Polícia Federal realizou nesta sexta-feira (3/4) a entrega de aproximadamente 250 cestas básicas, na capital e em Araguaína.
 

@@ -1,11 +1,12 @@
 ---
-title: "Evento 'Católicos por Trump' Destaca Escolha Eleitoral para a Comunidade Hispânica"
+title: Evento 'Católicos por Trump' Destaca Escolha Eleitoral para a Comunidade Hispânica
 date: 2024-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A aproximação das eleições presidenciais nos Estados Unidos deste ano traz à tona debates acalorados e estratégias políticas, com o ex-presidente Donald Trump expressando sua intenção de retornar à Casa Branca. No entanto, além de enfrentar adversários políticos, Trump também se depara com a resistência dos meios de comunicação de massa. Para muitos de seus apoiadores, ele requer não apenas apoio humano, mas também sobre-humano.
 

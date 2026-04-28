@@ -1,11 +1,12 @@
 ---
-title: "Para Girão, algumas defensorias públicas atuam 'a favor do aborto'"
+title: Para Girão, algumas defensorias públicas atuam 'a favor do aborto'
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Para o senador Eduardo Girão (Novo-CE), a Defensoria Pública da União (DPU) estaria promovendo “apologia ao crime de aborto” em razão de um seminário — marcado pela instituição para quinta-feira (31) e depois cancelado — que daria espaço a apoiadoras do procedimento, nas hipóteses permitidas por lei, com auxílio da telemedicina. Em pronunciamento no Plenário nesta terça-feira (29), o parlamentar considerou a atuação da DPU nesse caso uma "completa inversão de valores", uma vez que a Constituição federal estabeleceu as bases para a criação da Defensoria com a missão de promover os direitos humanos e defender os direitos individuais e coletivos dos necessitados, ressaltou.
 

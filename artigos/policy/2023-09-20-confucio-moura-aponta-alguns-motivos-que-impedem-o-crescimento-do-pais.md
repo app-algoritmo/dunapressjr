@@ -1,11 +1,12 @@
 ---
-title: "Confúcio Moura aponta alguns motivos que impedem o crescimento do país"
+title: Confúcio Moura aponta alguns motivos que impedem o crescimento do país
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO) destacou, em pronunciamento no Plenário nesta segunda-feira (18), o baixo desenvolvimento econômico brasileiro e as dificuldades do país em atingir os seus objetivos. Segundo o parlamentar, muitos políticos têm apresentado propostas de qualidade, mas não conseguem aprová-las.
 

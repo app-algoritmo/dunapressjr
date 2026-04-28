@@ -1,11 +1,13 @@
 ---
-title: "WEF publica o último documento pedindo limites ao “uso de carros particulares” e redução drástica no número de carros até 2050"
+title: WEF publica o último documento pedindo limites ao “uso de carros particulares”
+  e redução drástica no número de carros até 2050
 date: 2023-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O globalista Fórum Econômico Mundial (WEF) incentiva as cidades a "conter o crescimento das viagens de carros particulares" e quer reduzir drasticamente o número de carros até 2050, de acordo com um white paper publicado recentemente. O [documento](https://www3.weforum.org/docs/WEF_The_Urban_Mobility_Scorecard_Tool_2023.pdf) se baseia nos habituais dados falsos sobre mudanças climáticas e modelos desonestos, e ignora o iminente colapso populacional sobre o qual muitos alertaram.
 

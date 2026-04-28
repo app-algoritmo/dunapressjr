@@ -1,11 +1,13 @@
 ---
-title: "Deputado Luiz Philipe de Orleans Bragança assume a presidência da Frente Parlamentar pelo Livre Mercado"
+title: Deputado Luiz Philipe de Orleans Bragança assume a presidência da Frente Parlamentar
+  pelo Livre Mercado
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## **Grupo busca debater melhorias na legislação e políticas públicas para o setor**.
 

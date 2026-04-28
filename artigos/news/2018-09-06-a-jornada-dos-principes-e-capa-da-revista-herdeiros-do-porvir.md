@@ -1,11 +1,12 @@
 ---
-title: "A Jornada dos Príncipes é capa da Revista Herdeiros do Porvir"
+title: A Jornada dos Príncipes é capa da Revista Herdeiros do Porvir
 date: 2018-09-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Herdeiros do Porvir é um **Boletim periódico da Pró Monarquia,** entidade que, sob os auspícios do Príncipe Dom Luiz de Orleans e Bragança, Chefe da Casa Imperial do Brasil, difunde o ideário monárquico em nosso País.
 

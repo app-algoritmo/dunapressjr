@@ -1,11 +1,12 @@
 ---
-title: "Programa Brasil Mais aumenta em 52% a produtividade dos pequenos negócios"
+title: Programa Brasil Mais aumenta em 52% a produtividade dos pequenos negócios
 date: 2021-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados do primeiro ciclo da iniciativa mostraram que, em média, os pequenos negócios também tiveram um incremento em 18% no faturamento.
 

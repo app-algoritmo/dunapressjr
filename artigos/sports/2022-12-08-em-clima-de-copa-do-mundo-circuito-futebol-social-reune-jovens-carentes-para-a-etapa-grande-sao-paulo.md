@@ -1,11 +1,13 @@
 ---
-title: "Em clima de Copa do Mundo, Circuito Futebol Social reúne jovens carentes para a Etapa Grande São Paulo"
+title: Em clima de Copa do Mundo, Circuito Futebol Social reúne jovens carentes para
+  a Etapa Grande São Paulo
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Vibrar, comemorar belas jogadas e gols. Festejar cada conquista. Cenas que têm se repetido na Copa do Mundo do Catar. O planeta vivendo o clima de mais um Mundial. Momentos marcantes, a cada quatro anos, que fazem a festa do futebol. O mesmo futebol que, no dia a dia, ao longo da temporada, também mostra cenas assim em diversas competições pelo Brasil. Muitas vezes levando mais do que a alegria do esporte, proporcionando oportunidade de novas histórias de vida.
 

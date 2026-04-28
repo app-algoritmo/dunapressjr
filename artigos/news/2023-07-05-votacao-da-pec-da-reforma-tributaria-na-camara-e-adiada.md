@@ -1,11 +1,12 @@
 ---
-title: "Votação da PEC da Reforma Tributária na Câmara é adiada"
+title: Votação da PEC da Reforma Tributária na Câmara é adiada
 date: 2023-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Deputados utilizam a tribuna enquanto líderes partidários e relator da proposta tentam encontrar acordo em pontos-chave do projeto.
 

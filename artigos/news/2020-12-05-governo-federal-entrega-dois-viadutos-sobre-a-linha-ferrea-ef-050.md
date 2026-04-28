@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal entrega dois viadutos sobre a linha férrea EF-050"
+title: Governo Federal entrega dois viadutos sobre a linha férrea EF-050
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal entregou, nesta quinta-feira (3), dois novos viadutos rodoviários responsáveis por transpor a ferrovia EF-050, no município de Mogi-Guaçu, no estado de São Paulo. Com a liberação dos viadutos, localizados na Avenida Emília Marchi Martini e na Rua Vilobaldo Vilas Boas, a população ganha maior agilidade nos deslocamentos, uma vez que a capacidade de transposição da ferrovia foi mais do que dobrada.
 

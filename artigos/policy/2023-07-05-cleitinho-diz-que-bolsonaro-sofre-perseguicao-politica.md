@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho diz que Bolsonaro sofre 'perseguição política'"
+title: Cleitinho diz que Bolsonaro sofre 'perseguição política'
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) classificou como “perseguição política” a decisão do Tribunal Superior Eleitoral (TSE) que tornou o ex-presidente Jair Bolsonaro inelegível. Em pronunciamento no Plenário nesta quarta-feira (5), o parlamentar informou que vai apresentar projeto para anistiar Bolsonaro e outros políticos e pediu o apoio da população.
 

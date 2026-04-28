@@ -1,11 +1,12 @@
 ---
-title: "Ipea lança estudo inédito sobre mercado de trabalho"
+title: Ipea lança estudo inédito sobre mercado de trabalho
 date: 2021-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Qualidade do Trabalho analisa dados de escolaridade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço de gasolina e diesel nas refinarias"
+title: Petrobras reduz preço de gasolina e diesel nas refinarias
 date: 2021-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço médio do litro da gasolina passará a custar R$ 2,59.
 

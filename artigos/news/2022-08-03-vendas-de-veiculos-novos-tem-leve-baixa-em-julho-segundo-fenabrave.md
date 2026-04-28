@@ -1,11 +1,12 @@
 ---
-title: "Vendas de veículos novos têm leve baixa em julho, segundo Fenabrave"
+title: Vendas de veículos novos têm leve baixa em julho, segundo Fenabrave
 date: 2022-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa é que as vendas cresçam até o final do ano.
 

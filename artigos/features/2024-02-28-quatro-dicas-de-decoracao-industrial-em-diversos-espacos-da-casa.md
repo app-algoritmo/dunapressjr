@@ -1,11 +1,12 @@
 ---
-title: "Quatro dicas de decoração industrial em diversos espaços da casa"
+title: Quatro dicas de decoração industrial em diversos espaços da casa
 date: 2024-02-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Móveis e suportes em alumínio ganham destaque em diferentes ambientes por serem discretos e práticos.
 

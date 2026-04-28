@@ -1,11 +1,12 @@
 ---
-title: "Divulgado o resultado final do Programa de Combate a Epidemias"
+title: Divulgado o resultado final do Programa de Combate a Epidemias
 date: 2020-07-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Foram 109 projetos selecionados em três editais que vão estudar Epidemias, Fármacos e Imunologia e Telemedicina e Análise de dados Médicos. Mais de 1.300 pesquisadores participarão.
 

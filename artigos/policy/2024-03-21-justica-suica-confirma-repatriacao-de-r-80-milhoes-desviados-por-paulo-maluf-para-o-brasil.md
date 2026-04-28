@@ -1,11 +1,13 @@
 ---
-title: "Justiça suíça confirma repatriação de R$ 80 milhões desviados por Paulo Maluf para o Brasil"
+title: Justiça suíça confirma repatriação de R$ 80 milhões desviados por Paulo Maluf
+  para o Brasil
 date: 2024-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Justiça da Suíça confirmou a repatriação de R$ 80 milhões (US$ 16,3 milhões) ao Brasil, que estavam bloqueados em contas ligadas ao ex-deputado federal Paulo Maluf.
 

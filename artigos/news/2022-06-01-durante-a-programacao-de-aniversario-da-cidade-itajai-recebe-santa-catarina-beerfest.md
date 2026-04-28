@@ -1,11 +1,13 @@
 ---
-title: "Durante a programação de aniversário da cidade, Itajaí recebe Santa Catarina BeerFest"
+title: Durante a programação de aniversário da cidade, Itajaí recebe Santa Catarina
+  BeerFest
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para incorporar mais sabor e gastronomia à programação de aniversário de 162 anos de Itajaí, o Município receberá o Santa Catarina BeerFest. O evento reunirá cinco marcas itajaienses de cerveja artesanal e outras cervejarias convidadas, totalizando 50 rótulos para degustação do público. O SC BeerFest, que tem apoio do Município de Itajaí e do Fundo Municipal de Turismo, ocorrerá durante os dias 9 a 12 de junho, no Centreventos, com entrada gratuita.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde adere a esforço internacional por vacinas contra a Covid-19"
+title: Ministério da Saúde adere a esforço internacional por vacinas contra a Covid-19
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde aderiu ao Instrumento de Acesso Global de Vacinas Covid-19 (Covax Facility). A adesão irá permitir que o Brasil tenha, entre suas opções, pelo menos mais nove vacinas em desenvolvimento. Desta forma, assim que concluída uma vacina de comprovada eficácia e segurança, o país poderá imunizar os grupos de risco da doença a partir de 2021.
 

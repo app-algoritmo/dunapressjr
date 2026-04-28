@@ -1,11 +1,13 @@
 ---
-title: "Operação Revide desarticula organização criminosa responsável por fraudes em benefícios previdenciários"
+title: Operação Revide desarticula organização criminosa responsável por fraudes em
+  benefícios previdenciários
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP - A Polícia Federal, por meio da Força-Tarefa Previdenciária formada pelo o Núcleo de Inteligência Previdenciária e Trabalhista em São Paulo, pela Procuradoria Federal e pelo INSS, deflagrou a Operação Revide na terça feira (7/7), com o objetivo de investigar fraudes em benefícios por incapacidade (auxílios por incapacidade temporária e aposentadorias por incapacidade permanente), praticadas por meio de uma organização criminosa (ORCRIM) composta por médicos, advogados e intermediários, em São Paulo.
 

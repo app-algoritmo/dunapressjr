@@ -1,11 +1,12 @@
 ---
-title: "The Descent into Darkness: Brazil's Struggle for Democracy"
+title: 'The Descent into Darkness: Brazil''s Struggle for Democracy'
 date: 2024-03-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Less than two years ago, Brazil was embroiled in a fierce presidential election, a battleground where the fate of democracy hung in the balance. On one side stood the incumbent president, Jair Bolsonaro, facing off against a former president with a controversial past and close ties to China's government, Lula. - **[The Tucker Carlson Encounter: Tyranny in Brazil](https://tuckercarlson.com/the-tucker-carlson-encounter-tyranny-in-brazil/?utm_medium=social&utm_source=TCNYT)**
 

@@ -1,11 +1,12 @@
 ---
-title: "Mídia do Irã comemora 'explosão' na 'sensível fábrica de mísseis de Israel'"
+title: Mídia do Irã comemora 'explosão' na 'sensível fábrica de mísseis de Israel'
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Relatórios indicam que a explosão aconteceu perto de Ramle em um teste de rotina na fábrica de Tomer para armas avançadas.
 

@@ -1,11 +1,13 @@
 ---
-title: "MPF acata denúncia-crime contra comandante do Exército e General Arruda pode ser preso, assim como Anderson Torres"
+title: MPF acata denúncia-crime contra comandante do Exército e General Arruda pode
+  ser preso, assim como Anderson Torres
 date: 2023-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Ministério Público Federal (MPF) acatou uma notícia-crime da deputada eleita Luciene Cavalcante (PSOL-SP), que vai assumir a cadeira da agora ministra do Meio Ambiente, Marina Silva, na Câmara Federal, e denunciou o general Júlio César de Arruda, comandante do Exército, por prevaricação pela inação diante dos acampamentos montados por manifestantes em frente aos quartéis-generais da força.
 

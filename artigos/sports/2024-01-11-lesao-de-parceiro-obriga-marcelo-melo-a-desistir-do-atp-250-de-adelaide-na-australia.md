@@ -1,12 +1,14 @@
 ---
-title: "Lesão de parceiro obriga Marcelo Melo a desistir do ATP 250 de Adelaide, na Austrália"
+title: Lesão de parceiro obriga Marcelo Melo a desistir do ATP 250 de Adelaide, na
+  Austrália
 date: 2024-01-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## O holandês Middelkoop sentiu uma fisgada na panturrilha e a dupla teve de dar W.O no jogo das oitavas de final, na madrugada desta quarta-feira (10), diante dos cabeças 5, Nys e Zielinski. O próximo torneio será o Australian Open, Grand Slam que começa neste domingo (14).
 

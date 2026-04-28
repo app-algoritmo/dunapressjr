@@ -1,11 +1,12 @@
 ---
-title: "Virgínia Portocarrero, heroína da Força Expedicionária Brasileira"
+title: Virgínia Portocarrero, heroína da Força Expedicionária Brasileira
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 *A mulher, que aliviou a dor e o sofrimento dos necessitados em um momento de conflito internacional do século passado, soube lutar sem derramar sangue e cumpriu sua missão no desafio de afastar a morte e assegurar a vida. *
 

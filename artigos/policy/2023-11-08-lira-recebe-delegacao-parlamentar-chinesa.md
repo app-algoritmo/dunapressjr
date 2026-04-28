@@ -1,11 +1,12 @@
 ---
-title: "Lira recebe delegação parlamentar chinesa"
+title: Lira recebe delegação parlamentar chinesa
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parlamentares chineses estão em missão oficial de dois dias em Brasília.
 

@@ -1,11 +1,13 @@
 ---
-title: "Suécia interrompe vacina AstraZeneca em 2 regiões após relatórios de efeitos colaterais"
+title: Suécia interrompe vacina AstraZeneca em 2 regiões após relatórios de efeitos
+  colaterais
 date: 2021-02-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Duas regiões suecas pararam temporariamente de usar a vacina covid-19 da AstraZeneca depois que um grande número de profissionais de saúde relatar possíveis efeitos colaterais.
 

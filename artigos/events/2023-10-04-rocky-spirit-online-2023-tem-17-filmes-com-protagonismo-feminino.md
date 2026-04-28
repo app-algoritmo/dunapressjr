@@ -1,13 +1,14 @@
 ---
-title: "Rocky Spirit Online 2023 tem 17 filmes com protagonismo feminino"
+title: Rocky Spirit Online 2023 tem 17 filmes com protagonismo feminino
 date: 2023-10-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Features
-  - Sports
+- Events
+- Features
+- Sports
 ---
+
 
 ## Público pode assistir a todas as produções do maior festival de cinema de vida outdoor do Brasil gratuitamente até domingo (8).
 

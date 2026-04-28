@@ -1,11 +1,12 @@
 ---
-title: "A iminente caída dos 11 elementos do Supremo Tribunal Federal do Brasil"
+title: A iminente caída dos 11 elementos do Supremo Tribunal Federal do Brasil
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 #STFVergonhaNacional
 

@@ -1,11 +1,12 @@
 ---
-title: "Promotor que condenou Cristina Kirchner foi atacado"
+title: Promotor que condenou Cristina Kirchner foi atacado
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O promotor que condenou Cristina Fernández de Kirchner passou por um momento incômodo neste fim de semana em Mar del Plata.
 

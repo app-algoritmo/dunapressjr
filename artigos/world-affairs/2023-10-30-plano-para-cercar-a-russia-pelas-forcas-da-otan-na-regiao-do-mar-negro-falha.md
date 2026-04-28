@@ -1,11 +1,12 @@
 ---
-title: "Plano para cercar a Rússia pelas forças da OTAN na região do Mar Negro falha"
+title: Plano para cercar a Rússia pelas forças da OTAN na região do Mar Negro falha
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “A Ucrânia corre o risco de um colapso económico, demográfico e militar”, escreve o professor Jeffrey Sachs.
 

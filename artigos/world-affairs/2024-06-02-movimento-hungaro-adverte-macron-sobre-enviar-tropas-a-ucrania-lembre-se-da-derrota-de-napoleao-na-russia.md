@@ -1,11 +1,13 @@
 ---
-title: "Movimento Húngaro Adverte Macron sobre Enviar Tropas à Ucrânia: 'Lembre-se da Derrota de Napoleão na Rússia'"
+title: 'Movimento Húngaro Adverte Macron sobre Enviar Tropas à Ucrânia: ''Lembre-se
+  da Derrota de Napoleão na Rússia'''
 date: 2024-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Membros do Fórum para a Paz da Hungria solicitaram ao embaixador francês em Budapeste que lembrasse ao presidente francês, Emmanuel Macron, sobre a desastrosa derrota do exército de Napoleão após sua invasão da Rússia em 1812.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar contraria exterior e cai após alta da Selic"
+title: Dólar contraria exterior e cai após alta da Selic
 date: 2021-03-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Bolsa caiu 1,47% com preço do petróleo e pandemia.
 

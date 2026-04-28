@@ -1,11 +1,12 @@
 ---
-title: "Acordo assinado entre Brasil e Uruguai favorece agenda econômica e comercial"
+title: Acordo assinado entre Brasil e Uruguai favorece agenda econômica e comercial
 date: 2020-06-18
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 Decreto regulamenta o  71º Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (ACE). Acordo é um marco para estreitar a relação comercial entre Brasil e Uruguai. Objetivo é garantir a fluidez do intercâmbio comercial bilateral e promover a ampliação e o aprofundamento do comércio de bens e serviços, em um marco de especial atenção às assimetrias entre as partes.
 

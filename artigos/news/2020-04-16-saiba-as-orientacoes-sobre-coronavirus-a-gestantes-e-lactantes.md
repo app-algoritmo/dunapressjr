@@ -1,11 +1,12 @@
 ---
-title: "Saiba as orientações sobre coronavírus a gestantes e lactantes"
+title: Saiba as orientações sobre coronavírus a gestantes e lactantes
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) preparou orientações voltadas à proteção de gestantes e lactantes durante a pandemia do novo coronavírus (Covid-19). Entre elas, estão a publicação de recomendações para as secretarias de políticas para mulheres dos Estados e a veiculação de informações úteis específicas para o grupo por meio de redes sociais, vídeo e cartilha.
 

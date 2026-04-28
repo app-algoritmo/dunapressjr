@@ -1,11 +1,12 @@
 ---
-title: "“Temos que ter mais boa vontade com o governo”, diz presidente do BC"
+title: “Temos que ter mais boa vontade com o governo”, diz presidente do BC
 date: 2023-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para ele, é possível fazer política fiscal com política social.
 

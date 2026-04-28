@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa vai utilizar plasma sanguíneo em pacientes infectados com Covid-19"
+title: Pesquisa vai utilizar plasma sanguíneo em pacientes infectados com Covid-19
 date: 2020-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estudo vai utilizar plasma sanguíneo de pessoas recuperadas em pacientes infectados pela doença. Projeto envolve cinco hospitais brasileiros e vai incluir 120 pacientes. Voluntários estão divididos em três grupos: um grupo recebe 200 ml de plasma, outro grupo, 400 ml, e outra parte não recebe o plasma.
 

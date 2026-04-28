@@ -1,11 +1,12 @@
 ---
-title: "O Debate sobre a Idade de Biden: Um Desafio para os Democratas"
+title: 'O Debate sobre a Idade de Biden: Um Desafio para os Democratas'
 date: 2024-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O debate sobre a capacidade do presidente Joe Biden para liderar os Estados Unidos em um segundo mandato está se intensificando, com recentes pesquisas indicando preocupações generalizadas sobre sua idade e aptidão mental. Uma pesquisa da ABC News/Ipsos revelou que uma esmagadora maioria dos americanos acredita que Biden, aos 81 anos, já está muito velho para buscar a reeleição. Essas preocupações foram exacerbadas por relatos de lapsos de memória do presidente e críticas de políticos tanto de dentro quanto de fora do Partido Democrata.
 

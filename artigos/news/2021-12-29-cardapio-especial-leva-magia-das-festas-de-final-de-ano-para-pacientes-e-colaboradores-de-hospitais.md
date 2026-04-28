@@ -1,11 +1,13 @@
 ---
-title: "Cardápio especial leva magia das festas de final de ano para pacientes e colaboradores de hospitais"
+title: Cardápio especial leva magia das festas de final de ano para pacientes e colaboradores
+  de hospitais
 date: 2021-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A alimentação vai muito além de simplesmente ingerir nutrientes. O ato de se alimentar envolve, também, memórias afetivas que podem gerar sensações de aconchego, nostalgia e conforto. Por isso, os hospitais Marcelino Champagnat (HMC) e Universitário Cajuru (HUC), em Curitiba (PR), vão proporcionar ceias especiais de Natal e Ano Novo para seus colaboradores, pacientes internados e familiares. Uma ação simples, pensada pela equipe de nutricionistas, para minimizar a distância de casa, humanizar o atendimento e levar a magia do final de ano para dentro dos hospitais.
 

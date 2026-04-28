@@ -1,11 +1,12 @@
 ---
-title: "Nova alíquota única do ICMS para combustíveis entra em vigor"
+title: Nova alíquota única do ICMS para combustíveis entra em vigor
 date: 2023-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudança no sistema de cobrança do imposto traz consequências para consumidores e estados, com valores fixados acima dos pagos anteriormente.
 

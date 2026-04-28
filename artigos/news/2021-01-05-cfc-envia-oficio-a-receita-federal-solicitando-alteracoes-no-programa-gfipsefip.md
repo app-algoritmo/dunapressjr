@@ -1,11 +1,12 @@
 ---
-title: "CFC envia ofício à Receita Federal solicitando alterações no programa Gfip/Sefip"
+title: CFC envia ofício à Receita Federal solicitando alterações no programa Gfip/Sefip
 date: 2021-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Conselho Federal de Contabilidade (CFC) enviou um ofício ao Secretário Especial da Secretaria da Receita Federal do Brasil (RFB), José Barroso Tostes Neto, nessa segunda-feira (4), para reportar alguns problemas percebidos na versão 8.4_24_12_2020 do programa Gfip/Sefip. A referida versão está em desconformidade com as orientações do manual de usuários.  No documento, o Conselho solicita a reconsideração quanto à decisão de mudança nos manuais e pede alterações no Programa Validador que permitam a inclusão de valor no campo “Base de Cálculo da Previdência Social” para os afastamentos com código P1.
 

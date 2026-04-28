@@ -1,11 +1,13 @@
 ---
-title: "Peru e China Assinam Novos Acordos de Cooperação Bilateral em Visita Oficial de Dina Boluarte"
+title: Peru e China Assinam Novos Acordos de Cooperação Bilateral em Visita Oficial
+  de Dina Boluarte
 date: 2024-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os governos do Peru e da China firmaram novos acordos de cooperação bilateral para fortalecer a “parceria estratégica abrangente” entre os dois países. A assinatura dos acordos ocorreu durante a visita oficial da presidente peruana, Dina Boluarte, ao presidente chinês, Xi Jinping, nesta sexta-feira.
 

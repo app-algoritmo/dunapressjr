@@ -1,11 +1,12 @@
 ---
-title: "Biden Corre o Risco de Não Estar nas Urnas em Ohio devido a Prazos Eleitorais"
+title: Biden Corre o Risco de Não Estar nas Urnas em Ohio devido a Prazos Eleitorais
 date: 2024-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Biden pode estar em perigo de não conseguir comparecer às urnas para as eleições gerais de Ohio, conforme alertou o principal funcionário eleitoral do estado. O secretário de Estado de Ohio, Frank LaRose, comunicou à campanha de Biden sobre a preocupação em relação a um prazo crucial que pode ser perdido. De acordo com LaRose, a Convenção Nacional Democrata está programada para ocorrer após o prazo de certificação de candidatos presidenciais em Ohio, levantando questões sobre a presença de Biden nas urnas do estado.
 

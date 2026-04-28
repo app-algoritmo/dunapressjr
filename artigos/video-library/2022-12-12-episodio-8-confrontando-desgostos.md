@@ -1,11 +1,12 @@
 ---
-title: "Episodio 8 - Confrontando Desgostos"
+title: Episodio 8 - Confrontando Desgostos
 date: 2022-12-12
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Observação: A resenha dos dois últimos episódios ficou um pouquinho maior devido ao grande numero de acontecimentos, mas acredito que vão gostar.
 

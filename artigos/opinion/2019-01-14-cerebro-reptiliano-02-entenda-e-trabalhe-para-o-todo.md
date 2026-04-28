@@ -1,11 +1,12 @@
 ---
-title: "Cérebro reptiliano - 02 - Entenda e trabalhe para o todo"
+title: Cérebro reptiliano - 02 - Entenda e trabalhe para o todo
 date: 2019-01-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Cérebro reptiliano e entropia psíquica têm tudo a ver. A entropia psíquica acontece quando não controlamos nossa mente e a deixamos “vagar”. Imediatamente aparecem os pensamentos negativos. Isso porque a energia tem de ser controlada senão decai, isto é, perde energia e organização.
 

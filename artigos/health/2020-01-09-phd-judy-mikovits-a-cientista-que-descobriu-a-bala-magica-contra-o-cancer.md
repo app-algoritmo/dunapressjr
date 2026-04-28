@@ -1,11 +1,12 @@
 ---
-title: "PhD Judy Mikovits, a cientista que descobriu a 'bala mágica' contra o câncer"
+title: PhD Judy Mikovits, a cientista que descobriu a 'bala mágica' contra o câncer
 date: 2020-01-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 Em um dos vídeos científicos mais chocantes que você verá, a bióloga molecular Judy A. Mikovits, PhD, revela a perturbadora história verdadeira de como ela foi  **jogada na prisão ** por revelar a contaminação viral mortal de  [vacinas humanas ](http://vaccines.news/). Com uma história bem estabelecida de trabalho para o  *Instituto Nacional do Câncer * como uma pesquisa de câncer, o Dr. Mikovits trabalhou com retrovírus humanos como o HIV. Seu trabalho se concentrou na pesquisa em imunoterapia e envolveu o HIV.
 

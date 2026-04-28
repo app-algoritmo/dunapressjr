@@ -1,11 +1,13 @@
 ---
-title: "A Filha do Império - <a href='https://www.skoob.com.br/autor/7846-raymond-e-feist'>Raymond E. Feist</a>"
+title: A Filha do Império - <a href='https://www.skoob.com.br/autor/7846-raymond-e-feist'>Raymond
+  E. Feist</a>
 date: 2022-11-07
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 Sinopse do Livro
 

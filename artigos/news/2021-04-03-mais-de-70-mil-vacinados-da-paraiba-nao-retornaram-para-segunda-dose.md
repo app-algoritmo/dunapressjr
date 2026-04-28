@@ -1,11 +1,12 @@
 ---
-title: "Mais de 70 mil vacinados da Paraíba não retornaram para segunda dose"
+title: Mais de 70 mil vacinados da Paraíba não retornaram para segunda dose
 date: 2021-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quem perde a data, ainda pode tomar o reforço da vacina.
 

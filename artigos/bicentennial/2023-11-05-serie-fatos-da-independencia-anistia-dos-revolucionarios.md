@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Anistia dos revolucionários"
+title: 'Série Fatos Da Independência: Anistia dos revolucionários'
 date: 2023-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A Revolução Liberal do Porto de 1820 – movimento que exigiu a formação de uma monarquia constitucional e o retorno de D. João VI a Portugal – teve consequências diretas e imediatas para o Brasil. Os revolucionários presos em 1817 foram anistiados por decreto das Cortes de Lisboa, que haviam assumido o comando do Reino Unido. Desse modo, os ex-patriotas voltaram a ocupar lugares importantes na política local, nas mãos dos realistas desde a repressão de 1817.
 

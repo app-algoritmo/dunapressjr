@@ -1,11 +1,13 @@
 ---
-title: "Pressões Islâmicas nas Escolas Alemãs: Pais Alarmados com Exigências de Estudantes e Ameaças aos Professores"
+title: 'Pressões Islâmicas nas Escolas Alemãs: Pais Alarmados com Exigências de Estudantes
+  e Ameaças aos Professores'
 date: 2024-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na cidade de Neuss, na Renânia do Norte-Vestfália, a comunidade educativa está sob tensão devido às demandas de quatro estudantes muçulmanos, com idades entre 17 e 19 anos, em uma escola secundária local. Estes jovens pressionaram por mudanças significativas nas aulas, exigindo a introdução da lei Sharia no ambiente escolar. Suas ações não se limitaram apenas a demandas verbais, mas também incluíram ameaças aos professores e pressão sobre seus colegas.
 

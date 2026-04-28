@@ -1,11 +1,12 @@
 ---
-title: "Urânio empobrecido e o legado cancerígeno da Guerra do Iraque"
+title: Urânio empobrecido e o legado cancerígeno da Guerra do Iraque
 date: 2023-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O artigo é de 2014, mas altamente atual agora que a OTAN quer usar munição de urânio na Ucrânia.
 

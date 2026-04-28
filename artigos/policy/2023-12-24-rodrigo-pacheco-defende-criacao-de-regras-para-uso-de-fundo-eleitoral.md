@@ -1,11 +1,12 @@
 ---
-title: "Rodrigo Pacheco defende criação de regras para uso de fundo eleitoral"
+title: Rodrigo Pacheco defende criação de regras para uso de fundo eleitoral
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 - 
 

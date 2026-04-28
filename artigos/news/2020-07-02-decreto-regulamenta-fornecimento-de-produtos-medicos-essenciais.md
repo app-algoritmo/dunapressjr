@@ -1,11 +1,12 @@
 ---
-title: "Decreto regulamenta fornecimento de produtos médicos essenciais"
+title: Decreto regulamenta fornecimento de produtos médicos essenciais
 date: 2020-07-02
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é garantir equipamentos e materiais médicos e hospitalares para tratamento da população brasileira durante a pandemia.
 

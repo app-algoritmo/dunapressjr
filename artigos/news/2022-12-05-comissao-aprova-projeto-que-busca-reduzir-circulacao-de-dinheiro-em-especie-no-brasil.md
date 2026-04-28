@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que busca reduzir circulação de dinheiro em espécie no Brasil"
+title: Comissão aprova projeto que busca reduzir circulação de dinheiro em espécie
+  no Brasil
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou o projeto que busca reduzir o uso de dinheiro em espécie no País. Pelo texto, o Conselho Monetário Nacional (CMN) poderá estabelecer valores máximos e diretrizes para a realização de transações financeiras ou o pagamento de cheques em espécie.
 

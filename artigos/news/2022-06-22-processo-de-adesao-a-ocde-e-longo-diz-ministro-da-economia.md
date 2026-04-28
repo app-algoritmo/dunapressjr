@@ -1,11 +1,12 @@
 ---
-title: "Processo de adesão à OCDE é longo, diz ministro da Economia"
+title: Processo de adesão à OCDE é longo, diz ministro da Economia
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Guedes classifica Brasil como “potência verde”.
 

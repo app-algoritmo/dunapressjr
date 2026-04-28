@@ -1,11 +1,13 @@
 ---
-title: "Paraíba firma parceria com pesquisadores americanos para tratamento de pacientes com Covid-19"
+title: Paraíba firma parceria com pesquisadores americanos para tratamento de pacientes
+  com Covid-19
 date: 2021-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Governo da Paraíba, por meio da Secretaria de Estado da Saúde (SES), assinou nessa quarta-feira (03), um Protocolo de Intenção com a empresa norte americana Soterix Medical e pesquisadores da City College de Nova Iorque, com a finalidade de desenvolver uma pesquisa de assistência a pacientes diagnosticados com a Covid-19. 
 

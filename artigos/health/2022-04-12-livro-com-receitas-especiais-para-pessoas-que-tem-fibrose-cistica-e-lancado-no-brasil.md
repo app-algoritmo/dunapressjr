@@ -1,11 +1,13 @@
 ---
-title: "Livro com receitas especiais para pessoas que têm fibrose cística é lançado no Brasil"
+title: Livro com receitas especiais para pessoas que têm fibrose cística é lançado
+  no Brasil
 date: 2022-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 "Essa obra foi realizada com o coração". É assim que a nutricionista Daniele Aparecida de Oliveira destaca o livro com receitas para pessoas que têm fibrose cística - doença que atinge cerca de 70 mil pessoas em todo o mundo e mais de 5 mil no Brasil. Desenvolvido como Trabalho de Conclusão de Curso (TCC), a publicação "Preparações culinárias para necessidades alimentares especiais - Alimentação saudável e adequada para pessoas com fibrose cística" está disponível no [site](https://bit.ly/receitasfibrosecistica) do Unidos pela Vida - Instituto Brasileiro de Atenção à Fibrose Cística -, organização social sem fins lucrativos localizada em Curitiba (PR), que tem como missão defender que pessoas com fibrose cística tenham conhecimento sobre diagnóstico precoce, sua saúde e direitos, e equidade no acesso aos melhores tratamentos e às inovações tecnológicas.
 

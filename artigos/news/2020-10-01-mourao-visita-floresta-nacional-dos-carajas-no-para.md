@@ -1,11 +1,12 @@
 ---
-title: "Mourão visita Floresta Nacional dos Carajás no Pará"
+title: Mourão visita Floresta Nacional dos Carajás no Pará
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Visita incluiu sobrevoo na região para conhecer trabalho de proteção realizado pela Vale em parceria com o ICMBio. 
 

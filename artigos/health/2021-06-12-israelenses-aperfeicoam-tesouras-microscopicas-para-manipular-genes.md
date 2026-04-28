@@ -1,11 +1,12 @@
 ---
-title: "Israelenses aperfeiçoam tesouras microscópicas para manipular genes"
+title: Israelenses aperfeiçoam tesouras microscópicas para manipular genes
 date: 2021-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A técnica CRISPR corta o DNA, mas e se a incisão for feita no lugar errado sem que os cientistas percebam.
 

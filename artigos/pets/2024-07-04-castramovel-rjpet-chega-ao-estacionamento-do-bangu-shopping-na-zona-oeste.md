@@ -1,12 +1,13 @@
 ---
-title: "Castramóvel RJPET chega ao estacionamento do Bangu Shopping, na Zona Oeste"
+title: Castramóvel RJPET chega ao estacionamento do Bangu Shopping, na Zona Oeste
 date: 2024-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pets
-  - Shopping
+- Pets
+- Shopping
 ---
+
 
 ## Ônibus adaptado para procedimento veterinário já iniciou suas atividades.
 

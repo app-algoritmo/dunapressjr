@@ -1,11 +1,12 @@
 ---
-title: "Marinha conclui com êxito treinamento de Guerra de Minas no litoral baiano"
+title: Marinha conclui com êxito treinamento de Guerra de Minas no litoral baiano
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Exercício MINEX-23 contou com o emprego inédito de sistemas não tripulados em contramedidas de minagem.
 

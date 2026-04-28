@@ -1,11 +1,12 @@
 ---
-title: "Publicado editais de leilões para concessão de terminais no Porto de Santos"
+title: Publicado editais de leilões para concessão de terminais no Porto de Santos
 date: 2020-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura (MInfra) publicou, nesta sexta-feira (7), os editais dos leilões de terminais de celulose no Porto de Santos (SP). Juntos, os terminais STS14 e STS14A terão investimentos previstos de R$ 420 milhões. O contrato de concessão terá duração de 25 anos e a previsão é que sejam leiloados em 28 de agosto.
 

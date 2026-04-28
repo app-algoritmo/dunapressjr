@@ -1,11 +1,12 @@
 ---
-title: "Ufam divulga artigo sobre uso de produtos naturais no tratamento ao coronavírus"
+title: Ufam divulga artigo sobre uso de produtos naturais no tratamento ao coronavírus
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Ananda Antonio, Larissa Wiedemann e Valdir Florêncio da Veiga Jr, membros do Programa de Pós-graduação em Química, assinam o artigo publicado pela revista Royal Society of Chemistry Advances (RSC Advances) sobre a atuação de produtos naturais contra a covid-19. De acordo com o documento, foi possível observar que compostos naturais sugeridos por modelagem computacional são capazes de inibir o contágio e a replicação do coronavírus SARS-CoV-2, que causa a covid-19.
 

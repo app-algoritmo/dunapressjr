@@ -1,11 +1,12 @@
 ---
-title: "Militares debatem Comunicação Estratégica em São Paulo"
+title: Militares debatem Comunicação Estratégica em São Paulo
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Com o objetivo de estimular o debate de temas relevantes não apenas para o meio militar, mas também para os demais setores da sociedade, o Comando Militar do Sudeste (CMSE) promoveu o "I Simpósio de Comunicação Estratégica do CMSE – Desafios e Tendências" no dia 27 de setembro, no Quartel-General do CMSE.
 

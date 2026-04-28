@@ -1,11 +1,12 @@
 ---
-title: "Esforços de cessar-fogo em Gaza são retomados"
+title: Esforços de cessar-fogo em Gaza são retomados
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma fonte diplomática disse que o Coordenador Especial da ONU tem mantido conversas extensas com todas as partes sobre um cessar-fogo em Gaza.
 

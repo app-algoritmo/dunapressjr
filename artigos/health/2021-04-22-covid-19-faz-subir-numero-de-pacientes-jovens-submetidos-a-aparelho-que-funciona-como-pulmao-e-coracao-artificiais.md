@@ -1,11 +1,13 @@
 ---
-title: "Covid-19 faz subir número de pacientes jovens submetidos a aparelho que funciona como pulmão e coração artificiais"
+title: Covid-19 faz subir número de pacientes jovens submetidos a aparelho que funciona
+  como pulmão e coração artificiais
 date: 2021-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O professor de química, Robert Gessner Junior, 31 anos, e o empresário e fisiculturista, Kaique Barbanti, 28 anos, são exemplos de pessoas jovens que sofreram com as complicações gravíssimas da Covid-19 e que foram salvos pelo procedimento da ECMO (oxigenação por membrana extracorpórea). O tratamento de alta complexidade funciona como um pulmão e um coração artificial e é considerado por muitos médicos como o último suspiro do paciente.
 

@@ -1,11 +1,13 @@
 ---
-title: "Feras do Futevôlei esquenta domingo ensolarado em Vila Velha e a telinha das TVs em todo Brasil"
+title: Feras do Futevôlei esquenta domingo ensolarado em Vila Velha e a telinha das
+  TVs em todo Brasil
 date: 2023-02-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Céu azul, sol, mar, areia e esporte de altíssimo nível. Um domingão perfeito para os capixabas que compareceram à Praia da Costa, em Vila Velha, para assistir a exibição de craques no Feras do Futevôlei. E quem não teve a oportunidade de conferir de perto, em um dos cenários mais bonitos do Espírito Santo, não perdeu nenhum lance, já que a TV Globo transmitiu dentro da programação do Esporte Espetacular. E foi isso mesmo. Um espetáculo. Três sets equilibrados e um desfile de jogadas acrobáticas e técnicas com a bola nos pés, peito, ombros, coxas, calcanhares e cabeça. No final, melhor para o time Rosa, campeão do desafio 3 x 3.
 

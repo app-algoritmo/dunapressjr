@@ -1,12 +1,14 @@
 ---
-title: "Forças Armadas desinfectam estações de transporte público em Brasília e no Rio"
+title: Forças Armadas desinfectam estações de transporte público em Brasília e no
+  Rio
 date: 2020-03-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 As Forças Armadas realizaram a desinfecção da
 Estação Central do metrô em Brasília, neste sábado (28), a partir das 23h. Já

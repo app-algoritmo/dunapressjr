@@ -1,11 +1,13 @@
 ---
-title: "Em quatro meses, mortes por Covid-19 de pessoas entre 40 e 49 anos são 55% maiores do que todo o ano de 2020"
+title: Em quatro meses, mortes por Covid-19 de pessoas entre 40 e 49 anos são 55%
+  maiores do que todo o ano de 2020
 date: 2021-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pacientes graves, com filhos pequenos, são cada vez mais comuns nas UTIs Covid.
 

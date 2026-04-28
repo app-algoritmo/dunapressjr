@@ -1,11 +1,13 @@
 ---
-title: "Medidas do Programa Verde Amarelo são positivas e podem ajudar o Brasil a enfrentar o elevado desemprego, afirma presidente da CNI"
+title: Medidas do Programa Verde Amarelo são positivas e podem ajudar o Brasil a enfrentar
+  o elevado desemprego, afirma presidente da CNI
 date: 2019-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As medidas que reduzem os custos do trabalho para empresas
 que contratarem jovens de 18 a 29 anos são, em geral, positivas e poderão

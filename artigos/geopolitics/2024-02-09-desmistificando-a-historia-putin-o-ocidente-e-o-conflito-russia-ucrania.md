@@ -1,12 +1,13 @@
 ---
-title: "Desmistificando a História: Putin, o Ocidente e o Conflito Rússia-Ucrânia"
+title: 'Desmistificando a História: Putin, o Ocidente e o Conflito Rússia-Ucrânia'
 date: 2024-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Opinion
+- Geopolitics
+- Opinion
 ---
+
 
 [Eva Vlaardingerbroek](https://x.com/evavlaar/status/1755990743401758860?s=46&t=IMcrE4gMx2wc3dssdIVgvQ) destaca o relato detalhado de Putin sobre a história da Rússia, contrastando-o com a falta de conhecimento histórico entre os líderes ocidentais. Ela critica o Ocidente por rejeitar sua própria história e abraçar uma narrativa superficial de progresso. Ela argumenta que a "democracia liberal" ocidental é uma ilusão, citando a senilidade do presidente dos EUA e a influência oculta das agendas globalistas. Ela sugere que muitas pessoas não estão cientes de sua manipulação e desconsideram vozes discordantes como teóricos da conspiração. Em relação ao conflito Rússia-Ucrânia, ela questiona a representação da Rússia como agressora, apontando a interferência ocidental na Ucrânia e a rejeição de um acordo de paz. Vlaardingerbroek vê Putin como agindo nos interesses da Rússia e espera que a entrevista contribua para a desescalada do conflito.
 

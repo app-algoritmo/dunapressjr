@@ -1,11 +1,12 @@
 ---
-title: "Protocolo de intenções foca em capacitação em setores estratégicos da Defesa"
+title: Protocolo de intenções foca em capacitação em setores estratégicos da Defesa
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Defesa (MD) e o Ministério da Educação (MEC) celebraram Protocolo de Intenções para unirem esforços e, juntos, trabalharem em benefício da pesquisa e da capacitação de recursos humanos, nível stricto sensu, com ênfase nos três setores estratégicos da Defesa. O Protocolo de Intenções entre as duas pastas foi publicado no Diário Oficial da União nº 96, de 21 de maio deste ano.
 

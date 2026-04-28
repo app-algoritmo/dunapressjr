@@ -1,11 +1,13 @@
 ---
-title: "Mais tradicional entre as corridas de rua do Brasil, Circuito de Corridas CAIXA está de volta"
+title: Mais tradicional entre as corridas de rua do Brasil, Circuito de Corridas CAIXA
+  está de volta
 date: 2024-06-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Serão 10 provas em diferentes cidades espalhadas por todas as regiões do País. Primeira etapa da temporada 2024 será em Brasília, dia 14 de julho.
 

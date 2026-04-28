@@ -1,12 +1,13 @@
 ---
-title: "Sabia que seu cachorro pode estar dizendo: EU TE AMO?"
+title: 'Sabia que seu cachorro pode estar dizendo: EU TE AMO?'
 date: 2022-12-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 ## Apesar de o cão não ter voz para expressar seus sentimentos, os gestos que exibe com o corpo torna possível conhecer seus estado de espírito.
 

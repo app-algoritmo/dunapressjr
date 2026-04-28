@@ -1,11 +1,12 @@
 ---
-title: "Estudo explica ligação entre apneia do sono e doenças cardiovasculares"
+title: Estudo explica ligação entre apneia do sono e doenças cardiovasculares
 date: 2023-11-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Falta de oxigênio ao dormir está associada a maiores chances de problemas cardíacos.
 

@@ -1,11 +1,12 @@
 ---
-title: "IPC-S da primeira quadrissemana de novembro de 2023 sobe 0,53%"
+title: IPC-S da primeira quadrissemana de novembro de 2023 sobe 0,53%
 date: 2023-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nos últimos 12 meses o índice acumula 3,88%.
 

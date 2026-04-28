@@ -1,11 +1,13 @@
 ---
-title: "É preciso promover o desenvolvimento dos moradores da região Amazônica, diz Confúcio"
+title: É preciso promover o desenvolvimento dos moradores da região Amazônica, diz
+  Confúcio
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO) afirmou em pronunciamento no Plenário nesta quarta-feira (20) que a Amazônia é a região com maior desigualdade no país, tendo os piores indicadores econômicos e sociais do Brasil. Confúcio destacou que é preciso promover o desenvolvimento dos moradores da região e ressaltou que muitas universidades do Norte têm estudado sobre a desigualdade de renda e a questão ambiental. 
 

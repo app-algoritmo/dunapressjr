@@ -1,11 +1,12 @@
 ---
-title: "Conquista Marcante do Irã: Lançamento Simultâneo de Três Satélites em Órbita"
+title: 'Conquista Marcante do Irã: Lançamento Simultâneo de Três Satélites em Órbita'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Num feito tecnológico significativo, o Irã alcançou mais um marco ao lançar com sucesso três satélites desenvolvidos internamente em órbita, utilizando o transportador de satélites Simorgh. O evento triunfante ocorreu quando os satélites de pesquisa Mahda, Keyhan-2 e Hatef-1 foram posicionados em altitudes variando entre 450 e 1.100 quilômetros acima da superfície da Terra.
 

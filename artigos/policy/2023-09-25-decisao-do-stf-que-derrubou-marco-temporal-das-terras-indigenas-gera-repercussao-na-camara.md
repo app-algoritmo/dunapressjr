@@ -1,11 +1,13 @@
 ---
-title: "Decisão do STF que derrubou marco temporal das terras indígenas gera repercussão na Câmara"
+title: Decisão do STF que derrubou marco temporal das terras indígenas gera repercussão
+  na Câmara
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Para deputados e senadores favoráveis à causa indígena, projeto aprovado pela Câmara e em discussão no Senado pode ser considerado inconstitucional.
 

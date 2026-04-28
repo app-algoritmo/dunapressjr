@@ -1,11 +1,12 @@
 ---
-title: "Cosud: governadores discutem integração de dados para combater o crime organizado"
+title: 'Cosud: governadores discutem integração de dados para combater o crime organizado'
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Governantes também defenderam o debate sobre aprimoramento da legislação penal como forma de reduzir a reincidência criminal.
 

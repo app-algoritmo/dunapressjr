@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,46 e fecha no maior valor em seis meses"
+title: Dólar sobe para R$ 5,46 e fecha no maior valor em seis meses
 date: 2022-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores encerra dia em estabilidade, com pequena alta.
 

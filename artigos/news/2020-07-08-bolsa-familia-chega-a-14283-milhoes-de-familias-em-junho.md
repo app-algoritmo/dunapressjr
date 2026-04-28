@@ -1,11 +1,12 @@
 ---
-title: "Bolsa Família chega a 14,283 milhões de famílias em junho"
+title: Bolsa Família chega a 14,283 milhões de famílias em junho
 date: 2020-07-08
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Quatro dos cinco meses com maior número de beneficiários na história do programa ocorreram na atual gestão do Governo Federal.
 

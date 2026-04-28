@@ -1,11 +1,12 @@
 ---
-title: "Lei garante troca de implante mamário para paciente de câncer em caso de complicação"
+title: Lei garante troca de implante mamário para paciente de câncer em caso de complicação
 date: 2023-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi sancionado a [Lei 14.538/23](https://www2.camara.gov.br/legin/fed/lei/2023/lei-14538-31-marco-2023-793982-norma-pl.html), que garante às mulheres o direito de troca de implante mamário colocado em virtude de tratamento de câncer sempre que houver complicações ou efeitos adversos. O texto da lei foi publicado nesta segunda-feira (3) no Diário Oficial da União.
 

@@ -1,12 +1,13 @@
 ---
-title: "Haas lança nova pintura para a temporada 2023 da F1; Veja vídeo"
+title: Haas lança nova pintura para a temporada 2023 da F1; Veja vídeo
 date: 2023-02-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## A Haas iniciou a temporada de lançamentos da F1 na terça-feira, mostrando sua pintura de 2023, que representa um novo visual para a equipe dos americanos.
 

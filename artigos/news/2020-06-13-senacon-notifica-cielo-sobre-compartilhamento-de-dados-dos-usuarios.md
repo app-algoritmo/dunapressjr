@@ -1,11 +1,12 @@
 ---
-title: "Senacon notifica Cielo sobre compartilhamento de dados dos usuários"
+title: Senacon notifica Cielo sobre compartilhamento de dados dos usuários
 date: 2020-06-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública, por meio da Secretaria Nacional do Consumidor (Senacon) notificou no dia 9 de junho a credenciadora Cielo por tentativa de acesso à base de dados de clientes do setor de marketplaces. Os dados poderiam ser utilizados em benefício próprio como também para criar dificuldades para a atuação e o desenvolvimento de novos concorrentes.
 

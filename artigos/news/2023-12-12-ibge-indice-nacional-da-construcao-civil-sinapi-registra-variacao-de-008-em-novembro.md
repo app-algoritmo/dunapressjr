@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Índice Nacional da Construção Civil (Sinapi) Registra Variação de 0,08% em novembro"
+title: 'IBGE: Índice Nacional da Construção Civil (Sinapi) Registra Variação de 0,08%
+  em novembro'
 date: 2023-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Região Norte como a que teve a maior variação regional.
 

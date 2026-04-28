@@ -1,11 +1,12 @@
 ---
-title: "Bill Gates financia projeto contra preservação"
+title: Bill Gates financia projeto contra preservação
 date: 2023-09-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 O bilionário Bill Gates está financiando um projeto para derrubar e enterrar árvores. O objetivo: a luta contra as alterações climáticas. Sim com certeza.
 

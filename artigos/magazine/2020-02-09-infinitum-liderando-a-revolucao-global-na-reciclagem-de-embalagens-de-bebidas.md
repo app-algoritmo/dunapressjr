@@ -1,11 +1,12 @@
 ---
-title: "Infinitum: Liderando a Revolução Global na Reciclagem de Embalagens de Bebidas"
+title: 'Infinitum: Liderando a Revolução Global na Reciclagem de Embalagens de Bebidas'
 date: 2020-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Fundada em 1996 com o nome Norsk Resirk AS, a Infinitum AS, tem como meta obter o maior retorno possível com embalagens recicláveis, o que é positivo para o meio ambiente uma vez que reduz o impacto ambiental. Em 2014, o nome passou de Norsk Resirk para Infinitum, inspirado pelo número infinito de vezes que se pode reciclar uma garrafa ou lata por meio do sistema de depósito adotado.
 

@@ -1,11 +1,12 @@
 ---
-title: "A verdadeira razão pela qual a família Soros teme uma vitória de Trump em 2024"
+title: A verdadeira razão pela qual a família Soros teme uma vitória de Trump em 2024
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A ameaça à “unidade” que Alex Soros descreve é o fim da guerra perpétua e a rejeição popular da plataforma do “progresso” tecnocrático.
 

@@ -1,11 +1,12 @@
 ---
-title: "Chega da artificialidade das telas. Queremos a sinceridade dos sorrisos"
+title: Chega da artificialidade das telas. Queremos a sinceridade dos sorrisos
 date: 2022-08-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Não há nada como tempos desafiadores para nos fazer enxergar novos horizontes, ajustar a rota e trilhar caminhos desconhecidos. Ao mesmo tempo, é nessas horas que devemos valorizar detalhes cotidianos dos quais somos privados em momentos críticos. Foi assim com o tempo de pandemia. Os métodos de trabalho foram adaptados para o mundo virtual, com videoconferências e aplicativos de conversas. Porém, essa falta de contato presencial aumentou substancialmente a quantidade de reuniões virtuais. Agora, que o  período crítico já passou, devemos resgatar a nossa veia criativa e valorizar os encontros presenciais, o olho no olho, o tête-à-tête. Chega da quase escravidão virtual. As telas e os fones dão lugar aos olhos e aos sorrisos.
 

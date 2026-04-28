@@ -1,11 +1,13 @@
 ---
-title: "Maior fábrica de carne artificial do mundo está prestes a ser construída na Espanha"
+title: Maior fábrica de carne artificial do mundo está prestes a ser construída na
+  Espanha
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Existem planos para aumentar a produção em massa de linhas de carne artificial. A notícia foi divulgada na reunião anual [da Wyoming Stockgrowers Association](https://leohohmann.substack.com/p/global-food-processing-giant-announces) . A maior fábrica de carne artificial do mundo está prestes a ser construída em San Sabastian, na Espanha. [A JBS SA, com sede no Brasil,](https://jbs.com.br/en/about/who-we-are/) está trabalhando com a Bio Tech Foods para colocar o novo empreendimento em funcionamento até meados de 2024. O Instituto Espanhol de Comércio Exterior ficará encarregado de pesquisar e cultivar novas linhagens de células para produzir uma nova linha de carnes artificiais.
 

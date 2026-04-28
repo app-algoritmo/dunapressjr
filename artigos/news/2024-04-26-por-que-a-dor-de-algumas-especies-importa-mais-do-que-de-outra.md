@@ -1,12 +1,13 @@
 ---
-title: "Por que a dor de algumas espécies importa mais do que de outra?"
+title: Por que a dor de algumas espécies importa mais do que de outra?
 date: 2024-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 “Ninguém quer falar sobre isso, eu sei. O veganismo incomoda tanto pois confronta as pessoas com um problema ético básico: é incoerente se importar com a dor de cães e gatos e não se importar com a de porcos, vacas, cabras, galinhas, peixes e os outros animais da indústria. Isso pq no fundo, não queremos causar sofrimento aos animais e sabemos que a dor deles é a mesma.
 

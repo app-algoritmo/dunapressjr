@@ -1,11 +1,12 @@
 ---
-title: "Chilenos aguardam 2023 com 89% de pessimismo"
+title: Chilenos aguardam 2023 com 89% de pessimismo
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### O pessimismo dos chilenos aumentou notavelmente durante o governo de Gabriel Boric, que também tem uma reprovação de 65% e uma aprovação de apenas 29%. 
 

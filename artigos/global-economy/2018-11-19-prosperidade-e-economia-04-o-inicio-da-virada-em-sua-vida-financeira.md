@@ -1,11 +1,12 @@
 ---
-title: "Prosperidade e economia - 04 - O início da virada em sua vida financeira"
+title: Prosperidade e economia - 04 - O início da virada em sua vida financeira
 date: 2018-11-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Primeiro, pare de reclamar e ser queixoso.
 

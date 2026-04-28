@@ -1,11 +1,13 @@
 ---
-title: "Governador Carlos Moisés anuncia novos nomes para Casa Civil, Comunicação e PGE"
+title: Governador Carlos Moisés anuncia novos nomes para Casa Civil, Comunicação e
+  PGE
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Além de anunciar um **plano de investimentos em seu retorno** ao cargo após a absolvição pelo Tribunal do Impeachment, o governador Carlos Moisés divulgou nesta sexta-feira, 27, mudanças no primeiro escalão de Governo. São novos nomes para a Casa Civil, a Secretaria Executiva de Comunicação e a Procuradoria-Geral do Estado.
 

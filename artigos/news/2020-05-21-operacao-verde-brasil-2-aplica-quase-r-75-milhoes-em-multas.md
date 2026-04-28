@@ -1,11 +1,12 @@
 ---
-title: "Operação Verde Brasil 2 aplica quase R$ 7,5 milhões em multas"
+title: Operação Verde Brasil 2 aplica quase R$ 7,5 milhões em multas
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Apenas na área de atuação do Comando Conjunto Príncipe da Beira, que engloba os estados do Acre, Amazonas e Rondônia foram expedidas multas e termos de infração que somam quase R$ 7,5 milhões. O valor é resultado de ações da Operação Verde Brasil 2, que coíbe delitos ambientais na Amazônia Legal. Nessas ações, militares das Forças Armadas atuam com agentes de órgãos de segurança e do meio ambiente.
 

@@ -1,11 +1,12 @@
 ---
-title: "SP tem interesse em aprovação da reforma tributária, diz governador"
+title: SP tem interesse em aprovação da reforma tributária, diz governador
 date: 2023-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tarcísio se reuniu com ministro-chefe da Casa Civil em Brasília.
 

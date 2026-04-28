@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de Valores cai 2,02% e fecha no menor nível em quatro meses"
+title: Bolsa de Valores cai 2,02% e fecha no menor nível em quatro meses
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dólar sobe 1,26% e atinge valor mais alto desde o fim de novembro.
 

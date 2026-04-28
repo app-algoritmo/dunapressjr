@@ -1,11 +1,12 @@
 ---
-title: "União regularizou 10 mil propriedades nos últimos seis meses em todo o país"
+title: União regularizou 10 mil propriedades nos últimos seis meses em todo o país
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Balanço foi apresentado pelo secretário-adjunto da SPU em audiência no Congresso Nacional 
 

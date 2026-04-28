@@ -1,12 +1,13 @@
 ---
-title: "A Historia Real do Cachorro Hachiko"
+title: A Historia Real do Cachorro Hachiko
 date: 2022-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Existem centenas de histórias incrivelmente comoventes que mostram o amor incrível que cachorro e homem compartilham um com o outro, mas nenhuma dessas histórias, no entanto, supera a história de Hachiko, o cachorro que esperava continuamente que seu dono voltasse para casa em uma estação de trem no Japão.
 

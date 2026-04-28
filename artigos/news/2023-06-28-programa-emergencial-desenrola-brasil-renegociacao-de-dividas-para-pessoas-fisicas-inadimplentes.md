@@ -1,11 +1,13 @@
 ---
-title: "Programa Emergencial Desenrola Brasil: Renegociação de Dívidas para Pessoas Físicas Inadimplentes"
+title: 'Programa Emergencial Desenrola Brasil: Renegociação de Dívidas para Pessoas
+  Físicas Inadimplentes'
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Portaria Estabelece Requisitos e Procedimentos para o Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil.
 

@@ -1,12 +1,13 @@
 ---
-title: "Pequeno Cotolengo faz Churrasco especial de Dia das Mães neste domingo, 7"
+title: Pequeno Cotolengo faz Churrasco especial de Dia das Mães neste domingo, 7
 date: 2023-05-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 ## O evento, tradicional em Curitiba, é uma importante forma de arrecadar verbas para continuar os atendimentos realizados pela Organização.
 

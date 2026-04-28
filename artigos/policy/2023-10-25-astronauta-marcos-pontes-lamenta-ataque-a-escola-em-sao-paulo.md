@@ -1,11 +1,12 @@
 ---
-title: "Astronauta Marcos Pontes lamenta ataque a escola em São Paulo"
+title: Astronauta Marcos Pontes lamenta ataque a escola em São Paulo
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Astronauta Marcos Pontes (PL-SP) lamentou o ataque cometido por um aluno de 15 anos de idade na Escola Estadual Sapopemba, em São Paulo. Além de matar uma aluna, o estudante feriu outras duas.  O senador ressaltou que esses episódios estão se tornando cada vez mais frequentes em ambientes escolares no Brasil. Entre setembro de 2022 e abril de 2023, ocorreram cinco ataques do tipo no país. Na opinião do parlamentar, é fundamental garantir ambientes seguros dentro das escolas, para que os jovens possam se dedicar aos estudos.
 

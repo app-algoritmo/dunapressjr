@@ -1,11 +1,12 @@
 ---
-title: "IBGE: produção industrial sobe 0,6% em julho"
+title: 'IBGE: produção industrial sobe 0,6% em julho'
 date: 2022-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Patamar continua abaixo do nível pré-pandemia.
 

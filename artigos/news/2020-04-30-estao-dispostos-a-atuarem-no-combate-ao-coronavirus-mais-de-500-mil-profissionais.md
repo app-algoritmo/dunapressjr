@@ -1,11 +1,12 @@
 ---
-title: "Estão dispostos a atuarem no combate ao coronavírus mais de 500 mil profissionais"
+title: Estão dispostos a atuarem no combate ao coronavírus mais de 500 mil profissionais
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os primeiros profissionais desse cadastro serão chamados para reforçar o atendimento nas unidades de saúde do Amazonas. Estudantes também já estão auxiliando na assistência.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Gripe Aviária: Atualizações Recentes e Preocupações Emergentes"
+title: 'A Gripe Aviária: Atualizações Recentes e Preocupações Emergentes'
 date: 2024-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A história da gripe aviária está em constante evolução e exige uma atualização para manter todos informados sobre os novos desenvolvimentos. Em abril, houve relatos de que a gripe aviária estava se espalhando das aves para o gado e do gado para as pessoas, levantando preocupações sobre o consumo de carne vermelha.
 

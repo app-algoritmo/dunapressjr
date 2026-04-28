@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro convoca reunião com aliados e poderá fazer pronunciamento amanhã"
+title: Bolsonaro convoca reunião com aliados e poderá fazer pronunciamento amanhã
 date: 2022-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente da República Jair Bolsonaro convocou sua base aliada para uma reunião amanhã, quarta-feira (28), ainda sem horário divulgado, e há uma expectativa de que o mandatário faça um pronunciamento. 
 

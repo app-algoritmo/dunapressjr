@@ -1,11 +1,12 @@
 ---
-title: "Um ano de Covid-19: quais lições foram realmente aprendidas?"
+title: 'Um ano de Covid-19: quais lições foram realmente aprendidas?'
 date: 2021-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Ariel Faria Junior, 33 anos, é um dos casos de reinfecção da Covid-19. Mesmo com hipertensão, a primeira vez em que foi infectado, em junho, apesar do mal estar provocado pelo novo coronavírus, não precisou de internação. Já em janeiro, após perder o pai para a doença, Ariel teve 75% do pulmão comprometido e ficou 17 dias intubado na unidade de terapia intensiva do Hospital Marcelino Champagnat, em Curitiba (PR). Após 37 dias de internação, teve alta hospitalar e agora precisa de fisioterapia para fortalecer o pulmão.
 

@@ -1,11 +1,12 @@
 ---
-title: "A OMS mudou e agora é uma ameaça"
+title: A OMS mudou e agora é uma ameaça
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O diretor-geral da Organização Mundial da Saúde (OMS) garante que o “acordo” (ou “tratado”) da OMS não limitará a soberania de seus estados membros. QUEM confia nessas palavras vai distrair da realidade. 
 

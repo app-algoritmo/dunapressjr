@@ -1,11 +1,12 @@
 ---
-title: "PF apura desvio de recursos públicos nas eleições de 2018 no Amapá"
+title: PF apura desvio de recursos públicos nas eleições de 2018 no Amapá
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou, na manhã desta terça-feira (16/6), a Operação Desviocracia*, para combater associação criminosa responsável por fraudes e desvios de recursos públicos do Fundo Partidário e do Fundo Especial de Financiamento de Campanha (FEFC), denominado Fundo Eleitoral, nas eleições gerais de 2018, no Amapá.
 

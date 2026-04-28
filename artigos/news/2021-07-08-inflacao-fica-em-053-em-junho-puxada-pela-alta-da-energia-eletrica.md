@@ -1,11 +1,12 @@
 ---
-title: "Inflação fica em 0,53% em junho, puxada pela alta da energia elétrica"
+title: Inflação fica em 0,53% em junho, puxada pela alta da energia elétrica
 date: 2021-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pelo IBGE.
 

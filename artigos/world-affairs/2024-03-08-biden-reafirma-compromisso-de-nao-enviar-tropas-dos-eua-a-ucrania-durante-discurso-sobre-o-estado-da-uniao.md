@@ -1,11 +1,13 @@
 ---
-title: "Biden reafirma compromisso de não enviar tropas dos EUA à Ucrânia durante discurso sobre o Estado da União"
+title: Biden reafirma compromisso de não enviar tropas dos EUA à Ucrânia durante discurso
+  sobre o Estado da União
 date: 2024-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No seu discurso sobre o Estado da União, o presidente dos EUA, Joe Biden, enfatizou sua determinação em não empregar tropas americanas na Ucrânia, reiterando que o país não solicitou tal intervenção. "Eles não estão pedindo soldados americanos. Na verdade, não há soldados americanos em guerra na Ucrânia. E estou determinado a continuar assim", afirmou Biden.
 

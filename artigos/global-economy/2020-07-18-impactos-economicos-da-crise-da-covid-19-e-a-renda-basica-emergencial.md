@@ -1,11 +1,12 @@
 ---
-title: "Impactos econômicos da crise da COVID-19 e a renda básica emergencial"
+title: Impactos econômicos da crise da COVID-19 e a renda básica emergencial
 date: 2020-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A pandemia do novo coronavírus desencadeou muitas mudanças no nosso dia-a-dia na tentativa de conter sua difusão. O fechamento do comércio e o isolamento social, por exemplo, foram algumas das medidas adotadas para reduzir a aglomeração de pessoas e desacelerar o contágio. Entretanto, quanto mais longa for a suspensão do comércio, mais severas serão as consequências sobre trabalhadores que dependem dessas atividades para sobreviver.
 

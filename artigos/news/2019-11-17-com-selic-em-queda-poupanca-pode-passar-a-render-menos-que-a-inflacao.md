@@ -1,11 +1,12 @@
 ---
-title: "Com Selic em queda, poupança pode passar a render menos que a inflação"
+title: Com Selic em queda, poupança pode passar a render menos que a inflação
 date: 2019-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com a taxa básica de juros, a Selic, em queda, os rendimentos
 da poupança devem perder para a inflação. Isso pode acontecer porque os

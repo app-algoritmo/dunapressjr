@@ -1,11 +1,12 @@
 ---
-title: "Presidente do BC se diz surpreso com a alta da inflação"
+title: Presidente do BC se diz surpreso com a alta da inflação
 date: 2022-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### IPCA de março foi a maior taxa para o mês desde a implantação do real.
 

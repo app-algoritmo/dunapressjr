@@ -1,11 +1,13 @@
 ---
-title: "Eleições: Como o Big Data e a inteligência artificial são usados durante as campanhas eleitorais?"
+title: 'Eleições: Como o Big Data e a inteligência artificial são usados durante as
+  campanhas eleitorais?'
 date: 2022-08-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Big Data e a inteligência artificial são mecanismos que estão revolucionando as campanhas eleitorais e se tornaram indispensáveis para a objetividade dos discursos políticos. Entenda.
 

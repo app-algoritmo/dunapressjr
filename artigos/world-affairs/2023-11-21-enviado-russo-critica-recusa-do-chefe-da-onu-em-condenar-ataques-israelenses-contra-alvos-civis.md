@@ -1,11 +1,13 @@
 ---
-title: "Enviado russo critica recusa do chefe da ONU em condenar ataques israelenses contra alvos civis"
+title: Enviado russo critica recusa do chefe da ONU em condenar ataques israelenses
+  contra alvos civis
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Vasily Nebenzya também disse que a decisão do Tribunal Penal Internacional de emitir mandados de prisão contra o presidente russo, Vladimir Putin, e a Comissária dos Direitos da Criança, Maria Lvova-Belova, por seu suposto envolvimento na deportação de crianças ucranianas, foi vergonhosa.
 

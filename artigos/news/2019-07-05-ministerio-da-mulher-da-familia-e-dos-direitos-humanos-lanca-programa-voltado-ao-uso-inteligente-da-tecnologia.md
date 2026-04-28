@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Mulher, da Família e dos Direitos Humanos lança programa voltado ao uso inteligente da tecnologia"
+title: Ministério da Mulher, da Família e dos Direitos Humanos lança programa voltado
+  ao uso inteligente da tecnologia
 date: 2019-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Foto: Willian Meira - MMFDH 
 

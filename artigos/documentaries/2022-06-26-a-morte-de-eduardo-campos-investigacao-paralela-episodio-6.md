@@ -1,11 +1,12 @@
 ---
-title: "A Morte de Eduardo Campos - Investigação Paralela - Episódio 6"
+title: A Morte de Eduardo Campos - Investigação Paralela - Episódio 6
 date: 2022-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo |
 

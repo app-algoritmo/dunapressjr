@@ -1,11 +1,13 @@
 ---
-title: "Alguns ensinamentos de Platão, as lições platônicas mais importantes e qual a sua relevância na atualidade"
+title: Alguns ensinamentos de Platão, as lições platônicas mais importantes e qual
+  a sua relevância na atualidade
 date: 2020-01-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Pensar bem, pensar melhor, contemplar a beleza, entender que amor é admiração, deixar o seu parceiro mudar você e reformar a sociedade. Essas são algumas ideias de um dos filósofos mais importantes de todos os tempos.
 

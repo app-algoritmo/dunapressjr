@@ -1,12 +1,13 @@
 ---
-title: "Médico acusa Pfizer de conspiração mortal contra bebês e mulheres grávidas"
+title: Médico acusa Pfizer de conspiração mortal contra bebês e mulheres grávidas
 date: 2023-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Os próprios dados da Pfizer mostram o maior e mais mortal procedimento médico da história, com mais de 100 mortes por semana, diz o Dr. James Thorp.
 

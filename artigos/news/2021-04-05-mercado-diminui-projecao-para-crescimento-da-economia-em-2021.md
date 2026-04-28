@@ -1,11 +1,12 @@
 ---
-title: "Mercado diminui projeção para crescimento da economia em 2021"
+title: Mercado diminui projeção para crescimento da economia em 2021
 date: 2021-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa para o PIB varia de 3,18% para 3,17%.
 

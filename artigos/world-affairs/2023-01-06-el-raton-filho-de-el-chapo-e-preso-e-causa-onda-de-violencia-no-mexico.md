@@ -1,11 +1,12 @@
 ---
-title: "El Ratón, filho de El Chapo, é preso e causa onda de violência no México"
+title: El Ratón, filho de El Chapo, é preso e causa onda de violência no México
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na manhã desta quinta-feira (5), moradores de Culiacán, capital do Estado de Sinaloa, no norte do México acordaram com uma com algo que já é bem comum na região, onda de violência nas ruas, com bloqueios e tiroteios entre as forças de segurança e membros do crime organizado, enquanto as autoridades capturavam Ovidio Guzmán López, El Ratón.
 

@@ -1,11 +1,12 @@
 ---
-title: "4 motivos para investir em uma ferramenta de CRM"
+title: 4 motivos para investir em uma ferramenta de CRM
 date: 2022-04-13
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O cliente tornou-se o centro de todas as atividades de negócios da empresa, o que criou a necessidade de um relacionamento íntimo com o público. Como tal, o **CRM** é uma ferramenta cada vez mais notória no mercado.
 

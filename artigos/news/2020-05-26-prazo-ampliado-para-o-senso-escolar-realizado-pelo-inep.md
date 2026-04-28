@@ -1,11 +1,12 @@
 ---
-title: "Prazo ampliado para o senso escolar realizado pelo Inep"
+title: Prazo ampliado para o senso escolar realizado pelo Inep
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Portaria publicada nesta segunda-feira também antecipou a data de referência da pesquisa.**
 

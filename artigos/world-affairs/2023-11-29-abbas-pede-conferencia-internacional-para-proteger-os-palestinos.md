@@ -1,11 +1,12 @@
 ---
-title: "Abbas pede conferência internacional para proteger os palestinos"
+title: Abbas pede conferência internacional para proteger os palestinos
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## É hora de realizar uma conferência internacional de paz, impor a vontade internacional e reconhecer o direito de existência do nosso povo, disse o presidente.
 

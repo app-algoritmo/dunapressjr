@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona lei do novo Marco Legal do Saneamento Básico"
+title: Bolsonaro sanciona lei do novo Marco Legal do Saneamento Básico
 date: 2020-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Texto prevê universalização dos serviços de água e esgoto até 2033.
 

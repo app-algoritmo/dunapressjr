@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal investiga desvio de recursos destinados a compra de respiradores no Pará"
+title: Polícia Federal investiga desvio de recursos destinados a compra de respiradores
+  no Pará
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Belém/PA -** A Polícia Federal deflagrou, nesta quarta-feira (13/05), a Operação Profilaxia para combater o desvio de recursos destinados ao combate ao Covid-19.
 

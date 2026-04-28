@@ -1,11 +1,13 @@
 ---
-title: "Paraná colocou 61,6 mil jovens no mercado de trabalho em 2023, melhor resultado do Sul"
+title: Paraná colocou 61,6 mil jovens no mercado de trabalho em 2023, melhor resultado
+  do Sul
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O desempenho representou 42% das 144.475 contratações de pessoas com idade até 29 anos na região Sul. Santa Catarina registrou 44.681 empregos para a juventude e o Rio Grande do Sul, 38.156 colocações.
 

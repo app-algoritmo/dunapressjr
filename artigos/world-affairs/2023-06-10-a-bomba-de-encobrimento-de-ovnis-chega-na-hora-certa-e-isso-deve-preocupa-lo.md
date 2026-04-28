@@ -1,11 +1,12 @@
 ---
-title: "A bomba de encobrimento de OVNIs chega na hora certa, e isso deve preocupá-lo"
+title: A bomba de encobrimento de OVNIs chega na hora certa, e isso deve preocupá-lo
 date: 2023-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Não pense que sou louco porque acho que a maioria das outras pessoas são loucas quando se trata de OVNIs.
 

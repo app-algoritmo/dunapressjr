@@ -1,11 +1,12 @@
 ---
-title: "Mundo centrado nos EUA chegando ao fim, afirma o Kremlin"
+title: Mundo centrado nos EUA chegando ao fim, afirma o Kremlin
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Dmitry Peskov sublinhou que “há uma economia que está logo atrás dos EUA, esta é a China, há economias emergentes com as suas exigências de recursos energéticos”.
 

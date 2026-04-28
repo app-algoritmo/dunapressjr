@@ -1,11 +1,12 @@
 ---
-title: "Conheça o Novo marco cambial"
+title: Conheça o Novo marco cambial
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais dinheiro para viajar e compra e venda de moeda estrangeira entre amigos.
 

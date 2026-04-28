@@ -1,11 +1,12 @@
 ---
-title: "CSP aprova aumento de pena para corrupção em comércio internacional"
+title: CSP aprova aumento de pena para corrupção em comércio internacional
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública (CSP) aprovou nesta terça-feira (22) o projeto de lei (PL) 5.079/2020, que aumenta a pena do crime de corrupção ativa em transação comercial internacional. O Código Penal (Decreto Lei 2.848, de 1940) já prevê pena de um a oito anos de reclusão, além de multa, para quem prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a funcionário público estrangeiro para determiná-lo a praticar, omitir ou retardar ato de ofício relacionado à transação comercial internacional. Pelo projeto do senador Marcos do Val (Podemos-ES), a pena passará a ser de 2 a 12 anos de reclusão, além da multa.
 

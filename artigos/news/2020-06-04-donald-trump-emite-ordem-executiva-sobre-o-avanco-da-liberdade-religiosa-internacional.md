@@ -1,11 +1,12 @@
 ---
-title: "Donald Trump emite ordem executiva sobre o avanço da liberdade religiosa internacional"
+title: Donald Trump emite ordem executiva sobre o avanço da liberdade religiosa internacional
 date: 2020-06-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pela autoridade que me é conferida pela Presidência pela Constituição e pelas leis dos Estados Unidos da América, é ordenado o seguinte:
 

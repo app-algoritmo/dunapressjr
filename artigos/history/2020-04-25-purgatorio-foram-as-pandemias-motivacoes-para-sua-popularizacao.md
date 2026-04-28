@@ -1,11 +1,12 @@
 ---
-title: "Purgatório: Foram as Pandemias motivações para sua popularização?"
+title: 'Purgatório: Foram as Pandemias motivações para sua popularização?'
 date: 2020-04-25
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 O purgatório é uma localidade onde as almas (enquanto mortas) com dividas leves em vida tem a oportunidade de sana-las para assim serem guiadas ao paraíso. Basicamente ao morrer uma “analise” sobre sua vida acontece, isso tudo de forma instantânea, e então um novo destino é traçado para sua alma: Paraíso enquanto bom, Inferno enquanto mau ou Purgatório enquanto há redenção.
 

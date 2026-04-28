@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro promove missões de apoio e atendimento a indígenas"
+title: Governo Bolsonaro promove missões de apoio e atendimento a indígenas
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em programa de rádio semanal, vice-presidente comentou também sobre o combate a incêndios e pediu apoio à população. Desde março o Governo Federal já disponibilizou mais de R$ 125 milhões para atender os indígenas.
 

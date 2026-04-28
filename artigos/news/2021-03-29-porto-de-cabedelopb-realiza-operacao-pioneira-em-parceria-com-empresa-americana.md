@@ -1,11 +1,12 @@
 ---
-title: "Porto de Cabedelo/PB realiza operação pioneira em parceria com empresa americana"
+title: Porto de Cabedelo/PB realiza operação pioneira em parceria com empresa americana
 date: 2021-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Porto irá exportar 20 mil toneladas do produto na primeira movimentação de produtos.
 

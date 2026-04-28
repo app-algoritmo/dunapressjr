@@ -1,11 +1,12 @@
 ---
-title: "PPSA tem arrecadação recorde de R$ 1,22 bilhão para a União"
+title: PPSA tem arrecadação recorde de R$ 1,22 bilhão para a União
 date: 2022-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado do ano passado ficou 74% acima do total obtido em 2020.
 

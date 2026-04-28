@@ -1,11 +1,12 @@
 ---
-title: "Marburg: genocídio ou nada?"
+title: 'Marburg: genocídio ou nada?'
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 *“Algo a considerar: quando as vacinas começarem a cair no inverno, os sintomas seriam muito semelhantes ao vírus de Marburg. Pode-se facilmente atribuir essa onda de mortes a esse raro vírus semelhante ao Ebola e induzir as pessoas a não culpar aqueles que foram vacinados”.*Saco de areia tático de Rosie [@DarnelSugarfoo](https://twitter.com/search?q=%40DarnelSugarfoo&src=typed_query)
 

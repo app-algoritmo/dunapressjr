@@ -1,11 +1,12 @@
 ---
-title: "Sequestro na ponte Rio-Niterói é destaque na NRK"
+title: Sequestro na ponte Rio-Niterói é destaque na NRK
 date: 2019-08-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 NRK, principal veículo de comunicação da Noruega, noticiou o sequestro ocorrido essa semana em uma cidade brasileira. A rede norueguesa mencionou o seguinte:
 

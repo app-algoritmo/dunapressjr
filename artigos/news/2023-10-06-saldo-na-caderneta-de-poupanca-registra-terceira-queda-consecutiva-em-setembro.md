@@ -1,11 +1,12 @@
 ---
-title: "Saldo na caderneta de poupança registra terceira queda consecutiva em setembro"
+title: Saldo na caderneta de poupança registra terceira queda consecutiva em setembro
 date: 2023-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saídas superam entradas em R$ 5,83 Bilhões, com acumulado anual de R$ 86,13 bilhões em retiradas.
 

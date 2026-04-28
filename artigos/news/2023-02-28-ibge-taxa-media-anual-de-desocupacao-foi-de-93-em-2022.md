@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Taxa média anual de desocupação foi de 9,3% em 2022"
+title: 'IBGE: Taxa média anual de desocupação foi de 9,3% em 2022'
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa de subutilização foi de 20,8%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Em carta divulgada em Davos, milionários pedem parcela mais justa de impostos"
+title: Em carta divulgada em Davos, milionários pedem parcela mais justa de impostos
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Um grupo de mais de 200 milionários defendeu que as classes ricas paguem uma parcela mais justa de impostos, em carta aberta divulgada nesta quarta-feira, no âmbito do Fórum Econômico Mundial, em Davos, na Suíça. “Vocês, nossos representantes globais, devem tributar a nós, os ultrarricos, e devem começar agora”, exortam os signatários do documento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Detalhados projetos selecionados para combater epidemias pela Capes"
+title: Detalhados projetos selecionados para combater epidemias pela Capes
 date: 2020-06-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Edital nº 9 de 2020 selecionou 31 projetos de pesquisa e formação de recursos humanos na pós-graduação. Serão 503 pesquisadores e 42 instituições envolvidas.
 

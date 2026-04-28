@@ -1,11 +1,12 @@
 ---
-title: "O que você vê quando olha para um cachorro?"
+title: O que você vê quando olha para um cachorro?
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Talvez quando olhe para ele você veja um gasto enorme com vacinas, uma fortuna em comida, tempo que se perde em passeios, um esforço enorme para manter o quintal limpo, desperdício de tempo com banhos, isso sem falar no custo da castração.
 

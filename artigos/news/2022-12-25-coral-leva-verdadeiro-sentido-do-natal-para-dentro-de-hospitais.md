@@ -1,11 +1,12 @@
 ---
-title: "Coral leva verdadeiro sentido do Natal para dentro de hospitais"
+title: Coral leva verdadeiro sentido do Natal para dentro de hospitais
 date: 2022-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Comemorar a vida, semear o amor e espalhar a esperança. Esses são alguns dos objetivos dos voluntários que levam músicas natalinas para os corredores e quartos de hospitais de Curitiba (PR). Quem ouve a cantoria e as melodias consegue se distanciar, ao menos por alguns momentos, da ansiedade e solidão que predominam durante o período de internamento. "A música se torna um remédio não apenas para a alma, como também para o corpo de quem canta e, principalmente, de quem escuta as canções", afirma Nilza Brenny, coordenadora do voluntariado e pastoral dos hospitais Universitário Cajuru e Marcelino Champagnat. 
 

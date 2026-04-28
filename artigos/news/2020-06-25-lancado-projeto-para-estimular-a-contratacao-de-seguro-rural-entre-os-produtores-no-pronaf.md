@@ -1,11 +1,13 @@
 ---
-title: "Lançado projeto para estimular a contratação de seguro rural entre os produtores no Pronaf"
+title: Lançado projeto para estimular a contratação de seguro rural entre os produtores
+  no Pronaf
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Serão destinados R$ 50 milhões para subvencionar a contratação de apólices de seguro rural em todo o país.
 

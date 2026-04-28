@@ -1,11 +1,12 @@
 ---
-title: "Microempresas e MEI poderão acessar programa de crédito garantido"
+title: Microempresas e MEI poderão acessar programa de crédito garantido
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Recursos deverão estar disponíveis no final de julho.
 

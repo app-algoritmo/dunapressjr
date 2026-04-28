@@ -1,11 +1,12 @@
 ---
-title: "Indústria cresce em nove dos 15 locais analisados pelo IBGE"
+title: Indústria cresce em nove dos 15 locais analisados pelo IBGE
 date: 2022-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Maior expansão foi em São Paulo: 8,4%.
 

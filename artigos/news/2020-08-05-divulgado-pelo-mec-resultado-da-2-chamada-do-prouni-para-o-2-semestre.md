@@ -1,11 +1,12 @@
 ---
-title: "Divulgado pelo Mec resultado da 2ª chamada do Prouni para o 2º semestre"
+title: Divulgado pelo Mec resultado da 2ª chamada do Prouni para o 2º semestre
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo para comprovação das informações da inscrição é até o dia 11 de agosto.
 

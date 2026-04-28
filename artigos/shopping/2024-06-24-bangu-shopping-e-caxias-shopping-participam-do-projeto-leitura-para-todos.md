@@ -1,11 +1,12 @@
 ---
-title: "Bangu Shopping e Caxias Shopping participam do projeto 'Leitura para Todos'"
+title: Bangu Shopping e Caxias Shopping participam do projeto 'Leitura para Todos'
 date: 2024-06-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## O Bangu Shopping e o Caxias Shopping, empreendimentos da ALLOS , deram início ao quarto ano do projeto "Leitura para Todos". 
 

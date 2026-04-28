@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas combatem crimes na fronteira com Bolívia e Paraguai"
+title: Forças Armadas combatem crimes na fronteira com Bolívia e Paraguai
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Operação foi iniciada nesta quarta para aumentar segurança na região.
 

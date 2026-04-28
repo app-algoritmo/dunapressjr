@@ -1,11 +1,12 @@
 ---
-title: "Kraven - O Caçador – Lançamento 2024"
+title: Kraven - O Caçador – Lançamento 2024
 date: 2023-10-30
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

@@ -1,11 +1,12 @@
 ---
-title: "Melo e McDonald param na semifinal no ATP 250 de Adelaide, na Austrália"
+title: Melo e McDonald param na semifinal no ATP 250 de Adelaide, na Austrália
 date: 2023-01-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Com um balanço positivo do primeiro torneio da temporada, o mineiro Marcelo Melo e o norte-americano Mackenzie McDonald encerraram sua participação no ATP 250 de Adelaide, na Austrália, na noite desta sexta-feira (6). Melo e McDonald pararam na semifinal, diante do britânico Lloyd Glasspool e do finlandês Harri Heliovaara - cabeças de chave 3 -. que marcaram 2 sets a 0, com parciais de 6/2 e 6/3, em 1h01min. Agora, a dupla segue na cidade australiana, onde a partir desta segunda-feira (9) será disputado mais um ATP 250. Na estreia, em data a ser definida, terão como adversários o bósnio Tomislav Brkic e o equatoriano Gonzalo Escobar. 
 

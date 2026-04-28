@@ -1,11 +1,12 @@
 ---
-title: "Banco Mundial aumenta para 2,5% previsão do PIB brasileiro este ano"
+title: Banco Mundial aumenta para 2,5% previsão do PIB brasileiro este ano
 date: 2022-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Órgão mantém estimativa de crescimento de 0,8% para 2023.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro entrega estudos de privatização da PPSA e da Petrobras"
+title: Ministro entrega estudos de privatização da PPSA e da Petrobras
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O ministro de Minas e Energia, Adolfo Sachsida, reuniu-se com Guedes.
 

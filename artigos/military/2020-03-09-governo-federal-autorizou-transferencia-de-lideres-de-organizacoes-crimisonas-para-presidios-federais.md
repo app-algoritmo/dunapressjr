@@ -1,12 +1,14 @@
 ---
-title: "Governo Federal autorizou transferência de lideres de organizações crimisonas para presídios federais"
+title: Governo Federal autorizou transferência de lideres de organizações crimisonas
+  para presídios federais
 date: 2020-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
-  - Policy
+- Military
+- Policy
 ---
+
 
 Dezoito líderes de organizações criminosas do estado do Rio Grande do Sul (RS) foram transferidos para presídios federais. A ação do Governo Federal pretende isolar as lideranças do crime organizado no País. Inicialmente os presos vão permanecer por três anos no Sistema Penitenciário Federal (SPF). Esse período pode ser prorrogado com base nos indícios que fomentaram a transferência. Os detentos serão transferidos para as penitenciárias de Brasília (DF), Porto Velho (RO), Campo Grande (CG), Catanduvas (PR) e Mossoró (RN).
 

@@ -1,11 +1,12 @@
 ---
-title: "Programa Pátria Voluntária promove a solidariedade através de doações e iniciativas"
+title: Programa Pátria Voluntária promove a solidariedade através de doações e iniciativas
 date: 2020-08-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Instituições sem fins lucrativos podem receber recursos para ações de combate à Covid-19. Para concorrer aos recursos, a inscrição deve ser feita até o dia 19 de agosto.
 

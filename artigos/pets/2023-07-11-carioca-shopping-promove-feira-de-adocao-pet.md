@@ -1,11 +1,12 @@
 ---
-title: "Carioca Shopping promove Feira de Adoção Pet"
+title: Carioca Shopping promove Feira de Adoção Pet
 date: 2023-07-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Ação em parceria com a ONG Entre Pegadas acontece no dia 15.
 

@@ -1,11 +1,12 @@
 ---
-title: "O governo de Milei busca “refluir o acordo caído” com o FMI"
+title: O governo de Milei busca “refluir o acordo caído” com o FMI
 date: 2024-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Governo de Javier Milei busca "refluir o acordo caído" com o Fundo Monetário Internacional (FMI) com base no "descumprimento sistemático de metas que o país tem tido" com aquela organização de crédito, e espera " mais do que satisfazer » as condições desse acordo com a organização multilateral de crédito.
 

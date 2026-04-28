@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas fecham maio com déficit de R$ 33 bilhões, informa BC"
+title: Contas públicas fecham maio com déficit de R$ 33 bilhões, informa BC
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 12 meses até maio, saldo negativo ficou em 119,9 bilhões.
 

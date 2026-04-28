@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Alberto Santos Dumont"
+title: 'Série Brasileiros em Destaque: Alberto Santos Dumont'
 date: 2021-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Inventor.
 

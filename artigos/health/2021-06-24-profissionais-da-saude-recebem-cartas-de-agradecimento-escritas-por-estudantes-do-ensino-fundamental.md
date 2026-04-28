@@ -1,11 +1,13 @@
 ---
-title: "Profissionais da saúde recebem cartas de agradecimento escritas por estudantes do ensino fundamental"
+title: Profissionais da saúde recebem cartas de agradecimento escritas por estudantes
+  do ensino fundamental
 date: 2021-06-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Em meio à tanta correria, cansaço, noites sem dormir e demandas crescentes nos hospitais, os profissionais da saúde tiveram um momento de alegria e emoção nesta segunda-feira (14). Médicos e enfermeiros dos hospitais Universitário Cajuru e Marcelino Champagnat, em Curitiba (PR), foram homenageados com mais de 1.600 cartas escritas à mão, em agradecimento por todo o esforço prestado à sociedade para salvar vidas, seja no tratamento de pacientes com Covid-19 ou no atendimento de traumas. 
 

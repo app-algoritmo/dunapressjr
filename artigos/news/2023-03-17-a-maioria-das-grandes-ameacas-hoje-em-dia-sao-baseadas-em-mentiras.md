@@ -1,11 +1,12 @@
 ---
-title: "A maioria das grandes “ameaças” hoje em dia são baseadas em mentiras"
+title: A maioria das grandes “ameaças” hoje em dia são baseadas em mentiras
 date: 2023-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Os estadistas inventarão mentiras baratas e colocarão a culpa na nação atacada, e todo homem se regozijará com essas inverdades reconfortantes, as estudará avidamente e se recusará a examinar sua refutação; e assim ele gradualmente se convencerá de que a guerra é justa e agradecerá a Deus pelo sono melhor que desfruta após esse processo de autoengano grotesco.” – Mark Twain, The MysteriousStranger*
 

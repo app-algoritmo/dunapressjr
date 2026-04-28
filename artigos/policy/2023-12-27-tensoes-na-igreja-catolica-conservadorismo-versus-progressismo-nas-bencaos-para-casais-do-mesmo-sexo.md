@@ -1,11 +1,13 @@
 ---
-title: "Tensões na Igreja Católica: Conservadorismo versus Progressismo nas Bênçãos para Casais do mesmo sexo"
+title: 'Tensões na Igreja Católica: Conservadorismo versus Progressismo nas Bênçãos
+  para Casais do mesmo sexo'
 date: 2023-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A recente permissão do Papa Francisco para bênçãos a casais homossexuais tem gerado uma polarização significativa na Igreja Católica, destacando as divergências entre os bispos conservadores e aqueles que apoiam a abertura a práticas mais inclusivas. A questão tem repercussões globais, com líderes em diferentes regiões expressando opiniões distintas sobre o assunto.
 

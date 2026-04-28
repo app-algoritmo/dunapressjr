@@ -1,11 +1,13 @@
 ---
-title: "MJSP prorroga apoio da Força Nacional de Segurança pública ao Estado de Roraima e ao IMCBio"
+title: MJSP prorroga apoio da Força Nacional de Segurança pública ao Estado de Roraima
+  e ao IMCBio
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 17/04/2020 -** O ministro da Justiça e Segurança Pública, Sergio Moro, autorizou a prorrogação do emprego da Força Nacional de Segurança Pública (FNSP) em apoio ao Estado de Roraima e ao Instituto Chico Mendes de Conservação da Biodiversidade (IMCBio), do Ministério do Meio Ambiente (MMA). Ainda, autorizou a prorrogação, em caráter excepcional, da permanência do efetivo composto pelos reservistas da União, no âmbito da FNSP. As portarias n° 170, 179 e 180 foram publicadas no Diário Oficial da União (DOU) de quinta-feira (16).
 

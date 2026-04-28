@@ -1,11 +1,12 @@
 ---
-title: "Como evitar a intoxicação alimentar nas festas de fim de ano"
+title: Como evitar a intoxicação alimentar nas festas de fim de ano
 date: 2021-12-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Os grandes banquetes são as principais tradições das festas de Natal e Ano Novo. As ceias são ótimas oportunidades para reunir familiares e amigos em volta de uma mesa repleta de pratos deliciosos aguardados durante todo o ano. Porém, para garantir que as confraternizações não acabem com uma visita ao hospital é importante ter atenção redobrada com a conservação e manipulação dos alimentos para evitar as chamadas doenças transmitidas por alimentos.
 

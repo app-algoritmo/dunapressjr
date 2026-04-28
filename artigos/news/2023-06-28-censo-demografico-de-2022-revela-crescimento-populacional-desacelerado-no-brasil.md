@@ -1,11 +1,12 @@
 ---
-title: "Censo Demográfico de 2022 revela crescimento populacional desacelerado no Brasil"
+title: Censo Demográfico de 2022 revela crescimento populacional desacelerado no Brasil
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## População ultrapassa 203 milhões, com menor taxa de crescimento anual da história e concentrações urbanas abrigando 124 milhões de habitantes.
 

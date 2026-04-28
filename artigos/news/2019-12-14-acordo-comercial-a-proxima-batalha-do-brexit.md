@@ -1,11 +1,12 @@
 ---
-title: "Acordo comercial, a próxima batalha do Brexit"
+title: Acordo comercial, a próxima batalha do Brexit
 date: 2019-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A partir de 31 de janeiro, data do Brexit, uma nova frente
 se abrirá para os europeus: as discussões para um amplo acordo comercial com o

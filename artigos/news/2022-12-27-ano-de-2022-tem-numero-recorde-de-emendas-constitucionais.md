@@ -1,11 +1,12 @@
 ---
-title: "Ano de 2022 tem número recorde de emendas constitucionais"
+title: Ano de 2022 tem número recorde de emendas constitucionais
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Congresso Nacional promulgou 14 emendas à Constituição em 2022. O número é recorde para um único ano desde que a Carta entrou em vigor.
 

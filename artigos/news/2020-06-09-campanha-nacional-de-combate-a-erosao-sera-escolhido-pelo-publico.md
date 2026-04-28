@@ -1,11 +1,12 @@
 ---
-title: "Campanha Nacional de Combate à Erosão será escolhido pelo público"
+title: Campanha Nacional de Combate à Erosão será escolhido pelo público
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo do desafio de inovação proposto pela Embrapa é mostrar as boas práticas no combate ao problema.
 

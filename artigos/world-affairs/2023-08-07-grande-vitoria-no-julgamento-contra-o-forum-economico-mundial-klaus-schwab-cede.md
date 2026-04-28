@@ -1,11 +1,13 @@
 ---
-title: "'Grande vitória' no julgamento contra o Fórum Econômico Mundial, Klaus Schwab cede"
+title: '''Grande vitória'' no julgamento contra o Fórum Econômico Mundial, Klaus Schwab
+  cede'
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O candidato presidencial republicano Vivek Ramaswamy está de olho principalmente no Fórum Econômico Mundial. Com sua empresa Strive, ele também luta contra a BlackRock e o movimento ESG.
 

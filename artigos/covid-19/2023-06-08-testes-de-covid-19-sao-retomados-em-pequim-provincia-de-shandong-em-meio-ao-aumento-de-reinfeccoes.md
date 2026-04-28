@@ -1,11 +1,13 @@
 ---
-title: "Testes de Covid-19 são retomados em Pequim, província de Shandong, em meio ao aumento de reinfecções"
+title: Testes de Covid-19 são retomados em Pequim, província de Shandong, em meio
+  ao aumento de reinfecções
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [A China retomou](https://www.theepochtimes.com/china-resumes-covid-19-testing-in-beijing-shandong-as-reinfection-cases-surge_5307995.html) os testes de reação em cadeia da polimerase (PCR) para o coronavírus Wuhan (COVID-19) em meio ao aumento de reinfecções nas duas cidades, conforme confirmado por vários meios de comunicação tradicionais do país.
 

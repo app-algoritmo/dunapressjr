@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda diária em dois anos e fecha a R$ 5,21"
+title: Dólar tem maior queda diária em dois anos e fecha a R$ 5,21
 date: 2020-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa encerrou no maior nível em quase três meses.
 

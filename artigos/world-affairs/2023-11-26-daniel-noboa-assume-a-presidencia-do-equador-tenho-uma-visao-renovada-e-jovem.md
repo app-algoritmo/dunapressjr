@@ -1,11 +1,13 @@
 ---
-title: "Daniel Noboa assume a presidência do Equador: “Tenho uma visão renovada e jovem”"
+title: 'Daniel Noboa assume a presidência do Equador: “Tenho uma visão renovada e
+  jovem”'
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nesta quinta-feira , Daniel Noboa **tomou posse** como [presidente do Equador](https://gaceta.es/iberosfera/el-secretario-de-estado-para-iberoamerica-representara-a-espana-en-la-investidura-de-noboa-en-ecuador-20231122-1532/) em cerimônia realizada na Assembleia Nacional e na qual proclamou seu primeiro discurso oficial focado em reivindicar sua posição de presidente mais jovem da história do país sul-americano.
 

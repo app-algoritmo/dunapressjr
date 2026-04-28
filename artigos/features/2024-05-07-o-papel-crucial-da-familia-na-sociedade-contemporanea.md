@@ -1,11 +1,12 @@
 ---
-title: "O Papel Crucial da Família na Sociedade Contemporânea"
+title: O Papel Crucial da Família na Sociedade Contemporânea
 date: 2024-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Features
+- Features
 ---
+
 
 Na era moderna, com todas as suas mudanças e avanços tecnológicos, a importância da família continua a ser inegável e crucial para o bem-estar individual e coletivo. Em um mundo cada vez mais conectado digitalmente, a família continua sendo o núcleo fundamental onde os valores são transmitidos, os relacionamentos são nutridos e o apoio emocional é encontrado.
 

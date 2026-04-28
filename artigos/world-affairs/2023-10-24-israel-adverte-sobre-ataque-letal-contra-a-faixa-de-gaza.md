@@ -1,11 +1,12 @@
 ---
-title: "Israel Adverte Sobre Ataque 'Letal' Contra a Faixa de Gaza"
+title: Israel Adverte Sobre Ataque 'Letal' Contra a Faixa de Gaza
 date: 2023-10-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um momento de crescente tensão na região, Israel fez recentemente declarações sobre um ataque iminente contra a Faixa de Gaza. O ministro da Defesa israelense, Yoav Gallant, afirmou que o país está preparando um ataque "letal" que será conduzido por terra, mar e ar. As declarações de Gallant tem gerado preocupações tanto na comunidade internacional quanto entre os moradores da Faixa de Gaza, que enfrentam desafios significativos de segurança e humanitários.
 

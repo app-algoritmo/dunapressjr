@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha com maior alta desde abril, custando R$ 5,537"
+title: Dólar fecha com maior alta desde abril, custando R$ 5,537
 date: 2021-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No mercado de ações, a Bolsa fecha em queda.
 

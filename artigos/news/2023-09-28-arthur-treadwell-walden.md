@@ -1,11 +1,12 @@
 ---
-title: "Arthur Treadwell Walden"
+title: Arthur Treadwell Walden
 date: 2023-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Arthur Treadwell Walden (10 de maio de 1871 - 26 de março de 1947) foi um aventureiro da Corrida do Ouro Klondike, condutor de cães e participante na primeira Expedição Antártica Byrd. Ele também é conhecido como um autor e desenvolvedor da raça Chinook sledgedog.
 

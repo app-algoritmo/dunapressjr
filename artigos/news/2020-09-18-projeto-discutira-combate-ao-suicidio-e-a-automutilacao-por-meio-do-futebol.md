@@ -1,11 +1,12 @@
 ---
-title: "Projeto discutirá combate ao suicídio e à automutilação por meio do futebol"
+title: Projeto discutirá combate ao suicídio e à automutilação por meio do futebol
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e o Ministério da Cidadania irá abordar o valor da vida por meio do futebol. Nos dias 24 e 25 de setembro, a partir de 14h30, o projeto Integra Brasil promoverá palestras com foco no combate à depressão entre jovens. Especialistas e gestores públicos vão tratar o tema sob a ótica da campanha #DêUmLikeNaVida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Latam suspende peso máximo em pets na cabine em seus voos"
+title: Latam suspende peso máximo em pets na cabine em seus voos
 date: 2024-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A Latam decidiu facilitar a vida dos tutores de pets pequenos mais pesadinhos. A companhia suspendeu a exigência de peso máximo para os animais que vão na cabine dos aviões.
 

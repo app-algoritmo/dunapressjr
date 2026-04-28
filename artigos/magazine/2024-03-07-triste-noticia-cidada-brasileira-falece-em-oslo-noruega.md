@@ -1,11 +1,12 @@
 ---
-title: "Triste Notícia: Cidadã Brasileira Falece em Oslo, Noruega"
+title: 'Triste Notícia: Cidadã Brasileira Falece em Oslo, Noruega'
 date: 2024-03-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 No coração de uma pequena comunidade brasileira, o Café Brasil não era apenas um local para tomar um café; era o coração pulsante da vizinhança. E no centro desse universo acolhedor estava Tânia, uma mulher cujo sorriso caloroso e personalidade cativante iluminava a vida de todos que a conheciam.
 

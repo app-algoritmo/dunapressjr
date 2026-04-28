@@ -1,11 +1,13 @@
 ---
-title: "França Considera Planos Alternativos para Abertura dos Jogos Olímpicos devido a Ameaça Terrorista"
+title: França Considera Planos Alternativos para Abertura dos Jogos Olímpicos devido
+  a Ameaça Terrorista
 date: 2024-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente francês, Emmanuel Macron, revelou em uma entrevista nesta segunda-feira que as autoridades estão elaborando planos alternativos para a cerimônia de abertura dos Jogos Olímpicos de Paris, diante do temor de um possível ataque islâmico. Com o país em alerta máximo desde março, após um atentado jihadista nos arredores de Moscou, Macron discutiu a possibilidade de realocar o evento simbólico do Sena para outras localidades.
 

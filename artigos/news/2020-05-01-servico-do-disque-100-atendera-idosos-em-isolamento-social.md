@@ -1,11 +1,12 @@
 ---
-title: "Serviço do Disque 100 atenderá idosos em isolamento social"
+title: Serviço do Disque 100 atenderá idosos em isolamento social
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, anunciou nesta quinta-feira (29), durante entrevista coletiva realizada no Palácio do Planalto, que vai criar um canal exclusivo do Disque 100 para atender idosos em situação de isolamento social decorrente da pandemia do novo coronavírus. A iniciativa é da Secretaria Nacional de Promoção e Defesa dos Direitos da Pessoa Idosa (SNDPI) e da Ouvidoria Nacional de Direitos Humanos (ONDH).
 

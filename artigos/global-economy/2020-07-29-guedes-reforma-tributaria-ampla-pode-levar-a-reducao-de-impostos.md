@@ -1,11 +1,12 @@
 ---
-title: "Guedes: reforma tributária ampla pode levar à redução de impostos"
+title: 'Guedes: reforma tributária ampla pode levar à redução de impostos'
 date: 2020-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ministro diz que proposta amplia base e redistribui carga de tributos.
 

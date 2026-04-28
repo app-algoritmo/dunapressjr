@@ -1,11 +1,12 @@
 ---
-title: "Enem: conheças as medidas de prevenção durante as provas"
+title: 'Enem: conheças as medidas de prevenção durante as provas'
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Participantes deverão seguir protocolos para evitar a transmissão do novo coronavírus nos dias do exame. O participante não poderá permanecer no local de provas sem máscara de proteção facial. 
 

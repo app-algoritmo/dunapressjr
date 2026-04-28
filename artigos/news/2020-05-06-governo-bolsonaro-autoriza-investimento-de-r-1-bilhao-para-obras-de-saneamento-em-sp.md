@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro autoriza investimento de R$ 1 bilhão para obras de saneamento em SP"
+title: Governo Bolsonaro autoriza investimento de R$ 1 bilhão para obras de saneamento
+  em SP
 date: 2020-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério do Desenvolvimento Regional (MDR) incluiu quatro projetos para o setor de saneamento como prioritários para a captação de recursos no mercado financeiro. Mais de R$ 1 bilhão poderá ser investido em empreendimentos para ampliação e melhoria do abastecimento de água e da coleta de esgoto na Região Metropolitana, interior e litoral do estado de São Paulo (SP). As obras devem beneficiar 8,6 milhões de habitantes na capital paulista e em mais 27 cidades, além de gerar 22 mil novas vagas de empregos.
 

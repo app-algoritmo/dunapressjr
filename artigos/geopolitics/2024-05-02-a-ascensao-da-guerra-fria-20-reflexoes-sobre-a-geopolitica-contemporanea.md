@@ -1,11 +1,12 @@
 ---
-title: "A Ascensão da Guerra Fria 2.0: Reflexões sobre a Geopolítica Contemporânea"
+title: 'A Ascensão da Guerra Fria 2.0: Reflexões sobre a Geopolítica Contemporânea'
 date: 2024-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A atual escalada de tensões geopolíticas entre os Estados Unidos e a China sinaliza uma era de Guerra Fria 2.0, repleta de desafios e incertezas para a ordem mundial. A retórica agressiva e as medidas destrutivas adotadas pelas potências mundiais estão gerando preocupações sobre as consequências devastadoras dessa nova fase de confronto.
 

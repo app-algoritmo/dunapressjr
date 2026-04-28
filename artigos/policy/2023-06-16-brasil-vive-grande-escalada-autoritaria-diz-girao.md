@@ -1,11 +1,12 @@
 ---
-title: "Brasil vive 'grande escalada autoritária', diz Girão"
+title: Brasil vive 'grande escalada autoritária', diz Girão
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) afirmou, em pronunciamento nesta sexta-feira (16), que o Brasil vive uma “grande escalada autoritária” que tem assustado a população e deixado a democracia “em frangalhos”. Segundo o parlamentar, "todas as pessoas que hoje são perseguidas e intimidadas são conservadoras”. Girão citou o caso do influenciador digital Monark, que teve seus perfis nas redes sociais bloqueados por decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).
 

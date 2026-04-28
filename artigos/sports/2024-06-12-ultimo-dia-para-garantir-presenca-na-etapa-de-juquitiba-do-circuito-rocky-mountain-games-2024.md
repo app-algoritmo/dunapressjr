@@ -1,11 +1,13 @@
 ---
-title: "Último dia para garantir presença na etapa de Juquitiba do circuito Rocky Mountain Games 2024"
+title: Último dia para garantir presença na etapa de Juquitiba do circuito Rocky Mountain
+  Games 2024
 date: 2024-06-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Inscrições terminam às 23h59 desta terça-feira (11) e restam poucas vagas para quem corre, pedala ou nada.
 

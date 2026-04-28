@@ -1,11 +1,12 @@
 ---
-title: "O minimalismo industrial contemporâneo cede espaço para o luxo natural e sustentável"
+title: O minimalismo industrial contemporâneo cede espaço para o luxo natural e sustentável
 date: 2021-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em diversos segmentos como moda, literatura, arte, música, *design* e arquitetura, o clássico sempre garante espaço. Oposto ao que é antigo e ultrapassado, o atemporal vem repaginado e volta a encantar o público ansioso pelo fim do confinamento vivido nos últimos meses. A retomada ao novo normal sugere o retorno às raízes e à essência de cada um. O luxo flerta com tendências naturais, aproxima-se da natureza e desfruta conscientemente de suas matérias-primas originais: linho, juta, sisal, bambu, palha, madeiras nativas e pedras. O cenário urbano e as residências nunca estiveram tão arborizados e a conexão com a natureza está mais fortalecida do que nunca. 
 

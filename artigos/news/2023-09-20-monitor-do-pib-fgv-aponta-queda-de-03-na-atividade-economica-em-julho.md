@@ -1,11 +1,12 @@
 ---
-title: "Monitor do PIB-FGV aponta queda de 0,3% na atividade econômica em julho"
+title: Monitor do PIB-FGV aponta queda de 0,3% na atividade econômica em julho
 date: 2023-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Economia brasileira enfrenta desafios com retração no consumo das famílias.
 

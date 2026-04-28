@@ -1,11 +1,12 @@
 ---
-title: "Lembranças de um lugar que fez parte da história da minha família"
+title: Lembranças de um lugar que fez parte da história da minha família
 date: 2019-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Sempre que passo em frente ao casarão onde funcionava a "Casa Aberta Livraria Alternativa", fico com um nó na garganta e um sentimento saudosista pois neste local onde às portas estão fechados, desde abril de 2017, funcionava o único sebo na cidade onde moro, Itajaí em Santa Catarina, que tem mais de 200 mil habitantes.
 

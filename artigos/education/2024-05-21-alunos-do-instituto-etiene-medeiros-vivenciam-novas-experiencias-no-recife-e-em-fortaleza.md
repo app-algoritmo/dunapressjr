@@ -1,13 +1,15 @@
 ---
-title: "Alunos do Instituto Etiene Medeiros vivenciam novas experiências no Recife e em Fortaleza"
+title: Alunos do Instituto Etiene Medeiros vivenciam novas experiências no Recife
+  e em Fortaleza
 date: 2024-05-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
-  - Swimming
+- Education
+- Sports
+- Swimming
 ---
+
 
 ## O Time Nado Por Tudo participou do Torneio Nordeste de Clubes, na capital cearense, enquanto integrantes do Projeto Braçadas que Transformam estiveram no Festival Interno do Complexo Esportivo Santos Dumont.
 

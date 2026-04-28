@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Crodowaldo Pavan"
+title: 'Série Brasileiros em Destaque: Crodowaldo Pavan'
 date: 2022-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Crodowaldo Pavan nasceu em 01 de dezembro de 1919, em Campinas-SP, foi um dos primeiros brasileiros dedicados aos estudos de genética, ele realizou pesquisas que o tornaram reconhecido internacionalmente. Sua equipe derrubou, por exemplo, a teoria da constância, na qual se acreditava que todas as células traziam  a mesma quantidade de material genético e só se diferenciavam por influência do meio. A hipótese de Pavan de que poderia haver alterações no número de genes dentro do cromossomo com o desenvolvimento do animal levou oito anos para ser aceita pela comunidade científica. Foi o responsável pelo estudo da  citogenética de  [Rynchosciara americana,](https://pt.wikipedia.org/wiki/Rhynchosciara_americana) uma mosca conhecida por seus cromossomos gigantes.
 

@@ -1,12 +1,13 @@
 ---
-title: "O que a vacinação compulsória pode nos ensinar sobre ética médica?"
+title: O que a vacinação compulsória pode nos ensinar sobre ética médica?
 date: 2023-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Um dos assuntos mais negligenciados na educação médica é a ética médica. Atualmente, os conselhos de admissão das escolas médicas exigem que esse assunto seja ensinado no currículo.
 

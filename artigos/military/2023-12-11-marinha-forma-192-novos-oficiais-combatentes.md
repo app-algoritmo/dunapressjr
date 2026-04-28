@@ -1,11 +1,12 @@
 ---
-title: "Marinha forma 192 novos Oficiais combatentes"
+title: Marinha forma 192 novos Oficiais combatentes
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Cerimônia de formatura ocorreu na Escola Naval (RJ) com presença do Ministro da Defesa e familiares.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo disponibilizada capacitação online, para Programa voltado à Pessoa Idosa"
+title: Governo disponibilizada capacitação online, para Programa voltado à Pessoa
+  Idosa
 date: 2020-02-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ministério
 da Mulher, da Família e dos Direitos Humanos (MMFDH) realizou no mês de fevereiro,

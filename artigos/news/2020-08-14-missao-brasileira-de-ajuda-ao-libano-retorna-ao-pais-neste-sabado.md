@@ -1,11 +1,12 @@
 ---
-title: "Missão brasileira de ajuda ao Líbano retorna ao País neste sábado"
+title: Missão brasileira de ajuda ao Líbano retorna ao País neste sábado
 date: 2020-08-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aeronaves levaram seis toneladas de alimentos e medicamentos para doações. Além das seis toneladas de alimentos e medicamentos enviados nos aviões, Líbano receberá quatro mil toneladas de arroz por via marítima.
 

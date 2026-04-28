@@ -1,11 +1,12 @@
 ---
-title: "Exército reforça a segurança na fronteira oeste"
+title: Exército reforça a segurança na fronteira oeste
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Militares do Exército Brasileiro reforçam as ações na faixa de fronteira desde o dia 6 de novembro, com o desencadeamento da Operação Ágata Oeste II. A Operação acontece em parceria com diversos órgãos públicos, coordenando ações de inteligência, vigilância e fiscalização para combater e prevenir crimes transfronteiriços. As atividades são voltadas principalmente para o combate ao tráfico de drogas e de armas.
 

@@ -1,11 +1,13 @@
 ---
-title: "HM o Rei Harald, concede A Ordem Real Norueguesa de São Olavo ao escritor Edvard Arnt Hoem"
+title: HM o Rei Harald, concede A Ordem Real Norueguesa de São Olavo ao escritor Edvard
+  Arnt Hoem
 date: 2020-02-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Edvard Hoem recebe o prêmio por seus esforços destacados em literatura e patrimônio cultural norueguês.
 

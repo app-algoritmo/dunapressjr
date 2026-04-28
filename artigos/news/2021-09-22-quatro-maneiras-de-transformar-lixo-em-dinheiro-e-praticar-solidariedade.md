@@ -1,11 +1,12 @@
 ---
-title: "Quatro maneiras de transformar lixo em dinheiro e praticar solidariedade"
+title: Quatro maneiras de transformar lixo em dinheiro e praticar solidariedade
 date: 2021-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativas arrecadam materiais recicláveis e doam resultado a instituições sociais.
 

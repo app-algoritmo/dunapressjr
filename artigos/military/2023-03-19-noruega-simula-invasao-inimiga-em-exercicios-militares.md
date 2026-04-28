@@ -1,11 +1,12 @@
 ---
-title: "Noruega simula invasão inimiga em exercícios militares"
+title: Noruega simula invasão inimiga em exercícios militares
 date: 2023-03-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 Os aliados se reúnem na Noruega a cada dois anos para um exercício de inverno. O segundo ano da guerra entre Rússia e Ucrânia envolve mais do que o treinamento de 20.000 soldados.
 

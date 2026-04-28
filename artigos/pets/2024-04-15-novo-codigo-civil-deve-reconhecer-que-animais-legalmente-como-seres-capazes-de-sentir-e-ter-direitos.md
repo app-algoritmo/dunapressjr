@@ -1,11 +1,13 @@
 ---
-title: "Novo Código Civil deve reconhecer que animais, legalmente como seres capazes de sentir e ter direitos"
+title: Novo Código Civil deve reconhecer que animais, legalmente como seres capazes
+  de sentir e ter direitos
 date: 2024-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 🐾📜 Grande passo para os direitos dos animais no Brasil! 📜🐾 O novo relatório do anteprojeto de atualização do Código Civil reserva um capítulo inteiro para os direitos dos animais, propondo reconhecê-los legalmente como seres capazes de sentir e ter direitos. Atualmente, os animais são considerados 'bens móveis', mas esta proposta visa mudar essa perspectiva, garantindo-lhes proteção jurídica. 🌱✊ Debate sobre o tema acontecerá no Senado na próxima quarta-feira (17). Juristas e defensores dos direitos dos animais apoiam a iniciativa, destacando a importância de alinhar o Brasil aos avanços já registrados por códigos civis europeus. 🌎👩‍⚖️ Embora represente um progresso significativo, ainda há um longo caminho a percorrer. Será necessário elaborar uma legislação específica para garantir o tratamento ético e físico adequado aos animais. 👉📚 Acompanhe as discussões sobre o Novo Código Civil e seu impacto nos direitos dos animais! 📣🐶 #DireitosDosAnimais #CódigoCivil #AvançoJurídico
 

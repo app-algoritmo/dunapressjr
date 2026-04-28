@@ -1,11 +1,12 @@
 ---
-title: "Brasil abre mercado para exportar carne bovina e miúdos para Tailândia"
+title: Brasil abre mercado para exportar carne bovina e miúdos para Tailândia
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## País asiático abriu mercado e aprovou a importação dos produtos de cinco frigoríficos brasileiros.
 

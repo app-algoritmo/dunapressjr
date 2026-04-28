@@ -1,11 +1,12 @@
 ---
-title: "Dólar encosta em R$ 5 com dados de inflação nos Estados Unidos"
+title: Dólar encosta em R$ 5 com dados de inflação nos Estados Unidos
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa cai 1,51% e fecha no menor nível em um mês.
 

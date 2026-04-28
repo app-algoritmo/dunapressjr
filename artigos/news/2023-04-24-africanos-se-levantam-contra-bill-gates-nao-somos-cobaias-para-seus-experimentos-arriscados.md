@@ -1,11 +1,13 @@
 ---
-title: "Africanos se levantam contra Bill Gates: não somos 'cobaias' para seus experimentos 'arriscados'"
+title: 'Africanos se levantam contra Bill Gates: não somos ''cobaias'' para seus experimentos
+  ''arriscados'''
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Bill Gates está usando o povo da África como "cobaias" e o continente africano como seu "laboratório" pessoal para experimentos "extremamente arriscados", de acordo com um alto funcionário africano, que acusou Gates e outros de brincar de deuses com a vida de outras pessoas. 
 

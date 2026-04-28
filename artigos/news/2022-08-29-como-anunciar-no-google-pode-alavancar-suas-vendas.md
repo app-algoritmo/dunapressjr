@@ -1,11 +1,12 @@
 ---
-title: "Como Anunciar no Google pode alavancar suas vendas?"
+title: Como Anunciar no Google pode alavancar suas vendas?
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Fazer** anúncios no google** já passou pela sua cabeça quando você pensa em alavancar suas vendas?
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão cobra do Senado medidas para evitar 'ditadura da toga'"
+title: Girão cobra do Senado medidas para evitar 'ditadura da toga'
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em pronunciamento nesta quarta-feira (23), o senador Eduardo Girão (Podemos-CE) cobrou do Senado medidas para impedir o que ele definiu como 'ditadura da toga', manifestada pela censura prévia e pelo bloqueio de contas de empresários que patrocinam manifestações democráticas contra suspeitas de fraudes nas eleições:
 

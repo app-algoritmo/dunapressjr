@@ -1,11 +1,12 @@
 ---
-title: "Como saber se CPF foi usado por terceiros"
+title: Como saber se CPF foi usado por terceiros
 date: 2021-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sistema do Banco Central permite consultar histórico de contas abertas.
 

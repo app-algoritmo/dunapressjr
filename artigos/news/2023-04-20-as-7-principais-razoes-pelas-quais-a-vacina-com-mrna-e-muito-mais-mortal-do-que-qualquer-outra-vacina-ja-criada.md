@@ -1,11 +1,13 @@
 ---
-title: "As 7 principais razões pelas quais a vacina com mRNA é muito mais mortal do que qualquer outra vacina já criada"
+title: As 7 principais razões pelas quais a vacina com mRNA é muito mais mortal do
+  que qualquer outra vacina já criada
 date: 2023-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Nunca antes tantos humanos sofreram de transtorno de vacina pós-traumática. 
 

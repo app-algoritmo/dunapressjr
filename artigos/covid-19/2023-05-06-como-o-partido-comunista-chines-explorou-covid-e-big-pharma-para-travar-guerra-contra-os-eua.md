@@ -1,11 +1,13 @@
 ---
-title: "Como o Partido Comunista Chinês explorou COVID e Big Pharma para travar guerra contra os EUA"
+title: Como o Partido Comunista Chinês explorou COVID e Big Pharma para travar guerra
+  contra os EUA
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em um [discurso](https://freedomlibrary.hillsdale.edu/programs/cca-iv-big-pharma/big-pharma-and-the-chinese-communist-party) proferido no Hillsdale College em março como parte de uma conferência sobre grandes empresas farmacêuticas, o presidente e membro fundador do Comitê sobre o Perigo Presente: a China argumentou que os eventos em torno da China, COVID e Big Pharma fazem parte de uma guerra contínua travada pelo Partido Comunista Chinês (PCC) contra os Estados Unidos em um esforço para expandir as fronteiras e a influência chinesas.
 

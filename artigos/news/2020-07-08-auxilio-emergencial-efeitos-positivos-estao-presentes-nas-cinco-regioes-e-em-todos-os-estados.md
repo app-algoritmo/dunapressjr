@@ -1,11 +1,13 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: efeitos positivos estão presentes nas cinco regiões e em todos os estados"
+title: 'AUXÍLIO EMERGENCIAL: efeitos positivos estão presentes nas cinco regiões e
+  em todos os estados'
 date: 2020-07-08
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Com mais de 65 milhões de beneficiários diretos, programa do Governo Federal já repassou R$ 121 bilhões, com destaque para o Nordeste, que acumula R$ 41,8 bilhões.
 

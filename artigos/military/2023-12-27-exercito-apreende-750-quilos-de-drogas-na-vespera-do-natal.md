@@ -1,11 +1,12 @@
 ---
-title: "Exército apreende 750 quilos de drogas na véspera do Natal"
+title: Exército apreende 750 quilos de drogas na véspera do Natal
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O 2º Pelotão Especial de Fronteira (2º PEF), do Comando de Fronteira Solimões/8º Batalhão de Infantaria de Selva, realizou a apreensão de aproximadamente 750 quilos de drogas durante abordagem a uma embarcação que trafegava pelo Rio Içá, na fronteira com a Colômbia. A ação ocorreu na madrugada de domingo (24/12), véspera de Natal.
 

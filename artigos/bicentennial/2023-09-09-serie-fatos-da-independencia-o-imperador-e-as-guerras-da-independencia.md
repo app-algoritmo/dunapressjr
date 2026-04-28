@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O Imperador e as guerras da independência"
+title: 'Série Fatos Da Independência: O Imperador e as guerras da independência'
 date: 2023-09-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Silêncio. Mas como? Como ficar em silêncio diante de uma notícia assim? Em dezembro de 1823, o silêncio da Junta de Governo do Ceará diante da aclamação lhe custou seu poder. Ela foi deposta por uma milícia armada, pois esta julgava que os seus interesses não estavam sendo representados pelos governantes. Eles eram, aos olhos dos agitadores, demasiadamente portugueses: aí estava o problema. A Junta até tentou. Em Icó, vila economicamente importante para o Ceará e vizinha do Crato, a Câmara exigiu um posicionamento da Junta de Governo cearense, que, só assim, discursou em apoio a Dom Pedro. Mas isso não foi suficiente: o desejo era por mais autonomia. O discurso, ainda que tenha reconhecido a independência e o Imperador, ainda estava apegado à união entre Brasil e Portugal, o que desagradou a muitos. O grupo que depôs a Junta decidiu que era a hora de constituir uma nova, que deveria representar, verdadeiramente, os interesses do Ceará, agora parte de um Império independente.
 

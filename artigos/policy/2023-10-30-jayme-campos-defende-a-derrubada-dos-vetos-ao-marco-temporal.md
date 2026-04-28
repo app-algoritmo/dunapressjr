@@ -1,11 +1,12 @@
 ---
-title: "Jayme Campos defende a derrubada dos vetos ao marco temporal"
+title: Jayme Campos defende a derrubada dos vetos ao marco temporal
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Senador Jayme Campos (União-MT), em pronunciamento no Plenário na quarta-feira (25), defendeu a derrubada dos vetos ao texto do marco temporal que buscava estabelecer como data de referência para a demarcação de terras indígenas. A [Lei 14.701](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-20;14701), de 2023, recebeu 34 vetos presidenciais, o que, segundo o senador, esvaziou o conteúdo e desconsiderou a vontade da maioria do Congresso Nacional. 
 

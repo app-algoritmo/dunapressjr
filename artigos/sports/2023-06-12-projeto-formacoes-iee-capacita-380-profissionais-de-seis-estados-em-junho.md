@@ -1,11 +1,12 @@
 ---
-title: "Projeto Formações IEE capacita 380 profissionais de seis estados em junho"
+title: Projeto Formações IEE capacita 380 profissionais de seis estados em junho
 date: 2023-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Instituto Esporte e Educação dá sequência ao Projeto Formações IEE, com as ações programadas para este mês de junho. Serão capacitados 380 profissionais - professores, gestores, coordenadores e diretores – de seis cidades, em seis diferentes estados, com a metodologia baseada nos princípios do esporte educacional.
 

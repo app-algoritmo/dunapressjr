@@ -1,11 +1,12 @@
 ---
-title: "Aluguéis residenciais sobem 0,59% em maio deste ano"
+title: Aluguéis residenciais sobem 0,59% em maio deste ano
 date: 2022-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### São Paulo foi a única cidade com queda na variação média do aluguel.
 

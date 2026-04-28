@@ -1,11 +1,13 @@
 ---
-title: "<strong>Ministério da Economia e BID criarão Centro Integrado de Segurança Cibernética do Governo Digital</strong>"
+title: <strong>Ministério da Economia e BID criarão Centro Integrado de Segurança
+  Cibernética do Governo Digital</strong>
 date: 2022-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Iniciativa, que conta com o apoio da Rede Nacional de Ensino e Pesquisa, visa fortalecer a prevenção, o tratamento e a resposta a incidentes cibernéticos.
 

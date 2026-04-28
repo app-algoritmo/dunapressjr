@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde distribui 40 milhões de equipamentos de proteção a profissionais de saúde"
+title: Ministério da Saúde distribui 40 milhões de equipamentos de proteção a profissionais
+  de saúde
 date: 2020-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Última remessa dos materiais são distribuídas nesta semana pelo Governo do Brasil para os estados da região Norte e Nordeste.
 

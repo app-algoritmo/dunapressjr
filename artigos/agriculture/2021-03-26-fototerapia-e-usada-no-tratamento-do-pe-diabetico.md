@@ -1,11 +1,12 @@
 ---
-title: "Fototerapia é usada no tratamento do pé diabético"
+title: Fototerapia é usada no tratamento do pé diabético
 date: 2021-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 Tecnologia móvel, monitoramento remoto, baixo custo e resultados eficientes são algumas das vantagens de um novo equipamento médico que promete acelerar a cicatrização de úlceras em diabéticos. Batizado de RAPHA, o aparelho foi desenvolvido por bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) orientados por Suélia Fleury, professora do Programa de Pós-graduação em Engenharia Biomédica da Universidade de Brasília (UnB).
 

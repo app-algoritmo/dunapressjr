@@ -1,11 +1,12 @@
 ---
-title: "PF prende britânico procurado pela polícia do Reino Unido"
+title: PF prende britânico procurado pela polícia do Reino Unido
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE - A Polícia Federal prendeu nesta sexta-feira, 19/6, um britânico, de 42 anos, procurado pela polícia do Reino Unido por crimes de tráfico de drogas, sequestro, lavagem de dinheiro, homicídio, tráfico de armas e explosivos, formação de quadrilha e outros crimes. A prisão se deu em um apartamento de luxo no bairro Meireles, em Fortaleza/CE.
 

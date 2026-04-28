@@ -1,11 +1,13 @@
 ---
-title: "Projeções do Tesouro Nacional apontam dívida bruta, em relação ao PIB, no patamar de 73,7% ao final de 2022"
+title: Projeções do Tesouro Nacional apontam dívida bruta, em relação ao PIB, no patamar
+  de 73,7% ao final de 2022
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em cenário considerando a PEC da Transição, a DBGG alcançaria 81,8% do PIB em 2026.
 

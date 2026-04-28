@@ -1,11 +1,12 @@
 ---
-title: "Forças de segurança realizam primeira operação conjunta do ano em Itajaí/SC"
+title: Forças de segurança realizam primeira operação conjunta do ano em Itajaí/SC
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As forças de segurança de Itajaí iniciaram nesta quinta-feira (12) a operação “Silentium”, a primeira do ano em conjunto com a Polícia Militar. O foco das abordagens é orientação e fiscalização de trânsito. Participam da ação, que segue até a próxima quarta-feira (18), agentes da Coordenadoria de Trânsito de Itajaí (Codetran), guardas municipais e policiais militares.
 

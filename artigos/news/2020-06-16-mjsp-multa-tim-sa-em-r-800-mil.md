@@ -1,11 +1,12 @@
 ---
-title: "MJSP multa TIM S.A em R$ 800 mil"
+title: MJSP multa TIM S.A em R$ 800 mil
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria Nacional do Consumidor (Senacon), aplicou a multa, no valor de R$ 800 mil, à empresa de telefonia TIM S.A. Em processo administrativo, a Senacon verificou que ocorreu violação do dever de informação e publicidade enganosa decorrentes do bloqueio de acesso à internet após o esgotamento de franquia de dados para consumidores do Serviço Móvel Pessoal (SMP), que passou a ser efetivada após regulamento geral editado pela Anatel em meados de 2014.
 

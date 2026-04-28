@@ -1,12 +1,14 @@
 ---
-title: "Organizador de rinha de briga de cães recebe maior condenação da história do País"
+title: Organizador de rinha de briga de cães recebe maior condenação da história do
+  País
 date: 2024-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Qual é a raça mais perigosa?
 

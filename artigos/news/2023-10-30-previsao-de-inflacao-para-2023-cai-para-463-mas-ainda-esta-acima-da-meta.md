@@ -1,11 +1,12 @@
 ---
-title: "Previsão de Inflação para 2023 cai para 4,63%, mas ainda está acima da meta"
+title: Previsão de Inflação para 2023 cai para 4,63%, mas ainda está acima da meta
 date: 2023-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Boletim Focus revela estimativas do mercado financeiro para inflação, juros e crescimento econômico.
 

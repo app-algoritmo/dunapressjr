@@ -1,11 +1,12 @@
 ---
-title: "Noruega realiza a primeira reunião com o Reino Unido após o Brexit"
+title: Noruega realiza a primeira reunião com o Reino Unido após o Brexit
 date: 2020-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Os principais negociadores da Noruega e do Reino Unido se reuniram para discutir como é possível garantir uma boa cooperação entre os países após o Brexit. A reunião de inicialização ocorreu como uma videoconferência.
 O Reino Unido deixou a UE em 31 de janeiro deste ano. Ao mesmo tempo, começou um período de transição, com a maioria de nós "EEE / EFTA" permanecendo entre os dois países. Esse período de transição termina em 31 de dezembro deste ano e, nessa época, a Noruega e o Reino Unido devem ter novos acordos em várias áreas.

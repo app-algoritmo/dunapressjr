@@ -1,11 +1,12 @@
 ---
-title: "Fundos de direito dos idosos recebem R$ 22,8 milhões do Imposto de Renda"
+title: Fundos de direito dos idosos recebem R$ 22,8 milhões do Imposto de Renda
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fundos dos Direitos da Pessoa Idosa (FDI) receberam cerca de R$ 22,8 milhões em doações realizadas durante a Declaração do Imposto sobre a Renda da Pessoa Física (DIRPF 2020). Os valores, referentes ao primeiro repasse deste ano, chegaram a 428 fundos e deverão ser utilizados em ações para promover o protagonismo e a autonomia desse público.
 

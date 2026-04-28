@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Defesa acompanha desinfecção em VLT do Rio de Janeiro (RJ)"
+title: Ministro da Defesa acompanha desinfecção em VLT do Rio de Janeiro (RJ)
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O ministro da Defesa, Fernando Azevedo, visitou nesta quinta-feira (16) o Comando Conjunto Leste, no Rio de Janeiro (RJ), para acompanhar pessoalmente as ações que estão sendo realizadas nos estados do RJ, ES e MG no combate ao novo Coronavírus. Durante a visita, o ministro participou de um briefing no Centro de Coordenação de Operações, sobre as ações em curso da Operação Covid-19 na região.
 

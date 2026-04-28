@@ -1,11 +1,12 @@
 ---
-title: "Selma van de Perre - Uma Holandesa heroína em prol dos judeus"
+title: Selma van de Perre - Uma Holandesa heroína em prol dos judeus
 date: 2020-02-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Não-Judia Holandesa, heroína da resistência contra o Nazismo em seu país, luta para dar reconhecimento aos lutadores judeus da Resistência Holandesa. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança do Agronegócio tem melhor resultado trimestral"
+title: Índice de Confiança do Agronegócio tem melhor resultado trimestral
 date: 2022-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta se deve ao comportamento positivo de indicadores, diz Fiesp.
 

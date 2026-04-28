@@ -1,11 +1,13 @@
 ---
-title: "Putin adverte sobre capacidade dos F-16 de transportar armas nucleares e seu impacto na estratégia russa"
+title: Putin adverte sobre capacidade dos F-16 de transportar armas nucleares e seu
+  impacto na estratégia russa
 date: 2024-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma reunião com pilotos militares na região de Tver, o presidente russo, Vladimir Putin, destacou a importância de levar em consideração o potencial dos caças F-16 de transportar armas nucleares ao planejar operações de combate. Putin ressaltou que a Rússia precisa estar atenta a esse fato em meio às tensões geopolíticas em curso.
 

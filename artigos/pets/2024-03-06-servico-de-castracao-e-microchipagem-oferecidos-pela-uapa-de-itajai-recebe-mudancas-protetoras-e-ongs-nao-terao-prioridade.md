@@ -1,11 +1,13 @@
 ---
-title: "Serviço de castração e microchipagem oferecidos pela Uapa de Itajaí recebe mudanças, protetoras e ONGs não terão prioridade"
+title: Serviço de castração e microchipagem oferecidos pela Uapa de Itajaí recebe
+  mudanças, protetoras e ONGs não terão prioridade
 date: 2024-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O serviço de castração de cães e gatos é gratuito, sendo disponibilizado exclusivamente para moradores da cidade de Itajaí que comprovem renda de até 3 salários mínimos por família, conforme decreto n° 13.100 de 07 de dezembro de 2023,  Lei Municipal nº 7.535, de 21 de setembro de 2023, e Lei Federal nº 13.426, de 30 de março de 2017.
 

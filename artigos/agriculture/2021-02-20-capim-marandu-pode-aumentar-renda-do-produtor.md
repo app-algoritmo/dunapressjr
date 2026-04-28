@@ -1,11 +1,12 @@
 ---
-title: "Capim Marandu pode aumentar renda do produtor"
+title: Capim Marandu pode aumentar renda do produtor
 date: 2021-02-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 Com um trabalho sobre o capim marandu (*Brachiaria brizantha*), conhecido  popularmente como braquiára ou braquiarão, e sua versatilidade em sistemas de produção integrados, Fagner Júnior Gomes foi agraciado com o Prêmio CAPES de Tese 2020, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). A pesquisa, inédita no País, conseguiu estabelecer uma medida de adaptabilidade e versatilidade da planta, a pastagem mais usada em terras brasileiras, em um sistema silvipastoril – que integra pasto e floresta - na região Norte do Brasil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Apendicite: diagnóstico precoce evita o agravamento da saúde"
+title: 'Apendicite: diagnóstico precoce evita o agravamento da saúde'
 date: 2021-02-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Dores ao redor do umbigo, enjoo, falta de apetite, febre e anormalidade no funcionamento do aparelho digestivo, podem ser os sintomas da apendicite. A inflamação atinge o apêndice, um órgão que fica localizado no lado direito do intestino grosso e que muitas vezes é dito como vestigial, ou seja, que não tem uma função específica.
 

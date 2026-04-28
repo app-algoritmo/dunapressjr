@@ -1,11 +1,12 @@
 ---
-title: "Acesso a normas federais será modernizado e simplificado"
+title: Acesso a normas federais será modernizado e simplificado
 date: 2020-06-22
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## CodeX pretende tornar o Executivo Federal referência nacional e internacional em organização, compilação, integração e disponibilização das normas nacionais.
 

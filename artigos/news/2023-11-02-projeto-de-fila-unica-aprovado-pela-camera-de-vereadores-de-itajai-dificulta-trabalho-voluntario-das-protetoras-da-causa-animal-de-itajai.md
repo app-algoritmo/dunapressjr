@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Fila única aprovado pela Câmera de Vereadores de Itajaí dificulta trabalho voluntário das protetoras da causa animal de Itajaí"
+title: Projeto de Fila única aprovado pela Câmera de Vereadores de Itajaí dificulta
+  trabalho voluntário das protetoras da causa animal de Itajaí
 date: 2023-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi publicada na edição da última semana do mês de setembro no Jornal do Município, a lei nº 7.535, que estabelece a criação da “Fila Única da Castração e Microchipagem de cães e gatos” em Itajaí. De autoria da vereadora Anna Carolina Martins (PSDB) a lei representa um passo significativo na promoção do bem-estar animal e na transparência dos serviços prestados à comunidade.
 

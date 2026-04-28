@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro avança com obras nas rodovias em todo o País"
+title: Governo Bolsonaro avança com obras nas rodovias em todo o País
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Executadas pelo Departamento Nacional de Infraestrutura de Transportes (DNIT), as obras são, na maioria, de manutenção de estradas.
 

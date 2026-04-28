@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega mais 464 unidades em São Paulo e Minas Gerais"
+title: Governo Bolsonaro entrega mais 464 unidades em São Paulo e Minas Gerais
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais unidades habitacionais para famílias de baixa renda em dois Estados. O Programa Minha Casa, Minha Vida (MCMV), coordenado pelo Ministério do Desenvolvimento Regional (MDR), vai beneficiar mais 2 mil famílias, com  renda mensal de até R$ 1,8 mil (faixa 1 do programa), na entrega de 464 casa nos municípios de São Paulo (SP) e Conquista (MG).
 

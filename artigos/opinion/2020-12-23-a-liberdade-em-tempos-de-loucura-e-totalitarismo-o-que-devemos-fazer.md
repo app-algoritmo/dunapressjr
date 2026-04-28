@@ -1,11 +1,12 @@
 ---
-title: "A liberdade em tempos de loucura e totalitarismo: O que devemos fazer?"
+title: 'A liberdade em tempos de loucura e totalitarismo: O que devemos fazer?'
 date: 2020-12-23
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A LEI PERVERTIDA! E com ela os poderes de polícia do estado também pervertidos! A lei, digo, não somente distanciada de sua própria finalidade, mas voltada para a consecução de um objetivo inteiramente oposto! A lei transformada em instrumento de qualquer tipo de ambição, ao invés de ser usada como freio para reprimi-la! A lei servindo à iniqüidade, em vez de, como deveria ser sua função, puni-la!
 

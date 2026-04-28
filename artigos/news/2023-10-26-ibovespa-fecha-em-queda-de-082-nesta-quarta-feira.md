@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda de 0,82% nesta quarta-feira"
+title: Ibovespa fecha em queda de 0,82% nesta quarta-feira
 date: 2023-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados trimestrais de empresas como WEG e Santander influenciam desempenho da bolsa; dólar tem leve alta.
 

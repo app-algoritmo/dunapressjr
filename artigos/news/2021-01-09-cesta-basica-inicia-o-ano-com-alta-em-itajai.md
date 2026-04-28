@@ -1,11 +1,12 @@
 ---
-title: "Cesta básica inicia o ano com alta em Itajaí"
+title: Cesta básica inicia o ano com alta em Itajaí
 date: 2021-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mês de janeiro registra alta nos alimentos que compõem a cesta básica em Itajaí. A variação média de preços ficou em 6,08% na soma dos produtos de menor valor e 2,34% na soma dos produtos com os preços mais altos da cesta. Os números registrados pela fiscalização da Procuradoria do Consumidor (Procon) de Itajaí são de 36 itens básicos do consumo dos brasileiros. Os fiscais estiveram em oito estabelecimentos nos dias 04 e 05 de janeiro.
 

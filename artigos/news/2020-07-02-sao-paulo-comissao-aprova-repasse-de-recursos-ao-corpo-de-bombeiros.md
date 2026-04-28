@@ -1,11 +1,12 @@
 ---
-title: "São Paulo: Comissão aprova repasse de recursos ao Corpo de Bombeiros"
+title: 'São Paulo: Comissão aprova repasse de recursos ao Corpo de Bombeiros'
 date: 2020-07-02
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Constituição, Justiça e Redação aprovou, em reunião nesta quarta-feira (1/7), proposta que autoriza o repasse de recursos ao Corpo de Bombeiros do Estado. Presidida pelo deputado Mauro Bragato (PSDB), o encontro ocorreu em ambiente virtual.
 

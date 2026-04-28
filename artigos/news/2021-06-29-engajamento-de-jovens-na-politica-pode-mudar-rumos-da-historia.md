@@ -1,11 +1,12 @@
 ---
-title: "Engajamento de jovens na política pode mudar rumos da história"
+title: Engajamento de jovens na política pode mudar rumos da história
 date: 2021-06-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nas últimas eleições, a quantidade de eleitores de 16 e 17 anos que compareceram às urnas foi a menor em 30 anos. Segundo o Tribunal Superior Eleitoral, menos de 5% dos jovens dessa idade votaram nas eleições de 2020 - uma queda de mais de 50% se comparado a 2016. Essa falta de interesse dos adolescentes pela política foi tema de um estudo científico da estudante Ariane Minetto Araújo, do nono ano do Colégio Positivo - Internacional, de Curitiba, apresentado na Feira Brasileira de Ciências e Engenharia (Febrace) da Universidade de São Paulo (USP) - maior evento nacional do setor, que revela jovens cientistas desde 2003.
 

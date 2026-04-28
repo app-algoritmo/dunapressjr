@@ -1,11 +1,12 @@
 ---
-title: "A OMS é uma ameaça real e presente"
+title: A OMS é uma ameaça real e presente
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nossos governos pretendem delegar decisões sobre nossa saúde, nossas famílias e nossas liberdades sociais ao Diretor-Geral da Organização Mundial da Saúde (OMS) sempre que ele julgar necessário. O sucesso dessa transferência de poder depende da ignorância pública de suas implicações e da natureza da própria OMS e de suas recentes reviravoltas na política pandêmica. Quando o público entende isso, é mais provável que os responsáveis ​​ajam em seu interesse e não contra eles.
 

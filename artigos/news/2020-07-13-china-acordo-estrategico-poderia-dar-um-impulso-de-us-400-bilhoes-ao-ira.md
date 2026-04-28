@@ -1,11 +1,12 @@
 ---
-title: "China 'acordo estratégico' poderia dar um impulso de US $ 400 bilhões ao Irã"
+title: China 'acordo estratégico' poderia dar um impulso de US $ 400 bilhões ao Irã
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo o acordo de 25 anos finalizado, Pequim e Teerã aumentarão a cooperação militar, incluindo o desenvolvimento de armas e o compartilhamento de informações; China obtendo petróleo com desconto.
 

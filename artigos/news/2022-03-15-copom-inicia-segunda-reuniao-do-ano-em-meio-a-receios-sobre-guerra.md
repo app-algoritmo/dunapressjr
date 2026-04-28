@@ -1,11 +1,12 @@
 ---
-title: "Copom inicia segunda reunião do ano em meio a receios sobre guerra"
+title: Copom inicia segunda reunião do ano em meio a receios sobre guerra
 date: 2022-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é que taxa Selic suba de 10,75% para 11,75% ao ano.
 

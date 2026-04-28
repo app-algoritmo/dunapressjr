@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem forte queda e fecha em R$ 4,85"
+title: Dólar tem forte queda e fecha em R$ 4,85
 date: 2020-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Moeda norte-americana ficou no menor patamar desde 13 de março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Defesa apresenta balanço das ações para combater o novo coronavírus"
+title: Ministério da Defesa apresenta balanço das ações para combater o novo coronavírus
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Na tarde desta quinta-feira (25), o Ministro da Defesa, Fernando Azevedo, acompanhado por demais autoridades da Pasta, apresentou à imprensa balanço das atividades deflagradas, desde 20 de março, pela Operação Covid-19. A iniciativa de combate à pandemia do novo coronavírus no País envolve a atuação de 10 Comandos Conjuntos espalhados por todo o território brasileiro, além do Comando de Operações Aeroespaciais (COMAE), de funcionamento permanente.
 

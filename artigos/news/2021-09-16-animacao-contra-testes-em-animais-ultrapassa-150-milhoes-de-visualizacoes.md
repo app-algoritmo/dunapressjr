@@ -1,11 +1,12 @@
 ---
-title: "Animação contra testes em animais ultrapassa 150 milhões de visualizações"
+title: Animação contra testes em animais ultrapassa 150 milhões de visualizações
 date: 2021-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O filme que conta com um elenco de estrelas se tornou viral”, frisa a Humane Society International.
 

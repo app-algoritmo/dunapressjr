@@ -1,11 +1,12 @@
 ---
-title: "Trump Critica Paris e Londres por Políticas de Imigração e Segurança"
+title: Trump Critica Paris e Londres por Políticas de Imigração e Segurança
 date: 2024-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Donald Trump, conhecido por suas declarações diretas e polêmicas, mais uma vez causou alvoroço ao criticar as políticas de imigração e segurança de Paris e Londres. Em um comício de campanha em Wisconsin, o ex-presidente dos Estados Unidos lamentou as consequências visíveis das políticas de imigração, descrevendo as cidades europeias como "irreconhecíveis" devido à suposta abertura à ameaça da jihad.
 

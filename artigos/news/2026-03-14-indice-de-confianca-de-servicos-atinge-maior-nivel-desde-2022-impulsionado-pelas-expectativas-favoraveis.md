@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança de Serviços atinge maior nível desde 2022, impulsionado pelas expectativas favoráveis"
+title: Índice de Confiança de Serviços atinge maior nível desde 2022, impulsionado
+  pelas expectativas favoráveis
 date: 2026-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Quinto mês consecutivo de alta reforça sinais de recuperação no setor, mas cautela ainda é necessária.
 

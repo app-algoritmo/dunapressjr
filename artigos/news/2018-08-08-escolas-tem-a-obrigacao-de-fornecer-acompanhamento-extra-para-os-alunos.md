@@ -1,11 +1,12 @@
 ---
-title: "Escolas têm a obrigação de fornecer acompanhamento extra para os alunos"
+title: Escolas têm a obrigação de fornecer acompanhamento extra para os alunos
 date: 2018-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Comunicado de imprensa hoje pelo site regjeringen.no demonstra a grande preocupação da Noruega com a formação das crianças. O comunicado menciona claramente que nenhum aluno deve sair da escola primária (Fundamental I) sem ter aprendido a ler, escrever e calcular corretamente. E as escolas têm a obrigação de fornecer acompanhamento extra para os alunos nas áreas de leitura, redação e cálculo: cabe a escola fornecer educação intensiva nestas matérias.
 

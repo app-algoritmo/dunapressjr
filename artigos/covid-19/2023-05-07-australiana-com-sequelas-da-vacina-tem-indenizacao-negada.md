@@ -1,11 +1,12 @@
 ---
-title: "Australiana com sequelas da vacina tem indenização negada"
+title: Australiana com sequelas da vacina tem indenização negada
 date: 2023-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A vacina da AstraZeneca gerou polêmica no Reino Unido com uma série de ações judiciais e danos à vacina no contexto da vacinação contra a Covid. 
 

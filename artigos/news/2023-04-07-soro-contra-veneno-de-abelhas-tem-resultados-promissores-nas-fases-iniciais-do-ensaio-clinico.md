@@ -1,11 +1,13 @@
 ---
-title: "Soro contra veneno de abelhas tem resultados promissores nas fases iniciais do ensaio clínico"
+title: Soro contra veneno de abelhas tem resultados promissores nas fases iniciais
+  do ensaio clínico
 date: 2023-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um soro contra o envenenamento causado pela picada da abelha africanizada (*Apis mellifera*), popularmente chamada de “abelha assassina”, desenvolvido pelo Instituto Butantan, Universidade Estadual de São Paulo (UNESP) de Botucatu e Instituto Vital Brazil, deve entrar na fase 3 de ensaios clínicos em 2023. O produto é patenteado e obteve resultados promissores nas fases 1 e 2 dos estudos clínicos, divulgados **[na revista Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2021.653151/full)**. Anualmente, o Brasil registra cerca de 20 mil acidentes com abelhas e 50 óbitos.
 

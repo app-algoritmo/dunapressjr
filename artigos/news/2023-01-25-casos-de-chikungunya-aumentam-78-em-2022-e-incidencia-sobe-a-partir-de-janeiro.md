@@ -1,11 +1,12 @@
 ---
-title: "Casos de chikungunya aumentam 78% em 2022 e incidência sobe a partir de janeiro"
+title: Casos de chikungunya aumentam 78% em 2022 e incidência sobe a partir de janeiro
 date: 2023-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 2022, o Brasil registrou 174.517 casos prováveis de chikungunya, com uma taxa de incidência de 81,8 casos a cada 100 mil habitantes. [De acordo com o primeiro Boletim Epidemiológico de 2023 do Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2023/boletim-epidemiologico-volume-54-no-01/view), esse indicador representa um aumento de 78,9% na comparação com 2021, e de 32,4% na comparação com o número registrado em 2019. O crescimento na quantidade de casos é divulgado no mesmo momento em que os centros de pesquisa parceiros do Butantan buscam voluntários e voluntárias de 12 a 15 anos para o ensaio clínico de fase 3 de uma vacina contra a doença. Dados das fases anteriores mostraram que o imunizante é seguro e altamente eficaz, com soroconversão próxima a 100%.
 

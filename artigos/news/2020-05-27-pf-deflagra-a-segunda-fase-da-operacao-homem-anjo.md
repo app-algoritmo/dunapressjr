@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra a segunda fase da Operação Homem Anjo"
+title: PF deflagra a segunda fase da Operação Homem Anjo
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR - Entre os dias 26 e 27 de maio de 2020, equipes da Polícia Federal realizaram a 2ª fase da Operação Homem Anjo, cumprindo mandados de prisão e de busca e apreensão na região da fronteira do Paraná com o Paraguai.
 

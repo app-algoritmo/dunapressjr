@@ -1,11 +1,12 @@
 ---
-title: "Dólar ultrapassa R$ 5,30, mas acumula baixa pela quarta semana"
+title: Dólar ultrapassa R$ 5,30, mas acumula baixa pela quarta semana
 date: 2022-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 0,49% e encerrou semana em leve alta.
 

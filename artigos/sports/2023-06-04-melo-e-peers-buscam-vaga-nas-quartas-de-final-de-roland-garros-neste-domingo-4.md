@@ -1,12 +1,14 @@
 ---
-title: "Melo e Peers buscam vaga nas quartas de final de Roland Garros neste domingo (4)"
+title: Melo e Peers buscam vaga nas quartas de final de Roland Garros neste domingo
+  (4)
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 Em busca da terceira vitória e da vaga nas quartas de final em Roland Garros, o mineiro Marcelo Melo e o australiano John Peers voltam à quadra neste domingo (4), por volta de 7h30 (horário de Brasília), no saibro de Paris, na França. Melo e Peers enfrentam os cabeças de chave 10, o espanhol Marcel Granollers e o argentino Horacio Zeballos. Esta é a 17ª participação do mineiro no Grand Slam na capital francesa, em que foi campeão na edição 2015.
 

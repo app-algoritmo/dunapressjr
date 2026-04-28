@@ -1,11 +1,12 @@
 ---
-title: "PF prende em flagrante homem ao receber encomenda com cédulas falsas"
+title: PF prende em flagrante homem ao receber encomenda com cédulas falsas
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Curitiba/PR – A Polícia Federal, na manhã desta quarta-feira, 27/5, prendeu em flagrante um homem no momento em que recebia encomenda postal numa agência dos Correios em São José dos Pinhais/PR. 
 

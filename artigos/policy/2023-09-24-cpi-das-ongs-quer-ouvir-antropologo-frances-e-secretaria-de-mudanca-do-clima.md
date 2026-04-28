@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs quer ouvir antropólogo francês e secretária de Mudança do Clima"
+title: CPI das ONGs quer ouvir antropólogo francês e secretária de Mudança do Clima
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs agendou para terça-feira (26), a partir das 10h, oitivas com o antropólogo francês Bruce Albert e a secretária nacional de Mudança do Clima no Ministério do Meio Ambiente, Ana Toni. 
 

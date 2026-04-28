@@ -1,11 +1,12 @@
 ---
-title: "Secretaria Especial da Cultura com nova equipe"
+title: Secretaria Especial da Cultura com nova equipe
 date: 2020-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 As secretarias de Economia Criativa, dos Direitos Autorais e Propriedade Intelectual, Difusão e Infraestrutura cultural, chefia de gabinete, da Secretaria Especial da Cultura, e o Instituto Brasileiro de Museus (IBRAM) já têm novos titulares. A nomeação foi divulgada pelo Ministério do Turismo, nesta sexta-feira (06), em edição extra do Diário Oficial da União (DOU).
 

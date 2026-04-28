@@ -1,11 +1,12 @@
 ---
-title: "Como se tornar um profissional fundamental na indústria é tema de webinar"
+title: Como se tornar um profissional fundamental na indústria é tema de webinar
 date: 2022-12-09
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Events
+- Events
 ---
+
 
 Principais requisitos técnicos e habilidades buscadas pelas lideranças de fábricas é o tema de palestra online e gratuita para trabalhadores e universitários
 

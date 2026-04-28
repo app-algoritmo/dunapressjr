@@ -1,11 +1,12 @@
 ---
-title: "Bicicleta de Segurança Rover"
+title: Bicicleta de Segurança Rover
 date: 2020-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Bicicleta de Segurança Rover, mas também vamos conhecer a evolução da bicicleta até chegar ao modelo o qual nós conhecemos.
 

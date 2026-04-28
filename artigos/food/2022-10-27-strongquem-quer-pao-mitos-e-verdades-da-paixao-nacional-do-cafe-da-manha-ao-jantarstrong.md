@@ -1,11 +1,13 @@
 ---
-title: "<strong>'Quem quer pão?': mitos e verdades da paixão nacional do café da manhã ao jantar</strong>"
+title: '<strong>''Quem quer pão?'': mitos e verdades da paixão nacional do café da
+  manhã ao jantar</strong>'
 date: 2022-10-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 A receita é datada de milhares de anos. Os formatos e tipos são praticamente infinitos. O pão, considerado um dos alimentos mais tradicionais em todo o mundo e verdadeira paixão nacional, segue em alta. O primeiro quadrimestre de 2020  registrou um aumento de 6,2% em faturamento e 7,1% em volume na categoria de pães industrializados. Os números representam, respectivamente, R$ 1,8 bilhão e 143 mil toneladas, segundo dados da Associação Brasileira das Indústrias de Biscoitos, Massas Alimentícias e Pães & Bolos Industrializados (Abimapi). Ainda, de acordo com a Associação Brasileira da Indústria de Panificação e Confeitaria (ABIP), o mercado de panificação e confeitaria faturou R$ 105,85 bilhões no país, o que representa um crescimento de 15,3% em relação a 2020. 
 

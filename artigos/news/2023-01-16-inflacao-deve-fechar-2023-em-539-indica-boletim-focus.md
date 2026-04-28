@@ -1,11 +1,12 @@
 ---
-title: "Inflação deve fechar 2023 em 5,39%, indica Boletim Focus"
+title: Inflação deve fechar 2023 em 5,39%, indica Boletim Focus
 date: 2023-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números foram divulgados pelo Banco Central.
 

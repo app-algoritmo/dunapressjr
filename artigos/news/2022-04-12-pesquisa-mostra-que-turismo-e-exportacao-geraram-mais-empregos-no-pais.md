@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa mostra que turismo e exportação geraram mais empregos no país"
+title: Pesquisa mostra que turismo e exportação geraram mais empregos no país
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O levantamento da CNC analisou os 5.570 municípios brasileiros.
 

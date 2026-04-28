@@ -1,11 +1,12 @@
 ---
-title: "Governo bloqueia mais R$ 1,1 bilhão do Orçamento"
+title: Governo bloqueia mais R$ 1,1 bilhão do Orçamento
 date: 2023-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor total contingenciado em 2023 chega a R$ 4,9 bilhões.
 

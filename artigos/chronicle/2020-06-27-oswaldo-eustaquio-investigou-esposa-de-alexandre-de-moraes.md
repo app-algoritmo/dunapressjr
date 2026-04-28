@@ -1,11 +1,12 @@
 ---
-title: "Oswaldo Eustáquio  investigou esposa de Alexandre de Moraes"
+title: Oswaldo Eustáquio  investigou esposa de Alexandre de Moraes
 date: 2020-06-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 O texto publicado no [**Jornal Agora Paraná**](https://www.agoraparana.com.br/politica/esposa-de-alexandre-de-moraes-atende-politicos-condenados-do-psdb-em-tribunais-superiores/) revela a atuação da esposa do Ministro Alexandre de Moraes, Viviane Barci de Moraes, como advogada requisitada por políticos do PSDB no estado de São Paulo. A matéria destaca que Viviane assumiu uma causa em nome do prefeito José Auricchio Júnior, condenado por crimes de corrupção em segunda instância. O fato curioso é que Viviane tem sido bem-sucedida em manter o prefeito no cargo graças a uma resolução do CNJ que suspende os prazos processuais de casos que tramitam em meio físico durante o regime diferenciado de trabalho instituído pelo TSE.
 

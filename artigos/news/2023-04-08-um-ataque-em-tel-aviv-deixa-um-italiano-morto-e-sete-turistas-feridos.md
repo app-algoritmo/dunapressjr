@@ -1,11 +1,12 @@
 ---
-title: "Um ataque em Tel Aviv deixa um italiano morto e sete turistas feridos"
+title: Um ataque em Tel Aviv deixa um italiano morto e sete turistas feridos
 date: 2023-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Um italiano morreu e sete pessoas ficaram feridas na noite desta sexta-feira (7) em um atropelamento presumivelmente intencional na cidade israelense de Tel Aviv, todos turistas da Itália e do Reino Unido. O agressor, um homem árabe-israelense, também foi abatido, segundo fontes da mídia e serviços médicos de emergência israelenses.
 

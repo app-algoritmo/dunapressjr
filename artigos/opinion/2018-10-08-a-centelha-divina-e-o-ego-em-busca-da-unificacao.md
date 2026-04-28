@@ -1,12 +1,13 @@
 ---
-title: "A centelha divina e o ego - Em busca da unificação"
+title: A centelha divina e o ego - Em busca da unificação
 date: 2018-10-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 O trabalho que devemos fazer é tentar unificar Centelha e ego. É a individuação, que é diferente de individualização, ou seja, se individuar neste tema é a fusão Centelha/ego, onde o todo trabalhará e ainda seremos um ser individual, porém sentindo o coletivo e Deus.
 

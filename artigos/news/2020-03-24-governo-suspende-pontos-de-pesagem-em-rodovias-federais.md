@@ -1,11 +1,12 @@
 ---
-title: "Governo suspende pontos de pesagem em rodovias federais"
+title: Governo suspende pontos de pesagem em rodovias federais
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura, por meio do Departamento Nacional de Infraestrutura de Transportes (DNIT) e da Agência Nacional de Transportes Terrestres (ANTT), vai suspender as atividades dos postos com balanças de pesagem nas rodovias federais.
 

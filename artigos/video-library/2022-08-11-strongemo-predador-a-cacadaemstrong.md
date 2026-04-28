@@ -1,11 +1,12 @@
 ---
-title: "<strong><em>O Predador: A Caçada</em></strong>"
+title: '<strong><em>O Predador: A Caçada</em></strong>'
 date: 2022-08-11
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Depois de uma seca terrível e de filmes meia boca eis que surge ***O Predador: A Caçada***, dirigido por **Dan Trachtenberg** (*Rua Cloverfield 10*). O filme promete ação e resultado, quem já assistiu garante que o filme tem condições de ser tão bom quando *O Predador* (1987) e ser uma sequência à altura. Vou assistir esse fim de semana e volto aqui com minhas impressões. 
 

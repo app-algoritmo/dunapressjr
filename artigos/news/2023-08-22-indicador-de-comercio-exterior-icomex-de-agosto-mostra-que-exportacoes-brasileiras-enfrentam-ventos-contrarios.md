@@ -1,11 +1,13 @@
 ---
-title: "Indicador de comércio exterior (ICOMEX) de agosto mostra que exportações brasileiras enfrentam ventos contrários"
+title: Indicador de comércio exterior (ICOMEX) de agosto mostra que exportações brasileiras
+  enfrentam ventos contrários
 date: 2023-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit histórico é ameaçado por tendências externas. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Dispositivo para reabilitação oral desenvolvido por pesquisadora"
+title: Dispositivo para reabilitação oral desenvolvido por pesquisadora
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Cirurgiã-dentista formada pelo Centro Universitário Dr. Leão Sampaio (UNILEÃO) e mestranda do Programa em Ciências Odontológicas pela Universidade Federal do Rio Grande do Norte (UFRN), Ana Larisse Carneiro desenvolve pesquisas clínicas com ênfase em novas possibilidades tecnológicas para as reabilitações orais.
 

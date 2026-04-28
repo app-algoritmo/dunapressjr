@@ -1,11 +1,12 @@
 ---
-title: "Constatações de uma possível pandemia – Precisamos enxergar além dos olhos"
+title: Constatações de uma possível pandemia – Precisamos enxergar além dos olhos
 date: 2020-03-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Supostamente um vírus que matará a todos está a solta. Não sabemos
 se realmente este vírus é este pandemônio que a mídia, alguns poderosos,

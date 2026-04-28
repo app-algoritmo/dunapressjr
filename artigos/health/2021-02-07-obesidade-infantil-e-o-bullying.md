@@ -1,11 +1,12 @@
 ---
-title: "Obesidade infantil e o bullying"
+title: Obesidade infantil e o bullying
 date: 2021-02-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Como resultado de hábitos não saudáveis, a obesidade tem sido assunto frequente nos consultórios médicos. Trata-se de uma doença crônica caracterizada pelo acúmulo de gordura corporal, que possui múltiplas causas e tem feito parte da vida dos brasileiros cada vez mais cedo
 

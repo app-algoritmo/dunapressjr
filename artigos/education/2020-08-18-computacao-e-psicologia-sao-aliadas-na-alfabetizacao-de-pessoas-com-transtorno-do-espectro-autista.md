@@ -1,11 +1,13 @@
 ---
-title: "Computação e psicologia são aliadas na alfabetização de pessoas com transtorno do espectro autista"
+title: Computação e psicologia são aliadas na alfabetização de pessoas com transtorno
+  do espectro autista
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Pesquisa da Universidade de São Paulo usou elementos de jogos para tornar maior o interesse dos estudantes pelo aprendizado de palavras curtas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova Lei de Diretrizes Orçamentárias para 2022"
+title: Congresso aprova Lei de Diretrizes Orçamentárias para 2022
 date: 2021-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Congresso Nacional aprovou nesta quinta-feira (15) o substitutivo do deputado Juscelino Filho (DEM-MA), relator da Lei de Diretrizes Orçamentárias (LDO) para 2022. O texto foi analisado pelos deputados e, em seguida, seguiu para votação no Senado. Mais cedo, ainda pela manhã, havia sido[ aprovado](http://agenciabrasil.ebc.com.br/politica/noticia/2021-07/ldo-de-2022-preve-aumento-do-fundo-eleitoral-para-quase-r-6-bilhoes) pela Comissão Mista do Orçamento (CMO). Agora, segue para sanção presidencial.
 

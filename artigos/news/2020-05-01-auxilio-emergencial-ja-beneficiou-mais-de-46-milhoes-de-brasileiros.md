@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Emergencial já beneficiou mais de 46 milhões de brasileiros"
+title: Auxílio Emergencial já beneficiou mais de 46 milhões de brasileiros
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A primeira parcela de R$ 600 referente ao Auxílio Emergencial, benefício do Governo Federal para ajudar brasileiros durante a pandemia, já foi entregue a mais de 46 milhões de brasileiros. Até agora, R$ 32,8 bilhões foram investidos nos pagamentos.
 

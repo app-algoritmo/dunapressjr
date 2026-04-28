@@ -1,11 +1,12 @@
 ---
-title: "Impasse perigoso entre forças armadas chinesas e indianas em Ladakh"
+title: Impasse perigoso entre forças armadas chinesas e indianas em Ladakh
 date: 2020-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os dois países mais populosos do mundo estão envolvidos em um tenso impasse militar. E a situação perigosa está sendo observada de perto.
 

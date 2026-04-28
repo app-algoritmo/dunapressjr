@@ -1,11 +1,12 @@
 ---
-title: "Governo do Estado propõe salário mínimo de R$ 1.550 para SP"
+title: Governo do Estado propõe salário mínimo de R$ 1.550 para SP
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento previsto é quatro vezes maior do que a inflação acumulada nos últimos 12 meses.
 

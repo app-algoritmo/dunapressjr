@@ -1,11 +1,13 @@
 ---
-title: "Bill Gates admite experimentar tecnologia de nanopartículas em injeções de mRNA para Covid"
+title: Bill Gates admite experimentar tecnologia de nanopartículas em injeções de
+  mRNA para Covid
 date: 2024-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O cofundador da Microsoft, Bill Gates, recentemente fez revelações surpreendentes sobre os experimentos conduzidos pela Fundação Bill e Melinda Gates durante a pandemia de Covid-19. Em um vídeo divulgado, Gates admite ter financiado testes de tecnologia de automontagem de nanopartículas, utilizando injeções de mRNA da Covid.
 

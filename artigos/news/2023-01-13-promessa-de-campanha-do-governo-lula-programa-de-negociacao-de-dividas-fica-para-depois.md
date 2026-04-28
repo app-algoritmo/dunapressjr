@@ -1,11 +1,13 @@
 ---
-title: "Promessa de campanha do governo Lula, programa de negociação de dívidas fica para depois"
+title: Promessa de campanha do governo Lula, programa de negociação de dívidas fica
+  para depois
 date: 2023-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Fazenda, Fernando Haddad, afirmou nesta quinta-feira (12) que o Densenrola, promessa eleitoral para beneficiar endividados, será discutido após seu retorno do Fórum Econômico de Davos, na Suíça, que ocorre entre os dias 16 e 20 de janeiro.
 

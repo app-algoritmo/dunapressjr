@@ -1,11 +1,12 @@
 ---
-title: "Homem processa Pfizer em US$ 35,6 milhões pela morte de seu filho vacinado"
+title: Homem processa Pfizer em US$ 35,6 milhões pela morte de seu filho vacinado
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Dan Hartman, da província canadense de Ontário, processou a Pfizer. Ele culpa o fabricante da vacina pela morte de seu filho Sean.
 

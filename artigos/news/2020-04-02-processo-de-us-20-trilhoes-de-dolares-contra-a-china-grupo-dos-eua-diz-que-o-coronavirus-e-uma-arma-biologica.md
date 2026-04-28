@@ -1,11 +1,13 @@
 ---
-title: "Processo de US $ 20 trilhões de dólares contra a China, Grupo dos EUA diz que o coronavírus é uma arma biológica"
+title: Processo de US $ 20 trilhões de dólares contra a China, Grupo dos EUA diz que
+  o coronavírus é uma arma biológica
 date: 2020-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Os demandantes querem US $ 20 trilhões de dólares, uma quantia maior que o PIB da China, alegando que o coronavírus é o resultado de uma arma biológica preparada pelas autoridades chinesas.
 

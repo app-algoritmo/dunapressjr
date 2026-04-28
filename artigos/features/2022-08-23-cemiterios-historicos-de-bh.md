@@ -1,11 +1,12 @@
 ---
-title: "Cemitérios Históricos de BH"
+title: Cemitérios Históricos de BH
 date: 2022-08-23
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Os cemitérios históricos de BH fazem parte do visual de umas das capitais mais famosas do Brasil, oferecendo aos moradores da cidade diversos tipos espaços para funerais. 
 

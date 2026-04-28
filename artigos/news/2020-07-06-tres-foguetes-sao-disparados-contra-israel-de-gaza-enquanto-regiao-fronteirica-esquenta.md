@@ -1,11 +1,13 @@
 ---
-title: "Três foguetes são disparados contra Israel de Gaza enquanto região fronteiriça esquenta"
+title: Três foguetes são disparados contra Israel de Gaza enquanto região fronteiriça
+  esquenta
 date: 2020-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Três foguetes foram disparados do norte da Faixa de Gaza para Israel na noite de domingo, quando as tensões ao longo da região da fronteira pareciam incendiar-se em meio aos planos israelenses de anexar partes da Cisjordânia.
 

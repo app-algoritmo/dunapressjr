@@ -1,11 +1,12 @@
 ---
-title: "Lixo pode causar grande sofrimento ao gado"
+title: Lixo pode causar grande sofrimento ao gado
 date: 2020-06-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 As pessoas que jogam lixo na natureza podem acabar em máquinas agrícolas e infligir grande sofrimento aos animais antes de serem mortos nesse caso.
 

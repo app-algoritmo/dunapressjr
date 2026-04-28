@@ -1,11 +1,12 @@
 ---
-title: "Instituto Butantan oferece livros gratuitos pra aprender e ensinar sobre Ciência"
+title: Instituto Butantan oferece livros gratuitos pra aprender e ensinar sobre Ciência
 date: 2021-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Para tornar a Ciência cada vez mais acessível, o Instituto Butantan oferece materiais educativos em diversos formatos sobre animais, plantas, soros e vacinas, vírus e bactérias, museus, patrimônios e muito mais. A [plataforma Publicações Educativas (publicacoeseducativas.butantan.gov.br)](https://publicacoeseducativas.butantan.gov.br/) reúne livros, manuais, folhetos, cartazes, guias e jogos que podem ser acessados gratuitamente.
 

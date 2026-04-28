@@ -1,11 +1,13 @@
 ---
-title: "7.01 Empossado no cargo, Rubem Novaes adianta que instituição ajudará a melhorar as condições econômicas do País"
+title: 7.01 Empossado no cargo, Rubem Novaes adianta que instituição ajudará a melhorar
+  as condições econômicas do País
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BB defende administração eficiente e transparente
 

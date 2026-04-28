@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai nesta sexta, mas fecha mês com alta de 2,17%"
+title: Dólar cai nesta sexta, mas fecha mês com alta de 2,17%
 date: 2020-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu e teve pior semana desde março.
 

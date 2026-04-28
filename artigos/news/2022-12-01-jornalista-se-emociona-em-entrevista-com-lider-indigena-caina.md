@@ -1,12 +1,13 @@
 ---
-title: "Jornalista se emociona em entrevista com líder indígena Cainá"
+title: Jornalista se emociona em entrevista com líder indígena Cainá
 date: 2022-12-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Brasília tornou-se a terra de protestos contra a gigantesca fraude eleitoral ocorrida nas eleições 2022 perpetrada por oficiais da "justiça" eleitoral, que também são membros da suprema corte brasilera.
 

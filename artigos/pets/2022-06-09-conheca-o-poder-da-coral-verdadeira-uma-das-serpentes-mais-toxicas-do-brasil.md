@@ -1,11 +1,12 @@
 ---
-title: "Conheça o poder da coral-verdadeira, uma das serpentes mais tóxicas do Brasil"
+title: Conheça o poder da coral-verdadeira, uma das serpentes mais tóxicas do Brasil
 date: 2022-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A coral-verdadeira (gênero *Micrurus*) é muito conhecida pela população brasileira, e tem um padrão de cores característico: sua pele é desenhada por listras que intercalam preto, vermelho e branco. A coloração não é à toa: seu objetivo é sinalizar aos predadores já de cara que ela é bem perigosa – na natureza, esse tipo de recurso se chama coloração de advertência.
 

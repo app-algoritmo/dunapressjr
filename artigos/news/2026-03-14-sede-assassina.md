@@ -1,10 +1,11 @@
 ---
-title: "Sede Assassina"
+title: Sede Assassina
 date: 2026-03-14
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 

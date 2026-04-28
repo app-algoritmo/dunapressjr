@@ -1,11 +1,13 @@
 ---
-title: "Summit da Liga Esportiva NESCAU® abre inscrições para formação contínua gratuita a profissionais de Educação Física"
+title: Summit da Liga Esportiva NESCAU® abre inscrições para formação contínua gratuita
+  a profissionais de Educação Física
 date: 2023-11-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Com aulas 100% online, professores da área poderão se inscrever nos temas que mais têm interesse e conquistar certificados de capacitação.
 

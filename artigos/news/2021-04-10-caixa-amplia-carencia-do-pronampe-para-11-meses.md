@@ -1,11 +1,12 @@
 ---
-title: "Caixa amplia carência do Pronampe para 11 meses"
+title: Caixa amplia carência do Pronampe para 11 meses
 date: 2021-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prorrogações poderão ser solicitadas a partir de segunda-feira.
 

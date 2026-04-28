@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa encerra com valorização de 1,36%"
+title: Ibovespa encerra com valorização de 1,36%
 date: 2023-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar registra queda de 1,04% e fecha em R$ 4,931
 

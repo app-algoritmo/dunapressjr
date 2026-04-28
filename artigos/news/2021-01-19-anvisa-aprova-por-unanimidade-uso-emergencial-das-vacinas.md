@@ -1,11 +1,12 @@
 ---
-title: "Anvisa aprova por unanimidade uso emergencial das vacinas"
+title: Anvisa aprova por unanimidade uso emergencial das vacinas
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária (Anvisa) aprovou, neste domingo (17), por unanimidade, a autorização temporária de uso emergencial da vacina CoronaVac, desenvolvida pela farmacêutica    em parceria com o Instituto Butantan, e da vacina Covishield, produzida pela farmacêutica Serum Institute of India, em parceria com a AstraZeneca/Universidade de Oxford/Fundação Oswaldo Cruz (Fiocruz).
 

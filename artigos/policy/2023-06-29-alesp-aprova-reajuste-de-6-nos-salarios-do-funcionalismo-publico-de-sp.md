@@ -1,11 +1,12 @@
 ---
-title: "Alesp aprova reajuste de 6% nos salários do funcionalismo público de SP"
+title: Alesp aprova reajuste de 6% nos salários do funcionalismo público de SP
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Votação ocorreu em sessão extraordinária, na noite desta quarta, 28; Parlamento também votou favorável a melhorias na remuneração dos quadros da Defensoria Pública e do Tribunal de Contas do Estado.
 

@@ -1,11 +1,13 @@
 ---
-title: "Prazo até o final do mês para instituições privadas solicitarem autorização para cursos técnicos"
+title: Prazo até o final do mês para instituições privadas solicitarem autorização
+  para cursos técnicos
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pedido deve ser realizado por meio do Sistema Nacional de Informações da Educação Profissional e Tecnológica (Sistec), disponível no Portal do MEC.
 

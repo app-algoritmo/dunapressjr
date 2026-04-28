@@ -1,11 +1,13 @@
 ---
-title: "Brandon Flowers nos conta sobre o futuro do The Killers e confirma novo álbum solo"
+title: Brandon Flowers nos conta sobre o futuro do The Killers e confirma novo álbum
+  solo
 date: 2023-12-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Music
+- Music
 ---
+
 
 ## O vocalista Brandon Flowers confirmou que está encontrando um novo som com todos os quatro membros de sua banda.
 

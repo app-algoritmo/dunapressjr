@@ -1,11 +1,12 @@
 ---
-title: "PF prende três pessoas por tráfico de drogas em Roraima"
+title: PF prende três pessoas por tráfico de drogas em Roraima
 date: 2020-05-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima - FICCO, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu na madrugada de hoje, 22/5, três pessoas por tráfico de drogas no município de Bonfim/RR, divisa com a Guiana.
 

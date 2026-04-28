@@ -1,11 +1,12 @@
 ---
-title: "ANS aprova incorporação da Sul América pela Rede D'Or, sob condições"
+title: ANS aprova incorporação da Sul América pela Rede D'Or, sob condições
 date: 2022-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação ficou em análise na agência reguladora durante oito meses.
 

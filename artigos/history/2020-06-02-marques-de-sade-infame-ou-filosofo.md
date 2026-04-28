@@ -1,11 +1,12 @@
 ---
-title: "Marques de Sade: infame ou filósofo?"
+title: 'Marques de Sade: infame ou filósofo?'
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A exatos 280 anos atrás, em 02 de junho de 1740, na Paris pre-iluminista nascia Donatien Alphonse François de Sade, mundialmente conhecido com Marques de Sade. Suas obras dotadas de violência e crueldade, demonstrando o lado mais vil da natureza humana, até mesmo hoje ainda chocam os leitores mais sensíveis, entre seus textos, o mais memorável foi Os 120 dias de Sodoma, novela escrita em 1785, enquanto estava preso na Bastilha que inspirou a produção de uma adaptação cinematográfica lançada em 1975, dirigida pelo italiano Pier Paolo Pasolini, mesmo ano em que o diretor morreu de forma muito controversa. Muito mais controversa que isso, foi a vida e obra do Marques de Sade, que graças ao seu modo de pensar, deu origem a palavra sadismo.
 

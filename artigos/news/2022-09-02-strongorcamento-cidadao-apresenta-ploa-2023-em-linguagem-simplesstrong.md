@@ -1,11 +1,12 @@
 ---
-title: "<strong>Orçamento Cidadão apresenta PLOA 2023 em linguagem simples</strong>"
+title: <strong>Orçamento Cidadão apresenta PLOA 2023 em linguagem simples</strong>
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Documento visa ampliar transparência e acesso da sociedade ao orçamento público.
 

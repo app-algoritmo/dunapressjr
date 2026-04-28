@@ -1,11 +1,13 @@
 ---
-title: "Para Francisco, a política “não pode permitir que as leis sejam ditadas pelo mercado"
+title: Para Francisco, a política “não pode permitir que as leis sejam ditadas pelo
+  mercado
 date: 2024-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco afirmou que a política “não pode permitir que as leis sejam ditadas pelas finanças” ou pelo mercado e garantiu que as civilizações são medidas pela “forma como os mais vulneráveis ​​são tratados”.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Banco Central presta contas ao Senado e aborda decisões de Política Monetária"
+title: Presidente do Banco Central presta contas ao Senado e aborda decisões de Política
+  Monetária
 date: 2023-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Roberto Campos Neto comparece a sessão especial e esclarece medidas tomadas em relação à inflação e à estabilidade financeira, reforçando importância da autonomia do BC. 
 

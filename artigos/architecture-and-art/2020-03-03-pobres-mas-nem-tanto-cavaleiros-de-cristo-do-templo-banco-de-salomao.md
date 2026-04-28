@@ -1,11 +1,12 @@
 ---
-title: "Pobres (mas nem tanto) Cavaleiros de Cristo do Templo (Banco) de Salomão!"
+title: Pobres (mas nem tanto) Cavaleiros de Cristo do Templo (Banco) de Salomão!
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Todos os meses repete-se o ciclo, o salário é creditado na
 conta e as contas a pagar vem, e como Sísifo, que eternamente tem que subir a

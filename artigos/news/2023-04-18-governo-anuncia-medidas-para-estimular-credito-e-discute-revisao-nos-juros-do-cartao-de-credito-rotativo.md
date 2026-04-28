@@ -1,11 +1,13 @@
 ---
-title: "Governo anuncia medidas para estimular crédito e discute revisão nos juros do cartão de crédito rotativo"
+title: Governo anuncia medidas para estimular crédito e discute revisão nos juros
+  do cartão de crédito rotativo
 date: 2023-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entre as medidas a serem anunciadas, destaca-se a revisão nos juros do cartão de crédito rotativo.
 

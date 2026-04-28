@@ -1,11 +1,12 @@
 ---
-title: "IBGE prevê safra recorde de 264,9 milhões de toneladas para 2021"
+title: IBGE prevê safra recorde de 264,9 milhões de toneladas para 2021
 date: 2021-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Soja deve atingir mais um marco inédito.
 

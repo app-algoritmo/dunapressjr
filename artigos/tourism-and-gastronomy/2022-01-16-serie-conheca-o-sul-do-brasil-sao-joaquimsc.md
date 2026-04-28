@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: São Joaquim/SC"
+title: 'Série Conheça o Sul do Brasil: São Joaquim/SC'
 date: 2022-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 A cidade de São Joaquim, no Estado de Santa Catarina, é famosa não apenas por ser a cidade mais fria do país, mas também por sua principal atividade econômica: a produção das maçãs. Cheia de sossego e charme, a cidade abriga o Parque Nacional de São Joaquim. 
 

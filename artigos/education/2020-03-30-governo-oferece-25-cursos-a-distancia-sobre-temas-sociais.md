@@ -1,12 +1,13 @@
 ---
-title: "Governo oferece 25 cursos a distância sobre temas sociais"
+title: Governo oferece 25 cursos a distância sobre temas sociais
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Em tempos de teletrabalho, o Portal de Capacitação do Ministério da Cidadania está com inscrições abertas para as novas turmas dos cursos ofertados na modalidade EaD (ensino a distância). A iniciativa está disponível para gestores, pesquisadores, técnicos ou qualquer cidadão interessado em aperfeiçoar seus conhecimentos sobre as temáticas sociais.
 

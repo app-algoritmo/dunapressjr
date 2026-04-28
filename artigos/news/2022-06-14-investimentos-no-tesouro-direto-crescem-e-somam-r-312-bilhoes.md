@@ -1,11 +1,12 @@
 ---
-title: "Investimentos no Tesouro Direto crescem e somam R$ 3,12 bilhões"
+title: Investimentos no Tesouro Direto crescem e somam R$ 3,12 bilhões
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em abril, houve aumento de 34.399 investidores.
 

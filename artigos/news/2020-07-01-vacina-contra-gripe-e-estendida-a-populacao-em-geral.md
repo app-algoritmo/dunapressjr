@@ -1,11 +1,12 @@
 ---
-title: "Vacina contra gripe é estendida à população em geral"
+title: Vacina contra gripe é estendida à população em geral
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Campanha de vacinação contra gripe é encerrada e vacina é estendida ao público geral enquanto durarem os estoques. 
 

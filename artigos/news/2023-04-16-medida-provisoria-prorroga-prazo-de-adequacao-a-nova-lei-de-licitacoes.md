@@ -1,11 +1,12 @@
 ---
-title: "Medida provisória prorroga prazo de adequação à Nova Lei de Licitações"
+title: Medida provisória prorroga prazo de adequação à Nova Lei de Licitações
 date: 2023-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Medida Provisória 1167/23 prorroga a validade da antiga [Lei de Licitações](https://www2.camara.gov.br/legin/fed/lei/1993/lei-8666-21-junho-1993-322221-norma-pl.html), da [Lei do Regime Diferenciado de Compras (RDC)](https://www2.camara.gov.br/legin/fed/lei/2011/lei-12462-4-agosto-2011-611147-norma-pl.html) e da [Lei do Pregão](https://www2.camara.gov.br/legin/fed/lei/2002/lei-10520-17-julho-2002-472321-norma-pl.html) até o dia 30 de dezembro de 2023. A MP foi publicada na sexta-feira (31), em edição extra do Diário Oficial da União.
 

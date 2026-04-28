@@ -1,12 +1,13 @@
 ---
-title: "No coração do Brasil, o Convento de Santo Antônio da Independência"
+title: No coração do Brasil, o Convento de Santo Antônio da Independência
 date: 2022-09-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Entre todos os conventos do Brasil, ele foi o que mais se destacou como cenário das articulações políticas na era da Independência do Brasil. Ele foi, por assim dizer, a célula mater do movimento independentista. D. João VI e mais tarde D. Pedro I subiam frequentemente a escadaria conventual a fim de se aconselhar com os filhos de São Francisco. Na cela de Frei Sampaio, o Príncipe Regente Pedro e José Bonifácio iam conspirar, em 1822, contra as forças opostas à ideia de emancipação.
 

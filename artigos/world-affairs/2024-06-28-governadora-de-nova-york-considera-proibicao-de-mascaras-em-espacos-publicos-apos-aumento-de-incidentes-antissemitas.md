@@ -1,11 +1,13 @@
 ---
-title: "Governadora de Nova York Considera Proibição de Máscaras em Espaços Públicos Após Aumento de Incidentes Antissemitas"
+title: Governadora de Nova York Considera Proibição de Máscaras em Espaços Públicos
+  Após Aumento de Incidentes Antissemitas
 date: 2024-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A governadora de Nova York, Kathy Hochul, está considerando a reintrodução da proibição do uso de máscaras em espaços públicos, especialmente no metrô, após um aumento de incidentes antissemitas. Esta decisão vem em resposta aos apelos de líderes judeus que acreditam que tal medida ajudaria a reduzir comportamentos ameaçadores e criminosos durante manifestações anti-Israel.
 

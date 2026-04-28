@@ -1,11 +1,12 @@
 ---
-title: "A verdadeira história da guerra na Ucrânia"
+title: A verdadeira história da guerra na Ucrânia
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O povo americano precisa urgentemente conhecer a verdadeira história da guerra na Ucrânia e suas perspectivas atuais. Infelizmente, a grande mídia - New York Times, Wall Street Journal, Washington Post, MSNBC e CNN - tornaram-se meros porta-vozes do governo, repetindo as mentiras do presidente dos EUA, Joe Biden, e escondendo a história do público.
 

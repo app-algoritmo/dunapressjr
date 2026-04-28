@@ -1,11 +1,12 @@
 ---
-title: "Volta às aulas: a importância dos combinados em sala de aula"
+title: 'Volta às aulas: a importância dos combinados em sala de aula'
 date: 2024-02-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Acordos ajudam a garantir ambiente de aprendizado positivo e seguro no retorno à escola.
 

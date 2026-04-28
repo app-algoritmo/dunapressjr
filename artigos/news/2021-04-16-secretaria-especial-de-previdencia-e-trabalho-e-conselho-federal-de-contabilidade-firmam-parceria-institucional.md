@@ -1,11 +1,13 @@
 ---
-title: "Secretaria Especial de Previdência e Trabalho e Conselho Federal de Contabilidade firmam parceria institucional"
+title: Secretaria Especial de Previdência e Trabalho e Conselho Federal de Contabilidade
+  firmam parceria institucional
 date: 2021-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Formalizada na quinta-feira (15/4), atuação conjunta permitirá avanços na modernização do eSocial.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trem turístico centenário volta a ligar cidades históricas no litoral paranaense"
+title: Trem turístico centenário volta a ligar cidades históricas no litoral paranaense
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma joia da história do Paraná e do turismo brasileiro, o Trem Caiçara voltou a operar no dia  21 de novembro, após 30 anos sem dar partida. A locomotiva a vapor mais antiga em operação regular no Brasil liga as cidades históricas de Morretes e Antonina, através de um percurso de 16 km pelas belezas do litoral paranaense.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, conselhos para pais, filhos, adolescentes e mulheres grávidas"
+title: Coronavírus, conselhos para pais, filhos, adolescentes e mulheres grávidas
 date: 2020-03-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Conselho aos pais sobre brincadeiras e como dominar a vida cotidiana, como conversar com as crianças sobre o coronavírus e como cuidar da saúde mental das crianças e dos jovens. Conselhos para mulheres grávidas.
 

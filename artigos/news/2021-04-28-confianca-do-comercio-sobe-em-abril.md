@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio sobe em abril"
+title: Confiança do comércio sobe em abril
 date: 2021-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice recuperou mais da metade da queda de março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Seif condena ação da AGU contra jornalista Alexandre Garcia"
+title: Seif condena ação da AGU contra jornalista Alexandre Garcia
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) criticou, em pronunciamento no Plenário nesta segunda-feira (11), o pedido da Advocacia-Geral da União (AGU) de instauração de investigação contra o jornalista  Alexandre Garcia. O jornalista fez declarações, durante participação no programa *Oeste Sem Filtro*, sobre as enchentes no Rio Grande do Sul.
 

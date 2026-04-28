@@ -1,11 +1,12 @@
 ---
-title: "PGR pede análise do estado de saúde de Roberto Jefferson"
+title: PGR pede análise do estado de saúde de Roberto Jefferson
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Defesa diz que ex-deputado precisa de cuidado médico fora da prisão.
 

@@ -1,11 +1,13 @@
 ---
-title: "Exército apresenta resultados do apoio à população atingida no Rio Grande do Sul"
+title: Exército apresenta resultados do apoio à população atingida no Rio Grande do
+  Sul
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Exército Brasileiro apresentou à imprensa gaúcha as ações das Forças Armadas na [Operação Taquari](https://www.eb.mil.br/operacao-taquari), ao completar duas semanas de auxílio à população atingida pelos temporais e enchentes, nesta terça-feira, 19 de setembro.
 

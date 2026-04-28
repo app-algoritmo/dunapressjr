@@ -1,11 +1,12 @@
 ---
-title: "Município vai atender quase quatro mil crianças no plantão de férias 2023"
+title: Município vai atender quase quatro mil crianças no plantão de férias 2023
 date: 2022-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Educação, vai atender 3.599 crianças, do Berçário ao Jardim II, no plantão de férias 2023. Durante o período de 02 a 31 de janeiro, os atendimentos serão realizados em 50 unidades credenciadas da Educação Infantil, da Rede Municipal de Ensino.
 

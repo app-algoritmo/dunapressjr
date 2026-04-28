@@ -1,11 +1,12 @@
 ---
-title: "Minha Formação - de Joaquim Nabuco"
+title: Minha Formação - de Joaquim Nabuco
 date: 2020-06-09
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Eu mergulhei na mente e na alma de um grande intelectual. Ao ler ***Minha Formação*** de Joaquim Nabuco, consegui entender como uma mente nascida em berço ilustre, tanto politicamente como intelectualmente, observava as mudanças de seu tempo, e já velho, se inclinou a analisar várias de suas ações quando jovem para com seu pai e o grande escritor José de Alencar, como fruto de arroubos da juventude, ações falhas e impensadas.
 

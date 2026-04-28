@@ -1,11 +1,13 @@
 ---
-title: "Abortos em Illinois aumentam 54% quando estados vizinhos promulgam legislação pró-vida"
+title: Abortos em Illinois aumentam 54% quando estados vizinhos promulgam legislação
+  pró-vida
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A filial de Illinois da Planned Parenthood relatou ter visto [um aumento repentino de mulheres que procuram interromper a gravidez](https://www.lifesitenews.com/news/planned-parenthood-reports-abortions-up-54-in-illinois-as-bordering-states-enact-laws-protecting-the-preborn/) depois que os estados vizinhos promulgaram leis anti-aborto.
 

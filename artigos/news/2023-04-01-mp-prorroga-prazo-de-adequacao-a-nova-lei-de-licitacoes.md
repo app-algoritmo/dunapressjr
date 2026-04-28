@@ -1,11 +1,12 @@
 ---
-title: "MP prorroga prazo de adequação à Nova Lei de Licitações"
+title: MP prorroga prazo de adequação à Nova Lei de Licitações
 date: 2023-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com a promulgação da [Medida Provisória nº 1.167, de 31 de março de 2023](https://www.in.gov.br/en/web/dou/-/medida-provisoria-n-1.167-de-31-de-marco-de-2023-474433706), o presidente Luiz Inácio Lula da Silva atendeu ao pedido de diversas entidades representantes dos gestores municipais, prorrogando o prazo de adequação à Nova Lei de Licitações ([14.133/21](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm)).
 

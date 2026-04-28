@@ -1,11 +1,12 @@
 ---
-title: "Doutorandas estudam parasitas para evitar infecção alimentar e perda na produção"
+title: Doutorandas estudam parasitas para evitar infecção alimentar e perda na produção
 date: 2022-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma batalha contra protozoários é travada por duas bolsistas da CAPES no doutorado do Programa de Pós-Graduação em Ciência Animal da Universidade Estadual do Maranhão (UEMA). No laboratório de Patologia Molecular, as médicas veterinárias estudam formas de combater esses microrganismos parasitas que podem causar graves doenças aos seres humanos.
 

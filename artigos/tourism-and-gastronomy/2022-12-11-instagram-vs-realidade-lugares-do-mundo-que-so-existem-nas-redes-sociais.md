@@ -1,11 +1,12 @@
 ---
-title: "Instagram vs. realidade: lugares do mundo que só existem nas redes sociais"
+title: 'Instagram vs. realidade: lugares do mundo que só existem nas redes sociais'
 date: 2022-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## O meme “expectativa vs. reality” também se aplica a viagens, principalmente quando falamos dos seguintes lugares do mundo que só existem no metaverso dos filtros.
 

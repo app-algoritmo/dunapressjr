@@ -1,11 +1,12 @@
 ---
-title: "Vantagem para a Rússia e a China: A difícil relação entre os EUA e a África"
+title: 'Vantagem para a Rússia e a China: A difícil relação entre os EUA e a África'
 date: 2023-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os EUA estão atualmente tentando obter estados africanos. No entanto, eles entendem muito bem como as pessoas nos EUA realmente pensam sobre eles e que devem ser usados ​​apenas para combater a Rússia e a China.
 

@@ -1,11 +1,13 @@
 ---
-title: "Avaliando necessidade: quando é vantajoso manter um carro apenas para lazer aos fins de semana?"
+title: 'Avaliando necessidade: quando é vantajoso manter um carro apenas para lazer
+  aos fins de semana?'
 date: 2023-10-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Doutora em Ciências Contábeis calcula despesas mensais para manter um automóvel para uso no fim de semana. Confira alternativa de mobilidade que pode ser até 52% mais em conta.
 

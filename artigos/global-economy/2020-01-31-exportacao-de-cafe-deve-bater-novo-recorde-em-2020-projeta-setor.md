@@ -1,11 +1,12 @@
 ---
-title: "Exportação de café deve bater novo recorde em 2020, projeta setor"
+title: Exportação de café deve bater novo recorde em 2020, projeta setor
 date: 2020-01-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Em 2019, foram comercializadas 40,6 milhões de sacas de café, gerando uma movimentação de US$ 5,1 bilhões *
 

@@ -1,11 +1,13 @@
 ---
-title: "A Campanha Todos por Todos e o Programa Pátria Voluntária já arrecadaram R$ 10,8 milhões e 22,7 milhões de itens"
+title: A Campanha Todos por Todos e o Programa Pátria Voluntária já arrecadaram R$
+  10,8 milhões e 22,7 milhões de itens
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir da solidariedade de empresas e cidadãos, o Governo Federal, por meio da campanha [Todos por Todos](https://www.gov.br/todosportodos), já arrecadou e entregou, até o momento, 22,7 milhões de itens, como ventilador pulmonar, máscaras, álcool gel e kits de testagem rápida. Também foram arrecadados R$ 10,8 milhões, doados por 3.904 pessoas físicas e jurídicas por meio do programa [Pátria Voluntária](https://patriavoluntaria.org/pt-BR), via campanha Arrecadação Solidária, destinado à instituições sem fins lucrativos.
 

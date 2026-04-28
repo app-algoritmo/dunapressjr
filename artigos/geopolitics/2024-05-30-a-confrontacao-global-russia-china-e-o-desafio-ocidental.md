@@ -1,11 +1,12 @@
 ---
-title: "A Confrontação Global: Rússia, China e o Desafio Ocidental"
+title: 'A Confrontação Global: Rússia, China e o Desafio Ocidental'
 date: 2024-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Na reunião do Conselho de Ministros dos Negócios Estrangeiros da Organização de Cooperação de Xangai (SCO), o Ministro dos Negócios Estrangeiros chinês, Wang Yi, emitiu um chamado claro aos membros da organização: preservar a autonomia estratégica da Eurásia e resistir às pressões externas que tentam transformar a região em uma arena geopolítica. Wang destacou as ameaças representadas por países que buscam hegemonia e formam pequenos grupos para impor suas regras, interferir e reprimir, ameaçando a autonomia estratégica do Sul Global.
 

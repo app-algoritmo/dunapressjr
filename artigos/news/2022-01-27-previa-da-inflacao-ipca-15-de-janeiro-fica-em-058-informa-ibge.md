@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação, IPCA-15 de janeiro fica em 0,58%, informa IBGE"
+title: Prévia da inflação, IPCA-15 de janeiro fica em 0,58%, informa IBGE
 date: 2022-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice desacelerou com queda na gasolina, apesar da alta nos alimentos.
 

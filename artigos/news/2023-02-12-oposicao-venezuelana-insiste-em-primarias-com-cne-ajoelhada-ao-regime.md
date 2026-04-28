@@ -1,11 +1,12 @@
 ---
-title: "Oposição venezuelana insiste em primárias com CNE ajoelhada ao regime"
+title: Oposição venezuelana insiste em primárias com CNE ajoelhada ao regime
 date: 2023-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A oposição venezuelana, uma vez que terminou com o estéril governo interino do opositor Juan Guaidó, cedeu ao seu próximo movimento para tentar —entre táticas e estratégias— dar ao regime de Nicolás Maduro e seus capangas um banho de legitimidade que eventualmente possa beneficiar não apenas o chavismo, mas também sua contraparte. Nesta ocasião, um de seus representantes mais importantes, o advogado Jesús María Casal, se encarrega, como presidente da comissão que se encarregará de organizar as primárias, de solicitar ao Conselho Nacional Eleitoral a aprovação para a realização das eleições entre as partes dessas facções.
 

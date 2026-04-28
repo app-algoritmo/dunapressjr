@@ -1,11 +1,12 @@
 ---
-title: "Hospital, UPA ou Unidade de Saúde: como saber onde buscar atendimento?"
+title: 'Hospital, UPA ou Unidade de Saúde: como saber onde buscar atendimento?'
 date: 2023-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Dores no peito, febre, torção no pé, falta de ar, intoxicação alimentar, resfriado ou fratura. Esses são só alguns exemplos de problemas comuns de saúde que movimentam todos os dias as salas de espera de Unidades Básicas de Saúde (UBS), de Pronto Atendimento (UPA) e ainda prontos-socorros de hospitais. E uma dúvida muito comum entre a população é justamente qual unidade procurar em cada caso. Mesmo que, segundo o Ministério da Saúde, cerca de 85% dos problemas de saúde possam ser resolvidos sem a necessidade de ir a um serviço de emergência ou pronto-socorro, a maior parte da população ainda recorre, primeiro, à emergência hospitalar.
 

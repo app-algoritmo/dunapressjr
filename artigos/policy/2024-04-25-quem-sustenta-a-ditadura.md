@@ -1,11 +1,12 @@
 ---
-title: "Quem sustenta a Ditadura?"
+title: Quem sustenta a Ditadura?
 date: 2024-04-25
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Enquanto o cenário de caos institucional brasileiro se consagra internacionalmente, seja pela imprensa, pelas redes sociais mundiais ou pelas autoridades estrangeiras, uma parcela do Congresso, que é maioria, o chamado “centrão”, continua totalmente alheia aos abusos do Judiciário e às consequências mundiais das posturas diplomáticas do Brasil. Adeptos do “toma-la-dá-cá”, tudo está bom quando há quem os compre. 
 

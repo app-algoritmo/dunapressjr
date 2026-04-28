@@ -1,11 +1,12 @@
 ---
-title: "Covid: Evidência de dano persistente da vacina após 2 anos"
+title: 'Covid: Evidência de dano persistente da vacina após 2 anos'
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Dados da vacina COVID de longo prazo - Evidência de lesão vascular sustentada e trombose em 2 anos
 

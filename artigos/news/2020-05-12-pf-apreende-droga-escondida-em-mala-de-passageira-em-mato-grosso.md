@@ -1,11 +1,12 @@
 ---
-title: "PF apreende droga escondida em mala de passageira em Mato Grosso"
+title: PF apreende droga escondida em mala de passageira em Mato Grosso
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Cuiabá/MT** – A Polícia Federal apreendeu na última sexta-feira (8/5) cerca de 20 kg de maconha, localizados no bagageiro de um ônibus da linha Cascavel/PR – Rio Branco/AC. A ação ocorreu em uma barreira policial de rotina na BR-163, saída sul de Rondonópolis/MT.
 

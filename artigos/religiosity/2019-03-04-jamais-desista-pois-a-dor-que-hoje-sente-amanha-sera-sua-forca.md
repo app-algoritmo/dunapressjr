@@ -1,11 +1,12 @@
 ---
-title: "Jamais desista, pois a dor que hoje sente, amanhã será sua força!"
+title: Jamais desista, pois a dor que hoje sente, amanhã será sua força!
 date: 2019-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Orgulhe-se das suas cicatrizes, elas provam sua força e capacidade de superação.
 

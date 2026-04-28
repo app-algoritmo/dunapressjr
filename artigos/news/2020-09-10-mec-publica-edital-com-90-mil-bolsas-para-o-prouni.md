@@ -1,11 +1,12 @@
 ---
-title: "MEC publica edital com 90 mil bolsas para o Prouni"
+title: MEC publica edital com 90 mil bolsas para o Prouni
 date: 2020-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Inscrições para o processo seletivo para as bolsas remanescentes começam no dia 15 de setembro. Programa oferece bolsas parciais e integrais para facilitar o ingresso de estudantes nas universidades particulares.
 

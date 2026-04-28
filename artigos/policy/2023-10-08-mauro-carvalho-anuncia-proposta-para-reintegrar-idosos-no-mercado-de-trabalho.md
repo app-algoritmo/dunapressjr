@@ -1,11 +1,12 @@
 ---
-title: "Mauro Carvalho anuncia proposta para reintegrar idosos no mercado de trabalho"
+title: Mauro Carvalho anuncia proposta para reintegrar idosos no mercado de trabalho
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Mauro Carvalho Junior (União-MT) anunciou em pronunciamento em Plenário na quarta-feira (4) a apresentação de projeto para retirar a obrigatoriedade de cobrança de FGTS e contribuição previdenciária sobre a remuneração recebida por empregados que já sejam aposentados e criar cadastro específico de vagas de trabalho para aposentados junto ao Sistema Nacional de Emprego (Sine). O senador destacou a importância da reintegração de aposentados no mercado de trabalho.
 

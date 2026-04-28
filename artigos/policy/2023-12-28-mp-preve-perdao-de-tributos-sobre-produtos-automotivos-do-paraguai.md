@@ -1,11 +1,12 @@
 ---
-title: "MP prevê perdão de tributos sobre produtos automotivos do Paraguai"
+title: MP prevê perdão de tributos sobre produtos automotivos do Paraguai
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Congresso vai analisar a Medida Provisória (MP) [1.201/2023](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/161790), que concede perdão de créditos tributários do Imposto de Importação (II) e do Imposto sobre Produtos Industrializados (IPI) referentes a importações de produtos automotivos do Paraguai. O crédito tributário é o mecanismo que permite posteriormente o tratamento aplicado a impostos pagos a mais ou a menos. No caso previsto na MP 1.201, esses créditos referem-se a impostos que seriam devidos, mas que vão ser objeto de remissão, ou seja, dispensa da obrigação de pagar.
 

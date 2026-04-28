@@ -1,11 +1,12 @@
 ---
-title: "O Mito do Carnaval!"
+title: O Mito do Carnaval!
 date: 2020-02-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Hoje comemora-se o feriado de Carnaval. Para Muitos é o momento mais esperado do ano, onde as pessoas saem de casa para esbaldar-se de festividade desenfreada “soltando os seus demônios interiores”. Para os religiosos e mais conservadores, é uma ode à promiscuidade, paganismo e depravação e para outros, é uma manifestação da identidade e cultura nacional em sua origem. Todos os pontos de vista fundamentam-se naquilo que apoiam como verdadeiro. Todavia, a terceira opinião, de que o Carnaval é uma festa de origem nacional, que manifesta a cultura popular, está completamente envolta em falácias de um discurso pronto e sem fundamento, existindo, portanto, uma serie de mitos a serem quebrados, ao estilo *Adam Savage e Jamie Hyneman*, para quem capta as referências, a respeito do Carnaval.
 

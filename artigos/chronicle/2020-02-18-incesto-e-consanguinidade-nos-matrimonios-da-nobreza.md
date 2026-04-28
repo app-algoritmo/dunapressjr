@@ -1,11 +1,12 @@
 ---
-title: "Incesto e Consanguinidade nos Matrimônios da Nobreza."
+title: Incesto e Consanguinidade nos Matrimônios da Nobreza.
 date: 2020-02-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Muito tem se falado recentemente do polêmico ato do príncipe Harry da Inglaterra, ter deixado para trás seus deveres como membro da família real para viver uma vida de plebeu no Canadá. Todavia, a polêmica do príncipe Harry já se iniciou na escolha de sua noiva, a atriz Meghan Markle, que não possui nenhum vínculo com a realeza ou título nobiliário. Neste sentido, o casamento entre as figuras de alta estirpe, desde os períodos muito antigos, tem que ser estrategicamente planejado, uma vez que são alianças com outras famílias ou nações, que podem tanto representar grandes avanços para a monarquia, quanto declínio, guerra ou disputas internas. Por isso desde períodos muito antigos tem-se registros de casamentos entre membros de uma mesma família, objetivando a centralização do poder para evitar o revés das disputas internas e o enfraquecimento e divisão do poder do rei.
 

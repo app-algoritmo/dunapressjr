@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,05 e tem maior alta semanal desde março"
+title: Dólar fecha a R$ 5,05 e tem maior alta semanal desde março
 date: 2021-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recuperou-se de perdas recentes e teve forte alta.
 

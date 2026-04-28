@@ -1,11 +1,12 @@
 ---
-title: "Presidente do BID deu apoio a medidas econômicas na Argentina"
+title: Presidente do BID deu apoio a medidas econômicas na Argentina
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Banco Interamericano de Desenvolvimento (BID), Ilan Goldfajn, manifestou hoje seu apoio às medidas econômicas anunciadas pelo ministro da Economia, Luis Caputo, e garantiu que o organismo multilateral de crédito “está pronto para apoiar seus reformas estruturais”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar chega a R$ 5,55, mas fecha estável com notícias do exterior"
+title: Dólar chega a R$ 5,55, mas fecha estável com notícias do exterior
 date: 2021-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores sobe 1,35% e volta a superar os 112 mil pontos.
 

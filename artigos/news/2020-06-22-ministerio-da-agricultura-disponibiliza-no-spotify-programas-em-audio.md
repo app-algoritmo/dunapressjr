@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Agricultura disponibiliza no Spotify programas em áudio"
+title: Ministério da Agricultura disponibiliza no Spotify programas em áudio
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O Episódio 25 do Mapacast fala sobre o Plano Safra 2020/2021, lançado pelo governo federal.
 

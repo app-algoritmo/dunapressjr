@@ -1,11 +1,12 @@
 ---
-title: "Trudeau e Biden discutem situação na Rússia"
+title: Trudeau e Biden discutem situação na Rússia
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Eles disseram que estão "acompanhando de perto os desenvolvimentos e manterão um relacionamento próximo com aliados e parceiros", disse o gabinete de Trudeau em um comunicado.
 

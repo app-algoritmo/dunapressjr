@@ -1,11 +1,12 @@
 ---
-title: "Por que a vacina COVID causou um desastre de saúde pública e milhões de mortes?"
+title: Por que a vacina COVID causou um desastre de saúde pública e milhões de mortes?
 date: 2023-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os reguladores de medicamentos já admitiram que a vacina COVID pode danificar o mús**culo cardíaco e levar a complicações cardiovasculares, como insuficiência cardíaca, miocardite ou pericardite.**
 

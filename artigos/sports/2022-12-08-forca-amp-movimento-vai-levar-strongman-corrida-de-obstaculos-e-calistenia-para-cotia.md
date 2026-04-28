@@ -1,11 +1,13 @@
 ---
-title: "Força &amp; Movimento vai levar Strongman, Corrida de Obstáculos e Calistenia para Cotia"
+title: Força &amp; Movimento vai levar Strongman, Corrida de Obstáculos e Calistenia
+  para Cotia
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Localizada na porção sudoeste da Região Metropolitana de São Paulo, entre a capital e o interior, Cotia está a 33 km do marco zero da Praça da Sé. A proximidade com a capital faz com que a cidade seja bastante atrativa tanto para novos negócios como para moradia com qualidade de vida. Situada às margens do Rio Cotia, afluente do Rio Tietê, também é destino para passeios de um dia ou aos finais de semana. Com tudo isso, o esporte não poderia ficar de fora. Entre os próximos dias 16 e 18, o município promove o Projeto Força & Movimento, evento multiesportivo, com modalidades como Calistenia (Street Workout), Strongman e OCR (corrida estilo trail com obstáculos).
 

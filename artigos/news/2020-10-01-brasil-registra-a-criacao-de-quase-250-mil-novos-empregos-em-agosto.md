@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra a criação de quase 250 mil novos empregos em agosto"
+title: Brasil registra a criação de quase 250 mil novos empregos em agosto
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em agosto, o Brasil registrou o segundo mês consecutivo de geração de empregos com carteira assinada. Foram 249.338 novos postos de trabalho formal criados no País. Um resultado de 1.239.478 admissões e 990.090 desligamentos. Os dados do Novo Cadastro Geral de Empregados e Desempregados (Novo Caged) foram divulgados nesta quarta-feira (30) pelo ministro da Economia, Paulo Guedes.
 

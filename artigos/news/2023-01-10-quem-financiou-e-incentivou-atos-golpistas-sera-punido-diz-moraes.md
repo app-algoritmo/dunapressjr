@@ -1,11 +1,12 @@
 ---
-title: "'Quem financiou e incentivou atos golpistas será punido', diz Moraes"
+title: '''Quem financiou e incentivou atos golpistas será punido'', diz Moraes'
 date: 2023-01-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro do STF falou durante posse do novo diretor-geral da PF.
 

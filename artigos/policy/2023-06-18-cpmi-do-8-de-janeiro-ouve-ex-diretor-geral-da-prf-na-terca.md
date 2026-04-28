@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de Janeiro ouve ex-diretor-geral da PRF na terça"
+title: CPMI do 8 de Janeiro ouve ex-diretor-geral da PRF na terça
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão Parlamentar Mista de Inquérito (CPMI) do 8 de Janeiro começa sua série de oitivas na terça-feira (20), às 9h, com o depoimento do ex-diretor-geral da Polícia Rodoviária Federal (PRF), Silvinei Vasques. O ex-policial será inquirido como testemunha, a partir de requerimento apresentado pela relatora do colegiado, senadora Eliziane Gama (PSD-MA).
 

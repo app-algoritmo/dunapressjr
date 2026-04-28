@@ -1,11 +1,13 @@
 ---
-title: "O mal puro: A mais recente produção da Disney é um filme de animação sobre uma menina que herda de seu pai um culto de assassinato"
+title: 'O mal puro: A mais recente produção da Disney é um filme de animação sobre
+  uma menina que herda de seu pai um culto de assassinato'
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Praise Petey vai ao ar em 21 de julho às 22h ET/PT no Freeform com os dois primeiros episódios. Após a estreia, dois episódios vão ao ar semanalmente, que estarão disponíveis no Hulu no dia seguinte.
 

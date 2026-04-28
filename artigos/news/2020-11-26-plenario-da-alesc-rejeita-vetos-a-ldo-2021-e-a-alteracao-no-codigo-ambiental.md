@@ -1,11 +1,12 @@
 ---
-title: "Plenário da Alesc rejeita vetos à LDO 2021 e a alteração no código ambiental"
+title: Plenário da Alesc rejeita vetos à LDO 2021 e a alteração no código ambiental
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário da Assembleia Legislativa rejeitou, na sessão ordinária desta quarta-feira (25), os vetos do Poder Executivo a pontos da Lei de Diretrizes Orçamentárias (LDO) para 2021 e a um projeto de lei (PL) de origem parlamentar que altera o Código Estadual Ambiental (Lei 14.675/2009). Em ambos, a Comissão de Constituição e Justiça (CCJ) emitiu parecer recomendando a rejeição.
 

@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto diz que meta de inflação não foi abandonada"
+title: Campos Neto diz que meta de inflação não foi abandonada
 date: 2020-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Presidente do BC divulgou hoje o Relatório de Inflação.
 

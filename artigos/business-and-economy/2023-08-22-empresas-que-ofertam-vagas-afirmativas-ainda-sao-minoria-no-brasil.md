@@ -1,11 +1,12 @@
 ---
-title: "Empresas que ofertam vagas afirmativas ainda são minoria no Brasil"
+title: Empresas que ofertam vagas afirmativas ainda são minoria no Brasil
 date: 2023-08-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 ## Em busca de espaços mais diversos, equidade racial precisa ser vista como pauta prioritária nas instituições dentro da agenda ESG.
 

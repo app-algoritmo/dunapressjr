@@ -1,11 +1,12 @@
 ---
-title: "Nova versão do Protocolo Digital passa a permitir resposta ao cidadão"
+title: Nova versão do Protocolo Digital passa a permitir resposta ao cidadão
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Funcionalidade que permite o envio de resposta ao cidadão tem implantação piloto prevista ainda para este ano e expansão a partir de 2023.
 

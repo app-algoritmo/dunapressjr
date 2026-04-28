@@ -1,11 +1,12 @@
 ---
-title: "MPF cobra Telegram sobre disparo de mensagem contra PL das Fake News"
+title: MPF cobra Telegram sobre disparo de mensagem contra PL das Fake News
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Plataforma digital terá 10 dias para responder questionamentos.
 

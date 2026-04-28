@@ -1,11 +1,12 @@
 ---
-title: "Lula Honored in Japan with Historic State Banquet at the Imperial Palace"
+title: Lula Honored in Japan with Historic State Banquet at the Imperial Palace
 date: 2025-03-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Affairs
+- International Affairs
 ---
+
 
 In a momentous gesture of diplomacy and cultural reverence, Japanese Emperor Naruhito and Empress Masako hosted a grand state banquet on March 25 at the Imperial Palace in Tokyo to honor Brazilian President Luiz Inácio Lula da Silva and First Lady Rosângela da Silva. This marks the first state banquet held by the Japanese imperial family in six years, signifying the deepening ties between Japan and Brazil.
 

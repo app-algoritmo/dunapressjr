@@ -1,11 +1,12 @@
 ---
-title: "Wall Street Journal confirma existência de rede de pedofilia “Pizzagate”"
+title: Wall Street Journal confirma existência de rede de pedofilia “Pizzagate”
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Instagram, uma plataforma de mídia social de propriedade da Meta, empresa controladora do Facebook, é supostamente um “santuário” para uma enorme rede de pedófilos que usa linguagem codificada de pizza para se comunicar sobre suas vítimas. E ninguém menos que o  *Wall Street Journal* se apresentou para [admitir que existe](https://www.revolver.news/2023/06/wsj-uncovers-pizzagate-pedophile-network/) , finalmente dando credibilidade à infame conspiração “Pizzagate” que veio à tona durante os anos Trump.
 

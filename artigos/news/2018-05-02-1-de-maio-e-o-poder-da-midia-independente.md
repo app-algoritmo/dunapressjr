@@ -1,11 +1,12 @@
 ---
-title: "1 de maio e o poder da mídia independente"
+title: 1 de maio e o poder da mídia independente
 date: 2018-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No dia do trabalhador nossa homenagem vai para os profissionais empreendedores que atuam no jornalismo, inclusive os próprios jornalistas, que vêm mudando profundamente a história da comunicação social mundial por meio de suas atuações na Mídia Independente.
 

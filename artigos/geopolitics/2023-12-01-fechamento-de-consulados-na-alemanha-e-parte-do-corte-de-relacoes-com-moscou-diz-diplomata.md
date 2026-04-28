@@ -1,11 +1,13 @@
 ---
-title: "Fechamento de consulados na Alemanha é parte do corte de relações com Moscou, diz diplomata"
+title: Fechamento de consulados na Alemanha é parte do corte de relações com Moscou,
+  diz diplomata
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Maria Zakharova observou que “Berlim complica deliberadamente o serviço consular para centenas de milhares de cidadãos russos que vivem na Alemanha”.
 

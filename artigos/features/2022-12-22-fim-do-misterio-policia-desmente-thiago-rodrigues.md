@@ -1,11 +1,12 @@
 ---
-title: "Fim do mistério! Polícia desmente Thiago Rodrigues"
+title: Fim do mistério! Polícia desmente Thiago Rodrigues
 date: 2022-12-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Ator Thiago Rodrigues foi desmentido pela policia sobre ter sido assaltado no dia 11 de Dezembro.
 

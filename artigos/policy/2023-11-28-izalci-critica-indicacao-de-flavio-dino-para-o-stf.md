@@ -1,11 +1,12 @@
 ---
-title: "Izalci critica indicação de Flávio Dino para o STF"
+title: Izalci critica indicação de Flávio Dino para o STF
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) criticou, em pronunciamento nesta segunda-feira (27), a indicação do ministro da Justiça, Flávio Dino, para o cargo de ministro do Supremo Tribunal Federal (STF). O nome foi escolhido pelo presidente Luiz Inácio Lula da Silva, também nesta segunda, e ainda precisa ser aprovado na Comissão de Constituição e Justiça (CCJ) e no Plenário do Senado. Segundo Izalci, Dino “desconsiderou, desprezou e ignorou” o Congresso Nacional durante a CPMI do 8 de Janeiro.
 

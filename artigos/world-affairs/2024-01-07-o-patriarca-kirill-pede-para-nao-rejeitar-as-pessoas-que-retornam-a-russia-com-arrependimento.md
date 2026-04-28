@@ -1,11 +1,13 @@
 ---
-title: "O Patriarca Kirill pede para não rejeitar as pessoas que retornam à Rússia com arrependimento"
+title: O Patriarca Kirill pede para não rejeitar as pessoas que retornam à Rússia
+  com arrependimento
 date: 2024-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o Patriarca, ele não pode formular outra abordagem para as pessoas que retornam à Rússia, a não ser a cristã.
 

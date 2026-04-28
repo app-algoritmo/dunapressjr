@@ -1,11 +1,12 @@
 ---
-title: "Endividamento de famílias cresce em janeiro e chega a 66,5%"
+title: Endividamento de famílias cresce em janeiro e chega a 66,5%
 date: 2021-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Percentual de inadimplentes atinge 24,8%.
 

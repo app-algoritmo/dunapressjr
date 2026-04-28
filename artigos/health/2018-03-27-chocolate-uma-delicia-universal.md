@@ -1,11 +1,12 @@
 ---
-title: "Chocolate, uma delícia universal!"
+title: Chocolate, uma delícia universal!
 date: 2018-03-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 *Por Leonardo Flores, Genebra-Suiça*
 

@@ -1,11 +1,13 @@
 ---
-title: "Senador Irajá critica proposta de reforma tributária aprovada pela Câmara dos Deputados"
+title: Senador Irajá critica proposta de reforma tributária aprovada pela Câmara dos
+  Deputados
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Senador ressalta preocupações com aumento de tributos e brechas para criação de novos impostos, além do impacto negativo em setores importantes da economia.
 

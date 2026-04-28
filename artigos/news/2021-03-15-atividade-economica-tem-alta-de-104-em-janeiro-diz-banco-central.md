@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica tem alta de 1,04% em janeiro, diz Banco Central"
+title: Atividade econômica tem alta de 1,04% em janeiro, diz Banco Central
 date: 2021-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado em 12 meses, o indicador ficou negativo em 4,04%.
 

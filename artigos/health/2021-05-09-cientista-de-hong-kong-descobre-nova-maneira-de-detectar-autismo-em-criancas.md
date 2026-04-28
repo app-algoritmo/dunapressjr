@@ -1,11 +1,12 @@
 ---
-title: "Cientista de Hong Kong descobre nova maneira de detectar autismo em crianças"
+title: Cientista de Hong Kong descobre nova maneira de detectar autismo em crianças
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## O professor da Universidade Chinesa de Hong Kong desenvolveu um método para diagnosticar o autismo usando uma câmera de alta resolução e um algoritmo de software.
 

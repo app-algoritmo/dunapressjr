@@ -1,11 +1,12 @@
 ---
-title: "Economia apresenta balanço de medidas de combate ao novo coronavírus"
+title: Economia apresenta balanço de medidas de combate ao novo coronavírus
 date: 2020-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Um mês após criação do grupo de crise, Ministério estima gastos de mais de R$ 1 trilhão para minimizar os impactos da pandemia do novo coronavírus
 

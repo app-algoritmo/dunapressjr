@@ -1,11 +1,13 @@
 ---
-title: "Diplomata russa adverte que jornalistas alemães deixarão a Rússia se correspondentes russos forem alvo de Berlim"
+title: Diplomata russa adverte que jornalistas alemães deixarão a Rússia se correspondentes
+  russos forem alvo de Berlim
 date: 2024-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A porta-voz do Ministério dos Negócios Estrangeiros russo, Maria Zakharova, em uma transmissão do canal de televisão Soloviev Live, afirmou que os jornalistas alemães terão que deixar a Rússia se Berlim continuar com seu plano de atacar correspondentes russos. Zakharova enfatizou que essa mensagem já foi transmitida a Berlim por canais diplomáticos, deixando claro que haverá consequências se a situação não for resolvida.
 

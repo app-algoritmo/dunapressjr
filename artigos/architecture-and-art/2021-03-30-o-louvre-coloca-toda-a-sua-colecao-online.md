@@ -1,11 +1,12 @@
 ---
-title: "O Louvre coloca toda a sua coleção online"
+title: O Louvre coloca toda a sua coleção online
 date: 2021-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 O museu do Louvre em Paris disse na sexta-feira que colocou quase meio milhão de itens de sua coleção online para o público visitar gratuitamente.
 

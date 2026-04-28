@@ -1,11 +1,12 @@
 ---
-title: "Amiga de Anne Frank luta para que a memória de Anne não seja esquecida"
+title: Amiga de Anne Frank luta para que a memória de Anne não seja esquecida
 date: 2020-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Nas últimas duas décadas, a holandesa Nanette Blitz Konig, de 90 anos, tem se dedicado a relatar os horrores que testemunhou na 2ª Guerra, em especial sua relação com uma importante personagem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Capacidade de pagamento de famílias e microempresas piorou, diz BC"
+title: Capacidade de pagamento de famílias e microempresas piorou, diz BC
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Banco Central diz, no entanto, não haver risco para estabilidade finan.
 

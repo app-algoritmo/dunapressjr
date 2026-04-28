@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova PL que obriga planos de saúde a ampliar tratamentos"
+title: Câmara aprova PL que obriga planos de saúde a ampliar tratamentos
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Projeto inclui procedimentos fora do rol da ANS.
 

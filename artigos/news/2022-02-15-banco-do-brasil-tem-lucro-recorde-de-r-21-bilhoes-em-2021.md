@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil tem lucro recorde de R$ 21 bilhões em 2021"
+title: Banco do Brasil tem lucro recorde de R$ 21 bilhões em 2021
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apenas no quarto trimestre, instituição lucrou R$ 5,9 bilhões.
 

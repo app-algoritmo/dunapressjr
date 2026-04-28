@@ -1,11 +1,12 @@
 ---
-title: "A NASA celebra o 50º aniversário da histórica missão Apollo 11"
+title: A NASA celebra o 50º aniversário da histórica missão Apollo 11
 date: 2019-07-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em 16 de julho de 1969, os astronautas Neil Armstrong, Buzz Aldrin e Michael Collins decolaram do Launch Pad 39A no Kennedy Space Center da NASA, na Flórida, em uma viagem à Lua e à história. Quatro dias depois, enquanto Collins orbitava a Lua no módulo de comando, Armstrong e Aldrin pousaram no módulo lunar da Apollo 11, Eagle, no Mar da Tranquilidade da Lua, tornando-se os primeiros humanos a pisar na superfície lunar.
 

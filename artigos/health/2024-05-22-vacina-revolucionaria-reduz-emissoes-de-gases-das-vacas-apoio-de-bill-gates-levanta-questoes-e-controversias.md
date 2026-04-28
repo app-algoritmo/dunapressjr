@@ -1,11 +1,13 @@
 ---
-title: "Vacina Revolucionária Reduz Emissões de Gases das Vacas: Apoio de Bill Gates Levanta Questões e Controvérsias"
+title: 'Vacina Revolucionária Reduz Emissões de Gases das Vacas: Apoio de Bill Gates
+  Levanta Questões e Controvérsias'
 date: 2024-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ### Cientistas estão desenvolvendo uma inovadora injeção que promete reduzir significativamente as emissões de gases de efeito estufa das vacas. A ideia pode parecer inusitada, mas a tecnologia por trás desta "vacinação anti-peido" está avançando rapidamente graças ao apoio financeiro de figuras influentes, como Bill Gates.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça A Amazônia Legal: Amapá"
+title: 'Série Conheça A Amazônia Legal: Amapá'
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Sendo o segundo Estado brasileiro com mais áreas protegidas em seu território, menos de 1% de área desmatada, o Amapá é a única unidade da federação a destinar um percentual tão significativo de suas terras para a preservação. Resultante disso, abriga o maior parque nacional do País e um dos maiores do mundo, o Montanhas do Tumucumaque, com quase 3,9 milhões de hectares.
 

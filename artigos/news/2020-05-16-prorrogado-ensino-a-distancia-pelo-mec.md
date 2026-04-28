@@ -1,11 +1,12 @@
 ---
-title: "Prorrogado ensino à distância pelo MEC"
+title: Prorrogado ensino à distância pelo MEC
 date: 2020-05-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) prorrogou por 30 dias a autorização para substituir disciplinas presenciais por aulas que utilizem meios e tecnologias de informação e comunicação em cursos que estão em andamento. Publicada nesta quarta-feira, 13 de maio, a [portaria](http://www.in.gov.br/en/web/dou/-/portaria-n-473-de-12-de-maio-de-2020-256531507) passa a valer na sexta, 15.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro sanciona lei do Programa Federativo de Enfrentamento ao Coronavírus"
+title: Presidente Jair Bolsonaro sanciona lei do Programa Federativo de Enfrentamento
+  ao Coronavírus
 date: 2020-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Auxílio financeiro é estimado em R$ 125 bilhões aos entes, em forma de envio de recursos e suspensão do pagamento de dívidas.
 

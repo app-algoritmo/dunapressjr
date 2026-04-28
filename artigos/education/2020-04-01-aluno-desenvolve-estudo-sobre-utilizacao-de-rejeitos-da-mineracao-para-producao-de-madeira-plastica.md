@@ -1,11 +1,13 @@
 ---
-title: "Aluno desenvolve estudo sobre utilização de rejeitos da mineração para produção de madeira plástica"
+title: Aluno desenvolve estudo sobre utilização de rejeitos da mineração para produção
+  de madeira plástica
 date: 2020-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Já ouviu falar em madeira plástica? utilizada como material alternativo na construção civil, a madeira plástica é sustentável porque permite reciclar rejeitos de mineração que demorariam anos para se decompor. Essa nova tecnologia vem sendo desenvolvida pela aluna Clara Lechtman, estudante de Química do Centro Federal de Educação Tecnológica (Cefet) de Minas Gerais.
 

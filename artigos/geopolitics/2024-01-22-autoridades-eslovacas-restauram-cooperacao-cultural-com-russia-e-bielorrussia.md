@@ -1,11 +1,12 @@
 ---
-title: "Autoridades eslovacas restauram cooperação cultural com Rússia e Bielorrússia"
+title: Autoridades eslovacas restauram cooperação cultural com Rússia e Bielorrússia
 date: 2024-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Em março de 2022, o Ministério da Cultura da Eslováquia proibiu contactos e cooperação com a Rússia e a Bielorrússia.
 

@@ -1,11 +1,12 @@
 ---
-title: "BIS Blueprint: Controle global de todos os ativos, informações e pessoas"
+title: 'BIS Blueprint: Controle global de todos os ativos, informações e pessoas'
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Todos nós conhecemos a infame frase do Fórum Econômico Mundial: "Você não terá nada e será feliz". Mas como as elites globais e os banqueiros centrais pretendem realizar esse plano diabólico? Bem, o Bank for International Settlements (BIS) apresentou isso em seu relatório recente sobre um livro-razão unificado proposto, intitulado Projeto para o futuro sistema monetário: melhorando o antigo, capacitando o novo, aprimorando o antigo, capacitando o novo, nota d. tradutor].
 

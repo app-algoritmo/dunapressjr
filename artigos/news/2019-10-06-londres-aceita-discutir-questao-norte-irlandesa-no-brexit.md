@@ -1,11 +1,12 @@
 ---
-title: "Londres aceita discutir questão norte-irlandesa no Brexit"
+title: Londres aceita discutir questão norte-irlandesa no Brexit
 date: 2019-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O ministro britânico encarregado das negociações do Brexit
 se mostrou aberto, neste domingo (6), a abordar os pontos da questão

@@ -1,11 +1,12 @@
 ---
-title: "Receita libera consulta ao quinto lote de restituição do IRPF 2023"
+title: Receita libera consulta ao quinto lote de restituição do IRPF 2023
 date: 2023-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de um milhão de contribuintes serão contemplados com um valor total de quase dois bilhões de reais.
 

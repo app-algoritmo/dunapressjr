@@ -1,11 +1,12 @@
 ---
-title: "Conselho Nacional de Previdência aprova proposta orçamentária para 2020"
+title: Conselho Nacional de Previdência aprova proposta orçamentária para 2020
 date: 2019-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Além das despesas de natureza obrigatória, como é o caso do FRGPS, o orçamento é composto por despesas discricionárias.
 

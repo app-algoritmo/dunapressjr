@@ -1,11 +1,13 @@
 ---
-title: "CPMI do 8 de Janeiro ouve general Augusto Heleno e condenado por colocar bomba perto de aeroporto em Brasília"
+title: CPMI do 8 de Janeiro ouve general Augusto Heleno e condenado por colocar bomba
+  perto de aeroporto em Brasília
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O depoimento de Augusto Heleno foi aprovado pela CPMI em junho.
 

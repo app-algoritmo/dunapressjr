@@ -1,11 +1,12 @@
 ---
-title: "Gasolina e álcool anidro têm alíquota única de R$ 1,22 a partir de 1º de junho"
+title: Gasolina e álcool anidro têm alíquota única de R$ 1,22 a partir de 1º de junho
 date: 2023-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ainda não há estimativa sobre impactos para o consumidor, diz Consefaz.
 

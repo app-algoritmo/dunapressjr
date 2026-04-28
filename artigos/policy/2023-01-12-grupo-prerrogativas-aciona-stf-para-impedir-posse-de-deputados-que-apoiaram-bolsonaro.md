@@ -1,11 +1,13 @@
 ---
-title: "Grupo Prerrogativas aciona STF para impedir posse de deputados que apoiaram Bolsonaro"
+title: Grupo Prerrogativas aciona STF para impedir posse de deputados que apoiaram
+  Bolsonaro
 date: 2023-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nesta quarta-feira (11), o grupo de advogados Prerrogativas entrou com uma ação no STF pedindo a suspensão da diplomação dos deputados que declararam apoio à reeleição de Bolsonaro.
 

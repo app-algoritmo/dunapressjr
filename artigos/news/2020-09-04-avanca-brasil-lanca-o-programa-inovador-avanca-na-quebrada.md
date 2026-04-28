@@ -1,11 +1,12 @@
 ---
-title: "Avança Brasil lança o Programa Inovador 'Avança na Quebrada'"
+title: Avança Brasil lança o Programa Inovador 'Avança na Quebrada'
 date: 2020-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Movimento Avança Brasil, maior movimento conservador do país, com 2.7 milhões de seguidores, lança o programa nacional "Avança na Quebrada" para as famílias brasileiras que vivem nas comunidades, favelas e espaços urbanos com gente do bem, gente trabalhadora. O "Avança na Quebrada" começa em São Paulo e entra no ar ainda no mês de Setembro deste 2020.
 

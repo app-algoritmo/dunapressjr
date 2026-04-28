@@ -1,11 +1,13 @@
 ---
-title: "O Parlamento Europeu preparou uma resolução reconhecendo a Federação Russa como um 'estado terrorista'"
+title: O Parlamento Europeu preparou uma resolução reconhecendo a Federação Russa
+  como um 'estado terrorista'
 date: 2022-11-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A votação do documento está prevista para uma sessão em Estrasburgo em 23 de novembro, disse a porta-voz do PE, Delphine Colard.
 

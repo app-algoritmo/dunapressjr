@@ -1,11 +1,12 @@
 ---
-title: "Conselho regulamenta uso do FGTS futuro em financiamentos imobiliários"
+title: Conselho regulamenta uso do FGTS futuro em financiamentos imobiliários
 date: 2022-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida beneficia trabalhador cuja renda mensal é de até R$ 2,4 mil.
 

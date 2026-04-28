@@ -1,11 +1,12 @@
 ---
-title: "Mais de 19 mil venezuelanos receberam novas oportunidades de vida no Brasil"
+title: Mais de 19 mil venezuelanos receberam novas oportunidades de vida no Brasil
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Buscando melhores condições, oportunidades e liberdade para viver, o venezuelano Jonathan Perez escolheu o Brasil para recomeçar. Depois de perder o emprego e ver o país de origem entrar em estado de miséria, Jonathan foi atrás de uma vida digna para ele, a esposa e os quatro filhos. Após passar algum tempo nos abrigos instalados pelo Governo Brasileiro em Boa Vista (RR), em 2020 ele recebeu uma vaga de emprego em Curitiba (PR) por meio da Operação Acolhida do Governo Federal.
 

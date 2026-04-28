@@ -1,11 +1,12 @@
 ---
-title: "Lançada campanha para conscientizar gestantes sobre antecipação de parto"
+title: Lançada campanha para conscientizar gestantes sobre antecipação de parto
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um chamado para a atenção e cuidados com a saúde das gestantes e dos bebês foi lançando neste fim de ano pela Agência Nacional de Saúde (ANS) com a divulgação da campanha #BoaHora: respeite o tempo de nascimento do bebê!.
 

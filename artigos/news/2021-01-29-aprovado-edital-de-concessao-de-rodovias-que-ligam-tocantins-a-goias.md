@@ -1,11 +1,12 @@
 ---
-title: "Aprovado edital de concessão de rodovias que ligam Tocantins a Goiás"
+title: Aprovado edital de concessão de rodovias que ligam Tocantins a Goiás
 date: 2021-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Leilão deve ocorrer no dia 29 de abril na sede da B3 em São Paulo.
 

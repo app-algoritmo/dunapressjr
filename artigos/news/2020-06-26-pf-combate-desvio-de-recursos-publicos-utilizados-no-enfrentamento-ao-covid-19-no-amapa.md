@@ -1,11 +1,13 @@
 ---
-title: "PF combate desvio de recursos públicos utilizados no enfrentamento ao Covid-19 no Amapá"
+title: PF combate desvio de recursos públicos utilizados no enfrentamento ao Covid-19
+  no Amapá
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Macapá/AP -** A Polícia Federal deflagrou, na manhã desta sexta-feira (26/6), a 3ª Fase da Operação Virus Infectio, para desarticular organização criminosa que pratica crimes de fraude em licitação e corrupção, com desvio de recursos públicos utilizados no enfrentamento ao coronavírus, no estado do Amapá.
 

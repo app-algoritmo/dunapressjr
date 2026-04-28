@@ -1,11 +1,13 @@
 ---
-title: "Líderes do G7 discutem desafios apresentados pela China e buscam cooperação internacional"
+title: Líderes do G7 discutem desafios apresentados pela China e buscam cooperação
+  internacional
 date: 2023-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Taiwan, mares disputados e guerra na Ucrânia entre as preocupações abordadas durante a cúpula do G7.
 

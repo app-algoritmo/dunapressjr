@@ -1,11 +1,12 @@
 ---
-title: "Empreendedores individuais terão microcrédito de até R$ 3 mil"
+title: Empreendedores individuais terão microcrédito de até R$ 3 mil
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Iniciativa pode alcançar cerca de 4,5 milhões de trabalhadores.
 

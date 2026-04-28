@@ -1,11 +1,12 @@
 ---
-title: "Policial que atuou na defesa do Congresso no 8 de janeiro fala à CPMI na quinta"
+title: Policial que atuou na defesa do Congresso no 8 de janeiro fala à CPMI na quinta
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Foi agendada para a quinta-feira (5), a partir das 9h, [reunião](https://legis.senado.leg.br/comissoes/reuniao?reuniao=11933&codcol=2606) da CPMI do 8 de Janeiro para ouvir o depoimento do subtenente Beroaldo José de Freitas Júnior, do Batalhão de Policiamento de Choque da Polícia Militar do Distrito Federal (PMDF). Ele participou da defesa do Palácio do Congresso Nacional no dia dos ataques antidemocráticos às sedes dos três Poderes.
 

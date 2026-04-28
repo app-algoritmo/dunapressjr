@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil enviará informe do Imposto de Renda pelo WhatsApp"
+title: Banco do Brasil enviará informe do Imposto de Renda pelo WhatsApp
 date: 2022-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instituição torna-se a primeira a fornecer documento pelo aplicativo.
 

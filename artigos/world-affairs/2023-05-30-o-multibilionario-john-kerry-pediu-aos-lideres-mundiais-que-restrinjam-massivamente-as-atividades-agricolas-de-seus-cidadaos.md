@@ -1,11 +1,13 @@
 ---
-title: "O multibilionário John Kerry pediu aos líderes mundiais que restrinjam massivamente as atividades agrícolas de seus cidadãos"
+title: O multibilionário John Kerry pediu aos líderes mundiais que restrinjam massivamente
+  as atividades agrícolas de seus cidadãos
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Aparentemente, eles estão morrendo de vontade de vender a carne de laboratório.
 

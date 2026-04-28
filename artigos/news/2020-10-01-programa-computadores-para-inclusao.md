@@ -1,11 +1,12 @@
 ---
-title: "Programa Computadores para Inclusão"
+title: Programa Computadores para Inclusão
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério das Comunicações publicou nesta segunda-feira (28), na plataforma eletrônica do Sistema de Gestão de Convênios e Contratos de Repasse – SICONV, o resultado final do Edital nº 133/2020, que visa à seleção de organização da sociedade civil interessada em celebrar termo de colaboração que tenha por objeto a execução de projetos de Centros de Recondicionamento de Computadores no âmbito do Programa Computadores para Inclusão.
 

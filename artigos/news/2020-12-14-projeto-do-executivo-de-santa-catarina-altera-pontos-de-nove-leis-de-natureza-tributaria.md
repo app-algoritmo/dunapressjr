@@ -1,11 +1,13 @@
 ---
-title: "Projeto do Executivo de Santa Catarina, altera pontos de nove leis de natureza tributária"
+title: Projeto do Executivo de Santa Catarina, altera pontos de nove leis de natureza
+  tributária
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Poder Executivo encaminhou na segunda-feira (7) à Assembleia Legislativa projeto de lei (PL) que altera pontos de nove leis de natureza tributária. Trata-se do [PL 364/2020](http://www.alesc.sc.gov.br/legislativo/tramitacao-de-materia/PL./0364.4/2020), que já está sob análise da Comissão de Finanças e Tributação, sob a relatoria do deputado Milton Hobus (PSD).
 

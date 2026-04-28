@@ -1,11 +1,12 @@
 ---
-title: "FGV: indicadores globais apontam desaceleração no segundo semestre"
+title: 'FGV: indicadores globais apontam desaceleração no segundo semestre'
 date: 2021-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tendência de recuo é observada desde julho.
 

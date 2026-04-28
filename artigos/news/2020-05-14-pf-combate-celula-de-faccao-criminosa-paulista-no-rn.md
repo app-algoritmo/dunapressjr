@@ -1,11 +1,12 @@
 ---
-title: "PF combate célula de facção criminosa paulista no RN"
+title: PF combate célula de facção criminosa paulista no RN
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN – A Força-Tarefa de Combate ao Crime Organizado, coordenada pela Polícia Federal e composta por Policiais Federais, Policiais Civis, Policiais Militares e Agente Penitenciários Federais, atuando em colaboração com a Secretaria de Operações Integradas do Ministério da Justiça e Segurança Pública (SEOPI/MJSP), e em ação consorciada com os Grupos Táticos Operacionais de Pau dos Ferros, Patu e Alexandria, com o 5º Batalhão de Polícia Militar de João Pessoa/PB, e com a Delegacia da Polícia Civil de Pau dos Ferros, deflagrou nesta quinta-feira, 14/5, a Operação Flare, com o objetivo de desarticular célula de liderança de facção criminosa paulista no Rio Grande do Norte.
 

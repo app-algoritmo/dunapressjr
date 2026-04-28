@@ -1,11 +1,12 @@
 ---
-title: "Vacinas contra gripe e covid não evitam hospitalizações"
+title: Vacinas contra gripe e covid não evitam hospitalizações
 date: 2023-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O óleo de cobra funcionaria de maneira tão confiável quanto essas "vacinas", mas seria muito mais seguro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Reajuste salarial mediano supera inflação em 1,5 ponto percentual em maio, aponta Salariômetro"
+title: Reajuste salarial mediano supera inflação em 1,5 ponto percentual em maio,
+  aponta Salariômetro
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maior aumento real do ano de 2023 é registrado, com 91,9% dos reajustes salariais negociados acima do INPC acumulado.
 

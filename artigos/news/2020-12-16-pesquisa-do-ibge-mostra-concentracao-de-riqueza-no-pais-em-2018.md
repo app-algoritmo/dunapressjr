@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa do IBGE mostra concentração de riqueza no país em 2018"
+title: Pesquisa do IBGE mostra concentração de riqueza no país em 2018
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os dados constam da pesquisa PIB dos Municípios.
 

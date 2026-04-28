@@ -1,13 +1,15 @@
 ---
-title: "Ecossistema de aprendizagem leva a efetivação de mais de 80% dos jovens aprendizes em empresa paranaense"
+title: Ecossistema de aprendizagem leva a efetivação de mais de 80% dos jovens aprendizes
+  em empresa paranaense
 date: 2024-04-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Courses and Careers
-  - Education
-  - Personal Development
+- Courses and Careers
+- Education
+- Personal Development
 ---
+
 
 ## Para combater rotatividade, mercado aposta na formação e contratações de estudantes tiveram aumento de 17,5% de 2018 a 2022 no Paraná.
 

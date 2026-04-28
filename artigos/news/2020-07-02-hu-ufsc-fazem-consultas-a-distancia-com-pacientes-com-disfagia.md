@@ -1,11 +1,12 @@
 ---
-title: "HU – UFSC fazem consultas  a distância com pacientes com disfagia"
+title: HU – UFSC fazem consultas  a distância com pacientes com disfagia
 date: 2020-07-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## É realizado monitoramento dos sinais e sintomas da deglutição e das alterações vocais, orientações de cuidados com a voz e de segurança da deglutição.
 

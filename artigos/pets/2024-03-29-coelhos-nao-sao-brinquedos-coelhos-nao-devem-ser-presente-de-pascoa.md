@@ -1,11 +1,12 @@
 ---
-title: "Coelhos não são brinquedos, Coelhos não devem ser presente de Páscoa"
+title: Coelhos não são brinquedos, Coelhos não devem ser presente de Páscoa
 date: 2024-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Coelhos não são brinquedos, Coelhos não devem ser presente de Páscoa. A Páscoa está se aproximando e nós queremos chamar a atenção para uma prática que infelizmente ainda é comum: dar coelhos como presentes. Embora possa parecer uma ideia fofinha, é importante lembrar que os animais não são brinquedos e não devem ser tratados como tal.
 

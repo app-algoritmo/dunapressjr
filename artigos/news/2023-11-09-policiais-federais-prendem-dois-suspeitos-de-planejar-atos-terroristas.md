@@ -1,11 +1,12 @@
 ---
-title: "Policiais federais prendem dois suspeitos de planejar atos terroristas"
+title: Policiais federais prendem dois suspeitos de planejar atos terroristas
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Prisões ocorreram no âmbito da Operação Trapiche.
 

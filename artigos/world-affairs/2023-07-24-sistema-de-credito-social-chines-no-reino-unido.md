@@ -1,11 +1,12 @@
 ---
-title: "Sistema de crédito social chinês no Reino Unido?"
+title: Sistema de crédito social chinês no Reino Unido?
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Isso lembra o sistema de crédito social do Partido Comunista Chinês: o líder do Brexit, Nigel Farage, teve sua conta bancária encerrada no final de junho, como revelou em um vídeo. Agora Farage revelou o porquê: de acordo com o arquivo "Stasi" que o Coutts Bank manteve sobre ele, ele foi alvo de suas opiniões políticas, incluindo alegado "racismo", "Brexit" e entrevistas com o cético astro do tênis Novak Djokovic.
 

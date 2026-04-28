@@ -1,11 +1,12 @@
 ---
-title: "EUA: Foi confirmado que as pessoas não vacinadas receberam um código"
+title: 'EUA: Foi confirmado que as pessoas não vacinadas receberam um código'
 date: 2023-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Novos códigos médicos para status de vacinação COVID-19 estão sendo usados ​​para rastrear pessoas, confirma o CDC.
 

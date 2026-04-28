@@ -1,11 +1,12 @@
 ---
-title: "Patrimônio Histórico-Cultural é responsabilidade também dos jovens"
+title: Patrimônio Histórico-Cultural é responsabilidade também dos jovens
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Certa vez, a historiadora Emília Viotti da Costa disse que "um povo sem memória é um povo sem história. E um povo sem história está fadado a cometer, no presente e no futuro, os mesmos erros do passado”. A frase parece refletir uma tragédia constante da sociedade brasileira, mimetizada em episódios como o do incêndio no Museu Nacional, no Rio de Janeiro, ocorrido em 2018. Iniciativas voltadas ao Patrimônio Histórico são tentativas de incentivar a educação patrimonial e a preservação das riquezas materiais e imateriais da sociedade brasileira.
 

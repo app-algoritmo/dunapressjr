@@ -1,11 +1,12 @@
 ---
-title: "Maratona Arte nos Bairros terá 10 horas de atrações neste sábado (03) em Itajaí/SC"
+title: Maratona Arte nos Bairros terá 10 horas de atrações neste sábado (03) em Itajaí/SC
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Maratona Arte nos Bairros terá 10 horas contínuas de programação artística, neste sábado (03), das 9h às 19h, na Praça Arno Bauer e na Casa da Cultura Dide Brandão, no Centro de Itajaí. Trabalhos de artesanato, artes visuais, audiovisual e literatura, realizados durante as oficinas gratuitas do programa Arte nos Bairros, serão exibidos no evento e haverá aulões e apresentações de capoeira, dança, música, patinação e teatro. A programação é 100% gratuita.
 

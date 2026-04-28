@@ -1,11 +1,12 @@
 ---
-title: "Prosperidade e economia – 01 - Introduções para a prosperidade financeira/dinheiro"
+title: Prosperidade e economia – 01 - Introduções para a prosperidade financeira/dinheiro
 date: 2018-10-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 De vários artigos que iremos lhe trazer, para fim de lhe auxiliar, hoje falaremos de forma introdutória quanto a prosperidade financeira, dinheiro e outras questões, as quais ao longo das semanas trataremos mais e desvendaremos e lhe mostraremos uma outra realidade.
 

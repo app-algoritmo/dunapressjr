@@ -1,11 +1,13 @@
 ---
-title: "RJ investe R$236,5 milhões em tecnologia de segurança para viaturas de órgãos públicos"
+title: RJ investe R$236,5 milhões em tecnologia de segurança para viaturas de órgãos
+  públicos
 date: 2024-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O estado do Rio de Janeiro está dando um passo significativo em direção à modernização e reforço da segurança pública. Com um investimento total de R$236,5 milhões, as viaturas dos órgãos de segurança pública e Defesa Civil serão equipadas com câmeras de videomonitoramento, visando contribuir para o fortalecimento das operações de segurança em todo o estado.
 

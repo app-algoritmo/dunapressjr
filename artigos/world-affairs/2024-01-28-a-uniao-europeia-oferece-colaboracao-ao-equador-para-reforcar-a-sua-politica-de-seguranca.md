@@ -1,11 +1,13 @@
 ---
-title: "A União Europeia oferece colaboração ao Equador para reforçar a sua política de segurança"
+title: A União Europeia oferece colaboração ao Equador para reforçar a sua política
+  de segurança
 date: 2024-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Alto Representante da União Europeia para a Política Externa, Josep Borrell, [garantiu](https://www.europapress.es/internacional/noticia-ue-ofrecera-ecuador-operaciones-conjuntas-seguridad-hacer-frente-auge-redes-criminales-20240125165115.html) esta quinta-feira que oferecerá ao presidente do Equador, [Daniel Noboa](https://gaceta.es/iberosfera/noboa-rechaza-la-propuesta-de-ayuda-de-nicolas-maduro-tengo-suficientes-peleas-aqui-en-ecuador-20240124-1336/) , **operações conjuntas** com a UE para garantir a segurança no país, que atravessa uma grave crise causada pelas atividades de redes criminosas.
 

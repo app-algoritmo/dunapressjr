@@ -1,11 +1,13 @@
 ---
-title: "<strong>Com vendas de carros usados em alta, startups veem oportunidade de modernização do setor</strong>"
+title: <strong>Com vendas de carros usados em alta, startups veem oportunidade de
+  modernização do setor</strong>
 date: 2022-11-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O mercado de carros usados vive um momento de aquecimento. Com alta de 10,9% sobre julho, as transações desse tipo de veículo, em agosto, tiveram o melhor resultado de 2022. Foram mais de 1,3 milhão de veículos que trocaram de titularidade no mês, com todos os segmentos automotivos registrando altas superiores a 9% sobre o resultado do mês anterior. São dados recentes da Federação Nacional da Distribuição de Veículos Automotores (Fenabrave). Os números são reflexos do aumento da produção de veículos e animam empresas que têm metas arrojadas para o mercado automotivo.
 

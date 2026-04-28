@@ -1,11 +1,13 @@
 ---
-title: "Plano de Enfrentamento Covid-19 para Povos Indígenas Brasileiros é apresentada ao Supremo Tribunal"
+title: Plano de Enfrentamento Covid-19 para Povos Indígenas Brasileiros é apresentada
+  ao Supremo Tribunal
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma nova versão do Plano de Enfrentamento e Monitoramento da Covid-19 para Povos Indígenas Brasileiros foi apresentada ao Supremo Tribunal Federal (STF), nesta sexta-feira (4), pelo Governo Federal, sob coordenação do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 

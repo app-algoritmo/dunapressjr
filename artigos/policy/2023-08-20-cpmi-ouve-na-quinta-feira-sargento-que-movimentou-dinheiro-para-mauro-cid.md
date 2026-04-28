@@ -1,11 +1,12 @@
 ---
-title: "CPMI ouve na quinta-feira sargento que movimentou dinheiro para Mauro Cid"
+title: CPMI ouve na quinta-feira sargento que movimentou dinheiro para Mauro Cid
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPMI do 8 de Janeiro se reúne na próxima quinta-feira (24) para ouvir o depoimento de Luis Marcos dos Reis, sargento do Exército que integrava a equipe da Ajudância de Ordens do ex-presidente Jair Bolsonaro. Reis é apontado como responsável por movimentação atípica de recursos financeiros que tiveram como destinatário o coronel Mauro Cesar Cid, ajudante de ordens de Bolsonaro.
 

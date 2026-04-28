@@ -1,11 +1,12 @@
 ---
-title: "Governo pode usar excesso de arrecadação para corrigir tabela do IR"
+title: Governo pode usar excesso de arrecadação para corrigir tabela do IR
 date: 2022-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes também promete nova redução em tarifas de importação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Milei nomeia ex-companheiro de chapa de Bullrich como novo Ministro da Defesa"
+title: Milei nomeia ex-companheiro de chapa de Bullrich como novo Ministro da Defesa
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente eleito da Argentina, Javier Milei, [confirmou nesta segunda-feira Luis Petri, companheiro de chapa de ](https://www.europapress.es/internacional/noticia-milei-nombra-ministro-defensa-argentina-luis-petri-candidato-vicepresidente-bullrich-20231204143449.html)[Patricia Bullrich](https://gaceta.es/iberosfera/bullrich-subraya-la-necesidad-de-orden-en-argentina-tras-ser-designada-ministra-de-seguridad-20231202-0124/) nas últimas eleições , como futuro ministro da Defesa.
 

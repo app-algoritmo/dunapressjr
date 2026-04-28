@@ -1,11 +1,12 @@
 ---
-title: "Governo pretende chegar a 50 concessões de aeroportos em 2022"
+title: Governo pretende chegar a 50 concessões de aeroportos em 2022
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Santos Dumont e Galeão, no Rio de Janeiro, ficam para o próximo ano.
 

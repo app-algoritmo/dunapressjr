@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani se despede nas quartas de final em Cincinnati e segue para o US Open"
+title: Luisa Stefani se despede nas quartas de final em Cincinnati e segue para o
+  US Open
 date: 2023-08-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Paulistana jogará ao lado da norte-americana Jennifer Brady, em Nova York, no Grand Slam que começa no próximo dia 28.
 

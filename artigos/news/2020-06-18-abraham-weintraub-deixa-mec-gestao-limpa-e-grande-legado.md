@@ -1,11 +1,12 @@
 ---
-title: "Abraham Weintraub deixa MEC – gestão limpa e grande legado"
+title: Abraham Weintraub deixa MEC – gestão limpa e grande legado
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Após um ano e dois meses no comando da pasta, o economista e professor da Universidade Federal de São Paulo ocupará o cargo de diretor do Banco Mundial, representando o Brasil.
 

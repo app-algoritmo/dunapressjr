@@ -1,11 +1,13 @@
 ---
-title: "Déficit primário em 2019 ficará pouco abaixo de R$80 bi, descontingencimento será integral, diz Guedes"
+title: Déficit primário em 2019 ficará pouco abaixo de R$80 bi, descontingencimento
+  será integral, diz Guedes
 date: 2019-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O déficit primário do governo deverá ficar pouco abaixo de 80 bilhões de reais este ano, afirmou nesta segunda-feira(18) o ministro da Economia, Paulo Guedes, destacando ainda o descontingenciamento integral dos gastos que haviam sido congelados para garantir o cumprimento da meta fiscal.
 

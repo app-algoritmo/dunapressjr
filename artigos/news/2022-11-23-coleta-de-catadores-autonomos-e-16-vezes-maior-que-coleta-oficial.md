@@ -1,11 +1,12 @@
 ---
-title: "Coleta de catadores autônomos é 1,6 vezes maior que coleta oficial"
+title: Coleta de catadores autônomos é 1,6 vezes maior que coleta oficial
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa da plataforma Cataki foi aplicada em SP, BH e RJ.
 

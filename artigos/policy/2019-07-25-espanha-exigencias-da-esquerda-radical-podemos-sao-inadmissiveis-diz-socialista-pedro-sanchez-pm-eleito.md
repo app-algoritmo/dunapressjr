@@ -1,11 +1,13 @@
 ---
-title: "Espanha: Exigências da esquerda radical Podemos são inadmissíveis, diz socialista Pedro Sánchez PM eleito"
+title: 'Espanha: Exigências da esquerda radical Podemos são inadmissíveis, diz socialista
+  Pedro Sánchez PM eleito'
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em Espanha, Pedro Sánchez dá o tudo por tudo para formar o governo e evitar novas eleições, sem ter de dar ao Podemos, os cinco ministérios que o partido exigiu.
 

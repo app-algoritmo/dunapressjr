@@ -1,11 +1,12 @@
 ---
-title: "Governo reduz custo de movimentação de produtos importados em portos"
+title: Governo reduz custo de movimentação de produtos importados em portos
 date: 2022-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novas regras valem a partir desta quarta-feira (8).
 

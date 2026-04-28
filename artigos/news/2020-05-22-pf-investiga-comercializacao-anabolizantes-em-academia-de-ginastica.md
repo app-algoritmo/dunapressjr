@@ -1,11 +1,12 @@
 ---
-title: "PF investiga comercialização anabolizantes em academia de ginástica"
+title: PF investiga comercialização anabolizantes em academia de ginástica
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Curitiba/PR - A Polícia Federal cumpriu nesta sexta-feira, 22/5, dois mandados de busca e apreensão em residência e academia de ginástica vinculadas a suspeito de venda ilegal de anabolizantes.
 

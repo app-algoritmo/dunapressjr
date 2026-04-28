@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que prevê ações permanentes de combate ao superendividamento"
+title: Comissão aprova projeto que prevê ações permanentes de combate ao superendividamento
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O texto precisa ser analisado agora pela Comissão de Constituição e Justiça.
 

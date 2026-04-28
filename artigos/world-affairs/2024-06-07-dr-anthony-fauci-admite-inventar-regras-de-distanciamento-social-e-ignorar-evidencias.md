@@ -1,11 +1,13 @@
 ---
-title: "Dr. Anthony Fauci Admite Inventar Regras de Distanciamento Social e Ignorar Evidências"
+title: Dr. Anthony Fauci Admite Inventar Regras de Distanciamento Social e Ignorar
+  Evidências
 date: 2024-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma entrevista explosiva revelou que o Dr. Anthony Fauci, uma figura proeminente na luta contra a Covid-19, inventou a regra de distanciamento social de 6 pés e outras medidas de restrição. Republicanos divulgaram transcrições que expõem sua falta de memória sobre a origem dessas diretrizes, enquanto estudos apontam para os impactos negativos do distanciamento social e das coberturas faciais nas crianças.
 

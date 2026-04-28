@@ -1,11 +1,12 @@
 ---
-title: "Governador da Paraíba entrega mais um hospital com 150 leitos"
+title: Governador da Paraíba entrega mais um hospital com 150 leitos
 date: 2020-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A princípio o hospital será voltado para atender pacientes com Covid-19 em João Pessoa.
 

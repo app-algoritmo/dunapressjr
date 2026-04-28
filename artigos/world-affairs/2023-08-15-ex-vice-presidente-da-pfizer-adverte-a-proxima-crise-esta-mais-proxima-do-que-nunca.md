@@ -1,11 +1,13 @@
 ---
-title: "Ex-vice-presidente da Pfizer adverte: a próxima crise está mais próxima do que nunca"
+title: 'Ex-vice-presidente da Pfizer adverte: a próxima crise está mais próxima do
+  que nunca'
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Somos testemunhas de um crime que continua. Estou convencido de que será o maior crime da história. Acredito que milhões, senão bilhões, de pessoas serão mortas. Foi o que disse o ex-vice-presidente da Pfizer, Mike Yeadon, no quarto simpósio com a Coluna do Reino Unido.
 

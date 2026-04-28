@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,38 e fecha no menor valor em quase 20 dias"
+title: Dólar cai para R$ 5,38 e fecha no menor valor em quase 20 dias
 date: 2020-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Anúncio de reforma administrativa e exterior animaram mercado.
 

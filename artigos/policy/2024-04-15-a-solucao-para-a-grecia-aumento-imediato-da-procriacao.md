@@ -1,11 +1,12 @@
 ---
-title: "A Solução para a Grécia: Aumento Imediato da Procriação"
+title: 'A Solução para a Grécia: Aumento Imediato da Procriação'
 date: 2024-04-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O panorama demográfico na Grécia está enfrentando uma reviravolta preocupante, com o país se encaminhando para ser a primeira nação a sofrer um “colapso populacional”. Mortes súbitas e inesperadas estão em ascensão, enquanto as taxas de fertilidade despencam para níveis alarmantes. Esta é uma questão crítica que demanda atenção imediata e soluções eficazes.
 

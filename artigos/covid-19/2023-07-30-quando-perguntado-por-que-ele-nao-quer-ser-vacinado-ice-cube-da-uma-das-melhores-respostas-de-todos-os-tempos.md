@@ -1,11 +1,13 @@
 ---
-title: "Quando perguntado por que ele não quer ser vacinado, Ice Cube dá uma das melhores respostas de todos os tempos"
+title: Quando perguntado por que ele não quer ser vacinado, Ice Cube dá uma das melhores
+  respostas de todos os tempos
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *“Não há consequências se eles estiverem errados. Mas eu recebo todas as consequências se eles estiverem errados."*
 

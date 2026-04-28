@@ -1,11 +1,12 @@
 ---
-title: "Seguro rural teve adesão de quase 10 mil produtores do Pronaf"
+title: Seguro rural teve adesão de quase 10 mil produtores do Pronaf
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O projeto-piloto de subvenção ao prêmio do seguro rural em 2020 resultou na contratação de 10 mil apólices, o que representou uma área segurada de aproximadamente 282 mil hectares e um valor segurado de R$ 937 milhões. O projeto é voltado para operações enquadradas no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) para as culturas de milho 1ª safra, soja, banana, maçã e uva, no âmbito do Programa de Seguro Rural (PSR).
 

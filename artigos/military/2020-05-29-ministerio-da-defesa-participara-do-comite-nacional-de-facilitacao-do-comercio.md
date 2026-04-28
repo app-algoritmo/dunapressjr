@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Defesa participará do Comitê Nacional de Facilitação do Comércio"
+title: Ministério da Defesa participará do Comitê Nacional de Facilitação do Comércio
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Governo Federal publicou decreto, na quarta-feira (27), em que institui o Comitê Nacional de Facilitação do Comércio. O colegiado atuará para implementar as políticas e as diretrizes de facilitação do comércio estabelecidas pelo Conselho de Estratégia Comercial da Câmara de Comércio Exterior do Ministério da Economia (Camex) e pelo Comitê-Executivo de Gestão da referida Câmara.
 

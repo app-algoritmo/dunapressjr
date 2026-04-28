@@ -1,11 +1,12 @@
 ---
-title: "Voluntários homenageiam equipes em hospitais com mais de mil bonecas de fuxico"
+title: Voluntários homenageiam equipes em hospitais com mais de mil bonecas de fuxico
 date: 2021-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma iniciativa que une 38 costureiras voluntárias a 1.021 profissionais de enfermagem que estão na linha de frente da pandemia. E, mais do que isso, uma ação que liga uma mãe e uma filha, que, há mais de um ano, estão mais distantes do que gostariam por causa da Covid-19. Foram mais de mil bonecas de fuxico produzidas ao longo de 2 meses para distribuir, como forma de homenagem, à equipe que tem se dedicado dia após dia aos pacientes. Entre as voluntárias, a dona de casa Ester do Carmo Gomes, que entrou para o grupo motivada pela filha enfermeira e viu no voluntariado um alento durante a pandemia. 
 

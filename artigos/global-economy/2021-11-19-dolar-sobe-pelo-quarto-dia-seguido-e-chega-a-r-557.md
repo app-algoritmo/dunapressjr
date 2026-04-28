@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe pelo quarto dia seguido e chega a R$ 5,57"
+title: Dólar sobe pelo quarto dia seguido e chega a R$ 5,57
 date: 2021-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 0,51% e continua no menor nível em um ano.
 

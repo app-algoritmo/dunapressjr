@@ -1,11 +1,12 @@
 ---
-title: "Mutirão nacional permite negociar dívidas até 30 de novembro"
+title: Mutirão nacional permite negociar dívidas até 30 de novembro
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### BC, Procon e vários órgãos promovem ação conjunta.
 

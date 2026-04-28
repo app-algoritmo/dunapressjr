@@ -1,11 +1,13 @@
 ---
-title: "Brasil firma acordo multilateral que agilizará o despacho de mercadorias nos fluxos do comércio internacional"
+title: Brasil firma acordo multilateral que agilizará o despacho de mercadorias nos
+  fluxos do comércio internacional
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acordo de Reconhecimento Mútuo do programa Operador Econômico Autorizado (OEA) foi assinado pela Receita Federal com outros dez países das Américas e Caribe.
 

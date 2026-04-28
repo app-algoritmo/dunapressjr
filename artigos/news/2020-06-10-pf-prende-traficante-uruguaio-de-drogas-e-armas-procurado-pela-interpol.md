@@ -1,11 +1,12 @@
 ---
-title: "PF prende traficante uruguaio de drogas e armas procurado pela Interpol"
+title: PF prende traficante uruguaio de drogas e armas procurado pela Interpol
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santana do Livramento/RS – A Polícia Federal localizou e prendeu, na segunda-feira (8/6), um ex-policial uruguaio foragido da Justiça daquele país por crime de tráfico de drogas.
 

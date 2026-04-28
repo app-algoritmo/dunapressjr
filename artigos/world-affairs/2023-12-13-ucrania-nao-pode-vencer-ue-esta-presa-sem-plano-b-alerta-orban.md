@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia não pode vencer, UE está ‘presa’ sem plano B, alerta Orbán"
+title: Ucrânia não pode vencer, UE está ‘presa’ sem plano B, alerta Orbán
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O primeiro-ministro húngaro disse que os líderes da UE ainda não estão dispostos a admitir este erro, continuando a fornecer armas à Ucrânia, sem aparente fim à vista para o conflito.
 

@@ -1,11 +1,13 @@
 ---
-title: "PPP da Nova Ceasa do Piauí conquista primeiro lugar em premiação feita pela ONU"
+title: PPP da Nova Ceasa do Piauí conquista primeiro lugar em premiação feita pela
+  ONU
 date: 2021-04-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Unece/ONU anunciou os vencedores na manhã desta sexta-feira. Em segundo lugar ficou a PPP da Espanha e em terceiro, um projeto das Filipinas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Portaria amplia lista de produtos de Importação que terão alíquotas zeradas até 30 de setembro"
+title: Portaria amplia lista de produtos de Importação que terão alíquotas zeradas
+  até 30 de setembro
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 São produtos enviados por remessa postal ou por encomenda aérea internacional
 Com o objetivo de facilitar o combate à pandemia da Covid-19, o Ministério da Economia ampliou a lista de produtos enviados por remessa postal ou por encomenda aérea internacional que terão as alíquotas de Imposto de Importação zeradas até 30 de setembro de 2020.

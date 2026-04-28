@@ -1,11 +1,12 @@
 ---
-title: "Receita atualiza regras de controle de entrada e saída de dinheiro"
+title: Receita atualiza regras de controle de entrada e saída de dinheiro
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Limite de moeda em espécie passará de R$ 10 mil para US$ 10 mil.
 

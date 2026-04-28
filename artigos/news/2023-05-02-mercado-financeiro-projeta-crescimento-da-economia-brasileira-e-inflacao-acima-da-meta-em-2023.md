@@ -1,11 +1,13 @@
 ---
-title: "Mercado financeiro projeta crescimento da economia brasileira e inflação acima da meta em 2023"
+title: Mercado financeiro projeta crescimento da economia brasileira e inflação acima
+  da meta em 2023
 date: 2023-05-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação deve ficar em 6,05% este ano, diz Boletim Focus.
 

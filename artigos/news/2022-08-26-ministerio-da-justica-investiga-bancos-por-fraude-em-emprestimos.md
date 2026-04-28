@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Justiça investiga bancos por fraude em empréstimos"
+title: Ministério da Justiça investiga bancos por fraude em empréstimos
 date: 2022-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Denúncia foi apresentada pela Defensoria Pública do Rio de Janeiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Explosões na Ucrânia e possíveis negociações entre a Federação Russa e o Ocidente"
+title: Explosões na Ucrânia e possíveis negociações entre a Federação Russa e o Ocidente
 date: 2022-10-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Tópicos do briefing de Peskov.
 

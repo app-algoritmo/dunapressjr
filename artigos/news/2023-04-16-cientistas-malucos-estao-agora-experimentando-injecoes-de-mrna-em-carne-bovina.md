@@ -1,11 +1,12 @@
 ---
-title: "Cientistas malucos estão agora experimentando injeções de mRNA em carne bovina"
+title: Cientistas malucos estão agora experimentando injeções de mRNA em carne bovina
 date: 2023-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Cientistas nos Estados Unidos estão recebendo financiamento maciço para testar [novos sistemas de vacinas de mRNA em roedores, gado e produtos agrícolas](https://www.theorganicprepper.com/mrna-vaccines-in-meat/) . A natureza deletéria da plataforma de mRNA e as falhas mortais de sua aplicação em populações humanas não impediram o governo dos EUA de financiar novos experimentos de mRNA para a reengenharia de animais, alimentos e humanos. Cientistas loucos agora estão experimentando injeções de mRNA em carne bovina, aves, suína e produtos agrícolas. Atualmente, não há leis para proteger o suprimento de alimentos e o genoma humano de um ataque de experimentos de mRNA e da produção em massa e implantação de armas biológicas dentro de animais e produtos.
 

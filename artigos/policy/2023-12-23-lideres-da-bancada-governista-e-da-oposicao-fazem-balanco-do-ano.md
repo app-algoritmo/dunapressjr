@@ -1,11 +1,12 @@
 ---
-title: "Líderes da bancada governista e da oposição fazem balanço do ano"
+title: Líderes da bancada governista e da oposição fazem balanço do ano
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Governo aprovação da reforma tributária; oposição cobra respeito a opiniões divergentes.
 

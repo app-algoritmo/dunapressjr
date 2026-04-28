@@ -1,11 +1,13 @@
 ---
-title: "A tecnologia de mRNA acaba de entrar em uma fase de desenvolvimento totalmente nova e muito mais sombria"
+title: A tecnologia de mRNA acaba de entrar em uma fase de desenvolvimento totalmente
+  nova e muito mais sombria
 date: 2023-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **Vacina de mRNA COVID-19: possível ataque através do suprimento de alimentos**
 

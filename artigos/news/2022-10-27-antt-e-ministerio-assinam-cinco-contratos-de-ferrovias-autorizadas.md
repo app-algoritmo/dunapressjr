@@ -1,11 +1,12 @@
 ---
-title: "ANTT e ministério assinam cinco contratos de ferrovias autorizadas"
+title: ANTT e ministério assinam cinco contratos de ferrovias autorizadas
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Autorizações geram investimentos de R$ 16,5 bi em três estados.
 

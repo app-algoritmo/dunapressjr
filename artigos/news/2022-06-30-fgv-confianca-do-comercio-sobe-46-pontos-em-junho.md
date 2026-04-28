@@ -1,11 +1,12 @@
 ---
-title: "FGV: confiança do comércio sobe 4,6 pontos em junho"
+title: 'FGV: confiança do comércio sobe 4,6 pontos em junho'
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice de Situação Atual avançou 7,4 pontos.
 

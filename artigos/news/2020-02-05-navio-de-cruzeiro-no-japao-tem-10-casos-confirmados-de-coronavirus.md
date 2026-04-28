@@ -1,11 +1,12 @@
 ---
-title: "Navio de cruzeiro no Japão tem 10 casos confirmados de coronavírus"
+title: Navio de cruzeiro no Japão tem 10 casos confirmados de coronavírus
 date: 2020-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Navio está ancorado ao largo da costa da cidade de Yokohama*
 

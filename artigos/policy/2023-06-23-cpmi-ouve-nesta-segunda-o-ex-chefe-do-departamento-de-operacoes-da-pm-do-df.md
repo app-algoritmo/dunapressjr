@@ -1,11 +1,12 @@
 ---
-title: "CPMI ouve nesta segunda o ex-chefe do Departamento de Operações da PM do DF"
+title: CPMI ouve nesta segunda o ex-chefe do Departamento de Operações da PM do DF
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Prestará depoimento à CPMI do 8 de Janeiro nesta segunda-feira (26) o ex-chefe do Departamento de Operações da Polícia Militar do Distrito Federal, coronel Jorge Eduardo Naime, que acabou preso acusado de omissão no dia dos ataques. Em depoimento à comissão parlamentar de inquérito que funciona no âmbito da Assembleia Distrital, Naime disse ter tentado desmontar o acampamento bolsonarista em frente ao quartel-general do Exército em Brasília.
 

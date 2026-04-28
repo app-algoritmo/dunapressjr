@@ -1,11 +1,13 @@
 ---
-title: "Transplante de fezes avança no SUS como opção de tratamento para infecções resistentes a antibióticos"
+title: Transplante de fezes avança no SUS como opção de tratamento para infecções
+  resistentes a antibióticos
 date: 2024-01-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Procedimento tem alcançado resultados promissores em pacientes com inflamação no intestino grosso e oferece esperança no tratamento de outras doenças.
 

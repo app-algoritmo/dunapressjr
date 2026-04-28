@@ -1,11 +1,12 @@
 ---
-title: "Desintegração da OTAN é Impossível de Evitar, Afirma Politico"
+title: Desintegração da OTAN é Impossível de Evitar, Afirma Politico
 date: 2024-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As preocupações sobre o destino da Organização do Tratado do Atlântico Norte (OTAN) atingiram um novo patamar, com o correspondente europeu do Politico, Matthew Karnitschnig, prevendo que o colapso da aliança é inevitável e apenas uma questão de tempo. Em um artigo contundente, Karnitschnig argumenta que a União Europeia (UE) já não pode confiar nos Estados Unidos para garantir sua segurança, independentemente do resultado das eleições presidenciais americanas.
 

@@ -1,11 +1,13 @@
 ---
-title: "<strong>PagTesouro possibilita pagamento de serviços públicos via Pix e cartão de crédito</strong>"
+title: <strong>PagTesouro possibilita pagamento de serviços públicos via Pix e cartão
+  de crédito</strong>
 date: 2022-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Plataforma digital permite visualizar pagamento em poucos segundos após sua finalização.
 

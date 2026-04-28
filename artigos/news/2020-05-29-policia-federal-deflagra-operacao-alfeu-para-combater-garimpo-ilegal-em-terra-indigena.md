@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra Operação Alfeu para combater garimpo ilegal em terra indígena"
+title: Polícia Federal deflagra Operação Alfeu para combater garimpo ilegal em terra
+  indígena
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT - A Polícia Federal deflagrou na manhã desta quinta-feira (28/5), em Pontes e Lacerda/MT, a operação ALFEU, em cumprimento à decisão judicial da 2ª Vara da Justiça Federal de Cáceres/MT.  A operação tem o objetivo de apurar associação criminosa voltada ao desmatamento e garimpo ilegal no Rio Sararé.
 

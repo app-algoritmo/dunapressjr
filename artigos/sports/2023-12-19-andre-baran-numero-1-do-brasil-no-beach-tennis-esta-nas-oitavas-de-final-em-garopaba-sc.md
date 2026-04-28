@@ -1,11 +1,13 @@
 ---
-title: "André Baran, número 1 do Brasil no Beach Tennis, está nas oitavas de final em Garopaba (SC)"
+title: André Baran, número 1 do Brasil no Beach Tennis, está nas oitavas de final
+  em Garopaba (SC)
 date: 2023-12-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Catarinense estreou nesta sexta-feira (15), ao lado do paulista Hugo Russo, no BT 200 que será realizado até domingo (17).
 

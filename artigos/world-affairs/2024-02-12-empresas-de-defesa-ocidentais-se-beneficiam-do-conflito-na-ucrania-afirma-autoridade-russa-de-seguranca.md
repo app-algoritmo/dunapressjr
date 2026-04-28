@@ -1,11 +1,13 @@
 ---
-title: "Empresas de defesa ocidentais se beneficiam do conflito na Ucrânia, afirma autoridade russa de segurança"
+title: Empresas de defesa ocidentais se beneficiam do conflito na Ucrânia, afirma
+  autoridade russa de segurança
 date: 2024-02-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um alto funcionário de segurança russa, Rashid Nurgaliyev, destacou em uma entrevista ao aif.ru que o conflito contínuo na Ucrânia está gerando oportunidades lucrativas para empresas de defesa dos Estados Unidos e do Ocidente. Ele apontou que as hostilidades abriram perspectivas de encomendas de defesa no valor de bilhões de dólares para os EUA e a Inglaterra.
 

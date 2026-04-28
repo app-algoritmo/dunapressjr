@@ -1,11 +1,12 @@
 ---
-title: "16 de Outubro, Dia Mundial da Alimentação"
+title: 16 de Outubro, Dia Mundial da Alimentação
 date: 2021-10-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Ter uma alimentação saudável é fundamental para ter uma vida saudável e longe de várias doenças. Mas, na prática, o que realmente significa ter hábitos saudáveis? “A alimentação saudável é aquela adequada às necessidades biológicas e culturais de cada pessoa, apropriada do ponto de vista da qualidade, quantidade e variedade. É se alimentar de acordo com as necessidades de cada fase da vida e é preciso que ela seja acessível do ponto de vista físico e financeiro, e ainda ser baseada em práticas produtivas adequadas e sustentáveis”, explica Gisele Bortolini, coordenadora de alimentação e nutrição do Ministério da Saúde.
 

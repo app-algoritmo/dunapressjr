@@ -1,11 +1,12 @@
 ---
-title: "Esquerda se fortalece com Ex-Presidente Lula solto?"
+title: Esquerda se fortalece com Ex-Presidente Lula solto?
 date: 2019-11-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Visto como “preso político” perante os olhos de seus militantes, mas também por simpáticos da esquerda de todo mundo, ex-presidente Lula saiu no fim da tarde de sexta-feira, (dia 8 de novembro de 2019) da prisão da PF em Curitiba após decisão judicial, e subiu diretamente em um palanque para falar com os cerca de 200 militantes presentes no local. Tudo isso graças a decisão do STF (Supremo Tribunal Federal), que literalmente rasgou sua decisão após três anos, sobre prisão após condenação em segunda instância, declarando inconstitucional prender condenados em 2ª instância. Sendo que neste período, não houve qualquer mudança de conjuntura em termos de jurisprudência, leis ou Constituição, ou seja, repentina mudança de “opinião” dos ministros do STF, mas sim se trata de um gigantesco abuso de poder com a consequência única de beneficiar criminosos, sendo assim, com base nesta decisão, os réus condenados só poderão ser presos depois de esgotados todos os recursos. 
 

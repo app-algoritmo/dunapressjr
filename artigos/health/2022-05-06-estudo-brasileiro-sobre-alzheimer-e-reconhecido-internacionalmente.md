@@ -1,11 +1,12 @@
 ---
-title: "Estudo brasileiro sobre Alzheimer é reconhecido internacionalmente"
+title: Estudo brasileiro sobre Alzheimer é reconhecido internacionalmente
 date: 2022-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A contribuição dos fatores de risco vascular para o desenvolvimento da doença de Alzheimer é o tema da pesquisa de João Pedro Ferrari Souza, bolsista do Programa de Doutorado-Sanduíche (PDSE) da CAPES, na *University of Pittsburgh* (EUA). Aos 22 anos ele é aluno de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS) e foi bolsista do programa MD-PhD da Fundação, que lhe permitiu executar o projeto de doutorado, simultaneamente à graduação.
 

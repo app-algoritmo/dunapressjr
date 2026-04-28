@@ -1,10 +1,11 @@
 ---
-title: "Semana Brasil começou nesta quinta com promoções e ofertas para os consumidores"
+title: Semana Brasil começou nesta quinta com promoções e ofertas para os consumidores
 date: 2026-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 

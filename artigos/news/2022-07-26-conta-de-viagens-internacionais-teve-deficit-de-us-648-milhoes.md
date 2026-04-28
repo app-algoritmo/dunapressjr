@@ -1,11 +1,12 @@
 ---
-title: "Conta de viagens internacionais teve déficit de US$ 648 milhões"
+title: Conta de viagens internacionais teve déficit de US$ 648 milhões
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gastos com viagens ao exterior estão normalizando.
 

@@ -1,11 +1,12 @@
 ---
-title: "Serviços crescem 1,7% de fevereiro para março, diz IBGE"
+title: Serviços crescem 1,7% de fevereiro para março, diz IBGE
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Transporte aéreo influenciou a segunda alta seguida do setor.
 

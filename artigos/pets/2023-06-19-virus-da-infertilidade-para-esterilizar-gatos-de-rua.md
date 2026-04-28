@@ -1,11 +1,12 @@
 ---
-title: "'Vírus da infertilidade' para esterilizar gatos de rua"
+title: '''Vírus da infertilidade'' para esterilizar gatos de rua'
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Pets
+- Pets
 ---
+
 
 Nova abordagem de terapia genética que também pode funcionar em humanos
 

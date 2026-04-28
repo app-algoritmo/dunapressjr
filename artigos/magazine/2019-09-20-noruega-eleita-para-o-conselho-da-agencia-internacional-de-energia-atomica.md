@@ -1,11 +1,12 @@
 ---
-title: "Noruega eleita para o Conselho da Agência Internacional de Energia Atômica"
+title: Noruega eleita para o Conselho da Agência Internacional de Energia Atômica
 date: 2019-09-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## A Noruega foi eleita, essa semana, para o Conselho da Agência Internacional de Energia Atômica (AIEA) para 2019-2021. A eleição ocorreu durante a Conferência Geral da AIEA.
 

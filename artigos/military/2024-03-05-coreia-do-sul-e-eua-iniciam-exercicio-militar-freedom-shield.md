@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Sul e EUA iniciam exercício militar Freedom Shield"
+title: Coreia do Sul e EUA iniciam exercício militar Freedom Shield
 date: 2024-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 A República da Coreia e os Estados Unidos deram início ao exercício militar conjunto Freedom Shield, conforme anunciado pela agência de notícias Yonhap. Esse exercício, que se estenderá até 14 de março, visa fortalecer a prontidão e a coordenação entre as forças armadas dos dois países.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova direito à troca de implante mamário para paciente de câncer"
+title: Câmara aprova direito à troca de implante mamário para paciente de câncer
 date: 2023-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (8) projeto de lei que garante à mulher o direito de troca de implante mamário colocado em virtude de tratamento de câncer sempre que houver complicações ou efeitos adversos. A proposta será enviada à sanção presidencial.
 

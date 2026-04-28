@@ -1,11 +1,13 @@
 ---
-title: "O que falta para que crianças brasileiras aprendam a ler e escrever na idade certa?"
+title: O que falta para que crianças brasileiras aprendam a ler e escrever na idade
+  certa?
 date: 2023-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Somente quatro a cada dez crianças brasileiras concluíram o 2º ano do Ensino Fundamental alfabetizadas em 2021. Os dados foram apresentados em uma reunião entre o Ministério da Educação (MEC) e a União Nacional de Dirigentes Municipais de Educação (Undime) e mostram um cenário desolador no país. Quase metade dos estudantes brasileiros não está aprendendo a ler e escrever na idade que deveria.
 

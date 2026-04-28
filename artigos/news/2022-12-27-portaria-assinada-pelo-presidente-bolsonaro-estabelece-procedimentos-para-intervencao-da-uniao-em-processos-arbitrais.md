@@ -1,11 +1,13 @@
 ---
-title: "Portaria assinada pelo presidente Bolsonaro, estabelece procedimentos para intervenção da União em processos arbitrais"
+title: Portaria assinada pelo presidente Bolsonaro, estabelece procedimentos para
+  intervenção da União em processos arbitrais
 date: 2022-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A arbitragem é um método de resolução de controvérsias por meio do qual as partes submetem um litígio envolvendo direitos patrimoniais disponíveis à apreciação de um árbitro, ou conjunto de árbitros, atribuindo-lhe a competência exclusiva para dirimir a controvérsia.
 

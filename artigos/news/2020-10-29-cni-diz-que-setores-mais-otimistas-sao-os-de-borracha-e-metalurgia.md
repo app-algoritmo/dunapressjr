@@ -1,11 +1,12 @@
 ---
-title: "CNI diz que setores mais otimistas são os de borracha e metalurgia"
+title: CNI diz que setores mais otimistas são os de borracha e metalurgia
 date: 2020-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve alta em 13 segmentos industriais e recuo em 16.
 

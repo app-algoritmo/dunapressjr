@@ -1,11 +1,13 @@
 ---
-title: "Instituições de São Paulo e do Amapá entram em Comitê Nacional de Enfrentamento ao Tráfico de Pessoas"
+title: Instituições de São Paulo e do Amapá entram em Comitê Nacional de Enfrentamento
+  ao Tráfico de Pessoas
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Já ouviu falar em tráfico de pessoas? Acha que isso só acontece lá fora, longe da sua realidade? Infelizmente, é um crime que pode envolver uma pessoa próxima, e perto da sua casa, da sua família. Mas o poder público enfrenta esse problema com mais força quando a população ajuda, quando você participa das políticas públicas.
 

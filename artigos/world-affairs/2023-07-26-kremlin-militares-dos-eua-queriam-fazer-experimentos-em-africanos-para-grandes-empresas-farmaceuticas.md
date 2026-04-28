@@ -1,11 +1,13 @@
 ---
-title: "Kremlin: militares dos EUA queriam fazer experimentos em africanos para grandes empresas farmacêuticas"
+title: 'Kremlin: militares dos EUA queriam fazer experimentos em africanos para grandes
+  empresas farmacêuticas'
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As alegações dizem respeito à Metabiota, uma empresa ligada ao filho do presidente dos EUA, Joe Biden, Hunter.
 

@@ -1,11 +1,13 @@
 ---
-title: "Avanço na relação entre Brasil e Estados Unidos é destacado durante evento com empresários dos dois países"
+title: Avanço na relação entre Brasil e Estados Unidos é destacado durante evento
+  com empresários dos dois países
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Secretário especial adjunto de Comércio Exterior e Assuntos Internacionais apontou impacto positivo de medidas do governo como causa para a melhora do ambiente de negócios.
 

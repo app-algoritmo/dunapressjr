@@ -1,11 +1,13 @@
 ---
-title: "Índice de Variação de Aluguéis Residenciais (IVAR) cai para -1,74% em setembro de 2023"
+title: Índice de Variação de Aluguéis Residenciais (IVAR) cai para -1,74% em setembro
+  de 2023
 date: 2023-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa acumulada em 12 meses recua de 7,49% para 5,64.
 

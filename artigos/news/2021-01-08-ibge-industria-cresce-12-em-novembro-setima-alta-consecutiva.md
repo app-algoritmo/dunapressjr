@@ -1,11 +1,12 @@
 ---
-title: "IBGE: indústria cresce 1,2% em novembro, sétima alta consecutiva"
+title: 'IBGE: indústria cresce 1,2% em novembro, sétima alta consecutiva'
 date: 2021-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado em 12 meses, queda é de 5,2%.
 

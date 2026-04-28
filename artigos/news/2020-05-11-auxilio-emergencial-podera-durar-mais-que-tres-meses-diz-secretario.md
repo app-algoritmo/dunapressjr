@@ -1,11 +1,12 @@
 ---
-title: "Auxílio emergencial poderá durar mais que três meses, diz secretário"
+title: Auxílio emergencial poderá durar mais que três meses, diz secretário
 date: 2020-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Benefício poderá ser mantido ou desmontado gradualmente
 Criado para aliviar a perda de renda da população afetada pela crise econômica gerada pela covid-19, o auxílio emergencial de R$ 600 (R$ 1,2 mil para mães solteiras) poderá ser mantido após o fim da pandemia. A afirmação é do secretário especial de Produtividade, Emprego e Competitividade do Ministério da Economia, Carlos da Costa, que participou nesta segunda-feira (11) de transmissão ao vivo promovida pelo banco BTG Pactual.

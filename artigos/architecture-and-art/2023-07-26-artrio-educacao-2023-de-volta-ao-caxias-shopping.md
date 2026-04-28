@@ -1,12 +1,13 @@
 ---
-title: "ArtRio Educação 2023 de volta ao Caxias Shopping"
+title: ArtRio Educação 2023 de volta ao Caxias Shopping
 date: 2023-07-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Events
+- Architecture and Art
+- Events
 ---
+
 
 ## Com a temática “Arte Popular Brasileira”, exposição ficará até 06 de agosto.
 

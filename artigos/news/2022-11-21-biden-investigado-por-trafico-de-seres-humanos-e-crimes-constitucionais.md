@@ -1,11 +1,12 @@
 ---
-title: "Biden investigado por tráfico de seres humanos e crimes constitucionais"
+title: Biden investigado por tráfico de seres humanos e crimes constitucionais
 date: 2022-11-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A administracao Biden passa por momentos turbulentos desde sua posse e a partir de agora nao será menos difícil.
 

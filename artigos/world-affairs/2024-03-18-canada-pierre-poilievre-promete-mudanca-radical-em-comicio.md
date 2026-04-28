@@ -1,11 +1,12 @@
 ---
-title: "Canadá: Pierre Poilievre promete mudança radical em comício"
+title: 'Canadá: Pierre Poilievre promete mudança radical em comício'
 date: 2024-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Pierre Poilievre, líder da oposição canadense, assumiu o centro do palco em um comício em Toronto, prometendo uma agenda clara para a mudança. Diante de uma multidão entusiasmada, Poilievre delineou seus planos para devolver o controle sobre aspectos importantes da vida aos cidadãos.
 

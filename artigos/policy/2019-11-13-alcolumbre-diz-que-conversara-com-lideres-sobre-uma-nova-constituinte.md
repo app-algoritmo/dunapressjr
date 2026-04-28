@@ -1,11 +1,12 @@
 ---
-title: "Alcolumbre diz que conversará com líderes sobre uma nova Constituinte"
+title: Alcolumbre diz que conversará com líderes sobre uma nova Constituinte
 date: 2019-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado e do Congresso, Davi Alcolumbre
 (DEM-AP), afirmou nesta terça-feira que irá conversar com os líderes sobre uma

@@ -1,11 +1,12 @@
 ---
-title: "Lula mesmo que libertado continuará sendo Lula"
+title: Lula mesmo que libertado continuará sendo Lula
 date: 2020-05-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 A libertação do ex-presidente do Brasil não prova sua inocência, longe disso, foi simplesmente baseada em um critério processual.
 

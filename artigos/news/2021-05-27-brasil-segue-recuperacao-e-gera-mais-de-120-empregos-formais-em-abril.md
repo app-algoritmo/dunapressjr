@@ -1,11 +1,12 @@
 ---
-title: "Brasil segue recuperação e gera mais de 120 empregos formais em abril"
+title: Brasil segue recuperação e gera mais de 120 empregos formais em abril
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do ano foram quase 1 milhão de empregos com CLT somente de janeiro a abril.
 

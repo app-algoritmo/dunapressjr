@@ -1,11 +1,13 @@
 ---
-title: "Plenário aprova projeto que define rateio entre estados e municípios dos recursos do pré-sal"
+title: Plenário aprova projeto que define rateio entre estados e municípios dos recursos
+  do pré-sal
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Plenário da Câmara dos Deputados aprovou nesta
 quarta-feira (9) o Projeto de Lei 5478/19, que define o rateio, entre estados e

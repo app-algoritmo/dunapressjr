@@ -1,11 +1,13 @@
 ---
-title: "Estiagem em SC: Governo do Estado investe R$ 76,6 milhões para amenizar impacto sobre a população"
+title: 'Estiagem em SC: Governo do Estado investe R$ 76,6 milhões para amenizar impacto
+  sobre a população'
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Assim como milhares de pequenos produtores rurais que contribuem para o sucesso do agronegócio catarinense, a família Bortese convive há meses com os efeitos devastadores causados pela estiagem em Santa Catarina. Com a produção dedicada à bovinocultura de leite e avicultura de corte, estimam que a provisão de ração animal não dure mais que 40 dias. Para piorar, a alta demanda pelos insumos esgotou a oferta no mercado, não antes das pastagens, que fatalmente sucumbiram à pior crise hídrica dos últimos 15 anos no Estado.
 

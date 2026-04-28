@@ -1,11 +1,13 @@
 ---
-title: "Participar do cotidiano escolar é uma ferramenta fundamental para potencializar o desenvolvimento dos pequenos"
+title: Participar do cotidiano escolar é uma ferramenta fundamental para potencializar
+  o desenvolvimento dos pequenos
 date: 2021-10-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A mão que segura firme outra mão que, por sua vez, agarra o lápis para desenhar as primeiras letras do alfabeto. O olhar atento que ajuda a compreender melhor o que os livros didáticos estão dizendo. O pedido de ajuda para os professores quando a própria compreensão não alcança os limites do conteúdo ensinado. De acordo com o Programa Internacional de Avaliação de Estudantes (Pisa), filhos que têm a participação dos pais nos processos de aprendizagem conseguem um melhor desempenho na vida escolar.
 

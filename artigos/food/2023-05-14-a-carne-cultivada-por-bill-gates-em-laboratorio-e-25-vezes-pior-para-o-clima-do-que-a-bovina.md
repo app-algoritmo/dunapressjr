@@ -1,11 +1,13 @@
 ---
-title: "A 'carne' cultivada por Bill Gates em laboratório é 25 vezes pior para o clima do que a bovina"
+title: A 'carne' cultivada por Bill Gates em laboratório é 25 vezes pior para o clima
+  do que a bovina
 date: 2023-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## A "carne sintética" do laboratório, elogiada pelo co-fundador da Microsoft, Bill Gates, é muito mais poluente do que a carne bovina, mostra um novo estudo.
 

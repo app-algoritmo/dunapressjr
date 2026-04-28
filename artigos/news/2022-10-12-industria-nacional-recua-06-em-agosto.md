@@ -1,11 +1,12 @@
 ---
-title: "Indústria nacional recua 0,6% em agosto"
+title: Indústria nacional recua 0,6% em agosto
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### IBGE disse que, no Pará, queda foi de 6,2%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Não há verba no orçamento para pagar Banco do Brics, diz ministério"
+title: Não há verba no orçamento para pagar Banco do Brics, diz ministério
 date: 2021-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Brasil deve US$ 292 milhões para aporte de capital na instituição.
 

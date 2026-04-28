@@ -1,11 +1,13 @@
 ---
-title: "Bill Gates na política de saúde pública do COVID e seus controversos laços com Jeffrey Epstein"
+title: Bill Gates na política de saúde pública do COVID e seus controversos laços
+  com Jeffrey Epstein
 date: 2023-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 **Bill Gates, empresário bilionário e filantropo, há muito é reconhecido como uma figura benevolente dedicada a melhorar a saúde pública global. A realidade, porém, pode ser bem diferente dessa imagem cuidadosamente cultivada.**
 

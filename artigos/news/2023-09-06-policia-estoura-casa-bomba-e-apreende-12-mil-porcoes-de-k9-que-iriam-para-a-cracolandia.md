@@ -1,11 +1,13 @@
 ---
-title: "Polícia estoura casa bomba e apreende 12 mil porções de K9 que iriam para a Cracolândia"
+title: Polícia estoura casa bomba e apreende 12 mil porções de K9 que iriam para a
+  Cracolândia
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Entorpecentes estavam enterrados em dois buracos feitos no piso de um imóvel em Guaianases, na zona leste da capital.
 

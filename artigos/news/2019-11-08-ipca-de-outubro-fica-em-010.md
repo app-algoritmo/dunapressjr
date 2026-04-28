@@ -1,11 +1,12 @@
 ---
-title: "IPCA de outubro fica em 0,10%"
+title: IPCA de outubro fica em 0,10%
 date: 2019-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Índice Nacional de Preços ao Consumidor Amplo - IPCA do mês de outubro apresentou variação de 0,10%, enquanto, em setembro, havia registrado -0,04%. Este é o menor resultado para um mês de outubro desde 1998, quando o IPCA ficou em 0,02%. No acumulado do ano, o índice registrou 2,60% e, na ótica dos últimos doze meses, o índice ficou em 2,54%, abaixo dos 2,89% registrados nos 12 meses imediatamente anteriores. Em outubro de 2018, a taxa foi de 0,45%.
 

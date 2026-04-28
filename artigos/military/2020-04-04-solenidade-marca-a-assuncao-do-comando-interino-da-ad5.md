@@ -1,11 +1,12 @@
 ---
-title: "Solenidade marca a assunção do comando interino da AD/5"
+title: Solenidade marca a assunção do comando interino da AD/5
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Curitiba (PR) –** No dia 31 de março, foi realizada a passagem do comando interino da Artilharia Divisionária da 5ª Divisão de Exército (AD/5), no Forte Pinheirinho. Na ocasião, o Tenente-Coronel **Paulo Henrique Camara da Cunha** entregou o comando para o Coronel **Cesar Augusto Rosa de Araújo**.
 

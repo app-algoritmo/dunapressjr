@@ -1,11 +1,12 @@
 ---
-title: "Isenção Federal para compras online gera polêmica e entra em vigor no Brasil"
+title: Isenção Federal para compras online gera polêmica e entra em vigor no Brasil
 date: 2023-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entidades do varejo questionam a medida, enquanto sites de compras celebram a nova regulamentação.
 

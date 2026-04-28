@@ -1,11 +1,12 @@
 ---
-title: "MEC realiza segunda reunião sobre ações contra o coronavírus"
+title: MEC realiza segunda reunião sobre ações contra o coronavírus
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O Comitê Operativo de Emergência (COE), coordenado pelo Ministério da Educação, discutiu, nesta última quinta-feira, 19 de março, novas ações para mitigar os efeitos das mudanças na rotina da área de ensino devido ao coronavírus. O ministro da Educação, Abraham Weintraub, abriu o encontro.
 

@@ -1,11 +1,12 @@
 ---
-title: "O zinco oral duas vezes ao dia ajuda a tratar eficazmente o COVID-19"
+title: O zinco oral duas vezes ao dia ajuda a tratar eficazmente o COVID-19
 date: 2023-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Pesquisadores da Tunísia, nação do norte da África, investigam o uso de zinco oral duas vezes como um regime direcionado ao SARS-CoV-2. Semir Nouira, da [Universidade de Monastir](http://www.um.rnu.tn/en/) , Departamento de Emergência e Pesquisa de Laboratório, e seus colegas projetaram um estudo clínico multicêntrico prospectivo, randomizado, duplo-cego e controlado por placebo, investigando o uso da suplementação de zinco como uma terapia potencial direcionada ao SARS-CoV-2, o vírus por trás COVID 19. Recrutando, randomizando e inscrevendo pacientes com COVID-19 sem falência de órgãos-alvo, 231 pacientes receberam zinco oral e 239 participantes receberam um placebo correspondente por 15 dias. O protocolo do estudo incluiu os seguintes desfechos primários: A) morte por COVID-19 e B) admissão em unidade de terapia intensiva (UTI) ≤30 dias após a randomização, bem como endpoints secundários, incluindo A) duração da hospitalização para pacientes internados e B) duração dos sintomas de COVID-19 para pacientes ambulatoriais com teste positivo para o novo coronavírus. As descobertas sugerem que um regime oral de zinco duas vezes ao dia ajuda a tratar o SARS-CoV-2, o vírus por trás do COVID-19.*
 

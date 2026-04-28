@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, Noruega registra 212 novos casos em 24 horas e alerta para mortes no futuro"
+title: Coronavírus, Noruega registra 212 novos casos em 24 horas e alerta para mortes
+  no futuro
 date: 2020-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Nas últimas 24 horas, o Instituto Nacional de Saúde Pública informou que mais 212 pessoas testaram positivo para coronavírus. No total, 489 pessoas estão infectadas na Noruega.
 

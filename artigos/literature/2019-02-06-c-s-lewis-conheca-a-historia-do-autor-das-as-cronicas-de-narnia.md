@@ -1,12 +1,13 @@
 ---
-title: "C. S. Lewis, conheça a história do autor das 'As crônicas de Nárnia'"
+title: C. S. Lewis, conheça a história do autor das 'As crônicas de Nárnia'
 date: 2019-02-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
-  - Opinion
+- Literature
+- Opinion
 ---
+
 
 Meu contato com o autor
 

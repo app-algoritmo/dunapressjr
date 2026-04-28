@@ -1,11 +1,12 @@
 ---
-title: "Respiração do vinho: entenda o que é e por que ela é importante"
+title: 'Respiração do vinho: entenda o que é e por que ela é importante'
 date: 2022-11-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Alguns procedimentos e detalhes relacionados ao consumo de vinho são menos conhecidos por quem não tem tanta experiência na degustação desta bebida. A **respiração do vinho** é um exemplo disso. 
 

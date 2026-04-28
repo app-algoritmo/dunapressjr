@@ -1,11 +1,12 @@
 ---
-title: "Publicação traz levantamento das decisões do Tribunal em situações emergenciais"
+title: Publicação traz levantamento das decisões do Tribunal em situações emergenciais
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A coletânea pode auxiliar os gestores no desempenho de suas atividades durante a crise da Covid-19
 O Tribunal de Contas da União (TCU) lançou, nesta quinta-feira (7/5), a publicação [“**Levantamento jurisprudencial - destinação e utilização de recursos públicos em situações emergenciais**”](https://portal.tcu.gov.br/destinacao-e-utilizacao-de-recursos-publicos-em-situacoes-emergenciais-levantamento-jurisprudencial.htm), que traz uma **coletânea de decisões do Tribunal que podem balizar a atuação dos gestores das diversas esferas de governo** (federal, estadual e municipal) no enfrentamento da emergência decorrente da pandemia do novo coronavírus.

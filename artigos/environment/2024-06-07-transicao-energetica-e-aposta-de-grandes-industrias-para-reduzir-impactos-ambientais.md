@@ -1,11 +1,12 @@
 ---
-title: "Transição energética é aposta de grandes indústrias para reduzir impactos ambientais"
+title: Transição energética é aposta de grandes indústrias para reduzir impactos ambientais
 date: 2024-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Environment
+- Environment
 ---
+
 
 ## Oportunidades para crescimento de ações sustentáveis são amplas; 42% dos empresários têm como principal foco investir em fontes renováveis, segundo a CNI.
 

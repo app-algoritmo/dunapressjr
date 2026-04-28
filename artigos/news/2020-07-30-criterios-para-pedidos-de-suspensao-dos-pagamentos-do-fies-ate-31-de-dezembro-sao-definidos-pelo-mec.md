@@ -1,11 +1,13 @@
 ---
-title: "Critérios para pedidos de suspensão dos pagamentos do Fies até 31 de dezembro são definidos pelo Mec"
+title: Critérios para pedidos de suspensão dos pagamentos do Fies até 31 de dezembro
+  são definidos pelo Mec
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 1,5 milhão de estudantes podem ser beneficiados. Canais de atendimento para solicitação serão disponibilizados pelos bancos.
 

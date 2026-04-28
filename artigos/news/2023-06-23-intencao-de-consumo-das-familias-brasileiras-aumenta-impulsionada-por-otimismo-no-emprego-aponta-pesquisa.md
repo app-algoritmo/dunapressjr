@@ -1,11 +1,13 @@
 ---
-title: "Intenção de consumo das famílias brasileiras aumenta impulsionada por otimismo no emprego, aponta pesquisa"
+title: Intenção de consumo das famílias brasileiras aumenta impulsionada por otimismo
+  no emprego, aponta pesquisa
 date: 2023-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar do aumento na intenção de compra, restrições de crédito e endividamento limitam o crescimento das vendas, revela estudo da CNC.
 

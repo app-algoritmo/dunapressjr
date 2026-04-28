@@ -1,11 +1,12 @@
 ---
-title: "Surfista paranaense está perto de conquistar uma vaga na elite do esporte"
+title: Surfista paranaense está perto de conquistar uma vaga na elite do esporte
 date: 2023-09-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Luara Mandelli já integra Seleção Brasileira Júnior de Surf e disputa campeonatos para entrar na categoria profissional; patrocínios têm ajudado na rotina de viagens e treinamentos.
 

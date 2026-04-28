@@ -1,11 +1,13 @@
 ---
-title: "Na contramão dos carros, disparada no preço de combustíveis impulsiona produção e venda de motos"
+title: Na contramão dos carros, disparada no preço de combustíveis impulsiona produção
+  e venda de motos
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As vendas de motos estão em alta. Segundo a Federação Nacional da Distribuição de Veículos Automotores (Fenabrave), o mês de novembro fechou com aumento de 15,7% em relação ao mesmo mês do ano passado, atingindo 123,2 mil unidades vendidas. Já ao considerar os onze primeiros meses do ano, foram 1,8 milhão de motos emplacadas no Brasil, correspondendo a uma alta de 17,7% frente ao mesmo período de 2021. Os dados positivos do setor são justificados pela disparada no preço dos combustíveis e a busca por um modal que permita deslocamentos mais baratos. 
 

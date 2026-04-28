@@ -1,11 +1,12 @@
 ---
-title: "PF conclui investigação sobre o incêndio que destruiu o Museu Nacional"
+title: PF conclui investigação sobre o incêndio que destruiu o Museu Nacional
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ – A Polícia Federal concluiu hoje (6/7) a investigação sobre o incêndio do Museu Nacional da Quinta da Boa vista, ocorrido no dia 02 de setembro de 2018, no Rio de Janeiro/RJ.
 

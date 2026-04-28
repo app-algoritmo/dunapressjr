@@ -1,13 +1,15 @@
 ---
-title: "Primeiro livro de História do Brasil de membro da família imperial será lançado em SP"
+title: Primeiro livro de História do Brasil de membro da família imperial será lançado
+  em SP
 date: 2022-06-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - History
-  - News
+- Education
+- History
+- News
 ---
+
 
 “Império de Verdades” conta a história da fundação do Brasil sob a visão e com o testemunho do membro da família imperial brasileira
 

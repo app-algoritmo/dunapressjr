@@ -1,11 +1,12 @@
 ---
-title: "O que a escola não ensina, a vida nos cobra"
+title: O que a escola não ensina, a vida nos cobra
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Hoje, a maioria dos estudantes de 15 anos sabe várias coisas sobre pandemia e poderia explicar aos colegas de sala. Em 2018, antes da Covid-19 e quando o PISA (Programa de Avaliação Internacional de Estudantes) realizou sua última avaliação global, o resultado foi outro. A avaliação perguntou aos alunos se estavam cientes de questões globais de saúde, como pandemias. Em Hong Kong e na Lituânia, mais de 80% dos estudantes responderam que sabiam algo sobre esse tema e poderiam, pelo menos, explicar a questão geral. No entanto, na Arábia Saudita, apenas 53% responderam da mesma forma e na Argentina e na Indonésia, menos da metade, assim como no Brasil.
 

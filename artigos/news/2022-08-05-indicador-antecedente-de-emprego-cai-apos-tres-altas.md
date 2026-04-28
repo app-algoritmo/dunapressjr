@@ -1,11 +1,12 @@
 ---
-title: "Indicador antecedente de emprego cai após três altas"
+title: Indicador antecedente de emprego cai após três altas
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Empregos previstos para o setor de serviços recuaram.
 

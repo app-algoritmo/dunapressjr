@@ -1,11 +1,12 @@
 ---
-title: "Proton Mail: O Serviço de E-mail Focado em Segurança e Privacidade"
+title: 'Proton Mail: O Serviço de E-mail Focado em Segurança e Privacidade'
 date: 2024-07-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Se você está buscando um serviço de e-mail que priorize a segurança e a privacidade, o Proton Mail merece sua consideração. Em tempos de vigilância crescente e riscos de cibersegurança, proteger suas informações pessoais nunca foi tão importante.
 

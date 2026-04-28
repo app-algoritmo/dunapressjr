@@ -1,11 +1,12 @@
 ---
-title: "Governo divulga dados atualizados  sobre população carcerária no Brasil"
+title: Governo divulga dados atualizados  sobre população carcerária no Brasil
 date: 2020-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Departamento Penitenciário Nacional (Depen) divulgou, o Levantamento Nacional de Informações Penitenciárias (Infopen) de 2019. A novidade é que a visualização das informações está mais prática e interativa, e vai possibilitar comparar dados de diferentes anos e categorias. A tecnologia, que está disponível no [site do Depen](http://www.depen.gov.br/), também vai permitir a atualização dos dados com maior celeridade.
 

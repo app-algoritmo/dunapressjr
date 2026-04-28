@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia nova redução de 10% no Imposto de Importação de bens comercializados"
+title: Governo anuncia nova redução de 10% no Imposto de Importação de bens comercializados
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida abrange 6.195 códigos da Nomenclatura Comum do Mercosul para reduzir impactos decorrentes da pandemia e do conflito na Ucrânia sobre o custo de vida da população e preços de insumos do setor produtivo.
 

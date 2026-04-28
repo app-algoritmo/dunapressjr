@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,18 com inflação alta nos Estados Unidos"
+title: Dólar sobe para R$ 5,18 com inflação alta nos Estados Unidos
 date: 2022-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores cai 2,3% e tem maior recuo diário em três meses.
 

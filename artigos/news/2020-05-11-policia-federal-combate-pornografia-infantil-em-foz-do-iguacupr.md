@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate pornografia infantil em Foz do Iguaçu/PR"
+title: Polícia Federal combate pornografia infantil em Foz do Iguaçu/PR
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Foz do Iguaçu/PR –** Na manhã desta segunda-feira (11/05) policiais federais deram cumprimento a dois mandados de busca e apreensão em foz do Iguaçu/PR, expedidos pela 5ª Vara Federal de Foz do Iguaçu/PR, para apreender computadores e mídias de armazenamento, em razão de suposto crime de posse e transmissão de arquivos contendo pornografia infanto-juvenil.
 

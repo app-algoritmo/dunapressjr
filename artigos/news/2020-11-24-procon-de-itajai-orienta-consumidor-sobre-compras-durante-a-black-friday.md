@@ -1,11 +1,12 @@
 ---
-title: "Procon de Itajaí orienta consumidor sobre compras durante a Black Friday"
+title: Procon de Itajaí orienta consumidor sobre compras durante a Black Friday
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Procuradoria de Defesa do Consumidor de Itajaí (Procon) orienta os consumidores a respeito das compras durante a Black Friday, campanha de promoções e produtos com descontos atrativos que ocorre em todo o país nesta sexta-feira (27). O órgão destaca que é fundamental pesquisar preços, prazos de entrega e de troca dos produtos, assim como as formas de pagamento. E alerta para possíveis fraudes e golpes em sites de procedência duvidosa.
 

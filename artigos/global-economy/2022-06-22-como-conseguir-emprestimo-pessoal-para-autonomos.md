@@ -1,11 +1,12 @@
 ---
-title: "Como conseguir empréstimo pessoal para autônomos?"
+title: Como conseguir empréstimo pessoal para autônomos?
 date: 2022-06-22
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Às vezes, aparecem algumas contas das quais não era possível prever. Mediante essa situação, uma das soluções pode ser a de solicitar um empréstimo pessoal. No entanto, no caso de você ser autônomo, é possível que se questione sobre como conseguir esse crédito.
 

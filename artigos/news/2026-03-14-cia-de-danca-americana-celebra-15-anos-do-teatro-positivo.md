@@ -1,11 +1,12 @@
 ---
-title: "Cia de dança americana celebra 15 anos do Teatro Positivo"
+title: Cia de dança americana celebra 15 anos do Teatro Positivo
 date: 2026-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na terça-feira, dia 28 de março, o Teatro Positivo recebe uma das companhias de dança de maior sucesso em todo o mundo, com uma obra que mistura dança, acrobacia e artes plásticas. Produzido pela Dellarte, o espetáculo Viva MOMIX faz parte da programação especial de 15 anos do Teatro Positivo.
 

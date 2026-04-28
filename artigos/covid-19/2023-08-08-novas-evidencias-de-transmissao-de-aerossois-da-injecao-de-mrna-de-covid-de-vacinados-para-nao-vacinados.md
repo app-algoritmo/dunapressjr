@@ -1,11 +1,13 @@
 ---
-title: "Novas evidências de transmissão de aerossóis da injeção de mRNA de COVID de vacinados para não vacinados"
+title: Novas evidências de transmissão de aerossóis da injeção de mRNA de COVID de
+  vacinados para não vacinados
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Evidências emergentes sugerem que indivíduos vacinados podem transmitir anticorpos gerados pela vacinação com mRNA-COVID-19 para indivíduos não vacinados por meio de aerossóis. [Isso é de acordo com um estudo](https://journals.aai.org/immunohorizons/article/7/5/307/263692/Evidence-for-Aerosol-Transfer-of-SARS-CoV-2) revisado por pares publicado na ImmunoHorizons.
 

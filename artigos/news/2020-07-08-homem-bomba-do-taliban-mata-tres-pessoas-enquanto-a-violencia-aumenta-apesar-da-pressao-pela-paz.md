@@ -1,11 +1,13 @@
 ---
-title: "Homem-bomba do Taliban mata três pessoas enquanto a violência aumenta apesar da pressão pela paz"
+title: Homem-bomba do Taliban mata três pessoas enquanto a violência aumenta apesar
+  da pressão pela paz
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um homem-bomba do Taliban detonou um veículo militar cheio de explosivos quando se aproximava da residência do governador da província e da sede da polícia na província afegã de Kandahar na quarta-feira, matando pelo menos três pessoas, disseram autoridades.
 

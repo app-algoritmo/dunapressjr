@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha nesta segunda-feira em queda"
+title: Ibovespa fecha nesta segunda-feira em queda
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar fechou o dia estável.
 

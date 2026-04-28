@@ -1,11 +1,12 @@
 ---
-title: "Girão relata denúncias contra governo Lula e STF em encontro na Argentina"
+title: Girão relata denúncias contra governo Lula e STF em encontro na Argentina
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (26), o senador Eduardo Girão (Novo-CE) relatou que denunciou "vilipêndios ao Estado Democrático de Direito" no Brasil durante compromisso em Buenos Aires, no último sábado (23). Na ocasião, o senador participou de encontro do Grupo Liberdade e Democracia, que reuniu líderes da direita latino-america, incluido ex-presidentes como Mauricio Macri, da Argentina; e Sebastián Piñera, do Chile. 
 

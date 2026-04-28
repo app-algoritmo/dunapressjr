@@ -1,11 +1,12 @@
 ---
-title: "Preços da indústria crescem pela terceira vez e ficam em 0,64% em outubro"
+title: Preços da indústria crescem pela terceira vez e ficam em 0,64% em outubro
 date: 2019-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em outubro/2019, os preços das indústrias extrativas e de transformação aumentaram, em média, 0,64% quando comparados a setembro/2019, número superior ao observado na comparação entre setembro/2019 e agosto/2019 (0,50%). O acumulado do ano ficou em 3,65%, ante 2,98% em setembro/2019. Em outubro de 2019, 15 das 24 atividades apresentaram variações positivas de preços, contra 17 do mês anterior. Consulte o material de apoio do Índice de Preços ao Produtor (IPP) para mais informações.
 

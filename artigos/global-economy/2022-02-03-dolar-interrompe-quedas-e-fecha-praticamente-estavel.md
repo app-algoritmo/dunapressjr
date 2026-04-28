@@ -1,11 +1,12 @@
 ---
-title: "Dólar interrompe quedas e fecha praticamente estável"
+title: Dólar interrompe quedas e fecha praticamente estável
 date: 2022-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai 1,18%, em dia de ajustes no mercado.
 

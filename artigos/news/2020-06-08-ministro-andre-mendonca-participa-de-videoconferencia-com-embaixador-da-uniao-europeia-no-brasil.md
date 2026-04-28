@@ -1,11 +1,13 @@
 ---
-title: "Ministro André Mendonça participa de videoconferência com Embaixador da União Europeia no Brasil"
+title: Ministro André Mendonça participa de videoconferência com Embaixador da União
+  Europeia no Brasil
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, participou de vídeoconferência, na sexta-feira (5), com o embaixador da União Europeia no Brasil, Ignacio Ybáñez.
 

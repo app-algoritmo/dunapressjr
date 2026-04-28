@@ -1,11 +1,12 @@
 ---
-title: "Emissões no mercado de capitais somam R$ 33,7 bilhões em abril"
+title: Emissões no mercado de capitais somam R$ 33,7 bilhões em abril
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ofertas concluídas nos quatro primeiros meses do ano chegam a R$ 115,1 bilhões
 As ofertas no **mercado de capitais** concluídas em abril somaram R$ 33,7 bilhões. De acordo com o [Boletim de Mercado de Capitais](http://www.anbima.com.br/pt_br/informar/relatorios/mercado-de-capitais/boletim-de-mercado-de-capitais/mercado-de-capitais-registra-recuperacao-e-capta-r-33-7-bilhoes-em-abril.htm), nos quatro primeiros meses do ano, as empresas brasileiras realizaram 406 operações, totalizando R$ 115,1 bilhões, volume que representa alta de 40,4% sobre o mesmo período do ano passado, quando foram movimentados R$ 82 bilhões a partir de 340 emissões.

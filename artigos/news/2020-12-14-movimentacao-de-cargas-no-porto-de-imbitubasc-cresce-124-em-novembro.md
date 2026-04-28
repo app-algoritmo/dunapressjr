@@ -1,11 +1,12 @@
 ---
-title: "Movimentação de cargas no Porto de Imbituba/SC cresce 12,4% em novembro"
+title: Movimentação de cargas no Porto de Imbituba/SC cresce 12,4% em novembro
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Porto de Imbituba fechou novembro com 484,3 mil toneladas movimentadas no mês, alta de 12,4% em relação ao volume registrado no mesmo período de 2019 (430,7 mil). O bom desempenho foi alavancado pela variedade de produtos transportados: celulose, comidas em bags, contêineres, minério de ferro, ureia, malte e guindaste, além dos grandes volumes de coque de petróleo. As cargas somaram 122 mil toneladas mensais, um crescimento de 25,7% frente ao mesmo mês de 2019.
 

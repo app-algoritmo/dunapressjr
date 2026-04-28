@@ -1,11 +1,12 @@
 ---
-title: "A caminho do totalitarismo: Bloqueios climáticos"
+title: 'A caminho do totalitarismo: Bloqueios climáticos'
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em fevereiro de 2020, [o The Lancet publicou uma visão geral](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext) de 24 estudos documentando o impacto dos bloqueios. O estudo concluiu que ser forçado a se separar de entes queridos, perda de liberdade, etc. pode ter efeitos dramáticos que vão desde raiva e perda de renda até estresse psicológico, como ansiedade, depressão, abuso de substâncias e suicídio. Verificou-se que os efeitos persistem muito tempo após o confinamento real e relatos de estresse pós-traumático.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta projeção da inflação para 2,05%"
+title: Mercado financeiro aumenta projeção da inflação para 2,05%
 date: 2020-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para a cotação do dólar oficial permanece em R$ 5,25.
 

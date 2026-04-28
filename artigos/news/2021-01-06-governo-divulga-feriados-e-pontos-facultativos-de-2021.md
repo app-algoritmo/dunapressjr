@@ -1,11 +1,12 @@
 ---
-title: "Governo divulga feriados e pontos facultativos de 2021"
+title: Governo divulga feriados e pontos facultativos de 2021
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 [Portaria nº 430](https://www.in.gov.br/en/web/dou/-/portaria-n-430-de-30-de-dezembro-de-2020-297214729), de 30 de dezembro de 2020, do Ministério da Economia, define os feriados nacionais e pontos facultativos no ano de 2021. As datas deverão ser observadas pelos órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional do Poder Executivo, sem comprometimento das atividades públicas consideradas como serviços essenciais à população.
 

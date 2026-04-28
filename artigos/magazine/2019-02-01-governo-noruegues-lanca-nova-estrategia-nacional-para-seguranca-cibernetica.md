@@ -1,11 +1,12 @@
 ---
-title: "Governo norueguês lança nova estratégia nacional para segurança cibernética"
+title: Governo norueguês lança nova estratégia nacional para segurança cibernética
 date: 2019-02-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O governo norueguês lançou uma nova estratégia nacional para fortalecer a segurança cibernética da sociedade. A segurança cibernética preocupa a todos e é uma prioridade fundamental para o governo.
 

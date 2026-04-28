@@ -1,11 +1,13 @@
 ---
-title: "Hospital e empresas de tecnologia desenvolvem algoritmos que podem ajudar no diagnóstico e avaliação em tempo real de doença rara"
+title: Hospital e empresas de tecnologia desenvolvem algoritmos que podem ajudar no
+  diagnóstico e avaliação em tempo real de doença rara
 date: 2023-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pessoas acima dos 60 anos, com problemas cardíacos já tratados e que de um momento a outro passam a sentir cansaço, falta de ar e percebem edemas nos pés quando ficam tempo sentados. Os sintomas são comuns, mas podem ser um indicativo para casos de amiloidose, uma doença rara que ataca coração, rins e sistema nervoso central. 
 

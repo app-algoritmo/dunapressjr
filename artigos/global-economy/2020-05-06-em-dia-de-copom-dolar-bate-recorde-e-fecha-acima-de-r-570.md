@@ -1,11 +1,12 @@
 ---
-title: "Em dia de Copom, dólar bate recorde e fecha acima de R$ 5,70"
+title: Em dia de Copom, dólar bate recorde e fecha acima de R$ 5,70
 date: 2020-05-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Revisão de agência de risco também afetou o mercado
 Em mais um dia de nervosismo no mercado financeiro, o dólar comercial superou a barreira de R$ 5,70 e bateu recorde. A moeda encerrou esta quarta-feira (6) vendida a R$ 5,704, com alta de R$ 0,113 (+2,08%). Esse é o maior valor nominal (sem considerar a inflação) desde a criação do real.

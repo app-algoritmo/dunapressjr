@@ -1,11 +1,12 @@
 ---
-title: "8 alimentos com vitamina A que você deve consumir com freqüência"
+title: 8 alimentos com vitamina A que você deve consumir com freqüência
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 A vitamina está relacionada à boa visão, saúde da pele, cabelos e unhas.
 

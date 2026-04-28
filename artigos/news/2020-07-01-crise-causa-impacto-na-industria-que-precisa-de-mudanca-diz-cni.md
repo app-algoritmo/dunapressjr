@@ -1,11 +1,12 @@
 ---
-title: "Crise causa impacto na indústria, que precisa de mudança, diz CNI"
+title: Crise causa impacto na indústria, que precisa de mudança, diz CNI
 date: 2020-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Confederação anuncia plataforma de inovação aberta.
 

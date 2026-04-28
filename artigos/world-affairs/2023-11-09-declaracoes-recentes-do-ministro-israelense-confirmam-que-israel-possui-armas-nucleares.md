@@ -1,11 +1,13 @@
 ---
-title: "Declarações recentes do ministro israelense confirmam que Israel possui armas nucleares"
+title: Declarações recentes do ministro israelense confirmam que Israel possui armas
+  nucleares
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Maria Zakharova, a Rússia considera as observações do ministro do património israelita sobre a possibilidade de utilização de armas nucleares contra os residentes da Faixa de Gaza como "provocativas e absolutamente inaceitáveis".
 

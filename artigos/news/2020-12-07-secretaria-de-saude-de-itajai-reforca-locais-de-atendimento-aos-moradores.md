@@ -1,11 +1,12 @@
 ---
-title: "Secretaria de Saúde de Itajaí reforça locais de atendimento aos moradores"
+title: Secretaria de Saúde de Itajaí reforça locais de atendimento aos moradores
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o aumento de casos e internações pela COVID-19 nas últimas semanas, a Secretaria de Saúde de Itajaí está reorganizando os fluxos e protocolos internos para dar mais agilidade aos serviços de urgência e emergência, especialmente no Centro Integrado de Saúde (CIS), que é referência para estes atendimentos. Outra medida é reforçar os locais de atendimento aos moradores para facilitar os encaminhamentos e reduzir o risco de contágio.
 

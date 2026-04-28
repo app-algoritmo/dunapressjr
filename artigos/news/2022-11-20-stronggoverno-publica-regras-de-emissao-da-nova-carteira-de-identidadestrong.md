@@ -1,11 +1,12 @@
 ---
-title: "<strong>Governo publica regras de emissão da nova carteira de identidade</strong>"
+title: <strong>Governo publica regras de emissão da nova carteira de identidade</strong>
 date: 2022-11-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O novo RG terá validade de 10 anos para pessoas com até 60 anos.
 

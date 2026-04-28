@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro cria plano emergencial para povos indígenas"
+title: Governo Bolsonaro cria plano emergencial para povos indígenas
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Projeto garante medidas de proteção a indígenas, quilombolas e pescadores artesanais. Indígenas são, conforme a lei, pessoas em situação de extrema vulnerabilidade.
 

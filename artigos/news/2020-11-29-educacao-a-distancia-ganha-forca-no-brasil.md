@@ -1,11 +1,12 @@
 ---
-title: "Educação a Distância ganha força no Brasil"
+title: Educação a Distância ganha força no Brasil
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Hoje, dia 27 de novembro, Dia Nacional da Educação a Distância, o Ministério da Educação comemorou os avanços do ensino on-line no Brasil. A educação por meios digitais inova e revoluciona as abordagens de aprendizado e, mais que isso, tem sido utilizada de maneira eficaz para promover a qualidade do ensino e a equidade educacional por permitir aos estudantes acessar informações, explorar diferentes domínios de conhecimento e criar novas habilidades, independentemente da localização.
 

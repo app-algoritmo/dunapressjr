@@ -1,11 +1,12 @@
 ---
-title: "Petrobras conclui venda da Gaspetro para Compass"
+title: Petrobras conclui venda da Gaspetro para Compass
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Transação foi quitada pelo valor de R$ 2,097 bilhões.
 

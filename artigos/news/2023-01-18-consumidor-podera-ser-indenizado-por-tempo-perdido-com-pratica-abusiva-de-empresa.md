@@ -1,11 +1,12 @@
 ---
-title: "Consumidor poderá ser indenizado por tempo perdido com prática abusiva de empresa"
+title: Consumidor poderá ser indenizado por tempo perdido com prática abusiva de empresa
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um projeto apresentado pelo senador Fabiano Contarato (PT-ES) propõe classificar como abusivas as práticas de empresas que gastem indevidamente o tempo do consumidor. Caso seja transformado em lei, o [PL 2.856/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/155218) modificará o [Código de Defesa do Consumidor](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078) para penalizar, entre outras práticas, o disparo reiterado de chamadas telefônicas ou de mensagens via internet e o descumprimento de prazo para resposta às demandas dos clientes.
 

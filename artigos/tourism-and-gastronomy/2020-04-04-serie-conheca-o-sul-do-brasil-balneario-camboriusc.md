@@ -1,11 +1,12 @@
 ---
-title: "Série conheça o Sul do Brasil: Balneário Camboriú/SC"
+title: 'Série conheça o Sul do Brasil: Balneário Camboriú/SC'
 date: 2020-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Balneário Camboriú é um dos destinos turísticos mais badalados do sul do Brasil. Situado em Santa Catarina, é uma das mais frequentadas estâncias balneares e tem uma vida noturna bem agitada e nove belas praias, com opções para a prática de surfe, ecoturismo e turismo de aventura. Durante a alta temporada, a cidade chega a receber cinco vezes mais visitantes que o número total de sua população. 
 

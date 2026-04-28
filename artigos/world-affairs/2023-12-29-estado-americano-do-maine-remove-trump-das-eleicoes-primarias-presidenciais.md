@@ -1,11 +1,12 @@
 ---
-title: "Estado americano do Maine remove Trump das eleições primárias presidenciais"
+title: Estado americano do Maine remove Trump das eleições primárias presidenciais
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A decisão, emitida pela Secretária de Estado do Maine, Shenna Bellows, é baseada na Seção Três da 14ª Emenda à Constituição dos EUA.
 

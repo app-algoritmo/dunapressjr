@@ -1,11 +1,12 @@
 ---
-title: "Com restrições, Cade aprova compra Oi Móvel por Tim, Claro e Vivo"
+title: Com restrições, Cade aprova compra Oi Móvel por Tim, Claro e Vivo
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Oi vendeu a rede móvel em 2020 para pagar dívidas.
 

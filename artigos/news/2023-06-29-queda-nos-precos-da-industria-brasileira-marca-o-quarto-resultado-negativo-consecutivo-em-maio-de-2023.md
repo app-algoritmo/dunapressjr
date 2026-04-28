@@ -1,11 +1,13 @@
 ---
-title: "Queda nos preços da indústria brasileira marca o quarto resultado negativo consecutivo em maio de 2023"
+title: Queda nos preços da indústria brasileira marca o quarto resultado negativo
+  consecutivo em maio de 2023
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preços da indústria registram variação de -3,07% em relação a abril, afetando 20 das 24 atividades analisadas.
 

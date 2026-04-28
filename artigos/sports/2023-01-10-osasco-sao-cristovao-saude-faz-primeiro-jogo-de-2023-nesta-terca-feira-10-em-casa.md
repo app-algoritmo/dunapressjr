@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde faz primeiro jogo de 2023 nesta terça-feira (10), em casa"
+title: Osasco São Cristóvão Saúde faz primeiro jogo de 2023 nesta terça-feira (10),
+  em casa
 date: 2023-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Osasco São Cristóvão Saúde volta à quadra pela Superliga 1XBET 2022/23 nesta terça-feira (10), às 21h30, no ginásio José Liberatti, para enfrentar o Brasília Vôlei. A partida é válida pela última rodada do primeiro turno da fase de classificação. A expectativa para a primeira apresentação da equipe de Fabiana, Natinha, Smarzek, Tifanny, Adenizia e cia. é de casa cheia, como em todos os jogos do ano passado.
 

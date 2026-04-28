@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reavalia funcionamento do Projeto Rota 3 em Itaboraí"
+title: Petrobras reavalia funcionamento do Projeto Rota 3 em Itaboraí
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trabalhos terão início no segundo semestre de 2022.
 

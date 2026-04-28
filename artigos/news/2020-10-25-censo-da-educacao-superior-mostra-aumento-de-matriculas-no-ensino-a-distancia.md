@@ -1,11 +1,12 @@
 ---
-title: "Censo da educação superior mostra aumento de matrículas no ensino a distância"
+title: Censo da educação superior mostra aumento de matrículas no ensino a distância
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A cada quatro estudantes de graduação no Brasil, três frequentam estabelecimentos privados. Existem no país 2.608 instituições de educação superior. Dessas, 2.306 são privadas e 302 públicas. E, do total de matrículas na educação superior (8.604.526), a maior parte, 6.524.108, está na rede privada.
 

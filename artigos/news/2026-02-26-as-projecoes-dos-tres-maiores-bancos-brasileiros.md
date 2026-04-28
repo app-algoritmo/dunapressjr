@@ -1,11 +1,12 @@
 ---
-title: "As projeções dos três maiores bancos brasileiros"
+title: As projeções dos três maiores bancos brasileiros
 date: 2026-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tendência é que o crédito, as margens e as PDDs desacelerem neste ano
 

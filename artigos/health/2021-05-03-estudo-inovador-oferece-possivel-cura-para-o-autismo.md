@@ -1,11 +1,12 @@
 ---
-title: "Estudo inovador oferece possível cura para o autismo"
+title: Estudo inovador oferece possível cura para o autismo
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Novo estudo compartilha o sucesso do tratamento no transtorno do espectro do autismo. A luz no fim do túnel está ficando mais brilhante?
 

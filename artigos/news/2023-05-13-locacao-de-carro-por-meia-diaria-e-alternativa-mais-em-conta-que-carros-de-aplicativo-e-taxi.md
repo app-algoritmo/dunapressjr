@@ -1,11 +1,13 @@
 ---
-title: "Locação de carro por meia-diária é alternativa mais em conta que carros de aplicativo e táxi"
+title: Locação de carro por meia-diária é alternativa mais em conta que carros de
+  aplicativo e táxi
 date: 2023-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A locação de automóveis por meia-diária, ou a recente tendência de "nano locação", representa inovação e investimento em sustentabilidade de muitas locadoras e tornou-se uma alternativa atraente e econômica para utilizar um automóvel por determinado período de tempo. E dados confirmam o crescimento, visto que, em 2021, foi identificado aumento de 56% no acesso a serviços de locação de automóveis, segundo a SimilarWeb. A valorização do uso, ao invés da posse, reflete também no crescimento dos carros por assinatura. De acordo com a ABLA (Associação Brasileira das Locadoras de Automóveis), o serviço cresceu 16,4% de janeiro a setembro deste ano. Em comparação com dezembro de 2021, quando contava com cerca de 91 mil veículos assinados, em setembro de 2022 esse total saltou para 106 mil automóveis. Para este ano, a expectativa é que a procura por locação aumente 15% já nos primeiros meses. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Wandinha Addams"
+title: Wandinha Addams
 date: 2022-11-27
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Finalmente chega ao Netflix a série Wandinha. – E por enquanto está me agradando bastante, pois apesar de ter adolescentes, não é açucarada demais, nem poderia tendo a protagonista como *Wandinha. As cores, o guarda-roupa estão perfeitos. – Claro, é impossível substituir a bela Mortícia Addams, feita pela maravilhosa, *Anjelica Huston, e muito menos o incrível Gomez Addams, interpretado pelo Raul Julia. Ele tinha um charme que ninguém supera. – Contudo, o foco é Wandinha Addams.
 

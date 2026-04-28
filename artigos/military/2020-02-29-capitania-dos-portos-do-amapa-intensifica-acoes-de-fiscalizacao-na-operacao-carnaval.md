@@ -1,11 +1,13 @@
 ---
-title: "Capitania dos Portos do Amapá intensifica ações de fiscalização na Operação “Carnaval”"
+title: Capitania dos Portos do Amapá intensifica ações de fiscalização na Operação
+  “Carnaval”
 date: 2020-02-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Capitania dos Portos do Amapá (CPAP) e a Agência da Capitania dos
 Portos do Amapá no Oiapoque (AgOiapoque) realizaram, no período de 21 a 26 de

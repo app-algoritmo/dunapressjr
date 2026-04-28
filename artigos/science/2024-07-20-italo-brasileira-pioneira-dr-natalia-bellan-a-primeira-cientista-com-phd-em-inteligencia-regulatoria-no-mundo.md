@@ -1,12 +1,14 @@
 ---
-title: "Ítalo-Brasileira Pioneira: Dr. Natália Bellan, a Primeira Cientista com PhD em Inteligência Regulatória no Mundo"
+title: 'Ítalo-Brasileira Pioneira: Dr. Natália Bellan, a Primeira Cientista com PhD
+  em Inteligência Regulatória no Mundo'
 date: 2024-07-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 ### Dr. Natália Bellan: Pioneira Mundial em Inteligência Regulatória
 

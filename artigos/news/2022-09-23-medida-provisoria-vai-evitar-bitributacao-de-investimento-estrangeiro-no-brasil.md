@@ -1,11 +1,12 @@
 ---
-title: "Medida Provisória vai evitar bitributação de investimento estrangeiro no Brasil"
+title: Medida Provisória vai evitar bitributação de investimento estrangeiro no Brasil
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Títulos de dívida terão isonomia tributária em relação às operações de capital, zerando o Imposto de Renda sobre crédito corporativo para residentes e domiciliados no exterior.
 

@@ -1,11 +1,13 @@
 ---
-title: "Vaticano reforça posição contra teoria de gênero, aborto, eutanásia e barriga de aluguel em nova declaração"
+title: Vaticano reforça posição contra teoria de gênero, aborto, eutanásia e barriga
+  de aluguel em nova declaração
 date: 2024-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nesta segunda-feira, o Dicastério para a Doutrina da Fé divulgou a declaração intitulada 'Dignitas Infinita', reforçando a posição da Igreja Católica contra a teoria de gênero, aborto, eutanásia e barriga de aluguel.
 

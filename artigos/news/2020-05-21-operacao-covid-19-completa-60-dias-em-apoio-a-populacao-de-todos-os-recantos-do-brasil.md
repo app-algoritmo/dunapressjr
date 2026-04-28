@@ -1,11 +1,13 @@
 ---
-title: "Operação Covid-19 completa 60 dias em apoio à população de todos os recantos do Brasil"
+title: Operação Covid-19 completa 60 dias em apoio à população de todos os recantos
+  do Brasil
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sessenta dias após a deflagração da Operação Covid-19, o Centro de Operações Conjuntas do Ministério da Defesa já soma, em ações de emprego das Forças Armadas, números que superam os de missões históricas, como a participação na Segunda Guerra Mundial e a Missão de Paz no Haiti.
 

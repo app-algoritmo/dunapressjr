@@ -1,12 +1,13 @@
 ---
-title: "Claire Williams e o fim de uma era na Fórmula 1?"
+title: Claire Williams e o fim de uma era na Fórmula 1?
 date: 2026-02-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
-  - Sports
+- Opinion
+- Sports
 ---
+
 
 A Williams dá adeus a Claire e Frank no fim de semana do GP da Itália de 2020. O fundo de investimento Dorilton Capital resolveu tirar o fundador e sua filha do comando da equipe, encerrando a vida e obra de uma família que esteve por 43 anos em Grove.
 

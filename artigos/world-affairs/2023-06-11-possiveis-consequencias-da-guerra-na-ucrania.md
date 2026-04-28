@@ -1,11 +1,12 @@
 ---
-title: "Possíveis consequências da guerra na Ucrânia"
+title: Possíveis consequências da guerra na Ucrânia
 date: 2023-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ambos os lados lutaram na Ucrânia usando táticas da Primeira Guerra Mundial, e os desenvolvimentos nessa guerra até agora recapitularam a Primeira Guerra Mundial.
 

@@ -1,11 +1,13 @@
 ---
-title: "Nota de pesar por Ana Carolina Martins Rosa, estudante da Rede Municipal de Ensino"
+title: Nota de pesar por Ana Carolina Martins Rosa, estudante da Rede Municipal de
+  Ensino
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Educação de Itajaí manifesta seu profundo pesar e solidariedade à família e aos amigos da estudante da Rede Municipal de Ensino Ana Carolina Martins Rosa, pelo seu falecimento na tarde desta terça-feira (24). Com 10 anos, a estudante do 4º ano da Escola Básica Antônio Ramos, do bairro Cordeiros, tinha hidrocefalia e não resistiu a uma cirurgia.
 

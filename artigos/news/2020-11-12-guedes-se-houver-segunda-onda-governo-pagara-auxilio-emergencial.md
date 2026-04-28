@@ -1,11 +1,12 @@
 ---
-title: "Guedes: se houver segunda onda, governo pagará auxílio emergencial"
+title: 'Guedes: se houver segunda onda, governo pagará auxílio emergencial'
 date: 2020-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro considera "baixa" possibilidade de nova onda de covid-19.
 

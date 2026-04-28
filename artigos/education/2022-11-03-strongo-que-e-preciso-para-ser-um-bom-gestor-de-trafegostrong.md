@@ -1,11 +1,12 @@
 ---
-title: "<strong>O que é preciso para ser um bom gestor de tráfego?</strong>"
+title: <strong>O que é preciso para ser um bom gestor de tráfego?</strong>
 date: 2022-11-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Um bom gestor de tráfego é alguém que consegue lidar com várias situações diferentes de uma só vez. 
 

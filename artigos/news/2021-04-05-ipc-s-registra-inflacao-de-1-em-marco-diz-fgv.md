@@ -1,11 +1,12 @@
 ---
-title: "IPC-S registra inflação de 1% em março, diz FGV"
+title: IPC-S registra inflação de 1% em março, diz FGV
 date: 2021-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula taxa de 6,11% em 12 meses.
 

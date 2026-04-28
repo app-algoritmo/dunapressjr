@@ -1,11 +1,12 @@
 ---
-title: "Aumento do Salário Mínimo na Argentina Desencadeia Controvérsia e Protestos"
+title: Aumento do Salário Mínimo na Argentina Desencadeia Controvérsia e Protestos
 date: 2024-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo nacional anunciou um aumento de 30% no Salário Mínimo de Vida e Móvel (SMNV) na Argentina, uma medida que desencadeou críticas por parte de sindicatos e setores da sociedade civil em meio a um contexto de inflação elevada.
 

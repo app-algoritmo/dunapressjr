@@ -1,11 +1,13 @@
 ---
-title: "Itajaí participa de reunião para reduzir fila de espera por cirurgias oncológicas no Hospital Marieta"
+title: Itajaí participa de reunião para reduzir fila de espera por cirurgias oncológicas
+  no Hospital Marieta
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, através da Secretaria de Saúde, reuniu-se nesta segunda-feira (09) com o Governo do Estado para discutir a situação da fila de espera das cirurgias oncológicas no Hospital Marieta Konder Bornhausen. No encontro, ficou definido que grupos de trabalho irão realizar um diagnóstico, por área de procedimento oncológico, sobre a capacidade instalada e o tempo que o hospital levará para atender a população.
 

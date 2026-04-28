@@ -1,11 +1,13 @@
 ---
-title: "'Bioeticista' afiliado ao FEM pede modificação genética de humanos para induzir intolerância à carne"
+title: '''Bioeticista'' afiliado ao FEM pede modificação genética de humanos para
+  induzir intolerância à carne'
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Baixa estatura e intolerância à carne como solução para as “mudanças climáticas”. Para o professor e filósofo S. Mateus Liao, este é o futuro.
 

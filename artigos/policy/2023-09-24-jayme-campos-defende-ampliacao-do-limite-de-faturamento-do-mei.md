@@ -1,11 +1,12 @@
 ---
-title: "Jayme Campos defende ampliação do limite de faturamento do MEI"
+title: Jayme Campos defende ampliação do limite de faturamento do MEI
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jayme Campos (União-MT) defendeu, em pronunciamento na quarta-feira (20), que o governo apoie um projeto de lei de autoria dele que aumenta o limite de faturamento anual para enquadramento como microempreendedor individual (MEI). Já aprovado no Senado, o [PLP 108/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/149107) propõe elevar o faturamento anual do microempreendedor individual dos R$ 81 mil atuais para R$ 141 mil, além de autorizar o MEI a contratar até dois novos empregados.
 

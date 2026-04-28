@@ -1,11 +1,13 @@
 ---
-title: "Com expectativa de decisão de juros no Brasil e EUA, Ibovespa encerra janeiro em alta de 3,36%"
+title: Com expectativa de decisão de juros no Brasil e EUA, Ibovespa encerra janeiro
+  em alta de 3,36%
 date: 2023-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai e acumula queda de 3,82% em janeiro.
 

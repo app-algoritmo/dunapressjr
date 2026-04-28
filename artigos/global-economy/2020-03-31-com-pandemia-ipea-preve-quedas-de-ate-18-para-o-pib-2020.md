@@ -1,11 +1,12 @@
 ---
-title: "Com pandemia, Ipea prevê quedas de até 1,8% para o PIB 2020"
+title: Com pandemia, Ipea prevê quedas de até 1,8% para o PIB 2020
 date: 2020-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Carta de Conjuntura prevê três cenários, considerando quarentena
 

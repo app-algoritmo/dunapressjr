@@ -1,11 +1,12 @@
 ---
-title: "Noruega: indústria eólica offshore e transição energética global"
+title: 'Noruega: indústria eólica offshore e transição energética global'
 date: 2018-09-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Kjell-Børge Freiberg, Ministro de Petróleo e Energia, se pronunciou, esta semana, na abertura do Global Wind Summit em Hamburgo sobre o ponto de vista norueguês no que concerne à energia. Segundo ele, a Noruega tem grandes reservas de petróleo e gás, especialmente gás, e a maioria das exportações de gás vai para a Europa. O gás norueguês cobre cerca de 30% do gás usado na Alemanha. Ao mesmo tempo, a Noruega também tem muita energia renovável. Noventa e oito por cento [98%] da produção de eletricidade vem da energia hidrelétrica, mas cerca de setenta por cento [70%] do uso total de energia na Noruega consiste em energia renovável.
 

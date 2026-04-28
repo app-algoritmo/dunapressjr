@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro anuncia revogação da medida provisória que criou o Contrato Verde e Amarelo"
+title: Presidente Bolsonaro anuncia revogação da medida provisória que criou o Contrato
+  Verde e Amarelo
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro anunciou em suas redes sociais que vai revogar a  Medida Provisória (MP) 905/19, que criou o Contrato Verde e Amarelo. Ela perderia a validade nesta segunda-feira (20), por não ter sido votada no prazo de 120 dias. A medida [foi aprovada pela Câmara no último dia 15](https://www.camara.leg.br/noticias/654134-CAMARA-APROVA-MP-DO-CONTRATO-VERDE-E-AMARELO) e enviada ao Senado, onde não houve acordo para sua aprovação.
 

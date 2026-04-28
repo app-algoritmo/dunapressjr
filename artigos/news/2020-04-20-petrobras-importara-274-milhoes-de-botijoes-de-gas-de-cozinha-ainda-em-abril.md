@@ -1,11 +1,12 @@
 ---
-title: "Petrobras importará 27,4 milhões de botijões de gás de cozinha ainda em abril"
+title: Petrobras importará 27,4 milhões de botijões de gás de cozinha ainda em abril
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quinta carga de GLP está a caminho do Brasil. Medida visa evitar a falta do produto para população. A companhia reforça que não há risco de falta do produto nem qualquer necessidade de estocar botijões de GLP.
 

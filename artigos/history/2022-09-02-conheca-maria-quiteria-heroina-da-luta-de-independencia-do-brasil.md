@@ -1,11 +1,12 @@
 ---
-title: "Conheça Maria Quitéria, Heroína da Luta de Independência do Brasil"
+title: Conheça Maria Quitéria, Heroína da Luta de Independência do Brasil
 date: 2022-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Maria Quitéria de Jesus (1792-1853), a baiana, filha de um proprietário de terras do sertão da Bahia que,ao invés de fiar e esperar um bom casamento, resolveu fugir de casa, se travestir de soldado com as roupas de seu cunhado e lutar contra as tropas portuguesas pela independência do Brasil.
 

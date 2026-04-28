@@ -1,11 +1,12 @@
 ---
-title: "Dia Nacional do Surdo promove luta pela inclusão dos surdos na sociedade"
+title: Dia Nacional do Surdo promove luta pela inclusão dos surdos na sociedade
 date: 2021-09-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Há oito anos Cristiane Ventura descobriu que sua filha percebia o mundo de um modo diferente das outras crianças. A pequena e sorridente Tarsila Maria nasceu com a síndrome Charge e, entre outras características, tem surdez profunda e severa. Naquele momento, Cristiane e seu marido, José Carvalho Júnior, começaram a conhecer um universo completamente novo, muito além das palavras e dos sons na convivência com a menina.
 

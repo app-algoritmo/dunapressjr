@@ -1,11 +1,12 @@
 ---
-title: "PF entrega donativos a abrigo de idosos em Parnaíba/PI"
+title: PF entrega donativos a abrigo de idosos em Parnaíba/PI
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parnaíba/PI - A Polícia Federal entregou na sexta-feira (3/4) ao Abrigo de Idosos São José, em Parnaíba/PI, os donativos arrecadados em coleta solidária empreendida pelos servidores policiais e administrativos da unidade.
 

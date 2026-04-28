@@ -1,11 +1,12 @@
 ---
-title: "As agruras políticas de SERRALHINHA DO NORTE"
+title: As agruras políticas de SERRALHINHA DO NORTE
 date: 2020-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 A cidade SERRALHINHA DO NORTE faz parte da região metropolitana da capital CABRIOLÉ DO OESTE, ambas fazem parte do estado FERNANDOPOLINA que por sua vez é integrante da região nordeste do País ZABRIL. Apesar da cidade SERRALHINHA DO NORTE ser próximo da capital sua população ainda preserva alguns costumes de cidade de interior.
 

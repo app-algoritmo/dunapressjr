@@ -1,11 +1,13 @@
 ---
-title: "Petrobras anuncia redução de 8,1% no preço do gás natural a partir de maio de 2023"
+title: Petrobras anuncia redução de 8,1% no preço do gás natural a partir de maio
+  de 2023
 date: 2023-04-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda é resultado de contratos acordados com as distribuidoras e variação do preço da molécula e do seu transporte por dutos.
 

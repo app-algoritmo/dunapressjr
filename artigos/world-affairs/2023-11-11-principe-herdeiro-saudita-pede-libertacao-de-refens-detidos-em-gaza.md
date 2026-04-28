@@ -1,11 +1,12 @@
 ---
-title: "Príncipe herdeiro saudita pede libertação de reféns detidos em Gaza"
+title: Príncipe herdeiro saudita pede libertação de reféns detidos em Gaza
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Mohammed bin Salman Al Saud também considera necessário interromper todas as operações militares no enclave palestino.
 

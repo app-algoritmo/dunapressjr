@@ -1,11 +1,13 @@
 ---
-title: "A MATRIX – Não importa o caminho que seguir, se não for Divino você baterá na Matrix"
+title: A MATRIX – Não importa o caminho que seguir, se não for Divino você baterá
+  na Matrix
 date: 2020-02-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 -Pensamos que estamos livres, correto? Achamos que estamos vivendo a vida dos sonhos, com todas as liberdades e podendo fazer todas as nossas “vontades”. Será mesmo?
 

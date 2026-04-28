@@ -1,11 +1,12 @@
 ---
-title: "A Cruel Política de Guerra dos Estados Unidos na Ucrânia"
+title: A Cruel Política de Guerra dos Estados Unidos na Ucrânia
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Nos primeiros dias, a guerra na Ucrânia não se transformou no perigoso pesadelo OTAN-Rússia que é hoje.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal cria grupo de ações estratégicas para recuperação econômica"
+title: Governo Federal cria grupo de ações estratégicas para recuperação econômica
 date: 2020-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro da Infraestrutura afirma que programas de concessão serão importante alavanca de retomada do crescimento
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção cai para 1,16% em julho"
+title: Inflação da construção cai para 1,16% em julho
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice da mão de obra recuou de 4,37% em junho para 1,76%.
 

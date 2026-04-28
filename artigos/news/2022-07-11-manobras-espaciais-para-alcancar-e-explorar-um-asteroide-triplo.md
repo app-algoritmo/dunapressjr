@@ -1,11 +1,12 @@
 ---
-title: "Manobras espaciais para alcançar e explorar um asteroide triplo"
+title: Manobras espaciais para alcançar e explorar um asteroide triplo
 date: 2022-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O que é a pesquisa?
 

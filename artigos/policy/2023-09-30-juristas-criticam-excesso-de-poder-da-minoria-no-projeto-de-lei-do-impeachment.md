@@ -1,11 +1,12 @@
 ---
-title: "Juristas criticam excesso de poder da minoria no projeto de lei do impeachment"
+title: Juristas criticam excesso de poder da minoria no projeto de lei do impeachment
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em debate na Comissão de Constituição e Justiça (CCJ) nesta quinta-feira (28), convidados apontaram a necessidade de o [Projeto de Lei 1.388/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/156460) (que [regula crimes de responsabilidade](/noticias/materias/2023/03/24/projeto-de-pacheco-de-nova-lei-do-impeachment-detalha-regras-processuais)) preservar a soberania do voto popular do presidente da República em casos de impeachment.
 

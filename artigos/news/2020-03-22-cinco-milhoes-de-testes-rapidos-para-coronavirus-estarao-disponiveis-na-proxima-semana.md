@@ -1,11 +1,13 @@
 ---
-title: "Cinco milhões de testes rápidos para Coronavírus estarão disponíveis na próxima semana"
+title: Cinco milhões de testes rápidos para Coronavírus estarão disponíveis na próxima
+  semana
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste sábado (21), o Ministério da Saúde informou que receberá cinco milhões de testes rápidos de coronavírus na próxima semana, chegando a 10 milhões nas outras semanas. Assim, será ampliada a testagem, mesmo em casos que não são considerados graves. A recomendação da Organização Mundial de Saúde (OMS) é que a testagem seja ampliada para que as pessoas contaminadas sejam isoladas o quanto antes e para que se evite a disseminação do vírus.
 

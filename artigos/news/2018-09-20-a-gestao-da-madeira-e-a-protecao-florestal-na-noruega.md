@@ -1,11 +1,12 @@
 ---
-title: "A gestão da madeira e a proteção florestal na Noruega"
+title: A gestão da madeira e a proteção florestal na Noruega
 date: 2018-09-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Noruega esteve prestes a perder suas florestas depois de muitos séculos de extração de madeira e exportação sem programas para replantio ou reflorestamento. No século passado a situação ainda era muito crítica, porém com um trabalho forte de gestão, prevenção, segurança ambiental e proteção intensiva e ostensiva a Noruega conseguiu reverter esse panorama e, hoje, as florestas não só estão por todo o país como também aumentam a cada ano.
 

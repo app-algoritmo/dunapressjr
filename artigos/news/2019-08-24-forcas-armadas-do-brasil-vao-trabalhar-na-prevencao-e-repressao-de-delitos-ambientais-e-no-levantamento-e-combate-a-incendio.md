@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas do Brasil vão trabalhar na prevenção e repressão de delitos ambientais e no levantamento e combate a incêndio"
+title: Forças Armadas do Brasil vão trabalhar na prevenção e repressão de delitos
+  ambientais e no levantamento e combate a incêndio
 date: 2019-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Forças Armadas vão atuar na Amazônia Legal
 

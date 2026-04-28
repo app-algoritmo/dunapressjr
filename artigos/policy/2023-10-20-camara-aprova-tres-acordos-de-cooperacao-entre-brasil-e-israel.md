@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova três acordos de cooperação entre Brasil e Israel"
+title: Câmara aprova três acordos de cooperação entre Brasil e Israel
 date: 2023-10-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Textos se referem às áreas de segurança e combate ao crime organizado, previdência e serviços aéreos.
 

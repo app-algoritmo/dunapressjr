@@ -1,11 +1,12 @@
 ---
-title: "Petrobras envia sonda à Margem Equatorial para retomar exploração"
+title: Petrobras envia sonda à Margem Equatorial para retomar exploração
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Embarcação perfurará o poço de Pitu Oeste, na Bacia Potiguar.
 

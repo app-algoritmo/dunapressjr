@@ -1,11 +1,12 @@
 ---
-title: "Indicador de Incerteza da Economia recua 6,4 pontos em abril"
+title: Indicador de Incerteza da Economia recua 6,4 pontos em abril
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice atinge menor nível desde janeiro de 2020, diz FGV.
 

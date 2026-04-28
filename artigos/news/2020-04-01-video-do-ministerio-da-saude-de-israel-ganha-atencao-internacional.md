@@ -1,11 +1,12 @@
 ---
-title: "Vídeo do Ministério da Saúde de Israel ganha atenção internacional"
+title: Vídeo do Ministério da Saúde de Israel ganha atenção internacional
 date: 2020-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Como pano de fundo da crise global do coronavírus: o Ministério da Saúde italiano procurou o Ministério da Saúde de Israel para usar seu vídeo publicitário, que descreve a cadeia de infecção por coronavírus.
 

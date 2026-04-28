@@ -1,11 +1,12 @@
 ---
-title: "IPCA-15 sobe 0,52% em dezembro e fecha 2022 com alta de 5,9%"
+title: IPCA-15 sobe 0,52% em dezembro e fecha 2022 com alta de 5,9%
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prévia da inflação oficial foi divulgada nesta sexta-feira (23) pelo IBGE.
 

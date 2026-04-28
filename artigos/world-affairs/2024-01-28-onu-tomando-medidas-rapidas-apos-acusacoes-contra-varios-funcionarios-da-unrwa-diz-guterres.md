@@ -1,11 +1,13 @@
 ---
-title: "ONU tomando medidas rápidas após acusações contra vários funcionários da UNRWA, diz Guterres"
+title: ONU tomando medidas rápidas após acusações contra vários funcionários da UNRWA,
+  diz Guterres
 date: 2024-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Secretário-Geral da ONU observou que das 12 pessoas envolvidas neste incidente, 1 pessoa foi morta e 9 foram despedidas.
 

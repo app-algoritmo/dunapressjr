@@ -1,11 +1,12 @@
 ---
-title: "Prazo para solicitar o Auxílio Emergencial termina hoje (02.07)"
+title: Prazo para solicitar o Auxílio Emergencial termina hoje (02.07)
 date: 2020-07-02
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Benefício do Governo Federal chegou a 64,7 milhões de pessoas, com investimento de R$ 108,1 bilhões.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que facilita acesso de pessoas com autismo a salas de cinema"
+title: Comissão aprova projeto que facilita acesso de pessoas com autismo a salas
+  de cinema
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços da Câmara dos Deputados aprovou projeto que obriga as salas de cinemas de todo o País a oferecer, no mínimo, 2% das sessões em formato adaptado para pessoas com Transtorno do Espectro Autista (TEA) e suas famílias.
 

@@ -1,11 +1,13 @@
 ---
-title: "Apenas 14% de ex-detentos são contratados no país; ressocialização é desafio também para mulheres"
+title: Apenas 14% de ex-detentos são contratados no país; ressocialização é desafio
+  também para mulheres
 date: 2023-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um levantamento do Programa de Cidadania dos Presídios, do Conselho Nacional de Justiça (CNJ), revelou que apenas 14% dos detentos voltam a ser contratados em empresas depois de reconquistarem a liberdade. Isso significa que, dos 500 mil detentos existentes no Brasil atualmente, cerca de 400 mil não voltarão a trabalhar e estarão mais vulneráveis a reincidir no crime, utilizando infrações para que possam se sustentar. O cenário para mulheres que foram privadas de liberdade é especialmente preocupante em um país que tem mais da metade das famílias chefiadas por elas.
 

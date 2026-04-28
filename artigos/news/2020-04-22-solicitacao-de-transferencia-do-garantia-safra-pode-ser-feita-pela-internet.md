@@ -1,11 +1,12 @@
 ---
-title: "Solicitação de transferência do Garantia-Safra pode ser feita pela Internet"
+title: Solicitação de transferência do Garantia-Safra pode ser feita pela Internet
 date: 2020-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Qualquer representante legal pode pedir pela internet autorização de transferência do benefício por ausência ou impedimento do titular
 

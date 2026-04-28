@@ -1,11 +1,12 @@
 ---
-title: "CNI: confiança do empresário industrial sobe em julho"
+title: 'CNI: confiança do empresário industrial sobe em julho'
 date: 2021-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Este é o terceiro aumento seguido do índice.
 

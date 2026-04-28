@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: Curitiba/PR"
+title: 'Série Conheça o Sul do Brasil: Curitiba/PR'
 date: 2021-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Com cultura fortemente influenciada por imigrantes italianos, alemães, poloneses e ucranianos, a capital do Estado do Paraná foi eleita Capital Americana da Cultura em 2003 pela organização de mesmo nome. Isso logo é percebido por quem chega e nota a arquitetura, a gastronomia e os costumes locais. Os parques e as áreas verdes são destaques na cidade. 
 

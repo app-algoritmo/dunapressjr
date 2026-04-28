@@ -1,11 +1,12 @@
 ---
-title: "IBGE: desemprego segue em queda e fecha trimestre em 9,1%"
+title: 'IBGE: desemprego segue em queda e fecha trimestre em 9,1%'
 date: 2022-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pnad Contínua registra recorde de trabalhadores sem carteira assinada.
 

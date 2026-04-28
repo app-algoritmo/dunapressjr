@@ -1,11 +1,13 @@
 ---
-title: "MEC lança guia para orientar o retorno seguro das aulas presenciais nas redes de ensino estadual e municipal"
+title: MEC lança guia para orientar o retorno seguro das aulas presenciais nas redes
+  de ensino estadual e municipal
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Volta às aulas de forma segura. Para orientar o retorno presencial às escolas públicas que decidirem abrir as portas, o Ministério da Educação lançou o Guia de Implementação de Protocolos de Retorno das Atividades Presenciais nas Escolas de Educação Básica.
 

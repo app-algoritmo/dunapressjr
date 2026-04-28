@@ -1,11 +1,12 @@
 ---
-title: "Legisladores dos EUA querem criminalizar a venda de vacinas de mRNA"
+title: Legisladores dos EUA querem criminalizar a venda de vacinas de mRNA
 date: 2023-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os legisladores republicanos de Idaho propuseram uma medida que tornaria a administração de vacinas de mRNA uma contravenção naquele estado.
 

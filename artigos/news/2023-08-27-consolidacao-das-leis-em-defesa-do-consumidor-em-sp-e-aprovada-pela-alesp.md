@@ -1,11 +1,12 @@
 ---
-title: "Consolidação das Leis em Defesa do Consumidor em SP é aprovada pela Alesp"
+title: Consolidação das Leis em Defesa do Consumidor em SP é aprovada pela Alesp
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta é do deputado Thiago Auricchio e foi pensada para unificar diversas leis em um único documento, facilitando a consulta por comerciantes e consumidores.
 

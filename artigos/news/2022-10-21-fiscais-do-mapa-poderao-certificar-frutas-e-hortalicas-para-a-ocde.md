@@ -1,11 +1,12 @@
 ---
-title: "Fiscais do Mapa poderão certificar frutas e hortaliças para a OCDE"
+title: Fiscais do Mapa poderão certificar frutas e hortaliças para a OCDE
 date: 2022-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Brasil integra o Esquema de Frutas e Hortaliças da organização.
 

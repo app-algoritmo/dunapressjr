@@ -1,11 +1,13 @@
 ---
-title: "Banco Central: Setor público registra déficit primário e aumento da dívida pública"
+title: 'Banco Central: Setor público registra déficit primário e aumento da dívida
+  pública'
 date: 2023-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados fiscais apresentam déficits em junho de 2023, enquanto a dívida pública registra aumento significativo
 

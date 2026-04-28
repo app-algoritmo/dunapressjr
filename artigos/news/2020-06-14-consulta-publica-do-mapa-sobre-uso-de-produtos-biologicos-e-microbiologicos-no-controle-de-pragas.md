@@ -1,11 +1,13 @@
 ---
-title: "Consulta pública do Mapa sobre uso de produtos biológicos e microbiológicos no controle de pragas"
+title: Consulta pública do Mapa sobre uso de produtos biológicos e microbiológicos
+  no controle de pragas
 date: 2020-06-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A produção de agentes biológicos e microbiológicos pode substituir em parte ou no todo a utilização de defensivos agrícolas químicos.
 

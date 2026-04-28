@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,21 e atinge menor valor em 10 dias"
+title: Dólar cai para R$ 5,21 e atinge menor valor em 10 dias
 date: 2022-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa subiu 0,77% e chega a maior nível em duas semanas.
 

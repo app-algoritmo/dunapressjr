@@ -1,11 +1,12 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: Governo Federal recupera quase R$ 30 milhões em devoluções"
+title: 'AUXÍLIO EMERGENCIAL: Governo Federal recupera quase R$ 30 milhões em devoluções'
 date: 2020-06-13
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Total reúne recursos devolvidos por 39.517 pessoas que receberam o benefício, mas não se enquadravam nos critérios da lei. Saiba como devolver e denunciar irregularidades.
 

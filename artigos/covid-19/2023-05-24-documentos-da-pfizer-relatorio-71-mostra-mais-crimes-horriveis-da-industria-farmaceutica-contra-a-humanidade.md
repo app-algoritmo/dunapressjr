@@ -1,11 +1,13 @@
 ---
-title: "Documentos da Pfizer: “Relatório 71” mostra mais crimes horríveis da indústria farmacêutica contra a humanidade"
+title: 'Documentos da Pfizer: “Relatório 71” mostra mais crimes horríveis da indústria
+  farmacêutica contra a humanidade'
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A Dra. Naomi Wolf, [do *DailyClout.io*](http://www.dailyclout.io/) , divulgou novas informações dos documentos da Pfizer sobre eventos músculo-esqueléticos de interesse especial, ou AESIs, que agora sabemos que estão ligados à “vacinação” com mRNA da Pfizer Wuhan coronavirus (Covid-19) série “vacina”.
 

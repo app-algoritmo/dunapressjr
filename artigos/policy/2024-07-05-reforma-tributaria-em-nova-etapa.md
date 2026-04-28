@@ -1,11 +1,12 @@
 ---
-title: "Reforma Tributária em nova etapa"
+title: Reforma Tributária em nova etapa
 date: 2024-07-05
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Aprovada a PEC 45/2019, a malfadada emenda da Reforma Tributária, estamos na fase de regulamentação para que esta se torne efetiva. Lendo texto e contexto, está bem claro  que essa proposta não é viável e há vários setores se colocando contra ela. Trata-se de uma jabuticaba, não condizente com nenhum modelo que observamos no mundo, sem nada de positivo nisso.
 

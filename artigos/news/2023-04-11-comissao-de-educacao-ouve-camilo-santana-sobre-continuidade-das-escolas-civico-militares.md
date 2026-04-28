@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Educação ouve Camilo Santana sobre continuidade das escolas cívico-militares"
+title: Comissão de Educação ouve Camilo Santana sobre continuidade das escolas cívico-militares
 date: 2023-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Educação da Câmara dos Deputados ouve o ministro da Educação, Camilo Santana, na próxima quarta-feira (12). O ministro deve falar sobre o plano de atuação e as prioridades da pasta. Além disso, deputados indagam sobre a continuidade das escolas cívico-militares, criadas no governo passado.
 

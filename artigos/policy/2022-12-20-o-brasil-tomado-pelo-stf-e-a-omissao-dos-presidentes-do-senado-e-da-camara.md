@@ -1,11 +1,12 @@
 ---
-title: "O Brasil tomado pelo STF e a omissão dos presidentes do Senado e da Câmara"
+title: O Brasil tomado pelo STF e a omissão dos presidentes do Senado e da Câmara
 date: 2022-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Por meio das redes sociais, parlamentares se mostram cada vez mais insatisfeitos com a atuação do Supremo Tribunal Federal (STF), que deixou de ser um tribunal que julga e está invadindo as competências dos demais poderes (Executivo e Legislativo).
 

@@ -1,11 +1,13 @@
 ---
-title: "PF deflagra Operação Caixa de Música para investigar remessa de drogas pelos Correios"
+title: PF deflagra Operação Caixa de Música para investigar remessa de drogas pelos
+  Correios
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal na manhã de quarta-feira (3/6) a operação policial Caixa de Música, com o objetivo de reprimir a remessa de drogas pelos Correios. A operação contou com a participação de seis policiais federais, que deram cumprimento a um mandado de busca e apreensão, no endereço do investigado no município de Vitória/ES. Com ele, foi encontrada uma encomenda postal contendo uma caixa de som automotiva, postada em Foz do Iguaçu/PR, na qual continha em seu interior aproximadamente 1 kg de haxixe. O destinatário da droga foi preso em flagrante e encaminhado ao Sistema Penitenciário Estadual.
 

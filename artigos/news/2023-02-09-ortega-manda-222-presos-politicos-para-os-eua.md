@@ -1,11 +1,12 @@
 ---
-title: "Ortega manda 222 presos políticos para os EUA"
+title: Ortega manda 222 presos políticos para os EUA
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve negociação com Biden?
 

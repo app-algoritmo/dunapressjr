@@ -1,11 +1,12 @@
 ---
-title: "Anita Garibaldi: A saga da heroína brasileira"
+title: 'Anita Garibaldi: A saga da heroína brasileira'
 date: 2021-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O Brasil, o Uruguai e a Itália comemoram neste mês de agosto o bicentenário de nascimento de Ana Maria de Jesus Ribeiro, que ficou internacionalmente conhecida como Anita Garibaldi, a maior heroína brasileira e “Mãe da Itália”, por ter participado de diversas batalhas ao lado do marido Giuseppe Garibaldi. Para celebrar a data, uma série de eventos nos países que têm relação com a trajetória histórica de Anita Garibaldi, a heroína dos dois mundos, estão sendo desenvolvidos por meio do projeto internacional “Uma rosa para Anita em seu bicentenário”.
 

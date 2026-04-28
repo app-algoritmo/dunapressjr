@@ -1,11 +1,12 @@
 ---
-title: "PF comunica a libertação de brasileiro sequestrado na Colômbia"
+title: PF comunica a libertação de brasileiro sequestrado na Colômbia
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasília/DF - A Polícia Federal informa que, após quase três meses em cativeiro, foi libertado na quinta-feira, 18/6, um cidadão brasileiro, natural do Estado do Rio Grande do Sul, que fora sequestrado, em 19 de março do ano corrente, nas proximidades do município de Corinto, Departamento de Cauca, Colômbia, juntamente com um cidadão de nacionalidade suíça.
 

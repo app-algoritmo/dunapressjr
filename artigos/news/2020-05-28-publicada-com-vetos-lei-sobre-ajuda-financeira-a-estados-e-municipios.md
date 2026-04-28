@@ -1,11 +1,12 @@
 ---
-title: "Publicada com vetos lei sobre ajuda financeira a estados e municípios"
+title: Publicada com vetos lei sobre ajuda financeira a estados e municípios
 date: 2020-05-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Salários dos servidores ficarão sem reajuste até o fim de 2021.
 

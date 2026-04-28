@@ -1,11 +1,13 @@
 ---
-title: "Elza Cansanção Medeiros, a primeira brasileira voluntária para servir na Segunda Guerra Mundial"
+title: Elza Cansanção Medeiros, a primeira brasileira voluntária para servir na Segunda
+  Guerra Mundial
 date: 2019-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Talvez para você seu nome seja desconhecido, mas, Elza Cansanção Medeiros, conhecida como Major Elza, nascida no Rio de Janeiro em 21 de outubro de 1921,  foi a primeira voluntária para servir na Segunda Guerra Mundial pelo Brasil, se alistou no dia 18 de abril de 1943, logo após terminar o curso de Enfermagem das Samaritanas da Cruz Vermelha. 
 

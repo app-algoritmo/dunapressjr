@@ -1,11 +1,12 @@
 ---
-title: "Indicador de Incerteza da Economia segue sem alta pelo 4º mês"
+title: Indicador de Incerteza da Economia segue sem alta pelo 4º mês
 date: 2022-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IIE-Br está, no entanto, 7 pontos acima do nível de fevereiro de 2020.
 

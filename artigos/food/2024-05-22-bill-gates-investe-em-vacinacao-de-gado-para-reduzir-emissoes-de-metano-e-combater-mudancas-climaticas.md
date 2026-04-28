@@ -1,11 +1,13 @@
 ---
-title: "Bill Gates Investe em Vacinação de Gado para 'Reduzir Emissões de Metano e Combater Mudanças Climáticas'"
+title: Bill Gates Investe em Vacinação de Gado para 'Reduzir Emissões de Metano e
+  Combater Mudanças Climáticas'
 date: 2024-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Bill Gates, cofundador da Microsoft e bilionário filantropo, está sendo apontado como a força motriz por trás de uma iniciativa que busca vacinar o gado globalmente para reduzir as emissões de metano e combater as mudanças climáticas. Gates investiu discretamente grandes somas de dinheiro na ArkeaBio, uma empresa farmacêutica com sede em Boston, que desenvolve uma nova vacina para gado.
 

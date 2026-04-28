@@ -1,11 +1,13 @@
 ---
-title: "Mais estados implementam o Balcão Único, solução tecnológica que simplifica a abertura de negócios no país"
+title: Mais estados implementam o Balcão Único, solução tecnológica que simplifica
+  a abertura de negócios no país
 date: 2022-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Com a expansão, chega a 24 o número de unidades da federação beneficiadas com a iniciativa.
 

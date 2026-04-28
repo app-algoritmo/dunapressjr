@@ -1,11 +1,13 @@
 ---
-title: "Novo Embaixador dos Estados Unidos no Brasil se encontra com o Ministro Moro em uma reunião de apresentação"
+title: Novo Embaixador dos Estados Unidos no Brasil se encontra com o Ministro Moro
+  em uma reunião de apresentação
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 17/04/2020 -** O ministro da Justiça e Segurança Pública, Sergio Moro, se reuniu, no Ministério da Justiça e Segurança Pública, nesta sexta-feira, com o novo embaixador dos Estados Unidos no Brasil, Todd Chapman. Estiveram presentes também o diretor-geral da Polícia Federal, Maurício Valeixo e a assessora internacional do MJSP, Géorgia Sanchez Diogo. O embaixador foi acompanhado do encarregado de negócios da Embaixada William Pop e Jason Smith, do escritório de segurança diplomática.
 

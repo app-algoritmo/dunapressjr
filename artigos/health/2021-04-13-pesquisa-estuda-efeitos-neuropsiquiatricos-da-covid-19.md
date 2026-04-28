@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa estuda efeitos neuropsiquiátricos da COVID-19"
+title: Pesquisa estuda efeitos neuropsiquiátricos da COVID-19
 date: 2021-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Estudos realizados por pesquisadores da Universidade Federal do Rio Grande do Sul (UFRGS) indicam que pacientes infectados pelo vírus SARS-CoV-2 podem vir a apresentar distúrbios neuropsiquiátricos.  A pesquisa encontrou sinais de alterações associados ao alcoolismo, autismo, depressão, distúrbios do sono, esquizofrenia, síndrome do pânico e transtorno bipolar. O trabalho contou com a participação de bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e teve a colaboração do Hospital de Clínicas de Porto Alegre.
 

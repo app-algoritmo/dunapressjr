@@ -1,11 +1,13 @@
 ---
-title: "Trump Reafirma Apoio dos Conservadores Cristãos e Anuncia Escolha de Vice-Presidente para 2024"
+title: Trump Reafirma Apoio dos Conservadores Cristãos e Anuncia Escolha de Vice-Presidente
+  para 2024
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos EUA, Donald Trump (2017-2021), reafirmou seu forte apoio entre os conservadores cristãos, durante a principal reunião do grupo neste sábado. "Ele é o único que representa Deus", proclamou um dos participantes no evento promovido pela Faith and Freedom Coalition, realizado no Washington Hilton.
 

@@ -1,11 +1,12 @@
 ---
-title: "Taxas públicas e multas poderão ser quitadas com PicPay"
+title: Taxas públicas e multas poderão ser quitadas com PicPay
 date: 2021-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## PagTesouro passou a oferecer possibilidade.
 

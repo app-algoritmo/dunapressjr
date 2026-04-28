@@ -1,11 +1,13 @@
 ---
-title: "Biden pede a Suprema Corte que derrube a proibição de mutilações genitais de menores"
+title: Biden pede a Suprema Corte que derrube a proibição de mutilações genitais de
+  menores
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A insanidade da administração Biden em castrar meninos e amputar cabeças de meninas está começando a parecer patológica, e o último passo nesse sentido foi apresentar uma petição **à Suprema Corte no início desta semana para derrubar a proibição do Tennessee de “transição de gênero” em menores .**
 

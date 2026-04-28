@@ -1,11 +1,13 @@
 ---
-title: "Pepe Escobar: O tabuleiro de xadrez geopolítico está se movendo contra o império dos EUA"
+title: 'Pepe Escobar: O tabuleiro de xadrez geopolítico está se movendo contra o império
+  dos EUA'
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O tabuleiro de xadrez geopolítico está em constante fluxo – e nunca mais do que no atual período brilhante.
 

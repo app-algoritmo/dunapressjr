@@ -1,11 +1,12 @@
 ---
-title: "As cidades de 15 minutos são inteligentes?"
+title: As cidades de 15 minutos são inteligentes?
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Cidade dos 15 Minutos (FMC) - uma ideia legal, uma nova forma de controlar a população, uma moda passageira na indústria do planejamento público, um plano insidioso de longo prazo - tudo, alguns ou nenhum deles?
 

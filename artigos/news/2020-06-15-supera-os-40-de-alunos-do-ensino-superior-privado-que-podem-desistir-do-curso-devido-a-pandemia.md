@@ -1,11 +1,13 @@
 ---
-title: "Supera os 40% de alunos do ensino superior privado que podem desistir do curso devido à pandemia"
+title: Supera os 40% de alunos do ensino superior privado que podem desistir do curso
+  devido à pandemia
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Quase a totalidade dos estudantes matriculados no ensino superior privado querem continuar os estudos. No entanto, 42% afirma que há um risco de ter que desistir. O principal motivo para o possível abandono é não conseguir pagar as mensalidades, seja porque o emprego foi afetado pela pandemia do novo coronavírus, seja porque os pais ou responsáveis não conseguirão arcar com os custos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Firjan avalia que manutenção da Selic está na direção correta"
+title: Firjan avalia que manutenção da Selic está na direção correta
 date: 2020-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Copom manteve a taxa Selic em 2%.
 

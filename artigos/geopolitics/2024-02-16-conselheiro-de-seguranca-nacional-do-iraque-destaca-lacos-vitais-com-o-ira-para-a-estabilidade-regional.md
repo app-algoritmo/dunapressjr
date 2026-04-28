@@ -1,11 +1,13 @@
 ---
-title: "Conselheiro de Segurança Nacional do Iraque destaca laços vitais com o Irã para a estabilidade regional"
+title: Conselheiro de Segurança Nacional do Iraque destaca laços vitais com o Irã
+  para a estabilidade regional
 date: 2024-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Conselheiro de Segurança Nacional do Iraque, Qasim al-Araji, enfatizou a importância dos laços entre o Irã e o Iraque na busca pela segurança e estabilidade regional. Durante uma reunião com o chefe do Judiciário do Irã, Gholam Hossein Mohseni Ejeie, Al-Araji destacou a interconexão da segurança entre os dois países.
 

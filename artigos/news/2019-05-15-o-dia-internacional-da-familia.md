@@ -1,11 +1,12 @@
 ---
-title: "O Dia Internacional da Família"
+title: O Dia Internacional da Família
 date: 2019-05-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Maio, mês dos casamentos, das mães e da família! Em 1993, a ONU em Assembléia geral deliberou a definição da data cujo escopo é que todo dia 15 de maio o mundo pare para refletir sobre a importância da família na sociedade. Desde então, os países se organizam no sentido de promover festejos e conferências para se debater como andam as famílias contemporâneas e que projetos são possíveis para melhor estruturar o futuro de tantas famílias ao redor do mundo que ainda sofrem de instabilidades e inconsistências de todo tipo, muitas porque sequer entendem o real significado da instituição; são pessoas que não fazem a menor idéia do que fazem juntas, do que significa união tampouco do poder que têm enquanto família, enquanto dinastia. 
 

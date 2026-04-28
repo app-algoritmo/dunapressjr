@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Na esteira do Itambé"
+title: 'Série Fatos Da Independência: Na esteira do Itambé'
 date: 2023-10-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Uma espécie de sociedade secreta, na qual ideias quase que ilícitas para os súditos de uma monarquia eram debatidas: assim era o Areópago de Itambé. Fundado pelo paraibano Manuel de Arruda Câmara, ficava propositalmente na fronteira entre Pernambuco e a Paraíba Foi a primeira loja maçônica a se estabelecer em terras brasileiras. Lá se encontravam, desde o século XVIII, homens de famílias econômica e politicamente importantes das capitanias próximas, incluindo o Rio Grande do Norte. Dentro e fora da loja, Arruda Câmara fomentava discussões sobre Liberdade, República e Independência, espalhando, pelas capitanias, o que considerava ser o melhor para o Brasil.
 

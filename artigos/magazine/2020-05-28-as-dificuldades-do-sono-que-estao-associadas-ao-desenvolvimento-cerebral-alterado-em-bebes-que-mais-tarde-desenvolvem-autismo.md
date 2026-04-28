@@ -1,11 +1,13 @@
 ---
-title: "As dificuldades do sono que estão associadas ao desenvolvimento cerebral alterado em bebês que mais tarde desenvolvem autismo"
+title: As dificuldades do sono que estão associadas ao desenvolvimento cerebral alterado
+  em bebês que mais tarde desenvolvem autismo
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Uma nova pesquisa descobriu que os problemas de sono nos primeiros 12 meses de um bebê podem não apenas preceder o diagnóstico de autismo, mas também podem estar associados a uma trajetória de crescimento alterada em uma parte importante do cérebro, o hipocampo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,08 com exterior e repercussões sobre arcabouço"
+title: Dólar sobe para R$ 5,08 com exterior e repercussões sobre arcabouço
 date: 2023-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores cai 2,12% e fecha no menor nível em nove dias.
 

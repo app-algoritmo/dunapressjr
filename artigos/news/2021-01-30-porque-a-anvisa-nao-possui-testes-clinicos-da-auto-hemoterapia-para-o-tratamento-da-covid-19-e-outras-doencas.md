@@ -1,11 +1,13 @@
 ---
-title: "Porque a Anvisa não possui testes clínicos da Auto-Hemoterapia para o tratamento da covid-19 e outras doenças?"
+title: Porque a Anvisa não possui testes clínicos da Auto-Hemoterapia para o tratamento
+  da covid-19 e outras doenças?
 date: 2021-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A auto-hemoterapia é uma técnica terapêutica simples usada em diversos países desenvolvidos para o tratamento de várias doenças. Por tratar-se de um tratamento que requer apenas o uso do sangue do paciente, em que a mesma não é viável na relação custo-benefício a auto-hemoterapia tornou-se uma técnica proibida no Brasil. 
 

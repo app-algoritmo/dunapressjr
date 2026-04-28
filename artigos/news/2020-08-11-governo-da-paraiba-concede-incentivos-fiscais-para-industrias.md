@@ -1,11 +1,12 @@
 ---
-title: "Governo da Paraíba concede incentivos fiscais para industrias"
+title: Governo da Paraíba concede incentivos fiscais para industrias
 date: 2020-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Projetos somam investimentos de mais de R$ 744 milhões.
 

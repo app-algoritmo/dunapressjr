@@ -1,11 +1,12 @@
 ---
-title: "Encontrado em Israel, pano antigo datado da época do Rei Davi"
+title: Encontrado em Israel, pano antigo datado da época do Rei Davi
 date: 2021-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Pesquisadores israelenses encontraram três restos de tecidos perto do extremo sul de Israel, coloridos com o corante púrpura real “ *argaman* ” biblicamente descrito e datados de cerca de 1.000 aC - a era do rei Davi. Os mais antigos achados nessa região, os tecidos vibrantes adicionam peso tangível, em particular, ao relato bíblico de um reino edomita na área naquela época.
 

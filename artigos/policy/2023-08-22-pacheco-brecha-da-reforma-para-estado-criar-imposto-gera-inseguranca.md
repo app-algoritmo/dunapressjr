@@ -1,11 +1,12 @@
 ---
-title: "Pacheco: brecha da reforma para estado criar imposto gera insegurança"
+title: 'Pacheco: brecha da reforma para estado criar imposto gera insegurança'
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Artigo foi aprovado na Câmara e será rediscutido pelo Senado.
 

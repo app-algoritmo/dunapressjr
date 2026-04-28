@@ -1,11 +1,13 @@
 ---
-title: "Esclarecido pelo Mapa a investidores estrangeiros que regularização fundiária será importante para preservação da Amazônia"
+title: Esclarecido pelo Mapa a investidores estrangeiros que regularização fundiária
+  será importante para preservação da Amazônia
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Tereza Cristina também explicou que a proposta não retirou nenhuma determinação da legislação vigente e que a regularização será feita com instrumentos modernos.
 

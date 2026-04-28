@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cresce 0,35% em fevereiro"
+title: Atividade econômica cresce 0,35% em fevereiro
 date: 2020-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A atividade econômica registrou crescimento em fevereiro, mês que não sofreu efeitos das medidas de isolamento social, necessárias para o enfrentamento da pandemia de covid-19. É o que mostra o Índice de Atividade Econômica do Banco Central (IBC-Br), divulgado hoje (14) pelo Banco Central (BC).
 

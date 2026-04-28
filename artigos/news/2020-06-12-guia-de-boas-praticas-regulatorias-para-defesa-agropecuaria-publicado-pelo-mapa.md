@@ -1,11 +1,13 @@
 ---
-title: "Guia de boas práticas regulatórias para defesa agropecuária publicado pelo Mapa."
+title: Guia de boas práticas regulatórias para defesa agropecuária publicado pelo
+  Mapa.
 date: 2020-06-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A iniciativa promove a transparência, a participação social e a melhoria da qualidade regulatória.
 

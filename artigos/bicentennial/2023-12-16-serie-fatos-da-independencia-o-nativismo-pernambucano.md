@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O nativismo pernambucano"
+title: 'Série Fatos Da Independência: O nativismo pernambucano'
 date: 2023-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Os pernambucanos se enxergaram na guerra holandesa, ocorrida na segunda metade do século XVII, de uma maneira cuidadosamente idealizada. Graças a essa idealização eles foram capazes de construir uma narrativa com potencial simbólico e força retórica suficientes para abrigar reivindicações de soberania e autonomismo político ao longo de dois séculos. Funciona como uma espécie de mito de fundação: Pernambuco derrotou o invasor holandês em uma guerra travada às próprias custas. O retorno ao domínio português seria, portanto, o resultado mais espetacular de uma escolha livre, decidida pelos colonos vitoriosos, pactuada com a Coroa debaixo de condições que ela jamais cumpriu. Um episódio tão decisivo para Portugal e de tal forma grandioso implicava em certa dose de simetria e os pernambucanos passaram a se entender, a partir de então, como súditos especiais, mediados por uma espécie de contrato na relação de poder com o rei português. No final das contas, Lisboa lhes devia prestígio, cargos e privilégios.
 

@@ -1,11 +1,12 @@
 ---
-title: "China habilita 25 unidades do Brasil para exportações de carne"
+title: China habilita 25 unidades do Brasil para exportações de carne
 date: 2019-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As ações das empresas operavam em alta após a notícia. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Redução do IPI marca início da era de reindustrialização do Brasil"
+title: Redução do IPI marca início da era de reindustrialização do Brasil
 date: 2022-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corte no Imposto sobre Produtos Industrializados atinge mercadorias como brinquedos e eletrodomésticos.
 

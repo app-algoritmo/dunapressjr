@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que preço do petróleo ainda vai subir mais"
+title: Ministro diz que preço do petróleo ainda vai subir mais
 date: 2021-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bento Albuquerque aponta desvalorização do real como uma das causas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Amílcar Vianna Martins"
+title: 'Série Brasileiros em Destaque: Amílcar Vianna Martins'
 date: 2021-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão:Parasitologista.
 

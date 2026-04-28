@@ -1,11 +1,13 @@
 ---
-title: "A Importância da População Armada na Prevenção de Ataques Terroristas ou invasão inimiga"
+title: A Importância da População Armada na Prevenção de Ataques Terroristas ou invasão
+  inimiga
 date: 2023-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 A população armada desempenha um papel significativo na prevenção de ataques terroristas, atuando como uma primeira linha de defesa
 

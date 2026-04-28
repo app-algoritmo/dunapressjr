@@ -1,11 +1,12 @@
 ---
-title: "Submarino nuclear russo testa 4 mísseis com sucesso"
+title: Submarino nuclear russo testa 4 mísseis com sucesso
 date: 2020-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 MOSCOU — Um submarino nuclear russo testou com sucesso quatro mísseis balísticos intercontinentais em uma demonstração de prontidão das forças nucleares de Moscou em meio à tensão com os Estados Unidos.
 

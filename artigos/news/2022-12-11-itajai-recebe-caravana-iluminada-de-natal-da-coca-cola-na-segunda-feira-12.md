@@ -1,11 +1,12 @@
 ---
-title: "Itajaí recebe Caravana Iluminada de Natal da Coca-Cola na segunda-feira (12)"
+title: Itajaí recebe Caravana Iluminada de Natal da Coca-Cola na segunda-feira (12)
 date: 2022-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na próxima segunda-feira (12), Itajaí receberá a Caravana Iluminada de Natal da Coca-Cola. Com o conceito "O Natal Sempre Encontra o Caminho", o passeio iniciará às 17h30 na avenida Governador Adolfo Konder, no bairro Cidade Nova, e encerrerá por volta das 19h na avenida Osvaldo Reis. Cinco caminhões iluminadas integram a caravana. A ação é apoiada pela Secretaria de Turismo e Eventos e, para garantir a segurança e a fluidez no trânsito, contará também com o suporte da Coordenadoria de Trânsito de Itajaí (Codetran). O evento é retomado após dois anos de pausa devido à pandemia de COVID-19.
 

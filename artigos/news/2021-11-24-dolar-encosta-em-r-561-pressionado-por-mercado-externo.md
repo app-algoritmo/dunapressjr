@@ -1,11 +1,12 @@
 ---
-title: "Dólar encosta em R$ 5,61, pressionado por mercado externo"
+title: Dólar encosta em R$ 5,61, pressionado por mercado externo
 date: 2021-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa recupera-se e fecha no maior nível em uma semana.
 

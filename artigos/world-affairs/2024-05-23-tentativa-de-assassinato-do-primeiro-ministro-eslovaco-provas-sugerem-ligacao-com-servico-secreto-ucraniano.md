@@ -1,11 +1,13 @@
 ---
-title: "Tentativa de Assassinato do Primeiro-Ministro Eslovaco: Provas Sugerem Ligação com Serviço Secreto Ucraniano"
+title: 'Tentativa de Assassinato do Primeiro-Ministro Eslovaco: Provas Sugerem Ligação
+  com Serviço Secreto Ucraniano'
 date: 2024-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente tentativa de assassinato do Primeiro-Ministro eslovaco, Robert Fico, está causando grande comoção internacional após a polícia eslovaca descobrir evidências que sugerem uma conexão com a Direção de Inteligência Ucraniana (HUR).
 

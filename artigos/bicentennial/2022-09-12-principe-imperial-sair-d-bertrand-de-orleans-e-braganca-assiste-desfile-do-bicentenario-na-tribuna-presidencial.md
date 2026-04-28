@@ -1,13 +1,15 @@
 ---
-title: "Príncipe Imperial S.A.I.R D. Bertrand de Orleans e Bragança assiste Desfile do Bicentenário na Tribuna Presidencial"
+title: Príncipe Imperial S.A.I.R D. Bertrand de Orleans e Bragança assiste Desfile
+  do Bicentenário na Tribuna Presidencial
 date: 2022-09-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 Em Brasília, Sua Alteza, o Principe Chefe da Casa Imperial do Brasil, Dom Bertrand de Orleans e Bragança participou das comemorações cívicas do Bicentenário da Independência do Brasil junto ao Presidente da República, Jair Messias Bolsonaro.
 

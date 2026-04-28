@@ -1,11 +1,12 @@
 ---
-title: "COVID-19: O vírus pode estar presente nas partículas da poluição do ar"
+title: 'COVID-19: O vírus pode estar presente nas partículas da poluição do ar'
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cientistas italianos detectaram traços do coronavírus em partículas de poluição do ar como parte de um estudo preliminar.
 

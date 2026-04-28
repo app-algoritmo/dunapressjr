@@ -1,11 +1,13 @@
 ---
-title: "Aumento recorde de casos de antissemitismo nos EUA e em outros países, apontam relatórios"
+title: Aumento recorde de casos de antissemitismo nos EUA e em outros países, apontam
+  relatórios
 date: 2022-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Relatórios divulgados pela ADL (Liga Anti-Difamação) e pela Universidade de Tel Aviv revelaram um aumento recorde de incidentes antissemitas nos Estados Unidos e em vários países em 2021. Segundo o site da ADL, os incidentes antissemitas atingiram um recorde histórico de 2.717 casos no ano passado nos EUA – uma média de mais de sete incidentes por dia e um aumento de 34% no ano, incluindo agressões, assédio e atos de vandalismo contra instituições judaicas. Este foi o número mais alto registrado desde que a ADL começou a rastrear incidentes antissemitas em 1979. Leia mais em: [https://www.adl.org/audit2021w](https://www.adl.org/audit2021w)
 

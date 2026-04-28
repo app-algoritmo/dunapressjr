@@ -1,11 +1,13 @@
 ---
-title: "Suprema Corte dos EUA Permite que Texas Aplique Lei de Imigração: Conflito entre Estado e Administração Biden se Intensifica"
+title: 'Suprema Corte dos EUA Permite que Texas Aplique Lei de Imigração: Conflito
+  entre Estado e Administração Biden se Intensifica'
 date: 2024-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Suprema Corte dos Estados Unidos (SCOTUS) rejeitou um pedido de emergência da administração Biden para impedir o Texas de aplicar uma nova lei de imigração ilegal. Em uma decisão de 6-3, o tribunal mais alto do país decidiu que a polícia do Texas pode prender migrantes ilegais enquanto tentam atravessar a fronteira do México para os EUA, apesar das contestações nos tribunais inferiores.
 

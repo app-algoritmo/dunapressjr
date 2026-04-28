@@ -1,12 +1,13 @@
 ---
-title: "Dinheiro em Foco: Um Guia para Iniciantes em Investimentos"
+title: 'Dinheiro em Foco: Um Guia para Iniciantes em Investimentos'
 date: 2023-04-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 Se você está pensando em começar a investir, é importante ter em mente que, embora possa parecer intimidante no começo, o mundo dos investimentos pode ser muito gratificante a longo prazo.
 

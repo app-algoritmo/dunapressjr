@@ -1,11 +1,12 @@
 ---
-title: "Com o fim da janela partidária, PL obtém a maior bancada da Câmara"
+title: Com o fim da janela partidária, PL obtém a maior bancada da Câmara
 date: 2022-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Com o fim da janela partidária, na sexta-feira (1º), o PL se tornou a maior bancada da Câmara, com 73 deputados no momento. É mais do que o dobro do que o partido tinha na época da posse, quando contava com 33 deputados.
 

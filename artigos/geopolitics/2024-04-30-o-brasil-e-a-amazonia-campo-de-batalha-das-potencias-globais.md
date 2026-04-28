@@ -1,11 +1,12 @@
 ---
-title: "O Brasil e a Amazônia: Campo de Batalha das Potências Globais"
+title: 'O Brasil e a Amazônia: Campo de Batalha das Potências Globais'
 date: 2024-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Brasil e sua vasta região amazônica têm despertado um interesse crescente por parte das potências globais, que veem na maior floresta tropical do mundo não apenas uma fonte de biodiversidade, mas também um importante campo de batalha geopolítica. À medida que as preocupações com a mudança climática aumentam e os recursos naturais se tornam cada vez mais escassos, o destino da Amazônia está no centro de um debate global sobre conservação ambiental, desenvolvimento econômico e soberania nacional.
 

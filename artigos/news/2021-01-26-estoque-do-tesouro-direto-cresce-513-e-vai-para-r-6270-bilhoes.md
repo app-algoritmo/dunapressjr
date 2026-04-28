@@ -1,11 +1,12 @@
 ---
-title: "Estoque do Tesouro Direto cresce 5,13% e vai para R$ 62,70 bilhões"
+title: Estoque do Tesouro Direto cresce 5,13% e vai para R$ 62,70 bilhões
 date: 2021-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado do ano, entretanto, é de resgate líquido R$ 2,09 bilhões.
 

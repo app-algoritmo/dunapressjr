@@ -1,11 +1,12 @@
 ---
-title: "Total de famílias com contas atrasadas é o maior em 12 anos, diz CNC"
+title: Total de famílias com contas atrasadas é o maior em 12 anos, diz CNC
 date: 2022-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alcançando 27% dos lares, inadimplência cresceu, em fevereiro, 0,6 pp.
 

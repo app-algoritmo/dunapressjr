@@ -1,11 +1,12 @@
 ---
-title: "Plínio Valério critica abordagem radical de preservação da Amazônia"
+title: Plínio Valério critica abordagem radical de preservação da Amazônia
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM), em pronunciamento no Plenário nesta quarta-feira (18), mencionou a prorrogação da comissão parlamentar de inquérito (CPI) que investiga a atuação de organizações não governamentais (ONGs) na Amazônia. O parlamentar informou que cinco delas já estão sendo investigadas. Segundo ele, dados apontam que, até o momento, as organizações já arrecadaram juntas R$ 2,1 bilhões, enquanto as regiões que necessitam de apoio não recebem assistência.
 

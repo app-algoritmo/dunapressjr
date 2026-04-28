@@ -1,11 +1,12 @@
 ---
-title: "Atenção à Dislexia"
+title: Atenção à Dislexia
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 De acordo com a definição adotada pela [International Dyslexia Association (IDA)](https://dyslexiaida.org/), dislexia é caracterizada como um transtorno específico de aprendizagem de origem neurobiológica, caracterizada por dificuldade no reconhecimento preciso e/ou fluente da palavra, na habilidade de decodificação e em soletração.
 

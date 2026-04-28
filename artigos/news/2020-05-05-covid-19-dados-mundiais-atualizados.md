@@ -1,11 +1,12 @@
 ---
-title: "COVID-19:  Dados mundiais atualizados"
+title: 'COVID-19:  Dados mundiais atualizados'
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No mundo, o novo coronavírus já faz 3.571.615 infectados, além de ter causado 250.134 óbitos. Ao menos 1.159.015 pacientes estão recuperados.
 

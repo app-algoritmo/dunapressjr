@@ -1,11 +1,12 @@
 ---
-title: "PF realiza incineração de mais de 3 toneladas de drogas em Curitiba"
+title: PF realiza incineração de mais de 3 toneladas de drogas em Curitiba
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Curitiba/PR – A Polícia Federal realizou nesta sexta-feira (22/5) a incineração de cerca de 3,1 toneladas de drogas apreendidas em diversas operações realizadas pela Polícia Federal, muitas delas que contaram com o apoio e participação da Receita Federal e Polícia Militar.
 

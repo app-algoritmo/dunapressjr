@@ -1,11 +1,12 @@
 ---
-title: "Senado precisa se aproximar da população, defende Girão"
+title: Senado precisa se aproximar da população, defende Girão
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) afirmou, em pronunciamento no Plenário nesta segunda-feira (26), que o Senado deveria “se aproximar da população brasileira e fazer as pazes com o povo”. Segundo ele, as críticas recebidas pela Casa mostram que a sociedade tem “ojeriza à política”. Dizendo que o Brasil convive, desde o início da colonização portuguesa, com uma "cultura negativa de tolerância à corrupção e à impunidade daqueles que detêm poder político e econômico”, Girão citou fatos ocorridos nos últimos anos que, na avaliação dele, configuram uma degradação de valores sem precedentes.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro  lança Programa Emergencial para ajudar pequenas e médias empresas durante pandemia"
+title: Governo Bolsonaro  lança Programa Emergencial para ajudar pequenas e médias
+  empresas durante pandemia
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para o secretário especial de Produtividade, Emprego e Competitividade, Carlos Da Costa, a medida fará com o que o Brasil consiga retomar as atividades mais rapidamente.
 

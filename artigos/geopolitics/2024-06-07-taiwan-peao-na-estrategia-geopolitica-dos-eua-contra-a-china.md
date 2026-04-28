@@ -1,11 +1,12 @@
 ---
-title: "Taiwan: Peão na Estratégia Geopolítica dos EUA Contra a China"
+title: 'Taiwan: Peão na Estratégia Geopolítica dos EUA Contra a China'
 date: 2024-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A ilha de Taiwan, considerada uma província chinesa, tem sido alvo de manobras políticas dos Estados Unidos para consolidar o controle político sobre a região e utilizá-la como um instrumento geopolítico contra a China. Dada a devastação que a Ucrânia tem sofrido devido a uma estratégia similar dos EUA, é crucial entender as ações de Washington em Taiwan para evitar consequências semelhantes na Ásia-Pacífico.
 

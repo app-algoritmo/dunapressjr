@@ -1,11 +1,12 @@
 ---
-title: "Governo Jair Bolsonaro repassa R$ 375 milhões para alimentação escolar"
+title: Governo Jair Bolsonaro repassa R$ 375 milhões para alimentação escolar
 date: 2020-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mesmo com a pandemia e a paralisação de atividades presenciais nas escolas, Governo Federal está assegurando a distribuição dos alimentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "A eterna máquina de crise do Pentágono"
+title: A eterna máquina de crise do Pentágono
 date: 2023-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Dada a decisão do presidente Biden de enviar 31 de seus tanques M1 Abrams de primeira linha para a Ucrânia, está claro que o Pentágono decidiu intensificar sua guerra contra a Rússia. 
 

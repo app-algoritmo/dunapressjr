@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde fecha fase de classificação com vitória e vai encarar o Pinheiros nos playoffs"
+title: Osasco São Cristóvão Saúde fecha fase de classificação com vitória e vai encarar
+  o Pinheiros nos playoffs
 date: 2024-03-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar derrotou o Bluvolei por 3 sets a 0 e, como vice-líder, vai encarar o sétimo classificado nas quartas de final.
 

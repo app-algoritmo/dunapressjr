@@ -1,11 +1,13 @@
 ---
-title: "Quadrinhos, charges, poemas: como diferentes gêneros textuais ajudam a compreender o mundo"
+title: 'Quadrinhos, charges, poemas: como diferentes gêneros textuais ajudam a compreender
+  o mundo'
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Uma placa de trânsito, um meme nas redes sociais, um poema escrito em 1852, uma foto. A leitura e interpretação de textos de diferentes tipos e gêneros é indispensável para que os seres humanos possam se comunicar e participar da sociedade contemporânea. E esse é um exercício que começa a ser feito desde cedo, ainda na primeira infância.
 

@@ -1,11 +1,12 @@
 ---
-title: "O poder da educação para prevenir o racismo e a discriminação"
+title: O poder da educação para prevenir o racismo e a discriminação
 date: 2018-09-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Essa semana os principais veículos de comunicação social da Noruega divulgaram o discurso da secretária de Estado, Ingvild Stub, na Assembléia Geral das Nações Unidas em Nova York, que ocorreu em 26 de setembro de 2018.
 

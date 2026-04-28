@@ -1,11 +1,12 @@
 ---
-title: "As pontes que vão desmoronar com a matemática eqüitativa"
+title: As pontes que vão desmoronar com a matemática eqüitativa
 date: 2021-04-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -A Ponte 9340 foi inaugurada em 1967 e foi a terceira ponte mais movimentada do estado de Minnesota, transportando 140.000 veículos por dia.
 

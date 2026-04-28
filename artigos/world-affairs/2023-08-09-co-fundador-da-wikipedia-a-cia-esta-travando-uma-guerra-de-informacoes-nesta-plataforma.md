@@ -1,11 +1,13 @@
 ---
-title: "Co-fundador da Wikipedia - a CIA está travando uma guerra de informações nesta plataforma"
+title: Co-fundador da Wikipedia - a CIA está travando uma guerra de informações nesta
+  plataforma
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Wikipedia é uma das muitas ferramentas usadas pelo establishment liberal dos EUA e seus aliados na comunidade de inteligência para travar uma "guerra de informação", disse o co-fundador do site, Larry Sanger, ao jornalista Glenn Greenwald.
 

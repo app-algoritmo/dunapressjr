@@ -1,11 +1,12 @@
 ---
-title: "Novo plano de ação para prevenção ao Suicídio"
+title: Novo plano de ação para prevenção ao Suicídio
 date: 2018-09-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Governo norueguês iniciou o novo plano de ação para prevenção ao Suicídio ontem, 10 de setembro, Dia Mundial de Prevenção ao Suicídio. A primeira preocupação é a captação de sinais em pessoas que estão cogitando praticar a ação. A seguir, cuidados de saúde mental que envolve, por exemplo, assegurar que crianças e jovens cresçam em ambientes seguros. Por fim, é fundamental que tanto os centros de saúde quanto os serviços de saúde dentro das escolas estejam bem preparados. Dentre as providências estão cursos de saúde mental e abuso de substâncias e um maior número de psicólogos disponíveis.
 

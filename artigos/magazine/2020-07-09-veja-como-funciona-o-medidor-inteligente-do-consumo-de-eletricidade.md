@@ -1,11 +1,12 @@
 ---
-title: "Veja como funciona o medidor inteligente do consumo de eletricidade"
+title: Veja como funciona o medidor inteligente do consumo de eletricidade
 date: 2020-07-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Arquitetura / Energia / Tecnologia:
 

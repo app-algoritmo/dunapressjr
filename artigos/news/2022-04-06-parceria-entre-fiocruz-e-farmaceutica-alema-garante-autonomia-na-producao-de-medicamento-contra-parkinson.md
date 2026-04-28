@@ -1,11 +1,13 @@
 ---
-title: "Parceria entre Fiocruz e farmacêutica alemã garante autonomia na produção de medicamento contra Parkinson"
+title: Parceria entre Fiocruz e farmacêutica alemã garante autonomia na produção de
+  medicamento contra Parkinson
 date: 2022-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação Oswaldo Cruz (Fiocruz) e a farmacêutica alemã Boehringer Ingelheim anunciaram a conclusão da Parceria de Desenvolvimento Produtivo (PDP) para a fabricação do medicamento para tratamento contra a doença de Parkinson no Brasil, o pramipexol.
 

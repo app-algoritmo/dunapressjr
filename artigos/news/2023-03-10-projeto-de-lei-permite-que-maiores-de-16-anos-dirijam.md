@@ -1,11 +1,12 @@
 ---
-title: "Projeto de lei permite que maiores de 16 anos dirijam"
+title: Projeto de lei permite que maiores de 16 anos dirijam
 date: 2023-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 314/23 altera o Código de Trânsito Brasileiro, reduzindo de 18 anos para 16 anos a idade mínima para obter a Permissão para Dirigir. Autor da proposta, o deputado Roberto Duarte (Republicanos-AC) lembra que maiores de 16 anos já podem votar e participar ativamente da vida política nacional. Diante disso, ele considera “incongruente que ainda perdure a proibição de que jovens de 16 anos venham a conduzir carros ou motocicletas”.
 

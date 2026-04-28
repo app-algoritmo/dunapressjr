@@ -1,11 +1,13 @@
 ---
-title: "Relator da LDO acredita que queda da arrecadação pode impedir déficit zero em 2024"
+title: Relator da LDO acredita que queda da arrecadação pode impedir déficit zero
+  em 2024
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Danilo Forte citou o estímulo ao empreendedorismo feminino como uma das prioridades da LDO de 2024.
 

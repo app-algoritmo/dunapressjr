@@ -1,11 +1,12 @@
 ---
-title: "Acompanhe as ações do MEC durante a pandemia"
+title: Acompanhe as ações do MEC durante a pandemia
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As informações deste texto estão atualizadas até as 18 horas de 17 de junho de 2020.
 

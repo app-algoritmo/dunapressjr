@@ -1,11 +1,12 @@
 ---
-title: "Privatização da Eletrobras é mantida para primeiro semestre de 2022"
+title: Privatização da Eletrobras é mantida para primeiro semestre de 2022
 date: 2021-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Conselho do PPI aprovou modelo de venda da Codesa e da CBTU.
 

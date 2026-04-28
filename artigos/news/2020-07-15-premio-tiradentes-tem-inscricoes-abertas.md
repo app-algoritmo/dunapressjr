@@ -1,11 +1,12 @@
 ---
-title: "Prêmio Tiradentes tem inscrições abertas"
+title: Prêmio Tiradentes tem inscrições abertas
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Serão selecionadas teses e dissertações produzidas no Brasil, em todas as áreas do conhecimento, cujos temas tenham relação com a Defesa Nacional.
 

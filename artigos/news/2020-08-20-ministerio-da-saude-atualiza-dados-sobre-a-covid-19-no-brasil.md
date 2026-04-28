@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde atualiza dados sobre a Covid-19 no Brasil"
+title: Ministério da Saúde atualiza dados sobre a Covid-19 no Brasil
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante coletiva de imprensa nesta quarta-feira (19), o secretário de Vigilância em Saúde falou sobre as medidas que contribuem para o controle da pandemia no país.
 

@@ -1,11 +1,13 @@
 ---
-title: "Códigos da Tabela de Incidência de IPI são modificados para adequação à Nomenclatura Comum do Mercosul"
+title: Códigos da Tabela de Incidência de IPI são modificados para adequação à Nomenclatura
+  Comum do Mercosul
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 # Códigos da Tabela de Incidência de IPI são modificados para adequação à Nomenclatura Comum do Mercosul
 

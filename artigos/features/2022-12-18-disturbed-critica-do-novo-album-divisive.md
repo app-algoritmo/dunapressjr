@@ -1,11 +1,12 @@
 ---
-title: "Disturbed | Crítica do novo álbum 'Divisive'."
+title: Disturbed | Crítica do novo álbum 'Divisive'.
 date: 2022-12-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Divisive é mais um álbum cheio da personalidade e crítica social pela qual o Disturbed já é amplamente conhecido.
 

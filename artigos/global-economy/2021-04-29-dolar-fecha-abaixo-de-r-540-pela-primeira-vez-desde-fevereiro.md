@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha abaixo de R$ 5,40 pela primeira vez desde fevereiro"
+title: Dólar fecha abaixo de R$ 5,40 pela primeira vez desde fevereiro
 date: 2021-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe e atinge maior nível em quase duas semanas.
 

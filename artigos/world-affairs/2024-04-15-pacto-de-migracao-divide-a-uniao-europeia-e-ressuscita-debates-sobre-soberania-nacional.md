@@ -1,11 +1,13 @@
 ---
-title: "Pacto de migração divide a União Europeia e ressuscita debates sobre soberania nacional"
+title: Pacto de migração divide a União Europeia e ressuscita debates sobre soberania
+  nacional
 date: 2024-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O recente pacto de migração aprovado pelo Parlamento Europeu trouxe à tona divisões dentro da União Europeia, especialmente entre os países do Grupo de Visegrád - Polônia, Hungria, República Checa e Eslováquia - que se opõem ao princípio de solidariedade do acordo.
 

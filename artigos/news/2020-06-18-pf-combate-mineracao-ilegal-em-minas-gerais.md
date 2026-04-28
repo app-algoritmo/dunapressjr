@@ -1,11 +1,12 @@
 ---
-title: "PF combate mineração ilegal em Minas Gerais"
+title: PF combate mineração ilegal em Minas Gerais
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – A Polícia Federal deflagrou nesta quarta-feira, 17/6, a Operação PEDRA LASCADA, para combater usurpação de bem da União e crime ambiental.  Os envolvidos atuavam no mercado de mineral conhecido como Pedra Lagoa Santa. 
 

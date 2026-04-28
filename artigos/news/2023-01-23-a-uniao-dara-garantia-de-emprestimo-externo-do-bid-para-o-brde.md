@@ -1,11 +1,12 @@
 ---
-title: "A união dará garantia de empréstimo externo do BID para o BRDE"
+title: A união dará garantia de empréstimo externo do BID para o BRDE
 date: 2023-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Recurso será destinado a financiar o "Programa de Promoção do Desenvolvimento Local da Região Sul - ProSul".
 

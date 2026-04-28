@@ -1,11 +1,12 @@
 ---
-title: "Documentos do Facebook mostram a censura aberta e agressiva"
+title: Documentos do Facebook mostram a censura aberta e agressiva
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os dados foram fornecidos a uma comissão do Congresso pelo Facebook e mostram a intensa pressão que a Casa Branca e outras instituições vêm exercendo sobre os gigantes das redes sociais durante a pandemia. O objetivo era suprimir histórias e até memes que desagradassem a Casa Branca. Isso ficou muito conhecido. Meu processo ainda está pendente e espero que isso ajude meu caso.
 

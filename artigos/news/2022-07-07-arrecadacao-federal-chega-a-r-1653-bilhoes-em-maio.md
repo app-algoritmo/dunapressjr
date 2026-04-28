@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal chega a R$ 165,3 bilhões em maio"
+title: Arrecadação federal chega a R$ 165,3 bilhões em maio
 date: 2022-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O crescimento real registrado foi de 4,1%.
 

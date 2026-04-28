@@ -1,11 +1,13 @@
 ---
-title: "Episódio de estreia de 'Percy Jackson e os Olimpianos' atrai 13,3 milhões de visualizações em 6 dias, afirma a Disney"
+title: Episódio de estreia de 'Percy Jackson e os Olimpianos' atrai 13,3 milhões de
+  visualizações em 6 dias, afirma a Disney
 date: 2024-01-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 Percy Jackson conta a história de um jovem que descobre que os deuses gregos e as criaturas mitológicas são reais. Ele é filho de uma divindade e logo entra para um acampamento de treinamento para semideuses. Enquanto tenta se adaptar a seus novos poderes e amigos, ele descobre que o Raio-Mestre do poderoso Zeus foi roubado e ele é o principal suspeito. Assim, ele tenta solucionar o mistério junto com seus novos colegas, Grover e Annabeth.
 

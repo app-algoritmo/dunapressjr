@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Segurança vai debater violência contra policial no Rio de Janeiro"
+title: Comissão de Segurança vai debater violência contra policial no Rio de Janeiro
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública da Câmara dos Deputados vai realizar audiência pública na próxima quarta-feira (18) para debater o aumento da criminalidade no Rio de Janeiro, especialmente a praticada contra policiais militares.
 

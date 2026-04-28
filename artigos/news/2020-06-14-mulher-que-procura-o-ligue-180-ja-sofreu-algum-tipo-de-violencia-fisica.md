@@ -1,11 +1,12 @@
 ---
-title: "Mulher que procura o Ligue 180  já sofreu algum tipo de violência física"
+title: Mulher que procura o Ligue 180  já sofreu algum tipo de violência física
 date: 2020-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 balanço divulgado pela Ouvidoria Nacional de Direitos Humanos (ONDH) mostrou que as mulheres vítimas de violações de direitos que entram em contato com a Central de Atendimento à Mulher - Ligue 180 já estão em situação de violência instalada nas relações e foram alvos de algum tipo de violência física.
 

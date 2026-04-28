@@ -1,11 +1,12 @@
 ---
-title: "O Futebol como Escape: Como o Esporte Alivia os Problemas Cotidianos dos Brasileiros"
+title: 'O Futebol como Escape: Como o Esporte Alivia os Problemas Cotidianos dos Brasileiros'
 date: 2024-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O futebol é mais do que apenas um esporte para os brasileiros; é uma paixão profundamente enraizada na cultura e na identidade nacional. Além de ser uma forma de entretenimento, o futebol também desempenha um papel importante como uma válvula de escape para os problemas cotidianos que afetam os brasileiros.
 

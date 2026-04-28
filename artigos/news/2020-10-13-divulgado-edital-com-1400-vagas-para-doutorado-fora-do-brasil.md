@@ -1,11 +1,12 @@
 ---
-title: "Divulgado edital com 1.400 vagas para doutorado fora do Brasil"
+title: Divulgado edital com 1.400 vagas para doutorado fora do Brasil
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação, por meio da Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior), está ofertando 1.400 bolsas fora do Brasil para doutorandos de programas de pós-graduação (PPG). O edital, referente ao Programa de Doutorado-Sanduíche no Exterior (PDSE),  foi publicado no Diário oficial da União desta sexta-feira (9).
 

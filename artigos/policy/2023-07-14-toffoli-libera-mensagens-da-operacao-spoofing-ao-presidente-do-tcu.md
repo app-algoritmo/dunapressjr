@@ -1,11 +1,12 @@
 ---
-title: "Toffoli libera mensagens da Operação Spoofing ao presidente do TCU"
+title: Toffoli libera mensagens da Operação Spoofing ao presidente do TCU
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ministro foi citado em conversas de integrantes da Lava Jato.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em alta impulsionado por Cosan e CSN, atingindo maior pontuação desde janeiro"
+title: Ibovespa fecha em alta impulsionado por Cosan e CSN, atingindo maior pontuação
+  desde janeiro
 date: 2023-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Índice acumula sexta semana consecutiva no campo positivo, enquanto dólar registra queda e Wall Street apresenta forte alta.
 

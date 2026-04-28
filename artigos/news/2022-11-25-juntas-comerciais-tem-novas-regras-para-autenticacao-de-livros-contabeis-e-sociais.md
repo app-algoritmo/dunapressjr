@@ -1,11 +1,13 @@
 ---
-title: "Juntas comerciais têm novas regras para autenticação de livros contábeis e sociais"
+title: Juntas comerciais têm novas regras para autenticação de livros contábeis e
+  sociais
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Instrução Normativa deixa mais claros e objetivos os procedimentos de autenticação de livros digitais.
 

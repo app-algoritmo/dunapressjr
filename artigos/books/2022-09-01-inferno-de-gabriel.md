@@ -1,12 +1,13 @@
 ---
-title: "Inferno de Gabriel"
+title: Inferno de Gabriel
 date: 2022-09-01
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Video library
+- Books
+- Video library
 ---
+
 
 [Sylvain Reynard](https://www.amazon.com.br/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Sylvain+Reynard&text=Sylvain+Reynard&sort=relevancerank&search-alias=stripbooks) 
 

@@ -1,11 +1,13 @@
 ---
-title: "Auxílio emergencial pago pelo Governo Bolsonaro será prorrogado por mais dois meses"
+title: Auxílio emergencial pago pelo Governo Bolsonaro será prorrogado por mais dois
+  meses
 date: 2020-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Economia, Paulo Guedes, confirmou a prorrogação do auxílio durante a 34ª Reunião do Conselho de Governo.
 

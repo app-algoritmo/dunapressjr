@@ -1,11 +1,12 @@
 ---
-title: "Número de roubos cai 27% na região central de SP"
+title: Número de roubos cai 27% na região central de SP
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## É a 20ª semana seguida de diminuição nos índices criminais no entorno da Cracolândia.
 

@@ -1,11 +1,12 @@
 ---
-title: "As comemorações do dia de Santa Lucia"
+title: As comemorações do dia de Santa Lucia
 date: 2020-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Escolas e jardins de infância celebram o Dia de Santa da Lucia em 13 de dezembro. As crianças se vestem de branco e formam uma fila em trem. Eles se adornam com purpurina e mantêm a luz para comemorar Santa Lucia.
 

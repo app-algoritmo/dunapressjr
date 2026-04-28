@@ -1,11 +1,13 @@
 ---
-title: "Empresas do Simples já declararam mais de R$ 1,8 bilhão em razão de alerta da Receita Federal"
+title: Empresas do Simples já declararam mais de R$ 1,8 bilhão em razão de alerta
+  da Receita Federal
 date: 2021-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As empresas que receberam notificações para regularização prévia em dezembro de 2020 já transmitiram 42 mil declarações retificadoras, elevando os valores de receitas brutas em R$ 1.888.911.511,61.
 

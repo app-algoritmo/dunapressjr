@@ -1,11 +1,12 @@
 ---
-title: "Consumo das famílias é grande motor da economia, diz IBGE"
+title: Consumo das famílias é grande motor da economia, diz IBGE
 date: 2020-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Setor tem peso de 65% na composição do PIB
 

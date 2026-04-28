@@ -1,11 +1,13 @@
 ---
-title: "4.01 Lei sancionada por Jair Bolsonaro prevê a realização na semana do dia 1º de fevereiro de cada ano"
+title: 4.01 Lei sancionada por Jair Bolsonaro prevê a realização na semana do dia
+  1º de fevereiro de cada ano
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Semana nacional vai conscientizar para evitar a gravidez na adolescência
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro garante a deputados liberação de recursos da educação"
+title: Ministro garante a deputados liberação de recursos da educação
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Educação, Victor Godoy, garantiu nesta quarta-feira (14), na Câmara dos Deputados, que o governo vai desbloquear recursos, abrir espaço no orçamento da pasta e garantir políticas essenciais da educação ainda neste ano.
 

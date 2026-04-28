@@ -1,11 +1,13 @@
 ---
-title: "Pedal das Capivaras leva 160 ciclistas para conferir de perto o processo de despoluição do Rio Pinheiros"
+title: Pedal das Capivaras leva 160 ciclistas para conferir de perto o processo de
+  despoluição do Rio Pinheiros
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Uma onda formada por 160 bikes invadiu a Ciclovia do Rio Pinheiros na manhã deste sábado (28). O passeio ciclístico Pedal das Capivaras – Pela despoluição de Rios e Mares, evento promovido pela Shimano, manteve a tradição de 12 anos, levou esporte, saúde, diversão e conscientização ambiental para os paulistanos, tanto os que pedalaram como os que assistiram – de longe ou de perto – e mostrou o colorido cenário das bicicletas em movimento por 10km na cidade de São Paulo.
 

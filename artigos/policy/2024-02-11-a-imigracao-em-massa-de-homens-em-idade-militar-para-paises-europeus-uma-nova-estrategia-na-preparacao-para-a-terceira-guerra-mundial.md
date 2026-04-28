@@ -1,11 +1,13 @@
 ---
-title: "A Imigração em Massa de Homens em Idade Militar para Países Europeus: Uma Nova Estratégia na Preparação para a Terceira Guerra Mundial?"
+title: 'A Imigração em Massa de Homens em Idade Militar para Países Europeus: Uma
+  Nova Estratégia na Preparação para a Terceira Guerra Mundial?'
 date: 2024-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Bucha de canhão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Izalci avalia importância de transparência no processo eleitoral"
+title: Izalci avalia importância de transparência no processo eleitoral
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) destacou, em seu pronunciamento, o debate promovido nesta terça-feira (12) na Comissão de Ciência e Tecnologia (CCT) sobre as implicações da tecnologia no processo eleitoral brasileiro. Para ele, há falta de transparência na auditoria do processo eleitoral e apontou dúvidas na apuração dos votos da urna eletrônica.
 

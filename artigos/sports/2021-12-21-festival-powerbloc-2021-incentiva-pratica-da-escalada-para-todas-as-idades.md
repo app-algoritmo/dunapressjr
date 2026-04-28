@@ -1,11 +1,12 @@
 ---
-title: "Festival PowerBloc 2021 incentiva prática da escalada para todas as idades"
+title: Festival PowerBloc 2021 incentiva prática da escalada para todas as idades
 date: 2021-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Competição realizada em Campinas reuniu tanto atletas experientes, em busca de pontos para o Ranking Paulista como crianças a partir de seis anos de idade.
 

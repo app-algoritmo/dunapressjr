@@ -1,12 +1,13 @@
 ---
-title: "Cachorro de rua"
+title: Cachorro de rua
 date: 2023-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Eu sou um cão, nem sei se sou de raça ou não, para mim não tem diferença, vivo nas ruas, porque meu dono me abandonou, não cuidou de mim, não me protegeu, não sei se fiz algo errado. Agora eu vivo no lixo, na chuva, no sol, nas ruas, perdido sem rumo, sem amor. Eu não pedi por isso, mas agora essa é a minha vida.
 Tento fazer amizade com outros cães, mas eles me cheiram e me atacam, tento me aproximar de outras pessoas, procurando meu dono, mas eles me chutam e jogam coisas em mim. As vezes consigo um pedaço de pão ou encontro um saco de lixo com cheiro de comida, não me importo, a fome é tanta que como o que aparecer.

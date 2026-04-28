@@ -1,11 +1,12 @@
 ---
-title: "O plano: a próxima pandemia reintroduzirá bloqueios"
+title: 'O plano: a próxima pandemia reintroduzirá bloqueios'
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *O governo e os tecnocratas do cartel de saúde se recusam a descartar as políticas de bloqueio destruidoras da sociedade vistas durante o “Grande Pânico de 2020”, praticamente garantindo que essas políticas serão restabelecidas como uma resposta instintiva à próxima pandemia. Com a OMS já planejando outra pandemia, agora é a hora de se preparar para uma desobediência civil em massa para negar a implementação. ⁃ Editor TN*
 

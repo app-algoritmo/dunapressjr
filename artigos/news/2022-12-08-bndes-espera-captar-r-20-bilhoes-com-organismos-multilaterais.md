@@ -1,11 +1,12 @@
 ---
-title: "BNDES espera captar R$ 20 bilhões com organismos multilaterais"
+title: BNDES espera captar R$ 20 bilhões com organismos multilaterais
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Anúncio foi feito pelo diretor de Finanças do banco.
 

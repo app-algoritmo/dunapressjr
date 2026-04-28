@@ -1,11 +1,12 @@
 ---
-title: "Governo emite nota sobre o caso de Racismo contra Neymar Jr."
+title: Governo emite nota sobre o caso de Racismo contra Neymar Jr.
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Diante de mais um caso de racismo que veio à tona no esporte, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) vem a público prestar solidariedade ao jogador Neymar Jr. O atacante chamado de “macaco” pelo zagueiro Alváro González, do Olympique de Marseille, foi expulso de campo após reagir ao ato preconceituoso com um tapa. Essa não é a primeira vez que Neymar é vítima de racismo no futebol.
 

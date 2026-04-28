@@ -1,11 +1,12 @@
 ---
-title: "Município paulista ensina Libras a todos os alunos para promover inclusão"
+title: Município paulista ensina Libras a todos os alunos para promover inclusão
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Promover uma inclusão eficaz dos alunos com deficiência é um dos desafios da escola que o Brasil vem construindo ao longo dos últimos anos. Embora muitos avanços tenham vindo na esteira da Lei Brasileira de Inclusão, sancionada em 2015, ainda resta um longo caminho até que esses estudantes estejam realmente integrados ao ensino regular. Passo a passo, esse caminho vai ganhando trilhas importantes. É o caso de Olímpia, município do interior paulista com população estimada em pouco mais de 55 mil pessoas, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE).
 

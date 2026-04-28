@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra 5ª fase da Operação Faroeste"
+title: Polícia Federal deflagra 5ª fase da Operação Faroeste
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** – A Polícia Federal deflagrou, hoje 24/03,
 atendendo à decisão do Superior Tribunal de Justiça - STJ, a quinta fase da

@@ -1,11 +1,12 @@
 ---
-title: "Brasil gerou 218.902 empregos formais em julho"
+title: Brasil gerou 218.902 empregos formais em julho
 date: 2022-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado do ano, saldo está em 1,56 milhão de postos de trabalho.
 

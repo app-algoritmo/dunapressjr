@@ -1,12 +1,14 @@
 ---
-title: "November 25: International Day for the Elimination of Violence Against Women: Justice and Equity"
+title: 'November 25: International Day for the Elimination of Violence Against Women:
+  Justice and Equity'
 date: 2024-11-29
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Ethics and Society
-  - World Affairs
+- Ethics and Society
+- World Affairs
 ---
+
 
 # **International Day for the Elimination of Violence Against Women: A Call for Justice and Equity**
 

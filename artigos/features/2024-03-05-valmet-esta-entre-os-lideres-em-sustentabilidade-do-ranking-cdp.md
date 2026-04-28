@@ -1,11 +1,12 @@
 ---
-title: "Valmet está entre os líderes em sustentabilidade do ranking CDP"
+title: Valmet está entre os líderes em sustentabilidade do ranking CDP
 date: 2024-03-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Multinacional finlandesa figurou na "A List" da organização internacional pelo trabalho climático.
 

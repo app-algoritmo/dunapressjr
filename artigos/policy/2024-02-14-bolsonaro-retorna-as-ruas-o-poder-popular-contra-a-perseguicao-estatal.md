@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro retorna às ruas: O poder popular contra a perseguição estatal"
+title: 'Bolsonaro retorna às ruas: O poder popular contra a perseguição estatal'
 date: 2024-02-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em meio a um cenário político conturbado e marcado por tensões ideológicas, a convocação para esta manifestação ganha relevância como uma resposta àqueles que veem nas instituições estatais um instrumento de opressão e limitação das liberdades individuais. Para os organizadores e participantes do evento, o retorno de Bolsonaro às ruas representa não apenas um ato de apoio a um líder político, mas uma defesa da liberdade de expressão e da democracia.
 

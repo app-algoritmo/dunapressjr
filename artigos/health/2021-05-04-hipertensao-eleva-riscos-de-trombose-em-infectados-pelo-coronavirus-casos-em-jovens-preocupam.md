@@ -1,11 +1,13 @@
 ---
-title: "Hipertensão eleva riscos de trombose em infectados pelo coronavírus; casos em jovens preocupam"
+title: Hipertensão eleva riscos de trombose em infectados pelo coronavírus; casos
+  em jovens preocupam
 date: 2021-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Aumento do número de pessoas mais novas diagnosticadas com pressão alta se deve principalmente ao sedentarismo e à má alimentação.
 

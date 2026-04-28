@@ -1,11 +1,12 @@
 ---
-title: "Ácido hialurônico: efetivo para tratamentos estéticos e na ortopedia"
+title: 'Ácido hialurônico: efetivo para tratamentos estéticos e na ortopedia'
 date: 2023-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cosméticos produzidos com ácido hialurônico são utilizados para preenchimentos e outros procedimentos estéticos, melhorando o aspecto de olheiras, "bigode chinês" ou para harmonizar o contorno da face. Essa aplicabilidade já é bastante difundida, mas o material produzido a partir da crista de galo ou de bactérias provenientes da biofermentação também pode ser utilizado nas articulações de joelho e quadril, adiando a necessidade de cirurgia para colocação de próteses, por exemplo. Embora tenha a mesma origem, o ácido hialurônico utilizado na dermatologia e na ortopedia tem diferenças na concentração de moléculas e alguns componentes químicos. 
 

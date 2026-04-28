@@ -1,11 +1,13 @@
 ---
-title: "Arrecadação de novembro reflete indicadores que mostram recuperação da economia, diz SPE"
+title: Arrecadação de novembro reflete indicadores que mostram recuperação da economia,
+  diz SPE
 date: 2022-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Secretaria de Política Econômica destaca que resultados reforçam expectativas de retomada da atividade verificadas nas projeções do mercado sobre arrecadação federal.
 

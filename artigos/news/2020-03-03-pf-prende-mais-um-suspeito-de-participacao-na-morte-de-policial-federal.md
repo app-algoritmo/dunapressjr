@@ -1,11 +1,12 @@
 ---
-title: "PF prende mais um suspeito de participação na morte de policial federal"
+title: PF prende mais um suspeito de participação na morte de policial federal
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ – A Polícia Federal prendeu nesta
 terça-feira (3/3) mais um suspeito de participar da morte do Agente de Polícia

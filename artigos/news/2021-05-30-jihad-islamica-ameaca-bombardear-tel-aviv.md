@@ -1,11 +1,12 @@
 ---
-title: "Jihad Islâmica ameaça bombardear Tel Aviv"
+title: Jihad Islâmica ameaça bombardear Tel Aviv
 date: 2021-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O líder da Jihad Islâmica ameaça bombardear Tel Aviv se Israel realizar uma operação de contraterrorismo direcionada contra seus membros.
 

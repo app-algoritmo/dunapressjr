@@ -1,11 +1,12 @@
 ---
-title: "Projeto cria sistema para monitorar atos extremistas violentos"
+title: Projeto cria sistema para monitorar atos extremistas violentos
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Deputado acredita que um eventual alerta poderia ter impedido tragédias recentes em escolas; Câmara vai analisar a proposta.
 

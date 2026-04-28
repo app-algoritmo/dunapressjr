@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz a CEO da Petrobras que não duvida da privatização de 'coisas maiores'"
+title: Guedes diz a CEO da Petrobras que não duvida da privatização de 'coisas maiores'
 date: 2019-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Estamos começando devagar nas privatizações, mas já sabemos que vamos privatizar os Correios, vamos privatizar a Eletrobras. Eu não duvido que a gente vai privatizar algumas coisas maiores, viu Castello?”, disse Guedes. 
 

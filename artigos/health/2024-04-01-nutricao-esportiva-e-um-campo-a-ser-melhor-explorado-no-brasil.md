@@ -1,12 +1,13 @@
 ---
-title: "Nutrição esportiva é um campo a ser melhor explorado no Brasil"
+title: Nutrição esportiva é um campo a ser melhor explorado no Brasil
 date: 2024-04-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - Sports
+- Health
+- Sports
 ---
+
 
 ## Segundo pesquisa organizada pelo Conselho Federal de Nutricionistas (CFN), apenas 2,5% dos cerca de 200 mil nutricionistas em atividade no Brasil atuam junto a atletas e equipes.
 

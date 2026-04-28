@@ -1,11 +1,12 @@
 ---
-title: "Lei do batimento cardíaco já salvou milhares de vidas humanas no Texas"
+title: Lei do batimento cardíaco já salvou milhares de vidas humanas no Texas
 date: 2022-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nos Estados Unidos o aborto é legalizado desde 1973, mas cada Estado tem autonomia para regulamentar o procedimento. A nova legislação do Texas sobre o tema é considerada a mais restritiva do país desde a legalização. 
 

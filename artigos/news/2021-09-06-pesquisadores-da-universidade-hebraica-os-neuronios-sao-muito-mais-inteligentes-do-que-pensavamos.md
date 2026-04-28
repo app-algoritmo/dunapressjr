@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores da Universidade Hebraica: 'Os neurônios são muito mais inteligentes do que pensávamos'"
+title: 'Pesquisadores da Universidade Hebraica: ''Os neurônios são muito mais inteligentes
+  do que pensávamos'''
 date: 2021-09-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Novas pesquisas usando modelos artificiais de redes semelhantes ao cérebro sugerem que os neurônios são mais poderosos do que se acreditava anteriormente.
 

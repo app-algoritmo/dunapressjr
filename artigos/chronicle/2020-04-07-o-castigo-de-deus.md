@@ -1,11 +1,12 @@
 ---
-title: "O Castigo de Deus?"
+title: O Castigo de Deus?
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 *“Portanto assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar; e clamarão a mim, mas eu não os ouvirei. ”*
 

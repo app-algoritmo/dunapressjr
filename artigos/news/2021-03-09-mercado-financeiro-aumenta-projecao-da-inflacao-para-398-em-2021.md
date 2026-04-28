@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta projeção da inflação para 3,98% em 2021"
+title: Mercado financeiro aumenta projeção da inflação para 3,98% em 2021
 date: 2021-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa para a Selic é de encerrar o ano em 4%.
 

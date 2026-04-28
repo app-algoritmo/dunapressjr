@@ -1,11 +1,12 @@
 ---
-title: "Plataforma reúne dados sobre o solo brasileiro nos diferentes biomas"
+title: Plataforma reúne dados sobre o solo brasileiro nos diferentes biomas
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Conhecer as características dos solos do país é importante para garantir a segurança alimentar da população. E também para o planejamento do uso da terra no meio rural. Por isso, o Ministério da Agricultura, Pecuária e Abastecimento lançou, nesta quinta-feira (3), a plataforma tecnológica do Programa Nacional de Solos no Brasil (PronaSolos), que reúne os dados disponíveis sobre solos coletados nos últimos 80 anos.
 

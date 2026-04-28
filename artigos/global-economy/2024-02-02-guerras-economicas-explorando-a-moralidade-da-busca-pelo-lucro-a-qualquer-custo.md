@@ -1,11 +1,13 @@
 ---
-title: "Guerras Econômicas: Explorando a Moralidade da Busca pelo Lucro a Qualquer Custo"
+title: 'Guerras Econômicas: Explorando a Moralidade da Busca pelo Lucro a Qualquer
+  Custo'
 date: 2024-02-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A paz não gera lucros e nem empregos.
 

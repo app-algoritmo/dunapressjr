@@ -1,11 +1,12 @@
 ---
-title: "Dólar ultrapassa R$ 5,30 e fecha no maior valor em duas semanas"
+title: Dólar ultrapassa R$ 5,30 e fecha no maior valor em duas semanas
 date: 2020-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Alta da indústria americana e Copom pressionaram cotação.
 

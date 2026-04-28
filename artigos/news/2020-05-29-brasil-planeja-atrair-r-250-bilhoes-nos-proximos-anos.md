@@ -1,11 +1,12 @@
 ---
-title: "Brasil planeja atrair R$ 250 bilhões nos próximos anos"
+title: Brasil planeja atrair R$ 250 bilhões nos próximos anos
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Presidente do BNDES, Gustavo Montezano, e ministro da Infraestrutura, Tarcísio de Gomes Freitas, debateram a estruturação de projetos para desestatização em transportes.
 

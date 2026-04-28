@@ -1,11 +1,12 @@
 ---
-title: "Dupla Jornada"
+title: Dupla Jornada
 date: 2022-08-16
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Netflix
 

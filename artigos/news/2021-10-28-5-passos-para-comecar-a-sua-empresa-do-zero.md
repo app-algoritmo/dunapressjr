@@ -1,11 +1,12 @@
 ---
-title: "5 passos para começar a sua empresa do zero"
+title: 5 passos para começar a sua empresa do zero
 date: 2021-10-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 **Começar a sua empresa** traz diversos benefícios para os empreendedores. E por isso, esse se tornou o sonho de tantos brasileiros.
 

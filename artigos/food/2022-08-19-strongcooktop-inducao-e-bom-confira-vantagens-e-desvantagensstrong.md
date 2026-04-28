@@ -1,11 +1,12 @@
 ---
-title: "<strong>Cooktop Indução é bom? Confira vantagens e desvantagens</strong>"
+title: <strong>Cooktop Indução é bom? Confira vantagens e desvantagens</strong>
 date: 2022-08-19
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Food
+- Food
 ---
+
 
 Diante de todas as inovações tecnológicas que vem chegando no mercado, muitas pessoas ainda possuem dúvidas se produtos como o **cooktop indução é bom**. 
 

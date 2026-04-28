@@ -1,12 +1,14 @@
 ---
-title: "O Beto Carrero World anunciou, nesta quinta-feira (27/6), o fim das atividades do Mundo Animal após 32 anos"
+title: O Beto Carrero World anunciou, nesta quinta-feira (27/6), o fim das atividades
+  do Mundo Animal após 32 anos
 date: 2024-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O Beto Carrero World anunciou, nesta quinta-feira (27/6), o fim das atividades do Mundo Animal, o zoológico que funcionou durante 32 anos como uma das atrações mais icônicas do parque multitemático. A decisão, segundo comunicado do parque, levou em conta o bem-estar dos animais.
 

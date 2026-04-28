@@ -1,11 +1,12 @@
 ---
-title: "PF promove campanha de doação solidária de alimentos"
+title: PF promove campanha de doação solidária de alimentos
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Goiânia/GO - Apesar da pandemia, a Polícia Federal, por meio do Grupo de Prevenção ao uso indevido de Drogas (GPRED/GO), mantém ativas suas ações.
 

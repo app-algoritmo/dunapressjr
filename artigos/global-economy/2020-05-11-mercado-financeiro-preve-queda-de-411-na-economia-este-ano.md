@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê queda de 4,11% na economia este ano"
+title: Mercado financeiro prevê queda de 4,11% na economia este ano
 date: 2020-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Estimativa consta do boletim Focus, divulgado pelo Banco Central
 O mercado financeiro revisou pela 13ª semana seguida a previsão de queda da economia este ano. A estimativa de recuo do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país – piorou de 3,76% para 4,11%.

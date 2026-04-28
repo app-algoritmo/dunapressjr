@@ -1,11 +1,12 @@
 ---
-title: "Aplicativo financeiro ensina crianças a economizar"
+title: Aplicativo financeiro ensina crianças a economizar
 date: 2018-10-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em muitos países da Europa, o recebimento de uma "mesada" está condicionado à prestação de determinados serviços domésticos por uma questão duplamente educativa: os indivíduos quando crescem se desejarem ganhar dinheiro terão de trabalhar por ele e não pedir, e a casa é o lar de todos os que nela habitam, e por isso mesmo todos devem dividir as tarefas e cuidar dela. Em uma visão macro, isso estimula as crianças a cuidar do planeta, o grande lar de todos.
 

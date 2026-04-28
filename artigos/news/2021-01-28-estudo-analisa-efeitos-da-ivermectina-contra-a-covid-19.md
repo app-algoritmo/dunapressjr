@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa efeitos da Ivermectina contra a COVID-19"
+title: Estudo analisa efeitos da Ivermectina contra a COVID-19
 date: 2021-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisa da Universidade Federal de Sergipe (UFS) pretende determinar o efeito da Ivermectina na prevenção de manifestação clínica da infecção causada pelo SARS-CoV-2 em pacientes ambulatoriais infectados. O estudo foi aprovado pelo [Edital nº11/2020](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-farmacos-e-imunologia-edital-n-11-2020), do Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC).
 

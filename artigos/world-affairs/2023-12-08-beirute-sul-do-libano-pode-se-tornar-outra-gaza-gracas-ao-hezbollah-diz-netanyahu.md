@@ -1,11 +1,12 @@
 ---
-title: "Beirute, sul do Líbano pode se tornar outra Gaza graças ao Hezbollah, diz Netanyahu"
+title: Beirute, sul do Líbano pode se tornar outra Gaza graças ao Hezbollah, diz Netanyahu
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Israel também ataca partes do Líbano e da Síria em retaliação aos bombardeamentos provenientes destes países. Os confrontos também estão ocorrendo na Cisjordânia.
 

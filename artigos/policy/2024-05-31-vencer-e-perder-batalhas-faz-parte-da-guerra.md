@@ -1,11 +1,12 @@
 ---
-title: "Vencer e perder batalhas faz parte da guerra"
+title: Vencer e perder batalhas faz parte da guerra
 date: 2024-05-31
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 A população fica indignada, com razão, com as decisões do Congresso Nacional serem tomadas na calada da noite, quando menos se espera. Pois nesta semana as sessões aconteceram às vésperas do Corpus Christi, na ascensão de Jesus, um milagre que deve ter tocado o coração dos parlamentares. Foram aprovados projetos favoráveis para a população, algumas importantes vitórias e uma derrota para a qual devemos estar vigilantes. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Atentado a Jair Bolsonaro é destaque na Noruega"
+title: Atentado a Jair Bolsonaro é destaque na Noruega
 date: 2018-09-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Com a manchete “Candidato presidencial brasileiro seriamente ferido após ataque com faca” o **Aftenposten** relata que Jair Bolsonaro foi esfaqueado durante campanha eleitoral, o que resultou em lesões graves. O jornal menciona que a condição era estável e que, em coletiva, cirurgião disse que o candidato ficaria no hospital por uma semana e que não estava claro se ele continuaria sua campanha eleitoral. Aftenposten faz menção, ainda, à prisão do suspeito e seu quase espancamento por parte da população. Com direito a vídeo, o jornal **NRK**, assim como o Aftenposten, noticiou que o presidenciável Jair Bolsonaro foi esfaqueado e declarou que apesar da gravidade das lesões o quadro era estável. Bastante simplório, o **Dagbladet** destaca o ataque afirmando que candidato foi ferido à faca, e que o agressor foi preso. Na mesma linha do Dagbladet, entretanto, com uma cobertura um pouco mais extensa, o **VG** inicia sua matéria relatando o momento em que se encontrava o candidato - carregado nos ombros pelo público – quando um homem sacou uma faca e esfaqueou o presidenciável, atingindo-o no estômago. O jornal cita que o dano era grave e Bolsonaro perdera muito sangue; apesar disto sua condição era estável e ele estava fora de perigo.
 

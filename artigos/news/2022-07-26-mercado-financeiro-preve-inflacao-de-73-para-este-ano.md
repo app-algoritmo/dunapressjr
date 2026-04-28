@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê inflação de 7,3% para este ano"
+title: Mercado financeiro prevê inflação de 7,3% para este ano
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa é que em 2023 o índice caia para 5,3%, diz BC.
 

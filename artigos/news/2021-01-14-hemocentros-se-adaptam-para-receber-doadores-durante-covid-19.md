@@ -1,11 +1,12 @@
 ---
-title: "Hemocentros se adaptam para receber doadores durante Covid-19"
+title: Hemocentros se adaptam para receber doadores durante Covid-19
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vitimas de acidentes, pessoas em tratamento de câncer, com anemias crônicas e que passaram por cirurgias estão entre as que precisam de doação de sangue. E, para isso, contam com os doadores que vão aos hemocentros praticar esse ato de solidariedade.
 

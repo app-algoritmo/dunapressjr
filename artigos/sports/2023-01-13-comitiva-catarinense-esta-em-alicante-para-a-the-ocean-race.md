@@ -1,11 +1,12 @@
 ---
-title: "Comitiva catarinense está em Alicante para a The Ocean Race"
+title: Comitiva catarinense está em Alicante para a The Ocean Race
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Uma comitiva da única parada latino-americana da The Ocean Race foi a Alicante, na Espanha, para acompanhar a largada da maior regata transoceânica do mundo. O grupo, formado por integrantes do Município de Itajaí e da Associação dos Municípios da Foz do Rio Itajaí (Amfri), conta com autoridades e equipe técnica.
 

@@ -1,12 +1,13 @@
 ---
-title: "‘Mães da Máfia’: Série do Star+ é inspirada em eventos reais"
+title: '‘Mães da Máfia’: Série do Star+ é inspirada em eventos reais'
 date: 2023-04-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## A série, composta por seis episódios, chegou à plataforma de streaming no último dia 05 de abril.
 

@@ -1,11 +1,12 @@
 ---
-title: "CNI: número de empregados na construção civil fica estável em abril"
+title: 'CNI: número de empregados na construção civil fica estável em abril'
 date: 2022-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Os dados constam do boletim Sondagem Industrial da Construção.
 

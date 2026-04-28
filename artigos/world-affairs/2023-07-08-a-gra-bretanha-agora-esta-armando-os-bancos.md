@@ -1,11 +1,12 @@
 ---
-title: "A Grã-Bretanha agora está armando os bancos"
+title: A Grã-Bretanha agora está armando os bancos
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 E você acha que isso não vai acontecer com você aqui? 
 

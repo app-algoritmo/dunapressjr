@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo negativo de US$ 12,5 bi em 2020"
+title: Contas externas têm saldo negativo de US$ 12,5 bi em 2020
 date: 2021-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados foram impactados pela pandemia de covid-19, disse o BC.
 

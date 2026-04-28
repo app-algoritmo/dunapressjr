@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cai 0,6% de setembro para outubro"
+title: Setor de serviços cai 0,6% de setembro para outubro
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Transportes recuam 1,8%, revela o IBGE.
 

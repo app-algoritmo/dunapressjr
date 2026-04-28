@@ -1,11 +1,12 @@
 ---
-title: "Cobertura de água e esgoto cresce no Brasil"
+title: Cobertura de água e esgoto cresce no Brasil
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A meta é alcançar a universalização até 2033, garantindo que 99% da população brasileira tenha acesso à água potável e 90% ao tratamento e à coleta de esgoto
 

@@ -1,11 +1,12 @@
 ---
-title: "4º CGEO mapeia Projeto Amapa 3"
+title: 4º CGEO mapeia Projeto Amapa 3
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Missão conduzida pelo 4º Centro de Georreferenciamento mapeia unidades territoriais de interesse no Amapá
 

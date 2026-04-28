@@ -1,11 +1,13 @@
 ---
-title: "Airbus prevê que China será o maior mercado mundial de serviços de aviação até 2042"
+title: Airbus prevê que China será o maior mercado mundial de serviços de aviação
+  até 2042
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China se tornará o maior mercado mundial de serviços de aviação até 2042, com seu valor de mercado subindo para US$ 54,1 bilhões, previu na terça-feira a Airbus China.
 

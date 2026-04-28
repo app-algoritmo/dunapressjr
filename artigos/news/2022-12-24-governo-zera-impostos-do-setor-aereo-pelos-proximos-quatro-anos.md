@@ -1,11 +1,12 @@
 ---
-title: "Governo zera impostos do setor aéreo pelos próximos quatro anos"
+title: Governo zera impostos do setor aéreo pelos próximos quatro anos
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida pretende incentivar retomada de negócios prejudicados pela pandemia.
 

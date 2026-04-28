@@ -1,11 +1,12 @@
 ---
-title: "Hipólito José da Costa, o primeiro jornalista tupiniquim"
+title: Hipólito José da Costa, o primeiro jornalista tupiniquim
 date: 2022-09-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Pense rápido: qual foi o primeiro jornal do Brasil? E, em consequência, qual o primeiro jornalista tupiniquim? Alguns podem possuir a resposta na ponta da língua, mas há que contextualizá-la. Oficialmente, o primeiro jornal a ser publicado por cá, ainda em tempos coloniais, foi a Gazeta do Rio de Janeiro, lançada na capital a 10 de setembro de 1808, como órgão oficial do governo português durante o reinado de Dom João VI, então recém chegado ao Brasil, editada primeiro pelo frei Tibúrcio José da Rocha e, depois, pelo primeiro jornalista considerado profissional do Brasil, Manuel Ferreira de Araújo Guimarães. Esse jornal foi, curiosamente, o precursor do atual Diário Oficial da União, depois de muitas idas e vindas. Mas, apesar de oficial, na prática, foi apenas o segundo jornal da história da imprensa brasileira. Foi sim, sejamos justos, o primeiro a ser redigido e publicado em solo brasileiro, legalmente, pela Impressão Régia, com máquinas trazidas da Inglaterra – porém, não tinha liberdades críticas. Então, qual foi o periódico pioneiro desta terra brasilis? Ora, o garboso Correio Braziliense, editado por certo Hippolyto Joseph da Costa Pereira Furtado de Mendonça, apenas Hipólito José da Costa para os íntimos, e lançado apenas três meses antes da Gazeta do Rio de Janeiro. Ocorre que Hipólito era um petardo, daqueles que a coroa julgava melhor estar no exílio – do contrário, preso. Mas sua história é perfilada por apetitosas contradições. Foi assim, de acordo com a cabeça de seu redator, que o Correio Braziliense surgiu: em postura liberal, progressista e incendiária, contrária ao que coroa lusitana instalada no Rio de Janeiro tinha de mais arcaico, e totalmente redigido e editado em Londres, em estilo claro e convicto. Chegava a diletos leitores brasileiros, portanto, no sapatinho, por contrabando. Até a década de 1820, quando já estávamos às portas da Independência, apenas publicações da Impressão Régia e de poucos impressores ligados ao poder tinham licença para circular no Brasil. Mas mesmo seus inimigos davam a devida importância a seus escritos. Até que se chegasse ao Grito do Ipiranga, o Correio Braziliense de Hipólito fizera o suficiente para se firmar como engrenagem forte e azeitada na queda do absolutismo e na propagação das liberdades e instituições civis cá nesta América do Sul.
 

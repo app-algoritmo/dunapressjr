@@ -1,11 +1,12 @@
 ---
-title: "Dólar chega a R$ 5,32 e atinge maior valor em cinco meses"
+title: Dólar chega a R$ 5,32 e atinge maior valor em cinco meses
 date: 2022-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores sobe 0,42% e tem leve recuperação.
 

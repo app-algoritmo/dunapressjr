@@ -1,11 +1,12 @@
 ---
-title: "Espetáculo especial para pessoas com TEA"
+title: Espetáculo especial para pessoas com TEA
 date: 2023-04-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 BANGU SHOPPING E HAPPY DAY CIRCYS REALIZAM ESPETÁCULO ESPECIAL PARA PESSOAS COM TEA
 

@@ -1,12 +1,13 @@
 ---
-title: "A Bíblia prega o pacifismo e desarmamento?"
+title: A Bíblia prega o pacifismo e desarmamento?
 date: 2019-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Por trás de tantos erros de ortografia e concordância, estão os vários outros erros de interpretação que surgem quando se tenta fazer a Bíblia ensinar pacifismo e desarmamento.Ele não considera o que a Escritura fala sobre legítima defesa (Êxodo 22.2-3).Eles confunde legítima defesa com vingança.A vingança é pecado e pertence a Deus.
 

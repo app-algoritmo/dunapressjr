@@ -1,11 +1,12 @@
 ---
-title: "Camex regulamenta redução do Imposto de Importação de veículos"
+title: Camex regulamenta redução do Imposto de Importação de veículos
 date: 2022-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ela será concedida pelo prazo de até dois anos.
 

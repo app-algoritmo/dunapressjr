@@ -1,11 +1,12 @@
 ---
-title: "Enem digital em webinário do Inep sobre tecnologia"
+title: Enem digital em webinário do Inep sobre tecnologia
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O papel da tecnologia da informação para garantir a realização e a segurança do Exame Nacional do Ensino Médio (Enem) Digital, desenvolvido pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), foi um dos assuntos abordados na noite desta quinta-feira, 9 de julho, durante webnário promovido por uma empresa de tecnologia. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Marrocos: terremoto vitimiza 296 pessoas"
+title: 'Marrocos: terremoto vitimiza 296 pessoas'
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ao anunciar oficialmente hoje a morte de 296 pessoas nas províncias e prefeituras de Al Haouz, Marraquexe, Ouarzazate, Azilal, Chichaoua e Taroudant, foi também registado que 153 pessoas sofreram ferimentos de gravidade variável devido ao recente terremoto. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Otimismo aumenta a expectativa de vida entre os idosos"
+title: Otimismo aumenta a expectativa de vida entre os idosos
 date: 2021-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Sempre olhe para o lado bom da vida: a pesquisa da Universidade Hebraica mostra que o otimismo aumenta a expectativa de vida entre os idosos.
 

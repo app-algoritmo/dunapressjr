@@ -1,11 +1,13 @@
 ---
-title: "'Ele fez um trabalho fantástico, o Brasil o ama e os Estados Unidos o ama', PR Donald Trump"
+title: '''Ele fez um trabalho fantástico, o Brasil o ama e os Estados Unidos o ama'',
+  PR Donald Trump'
 date: 2020-03-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O presidente do Brasil, Jair Bolsonaro, chegou a Miami no sábado, onde se encontrou com seu colega americano Donald Trump, com uma agenda focada nos negócios, mas que toma a crise venezuelana como pano de fundo.
 

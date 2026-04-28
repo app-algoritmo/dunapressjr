@@ -1,11 +1,12 @@
 ---
-title: "Grande maioria dos americanos não quer Biden para outro mandato"
+title: Grande maioria dos americanos não quer Biden para outro mandato
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com seu índice de aprovação líquida caindo quase quatro pontos no primeiro semestre de 2023, a presidência do presidente Joe Biden continua recebendo notícias terríveis.
 

@@ -1,11 +1,12 @@
 ---
-title: "Hungria impedirá a adesão da Ucrânia à UE, se necessário, segundo Orbán"
+title: Hungria impedirá a adesão da Ucrânia à UE, se necessário, segundo Orbán
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## É destacado que o principal argumento dos líderes de outros países da UE foi que "as negociações serão um processo longo e demorado" e não se trata de a Ucrânia aderir à associação num futuro próximo.
 

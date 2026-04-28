@@ -1,11 +1,12 @@
 ---
-title: "Cai John Metze, CEO da rede social Parler"
+title: Cai John Metze, CEO da rede social Parler
 date: 2021-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O CEO da Parler, John Matze, anunciou na quarta-feira que foi demitido como CEO da empresa. Matze disse que a diretoria parler em 29 de janeiro decidiu encerrar sua posição, acrescentando que ele não participou da decisão.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa encerra em alta de 1,11% impulsionado por notícias internacionais e instituições financeiras locais"
+title: Ibovespa encerra em alta de 1,11% impulsionado por notícias internacionais
+  e instituições financeiras locais
 date: 2023-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de commodities se destaca após anúncio de corte de impostos na China, enquanto bancos brasileiros e ações do setor de tecnologia também impulsionam o mercado. 
 

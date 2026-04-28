@@ -1,11 +1,12 @@
 ---
-title: "GoFundMe remove campanha de Candace Owens"
+title: GoFundMe remove campanha de Candace Owens
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Candace Owens, comentarista conservadora e ativista político, lançou uma campanha na plataforma GoFundMe em apoio a Michael Dykes, proprietário de um bar em Birmingham que provocou uma controvérsia nas mídias sociais ao rebater os protestos de George Floyd.
 

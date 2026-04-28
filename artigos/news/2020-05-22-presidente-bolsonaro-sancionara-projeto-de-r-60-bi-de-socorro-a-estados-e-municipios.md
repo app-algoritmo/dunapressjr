@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro sancionará projeto de R$ 60 bi de socorro a estados e municípios"
+title: Presidente Bolsonaro sancionará projeto de R$ 60 bi de socorro a estados e
+  municípios
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### “Isso será sancionado o mais rápido possível, acertando pequenos ajustes técnicos”, afirmou Bolsonaro em reunião com governadores.
 

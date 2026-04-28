@@ -1,11 +1,12 @@
 ---
-title: "Vazamentos no PIX ocorrerão com alguma frequência, diz Campos Neto"
+title: Vazamentos no PIX ocorrerão com alguma frequência, diz Campos Neto
 date: 2022-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados vazados são pouco sensíveis, diz presidente do Banco Central.
 

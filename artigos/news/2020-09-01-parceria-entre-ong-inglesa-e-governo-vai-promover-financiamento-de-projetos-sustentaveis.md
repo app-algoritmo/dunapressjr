@@ -1,11 +1,13 @@
 ---
-title: "Parceria entre ONG inglesa e Governo vai promover financiamento de projetos sustentáveis"
+title: Parceria entre ONG inglesa e Governo vai promover financiamento de projetos
+  sustentáveis
 date: 2020-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Acordo firmado entre o Ministério do Desenvolvimento Regional e a ONG Climate Bond Initiative vai promover o uso de títulos verdes para financiamento de projetos que promovam o desenvolvimento regional. Títulos verdes captam recursos para implementar ou financiar projetos que promovam a sustentabilidade e benefícios ao meio ambiente.
 

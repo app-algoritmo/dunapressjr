@@ -1,11 +1,13 @@
 ---
-title: "Mais de 130 mil crianças sofrem com as hostilidades criminosas do regime de Kiev, diz enviado"
+title: Mais de 130 mil crianças sofrem com as hostilidades criminosas do regime de
+  Kiev, diz enviado
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Rodion Miroshnik destacou que "o regime de Kiev procura agravar esta situação tanto quanto possível bombardeando metodicamente escolas, universidades, liceus e jardins de infância".
 

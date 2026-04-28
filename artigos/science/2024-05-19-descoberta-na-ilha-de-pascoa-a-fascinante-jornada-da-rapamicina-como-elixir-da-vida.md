@@ -1,11 +1,13 @@
 ---
-title: "Descoberta na Ilha de Páscoa: A Fascinante Jornada da Rapamicina como Elixir da Vida"
+title: 'Descoberta na Ilha de Páscoa: A Fascinante Jornada da Rapamicina como Elixir
+  da Vida'
 date: 2024-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Science
+- Science
 ---
+
 
 Há cinco décadas, cientistas desembarcaram na Ilha de Páscoa, um enigmático ponto no vasto Oceano Pacífico, sem saber que sua expedição desencadearia uma jornada científica sem precedentes. Lá, encontraram uma substância que desafiaria as fronteiras do conhecimento humano: a rapamicina.
 

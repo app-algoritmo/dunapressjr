@@ -1,11 +1,13 @@
 ---
-title: "MJSP começa a entregar equipamentos de proteção para agentes de segurança que atuam no combate ao Covid-19"
+title: MJSP começa a entregar equipamentos de proteção para agentes de segurança que
+  atuam no combate ao Covid-19
 date: 2020-04-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria Nacional de Segurança Pública (Senasp) e Secretaria de Operações Integradas (Seopi), entregou a partir desta sexta-feira (10), Equipamentos de Proteção Individuais (EPIs) para mais de 3 mil agentes de segurança pública que atuam nas fronteiras brasileiras, dentro do Programa Nacional de Segurança nas Fronteiras e Dívidas (VIGIA), e para a Força Nacional de Segurança Pública (FNSP). 
 

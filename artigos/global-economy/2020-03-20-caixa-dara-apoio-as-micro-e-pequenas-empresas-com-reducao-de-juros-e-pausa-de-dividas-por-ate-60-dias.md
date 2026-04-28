@@ -1,11 +1,13 @@
 ---
-title: "Caixa dará apoio às micro e pequenas empresas, com redução de juros e pausa de dívidas por até 60 dias"
+title: Caixa dará apoio às micro e pequenas empresas, com redução de juros e pausa
+  de dívidas por até 60 dias
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A Caixa anunciou, nesta quinta-feira (19), novas medidas de apoio à economia do País, com o objetivo de reduzir os impactos frente ao cenário de queda no índice de produtividade e diminuição da atividade econômica causados pelas ações de contenção e temor à propagação do novo coronavírus Covid-19.
 

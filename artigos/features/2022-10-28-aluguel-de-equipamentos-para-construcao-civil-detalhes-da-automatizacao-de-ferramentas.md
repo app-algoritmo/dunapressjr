@@ -1,11 +1,13 @@
 ---
-title: "Aluguel de equipamentos para construção civil: detalhes da automatização de ferramentas"
+title: 'Aluguel de equipamentos para construção civil: detalhes da automatização de
+  ferramentas'
 date: 2022-10-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 A automatização de serviços é um dos aspectos mais importantes ao recorrer ao aluguel de equipamentos para construção civil. Com o uso de máquinas e ferramentas diversas é possível agilizar processos diversos dentro de um canteiro de obras. Isto garante maior produtividade, o que poupa tempo, dinheiro e recursos para você.
 

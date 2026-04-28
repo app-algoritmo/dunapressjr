@@ -1,11 +1,12 @@
 ---
-title: "PF apreende carga de agrotóxicos paraguaios no Paraná"
+title: PF apreende carga de agrotóxicos paraguaios no Paraná
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pato Bragado/PR – Na noite desta sexta-feira, dia 17/4, mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

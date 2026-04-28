@@ -1,11 +1,12 @@
 ---
-title: "Autor de voto em separado, Izalci diz que CPMI deveria indiciar GDias e Dino"
+title: Autor de voto em separado, Izalci diz que CPMI deveria indiciar GDias e Dino
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (17), depois de apresentar voto em separado na CPMI de 8 de janeiro, o senador Izalci Lucas (PSDB-DF) defendeu a responsabilização civil e criminal do ministro da Justiça, Flávio Dino, e do ex-ministro do Gabinete de Segurança Institucional (GSI), General Gonçalves Dias. Para ele, GDias e Dino ignoraram alertas de inteligência sobre o risco de invasão às sedes dos três Poderes. Izalci apresentou um relatório de 2.576 páginas, segundo o qual o governo foi “omisso”. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Presidente Biden Condena Decisão do Supremo da Flórida sobre Lei de Aborto"
+title: Presidente Biden Condena Decisão do Supremo da Flórida sobre Lei de Aborto
 date: 2024-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, criticou veementemente a decisão do Supremo Tribunal do estado da Flórida, que autoriza a implementação de uma das leis de aborto mais restritivas do país. A nova lei proíbe a interrupção da gravidez a partir da sexta semana, colocando em risco a saúde e a vida de milhões de mulheres, segundo um comunicado enviado pela Casa Branca.
 

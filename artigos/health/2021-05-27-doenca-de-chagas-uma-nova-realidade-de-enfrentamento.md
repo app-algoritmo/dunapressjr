@@ -1,11 +1,12 @@
 ---
-title: "Doença de Chagas: uma nova realidade de enfrentamento"
+title: 'Doença de Chagas: uma nova realidade de enfrentamento'
 date: 2021-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Por muito tempo, a possibilidade de receber uma picada do inseto conhecido como barbeiro e adquirir a Doença de Chagas preocupava a população brasileira. Durante as aulas de ciências, aprendíamos todo o ciclo da doença: o inseto barbeiro infectado picava a pele de uma pessoa e depositava suas fezes na região; ao coçar o local, as fezes contaminadas caiam na corrente sanguínea; e, assim, era transmitida a doença de chagas.
 

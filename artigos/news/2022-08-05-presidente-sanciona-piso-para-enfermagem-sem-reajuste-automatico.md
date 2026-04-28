@@ -1,11 +1,12 @@
 ---
-title: "Presidente sanciona piso para enfermagem sem reajuste automático"
+title: Presidente sanciona piso para enfermagem sem reajuste automático
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Piso salarial da categoria foi aprovado mês passado pelo Congresso.
 

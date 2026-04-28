@@ -1,11 +1,13 @@
 ---
-title: "Exigência de vacinação é estratégia adotada por empresas para volta ao trabalho presencial"
+title: Exigência de vacinação é estratégia adotada por empresas para volta ao trabalho
+  presencial
 date: 2021-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o avanço na vacinação contra a covid-19 no Brasil, empresas que haviam migrado para o sistema remoto ou híbrido já iniciaram o retorno ao trabalho presencial. Perto de 52% das empresas pretendem tomar essa medida ainda neste ano e outras 40% no primeiro semestre de 2022, de acordo com pesquisa da KPMG realizada entre julho e agosto. A volta ao sistema anterior à pandemia, no entanto, não será da mesma forma: protocolos de segurança e obrigatoriedade da vacinação completa estão entre as mudanças definidas para a convivência.
 

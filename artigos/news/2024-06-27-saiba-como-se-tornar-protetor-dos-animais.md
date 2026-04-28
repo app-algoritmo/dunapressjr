@@ -1,12 +1,13 @@
 ---
-title: "Saiba Como se tornar protetor dos animais?"
+title: Saiba Como se tornar protetor dos animais?
 date: 2024-06-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Lutar em **defesa dos animais** pode parecer loucura para alguns, mas é uma atitude que requer coragem, dedicação e bom coração! Os **protetores dos animais** também chamam ONGs para recolher **cães e gatos abandonados** e compartilhar imagens nas redes sociais. Essas pessoas decidiram “arregaçar as mangas” e fazer a diferença!
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça os animais que sofrem com piolhos como os humanos"
+title: Conheça os animais que sofrem com piolhos como os humanos
 date: 2022-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os piolhos são parasitas externos que causam uma coceira tremenda na pele, e não atingem só os humanos. Ocorrem também em mamíferos grandes como os búfalos, pequenos como os gatos, aquáticos como a foca, e em aves como as galinhas – uma extensa lista de animais que podem se tornar piolhentos.
 

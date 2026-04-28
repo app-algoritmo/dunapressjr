@@ -1,11 +1,12 @@
 ---
-title: "Amigas de infância são reunidos, 82 anos depois de fugirem da Alemanha nazista"
+title: Amigas de infância são reunidos, 82 anos depois de fugirem da Alemanha nazista
 date: 2021-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Quando se separaram em 1939, duas meninas judias de Berlim prometeram manter contato. Uma família fugiu para o Chile, enquanto a outra seguiu para os Estados Unidos via Xangai.
 

@@ -1,11 +1,13 @@
 ---
-title: "Pfizer é pega canalizando $ 12 milhões para Anderson Cooper para promover vacinas de mRNA para americanos"
+title: Pfizer é pega canalizando $ 12 milhões para Anderson Cooper para promover vacinas
+  de mRNA para americanos
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A Pfizer depositou US $ 12 milhões na conta bancária do apresentador da CNN, Anderson Cooper, para promover as vacinas tóxicas de mRNA da empresa para o público americano.
 

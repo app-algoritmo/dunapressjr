@@ -1,11 +1,13 @@
 ---
-title: "Depen estima que economizou 26 milhões no uso de videoconferências no Sistema Penitenciário Federal"
+title: Depen estima que economizou 26 milhões no uso de videoconferências no Sistema
+  Penitenciário Federal
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasília, 28/04/2020 - O Departamento Penitenciário Nacional (Depen) apresenta informações acerca do estudo realizado com o objetivo de estimar média de valores economizados pelo órgão no uso de videoconferências que evitam o deslocamento de escolta para apresentação de preso em audiências judiciais de interrogatório no Sistema Penitenciário Federal (SPF). A tecnologia trazida pelo legislador no Código de Processo Penal brasileiro evita os graves riscos que decorrem do translado do preso até o fórum. O Depen estima ter economizado R$ 26.165.719,75 de junho de 2013 até o dia 2 de março de 2020.
 

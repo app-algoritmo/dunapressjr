@@ -1,11 +1,12 @@
 ---
-title: "Mais de 24 mil selos Turismo Responsável já foram emitidos"
+title: Mais de 24 mil selos Turismo Responsável já foram emitidos
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 24 mil empreendimentos e guias de turismo já possuem o Selo Turismo Responsável, Limpo e Seguro do Ministério do Turismo. A marca foi atingida nesta quinta-feira (3) após seis meses do lançamento do selo, o que corresponde a uma média de 4 mil emissões por mês. A iniciativa estabelece protocolos específicos para a prevenção da Covid-19 para 15 segmentos do setor de turismo e busca auxiliar na retomada segura das atividades do setor tanto para turistas quanto para trabalhadores.
 

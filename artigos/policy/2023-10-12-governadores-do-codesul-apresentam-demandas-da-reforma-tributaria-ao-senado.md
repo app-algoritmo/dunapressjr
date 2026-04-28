@@ -1,11 +1,12 @@
 ---
-title: "Governadores do Codesul apresentam demandas da reforma tributária ao Senado"
+title: Governadores do Codesul apresentam demandas da reforma tributária ao Senado
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Chefes dos executivos estaduais do Sul e do Mato Grosso do Sul voltaram a defender critérios claros para compensação de perdas de arrecadação, além de reforçar a criação de um Fundo Constitucional de Desenvolvimento para a região Sul.
 

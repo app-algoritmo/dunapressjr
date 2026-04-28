@@ -1,11 +1,13 @@
 ---
-title: "Ninguém se preocupou em perguntar ao público americano se eles querem ajudar Kiev, diz diplomata russo"
+title: Ninguém se preocupou em perguntar ao público americano se eles querem ajudar
+  Kiev, diz diplomata russo
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com Maria Zakharova, o presidente dos EUA, Joe Biden, simplesmente informou ao povo americano o que a sua administração planeava fazer como um fato consumado.
 

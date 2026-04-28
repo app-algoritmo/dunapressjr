@@ -1,11 +1,12 @@
 ---
-title: "Ministra Damares Alves pede apoio de municípios para vacinar idosos em abrigos"
+title: Ministra Damares Alves pede apoio de municípios para vacinar idosos em abrigos
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Após o lançamento da campanha nacional de Vacinação contra a gripe, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) mobilizou os municípios para que sejam vacinados os 78 mil idosos assistidos pelas Instituições de Longa Permanência para Idosos (ILPIs).
 

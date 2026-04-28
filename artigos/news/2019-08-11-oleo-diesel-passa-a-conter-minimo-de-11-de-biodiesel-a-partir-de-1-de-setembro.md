@@ -1,11 +1,12 @@
 ---
-title: "Óleo diesel passa a conter mínimo de 11% de biodiesel a partir de 1º de setembro"
+title: Óleo diesel passa a conter mínimo de 11% de biodiesel a partir de 1º de setembro
 date: 2019-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **A mesma medida configura o desfecho de providências definidas em reunião ocorrida em fins de abril deste ano no Ministério de Minas e Energia **
 

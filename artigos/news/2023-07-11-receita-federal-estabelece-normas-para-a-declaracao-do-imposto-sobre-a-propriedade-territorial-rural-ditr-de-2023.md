@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal estabelece normas para a Declaração do Imposto sobre a Propriedade Territorial Rural (DITR) de 2023"
+title: Receita Federal estabelece normas para a Declaração do Imposto sobre a Propriedade
+  Territorial Rural (DITR) de 2023
 date: 2023-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instrução Normativa define obrigatoriedade de apresentação, documentos necessários e prazos para a declaração do ITR.
 

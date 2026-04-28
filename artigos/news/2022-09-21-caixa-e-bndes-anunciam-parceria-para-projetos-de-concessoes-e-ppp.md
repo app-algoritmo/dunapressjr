@@ -1,11 +1,12 @@
 ---
-title: "Caixa e BNDES anunciam parceria para projetos de concessões e PPP"
+title: Caixa e BNDES anunciam parceria para projetos de concessões e PPP
 date: 2022-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acordo prevê desenvolvimento de ações de iluminação e saneamento.
 

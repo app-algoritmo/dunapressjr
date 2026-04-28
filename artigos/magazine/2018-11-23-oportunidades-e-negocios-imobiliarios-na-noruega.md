@@ -1,11 +1,12 @@
 ---
-title: "Oportunidades e  negócios imobiliários na Noruega"
+title: Oportunidades e  negócios imobiliários na Noruega
 date: 2018-11-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 *Bens imobiliários (bens imóveis) *compreendem terras, edifícios (sentido amplo) e tudo o que nela se encontrar incluindo recursos naturais como minerais e água. São exemplos de bens imobiliários: terras (terrenos), imóvel rural (sítios, mini-fazendas, fazendas), imóvel residencial (habitação anexada, apartamento,* flat*, casa multifamiliar, casa geminada, duplex, modular home, bloco de apartamentos (condomínios, *townhouse*/ *rowhouse*), cooperativas, caravanas residenciais, casas flutuantes), imóvel comercial, imóvel logístico (galpões) e imóvel industrial (armazéns). Quanto aos negócios imobiliários, estes envolvem serviços como: construção, investimentos(fundos), compra, venda e locação (fixa, por temporada, de *self-storage*).
 

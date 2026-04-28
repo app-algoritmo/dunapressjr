@@ -1,11 +1,12 @@
 ---
-title: "Saiba como cuidar dos rins e ficar longe de doenças renais"
+title: Saiba como cuidar dos rins e ficar longe de doenças renais
 date: 2021-04-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Você sabe qual a importância desse órgão para o bom funcionamento do corpo? Primeiro para quem ainda não sabe, a palavra rim vai para o plural porque temos dois. E eles ficam na região posterior do abdómen, um na direita e outra na esquerda. A principal função deles é filtrar o sangue para controlar a quantidade de água e de sal no corpo, eliminar toxinas, ajudar a controlar a hipertensão arterial e produzir hormônios que impedem a anemia e a descalcificação óssea, além de eliminar medicamentos e outras substâncias ingeridas.
 

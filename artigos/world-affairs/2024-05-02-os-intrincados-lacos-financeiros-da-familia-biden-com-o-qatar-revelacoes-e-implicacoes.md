@@ -1,11 +1,13 @@
 ---
-title: "Os Intrincados Laços Financeiros da Família Biden com o Qatar: Revelações e Implicações"
+title: 'Os Intrincados Laços Financeiros da Família Biden com o Qatar: Revelações
+  e Implicações'
 date: 2024-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos meandros das relações internacionais e do jogo político, o Qatar emerge como um pequeno país com um peso desproporcional de influência. Ignorado pelos grandes deste mundo, o Qatar tem sido palco de uma série de escândalos e acusações que desafiam sua imagem de defensor da democracia e dos direitos humanos.
 

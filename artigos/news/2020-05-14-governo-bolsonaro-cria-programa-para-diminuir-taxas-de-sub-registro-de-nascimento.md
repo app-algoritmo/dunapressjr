@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro cria programa para diminuir taxas de sub-registro de nascimento"
+title: Governo Bolsonaro cria programa para diminuir taxas de sub-registro de nascimento
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o objetivo de diminuir a taxa de sub-registro de nascimento, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) vai doar equipamentos para a implantação de Unidades Interligadas para Registro Civil de Nascimento nos estabelecimentos de saúde em que se realizam partos. A ação faz parte do Programa de Fomento à Implantação de Unidades Interligadas de Registro Civil, publicada no Diário Oficial da União na última segunda-feira (11). 
 

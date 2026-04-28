@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Governo do Estado da Paraíba divulga protocolo de orientações para funcionamento do setor hoteleiro"
+title: 'Coronavírus: Governo do Estado da Paraíba divulga protocolo de orientações
+  para funcionamento do setor hoteleiro'
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Plano ‘Novo Normal Paraíba’ foi desenvolvido pela Secretaria de Estado da Saúde (SES) e pela Controladoria Geral do Estado (CGE).
 

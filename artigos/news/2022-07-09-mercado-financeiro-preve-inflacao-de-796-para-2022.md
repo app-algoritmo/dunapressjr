@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê inflação de 7,96% para 2022"
+title: Mercado financeiro prevê inflação de 7,96% para 2022
 date: 2022-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Boletim Focus projeta PIB de 1,51% este ano.
 

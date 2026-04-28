@@ -1,11 +1,12 @@
 ---
-title: "FGV registra variação de 0,1% em outubro na atividade econômica"
+title: FGV registra variação de 0,1% em outubro na atividade econômica
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dado é do Monitor do PIB, divulgado nesta sexta-feira (16).
 

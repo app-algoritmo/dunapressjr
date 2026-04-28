@@ -1,11 +1,12 @@
 ---
-title: "Bombeiros são habilitados à desinfecção de ambientes por militares do Exército"
+title: Bombeiros são habilitados à desinfecção de ambientes por militares do Exército
 date: 2020-04-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Porto Velho (RO)** – No dia 23 de abril de 2020, a 17ª Brigada de Infantaria de Selva (17ª Bda Inf Sl) realizou a capacitação de mais 50 (cinquenta) integrantes do Corpo de Bombeiros Militar de Rondônia (CBMRO) e 5 (cinco) do 54º Batalhão de Infantaria de Selva (54º BIS) de Humaitá (AM), somando 128 militares habilitados à desinfecção de ambientes de grande circulação de pessoas.
 

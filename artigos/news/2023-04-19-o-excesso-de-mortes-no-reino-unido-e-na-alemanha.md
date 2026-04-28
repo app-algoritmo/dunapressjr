@@ -1,11 +1,12 @@
 ---
-title: "O excesso de mortes no Reino Unido e na Alemanha"
+title: O excesso de mortes no Reino Unido e na Alemanha
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Após uma calmaria: excesso de mortalidade 21% no Reino Unido, 11% na Alemanha.
 

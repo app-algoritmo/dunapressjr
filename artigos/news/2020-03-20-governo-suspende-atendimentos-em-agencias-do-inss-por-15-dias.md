@@ -1,11 +1,12 @@
 ---
-title: "Governo suspende atendimentos em agências do INSS por 15 dias"
+title: Governo suspende atendimentos em agências do INSS por 15 dias
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Instituto Nacional do Seguro Social (INSS) suspendeu, nessa quarta-feira (18), o atendimento nas agências físicas por 15 dias. O objetivo da medida é conter o avanço do coronavírus e preservar a saúde dos segurados. A medida foi determinada pela [Portaria 375](http://www.in.gov.br/en/web/dou/-/portaria-n-375-de-17-de-marco-de-2020-248564102) que especifica que serão mantidos apenas atendimentos agendados para cumprimento de exigências de requerimentos de benefícios previdenciários e assistenciais; perícias médicas previdenciárias; avaliações e pareceres sociais dos benefícios previdenciários e assistenciais.
 

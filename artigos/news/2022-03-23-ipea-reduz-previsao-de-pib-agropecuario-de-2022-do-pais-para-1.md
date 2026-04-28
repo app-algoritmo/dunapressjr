@@ -1,11 +1,12 @@
 ---
-title: "Ipea reduz previsão de PIB agropecuário de 2022 do país para 1%"
+title: Ipea reduz previsão de PIB agropecuário de 2022 do país para 1%
 date: 2022-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa de alta do valor adicionado recuou 2,8%.
 

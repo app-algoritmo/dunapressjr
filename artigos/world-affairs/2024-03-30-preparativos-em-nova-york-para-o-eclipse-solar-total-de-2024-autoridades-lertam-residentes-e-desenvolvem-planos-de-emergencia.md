@@ -1,11 +1,13 @@
 ---
-title: "Preparativos em Nova York para o Eclipse Solar Total de 2024: Autoridades lertam Residentes e Desenvolvem Planos de Emergência"
+title: 'Preparativos em Nova York para o Eclipse Solar Total de 2024: Autoridades
+  lertam Residentes e Desenvolvem Planos de Emergência'
 date: 2024-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Conforme relatado anteriormente – Em resposta ao relatório da NASA de que um eclipse solar total ocorrerá em 8 de abril de 2024, as autoridades de Nova York estão alertando os nova-iorquinos para estarem preparados.
 

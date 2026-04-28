@@ -1,11 +1,12 @@
 ---
-title: "Câmara pode votar nesta semana projeto de combate ao assédio sexual nas escolas"
+title: Câmara pode votar nesta semana projeto de combate ao assédio sexual nas escolas
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na Semana da Mulher, a Câmara dos Deputados pode votar cinco projetos de lei sobre o tema, tais como a medida provisória que cria um programa de prevenção e combate ao assédio sexual no âmbito dos sistemas de ensino (MP 1140/22) e o projeto de lei que assegura às mulheres o direito a ter acompanhante de sua livre escolha em consultas e exames (PL 81/22).
 

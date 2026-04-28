@@ -1,11 +1,13 @@
 ---
-title: "Gov. de NY diz que tem “recolhido dados” das redes sociais para controlar “discurso de ódio”"
+title: Gov. de NY diz que tem “recolhido dados” das redes sociais para controlar “discurso
+  de ódio”
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Foi tão fácil quanto renomear as coisas. Não chame isso de censura, mas de “lute contra a desinformação” e ninguém moverá um músculo. Não chame isso de totalitarismo, mas de “luta contra as mudanças climáticas” ou “a pandemia”, e as pessoas continuarão dormindo. E, sobretudo, não lhe chamemos controlo da liberdade de expressão, mas sim “ **supervisão do discurso de ódio** ”, e teremos destruído o regime de liberdades sem mudar uma única instituição nem assustar ninguém.
 

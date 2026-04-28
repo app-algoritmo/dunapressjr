@@ -1,11 +1,12 @@
 ---
-title: "BC eleva projeção de crescimento da economia de 1,7% para 2,7%"
+title: BC eleva projeção de crescimento da economia de 1,7% para 2,7%
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa de inflação caiu de 8,8% para 5,8%, ainda acima da meta.
 

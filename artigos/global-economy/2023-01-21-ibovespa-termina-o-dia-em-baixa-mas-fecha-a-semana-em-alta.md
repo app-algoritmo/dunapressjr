@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa termina o dia em baixa, mas fecha a semana em alta"
+title: Ibovespa termina o dia em baixa, mas fecha a semana em alta
 date: 2023-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sobe e fecha no maior nível em 11 dias.
 

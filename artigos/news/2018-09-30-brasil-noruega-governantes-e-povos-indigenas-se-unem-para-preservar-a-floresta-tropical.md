@@ -1,11 +1,13 @@
 ---
-title: "Brasil-Noruega: governantes e povos indígenas se unem para preservar a floresta tropical"
+title: 'Brasil-Noruega: governantes e povos indígenas se unem para preservar a floresta
+  tropical'
 date: 2018-09-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Noruega tem uma grande tradição de cuidado com as populações indígenas, e seu apoio local à comunidade SAMI reflete-se em todos os aspectos, inclusive na educação, onde aulas de língua SAMI são parte da grade educacional. A participação da Noruega em temas ligados à povos indígenas é sempre constante.
 

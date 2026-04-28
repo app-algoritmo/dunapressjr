@@ -1,11 +1,12 @@
 ---
-title: "Órgãos federais terão de apresentar estudos para compras e obras"
+title: Órgãos federais terão de apresentar estudos para compras e obras
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Exigência consta de instrução normativa e valerá a partir de julho.
 

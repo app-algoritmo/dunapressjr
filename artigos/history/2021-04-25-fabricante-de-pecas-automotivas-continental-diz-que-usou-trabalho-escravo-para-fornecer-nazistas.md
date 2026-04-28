@@ -1,11 +1,13 @@
 ---
-title: "Fabricante de peças automotivas  Continental diz que usou trabalho escravo para fornecer nazistas"
+title: Fabricante de peças automotivas  Continental diz que usou trabalho escravo
+  para fornecer nazistas
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Fabricante de autopeças afirma ter forçado prisioneiros de campos de concentração a marchar até 2.200 quilômetros para experimentar calçados de borracha para o exército alemão durante a Segunda Guerra Mundial.
 

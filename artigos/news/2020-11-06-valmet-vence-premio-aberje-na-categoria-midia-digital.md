@@ -1,11 +1,12 @@
 ---
-title: "Valmet vence Prêmio Aberje na categoria Mídia Digital"
+title: Valmet vence Prêmio Aberje na categoria Mídia Digital
 date: 2020-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 *Com o case sobre o papel dos meios digitais na transformação cultural, multinacional finlandesa foi reconhecida pelo trabalho de comunicação sobre os avanços tecnológicos*
 

@@ -1,11 +1,12 @@
 ---
-title: "Carlos III coroado rei"
+title: Carlos III coroado rei
 date: 2023-05-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 13:02 - **O rei Charles foi formalmente coroado rei neste sábado.**
 

@@ -1,11 +1,12 @@
 ---
-title: "Procuradoria do Equador Desencadeia Operação contra Corrupção no Sistema Judicial"
+title: Procuradoria do Equador Desencadeia Operação contra Corrupção no Sistema Judicial
 date: 2024-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Procuradoria do Equador lançou uma série de operações de busca e detenção em oito províncias do país, visando juízes, ex-juízes, funcionários judiciais, advogados e policiais. Essas medidas são parte de uma investigação sobre a suposta libertação de criminosos perigosos através de manipulação legal e abuso de poder.
 

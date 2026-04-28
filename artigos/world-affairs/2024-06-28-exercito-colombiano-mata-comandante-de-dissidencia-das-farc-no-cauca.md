@@ -1,11 +1,12 @@
 ---
-title: "Exército Colombiano Mata Comandante de Dissidência das FARC no Cauca"
+title: Exército Colombiano Mata Comandante de Dissidência das FARC no Cauca
 date: 2024-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Exército colombiano matou nesta segunda-feira o segundo comandante da estrutura 'Dagoberto Ramos', integrante da dissidência do Estado-Maior Central (EMC) das FARC no departamento de Cauca. O comandante, conhecido pelos pseudônimos 'Fito' ou 'Junior', era procurado por sua participação em diversas ações contra as autoridades nos últimos oito anos.
 

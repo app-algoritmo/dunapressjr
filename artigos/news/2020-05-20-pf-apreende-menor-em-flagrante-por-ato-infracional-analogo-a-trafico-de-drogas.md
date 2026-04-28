@@ -1,11 +1,12 @@
 ---
-title: "PF apreende menor em flagrante por ato infracional análogo a tráfico de drogas"
+title: PF apreende menor em flagrante por ato infracional análogo a tráfico de drogas
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO – Na tarde da terça-feira (19/5), a Polícia Federal apreendeu um menor em flagrante de ato infracional análogo a tráfico de drogas. A apreensão se deu após atividade de inteligência desenvolvida por policiais federais em Ji-Paraná/RO.
 

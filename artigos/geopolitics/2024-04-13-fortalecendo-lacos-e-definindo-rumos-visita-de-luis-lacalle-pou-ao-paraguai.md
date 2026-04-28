@@ -1,11 +1,12 @@
 ---
-title: "Fortalecendo Laços e Definindo Rumos: Visita de Luis Lacalle Pou ao Paraguai"
+title: 'Fortalecendo Laços e Definindo Rumos: Visita de Luis Lacalle Pou ao Paraguai'
 date: 2024-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A recente visita do presidente do Uruguai, Luis Lacalle Pou, ao Paraguai marcou um importante momento para as relações bilaterais entre os dois países. Durante o encontro com o presidente paraguaio Santiago Peña e seus ministros, uma variedade de questões cruciais foram abordadas, desde a facilitação das operações comerciais até discussões sobre a agenda regional, incluindo o Mercosul e as negociações de livre comércio.
 

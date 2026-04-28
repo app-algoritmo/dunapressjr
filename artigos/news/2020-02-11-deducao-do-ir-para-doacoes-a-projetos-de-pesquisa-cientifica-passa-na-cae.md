@@ -1,11 +1,12 @@
 ---
-title: "Dedução do IR para doações a projetos de pesquisa científica passa na CAE"
+title: Dedução do IR para doações a projetos de pesquisa científica passa na CAE
 date: 2020-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Assuntos Econômicos (CAE) aprovou de maneira
 terminativa, nesta terça-feira (11), um projeto de lei que permite a

@@ -1,11 +1,13 @@
 ---
-title: "Taxa de desemprego no Brasil tem redução significativa no trimestre de maio a julho de 2023"
+title: Taxa de desemprego no Brasil tem redução significativa no trimestre de maio
+  a julho de 2023
 date: 2023-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Menor taxa de desemprego desde 2022 é registrada no último trimestre
 

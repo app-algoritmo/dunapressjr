@@ -1,11 +1,12 @@
 ---
-title: "COMO GANHAR DINHEIRO COM FREE FIRE"
+title: COMO GANHAR DINHEIRO COM FREE FIRE
 date: 2022-10-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 [Free Fire](https://recargajogofreefire.com.br/): Quer saber como ganhar dinheiro com o jogo Free Fire e ter uma carreira lucrativa com o jogo FF? Confira as 11 dicas que separamos para você ganhar dinheiro com este game!
 

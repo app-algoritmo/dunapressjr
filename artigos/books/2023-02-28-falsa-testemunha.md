@@ -1,11 +1,12 @@
 ---
-title: "Falsa testemunha"
+title: Falsa testemunha
 date: 2023-02-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 Baseado em fatos reais, o livro Falsa Testemunha traz relatos de um acontecimento que marcou a vida de Franco Nicoletti, Ministro das Relações Exteriores da Ordem Cavaleiros de Malta e Grão Prior do Brasil pela Ordem de São Giovanni de Jerusalém O.S.J de Malta veja um pequeno trecho:
 

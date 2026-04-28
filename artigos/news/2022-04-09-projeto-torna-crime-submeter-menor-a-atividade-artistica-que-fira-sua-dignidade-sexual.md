@@ -1,11 +1,13 @@
 ---
-title: "Projeto torna crime submeter menor à atividade artística que fira sua dignidade sexual"
+title: Projeto torna crime submeter menor à atividade artística que fira sua dignidade
+  sexual
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Autores da proposta argumentam que os direitos da criança e do adolescente devem ser resguardados com todo o zelo possível. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo define reajustes de benefícios e contribuições previdenciários"
+title: Governo define reajustes de benefícios e contribuições previdenciários
 date: 2022-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Portaria foi publicada nesta quinta-feira (20) no Diário Oficial da União.
 

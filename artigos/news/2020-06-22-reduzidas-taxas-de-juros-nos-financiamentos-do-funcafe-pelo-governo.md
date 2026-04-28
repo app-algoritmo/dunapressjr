@@ -1,11 +1,12 @@
 ---
-title: "Reduzidas taxas de juros nos financiamentos do Funcafé pelo governo"
+title: Reduzidas taxas de juros nos financiamentos do Funcafé pelo governo
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A alteração dos valores faz parte das medidas do Plano Safra 2020/2021, anunciado nesta semana.
 

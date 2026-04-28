@@ -1,11 +1,13 @@
 ---
-title: "Reunido com militares de todo o país, Bolsonaro alertou sobre todas as fases de ataques do patógeno"
+title: Reunido com militares de todo o país, Bolsonaro alertou sobre todas as fases
+  de ataques do patógeno
 date: 2020-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Uma guerra com muitas frentes de batalhas
 

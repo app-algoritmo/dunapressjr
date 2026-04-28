@@ -1,11 +1,12 @@
 ---
-title: "Será na próxima semana consulta pública para novo Catálogo de Cursos Técnicos"
+title: Será na próxima semana consulta pública para novo Catálogo de Cursos Técnicos
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Na próxima semana, a versão preliminar do Catálogo Nacional de Cursos Técnicos (CNCT) será submetida a consulta pública por meio do Portal do Ministério da Educação (MEC). A proposta foi elaborada em um processo coordenado pela Secretaria de Educação Profissional e Tecnológica (Setec) e faz parte de uma das entregas do Programa Novos Caminhos. A perspectiva é de que o documento seja submetido ao Conselho Nacional de Educação (CNE) em agosto.
 

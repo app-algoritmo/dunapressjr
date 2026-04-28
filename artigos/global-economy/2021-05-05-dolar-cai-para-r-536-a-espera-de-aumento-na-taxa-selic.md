@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,36 à espera de aumento na taxa Selic"
+title: Dólar cai para R$ 5,36 à espera de aumento na taxa Selic
 date: 2021-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa teve maior alta em um mês e voltou a superar 119 mil pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde vence Brasília e sobe para vice-liderança da Superliga"
+title: Osasco São Cristóvão Saúde vence Brasília e sobe para vice-liderança da Superliga
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Osasco São Cristóvão Saúde assume a vice-liderança da Superliga 1XBET 2022/23. O time comandado pelo técnico Luizomar deu um salto na tabela após derrotar o Brasília Vôlei por 3 sets a 0, com parciais de 25/19, 25/15 e 25/17, em 1h10min, na noite desta terça-feira (10), no ginásio José Liberatti, que mais uma vez recebeu grande público, com 3.483 pessoas. A partida foi válida pela última rodada do primeiro turno da fase de classificação.
 

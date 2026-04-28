@@ -1,11 +1,12 @@
 ---
-title: "12 Anos de Escravidão"
+title: 12 Anos de Escravidão
 date: 2019-02-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Indicação de filme que virou livro, ou livro que virou filme.Adaptação da autobiografia escrita por  Solomon Northup  em 1853, um homem livre que foi enganado e se tornou escravo por doze anos. No filme, Solomon é interpretado pelo ator britânico Chiwetel Ejiofor, de Filhos da Esperança (2006), 2012 (2009) e Salt (2010). 
 

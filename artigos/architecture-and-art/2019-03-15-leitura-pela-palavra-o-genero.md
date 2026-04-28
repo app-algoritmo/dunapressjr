@@ -1,11 +1,12 @@
 ---
-title: "Leitura pela palavra: O Gênero"
+title: 'Leitura pela palavra: O Gênero'
 date: 2019-03-15
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Em continuidade à série em que analisamos a propriedade e o significado das palavras, vou abordar este substantivo que tem causado muita polêmica. Basta um pouco de Leitura Vertical e "Gênero" seria um vocábulo natimorto. A etimologia vem do Latim: *Gênus, Gêneris,* que quer dizer 'descendência, origem, tipo'. Portanto, o gênero é sempre empregado no sentido de agregar desiguais, a partir de uma referência comum. Começa nesse ponto a falha do conceito que gera expressões equivocadas.
 

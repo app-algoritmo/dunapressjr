@@ -1,11 +1,12 @@
 ---
-title: "Rússia promete vingança após ataque terrorista em sala de concertos"
+title: Rússia promete vingança após ataque terrorista em sala de concertos
 date: 2024-03-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O vice-presidente do Conselho de Segurança da Rússia, Dmitry Medvedev, emitiu uma declaração contundente hoje em relação ao ataque devastador ocorrido em uma sala de concertos nas proximidades de Moscou. Mais de 130 vidas foram perdidas neste ato de terrorismo, reivindicado pelo Estado Islâmico (EI), desencadeando uma onda de luto e determinação na Rússia.
 

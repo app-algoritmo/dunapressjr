@@ -1,11 +1,14 @@
 ---
-title: "2.01 O titular do recém-criado Ministério da Infraestrutura (antigo Transportes, Portos e Aviação Civil) afirmou que o planejamento, gestão e regulação vão ser os pilares do novo governo"
+title: 2.01 O titular do recém-criado Ministério da Infraestrutura (antigo Transportes,
+  Portos e Aviação Civil) afirmou que o planejamento, gestão e regulação vão ser os
+  pilares do novo governo
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Tarcísio Gomes: protagonismo da iniciativa privada é fundamental
 

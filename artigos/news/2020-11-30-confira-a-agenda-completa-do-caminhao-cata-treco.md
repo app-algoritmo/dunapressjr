@@ -1,11 +1,12 @@
 ---
-title: "Confira a agenda completa do caminhão Cata Treco"
+title: Confira a agenda completa do caminhão Cata Treco
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Cata Treco, programa da Secretaria Municipal de Obras, divulgou a agenda para a próxima semana. Serão sete localidades atendidas. Os atendimentos iniciam na segunda-feira (30) pelo bairro São Judas e seguem pelos bairros São João, Dom Bosco, Ressacada, Vila Operária, Carvalho e Centro. O caminhão estará nas ruas até sexta-feira (04), das 7h30 às 11h30 e das 13h30 às 17h30.
 

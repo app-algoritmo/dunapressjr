@@ -1,11 +1,12 @@
 ---
-title: "PF encontra no Amazonas pertences pessoais de jornalista e indigenista"
+title: PF encontra no Amazonas pertences pessoais de jornalista e indigenista
 date: 2022-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Policiais localizam cartão de saúde de indigenista.
 

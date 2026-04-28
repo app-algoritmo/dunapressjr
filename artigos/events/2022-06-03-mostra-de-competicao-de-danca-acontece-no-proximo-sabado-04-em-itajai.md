@@ -1,11 +1,12 @@
 ---
-title: "Mostra de competição de dança acontece no próximo sábado (04) em Itajaí"
+title: Mostra de competição de dança acontece no próximo sábado (04) em Itajaí
 date: 2022-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 O Grupo Kaiorra promove mostra de competição de dança no próximo sábado (04), às 20h, no Teatro Municipal de Itajaí. Os ingressos estão à venda no valor de R$ 55 (inteira) e R$ 27,50 (meia), na bilheteria do teatro.
 

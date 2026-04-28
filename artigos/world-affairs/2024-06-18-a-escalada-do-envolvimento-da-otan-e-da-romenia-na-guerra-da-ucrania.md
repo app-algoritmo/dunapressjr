@@ -1,11 +1,12 @@
 ---
-title: "A Escalada do Envolvimento da OTAN e da Romênia na Guerra da Ucrânia"
+title: A Escalada do Envolvimento da OTAN e da Romênia na Guerra da Ucrânia
 date: 2024-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Aumenta o Envolvimento da Romênia e da OTAN na Ucrânia em Meio a Planos para um Possível Conflito com a Rússia**.
 

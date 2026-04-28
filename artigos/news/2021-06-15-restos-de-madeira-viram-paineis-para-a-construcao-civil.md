@@ -1,11 +1,12 @@
 ---
-title: "Restos de madeira viram painéis para a construção civil"
+title: Restos de madeira viram painéis para a construção civil
 date: 2021-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A estrutura sustentável, além de contribuir com o meio ambiente, cujo dia nacional foi comemorado no dia último dia 5, pode gerar crescimento econômico para o Brasil.
 

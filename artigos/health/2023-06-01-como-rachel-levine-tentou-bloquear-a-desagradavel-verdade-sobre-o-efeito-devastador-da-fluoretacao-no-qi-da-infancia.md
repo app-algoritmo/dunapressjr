@@ -1,11 +1,13 @@
 ---
-title: "Como Rachel Levine tentou bloquear a desagradável verdade sobre o efeito devastador da fluoretação no QI da infância"
+title: Como Rachel Levine tentou bloquear a desagradável verdade sobre o efeito devastador
+  da fluoretação no QI da infância
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Covid nos mostrou o quão corrupto o estabelecimento médico se tornou não apenas na América, mas em todo o mundo. 
 

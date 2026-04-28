@@ -1,11 +1,13 @@
 ---
-title: "Mercado aguarda novo arcabouço fiscal enquanto Ibovespa fecha em alta com recuperação externa"
+title: Mercado aguarda novo arcabouço fiscal enquanto Ibovespa fecha em alta com recuperação
+  externa
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Ibovespa, principal indicador da Bolsa de Valores do Brasil (B3), encerrou o pregão desta quarta-feira (29), em alta, impulsionado pela melhora nos indicadores externos e pela expectativa dos investidores com o projeto para o novo arcabouço fiscal do país. A informação é do site Revista Oeste.
 

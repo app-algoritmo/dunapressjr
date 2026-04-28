@@ -1,11 +1,13 @@
 ---
-title: "O início de uma vida fisicamente ativa requer alguns cuidados simples, porém importantes!"
+title: O início de uma vida fisicamente ativa requer alguns cuidados simples, porém
+  importantes!
 date: 2021-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Todo mundo já conhece os benefícios de uma vida fisicamente ativa tanto na prevenção quanto no tratamento de diversas doenças, sejam elas físicas ou psicológicas. Mas pouca gente lembra dos cuidados necessários antes do início de uma atividade física.
 

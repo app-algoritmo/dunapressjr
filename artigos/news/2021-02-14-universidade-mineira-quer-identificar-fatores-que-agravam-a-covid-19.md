@@ -1,11 +1,12 @@
 ---
-title: "Universidade mineira quer identificar fatores que agravam a COVID-19"
+title: Universidade mineira quer identificar fatores que agravam a COVID-19
 date: 2021-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O projeto da Universidade Federal do Triângulo Mineiro (UFTM) selecionado no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) quer descobrir se existem pessoas com maior imunidade à COVID-19 e quais fatores — entre eles, genéticos — podem ser determinantes para isso. Com essas respostas em mãos, os pesquisadores pretendem trazer avanços no diagnóstico e no tratamento da doença.
 

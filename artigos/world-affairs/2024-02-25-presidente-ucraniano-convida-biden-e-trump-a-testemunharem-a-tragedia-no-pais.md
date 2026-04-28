@@ -1,11 +1,13 @@
 ---
-title: "Presidente Ucraniano Convida Biden e Trump a Testemunharem a 'Tragédia' no País"
+title: Presidente Ucraniano Convida Biden e Trump a Testemunharem a 'Tragédia' no
+  País
 date: 2024-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente ucraniano, Volodymyr Zelensky, estendeu convites ao presidente americano, Joe Biden, e ao favorito das primárias republicanas, Donald Trump, para viajarem à Ucrânia e testemunharem pessoalmente a "tragédia" em que o país está imerso desde a frente de combate.
 

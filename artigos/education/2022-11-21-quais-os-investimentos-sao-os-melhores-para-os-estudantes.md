@@ -1,11 +1,12 @@
 ---
-title: "Quais os investimentos são os melhores para os estudantes?"
+title: Quais os investimentos são os melhores para os estudantes?
 date: 2022-11-21
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Acabou de entrar na universidade? Não sabe como economizar ou fazer seu dinheiro render? Então, este artigo é para você! Mostraremos aqui quais os melhores investimentos para estudantes! Quer saber quais são? Continue lendo!
 

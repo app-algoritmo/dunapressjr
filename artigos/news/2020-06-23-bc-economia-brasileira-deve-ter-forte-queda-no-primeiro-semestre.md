@@ -1,11 +1,12 @@
 ---
-title: "BC: economia brasileira deve ter forte queda no primeiro semestre"
+title: 'BC: economia brasileira deve ter forte queda no primeiro semestre'
 date: 2020-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Impacto da pandemia na economia será desinflacionário, diz Copom.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa alerta para possíveis riscos do jejum intermitente"
+title: Pesquisa alerta para possíveis riscos do jejum intermitente
 date: 2021-11-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudo aponta danos ao cérebro e ao intestino; por outro lado, identifica efeito antidepressivo e redução da ansiedade.
 

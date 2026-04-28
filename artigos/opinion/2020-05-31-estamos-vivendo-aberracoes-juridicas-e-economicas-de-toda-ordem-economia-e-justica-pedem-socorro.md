@@ -1,11 +1,13 @@
 ---
-title: "Estamos vivendo aberrações jurídicas e econômicas de toda ordem – Economia e justiça pedem socorro"
+title: Estamos vivendo aberrações jurídicas e econômicas de toda ordem – Economia
+  e justiça pedem socorro
 date: 2020-05-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Vemos governos, sejam municipais, estaduais entre outras esferas de poder direcionar atos, fazer lock downs (parada total de um determinado local), direcionar recursos, sem prévia análise, estudo de viabilidade, pesquisa de mercado e custo benefícios, condições básicas para qualquer investimento que se preze.
 

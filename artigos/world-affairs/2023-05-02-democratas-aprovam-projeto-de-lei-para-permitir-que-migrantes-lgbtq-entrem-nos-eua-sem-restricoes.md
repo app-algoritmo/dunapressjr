@@ -1,11 +1,13 @@
 ---
-title: "Democratas aprovam projeto de lei para permitir que migrantes LGBTQ entrem nos EUA sem restrições"
+title: Democratas aprovam projeto de lei para permitir que migrantes LGBTQ entrem
+  nos EUA sem restrições
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Democratas na Câmara e no Senado apresentaram uma legislação que permitiria que migrantes indocumentados entrassem efetivamente nos EUA sem restrições se declarassem que são LGBTQ +, levando as autoridades de fronteira a alertar que de repente “todo mundo será LGBTQ”.
 

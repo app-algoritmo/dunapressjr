@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora mapeia a ingestão de plásticos por peixes marinhos"
+title: Pesquisadora mapeia a ingestão de plásticos por peixes marinhos
 date: 2021-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo dados do estudo, 55% dos animais estavam contaminados. O trabalho foi publicado na revista internacional, Marine Pollution Bulletin.
 

@@ -1,11 +1,12 @@
 ---
-title: "Caixa lança linha de crédito para antecipação do Saque-Aniversário"
+title: Caixa lança linha de crédito para antecipação do Saque-Aniversário
 date: 2020-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Trabalhadores podem solicitar antecipação em até três saques na modalidade, com juros de 0,99% a.m.
 

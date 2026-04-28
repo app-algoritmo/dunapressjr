@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Fazenda afirmou que ata do Copom: 'é mais amigável'"
+title: 'Ministro da Fazenda afirmou que ata do Copom: ''é mais amigável'''
 date: 2023-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na segunda-feira (6), o ministro criticou comunicado do BC sobre manutenção da Selic.
 

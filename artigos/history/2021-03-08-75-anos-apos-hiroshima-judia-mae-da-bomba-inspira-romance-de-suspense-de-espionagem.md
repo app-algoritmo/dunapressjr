@@ -1,11 +1,13 @@
 ---
-title: "75 anos após Hiroshima, judia 'mãe da bomba' inspira romance de suspense de espionagem"
+title: 75 anos após Hiroshima, judia 'mãe da bomba' inspira romance de suspense de
+  espionagem
 date: 2021-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A física Lise Meitner descobriu a fissão nuclear logo após fugir da Alemanha nazista em 1938, mas o Prêmio Nobel foi dado a um homem quando ela viu seu avanço ser usado de maneiras que ela se opunha.
 

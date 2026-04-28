@@ -1,11 +1,13 @@
 ---
-title: "Pesquisas ajudam a avaliar dose correta de radiação em exames de mamografia com aparelhos de raios-X"
+title: Pesquisas ajudam a avaliar dose correta de radiação em exames de mamografia
+  com aparelhos de raios-X
 date: 2022-07-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

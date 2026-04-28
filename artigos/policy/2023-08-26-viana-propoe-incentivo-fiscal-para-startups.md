@@ -1,11 +1,12 @@
 ---
-title: "Viana propõe incentivo fiscal para startups"
+title: Viana propõe incentivo fiscal para startups
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Carlos Viana (Podemos-MG) anunciou, em pronunciamento na quarta-feira (23), a apresentação de projeto para permitir que "investidores-anjo" deduzam do Imposto de Renda (IR) o aporte de capital destinado aempresas startups.
 

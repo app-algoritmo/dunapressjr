@@ -1,11 +1,12 @@
 ---
-title: "Médicos Israelenses tentam neutralizar proteínas causadoras de câncer"
+title: Médicos Israelenses tentam neutralizar proteínas causadoras de câncer
 date: 2021-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com médicos da Universidade Ben Gurion, o risco de certos tipos de câncer pode ser reduzido estimulando a produção de uma enzima no corpo, que regula a proteína BRD4.
 

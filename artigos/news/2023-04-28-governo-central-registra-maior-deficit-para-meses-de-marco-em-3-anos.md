@@ -1,11 +1,12 @@
 ---
-title: "Governo Central registra maior déficit para meses de março em 3 anos"
+title: Governo Central registra maior déficit para meses de março em 3 anos
 date: 2023-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado primário ficou negativo em R$ 7,085 bilhões no mês passado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dr. Malone diz que a vacina COVID-19 com mRNA da Moderna, causa câncer"
+title: Dr. Malone diz que a vacina COVID-19 com mRNA da Moderna, causa câncer
 date: 2023-11-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Robert Malone apareceu  [esta](https://twitter.com/VigilantFox/status/1724641530348998662) semana em uma [audiência sobre "Lesões causadas por vacinas COVID-19"](https://rwmalonemd.substack.com/p/congresswoman-marjorie-taylor-greene) liderada pela congressista Marjorie Taylor Greene (R-Ga.), na qual ele revelou como a própria patente da Moderna mostra que seu coronavírus Wuhan (COVID- 19) Os frascos de “vacina” contêm bilhões de fragmentos de DNA e outros contaminantes ligados a defeitos congênitos e câncer.
 

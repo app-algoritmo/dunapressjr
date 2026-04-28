@@ -1,11 +1,12 @@
 ---
-title: "Roubos de carga caem 36% em julho na Grande São Paulo"
+title: Roubos de carga caem 36% em julho na Grande São Paulo
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As maiores quedas nesses crimes aconteceram nas Seccionais de Taboão da Serra e São Bernardo do Campo.
 

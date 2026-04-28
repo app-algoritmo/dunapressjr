@@ -1,11 +1,12 @@
 ---
-title: "Laércio Oliveira critica ministro por comparar terceirização a 'trabalho escravo'"
+title: Laércio Oliveira critica ministro por comparar terceirização a 'trabalho escravo'
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nessa quarta-feira (12), o senador Laércio Oliveira (PP-SE) criticou nessa quarta-feira (12) o ministro do Trabalho e Emprego, Luiz Marinho, por ter comparado, em entrevista concedida ao jornal paranaense Gazeta do Povo, a terceirização ao trabalho escravo. Laércio considerou a declaração do ministro "absurda", pois entende que a Lei da Terceirização ([Lei 13.429, de 2017](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-03-31;13429)), da qual foi relator quando era deputado, deu dignidade a milhões de trabalhadores e possibilitou que hoje cerca de 12 milhões de pessoas sejam contratadas sob esta modalidade de trabalho.
 

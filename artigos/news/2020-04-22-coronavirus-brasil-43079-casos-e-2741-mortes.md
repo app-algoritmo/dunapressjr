@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Brasil: 43.079 casos e 2.741 mortes"
+title: 'Coronavírus Brasil: 43.079 casos e 2.741 mortes'
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Informações atualizadas até as 14h desta terça-feira (21). São Paulo concentra maior parte das notificações.
 

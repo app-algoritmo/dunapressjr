@@ -1,12 +1,13 @@
 ---
-title: "Campanha solidária do Bangu Shopping arrecada agasalhos e cobertores"
+title: Campanha solidária do Bangu Shopping arrecada agasalhos e cobertores
 date: 2023-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - Health
+- Features
+- Health
 ---
+
 
 ## Ação social acontece até o dia 25 de junho. 
 

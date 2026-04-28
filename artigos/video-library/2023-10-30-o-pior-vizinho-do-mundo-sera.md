@@ -1,11 +1,12 @@
 ---
-title: "O Pior Vizinho do Mundo – Será?"
+title: O Pior Vizinho do Mundo – Será?
 date: 2023-10-30
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

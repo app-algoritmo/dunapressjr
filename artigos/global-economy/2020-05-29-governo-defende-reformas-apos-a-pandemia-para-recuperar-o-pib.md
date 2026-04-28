@@ -1,11 +1,12 @@
 ---
-title: "Governo defende reformas após a pandemia para recuperar o PIB"
+title: Governo defende reformas após a pandemia para recuperar o PIB
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ministério da Economia também pede manutenção do teto de gastos.
 

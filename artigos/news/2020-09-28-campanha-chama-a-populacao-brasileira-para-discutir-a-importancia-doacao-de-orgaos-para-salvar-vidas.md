@@ -1,11 +1,13 @@
 ---
-title: "Campanha chama a população brasileira para discutir a importância doação de órgãos para salvar vidas"
+title: Campanha chama a população brasileira para discutir a importância doação de
+  órgãos para salvar vidas
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste ano, entre os meses de janeiro e julho foram realizados 9.952 transplantes de órgãos e tecidos no Brasil que deram às pessoas uma nova oportunidade de viver. Para que chances como essa alcancem cada vez mais brasileiros, o Ministério da Saúde lançou, nesta quinta-feira (24), a campanha nacional de incentivo à doação de órgãos com o tema: “Doe órgãos. A vida precisa continuar”.
 

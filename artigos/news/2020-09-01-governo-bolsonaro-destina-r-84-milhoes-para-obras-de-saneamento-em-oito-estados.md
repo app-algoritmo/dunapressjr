@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro destina R$ 8,4 milhões para obras de saneamento em oito estados"
+title: Governo Bolsonaro destina R$ 8,4 milhões para obras de saneamento em oito estados
 date: 2020-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Valores serão repassados pelo Ministério do Desenvolvimento Regional para obras de abastecimento de água, esgotamento sanitário, manejo de águas pluviais e saneamento integrado. Bahia, Goiás, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Santa Catarina, São Paulo e Sergipe serão beneficiados pelo repasse de recursos do Ministério do Desenvolvimento Regional.
 

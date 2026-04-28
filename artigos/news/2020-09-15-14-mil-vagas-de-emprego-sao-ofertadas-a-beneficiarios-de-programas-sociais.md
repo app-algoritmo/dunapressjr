@@ -1,11 +1,12 @@
 ---
-title: "14 mil vagas de emprego são ofertadas a beneficiários de programas sociais"
+title: 14 mil vagas de emprego são ofertadas a beneficiários de programas sociais
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Inscritos no Bolsa Família e no Cadastro Único podem participar das oportunidades do programa Progredir. São postos de emprego para comércio, indústria, construção civil e transporte, entre outras áreas.
 

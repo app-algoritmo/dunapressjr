@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Economia Paulo Guedes revela conspiração contra o Presidente Jair Bolsonaro"
+title: Ministro da Economia Paulo Guedes revela conspiração contra o Presidente Jair
+  Bolsonaro
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Transmissão e redação Folha Política |
 

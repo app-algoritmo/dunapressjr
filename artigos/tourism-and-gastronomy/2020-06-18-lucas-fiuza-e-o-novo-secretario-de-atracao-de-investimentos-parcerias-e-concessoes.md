@@ -1,11 +1,12 @@
 ---
-title: "Lucas Fiuza é o novo secretário de Atração de Investimentos, Parcerias e Concessões"
+title: Lucas Fiuza é o novo secretário de Atração de Investimentos, Parcerias e Concessões
 date: 2020-06-18
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Titular será o responsável pela melhoria do ambiente de negócios, e a otimização das iniciativas público-privadas para o setor.
 

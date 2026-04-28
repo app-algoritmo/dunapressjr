@@ -1,11 +1,12 @@
 ---
-title: "FMI melhora projeção e prevê recuo de 5,8% para economia brasileira"
+title: FMI melhora projeção e prevê recuo de 5,8% para economia brasileira
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar de elogios, relatório alerta para risco na dívida pública.
 

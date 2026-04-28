@@ -1,11 +1,12 @@
 ---
-title: "Regimento recepciona 225 novos soldados"
+title: Regimento recepciona 225 novos soldados
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Borja (RS)** – No
 dia 1° de março, o 2º Regimento de Cavalaria Mecanizado recepcionou 225 novos

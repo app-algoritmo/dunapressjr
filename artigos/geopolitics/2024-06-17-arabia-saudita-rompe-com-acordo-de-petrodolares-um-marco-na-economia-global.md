@@ -1,11 +1,12 @@
 ---
-title: "Arábia Saudita Rompe com Acordo de Petrodólares: Um Marco na Economia Global"
+title: 'Arábia Saudita Rompe com Acordo de Petrodólares: Um Marco na Economia Global'
 date: 2024-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Decisão de Não Renovar Contrato com EUA Permite Vendas em Diversas Moedas e Potenciais Transações com Bitcoin**.
 

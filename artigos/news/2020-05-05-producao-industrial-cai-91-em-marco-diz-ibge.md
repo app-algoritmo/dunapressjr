@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cai 9,1% em março, diz IBGE"
+title: Produção industrial cai 9,1% em março, diz IBGE
 date: 2020-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Esse foi o maior recuo desde maio de 2018 (-11%)
 A produção industrial brasileira teve uma queda de 9,1% na passagem de fevereiro para março deste ano. Esse foi o maior recuo desde maio de 2018 (-11%) e o pior mês de março desde 2002. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o resultado é reflexo das medidas de isolamento social provocadas pela pandemia de covid-19.

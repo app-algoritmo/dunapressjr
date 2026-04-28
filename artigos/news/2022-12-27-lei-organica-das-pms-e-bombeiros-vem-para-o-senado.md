@@ -1,11 +1,12 @@
 ---
-title: "Lei orgânica das PMs e bombeiros vem para o Senado"
+title: Lei orgânica das PMs e bombeiros vem para o Senado
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Senado deve receber nesta semana o projeto de lei com normas gerais para organização das polícias militares e dos corpos de bombeiros militares. O texto tramita desde 2001, quando veio do Poder Executivo ([PL 4.363/2001](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=26946), na numeração original), e foi aprovado pela Câmara dos Deputados na quarta-feira (14) na forma de substitutivo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pequena Grande Vida"
+title: Pequena Grande Vida
 date: 2018-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## **"Pequena Grande Vida": uma reflexão sobre superpopulação e consumismo em meio a paisagens norueguesas**
 

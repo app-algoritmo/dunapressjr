@@ -1,11 +1,12 @@
 ---
-title: "Índice de Variação de Aluguéis Residenciais sobe 0,97% em março"
+title: Índice de Variação de Aluguéis Residenciais sobe 0,97% em março
 date: 2023-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nas cidades em que é pesquisado, IVAR caiu apenas em Porto Alegre.
 

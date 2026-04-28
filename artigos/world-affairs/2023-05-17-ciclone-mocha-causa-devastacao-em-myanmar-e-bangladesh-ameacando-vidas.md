@@ -1,11 +1,12 @@
 ---
-title: "Ciclone Mocha causa devastação em Myanmar e Bangladesh, ameaçando vidas"
+title: Ciclone Mocha causa devastação em Myanmar e Bangladesh, ameaçando vidas
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Dezenas de mortes temidas em Myanmar enquanto o poderoso ciclone atinge áreas vulneráveis e campos de refugiados Rohingya
 

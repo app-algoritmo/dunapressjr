@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas registram déficit de R$ 15,5 bilhões em maio"
+title: Contas públicas registram déficit de R$ 15,5 bilhões em maio
 date: 2021-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2020, o déficit estava em R$ 131,4 bilhões, no mesmo mês.
 

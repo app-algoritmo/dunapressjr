@@ -1,12 +1,14 @@
 ---
-title: "Instituto Etiene Medeiros tem primeira aluna na disputa de um campeonato nacional de natação"
+title: Instituto Etiene Medeiros tem primeira aluna na disputa de um campeonato nacional
+  de natação
 date: 2023-12-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Swimming
+- Sports
+- Swimming
 ---
+
 
 ## A pernambucana Maria Elisa, atleta que iniciou o projeto do IEM em 2021, participa entre esta terça-feira (5) e o sábado (9) da edição 2023 do Campeonato Brasileiro Juvenil de Verão, em São José do Rio Preto, interior paulista. Um marco para a jovem nadadora e para o Instituto.
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasil: 15 de Novembro, a infame proclamação da república instaurada por meio de um golpe militar"
+title: 'Brasil: 15 de Novembro, a infame proclamação da república instaurada por meio
+  de um golpe militar'
 date: 2021-11-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Sua quarta viagem ao exterior , foi a mais traumática e violenta possível , se tratava da expulsão da família imperial devido a proclamação da República por meio de um golpe militar com ações pela madrugada enquanto o povo dormia.
 

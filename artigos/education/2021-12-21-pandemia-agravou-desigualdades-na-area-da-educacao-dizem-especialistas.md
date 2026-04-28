@@ -1,11 +1,12 @@
 ---
-title: "Pandemia agravou desigualdades na área da educação, dizem especialistas"
+title: Pandemia agravou desigualdades na área da educação, dizem especialistas
 date: 2021-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A falta de acesso a equipamentos e apoio pedagógico prejudicou os alunos, principalmente do Ensino Médio, durante os anos de 2020 e 2021. Esse foi o resultado de uma pesquisa realizada pelo Instituto de Estudos Socioeconômicos (Inesc), em parceira com o Instituo Vox Populi, que ouviu 1500 alunos do ensino médio da rede pública e 500 da rede particular de ensino para saber quais os principais desafios enfrentados por eles durante a pandemia de Covid-19.
 

@@ -1,11 +1,12 @@
 ---
-title: "Palestra sobre Força Expedicionária Brasileira é apresentada em São Paulo"
+title: Palestra sobre Força Expedicionária Brasileira é apresentada em São Paulo
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Uma palestra alusiva ao papel da Força Expedicionária Brasileira (FEB) foi ministrada aos integrantes do Hospital Militar de Área de São Paulo (HMASP) neste último dia 15. Com o tema “A Segunda Guerra Mundial e a FEB”, a palestra enalteceu a participação do Brasil durante a guerra, explorou as principais operações militares e apresentou, em números, os feitos brasileiros em terras italianas. A palestra remonta cenários com experiências pessoais de alguns combatentes da época.
 

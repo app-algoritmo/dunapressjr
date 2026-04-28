@@ -1,11 +1,12 @@
 ---
-title: "Parar o comunismo chinês é prioridade para os republicanos no Congresso americano"
+title: Parar o comunismo chinês é prioridade para os republicanos no Congresso americano
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em três dias, a Câmara dos Representantes dos Estados Unidos não conseguiu eleger seu novo presidente. São dez rodadas de votação e não houve vencedor em nenhuma. Kevin McCarthy, o principal candidato republicano, não conseguiu os 218 votos de que precisava dentro do Partido Republicano. A única certeza que existe, é que continuarão a se repetir até que haja um resultado final. O Congresso está agora em uma espécie de loop.
 

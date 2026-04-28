@@ -1,11 +1,12 @@
 ---
-title: "Ford  patrocina exposição de Auschwitz"
+title: Ford  patrocina exposição de Auschwitz
 date: 2020-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *O papel de Henry Ford na máquina nazista não foi mencionado.*
 

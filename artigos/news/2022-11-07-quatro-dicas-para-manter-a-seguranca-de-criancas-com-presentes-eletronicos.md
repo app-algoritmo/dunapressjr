@@ -1,11 +1,12 @@
 ---
-title: "Quatro dicas para manter a segurança de crianças com presentes eletrônicos"
+title: Quatro dicas para manter a segurança de crianças com presentes eletrônicos
 date: 2022-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma média de 49% das crianças no Brasil interagem pela primeira vez com um dispositivo conectado à internet antes dos seis anos, e a idade média para ganhar o primeiro dispositivo conectado é de 8,5 anos, segundo pesquisa da Kaspersky de 2020. Os dados trazem um alerta relevante neste período que antecede o Dia das Crianças, quando videogames, smartphones e outros aparelhos eletrônicos ganham o topo da lista de desejos do público infantojuvenil. Especialistas afirmam que é indispensável que esses produtos sejam usados com o acompanhamento e cuidados dos adultos, que devem orientar as crianças e adolescentes sobre os conteúdos acessados e educá-las para o uso seguro e a autodefesa *online*.
 

@@ -1,11 +1,13 @@
 ---
-title: "Transformação Urbana em Utrecht: A Cidade dos 10 Minutos e a Revolução das Smart Cities"
+title: 'Transformação Urbana em Utrecht: A Cidade dos 10 Minutos e a Revolução das
+  Smart Cities'
 date: 2024-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Utrecht Aposta em Tecnologia para Transformar-se numa Cidade Inteligente, Enfrentando Resistências e Preocupações**.
 

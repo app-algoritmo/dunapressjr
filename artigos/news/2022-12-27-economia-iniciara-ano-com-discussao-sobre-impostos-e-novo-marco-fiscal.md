@@ -1,11 +1,12 @@
 ---
-title: "Economia iniciará ano com discussão sobre impostos e novo marco fiscal"
+title: Economia iniciará ano com discussão sobre impostos e novo marco fiscal
 date: 2022-12-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## PEC da Transição permitiu recomposição do Orçamento de 2023.
 

@@ -1,12 +1,14 @@
 ---
-title: "Starlink Enfrenta Bloqueio Judicial de Finanças no Brasil e Assegura Continuidade dos Serviços"
+title: Starlink Enfrenta Bloqueio Judicial de Finanças no Brasil e Assegura Continuidade
+  dos Serviços
 date: 2024-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Technology
+- Finances
+- Technology
 ---
+
 
 No início desta semana, a Starlink divulgou uma comunicação importante aos seus clientes no Brasil sobre uma decisão do Supremo Tribunal Federal (STF), que congelou suas finanças no país e impediu a empresa de realizar transações financeiras. A ordem judicial foi emitida pelo ministro Alexandre de Moraes e, segundo a Starlink, baseia-se em uma determinação considerada infundada pela empresa.
 

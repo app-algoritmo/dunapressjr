@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial puxa superávit recorde de contas externas em abril"
+title: Balança comercial puxa superávit recorde de contas externas em abril
 date: 2021-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit das transações correntes chegou a US$ 5,6 bilhões.
 

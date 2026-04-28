@@ -1,11 +1,13 @@
 ---
-title: "Conferência da ONU sobre Mudanças Climáticas, no Egito, terá participação de senadores"
+title: Conferência da ONU sobre Mudanças Climáticas, no Egito, terá participação de
+  senadores
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Conferência da Organização das Nações Unidas sobre Mudanças Climáticas (COP27), que acontece em Sharm el-Sheikh, no Egito, até o dia 18, deverá contar com um grupo de 12 senadores em missão oficial. O requerimento para participação no evento, que começou no dia 6, foi aprovado em Plenário. Além dos 12 parlamentares, o presidente do Senado, Rodrigo Pacheco, também avalia uma possível viagem ao Egito para acompanhar as discussões, que reúnem líderes mundiais em torno do lema "Juntos para a implementação".
 

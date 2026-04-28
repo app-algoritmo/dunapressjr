@@ -1,11 +1,13 @@
 ---
-title: "Parceria do governo brasileiro com iniciativa do G20 ajuda a impulsionar investimentos em infraestrutura"
+title: Parceria do governo brasileiro com iniciativa do G20 ajuda a impulsionar investimentos
+  em infraestrutura
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor total de projetos brasileiros até 2022 deve chegar a US$ 44,66 bilhões, conforme previsão do Global Infrastructure Hub.
 

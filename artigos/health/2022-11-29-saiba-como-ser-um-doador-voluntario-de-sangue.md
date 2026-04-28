@@ -1,11 +1,12 @@
 ---
-title: "Saiba como ser um doador voluntário de sangue"
+title: Saiba como ser um doador voluntário de sangue
 date: 2022-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma pessoa adulta tem em média cinco litros de sangue. Em uma doação são coletados no máximo 450ml de sangue – pouco para quem doa, muito para quem precisa, pois não há nada que substitua esse composto de células que cumpre funções como levar oxigênio a cada parte do corpo, defender o organismo contra infecções e participar da coagulação, processo que consiste na transformação do sangue líquido num gel sólido, chamado de coágulo sanguíneo ou trombo, com o objetivo de parar uma hemorragia.
 

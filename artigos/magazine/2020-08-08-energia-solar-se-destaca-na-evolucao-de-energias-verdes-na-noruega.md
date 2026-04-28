@@ -1,11 +1,12 @@
 ---
-title: "Energia solar se destaca na evolução de energias verdes na Noruega"
+title: Energia solar se destaca na evolução de energias verdes na Noruega
 date: 2020-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **A Noruega está tentando se tornar um grande consumidor de energia solar**.
 

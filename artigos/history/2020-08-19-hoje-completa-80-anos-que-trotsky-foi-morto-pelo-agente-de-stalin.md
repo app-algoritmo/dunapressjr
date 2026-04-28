@@ -1,11 +1,12 @@
 ---
-title: "Hoje completa 80 anos que Trotsky foi morto pelo agente de Stalin"
+title: Hoje completa 80 anos que Trotsky foi morto pelo agente de Stalin
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Museu em casa onde o revolucionário russo foi brutalmente morto com um machado de gelo ainda tem marcas de tentativa de ataque anterior enquanto o exílio buscava segurança.
 

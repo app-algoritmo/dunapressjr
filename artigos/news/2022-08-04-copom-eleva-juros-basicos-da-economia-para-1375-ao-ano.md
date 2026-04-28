@@ -1,11 +1,12 @@
 ---
-title: "Copom eleva juros básicos da economia para 13,75% ao ano"
+title: Copom eleva juros básicos da economia para 13,75% ao ano
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Taxa básica de juros está no maior nível desde janeiro de 2017.
 

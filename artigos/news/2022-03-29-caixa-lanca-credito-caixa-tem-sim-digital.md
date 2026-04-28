@@ -1,11 +1,12 @@
 ---
-title: "Caixa lança crédito Caixa Tem SIM Digital"
+title: Caixa lança crédito Caixa Tem SIM Digital
 date: 2022-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Financiamento é voltado a empreendedores.
 

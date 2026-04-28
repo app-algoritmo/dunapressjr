@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina protocolo de intenções para instalação de empresa do ramo de combustíveis no Estado"
+title: Governador da Paraíba assina protocolo de intenções para instalação de empresa
+  do ramo de combustíveis no Estado
 date: 2020-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O empreendimento irá funcionar no município do Conde.
 

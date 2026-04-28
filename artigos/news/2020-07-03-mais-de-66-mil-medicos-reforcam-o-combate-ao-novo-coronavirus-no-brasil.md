@@ -1,11 +1,12 @@
 ---
-title: "Mais de 6,6 mil médicos reforçam o combate ao novo coronavírus no Brasil"
+title: Mais de 6,6 mil médicos reforçam o combate ao novo coronavírus no Brasil
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Profissionais reforçam o atendimento em postos de saúde de vários municípios. Governo Federal está investindo mais de R$ 1,2 bilhão na contratação dos profissionais.
 

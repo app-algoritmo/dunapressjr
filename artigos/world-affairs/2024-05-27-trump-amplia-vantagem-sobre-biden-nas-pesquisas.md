@@ -1,11 +1,12 @@
 ---
-title: "Trump Amplia Vantagem Sobre Biden nas Pesquisas"
+title: Trump Amplia Vantagem Sobre Biden nas Pesquisas
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As últimas pesquisas realizadas pela Harvard Harris e pela Morning Consult indicam que Donald Trump está ampliando sua vantagem sobre o atual presidente Joe Biden. Os dados mostram que, mesmo com a inclusão de candidatos independentes como Robert Kennedy Jr., Trump mantém uma liderança sólida.
 

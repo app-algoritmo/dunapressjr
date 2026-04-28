@@ -1,11 +1,12 @@
 ---
-title: "A comida está menos nutritiva do que costumava ser"
+title: A comida está menos nutritiva do que costumava ser
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Um dos maiores estudos que chamou a atenção para o declínio do conteúdo nutricional de frutas e vegetais foi publicado em 2004 no Journal of the American College of Nutrition. Os pesquisadores usaram dados de 1950 a 1999 e descobriram que dos 43 alimentos estudados, seis nutrientes diminuíram de forma confiável. Esses nutrientes incluem proteínas, riboflavina, vitamina C, cálcio, ferro e fósforo.
 

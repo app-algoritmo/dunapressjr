@@ -1,11 +1,12 @@
 ---
-title: "CGU e PF combatem desvio de recursos em nove municípios de Tocantins"
+title: CGU e PF combatem desvio de recursos em nove municípios de Tocantins
 date: 2020-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Bálsamo de Gileade investiga aquisição de medicamentos a partir de fraudes em procedimentos licitatórios e emissão de notas fiscais.
 

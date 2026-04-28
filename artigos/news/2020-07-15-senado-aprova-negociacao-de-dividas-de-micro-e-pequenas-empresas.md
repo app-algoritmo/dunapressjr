@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova negociação de dívidas de micro e pequenas empresas"
+title: Senado aprova negociação de dívidas de micro e pequenas empresas
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Também foi aprovada a criação de regional do banco do Brics no Brasil.
 

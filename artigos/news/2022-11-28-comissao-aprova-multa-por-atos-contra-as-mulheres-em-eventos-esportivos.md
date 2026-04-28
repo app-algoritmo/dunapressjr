@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova multa por atos contra as mulheres em eventos esportivos"
+title: Comissão aprova multa por atos contra as mulheres em eventos esportivos
 date: 2022-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o [Projeto de Lei 855/21](https://www.camara.leg.br/noticias/756916-projeto-preve-multa-por-atos-contra-as-mulheres-em-eventos-esportivos), que prevê penalidades administrativas em razão de atos de discriminação ou ofensivos contra a mulher praticados em estádio de futebol e em outros eventos esportivos.
 

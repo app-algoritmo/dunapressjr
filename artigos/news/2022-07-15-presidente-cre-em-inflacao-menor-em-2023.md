@@ -1,11 +1,12 @@
 ---
-title: "Presidente crê em inflação menor em 2023"
+title: Presidente crê em inflação menor em 2023
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsonaro foi ao Congresso para promulgação de PEC.
 

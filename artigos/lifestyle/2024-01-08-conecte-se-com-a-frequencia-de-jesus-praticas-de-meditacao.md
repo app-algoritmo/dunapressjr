@@ -1,11 +1,12 @@
 ---
-title: "Conecte-se com a Frequência de Jesus: Práticas de Meditação"
+title: 'Conecte-se com a Frequência de Jesus: Práticas de Meditação'
 date: 2024-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 ## Descubra os passos iniciais para praticar a meditação com a **Frequência de Jesus**, cultivando uma profunda conexão espiritual e abrindo-se para a sabedoria e o amor incondicional do Mestre.
 

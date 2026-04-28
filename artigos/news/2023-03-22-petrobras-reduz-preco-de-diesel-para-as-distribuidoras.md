@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço de diesel para as distribuidoras"
+title: Petrobras reduz preço de diesel para as distribuidoras
 date: 2023-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução será R$0,18 por litro.
 

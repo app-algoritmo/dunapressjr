@@ -1,11 +1,12 @@
 ---
-title: "Pentecostes, a terceira grande celebração da igreja, depois do Natal e da Páscoa"
+title: Pentecostes, a terceira grande celebração da igreja, depois do Natal e da Páscoa
 date: 2021-05-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Pentecostes é um feriado cristão celebrado para comemorar a vinda do **Espírito Santo** sobre os apóstolos e para deixá-los falar em outras línguas que não a sua, para que todas as pessoas possam entender a pregação do evangelho de **Jesus**. Isso é chamado de línguas. Pentecostes é a terceira grande celebração da igreja norueguesa, depois do Natal e da Páscoa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Operação Hemera investiga fraudes em programa do Governo Federal"
+title: Operação Hemera investiga fraudes em programa do Governo Federal
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Passo Fundo/RS - A Polícia Federal deflagra, na manhã desta terça-feira (30/6), a Operação Hemera, que investiga fraudes no Programa de Garantia da Atividade Agropecuária (PROAGRO) do Governo Federal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Quilos a mais: como eles podem complicar a nossa vida"
+title: 'Quilos a mais: como eles podem complicar a nossa vida'
 date: 2022-10-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O excesso de gordura corporal é um problema que ultrapassa a questão estética dos quilos a mais na balança. Dados da Pesquisa Nacional de Saúde (PNS/2020) indicam que um quarto dos adultos brasileiros estão em um quadro de obesidade e 60% da população adulta do país está acima do peso. E o aumento da obesidade em crianças tem preocupado o mundo. Segundo a OMS, hoje temos 1 bilhão de pessoas obesas; 39 milhões são crianças que já começam a apresentar problemas sérios de saúde. 
 

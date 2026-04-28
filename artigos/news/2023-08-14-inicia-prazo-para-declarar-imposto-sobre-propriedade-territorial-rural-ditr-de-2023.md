@@ -1,11 +1,13 @@
 ---
-title: "Inicia prazo para declarar imposto sobre propriedade territorial rural (DITR) de 2023"
+title: Inicia prazo para declarar imposto sobre propriedade territorial rural (DITR)
+  de 2023
 date: 2023-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Declaração obrigatória deve ser realizada até 29 de setembro. 
 

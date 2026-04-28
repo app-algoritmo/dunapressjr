@@ -1,11 +1,12 @@
 ---
-title: "Reforma Tributária do IVA é armadilha para a classe média"
+title: Reforma Tributária do IVA é armadilha para a classe média
 date: 2023-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 No artigo enviado pelo Deputado Federal Luiz Philippe de Orleans e Bragança, intitulado "Reforma Tributária do IVA é armadilha para a classe média", o deputado destaca a necessidade de reformar o sistema tributário brasileiro, considerado um dos piores do mundo. O deputado foi autor da PEC 007/2020, que visa reformular o sistema, porém ele expressa sua oposição ao modelo proposto de Imposto sobre Valor Agregado (IVA). O deputado lista cinco razões para rejeitar o modelo IVA, argumentando que ele resultaria em poucas isenções, injustiça tributária, empurraria a classe média para os serviços públicos, aumentaria o desemprego e levaria à contração econômica. Ele alerta sobre a possibilidade de o tema ser conduzido de maneira questionável e faz um apelo à mobilização para barrar a proposta, alegando que a classe média poderia sofrer as consequências negativas.
 

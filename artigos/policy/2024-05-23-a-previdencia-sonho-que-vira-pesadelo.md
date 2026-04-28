@@ -1,11 +1,12 @@
 ---
-title: "A Previdência: sonho que vira pesadelo"
+title: 'A Previdência: sonho que vira pesadelo'
 date: 2024-05-23
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Quem se lembra da Reforma da Previdência, aprovada há alguns anos na Câmara? Má notícia: aquilo foi apenas um ajuste, pois reforma de verdade deveria mexer profundamente no sistema, o que não aconteceu. A Previdência continua obrigatória, estatal, engessada e deficitária.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,35 após governo negar revisão de reformas"
+title: Dólar cai para R$ 5,35 após governo negar revisão de reformas
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores sobe mais de 2% e aproximou-se dos 108 mil pontos.
 

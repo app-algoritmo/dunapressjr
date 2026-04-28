@@ -1,12 +1,14 @@
 ---
-title: "A visão de mundo 'jardim versus selva' do principal diplomata da UE não é apenas racista, é delirante"
+title: A visão de mundo 'jardim versus selva' do principal diplomata da UE não é apenas
+  racista, é delirante
 date: 2022-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## A comparação neocolonial de Josep Borrell não percebe o declínio do Ocidente, causado por elites como ele.
 

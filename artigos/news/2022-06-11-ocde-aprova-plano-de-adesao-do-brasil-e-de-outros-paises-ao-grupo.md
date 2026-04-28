@@ -1,11 +1,12 @@
 ---
-title: "OCDE aprova plano de adesão do Brasil e de outros países ao grupo"
+title: OCDE aprova plano de adesão do Brasil e de outros países ao grupo
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Entidade examinará adequação de políticas às diretrizes da organização.
 

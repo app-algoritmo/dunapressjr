@@ -1,11 +1,13 @@
 ---
-title: "Sob efeito Americanas e pacote econômico, Bolsa cai 0,84% e fica acima dos 110 mil pontos"
+title: Sob efeito Americanas e pacote econômico, Bolsa cai 0,84% e fica acima dos
+  110 mil pontos
 date: 2023-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em um pregão marcado pelo rescaldo da Americanas (AMER3) e com os investidores digerindo o pacote anunciado pelo ministro da Fazenda na véspera, o Ibovespa encerrou o último pregão da semana em baixa de 0,84%, aos 110.916 pontos.
 

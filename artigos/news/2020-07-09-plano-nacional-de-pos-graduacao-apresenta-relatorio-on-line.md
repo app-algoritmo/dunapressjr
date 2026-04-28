@@ -1,11 +1,12 @@
 ---
-title: "Plano Nacional de pós-graduação apresenta relatório on-line"
+title: Plano Nacional de pós-graduação apresenta relatório on-line
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Coordenadores das áreas de avaliação participaram da conferência de apresentação do trabalho feito entre 2011-2020 pela Comissão. Benedito Aguiar abriu o evento on-line.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba lança programa de novas obras rodoviárias e de mobilidade urbana"
+title: Governador da Paraíba lança programa de novas obras rodoviárias e de mobilidade
+  urbana
 date: 2021-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O programa assegura investimentos de R$ 435,17 mi no Estado.
 

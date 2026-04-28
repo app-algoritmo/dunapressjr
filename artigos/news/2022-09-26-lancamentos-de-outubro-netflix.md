@@ -1,11 +1,12 @@
 ---
-title: "Lançamentos de Outubro Netflix"
+title: Lançamentos de Outubro Netflix
 date: 2022-09-26
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 Setembro chegou e me parece um mês longo demais. Enfim, outubro já está na porta e com ele estréias em alguns canais de streaming. Vi alguns títulos promissores e que vão sem dúvida garantir a diversão, os sustos e até repulsa. Mas que certamente vão justificar a pipoca que você fizer. Coloquei na lista os títulos mais relevantes.
 

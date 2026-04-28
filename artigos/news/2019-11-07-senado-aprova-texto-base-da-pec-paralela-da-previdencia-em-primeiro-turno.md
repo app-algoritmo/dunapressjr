@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova texto-base da PEC Paralela da Previdência em primeiro turno"
+title: Senado aprova texto-base da PEC Paralela da Previdência em primeiro turno
 date: 2019-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *O relatório do senador Tasso Jereissati (PSDB-CE) para a PEC Paralela foi aprovado em primeiro turno; destaques apresentados pelos partidos serão votados na próxima semana*
 

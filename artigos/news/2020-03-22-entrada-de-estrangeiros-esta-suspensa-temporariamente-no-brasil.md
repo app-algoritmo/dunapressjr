@@ -1,11 +1,12 @@
 ---
-title: "Entrada de estrangeiros está suspensa temporariamente no Brasil"
+title: Entrada de estrangeiros está suspensa temporariamente no Brasil
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os agentes de segurança pública federais e estaduais que atuam na Operação Hórus do Ministério da Justiça e Segurança Pública vão realizar, a partir deste sábado (21), barreiras sanitárias nas fronteiras com restrições de entradas no país. A Operação é um dos eixos do Programa Nacional de Segurança nas Fronteiras e Divisas (VIGIA).
 

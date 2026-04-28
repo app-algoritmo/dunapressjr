@@ -1,11 +1,12 @@
 ---
-title: "Profissionais ligados ao meio ambiente podem evitar próximas pandemias"
+title: Profissionais ligados ao meio ambiente podem evitar próximas pandemias
 date: 2020-10-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Seis tendências do mercado de trabalho para 2021.
 

@@ -1,11 +1,13 @@
 ---
-title: "Dia Nacional do Café celebra safra brasileira em crescimento e destaca papel das mulheres no setor"
+title: Dia Nacional do Café celebra safra brasileira em crescimento e destaca papel
+  das mulheres no setor
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção de café no Brasil atinge volume recorde e cooperativas impulsionam participação feminina na cafeicultura, enquanto mercado mundial enfrenta desafios na oferta.
 

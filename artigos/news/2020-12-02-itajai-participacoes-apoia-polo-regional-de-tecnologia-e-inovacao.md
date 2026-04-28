@@ -1,11 +1,12 @@
 ---
-title: "Itajaí Participações apoia Polo Regional de Tecnologia e Inovação"
+title: Itajaí Participações apoia Polo Regional de Tecnologia e Inovação
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o intuito de desenvolver assuntos em comum da área tecnológica e apoiar pequenas, médias e grandes startups deste setor, foi lançado nesta terça-feira (01) o Polo Regional de Tecnologia e Inovação (PoloTech) na região da Foz do Itajaí e Brusque. A iniciativa, que conta com a parceria da Itajaí Participações S.A., pretende oferecer estrutura, orientação e capacitação para que os profissionais se desenvolvam. 
 

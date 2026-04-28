@@ -1,11 +1,12 @@
 ---
-title: "Especial: NOM, O que é a Nova Ordem Mundial"
+title: 'Especial: NOM, O que é a Nova Ordem Mundial'
 date: 2020-06-10
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - News
+- News
 ---
+
 
 Por Alessandro Loiola.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comprovação de complementação de inscrição postergada fica disponível no sistema"
+title: Comprovação de complementação de inscrição postergada fica disponível no sistema
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) esclarece que a impressão do comprovante da complementação de inscrição prorrogada, referente à etapa do Fundo de Financiamento Estudantil (Fies) para inscrição postergada, não é requisito obrigatório para a validação da inscrição pela Comissão Permanente de Supervisão e Acompanhamento (CPSA) de cada instituição de ensino superior.
 

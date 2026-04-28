@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal investiga crimes eleitorais"
+title: Polícia Federal investiga crimes eleitorais
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Transporte ilegal de eleitores e compra de votos são alvos da operação.
 

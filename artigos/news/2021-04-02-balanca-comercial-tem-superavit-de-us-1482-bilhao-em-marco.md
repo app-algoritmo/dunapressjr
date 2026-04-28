@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem superávit de US$ 1,482 bilhão em março"
+title: Balança comercial tem superávit de US$ 1,482 bilhão em março
 date: 2021-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é o mais baixo para o mês em seis anos.
 

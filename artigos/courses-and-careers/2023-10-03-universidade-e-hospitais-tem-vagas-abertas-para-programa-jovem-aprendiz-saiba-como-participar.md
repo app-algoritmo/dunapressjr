@@ -1,14 +1,16 @@
 ---
-title: "Universidade e hospitais têm vagas abertas para programa Jovem Aprendiz; saiba como participar"
+title: Universidade e hospitais têm vagas abertas para programa Jovem Aprendiz; saiba
+  como participar
 date: 2023-10-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Courses and Careers
-  - Education
-  - Health
-  - Personal Development
+- Courses and Careers
+- Education
+- Health
+- Personal Development
 ---
+
 
 ## Grupo Marista tem 64 oportunidades para atuar na PUCPR, hospitais Universitário Cajuru e São Marcelino Champagnat; selecionados iniciam em dezembro com contrato de dois anos.
 

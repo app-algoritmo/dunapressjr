@@ -1,11 +1,12 @@
 ---
-title: "Cinco cuidados com a pessoa idosa no final do ano"
+title: Cinco cuidados com a pessoa idosa no final do ano
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O último mês do ano é sinônimo de festas, férias e passeios em família. Mas nas famílias com pessoas idosas, esse período também deve ser de atenção e de cuidados redobrados, conforme alertam especialistas. Dados do Instituto Nacional de Traumatologia e Ortopedia (Into), do Ministério da Saúde, indicam que, para cada três indivíduos com mais de 65 anos, um sofre uma queda anualmente e, em cada 20 idosos que caíram, ao menos um sofre fratura ou necessita de internação. Dentre os mais idosos, isto é, com 80 anos ou mais, 40% caem todo ano.
 

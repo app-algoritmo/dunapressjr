@@ -1,11 +1,12 @@
 ---
-title: "MAPA vem trabalhando para garantir total abastecimento durante a pandemia"
+title: MAPA vem trabalhando para garantir total abastecimento durante a pandemia
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério desenvolveu protocolos para a segurança dos trabalhadores dos frigoríficos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional da Construção Civil sobe 1,48% em julho"
+title: Índice Nacional da Construção Civil sobe 1,48% em julho
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Custo da construção, por metro quadrado, é de R$ 1.652,27.
 

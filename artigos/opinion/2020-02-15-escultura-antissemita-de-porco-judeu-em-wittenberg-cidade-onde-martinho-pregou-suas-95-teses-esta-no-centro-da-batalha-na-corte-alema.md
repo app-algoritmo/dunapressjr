@@ -1,11 +1,13 @@
 ---
-title: "Escultura antissemita de 'porco judeu' em  Wittenberg, cidade onde Martinho pregou suas 95 teses, esta no centro da batalha na corte alemã"
+title: Escultura antissemita de 'porco judeu' em  Wittenberg, cidade onde Martinho
+  pregou suas 95 teses, esta no centro da batalha na corte alemã
 date: 2020-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Ativista judeu quer remover o alívio de 700 anos da igreja de Wittenberg; paróquia concorda que é um pedaço de história 'insultuoso', mas afirma que é parte de sua herança*
 

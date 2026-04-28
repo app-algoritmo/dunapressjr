@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de corrupção em fiscalizações ambientais no Amapá"
+title: PF combate crime de corrupção em fiscalizações ambientais no Amapá
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou nesta
 terça-feira (3/3) a Operação Acônito*, com objetivo de apurar crime de

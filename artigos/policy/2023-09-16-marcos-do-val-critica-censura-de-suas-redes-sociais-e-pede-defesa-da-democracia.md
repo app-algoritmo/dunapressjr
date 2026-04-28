@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val critica 'censura' de suas redes sociais e pede defesa da democracia"
+title: Marcos do Val critica 'censura' de suas redes sociais e pede defesa da democracia
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES), em pronunciamento no Plenário nesta quarta-feira (13), mais uma vez criticou a atuação do Supremo Tribunal Federal (STF), que, segundo ele, mantém a "censura" às suas redes sociais.
 

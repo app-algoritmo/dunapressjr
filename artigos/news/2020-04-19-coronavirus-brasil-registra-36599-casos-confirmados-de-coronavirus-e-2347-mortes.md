@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Brasil registra 36.599 casos confirmados de coronavírus e 2.347 mortes"
+title: 'Coronavírus: Brasil registra 36.599 casos confirmados de coronavírus e 2.347
+  mortes'
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde, sábado, 18 de Abril de 2020, 17h02. Última atualização em sábado, 18 de Abril de 2020, 17h11.
 

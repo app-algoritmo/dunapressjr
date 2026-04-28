@@ -1,11 +1,12 @@
 ---
-title: "Grande Mojica!"
+title: Grande Mojica!
 date: 2020-02-21
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Muitos conhecem José Mojica Marins como cineasta e ator de um único personagem - o Zé do Caixão - chegando mesmo a confundir criatura com criador. Mas eu o conheci como pessoa e diretor de teatro. Nunca foi reconhecido como deveria por nenhum de seus talentos: produtor, diretor, ator, professor ou político, muitas das faces desse ser humano gentil, inteligente, talentoso, bom pai de família, amigo dos amigos, uma personalidade controversa por ser muito à frente de seu tempo. Acredito que tenha morrido pobre, em sua casa no bairro da Mooca, sem lei Rouanet que patrocinasse seus projetos.
 

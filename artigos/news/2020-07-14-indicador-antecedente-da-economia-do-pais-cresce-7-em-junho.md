@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente da Economia do país cresce 7% em junho"
+title: Indicador Antecedente da Economia do país cresce 7% em junho
 date: 2020-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo a FGV, índice chegou a 107,2 pontos.
 

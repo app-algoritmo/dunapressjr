@@ -1,11 +1,12 @@
 ---
-title: "Resgatar o caderno de receitas da família pode fazer a diferença na sua alimentação"
+title: Resgatar o caderno de receitas da família pode fazer a diferença na sua alimentação
 date: 2020-12-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Voltando um pouco na história, lá na época dos nossos ancestrais, é possível perceber como a evolução da humanidade é marcada pelo domínio das técnicas e habilidades culinárias. Com o surgimento do fogo, por exemplo, as preparações se tornaram mais versáteis e ainda ganharam resultados mais saborosos.
 

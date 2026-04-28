@@ -1,11 +1,12 @@
 ---
-title: "Câmara declara a perda de mandato de Deltan Dallagnol, condenado pelo TSE"
+title: Câmara declara a perda de mandato de Deltan Dallagnol, condenado pelo TSE
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Conforme Ato da Mesa, análise feita pela Câmara restringe-se aos aspectos formais da decisão judicial.
 

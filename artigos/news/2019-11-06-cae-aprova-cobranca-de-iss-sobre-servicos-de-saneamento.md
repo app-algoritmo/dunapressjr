@@ -1,11 +1,12 @@
 ---
-title: "CAE aprova cobrança de ISS sobre serviços de saneamento"
+title: CAE aprova cobrança de ISS sobre serviços de saneamento
 date: 2019-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *O relator na CAE, senador Esperidião Amin, destacou que os municípios são responsáveis pelo manejo dos dejetos resultantes dos serviços sanitários *
 

@@ -1,11 +1,13 @@
 ---
-title: "Primeira infecção humana por H10N5, vírus da gripe aviária, registrada na China, diz OMS"
+title: Primeira infecção humana por H10N5, vírus da gripe aviária, registrada na China,
+  diz OMS
 date: 2024-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Organização Mundial da Saúde (OMS) foi notificada pela China sobre o primeiro caso confirmado de infecção humana pelo vírus da gripe aviária A (H10N5) na província de Anhui. Segundo informações divulgadas pelo escritório da OMS em Genebra, a paciente, uma agricultora com mais de 60 anos de idade da província de Xuancheng, na província de Anhui, apresentou os primeiros sintomas em 30 de novembro de 2023 e faleceu em 16 de dezembro do mesmo ano. O caso alarmante, além de ser o primeiro do tipo no mundo, coloca em destaque a necessidade de vigilância e precaução em relação às doenças zoonóticas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro já editou 28 MPs relacionadas à pandemia de coronavírus"
+title: Governo Bolsonaro já editou 28 MPs relacionadas à pandemia de coronavírus
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente Jair Bolsonaro editou 28 medidas provisória destinadas ao combate ao vírus chinês. Desse total, 11 abrem créditos extraordinários para o enfrentamento do surto e de seus impactos na economia. As medidas provisórias (MPs) são normas com força de lei que produzem efeitos jurídicos imediatos. E para tornar mais rápida a votação de matérias direcionadas às ações contra a covid-19, o Senado está priorizando propostas que tenham relação com essas medidas medidas provisórias: a Casa vinculou 54 projetos apresentados pelos parlamentares a 16 MPs.
 

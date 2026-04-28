@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia simplificação do eSocial e modernização de normas do trabalho"
+title: Governo anuncia simplificação do eSocial e modernização de normas do trabalho
 date: 2020-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medidas vão reduzir burocracia, poupar tempo e melhorar o ambiente de negócios no país.
 

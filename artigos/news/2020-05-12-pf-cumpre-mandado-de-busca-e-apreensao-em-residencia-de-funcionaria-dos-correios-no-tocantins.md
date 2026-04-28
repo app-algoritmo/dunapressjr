@@ -1,11 +1,13 @@
 ---
-title: "PF cumpre mandado de busca e apreensão em residência de funcionária dos Correios no Tocantins"
+title: PF cumpre mandado de busca e apreensão em residência de funcionária dos Correios
+  no Tocantins
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Araguaína/TO –A Polícia Federal cumpriu, na manhã desta terça-feira, (12), um mandado de busca e apreensão na residência de uma funcionária da Empresa Brasileira de Correis e Telégrafos - ECT da cidade de Araguatins/TO. Aproximadamente 06 policiais participam da ação.
 

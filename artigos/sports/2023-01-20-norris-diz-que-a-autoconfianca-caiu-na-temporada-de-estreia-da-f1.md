@@ -1,11 +1,12 @@
 ---
-title: "Norris diz que a autoconfiança caiu na temporada de estreia da F1"
+title: Norris diz que a autoconfiança caiu na temporada de estreia da F1
 date: 2023-01-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Lando Norris falou sobre suas lutas com a saúde mental em uma entrevista à *GQ* , enquanto o britânico se prepara para sua quinta temporada com a McLaren.
 

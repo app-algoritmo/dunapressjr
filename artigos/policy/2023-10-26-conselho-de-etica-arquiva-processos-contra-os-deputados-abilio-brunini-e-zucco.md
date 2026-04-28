@@ -1,11 +1,12 @@
 ---
-title: "Conselho de Ética arquiva processos contra os deputados Abílio Brunini e Zucco"
+title: Conselho de Ética arquiva processos contra os deputados Abílio Brunini e Zucco
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os dois processos foram apresentados pelo Psol; apenas o deputado Chico Alencar defendeu a continuidade das investigações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: Morretes/RS"
+title: 'Série Conheça o Sul do Brasil: Morretes/RS'
 date: 2021-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Distante apenas 70 km de Curitiba, situada à beira do rio Cubatão e ao pé da Serra do Mar Paranaense, Morretes é uma cidade encantadora, de muita história e de natureza bem preservada. 
 

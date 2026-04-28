@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia projeta queda de 4,7% na economia este ano"
+title: Ministério da Economia projeta queda de 4,7% na economia este ano
 date: 2020-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Inflação oficial do país deve ser de 1,77% este ano e de 3,3% em 2021
 

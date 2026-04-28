@@ -1,11 +1,12 @@
 ---
-title: "PF apreende aproximadamente 800 caixas de cigarros contrabandeados"
+title: PF apreende aproximadamente 800 caixas de cigarros contrabandeados
 date: 2020-05-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Terra Roxa/PR – Na madrugada do sábado (2/5), mais um grande trabalho foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo ano, aproveite!"
+title: Novo ano, aproveite!
 date: 2019-01-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O novo ano será de acordo com o que fizeres.
 

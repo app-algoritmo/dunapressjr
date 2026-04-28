@@ -1,11 +1,12 @@
 ---
-title: "Peña: Paraguai valoriza empreendedores e os incentiva a continuar investindo"
+title: 'Peña: Paraguai valoriza empreendedores e os incentiva a continuar investindo'
 date: 2024-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 “O Paraguai valoriza os empresários, valoriza o trabalho que realizam e os incentiva a serem mais ambiciosos”, disse hoje o Presidente da República, Santiago Peña, no lançamento do cais flutuante “Agustín de la Guardia", realizada no estaleiro La Barca del Pescador, em Villeta.
 

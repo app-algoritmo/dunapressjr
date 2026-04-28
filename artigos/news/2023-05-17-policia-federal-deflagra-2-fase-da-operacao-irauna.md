@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra 2ª fase da Operação Iraúna"
+title: Polícia Federal deflagra 2ª fase da Operação Iraúna
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Iraúna desdobra-se com novas ações visando desmantelar esquema ilícito de funcionários terceirizados envolvidos no tráfico internacional.
 

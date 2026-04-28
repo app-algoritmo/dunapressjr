@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs ouve Aldo Rebelo e vota requerimentos nesta terça-feira"
+title: CPI das ONGs ouve Aldo Rebelo e vota requerimentos nesta terça-feira
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Está marcada para as 11h desta terça-feira (11) nova reunião da comissão parlamentar de inquérito que investiga atividades de organizações não governamentais financiadas com dinheiro público na região da Amazônia ([CPI das ONGs](https://legis.senado.leg.br/comissoes/comissao?codcol=2597)). 
 

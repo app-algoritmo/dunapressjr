@@ -1,11 +1,13 @@
 ---
-title: "Alemanha: relatórios de danos causados ​​por vacinas a escritórios de advocacia estão crescendo exponencialmente"
+title: 'Alemanha: relatórios de danos causados ​​por vacinas a escritórios de advocacia
+  estão crescendo exponencialmente'
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## 250 casos de danos causados ​​pela vacinação contra a COVID-19 da profissão jurídica alemã - a carga de trabalho está crescendo exponencialmente
 

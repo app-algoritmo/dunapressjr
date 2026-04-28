@@ -1,11 +1,12 @@
 ---
-title: "IPCA-15: prévia da inflação sobe 1,17% em novembro"
+title: 'IPCA-15: prévia da inflação sobe 1,17% em novembro'
 date: 2021-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acumulado em 12 meses fica em 10,73%, impactado pela alta na gasolina.
 

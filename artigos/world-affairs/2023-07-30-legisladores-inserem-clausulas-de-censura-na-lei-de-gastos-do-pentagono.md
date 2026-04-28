@@ -1,11 +1,12 @@
 ---
-title: "Legisladores inserem cláusulas de censura na lei de gastos do Pentágono"
+title: Legisladores inserem cláusulas de censura na lei de gastos do Pentágono
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Propostas destinadas a impedir que militares falem com um grupo de direitos civis e expurgar a internet de certas informações permanecem sob o radar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Temporada de inverno na região Sul prevê aumento de empregos"
+title: Temporada de inverno na região Sul prevê aumento de empregos
 date: 2020-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Os empresários do setor hoteleiro da região Sul estão otimistas quanto aos investimentos no ramo para a temporada de inverno de 2020. É o que mostra a Pesquisa de Sondagem Empresarial, realizada pelo Ministério do Turismo em janeiro deste ano. O levantamento mede a perspectiva dos meios de hospedagem para os próximos seis meses.
 

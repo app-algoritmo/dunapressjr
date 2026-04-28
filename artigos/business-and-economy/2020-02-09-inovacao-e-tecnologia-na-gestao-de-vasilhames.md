@@ -1,13 +1,14 @@
 ---
-title: "Inovação e tecnologia na gestão de vasilhames"
+title: Inovação e tecnologia na gestão de vasilhames
 date: 2020-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Environment
-  - Magazine
+- Business and Economy
+- Environment
+- Magazine
 ---
+
 
 A Noruega tem o melhor sistema de gestão de resíduos do mundo e muitos estão interessados ​​em aprender sobre como as empresas lidam com embalagens de bebidas neste país. Na sexta-feira, 1º de dezembro, Thérèse Coffey, representante do governo do Reino Unido, visitou a Infinitum para aprender a lidar com embalagens de bebidas.
 

@@ -1,11 +1,12 @@
 ---
-title: "SPE publica a Nota Informativa ‘Uma Proposta de Aprimoramento do Teto de Gastos’"
+title: SPE publica a Nota Informativa ‘Uma Proposta de Aprimoramento do Teto de Gastos’
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mecanismo precisa ser visto como um instrumento de saúde fiscal e não como fim em si próprio, avalia a Secretaria de Política Econômica.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ata do Copom indica possibilidade de corte nos juros e é bem recebida pelo governo"
+title: Ata do Copom indica possibilidade de corte nos juros e é bem recebida pelo
+  governo
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministros elogiam tom mais realista do documento e destacam harmonização entre políticas monetária e fiscal.
 

@@ -1,11 +1,13 @@
 ---
-title: "Livro: The Light of Days, Reescrevendo o Holocausto para desenterrar líderes femininas"
+title: 'Livro: The Light of Days, Reescrevendo o Holocausto para desenterrar líderes
+  femininas'
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 ## No entanto, ao contrário do título, The Light of Days não é uma história, mas um épico de várias camadas, que reescreve o Holocausto e fala muito sobre o preconceito masculino em nosso passado.
 

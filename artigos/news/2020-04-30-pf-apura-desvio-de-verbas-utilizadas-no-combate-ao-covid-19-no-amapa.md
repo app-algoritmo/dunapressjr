@@ -1,11 +1,12 @@
 ---
-title: "PF apura desvio de verbas utilizadas no combate ao Covid-19 no Amapá"
+title: PF apura desvio de verbas utilizadas no combate ao Covid-19 no Amapá
 date: 2020-04-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou nesta quarta-feira (29/4) a Operação Virus Infectio*, para combater desvio de recursos públicos utilizados no enfrentamento específico ao coronavírus, no estado do Amapá. A ação contou com a participação do Ministério Público Federal (MPF) e da Controladoria Geral da União (CGU).
 

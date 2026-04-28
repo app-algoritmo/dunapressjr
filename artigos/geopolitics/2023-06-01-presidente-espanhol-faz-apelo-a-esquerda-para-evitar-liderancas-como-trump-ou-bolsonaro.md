@@ -1,11 +1,13 @@
 ---
-title: "Presidente espanhol faz apelo à esquerda para evitar lideranças como Trump ou Bolsonaro"
+title: Presidente espanhol faz apelo à esquerda para evitar lideranças como Trump
+  ou Bolsonaro
 date: 2023-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Pedro Sánchez instiga mobilização contra corrente reacionária e alerta sobre riscos caso a direita assuma o poder nas eleições de julho.
 

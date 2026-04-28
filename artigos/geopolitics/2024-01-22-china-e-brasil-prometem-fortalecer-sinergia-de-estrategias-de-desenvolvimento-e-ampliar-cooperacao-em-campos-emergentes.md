@@ -1,11 +1,13 @@
 ---
-title: "China e Brasil prometem fortalecer sinergia de estratégias de desenvolvimento e ampliar cooperação em campos emergentes"
+title: China e Brasil prometem fortalecer sinergia de estratégias de desenvolvimento
+  e ampliar cooperação em campos emergentes
 date: 2024-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores da China, Wang Yi, e o ministro das Relações Exteriores do Brasil, Mauro Vieira, copresidiram nesta sexta-feira o quarto Diálogo Estratégico Abrangente China-Brasil dos Ministros das Relações Exteriores, prometendo fortalecer a sinergia das estratégias de desenvolvimento e expandir a cooperação em campos emergentes.
 

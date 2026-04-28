@@ -1,11 +1,12 @@
 ---
-title: "ONU: quase 6,5 milhões de venezuelanos passam fome"
+title: 'ONU: quase 6,5 milhões de venezuelanos passam fome'
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Quase 6,5 milhões de pessoas passam fome na Venezuela, segundo o relatório "Panorama Regional de Segurança Alimentar e Nutricional na América Latina 2022", elaborado por várias agências das Nações Unidas e publicado nesta quarta-feira (18).
 

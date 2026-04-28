@@ -1,11 +1,12 @@
 ---
-title: "Zequinha destaca movimento em favor de cristãos perseguidos"
+title: Zequinha destaca movimento em favor de cristãos perseguidos
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA) destacou, em pronunciamento na terça-feira (6), o evento Domingo da Igreja Perseguida (DIP), realizado em mais de 14 mil igrejas brasileiras no último domingo (4). A ação é um movimento nacional de oração em favor dos cristãos perseguidos pelo mundo.
 

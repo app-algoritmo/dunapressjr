@@ -1,11 +1,13 @@
 ---
-title: "Confiança do empresário da construção é a maior dos últimos 10 anos, informa pesquisa da CNI"
+title: Confiança do empresário da construção é a maior dos últimos 10 anos, informa
+  pesquisa da CNI
 date: 2020-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Intenção de investimento do setor é a maior desde setembro de 2014. Empresários percebem o aumento da demanda e esperam crescimento da atividade e do emprego nos próximos seis meses *
 

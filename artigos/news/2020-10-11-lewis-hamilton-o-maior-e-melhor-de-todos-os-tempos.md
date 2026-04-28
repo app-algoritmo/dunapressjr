@@ -1,12 +1,13 @@
 ---
-title: "Lewis Hamilton o maior e melhor de todos os tempos!"
+title: Lewis Hamilton o maior e melhor de todos os tempos!
 date: 2020-10-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 **GP de Eifel: Hamilton vence em Nürburgring e iguala recorde de vitórias de Schumacher na F1**
 

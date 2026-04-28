@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,34 na véspera de decisão sobre juros nos EUA"
+title: Dólar cai para R$ 5,34 na véspera de decisão sobre juros nos EUA
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores tem queda de 0,5% em dia de realização de lucros.
 

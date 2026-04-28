@@ -1,11 +1,12 @@
 ---
-title: "Os EUA já se preparam para sua próxima guerra: contra a China"
+title: 'Os EUA já se preparam para sua próxima guerra: contra a China'
 date: 2023-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Enquanto os EUA e a OTAN travam uma guerra por procuração contra a Rússia na Ucrânia, estrategistas militares e especialistas em Washington estão de olho na China.
 

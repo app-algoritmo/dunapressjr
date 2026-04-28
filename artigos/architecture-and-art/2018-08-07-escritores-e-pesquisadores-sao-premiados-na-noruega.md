@@ -1,11 +1,12 @@
 ---
-title: "Escritores e pesquisadores são premiados na Noruega"
+title: Escritores e pesquisadores são premiados na Noruega
 date: 2018-08-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Trabalhos científicos nas áreas de Ciências Humanas e Sociais, Direito e Teologia que sejam inovadores ou de caráter humanista são valorizados e premiados na Noruega.
 

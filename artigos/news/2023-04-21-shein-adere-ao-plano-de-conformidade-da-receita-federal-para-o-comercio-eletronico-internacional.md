@@ -1,11 +1,13 @@
 ---
-title: "Shein adere ao plano de conformidade da Receita Federal para o comércio eletrônico internacional"
+title: Shein adere ao plano de conformidade da Receita Federal para o comércio eletrônico
+  internacional
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Haddad destacou a importância de haver condições de igualdade de competição entre todos os agentes de mercado.
 

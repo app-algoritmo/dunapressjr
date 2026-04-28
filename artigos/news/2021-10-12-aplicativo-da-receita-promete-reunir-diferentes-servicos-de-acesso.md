@@ -1,11 +1,12 @@
 ---
-title: "Aplicativo da Receita promete reunir diferentes serviços de acesso"
+title: Aplicativo da Receita promete reunir diferentes serviços de acesso
 date: 2021-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa está disponível na App Store ou Google Play.
 

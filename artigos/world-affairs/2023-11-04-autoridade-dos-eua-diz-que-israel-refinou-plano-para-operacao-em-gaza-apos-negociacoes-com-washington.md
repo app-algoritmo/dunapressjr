@@ -1,11 +1,13 @@
 ---
-title: "Autoridade dos EUA diz que Israel refinou plano para operação em Gaza após negociações com Washington"
+title: Autoridade dos EUA diz que Israel refinou plano para operação em Gaza após
+  negociações com Washington
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O funcionário disse que as negociações “muito diretas” acontecem o tempo todo e que os israelenses “refinaram significativamente o que originalmente era o seu plano”.
 

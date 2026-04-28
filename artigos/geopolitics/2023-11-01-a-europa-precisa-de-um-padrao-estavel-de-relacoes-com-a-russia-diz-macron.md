@@ -1,11 +1,12 @@
 ---
-title: "A Europa precisa de um padrão estável de relações com a Rússia, diz Macron"
+title: A Europa precisa de um padrão estável de relações com a Rússia, diz Macron
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Segundo o líder francês, “a arquitetura de defesa europeia não pode ser construída sobre escaladas e cconflitos.
 

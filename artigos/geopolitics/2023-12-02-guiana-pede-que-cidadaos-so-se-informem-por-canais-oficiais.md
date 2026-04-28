@@ -1,11 +1,12 @@
 ---
-title: "Guiana pede que cidadãos só se informem por canais oficiais"
+title: Guiana pede que cidadãos só se informem por canais oficiais
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Primeiro-ministro divulgou mensagem sobre disputa com a Venezuela.
 

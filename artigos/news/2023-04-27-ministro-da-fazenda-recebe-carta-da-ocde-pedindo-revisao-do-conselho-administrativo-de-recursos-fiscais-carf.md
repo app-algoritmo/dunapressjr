@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda recebe carta da OCDE pedindo revisão do Conselho Administrativo de Recursos Fiscais (Carf)"
+title: Ministro da Fazenda recebe carta da OCDE pedindo revisão do Conselho Administrativo
+  de Recursos Fiscais (Carf)
 date: 2023-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Organização destaca problemas no voto de qualidade e potencial conflito de interesses nos julgamentos de disputas tributárias bilionárias.
 

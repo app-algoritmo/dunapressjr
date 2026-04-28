@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa termina 2020 com sinal positivo e perto de níveis históricos"
+title: Ibovespa termina 2020 com sinal positivo e perto de níveis históricos
 date: 2020-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Índice da B3, a bolsa de valores brasileira, acumula alta de 3% no ano.
 

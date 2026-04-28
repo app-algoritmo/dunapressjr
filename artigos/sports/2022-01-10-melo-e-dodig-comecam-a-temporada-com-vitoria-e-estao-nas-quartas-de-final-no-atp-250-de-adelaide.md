@@ -1,11 +1,13 @@
 ---
-title: "Melo e Dodig começam a temporada com vitória e estão nas quartas de final no ATP 250 de Adelaide"
+title: Melo e Dodig começam a temporada com vitória e estão nas quartas de final no
+  ATP 250 de Adelaide
 date: 2022-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A dupla Marcelo Melo e Ivan Dodig conquistou na madrugada desta quinta-feira (6) a primeira vitória da temporada 2022. No ATP 250 de Adelaide, na Austrália, o mineiro e o croata, cabeças de chave número 1, confirmaram o favoritismo e derrotaram de virada os norte-americanos Nicholas Monroe e Frances Tiafoe. Melo e Dodig venceram por 2 sets a 1, com parciais de 6/7 (3-7), 7/5 e 10-8, em 1h44min, pelas oitavas de final. O jogo foi paralisado duas vezes em função das chuvas, no primeiro set e no match tie-break.
 

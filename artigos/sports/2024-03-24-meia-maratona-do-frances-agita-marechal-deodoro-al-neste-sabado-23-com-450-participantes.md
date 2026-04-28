@@ -1,11 +1,13 @@
 ---
-title: "Meia Maratona do Francês agita Marechal Deodoro (AL) neste sábado (23) com 450 participantes"
+title: Meia Maratona do Francês agita Marechal Deodoro (AL) neste sábado (23) com
+  450 participantes
 date: 2024-03-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## A maior parte do percurso será na beira da praia, com largada e chegada em frente ao Hotel Ponta verde, na Praia do Francês. No final, muita festa na arena montada para receber os competidores.
 

@@ -1,11 +1,12 @@
 ---
-title: "Copom iniciou 7ª reunião do ano para definir taxa básica de juros"
+title: Copom iniciou 7ª reunião do ano para definir taxa básica de juros
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 13,75% ao ano, Selic parou de subir na última reunião, em setembro.
 

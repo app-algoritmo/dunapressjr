@@ -1,11 +1,12 @@
 ---
-title: "Empresários poderão parcelar multas aplicadas pelo governo"
+title: Empresários poderão parcelar multas aplicadas pelo governo
 date: 2020-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Devedores podem pagar dívidas em até 12 vezes.
 

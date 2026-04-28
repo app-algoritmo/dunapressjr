@@ -1,11 +1,13 @@
 ---
-title: "Aprovado em comissão projeto que permite obtenção do porte de arma sem comprovação de efetiva necessidade"
+title: Aprovado em comissão projeto que permite obtenção do porte de arma sem comprovação
+  de efetiva necessidade
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 6354/19, aprovado na terça-feira (10) pela Comissão de Segurança Pública da Câmara dos Deputados, permite que o cidadão obtenha o porte de arma de fogo sem a demonstração (comprovação) de sua "efetiva necessidade por exercício de atividade profissional de risco ou de ameaça à sua integridade física". Essa exigência está contida no Estatuto do Desarmamento (art. 10, §1º, inciso I), que é revogada pela proposta.
 

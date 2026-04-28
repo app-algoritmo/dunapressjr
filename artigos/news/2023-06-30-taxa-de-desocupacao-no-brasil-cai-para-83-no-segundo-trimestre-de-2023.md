@@ -1,11 +1,12 @@
 ---
-title: "Taxa de desocupação no Brasil cai para 8,3% no segundo trimestre de 2023"
+title: Taxa de desocupação no Brasil cai para 8,3% no segundo trimestre de 2023
 date: 2023-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE mostram redução na desocupação e aumento na ocupação, além de queda na taxa de subutilização e crescimento nos rendimentos.
 

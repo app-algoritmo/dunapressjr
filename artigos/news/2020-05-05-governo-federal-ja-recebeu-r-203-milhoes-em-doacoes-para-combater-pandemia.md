@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal já recebeu R$ 20,3 milhões em doações para combater pandemia"
+title: Governo Federal já recebeu R$ 20,3 milhões em doações para combater pandemia
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal já recebeu R$ 20,3 milhões em doações para reforçar o combate à pandemia do novo coronavírus. Cidadãos e empresas doaram insumos hospitalares como máscaras, álcool em gel, termômetros e jalecos, e até equipamentos mais complexos, como respiradores, além de *tablets* e computadores para auxiliar os servidores públicos no trabalho remoto.
 

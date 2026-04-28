@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia saque de R$ 1.045 do FGTS para junho"
+title: Governo anuncia saque de R$ 1.045 do FGTS para junho
 date: 2020-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida integra o pacote econômico de auxílio aos vulneráveis em decorrência da pandemia da Covid-19
 

@@ -1,11 +1,12 @@
 ---
-title: "O Quarto Poder e a velha politica x Ana Campagnolo"
+title: O Quarto Poder e a velha politica x Ana Campagnolo
 date: 2019-04-08
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Quis custodiet ipsos
 custodes?*

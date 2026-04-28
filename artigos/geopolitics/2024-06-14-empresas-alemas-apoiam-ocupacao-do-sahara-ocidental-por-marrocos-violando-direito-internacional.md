@@ -1,11 +1,13 @@
 ---
-title: "Empresas Alemãs Apoiam Ocupação do Sahara Ocidental por Marrocos, Violando Direito Internacional"
+title: Empresas Alemãs Apoiam Ocupação do Sahara Ocidental por Marrocos, Violando
+  Direito Internacional
 date: 2024-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Empresas alemãs estão colaborando com a ocupação do Sahara Ocidental por Marrocos, um território reconhecido pela ONU como colônia e cuja ocupação é uma violação do direito internacional. Desde 1975, o Tribunal Internacional de Justiça (CIJ) afirmou o direito do Sahara Ocidental à autodeterminação, mas Marrocos mantém controle sobre a região desde que as tropas espanholas se retiraram em 1976. Atualmente, apenas os Estados Unidos e Israel reconhecem o domínio marroquino sobre o Sahara Ocidental.
 

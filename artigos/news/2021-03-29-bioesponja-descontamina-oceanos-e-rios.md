@@ -1,11 +1,12 @@
 ---
-title: "Bioesponja descontamina oceanos e rios"
+title: Bioesponja descontamina oceanos e rios
 date: 2021-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bolsista da Coordenação de Pessoal de Nível Superior (CAPES), José Yago Rodrigues Silva, químico doutorando pelo Programa de Pós-Graduação em Ciência de Materiais da Universidade Federal de Pernambuco (UFPE), desenvolveu uma esponja biodegradável e reutilizável. A bioesponja, como foi chamada, é 100% sustentável e produzida a partir do alginato, um composto orgânico presente nas algas marinhas que é capaz de absorver rejeitos de petróleo em oceanos e rios.
 

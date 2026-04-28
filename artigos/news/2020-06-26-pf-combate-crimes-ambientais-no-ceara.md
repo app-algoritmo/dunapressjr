@@ -1,11 +1,12 @@
 ---
-title: "PF combate crimes ambientais no Ceará"
+title: PF combate crimes ambientais no Ceará
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE - A Polícia Federal deflagrou na manhã desta sexta-feira, 26/6, a Operação ANEMOI, com o objetivo de colher novas provas acerca de fatos relacionados à exploração minerária ilegal de pedra britada, , piçarra e areia, que foram utilizados em obras de construção de parques eólicos no Ceará, conduta que, em tese, está prevista nos crimes previstos no art. 55, da Lei 9.605/98, e art. 2º, da Lei 8.176/91.
 

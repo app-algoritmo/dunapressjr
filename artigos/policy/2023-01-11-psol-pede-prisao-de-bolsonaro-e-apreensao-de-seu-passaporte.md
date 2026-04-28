@@ -1,11 +1,12 @@
 ---
-title: "PSOL pede prisão de Bolsonaro e apreensão de seu passaporte"
+title: PSOL pede prisão de Bolsonaro e apreensão de seu passaporte
 date: 2023-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Bancada do PSOL na Câmara pede ao Ministro do STF Alexandre de Moraes a prisão preventiva do Bolsonaro(PL), como também a apreensão do passaporte e a quebra do sigilo telefônico.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ações de ensino e assistência no combate à pandemia intensificadas pela Ebserh"
+title: Ações de ensino e assistência no combate à pandemia intensificadas pela Ebserh
 date: 2020-06-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativas envolvem profissionais dos hospitais, professores, residentes e alunos das universidades.
 

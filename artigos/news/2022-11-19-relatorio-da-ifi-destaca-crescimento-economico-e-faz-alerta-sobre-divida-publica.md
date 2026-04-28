@@ -1,11 +1,12 @@
 ---
-title: "Relatório da IFI destaca crescimento econômico e faz alerta sobre dívida pública"
+title: Relatório da IFI destaca crescimento econômico e faz alerta sobre dívida pública
 date: 2022-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A IFI projeta que o crescimento do PIB deve desacelerar de 2021 para 2022.
 

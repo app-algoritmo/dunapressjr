@@ -1,11 +1,12 @@
 ---
-title: "BC informará viúvos e órfãos sobre saque de valores esquecidos"
+title: BC informará viúvos e órfãos sobre saque de valores esquecidos
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Retirada por terceiros pode exigir autorização da Justiça.
 

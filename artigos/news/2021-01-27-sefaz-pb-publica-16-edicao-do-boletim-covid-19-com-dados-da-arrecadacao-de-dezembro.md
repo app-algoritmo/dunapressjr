@@ -1,11 +1,13 @@
 ---
-title: "Sefaz - PB publica 16ª edição do ‘Boletim Covid-19’ com dados da arrecadação de dezembro"
+title: Sefaz - PB publica 16ª edição do ‘Boletim Covid-19’ com dados da arrecadação
+  de dezembro
 date: 2021-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A arrecadação dos três impostos estaduais (ICMS, IPVA e ITCD), no mês de dezembro de 2020, registrou mais um crescimento acima de dois dígitos (18,34%).
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo da Paraíba fecha convênio com a Caixa para receber pagamento de tributos estaduais"
+title: Governo da Paraíba fecha convênio com a Caixa para receber pagamento de tributos
+  estaduais
 date: 2021-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Governo da Paraíba firmou convênio com a Caixa Econômica Federal para receber o pagamento dos tributos estaduais. Com essa nova parceria, a partir desta quarta-feira (19), o contribuinte paraibano já vai poder pagar os impostos como ICMS e o IPVA nas diversas agências do banco espalhadas pelo Estado, assim como nos seus terminais eletrônicos.
 

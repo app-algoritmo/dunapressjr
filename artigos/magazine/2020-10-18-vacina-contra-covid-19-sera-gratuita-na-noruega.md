@@ -1,11 +1,12 @@
 ---
-title: "Vacina contra covid-19 será gratuita na Noruega"
+title: Vacina contra covid-19 será gratuita na Noruega
 date: 2020-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Quando houver uma vacina contra o Covid-19, ela se tornará gratuita para a população. O Estado também cobrirá os custos dos municípios e hospitais relacionados à vacinação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda após EUA anunciarem alta de juros"
+title: Ibovespa fecha em queda após EUA anunciarem alta de juros
 date: 2021-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar foi negociado abaixo de R$ 5 pela 1ª vez desde junho de 2020.
 

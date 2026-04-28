@@ -1,12 +1,13 @@
 ---
-title: "A mídia encobre a perseguição aos não vacinados"
+title: A mídia encobre a perseguição aos não vacinados
 date: 2023-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## A grande mídia quer que você acredite que seu status de vacinação contra COVID é protegido por leis de privacidade médica, mas aparentemente não é o caso.
 

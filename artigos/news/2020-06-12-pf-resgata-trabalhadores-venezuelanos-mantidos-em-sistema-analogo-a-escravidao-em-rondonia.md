@@ -1,11 +1,13 @@
 ---
-title: "PF resgata trabalhadores venezuelanos mantidos em sistema análogo à escravidão em Rondônia"
+title: PF resgata trabalhadores venezuelanos mantidos em sistema análogo à escravidão
+  em Rondônia
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guajará-Mirim/RO - A Polícia Federal, em ação  conjunta com o Ministério Público do Trabalho, Ministério do Trabalho e Emprego e com apoio da Força Nacional e CREAS do município de Nova Mamoré,  realizaram hoje (10/6) uma operação de resgate de trabalhadores estrangeiros, em situação análoga a trabalho escravo, no distrito de Jacinópolis, município de Nova Mamoré-RO. A operação foi denominada "Ventre Livre", em alusão a uma gestante que estaria entre os resgatados.
 

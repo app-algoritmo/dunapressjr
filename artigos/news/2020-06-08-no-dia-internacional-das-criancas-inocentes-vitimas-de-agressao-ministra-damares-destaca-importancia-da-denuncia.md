@@ -1,11 +1,13 @@
 ---
-title: "No Dia Internacional das Crianças Inocentes Vítimas de Agressão, ministra Damares destaca importância da denúncia"
+title: No Dia Internacional das Crianças Inocentes Vítimas de Agressão, ministra Damares
+  destaca importância da denúncia
 date: 2020-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Vamos, todos nós, começar a ouvir mais e olhar mais para nossas crianças. Vamos denunciar em caso de violência, de violação de direito de criança”, pediu Damares Alves. 
 

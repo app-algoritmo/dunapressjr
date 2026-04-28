@@ -1,11 +1,12 @@
 ---
-title: "Brasil extradita para Espanha, o terrorista Carlos García Juliá"
+title: Brasil extradita para Espanha, o terrorista Carlos García Juliá
 date: 2020-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O terrorista espanhol Carlos García Juliá,  um dos autores do massacre de Atocha de 1977, foi extraditado nesta quinta-feira de São Paulo , onde ficou preso por um ano, e entrou na prisão de Soto del Real, em Madrid para cumprir a  sentença de prisão pendente pelos cinco assassinatos e quatro tentativas de homicídio cometidas em um escritório de advogados.
 

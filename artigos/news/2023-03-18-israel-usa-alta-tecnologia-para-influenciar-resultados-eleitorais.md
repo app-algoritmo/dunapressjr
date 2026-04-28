@@ -1,11 +1,12 @@
 ---
-title: "Israel usa alta tecnologia para influenciar resultados eleitorais"
+title: Israel usa alta tecnologia para influenciar resultados eleitorais
 date: 2023-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## intromissão nas eleições? Israel usa alta tecnologia para influenciar resultados.
 

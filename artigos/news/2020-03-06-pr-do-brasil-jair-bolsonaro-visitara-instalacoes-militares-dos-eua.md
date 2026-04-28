@@ -1,11 +1,12 @@
 ---
-title: "PR do Brasil, Jair Bolsonaro visitará instalações militares dos EUA"
+title: PR do Brasil, Jair Bolsonaro visitará instalações militares dos EUA
 date: 2020-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o Palácio do Planalto, Bolsonaro e ao menos seis ministros viajam na manhã de sábado. Está prevista uma escala técnica em Boa Vista, para abastecimento. Na ocasião, o presidente deve se reunir com autoridades do estado. A chegada a Miami está prevista para às 15h30 do mesmo dia, horário local. Na primeira noite em solo norte-americano, o presidente brasileiro participará de eventos privados.
 

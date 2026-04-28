@@ -1,11 +1,13 @@
 ---
-title: "No infernal Gueto de Varsóvia, o distanciamento social e a higiene derrotaram a mortal pandemia"
+title: No infernal Gueto de Varsóvia, o distanciamento social e a higiene derrotaram
+  a mortal pandemia
 date: 2021-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Pesquisa conduzida pelo biomatemático da Universidade de Tel Aviv descobre meios surpreendentemente simples usados ​​por judeus famintos e perseguidos para interromper o tifo.
 

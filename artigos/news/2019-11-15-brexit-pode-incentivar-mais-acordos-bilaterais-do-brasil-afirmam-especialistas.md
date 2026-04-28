@@ -1,11 +1,12 @@
 ---
-title: "Brexit pode incentivar mais acordos bilaterais do Brasil, afirmam especialistas"
+title: Brexit pode incentivar mais acordos bilaterais do Brasil, afirmam especialistas
 date: 2019-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Apesar da apreensão causada pela demora no processo de saída
 do Reino Unido da União Europeia, o Brexit pode abrir possibilidades comerciais

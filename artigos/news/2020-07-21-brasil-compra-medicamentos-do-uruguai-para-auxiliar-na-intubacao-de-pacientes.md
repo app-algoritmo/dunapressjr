@@ -1,11 +1,12 @@
 ---
-title: "Brasil compra medicamentos do Uruguai para auxiliar na intubação de pacientes"
+title: Brasil compra medicamentos do Uruguai para auxiliar na intubação de pacientes
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde adquiriu quase 55 mil medicamentos anestésicos e sedativos do país vizinho.
 

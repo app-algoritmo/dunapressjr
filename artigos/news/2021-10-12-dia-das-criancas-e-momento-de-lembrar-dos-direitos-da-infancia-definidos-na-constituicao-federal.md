@@ -1,11 +1,13 @@
 ---
-title: "Dia das Crianças é momento de lembrar dos direitos da infância definidos na Constituição Federal"
+title: Dia das Crianças é momento de lembrar dos direitos da infância definidos na
+  Constituição Federal
 date: 2021-10-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Especialistas indicam que pandemia exige maior atenção do poder público para assistência às crianças e adolescentes.
 

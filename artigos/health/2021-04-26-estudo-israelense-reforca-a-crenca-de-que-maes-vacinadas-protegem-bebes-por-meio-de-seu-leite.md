@@ -1,11 +1,13 @@
 ---
-title: "Estudo israelense reforça a crença de que mães vacinadas protegem bebês por meio de seu leite"
+title: Estudo israelense reforça a crença de que mães vacinadas protegem bebês por
+  meio de seu leite
 date: 2021-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Por pelo menos 6 semanas após o início da primeira injeção de COVID, as mães que amamentam produzem leite com anticorpos, sugerindo que estão protegidas do vírus enquanto amamentadas; nenhum evento adverso registrado.
 

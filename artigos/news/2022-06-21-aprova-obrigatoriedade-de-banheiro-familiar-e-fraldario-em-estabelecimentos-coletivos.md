@@ -1,11 +1,13 @@
 ---
-title: "Aprova obrigatoriedade de banheiro familiar e fraldário em estabelecimentos coletivos"
+title: Aprova obrigatoriedade de banheiro familiar e fraldário em estabelecimentos
+  coletivos
 date: 2022-06-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou nesta quarta-feira (15) projeto que obriga a instalação de banheiro familiar e fraldário em estabelecimentos coletivos, tanto públicos como privados. Pelo texto, as regras valerão para as novas edificações e também para as que passarem por ampliações ou reformas.
 

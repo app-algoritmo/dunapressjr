@@ -1,11 +1,12 @@
 ---
-title: "Fitch eleva perspectiva da nota do Brasil de negativa para estável"
+title: Fitch eleva perspectiva da nota do Brasil de negativa para estável
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Agência projeta que dívida bruta cairá para 78,8% do PIB neste ano.
 

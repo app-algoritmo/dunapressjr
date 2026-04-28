@@ -1,12 +1,14 @@
 ---
-title: "Projeto Formações IEE tem ações em sete estados no mês de outubro e beneficia 46 mil alunos"
+title: Projeto Formações IEE tem ações em sete estados no mês de outubro e beneficia
+  46 mil alunos
 date: 2023-10-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional, um total de 620 professores, gestores, coordenadores e diretores de 11 cidades participará dos módulos, de forma presencial ou no formato EaD.
 

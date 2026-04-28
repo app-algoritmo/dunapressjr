@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que anunciará três ou quatro privatizações em até 60 dias"
+title: Guedes diz que anunciará três ou quatro privatizações em até 60 dias
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro não adiantou nome das empresas que serão privatizadas.
 

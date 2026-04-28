@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro diz que governo federal não comprará vacina CoronaVac"
+title: Bolsonaro diz que governo federal não comprará vacina CoronaVac
 date: 2020-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A CoronaVac prevê a administração de duas doses por pessoa.
 

@@ -1,11 +1,12 @@
 ---
-title: "O FEM quer regular a água com a ONU"
+title: O FEM quer regular a água com a ONU
 date: 2023-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Água não é um direito humano': FEM ordena que governos racionem água nas residências
 

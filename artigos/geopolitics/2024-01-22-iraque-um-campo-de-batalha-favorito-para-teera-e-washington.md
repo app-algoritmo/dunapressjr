@@ -1,11 +1,12 @@
 ---
-title: "Iraque: um campo de batalha favorito para Teerã e Washington"
+title: 'Iraque: um campo de batalha favorito para Teerã e Washington'
 date: 2024-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Quando o primeiro-ministro iraquiano, Mohammed Shia Al-Sudani, chegou à cidade de Nova Iorque em setembro para a Assembleia Geral da ONU, uma trégua delicada estava em equilíbrio entre as duas potências estrangeiras que pairam sobre Bagdá.
 

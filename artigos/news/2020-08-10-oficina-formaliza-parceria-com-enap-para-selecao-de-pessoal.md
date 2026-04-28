@@ -1,11 +1,12 @@
 ---
-title: "Oficina formaliza parceria com Enap para seleção de pessoal"
+title: Oficina formaliza parceria com Enap para seleção de pessoal
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Evento ocorre até sexta-feira (7) com a participação de entidades e também aborda projeto de modernização das seleções de servidores temporários em órgãos públicos.
 

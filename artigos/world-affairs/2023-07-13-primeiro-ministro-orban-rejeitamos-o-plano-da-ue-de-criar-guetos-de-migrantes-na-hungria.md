@@ -1,11 +1,13 @@
 ---
-title: "Primeiro Ministro Orbán: Rejeitamos o plano da UE de criar 'guetos de migrantes' na Hungria"
+title: 'Primeiro Ministro Orbán: Rejeitamos o plano da UE de criar ''guetos de migrantes''
+  na Hungria'
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Hungria se recusa a implementar os planos de reassentamento de migrantes da UE, não aceitará cotas obrigatórias e não deseja estabelecer "guetos de migrantes" ou acampamentos de migrantes no país, declarou o primeiro-ministro Viktor Orbán na sexta-feira durante a Cúpula de Migração Húngaro-Austríaca-Sérvia em capital austríaca, Viena.
 

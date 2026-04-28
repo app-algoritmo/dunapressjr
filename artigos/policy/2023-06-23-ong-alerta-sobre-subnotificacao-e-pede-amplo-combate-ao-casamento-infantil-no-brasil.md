@@ -1,11 +1,13 @@
 ---
-title: "ONG alerta sobre subnotificação e pede amplo combate ao casamento infantil no Brasil"
+title: ONG alerta sobre subnotificação e pede amplo combate ao casamento infantil
+  no Brasil
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tema foi debatido em audiência pública na Câmara dos Deputados.
 

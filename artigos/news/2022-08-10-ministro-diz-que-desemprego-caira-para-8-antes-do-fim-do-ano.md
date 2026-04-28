@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que desemprego cairá para 8% antes do fim do ano"
+title: Ministro diz que desemprego cairá para 8% antes do fim do ano
 date: 2022-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes pediu abertura de mercado europeu a produtos brasileiros.
 

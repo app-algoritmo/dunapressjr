@@ -1,12 +1,13 @@
 ---
-title: "Se voltasse a Monarquia no Brasil como seria?"
+title: Se voltasse a Monarquia no Brasil como seria?
 date: 2023-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - News
+- Bicentennial
+- News
 ---
+
 
 Seria como nas monarquias da atualidade, ou seja, constitucional, de tipo parlamentarista. Nelas, o soberano reina como Chefe de Estado, mas não lhe cabe cuidar do governo e da administração nacional, que são atribuições de um governo indicado pelo Parlamento e chefiado por um Primeiro Ministro, que é normalmente o líder do partido político mais votado.
 

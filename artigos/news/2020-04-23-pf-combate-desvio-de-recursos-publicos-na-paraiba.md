@@ -1,11 +1,12 @@
 ---
-title: "PF combate desvio de recursos públicos na Paraíba"
+title: PF combate desvio de recursos públicos na Paraíba
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal (PF) deflagrou nesta quinta-feira (23/4) a Operação ALQUIMIA, com objetivo de combater o desvio de recursos públicos, especialmente mediante crimes licitatórios envolvendo a Prefeitura de Aroeiras/PB.
 

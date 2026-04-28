@@ -1,11 +1,12 @@
 ---
-title: "Varejo nacional deve faturar R$ 2,49 bi na Páscoa, projeta a CNC"
+title: Varejo nacional deve faturar R$ 2,49 bi na Páscoa, projeta a CNC
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta da cesta para a data é de 8,1%.
 

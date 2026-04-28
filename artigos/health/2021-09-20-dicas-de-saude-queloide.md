@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Queloide"
+title: 'Dicas de Saúde: Queloide'
 date: 2021-09-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Depois de um corte, um machucado, uma cirurgia ou queimadura, a reação da pele é formar um novo tecido para curar a ferida. O problema é que nem sempre a cicatriz que fica é lisa, fina e discreta. Pode ocorrer um crescimento anormal do tecido na cicatriz, formando o queloide.
 

@@ -1,11 +1,12 @@
 ---
-title: "167 mil bolsas ofertadas pelo Prouni em 2020"
+title: 167 mil bolsas ofertadas pelo Prouni em 2020
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Candidatos já podem consultar as opções disponíveis; inscrições vão de 14 a 17 de julho.
 

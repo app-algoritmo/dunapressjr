@@ -1,11 +1,12 @@
 ---
-title: "Nova lei libera troca de nome direto no cartório e sem ação judicial"
+title: Nova lei libera troca de nome direto no cartório e sem ação judicial
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O funcionário público Francisco Conte Ficho, de Jaú (SP), enfim acabou com o pesadelo que o acompanhava desde criança. Em outubro, aos 33 anos de idade, ele conseguiu fazer duas mudanças significativas no próprio nome. O prenome diminuiu, e o sobrenome aumentou. Antes das alterações, ele se chamava Francisco Egídio Conte.
 

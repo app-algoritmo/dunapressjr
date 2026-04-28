@@ -1,11 +1,13 @@
 ---
-title: "Partido Avante alcança a cláusula de desempenho após retotalização dos votos em Mato Grosso do Sul"
+title: Partido Avante alcança a cláusula de desempenho após retotalização dos votos
+  em Mato Grosso do Sul
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O partido Avante, que elegeu sete deputados federais na última eleição, atingiu a cláusula de desempenho após o reprocessamento da totalização de votos em Mato Grosso do Sul. Em razão de decisão do Tribunal Superior Eleitoral (TSE), que deferiu o registro da candidatura do candidato Promotor Harfouche, o número de votos do Avante superou os 2% naquele estado.
 

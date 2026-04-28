@@ -1,11 +1,13 @@
 ---
-title: "Estudos financiados pela indústria farmacêutica relatam um aumento da eficácia dos medicamentos com uma frequência de cerca de 30 vezes"
+title: Estudos financiados pela indústria farmacêutica relatam um aumento da eficácia
+  dos medicamentos com uma frequência de cerca de 30 vezes
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O financiamento da Big Pharma e Big Food está afetando a pesquisa científica em saúde a cada passo, de acordo com um novo relatório das Academias Nacionais de Ciência, Engenharia e Medicina.
 

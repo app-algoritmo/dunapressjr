@@ -1,11 +1,13 @@
 ---
-title: "Liberação de R$ 50 milhões pelo Mapa, para subvenção do seguro rural nas regiões Norte e Nordeste"
+title: Liberação de R$ 50 milhões pelo Mapa, para subvenção do seguro rural nas regiões
+  Norte e Nordeste
 date: 2020-08-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa incentivar a contratação de apólices de seguro pelos produtores rurais.
 

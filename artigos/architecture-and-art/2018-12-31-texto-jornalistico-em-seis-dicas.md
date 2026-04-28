@@ -1,11 +1,12 @@
 ---
-title: "Texto jornalístico em seis dicas"
+title: Texto jornalístico em seis dicas
 date: 2018-12-31
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Quando há alguns anos o Brasil suprimiu a obrigatoriedade do diploma de jornalista para o exercício da função, jornais, blogs e pretendentes a repórter sem qualificação comemoraram, visto que a revolução digital parecia prescindir de uma especialização em texto. Impedir que um cidadão publicasse suas ideias virou sinônimo de censura, ataque à liberdade de expressão e até discriminação. Claro que se fosse o caso de desregulamentar a profissão de médico ou de engenheiro, a situação seria bem diferente, pois ninguém vai a médico que não fez faculdade de medicina, nem passa por ponte planejada e construída por um curioso.
 

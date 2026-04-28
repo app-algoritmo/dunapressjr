@@ -1,11 +1,12 @@
 ---
-title: "Estes são os planos (secretos) da ONU e dos Kissingers para controle populacional"
+title: Estes são os planos (secretos) da ONU e dos Kissingers para controle populacional
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Em 30 de agosto de 1974, as Nações Unidas apresentaram um [plano de ação](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/E_CONF.60_19_Plan.pdf) contra o rápido crescimento populacional e a ameaça de superpopulação.
 

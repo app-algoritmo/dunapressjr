@@ -1,11 +1,12 @@
 ---
-title: "O efeito psíquico das cores"
+title: O efeito psíquico das cores
 date: 2018-10-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 As cores em nosso ambiente nos mostram muitas coisas.
 

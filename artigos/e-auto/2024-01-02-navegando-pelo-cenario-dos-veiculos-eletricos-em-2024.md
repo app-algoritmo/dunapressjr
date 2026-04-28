@@ -1,12 +1,13 @@
 ---
-title: "Navegando pelo Cenário dos Veículos Elétricos em 2024"
+title: Navegando pelo Cenário dos Veículos Elétricos em 2024
 date: 2024-01-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
-  - Environment
+- E-auto
+- Environment
 ---
+
 
 **Navegando pelo Cenário dos Veículos Elétricos em 2024: Desafios, Oportunidades e Escolhas Estratégicas**
 

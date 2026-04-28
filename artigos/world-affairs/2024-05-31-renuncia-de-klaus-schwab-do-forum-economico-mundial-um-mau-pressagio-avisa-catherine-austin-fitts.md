@@ -1,11 +1,13 @@
 ---
-title: "Renúncia de Klaus Schwab do Fórum Económico Mundial: Um Mau Presságio, Avisa Catherine Austin Fitts"
+title: 'Renúncia de Klaus Schwab do Fórum Económico Mundial: Um Mau Presságio, Avisa
+  Catherine Austin Fitts'
 date: 2024-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente renúncia de Klaus Schwab como líder do Fórum Económico Mundial (WEF) foi recebida com ceticismo e preocupação por Catherine Austin Fitts, banqueira de investimento e ex-representante do governo dos EUA. Fitts argumenta que a saída de Schwab não é uma boa notícia, mas sim um indicativo de que os globalistas estão preparando algo significativo nos bastidores.
 

@@ -1,11 +1,13 @@
 ---
-title: "Membro da OMS quer realizar 'exercício de simulação' antes da implementação do tratado pandêmico"
+title: Membro da OMS quer realizar 'exercício de simulação' antes da implementação
+  do tratado pandêmico
 date: 2023-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um membro da Organização Mundial da Saúde (OMS) propôs a realização de um "exercício de simulação" antes de implementar dois instrumentos que irão expandir significativamente os poderes da autoridade sanitária internacional não eleita - o Tratado Internacional de Pandemia e as Emendas ao Regulamento Sanitário Internacional (2005) .
 

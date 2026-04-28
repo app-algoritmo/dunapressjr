@@ -1,11 +1,13 @@
 ---
-title: "Chefe de inteligência na Colômbia deixa cargo após entrega de dados falsos à ONU"
+title: Chefe de inteligência na Colômbia deixa cargo após entrega de dados falsos
+  à ONU
 date: 2019-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O chefe da Inteligência militar na Colômbia deixou o cargo
 nesta segunda-feira (30) depois que o presidente Iván Duque entregou à ONU um

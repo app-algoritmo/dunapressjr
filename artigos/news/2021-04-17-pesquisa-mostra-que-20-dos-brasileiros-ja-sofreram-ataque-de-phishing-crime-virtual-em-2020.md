@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa mostra que 20% dos brasileiros já sofreram ataque de phishing (crime virtual) em 2020"
+title: Pesquisa mostra que 20% dos brasileiros já sofreram ataque de phishing (crime
+  virtual) em 2020
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um estudo realizado pela Kaspersky mostrou que um em cada cinco brasileiros sofreu pelo menos uma tentativa de ataque de *phishing *em 2020. *Phishing* é considerado um crime virtual que pode acontecer por e-mail, telefone ou mensagem de texto. O objetivo dos criminosos é conseguir dados privados da vítima. Com a pandemia, esses ataques cresceram no país. No começo do isolamento social, de fevereiro a março, o número de ameaças virtuais aumentou mais de 120%.
 

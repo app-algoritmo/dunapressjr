@@ -1,11 +1,12 @@
 ---
-title: "Como fazer uma graduação no Reino Unido?"
+title: Como fazer uma graduação no Reino Unido?
 date: 2021-08-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Estudantes interessados em cursar a universidade na terra da rainha precisam seguir uma série de exigências das instituições de ensino superior britânicas.
 

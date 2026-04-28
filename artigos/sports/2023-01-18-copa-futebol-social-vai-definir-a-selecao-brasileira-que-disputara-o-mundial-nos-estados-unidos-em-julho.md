@@ -1,11 +1,13 @@
 ---
-title: "Copa Futebol Social vai definir a seleção brasileira que disputará o Mundial nos Estados Unidos, em julho"
+title: Copa Futebol Social vai definir a seleção brasileira que disputará o Mundial
+  nos Estados Unidos, em julho
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 De sexta-feira (20) a domingo (22), jovens carentes de projetos sociais de diferentes regiões do Brasil estarão disputando a Copa Futebol Social, em Mongaguá, no Litoral Paulista, de olho no Mundial 2023. É que o torneio definirá os jogadores que integrarão as seleções brasileiras que participarão, de 8 a 15 de julho, do Campeonato Mundial de Futebol Social (Homeless World Cup), em Sacramento, na Califórnia (EUA). Serão selecionados oito atletas no masculino e oito no feminino. O Brasil é tricampeão mundial no masculino (2010, 2013 e 2017) e campeão no feminino, em 2010.
 

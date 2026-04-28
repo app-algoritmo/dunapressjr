@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega mais 304 respiradores para nove estados"
+title: Governo Bolsonaro entrega mais 304 respiradores para nove estados
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Ao todo, o governo do Brasil já distribuiu 861 respiradores para 14 estados, a compra e distribuição dos respiradores é parte do apoio estratégico do Governo do Brasil no combate ao novo coronavírus.
 

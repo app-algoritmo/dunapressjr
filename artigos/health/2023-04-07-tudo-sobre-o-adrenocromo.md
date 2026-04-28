@@ -1,11 +1,12 @@
 ---
-title: "Tudo sobre o Adrenocromo"
+title: Tudo sobre o Adrenocromo
 date: 2023-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 O Adrenocromo é um composto químico produzido naturalmente pelo corpo humano a partir da oxidação da adrenalina (epinefrina). Este composto químico foi popularizado pela literatura e filmes de Hollywood como uma substância psicoativa altamente poderosa e perigosa. No entanto, muitas informações equivocadas  cercam o Adrenocromo. Neste artigo, exploraremos os fatos científicos e separaremos a realidade da ficção.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor volta a crescer em junho"
+title: Confiança do consumidor volta a crescer em junho
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Crescimento ocorre após queda de 3,1 pontos de abril para maio.
 

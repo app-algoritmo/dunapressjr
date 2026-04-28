@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal quer garantir a segurança alimentar dos povos indígenas"
+title: Governo Federal quer garantir a segurança alimentar dos povos indígenas
 date: 2020-08-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação Nacional do índio (Funai) deve concluir nos próximos dias a entrega de cerca de 500 mil cestas de alimentos a famílias indígenas em situação de vulnerabilidade social em todo o país. São 15,6 mil toneladas de alimentos para ajudar no combate à pandemia de Covid-19. 
 

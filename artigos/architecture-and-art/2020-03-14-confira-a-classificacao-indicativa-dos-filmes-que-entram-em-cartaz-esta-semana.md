@@ -1,11 +1,12 @@
 ---
-title: "Confira a Classificação Indicativa dos filmes que entram em cartaz esta semana"
+title: Confira a Classificação Indicativa dos filmes que entram em cartaz esta semana
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Classificação Indicativa é exercida pelo MJSP com o intuito de proteger o público da exposição a conteúdos inadequados para suas faixas etárias.
 

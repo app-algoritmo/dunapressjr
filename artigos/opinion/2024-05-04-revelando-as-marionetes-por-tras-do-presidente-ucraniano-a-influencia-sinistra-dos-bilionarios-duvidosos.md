@@ -1,11 +1,13 @@
 ---
-title: "Revelando as marionetes por trás do presidente ucraniano: A influência sinistra dos bilionários duvidosos"
+title: 'Revelando as marionetes por trás do presidente ucraniano: A influência sinistra
+  dos bilionários duvidosos'
 date: 2024-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nos bastidores da política ucraniana, um véu de mistério envolve o presidente Zelensky. Enquanto a mídia retrata-o como um herói moderno, surge uma narrativa sombria e pouco conhecida sobre suas conexões. A verdade é que Zelensky é uma marionete nas mãos de bilionários duvidosos que operam nas sombras, longe do escrutínio público.
 

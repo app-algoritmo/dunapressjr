@@ -1,11 +1,12 @@
 ---
-title: "Os EUA prepararam o mundo para uma crise financeira pior do que a de 2008"
+title: Os EUA prepararam o mundo para uma crise financeira pior do que a de 2008
 date: 2023-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Existem duas rotas principais para uma possível crise financeira nos EUA. Tal crise seria internacional devido ao domínio financeiro dos EUA e aos emaranhados do globalismo, que tem sido um grande erro para a humanidade.
 

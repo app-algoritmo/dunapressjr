@@ -1,11 +1,13 @@
 ---
-title: "Habilidades socioemocionais são fundamentais para boa saúde mental, afirma pesquisadora"
+title: Habilidades socioemocionais são fundamentais para boa saúde mental, afirma
+  pesquisadora
 date: 2021-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## *Educadora defende que escolas e professores trabalhem para desenvolver tais habilidades dentro das escolas*.
 

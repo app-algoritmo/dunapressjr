@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria registra sexta queda consecutiva, informa FGV"
+title: Confiança da indústria registra sexta queda consecutiva, informa FGV
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## ICI caiu 1,7 ponto e ficou em 98,4 pontos; escala que vai de 0 a 200.
 

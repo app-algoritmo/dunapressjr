@@ -1,11 +1,12 @@
 ---
-title: "Proposta prevê correção anual das faixas de saque-aniversário do FGTS"
+title: Proposta prevê correção anual das faixas de saque-aniversário do FGTS
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 704/23 prevê a correção anual, conforme a variação da inflação medida pelo Índice Nacional de Preços ao Consumidor (INPC), das faixas de saldo e das parcelas adicionais na modalidade saque-aniversário no Fundo de Garantia do Tempo de Serviço (FGTS), mantidos os limites das alíquotas vigentes.
 

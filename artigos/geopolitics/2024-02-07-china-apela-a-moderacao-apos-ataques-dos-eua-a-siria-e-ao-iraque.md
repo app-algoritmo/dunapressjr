@@ -1,11 +1,12 @@
 ---
-title: "China apela à moderação após ataques dos EUA à Síria e ao Iraque"
+title: China apela à moderação após ataques dos EUA à Síria e ao Iraque
 date: 2024-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Na sequência dos ataques aéreos conduzidos pelas forças armadas dos Estados Unidos contra alvos localizados dentro dos territórios da Síria e do Iraque em 3 de fevereiro, a China ergueu sua voz em apelo à moderação e à observância do direito internacional. Em uma coletiva de imprensa regular, o porta-voz do Ministério das Relações Exteriores chinês, Wang Wenbin, expressou preocupação com a escalada da tensão na região do Oriente Médio e enfatizou a importância da contenção.
 

@@ -1,11 +1,12 @@
 ---
-title: "Congresso promulga PEC que aumenta benefícios sociais até dezembro"
+title: Congresso promulga PEC que aumenta benefícios sociais até dezembro
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Emenda prevê estado de emergência para ampliar auxílios.
 

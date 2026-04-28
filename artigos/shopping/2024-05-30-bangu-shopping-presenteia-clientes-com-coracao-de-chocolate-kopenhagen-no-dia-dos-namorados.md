@@ -1,11 +1,13 @@
 ---
-title: "Bangu Shopping presenteia clientes com coração de chocolate Kopenhagen no Dia dos Namorados"
+title: Bangu Shopping presenteia clientes com coração de chocolate Kopenhagen no Dia
+  dos Namorados
 date: 2024-05-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Promoção "Compre e Ganhe" acontece entre 29 de maio e 12 de junho.
 

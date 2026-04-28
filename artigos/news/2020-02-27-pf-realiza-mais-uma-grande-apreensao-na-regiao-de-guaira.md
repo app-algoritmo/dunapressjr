@@ -1,11 +1,12 @@
 ---
-title: "PF realiza mais uma grande apreensão na região de Guaíra"
+title: PF realiza mais uma grande apreensão na região de Guaíra
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Nesta quinta-feira (27/2), mais uma
 grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS,

@@ -1,11 +1,12 @@
 ---
-title: "Variedades de soja adaptadas às mudanças climáticas"
+title: Variedades de soja adaptadas às mudanças climáticas
 date: 2021-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 O Brasil é um dos mais importantes produtores de soja, tendo fornecido cerca de 30% desse produto ao mercado mundial em 2013. Os estados de Mato Grosso do Sul, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul contribuem com 47% dessa produção. O sucesso das colheitas de soja depende de fatores climáticos e níveis baixos de chuva são a principal razão para rendimentos menores das plantações. Devido às mudanças climáticas, os padrões e os regimes de chuva têm se alterado. Espera-se que no futuro sejam cada vez mais frequentes os casos intensos de seca.
 

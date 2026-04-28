@@ -1,12 +1,13 @@
 ---
-title: "Saindo da zona de conforto! - 05"
+title: Saindo da zona de conforto! - 05
 date: 2018-09-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Esmiuçando um pouco mais o tema da zona de conforto, temos que ela pode também ser entendida de duas formas bem claras:
 

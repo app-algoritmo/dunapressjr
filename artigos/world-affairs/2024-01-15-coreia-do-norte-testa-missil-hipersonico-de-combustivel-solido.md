@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte testa míssil hipersônico de combustível sólido"
+title: Coreia do Norte testa míssil hipersônico de combustível sólido
 date: 2024-01-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O teste não teve impacto na segurança dos países vizinhos e “não teve nada a ver com a situação na região”, acrescentou a KCNA.
 

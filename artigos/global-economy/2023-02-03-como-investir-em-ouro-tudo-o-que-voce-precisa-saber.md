@@ -1,11 +1,12 @@
 ---
-title: "Como investir em ouro: tudo o que você precisa saber"
+title: 'Como investir em ouro: tudo o que você precisa saber'
 date: 2023-02-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O ouro tem sido um recurso valioso usado como moeda desde **cerca de 700 aC** . quando os comerciantes lídios produziram as primeiras moedas usando este metal precioso. Agora é indiscutivelmente o único curso legal universalmente reconhecido e, nos últimos 20 anos, seu valor disparou - tornando-o uma escolha de investimento mais popular do que nunca.
 

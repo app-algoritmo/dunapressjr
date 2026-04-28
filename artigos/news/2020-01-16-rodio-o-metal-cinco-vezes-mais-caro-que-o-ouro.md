@@ -1,11 +1,12 @@
 ---
-title: "Ródio, o metal cinco vezes mais caro que o ouro"
+title: Ródio, o metal cinco vezes mais caro que o ouro
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O preço do ródio, um metal extremamente raro usado na indústria automotiva, mantém o aumento que começou há vários anos, **aumentando 32%** até agora este ano e registrando seu máximo desde 2008, relata [Bloomberg](https://www.bloomberg.com/news/articles/2020-01-13/most-precious-metal-rhodium-leaves-everything-else-in-the-dust).
 

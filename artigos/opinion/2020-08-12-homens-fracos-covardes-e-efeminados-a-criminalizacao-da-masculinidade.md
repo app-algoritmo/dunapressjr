@@ -1,11 +1,12 @@
 ---
-title: "Homens fracos, covardes e efeminados: A criminalização da masculinidade"
+title: 'Homens fracos, covardes e efeminados: A criminalização da masculinidade'
 date: 2020-08-12
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Este livro é dedicado àqueles de que nele não são mencionados: aos poucos homens que não se deixam domar e às poucas mulheres que não se vendem. E também, aos felizes sem valor no mercado, por que são velhos, feios ou doentes mentais. (O homem domado, Esther Vilar)
 

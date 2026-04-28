@@ -1,11 +1,12 @@
 ---
-title: "Algo terrível aconteceu na Suécia"
+title: Algo terrível aconteceu na Suécia
 date: 2023-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Mais uma vez, na Suécia, uma criança inocente foi atacada sem motivo.
 

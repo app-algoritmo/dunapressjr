@@ -1,11 +1,12 @@
 ---
-title: "Dezenas de crianças morreram após a vacinação contra a COVID-19"
+title: Dezenas de crianças morreram após a vacinação contra a COVID-19
 date: 2023-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Como autor e editor, sempre aderi ao princípio da publicação médica de que as conclusões devem ser apoiadas pelos dados apresentados. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Vereadores Federais: A Disputa pelo Orçamento e a Soberania do Congresso"
+title: 'Vereadores Federais: A Disputa pelo Orçamento e a Soberania do Congresso'
 date: 2024-09-04
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Vereadores Federais? 
 

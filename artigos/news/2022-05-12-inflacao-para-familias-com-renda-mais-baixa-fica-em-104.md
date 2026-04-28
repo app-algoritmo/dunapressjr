@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa fica em 1,04%"
+title: Inflação para famílias com renda mais baixa fica em 1,04%
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado de 12 meses, índice chega a 12,47%.
 

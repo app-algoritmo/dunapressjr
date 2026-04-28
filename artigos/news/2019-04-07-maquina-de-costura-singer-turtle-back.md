@@ -1,11 +1,12 @@
 ---
-title: "Máquina de Costura Singer “Turtle Back”"
+title: Máquina de Costura Singer “Turtle Back”
 date: 2019-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Da série: “50 máquinas que mudaram o rumo da história”. Vamos falar de uma máquina que foi a primeira máquina de costura destinada ao mercado doméstico, provocando uma verdadeira revolução para na época.
 Isaac Merrit Singer (1811-1875) foi o inventor da máquina, mas foi o melhor marqueteiro no inicio da revolução industrial.  A “Turtle Back”, foi a primeira máquina especifica para o mercado doméstico, ela firmou Singer como líder no mercado e criou a primeira empresa multinacional dos Estados Unidos. 

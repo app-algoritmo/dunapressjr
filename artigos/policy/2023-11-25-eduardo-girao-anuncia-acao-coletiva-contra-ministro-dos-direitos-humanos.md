@@ -1,11 +1,12 @@
 ---
-title: "Eduardo Girão anuncia ação coletiva contra ministro dos Direitos Humanos"
+title: Eduardo Girão anuncia ação coletiva contra ministro dos Direitos Humanos
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (22), o senador Eduardo Girão (Novo-CE) anunciou que, junto com outros seis senadores, solicitou à Procuradoria-Geral da República (PGR) a abertura de inquérito civil para investigar o ministro dos Direitos Humanos e da Cidadania, Silvio Almeida. O pedido, explicou o senador, visa apurar práticas de improbidade administrativa, notícia-crime comum e de responsabilidade, com o objetivo de embasar um pedido de impeachment do ministro.
 

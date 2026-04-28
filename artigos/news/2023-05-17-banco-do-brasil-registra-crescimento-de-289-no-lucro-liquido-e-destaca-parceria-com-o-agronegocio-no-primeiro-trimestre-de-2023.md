@@ -1,11 +1,13 @@
 ---
-title: "Banco do Brasil registra crescimento de 28,9% no lucro líquido e destaca parceria com o agronegócio no primeiro trimestre de 2023"
+title: Banco do Brasil registra crescimento de 28,9% no lucro líquido e destaca parceria
+  com o agronegócio no primeiro trimestre de 2023
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Carteira de crédito alcança R$ 1 trilhão, impulsionada pelo setor agrícola, enquanto inadimplência apresenta sinais de estabilização.
 

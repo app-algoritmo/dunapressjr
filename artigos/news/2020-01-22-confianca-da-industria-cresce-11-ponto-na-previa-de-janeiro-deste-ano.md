@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria cresce 1,1 ponto na prévia de janeiro deste ano"
+title: Confiança da indústria cresce 1,1 ponto na prévia de janeiro deste ano
 date: 2020-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Aumento foi puxado pelas expectativas dos empresários*
 

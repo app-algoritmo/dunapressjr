@@ -1,11 +1,12 @@
 ---
-title: "O BID triplicará o financiamento para mudanças climáticas na América Latina"
+title: O BID triplicará o financiamento para mudanças climáticas na América Latina
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Banco Interamericano de Desenvolvimento ( Grupo **BID** ) planeia **triplicar o financiamento direto e mobilizado** para o clima na América Latina e nas Caraíbas para atingir **150 mil milhões de dólares** (cerca de 137 milhões de euros) na próxima década com o apoio dos seus países membros, e incluindo a recapitalização planeada do seu braço do setor privado, o BID Invest.
 

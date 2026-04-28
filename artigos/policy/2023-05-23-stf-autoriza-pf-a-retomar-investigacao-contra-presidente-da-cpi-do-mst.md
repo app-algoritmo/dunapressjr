@@ -1,11 +1,12 @@
 ---
-title: "STF autoriza PF a retomar investigação contra presidente da CPI do MST"
+title: STF autoriza PF a retomar investigação contra presidente da CPI do MST
 date: 2023-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Decisão de Moraes veio à tona nesta terça-feira.
 

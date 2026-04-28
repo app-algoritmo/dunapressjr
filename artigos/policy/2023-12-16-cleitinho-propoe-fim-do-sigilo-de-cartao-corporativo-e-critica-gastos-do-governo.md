@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho propõe fim do sigilo de cartão corporativo e critica gastos do governo"
+title: Cleitinho propõe fim do sigilo de cartão corporativo e critica gastos do governo
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (13), o senador Cleitinho (Republicanos-MG) defendeu a aprovação de projeto de lei de autoria dele que visa acabar com o sigilo sobre os gastos realizados por meio dos cartões corporativos do governo ([PL 3.527/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158753)).
 

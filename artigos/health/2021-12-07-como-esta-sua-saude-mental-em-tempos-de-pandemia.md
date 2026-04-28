@@ -1,11 +1,12 @@
 ---
-title: "Como está sua saúde mental em tempos de pandemia?"
+title: Como está sua saúde mental em tempos de pandemia?
 date: 2021-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Desde o começo da pandemia, as pessoas têm vivido um turbilhão de sensações. A chegada da Covid-19 impactou a vida de muitas formas, especialmente em relação à saúde mental. O isolamento social, a restrição da liberdade, o medo e a preocupação com a doença em si são alguns dos caminhos para o sofrimento emocional sentido pela população.
 

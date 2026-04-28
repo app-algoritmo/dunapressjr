@@ -1,11 +1,13 @@
 ---
-title: "OPERAÇÃO “TRIUNO”: Receita Federal e Polícia Federal deflagram mais três fases (8ª, 9ª e 10ª) da Operação Descarte"
+title: 'OPERAÇÃO “TRIUNO”: Receita Federal e Polícia Federal deflagram mais três fases
+  (8ª, 9ª e 10ª) da Operação Descarte'
 date: 2020-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ações ocorrem nos estados de São Paulo e Rio de Janeiro.
 

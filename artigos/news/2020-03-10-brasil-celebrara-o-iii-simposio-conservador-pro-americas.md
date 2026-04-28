@@ -1,11 +1,12 @@
 ---
-title: "Brasil celebrará o III Simpósio Conservador Pró-Américas"
+title: Brasil celebrará o III Simpósio Conservador Pró-Américas
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Representantes e lideranças de movimentos de direita das Américas participarão da III Convenção dos Movimentos de Direita das Américas, que ocorrerá em São Caetano do Sul -  São Paulo, entre os dias 27 e dia 28 de março.
 

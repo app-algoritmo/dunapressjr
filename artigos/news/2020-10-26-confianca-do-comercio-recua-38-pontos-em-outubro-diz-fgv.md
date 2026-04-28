@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio recua 3,8 pontos em outubro, diz FGV"
+title: Confiança do comércio recua 3,8 pontos em outubro, diz FGV
 date: 2020-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador passou para 95,8 pontos, em uma escala de zero a 200 pontos.
 

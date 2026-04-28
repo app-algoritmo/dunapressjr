@@ -1,11 +1,12 @@
 ---
-title: "MEC realiza Capacitação do Programa de Escolas Cívico-Militares"
+title: MEC realiza Capacitação do Programa de Escolas Cívico-Militares
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) realiza nos dias 24 e 25 de novembro, por meio da Diretoria de Políticas para Escolas Cívico-Militares (Decim), a sexta Capacitação do Programa de Escolas Cívico-Militares (Pecim). A reunião presencial contará com representantes das Coordenações Regionais de Implantação do Programa de Escolas Cívico-Militares, que são militares do Ministério da Defesa, além de representantes do Decim.
 

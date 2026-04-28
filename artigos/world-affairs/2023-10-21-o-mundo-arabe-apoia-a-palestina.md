@@ -1,11 +1,12 @@
 ---
-title: "O mundo árabe apoia a Palestina?"
+title: O mundo árabe apoia a Palestina?
 date: 2023-10-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A mensagem do poeta saudita Rawaf Ben A-Sain para o mundo sobre Israel e Palestina.
 

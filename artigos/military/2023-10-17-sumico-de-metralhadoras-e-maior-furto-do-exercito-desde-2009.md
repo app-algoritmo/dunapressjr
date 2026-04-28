@@ -1,11 +1,12 @@
 ---
-title: "Sumiço de metralhadoras é maior furto do Exército desde 2009"
+title: Sumiço de metralhadoras é maior furto do Exército desde 2009
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## No dia 10, 21 metralhadoras sumiram do arsenal do comando militar.
 

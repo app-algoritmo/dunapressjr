@@ -1,11 +1,12 @@
 ---
-title: "Petrobras e BNDES vão ampliar investimentos em restauração florestal"
+title: Petrobras e BNDES vão ampliar investimentos em restauração florestal
 date: 2021-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Anúncio foi feito durante a COP26, em Glasgow.
 

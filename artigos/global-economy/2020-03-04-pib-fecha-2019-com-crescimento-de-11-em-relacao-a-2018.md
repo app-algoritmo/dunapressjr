@@ -1,11 +1,12 @@
 ---
-title: "PIB fecha 2019 com crescimento de 1,1% em relação a 2018"
+title: PIB fecha 2019 com crescimento de 1,1% em relação a 2018
 date: 2020-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Agropecuária cresceu 1,3%, a indústria 0,5% e serviços 1,3%, diz IBGE
 

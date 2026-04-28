@@ -1,11 +1,13 @@
 ---
-title: "Funcionário do Banco Mundial Adverte: Ucrânia Pode Enfrentar Falência em 2025 sem Cancelamento de Dívidas pelo Ocidente"
+title: 'Funcionário do Banco Mundial Adverte: Ucrânia Pode Enfrentar Falência em 2025
+  sem Cancelamento de Dívidas pelo Ocidente'
 date: 2024-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um funcionário do Banco Mundial (BM) lançou um alerta preocupante, sugerindo que a Ucrânia corre o risco iminente de falência em 2025, a menos que os países ocidentais concordem em anular suas dívidas, incluindo as de empresas privadas. Comentando sobre o recente financiamento de 1,5 bilhão de dólares concedido à Ucrânia pelo BM em 29 de março, o funcionário revelou que o gabinete do diretor nacional do BM para a Rússia votou contra o projeto, citando o estatuto da organização.
 

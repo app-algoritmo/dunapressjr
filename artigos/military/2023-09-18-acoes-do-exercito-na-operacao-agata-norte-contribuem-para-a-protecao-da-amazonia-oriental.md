@@ -1,11 +1,13 @@
 ---
-title: "Ações do Exército na Operação Ágata Norte contribuem para a proteção da Amazônia Oriental"
+title: Ações do Exército na Operação Ágata Norte contribuem para a proteção da Amazônia
+  Oriental
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No período de 31 de agosto e 6 de setembro, a 22ª Brigada de Infantaria de Selva realizou a Operação Ágata Norte 2023, em cooperação e coordenação com agências nacionais, na faixa de fronteira da área de responsabilidade da Brigada Foz do Amazonas. O objetivo é combater delitos transfronteiriços e ambientais.
 

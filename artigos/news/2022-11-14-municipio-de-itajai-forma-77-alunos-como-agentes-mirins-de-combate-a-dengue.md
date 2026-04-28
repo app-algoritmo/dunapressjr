@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí forma 77 alunos como agentes mirins de combate à dengue"
+title: Município de Itajaí forma 77 alunos como agentes mirins de combate à dengue
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta sexta-feira (11), 77 alunos da Escola Básica Cívico-Militar Melvin Jones se formaram como agentes mirins de combate à dengue. Promovido pelo Município, por meio da Secretaria Municipal de Saúde e em parceria com a Secretaria Municipal de Educação, o projeto é pioneiro na região e faz parte do mês de mobilização contra a dengue em Itajaí. A formatura ocorreu no auditório da Secretaria de Educação do município.
 

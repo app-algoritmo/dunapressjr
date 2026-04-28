@@ -1,11 +1,12 @@
 ---
-title: "A moeda digital brasileira ganha um nome: Drex"
+title: 'A moeda digital brasileira ganha um nome: Drex'
 date: 2023-08-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco Central revela o novo nome da moeda digital nacional, destacando modernidade e conectividade. 
 

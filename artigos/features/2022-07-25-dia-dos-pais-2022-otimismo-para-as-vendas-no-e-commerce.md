@@ -1,11 +1,12 @@
 ---
-title: "Dia dos Pais 2022: otimismo para as vendas no e-commerce"
+title: 'Dia dos Pais 2022: otimismo para as vendas no e-commerce'
 date: 2022-07-25
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 As datas comemorativas são ótimas oportunidades para o comércio digital alavancar suas vendas.** **Para o Dia dos Pais, que neste ano será celebrado no dia 14 de agosto, a situação não é diferente. A [Boaonda](https://www.boaonda.com.br/), marca de calçados confortáveis, está otimista quanto à atividade econômica da data: a expectativa é de que as vendas no e-commerce da marca tenham um crescimento de 25% em relação ao ano passado. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria cresce 15,2 pontos na prévia de junho, diz FGV"
+title: Confiança da indústria cresce 15,2 pontos na prévia de junho, diz FGV
 date: 2020-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Indicador atingiu 76,6 pontos, em uma escala de zero a 200 pontos.
 

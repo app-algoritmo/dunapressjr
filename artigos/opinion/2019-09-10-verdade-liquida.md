@@ -1,11 +1,12 @@
 ---
-title: "Verdade Líquida"
+title: Verdade Líquida
 date: 2019-09-10
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Chegará o dia em que teremos que provar ao mundo que a grama é verde. 
 

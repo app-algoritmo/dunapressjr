@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro sanciona lei que garante auxílio financeiro às santas casas"
+title: Presidente Bolsonaro sanciona lei que garante auxílio financeiro às santas
+  casas
 date: 2020-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro sancionou a [Lei nº 13.995/2020](http://www.in.gov.br/en/web/dou/-/lei-n-13.995-de-5-de-maio-de-2020-255378351), que prevê a transferência de R$ 2 bilhões da União para santas casas e hospitais filantrópicos, sem fins lucrativos, que participam de forma complementar do Sistema Único de Saúde (SUS). De acordo com o texto, publicado nesta quarta-feira (6) no Diário Oficial da União, os recursos deverão ser utilizados no controle do avanço da epidemia de Covid-19 no País, em ações articuladas com o Ministério da Saúde e gestores estaduais e municipais do SUS.
 

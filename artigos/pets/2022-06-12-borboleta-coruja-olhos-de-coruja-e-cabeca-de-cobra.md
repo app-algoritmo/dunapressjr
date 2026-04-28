@@ -1,11 +1,12 @@
 ---
-title: "Borboleta-coruja, olhos de coruja e cabeça de cobra"
+title: Borboleta-coruja, olhos de coruja e cabeça de cobra
 date: 2022-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O que é, o que é: tem olhos de coruja, cabeça de cobra e voa pela noite atrás de alimento? Por mais que pareça uma assombração, na verdade são atributos da *Caligo sp*, espécie mais conhecida como borboleta-coruja.
 

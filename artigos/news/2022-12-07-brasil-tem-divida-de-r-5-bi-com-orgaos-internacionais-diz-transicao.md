@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem dívida de R$ 5 bi com órgãos internacionais, diz transição"
+title: Brasil tem dívida de R$ 5 bi com órgãos internacionais, diz transição
 date: 2022-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Defasagem em governo digital chega a R$ 60 milhões.
 

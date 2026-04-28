@@ -1,11 +1,12 @@
 ---
-title: "USA Eleições 2020: atualização 17 de novembro"
+title: 'USA Eleições 2020: atualização 17 de novembro'
 date: 2020-11-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No dia 3 de novembro de 2020, os americanos votaram para eleger seu próximo presidente.  Em 17 de novembro, a maioria dos resultados estaduais ainda não foram certificadas e as contestações legais e recontagens estão pendentes nos principais estados decisivos. 
 

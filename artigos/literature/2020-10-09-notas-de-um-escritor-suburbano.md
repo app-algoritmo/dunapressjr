@@ -1,11 +1,12 @@
 ---
-title: "Notas de um escritor suburbano"
+title: Notas de um escritor suburbano
 date: 2020-10-09
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Havia desistido de um sonho, de um dever, de um prazer. Sim, transmitir em palavras claras uma obra literária é um processo árduo e nem sempre recompensador.
 

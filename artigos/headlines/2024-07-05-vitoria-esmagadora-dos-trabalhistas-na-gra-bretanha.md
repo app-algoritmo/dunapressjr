@@ -1,11 +1,12 @@
 ---
-title: "Vitória esmagadora dos Trabalhistas na Grã-Bretanha"
+title: Vitória esmagadora dos Trabalhistas na Grã-Bretanha
 date: 2024-07-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 De acordo com as primeiras pesquisas, os trabalhistas ( esquerda) teriam conquistado 410 assentos contra os 131 dos Tories. Seguem-se os Democratas Liberais com 61, SNP com 10, Reform UK com 13, Plaid Cymru com 4 e os Verdes com 2.
 

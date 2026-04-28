@@ -1,11 +1,12 @@
 ---
-title: "Triste recorde de atos anti-semitas no Canadá, por quatro anos consecutivos"
+title: Triste recorde de atos anti-semitas no Canadá, por quatro anos consecutivos
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O número de incidentes anti-semitas no Canadá atingiu um novo recorde pelo quarto ano consecutivo, principalmente devido ao assédio cibernético.
 

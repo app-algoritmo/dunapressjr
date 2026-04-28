@@ -1,11 +1,12 @@
 ---
-title: "Viveiro | Crítica"
+title: Viveiro | Crítica
 date: 2024-02-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## O filme “Viveiro“, que está na Prime Video deixa muitos telespectadores com uma pulga atrás da orelha. 
 

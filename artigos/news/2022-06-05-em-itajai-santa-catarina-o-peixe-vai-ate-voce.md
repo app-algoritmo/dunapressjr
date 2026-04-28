@@ -1,11 +1,12 @@
 ---
-title: "Em Itajaí - Santa Catarina, o peixe vai até você!"
+title: Em Itajaí - Santa Catarina, o peixe vai até você!
 date: 2022-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminhão do Peixe, programa promovido pela Secretaria Municipal de Desenvolvimento Econômico, divulga a agenda para a próxima semana. O cronograma contempla 10 bairros: São Vicente, Fazenda, Dom Bosco, Limoeiro, São Pedro, São Judas, Votorantim, São João, Espinheiros e Vila operária. O objetivo é incentivar o consumo de pescados na cidade, reconhecida como o maior polo pesqueiro do Brasil.
 

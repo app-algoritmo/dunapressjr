@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio volta a crescer após dois meses"
+title: Confiança do comércio volta a crescer após dois meses
 date: 2022-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice subiu 2% em abril acumulando alta de 0,86%.
 

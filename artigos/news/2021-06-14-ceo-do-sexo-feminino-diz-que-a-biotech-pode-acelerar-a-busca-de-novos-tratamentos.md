@@ -1,11 +1,12 @@
 ---
-title: "CEO do sexo feminino diz que a Biotech pode acelerar a busca de novos tratamentos"
+title: CEO do sexo feminino diz que a Biotech pode acelerar a busca de novos tratamentos
 date: 2021-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dor de estômago forte. Náusea. Fadiga. Infertilidade. Esses são apenas alguns dos sintomas sofridos por milhões de mulheres com endometriose - uma condição incurável causada quando o tecido que reveste o útero cresce em outra parte do abdômen.
 

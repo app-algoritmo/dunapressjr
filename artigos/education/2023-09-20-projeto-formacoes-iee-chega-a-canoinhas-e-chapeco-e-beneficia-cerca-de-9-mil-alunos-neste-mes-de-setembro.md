@@ -1,12 +1,14 @@
 ---
-title: "Projeto Formações IEE chega a Canoinhas e Chapecó e beneficia cerca de 9 mil alunos neste mês de setembro"
+title: Projeto Formações IEE chega a Canoinhas e Chapecó e beneficia cerca de 9 mil
+  alunos neste mês de setembro
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## São 120 professores, gestores, coordenadores e diretores nas duas cidades catarinenses, que estarão participando de módulos com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

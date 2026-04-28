@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 1,1 bilhão em setembro"
+title: Vendas do Tesouro Direto superam resgates em R$ 1,1 bilhão em setembro
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número de investidores ativos passa de 2 milhões.
 

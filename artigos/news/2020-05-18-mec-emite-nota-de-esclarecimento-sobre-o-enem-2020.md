@@ -1,11 +1,12 @@
 ---
-title: "MEC emite nota de esclarecimento sobre o ENEM 2020"
+title: MEC emite nota de esclarecimento sobre o ENEM 2020
 date: 2020-05-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Sobre os diversos movimentos em face de um possível adiamento das datas de aplicação do Exame Nacional do Ensino Médio (Enem) 2020, em suas versões impressa e digital, o Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) esclarecem:
 

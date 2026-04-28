@@ -1,11 +1,12 @@
 ---
-title: "Ipea aponta recuo da inflação para as famílias de menor renda"
+title: Ipea aponta recuo da inflação para as famílias de menor renda
 date: 2021-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para famílias de renda mais alta a inflação passou de 1,05% para 0,29%.
 

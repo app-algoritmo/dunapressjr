@@ -1,11 +1,12 @@
 ---
-title: "Prosperidade e economia - 03 - Equilíbrio de Nash e Master Mind"
+title: Prosperidade e economia - 03 - Equilíbrio de Nash e Master Mind
 date: 2018-11-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Na busca do fluir da prosperidade encontramos algumas teses que devemos considerar, dentre elas, a teoria do Equilíbrio de John Nash, nobel de economia e o master mind que poucos conhecem, porém se caracteriza como uma ferramenta espetacular.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cientistas israelenses afirmam reverter o processo de envelhecimento"
+title: Cientistas israelenses afirmam reverter o processo de envelhecimento
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cientistas israelenses afirmam que conseguiram reverter com sucesso o processo de envelhecimento biológico usando apenas oxigênio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Investimentos de fundos árabes no Brasil atingem US$ 20 bilhões"
+title: Investimentos de fundos árabes no Brasil atingem US$ 20 bilhões
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Fórum Econômico Brasil-Países Árabes começou nesta segunda-feira (4).
 

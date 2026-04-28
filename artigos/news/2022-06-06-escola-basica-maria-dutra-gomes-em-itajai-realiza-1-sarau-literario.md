@@ -1,11 +1,12 @@
 ---
-title: "Escola Básica Maria Dutra Gomes em Itajaí realiza 1º Sarau Literário"
+title: Escola Básica Maria Dutra Gomes em Itajaí realiza 1º Sarau Literário
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Escola Básica Professora Maria Dutra Gomes, do bairro Dom Bosco promoveu nesta quinta-feira (02), o 1º Sarau Literário com os alunos dos nonos anos. O encontro contou com a participação de 60 estudantes, que declamaram poesias, para valorizar autores brasileiros como Vinícius de Moraes. A iniciativa partiu da professora de língua portuguesa, Maria Carolina Pereira de Andrade, que trabalhou com os estudantes várias habilidades propostas pela Base Nacional Comum Curricular (BNCC).
 

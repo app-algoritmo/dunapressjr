@@ -1,10 +1,11 @@
 ---
-title: "Mensagem do Doctor Coach Academy"
+title: Mensagem do Doctor Coach Academy
 date: 2018-12-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Doctor Coach Academy e Zions desejam Boas festas.

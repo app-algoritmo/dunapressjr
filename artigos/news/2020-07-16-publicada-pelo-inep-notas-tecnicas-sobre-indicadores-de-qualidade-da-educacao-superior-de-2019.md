@@ -1,11 +1,13 @@
 ---
-title: "Publicada pelo Inep notas técnicas sobre Indicadores de Qualidade da Educação Superior de 2019"
+title: Publicada pelo Inep notas técnicas sobre Indicadores de Qualidade da Educação
+  Superior de 2019
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 As quatro notas técnicas referentes aos Indicadores de Qualidade da Educação Superior da edição 2019 já estão disponíveis para consulta no portal do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Os documentos são destinados tanto para especialistas quanto para o público em geral. Para facilitar a compreensão, as primeiras seções de cada nota técnica contemplam a definição do indicador, quais informações são utilizadas para o cálculo e que condições são necessárias para que ele seja calculado. Por outro lado, a descrição da metodologia é destinada a especialistas que desejam compreender ou reproduzir o cálculo de cada indicador.
 

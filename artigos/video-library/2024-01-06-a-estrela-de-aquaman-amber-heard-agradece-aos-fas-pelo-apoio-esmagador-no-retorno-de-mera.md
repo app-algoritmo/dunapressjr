@@ -1,11 +1,13 @@
 ---
-title: "A estrela de 'Aquaman' Amber Heard agradece aos fãs pelo “apoio esmagador” no retorno de Mera"
+title: A estrela de 'Aquaman' Amber Heard agradece aos fãs pelo “apoio esmagador”
+  no retorno de Mera
 date: 2024-01-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## A atriz recorreu às redes sociais para agradecer todo o apoio que vem recebendo dos fãs que assistiram ao filme do DC Studios.
 

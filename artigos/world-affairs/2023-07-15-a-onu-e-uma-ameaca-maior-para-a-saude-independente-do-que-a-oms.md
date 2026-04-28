@@ -1,11 +1,12 @@
 ---
-title: "A ONU é uma ameaça maior para a saúde independente do que a OMS?"
+title: A ONU é uma ameaça maior para a saúde independente do que a OMS?
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As [emendas](https://www.trialsitenews.com/a/trust-and-transparency-what-the-ihr-proposals-tell-us-about-the-state-of-the-who-089a5c8f) da Organização Mundial da Saúde (OMS) [ao Regulamento Sanitário Internacional](https://www.trialsitenews.com/a/trust-and-transparency-what-the-ihr-proposals-tell-us-about-the-state-of-the-who-089a5c8f) e seu [novo Tratado Pandêmico](https://www.trialsitenews.com/a/more-questions-than-answers-the-fifth-who-pandemic-treaty-meeting-54fd576f) proposto estão no centro do interesse de uma abordagem de saúde centralizada e controversa. 
 

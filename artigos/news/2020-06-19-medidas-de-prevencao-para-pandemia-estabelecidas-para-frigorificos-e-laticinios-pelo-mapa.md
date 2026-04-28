@@ -1,11 +1,13 @@
 ---
-title: "Medidas de prevenção para pandemia estabelecidas para frigoríficos e laticínios pelo Mapa"
+title: Medidas de prevenção para pandemia estabelecidas para frigoríficos e laticínios
+  pelo Mapa
 date: 2020-06-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é garantir a segurança e a saúde dos trabalhadores, o abastecimento alimentar da população, os empregos e a atividade econômica.
 

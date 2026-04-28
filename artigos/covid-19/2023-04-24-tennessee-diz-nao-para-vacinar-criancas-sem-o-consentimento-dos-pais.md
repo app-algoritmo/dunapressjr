@@ -1,12 +1,13 @@
 ---
-title: "Tennessee diz 'não' para vacinar crianças sem o consentimento dos pais"
+title: Tennessee diz 'não' para vacinar crianças sem o consentimento dos pais
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Durante a campanha de vacinação COVID-19 do Tennessee, o Departamento de Saúde do estado invocou a “doutrina do 'menor maduro'” para permitir que menores de 14 anos ou mais sejam vacinados sem o consentimento dos pais, mas os legisladores aprovaram na quinta-feira uma lei exigindo que os profissionais de saúde obtenham o consentimento de um dos pais ou responsável legal antes de vacinar um menor.
 

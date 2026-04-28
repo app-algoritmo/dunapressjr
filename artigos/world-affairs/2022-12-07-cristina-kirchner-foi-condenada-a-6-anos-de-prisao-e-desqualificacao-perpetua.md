@@ -1,11 +1,12 @@
 ---
-title: "Cristina Kirchner foi condenada a 6 anos de prisão e desqualificação perpétua"
+title: Cristina Kirchner foi condenada a 6 anos de prisão e desqualificação perpétua
 date: 2022-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Após um longo processo judicial iniciado em 2019, Cristina Kirchner foi condenada por fraudar fundos públicos.
 

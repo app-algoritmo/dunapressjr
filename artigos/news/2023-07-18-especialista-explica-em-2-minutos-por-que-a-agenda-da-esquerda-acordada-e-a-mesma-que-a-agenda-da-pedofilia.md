@@ -1,11 +1,13 @@
 ---
-title: "Especialista explica em 2 minutos por que a agenda da esquerda acordada é a mesma que a agenda da pedofilia"
+title: Especialista explica em 2 minutos por que a agenda da esquerda acordada é a
+  mesma que a agenda da pedofilia
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Durante uma entrevista sobre o filme Sound of Freedom, Tim Ballard falou sobre a organização do pedoativista holandês Nelson Maatman, que foi preso na Cidade do México no ano passado.
 

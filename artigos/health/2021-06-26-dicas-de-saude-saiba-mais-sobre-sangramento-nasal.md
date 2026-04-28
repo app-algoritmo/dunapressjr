@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Saiba mais sobre sangramento nasal"
+title: 'Dicas de Saúde: Saiba mais sobre sangramento nasal'
 date: 2021-06-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pelo menos uma vez na vida, 60% das pessoas terão sangramento nasal (epistaxe, em linguagem médica). Ocorre mais comumente nas crianças com menos de 10 anos e em adultos com mais de 35.
 

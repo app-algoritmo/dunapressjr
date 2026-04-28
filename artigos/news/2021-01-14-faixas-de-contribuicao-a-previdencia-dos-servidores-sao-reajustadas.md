@@ -1,11 +1,12 @@
 ---
-title: "Faixas de contribuição à Previdência dos servidores são reajustadas"
+title: Faixas de contribuição à Previdência dos servidores são reajustadas
 date: 2021-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Atualização é feita todos os anos, com base no INPC do ano anterior.
 

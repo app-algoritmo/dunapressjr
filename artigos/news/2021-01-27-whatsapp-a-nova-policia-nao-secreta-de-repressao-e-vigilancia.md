@@ -1,11 +1,12 @@
 ---
-title: "Whatsapp, a nova polícia não secreta de repressão e vigilância"
+title: Whatsapp, a nova polícia não secreta de repressão e vigilância
 date: 2021-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## **A plataforma whatsapp pertencente ao grupo facebook notifica que pode reter informações do usuário "para tratar de questões legais, violações de condições ou iniciativas de prevenção de danos".**
 

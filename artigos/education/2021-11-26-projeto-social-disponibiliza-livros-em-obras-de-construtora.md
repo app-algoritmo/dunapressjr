@@ -1,11 +1,12 @@
 ---
-title: "Projeto social disponibiliza livros em obras de construtora"
+title: Projeto social disponibiliza livros em obras de construtora
 date: 2021-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A desigualdade econômica e social é um problema crônico no país e manifesta-se diretamente em direitos básicos de cidadania, como acesso aos livros literários e pedagógicos. Esse histórico negativo reflete em diversos problemas, tais como analfabetismo funcional e baixo índice de leitura. Tanto é que a 5.ª edição da pesquisa "Retratos da Leitura no Brasil", realizada pelo Instituto Pró-Livro (IPL), já indicava que a quantidade de leitores no país caiu de 56% em 2015 para 52% em 2019. "Leitor", de acordo com a definição da pesquisa, é quem leu pelo menos um livro, inteiro ou em partes, nos últimos três meses. Já "não leitor" é quem declarou não ter lido nenhum livro nos últimos três meses. O estudo é feito a cada quatro anos, desde 2007.
 

@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança do Empresário Industrial (ICEI) aponta avanço e indica otimismo no setor"
+title: Índice de Confiança do Empresário Industrial (ICEI) aponta avanço e indica
+  otimismo no setor
 date: 2023-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador da CNI registra aumento de 2,1 pontos, afastando-se da marca crítica de 50 pontos, enquanto empresários expressam expectativas mais positivas.
 

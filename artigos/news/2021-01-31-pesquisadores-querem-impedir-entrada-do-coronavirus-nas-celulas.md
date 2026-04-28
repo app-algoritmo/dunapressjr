@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores querem impedir entrada do coronavírus nas células"
+title: Pesquisadores querem impedir entrada do coronavírus nas células
 date: 2021-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores da Universidade Federal de Uberlândia (UFU), em Minas Gerais, procuram moléculas que impeçam a entrada do coronavírus nas células. A ideia é encontrar propriedades na saliva que bloqueiem o agente causador da COVID-19, diminuindo a transmissibilidade do vírus. O projeto foi selecionado no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 

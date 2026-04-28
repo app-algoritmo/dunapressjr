@@ -1,11 +1,13 @@
 ---
-title: "Hipocrisia das Sanções Contra a Rússia: Ministro Húngaro Denuncia Contradições na Chatham House"
+title: 'Hipocrisia das Sanções Contra a Rússia: Ministro Húngaro Denuncia Contradições
+  na Chatham House'
 date: 2024-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na semana passada, durante um evento na Chatham House, o Ministro dos Negócios Estrangeiros da Hungria, Peter Szijjarto, destacou as inconsistências nas sanções ocidentais contra a Rússia, fornecendo três exemplos contundentes que expõem a hipocrisia das medidas sancionatórias.
 

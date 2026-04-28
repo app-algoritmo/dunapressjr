@@ -1,11 +1,12 @@
 ---
-title: "Paraguai poderá ser um dos pólos mais competitivos do Mercosul em matéria têxtil"
+title: Paraguai poderá ser um dos pólos mais competitivos do Mercosul em matéria têxtil
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Empresários do setor têxtil do Brasil, mostraram-se interessados ​​em aumentar o investimento no setor no país, conforme comentou o ministro da Indústria e Comércio, Javier Giménez, ao final do encontro com representantes do Grupo Soma .
 

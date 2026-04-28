@@ -1,11 +1,12 @@
 ---
-title: "Produção da indústria brasileira recua 0,6% em agosto, diz IBGE"
+title: Produção da indústria brasileira recua 0,6% em agosto, diz IBGE
 date: 2022-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice eliminou avanço de 0,6% registrado em julho.
 

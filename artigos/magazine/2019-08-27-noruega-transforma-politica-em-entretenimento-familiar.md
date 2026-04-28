@@ -1,11 +1,12 @@
 ---
-title: "Noruega transforma política em entretenimento familiar"
+title: Noruega transforma política em entretenimento familiar
 date: 2019-08-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Candidatos a prefeito se encontram para uma batalha no reality show "The Club Fight" da NRK.
 

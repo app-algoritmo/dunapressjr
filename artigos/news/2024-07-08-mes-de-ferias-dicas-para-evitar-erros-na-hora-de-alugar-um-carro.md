@@ -1,11 +1,12 @@
 ---
-title: "Mês de Férias: dicas para evitar erros na hora de alugar um carro"
+title: 'Mês de Férias: dicas para evitar erros na hora de alugar um carro'
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Especialista orienta sobre o que checar ao sair da locadora e traz dicas para economizar na escolha do veículo ideal para sua viagem.
 

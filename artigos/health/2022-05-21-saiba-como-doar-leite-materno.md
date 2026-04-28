@@ -1,11 +1,12 @@
 ---
-title: "Saiba como doar leite materno"
+title: Saiba como doar leite materno
 date: 2022-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 - Preparo do frasco para guardar o leite materno:Lave um frasco de vidro de boca larga com tampa de plástico (do tipo café solúvel), retirando o rótulo e o papel de dentro da tampa.
 - Coloque o frasco e a tampa em uma panela, cobrindo-os com água.

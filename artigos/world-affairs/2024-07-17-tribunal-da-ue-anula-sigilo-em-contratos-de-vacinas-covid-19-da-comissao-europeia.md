@@ -1,11 +1,12 @@
 ---
-title: "Tribunal da UE Anula Sigilo em Contratos de Vacinas Covid-19 da Comissão Europeia"
+title: Tribunal da UE Anula Sigilo em Contratos de Vacinas Covid-19 da Comissão Europeia
 date: 2024-07-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os contratos assinados pela Comissão Europeia para a compra de vacinas contra a Covid-19 contêm irregularidades significativas, especialmente a decisão de Bruxelas de manter várias seções desses contratos em sigilo. Entre as partes cobertas pelo segredo, estão as cláusulas que definem as responsabilidades das empresas farmacêuticas por quaisquer danos resultantes da administração das vacinas.
 

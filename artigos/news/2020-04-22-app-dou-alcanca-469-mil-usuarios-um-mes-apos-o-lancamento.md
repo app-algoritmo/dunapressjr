@@ -1,11 +1,12 @@
 ---
-title: "App DOU alcança 46,9 mil usuários um mês após o lançamento"
+title: App DOU alcança 46,9 mil usuários um mês após o lançamento
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lançado no dia 16 de março de 2020, o aplicativo para dispositivos móveis do Diário Oficial da União teve quase 47 mil instalações em seu primeiro mês de existência. O app DOU, disponível nas lojas online Google Play e App Store, já foi baixado por 27,6 mil usuários do sistema operacional Android e 19,3mil do sistema operacional iOS.
 

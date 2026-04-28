@@ -1,11 +1,12 @@
 ---
-title: "Tucker Carlson: A Guerra Espiritual e a Ameaça da Terceira Guerra Mundial"
+title: 'Tucker Carlson: A Guerra Espiritual e a Ameaça da Terceira Guerra Mundial'
 date: 2024-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Reflexões Profundas em Podcast com Shawn Ryan.
 

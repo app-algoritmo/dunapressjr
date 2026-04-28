@@ -1,11 +1,13 @@
 ---
-title: "É falso que a Justiça Eleitoral esteja cancelando título de quem tem mais de 70 anos"
+title: É falso que a Justiça Eleitoral esteja cancelando título de quem tem mais de
+  70 anos
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Começaram a ser propagadas postagens pelas redes sociais com mensagens falsas afirmando que a Justiça Eleitoral (JE) estaria cancelando o título de eleitor de quem tem mais de 70 anos. O conteúdo informa que uma pessoa teria tirado uma certidão negativa no cartório eleitoral e que, no rodapé da página do documento, constava que a inscrição eleitoral do requerente havia sido cancelada.
 

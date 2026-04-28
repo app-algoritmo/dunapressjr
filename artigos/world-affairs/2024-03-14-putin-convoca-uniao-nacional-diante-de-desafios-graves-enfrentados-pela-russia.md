@@ -1,11 +1,12 @@
 ---
-title: "Putin convoca união nacional diante de desafios graves enfrentados pela Rússia"
+title: Putin convoca união nacional diante de desafios graves enfrentados pela Rússia
 date: 2024-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, fez um apelo enfático à consolidação nacional em meio aos desafios significativos que a Rússia enfrenta em todas as esferas. Em um discurso em vídeo antes das eleições presidenciais, Putin destacou a necessidade premente de unidade para superar os obstáculos à frente.
 

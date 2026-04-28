@@ -1,11 +1,13 @@
 ---
-title: "The Magnitsky Sanctions on Alexandre de Moraes: Imposition and Revocation in 2025"
+title: 'The Magnitsky Sanctions on Alexandre de Moraes: Imposition and Revocation
+  in 2025'
 date: 2025-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - International Relations
+- International Relations
 ---
+
 
 ## Alexandre de Moraes Magnitsky Sanctions: Imposition and Revocation in 2025
 

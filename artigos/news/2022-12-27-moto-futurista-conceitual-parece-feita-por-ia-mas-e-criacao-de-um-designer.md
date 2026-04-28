@@ -1,12 +1,13 @@
 ---
-title: "Moto futurista conceitual parece feita por IA, mas é criação de um designer"
+title: Moto futurista conceitual parece feita por IA, mas é criação de um designer
 date: 2022-12-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 ## Moto conceitual tem um design realmente impressionante, mas possivelmente nunca será produzida.
 

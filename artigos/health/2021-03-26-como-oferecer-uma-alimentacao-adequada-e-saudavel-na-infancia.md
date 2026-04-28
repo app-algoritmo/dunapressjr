@@ -1,11 +1,12 @@
 ---
-title: "Como oferecer uma alimentação adequada e saudável na infância"
+title: Como oferecer uma alimentação adequada e saudável na infância
 date: 2021-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A obesidade infantil é um problema de saúde pública que pode provocar várias consequências para o futuro, como o surgimento de doenças crônicas, como diabetes e hipertensão, entre outros. Mas como oferecer uma alimentação adequada e saudável para as crianças que hoje possuem um universo enorme de ofertas de alimentos?
 

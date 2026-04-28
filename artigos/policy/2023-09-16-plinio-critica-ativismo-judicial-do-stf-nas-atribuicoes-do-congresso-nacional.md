@@ -1,11 +1,12 @@
 ---
-title: "Plínio critica ativismo judicial do STF nas atribuições do Congresso Nacional"
+title: Plínio critica ativismo judicial do STF nas atribuições do Congresso Nacional
 date: 2023-09-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) criticou em pronunciamento no Plenário nesta terça-feira (13) o que considera ser ativismo judicial dos ministros do Supremo Tribunal Federal (STF). Ele explicou que há uma constante interferência daquela Corte na autonomia do Poder Legislativo ao decidir sobre matérias que são da competência do Congresso Nacional.
 

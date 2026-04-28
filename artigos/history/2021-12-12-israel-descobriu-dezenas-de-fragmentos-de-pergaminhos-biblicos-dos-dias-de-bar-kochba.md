@@ -1,11 +1,13 @@
 ---
-title: "Israel descobriu dezenas de fragmentos de pergaminhos bíblicos dos dias de Bar Kochba"
+title: Israel descobriu dezenas de fragmentos de pergaminhos bíblicos dos dias de
+  Bar Kochba
 date: 2021-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Entre os achados: fragmentos de pergaminhos dos livros da Bíblia, o esqueleto de uma menina de 6.000 anos e a cesta completa mais antiga do mundo.
 

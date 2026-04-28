@@ -1,11 +1,12 @@
 ---
-title: "Mais de 138 mil novas urnas foram entregues para 2024, diz TSE"
+title: Mais de 138 mil novas urnas foram entregues para 2024, diz TSE
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Desde o início da atual gestão, tribunal julgou 3.498 processos.
 

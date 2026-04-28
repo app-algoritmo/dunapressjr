@@ -1,11 +1,13 @@
 ---
-title: "Lei cria programa de combate ao assédio sexual nas escolas e na administração pública"
+title: Lei cria programa de combate ao assédio sexual nas escolas e na administração
+  pública
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicada no Diário Oficial da União desta terça-feira (4), a lei prevê a implementação do programa em todos os órgãos públicos federais, estaduais e municipais, nas escolas de ensino médio, nas universidades e nas empresas privadas que prestam serviços públicos.
 

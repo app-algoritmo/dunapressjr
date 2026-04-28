@@ -1,11 +1,13 @@
 ---
-title: "Desembargador ordena sequestro de R$ 134,2 milhões de 30 denunciados da Operação Calvário"
+title: Desembargador ordena sequestro de R$ 134,2 milhões de 30 denunciados da Operação
+  Calvário
 date: 2020-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O desembargador Ricardo Vital de Almeida, relator da Operação Calvário no Tribunal de Justiça da Paraíba, deferiu pedido do Ministério Público estadual e decretou o sequestro (indisponibilidade) de dinheiro, valores e ativos financeiros, através do Sistema Bacen-Jud, em face de 30 dos 35 denunciados pelo MPPB. A medida visa garantir, em caso de eventual condenação, a reparação dos danos morais coletivos ocasionados pelo delito objeto da denúncia, em torno de R$ 134,2 milhões.
 

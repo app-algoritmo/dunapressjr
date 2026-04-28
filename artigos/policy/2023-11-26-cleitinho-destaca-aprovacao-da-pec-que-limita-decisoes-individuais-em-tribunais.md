@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho destaca aprovação da PEC que limita decisões individuais em tribunais"
+title: Cleitinho destaca aprovação da PEC que limita decisões individuais em tribunais
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) afirmou que o Senado fez história ao aprovar, na quarta-feira (22), a proposta que limita decisões monocráticas (individuais) no Supremo Tribunal Federal (STF) e outros tribunais superiores ([PEC 8/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148030)). Em pronunciamento, também na quarta, o parlamentar destacou que a PEC é de suma importância e que as decisões monocráticas do STF afetam negativamente o povo brasileiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Taxa de desocupação estável e população desocupada reduzida"
+title: 'IBGE: Taxa de desocupação estável e população desocupada reduzida'
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do trimestre de fevereiro a abril de 2023 mostram estabilidade na taxa de desocupação e queda significativa na população desocupada.
 

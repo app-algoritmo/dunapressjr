@@ -1,11 +1,12 @@
 ---
-title: "Volume de serviços cresce 0,6% de dezembro para janeiro"
+title: Volume de serviços cresce 0,6% de dezembro para janeiro
 date: 2021-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Informação é de pesquisa do IBGE.
 

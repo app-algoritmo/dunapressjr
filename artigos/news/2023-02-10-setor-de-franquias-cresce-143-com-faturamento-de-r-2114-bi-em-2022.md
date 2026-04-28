@@ -1,11 +1,12 @@
 ---
-title: "Setor de franquias cresce 14,3% com faturamento de R$ 211,4 bi em 2022"
+title: Setor de franquias cresce 14,3% com faturamento de R$ 211,4 bi em 2022
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são da Associação Brasileira de Franchising.
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal emite Nota à Imprensa acerca de oitiva de Ex Ministro Moro"
+title: Polícia Federal emite Nota à Imprensa acerca de oitiva de Ex Ministro Moro
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - A Polícia Federal esclarece que realiza, hoje (02/5), diligência no âmbito do inquérito nº 4.831, em tramitação no Supremo Tribunal Federal - STF.
 

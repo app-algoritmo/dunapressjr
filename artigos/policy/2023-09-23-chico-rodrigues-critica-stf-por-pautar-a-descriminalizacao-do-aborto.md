@@ -1,11 +1,12 @@
 ---
-title: "Chico Rodrigues critica STF por pautar a descriminalização do aborto"
+title: Chico Rodrigues critica STF por pautar a descriminalização do aborto
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR) criticou nesta quarta-feira (20) o Supremo Tribunal Federal (STF) depois que a presidente da corte, ministra Rosa Weber, marcou para essa sexta-feira (22) o julgamento da ação movida pelo PSOL que trata da descriminalização do aborto até a 12ª semana da gravidez. Na opinião do senador, trata-se de mais uma interferência direta do STF no Poder Legislativo, fato que ele ressaltou estar se tornando cada vez mais comum em diversas questões de interesse nacional.
 

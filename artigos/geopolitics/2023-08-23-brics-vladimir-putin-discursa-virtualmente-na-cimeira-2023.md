@@ -1,13 +1,14 @@
 ---
-title: "Brics: Vladimir Putin, discursa virtualmente na cimeira 2023"
+title: 'Brics: Vladimir Putin, discursa virtualmente na cimeira 2023'
 date: 2023-08-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - News
-  - World Affairs
+- Geopolitics
+- News
+- World Affairs
 ---
+
 
 **Líderes do BRICS se Reúnem para Cúpula: Presença Virtual de Putin Marca o Evento**
 

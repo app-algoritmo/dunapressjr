@@ -1,11 +1,12 @@
 ---
-title: "Máquina diferencial de Babbage"
+title: Máquina diferencial de Babbage
 date: 2019-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Da série: “50 máquinas que mudaram o rumo história”. Chegamos na sétima que tem uma diferença em relação às demais já citadas, ela não foi  construída pelo seu inventor, Charles Babbage (1791-1871).  Uma versão completamente fiel a sua Máquina Diferencial N°2, só seria desenvolvida no século XX, quando o Museu Nacional de Londres encomendou uma máquina em funcionamento para as comemorações do bicentenário de nascimento de Babbage em 1991.  .
 

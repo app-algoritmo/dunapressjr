@@ -1,11 +1,12 @@
 ---
-title: "GRID 2021: Sérgio Pérez fora da Racing Point: Vettel está chegando?"
+title: 'GRID 2021: Sérgio Pérez fora da Racing Point: Vettel está chegando?'
 date: 2020-09-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 **2021 está chegando e a pergunta que não quer calar é? Qual será o destino de cada piloto?**
 

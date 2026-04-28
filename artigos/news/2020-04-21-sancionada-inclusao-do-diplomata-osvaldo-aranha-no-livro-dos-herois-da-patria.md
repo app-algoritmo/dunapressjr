@@ -1,11 +1,12 @@
 ---
-title: "Sancionada inclusão do diplomata Osvaldo Aranha no Livro dos Heróis da Pátria"
+title: Sancionada inclusão do diplomata Osvaldo Aranha no Livro dos Heróis da Pátria
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi sancionada na última sexta-feira (17) a lei que inclui o diplomata e político Osvaldo Aranha no Livro dos Heróis e Heroínas da Pátria ([Lei 13991/20](http://www2.camara.gov.br/legin/fed/lei/2020/lei-13991-17-abril-2020-790080-norma-pl.html)). Com isso, ele passa a figurar ao lado nomes como Tiradentes, Santos Dumont, Machado de Assis, Zumbi dos Palmares, Anita Garibaldi e Zuzu Angel. O livro fica guardado no Panteão da Pátria e da Liberdade Tancredo Neves, na praça dos Três Poderes, em Brasília.
 

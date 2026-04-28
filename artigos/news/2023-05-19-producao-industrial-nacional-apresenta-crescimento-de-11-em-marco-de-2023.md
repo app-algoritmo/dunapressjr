@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial nacional apresenta crescimento de 1,1% em março de 2023"
+title: Produção industrial nacional apresenta crescimento de 1,1% em março de 2023
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Onze dos quinze locais pesquisados apresentaram taxas positivas, impulsionando o avanço da indústria nacional no primeiro trimestre do ano.
 

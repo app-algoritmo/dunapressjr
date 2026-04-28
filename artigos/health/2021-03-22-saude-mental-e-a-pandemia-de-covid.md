@@ -1,11 +1,12 @@
 ---
-title: "Saúde mental e a pandemia de Covid"
+title: Saúde mental e a pandemia de Covid
 date: 2021-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Em janeiro de 2020, a Organização Mundial da Saúde (OMS) declarou o surgimento de uma nova doença provocada por um vírus do tipo coronavírus - a Covid-19. Foi considerada uma emergência de saúde pública de interesse internacional, com alto risco de se espalhar para outros países ao redor do mundo. Em março de 2020, a OMS avaliou que a Covid-19 caracterizava-se como uma pandemia.
 

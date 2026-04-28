@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro será preso em questão de semanas"
+title: Bolsonaro será preso em questão de semanas
 date: 2022-11-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O jornalista Rodrigo Constantino faz prognóstico e prevê prisão de Jair Bolsonaro em questão de semanas. Veja o vídeo: 
 

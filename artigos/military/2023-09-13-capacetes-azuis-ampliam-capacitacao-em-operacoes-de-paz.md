@@ -1,11 +1,12 @@
 ---
-title: "Capacetes Azuis ampliam capacitação em Operações de Paz"
+title: Capacetes Azuis ampliam capacitação em Operações de Paz
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Militares que integrarão missões das Nações Unidas realizaram o Curso de Gestão Ambiental em Operações de Paz, de 28 de agosto a 8 de setembro. Os futuros capacetes azuis receberam instruções relacionadas à consciência e preservação ambiental, e a seus deveres ambientais em missões de caráter multidimensional. Foram enfatizados os casos envolvendo catástrofes e desastres naturais. 
 

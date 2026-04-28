@@ -1,11 +1,12 @@
 ---
-title: "Caged: país registra saldo de 277 mil novas vagas formais de trabalho"
+title: 'Caged: país registra saldo de 277 mil novas vagas formais de trabalho'
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### São Paulo foi o estado com maior número de novos postos.
 

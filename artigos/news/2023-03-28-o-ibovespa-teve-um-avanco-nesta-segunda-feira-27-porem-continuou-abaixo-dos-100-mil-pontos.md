@@ -1,11 +1,13 @@
 ---
-title: "O Ibovespa teve um avanço nesta segunda-feira (27), porém, continuou abaixo dos 100 mil pontos"
+title: O Ibovespa teve um avanço nesta segunda-feira (27), porém, continuou abaixo
+  dos 100 mil pontos
 date: 2023-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercado externo também fechou o dia em alta.
 

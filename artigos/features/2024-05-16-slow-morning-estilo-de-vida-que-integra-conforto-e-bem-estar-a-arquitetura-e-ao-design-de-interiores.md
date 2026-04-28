@@ -1,11 +1,13 @@
 ---
-title: "Slow morning: estilo de vida que integra conforto e bem-estar à arquitetura e ao design de interiores"
+title: 'Slow morning: estilo de vida que integra conforto e bem-estar à arquitetura
+  e ao design de interiores'
 date: 2024-05-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Arquiteta da A.Yoshii explica o uso do estilo "desacelerado" nos novos empreendimentos e na decoração, com foco em sustentabilidade, equilíbrio e viver bem.
 

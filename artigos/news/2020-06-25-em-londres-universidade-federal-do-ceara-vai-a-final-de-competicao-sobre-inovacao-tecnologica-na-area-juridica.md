@@ -1,11 +1,13 @@
 ---
-title: "Em Londres, Universidade Federal do Ceará vai à final de competição sobre inovação tecnológica na área jurídica"
+title: Em Londres, Universidade Federal do Ceará vai à final de competição sobre inovação
+  tecnológica na área jurídica
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Uma equipe formada por estudantes da Universidade Federal do Ceará e de outras instituições parceiras, sob coordenação do Centro de Empreendedorismo (CEMP) da UFC, conquistou uma vaga na final do [Global Legal Hackathon (GLH))](https://globallegalhackathon.com/), maior competição de inovação em tecnologia da área jurídica do mundo. O evento ocorrerá em Londres, em data a ser definida de acordo com o contexto da pandemia de covid-19.
 

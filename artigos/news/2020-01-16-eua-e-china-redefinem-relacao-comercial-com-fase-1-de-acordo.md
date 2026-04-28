@@ -1,11 +1,12 @@
 ---
-title: "EUA e China redefinem relação comercial com 'Fase 1' de acordo"
+title: EUA e China redefinem relação comercial com 'Fase 1' de acordo
 date: 2020-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os Estados Unidos e a China anunciaram nesta quarta-feira(15) um acordo comercial inicial que irá reduzir algumas tarifas e aumentar as compras chinesas de bens e serviços dos EUA, aliviando um conflito de 18 meses entre as duas maiores economias do mundo.
 

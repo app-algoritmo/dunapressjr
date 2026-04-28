@@ -1,11 +1,12 @@
 ---
-title: "José Mauro Coelho pede demissão do cargo de presidente da Petrobras"
+title: José Mauro Coelho pede demissão do cargo de presidente da Petrobras
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ele também renunciou ao cargo de membro do Conselho de Administração.
 

@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Estudo desmascara o mito de que sua vida depende da vacina"
+title: 'Covid-19: Estudo desmascara o mito de que sua vida depende da vacina'
 date: 2023-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## 9 em cada 10 mortes em um período de 2 anos estão entre aqueles que são vacinados regularmente.
 

@@ -1,11 +1,13 @@
 ---
-title: "Especialista em Psicologia explica significado da perseverança em momentos difíceis para a humanidade"
+title: Especialista em Psicologia explica significado da perseverança em momentos
+  difíceis para a humanidade
 date: 2021-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Perseverança. Essa foi a palavra mais buscada no Dicionário Cambridge, um dos mais importantes da língua inglesa no mundo. Procurado mais de 243 mil vezes no site do dicionário em 2021, o termo é definido como "esforço contínuo para fazer ou alcançar algo, mesmo quando isso é difícil ou leva muito tempo”. Em um momento tão complexo da história humana, as buscas por um termo positivo como esse são significativas, do ponto de vista psicológico. 
 

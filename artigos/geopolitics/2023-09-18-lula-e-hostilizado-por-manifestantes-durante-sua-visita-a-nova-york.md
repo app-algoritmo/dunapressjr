@@ -1,11 +1,12 @@
 ---
-title: "Lula é Hostilizado por Manifestantes durante Sua Visita a Nova York"
+title: Lula é Hostilizado por Manifestantes durante Sua Visita a Nova York
 date: 2023-09-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente da república Luiz Inácio Lula da Silva, conhecido simplesmente como Lula, enfrentou um momento tenso durante sua chegada à cidade de Nova York neste 17 de setembro. Enquanto está nos Estados Unidos para participar de uma série de eventos e encontros, Lula foi alvo de protestos e hostilidades por parte de manifestantes contrários ao seu governo e às políticas do Partido dos Trabalhadores (PT).
 

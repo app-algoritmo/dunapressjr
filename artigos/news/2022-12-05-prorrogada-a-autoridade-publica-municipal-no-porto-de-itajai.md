@@ -1,11 +1,12 @@
 ---
-title: "Prorrogada a Autoridade Pública Municipal no Porto de Itajaí"
+title: Prorrogada a Autoridade Pública Municipal no Porto de Itajaí
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A prorrogação por até dois anos da Autoridade Pública e Municipal no Porto de Itajaí ocorreu nesta quinta-feira (01). O ato foi realizado no gabinete da Secretaria Nacional de Portos e Transportes Aquaviários, em Brasília, a pedido do Ministério da Infraestrutura e Transportes Aquaviários. 
 

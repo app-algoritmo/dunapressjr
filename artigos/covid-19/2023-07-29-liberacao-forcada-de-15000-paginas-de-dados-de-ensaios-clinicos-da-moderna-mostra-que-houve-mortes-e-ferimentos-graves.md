@@ -1,11 +1,13 @@
 ---
-title: "Liberação forçada de 15.000 páginas de dados de ensaios clínicos da Moderna mostra que houve mortes e ferimentos graves"
+title: Liberação forçada de 15.000 páginas de dados de ensaios clínicos da Moderna
+  mostra que houve mortes e ferimentos graves
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O grupo de defesa conservador Defending the Republic (DTR) obteve quase 15.000 páginas de dados de ensaios clínicos para a vacina COVID-19 da Moderna e afirma que os dados mostram uma "completa falta de rigor" nos ensaios e a segurança da vacina está "seriamente em dúvida". " puxar.
 

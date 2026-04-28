@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas aplicam esforços na Operação COVID-19 por todo o país"
+title: Forças Armadas aplicam esforços na Operação COVID-19 por todo o país
 date: 2020-04-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas empregam, diariamente, esforços no combate à Covid-19. Marinha, Exército e Aeronáutica unidos em missão inédita, contra uma pandemia no Brasil, articulados em 10 Comandos Conjuntos espalhados pelo país. Até o momento, o efetivo envolvido é de 28 mil militares, utilizando-se de 816 viaturas, 71 embarcações e 26 aeronaves.
 

@@ -1,11 +1,12 @@
 ---
-title: "Proposta de lei prevê classificação 'verde' para atividades sustentáveis"
+title: Proposta de lei prevê classificação 'verde' para atividades sustentáveis
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2838/22 determina uma classificação para as atividades econômicas sustentáveis com o objetivo de proteger os investidores do *greenwashing* ou “lavagem verde”, que ocorre quando negócios, discursos e ações se dizem sustentáveis, mas na prática não o são.
 

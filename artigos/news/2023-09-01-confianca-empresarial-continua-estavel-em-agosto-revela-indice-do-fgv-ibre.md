@@ -1,11 +1,12 @@
 ---
-title: "Confiança empresarial continua estável em agosto, revela índice do FGV IBRE"
+title: Confiança empresarial continua estável em agosto, revela índice do FGV IBRE
 date: 2023-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar do crescimento de 0,8 pontos, índice ainda se mantém abaixo do nível neutro, indicando desafios no horizonte.
 

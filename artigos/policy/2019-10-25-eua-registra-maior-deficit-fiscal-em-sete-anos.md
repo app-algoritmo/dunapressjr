@@ -1,11 +1,12 @@
 ---
-title: "EUA registra maior déficit fiscal em sete anos"
+title: EUA registra maior déficit fiscal em sete anos
 date: 2019-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O déficit orçamentário dos Estados Unidos disparou a quase 1
 trilhão de dólares no ano fiscal de 2019, enquanto a dívida do governo cresceu

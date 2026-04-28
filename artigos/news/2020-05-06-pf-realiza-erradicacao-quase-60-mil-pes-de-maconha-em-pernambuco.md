@@ -1,11 +1,12 @@
 ---
-title: "PF realiza erradicação quase 60 mil pés de maconha em Pernambuco"
+title: PF realiza erradicação quase 60 mil pés de maconha em Pernambuco
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Salgueiro/PE – A Polícia Federal deflagrou, entre os dias 27 de abril e 4 de maio, a Operação Muçambé II, para erradicar 57 mil pés de maconha e apreendeu 88 kg da droga pronta para o consumo, em Salgueiro/PE.  Esse trabalho vem promovendo ações de identificação e consequente erradicação de plantios de maconha no sertão pernambucano. Tais medidas fazem parte das estratégias adotadas PF, com o objetivo de reduzir a produção e oferta de maconha no sertão Pernambucano.
 

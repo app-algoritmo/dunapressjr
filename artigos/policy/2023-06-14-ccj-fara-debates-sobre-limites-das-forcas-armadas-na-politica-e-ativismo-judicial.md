@@ -1,11 +1,12 @@
 ---
-title: "CCJ fará debates sobre limites das Forças Armadas na política e ativismo judicial"
+title: CCJ fará debates sobre limites das Forças Armadas na política e ativismo judicial
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados aprovou a realização de dois seminários sobre os seguintes temas: “Forças Armadas e a Política: limites constitucionais” e “Ativismo Judicial e a legitimidade democrática”. Os eventos foram sugeridos pelo presidente do colegiado, deputado Rui Falcão (PT-SP), e serão realizados em julho e dezembro.
 

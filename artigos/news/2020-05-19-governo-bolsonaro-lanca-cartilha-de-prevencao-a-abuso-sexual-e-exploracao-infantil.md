@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança cartilha de prevenção a abuso sexual e exploração infantil"
+title: Governo Bolsonaro lança cartilha de prevenção a abuso sexual e exploração infantil
 date: 2020-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Com linguagem didática, material ressalta que pais e responsáveis estejam atentos e saibam como proceder para garantir que seus filhos fiquem seguros.
 

@@ -1,11 +1,13 @@
 ---
-title: "Um bebê morre e oito estão em terapia intensiva após contrair um conjunto 'incomum' de uma infecção normalmente inofensiva"
+title: Um bebê morre e oito estão em terapia intensiva após contrair um conjunto 'incomum'
+  de uma infecção normalmente inofensiva
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Um bebê morreu e oito foram internados em terapia intensiva após uma misteriosa onda de infecções que se acredita ser causada por um vírus normalmente inofensivo.
 

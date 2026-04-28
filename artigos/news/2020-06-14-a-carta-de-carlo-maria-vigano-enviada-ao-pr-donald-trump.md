@@ -1,11 +1,12 @@
 ---
-title: "A carta de Carlo Maria Viganò enviada ao PR Donald Trump"
+title: A carta de Carlo Maria Viganò enviada ao PR Donald Trump
 date: 2020-06-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## "Há uma eterna luta entre o bem e o mal".
 

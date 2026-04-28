@@ -1,11 +1,12 @@
 ---
-title: "Tesouro Direto: investimentos superaram resgates em R$ 1,76 bi em maio"
+title: 'Tesouro Direto: investimentos superaram resgates em R$ 1,76 bi em maio'
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aplicações de até R$ 1 mil representaram 59,99% de todas as operações.
 

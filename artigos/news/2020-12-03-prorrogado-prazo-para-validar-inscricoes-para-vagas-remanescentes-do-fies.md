@@ -1,11 +1,12 @@
 ---
-title: "Prorrogado prazo para validar inscrições para vagas remanescentes do Fies"
+title: Prorrogado prazo para validar inscrições para vagas remanescentes do Fies
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 0s estudantes ganharam mais prazo para a validação das inscrições para as vagas remanescentes do segundo semestre de 2020 do Fundo de Financiamento Estudantil (Fies). Aqueles que se inscreveram para essas vagas, mas cujos prazos já tinham expirado, terão agora até 18 de dezembro para formalizarem os contratos do Fies. A prorrogação foi formalizada pelo Fundo Nacional de Desenvolvimento da Educação (FNDE) por meio de [portaria publicada no Diário Oficial da União (DOU)](https://www.in.gov.br/web/dou/-/portaria-n-710-de-26-de-novembro-de-2020-290845848).
 

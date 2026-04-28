@@ -1,11 +1,12 @@
 ---
-title: "União cobriu R$ 13,26 bilhões de dívidas de estados em 2020"
+title: União cobriu R$ 13,26 bilhões de dívidas de estados em 2020
 date: 2021-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor representa alta de 58,9% em relação ao ano anterior.
 

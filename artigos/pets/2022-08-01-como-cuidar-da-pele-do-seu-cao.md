@@ -1,11 +1,12 @@
 ---
-title: "Como cuidar da pele do seu cão"
+title: Como cuidar da pele do seu cão
 date: 2022-08-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Pets
+- Pets
 ---
+
 
 Para quem tem animal de estimação em casa sabe o quanto a saúde e bem-estar deles são importantes para nós. Procuramos sempre fazer o máximo para que os nossos amigos de quatro patas tenham uma boa qualidade de vida.
 

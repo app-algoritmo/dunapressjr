@@ -1,11 +1,12 @@
 ---
-title: "Inadimplência cai no fim de 2020, apesar de alta no endividamento"
+title: Inadimplência cai no fim de 2020, apesar de alta no endividamento
 date: 2021-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento foi feito pela Confederação Nacional do Comércio.
 

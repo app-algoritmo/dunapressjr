@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa da CNC indica que 76,6% das famílias brasileiras afirmam ter dívidas"
+title: Pesquisa da CNC indica que 76,6% das famílias brasileiras afirmam ter dívidas
 date: 2023-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados da pesquisa de endividamento e inadimplência do consumidor (Peic) mostram redução de 0,5% no índice de endividados em novembro.
 

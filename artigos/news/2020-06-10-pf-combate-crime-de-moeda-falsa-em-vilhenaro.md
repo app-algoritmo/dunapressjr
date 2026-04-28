@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa em Vilhena/RO"
+title: PF combate crime de moeda falsa em Vilhena/RO
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vilhena/RO – Investigação da Policia Federal, com o apoio dos Correios, resultou na prisão de homem responsável pela internalização de notas falsas em Rondônia nesta terça-feira (9/6).
 

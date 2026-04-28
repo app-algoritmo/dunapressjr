@@ -1,11 +1,12 @@
 ---
-title: "Iranianos pedem apoio total à Palestina"
+title: Iranianos pedem apoio total à Palestina
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Líder Supremo da Revolução Islâmica, o Aiatolá Seyyed Ali Kahmenei, apelou ao apoio total à Palestina em meio a uma agressão contínua do regime sionista contra a Faixa de Gaza.
 

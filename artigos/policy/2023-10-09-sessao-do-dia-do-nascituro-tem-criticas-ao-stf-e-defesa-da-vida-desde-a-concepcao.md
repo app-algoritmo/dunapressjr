@@ -1,11 +1,12 @@
 ---
-title: "Sessão do Dia do Nascituro tem críticas ao STF e defesa da vida desde a concepção"
+title: Sessão do Dia do Nascituro tem críticas ao STF e defesa da vida desde a concepção
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A sessão especial do Senado dedicada ao Dia Nacional do Nascituro, promovida nesta quinta-feira (5), foi marcada por protestos contra o julgamento do Supremo Tribunal Federal (STF) que poderá descriminalizar o aborto no primeiro trimestre de gestação. 
 

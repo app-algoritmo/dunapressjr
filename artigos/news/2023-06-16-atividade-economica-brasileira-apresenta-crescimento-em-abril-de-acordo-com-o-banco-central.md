@@ -1,11 +1,13 @@
 ---
-title: "Atividade econômica brasileira apresenta crescimento em abril, de acordo com o Banco Central"
+title: Atividade econômica brasileira apresenta crescimento em abril, de acordo com
+  o Banco Central
 date: 2023-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Índice de Atividade Econômica do Banco Central (IBC-Br) apresentou um crescimento de 0,56%.
 

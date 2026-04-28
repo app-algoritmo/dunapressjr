@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, Noruega confirma 56 casos e lança campanha para crianças"
+title: Coronavírus, Noruega confirma 56 casos e lança campanha para crianças
 date: 2020-03-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Instituto de Saúde Pública confirmou hoje que mais 23 pessoas testaram positivo para coronavírus. Todos os casos ainda podem estar relacionados a surtos no exterior, um dos quais associado ao Irã, um associado a Hong Kong e o restante associado ao surto no norte da Itália. Não há novos casos associados ao surto no Hospital Universitário de Ullevål.
 

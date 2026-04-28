@@ -1,11 +1,12 @@
 ---
-title: "Pagamento da 2ª parcela começa a ser creditado nas poupanças digitais"
+title: Pagamento da 2ª parcela começa a ser creditado nas poupanças digitais
 date: 2020-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Benefício será depositado até o dia 26 de maio para 31 milhões de pessoas.
 

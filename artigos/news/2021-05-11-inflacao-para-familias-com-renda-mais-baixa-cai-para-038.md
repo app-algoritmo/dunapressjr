@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa cai para 0,38%"
+title: Inflação para famílias com renda mais baixa cai para 0,38%
 date: 2021-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## INPC acumula 2,35% no ano e 7,59% em 12 meses.
 

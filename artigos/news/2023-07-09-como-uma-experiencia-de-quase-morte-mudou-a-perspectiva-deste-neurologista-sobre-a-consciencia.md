@@ -1,11 +1,13 @@
 ---
-title: "Como uma experiência de quase morte mudou a perspectiva deste neurologista sobre a consciência"
+title: Como uma experiência de quase morte mudou a perspectiva deste neurologista
+  sobre a consciência
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O neuropatologista Peter Cummings estava convencido de que qualquer coisa que envolvesse a consciência, incluindo experiências de quase morte, poderia ser explicada cientificamente. 
 

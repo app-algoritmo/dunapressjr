@@ -1,12 +1,13 @@
 ---
-title: "O que é e como se tornar protetor dos animais?"
+title: O que é e como se tornar protetor dos animais?
 date: 2024-06-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Em termos simples, o defensor dos animais é **quem defende os direitos dos animais**de maneira ativa: resgatando-os, fornecendo abrigos, cuidado da saúde, provendo amor e tudo o que mais precisarem para terem uma vida de qualidade. Porém, não é tão simples exercer esse papel.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF investiga esquema de fornecimento de mão-de-obra terceirizada para órgãos públicos no RJ"
+title: PF investiga esquema de fornecimento de mão-de-obra terceirizada para órgãos
+  públicos no RJ
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - A Polícia Federal, em conjunto com o Ministério Público Federal, deflagrou nesta manhã, 14/05, a Operação “FAVORITO”, que é um desdobramento das Operações Quinto de Ouro e Cadeia Velha, etapas da Lava Jato no Rio de Janeiro.O objetivo desta fase é investigar grupo capitaneado por empresários que, por meio do pagamento de vantagens indevidas à Conselheiros do Tribunal de Contas do Estado do Rio de Janeiro, Deputados Estaduais e outros agentes públicos, vem há pelo menos 10 anos se destacando como um dos principais fornecedores de mão-de-obra terceirizada para o governo do Estado do Rio de Janeiro e órgãos à ele vinculados.
 

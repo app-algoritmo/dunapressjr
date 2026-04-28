@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão Aeroterrestre de Salvamento (EAS) realiza Manutenção Operacional"
+title: Esquadrão Aeroterrestre de Salvamento (EAS) realiza Manutenção Operacional
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Esquadrão Aeroterrestre de Salvamento (EAS), localizado na Ala 5, Base Aérea de Campo Grande (MS), realizou durante o mês de abril, a Manutenção Operacional por meio de adestramentos, em especial na área de Salto Livre Militar, diurno e noturno. O objetivo é aprimorar a capacidade de infiltração aeroterrestre de seus Destacamentos de Operações Especiais (DOpEsp) e seus elementos de resgate.
 

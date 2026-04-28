@@ -1,11 +1,13 @@
 ---
-title: "Itajaí realiza palestra sobre Inteligência Emocional na próxima sexta-feira (10/6)"
+title: Itajaí realiza palestra sobre Inteligência Emocional na próxima sexta-feira
+  (10/6)
 date: 2022-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Desenvolvimento Econômico e do programa Cidade Empreendedora, realizará na próxima semana uma palestra sobre Inteligência Emocional. A atividade será ministrada por Deborah Caroline Weege Bastos, consultora e instrutora credenciada ao Sebrae desde 2015. A apresentação faz parte da Semana Estadual do Jovem Empreendedor (SEMANAJE), realizada em conjunto com a Associação Empresarial de Itajaí (ACII) e, também, com o Núcleo de Jovens Empreendedores. A palestra ocorrerá na próxima sexta-feira (10), às 19h, no auditório ACII (Rua Hercílio Luz, 381, Centro).
 

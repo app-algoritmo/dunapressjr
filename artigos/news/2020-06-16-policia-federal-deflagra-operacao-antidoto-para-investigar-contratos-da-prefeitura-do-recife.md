@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra Operação antídoto para investigar contratos da Prefeitura do Recife"
+title: Polícia Federal deflagra Operação antídoto para investigar contratos da Prefeitura
+  do Recife
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Recife/PE** - A Polícia Federal deflagrou, hoje (16/6), a Operação Antídoto com o propósito de investigar as contratações diretas emergenciais realizadas pela Secretaria de Saúde da Prefeitura do Recife, no enfrentamento à pandemia do COVID-19.
 

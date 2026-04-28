@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova proposta que cria fundo para desenvolvimento do Maranhão"
+title: Comissão aprova proposta que cria fundo para desenvolvimento do Maranhão
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Integração Nacional e Desenvolvimento Regional da Câmara dos Deputados aprovou o [Projeto de Lei 514/20](https://www.camara.leg.br/noticias/998416-proposta-cria-fundo-para-financiar-empreendimentos-no-maranhao), que cria o Fundo de Desenvolvimento do Estado do Maranhão (FDMA), para financiar projetos com objetivo de reduzir desigualdades regionais e sociais.
 

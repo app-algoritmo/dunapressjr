@@ -1,11 +1,12 @@
 ---
-title: "Ipea prevê cenário positivo para a produção agrícola em 2022"
+title: Ipea prevê cenário positivo para a produção agrícola em 2022
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Perspectiva é de safra recorde para a soja, diz Conab.
 

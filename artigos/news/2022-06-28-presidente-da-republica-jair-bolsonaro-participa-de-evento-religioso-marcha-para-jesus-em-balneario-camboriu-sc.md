@@ -1,11 +1,13 @@
 ---
-title: "Presidente da República, Jair Bolsonaro, participa de evento religioso Marcha para Jesus  em Balneário Camboriú (SC)"
+title: Presidente da República, Jair Bolsonaro, participa de evento religioso Marcha
+  para Jesus  em Balneário Camboriú (SC)
 date: 2022-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente da República, Jair Bolsonaro, participou, na manhã deste sábado (25/06), de Marcha para Jesus, em Balneário Camboriú, Santa Catarina. O evento foi organizado pelo Conselho Estadual de Pastores, com o apoio dos Conselhos Municipais do estado. A expectativa era que cerca de 50 mil pessoas participassem da marcha.
 

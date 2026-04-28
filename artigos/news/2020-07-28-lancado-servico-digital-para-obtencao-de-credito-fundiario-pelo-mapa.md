@@ -1,11 +1,12 @@
 ---
-title: "Lançado serviço digital para obtenção de crédito fundiário pelo Mapa"
+title: Lançado serviço digital para obtenção de crédito fundiário pelo Mapa
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A estimativa é que o serviço permita uma redução do prazo médio de tramitação das propostas de financiamento de 24 meses para aproximadamente seis meses.
 

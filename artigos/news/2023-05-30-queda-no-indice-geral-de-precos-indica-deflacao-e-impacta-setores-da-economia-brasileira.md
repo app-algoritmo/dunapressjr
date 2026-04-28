@@ -1,11 +1,13 @@
 ---
-title: "Queda no Índice Geral de Preços indica deflação e impacta setores da economia brasileira"
+title: Queda no Índice Geral de Preços indica deflação e impacta setores da economia
+  brasileira
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução nos preços das commodities e aumento da deflação influenciam resultados do IGP-M e IPC em maio.
 

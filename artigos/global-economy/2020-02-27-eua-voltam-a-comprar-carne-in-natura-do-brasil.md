@@ -1,11 +1,12 @@
 ---
-title: "EUA voltam a comprar carne in natura do Brasil"
+title: EUA voltam a comprar carne in natura do Brasil
 date: 2020-02-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em comunicado encaminhado ao Ministério da Agricultura, órgãos responsáveis dos EUA informaram que o Brasil corrigiu os problemas sistêmicos que levaram à suspensão
 

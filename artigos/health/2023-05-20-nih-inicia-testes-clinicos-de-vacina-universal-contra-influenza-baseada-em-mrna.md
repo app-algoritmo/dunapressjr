@@ -1,11 +1,13 @@
 ---
-title: "NIH inicia testes clínicos de vacina universal contra influenza baseada em mRNA"
+title: NIH inicia testes clínicos de vacina universal contra influenza baseada em
+  mRNA
 date: 2023-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Os Institutos Nacionais de Saúde (NIH) anunciaram na segunda-feira que começaram a recrutar voluntários para um ensaio clínico de Fase I, testando uma vacina universal contra a gripe baseada na tecnologia de mRNA.
 

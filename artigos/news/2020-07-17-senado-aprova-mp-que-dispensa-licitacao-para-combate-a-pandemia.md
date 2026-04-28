@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova MP que dispensa licitação para combate à pandemia"
+title: Senado aprova MP que dispensa licitação para combate à pandemia
 date: 2020-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Projeto de lei oriundo da medida provisória vai a sanção presidencial.
 

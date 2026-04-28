@@ -1,11 +1,12 @@
 ---
-title: "Dívida global chegará a recorde de US$255 trilhões até o final do ano"
+title: Dívida global chegará a recorde de US$255 trilhões até o final do ano
 date: 2019-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A dívida global ruma para encerrar 2019 no valor recorde de
 mais de 255 trilhões de dólares, estimou o Instituto de Finanças Internacionais

@@ -1,11 +1,12 @@
 ---
-title: "Nota técnica do Depen mostra que o número de presos que estudam aumentou 276%"
+title: Nota técnica do Depen mostra que o número de presos que estudam aumentou 276%
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) divulga nota técnica sobre a evolução dos índices de pessoas presas envolvidas em atividades educacionais nos sistemas prisionais estaduais e Sistema Penitenciário Federal (SPF). O estudo revela que, no período de 2012 a 2019, o número de presos estudantes aumentou 279%. A nota técnica também mostra que 65,9% das unidades prisionais possuem sala de aula e 57,4% possuem biblioteca. Os estados que mais possuem privados de liberdade estudando são: Maranhão com 55,85%, Santa Catarina com 46,87% e Pernambuco com 32,70%.
 

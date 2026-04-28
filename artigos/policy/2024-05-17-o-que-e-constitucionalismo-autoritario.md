@@ -1,11 +1,12 @@
 ---
-title: "O que é constitucionalismo autoritário?"
+title: O que é constitucionalismo autoritário?
 date: 2024-05-17
 status: publish
-author: sabervirtuosodunapress
+author: Saber Virtuoso
 categories:
-  - Policy
+- Policy
 ---
+
 
 A despeito de pouco difundido, ou nem mesmo mencionado, pelos meios de comunicação social ou no debate público em geral, o constitucionalismo autoritário é uma das temáticas mais instigantes do Direito Constitucional, particularmente por aliar a teoria jurídica da Constituição com a investigação da realidade política de Estados que, aparentemente, postam-se como defensores ferrenhos dos ideais democráticos, mas, de forma sub-reptícia, utilizam-se da Constituição para avançar sobre as liberdades individuais de maneira abusiva e autoritária.
 

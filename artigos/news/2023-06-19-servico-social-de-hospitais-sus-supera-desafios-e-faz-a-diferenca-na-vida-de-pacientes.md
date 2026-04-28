@@ -1,11 +1,13 @@
 ---
-title: "Serviço social de hospitais SUS supera desafios e faz a diferença na vida de pacientes"
+title: Serviço social de hospitais SUS supera desafios e faz a diferença na vida de
+  pacientes
 date: 2023-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Acolhimento de pacientes, escuta sensível de familiares e fortalecimento de vínculos. Atividades assim se repetem na rotina de assistentes sociais que estão presentes nos corredores, quartos e portas de entrada do Hospital Universitário Cajuru, em Curitiba (PR). Quem chega para receber algum tipo de atendimento, muitas vezes está inconsciente ou apresenta dificuldades de fala, e é nessa hora que os profissionais entram em ação. Em um momento de fragilidade e dor, o serviço social não mede esforços para buscar pela família e garantir os direitos de cada paciente. Para além da intermediação do contato, a missão diária é tornar o ambiente hospitalar mais humano e acelerar o processo de cura.
 

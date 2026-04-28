@@ -1,11 +1,12 @@
 ---
-title: "EUA renomeiam seu programa biológico-militar na Ucrânia"
+title: EUA renomeiam seu programa biológico-militar na Ucrânia
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Igor Kirillov, o programa foi reclassificado como "programa de pesquisa em biovigilância", segundo o qual os EUA pretendem continuar estudando patógenos, coletar material biológico e enviá-lo aos Estados Unidos.
 

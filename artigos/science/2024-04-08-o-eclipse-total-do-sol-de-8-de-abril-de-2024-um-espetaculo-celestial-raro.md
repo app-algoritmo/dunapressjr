@@ -1,11 +1,12 @@
 ---
-title: "O Eclipse Total do Sol de 8 de Abril de 2024: Um Espetáculo Celestial Raro"
+title: 'O Eclipse Total do Sol de 8 de Abril de 2024: Um Espetáculo Celestial Raro'
 date: 2024-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 O céu prepara-se para um espetáculo celestial extraordinário no dia 8 de abril de 2024, quando um eclipse total do sol irá cativar observadores em partes dos Estados Unidos, do México e do Canadá. Este fenômeno astronômico oferece uma oportunidade única para testemunhar a majestade e a beleza do universo, enquanto também proporciona insights valiosos para cientistas e entusiastas do espaço.
 

@@ -1,11 +1,13 @@
 ---
-title: "Senado do Texas aprova novo projeto de lei que proíbe cidadãos da China e de outras nações hostis de possuir grandes propriedades no estado"
+title: Senado do Texas aprova novo projeto de lei que proíbe cidadãos da China e de
+  outras nações hostis de possuir grandes propriedades no estado
 date: 2023-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Senado do Texas aprovou uma proposta que proíbe os cidadãos da China e de outras nações hostis [de possuir grandes extensões de terra](https://www.texarkanagazette.com/news/2023/apr/25/ban-on-chinese-citizens-others-owning-property-in/) no Estado da Estrela Solitária.
 

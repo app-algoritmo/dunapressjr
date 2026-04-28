@@ -1,11 +1,12 @@
 ---
-title: "O Segundo de Seu Nome 1X3"
+title: O Segundo de Seu Nome 1X3
 date: 2022-09-06
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Cervo, Javali e Caranguejo, o jantar está servido. 
 

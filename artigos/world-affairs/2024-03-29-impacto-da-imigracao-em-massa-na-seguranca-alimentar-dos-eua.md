@@ -1,11 +1,12 @@
 ---
-title: "Impacto da Imigração em Massa na Segurança Alimentar dos EUA"
+title: Impacto da Imigração em Massa na Segurança Alimentar dos EUA
 date: 2024-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos últimos anos, a imigração em massa para os Estados Unidos tem levantado sérias preocupações quanto à segurança alimentar do país. Especialistas advertem que essa migração descontrolada está expondo o abastecimento alimentar a uma variedade de doenças e parasitas, representando uma ameaça à segurança nacional.
 

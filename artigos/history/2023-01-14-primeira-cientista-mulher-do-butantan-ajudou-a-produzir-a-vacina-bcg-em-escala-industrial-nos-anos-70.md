@@ -1,11 +1,13 @@
 ---
-title: "Primeira cientista mulher do Butantan ajudou a produzir a vacina BCG em escala industrial nos anos 70"
+title: Primeira cientista mulher do Butantan ajudou a produzir a vacina BCG em escala
+  industrial nos anos 70
 date: 2023-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Desde a década de 70, os brasileiros recebem a imunização contra tuberculose logo no primeiro mês de vida. Ainda que a maioria não se lembre desse evento, para muitos a BCG – como é conhecida popularmente – acaba sendo sinônimo de vacina. Isso porque, em alguns casos, ela deixa uma marca clássica na região onde é aplicada, no topo do braço direito.
 

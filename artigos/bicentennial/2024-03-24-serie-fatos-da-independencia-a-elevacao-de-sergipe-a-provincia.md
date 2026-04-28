@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A elevação de Sergipe à província"
+title: 'Série Fatos Da Independência: A elevação de Sergipe à província'
 date: 2024-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A capitania de Sergipe foi elevada ao estatuto de província por meio da carta régia datada de oito de julho de 1820, benesse concedida por Dom João VI como gesto de gratidão aos seus súditos sergipanos por terem se mantido fiéis à autoridade real. Por trás disso, a Coroa portuguesa buscava expandir seu controle sobre o território brasileiro por meio de reformas administrativas e fazer de Sergipe território privilegiado de vigilância sobre Pernambuco. A nova província se reportaria diretamente ao Rio de Janeiro, sem a intermediação de outras instâncias.
 

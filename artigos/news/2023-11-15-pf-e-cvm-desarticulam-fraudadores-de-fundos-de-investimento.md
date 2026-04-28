@@ -1,11 +1,12 @@
 ---
-title: "PF e CVM desarticulam fraudadores de fundos de investimento"
+title: PF e CVM desarticulam fraudadores de fundos de investimento
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Prejuízo causado pode chegar a R$ 451 milhões.
 

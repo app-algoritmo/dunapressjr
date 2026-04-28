@@ -1,11 +1,12 @@
 ---
-title: "Produção de nanomateriais a partir de subprodutos"
+title: Produção de nanomateriais a partir de subprodutos
 date: 2021-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São chamados subprodutos os resíduos ou produtos secundários derivados de processos industriais, agropecuários e florestais. O aproveitamento racional de subprodutos constitui uma etapa importante que deve ser avaliada durante a gestão de um negócio, pois tais elementos podem ser úteis e de importância econômica. Além disso, o acúmulo de resíduos na natureza, em especial o industrial, é uma das grandes fontes atuais de impactos ecológicos.
 

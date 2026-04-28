@@ -1,11 +1,12 @@
 ---
-title: "Um Marco Histórico: Pela Primeira Vez em 700 Anos, a População Mundial Declina"
+title: 'Um Marco Histórico: Pela Primeira Vez em 700 Anos, a População Mundial Declina'
 date: 2024-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um evento sem precedentes, a população global registrou uma queda pela primeira vez em sete séculos. Esse marco histórico, anunciado recentemente, ecoa uma mudança significativa no panorama demográfico do nosso planeta.
 

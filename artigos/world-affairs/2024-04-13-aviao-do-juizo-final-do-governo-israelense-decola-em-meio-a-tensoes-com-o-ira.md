@@ -1,11 +1,12 @@
 ---
-title: "Avião do Juízo Final do Governo Israelense Decola em Meio a Tensões com o Irã"
+title: Avião do Juízo Final do Governo Israelense Decola em Meio a Tensões com o Irã
 date: 2024-04-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O avião estatal oficial “Asa de Sião” de Israel decolou da Base Aérea de Nevatim, no sul de Israel, mostram dados de sites de rastreamento de voos segundo informações do **[TOI](https://www.timesofisrael.com/liveblog_entry/pms-yet-to-be-used-plane-takes-off-from-israeli-air-force-base-tracking-sites-show/)**.
 

@@ -1,11 +1,12 @@
 ---
-title: "CGU e PF combatem fraudes na Secretaria de Saúde de Roraima"
+title: CGU e PF combatem fraudes na Secretaria de Saúde de Roraima
 date: 2020-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Virion investiga irregularidades na aquisição de equipamentos para o combate à Covid-19. Prejuízo potencial é da ordem de R$ 12 milhões.
 

@@ -1,11 +1,13 @@
 ---
-title: "Tradicional evento internacional de Strongman, será neste domingo (15), na cidade de Cotia/SP"
+title: Tradicional evento internacional de Strongman, será neste domingo (15), na
+  cidade de Cotia/SP
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Força Bruta 2023 será neste domingo (15), na cidade de Cotia, na Região Metropolitana de São Paulo. O tradicional evento internacional da modalidade Strongman, que marca o início do ano esportivo no Brasil, chega a 10ª edição e definiu o quarteto que vai em busca do título. Juntos, eles somam mais de 600 quilos de verdadeira "massa bruta". Destaque para Flávio Nunes, atleta de Campo Grande (MS), que será o representante nacional. A disputa tem entrada grátis para o público e será transmitido pela TV Globo, dentro da programação do Esporte Espetacular.
 

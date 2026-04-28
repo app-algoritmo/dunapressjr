@@ -1,11 +1,12 @@
 ---
-title: "Ação interagências em prol daqueles que transportam as riquezas do nosso Brasil"
+title: Ação interagências em prol daqueles que transportam as riquezas do nosso Brasil
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Eldorado do Sul (RS) **- No dia 23 de abril, o 18º Batalhão de Infantaria Motorizado e a Polícia Rodoviária Federal atuaram juntos em apoio à Secretaria Municipal de Saúde de Eldorado do Sul, para realizar a vacinação de caminhoneiros na Rodovia BR-290.
 

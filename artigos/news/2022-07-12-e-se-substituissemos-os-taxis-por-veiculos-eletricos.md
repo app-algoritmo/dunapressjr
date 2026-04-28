@@ -1,11 +1,12 @@
 ---
-title: "E se substituíssemos os táxis por veículos elétricos?"
+title: E se substituíssemos os táxis por veículos elétricos?
 date: 2022-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

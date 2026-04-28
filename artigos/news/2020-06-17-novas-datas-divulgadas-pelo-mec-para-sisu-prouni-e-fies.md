@@ -1,11 +1,12 @@
 ---
-title: "Novas datas divulgadas pelo MEC para Sisu, Prouni e Fies"
+title: Novas datas divulgadas pelo MEC para Sisu, Prouni e Fies
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Alteração ocorre por solicitação de universidades públicas e privadas.
 

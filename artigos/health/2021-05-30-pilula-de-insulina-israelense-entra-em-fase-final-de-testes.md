@@ -1,11 +1,12 @@
 ---
-title: "Pílula de insulina israelense entra em fase final de testes"
+title: Pílula de insulina israelense entra em fase final de testes
 date: 2021-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A pílula para substituir as injeções de insulina para diabéticos entra na fase final dos testes.
 

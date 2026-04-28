@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para menor valor em quatro meses com euforia externa"
+title: Dólar cai para menor valor em quatro meses com euforia externa
 date: 2020-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe mais de 2% e atinge nível mais alto desde fevereiro.
 

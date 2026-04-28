@@ -1,11 +1,12 @@
 ---
-title: "Dólar e Ibovespa encerram o dia sem grandes variações"
+title: Dólar e Ibovespa encerram o dia sem grandes variações
 date: 2023-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ibovespa fecha com leve queda de 0,05% e dólar cai 0,03% frente ao real.
 

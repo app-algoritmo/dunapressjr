@@ -1,11 +1,13 @@
 ---
-title: "Lixo Eletrônico: Meta do governo é alcançar 60% da população com pontos de coleta"
+title: 'Lixo Eletrônico: Meta do governo é alcançar 60% da população com pontos de
+  coleta'
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo levantamento da Universidade das Nações Unidas (UNU), cerca de 45 milhões de toneladas de lixo eletrônico foram produzidos em todo o mundo em 2016, sendo que 80% dele foi descartado de forma inadequada. O Brasil foi um dos maiores responsáveis, gerando aproximadamente 1,5 milhão de toneladas. Essa “contribuição” está com os dias contados, uma vez que o País já iniciou seu programa de Logística Reversa no setor. Objetivo é alcançar mais de cinco mil pontos de coleta para que o material seja reciclado ou receba uma destinação ambientalmente correta.
 

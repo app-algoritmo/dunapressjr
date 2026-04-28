@@ -1,11 +1,12 @@
 ---
-title: "Joe Biden fica mais perto da nomeação após vitória em fase decisiva"
+title: Joe Biden fica mais perto da nomeação após vitória em fase decisiva
 date: 2020-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Candidato venceu primárias democratas no estado de Michigan
 

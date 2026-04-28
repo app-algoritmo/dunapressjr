@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia redução no preço do gás de cozinha"
+title: Petrobras anuncia redução no preço do gás de cozinha
 date: 2022-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda no preço foi de R$ 0,25 por quilo.
 

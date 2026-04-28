@@ -1,11 +1,13 @@
 ---
-title: "Nos corredores de hospitais, mães mudam própria vida para cuidar da saúde dos filhos"
+title: Nos corredores de hospitais, mães mudam própria vida para cuidar da saúde dos
+  filhos
 date: 2023-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Muito se fala que as orações mais sinceras são aquelas feitas dentro dos hospitais, principalmente pelas mães que estão com os filhos internados para uma cirurgia ou exame, ou que visitam ou até moram por um tempo dentro de uma UTI. E se, entre as mãos que essas mulheres esfregam enquanto rezam, estivesse uma lâmpada mágica com direito a um pedido, todas, sem titubear, suplicariam pela saúde dos filhos. 
 

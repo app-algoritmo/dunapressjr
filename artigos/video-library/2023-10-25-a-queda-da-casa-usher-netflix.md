@@ -1,11 +1,12 @@
 ---
-title: "A Queda da Casa Usher – Netflix"
+title: A Queda da Casa Usher – Netflix
 date: 2023-10-25
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

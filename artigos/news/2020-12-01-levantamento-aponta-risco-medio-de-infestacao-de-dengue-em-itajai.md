@@ -1,11 +1,12 @@
 ---
-title: "Levantamento aponta risco médio de infestação de Dengue em Itajaí"
+title: Levantamento aponta risco médio de infestação de Dengue em Itajaí
 date: 2020-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Levantamento do Índice Rápido de Infestação por Aedes aegypti (LIRAa) apontou risco médio de infestação e transmissão de dengue, chikungunya e zika em Itajaí. A atividade foi executada pelos agentes de endemias do município durante o mês de novembro em 3.198 imóveis da cidade. O levantamento apontou que a cada 100 casas visitadas, uma a três tinham a presença de larvas do mosquito transmissor. O LIRAa constatou um índice de infestação predial de 1,8% no município.
 

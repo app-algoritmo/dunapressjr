@@ -1,11 +1,12 @@
 ---
-title: "Implosão dos EUA e da Europa e preparação do Ocidente para uma mudança radical"
+title: Implosão dos EUA e da Europa e preparação do Ocidente para uma mudança radical
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os fogos de artifício estão chegando para a Europa – mas lentamente. Já começou (os governos estão caindo), mas os EUA são a vanguarda para uma mudança radical, pois o Ocidente perde o controle da meta-narrativa de que sua “visão” é o único paradigma pelo qual a “visão” do mundo também precisa ser definida ser moldado.
 

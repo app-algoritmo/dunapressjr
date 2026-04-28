@@ -1,11 +1,13 @@
 ---
-title: "Alerta de Desastre Fiscal nos EUA: Ex-presidente do Banco Mundial Adverte sobre Ruína em 2025"
+title: 'Alerta de Desastre Fiscal nos EUA: Ex-presidente do Banco Mundial Adverte
+  sobre Ruína em 2025'
 date: 2024-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 David Malpass, ex-presidente do Banco Mundial, emitiu um alerta sombrio sobre as finanças dos Estados Unidos, prevendo um possível "desastre de trem" fiscal já em 2025. Em uma publicação no LinkedIn, Malpass destacou a preocupante combinação de uma crescente dívida nacional, gastos excessivos e aumento das taxas de impostos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Procura por crédito sobe 7,2% em janeiro, mostra Serasa Experian"
+title: Procura por crédito sobe 7,2% em janeiro, mostra Serasa Experian
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A maior alta na busca por crédito ocorreu no Centro-Oeste.
 

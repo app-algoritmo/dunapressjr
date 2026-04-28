@@ -1,11 +1,12 @@
 ---
-title: "Salão do Livro de Genebra - cobertura exclusiva Duna Press"
+title: Salão do Livro de Genebra - cobertura exclusiva Duna Press
 date: 2018-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 -Em abril acontece na Suíça o tradicional **Salão do Livro de Genebra**. Em 2018 o evento apresentou o 32º salão que ocorrido entre os dias 25 e 29 de abril das 09: 30h às 19:00h, sendo na sexta-feira até às 21:30h, no Palexpo Genève, em Le Grand-Saconnex, Genebra. Foram oferecidas entradas gratuitas para o Salão todos os dias a partir das 17:00h.
 

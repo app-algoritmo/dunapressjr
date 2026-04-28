@@ -1,11 +1,12 @@
 ---
-title: "Na Amazônia Legal, militares agem na Operação Verde Brasil 2"
+title: Na Amazônia Legal, militares agem na Operação Verde Brasil 2
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Operação Verde Brasil 2, deflagrada pelo Governo Federal, completou uma semana de ativação nesta segunda-feira (18). Há sete dias, militares da Marinha, do Exército e da Aeronáutica reprimem e previnem crimes ambientais na Amazônia Legal. Organizados em três Comandos Conjuntos e no Comando de Operações Aeroespaciais (COMAE), os militares e agentes da Operação atuam, a princípio, na Floresta Nacional de Jacundá, em Rondônia, na Estação Ecológica Estadual da região do Rio Rinuro, em Mato Grosso, e no Assentamento Federal Vila União, no Pará.
 

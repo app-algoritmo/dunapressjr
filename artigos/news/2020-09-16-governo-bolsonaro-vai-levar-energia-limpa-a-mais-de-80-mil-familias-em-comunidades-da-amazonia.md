@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro vai levar energia limpa a mais de 80 mil famílias em comunidades da Amazônia"
+title: Governo Bolsonaro vai levar energia limpa a mais de 80 mil famílias em comunidades
+  da Amazônia
 date: 2020-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Programa Mais Luz vai levar desenvolvimento econômico e social a regiões remotas. A iniciativa destinará recursos a projetos que visem o atendimento de domicílios situados em áreas remotas da Amazônia Legal. 
 

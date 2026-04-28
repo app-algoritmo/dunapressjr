@@ -1,11 +1,13 @@
 ---
-title: "Abrigos de idosos recebem doações de cestas básicas e kits de higiene em todo o país"
+title: Abrigos de idosos recebem doações de cestas básicas e kits de higiene em todo
+  o país
 date: 2020-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 100 mil máscaras de proteção individual, cerca de 7 mil cestas básicas e 3,6 mil kits de higiene foram entregues durante as ações da Campanha Solidarize-se em quatro regiões do país. Os números são do balanço divulgado, nesta segunda-feira (13), pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 

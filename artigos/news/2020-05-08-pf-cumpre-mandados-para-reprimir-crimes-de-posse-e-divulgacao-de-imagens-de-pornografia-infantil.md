@@ -1,11 +1,13 @@
 ---
-title: "PF cumpre mandados para reprimir crimes de posse e divulgação de imagens de pornografia infantil"
+title: PF cumpre mandados para reprimir crimes de posse e divulgação de imagens de
+  pornografia infantil
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Piracicaba/SP** – A Polícia Federal cumpriu, no período de 27 de abril a 07 de maio de 2020, sete mandados de busca e apreensão, com o fim de reprimir crimes de posse e divulgação de imagens de pornografia infantil na rede mundial de computadores.
 

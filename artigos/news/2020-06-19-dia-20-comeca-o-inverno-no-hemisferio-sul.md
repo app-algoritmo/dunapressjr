@@ -1,11 +1,12 @@
 ---
-title: "Dia 20 começa o inverno no Hemisfério Sul"
+title: Dia 20 começa o inverno no Hemisfério Sul
 date: 2020-06-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A estação é marcada por menos chuva e queda da temperatura na maior parte do país.
 

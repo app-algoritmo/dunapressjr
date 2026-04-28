@@ -1,11 +1,12 @@
 ---
-title: "Pequenos empreendedores e informais terão até R$ 6 bilhões em crédito emergencial"
+title: Pequenos empreendedores e informais terão até R$ 6 bilhões em crédito emergencial
 date: 2020-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida proposta pelo MDR disponibilizará recursos dos Fundos Constitucionais de Financiamento para minimizar impactos econômicos do coronavírus. Valores possibilitarão investimentos e capital de giro
 

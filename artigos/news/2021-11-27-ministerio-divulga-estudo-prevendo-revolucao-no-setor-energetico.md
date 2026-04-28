@@ -1,11 +1,12 @@
 ---
-title: "Ministério divulga estudo prevendo “revolução” no setor energético"
+title: Ministério divulga estudo prevendo “revolução” no setor energético
 date: 2021-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Áreas em que há digitalização ficam mais competitivas e eficientes.
 

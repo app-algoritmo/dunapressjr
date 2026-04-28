@@ -1,11 +1,12 @@
 ---
-title: "Grande espera para o Concerto de Natal 2018"
+title: Grande espera para o Concerto de Natal 2018
 date: 2018-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 As celebrações natalinas são de grande importância cultural em diversas nações pelo mundo. No Reino da Noruega não é diferente, na Noruega o Natal é simplesmente mágico. O ***Advent***, como se diz em norueguês, é um período que concerne as quatro semanas que antecedem o Natal, dias em que as famílias se preparam para a chegada da data religiosa mais importante e querida. Os calendários do Advento são fundamentais para a estação natalina e, ao contrário do que muitos pensam, não são apenas para as crianças e sim para as famílias, pois há atividades a serem realizadas entre membros. Cada dia há uma tarefa ligada ao Natal como ouvir uma história de Natal, cantar uma música típica, entre outros. É uma tradição, um costume que diverte as crianças e une as famílias. Além disso, cada família tem uma coroa (espécie de guirlanda) de Advento que é composta por quatro velas coloridas (ou numeradas) representando cada semana de dezembro e a cada domingo do mês, uma vela é acesa.
 

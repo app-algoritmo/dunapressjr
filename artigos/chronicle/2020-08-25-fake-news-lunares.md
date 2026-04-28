@@ -1,11 +1,12 @@
 ---
-title: "Fake News Lunares"
+title: Fake News Lunares
 date: 2020-08-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 *“Este é um pequeno passo para o homem, mas um grande salto para a humanidade”*
 

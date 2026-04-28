@@ -1,11 +1,12 @@
 ---
-title: "PF investiga fraude processual"
+title: PF investiga fraude processual
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Varginha/MG – A Polícia Federal deflagrou nesta quinta-feira, 25/6, a Operação TRÓIA, para combater fraude processual.
 

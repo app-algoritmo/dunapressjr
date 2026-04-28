@@ -1,11 +1,12 @@
 ---
-title: "Relatórios e estudos são mal utilizados como meio de propaganda"
+title: Relatórios e estudos são mal utilizados como meio de propaganda
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Só nos últimos anos fomos bombardeados com estudos e relatórios que confirmam a linha do governo. Especialistas sem nome são citados. A frase "a grande maioria dos cientistas concorda" é usada como um argumento matador. Mas o que tudo isso pode valer?
 

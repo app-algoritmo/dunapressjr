@@ -1,11 +1,13 @@
 ---
-title: "Bandeira Azul analisa certificação de praias e marinas brasileiras para a temporada de verão"
+title: Bandeira Azul analisa certificação de praias e marinas brasileiras para a temporada
+  de verão
 date: 2020-07-09
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Para garantir o título ecológico internacional, candidatos devem atender a 34 requisitos. Parecer final será divulgado em outubro.
 

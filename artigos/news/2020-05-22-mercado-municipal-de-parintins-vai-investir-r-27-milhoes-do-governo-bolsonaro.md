@@ -1,11 +1,12 @@
 ---
-title: "Mercado Municipal de Parintins vai investir R$ 2,7 milhões do Governo Bolsonaro"
+title: Mercado Municipal de Parintins vai investir R$ 2,7 milhões do Governo Bolsonaro
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Obras devem impulsionar turismo local pós pandemia. Mercado amazonense foi inaugurado em 1937 e oferece produtos regionais.
 

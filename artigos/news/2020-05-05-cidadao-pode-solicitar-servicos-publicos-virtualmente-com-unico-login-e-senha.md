@@ -1,11 +1,12 @@
 ---
-title: "Cidadão pode solicitar serviços públicos virtualmente com único login e senha"
+title: Cidadão pode solicitar serviços públicos virtualmente com único login e senha
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Acesso único para serviços públicos digitais já conta com 60 milhões de usuários, portal já conta com 826 serviços públicos digitais.
 

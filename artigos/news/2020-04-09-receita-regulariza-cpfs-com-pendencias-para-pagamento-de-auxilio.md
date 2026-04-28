@@ -1,11 +1,12 @@
 ---
-title: "Receita regulariza CPFs com pendências para pagamento de auxílio"
+title: Receita regulariza CPFs com pendências para pagamento de auxílio
 date: 2020-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Serão regularizadas pendências eleitorais
 

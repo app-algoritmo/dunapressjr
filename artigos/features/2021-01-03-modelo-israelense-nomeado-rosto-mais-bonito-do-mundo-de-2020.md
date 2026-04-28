@@ -1,11 +1,12 @@
 ---
-title: "Modelo israelense nomeado 'rosto mais bonito' do mundo de 2020"
+title: Modelo israelense nomeado 'rosto mais bonito' do mundo de 2020
 date: 2021-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Yael Shelbia, 19, está no topo da lista das '100 Faces Mais Bonitas' de TC Candler; atualmente servindo na IAF, ela representou a linha de maquiagem KKW Beauty de Kim Kardashian; Gal Gadot ocupa a 21ª posição.
 

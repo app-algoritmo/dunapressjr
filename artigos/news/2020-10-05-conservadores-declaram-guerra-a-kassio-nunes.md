@@ -1,11 +1,12 @@
 ---
-title: "Conservadores declaram guerra a Kássio Nunes"
+title: Conservadores declaram guerra a Kássio Nunes
 date: 2020-10-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 *Insatisfação da indicação do nome de Kássio Nunes ao STF tem crescido entre conservadores, que pedem a revogação ao Presidente Bolsonaro*
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova universalização da energia elétrica na Amazônia Legal em 2025"
+title: Comissão aprova universalização da energia elétrica na Amazônia Legal em 2025
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia da Câmara dos Deputados aprovou projeto que determina que, até 2025, toda a população residente em regiões remotas da Amazônia Legal deverá contar com acesso à energia elétrica.
 

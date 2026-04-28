@@ -1,11 +1,12 @@
 ---
-title: "A estreita relação entre alimentação e saúde colorretal"
+title: A estreita relação entre alimentação e saúde colorretal
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Segundo dados do Instituto Nacional do Câncer (INCA) que monitora a incidência, morbidade hospitalar e mortalidade dos diferentes tipos de câncer, os tumores em cólon e reto são os terceiros mais frequentes no país, acometendo aproximadamente 40 mil homens e mulheres por ano. 
 

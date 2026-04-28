@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,37, mas encerra semana com alta de 2,66%"
+title: Dólar cai para R$ 5,37, mas encerra semana com alta de 2,66%
 date: 2021-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu nesta sexta, mas perdeu 2,59% nos últimos dias.
 

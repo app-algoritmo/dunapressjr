@@ -1,11 +1,12 @@
 ---
-title: "Em julho, indústria recua em sete dos 15 locais pesquisados"
+title: Em julho, indústria recua em sete dos 15 locais pesquisados
 date: 2021-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Amazonas teve queda de 14,4%, diz pesquisa do IBGE.
 

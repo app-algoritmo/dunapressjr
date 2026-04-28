@@ -1,11 +1,12 @@
 ---
-title: "Aprovado projeto que facilita instalação de antenas de telecomunicação"
+title: Aprovado projeto que facilita instalação de antenas de telecomunicação
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A Comissão de Infraestrutura (CI) aprovou nesta terça-feira (26) projeto ([PL 634/2020](http://www25.senado.leg.br/web/atividade/materias/-/materia/141089)) que procura aprimorar o processo de licenciamento para instalação de antenas de telecomunicação nas cidades. A proposição do senador Marcos do Val (Podemos-ES) recebeu voto favorável da relatora, senadora Margareth Buzetti (PSD-MT), e agora segue para análise da Câmara dos Deputados, a menos que haja pedido para votação no Plenário do Senado.
 

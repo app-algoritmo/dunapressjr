@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa tem leve queda de 0,53% nesta sexta"
+title: Ibovespa tem leve queda de 0,53% nesta sexta
 date: 2023-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar permanece estável enquanto investidores aguardam decisão do Fed.
 

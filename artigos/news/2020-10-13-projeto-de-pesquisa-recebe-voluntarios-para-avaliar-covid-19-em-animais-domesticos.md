@@ -1,11 +1,12 @@
 ---
-title: "Projeto de pesquisa recebe voluntários para avaliar Covid-19 em animais domésticos"
+title: Projeto de pesquisa recebe voluntários para avaliar Covid-19 em animais domésticos
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aprovado na chamada pública de parceria entre o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Ministério da Ciência, Tecnologia e Inovações (MCTI) e Ministério da Saúde, um estudo da Universidade Federal do Paraná (UFPR) vai avaliar a presença da Covid-19 em animais domésticos e analisar o risco de transmissão da doença pelos pets. O estudo precisa de voluntários – animais cujos donos testaram positivo para o coronavírus, em cinco capitais do país: Belo Horizonte (MG), Campo Grande (MS), Curitiba (PR), Recife (PE) e São Paulo (SP). Os interessados devem entrar em contato pelo e-mail [covid19@ufpr.br](mailto:covid19@ufpr.br).
 

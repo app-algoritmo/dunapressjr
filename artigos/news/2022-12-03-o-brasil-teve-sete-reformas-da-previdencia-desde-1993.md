@@ -1,11 +1,12 @@
 ---
-title: "O Brasil teve sete reformas da previdência desde 1993"
+title: O Brasil teve sete reformas da previdência desde 1993
 date: 2022-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Desde a constituição de 1998, as regras de aposentadoria e pensões de servidores públicos e trabalhadores da área privada passaram por sete reformas.
 

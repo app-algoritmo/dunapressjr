@@ -1,11 +1,12 @@
 ---
-title: "Leituras Verticais - Ver o Horizonte, enxergar o Céu"
+title: Leituras Verticais - Ver o Horizonte, enxergar o Céu
 date: 2017-12-02
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Muito Prazer. Para quem não me conhece, sou a professora e jornalista Vera Helena, e criei este blog dentro da Duna Press para dar vazão a algumas ideias que insistem em sair da cabeça e ir à tela. Quero ensinar a todos como fazer uma leitura vertical de um texto independentemente do gênero, seja informativo, poético ou argumentativo. Uma das minhas poucas vaidades intelectuais é saber que não há ideia que possa se esconder na cortina das palavras, que elas revelam pensamentos e sentimentos que o próprio autor quer ocultar. Outro objetivo bem mais prosaico é preparar você para provas e concursos. Não é novidade para ninguém que hoje todas as questões versam sobre Interpretação de Texto, sejam elas de Português, História ou Matemática. Vem comigo que você vai se dar bem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Casa Branca dá prazo de um mês a escritórios do governo para deletar o Tiktok"
+title: Casa Branca dá prazo de um mês a escritórios do governo para deletar o Tiktok
 date: 2023-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 Muitas agências governamentais e escritórios governamentais nos Estados Unidos já eliminaram o uso do Tiktok em seus telefones e sistemas.
 

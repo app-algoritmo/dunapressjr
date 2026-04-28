@@ -1,11 +1,13 @@
 ---
-title: "Em seis meses, 34 mil militares das Forças Armadas atuaram no enfrentamento ao novo coronavírus"
+title: Em seis meses, 34 mil militares das Forças Armadas atuaram no enfrentamento
+  ao novo coronavírus
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entrega de cestas básicas a comunidades indígenas e higienização de espaços públicos estão entre as ações da força-tarefa da Marinha, Aeronáutica e Exército. Em outra frente de ação no combate à Covid-19, militares desinfectaram áreas de grande circulação, totalizando 6.710 locais públicos higienizados. 
 

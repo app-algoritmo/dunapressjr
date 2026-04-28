@@ -1,11 +1,12 @@
 ---
-title: "Mais de 100 mil pessoas assinaram o pedido pela CPI do Aborto"
+title: Mais de 100 mil pessoas assinaram o pedido pela CPI do Aborto
 date: 2022-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na tentativa de bloquear a instauração da CPI do Aborto, sites e blogs feministas lançaram uma ação coordenada para disparar e-mails com mensagens automatizadas ao presidente da ALESC, deputado Moacir Sopelsa (MDB). A proposta dos abortistas era pressioná-lo através da importunação para rejeitar o pedido avalizado por mais da metade do parlamento catarinense.
 

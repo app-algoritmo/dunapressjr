@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Presidente determina serviços que não podem parar"
+title: 'Coronavírus: Presidente determina serviços que não podem parar'
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *A medida dá segurança aos serviços públicos e atividades essenciais consideradas indispensáveis ao atendimento das necessidades da população*
 

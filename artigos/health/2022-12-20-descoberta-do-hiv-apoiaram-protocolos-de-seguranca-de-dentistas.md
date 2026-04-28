@@ -1,11 +1,12 @@
 ---
-title: "Descoberta do HIV apoiaram protocolos de segurança de dentistas"
+title: Descoberta do HIV apoiaram protocolos de segurança de dentistas
 date: 2022-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Mais de 38 milhões de pessoas vivem com HIV/Aids no mundo, segundo dados da Unaids. No Brasil, de acordo com o Ministério da Saúde, são mais de 920 mil infectados com o vírus, que tem como característica favorecer o desenvolvimento de infecções, inclusive na boca, fazendo com que dentistas tenham papel importante tanto no diagnóstico precoce quanto no acompanhamento e tratamento dos pacientes. 
 

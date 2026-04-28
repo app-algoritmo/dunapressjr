@@ -1,11 +1,12 @@
 ---
-title: "Universidade gaúcha quer identificar medicamentos anti-COVID-19"
+title: Universidade gaúcha quer identificar medicamentos anti-COVID-19
 date: 2021-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Universidade Federal do Pampa (Unipampa), no Rio Grande do Sul, tenta reposicionar fármacos para encontrar um tratamento contra a COVID-19 com medicamentos já usados no combate a outras doenças. O projeto é um dos selecionados no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Os pesquisadores envolvidos trabalham para desenvolver novas formulações a partir da nanotecnologia (um nanômetro é a bilionésima parte de um metro).
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil deve ter novo recorde de produção na safra de grãos 2020/21"
+title: Brasil deve ter novo recorde de produção na safra de grãos 2020/21
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O 1º Levantamento da safra de grãos 2020/21 mostra que o Brasil deve ter uma produção recorde no período. A produção está estimada em 268,7 milhões de toneladas, volume 4,2% maior que o recorde da safra 2019/20, que totalizou 257,7 milhões de toneladas de grãos. Os dados foram divulgados nesta quinta-feira (8) pela Companhia Nacional de Abastecimento (Conab).
 

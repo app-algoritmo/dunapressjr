@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária é questão central para o governo, diz Geraldo Alckmin"
+title: Reforma tributária é questão central para o governo, diz Geraldo Alckmin
 date: 2023-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vice-presidente se reuniu com diretoria da Fiesp, em São Paulo.
 

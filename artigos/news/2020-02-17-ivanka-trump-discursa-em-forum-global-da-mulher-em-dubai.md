@@ -1,11 +1,12 @@
 ---
-title: "Ivanka Trump discursa em Fórum Global da Mulher em Dubai"
+title: Ivanka Trump discursa em Fórum Global da Mulher em Dubai
 date: 2020-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atualmente em seu segundo ano, o Global Women's Forum Dubai anual é uma cúpula de dois dias que acontece nos dias 16 e 17 de fevereiro, com o tema da conferência este ano sendo "o poder da influência".
 

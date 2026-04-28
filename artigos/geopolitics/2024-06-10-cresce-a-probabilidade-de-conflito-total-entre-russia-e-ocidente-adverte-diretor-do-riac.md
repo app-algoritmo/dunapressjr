@@ -1,11 +1,13 @@
 ---
-title: "Cresce a Probabilidade de Conflito Total entre Rússia e Ocidente, Adverte Diretor do RIAC"
+title: Cresce a Probabilidade de Conflito Total entre Rússia e Ocidente, Adverte Diretor
+  do RIAC
 date: 2024-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Conferência "Rússia e China: Cooperação numa Nova Era" Em Moscou Debaterá Crescente Tensão Global.
 

@@ -1,11 +1,12 @@
 ---
-title: "Adaptação em máscaras para tratar pacientes da epidemia"
+title: Adaptação em máscaras para tratar pacientes da epidemia
 date: 2020-05-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores do Centro de Tecnologia (CTI) Renato Archer, do Ministério da Ciência, Tecnologia, Inovações e Comunicações, estão estudando formas de transformar máscaras de mergulho em respiradores automáticos. As máscaras, usadas principalmente por quem pratica snorkeling, receberão uma válvula produzida em impressoras 3D para que possam ler ligadas aos aparelhos de oxigênio.
 

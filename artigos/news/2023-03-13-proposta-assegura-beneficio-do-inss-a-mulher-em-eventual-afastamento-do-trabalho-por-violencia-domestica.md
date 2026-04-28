@@ -1,11 +1,13 @@
 ---
-title: "Proposta assegura benefício do INSS à mulher em eventual afastamento do trabalho por violência doméstica"
+title: Proposta assegura benefício do INSS à mulher em eventual afastamento do trabalho
+  por violência doméstica
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 543/23 prevê o pagamento à mulher do auxílio por incapacidade temporária por período de até seis meses quando comprovada a violência doméstica e familiar, sendo desnecessária perícia médica junto ao Instituto Nacional do Seguro Social (INSS) ou qualquer outro órgão ou entidade ou similar.
 

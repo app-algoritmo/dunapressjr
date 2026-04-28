@@ -1,11 +1,12 @@
 ---
-title: "Procon de Itajaí/SC orienta consumidores sobre produtos com defeito"
+title: Procon de Itajaí/SC orienta consumidores sobre produtos com defeito
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Procuradoria de Defesa do Consumidor (Procon) de Itajaí orienta a população sobre como proceder em caso de compra de produtos que apresentem vícios/defeitos em pouco tempo de uso. Pelo Código de Defesa do Consumidor (CDC), o procedimento previsto é enviar o produto defeituoso à assistência autorizada pela fabricante, que terá prazo de 30 dias para efetuar o reparo. Vale ressaltar que eventuais custos de envio não são de responsabilidade do consumidor.
 

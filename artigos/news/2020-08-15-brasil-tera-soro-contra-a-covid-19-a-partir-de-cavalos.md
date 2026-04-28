@@ -1,11 +1,12 @@
 ---
-title: "Brasil terá soro contra a COVID-19 a partir de cavalos"
+title: Brasil terá soro contra a COVID-19 a partir de cavalos
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Resultado aponta que o soro tem anticorpos até 50 vezes mais potentes contra o vírus SARS-CoV-2. Apoio da CAPES foi essencial para o avanço da pesquisa.
 

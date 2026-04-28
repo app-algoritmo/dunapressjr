@@ -1,11 +1,13 @@
 ---
-title: "EUA e China acertam 'fase 1' de acordo comercial; Trump suspende parte de alta de tarifas"
+title: EUA e China acertam 'fase 1' de acordo comercial; Trump suspende parte de alta
+  de tarifas
 date: 2019-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os Estados Unidos e a China acertaram nesta sexta-feira(11), a primeira fase de um acordo para encerrar a guerra comercial iniciada por Washington, o que levou o presidente Donald Trump a suspender uma elevação de tarifas de importação, mas autoridades disseram que o entendimento ainda precisa ser oficializado e que uma finalização do pacto ainda demandará mais trabalho.
 

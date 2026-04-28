@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal faz megaoperação para repatriar criminoso líder de facção"
+title: Polícia Federal faz megaoperação para repatriar criminoso líder de facção
 date: 2020-04-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF **- A Polícia Federal informa que coordenou, no domingo (19/4), uma megaoperação internacional com o apoio do Ministério da Justiça e Segurança Pública, do Ministério da Defesa e do Itamaraty para dar cumprimento ao Decreto de Expulsão, expedido por autoridades de Moçambique, do criminoso GILBERTO APARECIDO DOS SANTOS, o “fuminho”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Veja como funciona a declaração pré-preenchida do Imposto de Renda"
+title: Veja como funciona a declaração pré-preenchida do Imposto de Renda
 date: 2021-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Existente desde 2014, ferramenta foi ampliada este ano.
 

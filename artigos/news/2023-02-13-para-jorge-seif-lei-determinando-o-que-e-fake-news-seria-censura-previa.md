@@ -1,11 +1,12 @@
 ---
-title: "Para Jorge Seif, lei determinando o que é fake news seria censura prévia"
+title: Para Jorge Seif, lei determinando o que é fake news seria censura prévia
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O senador Jorge Seif (PL-SC) condenou, em seu primeiro pronunciamento em Plenário, nessa quarta-feira (8), a tentativa de se criar uma lei que determinaria o que é fake News, com punição contra quem as crie e divulgue. Em sua opinião, deliberações sobre essa pauta significam uma tentativa de instituir a censura no país.
 

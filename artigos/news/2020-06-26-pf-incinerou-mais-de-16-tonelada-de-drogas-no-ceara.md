@@ -1,11 +1,12 @@
 ---
-title: "PF incinerou mais de 1,6 tonelada de drogas no Ceará"
+title: PF incinerou mais de 1,6 tonelada de drogas no Ceará
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE - A Polícia Federal realizou nesta sexta-feira (26/6), no Ceará, a incineração de mais de 1,6 tonelada de drogas.
 

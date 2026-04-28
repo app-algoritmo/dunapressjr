@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que permite privatização dos Correios"
+title: Câmara aprova projeto que permite privatização dos Correios
 date: 2021-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta será analisada pelo Senado.
 

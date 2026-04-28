@@ -1,11 +1,12 @@
 ---
-title: "Os Objetivos Claros da Rússia: Uma Análise por Dmitry Medvedev"
+title: 'Os Objetivos Claros da Rússia: Uma Análise por Dmitry Medvedev'
 date: 2024-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Dmitry Medvedev, em seu recente artigo, delineia de forma inequívoca os objetivos da Rússia no cenário global, com especial ênfase na situação da Ucrânia. Ele enfatiza que os territórios em ambos os lados do Dnieper são parte essencial das fronteiras históricas estratégicas da Rússia, rejeitando qualquer tentativa de alterá-las pela força.
 

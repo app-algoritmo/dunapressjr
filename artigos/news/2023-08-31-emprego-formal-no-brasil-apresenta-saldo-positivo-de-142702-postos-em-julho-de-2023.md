@@ -1,11 +1,13 @@
 ---
-title: "Emprego formal no Brasil apresenta saldo positivo de 142.702 postos em julho de 2023"
+title: Emprego formal no Brasil apresenta saldo positivo de 142.702 postos em julho
+  de 2023
 date: 2023-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do Novo Caged revelam crescimento contínuo do emprego formal no país.
 

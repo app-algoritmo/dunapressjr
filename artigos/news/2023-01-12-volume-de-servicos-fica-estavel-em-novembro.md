@@ -1,11 +1,12 @@
 ---
-title: "Volume de serviços fica estável em novembro"
+title: Volume de serviços fica estável em novembro
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor está 10,7% acima do nível pré-pandemia.
 

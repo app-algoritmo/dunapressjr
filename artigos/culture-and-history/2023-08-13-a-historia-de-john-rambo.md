@@ -1,12 +1,13 @@
 ---
-title: "A história de John Rambo"
+title: A história de John Rambo
 date: 2023-08-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Culture and History
-  - News
+- Culture and History
+- News
 ---
+
 
 Rambo é um veterano da Guerra do Vietnã que, após ser humilhado e torturado em uma delegacia de uma pequena cidade, passa a ser caçado pelos policiais locais.
 

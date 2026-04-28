@@ -1,11 +1,13 @@
 ---
-title: "SP cria comitê para desburocratizar compras de medicamentos em 39 unidades de saúde"
+title: SP cria comitê para desburocratizar compras de medicamentos em 39 unidades
+  de saúde
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Comitê Estratégico de Compras e Contratações terá duração de 180 dias e irá supervisionar e orientar todas as unidades de saúde próprias.
 

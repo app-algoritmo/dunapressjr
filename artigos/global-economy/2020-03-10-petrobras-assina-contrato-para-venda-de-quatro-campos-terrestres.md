@@ -1,11 +1,12 @@
 ---
-title: "Petrobras assina contrato para venda de quatro campos terrestres"
+title: Petrobras assina contrato para venda de quatro campos terrestres
 date: 2020-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Primeira das quatro parcelas da transação foi paga segunda-feira
 

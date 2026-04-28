@@ -1,11 +1,12 @@
 ---
-title: "Medicamento genérico: funciona mesmo?"
+title: 'Medicamento genérico: funciona mesmo?'
 date: 2023-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais barato do que os produtos de referência, o medicamento genérico está presente há 24 anos no Brasil e tem ampliado o acesso a tratamentos de saúde para a população, principalmente aquelas de baixa renda. Criado pela Lei 9.787/1999, que permitiu o registro e comercialização, por qualquer laboratório farmacêutico, de medicamentos com patentes expiradas. 
 

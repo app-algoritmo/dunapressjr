@@ -1,11 +1,13 @@
 ---
-title: "Ronaldo da Costa será o padrinho da etapa de abertura do Circuito Caixa 2024, em Brasília"
+title: Ronaldo da Costa será o padrinho da etapa de abertura do Circuito Caixa 2024,
+  em Brasília
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Recordista mundial da maratona e campeão da São Silvestre 1994, o ex-atleta promete esbanjar simpatia durante a prova do dia 14 de julho, em Brasília.
 

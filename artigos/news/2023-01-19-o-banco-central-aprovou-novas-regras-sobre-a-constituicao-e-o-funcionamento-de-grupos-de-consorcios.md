@@ -1,11 +1,13 @@
 ---
-title: "O Banco Central aprovou novas regras sobre a constituição e o funcionamento de grupos de consórcios"
+title: O Banco Central aprovou novas regras sobre a constituição e o funcionamento
+  de grupos de consórcios
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A resolução traz mais eficiência e transparência para os grupos.
 

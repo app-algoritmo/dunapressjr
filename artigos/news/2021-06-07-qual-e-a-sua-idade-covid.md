@@ -1,11 +1,12 @@
 ---
-title: "Qual é a sua idade Covid?"
+title: Qual é a sua idade Covid?
 date: 2021-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As comorbidades que podem apenas inclinar a balança.
 

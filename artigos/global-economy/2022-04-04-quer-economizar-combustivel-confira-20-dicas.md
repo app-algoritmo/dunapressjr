@@ -1,11 +1,12 @@
 ---
-title: "Quer economizar combustível? Confira 20 dicas"
+title: Quer economizar combustível? Confira 20 dicas
 date: 2022-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A guerra da Ucrânia afeta todo o mundo. O aumento no valor do barril de petróleo já impactou nos preços dos combustíveis. Encher o tanque está cada vez mais caro e a expectativa é de que essa situação não se resolva tão cedo. Com isso, a única alternativa para os motoristas é economizar.
 

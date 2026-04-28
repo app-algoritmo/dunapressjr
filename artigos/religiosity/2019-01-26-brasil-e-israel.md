@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Israel"
+title: Brasil e Israel
 date: 2019-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Em 1948 o Brasil através do seu diplomata gaúcho Osvaldo Aranha foi fundamental no reconhecimento da nação de Israel como sendo um novo país independente. 
 

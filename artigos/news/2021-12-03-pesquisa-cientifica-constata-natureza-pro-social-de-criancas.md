@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa científica constata natureza pró-social de crianças"
+title: Pesquisa científica constata natureza pró-social de crianças
 date: 2021-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mayara Wenice de Medeiros venceu o [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) 2021 na área de Psicologia com um estudo sobre o comportamento pró-social das crianças e a sua busca pela aceitação social. O trabalho, realizado durante seu doutorado na Universidade Federal do Rio Grande do Norte (UFRN), foi conduzido com crianças residentes em zonas urbanas comunidades rurais e quilombolas do interior do Rio Grande do Norte.
 

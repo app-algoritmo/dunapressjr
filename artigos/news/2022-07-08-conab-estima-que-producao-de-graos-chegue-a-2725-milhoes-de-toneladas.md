@@ -1,11 +1,12 @@
 ---
-title: "Conab estima que produção de grãos chegue a 272,5 milhões de toneladas"
+title: Conab estima que produção de grãos chegue a 272,5 milhões de toneladas
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trigo é destaque entre as culturas de inverno.
 

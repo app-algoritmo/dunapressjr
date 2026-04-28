@@ -1,11 +1,12 @@
 ---
-title: "Brasil assina parceria com instituto de pesquisa norte-americano Smithsonian"
+title: Brasil assina parceria com instituto de pesquisa norte-americano Smithsonian
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Acordo firmado, nesta quarta-feira (25), permitirá que o Brasil e os Estados Unidos trabalhem, juntos, na promoção de pesquisas científicas em saúde pública e educação para jovens. A parceria foi assinada pelo ministro da Ciência, Tecnologia e Inovações, Marcos Pontes, e o subsecretário de Ciência e Pesquisa do Instituto Smithsonian, Roger Brissenden.
 

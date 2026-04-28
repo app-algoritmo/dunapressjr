@@ -1,11 +1,12 @@
 ---
-title: "França e Alemanha propõem chuva de bilhões para a recuperação da Europa"
+title: França e Alemanha propõem chuva de bilhões para a recuperação da Europa
 date: 2020-05-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Devastadas pelo vírus chinês, Macron e Merkel apresentam plano de recuperação com injeção de 500 bilhões de euros para as economias européias atingidas pela pandemia do COVID19.
 

@@ -1,11 +1,12 @@
 ---
-title: "O protagonismo na evolução da ciência – Dia do pesquisador"
+title: O protagonismo na evolução da ciência – Dia do pesquisador
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Internet, GPS, vacinas, foguetes. Nada disso teria surgido sem o trabalho deles. Nesta quarta-feira, 08, homenageamos aqueles que fazem da ciência sua vida.
 

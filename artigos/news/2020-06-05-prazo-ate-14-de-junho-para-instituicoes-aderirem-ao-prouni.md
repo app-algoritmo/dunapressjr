@@ -1,11 +1,12 @@
 ---
-title: "Prazo até 14 de Junho para instituições aderirem ao Prouni"
+title: Prazo até 14 de Junho para instituições aderirem ao Prouni
 date: 2020-06-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Retificação do termo de adesão ou do termo aditivo deve ser feita de 22 a 26 de junho.
 

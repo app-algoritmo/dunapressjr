@@ -1,11 +1,13 @@
 ---
-title: "Avenida Campos Novos, em Itajaí recebe nova alça para formação de retorno de quadra"
+title: Avenida Campos Novos, em Itajaí recebe nova alça para formação de retorno de
+  quadra
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O cruzamento entre as avenidas Campos Novos e Adolfo Konder, no São Vicente, está em transformação. A rotatória está com os dias contados para dar lugar a um retorno de quadra que acabará com os congestionamentos constantes na avenida Adolfo Konder. Uma alça já está em fase de conclusão no cruzamento entre as duas avenidas em direção à rodovia BR-101. Outra alça será construída a partir do cruzamento entre as avindas Adolfo Konder e Nilo Simas, no Cidade Nova, na pista em direção ao Centro de Itajaí.
 

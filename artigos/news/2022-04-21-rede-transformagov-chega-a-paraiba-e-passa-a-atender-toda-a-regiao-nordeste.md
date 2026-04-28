@@ -1,11 +1,12 @@
 ---
-title: "Rede TransformaGov chega à Paraíba e passa a atender toda a região Nordeste"
+title: Rede TransformaGov chega à Paraíba e passa a atender toda a região Nordeste
 date: 2022-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estado é a 23ª Unidade Federativa a fazer parte das iniciativas de transformação e modernização institucional.
 

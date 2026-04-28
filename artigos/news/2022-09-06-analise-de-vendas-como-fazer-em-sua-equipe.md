@@ -1,11 +1,12 @@
 ---
-title: "Análise de vendas: como fazer em sua equipe"
+title: 'Análise de vendas: como fazer em sua equipe'
 date: 2022-09-06
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Independentemente se sua empresa é física ou virtual, fazer uma** análise de vendas** é crucial para entender melhor o perfil do seu cliente e aumentar a receita do seu negócio.
 

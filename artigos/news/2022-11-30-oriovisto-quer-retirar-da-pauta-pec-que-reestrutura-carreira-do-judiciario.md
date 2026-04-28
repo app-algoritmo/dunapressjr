@@ -1,11 +1,12 @@
 ---
-title: "Oriovisto quer retirar da pauta PEC que reestrutura carreira do Judiciário"
+title: Oriovisto quer retirar da pauta PEC que reestrutura carreira do Judiciário
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O senador Oriovisto Guimarães (Podemos-PR) solicitou a retirada da pauta do Plenário da Proposta de Emenda à Constituição ([PEC 63/2013](http://www25.senado.leg.br/web/atividade/materias/-/materia/115294)) prevista para ser votada nesta quarta-feira (30), por “ressuscitar o quinquênio do Poder Judiciário”.
 

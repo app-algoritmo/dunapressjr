@@ -1,11 +1,12 @@
 ---
-title: "Caminhão do Peixe de Itajaí, divulga última agenda de 2020"
+title: Caminhão do Peixe de Itajaí, divulga última agenda de 2020
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde 21 de janeiro nas ruas, o Caminhão do Peixe terá sua última agenda de 2020 na próxima semana. O programa da Secretaria de Desenvolvimento Econômico promove o consumo de pescados nos bairros de Itajaí, maior porto pesqueiro do Brasil. A agenda é divulgada toda semana para avisar aos moradores da possibilidade de comprar peixes com qualidade e bom preço mais perto de suas casas.
 

@@ -1,11 +1,13 @@
 ---
-title: "André Baran é campeão de duplas mistas do River Open Petrolina de Beach Tennis com Vitória Marchezini"
+title: André Baran é campeão de duplas mistas do River Open Petrolina de Beach Tennis
+  com Vitória Marchezini
 date: 2023-09-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## O catarinense e a paranaense disputaram a final no primeiro dia do torneio, na noite desta quinta-feira (14), na EMS Arena, no Vale do São Francisco, em Pernambuco. Neste sábado (16) à noite, a estreia nas duplas masculinas, com o parceiro italiano Michelle Cappelletti.
 

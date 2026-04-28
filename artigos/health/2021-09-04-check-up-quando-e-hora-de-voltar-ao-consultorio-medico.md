@@ -1,11 +1,12 @@
 ---
-title: "Check-up: quando é hora de voltar ao consultório médico?"
+title: 'Check-up: quando é hora de voltar ao consultório médico?'
 date: 2021-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Avanço da vacinação e reforço de protocolos dão mais segurança a pacientes que retomam rotina de cuidados; especialistas alertam principalmente para doenças crônicas.
 

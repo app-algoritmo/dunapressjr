@@ -1,11 +1,12 @@
 ---
-title: "'Shtisel' lança terceira temporada tão esperada"
+title: '''Shtisel'' lança terceira temporada tão esperada'
 date: 2020-12-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 A história da família ultraortodoxa de Jerusalém recomeça quatro anos depois, com nove novos episódios.
 

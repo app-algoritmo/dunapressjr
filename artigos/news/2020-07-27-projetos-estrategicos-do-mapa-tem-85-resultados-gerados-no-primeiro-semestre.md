@@ -1,11 +1,12 @@
 ---
-title: "Projetos Estratégicos do Mapa tem 85 resultados gerados no primeiro semestre"
+title: Projetos Estratégicos do Mapa tem 85 resultados gerados no primeiro semestre
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O documento um conjunto de 16 iniciativas definidas e planejadas pela atual gestão do Mapa com a finalidade de responder aos principais desafios do agro no Brasil.
 

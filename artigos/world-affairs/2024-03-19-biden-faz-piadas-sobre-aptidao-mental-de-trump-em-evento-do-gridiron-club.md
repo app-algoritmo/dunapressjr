@@ -1,11 +1,12 @@
 ---
-title: "Biden Faz Piadas sobre Aptidão Mental de Trump em Evento do Gridiron Club"
+title: Biden Faz Piadas sobre Aptidão Mental de Trump em Evento do Gridiron Club
 date: 2024-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos EUA, Joe Biden, utilizou humor afiado para alfinetar seu antecessor, Donald Trump, durante o tradicional jantar do Gridiron Club, onde políticos e jornalistas trocam farpas de forma humorística. Em seu discurso, Biden rejeitou as críticas sobre sua própria aptidão mental, apontando momentos em que Trump também cometeu erros.
 

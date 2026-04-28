@@ -1,11 +1,12 @@
 ---
-title: "Aneel: tarifa de energia elétrica deve subir, em média, 5,6% em 2023"
+title: 'Aneel: tarifa de energia elétrica deve subir, em média, 5,6% em 2023'
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Projeção foi apresentada pela agência ao governo de transição.
 

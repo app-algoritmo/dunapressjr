@@ -1,11 +1,13 @@
 ---
-title: "Confira o funcionamento dos serviços públicos durante o feriado de Proclamação da República em Itajaí/SC"
+title: Confira o funcionamento dos serviços públicos durante o feriado de Proclamação
+  da República em Itajaí/SC
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Devido ao ponto facultativo e feriado do Dia da Proclamação da República, os serviços públicos municipais e dos prestadores de serviços do Município de Itajaí terão alterações na segunda (14) e terça-feira (15). As atividades essenciais funcionarão em escala de plantão, enquanto os atendimentos nos órgãos da administração direta, autarquias e fundações públicas do poder executivo retornarão na quarta-feira (16).
 

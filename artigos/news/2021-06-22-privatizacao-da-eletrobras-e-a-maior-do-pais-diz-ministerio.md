@@ -1,11 +1,12 @@
 ---
-title: "Privatização da Eletrobras é a maior do país, diz ministério"
+title: Privatização da Eletrobras é a maior do país, diz ministério
 date: 2021-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo ministério, medida pode gerar R$ 100 bi aos cofres públicos.
 

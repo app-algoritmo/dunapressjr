@@ -1,11 +1,12 @@
 ---
-title: "Relator ameniza regra de transição para aposentadoria dos PMs e bombeiros"
+title: Relator ameniza regra de transição para aposentadoria dos PMs e bombeiros
 date: 2019-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Vinícius Carvalho apresentou os ajustes ao texto nesta terça-feira(15) 
 

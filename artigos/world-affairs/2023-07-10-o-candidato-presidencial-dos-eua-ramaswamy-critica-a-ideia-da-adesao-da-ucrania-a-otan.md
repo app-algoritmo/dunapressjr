@@ -1,11 +1,13 @@
 ---
-title: "O candidato presidencial dos EUA, Ramaswamy, critica a ideia da adesão da Ucrânia à OTAN"
+title: O candidato presidencial dos EUA, Ramaswamy, critica a ideia da adesão da Ucrânia
+  à OTAN
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos EUA, Joe Biden, disse anteriormente que a Ucrânia não estava cumprindo os requisitos para ingressar na OTAN neste momento, mas não descartou essa possibilidade no futuro.
 

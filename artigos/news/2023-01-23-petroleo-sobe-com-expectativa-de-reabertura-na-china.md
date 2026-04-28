@@ -1,11 +1,12 @@
 ---
-title: "Petróleo sobe com expectativa de reabertura na China"
+title: Petróleo sobe com expectativa de reabertura na China
 date: 2023-01-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Commodity mantém fluxo positivo e analistas já preveem avanço para US$ 100 nos próximos meses.
 

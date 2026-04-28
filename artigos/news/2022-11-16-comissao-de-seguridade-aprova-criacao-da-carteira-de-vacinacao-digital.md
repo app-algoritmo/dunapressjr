@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Seguridade aprova criação da Carteira de Vacinação Digital"
+title: Comissão de Seguridade aprova criação da Carteira de Vacinação Digital
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou projeto que cria a Carteira de Vacinação Digital, que conterá a identificação do cidadão, as vacinas e os soros aplicados e pendentes, os fabricantes e os lotes das vacinas e dos soros utilizados, além de outras informações definidas em regulamento.
 

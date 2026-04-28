@@ -1,11 +1,12 @@
 ---
-title: "Conheça Aurelia Nobels: a única mulher piloto da Fórmula 4 Brasil"
+title: 'Conheça Aurelia Nobels: a única mulher piloto da Fórmula 4 Brasil'
 date: 2022-12-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Entre os 16 pilotos está Aurelia Nobels, de 15 anos, única e primeira mulher a competir no grid da F4 Brasil.
 

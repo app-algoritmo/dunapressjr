@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal autoriza reabertura gradual de parques nacionais para visitantes"
+title: Governo Federal autoriza reabertura gradual de parques nacionais para visitantes
 date: 2020-06-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Retomada das atividades deverão observar medidas de proteção, como uso de máscara facial e álcool em gel 70%.
 

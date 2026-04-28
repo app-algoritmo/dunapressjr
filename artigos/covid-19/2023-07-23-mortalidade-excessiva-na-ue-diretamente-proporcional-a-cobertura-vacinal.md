@@ -1,11 +1,12 @@
 ---
-title: "Mortalidade excessiva na UE diretamente proporcional à cobertura vacinal"
+title: Mortalidade excessiva na UE diretamente proporcional à cobertura vacinal
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um ano após o fim não oficial da pandemia, o excesso de mortalidade nos países da UE ainda é alto.
 

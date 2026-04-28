@@ -1,11 +1,12 @@
 ---
-title: "Dezoito fitoquímicos 100% naturais que previnem e tratam o câncer"
+title: Dezoito fitoquímicos 100% naturais que previnem e tratam o câncer
 date: 2023-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A quimioprevenção do câncer com compostos fitoquímicos naturais é uma estratégia emergente para prevenir, impedir, retardar ou curar o câncer. Abaixo estão [18 fitoquímicos,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017674/) ou compostos, produzidos por plantas que os cientistas acreditam que podem proteger as células de danos que podem levar ao câncer, conforme estudado no artigo de pesquisa publicado na *Anti-cancer Agents in Medical Chemistry*.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lira tem encontro bilateral com representantes do parlamento árabe"
+title: Lira tem encontro bilateral com representantes do parlamento árabe
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente da Câmara convidou o chefe do Parlamento dos Emirados Árabes Unidos para participar do P-20 em Brasíllia.
 

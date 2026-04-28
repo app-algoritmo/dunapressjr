@@ -1,11 +1,12 @@
 ---
-title: "Preços de aluguéis residenciais fecham 2022 com alta de 8,25%, diz FGV"
+title: Preços de aluguéis residenciais fecham 2022 com alta de 8,25%, diz FGV
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em dezembro, índice apresentou deflação de 1,19%.
 

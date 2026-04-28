@@ -1,11 +1,13 @@
 ---
-title: "Médicos atletas disputam corrida com desfibrilador em projeto voluntário de salvamento"
+title: Médicos atletas disputam corrida com desfibrilador em projeto voluntário de
+  salvamento
 date: 2024-01-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Profissionais de saúde apaixonados por aventura participaram de uma das provas mais difíceis do mundo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conselho Brasil-OCDE aprova Estratégia de Governo para acessão à organização"
+title: Conselho Brasil-OCDE aprova Estratégia de Governo para acessão à organização
 date: 2021-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Brasil já aderiu a 100 dos 247 instrumentos legais da OCDE.
 

@@ -1,11 +1,13 @@
 ---
-title: "Desembargadora do TJPB defere cautelar suspendendo lei que garantia descontos nas mensalidades escolares"
+title: Desembargadora do TJPB defere cautelar suspendendo lei que garantia descontos
+  nas mensalidades escolares
 date: 2020-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O pedido de suspensão foi feito pelo Sinep-PB.
 

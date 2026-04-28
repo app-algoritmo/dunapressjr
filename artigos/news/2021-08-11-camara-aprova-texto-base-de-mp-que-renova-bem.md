@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova texto-base de MP que renova BEm"
+title: Câmara aprova texto-base de MP que renova BEm
 date: 2021-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Benefício é pago a trabalhadores com contratos suspensos ou reduzidos.
 

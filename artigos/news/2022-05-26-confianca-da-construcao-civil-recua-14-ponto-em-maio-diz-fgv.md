@@ -1,11 +1,12 @@
 ---
-title: "Confiança da construção civil recua 1,4 ponto em maio, diz FGV"
+title: Confiança da construção civil recua 1,4 ponto em maio, diz FGV
 date: 2022-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador chegou a 96,3 pontos, em uma escala de zero a 200 pontos.
 

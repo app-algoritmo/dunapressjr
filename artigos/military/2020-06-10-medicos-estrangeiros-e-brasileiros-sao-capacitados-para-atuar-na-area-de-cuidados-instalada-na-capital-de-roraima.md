@@ -1,11 +1,13 @@
 ---
-title: "Médicos estrangeiros e brasileiros são capacitados para atuar na Área de Cuidados instalada na capital de Roraima"
+title: Médicos estrangeiros e brasileiros são capacitados para atuar na Área de Cuidados
+  instalada na capital de Roraima
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Um total de 162 médicos venezuelanos, cubanos, bolivianos e brasileiros participam de capacitação para atuar na Área de Cuidados. Trata-se de unidade de saúde construída pela Operação Acolhida para atender a população de Roraima acometida pela Covid-19. No domingo (07), ocorreu a aula inaugural da turma, no auditório do Ministério Público de Roraima.
 

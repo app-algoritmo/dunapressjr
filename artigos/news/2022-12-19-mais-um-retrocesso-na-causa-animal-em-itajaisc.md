@@ -1,11 +1,12 @@
 ---
-title: "Mais um retrocesso na causa animal em Itajaí/SC"
+title: Mais um retrocesso na causa animal em Itajaí/SC
 date: 2022-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Enquanto na maioria das cidades do Brasil o uso de carroças puxado por cavalos já é proibido, a cidade de Itajaí, caminha de mão dadas com o retrocesso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Total de mortes no Japão aumenta 8,9% em 2022"
+title: Total de mortes no Japão aumenta 8,9% em 2022
 date: 2023-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde, Trabalho e Bem-Estar (MHLW) finalmente divulgaram os dados demográficos de dezembro, uma semana depois do planejado. As mortes de dezembro aumentarem 18,2% ano a ano
 

@@ -1,11 +1,12 @@
 ---
-title: "Como o isolamento social reflete na sociedade"
+title: Como o isolamento social reflete na sociedade
 date: 2020-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 O isolamento social é uma das muitas consequências do vírus Covid19. Para muitos que lutam na linha de frente, o isolamento piorou uma situação difícil. O casal de príncipes herdeiros participaram da primeira linha de trabalho sobre saúde mental na ultima terça-feira 28.4, durante reuniões por teleconferência com especialistas que atendem a população.
 

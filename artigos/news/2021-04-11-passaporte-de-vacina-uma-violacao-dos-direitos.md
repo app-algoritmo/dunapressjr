@@ -1,11 +1,12 @@
 ---
-title: "Passaporte de vacina: - Uma violação dos  direitos"
+title: 'Passaporte de vacina: - Uma violação dos  direitos'
 date: 2021-04-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -A UE apresentou propostas para um passaporte digital para vacinas. O passaporte da vacina é a única ferramenta que as autoridades propuseram como uma possível solução para a paralisação, mas agora pesquisadores em direito, medicina e filosofia estão reagindo. "Uma exigência para um passaporte de vacina para viver normalmente viola o estado de direito", diz a professora de direito [Anna Nylund](https://uit.no/ansatte/person?p_document_id=44061).
 

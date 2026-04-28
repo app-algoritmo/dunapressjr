@@ -1,11 +1,12 @@
 ---
-title: "Ministro garante reajuste das aposentadorias e do salário mínimo"
+title: Ministro garante reajuste das aposentadorias e do salário mínimo
 date: 2022-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novo valor deve cobrir ao menos a inflação.
 

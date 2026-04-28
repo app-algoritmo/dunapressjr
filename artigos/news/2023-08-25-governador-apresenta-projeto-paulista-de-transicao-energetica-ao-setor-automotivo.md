@@ -1,11 +1,12 @@
 ---
-title: "Governador apresenta projeto paulista de transição energética ao setor automotivo"
+title: Governador apresenta projeto paulista de transição energética ao setor automotivo
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Na abertura da ExpoFenabrave, Tarcísio de Freitas falou sobre suas políticas para pesquisa e desenvolvimento de combustíveis renováveis.
 

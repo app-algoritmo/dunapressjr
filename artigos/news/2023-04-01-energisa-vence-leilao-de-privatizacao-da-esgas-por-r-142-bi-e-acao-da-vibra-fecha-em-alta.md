@@ -1,11 +1,13 @@
 ---
-title: "Energisa vence leilão de privatização da ESGás por R$ 1,42 bi e ação da Vibra fecha em alta"
+title: Energisa vence leilão de privatização da ESGás por R$ 1,42 bi e ação da Vibra
+  fecha em alta
 date: 2023-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nesta sexta-feira (31), a Energisa (ENGI11) venceu o leilão de privatização da Companhia de Distribuição de Gás do Espírito Santo (ESGás), ao oferecer R$ 1,423 bilhão, um ágio de 7,28% em relação ao valor mínimo de outorga fixa. A concessionária é responsável pela distribuição de gás natural canalizado a mais de 60 mil unidades consumidoras do Espírito Santo.
 

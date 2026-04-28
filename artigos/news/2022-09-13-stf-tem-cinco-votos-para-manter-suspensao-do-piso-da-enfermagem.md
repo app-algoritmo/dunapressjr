@@ -1,11 +1,12 @@
 ---
-title: "STF tem cinco votos para manter suspensão do piso da enfermagem"
+title: STF tem cinco votos para manter suspensão do piso da enfermagem
 date: 2022-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O julgamento deve acabar apenas na sexta-feira.
 

@@ -1,11 +1,13 @@
 ---
-title: "Copom do Banco Central inicia reunião para definir Selic em meio a expectativas de corte de juros"
+title: Copom do Banco Central inicia reunião para definir Selic em meio a expectativas
+  de corte de juros
 date: 2023-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação em queda e pressão política indicam possível redução da taxa básica de juros após três anos de alta; Mercado aguarda decisão do Comitê nesta quarta-feira (2). 
 

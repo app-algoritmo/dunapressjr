@@ -1,11 +1,12 @@
 ---
-title: "Início da carreira: saiba as diferenças entre estagiário e jovem aprendiz"
+title: 'Início da carreira: saiba as diferenças entre estagiário e jovem aprendiz'
 date: 2023-11-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Idade, registro em carteira e atribuições são as principais dúvidas entre estudantes e empresas que aderem aos programas de aprendizagem e estágio.
 

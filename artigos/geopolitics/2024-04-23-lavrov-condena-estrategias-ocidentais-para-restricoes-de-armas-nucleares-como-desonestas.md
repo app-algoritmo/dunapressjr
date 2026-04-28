@@ -1,11 +1,13 @@
 ---
-title: "Lavrov Condena Estratégias Ocidentais para Restrições de Armas Nucleares como 'Desonestas'"
+title: Lavrov Condena Estratégias Ocidentais para Restrições de Armas Nucleares como
+  'Desonestas'
 date: 2024-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro dos Negócios Estrangeiros russo, Sergey Lavrov, criticou veementemente o que descreveu como "esquemas aparentemente desonestos" promovidos pelo Ocidente coletivo para obter vantagens através da imposição de novas restrições às armas nucleares. Em sua intervenção na Conferência de Não-Proliferação de Moscou, Lavrov acusou o "Ocidente coletivo", liderado pelos EUA, de complementar a destruição de acordos equilibrados com a promoção de medidas que criariam vantagens unilaterais para os Estados Unidos.
 

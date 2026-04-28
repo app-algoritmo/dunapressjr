@@ -1,11 +1,12 @@
 ---
-title: "Mercado eleva para 2,92% projeção de expansão da economia em 2023"
+title: Mercado eleva para 2,92% projeção de expansão da economia em 2023
 date: 2023-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa de inflação cai para 4,51%.
 

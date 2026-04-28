@@ -1,11 +1,13 @@
 ---
-title: "Documentos bancários mostram que mais de US $ 20 milhões foram para a família e funcionários de Biden"
+title: Documentos bancários mostram que mais de US $ 20 milhões foram para a família
+  e funcionários de Biden
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Novos documentos com dados bancários foram publicados. Pai e filho Biden permitiram que oligarcas da Rússia, Cazaquistão e Ucrânia pagassem 20 milhões em propinas quando Joe Biden era vice-presidente.
 

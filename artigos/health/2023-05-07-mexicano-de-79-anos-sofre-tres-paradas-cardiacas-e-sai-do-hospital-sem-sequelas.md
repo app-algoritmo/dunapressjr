@@ -1,11 +1,12 @@
 ---
-title: "Mexicano de 79 anos sofre três paradas cardíacas e sai do hospital sem sequelas"
+title: Mexicano de 79 anos sofre três paradas cardíacas e sai do hospital sem sequelas
 date: 2023-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O médico e missionário mexicano Salvador Thomassiny, 79 anos, estava fazendo uma conexão no Aeroporto Internacional Afonso Pena, em São José dos Pinhais (PR), quando sofreu uma parada cardíaca. Por sorte, o local contava com todo aparato necessário e a ajuda chegou rápido. Mesmo assim, foram cerca de 40 minutos até chegar ao hospital, em Curitiba, onde passou por um cateterismo, para desobstrução das artérias. Normalmente, o tempo médio de resistência do ser humano a uma parada cardíaca é de 10 minutos.
 

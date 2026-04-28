@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério critica decisão do STF sobre função social de terras produtivas"
+title: Marcos Rogério critica decisão do STF sobre função social de terras produtivas
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) criticou, em pronunciamento no Plenário na terça-feira (12), decisão do Supremo Tribunal Federal (STF) que confirmou a constitucionalidade de dispositivos da Lei da Reforma Agrária ([Lei 8.629, de 1993](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-02-25;8629)) que permitem a desapropriação de terras produtivas que não cumpram sua função social. A Ação Direta de Inconstitucionalidade (ADI) 3865, ajuizada pela Confederação da Agricultura e Pecuária do Brasil (CNA), foi considerada improcedente para os ministros do Supremo no início do mês. Para o parlamentar, que mencionou editorial do Grupo Bandeirantes de Comunicação contrário à decisão, a Corte está “desafiando o instituto da segurança jurídica” e prejudicando os produtores rurais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial recua em dez dos quinze locais pesquisados pelo IBGE"
+title: Produção industrial recua em dez dos quinze locais pesquisados pelo IBGE
 date: 2022-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maiores quedas foram observadas no Amazonas, Minas Gerais e Pará.
 

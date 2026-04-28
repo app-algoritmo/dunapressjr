@@ -1,11 +1,12 @@
 ---
-title: "O curioso caso da propagação da alergia à carne"
+title: O curioso caso da propagação da alergia à carne
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 “Uma rara alergia à carne causada por picadas de carrapatos está aumentando e pode já ter afetado até 450.000 pessoas”, afirma o CDC, acrescentando que houve um “aumento acentuado nos casos de Síndrome Alpha Gal (AGS)”.
 

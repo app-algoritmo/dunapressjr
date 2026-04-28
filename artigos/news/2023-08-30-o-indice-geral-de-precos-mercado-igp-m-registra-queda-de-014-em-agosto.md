@@ -1,11 +1,12 @@
 ---
-title: "O Índice Geral de Preços - Mercado (IGP-M) registra queda de 0,14% em agosto"
+title: O Índice Geral de Preços - Mercado (IGP-M) registra queda de 0,14% em agosto
 date: 2023-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula taxa de -5,28% no ano e de -7,20% em 12 meses.
 

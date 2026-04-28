@@ -1,11 +1,12 @@
 ---
-title: "Saiba como ser um Doador Voluntário de Sangue"
+title: Saiba como ser um Doador Voluntário de Sangue
 date: 2021-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As tentativas de uso do sangue para curar doenças vêm desde a pré-história. Durante muitos séculos, no entanto, os resultados foram totalmente infrutíferos, sendo que as primeiras transfusões, que datam de meados do século XVII, eram quase sempre feitas com sangue de animais.
 

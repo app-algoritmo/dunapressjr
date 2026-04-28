@@ -1,11 +1,12 @@
 ---
-title: "Guia definitivo para ser um Freelancer"
+title: Guia definitivo para ser um Freelancer
 date: 2020-07-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Em 2005, 10,1% da população dos EUA trabalhava como freelancer em algum momento do ano.
 - Em 2014, esse número havia aumentado para 34% da força de trabalho, ou 53 milhões de americanos.

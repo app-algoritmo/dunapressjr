@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro disponibiliza 14 mil vagas de ensino a distância"
+title: Governo Bolsonaro disponibiliza 14 mil vagas de ensino a distância
 date: 2020-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Número de vagas deve chegar a 31,7 mil nas próximas semanas;  Iniciativa faz parte do programa Novos Caminhos pretende estimular o ensino profissional e tecnológico no País.
 

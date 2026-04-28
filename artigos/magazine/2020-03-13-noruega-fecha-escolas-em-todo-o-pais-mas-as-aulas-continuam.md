@@ -1,11 +1,12 @@
 ---
-title: "Noruega fecha escolas em todo o país, mas as aulas continuam"
+title: Noruega fecha escolas em todo o país, mas as aulas continuam
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Considerada uma das nações mais prósperas do mundo, a Noruega está preparada para enfrentar o patógeno nCov19 no setor educacional.
 

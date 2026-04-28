@@ -1,11 +1,12 @@
 ---
-title: "Como é alugar uma casa em Orlando?"
+title: Como é alugar uma casa em Orlando?
 date: 2022-06-30
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Quem nunca sonhou em ir para a Disney? Sem dúvidas, a casa do Mickey é um dos destinos mais procurados pelos brasileiros por conta das atrações que o local oferece. Por isso, alugar em **Orlando **pode ser uma opção confortável e tranquila para você que deseja viajar e almeja mais espaço e liberdade.
 

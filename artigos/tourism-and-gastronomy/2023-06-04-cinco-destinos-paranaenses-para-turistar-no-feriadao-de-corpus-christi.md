@@ -1,11 +1,12 @@
 ---
-title: "Cinco destinos paranaenses para 'turistar' no feriadão de Corpus Christi"
+title: Cinco destinos paranaenses para 'turistar' no feriadão de Corpus Christi
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Prolongado com o fim de semana, o feriado de *Corpus Christi* (8/6) é mais uma oportunidade para sair da rotina e se aventurar em viagens e passeios mais longos. Para aqueles que podem aproveitar todos os dias – ou apenas alguns –, o Paraná oferece diversas opções de passeios acessíveis que podem ser feitos como “bate e volta” ou com hospedagem. 
 

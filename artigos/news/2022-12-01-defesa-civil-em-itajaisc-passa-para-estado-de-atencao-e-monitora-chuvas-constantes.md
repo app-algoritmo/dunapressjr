@@ -1,11 +1,12 @@
 ---
-title: "Defesa Civil em Itajaí/SC, passa para estado de atenção e monitora chuvas constantes"
+title: Defesa Civil em Itajaí/SC, passa para estado de atenção e monitora chuvas constantes
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Devido às constantes chuvas registradas, a Defesa Civil de Itajaí está em estado de atenção desde segunda-feira (28) em função do solo permanecer encharcado com risco para deslizamentos e alagamentos. O órgão de segurança e proteção monitora as condições climáticas e as áreas de encosta do município durante 24 horas.
 

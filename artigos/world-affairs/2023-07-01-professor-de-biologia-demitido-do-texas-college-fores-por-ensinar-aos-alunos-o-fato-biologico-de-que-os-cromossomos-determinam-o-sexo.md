@@ -1,11 +1,13 @@
 ---
-title: "Professor de biologia demitido do Texas College FORES por ensinar aos alunos o fato biológico de que os cromossomos determinam o sexo"
+title: Professor de biologia demitido do Texas College FORES por ensinar aos alunos
+  o fato biológico de que os cromossomos determinam o sexo
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Uma faculdade em San Antonio, Texas, supostamente demitiu um professor de biologia por ensinar aos alunos o fato biológico de que os cromossomos determinam o sexo.
 

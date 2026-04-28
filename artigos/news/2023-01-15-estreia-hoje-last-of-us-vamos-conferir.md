@@ -1,11 +1,12 @@
 ---
-title: "Estreia hoje Last Of Us – Vamos Conferir?"
+title: Estreia hoje Last Of Us – Vamos Conferir?
 date: 2023-01-15
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 Eu acho que a energia de 2023 começou muito boa, pelo menos para séries e filmes. Prova disso a estreia de hoje na **HBO**. – Ela é baseada num jogo de mesmo nome muito popular lançado em 2013 para Playstation 3. E tem como pano de fundo um mundo pós apocalíptico, motivo, uma epidemia causada por um fungo que transforma os humanos em zumbis, e é incurável.
 

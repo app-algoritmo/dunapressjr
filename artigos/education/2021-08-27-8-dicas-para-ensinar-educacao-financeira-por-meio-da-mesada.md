@@ -1,11 +1,12 @@
 ---
-title: "8 dicas para ensinar educação financeira por meio da mesada"
+title: 8 dicas para ensinar educação financeira por meio da mesada
 date: 2021-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Especialista orienta como os pais devem administrar esse instrumento de educação financeira.
 

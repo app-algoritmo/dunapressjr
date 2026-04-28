@@ -1,11 +1,12 @@
 ---
-title: "Documentos mostram que Pfizer sabia da pouca eficiência das vacinas"
+title: Documentos mostram que Pfizer sabia da pouca eficiência das vacinas
 date: 2023-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Pfizer ocultou dados sobre o declínio da imunidade enquanto milhões de pessoas faziam fila para serem vacinadas.
 

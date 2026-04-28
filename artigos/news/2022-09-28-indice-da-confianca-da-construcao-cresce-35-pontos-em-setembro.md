@@ -1,11 +1,12 @@
 ---
-title: "Índice da Confiança da Construção cresce 3,5 pontos em setembro"
+title: Índice da Confiança da Construção cresce 3,5 pontos em setembro
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o maior nível desde novembro de 2012, diz FGV-Ibre.
 

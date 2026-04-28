@@ -1,11 +1,13 @@
 ---
-title: "Museu da Imagem e do Som de Santa Catarina, oferece curso on-line e gratuito de fotografia com uso de celulares"
+title: Museu da Imagem e do Som de Santa Catarina, oferece curso on-line e gratuito
+  de fotografia com uso de celulares
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Museu da Imagem e do Som (MIS/SC) oferecerá nos dias 10 e 11 de dezembro um curso gratuito sobre fotografia básica com o uso de celulares. As aulas, no formato de palestra, serão realizadas das 8h30 às 10h30, pela plataforma de teleconferência Zoom.
 

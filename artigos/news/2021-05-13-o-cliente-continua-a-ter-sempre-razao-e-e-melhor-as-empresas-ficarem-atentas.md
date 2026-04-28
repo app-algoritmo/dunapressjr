@@ -1,11 +1,12 @@
 ---
-title: "O cliente (continua) a ter sempre razão e é melhor as empresas ficarem atentas"
+title: O cliente (continua) a ter sempre razão e é melhor as empresas ficarem atentas
 date: 2021-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O relatório CX Trends 2021, que analisa a quantas anda a experiência do consumidor, aponta que 74% das pessoas deixariam de comprar de uma marca por conta de uma única experiência ruim que venham a ter com a mesma. Outros números levantados pelo estudo apontam que, em 2020, 84% dos consumidores experimentaram novos canais de comunicação com as marcas. O atendimento via WhatsApp aumentou 118%, via chat 133% enquanto as redes sociais experimentaram um crescimento de 151%. O que não significa que o bom e velho telefone tenha sido aposentado. 
 

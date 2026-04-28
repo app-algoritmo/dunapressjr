@@ -1,11 +1,12 @@
 ---
-title: "Profissionais de saúde podem participar de teste de vacina contra Covid-19"
+title: Profissionais de saúde podem participar de teste de vacina contra Covid-19
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Profissionais de saúde do Distrito Federal e de Curitiba podem se voluntariar para participar da pesquisa clínica que testa a eficácia da vacina contra o novo coronavírus. Desenvolvida pela farmacêutica Sinovac Biotech, em parceira com o Instituo Butantan, essa é uma das quatro vacinas que atualmente estão em teste no País. Os interessados podem acessar o [formulário online](http://app.profiscov.com/home-public), que funciona como uma plataforma de triagem, avaliando se o candidato cumpre os requisitos para o estudo. Quem for considerado elegível deve enviar nome e telefone para o e-mail exibido ao final do preenchimento do formulário.
 

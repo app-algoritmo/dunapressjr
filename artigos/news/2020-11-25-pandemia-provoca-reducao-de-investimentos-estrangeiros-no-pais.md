@@ -1,11 +1,12 @@
 ---
-title: "Pandemia provoca redução de investimentos estrangeiros no país"
+title: Pandemia provoca redução de investimentos estrangeiros no país
 date: 2020-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em relação aos dez meses de 2019, a queda chegou a 44,6%.
 

@@ -1,11 +1,13 @@
 ---
-title: "O Brasil vai 'surpreender o mundo' e sairá da crise causada pela pandemia do novo coronavírus 'muito brevemente'"
+title: O Brasil vai 'surpreender o mundo' e sairá da crise causada pela pandemia do
+  novo coronavírus 'muito brevemente'
 date: 2020-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Afirmação foi feita pelo Paulo Guedes, após reunião com o presidente Bolsonaro
 

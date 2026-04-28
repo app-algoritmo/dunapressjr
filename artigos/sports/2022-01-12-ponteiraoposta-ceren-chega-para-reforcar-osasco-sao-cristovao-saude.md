@@ -1,11 +1,12 @@
 ---
-title: "Ponteira/oposta Ceren chega para reforçar Osasco São Cristóvão Saúde"
+title: Ponteira/oposta Ceren chega para reforçar Osasco São Cristóvão Saúde
 date: 2022-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O ano de 2022 traz uma novidade internacional para o Osasco São Cristóvão Saúde. A ponteira/oposta turca Ceren Kestirengöz Kapucu chega para compor o elenco do time que ocupa a vice-liderança da Superliga Banco do Brasil 2021/22. Ela desembarcou no Brasil nesta segunda-feira (10) e seguiu diretamente para o ginásio José Liberatti, animada com a oportunidade de vestir uma das camisas mais "pesadas" do vôlei mundial.
 

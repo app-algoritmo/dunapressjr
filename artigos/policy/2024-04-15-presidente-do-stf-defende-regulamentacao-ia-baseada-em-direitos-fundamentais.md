@@ -1,11 +1,12 @@
 ---
-title: "Presidente do STF defende regulamentação IA baseada em direitos fundamentais"
+title: Presidente do STF defende regulamentação IA baseada em direitos fundamentais
 date: 2024-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Supremo Tribunal Federal (STF), ministro Luís Roberto Barroso, enfatizou a importância da regulamentação da Inteligência Artificial (IA) com base na proteção de direitos fundamentais, durante a Aula Magna da Escola da Magistratura do Estado do Rio de Janeiro (Emerj) nesta sexta-feira (12).
 

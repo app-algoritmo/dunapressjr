@@ -1,11 +1,12 @@
 ---
-title: "Agricultura Familiar na Amazônia Legal já alcançou cerca de 7 mil produtores"
+title: Agricultura Familiar na Amazônia Legal já alcançou cerca de 7 mil produtores
 date: 2020-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Impulsionar a agricultura familiar na Amazônia Legal, assegurando renda e apoio para preservação ambiental, é o que prevê o projeto de Fortalecimento da Agricultura Familiar na Amazônia Legal, conhecido como Fortaf-AL, da Companhia Nacional de Abastecimento (Conab) e Ministério da Agricultura.
 

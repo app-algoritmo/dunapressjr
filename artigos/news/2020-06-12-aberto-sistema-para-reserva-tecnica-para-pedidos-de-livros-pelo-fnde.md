@@ -1,11 +1,12 @@
 ---
-title: "Aberto sistema para reserva técnica para pedidos de livros pelo FNDE"
+title: Aberto sistema para reserva técnica para pedidos de livros pelo FNDE
 date: 2020-06-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Materiais serão distribuídos após a reabertura das escolas.
 

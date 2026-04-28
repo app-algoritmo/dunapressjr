@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra a segunda fase da Operação Torre de Marfim"
+title: PF deflagra a segunda fase da Operação Torre de Marfim
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Florianópolis/SC – A Polícia Federal, em conjunto com a CGU, deflagrou nesta quarta-feira, 17/6, a Operação Torre de Marfim II, que investiga desvios de recursos públicos mediante utilização da UFSC e de suas fundações de apoio, com o cumprimento de mandados de busca e apreensão em dois locais distintos. A ação é um desdobramento da Operação Torre de Marfim, deflagrada em 07/12/2017.
 

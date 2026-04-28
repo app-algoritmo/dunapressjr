@@ -1,11 +1,13 @@
 ---
-title: "O uso de dados meteorológicos Copernicus Sentinela fornece alerta antecipado para o setor de energia"
+title: O uso de dados meteorológicos Copernicus Sentinela fornece alerta antecipado
+  para o setor de energia
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Muitas partes da Europa estão esquentando esta semana, o que significa que mais de nós estamos usando ar condicionado para manter a calma. Isto está colocando uma alta demanda em recursos energéticos.
 

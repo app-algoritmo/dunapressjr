@@ -1,11 +1,12 @@
 ---
-title: "Governo deverá ser lançar em fevereiro, Satélite de monitoramento da Amazônia"
+title: Governo deverá ser lançar em fevereiro, Satélite de monitoramento da Amazônia
 date: 2020-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um satélite completamente nacional, projetado e desenvolvido no Brasil e pelo Instituto Nacional de Pesquisas Espaciais (Inpe), o Amazônia-1, que já está na fase final dos testes e deve ser lançado em fevereiro do ano que vem. “Este satélite é focado justamente na observação da Amazônia, ele tem uma série de características interessantes e é 100% nacional”, disse o ministro da Ciência, Tecnologia e Inovações, Marcos Pontes, que participou nesta terça-feira (14) de coletiva à imprensa.
 

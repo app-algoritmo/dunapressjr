@@ -1,11 +1,12 @@
 ---
-title: "Ex-soldado americano, estudante de engenharia é voluntária para pegar coronavírus"
+title: Ex-soldado americano, estudante de engenharia é voluntária para pegar coronavírus
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ela quer introduzir o SARS-CoV-2 em seu corpo, convencida de que, ao fazer isso, ajudará a acelerar o desenvolvimento da vacina. Pedersen, 29 anos, que emigrou dos EUA para Israel quando criança, acha que será um "processo muito desagradável", mas se sente "realizada" por participar.
 

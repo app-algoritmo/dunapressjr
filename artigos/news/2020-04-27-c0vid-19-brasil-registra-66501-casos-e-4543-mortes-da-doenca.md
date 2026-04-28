@@ -1,11 +1,12 @@
 ---
-title: "C0VID-19: Brasil registra 66.501 casos e 4.543 mortes da doença"
+title: 'C0VID-19: Brasil registra 66.501 casos e 4.543 mortes da doença'
 date: 2020-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As informações foram atualizadas pelas Secretarias Estaduais de Saúde até as 14h desta segunda-feira (27)
 

@@ -1,12 +1,13 @@
 ---
-title: "Projeto proíbe a exportação de animais vivos para abate"
+title: Projeto proíbe a exportação de animais vivos para abate
 date: 2024-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O Projeto de Lei 521/24 proíbe a exportação de animais vivos para abate ou reprodução. O texto em análise na Câmara dos Deputados altera a [Lei da Política Agrícola](https://www2.camara.leg.br/legin/fed/lei/1991/lei-8171-17-janeiro-1991-365106-norma-pl.html), que trata do Sistema Unificado de Atenção à Sanidade Agropecuária.
 

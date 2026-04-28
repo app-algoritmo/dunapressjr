@@ -1,11 +1,12 @@
 ---
-title: "Lei de ajuda a estados pode resultar em calote a empréstimos externos"
+title: Lei de ajuda a estados pode resultar em calote a empréstimos externos
 date: 2020-05-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ministério da Economia recomenda veto à suspensão de pagamentos
 

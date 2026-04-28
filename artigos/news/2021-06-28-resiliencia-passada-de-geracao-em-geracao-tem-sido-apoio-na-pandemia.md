@@ -1,11 +1,12 @@
 ---
-title: "Resiliência passada de geração em geração tem sido apoio na pandemia"
+title: Resiliência passada de geração em geração tem sido apoio na pandemia
 date: 2021-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Viver em um mundo cada vez mais globalizado não significa apenas abraçar novas culturas e realidades, mas também olhar com muito carinho e orgulho para sua origem e entender como seus costumes são estreitamente impactados por ela. Esse é o desafio para os milhões de brasileiros que têm ascendência dos diversos povos que ajudaram a colonizar o Brasil a partir do século XIX. Com a pandemia, essa nova geração viu no negócio familiar uma possibilidade de se reinventar e alcançar novos objetivos, aproveitando o conhecimento e a resiliência que aprenderam com os pais e avós ao longo dos anos de imigração.
 

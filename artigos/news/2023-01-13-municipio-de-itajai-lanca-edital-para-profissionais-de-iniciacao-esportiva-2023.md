@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí lança edital para profissionais de iniciação esportiva 2023"
+title: Município de Itajaí lança edital para profissionais de iniciação esportiva
+  2023
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Fundação Municipal de Esportes (FMEL), lançou o edital do Programa Bolsa Esportiva 2023 que contempla os profissionais de iniciação esportiva. Neste ano, a iniciativa visa auxiliar o desenvolvimento de modalidades esportivas e atender mais de 600 crianças e adolescentes da cidade. As inscrições podem ser feitas até as 18h do dia 18 de janeiro.
 

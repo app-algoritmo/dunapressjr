@@ -1,12 +1,13 @@
 ---
-title: "3 melhores animações lançadas em 2022"
+title: 3 melhores animações lançadas em 2022
 date: 2022-12-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## O ano de 2022 nos brindou com diversos projetos no mundo cinematográfico, entre eles alguns desenhos animados.
 

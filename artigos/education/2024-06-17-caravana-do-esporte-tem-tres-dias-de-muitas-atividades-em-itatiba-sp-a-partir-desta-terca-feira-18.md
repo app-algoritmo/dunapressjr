@@ -1,12 +1,14 @@
 ---
-title: "Caravana do Esporte tem três dias de muitas atividades em Itatiba (SP), a partir desta terça-feira (18)"
+title: Caravana do Esporte tem três dias de muitas atividades em Itatiba (SP), a partir
+  desta terça-feira (18)
 date: 2024-06-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Projeto do Instituto Esporte e Educação (IEE) estará na cidade até quinta-feira (20) e receberá a visita da atleta Dudinha, do futebol feminino do Palmeiras, para compartilhar experiências sobre a importância do esporte na vida de crianças e jovens.
 

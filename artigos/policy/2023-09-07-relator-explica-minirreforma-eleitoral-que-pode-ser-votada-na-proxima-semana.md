@@ -1,11 +1,12 @@
 ---
-title: "Relator explica minirreforma eleitoral, que pode ser votada na próxima semana"
+title: Relator explica minirreforma eleitoral, que pode ser votada na próxima semana
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em entrevista à TV Câmara, o deputado Rubens Pereira Júnior disse que parecer vai fazer mudanças pontuais na legislação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto incentiva o cicloturismo na cidade de Itajaí"
+title: Projeto incentiva o cicloturismo na cidade de Itajaí
 date: 2021-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí instalou duas estações de bicicletas para apoio aos ciclistas. Uma base foi colocada em frente ao Ponto de Informações Turísticas (PIT) no Mercado Público, e a outra está localizada na rua Vereador Germano Luís Viêira, 2000, no bairro Itaipava (anexo ao supermercado Moser). A ação é coordenada pela Secretaria Municipal de Turismo e Eventos e busca estimular o cicloturismo na cidade. A previsão é ampliar as estações para outras localidades em diversos pontos da cidade.
 

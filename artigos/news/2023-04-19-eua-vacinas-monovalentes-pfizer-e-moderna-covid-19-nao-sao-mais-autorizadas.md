@@ -1,11 +1,12 @@
 ---
-title: "EUA: Vacinas monovalentes Pfizer e Moderna COVID-19 não são mais autorizadas"
+title: 'EUA: Vacinas monovalentes Pfizer e Moderna COVID-19 não são mais autorizadas'
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Em um  [comunicado à imprensa](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-changes-simplify-use-bivalent-mrna-covid-19-vaccines) na terça-feira, o FDA declarou que as vacinas monovalentes Pfizer e Modena mRNA Covid-19 não estão “mais autorizadas para uso nos Estados Unidos”.
 

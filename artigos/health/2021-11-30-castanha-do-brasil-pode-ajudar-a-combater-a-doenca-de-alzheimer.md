@@ -1,11 +1,12 @@
 ---
-title: "Castanha-do-brasil pode ajudar a combater a doença de Alzheimer"
+title: Castanha-do-brasil pode ajudar a combater a doença de Alzheimer
 date: 2021-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O [mal de Alzheimer](http://canalciencia.ibict.br/pesquisa/0310_Castanha_do_brasil_pode_ajudar_combater_doenca_de_Alzheimer#) é uma doença degenerativa, sem cura, mais comum em pessoas maiores de 65 anos. Caracterizada pela perda progressiva de neurônios, é a principal causa de demência em idosos, atingindo cerca de 35,6 milhões de pessoas no mundo. Com o envelhecimento da população, a perspectiva é de que esse número aumente.
 

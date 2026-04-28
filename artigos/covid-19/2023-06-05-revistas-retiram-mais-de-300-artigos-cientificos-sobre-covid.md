@@ -1,11 +1,12 @@
 ---
-title: "Revistas retiram mais de 300 artigos científicos sobre Covid"
+title: Revistas retiram mais de 300 artigos científicos sobre Covid
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Mais de 300 trabalhos de pesquisa foram retirados de revistas científicas por não conformidade com padrões éticos e preocupações com a validade científica das publicações.
 

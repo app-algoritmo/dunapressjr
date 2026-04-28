@@ -1,11 +1,12 @@
 ---
-title: "Deputados vão pedir cassação de Nikolas Ferreira por fala transfóbica"
+title: Deputados vão pedir cassação de Nikolas Ferreira por fala transfóbica
 date: 2023-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Transfobia é considerada crime no país desde 2019.
 

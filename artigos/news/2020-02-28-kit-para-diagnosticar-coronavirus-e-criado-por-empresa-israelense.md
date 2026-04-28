@@ -1,11 +1,12 @@
 ---
-title: "Kit para diagnosticar coronavírus é criado por empresa israelense"
+title: Kit para diagnosticar coronavírus é criado por empresa israelense
 date: 2020-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O anúncio do kit BATM ocorre quando os funcionários lutam para equilibrar a necessidade de testes rápidos e se preocupam com falsos positivos; ministro da Ciência elogia progresso do instituto em direção à vacina.
 

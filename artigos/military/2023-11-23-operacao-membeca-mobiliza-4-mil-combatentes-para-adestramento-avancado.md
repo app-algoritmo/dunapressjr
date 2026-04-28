@@ -1,11 +1,12 @@
 ---
-title: "Operação Membeca mobiliza 4 mil combatentes para adestramento avançado"
+title: Operação Membeca mobiliza 4 mil combatentes para adestramento avançado
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Cerca de 4 mil militares se reuniram no Campo de Instrução da Academia Militar das Agulhas Negras para a Operação Membeca entre os dias 10 e 18 de novembro. O exercício visa conferir o nível de adestramento avançado às organizações militares subordinadas à 1ª Divisão de Exército, sediada no Rio de Janeiro. Foram mobilizadas mais de cem viaturas, como os veículos blindados Guarani, Cascavel e Lince, além dos helicópteros HM-4 Jaguar e HM-1 Pantera, do Comando de Aviação do Exército. 
 

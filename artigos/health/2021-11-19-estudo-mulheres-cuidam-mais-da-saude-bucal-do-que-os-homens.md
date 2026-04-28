@@ -1,11 +1,12 @@
 ---
-title: "Estudo: Mulheres cuidam mais da saúde bucal do que os homens"
+title: 'Estudo: Mulheres cuidam mais da saúde bucal do que os homens'
 date: 2021-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um estudo publicado pela "Revista de Saúde Pública da Universidade de São Paulo" mostrou que as mulheres cuidam mais da saúde bucal do que os homens. A pesquisa revelou também que o sexo feminino tem um cuidado maior com os dentes pelo fato de serem mais exigentes com a aparência do sorriso. Além disso, segundo o estudo, os homens tendem a buscar um especialista apenas quando os problemas bucais já estão mais avançados, isto é, apresentando dor ou alteração física.
 

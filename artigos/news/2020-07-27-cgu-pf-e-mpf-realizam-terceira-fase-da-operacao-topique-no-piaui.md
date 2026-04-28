@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPF realizam terceira fase da Operação Topique no Piauí"
+title: CGU, PF e MPF realizam terceira fase da Operação Topique no Piauí
 date: 2020-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ação aprofunda as investigações de fraudes em licitações para a prestação de serviços de transporte escolar. Prejuízo efetivo já identificado aos cofres públicos é de R$ 51.334.628,16.
 

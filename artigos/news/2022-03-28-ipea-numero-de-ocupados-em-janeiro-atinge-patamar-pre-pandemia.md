@@ -1,11 +1,12 @@
 ---
-title: "Ipea: número de ocupados em janeiro atinge patamar pré-pandemia"
+title: 'Ipea: número de ocupados em janeiro atinge patamar pré-pandemia'
 date: 2022-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novas vagas ainda surgem no mercado informal.
 

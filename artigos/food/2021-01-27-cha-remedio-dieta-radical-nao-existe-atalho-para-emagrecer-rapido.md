@@ -1,11 +1,12 @@
 ---
-title: "Chá, remédio, dieta radical: NÃO existe atalho para emagrecer rápido"
+title: 'Chá, remédio, dieta radical: NÃO existe atalho para emagrecer rápido'
 date: 2021-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Existem muitos estímulos que reforçam a ideia de um peso ideal, principalmente quando falamos nas dietas radicais que prometem de forma rápida aquele corpo da revista.
 

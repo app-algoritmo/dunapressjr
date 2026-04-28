@@ -1,11 +1,12 @@
 ---
-title: "Enviado especial do Vaticano aponta potencial papel da China no conflito ucraniano"
+title: Enviado especial do Vaticano aponta potencial papel da China no conflito ucraniano
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A China é um recurso grande e insubstituível, disse Matteo Zuppi.
 

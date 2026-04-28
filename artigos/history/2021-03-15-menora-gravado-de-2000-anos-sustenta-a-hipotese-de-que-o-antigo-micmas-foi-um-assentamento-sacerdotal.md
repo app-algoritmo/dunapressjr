@@ -1,11 +1,13 @@
 ---
-title: "Menorá gravado de 2.000 anos, sustenta a hipótese de que o antigo Micmás foi um assentamento sacerdotal"
+title: Menorá gravado de 2.000 anos, sustenta a hipótese de que o antigo Micmás foi
+  um assentamento sacerdotal
 date: 2021-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Um pouco antes de Hanukkah, um desenho esquecido de 2.000 anos da menorá do Templo está novamente vendo a luz do dia.
 

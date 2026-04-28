@@ -1,11 +1,13 @@
 ---
-title: "Cooperação Militar entre Irã, Rússia e Coreia do Norte Preocupa Conselheiro de Segurança Nacional dos EUA"
+title: Cooperação Militar entre Irã, Rússia e Coreia do Norte Preocupa Conselheiro
+  de Segurança Nacional dos EUA
 date: 2024-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Conselheiro de Segurança Nacional da Casa Branca, Jake Sullivan, expressou profunda preocupação com a crescente cooperação militar entre o Irã, a Rússia e a Coreia do Norte. Ele alertou que propostas de defesa russas ao Irã e à Coreia do Norte poderiam intensificar a instabilidade nas regiões da Ásia Ocidental e do Indo-Pacífico.
 

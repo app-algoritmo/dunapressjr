@@ -1,12 +1,13 @@
 ---
-title: "Trump lidera nas primárias republicanas"
+title: Trump lidera nas primárias republicanas
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 O ex-presidente Donald Trump está à frente do governador da Flórida Ron DeSantis por 17 pontos e do ex-vice-presidente Mike Pence por 40 na intenção de voto nas primárias republicanas para as eleições presidenciais de 2024, segundo a uma pesquisa publicada na quarta-feira (18).
 

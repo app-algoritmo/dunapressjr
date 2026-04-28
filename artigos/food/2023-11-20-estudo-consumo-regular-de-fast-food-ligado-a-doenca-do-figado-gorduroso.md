@@ -1,11 +1,12 @@
 ---
-title: "Estudo: Consumo regular de fast food ligado à doença do fígado gorduroso"
+title: 'Estudo: Consumo regular de fast food ligado à doença do fígado gorduroso'
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## O fast food é frequentemente considerado conveniente, barato e saboroso. Mas, apesar destas qualidades supostamente positivas, é frequentemente citada como [uma das principais causas de doença hepática](https://www.theepochtimes.com/health/eating-fast-food-regularly-is-linked-to-liver-disease-study-5521271) – como evidenciado por um estudo.
 

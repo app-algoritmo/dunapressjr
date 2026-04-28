@@ -1,11 +1,12 @@
 ---
-title: "Hospital de Campanha do Guarujá é inaugurado na Base Aérea de Santos (BAST)"
+title: Hospital de Campanha do Guarujá é inaugurado na Base Aérea de Santos (BAST)
 date: 2020-05-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Hospital de Campanha de Guarujá (HCAMP GJA), montado no interior do hangar operacional da Base Aérea de Santos (BAST), para o acolhimento e o tratamento de pacientes acometidos com a COVID-19, foi inaugurado no dia 8 de maio. A partir de uma parceria entre a Prefeitura Municipal de Guarujá (SP) e a Força Aérea Brasileira (FAB), o projeto teve início em  março, quando formalizado pedido de utilização das instalações da BAST, via Comando Conjunto Sudeste (CMDO Cj SE), para o Estado-Maior Conjunto das Forças Armadas (EMCFA), responsável pela Operação COVID-19. As atividades de montagem das estruturas tiveram início na primeira semana de abril. 
 

@@ -1,12 +1,13 @@
 ---
-title: "Nossa Senhora da Penha, proteja a cidade de São Paulo!"
+title: Nossa Senhora da Penha, proteja a cidade de São Paulo!
 date: 2020-09-08
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 Hoje, 8 de setembro, São Paulo comemora o aniversário de sua padroeira, Nossa Senhora da Penha, que também dá nome a um bairro histórico e tem raízes profundas na espiritualidade fundadora  da Igreja no Brasil e na Europa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Por uma nova aristocracia"
+title: Por uma nova aristocracia
 date: 2024-03-28
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 A burocracia cria entes tecnocráticos, anônimos, desprovidos de compromisso com as ideias formadoras da pátria e da sociedade, assim como não dá sustentação aos mitos fundadores de uma nação. É um mero instrumento que possibilita agir em prol de si e de seus agentes. Já a Aristocracia é justamente o oposto.
 

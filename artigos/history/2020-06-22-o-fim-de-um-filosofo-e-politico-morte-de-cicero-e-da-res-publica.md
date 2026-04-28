@@ -1,11 +1,12 @@
 ---
-title: "O Fim de um Filosofo e Político: Morte de Cicero e da Res-pública"
+title: 'O Fim de um Filosofo e Político: Morte de Cicero e da Res-pública'
 date: 2020-06-22
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 Tal como muitas pessoas, muitos filósofos tiveram seus últimos dias em vida de forma trágica e marcaram, com isso, a nossa história, como por exemplo a de Sócrates que após ser condenado tinha a sua frente a escolha de se suicidar com veneno, ou de se exilar e perder toda a sua memória para a posteridade. Ou também a de Friedrich Nietzsche que acabou por perder sua sanidade mental, sendo fadado assim a loucura. Neste artigo iremos tratar dos últimos dias que se sucederam a morte do filosofo e político Romano Cícero e quais foram suas consequências.
 

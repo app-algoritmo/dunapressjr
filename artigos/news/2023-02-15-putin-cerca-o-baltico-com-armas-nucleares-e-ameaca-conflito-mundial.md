@@ -1,12 +1,13 @@
 ---
-title: "Putin cerca o Báltico com armas nucleares e ameaça conflito mundial"
+title: Putin cerca o Báltico com armas nucleares e ameaça conflito mundial
 date: 2023-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 A situação em torno da guerra na Ucrânia pode piorar quase um ano após seu início. Mais de 50 países que estão conversando para enviar mais armas e recursos para Kiev diante dos movimentos ordenados de Moscou com aviões, tropas e até bombas nucleares parecem concordar com isso. Ou seja, a invasão continua e fica mais complicada a cada dia.
 

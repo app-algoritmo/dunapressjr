@@ -1,11 +1,12 @@
 ---
-title: "Dicas de prevenção da Gravidez na Adolescência"
+title: Dicas de prevenção da Gravidez na Adolescência
 date: 2022-02-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os adolescentes – indivíduos entre 10 e 20 anos incompletos – representam cerca de 20% a 30% da população mundial, estimando-se que no Brasil essa proporção alcance 23%. Dentre os problemas de saúde nessa faixa etária, a gravidez sobressai em quase todos os países e, em especial, nos países em desenvolvimento.
 

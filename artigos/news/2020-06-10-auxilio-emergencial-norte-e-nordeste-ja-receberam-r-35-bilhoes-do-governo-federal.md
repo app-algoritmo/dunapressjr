@@ -1,11 +1,13 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: Norte e Nordeste já receberam R$ 35 bilhões do Governo Federal"
+title: 'AUXÍLIO EMERGENCIAL: Norte e Nordeste já receberam R$ 35 bilhões do Governo
+  Federal'
 date: 2020-06-10
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro da Cidadania, Onyx Lorenzoni, reforça relevância de o dinheiro chegar aos mais vulneráveis. Valor representa quase metade dos recursos pagos no programa. 
 

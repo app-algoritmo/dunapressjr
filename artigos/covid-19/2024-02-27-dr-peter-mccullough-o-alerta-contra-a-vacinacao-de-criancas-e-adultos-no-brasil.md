@@ -1,11 +1,13 @@
 ---
-title: "Dr. Peter McCullough: O Alerta Contra a Vacinação de Crianças e Adultos no Brasil"
+title: 'Dr. Peter McCullough: O Alerta Contra a Vacinação de Crianças e Adultos no
+  Brasil'
 date: 2024-02-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O renomado médico norte americano Dr. Peter McCullough, professor e chefe de pesquisa em diversas universidades, trouxe um alerta contundente durante sua participação na Audiência Pública no Senado brasileiro em 26 de fevereiro de 2024. Reconhecido internacionalmente por sua liderança na pesquisa da associação entre doença renal crônica e risco de doenças cardiovasculares, McCullough é uma voz respeitada no cenário médico global, com mais de 1000 publicações e mais de 680 citações.
 

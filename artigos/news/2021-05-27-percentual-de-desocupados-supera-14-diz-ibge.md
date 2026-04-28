@@ -1,11 +1,12 @@
 ---
-title: "Percentual de desocupados supera 14%, diz IBGE"
+title: Percentual de desocupados supera 14%, diz IBGE
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Essa é a maior taxa desde 2012.
 

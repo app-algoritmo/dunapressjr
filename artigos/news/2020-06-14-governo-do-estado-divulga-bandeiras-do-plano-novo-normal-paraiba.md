@@ -1,11 +1,12 @@
 ---
-title: "Governo do Estado divulga bandeiras do plano ‘Novo Normal Paraíba’"
+title: Governo do Estado divulga bandeiras do plano ‘Novo Normal Paraíba’
 date: 2020-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As bandeiras irão orientar plano de retomada gradual das atividades nos municípios.
 

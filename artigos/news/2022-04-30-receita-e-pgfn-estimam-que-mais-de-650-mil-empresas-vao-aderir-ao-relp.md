@@ -1,11 +1,12 @@
 ---
-title: "Receita e PGFN estimam que mais de 650 mil empresas vão aderir ao Relp"
+title: Receita e PGFN estimam que mais de 650 mil empresas vão aderir ao Relp
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prazo para adesão ao programa de regularização de débitos do Simples Nacional foi prorrogado para 31 de maio; limites para entrega da declaração do MEI e regularização de dívidas impeditivas da opção pelo Simples Nacional também foram ampliados.
 

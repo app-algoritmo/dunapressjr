@@ -1,11 +1,12 @@
 ---
-title: "PF e PRF apreendem 4,5 toneladas de maconha em Ponta Porã/MS"
+title: PF e PRF apreendem 4,5 toneladas de maconha em Ponta Porã/MS
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ponta Porã/MS – A Polícia Federal, em operação conjunta com a Polícia Rodoviária Federal, apreenderam nesta sexta-feira (17/4), na rodovia BR-463, aproximadamente 4.600 quilos de maconha escondida em meio a uma carga lícita de milho, que tinha como destino o Estado de São Paulo. Trata-se da maior apreensão do ano na região.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ed Dowd: A arma biológica CV19 causou uma pandemia dos vacinados, mas isso não é tudo"
+title: 'Ed Dowd: A arma biológica CV19 causou uma pandemia dos vacinados, mas isso
+  não é tudo'
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Ed Dowd era um gerente de dinheiro de Wall Street e ainda é um hábil analista de números. Ele trabalhou para a Black Rock e ganhou bilhões de dólares em lucros obtendo os dados corretos. Agora, Dowd aplicou suas habilidades às mortes e ferimentos graves relacionados à vacina de armas biológicas CV19. Ele vê um futuro sombrio e inquietante à nossa frente.
 

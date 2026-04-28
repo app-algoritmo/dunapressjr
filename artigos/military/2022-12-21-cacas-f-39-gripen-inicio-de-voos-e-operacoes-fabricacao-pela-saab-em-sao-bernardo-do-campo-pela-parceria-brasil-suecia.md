@@ -1,11 +1,13 @@
 ---
-title: "Caças F-39 Gripen - Início de voos e operações - Fabricação pela Saab em São Bernardo do Campo, pela parceria Brasil-Suécia"
+title: Caças F-39 Gripen - Início de voos e operações - Fabricação pela Saab em São
+  Bernardo do Campo, pela parceria Brasil-Suécia
 date: 2022-12-21
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Military
+- Military
 ---
+
 
 .
 

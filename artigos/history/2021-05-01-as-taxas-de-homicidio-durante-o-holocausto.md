@@ -1,11 +1,12 @@
 ---
-title: "As taxas de homicídio durante o Holocausto"
+title: As taxas de homicídio durante o Holocausto
 date: 2021-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Uma investigação sobre o que é conhecido como Operação Reinhard, a matança nazista de mais de 1,5 milhão de judeus em um período de apenas 100 dias.
 

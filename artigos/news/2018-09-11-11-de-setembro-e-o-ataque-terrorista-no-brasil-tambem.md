@@ -1,11 +1,12 @@
 ---
-title: "11 de setembro e o ataque terrorista... No Brasil também..."
+title: 11 de setembro e o ataque terrorista... No Brasil também...
 date: 2018-09-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Desde 2001, o dia 11 de setembro tem sido lembrado pelos atentados terroristas ocorridos nos Estados Unidos e que matou várias pessoas. As pessoas, ainda consternadas, promovem celebrações e tributos em homenagem aos mortos nos ataques.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>Revérbero Constitucional Fluminense: Um Jornal da Independência </strong>"
+title: '<strong>Revérbero Constitucional Fluminense: Um Jornal da Independência </strong>'
 date: 2022-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Atualmente, seu nome não nos soa familiar: soa mesmo estranho, longo e grave. Mas sua história é inigualável. Tanto que em 2005 a Biblioteca Nacional lançou uma edição fac-similar desse jornal, com artigos, estudo hemerográfico, classificação de textos por assunto e índice preparados por Marcello e Cybelle de Ipanema – figuras em alta conta na instituição. Pois em 1821, há quase 200 anos, com o retorno da Corte portuguesa do Brasil para a Europa, quando foi extinta a proibição de circulação de impressos que não fossem da Impressão Régia na colônia, foi ele, o Revérbero Constitucional Fluminense, um dos primeiros panfletos periódicos a surgir, e em oposição ao domínio português. Apontado como o órgão doutrinário da Independência do Brasil, tinha inclinação francamente liberal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Demoniodemia: O Caos Global e a Pandemia da Desordem"
+title: 'Demoniodemia: O Caos Global e a Pandemia da Desordem'
 date: 2024-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 A ideia por trás da palavra "Demoniodemia" é a combinação de "demônio" e "demência", sugerindo um estado de caos e loucura que afeta toda a sociedade, de forma semelhante a uma pandemia global. É uma maneira criativa de expressar a sensação de desordem e confusão que muitas pessoas sentem em relação ao mundo atual. Essa palavra poderia ser útil como uma metáfora para descrever os tempos turbulentos e imprevisíveis em que vivemos, onde problemas como desigualdade, conflitos, crises ambientais e sociais parecem se espalhar como uma enfermidade, afetando a todos de maneira generalizada.
 

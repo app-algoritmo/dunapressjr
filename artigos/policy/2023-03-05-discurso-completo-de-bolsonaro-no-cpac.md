@@ -1,11 +1,12 @@
 ---
-title: "Discurso Completo de Bolsonaro no CPAC"
+title: Discurso Completo de Bolsonaro no CPAC
 date: 2023-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O ex-presidente brasileiro discursou no evento conservador no Estados Unidos, que também contou com a participação de Donald Trump.
 

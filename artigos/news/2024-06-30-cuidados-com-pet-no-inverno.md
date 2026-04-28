@@ -1,11 +1,12 @@
 ---
-title: "Cuidados com pet no inverno"
+title: Cuidados com pet no inverno
 date: 2024-06-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## **Como cuidar dos pets idosos?**
 

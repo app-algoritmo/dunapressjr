@@ -1,11 +1,13 @@
 ---
-title: "Projeto proíbe concessão de benefícios assistenciais a invasores de imóveis urbanos e rurais"
+title: Projeto proíbe concessão de benefícios assistenciais a invasores de imóveis
+  urbanos e rurais
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 709/23 determina que os invasores de propriedades particulares rurais ou urbanas ficarão impedidos de receber auxílios ou benefícios decorrentes de programas assistenciais federais e de tomar posse em cargo ou função pública. O texto está em análise na Câmara dos Deputados.
 

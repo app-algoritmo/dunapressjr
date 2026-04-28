@@ -1,11 +1,12 @@
 ---
-title: "A prova definitiva de que a injeção de COVID não impediu a mortalidade"
+title: A prova definitiva de que a injeção de COVID não impediu a mortalidade
 date: 2023-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Os dados divulgados pelo Eurostat mostram claramente que a vacina contra a Covid não só não reduziu a transmissão do vírus, como também não interrompeu o número de mortes, muito pelo contrário. 
 

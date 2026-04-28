@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil cria 316 mil postos de trabalho formal em julho"
+title: 'Caged: Brasil cria 316 mil postos de trabalho formal em julho'
 date: 2021-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Região Sudeste foi a que gerou mais postos de trabalho.
 

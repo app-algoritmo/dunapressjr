@@ -1,11 +1,12 @@
 ---
-title: "IPC-S da terceira quadrissemana de novembro apresenta variação de 0,43%"
+title: IPC-S da terceira quadrissemana de novembro apresenta variação de 0,43%
 date: 2023-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Educação, leitura e recreação lideram decréscimo nas taxas.
 

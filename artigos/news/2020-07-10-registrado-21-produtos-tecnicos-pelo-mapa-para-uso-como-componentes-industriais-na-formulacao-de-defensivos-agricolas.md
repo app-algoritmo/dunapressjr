@@ -1,11 +1,13 @@
 ---
-title: "Registrado 21 produtos técnicos pelo Mapa para uso como componentes industriais na formulação de defensivos agrícolas"
+title: Registrado 21 produtos técnicos pelo Mapa para uso como componentes industriais
+  na formulação de defensivos agrícolas
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Todos esses produtos são genéricos, ou seja, utilizam ingredientes ativos já registrados e em uso dentro do território nacional.
 

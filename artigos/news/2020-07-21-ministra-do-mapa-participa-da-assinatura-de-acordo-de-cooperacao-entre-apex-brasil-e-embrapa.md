@@ -1,11 +1,13 @@
 ---
-title: "Ministra do Mapa participa da assinatura de acordo de cooperação entre Apex-Brasil e Embrapa"
+title: Ministra do Mapa participa da assinatura de acordo de cooperação entre Apex-Brasil
+  e Embrapa
 date: 2020-07-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O acordo visa aumentar a competitividade do agronegócio brasileiro e sua capacidade de inserção nas cadeias globais de valor.
 

@@ -1,11 +1,12 @@
 ---
-title: "Votação do relatório final da CPI do BNDES é adiada para esta terça-feira"
+title: Votação do relatório final da CPI do BNDES é adiada para esta terça-feira
 date: 2019-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Oposição obstrui os trabalhos e, por falta de quórum, a reunião desta segunda-feira foi cancelada 
 

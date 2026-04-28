@@ -1,11 +1,12 @@
 ---
-title: "Único setor que cresceu economicamente foi a agropecuária, segundo IBGE"
+title: Único setor que cresceu economicamente foi a agropecuária, segundo IBGE
 date: 2020-05-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado positivo foi puxado pelo bom desempenho da safra, como a da soja, no primeiro trimestre do ano.
 

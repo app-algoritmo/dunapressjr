@@ -1,11 +1,12 @@
 ---
-title: "Tantas pessoas 'morreram repentinamente' ultimamente, o que está acontecendo?"
+title: Tantas pessoas 'morreram repentinamente' ultimamente, o que está acontecendo?
 date: 2023-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Uma nova e cada vez mais popular hashtag do Twitter é "#morreu de repente" em resposta a uma série de mortes repentinas e inexplicáveis ​​entre pessoas jovens e saudáveis, incluindo atletas, nos últimos dois anos. Aqui estão apenas algumas das notícias mais recentes.
 

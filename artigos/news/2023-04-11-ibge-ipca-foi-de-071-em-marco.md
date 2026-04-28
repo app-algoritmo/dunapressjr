@@ -1,11 +1,12 @@
 ---
-title: "IBGE: IPCA foi de 0,71% em março"
+title: 'IBGE: IPCA foi de 0,71% em março'
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano, o IPCA acumula alta de 2,09%.
 

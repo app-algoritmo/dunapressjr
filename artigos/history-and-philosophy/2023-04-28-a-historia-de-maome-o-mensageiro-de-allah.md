@@ -1,11 +1,12 @@
 ---
-title: "A história de Maomé: O Mensageiro de Allah"
+title: 'A história de Maomé: O Mensageiro de Allah'
 date: 2023-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 A história da humanidade está repleta de figuras notáveis que moldaram o curso do mundo e influenciaram gerações. Entre essas figuras notáveis, destaca-se Maoé, também conhecido como o Profeta Muhammad, o último Mensageiro de Deus no Islã. A vida e o legado de Muhammad desempenharam um papel crucial na formação da civilização islâmica e têm impacto duradouro até os dias de hoje. Neste artigo, exploraremos a vida de Muhammad, seu papel como Mensageiro de Allah e seu impacto histórico e cultural.
 

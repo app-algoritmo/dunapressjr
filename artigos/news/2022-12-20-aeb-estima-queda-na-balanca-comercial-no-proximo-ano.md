@@ -1,11 +1,12 @@
 ---
-title: "AEB estima queda na balança comercial no próximo ano"
+title: AEB estima queda na balança comercial no próximo ano
 date: 2022-12-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Commodities continuam como carro-chefe das exportações.
 

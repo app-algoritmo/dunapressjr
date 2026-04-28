@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Brasil em estado de alerta - transmissão ao vivo do ministério da saúde"
+title: 'Coronavírus: Brasil em estado de alerta - transmissão ao vivo do ministério
+  da saúde'
 date: 2020-01-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Anvisa definiu as seguintes medidas iniciais para orientar os pontos de entrada em portos, aeroportos e fronteiras sobre o novo coronavírus (nCoV):
 

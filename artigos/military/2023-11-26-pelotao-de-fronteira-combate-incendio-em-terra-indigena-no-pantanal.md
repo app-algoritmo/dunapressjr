@@ -1,11 +1,12 @@
 ---
-title: "Pelotão de Fronteira combate incêndio em terra indígena no Pantanal"
+title: Pelotão de Fronteira combate incêndio em terra indígena no Pantanal
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Militares do 2º Pelotão Especial de Fronteira / Fortuna atuaram durante três dias no combate a um grande incêndio florestal na Terra Indígena Portal do Encantado, no Mato Grosso. No dia 12 de novembro, às 17 horas, indígenas da etnia Chiquitanos chegaram ao destacamento militar com o pedido de socorro. Imediatamente, o efetivo do Pelotão foi mobilizado e dirigiu-se para a Terra Indígena, onde começaram a combater o incêndio de grandes proporções. 
 

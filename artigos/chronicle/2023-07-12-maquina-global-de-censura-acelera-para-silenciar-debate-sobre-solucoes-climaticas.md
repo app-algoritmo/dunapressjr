@@ -1,11 +1,12 @@
 ---
-title: "Máquina global de censura acelera para silenciar debate sobre 'soluções' climáticas"
+title: Máquina global de censura acelera para silenciar debate sobre 'soluções' climáticas
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 *A censura é um fenômeno global porque a guerra da tecnocracia contra a humanidade é global. Quaisquer narrativas que se oponham aos planos dos tecnocratas serão impiedosamente atacadas. Desentendimentos científicos, críticas ao governo ridículo e medidas de alerta ecológico, e até mesmo discussões casuais são propositalmente suprimidas. *
 

@@ -1,11 +1,13 @@
 ---
-title: "Moscou está pronta para considerar propostas sobre a Ucrânia se elas atenderem aos interesses da Rússia, diz Lavrov"
+title: Moscou está pronta para considerar propostas sobre a Ucrânia se elas atenderem
+  aos interesses da Rússia, diz Lavrov
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O principal diplomata russo disse que alguns países do Sul Global já enviaram à Rússia iniciativas para resolver o conflito na Ucrânia "aparentemente motivados por motivos sinceros".
 

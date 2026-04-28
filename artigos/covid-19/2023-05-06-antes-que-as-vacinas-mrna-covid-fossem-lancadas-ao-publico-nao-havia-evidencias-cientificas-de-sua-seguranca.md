@@ -1,11 +1,13 @@
 ---
-title: "Antes que as 'vacinas' mRNA Covid fossem lançadas ao público, não havia evidências científicas de sua segurança"
+title: Antes que as 'vacinas' mRNA Covid fossem lançadas ao público, não havia evidências
+  científicas de sua segurança
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O Comitê de Saúde e Ciência do Conselho Mundial de Saúde (WCH) publicou recentemente um artigo sobre os danos potenciais da plataforma de mRNA usada nas "vacinas" contra a Covid. Os autores do artigo concluíram que a plataforma de mRNA é fundamentalmente inadequada para uso e sua segurança para uma "vacina" nunca foi demonstrada.
 

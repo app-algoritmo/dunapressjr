@@ -1,11 +1,13 @@
 ---
-title: "Nas UTIs ou em pesquisas, profissionais ajudam a entender relação do coronavírus com a saúde bucal"
+title: Nas UTIs ou em pesquisas, profissionais ajudam a entender relação do coronavírus
+  com a saúde bucal
 date: 2021-11-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Um dos estudos mais recentes indica que problemas bucais aumentam risco de desenvolver forma grave da covid-19, especialmente em cardíacos.
 

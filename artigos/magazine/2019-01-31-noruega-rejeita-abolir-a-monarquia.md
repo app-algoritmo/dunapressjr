@@ -1,12 +1,13 @@
 ---
-title: "Noruega rejeita abolir a monarquia"
+title: Noruega rejeita abolir a monarquia
 date: 2019-01-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 Atualizado | 9.6.22 - Holmestrand, intentona republicana, ingerência externa?
 

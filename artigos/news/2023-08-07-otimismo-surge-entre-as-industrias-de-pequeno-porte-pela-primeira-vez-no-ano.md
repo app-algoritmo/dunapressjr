@@ -1,11 +1,12 @@
 ---
-title: "Otimismo surge entre as indústrias de pequeno porte pela primeira vez no ano"
+title: Otimismo surge entre as indústrias de pequeno porte pela primeira vez no ano
 date: 2023-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança do Empresário Industrial (Icei) ultrapassa limiar de otimismo.
 

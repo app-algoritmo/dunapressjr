@@ -1,11 +1,13 @@
 ---
-title: "YouTube remove declaração de abertura de audiência do Comitê do Senado Americano alegando que os resultados da eleição de 3.11 ainda são inconclusivos"
+title: YouTube remove declaração de abertura de audiência do Comitê do Senado Americano
+  alegando que os resultados da eleição de 3.11 ainda são inconclusivos
 date: 2020-12-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um dos advogados do presidente Donald Trump disse que o YouTube removeu sua declaração de abertura de uma audiência de Segurança Interna no Senado sobre fraude eleitoral.
 

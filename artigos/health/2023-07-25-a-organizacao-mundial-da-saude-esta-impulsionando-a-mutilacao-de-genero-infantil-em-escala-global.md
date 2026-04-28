@@ -1,11 +1,13 @@
 ---
-title: "A Organização Mundial da Saúde está impulsionando a mutilação de gênero infantil em escala global"
+title: A Organização Mundial da Saúde está impulsionando a mutilação de gênero infantil
+  em escala global
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## *Esses protocolos são uma tentativa flagrante de ativistas transgêneros de impedir que a comunidade médica se oponha ao experimento médico mais cruel realizado em jovens desde a eugenia.*
 

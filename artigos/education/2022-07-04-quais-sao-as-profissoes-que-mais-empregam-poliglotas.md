@@ -1,11 +1,12 @@
 ---
-title: "Quais são as profissões que mais empregam poliglotas?"
+title: Quais são as profissões que mais empregam poliglotas?
 date: 2022-07-04
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Education
+- Education
 ---
+
 
 A habilidade de se comunicar em diferentes línguas é fundamental para algumas profissões. Ser poliglota ajuda a encontrar oportunidades em carreiras ligadas a Relações Internacionais, Comércio Exterior, Turismo e Letras, por exemplo. Com a ajuda de um [curso de idiomas](https://www.wizard.com.br/cursos/), é possível identificar a aptidão para determinadas línguas e desenvolver as habilidades necessárias para o mercado. 
 

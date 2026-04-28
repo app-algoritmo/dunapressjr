@@ -1,11 +1,12 @@
 ---
-title: "Produção de grãos no Brasil deve ter alta de 15% na safra 2022/23, aponta Conab"
+title: Produção de grãos no Brasil deve ter alta de 15% na safra 2022/23, aponta Conab
 date: 2023-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Soja segue como principal produto, mas milho e sorgo também apresentam crescimento, enquanto arroz e feijão têm queda na produção e estimativas de exportação de soja são ajustadas pela estatal.
 

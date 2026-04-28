@@ -1,11 +1,13 @@
 ---
-title: "O governo Bolsonaro, para mim, é um governo genocida assim declara a escritora Eliane Potiguara  em entrevista à Euronews TV"
+title: O governo Bolsonaro, para mim, é um governo genocida assim declara a escritora
+  Eliane Potiguara  em entrevista à Euronews TV
 date: 2019-08-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na região da Amazónia, no Brasil, o avanço da desflorestação em áreas protegidas tem sido negado pelo governo de Jair Bolsonaro, que defende a liberalização das leis ambientais para permitir a exploração económica do ambiente. Para quem, como a escritora e ativista pelos direitos indígenas Eliane Potiguara defende a literatura como forma de resistência, as políticas do executivo brasileiro contribuem, por vezes de forma literal, para o extermínio das comunidades indígenas.
 

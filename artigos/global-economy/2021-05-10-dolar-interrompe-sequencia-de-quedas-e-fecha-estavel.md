@@ -1,11 +1,12 @@
 ---
-title: "Dólar interrompe sequência de quedas e fecha estável"
+title: Dólar interrompe sequência de quedas e fecha estável
 date: 2021-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores cai 0,11% em dia de oscilações.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Defesa preside cerimônia de aniversário do Corpo de Fuzileiros Navais"
+title: Ministro da Defesa preside cerimônia de aniversário do Corpo de Fuzileiros
+  Navais
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 03/03/2020 - **Nesta
 quinta-feira (05), o Ministro da Defesa, Fernando Azevedo presidirá,

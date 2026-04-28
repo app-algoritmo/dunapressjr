@@ -1,11 +1,12 @@
 ---
-title: "Documentário sobre o tratamento preventivo contra a doença chinesa"
+title: Documentário sobre o tratamento preventivo contra a doença chinesa
 date: 2021-03-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Políticos e empresários por todo o globo trabalham arduamente para trazer aos seus habitantes inovadoras vacinas e equipamentos para o tratamento contra o vírus chinês. Não importa se respeitados estudos ou médicos e cientistas "antes" premiados por suas descobertas orientem ao uso de medicamentos preventivos. Assista a seguir o documentário oferecido pelo Centro Dom Bosco  censurado em todas as redes sociais.
 

@@ -1,11 +1,13 @@
 ---
-title: "<br>Os britânicos e o resto do mundo se despediram hoje da rainha Elizabeth II"
+title: <br>Os britânicos e o resto do mundo se despediram hoje da rainha Elizabeth
+  II
 date: 2022-09-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Uma era de 70 anos está assim terminada.
 

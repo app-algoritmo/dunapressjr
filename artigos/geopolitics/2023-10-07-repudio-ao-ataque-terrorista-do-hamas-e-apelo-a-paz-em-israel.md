@@ -1,11 +1,12 @@
 ---
-title: "Repúdio ao Ataque Terrorista do Hamas e Apelo à Paz em Israel"
+title: Repúdio ao Ataque Terrorista do Hamas e Apelo à Paz em Israel
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em um momento de crescente tensão e conflito na região do Oriente Médio, é essencial destacar a importância do respeito, da paz e da solidariedade entre as nações. O ex-presidente do Brasil, Jair Bolsonaro, expressa seu profundo pesar e repúdio ao ataque terrorista recente perpetrado pelo Hamas em Israel e reforça seu compromisso com o povo israelense.
 

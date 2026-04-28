@@ -1,11 +1,12 @@
 ---
-title: "Divulgado pelo Capes resultado de seleção para Alemanha e EUA"
+title: Divulgado pelo Capes resultado de seleção para Alemanha e EUA
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Programas CAPES/DAAD, Yale e Purdue selecionaram 37 pesquisadores brasileiros para bolsas de doutorado no exterior.
 

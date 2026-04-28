@@ -1,11 +1,12 @@
 ---
-title: "Putin Elogia Relações Estáveis entre Rússia e China durante Coletiva de Imprensa"
+title: Putin Elogia Relações Estáveis entre Rússia e China durante Coletiva de Imprensa
 date: 2024-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente russo, Vladimir Putin, enfatizou a importância das relações entre a Rússia e a China como um fator de estabilização na região eurasiática. Durante uma coletiva de imprensa após as eleições presidenciais russas, Putin destacou que essas relações têm se desenvolvido de forma estável e complementar ao longo das últimas duas décadas.
 

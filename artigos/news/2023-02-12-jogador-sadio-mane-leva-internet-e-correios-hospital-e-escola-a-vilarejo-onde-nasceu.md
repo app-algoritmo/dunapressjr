@@ -1,11 +1,13 @@
 ---
-title: "Jogador Sadio Mané leva internet e correios, hospital e escola, a vilarejo onde nasceu"
+title: Jogador Sadio Mané leva internet e correios, hospital e escola, a vilarejo
+  onde nasceu
 date: 2023-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As boas ações do jogador Sadio Mané, de 31 anos, são famosas e premiadas pelo mundo. Ele jamais esquece o vilarejo natal no Senegal, na África. Primeiro Sadio mandou construir hospital e escola em Bambali, de pouco mais de 2 mil habitantes, a 400 km da capital do país, Dacar. Agora foi vez de instalar uma rede de internet 4G e construir uma agência de correios.
 

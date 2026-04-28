@@ -1,11 +1,12 @@
 ---
-title: "Comércio varejista cresce 0,9% em abril"
+title: Comércio varejista cresce 0,9% em abril
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a quarta alta consecutiva do indicador.
 

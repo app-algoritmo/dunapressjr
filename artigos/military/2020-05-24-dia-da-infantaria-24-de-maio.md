@@ -1,11 +1,12 @@
 ---
-title: "Dia da Infantaria – 24 de maio"
+title: Dia da Infantaria – 24 de maio
 date: 2020-05-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em 24 de maio, data de nascimento do Brigadeiro Antônio de Sampaio, o “Bravo dos Bravos”, o Exército Brasileiro comemora o Dia da Arma de Infantaria.
 

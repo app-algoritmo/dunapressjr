@@ -1,11 +1,12 @@
 ---
-title: "Minas Gerais em situação de emergência"
+title: Minas Gerais em situação de emergência
 date: 2019-04-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Essa semana o Governo de Minas Gerais decretou situação de emergência no estado em razão do surto de dengue. Desde janeiro os casos têm aumentado demais e, segundo estatísticas, Minas enfrenta uma verdadeira epidemia. A Secretaria de Saúde declarou que já foi emitido alerta sobre a epidemia, e que já são 93 cidades mineiras com alta incidência da doença, com cerca de pelo menos 7 mil ocorrências e 14 mortes confirmadas; número que pode subir já que há muitos casos em suspeita sendo investigados. 
 

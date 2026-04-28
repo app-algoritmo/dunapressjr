@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí divulga resultado do concurso para escolha do nome dos personagens da dengue"
+title: Município de Itajaí divulga resultado do concurso para escolha do nome dos
+  personagens da dengue
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mês de mobilização para o combate à dengue em Itajaí encerra com a divulgação do resultado do concurso cultural para escolha do nome dos mosquitos da dengue, personagens que ajudam nas ações de conscientização na cidade. Os nomes dados pela turma 603 da Escola Básica Cívico-Militar Melvin Jones foram os vencedores entre as cinco turmas das unidades escolares participantes, após votação popular on-line. A ação foi promovida pelo Município de Itajaí, por meio das Secretarias de Saúde e Educação, e com apoio da Funasa.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF, em ação integrada, apreende duas barcaças e um caminhão carregados com cigarros contrabandeados"
+title: PF, em ação integrada, apreende duas barcaças e um caminhão carregados com
+  cigarros contrabandeados
 date: 2020-05-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Mendes/PR – Na madrugada deste sábado, 30/5, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, PRF, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

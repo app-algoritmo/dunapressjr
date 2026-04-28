@@ -1,11 +1,14 @@
 ---
-title: "7.01 Presidente da República Jair Messias Bolsonaro ressaltou aspecto técnico dos novos dirigentes da Caixa, do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico e Social (BNDES)"
+title: 7.01 Presidente da República Jair Messias Bolsonaro ressaltou aspecto técnico
+  dos novos dirigentes da Caixa, do Banco do Brasil e do Banco Nacional de Desenvolvimento
+  Econômico e Social (BNDES)
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Novos dirigentes foram escolhidos por critério técnico, diz Bolsonaro
 

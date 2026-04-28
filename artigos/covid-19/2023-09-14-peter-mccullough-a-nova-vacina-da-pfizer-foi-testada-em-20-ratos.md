@@ -1,11 +1,12 @@
 ---
-title: "Peter McCullough: a nova vacina da Pfizer foi testada em 20 ratos"
+title: 'Peter McCullough: a nova vacina da Pfizer foi testada em 20 ratos'
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Autorização de emergência concedida sem emergência ou dados humanos.
 

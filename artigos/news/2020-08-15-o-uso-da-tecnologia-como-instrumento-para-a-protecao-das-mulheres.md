@@ -1,11 +1,12 @@
 ---
-title: "O uso da tecnologia como instrumento para a proteção das mulheres"
+title: O uso da tecnologia como instrumento para a proteção das mulheres
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A pandemia de Covid-19 provocou uma verdadeira revolução digital em diversos setores da sociedade. Para adaptar-se à nova realidade, o Governo Federal lançou diversos recursos on-line para o enfrentamento à violência contra a mulher. As afirmações são da secretária nacional de Políticas para as Mulheres, Cristiane Britto, que participou, nesta sexta-feira (14), de webinário sobre os 14 anos da Lei Maria da Penha.
 

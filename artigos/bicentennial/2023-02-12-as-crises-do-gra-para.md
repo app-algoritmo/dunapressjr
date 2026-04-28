@@ -1,11 +1,12 @@
 ---
-title: "As crises do Grã-Pará"
+title: As crises do Grã-Pará
 date: 2023-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Após ignorar as ordens de retorno a Portugal, o Governador de Armas José Maria de Moura organizou, com ajuda de alguns militares, uma forma de se manter no poder. No dia 7 de janeiro de 1823, um abaixo-assinado foi encaminhado ao Senado da Câmara Municipal afirmando como o Governador de Armas era indispensável para manter a ordem da província e evitar que a dissidência se espalhasse. Não contente, em 1º de março de 1823, um golpe liderado por José Maria de Moura destituiu a Junta de Governo, enviando seus membros para o interior da província. Na sequência, uma nova Junta foi nomeada, mas dessa vez com pessoas alinhadas ao projeto sustentado pelo Governador de Armas. A insatisfação popular aumentou e uma nova frente de oposição aos projetos de Moura foi formada.
 

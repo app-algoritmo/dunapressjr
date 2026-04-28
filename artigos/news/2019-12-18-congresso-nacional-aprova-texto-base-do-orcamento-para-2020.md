@@ -1,11 +1,12 @@
 ---
-title: "Congresso Nacional aprova texto-base do Orçamento para 2020"
+title: Congresso Nacional aprova texto-base do Orçamento para 2020
 date: 2019-12-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Previsão para fundo eleitoral é de R$ 2 bilhões*
 

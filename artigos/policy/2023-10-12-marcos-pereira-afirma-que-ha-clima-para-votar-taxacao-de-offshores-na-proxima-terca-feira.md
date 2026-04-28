@@ -1,11 +1,13 @@
 ---
-title: "Marcos Pereira afirma que há clima para votar taxação de offshores na próxima terça-feira"
+title: Marcos Pereira afirma que há clima para votar taxação de offshores na próxima
+  terça-feira
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ideia é votar o texto antes que a proposta tranque a pauta, no dia 14 de outubro.
 

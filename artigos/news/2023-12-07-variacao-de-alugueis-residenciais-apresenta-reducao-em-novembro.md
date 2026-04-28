@@ -1,11 +1,12 @@
 ---
-title: "Variação de aluguéis residenciais apresenta redução em novembro"
+title: Variação de aluguéis residenciais apresenta redução em novembro
 date: 2023-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da FGV/Ibre revelam cenário de retração e aceleração nas taxas interanuais nas principais cidades brasileiras.
 

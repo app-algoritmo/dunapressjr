@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani encerra temporada com vitória na Billie Jean King Cup"
+title: Luisa Stefani encerra temporada com vitória na Billie Jean King Cup
 date: 2023-11-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana jogou ao lado de Ingrid Martins em confronto em que o Brasil fez 4 a 0 na Coreia do Sul.
 

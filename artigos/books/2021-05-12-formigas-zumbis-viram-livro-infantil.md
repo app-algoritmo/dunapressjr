@@ -1,11 +1,12 @@
 ---
-title: "Formigas “zumbis” viram livro infantil"
+title: Formigas “zumbis” viram livro infantil
 date: 2021-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Mestrando em biologia de fungos, algas e plantas pela Universidade Federal de Santa Catarina (UFSC), Cauê Oliveira é integrante do grupo de pesquisa *Monitoring and Inventorying Neotropical Diversity of Fungi* (MIND.Funga) pela mesma instituição. O bolsista é coautor do livro infantil, “A descoberta nas pequenas coisas”, feito pelo grupo para incentivar o estudo científico e a participação da comunidade local na escolha do nome para o fungo, conhecido por tornar as formigas “zumbis”.
 

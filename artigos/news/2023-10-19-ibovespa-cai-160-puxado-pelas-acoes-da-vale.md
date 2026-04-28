@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 1,60% puxado pelas ações da Vale"
+title: Ibovespa cai 1,60% puxado pelas ações da Vale
 date: 2023-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar sobe para R$ 5,05.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe pelo terceiro dia na expectativa por PEC da Transição"
+title: Bolsa sobe pelo terceiro dia na expectativa por PEC da Transição
 date: 2022-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha estável a R$ 5,20 após flutuar durante o dia.
 

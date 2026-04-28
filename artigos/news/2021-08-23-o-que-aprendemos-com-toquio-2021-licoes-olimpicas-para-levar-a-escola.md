@@ -1,11 +1,12 @@
 ---
-title: "O que aprendemos com Tóquio 2021: lições olímpicas para levar à escola"
+title: 'O que aprendemos com Tóquio 2021: lições olímpicas para levar à escola'
 date: 2021-08-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em ano olímpico, trabalhar os esportes como conteúdos torna-se um elemento de motivação a mais para os nossos alunos, e 2021 veio cheio de novidades e bons contextos para serem utilizados pelos professores. Mas essa discussão começou muito antes dessa olimpíada, pois em um cenário de pandemia, foi preciso que atletas do mundo inteiro adequassem treinamentos e rotinas para minimizar o impacto que as restrições sanitárias impuseram a todos. No Brasil, várias ações foram necessárias e o Comitê Olímpico Brasileiro ajudou orientando nossos atletas.
 

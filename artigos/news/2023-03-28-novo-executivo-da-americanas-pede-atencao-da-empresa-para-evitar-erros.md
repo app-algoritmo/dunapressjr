@@ -1,11 +1,12 @@
 ---
-title: "Novo executivo da Americanas pede atenção da empresa para evitar erros"
+title: Novo executivo da Americanas pede atenção da empresa para evitar erros
 date: 2023-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em recuperação judicial, rede tem dívidas estimadas em R$ 43 milhões.
 

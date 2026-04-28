@@ -1,11 +1,12 @@
 ---
-title: "PIB goiano avança 3,4% no segundo trimestre do ano"
+title: PIB goiano avança 3,4% no segundo trimestre do ano
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 No segundo trimestre de 2023, o Produto Interno Bruto (PIB) goiano apresentou variação positiva de 3,4% na comparação com o mesmo período do ano anterior. Esse resultado se deve à variação interanual, sem ajuste sazonal, que ficou positiva nos três meses que compõem o período.
 

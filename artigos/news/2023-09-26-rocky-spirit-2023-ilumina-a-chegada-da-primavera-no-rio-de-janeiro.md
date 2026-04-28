@@ -1,11 +1,12 @@
 ---
-title: "Rocky Spirit 2023 ilumina a chegada da primavera no Rio de Janeiro"
+title: Rocky Spirit 2023 ilumina a chegada da primavera no Rio de Janeiro
 date: 2023-09-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Maior festival de filmes dedicados a esportes, meio ambiente e aventura do Brasil garantiu dois dias de exibições de cinema a céu aberto na praia de Ipanema e na Ilha do Governador.
 

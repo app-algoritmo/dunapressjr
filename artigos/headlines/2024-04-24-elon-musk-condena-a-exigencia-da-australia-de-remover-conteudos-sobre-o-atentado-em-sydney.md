@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk condena a exigência da Austrália de remover conteúdos sobre o atentado em Sydney"
+title: Elon Musk condena a exigência da Austrália de remover conteúdos sobre o atentado
+  em Sydney
 date: 2024-04-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 O empresário criticou os apelos do comissário de cibersegurança da Austrália para que sejam removidos da plataforma os conteúdos que mostram violência durante o recente atentado com faca em uma igreja de Sydney.
 

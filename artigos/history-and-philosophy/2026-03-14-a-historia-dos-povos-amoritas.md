@@ -1,11 +1,12 @@
 ---
-title: "A história dos povos Amoritas"
+title: A história dos povos Amoritas
 date: 2026-03-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 Os Amoritas, um povo semita que habitava as vastas terras do deserto da Arábia, emergiram como atores cruciais na história da Mesopotâmia por volta de 2000 a.C. Sua incursão na região e subsequente influência moldaram significativamente o curso dos acontecimentos naquela época. Eles não apenas contribuíram para a queda do Império Acadiano, mas também estabeleceram o Primeiro Império Babilônico, com a cidade de Babilônia como sua sede de poder. Esta é uma visão aprofundada da notável jornada dos Amoritas na Mesopotâmia antiga.
 

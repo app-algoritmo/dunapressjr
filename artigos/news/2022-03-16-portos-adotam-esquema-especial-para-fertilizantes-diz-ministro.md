@@ -1,11 +1,12 @@
 ---
-title: "Portos adotam esquema especial para fertilizantes, diz ministro"
+title: Portos adotam esquema especial para fertilizantes, diz ministro
 date: 2022-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Navios não precisam enfrentar filas para descarregar.
 

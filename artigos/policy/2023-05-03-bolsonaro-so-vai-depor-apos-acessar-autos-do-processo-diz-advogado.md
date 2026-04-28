@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro só vai depor após acessar autos do processo, diz advogado"
+title: Bolsonaro só vai depor após acessar autos do processo, diz advogado
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ao deixar sede da PF, Wajngarten disse que já encaminhou pedido ao STF.
 

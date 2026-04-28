@@ -1,11 +1,12 @@
 ---
-title: "Plano de paz do governo Donald Trump é recebido com boas-vindas"
+title: Plano de paz do governo Donald Trump é recebido com boas-vindas
 date: 2020-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## WASHINGTON - Arábia Saudita, Egito, Catar e Emirados Árabes Unidos divulgaram na terça-feira declarações de boas-vindas ao plano de paz do governo Trump.
 

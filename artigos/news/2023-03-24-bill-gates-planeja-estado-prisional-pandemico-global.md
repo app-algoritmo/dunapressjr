@@ -1,11 +1,12 @@
 ---
-title: "Bill Gates planeja estado prisional pandêmico global"
+title: Bill Gates planeja estado prisional pandêmico global
 date: 2023-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Alguém poderia pensar que um desastre épico como a resposta ao COVID deveria inspirar alguma humildade e repensar como a saúde pública poderia ter dado tão errado. Eles tentaram, mas criaram uma catástrofe global para a eternidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Recife celebra 483 anos"
+title: Recife celebra 483 anos
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Programação de aniversário permite que os visitantes conheçam os principais pontos turísticos de Recife .*
 

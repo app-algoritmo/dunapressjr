@@ -1,11 +1,13 @@
 ---
-title: "72 milhões transferidos para estados e municípios pelo FNDE para manutenção de transporte escolar"
+title: 72 milhões transferidos para estados e municípios pelo FNDE para manutenção
+  de transporte escolar
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Repasse é obrigatório por lei e, em momento de pandemia, ajuda, por exemplo, a pagar consertos dos veículos para quando as aulas retornarem.
 

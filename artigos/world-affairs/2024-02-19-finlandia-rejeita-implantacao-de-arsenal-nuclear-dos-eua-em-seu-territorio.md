@@ -1,11 +1,12 @@
 ---
-title: "Finlândia rejeita implantação de arsenal nuclear dos EUA em seu território"
+title: Finlândia rejeita implantação de arsenal nuclear dos EUA em seu território
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro finlandês, Petteri Orpo, declarou que Helsínquia não vê necessidade de implantar elementos do arsenal nuclear dos EUA em território finlandês, destacando que a NATO já fornece dissuasão nuclear através das armas já instaladas em países membros da aliança. Em uma entrevista ao jornal polaco Rzeczpospolita, Orpo enfatizou que as armas nucleares existentes são suficientes para garantir a segurança da NATO. Ele ressaltou que a Finlândia está se preparando para participar na dissuasão de potenciais ameaças à aliança utilizando armas convencionais.
 

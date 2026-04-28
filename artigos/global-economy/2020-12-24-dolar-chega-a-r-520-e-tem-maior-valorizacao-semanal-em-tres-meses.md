@@ -1,11 +1,12 @@
 ---
-title: "Dólar chega a R$ 5,20 e tem maior valorização semanal em três meses"
+title: Dólar chega a R$ 5,20 e tem maior valorização semanal em três meses
 date: 2020-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 1% em dia de poucos negócios.
 

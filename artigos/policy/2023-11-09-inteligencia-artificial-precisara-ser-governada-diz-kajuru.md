@@ -1,11 +1,12 @@
 ---
-title: "Inteligência artificial precisará ser governada, diz Kajuru"
+title: Inteligência artificial precisará ser governada, diz Kajuru
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) chamou a atenção, em pronunciamento nesta quarta-feira (8), para o uso da inteligência artificial e suas possíveis consequências. O parlamentar destacou que o presidente dos Estados Unidos, Joe Biden, assinou uma ordem executiva em que descreve as primeiras regulamentações do governo americano sobre sistemas de inteligência artificial. Segundo o senador, Biden quer que as empresas desenvolvedoras dessas ferramentas encaminhem ao governo os resultados de testes de seus novos modelos antes de divulgá-los ao público.
 

@@ -1,11 +1,12 @@
 ---
-title: "Sancionada lei que cria o Sistema Eletrônico de Registros Públicos"
+title: Sancionada lei que cria o Sistema Eletrônico de Registros Públicos
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O Serp moderniza os serviços de cartórios de registros públicos e traz impactos na redução da burocracia e na melhoria do ambiente de negócios do país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rua do Bom Jesus, em Recife (PE), é eleita a 3ª mais bonita do mundo"
+title: Rua do Bom Jesus, em Recife (PE), é eleita a 3ª mais bonita do mundo
 date: 2020-07-14
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Destacado por revista norte-americana, local é ícone de turismo, histórias de amor e passeios em família.
 

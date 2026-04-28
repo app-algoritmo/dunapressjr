@@ -1,11 +1,12 @@
 ---
-title: "Por que os noruegueses estão comendo menos carne vermelha?"
+title: Por que os noruegueses estão comendo menos carne vermelha?
 date: 2019-08-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 ## Noruegueses escolhem comer menos carne vermelha para ajudar na questão climática.
 

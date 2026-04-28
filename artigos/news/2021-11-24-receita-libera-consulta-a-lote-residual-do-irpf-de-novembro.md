@@ -1,11 +1,12 @@
 ---
-title: "Receita libera consulta a lote residual do IRPF de novembro"
+title: Receita libera consulta a lote residual do IRPF de novembro
 date: 2021-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crédito será realizado dia 30 e beneficiará 260 mil contribuintes.
 

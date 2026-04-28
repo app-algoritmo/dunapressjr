@@ -1,11 +1,12 @@
 ---
-title: "Itajaí registra aumento no número de focos do Aedes aegypti"
+title: Itajaí registra aumento no número de focos do Aedes aegypti
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí registrou um aumento de 150% no número de focos do mosquito Aedes aegypti no início deste ano em comparação ao mesmo período de 2020. Foram identificados 35 focos positivos na primeira semana do ano contra 14 contabilizados no ano anterior. O dado acende um alerta sobre a importância da dos cuidados preventivos para eliminar criadouros do mosquito transmissor da dengue, chikungunya e zika.
 

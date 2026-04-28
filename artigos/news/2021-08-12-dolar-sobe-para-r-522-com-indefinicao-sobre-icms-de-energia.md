@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,22 com indefinição sobre ICMS de energia"
+title: Dólar sobe para R$ 5,22 com indefinição sobre ICMS de energia
 date: 2021-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No mercado de ações, a Bolsa caiu pelo segundo dia seguido.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministra Damares Alves debate cooperação com a Unesco"
+title: Ministra Damares Alves debate cooperação com a Unesco
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, r​euniu-se nesta segunda-feira (7) com a diretora e representante da Unesco (Organização das Nações Unidas para a Educação, a Ciência e a Cultura) no Brasil, Marlova Noleto. A pauta do encontro foi a cooperação, a partir de agora, entre as duas instituições. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Comitê técnico do TCE-PB mostra que despesas do Estado no combate à covid-19 chegam a R$ 121,6 milhões"
+title: Comitê técnico do TCE-PB mostra que despesas do Estado no combate à covid-19
+  chegam a R$ 121,6 milhões
 date: 2020-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O relatório detalha que entre as fontes de receita estão as transferências emergenciais do Sistema Único de Saúde (SUS).
 

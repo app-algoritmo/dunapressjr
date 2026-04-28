@@ -1,11 +1,13 @@
 ---
-title: "Conflito na União Europeia: Viktor Orban Acusa Chantagem e Defende Autonomia Húngara"
+title: 'Conflito na União Europeia: Viktor Orban Acusa Chantagem e Defende Autonomia
+  Húngara'
 date: 2024-02-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro húngaro, Viktor Orban, lançou duras críticas à União Europeia (UE) durante uma entrevista à revista francesa Le Point, após vazamento de um relatório sugerindo a suspensão do financiamento à Hungria. A ameaça surge devido à persistente oposição de Orban à alocação de fundos da UE para apoiar os esforços de guerra da Ucrânia.
 

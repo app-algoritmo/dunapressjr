@@ -1,11 +1,13 @@
 ---
-title: "Novos documentos mostram como Robert F. Kennedy Jr. e outros foram censurados em nome do governo"
+title: Novos documentos mostram como Robert F. Kennedy Jr. e outros foram censurados
+  em nome do governo
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## 
 Como a administração Biden usou dados imprecisos para censurar americanos online.

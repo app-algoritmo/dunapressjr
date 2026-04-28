@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,31 com bom humor externo e doméstico"
+title: Dólar cai para R$ 5,31 com bom humor externo e doméstico
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe quase 3% em dia de poucos negócios.
 

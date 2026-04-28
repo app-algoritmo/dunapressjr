@@ -1,11 +1,12 @@
 ---
-title: "Saiba o papel da escola na criação de hábitos alimentares saudáveis"
+title: Saiba o papel da escola na criação de hábitos alimentares saudáveis
 date: 2020-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Uma a cada três pessoas está malnutrida no mundo. [O dado é da Organização das Nações Unidas (ONU)](https://nacoesunidas.org/como-as-escolas-podem-nos-ajudar-a-enfrentar-a-ma-nutricao-no-mundo/). Para combater esse problema, especialistas afirmam que uma alimentação balanceada deve ser incentivada desde cedo, logo na infância, e que o ambiente escolar é uma oportunidade para a criação de hábitos alimentares saudáveis.
 

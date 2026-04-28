@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve alta, mas acumula queda de 5,6% no mês"
+title: Dólar fecha em leve alta, mas acumula queda de 5,6% no mês
 date: 2020-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa encerrou sexta-feira estável, mas sobe 1,2% na semana.
 

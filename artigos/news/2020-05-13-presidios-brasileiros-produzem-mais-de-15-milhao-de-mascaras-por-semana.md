@@ -1,11 +1,12 @@
 ---
-title: "Presídios brasileiros produzem mais de 1,5 milhão de máscaras por semana"
+title: Presídios brasileiros produzem mais de 1,5 milhão de máscaras por semana
 date: 2020-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) atualizou levantamento sobre produção de materiais e insumos de combate à Covid-19 por presos do sistema prisional brasileiro. Segundo informações das Unidades Federativas, o trabalho prisional está produzindo, semanalmente, mais de 1,5  milhão demáscaras. O material produzido irá para o próprio sistema penitenciário e demais forças de segurança, hospitais, venda ou doações.
 

@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani vai às oitavas no WTA 1000 de Indian Wells"
+title: Luisa Stefani vai às oitavas no WTA 1000 de Indian Wells
 date: 2024-03-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs venceram a estreia na madrugada deste sábado e voltam a jogar neste domingo ou na segunda-feira na Califórnia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Plataforma possibilita visita virtual à Amazônia"
+title: Plataforma possibilita visita virtual à Amazônia
 date: 2020-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Enquanto as viagens aos destinos turísticos brasileiros seguem alteradas devido à pandemia do novo coronavírus, o Google disponibilizou uma amostra para quem tem saudades ou ainda não conhece a Região Amazônica e arredores. Por meio da plataforma “Street View”, os internautas podem observar imagens em 360º dos rios, da floresta e das comunidades na Reserva do Rio Negro, situada entre os municípios de Manacapuru, Iranduba e Novo Airão, no estado do Amazonas. O projeto contou com a participação da Fundação Amazonas Sustentável (FAS), uma organização sem fins lucrativos de conservação local.
 

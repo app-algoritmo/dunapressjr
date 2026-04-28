@@ -1,11 +1,12 @@
 ---
-title: "Oriovisto elogia veto de Lula à desoneração da folha de 17 setores"
+title: Oriovisto elogia veto de Lula à desoneração da folha de 17 setores
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Oriovisto Guimarães (Podemos-PR) elogiou, em pronunciamento no Plenário nesta terça-feira (28), a “coragem” do presidente da República, Luiz Inácio Lula da Silva, ao vetar integralmente o projeto de lei ([PL 334/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/155787)) que prorrogava por mais quatro anos a desoneração da folha de pagamentos de 17 setores da economia.  
 

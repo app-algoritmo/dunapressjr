@@ -1,11 +1,13 @@
 ---
-title: "Instituições da América Latina e do Caribe receberão doações para apoiar a eliminação de doenças transmissíveis"
+title: Instituições da América Latina e do Caribe receberão doações para apoiar a
+  eliminação de doenças transmissíveis
 date: 2023-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Seis instituições da Argentina, Brasil, Haiti, México e Peru receberão bolsas de pesquisa para temas relacionados à tuberculose e outras infecções oportunistas em HIV avançado, infecções sexualmente transmissíveis e vírus linfotrópico de células T humanas (HTLV-1), que pode causar um tipo de câncer.
 

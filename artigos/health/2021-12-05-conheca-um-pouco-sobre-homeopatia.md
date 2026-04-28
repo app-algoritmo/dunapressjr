@@ -1,11 +1,12 @@
 ---
-title: "Conheça um pouco sobre Homeopatia"
+title: Conheça um pouco sobre Homeopatia
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Homeopatia é um sistema médico complexo, de caráter holístico, baseada no princípio vitalista e no uso da lei dos semelhantes enunciada por Hipócrates no século IV a.C., segundo a qual os semelhantes se curam pelos semelhantes, isto é, para tratar um indivíduo que está doente é necessário aplicar um medicamento que, quando experimentado em um homem sadio, apresente os mesmos sintomas que o doente apresente. Esse princípio é parecido com o das vacinas.
 

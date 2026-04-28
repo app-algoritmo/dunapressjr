@@ -1,11 +1,12 @@
 ---
-title: "Sancionado crédito de R$ 200 milhões para combate à gripe aviária silvestre"
+title: Sancionado crédito de R$ 200 milhões para combate à gripe aviária silvestre
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Foi publicada no *Diário Oficial da União* (DOU) desta segunda-feira (16) a lei resultante da Medida Provisória (MP) [1.177/2023](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/157956) que abriu crédito extraordinário de R$ 200 milhões para o Ministério da Agricultura e Pecuária. Os recursos são destinados ao combate à gripe aviária pelo Sistema Unificado de Atenção à Sanidade Agropecuária. 
 

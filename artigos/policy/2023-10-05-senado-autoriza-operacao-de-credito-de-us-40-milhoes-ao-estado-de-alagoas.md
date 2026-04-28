@@ -1,11 +1,12 @@
 ---
-title: "Senado autoriza operação de crédito de US$ 40 milhões ao estado de Alagoas"
+title: Senado autoriza operação de crédito de US$ 40 milhões ao estado de Alagoas
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Plenário do Senado aprovou um projeto de resolução ([PRS 94/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160305)) que autoriza o estado de Alagoas a contratar empréstimo de até US$ 40 milhões junto ao Banco Internacional para a Reconstrução e Desenvolvimento (Bird). O relatório, do senador Renan Calheiros (MDB-AL), foi favorável à aprovação. O senador Rodrigo Cunha (Podemos-AL) registrou seu voto contrário à autorização. O projeto segue para promulgação.
 

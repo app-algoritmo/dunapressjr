@@ -1,11 +1,12 @@
 ---
-title: "FGV: Índice de Confiança do Consumidor cai 2,2 pontos em janeiro"
+title: 'FGV: Índice de Confiança do Consumidor cai 2,2 pontos em janeiro'
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice cai pelo segundo mês consecutivo ao recuar 0,9 ponto, para 86,4 pontos.
 

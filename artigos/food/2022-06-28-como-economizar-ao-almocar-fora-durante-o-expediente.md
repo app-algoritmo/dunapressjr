@@ -1,11 +1,12 @@
 ---
-title: "Como economizar ao almoçar fora durante o expediente?"
+title: Como economizar ao almoçar fora durante o expediente?
 date: 2022-06-28
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
+- Food
 ---
+
 
 Segundo [uma pesquisa realizada pela empresa especializada no setor de *food service* Galunion](https://galunion.com.br/links-galunion/materiais/pesquisa_alimentacao_na_pandemia_galunion_onda3.pdf) em 2021, cerca de 78% dos brasileiros dão preferência a consumir comida feita em casa durante o intervalo para almoço no trabalho. Apesar de ser uma prioridade para muitos, preparar a refeição e levar para o serviço demanda tempo, algo raro na correria dos dias atuais.
 

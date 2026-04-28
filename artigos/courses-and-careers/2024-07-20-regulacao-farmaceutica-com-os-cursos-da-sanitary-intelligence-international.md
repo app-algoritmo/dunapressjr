@@ -1,13 +1,14 @@
 ---
-title: "Regulação Farmacêutica com os Cursos da Sanitary Intelligence International"
+title: Regulação Farmacêutica com os Cursos da Sanitary Intelligence International
 date: 2024-07-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Courses and Careers
-  - Personal Development
-  - Science
+- Courses and Careers
+- Personal Development
+- Science
 ---
+
 
 ### Explorando Novas Fronteiras na Regulação Farmacêutica com os Cursos da Sanitary Intelligence
 

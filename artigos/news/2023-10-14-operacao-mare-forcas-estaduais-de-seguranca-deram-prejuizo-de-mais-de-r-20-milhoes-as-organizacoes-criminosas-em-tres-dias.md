@@ -1,11 +1,13 @@
 ---
-title: "Operação Maré: forças estaduais de segurança deram prejuízo de mais de R$ 20 milhões às organizações criminosas em três dias"
+title: 'Operação Maré: forças estaduais de segurança deram prejuízo de mais de R$
+  20 milhões às organizações criminosas em três dias'
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Terceira etapa das ações, nesta quarta-feira, já registrou 12 prisões e 9 apreensões de armas de fogo, entre fuzis e pistolas.
 

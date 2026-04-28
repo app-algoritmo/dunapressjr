@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani segue para Roland Garros"
+title: Luisa Stefani segue para Roland Garros
 date: 2024-05-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Número 10 do mundo foi superada na semifinal do WTA 500 de Estrasburgo, na França.
 

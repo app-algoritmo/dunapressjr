@@ -1,12 +1,13 @@
 ---
-title: "Mídia é culpada pelo 'muro de infalibilidade' das vacinas COVID"
+title: Mídia é culpada pelo 'muro de infalibilidade' das vacinas COVID
 date: 2023-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## A parede da represa finalmente quebrou. Nos Estados Unidos e na Austrália, o capítulo do silêncio sobre o relato de lesões causadas pela vacina Covid-19 parece ter sido encerrado, devido em grande parte à excelente série de relatórios de Christine Middap no *Australian*.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF combate organização criminosa que atua no tráfico de drogas na fronteira com o Paraguai"
+title: PF combate organização criminosa que atua no tráfico de drogas na fronteira
+  com o Paraguai
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Campo Grande/MS** - A Polícia Federal deflagrou, na manhã desta quinta-feira (25/06), a Operação Exílio com o objetivo de desarticular organização criminosa vinculada à facção criminosa atuante no tráfico internacional de drogas e de armas de fogo, a partir da fronteira do Brasil com o Paraguai.
 

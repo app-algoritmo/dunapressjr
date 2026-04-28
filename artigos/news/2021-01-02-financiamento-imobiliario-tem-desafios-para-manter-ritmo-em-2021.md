@@ -1,11 +1,12 @@
 ---
-title: "Financiamento imobiliário tem desafios para manter ritmo em 2021"
+title: Financiamento imobiliário tem desafios para manter ritmo em 2021
 date: 2021-01-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Encarecimento de insumos e incertezas sobre renda acendem alerta.
 

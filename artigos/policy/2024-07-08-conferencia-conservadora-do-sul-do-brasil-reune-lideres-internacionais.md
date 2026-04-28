@@ -1,11 +1,12 @@
 ---
-title: "Conferência Conservadora do Sul do Brasil Reúne Líderes Internacionais"
+title: Conferência Conservadora do Sul do Brasil Reúne Líderes Internacionais
 date: 2024-07-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Conferência Conservadora do Sul do Brasil, também conhecida como CEPAC 2024, foi um evento de grande destaque realizado recentemente em Santa Catarina. Este encontro reuniu líderes políticos de renome internacional, incluindo Jair Bolsonaro, presidente do Brasil, e o presidente da Argentina, Javier Milei, entre outros proeminentes representantes do conservadorismo. O evento teve como objetivo discutir temas relevantes para a região sul do Brasil e para o movimento conservador global, abordando questões como economia, segurança e políticas públicas.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>IPC-S tem inflação em sete capitais pesquisadas pela FGV</strong>"
+title: <strong>IPC-S tem inflação em sete capitais pesquisadas pela FGV</strong>
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Média nacional do índice subiu de 0,02% para 0,69% em outubro.
 

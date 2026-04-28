@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro Traidor! Choro de meninos birrentos"
+title: Bolsonaro Traidor! Choro de meninos birrentos
 date: 2019-12-26
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 De fato, o pior inimigo que temos a enfrentar como conservadores é a direita reacionária, puritana e idealista. Sou conservador, pois, creio que sem a valorização da filosofia grega, do direito romano e da moral judaico cristã, a sociedade se perde diante do materialismo e fanatismo advindo de ideologias que em busca de uma utopia, não se preocupam de usar qualquer fim em nome de um futuro onde somente seus iguais terão lugar e voz .
 

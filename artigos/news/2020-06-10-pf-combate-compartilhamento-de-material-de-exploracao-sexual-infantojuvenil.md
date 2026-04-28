@@ -1,11 +1,12 @@
 ---
-title: "PF combate compartilhamento de material de exploração sexual infantojuvenil"
+title: PF combate compartilhamento de material de exploração sexual infantojuvenil
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – A Polícia Federal cumpriu nesta terça-feira (9/6) um mandado de busca e apreensão, pelo qual havia representado junto à 35ª Vara da Justiça Federal de Belo Horizonte, para combater compartilhamento de material de exploração sexual infantojuvenil pela internet.
 

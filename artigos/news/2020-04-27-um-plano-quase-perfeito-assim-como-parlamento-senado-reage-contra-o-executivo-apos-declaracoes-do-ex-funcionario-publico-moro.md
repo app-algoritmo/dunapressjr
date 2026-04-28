@@ -1,11 +1,13 @@
 ---
-title: "Um plano quase perfeito: Assim como parlamento, senado reage contra o executivo, após declarações do ex funcionário público Moro"
+title: 'Um plano quase perfeito: Assim como parlamento, senado reage contra o executivo,
+  após declarações do ex funcionário público Moro'
 date: 2020-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A exoneração do diretor da Polícia Federal, Maurício Valeixo, e a consequente saída do ministro da Justiça, Sergio Moro, repercutiram de imediato no Senado, nesta sexta-feira (24). Além de fazer críticas ao governo Jair Bolsonaro, dezenas de senadores foram às redes sociais demonstrar preocupação com a independência da PF. 
 

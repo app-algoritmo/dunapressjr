@@ -1,11 +1,13 @@
 ---
-title: "SP: Polícia apreende caminhão com 250 tijolos de cocaína na Castello Branco usando câmeras"
+title: 'SP: Polícia apreende caminhão com 250 tijolos de cocaína na Castello Branco
+  usando câmeras'
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O motorista foi preso em flagrante com uso do sistema de câmeras Muralha Paulista; as drogas foram escondidas dentro de caixas de frutas.
 

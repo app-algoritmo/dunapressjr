@@ -1,11 +1,13 @@
 ---
-title: "Uma guerra contra o México é iminente: Os trabalhadores dos EUA devem unir-se contra isto"
+title: Uma guerra contra o México é iminente: Os trabalhadores dos EUA devem unir-se
+  contra isto
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Os fomentadores da guerra estão a mobilizar-se para levar a sua campanha de destruição e sofrimento, que já traumatizou toda uma geração na Europa com o conflito na Ucrânia, para o continente norte-americano. Procuram invadir o México, como evidenciado pelo facto de tal esforço de guerra ter ainda mais apoio bipartidário do que a guerra por procuração na Ucrânia; Os mesmos políticos republicanos que expressaram cepticismo em relação à ajuda à Ucrânia têm prazer em demonizar e antagonizar o México. “A guerra é a conclusão lógica da sua retórica de que devemos concentrar-nos na proteção da nossa fronteira.” E esta retórica é apresentada com o mesmo tipo de omissão de contexto crucial,
 

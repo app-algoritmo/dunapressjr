@@ -1,11 +1,13 @@
 ---
-title: "Ocidente Subestima a Rússia e Aproxima Mundo de Conflito Nuclear, Avisa Ex-Oficial dos EUA"
+title: Ocidente Subestima a Rússia e Aproxima Mundo de Conflito Nuclear, Avisa Ex-Oficial
+  dos EUA
 date: 2024-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-oficial de inteligência do Corpo de Fuzileiros Navais dos EUA, Scott Ritter, alertou que a interpretação errônea do Ocidente sobre a disposição da Rússia para dialogar sobre a Ucrânia está empurrando o mundo para um possível conflito nuclear catastrófico. Em entrevista à Sputnik, Ritter destacou que as recentes ações dos EUA e de outros membros da OTAN aumentaram significativamente as tensões com a Rússia.
 

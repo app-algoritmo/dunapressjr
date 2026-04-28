@@ -1,11 +1,12 @@
 ---
-title: "Pacheco define relator; proposta de ICMS de combustíveis será debatida"
+title: Pacheco define relator; proposta de ICMS de combustíveis será debatida
 date: 2022-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Presidente do Senado conversou com secretários estaduais de Fazenda.
 

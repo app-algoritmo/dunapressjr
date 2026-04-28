@@ -1,11 +1,12 @@
 ---
-title: "Delegado Alexandre Ramagem é nomeado Diretor-Geral da Polícia Federal"
+title: Delegado Alexandre Ramagem é nomeado Diretor-Geral da Polícia Federal
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** – A nomeação do delegado de Polícia Federal Alexandre Ramagem Rodrigues para o cargo de Diretor-Geral da PF foi publicada na edição desta terça-feira (28/04) do Diário Oficial da União.
 O delegado é graduado em Direito pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) e ingressou na Polícia Federal em 2005, ocupando hoje a Classe Especial.

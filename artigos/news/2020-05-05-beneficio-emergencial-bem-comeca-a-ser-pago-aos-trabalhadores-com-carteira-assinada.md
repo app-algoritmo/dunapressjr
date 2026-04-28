@@ -1,11 +1,13 @@
 ---
-title: "Benefício Emergencial (BEm) começa a ser pago aos trabalhadores com carteira assinada"
+title: Benefício Emergencial (BEm) começa a ser pago aos trabalhadores com carteira
+  assinada
 date: 2020-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 BEm será pago para o trabalhador que tenha feito acordo com o empregador para redução proporcional de jornada de trabalho e de salário ou para suspensão temporária do contrato de trabalho
 Começou, nesta segunda-feira (4), o pagamento do Benefício Emergencial de Preservação do Emprego e Renda (BEm), do Governo Federal, para trabalhadores com carteira assinada que tiveram seus ganhos reduzidos em função da pandemia de Covid-19. O processamento dos pagamentos está sendo feito pelo Banco do Brasil (BB) e pela Caixa e será pago por até três meses.

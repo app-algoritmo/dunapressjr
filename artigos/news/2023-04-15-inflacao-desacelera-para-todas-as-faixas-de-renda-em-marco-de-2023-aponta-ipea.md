@@ -1,11 +1,13 @@
 ---
-title: "Inflação desacelera para todas as faixas de renda em março de 2023, aponta Ipea"
+title: Inflação desacelera para todas as faixas de renda em março de 2023, aponta
+  Ipea
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reajustes em transporte foram principal ponto de pressão inflacionária.
 

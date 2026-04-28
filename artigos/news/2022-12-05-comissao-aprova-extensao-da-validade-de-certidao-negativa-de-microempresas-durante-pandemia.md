@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova extensão da validade de certidão negativa de microempresas durante pandemia"
+title: Comissão aprova extensão da validade de certidão negativa de microempresas
+  durante pandemia
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou projeto de lei que estende temporariamente o prazo de validade das certidões negativas de débitos de micro e pequenas empresas durante o estado de emergência em saúde pública decorrente da pandemia de Covid-19.
 

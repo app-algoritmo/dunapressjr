@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem suspeito de traficar drogas em Roraima"
+title: PF prende homem suspeito de traficar drogas em Roraima
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu, na noite de ontem, 23, uma pessoa por tráfico de drogas e posse ilegal de arma.
 

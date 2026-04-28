@@ -1,11 +1,12 @@
 ---
-title: "Putin declara apoio a Biden para as eleições presidenciais dos EUA"
+title: Putin declara apoio a Biden para as eleições presidenciais dos EUA
 date: 2024-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma reviravolta surpreendente, o presidente russo Vladimir Putin expressou publicamente seu apoio ao atual presidente dos Estados Unidos, Joe Biden, para as próximas eleições presidenciais. Durante uma entrevista aos meios de comunicação estatais russos, Putin declarou que prefere Biden como vencedor, descrevendo-o como um político mais experiente, previsível e da velha escola. Além disso, Putin minimizou os relatos sobre o declínio cognitivo de Biden, afirmando não ter presenciado sinais significativos desse problema durante seus encontros anteriores.
 

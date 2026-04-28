@@ -1,11 +1,13 @@
 ---
-title: "Centro Paralímpico é a principal sede do Corporate Games, neste mês, em São Paulo (SP)"
+title: Centro Paralímpico é a principal sede do Corporate Games, neste mês, em São
+  Paulo (SP)
 date: 2023-11-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Lá serão disputadas sete das 11 modalidades esportivas do maior evento corporativo e de Team Building do mundo, realizado pela primeira vez no Brasil, entres os dias 23 e 26. Estão programadas competições, também, em mais três locais: Arena T.O., Playball e Speedland Kart Center.
 

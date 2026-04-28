@@ -1,11 +1,12 @@
 ---
-title: "Projeto exige 2/3 de votos dos ministros do STF e STJ para mudar jurisprudência"
+title: Projeto exige 2/3 de votos dos ministros do STF e STJ para mudar jurisprudência
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Posposta também proíbe efeito retroativo das decisões que mudarem o entendimento anterior nas duas cortes.
 

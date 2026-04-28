@@ -1,11 +1,12 @@
 ---
-title: "Monitor do PIB aponta alta de 1,1% na atividade econômica em novembro"
+title: Monitor do PIB aponta alta de 1,1% na atividade econômica em novembro
 date: 2021-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números foram divulgados pelo Instituto Brasileiro de Economia da FGV.
 

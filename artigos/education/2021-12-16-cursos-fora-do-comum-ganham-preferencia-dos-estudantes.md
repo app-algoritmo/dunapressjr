@@ -1,11 +1,12 @@
 ---
-title: "Cursos fora do comum ganham preferência dos estudantes"
+title: Cursos fora do comum ganham preferência dos estudantes
 date: 2021-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Cursos de graduação pouco conhecidos, mas muito concorridos, despertam cada vez mais a atenção e a procura de estudantes brasileiros, em instituições nacionais e internacionais. O aumento de inscrições de brasileiros em universidades americanas, por exemplo, foi de 41% em 2020, segundo o sistema de admissão *Common Application*. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Operação Seguro Pirata desarticula esquema fraudulento de proteção veicular em Campina Grande e região"
+title: Operação Seguro Pirata desarticula esquema fraudulento de proteção veicular
+  em Campina Grande e região
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal cumpre mandados de busca e apreensão e investigados podem enfrentar até 27 anos de prisão.
 

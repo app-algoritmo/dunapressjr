@@ -1,12 +1,14 @@
 ---
-title: "Empresa de biotecnologia de Utah implanta chips cerebrais em 50 pessoas para curar depressão, cegueira e paralisia"
+title: Empresa de biotecnologia de Utah implanta chips cerebrais em 50 pessoas para
+  curar depressão, cegueira e paralisia
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
-  - Technology
+- Health
+- Technology
 ---
+
 
 ## Uma empresa de biotecnologia com sede em Utah implantou chips cerebrais em dezenas de pacientes que, segundo ela, podem curar depressão, cegueira e paralisia.
 

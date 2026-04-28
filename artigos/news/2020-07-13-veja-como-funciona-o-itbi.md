@@ -1,11 +1,12 @@
 ---
-title: "Veja como funciona o ITBI"
+title: Veja como funciona o ITBI
 date: 2020-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Imposto é cobrado por municípios em cada transação imobiliária.
 

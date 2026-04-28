@@ -1,11 +1,13 @@
 ---
-title: "Oportunidades no mercado norueguês: energias limpas, indústria de frutos do mar, inovação e tecnologia"
+title: 'Oportunidades no mercado norueguês: energias limpas, indústria de frutos do
+  mar, inovação e tecnologia'
 date: 2019-08-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Noruega: uma das regiões mais distintas e tradicionais do mundo onde o respeito pelos valores conservadores integra-se a uma visão de mundo futurista. O resultado é infraestrutura moderna, ampla riqueza e uma cultura altamente fundamentada.
 

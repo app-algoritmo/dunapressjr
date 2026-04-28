@@ -1,11 +1,12 @@
 ---
-title: "Brasil realiza Diálogo Macroeconômico com a União Europeia"
+title: Brasil realiza Diálogo Macroeconômico com a União Europeia
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Videoconferência de representantes do Ministério da Economia e do Banco Central com grupo europeu discutiu recuperação econômica e perspectivas das políticas fiscais da UE e do Brasil
 

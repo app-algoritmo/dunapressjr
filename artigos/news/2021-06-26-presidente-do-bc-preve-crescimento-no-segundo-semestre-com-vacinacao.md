@@ -1,11 +1,12 @@
 ---
-title: "Presidente do BC prevê crescimento no segundo semestre com vacinação"
+title: Presidente do BC prevê crescimento no segundo semestre com vacinação
 date: 2021-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para Campos Neto, país seguirá modelo de países com imunização massiva.
 

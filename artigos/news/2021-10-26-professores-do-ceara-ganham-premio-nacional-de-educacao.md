@@ -1,11 +1,12 @@
 ---
-title: "Professores do Ceará ganham prêmio nacional de Educação"
+title: Professores do Ceará ganham prêmio nacional de Educação
 date: 2021-10-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Fantasiados, educadores usaram van para levar conteúdo e acolhimento a alunos em meio à pandemia.
 

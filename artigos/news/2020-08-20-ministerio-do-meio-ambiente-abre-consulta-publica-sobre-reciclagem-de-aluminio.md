@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Meio Ambiente abre consulta pública sobre reciclagem de alumínio"
+title: Ministério do Meio Ambiente abre consulta pública sobre reciclagem de alumínio
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério do Meio Ambiente abriu, nesta quarta-feira (19), uma consulta pública sobre a proposta do Termo de Compromisso para o aperfeiçoamento do sistema de logística reversa de latas de alumínio para bebidas. Um dos objetivos é de alcançar a meta de 95% de reciclagem do material.
 

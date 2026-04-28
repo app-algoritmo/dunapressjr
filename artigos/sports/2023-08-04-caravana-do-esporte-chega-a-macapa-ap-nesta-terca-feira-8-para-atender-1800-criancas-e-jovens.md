@@ -1,11 +1,13 @@
 ---
-title: "Caravana do Esporte chega a Macapá (AP) nesta terça-feira (8) para atender 1.800 crianças e jovens"
+title: Caravana do Esporte chega a Macapá (AP) nesta terça-feira (8) para atender
+  1.800 crianças e jovens
 date: 2023-08-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Projeto do Instituto Esporte e Educação movimentará a cidade até quinta-feira (10), com foco na educação e na inclusão por meio do esporte. Atleta olímpico da marcha atlética, o paraense Lucas Mazzo é o convidado da etapa.
 

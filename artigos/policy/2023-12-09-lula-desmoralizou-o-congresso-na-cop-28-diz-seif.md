@@ -1,11 +1,12 @@
 ---
-title: "Lula 'desmoralizou o Congresso' na COP 28, diz Seif"
+title: Lula 'desmoralizou o Congresso' na COP 28, diz Seif
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (5), o senador Jorge Seif (PL-SC) criticou a postura do presidente Lula em seus discursos na conferência sobre mudanças climáticas, a COP 28. Segundo o senador, apesar de o Parlamento brasileiro, "numa resposta ágil e cirúrgica", ter decidido pela manutenção do marco temporal ([PL 2.903/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157888), que impõe diretrizes para a demarcação de terras indígenas), acabou desmoralizado diante de líderes de mais de 120 países que participam do evento.
 

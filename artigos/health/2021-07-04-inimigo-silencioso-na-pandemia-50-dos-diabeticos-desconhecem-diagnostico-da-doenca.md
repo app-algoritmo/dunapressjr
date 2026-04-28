@@ -1,11 +1,13 @@
 ---
-title: "Inimigo silencioso na pandemia: 50% dos diabéticos desconhecem diagnóstico da doença"
+title: 'Inimigo silencioso na pandemia: 50% dos diabéticos desconhecem diagnóstico
+  da doença'
 date: 2021-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O aposentado Jarbas da Silva Motta, 69 anos, passou as festas de fim de ano na UTI, em Curitiba (PR), devido às complicações da Covid-19 causadas pela diabetes, obesidade e hipertensão. Foram 37 dias de internação. Já o professor de química, Robert Gessner Junior, 31 anos, estava acima do peso e pré-diabético quando contraiu o vírus. A saúde dele ficou tão debilitada, que os médicos precisaram recorrer ao tratamento da ECMO (oxigenação por membrana extracorpórea) para salvar sua vida. 
 

@@ -1,11 +1,13 @@
 ---
-title: "IPCA-15 de setembro registra variação de 0,35%, com acumulado de 5,00% em 12 meses"
+title: IPCA-15 de setembro registra variação de 0,35%, com acumulado de 5,00% em 12
+  meses
 date: 2023-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE revelam que seis dos nove grupos pesquisados tiveram alta no mês.
 

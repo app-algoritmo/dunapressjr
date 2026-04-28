@@ -1,11 +1,13 @@
 ---
-title: "Operação Arnold prende homem que comercializava substâncias proibidas utilizando os Correios"
+title: Operação Arnold prende homem que comercializava substâncias proibidas utilizando
+  os Correios
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta sexta-feira (29/5/2020) a denominada OPERAÇÃO ARNOLD, no intuito de combater o tráfico de substâncias proibidas. Estão sendo cumpridos dois mandados judiciais, na cidade de Ariquemes/RO, sendo um de prisão temporária e outro de busca e apreensão, exarados pela 1ª Vara de Delitos de Tóxicos de Porto Velho/RO.
 

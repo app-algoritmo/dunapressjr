@@ -1,11 +1,12 @@
 ---
-title: "<strong>Superávit comercial sobe 86,3% e chega a US$ 2,34 bilhões em setembro</strong>"
+title: <strong>Superávit comercial sobe 86,3% e chega a US$ 2,34 bilhões em setembro</strong>
 date: 2022-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Corrente de comércio até a segunda semana foi de US$ 16,80 bilhões, com US$ 9,57 bilhões em exportações e US$ 7,23 bilhões em importações; no ano, saldo chega a US$ 46,22 bilhões.
 

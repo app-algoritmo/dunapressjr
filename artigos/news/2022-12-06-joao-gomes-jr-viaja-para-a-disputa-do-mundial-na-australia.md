@@ -1,11 +1,12 @@
 ---
-title: "João Gomes Jr. viaja para a disputa do Mundial na Austrália"
+title: João Gomes Jr. viaja para a disputa do Mundial na Austrália
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De 13 a 18 deste mês, em Melbourne, na Austrália, será realizado o Mundial de Piscina Curta, reunindo os melhores nadadores do mundo. João Gomes Jr. estará lá, na prova dos 50m peito. A viagem do capixaba para disputar o campeonato já tem data marcada: nesta segunda-feira (5), com os demais integrantes da seleção brasileira. João segue para o Mundial após torneios preparatórios e treinos, visando chegar na melhor forma à competição.
 

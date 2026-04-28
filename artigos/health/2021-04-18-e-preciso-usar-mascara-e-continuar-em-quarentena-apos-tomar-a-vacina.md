@@ -1,11 +1,12 @@
 ---
-title: "É preciso usar máscara e continuar em quarentena após tomar a vacina?"
+title: É preciso usar máscara e continuar em quarentena após tomar a vacina?
 date: 2021-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com o início da vacinação contra a Covid-19 no Brasil, muitas pessoas já estão ansiosas para voltar à normalidade e fazendo planos para depois de tomar a vacina. Porém, a rotina não voltará ao normal logo após a imunização. Será preciso ter um pouco mais de paciência antes de abandonar o uso de máscaras e a quarentena.
 

@@ -1,11 +1,12 @@
 ---
-title: "Biden vence no Texas e em mais 9 estados nas primárias da 'Super Terça'"
+title: Biden vence no Texas e em mais 9 estados nas primárias da 'Super Terça'
 date: 2020-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As primárias do Partido Democrata foram realizadas em 14 estados
 

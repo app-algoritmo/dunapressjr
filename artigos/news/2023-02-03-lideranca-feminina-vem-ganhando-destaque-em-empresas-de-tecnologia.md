@@ -1,11 +1,12 @@
 ---
-title: "Liderança feminina vem ganhando destaque em empresas de tecnologia"
+title: Liderança feminina vem ganhando destaque em empresas de tecnologia
 date: 2023-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Fazer a diferença como mulher, líder e TI são os primeiros passos para um mundo melhor e com mais equidade de gênero". A frase é de Márcia Munaro, profissional de Tecnologia da Informação que começou a carreira com 14 anos e no exercício da datilografia viu crescer a paixão pela tecnologia. Conforme os anos passavam, as experiências profissionais traziam a confirmação de que estava no caminho certo. Não demorou para Márcia fundar sua própria empresa para levar soluções de TI ao mercado. "Iniciei minha atividade profissional longe de pensar que um dia estaria numa cadeira mais estratégica, como empresária", declara.
 

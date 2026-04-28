@@ -1,11 +1,12 @@
 ---
-title: "Fiscalização das operações do Proagro na região Sul"
+title: Fiscalização das operações do Proagro na região Sul
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ação começa no Rio Grande do Sul e será estendida para o Paraná e Santa Catarina.
 

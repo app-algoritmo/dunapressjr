@@ -1,11 +1,12 @@
 ---
-title: "Teto de gastos fecha 2021 com folga de R$ 27,53 bilhões"
+title: Teto de gastos fecha 2021 com folga de R$ 27,53 bilhões
 date: 2022-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## PEC dos Precatórios liberou R$ 64,9 bilhões no Orçamento de 2022.
 

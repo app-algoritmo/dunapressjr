@@ -1,11 +1,12 @@
 ---
-title: "PM dispara tiro em cachorro de morador de rua em Itajaí"
+title: PM dispara tiro em cachorro de morador de rua em Itajaí
 date: 2020-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O triste incidente aconteceu na noite de quinta feira, 13 de fevereiro de 2020,  a cena causou revolta e indignação entre os frequentadores da avenida mais badalada da cidade, a Beira Rio, no centro de Itajaí em Santa Catarina
 

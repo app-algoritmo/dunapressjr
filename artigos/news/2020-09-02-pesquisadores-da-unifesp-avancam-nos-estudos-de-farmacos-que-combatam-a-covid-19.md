@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores da Unifesp avançam nos estudos de fármacos que combatam a Covid-19"
+title: Pesquisadores da Unifesp avançam nos estudos de fármacos que combatam a Covid-19
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Enquanto pesquisadores da Universidade Federal de São Paulo (Unifesp) avançam na fase III do estudo clínico da vacina de Oxford, numa parceria com a universidade do Reino Unido, outras linhas de produção científica se debruçam sobre novos fármacos para o combate e tratamento dos pacientes que desenvolvem a Covid-19. Atualmente, dois grandes grupos de estudos estão sendo desenvolvidos. Um trata de fármacos já conhecidos e que podem ser reposicionados. O outro aborda novas drogas com estratégias antivirais.
 

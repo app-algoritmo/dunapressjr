@@ -1,11 +1,12 @@
 ---
-title: "Cinco ministérios contarão com recursos de R$ 1,296 bi orçados em outros órgãos"
+title: Cinco ministérios contarão com recursos de R$ 1,296 bi orçados em outros órgãos
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Congresso Nacional aprovou nesta quarta-feira (4) proposta do Poder Executivo para reforçar os caixas dos Ministérios da Agricultura e Pecuária, da Educação, de Minas e Energia, da Saúde, e da Integração e do Desenvolvimento Regional, no valor de R$ 1,296 bilhão. O projeto foi relatado pelo deputado federal Giacobo (PL-PR) e será encaminhado à sanção presidencial.
 

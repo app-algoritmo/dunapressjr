@@ -1,11 +1,12 @@
 ---
-title: "Chico Rodrigues destaca experiências em missões ao Cazaquistão e à Guiana"
+title: Chico Rodrigues destaca experiências em missões ao Cazaquistão e à Guiana
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (24), compartilhou experiências que teve durante viagens ao Cazaquistão e à Guiana em missão oficial. O parlamentar ressaltou que, no Cazaquistão, teve a oportunidade de explorar várias regiões e conhecer, na fronteira do país com a China, um projeto de desenvolvimento industrial, com área de livre comércio semelhante ao modelo da capital amazonense.
 

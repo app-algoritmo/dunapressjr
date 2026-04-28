@@ -1,12 +1,13 @@
 ---
-title: "O Continental: Do Mundo de John Wick"
+title: 'O Continental: Do Mundo de John Wick'
 date: 2023-10-08
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

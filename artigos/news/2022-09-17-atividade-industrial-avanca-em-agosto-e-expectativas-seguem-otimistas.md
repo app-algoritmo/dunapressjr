@@ -1,11 +1,12 @@
 ---
-title: "Atividade industrial avança em agosto e expectativas seguem otimistas"
+title: Atividade industrial avança em agosto e expectativas seguem otimistas
 date: 2022-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa da CNI indica alta na intenção de investimento.
 

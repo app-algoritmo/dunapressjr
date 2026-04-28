@@ -1,12 +1,13 @@
 ---
-title: "São Paulo capital da bicicleta nesta semana com o Shimano Fest"
+title: São Paulo capital da bicicleta nesta semana com o Shimano Fest
 date: 2023-08-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## Os dois primeiros dias do Festival da bicicleta, quinta (17) e sexta (18), no Memorial da América Latina, são exclusivos para profissionais do setor. Sábado (19) e domingo (20) a entrada é gratuita e a expectativa da organização é receber 50 mil pessoas e mais de R$ 45 milhões em volume de negócios.
 

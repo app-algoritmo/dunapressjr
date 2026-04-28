@@ -1,11 +1,12 @@
 ---
-title: "Soluções acústicas evitam excesso de barulho (e conflitos) nos lares brasileiros"
+title: Soluções acústicas evitam excesso de barulho (e conflitos) nos lares brasileiros
 date: 2021-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 De acordo com a Associação das Administradoras de Bens Imóveis e Condomínios de São Paulo (AABIC), as reclamações relacionadas a barulhos dentro de condomínios aumentaram 300% por mês, em relação a períodos antes da pandemia do novo coronavírus. Com mais tempo em casa, graças ao *home office* e ao *homeschooling,* a média de reclamações subiu de forma assustadora. Para se ter uma ideia, um prédio que tinha até cinco reclamações por mês, passou a ter entre 10 e 15.
 

@@ -1,11 +1,12 @@
 ---
-title: "COVID-19: Governo Bolsonaro incentiva pesquisas para combate ao novo coronavírus"
+title: 'COVID-19: Governo Bolsonaro incentiva pesquisas para combate ao novo coronavírus'
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na coletiva de imprensa desta quarta-feira (6), no Palácio do Planalto, os ministros da Saúde, Nelson Teich, e de Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes, descreveram as ações das respectivas pastas para atenuar os efeitos do novo coronavírus no País.
 

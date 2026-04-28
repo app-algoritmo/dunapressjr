@@ -1,11 +1,12 @@
 ---
-title: "Petrobras e BNDES firmam acordo para transição energética e reindustrialização"
+title: Petrobras e BNDES firmam acordo para transição energética e reindustrialização
 date: 2023-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Comissão mista é criada para impulsionar pesquisa, desenvolvimento científico e cooperação técnica entre as instituições.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fortalecimento da economia sustentável da Amazônia e Cerrado"
+title: Fortalecimento da economia sustentável da Amazônia e Cerrado
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desenvolver a economia sustentável da Amazônia e do Cerrado. É o que prevê uma parceria entre o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e a Empresa Brasileira de Pesquisa Agropecuária (Embrapa). O projeto contará com recursos federais de R$ 2 milhões para promover a estruturação, o fortalecimento e o aprimoramento de 11 cadeias produtivas do Brasil, como a do açaí, cupuaçu, castanha-do-Brasil, piaçava, mandioca, mel de abelhas nativas e baunilhas.
 

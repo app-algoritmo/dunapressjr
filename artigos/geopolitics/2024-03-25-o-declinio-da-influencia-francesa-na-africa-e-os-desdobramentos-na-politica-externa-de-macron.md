@@ -1,11 +1,13 @@
 ---
-title: "O Declínio da Influência Francesa na África e os Desdobramentos na Política Externa de Macron"
+title: O Declínio da Influência Francesa na África e os Desdobramentos na Política
+  Externa de Macron
 date: 2024-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A ascensão do presidente francês, Emmanuel Macron, trouxe consigo uma visão ambiciosa de restaurar "a grandeza da França" e reafirmar o papel de Paris como uma potência global influente. No entanto, enquanto Macron busca consolidar a posição da França no cenário internacional, enfrenta desafios significativos, especialmente em relação à sua antiga esfera de influência na África.
 

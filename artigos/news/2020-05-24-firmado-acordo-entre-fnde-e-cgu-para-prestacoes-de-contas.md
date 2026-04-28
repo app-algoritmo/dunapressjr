@@ -1,11 +1,12 @@
 ---
-title: "Firmado acordo entre FNDE e CGU para prestações de contas"
+title: Firmado acordo entre FNDE e CGU para prestações de contas
 date: 2020-05-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 **Cooperação prevê intercâmbio de dados e tecnologia para melhorar o projeto Malha Fina FNDE**
 

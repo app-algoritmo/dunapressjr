@@ -1,11 +1,13 @@
 ---
-title: "Chefe da AIEA pede retomada do diálogo com Teerã sobre o programa nuclear do Irã"
+title: Chefe da AIEA pede retomada do diálogo com Teerã sobre o programa nuclear do
+  Irã
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Rafael Grossi destacou que a situação em torno do programa nuclear do Irã era “muito incerta” e instou as nações a “sentarem-se e reatarem o diálogo”.
 

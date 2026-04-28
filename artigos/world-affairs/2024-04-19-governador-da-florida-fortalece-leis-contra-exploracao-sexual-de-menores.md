@@ -1,11 +1,12 @@
 ---
-title: "Governador da Flórida Fortalece Leis Contra Exploração Sexual de Menores"
+title: Governador da Flórida Fortalece Leis Contra Exploração Sexual de Menores
 date: 2024-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador da Flórida, Ron DeSantis, demonstrou seu compromisso com a proteção das crianças ao assinar cinco novas leis destinadas a combater o tráfico sexual e a exploração de menores no estado do Sol. As medidas, descritas em um comunicado de imprensa do gabinete do governador republicano, incluem a proibição de comunicações inapropriadas entre adultos e menores, o fortalecimento das operações policiais online para combater predadores infantis e o aprimoramento do registro de agressores sexuais.
 

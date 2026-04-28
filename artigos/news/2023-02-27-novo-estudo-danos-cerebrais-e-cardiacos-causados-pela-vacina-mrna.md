@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo: danos cerebrais e cardíacos causados ​​pela vacina mRNA"
+title: 'Novo estudo: danos cerebrais e cardíacos causados ​​pela vacina mRNA'
 date: 2023-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Cientistas na Alemanha descobriram que a vacina de mRNA, em vez de combater a própria infecção por COVID-19, causou danos cerebrais e cardíacos em um idoso com condições médicas subjacentes.
 

@@ -1,11 +1,13 @@
 ---
-title: "O que realmente está por trás da redefinição global e da Agenda 2030 para o Desenvolvimento Sustentável"
+title: O que realmente está por trás da redefinição global e da Agenda 2030 para o
+  Desenvolvimento Sustentável
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Preso nas chamadas cidades de 15 minutos, coma insetos e não carne, mergulhe no metaverso e seja constantemente drogado, e faça tudo à força ou perderá a Renda Básica Universal (UBI).
 

@@ -1,11 +1,12 @@
 ---
-title: "Concluída a maior pesquisa sobre a COVID-19 no Brasil"
+title: Concluída a maior pesquisa sobre a COVID-19 no Brasil
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Estudo analisou, dentre outras questões, a proporção de anticorpos da população brasileira em relação ao coronavírus, que chegou a 3,8% do público entrevistado na terceira fase.
 

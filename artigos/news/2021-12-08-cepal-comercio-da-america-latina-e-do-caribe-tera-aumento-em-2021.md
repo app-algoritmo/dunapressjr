@@ -1,11 +1,12 @@
 ---
-title: "Cepal: comércio da América Latina e do Caribe terá aumento em 2021"
+title: 'Cepal: comércio da América Latina e do Caribe terá aumento em 2021'
 date: 2021-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão é crescimento de 25% nas exportações regionais de bens.
 

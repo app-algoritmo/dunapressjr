@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde de Israel: 80% dos portadores de coronavírus vacinados não infectaram ninguém"
+title: 'Ministério da Saúde de Israel: 80% dos portadores de coronavírus vacinados
+  não infectaram ninguém'
 date: 2021-07-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Novos dados do Ministério da Saúde mostram que os portadores de coronavírus vacinados não causaram surtos em massa.
 

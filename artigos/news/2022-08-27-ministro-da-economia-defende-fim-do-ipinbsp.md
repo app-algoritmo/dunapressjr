@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Economia defende fim do IPI&nbsp;"
+title: Ministro da Economia defende fim do IPI&nbsp;
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes esteve em evento na capital gaúcha.
 

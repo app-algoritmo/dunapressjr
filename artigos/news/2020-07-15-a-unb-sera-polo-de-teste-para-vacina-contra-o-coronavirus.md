@@ -1,11 +1,12 @@
 ---
-title: "A UnB será polo de teste para vacina contra o coronavírus"
+title: A UnB será polo de teste para vacina contra o coronavírus
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto em parceria com Instituto Butantan e HUB está em fase de estruturação. Não há previsão para início dos testes em voluntários.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão da Câmara recomenda que plenário rejeite PEC do Voto Impresso"
+title: Comissão da Câmara recomenda que plenário rejeite PEC do Voto Impresso
 date: 2021-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Comissão especial votou parecer na noite desta sexta-feira
 

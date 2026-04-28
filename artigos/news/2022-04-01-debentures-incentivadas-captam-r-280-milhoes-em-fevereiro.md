@@ -1,11 +1,12 @@
 ---
-title: "Debêntures incentivadas captam R$ 280 milhões em fevereiro"
+title: Debêntures incentivadas captam R$ 280 milhões em fevereiro
 date: 2022-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor é resultado da distribuição de dois títulos do setor de energia, com prazo médio de 10,8 anos e remuneração na faixa de IPCA + 6,3%.
 

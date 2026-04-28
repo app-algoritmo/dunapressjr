@@ -1,11 +1,13 @@
 ---
-title: "Recuperação da indústria brasileira impulsiona a economia após período de baixa atividade"
+title: Recuperação da indústria brasileira impulsiona a economia após período de baixa
+  atividade
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor industrial registra crescimento significativo em 2021, segundo Pesquisa Industrial Anual - Empresa (PIA Empresa).
 

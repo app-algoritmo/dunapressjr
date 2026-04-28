@@ -1,11 +1,12 @@
 ---
-title: "<strong>Novas técnicas cirúrgicas surgem no pós-pandemia</strong>"
+title: <strong>Novas técnicas cirúrgicas surgem no pós-pandemia</strong>
 date: 2022-11-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma pesquisa publicada no *The Lancet Regional Health *estima que, durante a pandemia, mais de 1,1 milhão de cirurgias eletivas e emergenciais deixaram de ser realizadas no Brasil. E hospitais de todo o país agora se dedicam a “recuperar o tempo perdido”. O alento é que, nos mais de dois anos que as equipes viveram em compasso de espera, esses procedimentos eletivos foram usados para pesquisas de novas técnicas cirúrgicas dentro das mais variadas especialidades. Agora, no Hospital Marcelino Champagnat, em Curitiba (PR), a meta é aumentar em 27% o número de cirurgias, passando de 7.500 procedimentos realizados em 2021 para mais de 11 mil em 2022. E, para isso, estão sendo usadas técnicas pioneiras.
 

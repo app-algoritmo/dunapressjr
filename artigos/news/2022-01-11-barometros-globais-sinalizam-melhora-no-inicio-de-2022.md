@@ -1,11 +1,12 @@
 ---
-title: "Barômetros Globais sinalizam melhora no início de 2022"
+title: Barômetros Globais sinalizam melhora no início de 2022
 date: 2022-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índices foram divulgados nesta segunda-feira (10) pelo Ibra/FGV.
 

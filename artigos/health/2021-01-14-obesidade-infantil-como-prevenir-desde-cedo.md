@@ -1,11 +1,12 @@
 ---
-title: "Obesidade Infantil: como prevenir desde cedo"
+title: 'Obesidade Infantil: como prevenir desde cedo'
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Independente da fase da vida, os cuidados com a saúde precisam ser constantes. Isso inclui a alimentação, a prática de atividade física, o controle do ganho de peso e a manutenção de tantos outros hábitos saudáveis. Como a própria palavra já sugere, hábito é algo constante. E aqueles que começam desde cedo podem se estender pelo resto da vida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cinco lições de três anos de autoritarismo"
+title: Cinco lições de três anos de autoritarismo
 date: 2023-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Três anos atrás, poucos de nós poderíamos ter adivinhado que uma tempestade estava se formando que iria abalar o próprio tecido da democracia global, destruir comunidades inteiras, negócios e famílias, e levar um grande número de crianças e jovens a se fecharem e alienarem, entre muitas outras consequências negativas.
 

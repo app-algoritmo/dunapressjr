@@ -1,11 +1,13 @@
 ---
-title: "Ministra da Agricultura diz que não há risco de desabastecimento e que preço do arroz deve cair em breve"
+title: Ministra da Agricultura diz que não há risco de desabastecimento e que preço
+  do arroz deve cair em breve
 date: 2020-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministra Tereza Cristina afirmou que medidas foram tomadas para trazer estabilidade e equilíbrio paras os preços do arroz e que o produto não irá faltar na mesa do brasileiro.
 

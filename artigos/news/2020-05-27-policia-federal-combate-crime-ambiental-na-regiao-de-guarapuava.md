@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate crime ambiental na região de Guarapuava"
+title: Polícia Federal combate crime ambiental na região de Guarapuava
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guarapuava/PR - A Polícia Federal promoveu nesta terça-feira, 26/5, operação voltada ao combate de invasão de terras públicas da União. 
 

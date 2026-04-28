@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro solicitou visto de turista nos EUA"
+title: Bolsonaro solicitou visto de turista nos EUA
 date: 2023-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O ex-presidente do Brasil, Jair Bolsonaro, solicitou um visto de turista de seis meses para permanecer nos Estados Unidos, disse seu advogado nesta segunda-feira, apesar dos pedidos de revogação de quaisquer vistos americanos detidos por Bolsonaro após protestos violentos em Brasília.
 

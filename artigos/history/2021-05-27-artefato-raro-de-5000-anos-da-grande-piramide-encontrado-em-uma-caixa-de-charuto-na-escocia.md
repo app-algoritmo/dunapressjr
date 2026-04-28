@@ -1,11 +1,13 @@
 ---
-title: "Artefato raro de 5.000 anos da Grande Pirâmide encontrado em uma caixa de charuto na Escócia"
+title: Artefato raro de 5.000 anos da Grande Pirâmide encontrado em uma caixa de charuto
+  na Escócia
 date: 2021-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Fragmento de madeira, 1 de apenas 3 artefatos recuperados de uma estrutura antiga, foi encontrado em 1872, mas depois perdido; agora, um pesquisador egípcio resolveu o mistério na Universidade de Aberdeen.
 

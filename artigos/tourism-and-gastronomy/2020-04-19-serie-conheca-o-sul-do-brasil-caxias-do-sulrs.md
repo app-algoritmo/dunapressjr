@@ -1,11 +1,12 @@
 ---
-title: "Série conheça o Sul do Brasil:  Caxias do Sul/RS"
+title: 'Série conheça o Sul do Brasil:  Caxias do Sul/RS'
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 A região tem o maior contingente de imigrantes italianos do estado do Rio Grande do Sul e é conhecida pela tradicional Festa da Uva, que acontece a cada dois anos. Caxias do Sul é um pedaço da Itália no Brasil, miscigenada com as tradições gaúchas. 
 

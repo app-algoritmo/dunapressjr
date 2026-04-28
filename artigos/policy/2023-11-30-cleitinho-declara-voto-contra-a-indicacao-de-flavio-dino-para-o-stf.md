@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho declara voto contra a indicação de Flávio Dino para o STF"
+title: Cleitinho declara voto contra a indicação de Flávio Dino para o STF
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (28), o senador Cleitinho (Republicanos–MG) declarou posição contrária à aprovação do nome de Flávio Dino, atual ministro da Justiça, para a vaga deixada por Rosa Weber no Supremo Tribunal Federal (STF). O senador criticou a indicação, alegando que existe uma "motivação política". Cleitinho também criticou o atual modelo de definição de nomes para o STF, destacando que é necessário alterar a forma de escolha.
 

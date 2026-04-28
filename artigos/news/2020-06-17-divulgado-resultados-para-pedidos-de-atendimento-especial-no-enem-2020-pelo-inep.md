@@ -1,11 +1,13 @@
 ---
-title: "Divulgado resultados para pedidos de atendimento especial no Enem 2020 pelo Inep"
+title: Divulgado resultados para pedidos de atendimento especial no Enem 2020 pelo
+  Inep
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Quem pediu atendimento especializado para o Exame Nacional do Ensino Médio (Enem) em 2020 já pode consultar se o pedido por aceito na página do participante. Quem teve a solicitação indeferida, por pedir recurso ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) até o dia 19 de junho.
 

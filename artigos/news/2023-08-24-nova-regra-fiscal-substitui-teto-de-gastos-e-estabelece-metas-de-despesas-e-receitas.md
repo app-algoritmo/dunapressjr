@@ -1,11 +1,13 @@
 ---
-title: "Nova regra fiscal substitui teto de gastos e estabelece metas de despesas e receitas"
+title: Nova regra fiscal substitui teto de gastos e estabelece metas de despesas e
+  receitas
 date: 2023-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novo arcabouço combina flexibilidade e metas para controlar finanças públicas. 
 

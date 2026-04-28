@@ -1,11 +1,13 @@
 ---
-title: "Em 40 dias, Operação Escudo prende 900 criminosos e apreende quase 1 tonelada de drogas"
+title: Em 40 dias, Operação Escudo prende 900 criminosos e apreende quase 1 tonelada
+  de drogas
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## [Entre os presos estão criminosos com várias passagens policiais, líderes de facção e traficantes.](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/sala-de-imprensa/release/em-40-dias-operacao-escudo-prende-900-criminosos-e-apreende-quase-1-tonelada-de-drogas/)
 

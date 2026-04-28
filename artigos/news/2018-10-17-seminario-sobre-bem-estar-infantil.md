@@ -1,11 +1,12 @@
 ---
-title: "Seminário sobre bem-estar infantil"
+title: Seminário sobre bem-estar infantil
 date: 2018-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -A Noruega dedica especial atenção às crianças
 

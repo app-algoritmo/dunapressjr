@@ -1,11 +1,12 @@
 ---
-title: "Empresa automotiva chinesa anuncia fábrica no interior de São Paulo"
+title: Empresa automotiva chinesa anuncia fábrica no interior de São Paulo
 date: 2022-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investimento da Great Wall Motors será de R$ 10 bilhões.
 

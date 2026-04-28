@@ -1,11 +1,13 @@
 ---
-title: "Advogado expõe funcionários de farmacêuticas sabendo que 'vacinas contra a Covid' estão matando pessoas"
+title: Advogado expõe funcionários de farmacêuticas sabendo que 'vacinas contra a
+  Covid' estão matando pessoas
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## "Eles são vendedores de óleo de cobra, assim como eram no século 19. Eles têm suas pequenas invenções; Eles os vendem completamente sem regulamentação.”
 

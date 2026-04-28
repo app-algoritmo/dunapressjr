@@ -1,11 +1,12 @@
 ---
-title: "O amor transforma"
+title: O amor transforma
 date: 2019-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Está é a Lince, contarei resumidamente sua história.
 

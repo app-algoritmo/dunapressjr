@@ -1,11 +1,12 @@
 ---
-title: "O FBI investiga o prefeito democrata de Nova York por sua relação com a Turquia"
+title: O FBI investiga o prefeito democrata de Nova York por sua relação com a Turquia
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Eric Adamas, presidente da Câmara de Nova Iorque** desde 2022, está a ser **investigado pelo FBI pela sua relação com a Turquia,** embora neste momento sem quaisquer acusações oficiais. Ao que parece, o antigo agente da polícia, que iniciou a sua carreira em 1997 no Partido Republicano e em 2001 mudou para o Partido Democrata, **visitou o país eurasiano em quase 80 ocasiões** ao longo de oito anos, incluindo o hasteamento da bandeira nacional em 2015, uma instituição de caridade baile em 2018, ou uma gala da companhia Turkish Airlines em 2019 – que também está a ser investigada pelo serviço de inteligência.
 

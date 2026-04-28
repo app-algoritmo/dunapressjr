@@ -1,11 +1,13 @@
 ---
-title: "Evento Feras do Futevôlei tem entrada grátis ao público neste domingo em Vila Velha (ES)"
+title: Evento Feras do Futevôlei tem entrada grátis ao público neste domingo em Vila
+  Velha (ES)
 date: 2023-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O Feras do Futevôlei será neste domingo (5), a partir das 8h30, na Praia da Costa, em Vila Velha, no Espírito Santo. O desafio 3 x 3 tem entrada grátis para o público e transmissão do Verão Espetacular, da TV Globo.
 

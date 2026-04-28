@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova PEC que limita decisões monocráticas em tribunais superiores"
+title: Senado aprova PEC que limita decisões monocráticas em tribunais superiores
 date: 2023-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta recebeu apoio de 52 senadores e será analisada pela câmara dos deputados.
 

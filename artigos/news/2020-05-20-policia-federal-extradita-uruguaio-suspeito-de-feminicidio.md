@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal extradita uruguaio suspeito de feminicídio"
+title: Polícia Federal extradita uruguaio suspeito de feminicídio
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Jaguarão/RS – A Polícia Federal extraditou, no início da tarde desta terça-feira (19/05), um foragido das autoridades uruguaias investigado pelo homicídio de sua companheira, de 19 anos, com quem tinha dois filhos. O crime ocorreu em Rio Branco (ROU), em 30 de setembro de 2019.
 

@@ -1,11 +1,13 @@
 ---
-title: "Depen, VEP E MPDFT discutem ações de combate ao Covid-19 no sistema prisional do DF"
+title: Depen, VEP E MPDFT discutem ações de combate ao Covid-19 no sistema prisional
+  do DF
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O diretor-geral do Departamento Penitenciário Nacional (Depen), Fabiano Bordignon, realizou, na semana passada, reunião por videoconferência com a participação da Juíza da Vara de Execuções Penais do Distrito Federal, Dra. Leila Cury e assessores, além da Promotora de Justiça Claudia Tomelin, do Núcleo de Controle e Fiscalização do Sistema Prisional – Nupri/MPDFT. Na ocasião, foram apresentadas pela Magistrada todas as medidas adotadas pela VEP e a Subsecretaria do Sistema Penitenciário do *Distrito Federal* relacionadas ao enfrentamento à pandemia nos estabelecimentos penais, destacando que a realização de pré-testes para Covid-19 em pessoas privadas de liberdade possa atingir o maior número possível da população prisional, além do monitoramento diário aos presos que testaram positivo para o novo coronavírus, bem como àqueles que, possivelmente tenham tido contato.
 

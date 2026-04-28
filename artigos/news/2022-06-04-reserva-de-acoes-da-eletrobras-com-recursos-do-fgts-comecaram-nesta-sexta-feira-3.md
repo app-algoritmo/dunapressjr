@@ -1,11 +1,13 @@
 ---
-title: "Reserva de ações da Eletrobras com recursos do FGTS começaram nesta sexta-feira (3)"
+title: Reserva de ações da Eletrobras com recursos do FGTS começaram nesta sexta-feira
+  (3)
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Até 8 de junho, trabalhador poderá pedir compra de papéis da estatal.
 

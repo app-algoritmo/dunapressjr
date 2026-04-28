@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda à espera da PEC da Transição"
+title: Ibovespa fecha em queda à espera da PEC da Transição
 date: 2022-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Dólar fechou em alta de 1,5%, a R$ 5,38.
 

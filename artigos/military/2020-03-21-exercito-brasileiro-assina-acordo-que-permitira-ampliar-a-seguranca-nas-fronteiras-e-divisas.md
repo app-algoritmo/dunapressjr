@@ -1,11 +1,13 @@
 ---
-title: "Exército Brasileiro assina acordo que permitirá ampliar a segurança nas fronteiras e divisas"
+title: Exército Brasileiro assina acordo que permitirá ampliar a segurança nas fronteiras
+  e divisas
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria de Operações Integradas (Seopi), assinou nesta sexta-feira (20), em parceria com o Comando de Comunicações e Guerra Eletrônica (CCOMGEx) do Exército Brasileiro, um Acordo de Cooperação para ampliar e integrar o sistema de comunicação entre os agentes de segurança que atuam na faixa de fronteira e de divisa do Brasil.
 

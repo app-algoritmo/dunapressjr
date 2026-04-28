@@ -1,11 +1,12 @@
 ---
-title: "Exército efetua resgates em Santa Catarina e no Mato Grosso do Sul"
+title: Exército efetua resgates em Santa Catarina e no Mato Grosso do Sul
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Militares do Forte Marechal Luz, em São Francisco do Sul (SC), atuaram no resgate de três pessoas na praia na última segunda-feira, 20. O soldado de plantão, Filipi Silva, avistou um adulto e duas crianças se afogando no mar por volta das 14h40min. Imediatamente, acionou a guarda de serviço pelo rádio.
 

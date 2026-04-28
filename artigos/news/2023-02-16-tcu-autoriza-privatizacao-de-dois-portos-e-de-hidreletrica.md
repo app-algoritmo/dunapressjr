@@ -1,11 +1,12 @@
 ---
-title: "TCU autoriza privatização de dois portos e de hidrelétrica"
+title: TCU autoriza privatização de dois portos e de hidrelétrica
 date: 2023-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Antaq deve aprovar editais de leilões de terminais marítimos.
 

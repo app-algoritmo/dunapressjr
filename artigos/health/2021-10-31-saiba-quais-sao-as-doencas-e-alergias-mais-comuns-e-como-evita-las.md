@@ -1,11 +1,12 @@
 ---
-title: "Saiba quais são as doenças e alergias mais comuns e como evitá-las"
+title: Saiba quais são as doenças e alergias mais comuns e como evitá-las
 date: 2021-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Coriza, espirros, coceiras no nariz, olhos e garganta. Esses são alguns dos sintomas que um alérgico costuma sentir na primavera. Nem é preciso o anúncio da estação mais florida e colorida do ano para quem sofre com alergias respiratórias. A beleza das flores e plantas também carrega os pólens pelo ar, que são responsáveis por provocar algumas doenças durante essa época do ano.
 

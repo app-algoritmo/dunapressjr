@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe após Fed manter taxa de juros"
+title: Dólar sobe após Fed manter taxa de juros
 date: 2020-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Mercado brasileiro contrariou tendências externas.
 

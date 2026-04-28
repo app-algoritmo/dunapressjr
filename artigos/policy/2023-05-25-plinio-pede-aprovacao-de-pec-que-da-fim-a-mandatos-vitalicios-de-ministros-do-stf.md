@@ -1,11 +1,13 @@
 ---
-title: "Plínio pede aprovação de PEC que dá fim a mandatos vitalícios de ministros do STF"
+title: Plínio pede aprovação de PEC que dá fim a mandatos vitalícios de ministros
+  do STF
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) defendeu, em pronunciamento na quarta-feira (24), o fim do mandato vitalício para os ministros do Supremo tribunal Federal (STF). Ele pediu apoio à Proposta de Emenda à Constituição (PEC) [16/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/135817), de sua autoria, que fixa o mandato em oito anos, sem direito à recondução, e determina 30 dias de prazo para o presidente da República indicar os substitutos em caso de vacância.
 

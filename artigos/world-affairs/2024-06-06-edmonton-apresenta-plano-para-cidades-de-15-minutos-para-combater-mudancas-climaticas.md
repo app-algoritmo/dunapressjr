@@ -1,11 +1,13 @@
 ---
-title: "Edmonton Apresenta Plano para Cidades de 15 Minutos para Combater Mudanças Climáticas"
+title: Edmonton Apresenta Plano para Cidades de 15 Minutos para Combater Mudanças
+  Climáticas
 date: 2024-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A cidade de Edmonton, em Alberta, deu início a um novo e ambicioso projeto para transformar sua estrutura urbana, propondo a criação de cidades de 15 minutos. Este plano, que começou a receber feedback público ontem, visa combater as mudanças climáticas e gerenciar o crescimento populacional resultante da imigração em massa.
 

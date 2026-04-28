@@ -1,11 +1,13 @@
 ---
-title: "A descoberta de moedas árabes do século 17 que pode resolver o mistério do pirata assassino"
+title: A descoberta de moedas árabes do século 17 que pode resolver o mistério do
+  pirata assassino
 date: 2021-05-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## O dinheiro poderia explicar como o capitão Henry Every, então o criminoso mais procurado do mundo por saquear navios que transportavam peregrinos muçulmanos de Meca para a Índia em 1695, escapou da captura.
 

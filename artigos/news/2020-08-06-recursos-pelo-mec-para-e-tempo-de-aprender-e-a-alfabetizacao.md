@@ -1,11 +1,12 @@
 ---
-title: "Recursos pelo Mec para É Tempo de Aprender e a alfabetização"
+title: Recursos pelo Mec para É Tempo de Aprender e a alfabetização
 date: 2020-08-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## MEC disponibiliza recursos por meio dos programas Conta pra Mim e Tempo de Aprender para professores, pais e responsáveis ajudarem as crianças nesse processo.
 

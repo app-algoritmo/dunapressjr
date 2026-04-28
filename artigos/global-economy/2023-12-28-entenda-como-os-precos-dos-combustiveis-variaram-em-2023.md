@@ -1,11 +1,12 @@
 ---
-title: "Entenda como os preços dos combustíveis variaram em 2023"
+title: Entenda como os preços dos combustíveis variaram em 2023
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Apesar de cenário externo favorável, gasolina subiu 12% até novembro.
 

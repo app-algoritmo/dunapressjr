@@ -1,11 +1,12 @@
 ---
-title: "A desinformação jornalística da BBC"
+title: A desinformação jornalística da BBC
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em primeiro lugar, parabéns a todas as participantes da Copa do Mundo Feminina que alegraram tantas pessoas. E um alô muito especial para as mulheres das Filipinas que derrotaram as Kiwis, uma das favoritas do torneio. E, claro, para as mulheres do Vietnã cujas avós e bisavós sacrificaram tanto por elas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Senadores Republicanos Instam Biden a Rotular 'Trem de Aragua' como Organização Criminosa Transnacional"
+title: Senadores Republicanos Instam Biden a Rotular 'Trem de Aragua' como Organização
+  Criminosa Transnacional
 date: 2024-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um grupo de senadores e representantes republicanos enviou uma carta ao presidente dos Estados Unidos, Joe Biden, na sexta-feira, solicitando que ele designe o grupo criminoso venezuelano "Trem de Aragua" como uma organização criminosa transnacional.
 

@@ -1,11 +1,12 @@
 ---
-title: "CCXP: Saiba o que é o evento internacional que acontece no Brasil nesta semana"
+title: 'CCXP: Saiba o que é o evento internacional que acontece no Brasil nesta semana'
 date: 2022-12-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 **Saiba o que é a CCXP, evento que acontece na primeira semana de dezembro em São Paulo**
 

@@ -1,11 +1,12 @@
 ---
-title: "Canal Disque 100 foi ampliado para receber denúncias de violência doméstica"
+title: Canal Disque 100 foi ampliado para receber denúncias de violência doméstica
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o objetivo de minimizar as violações dos direitos humanos durante o isolamento social, a Ouvidoria Nacional de Direitos Humanos (ONDH), do ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), adotou uma série de medidas relacionadas ao tema.
 

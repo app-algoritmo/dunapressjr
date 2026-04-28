@@ -1,11 +1,12 @@
 ---
-title: "Colocando uma pedra sobre a tal linguagem neutra"
+title: Colocando uma pedra sobre a tal linguagem neutra
 date: 2023-02-14
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Discriminatória, criminosa, ilegal e imoral, a linguagem neutra não pode ser adotada por nenhum falante, a não ser que também se adote a língua do pê para comunicações oficiais. Espero que depois de ler este pequeno artigo, paremos de discutir algo que não permite discussão, pois se trata de fato jurídico, portanto não cabem modificações sem aprovação do Congresso.
 

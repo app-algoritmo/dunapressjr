@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra queda na criminalidade em 2019"
+title: Brasil registra queda na criminalidade em 2019
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Números divulgados nesta quarta-feira (15) pelo Ministério da Justiça e Segurança Pública (MJSP) indicam que a criminalidade no Brasil caiu em 2019. Entre os destaques, está a redução de 19% nos homicídios dolosos.
 

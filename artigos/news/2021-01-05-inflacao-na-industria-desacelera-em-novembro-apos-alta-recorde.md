@@ -1,11 +1,12 @@
 ---
-title: "Inflação na indústria desacelera em novembro, após alta recorde"
+title: Inflação na indústria desacelera em novembro, após alta recorde
 date: 2021-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preços subiram 1,39%, com desaceleração em relação a outubro.
 

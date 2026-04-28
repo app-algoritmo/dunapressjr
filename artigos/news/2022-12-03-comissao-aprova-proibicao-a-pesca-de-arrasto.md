@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova proibição a pesca de arrasto"
+title: Comissão aprova proibição a pesca de arrasto
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão do Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados aprovou o [Projeto de Lei 347/22](https://www.camara.leg.br/noticias/857250-PROJETO-PROIBE-EM-TODO-O-PAIS-PESCA-PUXADA-POR-EMBARCACOES-MOTORIZADAS), que proíbe a pesca de arrasto – puxada por embarcações motorizadas – em águas continentais (rios e lagos), no mar territorial (22 km do litoral) e na zona econômica exclusiva do País (até 370 km da costa).
 

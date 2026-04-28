@@ -1,11 +1,12 @@
 ---
-title: "Facebook e Instagram estão fora em diversos países"
+title: Facebook e Instagram estão fora em diversos países
 date: 2019-03-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Facebook e o Instagram estão fora do ar desde o início da tarde desta quarta-feira (13), em diversos países do mundo. As redes de troca de mensagens, WhatsApp e Messenger, também apresentam problemas. Usuários relatam desde por volta das 13h30.
 

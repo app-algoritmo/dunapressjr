@@ -1,11 +1,12 @@
 ---
-title: "Arquivo alemão carrega detalhes de milhões de vítimas nazistas"
+title: Arquivo alemão carrega detalhes de milhões de vítimas nazistas
 date: 2021-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O Centro Internacional de Perseguição nazista da Alemanha carregou cerca de 850.000 documentos com informações sobre dez milhões de pessoas coletadas após o fim da Segunda Guerra Mundial na zona ocupada americana da Alemanha.
 

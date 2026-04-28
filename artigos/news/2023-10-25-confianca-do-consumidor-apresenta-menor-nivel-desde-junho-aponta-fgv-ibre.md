@@ -1,11 +1,12 @@
 ---
-title: "Confiança do Consumidor apresenta menor nível desde junho aponta FGV IBRE"
+title: Confiança do Consumidor apresenta menor nível desde junho aponta FGV IBRE
 date: 2023-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança do Consumidor recua 3,8 pontos em outubro, sinalizando preocupação com a economia e mercado de trabalho.
 

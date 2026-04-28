@@ -1,11 +1,12 @@
 ---
-title: "MEI tem até 31 de agosto de 2021 para regularizar seus débitos"
+title: MEI tem até 31 de agosto de 2021 para regularizar seus débitos
 date: 2021-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Até o dia 31/08/2021, o MEI poderá regularizar seus débitos (INSS, ISS e ICMS) por meio de recolhimento em DAS, acessando o [PGMEI](https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=8), ou [parcelando](https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=19).
 

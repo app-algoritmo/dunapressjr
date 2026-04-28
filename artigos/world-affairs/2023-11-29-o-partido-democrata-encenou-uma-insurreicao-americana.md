@@ -1,11 +1,12 @@
 ---
-title: "O Partido Democrata encenou uma insurreição americana?"
+title: O Partido Democrata encenou uma insurreição americana?
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## *O dia 6 de janeiro pode ter sido muitas coisas para muitas pessoas, mas certamente não foi mais uma Festa do Chá de Boston.*
 

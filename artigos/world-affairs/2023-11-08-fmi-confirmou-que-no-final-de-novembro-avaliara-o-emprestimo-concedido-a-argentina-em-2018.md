@@ -1,11 +1,13 @@
 ---
-title: "FMI confirmou que no final de novembro avaliará o empréstimo concedido à Argentina em 2018"
+title: FMI confirmou que no final de novembro avaliará o empréstimo concedido à Argentina
+  em 2018
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Escritório de Avaliação Independente (IEO) do Fundo Monetário Internacional (FMI) confirmou hoje em Washington que realizará, no final de novembro, uma avaliação sobre a concessão de um empréstimo à Argentina durante 2018, conforme expresso por esse escritório por meio de uma declaração.
 

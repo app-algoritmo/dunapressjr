@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal chega a R$ 172,31 bilhões em agosto"
+title: Arrecadação federal chega a R$ 172,31 bilhões em agosto
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O valor é o maior desde 2000.
 

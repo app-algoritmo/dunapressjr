@@ -1,11 +1,13 @@
 ---
-title: "Secretaria Especial da Cultura promove iniciativa inédita no país com o Prêmio Nacional das Artes"
+title: Secretaria Especial da Cultura promove iniciativa inédita no país com o Prêmio
+  Nacional das Artes
 date: 2020-01-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Que visa promover o renascimento das artes e irá destinar mais de R$ 20 milhões para projetos de ópera, teatro, pintura, escultura, literatura, música e histórias em quadrinhos das cinco regiões brasileiras.
 

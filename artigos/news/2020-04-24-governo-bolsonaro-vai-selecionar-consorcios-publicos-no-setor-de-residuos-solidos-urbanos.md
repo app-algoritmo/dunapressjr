@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro vai selecionar consórcios públicos no setor de resíduos sólidos urbanos"
+title: Governo Bolsonaro vai selecionar consórcios públicos no setor de resíduos sólidos
+  urbanos
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal abriu, na última semana, um processo seletivo para apoiar consórcios públicos interessados na estruturação de projetos de concessões no setor de resíduos sólidos urbanos de origem domiciliar. O objetivo é ampliar a prestação de serviços e melhorar a qualidade de vida da população que ainda não é atendida. Serão disponibilizados R$ 25 milhões do Fundo de Apoio à Estruturação e ao Desenvolvimento de Projetos de Concessões e Parcerias Público-Privadas (FEP).
 

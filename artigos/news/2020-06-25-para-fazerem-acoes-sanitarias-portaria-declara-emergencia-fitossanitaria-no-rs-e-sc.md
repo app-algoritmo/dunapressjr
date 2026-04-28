@@ -1,11 +1,13 @@
 ---
-title: "Para fazerem ações sanitárias, portaria declara emergência fitossanitária no RS e SC"
+title: Para fazerem ações sanitárias, portaria declara emergência fitossanitária no
+  RS e SC
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Medida antecipa possível chegada de nuvem de gafanhotos no Brasil. De acordo com serviço argentino, nuvem de gafanhotos continua se deslocando em direção ao Uruguai.
 

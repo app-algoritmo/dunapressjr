@@ -1,11 +1,12 @@
 ---
-title: "Estratégia Nacional de Combate à Corrupção e Lavagem de Dinheiro"
+title: Estratégia Nacional de Combate à Corrupção e Lavagem de Dinheiro
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Estratégia Nacional de Combate à Corrupção e Lavagem de Dinheiro (ENCCLA) aprovou 11 ações a serem implementadas no próximo ano para combater esses crimes.
 

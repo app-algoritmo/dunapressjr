@@ -1,11 +1,13 @@
 ---
-title: "Pátria Voluntária recebe doação de 100 mil máscaras descartáveis, agasalhos e cobertores"
+title: Pátria Voluntária recebe doação de 100 mil máscaras descartáveis, agasalhos
+  e cobertores
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 campanha do agasalho do programa Pátria Voluntária recebeu uma doação de 100 mil máscaras descartáveis, agasalhos e cobertores. A doação foi feita pelo Ministério do Desenvolvimento Regional (MDR) e a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf). 
 

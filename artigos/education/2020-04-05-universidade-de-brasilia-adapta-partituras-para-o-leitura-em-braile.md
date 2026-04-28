@@ -1,11 +1,12 @@
 ---
-title: "Universidade de Brasília adapta partituras para o leitura em Braile"
+title: Universidade de Brasília adapta partituras para o leitura em Braile
 date: 2020-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Promover acessibilidade para os estudantes. Eis a razão de ser da Coordenação de Apoio às Pessoas com Deficiência da Universidade de Brasília (PPNE-UnB). Em agosto de 2019, a unidade recebeu um pedido mais que especial de uma aluna: adaptar partituras musicais para o braile. Dessa solicitação, nasceu o projeto Musicografia Braille.
 

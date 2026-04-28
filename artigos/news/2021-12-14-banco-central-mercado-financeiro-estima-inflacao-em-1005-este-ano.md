@@ -1,11 +1,12 @@
 ---
-title: "Banco Central: mercado financeiro estima inflação em 10,05% este ano"
+title: 'Banco Central: mercado financeiro estima inflação em 10,05% este ano'
 date: 2021-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a primeira redução depois de 35 semanas consecutivas de alta.
 

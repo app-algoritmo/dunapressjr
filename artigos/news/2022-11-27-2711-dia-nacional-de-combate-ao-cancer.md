@@ -1,11 +1,12 @@
 ---
-title: "27/11 – Dia Nacional de Combate ao Câncer"
+title: 27/11 – Dia Nacional de Combate ao Câncer
 date: 2022-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Câncer é o nome dado a um conjunto de mais de 100 doenças que têm em comum o crescimento desordenado de células que invadem tecidos e órgãos. Dividindo-se rapidamente, estas células tendem a ser muito agressivas e incontroláveis, determinando a formação de tumores, que podem espalhar-se para outras regiões do corpo.
 

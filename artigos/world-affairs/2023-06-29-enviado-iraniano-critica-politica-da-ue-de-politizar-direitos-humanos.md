@@ -1,11 +1,12 @@
 ---
-title: "Enviado iraniano critica política da UE de politizar direitos humanos"
+title: Enviado iraniano critica política da UE de politizar direitos humanos
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O embaixador do Irã na Áustria, Abbas Bagherpour, criticou a União Européia (UE) por sua tentativa de politizar os direitos humanos para alcançar “objetivos míopes”.
 

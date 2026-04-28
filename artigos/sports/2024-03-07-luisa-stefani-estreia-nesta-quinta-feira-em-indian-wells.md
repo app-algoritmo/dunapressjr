@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia nesta quinta-feira em Indian Wells"
+title: Luisa Stefani estreia nesta quinta-feira em Indian Wells
 date: 2024-03-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs jogam contra dupla de romena e croata na noite desta quinta (7) no torneio WTA 1000 com US$ 9 milhões em premiação total.
 

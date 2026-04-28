@@ -1,12 +1,13 @@
 ---
-title: "Breaking: Mais um atleta sofre colapso durante partida"
+title: 'Breaking: Mais um atleta sofre colapso durante partida'
 date: 2023-01-03
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 **Tragédia em campo choca o mundo dos esportes. Vídeos impactantes ao final da matéria.**
 

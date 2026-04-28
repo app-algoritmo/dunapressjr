@@ -1,11 +1,13 @@
 ---
-title: "De volta ao comando do Executivo, Carlos Moisés apresenta programa de investimentos para os próximos dois anos"
+title: De volta ao comando do Executivo, Carlos Moisés apresenta programa de investimentos
+  para os próximos dois anos
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governador Carlos Moisés apresentou um plano de investimentos estratégicos para Santa Catarina em sua volta ao cargo, após a absolvição no processo de impeachment sobre a equiparação salarial dos procuradores do Estado. O programa Santa Catarina. Um Estado de Verdade prevê quase R$ 10 bilhões até 2022 nas áreas de infraestrutura, retomada da economia e planejamento hídrico.
 

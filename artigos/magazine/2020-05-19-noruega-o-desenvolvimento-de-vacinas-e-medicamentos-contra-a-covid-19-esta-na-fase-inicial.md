@@ -1,11 +1,13 @@
 ---
-title: "Noruega: O desenvolvimento de vacinas e medicamentos contra a covid-19 está na fase inicial"
+title: 'Noruega: O desenvolvimento de vacinas e medicamentos contra a covid-19 está
+  na fase inicial'
 date: 2020-05-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Vários medicamentos estão sendo testados contra a covid-19, e a Noruega está trabalhando em estreita colaboração com a UE para facilitar o desenvolvimento rápido. Levará meses antes que qualquer vacina possa ser testada em uma escala maior.
 

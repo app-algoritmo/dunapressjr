@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani segue para os Estados Unidos e se prepara para Indian Wells e Miami"
+title: Luisa Stefani segue para os Estados Unidos e se prepara para Indian Wells e
+  Miami
 date: 2024-02-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana foi superada na estreia em Dubai ao lado de Demi Schuurs, após conquista em Doha.
 

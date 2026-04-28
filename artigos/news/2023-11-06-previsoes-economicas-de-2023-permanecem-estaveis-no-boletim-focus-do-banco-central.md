@@ -1,11 +1,13 @@
 ---
-title: "Previsões econômicas de 2023 permanecem estáveis no Boletim Focus do Banco Central"
+title: Previsões econômicas de 2023 permanecem estáveis no Boletim Focus do Banco
+  Central
 date: 2023-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento, inflação e taxa de juros mantêm rumo, enquanto dólar permanece em foco.
 

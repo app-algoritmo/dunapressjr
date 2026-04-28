@@ -1,11 +1,12 @@
 ---
-title: "BNDES disponibiliza R$5 bi para micro, pequenas e médias empresas"
+title: BNDES disponibiliza R$5 bi para micro, pequenas e médias empresas
 date: 2020-07-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nova linha de crédito foi estendida até 31 de dezembro.
 

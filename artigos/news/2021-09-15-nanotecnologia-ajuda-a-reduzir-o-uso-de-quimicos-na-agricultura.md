@@ -1,11 +1,12 @@
 ---
-title: "Nanotecnologia ajuda a reduzir o uso de químicos na agricultura"
+title: Nanotecnologia ajuda a reduzir o uso de químicos na agricultura
 date: 2021-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para criar um material alternativo e sustentável, eficiente e eficaz no manejo de pragas agrícolas, Silvana Rempel aplicou nanotecnologia em feromônios agrícolas – substâncias químicas exaladas por insetos. O resultado, além de satisfatório, ajuda a reduzir sensivelmente o uso de agrotóxicos nas plantações. A engenheira de Materiais fez o estudo durante seu mestrado em Engenharia e Ciência de Materiais, na Universidade de Caxias do Sul (UCS).
 

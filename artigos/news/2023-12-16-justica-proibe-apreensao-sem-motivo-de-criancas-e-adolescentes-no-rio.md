@@ -1,11 +1,12 @@
 ---
-title: "Justiça proíbe apreensão sem motivo de crianças e adolescentes no Rio"
+title: Justiça proíbe apreensão sem motivo de crianças e adolescentes no Rio
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Pedido foi feito pelo MPRJ para impedir abusos na Operação Verão.
 

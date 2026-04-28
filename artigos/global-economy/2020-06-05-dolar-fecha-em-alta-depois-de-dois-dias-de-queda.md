@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em alta depois de dois dias de queda"
+title: Dólar fecha em alta depois de dois dias de queda
 date: 2020-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa sobe quase 1% e fecha no maior nível em três meses.
 

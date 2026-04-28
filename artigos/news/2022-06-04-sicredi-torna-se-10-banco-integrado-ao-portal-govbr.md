@@ -1,11 +1,12 @@
 ---
-title: "Sicredi torna-se 10º banco integrado ao Portal Gov.br"
+title: Sicredi torna-se 10º banco integrado ao Portal Gov.br
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Correntistas acessam serviços públicos com nível de segurança prata.
 

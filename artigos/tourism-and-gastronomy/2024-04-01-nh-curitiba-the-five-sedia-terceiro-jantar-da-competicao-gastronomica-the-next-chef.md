@@ -1,11 +1,13 @@
 ---
-title: "NH Curitiba The Five sedia terceiro jantar da competição gastronômica The Next Chef"
+title: NH Curitiba The Five sedia terceiro jantar da competição gastronômica The Next
+  Chef
 date: 2024-04-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Com um banquete inspirado na temática "Viva a emoção", o restaurante mediterrâneo Trinitas receberá os chefs Lucas Coelho e João Fontoura. Convites estão à venda para público desfrutar da experiência gastronômica e ainda ser jurado do concurso.
 

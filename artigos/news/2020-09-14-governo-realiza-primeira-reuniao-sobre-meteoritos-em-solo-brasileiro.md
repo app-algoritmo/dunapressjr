@@ -1,11 +1,12 @@
 ---
-title: "Governo realiza primeira reunião sobre meteoritos em solo brasileiro"
+title: Governo realiza primeira reunião sobre meteoritos em solo brasileiro
 date: 2020-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após a queda de meteoritos sobre território brasileiro que despertou a curiosidade de moradores e atraiu colecionadores e cientistas de todo o mundo, o Ministério da Ciência, Tecnologia e Inovações (MCTI) realizou na sexta-feira (11) a primeira reunião do Grupo de Discussão do Meteorito em Solo Brasileiro. A pauta do encontro virtual tratou sobre como o Governo Federal pode trabalhar a legislação sobre o tema, estabelecer tratativas com os estados e municípios para estabelecer uma política pública por meio de projetos e ações do MCTI e também efetivar a participação das unidades vinculadas ligadas ao tema para garantir o interesse científico e gerar conhecimento com os meteoritos que são descobertos no Brasil. A reunião atende ao Despacho Ministerial do MCTI de 3 de setembro que determina a criação do grupo de discussão para “para tratar sobre os assuntos referentes aos episódios recentes sobre a queda de meteoritos em solo brasileiro, de forma a resguardar os interesses estatais sobre pesquisa científica”, entre outras providências.  
 

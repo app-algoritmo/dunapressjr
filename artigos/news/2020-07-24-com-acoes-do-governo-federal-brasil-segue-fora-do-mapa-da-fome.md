@@ -1,11 +1,12 @@
 ---
-title: "Com ações do Governo Federal, Brasil segue fora do Mapa da Fome"
+title: Com ações do Governo Federal, Brasil segue fora do Mapa da Fome
 date: 2020-07-24
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## O balanço anual confirma que as ações do governo brasileiro beneficiam a população mais vulnerável.
 

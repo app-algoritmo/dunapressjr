@@ -1,11 +1,12 @@
 ---
-title: "Conab aponta aumento de 8% da produção brasileira de grãos"
+title: Conab aponta aumento de 8% da produção brasileira de grãos
 date: 2020-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No agregado o Brasil pode chegar a 278 milhões de toneladas.
 

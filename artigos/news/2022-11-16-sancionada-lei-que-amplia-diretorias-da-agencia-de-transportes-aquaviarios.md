@@ -1,11 +1,12 @@
 ---
-title: "Sancionada lei que amplia diretorias da Agência de Transportes Aquaviários"
+title: Sancionada lei que amplia diretorias da Agência de Transportes Aquaviários
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro sancionou a [Lei 14.465/22](https://www2.camara.gov.br/legin/fed/lei/2022/lei-14465-9-novembro-2022-793378-norma-pl.html), que amplia de três para cinco o total de diretores da Agência Nacional de Transportes Aquaviários (Antaq). Para apoio às duas novas diretorias, serão criados seis cargos de assessor. O texto foi publicado no Diário Oficial da União desta quinta-feira (11).
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmera Fotográfica Kodak Brownie"
+title: Câmera Fotográfica Kodak Brownie
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a ****Câmera Fotográfica Kodak Brownie**
 

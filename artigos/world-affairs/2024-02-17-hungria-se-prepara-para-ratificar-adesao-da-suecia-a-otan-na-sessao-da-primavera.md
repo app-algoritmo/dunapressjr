@@ -1,11 +1,12 @@
 ---
-title: "Hungria se Prepara para Ratificar Adesão da Suécia à OTAN na Sessão da Primavera"
+title: Hungria se Prepara para Ratificar Adesão da Suécia à OTAN na Sessão da Primavera
 date: 2024-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No seu discurso anual sobre as prioridades políticas da Hungria, o primeiro-ministro Viktor Orban anunciou planos para ratificar o acordo de adesão da Suécia à OTAN durante a próxima sessão da primavera do parlamento. 
 

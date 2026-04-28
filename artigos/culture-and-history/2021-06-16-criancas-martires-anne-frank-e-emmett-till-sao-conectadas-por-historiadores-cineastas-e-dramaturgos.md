@@ -1,11 +1,13 @@
 ---
-title: "Crianças mártires: Anne Frank e Emmett Till são conectadas por historiadores, cineastas e dramaturgos"
+title: 'Crianças mártires: Anne Frank e Emmett Till são conectadas por historiadores,
+  cineastas e dramaturgos'
 date: 2021-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 O pai de Anne Frank compartilhou seu diário com o mundo para “fazer algo” com o legado de sua filha. Dez anos depois, nos Estados Unidos, Mamie Till exigiu que o cadáver mutilado de seu filho Emmett fosse exposto por um motivo semelhante.
 

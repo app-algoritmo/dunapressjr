@@ -1,11 +1,12 @@
 ---
-title: "Lula não viajará para posse de Milei e chanceler Vieira vai em seu lugar"
+title: Lula não viajará para posse de Milei e chanceler Vieira vai em seu lugar
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Brasil, Luiz Inácio Lula da Silva, decidiu não comparecer à posse do presidente eleito Javier Milei no domingo e, em seu lugar, enviará o ministro das Relações Exteriores, Mauro Vieira, o ministro da Comunicação Social do Brasil, Paulo, informou Telam Pepper.
 

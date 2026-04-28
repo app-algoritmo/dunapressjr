@@ -1,11 +1,12 @@
 ---
-title: "IBGE: indústria cai em nove dos 15 locais pesquisados em abril"
+title: 'IBGE: indústria cai em nove dos 15 locais pesquisados em abril'
 date: 2021-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção foi afetada pela queda nos derivados de petróleo.
 

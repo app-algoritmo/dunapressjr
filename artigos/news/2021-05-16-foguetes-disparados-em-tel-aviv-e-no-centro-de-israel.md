@@ -1,11 +1,12 @@
 ---
-title: "Foguetes disparados em Tel Aviv e no centro de Israel"
+title: Foguetes disparados em Tel Aviv e no centro de Israel
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sirenes de ataque aéreo soam duas vezes enquanto foguetes caem no centro e sul de Israel em duas massivas barragens.
 

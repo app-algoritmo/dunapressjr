@@ -1,11 +1,13 @@
 ---
-title: "China pede ao Reino Unido que pare de abrigar desestabilizadores anti-China e de Hong Kong"
+title: China pede ao Reino Unido que pare de abrigar desestabilizadores anti-China
+  e de Hong Kong
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Embaixada da China no Reino Unido refutou na segunda-feira as declarações de políticos britânicos relacionadas com a Região Administrativa Especial de Hong Kong.
 

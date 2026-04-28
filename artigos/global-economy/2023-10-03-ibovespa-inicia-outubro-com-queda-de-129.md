@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa inicia outubro com queda de 1,29%"
+title: Ibovespa inicia outubro com queda de 1,29%
 date: 2023-10-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar vai a R$ 5,06.
 

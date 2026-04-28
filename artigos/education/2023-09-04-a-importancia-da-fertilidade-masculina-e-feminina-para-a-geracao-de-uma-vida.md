@@ -1,12 +1,13 @@
 ---
-title: "A Importância da Fertilidade Masculina e Feminina para a Geração de uma Vida"
+title: A Importância da Fertilidade Masculina e Feminina para a Geração de uma Vida
 date: 2023-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Science
+- Education
+- Science
 ---
+
 
 A fertilidade é um aspecto fundamental da biologia humana e desempenha um papel crucial na continuidade de nossa espécie. Muitas vezes, quando se fala sobre fertilidade, a atenção é majoritariamente direcionada para a mulher, mas é crucial entender que tanto a fertilidade masculina quanto a feminina são componentes igualmente importantes nesse processo. Neste artigo, discutiremos a relevância de ambos na geração de uma nova vida.
 

@@ -1,11 +1,12 @@
 ---
-title: "O coronavírus pode levar a derrames, mostra um estudo importante"
+title: O coronavírus pode levar a derrames, mostra um estudo importante
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Cerca de 71 centros médicos em 17 países tinham pelo menos um paciente cuja situação clínica atendia aos critérios do estudo, para um total de 432 indivíduos.
 

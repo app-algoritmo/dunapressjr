@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Justiça e Segurança Pública realiza videoconferência com secretários de Administração Penitenciária"
+title: Ministro da Justiça e Segurança Pública realiza videoconferência com secretários
+  de Administração Penitenciária
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, participou nesta quinta-feira (14), de videoconferência com secretários de Administração Penitenciária dos Estados e Distrito Federal.
 

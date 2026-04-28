@@ -1,11 +1,12 @@
 ---
-title: "Redução de tarifas injetará R$ 246 bi no PIB até 2040, diz ministério"
+title: Redução de tarifas injetará R$ 246 bi no PIB até 2040, diz ministério
 date: 2021-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação cairia 0,3% em até 15 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fim do esquerdismo no Brasil inicia em 'Modo Avançado' no Itamaraty"
+title: Fim do esquerdismo no Brasil inicia em 'Modo Avançado' no Itamaraty
 date: 2019-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Após diversos cerimoniais realizados nos primeiros dias do Governo Bolsonaro, sinalizando o resgate moral do país e seus valores mais tradicionais como meio para restaurar a ordem e o progresso da nação. Um fato inédito ocorreu durante o discurso de posse do novo Ministro das Relações Exteriores, ERNESTO ARAÚJO.
 

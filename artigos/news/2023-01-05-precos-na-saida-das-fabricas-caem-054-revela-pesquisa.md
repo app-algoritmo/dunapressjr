@@ -1,11 +1,12 @@
 ---
-title: "Preços na saída das fábricas caem 0,54%, revela pesquisa"
+title: Preços na saída das fábricas caem 0,54%, revela pesquisa
 date: 2023-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda foi sentida em novembro, diz IBGE.
 

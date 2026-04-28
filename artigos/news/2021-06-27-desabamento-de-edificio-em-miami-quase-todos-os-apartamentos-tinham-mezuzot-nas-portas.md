@@ -1,11 +1,13 @@
 ---
-title: "Desabamento de edifício em Miami: 'Quase todos os apartamentos tinham mezuzot nas portas'"
+title: 'Desabamento de edifício em Miami: ''Quase todos os apartamentos tinham mezuzot
+  nas portas'''
 date: 2021-06-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quase três dias se passaram desde que parte das Torres Champlain em Surfside, Miami, caiu no chão em apenas alguns segundos. A ativista da comunidade local, Rabi Yona Lunger, conversou com *Arutz Sheva* , descrevendo os esforços de resgate em andamento.
 

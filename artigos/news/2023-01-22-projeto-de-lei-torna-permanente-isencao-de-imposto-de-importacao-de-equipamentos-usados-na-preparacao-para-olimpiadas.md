@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei torna permanente isenção de Imposto de Importação de equipamentos usados na preparação para olímpiadas"
+title: Projeto de Lei torna permanente isenção de Imposto de Importação de equipamentos
+  usados na preparação para olímpiadas
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2754/22 isenta permanentemente do Imposto de Importação (II) as compras de equipamentos e outros materiais destinados exclusivamente ao treinamento e à preparação de atletas e equipes brasileiras para competições olímpicas, paraolímpicas, pan-americanas, parapan-americanas e mundiais.
 

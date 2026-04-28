@@ -1,11 +1,12 @@
 ---
-title: "Codefat aprova calendário do PIS/Pasep 2023"
+title: Codefat aprova calendário do PIS/Pasep 2023
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pagamentos ocorrerão de 15 de fevereiro a 17 de julho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Tesouro Direto atinge vendas de R$ 3,293 bilhões em dezembro"
+title: Tesouro Direto atinge vendas de R$ 3,293 bilhões em dezembro
 date: 2022-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vendas superaram resgates no mês.
 

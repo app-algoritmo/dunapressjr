@@ -1,11 +1,12 @@
 ---
-title: "Malária: detê-la enquanto ainda não se consegue vencê-la￼"
+title: 'Malária: detê-la enquanto ainda não se consegue vencê-la￼'
 date: 2021-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A malária é uma doença causada por [protozoários](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#) do gênero Plasmodium que são transmitidos a pessoas pela picada de mosquitos (do gênero Anopheles) que transportam esse microrganismo. Existem cinco espécies de parasitas que causam malária em humanos e duas delas (*[P. falciparum e P. vivax](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#)*) apresentam o maior número de casos no Brasil. As pessoas infectadas por tais [patógenos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#) costumam apresentar febres, dor de cabeça, calafrios, indisposição e pode ser fatal se não for tratada corretamente.
 

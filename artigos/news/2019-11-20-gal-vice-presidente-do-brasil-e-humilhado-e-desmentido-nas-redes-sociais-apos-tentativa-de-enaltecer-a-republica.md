@@ -1,11 +1,13 @@
 ---
-title: "Gal vice-presidente do Brasil é humilhado e desmentido nas redes sociais após tentativa de enaltecer a república"
+title: Gal vice-presidente do Brasil é humilhado e desmentido nas redes sociais após
+  tentativa de enaltecer a república
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Comenta: Parabéns brasileiros! Há 130 anos, com a Proclamação da República, entramos em nova etapa de evolução política e social. Muito fez o Império pela independência e unidade do Brasil, mas abalado por graves crises teve que dar lugar a um regime mais consentâneo à realidade nacional.
 

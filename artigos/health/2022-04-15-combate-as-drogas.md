@@ -1,11 +1,12 @@
 ---
-title: "Combate às Drogas"
+title: Combate às Drogas
 date: 2022-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A dependência em drogas lícitas ou ilícitas é uma doença, sendo assim considerada pela Organização Mundial da Saúde (OMS). De acordo com a própria OMS, o consumo de drogas ilícitas acomete cerca de 5% da população mundial, entre 15 e 64 anos de idade.
 

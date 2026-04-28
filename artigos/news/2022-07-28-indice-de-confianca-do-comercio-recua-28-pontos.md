@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança do Comércio recua 2,8 pontos"
+title: Índice de Confiança do Comércio recua 2,8 pontos
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda ocorre depois de duas altas consecutivas.
 

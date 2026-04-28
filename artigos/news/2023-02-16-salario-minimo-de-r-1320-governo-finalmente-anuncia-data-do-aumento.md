@@ -1,11 +1,12 @@
 ---
-title: "Salário mínimo de R$ 1.320: governo finalmente anuncia data do aumento"
+title: 'Salário mínimo de R$ 1.320: governo finalmente anuncia data do aumento'
 date: 2023-02-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Governo finalizou a proposta. Anúncio oficial de que o salário mínimo subirá para R$ 1.320 é aguardado. Faixa de isenção no IR também deve subir.
 

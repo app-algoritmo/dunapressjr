@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: André Rebouças￼￼"
+title: 'Série Brasileiros em Destaque: André Rebouças￼￼'
 date: 2021-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 André Pinto Rebouças nasceu na cidade de Cachoeira – BA, em 13 de janeiro de 1838, filho mais velho de Antônio Pereira Rebouças e Carolina Pinto Rebouças. Possuía sete irmãos.
 

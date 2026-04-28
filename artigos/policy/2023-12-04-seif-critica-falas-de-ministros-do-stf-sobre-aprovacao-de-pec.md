@@ -1,11 +1,12 @@
 ---
-title: "Seif critica falas de ministros do STF sobre aprovação de PEC"
+title: Seif critica falas de ministros do STF sobre aprovação de PEC
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) criticou, em pronunciamento na quarta-feira (29), as declarações públicas de ministros do Supremo Tribunal Federal (STF) sobre a decisão do Senado de aprovar a proposta de emenda à Constituição (PEC) [8/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148030), que limita as decisões monocráticas (individuais) nos tribunais superiores. O parlamentar afirmou que existem processos judiciais que estão com os mesmos ministros desde 2010, e isso precisa mudar.
 

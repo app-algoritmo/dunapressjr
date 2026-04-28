@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal investiga financiamentos habitacionais irregulares"
+title: Polícia Federal investiga financiamentos habitacionais irregulares
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram apreendidos documentos e telefone celular.
 

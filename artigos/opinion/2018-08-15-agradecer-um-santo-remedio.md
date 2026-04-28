@@ -1,12 +1,13 @@
 ---
-title: "Agradecer, um santo remédio!"
+title: Agradecer, um santo remédio!
 date: 2018-08-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Agradecer é uma grande ferramenta. É um santo remédio para qualquer doença, mal, preocupação ou problema.
 

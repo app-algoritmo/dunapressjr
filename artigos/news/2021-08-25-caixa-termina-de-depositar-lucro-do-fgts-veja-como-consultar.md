@@ -1,11 +1,12 @@
 ---
-title: "Caixa termina de depositar lucro do FGTS; veja como consultar"
+title: Caixa termina de depositar lucro do FGTS; veja como consultar
 date: 2021-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 88,6 milhões de trabalhadores receberam crédito.
 

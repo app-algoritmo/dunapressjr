@@ -1,11 +1,13 @@
 ---
-title: "Comissão rejeita medida provisória que desobriga publicação de balanços em jornais"
+title: Comissão rejeita medida provisória que desobriga publicação de balanços em
+  jornais
 date: 2019-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Parlamentares da base do governo apontaram a redução de custos como uma das justificativas para a MP *
 

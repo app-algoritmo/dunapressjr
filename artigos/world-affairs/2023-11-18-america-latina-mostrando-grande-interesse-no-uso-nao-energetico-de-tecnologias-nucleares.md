@@ -1,11 +1,13 @@
 ---
-title: "América Latina mostrando grande interesse no uso não energético de tecnologias nucleares"
+title: América Latina mostrando grande interesse no uso não energético de tecnologias
+  nucleares
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “A Colômbia e as nações da América Central, incluindo a República Dominicana e a Nicarágua, estão demonstrando interesse em usar tecnologias nucleares para fins médicos e para prolongar a vida útil de produtos agrícolas”, observou Ivan Dybov, chefe do centro regional da Rosatom na América Latina.
 

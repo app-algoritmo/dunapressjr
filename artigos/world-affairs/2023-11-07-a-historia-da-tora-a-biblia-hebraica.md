@@ -1,11 +1,12 @@
 ---
-title: "A História da Torá: A Bíblia hebraica"
+title: 'A História da Torá: A Bíblia hebraica'
 date: 2023-11-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Torá, palavra que em hebraico significa "ensinamento", "lei" ou "instrução", é o cerne da fé judaica, um texto sagrado de profundo significado que remonta a milênios. A história da Torá é a história do próprio judaísmo e da relação entre Deus e o povo judeu. Este artigo explora a rica história da Torá, seus cinco livros e sua influência contínua na fé judaica e no mundo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Começa hoje a semana de educação financeira do Banco Central"
+title: Começa hoje a semana de educação financeira do Banco Central
 date: 2020-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 6,3 mil ações estão previstas até o próximo domingo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo realizará a ação 'Leve o Teatro até a Juventude' para comemorar o Dia Mundial do Teatro"
+title: Governo realizará a ação 'Leve o Teatro até a Juventude' para comemorar o Dia
+  Mundial do Teatro
 date: 2020-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) realizará a ação “Leve o Teatro até a Juventude!”. A iniciativa é da Secretaria Nacional da Juventude (SNJ), em conjunto com os estados e municípios brasileiros, para comemorar o Dia Mundial do Teatro para a Infância e Juventude.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em alta, impulsionado por Petrobras e Ultrapar, apesar da queda da Vale"
+title: Ibovespa fecha em alta, impulsionado por Petrobras e Ultrapar, apesar da queda
+  da Vale
 date: 2023-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar oscila entre ganhos e perdas diante das preocupações globais com ativos de alto risco.
 

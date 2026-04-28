@@ -1,11 +1,12 @@
 ---
-title: "Israelenses e palestinos trabalham unidos contra o coronavírus"
+title: Israelenses e palestinos trabalham unidos contra o coronavírus
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Israelenses e palestinos compartilham uma trincheira em sua luta contra um inimigo comum - a disseminação do coronavírus . Além de algumas exceções feias, cada sociedade entende que esse inimigo mortal e silencioso deve ser confrontado em conjunto, sem política ou propaganda.
 

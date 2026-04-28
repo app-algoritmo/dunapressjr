@@ -1,11 +1,12 @@
 ---
-title: "Documento de arrecadação do Simples Nacional já pode ser pago via Pix"
+title: Documento de arrecadação do Simples Nacional já pode ser pago via Pix
 date: 2021-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa tornar a regularização de pendências mais rápida e acessível.
 

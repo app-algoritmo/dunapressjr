@@ -1,11 +1,12 @@
 ---
-title: "Rede Ebserh estuda novos tratamentos e formas de diagnóstico para a Covid-19"
+title: Rede Ebserh estuda novos tratamentos e formas de diagnóstico para a Covid-19
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Análise de imagens e uso de plasma sanguíneo estão entre as iniciativas de hospitais universitários federais.
 

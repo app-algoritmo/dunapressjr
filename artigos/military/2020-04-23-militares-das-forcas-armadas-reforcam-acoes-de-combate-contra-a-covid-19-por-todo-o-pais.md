@@ -1,11 +1,13 @@
 ---
-title: "Militares das Forças Armadas reforçam ações de combate contra a COVID-19 por todo o país"
+title: Militares das Forças Armadas reforçam ações de combate contra a COVID-19 por
+  todo o país
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas empregam, diariamente, esforços no combate à Covid-19. Marinha do Brasil (MB), Exército Brasileiro (EB) e Força Aérea Brasileira (FAB) estão unidos nessa missão. Ao todo, 10 Comandos Conjuntos, espalhados pelo Brasil, estão atuando prontamente. Até o momento, o efetivo envolvido é de 29 mil militares, utilizando-se de 816 viaturas, 102 embarcações e 26 aeronaves.
 

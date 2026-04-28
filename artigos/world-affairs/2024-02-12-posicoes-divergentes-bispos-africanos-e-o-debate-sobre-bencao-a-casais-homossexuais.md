@@ -1,11 +1,12 @@
 ---
-title: "Posições Divergentes: Bispos Africanos e o Debate sobre Benção a Casais homossexuais"
+title: 'Posições Divergentes: Bispos Africanos e o Debate sobre Benção a Casais homossexuais'
 date: 2024-02-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente postura da Igreja Católica em relação à bênção de casais considerados "irregulares", incluindo os do mesmo sexo, desencadeou uma série de reações entre os bispos africanos. Enquanto em alguns países, como Moçambique, Angola e São Tomé e Príncipe, os líderes religiosos manifestaram perplexidade e se posicionaram contra tais bênçãos, em outros, como Cabo Verde, a abordagem baseia-se no princípio da misericórdia, em consonância com o Papa Francisco.
 

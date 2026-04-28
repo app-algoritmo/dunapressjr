@@ -1,11 +1,12 @@
 ---
-title: "PF investiga fraude em compras da PRF em Mato Grosso do Sul"
+title: PF investiga fraude em compras da PRF em Mato Grosso do Sul
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Campo Grande/MS – A Polícia Federal deflagrou hoje (4/6) a Operação TNT, com o objetivo de investigar pregão eletrônico promovido pela Polícia Rodoviária Federal (PRF), para aquisição de máscaras cirúrgicas, no Mato Grosso do Sul.
 

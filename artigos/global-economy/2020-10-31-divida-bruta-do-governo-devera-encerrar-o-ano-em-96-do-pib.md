@@ -1,11 +1,12 @@
 ---
-title: "Dívida bruta do governo deverá encerrar o ano em 96% do PIB"
+title: Dívida bruta do governo deverá encerrar o ano em 96% do PIB
 date: 2020-10-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Endividamento cresceu 20,2 pontos por causa de pandemia.
 

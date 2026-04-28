@@ -1,11 +1,12 @@
 ---
-title: "Celebração do Dia do Veterano reúne gerações de militares estaduais em Curitiba"
+title: Celebração do Dia do Veterano reúne gerações de militares estaduais em Curitiba
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Evento aconteceu nesta quarta-feira (11) no Quartel do Comando Geral da Polícia Militar, em Curitiba. Celebrado em 1º de outubro, o Dia do Veterano é uma data comemorativa aos militares da reserva e reformados, em respeito às suas trajetórias na PMPR.
 

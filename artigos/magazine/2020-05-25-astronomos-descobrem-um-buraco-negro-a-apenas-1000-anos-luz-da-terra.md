@@ -1,11 +1,12 @@
 ---
-title: "Astrônomos descobrem um buraco negro a apenas 1.000 anos-luz da Terra"
+title: Astrônomos descobrem um buraco negro a apenas 1.000 anos-luz da Terra
 date: 2020-05-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O buraco negro está mais próximo do nosso sistema solar do que qualquer outro encontrado até hoje e faz parte de um sistema triplo que pode ser visto a olho nu.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comissão da ALPB aprova projeto que proíbe reajuste de planos de saúde e tarifas de serviços públicos"
+title: Comissão da ALPB aprova projeto que proíbe reajuste de planos de saúde e tarifas
+  de serviços públicos
 date: 2020-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Projeto é de autoria do Cabo Gilberto.
 

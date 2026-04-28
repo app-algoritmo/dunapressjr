@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei C-63 no Canadá: Proteção infantil ou ameaça à liberdade de expressão?"
+title: 'Projeto de Lei C-63 no Canadá: Proteção infantil ou ameaça à liberdade de
+  expressão?'
 date: 2024-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um projeto de lei controverso no Canadá está gerando debate sobre os limites entre a proteção infantil e a liberdade de expressão. O Projeto de Lei C-63, também conhecido como Lei de Danos Online, propõe medidas para combater o abuso sexual infantil, o cyberbullying e a automutilação, mas críticos alertam que pode representar um ataque à liberdade de expressão.
 

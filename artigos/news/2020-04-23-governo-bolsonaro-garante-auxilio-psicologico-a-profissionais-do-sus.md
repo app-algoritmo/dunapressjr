@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro garante auxilio psicológico a profissionais do SUS"
+title: Governo Bolsonaro garante auxilio psicológico a profissionais do SUS
 date: 2020-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O atendimento será feito por teleconsulta, entre maio e setembro, e destinado a médicos, enfermeiros, técnicos de enfermagem, entre outros. Ao todo, serão investidos R$ 2,3 milhões.
 

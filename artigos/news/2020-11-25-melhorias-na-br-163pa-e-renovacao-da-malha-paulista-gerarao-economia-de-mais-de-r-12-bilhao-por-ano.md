@@ -1,11 +1,13 @@
 ---
-title: "Melhorias na BR-163/PA e renovação da Malha Paulista gerarão economia de mais de R$ 1,2 bilhão por ano"
+title: Melhorias na BR-163/PA e renovação da Malha Paulista gerarão economia de mais
+  de R$ 1,2 bilhão por ano
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As obras de pavimentação da BR-163/PA e a renovação do contrato de concessão da ferrovia Malha Paulista neste ano apontam queda no custo Brasil, de acordo com estudos publicados pela Empresa de Planejamento e Logística (EPL) no Boletim de Logística. De acordo com o levantamento, tanto a pavimentação da BR-163/PA quanto as melhorias que serão promovidas com a renovação da Malha Paulista aumentarão a eficiência do escoamento da produção agrícola para os portos do Arco Norte e para o Porto de Santos, gerando economia de mais de R 1,2 bilhão, por ano, com a redução de fretes.
 

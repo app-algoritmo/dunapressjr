@@ -1,11 +1,12 @@
 ---
-title: "FGV: IGP-DI acumula alta de 23,08% em 2020"
+title: 'FGV: IGP-DI acumula alta de 23,08% em 2020'
 date: 2021-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a maior alta no índice desde 2002.
 

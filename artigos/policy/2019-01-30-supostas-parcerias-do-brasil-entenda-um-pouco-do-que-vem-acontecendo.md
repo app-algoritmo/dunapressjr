@@ -1,11 +1,12 @@
 ---
-title: "Supostas parcerias do Brasil - Entenda um pouco do que vem acontecendo"
+title: Supostas parcerias do Brasil - Entenda um pouco do que vem acontecendo
 date: 2019-01-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Policy
+- Policy
 ---
+
 
 Queremos lhe trazer uma reflexão sobre as parcerias brasileiras e fatos criados por alguns de nossos representantes, que devem ser acompanhados e analisados pela história e intenção de cada nação para com nossa soberania.
 

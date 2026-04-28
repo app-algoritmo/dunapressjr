@@ -1,11 +1,13 @@
 ---
-title: "Conheça as ações e melhorias feitas nos 500 dias de Governo Bolsonaro na gestão de resíduos sólidos no Brasil"
+title: Conheça as ações e melhorias feitas nos 500 dias de Governo Bolsonaro na gestão
+  de resíduos sólidos no Brasil
 date: 2020-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### O Programa Lixão Zero, lançado em 2019 pelo Ministério do Meio Ambiente, completou 1 ano em 30 de abril. 
 

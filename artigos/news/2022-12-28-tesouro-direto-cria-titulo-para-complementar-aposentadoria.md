@@ -1,11 +1,12 @@
 ---
-title: "Tesouro Direto cria título para complementar aposentadoria"
+title: Tesouro Direto cria título para complementar aposentadoria
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## RendA+, Aposentadoria Extra foi criado em parceria com a B3.
 

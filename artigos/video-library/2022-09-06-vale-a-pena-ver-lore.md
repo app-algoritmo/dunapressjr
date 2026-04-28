@@ -1,11 +1,12 @@
 ---
-title: "Vale a Pena Ver Lore?"
+title: Vale a Pena Ver Lore?
 date: 2022-09-06
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Descubra no Amazon Prime
 

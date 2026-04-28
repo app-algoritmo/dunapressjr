@@ -1,11 +1,12 @@
 ---
-title: "Especialistas da área de aeródromos se reúnem por videoconferência"
+title: Especialistas da área de aeródromos se reúnem por videoconferência
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Especialistas da área de aeródromos (EAGA) participaram da quarta edição de um Grupo de Trabalho, entre os dias 4 e 8 de maio, no Rio de Janeiro (RJ). O encontro virtual teve como objetivo desenvolver soluções relacionadas ao tema Objetos Projetados no Espaço Aéreo (OPEA), que não estão contempladas nas normas regulatórias do setor. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Escolas terão recursos para conectividade na volta às aulas"
+title: Escolas terão recursos para conectividade na volta às aulas
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Até o fim de outubro, cerca de 49 mil escolas da educação básica devem receber o total de R$ 145 milhões de reais para implantar, melhorar ou ampliar o serviço de conectividade nas unidades de ensino, beneficiando 14 milhões de alunos de todos os estados brasileiros, em mais de 4.600 municípios, por meio do **Programa de Inovação Educação Conectada**. 
 

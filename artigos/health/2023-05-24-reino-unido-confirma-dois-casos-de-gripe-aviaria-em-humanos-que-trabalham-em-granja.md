@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido confirma dois casos de gripe aviária em humanos que trabalham em granja"
+title: Reino Unido confirma dois casos de gripe aviária em humanos que trabalham em
+  granja
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## De acordo com a *Agência de Segurança de Saúde do Reino Unido* (UKHSA),  [a gripe aviária foi detectada](https://www.shtfplan.com/headline-news/uk-confrims-bird-flu-has-been-detected-in-2-humans) em dois trabalhadores de uma granja. Nenhum dos trabalhadores apresentou sintomas de infecção e ambos os casos foram descobertos durante a triagem.
 

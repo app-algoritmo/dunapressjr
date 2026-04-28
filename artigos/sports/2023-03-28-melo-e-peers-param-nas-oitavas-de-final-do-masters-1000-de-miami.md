@@ -1,11 +1,12 @@
 ---
-title: "Melo e Peers param nas oitavas de final do Masters 1000 de Miami"
+title: Melo e Peers param nas oitavas de final do Masters 1000 de Miami
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Em um jogo muito equilibrado, o mineiro Marcelo Melo e o australiano John Peers pararam nas oitavas de final do Masters 1000 de Miami, disputado nas quadras rápidas do Hard Rock Stadium, em Miami, na Flórida (EUA). Nesta segunda-feira (27), os argentinos Maximo Gonzalez e Andres Molteni marcaram 2 sets a 1, com parciais de 6/4, 6/7 (5-7) e 10-6, após 1h52min. 
 

@@ -1,11 +1,12 @@
 ---
-title: "PF combate pesca predatória no litoral do Piauí"
+title: PF combate pesca predatória no litoral do Piauí
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parnaíba /PI – A Polícia Federal deflagrou nesta sexta-feira (22/5) a Operação “Bycatch”, com objetivo de reprimir a pesca predatória no litoral Piauiense. A ação conta com 20 policiais federais, com apoio de 3 agentes do Núcleo de Fiscalizações da Divisão Técnico-Ambiental do IBAMA (DITEC/IBAMA-PI).
 

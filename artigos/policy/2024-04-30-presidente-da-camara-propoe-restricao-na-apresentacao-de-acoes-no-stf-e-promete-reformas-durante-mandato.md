@@ -1,11 +1,13 @@
 ---
-title: "Presidente da Câmara Propõe Restrição na Apresentação de Ações no STF e Promete Reformas durante Mandato"
+title: Presidente da Câmara Propõe Restrição na Apresentação de Ações no STF e Promete
+  Reformas durante Mandato
 date: 2024-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente da Câmara dos Deputados, Arthur Lira (PP-AL), anunciou sua intenção de restringir quem pode propor ações diretas de inconstitucionalidade (ADI) no Supremo Tribunal Federal (STF), incluindo contra decisões do próprio parlamento. As declarações foram feitas durante a abertura da 89ª ExpoZebu em Uberaba (MG), onde ele discursou no último sábado (27), organizada pela Associação Brasileira dos Criadores de Zebu (ABCZ).
 

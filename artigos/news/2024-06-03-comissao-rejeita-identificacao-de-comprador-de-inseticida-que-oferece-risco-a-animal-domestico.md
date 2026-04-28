@@ -1,12 +1,14 @@
 ---
-title: "Comissão rejeita identificação de comprador de inseticida que oferece risco a animal doméstico"
+title: Comissão rejeita identificação de comprador de inseticida que oferece risco
+  a animal doméstico
 date: 2024-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Câmara dos Deputados rejeitou projeto de lei que determina que a venda de inseticidas e raticidas que possam provocar a morte de cães e gatos domésticos seja condicionada à identificação dos compradores, por meio de documento pessoal e comprovante do endereço residencial.
 

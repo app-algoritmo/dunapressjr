@@ -1,11 +1,12 @@
 ---
-title: "Pontes apresenta balanço de atuação no Senado em 2023"
+title: Pontes apresenta balanço de atuação no Senado em 2023
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um pronunciamento no Plenário nesta quarta-feira (13), o senador Astronauta Marcos Pontes (PL-SP) fez uma retrospectiva de suas atividades legislativas ao longo do ano de 2023. Pontes, que foi ministro da Ciência e Tecnologia, destacou que “trouxe para o legislativo a expertise do Executivo” com o compromisso de impactar positivamente o ambiente de negócios no Brasil. Segundo ele, iniciativas centradas na educação, ciência, tecnologia e inovação.
 

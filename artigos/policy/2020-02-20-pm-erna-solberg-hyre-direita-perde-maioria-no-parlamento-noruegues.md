@@ -1,11 +1,12 @@
 ---
-title: "PM Erna Solberg (Høyre) 'direita', perde maioria no parlamento norueguês"
+title: PM Erna Solberg (Høyre) 'direita', perde maioria no parlamento norueguês
 date: 2020-02-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O atual governo liderado pela PM [Erna Solberg](https://no.wikipedia.org/wiki/Erna_Solberg) do partido de direita conservador "[Høyre](https://no.wikipedia.org/wiki/H%C3%B8yre)"  perdeu a maioria parlamentar após o partido liberal critão "[Fremskrittspartiet (Frp)](https://no.wikipedia.org/wiki/Fremskrittspartiet)" liderado por [Siv Jensen](https://no.wikipedia.org/wiki/Siv_Jensen), romper a coalisão com o governo de Erna Solberg e retirar literalmente todos os seus ministros do gabinete do executivo.
 

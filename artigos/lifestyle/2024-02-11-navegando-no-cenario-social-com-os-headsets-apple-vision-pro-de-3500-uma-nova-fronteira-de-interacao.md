@@ -1,11 +1,13 @@
 ---
-title: "Navegando no Cenário Social com os Headsets Apple Vision Pro de $3,500: Uma Nova Fronteira de Interação"
+title: 'Navegando no Cenário Social com os Headsets Apple Vision Pro de $3,500: Uma
+  Nova Fronteira de Interação'
 date: 2024-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 A chegada do headset Vision Pro da Apple marca um marco significativo no repertório da gigante da tecnologia, apresentando aos usuários um mundo onde as fronteiras entre realidade e realidade aumentada se confundem. Com preço de $3,500, este dispositivo de ponta não é apenas uma maravilha da inovação, mas também um catalisador para reformular as normas sociais e a etiqueta.
 

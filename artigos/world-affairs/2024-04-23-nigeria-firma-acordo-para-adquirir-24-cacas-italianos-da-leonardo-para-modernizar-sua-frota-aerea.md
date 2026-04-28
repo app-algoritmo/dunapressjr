@@ -1,11 +1,13 @@
 ---
-title: "Nigéria firma acordo para adquirir 24 caças italianos da Leonardo para modernizar sua frota aérea"
+title: Nigéria firma acordo para adquirir 24 caças italianos da Leonardo para modernizar
+  sua frota aérea
 date: 2024-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Nigéria deu um passo significativo para reforçar sua capacidade de defesa aérea ao firmar um acordo para adquirir 24 caças da empresa italiana Leonardo. Segundo o vice-marechal da Força Aérea nigeriana, Edward Gabkwet, as aeronaves serão recebidas em quatro lotes, cada um composto por seis jatos. Os primeiros seis caças M-346 devem chegar ao país antes do final do ano, marcando o início de uma nova era na modernização da frota aérea nigeriana.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável com alta de 0,09%"
+title: Dólar fecha estável com alta de 0,09%
 date: 2022-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa de valores fechou em queda de 0,29%.
 

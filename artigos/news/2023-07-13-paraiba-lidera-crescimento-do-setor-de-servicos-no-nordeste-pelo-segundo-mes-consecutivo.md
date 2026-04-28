@@ -1,11 +1,13 @@
 ---
-title: "Paraíba lidera crescimento do setor de serviços no Nordeste pelo segundo mês consecutivo"
+title: Paraíba lidera crescimento do setor de serviços no Nordeste pelo segundo mês
+  consecutivo
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estado registra expansão de 13,6% em maio, superando média nacional e impulsionado pelo setor de transportes e atividades turísticas.
 

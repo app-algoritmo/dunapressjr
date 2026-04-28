@@ -1,11 +1,12 @@
 ---
-title: "Girão questiona decisões do STF e o estado da democracia no Brasil"
+title: Girão questiona decisões do STF e o estado da democracia no Brasil
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta segunda-feira (30), o senador Eduardo Girão (Novo-CE) questionou o atual estado da democracia no Brasil, abordando preocupações sobre o funcionamento das instituições no país. Ele voltou a criticar a atuação do Supremo Tribunal Federal (STF), citando decisões da Corte que, segundo ele, caracterizam uma "usurpação de competências" sobre questões que são prerrogativas do Congresso Nacional. O parlamentar também destacou que a população está mais consciente sobre os conflitos que envolvem os Poderes.
 

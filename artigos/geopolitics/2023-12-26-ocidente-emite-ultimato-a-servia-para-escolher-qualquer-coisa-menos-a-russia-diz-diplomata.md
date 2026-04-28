@@ -1,11 +1,13 @@
 ---
-title: "Ocidente emite ultimato à Sérvia para escolher ‘qualquer coisa menos a Rússia’, diz diplomata"
+title: Ocidente emite ultimato à Sérvia para escolher ‘qualquer coisa menos a Rússia’,
+  diz diplomata
 date: 2023-12-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## De acordo com Maria Zakharova, anteriormente, a Ucrânia foi inserida no mesmo modelo “nós ou eles” e todos os avisos foram ignorados.
 

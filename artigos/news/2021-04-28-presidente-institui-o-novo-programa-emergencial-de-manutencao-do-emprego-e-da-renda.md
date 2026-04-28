@@ -1,11 +1,13 @@
 ---
-title: "Presidente institui o novo Programa Emergencial de Manutenção do Emprego e da Renda"
+title: Presidente institui o novo Programa Emergencial de Manutenção do Emprego e
+  da Renda
 date: 2021-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para garantir recursos, o chefe do Executivo federal também editou MP que abre crédito extraordinário no valor de R$ 9,98 bilhões.
 

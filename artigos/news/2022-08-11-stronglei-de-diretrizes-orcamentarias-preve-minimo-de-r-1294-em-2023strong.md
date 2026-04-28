@@ -1,11 +1,12 @@
 ---
-title: "<strong>Lei de Diretrizes Orçamentárias prevê mínimo de R$ 1.294 em 2023</strong>"
+title: <strong>Lei de Diretrizes Orçamentárias prevê mínimo de R$ 1.294 em 2023</strong>
 date: 2022-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa do crescimento real do PIB é de 2,5%.
 

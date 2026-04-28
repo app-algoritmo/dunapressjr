@@ -1,11 +1,12 @@
 ---
-title: "<strong>Varejo paulista espera aumento de R$ 800 milhões nas vendas em outubro</strong>"
+title: <strong>Varejo paulista espera aumento de R$ 800 milhões nas vendas em outubro</strong>
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Previsão leva em conta o Dia da Criança.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado  garante vacinação contra o coronavírus para população catarinense em reunião com a Fecam"
+title: Governo do Estado  garante vacinação contra o coronavírus para população catarinense
+  em reunião com a Fecam
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governador Carlos Moisés assegurou nesta sexta-feira, 11, que Santa Catarina terá vacinação contra a Covid-19 para a população. O chefe do Executivo estadual confirmou a informação a prefeitos e deputados durante reunião online com a Federação Catarinense dos Municípios (Fecam) no fim da tarde, após conversa com o ministro da Saúde, Eduardo Pazuello. Durante a videoconferência, Carlos Moisés informou que o governo federal trabalha para anunciar o Plano Nacional de Imunização na próxima semana, com distribuição das doses entre o fim de janeiro e fevereiro de 2021.
 

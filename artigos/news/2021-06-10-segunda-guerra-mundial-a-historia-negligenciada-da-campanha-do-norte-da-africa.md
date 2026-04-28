@@ -1,11 +1,12 @@
 ---
-title: "Segunda Guerra Mundial: A história negligenciada da campanha do Norte da África"
+title: 'Segunda Guerra Mundial: A história negligenciada da campanha do Norte da África'
 date: 2021-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O livro do autor israelense-americano Gershom Gorenberg examina a guerra de inteligência e descriptografia que impediu os nazistas de chegar à Terra Santa.
 

@@ -1,11 +1,13 @@
 ---
-title: "Falta de recursos dificulta acesso a diagnóstico de câncer de mama no SUS, reclamam especialistas"
+title: Falta de recursos dificulta acesso a diagnóstico de câncer de mama no SUS,
+  reclamam especialistas
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Campanha Outubro Rosa chama atenção para a importância de realizar exames preventivos Compartilhe Versão para impressão.[](#comentario)
 

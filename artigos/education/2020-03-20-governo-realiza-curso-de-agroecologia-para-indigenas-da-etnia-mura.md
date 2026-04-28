@@ -1,11 +1,12 @@
 ---
-title: "Governo realiza curso de Agroecologia para Indígenas da etnia Mura"
+title: Governo realiza curso de Agroecologia para Indígenas da etnia Mura
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Às margens do lago Iguapenu e sentados embaixo de uma castanheira, indígenas da etnia Mura acompanham o conteúdo da aula do biólogo e professor Valdely Kinupp, especialista em Plantas Alimentícias Não Convencionais (Pancs). O cenário faz parte da disciplina Introdução à Agroecologia do primeiro módulo do curso técnico em Agroecologia, ofertado pelo Instituto Federal do Amazonas (Ifam), na aldeia Moyray, no município de Autazes, a 112 quilômetros de Manaus (AM).
 

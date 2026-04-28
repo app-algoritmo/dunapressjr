@@ -1,11 +1,12 @@
 ---
-title: "Episodio 4 – Noite de Desgosto"
+title: Episodio 4 – Noite de Desgosto
 date: 2022-12-04
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Então? Já estão assistindo a série? Ou já finalizaram? – Como vocês sabem eu estou revendo e resenhando. Hoje vou ser mais dinâmica, vamos para o episódio 4.
 

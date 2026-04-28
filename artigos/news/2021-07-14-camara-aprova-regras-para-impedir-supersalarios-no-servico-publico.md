@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova regras para impedir supersalários no serviço público"
+title: Câmara aprova regras para impedir supersalários no serviço público
 date: 2021-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto retorna ao Senado.
 

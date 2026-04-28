@@ -1,11 +1,13 @@
 ---
-title: "Porta-voz do Kremlin diz que o próximo presidente da Rússia deveria ser “igual” a Putin"
+title: Porta-voz do Kremlin diz que o próximo presidente da Rússia deveria ser “igual”
+  a Putin
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Vladimir Putin é elegível para concorrer a mais um mandato, mas ainda não se pronunciou sobre sua decisão sobre o assunto.
 

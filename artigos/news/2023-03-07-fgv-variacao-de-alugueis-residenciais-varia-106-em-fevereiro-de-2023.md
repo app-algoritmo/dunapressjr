@@ -1,11 +1,12 @@
 ---
-title: "FGV: Variação de Aluguéis Residenciais varia 1,06% em fevereiro de 2023"
+title: 'FGV: Variação de Aluguéis Residenciais varia 1,06% em fevereiro de 2023'
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com o resultado, a taxa acumulada em 12 meses passou de 10,74% em janeiro de 2023 para 8,73% em fevereiro de 2023.
 

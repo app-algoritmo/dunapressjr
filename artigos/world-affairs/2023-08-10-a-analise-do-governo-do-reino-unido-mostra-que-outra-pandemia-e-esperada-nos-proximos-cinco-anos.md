@@ -1,11 +1,13 @@
 ---
-title: "A análise do governo do Reino Unido mostra que outra pandemia é esperada nos próximos cinco anos"
+title: A análise do governo do Reino Unido mostra que outra pandemia é esperada nos
+  próximos cinco anos
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Avaliação de Risco de Segurança Nacional parece uma lista de verificação do Juízo Final. Ele lista quase 90 grandes ameaças ao Reino Unido, incluindo IA, ataques de drones e a possibilidade de uma futura pandemia pior que a Covid. [inews](https://inews.co.uk/news/chance-pandemic-next-five-years-new-risk-register-2522996) tem a história.
 

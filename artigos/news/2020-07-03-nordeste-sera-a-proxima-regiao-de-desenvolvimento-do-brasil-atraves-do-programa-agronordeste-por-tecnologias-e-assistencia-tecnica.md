@@ -1,11 +1,13 @@
 ---
-title: "Nordeste será a próxima região de desenvolvimento do Brasil, através do programa Agronordeste, por tecnologias e assistência técnica"
+title: Nordeste será a próxima região de desenvolvimento do Brasil, através do programa
+  Agronordeste, por tecnologias e assistência técnica
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Para Tereza Cristina, programa Agronordeste será fundamental para massificar a assistência técnica na região.
 

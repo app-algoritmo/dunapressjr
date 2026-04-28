@@ -1,11 +1,13 @@
 ---
-title: "Tribunal de Justiça suspende pagamento do vale alimentação para servidores inativos e pensionistas de Itajaí"
+title: Tribunal de Justiça suspende pagamento do vale alimentação para servidores
+  inativos e pensionistas de Itajaí
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Decisão judicial impede que o benefício seja concedido.
 

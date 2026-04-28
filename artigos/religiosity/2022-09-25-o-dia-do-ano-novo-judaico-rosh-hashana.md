@@ -1,11 +1,12 @@
 ---
-title: "O Dia do Ano Novo judaico, Rosh Hashaná"
+title: O Dia do Ano Novo judaico, Rosh Hashaná
 date: 2022-09-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Rosh Hashaná é o aniversário do universo, o dia em que D'us criou Adão e Eva, e é celebrado como o mais importante do ano judaico.
 Rosh Hashaná 2022. A partir do início da noite:

@@ -1,11 +1,12 @@
 ---
-title: "Produtos atingidos pelo ciclone no Sul do país estão tendo atenção do Mapa"
+title: Produtos atingidos pelo ciclone no Sul do país estão tendo atenção do Mapa
 date: 2020-07-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Representantes do Mapa estiveram na região para fazer um levantamento das perdas sofridas na produção agrícola, especialmente na cultura de banana.
 

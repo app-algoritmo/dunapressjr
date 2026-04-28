@@ -1,11 +1,12 @@
 ---
-title: "As almas gêmeas existem?"
+title: As almas gêmeas existem?
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Literature
+- Literature
 ---
+
 
 De acordo com os estudos da Kabbalah, sim. Antes de virem para este planeta, os aspectos femininos e masculinos da alma eram unidos. Quando vieram para este mundo, e não vieram necessariamente ao mesmo tempo, o masculino e o feminino se separaram, criando assim o conceito de almas gêmeas, que são almas que se complementam totalmente.
 

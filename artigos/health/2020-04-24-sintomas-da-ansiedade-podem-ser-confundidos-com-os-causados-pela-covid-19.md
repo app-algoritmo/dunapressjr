@@ -1,11 +1,12 @@
 ---
-title: "Sintomas da ansiedade podem ser confundidos com os causados pela Covid-19"
+title: Sintomas da ansiedade podem ser confundidos com os causados pela Covid-19
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Sensações de medo, angústia e insônia são alguns sintomas causados pela ansiedade e que podem surgir durante o isolamento social. Para lidar com esse quadro, a psicóloga organizacional Lizziane Santos, do Hospital das Clínicas do Recife (HC-UFPE/Ebserh), vinculado à Empresa Brasileira de Serviços Hospitalares (Ebserh), apresenta estratégias para ajudar a manter o equilíbrio em tempos de Covid-19.
 

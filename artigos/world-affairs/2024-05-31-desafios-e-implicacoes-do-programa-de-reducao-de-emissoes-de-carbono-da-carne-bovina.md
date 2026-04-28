@@ -1,11 +1,13 @@
 ---
-title: "Desafios e Implicações do Programa de Redução de Emissões de Carbono da Carne Bovina"
+title: Desafios e Implicações do Programa de Redução de Emissões de Carbono da Carne
+  Bovina
 date: 2024-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na Irlanda do Norte, o governo lançou um programa inovador, mas controverso, destinado a reduzir as emissões de carbono provenientes da pecuária. O Programa de Redução de Carbono da Carne Bovina incentiva os agricultores a abater o gado em uma idade mais jovem. Em troca, os agricultores receberão £75 por cada animal elegível abatido. Esta iniciativa visa apoiar os objetivos climáticos estabelecidos na Lei das Alterações Climáticas, mas levanta várias questões sobre suas implicações econômicas e ambientais.
 

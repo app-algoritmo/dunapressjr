@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa encerra em queda pelo segundo dia seguido, com destaque para Vale e Petrobras"
+title: Ibovespa encerra em queda pelo segundo dia seguido, com destaque para Vale
+  e Petrobras
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Queda nas ações das mineradoras e cautela com o petróleo afetam principal índice da bolsa brasileira, enquanto IGP-M e IPP registram deflação.
 

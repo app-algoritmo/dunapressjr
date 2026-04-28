@@ -1,11 +1,12 @@
 ---
-title: "Putin extermina cientista “louco” que infectou vacinas contra a Covid-19"
+title: Putin extermina cientista “louco” que infectou vacinas contra a Covid-19
 date: 2023-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Reportagem publicada originalmente pelo site Real Raw News.
 

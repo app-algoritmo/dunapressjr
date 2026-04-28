@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 varia 0,18% em setembro, segundo a FGV/IBRE"
+title: IGP-10 varia 0,18% em setembro, segundo a FGV/IBRE
 date: 2023-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice Geral de Preços sobe após queda em agosto; combustíveis impulsionam a alta.
 

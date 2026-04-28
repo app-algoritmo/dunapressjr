@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro: falta orçamento para repor perdas de estados e municípios"
+title: 'Bolsonaro: falta orçamento para repor perdas de estados e municípios'
 date: 2020-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Presidente fez live direto da rampa do Palácio do Planalto
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Chá verde na prevenção de danos causados por AVC"
+title: 'Pesquisa: Chá verde na prevenção de danos causados por AVC'
 date: 2021-11-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os acidentes vasculares cerebrais (AVCs) são caracterizados por uma alteração no fornecimento de sangue para o cérebro, podendo ser causados por isquemia ou hemorragia cerebral. A isquemia é a supressão do fornecimento de sangue para os tecidos cerebrais, causando uma queda no nível de glicose (açúcar) e oxigênio que provocam danos funcionais e estruturais. Já a hemorragia é devida à ruptura de vasos sanguíneos e extravasamento de sangue, o que desencadeia diversas respostas, tais como inflamação e morte celular, que danificam o órgão.
 

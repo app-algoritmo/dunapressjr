@@ -1,11 +1,12 @@
 ---
-title: "Queda da natalidade e vacinação: possíveis conexões"
+title: 'Queda da natalidade e vacinação: possíveis conexões'
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Atualmente, a pirâmide populacional está mudando tão radicalmente quanto na Segunda Guerra Mundial: por um lado, há um excesso persistente de mortalidade e, por outro lado, há uma queda drástica nos nascimentos. 
 

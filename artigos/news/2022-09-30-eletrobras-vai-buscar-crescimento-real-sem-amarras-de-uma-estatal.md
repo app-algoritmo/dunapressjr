@@ -1,11 +1,12 @@
 ---
-title: "Eletrobras vai buscar crescimento real 'sem amarras de uma estatal'"
+title: Eletrobras vai buscar crescimento real 'sem amarras de uma estatal'
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Declaração é do novo presidente da empresa Wilson Ferreira Junior.
 

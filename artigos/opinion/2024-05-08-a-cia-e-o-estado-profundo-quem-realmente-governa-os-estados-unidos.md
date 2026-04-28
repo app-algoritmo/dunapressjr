@@ -1,11 +1,12 @@
 ---
-title: "A CIA e o Estado Profundo: Quem Realmente Governa os Estados Unidos?"
+title: 'A CIA e o Estado Profundo: Quem Realmente Governa os Estados Unidos?'
 date: 2024-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Nos últimos anos, cresceu a suspeita de que a CIA exerce um domínio oculto sobre os Estados Unidos, influenciando até mesmo a mídia. Essa preocupação levanta questões sobre a verdadeira governança do país e os limites do poder da inteligência sobre as instituições democráticas.
 

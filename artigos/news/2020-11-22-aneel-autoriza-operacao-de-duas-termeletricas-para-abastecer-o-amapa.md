@@ -1,11 +1,12 @@
 ---
-title: "Aneel autoriza operação de duas termelétricas para abastecer o Amapá"
+title: Aneel autoriza operação de duas termelétricas para abastecer o Amapá
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Duas usinas termelétricas contribuirão para o reestabelecimento da energia no Amapá, a partir deste sábado (21). A liberação para a operação comercial das usinas Santana II e Santa Rita está prevista em medida publicada pela Agência Nacional de Energia Elétrica (Aneel) no [Diário Oficial da União](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/11/2020&jornal=515&pagina=164&totalArquivos=249) desta sexta-feira (20).
 

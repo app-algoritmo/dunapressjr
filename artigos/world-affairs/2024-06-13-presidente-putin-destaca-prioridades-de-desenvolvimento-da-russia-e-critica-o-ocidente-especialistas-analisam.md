@@ -1,11 +1,13 @@
 ---
-title: "Presidente Putin Destaca Prioridades de Desenvolvimento da Rússia e Critica o Ocidente: Especialistas Analisam"
+title: 'Presidente Putin Destaca Prioridades de Desenvolvimento da Rússia e Critica
+  o Ocidente: Especialistas Analisam'
 date: 2024-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No seu discurso no Fórum Económico Internacional em São Petersburgo, o Presidente Putin delineou as prioridades de desenvolvimento da Rússia até 2030 e criticou o papel de auto-sabotagem desempenhado pelo Ocidente. Especialistas em todo o mundo compartilham suas análises sobre as principais conclusões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Economia: O suicídio econômico - 01"
+title: 'Economia: O suicídio econômico - 01'
 date: 2018-08-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 As frases ditas pelo Mestre Jesus Cristo seriam o suficiente para abrirmos nossas vidas ao amor e nos juntarmos ao amor de Deus, pois tudo é amor, bem como para prosperarmos economicamente, com todas as pessoas incluídas (***Amai-vos uns aos outros e, Buscai primeiro o reino dos céus e tudo o mais vos será acrescentado***).
 

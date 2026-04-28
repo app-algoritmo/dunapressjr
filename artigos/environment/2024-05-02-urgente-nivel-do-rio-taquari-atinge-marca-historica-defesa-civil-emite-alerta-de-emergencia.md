@@ -1,11 +1,13 @@
 ---
-title: "URGENTE: Nível do Rio Taquari atinge marca histórica, Defesa Civil emite alerta de emergência"
+title: 'URGENTE: Nível do Rio Taquari atinge marca histórica, Defesa Civil emite alerta
+  de emergência'
 date: 2024-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 O Rio Taquari, importante curso d'água do Rio Grande do Sul, está enfrentando uma situação crítica e sem precedentes. Pela primeira vez em um século e meio de registros, o nível do rio ultrapassou os 30 metros em Estrela e Lajeado, superando marcos históricos anteriores de 1941 e 2023. Esta elevação alarmante resultou em uma enchente catastrófica que está afetando o Vale do Taquari de maneira devastadora.
 

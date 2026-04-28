@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê PIB de 5,18% e inflação de 6,7%"
+title: Mercado financeiro prevê PIB de 5,18% e inflação de 6,7%
 date: 2021-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para 2022, a estimativa de inflação permanece em 3,77%.
 

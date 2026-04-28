@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro participa de Solenidade de Brevetação"
+title: Presidente Jair Bolsonaro participa de Solenidade de Brevetação
 date: 2020-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Neste sábado (15), o Presidente Jair Bolsonaro participou da solenidade de Brevetação dos novos Paraquedistas do Exército Brasileiro, no Rio de Janeiro. A Brigada de Infantaria Paraquedista formou 747 militares do Exército Brasileiro e dois militares da Força Aérea Brasileira. 
 

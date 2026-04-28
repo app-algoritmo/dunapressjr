@@ -1,11 +1,13 @@
 ---
-title: "Taxa de desocupação no Brasil registra queda para 7,7% no terceiro trimestre de 2023"
+title: Taxa de desocupação no Brasil registra queda para 7,7% no terceiro trimestre
+  de 2023
 date: 2023-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados revelam variações regionais, impactos por gênero, raça e nível de instrução.
 

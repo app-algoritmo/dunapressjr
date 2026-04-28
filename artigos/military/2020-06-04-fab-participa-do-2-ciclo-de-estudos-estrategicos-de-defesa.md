@@ -1,11 +1,12 @@
 ---
-title: "FAB participa do 2º Ciclo de Estudos Estratégicos de Defesa"
+title: FAB participa do 2º Ciclo de Estudos Estratégicos de Defesa
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O 2º Ciclo de Estudos Estratégicos de Defesa, coordenado pela Escola Superior de Guerra (ESG), foi realizado no dia 21 de maio. O encontro *on-line *teve como tema “As Contribuições da P&D da Área Militar para a Tríplice Hélice”, onde foram debatidas formas de interação e cooperação para o desenvolvimento de tecnologias inovadoras à Defesa, com aplicabilidade no meio militar e civil. O objetivo do evento, que contou com a participação simultânea de 240 pessoas em um ambiente virtual, foi reunir executivos e industriais visando a capacitação em áreas de importância para a defesa nacional com ênfase na sinergia entre os três elementos inter-relacionados: governo, indústria e universidade.
 

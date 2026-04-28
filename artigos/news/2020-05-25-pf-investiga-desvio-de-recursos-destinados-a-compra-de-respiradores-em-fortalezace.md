@@ -1,11 +1,12 @@
 ---
-title: "PF investiga desvio de recursos destinados à compra de respiradores em Fortaleza/CE"
+title: PF investiga desvio de recursos destinados à compra de respiradores em Fortaleza/CE
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE – A Polícia Federal, em parceria com o Ministério Público Federal e a Controladoria-Geral da União deflagrou, na manhã desta segunda-feira (25/5), a Operação DISPNÉIA. Estão sendo cumpridos oito Mandados de Busca e Apreensão em domicílios, empresas e órgãos públicos em Fortaleza/CE e São Paulo/SP.
 

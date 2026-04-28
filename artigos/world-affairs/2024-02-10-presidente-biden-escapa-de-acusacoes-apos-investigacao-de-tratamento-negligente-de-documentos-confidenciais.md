@@ -1,11 +1,13 @@
 ---
-title: "Presidente Biden Escapa de Acusações Após Investigação de Tratamento Negligente de Documentos Confidenciais"
+title: Presidente Biden Escapa de Acusações Após Investigação de Tratamento Negligente
+  de Documentos Confidenciais
 date: 2024-02-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, um procurador norte-americano confirmou oficialmente algo que muitos já suspeitavam: a cabeça do presidente Biden não está funcionando bem. Este diagnóstico não é uma mera especulação, mas sim a conclusão de uma investigação sobre o tratamento negligente de informações oficiais confidenciais por parte do presidente.
 

@@ -1,11 +1,13 @@
 ---
-title: "Curso on-line para trabalhar na epidemia abre 1,7 mil vagas para profissionais de saúde de BH"
+title: Curso on-line para trabalhar na epidemia abre 1,7 mil vagas para profissionais
+  de saúde de BH
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Formação é coordenada pela Escola de Enfermagem; especialistas também atendem demandas específicas por meio de teleconsultoria.
 

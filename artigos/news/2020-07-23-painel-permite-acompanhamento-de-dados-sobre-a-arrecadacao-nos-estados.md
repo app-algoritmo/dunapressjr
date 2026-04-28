@@ -1,11 +1,12 @@
 ---
-title: "Painel permite acompanhamento de dados sobre a arrecadação nos estados"
+title: Painel permite acompanhamento de dados sobre a arrecadação nos estados
 date: 2020-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Objetivo da iniciativa lançada nesta quarta-feira (22/7) pelo Ministério da Economia é dar transparência e assegurar precisão à alocação de recursos.
 

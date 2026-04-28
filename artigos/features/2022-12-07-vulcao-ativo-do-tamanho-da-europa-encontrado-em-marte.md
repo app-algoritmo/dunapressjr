@@ -1,11 +1,12 @@
 ---
-title: "Vulcão ativo do tamanho da Europa encontrado em Marte"
+title: Vulcão ativo do tamanho da Europa encontrado em Marte
 date: 2022-12-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 **De acordo com os pesquisadores, nenhum outro estudo previu que ainda havia vulcanismo ativo no subsolo de Marte**
 

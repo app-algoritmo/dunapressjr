@@ -1,11 +1,13 @@
 ---
-title: "Em Defesa da Vida: A Importância da Participação Popular na Decisão sobre o Aborto na Suprema Corte Brasileira"
+title: 'Em Defesa da Vida: A Importância da Participação Popular na Decisão sobre
+  o Aborto na Suprema Corte Brasileira'
 date: 2023-09-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A democracia e a participação popular são as melhores ferramentas para encontrar um caminho que permita a coexistência de diferentes visões sobre o aborto enquanto se protege o direito à vida.
 

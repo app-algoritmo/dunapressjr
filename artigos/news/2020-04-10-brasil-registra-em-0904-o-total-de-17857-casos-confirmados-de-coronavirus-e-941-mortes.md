@@ -1,11 +1,13 @@
 ---
-title: "Brasil registra em 09/04 o total de 17.857 casos confirmados de coronavírus e 941 mortes"
+title: Brasil registra em 09/04 o total de 17.857 casos confirmados de coronavírus
+  e 941 mortes
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde em  quinta, 09 de Abril de 2020, 19h27 ; Última atualização em quinta, 09 de Abril de 2020, 19h52.
 

@@ -1,11 +1,13 @@
 ---
-title: "Parceria da Defesa com Saúde reforça atendimento médico a indígenas no extremo norte do País"
+title: Parceria da Defesa com Saúde reforça atendimento médico a indígenas no extremo
+  norte do País
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Dois hospitais militares localizados no extremo oeste do Estado do Amazonas e conveniados ao Sistema Único de Saúde (SUS) receberam reforço de dez profissionais de saúde e duas toneladas de insumos hospitalares. As especialistas seguem para o hospital de São Gabriel da Cachoeira. Já os insumos foram encaminhados para as duas unidades de saúde.
 

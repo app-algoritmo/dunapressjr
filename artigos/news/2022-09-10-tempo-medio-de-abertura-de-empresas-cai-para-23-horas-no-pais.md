@@ -1,11 +1,12 @@
 ---
-title: "Tempo médio de abertura de empresas cai para 23 horas no país"
+title: Tempo médio de abertura de empresas cai para 23 horas no país
 date: 2022-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em relação ao início de 2019, a queda foi de quatro dias e 10 horas (82,2%).
 

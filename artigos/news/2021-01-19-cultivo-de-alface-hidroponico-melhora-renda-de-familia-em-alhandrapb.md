@@ -1,11 +1,12 @@
 ---
-title: "Cultivo de alface hidropônico melhora renda de família em Alhandra/PB"
+title: Cultivo de alface hidropônico melhora renda de família em Alhandra/PB
 date: 2021-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O período de colheita da alface é de 48 a 56 dias.
 

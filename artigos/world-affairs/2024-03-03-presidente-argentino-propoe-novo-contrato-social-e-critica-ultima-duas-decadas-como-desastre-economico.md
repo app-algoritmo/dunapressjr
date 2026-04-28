@@ -1,11 +1,13 @@
 ---
-title: "Presidente argentino propõe 'novo contrato social' e critica última duas décadas como 'desastre económico'"
+title: Presidente argentino propõe 'novo contrato social' e critica última duas décadas
+  como 'desastre económico'
 date: 2024-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente argentino, Javier Milei, desferiu críticas contundentes aos últimos 20 anos de gestão econômica em seu discurso no Congresso Nacional, chamando-os de "desastre económico" marcado por uma "orgia de gastos públicos". Milei convocou governadores, ex-presidentes e líderes políticos a assinarem um "novo contrato social" em Córdoba, delineando 10 políticas de Estado para revitalizar a economia do país.
 

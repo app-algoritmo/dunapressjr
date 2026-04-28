@@ -1,11 +1,12 @@
 ---
-title: "O que é VPN? Saiba a importância de se usar uma rede privada virtual"
+title: O que é VPN? Saiba a importância de se usar uma rede privada virtual
 date: 2023-01-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 É possível que você já tenha ouvido falar na chamada [VPN](https://surfshark.com/pt-br/learn/o-que-e-vpn), mas ainda não saiba para que ela serve e quais são os seus benefícios. A rede virtual privada basicamente é um tipo de conexão que simula uma rede privada, mesmo se você estiver em uma pública.
 

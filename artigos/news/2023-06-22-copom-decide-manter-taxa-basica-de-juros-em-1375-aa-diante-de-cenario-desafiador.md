@@ -1,11 +1,12 @@
 ---
-title: "Copom decide manter taxa básica de juros em 13,75% a.a. diante de cenário desafiador"
+title: Copom decide manter taxa básica de juros em 13,75% a.a. diante de cenário desafiador
 date: 2023-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Comitê avalia riscos econômicos internos e externos, optando por cautela na política monetária.
 

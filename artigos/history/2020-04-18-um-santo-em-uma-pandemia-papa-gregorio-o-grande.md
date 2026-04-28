@@ -1,11 +1,12 @@
 ---
-title: "Um Santo em uma Pandemia: Papa Gregório o Grande"
+title: 'Um Santo em uma Pandemia: Papa Gregório o Grande'
 date: 2020-04-18
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 **Vida até o Papado**
 

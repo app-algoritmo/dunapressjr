@@ -1,11 +1,12 @@
 ---
-title: "O que o Índice de Massa Corporal (IMC) diz sobre sua saúde"
+title: O que o Índice de Massa Corporal (IMC) diz sobre sua saúde
 date: 2021-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Criado no século 19 pelo matemático Lambert Quételet, o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples que permite medir se alguém está ou não com o peso ideal. Muitas pessoas buscam descobrir seu IMC quando iniciam uma dieta específica ou uma atividade física. E estão certas, pois ele aponta a normalidade - peso adequado -, a magreza ou a obesidade em diferentes níveis. Mas, com o resultado deste cálculo em mãos, o que fazer? E o que este número final diz sobre a saúde de cada pessoa?
 

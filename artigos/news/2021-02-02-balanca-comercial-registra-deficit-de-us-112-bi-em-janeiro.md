@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra déficit de US$ 1,12 bi em janeiro"
+title: Balança comercial registra déficit de US$ 1,12 bi em janeiro
 date: 2021-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Isso significa que o país importou mais do que exportou durante o mês.
 

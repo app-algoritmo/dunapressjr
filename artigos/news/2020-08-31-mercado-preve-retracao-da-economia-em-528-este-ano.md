@@ -1,11 +1,12 @@
 ---
-title: "Mercado prevê retração da economia em 5,28% este ano"
+title: Mercado prevê retração da economia em 5,28% este ano
 date: 2020-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para o próximo ano, a expectativa é de crescimento de 3,50%, diz BC.
 

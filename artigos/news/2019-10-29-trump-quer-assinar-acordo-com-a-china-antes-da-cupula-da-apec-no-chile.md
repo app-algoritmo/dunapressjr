@@ -1,11 +1,12 @@
 ---
-title: "Trump quer assinar acordo com a China antes da cúpula da Apec no Chile"
+title: Trump quer assinar acordo com a China antes da cúpula da Apec no Chile
 date: 2019-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente dos Estados Unidos, Donald Trump, insinuou
 nesta segunda-feira (28) que assinará um acordo comercial com a China antes da

@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação de impostos em janeiro somou R$ 180,221 bilhões"
+title: Arrecadação de impostos em janeiro somou R$ 180,221 bilhões
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pela Receita Federal.
 

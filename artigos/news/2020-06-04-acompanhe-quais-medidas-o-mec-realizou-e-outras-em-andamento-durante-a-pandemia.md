@@ -1,11 +1,12 @@
 ---
-title: "Acompanhe quais medidas o MEC realizou e outras em andamento durante a pandemia"
+title: Acompanhe quais medidas o MEC realizou e outras em andamento durante a pandemia
 date: 2020-06-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Acompanhe o portal do Ministério da Educação (MEC) para ficar por dentro de todas as ações realizadas durante o período de pandemia do coronavírus.
 

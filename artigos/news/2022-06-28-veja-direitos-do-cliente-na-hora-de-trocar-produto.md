@@ -1,11 +1,12 @@
 ---
-title: "Veja direitos do cliente na hora de trocar produto"
+title: Veja direitos do cliente na hora de trocar produto
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Código de Defesa do Consumidor estabelece regras para troca.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro inicia compras de anestésicos e relaxantes musculares"
+title: Governo Bolsonaro inicia compras de anestésicos e relaxantes musculares
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Medicamentos são usados em pacientes que precisam de intubação devido a complicações causadas pelo novo coronavírus. Mesmo sem ser o responsável pelos estoques, Ministério da Saúde fez a contratação de anestésicos e relaxantes musculares para ajudar no abastecimento de Estados e Municípios.
 

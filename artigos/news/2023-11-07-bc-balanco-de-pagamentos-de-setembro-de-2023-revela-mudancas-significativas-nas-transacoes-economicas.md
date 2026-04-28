@@ -1,11 +1,13 @@
 ---
-title: "BC: Balanço de pagamentos de setembro de 2023 revela mudanças significativas nas transações econômicas"
+title: 'BC: Balanço de pagamentos de setembro de 2023 revela mudanças significativas
+  nas transações econômicas'
 date: 2023-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit comercial e déficit em serviços e renda primária apresentam alterações notáveis, enquanto reservas internacionais sofrem variações.
 

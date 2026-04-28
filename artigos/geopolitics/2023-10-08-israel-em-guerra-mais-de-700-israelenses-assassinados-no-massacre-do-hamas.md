@@ -1,11 +1,12 @@
 ---
-title: "Israel em guerra: mais de 700 israelenses assassinados no massacre do Hamas"
+title: 'Israel em guerra: mais de 700 israelenses assassinados no massacre do Hamas'
 date: 2023-10-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Biden para Netanyahu: assistência dos EUA a caminho - Netanyahu avançará nas negociações sobre um governo de emergência - 2.315 feridos, mais de 300 em estado grave.
 

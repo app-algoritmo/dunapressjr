@@ -1,11 +1,12 @@
 ---
-title: "Plano Safra atinge R$ 207,56 bilhões em 11 meses – crédito rural"
+title: Plano Safra atinge R$ 207,56 bilhões em 11 meses – crédito rural
 date: 2020-06-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O valor total computou, pela primeira vez, os recursos originários da captação de LCA destinados ao financiamento de aquisições de CPR e de operações com agroindústrias.
 

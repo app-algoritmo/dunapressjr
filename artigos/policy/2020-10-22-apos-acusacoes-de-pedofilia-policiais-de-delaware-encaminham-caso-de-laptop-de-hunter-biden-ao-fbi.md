@@ -1,11 +1,13 @@
 ---
-title: "Após acusações de pedofilia, policiais de Delaware encaminham caso de laptop de Hunter Biden ao FBI"
+title: Após acusações de pedofilia, policiais de Delaware encaminham caso de laptop
+  de Hunter Biden ao FBI
 date: 2020-10-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Polícia do Estado de Delaware anunciou na quarta-feira que havia encaminhado o caso do laptop de Hunter Biden ao Federal Bureau of Investigation (FBI), após alegações de que o disco rígido de Hunter Biden continha fitas de sexo dele com meninas menores de idade.
 

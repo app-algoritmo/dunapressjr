@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde bate São Caetano e retorna ao G4 da Superliga"
+title: Osasco São Cristóvão Saúde bate São Caetano e retorna ao G4 da Superliga
 date: 2023-12-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar marcou 3 sets a 0 no ABC e agora volta a jogar em casa, onde recebe o Sesc Flamengo, na sexta-feira (22).
 

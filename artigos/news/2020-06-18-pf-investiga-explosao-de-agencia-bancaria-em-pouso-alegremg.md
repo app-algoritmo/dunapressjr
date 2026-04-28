@@ -1,11 +1,12 @@
 ---
-title: "PF investiga explosão de agência bancária em Pouso Alegre/MG"
+title: PF investiga explosão de agência bancária em Pouso Alegre/MG
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – A Polícia Federal deflagrou nesta quarta-feira, 17/6, a Operação POUSO FORÇADO, para combater furto qualificado, organização criminosa, tráfico de drogas e posse ilegal de arma de fogo e munições.
 

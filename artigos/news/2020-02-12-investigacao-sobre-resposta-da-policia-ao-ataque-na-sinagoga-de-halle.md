@@ -1,11 +1,12 @@
 ---
-title: "Investigação sobre resposta da polícia ao ataque na sinagoga de Halle"
+title: Investigação sobre resposta da polícia ao ataque na sinagoga de Halle
 date: 2020-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Após o ataque, o chefe da comunidade judaica da Alemanha  questionou  por que a polícia não havia sido designada para proteger a sinagoga em *Yom Kipur. *
 

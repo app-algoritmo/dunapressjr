@@ -1,11 +1,13 @@
 ---
-title: "Após mais de um ano de impasse,primeiro-ministro Netanyahu e Gantz concordam em formar um governo"
+title: Após mais de um ano de impasse,primeiro-ministro Netanyahu e Gantz concordam
+  em formar um governo
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O primeiro-ministro Benjamin Netanyahu e o presidente do partido Azul e Branco, Benny Gantz, assinaram um acordo de coalizão durante uma reunião na noite de segunda-feira, encerrando um impasse político de quase um ano e meio.
 

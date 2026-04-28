@@ -1,11 +1,12 @@
 ---
-title: "O que devo saber antes de comprar uma parafusadeira?"
+title: O que devo saber antes de comprar uma parafusadeira?
 date: 2022-12-09
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 Em primeiro lugar, como o nome sugere, uma [parafusadeira](https://www.americanas.com.br/busca/parafusadeira) serve para parafusar coisas, ou seja, para apertar parafusos. A sua utilização é maioritariamente em madeira, mas também pode ser utilizado plástico, metal ou mesmo alvenaria (por exemplo, paredes). Além disso, você pode usar o dispositivo para montar móveis, apertar parafusos, apertar porcas, pendurar cortinas e muitas outras coisas.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Monte do Templo reabre para judeus pela primeira vez em semanas"
+title: O Monte do Templo reabre para judeus pela primeira vez em semanas
 date: 2021-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pela primeira vez em mais de um mês, os judeus tiveram permissão para visitar o local mais sagrado do judaísmo após uma guerra de 11 dias com o Hamas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Valor da cesta básica cai em agosto em 16 capitais, diz Dieese"
+title: Valor da cesta básica cai em agosto em 16 capitais, diz Dieese
 date: 2022-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### São Paulo registrou o valor mais alto; Aracaju, o mais baixo.
 

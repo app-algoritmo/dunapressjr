@@ -1,11 +1,12 @@
 ---
-title: "Expressões e seus significados: A vitória de Pirro"
+title: 'Expressões e seus significados: A vitória de Pirro'
 date: 2020-05-20
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 As expressões históricas correm de forma livre em meio as nossas interações sociais, chegando até a ser presente em várias culturas e com a colocação original de seu significado. Este é o caso da “vitória de Pirro”.
 

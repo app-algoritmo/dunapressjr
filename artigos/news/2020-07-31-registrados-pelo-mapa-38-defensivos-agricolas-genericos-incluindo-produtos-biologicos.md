@@ -1,11 +1,13 @@
 ---
-title: "Registrados pelo Mapa 38 defensivos agrícolas genéricos, incluindo produtos biológicos"
+title: Registrados pelo Mapa 38 defensivos agrícolas genéricos, incluindo produtos
+  biológicos
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ao todo, em 2020 já foram registrados 45 produtos considerados de baixo impacto, como biológicos e orgânicos.
 

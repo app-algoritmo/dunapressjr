@@ -1,11 +1,12 @@
 ---
-title: "IBGE prevê safra recorde de grãos em 2022"
+title: IBGE prevê safra recorde de grãos em 2022
 date: 2021-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção será puxada pela recuperação da safra de milho.
 

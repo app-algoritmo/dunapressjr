@@ -1,11 +1,12 @@
 ---
-title: "Fila única de castração e protetores em  Itajaí, alguns esclarecimentos"
+title: Fila única de castração e protetores em  Itajaí, alguns esclarecimentos
 date: 2024-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Quero explicar algumas coisas em relação a terceirização do canil e o acesso as protetoras aos serviços.
 

@@ -1,13 +1,14 @@
 ---
-title: "Silvio Santos: The Icon of Brazilian Television and Successful Entrepreneur"
+title: 'Silvio Santos: The Icon of Brazilian Television and Successful Entrepreneur'
 date: 2024-08-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Entrepreneurship
-  - Motivational
-  - Personal Development
+- Entrepreneurship
+- Motivational
+- Personal Development
 ---
+
 
 Silvio Santos, whose real name is Senor Abravanel, was born on December 12, 1930, in Rio de Janeiro and died on August 17, 2024 in São Paulo at the age of 93. He was one of Brazil's most iconic presenters and entrepreneurs, known for his vast contribution to Brazilian television and the empire he built over decades.
 

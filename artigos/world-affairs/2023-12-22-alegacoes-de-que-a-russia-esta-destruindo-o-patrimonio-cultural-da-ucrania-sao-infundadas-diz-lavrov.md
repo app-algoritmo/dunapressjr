@@ -1,11 +1,13 @@
 ---
-title: "Alegações de que a Rússia está destruindo o patrimônio cultural da Ucrânia são infundadas, diz Lavrov"
+title: Alegações de que a Rússia está destruindo o patrimônio cultural da Ucrânia
+  são infundadas, diz Lavrov
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Assim como a UNESCO não tem o direito de atribuir culpas, algo que é reconhecido, aliás, pelos próprios funcionários do Secretariado da UNESCO em conversas privadas”, destacou o principal diplomata russo.
 

@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Variação no índice nacional da construção civil reflete desafios no setor em outubro"
+title: 'IBGE: Variação no índice nacional da construção civil reflete desafios no
+  setor em outubro'
 date: 2023-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Custos com materiais e mão de obra impactam índices, enquanto Região Norte lidera as variações regionais.
 

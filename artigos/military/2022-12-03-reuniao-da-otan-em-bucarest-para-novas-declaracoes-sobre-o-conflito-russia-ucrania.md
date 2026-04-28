@@ -1,13 +1,14 @@
 ---
-title: "Reunião da OTAN em Bucarest para novas declarações sobre o conflito Rússia-Ucrânia"
+title: Reunião da OTAN em Bucarest para novas declarações sobre o conflito Rússia-Ucrânia
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - Policy
-  - World Affairs
+- Military
+- Policy
+- World Affairs
 ---
+
 
 Os ministros das Relações Exteriores da OTAN encerraram dois dias de reuniões em Bucareste na quarta-feira (30 de novembro de 2022), com reuniões focadas nos desafios de longo prazo colocados pela China, bem como no apoio aos parceiros que enfrentam a pressão russa. “A OTAN é uma Aliança da Europa e da América do Norte, mas os desafios que enfrentamos são globais e devemos enfrentá-los juntos na OTAN”, disse o secretário-geral Jens Stoltenberg.
 

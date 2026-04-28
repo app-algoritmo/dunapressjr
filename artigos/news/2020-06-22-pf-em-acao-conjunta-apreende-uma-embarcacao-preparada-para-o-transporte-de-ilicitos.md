@@ -1,11 +1,13 @@
 ---
-title: "PF, em ação conjunta, apreende uma embarcação preparada para o transporte de ilícitos"
+title: PF, em ação conjunta, apreende uma embarcação preparada para o transporte de
+  ilícitos
 date: 2020-06-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Nesta segunda-feira, 22/06, mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

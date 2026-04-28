@@ -1,11 +1,13 @@
 ---
-title: "Tribunal Constitucional do Peru Rejeita Pedido de Habeas Corpus de Pedro Castillo por Tentativa de Golpe"
+title: Tribunal Constitucional do Peru Rejeita Pedido de Habeas Corpus de Pedro Castillo
+  por Tentativa de Golpe
 date: 2024-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Tribunal Constitucional do Peru tomou uma decisão contundente ao rejeitar o pedido de habeas corpus apresentado pelo ex-presidente Pedro Castillo, que buscava contestar sua prisão após sua polêmica declaração de encerrar o Congresso peruano em 2022. A ação de Castillo, destacada como uma quebra flagrante da ordem constitucional e um golpe de Estado pelo Tribunal, foi duramente criticada por diversas instituições públicas e órgãos constitucionais do país.
 

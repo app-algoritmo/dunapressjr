@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário sobe 0,6 ponto em fevereiro, diz FGV"
+title: Confiança do empresário sobe 0,6 ponto em fevereiro, diz FGV
 date: 2023-03-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador atingiu 89,2 pontos, em uma escala de 0 a 200 pontos.
 

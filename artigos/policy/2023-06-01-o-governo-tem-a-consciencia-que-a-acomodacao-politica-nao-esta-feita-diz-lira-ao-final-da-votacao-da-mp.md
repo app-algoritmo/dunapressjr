@@ -1,11 +1,13 @@
 ---
-title: "“O governo tem a consciência que a acomodação política não está feita”, diz Lira ao final da votação da MP"
+title: “O governo tem a consciência que a acomodação política não está feita”, diz
+  Lira ao final da votação da MP
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto aprovado manteve a demarcação de terras indígenas no Ministério da Justiça, diferente do que o governo queria.
 

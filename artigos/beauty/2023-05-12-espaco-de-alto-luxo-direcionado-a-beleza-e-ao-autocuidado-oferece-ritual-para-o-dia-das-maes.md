@@ -1,12 +1,14 @@
 ---
-title: "Espaço de alto luxo direcionado à beleza e ao autocuidado oferece Ritual para o Dia das Mães"
+title: Espaço de alto luxo direcionado à beleza e ao autocuidado oferece Ritual para
+  o Dia das Mães
 date: 2023-05-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Beauty
-  - Health
+- Beauty
+- Health
 ---
+
 
 ## Produtos da linha TANIAPELE fazem parte do tratamento oferecido pelo MSA Spa para comemorar a data.
 

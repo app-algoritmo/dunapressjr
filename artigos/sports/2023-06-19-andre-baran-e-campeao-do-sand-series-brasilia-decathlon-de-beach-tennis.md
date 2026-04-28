@@ -1,12 +1,13 @@
 ---
-title: "André Baran é campeão do Sand Series Brasília Decathlon de Beach Tennis"
+title: André Baran é campeão do Sand Series Brasília Decathlon de Beach Tennis
 date: 2023-06-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 Um emocionado André Baran conquistou na noite deste sábado (17) o título do ITF Sand Series Brasília Classic Decathlon'23, apresentado pelo Banco BRB. Ao lado do parceiro russo Nikita Burmakin, na quadra central da PlayTennis, centro esportivo localizado na Arena BRB BSB, no Distrito Federal, o catarinense derrotou o francês Nicolas Gianotti e o italiano Mattia Spoto, por 5/7, 6/3 e 10-7, em 1h40min. 
 

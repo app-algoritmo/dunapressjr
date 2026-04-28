@@ -1,11 +1,12 @@
 ---
-title: "Lançamentos de imóveis no país tem elevação de 42%, diz Abrainc"
+title: Lançamentos de imóveis no país tem elevação de 42%, diz Abrainc
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Lançamentos totalizaram 92.410 no acumulado dos últimos 12 meses.
 

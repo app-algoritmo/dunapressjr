@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde intensifica o trabalho durante as festas de final de ano"
+title: Osasco São Cristóvão Saúde intensifica o trabalho durante as festas de final
+  de ano
 date: 2023-12-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar seguiu treinando entre o Natal e Ano Novo para entrar em 2024 com mais força na sequência da Superliga.
 

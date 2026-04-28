@@ -1,11 +1,13 @@
 ---
-title: "Sistema de Formação de Jovens Líderes é um dos diferenciais da metodologia do IEE"
+title: Sistema de Formação de Jovens Líderes é um dos diferenciais da metodologia
+  do IEE
 date: 2024-07-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## O Instituto Esporte e Educação, em seus 23 anos de atuação, trabalha com liderança juvenil por meio do esporte, nos eixos de aulas, monitoria, eventos, cursos e mercado de trabalho. Projeto Rede de Núcleos tem um terço da equipe formada por ex-alunos.
 

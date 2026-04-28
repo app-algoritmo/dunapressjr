@@ -1,11 +1,12 @@
 ---
-title: "Carnaval 2024: Salgueiro resgata história do povo Yanomami"
+title: 'Carnaval 2024: Salgueiro resgata história do povo Yanomami'
 date: 2024-02-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Salgueiro vai homenagear história do povo Yanomami no carnaval 2024.
 

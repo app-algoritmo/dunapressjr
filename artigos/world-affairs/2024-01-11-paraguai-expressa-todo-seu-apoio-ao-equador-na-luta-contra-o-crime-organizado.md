@@ -1,11 +1,12 @@
 ---
-title: "Paraguai expressa todo seu apoio ao Equador na luta contra o crime organizado"
+title: Paraguai expressa todo seu apoio ao Equador na luta contra o crime organizado
 date: 2024-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente paraguaio, Santiago Peña, expressou seu total apoio ao povo equatoriano e ao seu presidente, Daniel Novoa, diante da delicada situação de segurança interna que vive o país sul-americano devido ao crime e ao crime organizado .
 

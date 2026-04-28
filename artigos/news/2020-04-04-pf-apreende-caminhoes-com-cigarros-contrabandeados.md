@@ -1,11 +1,12 @@
 ---
-title: "PF apreende caminhões com cigarros contrabandeados"
+title: PF apreende caminhões com cigarros contrabandeados
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Naviraí/MS - A Polícia Federal e a Polícia Militar/MS realizaram a apreensão de duas carretas e um caminhão que estavam sendo utilizados para o transporte de cigarros contrabandeados, ou seja, introduzidos ilegalmente no Brasil. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Na CPI das ONGs, professor nega que desmatamento da Amazônia afete o clima global"
+title: Na CPI das ONGs, professor nega que desmatamento da Amazônia afete o clima
+  global
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs ouviu nesta terça-feira (5) o professor da Universidade Federal de Alagoas Luiz Carlos Molion sobre a influência da Amazônia para o regime de chuvas e para o clima na América do Sul e no planeta. Segundo ele, na “hipótese absurda de se desmatar toda a Amazônia, o que levaria cerca de 600 anos na taxa atual, o clima global não seria afetado". O professor disse que a fonte de umidade para regiões fora da Amazônia não é a floresta, e sim o Oceano Atlântico tropical.
 

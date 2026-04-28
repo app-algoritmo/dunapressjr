@@ -1,11 +1,12 @@
 ---
-title: "Comandante da Aeronáutica diz que 'jamais apoiaria rupturas democráticas'"
+title: Comandante da Aeronáutica diz que 'jamais apoiaria rupturas democráticas'
 date: 2022-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Militar usou as redes sociais para rebater ‘fake news’ da imprensa.
 

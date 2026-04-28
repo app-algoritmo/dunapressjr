@@ -1,11 +1,12 @@
 ---
-title: "PF em tempos de coronavírus mantém forte ritmo de atividades"
+title: PF em tempos de coronavírus mantém forte ritmo de atividades
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Curitiba/PR - A Polícia Federal, apesar das restrições impostas pelos cuidados com a pandemia do COVID-19, informa um balanço das últimas semanas na área de polícia judiciária no Estado do Paraná: 
 

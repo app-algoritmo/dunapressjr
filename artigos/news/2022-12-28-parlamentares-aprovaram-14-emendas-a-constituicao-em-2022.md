@@ -1,11 +1,12 @@
 ---
-title: "Parlamentares aprovaram 14 emendas à Constituição em 2022"
+title: Parlamentares aprovaram 14 emendas à Constituição em 2022
 date: 2022-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Congresso Nacional promulgou 14 emendas à Constituição em 2022. O número é recorde para um único ano desde que a Carta entrou em vigor. A quantidade é quase o dobro do ano recordista anterior — 2014, com oito emendas promulgadas.
 

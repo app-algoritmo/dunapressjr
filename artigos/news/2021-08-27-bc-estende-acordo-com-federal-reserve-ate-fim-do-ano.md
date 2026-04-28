@@ -1,11 +1,12 @@
 ---
-title: "BC estende acordo com Federal Reserve até fim do ano"
+title: BC estende acordo com Federal Reserve até fim do ano
 date: 2021-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contrato especial de swap vigorará por mais três meses.
 

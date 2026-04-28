@@ -1,11 +1,13 @@
 ---
-title: "Durante os períodos de doença, as formigas se distanciam socialmente de forma semelhante aos humanos"
+title: Durante os períodos de doença, as formigas se distanciam socialmente de forma
+  semelhante aos humanos
 date: 2021-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Cientista do Reino Unido: os humanos não estão sozinhos no distanciamento social quando ocorrem pandemias.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ted Cruz apoia Donald Trump após sua vitória esmagadora em Iowa: “A corrida acabou”"
+title: 'Ted Cruz apoia Donald Trump após sua vitória esmagadora em Iowa: “A corrida
+  acabou”'
 date: 2024-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A vitória esmagadora de Donald Trump nas prévias de Iowa continua a derrubar o dominó. Primeiro foi o empresário de origem indiana **Vivek Ramaswamy** , até agora candidato à candidatura republicana, que se apressou em retirar-se da corrida para apoiar o ex-presidente.
 

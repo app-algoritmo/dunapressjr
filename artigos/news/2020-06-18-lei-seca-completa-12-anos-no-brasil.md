@@ -1,11 +1,12 @@
 ---
-title: "Lei Seca completa 12 anos no Brasil"
+title: Lei Seca completa 12 anos no Brasil
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Lei Seca brasileira completa 12 anos na próxima sexta-feira (19). Para marcar a data, o Ministério da Infraestrutura (MInfra), por meio da Secretaria Nacional de Transportes Terrestres e do Departamento Nacional de Trânsito (Denatran), promoverá uma campanha nas redes sociais para conscientizar a população.
 

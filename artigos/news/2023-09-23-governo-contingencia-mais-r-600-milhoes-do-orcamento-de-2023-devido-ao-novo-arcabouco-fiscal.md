@@ -1,11 +1,13 @@
 ---
-title: "Governo contingencia mais R$ 600 Milhões do orçamento de 2023 devido ao novo arcabouço fiscal"
+title: Governo contingencia mais R$ 600 Milhões do orçamento de 2023 devido ao novo
+  arcabouço fiscal
 date: 2023-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bloqueio de recursos aumenta para R$ 3,8 bilhões e revela desafios na gestão orçamentária do Brasil em meio a mudanças fiscais.
 

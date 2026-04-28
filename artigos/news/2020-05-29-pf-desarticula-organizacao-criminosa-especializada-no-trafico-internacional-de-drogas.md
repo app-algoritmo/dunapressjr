@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula organização criminosa especializada no tráfico internacional de drogas"
+title: PF desarticula organização criminosa especializada no tráfico internacional
+  de drogas
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta sexta-feira (29/5) a denominada OPERAÇÃO QUINTO, com o objetivo de desarticular organização criminosa especializada no tráfico internacional de drogas. Estão sendo cumpridos nove mandados de busca e apreensão, todos exarados pela 3ª Vara Federal da Seção Judiciária em Rondônia, em Ariquemes/RO, Rio Branco/AC e Igarapé/MG.
 

@@ -1,12 +1,13 @@
 ---
-title: "A adesão do Pará à Independência do Brasil"
+title: A adesão do Pará à Independência do Brasil
 date: 2022-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Até 1823, o Grão-Pará era a única província que não havia aderido à Independência do Brasil.
 

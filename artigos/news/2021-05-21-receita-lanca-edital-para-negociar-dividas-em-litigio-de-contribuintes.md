@@ -1,11 +1,12 @@
 ---
-title: "Receita lança edital para negociar dívidas em litígio de contribuintes"
+title: Receita lança edital para negociar dívidas em litígio de contribuintes
 date: 2021-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ao longo de cinco anos, é esperada arrecadação de até R$ 1,4 bilhão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Veja os motivos de demissão por justa causa"
+title: Veja os motivos de demissão por justa causa
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### CLT define condutas dos empregados que levam à rescisão do contrato.
 

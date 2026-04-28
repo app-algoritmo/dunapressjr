@@ -1,11 +1,12 @@
 ---
-title: "Como essa mentira dos EUA provavelmente levará à guerra"
+title: Como essa mentira dos EUA provavelmente levará à guerra
 date: 2023-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Dizer que o mundo está em apuros é um eufemismo.
 

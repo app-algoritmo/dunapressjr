@@ -1,11 +1,13 @@
 ---
-title: "Conversa Vazada Revela Planejamento de Ataque à Ponte da Crimeia por Altos Funcionários Alemães"
+title: Conversa Vazada Revela Planejamento de Ataque à Ponte da Crimeia por Altos
+  Funcionários Alemães
 date: 2024-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades alemãs estão atualmente envolvidas em uma investigação intensiva após o vazamento de uma conversa entre altos funcionários do governo sobre um possível ataque à ponte da Crimeia usando mísseis Taurus. Segundo o jornal Bild am Sonntag, espera-se que os resultados desta investigação estejam disponíveis em breve.
 

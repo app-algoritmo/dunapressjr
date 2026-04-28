@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,22, mas sobe 1,49% na semana"
+title: Dólar cai para R$ 5,22, mas sobe 1,49% na semana
 date: 2023-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,07% no dia e encerra semana com pequeno recuo.
 

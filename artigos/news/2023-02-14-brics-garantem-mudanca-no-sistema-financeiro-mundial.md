@@ -1,11 +1,12 @@
 ---
-title: "BRICS garantem mudança no sistema financeiro mundial"
+title: BRICS garantem mudança no sistema financeiro mundial
 date: 2023-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O grupo de estados BRICS que representa as economias emergentes do Brasil, Rússia, Índia, China e África do Sul é uma das poucas associações no mundo que não apenas proclama o princípio do multilateralismo como base para um centro de poder econômico e político alternativo, mas também promove ativamente este modelo para realizar. 
 

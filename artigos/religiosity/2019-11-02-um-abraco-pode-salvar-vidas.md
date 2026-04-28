@@ -1,11 +1,12 @@
 ---
-title: "Um abraço pode salvar Vidas..."
+title: Um abraço pode salvar Vidas...
 date: 2019-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Está vendo essa imagem?
 

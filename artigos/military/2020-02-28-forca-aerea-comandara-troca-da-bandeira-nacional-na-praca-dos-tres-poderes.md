@@ -1,11 +1,12 @@
 ---
-title: "Força Aérea comandará troca da Bandeira Nacional na Praça dos Três Poderes"
+title: Força Aérea comandará troca da Bandeira Nacional na Praça dos Três Poderes
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 28/02/2020 –** Como ocorre em
 todo primeiro domingo do mês, neste dia 1º de março será realizada a

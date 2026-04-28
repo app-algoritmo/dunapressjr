@@ -1,11 +1,13 @@
 ---
-title: "Dobrada capacidade de hemodiálise no Hospital Universitário de Brasília com investimento da Ebserh"
+title: Dobrada capacidade de hemodiálise no Hospital Universitário de Brasília com
+  investimento da Ebserh
 date: 2020-06-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Investimento é de R$ 920 mil. Atendimento passou de 32 para 65 pacientes; previsão é atender 132 até agosto.
 

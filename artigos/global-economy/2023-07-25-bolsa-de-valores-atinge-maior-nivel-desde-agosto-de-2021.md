@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de Valores atinge maior nível desde agosto de 2021"
+title: Bolsa de Valores atinge maior nível desde agosto de 2021
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar tem terceira queda consecutiva.
 

@@ -1,11 +1,12 @@
 ---
-title: "70% da força de trabalho na área da saúde é de mulheres"
+title: 70% da força de trabalho na área da saúde é de mulheres
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As mulheres representam 70% da força de trabalho na área da saúde, segundo dados da Organização Mundial da Saúde (OMS). São médicas, fisioterapeutas, enfermeiras e tantas outras profissionais que estão na linha de frente dos esforços para cuidar de pacientes todos os dias, além de desenvolver pesquisas que permitem o avanço da área. Dentro de hospitais, elas mudam o perfil de cargos de liderança ao unir os múltiplos talentos, a curiosidade e a valorização do olhar humanizado. 
 

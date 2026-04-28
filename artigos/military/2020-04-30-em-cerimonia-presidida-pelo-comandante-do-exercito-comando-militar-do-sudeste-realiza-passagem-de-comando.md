@@ -1,11 +1,13 @@
 ---
-title: "Em cerimônia presidida pelo Comandante do Exército, Comando Militar do Sudeste realiza Passagem de Comando"
+title: Em cerimônia presidida pelo Comandante do Exército, Comando Militar do Sudeste
+  realiza Passagem de Comando
 date: 2020-04-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 28 de abril, o Comando Militar do Sudeste (CMSE) realizou, no salão de honra do Quartel-General Integrado, a cerimônia de Passagem de Comando. O General de Exército **Marcos Antonio Amaro dos Santos** entregou o comando ao General de Exército **Eduardo Antonio Fernandes**. Na ocasião, também foi inaugurado o retrato do General **Amaro **na galeria dos eternos comandantes.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mudanças demográficas no Brasil: Redução populacional em capitais e crescimento nos municípios do entorno"
+title: 'Mudanças demográficas no Brasil: Redução populacional em capitais e crescimento
+  nos municípios do entorno'
 date: 2023-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novos dados do Censo 2022 revelam queda na população de algumas capitais brasileiras e o fenômeno de reacomodação demográfica nos municípios vizinhos às grandes metrópoles.
 

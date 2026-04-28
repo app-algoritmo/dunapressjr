@@ -1,11 +1,12 @@
 ---
-title: "Produtos sanguíneos: o papel da BlackRock no massacre da Ucrânia"
+title: 'Produtos sanguíneos: o papel da BlackRock no massacre da Ucrânia'
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Ucrânia se tornou um símbolo para todos que entendem de guerra: há dinheiro por sangue. E não houve negociações para encerrar as hostilidades, pois o dinheiro está e continuará fluindo. Vamos examinar brevemente quem se beneficia com a morte de centenas de milhares.
 

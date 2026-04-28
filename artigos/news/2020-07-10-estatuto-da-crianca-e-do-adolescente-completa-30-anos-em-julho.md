@@ -1,11 +1,12 @@
 ---
-title: "Estatuto da Criança e do Adolescente completa 30 anos em julho"
+title: Estatuto da Criança e do Adolescente completa 30 anos em julho
 date: 2020-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma edição especial do gibi da Turma da Mônica foi lançada para explicar de forma simples e didática o que está previsto no documento. 
 

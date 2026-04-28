@@ -1,11 +1,12 @@
 ---
-title: "Indicador de incerteza da economia brasileira volta a subir em junho"
+title: Indicador de incerteza da economia brasileira volta a subir em junho
 date: 2021-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice chegou a 122,3 pontos, diz FGV.
 

@@ -1,11 +1,12 @@
 ---
-title: "Portaria prorroga emprego da Força Nacional em repressão aos delitos nas fronteiras"
+title: Portaria prorroga emprego da Força Nacional em repressão aos delitos nas fronteiras
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Portaria do ministro da Justiça e Segurança Pública, André Mendonça, publicada nesta quinta-feira (14) no Diário Oficial da União, autoriza a prorrogação do emprego da Força Nacional de Segurança Pública (FNSP), em apoio à Polícia Federal, nas atividades de prevenção e repressão aos delitos nas fronteiras nacionais, em caráter episódico e planejado, por 180 dias, a contar de 14 de maio.
 

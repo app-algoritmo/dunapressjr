@@ -1,11 +1,12 @@
 ---
-title: "PF e CGU investigam fraudes em licitações de saúde do Tocantins"
+title: PF e CGU investigam fraudes em licitações de saúde do Tocantins
 date: 2022-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prejuízo aos cofres públicos pode chegar a R$ 46 milhões.
 

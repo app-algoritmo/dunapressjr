@@ -1,11 +1,12 @@
 ---
-title: "Antecipada liberação de recursos do Funcafé pelo governo"
+title: Antecipada liberação de recursos do Funcafé pelo governo
 date: 2020-06-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A liberação dos recursos do Fundo é uma forma de apoio ao setor neste momento de crise provocada pela pandemia do novo Coronavírus.
 

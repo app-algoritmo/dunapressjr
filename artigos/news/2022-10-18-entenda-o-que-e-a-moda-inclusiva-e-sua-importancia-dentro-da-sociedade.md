@@ -1,11 +1,12 @@
 ---
-title: "Entenda o que é a moda inclusiva e sua importância dentro da sociedade"
+title: Entenda o que é a moda inclusiva e sua importância dentro da sociedade
 date: 2022-10-18
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Proposta é oferecer roupas bonitas, confortáveis e adaptadas às necessidades de todos
 

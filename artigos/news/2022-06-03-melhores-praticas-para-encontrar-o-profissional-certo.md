@@ -1,11 +1,12 @@
 ---
-title: "Melhores práticas para encontrar o profissional certo"
+title: Melhores práticas para encontrar o profissional certo
 date: 2022-06-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Os [processos de contratação](https://menvie.com.br/recursos-humanos/) são longos. Muitas vezes são meses de busca, dezenas de entrevistas e vasculhando inúmeros currículos, para finalmente encontrar o candidato ideal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba o que é esquistossomose"
+title: Saiba o que é esquistossomose
 date: 2021-05-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Conhecida como doença do caramujo, barriga d'água e xistose, a doença pode evoluir para formas graves e levar à morte.
 

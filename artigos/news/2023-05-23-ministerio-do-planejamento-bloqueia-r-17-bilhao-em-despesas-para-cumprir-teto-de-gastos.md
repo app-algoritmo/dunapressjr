@@ -1,11 +1,13 @@
 ---
-title: "Ministério do Planejamento bloqueia R$ 1,7 bilhão em despesas para cumprir teto de gastos"
+title: Ministério do Planejamento bloqueia R$ 1,7 bilhão em despesas para cumprir
+  teto de gastos
 date: 2023-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento nas projeções de despesas e revisão no déficit primário levam ao bloqueio de recursos no Orçamento federal.
 

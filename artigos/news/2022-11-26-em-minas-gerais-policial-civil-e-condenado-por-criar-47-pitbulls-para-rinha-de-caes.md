@@ -1,12 +1,14 @@
 ---
-title: "Em Minas Gerais Policial civil é condenado por criar 47 Pitbulls para rinha de cães"
+title: Em Minas Gerais Policial civil é condenado por criar 47 Pitbulls para rinha
+  de cães
 date: 2022-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 **Em Sabará, MG, um homem foi condenado por manter 47 cães da raça Pitbull em situação de maus-tratos**.** Os animais eram criados para brigar em rinhas de cães**.** Os animais foram encontrados em 2019**, mas a condenação saiu dia 24 de novembro de 2022, os cães viviam em situação de estresse, presos em correntes, com escassez de alimentos e água. Testemunhas relataram que os animais recebiam carne imprópria para consumo, já em estado de decomposição. 
 

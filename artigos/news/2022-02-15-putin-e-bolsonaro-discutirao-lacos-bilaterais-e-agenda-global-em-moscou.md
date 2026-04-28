@@ -1,11 +1,12 @@
 ---
-title: "Putin e Bolsonaro discutirão laços bilaterais e agenda global em Moscou"
+title: Putin e Bolsonaro discutirão laços bilaterais e agenda global em Moscou
 date: 2022-02-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com Dmitry Peskov, porta voz do Kremlin, uma declaração para a imprensa está planejada após a reunião.
 

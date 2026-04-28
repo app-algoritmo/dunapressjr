@@ -1,11 +1,12 @@
 ---
-title: "Faturamento da indústria de máquinas tem queda de 11,6% em abril"
+title: Faturamento da indústria de máquinas tem queda de 11,6% em abril
 date: 2022-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Total da receita mensal ficou em R$ 23,3 bilhões.
 

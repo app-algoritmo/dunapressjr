@@ -1,11 +1,12 @@
 ---
-title: "Quotes - Ensaios, Citações e Pensamentos"
+title: Quotes - Ensaios, Citações e Pensamentos
 date: 2021-10-06
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 ***Colhemos novas pérolas para você... Ajude distribuí-las, gratuitamente!***
 

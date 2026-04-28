@@ -1,11 +1,12 @@
 ---
-title: "Ipea projeta inflação oficial em 4,9% para 2023"
+title: Ipea projeta inflação oficial em 4,9% para 2023
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para este ano é IPCA fechar em 5,7%.
 

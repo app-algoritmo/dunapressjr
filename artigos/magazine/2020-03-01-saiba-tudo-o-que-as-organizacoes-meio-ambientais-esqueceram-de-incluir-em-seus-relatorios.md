@@ -1,11 +1,13 @@
 ---
-title: "Saiba tudo o que as organizações meio ambientais esqueceram de incluir em seus relatórios"
+title: Saiba tudo o que as organizações meio ambientais esqueceram de incluir em seus
+  relatórios
 date: 2020-03-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## -A grande farsa das organizações meio ambientais levam a busca por respostas e levanta uma questão polêmica sobre um grave problema ambiental que está alterando a climatologia do planeta Terra.
 

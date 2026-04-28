@@ -1,11 +1,12 @@
 ---
-title: "Sentença a 20 anos de prisão para ex-presidente do Suriname é ratificada"
+title: Sentença a 20 anos de prisão para ex-presidente do Suriname é ratificada
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Suprema Corte de Justiça do Suriname confirmou nesta quarta-feira a pena de 20 anos de prisão contra o ex-presidente Desi Bouterse pela execução de 15 opositores em 1982, após um golpe de Estado para chegar ao poder.
 

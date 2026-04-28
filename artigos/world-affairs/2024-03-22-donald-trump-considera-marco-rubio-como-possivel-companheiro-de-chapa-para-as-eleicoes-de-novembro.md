@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump considera Marco Rubio como possível companheiro de chapa para as eleições de novembro"
+title: Donald Trump considera Marco Rubio como possível companheiro de chapa para
+  as eleições de novembro
 date: 2024-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Segundo informações da NBC, o ex-presidente dos Estados Unidos, Donald Trump, está atualmente ponderando a possibilidade de nomear o senador cubano-americano pelo estado da Flórida, Marco Rubio, como seu companheiro de chapa nas próximas eleições presidenciais.
 

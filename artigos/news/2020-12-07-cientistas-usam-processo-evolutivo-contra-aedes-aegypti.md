@@ -1,11 +1,12 @@
 ---
-title: "Cientistas usam processo evolutivo contra Aedes aegypti"
+title: Cientistas usam processo evolutivo contra Aedes aegypti
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cientistas da Universidade Federal do Paraná (UFPR) conseguiram usar o próprio processo de evolução das espécies para bloquear o sistema sensorial do mosquito *Aedes aegypti*, causador de doenças como a dengue. A estratégia foi desenvolvida por pesquisadores do Laboratório de Ecologia Química e Síntese de Produtos Naturais (Lecosin), da UFPR.
 

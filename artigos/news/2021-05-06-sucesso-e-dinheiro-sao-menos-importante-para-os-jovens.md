@@ -1,11 +1,12 @@
 ---
-title: "Sucesso e dinheiro são menos importante para os jovens"
+title: Sucesso e dinheiro são menos importante para os jovens
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Novo comportamento, que valoriza a busca do significado na vida e na carreira, deve nortear a Educação das próximas gerações.
 

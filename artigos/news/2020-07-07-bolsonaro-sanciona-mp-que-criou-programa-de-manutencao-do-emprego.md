@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona MP que criou programa de manutenção do emprego"
+title: Bolsonaro sanciona MP que criou programa de manutenção do emprego
 date: 2020-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida prevê suspensão de contratos e redução de jornada e salários.
 

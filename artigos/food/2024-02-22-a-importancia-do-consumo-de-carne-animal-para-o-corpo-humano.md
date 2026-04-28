@@ -1,12 +1,13 @@
 ---
-title: "A Importância do Consumo de Carne Animal para o Corpo Humano"
+title: A Importância do Consumo de Carne Animal para o Corpo Humano
 date: 2024-02-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
-  - Science
+- Food
+- Science
 ---
+
 
 O consumo de carne animal tem sido uma parte fundamental da dieta humana ao longo da história, proporcionando uma fonte rica e essencial de nutrientes necessários para a saúde e o bem-estar. Embora existam debates sobre as práticas de produção e os impactos ambientais associados à indústria pecuária, é inegável que a carne animal oferece uma variedade de benefícios nutricionais que são vitais para o funcionamento adequado do corpo humano.
 

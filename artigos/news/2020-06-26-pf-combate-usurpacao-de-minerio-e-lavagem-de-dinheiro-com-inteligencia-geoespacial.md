@@ -1,11 +1,12 @@
 ---
-title: "PF combate usurpação de minério e lavagem de dinheiro com Inteligência Geoespacial"
+title: PF combate usurpação de minério e lavagem de dinheiro com Inteligência Geoespacial
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN - A Polícia Federal deflagrou na manhã desta sexta-feira, 26/6, a Operação Siroco*, com o objetivo de apurar usurpação de minério, lavagem de capitais e crimes ambientais.
 

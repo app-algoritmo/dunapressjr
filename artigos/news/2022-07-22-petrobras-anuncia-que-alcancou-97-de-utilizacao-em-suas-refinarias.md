@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia que alcançou 97% de utilização em suas refinarias"
+title: Petrobras anuncia que alcançou 97% de utilização em suas refinarias
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dado consta em relatório referente ao segundo trimestre.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça A Amazônia Legal: Acre"
+title: 'Série Conheça A Amazônia Legal: Acre'
 date: 2021-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O Acre é a união da tradição com a modernidade na construção do desenvolvimento humano e considerado uma sociedade única de preservação de valores e costumes da "Florestania", que são os princípios de respeito ao meio ambiente e à multiplicidade sociocultural. E sendo a maior biodiversidade da Terra, com seus 16 milhões de hectares de floresta tropical, metade dos seus habitantes mora nas florestas. Dentre eles estão índios e donos de reservas indígenas das mais diferentes etnias.
 

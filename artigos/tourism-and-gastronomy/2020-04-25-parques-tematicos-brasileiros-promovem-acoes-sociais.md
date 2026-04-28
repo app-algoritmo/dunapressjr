@@ -1,11 +1,12 @@
 ---
-title: "Parques temáticos brasileiros, promovem ações sociais"
+title: Parques temáticos brasileiros, promovem ações sociais
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Com os portões fechados por causa da pandemia de Covid-19, vários parques temáticos do Brasil estão promovendo ações sociais para auxiliar quem está mais vulnerável neste momento de dificuldades. As campanhas vão desde a arrecadação de alimentos e doação de sangue até a destinação de parte dos recursos obtidos com ingressos para comunidades próximas. Essas iniciativas se somam às medidas adotadas pelo Ministério do Turismo para diminuir os impactos do novo coronavírus no setor.
 

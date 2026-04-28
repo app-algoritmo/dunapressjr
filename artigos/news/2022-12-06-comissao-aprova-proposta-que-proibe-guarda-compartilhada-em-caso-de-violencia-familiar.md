@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que proíbe guarda compartilhada em caso de violência familiar"
+title: Comissão aprova proposta que proíbe guarda compartilhada em caso de violência
+  familiar
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou proposta que proíbe a guarda compartilhada nos casos em que um dos pais pratica violência contra o outro ou contra o filho e mesmo em casos de indícios ou risco de isso ocorrer. O texto aprovado altera o [Código Civil](https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-publicacaooriginal-1-pl.html) e o [Código de Processo Civil](https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-norma-pl.html).
 

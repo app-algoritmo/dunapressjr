@@ -1,11 +1,12 @@
 ---
-title: "STF inicia votação sobre alterações na Lei de Improbidade"
+title: STF inicia votação sobre alterações na Lei de Improbidade
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Moraes votou contra usar lei para beneficiar quem já foi condenado.
 

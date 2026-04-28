@@ -1,12 +1,13 @@
 ---
-title: "O princípio da distribuição do poder"
+title: O princípio da distribuição do poder
 date: 2022-03-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 O princípio da distribuição do poder, ou apenas a distribuição do poder, é um princípio político e jurídico que afirma que o poder do Estado deve ser distribuído entre três instituições independentes : um legislativo , um executivo e um judiciário. O princípio da distribuição do poder está consagrado nas constituições de muitos países , incluindo a Constituição norueguesa. No entanto, existem grandes diferenças entre os países quando se trata de como o poder é realmente dividido entre um parlamento legislativo, um governo executivo e o judiciário.
 

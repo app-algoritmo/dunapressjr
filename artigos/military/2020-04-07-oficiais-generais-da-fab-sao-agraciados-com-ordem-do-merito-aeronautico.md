@@ -1,11 +1,12 @@
 ---
-title: "Oficiais-Generais da FAB são agraciados com Ordem do Mérito Aeronáutico"
+title: Oficiais-Generais da FAB são agraciados com Ordem do Mérito Aeronáutico
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) realizou, nesta segunda-feira (06), em Brasília (DF), a cerimônia de imposição da Comenda da Ordem do Mérito Aeronáutico (OMA), no grau Grã-Cruz, ao futuro Diretor-Geral do Departamento de Controle do Espaço Aéreo, Tenente-Brigadeiro do Ar Heraldo Luiz Rodrigues, e ao Chefe de Logística e Mobilização do Estado-Maior Conjunto das Forças Armadas, Tenente-Brigadeiro do Ar João Tadeu Fiorentini. A solenidade foi presidida pelo Ministro da Defesa, Fernando Azevedo e Silva, acompanhado do Comandante da Aeronáutica, Tenente-Brigadeiro do Ar Antonio Carlos Moretti Bermudez.
 

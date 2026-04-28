@@ -1,12 +1,13 @@
 ---
-title: "Fazendo as melhores apostas na Copa 2022 com a Betano"
+title: Fazendo as melhores apostas na Copa 2022 com a Betano
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## Um dos maiores espetáculos esportivos do planeta já iniciou! Mais de 3 bilhões de fãs assistem ao torneio. 
 

@@ -1,12 +1,14 @@
 ---
-title: "Campeões em 2022, Melo e McDonald estreiam nesta terça-feira (17) no ATP 500 de Tóquio"
+title: Campeões em 2022, Melo e McDonald estreiam nesta terça-feira (17) no ATP 500
+  de Tóquio
 date: 2023-10-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Mineiro e norte-americano voltam a jogar juntos no Japão, defendendo o título. No ano passado, venceram no primeiro torneio disputado pela parceria. Partida será por volta das 6h30 (horário de Brasília), diante dos cabeças 4, os belgas Gille e Vliegen.
 

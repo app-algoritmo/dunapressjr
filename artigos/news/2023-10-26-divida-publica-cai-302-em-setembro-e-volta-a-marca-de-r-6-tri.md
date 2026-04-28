@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública cai 3,02% em setembro e volta à marca de R$ 6 tri"
+title: Dívida Pública cai 3,02% em setembro e volta à marca de R$ 6 tri
 date: 2023-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alto volume de vencimento de títulos contribuiu para queda.
 

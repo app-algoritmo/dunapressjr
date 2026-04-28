@@ -1,11 +1,13 @@
 ---
-title: "A 'dupla' Maia e Alcolumbre criticam em nota conjunta postura do Presidente Bolsonaro contra isolamento social"
+title: A 'dupla' Maia e Alcolumbre criticam em nota conjunta postura do Presidente
+  Bolsonaro contra isolamento social
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os presidentes do Senado e da Câmara divulgaram a nota conjunta, após a demissão de Mandetta do Ministério da Saúde. No documento, os presidentes da Câmara e do Senado lamentam a demissão de Luiz Henrique Mandetta do Ministério da Saúde.
 

@@ -1,11 +1,12 @@
 ---
-title: "CMN aprova condições das linhas de crédito do Plano Safra 2022/2023"
+title: CMN aprova condições das linhas de crédito do Plano Safra 2022/2023
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Governo disponibilizará R$ 340,8 bilhões em crédito para o agronegócio.
 

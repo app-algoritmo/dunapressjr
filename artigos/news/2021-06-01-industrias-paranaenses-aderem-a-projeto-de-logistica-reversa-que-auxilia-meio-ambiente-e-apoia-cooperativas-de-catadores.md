@@ -1,11 +1,13 @@
 ---
-title: "Indústrias paranaenses aderem a projeto de logística reversa que auxilia meio ambiente e apoia cooperativas de catadores"
+title: Indústrias paranaenses aderem a projeto de logística reversa que auxilia meio
+  ambiente e apoia cooperativas de catadores
 date: 2021-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Embaladas pela crescente discussão sobre temas como sustentabilidade, ESG e otimização de recursos, indústrias brasileiras têm buscado, com uma força ainda maior durante a pandemia, alinhar suas operações e valores para que o respeito à natureza seja um dos grandes pilares em suas rotinas. Muitas delas, inclusive, têm arranjado formas de compensar o meio ambiente por meio de iniciativas da logística reversa, sistema que visa reinserir os resíduos sólidos pós-consumo em novos ciclos de produção. A ação busca reaproveitar, descartar apropriadamente os resíduos gerados em suas fábricas e, até mesmo, compensar a sociedade pelo uso de materiais renováveis. 
 

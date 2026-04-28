@@ -1,12 +1,14 @@
 ---
-title: "Atletas da Federação Paranaense de Hipismo passam a contar com patrocínio para apoiar participação em competições"
+title: Atletas da Federação Paranaense de Hipismo passam a contar com patrocínio para
+  apoiar participação em competições
 date: 2023-08-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - Sports
+- Health
+- Sports
 ---
+
 
 ## Desde 2016, equipes não tinham apoio de marcas; Neodent, empresa paranaense que já patrocina os times de futebol da capital, investe em mais uma modalidade esportiva do estado.
 

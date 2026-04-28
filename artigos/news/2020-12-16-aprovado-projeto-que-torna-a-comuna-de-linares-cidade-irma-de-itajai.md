@@ -1,11 +1,12 @@
 ---
-title: "Aprovado projeto que torna a Comuna de Linares cidade-irmã de Itajaí"
+title: Aprovado projeto que torna a Comuna de Linares cidade-irmã de Itajaí
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aprovado em segunda votação, com 20 votos favoráveis, o [Projeto de Lei Ordinária nº 16/2020](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria16_2020.pdf), que declara a Comuna de Linares, Região de Maule, na República do Chile, cidade-irmã de Itajaí. O objetivo é aproximar as duas cidades mediante o intercâmbio de informações de interesse mútuo.
  

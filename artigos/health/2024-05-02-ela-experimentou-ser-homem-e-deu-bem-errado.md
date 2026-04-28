@@ -1,11 +1,12 @@
 ---
-title: "Ela experimentou ser homem e deu bem errado"
+title: Ela experimentou ser homem e deu bem errado
 date: 2024-05-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 **[Norah Vincent](https://en.wikipedia.org/wiki/Norah_Vincent)**, uma escritora e jornalista norte-americana conhecida por sua abordagem única e corajosa na exploração das complexidades da identidade e da sociedade, faleceu aos 53 anos. Sua morte, em 18 de agosto de 2022, marcou o fim de uma vida marcada por explorações audaciosas e contribuições significativas para o mundo da literatura e do jornalismo.
 

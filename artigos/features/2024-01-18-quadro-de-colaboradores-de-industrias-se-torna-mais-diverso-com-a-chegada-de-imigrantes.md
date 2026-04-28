@@ -1,11 +1,13 @@
 ---
-title: "Quadro de colaboradores de indústrias se torna mais diverso com a chegada de imigrantes"
+title: Quadro de colaboradores de indústrias se torna mais diverso com a chegada de
+  imigrantes
 date: 2024-01-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Maior escolaridade e menor índice de demissões são características dessa força de trabalho que vem aumentando em todo país.
 

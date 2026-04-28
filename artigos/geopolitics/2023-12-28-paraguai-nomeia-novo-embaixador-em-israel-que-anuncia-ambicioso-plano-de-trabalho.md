@@ -1,11 +1,12 @@
 ---
-title: "Paraguai nomeia novo embaixador em Israel que anuncia “ambicioso plano de trabalho”"
+title: Paraguai nomeia novo embaixador em Israel que anuncia “ambicioso plano de trabalho”
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Poder Executivo publicou o decreto 925 pelo qual nomeia o senhor Alejandro Rubín Cymerman como embaixador extraordinário e plenipotenciário junto ao governo do Estado de Israel. O diplomata anunciou um ambicioso plano de trabalho centrado na diplomacia económica.
 

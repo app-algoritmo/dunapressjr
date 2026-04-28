@@ -1,11 +1,12 @@
 ---
-title: "Governo eleva previsão de superávit primário em 2022 para R$ 34,14 bi"
+title: Governo eleva previsão de superávit primário em 2022 para R$ 34,14 bi
 date: 2022-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa consta de edição extra do Relatório de Receitas e Despesas.
 

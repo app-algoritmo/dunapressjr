@@ -1,11 +1,12 @@
 ---
-title: "Marcha da Vida é adiada por causa do coronavírus"
+title: Marcha da Vida é adiada por causa do coronavírus
 date: 2020-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os organizadores da Marcha da Vida anunciaram que a homenagem deste ano, na Polônia, às vítimas do Holocausto será adiada devido ao surto de coronavírus.
 

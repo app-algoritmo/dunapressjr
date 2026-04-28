@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A “saturação das consciências revolucionárias”"
+title: 'Série Fatos Da Independência: A “saturação das consciências revolucionárias”'
 date: 2023-10-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A “saturação das consciências revolucionárias” não se deu da noite para o dia. As questões que eclodiram em março de 1817 vinham de longa data. A partir de 1756, a capitania da Paraíba passou boa parte do século XVIII anexada à de Pernambuco. Essa subordinação política e administrativa serviu somente para intensificar o cenário de crise generalizada pela qual a Paraíba passava. A anexação impôs dificuldades enormes aos governadores da capitania, que enfrentavam a constante falta de recursos monetários provenientes da arrecadação de tributos, enviados diretamente para Pernambuco. Eram frequentes as reclamações dos administradores coloniais sobre as falhas da capitania vizinha em repassar a parte que lhes competia.
 

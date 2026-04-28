@@ -1,11 +1,12 @@
 ---
-title: "Revista Brasileira de Execução Penal do Depen Publica dossiê"
+title: Revista Brasileira de Execução Penal do Depen Publica dossiê
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 27/02/2020 -** A Revista Brasileira de Execução Penal (RBEP) do
 Departamento Penitenciário Nacional (Depen), anuncia a publicação do Dossiê

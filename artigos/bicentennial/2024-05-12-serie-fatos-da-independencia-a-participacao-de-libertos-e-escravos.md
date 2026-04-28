@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A participação de libertos e escravos"
+title: 'Série Fatos Da Independência: A participação de libertos e escravos'
 date: 2024-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Nos primeiros meses dos conflitos na Bahia, a grande maioria das adesões para lutar na guerra foram voluntárias. Ao término de 1822, esse cenário mudou e a necessidade de recrutamento forçado começou a ser considerada, inclusive com o uso de violência, sobre os resistentes em atender “os clamores da mesma pátria”. Em outubro desse ano, o mercenário Pierre Labatut, contratado por d. Pedro para o comando geral das tropas, chegou ao Recôncavo e estabeleceu seu comando militar no Engenho Novo. A falta de homens para compor as tropas o levou a insistir junto ao Conselho Interino pelo recrutamento de pretos libertos, assim como pela contribuição voluntária de escravizados por parte dos senhores de engenho. O Conselho relutava em armar esses homens, mas a composição das fileiras acabou alterada com a inclusão de pretos e pardos. Estes foram recebidos como uma ameaça a posição dos outros soldados, identificados como homens livres e não negros, e provocaram terror entre os donos de engenho, temerosos de armá-los e depois se verem às voltas com um levante.
 

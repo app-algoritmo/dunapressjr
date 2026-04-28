@@ -1,11 +1,13 @@
 ---
-title: "A EPA aprova o pesticida cloreto de clormequat para as culturas de trigo, cevada e aveia, colocando em risco a reprodução humana e de mamíferos"
+title: A EPA aprova o pesticida cloreto de clormequat para as culturas de trigo, cevada
+  e aveia, colocando em risco a reprodução humana e de mamíferos
 date: 2023-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 A Agência de Proteção Ambiental (EPA) está [facilitando um novo experimento químico](https://childrenshealthdefense.org/defender/chlormequat-chloride-pesticides-kids-food-epa/) nas culturas de trigo, cevada e aveia nos Estados Unidos. Pela primeira vez, a EPA aprovou a aplicação generalizada de cloreto de clormequat – um pesticida/retardador de crescimento que tem um perfil tóxico para aves, mamíferos e reprodução humana.
 

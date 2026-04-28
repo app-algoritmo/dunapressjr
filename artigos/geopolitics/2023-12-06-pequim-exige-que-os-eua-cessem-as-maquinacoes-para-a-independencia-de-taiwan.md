@@ -1,11 +1,12 @@
 ---
-title: "Pequim exige que os EUA cessem as maquinações para a “independência de Taiwan”"
+title: Pequim exige que os EUA cessem as maquinações para a “independência de Taiwan”
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Segundo Wang Yi, Pequim não tolerará quaisquer atividades separatistas por parte das forças pró-independência se ousarem assumir o risco e provocarem incidentes destinados a alcançar a "independência de Taiwan".
 

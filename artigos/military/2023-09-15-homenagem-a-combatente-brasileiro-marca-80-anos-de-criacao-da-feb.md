@@ -1,11 +1,12 @@
 ---
-title: "Homenagem a combatente brasileiro marca 80 anos de criação da FEB"
+title: Homenagem a combatente brasileiro marca 80 anos de criação da FEB
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No contexto da comemoração dos 80 anos de criação da Força Expedicionária Brasileira (FEB), durante a Segunda Guerra Mundial, uma emocionante homenagem foi realizada na capital do País. O evento, que ocorreu no dia 09 de setembro de 2023, foi marcado por momentos de profundo respeito e reconhecimento à história de um herói da FEB, o Tenente-Coronel **Nestor da Silva**.
 

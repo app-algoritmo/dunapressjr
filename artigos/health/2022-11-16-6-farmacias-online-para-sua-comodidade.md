@@ -1,11 +1,12 @@
 ---
-title: "6 farmácias online para sua comodidade"
+title: 6 farmácias online para sua comodidade
 date: 2022-11-16
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Você está em casa, precisando de um medicamento e não quer ir até uma farmácia para comprá-lo. As farmácias online são a melhor opção principalmente em casos como esse, quando não estamos passando bem e não queremos nem levantar do sofá. Mas com tantas opções na internet, às vezes fica difícil escolher em qual comprar. 
 

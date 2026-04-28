@@ -1,10 +1,11 @@
 ---
-title: "População brasileira conta com a transformação digital de 858 serviços"
+title: População brasileira conta com a transformação digital de 858 serviços
 date: 2026-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 

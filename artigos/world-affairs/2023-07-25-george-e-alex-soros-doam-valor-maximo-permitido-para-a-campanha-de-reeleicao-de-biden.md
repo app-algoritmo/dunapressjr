@@ -1,11 +1,13 @@
 ---
-title: "George e Alex Soros doam valor máximo permitido para a campanha de reeleição de Biden"
+title: George e Alex Soros doam valor máximo permitido para a campanha de reeleição
+  de Biden
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Open Society Foundation da família Soros fez doações totalizando US$ 19 bilhões desde sua criação em 1979 para promover políticas neoliberais e seculares.
 

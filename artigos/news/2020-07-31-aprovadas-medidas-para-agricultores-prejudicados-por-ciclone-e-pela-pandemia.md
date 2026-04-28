@@ -1,11 +1,12 @@
 ---
-title: "Aprovadas medidas para agricultores prejudicados por ciclone e pela pandemia"
+title: Aprovadas medidas para agricultores prejudicados por ciclone e pela pandemia
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Também foram aprovadas resoluções sobre crédito para agroindústria familiar, valor base para os preços do algodão e renegociação para agricultores atingidos pela estiagem.
 

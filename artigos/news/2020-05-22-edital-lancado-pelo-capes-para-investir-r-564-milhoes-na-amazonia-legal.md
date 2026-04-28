@@ -1,11 +1,12 @@
 ---
-title: "Edital lançado pelo Capes para investir R$ 56,4 milhões na Amazônia Legal"
+title: Edital lançado pelo Capes para investir R$ 56,4 milhões na Amazônia Legal
 date: 2020-05-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), vinculada ao Ministério da Educação (MEC), lançou nesta terça-feira, 19 de maio, um [edital](https://www.capes.gov.br/images/novo_portal/editais/editais/19052020_Edital_13_2020.pdf) do Programa de Desenvolvimento da Pós-Graduação na Amazônia Legal de incentivo a propostas de pesquisas em áreas estratégicas da região. Serão investidos até R$ 56,4 milhões em até 90 projetos de consolidação da pós-graduação nos estados da Região Norte, Maranhão e Mato Grosso.
 

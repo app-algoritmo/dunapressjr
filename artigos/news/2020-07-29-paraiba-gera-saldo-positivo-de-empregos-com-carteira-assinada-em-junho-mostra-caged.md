@@ -1,11 +1,13 @@
 ---
-title: "Paraíba gera saldo positivo de empregos com carteira assinada em junho, mostra Caged"
+title: Paraíba gera saldo positivo de empregos com carteira assinada em junho, mostra
+  Caged
 date: 2020-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No país, o mês de junho manteve o saldo negativo pelo quarto mês.
 

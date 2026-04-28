@@ -1,11 +1,13 @@
 ---
-title: "A Perfídia na Operação 8 de Janeiro de Brasília: Um Escândalo na História Contemporânea do Brasil"
+title: 'A Perfídia na Operação 8 de Janeiro de Brasília: Um Escândalo na História
+  Contemporânea do Brasil'
 date: 2024-04-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A **[Operação 8 de Janeiro de Brasília](https://dunapress.org/2024/01/08/8-de-janeiro-superlive-da-verdade-revela-os-bastidores-da-manifestacao-que-marcou-o-fim-do-estado-de-direito-no-brasil/)**, ocorrida em 2023, entrou para a história como um dos episódios mais controversos e lamentáveis da história recente do Brasil. Este evento não apenas destacou o uso da perfídia em contextos militares e de segurança, mas também gerou indignação e críticas generalizadas devido às suas consequências devastadoras.
 

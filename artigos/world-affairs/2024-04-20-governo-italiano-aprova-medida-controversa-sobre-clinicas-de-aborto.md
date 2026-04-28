@@ -1,11 +1,12 @@
 ---
-title: "Governo Italiano Aprova Medida Controversa sobre Clínicas de Aborto"
+title: Governo Italiano Aprova Medida Controversa sobre Clínicas de Aborto
 date: 2024-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Esta semana, o governo italiano liderado por Giorgia Meloni aprovou um pacote de alterações para a recepção de fundos europeus pós-pandemia, incluindo uma medida controversa que permite a participação de associações pró-vida em clínicas de aborto. A proposta foi aprovada terça-feira na Câmara dos Deputados, com 185 votos a favor, 115 contra e quatro abstenções, e será financiada pelo Fundo de Recuperação Pós-Pandemia da UE, do qual a Itália é o maior beneficiário, com 191 mil milhões de euros.
 

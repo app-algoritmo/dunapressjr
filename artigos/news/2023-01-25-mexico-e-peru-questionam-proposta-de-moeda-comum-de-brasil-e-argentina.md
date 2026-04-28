@@ -1,11 +1,12 @@
 ---
-title: "México e Peru questionam proposta de moeda comum de Brasil e Argentina"
+title: México e Peru questionam proposta de moeda comum de Brasil e Argentina
 date: 2023-01-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Autoridades do México e do Peru questionaram a proposta de moeda comum lançada pelos presidentes do Brasil e da Argentina.
 

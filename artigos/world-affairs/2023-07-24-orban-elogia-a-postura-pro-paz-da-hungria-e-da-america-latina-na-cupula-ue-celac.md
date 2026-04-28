@@ -1,11 +1,12 @@
 ---
-title: "Orbán elogia a postura pró-paz da Hungria e da América Latina na cúpula UE-CELAC"
+title: Orbán elogia a postura pró-paz da Hungria e da América Latina na cúpula UE-CELAC
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro húngaro, Viktor Orbán, anunciou no Facebook na terça-feira que a Hungria e a América Latina estão adotando uma postura pró-paz no conflito entre a Ucrânia e a Rússia e querem acabar com a guerra o mais rápido possível.
 

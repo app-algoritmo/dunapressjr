@@ -1,11 +1,12 @@
 ---
-title: "O Povo Sempre Vence"
+title: O Povo Sempre Vence
 date: 2024-08-06
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Surpreende a reação da sociedade na Venezuela, que tem ido às ruas para apoiar a vitória do candidato de oposição, Edmundo Gonzalez, diante da clara fraude eleitoral que aconteceu naquele país. Cidadãos estão monitorando todas as seções eleitorais e confrontando os resultados divulgados pelo Conselho Nacional Eleitoral, manipulado pelo ditador.
 

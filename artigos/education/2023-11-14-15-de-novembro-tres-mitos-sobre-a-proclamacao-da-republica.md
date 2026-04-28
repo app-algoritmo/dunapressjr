@@ -1,11 +1,12 @@
 ---
-title: "15 de novembro: três mitos sobre a Proclamação da República"
+title: '15 de novembro: três mitos sobre a Proclamação da República'
 date: 2023-11-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## A construção da narrativa em torno dos eventos históricos, não apenas no Brasil, mas em todo o mundo, está sempre sujeita às lentes dos protagonistas. No caso da Proclamação da República Brasileira de 1889, que marcou o fim do regime monárquico no país, não é diferente.
 

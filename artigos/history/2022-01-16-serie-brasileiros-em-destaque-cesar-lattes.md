@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: César Lattes"
+title: 'Série Brasileiros em Destaque: César Lattes'
 date: 2022-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Físico.
 

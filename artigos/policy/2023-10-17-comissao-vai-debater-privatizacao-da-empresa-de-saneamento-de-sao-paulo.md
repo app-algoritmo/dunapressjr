@@ -1,11 +1,12 @@
 ---
-title: "Comissão vai debater privatização da empresa de saneamento de São Paulo"
+title: Comissão vai debater privatização da empresa de saneamento de São Paulo
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Guilherme Boulos é o autor do requerimento para a realização da audiência
 

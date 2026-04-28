@@ -1,11 +1,13 @@
 ---
-title: "Verificação de dados pelo Inep verifica quanto ao declarado ao Censo da Educação Superior"
+title: Verificação de dados pelo Inep verifica quanto ao declarado ao Censo da Educação
+  Superior
 date: 2020-07-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Equipes técnicas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) realizam verificações dos dados declarados ao Censo da Educação Superior 2019 em 11 instituições de educação superior. Em razão da pandemia de COVID-19, as verificações são realizadas por meio de videoconferência. A ação ocorre desde o dia 15 de julho e termina nesta quinta-feira, 23.
 

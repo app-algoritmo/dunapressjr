@@ -1,11 +1,13 @@
 ---
-title: "Comitê da Câmara dos EUA decide intensificar inquérito para impeachment de Trump"
+title: Comitê da Câmara dos EUA decide intensificar inquérito para impeachment de
+  Trump
 date: 2019-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Um inquérito mais agressivo também pode aumentar a pressão sobre líderes democratas da Câmara. 
 

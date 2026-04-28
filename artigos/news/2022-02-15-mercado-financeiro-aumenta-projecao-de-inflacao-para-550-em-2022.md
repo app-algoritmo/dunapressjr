@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta projeção de inflação para 5,50% em 2022"
+title: Mercado financeiro aumenta projeção de inflação para 5,50% em 2022
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a quinta vez que o mercado aumenta a estimativa.
 

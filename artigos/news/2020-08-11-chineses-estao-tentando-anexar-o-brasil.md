@@ -1,11 +1,12 @@
 ---
-title: "Chineses estão tentando anexar o Brasil"
+title: Chineses estão tentando anexar o Brasil
 date: 2020-08-11
 status: publish
-author: pmbizz
+author: Paulo Mello
 categories:
-  - News
+- News
 ---
+
 
 Precisamos desenvolver ao máximo nosso senso de patriotismo e evitar que chineses tomem o controle de nosso país. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo prepara fiscais para evitar novas tragédias em barragens"
+title: Governo prepara fiscais para evitar novas tragédias em barragens
 date: 2019-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Ricardo Salles disse que eles atuarão na Agência Nacional de Mineração*
 

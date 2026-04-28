@@ -1,11 +1,12 @@
 ---
-title: "Um em cada três brasileiros já tem conta na plataforma Gov.Br"
+title: Um em cada três brasileiros já tem conta na plataforma Gov.Br
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 70 milhões de brasileiros usam serviços digitais do Governo Federal.
 

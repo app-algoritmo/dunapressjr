@@ -1,11 +1,12 @@
 ---
-title: "Adaptação humanizada: como ajudar as crianças na volta às aulas"
+title: 'Adaptação humanizada: como ajudar as crianças na volta às aulas'
 date: 2023-08-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Acolhimento, carinho e atenção fazem parte desse processo e trazem segurança para estudantes.
 

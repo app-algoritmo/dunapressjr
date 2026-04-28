@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Comitê de Investigação Russo denuncia fornecimento de armas ocidentais à Ucrânia como violação do direito internacional"
+title: Presidente do Comitê de Investigação Russo denuncia fornecimento de armas ocidentais
+  à Ucrânia como violação do direito internacional
 date: 2024-02-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em entrevista à TASS, o presidente do Comitê de Investigação Russo, Alexander Bastrykin, criticou veementemente o aumento do fornecimento de armas pelos países ocidentais à Ucrânia, descrevendo-o como uma clara violação do direito internacional.
 

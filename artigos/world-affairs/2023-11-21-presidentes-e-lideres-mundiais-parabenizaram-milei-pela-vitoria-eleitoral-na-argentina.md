@@ -1,11 +1,13 @@
 ---
-title: "Presidentes e líderes mundiais parabenizaram Milei pela vitória eleitoral na Argentina"
+title: Presidentes e líderes mundiais parabenizaram Milei pela vitória eleitoral na
+  Argentina
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ***O líder libert***ário venceu por quase 12 pontos o atual ministro da Economia, Sergio Massa. A mensagem dos líderes da comunidade internacional nas redes sociais.
 

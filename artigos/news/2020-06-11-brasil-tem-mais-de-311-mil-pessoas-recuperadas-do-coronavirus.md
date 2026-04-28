@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem mais de 311 mil pessoas recuperadas do coronavírus"
+title: Brasil tem mais de 311 mil pessoas recuperadas do coronavírus
 date: 2020-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As informações são repassadas pelas Secretarias Estaduais de Saúde e consolidadas pelo Ministério da Saúde. Ministério da Saúde checa os dados e consolida todas as informações, que são publicadas nos sistemas oficiais e plataformas.
 

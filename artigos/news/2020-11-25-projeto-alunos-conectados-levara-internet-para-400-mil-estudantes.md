@@ -1,11 +1,12 @@
 ---
-title: "Projeto Alunos Conectados levará internet para 400 mil estudantes"
+title: Projeto Alunos Conectados levará internet para 400 mil estudantes
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Se, no início deste ano, alguém contasse para a estudante Daiane Brabo que ela precisaria cursar o terceiro e último semestre do curso Técnico em Agropecuária, no Instituto Federal do Pará (IFPA), remotamente, assistindo aulas pelo celular, ela ficaria não apenas surpresa, mas preocupada. A jovem paraense, de 22 anos, filha de agricultores familiares, não tem internet em casa e não poderia ter acesso aos conteúdos educacionais fornecidos. “Sou de família muito pobre, a gente não tem condição de instalar Wi-Fi em casa nem de colocar crédito no telefone toda semana”, explica.
 

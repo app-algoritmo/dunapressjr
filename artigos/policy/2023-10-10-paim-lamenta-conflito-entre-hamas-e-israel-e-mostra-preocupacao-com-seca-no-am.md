@@ -1,11 +1,13 @@
 ---
-title: "Paim lamenta conflito entre Hamas e Israel e mostra preocupação com seca no AM"
+title: Paim lamenta conflito entre Hamas e Israel e mostra preocupação com seca no
+  AM
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) prestou solidariedade às vítimas do conflito no Oriente Médio que se instalou no último sábado (7). O Hamas, grupo palestino que controla a Faixa de Gaza, provocou atentados no território de Israel, que revidou e declarou guerra. Durante a sessão plenária desta segunda-feira (9), na qualidade de presidente da Comissão de Direitos Humanos, o senador lamentou as mortes. 
 

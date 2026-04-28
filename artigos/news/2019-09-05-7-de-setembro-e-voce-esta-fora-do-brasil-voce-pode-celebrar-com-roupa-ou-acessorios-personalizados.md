@@ -1,11 +1,13 @@
 ---
-title: "7 de setembro e você está fora do Brasil? Você pode celebrar com roupa ou acessórios personalizados!"
+title: 7 de setembro e você está fora do Brasil? Você pode celebrar com roupa ou acessórios
+  personalizados!
 date: 2019-09-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O dia mais importante do Brasil está chegando: 7 de setembro e **Duna Made For You** tem o que você precisa para celebrar a data aonde quer que você esteja. A festa da independência é a mais importante do país, por isso, deve ser comemorada por todas as comunidades de brasileiros.
 

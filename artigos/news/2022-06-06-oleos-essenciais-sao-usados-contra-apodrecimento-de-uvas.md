@@ -1,11 +1,12 @@
 ---
-title: "Óleos essenciais são usados contra apodrecimento de uvas"
+title: Óleos essenciais são usados contra apodrecimento de uvas
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vanessa Caroline Lopes, engenheira agrônoma formada pela Universidade Federal de São Carlos (UFSCar), é mestre pelo Programa de Pós-Graduação em Agricultura Tropical e Subtropical do Instituto Agronômico de Campinas (IAC). Com bolsa de Demanda Social da CAPES, ela pesquisou o uso de óleos essenciais para o controle de podridões em pós-colheita de uva ‘Itália”.
 

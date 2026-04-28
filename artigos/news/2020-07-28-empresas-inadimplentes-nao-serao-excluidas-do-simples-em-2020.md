@@ -1,11 +1,12 @@
 ---
-title: "Empresas inadimplentes não serão excluídas do Simples em 2020"
+title: Empresas inadimplentes não serão excluídas do Simples em 2020
 date: 2020-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida ajuda pequenos negócios afetados por pandemia.
 

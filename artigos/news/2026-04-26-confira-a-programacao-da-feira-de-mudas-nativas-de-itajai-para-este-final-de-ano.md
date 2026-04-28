@@ -1,11 +1,13 @@
 ---
-title: "Confira a programação da Feira de Mudas Nativas de Itajaí para este final de ano"
+title: Confira a programação da Feira de Mudas Nativas de Itajaí para este final de
+  ano
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Viveiro Municipal de Itajaí informa que a Feira de Doação de Mudas Nativas prossegue até o dia 30 de dezembro. A ação gratuita, coordenada pelo Instituto Itajaí Sustentável (INIS), ocorre na sede do Viveiro, na rua Osvaldo Bertemes, 144, bairro Fazenda. Nestas últimas semanas do mês, as doações serão feitas de segunda a quarta-feira, das 8h às 12h e das 13h às 17h.
 

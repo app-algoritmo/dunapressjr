@@ -1,11 +1,12 @@
 ---
-title: "Caixa estende horário de atendimento nesta sexta-feira e abre no sábado"
+title: Caixa estende horário de atendimento nesta sexta-feira e abre no sábado
 date: 2019-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo a Caixa, cerca de 33 milhões de trabalhadores receberão o crédito automático na conta poupança. 
 

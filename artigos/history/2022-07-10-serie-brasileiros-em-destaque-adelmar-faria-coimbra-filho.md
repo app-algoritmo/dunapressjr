@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Adelmar Faria Coimbra-Filho"
+title: 'Série Brasileiros em Destaque: Adelmar Faria Coimbra-Filho'
 date: 2022-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Adelmar Faria Coimbra Filho nasceu em Fortaleza, em 4 de junho de 1924, mas passou sua infância em Recife, Pernambuco. Aos 12 anos, mudou-se para o Rio de Janeiro com sua família. Em 1944, Coimbra-Filho ingressou no curso de técnico agrícola da Escola Superior de Agricultura e Veterinária de Viçosa, Minas Gerais. Iniciou a vida profissional em 1947, atuando em diversos campos da investigação científica, notadamente na Primatologia, Biologia de Vertebrados, Biogeografia e Conservação de Ecossistemas Naturais.
 

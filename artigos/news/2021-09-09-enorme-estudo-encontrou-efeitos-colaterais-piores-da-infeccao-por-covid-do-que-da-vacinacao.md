@@ -1,11 +1,13 @@
 ---
-title: "Enorme estudo encontrou efeitos colaterais piores da infecção por COVID do que da vacinação"
+title: Enorme estudo encontrou efeitos colaterais piores da infecção por COVID do
+  que da vacinação
 date: 2021-09-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O estudo acompanhou 2 milhões de membros do fundo de saúde Clalit. Resultados significativamente piores (incluindo miocárdio) para infectados vs. vacinados.
 

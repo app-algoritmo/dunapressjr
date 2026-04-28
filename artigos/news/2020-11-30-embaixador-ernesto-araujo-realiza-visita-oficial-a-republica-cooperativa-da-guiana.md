@@ -1,11 +1,13 @@
 ---
-title: "Embaixador Ernesto Araújo realiza visita oficial à República Cooperativa da Guiana"
+title: Embaixador Ernesto Araújo realiza visita oficial à República Cooperativa da
+  Guiana
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sua Excelência Ernesto Araújo, Ministro das Relações Exteriores da República Federativa do Brasil, realizou visita de trabalho à Guiana. O Ministro estava acompanhado por altos funcionários do Ministério das Relações Exteriores e da Polícia Federal do Brasil.
 

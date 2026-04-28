@@ -1,11 +1,13 @@
 ---
-title: "Cidadãos poderão assinar documentos e validar transações com o governo de forma eletrônica"
+title: Cidadãos poderão assinar documentos e validar transações com o governo de forma
+  eletrônica
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A relação do Governo com a sociedade já é digital e agora ficará ainda mais ágil e segura. Nesta segunda-feira (16), foi publicado no Diário Oficial da União o [Decreto nº 10.543](https://www.in.gov.br/en/web/dou/-/decreto-n-10.543-de-13-de-novembro-de-2020-288224831), que regulamenta os níveis, as categorias e as condições de uso e aceitação das assinaturas eletrônicas de documentos pelos cidadãos e órgãos da Administração Pública Federal. Segundo a norma, os órgãos deverão descrever em cada serviço público ofertado, até o dia 1º de julho de 2021, o nível exigido de assinatura eletrônica, garantindo a devida transparência para o cidadão.
 

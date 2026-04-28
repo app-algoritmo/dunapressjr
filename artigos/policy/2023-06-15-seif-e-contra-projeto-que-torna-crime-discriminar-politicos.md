@@ -1,11 +1,12 @@
 ---
-title: "Seif é contra projeto que torna crime discriminar políticos"
+title: Seif é contra projeto que torna crime discriminar políticos
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) protestou, em pronunciamento nesta quinta-feira (15), contra projeto de lei que tipifica crimes de discriminação a pessoas politicamente expostas. O [PL 2.720/2023](https://www.camara.leg.br/propostas-legislativas/2364109) foi aprovado na Câmara dos Deputados na quarta-feira (14) e será enviado ao Senado. 
 

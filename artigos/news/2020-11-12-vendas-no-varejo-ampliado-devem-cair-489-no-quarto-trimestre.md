@@ -1,11 +1,12 @@
 ---
-title: "Vendas no varejo ampliado devem cair 4,89% no quarto trimestre"
+title: Vendas no varejo ampliado devem cair 4,89% no quarto trimestre
 date: 2020-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Neste ano, as vendas devem registrar uma retração de 9,35%, diz IBEVAR.
 

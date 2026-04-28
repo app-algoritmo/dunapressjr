@@ -1,11 +1,12 @@
 ---
-title: "Qualquer ataque ao país terá uma resposta decisiva, diz enviado do Irã na ONU"
+title: Qualquer ataque ao país terá uma resposta decisiva, diz enviado do Irã na ONU
 date: 2024-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O representante permanente e embaixador do Irã nas Nações Unidas emitiu um aviso severo, dizendo que a República Islâmica responderia de forma decisiva a qualquer ataque ao país, aos seus interesses e aos seus cidadãos, sob quaisquer pretextos.
 

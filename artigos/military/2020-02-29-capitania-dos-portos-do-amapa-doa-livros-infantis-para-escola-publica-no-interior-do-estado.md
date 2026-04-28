@@ -1,11 +1,13 @@
 ---
-title: "Capitania dos Portos do Amapá doa livros infantis para escola pública no interior do estado"
+title: Capitania dos Portos do Amapá doa livros infantis para escola pública no interior
+  do estado
 date: 2020-02-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Marinha do Brasil, por meio da Capitania
 dos Portos do Amapá (CPAP), realizou, no dia 21 de fevereiro, a entrega de

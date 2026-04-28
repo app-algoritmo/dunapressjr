@@ -1,11 +1,12 @@
 ---
-title: "Hábitos saudáveis ajudam a prevenir a hipertensão"
+title: Hábitos saudáveis ajudam a prevenir a hipertensão
 date: 2021-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No Dia Nacional de Combate à Hipertensão, 26 de abril, o Ministério da Saúde chama a atenção da população para a importância de hábitos saudáveis como forma de prevenção e controle da pressão alta, como a doença é popularmente conhecida. O consumo excessivo de sal, o tabagismo e, somado a isso, o consumo de álcool e o sedentarismo são fatores de risco associados à hipertensão, que atinge um a cada quatro brasileiros adultos.
 

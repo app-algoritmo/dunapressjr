@@ -1,11 +1,13 @@
 ---
-title: "A CIA, que comanda a Ucrânia, frustra Biden quando ele diz que não há forças terrestres"
+title: A CIA, que comanda a Ucrânia, frustra Biden quando ele diz que não há forças
+  terrestres
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **A Ucrânia é o marco zero para as origens fascistas da CIA**.
 

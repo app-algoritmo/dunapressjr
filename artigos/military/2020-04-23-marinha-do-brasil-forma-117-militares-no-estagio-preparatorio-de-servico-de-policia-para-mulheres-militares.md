@@ -1,11 +1,13 @@
 ---
-title: "Marinha do Brasil forma 117 militares no Estágio Preparatório de Serviço de Polícia para mulheres militares"
+title: Marinha do Brasil forma 117 militares no Estágio Preparatório de Serviço de
+  Polícia para mulheres militares
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Marinha do Brasil (MB) formou 117 militares do sexo feminino no Estágio Preparatório de Serviço de Polícia para Militares Femininas, que aconteceu entre os dias 13 e 17 de abril.
 

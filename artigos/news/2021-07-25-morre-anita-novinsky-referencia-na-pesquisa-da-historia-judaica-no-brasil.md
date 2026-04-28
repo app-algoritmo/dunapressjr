@@ -1,11 +1,12 @@
 ---
-title: "Morre Anita Novinsky, referência na pesquisa da história judaica no Brasil"
+title: Morre Anita Novinsky, referência na pesquisa da história judaica no Brasil
 date: 2021-07-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Professora, historiadora e filósofa Anita Novinsky, morreu no dia 20 de julho, aos 98 anos.
 

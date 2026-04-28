@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde revoga norma que dificultava aborto"
+title: Ministério da Saúde revoga norma que dificultava aborto
 date: 2023-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Na última segunda-feira, o Ministério da Saúde iniciou a revogação de portarias e notas técnicas adotadas na gestão do governo de Jair Bolsonaro. O ato havia sido prometido no discurso de posse de Nísia Trindade. Entre as primeiras seis normas anuladas, está uma que exigia que médicos acionassem a polícia em casos de aborto por estupro.
 

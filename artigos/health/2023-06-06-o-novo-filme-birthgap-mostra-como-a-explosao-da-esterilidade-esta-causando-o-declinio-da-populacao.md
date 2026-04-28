@@ -1,11 +1,13 @@
 ---
-title: "O novo filme 'Birthgap' mostra como a explosão da esterilidade está causando o declínio da população"
+title: O novo filme 'Birthgap' mostra como a explosão da esterilidade está causando
+  o declínio da população
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## A grande maioria das mulheres sem filhos não encontrou o “parceiro certo” na hora certa. O cineasta Stephen Shaw viajou pelo mundo para explorar o porquê.
 

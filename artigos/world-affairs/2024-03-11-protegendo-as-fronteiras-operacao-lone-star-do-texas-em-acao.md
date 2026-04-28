@@ -1,11 +1,12 @@
 ---
-title: "Protegendo as Fronteiras: Operação Lone Star do Texas em Ação"
+title: 'Protegendo as Fronteiras: Operação Lone Star do Texas em Ação'
 date: 2024-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Segurança Pública do Texas (DPS), juntamente com a Guarda Nacional do Texas, continua a liderar a Operação Lone Star, uma missão multifacetada para conter o contrabando de drogas, armas e pessoas ao longo da fronteira com o México. Desde o seu lançamento, os esforços coordenados resultaram em centenas de milhares de detenções e apreensões, destacando a determinação do Texas em enfrentar a crise fronteiriça.
 

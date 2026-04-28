@@ -1,11 +1,12 @@
 ---
-title: "Estoque de crédito fica estável em janeiro, diz Banco Central"
+title: Estoque de crédito fica estável em janeiro, diz Banco Central
 date: 2022-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Volume de crédito soma R$ 4,671 tri, o que equivale a 53,3% do PIB.
 

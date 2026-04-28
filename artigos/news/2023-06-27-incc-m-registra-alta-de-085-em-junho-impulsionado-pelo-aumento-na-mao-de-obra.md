@@ -1,11 +1,13 @@
 ---
-title: "INCC-M registra alta de 0,85% em junho, impulsionado pelo aumento na mão de obra"
+title: INCC-M registra alta de 0,85% em junho, impulsionado pelo aumento na mão de
+  obra
 date: 2023-06-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa do Índice Nacional de Custo da Construção - M apresenta crescimento em relação ao mês anterior.
 

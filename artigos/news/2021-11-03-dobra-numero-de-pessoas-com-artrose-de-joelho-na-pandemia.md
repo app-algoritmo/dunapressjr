@@ -1,11 +1,12 @@
 ---
-title: "Dobra número de pessoas com artrose de joelho na pandemia"
+title: Dobra número de pessoas com artrose de joelho na pandemia
 date: 2021-11-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Robótica garante precisão milimétrica nas cirurgias e mobilidade mais rápida aos pacientes.
 

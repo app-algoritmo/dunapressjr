@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro adquire mais 4,3 mil respiradores pulmonares"
+title: Governo Bolsonaro adquire mais 4,3 mil respiradores pulmonares
 date: 2020-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde assinou, na segunda-feira (13), contrato que prevê a compra de mais 4.300 respiradores da empresa brasileira Intermed Equipamento Médico Hospitalar. O investimento federal para a aquisição desses novos equipamentos é de R$ 258 milhões. Com a nova compra, o número de respiradores adquiridos desde o início da pandemia passou a ser de 11 mil. A aquisição é de extrema importância, porque os respiradores são usados em casos graves de contaminação pelo novo coronavírus.
 

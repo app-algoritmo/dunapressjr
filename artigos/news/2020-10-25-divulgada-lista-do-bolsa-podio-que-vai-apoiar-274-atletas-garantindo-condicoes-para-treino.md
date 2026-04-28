@@ -1,11 +1,13 @@
 ---
-title: "Divulgada lista do Bolsa Pódio que vai apoiar 274 atletas garantindo condições para treino"
+title: Divulgada lista do Bolsa Pódio que vai apoiar 274 atletas garantindo condições
+  para treino
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para apoiar atletas de ponta, com chances de disputar finais e medalhas olímpicas e paralímpicas, foi divulgada a lista de contemplados com a Bolsa Pódio, principal categoria do programa Bolsa Atleta, do Ministério da Cidadania. São 274 atletas, sendo 107 olímpicos e 167 paralímpicos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Câmara de Vereadores de Itajaí Univali estudam parcerias para atendimento jurídico e atenção a migrantes"
+title: Câmara de Vereadores de Itajaí Univali estudam parcerias para atendimento jurídico
+  e atenção a migrantes
 date: 2022-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí, por meio da Procuradoria Geral e Balcão da Cidadania, se reuniu nesta quinta-feira (2), com o coordenador do Escritório Modelo de Advocacia (EMA), professor Jefferson Custódio Próspero, e com o coordenador do Programa de Mestrado Profissional Internacional Conjunto de Direito das Migrações Transnacionais, professor Rafael Padilha dos Santos. Em pauta, a criação de convênios para atendimento jurídico e a migrantes em parceria das duas instituições.
  

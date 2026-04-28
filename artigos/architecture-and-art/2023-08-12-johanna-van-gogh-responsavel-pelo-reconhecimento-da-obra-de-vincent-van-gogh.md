@@ -1,12 +1,13 @@
 ---
-title: "Johanna Van Gogh, responsável pelo reconhecimento da obra de Vincent Van Gogh"
+title: Johanna Van Gogh, responsável pelo reconhecimento da obra de Vincent Van Gogh
 date: 2023-08-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
-  - News
+- Architecture and Art
+- News
 ---
+
 
 Johanna Van Gogh nasceu em 1862 em Amsterdão. Ela era a quinta de 7 irmãos. Ela pôde estudar, viajou, aprendeu idiomas e casou-se com Theo Van Gogh (irmão de Vincent Van Gogh) em 1889. Eles tiveram um filho no ano seguinte.
 

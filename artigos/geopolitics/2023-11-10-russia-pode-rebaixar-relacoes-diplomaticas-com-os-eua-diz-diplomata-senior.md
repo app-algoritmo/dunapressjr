@@ -1,11 +1,12 @@
 ---
-title: "Rússia pode rebaixar relações diplomáticas com os EUA, diz diplomata sênior"
+title: Rússia pode rebaixar relações diplomáticas com os EUA, diz diplomata sênior
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Ainda assim, o vice-ministro dos Negócios Estrangeiros russo, Sergey Ryabkov, sublinhou que Moscovo não planeia iniciar o rompimento dos laços diplomáticos com Washington.
 

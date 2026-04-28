@@ -1,11 +1,12 @@
 ---
-title: "Mélenchon Alerta para Riscos de Guerra Entre EUA e China"
+title: Mélenchon Alerta para Riscos de Guerra Entre EUA e China
 date: 2024-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Líder da Esquerda Francesa Critica Política Americana no Indo-Pacífico e Clama por Diplomacia.
 

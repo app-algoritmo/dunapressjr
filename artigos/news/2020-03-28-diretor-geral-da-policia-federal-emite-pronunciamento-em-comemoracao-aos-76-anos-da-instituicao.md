@@ -1,11 +1,13 @@
 ---
-title: "Diretor Geral da Polícia Federal emite pronunciamento em comemoração aos 76 anos da instituição"
+title: Diretor Geral da Polícia Federal emite pronunciamento em comemoração aos 76
+  anos da instituição
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Prezados colegas da Polícia Federal,
 

@@ -1,12 +1,13 @@
 ---
-title: "A Importância Crucial do Saneamento Básico no Desenvolvimento Cerebral Infantil"
+title: A Importância Crucial do Saneamento Básico no Desenvolvimento Cerebral Infantil
 date: 2024-06-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
-  - Health
+- Environment
+- Health
 ---
+
 
 O saneamento básico é um fator crítico para a saúde pública e, especificamente, para o desenvolvimento cerebral infantil. Durante os primeiros anos de vida, o cérebro humano passa por um crescimento explosivo e altamente energético. Qualquer interrupção nesse processo devido a doenças infecciosas pode ter consequências devastadoras a longo prazo. A falta de saneamento básico, que facilita a propagação de doenças como a diarreia, verminoses e febres, pode prejudicar gravemente esse desenvolvimento crucial.
 

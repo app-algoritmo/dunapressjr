@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo positivo de US$ 3,840 bilhões em abril"
+title: Contas externas têm saldo positivo de US$ 3,840 bilhões em abril
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O maior valor da série histórica mensal iniciada em janeiro de 1995.
 

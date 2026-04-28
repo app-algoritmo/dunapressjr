@@ -1,11 +1,12 @@
 ---
-title: "Receio do desconhecido não pode travar pesquisas sobre IA, dizem debatedores"
+title: Receio do desconhecido não pode travar pesquisas sobre IA, dizem debatedores
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A inteligência artificial (IA) é uma revolução e, embora ainda haja mais dúvidas que certezas, é preciso manter os investimentos em pesquisas na área para que o Brasil não fique para trás no futuro. Essa é a opinião de especialistas ouvidos nesta quarta-feira (18) pela Comissão Temporária Interna sobre Inteligência Artificial no Brasil (CTIA). A intenção da audiência era debater os impactos da inteligência artificial no setor acadêmico.
 

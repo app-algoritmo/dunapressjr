@@ -1,11 +1,13 @@
 ---
-title: "Milhões de americanos estão se mudando pouco antes do grande caos que está por vir"
+title: Milhões de americanos estão se mudando pouco antes do grande caos que está
+  por vir
 date: 2023-07-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O verão está mudando para milhões de americanos, e muitos deles se mudarão para um estado completamente diferente. No passado, essas mudanças de longa distância muitas vezes eram motivadas por uma mudança de emprego ou pelo desejo de ficar mais perto da família. Mas agora, considerações políticas e ideológicas estão levando muitos americanos a buscar pastos mais verdes. Quase todos nós sentimos que algo está terrivelmente errado neste país. Ao nosso redor, nossa sociedade está literalmente desmoronando pelas costuras, e tornou-se bastante claro que um grande caos está por vir. Eles dizem que pessoas com ideias semelhantes se unem, e isso é especialmente verdadeiro em tempos difíceis. Portanto, agora estamos testemunhando uma migração de conservadores para os estados vermelhos e uma migração de liberais para os estados azuis.
 

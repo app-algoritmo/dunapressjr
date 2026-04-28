@@ -1,11 +1,12 @@
 ---
-title: "Nova tecnologia para testar a visão dos astronautas"
+title: Nova tecnologia para testar a visão dos astronautas
 date: 2021-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A nova tecnologia de visão a ser testada durante a próxima missão espacial RAKIA pode ajudar todos nós na Terra a ver melhor.
 

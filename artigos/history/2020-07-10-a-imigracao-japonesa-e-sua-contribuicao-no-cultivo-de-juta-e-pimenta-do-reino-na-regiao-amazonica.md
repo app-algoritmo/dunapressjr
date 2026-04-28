@@ -1,11 +1,13 @@
 ---
-title: "A imigração japonesa e sua contribuição no cultivo de juta e pimenta-do-reino na região amazônica"
+title: A imigração japonesa e sua contribuição no cultivo de juta e pimenta-do-reino
+  na região amazônica
 date: 2020-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A imigração japonesa na Amazônia promoveu uma singular experiência de desenvolvimento agrícola com a introdução das lavouras de Juta nas várzeas do rio Amazonas e de pimenta-do-reino nas áreas de terra firme, ambas trazidas de possessões britânicas, como antítese da transferência da seringueira, levada pelos ingleses para as suas colônias na Ásia.
 

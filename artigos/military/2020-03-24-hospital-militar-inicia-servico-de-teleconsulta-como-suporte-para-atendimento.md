@@ -1,12 +1,13 @@
 ---
-title: "Hospital Militar inicia serviço de teleconsulta como suporte para atendimento"
+title: Hospital Militar inicia serviço de teleconsulta como suporte para atendimento
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Marabá (PA)** – O Hospital de  Guarnição de
 Marabá inicia a partir desta data, 24 de março de 2020,

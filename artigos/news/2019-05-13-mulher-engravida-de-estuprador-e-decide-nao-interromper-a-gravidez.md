@@ -1,12 +1,13 @@
 ---
-title: "Mulher engravida de estuprador e decide não interromper a gravidez"
+title: Mulher engravida de estuprador e decide não interromper a gravidez
 date: 2019-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 Essa é uma história real de amor e coragem, dessas que a gente nunca imagina ouvir, e muito menos estar em uma situação como esta.
  Por quase um ano, Sara Gerad foi mantida em cárcere privado e abusada, quando conseguiu se libertar e pensou que seus problemas haviam terminado descobriu que havia engravidado de seu carrasco e uma nova batalha teve início.

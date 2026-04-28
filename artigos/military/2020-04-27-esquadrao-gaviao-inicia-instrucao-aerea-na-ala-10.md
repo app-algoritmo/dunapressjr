@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão Gavião inicia Instrução Aérea na Ala 10"
+title: Esquadrão Gavião inicia Instrução Aérea na Ala 10
 date: 2020-04-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Na manhã do dia 13 de abril, três Aspirantes a Oficial Aviador da Força Aérea Brasileira (FAB) realizaram mais uma etapa importante de suas carreiras: voar o helicóptero H-50 Esquilo. Trata-se do início da atividade aérea do Curso de Especialização Operacional da Aviação de Asas Rotativas (CEO-AR), no Primeiro Esquadrão do Décimo Primeiro Grupo de Aviação (1º/11º GAV) – Esquadrão Gavião, em Parnamirim (RN).
 

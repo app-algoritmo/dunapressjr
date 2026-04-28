@@ -1,11 +1,13 @@
 ---
-title: "Petrobras aprova pagamento de remuneração aos acionistas e ajustes no Planejamento Estratégico"
+title: Petrobras aprova pagamento de remuneração aos acionistas e ajustes no Planejamento
+  Estratégico
 date: 2023-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com base no balanço de março de 2023, Petrobras antecipa distribuição de remuneração aos acionistas e propõe ajustes estratégicos e na Política de Remuneração. 
 

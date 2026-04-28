@@ -1,11 +1,12 @@
 ---
-title: "Seis motivos para não usar notebook durante home office"
+title: Seis motivos para não usar notebook durante home office
 date: 2021-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os brasileiros nunca compraram tanto notebooks como agora. De acordo com dados do IDC (Instituto de Desenvolvimento de Consultores), foram vendidos 5 milhões de notebooks e 1,3 milhão de desktops no Brasil, em 2020 - uma alta de 6% no mercado. Segundo o Google Trends, as buscas por “comprar notebook” registraram o índice de 100 pontos entre 31 de maio a 6 de junho de 2020 - o que representa o pico de popularidade. Os números são motivados pela pandemia, que forçou os consumidores a buscarem opções para o ensino remoto e o *home office*. No entanto, especialistas apontam que o notebook não é o tipo mais adequado de computador para trabalhar por longos períodos.
 

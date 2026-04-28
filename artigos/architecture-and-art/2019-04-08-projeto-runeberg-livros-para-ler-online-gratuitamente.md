@@ -1,11 +1,12 @@
 ---
-title: "Projeto Runeberg: livros para ler online gratuitamente"
+title: 'Projeto Runeberg: livros para ler online gratuitamente'
 date: 2019-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Grandes clássicos da literatura nórdica, incluindo dicionários, enciclopédias e partituras foram digitalizados e disponibilizados gratuitamente pelo Projeto Runeberg, fundado em dezembro de 1992 pelo programador sueco Lars Aronsson e amigos na Universidade de Linköping, na Suécia. O projeto conta com voluntários para digitalizar as obras e enviar tanto livros como revistas (em domínio público).
 

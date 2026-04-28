@@ -1,11 +1,13 @@
 ---
-title: "Viveiro do Instituto Itajaí Sustentável (INIS) realiza feira de doação de mudas nativas"
+title: Viveiro do Instituto Itajaí Sustentável (INIS) realiza feira de doação de mudas
+  nativas
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A sede do Viveiro do Instituto Itajaí Sustentável (INIS) realiza semanalmente a feira de doação de mudas nativas. São disponibilizadas até cinco mudas de árvores por família residente em Itajaí. A atividade acontece segunda a quinta-feira, das 8h às 12h e das 13h às 17h, e na sexta-feira, das 8h às 12h e 13h às 16h. O viveiro fica na Rua Osvaldo Bertemes, 144, bairro Fazenda.
 

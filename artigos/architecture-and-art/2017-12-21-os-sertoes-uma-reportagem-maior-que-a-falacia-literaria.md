@@ -1,11 +1,12 @@
 ---
-title: "“Os Sertões”, uma reportagem maior que a falácia literária"
+title: “Os Sertões”, uma reportagem maior que a falácia literária
 date: 2017-12-21
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Se houvesse uma obra que eu pudesse eleger como a grande catedral da História política do Brasil, certamente seria “Os Sertões”, de Euclides da Cunha. Pouco lido e muito estudado, o livro é produto das reportagens de Euclides para o jornal O Estado de São Paulo, como correspondente em Canudos. No ano passado foi lançada uma edição crítica da obra, pela editora Ubu, de autoria da prof.a Walnice Nogueira Galvão, que levou em consideração as anotações e correções que o autor fez de próprio punho, o que daria mais luz a este conjunto de escritos.  A pesquisa da professora contemplou também as cartas trocadas entre Euclides e Júlio Mesquita, do Estadão.  Segundo Walnice, o autor fez questão de suprimir mais de mil vírgulas do escrito, o que por si só muda substancialmente o texto.
 

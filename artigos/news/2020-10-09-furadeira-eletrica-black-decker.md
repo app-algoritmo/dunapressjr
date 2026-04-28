@@ -1,11 +1,12 @@
 ---
-title: "Furadeira elétrica Black & Decker"
+title: Furadeira elétrica Black & Decker
 date: 2020-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Furadeira elétrica Black & Decker.
 

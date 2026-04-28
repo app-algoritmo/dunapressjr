@@ -1,11 +1,12 @@
 ---
-title: "Aplicativo Sefip/GFIP é atualizado"
+title: Aplicativo Sefip/GFIP é atualizado
 date: 2021-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal do Brasil (RFB) e a Caixa Econômica Federal (CEF) realizaram adequações no aplicativo Sefip/GFIP. As modificações foram solicitadas pelo Conselho Federal de Contabilidade (CFC) em ofício enviado à RFB, no dia 4 de janeiro de 2021. No documento, a autarquia pleiteou a reconsideração quanto à decisão de mudança nos manuais e pediu alterações no Programa Validador que permitissem a inclusão de valor no campo “Base de Cálculo da Previdência Social” para os afastamentos com código P1. No texto, o CFC ainda destacou que a versão 8.4_24_12_2020 do programa GFIP/Sefip estava em desconformidade com as orientações do manual de usuários.  
 

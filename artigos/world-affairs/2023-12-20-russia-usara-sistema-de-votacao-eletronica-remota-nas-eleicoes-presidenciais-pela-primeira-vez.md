@@ -1,11 +1,13 @@
 ---
-title: "Rússia usará sistema de votação eletrônica remota nas eleições presidenciais pela primeira vez"
+title: Rússia usará sistema de votação eletrônica remota nas eleições presidenciais
+  pela primeira vez
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Para votar no sistema de votação eletrónica à distância, o eleitor deve apresentar o requerimento num período que começa 45 dias antes do dia da eleição e termina três dias antes da eleição (de 29 de janeiro a 11 de março).
 

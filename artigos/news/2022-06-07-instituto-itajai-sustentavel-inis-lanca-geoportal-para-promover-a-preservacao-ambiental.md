@@ -1,11 +1,13 @@
 ---
-title: "Instituto Itajaí Sustentável (INIS) lança geoportal para promover a preservação ambiental"
+title: Instituto Itajaí Sustentável (INIS) lança geoportal para promover a preservação
+  ambiental
 date: 2022-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Semana do Meio Ambiente de Itajaí está repleta de atividades e inovação para a comunidade. Nesta quarta-feira (01), o Município de Itajaí, por meio do Instituto Itajaí Sustentável (INIS), lançou o geoportal das Árvores Imunes ao Corte e do Parque Natural Municipal do Atalaia. A ferramenta disponível para toda população visa promover o conhecimento sobre o meio ambiente e estimular a preservação ambiental.
 

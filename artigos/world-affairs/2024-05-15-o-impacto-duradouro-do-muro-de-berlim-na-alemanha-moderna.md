@@ -1,11 +1,12 @@
 ---
-title: "O Impacto Duradouro do Muro de Berlim na Alemanha Moderna"
+title: O Impacto Duradouro do Muro de Berlim na Alemanha Moderna
 date: 2024-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Muro de Berlim, que durante décadas separou fisicamente o Leste e o Oeste de Berlim, ainda ressoa na Alemanha contemporânea, moldando sua paisagem social, política e cultural. Embora tenha sido derrubado em 1989, suas cicatrizes permanecem visíveis, tanto fisicamente, em partes preservadas como monumentos, quanto psicologicamente, nas mentalidades e identidades dos alemães. Este artigo explora o legado duradouro do Muro de Berlim e sua influência contínua na Alemanha nos dias de hoje.
 

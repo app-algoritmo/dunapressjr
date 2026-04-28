@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani e Rafael Matos arrasam dupla favorita e alcançam quartas de final da chave de mistas em Roland Garros"
+title: Luisa Stefani e Rafael Matos arrasam dupla favorita e alcançam quartas de final
+  da chave de mistas em Roland Garros
 date: 2023-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 Luisa Stefani, 23ª colocada do ranking mundial, e o gaúcho Rafael Matos arrasaram neste sábado (3) e se garantiram nas quartas de final de duplas mistas de Roland Garros. Os campeões do Australian Open derrotaram a dupla cabeça de chave 8, formada pelo croata Ivan Dodig e a chinesa Shuai Zhang, por um duplo 6/2, em apenas 1h03min.
 

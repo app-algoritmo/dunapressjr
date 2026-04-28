@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial fica em 0,21% em janeiro, diz IBGE"
+title: Inflação oficial fica em 0,21% em janeiro, diz IBGE
 date: 2020-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Taxa é inferior ao 1,15% de dezembro e ao 0,32% de janeiro de 2019*
 

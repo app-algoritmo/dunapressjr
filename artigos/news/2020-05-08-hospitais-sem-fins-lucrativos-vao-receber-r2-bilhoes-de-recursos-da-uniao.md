@@ -1,11 +1,12 @@
 ---
-title: "Hospitais sem fins lucrativos vão receber R$2 bilhões de recursos da União"
+title: Hospitais sem fins lucrativos vão receber R$2 bilhões de recursos da União
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Banco Nacional de Desenvolvimento Econômico (BNDES) anunciou novas iniciativas para combater os efeitos do novo coronavírus na saúde pública. Uma delas foi o Programa BNDES de Apoio Emergencial ao Combate da Pandemia do Coronavírus, que destinará R$ 2 bilhões para ampliação imediata de leitos emergenciais e de equipamentos médico-hospitalares para Santa Casas e hospitais sem fins lucrativos. Os recursos vão preparar as instituições para auxiliar o ministério da saúde em ações de combate ao novo coronavírus.
 

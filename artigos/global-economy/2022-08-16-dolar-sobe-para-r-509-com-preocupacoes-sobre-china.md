@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,09 com preocupações sobre China"
+title: Dólar sobe para R$ 5,09 com preocupações sobre China
 date: 2022-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa reverte queda e fecha com alta de 0,24%.
 

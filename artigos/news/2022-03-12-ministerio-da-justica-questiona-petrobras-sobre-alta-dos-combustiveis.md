@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Justiça questiona Petrobras sobre alta dos combustíveis"
+title: Ministério da Justiça questiona Petrobras sobre alta dos combustíveis
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi levado em consideração as recentes notícias sobre a elevação de preços de combustíveis produzidos pela Estatal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Servidores do Instituto Itajaí Sustentável participam de capacitação na Univali"
+title: Servidores do Instituto Itajaí Sustentável participam de capacitação na Univali
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Técnicos de engenharia ambiental do Instituto Itajaí Sustentável (INIS) participaram de uma capacitação sobre sistema de informações geográficas e mapeamento digital, realizada no laboratório de computação da Univali neste mês de novembro. O evento encerrou na terça-feira (24) e foi promovido pela Associação dos Municípios da Região da Foz do Rio Itajaí (AMFRI) e Conselho Regional de Engenharia e Agronomia de Santa Catarina (CREA-SC), com apoio da Univali.
 

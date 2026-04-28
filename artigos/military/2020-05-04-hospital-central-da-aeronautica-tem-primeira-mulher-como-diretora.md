@@ -1,11 +1,12 @@
 ---
-title: "Hospital Central da Aeronáutica tem primeira mulher como diretora"
+title: Hospital Central da Aeronáutica tem primeira mulher como diretora
 date: 2020-05-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Passagem de Direção do Hospital Central da Aeronáutica (HCA), localizado no Rio de Janeiro (RJ), aconteceu no dia 22/04, em cerimônia reservada por conta das recomendações relativas à COVID-19. O Brigadeiro Médico Walter Kischinhevsky passou o cargo para a Coronel Médica Carla Lyrio Martins. Ela foi a primeira mulher da Força Aérea Brasileira (FAB) a comandar uma Organização Militar, a Casa Gerontológica de Aeronáutica Brigadeiro Eduardo Gomes (CGABEG) e, agora, a primeira mulher a assumir a direção do HCA.
 

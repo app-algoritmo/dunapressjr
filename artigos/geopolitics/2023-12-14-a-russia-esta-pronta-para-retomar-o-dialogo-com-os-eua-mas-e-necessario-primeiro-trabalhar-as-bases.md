@@ -1,11 +1,13 @@
 ---
-title: "A Rússia está pronta para retomar o diálogo com os EUA, mas é necessário primeiro trabalhar as bases"
+title: A Rússia está pronta para retomar o diálogo com os EUA, mas é necessário primeiro
+  trabalhar as bases
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Moscou, segundo o presidente russo, acredita que “os Estados Unidos são um país importante e necessário no mundo”, por isso “está pronto para construir relações” com ele.
 

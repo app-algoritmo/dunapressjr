@@ -1,11 +1,12 @@
 ---
-title: "Exportações do agro crescem 17,5% nos quatro primeiros meses do ano"
+title: Exportações do agro crescem 17,5% nos quatro primeiros meses do ano
 date: 2020-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As exportações da agropecuária brasileira tiveram um crescimento de 17,5% nos quatro primeiros meses de 2020, em relação ao mesmo período do ano passado. Apesar da pandemia do novo coronavírus, a participação do agro no total das exportações passou de 18,7% em 2019 para 22,9% em 2020. Houve aumento das exportações para a Ásia, com destaque para a China.
 

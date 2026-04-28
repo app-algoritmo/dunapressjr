@@ -1,11 +1,12 @@
 ---
-title: "Boletim Epidemiológico Itajaí 20/11"
+title: Boletim Epidemiológico Itajaí 20/11
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí soma nesta sexta-feira (20) 9.399 casos confirmados de COVID-19, sem registro de novas mortes decorrência da doença. Do total de contaminados, 8.333 pacientes já se recuperaram (88,65%) e 883 estão com o vírus ativo (38 internados e 845 em isolamento domiciliar). Há ainda 181 casos suspeitos aguardando resultado de exames.
 

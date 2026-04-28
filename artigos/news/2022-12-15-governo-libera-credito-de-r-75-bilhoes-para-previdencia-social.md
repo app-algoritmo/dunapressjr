@@ -1,11 +1,12 @@
 ---
-title: "Governo libera crédito de R$ 7,5 bilhões para Previdência Social"
+title: Governo libera crédito de R$ 7,5 bilhões para Previdência Social
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida Provisória foi publicada hoje no Diário Oficial da União.
 

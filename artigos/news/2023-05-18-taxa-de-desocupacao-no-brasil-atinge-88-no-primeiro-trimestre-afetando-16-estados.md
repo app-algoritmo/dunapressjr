@@ -1,11 +1,13 @@
 ---
-title: "Taxa de Desocupação no Brasil Atinge 8,8% no Primeiro Trimestre, afetando 16 Estados"
+title: Taxa de Desocupação no Brasil Atinge 8,8% no Primeiro Trimestre, afetando 16
+  Estados
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nordeste é a Região com Maior Aumento, Alcançando 12,2%, Segundo Dados do IBGE.
 

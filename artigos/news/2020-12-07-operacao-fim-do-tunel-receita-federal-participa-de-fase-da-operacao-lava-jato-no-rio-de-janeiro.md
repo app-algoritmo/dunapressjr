@@ -1,11 +1,13 @@
 ---
-title: "OPERAÇÃO “FIM DO TÚNEL” – Receita Federal participa de fase da Operação Lava Jato no Rio de Janeiro"
+title: OPERAÇÃO “FIM DO TÚNEL” – Receita Federal participa de fase da Operação Lava
+  Jato no Rio de Janeiro
 date: 2020-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal, em parceria com o Ministério Público Federal e com a Polícia Federal, participou da Operação “Fim do Túnel”, deflagrada na manhã desta segunda-feira (07) como um desdobramento das Operações Calicute, Fatura Exposta e Tolipeutes, nas quais foram investigados diversos esquemas de desvios de recursos públicos envolvendo o governo do Estado do Rio de Janeiro. Esta fase da operação investiga ex-deputado federal que teria sido, de acordo com colaboradores, destinatário de recursos indevidos em diversos setores nos quais atuou.
 

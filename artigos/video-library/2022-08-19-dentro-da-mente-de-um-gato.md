@@ -1,11 +1,12 @@
 ---
-title: "Dentro da Mente de um Gato"
+title: Dentro da Mente de um Gato
 date: 2022-08-19
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Você Gosta de Gatos?
 

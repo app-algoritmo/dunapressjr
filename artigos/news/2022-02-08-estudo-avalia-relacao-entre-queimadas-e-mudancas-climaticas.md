@@ -1,11 +1,12 @@
 ---
-title: "Estudo avalia relação entre queimadas e mudanças climáticas"
+title: Estudo avalia relação entre queimadas e mudanças climáticas
 date: 2022-02-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A bióloga Cibele Inês Rockenbach é mestre pelo Programa de Pós-Graduação em Ambiente e Desenvolvimento da Universidade de Vale do Taquari (Univates). Atualmente pesquisadora no Laboratório de Paleobotânica e Evolução de Biomas, do Museu de Ciências da mesma instituição, Cibele estudou a morfologia da resina em carvão vegetal fóssil para entender quais  efeitos os incêndios vegetacionais causaram no clima ao longo da história do planeta.
 

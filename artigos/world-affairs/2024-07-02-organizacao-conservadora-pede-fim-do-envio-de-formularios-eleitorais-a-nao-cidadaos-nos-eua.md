@@ -1,11 +1,13 @@
 ---
-title: "Organização Conservadora Pede Fim do Envio de Formulários Eleitorais a Não Cidadãos nos EUA"
+title: Organização Conservadora Pede Fim do Envio de Formulários Eleitorais a Não
+  Cidadãos nos EUA
 date: 2024-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A organização conservadora de interesse público America First Legal (AFL) está solicitando às autoridades eleitorais dos 50 estados que interrompam o envio de formulários de registro de eleitores a não cidadãos, em preparação para a eleição presidencial de 2024. A AFL enviou cartas a oficiais eleitorais chefes, secretários de estado, procuradores-gerais, vice-governadores e governadores, instando-os a verificar o status de imigração dos eleitores usando dados do Departamento de Segurança Interna (DHS) e remover não cidadãos das listas eleitorais.
 

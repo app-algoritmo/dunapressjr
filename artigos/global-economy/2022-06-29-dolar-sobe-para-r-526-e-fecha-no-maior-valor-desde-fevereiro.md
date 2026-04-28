@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,26 e fecha no maior valor desde fevereiro"
+title: Dólar sobe para R$ 5,26 e fecha no maior valor desde fevereiro
 date: 2022-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa caiu 0,17%, puxada por indicadores internacionais.
 

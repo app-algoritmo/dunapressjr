@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que doa helicópteros da Polícia Federal para o Paraguai"
+title: Comissão aprova projeto que doa helicópteros da Polícia Federal para o Paraguai
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A proposta continua tramitando na Câmara dos Deputados.
 

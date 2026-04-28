@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa analisa a criptomoedas e outras moedas paralelas como fenômeno social"
+title: Pesquisa analisa a criptomoedas e outras moedas paralelas como fenômeno social
 date: 2023-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Daniel Fideles Steinberg, doutor e mestre pelo Departamento de Filosofia e Teoria Geral do Direito pela Faculdade de Direito da Universidade de São Paulo (FDUSP), foi o vencedor do Prêmio CAPES de Tese 2022 na área do Direito. Sua pesquisa analisou os usos e as formas que a moeda adquire nas relações sociais entre pessoas e como as regras jurídicas influenciam nessa dinâmica. Para além do papel estabelecido pela esfera estatal, o pesquisador considera que a moeda é um fenômeno social que se manifesta como práticas monetárias, derivadas da vivência coletiva entre pessoas.
 

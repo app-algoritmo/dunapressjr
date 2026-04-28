@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde é superado em Bauru"
+title: Osasco São Cristóvão Saúde é superado em Bauru
 date: 2023-12-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Time de Tifanny, Callie, Butler, Lorenne, Camila Brait e cia começou vencendo o primeiro set, mas as donas da casa fecharam em 3 a 1.
 

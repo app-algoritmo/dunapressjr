@@ -1,11 +1,12 @@
 ---
-title: "Apartamento térreo com área verde é alternativa segura no mercado imobiliário"
+title: Apartamento térreo com área verde é alternativa segura no mercado imobiliário
 date: 2023-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 Poder contar com mais espaço ao ar livre dentro de casa, sem abrir mão da segurança e conforto dos condomínios, tornou-se um diferencial e uma forte tendência em projetos de edifícios residenciais. Apesar de os apartamentos gardens não serem novidade no mercado, o formato passou a ser mais procurado nos últimos anos, caracterizando um meio-termo entre um apartamento e uma casa. Esses imóveis geralmente são situados no térreo ou nos primeiros andares dos prédios e possuem uma área externa similar a um quintal, que garantem espaço ao ar livre, luminosidade natural e contato com a natureza, valorizando a ideia de se ter um um local de maior aconchego e permanência em casa. 
 

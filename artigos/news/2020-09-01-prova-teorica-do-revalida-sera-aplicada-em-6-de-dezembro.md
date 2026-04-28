@@ -1,11 +1,12 @@
 ---
-title: "Prova teórica do Revalida será aplicada em 6 de dezembro"
+title: Prova teórica do Revalida será aplicada em 6 de dezembro
 date: 2020-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Exame, que não é aplicado desde 2017, avalia conhecimentos, habilidades e competências de quem fez Medicina no exterior e quer exercer a profissional no Brasil.
 

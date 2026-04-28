@@ -1,13 +1,14 @@
 ---
-title: "Coro Cênico Pequeno Cotolengo lança novo espetáculo"
+title: Coro Cênico Pequeno Cotolengo lança novo espetáculo
 date: 2023-08-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Events
-  - Health
+- Education
+- Events
+- Health
 ---
+
 
 ## A peça “Para ler e viajar, basta começar” estreia no dia 05 de setembro, com apresentação aberta ao público, às 19h. Os ingressos são gratuitos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Copom: Inflação persiste, mas economia evolui mais que o esperado"
+title: 'Copom: Inflação persiste, mas economia evolui mais que o esperado'
 date: 2021-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ata da reunião do comitê da semana passada foi divulgada hoje.
 

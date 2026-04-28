@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro lança aplicativo  para fortalecer o  enfrentamento à violência doméstica"
+title: Governo Bolsonaro lança aplicativo  para fortalecer o  enfrentamento à violência
+  doméstica
 date: 2020-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para combater a violência familiar e doméstica durante a pandemia do novo coronavírus (Covid-19), o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) está tomando medidas emergenciais. A mais recente delas é o lançamento, nesta quinta-feira (2), de plataformas digitais dos canais de atendimento da Ouvidoria Nacional de Direitos Humanos (ONDH).
 

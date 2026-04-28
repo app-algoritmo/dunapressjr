@@ -1,12 +1,13 @@
 ---
-title: "Monarquias no top 10 dos países mais democráticos do mundo"
+title: Monarquias no top 10 dos países mais democráticos do mundo
 date: 2021-02-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 A superioridade dos regimes monárquicos no ranking top 10 dos países mais democráticos do mundo nas seguintes cinco categorias gerais: o processo eleitoral e o pluralismo, as liberdades cívicas, o funcionamento do governo, a participação política e a cultura política.
 

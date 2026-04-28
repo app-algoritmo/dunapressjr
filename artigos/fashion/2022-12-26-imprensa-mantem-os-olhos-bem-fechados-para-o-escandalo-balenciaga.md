@@ -1,13 +1,14 @@
 ---
-title: "Imprensa mantem os olhos bem fechados para o escândalo Balenciaga"
+title: Imprensa mantem os olhos bem fechados para o escândalo Balenciaga
 date: 2022-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Fashion
-  - Features
-  - News
+- Fashion
+- Features
+- News
 ---
+
 
 ## Alguns são muito rápidos em explicar e descartar o controverso anúncio da marca de moda com crianças e ursinhos de pelúcia sexualizados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pix começa a funcionar no dia 3 de novembro para clientes selecionados"
+title: Pix começa a funcionar no dia 3 de novembro para clientes selecionados
 date: 2020-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A medida faz parte de uma fase de testes que vai até 15 de novembro.
 

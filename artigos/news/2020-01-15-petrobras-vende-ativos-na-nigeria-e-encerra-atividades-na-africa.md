@@ -1,11 +1,12 @@
 ---
-title: "Petrobras vende ativos na Nigéria e encerra atividades na África"
+title: Petrobras vende ativos na Nigéria e encerra atividades na África
 date: 2020-01-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Estatal detinha 50% da empresa PO&GBV*
 

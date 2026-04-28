@@ -1,11 +1,12 @@
 ---
-title: "Proposta de Lei prevê selo tributário digital e gratuito em itens importados"
+title: Proposta de Lei prevê selo tributário digital e gratuito em itens importados
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2640/22 prevê a adoção de selo tributário digital e gratuito em produtos importados. O texto em análise na Câmara dos Deputados altera a [Lei 4.502/64](https://www2.camara.gov.br/legin/fed/lei/1960-1969/lei-4502-30-novembro-1964-376851-norma-pl.html), base para cobrança do Imposto sobre Produtos Industrializados (IPI) e que atualmente trata, para fins similares, do uso de selo físico, em papel.
 

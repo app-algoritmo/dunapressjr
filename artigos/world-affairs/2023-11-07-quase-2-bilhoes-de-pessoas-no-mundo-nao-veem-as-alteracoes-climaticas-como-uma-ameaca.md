@@ -1,11 +1,13 @@
 ---
-title: "Quase 2 bilhões de pessoas no mundo não veem as alterações climáticas como uma ameaça"
+title: Quase 2 bilhões de pessoas no mundo não veem as alterações climáticas como
+  uma ameaça
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As alterações climáticas representam um desafio global significativo e estão (supostamente) a causar alterações climáticas severas, danos nas culturas e aumento do nível do mar. No entanto, nem todos o veem como uma ameaça.
 

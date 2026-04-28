@@ -1,11 +1,12 @@
 ---
-title: "Rede Ebserh registra emoções diárias no combate a pandemia"
+title: Rede Ebserh registra emoções diárias no combate a pandemia
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Brasília (DF) – No final de 2019, um novo coronavírus, batizados de Sars-CoV-2, surgiu na cidade de Wuhan, na China. Pouco mais de seis meses depois, a pandemia de Covid-19 já deixou milhões de pessoas doentes. Famílias separadas e isoladas, cidades fechadas e mudanças radicais de hábitos de higiene pessoal foram algumas das consequências da pandemia, que também alterou diretamente o dia a dia de profissionais da saúde.
 

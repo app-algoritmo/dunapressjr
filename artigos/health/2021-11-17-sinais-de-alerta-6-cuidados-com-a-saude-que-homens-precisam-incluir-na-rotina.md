@@ -1,11 +1,12 @@
 ---
-title: "Sinais de alerta: 6 cuidados com a saúde que homens precisam incluir na rotina"
+title: 'Sinais de alerta: 6 cuidados com a saúde que homens precisam incluir na rotina'
 date: 2021-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os atendimentos médicos realizados com o público masculino cresceram nos últimos anos, segundo informações da Organização Mundial da Saúde (OMS), mas, mesmo assim, os cuidados com a saúde do homem ainda são encarados como um tabu, fazendo com que a maioria procure um médico apenas quando sente sintomas mais sérios, ou até mesmo quando já está doente, muitas vezes, de forma grave. Ainda de acordo com a OMS, a cada três mortes de pessoas adultas no Brasil, duas são do sexo masculino.
 

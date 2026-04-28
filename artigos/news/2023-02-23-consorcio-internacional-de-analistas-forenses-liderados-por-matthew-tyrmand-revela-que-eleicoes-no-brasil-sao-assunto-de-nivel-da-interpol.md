@@ -1,11 +1,13 @@
 ---
-title: "Consórcio internacional de analistas forenses liderados por Matthew Tyrmand revela que eleições no Brasil são assunto de nível da Interpol"
+title: Consórcio internacional de analistas forenses liderados por Matthew Tyrmand
+  revela que eleições no Brasil são assunto de nível da Interpol
 date: 2023-02-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Estudo técnico de um grupo internacional de analistas forenses indica fortes divergências entre as novas urnas e as antigas.
 

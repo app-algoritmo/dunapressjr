@@ -1,11 +1,12 @@
 ---
-title: "Mais de 28 mil estudantes são beneficiados com prorrogação das bolsas"
+title: Mais de 28 mil estudantes são beneficiados com prorrogação das bolsas
 date: 2020-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A medida atendeu bolsistas ativos de mestrado e doutorado em todo o Brasil. Medida de prorrogação foi adotada para amenizar os efeitos causados pela crise do novo coronavírus. 
 

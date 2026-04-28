@@ -1,11 +1,13 @@
 ---
-title: "Como funciona o processo de defumação de embutidos? Conheça técnica que realça o sabor dos alimentos tradicionalmente defumados"
+title: Como funciona o processo de defumação de embutidos? Conheça técnica que realça
+  o sabor dos alimentos tradicionalmente defumados
 date: 2021-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## Método que surgiu da necessidade de conservar a carne na Antiguidade continua sendo utilizado nos dias de hoje por seu sabor diferenciado.
 

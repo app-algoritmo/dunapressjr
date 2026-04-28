@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra a Operação Ecdisona no Mato Grosso"
+title: PF deflagra a Operação Ecdisona no Mato Grosso
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT– A Polícia Federal deflagrou nesta terça-feira (23/6) a OPERAÇÃO ECDISONA, visando reprimir organização criminosa dedicada à prática de crimes tributários e empresariais, falsidades ideológicas, fraude a credores, estelionato, organização criminosa e lavagem de capitais.
 

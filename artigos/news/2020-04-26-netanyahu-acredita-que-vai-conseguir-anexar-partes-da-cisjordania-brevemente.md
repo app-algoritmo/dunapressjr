@@ -1,11 +1,12 @@
 ---
-title: "Netanyahu acredita que vai conseguir anexar partes da Cisjordânia brevemente"
+title: Netanyahu acredita que vai conseguir anexar partes da Cisjordânia brevemente
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O primeiro-ministro Benjamin Netanyahu diz que está "confiante" de que será capaz de manter sua promessa eleitoral de aplicar a soberania israelense sobre partes da Cisjordânia "em alguns meses".
 

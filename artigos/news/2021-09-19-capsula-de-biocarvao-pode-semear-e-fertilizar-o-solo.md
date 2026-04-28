@@ -1,11 +1,12 @@
 ---
-title: "Cápsula de biocarvão pode semear e fertilizar o solo"
+title: Cápsula de biocarvão pode semear e fertilizar o solo
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um bolsista da CAPES desenvolveu cápsulas feitas de biocarvão, material que altera características físicas, químicas e biológicas do solo, diminuindo a acidez. O interior da estrutura pode levar uma semente, o que contribui para o plantio ou replantio de diversas áreas. Com isso  produtores rurais podem ter mais alternativas na hora de semear.
 

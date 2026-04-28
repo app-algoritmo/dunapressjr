@@ -1,11 +1,12 @@
 ---
-title: "PF combate o tráfico interestadual de drogas entre MG e ES"
+title: PF combate o tráfico interestadual de drogas entre MG e ES
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal, com apoio da Polícia Rodoviária Federal e das policiais militares de Minas Gerais e Espírito Santo, apreendeu nesta segunda-feira (4/5), cerca de 15 kg de maconha e porção de substância química ainda sob análise, na posse de um casal que seguia na BR 259, nas proximidades da divisa dos estados de Minas Gerais e Espírito Santo, entre os municípios de Baixo Guandu/ES e Aimorés/MG.
 

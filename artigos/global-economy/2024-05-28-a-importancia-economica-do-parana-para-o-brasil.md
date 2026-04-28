@@ -1,11 +1,12 @@
 ---
-title: "A Importância Econômica do Paraná para o Brasil"
+title: A Importância Econômica do Paraná para o Brasil
 date: 2024-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Paraná é um estado situado na região Sul do Brasil e desempenha um papel fundamental na economia nacional. Sua economia diversificada, que inclui agricultura, indústria, serviços e comércio, faz do Paraná um dos estados mais importantes do país em termos de produção e inovação.
 

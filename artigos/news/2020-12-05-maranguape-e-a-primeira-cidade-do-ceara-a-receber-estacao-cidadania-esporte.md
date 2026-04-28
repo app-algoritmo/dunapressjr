@@ -1,11 +1,12 @@
 ---
-title: "Maranguape é a primeira cidade do Ceará a receber Estação Cidadania-Esporte"
+title: Maranguape é a primeira cidade do Ceará a receber Estação Cidadania-Esporte
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para fortalecer ações culturais, práticas esportivas e de lazer, além de formação e qualificação para o mercado de trabalho, no município de Maranguape (CE), o ministro da Cidadania, Onyx Lorenzoni, inaugurou, nesta quinta-feira (3), o Estação Cidadania-Esporte, no bairro Outra Banda.
 

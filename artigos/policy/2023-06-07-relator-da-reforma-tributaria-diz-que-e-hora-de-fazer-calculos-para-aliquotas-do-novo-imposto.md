@@ -1,11 +1,13 @@
 ---
-title: "Relator da reforma tributária diz que é hora de 'fazer cálculos' para alíquotas do novo imposto"
+title: Relator da reforma tributária diz que é hora de 'fazer cálculos' para alíquotas
+  do novo imposto
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Diversos setores cobraram do Legislativo simulações das alíquotas do novo Imposto sobre Bens e Serviços.
 

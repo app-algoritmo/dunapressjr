@@ -1,11 +1,13 @@
 ---
-title: "Governador apresenta potenciais de Minas Gerais a empresários e autoridades em Milão"
+title: Governador apresenta potenciais de Minas Gerais a empresários e autoridades
+  em Milão
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Estado é destaque em conferência que envolve representantes dos dois países; Próximas rodadas serão realizadas em Turim e Roma.
 

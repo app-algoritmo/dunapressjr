@@ -1,11 +1,13 @@
 ---
-title: "Traficante de crianças pego tentando sequestrar bebê de 11 meses da Ucrânia para “vendê-lo para transplantes de órgãos”"
+title: Traficante de crianças pego tentando sequestrar bebê de 11 meses da Ucrânia
+  para “vendê-lo para transplantes de órgãos”
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um homem de 43 anos foi [pego em flagrante](https://www.dailymail.co.uk/news/article-12242035/Evil-child-trader-caught-trying-child-Ukraine-sell-organ-transplants.html) esta semana tentando contrabandear um bebê de 11 meses para fora da Ucrânia para entregar a traficantes de crianças para que eles pudessem "vender" a criança "para transplantes de órgãos".
 

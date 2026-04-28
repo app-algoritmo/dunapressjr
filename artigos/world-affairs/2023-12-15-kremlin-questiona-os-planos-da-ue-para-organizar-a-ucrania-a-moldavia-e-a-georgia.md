@@ -1,11 +1,13 @@
 ---
-title: "Kremlin questiona os planos da UE para organizar a Ucrânia, a Moldávia e a Geórgia"
+title: Kremlin questiona os planos da UE para organizar a Ucrânia, a Moldávia e a
+  Geórgia
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Lamentavelmente, sempre que ocorre este desejo de demonstrar tal vontade política, o objectivo principal é irritar ainda mais a Rússia e colocar estes países contra a Rússia”, afirmou. Dmitry Peskov estressado.
 

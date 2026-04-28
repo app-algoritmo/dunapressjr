@@ -1,11 +1,13 @@
 ---
-title: "Proagro poderá pagar até R$1,89 bilhões de indenizações do seguro rural somente no Rio Grande do Sul"
+title: Proagro poderá pagar até R$1,89 bilhões de indenizações do seguro rural somente
+  no Rio Grande do Sul
 date: 2020-05-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Programa de Garantia da Atividade Rural (Proagro) e as companhias de seguros podem desembolsar até R$ 1,89 bilhão em pagamento de indenizações aos produtores rurais no Rio Grande do Sul devido à seca na safra 2019/20, que trouxe perda de produtividade, principalmente nas culturas de milho e soja. A informação faz parte de um levantamento do Departamento de Gestão de Riscos da Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento, com dados do Programa de Seguro Rural (PSR) e do Banco Central.  
 

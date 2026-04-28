@@ -1,11 +1,13 @@
 ---
-title: "A agência governamental dos EUA também quer acelerar a introdução da identidade digital"
+title: A agência governamental dos EUA também quer acelerar a introdução da identidade
+  digital
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Agência governamental dos EUA convida organizações a acelerar a adoção da identidade digital
 

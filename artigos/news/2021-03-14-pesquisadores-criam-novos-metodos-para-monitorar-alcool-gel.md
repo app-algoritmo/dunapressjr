@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores criam novos métodos para monitorar álcool-gel"
+title: Pesquisadores criam novos métodos para monitorar álcool-gel
 date: 2021-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para garantir a qualidade e inibir a proliferação de marcas de álcool-gel sem eficácia, cientistas do Instituto Nacional de Ciências e Tecnologias Analíticas Avançadas (INCTAA) da Universidade de Campinas (UNICAMP), desenvolveram dois novos métodos para auxiliar instituições oficiais e indústrias no monitoramento do produto no mercado brasileiro. As duas pesquisas, desenvolvidas com a participação de bolsistas financiados pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) estão descritos nas Revistas Científicas *Microchemical Journal (Public Health Emergency COVID-19 Initiative e no Journal of the Brazilian Chemical Society.*
 

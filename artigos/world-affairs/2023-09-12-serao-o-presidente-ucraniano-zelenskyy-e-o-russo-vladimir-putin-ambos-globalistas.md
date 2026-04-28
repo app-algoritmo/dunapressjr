@@ -1,11 +1,12 @@
 ---
-title: "Serão o presidente ucraniano Zelenskyy e o russo Vladimir Putin ambos globalistas?"
+title: Serão o presidente ucraniano Zelenskyy e o russo Vladimir Putin ambos globalistas?
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Vamos dar uma olhada nas políticas e ações que ambos os homens tomaram nos últimos anos.
 

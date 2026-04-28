@@ -1,11 +1,12 @@
 ---
-title: "Alemanha se move para erradicar as leis nazistas remanescentes, algumas anti-semitas"
+title: Alemanha se move para erradicar as leis nazistas remanescentes, algumas anti-semitas
 date: 2021-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A legislação restante inclui um projeto de lei que força muitos judeus a adicionar Sara ou Israel aos seus nomes, que foi descartado após a Segunda Guerra Mundial, mas o texto restante foi incorporado à lei federal em 1954.
 

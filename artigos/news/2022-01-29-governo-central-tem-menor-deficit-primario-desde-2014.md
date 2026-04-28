@@ -1,11 +1,12 @@
 ---
-title: "Governo Central tem menor déficit primário desde 2014"
+title: Governo Central tem menor déficit primário desde 2014
 date: 2022-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado negativo nas contas públicas fica em R$ 35,1 bilhões.
 

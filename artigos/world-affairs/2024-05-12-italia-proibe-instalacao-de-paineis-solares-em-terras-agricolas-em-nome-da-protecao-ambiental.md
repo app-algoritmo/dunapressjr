@@ -1,11 +1,13 @@
 ---
-title: "Itália Proíbe Instalação de Painéis Solares em Terras Agrícolas em Nome da Proteção Ambiental"
+title: Itália Proíbe Instalação de Painéis Solares em Terras Agrícolas em Nome da
+  Proteção Ambiental
 date: 2024-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo italiano, sob liderança de Giorgia Meloni, tomou uma decisão ousada ao proibir a instalação de painéis solares em terras agrícolas. Essa medida visa proteger os agricultores e preservar o equilíbrio ecológico, com o objetivo de evitar a desertificação do campo italiano.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Senhor das Mares 1x8 – House Of the Dragon"
+title: O Senhor das Mares 1x8 – House Of the Dragon
 date: 2022-11-16
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Queridos leitores da minha coluna. – Primeiro as desculpas. Estive sumida por alguns dias. – Pois tive de fazer revisão em dois livros e isso tomou um tempo enorme, sem falar que contrai Covid o que me obrigou a repousar.
 

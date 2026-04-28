@@ -1,11 +1,12 @@
 ---
-title: "Israel preocupado com satélite russo a ser fornecido ao Irã"
+title: Israel preocupado com satélite russo a ser fornecido ao Irã
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O sistema de satélite avançado dará a Teerã a capacidade de rastrear bases militares em Israel.
 

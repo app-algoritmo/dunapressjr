@@ -1,11 +1,12 @@
 ---
-title: "Revestimento comestível conserva frutas e hortaliças"
+title: Revestimento comestível conserva frutas e hortaliças
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um bolsista da Coordenação de Pessoal de Nível Superior (CAPES) criou um nanofilme comestível, solúvel e incolor para conservar e proteger frutas e hortaliças. Jefferson Coelho Queiroz desenvolveu o produto em seu doutorado, cursado no Programa de Pós-Graduação em Química da Universidade Federal de Pernambuco (UFPE), financiado pela Fundação.  
 

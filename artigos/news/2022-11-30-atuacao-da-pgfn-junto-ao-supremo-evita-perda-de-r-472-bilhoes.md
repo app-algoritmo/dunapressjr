@@ -1,11 +1,12 @@
 ---
-title: "Atuação da PGFN junto ao Supremo evita perda de R$ 472 bilhões"
+title: Atuação da PGFN junto ao Supremo evita perda de R$ 472 bilhões
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 STF definiu os contornos constitucionais da aplicação da não-cumulatividade à contribuição ao PIS e à Cofins.
 

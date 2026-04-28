@@ -1,11 +1,12 @@
 ---
-title: "Como migrar para a nuvem? 5 passos simples para você começar hoje!"
+title: Como migrar para a nuvem? 5 passos simples para você começar hoje!
 date: 2022-12-22
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Technology
+- Technology
 ---
+
 
 **Como migrar para a nuvem? **Essa é uma pergunta que muitos empreendedores fazem no momento de escolher uma plataforma ou até mesmo iniciar o processo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara instaura comissão para analisar PEC sobre piso da enfermagem"
+title: Câmara instaura comissão para analisar PEC sobre piso da enfermagem
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Piso está suspenso pelo STF por indefinição de fontes de financiamento.
 

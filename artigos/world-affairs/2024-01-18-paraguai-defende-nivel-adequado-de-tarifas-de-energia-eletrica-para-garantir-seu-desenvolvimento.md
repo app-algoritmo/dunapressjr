@@ -1,11 +1,13 @@
 ---
-title: "Paraguai defende nível adequado de tarifas de energia elétrica para garantir seu desenvolvimento"
+title: Paraguai defende nível adequado de tarifas de energia elétrica para garantir
+  seu desenvolvimento
 date: 2024-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chefe do Ministério da Indústria e Comércio (MIC), Javier Giménez, revelou que o Paraguai propõe manter o valor da tarifa energética de Itaipu para este ano em um nível adequado, a fim de garantir a qualidade de vida do seu povo e, ao mesmo tempo, criar o maior fundo da história para projectos de infra-estruturas “que vão mudar a face do país”.
 

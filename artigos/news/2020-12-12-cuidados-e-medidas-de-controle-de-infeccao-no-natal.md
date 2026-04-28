@@ -1,11 +1,12 @@
 ---
-title: "Cuidados e medidas de controle de infecção no Natal"
+title: Cuidados e medidas de controle de infecção no Natal
 date: 2020-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Noruega comunicado de imprensa | Data: 12/02/2020| No: 165/20.
 

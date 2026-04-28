@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde vai ao ABC paulista enfrentar o São Caetano nesta segunda-feira (18)"
+title: Osasco São Cristóvão Saúde vai ao ABC paulista enfrentar o São Caetano nesta
+  segunda-feira (18)
 date: 2023-12-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar vai em busca da vitória para retomar seu lugar no G4 da Superliga 2023/24.
 

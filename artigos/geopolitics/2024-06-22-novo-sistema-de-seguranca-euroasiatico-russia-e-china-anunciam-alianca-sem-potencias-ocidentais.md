@@ -1,11 +1,13 @@
 ---
-title: "Novo Sistema de Segurança Euroasiático: Rússia e China Anunciam Aliança sem Potências Ocidentais"
+title: 'Novo Sistema de Segurança Euroasiático: Rússia e China Anunciam Aliança sem
+  Potências Ocidentais'
 date: 2024-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Rússia e China Anunciam Nova Arquitetura de Segurança para a Eurásia, Excluindo a OTAN**.
 

@@ -1,11 +1,12 @@
 ---
-title: "Plano Nacional de Educação tem relatório apresentado pelo Inep"
+title: Plano Nacional de Educação tem relatório apresentado pelo Inep
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O documento descreve o desenvolvimento das 20 metas do PNE por meio do acompanhamento de 57 indicadores. Nível médio de alcance está em 75%.
 

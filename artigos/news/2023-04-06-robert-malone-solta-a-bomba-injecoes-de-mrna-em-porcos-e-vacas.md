@@ -1,11 +1,12 @@
 ---
-title: "Robert Malone solta a bomba: Injeções de mRNA em porcos e vacas"
+title: Robert Malone solta a bomba: Injeções de mRNA em porcos e vacas
 date: 2023-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## “Antes de discutirmos as vacinas de mRNA para gado, animais domésticos e selvagens, devemos primeiro abordar o assunto em questão. Como é que o público tem acesso a informações sobre ensaios clínicos em humanos, mas não o mesmo para ensaios clínicos de saúde animal?” pergunta o Dr. Roberto Malone.
 

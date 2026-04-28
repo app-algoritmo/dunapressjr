@@ -1,11 +1,13 @@
 ---
-title: "O controle da IA pode ser semelhante às regras de não proliferação nuclear, diz Putin"
+title: O controle da IA pode ser semelhante às regras de não proliferação nuclear,
+  diz Putin
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “No campo da inteligência artificial, podemos alcançar soluções comuns aceitáveis ​​para todos e necessárias para todos”, prosseguiu o líder russo.
 

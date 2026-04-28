@@ -1,12 +1,13 @@
 ---
-title: "Visto de Chefe de Estado de Bolsonaro perde validade - extradição coercitiva?"
+title: Visto de Chefe de Estado de Bolsonaro perde validade - extradição coercitiva?
 date: 2023-01-11
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 .
 

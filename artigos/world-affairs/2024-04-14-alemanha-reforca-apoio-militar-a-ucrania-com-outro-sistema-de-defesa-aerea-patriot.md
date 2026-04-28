@@ -1,11 +1,13 @@
 ---
-title: "Alemanha reforça apoio militar à Ucrânia com outro sistema de defesa aérea Patriot"
+title: Alemanha reforça apoio militar à Ucrânia com outro sistema de defesa aérea
+  Patriot
 date: 2024-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Berlim, 13 de abril - O Ministério da Defesa alemão anunciou hoje que a Alemanha enviará em breve à Ucrânia mais um sistema de defesa aérea Patriot, como parte do apoio contínuo ao país em seu conflito com a Rússia. Este será o terceiro sistema entregue por Berlim, que já forneceu dois sistemas anteriores a Kiev.
 

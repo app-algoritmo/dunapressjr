@@ -1,11 +1,12 @@
 ---
-title: "Flávio Arns repudia Hamas e ataques a Israel"
+title: Flávio Arns repudia Hamas e ataques a Israel
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Flávio Arns (PSB-PR) disse repudiar o grupo palestino Hamas e os ataques cometidos contra o Estado de Israel. Em pronunciamento nesta terça-feira (14), o parlamentar afirmou que o Hamas tomou atitudes que “não podem ser compactuadas” e destacou que o grupo tem como objetivo aniquilar Israel. O senador também classificou o governo do Hamas na Faixa de Gaza como “terrorista”:
 

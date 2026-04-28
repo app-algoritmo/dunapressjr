@@ -1,11 +1,12 @@
 ---
-title: "Bairros de Itajaí, São Vicente, Cordeiros e Murta recebem o Cata Treco"
+title: Bairros de Itajaí, São Vicente, Cordeiros e Murta recebem o Cata Treco
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Cata Treco, programa da Secretaria Municipal de Obras, concentrará sua agenda em três localidades na próxima semana. Os atendimentos iniciam na segunda-feira (07) pelo bairro São Vicente e seguem por Cordeiros e Murta. O caminhão estará nas ruas até sexta-feira (11), das 7h30 às 11h30 e das 13h30 às 17h30.
 

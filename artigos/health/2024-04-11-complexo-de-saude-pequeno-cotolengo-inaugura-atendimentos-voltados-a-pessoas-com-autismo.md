@@ -1,11 +1,13 @@
 ---
-title: "Complexo de Saúde Pequeno Cotolengo inaugura atendimentos voltados a pessoas com autismo"
+title: Complexo de Saúde Pequeno Cotolengo inaugura atendimentos voltados a pessoas
+  com autismo
 date: 2024-04-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Fisioterapia, equoterapia, terapia ocupacional, fonoaudiologia e psicologia são as especialidades ofertadas neste primeiro momento. Tudo é 100% gratuito, via SUS curitibano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Relatório: Os clones são imperfeitos e detectáveis"
+title: 'Relatório: Os clones são imperfeitos e detectáveis'
 date: 2023-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Real Raw News.
 

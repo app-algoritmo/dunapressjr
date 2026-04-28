@@ -1,11 +1,13 @@
 ---
-title: "Para apoiar mercado de carbono para agricultura, parceria público-privada vai investir em pesquisas"
+title: Para apoiar mercado de carbono para agricultura, parceria público-privada vai
+  investir em pesquisas
 date: 2020-07-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As práticas de baixo carbono promovem o equilíbrio dos sistemas produtivos e podem gerar aumento de produtividade, em razão do manejo mais adequado.
 

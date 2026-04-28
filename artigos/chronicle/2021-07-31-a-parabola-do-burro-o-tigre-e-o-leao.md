@@ -1,11 +1,12 @@
 ---
-title: "A parábola do burro, o tigre e o leão"
+title: A parábola do burro, o tigre e o leão
 date: 2021-07-31
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 ## Parábola: A história de um burro, um tigre e um leão.
 

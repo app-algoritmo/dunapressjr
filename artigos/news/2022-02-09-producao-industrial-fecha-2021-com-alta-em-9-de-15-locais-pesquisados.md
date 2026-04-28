@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial fecha 2021 com alta em 9 de 15 locais pesquisados"
+title: Produção industrial fecha 2021 com alta em 9 de 15 locais pesquisados
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Destaques foram Santa Catarina, Minas Gerais e Paraná.
 

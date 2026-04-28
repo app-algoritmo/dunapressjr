@@ -1,12 +1,13 @@
 ---
-title: "Lave suas mãos por mim: entenda a importância da higienização correta"
+title: 'Lave suas mãos por mim: entenda a importância da higienização correta'
 date: 2023-05-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - News
+- Health
+- News
 ---
+
 
 ## O Complexo de Saúde Pequeno Cotolengo promove evento para mostrar como a lavagem das mãos traz benefícios para a saúde.* *
 

@@ -1,11 +1,12 @@
 ---
-title: "Itajaí conquista medalha de bronze no Troféu Brasil Caixa de Atletismo 2020"
+title: Itajaí conquista medalha de bronze no Troféu Brasil Caixa de Atletismo 2020
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O atleta Anderson Fagundes Ferreira conquistou, na manhã desta sexta-feira (11), a medalha de bronze na modalidade de lançamento de disco no Troféu Brasil Caixa de Atletismo. Com a marca 51,91m, Anderson ficou à frente do recordista Brasileiro e Sul-americano Ronald Julião, que ficou na quarta colocação com a marca de 51,69m. O atleta de Itajaí representa a equipe ACA/ FMEL / APM Terminals por meio da Fundação Municipal de Esporte e Lazer (FMEL).
 

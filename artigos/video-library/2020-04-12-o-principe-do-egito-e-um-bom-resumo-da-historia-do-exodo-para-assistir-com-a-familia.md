@@ -1,11 +1,13 @@
 ---
-title: "'O Príncipe do Egito' é um bom resumo da história do Éxodo para assistir com a família"
+title: '''O Príncipe do Egito'' é um bom resumo da história do Éxodo para assistir
+  com a família'
 date: 2020-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Domingo de Páscoa, não trago exatamente Jesus, mas algo que também simboliza a época que é de transformação. Na verdade, o êxodo dos hebreus é o motivo da comemoração da Páscoa pelos judeus, como Jesus. Era isso que ele estava comemorando com seus apóstolos antes de ser preso em Jerusalém. 
 

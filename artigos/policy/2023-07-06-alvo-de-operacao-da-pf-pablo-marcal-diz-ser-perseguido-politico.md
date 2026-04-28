@@ -1,11 +1,12 @@
 ---
-title: "Alvo de operação da PF, Pablo Marçal diz ser “perseguido político”"
+title: Alvo de operação da PF, Pablo Marçal diz ser “perseguido político”
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Coach teve as candidaturas à Presidência e à Câmara impugnadas.
 

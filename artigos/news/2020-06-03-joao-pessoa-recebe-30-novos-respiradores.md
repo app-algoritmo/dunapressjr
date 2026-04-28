@@ -1,11 +1,12 @@
 ---
-title: "João Pessoa recebe 30 novos respiradores"
+title: João Pessoa recebe 30 novos respiradores
 date: 2020-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O prefeito afirmou que a chegada dos respiradores fortalece rede de atendimento ao novo coronavírus.
 

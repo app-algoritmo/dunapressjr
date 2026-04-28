@@ -1,11 +1,12 @@
 ---
-title: "Estudo revisado por pares confirma: pico de mortes após vacinas"
+title: 'Estudo revisado por pares confirma: pico de mortes após vacinas'
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Uma carta publicada na revista revisada por pares *Medicine and Clinical Science *[afirma que](https://dailysceptic.org/2023/06/16/spike-in-deaths-corresponding-to-covid-vaccine-rollout-found-in-peer-reviewed-analysis-of-japan-and-germany/) a razão pela qual as mortes súbitas aumentaram dramaticamente após o lançamento da Operação Warp Speed ​​em dezembro de 2020 é devido ao rápido lançamento do coronavírus Wuhan (Covid-19) "vacinas."
 

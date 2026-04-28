@@ -1,11 +1,12 @@
 ---
-title: "Polícia é acionada por ameaça de bomba na sede do STF"
+title: Polícia é acionada por ameaça de bomba na sede do STF
 date: 2022-12-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## O Batalhão de Operações Especiais da PMDF está no local. Caso é o sétimo registrado no DF desde a última sexta-feira (23/12).
 

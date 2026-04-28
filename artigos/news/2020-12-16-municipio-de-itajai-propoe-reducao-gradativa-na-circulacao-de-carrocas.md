@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí propõe redução gradativa na circulação de carroças"
+title: Município de Itajaí propõe redução gradativa na circulação de carroças
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí pretende reduzir de forma gradativa a circulação de carroças na zona urbana da cidade. O Projeto de Lei Ordinária nº 259/2019, que tramitará na Câmara de Vereadores a partir desta semana, estabelece um prazo de dois anos para a proibição em definitivo de veículos de tração animal. De autoria da vereadora Renato Narcizo (SD), a proposta, que busca coibir maus-tratos a animais, também prevê a capacitação profissional para carroceiros e coletores de materiais recicláveis.
 

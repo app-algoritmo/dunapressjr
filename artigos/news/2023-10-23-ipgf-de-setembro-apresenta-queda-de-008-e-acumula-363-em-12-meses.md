@@ -1,11 +1,12 @@
 ---
-title: "IPGF de setembro apresenta queda de 0,08% e acumula 3,63% em 12 meses"
+title: IPGF de setembro apresenta queda de 0,08% e acumula 3,63% em 12 meses
 date: 2023-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Preços dos Gastos Familiares apresenta dados da FGV/Ibre e destaca a influência das substituições de consumo na inflação.
 

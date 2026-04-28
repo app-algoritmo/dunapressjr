@@ -1,11 +1,13 @@
 ---
-title: "Governo do Amapá lança edital para leilão de abastecimento de água e esgotamento sanitário"
+title: Governo do Amapá lança edital para leilão de abastecimento de água e esgotamento
+  sanitário
 date: 2021-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O documento representa grande avanço por ser o primeiro a englobar todos os municípios de um estado da Federação, permitindo a universalização do serviço em todo o território estadual.
 

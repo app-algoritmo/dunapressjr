@@ -1,11 +1,13 @@
 ---
-title: "PEC que limita decisões individuais em tribunais foi histórica, diz Esperidião Amin"
+title: PEC que limita decisões individuais em tribunais foi histórica, diz Esperidião
+  Amin
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Esperidião Amin (PP-SC) destacou o marco de uma semana da aprovação do Senado à [PEC 8/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148030), que limita decisões monocráticas (individuais) no Supremo Tribunal Federal (STF) e nos demais tribunais. Em pronunciamento nesta terça-feira (28), o parlamentar classificou a votação como histórica.
 

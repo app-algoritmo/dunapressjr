@@ -1,11 +1,12 @@
 ---
-title: "Manifestantes associados ao Black Lives Matter cantam canções anti-Israel"
+title: Manifestantes associados ao Black Lives Matter cantam canções anti-Israel
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os manifestantes ligaram o movimento Black Lives Matter à causa palestina durante um protesto pró-palestino em Washington na quarta-feira. Eles cantaram: "Israel, nós conhecemos você, você mata crianças também. "
 

@@ -1,11 +1,12 @@
 ---
-title: "Festival de Bike Street e Super Spine é atração em Cotia (SP)"
+title: Festival de Bike Street e Super Spine é atração em Cotia (SP)
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 As bikes vão invadir o Parque Teresa Maia, em Cotia (SP), neste mês de dezembro. Entre os dias 9 e 11, o Festival de Bike Street e Super Spine promete muita disputa e adrenalina para os participantes nas pistas montadas para o evento. Assim como para o público que estará acompanhando das arquibancadas e poderá também testar a pista nos horários que não houver competição. O Festival Bike 2022 é uma competição Open, aberta para profissionais e amadores disputarem juntos. 
 

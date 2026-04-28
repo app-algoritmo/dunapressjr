@@ -1,12 +1,13 @@
 ---
-title: "Dona Leopoldina e seu papel na independência do Brasil"
+title: Dona Leopoldina e seu papel na independência do Brasil
 date: 2022-09-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
-  - News
+- History
+- News
 ---
+
 
 No dia 02 de setembro 1822, a princesa dona Maria Leopoldina assina o decreto da Independência do Brasil, cinco dias antes do príncipe dom Pedro proclamar a nossa independência. O Brasil viveu um momento histórico em um dia como hoje, no ano de 1822. Nesta data, Maria Leopoldina, então princesa regente do Brasil por conta de uma ausência de Dom Pedro, assinou o decreto da Independência, declarando o Brasil separado de Portugal. Ela usou seus atributos de chefe interina do governo para fazer uma reunião com o Conselho de Estado, ocasião em que o documento foi assinado.
 

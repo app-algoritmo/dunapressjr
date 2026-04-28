@@ -1,11 +1,12 @@
 ---
-title: "Primeira cirurgia gravada em 360º no Brasil é de hospital baiano da Rede Ebserh"
+title: Primeira cirurgia gravada em 360º no Brasil é de hospital baiano da Rede Ebserh
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Hospital Universitário Professor Edgard Santos (Hupes/UFBA), ligado à Empresa Brasileira de Recursos Hospitalares (Ebserh), vinculada ao Ministério da Educação, foi destaque no Congresso Paulista de Urologia. Durante o evento, o médico e coordenador da Endourologia e Litíase Urinária do Hupes, Fábio Sepúlveda, apresentou a primeira cirurgia gravada em 360º no Brasil. Com a crise de Covid-19 e a restrição no número de pessoas no centro clínico, a técnica possibilita que os profissionais da saúde continuem acompanhando procedimentos de vários ângulos, mesmo por vídeo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Caixa reduz taxa de juros para financiamento imobiliário"
+title: Caixa reduz taxa de juros para financiamento imobiliário
 date: 2022-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nova taxa é válida para modalidade poupança.
 

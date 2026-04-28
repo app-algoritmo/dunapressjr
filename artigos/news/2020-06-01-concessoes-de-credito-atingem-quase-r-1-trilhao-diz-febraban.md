@@ -1,11 +1,12 @@
 ---
-title: "Concessões de crédito atingem quase R$ 1 trilhão, diz Febraban"
+title: Concessões de crédito atingem quase R$ 1 trilhão, diz Febraban
 date: 2020-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Taxa de juros recuou de 23,1% para 21,5% ao ano.
 

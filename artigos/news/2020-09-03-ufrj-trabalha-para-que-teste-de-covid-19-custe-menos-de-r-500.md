@@ -1,11 +1,12 @@
 ---
-title: "UFRJ trabalha para que teste de COVID-19 custe menos de R$ 5,00"
+title: UFRJ trabalha para que teste de COVID-19 custe menos de R$ 5,00
 date: 2020-09-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia (Coppe) e o Instituto de Biofísica Carlos Chagas Filho (IBCCF), ambos da UFRJ, desenvolveram um novo teste sorológico para detecção de anticorpos para a COVID-19. Chamado de S-UFRJ, o teste, desenvolvido sob a coordenação dos cientistas Leda Castilho (Coppe) e André Vale (IBCCF),  custará menos que R$ 5.
 

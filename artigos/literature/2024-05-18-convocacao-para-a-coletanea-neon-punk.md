@@ -1,11 +1,12 @@
 ---
-title: "Convocação para a Coletânea 'Neon Punk'"
+title: Convocação para a Coletânea 'Neon Punk'
 date: 2024-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 Em meio ao frenesi eletrônico da cidade, onde néons brilham como estrelas artificiais e as ruas pulsam com a batida incessante da tecnologia, a DragonStone Books tem a ousadia de convocar você para mergulhar nas entranhas de "Neon Punk". Esta coletânea explorará os recantos sombrios e eletrizantes do gênero Cyber Punk, convidando os autores a desvendar os mistérios e perigos que residem sob o fulgor neon da noite.
 
