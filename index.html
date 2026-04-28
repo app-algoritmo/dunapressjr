@@ -375,9 +375,38 @@
             #newsletter .px-8 { padding-left: 16px !important; padding-right: 16px !important; }
         }
 
-      @media (max-width: 480px) {
+     @media (max-width: 480px) {
     .search-wrapper { display: none !important; }
     .header-right { gap: 6px !important; }
+}
+
+/* Overlay de busca mobile */
+#mobileSearchOverlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,14,26,0.97);
+    z-index: 200;
+    flex-direction: column;
+    padding: 16px;
+}
+#mobileSearchOverlay.open { display: flex; }
+#mobileSearchInput {
+    width: 100%;
+    padding: 14px 48px 14px 16px;
+    background: rgba(30,41,59,0.8);
+    border: 1px solid rgba(224,101,82,0.4);
+    border-radius: 12px;
+    color: #e2e8f0;
+    font-size: 16px;
+    outline: none;
+}
+#mobileSearchInput::placeholder { color: #64748b; }
+#mobileSearchResults {
+    flex: 1;
+    overflow-y: auto;
+    margin-top: 12px;
+    -webkit-overflow-scrolling: touch;
 }
 
 /* Overlay de busca mobile */
