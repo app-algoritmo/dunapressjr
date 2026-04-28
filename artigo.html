@@ -593,7 +593,6 @@ async function loadArticle(){
         // Load random suggestions from search-index
         loadErrorSuggestions();
     }
-}
 function shareArticle(p){const url=window.location.href,title=document.getElementById('artTitle').textContent;const t=encodeURIComponent(title+' — Duna Press'),eu=encodeURIComponent(url);if(p==='copy')navigator.clipboard.writeText(url).then(()=>showToast('🔗 Link copiado!')).catch(()=>prompt('Copiar:',url));else if(p==='whatsapp')window.open(`https://wa.me/?text=${t}%20${eu}`,'_blank');else if(p==='twitter')window.open(`https://x.com/intent/tweet?text=${t}&url=${eu}`,'_blank');}
 async function handleSidebarNewsletter(event) {event.preventDefault();const email = document.getElementById('sidebarEmail').value.trim();const btn = document.getElementById('sidebarNewsBtn');const msg = document.getElementById('sidebarNewsMsg');btn.disabled = true; btn.textContent = '...';try {const { error } = await _supabase.from('newsletter').insert([{ email }]);if (error && error.code !== '23505') throw error;msg.classList.remove('hidden');document.getElementById('sidebarNewsletterForm').classList.add('hidden');} catch(e) {btn.disabled = false; btn.textContent = 'Inscrever-se';showToast('Erro ao inscrever. Tente novamente.', 'error');}}
 let toastTimer;
@@ -623,7 +622,6 @@ async function loadErrorSuggestions() {
     } catch(e) {
         el.innerHTML = '<p class="text-slate-500 text-sm col-span-2">Não foi possível carregar sugestões.</p>';
     }
-}
 
 loadArticle();
 </script>
